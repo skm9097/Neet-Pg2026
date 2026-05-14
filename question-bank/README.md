@@ -1,87 +1,67 @@
 # NEET-PG Question Bank
 
-Recall-based question collection organized by year and subject. Questions are contributed from memory by candidates after each exam sitting — no copyrighted content is reproduced here.
+Recall-based NEET-PG questions reformatted as study notes, organised by year. See [`ATTRIBUTION.md`](ATTRIBUTION.md) for source and usage notice.
 
 ## Folder Structure
 
 ```
 question-bank/
-├── template.md          ← Copy this when adding questions
+├── ATTRIBUTION.md          Source attribution & use notice
+├── template.md             Schema for adding new questions
+├── 2025/
+│   ├── index.md            Year overview
+│   └── questions.md        Compiled recall questions, grouped by subject
 ├── 2024/
-│   ├── index.md         ← Year summary (total Qs, subject-wise count)
-│   ├── anatomy.md
-│   ├── physiology.md
-│   └── ...
+│   ├── index.md
+│   └── questions.md
 ├── 2023/
-└── ...
+│   ├── index.md
+│   └── questions.md
+├── ...
+└── 2015/                   (scaffold only — no public recall set)
+    └── index.md
 ```
 
-## Question Schema
+Compiled `questions.md` files currently exist for **2019–2025**. The 2015–2018
+folders contain scaffolded `index.md` only.
 
-Each subject file is a flat list of questions using this format:
+## Question Format
+
+Each question uses a collapsible answer block — answers stay hidden until you
+click, so a single file works as a self-test:
 
 ~~~markdown
-## Q{n} — {Short topic label}
+### Q1 — Short topic label
 
-> **Subject:** Anatomy | **Year:** 2024 | **Difficulty:** Medium | **Repeat:** No
-
-{Question stem — clinical vignette or direct concept question}
+Question stem here.
 
 - A. Option one
 - B. Option two
 - C. Option three
 - D. Option four
 
-<details>
-<summary>Answer</summary>
+<details><summary>Answer</summary>
 
-**Correct Answer: B**
-
-**Explanation:** One or two sentences explaining the correct answer.
-
-**High-Yield Fact:** The single most important takeaway from this question.
+**B. Option two** — One-line mechanism / high-yield fact.
 
 </details>
-
----
 ~~~
 
-Use `<details>` so the answer is hidden by default while studying.
+Within a year file, questions are grouped under `## Subject` headings.
 
-## Subjects Covered (NBE NEET-PG Curriculum)
+## How to Study
 
-| Code | Subject |
-|------|---------|
-| AN | Anatomy |
-| PY | Physiology |
-| BI | Biochemistry |
-| PA | Pathology |
-| MI | Microbiology |
-| PH | Pharmacology |
-| FM | Forensic Medicine & Toxicology |
-| CM | Community Medicine (PSM) |
-| GM | General Medicine |
-| GS | General Surgery |
-| OG | Obstetrics & Gynaecology |
-| PE | Paediatrics |
-| OR | Orthopaedics |
-| EN | ENT |
-| OP | Ophthalmology |
-| DV | Dermatology & Venereology |
-| PS | Psychiatry |
-| RD | Radiology & Imaging |
-| AN2 | Anaesthesia |
+- Open `2024/questions.md` (or any year).
+- Read the stem; pick your answer mentally.
+- Click "Answer" to reveal.
+- Use the year `index.md` to track which year you've covered.
 
-## Contributing
+## Adding More Questions
 
-1. Copy `template.md` into the correct `{year}/{subject}.md` file.
-2. Add questions at the bottom of the file, incrementing the question number.
-3. Mark `**Repeat: Yes**` if the same concept appeared in a prior year.
-4. Keep explanations concise — one mechanism, one key fact.
-5. Open a PR against `main`; the `claude/` prefix branches are for automated work.
+Use [`template.md`](template.md) as a starting block. Drop new questions into
+the relevant year's `questions.md` under the right subject heading. Renumber
+within the section. Keep explanations one or two lines.
 
-## Naming Conventions
+## Subjects (NBE NEET-PG Curriculum)
 
-Subject file names (lowercase, hyphenated):
-
-`anatomy.md` · `physiology.md` · `biochemistry.md` · `pathology.md` · `microbiology.md` · `pharmacology.md` · `forensic-medicine.md` · `community-medicine.md` · `general-medicine.md` · `general-surgery.md` · `obs-gynae.md` · `paediatrics.md` · `orthopaedics.md` · `ent.md` · `ophthalmology.md` · `dermatology.md` · `psychiatry.md` · `radiology.md` · `anaesthesia.md`
+Anatomy · Physiology · Biochemistry · Pathology · Microbiology · Pharmacology · Forensic Medicine & Toxicology · Community Medicine (PSM) · General Medicine · General Surgery · Obstetrics & Gynaecology · Paediatrics · Orthopaedics · ENT · Ophthalmology · Dermatology · Psychiatry · Radiology · Anaesthesia
