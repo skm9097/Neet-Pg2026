@@ -7,38 +7,47 @@ Recall-based NEET-PG questions reformatted as study notes, organised by year. Se
 ```
 question-bank/
 ├── ATTRIBUTION.md          Source attribution & use notice
+├── STUDY-PLAN.md           Suggested study schedule + how to use this repo
 ├── template.md             Schema for adding new questions
-├── subject-wise/           Multi-year pools grouped by subject (192 Qs)
+├── subject-wise/           Multi-year pools across all 19 subjects (~400 Qs)
 │   ├── README.md
-│   ├── anatomy.md
-│   ├── biochemistry.md
-│   ├── community-medicine.md
-│   ├── dermatology.md
-│   ├── ent.md
-│   ├── medicine.md
-│   ├── microbiology.md
-│   ├── pathology.md
-│   ├── pediatrics.md
-│   ├── psychiatry.md
-│   └── surgery.md
-├── 2025/
-│   ├── index.md            Year overview
-│   └── questions.md        All 200 NEET-PG 2025 recall questions
-├── 2024/
-│   ├── index.md
-│   └── questions.md
-├── 2023/
-│   ├── index.md
-│   └── questions.md
-├── ...
-└── 2015/                   (scaffold only — no public recall set)
-    └── index.md
+│   ├── anaesthesia.md       (27 Qs)
+│   ├── anatomy.md           (20 Qs)
+│   ├── biochemistry.md      (20 Qs)
+│   ├── community-medicine.md (20 Qs)
+│   ├── dermatology.md       (20 Qs)
+│   ├── ent.md               (20 Qs)
+│   ├── forensic-medicine.md (35 Qs)
+│   ├── medicine.md          (20 Qs)
+│   ├── microbiology.md      (20 Qs)
+│   ├── obstetrics-gynaecology.md (30 Qs)
+│   ├── ophthalmology.md     (15 Qs)
+│   ├── orthopaedics.md      (40 Qs)
+│   ├── pathology.md         (18 Qs)
+│   ├── pediatrics.md        (14 Qs)
+│   ├── pharmacology.md      (10 Qs)
+│   ├── physiology.md        (16 Qs)
+│   ├── psychiatry.md        (20 Qs)
+│   ├── radiology.md         (15 Qs)
+│   └── surgery.md           (20 Qs)
+├── 2025/questions.md       All 200 NEET-PG 2025 recall questions
+├── 2024/questions.md       40 Qs (recall)
+├── 2023/questions.md       35 Qs (recall)
+├── 2022/questions.md       29 Qs (recall)
+├── 2021/questions.md       36 Qs (recall)
+├── 2020/questions.md       36 Qs (recall)
+├── 2019/questions.md       22 Qs (recall, truncated source)
+└── 2015–2018/              index.md only (PDF source links provided)
 ```
 
-Compiled `questions.md` files currently exist for **2019–2025**. The 2025 file
-contains the complete 200-question paper. The `subject-wise/` folder has ~192
-questions spanning 2019–2024 across 11 subjects. The 2015–2018 folders contain
-scaffolded `index.md` only (no public HTML recall sets found for those years).
+**Current totals:**
+- **Year-wise:** ~400 questions (2019–2025, with full 200 for 2025)
+- **Subject-wise:** ~400 questions across all 19 NBE subjects
+- **Combined unique:** ~700 distinct questions
+
+**Gaps (with sources):** 2015–2018 papers exist only as PDFs at
+medicoholic.com, nishantbhushan.in, and Oncourse AI — links provided in each
+year's `index.md`. Manual download required.
 
 ## Question Format
 
