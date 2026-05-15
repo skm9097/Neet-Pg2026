@@ -470,3 +470,92 @@ Postmortem: ligature completely encircles neck, horizontal, below thyroid, no sa
 </details>
 
 ---
+
+---
+
+## Anatomy
+
+### Q30 — Ventral mesentery derivative *(image-based)*
+
+Image shows structure marked A (ventral mesentery) in an embryo section. Structure marked A gives rise to which of the following?
+
+- A. Gastrosplenic ligament
+- B. Lienorenal ligament
+- C. Falciform ligament
+- D. Gastrophrenic ligament
+
+<details><summary>Answer</summary>
+
+**C. Falciform ligament** — Ventral mesentery derivatives: falciform ligament, lesser omentum (hepatogastric + hepatoduodenal), right/left triangular ligaments, coronary ligament. Dorsal mesentery derivatives: greater omentum, gastrosplenic ligament, lienorenal ligament, mesentery proper, mesocolon.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2022 | OPTIONS_GENERATED: false -->
+
+### Q31 — Varicose vein surgery — nerve injury
+
+Patient underwent surgery for varicose veins. Now complains of sensory loss over the medial aspect of the leg and foot. Nerve most likely injured?
+
+- A. Sural nerve
+- B. Superficial peroneal nerve
+- C. Deep peroneal nerve
+- D. Saphenous nerve
+
+<details><summary>Answer</summary>
+
+**D. Saphenous nerve** — Saphenous nerve runs alongside the great saphenous vein → commonly injured during varicose vein surgery or GSV harvest. Sural nerve (lateral foot/5th toe) accompanies small saphenous vein → injured in small saphenous vein surgery. Superficial peroneal = dorsum of foot (not medial leg).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2022 | OPTIONS_GENERATED: false -->
+
+### Q32 — Fibrocartilage *(image-based)*
+
+Image shows histological section with prominent collagen fibres arranged in bundles with intervening rows of chondrocytes and no perichondrium. Type of cartilage?
+
+- A. Hyaline cartilage
+- B. Articular hyaline cartilage
+- C. Yellow (elastic) cartilage
+- D. White fibrocartilage
+
+<details><summary>Answer</summary>
+
+**D. White fibrocartilage** — Fibrocartilage: type I + type II collagen (thick), NO perichondrium, fibroblasts + chondrocytes, DOES calcify during bone repair. Sites: intervertebral discs, menisci, pubic symphysis, TMJ disc, sternoclavicular disc, glenoid/acetabular labrum, lining of bony grooves for tendons.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2022 | OPTIONS_GENERATED: false -->
+
+### Q33 — Trigeminal nerve — clinical feature *(image-based)*
+
+Patient with unilateral throbbing headache, photophobia, excessive lacrimation, and hemifacial pain on clenching. Pupillary and accommodation reflexes are normal. Image marks the involved cranial nerve as structure "3". Which nerve?
+
+- A. Facial nerve (VII)
+- B. Trigeminal nerve (V)
+- C. Oculomotor nerve (III)
+- D. Abducens nerve (VI)
+
+<details><summary>Answer</summary>
+
+**B. Trigeminal nerve (V)** — Hemifacial pain on jaw clenching + headache with intact pupillary reflex = trigeminal neuralgia or trigeminal-autonomic cephalalgia. CN V mediates facial sensation and motor to muscles of mastication. Normal pupillary reflex excludes CN III involvement.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2022 | OPTIONS_GENERATED: false -->
+
+### Q34 — Pancreatic islet cells *(image-based)*
+
+Image shows histological section with clusters of pale-staining cells in an island surrounded by acinar tissue. Structure identified?
+
+- A. Hassall's corpuscles
+- B. Glomerulus
+- C. Spleen white pulp
+- D. Pancreatic islet cells (Islets of Langerhans)
+
+<details><summary>Answer</summary>
+
+**D. Pancreatic islet cells (Islets of Langerhans)** — Islets of Langerhans = endocrine pancreas (~1–2 million islets); cell types: α (glucagon, 20%), β (insulin, 70%), δ (somatostatin), PP (pancreatic polypeptide). Richly vascularized, scattered throughout pancreas (more in tail). Hassall's corpuscles = thymus.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2022 | OPTIONS_GENERATED: false -->

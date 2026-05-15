@@ -566,3 +566,143 @@ Best sign indicating adequate infant growth with birth weight 2.8 kg?
 </details>
 
 ---
+
+---
+
+## Anatomy
+
+### Q36 — Deep inguinal ring — defect in *(image-based)*
+
+Image marks the deep inguinal ring. A defect in which of the following forms this structure?
+
+- A. Internal oblique muscle
+- B. External oblique muscle
+- C. Parietal peritoneum
+- D. Fascia transversalis
+
+<details><summary>Answer</summary>
+
+**D. Fascia transversalis** — Deep inguinal ring = oval defect in fascia transversalis, 1.25 cm above the midpoint of inguinal ligament, lateral to inferior epigastric vessels. Superficial inguinal ring = defect in external oblique aponeurosis. Indirect hernia passes through deep ring → inguinal canal → superficial ring.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
+
+### Q37 — TMJ articular disc — muscle attached
+
+Patient had jaw locked while yawning. Which muscle is attached to the articular disc of the temporomandibular joint?
+
+- A. Lateral pterygoid
+- B. Temporalis
+- C. Medial pterygoid
+- D. Masseter
+
+<details><summary>Answer</summary>
+
+**A. Lateral pterygoid** — Lateral pterygoid: upper head attaches to articular disc + capsule; lower head to neck of condyle. Its contraction pulls disc + condyle forward (protrusion + mouth opening). TMJ dislocation/locking during yawning = condyle slips anterior to articular eminence; repositioned by downward + backward pressure on mandible.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
+
+### Q38 — Glomerulus *(image-based)*
+
+Image shows histological section with a rounded tuft of anastomosing capillaries lined by fenestrated endothelium, supported by mesangium. Structure identified?
+
+- A. Hassall's corpuscle
+- B. Pancreatic islet cells
+- C. Spleen red pulp
+- D. Glomerulus
+
+<details><summary>Answer</summary>
+
+**D. Glomerulus** — Glomerulus: rounded tuft of capillaries lined by fenestrated endothelium; supported by mesangium (mesangial cells + matrix). Filtering membrane = fenestrated endothelium + GBM + podocytes (foot processes). Bowman's capsule surrounds the glomerulus. Podocyte loss → proteinuria (minimal change disease).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
+
+### Q39 — Neck of fibula injury — consequence *(image-based)*
+
+Image shows the course of the common peroneal nerve. Injury at site marked "3" (neck of fibula) causes failure of:
+
+- A. Dorsiflexion (foot drop)
+- B. Plantarflexion
+- C. Inversion
+- D. Knee flexion
+
+<details><summary>Answer</summary>
+
+**A. Dorsiflexion (foot drop)** — Common peroneal nerve (L4, L5, S1) winds around fibular neck → most common site of injury (due to superficial course). Supplies deep peroneal (dorsiflexors: tibialis anterior, EHL, EDL) + superficial peroneal (evertors: peroneus longus + brevis). Injury → foot drop + sensory loss over dorsum of foot.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
+
+### Q40 — Patent ductus arteriosus — aortic arch defect *(image-based)*
+
+Image shows patent ductus arteriosus. A defect in which of the following aortic arches causes this?
+
+- A. 4th right
+- B. 4th left
+- C. 6th right
+- D. 6th left
+
+<details><summary>Answer</summary>
+
+**D. 6th left** — Left 6th aortic arch → proximal left pulmonary artery + ductus arteriosus. PDA = failure of ductus arteriosus to close after birth (normally closes within 10–15 hours functionally, 2–3 weeks anatomically). Right 6th arch → proximal right pulmonary artery (ductus does NOT persist on right).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
+
+### Q41 — Allantois derivative *(image-based)*
+
+Image marks structure A (allantois) in embryo. Structure A gives rise to which of the following?
+
+- A. Medial umbilical ligament
+- B. Median umbilical ligament
+- C. Meckel's diverticulum
+- D. Ligamentum teres
+
+<details><summary>Answer</summary>
+
+**B. Median umbilical ligament** — Allantois → distal portion = urachus → obliterates postnatally = median umbilical ligament (single, midline). Medial umbilical ligaments (paired) = obliterated umbilical arteries. Ligamentum teres = obliterated umbilical vein (left). Meckel's diverticulum = remnant of vitello-intestinal duct.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
+
+### Q42 — Portal hypertension — portosystemic anastomosis
+
+Patient with abdominal pain, jaundice, and portal hypertension. Anastomosis between which of the following veins is seen?
+
+- A. Left colic vein and middle colic vein
+- B. Esophageal veins and left gastric vein
+- C. Superior rectal and phrenic veins
+- D. Sigmoid and superior rectal veins
+
+<details><summary>Answer</summary>
+
+**B. Esophageal veins and left gastric vein** — Portal hypertension → porto-systemic anastomoses dilate: left gastric (portal) ↔ esophageal veins (azygos/systemic) = esophageal varices (most dangerous, risk of rupture). Other sites: superior rectal ↔ inferior/middle rectal (rectal varices); paraumbilical ↔ epigastric (caput medusae); retroperitoneal (Retzius) veins.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
+
+### Q43 — Parotid region pain — nerve responsible
+
+Patient presents with swelling under the left ear lobule (parotid region) and complains of pain. Most likely cause of pain?
+
+- A. Facial nerve
+- B. Greater auricular nerve
+- C. Auriculotemporal nerve
+- D. Investing layer of cervical fascia
+
+<details><summary>Answer</summary>
+
+**B. Greater auricular nerve** — Greater auricular nerve (C2, C3) provides sensory supply to the parotid gland region, lower face, and angle of jaw. Acute parotid inflammation (sialadenitis, mumps) → capsule stretching → stimulation of greater auricular nerve → pain. Facial nerve is motor (within parotid) but not the cause of pain. Auriculotemporal = mainly TMJ and temporal area.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->

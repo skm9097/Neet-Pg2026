@@ -580,3 +580,296 @@ Most common drug causing physical dependence?
 </details>
 
 ---
+
+---
+
+## Anatomy
+
+### Q37 — Anatomical snuffbox — lateral boundary
+
+Which of the following forms the lateral boundary of the anatomical snuffbox?
+
+- A. Extensor pollicis brevis and abductor pollicis longus
+- B. Extensor pollicis longus and abductor pollicis brevis
+- C. Extensor pollicis longus and extensor pollicis brevis
+- D. Abductor pollicis longus and abductor pollicis brevis
+
+<details><summary>Answer</summary>
+
+**A. Extensor pollicis brevis and abductor pollicis longus** — Anatomical snuffbox boundaries: lateral = APL + EPB; medial = EPL; roof = cephalic vein + superficial radial nerve; floor = radial styloid, scaphoid, trapezium, 1st metacarpal. Only content = radial artery (palpated here for Allen's test).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q38 — Cerebellum histology — cell identification *(image-based)*
+
+Image shows histological section of cerebellum with flask-shaped cells in a single layer. Cells identified?
+
+- A. Purkinje cells
+- B. Basket cells
+- C. Golgi cells
+- D. Granule cells
+
+<details><summary>Answer</summary>
+
+**A. Purkinje cells** — Purkinje cells: large flask-shaped cells in single Purkinje cell layer between molecular and granular layers; GABAergic (inhibitory); receive input from climbing fibers (inferior olive) and parallel fibers; sole output of cerebellar cortex → inhibit deep cerebellar nuclei.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q39 — Facial nerve trunk — NOT an identification landmark
+
+Which of the following is NOT used for identification of the facial nerve trunk?
+
+- A. Retrograde dissection from distal branch
+- B. Tragal pointer (Conley's pointer)
+- C. Inferior belly of omohyoid muscle
+- D. Posterior belly of digastric
+
+<details><summary>Answer</summary>
+
+**C. Inferior belly of omohyoid muscle** — Facial nerve trunk landmarks: Tragal pointer (1 cm deep and inferior to tip), posterior belly of digastric (nerve lies superior to upper border), squamotympanic fissure, styloid process (nerve is superficial), mastoid (proximal identification by drilling). Retrograde = trace distal branches proximally. Omohyoid has no relation to facial nerve.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q40 — Fetal circulation — false statement
+
+Which of the following is a FALSE statement about fetal circulatory adjustments at birth?
+
+- A. Anatomical closure of foramen ovale occurs within 3–5 days
+- B. Anatomical closure of ductus venosus occurs within 10–15 hours
+- C. Right umbilical vein is absent (left persists as ligamentum teres)
+- D. Anatomical closure of ductus arteriosus occurs by 2–3 weeks
+
+<details><summary>Answer</summary>
+
+**A. Anatomical closure of foramen ovale occurs within 3–5 days** — Foramen ovale closes functionally at birth (increased LA pressure) but anatomical closure takes **months to years** (complete in ~75% by age 2). Ductus arteriosus: functional closure within 10–15 hours, anatomical closure by 10–21 days. Ductus venosus closes anatomically within 2–3 weeks.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q41 — Uncinate process of pancreas — vessel affected
+
+A tumor of the uncinate process of the pancreas affects which of the following vessels?
+
+- A. Superior mesenteric artery
+- B. Portal vein
+- C. Common hepatic artery
+- D. Inferior mesenteric artery
+
+<details><summary>Answer</summary>
+
+**A. Superior mesenteric artery** — The uncinate process hooks posteriorly behind the superior mesenteric artery (SMA) and in front of the aorta. The SMA arises from aorta behind the pancreatic neck, then runs in front of uncinate process. Tumor here → vascular involvement of SMA → unresectability criterion.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q42 — Ataxia and incoordination — arterial occlusion
+
+A patient presents with ataxia and incoordination. This is due to thrombosis of which artery?
+
+- A. Posterior cerebral artery
+- B. Middle cerebral artery
+- C. Internal carotid artery
+- D. Superior cerebellar artery
+
+<details><summary>Answer</summary>
+
+**D. Superior cerebellar artery** — SCA thrombosis → cerebellar lesion → ataxia, incoordination, nystagmus. Cerebellar blood supply: SCA (superior surface), PICA (inferior medial), AICA (inferior lateral). PICA occlusion → lateral medullary syndrome (Wallenberg). SCA occlusion → cerebellar hemispheric infarct.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q43 — Thyroid swelling — upward extension prevented by
+
+Which structure prevents the upward extension of thyroid swelling through its attachment to the thyroid cartilage?
+
+- A. Pretracheal fascia
+- B. Sternothyroid muscle
+- C. Thyrohyoid membrane
+- D. Ligament of Berry
+
+<details><summary>Answer</summary>
+
+**B. Sternothyroid muscle** — Sternothyroid (and sternohyoid) attach to the thyroid cartilage oblique line, preventing upward extension of goitre. Pretracheal fascia encircles gland and attaches to larynx → causes thyroid to move on swallowing. Ligament of Berry → prevents downward descent into mediastinum.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q44 — Claw hand — intrinsic muscle involvement
+
+A patient presents with extension of MCP joint and flexion of IP joints. Which muscle is affected?
+
+- A. Extensor digitorum
+- B. Interossei and lumbricals
+- C. Abductor pollicis longus
+- D. Abductor pollicis brevis
+
+<details><summary>Answer</summary>
+
+**B. Interossei and lumbricals** — Normally, lumbricals + interossei flex MCP + extend IP joints via dorsal digital expansion. Ulnar nerve palsy → loss of medial two lumbricals + all interossei → MCP hyperextension + IP flexion = claw hand (more pronounced in ring + little fingers = "ulnar claw").
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q45 — Meiosis — site
+
+Meiosis occurs in:
+
+- A. Adrenal gland
+- B. Adult ovary
+- C. Prepubertal testis
+- D. Hypothalamus
+
+<details><summary>Answer</summary>
+
+**B. Adult ovary** — Meiosis occurs in germ cells: oogonia in fetal ovary begin meiosis I but arrest at prophase I (diplotene) until puberty; completed at ovulation (meiosis I) and after fertilization (meiosis II). In males, meiosis begins at puberty in spermatocytes. Prepubertal testis → only mitosis in spermatogonia.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q46 — Long left recurrent laryngeal nerve — aortic arch
+
+The long left recurrent laryngeal nerve is due to the persistence of which arch artery?
+
+- A. 3rd arch
+- B. 4th arch
+- C. 5th arch
+- D. 6th arch
+
+<details><summary>Answer</summary>
+
+**D. 6th arch** — Left 6th arch artery persists as ductus arteriosus. Laryngeal nerves arise below the 6th arch artery; as the heart descends the left nerve is hooked under the persistent left 6th arch (ductus arteriosus/ligamentum arteriosum), making it longer. Right 4th arch persists → right subclavian → right RLN loops around right subclavian.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q47 — Rhomboid muscles — nerve supply *(image-based)*
+
+Image shows posterior muscle anatomy with an arrow on the rhomboid major/minor. Nerve supply:
+
+- A. Dorsal scapular nerve
+- B. Suprascapular nerve
+- C. From dorsal rami of C1
+- D. Subscapular nerve
+
+<details><summary>Answer</summary>
+
+**A. Dorsal scapular nerve** — Dorsal scapular nerve (C5, from roots of brachial plexus) supplies: rhomboid major, rhomboid minor, and levator scapulae. Suprascapular nerve → supraspinatus + infraspinatus. Thoracodorsal → latissimus dorsi. Accessory nerve → trapezius. Long thoracic nerve → serratus anterior.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q48 — Lateral pontine syndrome — lesion location
+
+Patient presents with weakness of the right side of the face with loss of pain and temperature of the left leg. Lesion is located at?
+
+- A. Medial medulla
+- B. Lateral pons
+- C. Medial pons
+- D. Lateral medulla
+
+<details><summary>Answer</summary>
+
+**B. Lateral pons** — Lateral pontine syndrome (AICA territory): ipsilateral (right) facial weakness (VII nucleus) + contralateral (left) body pain/temperature loss (spinothalamic tract). Lateral medullary = Wallenberg (PICA): ipsilateral face + contralateral body. Medial medullary = Dejerine (ASA): contralateral hemiparesis + ipsilateral CN XII.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q49 — Common hepatic artery ligation — blood supply impaired
+
+Ligation of the common hepatic artery will impair blood supply through:
+
+- A. Right gastric and right gastroepiploic arteries
+- B. Right gastric and left gastric arteries
+- C. Right gastroepiploic and short gastric arteries
+- D. Right gastric and short gastric arteries
+
+<details><summary>Answer</summary>
+
+**A. Right gastric and right gastroepiploic arteries** — Common hepatic artery branches into: proper hepatic artery + gastroduodenal artery (→ right gastroepiploic + anterior/posterior superior pancreaticoduodenal). Proper hepatic → right gastric + right/left hepatic. Ligation of CHA impairs: right gastric (from proper hepatic) + right gastroepiploic (from gastroduodenal).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q50 — Costotransverse joint type *(image-based)*
+
+Image shows a joint between the costal tubercle and the transverse process of a vertebra. Type of joint?
+
+- A. Primary cartilaginous (synchondrosis)
+- B. Secondary cartilaginous (symphysis)
+- C. Synovial joint
+- D. Fibrous joint
+
+<details><summary>Answer</summary>
+
+**C. Synovial joint** — Costotransverse joint = synovial (plane) joint between tubercle of rib and articular facet on transverse process. Thoracic wall joints: synovial = costovertebral, costotransverse, interchondral (7th–10th); synchondrosis = costochondral; symphysis = manubriosternal, xiphisternal.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q51 — Popeye sign *(image-based)*
+
+Image shows a characteristic muscle belly deformity in the arm. Sign identified?
+
+- A. Popeye sign
+- B. Hill-Sachs sign
+- C. Rising sun sign
+- D. Sulcus sign
+
+<details><summary>Answer</summary>
+
+**A. Popeye sign** — Popeye sign: bulging of biceps brachii muscle belly (resembling Popeye cartoon character) on elbow flexion; due to rupture of the long head of biceps brachii tendon. Proximal rupture > distal. Management: conservative in elderly, surgical repair in young/athletes.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q52 — Enlarged inguinal lymph node — primary cause
+
+A patient presents with an enlarged inguinal lymph node. The most likely primary cause is:
+
+- A. Testicular cancer
+- B. Anal cancer
+- C. Sigmoid colon cancer
+- D. Prostate cancer
+
+<details><summary>Answer</summary>
+
+**B. Anal cancer** — Anal canal distal to dentate line drains to superficial inguinal nodes. Anal cancer (below dentate) → inguinal LN enlargement. Anal canal proximal to dentate line → internal iliac nodes. Testicular cancer → para-aortic nodes (L1 level). Sigmoid/prostate → internal iliac nodes.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+### Q53 — Elastic cartilage *(image-based)*
+
+Image shows histological section of cartilage with elastic fibers in the matrix and chondrocytes within lacunae. Type of cartilage?
+
+- A. Hyaline cartilage
+- B. Elastic cartilage
+- C. Articular hyaline cartilage
+- D. Fibrocartilage
+
+<details><summary>Answer</summary>
+
+**B. Elastic cartilage** — Elastic cartilage: type II collagen + abundant elastic fibers (yellow), has perichondrium, does NOT calcify. Sites: epiglottis, pinna, external auditory meatus, apices of arytenoids, corniculate/cuneiform cartilages, Eustachian tube. Hyaline = type II collagen, no elastic fibers, calcifies with age.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->

@@ -2834,3 +2834,126 @@ Mosquito larva: no siphon tube, palmate hairs, lies parallel to water surface �
 **A. ½–1 katori, 3× daily** — WHO/IYCF recommendations: 6–8 months = semi-solid food, 2–3 times/day; 9–11 months = 3–4 times/day; 12–23 months = 3–4 times/day + 1–2 snacks.
 
 </details>
+
+---
+
+## Anatomy
+
+### Q183 — Anterior communicating artery aneurysm — optic chiasma
+
+An aneurysm causing damage to the optic chiasma is most likely arising from which artery?
+
+- A. Anterior communicating artery
+- B. Anterior choroidal artery
+- C. Middle cerebral artery
+- D. Anterior cerebral artery
+
+<details><summary>Answer</summary>
+
+**A. Anterior communicating artery** — Anterior communicating artery lies directly above the optic chiasma; an aneurysm here → bitemporal hemianopia (due to compression of crossing nasal fibers). Also: pituitary tumors compress chiasma from below. Internal carotid aneurysm → monocular vision loss (optic nerve).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2021 | OPTIONS_GENERATED: false -->
+
+### Q184 — Spleen descent prevented by
+
+A 34-year-old with massive splenomegaly (15 cm). Which structure prevents vertical and downward descent of the spleen?
+
+- A. Lienorenal ligament
+- B. Gastrosplenic ligament
+- C. Phrenicocolic ligament
+- D. Lienophrenic ligament
+
+<details><summary>Answer</summary>
+
+**C. Phrenicocolic ligament** — Phrenicocolic ligament: connects splenic flexure of colon to diaphragm; forms a hammock beneath the spleen preventing downward descent (NOT attached to spleen itself). Lienorenal = spleen to left kidney (contains splenic vessels + tail of pancreas). Gastrosplenic = stomach to spleen (short gastric + left gastroepiploic vessels).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2021 | OPTIONS_GENERATED: false -->
+
+### Q185 — Tongue papillae — circumvallate identification *(image-based)*
+
+Image shows histological section of tongue with large cylindrical papillae (8–12 in number) surrounded by a groove with taste buds on lateral walls. Papillae identified?
+
+- A. Fungiform papillae
+- B. Filiform papillae
+- C. Vallate (circumvallate) papillae
+- D. Foliate papillae
+
+<details><summary>Answer</summary>
+
+**C. Vallate (circumvallate) papillae** — Circumvallate papillae: largest, 8–12 in number, arranged in V-shape (sulcus terminalis), surrounded by a groove; taste buds on lateral walls (not top); Von Ebner's glands drain into groove. Fungiform = mushroom-shaped, scattered, red. Filiform = most numerous, no taste buds.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2021 | OPTIONS_GENERATED: false -->
+
+### Q186 — Humerus fracture — musculocutaneous nerve injury
+
+7-year-old with multiple humerus fractures from a fall. Difficulty in elbow flexion and supination of forearm + sensory loss over lateral aspect of forearm. Most likely nerve injured?
+
+- A. Median nerve
+- B. Radial nerve
+- C. Musculocutaneous nerve
+- D. Ulnar nerve
+
+<details><summary>Answer</summary>
+
+**C. Musculocutaneous nerve** — Musculocutaneous nerve (C5, C6, C7): motor to biceps (flexion + supination), brachialis (flexion), coracobrachialis; continues as lateral cutaneous nerve of forearm (sensory: lateral forearm). Injured in shoulder dislocations or proximal humerus fractures. Radial nerve injury → wrist drop (not elbow flexion loss).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2021 | OPTIONS_GENERATED: false -->
+
+### Q187 — Submandibular gland resection — nerve at risk
+
+Patient undergoes submandibular gland resection for malignancy. Most likely nerve to be damaged?
+
+- A. Nerve to mylohyoid
+- B. Inferior alveolar nerve
+- C. Lingual nerve
+- D. Otic nerve
+
+<details><summary>Answer</summary>
+
+**C. Lingual nerve** — Lingual nerve loops under (below and lateral) the submandibular duct (Wharton's duct) — this intimate relationship makes it vulnerable during submandibular gland resection ("Lingual nerve takes a curve around the duct of Wharton"). Injury → loss of taste + sensation of anterior 2/3 tongue ipsilaterally.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2021 | OPTIONS_GENERATED: false -->
+
+### Q188 — Great saphenous vein harvest — nerve injured
+
+Patient had coronary bypass graft using the great saphenous vein. Now complains of paresthesia and sensory loss over the medial aspect of the leg and foot. Nerve injured?
+
+- A. Superficial peroneal nerve
+- B. Saphenous nerve
+- C. Femoral nerve
+- D. Sural nerve
+
+<details><summary>Answer</summary>
+
+**B. Saphenous nerve** — Saphenous nerve (terminal branch of femoral nerve, L3–L4) runs along the medial leg alongside the great saphenous vein → commonly injured during GSV harvest for bypass grafting or varicose vein surgery. Supplies: medial aspect of leg + medial foot (to ball of great toe).
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2021 | OPTIONS_GENERATED: false -->
+
+### Q189 — Uvula testing — cranial nerve *(image-based)*
+
+During neurological examination, touching the highlighted structure (uvula) tests which cranial nerve?
+
+- A. IX (Glossopharyngeal)
+- B. X (Vagus)
+- C. XI (Accessory)
+- D. XII (Hypoglossal)
+
+<details><summary>Answer</summary>
+
+**A. IX (Glossopharyngeal)** — Sensory supply to uvula, soft palate, fauces, tonsils, posterior 1/3 tongue, tympanic cavity, Eustachian tube, nasopharynx = glossopharyngeal nerve (CN IX). Motor to uvula = vagus (CN X, via pharyngeal plexus). Gag reflex: afferent = IX, efferent = X.
+
+</details>
+
+<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2021 | OPTIONS_GENERATED: false -->
