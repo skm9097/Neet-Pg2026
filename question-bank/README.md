@@ -8,9 +8,22 @@ Recall-based NEET-PG questions reformatted as study notes, organised by year. Se
 question-bank/
 ├── ATTRIBUTION.md          Source attribution & use notice
 ├── template.md             Schema for adding new questions
+├── subject-wise/           Multi-year pools grouped by subject (192 Qs)
+│   ├── README.md
+│   ├── anatomy.md
+│   ├── biochemistry.md
+│   ├── community-medicine.md
+│   ├── dermatology.md
+│   ├── ent.md
+│   ├── medicine.md
+│   ├── microbiology.md
+│   ├── pathology.md
+│   ├── pediatrics.md
+│   ├── psychiatry.md
+│   └── surgery.md
 ├── 2025/
 │   ├── index.md            Year overview
-│   └── questions.md        Compiled recall questions, grouped by subject
+│   └── questions.md        All 200 NEET-PG 2025 recall questions
 ├── 2024/
 │   ├── index.md
 │   └── questions.md
@@ -22,8 +35,10 @@ question-bank/
     └── index.md
 ```
 
-Compiled `questions.md` files currently exist for **2019–2025**. The 2015–2018
-folders contain scaffolded `index.md` only.
+Compiled `questions.md` files currently exist for **2019–2025**. The 2025 file
+contains the complete 200-question paper. The `subject-wise/` folder has ~192
+questions spanning 2019–2024 across 11 subjects. The 2015–2018 folders contain
+scaffolded `index.md` only (no public HTML recall sets found for those years).
 
 ## Question Format
 
