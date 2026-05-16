@@ -1,0 +1,17 @@
+# Binary build artifacts — never commit
+*.apk
+*.aab
+*.ipa
+*.exe
+*.dmg
+
+# Flutter build output
+neet-quiz-app/build/
+
+# Android local config
+neet-quiz-app/android/local.properties
+neet-quiz-app/android/.gradle/
+
+# PDF and binary source files
+*.pdf
+*.bin
