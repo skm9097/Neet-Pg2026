@@ -873,3 +873,296 @@ Image shows histological section of cartilage with elastic fibers in the matrix 
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2020 | OPTIONS_GENERATED: false -->
+
+---
+
+## Physiology
+
+### Q54 — Acute mountain sickness — NOT used in treatment
+
+Headache and breathlessness on rapid ascent to >3000 m. Which is NOT used in treatment?
+
+- A. IV digoxin
+- B. Descent to lower altitude
+- C. Administration of oxygen
+- D. Tablet acetazolamide
+
+<details><summary>Answer</summary>
+
+**A. IV digoxin** — AMS (acute mountain sickness) management: descent (definitive), supplemental O₂, acetazolamide (CA inhibitor → metabolic acidosis → stimulates breathing → acclimatization), dexamethasone (HACE), nifedipine (HAPE). Digoxin has NO role in AMS. Gamow bag (portable hyperbaric chamber) also used.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q55 — V/Q infinity — equivalent condition
+
+V/Q = infinity holds true in which condition?
+
+- A. Foreign body obstruction in bronchus (V/Q = 0)
+- B. Equal to dead space (ventilation without perfusion)
+- C. When O₂ and CO₂ ratio is equal
+- D. Alveolar PO₂ 159 mmHg and PCO₂ 40 mmHg
+
+<details><summary>Answer</summary>
+
+**B. Equal to dead space** — V/Q = ∞: ventilation without perfusion = dead space; alveolar gas resembles inspired air (PO₂ → 150 mmHg, PCO₂ → 0). V/Q = 0: perfusion without ventilation = shunt; alveolar gas = venous blood. Normal V/Q ≈ 0.8 overall (apex ↑, base ↓ in upright position).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q56 — Prolactin — peak secretion
+
+Prolactin level is highest during:
+
+- A. 24 hours after ovulation
+- B. 24 hours after delivery
+- C. REM sleep
+- D. After running for 1 hour
+
+<details><summary>Answer</summary>
+
+**B. 24 hours after delivery** — Serum prolactin peaks at 24 hours postpartum (10–20× normal). During pregnancy, prolactin rises progressively but milk suppressed by high estrogen/progesterone. After delivery, estrogen/progesterone fall → milk production begins. Suckling maintains prolactin by inhibiting dopamine (PIF) release.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q57 — JVP 'c' wave — represents
+
+'c' wave of JVP represents:
+
+- A. Tricuspid valve bulging into RA during isovolumetric ventricular contraction
+- B. Contraction of right atrium
+- C. Passive filling of right atrium
+- D. Passive emptying of right atrium
+
+<details><summary>Answer</summary>
+
+**A. Tricuspid valve bulging into RA during isovolumetric ventricular contraction** — JVP waves: a = RA contraction; c = tricuspid valve closure + bulge into RA during isovolumetric ventricular contraction; x descent = RA relaxation; v = passive venous filling; y descent = tricuspid opens + RA empties. Cannon a-waves = complete AV dissociation.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q58 — GBM charge filtration — protein responsible
+
+Protein in glomerular basement membrane responsible for charge-dependent filtration:
+
+- A. Fibronectin
+- B. Heparan sulfate
+- C. Type IV collagen
+- D. Entactin (nidogen)
+
+<details><summary>Answer</summary>
+
+**B. Heparan sulfate** — Heparan sulfate proteoglycans (agrin, perlecan) in the GBM carry strong negative charge → repel anionic plasma proteins (albumin, pI ~4.7) → charge-selective filtration barrier. Loss in diabetic nephropathy → proteinuria. Size-selective barrier = slit diaphragm (nephrin, podocin).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q59 — Warfarin — affected clotting factor
+
+Which clotting factor has decreased γ-carboxyglutamate (Gla) residues on warfarin therapy?
+
+- A. Factor II (prothrombin)
+- B. Factor XI
+- C. Tissue factor (Factor III)
+- D. Factor V
+
+<details><summary>Answer</summary>
+
+**A. Factor II (prothrombin)** — Warfarin inhibits vitamin K epoxide reductase → impairs γ-carboxylation of Gla residues → vitamin K-dependent factors (II, VII, IX, X; protein C, S) are dysfunctional. Factor II (prothrombin) is central to the final common pathway. PT/INR monitors warfarin effect (reflects factors II, VII, X).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q60 — ACTH and cortisol — highest levels
+
+Which condition has the highest ACTH and cortisol levels?
+
+- A. Early morning (physiological)
+- B. Normal response to dexamethasone
+- C. Addison's disease
+- D. Cushing's disease (pituitary adenoma)
+
+<details><summary>Answer</summary>
+
+**D. Cushing's disease** — Pituitary ACTH-secreting adenoma → ↑↑ACTH → ↑↑cortisol (bilateral adrenal hyperplasia). Addison's = ↑ACTH but ↓cortisol (adrenal failure). Cortisol peaks in early morning (circadian, high but not pathological). Ectopic ACTH syndrome (e.g., SCLC): highest ACTH of all. Low-dose dexamethasone suppresses normal HPA axis.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q61 — Ileal resection — deficiency
+
+After complete ileal and partial jejunal resection, patient most likely has:
+
+- A. Folic acid deficiency
+- B. Vitamin B12 deficiency
+- C. Peptic ulcer
+- D. Constipation
+
+<details><summary>Answer</summary>
+
+**B. Vitamin B12 deficiency** — Vitamin B12 (cobalamin) bound to intrinsic factor (IF) is absorbed exclusively in the **terminal ileum** via cubilin receptors. Ileal resection → B12 malabsorption → megaloblastic anemia + subacute combined degeneration of cord. Folate absorbed in upper jejunum (spared). Ileal resection also causes fat malabsorption, bile salt diarrhea.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q62 — RDS — cell type deficient
+
+Respiratory distress syndrome is due to defective:
+
+- A. Type I pneumocytes
+- B. Type II pneumocytes
+- C. Alveolar capillary endothelial cells
+- D. Bronchial mucosal cells
+
+<details><summary>Answer</summary>
+
+**B. Type II pneumocytes** — Type II pneumocytes (cuboidal, at alveolar corners): produce surfactant (DPPC) stored in lamellar bodies. Deficiency (prematurity <34 weeks) → ↑surface tension → alveolar collapse → IRDS. Treatment: antenatal corticosteroids (mature surfactant), exogenous surfactant (beractant/poractant). Type I cells = gas exchange (95% of alveolar surface).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q63 — Receptor tyrosine kinase — hormone using
+
+Which hormone uses receptor tyrosine kinase (RTK) signalling?
+
+- A. Insulin
+- B. TSH
+- C. TRH
+- D. MSH
+
+<details><summary>Answer</summary>
+
+**A. Insulin** — RTK hormones/growth factors: insulin, IGF-1, EGF, PDGF, FGF, VEGF, NGF. Binding → receptor autophosphorylation → IRS-1 → PI3K/Akt + MAPK pathways. TSH = GPCR (Gs → cAMP). TRH = GPCR (Gq → IP3/DAG). MSH = GPCR (MC1R, Gs → cAMP).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q64 — Enterogastric reflex — trigger
+
+In which reflex is gastric emptying delayed when acidic content enters the duodenum?
+
+- A. Gastrocolic reflex
+- B. Enterocolic reflex
+- C. Gastroileal reflex
+- D. Enterogastric reflex
+
+<details><summary>Answer</summary>
+
+**D. Enterogastric reflex** — Enterogastric reflex: duodenal acid, fat, hyperosmolality, or distension → neural reflex (myenteric plexus + vagal afferents) + hormonal signals (CCK, secretin, GIP) → ↓gastric motility + ↓pyloric emptying. Protects duodenum from acid overload and allows time for neutralization.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q65 — Inferior frontal gyrus vascular injury — function affected
+
+Vascular injury to the inferior frontal gyrus affects which functional area?
+
+- A. Motor speech area (Broca's)
+- B. Wernicke's area
+- C. Primary auditory area
+- D. Visual association area
+
+<details><summary>Answer</summary>
+
+**A. Motor speech area (Broca's)** — Broca's area (Brodmann 44, 45): posterior inferior frontal gyrus, dominant hemisphere; damage → Broca's aphasia = non-fluent speech + word-finding difficulty + comprehension relatively preserved. Supplied by the superior division of left MCA. Wernicke's = superior temporal gyrus (posterior STG).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q66 — Pressure block of nerve — paresis without pain loss
+
+Sleeping with arm under head → cannot move arm on waking, but pain sensation intact. Why?
+
+- A. B fibers are more susceptible to pressure than A fibers
+- B. A fibers are more susceptible to pressure than C fibers
+- C. C fibers are more sensitive to pressure than A fibers
+- D. Motor nerves are more affected by sleep than sensory
+
+<details><summary>Answer</summary>
+
+**B. A fibers are more susceptible to pressure than C fibers** — Large myelinated A fibers (motor: Aα; touch: Aβ) are preferentially blocked by sustained pressure (neuropraxia) → motor paresis + touch loss but pain preserved. Small unmyelinated C fibers (pain/temperature) resist pressure. Same principle as Saturday night palsy (radial nerve), common peroneal nerve compression.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q67 — Fetal circulation — highest O₂ content
+
+Which vessel has the highest oxygen concentration in fetal circulation?
+
+- A. Inferior vena cava
+- B. Right atrium
+- C. Superior vena cava
+- D. Ascending aorta
+
+<details><summary>Answer</summary>
+
+**A. Inferior vena cava** — Fetal O₂ saturation: umbilical vein (80%) → mixes in IVC with deoxygenated blood from lower body → IVC blood (~70% sat, highest in central circulation) preferentially directed via crista dividens through foramen ovale to LA → LV → ascending aorta → brain + coronaries. SVC delivers lowest O₂ sat blood to RA.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q68 — Surfactant composition — main component
+
+RDS is due to deficiency of:
+
+- A. Dipalmitoyl phosphatidylcholine (DPPC)
+- B. Phosphatidylserine
+- C. Phosphatidylethanolamine
+- D. Phosphatidylinositol
+
+<details><summary>Answer</summary>
+
+**A. Dipalmitoyl phosphatidylcholine (DPPC)** — DPPC (lecithin) = major surface-tension-lowering component of pulmonary surfactant (~60–70%). L:S (lecithin:sphingomyelin) ratio ≥2 = fetal lung maturity. Surfactant also contains phosphatidylglycerol, SP-A, SP-B (most critical for function), SP-C, SP-D. Betamethasone induces surfactant production.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q69 — CPDA-1 superiority over ACD
+
+What makes CPDA-1 superior to ACD for blood storage?
+
+- A. The fall in 2,3-DPG is less
+- B. Decreased K⁺ release
+- C. It has less P50 (lower O₂ affinity)
+- D. It is less viscous
+
+<details><summary>Answer</summary>
+
+**A. The fall in 2,3-DPG is less** — CPDA-1 preserves 2,3-DPG better → O₂-delivery capacity maintained for longer → stored blood more functional. Storage lesion (ACD > CPDA): ↓2,3-DPG, ↑K⁺ leak, ↓ATP, ↓pH, ↑free Hb (hemolysis), echinocyte formation. Additive solutions (AS-1) extend shelf life to 42 days with even better 2,3-DPG preservation.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+### Q70 — Hemiballismus — lesion site
+
+65-year-old man, 2 days after stroke, presents with violent flinging movements of limbs on one side. Site of lesion?
+
+- A. Subthalamic nucleus
+- B. Globus pallidus
+- C. Putamen
+- D. Caudate nucleus
+
+<details><summary>Answer</summary>
+
+**A. Subthalamic nucleus** — Hemiballismus = violent, flinging, involuntary movements of proximal limbs on one side; due to contralateral subthalamic nucleus (STN) lesion (most commonly vascular). STN normally inhibits globus pallidus → loss of STN → disinhibition of thalamus → excessive motor cortex activation. Treated with haloperidol/tetrabenazine.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->

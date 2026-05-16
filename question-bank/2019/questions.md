@@ -667,3 +667,330 @@ Image shows a midline sagittal brain section. Structure marked B is identified a
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2019 | OPTIONS_GENERATED: false -->
+
+---
+
+## Physiology
+
+### Q41 — Myogenic autoregulation — mechanism
+
+According to the myogenic hypothesis, afferent arterioles contract in response to stretch induced by:
+
+- A. Nitric oxide
+- B. Noradrenaline
+- C. Opening of calcium channels
+- D. Adenosine
+
+<details><summary>Answer</summary>
+
+**C. Opening of calcium channels** — Increased perfusion pressure → stretch of afferent arteriolar wall → stretch-activated Ca²⁺ channels open → Ca²⁺ influx → smooth muscle contraction → vasoconstriction → maintains GFR constant. Autoregulation works between MAP 80–180 mmHg. This is the basis of the myogenic (Bayliss) hypothesis.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q42 — Decerebrate rigidity — exception
+
+According to Herrington classification, decerebrate rigidity is characterized by all EXCEPT:
+
+- A. Rigidity in all muscles of the body
+- B. Increased rate of discharge of γ efferent neurons
+- C. Increased excitability of α motor neuron pool
+- D. Decerebration causes no spinal-shock-like phenomenon
+
+<details><summary>Answer</summary>
+
+**A. Rigidity in all muscles of the body** — Decerebrate rigidity affects primarily **extensor** muscles of all four limbs (+ neck/trunk extensors); flexors are inhibited. Not all body muscles. Mechanism: removal of corticospinal + rubrospinal inhibition → unrestrained vestibulospinal facilitation of extensor motor neurons. ↑γ efferents → ↑muscle spindle sensitivity.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q43 — Decorticate rigidity — true statement
+
+Which is TRUE for decorticate rigidity?
+
+- A. Produced by removal of cerebral cortex and basal ganglia only
+- B. Flexion of lower limbs and extension of upper limbs
+- C. Rigidity is more pronounced than decerebrate
+- D. Flexion of upper limbs and extension of lower limbs
+
+<details><summary>Answer</summary>
+
+**D. Flexion of upper limbs and extension of lower limbs** — Decorticate (corticospinal lesion above midbrain): upper limbs flex + adduct (rubrospinal tract preserved → active flexion); lower limbs extend. Mnemonic: "de-cortic-ate = Flex upper toward core." Decerebrate (midbrain/pontine lesion): all four limbs extend (worse prognosis).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q44 — Blood storage — ACD vs CPDA-1
+
+ACD preserves RBCs for 21 days. Storage duration with phosphate alone vs. adenine + phosphate (CPDA-1):
+
+- A. 35 and 42 days
+- B. 21 and 35 days
+- C. 28 and 45 days
+- D. 35 and 28 days
+
+<details><summary>Answer</summary>
+
+**B. 21 and 35 days** — ACD + phosphate = 21 days; CPDA-1 (citrate phosphate dextrose adenine) = 35 days. Additive solutions (AS-1/Adsol, AS-3/Nutricel, AS-5/Optisol) extend to 42 days. Storage lesion: ↓2,3-DPG (O₂ delivery ↓), ↑K⁺ release, ↓pH, membrane changes, hemolysis.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q45 — FRC — definition
+
+Functional residual capacity is:
+
+- A. Volume expired after normal inspiration
+- B. Volume remaining after forced expiration (RV)
+- C. ERV + RV
+- D. TV + IRV (= IC)
+
+<details><summary>Answer</summary>
+
+**C. ERV + RV** — FRC = volume of air in lungs after a normal passive expiration ≈ 2.3 L. FRC = ERV + RV. Cannot be measured by spirometry (RV included); measured by helium dilution, N₂ washout, or body plethysmography. ↑FRC in COPD/emphysema (air trapping); ↓FRC in obesity, ARDS, pregnancy.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q46 — Medial lemniscus lesion at pons — effect
+
+Lesion in the medial lemniscus at the level of the pons causes:
+
+- A. Pain and temperature loss on the same side
+- B. Pain and temperature loss on the opposite side
+- C. Loss of tactile sensation and proprioception on the same side
+- D. Loss of tactile sensation and proprioception on the opposite side
+
+<details><summary>Answer</summary>
+
+**D. Loss of tactile sensation and proprioception on the opposite side** — Medial lemniscus carries second-order dorsal column neurons that have already decussated at the medulla. Lesion at the pons level → contralateral loss of fine touch, vibration, and proprioception. Spinothalamic tract (pain/temp) is separate at this level.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q47 — Peristalsis — anterograde dilation neurotransmitter
+
+Neurotransmitter responsible for anterograde dilation of the small intestine (ascending relaxation in peristaltic reflex)?
+
+- A. VIP
+- B. Acetylcholine
+- C. Substance P
+- D. Serotonin
+
+<details><summary>Answer</summary>
+
+**A. VIP** — Peristaltic reflex (law of the intestine): ascending (oral) limb → ACh + Substance P → contraction; descending (anal) limb → VIP + NO → relaxation (anterograde dilation). VIP (vasoactive intestinal peptide) relaxes smooth muscle. Serotonin initiates the reflex via enterochromaffin cells.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q48 — Bainbridge reflex — trigger
+
+Reflex responsible for tachycardia during right atrial distension:
+
+- A. J reflex (Jarisch-Bezold)
+- B. Cushing reflex
+- C. Bezold-Jarisch reflex
+- D. Bainbridge reflex
+
+<details><summary>Answer</summary>
+
+**D. Bainbridge reflex** — Bainbridge reflex: right atrial stretch receptors (type B, rapidly adapting) → vagal afferents → medulla → reflex tachycardia (↑HR) + ↑force of contraction. Prevents venous backup. Bezold-Jarisch: ventricular chemoreceptors → bradycardia + vasodilation (paradoxical).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q49 — Testosterone production — main source
+
+Testosterone production is mainly contributed by:
+
+- A. Leydig cells
+- B. Sertoli cells
+- C. Seminiferous tubule cells
+- D. Epididymis
+
+<details><summary>Answer</summary>
+
+**A. Leydig cells** — Interstitial (Leydig) cells: stimulated by LH → synthesize testosterone from cholesterol (via pregnenolone). Sertoli cells respond to FSH → produce ABP (androgen-binding protein), inhibin, activin; support spermatogenesis. Small amounts of testosterone from adrenals (DHEA → androstenedione → testosterone).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q50 — Tubuloglomerular feedback — function
+
+Function of tubuloglomerular feedback (TGF)?
+
+- A. Regulate GFR
+- B. Decrease plasma sodium
+- C. Increase plasma volume
+- D. Decrease tubular secretion
+
+<details><summary>Answer</summary>
+
+**A. Regulate GFR** — TGF: macula densa (thick ascending limb of LOH) senses NaCl concentration → signals to afferent arteriole → ↑NaCl → afferent vasoconstriction → ↓GFR (negative feedback). Works alongside myogenic autoregulation to keep GFR constant despite BP changes. Adenosine mediates the vasoconstriction.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q51 — Forced expiration — respiratory neurons
+
+Which neurons predominantly fire during forceful expiration?
+
+- A. Dorsal respiratory group (DRG)
+- B. Ventral respiratory group (VRG)
+- C. Pneumotaxic center
+- D. Chemoreceptors
+
+<details><summary>Answer</summary>
+
+**B. Ventral respiratory group (VRG)** — VRG (nucleus ambiguus + retroambiguus): drives active expiration (abdominal muscles, internal intercostals) during exercise/forced breathing. Dormant during quiet breathing. DRG (nucleus tractus solitarius): drives quiet inspiration (diaphragm, external intercostals). Pneumotaxic center (parabrachial nucleus): limits inspiration duration.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q52 — ADH — aquaporin channel
+
+ADH acts through which aquaporin channel?
+
+- A. AQP-1
+- B. AQP-2
+- C. AQP-3
+- D. AQP-4
+
+<details><summary>Answer</summary>
+
+**B. AQP-2** — ADH (vasopressin) binds V2 receptors on principal cells of collecting duct → ↑cAMP → PKA activation → insertion of AQP-2 into luminal membrane → water reabsorption. AQP-3 and AQP-4 are constitutively present on basolateral membrane. AQP-1 = proximal tubule + descending thin limb (ADH-independent).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q53 — Nerve fiber — slowest conduction velocity
+
+Which has the LEAST (slowest) conduction velocity?
+
+- A. Postganglionic sympathetic fibers (Type C)
+- B. Somatic motor fibers (Aα)
+- C. Preganglionic autonomic fibers (B)
+- D. Touch and pressure fibers (Aβ)
+
+<details><summary>Answer</summary>
+
+**A. Postganglionic sympathetic fibers** — Conduction velocities: Aα = 70–120 m/s; Aβ = 30–70 m/s; Aγ = 15–30 m/s; Aδ = 5–30 m/s; B = 3–15 m/s; C = 0.3–1.3 m/s (slowest — unmyelinated). Postganglionic autonomic fibers = Type C (unmyelinated). Preganglionic = Type B (lightly myelinated).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q54 — Vitamin A storage — hepatic cell
+
+Which liver cell stores vitamin A?
+
+- A. Ito cells (hepatic stellate cells)
+- B. Hepatocytes
+- C. Endothelial cells
+- D. Kupffer cells
+
+<details><summary>Answer</summary>
+
+**A. Ito cells (hepatic stellate cells)** — Perisinusoidal Ito cells (stellate cells) store 80% of body's vitamin A as retinyl palmitate lipid droplets in quiescent state. On activation (injury) → myofibroblasts → liver fibrosis/cirrhosis. Kupffer cells = liver macrophages. Hepatocytes = metabolic functions.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q55 — Liver synthesis — NOT produced
+
+Liver synthesizes all of the following EXCEPT:
+
+- A. Albumin
+- B. Coagulation factors
+- C. Acute phase proteins
+- D. Immunoglobulins
+
+<details><summary>Answer</summary>
+
+**D. Immunoglobulins** — Immunoglobulins (antibodies) are synthesized by plasma cells (B cell derivatives), not hepatocytes. Liver synthesizes: albumin, all coagulation factors except factor VIII (partly), acute phase proteins (CRP, fibrinogen, haptoglobin, ferritin), complement proteins, transport proteins (transferrin, ceruloplasmin).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q56 — Peripheral chemoreceptors — ion involved
+
+Which ion is primarily involved in peripheral oxygen-sensing chemoreceptors?
+
+- A. Potassium
+- B. Calcium
+- C. Sodium
+- D. Chloride
+
+<details><summary>Answer</summary>
+
+**A. Potassium** — Carotid body glomus (type I) cells: hypoxia closes O₂-sensitive background K⁺ channels → membrane depolarization → voltage-gated Ca²⁺ channels open → Ca²⁺ influx → neurotransmitter release (dopamine, ACh) → afferent firing via carotid sinus nerve (CN IX). Also sensitive to hypercapnia + acidosis.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q57 — Brown-Séquard syndrome — characteristic
+
+Brown-Séquard syndrome (spinal cord hemisection) is characterized by:
+
+- A. Fine touch lost on the opposite side
+- B. Pain and temperature lost on the same side
+- C. Pain and temperature lost on the opposite side
+- D. Only pain lost on the same side
+
+<details><summary>Answer</summary>
+
+**C. Pain and temperature lost on the opposite side** — Spinal cord hemisection: ipsilateral = upper motor neuron paralysis + loss of fine touch/vibration/proprioception (dorsal columns uncrossed); contralateral = loss of pain and temperature (spinothalamic tract crosses within 1–2 levels of entry). Classic triad: ipsilateral motor + proprioception; contralateral pain/temp.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q58 — Blood type — agglutination test
+
+Agglutination test: no reaction with anti-A or anti-B serum; positive with anti-D. Blood group?
+
+- A. B positive
+- B. A positive
+- C. O positive
+- D. AB positive
+
+<details><summary>Answer</summary>
+
+**C. O positive** — No agglutination with anti-A or anti-B = no A or B antigens = blood group O. Positive agglutination with anti-D = Rh positive. Blood group O+ is the most common blood group; O− is universal donor (RBCs). AB+ is universal recipient.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+### Q59 — Wernicke's hemianopic pupil — lesion site
+
+Site of lesion in Wernicke's hemianopic pupil?
+
+- A. Optic nerve
+- B. Optic tract
+- C. Optic radiation
+- D. Optic chiasma
+
+<details><summary>Answer</summary>
+
+**B. Optic tract** — Pupillary light reflex fibers leave the optic tract before the lateral geniculate body → optic tract lesion = hemianopic pupillary reaction (light shone in blind hemifield → no pupil response; light in intact hemifield → normal response). Also produces contralateral homonymous hemianopia with incongruous defect.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->

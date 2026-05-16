@@ -245,3 +245,245 @@ The heart starts to beat in which week of development?
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR | OPTIONS_GENERATED: false -->
+
+---
+
+## Physiology
+
+### Q15 — IGF-1 — predominant producing organ
+
+The predominant organ producing insulin-like growth factor I (IGF-1) is:
+
+- A. Liver
+- B. Pituitary gland
+- C. Pancreas
+- D. Adrenal glands
+
+<details><summary>Answer</summary>
+
+**A. Liver** — GH acts on the liver → hepatocytes secrete IGF-1 (somatomedin C). IGF-1 mediates most anabolic effects of GH. Low GH → low IGF-1 (dwarfism); excess GH → high IGF-1 (acromegaly). IGF-1 levels are more stable than GH (no pulsatile secretion).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q16 — Prosopagnosia — definition
+
+What is Prosopagnosia?
+
+- A. Impairment of consciousness
+- B. Being unaware of one's problems (anosognosia)
+- C. Difficulty in identifying known faces
+- D. Failure to identify objects by touch (astereognosis)
+
+<details><summary>Answer</summary>
+
+**C. Difficulty in identifying known faces** — Prosopagnosia (face blindness) = inability to recognize familiar faces; due to lesion in fusiform face area (fusiform gyrus, inferior temporal lobe, right hemisphere). Patient may use voice, gait, or clothing to identify people. Associated with bilateral occipitotemporal lesions.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q17 — Countercurrent mechanism — NOT a component
+
+All are components of the countercurrent mechanism EXCEPT:
+
+- A. Sodium outflow in thick ascending limb
+- B. Water outflow in thin descending limb
+- C. Sodium outflow in thin ascending limb
+- D. Flow of tubular fluid from PCT to DCT
+
+<details><summary>Answer</summary>
+
+**C. Sodium outflow in thin ascending limb** — Thin ascending limb is impermeable to water but **passively** permeable to NaCl (no active transport here). Active Na⁺/K⁺/2Cl⁻ transport (NKCC2) occurs only in the **thick** ascending limb. This is the key step inhibited by loop diuretics (furosemide).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q18 — Intestinal glucose absorption — transport type
+
+Glucose is absorbed in the intestine by:
+
+- A. Primary active transport
+- B. Facilitated diffusion
+- C. Simple diffusion
+- D. Secondary active transport
+
+<details><summary>Answer</summary>
+
+**D. Secondary active transport** — Glucose enters enterocytes at apical membrane via SGLT1 (sodium-glucose cotransporter 1) = secondary active transport (driven by Na⁺ gradient maintained by basolateral Na⁺-K⁺-ATPase). Exits basolaterally via GLUT2 (facilitated diffusion). This mechanism is exploited by ORS.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q19 — Oxygen therapy — NOT useful in
+
+In which condition is oxygen therapy NOT useful?
+
+- A. Asthma
+- B. Acute MI
+- C. Pulmonary edema
+- D. Central respiratory depression
+
+<details><summary>Answer</summary>
+
+**D. Central respiratory depression** — In central hypoventilation, the problem is inadequate respiratory drive — adding O₂ doesn't stimulate breathing and can suppress the residual hypoxic drive (via peripheral chemoreceptors), worsening hypoventilation. Mechanical ventilation is the appropriate treatment.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q20 — V/Q = infinity — meaning
+
+V/Q ratio = infinity means:
+
+- A. Partial pressure of O₂ becomes zero
+- B. No exchange of O₂ and CO₂
+- C. CO₂ alone equilibrates with venous blood
+- D. PP of both CO₂ and O₂ remain normal
+
+<details><summary>Answer</summary>
+
+**B. No exchange of O₂ and CO₂** — V/Q = ∞ → ventilation present but NO perfusion = physiological dead space. Gas exchange impossible without blood. Alveolar gas → approaches inspired air composition (PO₂ ↑, PCO₂ → 0). Opposite extreme: V/Q = 0 → perfusion without ventilation = shunt.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q21 — JVP 'c' wave — timing
+
+'c' wave in the JVP is seen during:
+
+- A. Isovolumetric ventricular contraction
+- B. Slow filling at end of diastole
+- C. End of systole
+- D. Start of diastole
+
+<details><summary>Answer</summary>
+
+**A. Isovolumetric ventricular contraction** — 'c' wave = bulging of tricuspid valve leaflets into right atrium during isovolumetric ventricular contraction + transmitted carotid arterial pulsation. JVP waves: a = atrial contraction; c = tricuspid bulge; x = atrial relaxation; v = venous filling; y = tricuspid opening. Absent 'a' = AF; giant 'a' = tricuspid stenosis.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q22 — Endothelin-1 — false statement
+
+All of the following are true regarding endothelin-1 EXCEPT:
+
+- A. Causes bronchodilation
+- B. Causes vasoconstriction
+- C. Decreases GFR
+- D. Has positive inotropic effects
+
+<details><summary>Answer</summary>
+
+**A. Causes bronchodilation** — ET-1 causes **bronchoconstriction** (not bronchodilation). ET-1 is one of the most potent vasoconstrictors known; also causes: mesangial contraction → ↓GFR, positive inotropy + chronotropy, aldosterone release, cell proliferation. ET receptor antagonists (bosentan) treat pulmonary arterial hypertension.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q23 — Aldosterone — maximal stimulator
+
+Aldosterone secretion is maximally stimulated by:
+
+- A. Hyperkalemia
+- B. ACTH
+- C. Hypernatremia
+- D. Exogenous steroids
+
+<details><summary>Answer</summary>
+
+**A. Hyperkalemia** — Most potent stimulators of aldosterone: hyperkalemia + angiotensin II. Hyperkalemia directly stimulates zona glomerulosa cells (depolarization → Ca²⁺ influx → aldosterone synthesis). ACTH has only a minor permissive role. Hypernatremia inhibits aldosterone (via ↓renin). Exogenous steroids suppress ACTH.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q24 — cGMP — second messenger of
+
+cGMP is the second messenger of:
+
+- A. Somatostatin
+- B. Angiotensin II
+- C. ADH (V1 receptor)
+- D. Nitric oxide (NO)
+
+<details><summary>Answer</summary>
+
+**D. Nitric oxide (NO)** — NO activates soluble guanylyl cyclase → ↑cGMP → vascular smooth-muscle relaxation (vasodilation). Also ANP/BNP → particulate guanylyl cyclase → ↑cGMP. Somatostatin → ↓cAMP (Gi). Angiotensin II → IP3/DAG (Gq). ADH V1 → IP3/DAG; V2 → ↑cAMP.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q25 — Iron absorption — apical transporter
+
+Transport molecule for Fe²⁺ into enterocytes at the apical membrane is:
+
+- A. Ferroportin 1
+- B. Hephaestin
+- C. Divalent Metal Transporter 1 (DMT1)
+- D. Divalent Metal Transporter 2
+
+<details><summary>Answer</summary>
+
+**C. Divalent Metal Transporter 1 (DMT1)** — Iron absorption: Fe³⁺ → Fe²⁺ (by duodenal cytochrome b/dcytb); Fe²⁺ enters enterocyte via DMT1 (apical); exits via ferroportin 1 (basolateral); oxidized back to Fe³⁺ by hephaestin; binds transferrin in blood. Hepcidin inhibits ferroportin → traps iron in enterocytes.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q26 — Cuthbertson's trauma response — false statement
+
+Which statement is FALSE about Cuthbertson's metabolic ebb and flow responses to trauma?
+
+- A. "Ebb" phase → decline in body temperature and O₂ consumption
+- B. "Flow" phase occurs after resuscitation from shock
+- C. "Ebb" phase aims at reducing post-traumatic energy depletion
+- D. "Ebb" phase leads to innate immune activation and hepatic acute-phase response
+
+<details><summary>Answer</summary>
+
+**D. "Ebb" phase leads to innate immune activation and hepatic acute-phase response** — Innate immune activation and hepatic acute-phase response (↑CRP, fibrinogen, ↓albumin) occur in the **flow** phase. Ebb phase (early, minutes to hours): ↓body temp, ↓O₂ consumption, ↓cardiac output — protective conservation response. Flow phase (catabolic): ↑metabolism, ↑temp, ↑catabolism.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q27 — Kidney response to shock
+
+Kidney responds to shock by:
+
+- A. Increasing renal blood flow
+- B. Increasing afferent arteriolar resistance
+- C. Increasing GFR
+- D. Both A and C
+
+<details><summary>Answer</summary>
+
+**B. Increasing afferent arteriolar resistance** — In shock: sympathetic activation → renal vasoconstriction (both arterioles, efferent > afferent proportionally) → ↓RPF → ↑filtration fraction → oliguria/anuria. This is a compensatory mechanism to redistribute blood to vital organs. Prolonged → acute tubular necrosis (ATN).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+### Q28 — Nuclear signalling — NOT involved
+
+Nuclear signalling pathways include all EXCEPT:
+
+- A. Caveolins
+- B. NF-κB
+- C. Importins
+- D. Ras proteins
+
+<details><summary>Answer</summary>
+
+**D. Ras proteins** — Ras proteins are small GTPases involved in MAPK/ERK cytoplasmic signalling cascades (not nuclear signalling per se). Importins transport proteins into the nucleus. NF-κB translocates to nucleus to regulate gene expression. Caveolins organize signalling complexes in caveolae. (Note: source lists "Rat proteins" which corresponds to Ras.)
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->

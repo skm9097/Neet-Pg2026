@@ -706,3 +706,160 @@ Patient presents with swelling under the left ear lobule (parotid region) and co
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
+
+---
+
+## Physiology
+
+### Q44 — Spirometry — FRC identification *(image-based)*
+
+Identify the marked region in the spirometry trace (volume remaining after a normal expiration):
+
+- A. Functional residual capacity
+- B. Tidal volume
+- C. Expiratory reserve volume
+- D. Inspiratory capacity
+
+<details><summary>Answer</summary>
+
+**A. Functional residual capacity** — FRC = volume in lungs after a normal passive expiration = ERV + RV ≈ 2.3 L. Not measurable by spirometry (RV component). Measured by helium dilution, N₂ washout, or body plethysmography. ↑FRC: COPD, emphysema, asthma; ↓FRC: obesity, ARDS, pregnancy, pulmonary fibrosis.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+### Q45 — Heatstroke — NOT present
+
+Man collapsed in a field; temperature 105°F (40.6°C), decreased skin turgor. Which finding would NOT be seen?
+
+- A. Tachypnea
+- B. Hypotension
+- C. Sweating
+- D. Red hot skin
+
+<details><summary>Answer</summary>
+
+**C. Sweating** — Classic heatstroke (non-exertional): thermoregulation failure → **anhidrosis** (no sweating), hot dry skin, hyperthermia >40.5°C. Other features: tachypnea (compensatory), hypotension, altered consciousness, end-organ damage. Exertional heatstroke may have sweating. Key distinction from heat exhaustion: consciousness + thermoregulation preserved in heat exhaustion.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+### Q46 — Renal clearance — substance matching *(image-based)*
+
+Graph shows clearance ratios vs plasma concentration. Correctly matched substances with renal clearance?
+
+- A. A-Inulin, B-PAH, C-Bicarbonate, D-Inulin
+- B. A-Glucose, B-Bicarbonate, C-Inulin, D-PAH
+- C. A-PAH, B-Inulin, C-Glucose, D-Bicarbonate
+- D. A-Inulin, B-Glucose, C-Bicarbonate, D-PAH
+
+<details><summary>Answer</summary>
+
+**B. A-Glucose, B-Bicarbonate, C-Inulin, D-PAH** — Glucose: completely reabsorbed up to Tm → clearance = 0 at normal plasma [glucose]; Bicarbonate: mostly reabsorbed → clearance < GFR; Inulin: filtered only, neither secreted nor reabsorbed → clearance = GFR (100%); PAH: filtered + actively secreted → clearance > GFR (measures RPF, ≈130% at low plasma concentrations).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+### Q47 — Action potential — refractory period
+
+True statement about the nerve action potential curve:
+
+- A. Resting state is at point A
+- B. At point E the nerve is more excitable than normal
+- C. Point C–D: opening of Na⁺ channels and closure of K⁺ channels
+- D. Point B–D is the refractory period
+
+<details><summary>Answer</summary>
+
+**D. Point B to D is the refractory period** — B = peak depolarization; C = repolarization; D = hyperpolarization (after-potential). B–C = absolute refractory period (Na⁺ channels inactivated, no AP possible); C–D = relative refractory period (requires suprathreshold stimulus); D (hyperpolarization) = supernormal period. At point E (after hyperpolarization) = membrane returns to RMP.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+### Q48 — Facilitated diffusion — identification
+
+Identify the type of transport (carrier protein, no energy requirement):
+
+- A. Simple diffusion
+- B. Facilitated diffusion
+- C. Active transport
+- D. Secondary active transport
+
+<details><summary>Answer</summary>
+
+**B. Facilitated diffusion** — Facilitated diffusion: carrier protein + concentration gradient driven (no ATP); moves from high → low concentration. Examples: GLUT transporters (glucose into red cells, hepatocytes), urea channels, ion channels. Simple diffusion: no carrier. Primary active: ATP directly. Secondary active: gradient created by primary active (Na⁺ gradient).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+### Q49 — Preterm RDS — surface tension and compliance
+
+Preterm baby (28 weeks) develops RDS. What is true about surface tension and compliance?
+
+- A. Surface tension decreased, compliance decreased
+- B. Surface tension increased, compliance decreased
+- C. Both surface tension and compliance decreased
+- D. Both surface tension and compliance increased
+
+<details><summary>Answer</summary>
+
+**B. Surface tension increased, compliance decreased** — Surfactant deficiency (preterm <34 weeks) → ↑surface tension (↑alveolar collapsing force) → progressive alveolar collapse → ↓lung compliance (stiffer lungs) → ↑work of breathing → hypoxemia. Treatment: exogenous surfactant (beractant, poractant) + CPAP/mechanical ventilation.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+### Q50 — Hyperkalemia — resting membrane potential
+
+RTA with severe muscle injury, K⁺ = 5.5 mEq/L. What happens to resting membrane potential?
+
+- A. No change
+- B. Becomes more negative (hyperpolarization)
+- C. Becomes more positive (depolarization)
+- D. First more positive then negative
+
+<details><summary>Answer</summary>
+
+**C. Becomes more positive (depolarization)** — RMP is determined by K⁺ equilibrium potential (Nernst equation). Hyperkalemia → ↓transmembrane K⁺ gradient → ↓K⁺ equilibrium potential → RMP depolarizes (less negative, closer to threshold) → membrane hyperexcitability (initially) → then Na⁺ channel inactivation → inexcitability. ECG: peaked T waves, widened QRS, sine wave pattern.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+### Q51 — Dorsal column injury — fasciculus cuneatus
+
+Cervical spine injury; fragment pierced lateral aspect of dorsal column. Finding seen?
+
+- A. Absence of ipsilateral lower limb proprioception
+- B. Absence of fine motor movement of fingers
+- C. Absence of ipsilateral arm proprioception
+- D. Absence of contralateral lower limb proprioception
+
+<details><summary>Answer</summary>
+
+**C. Absence of ipsilateral arm proprioception** — Lateral dorsal column at cervical level = fasciculus cuneatus (carries upper limb proprioception, vibration, fine touch from ipsilateral arm). Fasciculus gracilis (medial) = lower limb. Dorsal columns decussate at medulla → lesion before decussation = ipsilateral sensory loss. Posterior cord syndrome: bilateral dorsal column loss.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+### Q52 — Cardiac action potential — plateau phase
+
+True statement regarding the plateau (phase 2) on the myocardial action potential curve:
+
+- A. Opening of fast Na⁺ channels and closure of fast K⁺ channels
+- B. Slow but prolonged opening of L-type Ca²⁺ channels
+- C. Closure of Na⁺ channels and opening of slow K⁺ channels
+- D. Due to Na⁺/K⁺-ATPase pump activity
+
+<details><summary>Answer</summary>
+
+**B. Slow but prolonged opening of L-type Ca²⁺ channels** — Cardiac AP phases: 0 = fast Na⁺ influx (depolarization); 1 = transient K⁺ efflux (Ito); 2 = plateau = sustained L-type Ca²⁺ influx balances K⁺ efflux (IKr); 3 = rapid repolarization (K⁺ efflux); 4 = resting. Plateau = prolonged effective refractory period → prevents tetany. Ca²⁺ influx triggers Ca²⁺-induced Ca²⁺ release (CICR) from SR.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->

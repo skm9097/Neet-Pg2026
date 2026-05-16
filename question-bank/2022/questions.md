@@ -559,3 +559,109 @@ Image shows histological section with clusters of pale-staining cells in an isla
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2022 | OPTIONS_GENERATED: false -->
+
+---
+
+## Physiology
+
+### Q35 — Pressure paresis — fiber susceptibility
+
+Sleeps with arm under head → wakes with paresis but no numbness. Best explanation?
+
+- A. C fibers more sensitive to pressure than A fibers
+- B. A fibers more sensitive to hypoxia than B fibers
+- C. A fibers more susceptible to pressure than C fibers
+- D. A fibers more susceptible to hypoxia than C fibers
+
+<details><summary>Answer</summary>
+
+**C. A fibers more susceptible to pressure than C fibers** — Large myelinated A fibers (motor: Aα; fine touch: Aβ) are blocked preferentially by sustained external pressure → neuropraxia (reversible conduction block): motor loss + loss of fine touch but **pain preserved** (C fibers resistant). Same mechanism as Saturday night palsy (radial nerve), crossed-leg peroneal palsy.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
+
+### Q36 — Baroreceptor reflex — feedback type
+
+Mechanism seen in the baroreceptor reflex?
+
+- A. Feed-forward control
+- B. Positive feedback
+- C. Negative feedback
+- D. Adaptive control
+
+<details><summary>Answer</summary>
+
+**C. Negative feedback** — Baroreceptor (high-pressure: carotid sinus + aortic arch) reflex: ↑BP → stretch receptor firing → reflex bradycardia + vasodilation → ↓BP back to setpoint. Classic negative feedback. Positive feedback examples: LH surge during ovulation, parturition (oxytocin), platelet aggregation, coagulation cascade.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
+
+### Q37 — Cell signalling — paracrine
+
+Image depicts signal released by one cell acting on nearby target cells via local diffusion. Type of signalling?
+
+- A. Paracrine
+- B. Autocrine
+- C. Endocrine
+- D. Juxtacrine
+
+<details><summary>Answer</summary>
+
+**A. Paracrine** — Paracrine: signal acts locally on adjacent/neighboring cells (short range, local diffusion). Autocrine = same cell as source (e.g., T-cell IL-2 on itself). Endocrine = distant target via bloodstream. Juxtacrine = direct cell-to-cell contact (Notch-Delta signaling). Example: NO from endothelium → adjacent smooth muscle (paracrine).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
+
+### Q38 — Cystometrogram — Segment Ib
+
+Which is true regarding the given cystometrogram?
+
+- A. Segment Ia is due to residual urine volume
+- B. Segment Ib is due to Laplace's law
+- C. Micturition fails to happen in segment II
+- D. Dotted line represents that micturition has occurred
+
+<details><summary>Answer</summary>
+
+**B. Segment Ib is due to Laplace's law** — Segment Ib = long, flat-pressure phase as bladder fills (high compliance). Laplace's law: P = 2T/r; as radius increases, tension increases proportionally → intravesical pressure stays nearly constant. This allows large volumes with little pressure change. Segment Ia = initial sharp rise; Segment III = micturition contraction.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
+
+### Q39 — Fever — thermostat reset
+
+Hypothalamic thermostat reset upward (A → C). What happens in the rising phase?
+
+- A. Shivering
+- B. Sweating
+- C. Increased blood flow to skin
+- D. Inhibition of chemical thermogenesis
+
+<details><summary>Answer</summary>
+
+**A. Shivering** — Rising phase of fever (setpoint ↑): body temp below new setpoint → heat generation + conservation: shivering, vasoconstriction (↓skin blood flow), piloerection, ↑metabolic rate. Sweating occurs during defervescence (setpoint returns to normal → body temp above new lower setpoint → heat dissipation). Antipyretics (aspirin, paracetamol) lower setpoint.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
+
+### Q40 — Hemiballismus — lesion location
+
+65-year-old man, 2 days post-stroke, violent flinging movements of left limbs. Site of lesion?
+
+- A. Right subthalamic nucleus
+- B. Left globus pallidus
+- C. Left putamen
+- D. Left caudate nucleus
+
+<details><summary>Answer</summary>
+
+**A. Right subthalamic nucleus** — Hemiballismus = contralateral STN lesion (ipsilateral to the affected limbs is wrong — the lesion is contralateral). Violent, flinging, proximal limb movements. STN lesion → release of GP internal (GPi) → disinhibition of thalamus → excessive motor output. Most common cause = small vessel stroke. Treat: haloperidol, tetrabenazine.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->

@@ -2957,3 +2957,92 @@ During neurological examination, touching the highlighted structure (uvula) test
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2021 | OPTIONS_GENERATED: false -->
+
+---
+
+## Physiology
+
+### Q190 — Hyponatremia — sodium deficit calculation
+
+30-year-old man, 70 kg, serum sodium 120 mEq/L. Sodium deficit?
+
+- A. 280 mEq
+- B. 480 mEq
+- C. 840 mEq
+- D. 1400 mEq
+
+<details><summary>Answer</summary>
+
+**C. 840 mEq** — Formula: Na deficit = TBW × (desired Na − actual Na) = 0.6 × 70 × (140 − 120) = 42 × 20 = **840 mEq**. Correct slowly (max 10–12 mEq/L/day) to prevent osmotic demyelination syndrome (central pontine myelinolysis). TBW = 0.6 × body weight in males; 0.5 in females.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
+
+### Q191 — β2 receptor — enzyme mediating hyperglycemia
+
+β2 receptor action leading to hyperglycemia is mediated by which enzyme?
+
+- A. Adenylyl cyclase
+- B. Guanylyl cyclase
+- C. Phospholipase C
+- D. Phospholipase A2
+
+<details><summary>Answer</summary>
+
+**A. Adenylyl cyclase** — β2 receptors couple to Gs protein → activate adenylyl cyclase → ↑cAMP → PKA activation → glycogenolysis + gluconeogenesis in liver → hyperglycemia; also lipolysis. β2 agonists (salbutamol) can cause hyperglycemia. β2 activation in skeletal muscle → K⁺ uptake (hypokalemia) and tremor.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
+
+### Q192 — Body fluid compartment — identification
+
+Body fluid sample: Na⁺ = 10 mEq/L, K⁺ = 140 mEq/L, Cl⁻ = 4 mEq/L. Identify compartment:
+
+- A. Interstitial fluid
+- B. Intracellular fluid
+- C. Extracellular fluid
+- D. Plasma
+
+<details><summary>Answer</summary>
+
+**B. Intracellular fluid (ICF)** — ICF electrolytes: K⁺ ~140 mEq/L (dominant cation), Mg²⁺ ~35, PO₄³⁻ ~107, protein high; Na⁺ ~10–15, Cl⁻ ~4. ECF: Na⁺ ~140, Cl⁻ ~104, HCO₃⁻ ~24. Plasma: same as ECF but with high protein (oncotic pressure). Na⁺-K⁺-ATPase maintains the steep ion gradients.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
+
+### Q193 — Multiple sclerosis — cell type affected
+
+Middle-aged female with progressive weakness, nuchal rigidity, dysphagia — MS suspected. Which cells are affected?
+
+- A. Microglia
+- B. Oligodendrocytes
+- C. Astrocytes
+- D. Schwann cells
+
+<details><summary>Answer</summary>
+
+**B. Oligodendrocytes** — MS = autoimmune demyelination of the CNS; oligodendrocytes (each myelinating up to 50 axons) are the target. Schwann cells myelinate PNS (affected in Guillain-Barré syndrome). Microglia = brain macrophages (participate in MS plaque). MRI: periventricular plaques. CSF: oligoclonal bands, ↑IgG.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
+
+### Q194 — ORS — glucose transporter
+
+ORS facilitates glucose absorption through which transporter?
+
+- A. SGLT1
+- B. SGLT2
+- C. GLUT4
+- D. Na⁺-Ca²⁺ exchanger
+
+<details><summary>Answer</summary>
+
+**A. SGLT1** — ORS exploits coupled Na⁺-glucose absorption via SGLT1 at the intestinal brush border. Each glucose molecule co-transported with 2 Na⁺ → also drives water absorption via osmosis. SGLT2 = kidneys (proximal tubule reabsorption of glucose; target of gliflozins). GLUT4 = insulin-responsive glucose uptake in muscle/fat.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
