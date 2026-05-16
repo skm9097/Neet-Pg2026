@@ -3,12 +3,14 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 class GeminiService {
   GenerativeModel? _model;
   String _apiKey = '';
+  ChatSession? _chatSession;
 
   bool get isConfigured => _apiKey.isNotEmpty;
   String get apiKey => _apiKey;
 
   void setApiKey(String key) {
     _apiKey = key.trim();
+    _chatSession = null;
     if (_apiKey.isNotEmpty) {
       _model = GenerativeModel(
         model: 'gemini-1.5-flash-latest',
@@ -18,6 +20,8 @@ class GeminiService {
       _model = null;
     }
   }
+
+  // ── Quiz answer feedback ──────────────────────────────────────────────────
 
   Future<String> getAnswerFeedback({
     required String questionStem,
@@ -54,8 +58,7 @@ In 2 to 3 spoken sentences:
 Keep it conversational, clinical, and concise. No markdown, no bullet points — plain speech only.''';
 
     try {
-      final response =
-          await _model!.generateContent([Content.text(prompt)]);
+      final response = await _model!.generateContent([Content.text(prompt)]);
       return response.text?.trim() ??
           _localFeedback(
             isCorrect: isCorrect,
@@ -84,4 +87,40 @@ Keep it conversational, clinical, and concise. No markdown, no bullet points —
     }
     return 'Not quite. The correct answer is $correctOption: $correctText. $explanation';
   }
+
+  // ── Interactive tutor chat ────────────────────────────────────────────────
+
+  ChatSession _getChat() {
+    if (_chatSession != null) return _chatSession!;
+    _chatSession = _model!.startChat(history: [
+      Content('user', [
+        TextPart(
+          'You are an expert NEET-PG 2026 medical tutor having a voice conversation '
+          'with a student. The student asks you questions about medicine, surgery, '
+          'physiology, pharmacology, and all other NEET-PG subjects. '
+          'Rules: respond in 2 to 4 plain spoken sentences only — no markdown, no '
+          'bullet points, no numbered lists. Be clinically precise, high-yield, and '
+          'encouraging. Relate answers to the NEET-PG exam where relevant.',
+        ),
+      ]),
+      Content('model', [TextPart('Understood, ready to help.')]),
+    ]);
+    return _chatSession!;
+  }
+
+  Future<String> chat(String userMessage) async {
+    if (_model == null) {
+      return 'Please add your Gemini API key in Settings to use the AI tutor.';
+    }
+    try {
+      final response =
+          await _getChat().sendMessage(Content.text(userMessage));
+      return response.text?.trim() ??
+          'Sorry, I could not generate a response. Please try again.';
+    } catch (e) {
+      return 'Something went wrong: ${e.toString().split('\n').first}';
+    }
+  }
+
+  void clearChat() => _chatSession = null;
 }

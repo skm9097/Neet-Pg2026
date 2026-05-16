@@ -5,6 +5,7 @@ import '../services/github_service.dart';
 import '../models/quiz_config.dart';
 import 'quiz_screen.dart';
 import 'settings_screen.dart';
+import 'interactive_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   final GeminiService gemini;
@@ -33,7 +34,9 @@ class _HomeScreenState extends State<HomeScreen> {
                   children: [
                     _buildApiKeyBanner(),
                     const SizedBox(height: 24),
-                    _sectionTitle('Study Mode'),
+                    _buildInteractiveBanner(),
+                    const SizedBox(height: 20),
+                    _sectionTitle('Quiz Mode'),
                     const SizedBox(height: 12),
                     _buildModuleGrid(),
                   ],
@@ -137,6 +140,76 @@ class _HomeScreenState extends State<HomeScreen> {
         fontWeight: FontWeight.w700,
         color: Colors.white70,
         letterSpacing: 0.5,
+      ),
+    );
+  }
+
+  Widget _buildInteractiveBanner() {
+    return GestureDetector(
+      onTap: _openInteractive,
+      child: Container(
+        padding: const EdgeInsets.all(20),
+        decoration: BoxDecoration(
+          gradient: const LinearGradient(
+            colors: [Color(0xFF1B0A3A), Color(0xFF0A1F3A)],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+          ),
+          borderRadius: BorderRadius.circular(18),
+          border: Border.all(color: const Color(0xFF7C3AED).withOpacity(0.5)),
+        ),
+        child: Row(
+          children: [
+            Container(
+              width: 56,
+              height: 56,
+              decoration: BoxDecoration(
+                color: const Color(0xFF7C3AED).withOpacity(0.2),
+                shape: BoxShape.circle,
+                border: Border.all(
+                    color: const Color(0xFF7C3AED).withOpacity(0.5)),
+              ),
+              child: const Icon(Icons.mic_rounded,
+                  color: Color(0xFF7C3AED), size: 28),
+            ),
+            const SizedBox(width: 16),
+            Expanded(
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  const Text(
+                    'AI Tutor — Push to Talk',
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.w800,
+                      color: Colors.white,
+                    ),
+                  ),
+                  const SizedBox(height: 4),
+                  Text(
+                    'Hold mic · Ask any NEET-PG question · Get spoken answer',
+                    style: TextStyle(
+                      fontSize: 12,
+                      color: Colors.white.withOpacity(0.55),
+                    ),
+                  ),
+                ],
+              ),
+            ),
+            const Icon(Icons.arrow_forward_ios_rounded,
+                color: Color(0xFF7C3AED), size: 18),
+          ],
+        ),
+      ),
+    );
+  }
+
+  void _openInteractive() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (_) =>
+            InteractiveScreen(gemini: widget.gemini, tts: widget.tts),
       ),
     );
   }
