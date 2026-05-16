@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import '../services/gemini_service.dart';
 import '../services/tts_service.dart';
 import '../services/github_service.dart';
 import '../models/quiz_config.dart';
 import 'quiz_screen.dart';
+import 'settings_screen.dart';
 
 class HomeScreen extends StatefulWidget {
   final GeminiService gemini;
@@ -83,16 +83,16 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
           ),
           IconButton(
-            onPressed: _showApiKeyDialog,
+            onPressed: _openSettings,
             icon: Icon(
               widget.gemini.isConfigured
                   ? Icons.check_circle
-                  : Icons.settings,
+                  : Icons.settings_rounded,
               color: widget.gemini.isConfigured
                   ? const Color(0xFF10B981)
                   : Colors.white60,
             ),
-            tooltip: 'Gemini API Key',
+            tooltip: 'Settings',
           ),
         ],
       ),
@@ -102,7 +102,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildApiKeyBanner() {
     if (widget.gemini.isConfigured) return const SizedBox.shrink();
     return GestureDetector(
-      onTap: _showApiKeyDialog,
+      onTap: _openSettings,
       child: Container(
         padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
         decoration: BoxDecoration(
@@ -195,51 +195,14 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  void _showApiKeyDialog() {
-    final ctrl = TextEditingController(text: widget.gemini.apiKey);
-    showDialog(
-      context: context,
-      builder: (ctx) => AlertDialog(
-        backgroundColor: const Color(0xFF1A1A2E),
-        title: const Text('Gemini API Key'),
-        content: Column(
-          mainAxisSize: MainAxisSize.min,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              'Get a free key at aistudio.google.com',
-              style: TextStyle(fontSize: 12, color: Colors.white.withOpacity(0.5)),
-            ),
-            const SizedBox(height: 12),
-            TextField(
-              controller: ctrl,
-              obscureText: true,
-              decoration: const InputDecoration(
-                hintText: 'AIza...',
-                border: OutlineInputBorder(),
-              ),
-            ),
-          ],
-        ),
-        actions: [
-          TextButton(
-            onPressed: () => Navigator.pop(ctx),
-            child: const Text('Cancel'),
-          ),
-          FilledButton(
-            onPressed: () async {
-              final key = ctrl.text.trim();
-              widget.gemini.setApiKey(key);
-              final prefs = await SharedPreferences.getInstance();
-              await prefs.setString('gemini_api_key', key);
-              if (ctx.mounted) Navigator.pop(ctx);
-              setState(() {});
-            },
-            child: const Text('Save'),
-          ),
-        ],
+  Future<void> _openSettings() async {
+    await Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (_) => SettingsScreen(gemini: widget.gemini),
       ),
     );
+    setState(() {});
   }
 
   void _showYearPicker() {
