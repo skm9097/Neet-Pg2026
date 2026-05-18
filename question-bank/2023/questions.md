@@ -1122,3 +1122,351 @@ Which of the following is the most sensitive indicator to assess the availabilit
 </details>
 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+## Pharmacology (additional)
+
+### Q68 — Isoniazid + peripheral neuropathy
+
+A patient started on isoniazid for TB develops peripheral neuropathy. What should be co-administered to prevent this?
+
+- A. Pyridoxine
+- B. Niacin
+- C. Riboflavin
+- D. Ascorbic acid
+
+<details><summary>Answer</summary>
+
+**A. Pyridoxine** — Isoniazid interferes with pyridoxine (vitamin B6) metabolism by forming inactive hydrazones → functional B6 deficiency → peripheral neuropathy. Prophylactic pyridoxine 10–50 mg/day prevents this; especially in malnourished, diabetic, alcoholic, pregnant, and HIV+ patients.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q69 — Drug causing Torsades de Pointes
+
+Which drug most commonly causes Torsades de Pointes?
+
+- A. Amiodarone
+- B. Sotalol
+- C. Verapamil
+- D. Lignocaine
+
+<details><summary>Answer</summary>
+
+**B. Sotalol** — Class III antiarrhythmic with non-selective β-blocking activity; prolongs QT in a dose-dependent manner → highest risk of TdP among antiarrhythmics. Amiodarone prolongs QT but rarely causes TdP (homogeneous repolarisation). Verapamil/lignocaine do not prolong QT.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q70 — Delayed chemotherapy-induced nausea
+
+A patient undergoing chemotherapy develops severe vomiting. Best drug for delayed chemotherapy-induced nausea and vomiting (CINV)?
+
+- A. Metoclopramide
+- B. Ondansetron
+- C. Domperidone
+- D. Aprepitant
+
+<details><summary>Answer</summary>
+
+**D. Aprepitant** — NK1 receptor antagonist; most effective for **delayed CINV** (24–120 h post-chemotherapy). Combined with 5-HT3 antagonist (ondansetron) + dexamethasone for highly emetogenic regimens (cisplatin, AC). Ondansetron alone is better for acute (<24 h) CINV.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q71 — Ivermectin mechanism
+
+Mechanism of action of ivermectin?
+
+- A. Inhibits microtubules
+- B. Enhances GABA-mediated Cl⁻ influx
+- C. Inhibits DNA synthesis
+- D. Calcium channel blocker
+
+<details><summary>Answer</summary>
+
+**B. Enhances GABA-mediated Cl⁻ influx** — Ivermectin acts on glutamate-gated chloride channels (invertebrate-specific) and potentiates GABA-mediated Cl⁻ influx → hyperpolarisation and paralysis of parasites. Used in onchocerciasis, lymphatic filariasis, strabismus, scabies, head lice. Crosses BBB only in P-glycoprotein-deficient hosts (Collie dogs).
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q72 — Longest-acting insulin
+
+Which insulin has the longest duration of action?
+
+- A. NPH
+- B. Glargine
+- C. Lispro
+- D. Regular
+
+<details><summary>Answer</summary>
+
+**B. Glargine** — Long-acting basal insulin analogue; ~24 h duration with no pronounced peak (precipitates at neutral pH at injection site → slow dissolution). Degludec is even longer (>42 h). NPH = intermediate-acting (12–18 h). Lispro/aspart = rapid-acting (3–5 h). Regular = short-acting (6–8 h).
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q73 — Antihypertensive contraindicated in pregnancy
+
+Which antihypertensive drug is contraindicated during pregnancy?
+
+- A. Methyldopa
+- B. Labetalol
+- C. Enalapril
+- D. Nifedipine
+
+<details><summary>Answer</summary>
+
+**C. Enalapril** — ACE inhibitors are teratogenic, especially in 2nd/3rd trimester → fetal renal dysgenesis, oligohydramnios, pulmonary hypoplasia, hypocalvaria, fetal death. ARBs are similarly contraindicated. Safe alternatives: methyldopa (1st-line), labetalol, nifedipine, hydralazine.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q74 — Antibiotic unsafe in pregnancy
+
+Which antibiotic is unsafe in pregnancy?
+
+- A. Penicillin
+- B. Erythromycin
+- C. Tetracycline
+- D. Cephalexin
+
+<details><summary>Answer</summary>
+
+**C. Tetracycline** — Tetracyclines chelate calcium → deposit in developing teeth (yellow-brown discolouration), bones (inhibits growth), and may cause acute fatty liver of pregnancy. Avoid after 18 weeks gestation and in children <8 years. Penicillins, cephalosporins, and erythromycin (except estolate) are safe.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q75 — First-line drug for primary open-angle glaucoma
+
+Drug of choice for open-angle glaucoma?
+
+- A. Timolol
+- B. Atropine
+- C. Pilocarpine
+- D. Acetazolamide
+
+<details><summary>Answer</summary>
+
+**A. Timolol** — Non-selective β-blocker; reduces aqueous humour production by ciliary body → lowers IOP. First-line topical agent. Avoid in asthma/COPD, bradycardia, heart block. Prostaglandin analogues (latanoprost) now preferred 1st-line in many guidelines; pilocarpine rarely used due to miosis/pupillary block side effects.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q76 — Rifampicin + warfarin interaction
+
+A patient on rifampicin and warfarin — effect on INR?
+
+- A. Increase
+- B. Decrease
+- C. No change
+- D. Fluctuate unpredictably
+
+<details><summary>Answer</summary>
+
+**B. Decrease** — Rifampicin is a **potent inducer** of CYP450 enzymes (CYP3A4, CYP2C9) → ↑warfarin metabolism → ↓anticoagulant effect → ↓INR → thrombotic risk. Requires upward warfarin dose adjustment. Other inducers: phenytoin, carbamazepine, barbiturates, St. John's wort.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+### Q77 — Selective COX-2 inhibitor
+
+Which of the following is a selective COX-2 inhibitor?
+
+- A. Aspirin
+- B. Diclofenac
+- C. Celecoxib
+- D. Ibuprofen
+
+<details><summary>Answer</summary>
+
+**C. Celecoxib** — Selective COX-2 inhibitor → anti-inflammatory and analgesic with fewer GI side effects (peptic ulcer) than non-selective NSAIDs. Used in osteoarthritis, RA, ankylosing spondylitis. Increased cardiovascular risk (limit duration). Rofecoxib withdrawn due to MI risk. Etoricoxib, parecoxib are other COX-2 selective agents.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+---
+
+## Anatomy (additional)
+
+### Q78 — Cerebellar ataxia: loss of inhibition
+
+A 6-year-old boy with chickenpox develops difficulty walking, broad-based gait, and slow speech. Loss of inhibitory signals to which structure causes this?
+
+- A. Golgi cell
+- B. Basket cell
+- C. Vestibular nuclei
+- D. Deep cerebellar nuclei
+
+<details><summary>Answer</summary>
+
+**D. Deep cerebellar nuclei** — Purkinje cells project GABAergic (inhibitory) fibres to the deep cerebellar nuclei (fastigial, interposed, dentate). Acute post-varicella cerebellitis damages Purkinje cells → loss of inhibition → ataxia, dysmetria, intention tremor. Most common cause of acute ataxia in children.
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q79 — Rachischisis: neural tube defect
+
+A 1-day-old boy has spinal cord protruding through the back with a hairy patch and a pouch-like bulge. Which defect causes this?
+
+- A. Non-fusion of anterior neuropore
+- B. Non-fusion of posterior neuropore
+- C. Non-fusion of both neuropores
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Non-fusion of posterior neuropore** — Posterior neuropore closes by day 27 of embryogenesis. Failure → **rachischisis** (open spina bifida with exposed spinal cord) or myelomeningocele. Anterior neuropore closure failure (day 25) → anencephaly. Maternal folate supplementation reduces risk.
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q80 — Stereognosis: tract tested
+
+A patient identifies an object placed in their hand with eyes closed. Which sensory pathway does this test?
+
+- A. Posterior column-medial lemniscus
+- B. Posterior spinocerebellar tract
+- C. Spino-olivary tract
+- D. Spinothalamic tract
+
+<details><summary>Answer</summary>
+
+**A. Posterior column-medial lemniscus** — **Stereognosis** (ability to recognise objects by touch alone) requires fine touch, proprioception, and cortical integration → carried by dorsal columns (fasciculus gracilis + cuneatus) → medial lemniscus → VPL thalamus → primary somatosensory cortex. Spinothalamic = pain/temperature. Spinocerebellar = unconscious proprioception.
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q81 — Endolymphatic sac location
+
+Which inner ear structure is formed by fusion of the ducts of the utricle and saccule?
+
+- A. Macula
+- B. Utricle
+- C. Saccule
+- D. Endolymphatic sac
+
+<details><summary>Answer</summary>
+
+**D. Endolymphatic sac** — Utricle and saccule give off small ducts which fuse to form a Y-shaped **endolymphatic duct** that traverses the vestibular aqueduct and terminates as the **endolymphatic sac** under the dura on the posterior surface of the petrous temporal bone. Endolymph absorption site; dysfunction implicated in Ménière's disease.
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q82 — Sacral hiatus: structures transmitted
+
+A 32-year-old male with sacral compression presents with lower back pain and groin sensory loss. Which structure passing through the sacral hiatus is involved?
+
+- A. S2 spinal nerve
+- B. S3 spinal nerve
+- C. S4 spinal nerve
+- D. S5 spinal nerve
+
+<details><summary>Answer</summary>
+
+**D. S5 spinal nerve** — Sacral hiatus = deficient posterior arch of S5; transmits the **pair of 5th sacral nerves, coccygeal nerves (Co1), and filum terminale externum**. Site for caudal epidural anaesthesia. S2–S4 exit through dorsal sacral foramina, not the hiatus.
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q83 — Culdocentesis: site of needle insertion
+
+For culdocentesis, through which structure should the needle be inserted?
+
+- A. Anterior fornix of vagina
+- B. Posterior fornix of vagina
+- C. Anterior wall of rectum
+- D. Posterior wall of uterine body
+
+<details><summary>Answer</summary>
+
+**B. Posterior fornix of vagina** — Culdocentesis = needle aspiration of the **pouch of Douglas (rectouterine pouch)** via the posterior vaginal fornix. Used historically for diagnosis of ruptured ectopic pregnancy (haemoperitoneum), PID (pus). Largely replaced by transvaginal USG. Also called posterior colpotomy when done for drainage.
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q84 — Hirschsprung disease
+
+A 4-day-old neonate has no defecation but is feeding normally. After a digital rectal exam, a large faecal mass is expelled. Diagnosis?
+
+- A. Imperforate anus
+- B. Anal agenesis
+- C. Anorectal agenesis
+- D. Colonic aganglionosis (Hirschsprung disease)
+
+<details><summary>Answer</summary>
+
+**D. Colonic aganglionosis (Hirschsprung disease)** — Absence of ganglion cells (Meissner's submucosal + Auerbach's myenteric plexus) in distal colon due to failed neural crest migration → tonic contraction of aganglionic segment → functional obstruction with proximal megacolon. Diagnosis: rectal biopsy (absent ganglion cells); contrast enema (transition zone). Classic finding: explosive release of stool/gas after rectal exam ("squirt sign").
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q85 — Strongest hip flexor
+
+Which is the strongest flexor of the hip joint?
+
+- A. Sartorius
+- B. Gluteus maximus
+- C. Iliopsoas
+- D. Pectineus
+
+<details><summary>Answer</summary>
+
+**C. Iliopsoas** — Iliopsoas (iliacus + psoas major) is the **chief and most powerful hip flexor**. Inserts on lesser trochanter of femur. Innervation: psoas = L1–L3 ventral rami; iliacus = femoral nerve (L2–L4). Accessory flexors: sartorius, pectineus, rectus femoris. Gluteus maximus = hip extensor (not flexor).
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q86 — Right coronary artery: NOT a branch
+
+Cardiac catheterisation reveals a thrombus in the right coronary artery. Which is NOT a branch of the right coronary artery?
+
+- A. Anterior interventricular artery
+- B. SA nodal artery
+- C. Posterior interventricular artery
+- D. AV nodal artery
+
+<details><summary>Answer</summary>
+
+**A. Anterior interventricular artery** — The anterior interventricular artery (LAD) is a branch of the **left coronary artery**, not the RCA. RCA branches: SA nodal artery (60%), AV nodal artery (90% in right-dominant), right marginal, posterior interventricular (PDA in right-dominant circulation), atrial and ventricular branches. Right-dominant circulation in ~85% of population.
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q87 — Surgical neck of humerus fracture: nerve injury
+
+A cyclist sustains a fracture of the surgical neck of the humerus after a fall. Which nerve is most likely damaged?
+
+- A. Musculocutaneous nerve
+- B. Median nerve
+- C. Ulnar nerve
+- D. Axillary nerve
+
+<details><summary>Answer</summary>
+
+**D. Axillary nerve** — Axillary nerve (C5–C6, posterior cord) wraps around the **surgical neck of humerus** with the posterior circumflex humeral artery → injured in surgical neck fractures and anterior shoulder dislocations. Clinical features: weak shoulder abduction (deltoid paralysis); sensory loss over **"regimental badge"** area (upper lateral arm) supplied by upper lateral cutaneous nerve of arm.
+
+</details>
+
+<!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
