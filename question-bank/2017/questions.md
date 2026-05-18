@@ -1,0 +1,1712 @@
+# NEET-PG 2017 — Recall Questions
+
+> **Source:** NEET-PG-2017 official paper PDF (medicoholic.com compilation) — extracted via pdftotext.  
+> **Question count:** 97 questions parsed cleanly. Original paper had 300 questions; remainder skipped due to OCR/format noise.  
+> **Format:** +4/−1 marking. Attempt where ≥1 option eliminable.  
+
+---
+
+## Anatomy
+
+### Q1 — Nerves of Branchial arch derived from
+
+Nerves of Branchial arch derived from:
+
+- A. Mesoderm
+- B. Endoderm
+- C. Neural crest
+- D. Neuroectoderm
+
+<details><summary>Answer</summary>
+
+**C. Neural crest** — Branchial or pharyngeal arches are masses of mesoderm covered by ectoderm and lined by endoderm. Within these masses, muscular and skeletal components develop, as well as aortic arches and nerve networks. The arches are separated by grooves, visible on the surface of the embryo as pharyngeal clefts 
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#2 | OPTIONS_GENERATED: false -->
+
+### Q2 — What is the tensor of vocal cords
+
+What is the tensor of vocal cords:
+
+- A. Cricothyroid
+- B. Lateral Cricoarytenoid
+- C. Thyroarytenoids
+- D. Posterior cricoarytenoids
+
+<details><summary>Answer</summary>
+
+**A. Cricothyroid** — Cricothyroid : Tensor of vocal cords. Lateral cricoarytenoid: Abductor of vocal cords. Thyroarytenoid: Relaxor of vocal cords. Posterior cricoarytenoid: Abductor of vocal cords
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#4 | OPTIONS_GENERATED: false -->
+
+### Q3 — Ureteric bud develops from
+
+Ureteric bud develops from:
+
+- A. Mesonephros
+- B. Metanephros
+- C. Pronephros
+- D. Genital sinus
+
+<details><summary>Answer</summary>
+
+**A. Mesonephros** — The ureteric bud, also known as the metanephrogenic diverticulum, is a protrusion from the mesonephric duct during the development of the urinary and reproductive organs. It later develops into a conduit (channel) for urine drainage from the kidneys, which, in contrast, originate from the metanephri
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#5 | OPTIONS_GENERATED: false -->
+
+### Q4 — About Weber’s syndrome which is incorrect
+
+About Weber’s syndrome which is incorrect:
+
+- A. Contralateral hemiplegia
+- B. Ipsilateral Oculomotor nerve palsy
+- C. Contralateral Parkinsonism
+- D. Anterior cerebral peduncle
+
+<details><summary>Answer</summary>
+
+**D. Anterior cerebral peduncle** — ● Weber's syndrome (superior alternating hemiplegia) is a form of stroke characterized by the presence of an ipsilateral oculomotor nerve palsy and contralateral hemiparesis or hemiplegia. ● It is caused by midbrain infarction as a result of occlusion of the paramedianbranches of the posterior cereb
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#6 | OPTIONS_GENERATED: false -->
+
+### Q5 — About Sibson’s fascia which is incorrect
+
+About Sibson’s fascia which is incorrect:
+
+- A. Attached to the inner border of 2nd rib
+- B. Covers apical part of lung
+- C. Part of scalenus anterior muscle
+- D. Vessel pass above the fascia
+
+<details><summary>Answer</summary>
+
+**A. Attached to the inner border of 2nd rib** — ● The suprapleural membrane is known as Sibson's fascia. ● It refers to a thickening of connective tissue that covers the apex of each human lung. ● It attaches to the internal border of the first rib and the transverse processes of vertebra C7.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#7 | OPTIONS_GENERATED: false -->
+
+### Q6 — Broca’s area situated in
+
+Broca’s area situated in:
+
+- A. Inferior frontal gyrus
+- B. Superior temporal gyrus
+- C. Angular gyrus
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Inferior frontal gyrus** — ● Broca's area or the Broca area (44) is a region in the frontal lobe of the dominant hemisphere (usually the left) of the hominid brain with functions linked to speech production. ● Inability to speak after injury to the posteriorinferior frontal gyrus of the brain. ● Pierre Paul Brocahe identified
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#9 | OPTIONS_GENERATED: false -->
+
+### Q7 — Function of the muscle shown in picture
+
+Function of the muscle shown in picture:
+
+- A. Flexion
+- B. Extension
+- C. Adduction
+- D. Abduction
+
+<details><summary>Answer</summary>
+
+**A. Flexion** — ● Lumbricals are four short hand muscles located in the metacarpus deep to the palmar fascia. ● The lumbricals are intrinsic muscles of the hand that flex the metacarpophalangeal joints and extendthe interphalangeal joints. ● The lumbricals are used during an upstroke in writing.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#10 | OPTIONS_GENERATED: false -->
+
+### Q8 — Acute tonsillitis effects which nerve
+
+Acute tonsillitis effects which nerve:
+
+- A. Glossopharyngeal Nerve
+- B. Facial Nerve
+- C. Trigeminal nerve
+- D. Vagus Nerve
+
+<details><summary>Answer</summary>
+
+**A. Glossopharyngeal Nerve** — Palatine tonsil is supplied by Tonsillar branch of GLOSSOPHARYNGEAL NERVE and maxillary division of trigeminal nerve but glossopharyngeal is most likely to be damaged during acute tonsillitis and tonsillectomy.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#11 | OPTIONS_GENERATED: false -->
+
+### Q9 — Structures not passing through Aortic opening
+
+Structures not passing through Aortic opening:
+
+- A. Azygos vein
+- B. Aorta
+- C. Thoracic duct
+- D. Vagus
+
+<details><summary>Answer</summary>
+
+**D. Vagus** — ● Aortic opening (Aortic hiatus) is one the three major apertures through the diaphragm & lies at the level of T12. ● A number of structures pass through the aortic hiatus: aorta, azygos vein, thoracic duct, greater splanchnic nerve.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#12 | OPTIONS_GENERATED: false -->
+
+### Q10 — Newly erupted teeth is covered by
+
+Newly erupted teeth is covered by:
+
+- A. Perikymata
+- B. Nasmyth's membrane
+- C. Fibrous tissue
+- D. all of the above
+
+<details><summary>Answer</summary>
+
+**B. Nasmyth's membrane** — • Primary enamel cuticle, also called Nasmyth's membrane, is thin membrane of tissue also known as reduced enamel epithelium (REE) produced by the ameloblast, that covers the tooth once it has erupted. • The primary enamel cuticle protects enamel from resorption by cells of the dental sac and also s
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#13 | OPTIONS_GENERATED: false -->
+
+---
+
+## Physiology
+
+### Q11 — What should be the value of BMI to be considered a
+
+What should be the value of BMI to be considered as “Lethal” in men?
+
+- A. 12
+- B. 18
+- C. 13
+- D. 14
+
+<details><summary>Answer</summary>
+
+**C. 13** — BMI Value of 13 is considered as “Lethal” in men. ● Body mass index (BMI) is an estimate of total body fat mass ● Simply an index of weight for height. ● Formula: ○ Weight in kilograms divided by the square of height in meters. ○ Body mass index = Weight (kg)/(Height)2 (m) ● Uses: ○ Used to classify
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#14 | OPTIONS_GENERATED: false -->
+
+### Q12 — Which receptors are blocked in Myasthenia Gravis
+
+Which receptors are blocked in Myasthenia Gravis?
+
+- A. Ach receptors
+- B. Ca++receptors
+- C. Na2+ receptors
+- D. Opioid receptors
+
+<details><summary>Answer</summary>
+
+**A. Ach receptors** — ● An autoimmune disease ● Antibody mediated autoimmune attack of acetylcholine receptors. ● Inability of neuromuscular junctions to transmit signals from nerve to muscle ● Resulting in muscle weakness and fatigability. ● Unresponsive respiratory muscles may cause respiratory failure in severe cases.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#15 | OPTIONS_GENERATED: false -->
+
+### Q13 — Alpha waves are seen during
+
+Alpha waves are seen during?
+
+- A. Sleep
+- B. REM movements
+- C. Relaxed state
+- D. Active state
+
+<details><summary>Answer</summary>
+
+**C. Relaxed state** — ● Regarded as normal wavefront ● Occur when at rest and eyes closed with active/wandering mind ie., associated with decreased level of attention (either during relaxed/subconscious thinking) ● Regular Rhythm (Frequency 8-13 Hz Amplitude - 50-100 V)
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#19 | OPTIONS_GENERATED: false -->
+
+### Q14 — Components responsible for counter current mechani
+
+Components responsible for counter current mechanism in kidney are all except:
+
+- A. Sodium outflow in thick ascending limb
+- B. Water outflow in thin descending limb
+- C. Sodium outflow in thin ascending limb
+- D. Flow of tubular fluid from PCT to DCT
+
+<details><summary>Answer</summary>
+
+**C. Sodium outflow in thin ascending limb** — ● Counter-current system occurs in kidney ● A system in which inflow runs parallel to, counter to, and in close proximity to the outflow for some distance. ● 2 countercurrent mechanisms available: ● Countercurrent multiplier at Loop of Henle ○ Generate high medullary osmotic gradient pressure ● Coun
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#21 | OPTIONS_GENERATED: false -->
+
+### Q15 — Glucose is absorbed in intestine by
+
+Glucose is absorbed in intestine by?
+
+- A. Secondary active transport
+- B. Facilitated diffusion
+- C. Simple diffusion
+- D. Primary active transport
+
+<details><summary>Answer</summary>
+
+**B. Facilitated diffusion** — ● Facilitated diffusion is a diffusion of large water soluble molecule by a carrier protein. ● Glucose and amino acids are transported across the membrane by this method.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#22 | OPTIONS_GENERATED: false -->
+
+### Q16 — Insulin like growth factor is secreted by
+
+Insulin like growth factor is secreted by:
+
+- A. Liver
+- B. Pituitary gland
+- C. Pancreas
+- D. Adrenal glands
+
+<details><summary>Answer</summary>
+
+**A. Liver** — ● Growth hormone acts on liver to form small proteins called “Somatomedins” ● Somatomedins increases bone growth in all aspect ● Effects are similar to insulin, hence referred to as “Insulin-like Growth Factor” (IGF). ● Four types available - ○ Most important is Somatomedin C - Specifically referred
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#23 | OPTIONS_GENERATED: false -->
+
+### Q17 — Transport across nucleus is by all except
+
+Transport across nucleus is by all except?
+
+- A. Caveolins
+- B. Local signals
+- C. Importins
+- D. Rat proteins
+
+<details><summary>Answer</summary>
+
+**D. Rat proteins** — ● Importin - Type of karyopherin ○ Transporting protein molecules into nucleus by binding to specific recognition sequences, called Nuclear Localization Sequences (NLS). ○ 2 subunits, importin α and importin β. ● Caveolins: ○ Family of integral membrane proteins that are principal components of cave
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#25 | OPTIONS_GENERATED: false -->
+
+---
+
+## Biochemistry
+
+### Q18 — Serotonin is also known as
+
+Serotonin is also known as?
+
+- A. 5-hydroxytryptamine (5-HT)
+- B. N-methyl phenylamine
+- C. 3-Methoxytyramine
+- D. Phenethylamine
+
+<details><summary>Answer</summary>
+
+**A. 5-hydroxytryptamine (5-HT)** — Serotonin/ 5-hydroxytryptamine (5-HT) is a monoamine neurotransmitter.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#27 | OPTIONS_GENERATED: false -->
+
+### Q19 — Tyrosinosis is caused due to deficiency of which e
+
+Tyrosinosis is caused due to deficiency of which enzyme?
+
+- A. Fumarylacetoacetate hydrolase
+- B. p-hydroxy phenyl pyruvate dehydrogenase
+- C. Tyrosine transaminase
+- D. Tyrosine ligase
+
+<details><summary>Answer</summary>
+
+**A. Fumarylacetoacetate hydrolase** — Tyrosinemia, also known as hepatorenal tyrosinemia or tyrosinosis, is the most severe form of tyrosinemia, a buildup of too much of the amino acid tyrosine in the blood and tissues due to an inability to metabolize it. It is caused by a deficiency of the enzyme fumarylacetoacetate hydrolase. Fumaryl
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#28 | OPTIONS_GENERATED: false -->
+
+### Q20 — Lesch–Nyhan syndrome is caused by deficiency of wh
+
+Lesch–Nyhan syndrome is caused by deficiency of which enzyme?
+
+- A. Orotate Phosphoribosyltransferase
+- B. Uracil phosphoribosyltransferase
+- C. Quinolinate Phosphoribosyltransferase
+- D. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)
+
+<details><summary>Answer</summary>
+
+**D. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)** — Lesch–Nyhan syndrome (LNS), also known as juvenile gout, is a rare inherited disorder caused by a deficiency of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRT), produced by mutations in the HPRT gene located on the X chromosome
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#29 | OPTIONS_GENERATED: false -->
+
+### Q21 — Fish odour syndrome is caused by deficiency of whi
+
+Fish odour syndrome is caused by deficiency of which enzyme?
+
+- A. Fumarylacetoacetate hydrolase
+- B. Methane monooxygenase
+- C. Monooxygenase 3 (FMO3)
+- D. D-amino acid oxidase
+
+<details><summary>Answer</summary>
+
+**C. Monooxygenase 3 (FMO3)** — Trimethylaminuria primary trimethylaminuria), also known as fish odor syndrome or fish malodor syndrome, is a rare metabolic disorder that causes a defect in the normal production of an enzyme named flavin-containing monooxygenase 3 (FMO3) When FMO3 is not working correctly or if not enough enzyme i
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#30 | OPTIONS_GENERATED: false -->
+
+### Q22 — Galactosemia is due to deficiency of which enzymes
+
+Galactosemia is due to deficiency of which enzymes?
+
+- A. Galactose-1-phosphate uridyltransferase
+- B. HGPRT
+- C. Galactokinase
+- D. Epimerase
+
+<details><summary>Answer</summary>
+
+**A. Galactose-1-phosphate uridyltransferase** — Galactosaemia (British galactosaemia) is a rare genetic metabolic disorder that affects an individual's ability to metabolize the sugar galactose properly. Galactosemia follows an autosomal recessive mode of inheritance that confers a deficiency in an enzyme responsible for adequate galactose degrad
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#31 | OPTIONS_GENERATED: false -->
+
+### Q23 — About DNA polymerase I which one is correct
+
+About DNA polymerase I which one is correct?
+
+- A. Not required in bacteria
+- B. Repair any damage with DNA
+- C. Involved in okazaki fragment
+- D. Participate in DNA replication
+
+<details><summary>Answer</summary>
+
+**A. Not required in bacteria** — DNA polymerase I participates in the DNA replication of prokaryotes. Function of Pol I is mainly to repair any damage with DNA, but it also serves to connect okazaki fragments deleting RNA primers and replacing the strand with DNA.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#33 | OPTIONS_GENERATED: false -->
+
+### Q24 — What does chaperones assist in
+
+What does chaperones assist in?
+
+- A. Protein Cleavage
+- B. Protein Folding
+- C. Protein Degradation
+- D. Protein Modification
+
+<details><summary>Answer</summary>
+
+**B. Protein Folding** — Folding of Proteins in Vivo Is Promoted by Chaperones
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#34 | OPTIONS_GENERATED: false -->
+
+---
+
+## Pathology
+
+### Q25 — TRALI occurs within how many hours of transfusion
+
+TRALI occurs within how many hours of transfusion?
+
+- A. 48 Hrs
+- B. 72 Hrs
+- C. 6 Hrs
+- D. 12 Hrs
+
+<details><summary>Answer</summary>
+
+**C. 6 Hrs** — ● Transfusion-Related Acute Lung Injury (TRALI) - Syndrome characterized by acute respiratory distress following transfusion. ● Symptoms: ○ Typically develop during, or within 6 hours of transfusion. ○ Rapid onset of dyspnea & tachypnea. ○ Associated fever, cyanosis, & hypotension. ● Clinical examin
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#46 | OPTIONS_GENERATED: false -->
+
+### Q26 — Which of the following is epithelial tumor of stom
+
+Which of the following is epithelial tumor of stomach?
+
+- A. Carcinoid
+- B. Lymphoma
+- C. GIST
+- D. Gastric adenocarcinoma
+
+<details><summary>Answer</summary>
+
+**D. Gastric adenocarcinoma** — ● Malignant epithelial tumor originating from glandular epithelium of gastric mucosa. ● Aggressively invade the gastric wall. ● Lauren classification: ○ Two types of gastric adenocarcinoma are present. ■ Intestinal type ■ Diffuse type ● Intestinal type - Irregular tubular structures ● Diffuse type -
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#49 | OPTIONS_GENERATED: false -->
+
+### Q27 — Identify an X linked disorder
+
+Identify an X linked disorder?
+
+- A. Color blindness
+- B. Thalassemia
+- C. Azoospermia
+- D. Retinitis Pigmentosa
+
+<details><summary>Answer</summary>
+
+**A. Color blindness** — ● Hereditary color blindness/ Achromatopsia ● The ability to appreciate one or more primary color is defective (anomalous) or absent (anopia) ● Due to mutations in X chromosome ● Red & green pigment cones coded by X chromosome; Blue coded on chromosome 7 ● More common in males than females ● Acquire
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#50 | OPTIONS_GENERATED: false -->
+
+### Q28 — Which option best explains “Flipping effect”
+
+Which option best explains “Flipping effect”?
+
+- A. LDH 1 > LDH 2
+- B. LDH2 > LDH1
+- C. LDH 2 > LDH 3
+- D. LDH 3 > LDH 2
+
+<details><summary>Answer</summary>
+
+**A. LDH 1 > LDH 2** — ● Lactate dehydrogenase, tetrameric enzyme with 4 subunits, ● 4 Subunits with 2 isoforms - H isoform (Heart) & M isoform (Muscle) ● Heart & RBCs - LDH-1 (4H); ● Reticuloendothelial system - LDH-2 (3H1M) ● Lungs - LDH-3 (2H2M) ● Kidneys, placenta, & pancreas - LDH-4 (1H3M) ● Liver & striated muscle -
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#53 | OPTIONS_GENERATED: false -->
+
+### Q29 — Which chromosome is responsible for the production
+
+Which chromosome is responsible for the production of MIF?
+
+- A. Chromosome 16
+- B. Chromosome 22
+- C. X Chromosome
+- D. Y chromosome
+
+<details><summary>Answer</summary>
+
+**B. Chromosome 22** — ● Anti-Mullerian Hormone (AMH) / Mullerian Inhibiting Factor (MIF); Mullerian-inhibiting Hormone (MIH) / Mullerian-inhibiting Substance (MIS). ○ AMH - Downstream genes regulated by SRY pathway ● SRY - Gene in “Sex determining region” - short arm of Y chromosome - Testis determining factor. ● Secrete
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#62 | OPTIONS_GENERATED: false -->
+
+---
+
+## Microbiology
+
+### Q30 — Burkholderia cepacia is resistant to which of the
+
+Burkholderia cepacia is resistant to which of the following drugs:
+
+- A. Ceftazidime
+- B. Trimethoprim-sulfamethoxazole
+- C. Temocillin
+- D. Cefotetan
+
+<details><summary>Answer</summary>
+
+**D. Cefotetan** — B. cepacia complex strains are intrinsically resistant to a wide range of antimicrobial agents, including aminoglycosides, polymyxin, first and second generation cephalosporins, and carboxypenicillins Antimicrobial agents that are effective against B. cepacia complex include meropenem, ceftazidime, 
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#63 | OPTIONS_GENERATED: false -->
+
+### Q31 — Urea breath test is used for diagnosis of
+
+Urea breath test is used for diagnosis of:
+
+- A. H.pylori
+- B. Campylobacter jejuni
+- C. E. coli
+- D. Lactobacillus
+
+<details><summary>Answer</summary>
+
+**A. H.pylori** — The urea breath test is a rapid diagnostic procedure used to identify infections by Helicobacter pylori, a spiral bacterium implicated in gastritis, gastric ulcer, and peptic ulcer disease. It is based upon the ability of H. pylori to convert urea to ammonia and carbon dioxide
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#65 | OPTIONS_GENERATED: false -->
+
+### Q32 — Hyperacute graft rejection occurs after how much t
+
+Hyperacute graft rejection occurs after how much time?
+
+- A. 24 hours
+- B. 2 weeks right
+- C. In minutes
+- D. Years
+
+<details><summary>Answer</summary>
+
+**C. In minutes** — Hyperacute Transplant Rejection occurs almost immediately and is often evident while you are still in surgery. It is caused by accidental ABO Blood type mismatching of the donor and recipient which almost never happens anymore..Acute onset is in few weeks to month. Chronic onset is from months to ye
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#66 | OPTIONS_GENERATED: false -->
+
+### Q33 — Sabin Feldman dye test is used for diagnosis of wh
+
+Sabin Feldman dye test is used for diagnosis of which of the following condition:
+
+- A. Botulism
+- B. Toxoplasmosis
+- C. Sarcoidosis
+- D. Yellow fever
+
+<details><summary>Answer</summary>
+
+**B. Toxoplasmosis** — A Sabin–Feldman dye test is a serologic test to diagnose for toxoplasmosis
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#69 | OPTIONS_GENERATED: false -->
+
+### Q34 — Acute Hemorrhagic Conjunctivitis is caused by whic
+
+Acute Hemorrhagic Conjunctivitis is caused by which of enterovirus type ?
+
+- A. 69
+- B. 68
+- C. 70
+- D. 71
+
+<details><summary>Answer</summary>
+
+**C. 70** — Acute hemorrhagic conjunctivitis (AHC) is characterized by conjunctival congestion, vascular dilatation, and onset of edema .Serologic studies have been useful in showing the presence of neutralizing antibodies to Coxsackie group A24 (CA24) and enterovirus E70 (EV70) strains as the causative agent.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#70 | OPTIONS_GENERATED: false -->
+
+### Q35 — Echinococcus granulosus are commonly seen in which
+
+Echinococcus granulosus are commonly seen in which of the given animals:
+
+- A. Dog
+- B. Cat
+- C. Fox
+- D. Pig
+
+<details><summary>Answer</summary>
+
+**A. Dog** — Echinococcus granulosus, also called the hydatid worm, hyper tape-worm or dog tapeworm. Domestic dogs (Canis familiaris) have been recognised as the definitive host of the parasite.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#71 | OPTIONS_GENERATED: false -->
+
+### Q36 — An anaerobe causing multiple abscess with discharg
+
+An anaerobe causing multiple abscess with discharging sinuses, demonstrating sulphur granules in pus is?
+
+- A. Actinomycetes
+- B. Nocardia
+- C. Salmonella
+- D. Tularemia
+
+<details><summary>Answer</summary>
+
+**A. Actinomycetes** — Multiple abscess with discharging sinuses, demonstrating sulphur granules in pus are characteristics of actinomycetes
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#72 | OPTIONS_GENERATED: false -->
+
+### Q37 — Whole blood is used as a sample for which test
+
+Whole blood is used as a sample for which test?
+
+- A. Bacteria
+- B. IGRA
+- C. Genexpert
+- D. Virus
+
+<details><summary>Answer</summary>
+
+**B. IGRA** — Interferon-Gamma Release Assays (IGRAs) are whole-blood tests that can aid in diagnosing Mycobacterium tuberculosis infection
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#73 | OPTIONS_GENERATED: false -->
+
+### Q38 — Which organism causing acute bacterial prostatitis
+
+Which organism causing acute bacterial prostatitis ?
+
+- A. Enterococcus
+- B. Streptococcus viridans
+- C. Peptostreptococcus
+- D. E.coli
+
+<details><summary>Answer</summary>
+
+**D. E.coli** — Aerobic gram-negative bacilli are the predominant pathogens in bacterial prostatitis. E. coli cause 50%–80% of cases; other pathogens include Enterobacteriaceae (eg, Klebsiella and Proteus, which account for 10%–30% of cases), Enterococcus species (5%–10%)
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#74 | OPTIONS_GENERATED: false -->
+
+### Q39 — Who is the father of microbiology
+
+Who is the father of microbiology?
+
+- A. A.V.L.hook
+- B. Robert brown
+- C. J.C Bose
+- D. Pasteur
+
+<details><summary>Answer</summary>
+
+**A. A.V.L.hook** — “Antoni van Leeuwenhoek” is commonly known as "the Father of Microbiology.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#76 | OPTIONS_GENERATED: false -->
+
+### Q40 — Cutaneous larva migrans caused by which organism
+
+Cutaneous larva migrans caused by which organism?
+
+- A. Strongyloides
+- B. Toxocara canis
+- C. Ancylostoma braziliense
+- D. Necator americanus
+
+<details><summary>Answer</summary>
+
+**C. Ancylostoma braziliense** — Cutaneous larva migrans(CLM) ● /It is a skin disease in humans, caused by the larvae of various nematode parasites of the hookworm family (Ancylostomatidae). ● The most common species causing this disease in the Americas is Ancylostoma braziliense. ● These parasites live in the intestines of dogs, c
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#77 | OPTIONS_GENERATED: false -->
+
+### Q41 — In Bartter syndrome defect is seen in
+
+In Bartter syndrome defect is seen in:
+
+- A. Defect in PCT
+- B. Defect in DCT
+- C. Defect in thick ascending limb of loop of henle
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Defect in thick ascending limb of loop of henle** — Autosomal recessive disorder. Genetic defect in the thick ascending limb of the loop of henle Defects in Na-K-2C/ coLtransporter, K or Cl channels result in lack of concentrating ability
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#82 | OPTIONS_GENERATED: false -->
+
+### Q42 — Automatic Implantable Cardioverter Defibrillator,
+
+Automatic Implantable Cardioverter Defibrillator, (AICD) implantation is done for which of following conditions:
+
+- A. Brugada syndrome
+- B. Ventricular fibrillation
+- C. Acute coronary syndrome with low EF
+- D. ALL
+
+<details><summary>Answer</summary>
+
+**D. ALL** — An Automatic Implantable Cardioverter Defibrillator, (AICD), is a small electronic device that is implanted into your chest to monitor and correct an abnormal heart rhythm, or arrhythmia. These devices are used to treat serious and life-threatening arrhythmias and are the most effective way of doing
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#85 | OPTIONS_GENERATED: false -->
+
+### Q43 — What is the line of treatment for intractable Syde
+
+What is the line of treatment for intractable Sydenham chorea?
+
+- A. Haloperidol
+- B. Valproate
+- C. Warfarin
+- D. Risperidone
+
+<details><summary>Answer</summary>
+
+**B. Valproate** — ● Sydenham's chorea (SC) / Chorea minor / Rheumatic chorea (RC) / St. Vitus’ s Dance ○ Major diagnostic criteria for rheumatic disease ○ Most common acquired chorea during childhood ○ Characterized by rapid, uncoordinated jerking movements primarily affecting the face, hands and feet ● Benzodiazepin
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#86 | OPTIONS_GENERATED: false -->
+
+### Q44 — Approximate time interval between HIV infection &
+
+Approximate time interval between HIV infection & manifestation of AIDS is?
+
+- A. 7.5 yr
+- B. 10 yr
+- C. 12 yr
+- D. 11 yr
+
+<details><summary>Answer</summary>
+
+**B. 10 yr** — The approximate time frame required for incubation is usually 10 years.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#89 | OPTIONS_GENERATED: false -->
+
+### Q45 — Alternative drug for cardiac arrest in place of ep
+
+Alternative drug for cardiac arrest in place of epinephrine is?
+
+- A. Amiodarone infusion
+- B. Atropine
+- C. High dose vasopressin
+- D. Adenosine
+
+<details><summary>Answer</summary>
+
+**C. High dose vasopressin** — ● Vasopressin is an alternative vasopressor at high doses, causes vasoconstriction by directly stimulating smooth muscle V1 receptors. ● American Heart Association (AHA) guidelines states “Vasopressin is a reasonable first-line vasopressor in patients with ventricular fibrillation or pulseless ventr
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#92 | OPTIONS_GENERATED: false -->
+
+---
+
+## Pharmacology
+
+### Q46 — Which antiretroviral drug also has anti hepatitis
+
+Which antiretroviral drug also has anti hepatitis activity?
+
+- A. Abacavir
+- B. Tenofovir
+- C. Nevirapine
+- D. Emtricitabine
+
+<details><summary>Answer</summary>
+
+**D. Emtricitabine** — Emtricitabine, NRTI drug with both antiretroviral & anti-hepatitis properties ● Nucleoside reverse transcriptase inhibitor for the prevention and treatment of HIV infection in adults and children. ● Also used in combination with tenofovir
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#100 | OPTIONS_GENERATED: false -->
+
+### Q47 — What is mechanism of action of colchicine in acute
+
+What is mechanism of action of colchicine in acute gout?
+
+- A. Inhibition of purine metabolism
+- B. Inhibition of uric acid conversion
+- C. Migration of leukocytes
+- D. Leukocytes, lymphocytes inhibition & microtubular inhibitor.
+
+<details><summary>Answer</summary>
+
+**D. Leukocytes, lymphocytes inhibition & microtubular inhibitor.** — Colchicine acts by inhibiting the granulocyte migration into the inflamed joint. ● An alkaloid from Colchium autumnale ● Specifically suppresses gouty inflammation. ● Doesn’t inhibit the synthesis or promote the excretion of uric acid. Mechanism of action: ● Colchicine acts by, ○ inhibits the releas
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#104 | OPTIONS_GENERATED: false -->
+
+### Q48 — Which of the following is glucocorticoid synthesis
+
+Which of the following is glucocorticoid synthesis inhibitor?
+
+- A. Mifepristone
+- B. Flutamide
+- C. Finasteride
+- D. Metyrapone
+
+<details><summary>Answer</summary>
+
+**D. Metyrapone** — ● Inhibits 1113- Hydroxylase in adrenal cortex ● Prevents the synthesis of hydrocortisone
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#108 | OPTIONS_GENERATED: false -->
+
+### Q49 — Which of the following statements is incorrect w.r
+
+Which of the following statements is incorrect w.r.t Prasugrel?
+
+- A. Not a prodrug
+- B. P2Y purinergic receptor blocker
+- C. Has a strong antiplatelet activity
+- D. Causes intracranial hemorrhage in TIA patients.
+
+<details><summary>Answer</summary>
+
+**A. Not a prodrug** — ● Prasugrel is a prodrug , similar to Clopidogrel ● Thienopyridine drug class ● Irreversible antagonist of P2Y12 ADP receptors ● Rapidly absorbed, completely activated & exerts more consistent platelet inhibition. ● Strong anti-platelet activity ● Bleeding complications are more serious and frequent
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#109 | OPTIONS_GENERATED: false -->
+
+### Q50 — Q-T elongation is seen in which drug
+
+Q-T elongation is seen in which drug?
+
+- A. Quinidine
+- B. Amiodarone
+- C. Magnesium Sulfate
+- D. Lignocaine
+
+<details><summary>Answer</summary>
+
+**A. Quinidine** — ● Specific pattern of Q-T prolongation is referred to as “Torsades de pointes” ● Drugs causing Torsades de Pointes o Quinidine (most common) o Sotalol o Procainamide o Disopyramide o Phenothiazines o Tricyclic antidepressants
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#110 | OPTIONS_GENERATED: false -->
+
+### Q51 — Endothelin acts through which receptors
+
+Endothelin acts through which receptors?
+
+- A. cAMP
+- B. cGMP
+- C. Na+ receptors
+- D. Calcium receptos
+
+<details><summary>Answer</summary>
+
+**A. cAMP** — Endothelin-1 (ET-1) is a potent endogenous vasoconstrictor, mainly secreted by endothelial cells.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#113 | OPTIONS_GENERATED: false -->
+
+### Q52 — Which of the following causes melanosis coli
+
+Which of the following causes melanosis coli?
+
+- A. Senna
+- B. Sorbitol
+- C. Magnesium Sulphate
+- D. Bisacodyl
+
+<details><summary>Answer</summary>
+
+**A. Senna** — Laxative abuse with drugs like senna cause melanosis coli ● Anthranoid laxatives (aloe, cascara sagrada, and senna) are derived from naturally occurring plants ● Considered to be stimulant laxatives. ● Safer short term use. ● Long term abuse can cause melanosis coli & possibly increases risk of colo
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#118 | OPTIONS_GENERATED: false -->
+
+### Q53 — Tadalafil should not be given with
+
+Tadalafil should not be given with:
+
+- A. Vasodilator
+- B. Antibiotics
+- C. Vasoconstrictors
+- D. Valproate
+
+<details><summary>Answer</summary>
+
+**A. Vasodilator** — Combination with vasodilators results in sudden changes of blood pressure values ● Tadalafil relaxes muscles of the blood vessels and increases blood flow to particular areas of the body. ● Used to treat erectile dysfunction (Impotence), and symptoms of benign prostatic hypertrophy (Enlarged prostat
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#121 | OPTIONS_GENERATED: false -->
+
+---
+
+## Forensic Medicine
+
+### Q54 — Estimate volume of ringer lactate in first 8 hrs f
+
+Estimate volume of ringer lactate in first 8 hrs for 40% burns in 50 kg male with 2° burns?
+
+- A. 8 lt
+- B. 4 lt
+- C. 2 lt
+- D. 6 lt
+
+<details><summary>Answer</summary>
+
+**B. 4 lt** — Parkland formula most commonly used IV fluid - Lactated Ringer's Solution ● Fluid calculation ○ 4 x weight in kg x %TBSA burn ■ Give 1/2 of that volume in the first 8 hours ■ Give other 1/2 in next 16 hours ■ Warning: Despite the formula suggesting cutting the fluid rate in half at 8 hours, the flui
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#122 | OPTIONS_GENERATED: false -->
+
+### Q55 — M'naghten rule comes under which section of IPC
+
+M'naghten rule comes under which section of IPC?
+
+- A. Crpc 84
+- B. C pc 48
+- C. Ipc 84
+- D. IPC 48
+
+<details><summary>Answer</summary>
+
+**C. Ipc 84** — M'naghten rule (legal test or right or wrong test) : ● It states that an accused person is not legally responsible, if it is clearly proved that at the time of committing the crime, person was suffering from such a defect of reason from abnormality of mind that he didn't know the nature and quality 
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#124 | OPTIONS_GENERATED: false -->
+
+### Q56 — Bluish discoloration of gastric mucosa seen in whi
+
+Bluish discoloration of gastric mucosa seen in which poisoning?
+
+- A. Mercury
+- B. Cadmium
+- C. Amytal sodium
+- D. Arsenic
+
+<details><summary>Answer</summary>
+
+**C. Amytal sodium** — S. No. Poison Color 1. Copper sulfate, amytal capsule Blue 2. Ferrous sulfate Green 3. Sulphuric hydrochloric/acetic acid Black/charred 4. Nitric acid Yellow 5. Carbolic acid Buff/white 6. Arsenic White particles 7. Mercury Slate 8. Cresols Brown
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#125 | OPTIONS_GENERATED: false -->
+
+### Q57 — Which is the first organ to putrefy
+
+Which is the first organ to putrefy :
+
+- A. Brian
+- B. Heart
+- C. Prostate
+- D. Kidney
+
+<details><summary>Answer</summary>
+
+**A. Brian** — The order of putrefaction is - earliest to last → larynx, trachea → Stomach, intesƟne → liver, spleen → Brain, Lungs →Heart, Kidney →Bladder, Uterus/Prostrate → Skin, muscles, tendon → lastly, bones.)
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#127 | OPTIONS_GENERATED: false -->
+
+### Q58 — When does basiocciput fuses with basisphenoid
+
+When does basiocciput fuses with basisphenoid?
+
+- A. 18 to 22
+- B. 22 to 25
+- C. 14-16
+- D. 12-14
+
+<details><summary>Answer</summary>
+
+**A. 18 to 22** — The basioccipital fuses with the basisphenoid at about 18 to 21 years.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#129 | OPTIONS_GENERATED: false -->
+
+### Q59 — What is the smell of mummified body
+
+What is the smell of mummified body?
+
+- A. Odourless
+- B. Putrid
+- C. Pungent
+- D. Offensive
+
+<details><summary>Answer</summary>
+
+**A. Odourless** — A mummy will smell odourless, this is because the internal organs are removed (which are the biggest factors in the decay process) and replaced with natron (which dries them out, preventing 'proper' decay). The rest of the body is also dried using natron.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#130 | OPTIONS_GENERATED: false -->
+
+### Q60 — Patient presented with proximal tubule proteinuria
+
+Patient presented with proximal tubule proteinuria. Which metal is likely to be associated with it?
+
+- A. Cadmium
+- B. Mercury
+- C. Gold
+- D. Lead
+
+<details><summary>Answer</summary>
+
+**A. Cadmium** — Early kidney damage and proteinuria seen in people, occupationally or environmentally exposed to cadmium.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#131 | OPTIONS_GENERATED: false -->
+
+### Q61 — Which of the following constitutional article is n
+
+Which of the following constitutional article is not related to children:
+
+- A. 23
+- B. 21-A
+- C. 42
+- D. 24
+
+<details><summary>Answer</summary>
+
+**C. 42** — Constitutional Guarantees that are meant specifically for children include: • Right to free and compulsory elementary education for all children in the 6-14 year age group (Article 21 A) • Right to be protected from any hazardous employment till the age of 14 years (Article 24) • Right to be protect
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#132 | OPTIONS_GENERATED: false -->
+
+---
+
+## Surgery
+
+### Q62 — Which of the following statement is true about sut
+
+Which of the following statement is true about suture material in the image:
+
+- A. Made of rabbit submucosa
+- B. Made of cat submucosa
+- C. Not degraded
+- D. Degraded by enzymatic degradation
+
+<details><summary>Answer</summary>
+
+**D. Degraded by enzymatic degradation** — Sutures such as catgut are derived from sheep submucosa or beef serosa are digested by proteolytic enzymes in the wound.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#162 | OPTIONS_GENERATED: false -->
+
+### Q63 — Van nuys prognostic index is not based on
+
+Van nuys prognostic index is not based on:
+
+- A. Age
+- B. Microcalcification
+- C. Size
+- D. ER status
+
+<details><summary>Answer</summary>
+
+**D. ER status** — The Van Nuys Prognostic Index is based on size & grade of DCIS, margins and age of patient. Van Nuys Prognostic Index Parameter Score 1 Score 2 Score 3 Van Nuys Classification Group 1 Group 2 Group 3 Non high nuclear grade Non High nuclear grade High nuclear grade with or without necrosis with necro
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#163 | OPTIONS_GENERATED: false -->
+
+### Q64 — Which of the following layers are cut during fasci
+
+Which of the following layers are cut during fasciotomy ?
+
+- A. Skin
+- B. Skin+subcutaneous fascia
+- C. Skin+subcutaneous tissue+Superficial fascia
+- D. Skin+subcutaneous tissue+Superficial fascia+deep fascia
+
+<details><summary>Answer</summary>
+
+**D. Skin+subcutaneous tissue+Superficial fascia+deep fascia** — Fasciotomy or fasciectomy is a surgical procedure where complete opening of all fascial envelope is done to relieve tension or pressure commonly to treat the resulting loss of circulation to an area of tissue or muscle. Fasciotomy is a limb-saving procedure when used to treat acute compartment syndr
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#166 | OPTIONS_GENERATED: false -->
+
+### Q65 — Which statement is not true regarding crohn's dise
+
+Which statement is not true regarding crohn's disease :
+
+- A. Rectum is not involved
+- B. Continuous lesion visualized in endoscopy
+- C. Non caseating granulomas
+- D. Cobblestone appearance
+
+<details><summary>Answer</summary>
+
+**B. Continuous lesion visualized in endoscopy** — Crohn's disease is frequently associated with "skip lesions," discontinuous areas of active disease in the colon and small intestine with intervening segments that appear normal.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#167 | OPTIONS_GENERATED: false -->
+
+### Q66 — Which is the best investigation for carcinoma head
+
+Which is the best investigation for carcinoma head of pancreas:
+
+- A. Guided biopsy
+- B. ERCP
+- C. Transduodenal/transperitoneal sampling
+- D. EUS
+
+<details><summary>Answer</summary>
+
+**A. Guided biopsy** — Percutaneous liver biopsy under USG or CT guidance can be diagnostic, but there is a risk of hemorrhage as these tumors are highly vascular.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#168 | OPTIONS_GENERATED: false -->
+
+---
+
+## Orthopaedics
+
+### Q67 — What is mechanism of action of Curanium drugs as m
+
+What is mechanism of action of Curanium drugs as muscle relaxant?
+
+- A. Persistently depolarizing at Neuromuscular junction
+- B. Act competitively on Ach receptors blocking post-synaptically
+- C. Repetitive stimulation of Ach receptors on muscle end plate
+- D. Inhibiting the calcium channel on presynaptic membrane
+
+<details><summary>Answer</summary>
+
+**B. Act competitively on Ach receptors blocking post-synaptically** — ● Candocuronium iodide is an aminosteroid neuromuscular-blocking drug or skeletal muscle relaxant in the category of non-depolarizing neuromuscular-blocking drugs. ● Acts on Ach receptors competitively post-synaptically blocking them. ● Potential adjunctive use in anaesthesia to facilitate endotrach
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#215 | OPTIONS_GENERATED: false -->
+
+---
+
+## ENT
+
+### Q68 — Tracheostomy indication is
+
+Tracheostomy indication is:
+
+- A. Vocal cord replacement
+- B. Pharynx replacement
+- C. Tracheomalacia
+- D. Foreign body obstructing airway
+
+<details><summary>Answer</summary>
+
+**D. Foreign body obstructing airway** — Indications of tracheostomy: 1- Upper respiratory tract obstruction; Laryngeal, supralaryngeal ,and tracheal causes.( Causes of stridor ) 2- Lower respiratory tract obstruction: (Secretory obstruction, Wet lung syndrome).
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#151 | OPTIONS_GENERATED: false -->
+
+### Q69 — Which is thickened nerve shown here
+
+Which is thickened nerve shown here:
+
+- A. Facial Nerve
+- B. Greater auricular nerve
+- C. Vagus Nerve
+- D. Glossopharyngeal Nerve
+
+<details><summary>Answer</summary>
+
+**B. Greater auricular nerve** — The greater auricular nerve is a cutaneous branch of the cervical plexus that innervates the skin of the auricle as well as skin over the parotid gland and mastoid process. The greater auricular nerve also supplies branches that innervate the deep layer of the parotid fascia. Origin The greater auri
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#152 | OPTIONS_GENERATED: false -->
+
+---
+
+## Ophthalmology
+
+### Q70 — 100 day Glaucoma seen in which of the following co
+
+100 day Glaucoma seen in which of the following condition:
+
+- A. Central retinal vein occlusion (CRVO)
+- B. Neovascular glaucoma
+- C. Central retinal artery occlusion (CRAO)
+- D. Steroid induced Glaucoma
+
+<details><summary>Answer</summary>
+
+**A. Central retinal vein occlusion (CRVO)** — 1. 100 days glaucoma is a neovascular glaucoma occurring in CRVO. 2. It consists of occlusion of central retinal vein without significant retinal ischemia. 3. This results in a venous stasis. 4. Recurrent hemorrhages are frequent and neovascularization of retina and optic disc develop. 5. Retina und
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#155 | OPTIONS_GENERATED: false -->
+
+### Q71 — Yoke muscle of right lateral rectus
+
+Yoke muscle of right lateral rectus:
+
+- A. Lt medial rectus
+- B. Lt superior rectus
+- C. Lt lateral rectus
+- D. Lt inferior oblique
+
+<details><summary>Answer</summary>
+
+**A. Lt medial rectus** — ● Contralaterally paired extraocular muscles that work synergistically to direct the gaze in a given direction. ● For example, in directing the gaze to the right, the right lateral rectus and left medial rectus operate together as yoke muscles.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#157 | OPTIONS_GENERATED: false -->
+
+### Q72 — Which is example of the Simple Myopic Astigmatism
+
+Which is example of the Simple Myopic Astigmatism among the prescriptions given below:
+
+- A. Rx (+) sphere
+- B. Rx will be plano (-)
+- C. Rx will be (-) sphere
+- D. (-)(+) (+)(-) on both 90 and 180 degree axis
+
+<details><summary>Answer</summary>
+
+**B. Rx will be plano (-)** — ● When eyewear prescriptions are written, they can be classified into different areas depending on the power or refractive error. ● There are seven categories to which prescriptions can fall: 1. Simple Hyperopia, the Rx will be (+) sphere 2. Simple Myopia, the Rx will be (-) sphere 3. Simple Myopic 
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#159 | OPTIONS_GENERATED: false -->
+
+---
+
+## Psychiatry
+
+### Q73 — A patient with a history of RTA before 2 months pr
+
+A patient with a history of RTA before 2 months presents with complaints of dreams of accidents. He is able to visualize the same scene whenever he visits the place. Hence is afraid to go back to the accident site. Identify the type of disorder that he might be suffering from?
+
+- A. Adjustment disorder
+- B. PTSD
+- C. Anxiety disorder
+- D. OCD
+
+<details><summary>Answer</summary>
+
+**B. PTSD** — ● Post-traumatic stress disorder, basically a type of anxiety disorder ● Though it shares features with other anxiety disorders, has its own specific characteristics in presentation. ● Criteria 1: ○ Etiologically significant trauma should be present to be classified under this condition. ● Criteria 
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#231 | OPTIONS_GENERATED: false -->
+
+---
+
+## Radiology
+
+### Q74 — Dye used in diagnosis of esophageal perforation
+
+Dye used in diagnosis of esophageal perforation:
+
+- A. Iohexol
+- B. Barium sulphate
+- C. Gadolinium
+- D. Iodine dye
+
+<details><summary>Answer</summary>
+
+**B. Barium sulphate** — ● Barium sulfate in suspension is frequently used medically as a radiocontrast agent for X-ray imaging and other diagnostic procedures. ● It is most often used in imaging of the GI tract during what is colloquially known as a "barium meal". Fluoroscopy ● most sensitive within the first 24 hours. ● p
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#219 | OPTIONS_GENERATED: false -->
+
+### Q75 — Bragg peak effect pronounced in
+
+Bragg peak effect pronounced in:
+
+- A. X ray
+- B. Proton
+- C. Neutron
+- D. Electron
+
+<details><summary>Answer</summary>
+
+**B. Proton** — Bragg peak ● Pronounced peak on the Bragg curve which plots the energy loss ofionizing radiation during its travel through matter. ● Forprotons,α-rays, and otherion rays, the peak occurs immediately before the particles come to rest. This is called Bragg peak, afterWilliam Henry Bragg who discovered
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#220 | OPTIONS_GENERATED: false -->
+
+### Q76 — Salt and Pepper pot appearance of skull seen in
+
+Salt and Pepper pot appearance of skull seen in:
+
+- A. Hyperparathyroidism
+- B. Multiple myeloma
+- C. Hyperthyroidism
+- D. Pseudo hyperparathyroidism
+
+<details><summary>Answer</summary>
+
+**A. Hyperparathyroidism** — ● Pepperpot skull is occasionally used in place of salt and pepper skull to describe the typical radiographic appearance of multiple small radiolucent lesions of the skull vault. ● In primary hyperparathyroidism, extensive resorption bone in the skull in combination with cystic areas of osteopenia a
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#221 | OPTIONS_GENERATED: false -->
+
+### Q77 — Spot radiograph from a double contrast esophagram
+
+Spot radiograph from a double contrast esophagram. Image represents:
+
+- A. Esophageal atresia
+- B. Esophageal stenosis
+- C. Feline oesophagus
+- D. Tracheoesophageal fistula
+
+<details><summary>Answer</summary>
+
+**C. Feline oesophagus** — In given image, there are numerous 1-2 mm radiolucent folds across the oesophagus. The folds are angled with respect to the center of the oesophagus in a "herringbone" pattern. The folds occur transiently. Feline oesophagus also known as oesophageal shiver, refers to the transient transverse bands s
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#223 | OPTIONS_GENERATED: false -->
+
+### Q78 — What is diagnosis based on given image
+
+What is diagnosis based on given image:
+
+- A. Uterus didelphys
+- B. Bicornuate Uterus
+- C. Unicornuate Uterus
+- D. Septate uterus
+
+<details><summary>Answer</summary>
+
+**C. Unicornuate Uterus** — ● A unicornuate uterus or unicornis unicollis is a type of Mullerian duct anomaly (class II) that is the second most commonly associated with miscarriages. ● This type can account for ~10% (range 6-13%) of uterine anomalies and infertility is seen in ~12.5% (range 5-20%) of cases. Above image unicor
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#225 | OPTIONS_GENERATED: false -->
+
+### Q79 — X ray of skull showing which lesions in brain
+
+X ray of skull showing which lesions in brain:
+
+- A. Paget's disease
+- B. Multiple myeloma
+- C. Osteosarcoma
+- D. Osteomyelitis
+
+<details><summary>Answer</summary>
+
+**A. Paget's disease** — Paget diseaseof the bone is a common, chronic bone disorder characterised by excessive abnormal bone remodelling. It frequently affects the pelvis, spine, skull and proximal long bones and has characteristic radiographic features. Radiographic features The early phase features osteolytic (lucent) re
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#226 | OPTIONS_GENERATED: false -->
+
+### Q80 — CT scan of abdomen showing an area that branching
+
+CT scan of abdomen showing an area that branching into the liver. Identify the structure ?
+
+- A. SVC
+- B. IVC
+- C. Portal vein
+- D. Splenic vein
+
+<details><summary>Answer</summary>
+
+**C. Portal vein** — ● The portal vein or hepatic portal vein is a blood vessel that carries blood from the gastrointestinal tract, gallbladder, pancreas and spleen to the liver. ● This blood contains nutrients and toxins extracted from digested contents. Approximately 75% of total liver blood flow is through the portal
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#228 | OPTIONS_GENERATED: false -->
+
+---
+
+## Miscellaneous
+
+### Q81 — A 55 years aged chronic alcoholic male, presented
+
+A 55 years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable diagnosis?
+
+- A. Delirium tremens
+- B. Korsakoff psychosis
+- C. Post-Acute withdrawal syndrome
+- D. Discontinuation syndrome
+
+<details><summary>Answer</summary>
+
+**A. Delirium tremens** — The description of symptoms is related to the condition “Delirium Tremens” ● Delirium Tremens / Alcohol Withdrawal Delirium (AWD): ○ Most severe form of ethanol withdrawal manifested by, ■ Altered mental status (Global confusion) ■ Autonomic hyperactivity (Sympathetic overdrive) ● Mechanism: ○ Alcoh
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#237 | OPTIONS_GENERATED: false -->
+
+### Q82 — Which of the following is carrying agent for the d
+
+Which of the following is carrying agent for the disease with given characteristic on polarized microscopy?
+
+- A. Anopheles
+- B. Ixodes scapularis ticks
+- C. Louse
+- D. Rat flea
+
+<details><summary>Answer</summary>
+
+**B. Ixodes scapularis ticks** — ● Babesiosis infects the RBCs and resides inside the RBCs ( intraerythrocytic). ● Intraerythrocytic infection of Babesiosis is characterised by maltese cross. ● Maltese cross is a characteristic arrangement of parasites within the erythrocytes --->Parasites within erythrocytes are arranged such that
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#238 | OPTIONS_GENERATED: false -->
+
+### Q83 — Which of the following is best Stent for Femoropop
+
+Which of the following is best Stent for Femoropopliteal Bypass?
+
+- A. Dacron
+- B. Reversed saphenous
+- C. PTFE
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. PTFE** — ● PTFE-covered stents are engineered with a 30–100 micron pore size to allow for endothelial lining of the stent-graft and vessel healing. ● Only self-expanding covered nitinol stents should be used in femoropopliteal interventions.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#239 | OPTIONS_GENERATED: false -->
+
+### Q84 — Which of the following condition is NOT caused by
+
+Which of the following condition is NOT caused by Parvovirus B19?
+
+- A. Roseola infantum
+- B. Aplastic anemia in sickle cell disease
+- C. Fetal hydrops
+- D. Erythema infectiosum
+
+<details><summary>Answer</summary>
+
+**A. Roseola infantum** — Primary infection by parvovirus B19 often produces an acute, severe, and sometimes fatal anemia manifested as a rapid fall in red blood cell count and hemoglobin. These patients may present initially with no clinical symptoms other than fever; this is commonly referred to as aplastic crisis. Erythem
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#244 | OPTIONS_GENERATED: false -->
+
+### Q85 — Which of the following statements is not true abou
+
+Which of the following statements is not true about iliolumbar ligament?
+
+- A. Upper fibres attached to iliac crest
+- B. Lower fibres attached to base of sacrum
+- C. Help in maintaining lumbosacral joint stability
+- D. Upper attachment to transverse process of T12
+
+<details><summary>Answer</summary>
+
+**D. Upper attachment to transverse process of T12** — The ligament attaches to T5 Iliolumbar ligament: ● Strong ligament passing from the tip of transverse process of fifth lumbar vertebra to posterior part of inner lip of iliac crest ● Upper bands gets attached to the iliac crest. ● Lower bands gets attached to base of sacrum. ● Major function is to s
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#245 | OPTIONS_GENERATED: false -->
+
+### Q86 — Where will be the placement location for Auditory
+
+Where will be the placement location for Auditory Brainstem Implant?
+
+- A. Scala tympani
+- B. Recess of 4th ventricle
+- C. IAC
+- D. back of ear
+
+<details><summary>Answer</summary>
+
+**B. Recess of 4th ventricle** — The implant is usually placed in the lateral recess of the fourth ventricle at the time of tumor resection to stimulate the cochlear nucleus Auditory Brainstem Implant (ABI): ● Tumor resection surgery in NF patients result in cochlear nerve damage or loss of function of nerve resulting in deafness. 
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#246 | OPTIONS_GENERATED: false -->
+
+### Q87 — Which condition is associated with Congenital adre
+
+Which condition is associated with Congenital adrenal hypoplasia?
+
+- A. Male pseudohermaphroditism
+- B. Female pseudohermaphroditism
+- C. True pseudohermaphroditism
+- D. Sequential pseudohermaphroditism
+
+<details><summary>Answer</summary>
+
+**A. Male pseudohermaphroditism** — ● X-linked congenital adrenal hypoplasia (AHC) is a rare developmental disorder of the human adrenal cortex and is caused by deletion or mutation of the DAX-1 gene. ● DAX1 necessary for differentiation of the definitive adult adrenal cortex ● Male pseudohermaphroditism results from inadequate androg
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#247 | OPTIONS_GENERATED: false -->
+
+### Q88 — Which is true regarding ataxia telangiectasia
+
+Which is true regarding ataxia telangiectasia:
+
+- A. Increase in AFP
+- B. Increases the risk of squamous cell carcinoma
+- C. Autosomal dominant
+- D. None of above
+
+<details><summary>Answer</summary>
+
+**A. Increase in AFP** — Increase in alpha-fetoprotein is observed in Ataxia telangiectasia ● Ataxia-telangiectasia / Ataxia-telangiectasia syndrome / Louis-Bar syndrome ○ Rare, neurodegenerative, autosomal recessive disorder causing severe disability. ○ Ataxia refers to poor coordination; Telangiectasia refers to small dil
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#248 | OPTIONS_GENERATED: false -->
+
+### Q89 — Which is the treatment of choice for irradiation i
+
+Which is the treatment of choice for irradiation in Chordoma?
+
+- A. Protons
+- B. Electrons
+- C. Gamma radiation
+- D. 3D - CRT
+
+<details><summary>Answer</summary>
+
+**A. Protons** — ● Chordoma: ○ Slow-growing neoplasm ○ Arising from cellular remnants of notochord. ○ Arise from bone in skull base and along spinal cord. ○ Most common locations - ■ Cranially at clivus ■ In sacrum at bottom of spine ● Radiation therapy: ○ Are relatively radioresistant ○ High doses of radiation requ
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#273 | OPTIONS_GENERATED: false -->
+
+### Q90 — A woman shows symptoms of massive pulmonary thromb
+
+A woman shows symptoms of massive pulmonary thromboembolism.The gross appearance of liver autopsy is shown. Which of the following statement best characterizes the patient’s condition?
+
+- A. Metastasis from PE
+- B. Angiosarcoma
+- C. Colonic adenocarcinoma with metastasis
+- D. Locally invaded hepatocellular carcinoma
+
+<details><summary>Answer</summary>
+
+**C. Colonic adenocarcinoma with metastasis** — The figure shows appearance of metastatic lesions from a malignant neoplasm with multiple tumor masses The liver is the most common site of metastases for tumor sites that drain initially via the portal circulation. Metastatic liver disease is found in 10% to 25% of patients having surgery for prima
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#274 | OPTIONS_GENERATED: false -->
+
+### Q91 — Which of the following statement is false about MR
+
+Which of the following statement is false about MR vaccination campaign launched by WHO?
+
+- A. Children from 9 months to less than 15 vaccinated
+- B. Congenital rubella syndrome (CRS), responsible for irreversible birth defects
+- C. India has not yet launched this campaign
+- D. Will replace routine immunization for measles vaccine
+
+<details><summary>Answer</summary>
+
+**C. India has not yet launched this campaign** — ● One of the world’s largest vaccination campaign against measles, a major childhood killer disease, and congenital rubella syndrome (CRS), responsible for irreversible birth defects. ● India, along with ten other WHO South East Asia Region member countries, have resolved to eliminate measles and co
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#275 | OPTIONS_GENERATED: false -->
+
+### Q92 — Marked bleeding is seen in which of following cond
+
+Marked bleeding is seen in which of following conditions?
+
+- A. VMA disease
+- B. Haemophilia A
+- C. Haemophilia B
+- D. ALL
+
+<details><summary>Answer</summary>
+
+**D. ALL** — Bleeding disorders can be inherited or acquired. Inherited disorders are passed down through genetics. Acquired disorders can develop or spontaneously occur later in life. Some bleeding disorders can result in severe bleeding following an accident or injury. In other disorders, heavy bleeding can ha
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#277 | OPTIONS_GENERATED: false -->
+
+### Q93 — What is the effect of Progesterone only pills
+
+What is the effect of Progesterone only pills?
+
+- A. Completely suppresses ovulation
+- B. Thin lining of uterus
+- C. Thick cervical mucus
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — ● Progestogen-only pills / Progestin-only Pills (POP) / Morning after pills - ○ Contraceptive pills ○ Contain only synthetic progestins & doesnt contain estrogen. ● Mechanism: ○ Mucus thickening in neck of womb: ■ Penetration of sperm to reach egg and womb becomes difficult. ○ Prevents ovulation: ○ 
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#281 | OPTIONS_GENERATED: false -->
+
+### Q94 — Which drug decreases the bone resorption in osteop
+
+Which drug decreases the bone resorption in osteoporosis?
+
+- A. Teriparatide
+- B. Risedronate
+- C. Cortisone
+- D. Cimetidine
+
+<details><summary>Answer</summary>
+
+**B. Risedronate** — Risedronate bisphosphonates inhibits bone resorption by actions on osteoclast precursors in osteoporosis patients ● Risedronate: ○ Aminobisphosphonate ● Indications: ○ Prevention & treatment of osteoporosis ● Mechanism of action: ○ Inhibits bone resorption by action on osteoclasts ○ Reduce bone remo
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#283 | OPTIONS_GENERATED: false -->
+
+### Q95 — Maastricht classification of donation after cardia
+
+Maastricht classification of donation after cardiac death.What category is stage 3 ?
+
+- A. Awaiting cardiac arrest
+- B. Brought in dead
+- C. Unsuccessful resuscitation
+- D. Cardiac arrest after brain-stem death
+
+<details><summary>Answer</summary>
+
+**A. Awaiting cardiac arrest** — 
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#286 | OPTIONS_GENERATED: false -->
+
+### Q96 — What is the cause of myocardial shock other than M
+
+What is the cause of myocardial shock other than MI ?
+
+- A. acute mitral regurgitation
+- B. ventricular septal rupture
+- C. isolated right ventricular shock
+- D. all of the above
+
+<details><summary>Answer</summary>
+
+**D. all of the above** — ● Left ventricular dysfunction (LVD) - Most frequent cause of cardiogenic shock Followed by, ● Acute mitral valve regurgitation ● Ventricular septal defect ● Isolated right ventricular shock ● Tamponade/ cardiac rupture
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#287 | OPTIONS_GENERATED: false -->
+
+### Q97 — Nitric oxide acts by increasing
+
+Nitric oxide acts by increasing ?
+
+- A. BRCA 1
+- B. BRCA 2
+- C. Interleukin
+- D. cGMP
+
+<details><summary>Answer</summary>
+
+**D. cGMP** — ● Nitric oxide diffuses to the surrounding smooth muscle cells, increasing cGMP . ● Cyclic guanosine monophosphate (cGMP) ○ Cyclic nucleotide derived from guanosine triphosphate (GTP). ● Function: ○ cGMP acts as a second messenger much like cyclic AMP. ● Mechanism of action: ○ Activation of intracel
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#288 | OPTIONS_GENERATED: false -->
+
+---
