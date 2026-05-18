@@ -1998,3 +1998,360 @@ Most sensitive indicator of healthcare availability, utilisation, and effectiven
 **A. Infant mortality rate (IMR)** — Universally accepted as the most sensitive community health indicator. Reflects nutrition, sanitation, maternal health, immunisation, and socioeconomic conditions. India IMR (2020) = 28/1000 live births.
 
 </details>
+
+---
+
+### Q132 — Dietary cholesterol for CAD prevention *(2021)*
+
+Population-level recommendation for dietary cholesterol to prevent coronary artery disease?
+
+- A. 100 mg/1000 kcal
+- B. 200 mg/1000 kcal
+- C. 300 mg/day
+- D. 400 mg/day
+
+<details><summary>Answer</summary>
+
+**A. 100 mg/1000 kcal** — ICMR/Park's PSM recommendation: dietary cholesterol <100 mg per 1000 kcal (equivalent to <300 mg/day in a 3000 kcal diet). Saturated fat <10% total energy. Reduces atherosclerotic cardiovascular disease risk.
+
+</details>
+
+---
+
+### Q133 — WIFS dose for adolescent girls *(2021)*
+
+Weekly Iron Folic Acid Supplementation (WIFS) for girls aged 10–19 years — correct dose?
+
+- A. 60 mg Fe + 100 µg FA
+- B. 100 mg Fe + 100 µg FA
+- C. 100 mg Fe + 500 µg FA
+- D. 60 mg Fe + 500 µg FA
+
+<details><summary>Answer</summary>
+
+**D. 60 mg elemental Fe + 500 µg FA** — National Iron Plus Initiative / WIFS program: weekly IFA tablet for school-age children and adolescents (6–19 years) contains **60 mg elemental iron + 500 µg (0.5 mg) folic acid**. Given weekly (not daily) to reduce side effects. Supervised in schools.
+
+</details>
+
+---
+
+### Q134 — Generation time *(2021)*
+
+Interval from acquiring infection to time of maximum infectivity?
+
+- A. Communicable period
+- B. Incubation period
+- C. Generation time
+- D. Serial interval
+
+<details><summary>Answer</summary>
+
+**C. Generation time** — Time from infection in the primary case to peak infectivity (or to transmission to secondary case). Serial interval = time between symptom onset in successive cases in a chain (used when exact infection time is unknown). Communicable period = entire period when host can transmit the pathogen.
+
+</details>
+
+---
+
+### Q135 — NUHM Urban PHCs: calculation *(2021)*
+
+City population 70 lakh, 30% in slums. How many Urban PHCs (UPHCs) are required under NUHM?
+
+- A. 22
+- B. 42
+- C. 32
+- D. 52
+
+<details><summary>Answer</summary>
+
+**B. 42** — NUHM norm: 1 UPHC per 50,000 **slum** population. Slum population = 7,000,000 × 30% = 2,100,000. UPHCs = 2,100,000 ÷ 50,000 = **42**. For non-slum urban areas the norm is 1 UPHC per 1,00,000 population.
+
+</details>
+
+---
+
+### Q136 — De facto census method *(2021)*
+
+"De facto" method of census: data collected based on?
+
+- A. Place of birth
+- B. Place of enumeration on census date
+- C. Place of employment
+- D. Usual place of residence
+
+<details><summary>Answer</summary>
+
+**B. Place of enumeration on census date** — De facto = count people where they are physically present on census night. De jure = count people at their usual place of residence regardless of where they are on census night. India follows the **de facto** method. Migrants who are away from home are counted at their current location.
+
+</details>
+
+---
+
+### Q137 — Haemoglobin comparison: statistical test *(2021)*
+
+Comparing mean haemoglobin levels between two independent (unrelated) groups — most appropriate test?
+
+- A. Paired t-test
+- B. Unpaired (independent samples) t-test
+- C. ANOVA
+- D. Chi-square test
+
+<details><summary>Answer</summary>
+
+**B. Unpaired t-test** — For comparing means of a **continuous normally distributed variable** (Hb) between **two independent** groups. Paired t-test = same subjects before/after (matched pairs). ANOVA = three or more groups. Chi-square = categorical (not continuous) data.
+
+</details>
+
+---
+
+### Q138 — Lead time bias in cancer screening *(2021)*
+
+Breast cancer screening programme improves 5-year survival but autopsy data show no change in overall mortality — which bias is this?
+
+- A. Berkson bias
+- B. Survival bias
+- C. Lead time bias
+- D. Detection bias
+
+<details><summary>Answer</summary>
+
+**C. Lead time bias** — Screening detects cancer earlier (lead time), so the interval from diagnosis to death is longer, making survival appear improved even though the natural history of the disease is unchanged. Confirmed by absence of mortality reduction. Berkson bias = hospital admission rate bias in case-control studies.
+
+</details>
+
+---
+
+### Q139 — Nalgonda technique for defluoridation *(2021)*
+
+Nalgonda technique — materials used for defluoridation of drinking water?
+
+- A. Alum + Lime
+- B. Gypsum + Charcoal
+- C. Alum + Charcoal
+- D. Gypsum + Lime
+
+<details><summary>Answer</summary>
+
+**A. Alum + Lime** — Nalgonda technique: alum (aluminum sulfate) + lime (calcium hydroxide) added to fluoride-rich water → coagulation/flocculation → fluoride adsorbs onto aluminium floc → settles and is filtered. Community-level defluoridation. Bleaching powder also added.
+
+</details>
+
+---
+
+### Q140 — ICDS program coverage *(2021)*
+
+Child presenting with bowing legs (nutritional rickets). Which government programme specifically addresses nutritional deficiencies in children under 6 years?
+
+- A. ICDS (Integrated Child Development Services)
+- B. Mid-Day Meal Scheme
+- C. Anemia Mukt Bharat
+- D. National Nutrition Deficiency Control Programme
+
+<details><summary>Answer</summary>
+
+**A. ICDS** — ICDS covers **0–6 years**: supplementary nutrition, immunisation, health check-up, referral, pre-school education, nutrition and health education. Mid-Day Meal = 6–14 year school children. NNDCP specifically targets Vitamin A, iodine, and iron deficiencies; ICDS is the broader umbrella.
+
+</details>
+
+---
+
+### Q141 — Cluster RCT vs quasi-experimental *(2021)*
+
+20 PHCs randomly allocated to standard care; 20 PHCs to new community intervention. Randomisation is at the PHC (cluster) level. Study design?
+
+- A. Quasi-experimental
+- B. Cluster RCT
+- C. Case-control
+- D. Cross-sectional
+
+<details><summary>Answer</summary>
+
+**B. Cluster RCT** — Randomisation at the **cluster** (PHC/village/school) level, not individual. Reduces contamination between intervention and control groups. Quasi-experimental = no randomisation (e.g., before-after, controlled before-after). Cluster RCT requires cluster-adjusted statistical analysis (ICC).
+
+</details>
+
+---
+
+### Q142 — Passive surveillance: COVID death reporting *(2021)*
+
+60-year-old with confirmed COVID-19 dies in hospital. Death is routinely reported to the health department by the hospital 7 days later. Surveillance type?
+
+- A. Active surveillance
+- B. Passive surveillance
+- C. Syndromic surveillance
+- D. Sentinel surveillance
+
+<details><summary>Answer</summary>
+
+**B. Passive surveillance** — Healthcare providers **spontaneously report** cases/deaths to the health authority through routine notification (no special action by public health authorities to find cases). Active = health workers actively search for cases. Sentinel = selected high-quality reporting sites.
+
+</details>
+
+---
+
+### Q143 — Anopheles larva identification *(2021)*
+
+Mosquito larva: no siphon tube, has palmate hairs, rests parallel to water surface — species?
+
+- A. Culex
+- B. Anopheles
+- C. Aedes
+- D. Mansonia
+
+<details><summary>Answer</summary>
+
+**B. Anopheles** — Anopheles larva: **no respiratory siphon tube**; **palmate (star-shaped) hairs** on abdomen; lies **horizontal (parallel) to water surface**. Culex and Aedes larvae: have siphon tube; hang head-down at ~45°. Adult Anopheles: spotted wings; rests at 45° to surface; malaria vector.
+
+</details>
+
+---
+
+### Q144 — Complementary feeding: 7-month infant *(2021)*
+
+Correct complementary feeding recommendation for a 7-month-old infant?
+
+- A. ½–1 katori, 3× daily
+- B. ½–1 katori, 4× daily
+- C. ½–1 katori, 5× daily
+- D. ½–1 katori, 6× daily
+
+<details><summary>Answer</summary>
+
+**A. ½–1 katori, 3× daily** — WHO/IYCF/NIN recommendations: 6–8 months = **2–3 times/day** semi-solid food; 9–11 months = 3–4 times/day; 12–23 months = 3–4 times/day + 1–2 snacks. Breastfeeding continues on demand alongside complementary foods.
+
+</details>
+
+---
+
+### Q145 — Nipah virus: fruit farmer *(2024)*
+
+A fruit farmer presents with fever, respiratory difficulty, and neurological complications. Most likely diagnosis?
+
+- A. Ebola
+- B. Bacterial meningitis
+- C. Nipah virus
+- D. Zika virus
+
+<details><summary>Answer</summary>
+
+**C. Nipah virus** — Fruit bats (*Pteropus* spp.) are reservoir; humans infected via contaminated fruits or contact with infected pigs/humans. Causes encephalitis + respiratory illness. Outbreaks: Kerala (India), Bangladesh, Malaysia. No specific treatment; mortality ~40–75%. Classified as WHO Priority Pathogen.
+
+</details>
+
+---
+
+### Q146 — OPV: lowest cold-chain storage temperature *(2024)*
+
+Which vaccine is stored at the lowest temperature in the cold chain?
+
+- A. OPV
+- B. DPT
+- C. Hepatitis B
+- D. Rotavirus
+
+<details><summary>Answer</summary>
+
+**A. OPV (Oral Polio Vaccine)** — Stored **frozen at −20°C** (or −15 to −25°C) at higher cold-chain levels (regional/district vaccine stores). At PHC/sub-centre level, stored at 2–8°C. DPT, Hep B, Rotavirus stored at 2–8°C and are **damaged by freezing** (freeze-sensitive). Shake test used to detect freeze damage in freeze-sensitive vaccines.
+
+</details>
+
+---
+
+### Q147 — Toxic fumes: immediate community action *(2025)*
+
+After an industrial explosion, toxic fumes are released into the air. What is the immediate protective action residents should take?
+
+- A. Telephone friends and leave immediately
+- B. Seal cracks and close all windows and doors
+- C. Open windows for maximum ventilation
+- D. Use a mask only and continue normal activities
+
+<details><summary>Answer</summary>
+
+**B. Seal cracks and close all windows and doors** — **Shelter-in-place** protocol for chemical plume: seal building (tape cracks, close windows/doors) to prevent entry of toxic gas until authorities advise evacuation. Moving through the plume can increase exposure. Essential component of chemical/industrial disaster preparedness.
+
+</details>
+
+---
+
+### Q148 — Skeletal fluorosis: intervention NOT helpful *(2025)*
+
+20-year-old from Andhra Pradesh with bowing of lower limbs and osteoporosis; drinks groundwater, eats rice and jowar. Which intervention will NOT help?
+
+- A. Provide running surface water for drinking
+- B. Change the water source
+- C. Fluoride supplementation
+- D. Add lime and alum to drinking water (Nalgonda technique)
+
+<details><summary>Answer</summary>
+
+**C. Fluoride supplementation** — This is **endemic skeletal fluorosis** from excess fluoride in groundwater (>1.5 mg/L). Supplementation would worsen the condition. Interventions: change/dilute water source, defluoridation (Nalgonda technique with alum + lime), or supply piped surface water. Ascorbic acid may reduce fluoride absorption.
+
+</details>
+
+---
+
+### Q149 — RCT: correct sequence of steps *(2025)*
+
+Correct sequence of steps in a Randomised Controlled Trial (RCT)?
+
+- A. Follow-up → Manipulation → Assessment → Randomisation
+- B. Randomisation → Manipulation → Follow-up → Assessment
+- C. Assessment → Randomisation → Follow-up → Manipulation
+- D. Manipulation → Assessment → Follow-up → Randomisation
+
+<details><summary>Answer</summary>
+
+**B. Randomisation → Manipulation → Follow-up → Assessment** — Standard RCT sequence: (1) Recruit eligible subjects; (2) **Randomise** to intervention/control; (3) Apply **manipulation** (intervention); (4) **Follow up** over specified period; (5) **Assess** outcome. Randomisation must precede manipulation to eliminate selection bias.
+
+</details>
+
+---
+
+### Q150 — Evaluation vs monitoring *(2025)*
+
+Which health programme activity measures the degree of achievement of objectives and quality of results?
+
+- A. Planning
+- B. Surveillance
+- C. Monitoring
+- D. Evaluation
+
+<details><summary>Answer</summary>
+
+**D. Evaluation** — **Evaluation** = assessment of whether programme objectives/targets were achieved (effectiveness, efficiency, relevance, impact). **Monitoring** = continuous tracking of ongoing activities and process indicators (inputs, outputs, coverage). Evaluation is periodic; monitoring is continuous.
+
+</details>
+
+---
+
+### Q151 — HIV + active TB: treatment timing *(2025)*
+
+HIV-positive patient (CD4 = 250 cells/mm³) with active tuberculosis, not yet on ART. Correct approach?
+
+- A. Start ATT first, then initiate ART after 2 weeks
+- B. Start ART first, then begin ATT after 2 weeks
+- C. Start both ART and ATT simultaneously
+- D. Start ATT first, then initiate ART after 8 weeks
+
+<details><summary>Answer</summary>
+
+**A. Start ATT first, then initiate ART within 2 weeks** — WHO/NACO guidelines: initiate **ATT first**, then add **ART within 2 weeks** (for all CD4 counts). Exception: TB meningitis — delay ART by 4–8 weeks to reduce paradoxical IRIS risk. Earlier ART reduces mortality in severely immunocompromised (CD4 <50).
+
+</details>
+
+---
+
+### Q152 — Vaccine Vial Monitor (VVM): usability *(2025)*
+
+Regarding vaccine vial monitors, vials should be discarded when:
+
+- A. The VVM square is lighter than the surrounding circle
+- B. The VVM square colour matches or is darker than the surrounding circle
+- C. The vial has been opened once
+- D. Temperature has been below 2°C
+
+<details><summary>Answer</summary>
+
+**B. VVM square matches or is darker than surrounding circle** — VVM stages: Stage 1 (square lighter than circle) = use; Stage 2 (square same shade as circle) = use but use FIRST; Stage 3 (square slightly darker than circle) = **DO NOT use**; Stage 4 (square much darker) = **DO NOT use**. VVM measures cumulative heat exposure. Open multi-dose vial policy allows reuse of OPV/Rota/IPV/Hep B/DPT at subsequent sessions if VVM stage 1 or 2 and within 4 weeks.
+
+</details>
