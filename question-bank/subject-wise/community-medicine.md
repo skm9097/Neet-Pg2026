@@ -1,7 +1,7 @@
 # Community Medicine (PSM) — Multi-Year PYQ Pool
 
-> **Source:** PrepLadder last-5-year PYQ compilation (student recall reconstructions).  
-> **Use:** Personal study notes. ~20 questions spanning multiple years.
+> **Source:** PrepLadder PYQ compilation + PrepLadder National Health Programs + PrepLadder Levels of Prevention + PrepLadder PSM Clinical/Non-Clinical + DigiNerve 2025 recall + pw.live PSM (student recall reconstructions).  
+> **Use:** Personal study notes. ~220 questions spanning multiple years.
 
 ---
 
@@ -2353,5 +2353,1420 @@ Regarding vaccine vial monitors, vials should be discarded when:
 <details><summary>Answer</summary>
 
 **B. VVM square matches or is darker than surrounding circle** — VVM stages: Stage 1 (square lighter than circle) = use; Stage 2 (square same shade as circle) = use but use FIRST; Stage 3 (square slightly darker than circle) = **DO NOT use**; Stage 4 (square much darker) = **DO NOT use**. VVM measures cumulative heat exposure. Open multi-dose vial policy allows reuse of OPV/Rota/IPV/Hep B/DPT at subsequent sessions if VVM stage 1 or 2 and within 4 weeks.
+
+</details>
+
+---
+
+*Questions Q153–Q222 sourced from PrepLadder National Health Programs, PrepLadder Levels of Prevention, PrepLadder PSM Clinical/Non-Clinical, and pw.live PSM pages (recall-based, multi-year).*
+
+---
+
+### Q153 — JSSK: exception
+
+Janani Shishu Suraksha Karyakram (JSSK) provides all of the following **except**:
+
+- A. Free diet to mother during hospital stay
+- B. Free delivery
+- C. Free transport from home to hospital and back
+- D. Free treatment of sick infants up to 6 months
+
+<details><summary>Answer</summary>
+
+**D. Free treatment of sick infants up to 6 months** — JSSK covers sick newborns up to **30 days** (not 6 months). The scheme provides free institutional delivery, free C-section, free diet for mother, free blood transfusion, free transport, and free treatment of sick newborns up to 30 days.
+
+</details>
+
+---
+
+### Q154 — NRHM link worker
+
+The community health worker who forms the link between the community and the health system under NRHM is:
+
+- A. Anganwadi worker
+- B. Traditional Birth Attendant (TBA)
+- C. ASHA
+- D. ANM
+
+<details><summary>Answer</summary>
+
+**C. ASHA (Accredited Social Health Activist)** — ASHA is the first point of contact between the community and the public health system under NRHM/NHM. She bridges patients to health facilities, provides basic health education, and facilitates institutional deliveries.
+
+</details>
+
+---
+
+### Q155 — Janani Suraksha Yojana: focus
+
+Janani Suraksha Yojana (JSY) primarily promotes:
+
+- A. Tetanus immunization
+- B. Institutional deliveries
+- C. Iron supplementation
+- D. Safe abortions
+
+<details><summary>Answer</summary>
+
+**B. Institutional deliveries** — JSY is a conditional cash transfer scheme under NHM aimed at promoting institutional deliveries to reduce maternal and neonatal mortality. Cash incentives are given to mothers for delivering in government health facilities.
+
+</details>
+
+---
+
+### Q156 — LaQshya: excluded facility
+
+Which facility type is NOT part of the LaQshya programme?
+
+- A. Community Health Centre (CHC)
+- B. District hospital
+- C. Primary Health Centre (PHC)
+- D. Sub-district hospitals
+
+<details><summary>Answer</summary>
+
+**C. Primary Health Centre (PHC)** — LaQshya (Labour Room Quality Improvement Initiative) targets larger facilities with functioning labour rooms: FRUs (First Referral Units), CHCs, district hospitals, sub-district hospitals, and medical college hospitals. PHCs are excluded.
+
+</details>
+
+---
+
+### Q157 — Dakshatha programme
+
+Intrapartum care training incentive is provided under which programme?
+
+- A. LaQshya
+- B. SPARSH
+- C. Dakshatha
+- D. MAA
+
+<details><summary>Answer</summary>
+
+**C. Dakshatha** — Dakshatha is a government programme that provides incentives to train health workers in intrapartum (labour room) care skills. MAA = breastfeeding promotion; LaQshya = quality improvement in labour rooms; SPARSH = nursing programme.
+
+</details>
+
+---
+
+### Q158 — SUMAN initiative
+
+Zero Preventable Deaths for mothers and newborns is the goal of:
+
+- A. Janani Shishu Suraksha Karyakram
+- B. Pradhan Mantri Surakshit Matritva Abhiyan
+- C. Surakshit Matritva Aashwasan (SUMAN)
+- D. Navjat Shishu Suraksha Karyakram
+
+<details><summary>Answer</summary>
+
+**C. Surakshit Matritva Aashwasan (SUMAN)** — SUMAN aims for zero preventable maternal and newborn deaths by ensuring respectful and dignified healthcare to every woman and newborn visiting public health facilities at no cost.
+
+</details>
+
+---
+
+### Q159 — PM Matru Vandana Yojana: ministry
+
+Pradhan Mantri Matru Vandana Yojana (PMMVY) is launched by:
+
+- A. Ministry of Health and Family Welfare
+- B. Ministry of Women and Child Development
+- C. Ministry of Human Resource Development
+- D. Ministry of Education
+
+<details><summary>Answer</summary>
+
+**B. Ministry of Women and Child Development** — PMMVY (formerly Indira Gandhi Matritva Sahyog Yojana) is a maternity benefit programme administered by the Ministry of Women and Child Development, providing ₹5000 in three instalments for first live birth.
+
+</details>
+
+---
+
+### Q160 — NSSK training duration
+
+Training duration for Navjat Shishu Suraksha Karyakram (NSSK):
+
+- A. 1 day
+- B. 2 days
+- C. 7 days
+- D. 15 days
+
+<details><summary>Answer</summary>
+
+**B. 2 days** — NSSK (Newborn Care) is a 2-day training programme for health workers focusing on immediate newborn care: warmth, breastfeeding support, basic newborn resuscitation, and infection prevention.
+
+</details>
+
+---
+
+### Q161 — RBSK: developmental delay screening
+
+Which national programme screens for developmental delays and deficiencies in children?
+
+- A. Janani Suraksha Yojana
+- B. Janani Shishu Suraksha Karyakram
+- C. Rashtriya Bal Swasthya Karyakram (RBSK)
+- D. Rashtriya Kishor Swasthya Karyakram
+
+<details><summary>Answer</summary>
+
+**C. Rashtriya Bal Swasthya Karyakram (RBSK)** — RBSK screens children (0–18 years) for 4 Ds: Defects at birth, Diseases, Deficiencies, and Developmental delays/disabilities. Screening done by mobile health teams at Anganwadis and schools.
+
+</details>
+
+---
+
+### Q162 — Newborn Care Corner: exception
+
+All of the following are provided at the Newborn Care Corner (NBCC) **except**:
+
+- A. Care of sick newborn
+- B. Care of normal newborn
+- C. Breastfeeding support
+- D. Referral and transport for very sick newborns
+
+<details><summary>Answer</summary>
+
+**D. Referral and transport** — The NBCC at delivery points provides initial care for normal and mildly sick newborns (warmth, cord care, immunisation, breastfeeding), but referral/transport of very sick newborns is managed by the SNCU (Special Newborn Care Unit) or referral system, not the NBCC itself.
+
+</details>
+
+---
+
+### Q163 — HIV sentinel surveillance: purpose
+
+Sentinel surveillance for HIV is used for all of the following **except**:
+
+- A. Estimating total HIV infections in the community
+- B. Estimating trends of infection over time
+- C. Classifying districts by HIV burden
+- D. Estimating total cases admitted to hospitals
+
+<details><summary>Answer</summary>
+
+**D. Estimating total cases admitted to hospitals** — Sentinel surveillance uses data from selected sentinel sites (ANC clinics, STI clinics, ICTC) to estimate community-level HIV prevalence and trends. It does not aim to count hospital admissions, which is done through case-based surveillance.
+
+</details>
+
+---
+
+### Q164 — HIV diagnosis: minimum tests (asymptomatic)
+
+Minimum number of tests required to diagnose HIV in an asymptomatic individual:
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**C. 3** — NACO testing strategy III (for diagnosis in asymptomatic individuals): requires 3 reactive ELISA/rapid tests on the same sample (using different antigens/formats). A single reactive test is not sufficient for diagnosis in asymptomatic persons.
+
+</details>
+
+---
+
+### Q165 — CDC HIV screening in pregnancy
+
+CDC recommends which HIV testing approach for pregnant women?
+
+- A. Opt-in testing
+- B. Opt-out testing
+- C. Mandatory/compulsory testing
+- D. Symptomatic testing only
+
+<details><summary>Answer</summary>
+
+**B. Opt-out testing** — CDC (2006 guidelines) recommends universal opt-out HIV screening for all pregnant women as part of routine prenatal care; a patient is informed testing will be done unless she declines. This maximises testing rates compared to opt-in.
+
+</details>
+
+---
+
+### Q166 — HIV PEP initiation: optimal time
+
+Accidental occupational HIV exposure — PEP should ideally be initiated within:
+
+- A. 4 hours
+- B. 24 hours
+- C. 48 hours
+- D. 72 hours
+
+<details><summary>Answer</summary>
+
+**A. 2 hours (ideally), within 72 hours (maximum)** — PEP must begin within **2 hours** for maximum efficacy; it can still be initiated up to **72 hours** after exposure. Beyond 72 hours, PEP is not recommended. Duration: 28 days (preferred regimen: TDF + 3TC + LPV/r or RAL).
+
+</details>
+
+---
+
+### Q167 — MDR-TB definition
+
+MDR-TB is defined as resistance to:
+
+- A. Streptomycin and Rifampicin
+- B. Streptomycin and Isoniazid
+- C. Rifampicin and Isoniazid
+- D. All first-line drugs
+
+<details><summary>Answer</summary>
+
+**C. Rifampicin and Isoniazid** — MDR-TB = resistance to at least **Rifampicin + Isoniazid** (the two most effective first-line anti-TB drugs). XDR-TB additionally has resistance to fluoroquinolones and second-line injectables.
+
+</details>
+
+---
+
+### Q168 — Xpert MTB/RIF: resistance detected
+
+The Xpert MTB/RIF (GeneXpert) assay detects resistance to which drug?
+
+- A. Isoniazid
+- B. Ethambutol
+- C. Rifampicin
+- D. Streptomycin
+
+<details><summary>Answer</summary>
+
+**C. Rifampicin** — GeneXpert MTB/RIF simultaneously detects Mycobacterium tuberculosis DNA AND mutations in the rpoB gene conferring **rifampicin resistance**. Rifampicin resistance is a reliable proxy for MDR-TB. Result in 2 hours.
+
+</details>
+
+---
+
+### Q169 — NTEP: DOTS provider incentive for DR-TB
+
+DOTS provider incentive under NTEP for drug-resistant TB (DR-TB):
+
+- A. ₹3000 intensive phase, ₹2000 continuation phase
+- B. ₹3000 both phases
+- C. ₹2000 intensive phase, ₹3000 continuation phase
+- D. ₹4000 intensive phase, ₹2000 continuation phase
+
+<details><summary>Answer</summary>
+
+**C. ₹2000 intensive phase, ₹3000 continuation phase** — NTEP DR-TB DOTS provider incentive: ₹2000 (IP) + ₹3000 (CP). For drug-sensitive TB, the incentive is lower. Private practitioner notification incentive: ₹500 on notification + ₹500 on treatment outcome reporting.
+
+</details>
+
+---
+
+### Q170 — NTEP: community TB case detection incentive
+
+Incentive paid to community members for detecting and referring a TB case under NTEP:
+
+- A. ₹1000
+- B. ₹2000
+- C. ₹500
+- D. ₹1500
+
+<details><summary>Answer</summary>
+
+**C. ₹500** — Under NTEP, community members (including ASHA) who identify and refer a presumptive TB case that is subsequently confirmed receive ₹500. This promotes active community-based case finding.
+
+</details>
+
+---
+
+### Q171 — NVBDCP: excluded disease
+
+Which of the following is NOT covered under the National Vector Borne Disease Control Programme (NVBDCP)?
+
+- A. Filariasis
+- B. Zika virus disease
+- C. Kala-azar
+- D. Chikungunya
+
+<details><summary>Answer</summary>
+
+**B. Zika virus disease** — NVBDCP covers: Malaria, Dengue, Chikungunya, Kala-azar (Visceral Leishmaniasis), Filariasis (Lymphatic), and Japanese Encephalitis. Zika is handled separately and was not part of NVBDCP as of the last update.
+
+</details>
+
+---
+
+### Q172 — Malaria: anti-larval measures
+
+Source reduction is an example of which type of malaria control measure?
+
+- A. Indoor residual spraying
+- B. Space application of insecticide
+- C. Individual protection (bed nets)
+- D. Anti-larval measures
+
+<details><summary>Answer</summary>
+
+**D. Anti-larval measures** — Source reduction (elimination of larval breeding sites: draining stagnant water, filling ditches) is an **anti-larval** (anti-vector) measure. IRS = adult mosquito control. LLIN/bed nets = personal protection. Source reduction is the most permanent, eco-friendly method.
+
+</details>
+
+---
+
+### Q173 — Malaria insecticide rounds (API > 2)
+
+In malaria-refractory areas with API > 2, how many rounds of malathion spraying are recommended?
+
+- A. 1 round
+- B. 2 rounds
+- C. 3 rounds
+- D. 4 rounds
+
+<details><summary>Answer</summary>
+
+**C. 3 rounds** — NVBDCP guidelines: in areas with high malaria burden (API > 2), **3 rounds** of indoor residual spraying (IRS) with malathion are recommended per year to achieve adequate vector suppression.
+
+</details>
+
+---
+
+### Q174 — Insecticide-treated bed net: re-treatment interval
+
+At what interval should insecticide-treated bed nets (ITNs) be re-treated with insecticide?
+
+- A. 3 months
+- B. 6 months
+- C. 9 months
+- D. 12 months
+
+<details><summary>Answer</summary>
+
+**B. 6 months** — Conventional ITNs need re-treatment with pyrethroid insecticide every **6 months** to maintain efficacy. Long-Lasting Insecticidal Nets (LLINs) retain insecticidal activity for ≥3 years (≥20 washes) without re-treatment.
+
+</details>
+
+---
+
+### Q175 — Thin blood smear: test property
+
+In malaria diagnosis, the thin blood smear is associated with which test property compared to the thick smear?
+
+- A. Higher sensitivity
+- B. Higher specificity
+- C. Better for screening
+- D. Detects more cases per field
+
+<details><summary>Answer</summary>
+
+**B. Specificity** — Thick smear = higher **sensitivity** (detects low parasite density; good for screening). Thin smear = higher **specificity** (allows species identification and parasite morphology study; used for confirmation). In practice, both are examined together.
+
+</details>
+
+---
+
+### Q176 — K-39 dipstick: diagnosis
+
+K-39 (rK-39) dipstick test is used for diagnosis of:
+
+- A. P. falciparum malaria
+- B. P. vivax malaria
+- C. Visceral leishmaniasis (Kala-azar)
+- D. Cutaneous leishmaniasis
+
+<details><summary>Answer</summary>
+
+**C. Visceral leishmaniasis (Kala-azar)** — The rK-39 rapid diagnostic test detects antibodies against the kinesin-related antigen of Leishmania donovani; sensitivity and specificity >90% in India. Used for field diagnosis of Kala-azar in endemic districts.
+
+</details>
+
+---
+
+### Q177 — Falciparum malaria in pregnancy (3rd trimester)
+
+Preferred treatment for P. falciparum malaria in the 3rd trimester of pregnancy:
+
+- A. ACT alone
+- B. ACT + primaquine on day 2
+- C. Chloroquine
+- D. Quinine + clindamycin
+
+<details><summary>Answer</summary>
+
+**A. ACT (Artemisinin Combination Therapy) alone** — NVBDCP guidelines: 1st trimester = quinine + clindamycin (ACTs avoided); 2nd and 3rd trimesters = **ACT** (artemether-lumefantrine or artesunate-amodiaquine) without primaquine (primaquine contraindicated in pregnancy). 
+
+</details>
+
+---
+
+### Q178 — P. vivax malaria in pregnancy: treatment
+
+Treatment of P. vivax malaria in pregnancy:
+
+- A. Chloroquine alone (without primaquine)
+- B. Primaquine alone
+- C. Chloroquine + primaquine
+- D. Mefloquine
+
+<details><summary>Answer</summary>
+
+**A. Chloroquine alone (without primaquine)** — In pregnancy, **chloroquine** is given for P. vivax blood-stage infection, but **primaquine is contraindicated** (risk of haemolysis in G6PD-deficient fetus). Radical cure (primaquine for liver hypnozoites) is deferred until after delivery and cessation of breastfeeding.
+
+</details>
+
+---
+
+### Q179 — PQLI: what it measures
+
+The Physical Quality of Life Index (PQLI) is a:
+
+- A. Disability indicator
+- B. Quality of life indicator
+- C. Standard of living indicator
+- D. Economic development indicator
+
+<details><summary>Answer</summary>
+
+**B. Quality of life indicator** — PQLI (Morris D. Morris, 1979) is a composite quality-of-life measure incorporating: (1) Infant mortality rate, (2) Life expectancy at age 1, (3) Literacy rate. Scaled 0–100. Kerala has low per capita income but high PQLI. It does NOT measure economic growth (no income component).
+
+</details>
+
+---
+
+### Q180 — PQLI components
+
+PQLI includes which of the following?
+
+- A. Life expectancy at birth, literacy rate, income
+- B. Life expectancy at age 1, IMR, literacy rate
+- C. Life expectancy at birth, IMR, literacy rate
+- D. GDP, IMR, literacy rate
+
+<details><summary>Answer</summary>
+
+**B. Life expectancy at age 1, IMR, literacy rate** — PQLI = three components: (1) Infant mortality rate, (2) Life expectancy at **age 1** (not birth), (3) Basic literacy rate. Note: HDI uses life expectancy **at birth** and mean/expected years of schooling.
+
+</details>
+
+---
+
+### Q181 — Global Hunger Index: excluded component
+
+The Global Hunger Index (GHI) does NOT include:
+
+- A. Under-5 mortality rate (U5MR)
+- B. Child wasting
+- C. Child stunting
+- D. Infant mortality rate (IMR)
+
+<details><summary>Answer</summary>
+
+**D. Infant mortality rate (IMR)** — GHI (4 components): (1) Undernourishment in population, (2) Child wasting (<5 years), (3) Child stunting (<5 years), (4) Child mortality (**U5MR**, not IMR). IMR is used in PQLI and other indices, not GHI.
+
+</details>
+
+---
+
+### Q182 — HDI: life expectancy parameter
+
+Minimum and maximum values of life expectancy used for HDI calculation:
+
+- A. 0 years and 65 years
+- B. 0 years and 85 years
+- C. 20 years and 85 years
+- D. 0 years and 100 years
+
+<details><summary>Answer</summary>
+
+**C. 20 years and 85 years** — UNDP HDI (2010 revision) uses goalposts: life expectancy **min = 20 years, max = 85 years**. HDI = geometric mean of normalised indices for health (life expectancy), education (schooling), and income (GNI per capita).
+
+</details>
+
+---
+
+### Q183 — Disease eradication definition
+
+Cessation of infection and disease transmission from the whole world is called:
+
+- A. Control
+- B. Elimination
+- C. Extinction
+- D. Eradication
+
+<details><summary>Answer</summary>
+
+**D. Eradication** — Terminology: **Control** = reduction of disease incidence/prevalence to acceptable levels. **Elimination** = regional/national removal of disease. **Eradication** = permanent worldwide reduction to zero cases (causative agent may persist). **Extinction** = causative agent destroyed worldwide (e.g., variola virus). Only smallpox has been eradicated.
+
+</details>
+
+---
+
+### Q184 — Disease elimination definition
+
+Causative agent is present but there is no disease transmission in a region. This is:
+
+- A. Eradication
+- B. Elimination
+- C. Control
+- D. Extinction
+
+<details><summary>Answer</summary>
+
+**B. Elimination** — Elimination = **interruption of transmission** in a defined geographic area, even though the causative agent may still exist. Example: India achieved polio elimination in 2014. Compare with eradication (worldwide zero cases).
+
+</details>
+
+---
+
+### Q185 — Primordial prevention: example
+
+Discouraging children from adopting harmful lifestyle behaviours (e.g., smoking, junk food) before risk factors emerge is an example of:
+
+- A. Primordial prevention
+- B. Primary prevention
+- C. Secondary prevention
+- D. Tertiary prevention
+
+<details><summary>Answer</summary>
+
+**A. Primordial prevention** — Primordial prevention acts **before risk factors appear** in a population through health promotion and social/economic policies. Primary prevention = reduces risk factors already present. Secondary = early detection of disease. Example: policies against marketing junk food to children.
+
+</details>
+
+---
+
+### Q186 — Primary prevention: example
+
+Measles vaccination in a child represents which level of prevention?
+
+- A. Primordial prevention
+- B. Primary prevention — specific protection
+- C. Secondary prevention
+- D. Tertiary prevention
+
+<details><summary>Answer</summary>
+
+**B. Primary prevention — specific protection** — Vaccination prevents disease occurrence in susceptible individuals = specific protection under primary prevention. Health promotion (primary) = non-specific (e.g., nutrition). Secondary = early diagnosis. Tertiary = disability limitation.
+
+</details>
+
+---
+
+### Q187 — Levels of prevention: seatbelt use
+
+Use of a seatbelt while driving is an example of:
+
+- A. Health promotion
+- B. Specific protection
+- C. Early diagnosis and prompt treatment
+- D. Disability limitation
+
+<details><summary>Answer</summary>
+
+**B. Specific protection** — Seatbelts protect against a specific hazard (head/thorax injury in collision) = **specific protection** under primary prevention. Compare: helmets (specific protection), condoms (specific protection), vitamin A prophylaxis (specific protection).
+
+</details>
+
+---
+
+### Q188 — Tertiary prevention: breast cancer
+
+After excision of breast cancer, surgical reconstruction of breast tissue was done. This reflects:
+
+- A. Secondary prevention
+- B. Disability limitation
+- C. Rehabilitation
+- D. Primary prevention
+
+<details><summary>Answer</summary>
+
+**C. Rehabilitation** — Surgical reconstruction after mastectomy restores function and psychosocial wellbeing = **rehabilitation** (tertiary prevention, 5th level of Leavell and Clark). Disability limitation = preventing complications of existing disease. Rehabilitation = restoring maximum function after disability.
+
+</details>
+
+---
+
+### Q189 — Sanitary latrines: level of prevention
+
+Installation and use of sanitary latrines by the public is classified as:
+
+- A. Health promotion
+- B. Specific protection
+- C. Early diagnosis and treatment
+- D. Disability limitation
+
+<details><summary>Answer</summary>
+
+**B. Specific protection** — Environmental sanitation (safe disposal of human excreta) protects against specific faecal-oral transmission diseases (typhoid, cholera, polio, hepatitis A) = **specific protection** under primary prevention. Note: some sources classify this as health promotion — exam context usually expects specific protection.
+
+</details>
+
+---
+
+### Q190 — Fecal contamination indicator in water
+
+Best indicator of **recent** fecal contamination in water:
+
+- A. Total coliform count
+- B. Fecal streptococci
+- C. Clostridium perfringens
+- D. E. coli
+
+<details><summary>Answer</summary>
+
+**B. Fecal streptococci** — Fecal streptococci (enterococci) survive longer in water than fecal coliforms but indicate **recent** contamination more reliably than Cl. perfringens (which persists for years). E. coli is the standard indicator of fecal contamination. Cl. perfringens = indicator of **old/remote** fecal contamination and also indicates protozoan cysts may be present.
+
+</details>
+
+---
+
+### Q191 — McArdle's Index
+
+McArdle's Index is used to measure:
+
+- A. Cooling power of air
+- B. Heat stress
+- C. Predictable 4-hour sweat rate (P4SR)
+- D. Effective temperature
+
+<details><summary>Answer</summary>
+
+**C. Predictable 4-hour sweat rate (P4SR)** — McArdle's Index (P4SR) predicts sweat loss over 4 hours to evaluate heat stress in occupational settings. Kata thermometer = cooling power of air (air velocity + temperature). WBGT = wet bulb globe temperature for heat stress.
+
+</details>
+
+---
+
+### Q192 — India's demographic transition stage
+
+India is currently in which stage of demographic transition?
+
+- A. First stage (high stationary)
+- B. Early expanding
+- C. Late expanding
+- D. Low stationary
+
+<details><summary>Answer</summary>
+
+**C. Late expanding** — India has declining but still moderately elevated birth rate and low death rate = **late expanding** (Stage 3) of demographic transition. Population is still growing but at a slower pace. Stage 4 (low stationary) = both birth and death rates low (most developed countries).
+
+</details>
+
+---
+
+### Q193 — OPV: immunity conferred
+
+Which of the following is TRUE about OPV (Oral Polio Vaccine)?
+
+- A. OPV is an inactivated vaccine
+- B. OPV provides only humoral immunity
+- C. OPV provides both intestinal (mucosal IgA) and systemic (humoral) immunity
+- D. OPV carries no risk of vaccine-associated paralytic poliomyelitis
+
+<details><summary>Answer</summary>
+
+**C. OPV provides both intestinal and humoral immunity** — OPV is a **live attenuated** vaccine; it replicates in the gut → local secretory IgA (intestinal mucosal immunity) + systemic IgG. This interrupts transmission. IPV (inactivated) provides systemic IgG only, no gut immunity. Risk of VAPP: ~1/2.4 million first doses.
+
+</details>
+
+---
+
+### Q194 — Most common cause of death in measles
+
+Most common cause of death in measles is:
+
+- A. Diarrhoea
+- B. Otitis media
+- C. Pneumonia
+- D. Encephalitis
+
+<details><summary>Answer</summary>
+
+**C. Pneumonia** — Pneumonia (secondary bacterial: Streptococcus pneumoniae, Staph aureus, or measles giant cell pneumonia) is the **most common cause of death** in measles, especially in malnourished children. Encephalitis is the most feared neurological complication (1:1000 cases).
+
+</details>
+
+---
+
+### Q195 — Japanese Encephalitis: rural India, monsoon
+
+A child in rural India presents with altered sensorium during the monsoon season. Most likely diagnosis:
+
+- A. Bacterial meningitis
+- B. Herpes encephalitis
+- C. Japanese Encephalitis
+- D. Dengue encephalopathy
+
+<details><summary>Answer</summary>
+
+**C. Japanese Encephalitis (JE)** — JE is the **most common cause of viral encephalitis in Asia**; seasonal peak in monsoon (July–October) in rice-growing states of India (UP, Bihar, Karnataka). Vector: Culex tritaeniorhynchus mosquito. Reservoir: pigs and water birds. CFR 20–30%.
+
+</details>
+
+---
+
+### Q196 — Biomedical waste: red bin contents
+
+The red bin in the Biomedical Waste Management Rules is used for:
+
+- A. Anatomical waste (human body parts)
+- B. Sharps (needles, scalpels)
+- C. Contaminated non-sharp plastic waste (gloves, IV tubing, face shields)
+- D. Cytotoxic drugs
+
+<details><summary>Answer</summary>
+
+**C. Contaminated non-sharp plastic waste** — BMW Rules 2016: **Red** = contaminated recyclable plastic waste (gloves, IV sets, tubes, syringes without needles). **Yellow** = anatomical waste, soiled items, chemical waste, discarded medicines. **White/translucent** = sharps. **Blue** = glass items, metallic body implants.
+
+</details>
+
+---
+
+### Q197 — Postnatal visits after home delivery
+
+Recommended number of postnatal visits after a home delivery (as per Indian guidelines):
+
+- A. 4 visits
+- B. 5 visits
+- C. 6 visits
+- D. 7 visits
+
+<details><summary>Answer</summary>
+
+**D. 7 postnatal visits** — MoHFW schedule for home deliveries: visits on **Day 1, Day 3, Day 7, Day 14, Day 21, Day 28, and Day 42** (6 weeks). For institutional deliveries, 4 visits (Day 3, Day 7, Day 28, Day 42) are recommended. Focus: breastfeeding, newborn care, danger signs.
+
+</details>
+
+---
+
+### Q198 — India's Health Index: publisher
+
+Who publishes India's State Health Index?
+
+- A. Ministry of Health and Family Welfare
+- B. WHO India
+- C. ICMR
+- D. NITI Aayog
+
+<details><summary>Answer</summary>
+
+**D. NITI Aayog** — India's annual **Health Index** (since 2018) is published by **NITI Aayog** in collaboration with the Ministry of Health and Family Welfare and the World Bank. It ranks states/UTs on health outcomes, governance, and key health system processes.
+
+</details>
+
+---
+
+### Q199 — Skewed distribution: relationship of measures
+
+In a positively skewed distribution, the relationship between central tendency measures is:
+
+- A. Mean < Median < Mode
+- B. Mean > Median > Mode
+- C. Mean = Median = Mode
+- D. Mode > Median > Mean
+
+<details><summary>Answer</summary>
+
+**B. Mean > Median > Mode** — In a **positively (right) skewed** distribution, the long tail is to the right, pulling the mean rightward most (sensitive to extreme values), then median, while mode remains at the peak (left). For **negative/left skew**: Mean < Median < Mode.
+
+</details>
+
+---
+
+### Q200 — Temperature/measurement scale type
+
+Celsius and Fahrenheit scales are examples of which measurement scale?
+
+- A. Nominal scale
+- B. Ordinal scale
+- C. Interval scale
+- D. Ratio scale
+
+<details><summary>Answer</summary>
+
+**C. Interval scale** — Interval scales have equal intervals between values but **no true zero** (0°C does not mean absence of temperature). Ratio scale = true zero (e.g., weight, height, Kelvin). Ordinal = rank order (e.g., mild/moderate/severe). Nominal = categories without order (e.g., blood groups).
+
+</details>
+
+---
+
+### Q201 — Best measure of central tendency in skewed data
+
+The best measure of central tendency for skewed data is:
+
+- A. Mean
+- B. Median
+- C. Mode
+- D. Range
+
+<details><summary>Answer</summary>
+
+**B. Median** — Median is the **most appropriate** central tendency measure for skewed distributions as it is not influenced by extreme values (outliers). Mean is appropriate for normally distributed data. Mode = most frequent value; useful for nominal data.
+
+</details>
+
+---
+
+### Q202 — ASHA: role in health system
+
+What is the PRIMARY role of ASHA in the community?
+
+- A. Conducting deliveries at home
+- B. Providing treatment for sick children
+- C. Counselling, information, and facilitation of health services
+- D. Maintaining immunisation cold chain
+
+<details><summary>Answer</summary>
+
+**C. Counselling, information, and facilitation of health services** — ASHA is a health activist who counsels women and families on health, nutrition, and disease prevention; facilitates institutional delivery, immunisation uptake, and ANC visits; and acts as the link between community and health system. She is NOT trained to conduct deliveries or treat illness independently.
+
+</details>
+
+---
+
+### Q203 — Gray kit (STI programme)
+
+In the STI/RTI control programme, the Gray kit is used for:
+
+- A. Urethral discharge in males
+- B. Cervicitis/vaginal discharge in females
+- C. Genital ulcer disease
+- D. Inguinal bubo
+
+<details><summary>Answer</summary>
+
+**B. Cervicitis/vaginal discharge in females** — Syndromic case management colour-coded kit system: **Gray kit** = cervicitis/vaginal discharge (females); **Green kit** = urethral discharge (males); **Red kit** = genital ulcer; **Blue kit** = inguinal bubo; **White kit** = lower abdominal pain.
+
+</details>
+
+---
+
+### Q204 — Case fatality rate: measures what?
+
+Which rate best measures the "maximum power of destruction" of a disease?
+
+- A. Survival rate
+- B. Case fatality rate (CFR)
+- C. Specific death rate
+- D. Proportional mortality rate
+
+<details><summary>Answer</summary>
+
+**B. Case fatality rate (CFR)** — CFR = (Number of deaths due to a disease / Number of diagnosed cases) × 100. It directly measures the **killing power (lethality)** of a disease. CFR is high in untreated rabies (≈100%), Ebola (~50%), untreated plague.
+
+</details>
+
+---
+
+### Q205 — Direct standardisation: adjusts for
+
+In direct standardisation for comparing mortality between countries, the method adjusts for:
+
+- A. Cause of death differences
+- B. Numerator differences
+- C. Age distribution differences
+- D. Denominator size
+
+<details><summary>Answer</summary>
+
+**C. Age distribution differences** — Direct standardisation applies a **standard population's age structure** to the observed age-specific rates of different populations, removing the confounding effect of age distribution. This allows valid comparison of crude mortality rates between populations with different age structures.
+
+</details>
+
+---
+
+### Q206 — Public Health Act 1848: designer
+
+The Public Health Act 1848 (UK) was designed by:
+
+- A. John Snow
+- B. Edwin Chadwick
+- C. Joseph Lister
+- D. William Farr
+
+<details><summary>Answer</summary>
+
+**B. Edwin Chadwick** — Edwin Chadwick, a social reformer and lawyer, was the key architect of the Public Health Act 1848, which established the General Board of Health. His 1842 Report on the Sanitary Condition of the Labouring Population demonstrated the link between poor living conditions and disease. John Snow = epidemiology of cholera (1854).
+
+</details>
+
+---
+
+### Q207 — TB: sputum-negative suspect management (NTEP)
+
+A sputum smear-negative TB suspect with abnormal chest X-ray under NTEP. Next step:
+
+- A. Treat empirically with first-line ATT
+- B. Send for CBNAAT/GeneXpert
+- C. Repeat sputum smear ×2 more times
+- D. Refer to district hospital
+
+<details><summary>Answer</summary>
+
+**B. Send for CBNAAT/GeneXpert** — Current NTEP algorithm: smear-negative suspects with symptoms → **CBNAAT (GeneXpert)** is now the preferred next step (not additional smears). If CBNAAT negative but clinical suspicion persists → chest X-ray + clinical assessment → CDST if needed. Empirical treatment is a last resort.
+
+</details>
+
+---
+
+### Q208 — Blood pressure tracking study: design
+
+A study tracks systolic blood pressure in the same group of individuals from ages 20 to 60 over 40 years. Study design:
+
+- A. Cross-sectional study
+- B. Case-control study
+- C. Cohort study (prospective longitudinal)
+- D. Ecological study
+
+<details><summary>Answer</summary>
+
+**C. Cohort study (prospective longitudinal)** — Following the same individuals over time measuring a continuous variable (BP) is a **prospective cohort/longitudinal study**. Cross-sectional = single time point. This design establishes temporal sequence and is best for incidence and causation.
+
+</details>
+
+---
+
+### Q209 — Colombo Plan: focus area
+
+The Colombo Plan is associated with which area of public health/development?
+
+- A. Tropical disease control
+- B. Cancer control
+- C. Regional economic and social development in Asia-Pacific
+- D. Maternal health programmes
+
+<details><summary>Answer</summary>
+
+**C. Regional economic and social development in Asia-Pacific** — The Colombo Plan (1951) is an intergovernmental organisation promoting social and economic development in the Asia-Pacific region through technical cooperation. It is not specifically a cancer programme (though some exam questions frame it in health context).
+
+</details>
+
+---
+
+### Q210 — Boaa toxin: neurolathyrism
+
+Neurolathyrism is caused by toxin from which plant?
+
+- A. Vicia faba (fava beans)
+- B. Lathyrus sativus (chickling vetch/grass pea)
+- C. Cycas circinalis
+- D. Raphanus sativus
+
+<details><summary>Answer</summary>
+
+**B. Lathyrus sativus (grass pea)** — Neurolathyrism is caused by **BOAA (β-N-oxalylamino-L-alanine)** toxin in *Lathyrus sativus*. Causes irreversible spastic paraparesis. Endemic in drought/famine-prone areas of India (MP, Bihar, Ethiopia). Prevention: avoid consuming more than 30% diet as grass pea; soaking and boiling reduces BOAA; vitamin C supplementation.
+
+</details>
+
+---
+
+### Q211 — YPLL: definition
+
+Years of Potential Life Lost (YPLL) measures:
+
+- A. Total life years lost due to disability
+- B. Life years lost below a defined reference age (usually 65 or 70 years)
+- C. Years lived with disease
+- D. Difference between actual and ideal life expectancy
+
+<details><summary>Answer</summary>
+
+**B. Life years lost below a reference age** — YPLL = premature mortality measure = sum of (reference age − age at death) for all deaths below reference age. Emphasises deaths in younger productive age groups. Reference age commonly 65 or 70 years in India. High YPLL = high premature mortality burden.
+
+</details>
+
+---
+
+### Q212 — Water sample collection during cholera outbreak
+
+During a suspected cholera outbreak, water samples should be collected in:
+
+- A. Plain sterile bottles
+- B. Sodium thiosulfate-treated bottles
+- C. Boric acid-treated containers
+- D. Buffered glycerol saline containers
+
+<details><summary>Answer</summary>
+
+**B. Sodium thiosulfate-treated bottles** — Water samples for **bacteriological examination** must be collected in bottles with **sodium thiosulfate** (to neutralise residual chlorine that would otherwise kill bacteria). Glass bottles (sterilised) with 100 mg sodium thiosulfate per 500 ml. For outbreak investigation, collect samples from multiple points in the distribution system.
+
+</details>
+
+---
+
+### Q213 — RDA definition
+
+Recommended Dietary Allowance (RDA) is defined as:
+
+- A. Minimum amount of a nutrient required to prevent deficiency in 50% of the population
+- B. Average daily dietary intake sufficient to meet nutrient requirements of nearly 97–98% of healthy individuals
+- C. Maximum safe intake level of a nutrient
+- D. Median requirement of a nutrient for a population
+
+<details><summary>Answer</summary>
+
+**B. Average intake sufficient for 97–98% of healthy individuals** — RDA = **Estimated Average Requirement (EAR) + 2 SD**; covers the needs of approximately 97–98% of individuals in a specific life-stage/gender group. EAR = median requirement (50th percentile). Tolerable Upper Intake Level (UL) = maximum safe intake.
+
+</details>
+
+---
+
+### Q214 — IMR as health indicator
+
+Infant Mortality Rate (IMR) is considered the most sensitive indicator of:
+
+- A. Economic development
+- B. Healthcare quality and overall health status of a community
+- C. Maternal health
+- D. Environmental sanitation
+
+<details><summary>Answer</summary>
+
+**B. Overall health status and healthcare quality** — IMR reflects the standard of living, nutritional status, environmental sanitation, maternal health, and quality of healthcare. It is the **single most sensitive and comprehensive indicator** of community health status. India's IMR target: <20 per 1000 live births under SDGs.
+
+</details>
+
+---
+
+### Q215 — Varicella in seronegative pregnant healthcare worker
+
+A seronegative pregnant healthcare worker is exposed to varicella. Immediate management:
+
+- A. Varicella vaccine (VZV live vaccine)
+- B. Oral acyclovir prophylaxis
+- C. Varicella-Zoster Immune Globulin (VZIG)
+- D. No treatment needed
+
+<details><summary>Answer</summary>
+
+**C. Varicella-Zoster Immune Globulin (VZIG)** — Live varicella vaccine is **contraindicated in pregnancy**. For a seronegative pregnant woman exposed to VZV, **VZIG** should be administered within **96 hours** (preferably within 72 h) of exposure for post-exposure prophylaxis. If VZIG unavailable, IV acyclovir is an alternative.
+
+</details>
+
+---
+
+### Q216 — SDG 3.1: MMR target
+
+SDG target 3.1 aims to reduce the global Maternal Mortality Ratio to less than:
+
+- A. 70 per 100,000 live births by 2030
+- B. 100 per 100,000 live births by 2025
+- C. 140 per 100,000 live births by 2030
+- D. 50 per 100,000 live births by 2030
+
+<details><summary>Answer</summary>
+
+**A. Less than 70 per 100,000 live births by 2030** — SDG 3.1: reduce global MMR to **<70 per 100,000 live births by 2030**. India's MMR was ~97 (2018–20 SRS data). India's national NHM target: MMR <100 by 2020. No country should have MMR >140.
+
+</details>
+
+---
+
+### Q217 — Retrospective cohort study: example
+
+A study of bladder cancer risk in factory workers exposed to aniline dyes: workers divided into those who handled dyes directly vs. office staff; employment records used to reconstruct past exposure. Study design:
+
+- A. Prospective cohort
+- B. Case-control
+- C. Cross-sectional
+- D. Retrospective cohort (historical cohort)
+
+<details><summary>Answer</summary>
+
+**D. Retrospective cohort (historical cohort)** — Exposure groups (dye handlers vs. non-handlers) are identified **retrospectively** using historical records, then outcomes are ascertained from records. This is a **retrospective (historical) cohort** — not case-control (which starts from outcome and looks back for exposure), because groups are defined by exposure status.
+
+</details>
+
+---
+
+### Q218 — Delphi technique
+
+The Delphi technique is used in:
+
+- A. Epidemiological outbreak investigation
+- B. Structured expert consensus for health planning and forecasting
+- C. Clinical case discussions
+- D. Retrospective cohort analysis
+
+<details><summary>Answer</summary>
+
+**B. Structured expert consensus for health planning** — Delphi technique: iterative process of **structured questionnaires sent to a panel of experts** with controlled feedback; consensus is achieved over multiple rounds without face-to-face meetings. Used in health needs assessment, health technology assessment, and guideline development.
+
+</details>
+
+---
+
+### Q219 — Chickenpox outbreak in hostel: management
+
+A chickenpox outbreak is detected in a boarding school hostel. Correct outbreak management:
+
+- A. Vaccinate all susceptible contacts immediately
+- B. Isolate cases for 7 days from onset of rash; identify and vaccinate susceptible contacts within 72 hours
+- C. Close the school and fumigate
+- D. Administer acyclovir to all residents prophylactically
+
+<details><summary>Answer</summary>
+
+**B. Isolate cases; vaccinate susceptible contacts within 72 hours** — Varicella management: (1) Isolate cases until lesions are crusted (~5–7 days from rash onset); (2) Post-exposure vaccination of susceptible contacts within **72 hours** (up to 120 hours) can prevent or attenuate disease; (3) VZIG for immunocompromised/pregnant susceptibles. School closure is not routinely recommended.
+
+</details>
+
+---
+
+### Q220 — Complementary feeding: when to start
+
+At what age should complementary feeding be introduced in a healthy term infant?
+
+- A. 4 months
+- B. 6 months
+- C. 8 months
+- D. 12 months
+
+<details><summary>Answer</summary>
+
+**B. 6 months** — WHO/IAP guidelines: **exclusive breastfeeding for 6 months**, then introduce complementary foods at **6 months** while continuing breastfeeding up to 2 years or beyond. Starting before 4 months increases aspiration risk; delaying beyond 6 months increases risk of malnutrition and micronutrient deficiencies.
+
+</details>
+
+---
+
+### Q221 — Nipah virus: reservoir and transmission
+
+A fruit farmer in Kerala develops encephalitis. Nipah virus is suspected. The primary reservoir is:
+
+- A. Rats
+- B. Pigs
+- C. Pteropus fruit bats
+- D. Dogs
+
+<details><summary>Answer</summary>
+
+**C. Pteropus fruit bats (flying foxes)** — Nipah virus (NiV) natural reservoir = **Pteropus genus fruit bats**. Transmission to humans via: (1) direct contact with bat urine/saliva on date palm sap; (2) consumption of contaminated food; (3) close contact with infected pigs (Malaysia 1998) or infected humans (Bangladesh, India outbreaks). CFR in India: 40–100%.
+
+</details>
+
+---
+
+### Q222 — OPV cold chain: minimum storage temperature
+
+What is the minimum acceptable storage temperature for OPV in the cold chain?
+
+- A. +2°C
+- B. −20°C (frozen)
+- C. +4°C
+- D. 0°C
+
+<details><summary>Answer</summary>
+
+**B. −20°C (frozen storage)** — OPV must be stored **frozen** (−15°C to −25°C) for long-term storage at state/district vaccine stores. At PHC/subcentre level, it can be stored at +2°C to +8°C for up to 1 month. OPV is the most heat-sensitive vaccine; VVM stage should always be checked.
+
+</details>
+
+---
+
+### Q223 — BMW Rules 2016: chemical liquid biomedical waste *(2020)*
+
+Chemical/hazardous liquid biomedical waste should be disposed of in which colour category per BMW Rules 2016?
+
+- A. White
+- B. Red
+- C. Blue
+- D. Yellow
+
+<details><summary>Answer</summary>
+
+**D. Yellow** — BMW Rules 2016 Yellow category: human anatomical waste, soiled dressings/bandages, discarded blood products, blood bags, cytotoxic drugs, **chemical and liquid waste**. Cytotoxic waste additionally labelled "CYTOTOXIC." Red = contaminated plastic recyclables (IV sets, gloves, tubes). White = sharps. Blue = glass/metallic items.
+
+</details>
+
+---
+
+### Q224 — Vaccine after natural disaster *(2020)*
+
+Which vaccine should be prioritised after a natural disaster?
+
+- A. Typhoid
+- B. Cholera
+- C. Both typhoid and cholera
+- D. Tetanus
+
+<details><summary>Answer</summary>
+
+**D. Tetanus** — Post-disaster: tetanus is the vaccine of choice because disaster injuries are contamination-prone and trauma victims are at risk of tetanus. Mass vaccination against cholera or typhoid is NOT recommended post-disaster (insufficient evidence for outbreak prevention). Hepatitis B also advised for healthcare workers.
+
+</details>
+
+---
+
+### Q225 — Water-related disease classification *(2020)*
+
+Which of the following belongs to the "water-related" (water-breeding) category of waterborne disease classification?
+
+- A. Yellow fever
+- B. Scabies
+- C. Cholera
+- D. Dysentery
+
+<details><summary>Answer</summary>
+
+**A. Yellow fever** — WHO/Park's water disease classification: **Water-borne** (faeco-oral) = cholera, typhoid, hepatitis A, dysentery. **Water-washed** (poor hygiene) = scabies, trachoma, bacillary dysentery. **Water-based** (aquatic invertebrate host) = schistosomiasis, dracunculiasis. **Water-related** (water-breeding vector) = malaria, filariasis, dengue, **yellow fever**, onchocerciasis.
+
+</details>
+
+---
+
+### Q226 — Vision 2020: secondary service centre population coverage *(2020)*
+
+Under Vision 2020 — Right to Sight, a secondary service centre is designed to cover a population of:
+
+- A. 10,000
+- B. 50,000
+- C. 1 lakh
+- D. 5 lakh
+
+<details><summary>Answer</summary>
+
+**D. 5 lakh** — Vision 2020 infrastructure pyramid: (1) Primary Vision Centres = 20,000 centres × **50,000 population** each; (2) Secondary Service Centres = 2,000 centres × **5 lakh population** each (2 ophthalmologists + 8 paramedics); (3) Training Centres = 200 × 50 lakh; (4) Centres of Excellence = 20 × 5 crore.
+
+</details>
+
+---
+
+### Q227 — CA-125 screening: NPV calculation *(2020)*
+
+CA-125 is used to screen for ovarian cancer. In a study, 60 out of 100 women who tested **positive** had ovarian cancer (on histopathology), and 20 out of 100 women who tested **negative** had ovarian cancer. What is the **negative predictive value (NPV)**?
+
+- A. 20/100
+- B. 40/100
+- C. 60/100
+- D. 80/100
+
+<details><summary>Answer</summary>
+
+**D. 80/100** — 2×2 table: TP = 60, FP = 40, FN = 20, TN = 80. **NPV = TN / (TN + FN) = 80 / (80 + 20) = 80/100 = 80%**. NPV = probability that a negative test truly means disease-free. PPV = 60/100 = 60%. Sensitivity = 60/(60+20) = 75%. Specificity = 80/(80+40) = 67%.
+
+</details>
+
+---
+
+### Q228 — Screening not useful in which cancer *(2020)*
+
+Screening is NOT recommended for which of the following?
+
+- A. Carcinoma breast
+- B. Carcinoma cervix
+- C. Carcinoma prostate
+- D. Testicular tumour
+
+<details><summary>Answer</summary>
+
+**D. Testicular tumour** — Established screening programmes: Breast (mammography/BSE), Cervix (Pap smear/HPV test), Prostate (PSA + DRE), Colorectal (FOBT/colonoscopy), Lung (low-dose CT for high-risk smokers), Ovary (CA-125 + TVS). **Testicular tumours** present as painless testicular swelling and are diagnosed clinically — no population-level screening programme exists.
+
+</details>
+
+---
+
+### Q229 — Berkesonian bias: mechanism *(2020)*
+
+Berkesonian bias (admission rate bias) occurs because:
+
+- A. Volunteers differ systematically from non-volunteers in health behaviour
+- B. Patients with two diseases are more likely to be hospitalised than those with only one
+- C. Fatal or brief-illness cases are missing from the prevalent case series
+- D. Cases screened earlier have longer apparent survival (not actual benefit)
+
+<details><summary>Answer</summary>
+
+**B. Greater probability of hospitalisation with two diseases** — Berkson's bias: in hospital-based case-control studies, people with both the exposure (e.g., breast cancer) AND the study disease (e.g., meningioma) are more likely to be admitted than those with only one. This inflates the apparent association between exposure and disease. Option A = Volunteer bias. Option C = Neyman (prevalence-incidence) bias. Option D = Lead time bias.
+
+</details>
+
+---
+
+### Q230 — Maternal antibody NOT transferred transplacentally *(2020)*
+
+Which of the following antibodies is **not** transferred from mother to baby transplacentally?
+
+- A. Diphtheria antitoxin
+- B. Tetanus antitoxin
+- C. Anti-measles IgG
+- D. Secretory IgA (anti-polio)
+
+<details><summary>Answer</summary>
+
+**D. Secretory IgA** — IgG (diphtheria antitoxin, tetanus antitoxin, anti-measles, anti-rubella) crosses the placenta via FcRn receptors and provides passive immunity to the newborn for ~6 months. **Secretory IgA** (produced after OPV immunisation) is present in colostrum/breast milk but does NOT cross the placenta. This is why newborns have no passive mucosal immunity against polio.
+
+</details>
+
+---
+
+### Q231 — MHA 2017: voluntary admission maximum duration *(2020)*
+
+Under the Mental Healthcare Act 2017, the maximum period for which a person can be voluntarily admitted under Section 90 is:
+
+- A. 48 hours
+- B. 7 days
+- C. 30 days
+- D. 90 days
+
+<details><summary>Answer</summary>
+
+**D. 90 days** — MHA 2017 Section 90: voluntary admission ≤30 days is straightforward. If admission exceeds 30 days OR readmission occurs within 7 days, two psychiatrists must review the patient and the Mental Health Review Board (MHRB) must be informed. Maximum voluntary admission = **90 days**. Consent must be reviewed fortnightly. Beyond 90 days, supported/independent admission provisions apply.
+
+</details>
+
+---
+
+### Q232 — IUD: which is NOT an absolute contraindication *(2020)*
+
+All of the following are absolute contraindications to IUD (IUCD) insertion EXCEPT:
+
+- A. Suspected pregnancy
+- B. Undiagnosed vaginal bleeding
+- C. Active pelvic inflammatory disease (PID)
+- D. Uterine malformation
+
+<details><summary>Answer</summary>
+
+**D. Uterine malformation** — IUD absolute contraindications (WHO MEC category 4): pregnancy, active or recent PID, undiagnosed vaginal bleeding, cervical/uterine malignancy, previous ectopic pregnancy. **Uterine malformation** (distorted cavity from fibroid or congenital anomaly) is a **relative contraindication** (WHO MEC category 3/4 depending on degree of distortion) — not an absolute contraindication.
+
+</details>
+
+---
+
+### Q233 — RCH programme: highest implementation level *(2019)*
+
+The Reproductive and Child Health (RCH) Programme activities are targeted at which administrative level?
+
+- A. Sub-centre
+- B. Anganwadi centre
+- C. District
+- D. Taluka
+
+<details><summary>Answer</summary>
+
+**C. District** — RCH uses a **differential district approach**: inputs vary based on district need (crude birth rate and female literacy rate → categories A, B, C). The district is the unit for planning, resource allocation, and monitoring. Weaker districts receive more support. The programme covers all districts in a phased manner.
+
+</details>
+
+---
+
+### Q234 — Sub-centre: role in health system *(2019)*
+
+Which health facility is the **most peripheral** and the **first contact point** between the primary health care system and the community?
+
+- A. Primary Health Centre (PHC)
+- B. Anganwadi centre
+- C. Sub-centre
+- D. Community Health Centre (CHC)
+
+<details><summary>Answer</summary>
+
+**C. Sub-centre** — Sub-centre is the most peripheral unit of the Indian health system. Coverage: 1 per **5,000 population** (plains), 1 per **3,000** (tribal/hilly areas). Staffed by: 1 Auxiliary Nurse Midwife (ANM) + 1 Male Multipurpose Worker. Functions: MCH, family welfare, nutrition, immunisation, diarrhoea control, communicable disease programmes, interpersonal communication.
+
+</details>
+
+---
+
+### Q235 — HIV vertical transmission: highest risk factor *(2019)*
+
+HIV vertical (mother-to-child) transmission to the infant is **highest** with which of the following?
+
+- A. Elective caesarean section before labour
+- B. High maternal viral RNA load
+- C. Breastfeeding for 6 months
+- D. Term delivery
+
+<details><summary>Answer</summary>
+
+**B. High maternal viral RNA load** — Maternal viral load is the **single most important determinant** of vertical HIV transmission. Routes and rates: in utero = 5–10%; intrapartum = 10–15%; breastfeeding = 5–20% (additive). Elective C-section before labour/membrane rupture reduces transmission by ~50%. PMTCT: cART throughout pregnancy + intrapartum + postpartum, elective C-section, and safe infant feeding.
 
 </details>

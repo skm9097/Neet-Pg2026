@@ -1544,3 +1544,153 @@ The pandemic that occurred in 2009 was due to which influenza virus?
 </details>
 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q93 — BMW Rules 2016: chemical liquid biomedical waste *(2020)*
+
+Chemical/hazardous liquid biomedical waste should be disposed of in which colour category per BMW Rules 2016?
+
+- A. White
+- B. Red
+- C. Blue
+- D. Yellow
+
+<details><summary>Answer</summary>
+
+**D. Yellow** — BMW Rules 2016 Yellow category includes: human anatomical waste, soiled dressings, blood bags, discarded blood products, cytotoxic drugs, and chemical/liquid waste. Cytotoxic waste additionally labelled "CYTOTOXIC." Red = contaminated plastic recyclables. White = sharps. Blue = glass/metallic items.
+
+</details>
+
+### Q94 — Vaccine after natural disaster *(2020)*
+
+After a natural disaster, which vaccine should be prioritised?
+
+- A. Typhoid
+- B. Cholera
+- C. Both typhoid and cholera
+- D. Tetanus
+
+<details><summary>Answer</summary>
+
+**D. Tetanus** — Tetanus is prioritised post-disaster because trauma injuries are contamination-prone. Mass vaccination against cholera or typhoid has no evidence for outbreak prevention post-disaster. Hepatitis B also recommended for healthcare workers.
+
+</details>
+
+### Q95 — Water-related (water-breeding) disease *(2020)*
+
+Which of the following belongs to the "water-related" (water-breeding) category?
+
+- A. Yellow fever
+- B. Scabies
+- C. Cholera
+- D. Dysentery
+
+<details><summary>Answer</summary>
+
+**A. Yellow fever** — Classification: Water-borne (faeco-oral) = cholera, typhoid, hepatitis A. Water-washed (poor hygiene) = scabies, trachoma. Water-based (aquatic invertebrate) = schistosomiasis, dracunculiasis. Water-related (water-breeding vector) = malaria, filariasis, dengue, yellow fever.
+
+</details>
+
+### Q96 — Vision 2020: secondary service centre population *(2020)*
+
+Under Vision 2020 — Right to Sight, a secondary service centre covers which population?
+
+- A. 10,000
+- B. 50,000
+- C. 1 lakh
+- D. 5 lakh
+
+<details><summary>Answer</summary>
+
+**D. 5 lakh** — Vision 2020 pyramid: Primary Vision Centres = 50,000 population; Secondary Service Centres = **5 lakh** (2 ophthalmologists + 8 paramedics); Training Centres = 50 lakh; Centres of Excellence = 5 crore.
+
+</details>
+
+### Q97 — CA-125: NPV calculation *(2020)*
+
+CA-125 screens for ovarian cancer. 60/100 women testing positive had ovarian cancer; 20/100 testing negative had ovarian cancer. What is the NPV?
+
+- A. 20/100
+- B. 40/100
+- C. 60/100
+- D. 80/100
+
+<details><summary>Answer</summary>
+
+**D. 80/100** — 2×2 table: TP=60, FP=40, FN=20, TN=80. NPV = TN/(TN+FN) = 80/(80+20) = 80%. PPV = 60%. Sensitivity = 75%. Specificity = 67%.
+
+</details>
+
+### Q98 — Screening not useful in which cancer *(2020)*
+
+Screening is NOT recommended for which of the following?
+
+- A. Carcinoma breast
+- B. Carcinoma cervix
+- C. Carcinoma prostate
+- D. Testicular tumour
+
+<details><summary>Answer</summary>
+
+**D. Testicular tumour** — Established screening: breast (mammography), cervix (Pap/HPV), prostate (PSA), colorectal (FOBT/colonoscopy). Testicular tumours present clinically as painless swelling — no population-level screening programme exists.
+
+</details>
+
+### Q99 — Berkesonian (admission rate) bias *(2020)*
+
+Admission rate bias (Berkesonian bias) occurs because:
+
+- A. Volunteers differ from non-volunteers in health behaviour
+- B. Patients with two diseases are more likely to be hospitalised than those with one
+- C. Fatal cases are missed from the prevalent case series
+- D. Earlier detection inflates apparent survival without affecting mortality
+
+<details><summary>Answer</summary>
+
+**B. Greater probability of hospitalisation with two diseases** — Berkson's bias: in hospital-based case-control studies, subjects with both the exposure and the disease are more likely to be admitted, inflating the apparent association. Option A = Volunteer bias. Option C = Neyman (prevalence-incidence) bias. Option D = Lead time bias.
+
+</details>
+
+### Q100 — Maternal antibody NOT transferred transplacentally *(2020)*
+
+Which antibody is NOT transferred from mother to baby across the placenta?
+
+- A. Diphtheria antitoxin
+- B. Tetanus antitoxin
+- C. Anti-measles IgG
+- D. Secretory IgA (anti-polio)
+
+<details><summary>Answer</summary>
+
+**D. Secretory IgA** — IgG (anti-diphtheria, anti-tetanus, anti-measles) crosses the placenta via FcRn receptors. Secretory IgA from OPV immunisation is present in colostrum/breast milk but does NOT cross the placenta, so newborns lack passive mucosal immunity to polio.
+
+</details>
+
+### Q101 — MHA 2017: voluntary admission maximum duration *(2020)*
+
+Under the Mental Healthcare Act 2017 (Section 90), the maximum period for voluntary admission is:
+
+- A. 48 hours
+- B. 7 days
+- C. 30 days
+- D. 90 days
+
+<details><summary>Answer</summary>
+
+**D. 90 days** — If admission exceeds 30 days or there is readmission within 7 days, two psychiatrists must review and the MHRB must be informed. Maximum voluntary admission = 90 days; consent reviewed fortnightly.
+
+</details>
+
+### Q102 — IUD: which is NOT an absolute contraindication *(2020)*
+
+All of the following are absolute contraindications to IUCD insertion EXCEPT:
+
+- A. Suspected pregnancy
+- B. Undiagnosed vaginal bleeding
+- C. Active pelvic inflammatory disease
+- D. Uterine malformation
+
+<details><summary>Answer</summary>
+
+**D. Uterine malformation** — Absolute contraindications: pregnancy, active PID, undiagnosed vaginal bleeding, cervical/uterine malignancy, previous ectopic pregnancy. Uterine malformation (distorted cavity) is a relative contraindication (WHO MEC 3/4), not absolute.
+
+</details>

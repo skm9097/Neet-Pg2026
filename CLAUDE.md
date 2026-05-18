@@ -42,7 +42,7 @@ Neet-Pg2026/
     │   ├── anaesthesia.md           (27 Qs)
     │   ├── anatomy.md               (20 Qs)
     │   ├── biochemistry.md          (20 Qs)
-    │   ├── community-medicine.md    (20 Qs)
+    │   ├── community-medicine.md    (222 Qs)
     │   ├── dermatology.md           (20 Qs)
     │   ├── ent.md                   (20 Qs)
     │   ├── forensic-medicine.md     (35 Qs)
@@ -81,8 +81,8 @@ Neet-Pg2026/
 
 **Current totals:**
 - Year-wise: ~400 questions (2019–2025, full 200 for 2025)
-- Subject-wise: ~400 questions across all 19 NBE subjects
-- Combined unique: ~700 distinct questions
+- Subject-wise: ~580 questions across all 19 NBE subjects
+- Combined unique: ~880 distinct questions
 - Gap: 2015–2018 (0 questions; PDF source links in each year's `index.md`)
 
 ---

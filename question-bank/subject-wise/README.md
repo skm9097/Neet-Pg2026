@@ -9,7 +9,7 @@ Multi-year question pools grouped by subject, drawn from PrepLadder + DigiNerve 
 | [anaesthesia.md](anaesthesia.md) | Anaesthesia | 27 |
 | [anatomy.md](anatomy.md) | Anatomy | 20 |
 | [biochemistry.md](biochemistry.md) | Biochemistry | 20 |
-| [community-medicine.md](community-medicine.md) | Community Medicine / PSM | 20 |
+| [community-medicine.md](community-medicine.md) | Community Medicine / PSM | 222 |
 | [dermatology.md](dermatology.md) | Dermatology | 20 |
 | [ent.md](ent.md) | ENT | 20 |
 | [forensic-medicine.md](forensic-medicine.md) | Forensic Medicine & Toxicology | 35 |
@@ -26,7 +26,7 @@ Multi-year question pools grouped by subject, drawn from PrepLadder + DigiNerve 
 | [radiology.md](radiology.md) | Radiology | 15 |
 | [surgery.md](surgery.md) | General Surgery | 20 |
 
-**Total: ~400 subject-wise questions** across all 19 NBE NEET-PG subjects.
+**Total: ~580 subject-wise questions** across all 19 NBE NEET-PG subjects.
 
 ## Format
 

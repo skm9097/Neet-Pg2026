@@ -1406,3 +1406,48 @@ A resident doctor sustains a needlestick injury while taking blood from an HIV-p
 </details>
 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q84 — RCH programme: highest implementation level *(2019)*
+
+The Reproductive and Child Health (RCH) Programme activities are targeted at which administrative level?
+
+- A. Sub-centre
+- B. Anganwadi centre
+- C. District
+- D. Taluka
+
+<details><summary>Answer</summary>
+
+**C. District** — RCH uses a differential district approach: districts are categorised A/B/C by crude birth rate and female literacy rate, with weaker districts receiving more support. District = unit for planning, resource allocation, and programme monitoring.
+
+</details>
+
+### Q85 — Sub-centre: role in the health system *(2019)*
+
+Which health facility is the most peripheral and first contact point between the primary health care system and the community?
+
+- A. Primary Health Centre (PHC)
+- B. Anganwadi centre
+- C. Sub-centre
+- D. Community Health Centre (CHC)
+
+<details><summary>Answer</summary>
+
+**C. Sub-centre** — Sub-centre: 1 per 5,000 population (plains), 1 per 3,000 (tribal/hilly). Staff: 1 ANM + 1 Male Multipurpose Worker. Tasks: MCH, family welfare, nutrition, immunisation, diarrhoea control, communicable disease control.
+
+</details>
+
+### Q86 — HIV vertical transmission: highest risk factor *(2019)*
+
+HIV vertical (mother-to-child) transmission to the infant is highest with which of the following?
+
+- A. Elective caesarean section before labour
+- B. High maternal viral RNA load
+- C. Breastfeeding for 6 months
+- D. Term delivery
+
+<details><summary>Answer</summary>
+
+**B. High maternal viral RNA load** — Maternal viral load is the single most important determinant of vertical HIV transmission. Rates: in utero 5–10%, intrapartum 10–15%, breastfeeding 5–20%. Elective C-section before labour/membrane rupture reduces transmission ~50%. PMTCT: cART + elective C-section + safe infant feeding.
+
+</details>
