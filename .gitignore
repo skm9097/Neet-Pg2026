@@ -15,6 +15,9 @@ neet-quiz-app/build/
 neet-quiz-app/android/local.properties
 neet-quiz-app/android/.gradle/
 
-# PDF and binary source files
+# PDF and binary source files (raw dumps, source papers)
 *.pdf
 *.bin
+
+# Exception: generated study notes PDFs
+!notes/*.pdf
