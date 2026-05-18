@@ -3770,3 +3770,430 @@ HIV vertical (mother-to-child) transmission to the infant is **highest** with wh
 **B. High maternal viral RNA load** — Maternal viral load is the **single most important determinant** of vertical HIV transmission. Routes and rates: in utero = 5–10%; intrapartum = 10–15%; breastfeeding = 5–20% (additive). Elective C-section before labour/membrane rupture reduces transmission by ~50%. PMTCT: cART throughout pregnancy + intrapartum + postpartum, elective C-section, and safe infant feeding.
 
 </details>
+
+---
+
+*Questions Q236–Q260 sourced from PrepLadder PSM high-yield pages — topics not yet covered in Q1–Q235.*
+
+### Q236 — Phrynoderma: nutritional deficiency
+
+Phrynoderma (follicular hyperkeratosis; rough, scaly "toad skin") is primarily caused by deficiency of:
+
+- A. Essential fatty acids
+- B. Vitamin D
+- C. Vitamin E
+- D. Vitamin A
+
+<details><summary>Answer</summary>
+
+**A. Essential fatty acids** — Phrynoderma = follicular hyperkeratosis with rough, dry skin; primarily caused by essential fatty acid (linoleic acid) deficiency, though combined deficiencies (Vit A, B complex, EFA) may contribute. Vitamin A deficiency = night blindness, xerophthalmia, Bitot's spots, keratomalacia — not primarily phrynoderma.
+
+</details>
+
+---
+
+### Q237 — WHO Regional Office for Europe: headquarters
+
+The WHO Regional Office for Europe (WHO/Europe) is headquartered in:
+
+- A. Geneva, Switzerland
+- B. Copenhagen, Denmark
+- C. Bern, Switzerland
+- D. Milan, Italy
+
+<details><summary>Answer</summary>
+
+**B. Copenhagen, Denmark** — WHO/Europe covers 53 Member States; HQ = Copenhagen. Global WHO HQ = Geneva. Other WHO regional offices: PAHO = Washington DC; SEARO = New Delhi; WPRO = Manila; EMRO = Cairo; AFRO = Brazzaville.
+
+</details>
+
+---
+
+### Q238 — Lecture method: incorrect statement
+
+Which statement about the lecture (health education method) is INCORRECT?
+
+- A. Also called the chalk-and-talk method
+- B. Theoretically a one-way (didactic) communication
+- C. Group size should not exceed 50 people
+- D. Ideal duration is 15–20 minutes
+
+<details><summary>Answer</summary>
+
+**C. "Group size should not exceed 50"** — The correct ideal group size for a lecture is **not more than 30 people**. Lectures ideally last 15–20 minutes. They are one-way/didactic but can include limited Q&A. Size >30 reduces interactivity and retention.
+
+</details>
+
+---
+
+### Q239 — Gomez classification: 77% weight-for-age
+
+A 2-year-old boy weighs 77% of expected weight for his age. Gomez grading?
+
+- A. Normal (>90%)
+- B. Grade I / First-degree malnutrition (76–90%)
+- C. Grade II / Second-degree malnutrition (61–75%)
+- D. Grade III / Third-degree malnutrition (<60%)
+
+<details><summary>Answer</summary>
+
+**B. Grade I (First-degree malnutrition)** — Gomez classification (weight-for-age as % of expected): Normal >90%; Grade I (mild) = 76–90%; Grade II (moderate) = 61–75%; Grade III (severe) = <60%. At 77% the child falls in Grade I.
+
+</details>
+
+---
+
+### Q240 — Crude birth rate (CBR): false statement
+
+Which statement about the crude birth rate (CBR) is FALSE?
+
+- A. Defined as total live births per year per 1000 mid-year population
+- B. India's current CBR is approximately 19.5 per 1000 MYP
+- C. Not all individuals in the denominator are at risk of childbirth
+- D. CBR accurately reflects fertility trends of a country
+
+<details><summary>Answer</summary>
+
+**D. CBR accurately reflects fertility trends** — CBR is a crude (approximate) measure; its denominator includes males and women outside reproductive age, so it does not accurately measure fertility. For fertility trends, **TFR (Total Fertility Rate)** or **ASFR (Age-Specific Fertility Rate)** are used.
+
+</details>
+
+---
+
+### Q241 — Miasma theory: disease causation
+
+"Disease in humans arises from bad air (miasma) — poisonous vapours from rotting organic matter" describes which theory?
+
+- A. Web of causation
+- B. Germ theory
+- C. Multifactorial causation
+- D. Miasma theory
+
+<details><summary>Answer</summary>
+
+**D. Miasma theory** — Pre-Pasteur theory of disease causation. Disproved by Pasteur and Koch's germ theory (1860s–1880s). Epidemiological triad (agent-host-environment) = 1950s. Web of causation (MacMahon, 1960) = complex multifactorial chain. Wheel of causation = host (genetic core) surrounded by biological/social/physical environment.
+
+</details>
+
+---
+
+### Q242 — Pneumoconiosis: correct industry matching
+
+Which option correctly matches all four pneumoconioses with their causative dust/industry?
+
+- A. Silicosis = Textile; Asbestosis = Mining; Byssinosis = Shipbuilding; Anthracosis = Coal
+- B. Silicosis = Mining/quarrying; Asbestosis = Construction/shipbuilding; Byssinosis = Textile mills; Anthracosis = Coal mining
+- C. Silicosis = Coal mining; Asbestosis = Construction; Byssinosis = Textile; Anthracosis = Mining
+- D. Silicosis = Mining; Asbestosis = Coal; Byssinosis = Construction; Anthracosis = Textile
+
+<details><summary>Answer</summary>
+
+**B.** — Silicosis = free crystalline silica (mining, quarrying, sandblasting, stone cutting); Asbestosis = asbestos fibres (construction, insulation, shipbuilding); Byssinosis = cotton/hemp/jute dust (textile mills; "Monday fever"); Anthracosis = coal dust (coal mining; also in urban residents from air pollution).
+
+</details>
+
+---
+
+### Q243 — Vitamin A deficiency: signs hierarchy
+
+Which sign of Vitamin A deficiency is the MOST COMMON (i.e., most prevalent on examination)?
+
+- A. Keratomalacia
+- B. Night blindness (nyctalopia)
+- C. Bitot's spots
+- D. Conjunctival xerosis
+
+<details><summary>Answer</summary>
+
+**D. Conjunctival xerosis** — Most common sign on examination = conjunctival xerosis. Most common presenting complaint = night blindness. Most specific/pathognomonic sign = Bitot's spots (white foamy spots on conjunctiva). Most severe/vision-threatening = keratomalacia (corneal melting → blindness). WHO XN–X3A staging follows this progression.
+
+</details>
+
+---
+
+### Q244 — Disaster management cycle: correct sequence
+
+What is the correct sequence of phases in the disaster management cycle?
+
+- A. Impact → Response → Rehabilitation → Reconstruction → Mitigation → Preparedness
+- B. Impact → Mitigation → Preparedness → Response → Rehabilitation → Reconstruction
+- C. Impact → Response → Rehabilitation → Reconstruction → Preparedness → Mitigation
+- D. Impact → Rehabilitation → Reconstruction → Response → Mitigation → Preparedness
+
+<details><summary>Answer</summary>
+
+**A. Impact → Response → Rehabilitation → Reconstruction → Mitigation → Preparedness** — After a disaster (impact), immediate response occurs, followed by recovery (rehabilitation and reconstruction). Pre-disaster phases follow: mitigation (reducing future risk) and preparedness (planning, drills, stockpiling). The cycle then repeats.
+
+</details>
+
+---
+
+### Q245 — DALY: components
+
+DALY (Disability-Adjusted Life Year) measures years lost to:
+
+- A. Disability alone (YLD only)
+- B. Premature death alone (YLL only)
+- C. Both disability and premature death (YLL + YLD)
+- D. Only preventable diseases
+
+<details><summary>Answer</summary>
+
+**C. Both disability AND premature death** — DALY = YLL (Years of Life Lost to premature death) + YLD (Years Lived with Disability). 1 DALY = 1 lost year of healthy life. Used in Global Burden of Disease (GBD) studies to compare disease burden across populations. QALY measures benefit of interventions (not burden).
+
+</details>
+
+---
+
+### Q246 — OCP for contraception: prevention level
+
+A woman starts oral contraceptive pills (OCP) purely for contraception. This is classified as which level of prevention?
+
+- A. Primordial prevention
+- B. Primary prevention
+- C. Secondary prevention
+- D. Tertiary prevention
+
+<details><summary>Answer</summary>
+
+**B. Primary prevention** — OCP for contraception prevents an unwanted pregnancy (the "condition") from occurring = primary prevention (specific protection level). OCP for PCOD = secondary prevention (treating existing condition to prevent complications). Condom use for STD prevention = specific protection (primary prevention).
+
+</details>
+
+---
+
+### Q247 — Rabies: NOT recommended for Category II exposure (Indian guidelines)
+
+For Category II rabies exposure (superficial scratch/bite, mild bleeding), which is NOT recommended per Indian Rabies Guidelines?
+
+- A. Wound washing with soap and water for ≥15 minutes
+- B. Intradermal vaccination: 0.1 ml at 2 sites on Days 0, 3, 7, 28
+- C. Rabies immunoglobulin (RIG) infiltrated around wound
+- D. No post-exposure prophylaxis needed as Category II is low-risk
+
+<details><summary>Answer</summary>
+
+**D. No PEP needed** — Category II exposure (uncovered skin scratches, superficial bites without bleeding) DOES require PEP (wound wash + rabies vaccine). RIG is given for Category III (transdermal bites, bleeding). Indian ID regimen = 2-2-2-0-2 (Updated Thai Red Cross): 0.1 ml at 2 sites, Days 0, 3, 7, 28. IM Essen regimen = 1 ml on Days 0, 3, 7, 14, 28.
+
+</details>
+
+---
+
+### Q248 — Diphtheria unvaccinated contact: management
+
+An unvaccinated, asymptomatic close contact of a confirmed diphtheria case. Most appropriate management?
+
+- A. Diphtheria antitoxin (DAT) immediately
+- B. Single booster dose of diphtheria toxoid only
+- C. Prophylactic erythromycin (or benzathine penicillin) + initiate diphtheria toxoid vaccination
+- D. Observe for 7 days; treat only if symptoms develop
+
+<details><summary>Answer</summary>
+
+**C. Antibiotic prophylaxis + begin immunisation** — NVDCP guidelines for unvaccinated close contacts: (1) erythromycin 40 mg/kg/day × 7–10 days OR single-dose benzathine penicillin IM (eliminates carrier state), (2) begin diphtheria toxoid series (active immunisation). Take throat/nasal swab for culture. DAT = given to clinical CASES (not asymptomatic contacts).
+
+</details>
+
+---
+
+### Q249 — Health indicators: characteristic NOT included
+
+Which is NOT a characteristic of a good health indicator?
+
+- A. Validity
+- B. Reliability
+- C. Affordability
+- D. Feasibility
+
+<details><summary>Answer</summary>
+
+**C. Affordability** — Characteristics of a good health indicator (WHO): validity, reliability, sensitivity, specificity, feasibility, simplicity, relevance, and acceptability. **Affordability** is not a standard criterion for a health indicator itself (though it is relevant to programme planning).
+
+</details>
+
+---
+
+### Q250 — Secondary prevention: NOT included
+
+Which of the following is NOT an example of secondary prevention?
+
+- A. Blood sugar screening for diabetes
+- B. Case finding for falciparum malaria
+- C. Contact tracing for STIs
+- D. Reconstructive surgery for leprosy
+
+<details><summary>Answer</summary>
+
+**D. Reconstructive surgery for leprosy** — Reconstructive surgery rehabilitates existing deformity = **tertiary prevention** (disability limitation and rehabilitation). Secondary prevention = early detection + prompt treatment: glucose screening (diabetes), smear for malaria, contact tracing for STI, sputum smear for TB.
+
+</details>
+
+---
+
+### Q251 — Disability limitation in poliomyelitis: example
+
+Which is an example of disability limitation in poliomyelitis?
+
+- A. OPV immunization to reduce polio occurrence
+- B. Providing calipers for walking
+- C. Resting affected limbs in neutral position during acute phase
+- D. Arranging special schooling for children with post-polio residual paralysis
+
+<details><summary>Answer</summary>
+
+**C. Resting affected limbs in neutral position** — Disability limitation = preventing existing disease from causing further disability. Resting limbs in neutral position during acute phase prevents contractures → limits disability. Calipers and special schooling = rehabilitation (tertiary prevention — rehabilitation phase). Immunization = primary prevention.
+
+</details>
+
+---
+
+### Q252 — Primary prevention: Vitamin A prophylaxis
+
+Vitamin A prophylaxis given to a child under the national programme is an example of which prevention level?
+
+- A. Health promotion
+- B. Specific protection
+- C. Primordial prevention
+- D. Secondary prevention
+
+<details><summary>Answer</summary>
+
+**B. Specific protection** — Vitamin A prophylaxis targets a specific deficiency (Vitamin A) to prevent specific consequences (xerophthalmia, blindness, immune impairment) = specific protection (Level 1B, primary prevention). Health promotion = non-specific (nutrition education, improving living conditions). National Vitamin A Supplementation Programme: 1 lakh IU at 6 months; 2 lakh IU every 6 months up to 5 years.
+
+</details>
+
+---
+
+### Q253 — Early ambulation after major surgery: prevention level
+
+Early ambulation after a major surgical operation is an example of which prevention level?
+
+- A. Health promotion
+- B. Specific protection
+- C. Disability limitation
+- D. Rehabilitation
+
+<details><summary>Answer</summary>
+
+**C. Disability limitation** — Early ambulation prevents post-surgical complications (DVT, pneumonia, pressure sores, muscle weakness) = limits disability from an existing condition = disability limitation (tertiary prevention, Level IV). Rehabilitation = restoring function after disability has occurred (e.g., physiotherapy months later).
+
+</details>
+
+---
+
+### Q254 — Sentinel surveillance: purpose
+
+Sentinel surveillance is designed primarily to:
+
+- A. Replace routine disease notification
+- B. Provide supplementary data to complement routine notification
+- C. Identify all cases in the population
+- D. Monitor cases that are free of disease complications
+
+<details><summary>Answer</summary>
+
+**B. Supplementary to routine notification** — Sentinel surveillance is a targeted, resource-efficient system at select high-coverage sites (sentinel sites) that supplements routine notification to detect trends, missing cases, and emerging patterns. It does NOT replace routine notification. Example: HIV sentinel surveillance at ANC/STI clinics.
+
+</details>
+
+---
+
+### Q255 — Surveillance vs monitoring: routine measurement
+
+"Analysis of routine measurements aimed at detecting environmental or programme changes" best describes:
+
+- A. Monitoring
+- B. Surveillance
+- C. Evaluation
+- D. Screening
+
+<details><summary>Answer</summary>
+
+**A. Monitoring** — Monitoring = ongoing routine measurement and analysis of specific programme/environmental indicators to detect changes from baseline. Surveillance = broader; includes systematic collection, analysis, and interpretation of health data to facilitate public health action. Evaluation = assessment against objectives (effectiveness, efficiency, impact).
+
+</details>
+
+---
+
+### Q256 — Efficiency in management
+
+"Minimum input for maximum output" is the definition of:
+
+- A. Effectiveness
+- B. Efficiency
+- C. Impact
+- D. Relevance
+
+<details><summary>Answer</summary>
+
+**B. Efficiency** — Efficiency = achieving maximum output with minimum resources (input-output ratio). Effectiveness = achievement of programme objectives (did it work?). Impact = long-term, broader change in health status. Equity = fair distribution of health services.
+
+</details>
+
+---
+
+### Q257 — Preventive cardiology: BCG for bladder cancer
+
+BCG (bacillus Calmette-Guérin) given intravesically for prevention of recurrent bladder cancer represents which prevention level?
+
+- A. Specific protection (primary prevention)
+- B. Secondary prevention
+- C. Tertiary prevention — disability limitation
+- D. Primordial prevention
+
+<details><summary>Answer</summary>
+
+**B. Secondary prevention** — Intravesical BCG for bladder cancer = reducing recurrence of an existing diagnosed cancer = early treatment and prevention of progression = secondary prevention. Compare: BCG for TB (specific protection, primary prevention). Screening mammography = secondary prevention.
+
+</details>
+
+---
+
+### Q258 — Surveillance targets: primary objective
+
+What does epidemiological surveillance primarily target?
+
+- A. Preventing individual disease episodes
+- B. Health planning and disease monitoring
+- C. Eradication of all notifiable diseases
+- D. Real-time treatment of detected cases
+
+<details><summary>Answer</summary>
+
+**B. Health planning and disease monitoring** — Surveillance provides data for health planning, resource allocation, detecting outbreaks, evaluating interventions, and monitoring disease trends. It informs public health action but does not directly treat cases (that is a clinical/health system function).
+
+</details>
+
+---
+
+### Q259 — Malaria: population coverage per microscope
+
+Under NVBDCP, one malaria diagnosis microscope serves a population of:
+
+- A. 10,000
+- B. 15,000
+- C. 25,000
+- D. 50,000
+
+<details><summary>Answer</summary>
+
+**C. 25,000 population** — NVBDCP norm: one Designated Microscopy Centre (DMC) per PHC covers 25,000 population in endemic areas. One Malaria Health Worker (MHW) covers 1,000–2,000 population for RDT-based testing and treatment.
+
+</details>
+
+---
+
+### Q260 — Malaria: optiMAL/OptiMAL rapid test detects
+
+The OptiMAL (optical) rapid diagnostic test for malaria detects:
+
+- A. Plasmodium falciparum only
+- B. Plasmodium vivax only
+- C. Both P. falciparum and P. vivax
+- D. P. malariae and P. ovale only
+
+<details><summary>Answer</summary>
+
+**C. Both P. falciparum and P. vivax** — OptiMAL test detects pLDH (parasite lactate dehydrogenase) from both P. falciparum and P. vivax using species-specific antibodies. HRP2 (ICT Malaria Pf) = P. falciparum only. rK39 = Leishmania donovani (kala-azar). Aldolase-based tests = pan-specific (all species).
+
+</details>
