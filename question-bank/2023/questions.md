@@ -863,3 +863,262 @@ True statement regarding the plateau (phase 2) on the myocardial action potentia
 </details>
 
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+---
+
+## Community Medicine (PSM)
+
+### Q53 — Neurolathyrism: vitamin supplement
+
+In a village, several farmers have a scissor gait and use a stick for support. Due to poor crop yields, they consume meals of rice and pulse. Supplementing their diet with which vitamin could have prevented this?
+
+- A. Vitamin A
+- B. Vitamin D
+- C. Vitamin C
+- D. Vitamin B complex
+
+<details><summary>Answer</summary>
+
+**C. Vitamin C** — **Neurolathyrism** is caused by consumption of *Lathyrus sativus* (khesari dal / grass pea) due to the toxin **BOAA** (beta-oxalyl-amino-alanine). Vitamin C at 500–1000 mg/day is beneficial as it antagonises the excitotoxic effect of BOAA. The condition presents as spastic paraparesis (UMN disease).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q54 — Smear-negative TB: next step per NTEP guidelines
+
+A 35-year-old homeless man has 1 month of fever, cough, and weight loss. Both sputum smears are negative but chest X-ray is suggestive of TB. According to recent NTEP guidelines, what is the next best step?
+
+- A. Repeat sputum smear examination
+- B. CBNAAT (GeneXpert MTB/RIF)
+- C. Line probe assay
+- D. Wait for radiology results before starting ATT
+
+<details><summary>Answer</summary>
+
+**B. CBNAAT (GeneXpert MTB/RIF)** — Per NTEP guidelines: for smear-negative presumptive TB with suspicious clinical and radiological features, the next step is **CBNAAT** (cartridge-based nucleic acid amplification test/GeneXpert). It simultaneously detects *M. tuberculosis* and rifampicin resistance within 2 hours. Line probe assay is for drug-resistance testing.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q55 — Aniline dye and bladder cancer: study type
+
+Research is conducted on aniline dye exposure and bladder cancer in workers employed in the industry for >20 years. Two groups are formed — one with direct dye handling exposure, and office clerks with no dye exposure. Records of past years of employment are reviewed. What type of study is this?
+
+- A. Retrospective cohort study
+- B. Prospective cohort study
+- C. Case-control study
+- D. Randomised controlled trial
+
+<details><summary>Answer</summary>
+
+**A. Retrospective cohort study** — The study has two groups defined by **exposure status** (exposed vs unexposed), which is the design of a cohort study. Since exposure and outcome data come from **past records** (retrospective), it is a retrospective/historical cohort study. In a case-control study, groups would be defined by disease status (cases vs controls).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q56 — Blood pressure tracking from childhood to adulthood
+
+Blood pressure of a population was tracked from childhood to adulthood. Those with lower BP in childhood had lower BP in adulthood; those with higher BP in childhood had higher BP in adulthood. This is best described as:
+
+- A. Rule of halves
+- B. Tracking of blood pressure
+- C. STEPwise approach
+- D. Primordial prevention
+
+<details><summary>Answer</summary>
+
+**B. Tracking of blood pressure** — **Tracking** refers to the tendency for blood pressure (and other physiological variables like BMI, cholesterol) measured in childhood to predict adult values, maintaining their rank within a population over time. This forms the basis for early identification and intervention in childhood hypertension.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q57 — Night blindness in pregnant woman: whose duty to counsel?
+
+A 30-week primigravida reports reduced vision at night. She has been avoiding papaya, mango, and other fruits throughout pregnancy, believing they cause abortions. It is the primary duty of which worker to provide counselling?
+
+- A. ANM
+- B. Medical officer
+- C. Trained birth attendant
+- D. ASHA
+
+<details><summary>Answer</summary>
+
+**D. ASHA (Accredited Social Health Activist)** — ASHA is the frontline community health worker and a resident woman of the village responsible for providing counselling, health education, and motivating families to use health services. She specifically addresses myths and misconceptions about diet and antenatal care in the community. ANM focuses on clinical/preventive services.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q58 — STI syndromic management: kit for cervicitis
+
+A 22-year-old female comes to the STI clinic with minimal vaginal discharge. Speculum examination shows erosions on the cervix. Which kit should be given?
+
+- A. Green kit
+- B. Red kit
+- C. Gray kit
+- D. Yellow kit
+
+<details><summary>Answer</summary>
+
+**C. Gray kit** — NACO STI/RTI syndromic management kits: **Gray kit** = cervical discharge/erosions (cervicitis) = contains cefixime + azithromycin (to cover gonorrhoea + chlamydia). Green kit = vaginal discharge (vaginitis). Red kit = genital ulcer disease. Yellow kit = lower abdominal pain (PID).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q59 — Years of potential life lost (YPLL)
+
+The years of potential life lost (YPLL) could be attributed to:
+
+- A. Years lost to morbidity
+- B. Years lost due to premature death
+- C. Years lost to disability
+- D. Years lost to poor quality of life
+
+<details><summary>Answer</summary>
+
+**B. Years lost due to premature death** — YPLL = mortality indicator measuring the number of years a person would have been expected to live (reference = 75 years) had they not died prematurely. Formula: YPLL = Σ (reference age − age at death) for all deaths before reference age. Higher YPLL in younger-onset diseases (accidents, suicide, cancer).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q60 — School immunisation programme: vaccine for 10-year-old
+
+In a 10-year-old school child, which vaccine is given as part of the school immunisation programme?
+
+- A. Measles vaccine
+- B. Rotavirus vaccine
+- C. TT/Td vaccine
+- D. Hepatitis B vaccine
+
+<details><summary>Answer</summary>
+
+**C. TT/Td vaccine** — National Immunisation Schedule (India): **TT/Td at 10 years** and again at 16 years as school-age booster doses (given under the school immunisation programme). Measles = 9 months + 15–18 months. Rotavirus = 6, 10, 14 weeks. Hepatitis B = birth + 6 + 10 + 14 weeks.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q61 — Colombo Plan: assistance for cancer in India
+
+Aid to set up which type of cancer treatment unit in Indian medical institutions was part of the Colombo Plan?
+
+- A. PET scan units for cancer diagnosis
+- B. Human resource development in oncology
+- C. Linear accelerator (LINAC) radiotherapy units
+- D. Cobalt therapy units
+
+<details><summary>Answer</summary>
+
+**D. Cobalt therapy units** — The **Colombo Plan** (1951) provided aid for development in Asia-Pacific. Specifically, setting up **cobalt-60 therapy units** for cancer treatment at medical institutions in India was a key component. Cobalt therapy (external beam radiation) was the primary radiotherapy technology available at that time.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q62 — Neurolathyrism: responsible toxin
+
+A poor farmer with successive crop failures develops progressive spastic paraparesis with upper motor neuron signs and gait instability. What is the toxin responsible?
+
+- A. Aflatoxin
+- B. Beta-oxalyl-amino-alanine (BOAA)
+- C. Ergot alkaloids
+- D. Fusarium toxin
+
+<details><summary>Answer</summary>
+
+**B. Beta-oxalyl-amino-alanine (BOAA)** — **Neurolathyrism** = spastic paraparesis caused by BOAA toxin from *Lathyrus sativus* (khesari dal). Consumed during famines/crop failures when it is the only affordable food. BOAA is an excitatory amino acid that causes irreversible UMN damage. Aflatoxin → hepatocellular carcinoma; ergot alkaloids → ergotism; fusarium toxins → trichothecene mycotoxicosis.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q63 — Tetanus prophylaxis: clean wound, full course 10 years ago
+
+A young male presents with a clean-cut wound without bleeding. He received a full course of tetanus vaccination 10 years ago. What is the best management?
+
+- A. Human tetanus immunoglobulin + full course of vaccine
+- B. Human tetanus immunoglobulin only
+- C. Single-dose tetanus toxoid
+- D. Full course tetanus toxoid
+
+<details><summary>Answer</summary>
+
+**C. Single-dose tetanus toxoid** — Algorithm: **Clean wound + fully immunised + last dose >10 years** → 1 booster dose of Td (tetanus-diphtheria toxoid). No TIG required for clean wounds. Tetanus-prone wound + last dose >5 years → Td + TIG. Unimmunised + any wound → full course (3 doses) + TIG.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q64 — Water sample collection during outbreak: correct method
+
+How should water be collected for bacteriological examination during a disease outbreak?
+
+- A. Collect from an already opened tap
+- B. Let water flow for at least 1 minute before collecting
+- C. Keep the container close to the tap to avoid spillage
+- D. Collect from a gentle stream of water to avoid splashing
+
+<details><summary>Answer</summary>
+
+**D. Collect from a gentle stream of water to avoid splashing** — For bacteriological water sampling from a tap in regular use during an outbreak: open the tap to produce a **gentle stream** of water, hold the sterile container under the stream, and collect without splashing (splashing can contaminate the sample from the outside). The container must not touch the tap.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q65 — Recommended Dietary Allowance (RDA) definition
+
+The average daily dietary nutrient intake level sufficient to meet the nutrient requirements of nearly all (97–98%) healthy individuals in a particular life stage and gender group is known as:
+
+- A. Adequate intake
+- B. Dietary goal
+- C. Estimated average requirement
+- D. Recommended dietary allowance
+
+<details><summary>Answer</summary>
+
+**D. Recommended Dietary Allowance (RDA)** — RDA = mean + 2 SD of requirement, covering ~97.5% of the population. **Estimated Average Requirement (EAR)** = meets needs of 50% of individuals. **Adequate Intake (AI)** = used when RDA cannot be determined. Dietary goal = population-level targets for chronic disease prevention.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q66 — Chickenpox outbreak in boys' hostel: management
+
+A boys' hostel has an outbreak of fever, headache, and pleomorphic rashes sparing the palms and soles. What is the next best step in management of suspected cases?
+
+- A. Isolate for 6 days after onset of rash, give acyclovir, and offer VZIG to susceptible contacts within 72 hours
+- B. Isolate for 12 days, give acyclovir, and offer VZIG within 48 hours
+- C. Isolate for 6 days only (no antiviral or VZIG needed)
+- D. Administer VZIG to all students
+
+<details><summary>Answer</summary>
+
+**A. Isolate for 6 days, give acyclovir, and offer VZIG to susceptible contacts within 72 hours** — **Varicella (chickenpox)**: pleomorphic rash in crops sparing palms/soles. Management: acyclovir (5 days); isolate until all lesions are crusted (~5–6 days after onset). VZIG (Varicella-Zoster Immunoglobulin) should be given to susceptible high-risk contacts within 96 hours (ideally 72 hours) of exposure.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q67 — IMR as sensitive indicator of healthcare
+
+Which of the following is the most sensitive indicator to assess the availability, utilisation, and effectiveness of healthcare in a community?
+
+- A. Infant mortality rate
+- B. Maternal mortality rate
+- C. Immunisation coverage
+- D. Under-5 mortality rate
+
+<details><summary>Answer</summary>
+
+**A. Infant mortality rate (IMR)** — IMR = deaths in the first year of life per 1000 live births. It is universally accepted as the most sensitive indicator of the health status of a community, reflecting nutrition, sanitation, maternal health, immunisation, healthcare access, and socioeconomic conditions. India's IMR (2020) = 28/1000 live births.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->

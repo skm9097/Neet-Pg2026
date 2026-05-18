@@ -1166,3 +1166,381 @@ What makes CPDA-1 superior to ACD for blood storage?
 </details>
 
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
+
+---
+
+## Community Medicine (PSM)
+
+### Q71 — Biomedical waste: sharp waste disposal container
+
+Sharp waste is disposed of in:
+
+- A. Yellow bag
+- B. Red bag
+- C. Blue container
+- D. White puncture-proof container
+
+<details><summary>Answer</summary>
+
+**D. White puncture-proof container** — Biomedical Waste (BMW) Management Rules 2016: Sharps (needles, syringes, blades, glass) → **white translucent puncture-proof, leak-proof container**. Yellow = human/animal anatomical waste, soiled dressings, cytotoxic drugs. Red = plastic disposables. Blue = glass/metallic broken items.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q72 — Factories Act: maximum weekly hours including overtime
+
+According to the Factories Act 1948, what is the maximum work hours per week **including overtime**?
+
+- A. 48 hours
+- B. 72 hours
+- C. 60 hours
+- D. 66 hours
+
+<details><summary>Answer</summary>
+
+**C. 60 hours** — Factories Act 1948: normal working hours = 48 h/week (9 h/day); with overtime = maximum **60 h/week**. Overtime wages must be twice the regular rate. Adolescents (15–18 years): maximum 4.5 h/day, work only 6 AM–7 PM.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q73 — Mission to ensure complete immunization of children
+
+Which of the following was launched to ensure complete immunization of children in India?
+
+- A. Mission Dhanush
+- B. Mission Indradhanush
+- C. Mission Indira Yojana
+- D. Mission Suraksha Yojana
+
+<details><summary>Answer</summary>
+
+**B. Mission Indradhanush** — Launched by MoHFW in 2014, targeting fully immunizing children (>90%) who were partially or unimmunized by 2020. Intensified Mission Indradhanush (IMI) 2017 targeted December 2018. IMI 2.0 (2019) accelerated coverage. Currently covers 12 vaccine-preventable diseases.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q74 — Example of prospective screening
+
+Which of the following is an example of **prospective screening**?
+
+- A. Cervical Pap smear in a 40-year-old patient
+- B. Neonatal screening of a newborn for hypothyroidism
+- C. Screening of immigrants to a country
+- D. Urine for sugar in a 40-year-old man
+
+<details><summary>Answer</summary>
+
+**C. Screening of immigrants to a country** — Prospective screening = screening done for the benefit of **others** (population), not just the individual (e.g., screening immigrants for infectious diseases like TB, syphilis). Pap smear and neonatal screening benefit the individual. Mass screening also has a prospective element.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q75 — Monetary benefit measured in which health analysis
+
+Monetary benefit is measured in which of the following health programme analyses?
+
+- A. Cost-effectiveness analysis
+- B. Cost-benefit analysis
+- C. Network analysis
+- D. Input-output analysis
+
+<details><summary>Answer</summary>
+
+**B. Cost-benefit analysis** — Cost-benefit analysis (CBA) measures both costs and benefits in **monetary terms** and compares them (benefit-cost ratio). Cost-effectiveness analysis compares costs per unit of health gain (e.g., cost per DALY averted). Network analysis (PERT/CPM) is a management tool.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q76 — IMNCI: management of pneumonia with chest indrawing in a 2-year-old
+
+A 24-month-old child weighing 11 kg presents with a respiratory rate of 38/min and chest indrawing. What is the next step of management?
+
+- A. Oral amoxicillin for five days
+- B. Urgent referral to tertiary care centre
+- C. Administer antibiotics and review after 24 hours
+- D. Start antipyretics urgently
+
+<details><summary>Answer</summary>
+
+**A. Oral amoxicillin for five days** — Per revised IMNCI/WHO guidelines: chest indrawing in children 2 months–5 years WITHOUT danger signs = **pneumonia** (reclassified from severe pneumonia) → treat with oral amoxicillin for 5 days as outpatient. Referral is needed only if danger signs (cannot drink, lethargy, stridor at rest, severe malnutrition) are present.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q77 — ESI Act: extended sickness benefit duration for TB
+
+Under the Employee State Insurance (ESI) Act, an employee diagnosed with tuberculosis gets extended sickness benefit for:
+
+- A. 1 year
+- B. 2 years
+- C. 3 years
+- D. 6 months
+
+<details><summary>Answer</summary>
+
+**B. 2 years** — Under the ESI Act, the standard sickness benefit period is 91 days per year. For long-duration illnesses including TB, mental illness, and malignancy, an **extended sickness benefit** of up to **2 years** is provided at a higher rate (70% of wages).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q78 — Management by objective: which science?
+
+Which of the following management techniques is based on **behavioural sciences**?
+
+- A. Decision making
+- B. Systems analysis
+- C. Network analysis
+- D. Management by objective
+
+<details><summary>Answer</summary>
+
+**D. Management by objective (MBO)** — MBO is a behavioural-science-based management method emphasising goal-setting with employee participation. Quantitative/operations research methods: cost-benefit analysis, PERT/CPM, input-output analysis, systems analysis, work sampling. Behavioural methods: MBO, decision making (though decision making is sometimes considered both).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q79 — Statistical test for comparing proportions in two groups
+
+A study assesses nutritional status in rural (30 malnourished) and urban (20 malnourished) children from independent groups. Which test of significance is most appropriate?
+
+- A. Chi-square test
+- B. Paired T test
+- C. Standard error of mean
+- D. ANOVA
+
+<details><summary>Answer</summary>
+
+**A. Chi-square test** — Chi-square is used to compare **proportions/categorical data** between two or more independent groups. Malnourished vs not malnourished in rural vs urban = 2×2 categorical table → Chi-square. Unpaired T test would compare means; ANOVA compares means of ≥3 groups.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q80 — Metabolic syndrome (NCEP-ATP III): which criterion is NOT included?
+
+As per NCEP-ATP III, which of the following is **not** a criterion for metabolic syndrome?
+
+- A. Hypertriglyceridaemia
+- B. High LDL cholesterol
+- C. Central obesity
+- D. Hypertension
+
+<details><summary>Answer</summary>
+
+**B. High LDL cholesterol** — NCEP-ATP III metabolic syndrome criteria (any 3 of 5): (1) Waist circumference >102 cm (M) / >88 cm (F); (2) Triglycerides ≥150 mg/dL; (3) HDL <40 mg/dL (M) / <50 mg/dL (F); (4) BP ≥130/85 mmHg; (5) Fasting blood glucose ≥100 mg/dL. **LDL is NOT a criterion.**
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q81 — Normal distribution: range for 68% of population
+
+In a population study, the mean is 200 and standard deviation is 20. 68% of the population will lie between:
+
+- A. 180–220
+- B. 160–240
+- C. 170–230
+- D. 190–210
+
+<details><summary>Answer</summary>
+
+**A. 180–220** — 68% of values lie within ±1 SD of the mean: 200 ± 20 = 180–220. ±2 SD (95%) = 160–240. ±3 SD (99.7%) = 140–260.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q82 — Biomedical waste: blood bag disposal
+
+Which coloured bag is used for disposal of blood bags?
+
+- A. Blood bag → Yellow bag
+- B. Blood bag → Red bag
+- C. Blood bag → White container
+- D. Blood bag → Blue bin
+
+<details><summary>Answer</summary>
+
+**A. Yellow bag** — BMW Management Rules 2016: Yellow = human anatomical waste, soiled dressings, blood bags, discarded blood products, cytotoxic drugs, chemical liquid waste. Red = contaminated plastic recyclables. White = sharps. Blue = glass, metallic implants.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q83 — Calculating one variable from another: which statistical measure?
+
+Calculating one variable using another variable is done by:
+
+- A. Coefficient of correlation
+- B. Coefficient of regression
+- C. Coefficient of variation
+- D. Standard deviation
+
+<details><summary>Answer</summary>
+
+**B. Coefficient of regression** — Regression coefficient (b) is used to **predict** the value of one variable (dependent) from another (independent). Correlation coefficient (r) measures the strength and direction of the relationship but does not predict values. Coefficient of variation compares variability between datasets.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q84 — Best indicators for routine air pollution monitoring
+
+The best indicators for routine monitoring of air pollution are:
+
+- A. Sulfur dioxide, smoke, and suspended particulate matter
+- B. Carbon monoxide and nitrogen dioxide
+- C. Sulfur dioxide and carbon monoxide
+- D. Carbon monoxide and hydrogen sulfide
+
+<details><summary>Answer</summary>
+
+**A. Sulfur dioxide, smoke, and suspended particulate matter** — Standard routine air quality indicators: SO₂ (combustion marker), smoke/black smoke (particulate pollution), and suspended particulate matter (SPM/PM₁₀/PM₂.₅). These three are recommended for routine ambient air quality monitoring by Park's PSM.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q85 — Smoking and lung cancer: disease vs cigarette sales data — study type
+
+A researcher collects data on lung cancer deaths from hospitals and cigarette packets sold at the same time period, to study the relationship between smoking and lung cancer. Which type of study is this?
+
+- A. Cross-sectional study
+- B. Ecological study
+- C. Experimental study
+- D. Cohort study
+
+<details><summary>Answer</summary>
+
+**B. Ecological study** — The unit of analysis is a **population** (aggregate data: cigarette sales data and population-level cancer rates), not individuals. Ecological studies are fast and cheap but susceptible to ecological fallacy (group-level associations may not apply at individual level).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q86 — Project MONICA: related to which disease?
+
+Project MONICA is related to:
+
+- A. Cardiovascular diseases
+- B. Cervical cancer
+- C. Breast cancer
+- D. Road traffic accidents
+
+<details><summary>Answer</summary>
+
+**A. Cardiovascular diseases** — MONICA = **Multinational MOnitoring of trends and determinants In CArdiovascular disease** (WHO project). It studied changes in cardiovascular disease trends (MI, stroke) and risk factors (cholesterol, BP, smoking) across multiple countries over time.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q87 — Bleaching powder: compound responsible for disinfection
+
+Which compound is predominantly responsible for the disinfecting property of bleaching powder?
+
+- A. Hypochlorite ion
+- B. Hydrochloric acid
+- C. Hypochlorous acid
+- D. Chloride ion
+
+<details><summary>Answer</summary>
+
+**C. Hypochlorous acid (HOCl)** — Bleaching powder (chlorinated lime, Ca(OCl)₂) releases HOCl on contact with water, which is 70–80 times more effective as a disinfectant than the hypochlorite ion (OCl⁻). Bleaching powder contains ~33% available chlorine.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q88 — Attributable risk definition
+
+The difference between the incidence of disease among exposed and incidence among non-exposed is:
+
+- A. Relative risk
+- B. Attributable risk
+- C. Population attributable risk
+- D. Odds ratio
+
+<details><summary>Answer</summary>
+
+**B. Attributable risk (AR)** — AR = Incidence in exposed − Incidence in non-exposed. It represents the absolute excess risk due to exposure. Also called risk difference or excess risk. Population AR (PAR) = Incidence in total population − Incidence in non-exposed.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q89 — SDG 3.1: maternal mortality target by 2030
+
+In Sustainable Development Goal 3, target 3.1 aims to reduce the Maternal Mortality Ratio by 2030 to ___ per 1 lakh live births:
+
+- A. <70
+- B. <100
+- C. <50
+- D. <130
+
+<details><summary>Answer</summary>
+
+**A. <70 per 1,00,000 live births** — SDG 3.1 target: reduce global MMR to <70 per 100,000 live births by 2030, and no country should have an MMR >140. India's MMR (2020): ~97/1,00,000 live births. Target for India under NHP 2017: MMR <100 by 2020.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q90 — Tetanus prophylaxis: clean wound, last dose 10 years ago
+
+A patient presents with a clean-cut, non-lacerated wound. His last tetanus vaccination was 10 years ago. What should be given?
+
+- A. Full course of tetanus vaccine
+- B. Single dose tetanus toxoid
+- C. Tetanus toxoid + tetanus immunoglobulin
+- D. No vaccine needed
+
+<details><summary>Answer</summary>
+
+**B. Single dose tetanus toxoid** — Clean wound + fully immunised but last dose >10 years ago → give 1 booster dose of tetanus toxoid only (no immunoglobulin). For tetanus-prone wounds (dirty/lacerated) with last dose >5 years ago → Td + TIG. For unimmunised patients with any wound → full course + TIG.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q91 — Coefficient of variation: use case
+
+The variation in one dataset is compared with that of another dataset using:
+
+- A. Variance
+- B. Coefficient of variation
+- C. Standard error of mean
+- D. Standard deviation
+
+<details><summary>Answer</summary>
+
+**B. Coefficient of variation (CV)** — CV = (SD / Mean) × 100%. It is a unitless measure of relative variability, allowing comparison of variability between datasets with different units or scales. SD and variance are absolute measures and cannot be compared across different-scale datasets.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q92 — 2009 pandemic influenza virus
+
+The pandemic that occurred in 2009 was due to which influenza virus?
+
+- A. H1N1
+- B. H5N1
+- C. H5N7
+- D. H3N2
+
+<details><summary>Answer</summary>
+
+**A. H1N1** — The 2009 "Swine flu" pandemic was caused by a novel reassortant **influenza A (H1N1)pdm09** virus. Historical pandemics: 1918 = H1N1 (Spanish flu); 1957 = H2N2 (Asian flu); 1968 = H3N2 (Hong Kong flu). H5N1 = avian influenza (endemic, no sustained human-to-human transmission).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->

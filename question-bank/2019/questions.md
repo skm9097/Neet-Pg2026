@@ -994,3 +994,415 @@ Site of lesion in Wernicke's hemianopic pupil?
 </details>
 
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
+
+---
+
+## Community Medicine (PSM)
+
+### Q60 — DTwP vaccine: false statement
+
+A child presents with sore throat, difficulty swallowing, and mild fever. The clinical picture shows a grey membrane on the tonsils. Which of the following statements is **false** about the vaccine that could have prevented this condition (DTwP)?
+
+- A. The vaccine is administered on the anterolateral aspect of the thigh
+- B. A prior adverse reaction with temperature above 37°C is a contraindication to DTwP
+- C. Cellular pertussis component in the vaccine is not recommended after 7 years of age
+- D. The diphtheria toxoid dose in adults is much lesser than the paediatric dose
+
+<details><summary>Answer</summary>
+
+**B. A prior adverse reaction with temperature above 37°C is a contraindication** — This is FALSE. Temperature >40.5°C (not 37°C), seizures with or without fever, and hypotonic-hyporesponsive episodes are **precautions**, not absolute contraindications, for DTwP. True contraindications include anaphylaxis or encephalopathy within 7 days of a previous dose.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q61 — Malaria surveillance: efficiency indicator
+
+Which of the following parameters is used to check the **efficiency** of the surveillance system for malaria under the National Vector Borne Disease Control Programme (NVBDCP)?
+
+- A. Annual Parasite Index
+- B. Annual Blood Examination Rate
+- C. Slide positivity rate
+- D. Slide falciparum rate
+
+<details><summary>Answer</summary>
+
+**B. Annual Blood Examination Rate (ABER)** — ABER measures the efficiency of malaria surveillance by indicating what proportion of the population had blood smears examined in one year. Target ABER ≥10% of population. Annual Parasite Index (API) measures malaria incidence (cases per 1000 population per year).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q62 — Confounding factor: false statement
+
+Which of the following is **false** regarding a confounding factor?
+
+- A. It can be reduced by matching
+- B. It is associated individually with both the exposure and the outcome
+- C. It is distributed equally in both study and control groups
+- D. It is associated with the exposure under study
+
+<details><summary>Answer</summary>
+
+**C. It is distributed equally in both study and control groups** — This is FALSE. A confounding factor is distributed **unequally** between the exposed and unexposed groups — that is why it distorts the association. If it were equally distributed, it would not confound. Confounders can be controlled by matching, randomisation, stratification, or multivariate analysis.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q63 — Best level of prevention for breast cancer
+
+Which of the following is the best level of prevention of breast cancer?
+
+- A. Specific protection
+- B. Early diagnosis and treatment
+- C. Disability limitation
+- D. Rehabilitation
+
+<details><summary>Answer</summary>
+
+**B. Early diagnosis and treatment** — This is secondary prevention (screening + prompt treatment at pre-symptomatic or early symptomatic stage). Breast cancer lacks a proven primary prevention strategy (specific protection). Early detection via mammography significantly reduces mortality.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q64 — Vitamin A dosage for 2-year-old with keratomalacia
+
+What is the correct Vitamin A dosage for a 2-year-old child with keratomalacia?
+
+- A. 2,00,000 IU immediately, followed by the same dose after 24 hours only
+- B. 1,00,000 IU immediately, followed by the same dose after 1 week
+- C. 1,00,000 IU immediately, followed by the same dose after 2 days and after 1 week
+- D. 2,00,000 IU immediately, followed by the same dose after 24 hours, and again after 2 weeks
+
+<details><summary>Answer</summary>
+
+**D. 2,00,000 IU immediately, followed by the same dose after 24 hours, and again after 2 weeks** — WHO schedule for Vitamin A deficiency with clinical signs (xerophthalmia/keratomalacia) in children ≥12 months: 2,00,000 IU on Day 1, Day 2, and Day 8–14. Children <12 months: 1,00,000 IU per dose.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q65 — Normal distribution: percentage within ±1 SD
+
+In a normal distribution curve, what percentage of values lies within one standard deviation of the mean?
+
+- A. 68%
+- B. 34%
+- C. 99%
+- D. 95%
+
+<details><summary>Answer</summary>
+
+**A. 68%** — Empirical rule for normal distribution: **±1 SD = 68%**, ±2 SD = 95%, ±3 SD = 99.7%. The 34% figure represents the area between the mean and +1 SD (one side only).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q66 — IMNCI: pneumonia threshold respiratory rate (6-month-old)
+
+According to IMNCI, a 6-month-old child is classified as having pneumonia if the respiratory rate is more than:
+
+- A. 40 breaths/min
+- B. 60 breaths/min
+- C. 30 breaths/min
+- D. 50 breaths/min
+
+<details><summary>Answer</summary>
+
+**D. 50 breaths/min** — IMNCI fast breathing cut-offs: <2 months = >60/min; **2–11 months = >50/min**; 12 months–5 years = >40/min. A 6-month-old falls in the 2–11 months bracket. Lower chest wall indrawing = severe pneumonia.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q67 — Concurrent List of Indian Constitution
+
+Which of the following is part of the **Concurrent List** of the Indian Constitution?
+
+- A. Adulteration of food
+- B. Fishing and fisheries beyond territorial waters
+- C. Regulating labour in mines
+- D. Public health and sanitation
+
+<details><summary>Answer</summary>
+
+**A. Adulteration of food** — Adulteration of food is in the Concurrent List (Schedule VII), meaning both Central and State governments can legislate on it. Public health and sanitation are in the **State List**. Fishing beyond territorial waters and mines fall under the Union List.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q68 — Principal unit of administration in India
+
+The principal unit of administration in India is:
+
+- A. Village
+- B. Town
+- C. District
+- D. State
+
+<details><summary>Answer</summary>
+
+**C. District** — The district, headed by the District Collector (IAS), is the principal administrative unit in India. Below the district are sub-divisions, taluks/tahsils, municipalities, panchayats, and villages.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q69 — Odds ratio: obtained from which study design
+
+The cross-product ratio (odds ratio) can be obtained from which study design?
+
+- A. Ecological study
+- B. Cohort study
+- C. Cross-sectional study
+- D. Case-control study
+
+<details><summary>Answer</summary>
+
+**D. Case-control study** — OR = (a/b)/(c/d) = ad/bc, where cases and controls are selected by disease status. OR ≈ RR when disease is rare. Relative risk (RR) is obtained from cohort studies. OR can also be derived from RCTs.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q70 — Land required for trench method (controlled tipping)
+
+In controlled tipping, the amount of land required for the trench method for a population of 10,000 is:
+
+- A. 4 acres
+- B. 5 acres
+- C. 2 acres
+- D. 1 acre
+
+<details><summary>Answer</summary>
+
+**B. 5 acres** — Controlled tipping (sanitary landfill) using the trench method requires approximately **5 acres per year** for a population of 10,000. The trench method is used where level ground is available; the ramp method is used on sloping terrain; the area method is used in depressions and disused quarries.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q71 — Statistical test for difference in means between two groups
+
+The test of choice to measure the difference in means between two groups in a study, with one group being a control, is:
+
+- A. Chi-square test
+- B. Z test
+- C. Unpaired T test
+- D. Paired T test
+
+<details><summary>Answer</summary>
+
+**C. Unpaired T test** — Unpaired (independent samples) T test compares means of two unrelated groups. Paired T test = same group measured before and after. Chi-square = proportions/categorical data. ANOVA = comparing means of ≥3 groups.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q72 — Test of significance for two or more proportions
+
+The test of significance used for two or more proportions is:
+
+- A. Chi-square test
+- B. Student's T test
+- C. Z test
+- D. ANOVA
+
+<details><summary>Answer</summary>
+
+**A. Chi-square test** — Chi-square (χ²) is a non-parametric test used for categorical/nominal data and proportions. It tests for association between two categorical variables. ANOVA compares means of ≥3 quantitative groups. T tests compare means of 1–2 groups.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q73 — Positive predictive value
+
+If a patient tests positive for a disease, which of the following represents the probability that she actually has the disease?
+
+- A. Sensitivity
+- B. Specificity
+- C. Positive predictive value
+- D. Negative predictive value
+
+<details><summary>Answer</summary>
+
+**C. Positive predictive value (PPV)** — PPV = TP / (TP + FP). It is the probability that a person with a positive test truly has the disease. PPV is directly proportional to disease prevalence (unlike sensitivity/specificity, which are fixed test properties).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q74 — Lead time in screening
+
+In the natural history of disease, the period from the first possible time of detection (Point A) to the usual time of clinical diagnosis (Point C) is called:
+
+- A. Screening time
+- B. Lead time
+- C. Generation time
+- D. Incubation period
+
+<details><summary>Answer</summary>
+
+**B. Lead time** — Lead time = the period by which screening advances the diagnosis beyond the usual time of clinical presentation. Lead time bias occurs when earlier detection only appears to prolong survival without actually changing the outcome.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q75 — Statistical diagram for population change over years
+
+A diagram charts population change over years showing each year's total divided into components. What type of statistical diagram is this?
+
+- A. Simple bar graph
+- B. Component bar graph
+- C. Multiple bar graph
+- D. Frequency polygon
+
+<details><summary>Answer</summary>
+
+**B. Component bar graph** — Component (subdivided) bar graphs represent data where the total magnitude is divided into subsets/components, displayed as stacked segments within each bar. Used for nominal/ordinal scale data. Multiple bar graphs place bars side by side for comparison.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q76 — Triage: true statement
+
+What is true about triage done at a disaster site?
+
+- A. Casualties are treated on a first-come, first-served basis
+- B. Green labels are for those to be transported on priority
+- C. Moribund patients receive the lowest priority
+- D. The most common system used is a three-colour code system
+
+<details><summary>Answer</summary>
+
+**C. Moribund patients receive the lowest priority** — In triage: Red = immediate (life-threatening but salvageable); Yellow = delayed (serious but stable); Green = minor (walking wounded); Black = expectant/moribund (survival unlikely even with maximum care). The most common system is a **four-colour** (START) code.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q77 — Genetic disease risk in consanguineous first-cousin marriage
+
+The risk of genetic diseases in a consanguineous marriage between first cousins is:
+
+- A. 1–2%
+- B. 4–8%
+- C. 8–10%
+- D. 12–14%
+
+<details><summary>Answer</summary>
+
+**B. 4–8%** — Risk of genetic (autosomal recessive) diseases: First cousins = 4–8%; Non-consanguineous = 2–4%. First cousins share 1/8 of their genes (coefficient of relationship = 0.125).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q78 — Paradoxical carrier definition
+
+A paradoxical carrier is defined as:
+
+- A. A person who sheds pathogens during the incubation period
+- B. A carrier who acquired the pathogen from another carrier
+- C. A person who acquired the pathogen directly from a patient
+- D. A patient who became a carrier after recovery
+
+<details><summary>Answer</summary>
+
+**B. A carrier who acquired the pathogen from another carrier** — Paradoxical carrier = acquired the organism from another carrier (not from a clinical case). Incubatory carrier = sheds during incubation period. Convalescent carrier = continues to shed after recovery. Healthy/contact carrier = infected without developing disease.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q79 — Vaccine contraindicated in pregnancy
+
+Which of the following vaccines is contraindicated in pregnancy?
+
+- A. Hepatitis A vaccine
+- B. Hepatitis B vaccine
+- C. Rabies vaccine
+- D. Varicella vaccine
+
+<details><summary>Answer</summary>
+
+**D. Varicella vaccine** — Varicella vaccine is a live attenuated vaccine and is contraindicated in pregnancy (risk of fetal varicella syndrome). Hepatitis A, Hepatitis B, and rabies vaccines are inactivated/recombinant and can be given in pregnancy if indicated. Td/tetanus is routinely given in pregnancy.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q80 — Personal protective equipment: NOT a PPE
+
+Which of the following is **not** a personal protective equipment (PPE)?
+
+- A. Goggles
+- B. Gloves
+- C. Face shield
+- D. Lab coat
+
+<details><summary>Answer</summary>
+
+**D. Lab coat** — A lab coat is general protective clothing but is **not** classified as PPE. Standard PPE includes: gloves (hands), aprons/gowns (skin/clothing), masks/respirators (respiratory tract), goggles (eyes), and face shields (face, mouth, nose, eyes).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q81 — Best diagram to show changes in disease incidence over time
+
+What is the best way to plot the changes in incidence of a disease in a given area over time?
+
+- A. Line graph
+- B. Histogram
+- C. Ogive
+- D. Scatter diagram
+
+<details><summary>Answer</summary>
+
+**A. Line graph** — Line graphs (line diagrams) are the best way to display changes over time (time trends). Histogram = frequency distribution of continuous data. Ogive = cumulative frequency curve. Scatter diagram = correlation between two variables.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q82 — Rubella infection: false statement
+
+Which of the following is **false** about Rubella infection?
+
+- A. It is a type of droplet infection
+- B. Vertical transmission is possible
+- C. Infection in early pregnancy causes a mild form of disease in the fetus
+- D. Fetus affected in late pregnancy may have only deafness
+
+<details><summary>Answer</summary>
+
+**C. Infection in early pregnancy causes a mild form of disease in the fetus** — This is FALSE. Rubella infection in the **first trimester** causes the most severe fetal damage: abortions, stillbirth, CRS (cataracts, heart defects, deafness, microcephaly, blueberry muffin rash). Later infection (3rd trimester) may cause only deafness (option D is TRUE).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q83 — HIV post-exposure prophylaxis (PEP) after needlestick
+
+A resident doctor sustains a needlestick injury while taking blood from an HIV-positive patient. Which is the best recommendation for post-exposure prophylaxis?
+
+- A. Zidovudine + Lamivudine for 4 weeks
+- B. Lamivudine + Tenofovir + Efavirenz for 4 weeks
+- C. Tenofovir + Lamivudine + Dolutegravir for 4 weeks
+- D. Zidovudine + Lamivudine + Nevirapine for 4 weeks
+
+<details><summary>Answer</summary>
+
+**C. Tenofovir (TDF) 300 mg + Lamivudine (3TC) 300 mg + Dolutegravir (DTG) 50 mg for 4 weeks** — Current NACO-recommended HIV PEP regimen: TDF + 3TC + DTG for 28 days, initiated preferably within 2 hours (definitely <72 hours). HIV testing at baseline and 3 months post-exposure.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->

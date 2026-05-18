@@ -487,3 +487,381 @@ Nuclear signalling pathways include all EXCEPT:
 </details>
 
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
+
+---
+
+## Community Medicine (PSM)
+
+### Q29 — Chadah Committee recommendations
+
+The Chadah Committee recommended all of the following **except**:
+
+- A. PHC at block level
+- B. One PHC for every 50,000 population
+- C. Basic health workers
+- D. Responsibility in malaria eradication
+
+<details><summary>Answer</summary>
+
+**B. One PHC for every 50,000 population** — The recommendation of one PHC per 50,000 population was given by the **Kartar Singh Committee (1973)**, not Chadah. The Chadah Committee (1963) recommended PHCs at block level, basic health workers, and responsibilities in malaria eradication.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q30 — RNTCP most peripheral unit
+
+Which of the following is the most peripheral centre under the Revised National Tuberculosis Control Programme (RNTCP) organisational structure?
+
+- A. District TB Centre
+- B. Intermediate Reference Laboratory
+- C. Tuberculosis Unit
+- D. Designated Microscopy Centre
+
+<details><summary>Answer</summary>
+
+**D. Designated Microscopy Centre** — RNTCP hierarchy (most to least peripheral): Peripheral Health Institution → Designated Microscopy Centre → Tuberculosis Unit → District TB Centre → State TB Cell → Central TB Division. DMC is the most peripheral diagnostic facility in NTEP/RNTCP.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q31 — Factories Act: true statement
+
+Which of the following is **true** about the Factories Act?
+
+- A. Children under 14 years of age must not be employed in factories
+- B. A child of 16 years can be employed between 6 AM and 8 PM
+- C. The maximum working hours is 72 hours per week
+- D. A child of 16 years can work 5 hours per day
+
+<details><summary>Answer</summary>
+
+**A. Children under 14 years of age must not be employed in factories** — Factories Act 1948: children <14 years cannot be employed. Adolescents (14–18 years) may work only 6 AM–7 PM, ≤4.5 hours/day. Maximum adult working hours: 48 h/week (9 h/day); with overtime: 60 h/week.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q32 — Iodine RDA for lactating women (NIN 2020)
+
+The dose of iodine for lactating women in India according to the National Institute of Nutrition (NIN) 2020 recommended dietary allowance is:
+
+- A. 200 mcg/day
+- B. 220 mcg/day
+- C. 250 mcg/day
+- D. 280 mcg/day
+
+<details><summary>Answer</summary>
+
+**D. 280 mcg/day** — NIN 2020 RDA for iodine: Adults >19 years = 150 mcg; Pregnancy = 250 mcg; Lactation = 280 mcg. WHO recommends 250 mcg for both pregnancy and lactation.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q33 — Non-parametric tests: true statement
+
+Which of the following is **true** for non-parametric tests?
+
+- A. ANOVA is an example of a non-parametric test
+- B. They are used for skewed distributions
+- C. They assume data follows a normal distribution
+- D. They cannot be used for small sample sizes
+
+<details><summary>Answer</summary>
+
+**B. They are used for skewed distributions** — Non-parametric tests do not assume normality; used for skewed data, ordinal data, or small samples. ANOVA is a parametric test. Chi-square test is an example of a non-parametric test (for nominal/categorical data).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q34 — Right to Life: Article of Indian Constitution
+
+Which article of the Indian Constitution confers the Right to Life to citizens of India?
+
+- A. Article 11
+- B. Article 21
+- C. Article 23
+- D. Article 25
+
+<details><summary>Answer</summary>
+
+**B. Article 21** — Article 21 of the Constitution of India: "No person shall be deprived of his life or personal liberty except according to procedure established by law." This forms the legal basis for the right to health.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q35 — WHO immunization coverage for measles eradication
+
+According to the WHO, what percentage of immunization coverage is needed for eradication of measles?
+
+- A. 68%
+- B. 72%
+- C. 84%
+- D. 96%
+
+<details><summary>Answer</summary>
+
+**D. 96%** — WHO recommends at least 96% immunization coverage of children under 1 year to achieve measles eradication. This reflects the high herd immunity threshold required (R₀ ≈ 12–18 for measles).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q36 — Interpreting p-value in cancer remission study
+
+A cancer study comparing a new treatment (33.2% remission) vs usual treatment (32.2% remission) reports a p-value of 0.04. Which statement is true?
+
+- A. Both treatments are equally effective
+- B. Neither treatment is effective
+- C. The new treatment is more effective than the usual treatment
+- D. The information given is not adequate to compare efficacy
+
+<details><summary>Answer</summary>
+
+**C. The new treatment is more effective than the usual treatment** — p-value = 0.04 < 0.05 → statistically significant → reject null hypothesis (no difference) → accept alternative hypothesis (new treatment is more effective). Clinically similar rates can still be statistically significant with large sample sizes.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q37 — ORS volume for dehydrated child (IMNCI Plan B)
+
+A 9-month-old baby with diarrhoea is feeding well and is thirsty. Skin pinch returns in 2 seconds. What is the treatment?
+
+- A. 200–400 ml of ORS in the first four hours
+- B. 400–700 ml of ORS in the first four hours
+- C. 700–900 ml of ORS in the first four hours
+- D. In addition to usual fluid intake, 100–200 ml after each loose stool
+
+<details><summary>Answer</summary>
+
+**B. 400–700 ml of ORS in the first four hours** — Skin pinch returning in 2 seconds + thirsty = **some dehydration** → IMNCI Plan B: 75 ml/kg ORS over 4 hours. At ~9 kg body weight: 675 ml ≈ 400–700 ml range. After rehydration, reassess and switch to Plan A maintenance.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q38 — Lethal BMI in men
+
+What value of BMI is considered 'lethal' in men?
+
+- A. <12
+- B. <13
+- C. <14
+- D. <15
+
+<details><summary>Answer</summary>
+
+**B. <13** — A BMI of ≤13 kg/m² is considered lethal in men. Women can survive at a lower BMI (down to ~11 kg/m²) due to different body composition and fat distribution.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q39 — Relative risk definition
+
+What is the ratio of the incidence of disease in the exposed to that in the non-exposed called?
+
+- A. Attributable risk
+- B. Odds ratio
+- C. Relative risk
+- D. Population attributable risk
+
+<details><summary>Answer</summary>
+
+**C. Relative risk** — RR = Incidence in exposed ÷ Incidence in non-exposed. Obtained from cohort studies. RR >1 = positive association; RR <1 = protective; RR = 1 = no association. Odds ratio (cross-product ratio) is the measure used in case-control studies.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q40 — Couple protection rate for NRR = 1
+
+To reach the demographic goal of NRR = 1, the couple protection rate (CPR) should exceed:
+
+- A. 50%
+- B. 40%
+- C. 70%
+- D. 60%
+
+<details><summary>Answer</summary>
+
+**D. 60%** — A CPR >60% is required to achieve NRR = 1 (net reproduction rate = 1; i.e., population replacement level fertility). This corresponds to every couple having approximately 2 children (TFR ≈ 2.1).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q41 — NIKSHAY: TB monitoring software
+
+Which is the online software launched under the National Tuberculosis Elimination Programme (NTEP) to monitor TB patients?
+
+- A. NIKSHAY
+- B. NISCHAY
+- C. E-DOTS
+- D. NIKUSHTH
+
+<details><summary>Answer</summary>
+
+**A. NIKSHAY** — NIKSHAY is the web-based patient management system for TB under NTEP (formerly RNTCP). NIKUSHTH is the online monitoring software for leprosy patients. Both are government-of-India digital surveillance tools.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q42 — Cytotoxic and expired drug disposal
+
+Cytotoxic and expired drugs are disposed of by:
+
+- A. Dumping in landfill
+- B. Autoclaving
+- C. Incineration
+- D. Chemical disinfection
+
+<details><summary>Answer</summary>
+
+**C. Incineration** — Cytotoxic drugs and expired medications are collected in yellow bags and disposed of by incineration (or plasma pyrolysis/encapsulation). Expired solid dosage forms may be returned to manufacturer. Other waste categories use autoclave (infectious), chemical treatment, or deep burial.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q43 — Sensitivity of a screening test
+
+In a screening test for diabetes mellitus, out of 1000 population, 90 tested positive. A gold standard test identified 100 true positives. Calculate the sensitivity of the screening test.
+
+- A. 90/100
+- B. 100/110
+- C. (90 − 10)/1000
+- D. 90/1000
+
+<details><summary>Answer</summary>
+
+**A. 90/100** — Sensitivity = TP / (TP + FN). True positives (TP) = 90; False negatives (FN) = 100 − 90 = 10. Sensitivity = 90/(90+10) = 90/100 = 90%. Specificity would use true negatives and false positives.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q44 — Prevalence using incidence and duration
+
+The incidence of a disease is 4 per 1000 population with an average duration of 2 years. What is the prevalence?
+
+- A. 8/100
+- B. 2/1000
+- C. 4/1000
+- D. 8/1000
+
+<details><summary>Answer</summary>
+
+**D. 8/1000** — Prevalence = Incidence × Mean Duration (Muench's formula, steady state): 4/1000 × 2 years = 8/1000. This applies when incidence and duration are stable (steady-state condition).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q45 — Secondary attack rate definition
+
+The probability that infection will occur among susceptible persons following contact with an infectious person within the incubation period is known as:
+
+- A. Secondary attack rate
+- B. Case fatality rate
+- C. Primary attack rate
+- D. Tertiary attack rate
+
+<details><summary>Answer</summary>
+
+**A. Secondary attack rate (SAR)** — SAR = (Number of exposed/susceptible persons developing disease within incubation period × 100) ÷ Total close/exposed susceptible contacts. Primary index cases are excluded from numerator and denominator. SAR measures infectivity/transmissibility of a disease.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q46 — Water hardness: which does NOT cause it?
+
+Which of the following does **not** cause hardness of water?
+
+- A. Calcium carbonate
+- B. Calcium sulphate
+- C. Calcium bicarbonate
+- D. Magnesium sulphate
+
+<details><summary>Answer</summary>
+
+**A. Calcium carbonate** — Hardness of water: **Temporary (carbonate) hardness** = bicarbonates of Ca²⁺ and Mg²⁺. **Permanent (non-carbonate) hardness** = sulphates, chlorides, and nitrates of Ca²⁺ and Mg²⁺. Calcium carbonate (CaCO₃) is insoluble and precipitates out — it does not dissolve to cause hardness; it is actually removed by boiling (temporary hardness).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q47 — Direct vs indirect disease transmission
+
+Which of the following is **not** a method of direct transmission of communicable diseases?
+
+- A. Vertical transmission
+- B. Contact with soil
+- C. Droplet nuclei
+- D. Droplet transmission
+
+<details><summary>Answer</summary>
+
+**C. Droplet nuclei** — Droplet nuclei (≤5 µm) are a method of **indirect/airborne** transmission. They can remain suspended in air for extended periods. Droplets (>5 µm), vertical transmission, and direct contact/soil are direct transmission routes.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q48 — Minimum interval between two live vaccines
+
+What should be the minimum interval between administration of two different live vaccines?
+
+- A. 2 weeks
+- B. 4 weeks
+- C. 8 weeks
+- D. 12 weeks
+
+<details><summary>Answer</summary>
+
+**B. 4 weeks** — Two live vaccines given on the same day are acceptable per schedule. If not given simultaneously, a minimum 4-week (28-day) interval is required between two different live vaccines to prevent immune interference reducing vaccine efficacy.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q49 — Kala-Azar: not endemic in which state?
+
+Kala-Azar is endemic in all of the following states **except**:
+
+- A. West Bengal
+- B. Uttar Pradesh
+- C. Bihar
+- D. Assam
+
+<details><summary>Answer</summary>
+
+**D. Assam** — Kala-Azar (visceral leishmaniasis) is endemic in 54 districts across: Bihar, Jharkhand, West Bengal, and Uttar Pradesh. Assam is not a Kala-Azar endemic state. Vector = *Phlebotomus argentipes* (sandfly).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q50 — Unit of observation in ecological studies
+
+What is the unit of observation in ecological studies?
+
+- A. Population
+- B. Patient
+- C. Healthy individual
+- D. Case
+
+<details><summary>Answer</summary>
+
+**A. Population** — In ecological (correlational) studies, the unit of analysis is a population or community (e.g., a country, city, or region) rather than an individual. Ecological fallacy = inferring individual-level associations from group-level data.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->

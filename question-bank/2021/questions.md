@@ -3046,3 +3046,279 @@ ORS facilitates glucose absorption through which transporter?
 </details>
 
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
+
+---
+
+## Community Medicine (PSM)
+
+### Q195 — Kata thermometer: current use
+
+Which thermometer is currently used to measure low air velocity rather than the cooling power of air?
+
+- A. Kata thermometer
+- B. Globe thermometer
+- C. Wet globe thermometer
+- D. Dial anemometer
+
+<details><summary>Answer</summary>
+
+**A. Kata thermometer** — Originally designed to measure the cooling power of air (combined effect of temperature, humidity, and air movement), the kata thermometer is now used primarily as an **anemometer** to measure low air velocities. A wet kata reading ≥20 and a dry kata reading ≥6 were formerly used as indices of thermal comfort.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q196 — Vector for bubonic plague
+
+There is an outbreak of buboes in a community. What is the vector responsible for this condition?
+
+- A. Xenopsylla cheopis
+- B. Phlebotomus argentipes
+- C. Ixodes tick
+- D. Female Anopheles mosquito
+
+<details><summary>Answer</summary>
+
+**A. Xenopsylla cheopis** — Bubonic plague (*Yersinia pestis*) is transmitted by the **rat flea** (*Xenopsylla cheopis*). *Phlebotomus argentipes* = kala-azar (visceral leishmaniasis). *Ixodes* tick = Lyme disease, RMSF. *Anopheles* = malaria.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q197 — Leptospirosis flood prophylaxis: chemical distributed with doxycycline
+
+The Pathanamthitta district of Kerala was affected by floods. Doxycycline was distributed for leptospirosis prophylaxis. Which other chemical will be distributed along with it?
+
+- A. Zinc phosphide
+- B. Malathion
+- C. Lindane
+- D. Paris green
+
+<details><summary>Answer</summary>
+
+**B. Malathion** — In flood-affected areas, **malathion** (organophosphate insecticide) is distributed for vector control (mosquitoes, sandflies) to prevent dengue and other vector-borne diseases that peak after floods. Doxycycline 200 mg/week × 6 weeks = leptospirosis prophylaxis for high-risk populations. Zinc phosphide = rodenticide (not distributed to the public).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q198 — Blood spillage on hospital floor: disinfectant of choice
+
+Following a road traffic accident, there is spillage of blood on the hospital floor. Which disinfectant will you use to clean the floor?
+
+- A. Ethyl alcohol
+- B. Chlorhexidine
+- C. Sodium hypochlorite
+- D. Formaldehyde
+
+<details><summary>Answer</summary>
+
+**C. Sodium hypochlorite** — 0.5% sodium hypochlorite (1:10 dilution of 5% bleach) is used for blood/body fluid spill management. Procedure: absorb spill with paper towels → clean with water and detergent → saturate with 0.5% sodium hypochlorite → leave 30 minutes → clean again.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q199 — Air quality index classification (AQI ~394–407)
+
+The air quality index of a particular day recorded at a monitoring station was approximately 394–407. According to the AQI classification, this is:
+
+- A. Moderately polluted
+- B. Poor
+- C. Very poor
+- D. Severe
+
+<details><summary>Answer</summary>
+
+**C. Very poor** — India's AQI categories: Good (0–50), Satisfactory (51–100), Moderate (101–200), Poor (201–300), Very poor (301–400), Severe (401–500). An AQI of ~394 falls in the **Very poor** category (though on the boundary with Severe).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q200 — Japanese Encephalitis vaccine: type and route
+
+Which of the following is true about the Japanese Encephalitis (JE) vaccine used in a community outbreak vaccination drive?
+
+- A. Live vaccine, subcutaneous route
+- B. Killed vaccine, intramuscular route
+- C. Live vaccine, intramuscular route
+- D. Killed vaccine, subcutaneous route
+
+<details><summary>Answer</summary>
+
+**B. Killed vaccine, intramuscular route** — The JE vaccine used in the national immunisation programme (SA 14-14-2 strain) in India is a **live attenuated** vaccine given subcutaneously. However, the inactivated (killed) cell-culture-derived JE vaccine is given intramuscularly. In the context of outbreak response/adult vaccination, the killed IM vaccine is typically referenced. Note: SA 14-14-2 (live, SC) is used in NIP for children.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q201 — Evaluation based on treatment and clinical management
+
+The evaluation based on the treatment given to patients and their clinical management in a healthcare facility measures which of the following?
+
+- A. Outcome
+- B. Process
+- C. Structure
+- D. Input
+
+<details><summary>Answer</summary>
+
+**B. Process** — Donabedian's triad: **Structure** = resources (staff, equipment, facilities); **Process** = what is done to patients (treatment, clinical management, procedures); **Outcome** = results (morbidity, mortality, patient satisfaction). Evaluating what treatment was given and how = process evaluation.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q202 — Vaccine contraindicated in immunocompromised child
+
+A girl child has had recurrent yeast infections and respiratory virus infections since 3 months of age. Which vaccine is contraindicated considering her immune status?
+
+- A. Inactivated polio vaccine (IPV)
+- B. Measles/MMR vaccine
+- C. DPT vaccine
+- D. TT/Td vaccine
+
+<details><summary>Answer</summary>
+
+**B. Measles/MMR vaccine** — Recurrent opportunistic infections since infancy = primary immunodeficiency (likely SCID or combined immunodeficiency). **Live attenuated vaccines** (MMR, oral polio, varicella, BCG, yellow fever) are contraindicated in immunocompromised children. Killed/inactivated vaccines (IPV, DPT, TT) are safe.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q203 — Conditioning influence for malnutrition
+
+Which of the following is a **conditioning influence** for malnutrition?
+
+- A. Child-rearing practices
+- B. Infectious diseases
+- C. Food habits
+- D. Genetic factors
+
+<details><summary>Answer</summary>
+
+**B. Infectious diseases** — In the triad of malnutrition causation: **Dietary inadequacy** and **infectious diseases** (diarrhoea, respiratory infections, measles) act as immediate/conditioning influences → precipitate malnutrition. Food habits and child-rearing practices are underlying causes. Infections increase metabolic demands and reduce nutrient absorption.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q204 — CRP and risk of myocardial infarction/stroke
+
+A study divides participants into CRP quintiles and records relative risk for MI/stroke. CRP values from 0.1 to higher quintiles show increasing relative risks of 1, 1.5, 2.1, 2.8, etc. Which statement is true?
+
+- A. CRP has no association with risk of MI/stroke
+- B. Increase in CRP increases the risk of MI/stroke
+- C. Increase in CRP decreases the risk of MI/stroke
+- D. In quintile 1, there is no risk of MI/stroke
+
+<details><summary>Answer</summary>
+
+**B. Increase in CRP increases the risk of MI/stroke** — The data show a dose-response relationship: higher CRP quintiles = higher relative risk. This is consistent with CRP being a marker of systemic inflammation and cardiovascular risk. Relative risk >1 = positive association (increased risk with exposure).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q205 — Throat swab disposal bin colour
+
+A throat swab used for culture is obtained from a child with pharyngitis. The used swab should be discarded in which coloured bin?
+
+- A. Red
+- B. Yellow
+- C. White
+- D. Blue
+
+<details><summary>Answer</summary>
+
+**B. Yellow** — Microbiology, biotechnology, and clinical laboratory waste (including used swabs, culture plates, specimens) are collected in **yellow bags** (autoclave-safe/non-chlorinated plastic bags) per BMW Management Rules 2016. Red = plastic recyclable items (IV tubing, catheter bags). White = sharps.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q206 — SI unit for luminous intensity (brightness from point source)
+
+Which is the SI unit for the measurement of brightness of light from a point source?
+
+- A. Candela
+- B. Lux
+- C. Lambert
+- D. Lumen
+
+<details><summary>Answer</summary>
+
+**A. Candela (cd)** — Candela is the SI base unit of **luminous intensity** (brightness of a point source). Lux = luminous flux per unit area (illuminance). Lumen = total luminous flux. Lambert = older CGS unit of luminance. Recommended lighting: 100–150 lux for general hospital wards; 300 lux for operating theatres.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q207 — Varicella serology in pregnancy: susceptibility
+
+A pregnant woman whose niece contracted varicella is tested and found to have negative serum antibodies against varicella. What does this imply?
+
+- A. She is immune to zoster
+- B. She is susceptible to zoster
+- C. She is susceptible to chickenpox (primary varicella)
+- D. She is immune to chickenpox
+
+<details><summary>Answer</summary>
+
+**C. She is susceptible to chickenpox (primary varicella)** — Negative serum antibodies (IgG) = no prior infection or vaccination = **susceptible to primary varicella (chickenpox)**. Those previously infected with VZV are immune to chickenpox but can develop herpes zoster (reactivation) later. VZIG should be given to seronegative pregnant contacts within 96 hours of exposure.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q208 — School health programmes: managed by which facility?
+
+School health programmes are managed by which of the following?
+
+- A. Primary health centre
+- B. District hospital
+- C. Sub-centre
+- D. Sub-divisional hospital
+
+<details><summary>Answer</summary>
+
+**A. Primary health centre (PHC)** — School health programmes fall under the PHC's 12 comprehensive primary healthcare packages. PHC is responsible for school health services including immunisation, health screening, nutrition, deworming, and health education for school-age children.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q209 — Progressive muscle weakness in Chhattisgarh: diet history
+
+A man from Chhattisgarh presents with progressive muscle weakness and leg spasms. Pure motor paresis is seen on examination. What is the most appropriate history to elicit?
+
+- A. History of similar illness in family
+- B. History of fever
+- C. History of joint pain
+- D. History of diet
+
+<details><summary>Answer</summary>
+
+**D. History of diet** — Clinical features (pure motor paresis, spastic weakness, scissors gait) + geographic location (Chhattisgarh) suggest **neurolathyrism** due to consumption of *Lathyrus sativus* (khesari dal). Diet history to confirm consumption of this legume is the most important clue. It is a UMN disease caused by BOAA (beta-oxalyl-amino-alanine) toxin.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q210 — Vaccine given to 10-year-old school child (National Immunisation Schedule)
+
+In a 10-year-old school child, which vaccine is given as part of the immunisation programme?
+
+- A. BCG
+- B. MMR
+- C. TT/Td
+- D. DPT
+
+<details><summary>Answer</summary>
+
+**C. TT/Td** — National Immunisation Schedule (India): TT/Td is given at **10 years** and again at 16 years as school-based booster doses. DPT is for children <7 years. BCG is given at birth. MMR is given at 9 months and 15–18 months.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->

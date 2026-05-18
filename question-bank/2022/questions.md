@@ -665,3 +665,215 @@ Hypothalamic thermostat reset upward (A → C). What happens in the rising phase
 </details>
 
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
+
+---
+
+## Community Medicine (PSM)
+
+### Q41 — QALY: disability-adjusted life measure
+
+The average life expectancy for a woman in Japan is 87 years. Due to recent advances in cervical cancer testing, there is an expected increase in life expectancy by 1.5 years. The healthcare utility value is 0.8. Which of the following can be calculated from these parameters?
+
+- A. HALE (Health-Adjusted Life Expectancy)
+- B. DALY (Disability-Adjusted Life Year)
+- C. YLD (Years Lived with Disability)
+- D. QALY (Quality-Adjusted Life Year)
+
+<details><summary>Answer</summary>
+
+**D. QALY** — QALY = Life years gained × Utility value (0–1 scale). Here: 1.5 years × 0.8 = 1.2 QALYs. QALY is used in cost-utility analysis to compare healthcare interventions. DALY = disease burden indicator (YLL + YLD). HALE = healthy life expectancy (does not use a utility multiplier).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q42 — Disaster preparedness in a high seismic zone PHC
+
+A PHC in a high seismic zone plans for an emergency. Which of the following steps are part of disaster preparedness?
+1. Ensure financial and other resources are available
+2. Increase public awareness through campaigns
+3. Conduct simulation exercises and assess response
+4. Follow instructions given over the phone by higher officials during an event
+
+- A. Steps 1, 2, 3, and 4
+- B. Steps 1 and 3 only
+- C. Steps 1, 2, and 3 only
+- D. Steps 2 and 4 only
+
+<details><summary>Answer</summary>
+
+**C. Steps 1, 2, and 3 only** — Disaster preparedness involves: ensuring resource availability, public awareness campaigns, simulation drills, risk evaluation, media coordination, and adopting regulations. Step 4 ("follow instructions over the phone during an event") is a **response** activity, not preparedness. Preparedness occurs before a disaster occurs.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q43 — Most cost-effective strategy to reduce rabies incidence
+
+Knowing that dogs are the most common source of rabies and it mainly affects children in developing countries, what is the most cost-effective and logical way to reduce its incidence?
+
+- A. Testing all dogs for rabies
+- B. Reducing stray dog population and vaccinating all dogs
+- C. Increasing laboratory facilities for surveillance
+- D. Increasing vaccination of healthcare workers
+
+<details><summary>Answer</summary>
+
+**B. Reducing stray dog population and vaccinating all dogs** — Source elimination (population control) + interrupting the reservoir (canine vaccination) is the most cost-effective strategy. The Animal Birth Control (ABC) programme in India targets stray dog sterilisation and vaccination. Pre-exposure prophylaxis for healthcare workers is important but not the primary strategy.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q44 — WHO STEPS approach: which assessment is NOT included?
+
+Which of the following steps is **not** included in the WHO STEP approach for NCD risk factor surveillance?
+
+- A. Therapeutic assessment
+- B. Physical assessment
+- C. Psychological assessment
+- D. Behavioural assessment
+
+<details><summary>Answer</summary>
+
+**A. Therapeutic assessment** — WHO STEPS approach has 3 steps: **Step 1 = Behavioural** (questionnaires on tobacco, alcohol, diet, physical activity); **Step 2 = Physical** (BP, height, weight, waist circumference); **Step 3 = Biochemical** (blood glucose, lipids, urinary sodium). Therapeutic assessment is NOT a component of STEPS.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q45 — TB treatment outcome: sputum negative at end of treatment
+
+A patient with TB completed the full intensive and continuation phases of treatment. Sputum examination at the end of treatment is negative. What is the treatment outcome?
+
+- A. Cured
+- B. Treatment completed
+- C. Lost to follow-up
+- D. Treatment failed
+
+<details><summary>Answer</summary>
+
+**A. Cured** — NTEP treatment outcomes: **Cured** = bacteriologically confirmed TB + negative sputum smear/culture at end of treatment. **Treatment completed** = completed treatment but no bacteriological result at the end (smear not done). Treatment failed = smear/culture positive at 5+ months. Lost to follow-up = treatment interrupted ≥2 consecutive months.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q46 — Cohort study: green tea and diabetes risk ratio 0.84
+
+A cohort study of green tea drinkers vs non-drinkers for diabetes mellitus reports a risk ratio of 0.84. Which statement is correct?
+
+- A. Green tea reduces the risk of diabetes mellitus
+- B. Green tea increases the risk of diabetes mellitus
+- C. Data are insufficient to establish a causal association
+- D. The value (0.84) is close to 1, hence there is no effect
+
+<details><summary>Answer</summary>
+
+**A. Green tea reduces the risk of diabetes mellitus** — Risk ratio (RR) = 0.84 < 1 → **inverse association** → green tea is **protective**. RR = 1 → no association; RR > 1 → positive association (increased risk). A statistically significant RR < 1 confirms a protective effect, not mere proximity to 1.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q47 — Urban Community Health Centre (U-CHC): criterion
+
+Which of the following best describes the criteria for an Urban Community Health Centre (U-CHC)?
+
+- A. Caters to a population of 1–1.5 lakh
+- B. Referral centre for 2–3 urban primary health centres
+- C. Established when no sub-district and district hospitals are present in the area
+- D. Should have a 100-bed facility in metro cities
+
+<details><summary>Answer</summary>
+
+**C. Established when no sub-district and district hospitals are present in the area** — U-CHC is a 30–50 bedded facility catering to a population of 2,50,000, acting as referral for 4–5 U-PHCs. In metro cities: 100-bed facility for 5,00,000 population. It is established specifically in areas without sub-district or district hospitals to bridge the referral gap.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q48 — Broken vaccine vial disposal per BMW rules
+
+How is a broken vaccine vial disposed of according to Biomedical Waste Management Rules?
+
+- A. Puncture-proof blue bin
+- B. White container
+- C. Yellow container
+- D. Red container
+
+<details><summary>Answer</summary>
+
+**A. Puncture-proof blue bin** — BMW Management Rules 2016: Broken or discarded contaminated glassware (vials, ampoules, glass slides, broken glass) → **blue bin** (marked with blue colour). After collection, the blue-bin waste is sent for recycling after washing with detergent and autoclaving/microwaving.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q49 — JSY (Janani Suraksha Yojana): urban benefit amounts in Madhya Pradesh
+
+In an urban area of Madhya Pradesh, a primigravida delivers in a government institution after being motivated by an ASHA worker. What are the benefits under the Janani Suraksha Yojana (JSY)?
+
+- A. ₹1000 for mother and ₹400 for ASHA
+- B. ₹1400 for mother and ₹600 for ASHA
+- C. ₹600 for mother and ₹400 for ASHA
+- D. ₹400 for mother and ₹200 for ASHA
+
+<details><summary>Answer</summary>
+
+**A. ₹1000 for mother and ₹400 for ASHA** — JSY rates for Low Performing States (LPS: MP, UP, Bihar, Rajasthan, etc.) **Urban area**: Mother = ₹1,000; ASHA = ₹400. LPS Rural: Mother = ₹1,400; ASHA = ₹600. High Performing States Urban: Mother = ₹600; ASHA = ₹400. HPS Rural: Mother = ₹700; ASHA = ₹600.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q50 — Applied nutrition programme: UNICEF's contribution
+
+Which agency provides seeds and manure in applied nutrition programmes in schools?
+
+- A. CARE
+- B. UNDP
+- C. UNICEF
+- D. WHO
+
+<details><summary>Answer</summary>
+
+**C. UNICEF** — In the Applied Nutrition Programme (ANP), **UNICEF** provides implements, seeds, manure, and water supply equipment for school gardens. FAO (Rome) provides technical guidance. The produce from gardens is used for school feeding programmes and nutrition education. UNICEF also implemented the GOBI-FFF strategy (Growth monitoring, ORT, Breastfeeding, Immunisation, Family planning, Food supplementation, Female literacy).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q51 — Case-control study control selection for ALL investigation
+
+Many children from a community are detected to have acute lymphoblastic leukaemia (ALL), suspected to be due to a cytotoxic chemical in the water supply. If a case-control study is conducted, who will be taken as controls?
+
+- A. Children from the exposed area but unaffected with the disease
+- B. Children from an unexposed area who are affected with the disease
+- C. Children coming to the OPD who do not have the disease
+- D. All children with ALL irrespective of exposure status
+
+<details><summary>Answer</summary>
+
+**C. Children coming to the OPD who do not have the disease** — In a case-control study, **controls must be free from the disease** under study. Controls are selected from the same base population as cases. They can come from hospital OPD (hospital controls) or community, but must not have the disease (ALL) being investigated.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+### Q52 — Open vial policy: which vaccines can be reused?
+
+An ANM conducts a vaccination camp and has 2 open vials — one pentavalent vaccine and one MR vaccine. What can she do regarding these open vials?
+
+- A. Use MR vaccine and discard pentavalent vaccine
+- B. Use pentavalent vaccine and discard MR vaccine
+- C. Use both vaccines
+- D. Discard both vaccines
+
+<details><summary>Answer</summary>
+
+**B. Use pentavalent vaccine and discard MR vaccine** — **Open Vial Policy (OVP)**: Non-live vaccines (pentavalent/DPT, Hepatitis B, TT, OPV) can be used in subsequent sessions if stored properly, cap is intact, and not past expiry/VVM stage 3–4. **Live vaccines (MR, BCG, measles)** must be discarded at the end of the session once reconstituted/opened, as they lose potency rapidly.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
