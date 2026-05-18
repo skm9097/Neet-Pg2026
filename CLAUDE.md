@@ -80,10 +80,11 @@ Neet-Pg2026/
 ```
 
 **Current totals:**
-- Year-wise: ~400 questions (2019–2025, full 200 for 2025)
-- Subject-wise: ~580 questions across all 19 NBE subjects
-- Combined unique: ~880 distinct questions
+- Year-wise: ~777 questions (2019–2025, full 200 for 2025 and 2021)
+- Subject-wise: ~835 questions across all 19 NBE subjects
+- Combined unique: ~1,200 distinct questions
 - Gap: 2015–2018 (0 questions; PDF source links in each year's `index.md`)
+- PSM/Community Medicine: 260 Qs (most complete subject)
 
 ---
 
@@ -94,7 +95,7 @@ The owner has ~90 days to exam. Strategy is reactivation, not relearning from ze
 ### Priority order for Claude when building/expanding the question bank:
 1. **Fill year-wise gaps first** — 2019–2024 each have only 22–40 Qs vs. the full 200. Finding additional recall questions for these years is the highest-impact task.
 2. **2015–2018 second** — These are 300-question papers (old format). Even 50–100 Qs per year from HTML sources is valuable.
-3. **Subject-wise depth third** — Low-count subjects (Pharmacology 10 Qs, Ophthalmology 15 Qs, Radiology 15 Qs, Physiology 16 Qs, Pediatrics 14 Qs) need more questions.
+3. **Subject-wise depth third** — Low-count subjects (Pediatrics 14 Qs, Pathology 18 Qs, Biochemistry/Dermatology/ENT/Medicine/Microbiology/Psychiatry/Surgery 20 Qs each, Pharmacology 25 Qs) need more questions. Community Medicine (260 Qs), Physiology (100 Qs), Anatomy (99 Qs) are well-developed.
 
 ### Active recall beats passive reading
 The collapsible `<details><summary>Answer</summary>` blocks in every `.md` file are the core UX. Users open a file, attempt answers mentally, then click to reveal. Never put the answer inline.
