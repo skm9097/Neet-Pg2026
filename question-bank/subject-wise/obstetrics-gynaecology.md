@@ -1266,3 +1266,465 @@ In Mayer-Rokitansky-Küster-Hauser syndrome, which is ABSENT?
 </details>
 
 ---
+
+## Additional High-Yield (added from 2019–2020 PYQ)
+
+### Q78 — Misoprostol — prostaglandin class
+
+Misoprostol used in cervical ripening / induction of labour is an analogue of:
+
+- A. PG E1
+- B. PG E2
+- C. PG I2
+- D. PG F2α
+
+<details><summary>Answer</summary>
+
+**A. PG E1** — Methyl ester of PGE1; used for cervical ripening, induction of labour, medical abortion, and atonic PPH (off-label).
+</details>
+
+---
+
+### Q79 — Hegar's sign
+
+Softening of the isthmus making the cervix feel separate from the body of the uterus at 6–8 weeks is:
+
+- A. Goodell's sign
+- B. Chadwick's sign
+- C. Piskacek's sign
+- D. Hegar's sign
+
+<details><summary>Answer</summary>
+
+**D. Hegar's sign** — Probable sign of pregnancy at 6–8 weeks. Goodell = cervical softening; Chadwick = bluish vagina; Piskacek = asymmetric uterine enlargement.
+</details>
+
+---
+
+### Q80 — Imperforate hymen — clinical presentation
+
+A 16-year-old with primary amenorrhoea, cyclic abdominal pain, vaginal bulge on PR exam:
+
+- A. Imperforate hymen
+- B. Transverse vaginal septum
+- C. Vaginal agenesis
+- D. MRKH
+
+<details><summary>Answer</summary>
+
+**A. Imperforate hymen** — Haematocolpos with cryptomenorrhoea. Cruciate incision and drainage is curative.
+</details>
+
+---
+
+### Q81 — Caudal regression syndrome — maternal condition
+
+Fetal caudal regression syndrome (absent sacrum/short spine) is most strongly associated with:
+
+- A. ACE inhibitor exposure
+- B. GDM
+- C. Pregestational diabetes
+- D. Valproate exposure
+
+<details><summary>Answer</summary>
+
+**C. Pregestational diabetes** — Risk ~25× higher; preconception glycaemic control reduces risk.
+</details>
+
+---
+
+### Q82 — Carboprost (PGF2α) max dose in PPH
+
+Maximum cumulative dose of 15-methyl PGF2α (carboprost) in PPH:
+
+- A. 200 µg
+- B. 2 mg
+- C. 20 mg
+- D. 8 mg
+
+<details><summary>Answer</summary>
+
+**B. 2 mg** — 0.25 mg IM q15 min, max 8 doses = 2 mg total. Contraindicated in asthma (bronchospasm).
+</details>
+
+---
+
+### Q83 — Adenomyosis — diagnostic feature
+
+A 30-year-old with dysmenorrhoea, dyspareunia, chronic pelvic pain. Hysterectomy specimen shows endometrial glands deep within myometrium. Diagnosis?
+
+- A. Endometriosis
+- B. Adenomyosis
+- C. Leiomyoma
+- D. Endometrial polyp
+
+<details><summary>Answer</summary>
+
+**B. Adenomyosis** — Endometrial glands/stroma >2.5 mm deep into myometrium. Bulky globular uterus; hysterectomy is curative.
+</details>
+
+---
+
+### Q84 — OHSS — clinical syndrome
+
+Patient on infertility treatment with gonadotropins develops abdominal pain, ascites, dyspnoea; USG shows enlarged multicystic ovaries. Diagnosis?
+
+- A. PCOS
+- B. OHSS
+- C. Mucinous cystadenoma
+- D. Theca lutein cysts
+
+<details><summary>Answer</summary>
+
+**B. OHSS** — Iatrogenic capillary leak post-gonadotropin stimulation: ascites, pleural effusion, hemoconcentration, VTE risk. Severe form needs admission and fluid balance ± paracentesis.
+</details>
+
+---
+
+### Q85 — Falope (laparoscopic) ring applicator — use
+
+A Falope (laparoscopic) ring applicator is used for:
+
+- A. Laparoscopic tubal sterilisation
+- B. Suction evacuation of incomplete abortion
+- C. Salpingostomy for ectopic
+- D. Creating pneumoperitoneum
+
+<details><summary>Answer</summary>
+
+**A. Laparoscopic sterilisation** — Silastic ring occludes a knuckle of fallopian tube; less destructive (and more reversible) than cautery.
+</details>
+
+---
+
+### Q86 — Gravida-parity in twins
+
+A 36-week pregnant lady with one previous delivery of twins. Her gravida-parity is:
+
+- A. G2P1
+- B. G2P2
+- C. G3P2
+- D. G2P0
+
+<details><summary>Answer</summary>
+
+**A. G2P1** — Gravida counts pregnancies (twins = one). Parity counts deliveries after 20 weeks (one event regardless of fetal number).
+</details>
+
+---
+
+### Q87 — Postdated pregnancy — drug NOT used for induction
+
+41-week gestation, no contractions, no effacement/dilatation. Which should NOT be used for induction?
+
+- A. Intracervical Foley's catheter
+- B. PGE1 (misoprostol)
+- C. PGE2 gel
+- D. PGF2α
+
+<details><summary>Answer</summary>
+
+**D. PGF2α** — PGF2α (carboprost) is reserved for atonic PPH; not used for induction. Foley's, PGE1, and PGE2 are standard cervical ripening agents.
+</details>
+
+---
+
+### Q88 — GTN — does NOT include
+
+Which is NOT a gestational trophoblastic NEOPLASM (GTN)?
+
+- A. Choriocarcinoma
+- B. Invasive mole
+- C. Placental site trophoblastic tumour
+- D. Partial hydatidiform mole
+
+<details><summary>Answer</summary>
+
+**D. Partial hydatidiform mole** — Moles are GTD (disease) but not neoplasms (GTN). GTN includes choriocarcinoma, invasive mole, PSTT, and epithelioid trophoblastic tumour.
+</details>
+
+---
+
+## Foetal Surveillance & Bishop Score
+
+### Q89 — Reactive NST criteria
+
+A reactive non-stress test requires ≥ 2 accelerations in 20 minutes, each lasting:
+
+- A. ≥ 5 bpm × 5 sec
+- B. ≥ 10 bpm × 10 sec
+- C. ≥ 15 bpm × 15 sec
+- D. ≥ 20 bpm × 20 sec
+
+<details><summary>Answer</summary>
+
+**C. ≥ 15 bpm × 15 sec** — Reactive NST: ≥ 2 accelerations of ≥ 15 bpm lasting ≥ 15 sec from baseline in 20-min tracing. Non-reactive → extend to 40 min, vibroacoustic stimulation, or BPP.
+</details>
+
+---
+
+### Q90 — Absent end-diastolic flow on Doppler
+
+Absent end-diastolic flow in umbilical artery Doppler implies:
+
+- A. Normal foetus
+- B. Mild placental insufficiency
+- C. Severe placental insufficiency
+- D. Polyhydramnios
+
+<details><summary>Answer</summary>
+
+**C. Severe placental insufficiency** — AEDF beyond 30–32 weeks → expedite delivery. Reversed end-diastolic flow → immediate delivery regardless of gestation.
+</details>
+
+---
+
+### Q91 — Bishop score interpretation
+
+A Bishop score ≥ 6 indicates:
+
+- A. Unfavourable cervix needing ripening
+- B. Favourable cervix — induction likely to succeed
+- C. Cervical incompetence
+- D. Established labour
+
+<details><summary>Answer</summary>
+
+**B. Favourable cervix** — Bishop ≥ 6 (some use ≥ 8): induction with oxytocin/ARM likely to succeed. Score < 6 → ripen cervix first (PGE1/PGE2/Foley).
+</details>
+
+---
+
+### Q92 — Cervical cerclage indication
+
+Classical indication for history-indicated (prophylactic) cervical cerclage:
+
+- A. First-trimester miscarriage × 1
+- B. Recurrent painless second-trimester pregnancy loss (cervical insufficiency)
+- C. Threatened preterm labour at 32 weeks
+- D. Twin pregnancy
+
+<details><summary>Answer</summary>
+
+**B. Recurrent painless second-trimester loss** — Cervical insufficiency. McDonald (purse-string) at 12–14 weeks; Shirodkar variant. Remove at 36–37 weeks.
+</details>
+
+---
+
+## Antepartum Haemorrhage (additional)
+
+### Q93 — Placenta praevia investigation of choice
+
+Investigation of choice for suspected placenta praevia:
+
+- A. Per-vaginal examination
+- B. Transabdominal ultrasound
+- C. Transvaginal ultrasound (TVUS)
+- D. MRI pelvis
+
+<details><summary>Answer</summary>
+
+**C. Transvaginal ultrasound** — Most accurate; safe (probe stays > 3 cm from cervix). PV examination contraindicated until praevia excluded (double set-up examination only).
+</details>
+
+---
+
+### Q94 — Vasa praevia diagnosis
+
+Diagnostic investigation for vasa praevia:
+
+- A. Cardiotocography
+- B. Transvaginal ultrasound with colour Doppler
+- C. MRI
+- D. Per-vaginal examination
+
+<details><summary>Answer</summary>
+
+**B. TVUS + colour Doppler** — Shows foetal vessels traversing membranes overlying internal os. Diagnosis prompts elective LSCS at 34–36 weeks (with antenatal steroids).
+</details>
+
+---
+
+## Pregnancy Disorders (additional)
+
+### Q95 — Hyperemesis gravidarum first-line antiemetic
+
+First-line antiemetic for hyperemesis gravidarum:
+
+- A. Doxylamine + pyridoxine
+- B. Ondansetron
+- C. Metoclopramide
+- D. Promethazine
+
+<details><summary>Answer</summary>
+
+**A. Doxylamine + pyridoxine (B6)** — First-line per ACOG. Step-up: dimenhydrinate → metoclopramide/promethazine → ondansetron (avoid in 1st trimester per latest data) → corticosteroids in refractory cases.
+</details>
+
+---
+
+### Q96 — Gestational thrombocytopenia threshold
+
+Most common cause of thrombocytopenia in pregnancy:
+
+- A. ITP
+- B. HELLP
+- C. Gestational thrombocytopenia
+- D. TTP
+
+<details><summary>Answer</summary>
+
+**C. Gestational thrombocytopenia (~75%)** — Mild (> 70,000/µL), late 2nd/3rd trimester, resolves postpartum, no foetal effect. ITP can present with severe thrombocytopenia and foetal involvement.
+</details>
+
+---
+
+### Q97 — Intrahepatic cholestasis of pregnancy treatment
+
+Drug of choice for intrahepatic cholestasis of pregnancy (ICP):
+
+- A. Cholestyramine
+- B. Ursodeoxycholic acid
+- C. Methotrexate
+- D. Vitamin K
+
+<details><summary>Answer</summary>
+
+**B. Ursodeoxycholic acid (UDCA)** — Reduces pruritus and bile acid levels. Risk of stillbirth especially with bile acids > 100 µmol/L → delivery at 36–37 weeks.
+</details>
+
+---
+
+## Infertility / ART
+
+### Q98 — WHO 2021 sperm concentration cut-off
+
+WHO 2021 lower reference limit for sperm concentration:
+
+- A. 5 million/mL
+- B. 10 million/mL
+- C. 16 million/mL
+- D. 20 million/mL
+
+<details><summary>Answer</summary>
+
+**C. 16 million/mL** — WHO 6th edition: concentration ≥ 16 M/mL, total motility ≥ 42%, progressive ≥ 30%, morphology ≥ 4% (strict), volume ≥ 1.4 mL.
+</details>
+
+---
+
+### Q99 — Best timing for HSG
+
+Best timing for HSG in the menstrual cycle:
+
+- A. Day 2–5
+- B. Day 6–12
+- C. Day 14–16
+- D. Day 21–28
+
+<details><summary>Answer</summary>
+
+**B. Day 6–12** — Post-menses (avoid pregnancy exposure / endometrial flushing), pre-ovulatory. Assesses tubal patency and uterine cavity.
+</details>
+
+---
+
+### Q100 — First-line ovulation induction in PCOS
+
+First-line ovulation induction agent in PCOS infertility (2018 ESHRE / 2023 international guideline):
+
+- A. Clomiphene citrate
+- B. Letrozole
+- C. Gonadotropins
+- D. Metformin
+
+<details><summary>Answer</summary>
+
+**B. Letrozole** — Aromatase inhibitor (off-label); higher live-birth rate than clomiphene in PCOS. Used as oral ovulation induction.
+</details>
+
+---
+
+## Gynae Oncology (additional)
+
+### Q101 — Most common cervical cancer histology
+
+Most common histological type of cervical cancer:
+
+- A. Squamous cell carcinoma (~70–80%)
+- B. Adenocarcinoma
+- C. Small-cell neuroendocrine
+- D. Adenosquamous
+
+<details><summary>Answer</summary>
+
+**A. Squamous cell carcinoma** — Adenocarcinoma 20–25% (rising). HPV 16 most common in SCC; HPV 18 over-represented in adenocarcinoma.
+</details>
+
+---
+
+### Q102 — HPV vaccine schedule (9–14 years)
+
+WHO/MoHFW HPV vaccine schedule in girls aged 9–14 years:
+
+- A. Single dose
+- B. Two doses 6 months apart
+- C. Three doses 0/1–2/6 months
+- D. Five doses
+
+<details><summary>Answer</summary>
+
+**B. Two doses 6 months apart** — Age 9–14: 2 doses. ≥ 15 years or immunocompromised: 3 doses (0, 1–2, 6 months). WHO endorses single-dose efficacy for routine programmes.
+</details>
+
+---
+
+### Q103 — Krukenberg tumour origin
+
+Krukenberg tumour most commonly metastasises from:
+
+- A. Lung
+- B. Stomach (signet-ring cells)
+- C. Breast
+- D. Colorectal
+
+<details><summary>Answer</summary>
+
+**B. Gastric carcinoma** — Bilateral ovarian metastases with signet-ring cells in cellular stroma. Other sources: colon, breast, appendix.
+</details>
+
+---
+
+### Q104 — Meigs syndrome triad
+
+Meigs syndrome consists of:
+
+- A. Ovarian fibroma + ascites + right hydrothorax
+- B. Granulosa cell tumour + virilisation + ascites
+- C. Dysgerminoma + hypercalcaemia + effusion
+- D. Mucinous tumour + pseudomyxoma peritonei
+
+<details><summary>Answer</summary>
+
+**A. Ovarian fibroma + ascites + right hydrothorax** — Resolves after tumour removal. Pseudo-Meigs: same triad with other ovarian tumours (e.g., serous cystadenoma).
+</details>
+
+---
+
+### Q105 — Postpartum VTE anticoagulation duration
+
+Minimum duration of anticoagulation after a postpartum VTE event:
+
+- A. 2 weeks
+- B. 6 weeks
+- C. At least 3 months total (and ≥ 6 weeks postpartum)
+- D. 12 months
+
+<details><summary>Answer</summary>
+
+**C. ≥ 3 months total (and ≥ 6 weeks postpartum)** — Therapeutic LMWH; can switch to warfarin if preferred (safe in lactation). LMWH preferred postpartum overall.
+</details>
+
+---
+
+---

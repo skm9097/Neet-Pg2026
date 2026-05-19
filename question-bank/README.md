@@ -20,7 +20,7 @@ question-bank/
 │   ├── forensic-medicine.md (35 Qs)
 │   ├── medicine.md          (20 Qs)
 │   ├── microbiology.md      (20 Qs)
-│   ├── obstetrics-gynaecology.md (77 Qs)
+│   ├── obstetrics-gynaecology.md (88 Qs)
 │   ├── ophthalmology.md     (15 Qs)
 │   ├── orthopaedics.md      (40 Qs)
 │   ├── pathology.md         (18 Qs)
@@ -35,8 +35,8 @@ question-bank/
 ├── 2023/questions.md       35 Qs (recall)
 ├── 2022/questions.md       29 Qs (recall)
 ├── 2021/questions.md       36 Qs (recall)
-├── 2020/questions.md       36 Qs (recall)
-├── 2019/questions.md       22 Qs (recall, truncated source)
+├── 2020/questions.md       127 Qs (recall + medicoholic PDF)
+├── 2019/questions.md       107 Qs (recall + medicoholic PDF)
 └── 2015–2018/              index.md only (PDF source links provided)
 ```
 
