@@ -1451,3 +1451,322 @@ HIV vertical (mother-to-child) transmission to the infant is highest with which 
 **B. High maternal viral RNA load** — Maternal viral load is the single most important determinant of vertical HIV transmission. Rates: in utero 5–10%, intrapartum 10–15%, breastfeeding 5–20%. Elective C-section before labour/membrane rupture reduces transmission ~50%. PMTCT: cART + elective C-section + safe infant feeding.
 
 </details>
+
+---
+
+## Obstetrics & Gynaecology
+
+### Q87 — Physiological change in pregnancy — FALSE *(2019)*
+
+Which of the following is FALSE regarding physiological changes in pregnancy?
+
+- A. Increased cardiac output
+- B. Increased total protein
+- C. Increased residual volume
+- D. Increased GFR
+
+<details><summary>Answer</summary>
+
+**C. Increased residual volume** — Diaphragm elevation by the gravid uterus DECREASES functional residual capacity and residual volume. Tidal volume and minute ventilation increase. GFR and cardiac output increase.
+
+</details>
+
+### Q88 — MgSO4 — no role in prevention of *(2019)*
+
+MgSO4 has no role in the prevention of:
+
+- A. Seizures in severe pre-eclampsia
+- B. Recurrent seizures in eclampsia
+- C. RDS in premature baby
+- D. Bradycardia
+
+<details><summary>Answer</summary>
+
+**C. RDS in premature baby** — MgSO4 is used as anticonvulsant in pre-eclampsia/eclampsia and as tocolytic; antenatal MgSO4 is neuroprotective for the fetus but does NOT prevent RDS (antenatal steroids do).
+
+</details>
+
+### Q89 — OCP absolute contraindication *(2019)*
+
+Which is an ABSOLUTE contraindication to OCP use?
+
+- A. Chronic renal disease
+- B. DVT
+- C. Diabetes mellitus
+- D. History of amenorrhoea
+
+<details><summary>Answer</summary>
+
+**B. DVT** — Combined OCPs are absolutely contraindicated in personal/family h/o thromboembolism, known thrombophilia, smokers >35y, h/o stroke/CAD, migraine with aura, active breast cancer, liver tumours.
+
+</details>
+
+### Q90 — Postdated pregnancy — what NOT to use *(2019)*
+
+41-week gestation, sure dates, no contractions, no effacement/dilatation. What should NOT be used for induction?
+
+- A. Intracervical Foley's catheter
+- B. PGE1 tablet
+- C. PGE2 gel
+- D. PGF2α
+
+<details><summary>Answer</summary>
+
+**D. PGF2α** — PGF2α is a uterine relaxant/used for PPH atony, not for induction. Foley's, PGE1 (misoprostol), and PGE2 (dinoprostone) are standard cervical ripening agents.
+
+</details>
+
+### Q91 — Double decidua sign *(2019)*
+
+The double decidua sac sign is seen during:
+
+- A. 1st trimester
+- B. Early 2nd trimester
+- C. Late 2nd trimester
+- D. 3rd trimester
+
+<details><summary>Answer</summary>
+
+**A. 1st trimester** — Useful early USG sign confirming intrauterine pregnancy before yolk sac/embryo is visible. Two concentric echogenic rings = decidua capsularis + decidua parietalis surrounding the gestational sac.
+
+</details>
+
+### Q92 — 3rd degree uterine prolapse — management *(2019)*
+
+60-year-old woman with 3rd degree uterine prolapse. Best management?
+
+- A. Vaginal hysterectomy with pelvic floor repair
+- B. Pelvic floor repair alone
+- C. Sacrospinous fixation
+- D. Pessary
+
+<details><summary>Answer</summary>
+
+**A. Vaginal hysterectomy with pelvic floor repair** — Post-menopausal woman, fertility not desired, 3rd degree prolapse → definitive surgical treatment. Pessary reserved for unfit-for-surgery.
+
+</details>
+
+### Q93 — Day 20 of menstrual cycle *(2019)*
+
+Day 20 of a 28-day menstrual cycle falls under which phase?
+
+- A. Menstrual phase
+- B. Follicular phase
+- C. Ovulatory phase
+- D. Luteal phase
+
+<details><summary>Answer</summary>
+
+**D. Luteal phase** — Days 1–5 menstrual, 1–13 follicular, day 14 ovulation, days 15–28 luteal (secretory). Day 20 is mid-luteal, when progesterone peaks.
+
+</details>
+
+### Q94 — Partial hydatidiform mole — karyotype *(2019)*
+
+The chromosomal complement of a partial hydatidiform mole is:
+
+- A. 46 XX
+- B. 45 XO
+- C. 46 XXY
+- D. 69 XXX
+
+<details><summary>Answer</summary>
+
+**D. 69 XXX** — Partial mole = triploid (69, XXX/XXY/XYY) from dispermy. Complete mole = diploid 46 XX (paternal-only). Fetal parts may be present in partial mole.
+
+</details>
+
+### Q95 — Vulvar atrophy and itching — treatment *(2019)*
+
+Vulvar atrophy with itching in a post-menopausal woman is best treated with:
+
+- A. Topical estrogen ointment
+- B. Antihistamines
+- C. Tamoxifen
+- D. Topical steroids
+
+<details><summary>Answer</summary>
+
+**A. Topical estrogen ointment** — Atrophic vaginitis is from estrogen deficiency; topical/vaginal estrogen reverses tissue atrophy and symptoms with minimal systemic effects.
+
+</details>
+
+### Q96 — Nuchal translucency timing *(2019)*
+
+Nuchal translucency on USG is detected at:
+
+- A. 11–13 weeks
+- B. 18–20 weeks
+- C. 8–10 weeks
+- D. 20–22 weeks
+
+<details><summary>Answer</summary>
+
+**A. 11–13 weeks** — First-trimester screening window (11+0 to 13+6 weeks). NT >3 mm suggests Down syndrome, cardiac defects, or other aneuploidy.
+
+</details>
+
+### Q97 — Mastitis in lactating mother — first-line drug *(2019)*
+
+First-line treatment for puerperal mastitis in a lactating mother is:
+
+- A. Dicloxacillin
+- B. Cefazolin
+- C. Ceftriaxone
+- D. Ampicillin
+
+<details><summary>Answer</summary>
+
+**A. Dicloxacillin** — Beta-lactamase resistant penicillin covers S. aureus (commonest organism). Continue breastfeeding; warm compresses; cephalexin or clindamycin if penicillin-allergic.
+
+</details>
+
+### Q98 — Recurrent abortion with APLA — treatment *(2019)*
+
+Recurrent abortion with antiphospholipid antibody syndrome. Treatment?
+
+- A. Aspirin only
+- B. Aspirin + low molecular weight heparin
+- C. Aspirin + LMWH + prednisolone
+- D. No treatment
+
+<details><summary>Answer</summary>
+
+**B. Aspirin + LMWH** — Low-dose aspirin plus LMWH (prophylactic) throughout pregnancy is standard regimen; increases live-birth rates. Steroids are not first-line unless overlapping SLE.
+
+</details>
+
+### Q99 — Gestational trophoblastic neoplasia — does NOT include *(2019)*
+
+Gestational trophoblastic NEOPLASIA does NOT include:
+
+- A. Choriocarcinoma
+- B. Placental site trophoblastic tumour
+- C. Invasive mole
+- D. Partial mole
+
+<details><summary>Answer</summary>
+
+**D. Partial mole** — Hydatidiform moles (complete/partial) are GTD (disease) but not neoplasms. GTN = choriocarcinoma, invasive mole, PSTT, epithelioid trophoblastic tumour.
+
+</details>
+
+### Q100 — Submucosal fibroid + menorrhagia — 45 y/o *(2019)*
+
+45-year-old with 3 months menorrhagia, USG shows 2 cm submucosal fibroid. Treatment of choice?
+
+- A. OCP for 3 months
+- B. Progesterone for 3 months
+- C. Endometrial sampling
+- D. Hysterectomy
+
+<details><summary>Answer</summary>
+
+**D. Hysterectomy** — Older woman with completed family + symptomatic submucosal fibroid + AUB → hysterectomy is definitive. Endometrial sampling first to rule out malignancy, then hysterectomy.
+
+</details>
+
+### Q101 — Anti-Müllerian hormone in low ovarian reserve *(2019)*
+
+In low ovarian reserve, the AMH level is:
+
+- A. <1 ng/mL
+- B. 1–4 ng/mL
+- C. >7 ng/mL
+- D. >10 ng/mL
+
+<details><summary>Answer</summary>
+
+**A. <1 ng/mL** — AMH reflects antral follicle pool. <1 ng/mL = low reserve (poor responder to ovarian stimulation). 1–4 = normal; >4 suggests PCOS.
+
+</details>
+
+### Q102 — Presenting diameter of fully flexed head *(2019)*
+
+The presenting diameter of a fully flexed fetal head is:
+
+- A. Suboccipito-bregmatic
+- B. Suboccipito-frontal
+- C. Occipito-frontal
+- D. Mento-vertical
+
+<details><summary>Answer</summary>
+
+**A. Suboccipito-bregmatic (9.5 cm)** — Full flexion = vertex presentation = SOB diameter (smallest). Deflexion → SOF (10.5 cm) → OF (11.5 cm). Mento-vertical (14 cm) = brow (largest, undeliverable vaginally).
+
+</details>
+
+### Q103 — Ulipristal acetate dose *(2019)*
+
+Dose of ulipristal acetate for emergency contraception:
+
+- A. 300 mg
+- B. 30 mg
+- C. 300 µg
+- D. 30 µg
+
+<details><summary>Answer</summary>
+
+**B. 30 mg** — Single 30 mg PO within 120 hours (5 days) of unprotected intercourse. Selective progesterone receptor modulator; delays ovulation.
+
+</details>
+
+### Q104 — Major source of amniotic fluid after 20 weeks *(2019)*
+
+Major contribution to amniotic fluid after 20 weeks of gestation comes from:
+
+- A. Ultrafiltrate of maternal plasma
+- B. Fetal urine
+- C. Fetal lung fluid
+- D. Fetal skin
+
+<details><summary>Answer</summary>
+
+**B. Fetal urine** — After 20 weeks, fetal urination is the dominant source of amniotic fluid (~500–1000 mL/day at term). Bilateral renal agenesis → severe oligohydramnios (Potter sequence).
+
+</details>
+
+### Q105 — PGF2α maximum dose in PPH *(2019)*
+
+Maximum cumulative dose of 15-methyl PGF2α (carboprost) in PPH:
+
+- A. 2000 µg
+- B. 200 µg
+- C. 2 mg
+- D. 20 mg
+
+<details><summary>Answer</summary>
+
+**C. 2 mg** — 0.25 mg IM every 15 min; max 8 doses = 2 mg total. Contraindicated in asthma (causes bronchospasm).
+
+</details>
+
+### Q106 — Macrosomia at 34 weeks — associated condition *(2019)*
+
+A 34-week fetus weighing 3 kg with macrosomic features is associated with:
+
+- A. Anaemia
+- B. Maternal diabetes
+- C. APH
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Maternal diabetes** — Fetal hyperinsulinaemia from maternal hyperglycaemia → fat deposition → macrosomia (>4 kg term, or 90th centile). ACOG: >4500 g; Indian context >4000 g.
+
+</details>
+
+### Q107 — Adenomyosis on hysterectomy specimen *(2019)*
+
+30-year-old with dysmenorrhoea, dyspareunia, chronic pelvic pain undergoes hysterectomy. Cut section shows endometrial glands deep within the myometrium. Diagnosis?
+
+- A. Adenomyosis
+- B. Fibroids
+- C. Leiomyoma
+- D. Endometriosis
+
+<details><summary>Answer</summary>
+
+**A. Adenomyosis** — Endometrial glands/stroma >2.5 mm deep into myometrium. Bulky globular uterus. Hysterectomy is curative.
+
+</details>

@@ -1694,3 +1694,382 @@ All of the following are absolute contraindications to IUCD insertion EXCEPT:
 **D. Uterine malformation** — Absolute contraindications: pregnancy, active PID, undiagnosed vaginal bleeding, cervical/uterine malignancy, previous ectopic pregnancy. Uterine malformation (distorted cavity) is a relative contraindication (WHO MEC 3/4), not absolute.
 
 </details>
+
+---
+
+## Obstetrics & Gynaecology (continued)
+
+### Q103 — Meconium colour pigment *(2020)*
+
+The dark greenish-black colour of meconium is due to:
+
+- A. Bilirubin
+- B. Biliverdin
+- C. Lanugo
+- D. Vernix
+
+<details><summary>Answer</summary>
+
+**B. Biliverdin** — Meconium contains desquamated fetal cells, lanugo, glycerophospholipids, vernix, swallowed amniotic debris. The greenish-black pigment is biliverdin.
+
+</details>
+
+### Q104 — True hermaphrodite — karyotype *(2020)*
+
+The most common karyotype of a true hermaphrodite (ovotesticular DSD) is:
+
+- A. 45 XO streak gonads
+- B. 46 XX with ovotestis
+- C. 47 XY+9
+- D. 47 XX
+
+<details><summary>Answer</summary>
+
+**B. 46 XX with ovotestis** — In ~90% of ovotesticular DSD cases the karyotype is 46 XX. Patients have both testicular and ovarian tissue (ovotestis or one of each).
+
+</details>
+
+### Q105 — Heavy menstrual bleeding — next step *(2020)*
+
+33-year-old with 6 months of heavy menstrual bleeding, normal examination and USG; failed non-hormonal therapy. Next step?
+
+- A. Empirical hormonal therapy
+- B. Endometrial sampling
+- C. Hysterectomy
+- D. Mirena IUS
+
+<details><summary>Answer</summary>
+
+**B. Endometrial sampling** — Histological assessment must precede hormonal therapy in AUB to rule out hyperplasia/malignancy and characterise the endometrium, especially when imaging is unrevealing.
+
+</details>
+
+### Q106 — Postmenopausal osteoporosis — first-line drug *(2020)*
+
+First-line drug for postmenopausal osteoporosis is:
+
+- A. OCP
+- B. Bisphosphonates
+- C. Raloxifene
+- D. Strontium
+
+<details><summary>Answer</summary>
+
+**B. Bisphosphonates** — Alendronate, risedronate, ibandronate inhibit osteoclastic resorption; first-line for postmenopausal osteoporosis and steroid-induced osteoporosis. Raloxifene = SERM, alternative.
+
+</details>
+
+### Q107 — Prolactin — time of peak secretion *(2020)*
+
+Prolactin secretion is maximum at:
+
+- A. 24 hours after delivery
+- B. REM sleep
+- C. 2 hours of running
+- D. 24 hours after ovulation
+
+<details><summary>Answer</summary>
+
+**A. 24 hours after delivery** — Sudden withdrawal of placental estrogen unleashes prolactin secretion; physiological surge supports lactogenesis II. Prolactin also rises in NREM sleep, exercise, and with TRH/dopamine antagonists.
+
+</details>
+
+### Q108 — Emergency contraception — which is NOT used *(2020)*
+
+All are used for emergency postcoital contraception EXCEPT:
+
+- A. Cu-T (copper IUD)
+- B. Mifepristone (RU 486)
+- C. High-dose ethinyl estradiol
+- D. Danazol
+
+<details><summary>Answer</summary>
+
+**D. Danazol** — Approved EC methods: levonorgestrel, ulipristal, mifepristone, Yuzpe regimen (high-dose EE + LNG), and copper IUD (gold standard, within 5 days). Danazol is not used for EC.
+
+</details>
+
+### Q109 — Sensitised Rh-negative mother — modern assessment *(2020)*
+
+In modern obstetrics, the mainstay for assessing fetal anaemia in a sensitised Rh-negative mother is:
+
+- A. MCA Doppler peak systolic velocity
+- B. Fetal blood sampling
+- C. Serial amniocentesis (Liley curve)
+- D. Biophysical profile
+
+<details><summary>Answer</summary>
+
+**A. MCA Doppler peak systolic velocity** — MCA-PSV >1.5 MoM predicts moderate-to-severe fetal anaemia; non-invasive and has replaced serial amniocentesis. Cordocentesis is confirmatory and therapeutic.
+
+</details>
+
+### Q110 — Accidental X-ray in 7-week pregnancy *(2020)*
+
+A 7-weeks pregnant woman has a single accidental low-dose X-ray exposure. Best management?
+
+- A. Continue pregnancy and reassure
+- B. Therapeutic termination
+- C. Chromosomal analysis (amnio/CVS)
+- D. Pre-invasive diagnostic testing
+
+<details><summary>Answer</summary>
+
+**A. Continue pregnancy** — Diagnostic X-rays deliver well below threshold (<5 rad). Counselling threshold for elective termination: >15 rad in 2nd/3rd trimester or >5 rad in 1st trimester.
+
+</details>
+
+### Q111 — Meiosis — where it occurs *(2020)*
+
+Meiosis (completion of Meiosis I) takes place in:
+
+- A. Adult ovary
+- B. Prepubertal testis
+- C. Ovary at birth
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Adult ovary** — Primary oocytes arrest in prophase I until puberty; Meiosis I completes just before ovulation. Spermatogenesis (meiosis in testis) only begins at puberty.
+
+</details>
+
+### Q112 — Twins, first breech, pre-eclampsia at 38 weeks *(2020)*
+
+DCDA twins at 38 weeks, first twin breech, BP 140/96, 1+ proteinuria. Management?
+
+- A. Immediate LSCS
+- B. Induction at 40 weeks
+- C. Immediate induction with vaginal delivery
+- D. Induction only if eclampsia signs
+
+<details><summary>Answer</summary>
+
+**A. Immediate LSCS** — Mild pre-eclampsia at term + first twin non-cephalic → caesarean is the safest mode of delivery. Term pre-eclampsia warrants delivery; non-cephalic first twin contraindicates vaginal birth.
+
+</details>
+
+### Q113 — Gravida-parity counting in twins *(2020)*
+
+A 36-week pregnant lady with a previous delivery of twins. Her score is:
+
+- A. G2P1
+- B. G2P2
+- C. G3P2
+- D. G3P3
+
+<details><summary>Answer</summary>
+
+**A. G2P1** — Gravida counts pregnancies (twins = one pregnancy). Parity counts births after 20 weeks (one event regardless of fetal number). Two pregnancies, one previous birth → G2P1.
+
+</details>
+
+### Q114 — Misoprostol — prostaglandin analogue *(2020)*
+
+Misoprostol used in induction of labour is an analogue of:
+
+- A. PG E1
+- B. PG E2
+- C. PG I2
+- D. PG F2α
+
+<details><summary>Answer</summary>
+
+**A. PG E1** — Misoprostol is a methyl ester of PGE1. Used for cervical ripening, induction of labour, medical abortion, and atonic PPH (off-label).
+
+</details>
+
+### Q115 — Hegar's sign *(2020)*
+
+Softening of the isthmus making the cervix feel separated from the body of the uterus at 6–8 weeks is called:
+
+- A. Goodell's sign
+- B. Chadwick's sign
+- C. Piskacek's sign
+- D. Hegar's sign
+
+<details><summary>Answer</summary>
+
+**D. Hegar's sign** — Soft compressible isthmus contrasting with firm cervix and soft fundus at 6–8 weeks. Goodell = cervical softening; Chadwick = bluish vagina; Piskacek = asymmetric uterine enlargement.
+
+</details>
+
+### Q116 — Primary amenorrhoea + clitoromegaly — enzyme deficiency *(2020)*
+
+A 13-year-old, 46 XX, with primary amenorrhoea and clitoromegaly. Most likely enzyme deficiency?
+
+- A. 21-α hydroxylase
+- B. 11-β hydroxylase
+- C. 17-α hydroxylase
+- D. 3-β hydroxysteroid dehydrogenase
+
+<details><summary>Answer</summary>
+
+**A. 21-α hydroxylase deficiency** — Commonest cause (>90%) of CAH. Cortisol↓, aldosterone↓, androgens↑ → virilisation of 46 XX, salt-wasting in classic form. Diagnosis: elevated 17-OH progesterone.
+
+</details>
+
+### Q117 — Primary amenorrhoea + cyclic abdominal pain *(2020)*
+
+A 16-year-old with primary amenorrhoea, cyclic lower abdominal pain, vaginal bulge on per-rectal examination. Diagnosis?
+
+- A. Imperforate hymen
+- B. Transverse vaginal septum
+- C. Vaginal agenesis
+- D. MRKH syndrome
+
+<details><summary>Answer</summary>
+
+**A. Imperforate hymen** — Cryptomenorrhoea (haematocolpos) presents with primary amenorrhoea + cyclic pain + bluish bulging hymen. Treatment: cruciate incision and drainage.
+
+</details>
+
+### Q118 — Pubertal change NOT estrogen-dependent *(2020)*
+
+Which is NOT an estrogen-dependent pubertal change?
+
+- A. Hair growth (pubic/axillary)
+- B. Menstruation
+- C. Vaginal cornification
+- D. Cervical mucus production
+
+<details><summary>Answer</summary>
+
+**A. Pubic/axillary hair growth** — Pubarche is driven by adrenal androgens (DHEAS, testosterone). Menstruation, vaginal cornification, breast and cervical mucus = estrogen-dependent. Note: per key, the marked answer is menstruation in the original.
+
+</details>
+
+### Q119 — Hysteroscopy distension media for bipolar cautery *(2020)*
+
+Distension media used for hysteroscopy with bipolar cautery:
+
+- A. Glycine
+- B. Normal saline
+- C. CO2
+- D. Dextran 70
+
+<details><summary>Answer</summary>
+
+**B. Normal saline** — Bipolar instruments work in ionic media (NS). Monopolar requires non-ionic (glycine/sorbitol). NS reduces TUR/fluid-overload syndromes.
+
+</details>
+
+### Q120 — Paralytic ileus after emergency LSCS *(2020)*
+
+Pregnant woman with meconium-stained liquor had emergency LSCS; days later deteriorates with USG showing edematous bowel. Cause?
+
+- A. Meconium peritonitis
+- B. Paralytic ileus
+- C. Adhesive intestinal obstruction
+- D. Intra-abdominal abscess
+
+<details><summary>Answer</summary>
+
+**B. Paralytic ileus** — Adynamic ileus post-LSCS — absent bowel sounds, distension, vomiting, edematous bowel on USG. Adhesions cause mechanical obstruction. Treat with NG decompression, IV fluids.
+
+</details>
+
+### Q121 — Genital TB — tubo-ovarian mass *(2020)*
+
+18-year-old with 6 months amenorrhoea, low-grade fever, weight loss, abdominal pain, left adnexal mass. Diagnosis?
+
+- A. Fibroid with degeneration
+- B. Pelvic TB with tubo-ovarian mass
+- C. Ectopic pregnancy
+- D. Granulosa cell tumour
+
+<details><summary>Answer</summary>
+
+**B. Pelvic TB with tubo-ovarian mass** — Constitutional symptoms + secondary amenorrhoea + adnexal mass in young Indian female. Tubercular salpingitis + pyosalpinx → tubo-ovarian mass. Causes infertility.
+
+</details>
+
+### Q122 — Lap ring applicator — use *(2020)*
+
+A laparoscopic ring (Falope) applicator is used for:
+
+- A. Laparoscopic sterilisation
+- B. Removal of ectopic pregnancy
+- C. Termination of pregnancy
+- D. Creating pneumoperitoneum
+
+<details><summary>Answer</summary>
+
+**A. Laparoscopic sterilisation** — Silastic Falope ring is placed over a knuckle of fallopian tube to occlude it. Reversible compared with cautery but with similar efficacy.
+
+</details>
+
+### Q123 — Caudal regression syndrome — maternal condition *(2020)*
+
+A fetus with caudal regression syndrome (absent sacrum, short spine) is most associated with:
+
+- A. ACE inhibitor exposure
+- B. GDM
+- C. Pregestational diabetes mellitus
+- D. Valproate exposure
+
+<details><summary>Answer</summary>
+
+**C. Pregestational diabetes mellitus** — Caudal regression syndrome is ~25× more common with pregestational DM. Sacral agenesis ± lumbar agenesis ± lower limb deformities; preconception glycaemic control reduces risk.
+
+</details>
+
+### Q124 — Partogram — arrest of descent *(2020)*
+
+Partogram: 7 AM cervix 4 cm/head 5/5; 9 AM 5 cm/3/5; 11 AM 7 cm/2/5; later 10 cm but head still 2/5 with strong contractions. Diagnosis?
+
+- A. Cephalopelvic disproportion (CPD)
+- B. Maternal exhaustion
+- C. Inadequate uterine contractions
+- D. Uterine rupture
+
+<details><summary>Answer</summary>
+
+**A. CPD** — Full dilatation with adequate contractions but no descent (arrest of descent) = cephalopelvic disproportion → caesarean section.
+
+</details>
+
+### Q125 — Postmenopausal bleeding + endometrial polyp *(2020)*
+
+60-year-old with intermittent bleeding; USG shows pedunculated intracavitary lesion with central vessel. Diagnosis?
+
+- A. Endometrial polyp
+- B. Endometrial carcinoma
+- C. Submucosal fibroid
+- D. Adenomyosis
+
+<details><summary>Answer</summary>
+
+**A. Endometrial polyp** — Pedicled overgrowth with feeding vessel on Doppler ("pedicle artery sign"). Hysteroscopic polypectomy is diagnostic and therapeutic; biopsy mandatory in postmenopausal women.
+
+</details>
+
+### Q126 — Bilateral hydrosalpinx on HSG *(2020)*
+
+HSG showing bilateral dilated tubes with no peritoneal spillage. Diagnosis?
+
+- A. Bilateral hydrosalpinx
+- B. Bilateral cornual block
+- C. Normal HSG
+- D. Bicornuate uterus
+
+<details><summary>Answer</summary>
+
+**A. Bilateral hydrosalpinx** — Distally blocked tubes filled with fluid → distended tubular contour without spillage. Associated with infertility; salpingectomy before IVF improves outcomes.
+
+</details>
+
+### Q127 — Ovarian hyperstimulation syndrome (OHSS) *(2020)*
+
+A lady on infertility treatment develops ascites, abdominal pain, dyspnoea; USG shows enlarged multicystic ovaries. Diagnosis?
+
+- A. PCOS
+- B. OHSS
+- C. Theca lutein cysts
+- D. Mucinous cystadenomas
+
+<details><summary>Answer</summary>
+
+**B. OHSS** — Iatrogenic syndrome of capillary leak after gonadotropin stimulation: ascites, pleural effusion, hemoconcentration, thromboembolism. Severe form needs admission, fluid balance, paracentesis.
+
+</details>
