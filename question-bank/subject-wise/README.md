@@ -15,7 +15,7 @@ Multi-year question pools grouped by subject, drawn from PrepLadder, DigiNerve, 
 | [forensic-medicine.md](forensic-medicine.md) | Forensic Medicine & Toxicology | 35 |
 | [medicine.md](medicine.md) | General Medicine | 20 |
 | [microbiology.md](microbiology.md) | Microbiology | 20 |
-| [obstetrics-gynaecology.md](obstetrics-gynaecology.md) | Obstetrics & Gynaecology | 77 |
+| [obstetrics-gynaecology.md](obstetrics-gynaecology.md) | Obstetrics & Gynaecology | 105 |
 | [ophthalmology.md](ophthalmology.md) | Ophthalmology | 31 |
 | [orthopaedics.md](orthopaedics.md) | Orthopaedics | 40 |
 | [pathology.md](pathology.md) | Pathology | 18 |
@@ -26,7 +26,7 @@ Multi-year question pools grouped by subject, drawn from PrepLadder, DigiNerve, 
 | [radiology.md](radiology.md) | Radiology | 36 |
 | [surgery.md](surgery.md) | General Surgery | 20 |
 
-**Total: ~882 subject-wise questions** across all 19 NBE NEET-PG subjects.
+**Total: ~910 subject-wise questions** across all 19 NBE NEET-PG subjects.
 
 ## Format
 
