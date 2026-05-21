@@ -2073,3 +2073,241 @@ A lady on infertility treatment develops ascites, abdominal pain, dyspnoea; USG 
 **B. OHSS** — Iatrogenic syndrome of capillary leak after gonadotropin stimulation: ascites, pleural effusion, hemoconcentration, thromboembolism. Severe form needs admission, fluid balance, paracentesis.
 
 </details>
+
+### Q128 — Wolffian duct remnants — location *(2020)*
+
+The remnants of Wolffian ducts in females are located in:
+
+- A. Pouch of Douglas
+- B. Leaves of broad ligament
+- C. Uterovesical pouch
+- D. Iliac fossa
+
+<details><summary>Answer</summary>
+
+**B. Leaves of broad ligament** — Gartner duct and other Wolffian (mesonephric) remnants are found in the broad ligament and lateral vaginal wall.
+
+</details>
+
+---
+
+### Q129 — Fertilization — site in fallopian tube *(2020)*
+
+In which part of the fallopian tube does fertilization occur?
+
+- A. Ampulla
+- B. Isthmus
+- C. Interstitial part
+- D. Infundibulum
+
+<details><summary>Answer</summary>
+
+**A. Ampulla** — Fertilization most commonly occurs in the ampulla, the longest and widest part of the fallopian tube.
+
+</details>
+
+---
+
+### Q130 — Trichomonas vaginalis — presentation *(2020)*
+
+A patient has foul-smelling frothy vaginal discharge, intense itching, and strawberry cervix. Identify the causative organism.
+
+- A. Trichomonas vaginalis
+- B. Gardnerella vaginalis
+- C. Neisseria gonorrhoeae
+- D. Candida albicans
+
+<details><summary>Answer</summary>
+
+**A. Trichomonas vaginalis** — Frothy foul-smelling discharge with colpitis macularis (strawberry cervix) is characteristic of trichomoniasis.
+
+</details>
+
+---
+
+### Q131 — Female condom (image-based) *(2020)*
+
+Identify the contraceptive shown in the image.
+
+- A. Male condom
+- B. Female condom
+- C. Diaphragm
+- D. Cervical cap
+
+<details><summary>Answer</summary>
+
+**B. Female condom** — The female condom is a polyurethane pouch with inner and outer rings that lines the vagina and provides barrier contraception.
+
+</details>
+
+---
+
+### Q132 — Sheehan syndrome — diagnosis *(2020)*
+
+A woman presents with amenorrhea for one year, history of postpartum haemorrhage, and lactational failure. Probable diagnosis?
+
+- A. Sheehan syndrome
+- B. Rotor syndrome
+- C. Prolactinoma
+- D. Acromegaly
+
+<details><summary>Answer</summary>
+
+**A. Sheehan syndrome** — Postpartum pituitary necrosis after severe PPH causes lactational failure, amenorrhea, and hypopituitarism (panhypopituitarism).
+
+</details>
+
+---
+
+### Q133 — Granuloma inguinale — causative organism *(2020)*
+
+What is the causative agent for granuloma inguinale?
+
+- A. Calymmatobacterium granulomatis
+- B. Chlamydia trachomatis
+- C. Ureaplasma urealyticum
+- D. Treponema pallidum
+
+<details><summary>Answer</summary>
+
+**A. Calymmatobacterium granulomatis** — Granuloma inguinale (donovanosis) is caused by Klebsiella granulomatis (formerly Calymmatobacterium granulomatis); Donovan bodies on smear are diagnostic.
+
+</details>
+
+---
+
+### Q134 — Vulval warts — causative organism *(2020)*
+
+Which of the following is the causative organism of vulval warts?
+
+- A. Human papillomavirus
+- B. Herpes simplex virus
+- C. Human immunodeficiency virus
+- D. Cytomegalovirus
+
+<details><summary>Answer</summary>
+
+**A. Human papillomavirus** — Vulval warts (condyloma acuminata) are most commonly caused by HPV types 6 and 11.
+
+</details>
+
+---
+
+### Q135 — Episiotomy extension — structure injured *(2020)*
+
+After delivery, an episiotomy extends backwards beyond the perineal body. Which structure is likely injured?
+
+- A. External anal sphincter
+- B. Ischiocavernosus
+- C. Bulbospongiosus
+- D. Urethral sphincter
+
+<details><summary>Answer</summary>
+
+**A. External anal sphincter** — Extension beyond the perineal body into the anal sphincter complex constitutes a third-degree perineal tear.
+
+</details>
+
+---
+
+### Q136 — Oligohydramnios at 18 weeks — likely cause *(2020)*
+
+At 18 weeks, a pregnant woman has uterine size corresponding to 16 weeks and USG shows oligohydramnios. Likely cause?
+
+- A. Renal agenesis
+- B. Fetal anaemia
+- C. Bartter syndrome
+- D. Anencephaly
+
+<details><summary>Answer</summary>
+
+**A. Renal agenesis** — Fetal urine is important for amniotic fluid after the early second trimester; bilateral renal agenesis causes early severe oligohydramnios (Potter sequence).
+
+</details>
+
+---
+
+### Q137 — Septate uterus — best corrective procedure *(2020)*
+
+A woman with recurrent abortions is found to have a septate uterus. Which corrective procedure has the best obstetric outcome?
+
+- A. Jones metroplasty
+- B. Strassmann metroplasty
+- C. Tompkins metroplasty
+- D. Transcervical resection of septum
+
+<details><summary>Answer</summary>
+
+**D. Transcervical resection of septum** — Hysteroscopic transcervical septal resection avoids uterine scarring and gives better reproductive outcomes with lower morbidity.
+
+</details>
+
+---
+
+### Q138 — Heavy menstrual bleeding — step after failed non-hormonal therapy *(2020)*
+
+A 33-year-old woman has menorrhagia for 3 months with normal cycle regularity; non-hormonal management has failed. What is the next step?
+
+- A. Uterine artery embolisation
+- B. Endometrial ablation
+- C. Hormonal therapy
+- D. Hysterectomy
+
+<details><summary>Answer</summary>
+
+**C. Hormonal therapy** — In heavy regular menstrual bleeding unresponsive to non-hormonal therapy, hormonal therapy (combined OCP or levonorgestrel IUS) is the next step before surgical options.
+
+</details>
+
+---
+
+### Q139 — Condyloma acuminata — presentation *(2020)*
+
+A woman has multiple warty lesions on the vulva and around the anal canal. This condition is most likely:
+
+- A. Condyloma acuminata
+- B. Molluscum contagiosum
+- C. Chancroid
+- D. Herpes
+
+<details><summary>Answer</summary>
+
+**A. Condyloma acuminata** — Multiple verrucous warty anogenital lesions are condyloma acuminata, commonly caused by HPV types 6 and 11; treated with podophyllin, trichloroacetic acid, or excision.
+
+</details>
+
+---
+
+### Q140 — Cervical cancer radiotherapy — Point A definition *(2020)*
+
+A woman with carcinoma cervix stage IIB is advised radiotherapy. Which statement regarding radiotherapy is FALSE?
+
+- A. Point B is 3 cm lateral to point A
+- B. Point A is 2 cm above the external os and 5 cm lateral to the internal uterine canal
+- C. Point A receives a dose of 7000 cGy
+- D. Point B receives a dose of 6000 cGy
+
+<details><summary>Answer</summary>
+
+**B. Point A is 2 cm above the external os and 5 cm lateral to the internal uterine canal** — Point A is 2 cm above the external os and 2 cm lateral to the uterine canal (not 5 cm). Point B is 3 cm lateral to Point A (5 cm from the midline).
+
+</details>
+
+---
+
+### Q141 — Radiotherapy — inverse square law *(2020)*
+
+A woman with endometrial carcinoma is undergoing radiotherapy. Which statement is TRUE?
+
+- A. Intensity is inversely proportional to squared distance
+- B. Small blood vessels are most radioresistant
+- C. Rapidly proliferating cells are most radioresistant
+- D. Small bowel is most radioresistant
+
+<details><summary>Answer</summary>
+
+**A. Intensity is inversely proportional to squared distance** — The inverse square law states that radiation intensity is inversely proportional to the square of the distance from the source.
+
+</details>
+
+---

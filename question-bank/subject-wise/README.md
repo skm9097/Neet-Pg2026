@@ -15,7 +15,7 @@ Multi-year question pools grouped by subject, drawn from PrepLadder, DigiNerve, 
 | [forensic-medicine.md](forensic-medicine.md) | Forensic Medicine & Toxicology | 35 |
 | [medicine.md](medicine.md) | General Medicine | 20 |
 | [microbiology.md](microbiology.md) | Microbiology | 20 |
-| [obstetrics-gynaecology.md](obstetrics-gynaecology.md) | Obstetrics & Gynaecology | 105 |
+| [obstetrics-gynaecology.md](obstetrics-gynaecology.md) | Obstetrics & Gynaecology | 297 |
 | [ophthalmology.md](ophthalmology.md) | Ophthalmology | 31 |
 | [orthopaedics.md](orthopaedics.md) | Orthopaedics | 40 |
 | [pathology.md](pathology.md) | Pathology | 18 |
@@ -26,7 +26,7 @@ Multi-year question pools grouped by subject, drawn from PrepLadder, DigiNerve, 
 | [radiology.md](radiology.md) | Radiology | 36 |
 | [surgery.md](surgery.md) | General Surgery | 20 |
 
-**Total: ~910 subject-wise questions** across all 19 NBE NEET-PG subjects.
+**Total: ~1,102 subject-wise questions** across all 19 NBE NEET-PG subjects.
 
 ## Format
 
@@ -45,4 +45,4 @@ Well-developed subjects: Community Medicine (260), Anatomy (99), Physiology (100
 
 ## Year-wise sets
 
-For complete year-wise papers, see the `../20XX/questions.md` files. 2025 and 2021 contain ~200 questions each. 2019–2024 contain 40–102 questions each.
+For complete year-wise papers, see the `../20XX/questions.md` files. 2025 and 2021 contain ~200 questions each. 2019–2024 contain 75–227 questions each.

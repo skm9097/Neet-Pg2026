@@ -1470,3 +1470,275 @@ A cyclist sustains a fracture of the surgical neck of the humerus after a fall. 
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
+
+### Q32 — Partogram CPD — management *(2023)*
+
+A partogram of a woman in labour shows oxytocin infusion already given. How will you manage the condition?
+
+- A. Forceps-assisted delivery
+- B. Vacuum-assisted delivery
+- C. Oxytocin infusion
+- D. Cesarean section
+
+<details><summary>Answer</summary>
+
+**D. Cesarean section** — The partogram indicates cephalopelvic disproportion with labour not progressing despite adequate contractions and oxytocin; emergency cesarean section is indicated.
+
+</details>
+
+---
+
+### Q33 — Asherman syndrome — procedure *(2023)*
+
+For which of the following procedures in the OT list can you preferably do hysteroscopy?
+
+- A. Tubal ligation
+- B. Asherman syndrome
+- C. Endocervical polyp
+- D. Subserosal fibroid
+
+<details><summary>Answer</summary>
+
+**B. Asherman syndrome** — Hysteroscopy is the gold standard for diagnosis and treatment of intrauterine adhesions (Asherman syndrome); lysis of adhesions under direct vision.
+
+</details>
+
+---
+
+### Q34 — Cervical cancer IIB — treatment *(2023)*
+
+A 50-year-old woman has foul-smelling bloody mucus discharge, necrotizing cervical growth, and lateral parametrium involvement. Management?
+
+- A. Chemotherapy
+- B. Brachytherapy
+- C. Chemoradiation
+- D. Surgery
+
+<details><summary>Answer</summary>
+
+**C. Chemoradiation** — Parametrial involvement indicates stage IIB cervical cancer, for which concurrent cisplatin-based chemoradiation is the standard treatment.
+
+</details>
+
+---
+
+### Q35 — Laparoscopy — disadvantage over open surgery *(2023)*
+
+A woman undergoing complete laparoscopic hysterectomy asks about disadvantages of laparoscopy over open surgery. Which is a disadvantage?
+
+- A. Prolonged recovery time
+- B. Not knowing the extent of thermal burns
+- C. Increased bleeding
+- D. Increased pain
+
+<details><summary>Answer</summary>
+
+**B. Not knowing the extent of thermal burns** — Thermal injury during laparoscopy may be occult because the full extent of diathermy/electrosurgery damage is not always visible at time of operation.
+
+</details>
+
+---
+
+### Q36 — Unruptured ectopic — management *(2023)*
+
+A hemodynamically stable woman with 6 weeks amenorrhoea, vaginal bleeding, mild abdominal pain, beta-hCG 2800 IU/L, and a left adnexal mass 3 × 2.5 cm has unruptured ectopic pregnancy. Management?
+
+- A. Oral methotrexate
+- B. Single-dose methotrexate injection
+- C. Serial methotrexate plus leucovorin rescue
+- D. Salpingectomy
+
+<details><summary>Answer</summary>
+
+**B. Single-dose methotrexate injection** — Stable unruptured ectopic pregnancy with small mass (<3.5 cm) and beta-hCG below 5000 is suitable for single-dose intramuscular methotrexate.
+
+</details>
+
+---
+
+### Q37 — Bartholin abscess — diagnosis *(2023)*
+
+A woman has painful tender swelling with redness in the labial/perineal area and difficulty walking and sitting. Diagnosis?
+
+- A. Chlamydial infection
+- B. Bartholin abscess
+- C. Genital tuberculosis
+- D. Herpes infection
+
+<details><summary>Answer</summary>
+
+**B. Bartholin abscess** — Painful tender fluctuant swelling at the posterior introitus/labium majus with erythema suggests Bartholin gland abscess; treated by word catheter or marsupialization.
+
+</details>
+
+---
+
+### Q38 — Infertility evaluation — timing *(2023)*
+
+A 23-year-old woman has regular intercourse for 6 months but has not conceived. Next best step?
+
+- A. Semen analysis for husband
+- B. Reassure and review the couple after 6 months
+- C. Hysterolaparoscopy
+- D. Diagnostic hysteroscopy
+
+<details><summary>Answer</summary>
+
+**B. Reassure and review the couple after 6 months** — Infertility evaluation is generally started after 12 months of regular unprotected intercourse in women <35 years (6 months in women >35 years) unless risk factors exist.
+
+</details>
+
+---
+
+### Q39 — PID — causative organism *(2023)*
+
+A 28-year-old woman with multiple sexual partners has lower abdominal pain, minimal discharge, and intermenstrual bleeding. Most likely cause?
+
+- A. Herpes simplex
+- B. Genital tuberculosis
+- C. Candida
+- D. Neisseria gonorrhoeae
+
+<details><summary>Answer</summary>
+
+**D. Neisseria gonorrhoeae** — Gonorrhoea can cause cervicitis and PID presenting with lower abdominal pain, purulent discharge, and intermenstrual bleeding in a sexually active woman.
+
+</details>
+
+---
+
+### Q40 — Transverse lie near term — management *(2023)*
+
+A G3P2L2 woman at 36+6 weeks has transverse lie, adequate liquor, normal placenta, no risk factors, and previous normal vaginal deliveries. Management?
+
+- A. Cesarean section
+- B. External cephalic version
+- C. Expectant management
+- D. Induction of labour
+
+<details><summary>Answer</summary>
+
+**B. External cephalic version** — In uncomplicated transverse lie near term before labour, ECV is attempted if there are no contraindications; successful in ~50% of cases.
+
+</details>
+
+---
+
+### Q41 — OHSS after gonadotropin therapy *(2023)*
+
+A woman treated for infertility with human menopausal gonadotropin develops sudden abdominal pain, nausea, vomiting, breathlessness, and enlarged cystic ovaries on ultrasound. Most likely diagnosis?
+
+- A. Ovarian hyperstimulation syndrome
+- B. Polycystic ovarian syndrome
+- C. Theca lutein cysts
+- D. Granulosa cell tumor
+
+<details><summary>Answer</summary>
+
+**A. Ovarian hyperstimulation syndrome** — Gonadotropin therapy followed by ovarian enlargement, ascites, and respiratory symptoms suggests OHSS; managed conservatively with fluid balance and paracentesis if needed.
+
+</details>
+
+---
+
+### Q42 — Hysteroscopy fluid deficit — complication *(2023)*
+
+During hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL is estimated. Immediate complication?
+
+- A. Acute tubular necrosis
+- B. DIC
+- C. Pulmonary edema
+- D. Thromboembolism
+
+<details><summary>Answer</summary>
+
+**C. Pulmonary edema** — Excess absorption of hysteroscopic distension fluid causes fluid overload; pulmonary oedema is the most immediate life-threatening complication.
+
+</details>
+
+---
+
+### Q43 — HPV vaccine for daughter of cervical cancer patient *(2023)*
+
+A 54-year-old woman has advanced cervical cancer and a 14-year-old daughter. What advice should be given for the daughter?
+
+- A. Advise HPV vaccine
+- B. Screen for BRCA mutation
+- C. Screen for PTEN mutation
+- D. Perform cervical biopsy
+
+<details><summary>Answer</summary>
+
+**A. Advise HPV vaccine** — Cervical cancer is HPV-related, not hereditary; HPV vaccination (Cervarix/Gardasil) is appropriate for the adolescent daughter as primary prevention.
+
+</details>
+
+---
+
+### Q44 — Primary amenorrhea + bilateral inguinal masses *(2023)*
+
+A 17-year-old girl has primary amenorrhea, no breast or pubic/axillary hair development, normal height, bilateral inguinal masses, and absent uterus and ovaries on ultrasound. Most likely diagnosis?
+
+- A. Complete androgen insensitivity syndrome
+- B. Hypergonadotropic hypogonadism
+- C. Turner syndrome
+- D. Polycystic ovary syndrome
+
+<details><summary>Answer</summary>
+
+**B. Hypergonadotropic hypogonadism** — Bilateral inguinal testes, absent Mullerian structures, absent breast development, and absent pubic hair suggest 46XY hypergonadotropic hypogonadism (Leydig cell/LH receptor dysfunction).
+
+</details>
+
+---
+
+### Q45 — Imperforate hymen — cyclic pain *(2023)*
+
+A 16-year-old girl has cyclic pelvic pain every month, primary amenorrhea, suprapubic bulge, and PR examination shows anterior bulging swelling. Most likely diagnosis?
+
+- A. Transverse vaginal septum above the vagina
+- B. Vaginal atresia
+- C. Imperforate hymen
+- D. Cervical agenesis
+
+<details><summary>Answer</summary>
+
+**C. Imperforate hymen** — Cryptomenorrhoea with cyclic pain, suprapubic mass, and bluish bulging membrane is typical of imperforate hymen; treated by cruciate incision and drainage.
+
+</details>
+
+---
+
+### Q46 — Obstetric score — previous twin delivery (current pregnancy) *(2023)*
+
+A pregnant woman already had twins delivered by normal delivery and is now pregnant. Correct obstetric score?
+
+- A. G3P2
+- B. G3P1
+- C. G2P1
+- D. G2P2
+
+<details><summary>Answer</summary>
+
+**C. G2P1** — A previous twin delivery counts as one pregnancy and one parity; with current pregnancy the score is gravida 2, para 1.
+
+</details>
+
+---
+
+### Q47 — Supine hypotension in late pregnancy *(2023)*
+
+A woman at 36 weeks feels lightheaded and dizzy when lying on her back, but feels well on her side or while walking. Most likely reason?
+
+- A. Increased intracranial pressure
+- B. Inferior vena cava compression
+- C. Heavy meals
+- D. Excessive venous pooling at the feet
+
+<details><summary>Answer</summary>
+
+**B. Inferior vena cava compression** — Supine position in late pregnancy compresses the IVC, reducing venous return and causing the supine hypotension syndrome (aortocaval compression syndrome).
+
+</details>
+
+---

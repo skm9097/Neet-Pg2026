@@ -2614,3 +2614,2430 @@ A 38-year-old woman with heavy regular periods (changing pads every 2 hours) and
 </details>
 
 ---
+
+## Pharmacology & Physiology
+
+### Q156 — Drugs NOT crossing placenta
+
+Which of the following drugs does NOT cross the placental barrier?
+
+- A. Heparin
+- B. Morphine
+- C. Naloxone
+- D. Warfarin
+
+<details><summary>Answer</summary>
+
+**A. Heparin** — Heparin is a large, highly charged molecule that cannot cross the placenta; warfarin, morphine, and naloxone all cross freely. Heparin is therefore preferred as anticoagulant in pregnancy.
+
+</details>
+
+---
+
+### Q157 — HRT: NOT indicated for CAD prevention
+
+HRT is NOT recommended for which of the following indications?
+
+- A. Hot flushes and night sweats
+- B. Prevention of coronary artery disease
+- C. Osteoporosis prevention
+- D. Vaginal atrophy
+
+<details><summary>Answer</summary>
+
+**B. Prevention of coronary artery disease** — The WHI trial showed HRT (combined oestrogen-progestogen) does not protect against CAD; it may increase cardiovascular risk in older postmenopausal women. HRT relieves vasomotor symptoms, prevents bone loss, and treats vaginal atrophy.
+
+</details>
+
+---
+
+### Q158 — Latent phase of labour: false statement
+
+Which of the following is NOT true about the latent phase of labour?
+
+- A. Starts with onset of regular uterine contractions
+- B. Begins at the end of the active phase
+- C. Ends at 6 cm cervical dilatation (ACOG 2014)
+- D. Patient may present with mild crampy pain
+
+<details><summary>Answer</summary>
+
+**B. Begins at the end of the active phase** — The latent phase PRECEDES the active phase; it begins with onset of regular uterine contractions and ends at 6 cm dilatation. False labour may mimic the latent phase.
+
+</details>
+
+---
+
+### Q159 — Implantation timing
+
+How many days after ovulation does implantation of the blastocyst occur?
+
+- A. 3–5 days
+- B. 7–9 days
+- C. 10–12 days
+- D. 13–15 days
+
+<details><summary>Answer</summary>
+
+**B. 7–9 days** — Implantation occurs approximately 7–9 days after ovulation (day 20–22 of a 28-day cycle); the blastocyst hatches from the zona pellucida around day 5–6 before implanting into the secretory endometrium.
+
+</details>
+
+---
+
+### Q160 — Sheehan's syndrome
+
+A 35-year-old multiparous woman has 12 months of amenorrhoea, failure of lactation after her second delivery, and an empty sella on skull imaging. The diagnosis is:
+
+- A. Menopause
+- B. Pituitary adenoma
+- C. Sheehan's syndrome
+- D. Intraductal papilloma
+
+<details><summary>Answer</summary>
+
+**C. Sheehan's syndrome** — Postpartum pituitary necrosis (Sheehan's) follows massive obstetric haemorrhage causing pituitary ischaemia; classic triad: agalactia, secondary amenorrhoea, empty sella. Anterior pituitary hormones are deficient (GH, FSH/LH, TSH, ACTH, prolactin).
+
+</details>
+
+---
+
+### Q161 — Displaced IUCD management
+
+A woman with a copper IUD inserted 2 years ago has absent threads on speculum examination; pelvic ultrasound shows the device partially displaced into the abdominal cavity. Management:
+
+- A. Hysteroscopy
+- B. No removal needed
+- C. IUCD hook retrieval
+- D. Laparoscopy
+
+<details><summary>Answer</summary>
+
+**D. Laparoscopy** — A displaced IUD in the abdominal cavity must be removed laparoscopically to prevent bowel adhesions, perforation, and other visceral injury.
+
+</details>
+
+---
+
+### Q162 — Cervical cancer FIGO staging: investigation excluded
+
+All of the following investigations are used in FIGO staging of carcinoma cervix (traditional pre-2018 system) EXCEPT:
+
+- A. CT scan
+- B. Intravenous pyelography
+- C. Cystoscopy
+- D. Proctoscopy
+
+<details><summary>Answer</summary>
+
+**A. CT scan** — Traditional FIGO cervical cancer staging (pre-2018 revision) was clinical only; permitted investigations included IVP, cystoscopy, proctoscopy, chest X-ray, and barium enema. CT/MRI/PET were not permitted for staging (though used for treatment planning).
+
+</details>
+
+---
+
+### Q163 — DUB: not a postmenopausal diagnosis
+
+Dysfunctional uterine bleeding (DUB) is seen in all of the following EXCEPT:
+
+- A. Adolescence
+- B. Following childbirth
+- C. Premenopausal period
+- D. Postmenopausal period
+
+<details><summary>Answer</summary>
+
+**D. Postmenopausal period** — DUB is by definition anovulatory bleeding in a woman of reproductive age; it does not occur after menopause. Postmenopausal bleeding always requires investigation to exclude endometrial carcinoma.
+
+</details>
+
+---
+
+### Q164 — Earliest symptom of carcinoma cervix
+
+The EARLIEST symptom of carcinoma cervix is:
+
+- A. Irregular vaginal bleeding
+- B. Post-coital bleeding
+- C. Foul-smelling vaginal discharge
+- D. Pelvic pain
+
+<details><summary>Answer</summary>
+
+**A. Irregular vaginal bleeding** — The earliest symptom is irregular, painless vaginal bleeding; post-coital bleeding is characteristic but appears as the lesion becomes more advanced. Pain is a late symptom.
+
+</details>
+
+---
+
+### Q165 — Androgen exposure in female fetus
+
+Excess androgen exposure of a female fetus in early embryogenesis leads to virilisation of:
+
+- A. Müllerian ducts
+- B. Ovary
+- C. Urogenital sinus
+- D. Mesonephric ducts
+
+<details><summary>Answer</summary>
+
+**C. Urogenital sinus** — Excess androgens cause virilisation of the urogenital sinus (labioscrotal fusion, clitoral hypertrophy, posterior fusion) while Müllerian-derived internal genitalia (uterus, tubes, upper vagina) develop normally; seen in congenital adrenal hyperplasia (21α-hydroxylase deficiency).
+
+</details>
+
+---
+
+### Q166 — Ideal contraceptive for lactating mother
+
+The ideal contraceptive for a woman who is exclusively breastfeeding is:
+
+- A. Barrier method alone
+- B. Combined oral contraceptive pill
+- C. Lactational amenorrhoea alone
+- D. Progestogen-only pill
+
+<details><summary>Answer</summary>
+
+**D. Progestogen-only pill** — Progestogen-only pills (mini-pills) do not suppress prolactin or milk production, unlike combined OCPs (oestrogen suppresses lactation). LAM alone is unreliable beyond 6 months or when breastfeeding is not exclusive.
+
+</details>
+
+---
+
+### Q167 — CIN III on PAP smear: next step
+
+A PAP smear in a 45-year-old woman shows CIN grade III (HSIL). The BEST next logical procedure is:
+
+- A. Cold-knife conisation
+- B. Colposcopy + directed biopsy
+- C. Hysterectomy
+- D. HPV DNA typing
+
+<details><summary>Answer</summary>
+
+**B. Colposcopy + directed biopsy** — Abnormal cytology must be confirmed histologically before treatment. Colposcopy identifies the lesion; directed biopsy provides tissue diagnosis for histological grading before proceeding to LLETZ/cone/hysterectomy.
+
+</details>
+
+---
+
+### Q168 — Metropathia haemorrhagica
+
+A period of amenorrhoea followed by sudden massive irregular bleeding in a premenopausal woman suggests:
+
+- A. Irregular ripening
+- B. Irregular shedding
+- C. Metropathia haemorrhagica
+- D. Normal menstruation
+
+<details><summary>Answer</summary>
+
+**C. Metropathia haemorrhagica** — Prolonged oestrogenic stimulation without progesterone (anovulation) leads to cystic glandular hyperplasia; when the oestrogen level falls, the thickened hyperplastic endometrium sheds irregularly causing heavy breakthrough bleeding after amenorrhoea.
+
+</details>
+
+---
+
+### Q169 — Imaging for uterine fibroids: false statement
+
+Regarding imaging of uterine fibroids, which statement is FALSE?
+
+- A. Ultrasound is ideal to confirm the diagnosis
+- B. Saline infusion sonography (SIS) better detects submucous fibroids
+- C. MRI is superior to ultrasound for identifying exact fibroid location
+- D. CT scanning is an adequate alternative to MRI
+
+<details><summary>Answer</summary>
+
+**D. CT scanning is an adequate alternative to MRI** — CT has poor soft-tissue contrast and cannot delineate fibroid location, vascularity, and relationship to endometrium as well as MRI; MRI is the gold standard for fibroid mapping pre-myomectomy or UAE.
+
+</details>
+
+---
+
+### Q170 — LNG-IUS (Mirena): NOT indicated for
+
+Levonorgestrel-releasing IUD (LNG-IUS) is helpful in all of the following EXCEPT:
+
+- A. Menorrhagia
+- B. Dysmenorrhoea
+- C. Endometriosis
+- D. Pelvic inflammatory disease
+
+<details><summary>Answer</summary>
+
+**D. Pelvic inflammatory disease** — LNG-IUS helps in menorrhagia, dysmenorrhoea, and endometriosis. It is contraindicated in active PID and does not treat or prevent PID; the local progestogenic environment reduces ascent risk but does not confer protection against gonorrhoea/chlamydia.
+
+</details>
+
+---
+
+### Q171 — Corpus cancer syndrome: NOT a feature
+
+Which of the following is NOT seen in Corpus Cancer syndrome (endometrial cancer risk triad)?
+
+- A. Diabetes mellitus
+- B. Hypertension
+- C. Obesity
+- D. Multiparity
+
+<details><summary>Answer</summary>
+
+**D. Multiparity** — The classic Corpus Cancer Syndrome triad is obesity + hypertension + diabetes (all associated with unopposed oestrogen from peripheral aromatisation). NULLIPARITY (not multiparity) is a risk factor for endometrial cancer.
+
+</details>
+
+---
+
+### Q172 — Tubercular salpingitis: false statement
+
+All of the following about tubercular salpingitis are correct EXCEPT:
+
+- A. The abdominal ostium may be patent with eversion of fimbriae
+- B. Early lesions may be confused with adenocarcinoma on histology
+- C. Genital tuberculosis is always secondary, with tubes as primary genital site
+- D. Salpingitis isthmica nodosa is exclusive to tuberculosis
+
+<details><summary>Answer</summary>
+
+**D. Salpingitis isthmica nodosa is exclusive to tuberculosis** — SIN (diverticular outpouching of tubal epithelium into the muscularis) is not exclusive to TB; it also occurs with gonorrhoeal and other infections. All other statements are correct.
+
+</details>
+
+---
+
+### Q173 — Amniotic fluid: maximum volume timing
+
+Amniotic fluid volume is MAXIMUM at:
+
+- A. 32–34 weeks
+- B. 36–38 weeks
+- C. 34–36 weeks
+- D. 38–40 weeks
+
+<details><summary>Answer</summary>
+
+**B. 36–38 weeks** — Amniotic fluid volume peaks at approximately 36–38 weeks (~1,000 mL) then gradually decreases toward term (and post-term), providing the rationale for induction in post-term pregnancies with oligohydramnios.
+
+</details>
+
+---
+
+### Q174 — Boari flap operation
+
+"Boari flap" is a surgical technique used for:
+
+- A. Renal pelvic repair
+- B. Urinary diversion
+- C. Bladder flap to bridge a ureteric defect
+- D. Vesicovaginal fistula repair
+
+<details><summary>Answer</summary>
+
+**C. Bladder flap to bridge a ureteric defect** — The Boari flap uses a tubularised flap of bladder wall to bridge and reconstruct a distal ureteric defect, commonly used when the ureter is injured (usually right ureter) during gynaecological surgery.
+
+</details>
+
+---
+
+### Q175 — Clue cells
+
+"Clue cells" on vaginal wet mount are pathognomonic of:
+
+- A. Bacterial vaginosis
+- B. Vaginal candidiasis
+- C. Chlamydial vaginitis
+- D. Trichomoniasis
+
+<details><summary>Answer</summary>
+
+**A. Bacterial vaginosis** — Clue cells are vaginal squamous epithelial cells studded with Gardnerella vaginalis (and anaerobes), giving a stippled appearance on wet mount; they are one of Amsel's four criteria for BV diagnosis.
+
+</details>
+
+---
+
+### Q176 — Congenital cervical ectropion: reappearance
+
+"Congenital" cervical erosion (ectropion) regresses after birth but may reappear at:
+
+- A. One year of age
+- B. Two years of age
+- C. Five years of age
+- D. Puberty
+
+<details><summary>Answer</summary>
+
+**D. Puberty** — Congenital cervical ectropion is present at birth due to maternal oestrogen; it regresses under declining oestrogen after birth but reappears at puberty when endogenous oestrogen stimulation causes eversion of the columnar epithelium.
+
+</details>
+
+---
+
+### Q177 — Double set-up examination
+
+"Double set-up examination" (vaginal examination prepared for immediate caesarean section) is specifically done in the diagnosis and management of:
+
+- A. Placenta praevia
+- B. Manual removal of placenta
+- C. Twin pregnancy
+- D. Bicornuate uterus
+
+<details><summary>Answer</summary>
+
+**A. Placenta praevia** — Double set-up examination is performed when placenta praevia is suspected but unconfirmed and the patient needs delivery; it is done in the operating theatre with full preparation for immediate caesarean section in case brisk bleeding occurs on digital examination.
+
+</details>
+
+---
+
+### Q178 — Eosinophilic index
+
+The eosinophilic (karyopyknotic) index of lateral vaginal wall cells indicates:
+
+- A. Effect of LH
+- B. Oestrogenic effect
+- C. Progesterone effect
+- D. Prolactin effect
+
+<details><summary>Answer</summary>
+
+**B. Oestrogenic effect** — The eosinophilic index (% of superficial cells with eosinophilic cytoplasm + pyknotic nuclei) reflects oestrogenic stimulation of the vaginal epithelium; it peaks at ovulation and is used in vaginal cytology to assess hormonal status.
+
+</details>
+
+---
+
+## Anatomy & Embryology
+
+### Q179 — Organ of Rosenmuller
+
+Which of the following is TRUE regarding the Organ of Rosenmuller (epoophoron)?
+
+- A. It forms paraovarian cysts
+- B. It consists of horizontal tubules in the mesovarium
+- C. Tubules are lined by columnar cells
+- D. It represents the cranial end of the Wolffian (mesonephric) body
+
+<details><summary>Answer</summary>
+
+**D. It represents the cranial end of the Wolffian body** — Epoophoron (Organ of Rosenmuller) = cranial remnant of the mesonephric (Wolffian) body; lies in the mesovarium with vertical tubules lined by cuboidal cells. Paroophoron (the caudal remnant) can form paraovarian cysts.
+
+</details>
+
+---
+
+## Gynaecological Oncology — Ovarian
+
+### Q180 — Dysgerminoma: secreted marker
+
+Which product is secreted by dysgerminoma?
+
+- A. Alpha-fetoprotein (AFP)
+- B. Human chorionic gonadotropin (hCG)
+- C. Placental alkaline phosphatase (PLAP)
+- D. Serum inhibin
+
+<details><summary>Answer</summary>
+
+**C. Placental alkaline phosphatase (PLAP)** — Pure dysgerminoma (ovarian counterpart of seminoma) secretes PLAP and LDH; it does NOT secrete AFP or hCG (those markers suggest yolk sac tumour or choriocarcinoma components). CA-125 is not specific.
+
+</details>
+
+---
+
+### Q181 — Dysgerminoma: monitoring marker
+
+In a confirmed case of dysgerminoma, which serum marker is monitored for treatment response and recurrence?
+
+- A. Beta-hCG
+- B. Alpha-fetoprotein
+- C. Lactate dehydrogenase (LDH)
+- D. Serum inhibin
+
+<details><summary>Answer</summary>
+
+**C. Lactate dehydrogenase (LDH)** — LDH (especially isoenzyme 1) is the preferred serum marker for monitoring dysgerminoma; it reflects tumour burden and response to chemotherapy/radiotherapy.
+
+</details>
+
+---
+
+### Q182 — Germ cell tumours of ovary: exception
+
+All of the following are germ cell tumours of the ovary EXCEPT:
+
+- A. Mesonephroid (clear cell) tumour
+- B. Mature cystic teratoma (dermoid)
+- C. Dysgerminoma
+- D. Endodermal sinus tumour (yolk sac tumour)
+
+<details><summary>Answer</summary>
+
+**A. Mesonephroid (clear cell) tumour** — Clear cell carcinoma is an EPITHELIAL (surface epithelial-stromal) tumour, NOT a germ cell tumour. Germ cell tumours arise from primordial germ cells: dysgerminoma, teratoma, yolk sac tumour, embryonal carcinoma, choriocarcinoma.
+
+</details>
+
+---
+
+### Q183 — Endometrioid ovarian tumour: frequency
+
+Which ovarian tumour accounts for approximately 20% of all ovarian cancers and often co-exists with ovarian endometriosis?
+
+- A. Serous cystadenocarcinoma
+- B. Mucinous cystadenocarcinoma
+- C. Endometrioid carcinoma
+- D. Brenner tumour
+
+<details><summary>Answer</summary>
+
+**C. Endometrioid carcinoma** — Endometrioid ovarian carcinoma accounts for ~20% of ovarian cancers; it shows glandular differentiation resembling endometrial glands and co-exists with endometriosis in ~15% of cases; associated with PTEN and ARID1A mutations.
+
+</details>
+
+---
+
+### Q184 — Pseudomyxoma peritonei origin
+
+Pseudomyxoma peritonei (massive gelatinous peritoneal deposits) most commonly occurs as a complication of rupture of:
+
+- A. Serous cystadenoma
+- B. Mucinous cystadenoma / low-grade appendiceal mucinous neoplasm
+- C. Dysgerminoma
+- D. Gonadoblastoma
+
+<details><summary>Answer</summary>
+
+**B. Mucinous cystadenoma / low-grade appendiceal mucinous neoplasm** — Rupture of a mucinous ovarian or appendiceal neoplasm seeds the peritoneum with mucin-secreting epithelial cells; the appendix is now considered the primary site in most cases of true pseudomyxoma peritonei.
+
+</details>
+
+---
+
+### Q185 — LLETZ: false statement
+
+Which of the following is NOT true regarding Large Loop Excision of the Transformation Zone (LLETZ)?
+
+- A. Uses low-voltage diathermy
+- B. Applicable only to the cervix
+- C. Loop size > 2 cm gives a better cone specimen
+- D. Shorter procedure time than laser ablation
+
+<details><summary>Answer</summary>
+
+**C. Loop size > 2 cm gives a better cone specimen** — FALSE: a loop size LESS than 2 cm gives a better, more precise cone specimen with less thermal artefact at the margins. LLETZ uses low-voltage diathermy, is cervix-specific, and is faster than laser ablation.
+
+</details>
+
+---
+
+### Q186 — Endometrial hyperplasia: highest cancer risk
+
+Which histological pattern of endometrial hyperplasia carries the HIGHEST risk of progression to endometrial carcinoma?
+
+- A. Simple hyperplasia without atypia (~1%)
+- B. Simple hyperplasia with atypia (~8%)
+- C. Complex hyperplasia without atypia (~3%)
+- D. Complex hyperplasia with atypia (~29%)
+
+<details><summary>Answer</summary>
+
+**D. Complex hyperplasia with atypia (~29%)** — Atypia is the key determinant of malignant potential; complex atypical hyperplasia (EIN — Endometrial Intraepithelial Neoplasia) carries ~29% risk and is managed by hysterectomy in perimenopausal/older women or continuous progestin in young women desiring fertility.
+
+</details>
+
+---
+
+### Q187 — Moschcowitz repair: indication
+
+Moschcowitz procedure (purse-string obliteration of the pouch of Douglas) is performed for:
+
+- A. Vault prolapse
+- B. Enterocoele
+- C. Chronic uterine inversion
+- D. Adenomyosis
+
+<details><summary>Answer</summary>
+
+**B. Enterocoele** — Moschcowitz procedure: serial concentric purse-string sutures obliterate the peritoneal cul-de-sac (pouch of Douglas) to repair or prevent enterocoele; care must be taken not to incorporate the ureter in the suture.
+
+</details>
+
+---
+
+### Q188 — Savage syndrome
+
+Which of the following is TRUE regarding Savage syndrome (resistant ovary syndrome)?
+
+- A. There is a receptor defect to gonadotrophic hormones
+- B. Patient has short stature
+- C. Ovaries contain no follicles
+- D. FSH level is normal
+
+<details><summary>Answer</summary>
+
+**A. Receptor defect to gonadotrophic hormones** — Savage syndrome: ovaries contain follicles but are unresponsive to FSH/LH due to a gonadotrophin receptor defect → raised FSH/LH, normal height, normal-appearing ovaries with follicles but no ovulation. Distinguishes from premature ovarian failure (POF), which has depleted follicles.
+
+</details>
+
+---
+
+### Q189 — PCOS: cyst formation mechanism
+
+The multiple small cysts seen in PCOS on ultrasound are formed by:
+
+- A. Failure of atretic follicles to undergo apoptosis
+- B. Oocyte proliferation
+- C. Formation of multiple corpora lutea
+- D. Cystic degeneration of the ovarian cortex
+
+<details><summary>Answer</summary>
+
+**A. Failure of atretic follicles to undergo apoptosis** — Elevated androgens in PCOS inhibit follicular apoptosis (atresia arrest); multiple small follicles (2–9 mm) accumulate peripherally in the ovary in a "necklace" pattern without a dominant follicle developing or ovulation occurring.
+
+</details>
+
+---
+
+### Q190 — Lactational amenorrhoea: mechanism
+
+Lactational amenorrhoea is maintained primarily by:
+
+- A. Prolactin-induced inhibition of GnRH pulsatility
+- B. Prolactin-induced inhibition of FSH secretion
+- C. Oxytocin-induced inhibition of GnRH
+- D. Oxytocin-induced inhibition of FSH
+
+<details><summary>Answer</summary>
+
+**A. Prolactin-induced inhibition of GnRH pulsatility** — Suckling → prolactin surge → inhibits hypothalamic GnRH pulse generator → reduced FSH/LH → anovulation. Prolactin also sensitises the hypothalamus to negative oestrogen feedback. LAM is reliable only with exclusive breastfeeding, amenorrhoea, and age < 6 months postpartum.
+
+</details>
+
+---
+
+### Q191 — Viral hepatitis: highest maternal mortality
+
+With which type of viral hepatitis is maternal mortality HIGHEST in pregnancy?
+
+- A. Hepatitis A
+- B. Hepatitis B
+- C. Hepatitis C
+- D. Hepatitis E
+
+<details><summary>Answer</summary>
+
+**D. Hepatitis E** — Maternal mortality with hepatitis E virus (HEV) in pregnancy is 15–25% (especially in the 3rd trimester); fulminant hepatic failure is far more common with HEV than other hepatitis viruses in pregnancy. HEV is waterborne (faeco-oral).
+
+</details>
+
+---
+
+### Q192 — Recurrent abortion + prolonged APTT
+
+A woman with three consecutive pregnancy losses is found to have an isolated prolonged APTT. The most likely associated condition is:
+
+- A. Lupus anticoagulant (antiphospholipid syndrome)
+- B. Disseminated intravascular coagulation
+- C. von Willebrand disease
+- D. Haemophilia A
+
+<details><summary>Answer</summary>
+
+**A. Lupus anticoagulant (antiphospholipid syndrome)** — APS classically causes recurrent pregnancy loss + thrombosis; lupus anticoagulant prolongs APTT in vitro (paradoxically pro-thrombotic in vivo due to phospholipid-binding). Treatment in pregnancy: low-dose aspirin + LMWH.
+
+</details>
+
+---
+
+### Q193 — Shortest fetal head diameter
+
+The shortest diameter of the fetal head is:
+
+- A. Biparietal diameter (9.5 cm)
+- B. Suboccipitofrontal diameter (10 cm)
+- C. Occipitofrontal diameter (11.5 cm)
+- D. Bitemporal diameter (8 cm)
+
+<details><summary>Answer</summary>
+
+**D. Bitemporal diameter (8 cm)** — The bitemporal diameter (between the two temporal bones) is the shortest of all fetal head diameters. The suboccipitobregmatic (9.5 cm) is the presenting AP diameter of a well-flexed vertex.
+
+</details>
+
+---
+
+### Q194 — Progestasert IUCD: daily hormone release
+
+The quantity of progesterone released by the Progestasert IUCD per day is:
+
+- A. 25 µg
+- B. 45 µg
+- C. 65 µg
+- D. 85 µg
+
+<details><summary>Answer</summary>
+
+**C. 65 µg** — Progestasert contains 38 mg progesterone in a silicone oil reservoir releasing 65 µg/day; valid for 1 year. Compare LNG-IUS (Mirena): releases 20 µg levonorgestrel/day, valid 5 years. Higher local progestogenic effect → thickened cervical mucus.
+
+</details>
+
+---
+
+### Q195 — Emergency contraception: NOT a mechanism
+
+Emergency contraception prevents pregnancy by all of the following mechanisms EXCEPT:
+
+- A. Delaying or inhibiting ovulation
+- B. Inhibiting fertilisation
+- C. Preventing implantation of fertilised egg
+- D. Interrupting an early established pregnancy
+
+<details><summary>Answer</summary>
+
+**D. Interrupting an early established pregnancy** — Emergency contraception (levonorgestrel, ulipristal) prevents pregnancy; once implantation is complete, EC is ineffective. Interrupting an existing pregnancy constitutes termination, not contraception. LNG acts primarily by delaying/inhibiting ovulation.
+
+</details>
+
+---
+
+### Q196 — Mifepristone (RU-486): true statement
+
+Which of the following is TRUE regarding RU-486 (mifepristone)?
+
+- A. It prevents fertilisation
+- B. It has affinity for oestrogen receptors
+- C. A single 10 mg dose prevents pregnancy in 90% of cases
+- D. It causes endometrial shedding (delayed menstruation)
+
+<details><summary>Answer</summary>
+
+**D. It causes endometrial shedding (delayed menstruation)** — Mifepristone is a competitive progesterone receptor antagonist; blocking progesterone action on the endometrium causes decidual breakdown and induction of menstruation. It does not prevent fertilisation and does not bind oestrogen receptors.
+
+</details>
+
+---
+
+### Q197 — Combined OCP: NOT a mechanism
+
+All of the following are mechanisms of action of the combined oral contraceptive pill EXCEPT:
+
+- A. Suppression of LH surge (inhibition of ovulation)
+- B. Thickening of cervical mucus (hostile to sperm)
+- C. Endometrial atrophy (preventing implantation)
+- D. Interference with placental function
+
+<details><summary>Answer</summary>
+
+**D. Interference with placental function** — The combined OCP acts via three mechanisms: (1) LH surge suppression → anovulation, (2) cervical mucus thickening → sperm transport impaired, (3) endometrial atrophy → prevents implantation if breakthrough ovulation. It has NO effect on the placenta.
+
+</details>
+
+---
+
+### Q198 — Progestin IUD and PID risk reduction: mechanism
+
+All of the following explain the reduced risk of upper genital tract infection with progestin-releasing IUDs EXCEPT:
+
+- A. Reduced retrograde menstruation
+- B. Inhibition of ovulation
+- C. Thickened cervical mucus
+- D. Decidualised atrophic endometrium reducing pathogen ascent
+
+<details><summary>Answer</summary>
+
+**B. Inhibition of ovulation** — Progestin IUDs reduce upper genital infection risk via: thickened cervical mucus (mechanical barrier to ascending bacteria), reduced retrograde menstruation, and atrophic decidualised endometrium. Inhibition of ovulation is NOT a mechanism for reducing PID risk.
+
+</details>
+
+---
+
+### Q199 — Peripheral vascular resistance in pregnancy
+
+Which of the following is the LEAST likely physiological change in normal pregnancy?
+
+- A. Increase in intravascular volume
+- B. Increase in cardiac output
+- C. Increase in stroke volume
+- D. Increase in peripheral vascular resistance
+
+<details><summary>Answer</summary>
+
+**D. Increase in peripheral vascular resistance** — PVR DECREASES in pregnancy (~40% below non-pregnant values) due to progesterone-mediated vasodilation and low-resistance uteroplacental circulation; this fall accommodates the 40–50% increase in cardiac output without a proportional rise in blood pressure.
+
+</details>
+
+---
+
+### Q200 — Misoprostol: NOT useful in ectopic pregnancy
+
+Which drug is NOT useful in the treatment of ectopic pregnancy?
+
+- A. Methotrexate
+- B. Misoprostol
+- C. Actinomycin-D
+- D. Mifepristone
+
+<details><summary>Answer</summary>
+
+**B. Misoprostol** — Misoprostol (PGE1 analogue) is used for uterine pregnancy termination and cervical ripening but has NO efficacy in ectopic pregnancy management. Methotrexate (folic acid antagonist) is the standard medical treatment; mifepristone and actinomycin-D may be used adjunctively in selected cases.
+
+</details>
+
+---
+
+### Q201 — Misoprostol: NOT an indication
+
+Misoprostol is effective in all of the following EXCEPT:
+
+- A. Missed abortion (medical evacuation)
+- B. Induction of labour (cervical ripening)
+- C. Menorrhagia (heavy menstrual bleeding)
+- D. Prevention of postpartum haemorrhage
+
+<details><summary>Answer</summary>
+
+**C. Menorrhagia** — Misoprostol is a prostaglandin agonist (pro-uterotonic); menorrhagia is treated with prostaglandin INHIBITORS (e.g., mefenamic acid) or antifibrinolytics (tranexamic acid). Using misoprostol in menorrhagia would worsen uterine contractions and bleeding.
+
+</details>
+
+---
+
+### Q202 — Manning biophysical profile: excluded parameter
+
+In Manning's biophysical profile (BPP) scoring system, which parameter is NOT included?
+
+- A. Fetal tone
+- B. Fetal gross body movements
+- C. Oxytocin challenge test (OCT)
+- D. Non-stress test (NST)
+
+<details><summary>Answer</summary>
+
+**C. Oxytocin challenge test (OCT)** — Manning BPP has 5 components (2 points each = max 10): (1) NST, (2) fetal breathing movements, (3) fetal tone, (4) gross body movements, (5) amniotic fluid index. OCT/contraction stress test is a separate assessment and is NOT part of BPP.
+
+</details>
+
+---
+
+### Q203 — Cornual tubal block: management
+
+A woman with infertility has bilateral tubal block at the cornua on HSG. What is the best management?
+
+- A. Laparoscopy and hysteroscopic cannulation
+- B. Hydrotubation
+- C. In vitro fertilisation (IVF)
+- D. Open tuboplasty
+
+<details><summary>Answer</summary>
+
+**A. Laparoscopy and hysteroscopic cannulation** — Cornual (proximal) tubal block may be due to mucous plug or spasm (false block); hysteroscopic tubal cannulation under laparoscopic guidance can relieve this. True confirmed bilateral obstruction → IVF. Hysteroscopic cannulation should be attempted first before proceeding to IVF.
+
+</details>
+
+---
+
+### Q204 — HIV vertical transmission: highest risk period
+
+During pregnancy, HIV transmission from mother to child occurs PREDOMINANTLY during:
+
+- A. First trimester
+- B. Second trimester
+- C. Third trimester
+- D. Labour and delivery (intrapartum)
+
+<details><summary>Answer</summary>
+
+**D. Labour and delivery (intrapartum)** — ~50–65% of vertical HIV transmission occurs intrapartum (exposure to infected blood and genital secretions during passage through the birth canal). ARV prophylaxis, elective LSCS, and avoidance of breastfeeding reduce MTCT to < 1%.
+
+</details>
+
+---
+
+## Contraception & Infertility
+
+### Q205 — Subdermal implants: failure rate
+
+A young woman wants the most effective reversible long-acting contraception with the lowest Pearl Index. The method with the LOWEST failure rate is:
+
+- A. Subdermal implants (etonogestrel)
+- B. Combined oral contraceptive pill
+- C. Condom
+- D. Copper IUD
+
+<details><summary>Answer</summary>
+
+**A. Subdermal implants** — Subdermal etonogestrel implants (Implanon/Nexplanon) have a Pearl Index of 0.05 per 100 woman-years — the lowest failure rate among all reversible contraceptive methods. Effective for 3 years with no user compliance issues.
+
+</details>
+
+---
+
+### Q206 — Medical abortion regimen
+
+The correct drug regimen for medical termination of pregnancy (up to 10 weeks) is:
+
+- A. Mifepristone 200 mg then methotrexate after 48 hours
+- B. Misoprostol 200 mg then methotrexate after 48 hours
+- C. Mifepristone 200 mg then misoprostol 800 µg after 48 hours
+- D. Misoprostol 200 mg then mifepristone 400 µg after 48 hours
+
+<details><summary>Answer</summary>
+
+**C. Mifepristone 200 mg then misoprostol 800 µg after 48 hours** — WHO-recommended regimen: mifepristone (progesterone receptor antagonist) primes the uterus; misoprostol (PGE1 analogue) given 24–48 hours later causes uterine contractions and expulsion. Approved in India under MTP Amendment 2021.
+
+</details>
+
+---
+
+### Q207 — Combined OCP: contraindicated in lactation
+
+A woman who is lactating comes for contraception 6 weeks after delivery. Which contraceptive is NOT advisable?
+
+- A. Combined oral contraceptive pill
+- B. Progestogen-only pill (mini-pill)
+- C. Copper IUD
+- D. DMPA (depot medroxyprogesterone acetate)
+
+<details><summary>Answer</summary>
+
+**A. Combined oral contraceptive pill** — Oestrogen in combined OCPs suppresses prolactin secretion and reduces breast milk volume; all progestogen-only methods (POP, DMPA, LNG-IUS, implants) and IUDs are safe during breastfeeding.
+
+</details>
+
+---
+
+### Q208 — Non-scalpel vasectomy: false statement
+
+All of the following about non-scalpel vasectomy are correct EXCEPT:
+
+- A. Haematoma occurs in up to 5% of subjects
+- B. Sexual function following healing is rarely affected
+- C. Sterility is immediate after vasectomy
+- D. Recanalization is possible
+
+<details><summary>Answer</summary>
+
+**C. Sterility is immediate after vasectomy** — Sterility is NOT immediate; residual sperm remain in the vas distal to the ligation. Patients must use backup contraception until azoospermia is confirmed on semen analysis (typically at 12 weeks or after 20 ejaculations post-procedure).
+
+</details>
+
+---
+
+## Infections
+
+### Q209 — Bacterial vaginosis: diagnosis and treatment
+
+A woman presents with fishy-smelling greyish discharge; pH is 5.5, whiff test is positive, and clue cells are seen on wet mount. Organism and drug of choice:
+
+- A. Candida albicans — fluconazole
+- B. Trichomonas vaginalis — metronidazole
+- C. Gardnerella vaginalis — metronidazole
+- D. Neisseria gonorrhoeae — doxycycline
+
+<details><summary>Answer</summary>
+
+**C. Gardnerella vaginalis — metronidazole** — Bacterial vaginosis: fishy odour (amine/whiff test positive with KOH), clue cells (Amsel's criterion), pH > 4.5, thin grey discharge. Treatment: metronidazole 500 mg BD × 7 days (oral) or 0.75% vaginal gel × 5 days.
+
+</details>
+
+---
+
+### Q210 — PID antibiotic regimen
+
+A 24-year-old sexually active woman is diagnosed with pelvic inflammatory disease (PID) and suitable for outpatient treatment. The appropriate CDC-recommended regimen is:
+
+- A. Azithromycin 1 g + metronidazole × 14 days
+- B. Ceftriaxone 500 mg IM single dose + doxycycline 100 mg BD × 14 days + metronidazole 500 mg BD × 14 days
+- C. Levofloxacin 500 mg + metronidazole × 14 days
+- D. Amoxicillin-clavulanate + doxycycline × 14 days
+
+<details><summary>Answer</summary>
+
+**B. Ceftriaxone + doxycycline + metronidazole** — Ceftriaxone covers gonorrhoea, doxycycline covers chlamydia, and metronidazole targets anaerobes and provides BV coverage. Treat sexual partners concurrently. Inpatient IV therapy for severe PID or failed outpatient treatment.
+
+</details>
+
+---
+
+### Q211 — Trichomonas vaginalis: true statement
+
+Regarding Trichomonas vaginalis infection, which statement is TRUE?
+
+- A. Vaginal pH is typically < 4.5
+- B. Male sexual partners must be treated simultaneously
+- C. Pruritus is usually absent
+- D. Treated by intravaginal clotrimazole
+
+<details><summary>Answer</summary>
+
+**B. Male sexual partners must be treated simultaneously** — T. vaginalis is a sexually transmitted protozoan; concurrent treatment of both partners prevents ping-pong reinfection. Vaginal pH is > 4.5; intense pruritus and strawberry cervix (colpitis macularis) are characteristic; treatment is systemic metronidazole 2 g single dose.
+
+</details>
+
+---
+
+### Q212 — Vulvar SCC: FIGO staging
+
+A 68-year-old has a 3 cm ulcerated vulvar SCC with two mobile, 1 cm ipsilateral inguinal lymph nodes. FIGO stage is:
+
+- A. Stage IB
+- B. Stage IIA
+- C. Stage IIIA
+- D. Stage IVA
+
+<details><summary>Answer</summary>
+
+**C. Stage IIIA** — FIGO (2021) vulvar SCC: tumour any size with 1–2 ipsilateral inguinal–femoral lymph node metastases = Stage IIIA. Stage IVA = fixed/ulcerated inguinal nodes, or invasion of upper urethra/vagina/bladder/rectum, or bilateral inguinal involvement.
+
+</details>
+
+---
+
+## Oncology
+
+### Q213 — Ovarian cancer: most common epithelial subtype
+
+A 45-year-old presents with bilateral cystic-solid pelvic masses and elevated CA-125. The most likely epithelial ovarian cancer subtype is:
+
+- A. Mucinous cystadenocarcinoma
+- B. Serous cystadenocarcinoma
+- C. Endometrioid carcinoma
+- D. Brenner tumour
+
+<details><summary>Answer</summary>
+
+**B. Serous cystadenocarcinoma** — High-grade serous carcinoma is the most common epithelial ovarian malignancy (~70%); bilateral in ~50%; associated with BRCA1/2 mutations; psammoma bodies on histology; strongly CA-125 positive.
+
+</details>
+
+---
+
+### Q214 — Endometrial carcinoma: Type 1 vs Type 2
+
+Which statement about Type 1 versus Type 2 endometrial carcinoma is CORRECT?
+
+- A. Type 1 is more aggressive with poorer prognosis than Type 2
+- B. Type 1 is oestrogen-driven, arising in younger obese women on a background of hyperplasia
+- C. Type 2 is low-grade and non-metastasising
+- D. Type 2 is oestrogen-dependent and associated with endometrial hyperplasia
+
+<details><summary>Answer</summary>
+
+**B. Type 1 is oestrogen-driven, arising in younger obese women on a background of hyperplasia** — Type 1 (endometrioid, ~80%): oestrogen-driven, low-grade, good prognosis, arises from hyperplasia. Type 2 (serous/clear cell): oestrogen-independent, TP53-mutated, high-grade, poor prognosis, arises on atrophic endometrium.
+
+</details>
+
+---
+
+### Q215 — Hydatidiform mole: ultrasound appearance
+
+Classic ultrasound appearance of a complete hydatidiform mole is:
+
+- A. Snowstorm pattern with echogenic foci filling the uterus
+- B. Swiss-cheese placenta with a small fetus
+- C. Anechoic intrauterine cyst
+- D. Snowstorm pattern with a fetus
+
+<details><summary>Answer</summary>
+
+**A. Snowstorm pattern with echogenic foci filling the uterus** — Complete mole: snowstorm (multiple echogenic/hydropic villi) filling the uterus with NO fetal parts. Partial mole: Swiss-cheese placenta with a small triploid fetus. The snowstorm on USS + markedly elevated β-hCG is the classic presentation.
+
+</details>
+
+---
+
+### Q216 — Secondary amenorrhoea: initial investigation
+
+A 32-year-old with 6-month secondary amenorrhoea (pregnancy test negative) on a background of hypothyroidism. The INITIAL diagnostic test is:
+
+- A. Serum prolactin
+- B. Serum FSH and LH
+- C. Pelvic ultrasound
+- D. Serum estradiol
+
+<details><summary>Answer</summary>
+
+**A. Serum prolactin** — Hypothyroidism raises TRH, stimulating prolactin release; hyperprolactinaemia inhibits GnRH → secondary amenorrhoea. Serum prolactin (after excluding pregnancy) is the first-line investigation; then TSH/T4 if hyperprolactinaemia is found.
+
+</details>
+
+---
+
+### Q217 — Endometriosis: failing GnRH agonist
+
+A 30-year-old with confirmed endometriosis remains symptomatic after 3 months of leuprolide acetate. The next step is:
+
+- A. Increase GnRH agonist dose
+- B. Continue and await further response
+- C. Diagnostic and operative laparoscopy
+- D. Add progestins and continue
+
+<details><summary>Answer</summary>
+
+**C. Diagnostic and operative laparoscopy** — Laparoscopy is the gold standard for both confirming endometriosis and definitive surgical treatment (excision/ablation of implants, adhesiolysis, endometrioma cystectomy). GnRH agonists are adjunct therapy, not definitive; persistent symptoms after 3 months warrant surgical intervention.
+
+</details>
+
+---
+
+### Q218 — Uterine rupture: clinical triad
+
+A 37-week pregnant woman presents with acute abdominal pain and hypotension. Fetal parts are easily palpable superficially; fetal heart sounds are absent. The diagnosis is:
+
+- A. Abruptio placentae
+- B. Ruptured uterus
+- C. Intrauterine fetal death only
+- D. Obstructed labour
+
+<details><summary>Answer</summary>
+
+**B. Ruptured uterus** — Classical clinical triad of uterine rupture: sudden cessation of uterine contractions + fetal parts palpable superficially (extrusion of fetus into peritoneal cavity) + absent fetal heart sounds. Emergency laparotomy required; can repair (in selected cases) or hysterectomy.
+
+</details>
+
+---
+
+### Q219 — PPH risk factors: which does NOT increase risk
+
+The following pregnancy complications increase postpartum haemorrhage (PPH) risk EXCEPT:
+
+- A. Macrosomia
+- B. Twin pregnancy
+- C. Hypertension (pre-eclampsia)
+- D. Polyhydramnios
+
+<details><summary>Answer</summary>
+
+**C. Hypertension (pre-eclampsia)** — Uterine overdistension (macrosomia, twins, polyhydramnios) causes uterine atony — the commonest cause of PPH. Pre-eclampsia/hypertension per se is not among the 4 Ts (Tone, Trauma, Tissue, Thrombin) risk factors for PPH; haemostatic failure in severe pre-eclampsia/HELLP increases bleeding tendency but is a different mechanism.
+
+</details>
+
+---
+
+### Q220 — Placenta accreta after previous LSCS
+
+A G2P1 delivers vaginally (VBAC) but the placenta fails to separate; the cord snaps on traction and heavy bleeding ensues. The likely diagnosis is:
+
+- A. Succenturiate lobe
+- B. Uterine inversion
+- C. Placenta accreta
+- D. Placenta praevia
+
+<details><summary>Answer</summary>
+
+**C. Placenta accreta** — Abnormal villous invasion of the myometrium at the previous uterine scar: the placenta cannot be separated normally → retained placenta + haemorrhage. Risk increases with each prior LSCS. Management: manual removal attempt → balloon tamponade/UAE → hysterectomy if conservative measures fail.
+
+</details>
+
+---
+
+### Q221 — Red degeneration of fibroid: timing
+
+Red (carneous) degeneration of uterine fibroid most commonly occurs during:
+
+- A. First trimester
+- B. Second trimester
+- C. Third trimester
+- D. Puerperium
+
+<details><summary>Answer</summary>
+
+**B. Second trimester** — Rapid fibroid growth during pregnancy exceeds blood supply → venous thrombosis → haemorrhagic infarction (red degeneration); presents with acute localised uterine tenderness and low-grade fever in the second trimester. Management: analgesia, hydration, rest.
+
+</details>
+
+---
+
+### Q222 — MgSO4 toxicity: first sign
+
+The FIRST clinical sign of magnesium sulphate toxicity is:
+
+- A. Fall in blood pressure
+- B. Loss of deep tendon reflexes (DTRs)
+- C. Respiratory depression
+- D. Cardiac asystole
+
+<details><summary>Answer</summary>
+
+**B. Loss of deep tendon reflexes** — Sequence of MgSO4 toxicity: DTR loss (serum Mg ~7–10 mEq/L) → respiratory depression (~10–13 mEq/L) → cardiac arrest (> 15 mEq/L). Patellar reflex should be checked before each maintenance dose. Antidote: calcium gluconate 1 g IV.
+
+</details>
+
+---
+
+### Q223 — HELLP syndrome
+
+A primigravida at 30 weeks has BP 160/120 mmHg, raised AST/ALT/LDH, and platelets 72,000/µL. Most likely diagnosis:
+
+- A. Acute fatty liver of pregnancy
+- B. HELLP syndrome
+- C. Hepatitis B
+- D. Obstetric cholestasis
+
+<details><summary>Answer</summary>
+
+**B. HELLP syndrome** — HELLP = Haemolysis (raised LDH, schistocytes) + Elevated Liver enzymes (AST/ALT > 70 IU/L) + Low Platelets (< 100,000/µL). Occurs in the setting of severe preeclampsia. Definitive treatment is delivery; maternal morbidity includes DIC, renal failure, liver rupture.
+
+</details>
+
+---
+
+### Q224 — Warfarin in pregnancy: prosthetic valve
+
+A woman with a prosthetic mitral valve on warfarin is planning pregnancy. Anticoagulation advice:
+
+- A. Discontinue warfarin without replacement
+- B. Replace warfarin with LMWH throughout pregnancy
+- C. Continue warfarin without change
+- D. Add vitamin K to warfarin regimen
+
+<details><summary>Answer</summary>
+
+**B. Replace warfarin with LMWH** — Warfarin crosses the placenta and causes warfarin embryopathy (nasal hypoplasia, stippled epiphyses) in weeks 6–12 and fetal intracranial haemorrhage near term. LMWH does not cross the placenta. Typical approach: LMWH in 1st trimester and from 36 weeks; warfarin may be used in 2nd trimester under close monitoring.
+
+</details>
+
+---
+
+### Q225 — Menopause: hormone profile
+
+A 52-year-old woman with 16 months of amenorrhoea. Expected hormonal profile:
+
+- A. High LH and high FSH
+- B. Low FSH and low LH
+- C. Low FSH and normal LH
+- D. High FSH and low LH
+
+<details><summary>Answer</summary>
+
+**A. High LH and high FSH** — Ovarian failure → loss of oestrogen and inhibin → pituitary releases elevated FSH (> 30–40 IU/L) and LH (negative feedback removed). FSH > 40 IU/L on two occasions > 4 weeks apart confirms menopause (without HRT).
+
+</details>
+
+---
+
+### Q226 — Ovarian tumour prone to torsion in pregnancy
+
+Which ovarian tumour is most prone to torsion during pregnancy?
+
+- A. Serous cystadenoma
+- B. Mucinous cystadenoma
+- C. Dermoid cyst (mature cystic teratoma)
+- D. Theca lutein cyst
+
+<details><summary>Answer</summary>
+
+**C. Dermoid cyst** — High lipid content gives dermoid cysts low specific gravity; they are buoyant and mobile on their pedicle. Dermoids are the most common ovarian tumour to undergo torsion overall and are the most common ovarian tumour encountered in pregnancy.
+
+</details>
+
+---
+
+### Q227 — Absence of corkscrew glands: histology
+
+Absence of secretory (corkscrew) glands is the histological hallmark of:
+
+- A. Irregular ripening
+- B. PCOS endometrium
+- C. Irregular shedding
+- D. Metropathia haemorrhagica (cystic glandular hyperplasia)
+
+<details><summary>Answer</summary>
+
+**D. Metropathia haemorrhagica** — Cystic glandular hyperplasia (metropathia haemorrhagica) is characterised by thick polypoid endometrium with Swiss-cheese cysts and absence of secretory (corkscrew/saw-tooth) glands — reflecting unopposed oestrogenic stimulation without progesterone.
+
+</details>
+
+---
+
+### Q228 — Gestrinone dosing: false statement
+
+Which is INCORRECT regarding gestrinone (a 19-nortestosterone derivative used for endometriosis)?
+
+- A. Oral progestins cause decidualisation of endometrial deposits
+- B. Injectable progestagen (DMPA) is given once every 3 months
+- C. LNG-IUS reduces dysmenorrhoea in endometriosis
+- D. Gestrinone is given orally 2.5–5 mg daily
+
+<details><summary>Answer</summary>
+
+**D. Gestrinone is given orally 2.5–5 mg daily** — Gestrinone is given 2.5–5 mg TWICE WEEKLY (not daily) for 6–9 months. Daily dosing is incorrect. It acts as a progestogen, antiprogestogen, and antioestrogenic agent.
+
+</details>
+
+---
+
+### Q229 — Cardiac disease NOT contraindicated in pregnancy
+
+Which cardiac condition is NOT a contraindication to pregnancy?
+
+- A. Severe pulmonary hypertension
+- B. Severe obstructive valvular lesions
+- C. Large secundum ASD with left-to-right shunt (no pulmonary hypertension)
+- D. Marfan syndrome with dilated aorta (> 45 mm)
+
+<details><summary>Answer</summary>
+
+**C. Large secundum ASD with left-to-right shunt** — Left-to-right shunts without pulmonary hypertension and regurgitant lesions are generally well tolerated in pregnancy. Pulmonary hypertension (including Eisenmenger's), severe stenosis, and aortic root dilatation in Marfan's carry prohibitive maternal mortality.
+
+</details>
+
+---
+
+### Q230 — Menorrhagia: no clinical evidence
+
+Which drug for menorrhagia is NOT supported by clinical trial evidence?
+
+- A. Tranexamic acid
+- B. Combined oral contraceptive pill
+- C. Ethamsylate
+- D. Cyclical progestogen
+
+<details><summary>Answer</summary>
+
+**C. Ethamsylate** — Multiple trials have failed to demonstrate significant reduction in menstrual blood loss with ethamsylate. Tranexamic acid (antifibrinolytic), combined OCPs, cyclical norethisterone, and LNG-IUS all have good evidence for reducing menstrual blood loss.
+
+</details>
+
+---
+
+### Q231 — Gold standard for serum β-hCG measurement
+
+The gold standard test for measuring serum β-hCG levels (e.g., in gestational trophoblastic disease) is:
+
+- A. ELISA
+- B. Bioassay
+- C. Radioimmunoassay (RIA)
+- D. Latex agglutination inhibition
+
+<details><summary>Answer</summary>
+
+**C. Radioimmunoassay (RIA)** — RIA is the most sensitive and specific technique for quantitative serum β-hCG measurement; it can detect as low as 1–5 mIU/mL. Used for GTD monitoring, ectopic pregnancy, and Down syndrome screening. Latex agglutination is used for qualitative urine pregnancy tests.
+
+</details>
+
+---
+
+### Q232 — PCOS: false regarding hormone levels
+
+Which is FALSE regarding hormone levels in PCOS?
+
+- A. Increased androgen (testosterone, DHEA-S)
+- B. Increased prolactin (hyperprolactinaemia)
+- C. Increased LH
+- D. LH/FSH ratio > 2:1
+
+<details><summary>Answer</summary>
+
+**B. Increased prolactin** — Prolactin is typically normal in PCOS (mild elevation in ~15%); hyperprolactinaemia is a separate diagnosis to exclude in workup. PCOS classically: ↑ LH, ↑ androgens, ↑ LH/FSH ratio (> 2:1), ↓ FSH (relatively), ↑ insulin/insulin resistance.
+
+</details>
+
+---
+
+### Q233 — Specific marker for open neural tube defects in amniotic fluid
+
+Most SPECIFIC marker for open neural tube defects in amniotic fluid:
+
+- A. Alpha-fetoprotein (AFP)
+- B. Unconjugated oestriol (uE3)
+- C. Acetylcholinesterase
+- D. Pseudocholinesterase
+
+<details><summary>Answer</summary>
+
+**C. Acetylcholinesterase** — While AFP is sensitive, acetylcholinesterase in amniotic fluid is more specific for open NTDs (not elevated in closed NTDs, ventral wall defects, or fetal blood contamination). Using both AFP + acetylcholinesterase maximises accuracy.
+
+</details>
+
+---
+
+### Q234 — PIH: delivery timing for non-severe gestational hypertension
+
+A primigravida with gestational hypertension at 32 weeks, BP 150/100 mmHg, well-controlled on medication, no other complications. Recommended delivery timing:
+
+- A. 40 completed weeks
+- B. 37 completed weeks
+- C. 36 completed weeks
+- D. 34 completed weeks
+
+<details><summary>Answer</summary>
+
+**B. 37 completed weeks** — Gestational hypertension without severe features (ACOG/NICE): deliver at 37 weeks. Earlier delivery (34–36 weeks) is indicated for severe features: severe-range BP, HELLP syndrome, fetal compromise, or refractory hypertension.
+
+</details>
+
+---
+
+### Q235 — Non-immune hydrops fetalis: viral cause
+
+The most common infectious cause of non-immune hydrops fetalis is:
+
+- A. Cytomegalovirus
+- B. Herpes simplex virus
+- C. Hepatitis B virus
+- D. Parvovirus B19
+
+<details><summary>Answer</summary>
+
+**D. Parvovirus B19** — Parvovirus B19 infects fetal erythroid progenitors (via P antigen/globoside receptor) → aplastic crisis → severe fetal anaemia → high-output cardiac failure → hydrops. Diagnosis: maternal IgM/IgG; monitor with MCA Doppler. Severe cases may require intrauterine transfusion.
+
+</details>
+
+---
+
+### Q236 — Bethesda system: LSIL corresponds to
+
+Low-grade squamous intraepithelial lesion (LSIL) in the Bethesda classification corresponds to:
+
+- A. CIN I (mild dysplasia)
+- B. CIN II (moderate dysplasia)
+- C. CIN III (severe dysplasia/CIS)
+- D. Squamous metaplasia
+
+<details><summary>Answer</summary>
+
+**A. CIN I** — Bethesda 2001: LSIL = CIN I + HPV cytopathic effect (koilocytosis). HSIL = CIN II + CIN III. ASC-US (atypical squamous cells of undetermined significance) is the most common abnormal cytology result.
+
+</details>
+
+---
+
+### Q237 — Nuchal translucency: most common association
+
+Increased nuchal translucency (> 3 mm) at 11–14 weeks is most commonly associated with:
+
+- A. Turner syndrome (45,X0)
+- B. Down syndrome (Trisomy 21)
+- C. Klinefelter syndrome (47,XXY)
+- D. Edwards syndrome (Trisomy 18)
+
+<details><summary>Answer</summary>
+
+**B. Down syndrome (Trisomy 21)** — Trisomy 21 is the most common cause of increased NT. NT > 3 mm (≥ 95th centile) warrants diagnostic testing (CVS or amniocentesis). All chromosomal aneuploidies and many structural anomalies can raise NT.
+
+</details>
+
+---
+
+### Q238 — Rectovaginal fistula: initial management
+
+Patients with rectovaginal fistula should initially be managed with:
+
+- A. Diverting colostomy
+- B. Immediate primary repair
+- C. Posterior colporrhaphy
+- D. Anterior resection
+
+<details><summary>Answer</summary>
+
+**A. Diverting colostomy** — Initial diverting colostomy reduces faecal contamination and allows inflammation to resolve, substantially improving outcomes of subsequent definitive repair. Direct immediate repair without diversion has high failure rates, especially for radiation-related or obstetric fistulas.
+
+</details>
+
+---
+
+### Q239 — Secondary amenorrhoea: most common cause in India
+
+The most common cause of secondary amenorrhoea in India is:
+
+- A. Endometrial (genital) tuberculosis
+- B. Premature ovarian failure
+- C. Polycystic ovarian syndrome
+- D. Sheehan's syndrome
+
+<details><summary>Answer</summary>
+
+**A. Endometrial (genital) tuberculosis** — India is a high-TB-burden country; genital TB is the leading cause of secondary amenorrhoea and infertility in India. In Western countries, PCOS and hypothalamic amenorrhoea predominate.
+
+</details>
+
+---
+
+### Q240 — Raloxifene and hot flushes
+
+Which of the following does NOT help reduce hot flushes in menopausal women?
+
+- A. Tibolone
+- B. Raloxifene
+- C. Phytoestrogens (isoflavones)
+- D. Androgens (testosterone)
+
+<details><summary>Answer</summary>
+
+**B. Raloxifene** — Raloxifene (SERM) acts as an oestrogen antagonist in the hypothalamus and may actually WORSEN hot flushes. It protects bone and breast/endometrium but has no benefit for vasomotor symptoms — a key distinction from HRT and tibolone.
+
+</details>
+
+---
+
+### Q241 — Most common side effect of copper IUCD
+
+The most common side effect leading to IUCD discontinuation is:
+
+- A. Menorrhagia (increased menstrual blood loss)
+- B. Dysmenorrhoea
+- C. Pelvic infection
+- D. Ectopic pregnancy
+
+<details><summary>Answer</summary>
+
+**A. Menorrhagia** — Copper IUCDs increase menstrual blood loss by ~30–50% and the duration of menstruation through local prostaglandin-mediated endometrial reaction. This is the most common reason for discontinuation. (In contrast, LNG-IUS reduces menstrual blood loss.)
+
+</details>
+
+---
+
+### Q242 — Ideal contraceptive in cardiac disease
+
+Ideal contraceptive for a patient with significant cardiac disease is:
+
+- A. Copper IUCD
+- B. Depot medroxyprogesterone acetate (DMPA)
+- C. Barrier method (diaphragm or condom)
+- D. Combined oral contraceptive pill
+
+<details><summary>Answer</summary>
+
+**C. Barrier method** — Barrier methods (condoms, diaphragm) have no haemodynamic, thrombotic, or fluid-retentive effects. Combined OCPs carry VTE and cardiovascular risk (oestrogen); DMPA can cause fluid retention; copper IUCD insertion can cause vasovagal reaction. Specific guidance depends on cardiac lesion type.
+
+</details>
+
+---
+
+### Q243 — Preterm birth risk: cervical length threshold
+
+Risk of preterm birth is significantly increased when transvaginal cervical length is:
+
+- A. < 2.5 cm (25 mm)
+- B. < 3.0 cm
+- C. < 3.5 cm
+- D. < 4.0 cm
+
+<details><summary>Answer</summary>
+
+**A. < 2.5 cm (25 mm)** — Cervical length < 25 mm on TVUS is the established threshold for significant preterm birth risk. In singleton pregnancies with prior preterm birth, vaginal progesterone is indicated. Cervical pessary or cerclage may be considered depending on history.
+
+</details>
+
+---
+
+### Q244 — GTD incidence: highest geographic region
+
+The highest incidence of gestational trophoblastic disease (complete mole) is in:
+
+- A. Australia
+- B. Southeast Asia
+- C. North America
+- D. Western Europe
+
+<details><summary>Answer</summary>
+
+**B. Southeast Asia** — Complete mole incidence: ~1/600–1000 pregnancies in Southeast Asia vs. ~1/1500–2000 in Western countries. Risk factors: dietary vitamin A/carotene deficiency, Asian ethnicity, extremes of reproductive age (< 15 or > 40 years), and previous molar pregnancy.
+
+</details>
+
+---
+
+### Q245 — Aspermia vs azoospermia
+
+Aspermia is defined as:
+
+- A. Complete absence of the ejaculate (no semen produced)
+- B. Absence of sperm in the ejaculate
+- C. Absence of sperm motility
+- D. Abnormal sperm morphology only
+
+<details><summary>Answer</summary>
+
+**A. Complete absence of the ejaculate** — Aspermia = no semen produced (due to retrograde ejaculation or ejaculatory duct obstruction). Azoospermia = semen present but no sperm. Asthenozoospermia = poor motility; teratozoospermia = abnormal morphology. These terms are a classic MCQ trap.
+
+</details>
+
+---
+
+### Q246 — Vaccine contraindicated in pregnancy: live attenuated
+
+Which live attenuated vaccine is absolutely contraindicated in pregnancy?
+
+- A. Tetanus toxoid
+- B. Hepatitis B (recombinant subunit)
+- C. Varicella (chickenpox)
+- D. Inactivated influenza
+
+<details><summary>Answer</summary>
+
+**C. Varicella vaccine** — All live attenuated vaccines (varicella, MMR, yellow fever, oral typhoid) are contraindicated in pregnancy due to theoretical risk of congenital infection. Tetanus toxoid, recombinant Hep B, and inactivated influenza are safe and recommended in pregnancy.
+
+</details>
+
+---
+
+### Q247 — Presenting diameter of fully flexed vertex
+
+The presenting (engaging) diameter of the fetal head in a fully flexed vertex presentation is:
+
+- A. Suboccipitobregmatic (9.5 cm)
+- B. Suboccipitofrontal (10 cm)
+- C. Occipitofrontal (11.5 cm)
+- D. Mentovertical (13.5 cm)
+
+<details><summary>Answer</summary>
+
+**A. Suboccipitobregmatic (9.5 cm)** — In maximum flexion (chin on chest), the smallest AP diameter of the fetal head (suboccipitobregmatic = 9.5 cm) presents through the pelvis. This is the normal presenting diameter in a well-flexed vertex. Partial deflexion presents larger diameters.
+
+</details>
+
+---
+
+### Q248 — Functional residual capacity in pregnancy
+
+Which respiratory parameter DECREASES during pregnancy?
+
+- A. Tidal volume
+- B. Minute ventilation
+- C. Functional residual capacity (FRC)
+- D. Inspiratory capacity
+
+<details><summary>Answer</summary>
+
+**C. Functional residual capacity (FRC)** — FRC decreases ~20% in pregnancy due to diaphragmatic elevation by the gravid uterus. Tidal volume (+40%), minute ventilation (+40–50%), and inspiratory capacity all increase. Residual volume and expiratory reserve volume also decrease.
+
+</details>
+
+---
+
+### Q249 — Ulipristal acetate dose for emergency contraception
+
+Standard dose of ulipristal acetate (ella) for emergency contraception:
+
+- A. 300 mg
+- B. 30 mg
+- C. 3 mg
+- D. 300 µg
+
+<details><summary>Answer</summary>
+
+**B. 30 mg** — Ulipristal acetate (UPA) 30 mg PO is a selective progesterone receptor modulator (SPRM) used as emergency contraception within 120 hours (5 days) of unprotected intercourse. More effective than levonorgestrel, especially after 72 hours. Cannot be used while breastfeeding.
+
+</details>
+
+---
+
+### Q250 — Hyaline degeneration of fibroid
+
+Which type of uterine fibroid degeneration is MOST COMMON overall?
+
+- A. Red (carneous) degeneration
+- B. Hyaline degeneration
+- C. Myxomatous degeneration
+- D. Cystic degeneration
+
+<details><summary>Answer</summary>
+
+**B. Hyaline degeneration** — The most common form of fibroid degeneration (~65% of all fibroids). Smooth muscle cells are replaced by homogeneous acellular collagenous hyaline material. Red degeneration is the most common symptomatic type (presenting acutely in pregnancy).
+
+</details>
+
+---
+
+### Q251 — Kallmann syndrome features
+
+Kallmann syndrome is associated with all of the following EXCEPT:
+
+- A. Primary amenorrhoea
+- B. Normal secondary sexual characteristics
+- C. Hypogonadotropic hypogonadism
+- D. Anosmia (loss of smell)
+
+<details><summary>Answer</summary>
+
+**B. Normal secondary sexual characteristics** — Kallmann syndrome is caused by failure of GnRH neuron migration (along with olfactory neurons) from the olfactory placode to the hypothalamus → low GnRH → low FSH/LH → failure of secondary sexual development (absent breast development, primary amenorrhoea) + anosmia. Secondary sexual characteristics are absent or markedly underdeveloped.
+
+</details>
+
+---
+
+### Q252 — Hyperprolactinaemia causing amenorrhoea: mechanism
+
+Hyperprolactinaemia causes amenorrhoea by:
+
+- A. Direct inhibition of oestrogen receptors in the uterus
+- B. Inhibiting hypothalamic GnRH pulsatility
+- C. Direct ovarian toxicity
+- D. Stimulating excess FSH secretion
+
+<details><summary>Answer</summary>
+
+**B. Inhibiting hypothalamic GnRH pulsatility** — Elevated prolactin directly suppresses GnRH pulse generator in the hypothalamus → ↓ LH/FSH → anovulation → amenorrhoea + galactorrhoea. First-line treatment: dopamine agonists (cabergoline preferred; bromocriptine second-line).
+
+</details>
+
+---
+
+### Q253 — APLA syndrome in pregnancy: treatment
+
+Most appropriate treatment for recurrent pregnancy loss due to confirmed antiphospholipid antibody syndrome (APAS):
+
+- A. Low-dose aspirin alone (from conception)
+- B. Low-dose aspirin + prophylactic-dose LMWH (from confirmed IUP)
+- C. Prednisolone alone throughout pregnancy
+- D. Intravenous immunoglobulin
+
+<details><summary>Answer</summary>
+
+**B. Low-dose aspirin + prophylactic-dose LMWH** — Standard evidence-based treatment for obstetric APAS (RCOG/ACR guidelines). Aspirin 75 mg/day started preconceptionally; prophylactic LMWH added once intrauterine pregnancy confirmed on ultrasound. Steroids are NOT routinely recommended and increase prematurity risk.
+
+</details>
+
+---
+
+### Q254 — Thalassaemia screening in pregnancy
+
+Initial screening investigation for thalassaemia in a pregnant woman:
+
+- A. Haemoglobin electrophoresis
+- B. HPLC (high-performance liquid chromatography)
+- C. Mean corpuscular volume (MCV) < 80 fL
+- D. Osmotic fragility test
+
+<details><summary>Answer</summary>
+
+**C. Mean corpuscular volume (MCV) < 80 fL** — MCV < 80 fL (microcytosis with normal/high iron stores) is the initial screening trigger for thalassaemia trait, followed by HPLC/haemoglobin electrophoresis. If both parents are carriers, offer prenatal diagnosis (CVS at 10–13 weeks or amniocentesis at 15–18 weeks).
+
+</details>
+
+---
+
+### Q255 — CVS timing
+
+Chorionic villus sampling (CVS) for prenatal diagnosis is performed at:
+
+- A. 6–8 weeks
+- B. 10–13 weeks
+- C. 14–18 weeks
+- D. 18–22 weeks
+
+<details><summary>Answer</summary>
+
+**B. 10–13 weeks** — CVS (transcervical or transabdominal) is performed at 10–13 weeks; it provides earlier diagnosis than amniocentesis (15–18 weeks), allowing first-trimester decision-making. Risk of limb reduction defects if performed before 10 weeks.
+
+</details>
+
+---
+
+### Q256 — BPP score interpretation
+
+A fetal biophysical profile score of 4/10 indicates:
+
+- A. Reassuring fetal well-being — routine surveillance
+- B. Equivocal — repeat in 24 hours
+- C. Non-reassuring — consider delivery based on gestational age
+- D. Normal — no further action needed
+
+<details><summary>Answer</summary>
+
+**C. Non-reassuring — consider delivery** — BPP interpretation: 8–10 = normal; 6 = equivocal (repeat within 24 hours or proceed to NST); 4 = non-reassuring (delivery should be considered, especially at term); 0–2 = immediate delivery. Each of the 5 parameters scores 0 or 2 points.
+
+</details>
+
+---
+
+### Q257 — Normal physiological leucorrhoea: mechanism
+
+Normal physiological vaginal discharge (leucorrhoea) is produced by:
+
+- A. Cervical mucus and Bartholin gland secretions alone
+- B. Transudation of plasma through vaginal epithelium
+- C. Endometrial secretions
+- D. Peritoneal fluid entering through fallopian tubes
+
+<details><summary>Answer</summary>
+
+**B. Transudation of plasma through vaginal epithelium** — Normal leucorrhoea results from plasma transudate through the vaginal walls (no glands in vaginal epithelium) combined with cervical mucus. It is clear/white, odourless, non-irritating. It increases at mid-cycle, in pregnancy, and during sexual arousal.
+
+</details>
+
+---
+
+### Q258 — APGAR score: timing
+
+Routine APGAR score assessment is performed at:
+
+- A. 1 minute and 3 minutes
+- B. 1 minute and 5 minutes
+- C. 2 minutes and 5 minutes
+- D. 5 minutes and 10 minutes
+
+<details><summary>Answer</summary>
+
+**B. 1 minute and 5 minutes** — APGAR at 1 minute: initial assessment of transition to extra-uterine life. At 5 minutes: response to resuscitation efforts. If score < 7 at 5 minutes, reassess every 5 minutes up to 20 minutes. Score 7–10 = normal; 4–6 = moderate depression; 0–3 = severe depression.
+
+</details>
+
+---
+
+### Q259 — Parvovirus B19 in pregnancy
+
+Parvovirus B19 infection in the second trimester primarily causes fetal:
+
+- A. Congenital rubella-like syndrome
+- B. Aplastic crisis and hydrops fetalis
+- C. Cataracts and sensorineural deafness
+- D. Intracranial periventricular calcifications
+
+<details><summary>Answer</summary>
+
+**B. Aplastic crisis and hydrops fetalis** — Parvovirus B19 targets erythroid progenitors via the P antigen → aplastic crisis → severe fetal anaemia → high-output cardiac failure → non-immune hydrops. Risk greatest before 20 weeks; monitor with serial MCA Doppler PSV. Intrauterine transfusion for MCA PSV > 1.5 MoM with confirmed anaemia.
+
+</details>
+
+---
+
+### Q260 — Endometrioid ovarian tumour
+
+A solid ovarian tumour with cystic areas containing haemorrhagic fluid, accounting for approximately 20% of ovarian cancers, and frequently associated with ovarian endometriosis:
+
+- A. Serous cystadenocarcinoma
+- B. Clear cell (mesonephroid) carcinoma
+- C. Endometrioid carcinoma
+- D. Brenner tumour
+
+<details><summary>Answer</summary>
+
+**C. Endometrioid carcinoma** — Endometrioid ovarian tumours account for ~20% of ovarian cancers; predominantly malignant; co-exist with ovarian endometriosis in ~15% of cases; moderate-sized solid tumour with glandular epithelium resembling endometrial carcinoma. Associated with Lynch syndrome (HNPCC).
+
+</details>
+
+---
+
+### Q261 — LH surge to ovulation: timing from peak
+
+From the PEAK of the LH surge, ovulation occurs after approximately:
+
+- A. 0–6 hours
+- B. 10–12 hours
+- C. 24–36 hours
+- D. 48 hours
+
+<details><summary>Answer</summary>
+
+**B. 10–12 hours** — The LH surge begins 24–36 hours before ovulation; from the LH peak to follicular rupture is approximately 10–12 hours. This timing is the basis for monitoring ovulation induction in assisted reproduction cycles and scheduling IUI/IVF egg retrieval.
+
+</details>
+
+---
+
+### Q262 — Hydrosalpinx on HSG
+
+An HSG of an infertile woman shows blocked fallopian tubes with club-shaped, fluid-filled dilatation at the fimbrial ends. Diagnosis:
+
+- A. Hydrosalpinx
+- B. Bilateral ovarian cysts
+- C. Uterine fibroids
+- D. Cornual polyps
+
+<details><summary>Answer</summary>
+
+**A. Hydrosalpinx** — Distal tubal occlusion with accumulation of serous fluid; HSG shows patent proximal tube then blind-ending dilated distal tube. Hydrosalpinx reduces IVF success rates (~50% reduction) through toxic spill and altered endometrial receptivity. Laparoscopic salpingectomy or proximal occlusion before IVF is recommended.
+
+</details>
+
+---
+
+### Q263 — Incompetent cervix: Hegar dilator test
+
+A woman with two consecutive second-trimester pregnancy losses has the Hegar no. 8 dilator passing through her cervix without resistance (outside pregnancy). Diagnosis:
+
+- A. Septate uterus
+- B. Unicornuate uterus
+- C. Uterus didelphys
+- D. Cervical incompetence (cervical insufficiency)
+
+<details><summary>Answer</summary>
+
+**D. Cervical incompetence** — A cervix through which a Hegar no. 8 passes without resistance (non-pregnant state) indicates insufficiency. Management: history-indicated (prophylactic) McDonald cerclage placed at 12–14 weeks in the next pregnancy.
+
+</details>
+
+---
+
+### Q264 — Obstetrical conjugate
+
+The obstetrical conjugate is the shortest anteroposterior diameter of the pelvic inlet, measured from:
+
+- A. Sacral promontory to the upper edge of the pubic symphysis
+- B. Mid-posterior surface of the pubic symphysis to the sacral promontory
+- C. Sacral promontory to the lower edge of the pubic symphysis
+- D. Between the two ischial spines
+
+<details><summary>Answer</summary>
+
+**B. Mid-posterior surface of the pubic symphysis to the sacral promontory** — The obstetrical conjugate (~10.5 cm) is the smallest true conjugate and determines whether the presenting part can enter the pelvic inlet. It is estimated clinically as diagonal conjugate − 1.5 cm.
+
+</details>
+
+---
+
+### Q265 — Obstructive azoospermia: normal FSH and testicular size
+
+A 25-year-old man with azoospermia has normal testicular size, normal FSH, and normal testosterone. Most likely cause:
+
+- A. Obstructed vas deferens (obstructive azoospermia)
+- B. Kallmann syndrome
+- C. Klinefelter syndrome
+- D. Noonan syndrome
+
+<details><summary>Answer</summary>
+
+**A. Obstructed vas deferens** — Normal FSH and testicular volume indicate normal spermatogenesis; the block is at the level of the vas deferens or epididymis. Testicular FNAC confirms spermatogenesis; surgical sperm retrieval (TESA/PESA) + ICSI is the treatment of choice.
+
+</details>
+
+---
+
+### Q266 — Laparoscopic hysterectomy: cardiac contraindication
+
+A patient with significant cardiac disease (moderate risk) requires hysterectomy for a large fibroid. Which approach is CONTRAINDICATED?
+
+- A. Vaginal hysterectomy
+- B. Total abdominal hysterectomy (TAH)
+- C. Laparoscopic hysterectomy
+- D. Subtotal hysterectomy
+
+<details><summary>Answer</summary>
+
+**C. Laparoscopic hysterectomy** — Pneumoperitoneum causes increased intra-abdominal pressure, reduced venous return, elevated cardiac afterload, and CO2 hypercarbia — all poorly tolerated in significant cardiac disease. Vaginal hysterectomy (no pneumoperitoneum, less blood loss) or open abdominal approach is preferred.
+
+</details>
+
+---
+
+### Q267 — Tamoxifen: classification
+
+Which of the following is a selective oestrogen receptor modulator (SERM)?
+
+- A. Tamoxifen
+- B. Anastrozole
+- C. Mifepristone
+- D. Ethinyl oestradiol
+
+<details><summary>Answer</summary>
+
+**A. Tamoxifen** — SERMs have tissue-selective oestrogenic/anti-oestrogenic effects. Tamoxifen: antagonist in breast (treats ER+ breast cancer), agonist in bone (prevents osteoporosis) and uterus (risk of endometrial hyperplasia/cancer). Anastrozole is an aromatase inhibitor (reduces oestrogen synthesis); mifepristone is a progesterone receptor antagonist.
+
+</details>
+
+---
+
+### Q268 — IUCD and ectopic risk
+
+A woman using a copper IUCD presents with vaginal bleeding and recurrent syncope. Most likely diagnosis:
+
+- A. Ectopic pregnancy
+- B. Recurrent miscarriage
+- C. Septicaemia
+- D. Coagulation disorder
+
+<details><summary>Answer</summary>
+
+**A. Ectopic pregnancy** — IUCDs protect against intrauterine pregnancy but NOT ectopic. If conception occurs with an IUCD in situ, there is a substantially elevated risk that it is ectopic. Syncope + vaginal bleeding in a reproductive-age woman = haemoperitoneum from ruptured ectopic until proven otherwise.
+
+</details>
+
+---
+
+### Q269 — Ovarian dermoid torsion: Rokitansky protuberance
+
+A 30-year-old woman has an ultrasound showing a "Rokitansky protuberance" in a right ovarian cyst, and now presents with sudden severe right iliac fossa pain and guarding. Most likely diagnosis:
+
+- A. Torsion of a subserous fibroid
+- B. Twisted ovarian dermoid cyst
+- C. Ruptured ectopic pregnancy
+- D. Ruptured corpus luteum cyst
+
+<details><summary>Answer</summary>
+
+**B. Twisted ovarian dermoid cyst** — The Rokitansky protuberance (dermoid plug of hair, teeth, sebum) is pathognomonic of a mature cystic teratoma (dermoid). Torsion is the most common complication. Management: urgent laparoscopic detorsion ± cystectomy; unwind before removing to assess viability.
+
+</details>
+
+---
+
+### Q270 — Severe uterine prolapse: surgical treatment
+
+Best surgical treatment for severe (procidentia/3rd-degree) uterovaginal prolapse in a 60-year-old sexually active woman fit for surgery:
+
+- A. Ring pessary
+- B. Abdominal hysterectomy alone
+- C. Vaginal hysterectomy with pelvic floor repair (anterior and posterior colporrhaphy)
+- D. LeFort colpoclesis
+
+<details><summary>Answer</summary>
+
+**C. Vaginal hysterectomy with pelvic floor repair** — Procedure of choice for procidentia in an elderly woman who is fit for surgery and sexually active. LeFort colpoclesis (partial vaginal obliteration) is an alternative for frail women who are not sexually active. Pessary is for those refusing or unfit for surgery.
+
+</details>
+
+---
+
+### Q271 — GDM mechanism
+
+The primary mechanism underlying gestational diabetes mellitus (GDM) is:
+
+- A. Decreased pancreatic insulin secretion
+- B. Placental hormone-induced peripheral insulin resistance
+- C. Autoimmune destruction of pancreatic beta cells
+- D. Decreased renal glucose threshold
+
+<details><summary>Answer</summary>
+
+**B. Placental hormone-induced peripheral insulin resistance** — Human placental lactogen (hPL), cortisol, progesterone, and oestrogen are insulin counter-regulatory hormones; their rising levels in mid-pregnancy create progressive insulin resistance. GDM develops when pancreatic reserve is insufficient to compensate.
+
+</details>
+
+---
+
+### Q272 — Anembryonic pregnancy (blighted ovum): USG criterion
+
+Transvaginal ultrasound criterion for diagnosing anembryonic pregnancy:
+
+- A. Empty gestational sac ≥ 15 mm mean sac diameter
+- B. Empty gestational sac ≥ 25 mm mean sac diameter
+- C. No fetal pole at 6 weeks by dates
+- D. Single visible yolk sac only
+
+<details><summary>Answer</summary>
+
+**B. Empty gestational sac ≥ 25 mm mean sac diameter** — RCOG/NICE updated criteria: mean sac diameter ≥ 25 mm on TVUS with no embryo is diagnostic of failed pregnancy (anembryonic). If < 25 mm, a follow-up scan is required before confirming non-viability.
+
+</details>
+
+---
+
+### Q273 — Ovarian torsion: laterality
+
+Ovarian torsion is more common on which side?
+
+- A. Left side
+- B. Right side
+- C. Equal on both sides
+- D. Bilateral simultaneously
+
+<details><summary>Answer</summary>
+
+**B. Right side** — Right-sided ovarian torsion is more common because the sigmoid colon limits left ovarian mobility, while the right ovary has more freedom to rotate. Pregnancy-related physiological laxity further predisposes the right side.
+
+</details>
+
+---
+
+### Q274 — AMH: advantage over day-3 FSH
+
+Anti-Müllerian hormone (AMH) is a better marker of ovarian reserve than day-3 FSH because:
+
+- A. AMH does not vary significantly through the menstrual cycle
+- B. AMH is produced by the corpus luteum
+- C. AMH is elevated in premature ovarian failure
+- D. AMH requires 12-hour fasting for accuracy
+
+<details><summary>Answer</summary>
+
+**A. AMH is cycle-independent** — AMH (produced by granulosa cells of preantral and small antral follicles) remains relatively stable throughout the menstrual cycle, enabling testing at any point. Day-3 FSH must be measured at a specific cycle day and is subject to inter-cycle variability.
+
+</details>
+
+---
+
+### Q275 — Infertility workup: initial investigations
+
+A 29-year-old couple with 3 years of primary infertility, regular cycles, and normal coital frequency. Correct initial investigations:
+
+- A. Semen analysis, CXR, and Mantoux test
+- B. Semen analysis, tubal patency test, and ovulation assessment
+- C. Ovulation assessment, tubal patency, and Mantoux test
+- D. Testicular biopsy, scrotal USG, and sperm penetration assay
+
+<details><summary>Answer</summary>
+
+**B. Semen analysis, tubal patency test, and ovulation assessment** — Basic infertility workup: (1) semen analysis (male factor ~40%), (2) confirm ovulation (mid-luteal day-21 progesterone, BBT, LH kit), (3) assess tubal patency (HSG). Invasive tests are second-line if initial workup is normal.
+
+</details>
+
+---
+
+### Q276 — Fibroid degeneration: least common type
+
+An asymptomatic woman with uterine fibroid declines treatment. Which change in the fibroid is LEAST likely to occur?
+
+- A. Calcification
+- B. Sarcomatous (malignant) transformation
+- C. Infection and suppuration
+- D. Torsion (pedunculated fibroid)
+
+<details><summary>Answer</summary>
+
+**B. Sarcomatous transformation** — Malignant transformation of a fibroid to leiomyosarcoma is extremely rare (< 0.1% — essentially a de novo cancer, not true malignant degeneration). Previously quoted higher rates reflected misclassification. Hyaline degeneration, calcification, cystic change, and red degeneration are all much more common.
+
+</details>
+
+---
+
+### Q277 — Blastocyst formation timing
+
+Blastocyst formation (cavitation of the morula) occurs after fertilisation on approximately:
+
+- A. Day 4–5
+- B. Day 10–12
+- C. Day 12–15
+- D. Day 15–20
+
+<details><summary>Answer</summary>
+
+**A. Day 4–5** — Timeline: fertilisation (Day 0) → 2-cell (Day 1) → morula (Day 3–4) → blastocyst (Day 4–5, cavity forms by cavitation) → zona hatching → implantation (Day 6–9). The blastocyst reaches the uterine cavity around Day 4 as a morula/early blastocyst.
+
+</details>
+
+---
+
+### Q278 — Anorexia nervosa: NOT a feature
+
+Which is NOT typically seen in anorexia nervosa?
+
+- A. Osteoporosis
+- B. Refusal to maintain normal body weight
+- C. Significant weight loss
+- D. Menorrhagia
+
+<details><summary>Answer</summary>
+
+**D. Menorrhagia** — Anorexia nervosa causes hypothalamic amenorrhoea (due to critically low body fat → suppressed GnRH), NOT menorrhagia. Other features: lanugo, bradycardia, hypokalaemia, osteoporosis (oestrogen deficiency), and elevated LFTs (fatty change).
+
+</details>
+
+---
+
+### Q279 — Kartagener's syndrome and fallopian tubes
+
+Decreased ciliary motility of fallopian tubes (causing infertility via impaired ovum transport) is associated with:
+
+- A. Noonan syndrome
+- B. PCOS
+- C. Churg-Strauss syndrome
+- D. Kartagener's syndrome (primary ciliary dyskinesia)
+
+<details><summary>Answer</summary>
+
+**D. Kartagener's syndrome** — Primary ciliary dyskinesia (Kartagener's triad: bronchiectasis + situs inversus + sinusitis) causes immotile cilia due to absent dynein arms. Female patients have subfertility from impaired tubal ciliary transport; male patients have immotile sperm (infertility).
+
+</details>
+
+---
+
+### Q280 — Savage syndrome (resistant ovary syndrome)
+
+Which statement is TRUE regarding Savage syndrome?
+
+- A. There is a receptor defect to gonadotrophic hormones (FSH/LH)
+- B. Patient has short stature
+- C. Ovaries do not contain follicles
+- D. FSH levels are normal
+
+<details><summary>Answer</summary>
+
+**A. Receptor defect to gonadotrophic hormones** — Savage (resistant ovary) syndrome: ovaries contain normal primordial follicles but are unresponsive to FSH/LH due to receptor dysfunction → hypergonadotrophic hypogonadism with normal stature and normal karyotype (46,XX). Distinguishes it from POF (no follicles) and Turner syndrome (45,X0, short stature).
+
+</details>
+
+---
+
+### Q281 — Sacral agenesis: specific maternal condition
+
+Sacral agenesis (caudal regression syndrome) in the neonate is most specifically associated with:
+
+- A. Gestational diabetes mellitus
+- B. Pre-gestational (preexisting) diabetes mellitus
+- C. ACE inhibitor use in pregnancy
+- D. Valproate use in pregnancy
+
+<details><summary>Answer</summary>
+
+**B. Pre-gestational diabetes mellitus** — Caudal regression syndrome is 200-fold more common in infants of pregestational diabetic mothers; poor periconceptional glycaemic control (↑ HbA1c in first trimester) is the specific risk. GDM is diagnosed after organogenesis is already complete and does not cause this malformation.
+
+</details>
+
+---
+
+### Q282 — GTN marker for monitoring
+
+In gestational trophoblastic neoplasia (GTN), the most reliable marker for monitoring treatment response and detecting recurrence is:
+
+- A. CA-125
+- B. AFP
+- C. β-hCG
+- D. LDH
+
+<details><summary>Answer</summary>
+
+**C. β-hCG** — β-hCG is the definitive tumour marker for all forms of GTN (produced by trophoblastic tissue). Serial β-hCG measurements are used to document complete remission (three consecutive normal values) and detect relapse. A plateau or rising titre during chemotherapy signals resistance.
+
+</details>
+
+---
+
+### Q283 — LH surge to ovulation: complete interval
+
+The onset of the LH surge precedes ovulation by approximately:
+
+- A. 6–8 hours
+- B. 10–12 hours
+- C. 24–36 hours
+- D. 48–72 hours
+
+<details><summary>Answer</summary>
+
+**C. 24–36 hours** — The LH surge begins approximately 24–36 hours before follicular rupture (ovulation). The LH peak (highest point) precedes ovulation by ~10–12 hours. This timing is used for scheduling IUI (24–36 hours after LH surge onset) and egg retrieval (35–36 hours after hCG trigger).
+
+</details>
+
+---
+
+### Q284 — Carboprost (PGF2α): contraindication
+
+Carboprost (15-methyl PGF2α) for atonic PPH is absolutely contraindicated in:
+
+- A. Hypertension
+- B. Asthma
+- C. Diabetes mellitus
+- D. Epilepsy
+
+<details><summary>Answer</summary>
+
+**B. Asthma** — Carboprost causes bronchoconstriction and is absolutely contraindicated in asthma (can precipitate fatal bronchospasm). It is also relatively contraindicated in hepatic/renal disease and significant cardiac disease. Safe alternatives: oxytocin, ergometrine (if no hypertension), misoprostol, tranexamic acid.
+
+</details>
+
+---
+
+### Q285 — Endometriosis: main sequela causing infertility
+
+A 23-year-old with dyspareunia and pelvic pain; uterus is retroverted with adnexal tenderness. The most important long-term consequence of endometriosis is:
+
+- A. Recurrent pregnancy loss
+- B. Infertility
+- C. Pelvic organ prolapse
+- D. Secondary amenorrhoea
+
+<details><summary>Answer</summary>
+
+**B. Infertility** — Endometriosis causes infertility through peritubal/periovarian adhesions, altered peritoneal fluid environment (toxic to sperm and oocytes), impaired folliculogenesis, and endometriomas replacing functional ovarian tissue. ~30–50% of infertile women have endometriosis.
+
+</details>
+
+---
+
+### Q286 — Submucosal fibroid on hysteroscopy
+
+A 28-year-old woman with menorrhagia and primary infertility has a round, firm, stalked mass projecting into the uterine cavity on hysteroscopy. Diagnosis:
+
+- A. Pedunculated subserosal fibroid
+- B. Submucosal fibroid (FIGO type 0)
+- C. Endometrial carcinoma
+- D. Gestational sac
+
+<details><summary>Answer</summary>
+
+**B. Submucosal fibroid (FIGO type 0)** — A pedunculated submucosal fibroid (type 0 = entirely intracavitary) is the hysteroscopic finding; it is the most common fibroid type causing menorrhagia and infertility. Treatment: hysteroscopic myomectomy.
+
+</details>
+
+---
+
+### Q287 — Persistent occipitoposterior: pelvic type
+
+A woman in labour has a persistent occiput-posterior position that could not be rotated manually. Most likely pelvic type:
+
+- A. Gynaecoid pelvis
+- B. Anthropoid pelvis
+- C. Platypelloid pelvis
+- D. Android pelvis
+
+<details><summary>Answer</summary>
+
+**B. Anthropoid pelvis** — Anthropoid pelvis: AP diameter > transverse diameter; favours occiput-posterior and occiput-anterior positions; OP cannot rotate easily to OA because the anteroposterior diameter is long. Direct OP delivery (face-to-pubis) may occur with an anthropoid pelvis.
+
+</details>
+
+---
+
+### Q288 — Placenta accreta after VBAC
+
+A G2P1 woman had a LSCS for her first delivery. After an apparently successful VBAC, the placenta could not be delivered; the cord snapped on traction and heavy bleeding occurred. Likely diagnosis:
+
+- A. Succenturiate lobe
+- B. Uterine inversion
+- C. Placenta accreta
+- D. Placenta praevia
+
+<details><summary>Answer</summary>
+
+**C. Placenta accreta** — Previous LSCS scar is the most common risk factor for placenta accreta (absent decidua basalis at scar site). Failure of placental separation + cord avulsion + haemorrhage is the classic presentation. Management: conservative (balloon tamponade, UAE, leave placenta in situ) or peripartum hysterectomy.
+
+</details>
+
+---
+
+### Q289 — Uterine rupture: clinical triad
+
+A 37-week pregnant woman in obstructed labour presents with sudden cessation of contractions, hypotension, and fetal parts palpable superficially with absent fetal heart sounds. Most likely diagnosis:
+
+- A. Abruptio placentae
+- B. Ruptured uterus
+- C. Intrauterine fetal death
+- D. Cord prolapse
+
+<details><summary>Answer</summary>
+
+**B. Ruptured uterus** — Classic triad of complete uterine rupture: (1) sudden cessation of uterine contractions, (2) fetal parts palpable superficially (fetus extruded into peritoneal cavity), (3) absent fetal heart sounds. Immediate emergency laparotomy.
+
+</details>
+
+---
+
+### Q290 — PPH risk factor: NOT among classic causes
+
+The following pregnancy complications increase risk of postpartum haemorrhage EXCEPT:
+
+- A. Macrosomia
+- B. Twin pregnancy
+- C. Polyhydramnios
+- D. Preeclampsia (hypertension)
+
+<details><summary>Answer</summary>
+
+**D. Preeclampsia** — Uterine overdistension (macrosomia, multiple pregnancy, polyhydramnios) causes atony — the most common cause of PPH. Preeclampsia per se is NOT in the classic "4 T's" of PPH risk (Tone, Tissue, Trauma, Thrombin). Severe preeclampsia may cause coagulopathy (Thrombin category) but hypertension alone is not a direct PPH risk.
+
+</details>
+
+---
+
+### Q291 — Implants: lowest contraceptive failure rate
+
+A woman wants the most effective long-term reversible contraception. Which method has the lowest typical-use failure rate?
+
+- A. Subdermal progestogen implant
+- B. Combined oral contraceptive pill
+- C. Condoms
+- D. Copper IUCD
+
+<details><summary>Answer</summary>
+
+**A. Subdermal progestogen implant** — Etonogestrel implant (Implanon/Nexplanon) has a Pearl Index of ~0.05 per 100 woman-years — the lowest of all non-permanent contraceptive methods. Effective for 3 years; independent of user compliance (unlike pills and condoms).
+
+</details>
+
+---
+
+### Q292 — IUCD with invisible strings in early pregnancy: next step
+
+A woman at 7 weeks gestation with an IUCD in situ has absent strings on speculum examination. Most appropriate next step:
+
+- A. Start combined oral contraceptives
+- B. Pelvic ultrasound
+- C. Hysterosalpingogram
+- D. Reassurance and observation
+
+<details><summary>Answer</summary>
+
+**B. Pelvic ultrasound** — Ultrasound first: confirms intrauterine vs. ectopic pregnancy, locates the IUCD (uterine, expelled, or migrated to abdomen), and helps decide further management. Do NOT do HSG in pregnancy; do NOT offer reassurance without localising the IUD.
+
+</details>
+
+---
+
+### Q293 — IUCD absolute contraindication
+
+Which is an absolute contraindication to IUCD insertion?
+
+- A. Unexplained vaginal bleeding
+- B. History of previous PID (> 3 months ago)
+- C. Previous ectopic pregnancy
+- D. HIV-positive status
+
+<details><summary>Answer</summary>
+
+**A. Unexplained vaginal bleeding** — Unexplained uterine/vaginal bleeding must be investigated before IUCD insertion to exclude endometrial or cervical pathology. Active PID is also an absolute contraindication. Previous PID (fully treated, > 3 months) and previous ectopic are relative contraindications only.
+
+</details>
+
+---
+
+### Q294 — Primary amenorrhoea: exception
+
+Causes of primary amenorrhoea include all EXCEPT:
+
+- A. Turner syndrome
+- B. Sheehan's syndrome
+- C. MRKH syndrome
+- D. Kallmann syndrome
+
+<details><summary>Answer</summary>
+
+**B. Sheehan's syndrome** — Sheehan's (postpartum pituitary ischaemia) causes SECONDARY amenorrhoea; the woman had previously menstruated before her catastrophic obstetric haemorrhage. Turner syndrome, MRKH, and Kallmann syndrome all present with primary amenorrhoea (menarche never occurs).
+
+</details>
+
+---
+
+### Q295 — Secondary amenorrhoea in unmarried woman: first test
+
+A 32-year-old unmarried woman with 6 months of secondary amenorrhoea and normal pelvic examination. First investigation:
+
+- A. LH and FSH
+- B. Serum oestradiol
+- C. Pelvic ultrasound
+- D. Urine β-hCG (pregnancy test)
+
+<details><summary>Answer</summary>
+
+**D. Urine β-hCG (pregnancy test)** — Pregnancy is the commonest cause of secondary amenorrhoea and must be excluded first, regardless of marital status or perceived sexual activity. Only after a negative pregnancy test should hormonal or anatomical investigations proceed.
+
+</details>
+
+---
+
+### Q296 — Ovarian cyst 6 cm in premenopausal woman: management
+
+A 30-year-old nulliparous woman has a unilateral 6 × 6 cm simple-looking ovarian cyst on routine ultrasound, persisting on repeat scan 6 weeks later. Next management:
+
+- A. CA-125 monitoring and repeat ultrasound annually
+- B. Open oophorectomy
+- C. Laparoscopic cystectomy
+- D. Combined OCP for 3 months
+
+<details><summary>Answer</summary>
+
+**C. Laparoscopic cystectomy** — A persistent ovarian cyst ≥ 5 cm in a premenopausal woman warrants surgical evaluation; laparoscopic cystectomy preserves ovarian tissue and provides histological diagnosis. RCOG: cysts 5–10 cm with benign features → laparoscopic cystectomy; < 5 cm simple → expectant management.
+
+</details>
+
+---
+
+### Q297 — Secondary amenorrhoea with low FSH: cause
+
+A 32-year-old with secondary amenorrhoea following curettage; FSH is 7 IU/L (low/normal). Most likely diagnosis:
+
+- A. Pituitary failure
+- B. Premature ovarian failure
+- C. Intrauterine adhesions (Asherman's syndrome)
+- D. Pregnancy
+
+<details><summary>Answer</summary>
+
+**C. Intrauterine adhesions (Asherman's syndrome)** — Post-curettage secondary amenorrhoea with normal/low FSH indicates the ovaries are normal and the axis is intact; the endometrium has been destroyed. Diagnosis: saline infusion sonography or hysteroscopy. Treatment: hysteroscopic adhesiolysis + oestrogen.
+
+</details>
+
+---
+

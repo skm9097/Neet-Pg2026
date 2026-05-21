@@ -3322,3 +3322,296 @@ In a 10-year-old school child, which vaccine is given as part of the immunisatio
 </details>
 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+## Obstetrics & Gynaecology (additional)
+
+### Q211 — GTN with cannonball lesions — management *(2021)*
+
+A woman underwent D&C for molar pregnancy 6 months ago and now has abdominal pain, persistently elevated beta-hCG, and cannonball lung lesions. Appropriate management?
+
+- A. Methotrexate with folinic acid
+- B. Methotrexate alone
+- C. EMA-CO regimen
+- D. Hysterectomy
+
+<details><summary>Answer</summary>
+
+**A. Methotrexate with folinic acid** — With low WHO/FIGO risk score GTN, single-agent methotrexate with folinic acid rescue is used; EMA-CO is reserved for high-risk disease.
+
+</details>
+
+---
+
+### Q212 — HSG image — investigation for recurrent miscarriage (image-based) *(2021)*
+
+A woman with a history of three miscarriages undergoes the investigation shown. Identify the investigation.
+
+- A. Hysteroscopy
+- B. Saline infusion sonography
+- C. Hysterosalpingography
+- D. Transvaginal ultrasonography
+
+<details><summary>Answer</summary>
+
+**C. Hysterosalpingography** — HSG outlines the uterine cavity and tubes using radiopaque contrast and is used to detect Mullerian anomalies and tubal patency.
+
+</details>
+
+---
+
+### Q213 — Stress urinary incontinence — type *(2021)*
+
+A 56-year-old multipara has grade II/III uterine prolapse with cystocele and leaks urine on coughing and sneezing. What type of urinary incontinence is this?
+
+- A. Overflow incontinence
+- B. Urge incontinence
+- C. Stress incontinence
+- D. Neurogenic bladder
+
+<details><summary>Answer</summary>
+
+**C. Stress incontinence** — Leakage with increased intra-abdominal pressure such as coughing or sneezing is stress urinary incontinence, due to urethral sphincter weakness.
+
+</details>
+
+---
+
+### Q214 — Septate uterus — management *(2021)*
+
+A 32-year-old woman evaluated for infertility is found to have a uterine septum. Appropriate management?
+
+- A. Hysterectomy
+- B. Laparoscopy and metroplasty
+- C. Hysteroscopy and septoplasty
+- D. Laparotomy and metroplasty
+
+<details><summary>Answer</summary>
+
+**C. Hysteroscopy and septoplasty** — Septate uterus is managed by hysteroscopic septal resection (septoplasty), preserving the uterus and improving reproductive outcome.
+
+</details>
+
+---
+
+### Q215 — Recurrent abortion + early preeclampsia — diagnosis *(2021)*
+
+A G4A3 woman had miscarriages at 8 and 11 weeks and a pregnancy loss at 24 weeks due to early-onset preeclampsia. Most probable diagnosis?
+
+- A. Syphilis
+- B. Antiphospholipid antibody syndrome
+- C. TORCH infections
+- D. Gestational diabetes mellitus
+
+<details><summary>Answer</summary>
+
+**B. Antiphospholipid antibody syndrome** — Recurrent early losses plus severe placental disease (early-onset preeclampsia) strongly suggests obstetric APS (obstetric criteria fulfilled).
+
+</details>
+
+---
+
+### Q216 — Lactational failure + amenorrhoea + fatigue *(2021)*
+
+A woman has fatigue and constipation for one year, history of multiple blood transfusions after delivery 4 years ago, lactational failure, and amenorrhoea since delivery. Likely diagnosis?
+
+- A. Sheehan syndrome
+- B. Hypothyroidism
+- C. Premature ovarian failure
+- D. Delayed blood transfusion reaction
+
+<details><summary>Answer</summary>
+
+**A. Sheehan syndrome** — Postpartum haemorrhage with lactational failure and persistent amenorrhoea indicates postpartum pituitary necrosis (Sheehan syndrome).
+
+</details>
+
+---
+
+### Q217 — Uterine anomaly — confirming investigation *(2021)*
+
+Ultrasound of a young woman with infertility suggests a uterine anomaly. Which test is used to confirm the diagnosis?
+
+- A. Hysterosalpingography
+- B. Hysteroscopy plus laparoscopy
+- C. Laparoscopy
+- D. Transvaginal sonography
+
+<details><summary>Answer</summary>
+
+**B. Hysteroscopy plus laparoscopy** — Hysteroscopy assesses the uterine cavity and laparoscopy assesses the external uterine contour, helping distinguish septate from bicornuate uterus (gold standard combination).
+
+</details>
+
+---
+
+### Q218 — Infraumbilical flattening + fetal heart laterally *(2021)*
+
+A pregnant woman has infraumbilical flattening and fetal heart sounds heard laterally. Fetal presentation/position?
+
+- A. Brow
+- B. Knee
+- C. Occipitoposterior
+- D. Right dorso-anterior
+
+<details><summary>Answer</summary>
+
+**C. Occipitoposterior** — Occipitoposterior position causes infraumbilical flattening (fetal limbs anteriorly) and fetal heart sounds are best heard toward the flanks.
+
+</details>
+
+---
+
+### Q219 — Active genital herpes at labour — management *(2021)*
+
+A primigravida at term presents in labour with multiple painful vesicular vulval lesions. Management?
+
+- A. Acyclovir and elective cesarean section
+- B. Acyclovir and induction of labour
+- C. Spontaneous delivery
+- D. Antiviral and normal vaginal delivery
+
+<details><summary>Answer</summary>
+
+**A. Acyclovir and elective cesarean section** — Active genital herpes lesions at labour require acyclovir and cesarean delivery to reduce neonatal HSV transmission risk.
+
+</details>
+
+---
+
+### Q220 — Cornual fibroid + infertility — management *(2021)*
+
+A woman being evaluated for infertility has intramural fibroids at both cornual ends of the uterus; semen analysis is normal. Appropriate management?
+
+- A. Uterine artery embolization
+- B. Myomectomy
+- C. Artificial reproductive techniques
+- D. GnRH analogues
+
+<details><summary>Answer</summary>
+
+**B. Myomectomy** — Fibroids distorting or blocking the cornual region in an infertile woman are managed by myomectomy to restore tubal access.
+
+</details>
+
+---
+
+### Q221 — Mid-cycle copious discharge — cause *(2021)*
+
+A 28-year-old woman anxious to conceive has copious vaginal discharge without itching around day 13 of her cycle. Cause?
+
+- A. Candidiasis
+- B. Bacterial vaginosis
+- C. Trichomoniasis
+- D. Physiological
+
+<details><summary>Answer</summary>
+
+**D. Physiological** — Clear copious mid-cycle discharge without itching is physiological estrogenic cervical mucus (Spinnbarkeit) around ovulation (day 13–14).
+
+</details>
+
+---
+
+### Q222 — Atonic PPH — surgical devascularisation order *(2021)*
+
+In atonic postpartum haemorrhage after vaginal delivery, what is the order of ligation of blood vessels supplying the uterus?
+
+- A. Uterine artery – ovarian artery – internal iliac artery
+- B. Uterine artery – ovarian artery – external iliac artery
+- C. Uterine artery – ovarian artery – vaginal artery
+- D. Uterine artery – pudendal artery – vaginal artery
+
+<details><summary>Answer</summary>
+
+**A. Uterine artery – ovarian artery – internal iliac artery** — Surgical devascularisation for atonic PPH proceeds: uterine artery ligation → ovarian artery ligation → internal iliac artery ligation (stepwise).
+
+</details>
+
+---
+
+### Q223 — Transverse vaginal septum — common complication *(2021)*
+
+A teenager with transverse vaginal septum has dysmenorrhoea and chronic pelvic pain. Most common complication?
+
+- A. Endometriosis
+- B. Tubo-ovarian abscess
+- C. Dermoid cyst
+- D. Theca lutein cyst
+
+<details><summary>Answer</summary>
+
+**A. Endometriosis** — Outflow obstruction causes retrograde menstruation, leading to endometriosis and chronic pelvic pain.
+
+</details>
+
+---
+
+### Q224 — Missed OCP pills — advice *(2021)*
+
+A woman on oral contraceptive pills missed pills on 4 different days in the last 2 weeks. What should she be advised?
+
+- A. Take 4 pills now, continue schedule, and use barrier contraception
+- B. Take 1 pill now, continue schedule, and use barrier contraception
+- C. Take 1 pill now, use barrier contraception, and consider emergency contraception if recent intercourse
+- D. Discard the pack, start a new pack, and use an alternate method of contraception
+
+<details><summary>Answer</summary>
+
+**D. Discard the pack, start a new pack, and use an alternate method of contraception** — Missing multiple OCPs late in the cycle significantly compromises contraceptive protection; starting a new pack with backup method is required.
+
+</details>
+
+---
+
+### Q225 — Unruptured ectopic with small mass — management *(2021)*
+
+A stable woman with 6 weeks amenorrhoea, abdominal pain, mild bleeding, beta-hCG 2800 mIU/mL, and a 3 cm adnexal gestational sac without fetal cardiac activity. Best management?
+
+- A. Expectant management
+- B. Single-dose methotrexate
+- C. Salpingectomy
+- D. Milking of the tube
+
+<details><summary>Answer</summary>
+
+**B. Single-dose methotrexate** — Hemodynamically stable unruptured ectopic pregnancy with small mass (<3.5 cm), no fetal cardiac activity, and beta-hCG below 5000 is suitable for medical management with single-dose methotrexate.
+
+</details>
+
+---
+
+### Q226 — Gestational age on OCPs — best method *(2021)*
+
+A woman on oral contraceptives for 6 months presents with 6 weeks amenorrhoea. Best method of assessing gestational age?
+
+- A. Crown-rump length by USG
+- B. Adding 280 days to LMP
+- C. Fundal examination
+- D. Adding 256 days to LMP
+
+<details><summary>Answer</summary>
+
+**A. Crown-rump length by USG** — LMP may be unreliable on OCPs; first-trimester CRL by ultrasound is the most accurate method (±5 days).
+
+</details>
+
+---
+
+### Q227 — Obstetric score — previous twin delivery *(2021)*
+
+A pregnant woman in her second trimester previously delivered healthy full-term twins. What is her obstetric score?
+
+- A. G2P2
+- B. G3P2
+- C. G2P1
+- D. G3P1
+
+<details><summary>Answer</summary>
+
+**C. G2P1** — Twin delivery counts as one pregnancy and one delivery (parity counts deliveries beyond viability, not fetuses); current pregnancy makes gravida 2 and previous twin delivery makes para 1.
+
+</details>
+
+---

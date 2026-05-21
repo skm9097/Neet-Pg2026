@@ -865,3 +865,432 @@ What is the unit of observation in ecological studies?
 </details>
 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+## Obstetrics & Gynaecology
+
+### Q51 — Acute fatty liver — trimester *(2018)*
+
+In which trimester does acute fatty liver manifest most commonly during pregnancy?
+
+- A. First trimester
+- B. Second trimester
+- C. Third trimester
+- D. Both A and B
+
+<details><summary>Answer</summary>
+
+**C. Third trimester** — Acute fatty liver of pregnancy most commonly presents in the third trimester or early postpartum period.
+
+</details>
+
+---
+
+### Q52 — Leiomyoma — cut section *(2018)*
+
+A 55-year-old woman has abnormal uterine bleeding. Hysterectomy cut section shows multiple well-circumscribed, firm, white-grey whorled nodules. What is the diagnosis?
+
+- A. Leiomyoma
+- B. Endometrial carcinoma
+- C. Endometrial polyp
+- D. Adenomyosis
+
+<details><summary>Answer</summary>
+
+**A. Leiomyoma** — Leiomyomas are benign smooth-muscle tumors that classically show well-circumscribed, firm, whorled white-grey nodules on cut section.
+
+</details>
+
+---
+
+### Q53 — Round ligament — anteversion *(2018)*
+
+The ligament that maintains anteversion of the uterus during pregnancy is:
+
+- A. Round ligament
+- B. Cardinal ligament
+- C. Uterosacral ligament
+- D. Pubocervical ligament
+
+<details><summary>Answer</summary>
+
+**A. Round ligament** — The round ligament helps maintain uterine anteversion, especially during pregnancy.
+
+</details>
+
+---
+
+### Q54 — Quadruple testing — timing *(2018)*
+
+Quadruple testing is done during:
+
+- A. 9–11 weeks
+- B. 12–14 weeks
+- C. 15–20 weeks
+- D. 22–28 weeks
+
+<details><summary>Answer</summary>
+
+**C. 15–20 weeks** — The quadruple marker test (AFP, hCG, uE3, inhibin A) is a second-trimester screening test, ideally done at 15–20 weeks.
+
+</details>
+
+---
+
+### Q55 — Antenatal visits — ideal number *(2018)*
+
+What is the ideal number of antenatal visits?
+
+- A. 12–14
+- B. 6–8
+- C. 7–9
+- D. 10–11
+
+<details><summary>Answer</summary>
+
+**A. 12–14** — Traditional ideal antenatal care includes monthly visits up to 28 weeks, fortnightly from 28–36 weeks, and weekly after 36 weeks, giving about 12–14 visits.
+
+</details>
+
+---
+
+### Q56 — HIV in pregnancy — ART timing *(2018)*
+
+A woman is diagnosed HIV-positive in her first trimester. What is the appropriate management?
+
+- A. Start ART immediately and continue till 6 weeks after delivery
+- B. Start ART after the first trimester and continue lifelong
+- C. Start ART immediately and continue lifelong
+- D. Start ART after the first trimester and continue till 6 weeks after delivery
+
+<details><summary>Answer</summary>
+
+**C. Start ART immediately and continue lifelong** — ART should be started immediately in all pregnant and breastfeeding women with HIV, irrespective of CD4 count, and continued lifelong.
+
+</details>
+
+---
+
+### Q57 — Mullerian duct — fate determined by *(2018)*
+
+The fate of the Mullerian duct is determined by the:
+
+- A. X chromosome
+- B. Y chromosome
+- C. 1st chromosome
+- D. 2nd chromosome
+
+<details><summary>Answer</summary>
+
+**B. Y chromosome** — Presence of the Y chromosome leads to testis formation and anti-Mullerian hormone secretion, causing regression of the Mullerian ducts.
+
+</details>
+
+---
+
+### Q58 — Pessary retention — first check *(2018)*
+
+After fitting a pessary, what is the first step to check whether it is adequately retained?
+
+- A. Ask the patient to void and check if the pessary remains in place
+- B. Check whether the patient feels discomfort
+- C. Ask the patient to perform Valsalva maneuver and check if the pessary remains in place
+- D. Check whether two fingers can be admitted between the ring and the vaginal wall
+
+<details><summary>Answer</summary>
+
+**C. Ask the patient to perform Valsalva maneuver and check if the pessary remains in place** — Retention is checked by asking the patient to cough or perform Valsalva; the pessary may descend slightly but should return to position.
+
+</details>
+
+---
+
+### Q59 — Obstructed labour with fetal demise — management *(2018)*
+
+A pregnant woman presents with obstructed labour, is grossly dehydrated, and investigations reveal fetal demise. What will be the management?
+
+- A. Craniotomy
+- B. Decapitation
+- C. Cesarean section
+- D. Forceps extraction
+
+<details><summary>Answer</summary>
+
+**C. Cesarean section** — In obstructed labour with maternal compromise, resuscitation, antibiotics, and prompt relief of obstruction are required; cesarean section is the management when maternal condition allows.
+
+</details>
+
+---
+
+### Q60 — Twin chorionicity — best timing on ultrasound *(2018)*
+
+The best time to identify the type of twin pregnancy on ultrasound is:
+
+- A. 18–22 weeks
+- B. 24–28 weeks
+- C. 11–14 weeks
+- D. 14–18 weeks
+
+<details><summary>Answer</summary>
+
+**C. 11–14 weeks** — Chorionicity and amnionicity in twin pregnancy are best assessed in the first trimester, especially at 11–14 weeks (lambda sign vs. T-sign).
+
+</details>
+
+---
+
+### Q61 — Umbilical cord — FALSE statement *(2018)*
+
+Which of the following statements is FALSE about the umbilical cord?
+
+- A. It has one artery and two veins
+- B. It contains Wharton's jelly
+- C. Single umbilical artery is associated with congenital anomalies
+- D. Normal average cord length is 50–60 cm
+
+<details><summary>Answer</summary>
+
+**A. It has one artery and two veins** — A normal umbilical cord has two arteries and one vein embedded in Wharton's jelly.
+
+</details>
+
+---
+
+### Q62 — NIPT — FALSE statement *(2018)*
+
+Which of the following statements is FALSE about non-invasive prenatal testing?
+
+- A. Uses cell-free circulating fetal DNA in maternal serum
+- B. Used for diagnosis of trisomy 13, 18, and 21
+- C. Can be performed after 10 weeks of gestation
+- D. Done after routine first-trimester ultrasound assessment
+
+<details><summary>Answer</summary>
+
+**B. Used for diagnosis of trisomy 13, 18, and 21** — NIPT is a screening test, not a diagnostic test, for common aneuploidies using cell-free fetal DNA.
+
+</details>
+
+---
+
+### Q63 — Secondary PPH — NOT a cause *(2018)*
+
+Which of the following is NOT a cause of secondary postpartum haemorrhage?
+
+- A. Retained cotyledon
+- B. Endometritis
+- C. Placental polyp
+- D. Placenta previa
+
+<details><summary>Answer</summary>
+
+**D. Placenta previa** — Placenta previa causes antepartum or primary PPH; secondary PPH (>24 hours post-delivery) is due to retained products, infection, or placental polyp.
+
+</details>
+
+---
+
+### Q64 — Primary amenorrhea + 46XX + high gonadotropins *(2018)*
+
+A 16-year-old girl with primary amenorrhea has normal stature, absent thelarche, high FSH/LH, and karyotype 46XX. Most probable diagnosis?
+
+- A. Testicular feminizing syndrome
+- B. Gonadal dysgenesis
+- C. Kallmann syndrome
+- D. Turner syndrome
+
+<details><summary>Answer</summary>
+
+**B. Gonadal dysgenesis** — Primary amenorrhea with absent secondary sexual characters, high gonadotropins, normal stature, and 46XX karyotype suggests pure gonadal dysgenesis (Swyer syndrome).
+
+</details>
+
+---
+
+### Q65 — Fimbriectomy — eponym *(2018)*
+
+Fimbriectomy is also known as:
+
+- A. Pomeroy technique
+- B. Uchida procedure
+- C. Kroener procedure
+- D. Irving procedure
+
+<details><summary>Answer</summary>
+
+**C. Kroener procedure** — Kroener procedure is fimbriectomy, involving removal of the fimbrial end of the fallopian tube for sterilisation.
+
+</details>
+
+---
+
+### Q66 — Placental crossing — cannot cross *(2018)*
+
+Which of the following cannot cross the placenta? 1. Iron 2. Albumin 3. IgM 4. IgG
+
+- A. 1 and 2
+- B. Only 3
+- C. 2 and 3
+- D. 3 and 4
+
+<details><summary>Answer</summary>
+
+**C. 2 and 3** — Albumin and IgM are high-molecular-weight molecules that do not cross the placenta; IgG crosses actively via FcRn receptors.
+
+</details>
+
+---
+
+### Q67 — D&C — contraindication *(2018)*
+
+When is dilatation and curettage contraindicated?
+
+- A. Pelvic inflammatory disease
+- B. Ectopic pregnancy
+- C. Menstrual irregularities
+- D. Endometriosis
+
+<details><summary>Answer</summary>
+
+**A. Pelvic inflammatory disease** — D&C can worsen ascending infection and is contraindicated in active pelvic inflammatory disease.
+
+</details>
+
+---
+
+### Q68 — Post-coital bleeding + positive Pap smear — next step *(2018)*
+
+A 45-year-old woman has post-coital bleeding and a positive Pap smear. Next line of management?
+
+- A. Colposcopy-directed biopsy
+- B. Cone biopsy
+- C. Repeat Pap smear
+- D. Hysterectomy
+
+<details><summary>Answer</summary>
+
+**A. Colposcopy-directed biopsy** — A positive Pap smear with post-coital bleeding requires colposcopic evaluation and directed biopsy to confirm cervical pathology.
+
+</details>
+
+---
+
+### Q69 — Superfecundation — definition *(2018)*
+
+In superfecundation, which of the following is seen?
+
+- A. Fertilization of two ova at the same time by sperms from a single intercourse
+- B. Fertilization of two ova in the same cycle by sperms from intercourse on two different occasions
+- C. Both of the above
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Fertilization of two ova in the same cycle by sperms from intercourse on two different occasions** — Superfecundation is fertilization of two ova in the same menstrual cycle from separate acts of intercourse, possibly by different partners.
+
+</details>
+
+---
+
+### Q70 — Peripartum cardiomyopathy — FALSE *(2018)*
+
+All are true regarding peripartum cardiomyopathy EXCEPT:
+
+- A. Development of cardiac failure within 5 months of delivery
+- B. Left ventricular diastolic dysfunction
+- C. Absence of identifiable cause
+- D. Dilated left ventricle
+
+<details><summary>Answer</summary>
+
+**B. Left ventricular diastolic dysfunction** — Peripartum cardiomyopathy is a dilated cardiomyopathy characterized by left ventricular systolic dysfunction, not diastolic.
+
+</details>
+
+---
+
+### Q71 — Progesterone-only pills — NOT a mechanism *(2018)*
+
+Which of the following is NOT a mechanism of action of progesterone-only pills?
+
+- A. Thicken the cervical mucus
+- B. Prevent ovulation
+- C. Kill the sperms in the cervical canal
+- D. Inhibit penetration of sperm
+
+<details><summary>Answer</summary>
+
+**C. Kill the sperms in the cervical canal** — Progesterone-only pills thicken cervical mucus, reduce sperm penetration, and may suppress ovulation; they are not spermicidal.
+
+</details>
+
+---
+
+### Q72 — High-risk pregnancy — NOT a factor *(2018)*
+
+Which is NOT considered a factor for a high-risk pregnancy?
+
+- A. Obesity
+- B. Polyhydramnios
+- C. Anaemia
+- D. Previous manual removal of placenta
+
+<details><summary>Answer</summary>
+
+**D. Previous manual removal of placenta** — Obesity, anaemia, and polyhydramnios are recognized risk factors; previous manual removal of placenta alone is not a standard high-risk indicator.
+
+</details>
+
+---
+
+### Q73 — Pelvic inflammation — sequela *(2018)*
+
+Long-standing pelvic inflammation may lead to:
+
+- A. Pyometra
+- B. Uterine polyposis
+- C. Pseudocyesis
+- D. Endometrial hyperplasia
+
+<details><summary>Answer</summary>
+
+**A. Pyometra** — Chronic pelvic infection can lead to pus collection in the uterine cavity (pyometra), especially in elderly women with cervical stenosis.
+
+</details>
+
+---
+
+### Q74 — Postpartum nerve injury — most common *(2018)*
+
+The most common presentation of postpartum nerve injury is:
+
+- A. Facial palsy
+- B. Wrist drop
+- C. Foot drop
+- D. Claw hand
+
+<details><summary>Answer</summary>
+
+**C. Foot drop** — Postpartum obstetric neuropathy most commonly involves the peroneal nerve (compression at the fibular head), presenting as foot drop.
+
+</details>
+
+---
+
+### Q75 — Thyroid profile in pregnancy — what changes *(2018)*
+
+What is altered in thyroid profile throughout pregnancy?
+
+- A. Free T3 level
+- B. Free T4 level
+- C. Total T3 level
+- D. TSH level
+
+<details><summary>Answer</summary>
+
+**C. Total T3 level** — Total T3 and total T4 rise in pregnancy because thyroid-binding globulin increases; free hormone levels remain relatively stable.
+
+</details>
+
+---

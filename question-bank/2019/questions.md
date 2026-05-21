@@ -1770,3 +1770,173 @@ A 34-week fetus weighing 3 kg with macrosomic features is associated with:
 **A. Adenomyosis** — Endometrial glands/stroma >2.5 mm deep into myometrium. Bulky globular uterus. Hysterectomy is curative.
 
 </details>
+
+### Q108 — Acute fatty liver — trimester *(2019)*
+
+In which trimester does acute fatty liver manifest most commonly during pregnancy?
+
+- A. First trimester
+- B. Second trimester
+- C. Third trimester
+- D. Both A and B
+
+<details><summary>Answer</summary>
+
+**C. Third trimester** — AFLP classically occurs in late pregnancy, most often in the third trimester or early postpartum period.
+
+</details>
+
+---
+
+### Q109 — Vaginal changes in pregnancy — TRUE *(2019)*
+
+Which of the following is TRUE about vaginal changes in normal pregnancy?
+
+- A. Decreased number of lactobacilli
+- B. Increased glycogen metabolism in the epithelium
+- C. pH more than 6.8
+- D. Epithelial thinning
+
+<details><summary>Answer</summary>
+
+**B. Increased glycogen metabolism in the epithelium** — Pregnancy causes vaginal epithelial proliferation with increased glycogen, favouring lactobacilli and an acidic pH.
+
+</details>
+
+---
+
+### Q110 — Fasting blood sugar — overt diabetes in pregnancy *(2019)*
+
+Cardiac malformation is detected in a fetus during routine USG at 16 weeks. What fasting blood sugar level suggests overt diabetes?
+
+- A. 106 mg/dL
+- B. 126 mg/dL
+- C. 116 mg/dL
+- D. 130 mg/dL
+
+<details><summary>Answer</summary>
+
+**B. 126 mg/dL** — Overt diabetes in pregnancy is diagnosed when fasting plasma glucose is at least 126 mg/dL (WHO/ADA criteria).
+
+</details>
+
+---
+
+### Q111 — Functional residual capacity — change in pregnancy *(2019)*
+
+Which of the following decreases in pregnancy?
+
+- A. Respiratory rate
+- B. Vital capacity
+- C. Functional residual capacity
+- D. Inspiratory capacity
+
+<details><summary>Answer</summary>
+
+**C. Functional residual capacity** — Elevation of the diaphragm by the gravid uterus reduces expiratory reserve volume and residual volume, decreasing functional residual capacity.
+
+</details>
+
+---
+
+### Q112 — Induction of labour — NOT a contraindication *(2019)*
+
+Which of the following is NOT a contraindication for induction of labour?
+
+- A. Pelvic tumor
+- B. Herpes infection
+- C. Heart disease
+- D. History of lower transverse cesarean section in last three pregnancies
+
+<details><summary>Answer</summary>
+
+**C. Heart disease** — Heart disease is not an absolute contraindication to induction; vaginal delivery is often preferred with appropriate monitoring.
+
+</details>
+
+---
+
+### Q113 — Placenta previa grade (image-based) *(2019)*
+
+The given image shows what grade of placenta previa?
+
+- A. IV
+- B. III
+- C. II
+- D. I
+
+<details><summary>Answer</summary>
+
+**B. III** — Grade III placenta previa (partial central) refers to the placenta partially covering the internal os.
+
+</details>
+
+---
+
+### Q114 — Physiological changes in pregnancy — NOT normal *(2019)*
+
+All are normal physiological changes in pregnancy EXCEPT:
+
+- A. Left axis deviation
+- B. Mild ST changes in inferior leads
+- C. Atrial and ventricular premature contractions
+- D. Pansystolic murmur
+
+<details><summary>Answer</summary>
+
+**D. Pansystolic murmur** — Flow murmurs and minor ECG changes may be physiological in pregnancy, but a pansystolic murmur is pathological and requires investigation.
+
+</details>
+
+---
+
+### Q115 — Fibroid in pregnancy — torsion *(2019)*
+
+A pregnant woman with a fibroid uterus develops severe acute abdominal pain at 28 weeks. No fever and WBC 8000/mL. Most likely diagnosis?
+
+- A. Red degeneration of fibroid
+- B. Preterm labour
+- C. Torsion of fibroid
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Torsion of fibroid** — Severe localized pain without fever or significant leukocytosis in a pedunculated subserosal fibroid suggests torsion rather than red degeneration (which typically has low-grade fever and raised WBC).
+
+</details>
+
+---
+
+### Q116 — Postovulatory endometrium — hormone acting *(2019)*
+
+The hormone acting on postovulatory endometrium is:
+
+- A. Luteinizing hormone
+- B. Follicle-stimulating hormone
+- C. Progesterone
+- D. Oestrogen
+
+<details><summary>Answer</summary>
+
+**C. Progesterone** — Progesterone from the corpus luteum converts proliferative endometrium into secretory (postovulatory) endometrium.
+
+</details>
+
+---
+
+### Q117 — Septic pelvic thrombophlebitis — treatment *(2019)*
+
+A pregnant woman has fever not responding to antibiotics and is diagnosed with septic pelvic thrombophlebitis. Next course of treatment?
+
+- A. Stop antibiotics and start heparin
+- B. Antibiotics plus heparin
+- C. Surgical embolectomy
+- D. Hysterectomy
+
+<details><summary>Answer</summary>
+
+**B. Antibiotics plus heparin** — Septic pelvic thrombophlebitis is managed with broad-spectrum antibiotics and anticoagulation (heparin); this is the "test of diagnosis" — fever defervesces within 48 hours.
+
+</details>
+
+---

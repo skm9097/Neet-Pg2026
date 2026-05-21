@@ -877,3 +877,432 @@ An ANM conducts a vaccination camp and has 2 open vials — one pentavalent vacc
 </details>
 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+## Obstetrics & Gynaecology
+
+### Q53 — HELLP syndrome — diagnosis *(2022)*
+
+A 34-week pregnant woman has LDH 700 IU/L, platelets 75,000/mm³, bilirubin 1.5 mg/dL, SGOT 200 U/L, BP 140/96 mm Hg, normal coagulation, and normal renal function. Diagnosis?
+
+- A. HELLP syndrome
+- B. Acute fatty liver of pregnancy
+- C. Viral hepatitis
+- D. Intrahepatic cholestasis
+
+<details><summary>Answer</summary>
+
+**A. HELLP syndrome** — Hypertension with thrombocytopenia, elevated liver enzymes (SGOT/LDH), and raised LDH fulfills HELLP syndrome criteria (Haemolysis, Elevated Liver enzymes, Low Platelets).
+
+</details>
+
+---
+
+### Q54 — Oligohydramnios at 26 weeks — cause *(2022)*
+
+A woman at 26 weeks has fundal height corresponding to 24 weeks and USG shows decreased amniotic fluid. Which condition could have led to this?
+
+- A. Renal agenesis
+- B. Tracheoesophageal fistula
+- C. Cardiac abnormalities
+- D. Ureteral stricture
+
+<details><summary>Answer</summary>
+
+**A. Renal agenesis** — Bilateral renal agenesis causes reduced fetal urine production and severe oligohydramnios; TEF and cardiac anomalies cause polyhydramnios (impaired swallowing).
+
+</details>
+
+---
+
+### Q55 — MgSO4 toxicity — features *(2022)*
+
+A type 1 diabetic mother on MgSO4 after cesarean section for preeclampsia develops delirium, respiratory rate 10/min, oliguria, and absent knee reflexes. Cause?
+
+- A. Magnesium sulfate toxicity
+- B. Diabetic ketoacidosis
+- C. Eclampsia
+- D. Diabetes insipidus
+
+<details><summary>Answer</summary>
+
+**A. Magnesium sulfate toxicity** — Loss of deep tendon reflexes is the earliest sign of MgSO4 toxicity, followed by respiratory depression, oliguria, and cardiac arrest; treat with calcium gluconate.
+
+</details>
+
+---
+
+### Q56 — Hymen type (image-based) *(2022)*
+
+Identify the type of hymen shown in the image.
+
+- A. Imperforate hymen
+- B. Semilunar hymen
+- C. Septate hymen
+- D. Annular hymen
+
+<details><summary>Answer</summary>
+
+**C. Septate hymen** — A septate hymen has a band of tissue dividing the hymenal opening and may cause difficulty with tampon use or intercourse.
+
+</details>
+
+---
+
+### Q57 — VVF repair — post-operative advice *(2022)*
+
+While discharging a patient after vesicovaginal fistula repair, what would you recommend?
+
+- A. Sexual abstinence for 3 months and avoid pregnancy for a year
+- B. Sexual abstinence for 3 weeks and avoid pregnancy for 6 months
+- C. Sexual abstinence for 6 weeks and avoid pregnancy for a year
+- D. Sexual abstinence for 6 months and avoid pregnancy for 6 years
+
+<details><summary>Answer</summary>
+
+**A. Sexual abstinence for 3 months and avoid pregnancy for a year** — After VVF repair, prolonged abstinence and delay of pregnancy allow adequate healing and reduce recurrence risk.
+
+</details>
+
+---
+
+### Q58 — IUCD — absolute contraindication (image-based) *(2022)*
+
+Which is an absolute contraindication for insertion of the IUCD shown?
+
+- A. Menstruation
+- B. Trophoblastic disease
+- C. Immediately after delivery
+- D. Ruptured condom during intercourse
+
+<details><summary>Answer</summary>
+
+**B. Trophoblastic disease** — Gestational trophoblastic disease is an absolute contraindication to IUCD insertion due to uterine invasion risk and abnormal bleeding.
+
+</details>
+
+---
+
+### Q59 — Uterine anomaly on HSG (image-based) *(2022)*
+
+A 20-year-old woman with primary infertility has HSG showing the anomaly in the image. What is the anomaly?
+
+- A. Septate uterus
+- B. Uterine didelphys
+- C. Bicornuate uterus
+- D. Unicornuate uterus
+
+<details><summary>Answer</summary>
+
+**A. Septate uterus** — A septate uterus shows a divided uterine cavity due to failure of resorption of the Mullerian septum; most common Mullerian anomaly causing recurrent miscarriage.
+
+</details>
+
+---
+
+### Q60 — Preeclampsia — pathophysiology *(2022)*
+
+A pregnant woman with preeclampsia asks about the cause. It is due to failure of invasion of:
+
+- A. Spiral artery by villous trophoblasts
+- B. Radial artery by cytotrophoblasts
+- C. Spiral artery by extravillous trophoblasts
+- D. Arcuate artery by extravillous trophoblasts
+
+<details><summary>Answer</summary>
+
+**C. Spiral artery by extravillous trophoblasts** — Preeclampsia is linked to defective extravillous trophoblastic invasion and inadequate spiral artery remodeling, leading to high-resistance uteroplacental circulation.
+
+</details>
+
+---
+
+### Q61 — Uterine artery Doppler at 14 weeks — predicts *(2022)*
+
+A G2P1 woman at 14 weeks is advised uterine artery Doppler. What would it detect?
+
+- A. Early-onset preeclampsia
+- B. Late-onset preeclampsia
+- C. Fetal growth restriction
+- D. Placenta accreta
+
+<details><summary>Answer</summary>
+
+**A. Early-onset preeclampsia** — First-trimester uterine artery Doppler (elevated pulsatility index, notching) helps identify impaired placentation and risk of early-onset preeclampsia (<34 weeks).
+
+</details>
+
+---
+
+### Q62 — Retained placenta with haemorrhage — management *(2022)*
+
+During delivery, after Brandt-Andrews maneuver there is incomplete placental separation with massive haemorrhage. Next management?
+
+- A. Start oxytocin infusion and wait for spontaneous delivery
+- B. Uterine massage
+- C. Arrange blood and use Crede method
+- D. Manual removal of placenta
+
+<details><summary>Answer</summary>
+
+**D. Manual removal of placenta** — Retained placenta with active haemorrhage requires immediate manual removal under anaesthesia after resuscitation.
+
+</details>
+
+---
+
+### Q63 — Amniotic fluid embolism — presentation *(2022)*
+
+A woman collapses soon after delivery with profuse bleeding and features of DIC. Most likely etiology?
+
+- A. Amniotic fluid embolism
+- B. Postpartum haemorrhage
+- C. Peripartum cardiomyopathy
+- D. Rupture uterus
+
+<details><summary>Answer</summary>
+
+**A. Amniotic fluid embolism** — Sudden cardiorespiratory collapse with DIC around delivery is classic for amniotic fluid embolism (anaphylactoid syndrome of pregnancy).
+
+</details>
+
+---
+
+### Q64 — Deep transverse arrest — management *(2022)*
+
+A multigravida is in second stage for 2 hours with adequate contractions, fully dilated cervix, head at station 0, molding 2+, caput 2+, sagittal suture in right occipitotransverse position; fetal heart is normal. Management?
+
+- A. Midpelvic forceps
+- B. Vacuum-assisted delivery
+- C. Wait for one hour
+- D. Lower-segment cesarean section
+
+<details><summary>Answer</summary>
+
+**D. Lower-segment cesarean section** — Deep transverse arrest at station 0 with significant caput and molding is managed by cesarean section; instrumental delivery is unsafe at this level.
+
+</details>
+
+---
+
+### Q65 — Active labour — defining finding *(2022)*
+
+A primigravida at 40 weeks has been in labour for 3 hours. Which finding determines active labour?
+
+- A. Fetal head 5/5 palpable abdominally
+- B. Two contractions lasting 10 seconds in 10 minutes
+- C. More than 5 cm cervical dilatation with complete effacement
+- D. Rupture of membranes
+
+<details><summary>Answer</summary>
+
+**C. More than 5 cm cervical dilatation with complete effacement** — Active labour is defined by progressive cervical dilatation beyond 5–6 cm with effacement (revised ACOG/WHO criteria).
+
+</details>
+
+---
+
+### Q66 — Midpelvis — identification (image-based) *(2022)*
+
+Identify the blue-coloured area shown in the pelvic image.
+
+- A. Obstetric outlet
+- B. Anatomical outlet
+- C. Pelvic inlet
+- D. Midpelvis
+
+<details><summary>Answer</summary>
+
+**D. Midpelvis** — The midpelvis corresponds to the plane of least pelvic dimensions (at the level of ischial spines); interspinous diameter <10 cm is the most common cause of deep transverse arrest.
+
+</details>
+
+---
+
+### Q67 — Uterine involution — day 2 level *(2022)*
+
+What will be the level of the uterus on the second day after delivery?
+
+- A. Two fingerbreadths below umbilicus
+- B. One fingerbreadth below umbilicus
+- C. Three fingerbreadths below umbilicus
+- D. Four fingerbreadths below umbilicus
+
+<details><summary>Answer</summary>
+
+**A. Two fingerbreadths below umbilicus** — The postpartum uterus involutes by about one fingerbreadth per day; by day 2 it is about two fingerbreadths below the umbilicus.
+
+</details>
+
+---
+
+### Q68 — Caloric requirement in pregnancy *(2022)*
+
+A primigravida at 12 weeks asks for nutritional advice. What will you recommend?
+
+- A. Additional 300 kcal in the 2nd trimester
+- B. Additional 300 kcal in the 1st trimester
+- C. Additional 400 kcal in the 3rd trimester
+- D. Additional 300 kcal throughout pregnancy
+
+<details><summary>Answer</summary>
+
+**A. Additional 300 kcal in the 2nd trimester** — Extra caloric requirement begins mainly in the second trimester; approximately 300 kcal/day additional is recommended from the second trimester.
+
+</details>
+
+---
+
+### Q69 — Cervical cerclage — contraindication *(2022)*
+
+A 40-year-old G2P1 woman at 18 weeks has dilated cervix and cervical length 15 mm. She insists on cerclage. Which is a contraindication?
+
+- A. Ruptured membranes
+- B. Prolapse of membranes into vagina
+- C. Fetal fibronectin positive
+- D. Advanced maternal age
+
+<details><summary>Answer</summary>
+
+**A. Ruptured membranes** — Ruptured membranes are an absolute contraindication to cervical cerclage because of infection and procedure failure risk.
+
+</details>
+
+---
+
+### Q70 — Occipitoposterior in early labour — management *(2022)*
+
+A primigravida in early labour has adequate contractions, gynecoid pelvis, ruptured membranes, and vertex in right occipitoposterior position. Management?
+
+- A. Vacuum-assisted delivery
+- B. Cesarean section
+- C. Normal vaginal delivery
+- D. Forceps delivery
+
+<details><summary>Answer</summary>
+
+**C. Normal vaginal delivery** — With favourable pelvis and adequate contractions in early labour, occipitoposterior position can be managed expectantly for spontaneous rotation and vaginal delivery.
+
+</details>
+
+---
+
+### Q71 — Classical cesarean scar — repeat CS timing *(2022)*
+
+A pregnant woman with previous classical cesarean section is now at 35 weeks with breech presentation. Next step?
+
+- A. Cesarean section at 37 weeks
+- B. Advise USG and review after 2 weeks
+- C. Internal podalic version followed by vaginal delivery
+- D. External cephalic version at 36 weeks
+
+<details><summary>Answer</summary>
+
+**A. Cesarean section at 37 weeks** — Previous classical cesarean section requires planned elective repeat cesarean before labour, commonly around 37 weeks, due to high risk of uterine rupture.
+
+</details>
+
+---
+
+### Q72 — Placenta previa — site of implantation *(2022)*
+
+A primigravida at 22 weeks has profuse painless vaginal bleeding with normal BP and glucose. Placental implantation at which site causes this?
+
+- A. Internal os
+- B. Fallopian tube
+- C. Ovarian
+- D. Abdominal
+
+<details><summary>Answer</summary>
+
+**A. Internal os** — Placenta previa is implantation at or near the internal os and presents with painless bright-red vaginal bleeding (sentinel bleed).
+
+</details>
+
+---
+
+### Q73 — Pregnancy of unknown location — next step *(2022)*
+
+A woman with 6 weeks amenorrhoea has abdominal pain, vaginal bleeding, beta-hCG 1400 mIU/mL, trilaminar endometrium, and normal adnexa. Next best step?
+
+- A. Repeat beta-hCG after 48 hours
+- B. Repeat ultrasound after 3 days
+- C. Measure progesterone
+- D. Laparoscopy
+
+<details><summary>Answer</summary>
+
+**A. Repeat beta-hCG after 48 hours** — In pregnancy of unknown location (PUL) with beta-hCG below the discriminatory zone and stable condition, serial beta-hCG after 48 hours determines viability (should rise >53% in IUP, decline in failing pregnancy).
+
+</details>
+
+---
+
+### Q74 — Contraception in lactating mother with HMB *(2022)*
+
+A 24-year-old lactating mother of an 18-month-old child has irregular heavy bleeding. Which is the contraceptive of choice?
+
+- A. Progestasert
+- B. Copper-T 380A
+- C. Mala-N
+- D. Norethisterone enanthate
+
+<details><summary>Answer</summary>
+
+**C. Mala-N** — After 6 months postpartum, combined oral contraceptives (Mala-N = combined pill) can be used in lactating women and may help control heavy irregular bleeding.
+
+</details>
+
+---
+
+### Q75 — Sertoli cell-only syndrome — azoospermia (image-based) *(2022)*
+
+A 25-year-old man with primary infertility has azoospermia; testicular biopsy shows the given finding. It is consistent with:
+
+- A. Sertoli cell-only syndrome
+- B. Testicular atrophy
+- C. Benign testicular neoplasm
+- D. Orchitis
+
+<details><summary>Answer</summary>
+
+**A. Sertoli cell-only syndrome** — Sertoli cell-only syndrome (del Castillo syndrome) causes azoospermia; biopsy shows seminiferous tubules lined only by Sertoli cells without germ cells.
+
+</details>
+
+---
+
+### Q76 — Medical termination at 7 weeks — drugs used *(2022)*
+
+A 20-year-old woman at 7 weeks gestation is unwilling to continue pregnancy. Drugs used for medical termination?
+
+- A. Misoprostol and medroxyprogesterone
+- B. Misoprostol and mifepristone
+- C. Mifepristone and methotrexate
+- D. Mifepristone and medroxyprogesterone
+
+<details><summary>Answer</summary>
+
+**B. Misoprostol and mifepristone** — Early medical abortion uses mifepristone (200 mg) followed 24–48 hours later by misoprostol (800 mcg) — effective up to 10 weeks gestation.
+
+</details>
+
+---
+
+### Q77 — Fetal Leydig cell stimulation *(2022)*
+
+Testosterone helps in fetal organ development. Which stimulates its production?
+
+- A. LH from maternal pituitary
+- B. hCG from placenta
+- C. Inhibin from corpus luteum
+- D. GnRH from fetal hypothalamus
+
+<details><summary>Answer</summary>
+
+**B. hCG from placenta** — Placental hCG stimulates fetal Leydig cells early in gestation (weeks 8–12) to produce testosterone, driving male genital differentiation before fetal LH takes over.
+
+</details>
+
+---
