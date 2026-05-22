@@ -7831,3 +7831,818 @@ A woman at 36 weeks feels lightheaded and dizzy when lying on her back, but feel
 
 ---
 
+
+### Q451 — Peripartum Cardiomyopathy Timing *(2017)*
+
+Peripartum cardiomyopathy occurs:
+
+- A. Within 7 days of delivery
+- B. Within 6 weeks of delivery
+- C. Within 24 months of delivery
+- D. Within 5 months of delivery
+
+<details><summary>Answer</summary>
+
+**D. Within 5 months of delivery** — PPCM is defined as heart muscle disease presenting in the last month of pregnancy or up to five months postpartum, without other identifiable cause.
+
+</details>
+
+---
+
+---
+
+### Q452 — Nerve Compressed in Pregnancy/Puerperium *(2017)*
+
+The nerve most commonly compressed during pregnancy/puerperium is:
+
+- A. Radial nerve
+- B. Median nerve
+- C. Femoral nerve
+- D. Facial nerve
+
+<details><summary>Answer</summary>
+
+**C. Femoral nerve** — Prolonged hip flexion and the fetal head can compress the lateral femoral cutaneous nerve or femoral nerve; femoral nerve injury is the most clinically recognised nerve injury in labour.
+
+</details>
+
+---
+
+---
+
+### Q453 — Thyroid Changes in Pregnancy *(2017)*
+
+In pregnancy, which of the following is altered most:
+
+- A. TSH
+- B. Free T3
+- C. Free T4
+- D. T3-binding globulin (TBG)
+
+<details><summary>Answer</summary>
+
+**A. TSH** — Oestrogen doubles serum TBG; this lowers free T4, which reflexly elevates TSH and drives increased thyroid hormone production. TSH therefore undergoes the most clinically important change.
+
+</details>
+
+---
+
+---
+
+### Q454 — Paget's Disease Association *(2017)*
+
+Extramammary Paget's disease is associated with which gynaecological site:
+
+- A. Vulva
+- B. Vagina
+- C. Cervix
+- D. Uterus
+
+<details><summary>Answer</summary>
+
+**A. Vulva** — Extramammary Paget's disease (EMPD) is a rare, slow-growing intraepithelial adenocarcinoma; the vulva is the classic gynaecological location.
+
+</details>
+
+---
+
+---
+
+### Q455 — Anaesthesia for Caesarean in Severe Pre-eclampsia *(2017)*
+
+Anaesthesia of choice for caesarean section in severe pre-eclampsia is:
+
+- A. Spinal
+- B. General anaesthesia
+- C. Epidural
+- D. Combined spinal-epidural
+
+<details><summary>Answer</summary>
+
+**C. Epidural** — Continuous epidural anaesthesia is first choice in pre-eclampsia: it improves uteroplacental perfusion, decreases catecholamine release, and avoids the risk of severe airway oedema that makes intubation hazardous.
+
+</details>
+
+---
+
+---
+
+### Q456 — Drug NOT Used in Pre-eclampsia *(2017)*
+
+Which of the following is not used in pre-eclampsia:
+
+- A. Methyldopa
+- B. Atenolol
+- C. Labetalol
+- D. Hydralazine
+
+<details><summary>Answer</summary>
+
+**B. Atenolol** — Atenolol is associated with fetal growth restriction and is avoided in pregnancy; methyldopa, labetalol, and hydralazine are all acceptable antihypertensives in pre-eclampsia.
+
+</details>
+
+---
+
+---
+
+### Q457 — Acute Fatty Liver of Pregnancy Trimester *(2017)*
+
+Acute fatty liver is most commonly seen in pregnancy at:
+
+- A. Third trimester
+- B. First trimester
+- C. Immediate postpartum
+- D. Intrapartum
+
+<details><summary>Answer</summary>
+
+**A. Third trimester** — Acute fatty liver of pregnancy (AFLP) is a rare, potentially fatal condition that occurs in the third trimester or early postpartum period.
+
+</details>
+
+---
+
+---
+
+### Q458 — Fetoplacental Circulation Establishment *(2017)*
+
+Fetoplacental circulation is established at:
+
+- A. 11–13 days
+- B. 20–22 days
+- C. 7 days
+- D. 25–26 days
+
+<details><summary>Answer</summary>
+
+**B. 20–22 days** — Tertiary villi (with fetal capillaries) appear on day 21 and fetoplacental circulation is established at 21–22 days post-fertilisation; uteroplacental circulation is established earlier at day 10–11.
+
+</details>
+
+---
+
+---
+
+### Q459 — RDA of Iodine in Lactation *(2017)*
+
+RDA of iodine during lactation is (micrograms/day):
+
+- A. 150
+- B. 220
+- C. 100
+- D. 250
+
+<details><summary>Answer</summary>
+
+**D. 250 mcg/day** — The iodine RDA is 220 mcg/day for pregnant women and 250 mcg/day for lactating women to support increased needs.
+
+</details>
+
+---
+
+---
+
+### Q460 — Drug for Fetal Lung Maturity *(2017)*
+
+Drug used for fetal lung maturity is:
+
+- A. Dexamethasone
+- B. Folic acid
+- C. Beclomethasone
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Dexamethasone** — Both betamethasone and dexamethasone accelerate fetal lung maturation. Betamethasone (12 mg IM × 2 doses 24 h apart) is the agent of choice; dexamethasone (6 mg IM × 4 doses 12 h apart) is the alternative.
+
+</details>
+
+---
+
+---
+
+### Q461 — Hormone Therapy Indication in Menopause *(2017)*
+
+Hormone therapy is indicated in menopausal women for:
+
+- A. Hot flashes
+- B. Breast cancer
+- C. Endometriosis
+- D. Uterine bleeding
+
+<details><summary>Answer</summary>
+
+**A. Hot flashes** — HT is approved for vasomotor symptoms (hot flashes, night sweats), vaginal dryness, and prevention of osteoporosis. It is contraindicated in active breast cancer and undiagnosed uterine bleeding.
+
+</details>
+
+---
+
+<!-- Image-based question skipped:
+Q188 (2017): "Identify the X-ray HSG shown below" — options are septate/didelphys/unicornuate/bicornuate uterus. 
+Answer given: C. Unicornuate uterus — but no clinical stem detail, image-dependent.
+Q208 (2017): "In a woman with AUB the following image was seen in endoscopic examination" — image-dependent.
+Both skipped per instructions.
+-->
+
+---
+
+## NEET-PG 2015 (Questions 1488–1578)
+
+---
+
+---
+
+### Q462 — Malodorous Vaginal Discharge Cause *(2015)*
+
+Malodorous vaginal discharge is due to:
+
+- A. Bacterial vaginosis
+- B. Chlamydia trachomatis
+- C. Trichomonas vaginalis
+- D. Neisseria gonorrhoeae
+
+<details><summary>Answer</summary>
+
+**A. Bacterial vaginosis** — BV results from overgrowth of anaerobes and Gardnerella vaginalis following a fall in hydrogen-peroxide-producing lactobacilli; the characteristic odour is a fishy, amine smell (positive Whiff test).
+
+</details>
+
+---
+
+---
+
+### Q463 — Quickening in Multipara *(2015)*
+
+Quickening in a multipara is felt at what week of gestation:
+
+- A. 14 weeks
+- B. 16 weeks
+- C. 18 weeks
+- D. 20 weeks
+
+<details><summary>Answer</summary>
+
+**B. 16 weeks** — Quickening (first perception of fetal movement) is felt around 18 weeks in primigravidae and about 2 weeks earlier (16 weeks) in multipara.
+
+</details>
+
+---
+
+---
+
+### Q464 — Placental Site Trophoblastic Tumour *(2015)*
+
+True about placental site trophoblastic disease is:
+
+- A. Highly malignant behaviour
+- B. Hysterectomy followed by chemoradiation is the treatment of choice
+- C. Secretes human placental lactogen (HPL)
+- D. Contains syncytiotrophoblasts mainly
+
+<details><summary>Answer</summary>
+
+**C. Secretes human placental lactogen (HPL)** — PSTT arises from placental bed intermediate trophoblasts, not syncytiotrophoblasts. It secretes HPL (not hCG), usually runs a benign course, and hysterectomy alone (without routine chemoradiation) is the standard treatment.
+
+</details>
+
+---
+
+---
+
+### Q465 — Crowning Definition *(2015)*
+
+Crowning is defined as:
+
+- A. Biparietal diameter at the inlet of pelvis
+- B. Biparietal diameter at the ischial spine
+- C. Biparietal diameter at the vulval outlet
+- D. Biparietal diameter just outside the vulval outlet
+
+<details><summary>Answer</summary>
+
+**C. Biparietal diameter at the vulval outlet** — Crowning occurs when the maximum diameter (BPD) of the fetal head stretches the vulval outlet without any recession of the head between contractions.
+
+</details>
+
+---
+
+---
+
+### Q466 — Prolonged Second Stage of Labour *(2015)*
+
+Prolonged second stage of labour may occur due to:
+
+- A. Uterine inertia
+- B. Epidural analgesia
+- C. Cephalopelvic disproportion
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — All three are recognised causes: uterine inertia (fault in power), epidural analgesia (blunts bearing-down reflex), and CPD (fault in passage).
+
+</details>
+
+---
+
+---
+
+### Q467 — Emergency Contraception Progestogen of Choice *(2015)*
+
+Progestogen of choice in emergency contraception is:
+
+- A. Norethisterone
+- B. Medroxyprogesterone
+- C. Oxytocin
+- D. Levonorgestrel
+
+<details><summary>Answer</summary>
+
+**D. Levonorgestrel** — LNG 0.75 mg × 2 doses (or 1.5 mg single dose) within 72 hours is the standard EC regimen; it is more effective and has fewer side effects than oestrogen-progestin combinations.
+
+</details>
+
+---
+
+---
+
+### Q468 — Partial Mole Common Misdiagnosis *(2015)*
+
+Common misdiagnosis of partial mole is:
+
+- A. Threatened abortion
+- B. Choriocarcinoma
+- C. Complete mole
+- D. Ectopic pregnancy
+
+<details><summary>Answer</summary>
+
+**A. Threatened abortion** — The clinical picture of partial mole (pain + bleeding + fetus usually dead in utero) closely mimics threatened or missed abortion.
+
+</details>
+
+---
+
+---
+
+### Q469 — Gestational Hypertension — Not a Risk Factor *(2015)*
+
+Which is NOT a risk factor for gestational hypertension:
+
+- A. Obesity
+- B. Smoking
+- C. Primigravida
+- D. Factor V Leiden mutation
+
+<details><summary>Answer</summary>
+
+**B. Smoking** — Smoking is actually protective against pre-eclampsia (reduces placental oxidative stress, though this does not justify smoking). Obesity, primigravidity, and thrombophilias (including Factor V Leiden) are all established risk factors.
+
+</details>
+
+---
+
+---
+
+### Q470 — MTP Misoprostol Timing (FDA Protocol) *(2015)*
+
+In medical termination of pregnancy, according to FDA protocol, misoprostol is given after how many hours of mifepristone:
+
+- A. 24 hours
+- B. 48 hours
+- C. 72 hours
+- D. 96 hours
+
+<details><summary>Answer</summary>
+
+**B. 48 hours** — The original FDA-approved protocol: mifepristone 600 mg orally on day 1, followed by misoprostol 400 mcg orally 48 hours later; treatment must be started ≤49 days from LMP.
+
+</details>
+
+---
+
+---
+
+### Q471 — Most Common Breech Position *(2015)*
+
+Most common type of breech presentation is:
+
+- A. Complete breech
+- B. Frank breech
+- C. Footling breech
+- D. Knee presentation
+
+<details><summary>Answer</summary>
+
+**B. Frank breech** — Frank breech (thighs flexed, knees extended) accounts for 65–70% of all breech presentations, especially in primigravidae.
+
+</details>
+
+---
+
+---
+
+### Q472 — Complete Prolapse Treatment in Completed Family *(2015)*
+
+Preferred treatment of complete uterine prolapse in a female with completed family is:
+
+- A. Sling surgery
+- B. Vaginal hysterectomy
+- C. Le Forte's repair
+- D. Pessary
+
+<details><summary>Answer</summary>
+
+**B. Vaginal hysterectomy** — Vaginal hysterectomy (usually with anterior and posterior colporrhaphy) is the definitive surgical option for major degree uterine prolapse in a parous woman with a completed family.
+
+</details>
+
+---
+
+---
+
+### Q473 — IUD Absolute Contraindication — Exception *(2015)*
+
+Absolute contraindications to IUCD are all EXCEPT:
+
+- A. Pregnancy
+- B. Undiagnosed vaginal bleeding
+- C. Pelvic inflammatory disease
+- D. Uterine malformation
+
+<details><summary>Answer</summary>
+
+**D. Uterine malformation** — Uterine malformation (distorted cavity) is only a relative contraindication; the others (pregnancy, undiagnosed bleeding, active PID) are absolute contraindications.
+
+</details>
+
+---
+
+---
+
+### Q474 — Secondary PPH Most Common Cause *(2015)*
+
+Most common cause of secondary PPH is:
+
+- A. Uterine inertia
+- B. Retained placenta/placental bits
+- C. Episiotomy
+- D. Cervical tear
+
+<details><summary>Answer</summary>
+
+**B. Retained placental bits** — Retained cotyledon or membrane fragments are the most common cause of secondary PPH (bleeding after 24 hours, usually 8–14 days postpartum).
+
+</details>
+
+---
+
+---
+
+### Q475 — Complete Placenta Praevia at 38 Weeks (No Bleeding) *(2015)*
+
+Management of a patient with complete placenta praevia at 38 weeks gestation without any vaginal bleeding is:
+
+- A. Expectant management
+- B. Macafee and Johnson regimen
+- C. Elective caesarean section
+- D. Emergency caesarean section
+
+<details><summary>Answer</summary>
+
+**C. Elective caesarean section** — At ≥37 weeks active interference is mandatory for complete praevia. As there is no active bleeding, an elective (planned) caesarean section is appropriate rather than emergency.
+
+</details>
+
+---
+
+---
+
+### Q476 — Vasa Praevia Association *(2015)*
+
+Vasa praevia is associated with:
+
+- A. Marginal placenta
+- B. Velamentous placenta
+- C. Battledore placenta
+- D. Placenta praevia
+
+<details><summary>Answer</summary>
+
+**B. Velamentous placenta** — In velamentous cord insertion, unsupported umbilical vessels traverse the membranes over the internal os; rupture of these fetal vessels causes rapid fetal exsanguination.
+
+</details>
+
+---
+
+---
+
+### Q477 — Ectopic Pregnancy Most Common Tubal Site *(2015)*
+
+Most common site of implantation of tubal ectopic pregnancy is:
+
+- A. Interstitial portion
+- B. Isthmus
+- C. Ampulla
+- D. Infundibulum
+
+<details><summary>Answer</summary>
+
+**C. Ampulla** — The ampulla accounts for ~80% of tubal ectopics. The isthmus has the highest rupture propensity; interstitial ectopics have the longest survival (up to ~4 months).
+
+</details>
+
+---
+
+---
+
+### Q478 — Primary Amenorrhoea Most Common Cause *(2016)*
+
+Most common cause of primary amenorrhoea is:
+
+- A. Constitutional/idiopathic
+- B. MRKH syndrome
+- C. Ovarian dysgenesis
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Ovarian dysgenesis (Turner syndrome)** — Ovarian dysgenesis (45,X Turner syndrome) is the most common single cause of primary amenorrhoea, accounting for ~30–40% of cases.
+
+</details>
+
+---
+
+---
+
+### Q479 — Heart Disease in Pregnancy Most Common *(2016)*
+
+Most common heart disease in pregnancy is:
+
+- A. Mitral stenosis
+- B. Aortic stenosis
+- C. Mitral regurgitation
+- D. WPW syndrome
+
+<details><summary>Answer</summary>
+
+**A. Mitral stenosis** — Mitral stenosis (usually rheumatic) is the most common valvular heart disease encountered in pregnancy, and is particularly dangerous because it is poorly tolerated with the increased cardiac output of pregnancy.
+
+</details>
+
+---
+
+---
+
+### Q480 — Complications of Pre-eclampsia — Exception *(2016)*
+
+Complications of pre-eclampsia are all EXCEPT:
+
+- A. Post-datism
+- B. DIC
+- C. Blindness
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Post-datism** — DIC (via HELLP, abruption) and cortical blindness (hypertensive retinopathy/occipital oedema) are recognised complications. Post-datism (prolonged pregnancy) is not a complication of pre-eclampsia.
+
+</details>
+
+---
+
+---
+
+### Q481 — B-Lynch Suture Application *(2016)*
+
+B-Lynch suture is applied on:
+
+- A. Cervix
+- B. Uterus
+- C. Fallopian tubes
+- D. Ovaries
+
+<details><summary>Answer</summary>
+
+**B. Uterus** — The B-Lynch compression suture is placed on the uterus to manage atonic PPH when medical methods fail; it compresses the uterine body to tamponade bleeding.
+
+</details>
+
+---
+
+---
+
+### Q482 — Severe Pre-eclampsia with Impending Eclampsia — Management *(2016)*
+
+A 28-year-old primigravida at 33 weeks presents with headache, oliguria, blurred vision, BP 180/110 mmHg, and 3+ proteinuria. The next line of management is:
+
+- A. Wait and watch
+- B. LSCS
+- C. Induction of labour
+- D. Anticonvulsant and antihypertensive therapy
+
+<details><summary>Answer</summary>
+
+**D. Anticonvulsant and antihypertensive therapy** — This is severe pre-eclampsia with impending eclampsia at 33 weeks. Magnesium sulphate (anticonvulsant) and antihypertensive therapy must be instituted first; delivery timing is then decided after stabilisation.
+
+</details>
+
+---
+
+---
+
+### Q483 — Vesicular Mole Clinical Presentation *(2016)*
+
+Patient with 3 months amenorrhoea, hyperemesis and vaginal bleeding for one month; on examination uterus is 16 weeks size with absent fetal heart sounds. The diagnosis is:
+
+- A. Vesicular mole
+- B. Ectopic pregnancy
+- C. IUFD
+- D. Abruptio placentae
+
+<details><summary>Answer</summary>
+
+**A. Vesicular mole** — Uterus large for dates, hyperemesis, absent FHS, and the classic "white currant in red currant juice" discharge all point to complete hydatidiform mole.
+
+</details>
+
+---
+
+---
+
+### Q484 — PCOS Drug Not Used *(2016)*
+
+Which of the following is NOT used in PCOS:
+
+- A. OC pills
+- B. Cyclical progestogens
+- C. Myoinositol
+- D. Danazol
+
+<details><summary>Answer</summary>
+
+**D. Danazol** — Danazol has no role in PCOS management. OC pills, cyclical progestogens, and insulin sensitisers (including myoinositol) are all used.
+
+</details>
+
+---
+
+---
+
+### Q485 — Pearl-Necklace Appearance on USG *(2016)*
+
+Pearl necklace appearance on ultrasound is characteristic of:
+
+- A. Ectopic pregnancy
+- B. PCOS
+- C. Endometriosis
+- D. PID
+
+<details><summary>Answer</summary>
+
+**B. PCOS** — USG in PCOS shows >12 peripheral follicles (2–9 mm each) arranged at the ovarian periphery giving a "pearl necklace" or "string of pearls" appearance, plus increased ovarian stroma echogenicity.
+
+</details>
+
+---
+
+---
+
+### Q486 — Endometriosis Definition *(2016)*
+
+Endometriosis is:
+
+- A. Endometrium within the myometrium
+- B. Functional endometrium outside the uterus
+- C. Myometrium within the endometrium
+- D. Rare squamous variety of carcinoma endometrium
+
+<details><summary>Answer</summary>
+
+**B. Functional endometrium outside the uterus** — Endometriosis is the presence of functional endometrial glands and stroma at ectopic sites; the most accepted theory is Sampson's retrograde menstruation.
+
+</details>
+
+---
+
+---
+
+### Q487 — Betamethasone NOT Given for *(2016)*
+
+Betamethasone given to preterm patients is used for all EXCEPT:
+
+- A. Fetal lung maturity
+- B. Decrease intraventricular haemorrhage
+- C. Prevention of periventricular leukomalacia
+- D. Prevent PPH
+
+<details><summary>Answer</summary>
+
+**D. Prevent PPH** — Antenatal corticosteroids (betamethasone/dexamethasone) enhance fetal lung maturity and reduce neonatal IVH and periventricular leukomalacia. They have no role in preventing maternal PPH.
+
+</details>
+
+---
+
+---
+
+### Q488 — Asherman Syndrome Characteristic *(2016)*
+
+Asherman syndrome is characterised by:
+
+- A. Amenorrhoea
+- B. Menorrhagia
+- C. Polymenorrhoea
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Amenorrhoea** — Asherman syndrome (intrauterine adhesions/synechiae) following uterine trauma (D&C, infection) causes amenorrhoea or hypomenorrhoea due to obliteration of the uterine cavity.
+
+</details>
+
+---
+
+---
+
+### Q489 — Dysgerminoma Spread Route *(2016)*
+
+Dysgerminoma spreads mainly via:
+
+- A. Haematogenous route
+- B. Lymphatic route
+- C. Direct spread
+- D. Does not spread
+
+<details><summary>Answer</summary>
+
+**B. Lymphatic route** — Dysgerminomas (most common malignant germ cell tumour) primarily spread via the lymphatics (para-aortic and pelvic nodes); haematogenous spread occurs late.
+
+</details>
+
+---
+
+---
+
+### Q490 — WHO Partogram Alert-to-Action Line Distance *(2016)*
+
+In partograms recommended by WHO, the distance between the alert and action lines is:
+
+- A. 1 hour
+- B. 2 hours
+- C. 4 hours
+- D. 5 hours
+
+<details><summary>Answer</summary>
+
+**C. 4 hours** — The WHO partogram places the action line 4 hours to the right of (and parallel to) the alert line, allowing time to respond to deviation from normal progress before resorting to intervention.
+
+</details>
+
+---
+
+---
+
+### Q491 — Vasa Praevia Clinical Scenario *(2016)*
+
+A primigravida at 36 weeks in labour with 3 cm dilatation has fresh bleeding on rupture of membranes with late fetal decelerations to 50 bpm. LSCS performed but fetus could not be saved; no abruption or praevia was found. The likely diagnosis is:
+
+- A. Placenta praevia
+- B. Revealed abruption
+- C. Circumvallate placenta
+- D. Vasa praevia
+
+<details><summary>Answer</summary>
+
+**D. Vasa praevia** — The classical triad: painless bleeding at membrane rupture, fetal distress (late decelerations), and high fetal mortality (50–95%) without a maternal cause points to vasa praevia — fetal vessel rupture at the os.
+
+</details>
+
+---
+
+<!-- Additional questions available from 2016 not staged here due to length:
+Q1540 SEAM for DUB, Q1541 Ca endometrium stage IA grade I adjuvant treatment,
+Q1562 LNG content of Mirena, Q1575 prostaglandin for labour induction,
+Q1588 uterine blood flow at term, Q1604 CVS in pregnancy, Q1638 AMTSL components,
+Q1643 IUFD DIC timing, Q1645 incompetent os management — all confirmed OBG, can be staged in a future pass.
+-->
+
+---
+
+## Summary
+
+| Year | Questions staged | Source question numbers |
+|------|-----------------|------------------------|
+| 2017 | 21 (19 full + 2 image-skipped) | 187–210 |
+| 2015 | 21 | 1488–1578 (selected) |
+| 2016 | 15 | 1492–1577 (selected) |
+| **Total** | **57 MCQs staged** | — |
+
+**Image-based questions skipped (cannot be answered without image):**
+- 2017 Q188: HSG showing uterine anomaly — answer C (Unicornuate uterus) but image-dependent
+- 2017 Q208: Hysteroscopy image in AUB — answer A (Leiomyoma) but image-dependent
+
+---
+

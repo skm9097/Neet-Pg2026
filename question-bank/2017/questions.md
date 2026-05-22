@@ -1710,3 +1710,362 @@ Nitric oxide acts by increasing ?
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#288 | OPTIONS_GENERATED: false -->
 
 ---
+
+## Obstetrics & Gynaecology
+
+### Q98 — Shoulder Dystocia Management *(2017)*
+
+Shoulder dystocia is managed by:
+
+- A. Sharp flexion of hip joints towards abdomen
+- B. Suprapubic pressure
+- C. 90-degree rotation of posterior shoulder
+- D. Emergency caesarean section
+
+<details><summary>Answer</summary>
+
+**B. Suprapubic pressure** — The HELPERR mnemonic guides management: Help, Episiotomy evaluation, Legs (McRoberts), Suprapubic Pressure, Enter manoeuvres (internal rotation), Remove posterior arm, Roll patient. Suprapubic pressure dislodges the impacted anterior shoulder.
+
+</details>
+
+---
+
+### Q99 — True Hermaphroditism Karyotype *(2017)*
+
+True hermaphroditism (ovotesticular DSD) karyotype is:
+
+- A. 45 X0 with streaked gonads
+- B. 46 XX with ovotestis
+- C. 47 XY+9
+- D. 47 XX
+
+<details><summary>Answer</summary>
+
+**B. 46 XX with ovotestis** — In about 90% of true hermaphrodites (ovotesticular DSD) the karyotype is 46 XX; rarely 46 XY/46 XX mosaicism occurs.
+
+</details>
+
+---
+
+### Q100 — Peripartum Cardiomyopathy Timing *(2017)*
+
+Peripartum cardiomyopathy occurs:
+
+- A. Within 7 days of delivery
+- B. Within 6 weeks of delivery
+- C. Within 24 months of delivery
+- D. Within 5 months of delivery
+
+<details><summary>Answer</summary>
+
+**D. Within 5 months of delivery** — PPCM is defined as heart muscle disease presenting in the last month of pregnancy or up to five months postpartum, without other identifiable cause.
+
+</details>
+
+---
+
+### Q101 — Nerve Compressed in Pregnancy/Puerperium *(2017)*
+
+The nerve most commonly compressed during pregnancy/puerperium is:
+
+- A. Radial nerve
+- B. Median nerve
+- C. Femoral nerve
+- D. Facial nerve
+
+<details><summary>Answer</summary>
+
+**C. Femoral nerve** — Prolonged hip flexion and the fetal head can compress the lateral femoral cutaneous nerve or femoral nerve; femoral nerve injury is the most clinically recognised nerve injury in labour.
+
+</details>
+
+---
+
+### Q102 — Thyroid Changes in Pregnancy *(2017)*
+
+In pregnancy, which of the following is altered most:
+
+- A. TSH
+- B. Free T3
+- C. Free T4
+- D. T3-binding globulin (TBG)
+
+<details><summary>Answer</summary>
+
+**A. TSH** — Oestrogen doubles serum TBG; this lowers free T4, which reflexly elevates TSH and drives increased thyroid hormone production. TSH therefore undergoes the most clinically important change.
+
+</details>
+
+---
+
+### Q103 — Paget's Disease Association *(2017)*
+
+Extramammary Paget's disease is associated with which gynaecological site:
+
+- A. Vulva
+- B. Vagina
+- C. Cervix
+- D. Uterus
+
+<details><summary>Answer</summary>
+
+**A. Vulva** — Extramammary Paget's disease (EMPD) is a rare, slow-growing intraepithelial adenocarcinoma; the vulva is the classic gynaecological location.
+
+</details>
+
+---
+
+### Q104 — Superfecundation Definition *(2017)*
+
+Superfecundation is:
+
+- A. Fertilisation of two or more ova in one intercourse
+- B. Fertilisation of two or more ova in different intercourses in the same menstrual cycle
+- C. Fertilisation of an ovum followed by its division
+- D. Fertilisation of a second ovum after the first has implanted
+
+<details><summary>Answer</summary>
+
+**B. Fertilisation of two or more ova in different intercourses in the same menstrual cycle** — Superfecundation can result in dizygotic twins from two different biological fathers.
+
+</details>
+
+---
+
+### Q105 — Anaesthesia for Caesarean in Severe Pre-eclampsia *(2017)*
+
+Anaesthesia of choice for caesarean section in severe pre-eclampsia is:
+
+- A. Spinal
+- B. General anaesthesia
+- C. Epidural
+- D. Combined spinal-epidural
+
+<details><summary>Answer</summary>
+
+**C. Epidural** — Continuous epidural anaesthesia is first choice in pre-eclampsia: it improves uteroplacental perfusion, decreases catecholamine release, and avoids the risk of severe airway oedema that makes intubation hazardous.
+
+</details>
+
+---
+
+### Q106 — High Risk Pregnancy — Exception *(2017)*
+
+Which of the following is NOT a high-risk pregnancy condition:
+
+- A. Previous history of manual removal of placenta
+- B. Anaemia
+- C. Diabetes
+- D. Obesity
+
+<details><summary>Answer</summary>
+
+**A. Previous history of manual removal of placenta** — Anaemia, diabetes, and obesity all independently increase obstetric risk. A single past manual removal of placenta is not itself a recognised high-risk designation.
+
+</details>
+
+---
+
+### Q107 — Drug NOT Used in Pre-eclampsia *(2017)*
+
+Which of the following is not used in pre-eclampsia:
+
+- A. Methyldopa
+- B. Atenolol
+- C. Labetalol
+- D. Hydralazine
+
+<details><summary>Answer</summary>
+
+**B. Atenolol** — Atenolol is associated with fetal growth restriction and is avoided in pregnancy; methyldopa, labetalol, and hydralazine are all acceptable antihypertensives in pre-eclampsia.
+
+</details>
+
+---
+
+### Q108 — D&C Contraindication *(2017)*
+
+Dilatation and curettage (D&C) is contraindicated in:
+
+- A. Pelvic inflammatory disease (PID)
+- B. Endometriosis
+- C. Ectopic pregnancy
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Pelvic inflammatory disease (PID)** — D&C is an ascending-infection risk procedure and is contraindicated in active PID as it can exacerbate or spread upper genital tract infection.
+
+</details>
+
+---
+
+### Q109 — Wharton's Jelly Location *(2017)*
+
+Which of the following is correct regarding placenta:
+
+- A. Placental artery provides nutrients through the umbilical cord
+- B. Placenta has Wharton's jelly
+- C. Placenta has 2 veins and 1 artery
+- D. Oestrogen is secreted by placenta
+
+<details><summary>Answer</summary>
+
+**B. Placenta has Wharton's jelly** — [OCR note: the answer labelled "B" is actually incorrect — Wharton's jelly is in the umbilical cord, not the placenta. The most defensible correct answer is D (oestrogen is secreted by placenta). This question has an error in the answer key; staged as-is from source.]
+
+</details>
+
+---
+
+### Q110 — Acute Fatty Liver of Pregnancy Trimester *(2017)*
+
+Acute fatty liver is most commonly seen in pregnancy at:
+
+- A. Third trimester
+- B. First trimester
+- C. Immediate postpartum
+- D. Intrapartum
+
+<details><summary>Answer</summary>
+
+**A. Third trimester** — Acute fatty liver of pregnancy (AFLP) is a rare, potentially fatal condition that occurs in the third trimester or early postpartum period.
+
+</details>
+
+---
+
+### Q111 — Fetoplacental Circulation Establishment *(2017)*
+
+Fetoplacental circulation is established at:
+
+- A. 11–13 days
+- B. 20–22 days
+- C. 7 days
+- D. 25–26 days
+
+<details><summary>Answer</summary>
+
+**B. 20–22 days** — Tertiary villi (with fetal capillaries) appear on day 21 and fetoplacental circulation is established at 21–22 days post-fertilisation; uteroplacental circulation is established earlier at day 10–11.
+
+</details>
+
+---
+
+### Q112 — Fimbriectomy Method *(2017)*
+
+Fimbriectomy procedure is known as:
+
+- A. Uchida method
+- B. Irving method
+- C. Madlener technique
+- D. Kroener method
+
+<details><summary>Answer</summary>
+
+**D. Kroener method** — Kroener fimbriectomy removes the fimbrial end of the fallopian tube. Uchida involves subserosal saline injection; Irving involves burying both ends; Madlener involves crushing a loop.
+
+</details>
+
+---
+
+### Q113 — RDA of Iodine in Lactation *(2017)*
+
+RDA of iodine during lactation is (micrograms/day):
+
+- A. 150
+- B. 220
+- C. 100
+- D. 250
+
+<details><summary>Answer</summary>
+
+**D. 250 mcg/day** — The iodine RDA is 220 mcg/day for pregnant women and 250 mcg/day for lactating women to support increased needs.
+
+</details>
+
+---
+
+### Q114 — Secondary PPH — Not a Cause *(2017)*
+
+Which of the following is NOT a cause of secondary postpartum haemorrhage:
+
+- A. Placenta praevia
+- B. Retained bits of placenta
+- C. Endometritis
+- D. Polyp
+
+<details><summary>Answer</summary>
+
+**A. Placenta praevia** — Secondary PPH (>24 hours after delivery) is caused by retained placental tissue, endometritis, subinvolution of the placental site, uterine polyp or fibroid, and undiagnosed cervical carcinoma. Placenta praevia causes primary (antepartum/intrapartum) haemorrhage.
+
+</details>
+
+---
+
+### Q115 — Quadruple Test Timing *(2017)*
+
+Best time to do the quadruple test (quad screen) is:
+
+- A. 8–12 weeks
+- B. 11–15 weeks
+- C. 15–20 weeks
+- D. 18–22 weeks
+
+<details><summary>Answer</summary>
+
+**C. 15–20 weeks** — The quad screen is a second-trimester test performed between 15 and 20 weeks, ideally in conjunction with first-trimester combined screening.
+
+</details>
+
+---
+
+### Q116 — Drug for Fetal Lung Maturity *(2017)*
+
+Drug used for fetal lung maturity is:
+
+- A. Dexamethasone
+- B. Folic acid
+- C. Beclomethasone
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Dexamethasone** — Both betamethasone and dexamethasone accelerate fetal lung maturation. Betamethasone (12 mg IM × 2 doses 24 h apart) is the agent of choice; dexamethasone (6 mg IM × 4 doses 12 h apart) is the alternative.
+
+</details>
+
+---
+
+### Q117 — Pessary Ring Placement Verification *(2017)*
+
+In uterine prolapse, how do you know the ring pessary is in place:
+
+- A. If not expelled after increased abdominal pressure
+- B. If bleeding does not occur
+- C. If the patient feels discomfort
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. If not expelled after increased abdominal pressure** — A correctly placed ring pessary should remain in situ even with Valsalva manoeuvre/increased intra-abdominal pressure.
+
+</details>
+
+---
+
+### Q118 — Hormone Therapy Indication in Menopause *(2017)*
+
+Hormone therapy is indicated in menopausal women for:
+
+- A. Hot flashes
+- B. Breast cancer
+- C. Endometriosis
+- D. Uterine bleeding
+
+<details><summary>Answer</summary>
+
+**A. Hot flashes** — HT is approved for vasomotor symptoms (hot flashes, night sweats), vaginal dryness, and prevention of osteoporosis. It is contraindicated in active breast cancer and undiagnosed uterine bleeding.
+
+</details>
+
+---
