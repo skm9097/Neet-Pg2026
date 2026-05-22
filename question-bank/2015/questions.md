@@ -573,3 +573,2348 @@ Amsel criteria is used for diagnosis of:
 </details>
 
 ---
+
+## Physiology
+
+### Q34 — Occulomotor nerve supplies all extraocular muscles *(2015)*
+
+Occulomotor nerve supplies all extraocular muscles except ?
+
+- A. Superior rectus
+- B. Inferior rectus
+- C. Lateral rectus
+- D. Medial rectus
+
+<details><summary>Answer</summary>
+
+**C. Lateral rectus**
+
+</details>
+
+---
+
+### Q35 — nucleus is not seen in floor *(2015)*
+
+Which nucleus is not seen in floor of the 4th ventricle -
+
+- A. Abducens nucleus
+- B. Facial nucleus
+- C. Dorsal vagal nucleus
+- D. Hypoglossal nucleus
+
+<details><summary>Answer</summary>
+
+**B. Facial nucleus**
+
+</details>
+
+---
+
+### Q36 — Malleus and incus are derived from *(2015)*
+
+Malleus and incus are derived from ?
+
+- A. 1st Arch
+- B. 2nd Arch
+- C. 3rd Arch
+- D. 4th Arch
+
+<details><summary>Answer</summary>
+
+**A. 1st Arch**
+
+</details>
+
+---
+
+### Q37 — Transport through pores in cell members *(2015)*
+
+Transport through pores in cell members is ?
+
+- A. Active transpert
+- B. Transcytosis
+- C. Diffusion
+- D. Endocytosis
+
+<details><summary>Answer</summary>
+
+**C. Diffusion**
+
+</details>
+
+---
+
+### Q38 — Vibration sense is detected by *(2015)*
+
+Vibration sense is detected by ?
+
+- A. Nociceptors
+- B. Deep receptors
+- C. Superficial receptors
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**D. None of the above**
+
+</details>
+
+---
+
+### Q39 — Neuropraxia is *(2015)*
+
+Neuropraxia is ?
+
+- A. Damage to axon
+- B. Damage to endoneurium
+- C. Damage to epineurium
+- D. No Structural damage
+
+<details><summary>Answer</summary>
+
+**D. No Structural damage**
+
+</details>
+
+---
+
+### Q40 — In zero gravity VQ ratio is *(2015)*
+
+In zero gravity V/Q ratio is ?
+
+- A. 0.8
+- B. 1
+- C. 2
+- D. 3
+
+<details><summary>Answer</summary>
+
+**B. 1**
+
+</details>
+
+---
+
+### Q41 — Blood pressure is dependant on *(2015)*
+
+Blood pressure is dependant on?
+
+- A. Cardiac output
+- B. Heart rate
+- C. Stroke volume
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+
+## Biochemistry
+
+### Q42 — Function of myenteric plexus is to *(2015)*
+
+Function of myenteric plexus is to regulate ?
+
+- A. GI secretion
+- B. Local blood flow
+- C. Motility
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Motility**
+
+</details>
+
+---
+
+### Q43 — important intracellular buffer *(2015)*
+
+Most important intracellular buffer ?
+
+- A. Bicarbonate
+- B. Albumin
+- C. Phosphate
+- D. Ammonia
+
+<details><summary>Answer</summary>
+
+**C. Phosphate**
+
+</details>
+
+---
+
+### Q44 — Example of allosteric inhibition *(2015)*
+
+Example of allosteric inhibition
+
+- A. Inactivation of glycogen synthase by phosphorylation
+- B. Decreased synthesis of glucokinase by glucagon
+- C. Inhibition of PFK-1 by citrate
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Inhibition of PFK-1 by citrate**
+
+</details>
+
+---
+
+### Q45 — Chylomicrons core is formed by *(2015)*
+
+Chylomicrons core is formed by ?
+
+- A. Triglyceride
+- B. Triglyceride and Cholesterol
+- C. Triglyceride, Cholesterol and Phospholipids
+- D. Free fatty acids
+
+<details><summary>Answer</summary>
+
+**B. Triglyceride and Cholesterol**
+
+</details>
+
+---
+
+### Q46 — Pyridoxine is required in - *(2015)*
+
+Pyridoxine is required in -
+
+- A. Glycolysis
+- B. TCA cycle
+- C. Glycogenesis
+- D. Glycogenolysis
+
+<details><summary>Answer</summary>
+
+**D. Glycogenolysis**
+
+</details>
+
+---
+
+### Q47 — Bile salts help in absorption of *(2015)*
+
+Bile salts help in absorption of fat by -
+
+- A. Micelles formation
+- B. Activation of transporter protein
+- C. Creation of concentration gradient
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Micelles formation**
+
+</details>
+
+---
+
+### Q48 — Caseating necrosis occurs in *(2015)*
+
+Caseating necrosis occurs in
+
+- A. Brain
+- B. liver
+- C. kidney
+- D. lung
+
+<details><summary>Answer</summary>
+
+**D. lung**
+
+</details>
+
+---
+
+### Q49 — Hypophosphatemic rickets is *(2015)*
+
+Hypophosphatemic rickets is
+
+- A. AR
+- B. AD
+- C. XR
+- D. XD
+
+<details><summary>Answer</summary>
+
+**D. XD**
+
+</details>
+
+---
+
+
+## Pathology
+
+### Q50 — Programmed cell death is known as- *(2015)*
+
+Programmed cell death is known as-
+
+- A. Cytolysis
+- B. Apoptosis
+- C. Necrosis
+- D. Proptosis
+
+<details><summary>Answer</summary>
+
+**B. Apoptosis**
+
+</details>
+
+---
+
+### Q51 — AML best prognosis is seen with *(2015)*
+
+AML best prognosis is seen with ?
+
+- A. Acute myelo monocytic leukemia.
+- B. Acute monocytic leukemia.
+- C. Acute promyeloblastic lukemia (M.3).
+- D. Erythro leukemia
+
+<details><summary>Answer</summary>
+
+**C. Acute promyeloblastic lukemia (M.3).**
+
+</details>
+
+---
+
+### Q52 — COXtype 3 is a product of- *(2015)*
+
+COXtype 3 is a product of-
+
+- A. COX I gene
+- B. COX2gene
+- C. COX 3 gene
+- D. None ofthe above
+
+<details><summary>Answer</summary>
+
+**A. COX I gene**
+
+</details>
+
+---
+
+### Q53 — Dopamine receptor with inhibitory action *(2015)*
+
+Dopamine receptor with inhibitory action ?
+
+- A. D5
+- B. Di
+- C. D2
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. D2**
+
+</details>
+
+---
+
+### Q54 — Benzodiazepine binding ste on GABA receptors *(2015)*
+
+Benzodiazepine binding ste on GABA receptors is on ?
+
+- A. y-subunit
+- B. a-subunit
+- C. β-subunit
+- D. δ-subunit
+
+<details><summary>Answer</summary>
+
+**B. a-subunit**
+
+</details>
+
+---
+
+### Q55 — Drugs used for H Pylori are *(2015)*
+
+Drugs used for H. Pylori are all except?
+
+- A. Bismuth
+- B. Amoxicillin
+- C. Domperidone
+- D. Clarithromycin
+
+<details><summary>Answer</summary>
+
+**C. Domperidone**
+
+</details>
+
+---
+
+### Q56 — Base of sphenoid fuses with occipit *(2015)*
+
+Base of sphenoid fuses with occipit at the age of -
+
+- A. 20 years
+- B. 30 years
+- C. 40 years
+- D. 50 years
+
+<details><summary>Answer</summary>
+
+**A. 20 years**
+
+</details>
+
+---
+
+### Q57 — common malignant tumor of heart in *(2015)*
+
+Most common malignant tumor of heart in adults
+
+- A. Sarcoma
+- B. Rhabdomyoma
+- C. Lipoma
+- D. Paraganglioma
+
+<details><summary>Answer</summary>
+
+**A. Sarcoma**
+
+</details>
+
+---
+
+
+## Microbiology
+
+### Q58 — True about serum sickness is *(2015)*
+
+True about serum sickness is
+
+- A. Type 2 hypersensitivity
+- B. Can lead to leukocytoclastic vasculitis
+- C. Hypercomplementemia
+- D. Can occur due to homologous antigen
+
+<details><summary>Answer</summary>
+
+**B. Can lead to leukocytoclastic vasculitis**
+
+</details>
+
+---
+
+### Q59 — Example of transfer of drug resistance *(2015)*
+
+Example of transfer of drug resistance by conjugation -
+
+- A. Staphylococci to rifampicin
+- B. Pneumococcus to penicillin G
+- C. M tuberculosis to antitubercular drugs
+- D. E coli to streptomycin
+
+<details><summary>Answer</summary>
+
+**D. E coli to streptomycin**
+
+</details>
+
+---
+
+### Q60 — Oropharyngeal commensal which predisposes to ca... *(2015)*
+
+Oropharyngeal commensal which predisposes to candidiasis -
+
+- A. Hemophilus influenzae
+- B. Streptococcus
+- C. Staphylococcus
+- D. Lactobacillus
+
+<details><summary>Answer</summary>
+
+**B. Streptococcus**
+
+</details>
+
+---
+
+### Q61 — Clinical significance of Vi antigen of *(2015)*
+
+Clinical significance of Vi antigen of S. typhi is:
+
+- A. Helps in diagnosis
+- B. Highly immunogenic
+- C. Most important antigen for widal test
+- D. Antibody against Vi-antigen is used for diagnosis of carrier
+
+<details><summary>Answer</summary>
+
+**D. Antibody against Vi-antigen is used for diagnosis of carrier**
+
+</details>
+
+---
+
+### Q62 — Not true about paramyxoviruses - *(2015)*
+
+Not true about paramyxoviruses -
+
+- A. Belong to family myxovirus
+- B. Are DNA viruses
+- C. Have linear nucleic acid
+- D. Antigenically stable
+
+<details><summary>Answer</summary>
+
+**B. Are DNA viruses**
+
+</details>
+
+---
+
+### Q63 — Indirect Coombs test detects *(2015)*
+
+Indirect Coomb's test detects:
+
+- A. Antibodies attached to RBC Surface
+- B. Antibodies in the serum
+- C. Antigens attached to RBC Surface
+- D. Antigens in the serum
+
+<details><summary>Answer</summary>
+
+**B. Antibodies in the serum**
+
+</details>
+
+---
+
+### Q64 — True statement about malignant otitis externa *(2015)*
+
+True statement about malignant otitis externa is:
+
+- A. Not painful
+- B. Common in diabetics and old age
+- C. Caused by streptococcus
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Common in diabetics and old age**
+
+</details>
+
+---
+
+### Q65 — Streptococcus bovis infection is associated with *(2015)*
+
+Streptococcus bovis infection is associated with -
+
+- A. CLL
+- B. Hairy cell leukemia
+- C. Colorectal cancer
+- D. Multiple myeloma
+
+<details><summary>Answer</summary>
+
+**C. Colorectal cancer**
+
+</details>
+
+---
+
+
+## Pharmacology
+
+### Q66 — mechanism of action of uncouplers of *(2015)*
+
+The mechanism of action of uncouplers of oxidative phosphorylation involves:
+
+- A. Inhibition of ATP synthase
+- B. Stimulation of ATP synthase
+- C. Disruption of proton gradient across the inner membrane
+- D. Disruption of proton gradient across outer membrane
+
+<details><summary>Answer</summary>
+
+**C. Disruption of proton gradient across the inner membrane**
+
+</details>
+
+---
+
+### Q67 — Buprenorphine partial agonist at which opioid *(2015)*
+
+Buprenorphine partial agonist at which opioid receptor?
+
+- A. Mu
+- B. Kappa
+- C. Delta
+- D. Lambda
+
+<details><summary>Answer</summary>
+
+**A. Mu**
+
+</details>
+
+---
+
+### Q68 — Sexual gratification of a women is *(2015)*
+
+Sexual gratification of a women is obtained by another woman is called ?
+
+- A. Tribadism
+- B. Bestiality
+- C. Fellatio
+- D. Cunnilingus
+
+<details><summary>Answer</summary>
+
+**A. Tribadism**
+
+</details>
+
+---
+
+### Q69 — Mickey Finn is *(2015)*
+
+Mickey Finn is ?
+
+- A. Chloroform
+- B. Methyl alcohol
+- C. Chloral hydrate
+- D. Ethylene glycol
+
+<details><summary>Answer</summary>
+
+**C. Chloral hydrate**
+
+</details>
+
+---
+
+### Q70 — Naeglers reaction is due to *(2015)*
+
+Naegler's reaction is due to:
+
+- A. Coagulase
+- B. Hyaluronidase
+- C. Lecithinase
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Lecithinase**
+
+</details>
+
+---
+
+### Q71 — Eschar is seen in all the *(2015)*
+
+Eschar is seen in all the Rickettsial diseases excent:
+
+- A. Scrub typhus
+- B. Rickettsial pox
+- C. Indian tick typhus
+- D. Endemic typhus
+
+<details><summary>Answer</summary>
+
+**D. Endemic typhus**
+
+</details>
+
+---
+
+### Q72 — influenzae strain not of human origin *(2015)*
+
+Which influenzae strain, not of human origin and can cause pandemic:
+
+- A. Hi Ni
+- B. H2 N2
+- C. H5 Ni
+- D. H9 Ni
+
+<details><summary>Answer</summary>
+
+**C. H5 Ni**
+
+</details>
+
+---
+
+### Q73 — Haptens are immunogenic when they covalently *(2015)*
+
+Haptens are immunogenic when they covalently bind to -
+
+- A. Lipid carrier
+- B. Polysaccharide carrier
+- C. Protein carrier
+- D. Any of the above carrier
+
+<details><summary>Answer</summary>
+
+**C. Protein carrier**
+
+</details>
+
+---
+
+
+## Forensic Medicine
+
+### Q74 — In CO poisoning immediate emergency treatment *(2015)*
+
+In CO poisoning, immediate emergency treatment:
+
+- A. 5% CO2 inhalation
+- B. 10% CO2 inhalation
+- C. High flow O2
+- D. Nitroglycerine
+
+<details><summary>Answer</summary>
+
+**C. High flow O2**
+
+</details>
+
+---
+
+### Q75 — Best method for methanol poisoning treatment *(2015)*
+
+Best method for methanol poisoning treatment:
+
+- A. Ethanol
+- B. Calcium gluconate
+- C. Desferroxamine
+- D. BAL
+
+<details><summary>Answer</summary>
+
+**A. Ethanol**
+
+</details>
+
+---
+
+### Q76 — Emphysema aquosum is seen in *(2015)*
+
+Emphysema aquosum is seen in:
+
+- A. Wet drowning
+- B. Dry drowning
+- C. Immersion syndrome
+- D. Secondary drowning
+
+<details><summary>Answer</summary>
+
+**A. Wet drowning**
+
+</details>
+
+---
+
+### Q77 — Max damage is done by which *(2015)*
+
+Max damage is done by which poison -
+
+- A. Irritant poison
+- B. Corrosive poison
+- C. Alcohol
+- D. Opioid
+
+<details><summary>Answer</summary>
+
+**B. Corrosive poison**
+
+</details>
+
+---
+
+### Q78 — Marsch test is done for poisoning *(2015)*
+
+Marsch test is done for poisoning with ?
+
+- A. Lead
+- B. Mercury
+- C. Arsenic
+- D. Nickel
+
+<details><summary>Answer</summary>
+
+**C. Arsenic**
+
+</details>
+
+---
+
+### Q79 — Blisters are absent in *(2015)*
+
+Blisters are absent in ?
+
+- A. Burns
+- B. Putrefaction
+- C. Arsenic Poisoning
+- D. Postmortem caloricity
+
+<details><summary>Answer</summary>
+
+**D. Postmortem caloricity**
+
+</details>
+
+---
+
+### Q80 — Ophitoxemia is *(2015)*
+
+Ophitoxemia is ?
+
+- A. Snake venom poisoning
+- B. Scorpion bite
+- C. Spider bite
+- D. Tick bite
+
+<details><summary>Answer</summary>
+
+**A. Snake venom poisoning**
+
+</details>
+
+---
+
+### Q81 — Man working in hot environment & *(2015)*
+
+Man working in hot environment & drinking lots of water without intake of salts is liable to develop -
+
+- A. Heat hyperpyrexia
+- B. Heat cramps
+- C. Heat stroke
+- D. Heat encephalopathy
+
+<details><summary>Answer</summary>
+
+**B. Heat cramps**
+
+</details>
+
+---
+
+
+## Community Medicine
+
+### Q82 — PSGN is an example of which *(2015)*
+
+PSGN is an example of which type of hyper sensitivity
+
+- A. Type -1 hypersensitivity
+- B. Type -2 hypersensitivity
+- C. Type -3 hypersensitivity
+- D. Type -4 hypersensitivity
+
+<details><summary>Answer</summary>
+
+**C. Type -3 hypersensitivity**
+
+</details>
+
+---
+
+### Q83 — Randomization is done to reduce *(2015)*
+
+Randomization is done to reduce ?
+
+- A. Recall bias
+- B. Selection bias
+- C. Berksonian bias
+- D. Reporting bias
+
+<details><summary>Answer</summary>
+
+**B. Selection bias**
+
+</details>
+
+---
+
+### Q84 — After taking MMR live vaccine conception *(2015)*
+
+After taking MMR live vaccine, conception should not occur within ?
+
+- A. 2 weeks
+- B. 4 weeks
+- C. 8 weeks
+- D. 10 weeks
+
+<details><summary>Answer</summary>
+
+**B. 4 weeks**
+
+</details>
+
+---
+
+### Q85 — Maximum relative risk attributed by obesity *(2015)*
+
+Maximum relative risk attributed by obesity to which condition ?
+
+- A. Hypertension
+- B. CHD
+- C. DM
+- D. Cancer
+
+<details><summary>Answer</summary>
+
+**C. DM**
+
+</details>
+
+---
+
+### Q86 — Limiting amino acid in cereals *(2015)*
+
+Limiting amino acid in cereals ?
+
+- A. Methionine
+- B. Tryptophan
+- C. Lysine
+- D. Cysteine
+
+<details><summary>Answer</summary>
+
+**C. Lysine**
+
+</details>
+
+---
+
+### Q87 — are incinerated except *(2015)*
+
+All are incinerated except ?
+
+- A. Human anatomical waste
+- B. Animal waste
+- C. Infected solid waste
+- D. Broken thermometers
+
+<details><summary>Answer</summary>
+
+**D. Broken thermometers**
+
+</details>
+
+---
+
+### Q88 — is the intensity in decibel of *(2015)*
+
+What is the intensity in decibel of normal conversation in humans?
+
+- A. 30dB
+- B. 60dB
+- C. 90dB
+- D. 150dB
+
+<details><summary>Answer</summary>
+
+**B. 60dB**
+
+</details>
+
+---
+
+### Q89 — is the type of epithelium of *(2015)*
+
+What is the type of epithelium of the adenoid?
+
+- A. Pseudostratified ciliated columnar epithelium
+- B. Non keratinized squamous epithelium
+- C. Cuboidal epithelium
+- D. Columnar epithelium with goblet cells
+
+<details><summary>Answer</summary>
+
+**A. Pseudostratified ciliated columnar epithelium**
+
+</details>
+
+---
+
+
+## Medicine
+
+### Q90 — Superior pancreaticoduodenal artery is a branch *(2015)*
+
+Superior pancreaticoduodenal artery is a branch of?
+
+- A. Hepatic artery
+- B. Splenic artery
+- C. Gastroduodenal artery
+- D. Inferior mesenteric artery
+
+<details><summary>Answer</summary>
+
+**C. Gastroduodenal artery**
+
+</details>
+
+---
+
+### Q91 — Polyuria with low fixed specific gravity *(2015)*
+
+Polyuria with low fixed specific gravity urine is seen in ?
+
+- A. Diabetes mellitus
+- B. Diabetes insipidus
+- C. Chronic glomerulonephritis
+- D. Potomania
+
+<details><summary>Answer</summary>
+
+**C. Chronic glomerulonephritis**
+
+</details>
+
+---
+
+### Q92 — Drainage of cervical abscess is an *(2015)*
+
+Drainage of cervical abscess is an example of -
+
+- A. Clean contaminated wound
+- B. Clean uncontaminated wound
+- C. Unclean uncontaminated wound
+- D. Dirty infected wound
+
+<details><summary>Answer</summary>
+
+**D. Dirty infected wound**
+
+</details>
+
+---
+
+### Q93 — the features of membranous urethral injury *(2015)*
+
+All the features of membranous urethral injury except
+
+- A. blood of meatus
+- B. Retention of urine
+- C. Pelvic fracture
+- D. Perineal butterfly hematoma
+
+<details><summary>Answer</summary>
+
+**D. Perineal butterfly hematoma**
+
+</details>
+
+---
+
+### Q94 — size beyond which the risk of *(2015)*
+
+The size beyond which the risk of rupture of an abdominal aneurysm significantly increases is greater than -
+
+- A. 5.5 cm
+- B. 6 cm
+- C. 6.5 cm
+- D. 7 cm
+
+<details><summary>Answer</summary>
+
+**A. 5.5 cm**
+
+</details>
+
+---
+
+### Q95 — of the following may lead to *(2015)*
+
+All of the following may lead to pneumatocele formation except
+
+- A. Staphylococcal pneumonia
+- B. Positive pressure ventilation
+- C. Hydrocarbon inhalation
+- D. ARDS
+
+<details><summary>Answer</summary>
+
+**D. ARDS**
+
+</details>
+
+---
+
+### Q96 — of the following is false about *(2015)*
+
+Which of the following is false about undescended testis ?
+
+- A. More common on the right side
+- B. Hormonal therapy is effective
+- C. Increased risk of malignancy
+- D. Secondary sexual characteristics are normal
+
+<details><summary>Answer</summary>
+
+**B. Hormonal therapy is effective**
+
+</details>
+
+---
+
+### Q97 — newborn baby has a head circumference *(2015)*
+
+A newborn baby has a head circumference of 35 ems. at birth, His optimal head circumference will be 43 ems at -
+
+- A. 4 months of age
+- B. 6 months of age
+- C. 8 months of age
+- D. 12 months of age
+
+<details><summary>Answer</summary>
+
+**B. 6 months of age**
+
+</details>
+
+---
+
+
+## Surgery
+
+### Q98 — Ligament which prevents spleen to fall *(2015)*
+
+Ligament which prevents spleen to fall in left iliac fossa -
+
+- A. Leinorenal ligament
+- B. Phrenicolic ligament
+- C. Upper pole of right kidney
+- D. Sigmoid colon
+
+<details><summary>Answer</summary>
+
+**B. Phrenicolic ligament**
+
+</details>
+
+---
+
+### Q99 — Acute pancreatitis causes all of the *(2015)*
+
+Acute pancreatitis causes all of the following except: March 2005,
+
+- A. Hypercalcemia
+- B. Increased amylase level
+- C. Subcutaneous fat necrosis
+- D. Hyperlipidemia
+
+<details><summary>Answer</summary>
+
+**A. Hypercalcemia**
+
+</details>
+
+---
+
+### Q100 — True about cephalhematoma is - *(2015)*
+
+True about cephalhematoma is -
+
+- A. It is hemorrhage between the skull and periosteum
+- B. It is hemorrhage within the subcutaneous tissue around the
+- C. It is type of subdural hemorrhage
+- D. It is extraperiosteal bleeding in the skull
+
+<details><summary>Answer</summary>
+
+**A. It is hemorrhage between the skull and periosteum**
+
+</details>
+
+---
+
+### Q101 — Japanese encephalitis vaccine in routine schedule *(2015)*
+
+Japanese encephalitis vaccine in routine schedule is given in how many doses -
+
+- A. Two doses 1 month apart with a booster after 1-2 years if
+- B. Single dose vaccine
+- C. Three doses 1 month apart followed by a booster if needed
+- D. Three doses with the second dose 1 month and 3' dose 6
+
+<details><summary>Answer</summary>
+
+**A. Two doses 1 month apart with a booster after 1-2 years if**
+
+</details>
+
+---
+
+### Q102 — vascular zone of the bone is *(2015)*
+
+Most vascular zone of the bone is -
+
+- A. Metaphysis
+- B. Diaphysis
+- C. Epiphysis
+- D. Medullary Cavity
+
+<details><summary>Answer</summary>
+
+**A. Metaphysis**
+
+</details>
+
+---
+
+### Q103 — Trigger Finger Involves Which joint *(2015)*
+
+Trigger Finger Involves Which joint ?
+
+- A. Proximal Interphalngeal joint
+- B. Distal Interphalngeal foint
+- C. Metacarpophalangeal joint
+- D. Carpometacarpal joint
+
+<details><summary>Answer</summary>
+
+**C. Metacarpophalangeal joint**
+
+</details>
+
+---
+
+### Q104 — True regarding Monteggia fracture is March *(2015)*
+
+True regarding Monteggia fracture is: March 2007, March 2013 (a, b, d, f)
+
+- A. Upper ulnar fracture & dislocated radial head
+- B. Upper radial fracture & dislocated ulna
+- C. Lower radial fracture & dislocated ulna
+- D. Lower ulnar fracture & dislocated radius
+
+<details><summary>Answer</summary>
+
+**A. Upper ulnar fracture & dislocated radial head**
+
+</details>
+
+---
+
+### Q105 — Osteosclerosis is a feature of which *(2015)*
+
+Osteosclerosis is a feature of which of the followinga -
+
+- A. Rickets
+- B. Hyperparathyroidism
+- C. Pagets Disease
+- D. Osteogenesis Imperfecta
+
+<details><summary>Answer</summary>
+
+**C. Pagets Disease**
+
+</details>
+
+---
+
+
+## Paediatrics
+
+### Q106 — Life span of neonatal RBC *(2015)*
+
+Life span of neonatal RBC ?
+
+- A. 60-90 days
+- B. 90-120 days
+- C. 120-150 days
+- D. 150-200 days
+
+<details><summary>Answer</summary>
+
+**A. 60-90 days**
+
+</details>
+
+---
+
+### Q107 — CHARGE syndrome includes all except *(2015)*
+
+CHARGE syndrome includes all except ?
+
+- A. Eye Coloboma
+- B. Congenital heart disease
+- C. Urinary tract defects
+- D. Esophageal Atresia
+
+<details><summary>Answer</summary>
+
+**D. Esophageal Atresia**
+
+</details>
+
+---
+
+### Q108 — Neonatal resuscitation - which of the *(2015)*
+
+Neonatal resuscitation - which of the following drugs is used ?
+
+- A. Dopamine
+- B. Sodium Bicarbonate
+- C. Noradrenaline
+- D. Dobutamine
+
+<details><summary>Answer</summary>
+
+**B. Sodium Bicarbonate**
+
+</details>
+
+---
+
+### Q109 — Treatment of choice for symptomatic neonatal *(2015)*
+
+Treatment of choice for symptomatic neonatal hypoglycemia is
+
+- A. Dextrose normal saline
+- B. 5% dextrose
+- C. 10% dextrose
+- D. 25% dextrose
+
+<details><summary>Answer</summary>
+
+**C. 10% dextrose**
+
+</details>
+
+---
+
+### Q110 — of the following are causes of *(2015)*
+
+ALL of the following are causes of neonatal bradycardia except
+
+- A. Hypoxia
+- B. Hypothermia
+- C. Head injury
+- D. BCG Vaccine
+
+<details><summary>Answer</summary>
+
+**D. BCG Vaccine**
+
+</details>
+
+---
+
+### Q111 — Kwashiorkor- Triad includes all except - *(2015)*
+
+Kwashiorkor- Triad includes all except -
+
+- A. Psychomotor changes
+- B. Hypoglycemia
+- C. Edema
+- D. Growth retardation
+
+<details><summary>Answer</summary>
+
+**B. Hypoglycemia**
+
+</details>
+
+---
+
+### Q112 — After hepatitis B vaccination child with *(2015)*
+
+After hepatitis B vaccination child with allergic family history and pruritis involving face & convexities developed numerous umblicated vesicles; which
+
+- A. Secondary infected atopic dermatitis
+- B. Molluscum contagiosum
+- C. Eczema herpaticum
+- D. Eczema vaccinatum
+
+<details><summary>Answer</summary>
+
+**C. Eczema herpaticum**
+
+</details>
+
+---
+
+
+## Orthopaedics
+
+### Q113 — common ligament damaged in knee injury *(2015)*
+
+Most common ligament damaged in knee injury is
+
+- A. ACL
+- B. PCL
+- C. MCL
+- D. LCL
+
+<details><summary>Answer</summary>
+
+**C. MCL**
+
+</details>
+
+---
+
+### Q114 — Ligamentum arteriosum is derived from *(2015)*
+
+Ligamentum arteriosum is derived from:
+
+- A. Ductus arteriosus
+- B. Ductus venosus
+- C. Ductus utriculosaccularis
+- D. Ductus reunions
+
+<details><summary>Answer</summary>
+
+**A. Ductus arteriosus**
+
+</details>
+
+---
+
+### Q115 — Gastrosplenic ligament contains *(2015)*
+
+Gastrosplenic ligament contains ?
+
+- A. Splenic vessels
+- B. Tail of pancreas
+- C. Short gastric artery
+- D. Portal vein
+
+<details><summary>Answer</summary>
+
+**C. Short gastric artery**
+
+</details>
+
+---
+
+### Q116 — Remnant of umbilical artery *(2015)*
+
+Remnant of umbilical artery
+
+- A. Ligamentum arteriosum
+- B. Ligament teres
+- C. Ligamentum venosum
+- D. Medial umbilical ligament
+
+<details><summary>Answer</summary>
+
+**D. Medial umbilical ligament**
+
+</details>
+
+---
+
+### Q117 — In Celiac artery compression syndrome which *(2015)*
+
+In Celiac artery compression syndrome which structure is the main cause of compression -
+
+- A. Median Arcuate Ligament
+- B. Rectus Sheath
+- C. Deep Inferior Epigastric artery
+- D. Lacunar Ligament
+
+<details><summary>Answer</summary>
+
+**A. Median Arcuate Ligament**
+
+</details>
+
+---
+
+### Q118 — of the following are true about *(2015)*
+
+All of the following are true about the bare area of the liver except
+
+- A. Infection can spread from the abdominal to thoracic cavity at
+- B. It is not a site of portocaval anastomosis
+- C. Formed by the reflections of coronary ligaments
+- D. It is triangular in shape
+
+<details><summary>Answer</summary>
+
+**B. It is not a site of portocaval anastomosis**
+
+</details>
+
+---
+
+### Q119 — During perfoming a total hip replacement *(2015)*
+
+During perfoming a total hip replacement, the surgeon found destruction of the articular cartilage and rnultiple wedge shaped subchondral
+
+- A. Osteolysis
+- B. Osteomyelitis
+- C. Osteonecrosis
+- D. Osteogenesis
+
+<details><summary>Answer</summary>
+
+**C. Osteonecrosis**
+
+</details>
+
+---
+
+### Q120 — Milwaukee Brace is used in - *(2015)*
+
+Milwaukee Brace is used in -
+
+- A. Congenital Kyphosis
+- B. Scheurmanns Disease
+- C. Adolescentldiopathic Scoliosis
+- D. Spondylolisthesis
+
+<details><summary>Answer</summary>
+
+**A. Congenital Kyphosis**
+
+</details>
+
+---
+
+
+## ENT
+
+### Q121 — patient has a herniated intervertebral disc *(2015)*
+
+patient has a herniated intervertebral disc impinging on the right C5 nerve Which of the following movements would most likely be affected?
+
+- A. Extension of the fingers
+- B. Extension of the shoulder
+- C. Flexion of the elbow
+- D. Flexion of the wrist
+
+<details><summary>Answer</summary>
+
+**C. Flexion of the elbow**
+
+</details>
+
+---
+
+### Q122 — MHC-2 is present in all except *(2015)*
+
+MHC-2 is present in all except
+
+- A. Cortical macrophages
+- B. Medullary m acrophages
+- C. Cortical epithelial cells
+- D. Medullary epithelial cells
+
+<details><summary>Answer</summary>
+
+**B. Medullary m acrophages**
+
+</details>
+
+---
+
+### Q123 — Thymus dependent area in spleen - *(2015)*
+
+Thymus dependent area in spleen -
+
+- A. Mantel layer
+- B. Perifollicular region
+- C. Malphigian corpuscle
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Malphigian corpuscle**
+
+</details>
+
+---
+
+### Q124 — of the following are true about *(2015)*
+
+All of the following are true about vasomotor rhinitis except?
+
+- A. It is a nonallergic condition
+- B. it is due to parasympathetic overactivity
+- C. It may cause paroxysmal episodes of sneezing
+- D. It is an infective condition
+
+<details><summary>Answer</summary>
+
+**D. It is an infective condition**
+
+</details>
+
+---
+
+### Q125 — of the following are true for *(2015)*
+
+All of the following are true for retinopathy of prematurity except:
+
+- A. Occurs in premature infants due to late crying
+- B. Due to hypoxia there occurs neovascularization followed by
+- C. End result is bilateral blindness
+- D. Blindness can be prevented by early diagnosis and ablation of
+
+<details><summary>Answer</summary>
+
+**A. Occurs in premature infants due to late crying**
+
+</details>
+
+---
+
+### Q126 — Patient of 1st degree heart block *(2015)*
+
+Patient of 1st degree heart block complains of dizziness. Best treatment for this patient is
+
+- A. Atropine
+- B. Isoprenaline
+- C. Adrenaline
+- D. Pacemaker
+
+<details><summary>Answer</summary>
+
+**D. Pacemaker**
+
+</details>
+
+---
+
+### Q127 — patient undergoing a minor surgical *(2015)*
+
+. patient undergoing a minor surgical procedure is given lignocaine Assertion: Local anaesthetics acts by blocking nerve conduction. Reason: Small fibers and non myelinated fibers are blocked more easily
+
+- A. Both Assertion and Reason are true, and Reason is the correct
+- B. Both Assertion and Reason are true, and Reason is not the
+- C. Assertion is true, but Reason is false
+- D. Assertion is false, but Reason is true
+
+<details><summary>Answer</summary>
+
+**B. Both Assertion and Reason are true, and Reason is not the**
+
+</details>
+
+---
+
+### Q128 — Club foot clinically present as what *(2015)*
+
+Club foot clinically present as what deformity ?
+
+- A. Calcaneovalgus
+- B. Equinovarus
+- C. Equino Cavovarus
+- D. Calcaneovarus
+
+<details><summary>Answer</summary>
+
+**C. Equino Cavovarus**
+
+</details>
+
+---
+
+
+## Ophthalmology
+
+### Q129 — of the following enhances acute phase *(2015)*
+
+Which of the following enhances acute phase response ?
+
+- A. a-2 microglobulin
+- B. Transferrin
+- C. Albumin
+- D. Retinal binding protein
+
+<details><summary>Answer</summary>
+
+**A. a-2 microglobulin**
+
+</details>
+
+---
+
+### Q130 — Index myopia is seen in *(2015)*
+
+Index myopia is seen in ?
+
+- A. Nuclear cataracts
+- B. Chorioretinitis
+- C. Choroidal melanoma
+- D. Posterior uveitis
+
+<details><summary>Answer</summary>
+
+**A. Nuclear cataracts**
+
+</details>
+
+---
+
+### Q131 — common etiolopathogenetic cause of glaucoma is *(2015)*
+
+Most common etiolopathogenetic cause of glaucoma is:
+
+- A. Raised pressure in episcleritic veins
+- B. Decreased outflow
+- C. Increased formation of aqueous humour
+- D. Increased scleral outflow
+
+<details><summary>Answer</summary>
+
+**B. Decreased outflow**
+
+</details>
+
+---
+
+### Q132 — In which of the following conditions *(2015)*
+
+In which of the following conditions Berlin's edema is
+
+- A. Open angle glaucoma
+- B. After cataract surgery
+- C. After concussional trauma
+- D. Diabetic retinopathy
+
+<details><summary>Answer</summary>
+
+**C. After concussional trauma**
+
+</details>
+
+---
+
+### Q133 — Low serum copper due to ATP *(2015)*
+
+Low serum copper due to ATP 7A gene is due to?
+
+- A. Dubin-johnson's syndrome
+- B. Wilson disease
+- C. Menke disease
+- D. Gilbert's disease
+
+<details><summary>Answer</summary>
+
+**C. Menke disease**
+
+</details>
+
+---
+
+### Q134 — Hyperpigmentation is seen with which hormone *(2015)*
+
+Hyperpigmentation is seen with which hormone?
+
+- A. FSH
+- B. LH
+- C. TSH
+- D. ACTH
+
+<details><summary>Answer</summary>
+
+**D. ACTH**
+
+</details>
+
+---
+
+### Q135 — common site of hypertensive intraparenchymal he... *(2015)*
+
+Most common site of hypertensive intraparenchymal hemorrhage in brain:
+
+- A. Pons
+- B. Thalamus
+- C. Putamen
+- D. Cerebellum
+
+<details><summary>Answer</summary>
+
+**C. Putamen**
+
+</details>
+
+---
+
+### Q136 — common cause of death in cancer *(2015)*
+
+Most common cause of death in cancer is -
+
+- A. Bleeding
+- B. Infection
+- C. Respiratory failure
+- D. Renal failure
+
+<details><summary>Answer</summary>
+
+**B. Infection**
+
+</details>
+
+---
+
+
+## Dermatology
+
+### Q137 — Dermatitis may be a clinical manifestation *(2015)*
+
+Dermatitis may be a clinical manifestation of deficiency states of all of following nutrients except -
+
+- A. Biotin
+- B. Niacin
+- C. Pyridoxine
+- D. Thiamine
+
+<details><summary>Answer</summary>
+
+**D. Thiamine**
+
+</details>
+
+---
+
+### Q138 — True about pemphigus vulgaris AE *(2015)*
+
+True about pemphigus vulgaris A/E:
+
+- A. Subepidermal
+- B. Autoimmune disease
+- C. Tzanck smear shows acanthoyltic cells
+- D. Antibody are formed against desmogleins
+
+<details><summary>Answer</summary>
+
+**A. Subepidermal**
+
+</details>
+
+---
+
+### Q139 — Landmark for pudendal nerve block is *(2015)*
+
+Landmark for pudendal nerve block is ?
+
+- A. Ischial tuberosity
+- B. Iliac spine
+- C. Sacroiliac joint
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Ischial tuberosity**
+
+</details>
+
+---
+
+### Q140 — of the following is not a *(2015)*
+
+Which of the following is not a contraindication of MRI
+
+- A. Cardiac pacemaker
+- B. Cochlear implant
+- C. Ryle's tube
+- D. Metallic splinter in eye
+
+<details><summary>Answer</summary>
+
+**C. Ryle's tube**
+
+</details>
+
+---
+
+### Q141 — Radioactive iodine is administered through which *(2015)*
+
+Radioactive iodine is administered through which route
+
+- A. Intravenous
+- B. Subcutaneous
+- C. Oral
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q142 — Tigriod pattern on MRI is seen *(2015)*
+
+Tigriod pattern on MRI is seen in -
+
+- A. Wilson's disease
+- B. Metachromatic leukodystrophy
+- C. Parkinsonism
+- D. GB syndrome
+
+<details><summary>Answer</summary>
+
+**B. Metachromatic leukodystrophy**
+
+</details>
+
+---
+
+### Q143 — Loosening of association is an example *(2015)*
+
+Loosening of association is an example of
+
+- A. Formal thought disorder
+- B. Schneider's first symptoms
+- C. Perseveration
+- D. Concrete thinking
+
+<details><summary>Answer</summary>
+
+**A. Formal thought disorder**
+
+</details>
+
+---
+
+### Q144 — Characterized by chronic multiple tics *(2015)*
+
+Characterized by chronic, multiple tics ?
+
+- A. Parkinson's disease
+- B. Wilson's disease
+- C. Shy-Drager syndrome
+- D. Tourette's syndrome
+
+<details><summary>Answer</summary>
+
+**D. Tourette's syndrome**
+
+</details>
+
+---
+
+
+## Psychiatry
+
+### Q145 — Tau protein seen in *(2015)*
+
+Tau protein seen in ?
+
+- A. Alzhiemer's disease
+- B. Lewy body dementia
+- C. Picks disease
+- D. Amylodosis
+
+<details><summary>Answer</summary>
+
+**A. Alzhiemer's disease**
+
+</details>
+
+---
+
+### Q146 — Bipolar cautery is preferred over monopolar *(2015)*
+
+The Bipolar cautery is preferred over monopolar cautery in the following surgeries except
+
+- A. Hand Surgery
+- B. Surgery around Penis
+- C. Surgery of the Hip
+- D. Surgery around the face
+
+<details><summary>Answer</summary>
+
+**C. Surgery of the Hip**
+
+</details>
+
+---
+
+### Q147 — Cephalic index is *(2015)*
+
+Cephalic index is
+
+- A. BPD/OFD
+- B. BPD/HC
+- C. OFD/BPD
+- D. HC/FL
+
+<details><summary>Answer</summary>
+
+**A. BPD/OFD**
+
+</details>
+
+---
+
+### Q148 — size of the hegars dilator if *(2015)*
+
+What size of the hegar's dilator if passed through the internal os can be labeled as cervical incompetence?
+
+- A. 4
+- B. 6
+- C. 8
+- D. 10
+
+<details><summary>Answer</summary>
+
+**C. 8**
+
+</details>
+
+---
+
+### Q149 — Embryo gets implanted at what stage *(2015)*
+
+Embryo gets implanted at what stage of development?
+
+- A. Two cell stage
+- B. Four cell stage
+- C. Morula
+- D. Blastocyst
+
+<details><summary>Answer</summary>
+
+**D. Blastocyst**
+
+</details>
+
+---
+
+### Q150 — P is not a feature of *(2015)*
+
+Which 'P' is not a feature of lichen planus ?
+
+- A. Polygonal
+- B. Polyhedral
+- C. Pruritus
+- D. Plane
+
+<details><summary>Answer</summary>
+
+**B. Polyhedral**
+
+</details>
+
+---
+
+### Q151 — are reversible causes of dementia except *(2015)*
+
+All are reversible causes of dementia except
+
+- A. Hypothyroidism
+- B. Hydrocephalus
+- C. Meningoencephalitis
+- D. Alzheimer's disease
+
+<details><summary>Answer</summary>
+
+**D. Alzheimer's disease**
+
+</details>
+
+---
+
+### Q152 — Self mutilation is a feature of *(2015)*
+
+Self mutilation is a feature of ?
+
+- A. Von-Gogh syndrome
+- B. Catatonic schizophrenia
+- C. Paranoid schizophrenia
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Von-Gogh syndrome**
+
+</details>
+
+---
+
+
+## Radiology
+
+### Q153 — True about imaging spectrometry is *(2015)*
+
+True about imaging spectrometry is ?
+
+- A. Allows simultaneous measurements of reflectance spectra
+- B. Is useful in diagnosing against the rule astigmatism
+- C. Spectrometry is an essential investigation before
+- D. It is based on the principle of Sturm's Conoid
+
+<details><summary>Answer</summary>
+
+**A. Allows simultaneous measurements of reflectance spectra**
+
+</details>
+
+---
+
+### Q154 — is the Tt of pt with *(2015)*
+
+What is the T/t of pt with carcinoid tumor of appendix of size more than 2 cm -
+
+- A. Right hemicolectomy
+- B. Appendicectomy
+- C. Appendicectomy + abdominal CT scan
+- D. Appendicectomy + 24 hrs urinary HIAA
+
+<details><summary>Answer</summary>
+
+**A. Right hemicolectomy**
+
+</details>
+
+---
+
+### Q155 — investigation of choice for dysphagia is *(2015)*
+
+The investigation of choice for dysphagia is
+
+- A. Endoscopy
+- B. Manometric Study
+- C. Ct Scan
+- D. Barium Swallow
+
+<details><summary>Answer</summary>
+
+**A. Endoscopy**
+
+</details>
+
+---
+
+### Q156 — is the investigation of choice for *(2015)*
+
+Which is the investigation of choice for staging of a lower limb sarcoma ?
+
+- A. MRI
+- B. CT Scan
+- C. PET Scan
+- D. PET CT
+
+<details><summary>Answer</summary>
+
+**A. MRI**
+
+</details>
+
+---
+
+### Q157 — Investigation of choice for lung abscess *(2015)*
+
+Investigation of choice for lung abscess is
+
+- A. Chest X-ray
+- B. CECT scan
+- C. MRI
+- D. Ultrasound
+
+<details><summary>Answer</summary>
+
+**B. CECT scan**
+
+</details>
+
+---
+
+### Q158 — Investigation of choice to evaluate intracranial *(2015)*
+
+Investigation of choice to evaluate intracranial hemorrhage of less than 48 hours is -
+
+- A. CT scan
+- B. MRI
+- C. PET
+- D. SPECT
+
+<details><summary>Answer</summary>
+
+**A. CT scan**
+
+</details>
+
+---
+
+### Q159 — Investigation of choice for acute intracerebral *(2015)*
+
+Investigation of choice for acute intracerebral hemorrhage is -
+
+- A. NCCT
+- B. MRI
+- C. PET scan
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. NCCT**
+
+</details>
+
+---
+
+### Q160 — Investigation of choice for optic neuritis *(2015)*
+
+Investigation of choice for optic neuritis is ?
+
+- A. MRI Brain and orbit
+- B. Ct scan Brain and orbit
+- C. Vitreous biopsy
+- D. Electooculogram
+
+<details><summary>Answer</summary>
+
+**A. MRI Brain and orbit**
+
+</details>
+
+---
+
+
+## Anaesthesia
+
+### Q161 — of the following drugs increase the *(2015)*
+
+All of the following drugs increase the risk of postoperative nausea and vomiting after squint surgery in children except ?
+
+- A. Halothane
+- B. Opiods
+- C. Propofol
+- D. Nitrous Oxide
+
+<details><summary>Answer</summary>
+
+**C. Propofol**
+
+</details>
+
+---
+
+### Q162 — year old male presented with a *(2015)*
+
+year old male presented with a penetrating trauma to chest. He is dyspnoeic with distended neck veins with hypotension and mediastinum is
+
+- A. Insertion of a large bore needle in the 2" ICS in the mid
+- B. Fluid Resuscitation
+- C. Starting Inotropic support
+- D. Endotracheal Intubation
+
+<details><summary>Answer</summary>
+
+**A. Insertion of a large bore needle in the 2" ICS in the mid**
+
+</details>
+
+---
+
+### Q163 — Best uterine relaxation is seen with *(2015)*
+
+Best uterine relaxation is seen with ?
+
+- A. Chloroform
+- B. Nitrous oxide
+- C. Ether
+- D. Halothane
+
+<details><summary>Answer</summary>
+
+**D. Halothane**
+
+</details>
+
+---
+
+### Q164 — of the following drugs produces dissociative *(2015)*
+
+Which of the following drugs produces dissociative anesthesia
+
+- A. Ketamine
+- B. Propofol
+- C. Thiopentone
+- D. Enflurane
+
+<details><summary>Answer</summary>
+
+**A. Ketamine**
+
+</details>
+
+---
+
+### Q165 — Not included in neuraxial block *(2015)*
+
+Not included in neuraxial block ?
+
+- A. Spinal block
+- B. Epidural block
+- C. Bier's block
+- D. Caudal block
+
+<details><summary>Answer</summary>
+
+**C. Bier's block**
+
+</details>
+
+---
+
+### Q166 — common cause of maternal mortality in *(2015)*
+
+Most common cause of maternal mortality in spinal anesthesia is ?
+
+- A. Allergy to local anesthesia
+- B. Nerve injury
+- C. High block
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**C. High block**
+
+</details>
+
+---
+
+### Q167 — Cauda equina syndrome is associated with *(2015)*
+
+Cauda equina syndrome is associated with ?
+
+- A. Lidocaine
+- B. Halothane
+- C. N20
+- D. Ether
+
+<details><summary>Answer</summary>
+
+**A. Lidocaine**
+
+</details>
+
+---
+
+### Q168 — Local anaesthetic injected directly into the *(2015)*
+
+Local anaesthetic injected directly into the tissue ?
+
+- A. Infiltration anaesthesia
+- B. Nerve block
+- C. Field block
+- D. Bier's block
+
+<details><summary>Answer</summary>
+
+**A. Infiltration anaesthesia**
+
+</details>
+
+---
