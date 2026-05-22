@@ -21,3 +21,6 @@ neet-quiz-app/android/.gradle/
 
 # Exception: generated study notes PDFs
 !notes/*.pdf
+
+# PDF files (binary, not tracked)
+**/*.pdf
