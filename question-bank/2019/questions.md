@@ -1940,3 +1940,3932 @@ A pregnant woman has fever not responding to antibiotics and is diagnosed with s
 </details>
 
 ---
+
+<!-- Source: Medicoholic NEET-PG 2019 PYQ compilation -->
+
+
+## Anatomy
+
+### Q118 — Syndrome associated with posterior inferior cerebe *(2019)*
+
+Syndrome associated with posterior inferior cerebellar artery thrombosis:
+
+- A. Wallenberg syndrome
+- B. Medial medullary syndrome
+- C. Inferior alternating syndrome
+- D. Dejerine syndrome
+
+<details><summary>Answer</summary>
+
+**A. Wallenberg syndrome**
+
+</details>
+
+---
+
+### Q119 — Space of Disse is in *(2019)*
+
+Space of Disse is in:
+
+- A. Spleen
+- B. Lymph node
+- C. Liver
+- D. Bone
+
+<details><summary>Answer</summary>
+
+**C. Liver**
+
+</details>
+
+---
+
+### Q120 — What are Gitter cells *(2019)*
+
+What are Gitter cells:
+
+- A. Macroglia
+- B. Modified macrophages in CNS
+- C. Astrocytes
+- D. Oligodendrocytes
+
+<details><summary>Answer</summary>
+
+**B. Modified macrophages in CNS**
+
+</details>
+
+---
+
+### Q121 — Cholecystocaval line separates *(2019)*
+
+Cholecystocaval line separates:
+
+- A. Right & Left liver lobe
+- B. Liver with Gall Bladder
+- C. Right Lobe of Liver with Gall Bladder
+- D. Left Lobe of Liver with Gall Bladder
+
+<details><summary>Answer</summary>
+
+**A. Right & Left liver lobe**
+
+</details>
+
+---
+
+### Q122 — Boot shape of heart in TOF *(2019)*
+
+Boot shape of heart in TOF is due to:
+
+- A. Left atrial enlargement
+- B. Right atrial enlargement
+- C. Right ventricular hypertrophy
+- D. Biventricular hypertrophy
+
+<details><summary>Answer</summary>
+
+**C. Right ventricular hypertrophy**
+
+</details>
+
+---
+
+### Q123 — Which of the following structure is *(2019)*
+
+Which of the following structure is not derived from external oblique muscle:
+
+- A. Inguinal ligament
+- B. Lacunar ligament
+- C. Cooper ligament
+- D. Linea Semilunaris
+
+<details><summary>Answer</summary>
+
+**D. Linea Semilunaris**
+
+</details>
+
+---
+
+### Q124 — Contralateral loss of pain and temperature *(2019)*
+
+Contralateral loss of pain and temperature is due to injury to:
+
+- A. Anterior spinothalamic tract
+- B. Lateral spinothalamic tract
+- C. Fasciculus gracilis
+- D. Fasciculus cuneatus
+
+<details><summary>Answer</summary>
+
+**B. Lateral spinothalamic tract**
+
+</details>
+
+---
+
+### Q125 — Structure derived from first pharyngeal arch *(2019)*
+
+Structure derived from first pharyngeal arch:
+
+- A. Levator palatini
+- B. Buccinator
+- C. Stylohyoid
+- D. Anterior belly of digastric
+
+<details><summary>Answer</summary>
+
+**D. Anterior belly of digastric**
+
+</details>
+
+---
+
+### Q126 — What is the nerve supply of *(2019)*
+
+What is the nerve supply of Submandibular gland:
+
+- A. Auriculotemporal nerve
+- B. Lingual nerve
+- C. Glossopharyngeal nerve
+- D. Inferior alveolar nerve
+
+<details><summary>Answer</summary>
+
+**B. Lingual nerve**
+
+</details>
+
+---
+
+### Q127 — Parathyroid gland is implanted in which *(2019)*
+
+Parathyroid gland is implanted in which muscle?
+
+- A. Sartorius
+- B. Supinator
+- C. Deltoid
+- D. Brachioradialis
+
+<details><summary>Answer</summary>
+
+**D. Brachioradialis**
+
+</details>
+
+---
+
+### Q128 — Right coronary artery arises from *(2019)*
+
+Right coronary artery arises from?
+
+- A. Right Aortic Sinus
+- B. Left Aortic Sinus
+- C. Posterior coronary sinus
+- D. Anterior coronary sinus
+
+<details><summary>Answer</summary>
+
+**A. Right Aortic Sinus**
+
+</details>
+
+---
+
+### Q129 — Golgi tendon organ responsible for *(2019)*
+
+Golgi tendon organ responsible for?
+
+- A. Tension
+- B. Length
+- C. Pressure
+- D. Proprioception
+
+<details><summary>Answer</summary>
+
+**A. Tension**
+
+</details>
+
+---
+
+### Q130 — With increase in age which of *(2019)*
+
+With increase in age which of the following is true for lungs?
+
+- A. Pulmonary compliance increases
+- B. Residual volume decreases
+- C. Mucocillary clearance increases
+- D. Fibrous of interstitium dreaseses
+
+<details><summary>Answer</summary>
+
+**A. Pulmonary compliance increases**
+
+</details>
+
+---
+
+### Q131 — Functional residual volume is *(2019)*
+
+Functional residual volume is?
+
+- A. After normal inspiration
+- B. After normal expiration
+- C. After forceful expiration
+- D. After forceful inspiration
+
+<details><summary>Answer</summary>
+
+**A. After normal inspiration**
+
+</details>
+
+---
+
+### Q132 — Tubuloglomerular feedback control is useful for *(2019)*
+
+Tubuloglomerular feedback control is useful for which one of the following?
+
+- A. GFR
+- B. Plasma sodium
+- C. Plasma volume
+- D. Determining tubular secretion
+
+<details><summary>Answer</summary>
+
+**A. GFR**
+
+</details>
+
+---
+
+### Q133 — Calcitonin levels increased in *(2019)*
+
+Calcitonin levels increased in
+
+- A. Hyperthyroidism
+- B. Hyperparathyroidism
+- C. Hypoparathyroidism
+- D. Cushing Syndrome
+
+<details><summary>Answer</summary>
+
+**B. Hyperparathyroidism**
+
+</details>
+
+---
+
+### Q134 — When the values of Fev113 & *(2019)*
+
+When the values of Fev1=1.3 & FCV=3.9. Which of the following does this signify?
+
+- A. Normal lung function
+- B. Obstructive lung disease
+- C. Restrictive lung disease
+- D. Both
+
+<details><summary>Answer</summary>
+
+**B. Obstructive lung disease**
+
+</details>
+
+---
+
+### Q135 — Antegrade peristalsis due to *(2019)*
+
+Antegrade peristalsis due to?
+
+- A. Ach
+- B. Serotonin
+- C. Substance P
+- D. VIP
+
+<details><summary>Answer</summary>
+
+**D. VIP**
+
+</details>
+
+---
+
+### Q136 — C-peptide seen in *(2019)*
+
+C-peptide seen in?
+
+- A. In Pre-proinsulin
+- B. In Proinsulin
+- C. As a combined entity with insulin after secretion
+- D. A gastrointestinal proactive molecul
+
+<details><summary>Answer</summary>
+
+**B. In Proinsulin**
+
+</details>
+
+---
+
+### Q137 — Slow conduction velocity is seen with *(2019)*
+
+Slow conduction velocity is seen with which of the following nerve fibers?
+
+- A. Preganglionic autonomic nerve fibers
+- B. Postganglionic autonomic nerve fibers
+- C. Motor nerves
+- D. Sympathetic nerve fibers
+
+<details><summary>Answer</summary>
+
+**B. Postganglionic autonomic nerve fibers**
+
+</details>
+
+---
+
+### Q138 — Testosterone secreted by, *(2019)*
+
+Testosterone secreted by,
+
+- A. Leydig’s cells.
+- B. Somatotropic cells.
+- C. Acidophilic cells.
+- D. Gonadotropic cells
+
+<details><summary>Answer</summary>
+
+**A. Leydig’s cells.**
+
+</details>
+
+---
+
+### Q139 — Vasopressin acts through which channels in *(2019)*
+
+Vasopressin acts through which channels in collecting duct?
+
+- A. Aquaporin 1
+- B. Aquaporin 2
+- C. GLUT –
+- D. GLUT – 4
+
+<details><summary>Answer</summary>
+
+**B. Aquaporin 2**
+
+</details>
+
+---
+
+### Q140 — True about decorticate rigidity *(2019)*
+
+True about decorticate rigidity?
+
+- A. Removal of cerebral cortex and basal ganglia
+- B. Flexion of lower limbs & extension of upper limbs
+- C. Rigidity is less pronounced than decerebrate rigidity
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Rigidity is less pronounced than decerebrate rigidity**
+
+</details>
+
+---
+
+### Q141 — Zewellger syndrone is due to absence *(2019)*
+
+Zewellger syndrone is due to absence of
+
+- A. Lysosomal
+- B. Mitochondria
+- C. Peroxisome
+- D. Nucleus
+
+<details><summary>Answer</summary>
+
+**C. Peroxisome**
+
+</details>
+
+---
+
+### Q142 — Urea, creatinine, nitric oxide formed by *(2019)*
+
+Urea, creatinine, nitric oxide formed by which amino acid
+
+- A. Histidine
+- B. Glycine
+- C. Cysteine
+- D. Arginine
+
+<details><summary>Answer</summary>
+
+**D. Arginine**
+
+</details>
+
+---
+
+### Q143 — Which of the following is not *(2019)*
+
+Which of the following is not the source of cytosolic NADPH ?
+
+- A. Isocitrate dehydrogenase
+- B. ATP citrate lyase
+- C. Malic enzyme
+- D. G6PD
+
+<details><summary>Answer</summary>
+
+**B. ATP citrate lyase**
+
+</details>
+
+---
+
+### Q144 — All are true regarding mitochondrial DNA, *(2019)*
+
+All are true regarding mitochondrial DNA, EXCEPT ?
+
+- A. Double stranded
+- B. Inherited from mother
+- C. High mutation rate
+- D. All respiratory proteins are synthesized within mitochondria
+
+<details><summary>Answer</summary>
+
+**D. All respiratory proteins are synthesized within mitochondria**
+
+</details>
+
+---
+
+### Q145 — Which apolipoprotein is responsible for Alzeihmers *(2019)*
+
+Which apolipoprotein is responsible for Alzeihmers disease
+
+- A. APOE4
+- B. APOE3
+- C. APOE2
+- D. APOE1
+
+<details><summary>Answer</summary>
+
+**A. APOE4**
+
+</details>
+
+---
+
+### Q146 — Hyperammonaemia inhibit TCA cycle by depleting *(2019)*
+
+Hyperammonaemia inhibit TCA cycle by depleting?
+
+- A. succinate
+- B. a keto glutarate
+- C. malate
+- D. fumarate
+
+<details><summary>Answer</summary>
+
+**B. a keto glutarate**
+
+</details>
+
+---
+
+### Q147 — which amino acid is used to *(2019)*
+
+which amino acid is used to synthesise Nitric oxide ?
+
+- A. glycine
+- B. arginine
+- C. tyrosine
+- D. threonine
+
+<details><summary>Answer</summary>
+
+**B. arginine**
+
+</details>
+
+---
+
+### Q148 — LCAT deficiency increases the following *(2019)*
+
+LCAT deficiency increases the following
+
+- A. HDL
+- B. LDL
+- C. VLDL
+- D. Chylomicron
+
+<details><summary>Answer</summary>
+
+**A. HDL**
+
+</details>
+
+---
+
+### Q149 — year old alcoholic presented with edema,hypertensi *(2019)*
+
+year old alcoholic presented with edema,hypertension, ocular disturbance,and changes in mental state was observed, diagnosis of high output
+
+- A. Vit B3
+- B. Vit B6
+- C. Vit B9
+- D. Vit B1
+
+<details><summary>Answer</summary>
+
+**D. Vit B1**
+
+</details>
+
+---
+
+### Q150 — Glutamine is Increase in CSF, blood *(2019)*
+
+Glutamine is Increase in CSF, blood and urine, this is due to deficiency of
+
+- A. CPS-I
+- B. Arginase
+- C. OTC
+- D. Argininosuccinate synthetase
+
+<details><summary>Answer</summary>
+
+**A. CPS-I**
+
+</details>
+
+---
+
+### Q151 — Protein which is not synthesised In *(2019)*
+
+Protein which is not synthesised In liver is
+
+- A. Phase protein
+- B. Immunoglobulins
+- C. Albumin
+- D. Plasma hormone
+
+<details><summary>Answer</summary>
+
+**B. Immunoglobulins**
+
+</details>
+
+---
+
+### Q152 — which of the following is not *(2019)*
+
+which of the following is not Ribozyme?
+
+- A. Ploy A polymerase
+- B. Ribonuclease
+- C. Transpeptidase
+- D. Peptidyl Transferase
+
+<details><summary>Answer</summary>
+
+**A. Ploy A polymerase**
+
+</details>
+
+---
+
+### Q153 — Type-I hyperlipoproteinemia is characterized by *(2019)*
+
+Type-I hyperlipoproteinemia is characterized by
+
+- A. Elevated LDL
+- B. Elevated HDL
+- C. Elevated chylomicrons
+- D. Elevated lipoprotein lipase
+
+<details><summary>Answer</summary>
+
+**C. Elevated chylomicrons**
+
+</details>
+
+---
+
+### Q154 — Vitamin A is stored in *(2019)*
+
+Vitamin A is stored in
+
+- A. Cells of Ito
+- B. Hepatocyte
+- C. Endothelial cell
+- D. Kupffer cell
+
+<details><summary>Answer</summary>
+
+**A. Cells of Ito**
+
+</details>
+
+---
+
+### Q155 — Glanzmann thrombasthenia is due to *(2019)*
+
+Glanzmann thrombasthenia is due to
+
+- A. Decreased GpIb
+- B. Decreased GpIIb/IIIa
+- C. Anti-GpIIb/IIIa antibodies
+- D. Inhibition or deficiency of ADAMTS 13
+
+<details><summary>Answer</summary>
+
+**B. Decreased GpIIb/IIIa**
+
+</details>
+
+---
+
+### Q156 — Alpha one anti trypsin works by *(2019)*
+
+Alpha one anti trypsin works by
+
+- A. inhibition of trypsin
+- B. inhibition of trypsinogen
+- C. inhibition of elastase
+- D. inhibition of chymotrypsin
+
+<details><summary>Answer</summary>
+
+**C. inhibition of elastase**
+
+</details>
+
+---
+
+### Q157 — Which one of the following is *(2019)*
+
+Which one of the following is an autosomal recessive disorder?
+
+- A. Albinism
+- B. Huntington’s syndrome
+- C. Marfan’s syndrome
+- D. Neurofibromatosis-1
+
+<details><summary>Answer</summary>
+
+**A. Albinism**
+
+</details>
+
+---
+
+### Q158 — what is the histological difference between *(2019)*
+
+what is the histological difference between them in Ulcerative colitis & Crohn’s disease?
+
+- A. Diffuse distribution of pseudopolyps
+- B. Mucosal edema
+- C. Crypt abscess
+- D. Lymphoid aggregates in the mucosa
+
+<details><summary>Answer</summary>
+
+**C. Crypt abscess**
+
+</details>
+
+---
+
+### Q159 — What is the cause of intracorpuscular *(2019)*
+
+What is the cause of intracorpuscular defects in hemolysis?
+
+- A. Uremic syndrome
+- B. PCH
+- C. PNH
+- D. Portal hypertension
+
+<details><summary>Answer</summary>
+
+**C. PNH**
+
+</details>
+
+---
+
+### Q160 — What is the function of IL1 *(2019)*
+
+What is the function of IL1?
+
+- A. Enhances hematopoiesis
+- B. Stimulates mast cells
+- C. Has antiviral properties
+- D. Endogenous pyrogen
+
+<details><summary>Answer</summary>
+
+**D. Endogenous pyrogen**
+
+</details>
+
+---
+
+### Q161 — Parotid mass mixed consistency *(2019)*
+
+Parotid mass mixed consistency
+
+- A. Pleomorphic adenoma
+- B. Sebaceous cyst
+- C. Dermoid cyst
+- D. All
+
+<details><summary>Answer</summary>
+
+**A. Pleomorphic adenoma**
+
+</details>
+
+---
+
+### Q162 — Which is the following is orally *(2019)*
+
+Which is the following is orally active direct Xa inhibitor?
+
+- A. Rivaroxaban
+- B. Agrataban
+- C. Dabigatran
+- D. Bilverudin
+
+<details><summary>Answer</summary>
+
+**A. Rivaroxaban**
+
+</details>
+
+---
+
+### Q163 — Which among the following is most *(2019)*
+
+Which among the following is most probable reason for preference of Cisatracurium over atracurium?
+
+- A. Decreased histamine release
+- B. Increased histamine release
+- C. Due to elimination by Hofmann elimination
+- D. Increased CNS toxicity
+
+<details><summary>Answer</summary>
+
+**A. Decreased histamine release**
+
+</details>
+
+---
+
+### Q164 — Which of the following drug is *(2019)*
+
+Which of the following drug is used in SIADH?
+
+- A. Tolvapatan
+- B. Desmopressin
+- C. Vwb factor
+- D. Terlipressin
+
+<details><summary>Answer</summary>
+
+**A. Tolvapatan**
+
+</details>
+
+---
+
+### Q165 — Drug acting on K channels include *(2019)*
+
+Drug acting on K+ channels include which of the following?
+
+- A. Spironolacton
+- B. Amiloride.
+- C. Nicorandil
+- D. Methyldopa
+
+<details><summary>Answer</summary>
+
+**C. Nicorandil**
+
+</details>
+
+---
+
+### Q166 — DOC for smoking cessation *(2019)*
+
+DOC for smoking cessation?
+
+- A. Acamprosate
+- B. Varenicline
+- C. Thalidomide
+- D. Tryptophan
+
+<details><summary>Answer</summary>
+
+**B. Varenicline**
+
+</details>
+
+---
+
+### Q167 — DOC for Cyclosporiasis *(2019)*
+
+DOC for Cyclosporiasis?
+
+- A. Trimethoprim sulfamethoxazole combination
+- B. Paromomycin
+- C. Metronidazole
+- D. Cyclosporin
+
+<details><summary>Answer</summary>
+
+**A. Trimethoprim sulfamethoxazole combination**
+
+</details>
+
+---
+
+### Q168 — A drug with high plasma binding *(2019)*
+
+A drug with high plasma binding protein property has which of the following properties?
+
+- A. Less GFR
+- B. Less drug interaction
+- C. Higher volume of distribution
+- D. Less tubular secretion
+
+<details><summary>Answer</summary>
+
+**A. Less GFR**
+
+</details>
+
+---
+
+### Q169 — True about colchicines isare *(2019)*
+
+True about colchicines is/are?
+
+- A. Acts by neutrophil recruitment
+- B. Causes metaphase arrest
+- C. Useful in urate-lowering therapy
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q170 — Drug to differentiate Myasthenia gravis from *(2019)*
+
+Drug to differentiate Myasthenia gravis from cholinergic crisis?
+
+- A. Pyridostgmine
+- B. Edrophonium
+- C. Methacholine
+- D. Clonidine
+
+<details><summary>Answer</summary>
+
+**B. Edrophonium**
+
+</details>
+
+---
+
+### Q171 — Conversion of Norepinephrine to epinephrine is *(2019)*
+
+Conversion of Norepinephrine to epinephrine is mainly by?
+
+- A. S-adenosyl methionine
+- B. Arginine
+- C. Phenylalanine
+- D. Dehydrogenease
+
+<details><summary>Answer</summary>
+
+**A. S-adenosyl methionine**
+
+</details>
+
+---
+
+### Q172 — Carbapenem which has tendency to cause *(2019)*
+
+Carbapenem which has tendency to cause maximum seizures?
+
+- A. Imipenem
+- B. Ertapenem
+- C. Doripenem
+- D. Meropenem
+
+<details><summary>Answer</summary>
+
+**A. Imipenem**
+
+</details>
+
+---
+
+### Q173 — DOC for diphtheria carrier state is *(2019)*
+
+DOC for diphtheria carrier state is?
+
+- A. Penicillin
+- B. Antitoxin
+- C. Penicillin Or erythromycin
+- D. Ciprofloxacin
+
+<details><summary>Answer</summary>
+
+**C. Penicillin Or erythromycin**
+
+</details>
+
+---
+
+### Q174 — Healthy Human volunteers part of which *(2019)*
+
+Healthy Human volunteers part of which clinical trial phase?
+
+- A. Phase 1
+- B. Phase 0
+- C. Phase 3
+- D. Phase 4
+
+<details><summary>Answer</summary>
+
+**A. Phase 1**
+
+</details>
+
+---
+
+### Q175 — DOC for scorpion sting bite is *(2019)*
+
+DOC for scorpion sting bite is?
+
+- A. EDTA
+- B. Neostigmine
+- C. N-acetylcysteine
+- D. Prazosin
+
+<details><summary>Answer</summary>
+
+**D. Prazosin**
+
+</details>
+
+---
+
+### Q176 — MOA of Teduglutide in short bowel *(2019)*
+
+MOA of Teduglutide in short bowel syndrome?
+
+- A. GLP-2 inhibitor
+- B. HT1a inhibitor
+- C. GLP-1 analogs
+- D. C-peptide analogs
+
+<details><summary>Answer</summary>
+
+**A. GLP-2 inhibitor**
+
+</details>
+
+---
+
+### Q177 — DOC for chemotherapy induced vomiting is *(2019)*
+
+DOC for chemotherapy induced vomiting is?
+
+- A. Graneseteron
+- B. Prazosin
+- C. Clonidine
+- D. Dimenhydrinate
+
+<details><summary>Answer</summary>
+
+**A. Graneseteron**
+
+</details>
+
+---
+
+### Q178 — Antiretroviral therapy is to be given *(2019)*
+
+Antiretroviral therapy is to be given in HIV infected patients irrespective of presence of symptoms if CD4 count is less than?
+
+- A. 100
+- B. 150
+- C. 200
+- D. 350
+
+<details><summary>Answer</summary>
+
+**C. 200**
+
+</details>
+
+---
+
+### Q179 — Which one of following is functions *(2019)*
+
+Which one of following is functions of PGI2?
+
+- A. Inhibits platelet aggregation
+- B. Is a vasodilator
+- C. Is pyrogenic like PGE2
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q180 — Degloving skin involves removal of *(2019)*
+
+Degloving skin involves removal of?
+
+- A. skin , subcutaneous fat, fascia, muscle
+- B. skin, subcutaneous fat, fascia
+- C. skin only
+- D. skin subcutaneous fat
+
+<details><summary>Answer</summary>
+
+**D. skin subcutaneous fat**
+
+</details>
+
+---
+
+### Q181 — Bells palsy is associated with the *(2019)*
+
+Bell’s palsy is associated with the lesion in which of the nerve?
+
+- A. 11th cranial nerve
+- B. 7th cranial nerve
+- C. 9th cranial nerve
+- D. 3rd cranial nerve
+
+<details><summary>Answer</summary>
+
+**B. 7th cranial nerve**
+
+</details>
+
+---
+
+### Q182 — Foot drop is caused by injury *(2019)*
+
+Foot drop is caused by injury to which nerve involvement:
+
+- A. Femoral nerve
+- B. Tibial nerve
+- C. Common peroneal nerve
+- D. Sciatic nerve
+
+<details><summary>Answer</summary>
+
+**C. Common peroneal nerve**
+
+</details>
+
+---
+
+### Q183 — Scissor gait is seen in which *(2019)*
+
+Scissor gait is seen in which of the following condition:
+
+- A. Polio
+- B. Cerebral palsy
+- C. Hyperbilirubinemia
+- D. Hyponatremia
+
+<details><summary>Answer</summary>
+
+**B. Cerebral palsy**
+
+</details>
+
+---
+
+### Q184 — Which nerve supplies to the area *(2019)*
+
+Which nerve supplies to the area marked as ‘Area B’ in the image:
+
+- A. Ulnar nerve
+- B. Median nerve
+- C. Radial nerve
+- D. Posterior interosseous nerve
+
+<details><summary>Answer</summary>
+
+**C. Radial nerve**
+
+</details>
+
+---
+
+
+## Physiology
+
+### Q185 — Bainbridge reflux causes *(2019)*
+
+Bainbridge reflux causes?
+
+- A. Bradycardia
+- B. Increased cardiac output
+- C. Decreased venous return
+- D. Increased heart rate
+
+<details><summary>Answer</summary>
+
+**D. Increased heart rate**
+
+</details>
+
+---
+
+### Q186 — Peripheral chemoreceptors respond to hypoxia using *(2019)*
+
+Peripheral chemoreceptors respond to hypoxia using which channel?
+
+- A. Calcium channel
+- B. Sodium channel
+- C. Potassium channel
+- D. Chloride channel
+
+<details><summary>Answer</summary>
+
+**C. Potassium channel**
+
+</details>
+
+---
+
+### Q187 — In forceful expiration, which of the *(2019)*
+
+In forceful expiration, which of the following neurons gets fired?
+
+- A. VRG
+- B. DRG
+- C. Pneumotaxic centre
+- D. Chemoreceptors
+
+<details><summary>Answer</summary>
+
+**A. VRG**
+
+</details>
+
+---
+
+### Q188 — Sexual perversions(Exhibitionism) is under section *(2019)*
+
+Sexual perversions(Exhibitionism) is under section
+
+- A. Section 290
+- B. Section 294
+- C. Section 230
+- D. Section 291
+
+<details><summary>Answer</summary>
+
+**B. Section 294**
+
+</details>
+
+---
+
+### Q189 — Gastric lavage is not contraindicated after *(2019)*
+
+Gastric lavage is not contraindicated after ingestion of which acid.
+
+- A. HCL
+- B. H2SO4
+- C. Carbolic acid
+- D. Nitric acid
+
+<details><summary>Answer</summary>
+
+**C. Carbolic acid**
+
+</details>
+
+---
+
+### Q190 — Two identical twins will not have *(2019)*
+
+Two identical twins will not have same
+
+- A. Fingerprints
+- B. DNA copies
+- C. Iris color
+- D. Blood group
+
+<details><summary>Answer</summary>
+
+**A. Fingerprints**
+
+</details>
+
+---
+
+### Q191 — In Alleged history of gun shot *(2019)*
+
+In Alleged history of gun shot injury.there is burning, blackening, tattooing around the wound Dirt collar, the injury is
+
+- A. Close shot entry wound
+- B. Close shot exit wound
+- C. Distant shot entry wound
+- D. distant shot exit wound
+
+<details><summary>Answer</summary>
+
+**A. Close shot entry wound**
+
+</details>
+
+---
+
+### Q192 — Contact isolation is done for *(2019)*
+
+Contact isolation is done for
+
+- A. MRSA
+- B. Mumps
+- C. Diphtheria
+- D. Asthama
+
+<details><summary>Answer</summary>
+
+**C. Diphtheria**
+
+</details>
+
+---
+
+### Q193 — DOC for isospora *(2019)*
+
+D.O.C for isospora
+
+- A. Penicillin G
+- B. Benzathine penicillin
+- C. Co-trimoxazole
+- D. Albendazole
+
+<details><summary>Answer</summary>
+
+**C. Co-trimoxazole**
+
+</details>
+
+---
+
+### Q194 — Pneumocystis jerovici is *(2019)*
+
+Pneumocystis jerovici is:
+
+- A. Associated with CMV
+- B. Diagnosis is by sputum microscopy
+- C. Seen only in immunocompromised patients
+- D. Always associated with pneumatocele
+
+<details><summary>Answer</summary>
+
+**B. Diagnosis is by sputum microscopy**
+
+</details>
+
+---
+
+### Q195 — Disc diffusion method is also known *(2019)*
+
+Disc diffusion method is also known as
+
+- A. Kirby Bauer
+- B. VDRL
+- C. Dark field microscopy
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**A. Kirby Bauer**
+
+</details>
+
+---
+
+### Q196 — Diagnostic test for neurosyphilis *(2019)*
+
+Diagnostic test for neurosyphilis
+
+- A. VDRL
+- B. RPR
+- C. TPI
+- D. FTA-ABS
+
+<details><summary>Answer</summary>
+
+**A. VDRL**
+
+</details>
+
+---
+
+### Q197 — Flask shaped ulcers in intestine caused *(2019)*
+
+Flask shaped ulcers in intestine caused by
+
+- A. Giardia lamblia
+- B. Entamoeba histolytica
+- C. Helicobacter pylori (H. pylori)
+- D. E. vermicularis
+
+<details><summary>Answer</summary>
+
+**B. Entamoeba histolytica**
+
+</details>
+
+---
+
+### Q198 — What type of culture media is *(2019)*
+
+What type of culture media is used for Ligionella?
+
+- A. (BCYE) agar media
+- B. MacConkey agar
+- C. Baird–Parker agar
+- D. Sabouraud’s agar
+
+<details><summary>Answer</summary>
+
+**A. (BCYE) agar media**
+
+</details>
+
+---
+
+### Q199 — Microbiological test for diagnosing leptospira inf *(2019)*
+
+Microbiological test for diagnosing leptospira infection?
+
+- A. Cold agglutination
+- B. Standard agglutination
+- C. Microscopic agglutination test (MAT)
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**C. Microscopic agglutination test (MAT)**
+
+</details>
+
+---
+
+### Q200 — Last point where reproductive and child *(2019)*
+
+Last point where reproductive and child health programme are include :
+
+- A. Sub-centre
+- B. Anganwadi
+- C. District
+- D. Taluka
+
+<details><summary>Answer</summary>
+
+**C. District**
+
+</details>
+
+---
+
+### Q201 — According to IMNCI, a baby of *(2019)*
+
+According to IMNCI, a baby of 6 month age, criteria for fast breathing is more than _____/min
+
+- A. 60
+- B. 50
+- C. 40
+- D. 30
+
+<details><summary>Answer</summary>
+
+**B. 50**
+
+</details>
+
+---
+
+### Q202 — Cross product ratio is determined by *(2019)*
+
+Cross product ratio is determined by which study ?
+
+- A. Case control
+- B. Cohort
+- C. Cross sectional
+- D. RCT
+
+<details><summary>Answer</summary>
+
+**A. Case control**
+
+</details>
+
+---
+
+### Q203 — 2 year old boy of weight *(2019)*
+
+2 year old boy of weight 12 kg with vitamin A deficiency what is oral dose of vitamin A
+
+- A. 50, 000 I.U
+- B. 1 lakh I.U.
+- C. 1.5 lakh I.U
+- D. 2 lakh I.U
+
+<details><summary>Answer</summary>
+
+**D. 2 lakh I.U**
+
+</details>
+
+---
+
+### Q204 — Confounding factor is defined as *(2019)*
+
+Confounding factor is defined as
+
+- A. Factor associated with both the exposure and the disease and
+- B. Factor associated with exposure only and is distributed
+- C. Factor associated with both the exposure and the disease and
+- D. Factor associated with the disease and is distributed equally in
+
+<details><summary>Answer</summary>
+
+**A. Factor associated with both the exposure and the disease and**
+
+</details>
+
+---
+
+### Q205 — Risk of genetic diseases in consanguineous *(2019)*
+
+Risk of genetic diseases in consanguineous marriage between first cousins?
+
+- A. 1-2%
+- B. 4-8%
+- C. 8-10%
+- D. 12-14%
+
+<details><summary>Answer</summary>
+
+**B. 4-8%**
+
+</details>
+
+---
+
+### Q206 — The most common site of the *(2019)*
+
+The most common site of the branchial cyst is:
+
+- A. Posterior border of sternocleidomastoid
+- B. Anterior border of sternocleidomastoid
+- C. Digastric muscle
+- D. Omohyoid muscle
+
+<details><summary>Answer</summary>
+
+**B. Anterior border of sternocleidomastoid**
+
+</details>
+
+---
+
+### Q207 — Inspiratory stridor is found in what *(2019)*
+
+Inspiratory stridor is found in what kind of lesions:
+
+- A. Supraglottic
+- B. Subglottic
+- C. Tracheal
+- D. Bronchus
+
+<details><summary>Answer</summary>
+
+**A. Supraglottic**
+
+</details>
+
+---
+
+### Q208 — In Retinitis pigmentosa decreased level of *(2019)*
+
+In Retinitis pigmentosa decreased level of?
+
+- A. Arachidonic
+- B. Trielonic
+- C. Thromboxane
+- D. Docosa hexanoic acid
+
+<details><summary>Answer</summary>
+
+**D. Docosa hexanoic acid**
+
+</details>
+
+---
+
+### Q209 — What is against the rule correction *(2019)*
+
+What is against the rule correction in astigmatism:
+
+- A. -1.25 cyl 90
+- B. -2 spherical 180
+- C. -3 cyl 180
+- D. +2 cyl 180
+
+<details><summary>Answer</summary>
+
+**D. +2 cyl 180**
+
+</details>
+
+---
+
+### Q210 — A child has ptosis and poor *(2019)*
+
+A child has ptosis and poor levator function. What surgery will you do?
+
+- A. Levator muscle resection
+- B. Mullerectomy
+- C. Fasanella Servat surgery
+- D. Frontalis suspension surgery
+
+<details><summary>Answer</summary>
+
+**D. Frontalis suspension surgery**
+
+</details>
+
+---
+
+### Q211 — Which drug causes ocular hypotension with *(2019)*
+
+Which drug causes ocular hypotension with apnea in an infant?
+
+- A. Latanoprost
+- B. Timolol
+- C. Brimonidine
+- D. Dorzolamide
+
+<details><summary>Answer</summary>
+
+**C. Brimonidine**
+
+</details>
+
+---
+
+### Q212 — Chemotherapy agents for retinoblastoma *(2019)*
+
+Chemotherapy agents for retinoblastoma:
+
+- A. vincristine ,carboplatin and etoposide
+- B. vinblastine, etoposide and bleomycin
+- C. vinblastine , vincristine and etoposide
+- D. vinblastine , vincristine and cisplatin
+
+<details><summary>Answer</summary>
+
+**A. vincristine ,carboplatin and etoposide**
+
+</details>
+
+---
+
+### Q213 — Which is the Most common ocular *(2019)*
+
+Which is the Most common ocular finding in myasthenia gravis?
+
+- A. Ptosis
+- B. Lagophthalmos
+- C. Proptosis
+- D. Enophthalmos
+
+<details><summary>Answer</summary>
+
+**A. Ptosis**
+
+</details>
+
+---
+
+### Q214 — Which of the following statements is *(2019)*
+
+Which of the following statements is true about the bundle of kent?
+
+- A. Abnormal pathway between two atria
+- B. It is muscular or nodal pathway between the atria and ventricle
+- C. It is slower than the AV nodal pathway
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. It is muscular or nodal pathway between the atria and ventricle**
+
+</details>
+
+---
+
+### Q215 — MELD score includes *(2019)*
+
+MELD score includes
+
+- A. Serum creatinine
+- B. Transaminase
+- C. Albumin
+- D. Alkaline phosphatase
+
+<details><summary>Answer</summary>
+
+**A. Serum creatinine**
+
+</details>
+
+---
+
+### Q216 — Essential major blood culture criteria for *(2019)*
+
+Essential major blood culture criteria for infective endocarditis.
+
+- A. Single positive culture of hacek
+- B. Single positive culture of coxiella
+- C. Single positive culture of cornybacterium
+- D. Both a & b
+
+<details><summary>Answer</summary>
+
+**A. Single positive culture of hacek**
+
+</details>
+
+---
+
+### Q217 — Respiratory centres are stimulated by *(2019)*
+
+Respiratory centres are stimulated by
+
+- A. Oxygen
+- B. Lactic acid
+- C. Carbon dioxide
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**C. Carbon dioxide**
+
+</details>
+
+---
+
+### Q218 — Which murmur increases on standing *(2019)*
+
+Which murmur increases on standing?
+
+- A. HOCM
+- B. MR
+- C. MS
+- D. VSD
+
+<details><summary>Answer</summary>
+
+**A. HOCM**
+
+</details>
+
+---
+
+### Q219 — Omphalocele is caused by *(2019)*
+
+Omphalocele is caused by?
+
+- A. Duplications of intestinal loops
+- B. Abnormal rotation of the intestinal loop
+- C. Failure of gut to return to the body cavity from its physiological
+- D. Reversed rotation of the intestinal loop
+
+<details><summary>Answer</summary>
+
+**C. Failure of gut to return to the body cavity from its physiological**
+
+</details>
+
+---
+
+### Q220 — Uvula vesicae is produced by which *(2019)*
+
+Uvula vesicae is produced by which prostate lobe?
+
+- A. Anterior lobe
+- B. Post lobe
+- C. Median lobe
+- D. Lateral lobe
+
+<details><summary>Answer</summary>
+
+**C. Median lobe**
+
+</details>
+
+---
+
+### Q221 — Parathyroid autoimplantation takes place in which *(2019)*
+
+Parathyroid autoimplantation takes place in which of the muscle?
+
+- A. Biceps
+- B. Triceps
+- C. Brachioradialis
+- D. Sartorius
+
+<details><summary>Answer</summary>
+
+**C. Brachioradialis**
+
+</details>
+
+---
+
+### Q222 — Bidextrous grip is seen at what *(2019)*
+
+Bidextrous grip is seen at what age?
+
+- A. 4 months
+- B. 5 months
+- C. 6 months
+- D. 7 months
+
+<details><summary>Answer</summary>
+
+**A. 4 months**
+
+</details>
+
+---
+
+### Q223 — Which vaccine to be given every *(2019)*
+
+Which vaccine to be given every year ?
+
+- A. Hepatitis A
+- B. Hepatitis B
+- C. Influenza
+- D. Chicken pox
+
+<details><summary>Answer</summary>
+
+**C. Influenza**
+
+</details>
+
+---
+
+### Q224 — Which part of scaphoid fracture is *(2019)*
+
+Which part of scaphoid fracture is most susceptible to avascular necrosis?
+
+- A. Distal 1/3rd
+- B. Middle 1/3rd
+- C. Proximal 1/3rd
+- D. Scaphoid Tubercle
+
+<details><summary>Answer</summary>
+
+**C. Proximal 1/3rd**
+
+</details>
+
+---
+
+### Q225 — Potts puffy tumor *(2019)*
+
+Pott’s puffy tumor:
+
+- A. Subperiosteal abscess of frontal bone
+- B. Subperiosteal abscess of ethmoid bone
+- C. Mucocele of frontal bone
+- D. Mucocele of ethmoid bone
+
+<details><summary>Answer</summary>
+
+**A. Subperiosteal abscess of frontal bone**
+
+</details>
+
+---
+
+### Q226 — Which dislocation of hip *(2019)*
+
+Which dislocation of hip?
+
+- A. Flexion, Abduction, Internal rotation
+- B. Flexion, Adduction, Internal rotation
+- C. Flexion, Abduction, External rotation
+- D. Flexion, Adduction, External rotation
+
+<details><summary>Answer</summary>
+
+**B. Flexion, Adduction, Internal rotation**
+
+</details>
+
+---
+
+### Q227 — Most common joint involved in septic *(2019)*
+
+Most common joint involved in septic arthritis:
+
+- A. Knee
+- B. Hip
+- C. Shoulder
+- D. Elbow
+
+<details><summary>Answer</summary>
+
+**A. Knee**
+
+</details>
+
+---
+
+### Q228 — Painful arc syndrome pain is felt *(2019)*
+
+Painful arc syndrome pain is felt during ?
+
+- A. Mid abduction
+- B. Initial abduction
+- C. Full range of abduction
+- D. Overhead abduction
+
+<details><summary>Answer</summary>
+
+**A. Mid abduction**
+
+</details>
+
+---
+
+### Q229 — Nuchal translucency in USG can be *(2019)*
+
+Nuchal translucency in USG can be detected at_____weeks of gestation.
+
+- A. 11-13 weeks
+- B. 18-20 weeks
+- C. 8-10 weeks
+- D. 20-22 weeks
+
+<details><summary>Answer</summary>
+
+**A. 11-13 weeks**
+
+</details>
+
+---
+
+### Q230 — Presenting diameter of full flexed head *(2019)*
+
+Presenting diameter of full flexed head:
+
+- A. Suboccipito-bregmatic diameter
+- B. Suboccipito-frontal diameter
+- C. Occipito-frontal diameter
+- D. Occipito-posterior position
+
+<details><summary>Answer</summary>
+
+**A. Suboccipito-bregmatic diameter**
+
+</details>
+
+---
+
+### Q231 — What is the dose of ulipristal *(2019)*
+
+What is the dose of ulipristal acetate?
+
+- A. 300mg
+- B. 30mg
+- C. 300µg
+- D. 30µg
+
+<details><summary>Answer</summary>
+
+**B. 30mg**
+
+</details>
+
+---
+
+### Q232 — All are true about skin except *(2019)*
+
+All are true about skin except:
+
+- A. Both dermis & ectoderm are derived from ectoderm
+- B. Skin accounts for total of 15% of body weight
+- C. Most of the cells in skin are keratinocytes derived from
+- D. Dermis is made up of type1 and type 3 collagen in 3:2 ratio
+
+<details><summary>Answer</summary>
+
+**A. Both dermis & ectoderm are derived from ectoderm**
+
+</details>
+
+---
+
+### Q233 — MRP 2 associated with which of *(2019)*
+
+MRP 2 associated with which of the following?
+
+- A. Rotor syndrome
+- B. Dubin-Johnson syndrome
+- C. Crigler-Najjar syndrome
+- D. Gilbert syndrome
+
+<details><summary>Answer</summary>
+
+**B. Dubin-Johnson syndrome**
+
+</details>
+
+---
+
+### Q234 — Solitary lytic lesions seen in *(2019)*
+
+Solitary lytic lesions seen in
+
+- A. Atherosclerosis
+- B. Multiple myeloma
+- C. Mitral stenosis
+- D. Osteoblast
+
+<details><summary>Answer</summary>
+
+**B. Multiple myeloma**
+
+</details>
+
+---
+
+### Q235 — Which of the following is the *(2019)*
+
+Which of the following is the poor prognostic factor for OCD?
+
+- A. Magical thinking
+- B. Dirt contamination
+- C. Pathological doubt
+- D. Hoarding
+
+<details><summary>Answer</summary>
+
+**B. Dirt contamination**
+
+</details>
+
+---
+
+### Q236 — Which of the following is not *(2019)*
+
+Which of the following is not true regarding delusional disorder?
+
+- A. Held with absolute conviction
+- B. Usually false
+- C. Not amenable to reasoning
+- D. Occurs at early age
+
+<details><summary>Answer</summary>
+
+**D. Occurs at early age**
+
+</details>
+
+---
+
+### Q237 — Identify the condition given in the *(2019)*
+
+Identify the condition given in the image?
+
+- A. Atrial fibrillar
+- B. Atrial flutter
+- C. Ventricular tachycardia
+- D. SVT
+
+<details><summary>Answer</summary>
+
+**C. Ventricular tachycardia**
+
+</details>
+
+---
+
+### Q238 — Identify the condition in the below *(2019)*
+
+Identify the condition in the below image?
+
+- A. Lacunar infarct
+- B. Embolic infarct
+- C. Thrombotic infarct
+- D. Intracerebral hemorrhage
+
+<details><summary>Answer</summary>
+
+**A. Lacunar infarct**
+
+</details>
+
+---
+
+
+## Biochemistry
+
+### Q239 — Menkes disease is associated with which *(2019)*
+
+Menkes disease is associated with which enzyme deficiency.
+
+- A. lysyl oxidase
+- B. Methionine synthase
+- C. Glutamyl aminopeptidase
+- D. Lysyl hydroxylase
+
+<details><summary>Answer</summary>
+
+**A. lysyl oxidase**
+
+</details>
+
+---
+
+### Q240 — type of cholesterol present in gallstones *(2019)*
+
+type of cholesterol present in gallstones?
+
+- A. Amorphous cholesterol monohydrate.
+- B. Amorphous cholesterol dihydrate.
+- C. Crystalline Cholesterol dihydrate.
+- D. Crystalline cholesterol monohydrate.
+
+<details><summary>Answer</summary>
+
+**D. Crystalline cholesterol monohydrate.**
+
+</details>
+
+---
+
+### Q241 — In Krebs cycle and Urea cycle *(2019)*
+
+In Kreb’s cycle and Urea cycle the linking amino acid is
+
+- A. Fumarate
+- B. Alanine
+- C. Arginine
+- D. Aspartate
+
+<details><summary>Answer</summary>
+
+**D. Aspartate**
+
+</details>
+
+---
+
+### Q242 — Mechanism of action of Oseltamivir *(2019)*
+
+Mechanism of action of Oseltamivir?
+
+- A. Protein synthesis inhibitor
+- B. Thymidylate synthetase inhibitor
+- C. Neuraminidase inhibitor
+- D. Pyrimidine analogs.
+
+<details><summary>Answer</summary>
+
+**C. Neuraminidase inhibitor**
+
+</details>
+
+---
+
+### Q243 — Identify the condition as shown *(2019)*
+
+Identify the condition as shown:
+
+- A. Brodie abscess
+- B. Osteoid osteoma
+- C. Intracortical hemangioma
+- D. Chondromyxoid fibroma
+
+<details><summary>Answer</summary>
+
+**A. Brodie abscess**
+
+</details>
+
+---
+
+### Q244 — Identify the triangle in the image *(2019)*
+
+Identify the triangle in the image below-
+
+- A. Koch’s triangle
+- B. Gastrinoma triangle
+- C. Hesselbach’s triangle
+- D. Sherren’s triangle
+
+<details><summary>Answer</summary>
+
+**B. Gastrinoma triangle**
+
+</details>
+
+---
+
+### Q245 — Identify the instrument- *(2019)*
+
+Identify the instrument-
+
+- A. Blade no. 15
+- B. Blade no. 10
+- C. Blade no. 11
+- D. Blade 12
+
+<details><summary>Answer</summary>
+
+**C. Blade no. 11**
+
+</details>
+
+---
+
+### Q246 — Identify the type of knot in *(2019)*
+
+Identify the type of knot in the image-
+
+- A. Granny knot
+- B. Surgeon’s knot
+- C. Reef knot
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Granny knot**
+
+</details>
+
+---
+
+### Q247 — Identify the condition in the ECG *(2019)*
+
+Identify the condition in the ECG?
+
+- A. Atrial fibrillation
+- B. Arrhythmia
+- C. Atrial flutter
+- D. Cardiomyopathy
+
+<details><summary>Answer</summary>
+
+**C. Atrial flutter**
+
+</details>
+
+---
+
+### Q248 — Identify the image with the diagnosis *(2019)*
+
+Identify the image with the diagnosis?
+
+- A. VT
+- B. PSVT
+- C. AT
+- D. Ventricular fibrillation
+
+<details><summary>Answer</summary>
+
+**B. PSVT**
+
+</details>
+
+---
+
+### Q249 — Name the manoeuvre shown in the *(2019)*
+
+Name the manoeuvre shown in the image:
+
+- A. Brandt daroff
+- B. Epley
+- C. Foster
+- D. Semont
+
+<details><summary>Answer</summary>
+
+**B. Epley**
+
+</details>
+
+---
+
+### Q250 — Identify the image *(2019)*
+
+Identify the image
+
+- A. Malaria
+- B. Plague
+- C. Japanese encephalitis
+- D. Paragonimus
+
+<details><summary>Answer</summary>
+
+**C. Japanese encephalitis**
+
+</details>
+
+---
+
+### Q251 — What is the cause of death *(2019)*
+
+What is the cause of death according to the below death certificate
+
+- A. Breast Cancer
+- B. Secondaries
+- C. Cerebral Hemorrhage
+- D. All of the Above
+
+<details><summary>Answer</summary>
+
+**D. All of the Above**
+
+</details>
+
+---
+
+### Q252 — Identify the blood grouping process done *(2019)*
+
+Identify the blood grouping process done here. Slide given with: AB no clumps, Clumping in O & No clumps in control.
+
+- A. A-ve
+- B. B+ve
+- C. O+ve
+- D. Rh group
+
+<details><summary>Answer</summary>
+
+**D. Rh group**
+
+</details>
+
+---
+
+### Q253 — Identify the type of the fibre *(2019)*
+
+Identify the type of the fibre marked in the image of internal capsule:
+
+- A. Projection fibres
+- B. Short association fibres
+- C. Long association fibres
+- D. Commissural fibres
+
+<details><summary>Answer</summary>
+
+**A. Projection fibres**
+
+</details>
+
+---
+
+### Q254 — Identify the marked structure in the *(2019)*
+
+Identify the marked structure in the image:
+
+- A. Cerebrum
+- B. Brain stem
+- C. Corpus callosum
+- D. Cerebellum
+
+<details><summary>Answer</summary>
+
+**D. Cerebellum**
+
+</details>
+
+---
+
+### Q255 — Nerve injured in Freys syndrome is *(2019)*
+
+Nerve injured in Frey’s syndrome is:
+
+- A. Auriculotemporal Nerve
+- B. Great auricular nerve
+- C. Lingual Nerve
+- D. Inferior alveolar nerve
+
+<details><summary>Answer</summary>
+
+**A. Auriculotemporal Nerve**
+
+</details>
+
+---
+
+### Q256 — Identify the marked muscle A in *(2019)*
+
+Identify the marked muscle ‘A’ in the diagram:
+
+- A. Brachioradialis
+- B. Extensor carpi radialis longus
+- C. Flexor carpi radialis
+- D. Extensor carpi ulnaris
+
+<details><summary>Answer</summary>
+
+**B. Extensor carpi radialis longus**
+
+</details>
+
+---
+
+### Q257 — Which of the following nail findings *(2019)*
+
+Which of the following nail findings is seen in the condition shown below?
+
+- A. Pterygium
+- B. Pigmentation
+- C. Pitting
+- D. Ridges
+
+<details><summary>Answer</summary>
+
+**C. Pitting**
+
+</details>
+
+---
+
+
+## Pathology
+
+### Q258 — Which of the following exocrine glandular *(2019)*
+
+Which of the following exocrine glandular ducts are not obstructed in cystic fibrosis:
+
+- A. Pancreas
+- B. Lung
+- C. Sweat gland
+- D. All of above
+
+<details><summary>Answer</summary>
+
+**C. Sweat gland**
+
+</details>
+
+---
+
+### Q259 — Follicular lymphoma positivity *(2019)*
+
+Follicular lymphoma positivity?
+
+- A. Bcl-1
+- B. Bcl-6
+- C. Bcl- 2
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Bcl- 2**
+
+</details>
+
+---
+
+### Q260 — Which is not related to HIV *(2019)*
+
+Which is not related to HIV
+
+- A. Primary CNS lymphoma
+- B. Tertiary syphilis
+- C. Oesophageal candidasis
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Tertiary syphilis**
+
+</details>
+
+---
+
+### Q261 — Identify the condition as shown in *(2019)*
+
+Identify the condition as shown in the image given below:
+
+- A. Callosal dysgenesis
+- B. Dandy walker syndrome
+- C. Aicardi syndrome
+- D. Septo optic dysplasia
+
+<details><summary>Answer</summary>
+
+**A. Callosal dysgenesis**
+
+</details>
+
+---
+
+
+## Microbiology
+
+### Q262 — Imipenem, a newer antibiotic with a *(2019)*
+
+Imipenem, a newer antibiotic with a broad antibacterial spectrum, is co administered with cilastatin. Which of the following is the best reason for the same?
+
+- A. Combination of antibiotics is synergistic against Pseudomonas
+- B. Cilastatin aids gastrointestinal absorption of active moiety,
+- C. Cilastatin inhibits beta=lactamase enzyme destroying imipenem
+- D. Cilastatin inhibits an enzyme in kidney destroying imipenem
+
+<details><summary>Answer</summary>
+
+**D. Cilastatin inhibits an enzyme in kidney destroying imipenem**
+
+</details>
+
+---
+
+### Q263 — A patient is having gastrointestinal problems *(2019)*
+
+A patient is having gastrointestinal problems including abdominal pain and distension, bloody or mucus-filled diarrhea, and tenesmus,with rectal
+
+- A. Campylobacter
+- B. Clostridium difficile
+- C. Giardia lamblia
+- D. Trichuris
+
+<details><summary>Answer</summary>
+
+**D. Trichuris**
+
+</details>
+
+---
+
+### Q264 — A child is suffering from recurrent *(2019)*
+
+A child is suffering from recurrent chronic infections with encapsulated bacteria is due to deficiency of subclass .
+
+- A. IgG1
+- B. IgG2
+- C. IgG3
+- D. IgG4
+
+<details><summary>Answer</summary>
+
+**B. IgG2**
+
+</details>
+
+---
+
+### Q265 — Coxsackievirus A16 causes *(2019)*
+
+Coxsackievirus A16 causes
+
+- A. Yellow fever
+- B. Hand-foot-mouth disease
+- C. Rocky mountain spotted fever
+- D. Encephalomyocarditis
+
+<details><summary>Answer</summary>
+
+**B. Hand-foot-mouth disease**
+
+</details>
+
+---
+
+### Q266 — Rubella virus belongs to which family *(2019)*
+
+Rubella virus belongs to which family ?
+
+- A. Rheovirus
+- B. Togavirus
+- C. Picornavirus
+- D. Orthomyxo
+
+<details><summary>Answer</summary>
+
+**B. Togavirus**
+
+</details>
+
+---
+
+### Q267 — Which of the following infection resembles *(2019)*
+
+Which of the following infection resembles erythroblastosis?
+
+- A. EBV
+- B. CMV
+- C. HSV
+- D. STAPHYLOCOCCUS
+
+<details><summary>Answer</summary>
+
+**B. CMV**
+
+</details>
+
+---
+
+### Q268 — Special Stain for cryptococcus *(2019)*
+
+Special Stain for cryptococcus :
+
+- A. ZN stain
+- B. Gram stain
+- C. Mucicarmine stain
+- D. Malachite green
+
+<details><summary>Answer</summary>
+
+**C. Mucicarmine stain**
+
+</details>
+
+---
+
+### Q269 — Which is not a epidemiological indicator *(2019)*
+
+Which is not a epidemiological indicator?
+
+- A. ABER
+- B. Annual parasite index
+- C. Annual falciparum incidence
+- D. None of the Above
+
+<details><summary>Answer</summary>
+
+**A. ABER**
+
+</details>
+
+---
+
+### Q270 — Punched out ulcer in esophagus is *(2019)*
+
+Punched out ulcer in esophagus is seen in
+
+- A. herpes
+- B. cmv
+- C. Oesophagitis
+- D. candida
+
+<details><summary>Answer</summary>
+
+**C. Oesophagitis**
+
+</details>
+
+---
+
+### Q271 — A child with history of fever, *(2019)*
+
+A child with history of fever, photosensitivity, rash sparing nasolabial fold presents to OP. Identify the condition?
+
+- A. SLE
+- B. Polymorphous light eruption
+- C. Discoid lupus
+- D. Skin tuberculosis
+
+<details><summary>Answer</summary>
+
+**A. SLE**
+
+</details>
+
+---
+
+### Q272 — The causative organism for the condition *(2019)*
+
+The causative organism for the condition depicted in image is?
+
+- A. Staphylococci
+- B. Candidal infection
+- C. Streptococcus
+- D. Actinomycetes
+
+<details><summary>Answer</summary>
+
+**A. Staphylococci**
+
+</details>
+
+---
+
+### Q273 — year old boy is having symptoms *(2019)*
+
+year old boy is having symptoms such as fever and chills, cough, rapid breathing, difficulty breathing, and chest pain, culture from a sample shows
+
+- A. Streptococcus pneumoniae
+- B. Staphylococcus
+- C. Propionibacterium
+- D. Mycobacterium
+
+<details><summary>Answer</summary>
+
+**A. Streptococcus pneumoniae**
+
+</details>
+
+---
+
+### Q274 — 12 Identify the picture *(2019)*
+
+12 Identify the picture
+
+- A. Herpes zoster pic
+- B. Small pox
+- C. Chicken pox
+- D. Atopic dermatitis
+
+<details><summary>Answer</summary>
+
+**A. Herpes zoster pic**
+
+</details>
+
+---
+
+
+## Pharmacology
+
+### Q275 — Fluoroquinolones with maximum bioavailability is *(2019)*
+
+Fluoroquinolones with maximum bioavailability is?
+
+- A. Moxifloxacin.
+- B. Gatifloxacin.
+- C. Levofloxacin
+- D. Ciprofloxacin
+
+<details><summary>Answer</summary>
+
+**C. Levofloxacin**
+
+</details>
+
+---
+
+### Q276 — Mechanism of action of buspirone is *(2019)*
+
+Mechanism of action of buspirone is?
+
+- A. 5 HT1A partial agonism.
+- B. 5 HT1B antagonism.
+- C. 5 HT1B partial agonism.
+- D. 5 HT2C antagonism.
+
+<details><summary>Answer</summary>
+
+**A. 5 HT1A partial agonism.**
+
+</details>
+
+---
+
+### Q277 — Which statement best describes mechanism of *(2019)*
+
+Which statement best describes mechanism of action of azole?
+
+- A. Synthesis of ergosterol
+- B. Thymidylate synthase
+- C. Targeting Beta-1,3 – glucan
+- D. Disruption of cell wall.
+
+<details><summary>Answer</summary>
+
+**A. Synthesis of ergosterol**
+
+</details>
+
+---
+
+### Q278 — Mechanism of action of curare like *(2019)*
+
+Mechanism of action of curare like drugs?
+
+- A. Blocks ACh synthesis
+- B. Blocks ACh receptors
+- C. Persistent depolarization
+- D. Agonistic with Ach receptors
+
+<details><summary>Answer</summary>
+
+**B. Blocks ACh receptors**
+
+</details>
+
+---
+
+### Q279 — Which of the following drug is *(2019)*
+
+Which of the following drug is alpha 2 agonist?
+
+- A. Apraclonidine
+- B. Timolol
+- C. PG analogues
+- D. Verampamil
+
+<details><summary>Answer</summary>
+
+**A. Apraclonidine**
+
+</details>
+
+---
+
+### Q280 — DOC for digitalis is induced centro-chilar *(2019)*
+
+DOC for digitalis is induced centro-chilar tachycardia?
+
+- A. Lidocaine
+- B. Reducing dosage of digoxin itself, reverses the condition
+- C. Verapamil
+- D. Beta blockers
+
+<details><summary>Answer</summary>
+
+**A. Lidocaine**
+
+</details>
+
+---
+
+### Q281 — A patient of RA is taking *(2019)*
+
+A patient of RA is taking methotrexate, steroids and NSAIDs since 4 months but activity of disease progression is same. What should be the next probable step?
+
+- A. Start monotherapy with anti TNF alpha drugs
+- B. Continue methotrexate and steroids
+- C. Stop oral methotrexate and start parenteral methotrexate
+- D. Add sulfasalazine
+
+<details><summary>Answer</summary>
+
+**D. Add sulfasalazine**
+
+</details>
+
+---
+
+### Q282 — Variation in sensitivity of response to *(2019)*
+
+Variation in sensitivity of response to different doses of a drug in different individual is obtained from?
+
+- A. Dose response curve
+- B. Therapeutic index
+- C. Bioavailability
+- D. Phase 1 clinical trials
+
+<details><summary>Answer</summary>
+
+**A. Dose response curve**
+
+</details>
+
+---
+
+### Q283 — 14 yr old child with Naive *(2019)*
+
+14 yr old child with Naive Rheumatoid Arthritis patient as shown in image . What should be the correct treatment of given condition:
+
+- A. DMARD with short course of Steroids
+- B. Only NSAID’S
+- C. DMARD after initial 3 months of NSAID’S
+- D. Monotherapy with TNF drugs
+
+<details><summary>Answer</summary>
+
+**A. DMARD with short course of Steroids**
+
+</details>
+
+---
+
+
+## Forensic Medicine
+
+### Q284 — 1st affected in rigor mortis *(2019)*
+
+1st affected in rigor mortis
+
+- A. Eyelids
+- B. Myocardium
+- C. Jaw
+- D. Neck
+
+<details><summary>Answer</summary>
+
+**B. Myocardium**
+
+</details>
+
+---
+
+### Q285 — Viscera in toxicology stored in *(2019)*
+
+Viscera in toxicology stored in
+
+- A. Glycerine
+- B. Rectified spirit
+- C. Formalism
+- D. Saturated salt solution
+
+<details><summary>Answer</summary>
+
+**D. Saturated salt solution**
+
+</details>
+
+---
+
+
+## Community Medicine
+
+### Q286 — A female patient of 26 years, *(2019)*
+
+A female patient of 26 years, presents with oral ulcers, photosensitivity and skin malar rash in face sparing the nasolabial folds of both side.
+
+- A. Sturge weber syndrome
+- B. SLE
+- C. Dermatitis
+- D. Psoriasis
+
+<details><summary>Answer</summary>
+
+**B. SLE**
+
+</details>
+
+---
+
+
+## Medicine
+
+### Q287 — True about type 1 diabetes mellitus *(2019)*
+
+True about type 1 diabetes mellitus
+
+- A. Decreased protein catabolism
+- B. Decreased hepatic Glucose output
+- C. Increased lipolysis
+- D. Increase glucose uptake
+
+<details><summary>Answer</summary>
+
+**C. Increased lipolysis**
+
+</details>
+
+---
+
+### Q288 — yrs old male patient c,o cough *(2019)*
+
+yrs old male patient c/,o cough cold fever/rusty sputum / sputum neg for tb ,h/o of travel in china & eaten crab, Name the infection
+
+- A. Paragonimus westermani
+- B. Faciola hepatica
+- C. Fasciolopsis buski
+- D. Entamoeba histolytica
+
+<details><summary>Answer</summary>
+
+**A. Paragonimus westermani**
+
+</details>
+
+---
+
+### Q289 — Which of the following is an *(2019)*
+
+Which of the following is an absolute CONTRAINDI​CATION to OCP use:
+
+- A. Chronic renal disease
+- B. DVT
+- C. Diabetes mellitus
+- D. History of amenorrhea
+
+<details><summary>Answer</summary>
+
+**B. DVT**
+
+</details>
+
+---
+
+### Q290 — Identify the infection from the chest *(2019)*
+
+Identify the infection from the chest Xray of a patient with low-grade fever?
+
+- A. ILD
+- B. Bronchopneumonia
+- C. Miliary TB
+- D. Consolidation
+
+<details><summary>Answer</summary>
+
+**C. Miliary TB**
+
+</details>
+
+---
+
+### Q291 — Which of the following regarding the *(2019)*
+
+Which of the following regarding the condition depicted in the image?
+
+- A. May be an indication of skin malignancy
+- B. Hypopigmentation
+- C. May be associated with Insulin resistant diabetes mellitus
+- D. Commonly occurs in lean and thin.
+
+<details><summary>Answer</summary>
+
+**C. May be associated with Insulin resistant diabetes mellitus**
+
+</details>
+
+---
+
+### Q292 — A patient is a known case *(2019)*
+
+A patient is a known case of acute pancreatitis develops breathlessness, bilateral basal crepitation on day 4 and chest radiography as shown in the image
+
+- A. Bilateral pneumonia
+- B. ARDS
+- C. Carcinogenic PE
+- D. Collapse
+
+<details><summary>Answer</summary>
+
+**B. ARDS**
+
+</details>
+
+---
+
+
+## Paediatrics
+
+### Q293 — APGAR score 3 at 1 minute *(2019)*
+
+APGAR score 3 at 1 minute indicates:
+
+- A. Mildly depressed
+- B. Further resuscitation not needed
+- C. Severely depressed
+- D. Normal
+
+<details><summary>Answer</summary>
+
+**C. Severely depressed**
+
+</details>
+
+---
+
+
+## Orthopaedics
+
+### Q294 — What should be the most likely *(2019)*
+
+What should be the most likely diagnosis of this 65 year old lady presents with backache and following radiograph of the spine shown in image?
+
+- A. Osteoporosis
+- B. Spondylolisthesis
+- C. Spondylolysis
+- D. Discitis
+
+<details><summary>Answer</summary>
+
+**B. Spondylolisthesis**
+
+</details>
+
+---
+
+
+## ENT
+
+### Q295 — Duct of Bellini are present in *(2019)*
+
+Duct of Bellini are present in:
+
+- A. Pancreas
+- B. Liver
+- C. Kidney
+- D. Salivary gland
+
+<details><summary>Answer</summary>
+
+**C. Kidney**
+
+</details>
+
+---
+
+### Q296 — Joint involved in movement of head *(2019)*
+
+Joint involved in movement of head from left to right.
+
+- A. Atlanto axial
+- B. Atlanto occipital
+- C. C2- C3 Joint
+- D. C3- C4 Joint
+
+<details><summary>Answer</summary>
+
+**A. Atlanto axial**
+
+</details>
+
+---
+
+### Q297 — collagen present in skin is *(2019)*
+
+collagen present in skin is
+
+- A. Type II
+- B. Type I
+- C. Type III
+- D. Type IV
+
+<details><summary>Answer</summary>
+
+**B. Type I**
+
+</details>
+
+---
+
+### Q298 — In a patient with lipoprotein lipase *(2019)*
+
+In a patient with lipoprotein lipase deficiency, which of the following is increased following a fatty meal?
+
+- A. Chylomicron
+- B. LDL
+- C. HDL
+- D. Apo-A
+
+<details><summary>Answer</summary>
+
+**A. Chylomicron**
+
+</details>
+
+---
+
+### Q299 — What is the choice of treatment *(2019)*
+
+What is the choice of treatment for idiopathic thrombocytopenia purpura (ITP)?
+
+- A. Blood transfusion
+- B. Spontaneous recovery
+- C. IV infusion
+- D. Splenectomy
+
+<details><summary>Answer</summary>
+
+**D. Splenectomy**
+
+</details>
+
+---
+
+### Q300 — What is the advantage of fixed *(2019)*
+
+What is the advantage of fixed dose combination of drugs.
+
+- A. Increases efficacy of drug
+- B. Decreases adverse effects
+- C. Patient compliance improved
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q301 — Filgrastim is used in treatment of *(2019)*
+
+Filgrastim is used in treatment of:
+
+- A. Anemia
+- B. Neutropenia
+- C. Malaria
+- D. Filarial
+
+<details><summary>Answer</summary>
+
+**B. Neutropenia**
+
+</details>
+
+---
+
+### Q302 — True about treatment of early breast *(2019)*
+
+True about treatment of early breast carcinoma?
+
+- A. Aromatase inhibitors are replacing tamoxifen in premenopausal
+- B. Post mastectomy radiation therapy is given when 4 or more
+- C. Tamoxifen is not useful in post-menopausal women
+- D. In premenopausal women, multidrug chemotherapy is given in
+
+<details><summary>Answer</summary>
+
+**B. Post mastectomy radiation therapy is given when 4 or more**
+
+</details>
+
+---
+
+### Q303 — IV Mannitol is used for treatment *(2019)*
+
+IV Mannitol is used for treatment of
+
+- A. Acute congestive glaucoma
+- B. Pulmonary edema
+- C. Acute renal failure
+- D. CHF
+
+<details><summary>Answer</summary>
+
+**A. Acute congestive glaucoma**
+
+</details>
+
+---
+
+### Q304 — Punishment for perjury is under which *(2019)*
+
+Punishment for perjury is under which section IPC ?
+
+- A. Sec 193
+- B. Sec 191
+- C. Sec 197
+- D. Sec 190
+
+<details><summary>Answer</summary>
+
+**A. Sec 193**
+
+</details>
+
+---
+
+### Q305 — A child is having Battered baby *(2019)*
+
+A child is having Battered baby syndrome how will you identify
+
+- A. Stab wound
+- B. Gunshot wound
+- C. Bruise of different ages
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**C. Bruise of different ages**
+
+</details>
+
+---
+
+### Q306 — Green colour of triage is for *(2019)*
+
+Green colour of triage is for which patient ?
+
+- A. Low priority
+- B. Morbidity
+- C. Ambulatory
+- D. High priority
+
+<details><summary>Answer</summary>
+
+**C. Ambulatory**
+
+</details>
+
+---
+
+### Q307 — Concurrent list of Indian Constitution includes *(2019)*
+
+Concurrent list of Indian Constitution includes which of the following?
+
+- A. International immigration rule for quarantine
+- B. Prevention of extension of communicable disease from one unit
+- C. Mines and oilfield workers rules
+- D. Establishment and maintenance of drug standards
+
+<details><summary>Answer</summary>
+
+**B. Prevention of extension of communicable disease from one unit**
+
+</details>
+
+---
+
+### Q308 — Health center in remotest area for *(2019)*
+
+Health center in remotest area for planning and management of schemes:
+
+- A. Anganwadi
+- B. Block centre
+- C. Sub-centre
+- D. PHC
+
+<details><summary>Answer</summary>
+
+**C. Sub-centre**
+
+</details>
+
+---
+
+### Q309 — Not a personal protective equipment *(2019)*
+
+Not a personal protective equipment
+
+- A. Goggles
+- B. Badges for detecting radiation
+- C. Gloves
+- D. Lab coat
+
+<details><summary>Answer</summary>
+
+**B. Badges for detecting radiation**
+
+</details>
+
+---
+
+### Q310 — Deep venous thrombosis which is incorrect *(2019)*
+
+Deep venous thrombosis which is incorrect –
+
+- A. Clinical assessment highly reliable
+- B. Mostly bilateral
+- C. Most common clinically presents as pain and tenderness in calf
+- D. Some cases may directly present as pulmonary
+
+<details><summary>Answer</summary>
+
+**B. Mostly bilateral**
+
+</details>
+
+---
+
+### Q311 — True about Barretts esophagus are all *(2019)*
+
+True about Barrett’s esophagus are all of the following except:
+
+- A. Causes adenocarcinoma
+- B. Patient is usually asymptomatic
+- C. Histology of the lesion shows mucus secreting goblet cells
+- D. Chronic gastroesophageal reflux is a predisposing factor
+
+<details><summary>Answer</summary>
+
+**A. Causes adenocarcinoma**
+
+</details>
+
+---
+
+### Q312 — Which statement is incorrect about the *(2019)*
+
+Which statement is incorrect about the pathology shown in the image:
+
+- A. Tumor arise from epiphyseal to metaphyseal region
+- B. Tumor has distinct margin
+- C. Eccentric lesion
+- D. Chemotherapy is the treatment of choice
+
+<details><summary>Answer</summary>
+
+**D. Chemotherapy is the treatment of choice**
+
+</details>
+
+---
+
+### Q313 — True about Tenosynovitis of finger *(2019)*
+
+True about Tenosynovitis of finger ?
+
+- A. Fingers held in mild extension / Extension deformity at the
+- B. Tenosynovitis of little finger will spread to thumb rather than ring
+- C. With involvement of little finger the infection can spread to the
+- D. Treatment is conservative.
+
+<details><summary>Answer</summary>
+
+**B. Tenosynovitis of little finger will spread to thumb rather than ring**
+
+</details>
+
+---
+
+### Q314 — Female with 41 wk gestation confirmed *(2019)*
+
+Female with 41 wk gestation confirmed by radiological investigation, very sure of her LMP, no uterine contractions, no effacement and no dilatation. What
+
+- A. Intracervical foley’s
+- B. PGE1 tab
+- C. PGE2 gel
+- D. PGF2alpha
+
+<details><summary>Answer</summary>
+
+**D. PGF2alpha**
+
+</details>
+
+---
+
+### Q315 — Premature ejaculation is a part of *(2019)*
+
+Premature ejaculation is a part of which phase of sexual disorders?
+
+- A. Excitement phase
+- B. Plateau phase
+- C. Orgasm phase
+- D. Refractory phase
+
+<details><summary>Answer</summary>
+
+**C. Orgasm phase**
+
+</details>
+
+---
+
+### Q316 — Patient with recurrent abortion diagnosed to *(2019)*
+
+Patient with recurrent abortion diagnosed to have antiphospholipid syndrome. What will be the treatment?
+
+- A. Aspirin only
+- B. Aspirin + Low molecular weight Heparin
+- C. Aspirin + Low molecular weight Heparin + Prednisolone
+- D. No Treatment
+
+<details><summary>Answer</summary>
+
+**B. Aspirin + Low molecular weight Heparin**
+
+</details>
+
+---
+
+### Q317 — Not true about somnambulism among the *(2019)*
+
+Not true about somnambulism among the following is?
+
+- A. Sleep walking.
+- B. Patient consciousness is preserved.
+- C. Disorder of sleep arousal.
+- D. Low level motor skill/function is present
+
+<details><summary>Answer</summary>
+
+**D. Low level motor skill/function is present**
+
+</details>
+
+---
+
+### Q318 — Confusion assessment scale used for which *(2019)*
+
+Confusion assessment scale used for which of the following?
+
+- A. Schizophrenia
+- B. Delirium
+- C. Dementia
+- D. Depression
+
+<details><summary>Answer</summary>
+
+**B. Delirium**
+
+</details>
+
+---
+
+### Q319 — Test based on the principle of *(2019)*
+
+Test based on the principle of suspect’s reaction, if he witnesses an event then he behaves in a certain way is?
+
+- A. Narcoanalysis
+- B. Brain mapping
+- C. Truth serum testing
+- D. Polygraph
+
+<details><summary>Answer</summary>
+
+**D. Polygraph**
+
+</details>
+
+---
+
+### Q320 — A patient presented with history of *(2019)*
+
+A patient presented with history of diplopia and restricted eye movements. A clinical image and CT image is shown below. What will be the diagnosis?
+
+- A. Le- fort fracture
+- B. Fracture maxilla
+- C. Fracture zygomatic
+- D. Blow out fracture
+
+<details><summary>Answer</summary>
+
+**D. Blow out fracture**
+
+</details>
+
+---
+
+### Q321 — Patient presents with purities of inter *(2019)*
+
+Patient presents with purities of inter digits of left hand as shown in the image. Identify the condition?
+
+- A. Sarcoptes scabis
+- B. Dermatitis herpetiformis
+- C. Xerotic dermatitis
+- D. Erythema multiforme
+
+<details><summary>Answer</summary>
+
+**A. Sarcoptes scabis**
+
+</details>
+
+---
+
+### Q322 — A female patient presented with recurrent *(2019)*
+
+A female patient presented with recurrent Urinary tract infections. Imaging shows the following picture. What can be the most probable
+
+- A. Duplication of Ureter
+- B. Congenital Megaureter
+- C. Ureterocele
+- D. Urinary Stones
+
+<details><summary>Answer</summary>
+
+**C. Ureterocele**
+
+</details>
+
+---
+
+### Q323 — A patient came in emergency with *(2019)*
+
+A patient came in emergency with severe abdominal pain pulse 112/ minute and systolic BP 80 mm/Hg with the chest Xray shown below. What will be the next appropriate step to be taken for the
+
+- A. Exploratory laprotomy
+- B. Saline Wash of stomach
+- C. Intercostal tube drainage
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Exploratory laprotomy**
+
+</details>
+
+---
+
+### Q324 — True statement about given condition of *(2019)*
+
+True statement about given condition of eye except:
+
+- A. Arise from any part of conjunctiva
+- B. Can cause Astigmatism
+- C. Surgery is treatment of choice
+- D. UV exposure is risk factor
+
+<details><summary>Answer</summary>
+
+**A. Arise from any part of conjunctiva**
+
+</details>
+
+---
+
+### Q325 — CT image of left maxilla with *(2019)*
+
+CT image of left maxilla with history of allergic rhinitis?
+
+- A. Ground glass appearance
+- B. Double densities
+- C. Honey comb
+- D. Onion Peel Appearance
+
+<details><summary>Answer</summary>
+
+**B. Double densities**
+
+</details>
+
+---
+
+### Q326 — Identify the lesion of vocal cord *(2019)*
+
+Identify the lesion of vocal cord in the image given below:
+
+- A. Reinke’s edema
+- B. Laryngeal Papilloma
+- C. Malignancy
+- D. Tracheomalacia
+
+<details><summary>Answer</summary>
+
+**B. Laryngeal Papilloma**
+
+</details>
+
+---
+
+### Q327 — A patient gives Ho hoarseness in *(2019)*
+
+A patient gives H/o hoarseness in voice & presenting with clinical condition as shown in the image. Identify the lesion:
+
+- A. Membranous tonsillitis
+- B. Follicular tonsillitis
+- C. Diphtheria
+- D. Aphthous ulcer
+
+<details><summary>Answer</summary>
+
+**C. Diphtheria**
+
+</details>
+
+---
+
+### Q328 — A patient presented with the following *(2019)*
+
+A patient presented with the following picture of Tympanic Membrane. Most Probable diagnosis (marked with arrow):
+
+- A. Tubercular Otitis Media
+- B. Syphilitic Otitis Media
+- C. Pseudomonas infection
+- D. Fungal Otitis Media
+
+<details><summary>Answer</summary>
+
+**A. Tubercular Otitis Media**
+
+</details>
+
+---
+
+
+## Ophthalmology
+
+### Q329 — All are true about congenital Toxoplasmosis *(2019)*
+
+All are true about congenital Toxoplasmosis EXCEPT
+
+- A. Chorioretinitis
+- B. Conjunctivitis
+- C. Hydrocephalus
+- D. Cerebral calcification
+
+<details><summary>Answer</summary>
+
+**B. Conjunctivitis**
+
+</details>
+
+---
+
+### Q330 — true about TRIAD congenital rubella syndrome *(2019)*
+
+true about TRIAD congenital rubella syndrome
+
+- A. PDA, cataract and deafness is seen
+- B. Hepatosplenomegaly, mental retardation, deafness
+- C. Chorioretinitis, multiorgan failure, pneumonitis
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**A. PDA, cataract and deafness is seen**
+
+</details>
+
+---
+
+### Q331 — Drug used in acute congestive glaucoma *(2019)*
+
+Drug used in acute congestive glaucoma are:
+
+- A. Atropine
+- B. Pilocarpine
+- C. Acetazolamide
+- D. Both B & C
+
+<details><summary>Answer</summary>
+
+**D. Both B & C**
+
+</details>
+
+---
+
+### Q332 — Esotropiais usually associated with *(2019)*
+
+Esotropiais usually associated with:
+
+- A. Myopia
+- B. Hypermetropia
+- C. Astigmatism
+- D. Presbyopia
+
+<details><summary>Answer</summary>
+
+**B. Hypermetropia**
+
+</details>
+
+---
+
+### Q333 — Following test is used to diagnose *(2019)*
+
+Following test is used to diagnose which ocular condition as shown in image:
+
+- A. Strabismus
+- B. Heterophoria
+- C. Both A & B
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Both A & B**
+
+</details>
+
+---
+
+
+## Dermatology
+
+### Q334 — Identify the condition shown in the *(2019)*
+
+Identify the condition shown in the image below.
+
+- A. Intertrigo
+- B. Heat rash
+- C. Eczema
+- D. Impetigo
+
+<details><summary>Answer</summary>
+
+**A. Intertrigo**
+
+</details>
+
+---
+
+### Q335 — Identify the condition This is child *(2019)*
+
+Identify the condition. This is child with asthmatic mother.
+
+- A. Atopic dermatitis
+- B. SLE
+- C. Erythema
+- D. TEN
+
+<details><summary>Answer</summary>
+
+**A. Atopic dermatitis**
+
+</details>
+
+---
+
+### Q336 — Identify the condition shown in the *(2019)*
+
+Identify the condition shown in the image?
+
+- A. Sebaceous cyst
+- B. Alopecia areta
+- C. Trichotillomania
+- D. Tinea capitis
+
+<details><summary>Answer</summary>
+
+**B. Alopecia areta**
+
+</details>
+
+---
+
+### Q337 — Identify the condition in the image *(2019)*
+
+Identify the condition in the image?
+
+- A. Leukoderma
+- B. Piebaldism
+- C. Vitiligo
+- D. DLE
+
+<details><summary>Answer</summary>
+
+**A. Leukoderma**
+
+</details>
+
+---
+
+
+## Psychiatry
+
+### Q338 — Intense depression & misery without any *(2019)*
+
+Intense depression & misery without any cause is?
+
+- A. Melancholia
+- B. Major depressive disorder
+- C. Mania
+- D. Schizophrenia
+
+<details><summary>Answer</summary>
+
+**A. Melancholia**
+
+</details>
+
+---
+
+
+## Radiology
+
+### Q339 — Which of the following is water *(2019)*
+
+Which of the following is water soluble contrast?
+
+- A. Barium
+- B. Iodine
+- C. Bromium
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**B. Iodine**
+
+</details>
+
+---
+
+### Q340 — Identify the radiological procedure shown below *(2019)*
+
+Identify the radiological procedure shown below?
+
+- A. Barium meal follow through
+- B. Barium enema
+- C. Enteroclysis
+- D. Proctography
+
+<details><summary>Answer</summary>
+
+**A. Barium meal follow through**
+
+</details>
+
+---
+
+### Q341 — Which method is used to study *(2019)*
+
+Which method is used to study the following timeline?
+
+- A. Cohort Study
+- B. Cross sectional study
+- C. Randomized Control Trials
+- D. Interventional Studies
+
+<details><summary>Answer</summary>
+
+**A. Cohort Study**
+
+</details>
+
+---
+
+
+## Anaesthesia
+
+### Q342 — Anaesthetic gas with maximum respiratory irritatio *(2019)*
+
+Anaesthetic gas with maximum respiratory irritation
+
+- A. Halothane
+- B. Enflurane
+- C. Desflurane
+- D. Sevoflurane
+
+<details><summary>Answer</summary>
+
+**C. Desflurane**
+
+</details>
+
+---
+
+### Q343 — IV administration of which anesthetic drug *(2019)*
+
+IV administration of which anesthetic drug is most painful among the following?
+
+- A. Methohexital
+- B. Ketamine
+- C. Propofol
+- D. Etomidate
+
+<details><summary>Answer</summary>
+
+**C. Propofol**
+
+</details>
+
+---
+
+### Q344 — Which of the following is not *(2019)*
+
+Which of the following is not cardiodepressive?
+
+- A. Propofol
+- B. Thiopentone
+- C. Ketamine
+- D. Etomidate
+
+<details><summary>Answer</summary>
+
+**D. Etomidate**
+
+</details>
+
+---
+
+### Q345 — Which of the following is the *(2019)*
+
+Which of the following is the most common method used to know depth of anaesthesia?
+
+- A. BIS
+- B. Oesophageal contractility
+- C. Depressed responses
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**A. BIS**
+
+</details>
+
+---
