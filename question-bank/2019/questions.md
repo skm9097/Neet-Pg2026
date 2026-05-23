@@ -5869,3 +5869,1001 @@ Which of the following is the most common method used to know depth of anaesthes
 </details>
 
 ---
+
+<!-- Source: NEET-PG 2019 recall PDF (nishantbhushan.in) -->
+
+
+## Anatomy
+
+### Q346 — Type of sensation lost on same side *(2019)*
+
+Type of sensation lost on same side of Brown-Séquard syndrome:
+
+- A. Pain
+- B. Touch
+- C. Proprioception
+- D. Temperature
+
+<details><summary>Answer</summary>
+
+**C. Proprioception**
+
+</details>
+
+---
+
+### Q347 — Nerve injured in Freys syndrome is *(2019)*
+
+Nerve injured in Frey’s syndrome is:
+
+- A. Auriculotemporal Nerve
+- B. Great auricular nerve
+- C. Lingual Nerve
+- D. Inferior alveolar nerve
+
+<details><summary>Answer</summary>
+
+**A. Auriculotemporal Nerve**
+
+</details>
+
+---
+
+
+## Physiology
+
+### Q348 — Hormone predominately secreted after 14 day on *(2019)*
+
+Hormone predominately secreted after 14 day on endometrium is?
+
+- A. Progesterone
+- B. Estrogen
+- C. LH
+- D. FSH
+
+<details><summary>Answer</summary>
+
+**A. Progesterone**
+
+</details>
+
+---
+
+### Q349 — Polyuria is defined as urine output more *(2019)*
+
+Polyuria is defined as urine output more than:
+
+- A. 70 ml/kg/day
+- B. 60 ml/kg/day
+- C. 50 ml/kg/day
+- D. 40 ml/kg/day
+
+<details><summary>Answer</summary>
+
+**C. 50 ml/kg/day**
+
+</details>
+
+---
+
+### Q350 — When the values of Fev113 & FCV39 *(2019)*
+
+When the values of Fev1=1.3 & FCV=3.9. Which of the following does this signify?
+
+- A. Normal lung function
+- B. Obstructive lung disease
+- C. Restrictive lung disease
+- D. Both
+
+<details><summary>Answer</summary>
+
+**B. Obstructive lung disease**
+
+</details>
+
+---
+
+### Q351 — Day 20 of menstrual cycle falls under *(2019)*
+
+Day 20 of menstrual cycle falls under which phase?
+
+- A. Menstrual phase
+- B. Follicular phase
+- C. Ovulation phase
+- D. Luteal phase
+
+<details><summary>Answer</summary>
+
+**D. Luteal phase**
+
+</details>
+
+---
+
+
+## Biochemistry
+
+### Q352 — C-peptide seen in *(2019)*
+
+C-peptide seen in?
+
+- A. In Pre-proinsulin
+- B. In Proinsulin
+- C. As a combined entity with insulin after secretion
+- D. A gastrointestinal proactive molecul
+
+<details><summary>Answer</summary>
+
+**B. In Proinsulin**
+
+</details>
+
+---
+
+### Q353 — Urea, creatinine, nitric oxide formed by which *(2019)*
+
+Urea, creatinine, nitric oxide formed by which amino acid
+
+- A. Histidine
+- B. Glycine
+- C. Cysteine
+- D. Arginine
+
+<details><summary>Answer</summary>
+
+**D. Arginine**
+
+</details>
+
+---
+
+### Q354 — A 25 year old alcoholic presented with *(2019)*
+
+A 25 year old alcoholic presented with edema,hypertension, ocular disturbance,and changes in mental state was observed, diagnosis of high output cardiac failure was made with Wet Beri Beri, this is due to deficiency of?
+
+- A. Vit B3
+- B. Vit B6
+- C. Vit B9
+- D. Vit B1
+
+<details><summary>Answer</summary>
+
+**D. Vit B1**
+
+</details>
+
+---
+
+### Q355 — Glutamine is Increase in CSF, blood and *(2019)*
+
+Glutamine is Increase in CSF, blood and urine, this is due to deficiency of
+
+- A. CPS-I
+- B. Arginase
+- C. OTC
+- D. Argininosuccinate synthetase
+
+<details><summary>Answer</summary>
+
+**A. CPS-I**
+
+</details>
+
+---
+
+### Q356 — Type-I hyperlipoproteinemia is characterized by *(2019)*
+
+Type-I hyperlipoproteinemia is characterized by
+
+- A. Elevated LDL
+- B. Elevated HDL
+- C. Elevated chylomicrons
+- D. Elevated lipoprotein lipase
+
+<details><summary>Answer</summary>
+
+**C. Elevated chylomicrons**
+
+</details>
+
+---
+
+### Q357 — In Krebs cycle and Urea cycle the *(2019)*
+
+In Kreb’s cycle and Urea cycle the linking amino acid is
+
+- A. Fumarate
+- B. Alanine
+- C. Arginine
+- D. Aspartate
+
+<details><summary>Answer</summary>
+
+**D. Aspartate**
+
+</details>
+
+---
+
+### Q358 — Type of necrosis seen in blood vessels *(2019)*
+
+Type of necrosis seen in blood vessels due to immune reactionsa) Coagulation b) Liquefaction c) Fibrinoid d) None
+
+- A. Chylomicron
+- B. LDL
+- C. HDL
+- D. Apo-A
+
+<details><summary>Answer</summary>
+
+**A. Chylomicron**
+
+</details>
+
+---
+
+### Q359 — In Wilsons disease, there is less urinary *(2019)*
+
+In Wilson's disease, there is less urinary excretion of:
+
+- A. Phosphorus
+- B. Methyl-Histidine
+- C. Phosphotyrosine
+- D. Serine
+
+<details><summary>Answer</summary>
+
+**B. Methyl-Histidine**
+
+</details>
+
+---
+
+### Q360 — Krabbes disease is *(2019)*
+
+Krabbe's disease is:
+
+- A. Deficiency of Beta-galactosylceramidase
+- B. Deficiency of aryl sulphatase
+- C. Alpha galactosidase deficiency
+- D. Acid lipase deficiency
+
+<details><summary>Answer</summary>
+
+**A. Deficiency of Beta-galactosylceramidase**
+
+</details>
+
+---
+
+
+## Pathology
+
+### Q361 — Which of the following is an anti-apoptotic *(2019)*
+
+Which of the following is an anti-apoptotic gene:
+
+- A. Bax
+- B. Bcl2
+- C. Bclx
+- D. Mcl1
+
+<details><summary>Answer</summary>
+
+**B. Bcl2**
+
+</details>
+
+---
+
+### Q362 — Fish mouth appearance of valve in RHD *(2019)*
+
+Fish mouth appearance of valve in RHD is due to:
+
+- A. Rupture of valve
+- B. Calcification & fibrosis
+- C. Hypertrophy of ventricular wall
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Calcification & fibrosis**
+
+</details>
+
+---
+
+### Q363 — Infarcts involving which portion of the myocardium *(2019)*
+
+Infarcts involving which portion of the myocardium cause aneurysm as a post-MI complication:
+
+- A. Subendocardial
+- B. Anterior transmural
+- C. Lateral
+- D. Inferior
+
+<details><summary>Answer</summary>
+
+**B. Anterior transmural**
+
+</details>
+
+---
+
+
+## Microbiology
+
+### Q364 — Imipenem, a newer antibiotic with a broad *(2019)*
+
+Imipenem, a newer antibiotic with a broad antibacterial spectrum, is co administered with cilastatin. Which of the following is the best reason for the same?
+
+- A. Combination of antibiotics is synergistic against Pseudomonas
+specie
+- B. Cilastatin aids gastrointestinal absorption of active moiety,
+imipenem
+- C. Cilastatin inhibits beta=lactamase enzyme destroying imipenem
+- D. Cilastatin inhibits an enzyme in kidney destroying imipenem
+
+<details><summary>Answer</summary>
+
+**D. Cilastatin inhibits an enzyme in kidney destroying imipenem**
+
+</details>
+
+---
+
+
+## Pharmacology
+
+### Q365 — Drug acting on K channels include which *(2019)*
+
+Drug acting on K+ channels include which of the following?
+
+- A. Spironolacton
+- B. Amiloride.
+- C. Nicorandil
+- D. Methyldopa
+
+<details><summary>Answer</summary>
+
+**C. Nicorandil**
+
+</details>
+
+---
+
+### Q366 — True about colchicines is/are *(2019)*
+
+True about colchicines is/are?
+
+- A. Acts by neutrophil recruitment
+- B. Causes metaphase arrest
+- C. Useful in urate-lowering therapy
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q367 — DOC for digitalis is induced centro-chilar tachyca *(2019)*
+
+DOC for digitalis is induced centro-chilar tachycardia?
+
+- A. Lidocaine
+- B. Reducing dosage of digoxin itself, reverses the condition
+- C. Verapamil
+- D. Beta blockers
+
+<details><summary>Answer</summary>
+
+**A. Lidocaine**
+
+</details>
+
+---
+
+### Q368 — DOC for isospora *(2019)*
+
+D.O.C for isospora
+
+- A. Penicillin G
+- B. Benzathine penicillin
+- C. Co-trimoxazole
+- D. Albendazole
+
+<details><summary>Answer</summary>
+
+**C. Co-trimoxazole**
+
+</details>
+
+---
+
+
+## Forensic Medicine
+
+### Q369 — Sexual perversions(Exhibitionism) is under section *(2019)*
+
+Sexual perversions(Exhibitionism) is under section
+
+- A. Section 290
+- B. Section 294
+- C. Section 230
+- D. Section 291
+
+<details><summary>Answer</summary>
+
+**B. Section 294**
+
+</details>
+
+---
+
+### Q370 — In Alleged history of gun shot injurythere *(2019)*
+
+In Alleged history of gun shot injury.there is burning, blackening, tattooing around the wound Dirt collar, the injury is
+
+- A. Close shot entry wound
+- B. Close shot exit wound
+- C. Distant shot entry wound
+- D. distant shot exit wound
+
+<details><summary>Answer</summary>
+
+**A. Close shot entry wound**
+
+</details>
+
+---
+
+### Q371 — Test based on the principle of suspects *(2019)*
+
+Test based on the principle of suspect’s reaction, if he witnesses an event then he behaves in a certain way is?
+
+- A. Narcoanalysis
+- B. Brain mapping
+- C. Truth serum testing
+- D. Polygraph
+
+<details><summary>Answer</summary>
+
+**D. Polygraph**
+
+</details>
+
+---
+
+
+## Community Medicine
+
+### Q372 — Diagnostic power of a test to correctly *(2019)*
+
+Diagnostic power of a test to correctly diagnose a disease is:
+
+- A. Negative predictive value
+- B. Positive predictive value
+- C. Sensitivity
+- D. Specificity
+
+<details><summary>Answer</summary>
+
+**C. Sensitivity**
+
+</details>
+
+---
+
+### Q373 — All of the following are examples of *(2019)*
+
+All of the following are examples of dietary fibre EXCEPT:
+
+- A. Pectin
+- B. Lignin
+- C. Cellulose
+- D. Gums
+
+<details><summary>Answer</summary>
+
+**D. Gums**
+
+</details>
+
+---
+
+### Q374 — In a normal distribution curve, the area *(2019)*
+
+In a normal distribution curve, the area that comes under 1 standard deviation is:
+
+- A. 50%
+- B. 68%
+- C. 95%
+- D. 100%
+
+<details><summary>Answer</summary>
+
+**B. 68%**
+
+</details>
+
+---
+
+### Q375 — The significance of difference between proportions *(2019)*
+
+The significance of difference between proportions can be tested by:
+
+- A. Student 't' test
+- B. Chi square test
+- C. ANOVA
+- D. Correlation
+
+<details><summary>Answer</summary>
+
+**B. Chi square test**
+
+</details>
+
+---
+
+### Q376 — Dose of diphtheria antitoxin is *(2019)*
+
+Dose of diphtheria antitoxin is:
+
+- A. 1000 to 5000 IU
+- B. 10000 to 100000 IU
+- C. 1000 to 2000 IU
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. 10000 to 100000 IU**
+
+</details>
+
+---
+
+
+## Medicine
+
+### Q377 — In forceful expiration, which of the following *(2019)*
+
+In forceful expiration, which of the following neurons gets fired?
+
+- A. VRG
+- B. DRG
+- C. Pneumotaxic centre
+- D. Chemoreceptors
+
+<details><summary>Answer</summary>
+
+**A. VRG**
+
+</details>
+
+---
+
+### Q378 — A patient of RA is taking methotrexate, *(2019)*
+
+A patient of RA is taking methotrexate, steroids and NSAIDs since 4 months but activity of disease progression is same. What should be the next probable step?
+
+- A. Start monotherapy with anti TNF alpha drugs
+- B. Continue methotrexate and steroids
+- C. Stop oral methotrexate and start parenteral methotrexate
+- D. Add sulfasalazine
+
+<details><summary>Answer</summary>
+
+**D. Add sulfasalazine**
+
+</details>
+
+---
+
+### Q379 — A 36 yrs old male patient c/,o *(2019)*
+
+A 36 yrs old male patient c/,o cough cold fever/rusty sputum / sputum neg for tb ,h/o of travel in china & eaten crab, Name the infection
+
+- A. Paragonimus westermani
+- B. Faciola hepatica
+- C. Fasciolopsis buski
+- D. Entamoeba histolytica
+
+<details><summary>Answer</summary>
+
+**A. Paragonimus westermani**
+
+</details>
+
+---
+
+### Q380 — Which wall of heart enlargement can be *(2019)*
+
+Which wall of heart enlargement can be seen on barium swallow in mitral stenosis:
+
+- A. Left atrium
+- B. Right atrium
+- C. Left ventricle
+- D. Right ventricle
+
+<details><summary>Answer</summary>
+
+**A. Left atrium**
+
+</details>
+
+---
+
+### Q381 — True about Barretts esophagus are all of *(2019)*
+
+True about Barrett’s esophagus are all of the following except:
+
+- A. Causes adenocarcinoma
+- B. Patient is usually asymptomatic
+- C. Histology of the lesion shows mucus secreting goblet cells
+- D. Chronic gastroesophageal reflux is a predisposing factor
+
+<details><summary>Answer</summary>
+
+**A. Causes adenocarcinoma**
+
+</details>
+
+---
+
+### Q382 — Bells palsy is associated with the lesion *(2019)*
+
+Bell’s palsy is associated with the lesion in which of the nerve?
+
+- A. 11th cranial nerve
+- B. 7th cranial nerve
+- C. 9th cranial nerve
+- D. 3rd cranial nerve
+
+<details><summary>Answer</summary>
+
+**B. 7th cranial nerve**
+
+</details>
+
+---
+
+### Q383 — Which of the following statement is correct *(2019)*
+
+Which of the following statement is correct about acute fatty liver of pregnancy?
+
+- A. Occurs in 1 in 1000 pregnancy
+- B. Mostly seen in last trimester
+- C. Common if female fetus is present
+- D. May be associated with decreased uric acid
+
+<details><summary>Answer</summary>
+
+**B. Mostly seen in last trimester**
+
+</details>
+
+---
+
+
+## Surgery
+
+### Q384 — CEAP score indicates *(2019)*
+
+CEAP score indicates:
+
+- A. Atrial disorders
+- B. Venous disorder
+- C. Neurological disorder
+- D. Trauma disorder
+
+<details><summary>Answer</summary>
+
+**B. Venous disorder**
+
+</details>
+
+---
+
+### Q385 — Cushing ulcer is seen in case of *(2019)*
+
+Cushing ulcer is seen in case of:
+
+- A. Burns
+- B. Head injury
+- C. Cell necrosis
+- D. Stress
+
+<details><summary>Answer</summary>
+
+**B. Head injury**
+
+</details>
+
+---
+
+
+## Obstetrics & Gynaecology
+
+### Q386 — Overt gestational diabetes is defined as blood *(2019)*
+
+Overt gestational diabetes is defined as blood glucose more than_?
+
+- A. >200 mg/dl
+- B. >126 mg/dl
+- C. >100 mg/dl
+- D. >180 mg/dl
+
+<details><summary>Answer</summary>
+
+**B. >126 mg/dl**
+
+</details>
+
+---
+
+### Q387 — MgSO4 has NO role in prevention of *(2019)*
+
+MgSO4 has NO role in prevention of:
+
+- A. Seizures in severe pre-eclampsia
+- B. Recurrent seizures in eclampsia
+- C. RDS in premature baby
+- D. Eclampsia in mild pre-eclampsia
+
+<details><summary>Answer</summary>
+
+**C. RDS in premature baby**
+
+</details>
+
+---
+
+### Q388 — Double decidua sign is seen during *(2019)*
+
+Double decidua sign is seen during:
+
+- A. 1st trimester
+- B. 2nd early trimester
+- C. 2nd late trimester
+- D. 3rd trimester
+
+<details><summary>Answer</summary>
+
+**A. 1st trimester**
+
+</details>
+
+---
+
+### Q389 — First line of treatment of mastitis in *(2019)*
+
+First line of treatment of mastitis in a lactating mother:
+
+- A. Dicloxacillin
+- B. Cefazolin
+- C. Ceftriaxone
+- D. Ampicillin
+
+<details><summary>Answer</summary>
+
+**A. Dicloxacillin**
+
+</details>
+
+---
+
+### Q390 — Gestational trophoblastic neoplasm does NOT includ *(2019)*
+
+Gestational trophoblastic neoplasm does NOT include:
+
+- A. Choriocarcinoma
+- B. Placental site trophoblastic tumour
+- C. Invasive mole
+- D. Complete hydatidiform mole
+
+<details><summary>Answer</summary>
+
+**D. Complete hydatidiform mole**
+
+</details>
+
+---
+
+### Q391 — 45 years female with 3 months menorrhagia *(2019)*
+
+45 years female with 3 months menorrhagia. USG showing 2 cm submucosal fibroid.Treatment options.
+
+- A. Ocp for 3 months
+- B. Progesterone for 3 months
+- C. Endometrial sampling
+- D. Hysterectomy
+
+<details><summary>Answer</summary>
+
+**D. Hysterectomy**
+
+</details>
+
+---
+
+### Q392 — In low ovarian reserve,anti mullerian hormone leve *(2019)*
+
+In low ovarian reserve,anti mullerian hormone level will be:
+
+- A. <1
+- B. 1-4
+- C. >7
+- D. >10
+
+<details><summary>Answer</summary>
+
+**A. <1**
+
+</details>
+
+---
+
+### Q393 — The major contribution of the amniotic fluid *(2019)*
+
+The major contribution of the amniotic fluid after 20 weeks of gestation :
+
+- A. Ultrafiltrate and maternal plasma
+- B. Fetal urine
+- C. Fetal lung fluid
+- D. Fetal skin
+
+<details><summary>Answer</summary>
+
+**B. Fetal urine**
+
+</details>
+
+---
+
+### Q394 — PGF2 alpha maximum dose in PPH *(2019)*
+
+PGF2 alpha maximum dose in PPH:
+
+- A. 2000 µg
+- B. 200 µg
+- C. 2 mg
+- D. 20 mg
+
+<details><summary>Answer</summary>
+
+**C. 2 mg**
+
+</details>
+
+---
+
+
+## Paediatrics
+
+### Q395 — Most characteristic cardiovascular defect seen in *(2019)*
+
+Most characteristic cardiovascular defect seen in Rubella:
+
+- A. Pulmonary artery stenosis
+- B. Coarctation of aorta
+- C. Ankylosing spondylitis
+- D. VSD
+
+<details><summary>Answer</summary>
+
+**A. Pulmonary artery stenosis**
+
+</details>
+
+---
+
+### Q396 — Most common indication for liver transplant in *(2019)*
+
+Most common indication for liver transplant in children:
+
+- A. Biliary atresia
+- B. Cirrhosis
+- C. Hepatitis
+- D. Drug reactions
+
+<details><summary>Answer</summary>
+
+**A. Biliary atresia**
+
+</details>
+
+---
+
+### Q397 — Severe acute malnutrition as per WHO criteria *(2019)*
+
+Severe acute malnutrition as per WHO criteria:
+
+- A. Weight for age less than median minus 2 SD
+- B. Weight for height less than median plus 2 SD
+- C. Weight for age less than median minus 3 SD
+- D. Weight for height less than median minus 3 SD
+
+<details><summary>Answer</summary>
+
+**D. Weight for height less than median minus 3 SD**
+
+</details>
+
+---
+
+### Q398 — True about Fragile X syndrome is *(2019)*
+
+True about Fragile X syndrome is:
+
+- A. Triple nucleotide CAG sequence mutation (CGG is correct)
+- B. 10% female carriers are mentally retarded
+- C. Males have IQ 20-40
+- D. Gain of function mutation
+
+<details><summary>Answer</summary>
+
+**C. Males have IQ 20-40**
+
+</details>
+
+---
+
+### Q399 — In 34 weeks gestation the weight of *(2019)*
+
+In 34 weeks gestation the weight of baby was 3kg.The child shows following features may indicate associated condition –
+
+- A. Anemia
+- B. Diabetes
+- C. APH
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Diabetes**
+
+</details>
+
+---
+
+
+## ENT
+
+### Q400 — Dohlman procedure is for *(2019)*
+
+Dohlman procedure is for:
+
+- A. Meckel's diverticulum
+- B. Zenker's diverticulum
+- C. Dermatomyositis
+- D. Menetrier's disease
+
+<details><summary>Answer</summary>
+
+**B. Zenker's diverticulum**
+
+</details>
+
+---
+
+
+## Psychiatry
+
+### Q401 — Intense depression & misery without any cause *(2019)*
+
+Intense depression & misery without any cause is?
+
+- A. Melancholia
+- B. Major depressive disorder
+- C. Mania
+- D. Schizophrenia
+
+<details><summary>Answer</summary>
+
+**A. Melancholia**
+
+</details>
+
+---
