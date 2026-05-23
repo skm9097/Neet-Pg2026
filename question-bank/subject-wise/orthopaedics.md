@@ -660,3 +660,345 @@ Gower sign represents:
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (multi-year PYQs) -->
+
+### Q41 — Most common ligament damaged in knee *(2015)*
+
+Most common ligament damaged in knee injury is
+
+- A. ACL
+- B. PCL
+- C. MCL
+- D. LCL
+
+<details><summary>Answer</summary>
+
+**C. MCL**
+
+</details>
+
+---
+
+### Q42 — Ligamentum arteriosum is derived from *(2015)*
+
+Ligamentum arteriosum is derived from:
+
+- A. Ductus arteriosus
+- B. Ductus venosus
+- C. Ductus utriculosaccularis
+- D. Ductus reunions
+
+<details><summary>Answer</summary>
+
+**A. Ductus arteriosus**
+
+</details>
+
+---
+
+### Q43 — Gastrosplenic ligament contains *(2015)*
+
+Gastrosplenic ligament contains ?
+
+- A. Splenic vessels
+- B. Tail of pancreas
+- C. Short gastric artery
+- D. Portal vein
+
+<details><summary>Answer</summary>
+
+**C. Short gastric artery**
+
+</details>
+
+---
+
+### Q44 — Remnant of umbilical artery *(2015)*
+
+Remnant of umbilical artery
+
+- A. Ligamentum arteriosum
+- B. Ligament teres
+- C. Ligamentum venosum
+- D. Medial umbilical ligament
+
+<details><summary>Answer</summary>
+
+**D. Medial umbilical ligament**
+
+</details>
+
+---
+
+### Q45 — In Celiac artery compression syndrome which *(2015)*
+
+In Celiac artery compression syndrome which structure is the main cause of compression -
+
+- A. Median Arcuate Ligament
+- B. Rectus Sheath
+- C. Deep Inferior Epigastric artery
+- D. Lacunar Ligament
+
+<details><summary>Answer</summary>
+
+**A. Median Arcuate Ligament**
+
+</details>
+
+---
+
+### Q46 — All of the following are true *(2015)*
+
+All of the following are true about the bare area of the liver except
+
+- A. Infection can spread from the abdominal to thoracic cavity at
+- B. It is not a site of portocaval anastomosis
+- C. Formed by the reflections of coronary ligaments
+- D. It is triangular in shape
+
+<details><summary>Answer</summary>
+
+**B. It is not a site of portocaval anastomosis**
+
+</details>
+
+---
+
+### Q47 — During perfoming a total hip replacement, *(2015)*
+
+During perfoming a total hip replacement, the surgeon found destruction of the articular cartilage and rnultiple wedge shaped subchondral
+
+- A. Osteolysis
+- B. Osteomyelitis
+- C. Osteonecrosis
+- D. Osteogenesis
+
+<details><summary>Answer</summary>
+
+**C. Osteonecrosis**
+
+</details>
+
+---
+
+### Q48 — Milwaukee Brace is used in - *(2015)*
+
+Milwaukee Brace is used in -
+
+- A. Congenital Kyphosis
+- B. Scheurmanns Disease
+- C. Adolescentldiopathic Scoliosis
+- D. Spondylolisthesis
+
+<details><summary>Answer</summary>
+
+**A. Congenital Kyphosis**
+
+</details>
+
+---
+
+### Q49 — Which of the following is remnant *(2016)*
+
+Which of the following is remnant of distal umbilical artery?
+
+- A. Ligamentum Teres
+- B. Superior Vescical artery
+- C. Medial umbilical Ligament
+- D. Ligamentum arteriosum
+
+<details><summary>Answer</summary>
+
+**C. Medial umbilical Ligament**
+
+</details>
+
+---
+
+### Q50 — Which of the following is common *(2016)*
+
+Which of the following is common between the medial and lateral plantar arch?
+
+- A. Flexor Digitorum Brevis
+- B. Plantar Fascia
+- C. Spring Ligamnet
+- D. Deltoid Ligament
+
+<details><summary>Answer</summary>
+
+**B. Plantar Fascia**
+
+</details>
+
+---
+
+### Q51 — Pemetrexed is indicated for use in *(2016)*
+
+Pemetrexed is indicated for use in which of the following?
+
+- A. Mesoepithelioma
+- B. Non small cell lung carcinoma
+- C. Ewings sarcoma
+- D. Osteosarcoma
+
+<details><summary>Answer</summary>
+
+**D. Osteosarcoma**
+
+</details>
+
+---
+
+### Q52 — A patient is presenting with recurrent *(2016)*
+
+A patient is presenting with recurrent staphylococcal infection, kyphoscoliosis and typical faces. The patient is suffering from ?
+
+- A. Ig A deficiency
+- B. Hyper IgE syndrome
+- C. Common variable immunodeficiency
+- D. Burton's Agammaglobulinemia
+
+<details><summary>Answer</summary>
+
+**B. Hyper IgE syndrome**
+
+</details>
+
+---
+
+### Q53 — Ankle sprain due to forced inversion *(2016)*
+
+Ankle sprain due to forced inversion of
+
+- A. Anterior talofibular ligament
+- B. Posterior talofibular ligament
+- C. Calcaneofibular ligament
+- D. Posterior fibres of deltoid
+
+<details><summary>Answer</summary>
+
+**A. Anterior talofibular ligament**
+
+</details>
+
+---
+
+### Q54 — Which of the following is not *(2016)*
+
+Which of the following is not true about ACL injury?
+
+- A. It is a component of the 0' Donoghue triad
+- B. ACL is intrasynovial
+- C. ACL is important for proprioceptive function
+- D. Anterior drawer test is the most sensitive test
+
+<details><summary>Answer</summary>
+
+**D. Anterior drawer test is the most sensitive test**
+
+</details>
+
+---
+
+### Q55 — Which is intramendullary tumor among carcinoma *(2016)*
+
+Which is intramendullary tumor among carcinoma of bone -
+
+- A. Classical Osteosarcoma
+- B. Parosteal osteosarcoma
+- C. Periosteal osteosarcoma
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Classical Osteosarcoma**
+
+</details>
+
+---
+
+### Q56 — First radiological sign for active tubercular *(2016)*
+
+First radiological sign for active tubercular arthritis is -
+
+- A. Localized osteoporosis
+- B. Sclerosis
+- C. Joint space reduction
+- D. Osteophytes
+
+<details><summary>Answer</summary>
+
+**A. Localized osteoporosis**
+
+</details>
+
+---
+
+### Q57 — What is mechanism of action of *(2017)*
+
+What is mechanism of action of Curanium drugs as muscle relaxant?
+
+- A. Persistently depolarizing at Neuromuscular junction
+- B. Act competitively on Ach receptors blocking post-synaptically
+- C. Repetitive stimulation of Ach receptors on muscle end plate
+- D. Inhibiting the calcium channel on presynaptic membrane
+
+<details><summary>Answer</summary>
+
+**B. Act competitively on Ach receptors blocking post-synaptically**
+
+</details>
+
+---
+
+### Q58 — What is meant by Perilunate dislocations *(2018)*
+
+What is meant by Perilunate dislocations
+
+- A. Lower radius,scaphoid and lunate and capitate all in same plane
+- B. Lower radius,scaphoid and capitate in alignment,lunate alone out of plane
+- C. Lower radius,scaphoid and Lunate in alignment ,capitate alone is out of plane
+- D. Both lunate and capitate are out of plane
+
+<details><summary>Answer</summary>
+
+**B. Lower radius,scaphoid and capitate in alignment,lunate alone out of plane**
+
+</details>
+
+---
+
+### Q59 — You are posted as an intern *(2018)*
+
+You are posted as an intern in causality.Which among the following patients with fracture will be your 1st priority to call ortho PG and inform
+
+- A. Patient's finger is blackening
+- B. Patient can't extend his arm
+- C. A 10 cm abrasion
+- D. Intra articular fracture of Elbow Joint
+
+<details><summary>Answer</summary>
+
+**A. Patient's finger is blackening**
+
+</details>
+
+---
+
+### Q60 — In Rheumatoid arthritis, which type of *(2018)*
+
+In Rheumatoid arthritis, which type of cells are prominently present
+
+- A. B cells
+- B. T cells
+- C. Macrophages
+- D. Dendritic cells
+
+<details><summary>Answer</summary>
+
+**C. Macrophages**
+
+</details>
+
+---

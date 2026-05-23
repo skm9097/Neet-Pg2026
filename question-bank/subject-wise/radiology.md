@@ -605,3 +605,413 @@ Most preferred route for diagnostic cerebral angiography?
 </details>
 
 <!-- SOURCE: pgblazer.com radiology MCQs | OPTIONS_GENERATED: false -->
+
+<!-- Expanded from year-wise files (multi-year PYQs) -->
+
+### Q37 — True about imaging spectrometry is *(2015)*
+
+True about imaging spectrometry is ?
+
+- A. Allows simultaneous measurements of reflectance spectra
+- B. Is useful in diagnosing against the rule astigmatism
+- C. Spectrometry is an essential investigation before
+- D. It is based on the principle of Sturm's Conoid
+
+<details><summary>Answer</summary>
+
+**A. Allows simultaneous measurements of reflectance spectra**
+
+</details>
+
+---
+
+### Q38 — What is the Tt of pt *(2015)*
+
+What is the T/t of pt with carcinoid tumor of appendix of size more than 2 cm -
+
+- A. Right hemicolectomy
+- B. Appendicectomy
+- C. Appendicectomy + abdominal CT scan
+- D. Appendicectomy + 24 hrs urinary HIAA
+
+<details><summary>Answer</summary>
+
+**A. Right hemicolectomy**
+
+</details>
+
+---
+
+### Q39 — The investigation of choice for dysphagia *(2015)*
+
+The investigation of choice for dysphagia is
+
+- A. Endoscopy
+- B. Manometric Study
+- C. Ct Scan
+- D. Barium Swallow
+
+<details><summary>Answer</summary>
+
+**A. Endoscopy**
+
+</details>
+
+---
+
+### Q40 — Which is the investigation of choice *(2015)*
+
+Which is the investigation of choice for staging of a lower limb sarcoma ?
+
+- A. MRI
+- B. CT Scan
+- C. PET Scan
+- D. PET CT
+
+<details><summary>Answer</summary>
+
+**A. MRI**
+
+</details>
+
+---
+
+### Q41 — Investigation of choice for lung abscess *(2015)*
+
+Investigation of choice for lung abscess is
+
+- A. Chest X-ray
+- B. CECT scan
+- C. MRI
+- D. Ultrasound
+
+<details><summary>Answer</summary>
+
+**B. CECT scan**
+
+</details>
+
+---
+
+### Q42 — Investigation of choice to evaluate intracranial *(2015)*
+
+Investigation of choice to evaluate intracranial hemorrhage of less than 48 hours is -
+
+- A. CT scan
+- B. MRI
+- C. PET
+- D. SPECT
+
+<details><summary>Answer</summary>
+
+**A. CT scan**
+
+</details>
+
+---
+
+### Q43 — Investigation of choice for acute intracerebral *(2015)*
+
+Investigation of choice for acute intracerebral hemorrhage is -
+
+- A. NCCT
+- B. MRI
+- C. PET scan
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. NCCT**
+
+</details>
+
+---
+
+### Q44 — Investigation of choice for optic neuritis *(2015)*
+
+Investigation of choice for optic neuritis is ?
+
+- A. MRI Brain and orbit
+- B. Ct scan Brain and orbit
+- C. Vitreous biopsy
+- D. Electooculogram
+
+<details><summary>Answer</summary>
+
+**A. MRI Brain and orbit**
+
+</details>
+
+---
+
+### Q45 — All of the following are true *(2016)*
+
+All of the following are true about duodenum except?
+
+- A. Fourth part is the shortest part
+- B. Ampulla of Vater opens through the second part
+- C. Minor duodenal papilla is in the third part
+- D. First part appears like a duodenal cap on barium studies
+
+<details><summary>Answer</summary>
+
+**C. Minor duodenal papilla is in the third part**
+
+</details>
+
+---
+
+### Q46 — Investigation of choice for diagnosing submandibul *(2016)*
+
+Investigation of choice for diagnosing submandibular gland duct stones is
+
+- A. Ultrasound
+- B. X-ray of floor of mouth
+- C. Sialography
+- D. Sialoendoscopy
+
+<details><summary>Answer</summary>
+
+**A. Ultrasound**
+
+</details>
+
+---
+
+### Q47 — Hemodynamically important lesions of renal artery *(2016)*
+
+Hemodynamically important lesions of renal artery stenosis are predicted by renal artery velocities more than on Doppler ultrasound.
+
+- A. 100 cm/s
+- B. 125 cm/s
+- C. 150 cm/s
+- D. 200 cm/s
+
+<details><summary>Answer</summary>
+
+**D. 200 cm/s**
+
+</details>
+
+---
+
+### Q48 — Early and late suspected instrumental perforation *(2016)*
+
+Early and late suspected instrumental perforation of oesophagus should first be assessed using
+
+- A. Water soluble contrast swallow
+- B. CT Scan
+- C. Dilute barium swallon
+- D. MRI
+
+<details><summary>Answer</summary>
+
+**A. Water soluble contrast swallow**
+
+</details>
+
+---
+
+### Q49 — Simplest investigation to be performed in *(2016)*
+
+Simplest investigation to be performed in suspected cases of gastric cancer is -
+
+- A. Double contrast radiography
+- B. Plain radiography
+- C. CT Scan
+- D. Endoscopy
+
+<details><summary>Answer</summary>
+
+**C. CT Scan**
+
+</details>
+
+---
+
+### Q50 — Following are the signs suggestive of *(2016)*
+
+Following are the sign/s suggestive of obstruction of urinary tract on CT Scan
+
+- A. Hyroureter
+- B. Perinephric stranding
+- C. Thickening of the lateroconal fascia
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above**
+
+</details>
+
+---
+
+### Q51 — Which of the following is not *(2016)*
+
+Which of the following is not true about Jeffersons fracture?
+
+- A. It is a burst fracture of the ring of atlas vertebra
+- B. It is the most common type of atlas fracture
+- C. Fracture definintion is particularly clear on CT Scan image
+- D. It is associated with injury elsewhere in spine in 25% of the
+
+<details><summary>Answer</summary>
+
+**D. It is associated with injury elsewhere in spine in 25% of the**
+
+</details>
+
+---
+
+### Q52 — Barium meal follow through is helpful *(2016)*
+
+Barium meal follow through is helpful in diagnosing -
+
+- A. Colonic stricture
+- B. Ileal stricture
+- C. Rectal stricture
+- D. Esophageal stricture
+
+<details><summary>Answer</summary>
+
+**B. Ileal stricture**
+
+</details>
+
+---
+
+### Q53 — Dye used in diagnosis of esophageal *(2017)*
+
+Dye used in diagnosis of esophageal perforation:
+
+- A. Iohexol
+- B. Barium sulphate
+- C. Gadolinium
+- D. Iodine dye
+
+<details><summary>Answer</summary>
+
+**B. Barium sulphate**
+
+</details>
+
+---
+
+### Q54 — Bragg peak effect pronounced in *(2017)*
+
+Bragg peak effect pronounced in:
+
+- A. X ray
+- B. Proton
+- C. Neutron
+- D. Electron
+
+<details><summary>Answer</summary>
+
+**B. Proton**
+
+</details>
+
+---
+
+### Q55 — Salt and Pepper pot appearance of *(2017)*
+
+Salt and Pepper pot appearance of skull seen in:
+
+- A. Hyperparathyroidism
+- B. Multiple myeloma
+- C. Hyperthyroidism
+- D. Pseudo hyperparathyroidism
+
+<details><summary>Answer</summary>
+
+**A. Hyperparathyroidism**
+
+</details>
+
+---
+
+### Q56 — Spot radiograph from a double contrast *(2017)*
+
+Spot radiograph from a double contrast esophagram. Image represents:
+
+- A. Esophageal atresia
+- B. Esophageal stenosis
+- C. Feline oesophagus
+- D. Tracheoesophageal fistula
+
+<details><summary>Answer</summary>
+
+**C. Feline oesophagus**
+
+</details>
+
+---
+
+### Q57 — What is diagnosis based on given *(2017)*
+
+What is diagnosis based on given image:
+
+- A. Uterus didelphys
+- B. Bicornuate Uterus
+- C. Unicornuate Uterus
+- D. Septate uterus
+
+<details><summary>Answer</summary>
+
+**C. Unicornuate Uterus**
+
+</details>
+
+---
+
+### Q58 — X ray of skull showing which *(2017)*
+
+X ray of skull showing which lesions in brain:
+
+- A. Paget's disease
+- B. Multiple myeloma
+- C. Osteosarcoma
+- D. Osteomyelitis
+
+<details><summary>Answer</summary>
+
+**A. Paget's disease**
+
+</details>
+
+---
+
+### Q59 — CT scan of abdomen showing an *(2017)*
+
+CT scan of abdomen showing an area that branching into the liver. Identify the structure ?
+
+- A. SVC
+- B. IVC
+- C. Portal vein
+- D. Splenic vein
+
+<details><summary>Answer</summary>
+
+**C. Portal vein**
+
+</details>
+
+---
+
+### Q60 — Imaging techniques used in Uterus anomalies *(2018)*
+
+Imaging techniques used in Uterus anomalies EXCEPT
+
+- A. HSG
+- B. MRI guided HSG
+- C. CT guided HSG
+- D. USG
+
+<details><summary>Answer</summary>
+
+**C. CT guided HSG**
+
+</details>
+
+---

@@ -520,3 +520,498 @@ Hypermetrope +4D with near point at 20 cm — total accommodation required?
 </details>
 
 <!-- SOURCE: prepladder.com important questions | OPTIONS_GENERATED: false -->
+
+<!-- Expanded from year-wise files (multi-year PYQs) -->
+
+### Q32 — Which of the following enhances acute *(2015)*
+
+Which of the following enhances acute phase response ?
+
+- A. a-2 microglobulin
+- B. Transferrin
+- C. Albumin
+- D. Retinal binding protein
+
+<details><summary>Answer</summary>
+
+**A. a-2 microglobulin**
+
+</details>
+
+---
+
+### Q33 — Index myopia is seen in *(2015)*
+
+Index myopia is seen in ?
+
+- A. Nuclear cataracts
+- B. Chorioretinitis
+- C. Choroidal melanoma
+- D. Posterior uveitis
+
+<details><summary>Answer</summary>
+
+**A. Nuclear cataracts**
+
+</details>
+
+---
+
+### Q34 — Most common etiolopathogenetic cause of glaucoma *(2015)*
+
+Most common etiolopathogenetic cause of glaucoma is:
+
+- A. Raised pressure in episcleritic veins
+- B. Decreased outflow
+- C. Increased formation of aqueous humour
+- D. Increased scleral outflow
+
+<details><summary>Answer</summary>
+
+**B. Decreased outflow**
+
+</details>
+
+---
+
+### Q35 — In which of the following conditions *(2015)*
+
+In which of the following conditions Berlin's edema is
+
+- A. Open angle glaucoma
+- B. After cataract surgery
+- C. After concussional trauma
+- D. Diabetic retinopathy
+
+<details><summary>Answer</summary>
+
+**C. After concussional trauma**
+
+</details>
+
+---
+
+### Q36 — Low serum copper due to ATP *(2015)*
+
+Low serum copper due to ATP 7A gene is due to?
+
+- A. Dubin-johnson's syndrome
+- B. Wilson disease
+- C. Menke disease
+- D. Gilbert's disease
+
+<details><summary>Answer</summary>
+
+**C. Menke disease**
+
+</details>
+
+---
+
+### Q37 — Hyperpigmentation is seen with which hormone *(2015)*
+
+Hyperpigmentation is seen with which hormone?
+
+- A. FSH
+- B. LH
+- C. TSH
+- D. ACTH
+
+<details><summary>Answer</summary>
+
+**D. ACTH**
+
+</details>
+
+---
+
+### Q38 — Most common site of hypertensive intraparenchymal *(2015)*
+
+Most common site of hypertensive intraparenchymal hemorrhage in brain:
+
+- A. Pons
+- B. Thalamus
+- C. Putamen
+- D. Cerebellum
+
+<details><summary>Answer</summary>
+
+**C. Putamen**
+
+</details>
+
+---
+
+### Q39 — Most common cause of death in *(2015)*
+
+Most common cause of death in cancer is -
+
+- A. Bleeding
+- B. Infection
+- C. Respiratory failure
+- D. Renal failure
+
+<details><summary>Answer</summary>
+
+**B. Infection**
+
+</details>
+
+---
+
+### Q40 — Which of the following is derived *(2016)*
+
+Which of the following is derived from the neural tube except?
+
+- A. Retina
+- B. Brain
+- C. Dorsal root ganglia
+- D. Pineal gland
+
+<details><summary>Answer</summary>
+
+**C. Dorsal root ganglia**
+
+</details>
+
+---
+
+### Q41 — Oblate ellipsoid appearance of cornea is *(2016)*
+
+Oblate ellipsoid appearance of cornea is seen in which of the following conditions?
+
+- A. Post myopic LASIK surgery
+- B. With the rule astigmatism
+- C. Bi-oblique astigmatism
+- D. Oblique astigmatism
+
+<details><summary>Answer</summary>
+
+**A. Post myopic LASIK surgery**
+
+</details>
+
+---
+
+### Q42 — A child has got a congenital *(2016)*
+
+A child has got a congenital cataract involving the visual axis which was detected by the parents right at birth. This child should be operated:
+
+- A. Immediately
+- B. At 2 months of age
+- C. At 1 year of age when the globe becomes normal sized
+- D. After 4 years when entire ocular and orbital growth becomes
+
+<details><summary>Answer</summary>
+
+**A. Immediately**
+
+</details>
+
+---
+
+### Q43 — Which of the following is a *(2016)*
+
+Which of the following is a long term side effect of phakic 10Ls
+
+- A. Chronic glaucoma
+- B. Retinal detachment
+- C. Optic neuritis
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Chronic glaucoma**
+
+</details>
+
+---
+
+### Q44 — Features which differentiate seizures from syncope *(2016)*
+
+Features which differentiate seizures from syncope include the following except
+
+- A. No immediate precipitating factors like stress, valsalva,
+- B. Immediate transition to unconciousness
+- C. Presence of cyanosis and frothing of mouth
+- D. Presence of premonitory symptoms like diaphoresis and
+
+<details><summary>Answer</summary>
+
+**D. Presence of premonitory symptoms like diaphoresis and**
+
+</details>
+
+---
+
+### Q45 — Which of the following causes of *(2016)*
+
+Which of the following causes of hypercalcemia is not associated with high bone turnover?
+
+- A. Hyperthyroidism
+- B. Vitamin A intoxication
+- C. Vitamin D intoxication
+- D. Thiazides
+
+<details><summary>Answer</summary>
+
+**C. Vitamin D intoxication**
+
+</details>
+
+---
+
+### Q46 — True about VHL syndrome is *(2016)*
+
+True about VHL syndrome is
+
+- A. It is an autosomal recessive condition
+- B. Central nervous system is not involved
+- C. Regular screening for clear cell carcinoma of kidneys is
+- D. VHL is a growth promoter gene
+
+<details><summary>Answer</summary>
+
+**C. Regular screening for clear cell carcinoma of kidneys is**
+
+</details>
+
+---
+
+### Q47 — During state of arousal in men *(2016)*
+
+During state of arousal in men relaxation of smooth muscle in corpus cavernosum is mainly caused by
+
+- A. Acethycholine
+- B. Nitric oxide
+- C. Bicarbonate ions
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**B. Nitric oxide**
+
+</details>
+
+---
+
+### Q48 — 100 day Glaucoma seen in which *(2017)*
+
+100 day Glaucoma seen in which of the following condition:
+
+- A. Central retinal vein occlusion (CRVO)
+- B. Neovascular glaucoma
+- C. Central retinal artery occlusion (CRAO)
+- D. Steroid induced Glaucoma
+
+<details><summary>Answer</summary>
+
+**A. Central retinal vein occlusion (CRVO)**
+
+</details>
+
+---
+
+### Q49 — Yoke muscle of right lateral rectus *(2017)*
+
+Yoke muscle of right lateral rectus:
+
+- A. Lt medial rectus
+- B. Lt superior rectus
+- C. Lt lateral rectus
+- D. Lt inferior oblique
+
+<details><summary>Answer</summary>
+
+**A. Lt medial rectus**
+
+</details>
+
+---
+
+### Q50 — Which is example of the Simple *(2017)*
+
+Which is example of the Simple Myopic Astigmatism among the prescriptions given below:
+
+- A. Rx (+) sphere
+- B. Rx will be plano (-)
+- C. Rx will be (-) sphere
+- D. (-)(+) (+)(-) on both 90 and 180 degree axis
+
+<details><summary>Answer</summary>
+
+**B. Rx will be plano (-)**
+
+</details>
+
+---
+
+### Q51 — Astigmatism in emmetropic eye of elderly *(2018)*
+
+Astigmatism in emmetropic eye of elderly person contribute to
+
+- A. +1d
+- B. +2D
+- C. +3d
+- D. +4d
+
+<details><summary>Answer</summary>
+
+**C. +3d**
+
+</details>
+
+---
+
+### Q52 — Q Roth spots is seen in *(2018)*
+
+Q Roth spots is seen in
+
+- A. Uveal melanoma
+- B. Acute leukaemia
+- C. Both a & b
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Acute leukaemia**
+
+</details>
+
+---
+
+### Q53 — Severe Conjunctivitis caused by *(2018)*
+
+Severe Conjunctivitis caused by
+
+- A. Neisseria
+- B. Staphylococcus
+- C. Streptococcus
+- D. Haemophilus
+
+<details><summary>Answer</summary>
+
+**A. Neisseria**
+
+</details>
+
+---
+
+### Q54 — Blow out fracture of orbit involves *(2018)*
+
+Blow out fracture of orbit involves
+
+- A. Floor
+- B. Medial wall
+- C. Lateral wall
+- D. Roof
+
+<details><summary>Answer</summary>
+
+**A. Floor**
+
+</details>
+
+---
+
+### Q55 — Which among the following is the *(2018)*
+
+Which among the following is the Most common cause for neonatal blindness
+
+- A. Neisseria gonorrhoeae
+- B. Chlamydia trachomatis
+- C. Klebsiella
+- D. Enterobacter
+
+<details><summary>Answer</summary>
+
+**A. Neisseria gonorrhoeae**
+
+</details>
+
+---
+
+### Q56 — What is the Thinnest part of *(2018)*
+
+What is the Thinnest part of neuro-retinal rim according to ISNT rule
+
+- A. Inferior
+- B. Superficial
+- C. Temporal
+- D. Medial
+
+<details><summary>Answer</summary>
+
+**C. Temporal**
+
+</details>
+
+---
+
+### Q57 — Prescription for simple myopic astigmatism *(2019)*
+
+Prescription for simple myopic astigmatism?
+
+- A. +1.00 DS
+- B. −1.00 DC × 180°
+- C. −1.00 DS
+- D. −1.00 DS / −1.00 DC × 180°
+
+<details><summary>Answer</summary>
+
+**B. −1.00 DC × 180°**
+
+</details>
+
+---
+
+### Q58 — Not true about retinitis pigmentosa *(2019)*
+
+Not true about retinitis pigmentosa?
+
+- A. Retinal pigmentation
+- B. Pale waxy disc
+- C. Vessel narrowing
+- D. ERG normal
+
+<details><summary>Answer</summary>
+
+**D. ERG normal**
+
+</details>
+
+---
+
+### Q59 — All are true about congenital Toxoplasmosis *(2019)*
+
+All are true about congenital Toxoplasmosis EXCEPT
+
+- A. Chorioretinitis
+- B. Conjunctivitis
+- C. Hydrocephalus
+- D. Cerebral calcification
+
+<details><summary>Answer</summary>
+
+**B. Conjunctivitis**
+
+</details>
+
+---
+
+### Q60 — true about TRIAD congenital rubella syndrome *(2019)*
+
+true about TRIAD congenital rubella syndrome
+
+- A. PDA, cataract and deafness is seen
+- B. Hepatosplenomegaly, mental retardation, deafness
+- C. Chorioretinitis, multiorgan failure, pneumonitis
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**A. PDA, cataract and deafness is seen**
+
+</details>
+
+---

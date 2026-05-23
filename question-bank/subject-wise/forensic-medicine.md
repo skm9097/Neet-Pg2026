@@ -576,3 +576,515 @@ ZASKO's phenomenon is:
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (multi-year PYQs) -->
+
+### Q36 — In CO poisoning, immediate emergency treatment *(2015)*
+
+In CO poisoning, immediate emergency treatment:
+
+- A. 5% CO2 inhalation
+- B. 10% CO2 inhalation
+- C. High flow O2
+- D. Nitroglycerine
+
+<details><summary>Answer</summary>
+
+**C. High flow O2**
+
+</details>
+
+---
+
+### Q37 — Best method for methanol poisoning treatment *(2015)*
+
+Best method for methanol poisoning treatment:
+
+- A. Ethanol
+- B. Calcium gluconate
+- C. Desferroxamine
+- D. BAL
+
+<details><summary>Answer</summary>
+
+**A. Ethanol**
+
+</details>
+
+---
+
+### Q38 — Emphysema aquosum is seen in *(2015)*
+
+Emphysema aquosum is seen in:
+
+- A. Wet drowning
+- B. Dry drowning
+- C. Immersion syndrome
+- D. Secondary drowning
+
+<details><summary>Answer</summary>
+
+**A. Wet drowning**
+
+</details>
+
+---
+
+### Q39 — Max damage is done by which *(2015)*
+
+Max damage is done by which poison -
+
+- A. Irritant poison
+- B. Corrosive poison
+- C. Alcohol
+- D. Opioid
+
+<details><summary>Answer</summary>
+
+**B. Corrosive poison**
+
+</details>
+
+---
+
+### Q40 — Marsch test is done for poisoning *(2015)*
+
+Marsch test is done for poisoning with ?
+
+- A. Lead
+- B. Mercury
+- C. Arsenic
+- D. Nickel
+
+<details><summary>Answer</summary>
+
+**C. Arsenic**
+
+</details>
+
+---
+
+### Q41 — Blisters are absent in *(2015)*
+
+Blisters are absent in ?
+
+- A. Burns
+- B. Putrefaction
+- C. Arsenic Poisoning
+- D. Postmortem caloricity
+
+<details><summary>Answer</summary>
+
+**D. Postmortem caloricity**
+
+</details>
+
+---
+
+### Q42 — Ophitoxemia is *(2015)*
+
+Ophitoxemia is ?
+
+- A. Snake venom poisoning
+- B. Scorpion bite
+- C. Spider bite
+- D. Tick bite
+
+<details><summary>Answer</summary>
+
+**A. Snake venom poisoning**
+
+</details>
+
+---
+
+### Q43 — Man working in hot environment & *(2015)*
+
+Man working in hot environment & drinking lots of water without intake of salts is liable to develop -
+
+- A. Heat hyperpyrexia
+- B. Heat cramps
+- C. Heat stroke
+- D. Heat encephalopathy
+
+<details><summary>Answer</summary>
+
+**B. Heat cramps**
+
+</details>
+
+---
+
+### Q44 — Oximes are ineffective in which of *(2016)*
+
+Oximes are ineffective in which of the following poisoning :?
+
+- A. Organophosphate poisoning
+- B. Amanita phylloides poisoning
+- C. Carbamate poisoning
+- D. Dhatura poisoning
+
+<details><summary>Answer</summary>
+
+**C. Carbamate poisoning**
+
+</details>
+
+---
+
+### Q45 — Post mortem lividity is not seen *(2016)*
+
+Post mortem lividity is not seen in ?
+
+- A. Drowning in well
+- B. Drowning in a fast flowing river
+- C. Postmortem submersion
+- D. Drowning in chlorinated swimming pool
+
+<details><summary>Answer</summary>
+
+**B. Drowning in a fast flowing river**
+
+</details>
+
+---
+
+### Q46 — Pugilistic attitude is characteristically seen in *(2016)*
+
+Pugilistic attitude is characteristically seen in ?
+
+- A. Burns
+- B. Drowning
+- C. Electrocution
+- D. Hanging
+
+<details><summary>Answer</summary>
+
+**A. Burns**
+
+</details>
+
+---
+
+### Q47 — Following is most suggestive of antemortem *(2016)*
+
+Following is most suggestive of antemortem hanging: DNB 09
+
+- A. Salivary dribbling
+- B. Congestion of lungs
+- C. Ligature marks
+- D. Petechial hemorrhages
+
+<details><summary>Answer</summary>
+
+**A. Salivary dribbling**
+
+</details>
+
+---
+
+### Q48 — True about strychnine poisoning is *(2016)*
+
+True about strychnine poisoning is :
+
+- A. All muscles affected at the same time
+- B. Shoulder girdle affected first
+- C. Pelvic girdle affected first
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. All muscles affected at the same time**
+
+</details>
+
+---
+
+### Q49 — Smoky stool is seen in which *(2016)*
+
+Smoky stool is seen in which poisoning?
+
+- A. Phosphorus
+- B. Arsenic
+- C. Lead
+- D. Zinc
+
+<details><summary>Answer</summary>
+
+**A. Phosphorus**
+
+</details>
+
+---
+
+### Q50 — Which of the following is not *(2016)*
+
+Which of the following is not a indoor air pollutant?
+
+- A. Carbon monoxide
+- B. Nitrous oxide
+- C. Radon
+- D. Mercury
+
+<details><summary>Answer</summary>
+
+**D. Mercury**
+
+</details>
+
+---
+
+### Q51 — Fine tremors are found in which *(2016)*
+
+Fine tremors are found in which disorder
+
+- A. Mercury poisoning
+- B. Excess smoking
+- C. Hypoglycemia
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above**
+
+</details>
+
+---
+
+### Q52 — Estimate volume of ringer lactate in *(2017)*
+
+Estimate volume of ringer lactate in first 8 hrs for 40% burns in 50 kg male with 2° burns?
+
+- A. 8 lt
+- B. 4 lt
+- C. 2 lt
+- D. 6 lt
+
+<details><summary>Answer</summary>
+
+**B. 4 lt**
+
+</details>
+
+---
+
+### Q53 — Mnaghten rule comes under which section *(2017)*
+
+M'naghten rule comes under which section of IPC?
+
+- A. Crpc 84
+- B. C pc 48
+- C. Ipc 84
+- D. IPC 48
+
+<details><summary>Answer</summary>
+
+**C. Ipc 84**
+
+</details>
+
+---
+
+### Q54 — Bluish discoloration of gastric mucosa seen *(2017)*
+
+Bluish discoloration of gastric mucosa seen in which poisoning?
+
+- A. Mercury
+- B. Cadmium
+- C. Amytal sodium
+- D. Arsenic
+
+<details><summary>Answer</summary>
+
+**C. Amytal sodium**
+
+</details>
+
+---
+
+### Q55 — Which is the first organ to *(2017)*
+
+Which is the first organ to putrefy :
+
+- A. Brian
+- B. Heart
+- C. Prostate
+- D. Kidney
+
+<details><summary>Answer</summary>
+
+**A. Brian**
+
+</details>
+
+---
+
+### Q56 — When does basiocciput fuses with basisphenoid *(2017)*
+
+When does basiocciput fuses with basisphenoid?
+
+- A. 18 to 22
+- B. 22 to 25
+- C. 14-16
+- D. 12-14
+
+<details><summary>Answer</summary>
+
+**A. 18 to 22**
+
+</details>
+
+---
+
+### Q57 — What is the smell of mummified *(2017)*
+
+What is the smell of mummified body?
+
+- A. Odourless
+- B. Putrid
+- C. Pungent
+- D. Offensive
+
+<details><summary>Answer</summary>
+
+**A. Odourless**
+
+</details>
+
+---
+
+### Q58 — Patient presented with proximal tubule proteinuria *(2017)*
+
+Patient presented with proximal tubule proteinuria. Which metal is likely to be associated with it?
+
+- A. Cadmium
+- B. Mercury
+- C. Gold
+- D. Lead
+
+<details><summary>Answer</summary>
+
+**A. Cadmium**
+
+</details>
+
+---
+
+### Q59 — Which of the following constitutional article *(2017)*
+
+Which of the following constitutional article is not related to children:
+
+- A. 23
+- B. 21-A
+- C. 42
+- D. 24
+
+<details><summary>Answer</summary>
+
+**C. 42**
+
+</details>
+
+---
+
+### Q60 — Posthumous child is *(2018)*
+
+Posthumous child is
+
+- A. Child delivered after death of biological mother
+- B. Child delivered after death of biological father
+- C. Born after death of parents
+- D. has been abandoned by parents
+
+<details><summary>Answer</summary>
+
+**B. Child delivered after death of biological father**
+
+</details>
+
+---
+
+### Q61 — Muscle pain, nephropathy caused by which *(2018)*
+
+Muscle pain, nephropathy caused by which metal poisoning
+
+- A. Arsenic
+- B. Cadmium
+- C. Mercury
+- D. Lead
+
+<details><summary>Answer</summary>
+
+**A. Arsenic**
+
+</details>
+
+---
+
+### Q62 — Locard is famous for *(2018)*
+
+Locard is famous for
+
+- A. Theory of exchange
+- B. Fingerprint study
+- C. Formula for estimation of stature
+- D. System of personal identification using the body measurement
+
+<details><summary>Answer</summary>
+
+**A. Theory of exchange**
+
+</details>
+
+---
+
+### Q63 — Which metal results in Saturnine gout *(2018)*
+
+Which metal results in “Saturnine gout” formation
+
+- A. Cadmium
+- B. Lead
+- C. Beryllium
+- D. Mercury
+
+<details><summary>Answer</summary>
+
+**B. Lead**
+
+</details>
+
+---
+
+### Q64 — Anaplasia is *(2018)*
+
+Anaplasia is
+
+- A. Changing one type of epithelium to another
+- B. Nuclear chromatin
+- C. Lack of differentiation
+- D. Morphological changes
+
+<details><summary>Answer</summary>
+
+**C. Lack of differentiation**
+
+</details>
+
+---
+
+### Q65 — 1st affected in rigor mortis *(2019)*
+
+1st affected in rigor mortis
+
+- A. Eyelids
+- B. Myocardium
+- C. Jaw
+- D. Neck
+
+<details><summary>Answer</summary>
+
+**B. Myocardium**
+
+</details>
+
+---
