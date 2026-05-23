@@ -423,3 +423,430 @@ Phenytoin is metabolized by which CYP enzyme?
 </details>
 
 <!-- SOURCE: prepladder.com 2026 high-yield | OPTIONS_GENERATED: false -->
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q26 — The mechanism of action of uncouplers *(2015)*
+
+The mechanism of action of uncouplers of oxidative phosphorylation involves:
+
+- A. Inhibition of ATP synthase
+- B. Stimulation of ATP synthase
+- C. Disruption of proton gradient across the inner membrane
+- D. Disruption of proton gradient across outer membrane
+
+<details><summary>Answer</summary>
+
+**C. Disruption of proton gradient across the inner membrane**
+
+</details>
+
+---
+
+### Q27 — Buprenorphine partial agonist at which opioid *(2015)*
+
+Buprenorphine partial agonist at which opioid receptor?
+
+- A. Mu
+- B. Kappa
+- C. Delta
+- D. Lambda
+
+<details><summary>Answer</summary>
+
+**A. Mu**
+
+</details>
+
+---
+
+### Q28 — Sexual gratification of a women is *(2015)*
+
+Sexual gratification of a women is obtained by another woman is called ?
+
+- A. Tribadism
+- B. Bestiality
+- C. Fellatio
+- D. Cunnilingus
+
+<details><summary>Answer</summary>
+
+**A. Tribadism**
+
+</details>
+
+---
+
+### Q29 — Mickey Finn is *(2015)*
+
+Mickey Finn is ?
+
+- A. Chloroform
+- B. Methyl alcohol
+- C. Chloral hydrate
+- D. Ethylene glycol
+
+<details><summary>Answer</summary>
+
+**C. Chloral hydrate**
+
+</details>
+
+---
+
+### Q30 — Naeglers reaction is due to *(2015)*
+
+Naegler's reaction is due to:
+
+- A. Coagulase
+- B. Hyaluronidase
+- C. Lecithinase
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Lecithinase**
+
+</details>
+
+---
+
+### Q31 — Eschar is seen in all the *(2015)*
+
+Eschar is seen in all the Rickettsial diseases excent:
+
+- A. Scrub typhus
+- B. Rickettsial pox
+- C. Indian tick typhus
+- D. Endemic typhus
+
+<details><summary>Answer</summary>
+
+**D. Endemic typhus**
+
+</details>
+
+---
+
+### Q32 — Which influenzae strain, not of human *(2015)*
+
+Which influenzae strain, not of human origin and can cause pandemic:
+
+- A. Hi Ni
+- B. H2 N2
+- C. H5 Ni
+- D. H9 Ni
+
+<details><summary>Answer</summary>
+
+**C. H5 Ni**
+
+</details>
+
+---
+
+### Q33 — Haptens are immunogenic when they covalently *(2015)*
+
+Haptens are immunogenic when they covalently bind to -
+
+- A. Lipid carrier
+- B. Polysaccharide carrier
+- C. Protein carrier
+- D. Any of the above carrier
+
+<details><summary>Answer</summary>
+
+**C. Protein carrier**
+
+</details>
+
+---
+
+### Q34 — Which muscle is antagonist to orbicularis *(2016)*
+
+Which muscle is antagonist to orbicularis oculi that is not supplied by facial nerve?
+
+- A. Levator Palpebrae superioris
+- B. Orbicularis oris
+- C. Superior oblique
+- D. Inferior oblique
+
+<details><summary>Answer</summary>
+
+**A. Levator Palpebrae superioris**
+
+</details>
+
+---
+
+### Q35 — Mechanism of action of tianeptin is *(2016)*
+
+Mechanism of action of tianeptin is :?
+
+- A. Increase 5HT uptake
+- B. Decrease 5HT uptake
+- C. Increase DA uptake
+- D. Decrease DA uptake
+
+<details><summary>Answer</summary>
+
+**A. Increase 5HT uptake**
+
+</details>
+
+---
+
+### Q36 — Mechanism of action of aprepitant is *(2016)*
+
+Mechanism of action of aprepitant is ?
+
+- A. RANK ligand inhibitor
+- B. MMDA antagonist
+- C. NK 1 receptor antagonist
+- D. 5 HT3 antagonist
+
+<details><summary>Answer</summary>
+
+**C. NK 1 receptor antagonist**
+
+</details>
+
+---
+
+### Q37 — Wrong about dhatura seeds is *(2016)*
+
+Wrong about dhatura seeds is ?
+
+- A. Kidney shaped
+- B. Odourless
+- C. Yellow brown
+- D. Convex smooth surface
+
+<details><summary>Answer</summary>
+
+**D. Convex smooth surface**
+
+</details>
+
+---
+
+### Q38 — Resolving power of electron microscope *(2016)*
+
+Resolving power of electron microscope
+
+- A. 1-5 mm
+- B. 1-5 um
+- C. 1-5 nm
+- D. 1-5 A°
+
+<details><summary>Answer</summary>
+
+**D. 1-5 A°**
+
+</details>
+
+---
+
+### Q39 — Which of the following is most *(2016)*
+
+Which of the following is most active against slowly dividing tubercular bacilli ?
+
+- A. Isoniazid
+- B. Rifampicin
+- C. Streptomycin
+- D. Ethambutol
+
+<details><summary>Answer</summary>
+
+**B. Rifampicin**
+
+</details>
+
+---
+
+### Q40 — Neurotropic fungus isare - *(2016)*
+
+Neurotropic fungus is/are -
+
+- A. Cryptococcus neoformans
+- B. Histoplasmosis
+- C. Trichophyton
+- D. a and b
+
+<details><summary>Answer</summary>
+
+**D. a and b**
+
+</details>
+
+---
+
+### Q41 — True for epidemiological triad *(2016)*
+
+True for epidemiological triad
+
+- A. Time, place, person
+- B. Agent, host, environment
+- C. Disease, prevention, treatment
+- D. Agent, man, disease
+
+<details><summary>Answer</summary>
+
+**B. Agent, host, environment**
+
+</details>
+
+---
+
+### Q42 — Which antiretroviral drug also has anti *(2017)*
+
+Which antiretroviral drug also has anti hepatitis activity?
+
+- A. Abacavir
+- B. Tenofovir
+- C. Nevirapine
+- D. Emtricitabine
+
+<details><summary>Answer</summary>
+
+**D. Emtricitabine**
+
+</details>
+
+---
+
+### Q43 — What is mechanism of action of *(2017)*
+
+What is mechanism of action of colchicine in acute gout?
+
+- A. Inhibition of purine metabolism
+- B. Inhibition of uric acid conversion
+- C. Migration of leukocytes
+- D. Leukocytes, lymphocytes inhibition & microtubular inhibitor.
+
+<details><summary>Answer</summary>
+
+**D. Leukocytes, lymphocytes inhibition & microtubular inhibitor.**
+
+</details>
+
+---
+
+### Q44 — Which of the following is glucocorticoid *(2017)*
+
+Which of the following is glucocorticoid synthesis inhibitor?
+
+- A. Mifepristone
+- B. Flutamide
+- C. Finasteride
+- D. Metyrapone
+
+<details><summary>Answer</summary>
+
+**D. Metyrapone**
+
+</details>
+
+---
+
+### Q45 — Which of the following statements is *(2017)*
+
+Which of the following statements is incorrect w.r.t Prasugrel?
+
+- A. Not a prodrug
+- B. P2Y purinergic receptor blocker
+- C. Has a strong antiplatelet activity
+- D. Causes intracranial hemorrhage in TIA patients.
+
+<details><summary>Answer</summary>
+
+**A. Not a prodrug**
+
+</details>
+
+---
+
+### Q46 — Q-T elongation is seen in which *(2017)*
+
+Q-T elongation is seen in which drug?
+
+- A. Quinidine
+- B. Amiodarone
+- C. Magnesium Sulfate
+- D. Lignocaine
+
+<details><summary>Answer</summary>
+
+**A. Quinidine**
+
+</details>
+
+---
+
+### Q47 — Endothelin acts through which receptors *(2017)*
+
+Endothelin acts through which receptors?
+
+- A. cAMP
+- B. cGMP
+- C. Na+ receptors
+- D. Calcium receptos
+
+<details><summary>Answer</summary>
+
+**A. cAMP**
+
+</details>
+
+---
+
+### Q48 — Which of the following causes melanosis *(2017)*
+
+Which of the following causes melanosis coli?
+
+- A. Senna
+- B. Sorbitol
+- C. Magnesium Sulphate
+- D. Bisacodyl
+
+<details><summary>Answer</summary>
+
+**A. Senna**
+
+</details>
+
+---
+
+### Q49 — Tadalafil should not be given with *(2017)*
+
+Tadalafil should not be given with:
+
+- A. Vasodilator
+- B. Antibiotics
+- C. Vasoconstrictors
+- D. Valproate
+
+<details><summary>Answer</summary>
+
+**A. Vasodilator**
+
+</details>
+
+---
+
+### Q50 — Pirenzapine is used *(2017)*
+
+Pirenzapine is used
+
+- A. Gastric ulcer
+- B. Glaucoma
+- C. Hypertension
+- D. Congestive cardiac failure
+
+<details><summary>Answer</summary>
+
+**A. Gastric ulcer**
+
+</details>
+
+---

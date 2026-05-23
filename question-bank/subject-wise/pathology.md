@@ -292,3 +292,379 @@ All are features of Fragile X syndrome EXCEPT:
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q19 — Programmed cell death is known as- *(2015)*
+
+Programmed cell death is known as-
+
+- A. Cytolysis
+- B. Apoptosis
+- C. Necrosis
+- D. Proptosis
+
+<details><summary>Answer</summary>
+
+**B. Apoptosis**
+
+</details>
+
+---
+
+### Q20 — AML best prognosis is seen with *(2015)*
+
+AML best prognosis is seen with ?
+
+- A. Acute myelo monocytic leukemia.
+- B. Acute monocytic leukemia.
+- C. Acute promyeloblastic lukemia (M.3).
+- D. Erythro leukemia
+
+<details><summary>Answer</summary>
+
+**C. Acute promyeloblastic lukemia (M.3).**
+
+</details>
+
+---
+
+### Q21 — COXtype 3 is a product of- *(2015)*
+
+COXtype 3 is a product of-
+
+- A. COX I gene
+- B. COX2gene
+- C. COX 3 gene
+- D. None ofthe above
+
+<details><summary>Answer</summary>
+
+**A. COX I gene**
+
+</details>
+
+---
+
+### Q22 — Dopamine receptor with inhibitory action *(2015)*
+
+Dopamine receptor with inhibitory action ?
+
+- A. D5
+- B. Di
+- C. D2
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. D2**
+
+</details>
+
+---
+
+### Q23 — Benzodiazepine binding ste on GABA receptors *(2015)*
+
+Benzodiazepine binding ste on GABA receptors is on ?
+
+- A. y-subunit
+- B. a-subunit
+- C. β-subunit
+- D. δ-subunit
+
+<details><summary>Answer</summary>
+
+**B. a-subunit**
+
+</details>
+
+---
+
+### Q24 — Drugs used for H Pylori are *(2015)*
+
+Drugs used for H. Pylori are all except?
+
+- A. Bismuth
+- B. Amoxicillin
+- C. Domperidone
+- D. Clarithromycin
+
+<details><summary>Answer</summary>
+
+**C. Domperidone**
+
+</details>
+
+---
+
+### Q25 — Base of sphenoid fuses with occipit *(2015)*
+
+Base of sphenoid fuses with occipit at the age of -
+
+- A. 20 years
+- B. 30 years
+- C. 40 years
+- D. 50 years
+
+<details><summary>Answer</summary>
+
+**A. 20 years**
+
+</details>
+
+---
+
+### Q26 — Most common malignant tumor of heart *(2015)*
+
+Most common malignant tumor of heart in adults
+
+- A. Sarcoma
+- B. Rhabdomyoma
+- C. Lipoma
+- D. Paraganglioma
+
+<details><summary>Answer</summary>
+
+**A. Sarcoma**
+
+</details>
+
+---
+
+### Q27 — Non-specific pain pathway is for *(2016)*
+
+Non-specific pain pathway is for?
+
+- A. Nociceptive pain
+- B. Neuropathic pain
+- C. Idiopathic pain
+- D. Inflammatory pain
+
+<details><summary>Answer</summary>
+
+**C. Idiopathic pain**
+
+</details>
+
+---
+
+### Q28 — On polarising microscopy, refractile body in *(2016)*
+
+On polarising microscopy, refractile body in the centre of granuloma is seen in?
+
+- A. Sarcoidosis
+- B. Silicosis
+- C. Tuberculosis
+- D. Asbestosis
+
+<details><summary>Answer</summary>
+
+**B. Silicosis**
+
+</details>
+
+---
+
+### Q29 — All are associated with diabetic gangrene *(2016)*
+
+All are associated with diabetic gangrene except?
+
+- A. Wet gangrene
+- B. Dry gangrene
+- C. Gas gangrene
+- D. Fournier's gangrene
+
+<details><summary>Answer</summary>
+
+**C. Gas gangrene**
+
+</details>
+
+---
+
+### Q30 — Synergestic action is shown by the *(2016)*
+
+Synergestic action is shown by the following drug combinations except?
+
+- A. Glibenclamide and metformin
+- B. Enalapril and hydrochlorthiazide
+- C. Levodopa and carbidopa
+- D. Hydrochlorthiazide and triamterene
+
+<details><summary>Answer</summary>
+
+**D. Hydrochlorthiazide and triamterene**
+
+</details>
+
+---
+
+### Q31 — Which of the following is are *(2016)*
+
+Which of the following is/ are side effect/s of growth hormone administration?
+
+- A. Pain at injection site
+- B. Glucose intolerance
+- C. Hypothyroidism
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above**
+
+</details>
+
+---
+
+### Q32 — Drug acting on S phase of *(2016)*
+
+Drug acting on 'S' phase of cycle ?
+
+- A. Chlorambucil
+- B. Methotrexate
+- C. Vincristine
+- D. Paclitaxel
+
+<details><summary>Answer</summary>
+
+**B. Methotrexate**
+
+</details>
+
+---
+
+### Q33 — Adulteration of drug is under which *(2016)*
+
+Adulteration of drug is under which section of IPC
+
+- A. 271
+- B. 272
+- C. 273
+- D. 274
+
+<details><summary>Answer</summary>
+
+**D. 274**
+
+</details>
+
+---
+
+### Q34 — Which liver diseases isare associated with *(2016)*
+
+Which liver disease/s is/are associated with ductopenia?
+
+- A. Chronic graft rejection
+- B. Hepatic sarcoidosis
+- C. Paraneoplastic syndrome related to hodgkins lymphoma
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above**
+
+</details>
+
+---
+
+### Q35 — TRALI occurs within how many hours *(2017)*
+
+TRALI occurs within how many hours of transfusion?
+
+- A. 48 Hrs
+- B. 72 Hrs
+- C. 6 Hrs
+- D. 12 Hrs
+
+<details><summary>Answer</summary>
+
+**C. 6 Hrs**
+
+</details>
+
+---
+
+### Q36 — Which of the following is epithelial *(2017)*
+
+Which of the following is epithelial tumor of stomach?
+
+- A. Carcinoid
+- B. Lymphoma
+- C. GIST
+- D. Gastric adenocarcinoma
+
+<details><summary>Answer</summary>
+
+**D. Gastric adenocarcinoma**
+
+</details>
+
+---
+
+### Q37 — Identify an X linked disorder *(2017)*
+
+Identify an X linked disorder?
+
+- A. Color blindness
+- B. Thalassemia
+- C. Azoospermia
+- D. Retinitis Pigmentosa
+
+<details><summary>Answer</summary>
+
+**A. Color blindness**
+
+</details>
+
+---
+
+### Q38 — Which option best explains Flipping effect *(2017)*
+
+Which option best explains “Flipping effect”?
+
+- A. LDH 1 > LDH 2
+- B. LDH2 > LDH1
+- C. LDH 2 > LDH 3
+- D. LDH 3 > LDH 2
+
+<details><summary>Answer</summary>
+
+**A. LDH 1 > LDH 2**
+
+</details>
+
+---
+
+### Q39 — Which chromosome is responsible for the *(2017)*
+
+Which chromosome is responsible for the production of MIF?
+
+- A. Chromosome 16
+- B. Chromosome 22
+- C. X Chromosome
+- D. Y chromosome
+
+<details><summary>Answer</summary>
+
+**B. Chromosome 22**
+
+</details>
+
+---
+
+### Q40 — Warthin finkeldey cells are seen in *(2017)*
+
+Warthin finkeldey cells are seen in
+
+- A. Measles
+- B. Rubella
+- C. Rabies
+- D. Typhoid
+
+<details><summary>Answer</summary>
+
+**A. Measles**
+
+</details>
+
+---

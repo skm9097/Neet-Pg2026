@@ -324,3 +324,515 @@ Which Krebs cycle intermediate is diminished when excess ammonia is converted to
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q21 — Function of myenteric plexus is to *(2015)*
+
+Function of myenteric plexus is to regulate ?
+
+- A. GI secretion
+- B. Local blood flow
+- C. Motility
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Motility**
+
+</details>
+
+---
+
+### Q22 — Most important intracellular buffer *(2015)*
+
+Most important intracellular buffer ?
+
+- A. Bicarbonate
+- B. Albumin
+- C. Phosphate
+- D. Ammonia
+
+<details><summary>Answer</summary>
+
+**C. Phosphate**
+
+</details>
+
+---
+
+### Q23 — Example of allosteric inhibition *(2015)*
+
+Example of allosteric inhibition
+
+- A. Inactivation of glycogen synthase by phosphorylation
+- B. Decreased synthesis of glucokinase by glucagon
+- C. Inhibition of PFK-1 by citrate
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Inhibition of PFK-1 by citrate**
+
+</details>
+
+---
+
+### Q24 — Chylomicrons core is formed by *(2015)*
+
+Chylomicrons core is formed by ?
+
+- A. Triglyceride
+- B. Triglyceride and Cholesterol
+- C. Triglyceride, Cholesterol and Phospholipids
+- D. Free fatty acids
+
+<details><summary>Answer</summary>
+
+**B. Triglyceride and Cholesterol**
+
+</details>
+
+---
+
+### Q25 — Pyridoxine is required in - *(2015)*
+
+Pyridoxine is required in -
+
+- A. Glycolysis
+- B. TCA cycle
+- C. Glycogenesis
+- D. Glycogenolysis
+
+<details><summary>Answer</summary>
+
+**D. Glycogenolysis**
+
+</details>
+
+---
+
+### Q26 — Bile salts help in absorption of *(2015)*
+
+Bile salts help in absorption of fat by -
+
+- A. Micelles formation
+- B. Activation of transporter protein
+- C. Creation of concentration gradient
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Micelles formation**
+
+</details>
+
+---
+
+### Q27 — Caseating necrosis occurs in *(2015)*
+
+Caseating necrosis occurs in
+
+- A. Brain
+- B. liver
+- C. kidney
+- D. lung
+
+<details><summary>Answer</summary>
+
+**D. lung**
+
+</details>
+
+---
+
+### Q28 — Hypophosphatemic rickets is *(2015)*
+
+Hypophosphatemic rickets is
+
+- A. AR
+- B. AD
+- C. XR
+- D. XD
+
+<details><summary>Answer</summary>
+
+**D. XD**
+
+</details>
+
+---
+
+### Q29 — What is the precursor of proline *(2016)*
+
+What is the precursor of proline in Krebs cycle?
+
+- A. Oxaloacetate
+- B. c ketoglutarate
+- C. Succinyl CoA
+- D. Fumarates
+
+<details><summary>Answer</summary>
+
+**B. c ketoglutarate**
+
+</details>
+
+---
+
+### Q30 — Refsums disease is due to deficiency *(2016)*
+
+Refsum's disease is due to deficiency of which of the following enzyme?
+
+- A. Malonate dehydrogease
+- B. Thiophorase
+- C. Succinate thiokinase
+- D. Phytanic alpha oxidase
+
+<details><summary>Answer</summary>
+
+**D. Phytanic alpha oxidase**
+
+</details>
+
+---
+
+### Q31 — Cystine has how many molecules of *(2016)*
+
+Cystine has how many molecules of cysteine?
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**B. 2**
+
+</details>
+
+---
+
+### Q32 — Regarding FISH all are true except *(2016)*
+
+Regarding FISH all are true except ?
+
+- A. Used to detect copy number variations
+- B. Used to detect balanced translocations
+- C. Requires oligonucleotides
+- D. Requires DNA polymerase
+
+<details><summary>Answer</summary>
+
+**D. Requires DNA polymerase**
+
+</details>
+
+---
+
+### Q33 — Heme is which porphyrin *(2016)*
+
+Heme is which porphyrin ?
+
+- A. Type I
+- B. Type II
+- C. Type III
+- D. Type IV
+
+<details><summary>Answer</summary>
+
+**C. Type III**
+
+</details>
+
+---
+
+### Q34 — Active compound secreted by neutrophills against *(2016)*
+
+Active compound secreted by neutrophills against pathogen is known as?
+
+- A. Major basic protein
+- B. Myeloperoxidase
+- C. Hydrolase
+- D. Proteoglycans
+
+<details><summary>Answer</summary>
+
+**B. Myeloperoxidase**
+
+</details>
+
+---
+
+### Q35 — Group-D chromosome is *(2016)*
+
+Group-D chromosome is?
+
+- A. Chromosome 3
+- B. Chromosome 6
+- C. Chromosome 12
+- D. Chromosome 15
+
+<details><summary>Answer</summary>
+
+**D. Chromosome 15**
+
+</details>
+
+---
+
+### Q36 — Not a feature of G-6PD deficiency *(2016)*
+
+Not a feature of G-6PD deficiency?
+
+- A. Intravascular hemolysis
+- B. Oxidative stress
+- C. Membrane defect
+- D. Bite cells
+
+<details><summary>Answer</summary>
+
+**C. Membrane defect**
+
+</details>
+
+---
+
+### Q37 — Serotonin is also known as *(2017)*
+
+Serotonin is also known as?
+
+- A. 5-hydroxytryptamine (5-HT)
+- B. N-methyl phenylamine
+- C. 3-Methoxytyramine
+- D. Phenethylamine
+
+<details><summary>Answer</summary>
+
+**A. 5-hydroxytryptamine (5-HT)**
+
+</details>
+
+---
+
+### Q38 — Tyrosinosis is caused due to deficiency *(2017)*
+
+Tyrosinosis is caused due to deficiency of which enzyme?
+
+- A. Fumarylacetoacetate hydrolase
+- B. p-hydroxy phenyl pyruvate dehydrogenase
+- C. Tyrosine transaminase
+- D. Tyrosine ligase
+
+<details><summary>Answer</summary>
+
+**A. Fumarylacetoacetate hydrolase**
+
+</details>
+
+---
+
+### Q39 — LeschNyhan syndrome is caused by deficiency *(2017)*
+
+Lesch–Nyhan syndrome is caused by deficiency of which enzyme?
+
+- A. Orotate Phosphoribosyltransferase
+- B. Uracil phosphoribosyltransferase
+- C. Quinolinate Phosphoribosyltransferase
+- D. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)
+
+<details><summary>Answer</summary>
+
+**D. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)**
+
+</details>
+
+---
+
+### Q40 — Fish odour syndrome is caused by *(2017)*
+
+Fish odour syndrome is caused by deficiency of which enzyme?
+
+- A. Fumarylacetoacetate hydrolase
+- B. Methane monooxygenase
+- C. Monooxygenase 3 (FMO3)
+- D. D-amino acid oxidase
+
+<details><summary>Answer</summary>
+
+**C. Monooxygenase 3 (FMO3)**
+
+</details>
+
+---
+
+### Q41 — Galactosemia is due to deficiency of *(2017)*
+
+Galactosemia is due to deficiency of which enzymes?
+
+- A. Galactose-1-phosphate uridyltransferase
+- B. HGPRT
+- C. Galactokinase
+- D. Epimerase
+
+<details><summary>Answer</summary>
+
+**A. Galactose-1-phosphate uridyltransferase**
+
+</details>
+
+---
+
+### Q42 — About DNA polymerase I which one *(2017)*
+
+About DNA polymerase I which one is correct?
+
+- A. Not required in bacteria
+- B. Repair any damage with DNA
+- C. Involved in okazaki fragment
+- D. Participate in DNA replication
+
+<details><summary>Answer</summary>
+
+**A. Not required in bacteria**
+
+</details>
+
+---
+
+### Q43 — What does chaperones assist in *(2017)*
+
+What does chaperones assist in?
+
+- A. Protein Cleavage
+- B. Protein Folding
+- C. Protein Degradation
+- D. Protein Modification
+
+<details><summary>Answer</summary>
+
+**B. Protein Folding**
+
+</details>
+
+---
+
+### Q44 — Which of the following is most *(2017)*
+
+Which of the following is most abundant end product of fatty acid synthesis
+
+- A. Oleic acid
+- B. Palmitic acid
+- C. Arachidonic acid
+- D. Glucose
+
+<details><summary>Answer</summary>
+
+**B. Palmitic acid**
+
+</details>
+
+---
+
+### Q45 — Fishy odour occurs due to deficiency *(2017)*
+
+Fishy odour occurs due to deficiency of this vitamin from diet
+
+- A. Biotin
+- B. Thiamine
+- C. Riboflavin
+- D. Vit. A
+
+<details><summary>Answer</summary>
+
+**C. Riboflavin**
+
+</details>
+
+---
+
+### Q46 — VMA is excreted in urine in *(2017)*
+
+VMA is excreted in urine in which condition
+
+- A. Alkaptonuria
+- B. Phenylketonuria
+- C. Pheochromocytoma
+- D. Diabetic ketoacidosis
+
+<details><summary>Answer</summary>
+
+**C. Pheochromocytoma**
+
+</details>
+
+---
+
+### Q47 — All of the following are excreted *(2017)*
+
+All of the following are excreted in cystinuria except
+
+- A. Cystine
+- B. Cysteine
+- C. Arginine
+- D. Orthinithe
+
+<details><summary>Answer</summary>
+
+**A. Cystine**
+
+</details>
+
+---
+
+### Q48 — Fibrinopeptide A and fibrinopeptide B are *(2017)*
+
+Fibrinopeptide A and fibrinopeptide B are acidic due to the presence of which amino acids in its structure
+
+- A. Serine and threonine
+- B. Glutamate and aspartate
+- C. Histidine and lysine
+- D. Glutamine and valine
+
+<details><summary>Answer</summary>
+
+**B. Glutamate and aspartate**
+
+</details>
+
+---
+
+### Q49 — HIAA in urine present in *(2017)*
+
+HIAA in urine present in?
+
+- A. Alkaptonuria
+- B. Albinism
+- C. Carcinoid
+- D. Phenylketonuria
+
+<details><summary>Answer</summary>
+
+**C. Carcinoid**
+
+</details>
+
+---
+
+### Q50 — Fish odor syndrome is caused by *(2018)*
+
+Fish odor syndrome is caused by deficiency of which enzyme
+
+- A. Fumarylacetoacetate hydrolase
+- B. Methane monooxygenase
+- C. Monooxygenase 3 (FMO3)
+- D. D-amino acid oxidase
+
+<details><summary>Answer</summary>
+
+**C. Monooxygenase 3 (FMO3)**
+
+</details>
+
+---

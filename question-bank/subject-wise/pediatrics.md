@@ -228,3 +228,447 @@ Baby with colicky pain and a mass in the right iliac fossa; barium enema shows c
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q15 — Life span of neonatal RBC *(2015)*
+
+Life span of neonatal RBC ?
+
+- A. 60-90 days
+- B. 90-120 days
+- C. 120-150 days
+- D. 150-200 days
+
+<details><summary>Answer</summary>
+
+**A. 60-90 days**
+
+</details>
+
+---
+
+### Q16 — CHARGE syndrome includes all except *(2015)*
+
+CHARGE syndrome includes all except ?
+
+- A. Eye Coloboma
+- B. Congenital heart disease
+- C. Urinary tract defects
+- D. Esophageal Atresia
+
+<details><summary>Answer</summary>
+
+**D. Esophageal Atresia**
+
+</details>
+
+---
+
+### Q17 — Neonatal resuscitation - which of the *(2015)*
+
+Neonatal resuscitation - which of the following drugs is used ?
+
+- A. Dopamine
+- B. Sodium Bicarbonate
+- C. Noradrenaline
+- D. Dobutamine
+
+<details><summary>Answer</summary>
+
+**B. Sodium Bicarbonate**
+
+</details>
+
+---
+
+### Q18 — Treatment of choice for symptomatic neonatal *(2015)*
+
+Treatment of choice for symptomatic neonatal hypoglycemia is
+
+- A. Dextrose normal saline
+- B. 5% dextrose
+- C. 10% dextrose
+- D. 25% dextrose
+
+<details><summary>Answer</summary>
+
+**C. 10% dextrose**
+
+</details>
+
+---
+
+### Q19 — ALL of the following are causes *(2015)*
+
+ALL of the following are causes of neonatal bradycardia except
+
+- A. Hypoxia
+- B. Hypothermia
+- C. Head injury
+- D. BCG Vaccine
+
+<details><summary>Answer</summary>
+
+**D. BCG Vaccine**
+
+</details>
+
+---
+
+### Q20 — Kwashiorkor- Triad includes all except - *(2015)*
+
+Kwashiorkor- Triad includes all except -
+
+- A. Psychomotor changes
+- B. Hypoglycemia
+- C. Edema
+- D. Growth retardation
+
+<details><summary>Answer</summary>
+
+**B. Hypoglycemia**
+
+</details>
+
+---
+
+### Q21 — After hepatitis B vaccination child with *(2015)*
+
+After hepatitis B vaccination child with allergic family history and pruritis involving face & convexities developed numerous umblicated vesicles; which
+
+- A. Secondary infected atopic dermatitis
+- B. Molluscum contagiosum
+- C. Eczema herpaticum
+- D. Eczema vaccinatum
+
+<details><summary>Answer</summary>
+
+**C. Eczema herpaticum**
+
+</details>
+
+---
+
+### Q22 — Neonatal hypoglycaemia which does not respond *(2016)*
+
+Neonatal hypoglycaemia which does not respond to counter regulatory hormone administration is diagnostic of -
+
+- A. Her's disease
+- B. Cori's disease
+- C. Anderson's disease
+- D. Von Gierke's disease
+
+<details><summary>Answer</summary>
+
+**D. Von Gierke's disease**
+
+</details>
+
+---
+
+### Q23 — Which of the following can lead *(2016)*
+
+Which of the following can lead to regression of developmental milestones
+
+- A. Rett's syndrome
+- B. Autism
+- C. Neuromuscular diseases
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q24 — Teratology is a study of *(2016)*
+
+Teratology is a study of
+
+- A. Congenital heart defect
+- B. Congenital abnormalities
+- C. Wounds and injuries
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Congenital abnormalities**
+
+</details>
+
+---
+
+### Q25 — True about erythema toxicum is *(2016)*
+
+True about erythema toxicum is?
+
+- A. Common in pre-term baby
+- B. Lesions contain many lymphocytes
+- C. Can be life threatening condition
+- D. Occurs mainly in neonatal period
+
+<details><summary>Answer</summary>
+
+**D. Occurs mainly in neonatal period**
+
+</details>
+
+---
+
+### Q26 — Which of the fontanelle is the *(2017)*
+
+Which of the fontanelle is the last to close?
+
+- A. Anterolateral
+- B. Anterior
+- C. Lateral
+- D. Occipital
+
+<details><summary>Answer</summary>
+
+**B. Anterior**
+
+</details>
+
+---
+
+### Q27 — Which enzyme deficiency causesLeschNyhan syndrome *(2017)*
+
+Which enzyme deficiency causesLesch–Nyhan syndrome ?
+
+- A. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)
+- B. Xanthine oxidase
+- C. Adenine phosphoribosyltransferase (APRT)
+- D. AMP deaminase
+
+<details><summary>Answer</summary>
+
+**A. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)**
+
+</details>
+
+---
+
+### Q28 — Which vaccine is not include in *(2017)*
+
+Which vaccine is not include in indradhanush mission?
+
+- A. Tuberculosis
+- B. Measles
+- C. Japanese Encephalitis
+- D. Diphtheria
+
+<details><summary>Answer</summary>
+
+**C. Japanese Encephalitis**
+
+</details>
+
+---
+
+### Q29 — Which among the following is the *(2017)*
+
+Which among the following is the Most common cause for neonatal blindness?
+
+- A. Neisseria gonorrhoeae
+- B. Chlamydia trachomatis
+- C. Klebsiella
+- D. Enterobacter
+
+<details><summary>Answer</summary>
+
+**A. Neisseria gonorrhoeae**
+
+</details>
+
+---
+
+### Q30 — True hermaphroditism karyotype *(2017)*
+
+True hermaphroditism karyotype:
+
+- A. 45 X0 STREAKED GONADS
+- B. 46 XX OVO TESTIS
+- C. 47 XY+9
+- D. 47 XX
+
+<details><summary>Answer</summary>
+
+**B. 46 XX OVO TESTIS**
+
+</details>
+
+---
+
+### Q31 — Nerve mostly compressed in pregnancy puerperium *(2017)*
+
+Nerve mostly compressed in pregnancy puerperium:
+
+- A. Radial nerve
+- B. Median nerve
+- C. Femoral nerve
+- D. Facial nerve
+
+<details><summary>Answer</summary>
+
+**C. Femoral nerve**
+
+</details>
+
+---
+
+### Q32 — In pregnancy which of the following *(2017)*
+
+In pregnancy which of the following level is altered mostly:
+
+- A. TSH
+- B. Free T3
+- C. Free T4
+- D. T3 binding globulin
+
+<details><summary>Answer</summary>
+
+**C. Free T4**
+
+</details>
+
+---
+
+### Q33 — Pagets is associated with which other *(2017)*
+
+Paget's is associated with which other cancer:
+
+- A. Vulva
+- B. Vagina
+- C. Cervix
+- D. Uterus
+
+<details><summary>Answer</summary>
+
+**A. Vulva**
+
+</details>
+
+---
+
+### Q34 — What is meant by Superfecundation *(2017)*
+
+What is meant by Superfecundation?
+
+- A. Fertilization of two or more ova in one intercourse
+- B. Fertilization of two or more ova in different intercourses in same menstrual cycle
+- C. Fertilization of ova and then it's division
+- D. Fertilization of second ovum first being implanted
+
+<details><summary>Answer</summary>
+
+**B. Fertilization of two or more ova in different intercourses in same menstrual cycle**
+
+</details>
+
+---
+
+### Q35 — Anesthesia of choice for cesarean section *(2017)*
+
+Anesthesia of choice for cesarean section in severe pre-eclampsia :
+
+- A. Spinal
+- B. GA
+- C. Epidural
+- D. Spinal+epidural
+
+<details><summary>Answer</summary>
+
+**C. Epidural**
+
+</details>
+
+---
+
+### Q36 — Which of the following is not *(2017)*
+
+Which of the following is not a high risk pregnancy?
+
+- A. Previous history of manual removal of placenta
+- B. Anemia
+- C. Diabetes
+- D. Obesity
+
+<details><summary>Answer</summary>
+
+**A. Previous history of manual removal of placenta**
+
+</details>
+
+---
+
+### Q37 — Which One of the following is *(2017)*
+
+Which One of the following is not a cause of secondary Postpartum Haemorrhage?
+
+- A. Placenta previa
+- B. Retained bits of placenta
+- C. Endometritis
+- D. Polyp
+
+<details><summary>Answer</summary>
+
+**A. Placenta previa**
+
+</details>
+
+---
+
+### Q38 — Best time to do quadruple test *(2017)*
+
+Best time to do quadruple test
+
+- A. 8-12 weeks
+- B. 11-15 weeks
+- C. 15-20 weeks
+- D. 18-22 weeks
+
+<details><summary>Answer</summary>
+
+**C. 15-20 weeks**
+
+</details>
+
+---
+
+### Q39 — Drug that is used for fetal *(2017)*
+
+Drug that is used for fetal lung maturity is:
+
+- A. Dexamethasone
+- B. Folic acid
+- C. Beclomethasone
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Dexamethasone**
+
+</details>
+
+---
+
+### Q40 — In Uterine prolapse how to know *(2017)*
+
+In Uterine prolapse how to know if ring is in place?
+
+- A. If not expelled after increased abdominal pressure
+- B. If Bleeding does not occur
+- C. If patient feels discomfort
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. If not expelled after increased abdominal pressure**
+
+</details>
+
+---

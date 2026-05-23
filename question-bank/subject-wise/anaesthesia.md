@@ -442,3 +442,226 @@ Active ingredients in EMLA cream:
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q28 — All of the following drugs increase *(2015)*
+
+All of the following drugs increase the risk of postoperative nausea and vomiting after squint surgery in children except ?
+
+- A. Halothane
+- B. Opiods
+- C. Propofol
+- D. Nitrous Oxide
+
+<details><summary>Answer</summary>
+
+**C. Propofol**
+
+</details>
+
+---
+
+### Q29 — year old male presented with a *(2015)*
+
+year old male presented with a penetrating trauma to chest. He is dyspnoeic with distended neck veins with hypotension and mediastinum is
+
+- A. Insertion of a large bore needle in the 2" ICS in the mid
+- B. Fluid Resuscitation
+- C. Starting Inotropic support
+- D. Endotracheal Intubation
+
+<details><summary>Answer</summary>
+
+**A. Insertion of a large bore needle in the 2" ICS in the mid**
+
+</details>
+
+---
+
+### Q30 — Best uterine relaxation is seen with *(2015)*
+
+Best uterine relaxation is seen with ?
+
+- A. Chloroform
+- B. Nitrous oxide
+- C. Ether
+- D. Halothane
+
+<details><summary>Answer</summary>
+
+**D. Halothane**
+
+</details>
+
+---
+
+### Q31 — Which of the following drugs produces *(2015)*
+
+Which of the following drugs produces dissociative anesthesia
+
+- A. Ketamine
+- B. Propofol
+- C. Thiopentone
+- D. Enflurane
+
+<details><summary>Answer</summary>
+
+**A. Ketamine**
+
+</details>
+
+---
+
+### Q32 — Not included in neuraxial block *(2015)*
+
+Not included in neuraxial block ?
+
+- A. Spinal block
+- B. Epidural block
+- C. Bier's block
+- D. Caudal block
+
+<details><summary>Answer</summary>
+
+**C. Bier's block**
+
+</details>
+
+---
+
+### Q33 — Most common cause of maternal mortality *(2015)*
+
+Most common cause of maternal mortality in spinal anesthesia is ?
+
+- A. Allergy to local anesthesia
+- B. Nerve injury
+- C. High block
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**C. High block**
+
+</details>
+
+---
+
+### Q34 — Cauda equina syndrome is associated with *(2015)*
+
+Cauda equina syndrome is associated with ?
+
+- A. Lidocaine
+- B. Halothane
+- C. N20
+- D. Ether
+
+<details><summary>Answer</summary>
+
+**A. Lidocaine**
+
+</details>
+
+---
+
+### Q35 — Local anaesthetic injected directly into the *(2015)*
+
+Local anaesthetic injected directly into the tissue ?
+
+- A. Infiltration anaesthesia
+- B. Nerve block
+- C. Field block
+- D. Bier's block
+
+<details><summary>Answer</summary>
+
+**A. Infiltration anaesthesia**
+
+</details>
+
+---
+
+### Q36 — Propofol vial, once opened, should be *(2016)*
+
+Propofol vial, once opened, should be used within?
+
+- A. 2 hours
+- B. 4 hours
+- C. 6 hours
+- D. 8 hours
+
+<details><summary>Answer</summary>
+
+**C. 6 hours**
+
+</details>
+
+---
+
+### Q37 — Relative contraindication of neuraxialregional ane *(2016)*
+
+Relative contraindication of neuraxial/regional anesthesia is?
+
+- A. Hypertension
+- B. Renal disease
+- C. Sepsis
+- D. Diabetes
+
+<details><summary>Answer</summary>
+
+**C. Sepsis**
+
+</details>
+
+---
+
+### Q38 — Benzocaine is used in which type *(2016)*
+
+Benzocaine is used in which type of anesthesia?
+
+- A. Topical
+- B. Spinal
+- C. Epidural
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Topical**
+
+</details>
+
+---
+
+### Q39 — Triangle of Petit is a landmark *(2016)*
+
+"Triangle of Petit" is a landmark for which block?
+
+- A. Spinal block
+- B. Bier's block
+- C. TAP block
+- D. Epidural block
+
+<details><summary>Answer</summary>
+
+**C. TAP block**
+
+</details>
+
+---
+
+### Q40 — What is the intubation dose of *(2016)*
+
+What is the intubation dose of pancuronium?
+
+- A. 0.1 mg/kg
+- B. 1 mg/kg
+- C. 10 mg/kg
+- D. 20 mg/kg
+
+<details><summary>Answer</summary>
+
+**A. 0.1 mg/kg**
+
+</details>
+
+---

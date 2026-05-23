@@ -324,3 +324,345 @@ The Confusion Assessment Method (CAM) diagnostic tool is used for:
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q21 — Tau protein seen in *(2015)*
+
+Tau protein seen in ?
+
+- A. Alzhiemer's disease
+- B. Lewy body dementia
+- C. Picks disease
+- D. Amylodosis
+
+<details><summary>Answer</summary>
+
+**A. Alzhiemer's disease**
+
+</details>
+
+---
+
+### Q22 — The Bipolar cautery is preferred over *(2015)*
+
+The Bipolar cautery is preferred over monopolar cautery in the following surgeries except
+
+- A. Hand Surgery
+- B. Surgery around Penis
+- C. Surgery of the Hip
+- D. Surgery around the face
+
+<details><summary>Answer</summary>
+
+**C. Surgery of the Hip**
+
+</details>
+
+---
+
+### Q23 — Cephalic index is *(2015)*
+
+Cephalic index is
+
+- A. BPD/OFD
+- B. BPD/HC
+- C. OFD/BPD
+- D. HC/FL
+
+<details><summary>Answer</summary>
+
+**A. BPD/OFD**
+
+</details>
+
+---
+
+### Q24 — What size of the hegars dilator *(2015)*
+
+What size of the hegar's dilator if passed through the internal os can be labeled as cervical incompetence?
+
+- A. 4
+- B. 6
+- C. 8
+- D. 10
+
+<details><summary>Answer</summary>
+
+**C. 8**
+
+</details>
+
+---
+
+### Q25 — Embryo gets implanted at what stage *(2015)*
+
+Embryo gets implanted at what stage of development?
+
+- A. Two cell stage
+- B. Four cell stage
+- C. Morula
+- D. Blastocyst
+
+<details><summary>Answer</summary>
+
+**D. Blastocyst**
+
+</details>
+
+---
+
+### Q26 — Which P is not a feature *(2015)*
+
+Which 'P' is not a feature of lichen planus ?
+
+- A. Polygonal
+- B. Polyhedral
+- C. Pruritus
+- D. Plane
+
+<details><summary>Answer</summary>
+
+**B. Polyhedral**
+
+</details>
+
+---
+
+### Q27 — All are reversible causes of dementia *(2015)*
+
+All are reversible causes of dementia except
+
+- A. Hypothyroidism
+- B. Hydrocephalus
+- C. Meningoencephalitis
+- D. Alzheimer's disease
+
+<details><summary>Answer</summary>
+
+**D. Alzheimer's disease**
+
+</details>
+
+---
+
+### Q28 — Self mutilation is a feature of *(2015)*
+
+Self mutilation is a feature of ?
+
+- A. Von-Gogh syndrome
+- B. Catatonic schizophrenia
+- C. Paranoid schizophrenia
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Von-Gogh syndrome**
+
+</details>
+
+---
+
+### Q29 — FDA approved drug for refractory schizophrenia *(2016)*
+
+FDA approved drug for refractory schizophrenia ?
+
+- A. Amoxapine
+- B. Haloperidol
+- C. Clozapine
+- D. Penfluridol
+
+<details><summary>Answer</summary>
+
+**C. Clozapine**
+
+</details>
+
+---
+
+### Q30 — -year-old female presents to emergency ward *(2016)*
+
+-year-old female presents to emergency ward with 2 months of amenorrhea with pain in abdomen and shock. BP 90/60 mmHg and Hb 6 gm%.
+
+- A. Laparotomy
+- B. IV fluids & cross match
+- C. Medical management
+- D. Laparoscopy
+
+<details><summary>Answer</summary>
+
+**B. IV fluids & cross match**
+
+</details>
+
+---
+
+### Q31 — SEAM used in DUB is *(2016)*
+
+SEAM used in DUB is ?
+
+- A. Clomiphene
+- B. Raloxifene
+- C. Ormiloxifene
+- D. Mifepristone
+
+<details><summary>Answer</summary>
+
+**C. Ormiloxifene**
+
+</details>
+
+---
+
+### Q32 — Ashermans syndrome is characterized by *(2016)*
+
+Ashermans syndrome is characterized by ?
+
+- A. Amenorrhea
+- B. Menorrhagia
+- C. Polymenorrhea
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Amenorrhea**
+
+</details>
+
+---
+
+### Q33 — The prostaglandin most commonly used at *(2016)*
+
+The prostaglandin most commonly used at term for induction of labor is ?
+
+- A. PGI2
+- B. PGE1
+- C. PGE2
+- D. PGF2a
+
+<details><summary>Answer</summary>
+
+**C. PGE2**
+
+</details>
+
+---
+
+### Q34 — The uterine blood flow at term *(2016)*
+
+The uterine blood flow at term is -
+
+- A. 50 mL/min
+- B. 100-150 mL/min
+- C. 350-375 mL/min
+- D. 500-750 mL/min
+
+<details><summary>Answer</summary>
+
+**D. 500-750 mL/min**
+
+</details>
+
+---
+
+### Q35 — Second wave of trophoblastic invasion occurs *(2016)*
+
+Second wave of trophoblastic invasion occurs at weeks of gestation?
+
+- A. 8-11
+- B. 10-12
+- C. 12-15
+- D. 16-20
+
+<details><summary>Answer</summary>
+
+**C. 12-15**
+
+</details>
+
+---
+
+### Q36 — All are true about post partum *(2016)*
+
+All are true about post partum depression except -
+
+- A. Symptoms resolve in 10-12 days
+- B. Affects both sexes
+- C. SSRIs are effective
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Symptoms resolve in 10-12 days**
+
+</details>
+
+---
+
+### Q37 — A patient with a history of *(2017)*
+
+A patient with a history of RTA before 2 months presents with complaints of dreams of accidents. He is able to visualize the same scene whenever he visits the place. Hence is afraid to go back to the accident site. Identify the type of disorder that he might be suffering from?
+
+- A. Adjustment disorder
+- B. PTSD
+- C. Anxiety disorder
+- D. OCD
+
+<details><summary>Answer</summary>
+
+**B. PTSD**
+
+</details>
+
+---
+
+### Q38 — Semen squeeze *(2017)*
+
+Semen squeeze
+
+- A. Erectile dysfunction
+- B. Premature ejaculation
+- C. Retrograde ejaculation
+- D. Antegrade ejaculation
+
+<details><summary>Answer</summary>
+
+**B. Premature ejaculation**
+
+</details>
+
+---
+
+### Q39 — Expression and consequent release of previously *(2017)*
+
+Expression and consequent release of previously repressed emotion is called as
+
+- A. Regression
+- B. Dissociation
+- C. Abreaction
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Abreaction**
+
+</details>
+
+---
+
+### Q40 — All are habit disorder except *(2017)*
+
+All are habit disorder except
+
+- A. Nail biting
+- B. Thumb sucking
+- C. Temper tantrum
+- D. Tics
+
+<details><summary>Answer</summary>
+
+**C. Temper tantrum**
+
+</details>
+
+---

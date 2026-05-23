@@ -324,3 +324,515 @@ HIV patient with CD4 80, bilateral diffuse ground-glass opacities, O₂ sats dro
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q21 — Superior pancreaticoduodenal artery is a branch *(2015)*
+
+Superior pancreaticoduodenal artery is a branch of?
+
+- A. Hepatic artery
+- B. Splenic artery
+- C. Gastroduodenal artery
+- D. Inferior mesenteric artery
+
+<details><summary>Answer</summary>
+
+**C. Gastroduodenal artery**
+
+</details>
+
+---
+
+### Q22 — Polyuria with low fixed specific gravity *(2015)*
+
+Polyuria with low fixed specific gravity urine is seen in ?
+
+- A. Diabetes mellitus
+- B. Diabetes insipidus
+- C. Chronic glomerulonephritis
+- D. Potomania
+
+<details><summary>Answer</summary>
+
+**C. Chronic glomerulonephritis**
+
+</details>
+
+---
+
+### Q23 — Drainage of cervical abscess is an *(2015)*
+
+Drainage of cervical abscess is an example of -
+
+- A. Clean contaminated wound
+- B. Clean uncontaminated wound
+- C. Unclean uncontaminated wound
+- D. Dirty infected wound
+
+<details><summary>Answer</summary>
+
+**D. Dirty infected wound**
+
+</details>
+
+---
+
+### Q24 — All the features of membranous urethral *(2015)*
+
+All the features of membranous urethral injury except
+
+- A. blood of meatus
+- B. Retention of urine
+- C. Pelvic fracture
+- D. Perineal butterfly hematoma
+
+<details><summary>Answer</summary>
+
+**D. Perineal butterfly hematoma**
+
+</details>
+
+---
+
+### Q25 — The size beyond which the risk *(2015)*
+
+The size beyond which the risk of rupture of an abdominal aneurysm significantly increases is greater than -
+
+- A. 5.5 cm
+- B. 6 cm
+- C. 6.5 cm
+- D. 7 cm
+
+<details><summary>Answer</summary>
+
+**A. 5.5 cm**
+
+</details>
+
+---
+
+### Q26 — All of the following may lead *(2015)*
+
+All of the following may lead to pneumatocele formation except
+
+- A. Staphylococcal pneumonia
+- B. Positive pressure ventilation
+- C. Hydrocarbon inhalation
+- D. ARDS
+
+<details><summary>Answer</summary>
+
+**D. ARDS**
+
+</details>
+
+---
+
+### Q27 — Which of the following is false *(2015)*
+
+Which of the following is false about undescended testis ?
+
+- A. More common on the right side
+- B. Hormonal therapy is effective
+- C. Increased risk of malignancy
+- D. Secondary sexual characteristics are normal
+
+<details><summary>Answer</summary>
+
+**B. Hormonal therapy is effective**
+
+</details>
+
+---
+
+### Q28 — A newborn baby has a head *(2015)*
+
+A newborn baby has a head circumference of 35 ems. at birth, His optimal head circumference will be 43 ems at -
+
+- A. 4 months of age
+- B. 6 months of age
+- C. 8 months of age
+- D. 12 months of age
+
+<details><summary>Answer</summary>
+
+**B. 6 months of age**
+
+</details>
+
+---
+
+### Q29 — Which is the widows artery in *(2016)*
+
+Which is the widow's artery in myocardial infarction?
+
+- A. Left anterior descending artery
+- B. Right coronary artery
+- C. Posterior interventricular artery
+- D. Left circumflex artery
+
+<details><summary>Answer</summary>
+
+**A. Left anterior descending artery**
+
+</details>
+
+---
+
+### Q30 — Which vaccine is used to prevent *(2016)*
+
+Which vaccine is used to prevent death from pneumonia in children?
+
+- A. Measles vaccine
+- B. Rubella vaccine
+- C. Chickenpox vaccine
+- D. Influenza viral vaccine
+
+<details><summary>Answer</summary>
+
+**A. Measles vaccine**
+
+</details>
+
+---
+
+### Q31 — Breast surgery is considered under what *(2016)*
+
+Breast surgery is considered under what category of cardiac risk?
+
+- A. > 10 %
+- B. 5 - 10 %
+- C. 1 - 5 %
+- D. <1%
+
+<details><summary>Answer</summary>
+
+**D. <1%**
+
+</details>
+
+---
+
+### Q32 — Modified-Kaush Whipple operation is devised to *(2016)*
+
+Modified-Kaush Whipple operation is devised to preserve which part of stomach?
+
+- A. Fundus
+- B. Body
+- C. Lesser curvature
+- D. Pyloric antrum
+
+<details><summary>Answer</summary>
+
+**D. Pyloric antrum**
+
+</details>
+
+---
+
+### Q33 — Best time for surgery of hypospadias *(2016)*
+
+Best time for surgery of hypospadias is at what age -
+
+- A. 0 - 4 months
+- B. 4 - 6 months
+- C. 6 - 10 months
+- D. > 2 years
+
+<details><summary>Answer</summary>
+
+**C. 6 - 10 months**
+
+</details>
+
+---
+
+### Q34 — Burr hole is done for - *(2016)*
+
+Burr hole is done for -
+
+- A. Chronic SDH
+- B. EDH
+- C. SAH
+- D. Contusion
+
+<details><summary>Answer</summary>
+
+**A. Chronic SDH**
+
+</details>
+
+---
+
+### Q35 — Most important prognostic marker of tetralogy *(2016)*
+
+Most important prognostic marker of tetralogy of fallot
+
+- A. VSD
+- B. Pulmonary stenosis
+- C. Overriding of aorta
+- D. Right ventricular hypertrophy
+
+<details><summary>Answer</summary>
+
+**B. Pulmonary stenosis**
+
+</details>
+
+---
+
+### Q36 — Most common intra abdominal solid organ *(2016)*
+
+Most common intra abdominal solid organ tumor in child is ?
+
+- A. Neuroblastoma
+- B. Rhabdomyoblastoma
+- C. Wilm's tumor
+- D. Hypernephroma
+
+<details><summary>Answer</summary>
+
+**A. Neuroblastoma**
+
+</details>
+
+---
+
+### Q37 — Neurofibromatosis 1 criteria except *(2017)*
+
+Neurofibromatosis 1 criteria except
+
+- A. Brain tumor
+- B. Acoustic neuromas.
+- C. Pseudoarthrosis
+- D. Cafe-au-lait spots
+
+<details><summary>Answer</summary>
+
+**B. Acoustic neuromas.**
+
+</details>
+
+---
+
+### Q38 — Most common site of chronic gastric *(2017)*
+
+Most common site of chronic gastric ulcer
+
+- A. Pyloric antrum
+- B. Upper part of lesser curvature
+- C. Lower part of lesser curvature
+- D. Segment of large intestine
+
+<details><summary>Answer</summary>
+
+**A. Pyloric antrum**
+
+</details>
+
+---
+
+### Q39 — Hellers myotomy is done for *(2017)*
+
+Heller's myotomy is done for
+
+- A. Zenker's diverticulum
+- B. Achalasia cardia
+- C. Bunions
+- D. Knee arthroscopy
+
+<details><summary>Answer</summary>
+
+**B. Achalasia cardia**
+
+</details>
+
+---
+
+### Q40 — Myocardial stunning pattern not matching the *(2017)*
+
+Myocardial stunning pattern not matching the ECG. What is the diagnosis.
+
+- A. Takotsubo cardiomyopathy
+- B. Restrictive cardiomyopathy
+- C. Brigade's cardiomyopathy
+- D. Pericardial something
+
+<details><summary>Answer</summary>
+
+**A. Takotsubo cardiomyopathy**
+
+</details>
+
+---
+
+### Q41 — Patient presenting with cutaneous vasculitis, glom *(2017)*
+
+Patient presenting with cutaneous vasculitis, glomerulonephritis, peripheral neuropathy, Which investigation is to be performed next that will help you diagnose the condition?
+
+- A. ANCA
+- B. RA factor
+- C. Hbsag
+- D. MIF
+
+<details><summary>Answer</summary>
+
+**A. ANCA**
+
+</details>
+
+---
+
+### Q42 — Cryoglobulinemia *(2017)*
+
+Cryoglobulinemia
+
+- A. Hepatitis c
+- B. Ovarian cancer
+- C. Diabetes
+- D. Leukemia
+
+<details><summary>Answer</summary>
+
+**A. Hepatitis c**
+
+</details>
+
+---
+
+### Q43 — Causes of hypokalemic metabolic alkalosis with *(2017)*
+
+Causes of hypokalemic metabolic alkalosis with hypertension
+
+- A. Liddle syndrome
+- B. Bartter syndrome
+- C. Gitelman syndrome
+- D. Renal tubular acidosis
+
+<details><summary>Answer</summary>
+
+**A. Liddle syndrome**
+
+</details>
+
+---
+
+### Q44 — Gold criteria for very severe COPD *(2017)*
+
+Gold criteria for very severe COPD
+
+- A. Fev1/Fvc <70 and Fev1 < 30
+- B. Fev1/Fvc <70 and Fev1 < 70
+- C. Fev1/Fvc <70 and Fev1 < 50
+- D. Both A and C
+
+<details><summary>Answer</summary>
+
+**A. Fev1/Fvc <70 and Fev1 < 30**
+
+</details>
+
+---
+
+### Q45 — ABPI increases artificially in *(2017)*
+
+ABPI increases artificially in
+
+- A. Arteriosclerosis calcified arteries
+- B. Ischemic ulcers
+- C. Intermittent claudication
+- D. DVT
+
+<details><summary>Answer</summary>
+
+**A. Arteriosclerosis calcified arteries**
+
+</details>
+
+---
+
+### Q46 — Minimal dysfunction syndrome seen in *(2017)*
+
+Minimal dysfunction syndrome seen in
+
+- A. Dyslexia
+- B. ADHD
+- C. Mental subnormality
+- D. Down’s syndrome
+
+<details><summary>Answer</summary>
+
+**A. Dyslexia**
+
+</details>
+
+---
+
+### Q47 — Not seen in allergic pulmonary aspergillosis *(2018)*
+
+Not seen in allergic pulmonary aspergillosis is
+
+- A. High IgE level
+- B. Recurrent pneumonia
+- C. Occurrence in patients with old cavitary lesions
+- D. Pleural effusion
+
+<details><summary>Answer</summary>
+
+**B. Recurrent pneumonia**
+
+</details>
+
+---
+
+### Q48 — Pseudo P Pulmonale *(2018)*
+
+Pseudo P Pulmonale
+
+- A. Hypokalemia
+- B. Hyponatremia
+- C. Hypocalcemia
+- D. Hypercalcemia
+
+<details><summary>Answer</summary>
+
+**A. Hypokalemia**
+
+</details>
+
+---
+
+### Q49 — Automatic Implantable Cardioverter Defibrillator,  *(2018)*
+
+Automatic Implantable Cardioverter Defibrillator, (AICD) implantation is done for which of following conditions
+
+- A. Brugada syndrome
+- B. Ventricular fibrillation
+- C. Acute coronary syndrome with low EF
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q50 — What is the line of treatment *(2018)*
+
+What is the line of treatment for intractable Sydenham chorea
+
+- A. Haloperidol
+- B. Valproate
+- C. Warfarin
+- D. Risperidone
+
+<details><summary>Answer</summary>
+
+**B. Valproate**
+
+</details>
+
+---

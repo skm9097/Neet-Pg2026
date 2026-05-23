@@ -324,3 +324,515 @@ Farmer with foot wound and discharging ulcer; Gram-positive branching filamentou
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q21 — True about serum sickness is *(2015)*
+
+True about serum sickness is
+
+- A. Type 2 hypersensitivity
+- B. Can lead to leukocytoclastic vasculitis
+- C. Hypercomplementemia
+- D. Can occur due to homologous antigen
+
+<details><summary>Answer</summary>
+
+**B. Can lead to leukocytoclastic vasculitis**
+
+</details>
+
+---
+
+### Q22 — Example of transfer of drug resistance *(2015)*
+
+Example of transfer of drug resistance by conjugation -
+
+- A. Staphylococci to rifampicin
+- B. Pneumococcus to penicillin G
+- C. M tuberculosis to antitubercular drugs
+- D. E coli to streptomycin
+
+<details><summary>Answer</summary>
+
+**D. E coli to streptomycin**
+
+</details>
+
+---
+
+### Q23 — Oropharyngeal commensal which predisposes to candi *(2015)*
+
+Oropharyngeal commensal which predisposes to candidiasis -
+
+- A. Hemophilus influenzae
+- B. Streptococcus
+- C. Staphylococcus
+- D. Lactobacillus
+
+<details><summary>Answer</summary>
+
+**B. Streptococcus**
+
+</details>
+
+---
+
+### Q24 — Clinical significance of Vi antigen of *(2015)*
+
+Clinical significance of Vi antigen of S. typhi is:
+
+- A. Helps in diagnosis
+- B. Highly immunogenic
+- C. Most important antigen for widal test
+- D. Antibody against Vi-antigen is used for diagnosis of carrier
+
+<details><summary>Answer</summary>
+
+**D. Antibody against Vi-antigen is used for diagnosis of carrier**
+
+</details>
+
+---
+
+### Q25 — Not true about paramyxoviruses - *(2015)*
+
+Not true about paramyxoviruses -
+
+- A. Belong to family myxovirus
+- B. Are DNA viruses
+- C. Have linear nucleic acid
+- D. Antigenically stable
+
+<details><summary>Answer</summary>
+
+**B. Are DNA viruses**
+
+</details>
+
+---
+
+### Q26 — Indirect Coombs test detects *(2015)*
+
+Indirect Coomb's test detects:
+
+- A. Antibodies attached to RBC Surface
+- B. Antibodies in the serum
+- C. Antigens attached to RBC Surface
+- D. Antigens in the serum
+
+<details><summary>Answer</summary>
+
+**B. Antibodies in the serum**
+
+</details>
+
+---
+
+### Q27 — True statement about malignant otitis externa *(2015)*
+
+True statement about malignant otitis externa is:
+
+- A. Not painful
+- B. Common in diabetics and old age
+- C. Caused by streptococcus
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Common in diabetics and old age**
+
+</details>
+
+---
+
+### Q28 — Streptococcus bovis infection is associated with *(2015)*
+
+Streptococcus bovis infection is associated with -
+
+- A. CLL
+- B. Hairy cell leukemia
+- C. Colorectal cancer
+- D. Multiple myeloma
+
+<details><summary>Answer</summary>
+
+**C. Colorectal cancer**
+
+</details>
+
+---
+
+### Q29 — Gas released from oligosaccharide metabolism by *(2016)*
+
+Gas released from oligosaccharide metabolism by intestinal bacteria is
+
+- A. Carbondioxide
+- B. Sulphur dioxide
+- C. Nitric oxide
+- D. Methane
+
+<details><summary>Answer</summary>
+
+**D. Methane**
+
+</details>
+
+---
+
+### Q30 — To create anaerobiosis which organism is *(2016)*
+
+To create anaerobiosis which organism is used
+
+- A. Micrococcus
+- B. Clostridium
+- C. B. anthracis
+- D. Corynebacterium
+
+<details><summary>Answer</summary>
+
+**A. Micrococcus**
+
+</details>
+
+---
+
+### Q31 — Similarity between chlamydia and virus is *(2016)*
+
+Similarity between chlamydia and virus is
+
+- A. Filterable through filter
+- B. Ability to grow in cell free media
+- C. Contains both DNA and RNA
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Filterable through filter**
+
+</details>
+
+---
+
+### Q32 — Capsid of viral structure is *(2016)*
+
+Capsid of viral structure is:
+
+- A. Extracellular infectious particle
+- B. Protein coat around nucleic acid
+- C. Envelop around a virus
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Protein coat around nucleic acid**
+
+</details>
+
+---
+
+### Q33 — What is similar between rotavirus and *(2016)*
+
+What is similar between rotavirus and Norwalk virus ?
+
+- A. Both belong to same family
+- B. Both have segmented genome
+- C. Both have single stranded RNA
+- D. Both are causes of viral gastroenteritis
+
+<details><summary>Answer</summary>
+
+**D. Both are causes of viral gastroenteritis**
+
+</details>
+
+---
+
+### Q34 — Pneumocystis carinii is diagnosed by - *(2016)*
+
+Pneumocystis carinii is diagnosed by -
+
+- A. Sputum examination for trophozoites and cyst under
+- B. Culture
+- C. Positive serology
+- D. Growth on artificial media
+
+<details><summary>Answer</summary>
+
+**A. Sputum examination for trophozoites and cyst under**
+
+</details>
+
+---
+
+### Q35 — During investigation of an epidemic, the *(2016)*
+
+During investigation of an epidemic, the area is declared free of epidemic when?
+
+- A. Twice the incubation period of the disease since occurrence of
+- B. Thrice the incubation period of the disease since occurrence of
+- C. The longest incubation period for the disease
+- D. Incubation period for the disease plus two standard deviations
+
+<details><summary>Answer</summary>
+
+**A. Twice the incubation period of the disease since occurrence of**
+
+</details>
+
+---
+
+### Q36 — Austrian syndrome is caused by which *(2016)*
+
+Austrian syndrome is caused by which infection
+
+- A. Staphylococcus aureus
+- B. Streptococcus pneumoniae
+- C. Staphylococcus epidermidis
+- D. Streptococcus viridans
+
+<details><summary>Answer</summary>
+
+**B. Streptococcus pneumoniae**
+
+</details>
+
+---
+
+### Q37 — Burkholderia cepacia is resistant to which *(2017)*
+
+Burkholderia cepacia is resistant to which of the following drugs:
+
+- A. Ceftazidime
+- B. Trimethoprim-sulfamethoxazole
+- C. Temocillin
+- D. Cefotetan
+
+<details><summary>Answer</summary>
+
+**D. Cefotetan**
+
+</details>
+
+---
+
+### Q38 — Urea breath test is used for *(2017)*
+
+Urea breath test is used for diagnosis of:
+
+- A. H.pylori
+- B. Campylobacter jejuni
+- C. E. coli
+- D. Lactobacillus
+
+<details><summary>Answer</summary>
+
+**A. H.pylori**
+
+</details>
+
+---
+
+### Q39 — Hyperacute graft rejection occurs after how *(2017)*
+
+Hyperacute graft rejection occurs after how much time?
+
+- A. 24 hours
+- B. 2 weeks right
+- C. In minutes
+- D. Years
+
+<details><summary>Answer</summary>
+
+**C. In minutes**
+
+</details>
+
+---
+
+### Q40 — Sabin Feldman dye test is used *(2017)*
+
+Sabin Feldman dye test is used for diagnosis of which of the following condition:
+
+- A. Botulism
+- B. Toxoplasmosis
+- C. Sarcoidosis
+- D. Yellow fever
+
+<details><summary>Answer</summary>
+
+**B. Toxoplasmosis**
+
+</details>
+
+---
+
+### Q41 — Acute Hemorrhagic Conjunctivitis is caused by *(2017)*
+
+Acute Hemorrhagic Conjunctivitis is caused by which of enterovirus type ?
+
+- A. 69
+- B. 68
+- C. 70
+- D. 71
+
+<details><summary>Answer</summary>
+
+**C. 70**
+
+</details>
+
+---
+
+### Q42 — Echinococcus granulosus are commonly seen in *(2017)*
+
+Echinococcus granulosus are commonly seen in which of the given animals:
+
+- A. Dog
+- B. Cat
+- C. Fox
+- D. Pig
+
+<details><summary>Answer</summary>
+
+**A. Dog**
+
+</details>
+
+---
+
+### Q43 — An anaerobe causing multiple abscess with *(2017)*
+
+An anaerobe causing multiple abscess with discharging sinuses, demonstrating sulphur granules in pus is?
+
+- A. Actinomycetes
+- B. Nocardia
+- C. Salmonella
+- D. Tularemia
+
+<details><summary>Answer</summary>
+
+**A. Actinomycetes**
+
+</details>
+
+---
+
+### Q44 — Whole blood is used as a *(2017)*
+
+Whole blood is used as a sample for which test?
+
+- A. Bacteria
+- B. IGRA
+- C. Genexpert
+- D. Virus
+
+<details><summary>Answer</summary>
+
+**B. IGRA**
+
+</details>
+
+---
+
+### Q45 — Which organism causing acute bacterial prostatitis *(2017)*
+
+Which organism causing acute bacterial prostatitis ?
+
+- A. Enterococcus
+- B. Streptococcus viridans
+- C. Peptostreptococcus
+- D. E.coli
+
+<details><summary>Answer</summary>
+
+**D. E.coli**
+
+</details>
+
+---
+
+### Q46 — Who is the father of microbiology *(2017)*
+
+Who is the father of microbiology?
+
+- A. A.V.L.hook
+- B. Robert brown
+- C. J.C Bose
+- D. Pasteur
+
+<details><summary>Answer</summary>
+
+**A. A.V.L.hook**
+
+</details>
+
+---
+
+### Q47 — Cutaneous larva migrans caused by which *(2017)*
+
+Cutaneous larva migrans caused by which organism?
+
+- A. Strongyloides
+- B. Toxocara canis
+- C. Ancylostoma braziliense
+- D. Necator americanus
+
+<details><summary>Answer</summary>
+
+**C. Ancylostoma braziliense**
+
+</details>
+
+---
+
+### Q48 — In Bartter syndrome defect is seen *(2017)*
+
+In Bartter syndrome defect is seen in:
+
+- A. Defect in PCT
+- B. Defect in DCT
+- C. Defect in thick ascending limb of loop of henle
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Defect in thick ascending limb of loop of henle**
+
+</details>
+
+---
+
+### Q49 — Automatic Implantable Cardioverter Defibrillator,  *(2017)*
+
+Automatic Implantable Cardioverter Defibrillator, (AICD) implantation is done for which of following conditions:
+
+- A. Brugada syndrome
+- B. Ventricular fibrillation
+- C. Acute coronary syndrome with low EF
+- D. ALL
+
+<details><summary>Answer</summary>
+
+**D. ALL**
+
+</details>
+
+---
+
+### Q50 — What is the line of treatment *(2017)*
+
+What is the line of treatment for intractable Sydenham chorea?
+
+- A. Haloperidol
+- B. Valproate
+- C. Warfarin
+- D. Risperidone
+
+<details><summary>Answer</summary>
+
+**B. Valproate**
+
+</details>
+
+---

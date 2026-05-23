@@ -324,3 +324,345 @@ True statement about herpes zoster?
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q21 — Dermatitis may be a clinical manifestation *(2015)*
+
+Dermatitis may be a clinical manifestation of deficiency states of all of following nutrients except -
+
+- A. Biotin
+- B. Niacin
+- C. Pyridoxine
+- D. Thiamine
+
+<details><summary>Answer</summary>
+
+**D. Thiamine**
+
+</details>
+
+---
+
+### Q22 — True about pemphigus vulgaris AE *(2015)*
+
+True about pemphigus vulgaris A/E:
+
+- A. Subepidermal
+- B. Autoimmune disease
+- C. Tzanck smear shows acanthoyltic cells
+- D. Antibody are formed against desmogleins
+
+<details><summary>Answer</summary>
+
+**A. Subepidermal**
+
+</details>
+
+---
+
+### Q23 — Landmark for pudendal nerve block is *(2015)*
+
+Landmark for pudendal nerve block is ?
+
+- A. Ischial tuberosity
+- B. Iliac spine
+- C. Sacroiliac joint
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Ischial tuberosity**
+
+</details>
+
+---
+
+### Q24 — Which of the following is not *(2015)*
+
+Which of the following is not a contraindication of MRI
+
+- A. Cardiac pacemaker
+- B. Cochlear implant
+- C. Ryle's tube
+- D. Metallic splinter in eye
+
+<details><summary>Answer</summary>
+
+**C. Ryle's tube**
+
+</details>
+
+---
+
+### Q25 — Radioactive iodine is administered through which *(2015)*
+
+Radioactive iodine is administered through which route
+
+- A. Intravenous
+- B. Subcutaneous
+- C. Oral
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q26 — Tigriod pattern on MRI is seen *(2015)*
+
+Tigriod pattern on MRI is seen in -
+
+- A. Wilson's disease
+- B. Metachromatic leukodystrophy
+- C. Parkinsonism
+- D. GB syndrome
+
+<details><summary>Answer</summary>
+
+**B. Metachromatic leukodystrophy**
+
+</details>
+
+---
+
+### Q27 — Loosening of association is an example *(2015)*
+
+Loosening of association is an example of
+
+- A. Formal thought disorder
+- B. Schneider's first symptoms
+- C. Perseveration
+- D. Concrete thinking
+
+<details><summary>Answer</summary>
+
+**A. Formal thought disorder**
+
+</details>
+
+---
+
+### Q28 — Characterized by chronic, multiple tics *(2015)*
+
+Characterized by chronic, multiple tics ?
+
+- A. Parkinson's disease
+- B. Wilson's disease
+- C. Shy-Drager syndrome
+- D. Tourette's syndrome
+
+<details><summary>Answer</summary>
+
+**D. Tourette's syndrome**
+
+</details>
+
+---
+
+### Q29 — Metastasis to lungs come most commonly *(2016)*
+
+Metastasis to lungs come most commonly from
+
+- A. Breast carcinoma
+- B. Brain carcinoma
+- C. Bone carcinoma
+- D. Melanoma
+
+<details><summary>Answer</summary>
+
+**A. Breast carcinoma**
+
+</details>
+
+---
+
+### Q30 — Causes of male infertility *(2016)*
+
+Causes of male infertility ?
+
+- A. Idiopathic
+- B. Varicocele
+- C. Yq 11 micro deletion
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+### Q31 — If the anal spincter is injured, *(2016)*
+
+If the anal spincter is injured, it is which degree of Perineal Tear ?
+
+- A. First
+- B. Second
+- C. Third
+- D. Fourth
+
+<details><summary>Answer</summary>
+
+**C. Third**
+
+</details>
+
+---
+
+### Q32 — Which of the following disease is *(2016)*
+
+Which of the following disease is closely related to enetropathy?
+
+- A. Linear Ig A disease
+- B. Pemphigus foliaceous
+- C. Dermatitis herpetiformis
+- D. Erythema multiforme
+
+<details><summary>Answer</summary>
+
+**C. Dermatitis herpetiformis**
+
+</details>
+
+---
+
+### Q33 — A known case of diabetes develops *(2016)*
+
+A known case of diabetes develops annular orange skin lesions, which disappear after biopsy. This phenomenon is known as?
+
+- A. Koebner's phenomenon
+- B. Reverse Koebner's phenomenon
+- C. Asboe Henson sign
+- D. Isotopic phenomenon
+
+<details><summary>Answer</summary>
+
+**B. Reverse Koebner's phenomenon**
+
+</details>
+
+---
+
+### Q34 — Among the following agents, maximum boiling *(2016)*
+
+Among the following agents, maximum boiling point is associated with?
+
+- A. Sevoflurane
+- B. Isofurane
+- C. Methoxyflurane
+- D. Desflurane
+
+<details><summary>Answer</summary>
+
+**C. Methoxyflurane**
+
+</details>
+
+---
+
+### Q35 — Gamma knife utilizes - *(2016)*
+
+Gamma knife utilizes -
+
+- A. Strontium 89
+- B. 1-131
+- C. Cobalt -60
+- D. P-32
+
+<details><summary>Answer</summary>
+
+**C. Cobalt -60**
+
+</details>
+
+---
+
+### Q36 — Least penetrating power among following mentioned *(2016)*
+
+Least penetrating power among following mentioned rays is in -
+
+- A. Alpha rays
+- B. Beta rays
+- C. Gamma rays
+- D. X-ray
+
+<details><summary>Answer</summary>
+
+**A. Alpha rays**
+
+</details>
+
+---
+
+### Q37 — Cutis marmorata occurs due to exposure *(2018)*
+
+Cutis marmorata occurs due to exposure to –
+
+- A. Cold temperature
+- B. Dust
+- C. Hot temperature
+- D. Humidity
+
+<details><summary>Answer</summary>
+
+**A. Cold temperature**
+
+</details>
+
+---
+
+### Q38 — A child has a rash as *(2018)*
+
+A child has a rash as shown in the picture .His family history is positive for asthma . What could be the most probable diagnosis ?
+
+- A. Seborrheic dermatitis
+- B. Atopic dermatitis
+- C. Allergic contact dermatitis
+- D. Erysipelas
+
+<details><summary>Answer</summary>
+
+**C. Allergic contact dermatitis**
+
+</details>
+
+---
+
+### Q39 — Bindi leukoderma is caused by which *(2019)*
+
+Bindi leukoderma is caused by which chemical?
+
+- A. Monobenzyl ether of hydroquinone (MBH)
+- B. Crocein Scarlet MOO + Solvent Yellow 3
+- C. p-Phenylenediamine (PPD)
+- D. Para-tertiary butylphenol (PTBP)
+
+<details><summary>Answer</summary>
+
+**D. Para-tertiary butylphenol (PTBP)**
+
+</details>
+
+---
+
+### Q40 — Young female with vaginal itching, green *(2019)*
+
+Young female with vaginal itching, green frothy discharge, strawberry vagina. Drug?
+
+- A. Doxycycline
+- B. Oral fluconazole
+- C. Metronidazole
+- D. Azithromycin
+
+<details><summary>Answer</summary>
+
+**C. Metronidazole**
+
+</details>
+
+---

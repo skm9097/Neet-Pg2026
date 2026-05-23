@@ -324,3 +324,515 @@ Parathyroid gland is commonly autotransplanted to:
 </details>
 
 ---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+
+### Q21 — Ligament which prevents spleen to fall *(2015)*
+
+Ligament which prevents spleen to fall in left iliac fossa -
+
+- A. Leinorenal ligament
+- B. Phrenicolic ligament
+- C. Upper pole of right kidney
+- D. Sigmoid colon
+
+<details><summary>Answer</summary>
+
+**B. Phrenicolic ligament**
+
+</details>
+
+---
+
+### Q22 — Acute pancreatitis causes all of the *(2015)*
+
+Acute pancreatitis causes all of the following except: March 2005,
+
+- A. Hypercalcemia
+- B. Increased amylase level
+- C. Subcutaneous fat necrosis
+- D. Hyperlipidemia
+
+<details><summary>Answer</summary>
+
+**A. Hypercalcemia**
+
+</details>
+
+---
+
+### Q23 — True about cephalhematoma is - *(2015)*
+
+True about cephalhematoma is -
+
+- A. It is hemorrhage between the skull and periosteum
+- B. It is hemorrhage within the subcutaneous tissue around the
+- C. It is type of subdural hemorrhage
+- D. It is extraperiosteal bleeding in the skull
+
+<details><summary>Answer</summary>
+
+**A. It is hemorrhage between the skull and periosteum**
+
+</details>
+
+---
+
+### Q24 — Japanese encephalitis vaccine in routine schedule *(2015)*
+
+Japanese encephalitis vaccine in routine schedule is given in how many doses -
+
+- A. Two doses 1 month apart with a booster after 1-2 years if
+- B. Single dose vaccine
+- C. Three doses 1 month apart followed by a booster if needed
+- D. Three doses with the second dose 1 month and 3' dose 6
+
+<details><summary>Answer</summary>
+
+**A. Two doses 1 month apart with a booster after 1-2 years if**
+
+</details>
+
+---
+
+### Q25 — Most vascular zone of the bone *(2015)*
+
+Most vascular zone of the bone is -
+
+- A. Metaphysis
+- B. Diaphysis
+- C. Epiphysis
+- D. Medullary Cavity
+
+<details><summary>Answer</summary>
+
+**A. Metaphysis**
+
+</details>
+
+---
+
+### Q26 — Trigger Finger Involves Which joint *(2015)*
+
+Trigger Finger Involves Which joint ?
+
+- A. Proximal Interphalngeal joint
+- B. Distal Interphalngeal foint
+- C. Metacarpophalangeal joint
+- D. Carpometacarpal joint
+
+<details><summary>Answer</summary>
+
+**C. Metacarpophalangeal joint**
+
+</details>
+
+---
+
+### Q27 — True regarding Monteggia fracture is March *(2015)*
+
+True regarding Monteggia fracture is: March 2007, March 2013 (a, b, d, f)
+
+- A. Upper ulnar fracture & dislocated radial head
+- B. Upper radial fracture & dislocated ulna
+- C. Lower radial fracture & dislocated ulna
+- D. Lower ulnar fracture & dislocated radius
+
+<details><summary>Answer</summary>
+
+**A. Upper ulnar fracture & dislocated radial head**
+
+</details>
+
+---
+
+### Q28 — Osteosclerosis is a feature of which *(2015)*
+
+Osteosclerosis is a feature of which of the followinga -
+
+- A. Rickets
+- B. Hyperparathyroidism
+- C. Pagets Disease
+- D. Osteogenesis Imperfecta
+
+<details><summary>Answer</summary>
+
+**C. Pagets Disease**
+
+</details>
+
+---
+
+### Q29 — Which of the following is a *(2016)*
+
+Which of the following is a branch of the inferior mesenteric artery?
+
+- A. Sigmoid artery
+- B. Middle colic artery
+- C. Renal artery
+- D. Right Colic artery
+
+<details><summary>Answer</summary>
+
+**A. Sigmoid artery**
+
+</details>
+
+---
+
+### Q30 — Which of the following causes of *(2016)*
+
+Which of the following causes of acute pancreatitis can cause recurrent bouts without any obvious pathology
+
+- A. Sphincter Oddi dysfunction
+- B. Pancreas divisum
+- C. Hypertriglyceridemia
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above**
+
+</details>
+
+---
+
+### Q31 — Mature finger grip comes at what *(2016)*
+
+Mature finger grip comes at what age?
+
+- A. 5 months
+- B. 7 months
+- C. 9 months
+- D. 1 year
+
+<details><summary>Answer</summary>
+
+**C. 9 months**
+
+</details>
+
+---
+
+### Q32 — Weight of an infant doubles by *(2016)*
+
+Weight of an infant doubles by what age?
+
+- A. 6 months
+- B. 1 year
+- C. 2 years
+- D. 3 years
+
+<details><summary>Answer</summary>
+
+**C. 2 years**
+
+</details>
+
+---
+
+### Q33 — Which of the following is the *(2016)*
+
+Which of the following is the most metabolically active part of long bone?
+
+- A. Epiphysis
+- B. Metaphysis
+- C. Diaphysis
+- D. Physis
+
+<details><summary>Answer</summary>
+
+**D. Physis**
+
+</details>
+
+---
+
+### Q34 — Continuous fixed traction is provided by *(2016)*
+
+Continuous fixed traction is provided by -
+
+- A. Thomas splint
+- B. BB splint
+- C. Hamilton Russel
+- D. Gallows
+
+<details><summary>Answer</summary>
+
+**A. Thomas splint**
+
+</details>
+
+---
+
+### Q35 — The last deformity to be corrected *(2016)*
+
+The last deformity to be corrected by Ponseti's method for CTEV is -
+
+- A. Heel Varus
+- B. Equinus
+- C. Foot Adduction
+- D. Cavus
+
+<details><summary>Answer</summary>
+
+**B. Equinus**
+
+</details>
+
+---
+
+### Q36 — Cubitus valgus develops as complication of *(2016)*
+
+Cubitus valgus develops as complication of -
+
+- A. Jupitor fracture
+- B. Smiths fracture
+- C. Malgaigne fracture
+- D. Staddle fracture
+
+<details><summary>Answer</summary>
+
+**A. Jupitor fracture**
+
+</details>
+
+---
+
+### Q37 — Which of the following statement is *(2017)*
+
+Which of the following statement is true about suture material in the image:
+
+- A. Made of rabbit submucosa
+- B. Made of cat submucosa
+- C. Not degraded
+- D. Degraded by enzymatic degradation
+
+<details><summary>Answer</summary>
+
+**D. Degraded by enzymatic degradation**
+
+</details>
+
+---
+
+### Q38 — Van nuys prognostic index is not *(2017)*
+
+Van nuys prognostic index is not based on:
+
+- A. Age
+- B. Microcalcification
+- C. Size
+- D. ER status
+
+<details><summary>Answer</summary>
+
+**D. ER status**
+
+</details>
+
+---
+
+### Q39 — Which of the following layers are *(2017)*
+
+Which of the following layers are cut during fasciotomy ?
+
+- A. Skin
+- B. Skin+subcutaneous fascia
+- C. Skin+subcutaneous tissue+Superficial fascia
+- D. Skin+subcutaneous tissue+Superficial fascia+deep fascia
+
+<details><summary>Answer</summary>
+
+**D. Skin+subcutaneous tissue+Superficial fascia+deep fascia**
+
+</details>
+
+---
+
+### Q40 — Which statement is not true regarding *(2017)*
+
+Which statement is not true regarding crohn's disease :
+
+- A. Rectum is not involved
+- B. Continuous lesion visualized in endoscopy
+- C. Non caseating granulomas
+- D. Cobblestone appearance
+
+<details><summary>Answer</summary>
+
+**B. Continuous lesion visualized in endoscopy**
+
+</details>
+
+---
+
+### Q41 — Which is the best investigation for *(2017)*
+
+Which is the best investigation for carcinoma head of pancreas:
+
+- A. Guided biopsy
+- B. ERCP
+- C. Transduodenal/transperitoneal sampling
+- D. EUS
+
+<details><summary>Answer</summary>
+
+**A. Guided biopsy**
+
+</details>
+
+---
+
+### Q42 — Common cause of chronic pancreatitis *(2017)*
+
+Common cause of chronic pancreatitis
+
+- A. Chronic alcohol
+- B. Chronic pancreatic calculi
+- C. pancreas divisum
+- D. Gall bladder stones
+
+<details><summary>Answer</summary>
+
+**A. Chronic alcohol**
+
+</details>
+
+---
+
+### Q43 — Abdominal mass is best demonstrated in *(2017)*
+
+Abdominal mass is best demonstrated in congenital hypertrophic pyloric stenosis by:
+
+- A. In palpation over epigastrium
+- B. In left hypochondriac
+- C. During feeding
+- D. Right iliac fossa
+
+<details><summary>Answer</summary>
+
+**D. Right iliac fossa**
+
+</details>
+
+---
+
+### Q44 — Calculate GCS of 25 old head *(2017)*
+
+Calculate GCS of 25 old head injury patient with following parameters confused,opening eyes in response to pain ,localising pain response to pain
+
+- A. 6
+- B. 11
+- C. 12
+- D. 7
+
+<details><summary>Answer</summary>
+
+**B. 11**
+
+</details>
+
+---
+
+### Q45 — RET proto oncogene is associate with *(2017)*
+
+RET proto oncogene is associate with development of
+
+- A. Medullary carcinoma thyroid
+- B. >Astrocytoma
+- C. >Paraganglioma
+- D. Hurthle cell tumor thyroid
+
+<details><summary>Answer</summary>
+
+**A. Medullary carcinoma thyroid**
+
+</details>
+
+---
+
+### Q46 — Cutoff for surgery in abdominal aortic *(2017)*
+
+Cutoff for surgery in abdominal aortic aneurysm in asymptomatic pts
+
+- A. 5.5cm
+- B. 6.5cm
+- C. 7.5cm
+- D. 8.5cm
+
+<details><summary>Answer</summary>
+
+**A. 5.5cm**
+
+</details>
+
+---
+
+### Q47 — Muscles affected in De quervain tenosynovitis *(2017)*
+
+Muscles affected in De quervain tenosynovitis
+
+- A. Abductor pollicis longus and extensor pollicis brevis
+- B. Adductor pollicis longus and extensor pollicis brevis
+- C. Abductor pollicis longus and Flexor pollicis brevis
+- D. Adductor pollicis longus and Flexor pollicis brevis
+
+<details><summary>Answer</summary>
+
+**A. Abductor pollicis longus and extensor pollicis brevis**
+
+</details>
+
+---
+
+### Q48 — APatient has history of RTA 2 *(2017)*
+
+APatient has history of RTA 2 years back, at the same sight he developed pain and swelling. Xray shows the following features . What will be the diagnosis?
+
+- A. Osteogenic sarcoma
+- B. Ewing's sarcoma
+- C. Chronic osteomyelitis
+- D. Multiple myeloma
+
+<details><summary>Answer</summary>
+
+**C. Chronic osteomyelitis**
+
+</details>
+
+---
+
+### Q49 — What is meant byPerilunate dislocations *(2017)*
+
+What is meant byPerilunate dislocations ?
+
+- A. Lower radius,scaphoid and lunate and capitate all in same plane
+- B. Lower radius,scaphoid and capitate in alignment,lunate alone out of plane
+- C. Lower radius,scaphoid and Lunate in alignment ,capitate alone is out of plane
+- D. Both lunate and capitate are out of plane
+
+<details><summary>Answer</summary>
+
+**B. Lower radius,scaphoid and capitate in alignment,lunate alone out of plane**
+
+</details>
+
+---
+
+### Q50 — Identify the bone numbered in the *(2017)*
+
+Identify the bone numbered in the X-ray below that most commonly fracture when a person falls on outstretched hands ?
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**A. 1**
+
+</details>
+
+---
