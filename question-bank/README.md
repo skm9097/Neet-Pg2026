@@ -9,45 +9,46 @@ question-bank/
 ├── ATTRIBUTION.md          Source attribution & use notice
 ├── STUDY-PLAN.md           Suggested study schedule + how to use this repo
 ├── template.md             Schema for adding new questions
-├── subject-wise/           Multi-year pools across all 19 subjects (~400 Qs)
+├── subject-wise/           Multi-year pools across all 19 subjects (~1,296 Qs)
 │   ├── README.md
 │   ├── anaesthesia.md       (27 Qs)
-│   ├── anatomy.md           (20 Qs)
+│   ├── anatomy.md           (99 Qs)
 │   ├── biochemistry.md      (20 Qs)
-│   ├── community-medicine.md (20 Qs)
+│   ├── community-medicine.md (260 Qs)
 │   ├── dermatology.md       (20 Qs)
 │   ├── ent.md               (20 Qs)
 │   ├── forensic-medicine.md (35 Qs)
 │   ├── medicine.md          (20 Qs)
 │   ├── microbiology.md      (20 Qs)
-│   ├── obstetrics-gynaecology.md (88 Qs)
-│   ├── ophthalmology.md     (15 Qs)
+│   ├── obstetrics-gynaecology.md (491 Qs)
+│   ├── ophthalmology.md     (31 Qs)
 │   ├── orthopaedics.md      (40 Qs)
 │   ├── pathology.md         (18 Qs)
 │   ├── pediatrics.md        (14 Qs)
-│   ├── pharmacology.md      (10 Qs)
-│   ├── physiology.md        (16 Qs)
+│   ├── pharmacology.md      (25 Qs)
+│   ├── physiology.md        (100 Qs)
 │   ├── psychiatry.md        (20 Qs)
-│   ├── radiology.md         (15 Qs)
+│   ├── radiology.md         (36 Qs)
 │   └── surgery.md           (20 Qs)
-├── 2025/questions.md       All 200 NEET-PG 2025 recall questions
-├── 2024/questions.md       40 Qs (recall)
-├── 2023/questions.md       35 Qs (recall)
-├── 2022/questions.md       29 Qs (recall)
-├── 2021/questions.md       36 Qs (recall)
-├── 2020/questions.md       127 Qs (recall + medicoholic PDF)
-├── 2019/questions.md       107 Qs (recall + medicoholic PDF)
-└── 2015–2018/              index.md only (PDF source links provided)
+├── 2025/questions.md       200 Qs (full DigiNerve recall set)
+├── 2024/questions.md       306 Qs (DocTutorials Shift 1+2)
+├── 2023/questions.md       212 Qs (PrepLadder + Medicoholic PDF)
+├── 2022/questions.md       222 Qs (PrepLadder + Medicoholic PDF)
+├── 2021/questions.md       227 Qs (PrepLadder recall)
+├── 2020/questions.md       390 Qs (Medicoholic PYQ compilation)
+├── 2019/questions.md       345 Qs (Medicoholic PYQ compilation)
+├── 2018/questions.md       348 Qs (PrepLadder + Medicoholic PDF)
+├── 2017/questions.md       258 Qs (Medicoholic PYQ compilation)
+├── 2016/questions.md       153 Qs (Medicoholic PYQ compilation)
+└── 2015/questions.md       168 Qs (Medicoholic PYQ compilation)
 ```
 
-**Current totals:**
-- **Year-wise:** ~400 questions (2019–2025, with full 200 for 2025)
-- **Subject-wise:** ~400 questions across all 19 NBE subjects
-- **Combined unique:** ~700 distinct questions
+**Current totals (as of 2026-05-23):**
+- **Year-wise:** ~2,829 questions across 2015–2025
+- **Subject-wise:** ~1,296 questions across all 19 NBE subjects
+- **Combined unique:** ~3,500+ distinct questions (with OBG subject-wise heavily expanded)
 
-**Gaps (with sources):** 2015–2018 papers exist only as PDFs at
-medicoholic.com, nishantbhushan.in, and Oncourse AI — links provided in each
-year's `index.md`. Manual download required.
+**Remaining gaps:** 2021 (227 recall only — no official PDF with answer key found); subject-wise files for Pathology (18), Paediatrics (14), Biochemistry/Dermatology/ENT/Medicine/Microbiology/Psychiatry/Surgery (20 each), Pharmacology (25) need expansion.
 
 ## Question Format
 

@@ -60,13 +60,16 @@ Neet-Pg2026/
     │   └── surgery.md               (20 Qs)
     │
     ├── 2025/questions.md            ← 200 Qs (full DigiNerve recall set)
-    ├── 2024/questions.md            ← 40 Qs (recall, partial)
-    ├── 2023/questions.md            ← 35 Qs (recall, partial)
-    ├── 2022/questions.md            ← 29 Qs (recall, partial)
-    ├── 2021/questions.md            ← 36 Qs (recall, partial)
-    ├── 2020/questions.md            ← 36 Qs (recall, partial)
-    ├── 2019/questions.md            ← 22 Qs (recall, partial)
-    ├── 2015–2018/                   ← index.md only; PDF source links provided
+    ├── 2024/questions.md            ← 306 Qs (DocTutorials Shift 1+2)
+    ├── 2023/questions.md            ← 212 Qs (PrepLadder + Medicoholic)
+    ├── 2022/questions.md            ← 222 Qs (PrepLadder + Medicoholic)
+    ├── 2021/questions.md            ← 227 Qs (PrepLadder recall)
+    ├── 2020/questions.md            ← 390 Qs (Medicoholic PYQ)
+    ├── 2019/questions.md            ← 345 Qs (Medicoholic PYQ)
+    ├── 2018/questions.md            ← 348 Qs (PrepLadder + Medicoholic)
+    ├── 2017/questions.md            ← 258 Qs (Medicoholic PYQ)
+    ├── 2016/questions.md            ← 153 Qs (Medicoholic PYQ)
+    ├── 2015/questions.md            ← 168 Qs (Medicoholic PYQ)
     │
     ├── staging/                     ← unverified extracted questions pending review
     │   └── README.md
@@ -79,12 +82,14 @@ Neet-Pg2026/
         └── 2022-2024/               ← raw content for recent years
 ```
 
-**Current totals:**
-- Year-wise: ~777 questions (2019–2025, full 200 for 2025 and 2021)
-- Subject-wise: ~835 questions across all 19 NBE subjects
-- Combined unique: ~1,200 distinct questions
-- Gap: 2015–2018 (0 questions; PDF source links in each year's `index.md`)
+**Current totals (as of 2026-05-23):**
+- Year-wise: ~2,829 questions (2015–2025, all years covered)
+- Subject-wise: ~1,296 questions across all 19 NBE subjects
+- Combined unique: ~3,500+ distinct questions
+- Gap: 2021 (227 Qs recall only, no official PDF source with answer key)
 - PSM/Community Medicine: 260 Qs (most complete subject)
+- OBG: 491 Qs (subject-wise, extensively expanded)
+- Anatomy/Physiology: 99/100 Qs (subject-wise)
 
 ---
 
@@ -93,9 +98,9 @@ Neet-Pg2026/
 The owner has ~90 days to exam. Strategy is reactivation, not relearning from zero.
 
 ### Priority order for Claude when building/expanding the question bank:
-1. **Fill year-wise gaps first** — 2019–2024 each have only 22–40 Qs vs. the full 200. Finding additional recall questions for these years is the highest-impact task.
-2. **2015–2018 second** — These are 300-question papers (old format). Even 50–100 Qs per year from HTML sources is valuable.
-3. **Subject-wise depth third** — Low-count subjects (Pediatrics 14 Qs, Pathology 18 Qs, Biochemistry/Dermatology/ENT/Medicine/Microbiology/Psychiatry/Surgery 20 Qs each, Pharmacology 25 Qs) need more questions. Community Medicine (260 Qs), Physiology (100 Qs), Anatomy (99 Qs) are well-developed.
+1. **Subject-wise depth** — Low-count subjects need expansion: Pathology 18 Qs, Biochemistry/Dermatology/ENT/Medicine/Microbiology/Psychiatry/Surgery 20 Qs each, Pharmacology 25 Qs, Paediatrics 14 Qs. Community Medicine (260 Qs), OBG (491 Qs), Physiology (100 Qs), Anatomy (99 Qs) are well-developed.
+2. **2021 year gap** — Only 227 recall questions; no official PDF source with answer key found. Try PrepLadder or other sources.
+3. **Quality improvements** — Some year-wise questions have keyword misclassification by subject; consider re-sorting by subject for easier subject-wise study.
 
 ### Active recall beats passive reading
 The collapsible `<details><summary>Answer</summary>` blocks in every `.md` file are the core UX. Users open a file, attempt answers mentally, then click to reveal. Never put the answer inline.
