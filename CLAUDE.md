@@ -61,12 +61,12 @@ Neet-Pg2026/
     │
     ├── 2025/questions.md            ← 200 Qs (full DigiNerve recall set)
     ├── 2024/questions.md            ← 306 Qs (DocTutorials Shift 1+2)
-    ├── 2023/questions.md            ← 212 Qs (PrepLadder + Medicoholic)
-    ├── 2022/questions.md            ← 222 Qs (PrepLadder + Medicoholic)
+    ├── 2023/questions.md            ← 211 Qs (PrepLadder + Medicoholic)
+    ├── 2022/questions.md            ← 220 Qs (PrepLadder + Medicoholic)
     ├── 2021/questions.md            ← 227 Qs (PrepLadder recall)
     ├── 2020/questions.md            ← 390 Qs (Medicoholic PYQ)
-    ├── 2019/questions.md            ← 345 Qs (Medicoholic PYQ)
-    ├── 2018/questions.md            ← 348 Qs (PrepLadder + Medicoholic)
+    ├── 2019/questions.md            ← 381 Qs (Medicoholic + nishantbhushan.in)
+    ├── 2018/questions.md            ← 322 Qs (PrepLadder + Medicoholic)
     ├── 2017/questions.md            ← 258 Qs (Medicoholic PYQ)
     ├── 2016/questions.md            ← 153 Qs (Medicoholic PYQ)
     ├── 2015/questions.md            ← 168 Qs (Medicoholic PYQ)
@@ -82,14 +82,15 @@ Neet-Pg2026/
         └── 2022-2024/               ← raw content for recent years
 ```
 
-**Current totals (as of 2026-05-23):**
-- Year-wise: ~2,829 questions (2015–2025, all years covered)
-- Subject-wise: ~1,296 questions across all 19 NBE subjects
-- Combined unique: ~3,500+ distinct questions
+**Current totals (as of 2026-05-24, post-audit):**
+- Year-wise: 2,836 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
+- Subject-wise: 1,693 questions across all 19 NBE subjects
+- Combined unique: ~3,900 distinct stems
 - Gap: 2021 (227 Qs recall only, no official PDF source with answer key)
 - PSM/Community Medicine: 260 Qs (most complete subject)
 - OBG: 491 Qs (subject-wise, extensively expanded)
 - Anatomy/Physiology: 99/100 Qs (subject-wise)
+- Quality: subject headings standardized (Paediatrics, Community Medicine); 3 cross-file answer conflicts resolved; 2 malformed answer blocks fixed
 
 ---
 

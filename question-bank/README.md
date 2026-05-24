@@ -32,21 +32,22 @@ question-bank/
 │   └── surgery.md           (50 Qs)
 ├── 2025/questions.md       200 Qs (full DigiNerve recall set)
 ├── 2024/questions.md       306 Qs (DocTutorials Shift 1+2)
-├── 2023/questions.md       212 Qs (PrepLadder + Medicoholic PDF)
-├── 2022/questions.md       222 Qs (PrepLadder + Medicoholic PDF)
+├── 2023/questions.md       211 Qs (PrepLadder + Medicoholic PDF)
+├── 2022/questions.md       220 Qs (PrepLadder + Medicoholic PDF)
 ├── 2021/questions.md       227 Qs (PrepLadder recall)
 ├── 2020/questions.md       390 Qs (Medicoholic PYQ compilation)
-├── 2019/questions.md       401 Qs (Medicoholic + nishantbhushan.in PDFs)
-├── 2018/questions.md       348 Qs (PrepLadder + Medicoholic PDF)
+├── 2019/questions.md       381 Qs (Medicoholic + nishantbhushan.in PDFs)
+├── 2018/questions.md       322 Qs (PrepLadder + Medicoholic PDF)
 ├── 2017/questions.md       258 Qs (Medicoholic PYQ compilation)
 ├── 2016/questions.md       153 Qs (Medicoholic PYQ compilation)
 └── 2015/questions.md       168 Qs (Medicoholic PYQ compilation)
 ```
 
-**Current totals (as of 2026-05-23):**
-- **Year-wise:** 2,885 questions across 2015–2025 (all years covered)
-- **Subject-wise:** 1,695 questions across all 19 NBE subjects
-- **Combined unique:** ~4,000+ distinct questions
+**Current totals (as of 2026-05-24, post-audit):**
+- **Year-wise:** 2,836 questions across 2015–2025 (all years covered)
+- **Subject-wise:** 1,693 questions across all 19 NBE subjects
+- **Combined unique:** ~3,900+ distinct stems
+- **Audit results:** 0 within-file duplicates, all answer-letter conflicts resolved, sequential Q-numbering verified across all years
 
 | Subject | Year-wise | Subject-wise |
 |---------|-----------|--------------|
