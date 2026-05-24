@@ -836,3 +836,1801 @@ Identify the bone numbered in the X-ray below that most commonly fracture when a
 </details>
 
 ---
+
+## Year 2017
+
+### Q51 — Fallen fragment sign *(2017)*
+
+Fallen fragment sign
+
+- A. Simple bone cyst
+- B. Osteosarcoma
+- C. Adamantinoma
+- D. Aneurysmal bone cyst
+
+<details><summary>Answer</summary>
+
+**A. Simple bone cyst**
+
+</details>
+
+---
+
+---
+
+### Q52 — You are posted as an intern *(2017)*
+
+You are posted as an intern in causality.Which among the following patients with fracture will be your 1st priority to call ortho PG and inform?
+
+- A. Patient's finger is blackening
+- B. Patient can't extend his arm
+- C. A 10 cm abrasion
+- D. Intra articular fracture of Elbow Joint
+
+<details><summary>Answer</summary>
+
+**A. Patient's finger is blackening**
+
+</details>
+
+---
+
+---
+
+### Q53 — In Rheumatoid arthritis, which type of *(2017)*
+
+In Rheumatoid arthritis, which type of cells are prominently present ?
+
+- A. B cells
+- B. T cells
+- C. Macrophages
+- D. Dendritic cells
+
+<details><summary>Answer</summary>
+
+**B. T cells**
+
+</details>
+
+---
+
+---
+
+### Q54 — 8th and 9th rib costal cartilage *(2017)*
+
+8th and 9th rib costal cartilage forms which type of joint?
+
+- A. Costochondral joint
+- B. Interchondral joint
+- C. Synovial joint
+- D. Costovertebral joint
+
+<details><summary>Answer</summary>
+
+**C. Synovial joint**
+
+</details>
+
+---
+
+---
+
+
+## Year 2018
+
+### Q55 — Minimal dysfunction syndrome seen in *(2018)*
+
+Minimal dysfunction syndrome seen in
+
+- A. Dyslexia
+- B. ADHD
+- C. Mental subnormality
+- D. Down’s syndrome
+
+<details><summary>Answer</summary>
+
+**A. Dyslexia**
+
+</details>
+
+---
+
+---
+
+### Q56 — The following statement about Keloid is *(2018)*
+
+The following statement about Keloid is true
+
+- A. It contain growth factor
+- B. Extended excision is the treatment of choice
+- C. It do not extend beyond the wound
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. It contain growth factor**
+
+</details>
+
+---
+
+---
+
+### Q57 — An abdominal mass is best demonstrated *(2018)*
+
+An abdominal mass is best demonstrated in congenital hypertrophic pyloric stenosis by
+
+- A. In palpation over the epigastrium
+- B. In left hypochondriac
+- C. Right iliac fossa
+- D. During feeding
+
+<details><summary>Answer</summary>
+
+**D. During feeding**
+
+</details>
+
+---
+
+---
+
+### Q58 — RET proto-oncogene is associated with the *(2018)*
+
+RET proto-oncogene is associated with the development of
+
+- A. Medullary carcinoma thyroid
+- B. Astrocytoma
+- C. Paraganglioma
+- D. Hurthle cell tumor thyroid
+
+<details><summary>Answer</summary>
+
+**A. Medullary carcinoma thyroid**
+
+</details>
+
+---
+
+---
+
+### Q59 — Dye used in diagnosis of esophageal *(2018)*
+
+Dye used in diagnosis of esophageal perforation
+
+- A. Iohexol
+- B. Barium sulphate
+- C. Gadolinium
+- D. Iodine dye
+
+<details><summary>Answer</summary>
+
+**B. Barium sulphate**
+
+</details>
+
+---
+
+---
+
+### Q60 — Salt and Pepper pot appearance of *(2018)*
+
+Salt and Pepper pot appearance of skull seen in
+
+- A. Hyperparathyroidism
+- B. Multiple myeloma
+- C. Hyperthyroidism
+- D. Pseudo hyperparathyroidism
+
+<details><summary>Answer</summary>
+
+**A. Hyperparathyroidism**
+
+</details>
+
+---
+
+---
+
+### Q61 — Maastricht classification of donation after cardia *(2018)*
+
+Maastricht classification of donation after cardiac death.What category is stage 3
+
+- A. Awaiting cardiac arrest
+- B. Brought in dead
+- C. Unsuccessful resuscitation
+- D. Cardiac arrest after brain-stem death
+
+<details><summary>Answer</summary>
+
+**A. Awaiting cardiac arrest**
+
+</details>
+
+---
+
+---
+
+
+## Year 2019
+
+### Q62 — Dohlman's procedure
+
+Dohlman's procedure is for?
+
+- A. Meckel's diverticulum
+- B. Zenker's diverticulum
+- C. Bochdalek hernia
+- D. Ménétrier disease
+
+<details><summary>Answer</summary>
+
+**B. Zenker's diverticulum** — Endoscopic cricopharyngeal myotomy with division of the septum.
+</details>
+
+---
+
+---
+
+### Q63 — CEAP score indicates *(2019)*
+
+CEAP score indicates:
+
+- A. Atrial disorders
+- B. Venous disorder
+- C. Neurological disorder
+- D. Trauma disorder
+
+<details><summary>Answer</summary>
+
+**B. Venous disorder**
+
+</details>
+
+---
+
+---
+
+### Q64 — Cushing ulcer is seen in case of *(2019)*
+
+Cushing ulcer is seen in case of:
+
+- A. Burns
+- B. Head injury
+- C. Cell necrosis
+- D. Stress
+
+<details><summary>Answer</summary>
+
+**B. Head injury**
+
+</details>
+
+---
+
+---
+
+
+## Year 2020
+
+### Q65 — Most common gastrinoma site
+
+Most common gastrinoma site in MEN-1?
+
+- A. Jejunum
+- B. Ileum
+- C. Stomach
+- D. Duodenum
+
+<details><summary>Answer</summary>
+
+**D. Duodenum** — In MEN-1, duodenal gastrinomas are most common (60–80%). Often multiple, small.
+</details>
+
+---
+
+### Q66 — Aortoiliac claudication
+
+A 50-year-old smoker with claudication pain at 500 m. Site?
+
+- A. Superficial femoral artery
+- B. Femoral venous insufficiency
+- C. Profunda femoris
+- D. Aortoiliac involvement
+
+<details><summary>Answer</summary>
+
+**D. Aortoiliac (Leriche syndrome)** — Buttock/thigh claudication + impotence + diminished femoral pulses.
+</details>
+
+---
+
+---
+
+### Q67 — The patient is present with fecal *(2020)*
+
+The patient is present with fecal peritonitis and during laparotomy, a diverticular perforation is seen. Which stage is classified according to
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**D. 4**
+
+</details>
+
+---
+
+---
+
+### Q68 — A pregnant female had Meconium stained *(2020)*
+
+A pregnant female had Meconium stained liquor and underwent emergency LSCS. A few days later her condition deteriorated. USG showed edematous
+
+- A. Meconium peritonitis
+- B. Paralytic ileus
+- C. Adhesive intestinal obstruction
+- D. Intra-abdominal abscess
+
+<details><summary>Answer</summary>
+
+**B. Paralytic ileus**
+
+</details>
+
+---
+
+---
+
+### Q69 — Identify the radiological sign given below- *(2020)*
+
+Identify the radiological sign given below-
+
+- A. Diverticulitis
+- B. Ischaemic colitis
+- C. Appendicitis
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Ischaemic colitis**
+
+</details>
+
+---
+
+---
+
+### Q70 — Identify the radiological image given below- *(2020)*
+
+Identify the radiological image given below-
+
+- A. Intussusception
+- B. Carcinoma colon
+- C. Sigmoid volvulus
+- D. Sigmoid volvulus
+
+<details><summary>Answer</summary>
+
+**A. Intussusception**
+
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q71 — Low-risk prostate cancer
+
+A 75-year-old with prostate carcinoma, PSA 9, Gleason 6. Management?
+
+- A. Radical prostatectomy
+- B. EBRT
+- C. Brachytherapy
+- D. Active surveillance
+
+<details><summary>Answer</summary>
+
+**D. Active surveillance** — Low-risk disease (Gleason ≤6, PSA <10) in elderly → surveillance preferred.
+</details>
+
+---
+
+### Q72 — Stable abdominal trauma
+
+A patient post-RTA with stable vitals, left lumbar tenderness. Best investigation?
+
+- A. CECT abdomen
+- B. Retrograde urethrogram
+- C. Wait and watch
+- D. Emergency laparotomy
+
+<details><summary>Answer</summary>
+
+**A. CECT abdomen** — Best for stable patients to identify solid-organ injury.
+</details>
+
+---
+
+---
+
+
+## Year 2022
+
+### Q73 — Post-thyroidectomy perioral numbness
+
+Day 3 post-thyroidectomy, patient develops perioral numbness. Investigation?
+
+- A. Free T3, T4
+- B. T3, T4, TSH
+- C. Radioiodine scan
+- D. Calcium, phosphate, PTH
+
+<details><summary>Answer</summary>
+
+**D. Ca, PO₄, PTH** — Hypocalcaemia from inadvertent parathyroidectomy. Chvostek/Trousseau positive.
+</details>
+
+---
+
+### Q74 — Saccular aneurysm rupture
+
+Saccular aneurysm rupture causes?
+
+- A. Subdural haemorrhage
+- B. Subarachnoid haemorrhage
+- C. Intracerebral haemorrhage
+- D. Hydrocephalus
+
+<details><summary>Answer</summary>
+
+**B. Subarachnoid haemorrhage** — Berry aneurysm (Circle of Willis) rupture → SAH.
+</details>
+
+---
+
+---
+
+### Q75 — A 45-year-old female patient underwent a *(2022)*
+
+A 45-year-old female patient underwent a thyroidectomy. Three days after the surgery, she developed perioral numbness. Which of the following investigations need to be done for her?
+
+- A. Free T3, T4
+- B. T3, T4, thyroid–stimulating hormone
+- C. Radioiodine scan
+- D. Calcium, phosphate, and parathormone levels
+
+<details><summary>Answer</summary>
+
+**D. Calcium, phosphate, and parathormone levels**
+
+</details>
+
+---
+
+---
+
+### Q76 — A 59-year-old lady presents with a *(2022)*
+
+A 59-year-old lady presents with a progressive, painless lump in the breast. What is the cause for the following skin change?
+
+- A. Infiltration of subdermal lymphatics
+- B. Infiltration of the lactiferous duct
+- C. Involvement of Cooper’s ligament
+- D. Spread of the tumor to the anterior chest wall
+
+<details><summary>Answer</summary>
+
+**A. Infiltration of subdermal lymphatics**
+
+</details>
+
+---
+
+---
+
+### Q77 — Which of the following is most *(2022)*
+
+Which of the following is most likely to be seen due to the rupture of a saccular aneurysm?
+
+- A. Subdural hemorrhage
+- B. Subarachnoid hemorrhage
+- C. Intracerebral hemorrhage
+- D. Hydrocephalus
+
+<details><summary>Answer</summary>
+
+**B. Subarachnoid hemorrhage**
+
+</details>
+
+---
+
+---
+
+### Q78 — A male patient presented with a *(2022)*
+
+A male patient presented with a 0.3 cm nodule on the left nasolabial fold. It was excised, and a pathological examination was done. What is the diagnosis?
+
+- A. Basal cell carcinoma
+- B. Melanoma
+- C. Squamous cell carcinoma
+- D. Nevus
+
+<details><summary>Answer</summary>
+
+**A. Basal cell carcinoma**
+
+</details>
+
+---
+
+---
+
+### Q79 — A young male patient with a *(2022)*
+
+A young male patient with a history of a motor vehicle accident cannot pass urine. Blood is seen at the meatus. What is the most likely site of urethral injury?
+
+- A. Bulbar urethra
+- B. Spongy urethra
+- C. Membranous urethra
+- D. Penile urethra
+
+<details><summary>Answer</summary>
+
+**C. Membranous urethra**
+
+</details>
+
+---
+
+---
+
+### Q80 — A patient presents with prostate carcinoma, *(2022)*
+
+A patient presents with prostate carcinoma, which has now spread to the vertebra. What is the route of spread to the lumbar vertebra?
+
+- A. Prostatic venous plexus
+- B. Transcoelomic spread
+- C. Inferior vesical vein
+- D. Internal iliac vein
+
+<details><summary>Answer</summary>
+
+**A. Prostatic venous plexus**
+
+</details>
+
+---
+
+---
+
+### Q81 — A male patient presents with impotence *(2022)*
+
+A male patient presents with impotence and bilateral resting pain. The following finding is seen in the legs. At which level has the pathology occurred?
+
+- A. Bilateral popliteal arteries
+- B. Bilateral internal iliac arteries
+- C. Aortoiliac bifurcation
+- D. Bilateral femoral arteries
+
+<details><summary>Answer</summary>
+
+**C. Aortoiliac bifurcation**
+
+</details>
+
+---
+
+---
+
+### Q82 — Identify the most common site of *(2022)*
+
+Identify the most common site of an intraperitoneal abscess.
+
+- A. Suprahepatic
+- B. Subhepatic
+- C. Left lobe of liver
+- D. Left side below diaphragm
+
+<details><summary>Answer</summary>
+
+**B. Subhepatic**
+
+</details>
+
+---
+
+---
+
+### Q83 — A man complained of recurrent discharge *(2022)*
+
+A man complained of recurrent discharge and pain due to lesions around the anus for 3 years. What is the diagnosis?
+
+- A. Pilonidal sinus
+- B. Carbuncle
+- C. Boil
+- D. Fistula in ano
+
+<details><summary>Answer</summary>
+
+**D. Fistula in ano**
+
+</details>
+
+---
+
+---
+
+### Q84 — According to triage, which of the *(2022)*
+
+According to triage, which of the following categories of patients comes under green?
+
+- A. Ambulatory patients
+- B. Medium risk patients
+- C. High-risk patients
+- D. Dead patients
+
+<details><summary>Answer</summary>
+
+**A. Ambulatory patients**
+
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q85 — Verrucous carcinoma penis
+
+A 55-year-old male with verrucous carcinoma around glans, no enlarged inguinal nodes. Management?
+
+- A. Total penectomy
+- B. CO₂ laser excision
+- C. Topical 5-FU
+- D. Partial penectomy
+
+<details><summary>Answer</summary>
+
+**D. Partial penectomy** — Adequate when 2 cm clearance preserves functional stump.
+</details>
+
+---
+
+### Q86 — APR complication — first vessel ligation
+
+Most common complication after ligating the first vessel during abdominoperineal resection (IMA).
+
+- A. Parasympathetic — bladder dysfunction + retrograde ejaculation
+- B. Sympathetic — bladder dysfunction + impotence
+- C. Sympathetic — retrograde ejaculation + bladder dysfunction
+- D. Sympathetic — impotence + perineal sensory loss
+
+<details><summary>Answer</summary>
+
+**C. Sympathetic** — Damage to superior hypogastric plexus → retrograde ejaculation + bladder dysfunction.
+</details>
+
+---
+
+---
+
+### Q87 — A 55-year-old male presented with verrucous *(2023)*
+
+A 55-year-old male presented with verrucous carcinoma around the glans of the penis. Examination reveals that the inguinal lymph nodes are not enlarged. What is the appropriate management for this patient?
+
+- A. Total penectomy
+- B. CO2 laser excision
+- C. Topical 5-fluorouracil
+- D. Partial penectomy
+
+<details><summary>Answer</summary>
+
+**D. Partial penectomy**
+
+</details>
+
+---
+
+---
+
+### Q88 — A diabetic patient presents with sudden-onset *(2023)*
+
+A diabetic patient presents with sudden-onset perineal pain. On examination, foul-smelling discharge, and necrotic tissue as seen in the image is noted. Which of the following is true about the given condition? ep
+
+- A. Anti-gas gangrene serum indicated for all cases
+- B. Urinary diversion is the next step
+- C. Bilateral orchidectomy must be done
+- D. Mixed aerobic and anaerobic infection
+
+<details><summary>Answer</summary>
+
+**D. Mixed aerobic and anaerobic infection**
+
+</details>
+
+---
+
+---
+
+### Q89 — Which of the following is the *(2023)*
+
+Which of the following is the most common complication following ligation of the first vessel during abdominoperineal resection for rectal carcinoma? (APR Abdominoperineal resection)
+
+- A. Parasympathetic-bladder dysfunction and retrograde ejaculation.
+- B. Sympathetic - - bladder dysfunction and impotence.
+- C. Sympathetic- retrograde ejaculation and bladder dysfunction.
+- D. Sympathetic-Impotence and loss of cutaneous sensation in perineal region
+
+<details><summary>Answer</summary>
+
+**C. Sympathetic- retrograde ejaculation and bladder dysfunction.**
+
+</details>
+
+---
+
+---
+
+### Q90 — A 45-year-old male underwent bilateral laparoscopi *(2023)*
+
+A 45-year-old male underwent bilateral laparoscopic hernia repair for inguinal hernia. Postoperatively, he complained of pain in the right thigh. Which of the following nerve entrapment leads to this symptom? er
+
+- A. Ilioinguinal nerve
+- B. Iliohypogastric nerve
+- C. Femoral nerve
+- D. Lateral cutaneous nerve of thigh
+
+<details><summary>Answer</summary>
+
+**D. Lateral cutaneous nerve of thigh**
+
+</details>
+
+---
+
+---
+
+### Q91 — Echinococcus species is involved in etiology *(2023)*
+
+Echinococcus species is involved in etiology Ans: 4 A patient who is a known case of alcohol dependence syndrome presents with sudden and unintentional weight loss. What is the most likely diagnosis? -ALP 240 IU/L -S. Direct bilirubin - 1 mg/dL -AST/ALT -0.5 -Alpha fetoprotein- 600 ng/mL
+
+- A. Hepatic adenoma
+- B. Cholangiocarcinoma
+- C. Hepatocellular carcinoma
+- D. Alcoholic hepatitis
+
+<details><summary>Answer</summary>
+
+**D. Alcoholic hepatitis**
+
+</details>
+
+---
+
+---
+
+### Q92 — A female patient with hearing loss *(2023)*
+
+A female patient with hearing loss is examined and is found to be Rinne negative at 256 Hz and 512 Hz, while Rinne positive at 1024 Hz. What is the expected air conduction and bone conduction gap?
+
+- A. 30-45 dB
+- B. 15-30 dB
+- C. 45-60 dB
+- D. >60 dB
+
+<details><summary>Answer</summary>
+
+**A. 30-45 dB**
+
+</details>
+
+---
+
+---
+
+### Q93 — A 50-year-old patient with a history *(2023)*
+
+A 50-year-old patient with a history of trauma one week back presents with confusion and ataxia. He is on treatment for alcohol dependence and his last intake was 2 weeks back. CT scan reveals the following finding. What is the diagnosis? ep
+
+- A. Extradural hemorrhage
+- B. Subdural hemorrhage
+- C. Intra-parenchymal hemorrhage
+- D. Subarachnoid hemorrhage
+
+<details><summary>Answer</summary>
+
+**B. Subdural hemorrhage**
+
+</details>
+
+---
+
+---
+
+### Q94 — Which of the following is false *(2023)*
+
+Which of the following is false about the given condition?
+
+- A. Repeated radical surgery every 24 hours may be required to adequately manage this condition La
+- B. This is a case of Meleney's gangrene
+- C. The condition is caused by β hemolytic streptococcus and may sometimes be polymicrobial
+- D. Hyperbaric oxygen has no role in the treatment of this condition
+
+<details><summary>Answer</summary>
+
+**D. Hyperbaric oxygen has no role in the treatment of this condition**
+
+</details>
+
+---
+
+---
+
+### Q95 — A construction worker came to the *(2023)*
+
+A construction worker came to the OPD complaining of white fingers. He has been working in the cement and concrete industry and has been working on heavy machinery drills, wood, and furniture polishing for 20 years. What is the most likely etiology for this condition? Pr
+
+- A. Candidal infection of the fingers due to continuous exposure to water
+- B. Exposure to thinners and paints
+- C. Continuous exposure to cement and concrete
+- D. Continuous exposure to drills and machines
+
+<details><summary>Answer</summary>
+
+**D. Continuous exposure to drills and machines**
+
+</details>
+
+---
+
+---
+
+### Q96 — A patient with a previous history *(2023)*
+
+A patient with a previous history of myocardial infarction and ventricular arrhythmia is on treatment for a few months. He developed fatigue, dyspnea, and weight gain. He had also developed pulmonary fibrosis. Which of the following drugs is responsible for the side effects mentioned above?
+
+- A. Amiodarone
+- B. Atenolol
+- C. Aspirin
+- D. Spironolactone
+
+<details><summary>Answer</summary>
+
+**A. Amiodarone**
+
+</details>
+
+---
+
+---
+
+### Q97 — A chronic smoker was on nicotine *(2023)*
+
+A chronic smoker was on nicotine replacement therapy and clonidine tablets for smoking de-addiction. He stopped taking clonidine tablets and now presents with a headache. What is the reason behind this condition?
+
+- A. Postural hypotension
+- B. Receptor upregulation
+- C. Rebound hypertension
+- D. Receptor hypersensitivity
+
+<details><summary>Answer</summary>
+
+**C. Rebound hypertension**
+
+</details>
+
+---
+
+---
+
+### Q98 — A patient with varicose veins complains *(2023)*
+
+A patient with varicose veins complains of eczema over the same region. What is the stage of the clinical classification according to the CEAP guidelines? CEAP-Clinical-Aetiology-Anatomy- Pathophysiology classification of chronic venous disorders
+
+- A. C2
+- B. C3
+- C. C4a
+- D. C4b
+
+<details><summary>Answer</summary>
+
+**C. C4a**
+
+</details>
+
+---
+
+---
+
+### Q99 — A 20-year-old female patient consumed a *(2023)*
+
+A 20-year-old female patient consumed a cleaning product containing 90% sodium hydroxide. She is having complete dysphagia. What is the best step in management?
+
+- A. Esophagojejunostomy
+- B. Stent placement
+- C. Feeding jejunostomy
+- D. Gastrojejunostomy
+
+<details><summary>Answer</summary>
+
+**C. Feeding jejunostomy**
+
+</details>
+
+---
+
+---
+
+### Q100 — A 23-year-old male patient presents with *(2023)*
+
+A 23-year-old male patient presents with midline swelling in the neck. The swelling moves with deglutition and protrusion of the tongue. What is the likely diagnosis?
+
+- A. Brachial cyst
+- B. Thyroglossal cyst
+- C. Plunging ranula
+- D. Dermoid cyst
+
+<details><summary>Answer</summary>
+
+**B. Thyroglossal cyst**
+
+</details>
+
+---
+
+---
+
+### Q101 — A 54-year-old woman presents with cervical *(2023)*
+
+A 54-year-old woman presents with cervical cancer stage 2A. It is decided to give neoadjuvant chemotherapy. What does neoadjuvant chemotherapy mean?
+
+- A. Chemotherapy is given along with radiation.
+- B. Chemotherapy is given during surgery.
+- C. Chemotherapy is given before radical surgery to reduce the bulk of the tumor
+- D. Chemotherapy is given after radical surgery for micrometastases
+
+<details><summary>Answer</summary>
+
+**C. Chemotherapy is given before radical surgery to reduce the bulk of the tumor**
+
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q102 — Suprapubic catheter instrument
+
+Instrument used to insert a specific tube (suprapubic catheter).
+
+- A. Nephroscope
+- B. Cysto-urethroscope
+- C. Ureteroscope
+- D. Endoscope
+
+<details><summary>Answer</summary>
+
+**B. Cysto-urethroscope** — Used in cystoscopy-assisted suprapubic catheterisation.
+</details>
+
+---
+
+### Q103 — VAC therapy pressure
+
+Ideal pressure setting for vacuum-assisted closure (VAC) therapy?
+
+- A. −125 mm Hg
+- B. 60–80 mm Hg
+- C. 130 mm Hg
+- D. 80–100 mm Hg
+
+<details><summary>Answer</summary>
+
+**A. −125 mm Hg** — Standard continuous negative pressure for VAC dressings.
+</details>
+
+---
+<!-- Source: DocTutorials NEET-PG 2024 Shift 1 & 2 recall questions -->
+
+---
+
+### Q104 — A jeep driver presented with pain *(2024)*
+
+A jeep driver presented with pain in the gluteal region along with swelling. What is the most likely diagnosis?
+
+- A. Pilonidal sinus
+- B. Fistula in ano
+- C. Fissure in ano
+- D. Gluteal abscess
+
+<details><summary>Answer</summary>
+
+**A. Pilonidal sinus**
+
+</details>
+
+---
+
+---
+
+### Q105 — A patient presents with a headache, *(2024)*
+
+A patient presents with a headache, recurrent episodes of high blood pressure, and tachycardia. Her urine shows elevated levels of vanillylmandelic acid, and a CT scan reveals a retroperitoneal tumour in the right lumbar region. Which of the following syndromes is not typically associated with this condition?
+
+- A. MEN 2A syndrome
+- B. Von Hippel–Lindau Disease (VHL)
+- C. Neurofibromatosis Type 2 (NF2)
+- D. Hereditary Paraganglioma-Pheochromocytoma Syndromes
+
+<details><summary>Answer</summary>
+
+**C. Neurofibromatosis Type 2 (NF2)**
+
+</details>
+
+---
+
+---
+
+### Q106 — A man presented to the emergency *(2024)*
+
+A man presented to the emergency after a road traffic accident (RTA) with chest pain and breathing difficulty. An X-ray was done. What type of breathing pattern is observed in this patient?
+
+- A. Cheyne Stokes
+- B. Biot
+- C. Kussmaul
+- D. Paradoxical
+
+<details><summary>Answer</summary>
+
+**D. Paradoxical**
+
+</details>
+
+---
+
+---
+
+### Q107 — An elderly male presents with the *(2024)*
+
+An elderly male presents with the following lesion as shown and then diagnosed with carcinoma of stage T3 lesion with no clinically palpable inguinal lymph node. What is management?
+
+- A. Penectomy + Ilio-inguinal lymph node dissection
+- B. Penectomy + Orchidectomy
+- C. Penectomy + Superficial inguinal lymph node dissection
+- D. Penectomy alone
+
+<details><summary>Answer</summary>
+
+**C. Penectomy + Superficial inguinal lymph node dissection**
+
+</details>
+
+---
+
+---
+
+### Q108 — Based on the constituents, identify the *(2024)*
+
+Based on the constituents, identify the fluid given to post-operative patients: Constituent Composition Sodium (Na) 130 mmol/l Chloride (Cl) 109 mmol/l Lactate 28 mmol/l Potassium (K) 4 mmol/l Calcium (Ca) 1.5 mmol/l
+
+- A. Ringer lactate
+- B. Haemaccel
+- C. Isolyte P
+- D. Isolyte M
+
+<details><summary>Answer</summary>
+
+**A. Ringer lactate**
+
+</details>
+
+---
+
+---
+
+### Q109 — The most common congenital diaphragmatic hernia *(2024)*
+
+The most common congenital diaphragmatic hernia seen in neonates is:
+
+- A. Left posterolateral
+- B. Right anteromedial
+- C. Esophageal hiatus
+- D. Central location
+
+<details><summary>Answer</summary>
+
+**A. Left posterolateral**
+
+</details>
+
+---
+
+---
+
+### Q110 — Which of the following is a *(2024)*
+
+Which of the following is a complication of Total Parenteral Nutrition (TPN) in a sepsis patient in the ICU?
+
+- A. Hyperlipidemia
+- B. Hyperglycemia
+- C. Hyperglyceridemia
+- D. Hypoglycemia
+
+<details><summary>Answer</summary>
+
+**B. Hyperglycemia**
+
+</details>
+
+---
+
+---
+
+### Q111 — A woman noticed neck swelling 2 *(2024)*
+
+A woman noticed neck swelling 2 months back. Clinical examination reveals a solitary nodule on the right side. What is the most appropriate initial investigation in this patient?
+
+- A. Serum TSH, T3, T4 levels
+- B. Radioisotope I123 assay
+- C. PET scan
+- D. Radioisotope I131 assay
+
+<details><summary>Answer</summary>
+
+**A. Serum TSH, T3, T4 levels**
+
+</details>
+
+---
+
+---
+
+### Q112 — A patient with adenocarcinoma of the *(2024)*
+
+A patient with adenocarcinoma of the stomach undergoes distal gastrectomy. Which nutrient should be supplemented for the patient?
+
+- A. Vitamin B12
+- B. Vitamin C
+- C. Vitamin A
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**A. Vitamin B12**
+
+</details>
+
+---
+
+---
+
+### Q113 — Identify the procedure commonly performed in *(2024)*
+
+Identify the procedure commonly performed in patients with recurrent gastroesophageal reflux disease (GERD):
+
+- A. 360-degree Nissen fundoplication
+- B. Partial gastrectomy
+- C. Esophageal banding
+- D. 270-degree Nissen fundoplication
+
+<details><summary>Answer</summary>
+
+**A. 360-degree Nissen fundoplication**
+
+</details>
+
+---
+
+---
+
+### Q114 — A patient is diagnosed with Stanford *(2024)*
+
+A patient is diagnosed with Stanford type B aortic dissection. What is the most appropriate initial management of this patient?
+
+- A. Bypass graft
+- B. Percutaneous endovascular stent
+- C. Balloon dilation
+- D. Administer beta blocker and intensive blood monitoring
+
+<details><summary>Answer</summary>
+
+**D. Administer beta blocker and intensive blood monitoring**
+
+</details>
+
+---
+
+---
+
+### Q115 — How does the graft get nutrition *(2024)*
+
+How does the graft get nutrition on day 3?
+
+- A. Imbibition
+- B. Inosculation
+- C. Neovascularization
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Imbibition**
+
+</details>
+
+---
+
+---
+
+### Q116 — A 30-year-old patient with extensive third-degree *(2024)*
+
+A 30-year-old patient with extensive third-degree burns requires skin grafting. What type of graft is used to cover the post-burn wound?
+
+- A. Split-thickness skin graft
+- B. Full-thickness skin graft
+- C. VAC dressing
+- D. Normal sumag dressing
+
+<details><summary>Answer</summary>
+
+**A. Split-thickness skin graft**
+
+</details>
+
+---
+
+---
+
+### Q117 — What is the earliest age at *(2024)*
+
+What is the earliest age at which a unilateral cleft lip in a newborn can be corrected?
+
+- A. 5–6 months
+- B. 15–18 months
+- C. 4–5 months
+- D. 6 months
+
+<details><summary>Answer</summary>
+
+**A. 5–6 months**
+
+</details>
+
+---
+
+---
+
+### Q118 — A patient with oral cancer underwent *(2024)*
+
+A patient with oral cancer underwent radical surgery with PMMC flap reconstruction. What is the important indicator for adjuvant radiotherapy?
+
+- A. Extranodal extension
+- B. Multiple lymph node metastasis
+- C. T3 tumor
+- D. Close margin
+
+<details><summary>Answer</summary>
+
+**A. Extranodal extension**
+
+</details>
+
+---
+
+---
+
+### Q119 — What is the ideal pressure setting *(2024)*
+
+What is the ideal pressure setting for vacuum-assisted closure (VAC) therapy?
+
+- A. -125 mm Hg
+- B. 60 to 80 mm Hg
+- C. 130 mm Hg
+- D. 80 to 100 mm Hg
+
+<details><summary>Answer</summary>
+
+**A. -125 mm Hg**
+
+</details>
+
+---
+
+---
+
+### Q120 — A 40-year-old female presents with an *(2024)*
+
+A 40-year-old female presents with an irregular 5 x 6 cm mass in the right breast. Histopathological examination reveals findings consistent with which of the following diagnoses?
+
+- A. Phylloid tumour
+- B. Fibroadenoma
+- C. Mastitis
+- D. Grade 2 breast tumor
+
+<details><summary>Answer</summary>
+
+**A. Phylloid tumour**
+
+</details>
+
+---
+
+---
+
+### Q121 — Identify the disease *(2024)*
+
+Identify the disease.
+
+- A. Renal cyst
+- B. RCC
+- C. ADPKD
+- D. Hydatid cyst
+
+<details><summary>Answer</summary>
+
+**A. Renal cyst**
+
+</details>
+
+---
+
+---
+
+### Q122 — A mother brought her 3-month-old male *(2024)*
+
+A mother brought her 3-month-old male child to the hospital due to an inability to pass urine, with a similar episode occurring 15 days ago. Catheterization was performed without difficulty. A radiograph is provided. What is the appropriate management?
+
+- A. Partial resection of verumontanum
+- B. Destruction of valves
+- C. Endoscopic dilation of the bladder neck
+- D. Indwelling catheter
+
+<details><summary>Answer</summary>
+
+**B. Destruction of valves**
+
+</details>
+
+---
+
+---
+
+### Q123 — A baby was brought with complaints *(2024)*
+
+A baby was brought with complaints of discharge from the umbilicus of fecal matter. What is the diagnosis?
+
+- A. Patent vitellointestinal duct
+- B. Umbilical cyst
+- C. Urachal sinus
+- D. Urachus
+
+<details><summary>Answer</summary>
+
+**A. Patent vitellointestinal duct**
+
+</details>
+
+---
+
+---
+
+### Q124 — A 20-year-old chronic alcoholic presents with *(2024)*
+
+A 20-year-old chronic alcoholic presents with severe hematemesis. Ultrasonography reveals distention of the portal vein, and the liver appears hyperechoic. Pantoprazole has been initiated. What is the next appropriate step in management?
+
+- A. Initiate a course of broad-spectrum antibiotics
+- B. Order a liver biopsy to assess for fibrosis
+- C. Administer intravenous fluids and electrolyte replacement
+- D. Perform an endoscopy to look for varices
+
+<details><summary>Answer</summary>
+
+**C. Administer intravenous fluids and electrolyte replacement**
+
+</details>
+
+---
+
+---
+
+### Q125 — Identify the procedure done *(2024)*
+
+Identify the procedure done.
+
+- A. Orchidectomy
+- B. Total penectomy
+- C. Partial penectomy
+- D. Hernioplasty
+
+<details><summary>Answer</summary>
+
+**B. Total penectomy**
+
+</details>
+
+---
+
+---
+
+### Q126 — A patient presents to the outpatient *(2024)*
+
+A patient presents to the outpatient department (OPD) with recurrent diarrhoea, abdominal pain, and foul-smelling stools. A colonoscopy reveals yellowish-white raised plaques over the colonic mucosa. What is the most likely diagnosis?
+
+- A. Pseudomembranous colitis
+- B. Familial adenomatous polyposis (FAP)
+- C. Ulcerative colitis
+- D. Acute gastritis
+
+<details><summary>Answer</summary>
+
+**A. Pseudomembranous colitis**
+
+</details>
+
+---
+
+---
+
+### Q127 — A female patient presented to the *(2024)*
+
+A female patient presented to the outpatient department with a breast mass, as shown, with HER2 positivity and liver metastasis. What is the appropriate management?
+
+- A. Trastuzumab + Chemotherapy + Palliative mastectomy
+- B. Tamoxifen + Radiation Therapy + Bone-targeted therapy
+- C. Neoadjuvant chemotherapy followed by surgery
+- D. Surgical Resection of Metastases + Radiotherapy
+
+<details><summary>Answer</summary>
+
+**A. Trastuzumab + Chemotherapy + Palliative mastectomy**
+
+</details>
+
+---
+
+---
+
+### Q128 — A patient presents with a history *(2024)*
+
+A patient presents with a history of umbilical swelling, initially asymptomatic for many years, and now complains of pain over the swelling. It was reducible initially, but now it is non-reducible. What is the appropriate management?
+
+- A. Umbilical excision
+- B. Conservative management with antibiotics
+- C. Mesh hernioplasty
+- D. Incision and drainage
+
+<details><summary>Answer</summary>
+
+**A. Umbilical excision**
+
+</details>
+
+---
+
+---
+
+### Q129 — What instrument is used to insert *(2024)*
+
+What instrument is used to insert this tube?
+
+- A. Nephroscope
+- B. Cystourethroscope
+- C. Ureteroscope
+- D. Endoscope
+
+<details><summary>Answer</summary>
+
+**B. Cystourethroscope**
+
+</details>
+
+---
+
+---
+
+### Q130 — A male child experiences acute scrotal *(2024)*
+
+A male child experiences acute scrotal pain while playing. He is brought to the emergency department, where a Doppler ultrasound is performed followed by immediate surgical exploration, which showed the following findings. What is the most probable diagnosis?
+
+- A. Testicular torsion with gangrene
+- B. Torsion of testicular appendages with gangrene
+- C. Strangulated inguinal hernia
+- D. Testicular hematoma
+
+<details><summary>Answer</summary>
+
+**A. Testicular torsion with gangrene**
+
+</details>
+
+---
+
+---
+
+### Q131 — Identify the given drain *(2024)*
+
+Identify the given drain:
+
+- A. Underwater seal drain
+- B. Nelaton drain
+- C. Closed suction drain
+- D. Penrose drain
+
+<details><summary>Answer</summary>
+
+**C. Closed suction drain**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q132 — Dyspnea 7 days post-knee replacement: confirming investigation
+
+Patient with dyspnea and tachycardia 7 days after knee replacement surgery. Confirming investigation for PE?
+
+- A. V/Q scan
+- B. D-dimer
+- C. Chest X-ray
+- D. CT pulmonary angiography
+
+<details><summary>Answer</summary>
+
+**D. CT pulmonary angiography** — Gold standard for PE diagnosis. D-dimer is sensitive but not specific. CTPA directly visualises emboli in pulmonary vasculature.
+</details>
+
+---
+
+---
+
+### Q133 — Pheochromocytoma preoperative medication
+
+Patient with pheochromocytoma scheduled for surgery. Preoperative medication?
+
+- A. Clonidine
+- B. Phenoxybenzamine
+- C. Esmolol
+- D. Aspirin
+
+<details><summary>Answer</summary>
+
+**B. Phenoxybenzamine** — Irreversible alpha-blocker; given 10–14 days preoperatively to control hypertension and prevent hypertensive crisis during tumour manipulation. Beta-blockade only added AFTER alpha-blockade.
+</details>
+
+---
+
+---
+
+### Q134 — Massive bleeding from posterior vessel during duodenal surgery
+
+During duodenal surgery, massive bleeding from injury to the posterior vessel. Most likely vessel?
+
+- A. Superior mesenteric artery
+- B. Inferior vena cava
+- C. Aorta
+- D. Portal vein
+
+<details><summary>Answer</summary>
+
+**B. Inferior vena cava** — The IVC lies posterior to the duodenum (especially the 3rd and 4th parts). Surgical injury during duodenectomy/Whipple's can tear the IVC.
+</details>
+
+---
+
+---
+
+### Q135 — Wet gangrene (image)
+
+Patient presents with fingertip changes shown. Most likely diagnosis?
+
+- A. Wet gangrene
+- B. Raynaud's phenomenon
+- C. Dry gangrene
+- D. Frostbite
+
+<details><summary>Answer</summary>
+
+**A. Wet gangrene** — Infected, moist, putrefactive necrosis with bacterial invasion; spreads rapidly; systemic toxicity. Associated with diabetes and vascular disease.
+</details>
+
+---
+
+---
+
+### Q136 — Breast condition, peau d'orange (image): TNM stage
+
+Breast condition shown (inflammatory breast cancer with peau d'orange). TNM stage?
+
+- A. Stage IIIB
+- B. Stage IIIC
+- C. Stage IVD
+- D. Stage IIB
+
+<details><summary>Answer</summary>
+
+**C. Stage IVD** — Inflammatory breast cancer (T4d) = Stage IIIB (T4dN0M0) or higher. Note: answer C (Stage IVD) may indicate metastatic disease on the image; or Stage IIIB if confined. "IVD" is not standard TNM — likely Stage IIIB.
+</details>
+
+---
+
+---
+
+### Q137 — Painless neck mass at mandible angle, Lyre's sign
+
+50-year-old, slowly growing painless neck mass at angle of mandible; Lyre's sign on Doppler. Diagnosis?
+
+- A. Thyroid nodule
+- B. Lymphadenopathy
+- C. Carotid body tumour
+- D. Branchial cyst
+
+<details><summary>Answer</summary>
+
+**C. Carotid body tumour (paraganglioma)** — Lyre's sign (splaying of ICA and ECA on angiography), pulsatile mass at carotid bifurcation, slowly growing; Fontaine's sign (horizontal but not vertical mobility).
+</details>
+
+---
+
+---
+
+### Q138 — Surgical knot (image)
+
+Type of knot shown, commonly used in surgical procedures?
+
+- A. Surgeon's knot
+- B. Granny's knot
+- C. Square knot
+- D. Slip knot
+
+<details><summary>Answer</summary>
+
+**A. Surgeon's knot** — Double loop on first throw to prevent slipping while completing the knot; used when tension is needed during tie.
+</details>
+
+---
+
+---
+
+### Q139 — Epigastric stab wound, hypotension, guarding
+
+35-year-old with epigastric stab wound, hypotension, guarding. Immediate intervention?
+
+- A. FAST ultrasound
+- B. DPL
+- C. CT scan
+- D. Exploratory laparotomy
+
+<details><summary>Answer</summary>
+
+**D. Exploratory laparotomy** — Haemodynamically unstable penetrating abdominal trauma: immediate surgery. No time for CT; FAST/DPL add delay when laparotomy is clearly indicated.
+</details>
+
+---
+
+---
+
+### Q140 — Park's classification of anorectal fistula (image)
+
+Park's classification of fistula shown in image?
+
+- A. Intersphincteric
+- B. Suprasphincteric
+- C. Extrasphincteric
+- D. High transsphincteric
+
+<details><summary>Answer</summary>
+
+**A. Intersphincteric** — Most common type (~70%); tract passes between internal and external sphincters in the intersphincteric plane.
+</details>
+
+---
+
+---
+
+### Q141 — Chronic venous changes: true statement
+
+56-year-old with chronic venous insufficiency. True statement?
+
+- A. Sclerotherapy preferred over compression
+- B. Eczema or lipodermatosclerosis may develop
+- C. Telangiectasia is uncommon
+- D. Venous ulcer is not expected
+
+<details><summary>Answer</summary>
+
+**B. Eczema or lipodermatosclerosis may develop** — Chronic venous insufficiency complications: venous eczema (stasis dermatitis), lipodermatosclerosis, varicose veins, venous ulcers (gaiter area).
+</details>
+
+---
+
+---
+
+### Q142 — Polydioxanone (PDS) suture: true statement
+
+Which is accurate about polydioxanone (PDS) suture?
+
+- A. Non-absorbable
+- B. Monofilament
+- C. Braided multifilament
+- D. Derived from collagen
+
+<details><summary>Answer</summary>
+
+**B. Monofilament** — PDS (polydioxanone) is a synthetic, absorbable, monofilament suture. Retains 50% strength at 4 weeks; fully absorbed by 180–210 days.
+</details>
+
+---
+
+---
+
+### Q143 — 3-year-old, painful urination, foreskin ballooning
+
+3-year-old boy with painful urination and foreskin ballooning during micturition. Diagnosis?
+
+- A. BXO
+- B. True phimosis
+- C. Recurrent balanoposthitis
+- D. Recurrent UTI
+
+<details><summary>Answer</summary>
+
+**B. True phimosis** — Balloon-like distension of prepuce during micturition with narrowed tip = phimosis. Physiological phimosis is normal up to 3–4 years; treatment if symptomatic.
+</details>
+
+---
+
+---
+
+### Q144 — Burns, escharotomy/debridement (image)
+
+Woman with deep partial-thickness lower limb burns. Procedure shown?
+
+- A. Escharotomy
+- B. Surgical debridement
+- C. Excision of healthy fat/fascia
+- D. Early skin grafting
+
+<details><summary>Answer</summary>
+
+**B. Surgical debridement** — Deep partial-thickness burns require debridement of necrotic tissue before grafting. Escharotomy is for circumferential full-thickness burns with compartment syndrome.
+</details>
+
+---
+
+---
+
+### Q145 — Anal carcinoma near anal opening: lymph node drainage
+
+Anal carcinoma with mass near the anal opening. Most likely involved lymph nodes?
+
+- A. Superficial inguinal lymph nodes
+- B. Deep inguinal lymph nodes
+- C. External iliac lymph nodes
+- D. Internal iliac lymph nodes
+
+<details><summary>Answer</summary>
+
+**A. Superficial inguinal lymph nodes** — Anal canal below dentate line (including anal margin/perianal skin) drains to superficial inguinal nodes. Above dentate line → internal iliac nodes.
+</details>
+
+---
+
+---
+

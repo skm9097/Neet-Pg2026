@@ -649,3 +649,640 @@ Bindi leukoderma is caused by which chemical?
 </details>
 
 ---
+
+## Year 2019
+
+### Q40 — Identify the condition shown in the *(2019)*
+
+Identify the condition shown in the image below.
+
+- A. Intertrigo
+- B. Heat rash
+- C. Eczema
+- D. Impetigo
+
+<details><summary>Answer</summary>
+
+**A. Intertrigo**
+
+</details>
+
+---
+
+---
+
+### Q41 — Identify the condition This is child *(2019)*
+
+Identify the condition. This is child with asthmatic mother.
+
+- A. Atopic dermatitis
+- B. SLE
+- C. Erythema
+- D. TEN
+
+<details><summary>Answer</summary>
+
+**A. Atopic dermatitis**
+
+</details>
+
+---
+
+---
+
+### Q42 — Identify the condition shown in the *(2019)*
+
+Identify the condition shown in the image?
+
+- A. Sebaceous cyst
+- B. Alopecia areta
+- C. Trichotillomania
+- D. Tinea capitis
+
+<details><summary>Answer</summary>
+
+**B. Alopecia areta**
+
+</details>
+
+---
+
+---
+
+### Q43 — Identify the condition in the image *(2019)*
+
+Identify the condition in the image?
+
+- A. Leukoderma
+- B. Piebaldism
+- C. Vitiligo
+- D. DLE
+
+<details><summary>Answer</summary>
+
+**A. Leukoderma**
+
+</details>
+
+---
+
+---
+
+
+## Year 2020
+
+### Q44 — Amorolfine nail lacquer
+
+Nail-lacquer morpholine drug?
+
+- A. Oxiconazole
+- B. Ciclopirox olamine
+- C. Tioconazole
+- D. Amorolfine
+
+<details><summary>Answer</summary>
+
+**D. Amorolfine** — Morpholine antifungal. Nail lacquer for onychomycosis.
+</details>
+
+---
+
+### Q45 — Newborn collodion baby — exclusion
+
+Newborn with membrane, ectropion, eclabium. **Unlikely** diagnosis?
+
+- A. Lamellar ichthyosis
+- B. Bathing-suit ichthyosis
+- C. Harlequin ichthyosis
+- D. Ichthyosis vulgaris
+
+<details><summary>Answer</summary>
+
+**D. Ichthyosis vulgaris** — Onset after infancy, mild; does not present as collodion baby.
+</details>
+
+---
+
+---
+
+### Q46 — Which of the following is water-related *(2020)*
+
+Which of the following is water-related disease
+
+- A. Yellow fever
+- B. Scabies
+- C. Cholera
+- D. Dysentery
+
+<details><summary>Answer</summary>
+
+**A. Yellow fever**
+
+</details>
+
+---
+
+---
+
+### Q47 — An elderly man with a long-standing *(2020)*
+
+An elderly man with a long-standing mole over the face which is increasing in size and showing irregular borders. What will be the diagnosis?
+
+- A. Superficial spreading melanoma
+- B. Lentigo maligna
+- C. Acral melanoma
+- D. Nodular melanoma
+
+<details><summary>Answer</summary>
+
+**A. Superficial spreading melanoma**
+
+</details>
+
+---
+
+---
+
+### Q48 — An 11-year boy presented with cough *(2020)*
+
+An 11-year boy presented with cough for 15 days on examination he was found to have cervical lymphadenopathy. lymph node examination showed below finding
+
+- A. Leprosy
+- B. Sarcoidosis
+- C. TB
+- D. Syphilis
+
+<details><summary>Answer</summary>
+
+**C. TB**
+
+</details>
+
+---
+
+---
+
+### Q49 — Identify the organism causing an infection *(2020)*
+
+Identify the organism causing an infection on the upper arm
+
+- A. Tinea corporis
+- B. Tinea capitis
+- C. Tinea cruris
+- D. Tinea manus
+
+<details><summary>Answer</summary>
+
+**A. Tinea corporis**
+
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q50 — Suprabasal split
+
+A 30-year-old with flaccid easily-ruptured bullae; biopsy shows suprabasal split. Diagnosis?
+
+- A. Pemphigus vulgaris
+- B. Pemphigus foliaceus
+- C. Pemphigus vegetans
+- D. Erythema multiforme
+
+<details><summary>Answer</summary>
+
+**A. Pemphigus vulgaris** — Suprabasal acantholysis; tombstone appearance. Anti-desmoglein 3 antibodies.
+</details>
+
+---
+
+### Q51 — Type 2 lepra reaction
+
+Patient on MDT presenting with worsening lesions and nerve involvement. Management?
+
+- A. Stop MDT, start steroids
+- B. Continue MDT + systemic steroids
+- C. Stop MDT + thalidomide
+- D. Continue MDT + thalidomide
+
+<details><summary>Answer</summary>
+
+**B. Continue MDT + systemic steroids** — Lepra reactions are treated without stopping MDT.
+</details>
+
+---
+
+---
+
+### Q52 — Nevus depigmentosus
+
+Non-progressive hypopigmented lesion since birth, enhanced under Wood's lamp — diagnosis?
+
+- A. Vitiligo
+- B. Nevus depigmentosus
+- C. Nevus anemicus
+- D. Indeterminate leprosy
+
+<details><summary>Answer</summary>
+
+**B. Nevus depigmentosus** — Congenital hypopigmented patch; stable (not progressive); normal melanocyte number but reduced melanin transfer. Enhanced (not ivory-white) under Wood's lamp unlike vitiligo.
+
+</details>
+
+---
+
+### Q53 — Phrynoderma — next examination
+
+Phrynoderma (follicular hyperkeratosis) — which system to examine next?
+
+- A. Ocular examination
+- B. Vitamin D3 status
+- C. Deep tendon reflexes
+- D. Vitamin B12 levels
+
+<details><summary>Answer</summary>
+
+**A. Ocular examination** — Phrynoderma (vitamin A deficiency) → examine for Bitot's spots, xerophthalmia, corneal ulceration. Also check for night blindness.
+
+</details>
+
+---
+
+### Q54 — Sarcoidosis skin — diagnosis method
+
+Face plaque with central clearing, apical calcification on CXR — best diagnostic method?
+
+- A. PCR
+- B. Mantoux test
+- C. Slit skin smear
+- D. Tissue biopsy / probe test
+
+<details><summary>Answer</summary>
+
+**A. PCR** — Lupus vulgaris (TB of skin) with pulmonary TB; PCR on skin biopsy is most sensitive and specific. Mantoux may be positive but not diagnostic alone.
+
+</details>
+
+---
+
+---
+
+
+## Year 2022
+
+### Q55 — High-risk HPV — anogenital warts
+
+Multiple anogenital warts; biopsy shows squamous atypia. High-risk HPV?
+
+- A. HPV 2
+- B. HPV 18
+- C. HPV 6
+- D. HPV 11
+
+<details><summary>Answer</summary>
+
+**B. HPV 18** — Along with HPV 16, cause most cervical/anogenital cancers. HPV 6 and 11 = low-risk (condyloma acuminatum).
+</details>
+
+---
+
+### Q56 — Cauliflower foot mass — copper-penny bodies
+
+Farmer with cauliflower-shaped foot mass post-injury; microscopy shows copper-penny bodies.
+
+- A. Chromoblastomycosis
+- B. Blastomycosis
+- C. Sporotrichosis
+- D. Phaeohyphomycosis
+
+<details><summary>Answer</summary>
+
+**A. Chromoblastomycosis** — Sclerotic (Medlar/copper-penny) bodies are pathognomonic.
+</details>
+
+---
+
+---
+
+### Q57 — A patient presents to you with *(2022)*
+
+A patient presents to you with multiple anogenital warts. The biopsy of these lesions showed squamous atypia. Which of the following human papillomavirus types are considered high-risk?
+
+- A. HPV 2
+- B. HPV 18
+- C. HPV 6
+- D. HPV 11
+
+<details><summary>Answer</summary>
+
+**B. HPV 18**
+
+</details>
+
+---
+
+---
+
+### Q58 — A farmer presents you with a *(2022)*
+
+A farmer presents you with a cauliflower-shaped mass on foot, which developed after a minor injury. Microscopy shows copper penny bodies. What is the most likely diagnosis?
+
+- A. Chromoblastomycosis
+- B. Blastomycosis
+- C. Sporotrichosis
+- D. Phaeohyphomycosis
+
+<details><summary>Answer</summary>
+
+**A. Chromoblastomycosis**
+
+</details>
+
+---
+
+---
+
+### Q59 — A 35-year-old woman presents to you *(2022)*
+
+A 35-year-old woman presents to you with hair loss for the past three months. She tested positive for COVID-19 eight months ago. What is the most likely diagnosis?
+
+- A. Tinea capitis
+- B. Telogen effluvium
+- C. Trichotillomania
+- D. Female – pattern androgenic alopecia
+
+<details><summary>Answer</summary>
+
+**B. Telogen effluvium**
+
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q60 — Resistant acne in female
+
+Female with acne not responding to isotretinoin and antibiotics. Next best investigation?
+
+- A. Dietary triggers
+- B. Evaluate for hyperandrogenism
+- C. Check for antibiotic resistance
+- D. Drug triggers
+
+<details><summary>Answer</summary>
+
+**B. Evaluate for hyperandrogenism** — PCOS, late-onset CAH; check testosterone, DHEAS, free androgen index.
+</details>
+
+---
+
+### Q61 — Painless genital ulcer + non-tender lymphadenopathy
+
+A young woman with painless genital ulcer and non-tender inguinal lymphadenopathy.
+
+- A. Chancroid
+- B. Syphilis
+- C. Herpes genitalis
+- D. Granuloma inguinale
+
+<details><summary>Answer</summary>
+
+**B. Syphilis** — Primary chancre: painless, indurated ulcer + painless lymphadenopathy. Chancroid is painful with tender nodes.
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q62 — Patchy alopecia + flat anal lesions
+
+A 30-year-old with flat lesions near the anal canal, body rashes, and patchy ("moth-eaten") hair loss. Diagnosis?
+
+- A. Trichotillomania
+- B. Alopecia areata
+- C. Secondary syphilis
+- D. Malassezia
+
+<details><summary>Answer</summary>
+
+**C. Secondary syphilis** — Condylomata lata (flat moist lesions), copper-coloured rash on palms/soles, moth-eaten alopecia.
+</details>
+
+---
+
+### Q63 — Hypopigmented anesthetic nodules
+
+A 38-year-old with hypopigmented nodular lesions, anaesthesia, ulnar nerve involvement; biopsy with foamy macrophages and abundant bacilli. Most accurate statement?
+
+- A. Tuberculoid leprosy with positive antigen test
+- B. Lepromatous leprosy with positive antigen test
+- C. Erythema nodosum leprosum with negative antigen test
+- D. Lepromatous leprosy with negative antigen test
+
+<details><summary>Answer</summary>
+
+**D. Lepromatous leprosy with negative antigen test** — High bacillary load → negative lepromin (anergic). Tuberculoid → positive lepromin.
+</details>
+
+---
+
+---
+
+### Q64 — A sexually active patient presents with *(2024)*
+
+A sexually active patient presents with painful lesions on the penis
+
+- A. Herpes genitalis
+- B. Chancroid
+- C. Syphilis
+- D. Lymphogranuloma venereum
+
+<details><summary>Answer</summary>
+
+**A. Herpes genitalis**
+
+</details>
+
+---
+
+---
+
+### Q65 — A child presents with photosensitivity and *(2024)*
+
+A child presents with photosensitivity and multiple skin cancers. What is the likely diagnosis?
+
+- A. Xeroderma pigmentosum
+- B. Osteogenesis imperfecta
+- C. Hypervitaminosis A
+- D. Paget’s disease
+
+<details><summary>Answer</summary>
+
+**A. Xeroderma pigmentosum**
+
+</details>
+
+---
+
+---
+
+### Q66 — A farmer presents with foot swelling *(2024)*
+
+A farmer presents with foot swelling and discharging sinuses. Staining of the lesion shows Gram-positive filamentous structures.
+
+- A. Nocardia brasiliensis
+- B. Sporothrix schenckii
+- C. Staphylococcus aureus
+- D. Aspergillus
+
+<details><summary>Answer</summary>
+
+**A. Nocardia brasiliensis**
+
+</details>
+
+---
+
+---
+
+### Q67 — A sexually active woman presents with *(2024)*
+
+A sexually active woman presents with foul-smelling, watery vaginal discharge. What is the most likely causative organism?
+
+- A. Gardnerella vaginalis
+- B. Candida albicans
+- C. Trichomonas vaginalis
+- D. Lactobacillus
+
+<details><summary>Answer</summary>
+
+**C. Trichomonas vaginalis**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q68 — Tzanck smear: multinucleated giant cells
+
+A patient with facial pain and painful oral vesicular lesions has Tzanck smear showing multinucleated giant cells with intranuclear inclusions. Causative organism?
+
+- A. Adenovirus
+- B. Cytomegalovirus
+- C. EBV
+- D. HSV
+
+<details><summary>Answer</summary>
+
+**D. HSV** — Tzanck smear showing multinucleated giant cells with intranuclear inclusions (Cowdry type A) is characteristic of HSV (also VZV). Herpetic gingivostomatitis.
+</details>
+
+---
+
+---
+
+### Q69 — SCC at base of tongue: most common cause
+
+Most common cause of squamous cell carcinoma at the base of the tongue?
+
+- A. EBV
+- B. HPV
+- C. HCV
+- D. CMV
+
+<details><summary>Answer</summary>
+
+**B. HPV** — HPV-16 is the leading cause of oropharyngeal SCC (base of tongue, tonsils). EBV causes nasopharyngeal carcinoma.
+</details>
+
+---
+
+---
+
+### Q70 — Black granules, multiple sinuses on foot
+
+A patient has irregular foot swelling, multiple discharging sinuses with black granules. KOH mount will show:
+
+- A. Arthrospores
+- B. Slender dematiaceous fungi
+- C. Yeast
+- D. Septate hyphae
+
+<details><summary>Answer</summary>
+
+**D. Septate hyphae** — Eumycetoma (fungal mycetoma) with black granules caused by Madurella mycetomatis shows dark septate hyphae. Actinomycetoma (bacteria) shows filamentous bacteria.
+</details>
+
+---
+
+---
+
+### Q71 — Confirmatory test for chronic granulomatous skin lesion
+
+Most confirmatory test for a chronic granulomatous skin lesion (leprosy suspected)?
+
+- A. PCR
+- B. Slit skin smear
+- C. Mantoux test
+- D. Skin biopsy with histopathology
+
+<details><summary>Answer</summary>
+
+**A. PCR** — PCR for M. leprae is the most confirmatory test. Slit skin smear shows organisms but PCR confirms active disease especially in paucibacillary leprosy.
+</details>
+
+---
+
+---
+
+### Q72 — Non-progressive hypopigmented lesion, Wood's lamp white accentuation, diascopy negative
+
+A 20-year-old with non-progressive hypopigmented lesion on trunk; Wood's lamp shows white accentuation; diascopy negative. Diagnosis?
+
+- A. Vitiligo
+- B. Nevus depigmentosus
+- C. Nevus anemicus
+- D. Indeterminate leprosy
+
+<details><summary>Answer</summary>
+
+**B. Nevus depigmentosus** — Non-progressive; Wood's lamp enhances lesion (hypopigmented, not depigmented). Nevus anemicus: diascopy positive (blanches with pressure). Vitiligo: completely depigmented (chalk-white on Wood's).
+</details>
+
+---
+
+---
+
+### Q73 — Intensely itchy vesicular lesions on extensor surfaces with gluten sensitivity
+
+A patient with gluten sensitivity has intensely itchy vesicular lesions on extensor surfaces. Diagnosis?
+
+- A. Bullous pemphigoid
+- B. Pemphigus vulgaris
+- C. Dermatitis herpetiformis
+- D. Psoriasis
+
+<details><summary>Answer</summary>
+
+**C. Dermatitis herpetiformis** — Gluten-sensitive enteropathy with IgA deposits at dermal papillae → intensely pruritic vesicles on extensor surfaces (elbows, knees, buttocks).
+</details>
+
+---
+
+---
+

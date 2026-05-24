@@ -8646,3 +8646,3181 @@ Q1643 IUFD DIC timing, Q1645 incompetent os management — all confirmed OBG, ca
 
 ---
 
+## Year 2015
+
+### Q492 — Most Common Ovarian Tumour to Tort in Pregnancy *(2015)*
+
+Which ovarian tumour is most prone to undergo torsion during pregnancy:
+
+- A. Serous cystadenoma
+- B. Mucinous cystadenoma
+- C. Dermoid cyst
+- D. Theca lutein cyst
+
+<details><summary>Answer</summary>
+
+**C. Dermoid cyst (benign cystic teratoma)** — Because of its fat content dermoid cysts are lighter than fluid-filled tumours and torse more easily; ~15% undergo torsion. The most common ovarian tumour in pregnancy overall is serous cystadenoma, but dermoid is the most common one diagnosed (and to torse) during pregnancy.
+
+</details>
+
+---
+
+---
+
+### Q493 — MRKH Syndrome — Absent Structure *(2015)*
+
+In MRKH syndrome, which of the following is absent:
+
+- A. Vagina
+- B. Breast development
+- C. Pubic hair development
+- D. Testes
+
+<details><summary>Answer</summary>
+
+**D. Testes** — MRKH (Mayer-Rokitansky-Küster-Hauser) syndrome has a 46,XX karyotype; gonads present are ovaries. It is characterised by congenital aplasia of the uterus and upper 2/3 of the vagina with normal secondary sexual characteristics.
+
+</details>
+
+---
+
+---
+
+### Q494 — Hot Flushes Mechanism *(2015)*
+
+Hot flushes are experienced as a result of:
+
+- A. Increased noradrenaline alone
+- B. Decreased oestrogen alone
+- C. Increased noradrenaline and decreased oestrogen
+- D. Increased noradrenaline and oestrogen
+
+<details><summary>Answer</summary>
+
+**C. Increased noradrenaline and decreased oestrogen** — Oestrogen deficiency reduces hypothalamic endorphins, increasing norepinephrine and serotonin, which disturb the hypothalamic thermoregulatory set-point.
+
+</details>
+
+---
+
+---
+
+### Q495 — Amsel Criteria Disease *(2015)*
+
+Amsel criteria is used for diagnosis of:
+
+- A. Bacterial vaginosis
+- B. Antiphospholipid antibody syndrome
+- C. Ovarian ectopic pregnancy
+- D. HELLP syndrome
+
+<details><summary>Answer</summary>
+
+**A. Bacterial vaginosis** — Amsel criteria (3 of 4): homogeneous white/grey discharge, vaginal pH >4.5, positive Whiff test (KOH fishy odour), and clue cells on microscopy.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q496 — Bilateral Cornual Block Management *(2016)*
+
+An infertile woman has bilateral tubal block at the cornua on HSG. Next treatment of choice is:
+
+- A. IVF
+- B. Laparoscopy and hysteroscopy
+- C. Tuboplasty
+- D. Hydrotubation
+
+<details><summary>Answer</summary>
+
+**B. Laparoscopy and hysteroscopy** — HSG cornual block is often a spasm artefact; laparoscopy with chromopertubation (methylene blue) both confirms tubal status under direct vision and allows simultaneous operative correction.
+
+</details>
+
+---
+
+---
+
+
+## Year 2017
+
+### Q497 — Shoulder Dystocia Management *(2017)*
+
+Shoulder dystocia is managed by:
+
+- A. Sharp flexion of hip joints towards abdomen
+- B. Suprapubic pressure
+- C. 90-degree rotation of posterior shoulder
+- D. Emergency caesarean section
+
+<details><summary>Answer</summary>
+
+**B. Suprapubic pressure** — The HELPERR mnemonic guides management: Help, Episiotomy evaluation, Legs (McRoberts), Suprapubic Pressure, Enter manoeuvres (internal rotation), Remove posterior arm, Roll patient. Suprapubic pressure dislodges the impacted anterior shoulder.
+
+</details>
+
+---
+
+---
+
+### Q498 — True Hermaphroditism Karyotype *(2017)*
+
+True hermaphroditism (ovotesticular DSD) karyotype is:
+
+- A. 45 X0 with streaked gonads
+- B. 46 XX with ovotestis
+- C. 47 XY+9
+- D. 47 XX
+
+<details><summary>Answer</summary>
+
+**B. 46 XX with ovotestis** — In about 90% of true hermaphrodites (ovotesticular DSD) the karyotype is 46 XX; rarely 46 XY/46 XX mosaicism occurs.
+
+</details>
+
+---
+
+---
+
+### Q499 — Superfecundation Definition *(2017)*
+
+Superfecundation is:
+
+- A. Fertilisation of two or more ova in one intercourse
+- B. Fertilisation of two or more ova in different intercourses in the same menstrual cycle
+- C. Fertilisation of an ovum followed by its division
+- D. Fertilisation of a second ovum after the first has implanted
+
+<details><summary>Answer</summary>
+
+**B. Fertilisation of two or more ova in different intercourses in the same menstrual cycle** — Superfecundation can result in dizygotic twins from two different biological fathers.
+
+</details>
+
+---
+
+---
+
+### Q500 — High Risk Pregnancy — Exception *(2017)*
+
+Which of the following is NOT a high-risk pregnancy condition:
+
+- A. Previous history of manual removal of placenta
+- B. Anaemia
+- C. Diabetes
+- D. Obesity
+
+<details><summary>Answer</summary>
+
+**A. Previous history of manual removal of placenta** — Anaemia, diabetes, and obesity all independently increase obstetric risk. A single past manual removal of placenta is not itself a recognised high-risk designation.
+
+</details>
+
+---
+
+---
+
+### Q501 — D&C Contraindication *(2017)*
+
+Dilatation and curettage (D&C) is contraindicated in:
+
+- A. Pelvic inflammatory disease (PID)
+- B. Endometriosis
+- C. Ectopic pregnancy
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Pelvic inflammatory disease (PID)** — D&C is an ascending-infection risk procedure and is contraindicated in active PID as it can exacerbate or spread upper genital tract infection.
+
+</details>
+
+---
+
+---
+
+### Q502 — Wharton's Jelly Location *(2017)*
+
+Which of the following is correct regarding placenta:
+
+- A. Placental artery provides nutrients through the umbilical cord
+- B. Placenta has Wharton's jelly
+- C. Placenta has 2 veins and 1 artery
+- D. Oestrogen is secreted by placenta
+
+<details><summary>Answer</summary>
+
+**B. Placenta has Wharton's jelly** — [OCR note: the answer labelled "B" is actually incorrect — Wharton's jelly is in the umbilical cord, not the placenta. The most defensible correct answer is D (oestrogen is secreted by placenta). This question has an error in the answer key; staged as-is from source.]
+
+</details>
+
+---
+
+---
+
+### Q503 — Fimbriectomy Method *(2017)*
+
+Fimbriectomy procedure is known as:
+
+- A. Uchida method
+- B. Irving method
+- C. Madlener technique
+- D. Kroener method
+
+<details><summary>Answer</summary>
+
+**D. Kroener method** — Kroener fimbriectomy removes the fimbrial end of the fallopian tube. Uchida involves subserosal saline injection; Irving involves burying both ends; Madlener involves crushing a loop.
+
+</details>
+
+---
+
+---
+
+### Q504 — Quadruple Test Timing *(2017)*
+
+Best time to do the quadruple test (quad screen) is:
+
+- A. 8–12 weeks
+- B. 11–15 weeks
+- C. 15–20 weeks
+- D. 18–22 weeks
+
+<details><summary>Answer</summary>
+
+**C. 15–20 weeks** — The quad screen is a second-trimester test performed between 15 and 20 weeks, ideally in conjunction with first-trimester combined screening.
+
+</details>
+
+---
+
+---
+
+### Q505 — Pessary Ring Placement Verification *(2017)*
+
+In uterine prolapse, how do you know the ring pessary is in place:
+
+- A. If not expelled after increased abdominal pressure
+- B. If bleeding does not occur
+- C. If the patient feels discomfort
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. If not expelled after increased abdominal pressure** — A correctly placed ring pessary should remain in situ even with Valsalva manoeuvre/increased intra-abdominal pressure.
+
+</details>
+
+---
+
+---
+
+
+## Year 2018
+
+### Q506 — Acute fatty liver — trimester *(2018)*
+
+In which trimester does acute fatty liver manifest most commonly during pregnancy?
+
+- A. First trimester
+- B. Second trimester
+- C. Third trimester
+- D. Both A and B
+
+<details><summary>Answer</summary>
+
+**C. Third trimester** — Acute fatty liver of pregnancy most commonly presents in the third trimester or early postpartum period.
+
+</details>
+
+---
+
+---
+
+### Q507 — Twin chorionicity — best timing on ultrasound *(2018)*
+
+The best time to identify the type of twin pregnancy on ultrasound is:
+
+- A. 18–22 weeks
+- B. 24–28 weeks
+- C. 11–14 weeks
+- D. 14–18 weeks
+
+<details><summary>Answer</summary>
+
+**C. 11–14 weeks** — Chorionicity and amnionicity in twin pregnancy are best assessed in the first trimester, especially at 11–14 weeks (lambda sign vs. T-sign).
+
+</details>
+
+---
+
+---
+
+### Q508 — Placental crossing — cannot cross *(2018)*
+
+Which of the following cannot cross the placenta? 1. Iron 2. Albumin 3. IgM 4. IgG
+
+- A. 1 and 2
+- B. Only 3
+- C. 2 and 3
+- D. 3 and 4
+
+<details><summary>Answer</summary>
+
+**C. 2 and 3** — Albumin and IgM are high-molecular-weight molecules that do not cross the placenta; IgG crosses actively via FcRn receptors.
+
+</details>
+
+---
+
+---
+
+### Q509 — Progesterone-only pills — NOT a mechanism *(2018)*
+
+Which of the following is NOT a mechanism of action of progesterone-only pills?
+
+- A. Thicken the cervical mucus
+- B. Prevent ovulation
+- C. Kill the sperms in the cervical canal
+- D. Inhibit penetration of sperm
+
+<details><summary>Answer</summary>
+
+**C. Kill the sperms in the cervical canal** — Progesterone-only pills thicken cervical mucus, reduce sperm penetration, and may suppress ovulation; they are not spermicidal.
+
+</details>
+
+---
+
+---
+
+### Q510 — Which enzyme deficiency causesLesch Nyhan syndrome *(2018)*
+
+Which enzyme deficiency causesLesch– Nyhan syndrome
+
+- A. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)
+- B. Xanthine oxidase
+- C. Adenine phosphoribosyltransferase (APRT)
+- D. AMP deaminase
+
+<details><summary>Answer</summary>
+
+**A. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)**
+
+</details>
+
+---
+
+---
+
+### Q511 — Which One of the following is *(2018)*
+
+Which One of the following is not a cause of secondary Postpartum Haemorrhage
+
+- A. Placenta previa
+- B. Retained bits of placenta
+- C. Endometritis
+- D. Polyp
+
+<details><summary>Answer</summary>
+
+**A. Placenta previa**
+
+</details>
+
+---
+
+---
+
+### Q512 — Best time to do quadruple test *(2018)*
+
+Best time to do quadruple test
+
+- A. 8-12 weeks
+- B. 11-15 weeks
+- C. 15-20 weeks
+- D. 18-22 weeks
+
+<details><summary>Answer</summary>
+
+**C. 15-20 weeks**
+
+</details>
+
+---
+
+---
+
+### Q513 — Drug that is used for fetal *(2018)*
+
+Drug that is used for fetal lung maturity is
+
+- A. Dexamethasone
+- B. Folic acid
+- C. Beclomethasone
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Dexamethasone**
+
+</details>
+
+---
+
+---
+
+### Q514 — In Uterine prolapse how to know *(2018)*
+
+In Uterine prolapse how to know if ring is in place
+
+- A. If not expelled after increased abdominal pressure
+- B. If Bleeding does not occur
+- C. If patient feels discomfort
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. If not expelled after increased abdominal pressure**
+
+</details>
+
+---
+
+---
+
+### Q515 — HT indicated in menopausal women *(2018)*
+
+HT indicated in menopausal women
+
+- A. Hot flash
+- B. Ca breast
+- C. Endometriosis
+- D. Uterine bleeding
+
+<details><summary>Answer</summary>
+
+**A. Hot flash**
+
+</details>
+
+---
+
+---
+
+### Q516 — Which of these steps is followed *(2018)*
+
+Which of these steps is followed first for the management of shoulder dystocia after McRoberts maneuver
+
+- A. Sharp flexion of hip joints towards abdomen
+- B. Supra pubic pressure
+- C. 90 degree rotation of posterior shoulder
+- D. Emergency c-section
+
+<details><summary>Answer</summary>
+
+**B. Supra pubic pressure**
+
+</details>
+
+---
+
+---
+
+### Q517 — True hermaphroditism karyotype *(2018)*
+
+True hermaphroditism karyotype
+
+- A. 45 X0 streaked gonads
+- B. 46 XX Ovotestis
+- C. 47 XY+9
+- D. 47 XX
+
+<details><summary>Answer</summary>
+
+**B. 46 XX Ovotestis**
+
+</details>
+
+---
+
+---
+
+### Q518 — Nerve mostly compressed in pregnancy puerperium *(2018)*
+
+Nerve mostly compressed in pregnancy puerperium
+
+- A. Radial nerve
+- B. Median nerve
+- C. Femoral nerve
+- D. Facial nerve
+
+<details><summary>Answer</summary>
+
+**C. Femoral nerve**
+
+</details>
+
+---
+
+---
+
+### Q519 — In pregnancy which of the following *(2018)*
+
+In pregnancy which of the following level is altered mostly
+
+- A. Total T3
+- B. Free T3
+- C. Free T4
+- D. TSH
+
+<details><summary>Answer</summary>
+
+**A. Total T3**
+
+</details>
+
+---
+
+---
+
+### Q520 — What is meant by Superfecundation *(2018)*
+
+What is meant by Superfecundation
+
+- A. Fertilization of two or more ova in one intercourse
+- B. Fertilization of two or more ova in different intercourses in same menstrual cycle
+- C. Fertilization of ova and then it's division
+- D. Fertilization of second ovum first being implanted
+
+<details><summary>Answer</summary>
+
+**B. Fertilization of two or more ova in different intercourses in same menstrual cycle**
+
+</details>
+
+---
+
+---
+
+### Q521 — Anesthesia of choice for cesarean section *(2018)*
+
+Anesthesia of choice for cesarean section in severe pre-eclampsia
+
+- A. Spinal
+- B. GA
+- C. Epidural
+- D. Spinal+epidural
+
+<details><summary>Answer</summary>
+
+**C. Epidural**
+
+</details>
+
+---
+
+---
+
+### Q522 — Which of the following is not *(2018)*
+
+Which of the following is not a high-risk pregnancy
+
+- A. Previous history of manual removal of placenta
+- B. Anemia
+- C. Diabetes
+- D. Obesity
+
+<details><summary>Answer</summary>
+
+**A. Previous history of manual removal of placenta**
+
+</details>
+
+---
+
+---
+
+### Q523 — What is the effect of Progesterone *(2018)*
+
+What is the effect of Progesterone only pills
+
+- A. Completely suppresses ovulation
+- B. Thin lining of uterus
+- C. Thick cervical mucus
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+---
+
+### Q524 — Which condition is associated with Congenital *(2018)*
+
+Which condition is associated with Congenital adrenal hypoplasia
+
+- A. Male pseudohermaphroditism
+- B. Female pseudohermaphroditism
+- C. True pseudohermaphroditism
+- D. Sequential pseudohermaphroditism
+
+<details><summary>Answer</summary>
+
+**B. Female pseudohermaphroditism**
+
+</details>
+
+---
+
+---
+
+### Q525 — Anteversion of uterus is maintained by *(2018)*
+
+Anteversion of uterus is maintained by
+
+- A. Cardinal ligament
+- B. Uterosacral ligament
+- C. Pubocervical ligament
+- D. Round ligament
+
+<details><summary>Answer</summary>
+
+**D. Round ligament**
+
+</details>
+
+---
+
+---
+
+
+## Year 2019
+
+### Q526 — Postdated pregnancy — what NOT to use *(2019)*
+
+41-week gestation, sure dates, no contractions, no effacement/dilatation. What should NOT be used for induction?
+
+- A. Intracervical Foley's catheter
+- B. PGE1 tablet
+- C. PGE2 gel
+- D. PGF2α
+
+<details><summary>Answer</summary>
+
+**D. PGF2α** — PGF2α is a uterine relaxant/used for PPH atony, not for induction. Foley's, PGE1 (misoprostol), and PGE2 (dinoprostone) are standard cervical ripening agents.
+
+</details>
+
+---
+
+### Q527 — 3rd degree uterine prolapse — management *(2019)*
+
+60-year-old woman with 3rd degree uterine prolapse. Best management?
+
+- A. Vaginal hysterectomy with pelvic floor repair
+- B. Pelvic floor repair alone
+- C. Sacrospinous fixation
+- D. Pessary
+
+<details><summary>Answer</summary>
+
+**A. Vaginal hysterectomy with pelvic floor repair** — Post-menopausal woman, fertility not desired, 3rd degree prolapse → definitive surgical treatment. Pessary reserved for unfit-for-surgery.
+
+</details>
+
+---
+
+### Q528 — Partial hydatidiform mole — karyotype *(2019)*
+
+The chromosomal complement of a partial hydatidiform mole is:
+
+- A. 46 XX
+- B. 45 XO
+- C. 46 XXY
+- D. 69 XXX
+
+<details><summary>Answer</summary>
+
+**D. 69 XXX** — Partial mole = triploid (69, XXX/XXY/XYY) from dispermy. Complete mole = diploid 46 XX (paternal-only). Fetal parts may be present in partial mole.
+
+</details>
+
+---
+
+### Q529 — Nuchal translucency timing *(2019)*
+
+Nuchal translucency on USG is detected at:
+
+- A. 11–13 weeks
+- B. 18–20 weeks
+- C. 8–10 weeks
+- D. 20–22 weeks
+
+<details><summary>Answer</summary>
+
+**A. 11–13 weeks** — First-trimester screening window (11+0 to 13+6 weeks). NT >3 mm suggests Down syndrome, cardiac defects, or other aneuploidy.
+
+</details>
+
+---
+
+### Q530 — Mastitis in lactating mother — first-line drug *(2019)*
+
+First-line treatment for puerperal mastitis in a lactating mother is:
+
+- A. Dicloxacillin
+- B. Cefazolin
+- C. Ceftriaxone
+- D. Ampicillin
+
+<details><summary>Answer</summary>
+
+**A. Dicloxacillin** — Beta-lactamase resistant penicillin covers S. aureus (commonest organism). Continue breastfeeding; warm compresses; cephalexin or clindamycin if penicillin-allergic.
+
+</details>
+
+---
+
+### Q531 — Recurrent abortion with APLA — treatment *(2019)*
+
+Recurrent abortion with antiphospholipid antibody syndrome. Treatment?
+
+- A. Aspirin only
+- B. Aspirin + low molecular weight heparin
+- C. Aspirin + LMWH + prednisolone
+- D. No treatment
+
+<details><summary>Answer</summary>
+
+**B. Aspirin + LMWH** — Low-dose aspirin plus LMWH (prophylactic) throughout pregnancy is standard regimen; increases live-birth rates. Steroids are not first-line unless overlapping SLE.
+
+</details>
+
+---
+
+### Q532 — Gestational trophoblastic neoplasia — does NOT include *(2019)*
+
+Gestational trophoblastic NEOPLASIA does NOT include:
+
+- A. Choriocarcinoma
+- B. Placental site trophoblastic tumour
+- C. Invasive mole
+- D. Partial mole
+
+<details><summary>Answer</summary>
+
+**D. Partial mole** — Hydatidiform moles (complete/partial) are GTD (disease) but not neoplasms. GTN = choriocarcinoma, invasive mole, PSTT, epithelioid trophoblastic tumour.
+
+</details>
+
+---
+
+### Q533 — Presenting diameter of fully flexed head *(2019)*
+
+The presenting diameter of a fully flexed fetal head is:
+
+- A. Suboccipito-bregmatic
+- B. Suboccipito-frontal
+- C. Occipito-frontal
+- D. Mento-vertical
+
+<details><summary>Answer</summary>
+
+**A. Suboccipito-bregmatic (9.5 cm)** — Full flexion = vertex presentation = SOB diameter (smallest). Deflexion → SOF (10.5 cm) → OF (11.5 cm). Mento-vertical (14 cm) = brow (largest, undeliverable vaginally).
+
+</details>
+
+---
+
+### Q534 — Major source of amniotic fluid after 20 weeks *(2019)*
+
+Major contribution to amniotic fluid after 20 weeks of gestation comes from:
+
+- A. Ultrafiltrate of maternal plasma
+- B. Fetal urine
+- C. Fetal lung fluid
+- D. Fetal skin
+
+<details><summary>Answer</summary>
+
+**B. Fetal urine** — After 20 weeks, fetal urination is the dominant source of amniotic fluid (~500–1000 mL/day at term). Bilateral renal agenesis → severe oligohydramnios (Potter sequence).
+
+</details>
+
+---
+
+### Q535 — Macrosomia at 34 weeks — associated condition *(2019)*
+
+A 34-week fetus weighing 3 kg with macrosomic features is associated with:
+
+- A. Anaemia
+- B. Maternal diabetes
+- C. APH
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Maternal diabetes** — Fetal hyperinsulinaemia from maternal hyperglycaemia → fat deposition → macrosomia (>4 kg term, or 90th centile). ACOG: >4500 g; Indian context >4000 g.
+
+</details>
+
+---
+
+### Q536 — Adenomyosis on hysterectomy specimen *(2019)*
+
+30-year-old with dysmenorrhoea, dyspareunia, chronic pelvic pain undergoes hysterectomy. Cut section shows endometrial glands deep within the myometrium. Diagnosis?
+
+- A. Adenomyosis
+- B. Fibroids
+- C. Leiomyoma
+- D. Endometriosis
+
+<details><summary>Answer</summary>
+
+**A. Adenomyosis** — Endometrial glands/stroma >2.5 mm deep into myometrium. Bulky globular uterus. Hysterectomy is curative.
+
+</details>
+
+---
+
+### Q537 — Vaginal changes in pregnancy — TRUE *(2019)*
+
+Which of the following is TRUE about vaginal changes in normal pregnancy?
+
+- A. Decreased number of lactobacilli
+- B. Increased glycogen metabolism in the epithelium
+- C. pH more than 6.8
+- D. Epithelial thinning
+
+<details><summary>Answer</summary>
+
+**B. Increased glycogen metabolism in the epithelium** — Pregnancy causes vaginal epithelial proliferation with increased glycogen, favouring lactobacilli and an acidic pH.
+
+</details>
+
+---
+
+---
+
+### Q538 — Fasting blood sugar — overt diabetes in pregnancy *(2019)*
+
+Cardiac malformation is detected in a fetus during routine USG at 16 weeks. What fasting blood sugar level suggests overt diabetes?
+
+- A. 106 mg/dL
+- B. 126 mg/dL
+- C. 116 mg/dL
+- D. 130 mg/dL
+
+<details><summary>Answer</summary>
+
+**B. 126 mg/dL** — Overt diabetes in pregnancy is diagnosed when fasting plasma glucose is at least 126 mg/dL (WHO/ADA criteria).
+
+</details>
+
+---
+
+---
+
+### Q539 — Functional residual capacity — change in pregnancy *(2019)*
+
+Which of the following decreases in pregnancy?
+
+- A. Respiratory rate
+- B. Vital capacity
+- C. Functional residual capacity
+- D. Inspiratory capacity
+
+<details><summary>Answer</summary>
+
+**C. Functional residual capacity** — Elevation of the diaphragm by the gravid uterus reduces expiratory reserve volume and residual volume, decreasing functional residual capacity.
+
+</details>
+
+---
+
+---
+
+### Q540 — Induction of labour — NOT a contraindication *(2019)*
+
+Which of the following is NOT a contraindication for induction of labour?
+
+- A. Pelvic tumor
+- B. Herpes infection
+- C. Heart disease
+- D. History of lower transverse cesarean section in last three pregnancies
+
+<details><summary>Answer</summary>
+
+**C. Heart disease** — Heart disease is not an absolute contraindication to induction; vaginal delivery is often preferred with appropriate monitoring.
+
+</details>
+
+---
+
+---
+
+### Q541 — Overt gestational diabetes is defined as blood *(2019)*
+
+Overt gestational diabetes is defined as blood glucose more than_?
+
+- A. >200 mg/dl
+- B. >126 mg/dl
+- C. >100 mg/dl
+- D. >180 mg/dl
+
+<details><summary>Answer</summary>
+
+**B. >126 mg/dl**
+
+</details>
+
+---
+
+---
+
+### Q542 — MgSO4 has NO role in prevention of *(2019)*
+
+MgSO4 has NO role in prevention of:
+
+- A. Seizures in severe pre-eclampsia
+- B. Recurrent seizures in eclampsia
+- C. RDS in premature baby
+- D. Eclampsia in mild pre-eclampsia
+
+<details><summary>Answer</summary>
+
+**C. RDS in premature baby**
+
+</details>
+
+---
+
+---
+
+### Q543 — Double decidua sign is seen during *(2019)*
+
+Double decidua sign is seen during:
+
+- A. 1st trimester
+- B. 2nd early trimester
+- C. 2nd late trimester
+- D. 3rd trimester
+
+<details><summary>Answer</summary>
+
+**A. 1st trimester**
+
+</details>
+
+---
+
+---
+
+### Q544 — First line of treatment of mastitis in *(2019)*
+
+First line of treatment of mastitis in a lactating mother:
+
+- A. Dicloxacillin
+- B. Cefazolin
+- C. Ceftriaxone
+- D. Ampicillin
+
+<details><summary>Answer</summary>
+
+**A. Dicloxacillin**
+
+</details>
+
+---
+
+---
+
+### Q545 — Gestational trophoblastic neoplasm does NOT includ *(2019)*
+
+Gestational trophoblastic neoplasm does NOT include:
+
+- A. Choriocarcinoma
+- B. Placental site trophoblastic tumour
+- C. Invasive mole
+- D. Complete hydatidiform mole
+
+<details><summary>Answer</summary>
+
+**D. Complete hydatidiform mole**
+
+</details>
+
+---
+
+---
+
+### Q546 — 45 years female with 3 months menorrhagia *(2019)*
+
+45 years female with 3 months menorrhagia. USG showing 2 cm submucosal fibroid.Treatment options.
+
+- A. Ocp for 3 months
+- B. Progesterone for 3 months
+- C. Endometrial sampling
+- D. Hysterectomy
+
+<details><summary>Answer</summary>
+
+**D. Hysterectomy**
+
+</details>
+
+---
+
+---
+
+### Q547 — In low ovarian reserve,anti mullerian hormone leve *(2019)*
+
+In low ovarian reserve,anti mullerian hormone level will be:
+
+- A. <1
+- B. 1-4
+- C. >7
+- D. >10
+
+<details><summary>Answer</summary>
+
+**A. <1**
+
+</details>
+
+---
+
+---
+
+### Q548 — The major contribution of the amniotic fluid *(2019)*
+
+The major contribution of the amniotic fluid after 20 weeks of gestation :
+
+- A. Ultrafiltrate and maternal plasma
+- B. Fetal urine
+- C. Fetal lung fluid
+- D. Fetal skin
+
+<details><summary>Answer</summary>
+
+**B. Fetal urine**
+
+</details>
+
+---
+
+---
+
+### Q549 — PGF2 alpha maximum dose in PPH *(2019)*
+
+PGF2 alpha maximum dose in PPH:
+
+- A. 2000 µg
+- B. 200 µg
+- C. 2 mg
+- D. 20 mg
+
+<details><summary>Answer</summary>
+
+**C. 2 mg**
+
+</details>
+
+---
+
+---
+
+
+## Year 2020
+
+### Q550 — Perineal tear — delayed repair
+
+Complete perineal tear management 2 weeks post-home delivery.
+
+- A. Repair immediately
+- B. Repair after 6 months
+- C. Repair after 3 months
+- D. Repair after 6 weeks
+
+<details><summary>Answer</summary>
+
+**C. Repair after 3 months** — Allow oedema/infection to settle. Old (chronic) tears repaired electively after granulation tissue matures (≈3 months).
+
+</details>
+
+<!-- FIXED: original option D was duplicate of C ("Repair after 3 months"); substituted "Repair after 6 weeks". Answer block prefix corrected. -->
+
+---
+
+### Q551 — Wolffian duct remnants in females
+
+Location of Wolffian duct remnants in females?
+
+- A. Pouch of Douglas
+- B. Uterovesical pouch
+- C. Iliac fossa
+- D. Leaves of broad ligament
+
+<details><summary>Answer</summary>
+
+**D. Leaves of broad ligament** — Epoophoron, paroophoron, Gartner's duct cysts arise here.
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q552 — Uterus didelphys — least likely complication
+
+A 27-year-old with uterus didelphys. **Unlikely** complication?
+
+- A. Abortion
+- B. Endometriosis
+- C. Preterm labour
+- D. Transverse lie
+
+<details><summary>Answer</summary>
+
+**D. Transverse lie** *(per key)* — Didelphys typically has favourable lie; abortion, preterm labour, endometriosis are common.
+</details>
+
+---
+
+### Q553 — Warfarin at 36 weeks
+
+A pregnant woman at 36 weeks on warfarin for prosthetic valve, INR 3. Management?
+
+- A. Stop warfarin, start LMWH
+- B. Stop warfarin, start heparin
+- C. Continue warfarin
+- D. Stop warfarin, start LMWH + aspirin
+
+<details><summary>Answer</summary>
+
+**A. Stop warfarin, start LMWH** — Warfarin → fetal/maternal bleeding near delivery. Switch to LMWH at term.
+</details>
+
+---
+
+---
+
+### Q554 — Luteal phase hormones
+
+Regular 28-day cycle, hormonal profile on days 21–25?
+
+- A. Low estrogen, high progesterone, low LH/FSH
+- B. Low estrogen, low progesterone, low FSH/LH
+- C. Low estrogen, high progesterone, high FSH/LH
+- D. High estrogen, high progesterone, low FSH/LH
+
+<details><summary>Answer</summary>
+
+**D. High estrogen, high progesterone, low FSH/LH** — Mid-luteal phase (days 21–25): corpus luteum secretes both estradiol AND progesterone; negative feedback suppresses FSH and LH.
+
+</details>
+
+---
+
+### Q555 — Primary ovarian insufficiency
+
+32-year-old, P2L2, 6-month amenorrhea, FSH 36 IU/L, LH 56 IU/L, AMH 0.05?
+
+- A. PCOS
+- B. Primary ovarian insufficiency
+- C. Hypothyroidism
+- D. Hyperprolactinemia
+
+<details><summary>Answer</summary>
+
+**B. Primary ovarian insufficiency** — Elevated FSH/LH (hypergonadotropic) + very low AMH + amenorrhea in <40-year-old woman. PCOS = high LH but normal FSH; hyperprolactinemia/hypothyroidism = normal/low gonadotropins.
+
+</details>
+
+---
+
+### Q556 — Cord prolapse management
+
+Labour with pulsating cord palpable below presenting part — immediate management?
+
+- A. Elevate buttocks, push up presenting part, fill bladder
+- B. Reposition cord manually with vaginal packing
+- C. Wait and watch for delivery
+- D. Augment with oxytocin
+
+<details><summary>Answer</summary>
+
+**A. Elevate buttocks, digitally elevate presenting part, fill bladder** — Emergency management of cord prolapse: relieve cord compression while arranging emergency CS. Trendelenburg/knee-chest position; fill bladder with 500 mL saline to elevate presenting part.
+
+</details>
+
+---
+
+### Q557 — Uterine rupture — management
+
+G2P1L1 trial of labour, fetal bradycardia, maternal tachycardia, suprapubic pain, cervix 8 cm — management?
+
+- A. Emergency LSCS
+- B. Artificial rupture of membranes
+- C. Oxytocin augmentation
+- D. Instrumental delivery
+
+<details><summary>Answer</summary>
+
+**A. Emergency LSCS** — Signs of impending/complete uterine rupture: Bandl's ring + maternal tachycardia + fetal distress + suprapubic pain. Immediate caesarean; any augmentation is contraindicated.
+
+</details>
+
+---
+
+### Q558 — Episiotomy repair order
+
+Mediolateral episiotomy repair — correct tissue order?
+
+- A. Vaginal mucosa → Muscle → Skin
+- B. Skin → Mucosa → Muscle
+- C. Muscle → Skin → Mucosa
+- D. Skin → Muscle → Mucosa
+
+<details><summary>Answer</summary>
+
+**A. Vaginal mucosa → Muscle → Skin** — Standard episiotomy repair: continuous suture to vaginal mucosa, then interrupted/mattress to perineal muscles, then subcuticular to skin. Chromic catgut or Vicryl.
+
+</details>
+
+---
+
+### Q559 — Chadwick's sign classification
+
+2-month amenorrhea, bluish vaginal discoloration (Chadwick's sign) — sign type?
+
+- A. Presumptive signs
+- B. Probable signs
+- C. Positive signs
+- D. Diagnostic signs
+
+<details><summary>Answer</summary>
+
+**B. Probable signs** — Chadwick's sign (bluish discoloration of vagina/cervix due to vascular congestion) is a probable sign of pregnancy. Presumptive = missed period, nausea. Positive = FHR heard, US visualization.
+
+</details>
+
+---
+
+### Q560 — Cervical cancer FIGO staging — hydronephrosis
+
+Hydronephrosis from cervical tumor extension — FIGO stage?
+
+- A. Stage IIIA
+- B. Stage IIIB
+- C. Stage IVA
+- D. Stage IVB
+
+<details><summary>Answer</summary>
+
+**B. Stage IIIB** — FIGO 2018: parametrial extension to pelvic wall OR hydronephrosis/non-functioning kidney = Stage IIIB. IIIA = lower third vaginal involvement. IVA = bladder/rectal mucosa invasion.
+
+</details>
+
+---
+
+### Q561 — Ovarian carcinoma — morphology
+
+Abdominal distension, ascites, CA-125 elevated, multicystic ovarian mass — diagnosis?
+
+- A. Serous cystadenocarcinoma
+- B. Granulosa cell tumor
+- C. Serous cystadenoma (benign)
+- D. Mucinous cystadenoma
+
+<details><summary>Answer</summary>
+
+**A. Serous cystadenocarcinoma** — Most common malignant ovarian tumor; elevated CA-125; bilateral multicystic mass; psammoma bodies on histology. Mucinous = multilocular, large, unilateral.
+
+</details>
+
+---
+
+### Q562 — Atonic PPH — next step after initial measures fail
+
+Atonic PPH not responding to uterine massage + oxytocin — next step?
+
+- A. Intrauterine balloon tamponade
+- B. Uterine artery ligation
+- C. Internal iliac artery ligation
+- D. Compression sutures
+
+<details><summary>Answer</summary>
+
+**A. Intrauterine balloon tamponade** — After uterotonics fail, balloon tamponade (SRB/condom) is next step before surgical options. If balloon fails → compression sutures (B-Lynch) → uterine artery ligation → hysterectomy.
+
+</details>
+
+---
+
+### Q563 — Shoulder dystocia — HELPERR sequence
+
+Correct maneuver sequence for shoulder dystocia?
+
+- A. McRoberts → Suprapubic pressure → Rubin II → Gaskin → Zavanelli
+- B. Zavanelli → McRoberts → Gaskin → Rubin
+- C. Rubin → McRoberts → Gaskin → Zavanelli
+- D. Gaskin → Rubin → McRoberts → Zavanelli
+
+<details><summary>Answer</summary>
+
+**A. McRoberts → Suprapubic pressure → Rubin II → Gaskin → Zavanelli** — HELPERR mnemonic. McRoberts (hyperflexion of thighs) + suprapubic pressure first; then internal rotational maneuvers (Rubin, Woodscrew); all-fours (Gaskin); Zavanelli = last resort.
+
+</details>
+
+---
+
+### Q564 — Uterine prolapse — injured ligament
+
+P2L2 with uterine prolapse — which ligament is primarily damaged?
+
+- A. Sacrospinous ligament
+- B. Mackenrodt's (cardinal/transverse cervical) ligament
+- C. Broad ligament
+- D. Round ligament
+
+<details><summary>Answer</summary>
+
+**B. Mackenrodt's (cardinal) ligament** — Primary support of uterus at cervical level. Combined with uterosacral ligaments. Damage in multiparity → uterovaginal prolapse.
+
+</details>
+
+---
+
+### Q565 — Assisted breech — Lovset's maneuver
+
+Assisted breech delivery, after trunk delivered to umbilicus — maneuver for arms?
+
+- A. Lovset maneuver
+- B. Burns-Marshall maneuver
+- C. Mauriceau-Smellie-Veit maneuver
+- D. Pinard's maneuver
+
+<details><summary>Answer</summary>
+
+**A. Lovset maneuver** — For delivery of extended arms in breech: rotate trunk 180° to bring posterior shoulder under symphysis, then rotate back to deliver other arm. Burns-Marshall/MSV = for after-coming head.
+
+</details>
+
+---
+
+### Q566 — Postmenopausal bleeding — investigation
+
+55-year-old postmenopausal with blood-stained vaginal discharge — next step?
+
+- A. Reassure — postmenopausal discharge is normal
+- B. Immediate cardiology referral
+- C. Pelvic exam, TVS, Pap smear
+- D. Antihypertensives and observation
+
+<details><summary>Answer</summary>
+
+**C. Pelvic exam, TVS, Pap smear** — Postmenopausal bleeding = endometrial cancer until proven otherwise. Endometrial thickness >4 mm on TVS warrants biopsy (pipelle/D&C). Never reassure without evaluation.
+
+</details>
+
+---
+
+### Q567 — Perimenopausal heavy bleeding — next step
+
+46-year-old nulliparous, heavy irregular bleeding, endometrial thickness 18 mm — next step?
+
+- A. Combined oral contraceptive pill
+- B. Hysterectomy
+- C. Wait and watch for 6 months
+- D. Endometrial biopsy
+
+<details><summary>Answer</summary>
+
+**D. Endometrial biopsy** — ET ≥12 mm in perimenopausal women with abnormal uterine bleeding mandates biopsy to exclude endometrial hyperplasia/carcinoma. Hysterectomy without diagnosis is inappropriate.
+
+</details>
+
+---
+
+### Q568 — First trimester dating — most accurate
+
+First antenatal visit, LMP 2 months ago — most accurate dating parameter?
+
+- A. BPD
+- B. CRL (crown-rump length)
+- C. Femur length
+- D. Abdominal circumference
+
+<details><summary>Answer</summary>
+
+**B. CRL** — Most accurate in first trimester (5–13 weeks); ±5 days accuracy. BPD/FL/AC used in 2nd and 3rd trimester. CRL measured by TVS in early weeks.
+
+</details>
+
+---
+
+### Q569 — Toxoplasma in pregnancy
+
+Pregnant with toxoplasma IgG+, cervical lymphadenopathy — management?
+
+- A. Reassure and continue pregnancy
+- B. Medical termination of pregnancy
+- C. Counsel about teratogenic effects
+- D. Treat with pyrimethamine/sulfadiazine
+
+<details><summary>Answer</summary>
+
+**A. Reassure and continue pregnancy** — Positive IgG with negative IgM = past infection → immunity → no risk to fetus. Risk only with primary infection (IgM+) during pregnancy. Lymphadenopathy from past resolved infection.
+
+</details>
+
+---
+
+---
+
+
+## Year 2022
+
+### Q570 — HELLP syndrome — diagnosis *(2022)*
+
+A 34-week pregnant woman has LDH 700 IU/L, platelets 75,000/mm³, bilirubin 1.5 mg/dL, SGOT 200 U/L, BP 140/96 mm Hg, normal coagulation, and normal renal function. Diagnosis?
+
+- A. HELLP syndrome
+- B. Acute fatty liver of pregnancy
+- C. Viral hepatitis
+- D. Intrahepatic cholestasis
+
+<details><summary>Answer</summary>
+
+**A. HELLP syndrome** — Hypertension with thrombocytopenia, elevated liver enzymes (SGOT/LDH), and raised LDH fulfills HELLP syndrome criteria (Haemolysis, Elevated Liver enzymes, Low Platelets).
+
+</details>
+
+---
+
+---
+
+### Q571 — Oligohydramnios at 26 weeks — cause *(2022)*
+
+A woman at 26 weeks has fundal height corresponding to 24 weeks and USG shows decreased amniotic fluid. Which condition could have led to this?
+
+- A. Renal agenesis
+- B. Tracheoesophageal fistula
+- C. Cardiac abnormalities
+- D. Ureteral stricture
+
+<details><summary>Answer</summary>
+
+**A. Renal agenesis** — Bilateral renal agenesis causes reduced fetal urine production and severe oligohydramnios; TEF and cardiac anomalies cause polyhydramnios (impaired swallowing).
+
+</details>
+
+---
+
+---
+
+### Q572 — MgSO4 toxicity — features *(2022)*
+
+A type 1 diabetic mother on MgSO4 after cesarean section for preeclampsia develops delirium, respiratory rate 10/min, oliguria, and absent knee reflexes. Cause?
+
+- A. Magnesium sulfate toxicity
+- B. Diabetic ketoacidosis
+- C. Eclampsia
+- D. Diabetes insipidus
+
+<details><summary>Answer</summary>
+
+**A. Magnesium sulfate toxicity** — Loss of deep tendon reflexes is the earliest sign of MgSO4 toxicity, followed by respiratory depression, oliguria, and cardiac arrest; treat with calcium gluconate.
+
+</details>
+
+---
+
+---
+
+### Q573 — Hymen type (image-based) *(2022)*
+
+Identify the type of hymen shown in the image.
+
+- A. Imperforate hymen
+- B. Semilunar hymen
+- C. Septate hymen
+- D. Annular hymen
+
+<details><summary>Answer</summary>
+
+**C. Septate hymen** — A septate hymen has a band of tissue dividing the hymenal opening and may cause difficulty with tampon use or intercourse.
+
+</details>
+
+---
+
+---
+
+### Q574 — VVF repair — post-operative advice *(2022)*
+
+While discharging a patient after vesicovaginal fistula repair, what would you recommend?
+
+- A. Sexual abstinence for 3 months and avoid pregnancy for a year
+- B. Sexual abstinence for 3 weeks and avoid pregnancy for 6 months
+- C. Sexual abstinence for 6 weeks and avoid pregnancy for a year
+- D. Sexual abstinence for 6 months and avoid pregnancy for 6 years
+
+<details><summary>Answer</summary>
+
+**A. Sexual abstinence for 3 months and avoid pregnancy for a year** — After VVF repair, prolonged abstinence and delay of pregnancy allow adequate healing and reduce recurrence risk.
+
+</details>
+
+---
+
+---
+
+### Q575 — IUCD — absolute contraindication (image-based) *(2022)*
+
+Which is an absolute contraindication for insertion of the IUCD shown?
+
+- A. Menstruation
+- B. Trophoblastic disease
+- C. Immediately after delivery
+- D. Ruptured condom during intercourse
+
+<details><summary>Answer</summary>
+
+**B. Trophoblastic disease** — Gestational trophoblastic disease is an absolute contraindication to IUCD insertion due to uterine invasion risk and abnormal bleeding.
+
+</details>
+
+---
+
+---
+
+### Q576 — Uterine anomaly on HSG (image-based) *(2022)*
+
+A 20-year-old woman with primary infertility has HSG showing the anomaly in the image. What is the anomaly?
+
+- A. Septate uterus
+- B. Uterine didelphys
+- C. Bicornuate uterus
+- D. Unicornuate uterus
+
+<details><summary>Answer</summary>
+
+**A. Septate uterus** — A septate uterus shows a divided uterine cavity due to failure of resorption of the Mullerian septum; most common Mullerian anomaly causing recurrent miscarriage.
+
+</details>
+
+---
+
+---
+
+### Q577 — Amniotic fluid embolism — presentation *(2022)*
+
+A woman collapses soon after delivery with profuse bleeding and features of DIC. Most likely etiology?
+
+- A. Amniotic fluid embolism
+- B. Postpartum haemorrhage
+- C. Peripartum cardiomyopathy
+- D. Rupture uterus
+
+<details><summary>Answer</summary>
+
+**A. Amniotic fluid embolism** — Sudden cardiorespiratory collapse with DIC around delivery is classic for amniotic fluid embolism (anaphylactoid syndrome of pregnancy).
+
+</details>
+
+---
+
+---
+
+### Q578 — Placenta previa — site of implantation *(2022)*
+
+A primigravida at 22 weeks has profuse painless vaginal bleeding with normal BP and glucose. Placental implantation at which site causes this?
+
+- A. Internal os
+- B. Fallopian tube
+- C. Ovarian
+- D. Abdominal
+
+<details><summary>Answer</summary>
+
+**A. Internal os** — Placenta previa is implantation at or near the internal os and presents with painless bright-red vaginal bleeding (sentinel bleed).
+
+</details>
+
+---
+
+---
+
+### Q579 — A pregnant lady with 34 weeks *(2022)*
+
+A pregnant lady with 34 weeks of amenorrhea has the following findings: LDH- 700 IU/L, platelets – 75,000/mm3, serum bilirubin- 1.5mg/dL, SGOT-200 U/L, SGPT-150U/L, and BP -140/96 mm Hg. Her coagulation profile and renal function tests are normal. What is the diagnosis? LDH- Lactate dehydrogenase SGOT- Serum glutamic-oxaloacetic transaminase / AST- Asparate transaminase SGPT- Serum glutamic pyruvic transaminase / ALT- Alanine transaminase
+
+- A. HELLP syndrome
+- B. Acute fatty liver of pregnancy
+- C. Viral hepatitis
+- D. Intrahepatic cholestasis
+
+<details><summary>Answer</summary>
+
+**A. HELLP syndrome**
+
+</details>
+
+---
+
+---
+
+### Q580 — A woman at 26 weeks of *(2022)*
+
+A woman at 26 weeks of gestation presents for routine evaluation. On examination, fundal height corresponds to 24 weeks. Ultrasonography revealed decreased amniotic fluid. Which of the following conditions would have led to this presentation?
+
+- A. Renal agenesis
+- B. Tracheoesophageal fistula
+- C. Cardiac abnormalities
+- D. Ureteral stricture
+
+<details><summary>Answer</summary>
+
+**A. Renal agenesis**
+
+</details>
+
+---
+
+---
+
+### Q581 — A type 1 diabetic mother is *(2022)*
+
+A type 1 diabetic mother is on magnesium sulfate infusion post – cesarean section for preeclampsia. She develops delirium and is drowsy. She has a respiratory rate of 10/min, random blood glucose level of 240 mg / dL, oliguria, and bilaterally absent knee reflex. What is the cause of her condition?
+
+- A. Magnesium sulfate toxicity
+- B. Diabetic ketoacidosis
+- C. Eclampsia
+- D. Diabetes insipidus
+
+<details><summary>Answer</summary>
+
+**A. Magnesium sulfate toxicity**
+
+</details>
+
+---
+
+---
+
+### Q582 — While discharging a patient who underwent *(2022)*
+
+While discharging a patient who underwent a vesicovaginal fistula repair, which of the following would you recommend?
+
+- A. Sexual abstinence for 3 months and avoid pregnancy for a year
+- B. Sexual abstinence for 3 weeks and avoid pregnancy for 6 months
+- C. Sexual abstinence for 6 weeks and avoid pregnancy for a year
+- D. Sexual abstinence for 6 months and avoid pregnancy for 6 years
+
+<details><summary>Answer</summary>
+
+**A. Sexual abstinence for 3 months and avoid pregnancy for a year**
+
+</details>
+
+---
+
+---
+
+### Q583 — A pregnant woman with no other *(2022)*
+
+A pregnant woman with no other comorbid conditions develops preeclampsia. She enquires about the cause of her condition. The doctor explains that it is due to the failure of the invasion of:
+
+- A. Spiral artery by villous trophoblasts
+- B. Radial artery by cytotrophoblasts
+- C. Spiral artery by extravillous trophoblasts
+- D. Arcuate artery by extravillous trophoblasts
+
+<details><summary>Answer</summary>
+
+**C. Spiral artery by extravillous trophoblasts**
+
+</details>
+
+---
+
+---
+
+### Q584 — A woman with an obstetric score *(2022)*
+
+A woman with an obstetric score of G2P1 comes to the clinic at 14 weeks of gestation for h antenatal checkup. A uterine artery doppler was suggested by the doctor. What would it detect?
+
+- A. Early onset preeclampsia
+- B. Late – onset preeclampsia
+- C. Fetal growth restriction
+- D. Placenta accreta
+
+<details><summary>Answer</summary>
+
+**A. Early onset preeclampsia**
+
+</details>
+
+---
+
+---
+
+### Q585 — A female patient collapses soon after *(2022)*
+
+A female patient collapses soon after delivery. There is profuse bleeding and features of disseminated intravascular coagulation. Which of the following is the most likely etiology?
+
+- A. Amniotic fluid embolism
+- B. Uterine prolapse
+- C. Peripartum cardiomyopathy
+- D. Rupture of the uterus
+
+<details><summary>Answer</summary>
+
+**A. Amniotic fluid embolism**
+
+</details>
+
+---
+
+---
+
+### Q586 — You are examining a multigravida in *(2022)*
+
+You are examining a multigravida in the second stage of labor for the past two hours. On examination, contractions are adequate, the cervix is dilated with the head at station 0 with molding 2+ and caput 2+. The sagittal suture is in the right occipitotransverse position. The fetal heart rate is 140 beats / minute. Which of the following is carried out for the management of this patient?
+
+- A. Midpelvic forceps
+- B. Vacuum -assisted delivery
+- C. Wait for an hour for spontaneous labor
+- D. Lower segment cesarean section
+
+<details><summary>Answer</summary>
+
+**D. Lower segment cesarean section**
+
+</details>
+
+---
+
+---
+
+### Q587 — A primigravida presents to the labor *(2022)*
+
+A primigravida presents to the labor room at 40 weeks of gestation with lower abdominal pain. She has been in labor for 3 hours. Which of the following will determine if she is in active labor?
+
+- A. Fetal head 5/5 palpable on abdominal examination
+- B. Two contractions lasting for 10 seconds in 10 minutes
+- C. More than 5 cm cervical dilatation with complete effacement
+- D. Rupture of membranes
+
+<details><summary>Answer</summary>
+
+**C. More than 5 cm cervical dilatation with complete effacement**
+
+</details>
+
+---
+
+---
+
+### Q588 — What will be the level of *(2022)*
+
+What will be the level of the uterus on the second – day post delivery?
+
+- A. One finger breadth below umbilicus
+- B. Two finger breadths below umbilicus
+- C. Three finger breadths below umbilicus
+- D. Four finger breadths below umbilicus
+
+<details><summary>Answer</summary>
+
+**A. One finger breadth below umbilicus**
+
+</details>
+
+---
+
+---
+
+### Q589 — A primigravida woman at 12 weeks *(2022)*
+
+A primigravida woman at 12 weeks of gestation comes to the antenatal clinic for nutritional advice. Which of the following will you recommend?
+
+- A. Additional 300 kcal in 2nd trimester
+- B. Additional 300 kcal in 1st trimester
+- C. Additional 400 kcal in 3rd trimester
+- D. Additional 300 kcal throughout the pregnancy
+
+<details><summary>Answer</summary>
+
+**A. Additional 300 kcal in 2nd trimester**
+
+</details>
+
+---
+
+---
+
+### Q590 — A 40 year old G2P1 woman *(2022)*
+
+A 40 year old G2P1 woman with 18 weeks of amenorrhea comes with a dilated cervix. The cervical length is 15 mm. In spite of explaining the risks, she insisted on cerclage. Which of the following is a contraindication for cervical cerclage?
+
+- A. Ruptured membranes
+- B. Prolapse of membranes into the vagina
+- C. Fetal fibronectin positive
+- D. Advanced maternal age
+
+<details><summary>Answer</summary>
+
+**B. Prolapse of membranes into the vagina**
+
+</details>
+
+---
+
+---
+
+### Q591 — A primigravida presents to the emergency *(2022)*
+
+A primigravida presents to the emergency room in the early stage of labor with adequate uterine contractions. On per vaginal examination, a gynecoid pelvis is felt, the membranes are ruptured, and the vertex is felt in the right occipito- posterior position. How will you manage this patient?
+
+- A. Vacuum – assisted delivery
+- B. Cesarean section
+- C. Normal vaginal delivery
+- D. Forceps delivery
+
+<details><summary>Answer</summary>
+
+**C. Normal vaginal delivery**
+
+</details>
+
+---
+
+---
+
+### Q592 — A pregnant patient, with a history *(2022)*
+
+A pregnant patient, with a history of classical cesarean section in view of fetal growth retardation in the previous pregnancy, presents to you. She is currently at 35 weeks of gestation with breech presentation. What is the next step in management?
+
+- A. Cesarean section at 37 weeks
+- B. Advice USG and visit after 2 weeks
+- C. Internal podalic version followed by vaginal delivery
+- D. External cephalic version at 36 weeks
+
+<details><summary>Answer</summary>
+
+**A. Cesarean section at 37 weeks**
+
+</details>
+
+---
+
+---
+
+### Q593 — A primigravida at 22 weeks of *(2022)*
+
+A primigravida at 22 weeks of gestation presents to you with profuse vaginal bleeding. H blood pressure and glucose levels are within normal limits. Placental implantation at which of the following sites can cause this?
+
+- A. Internal OS
+- B. Fallopian tube
+- C. Ovarian
+- D. Abdominal
+
+<details><summary>Answer</summary>
+
+**A. Internal OS**
+
+</details>
+
+---
+
+---
+
+### Q594 — A female patient presents to you *(2022)*
+
+A female patient presents to you with six weeks of amenorrhea, associated with abdominal pain and vaginal bleeding with normal blood pressure. Investigations revealed beta – hCG to be 1400 mIU/mL. An ultrasound scan was done which showed a trilaminar endometrium with normal adnexa. What is the next best step in the management of this patient ?
+
+- A. Repeat beta – hCG after 48 hours
+- B. Repeat ultrasound after 3 days
+- C. Measurement of progesterone
+- D. Laparoscopy
+
+<details><summary>Answer</summary>
+
+**A. Repeat beta – hCG after 48 hours**
+
+</details>
+
+---
+
+---
+
+### Q595 — A 24 year old lactating female *(2022)*
+
+A 24 year old lactating female with an 18 month old child comes with a history of irregular, heavy bleeding seeking contraceptive advice. Which is the contraceptive of choice?
+
+- A. Progestasert
+- B. Copper – T 380A
+- C. Mala
+- D. Norethisterone enanthate – depot injection
+
+<details><summary>Answer</summary>
+
+**C. Mala**
+
+</details>
+
+---
+
+---
+
+### Q596 — A 20 year old woman presented *(2022)*
+
+A 20 year old woman presented at 7 weeks of gestation, unwilling to continue the pregnancy. What are the drugs used for medical termination of pregnancy in this patient?
+
+- A. Misoprostol and Medroxyprogesterone
+- B. Misoprostol and Mifepristone
+- C. Mifepristone and Methotrexate
+- D. Mifepristone and Medroxyprogesterone
+
+<details><summary>Answer</summary>
+
+**B. Misoprostol and Mifepristone**
+
+</details>
+
+---
+
+---
+
+### Q597 — Testosterone helps in the development of *(2022)*
+
+Testosterone helps in the development of various organs in the fetus. Which of the following stimulates its production?
+
+- A. LH from maternal pituitary
+- B. hCG from placenta
+- C. Inhibin from corpus luteum
+- D. GnRH from fetal hypothalamus
+
+<details><summary>Answer</summary>
+
+**B. hCG from placenta**
+
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q598 — A patient comes to the casualty *(2023)*
+
+A patient comes to the casualty with organophosphate poisoning. He was started on atropine infusion and pralidoxime. After 2 hours, the patient had a sudden rise in temperature. What is the likely cause of fever?
+
+- A. Atropine toxicity
+- B. A side effect of pralidoxime
+- C. Due to organophosphate poisoning
+- D. Idiopathic
+
+<details><summary>Answer</summary>
+
+**A. Atropine toxicity**
+
+</details>
+
+---
+
+---
+
+### Q599 — For which of the following procedures *(2023)*
+
+For which of the following procedures in the given OT list, can you preferably do a hysteroscopy?
+
+- A. Tubal ligation
+- B. Asherman syndrome
+- C. Endocervical polyp
+- D. Subserosal fibroid
+
+<details><summary>Answer</summary>
+
+**B. Asherman syndrome**
+
+</details>
+
+---
+
+---
+
+### Q600 — A primigravida presents to you with *(2023)*
+
+A primigravida presents to you with anemia early in her pregnancy. She is 7 weeks pregnant as seen on ultrasound. Her hemoglobin level is 9 g/dL. When should the iron supplements be started for her?
+
+- A. 10 to 12 weeks
+- B. 8 to 10 weeks
+- C. After 14 weeks
+- D. After 20 weeks
+
+<details><summary>Answer</summary>
+
+**B. 8 to 10 weeks**
+
+</details>
+
+---
+
+---
+
+### Q601 — A 50-year-old woman presents with foul-smelling *(2023)*
+
+A 50-year-old woman presents with foul-smelling bloody discharge per vagina mixed with mucous. On examination, a necrotizing growth is seen in the cervix with lateral parametrium involvement. What is the management for this patient?
+
+- A. Chemotherapy
+- B. Brachytherapy
+- C. Chemoradiation
+- D. Surgery
+
+<details><summary>Answer</summary>
+
+**C. Chemoradiation**
+
+</details>
+
+---
+
+---
+
+### Q602 — A 28-year-old woman with a history *(2023)*
+
+A 28-year-old woman with a history of multiple sexual partners presents with lower abdominal pain for 1 month. She experiences minimal discharge and complaints of intermenstrual bleeding. What is the most likely cause?
+
+- A. Herpes simplex
+- B. Genital tuberculosis
+- C. Candida
+- D. Neisseria gonorrhoea
+
+<details><summary>Answer</summary>
+
+**B. Genital tuberculosis**
+
+</details>
+
+---
+
+---
+
+### Q603 — A woman is set to undergo *(2023)*
+
+A woman is set to undergo a complete laparoscopic hysterectomy. She wants to know if there are any disadvantages to this procedure. What are the disadvantages of laproscopis over-open surgery? Pr
+
+- A. Prolonged recovery time
+- B. Not knowing the extent of thermal burns
+- C. Increased bleeding
+- D. Increased pain
+
+<details><summary>Answer</summary>
+
+**B. Not knowing the extent of thermal burns**
+
+</details>
+
+---
+
+---
+
+### Q604 — A 27-year-old pregnant G3P2L2 woman presents *(2023)*
+
+A 27-year-old pregnant G3P2L2 woman presents to you at 36+6 weeks. Ultrasound is done and shows the fetus is in a transverse lie. The liquor is adequate, the placenta is normal, and she has no risk factors. Both her previous deliveries were normal vaginal deliveries. How will you manage this patient?
+
+- A. Cesarean section
+- B. External cephalic version
+- C. Expectant management
+- D. Induction of labor
+
+<details><summary>Answer</summary>
+
+**B. External cephalic version**
+
+</details>
+
+---
+
+---
+
+### Q605 — During a hysteroscopic removal of a *(2023)*
+
+During a hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL is estimated in a patient. What is the immediate complication of this?
+
+- A. Acute tubular necrosis
+- B. DIC
+- C. Pulmonary edema
+- D. Thromboembolism
+
+<details><summary>Answer</summary>
+
+**C. Pulmonary edema**
+
+</details>
+
+---
+
+---
+
+### Q606 — A 54-year-old woman was diagnosed with *(2023)*
+
+A 54-year-old woman was diagnosed with advanced cervical cancer. She has a 14-year-old daughter. What advice would you give her daughter?
+
+- A. Advise HPV vaccine
+- B. Screen for BRCA mutation
+- C. Screen for PTEN mutation
+- D. Perform cervical biopsy
+
+<details><summary>Answer</summary>
+
+**A. Advise HPV vaccine**
+
+</details>
+
+---
+
+---
+
+### Q607 — A 17-year-old girl is seen for *(2023)*
+
+A 17-year-old girl is seen for primary amenorrhea. There is no development of breasts or hair in the pubic or axillary region. Her height is 155 cm, and her weight is 48 kg. She has bilateral inguinal masses. The uterus, fallopian tube, and Ovary are absent on ultrasound examination. What is the most likely diagnosis?
+
+- A. Complete androgen insensitivity syndrome
+- B. Hypergonadotropic hypogonadism
+- C. Turner syndrome
+- D. Polycystic ovary syndrome
+
+<details><summary>Answer</summary>
+
+**B. Hypergonadotropic hypogonadism**
+
+</details>
+
+---
+
+---
+
+### Q608 — A 16-year-old girl presents with cyclical *(2023)*
+
+A 16-year-old girl presents with cyclical pelvic pain every month. She has not achieved menarche yet. On examination, a suprapubic bulge can be seen in the lower abdomen. PR examination reveals a bulging swelling in the anterior aspect. What is the most likely diagnosis?
+
+- A. Transverse vaginal septum above the vagina
+- B. Vaginal atresia
+- C. Imperforate hymen
+- D. Cervical agenesis
+
+<details><summary>Answer</summary>
+
+**C. Imperforate hymen**
+
+</details>
+
+---
+
+---
+
+### Q609 — A pregnant woman comes to the *(2023)*
+
+A pregnant woman comes to the clinic. She already has twins by normal delivery. Which of the following is the correct representation of her obstetric score?
+
+- A. G3P2
+- B. G3P1
+- C. G2P1
+- D. G2P2
+
+<details><summary>Answer</summary>
+
+**C. G2P1**
+
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q610 — Ventouse flexion point
+
+The flexion point in ventouse delivery is located at which position on the fetal head?
+
+- A. 3 cm posterior to anterior fontanelle
+- B. 3 cm anterior to posterior fontanelle
+- C. 6 cm anterior to posterior fontanelle
+- D. Midway between fontanelles
+
+<details><summary>Answer</summary>
+
+**B. 3 cm anterior to posterior fontanelle** — Correct placement promotes flexion and minimizes trauma.
+</details>
+
+---
+
+### Q611 — Forceps identification (image)
+
+Identify the instrument shown.
+
+- A. Kielland
+- B. Wrigley
+- C. Pipers
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Piper's forceps** — Used for the after-coming head in breech delivery.
+</details>
+
+---
+
+---
+
+### Q612 — A 50-year-old woman, who had her *(2024)*
+
+A 50-year-old woman, who had her last pregnancy 20 years ago, presents with heavy bleeding and a mass felt on the perineum. A smooth, round, globular structure is observed on examination. On bimanual examination, the uterus is firm, and the cervix admits one finger. What is the most likely diagnosis?
+
+- A. Myxomatous Polyp
+- B. Uterine Inversion
+- C. Placental Polyp
+- D. Hypertrophied Cervix
+
+<details><summary>Answer</summary>
+
+**A. Myxomatous Polyp**
+
+</details>
+
+---
+
+---
+
+### Q613 — A woman presents with a twin *(2024)*
+
+A woman presents with a twin pregnancy. On ultrasound, the estimated age of one fetus is 1 month more than the other fetus.
+
+- A. Superfetation
+- B. Superfecundation
+- C. Suppositious child
+- D. Posthumous child
+
+<details><summary>Answer</summary>
+
+**A. Superfetation**
+
+</details>
+
+---
+
+---
+
+### Q614 — In sacrocolpopexy (sacrocolposuspension), which is *(2024)*
+
+In sacrocolpopexy (sacrocolposuspension), which is the correct site of attachment of the mesh?
+
+- A. Sacral promontory
+- B. Ischial spine
+- C. Pubic symphysis
+- D. Ischial tuberosity
+
+<details><summary>Answer</summary>
+
+**A. Sacral promontory**
+
+</details>
+
+---
+
+---
+
+### Q615 — A pregnant woman with bronchial asthma *(2024)*
+
+A pregnant woman with bronchial asthma develops postpartum hemorrhage (PPH) during delivery of her first child. Which drug is contraindicated?
+
+- A. Methyl ergometrine
+- B. Carboprost
+- C. Misoprostol
+- D. Oxytocin
+
+<details><summary>Answer</summary>
+
+**B. Carboprost**
+
+</details>
+
+---
+
+---
+
+### Q616 — A pregnant woman presents in labor *(2024)*
+
+A pregnant woman presents in labor with active genital ulcers, likely of infectious etiology such as Herpes Simplex Virus (HSV).
+
+- A. LSCS (Lower Segment Caesarean Section)
+- B. Classic Caesarean Section
+- C. Vaginal Delivery
+- D. Induction of Labour
+
+<details><summary>Answer</summary>
+
+**A. LSCS (Lower Segment Caesarean Section)**
+
+</details>
+
+---
+
+---
+
+### Q617 — Persistent occipito-posterior (OP) face-to-pubis d *(2024)*
+
+Persistent occipito-posterior (OP) face-to-pubis delivery is most likely to be seen in which pelvic type?
+
+- A. Android
+- B. Gynecoid
+- C. Anthropoid
+- D. Platypelloid
+
+<details><summary>Answer</summary>
+
+**C. Anthropoid**
+
+</details>
+
+---
+
+---
+
+### Q618 — A woman seeks Medical Termination of *(2024)*
+
+A woman seeks Medical Termination of Pregnancy (MTP) after 24 weeks of gestation due to fetal anomalies. Whose opinion is not required in this decision?
+
+- A. Gynaecologist
+- B. Radiologist
+- C. Pediatrician
+- D. Lawyer
+
+<details><summary>Answer</summary>
+
+**D. Lawyer**
+
+</details>
+
+---
+
+---
+
+### Q619 — A woman presents at 10 weeks *(2024)*
+
+A woman presents at 10 weeks of gestation and seeks medical termination of pregnancy (MTP). The appropriate choice would be?
+
+- A. Mifepristone and Misoprostol
+- B. Dinoprostone
+- C. Oxytocin
+- D. Intrauterine hyperosmolar saline
+
+<details><summary>Answer</summary>
+
+**A. Mifepristone and Misoprostol**
+
+</details>
+
+---
+
+---
+
+### Q620 — After ovulation, the egg is released *(2024)*
+
+After ovulation, the egg is released from the ovary. At what stage of meiosis is the released egg arrested?
+
+- A. Secondary oocyte arrested in meiosis I
+- B. Secondary oocyte arrested in meiosis II
+- C. Primary oocyte arrested in meiosis I
+- D. Primary oocyte arrested in meiosis II
+
+<details><summary>Answer</summary>
+
+**B. Secondary oocyte arrested in meiosis II**
+
+</details>
+
+---
+
+---
+
+### Q621 — Youre assisting with a ventouse (vacuum-assisted) *(2024)*
+
+You're assisting with a ventouse (vacuum-assisted) delivery in a primigravida woman due to maternal exhaustion. The obstetrician instructs you to place the ventouse cup correctly. Where should the ventouse cup be placed?
+
+- A. 3 cm posterior to the anterior fontanelle
+- B. 3 cm anterior to the posterior fontanelle
+- C. 6 cm anterior to the posterior fontanelle
+- D. Midway between the anterior and posterior fontanelle
+
+<details><summary>Answer</summary>
+
+**B. 3 cm anterior to the posterior fontanelle**
+
+</details>
+
+---
+
+---
+
+### Q622 — Which of the following is the *(2024)*
+
+Which of the following is the anticoagulation of choice for a pregnant female at 36 weeks of gestation?
+
+- A. Warfarin
+- B. Heparin
+- C. Apixaban
+- D. Enoxaparin
+
+<details><summary>Answer</summary>
+
+**B. Heparin**
+
+</details>
+
+---
+
+---
+
+### Q623 — A woman has just delivered a *(2024)*
+
+A woman has just delivered a healthy baby via normal vaginal delivery. You are considering the timing of IUCD insertion for contraception. What is the earliest time at which an intrauterine contraceptive device (IUCD) can be inserted?
+
+- A. Within 48 hours
+- B. After 6 weeks
+- C. After 3 months
+- D. After 6 months
+
+<details><summary>Answer</summary>
+
+**A. Within 48 hours**
+
+</details>
+
+---
+
+---
+
+### Q624 — What is the typical time between *(2024)*
+
+What is the typical time between fertilization and implantation in human reproduction?
+
+- A. 2 days
+- B. 8 days
+- C. 14 days
+- D. 16 days
+
+<details><summary>Answer</summary>
+
+**B. 8 days**
+
+</details>
+
+---
+
+---
+
+### Q625 — A 37-week pregnant woman with a *(2024)*
+
+A 37-week pregnant woman with a breech presentation is being evaluated for external cephalic version (ECV). Which of the following is not a contraindication for ECV?
+
+- A. Placenta previa
+- B. Twin pregnancy
+- C. Primigravida
+- D. PROM (Premature Rupture of Membranes)
+
+<details><summary>Answer</summary>
+
+**C. Primigravida**
+
+</details>
+
+---
+
+---
+
+### Q626 — A woman is undergoing elective tubal *(2024)*
+
+A woman is undergoing elective tubal ligation for permanent contraception. Which is the most common site selected for ligation, and what is the reason for choosing this site?
+
+- A. Ampulla – As it has a uniform thickness of muscle
+- B. Ampulla – As it is the widest part
+- C. Ampulla–Isthmus junction – As it is the site of fertilization
+- D. Isthmus – As it is the narrowest part
+
+<details><summary>Answer</summary>
+
+**D. Isthmus – As it is the narrowest part**
+
+</details>
+
+---
+
+---
+
+### Q627 — A pregnant woman at 8 weeks *(2024)*
+
+A pregnant woman at 8 weeks of gestation presents with symptoms suggestive of hyperthyroidism. What is the drug of choice for treating hyperthyroidism during the first trimester of pregnancy?
+
+- A. Propylthiouracil (PTU)
+- B. Methimazole
+- C. Carbimazole
+- D. Propranolol
+
+<details><summary>Answer</summary>
+
+**A. Propylthiouracil (PTU)**
+
+</details>
+
+---
+
+---
+
+### Q628 — A woman at 32 weeks of *(2024)*
+
+A woman at 32 weeks of gestation presents with a heart rate of 120 bpm and blood pressure of 160/110 mmHg. She has pedal edema and proteinuria and is diagnosed with eclampsia. She is started on the Pritchard regimen with magnesium sulfate. Under which of the following conditions should the treatment be stopped?
+
+- A. Respiratory rate (RR) < 18 breaths per minute
+- B. Visual disturbances start
+- C. Knee jerk reflex is present
+- D. Urine output of less than 60 ml in 4 hours
+
+<details><summary>Answer</summary>
+
+**D. Urine output of less than 60 ml in 4 hours**
+
+</details>
+
+---
+
+---
+
+### Q629 — A patient presents with a new *(2024)*
+
+A patient presents with a new 2 cm black nodular mass near an episiotomy scar that is painful and expands during menstruation. What is the most likely cause?
+
+- A. Endometriosis
+- B. Melanoma
+- C. Foreign body granuloma
+- D. Inclusion cyst
+
+<details><summary>Answer</summary>
+
+**A. Endometriosis**
+
+</details>
+
+---
+
+---
+
+### Q630 — A 35-year-old woman presents with chronic *(2024)*
+
+A 35-year-old woman presents with chronic lower abdominal pain that worsens during menstruation. An ultrasound (USG) shows a cystic ovarian mass with a “ground glass” appearance. Which of the following conditions is most likely associated with these findings?
+
+- A. Intramural fibroid
+- B. Adenomyoma
+- C. Endometrioma
+- D. Myomatous polyp
+
+<details><summary>Answer</summary>
+
+**C. Endometrioma**
+
+</details>
+
+---
+
+---
+
+### Q631 — A 45-year-old woman presents with complaints *(2024)*
+
+A 45-year-old woman presents with complaints of spotting and foul-smelling discharge for the past 2 months. On examination, cervical erosions are seen.
+
+- A. LBC, HPV antigen testing, Cervical biopsy
+- B. Pap smear, HSV testing, Cervical biopsy
+- C. Pap smear, HBV DNA, Cervical biopsy
+- D. LBC, HSV testing only
+
+<details><summary>Answer</summary>
+
+**A. LBC, HPV antigen testing, Cervical biopsy**
+
+</details>
+
+---
+
+---
+
+### Q632 — A 28-year-old woman with a 10-week *(2024)*
+
+A 28-year-old woman with a 10-week intrauterine gestation presents to the OPD with an intrauterine contraceptive device (IUCD) in place. The IUCD thread is clearly visible. She expresses her desire to continue the pregnancy. What is the next best step in management?
+
+- A. Leave IUCD inside and continue pregnancy with prophylactic antibiotics
+- B. Leave IUCD inside and continue pregnancy
+- C. Remove IUCD immediately and continue with pregnancy
+- D. Termination of pregnancy due to risk of infection
+
+<details><summary>Answer</summary>
+
+**C. Remove IUCD immediately and continue with pregnancy**
+
+</details>
+
+---
+
+---
+
+### Q633 — A 29-year-old woman presents with a *(2024)*
+
+A 29-year-old woman presents with a history of infertility and chronic pelvic pain. A transvaginal ultrasound is performed, which reveals an adnexal mass characterized by incomplete septations and a cogwheel appearance. What is the most likely diagnosis?
+
+- A. Hydrosalpinx
+- B. Follicular ovarian cyst
+- C. Endometriosis
+- D. Hemorrhagic ovarian cyst
+
+<details><summary>Answer</summary>
+
+**A. Hydrosalpinx**
+
+</details>
+
+---
+
+---
+
+### Q634 — Identify the degree of uterine prolapse *(2024)*
+
+Identify the degree of uterine prolapse.
+
+- A. Degree 1
+- B. Degree 2
+- C. Degree 3
+- D. Degree 4
+
+<details><summary>Answer</summary>
+
+**C. Degree 3**
+
+</details>
+
+---
+
+---
+
+### Q635 — A 37-weeks pregnant woman with a *(2024)*
+
+A 37-weeks pregnant woman with a mechanical prosthetic heart valve on warfarin presents for a routine antenatal check-up. She is asymptomatic and reports no bleeding or contractions.
+
+- A. Switch to LMWH
+- B. Immediate induction of labor
+- C. Immediate LSCS (Lower Segment Caesarean Section)
+- D. Continue the same
+
+<details><summary>Answer</summary>
+
+**A. Switch to LMWH**
+
+</details>
+
+---
+
+---
+
+### Q636 — A patient with cervical cancer is *(2024)*
+
+A patient with cervical cancer is found to have pelvic sidewall involvement and hydronephrosis on evaluation. What is the stage?
+
+- A. Stage II B
+- B. Stage II A
+- C. Stage III B
+- D. Stage III A
+
+<details><summary>Answer</summary>
+
+**C. Stage III B**
+
+</details>
+
+---
+
+---
+
+### Q637 — What is this grid system used *(2024)*
+
+What is this grid system used for?
+
+- A. Prolapse
+- B. Vulvar cancer
+- C. Endometrial cancer
+- D. Abruption placenta
+
+<details><summary>Answer</summary>
+
+**A. Prolapse**
+
+</details>
+
+---
+
+---
+
+### Q638 — A G5P4 woman comes for her *(2024)*
+
+A G5P4 woman comes for her first routine sonography. She has four daughters and desires a boy this time, and asks to know the sex of the fetus. According to the PCPNDT Act, which action should a radiologist choose?
+
+- A. Check for congenital anomalies, sex of baby, but do not reveal gender to the patient
+- B. Check for congenital anomalies, do not check the sex of the fetus
+- C. Check for congenital anomalies, sex of baby and reveal gender if it is female
+- D. Check only routine ANC, and avoid USG
+
+<details><summary>Answer</summary>
+
+**B. Check for congenital anomalies, do not check the sex of the fetus**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q639 — Previous toxoplasmosis, now pregnant, IgG positive
+
+1st trimester, previous toxoplasmosis, IgG positive. Advice?
+
+- A. Continue pregnancy, no risk
+- B. Abort — high risk
+- C. Continue, risk exists
+- D. Repeat IgM serology
+
+<details><summary>Answer</summary>
+
+**C. Continue, risk exists** — Positive IgG indicates past infection and immunity; primary infection in current pregnancy is very unlikely. Continue pregnancy; monitor. IgM titre helps distinguish current vs. old infection.
+</details>
+
+---
+
+---
+
+### Q640 — Child born with absent finger
+
+A child is born with an absent finger. Most likely diagnosis?
+
+- A. Amniotic band syndrome
+- B. Arthrogryposis multiplex
+- C. Polyhydramnios
+- D. Congenital constriction ring
+
+<details><summary>Answer</summary>
+
+**A. Amniotic band syndrome** — Amniotic bands (ADAM complex) can cause constriction rings, digital amputation, and craniofacial defects.
+</details>
+
+---
+
+---
+
+### Q641 — Uterine prolapse after home delivery, weak structure
+
+G2L2, delivered at home, presents with uterine prolapse. Which structure is weak?
+
+- A. Round ligament
+- B. Broad ligament
+- C. Cardinal ligament
+- D. Uterosacral ligament
+
+<details><summary>Answer</summary>
+
+**C. Cardinal ligament** — The transverse cervical (cardinal/Mackenrodt's) ligament is the main support preventing uterine prolapse.
+</details>
+
+---
+
+---
+
+### Q642 — CA-125 positive cystadenocarcinoma
+
+Gross image of ovarian cystadenocarcinoma, CA-125 positive. Diagnosis?
+
+- A. Serous cystadenocarcinoma
+- B. Mucinous carcinoma
+- C. Dysgerminoma
+- D. Yolk sac tumour
+
+<details><summary>Answer</summary>
+
+**A. Serous cystadenocarcinoma** — Most common malignant ovarian tumour; CA-125 elevated; psammoma bodies on histology; bilateral in 50%.
+</details>
+
+---
+
+---
+
+### Q643 — Pritchard regimen loading dose (MgSO₄)
+
+28-year-old, 34 weeks, severe preeclampsia. Pritchard regimen MgSO₄ loading dose?
+
+- A. 4 g IV
+- B. 6 g IV + 5 g IM each buttock
+- C. 14 g total
+- D. 20 g total
+
+<details><summary>Answer</summary>
+
+**C. 14 g total** — Pritchard regimen: 4 g IV (slow) + 5 g IM each buttock (10 g IM) = 14 g total loading dose. Maintenance: 5 g IM 4-hourly.
+</details>
+
+---
+
+---
+
+### Q644 — Episiotomy repair sequence
+
+Correct order of episiotomy repair?
+
+- A. Mucosa → Muscle → Skin
+- B. Skin → Muscle → Mucosa
+- C. Muscle → Mucosa → Skin
+- D. Mucosa → Skin → Muscle
+
+<details><summary>Answer</summary>
+
+**A. Mucosa → Muscle → Skin** — Episiotomy repair: vaginal mucosa first, then perineal muscles (bulbocavernosus, transverse perinei), then skin.
+</details>
+
+---
+
+---
+
+### Q645 — Winging of scapula during breech delivery
+
+Baby develops winging of scapula during vaginal breech delivery. Manoeuvre used?
+
+- A. McRoberts
+- B. Pinard
+- C. Lovset
+- D. Woods corkscrew
+
+<details><summary>Answer</summary>
+
+**C. Lovset manoeuvre** — For delivery of extended arms in breech: rotate baby 180°. Complication: winging of scapula (brachial plexus injury) if done incorrectly.
+</details>
+
+---
+
+---
+
+### Q646 — Controlled cord traction demonstration
+
+Resident applies counter-pressure above pubic symphysis while pulling umbilical cord. Manoeuvre?
+
+- A. Controlled cord traction (Brandt–Andrews)
+- B. Replacement of prolapsed cord
+- C. Manual removal of placenta
+- D. Lovset manoeuvre
+
+<details><summary>Answer</summary>
+
+**A. Controlled cord traction (Brandt–Andrews)** — Active management of third stage: oxytocin + controlled cord traction + uterine counter-pressure to deliver placenta and reduce PPH.
+</details>
+
+---
+
+---
+
+### Q647 — Postmenopausal blood-stained discharge, hypertension
+
+Postmenopausal woman with blood-stained discharge, BP 170/100. Next best step?
+
+- A. Reassure
+- B. PV exam, Pap smear, TVUSG
+- C. Refer to cardiologist
+- D. Wait and watch
+
+<details><summary>Answer</summary>
+
+**B. PV exam, Pap smear, TVUSG** — Postmenopausal bleeding is endometrial carcinoma until proven otherwise. Immediate evaluation: bimanual exam, cervical smear, transvaginal USG (endometrial thickness), then biopsy if needed.
+</details>
+
+---
+
+---
+
+### Q648 — Postmenopausal bleeding, total hysterectomy
+
+65-year-old with postmenopausal bleeding undergoes total hysterectomy. Most likely diagnosis?
+
+- A. Fibroid
+- B. Endometriosis
+- C. Adenomyosis
+- D. Endometrial cancer
+
+<details><summary>Answer</summary>
+
+**D. Endometrial cancer** — Postmenopausal bleeding is endometrial carcinoma until proven otherwise; 90% present with PMB.
+</details>
+
+---
+
+---
+
+### Q649 — Postpartum anticoagulant of choice
+
+Anticoagulant of choice in postpartum period?
+
+- A. LMWH
+- B. Warfarin
+- C. Aspirin
+- D. Clopidogrel
+
+<details><summary>Answer</summary>
+
+**A. LMWH** — Low molecular weight heparin is safe postpartum (does not cross into breast milk significantly). Warfarin can be used postpartum but requires INR monitoring; LMWH preferred initially.
+</details>
+
+---
+
+---
+
+### Q650 — Secondary amenorrhea, FSH 36, LH 56, AMH 0.5
+
+36-year-old P2L2, 9 months secondary amenorrhea, FSH 36, LH 56, AMH 0.5. Diagnosis?
+
+- A. PCOS
+- B. Premature ovarian failure
+- C. Hyperprolactinemia
+- D. Hypothalamic amenorrhea
+
+<details><summary>Answer</summary>
+
+**B. Premature ovarian failure (POI)** — Elevated FSH/LH + very low AMH + amenorrhea in a woman < 40 = premature ovarian insufficiency.
+</details>
+
+---
+
+---
+
+### Q651 — Heavy menstrual bleeding, endometrial thickness 16 mm
+
+46-year-old with HMB, endometrial thickness 16 mm on USG. Next best step?
+
+- A. Hysterectomy
+- B. Endometrial biopsy
+- C. HPV testing
+- D. Progesterone therapy
+
+<details><summary>Answer</summary>
+
+**B. Endometrial biopsy** — Endometrial thickness > 4–5 mm in postmenopausal or abnormal bleeding mandates biopsy to exclude endometrial carcinoma.
+</details>
+
+---
+
+---
+
+### Q652 — Atonic PPH not responding to medical management
+
+Atonic PPH not responding to oxytocin, ergometrine, misoprostol. Next best step?
+
+- A. Uterine devascularization
+- B. Hysterectomy
+- C. Bakri balloon tamponade
+- D. Compression suture (B-Lynch)
+
+<details><summary>Answer</summary>
+
+**C. Bakri balloon tamponade** — After medical failure, next step is uterine tamponade (Bakri balloon) before surgical options. If tamponade fails → compression sutures → devascularization → hysterectomy.
+</details>
+
+---
+
+---
+
+### Q653 — Shoulder dystocia manoeuvre sequence
+
+Correct order of manoeuvres in shoulder dystocia?
+
+- A. McRoberts → Rubin → Gaskin → Zavanelli
+- B. Zavanelli → McRoberts → Gaskin → Rubin
+- C. Rubin → Gaskin → McRoberts → Zavanelli
+- D. McRoberts → Suprapubic pressure → Rubin → Zavanelli
+
+<details><summary>Answer</summary>
+
+**A. McRoberts → Rubin → Gaskin → Zavanelli** — HELPERR mnemonic: Call Help, Episiotomy, Legs (McRoberts), Pressure (suprapubic), Enter (Rubin/internal rotational manoeuvres), Remove posterior arm, Roll (Gaskin all-fours). Zavanelli is last resort.
+</details>
+
+---
+
+---
+
+### Q654 — Previous LSCS, active labour, fetal bradycardia
+
+G2P1 with previous LSCS, active labour, fetal bradycardia, maternal tachycardia, cervix 8 cm. Next step?
+
+- A. Instrumental delivery
+- B. ARM
+- C. Increase oxytocin
+- D. Emergency LSCS
+
+<details><summary>Answer</summary>
+
+**D. Emergency LSCS** — Fetal bradycardia + maternal tachycardia + previous LSCS = suspect uterine rupture. Immediate laparotomy/LSCS.
+</details>
+
+---
+
+---
+
+### Q655 — Day 21 hormone profile
+
+Day 21 of 28-day cycle (mid-luteal phase). Correct hormone profile?
+
+- A. ↑P, ↑E, ↓FSH, ↓LH
+- B. ↑P, ↓E, ↓FSH, ↓LH
+- C. ↓P, ↓E, ↑LH, ↑FSH
+- D. ↑E, ↓P, ↑LH, ↓FSH
+
+<details><summary>Answer</summary>
+
+**B. ↑P, ↓E, ↓FSH, ↓LH** — Mid-luteal phase: corpus luteum produces high progesterone; estrogen is relatively lower; high progesterone suppresses FSH/LH.
+</details>
+
+---
+
+---
+
+### Q656 — Cord prolapse in labour
+
+Female in labour with cord prolapse. Next best step?
+
+- A. Push cord back into cervix
+- B. Emergency C-section
+- C. Head-low position, lift presenting part, fill bladder
+- D. Vaginal delivery with forceps
+
+<details><summary>Answer</summary>
+
+**B. Emergency C-section** — Cord prolapse with viable fetus = obstetric emergency → immediate LSCS. While preparing, displace presenting part manually and position knee-chest.
+</details>
+
+---
+
+---
+
+### Q657 — Cervical cancer with hydronephrosis, FIGO stage
+
+Cervical cancer with hydronephrosis. FIGO stage?
+
+- A. IIA
+- B. IIIA
+- C. IIIB
+- D. IV
+
+<details><summary>Answer</summary>
+
+**C. IIIB** — FIGO staging: hydronephrosis or non-functioning kidney due to cervical cancer = Stage IIIB (regardless of tumour size).
+</details>
+
+---
+
+---
+
+### Q658 — Amenorrhea, linea nigra, nausea, bluish vagina
+
+A woman with amenorrhea, linea nigra, nausea, vomiting, bluish vagina. These are:
+
+- A. Probable signs of pregnancy
+- B. Confirmed pregnancy
+- C. Menopause
+- D. Normal menstrual cycle
+
+<details><summary>Answer</summary>
+
+**A. Probable signs of pregnancy** — Chadwick's sign (bluish vagina), linea nigra, nausea are presumptive/probable signs. Only fetal heart tones/movement/ultrasound confirmation = positive (certain) signs.
+</details>
+
+---
+
+---
+
+### Q659 — Chronic lower abdominal pain, dysmenorrhea, MRI image
+
+Woman with chronic lower abdominal pain and dysmenorrhea; MRI image shown. Diagnosis?
+
+- A. Adenomyosis
+- B. Endometriosis
+- C. Endometrial carcinoma
+- D. Fibroid
+
+<details><summary>Answer</summary>
+
+**A. Adenomyosis** — MRI: heterogeneous myometrium, junctional zone thickening > 12 mm; dysmenorrhea and menorrhagia in multiparous woman.
+</details>
+
+---
+
+---
+
+### Q660 — Most accurate USG dating at 2 months
+
+First ANC, LMP 2 months ago. Most accurate USG parameter for dating?
+
+- A. Biparietal diameter
+- B. Mean gestational sac diameter
+- C. Abdominal circumference
+- D. Crown-rump length
+
+<details><summary>Answer</summary>
+
+**D. Crown-rump length (CRL)** — Most accurate for gestational age dating in first trimester (up to 13 weeks 6 days); error ± 5–7 days.
+</details>
+
+---
+
+---
+
+### Q661 — Decreased fetal movements at 36 weeks, non-reactive NST
+
+36 weeks, decreased fetal movements, NST: 1 acceleration, no deceleration in 20 min. Next step?
+
+- A. Emergency C-section
+- B. Induce labour
+- C. Wait and observe
+- D. Continue NST for 40 min
+
+<details><summary>Answer</summary>
+
+**D. Continue NST for 40 min** — A non-reactive NST in 20 minutes should be extended to 40 minutes (accounting for fetal sleep cycles) before declaring it non-reactive.
+</details>
+
+---
+
+---
+

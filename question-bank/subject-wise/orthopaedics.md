@@ -1002,3 +1002,771 @@ In Rheumatoid arthritis, which type of cells are prominently present
 </details>
 
 ---
+
+## Year 2018
+
+### Q61 — 8th and 9th rib costal cartilage *(2018)*
+
+8th and 9th rib costal cartilage forms which type of joint
+
+- A. Costochondral joint
+- B. Interchondral joint
+- C. Synovial joint
+- D. Costovertebral joint
+
+<details><summary>Answer</summary>
+
+**C. Synovial joint**
+
+</details>
+
+---
+
+---
+
+### Q62 — A boy presented with multiple non *(2018)*
+
+A boy presented with multiple non suppurative osteomyelitis with sickle cell anaemia. What will be the causative organism
+
+- A. Salmonella
+- B. S. aureus
+- C. H. influenzae
+- D. Enterobacter species
+
+<details><summary>Answer</summary>
+
+**A. Salmonella**
+
+</details>
+
+---
+
+---
+
+### Q63 — APatient has history of RTA 2 *(2018)*
+
+APatient has history of RTA 2 years back, at the same sight he developed pain and swelling. Xray shows the following features . What will be the
+
+- A. Osteogenic sarcoma
+- B. Ewing's sarcoma
+- C. Chronic osteomyelitis
+- D. Multiple myeloma
+
+<details><summary>Answer</summary>
+
+**C. Chronic osteomyelitis**
+
+</details>
+
+---
+
+---
+
+### Q64 — X-ray of skull showing which lesions *(2018)*
+
+X-ray of skull showing which lesions in the brain:
+
+- A. Paget's disease
+- B. Multiple myeloma
+- C. Osteosarcoma
+- D. Osteomyelitis
+
+<details><summary>Answer</summary>
+
+**A. Paget's disease**
+
+</details>
+
+---
+
+---
+
+
+## Year 2019
+
+### Q65 — Scaphoid non-union
+
+Fracture most prone to non-union?
+
+- A. Proximal scaphoid
+- B. Intertrochanteric
+- C. Distal radius
+- D. Talar neck
+
+<details><summary>Answer</summary>
+
+**A. Proximal scaphoid** — Retrograde blood supply (distal → proximal) → AVN/non-union of proximal pole.
+</details>
+
+---
+
+### Q66 — What should be the most likely *(2019)*
+
+What should be the most likely diagnosis of this 65 year old lady presents with backache and following radiograph of the spine shown in image?
+
+- A. Osteoporosis
+- B. Spondylolisthesis
+- C. Spondylolysis
+- D. Discitis
+
+<details><summary>Answer</summary>
+
+**B. Spondylolisthesis**
+
+</details>
+
+---
+
+---
+
+
+## Year 2020
+
+### Q67 — Osteoarthritis distribution
+
+PIP, DIP, first CMC pain; MCPs and wrist spared.
+
+- A. RA
+- B. Psoriatic arthritis
+- C. Pseudogout
+- D. Osteoarthritis
+
+<details><summary>Answer</summary>
+
+**D. Osteoarthritis** — Bouchard (PIP) and Heberden (DIP) nodes. RA spares DIPs; involves MCP & wrist.
+</details>
+
+---
+
+### Q68 — Pulled elbow
+
+A child spun by hands now won't use arm.
+
+- A. Olecranon fracture
+- B. Fracture head of radius
+- C. Elbow dislocation
+- D. Pulled elbow
+
+<details><summary>Answer</summary>
+
+**D. Pulled elbow (nursemaid's elbow)** — Radial head subluxation through annular ligament. Reduce by supination + flexion.
+</details>
+
+---
+
+---
+
+### Q69 — Upward movement of the thyroid gland *(2020)*
+
+Upward movement of the thyroid gland is prevented due to?
+
+- A. Berry ligament
+- B. Pretracheal fascia
+- C. Sternothyroid muscle
+- D. Thyrohyoid membrane
+
+<details><summary>Answer</summary>
+
+**B. Pretracheal fascia**
+
+</details>
+
+---
+
+---
+
+### Q70 — Wolffian duct remnant in female is *(2020)*
+
+Wolffian duct remnant in female is
+
+- A. Pouch of Douglas
+- B. Uterovesical pouch
+- C. Gartner’s cyst
+- D. Broad ligament
+
+<details><summary>Answer</summary>
+
+**C. Gartner’s cyst**
+
+</details>
+
+---
+
+---
+
+### Q71 — Identify the condition given in the *(2020)*
+
+Identify the condition given in the image below?
+
+- A. Chronic lymphedema
+- B. Cushing syndrome
+- C. Osteoporosis
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Chronic lymphedema**
+
+</details>
+
+---
+
+---
+
+### Q72 — What is the diagnosis of 55 *(2020)*
+
+What is the diagnosis of 55 old women with a chronic low backache-
+
+- A. Osteoporosis
+- B. Hurler's syndrome
+- C. Paget’s disease
+- D. Renal osteodystrophy
+
+<details><summary>Answer</summary>
+
+**A. Osteoporosis**
+
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q73 — Bilateral heel pain + back stiffness
+
+A 20-year-old with low backache, early morning stiffness, bilateral heel pain.
+
+- A. Ankylosing spondylitis
+- B. Spinal TB
+- C. Disc prolapse
+- D. Mechanical pain
+
+<details><summary>Answer</summary>
+
+**A. Ankylosing spondylitis** — Inflammatory back pain + enthesitis (heel pain = plantar fasciitis / Achilles tendinitis).
+</details>
+
+---
+
+### Q74 — Posterior hip dislocation
+
+Post-RTA patient with hip pain, flexed/adducted/medially rotated limb.
+
+- A. Anterior dislocation
+- B. Posterior dislocation
+- C. Trans-cervical fracture
+- D. Intertrochanteric fracture
+
+<details><summary>Answer</summary>
+
+**B. Posterior hip dislocation** — "Dashboard injury." Flexed, adducted, internally rotated, shortened.
+</details>
+
+---
+
+---
+
+### Q75 — Ankylosing spondylitis — early diagnosis
+
+26-year-old, progressive low back pain, morning stiffness >1 hour, anterior uveitis history — early diagnostic test?
+
+- A. Anti-CCP
+- B. MRI sacroiliac joint
+- C. CT sacroiliac joint
+- D. Bone scan
+
+<details><summary>Answer</summary>
+
+**B. MRI sacroiliac joint** — MRI detects early sacroiliitis (bone marrow edema) before X-ray changes appear. CT detects bony changes but misses early active inflammation. Anti-CCP = RA.
+
+</details>
+
+---
+
+### Q76 — Compartment syndrome — management
+
+25-year-old, closed midshaft tibia fracture, 6 hours later: severe disproportionate pain, passive dorsiflexion worsens pain, decreased sensation in first dorsal web space — management?
+
+- A. Opioid analgesia and observation
+- B. Limb elevation and observation
+- C. Immediate fasciotomy
+- D. Backslab cast and follow-up
+
+<details><summary>Answer</summary>
+
+**C. Immediate fasciotomy** — Acute compartment syndrome: 5 Ps (pain out of proportion, pain on passive stretch, paresthesia, pallor, pulselessness). Emergency fasciotomy; do not wait — irreversible muscle necrosis in 6–8 hours.
+
+</details>
+
+---
+
+### Q77 — Fat embolism syndrome
+
+24-year-old, femur fracture, internal fixation, day 2: SOB, confusion, petechial rash?
+
+- A. Fat embolism syndrome
+- B. Tension pneumothorax
+- C. Air embolism
+- D. ARDS
+
+<details><summary>Answer</summary>
+
+**A. Fat embolism syndrome** — Classic triad: respiratory distress + neurological symptoms + petechial rash (axillary/conjunctival); 24–72 hours post long bone fracture. Gurd's criteria. Treatment: supportive O2.
+
+</details>
+
+---
+
+### Q78 — Paget's disease of bone
+
+70-year-old, bone pain, ALP 710 (elevated), Ca 9.2 (normal), PO₄ 3.5 (normal), thickened cortices on X-ray?
+
+- A. Osteomalacia
+- B. Primary hyperparathyroidism
+- C. Paget's disease of bone
+- D. Osteoporosis
+
+<details><summary>Answer</summary>
+
+**C. Paget's disease** — Elevated ALP with normal Ca/PO₄ = classic Paget's. X-ray: cortical thickening, "blade of grass" lytic lesion, cotton-wool skull. Osteomalacia = low Ca, high ALP, low PO₄. Treat with bisphosphonates.
+
+</details>
+
+---
+
+---
+
+
+## Year 2022
+
+### Q79 — Fetus with multiple long-bone fractures
+
+Intrauterine scan at 13 weeks: fetus with multiple long-bone fractures.
+
+- A. Achondroplasia
+- B. Osteogenesis imperfecta
+- C. Cretinism
+- D. Marfan syndrome
+
+<details><summary>Answer</summary>
+
+**B. Osteogenesis imperfecta** — Type II (perinatal lethal) presents in utero with fractures and short bowed limbs.
+</details>
+
+---
+
+### Q80 — Post-RTA dyspnoea + petechiae
+
+Post-RTA patient develops dyspnoea, petechiae over whole body, O₂ saturation drop 2 days later.
+
+- A. Fat embolism
+- B. Air embolism
+- C. VTE
+- D. Pulmonary hypertension
+
+<details><summary>Answer</summary>
+
+**A. Fat embolism syndrome** — Triad of respiratory, neurological, and petechial rash (Gurd's criteria). 24–72 hours after long bone fracture.
+</details>
+
+---
+
+---
+
+### Q81 — What could be the diagnosis of *(2022)*
+
+What could be the diagnosis of a woman with this appearance on X-ray?
+
+- A. A multiple brown tumor
+- B. Fibrous dysplasia
+- C. Multiple enchondromas
+- D. Multiple exostoses
+
+<details><summary>Answer</summary>
+
+**C. Multiple enchondromas**
+
+</details>
+
+---
+
+---
+
+### Q82 — A male patient presented with a *(2022)*
+
+A male patient presented with a bone fracture following a road traffic accident. After 2 days he developed dyspnea, petechiae involving the whole body, and a fall in oxygen saturation. What is the likely diagnosis?
+
+- A. Fat embolism
+- B. Air embolism
+- C. Venous thromboembolism
+- D. Pulmonary hypertension
+
+<details><summary>Answer</summary>
+
+**A. Fat embolism**
+
+</details>
+
+---
+
+---
+
+### Q83 — An intrauterine scan at the 13th *(2022)*
+
+An intrauterine scan at the 13th week of pregnancy showed a fetus with multiple long bone fractures. What is commonly associated with this finding ?
+
+- A. Achondroplasia
+- B. Osteogenesis imperfecta
+- C. Cretinism
+- D. Marfan syndrome
+
+<details><summary>Answer</summary>
+
+**B. Osteogenesis imperfecta**
+
+</details>
+
+---
+
+---
+
+### Q84 — What is the most common complication *(2022)*
+
+What is the most common complication of this condition, if left untreated ?
+
+- A. Malunion and stiffness
+- B. Non-union and cubitus varus
+- C. Cubitus valgus
+- D. Myositis ossificans
+
+<details><summary>Answer</summary>
+
+**C. Cubitus valgus**
+
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q85 — Carpal tunnel diagnosis
+
+A patient with numbness/tingling in lateral 3 digits, relieved with arms hanging. Condition and test?
+
+- A. Guyon's canal syndrome, Froment's test
+- B. Carpal tunnel syndrome, Froment's test
+- C. Guyon's canal syndrome, Durkan's test
+- D. Carpal tunnel syndrome, Durkan's test
+
+<details><summary>Answer</summary>
+
+**D. Carpal tunnel syndrome, Durkan's test** — Median nerve compression. Durkan's = direct compression test (more sensitive than Tinel/Phalen).
+</details>
+
+---
+
+### Q86 — Café-au-lait + bone deformity
+
+A child with lower-limb deformity and hyperpigmented skin lesions; X-ray with ground-glass appearance.
+
+- A. Non-ossifying fibroma
+- B. Fibrous dysplasia
+- C. Paget's disease
+- D. Osteogenesis imperfecta
+
+<details><summary>Answer</summary>
+
+**B. Fibrous dysplasia** — McCune–Albright (café-au-lait + polyostotic FD + endocrinopathy).
+</details>
+
+---
+
+---
+
+### Q87 — The true statement among the following *(2023)*
+
+The true statement among the following is___
+
+- A. The dose of telmisartan should be reduced in renal failure but not in hepatic failure.
+- B. The dose of irbesartan should be reduced in case of mild-moderate hepatic failure and renal failure.
+- C. The dose of candesartan should be reduced in mild-moderate liver failure but not in renal failure.
+- D. Losartan acts as a thromboxane A2 antagonist and inhibits platelet aggregation.
+
+<details><summary>Answer</summary>
+
+**D. Losartan acts as a thromboxane A2 antagonist and inhibits platelet aggregation.**
+
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q88 — Back pain post-RTA, no deficit
+
+A man with back pain post-RTA, no neurological deficit. X-ray spine shown. Diagnosis?
+
+- A. Spinous process fracture
+- B. Chance fracture
+- C. Fracture of vertebral base
+- D. Compression fracture
+
+<details><summary>Answer</summary>
+
+**A. Spinous process fracture** *(per answer key)* — Stable injury, no deficit. (Chance fracture = flexion-distraction with seatbelt mechanism.)
+</details>
+
+---
+
+### Q89 — Hypophosphataemic rickets
+
+A child with growth failure, normal calcium, normal PTH, reduced phosphate, increased ALP. Diagnosis?
+
+- A. Nutritional rickets
+- B. Hypophosphataemic rickets
+- C. Type 1 VDDR
+- D. Type 2 VDDR
+
+<details><summary>Answer</summary>
+
+**B. Hypophosphataemic rickets** — X-linked dominant (PHEX mutation). FGF23-driven phosphate wasting; PTH and Ca normal.
+</details>
+
+---
+
+---
+
+### Q90 — A pediatric patient presents with a *(2024)*
+
+A pediatric patient presents with a completely displaced supracondylar fracture of the humerus, confirmed on X-ray. Which classification is used for this type of fracture, and what is its stage?
+
+- A. Gartland 3
+- B. Gartland 2
+- C. Salter-Harris 3
+- D. Salter-Harris 2
+
+<details><summary>Answer</summary>
+
+**A. Gartland 3**
+
+</details>
+
+---
+
+---
+
+### Q91 — Linear growth of bone is disturbed *(2024)*
+
+Linear growth of bone is disturbed when a fracture occurs in which of the following locations?
+
+- A. Epiphysis
+- B. Diaphysis
+- C. Metaphysis
+- D. Epiphyseal plate
+
+<details><summary>Answer</summary>
+
+**D. Epiphyseal plate**
+
+</details>
+
+---
+
+---
+
+### Q92 — An 8-year-old male child presents with *(2024)*
+
+An 8-year-old male child presents with fever and tenderness in the left lower limb. The limb is warm to the touch, and ESR is raised. An X-ray reveals periosteal elevation. What is the most likely diagnosis?
+
+- A. Ewing sarcoma
+- B. Osteosarcoma
+- C. Osteomyelitis
+- D. Giant Cell Tumor (GCT)
+
+<details><summary>Answer</summary>
+
+**C. Osteomyelitis**
+
+</details>
+
+---
+
+---
+
+### Q93 — A patient suffers an inversion injury *(2024)*
+
+A patient suffers an inversion injury to the ankle during a football match. Which structure is most likely to get injured?
+
+- A. Tibialis anterior tendon
+- B. Tibialis posterior tendon
+- C. Extensor hallucis longus tendon
+- D. Anterior talofibular ligament
+
+<details><summary>Answer</summary>
+
+**D. Anterior talofibular ligament**
+
+</details>
+
+---
+
+---
+
+### Q94 — A man presents with back pain *(2024)*
+
+A man presents with back pain following a road traffic accident. There was no history of neurological deficit. X-ray spine is done. What is the diagnosis?
+
+- A. Spinous process fracture
+- B. Chance fracture
+- C. Fracture of base of vertebrae
+- D. Compressed fracture
+
+<details><summary>Answer</summary>
+
+**A. Spinous process fracture**
+
+</details>
+
+---
+
+---
+
+### Q95 — A patient presents with a 5th *(2024)*
+
+A patient presents with a 5th metatarsal fracture. For how many days he/she would have to wear a cast?
+
+- A. 2–3 weeks
+- B. 3–5 weeks
+- C. 6–8 weeks
+- D. 16–20 weeks
+
+<details><summary>Answer</summary>
+
+**C. 6–8 weeks**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q96 — Chronic back pain, morning stiffness, anterior uveitis, normal X-ray
+
+27-year-old, chronic lower back pain improving with activity, morning stiffness, history of anterior uveitis, normal SI joint X-ray. Next evaluation?
+
+- A. MRI sacroiliac joints
+- B. Anti-CCP antibody
+- C. Repeat plain radiograph
+- D. CT sacroiliac joints
+
+<details><summary>Answer</summary>
+
+**A. MRI sacroiliac joints** — Detects early sacroiliitis (bone marrow oedema) before X-ray changes appear. Essential for diagnosis of early axial spondyloarthritis (ankylosing spondylitis).
+</details>
+
+---
+
+---
+
+### Q97 — Spondylolisthesis (image)
+
+Image shows forward slippage of a vertebra on the one below. Diagnosis?
+
+- A. Spondylolisthesis
+- B. Spondylolysis
+- C. Vertebral compression fracture
+- D. Degenerative disc disease
+
+<details><summary>Answer</summary>
+
+**A. Spondylolisthesis** — Forward slippage of one vertebra on another (usually L4-L5 or L5-S1); graded I–IV by Meyerding classification.
+</details>
+
+---
+
+---
+
+### Q98 — 11-year-old boy with painless limp, X-ray image
+
+11-year-old boy with painless limp, X-ray shown. Diagnosis?
+
+- A. Perthes disease
+- B. Developmental dysplasia of hip
+- C. TB hip
+- D. Slipped capital femoral epiphysis
+
+<details><summary>Answer</summary>
+
+**A. Perthes disease (LCPD)** — Avascular necrosis of femoral head in children (4–8 years typically, but can extend to 11). X-ray: flattening and fragmentation of femoral head.
+</details>
+
+---
+
+---
+
+### Q99 — Tibial fracture, disproportionate pain, loss of sensation in web space
+
+25-year-old, closed midshaft tibial fracture, 6 hours later severe disproportionate pain, pain with passive dorsiflexion, loss of 1st web space sensation. Next step?
+
+- A. Elevate and observe
+- B. Immediate fasciotomy
+- C. Opioid analgesics
+- D. Apply cast and schedule follow-up
+
+<details><summary>Answer</summary>
+
+**B. Immediate fasciotomy** — Compartment syndrome: pain out of proportion, pain with passive stretch, paraesthesia (1st web space = anterior compartment/deep peroneal nerve). Compartment pressure > 30 mmHg → emergent fasciotomy.
+</details>
+
+---
+
+---
+
+### Q100 — Femur and tibia fractures, petechial rash on chest/conjunctiva 2 days later
+
+2 days after closed femur and tibia fractures: breathlessness, tachycardia, petechial rash on chest and conjunctiva. Diagnosis?
+
+- A. DIC
+- B. Fat embolism syndrome
+- C. Pulmonary embolism
+- D. Sepsis
+
+<details><summary>Answer</summary>
+
+**B. Fat embolism syndrome** — Classic triad: respiratory distress + neurological changes + petechial rash (chest, axillae, conjunctiva) after long bone fractures. Onset 24–72 hours post-injury.
+</details>
+
+---
+
+---
+
+### Q101 — Rhomboid, positively birefringent crystals in synovial fluid
+
+45-year-old male, rhomboid-shaped positively birefringent crystals on polarised light microscopy of synovial fluid. Diagnosis?
+
+- A. Gout
+- B. Rheumatoid arthritis
+- C. Osteoarthritis
+- D. Pseudogout
+
+<details><summary>Answer</summary>
+
+**D. Pseudogout (CPPD)** — Calcium pyrophosphate crystals: rhomboid/rectangular shape, weakly positive birefringence. Gout: needle-shaped monosodium urate, negative birefringence.
+</details>
+
+---
+
+---
+

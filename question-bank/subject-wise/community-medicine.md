@@ -4197,3 +4197,4534 @@ The OptiMAL (optical) rapid diagnostic test for malaria detects:
 **C. Both P. falciparum and P. vivax** — OptiMAL test detects pLDH (parasite lactate dehydrogenase) from both P. falciparum and P. vivax using species-specific antibodies. HRP2 (ICT Malaria Pf) = P. falciparum only. rK39 = Leishmania donovani (kala-azar). Aldolase-based tests = pan-specific (all species).
 
 </details>
+
+## Year 2015
+
+### Q261 — PSGN is an example of which *(2015)*
+
+PSGN is an example of which type of hyper sensitivity
+
+- A. Type -1 hypersensitivity
+- B. Type -2 hypersensitivity
+- C. Type -3 hypersensitivity
+- D. Type -4 hypersensitivity
+
+<details><summary>Answer</summary>
+
+**C. Type -3 hypersensitivity**
+
+</details>
+
+---
+
+---
+
+### Q262 — Randomization is done to reduce *(2015)*
+
+Randomization is done to reduce ?
+
+- A. Recall bias
+- B. Selection bias
+- C. Berksonian bias
+- D. Reporting bias
+
+<details><summary>Answer</summary>
+
+**B. Selection bias**
+
+</details>
+
+---
+
+---
+
+### Q263 — After taking MMR live vaccine conception *(2015)*
+
+After taking MMR live vaccine, conception should not occur within ?
+
+- A. 2 weeks
+- B. 4 weeks
+- C. 8 weeks
+- D. 10 weeks
+
+<details><summary>Answer</summary>
+
+**B. 4 weeks**
+
+</details>
+
+---
+
+---
+
+### Q264 — Maximum relative risk attributed by obesity *(2015)*
+
+Maximum relative risk attributed by obesity to which condition ?
+
+- A. Hypertension
+- B. CHD
+- C. DM
+- D. Cancer
+
+<details><summary>Answer</summary>
+
+**C. DM**
+
+</details>
+
+---
+
+---
+
+### Q265 — Limiting amino acid in cereals *(2015)*
+
+Limiting amino acid in cereals ?
+
+- A. Methionine
+- B. Tryptophan
+- C. Lysine
+- D. Cysteine
+
+<details><summary>Answer</summary>
+
+**C. Lysine**
+
+</details>
+
+---
+
+---
+
+### Q266 — are incinerated except *(2015)*
+
+All are incinerated except ?
+
+- A. Human anatomical waste
+- B. Animal waste
+- C. Infected solid waste
+- D. Broken thermometers
+
+<details><summary>Answer</summary>
+
+**D. Broken thermometers**
+
+</details>
+
+---
+
+---
+
+### Q267 — is the intensity in decibel of *(2015)*
+
+What is the intensity in decibel of normal conversation in humans?
+
+- A. 30dB
+- B. 60dB
+- C. 90dB
+- D. 150dB
+
+<details><summary>Answer</summary>
+
+**B. 60dB**
+
+</details>
+
+---
+
+---
+
+### Q268 — is the type of epithelium of *(2015)*
+
+What is the type of epithelium of the adenoid?
+
+- A. Pseudostratified ciliated columnar epithelium
+- B. Non keratinized squamous epithelium
+- C. Cuboidal epithelium
+- D. Columnar epithelium with goblet cells
+
+<details><summary>Answer</summary>
+
+**A. Pseudostratified ciliated columnar epithelium**
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q269 — Complement mediated hypersensitivity reaction is *(2016)*
+
+Complement mediated hypersensitivity reaction is?
+
+- A. Type -1 hypersensitivity
+- B. Type -2 hypersensitivity
+- C. Type -4 hypersensitivity
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Type -2 hypersensitivity**
+
+</details>
+
+---
+
+---
+
+### Q270 — Recall bias is most commonly associated *(2016)*
+
+Recall bias is most commonly associated with which study design -
+
+- A. Case control study
+- B. Cohort study
+- C. Cohort case control study
+- D. Cross-sectional study
+
+<details><summary>Answer</summary>
+
+**A. Case control study**
+
+</details>
+
+---
+
+---
+
+### Q271 — Minimum accepted interval between two doses *(2016)*
+
+Minimum accepted interval between two doses of DPT vaccine?
+
+- A. 2 weeks
+- B. 4 weeks
+- C. 6 weeks
+- D. 8 weeks
+
+<details><summary>Answer</summary>
+
+**B. 4 weeks**
+
+</details>
+
+---
+
+---
+
+### Q272 — 70 kg farmer is consuming 56 *(2016)*
+
+An 70 kg farmer is consuming 56 grams proteins, 275 grams carbohydrate and 60 grams lipids. He consuming?
+
+- A. Less calories
+- B. More calories
+- C. Adequate calories
+- D. Connot be commented
+
+<details><summary>Answer</summary>
+
+**A. Less calories**
+
+</details>
+
+---
+
+---
+
+### Q273 — of the following has responsibility of *(2016)*
+
+Which of the following has responsibility of data collection for active malaria surveillance at PHC level ?
+
+- A. DHO [District Health Officer]
+- B. MPW [Multipurpose worker]
+- C. MO-PHC [Medical Officer-PHC]
+- D. DMO [District Medical Officer]
+
+<details><summary>Answer</summary>
+
+**C. MO-PHC [Medical Officer-PHC]**
+
+</details>
+
+---
+
+---
+
+### Q274 — Mac Ewans triangle is the landmark *(2016)*
+
+Mac Ewan's triangle is the landmark for:
+
+- A. Maxillary sinus
+- B. Mastoid antrum
+- C. Frontal sinus
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Mastoid antrum**
+
+</details>
+
+---
+
+---
+
+### Q275 — is a Rhinolith *(2016)*
+
+What is a Rhinolith:
+
+- A. Foreign body in nose
+- B. Stone in nose
+- C. Deposition of calcium around foreign body in nose
+- D. Misnomer
+
+<details><summary>Answer</summary>
+
+**C. Deposition of calcium around foreign body in nose**
+
+</details>
+
+---
+
+---
+
+### Q276 — In Snellens chart eye subtends an *(2016)*
+
+In Snellen's chart, eye subtends an angle of how many minutes with letters on Snellen's chart?
+
+- A. 1 min of arc
+- B. 5 min of arc
+- C. 10 min of arc
+- D. 15 min of arc
+
+<details><summary>Answer</summary>
+
+**B. 5 min of arc**
+
+</details>
+
+---
+
+---
+
+
+## Year 2017
+
+### Q277 — Incidence of a disease is 4 *(2017)*
+
+Incidence of a disease is 4 per 1000 of population with duration of 2 years. Calculate the prevalence?
+
+- A. 8/1000
+- B. 4/1000
+- C. 2/1000
+- D. 6/1000
+
+<details><summary>Answer</summary>
+
+**A. 8/1000**
+
+</details>
+
+---
+
+---
+
+### Q278 — Cytotoxic and expired drug disposal is *(2017)*
+
+Cytotoxic and expired drug disposal is done by which method?
+
+- A. Dumping
+- B. Autoclave
+- C. Landfill
+- D. Burning
+
+<details><summary>Answer</summary>
+
+**C. Landfill**
+
+</details>
+
+---
+
+---
+
+### Q279 — For NRR to be 1 couple *(2017)*
+
+For NRR to be 1 couple protection rate should be?
+
+- A. 50%
+- B. 60%
+- C. 55%
+- D. 75%
+
+<details><summary>Answer</summary>
+
+**B. 60%**
+
+</details>
+
+---
+
+---
+
+### Q280 — Study unit of ecological study is *(2017)*
+
+Study unit of ecological study is
+
+- A. Population
+- B. Patient
+- C. Community
+- D. Case
+
+<details><summary>Answer</summary>
+
+**A. Population**
+
+</details>
+
+---
+
+---
+
+### Q281 — In a screening test for DM *(2017)*
+
+In a screening test for DM out of 1000 population 90 Were positive.Then gold standard test was done in which 100 were positive. Calculate the sensitivity?
+
+- A. 90/100
+- B. 100/110
+- C. 80/100
+- D. 100/100
+
+<details><summary>Answer</summary>
+
+**A. 90/100**
+
+</details>
+
+---
+
+---
+
+### Q282 — What is the mass chemoprophylaxis for *(2017)*
+
+What is the mass chemoprophylaxis for meningococcal meningitis ?
+
+- A. Rifampicin
+- B. Chloramphenicol
+- C. Tetracycline
+- D. Penicillin
+
+<details><summary>Answer</summary>
+
+**A. Rifampicin**
+
+</details>
+
+---
+
+---
+
+### Q283 — Which among the following is an *(2017)*
+
+Which among the following is an active form of chlorination?
+
+- A. Hypochlorite ion
+- B. Hydrogen chloride
+- C. Hypochlorous acid
+- D. Chloride ion
+
+<details><summary>Answer</summary>
+
+**C. Hypochlorous acid**
+
+</details>
+
+---
+
+---
+
+### Q284 — Kala-Azar is found in all endemic *(2017)*
+
+Kala-Azar is found in all endemic areas except.
+
+- A. West Bengal
+- B. UP
+- C. Bihar
+- D. Assam
+
+<details><summary>Answer</summary>
+
+**D. Assam**
+
+</details>
+
+---
+
+---
+
+### Q285 — Risk among exposed by risk among *(2017)*
+
+Risk among exposed by risk among non exposed is defined to be –
+
+- A. Relative risk
+- B. Odds ratio
+- C. Attributable risk
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Relative risk**
+
+</details>
+
+---
+
+---
+
+### Q286 — Out of 100 women who were *(2017)*
+
+Out of 100 women who were offered ocp for contraception 10 women got pregnant when followed for 24 months. What is Pearl's index?
+
+- A. 10
+- B. 5
+- C. 4
+- D. 2
+
+<details><summary>Answer</summary>
+
+**B. 5**
+
+</details>
+
+---
+
+---
+
+### Q287 — Which of the following do not *(2017)*
+
+Which of the following do not cause hardness of water ?
+
+- A. Calcium carbonate
+- B. Calcium sulphate
+- C. Calcium bicarbonate
+- D. Magnesium bicarbonate
+
+<details><summary>Answer</summary>
+
+**A. Calcium carbonate**
+
+</details>
+
+---
+
+---
+
+### Q288 — Which of the following is not *(2017)*
+
+Which of the following is not an example of direct transmission in communicable diseases ?
+
+- A. Transplacental (vertical)
+- B. Soil
+- C. Respiratory
+- D. STD
+
+<details><summary>Answer</summary>
+
+**C. Respiratory**
+
+</details>
+
+---
+
+---
+
+
+## Year 2018
+
+### Q289 — RNTCP most peripheral unit
+
+Which of the following is the most peripheral centre under the Revised National Tuberculosis Control Programme (RNTCP) organisational structure?
+
+- A. District TB Centre
+- B. Intermediate Reference Laboratory
+- C. Tuberculosis Unit
+- D. Designated Microscopy Centre
+
+<details><summary>Answer</summary>
+
+**D. Designated Microscopy Centre** — RNTCP hierarchy (most to least peripheral): Peripheral Health Institution → Designated Microscopy Centre → Tuberculosis Unit → District TB Centre → State TB Cell → Central TB Division. DMC is the most peripheral diagnostic facility in NTEP/RNTCP.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q290 — Factories Act: true statement
+
+Which of the following is **true** about the Factories Act?
+
+- A. Children under 14 years of age must not be employed in factories
+- B. A child of 16 years can be employed between 6 AM and 8 PM
+- C. The maximum working hours is 72 hours per week
+- D. A child of 16 years can work 5 hours per day
+
+<details><summary>Answer</summary>
+
+**A. Children under 14 years of age must not be employed in factories** — Factories Act 1948: children <14 years cannot be employed. Adolescents (14–18 years) may work only 6 AM–7 PM, ≤4.5 hours/day. Maximum adult working hours: 48 h/week (9 h/day); with overtime: 60 h/week.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q291 — Iodine RDA for lactating women (NIN 2020)
+
+The dose of iodine for lactating women in India according to the National Institute of Nutrition (NIN) 2020 recommended dietary allowance is:
+
+- A. 200 mcg/day
+- B. 220 mcg/day
+- C. 250 mcg/day
+- D. 280 mcg/day
+
+<details><summary>Answer</summary>
+
+**D. 280 mcg/day** — NIN 2020 RDA for iodine: Adults >19 years = 150 mcg; Pregnancy = 250 mcg; Lactation = 280 mcg. WHO recommends 250 mcg for both pregnancy and lactation.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q292 — Non-parametric tests: true statement
+
+Which of the following is **true** for non-parametric tests?
+
+- A. ANOVA is an example of a non-parametric test
+- B. They are used for skewed distributions
+- C. They assume data follows a normal distribution
+- D. They cannot be used for small sample sizes
+
+<details><summary>Answer</summary>
+
+**B. They are used for skewed distributions** — Non-parametric tests do not assume normality; used for skewed data, ordinal data, or small samples. ANOVA is a parametric test. Chi-square test is an example of a non-parametric test (for nominal/categorical data).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q293 — Right to Life: Article of Indian Constitution
+
+Which article of the Indian Constitution confers the Right to Life to citizens of India?
+
+- A. Article 11
+- B. Article 21
+- C. Article 23
+- D. Article 25
+
+<details><summary>Answer</summary>
+
+**B. Article 21** — Article 21 of the Constitution of India: "No person shall be deprived of his life or personal liberty except according to procedure established by law." This forms the legal basis for the right to health.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q294 — WHO immunization coverage for measles eradication
+
+According to the WHO, what percentage of immunization coverage is needed for eradication of measles?
+
+- A. 68%
+- B. 72%
+- C. 84%
+- D. 96%
+
+<details><summary>Answer</summary>
+
+**D. 96%** — WHO recommends at least 96% immunization coverage of children under 1 year to achieve measles eradication. This reflects the high herd immunity threshold required (R₀ ≈ 12–18 for measles).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q295 — Interpreting p-value in cancer remission study
+
+A cancer study comparing a new treatment (33.2% remission) vs usual treatment (32.2% remission) reports a p-value of 0.04. Which statement is true?
+
+- A. Both treatments are equally effective
+- B. Neither treatment is effective
+- C. The new treatment is more effective than the usual treatment
+- D. The information given is not adequate to compare efficacy
+
+<details><summary>Answer</summary>
+
+**C. The new treatment is more effective than the usual treatment** — p-value = 0.04 < 0.05 → statistically significant → reject null hypothesis (no difference) → accept alternative hypothesis (new treatment is more effective). Clinically similar rates can still be statistically significant with large sample sizes.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q296 — ORS volume for dehydrated child (IMNCI Plan B)
+
+A 9-month-old baby with diarrhoea is feeding well and is thirsty. Skin pinch returns in 2 seconds. What is the treatment?
+
+- A. 200–400 ml of ORS in the first four hours
+- B. 400–700 ml of ORS in the first four hours
+- C. 700–900 ml of ORS in the first four hours
+- D. In addition to usual fluid intake, 100–200 ml after each loose stool
+
+<details><summary>Answer</summary>
+
+**B. 400–700 ml of ORS in the first four hours** — Skin pinch returning in 2 seconds + thirsty = **some dehydration** → IMNCI Plan B: 75 ml/kg ORS over 4 hours. At ~9 kg body weight: 675 ml ≈ 400–700 ml range. After rehydration, reassess and switch to Plan A maintenance.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q297 — Lethal BMI in men
+
+What value of BMI is considered 'lethal' in men?
+
+- A. <12
+- B. <13
+- C. <14
+- D. <15
+
+<details><summary>Answer</summary>
+
+**B. <13** — A BMI of ≤13 kg/m² is considered lethal in men. Women can survive at a lower BMI (down to ~11 kg/m²) due to different body composition and fat distribution.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q298 — Relative risk definition
+
+What is the ratio of the incidence of disease in the exposed to that in the non-exposed called?
+
+- A. Attributable risk
+- B. Odds ratio
+- C. Relative risk
+- D. Population attributable risk
+
+<details><summary>Answer</summary>
+
+**C. Relative risk** — RR = Incidence in exposed ÷ Incidence in non-exposed. Obtained from cohort studies. RR >1 = positive association; RR <1 = protective; RR = 1 = no association. Odds ratio (cross-product ratio) is the measure used in case-control studies.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q299 — Couple protection rate for NRR = 1
+
+To reach the demographic goal of NRR = 1, the couple protection rate (CPR) should exceed:
+
+- A. 50%
+- B. 40%
+- C. 70%
+- D. 60%
+
+<details><summary>Answer</summary>
+
+**D. 60%** — A CPR >60% is required to achieve NRR = 1 (net reproduction rate = 1; i.e., population replacement level fertility). This corresponds to every couple having approximately 2 children (TFR ≈ 2.1).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q300 — NIKSHAY: TB monitoring software
+
+Which is the online software launched under the National Tuberculosis Elimination Programme (NTEP) to monitor TB patients?
+
+- A. NIKSHAY
+- B. NISCHAY
+- C. E-DOTS
+- D. NIKUSHTH
+
+<details><summary>Answer</summary>
+
+**A. NIKSHAY** — NIKSHAY is the web-based patient management system for TB under NTEP (formerly RNTCP). NIKUSHTH is the online monitoring software for leprosy patients. Both are government-of-India digital surveillance tools.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q301 — Sensitivity of a screening test
+
+In a screening test for diabetes mellitus, out of 1000 population, 90 tested positive. A gold standard test identified 100 true positives. Calculate the sensitivity of the screening test.
+
+- A. 90/100
+- B. 100/110
+- C. (90 − 10)/1000
+- D. 90/1000
+
+<details><summary>Answer</summary>
+
+**A. 90/100** — Sensitivity = TP / (TP + FN). True positives (TP) = 90; False negatives (FN) = 100 − 90 = 10. Sensitivity = 90/(90+10) = 90/100 = 90%. Specificity would use true negatives and false positives.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q302 — Prevalence using incidence and duration
+
+The incidence of a disease is 4 per 1000 population with an average duration of 2 years. What is the prevalence?
+
+- A. 8/100
+- B. 2/1000
+- C. 4/1000
+- D. 8/1000
+
+<details><summary>Answer</summary>
+
+**D. 8/1000** — Prevalence = Incidence × Mean Duration (Muench's formula, steady state): 4/1000 × 2 years = 8/1000. This applies when incidence and duration are stable (steady-state condition).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q303 — Secondary attack rate definition
+
+The probability that infection will occur among susceptible persons following contact with an infectious person within the incubation period is known as:
+
+- A. Secondary attack rate
+- B. Case fatality rate
+- C. Primary attack rate
+- D. Tertiary attack rate
+
+<details><summary>Answer</summary>
+
+**A. Secondary attack rate (SAR)** — SAR = (Number of exposed/susceptible persons developing disease within incubation period × 100) ÷ Total close/exposed susceptible contacts. Primary index cases are excluded from numerator and denominator. SAR measures infectivity/transmissibility of a disease.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q304 — Water hardness: which does NOT cause it?
+
+Which of the following does **not** cause hardness of water?
+
+- A. Calcium carbonate
+- B. Calcium sulphate
+- C. Calcium bicarbonate
+- D. Magnesium sulphate
+
+<details><summary>Answer</summary>
+
+**A. Calcium carbonate** — Hardness of water: **Temporary (carbonate) hardness** = bicarbonates of Ca²⁺ and Mg²⁺. **Permanent (non-carbonate) hardness** = sulphates, chlorides, and nitrates of Ca²⁺ and Mg²⁺. Calcium carbonate (CaCO₃) is insoluble and precipitates out — it does not dissolve to cause hardness; it is actually removed by boiling (temporary hardness).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q305 — Direct vs indirect disease transmission
+
+Which of the following is **not** a method of direct transmission of communicable diseases?
+
+- A. Vertical transmission
+- B. Contact with soil
+- C. Droplet nuclei
+- D. Droplet transmission
+
+<details><summary>Answer</summary>
+
+**C. Droplet nuclei** — Droplet nuclei (≤5 µm) are a method of **indirect/airborne** transmission. They can remain suspended in air for extended periods. Droplets (>5 µm), vertical transmission, and direct contact/soil are direct transmission routes.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q306 — Minimum interval between two live vaccines
+
+What should be the minimum interval between administration of two different live vaccines?
+
+- A. 2 weeks
+- B. 4 weeks
+- C. 8 weeks
+- D. 12 weeks
+
+<details><summary>Answer</summary>
+
+**B. 4 weeks** — Two live vaccines given on the same day are acceptable per schedule. If not given simultaneously, a minimum 4-week (28-day) interval is required between two different live vaccines to prevent immune interference reducing vaccine efficacy.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q307 — Kala-Azar: not endemic in which state?
+
+Kala-Azar is endemic in all of the following states **except**:
+
+- A. West Bengal
+- B. Uttar Pradesh
+- C. Bihar
+- D. Assam
+
+<details><summary>Answer</summary>
+
+**D. Assam** — Kala-Azar (visceral leishmaniasis) is endemic in 54 districts across: Bihar, Jharkhand, West Bengal, and Uttar Pradesh. Assam is not a Kala-Azar endemic state. Vector = *Phlebotomus argentipes* (sandfly).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q308 — Unit of observation in ecological studies
+
+What is the unit of observation in ecological studies?
+
+- A. Population
+- B. Patient
+- C. Healthy individual
+- D. Case
+
+<details><summary>Answer</summary>
+
+**A. Population** — In ecological (correlational) studies, the unit of analysis is a population or community (e.g., a country, city, or region) rather than an individual. Ecological fallacy = inferring individual-level associations from group-level data.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+---
+
+### Q309 — Which of the statement regarding Factory *(2018)*
+
+Which of the statement regarding Factory act is correct
+
+- A. Child age less than 14 carrying serious work earn more money
+- B. Less than 14 yr not done for factory act
+- C. More than 72 hour work per week
+- D. More than 82 hours a week
+
+<details><summary>Answer</summary>
+
+**B. Less than 14 yr not done for factory act**
+
+</details>
+
+---
+
+---
+
+### Q310 — Shingles Is caused by which of *(2018)*
+
+Shingles Is caused by which of the following
+
+- A. Varicella-zoster
+- B. Herpes simplex
+- C. CMV
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Varicella-zoster**
+
+</details>
+
+---
+
+---
+
+### Q311 — Urea breath test is used for *(2018)*
+
+Urea breath test is used for diagnosis of
+
+- A. H.pylori
+- B. Campylobacter jejuni
+- C. E. coli
+- D. Lactobacillus
+
+<details><summary>Answer</summary>
+
+**A. H.pylori**
+
+</details>
+
+---
+
+---
+
+### Q312 — Hyperacute graft rejection occurs after how *(2018)*
+
+Hyperacute graft rejection occurs after how much time
+
+- A. 24 hours
+- B. 2 weeks right
+- C. In minutes
+- D. Years
+
+<details><summary>Answer</summary>
+
+**C. In minutes**
+
+</details>
+
+---
+
+---
+
+### Q313 — Which fungus is most commonly associated *(2018)*
+
+Which fungus is most commonly associated with orbital cellulitis in patients with diabetic ketoacidosis.
+
+- A. Candida
+- B. Mucor
+- C. Aspergillus
+- D. Rhizopus
+
+<details><summary>Answer</summary>
+
+**C. Aspergillus**
+
+</details>
+
+---
+
+---
+
+### Q314 — An anaerobe causing multiple abscess with *(2018)*
+
+An anaerobe causing multiple abscess with discharging sinuses, demonstrating sulphur granules in pus is
+
+- A. Actinomycetes
+- B. Nocardia
+- C. Salmonella
+- D. Tularemia
+
+<details><summary>Answer</summary>
+
+**A. Actinomycetes**
+
+</details>
+
+---
+
+---
+
+### Q315 — Whole blood is used as a *(2018)*
+
+Whole blood is used as a sample for which test
+
+- A. Bacteria
+- B. IGRA
+- C. Genexpert
+- D. Virus
+
+<details><summary>Answer</summary>
+
+**B. IGRA**
+
+</details>
+
+---
+
+---
+
+### Q316 — In a screening test for DM *(2018)*
+
+In a screening test for DM out of 1000 population, 90 were positive. Then the gold standard test was done in which 100 were positive. Calculate the sensitivity
+
+- A. 90/100
+- B. 100/110
+- C. 80/100
+- D. 100/100
+
+<details><summary>Answer</summary>
+
+**A. 90/100**
+
+</details>
+
+---
+
+---
+
+### Q317 — Risk among exposed to risk among *(2018)*
+
+Risk among exposed to risk among non exposed is defined to be –
+
+- A. Relative risk
+- B. Odds ratio
+- C. Attributable risk
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Relative risk**
+
+</details>
+
+---
+
+---
+
+### Q318 — Ideal time gap between 2 live *(2018)*
+
+Ideal time gap between 2 live vaccination
+
+- A. 2 weeks
+- B. 4 weeks
+- C. 8 weeks
+- D. 12 weeks
+
+<details><summary>Answer</summary>
+
+**B. 4 weeks**
+
+</details>
+
+---
+
+---
+
+### Q319 — Which vaccine is not include in *(2018)*
+
+Which vaccine is not include in indradhanush mission
+
+- A. Tuberculosis
+- B. Measles
+- C. Japanese Encephalitis
+- D. Diphtheria
+
+<details><summary>Answer</summary>
+
+**C. Japanese Encephalitis**
+
+</details>
+
+---
+
+---
+
+### Q320 — Which of the following statement is *(2018)*
+
+Which of the following statement is false about MR vaccination campaign launched by WHO
+
+- A. Children from 9 months to less than 15 vaccinated
+- B. Congenital rubella syndrome (CRS), responsible for irreversible birth defects
+- C. India has not yet launched this campaign
+- D. Will replace routine immunization for measles vaccine
+
+<details><summary>Answer</summary>
+
+**C. India has not yet launched this campaign**
+
+</details>
+
+---
+
+---
+
+
+## Year 2019
+
+### Q321 — DTwP vaccine: false statement
+
+A child presents with sore throat, difficulty swallowing, and mild fever. The clinical picture shows a grey membrane on the tonsils. Which of the following statements is **false** about the vaccine that could have prevented this condition (DTwP)?
+
+- A. The vaccine is administered on the anterolateral aspect of the thigh
+- B. A prior adverse reaction with temperature above 37°C is a contraindication to DTwP
+- C. Cellular pertussis component in the vaccine is not recommended after 7 years of age
+- D. The diphtheria toxoid dose in adults is much lesser than the paediatric dose
+
+<details><summary>Answer</summary>
+
+**B. A prior adverse reaction with temperature above 37°C is a contraindication** — This is FALSE. Temperature >40.5°C (not 37°C), seizures with or without fever, and hypotonic-hyporesponsive episodes are **precautions**, not absolute contraindications, for DTwP. True contraindications include anaphylaxis or encephalopathy within 7 days of a previous dose.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q322 — Malaria surveillance: efficiency indicator
+
+Which of the following parameters is used to check the **efficiency** of the surveillance system for malaria under the National Vector Borne Disease Control Programme (NVBDCP)?
+
+- A. Annual Parasite Index
+- B. Annual Blood Examination Rate
+- C. Slide positivity rate
+- D. Slide falciparum rate
+
+<details><summary>Answer</summary>
+
+**B. Annual Blood Examination Rate (ABER)** — ABER measures the efficiency of malaria surveillance by indicating what proportion of the population had blood smears examined in one year. Target ABER ≥10% of population. Annual Parasite Index (API) measures malaria incidence (cases per 1000 population per year).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q323 — Confounding factor: false statement
+
+Which of the following is **false** regarding a confounding factor?
+
+- A. It can be reduced by matching
+- B. It is associated individually with both the exposure and the outcome
+- C. It is distributed equally in both study and control groups
+- D. It is associated with the exposure under study
+
+<details><summary>Answer</summary>
+
+**C. It is distributed equally in both study and control groups** — This is FALSE. A confounding factor is distributed **unequally** between the exposed and unexposed groups — that is why it distorts the association. If it were equally distributed, it would not confound. Confounders can be controlled by matching, randomisation, stratification, or multivariate analysis.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q324 — Best level of prevention for breast cancer
+
+Which of the following is the best level of prevention of breast cancer?
+
+- A. Specific protection
+- B. Early diagnosis and treatment
+- C. Disability limitation
+- D. Rehabilitation
+
+<details><summary>Answer</summary>
+
+**B. Early diagnosis and treatment** — This is secondary prevention (screening + prompt treatment at pre-symptomatic or early symptomatic stage). Breast cancer lacks a proven primary prevention strategy (specific protection). Early detection via mammography significantly reduces mortality.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q325 — Vitamin A dosage for 2-year-old with keratomalacia
+
+What is the correct Vitamin A dosage for a 2-year-old child with keratomalacia?
+
+- A. 2,00,000 IU immediately, followed by the same dose after 24 hours only
+- B. 1,00,000 IU immediately, followed by the same dose after 1 week
+- C. 1,00,000 IU immediately, followed by the same dose after 2 days and after 1 week
+- D. 2,00,000 IU immediately, followed by the same dose after 24 hours, and again after 2 weeks
+
+<details><summary>Answer</summary>
+
+**D. 2,00,000 IU immediately, followed by the same dose after 24 hours, and again after 2 weeks** — WHO schedule for Vitamin A deficiency with clinical signs (xerophthalmia/keratomalacia) in children ≥12 months: 2,00,000 IU on Day 1, Day 2, and Day 8–14. Children <12 months: 1,00,000 IU per dose.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q326 — Normal distribution: percentage within ±1 SD
+
+In a normal distribution curve, what percentage of values lies within one standard deviation of the mean?
+
+- A. 68%
+- B. 34%
+- C. 99%
+- D. 95%
+
+<details><summary>Answer</summary>
+
+**A. 68%** — Empirical rule for normal distribution: **±1 SD = 68%**, ±2 SD = 95%, ±3 SD = 99.7%. The 34% figure represents the area between the mean and +1 SD (one side only).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q327 — IMNCI: pneumonia threshold respiratory rate (6-month-old)
+
+According to IMNCI, a 6-month-old child is classified as having pneumonia if the respiratory rate is more than:
+
+- A. 40 breaths/min
+- B. 60 breaths/min
+- C. 30 breaths/min
+- D. 50 breaths/min
+
+<details><summary>Answer</summary>
+
+**D. 50 breaths/min** — IMNCI fast breathing cut-offs: <2 months = >60/min; **2–11 months = >50/min**; 12 months–5 years = >40/min. A 6-month-old falls in the 2–11 months bracket. Lower chest wall indrawing = severe pneumonia.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q328 — Concurrent List of Indian Constitution
+
+Which of the following is part of the **Concurrent List** of the Indian Constitution?
+
+- A. Adulteration of food
+- B. Fishing and fisheries beyond territorial waters
+- C. Regulating labour in mines
+- D. Public health and sanitation
+
+<details><summary>Answer</summary>
+
+**A. Adulteration of food** — Adulteration of food is in the Concurrent List (Schedule VII), meaning both Central and State governments can legislate on it. Public health and sanitation are in the **State List**. Fishing beyond territorial waters and mines fall under the Union List.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q329 — Principal unit of administration in India
+
+The principal unit of administration in India is:
+
+- A. Village
+- B. Town
+- C. District
+- D. State
+
+<details><summary>Answer</summary>
+
+**C. District** — The district, headed by the District Collector (IAS), is the principal administrative unit in India. Below the district are sub-divisions, taluks/tahsils, municipalities, panchayats, and villages.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q330 — Odds ratio: obtained from which study design
+
+The cross-product ratio (odds ratio) can be obtained from which study design?
+
+- A. Ecological study
+- B. Cohort study
+- C. Cross-sectional study
+- D. Case-control study
+
+<details><summary>Answer</summary>
+
+**D. Case-control study** — OR = (a/b)/(c/d) = ad/bc, where cases and controls are selected by disease status. OR ≈ RR when disease is rare. Relative risk (RR) is obtained from cohort studies. OR can also be derived from RCTs.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q331 — Land required for trench method (controlled tipping)
+
+In controlled tipping, the amount of land required for the trench method for a population of 10,000 is:
+
+- A. 4 acres
+- B. 5 acres
+- C. 2 acres
+- D. 1 acre
+
+<details><summary>Answer</summary>
+
+**B. 5 acres** — Controlled tipping (sanitary landfill) using the trench method requires approximately **5 acres per year** for a population of 10,000. The trench method is used where level ground is available; the ramp method is used on sloping terrain; the area method is used in depressions and disused quarries.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q332 — Statistical test for difference in means between two groups
+
+The test of choice to measure the difference in means between two groups in a study, with one group being a control, is:
+
+- A. Chi-square test
+- B. Z test
+- C. Unpaired T test
+- D. Paired T test
+
+<details><summary>Answer</summary>
+
+**C. Unpaired T test** — Unpaired (independent samples) T test compares means of two unrelated groups. Paired T test = same group measured before and after. Chi-square = proportions/categorical data. ANOVA = comparing means of ≥3 groups.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q333 — Test of significance for two or more proportions
+
+The test of significance used for two or more proportions is:
+
+- A. Chi-square test
+- B. Student's T test
+- C. Z test
+- D. ANOVA
+
+<details><summary>Answer</summary>
+
+**A. Chi-square test** — Chi-square (χ²) is a non-parametric test used for categorical/nominal data and proportions. It tests for association between two categorical variables. ANOVA compares means of ≥3 quantitative groups. T tests compare means of 1–2 groups.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q334 — Positive predictive value
+
+If a patient tests positive for a disease, which of the following represents the probability that she actually has the disease?
+
+- A. Sensitivity
+- B. Specificity
+- C. Positive predictive value
+- D. Negative predictive value
+
+<details><summary>Answer</summary>
+
+**C. Positive predictive value (PPV)** — PPV = TP / (TP + FP). It is the probability that a person with a positive test truly has the disease. PPV is directly proportional to disease prevalence (unlike sensitivity/specificity, which are fixed test properties).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q335 — Lead time in screening
+
+In the natural history of disease, the period from the first possible time of detection (Point A) to the usual time of clinical diagnosis (Point C) is called:
+
+- A. Screening time
+- B. Lead time
+- C. Generation time
+- D. Incubation period
+
+<details><summary>Answer</summary>
+
+**B. Lead time** — Lead time = the period by which screening advances the diagnosis beyond the usual time of clinical presentation. Lead time bias occurs when earlier detection only appears to prolong survival without actually changing the outcome.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q336 — Statistical diagram for population change over years
+
+A diagram charts population change over years showing each year's total divided into components. What type of statistical diagram is this?
+
+- A. Simple bar graph
+- B. Component bar graph
+- C. Multiple bar graph
+- D. Frequency polygon
+
+<details><summary>Answer</summary>
+
+**B. Component bar graph** — Component (subdivided) bar graphs represent data where the total magnitude is divided into subsets/components, displayed as stacked segments within each bar. Used for nominal/ordinal scale data. Multiple bar graphs place bars side by side for comparison.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q337 — Triage: true statement
+
+What is true about triage done at a disaster site?
+
+- A. Casualties are treated on a first-come, first-served basis
+- B. Green labels are for those to be transported on priority
+- C. Moribund patients receive the lowest priority
+- D. The most common system used is a three-colour code system
+
+<details><summary>Answer</summary>
+
+**C. Moribund patients receive the lowest priority** — In triage: Red = immediate (life-threatening but salvageable); Yellow = delayed (serious but stable); Green = minor (walking wounded); Black = expectant/moribund (survival unlikely even with maximum care). The most common system is a **four-colour** (START) code.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q338 — Genetic disease risk in consanguineous first-cousin marriage
+
+The risk of genetic diseases in a consanguineous marriage between first cousins is:
+
+- A. 1–2%
+- B. 4–8%
+- C. 8–10%
+- D. 12–14%
+
+<details><summary>Answer</summary>
+
+**B. 4–8%** — Risk of genetic (autosomal recessive) diseases: First cousins = 4–8%; Non-consanguineous = 2–4%. First cousins share 1/8 of their genes (coefficient of relationship = 0.125).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q339 — Paradoxical carrier definition
+
+A paradoxical carrier is defined as:
+
+- A. A person who sheds pathogens during the incubation period
+- B. A carrier who acquired the pathogen from another carrier
+- C. A person who acquired the pathogen directly from a patient
+- D. A patient who became a carrier after recovery
+
+<details><summary>Answer</summary>
+
+**B. A carrier who acquired the pathogen from another carrier** — Paradoxical carrier = acquired the organism from another carrier (not from a clinical case). Incubatory carrier = sheds during incubation period. Convalescent carrier = continues to shed after recovery. Healthy/contact carrier = infected without developing disease.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q340 — Vaccine contraindicated in pregnancy
+
+Which of the following vaccines is contraindicated in pregnancy?
+
+- A. Hepatitis A vaccine
+- B. Hepatitis B vaccine
+- C. Rabies vaccine
+- D. Varicella vaccine
+
+<details><summary>Answer</summary>
+
+**D. Varicella vaccine** — Varicella vaccine is a live attenuated vaccine and is contraindicated in pregnancy (risk of fetal varicella syndrome). Hepatitis A, Hepatitis B, and rabies vaccines are inactivated/recombinant and can be given in pregnancy if indicated. Td/tetanus is routinely given in pregnancy.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q341 — Personal protective equipment: NOT a PPE
+
+Which of the following is **not** a personal protective equipment (PPE)?
+
+- A. Goggles
+- B. Gloves
+- C. Face shield
+- D. Lab coat
+
+<details><summary>Answer</summary>
+
+**D. Lab coat** — A lab coat is general protective clothing but is **not** classified as PPE. Standard PPE includes: gloves (hands), aprons/gowns (skin/clothing), masks/respirators (respiratory tract), goggles (eyes), and face shields (face, mouth, nose, eyes).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q342 — Best diagram to show changes in disease incidence over time
+
+What is the best way to plot the changes in incidence of a disease in a given area over time?
+
+- A. Line graph
+- B. Histogram
+- C. Ogive
+- D. Scatter diagram
+
+<details><summary>Answer</summary>
+
+**A. Line graph** — Line graphs (line diagrams) are the best way to display changes over time (time trends). Histogram = frequency distribution of continuous data. Ogive = cumulative frequency curve. Scatter diagram = correlation between two variables.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q343 — Rubella infection: false statement
+
+Which of the following is **false** about Rubella infection?
+
+- A. It is a type of droplet infection
+- B. Vertical transmission is possible
+- C. Infection in early pregnancy causes a mild form of disease in the fetus
+- D. Fetus affected in late pregnancy may have only deafness
+
+<details><summary>Answer</summary>
+
+**C. Infection in early pregnancy causes a mild form of disease in the fetus** — This is FALSE. Rubella infection in the **first trimester** causes the most severe fetal damage: abortions, stillbirth, CRS (cataracts, heart defects, deafness, microcephaly, blueberry muffin rash). Later infection (3rd trimester) may cause only deafness (option D is TRUE).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q344 — HIV post-exposure prophylaxis (PEP) after needlestick
+
+A resident doctor sustains a needlestick injury while taking blood from an HIV-positive patient. Which is the best recommendation for post-exposure prophylaxis?
+
+- A. Zidovudine + Lamivudine for 4 weeks
+- B. Lamivudine + Tenofovir + Efavirenz for 4 weeks
+- C. Tenofovir + Lamivudine + Dolutegravir for 4 weeks
+- D. Zidovudine + Lamivudine + Nevirapine for 4 weeks
+
+<details><summary>Answer</summary>
+
+**C. Tenofovir (TDF) 300 mg + Lamivudine (3TC) 300 mg + Dolutegravir (DTG) 50 mg for 4 weeks** — Current NACO-recommended HIV PEP regimen: TDF + 3TC + DTG for 28 days, initiated preferably within 2 hours (definitely <72 hours). HIV testing at baseline and 3 months post-exposure.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q345 — Sub-centre: role in the health system *(2019)*
+
+Which health facility is the most peripheral and first contact point between the primary health care system and the community?
+
+- A. Primary Health Centre (PHC)
+- B. Anganwadi centre
+- C. Sub-centre
+- D. Community Health Centre (CHC)
+
+<details><summary>Answer</summary>
+
+**C. Sub-centre** — Sub-centre: 1 per 5,000 population (plains), 1 per 3,000 (tribal/hilly). Staff: 1 ANM + 1 Male Multipurpose Worker. Tasks: MCH, family welfare, nutrition, immunisation, diarrhoea control, communicable disease control.
+
+</details>
+
+---
+
+### Q346 — A female patient of 26 years, *(2019)*
+
+A female patient of 26 years, presents with oral ulcers, photosensitivity and skin malar rash in face sparing the nasolabial folds of both side.
+
+- A. Sturge weber syndrome
+- B. SLE
+- C. Dermatitis
+- D. Psoriasis
+
+<details><summary>Answer</summary>
+
+**B. SLE**
+
+</details>
+
+---
+
+---
+
+### Q347 — Diagnostic power of a test to correctly *(2019)*
+
+Diagnostic power of a test to correctly diagnose a disease is:
+
+- A. Negative predictive value
+- B. Positive predictive value
+- C. Sensitivity
+- D. Specificity
+
+<details><summary>Answer</summary>
+
+**C. Sensitivity**
+
+</details>
+
+---
+
+---
+
+### Q348 — All of the following are examples of *(2019)*
+
+All of the following are examples of dietary fibre EXCEPT:
+
+- A. Pectin
+- B. Lignin
+- C. Cellulose
+- D. Gums
+
+<details><summary>Answer</summary>
+
+**D. Gums**
+
+</details>
+
+---
+
+---
+
+### Q349 — In a normal distribution curve, the area *(2019)*
+
+In a normal distribution curve, the area that comes under 1 standard deviation is:
+
+- A. 50%
+- B. 68%
+- C. 95%
+- D. 100%
+
+<details><summary>Answer</summary>
+
+**B. 68%**
+
+</details>
+
+---
+
+---
+
+### Q350 — The significance of difference between proportions *(2019)*
+
+The significance of difference between proportions can be tested by:
+
+- A. Student 't' test
+- B. Chi square test
+- C. ANOVA
+- D. Correlation
+
+<details><summary>Answer</summary>
+
+**B. Chi square test**
+
+</details>
+
+---
+
+---
+
+### Q351 — Dose of diphtheria antitoxin is *(2019)*
+
+Dose of diphtheria antitoxin is:
+
+- A. 1000 to 5000 IU
+- B. 10000 to 100000 IU
+- C. 1000 to 2000 IU
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. 10000 to 100000 IU**
+
+</details>
+
+---
+
+---
+
+
+## Year 2020
+
+### Q352 — Cost-benefit analysis
+
+Monetary benefit measured in which analysis?
+
+- A. Cost-effectiveness
+- B. Network analysis
+- C. Input-output analysis
+- D. Cost-benefit analysis
+
+<details><summary>Answer</summary>
+
+**D. Cost-benefit analysis** — Both cost and outcome measured in monetary units.
+</details>
+
+---
+
+### Q353 — ESI TB sickness benefit
+
+Extended sickness benefit duration for TB under ESI?
+
+- A. 1 year
+- B. 3 years
+- C. 4 years
+- D. 2 years
+
+<details><summary>Answer</summary>
+
+**D. 2 years** — Extended sickness benefit for specified long-term illnesses including TB.
+</details>
+
+---
+
+---
+
+### Q354 — Factories Act: maximum weekly hours including overtime
+
+According to the Factories Act 1948, what is the maximum work hours per week **including overtime**?
+
+- A. 48 hours
+- B. 72 hours
+- C. 60 hours
+- D. 66 hours
+
+<details><summary>Answer</summary>
+
+**C. 60 hours** — Factories Act 1948: normal working hours = 48 h/week (9 h/day); with overtime = maximum **60 h/week**. Overtime wages must be twice the regular rate. Adolescents (15–18 years): maximum 4.5 h/day, work only 6 AM–7 PM.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q355 — Mission to ensure complete immunization of children
+
+Which of the following was launched to ensure complete immunization of children in India?
+
+- A. Mission Dhanush
+- B. Mission Indradhanush
+- C. Mission Indira Yojana
+- D. Mission Suraksha Yojana
+
+<details><summary>Answer</summary>
+
+**B. Mission Indradhanush** — Launched by MoHFW in 2014, targeting fully immunizing children (>90%) who were partially or unimmunized by 2020. Intensified Mission Indradhanush (IMI) 2017 targeted December 2018. IMI 2.0 (2019) accelerated coverage. Currently covers 12 vaccine-preventable diseases.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q356 — Example of prospective screening
+
+Which of the following is an example of **prospective screening**?
+
+- A. Cervical Pap smear in a 40-year-old patient
+- B. Neonatal screening of a newborn for hypothyroidism
+- C. Screening of immigrants to a country
+- D. Urine for sugar in a 40-year-old man
+
+<details><summary>Answer</summary>
+
+**C. Screening of immigrants to a country** — Prospective screening = screening done for the benefit of **others** (population), not just the individual (e.g., screening immigrants for infectious diseases like TB, syphilis). Pap smear and neonatal screening benefit the individual. Mass screening also has a prospective element.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q357 — Monetary benefit measured in which health analysis
+
+Monetary benefit is measured in which of the following health programme analyses?
+
+- A. Cost-effectiveness analysis
+- B. Cost-benefit analysis
+- C. Network analysis
+- D. Input-output analysis
+
+<details><summary>Answer</summary>
+
+**B. Cost-benefit analysis** — Cost-benefit analysis (CBA) measures both costs and benefits in **monetary terms** and compares them (benefit-cost ratio). Cost-effectiveness analysis compares costs per unit of health gain (e.g., cost per DALY averted). Network analysis (PERT/CPM) is a management tool.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q358 — IMNCI: management of pneumonia with chest indrawing in a 2-year-old
+
+A 24-month-old child weighing 11 kg presents with a respiratory rate of 38/min and chest indrawing. What is the next step of management?
+
+- A. Oral amoxicillin for five days
+- B. Urgent referral to tertiary care centre
+- C. Administer antibiotics and review after 24 hours
+- D. Start antipyretics urgently
+
+<details><summary>Answer</summary>
+
+**A. Oral amoxicillin for five days** — Per revised IMNCI/WHO guidelines: chest indrawing in children 2 months–5 years WITHOUT danger signs = **pneumonia** (reclassified from severe pneumonia) → treat with oral amoxicillin for 5 days as outpatient. Referral is needed only if danger signs (cannot drink, lethargy, stridor at rest, severe malnutrition) are present.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q359 — ESI Act: extended sickness benefit duration for TB
+
+Under the Employee State Insurance (ESI) Act, an employee diagnosed with tuberculosis gets extended sickness benefit for:
+
+- A. 1 year
+- B. 2 years
+- C. 3 years
+- D. 6 months
+
+<details><summary>Answer</summary>
+
+**B. 2 years** — Under the ESI Act, the standard sickness benefit period is 91 days per year. For long-duration illnesses including TB, mental illness, and malignancy, an **extended sickness benefit** of up to **2 years** is provided at a higher rate (70% of wages).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q360 — Management by objective: which science?
+
+Which of the following management techniques is based on **behavioural sciences**?
+
+- A. Decision making
+- B. Systems analysis
+- C. Network analysis
+- D. Management by objective
+
+<details><summary>Answer</summary>
+
+**D. Management by objective (MBO)** — MBO is a behavioural-science-based management method emphasising goal-setting with employee participation. Quantitative/operations research methods: cost-benefit analysis, PERT/CPM, input-output analysis, systems analysis, work sampling. Behavioural methods: MBO, decision making (though decision making is sometimes considered both).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q361 — Statistical test for comparing proportions in two groups
+
+A study assesses nutritional status in rural (30 malnourished) and urban (20 malnourished) children from independent groups. Which test of significance is most appropriate?
+
+- A. Chi-square test
+- B. Paired T test
+- C. Standard error of mean
+- D. ANOVA
+
+<details><summary>Answer</summary>
+
+**A. Chi-square test** — Chi-square is used to compare **proportions/categorical data** between two or more independent groups. Malnourished vs not malnourished in rural vs urban = 2×2 categorical table → Chi-square. Unpaired T test would compare means; ANOVA compares means of ≥3 groups.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q362 — Metabolic syndrome (NCEP-ATP III): which criterion is NOT included?
+
+As per NCEP-ATP III, which of the following is **not** a criterion for metabolic syndrome?
+
+- A. Hypertriglyceridaemia
+- B. High LDL cholesterol
+- C. Central obesity
+- D. Hypertension
+
+<details><summary>Answer</summary>
+
+**B. High LDL cholesterol** — NCEP-ATP III metabolic syndrome criteria (any 3 of 5): (1) Waist circumference >102 cm (M) / >88 cm (F); (2) Triglycerides ≥150 mg/dL; (3) HDL <40 mg/dL (M) / <50 mg/dL (F); (4) BP ≥130/85 mmHg; (5) Fasting blood glucose ≥100 mg/dL. **LDL is NOT a criterion.**
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q363 — Normal distribution: range for 68% of population
+
+In a population study, the mean is 200 and standard deviation is 20. 68% of the population will lie between:
+
+- A. 180–220
+- B. 160–240
+- C. 170–230
+- D. 190–210
+
+<details><summary>Answer</summary>
+
+**A. 180–220** — 68% of values lie within ±1 SD of the mean: 200 ± 20 = 180–220. ±2 SD (95%) = 160–240. ±3 SD (99.7%) = 140–260.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q364 — Biomedical waste: blood bag disposal
+
+Which coloured bag is used for disposal of blood bags?
+
+- A. Blood bag → Yellow bag
+- B. Blood bag → Red bag
+- C. Blood bag → White container
+- D. Blood bag → Blue bin
+
+<details><summary>Answer</summary>
+
+**A. Yellow bag** — BMW Management Rules 2016: Yellow = human anatomical waste, soiled dressings, blood bags, discarded blood products, cytotoxic drugs, chemical liquid waste. Red = contaminated plastic recyclables. White = sharps. Blue = glass, metallic implants.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q365 — Calculating one variable from another: which statistical measure?
+
+Calculating one variable using another variable is done by:
+
+- A. Coefficient of correlation
+- B. Coefficient of regression
+- C. Coefficient of variation
+- D. Standard deviation
+
+<details><summary>Answer</summary>
+
+**B. Coefficient of regression** — Regression coefficient (b) is used to **predict** the value of one variable (dependent) from another (independent). Correlation coefficient (r) measures the strength and direction of the relationship but does not predict values. Coefficient of variation compares variability between datasets.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q366 — Best indicators for routine air pollution monitoring
+
+The best indicators for routine monitoring of air pollution are:
+
+- A. Sulfur dioxide, smoke, and suspended particulate matter
+- B. Carbon monoxide and nitrogen dioxide
+- C. Sulfur dioxide and carbon monoxide
+- D. Carbon monoxide and hydrogen sulfide
+
+<details><summary>Answer</summary>
+
+**A. Sulfur dioxide, smoke, and suspended particulate matter** — Standard routine air quality indicators: SO₂ (combustion marker), smoke/black smoke (particulate pollution), and suspended particulate matter (SPM/PM₁₀/PM₂.₅). These three are recommended for routine ambient air quality monitoring by Park's PSM.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q367 — Smoking and lung cancer: disease vs cigarette sales data — study type
+
+A researcher collects data on lung cancer deaths from hospitals and cigarette packets sold at the same time period, to study the relationship between smoking and lung cancer. Which type of study is this?
+
+- A. Cross-sectional study
+- B. Ecological study
+- C. Experimental study
+- D. Cohort study
+
+<details><summary>Answer</summary>
+
+**B. Ecological study** — The unit of analysis is a **population** (aggregate data: cigarette sales data and population-level cancer rates), not individuals. Ecological studies are fast and cheap but susceptible to ecological fallacy (group-level associations may not apply at individual level).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q368 — Bleaching powder: compound responsible for disinfection
+
+Which compound is predominantly responsible for the disinfecting property of bleaching powder?
+
+- A. Hypochlorite ion
+- B. Hydrochloric acid
+- C. Hypochlorous acid
+- D. Chloride ion
+
+<details><summary>Answer</summary>
+
+**C. Hypochlorous acid (HOCl)** — Bleaching powder (chlorinated lime, Ca(OCl)₂) releases HOCl on contact with water, which is 70–80 times more effective as a disinfectant than the hypochlorite ion (OCl⁻). Bleaching powder contains ~33% available chlorine.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q369 — Attributable risk definition
+
+The difference between the incidence of disease among exposed and incidence among non-exposed is:
+
+- A. Relative risk
+- B. Attributable risk
+- C. Population attributable risk
+- D. Odds ratio
+
+<details><summary>Answer</summary>
+
+**B. Attributable risk (AR)** — AR = Incidence in exposed − Incidence in non-exposed. It represents the absolute excess risk due to exposure. Also called risk difference or excess risk. Population AR (PAR) = Incidence in total population − Incidence in non-exposed.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q370 — SDG 3.1: maternal mortality target by 2030
+
+In Sustainable Development Goal 3, target 3.1 aims to reduce the Maternal Mortality Ratio by 2030 to ___ per 1 lakh live births:
+
+- A. <70
+- B. <100
+- C. <50
+- D. <130
+
+<details><summary>Answer</summary>
+
+**A. <70 per 1,00,000 live births** — SDG 3.1 target: reduce global MMR to <70 per 100,000 live births by 2030, and no country should have an MMR >140. India's MMR (2020): ~97/1,00,000 live births. Target for India under NHP 2017: MMR <100 by 2020.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q371 — Tetanus prophylaxis: clean wound, last dose 10 years ago
+
+A patient presents with a clean-cut, non-lacerated wound. His last tetanus vaccination was 10 years ago. What should be given?
+
+- A. Full course of tetanus vaccine
+- B. Single dose tetanus toxoid
+- C. Tetanus toxoid + tetanus immunoglobulin
+- D. No vaccine needed
+
+<details><summary>Answer</summary>
+
+**B. Single dose tetanus toxoid** — Clean wound + fully immunised but last dose >10 years ago → give 1 booster dose of tetanus toxoid only (no immunoglobulin). For tetanus-prone wounds (dirty/lacerated) with last dose >5 years ago → Td + TIG. For unimmunised patients with any wound → full course + TIG.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q372 — Coefficient of variation: use case
+
+The variation in one dataset is compared with that of another dataset using:
+
+- A. Variance
+- B. Coefficient of variation
+- C. Standard error of mean
+- D. Standard deviation
+
+<details><summary>Answer</summary>
+
+**B. Coefficient of variation (CV)** — CV = (SD / Mean) × 100%. It is a unitless measure of relative variability, allowing comparison of variability between datasets with different units or scales. SD and variance are absolute measures and cannot be compared across different-scale datasets.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q373 — 2009 pandemic influenza virus
+
+The pandemic that occurred in 2009 was due to which influenza virus?
+
+- A. H1N1
+- B. H5N1
+- C. H5N7
+- D. H3N2
+
+<details><summary>Answer</summary>
+
+**A. H1N1** — The 2009 "Swine flu" pandemic was caused by a novel reassortant **influenza A (H1N1)pdm09** virus. Historical pandemics: 1918 = H1N1 (Spanish flu); 1957 = H2N2 (Asian flu); 1968 = H3N2 (Hong Kong flu). H5N1 = avian influenza (endemic, no sustained human-to-human transmission).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q374 — Vaccine after natural disaster *(2020)*
+
+After a natural disaster, which vaccine should be prioritised?
+
+- A. Typhoid
+- B. Cholera
+- C. Both typhoid and cholera
+- D. Tetanus
+
+<details><summary>Answer</summary>
+
+**D. Tetanus** — Tetanus is prioritised post-disaster because trauma injuries are contamination-prone. Mass vaccination against cholera or typhoid has no evidence for outbreak prevention post-disaster. Hepatitis B also recommended for healthcare workers.
+
+</details>
+
+---
+
+### Q375 — CA-125: NPV calculation *(2020)*
+
+CA-125 screens for ovarian cancer. 60/100 women testing positive had ovarian cancer; 20/100 testing negative had ovarian cancer. What is the NPV?
+
+- A. 20/100
+- B. 40/100
+- C. 60/100
+- D. 80/100
+
+<details><summary>Answer</summary>
+
+**D. 80/100** — 2×2 table: TP=60, FP=40, FN=20, TN=80. NPV = TN/(TN+FN) = 80/(80+20) = 80%. PPV = 60%. Sensitivity = 75%. Specificity = 67%.
+
+</details>
+
+---
+
+### Q376 — Berkesonian (admission rate) bias *(2020)*
+
+Admission rate bias (Berkesonian bias) occurs because:
+
+- A. Volunteers differ from non-volunteers in health behaviour
+- B. Patients with two diseases are more likely to be hospitalised than those with one
+- C. Fatal cases are missed from the prevalent case series
+- D. Earlier detection inflates apparent survival without affecting mortality
+
+<details><summary>Answer</summary>
+
+**B. Greater probability of hospitalisation with two diseases** — Berkson's bias: in hospital-based case-control studies, subjects with both the exposure and the disease are more likely to be admitted, inflating the apparent association. Option A = Volunteer bias. Option C = Neyman (prevalence-incidence) bias. Option D = Lead time bias.
+
+</details>
+
+---
+
+### Q377 — Maternal antibody NOT transferred transplacentally *(2020)*
+
+Which antibody is NOT transferred from mother to baby across the placenta?
+
+- A. Diphtheria antitoxin
+- B. Tetanus antitoxin
+- C. Anti-measles IgG
+- D. Secretory IgA (anti-polio)
+
+<details><summary>Answer</summary>
+
+**D. Secretory IgA** — IgG (anti-diphtheria, anti-tetanus, anti-measles) crosses the placenta via FcRn receptors. Secretory IgA from OPV immunisation is present in colostrum/breast milk but does NOT cross the placenta, so newborns lack passive mucosal immunity to polio.
+
+</details>
+
+---
+
+### Q378 — MHA 2017: voluntary admission maximum duration *(2020)*
+
+Under the Mental Healthcare Act 2017 (Section 90), the maximum period for voluntary admission is:
+
+- A. 48 hours
+- B. 7 days
+- C. 30 days
+- D. 90 days
+
+<details><summary>Answer</summary>
+
+**D. 90 days** — If admission exceeds 30 days or there is readmission within 7 days, two psychiatrists must review and the MHRB must be informed. Maximum voluntary admission = 90 days; consent reviewed fortnightly.
+
+</details>
+
+---
+
+### Q379 — IUD: which is NOT an absolute contraindication *(2020)*
+
+All of the following are absolute contraindications to IUCD insertion EXCEPT:
+
+- A. Suspected pregnancy
+- B. Undiagnosed vaginal bleeding
+- C. Active pelvic inflammatory disease
+- D. Uterine malformation
+
+<details><summary>Answer</summary>
+
+**D. Uterine malformation** — Absolute contraindications: pregnancy, active PID, undiagnosed vaginal bleeding, cervical/uterine malignancy, previous ectopic pregnancy. Uterine malformation (distorted cavity) is a relative contraindication (WHO MEC 3/4), not absolute.
+
+</details>
+
+---
+
+---
+
+### Q380 — Mission Indradhanush is for *(2020)*
+
+Mission Indradhanush is for:
+
+- A. Non-communicable diseases
+- B. Universal immunization
+- C. Family planning
+- D. Safe water and sanitation
+
+<details><summary>Answer</summary>
+
+**B. Universal immunization**
+
+</details>
+
+---
+
+---
+
+### Q381 — The difference between the incidence in *(2020)*
+
+The difference between the incidence in the exposed and non-exposed group is best given by:
+
+- A. Relative risk
+- B. Attributable risk
+- C. Population attributable risk
+- D. Odds ratio
+
+<details><summary>Answer</summary>
+
+**B. Attributable risk**
+
+</details>
+
+---
+
+---
+
+### Q382 — Cancer patient undergoes radiotherapy, pick the *(2020)*
+
+Cancer patient undergoes radiotherapy, pick the true statement for radiosensitivity of tissues?
+
+- A. Rapidly dividing cells are resistant to radiation
+- B. GI mucosa is one of the most radioresistant tissues in the body
+- C. The intensity of radiation is inversely proportional to the square
+- D. Small blood vessels are least resistant to radiation
+
+<details><summary>Answer</summary>
+
+**C. The intensity of radiation is inversely proportional to the square**
+
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q383 — Kata thermometer
+
+Thermometer measuring low air velocity (cooling power)?
+
+- A. Kata thermometer
+- B. Globe thermometer
+- C. Wet thermometer
+- D. Dial thermometer
+
+<details><summary>Answer</summary>
+
+**A. Kata thermometer** — Measures low air movement / cooling power.
+</details>
+
+---
+
+### Q384 — Plague vector
+
+Outbreak of buboes in a community. Vector?
+
+- A. *Xenopsylla cheopis*
+- B. *Phlebotomus argentipes*
+- C. *Ixodes* tick
+- D. Female *Anopheles*
+
+<details><summary>Answer</summary>
+
+**A. *Xenopsylla cheopis* (rat flea)** — Bubonic plague (*Yersinia pestis*).
+</details>
+
+---
+
+---
+
+### Q385 — Dietary cholesterol recommendation
+
+Population-level cardiovascular disease prevention — recommended dietary cholesterol limit?
+
+- A. 100 mg/1000 kcal
+- B. 200 mg/1000 kcal
+- C. 300 mg/1000 kcal
+- D. 400 mg/1000 kcal
+
+<details><summary>Answer</summary>
+
+**A. 100 mg/1000 kcal** — ICMR/WHO recommendation: dietary cholesterol <100 mg per 1000 kcal or <300 mg/day. Saturated fat <10% of total energy.
+
+</details>
+
+---
+
+### Q386 — WIFS dose — adolescent girls
+
+Weekly Iron Folic Acid Supplementation (WIFS) for girls 10–19 years — dose?
+
+- A. 60 mg Fe + 100 µg FA
+- B. 100 mg Fe + 100 µg FA
+- C. 100 mg Fe + 500 µg FA
+- D. 60 mg Fe + 500 µg FA
+
+<details><summary>Answer</summary>
+
+**C. 100 mg elemental Fe + 500 µg FA** — National Iron Plus Initiative (NIPI) / WIFS program for adolescent girls (10–19 years): weekly IFA 100 mg Fe + 500 µg folic acid. Differs from ANRS dose for children 5–10 years.
+
+</details>
+
+---
+
+### Q387 — Infection to peak infectivity — term
+
+Interval from infection to time of maximum infectivity?
+
+- A. Communicable period
+- B. Incubation period
+- C. Generation time
+- D. Serial interval
+
+<details><summary>Answer</summary>
+
+**C. Generation time** — Time from infection in primary case to peak infectivity (or time of transmission to secondary case). Serial interval = time between symptom onset in successive cases (used when exact infection time unknown).
+
+</details>
+
+---
+
+### Q388 — NUHM Urban PHCs
+
+Population 70 lakh, 30% in slums — Urban PHCs required under NUHM?
+
+- A. 22
+- B. 42
+- C. 32
+- D. 52
+
+<details><summary>Answer</summary>
+
+**B. 42** — NUHM norm: 1 Urban PHC per 50,000 urban population. 70 lakh = 7,000,000 → 7,000,000 ÷ 50,000 + additional for slum population = ~42 Urban PHCs.
+
+</details>
+
+---
+
+### Q389 — De facto census
+
+De facto method of census counting is based on?
+
+- A. Place of birth
+- B. Place of enumeration on census date
+- C. Place of employment
+- D. Usual place of residence
+
+<details><summary>Answer</summary>
+
+**B. Place of enumeration on census date** — De facto = count people where they are found on census night. De jure = count people at their usual place of residence. India uses de facto method.
+
+</details>
+
+---
+
+### Q390 — Hemoglobin comparison — statistical test
+
+Comparing hemoglobin between two independent groups — appropriate test?
+
+- A. Paired t-test
+- B. Unpaired (independent) t-test
+- C. ANOVA
+- D. Chi-square
+
+<details><summary>Answer</summary>
+
+**B. Unpaired t-test** — Comparing means of a continuous variable (Hb) between two independent groups → unpaired/independent samples t-test. Paired t-test = same group before/after. ANOVA = ≥3 groups. Chi-square = categorical data.
+
+</details>
+
+---
+
+### Q391 — Lead time bias
+
+Breast cancer screening → 5-year survival improves but mortality unchanged — bias?
+
+- A. Berkson bias
+- B. Survival bias
+- C. Lead time bias
+- D. Detection bias
+
+<details><summary>Answer</summary>
+
+**C. Lead time bias** — Screening detects disease earlier → longer survival from diagnosis (without changing natural history) → apparent improved 5-year survival without reduced mortality. Classic bias in cancer screening trials.
+
+</details>
+
+---
+
+### Q392 — Nalgonda technique
+
+Nalgonda technique for defluoridation — materials used?
+
+- A. Alum + Lime
+- B. Gypsum + Charcoal
+- C. Alum + Charcoal
+- D. Gypsum + Lime
+
+<details><summary>Answer</summary>
+
+**A. Alum + Lime** — Nalgonda technique: alum (aluminum sulfate) + lime → flocculation → fluoride adsorption onto floc → sedimentation + filtration. Used for community-level defluoridation of drinking water.
+
+</details>
+
+---
+
+### Q393 — ICDS program coverage
+
+Bowing legs (rickets) in 3-year-old — nutritional program covering <6 years?
+
+- A. ICDS (Integrated Child Development Services)
+- B. Mid-Day Meal Scheme
+- C. Anemia Mukt Bharat
+- D. National Nutrition Deficiency Control Programme
+
+<details><summary>Answer</summary>
+
+**A. ICDS** — Covers 0–6 years; provides supplementary nutrition, immunization, health check-up, referral, pre-school education, nutrition/health education. Mid-Day Meal = 6–14 years (school children).
+
+</details>
+
+---
+
+### Q394 — Cluster RCT vs quasi-experimental
+
+Community intervention: 20 PHCs standard care, 20 PHCs new intervention (randomized by PHC) — study type?
+
+- A. Quasi-experimental
+- B. Cluster RCT
+- C. Case-control
+- D. Cross-sectional
+
+<details><summary>Answer</summary>
+
+**B. Cluster RCT** — Randomization at cluster (PHC) level, not individual level → cluster RCT. Quasi-experimental = no randomization (e.g., before-after, time series). Cluster RCT reduces contamination between groups.
+
+</details>
+
+---
+
+### Q395 — Passive surveillance
+
+Fever, COVID-19 confirmed, hospital death, registered 7 days later — type of surveillance?
+
+- A. Active surveillance
+- B. Passive surveillance
+- C. Syndromic surveillance
+- D. Sentinel surveillance
+
+<details><summary>Answer</summary>
+
+**B. Passive surveillance** — Health facility reports cases spontaneously to health authorities (routine reporting). Active = health workers go out to find cases. Sentinel = selected sites providing high-quality data.
+
+</details>
+
+---
+
+### Q396 — Anopheles mosquito larva
+
+Mosquito larva: no siphon tube, palmate hairs, lies parallel to water surface — species?
+
+- A. Culex
+- B. Anopheles
+- C. Aedes
+- D. Mansonia
+
+<details><summary>Answer</summary>
+
+**B. Anopheles** — Anopheles larva: no respiratory siphon tube; palmate (star-shaped) hairs; lies parallel to water surface (Culex/Aedes hang at 45°). Anopheles adult: spotted wings, sits at 45° to surface.
+
+</details>
+
+---
+
+### Q397 — Complementary feeding — 7-month infant
+
+7-month infant complementary feeding — recommended frequency and amount?
+
+- A. ½–1 katori, 3× daily
+- B. ½–1 katori, 4× daily
+- C. ½–1 katori, 5× daily
+- D. ½–1 katori, 6× daily
+
+<details><summary>Answer</summary>
+
+**A. ½–1 katori, 3× daily** — WHO/IYCF recommendations: 6–8 months = semi-solid food, 2–3 times/day; 9–11 months = 3–4 times/day; 12–23 months = 3–4 times/day + 1–2 snacks.
+
+</details>
+
+---
+
+---
+
+### Q398 — Kata thermometer: current use
+
+Which thermometer is currently used to measure low air velocity rather than the cooling power of air?
+
+- A. Kata thermometer
+- B. Globe thermometer
+- C. Wet globe thermometer
+- D. Dial anemometer
+
+<details><summary>Answer</summary>
+
+**A. Kata thermometer** — Originally designed to measure the cooling power of air (combined effect of temperature, humidity, and air movement), the kata thermometer is now used primarily as an **anemometer** to measure low air velocities. A wet kata reading ≥20 and a dry kata reading ≥6 were formerly used as indices of thermal comfort.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q399 — Vector for bubonic plague
+
+There is an outbreak of buboes in a community. What is the vector responsible for this condition?
+
+- A. Xenopsylla cheopis
+- B. Phlebotomus argentipes
+- C. Ixodes tick
+- D. Female Anopheles mosquito
+
+<details><summary>Answer</summary>
+
+**A. Xenopsylla cheopis** — Bubonic plague (*Yersinia pestis*) is transmitted by the **rat flea** (*Xenopsylla cheopis*). *Phlebotomus argentipes* = kala-azar (visceral leishmaniasis). *Ixodes* tick = Lyme disease, RMSF. *Anopheles* = malaria.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q400 — Leptospirosis flood prophylaxis: chemical distributed with doxycycline
+
+The Pathanamthitta district of Kerala was affected by floods. Doxycycline was distributed for leptospirosis prophylaxis. Which other chemical will be distributed along with it?
+
+- A. Zinc phosphide
+- B. Malathion
+- C. Lindane
+- D. Paris green
+
+<details><summary>Answer</summary>
+
+**B. Malathion** — In flood-affected areas, **malathion** (organophosphate insecticide) is distributed for vector control (mosquitoes, sandflies) to prevent dengue and other vector-borne diseases that peak after floods. Doxycycline 200 mg/week × 6 weeks = leptospirosis prophylaxis for high-risk populations. Zinc phosphide = rodenticide (not distributed to the public).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q401 — Blood spillage on hospital floor: disinfectant of choice
+
+Following a road traffic accident, there is spillage of blood on the hospital floor. Which disinfectant will you use to clean the floor?
+
+- A. Ethyl alcohol
+- B. Chlorhexidine
+- C. Sodium hypochlorite
+- D. Formaldehyde
+
+<details><summary>Answer</summary>
+
+**C. Sodium hypochlorite** — 0.5% sodium hypochlorite (1:10 dilution of 5% bleach) is used for blood/body fluid spill management. Procedure: absorb spill with paper towels → clean with water and detergent → saturate with 0.5% sodium hypochlorite → leave 30 minutes → clean again.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q402 — Air quality index classification (AQI ~394–407)
+
+The air quality index of a particular day recorded at a monitoring station was approximately 394–407. According to the AQI classification, this is:
+
+- A. Moderately polluted
+- B. Poor
+- C. Very poor
+- D. Severe
+
+<details><summary>Answer</summary>
+
+**C. Very poor** — India's AQI categories: Good (0–50), Satisfactory (51–100), Moderate (101–200), Poor (201–300), Very poor (301–400), Severe (401–500). An AQI of ~394 falls in the **Very poor** category (though on the boundary with Severe).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q403 — Japanese Encephalitis vaccine: type and route
+
+Which of the following is true about the Japanese Encephalitis (JE) vaccine used in a community outbreak vaccination drive?
+
+- A. Live vaccine, subcutaneous route
+- B. Killed vaccine, intramuscular route
+- C. Live vaccine, intramuscular route
+- D. Killed vaccine, subcutaneous route
+
+<details><summary>Answer</summary>
+
+**B. Killed vaccine, intramuscular route** — The JE vaccine used in the national immunisation programme (SA 14-14-2 strain) in India is a **live attenuated** vaccine given subcutaneously. However, the inactivated (killed) cell-culture-derived JE vaccine is given intramuscularly. In the context of outbreak response/adult vaccination, the killed IM vaccine is typically referenced. Note: SA 14-14-2 (live, SC) is used in NIP for children.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q404 — Evaluation based on treatment and clinical management
+
+The evaluation based on the treatment given to patients and their clinical management in a healthcare facility measures which of the following?
+
+- A. Outcome
+- B. Process
+- C. Structure
+- D. Input
+
+<details><summary>Answer</summary>
+
+**B. Process** — Donabedian's triad: **Structure** = resources (staff, equipment, facilities); **Process** = what is done to patients (treatment, clinical management, procedures); **Outcome** = results (morbidity, mortality, patient satisfaction). Evaluating what treatment was given and how = process evaluation.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q405 — Vaccine contraindicated in immunocompromised child
+
+A girl child has had recurrent yeast infections and respiratory virus infections since 3 months of age. Which vaccine is contraindicated considering her immune status?
+
+- A. Inactivated polio vaccine (IPV)
+- B. Measles/MMR vaccine
+- C. DPT vaccine
+- D. TT/Td vaccine
+
+<details><summary>Answer</summary>
+
+**B. Measles/MMR vaccine** — Recurrent opportunistic infections since infancy = primary immunodeficiency (likely SCID or combined immunodeficiency). **Live attenuated vaccines** (MMR, oral polio, varicella, BCG, yellow fever) are contraindicated in immunocompromised children. Killed/inactivated vaccines (IPV, DPT, TT) are safe.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q406 — Conditioning influence for malnutrition
+
+Which of the following is a **conditioning influence** for malnutrition?
+
+- A. Child-rearing practices
+- B. Infectious diseases
+- C. Food habits
+- D. Genetic factors
+
+<details><summary>Answer</summary>
+
+**B. Infectious diseases** — In the triad of malnutrition causation: **Dietary inadequacy** and **infectious diseases** (diarrhoea, respiratory infections, measles) act as immediate/conditioning influences → precipitate malnutrition. Food habits and child-rearing practices are underlying causes. Infections increase metabolic demands and reduce nutrient absorption.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q407 — CRP and risk of myocardial infarction/stroke
+
+A study divides participants into CRP quintiles and records relative risk for MI/stroke. CRP values from 0.1 to higher quintiles show increasing relative risks of 1, 1.5, 2.1, 2.8, etc. Which statement is true?
+
+- A. CRP has no association with risk of MI/stroke
+- B. Increase in CRP increases the risk of MI/stroke
+- C. Increase in CRP decreases the risk of MI/stroke
+- D. In quintile 1, there is no risk of MI/stroke
+
+<details><summary>Answer</summary>
+
+**B. Increase in CRP increases the risk of MI/stroke** — The data show a dose-response relationship: higher CRP quintiles = higher relative risk. This is consistent with CRP being a marker of systemic inflammation and cardiovascular risk. Relative risk >1 = positive association (increased risk with exposure).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q408 — Throat swab disposal bin colour
+
+A throat swab used for culture is obtained from a child with pharyngitis. The used swab should be discarded in which coloured bin?
+
+- A. Red
+- B. Yellow
+- C. White
+- D. Blue
+
+<details><summary>Answer</summary>
+
+**B. Yellow** — Microbiology, biotechnology, and clinical laboratory waste (including used swabs, culture plates, specimens) are collected in **yellow bags** (autoclave-safe/non-chlorinated plastic bags) per BMW Management Rules 2016. Red = plastic recyclable items (IV tubing, catheter bags). White = sharps.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q409 — SI unit for luminous intensity (brightness from point source)
+
+Which is the SI unit for the measurement of brightness of light from a point source?
+
+- A. Candela
+- B. Lux
+- C. Lambert
+- D. Lumen
+
+<details><summary>Answer</summary>
+
+**A. Candela (cd)** — Candela is the SI base unit of **luminous intensity** (brightness of a point source). Lux = luminous flux per unit area (illuminance). Lumen = total luminous flux. Lambert = older CGS unit of luminance. Recommended lighting: 100–150 lux for general hospital wards; 300 lux for operating theatres.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q410 — Varicella serology in pregnancy: susceptibility
+
+A pregnant woman whose niece contracted varicella is tested and found to have negative serum antibodies against varicella. What does this imply?
+
+- A. She is immune to zoster
+- B. She is susceptible to zoster
+- C. She is susceptible to chickenpox (primary varicella)
+- D. She is immune to chickenpox
+
+<details><summary>Answer</summary>
+
+**C. She is susceptible to chickenpox (primary varicella)** — Negative serum antibodies (IgG) = no prior infection or vaccination = **susceptible to primary varicella (chickenpox)**. Those previously infected with VZV are immune to chickenpox but can develop herpes zoster (reactivation) later. VZIG should be given to seronegative pregnant contacts within 96 hours of exposure.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q411 — School health programmes: managed by which facility?
+
+School health programmes are managed by which of the following?
+
+- A. Primary health centre
+- B. District hospital
+- C. Sub-centre
+- D. Sub-divisional hospital
+
+<details><summary>Answer</summary>
+
+**A. Primary health centre (PHC)** — School health programmes fall under the PHC's 12 comprehensive primary healthcare packages. PHC is responsible for school health services including immunisation, health screening, nutrition, deworming, and health education for school-age children.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q412 — Progressive muscle weakness in Chhattisgarh: diet history
+
+A man from Chhattisgarh presents with progressive muscle weakness and leg spasms. Pure motor paresis is seen on examination. What is the most appropriate history to elicit?
+
+- A. History of similar illness in family
+- B. History of fever
+- C. History of joint pain
+- D. History of diet
+
+<details><summary>Answer</summary>
+
+**D. History of diet** — Clinical features (pure motor paresis, spastic weakness, scissors gait) + geographic location (Chhattisgarh) suggest **neurolathyrism** due to consumption of *Lathyrus sativus* (khesari dal). Diet history to confirm consumption of this legume is the most important clue. It is a UMN disease caused by BOAA (beta-oxalyl-amino-alanine) toxin.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q413 — Vaccine given to 10-year-old school child (National Immunisation Schedule)
+
+In a 10-year-old school child, which vaccine is given as part of the immunisation programme?
+
+- A. BCG
+- B. MMR
+- C. TT/Td
+- D. DPT
+
+<details><summary>Answer</summary>
+
+**C. TT/Td** — National Immunisation Schedule (India): TT/Td is given at **10 years** and again at 16 years as school-based booster doses. DPT is for children <7 years. BCG is given at birth. MMR is given at 9 months and 15–18 months.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+---
+
+
+## Year 2022
+
+### Q414 — QALY scenario
+
+Japan: life expectancy 87 yrs; screening adds 15 yrs; utility 0.8. Parameter being calculated?
+
+- A. HALE
+- B. DALY
+- C. DFLE
+- D. QALY
+
+<details><summary>Answer</summary>
+
+**D. QALY** — Quality-adjusted life-year = years × utility. Used in cost-utility analysis.
+</details>
+
+---
+
+### Q415 — Cost-effective rabies control
+
+Most cost-effective rabies-reduction strategy in developing countries?
+
+- A. Test all dogs
+- B. Reduce stray dog population, vaccinate dogs
+- C. Increase lab facilities
+- D. Healthcare worker surveillance
+
+<details><summary>Answer</summary>
+
+**B. Reduce stray dog population + vaccinate dogs** — Source control. WHO recommendation for rabies elimination.
+</details>
+
+---
+
+---
+
+### Q416 — QALY: disability-adjusted life measure
+
+The average life expectancy for a woman in Japan is 87 years. Due to recent advances in cervical cancer testing, there is an expected increase in life expectancy by 1.5 years. The healthcare utility value is 0.8. Which of the following can be calculated from these parameters?
+
+- A. HALE (Health-Adjusted Life Expectancy)
+- B. DALY (Disability-Adjusted Life Year)
+- C. YLD (Years Lived with Disability)
+- D. QALY (Quality-Adjusted Life Year)
+
+<details><summary>Answer</summary>
+
+**D. QALY** — QALY = Life years gained × Utility value (0–1 scale). Here: 1.5 years × 0.8 = 1.2 QALYs. QALY is used in cost-utility analysis to compare healthcare interventions. DALY = disease burden indicator (YLL + YLD). HALE = healthy life expectancy (does not use a utility multiplier).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q417 — Disaster preparedness in a high seismic zone PHC
+
+A PHC in a high seismic zone plans for an emergency. Which of the following steps are part of disaster preparedness?
+1. Ensure financial and other resources are available
+2. Increase public awareness through campaigns
+3. Conduct simulation exercises and assess response
+4. Follow instructions given over the phone by higher officials during an event
+
+- A. Steps 1, 2, 3, and 4
+- B. Steps 1 and 3 only
+- C. Steps 1, 2, and 3 only
+- D. Steps 2 and 4 only
+
+<details><summary>Answer</summary>
+
+**C. Steps 1, 2, and 3 only** — Disaster preparedness involves: ensuring resource availability, public awareness campaigns, simulation drills, risk evaluation, media coordination, and adopting regulations. Step 4 ("follow instructions over the phone during an event") is a **response** activity, not preparedness. Preparedness occurs before a disaster occurs.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q418 — Most cost-effective strategy to reduce rabies incidence
+
+Knowing that dogs are the most common source of rabies and it mainly affects children in developing countries, what is the most cost-effective and logical way to reduce its incidence?
+
+- A. Testing all dogs for rabies
+- B. Reducing stray dog population and vaccinating all dogs
+- C. Increasing laboratory facilities for surveillance
+- D. Increasing vaccination of healthcare workers
+
+<details><summary>Answer</summary>
+
+**B. Reducing stray dog population and vaccinating all dogs** — Source elimination (population control) + interrupting the reservoir (canine vaccination) is the most cost-effective strategy. The Animal Birth Control (ABC) programme in India targets stray dog sterilisation and vaccination. Pre-exposure prophylaxis for healthcare workers is important but not the primary strategy.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q419 — WHO STEPS approach: which assessment is NOT included?
+
+Which of the following steps is **not** included in the WHO STEP approach for NCD risk factor surveillance?
+
+- A. Therapeutic assessment
+- B. Physical assessment
+- C. Psychological assessment
+- D. Behavioural assessment
+
+<details><summary>Answer</summary>
+
+**A. Therapeutic assessment** — WHO STEPS approach has 3 steps: **Step 1 = Behavioural** (questionnaires on tobacco, alcohol, diet, physical activity); **Step 2 = Physical** (BP, height, weight, waist circumference); **Step 3 = Biochemical** (blood glucose, lipids, urinary sodium). Therapeutic assessment is NOT a component of STEPS.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q420 — TB treatment outcome: sputum negative at end of treatment
+
+A patient with TB completed the full intensive and continuation phases of treatment. Sputum examination at the end of treatment is negative. What is the treatment outcome?
+
+- A. Cured
+- B. Treatment completed
+- C. Lost to follow-up
+- D. Treatment failed
+
+<details><summary>Answer</summary>
+
+**A. Cured** — NTEP treatment outcomes: **Cured** = bacteriologically confirmed TB + negative sputum smear/culture at end of treatment. **Treatment completed** = completed treatment but no bacteriological result at the end (smear not done). Treatment failed = smear/culture positive at 5+ months. Lost to follow-up = treatment interrupted ≥2 consecutive months.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q421 — Cohort study: green tea and diabetes risk ratio 0.84
+
+A cohort study of green tea drinkers vs non-drinkers for diabetes mellitus reports a risk ratio of 0.84. Which statement is correct?
+
+- A. Green tea reduces the risk of diabetes mellitus
+- B. Green tea increases the risk of diabetes mellitus
+- C. Data are insufficient to establish a causal association
+- D. The value (0.84) is close to 1, hence there is no effect
+
+<details><summary>Answer</summary>
+
+**A. Green tea reduces the risk of diabetes mellitus** — Risk ratio (RR) = 0.84 < 1 → **inverse association** → green tea is **protective**. RR = 1 → no association; RR > 1 → positive association (increased risk). A statistically significant RR < 1 confirms a protective effect, not mere proximity to 1.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q422 — Urban Community Health Centre (U-CHC): criterion
+
+Which of the following best describes the criteria for an Urban Community Health Centre (U-CHC)?
+
+- A. Caters to a population of 1–1.5 lakh
+- B. Referral centre for 2–3 urban primary health centres
+- C. Established when no sub-district and district hospitals are present in the area
+- D. Should have a 100-bed facility in metro cities
+
+<details><summary>Answer</summary>
+
+**C. Established when no sub-district and district hospitals are present in the area** — U-CHC is a 30–50 bedded facility catering to a population of 2,50,000, acting as referral for 4–5 U-PHCs. In metro cities: 100-bed facility for 5,00,000 population. It is established specifically in areas without sub-district or district hospitals to bridge the referral gap.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q423 — Broken vaccine vial disposal per BMW rules
+
+How is a broken vaccine vial disposed of according to Biomedical Waste Management Rules?
+
+- A. Puncture-proof blue bin
+- B. White container
+- C. Yellow container
+- D. Red container
+
+<details><summary>Answer</summary>
+
+**A. Puncture-proof blue bin** — BMW Management Rules 2016: Broken or discarded contaminated glassware (vials, ampoules, glass slides, broken glass) → **blue bin** (marked with blue colour). After collection, the blue-bin waste is sent for recycling after washing with detergent and autoclaving/microwaving.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q424 — JSY (Janani Suraksha Yojana): urban benefit amounts in Madhya Pradesh
+
+In an urban area of Madhya Pradesh, a primigravida delivers in a government institution after being motivated by an ASHA worker. What are the benefits under the Janani Suraksha Yojana (JSY)?
+
+- A. ₹1000 for mother and ₹400 for ASHA
+- B. ₹1400 for mother and ₹600 for ASHA
+- C. ₹600 for mother and ₹400 for ASHA
+- D. ₹400 for mother and ₹200 for ASHA
+
+<details><summary>Answer</summary>
+
+**A. ₹1000 for mother and ₹400 for ASHA** — JSY rates for Low Performing States (LPS: MP, UP, Bihar, Rajasthan, etc.) **Urban area**: Mother = ₹1,000; ASHA = ₹400. LPS Rural: Mother = ₹1,400; ASHA = ₹600. High Performing States Urban: Mother = ₹600; ASHA = ₹400. HPS Rural: Mother = ₹700; ASHA = ₹600.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q425 — Applied nutrition programme: UNICEF's contribution
+
+Which agency provides seeds and manure in applied nutrition programmes in schools?
+
+- A. CARE
+- B. UNDP
+- C. UNICEF
+- D. WHO
+
+<details><summary>Answer</summary>
+
+**C. UNICEF** — In the Applied Nutrition Programme (ANP), **UNICEF** provides implements, seeds, manure, and water supply equipment for school gardens. FAO (Rome) provides technical guidance. The produce from gardens is used for school feeding programmes and nutrition education. UNICEF also implemented the GOBI-FFF strategy (Growth monitoring, ORT, Breastfeeding, Immunisation, Family planning, Food supplementation, Female literacy).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q426 — Case-control study control selection for ALL investigation
+
+Many children from a community are detected to have acute lymphoblastic leukaemia (ALL), suspected to be due to a cytotoxic chemical in the water supply. If a case-control study is conducted, who will be taken as controls?
+
+- A. Children from the exposed area but unaffected with the disease
+- B. Children from an unexposed area who are affected with the disease
+- C. Children coming to the OPD who do not have the disease
+- D. All children with ALL irrespective of exposure status
+
+<details><summary>Answer</summary>
+
+**C. Children coming to the OPD who do not have the disease** — In a case-control study, **controls must be free from the disease** under study. Controls are selected from the same base population as cases. They can come from hospital OPD (hospital controls) or community, but must not have the disease (ALL) being investigated.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q427 — Open vial policy: which vaccines can be reused?
+
+An ANM conducts a vaccination camp and has 2 open vials — one pentavalent vaccine and one MR vaccine. What can she do regarding these open vials?
+
+- A. Use MR vaccine and discard pentavalent vaccine
+- B. Use pentavalent vaccine and discard MR vaccine
+- C. Use both vaccines
+- D. Discard both vaccines
+
+<details><summary>Answer</summary>
+
+**B. Use pentavalent vaccine and discard MR vaccine** — **Open Vial Policy (OVP)**: Non-live vaccines (pentavalent/DPT, Hepatitis B, TT, OPV) can be used in subsequent sessions if stored properly, cap is intact, and not past expiry/VVM stage 3–4. **Live vaccines (MR, BCG, measles)** must be discarded at the end of the session once reconstituted/opened, as they lose potency rapidly.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+---
+
+### Q428 — You are working in a primary *(2022)*
+
+You are working in a primary health center (PHC) situated in a high seismic zone. Which of the following will you do as part of preparedness for an emergency? 1. Disaster preparedness by making sure all financial and other resources are available 2. Increase public awareness through campaigns and loudspeakers 3. Conduct a simulation for the disaster and assess the response 4. Follow instructions given over the phone or radio by higher officials
+
+- A. 1,2,3,4
+- B. 2,3,4
+- C. 1,2,3
+- D. 1,2,4
+
+<details><summary>Answer</summary>
+
+**C. 1,2,3**
+
+</details>
+
+---
+
+---
+
+### Q429 — Although many animals are implicated in *(2022)*
+
+Although many animals are implicated in the spread of rabies, dogs are the most common ones. Also, it usually affects children in developing countries. Knowing this, what is the most cost-effective and logical way to reduce the incidence of rabies?
+
+- A. Testing all the dogs for rabies
+- B. Reduce stray dog population and vaccinate all dogs
+- C. Increase the laboratory facilities
+- D. Increase capacity of healthcare workers for surveillance
+
+<details><summary>Answer</summary>
+
+**B. Reduce stray dog population and vaccinate all dogs**
+
+</details>
+
+---
+
+---
+
+### Q430 — Which of the following steps is *(2022)*
+
+Which of the following steps is not included in the STEP approach of WHO?
+
+- A. Therapeutic assessment
+- B. Physical assessment
+- C. Psychological assessment
+- D. Behavioral assessment
+
+<details><summary>Answer</summary>
+
+**A. Therapeutic assessment**
+
+</details>
+
+---
+
+---
+
+### Q431 — A male patient diagnosed with tuberculosis *(2022)*
+
+A male patient diagnosed with tuberculosis took complete treatment. Sputum examination was done after the completion of the intensive and the continuation phases. It was found to be negative. What is the status of the patient?
+
+- A. Cured
+- B. Treatment completed
+- C. Lost to follow up
+- D. Treatment failed
+
+<details><summary>Answer</summary>
+
+**A. Cured**
+
+</details>
+
+---
+
+---
+
+### Q432 — A cohort study was conducted with *(2022)*
+
+A cohort study was conducted with drinkers and non-drinkers of green tea to study its effect on diabetes mellitus. The risk ratio was found to be 0.84. Which of the following statements is correct?
+
+- A. Green tea reduces the risk of diabetes
+- B. Green tea increases the risk of diabetes
+- C. Data insufficient to establish causal association
+- D. The value (0.85) tends to be close to 41, hence there is no effect
+
+<details><summary>Answer</summary>
+
+**A. Green tea reduces the risk of diabetes**
+
+</details>
+
+---
+
+---
+
+### Q433 — Which statement refers best to the *(2022)*
+
+Which statement refers best to the criteria for starting an urban community health center?
+
+- A. Caters to a population of 1-1.5 lakh
+- B. Referral center for 2-3 primary health centers
+- C. No sub-district and district hospitals present in the area
+- D. Should have a 100-bed facility in metro cities
+
+<details><summary>Answer</summary>
+
+**D. Should have a 100-bed facility in metro cities**
+
+</details>
+
+---
+
+---
+
+### Q434 — How is a broken vaccine vial *(2022)*
+
+How is a broken vaccine vial disposed of, according to biomedical waste management?
+
+- A. Puncture proof blue bin
+- B. White container
+- C. Yellow container
+- D. Red container
+
+<details><summary>Answer</summary>
+
+**A. Puncture proof blue bin**
+
+</details>
+
+---
+
+---
+
+### Q435 — In an urban area in the *(2022)*
+
+In an urban area in the state of Madhya Pradesh, a primigravida goes for institutional delivery after being motivated by an ASHA worker. What are the benefits they will receive (in terms of money in rupees) under the Janani Suraksha Yojana? ASHA-Accredited social health activist
+
+- A. 1000 for mother and 400 for ASHA
+- B. 1400 for mother and 600 for ASHA
+- C. 600 for mother and 400 for ASHA
+- D. 400 for mother and 600 for ASHA
+
+<details><summary>Answer</summary>
+
+**A. 1000 for mother and 400 for ASHA**
+
+</details>
+
+---
+
+---
+
+### Q436 — Which of the following agencies provides *(2022)*
+
+Which of the following agencies provides seed and manure in applied nutrition programs in schools?
+
+- A. CARE
+- B. UNDP
+- C. UNICEF
+- D. WHO
+
+<details><summary>Answer</summary>
+
+**C. UNICEF**
+
+</details>
+
+---
+
+---
+
+### Q437 — Many children from a particular community *(2022)*
+
+Many children from a particular community coming to a hospital were detected to have acute lymphoblastic leukemia (ALL). It was assumed that it is due to the presence of cytotoxic waste in the water of that community. If a case-control study has to be done to find whether the chemical and ALL are associated, what will be taken as the control?
+
+- A. Children from the area exposed, but unaffected with the disease
+- B. Children from the area not exposed and affected with the disease
+- C. Children coming to your OPD, who do not have the disease
+- D. All children with ALL irrespective of exposure status
+
+<details><summary>Answer</summary>
+
+**A. Children from the area exposed, but unaffected with the disease**
+
+</details>
+
+---
+
+---
+
+### Q438 — An auxiliary nurse midwife has to *(2022)*
+
+An auxiliary nurse midwife has to conduct a vaccination camp in a village. She received 2 open vials, one of which is a pentavalent vaccine and the other is an MR vaccine. What can she do regarding the utilization of these vials?
+
+- A. Use MR vaccine and discard pentavalent vaccine
+- B. Use both
+- C. Use pentavalent vaccine and discard MR vaccine
+- D. Discard both
+
+<details><summary>Answer</summary>
+
+**C. Use pentavalent vaccine and discard MR vaccine**
+
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q439 — Crossed gait in farmers (lathyrism)
+
+Village farmers with crossed (scissor) gait using stick support; diet limited to rice and pulses. Which supplementation could prevent?
+
+- A. Vitamin A
+- B. Vitamin D
+- C. Vitamin C
+- D. Vitamin B
+
+<details><summary>Answer</summary>
+
+**D. Vitamin B** *(per answer key)* — Neurolathyrism from *Lathyrus sativus*; β-ODAP toxicity. (Some sources favour adequate nutrition / detoxification.)
+</details>
+
+---
+
+### Q440 — Aniline dye + bladder cancer study
+
+Research on aniline-dye exposure and bladder cancer in workers employed >20 years; exposed handlers vs office clerks. Study type?
+
+- A. Retrospective cohort study
+- B. Prospective cohort study
+- C. Case-control study
+- D. Intervention
+
+<details><summary>Answer</summary>
+
+**A. Retrospective cohort study** — Exposure status defined in the past; outcome (bladder cancer) tracked forward from past records.
+</details>
+
+---
+
+---
+
+### Q441 — Neurolathyrism: vitamin supplement
+
+In a village, several farmers have a scissor gait and use a stick for support. Due to poor crop yields, they consume meals of rice and pulse. Supplementing their diet with which vitamin could have prevented this?
+
+- A. Vitamin A
+- B. Vitamin D
+- C. Vitamin C
+- D. Vitamin B complex
+
+<details><summary>Answer</summary>
+
+**C. Vitamin C** — **Neurolathyrism** is caused by consumption of *Lathyrus sativus* (khesari dal / grass pea) due to the toxin **BOAA** (beta-oxalyl-amino-alanine). Vitamin C at 500–1000 mg/day is beneficial as it antagonises the excitotoxic effect of BOAA. The condition presents as spastic paraparesis (UMN disease).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q442 — Smear-negative TB: next step per NTEP guidelines
+
+A 35-year-old homeless man has 1 month of fever, cough, and weight loss. Both sputum smears are negative but chest X-ray is suggestive of TB. According to recent NTEP guidelines, what is the next best step?
+
+- A. Repeat sputum smear examination
+- B. CBNAAT (GeneXpert MTB/RIF)
+- C. Line probe assay
+- D. Wait for radiology results before starting ATT
+
+<details><summary>Answer</summary>
+
+**B. CBNAAT (GeneXpert MTB/RIF)** — Per NTEP guidelines: for smear-negative presumptive TB with suspicious clinical and radiological features, the next step is **CBNAAT** (cartridge-based nucleic acid amplification test/GeneXpert). It simultaneously detects *M. tuberculosis* and rifampicin resistance within 2 hours. Line probe assay is for drug-resistance testing.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q443 — Aniline dye and bladder cancer: study type
+
+Research is conducted on aniline dye exposure and bladder cancer in workers employed in the industry for >20 years. Two groups are formed — one with direct dye handling exposure, and office clerks with no dye exposure. Records of past years of employment are reviewed. What type of study is this?
+
+- A. Retrospective cohort study
+- B. Prospective cohort study
+- C. Case-control study
+- D. Randomised controlled trial
+
+<details><summary>Answer</summary>
+
+**A. Retrospective cohort study** — The study has two groups defined by **exposure status** (exposed vs unexposed), which is the design of a cohort study. Since exposure and outcome data come from **past records** (retrospective), it is a retrospective/historical cohort study. In a case-control study, groups would be defined by disease status (cases vs controls).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q444 — Blood pressure tracking from childhood to adulthood
+
+Blood pressure of a population was tracked from childhood to adulthood. Those with lower BP in childhood had lower BP in adulthood; those with higher BP in childhood had higher BP in adulthood. This is best described as:
+
+- A. Rule of halves
+- B. Tracking of blood pressure
+- C. STEPwise approach
+- D. Primordial prevention
+
+<details><summary>Answer</summary>
+
+**B. Tracking of blood pressure** — **Tracking** refers to the tendency for blood pressure (and other physiological variables like BMI, cholesterol) measured in childhood to predict adult values, maintaining their rank within a population over time. This forms the basis for early identification and intervention in childhood hypertension.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q445 — Night blindness in pregnant woman: whose duty to counsel?
+
+A 30-week primigravida reports reduced vision at night. She has been avoiding papaya, mango, and other fruits throughout pregnancy, believing they cause abortions. It is the primary duty of which worker to provide counselling?
+
+- A. ANM
+- B. Medical officer
+- C. Trained birth attendant
+- D. ASHA
+
+<details><summary>Answer</summary>
+
+**D. ASHA (Accredited Social Health Activist)** — ASHA is the frontline community health worker and a resident woman of the village responsible for providing counselling, health education, and motivating families to use health services. She specifically addresses myths and misconceptions about diet and antenatal care in the community. ANM focuses on clinical/preventive services.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q446 — STI syndromic management: kit for cervicitis
+
+A 22-year-old female comes to the STI clinic with minimal vaginal discharge. Speculum examination shows erosions on the cervix. Which kit should be given?
+
+- A. Green kit
+- B. Red kit
+- C. Gray kit
+- D. Yellow kit
+
+<details><summary>Answer</summary>
+
+**C. Gray kit** — NACO STI/RTI syndromic management kits: **Gray kit** = cervical discharge/erosions (cervicitis) = contains cefixime + azithromycin (to cover gonorrhoea + chlamydia). Green kit = vaginal discharge (vaginitis). Red kit = genital ulcer disease. Yellow kit = lower abdominal pain (PID).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q447 — Years of potential life lost (YPLL)
+
+The years of potential life lost (YPLL) could be attributed to:
+
+- A. Years lost to morbidity
+- B. Years lost due to premature death
+- C. Years lost to disability
+- D. Years lost to poor quality of life
+
+<details><summary>Answer</summary>
+
+**B. Years lost due to premature death** — YPLL = mortality indicator measuring the number of years a person would have been expected to live (reference = 75 years) had they not died prematurely. Formula: YPLL = Σ (reference age − age at death) for all deaths before reference age. Higher YPLL in younger-onset diseases (accidents, suicide, cancer).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q448 — Colombo Plan: assistance for cancer in India
+
+Aid to set up which type of cancer treatment unit in Indian medical institutions was part of the Colombo Plan?
+
+- A. PET scan units for cancer diagnosis
+- B. Human resource development in oncology
+- C. Linear accelerator (LINAC) radiotherapy units
+- D. Cobalt therapy units
+
+<details><summary>Answer</summary>
+
+**D. Cobalt therapy units** — The **Colombo Plan** (1951) provided aid for development in Asia-Pacific. Specifically, setting up **cobalt-60 therapy units** for cancer treatment at medical institutions in India was a key component. Cobalt therapy (external beam radiation) was the primary radiotherapy technology available at that time.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q449 — Neurolathyrism: responsible toxin
+
+A poor farmer with successive crop failures develops progressive spastic paraparesis with upper motor neuron signs and gait instability. What is the toxin responsible?
+
+- A. Aflatoxin
+- B. Beta-oxalyl-amino-alanine (BOAA)
+- C. Ergot alkaloids
+- D. Fusarium toxin
+
+<details><summary>Answer</summary>
+
+**B. Beta-oxalyl-amino-alanine (BOAA)** — **Neurolathyrism** = spastic paraparesis caused by BOAA toxin from *Lathyrus sativus* (khesari dal). Consumed during famines/crop failures when it is the only affordable food. BOAA is an excitatory amino acid that causes irreversible UMN damage. Aflatoxin → hepatocellular carcinoma; ergot alkaloids → ergotism; fusarium toxins → trichothecene mycotoxicosis.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q450 — Tetanus prophylaxis: clean wound, full course 10 years ago
+
+A young male presents with a clean-cut wound without bleeding. He received a full course of tetanus vaccination 10 years ago. What is the best management?
+
+- A. Human tetanus immunoglobulin + full course of vaccine
+- B. Human tetanus immunoglobulin only
+- C. Single-dose tetanus toxoid
+- D. Full course tetanus toxoid
+
+<details><summary>Answer</summary>
+
+**C. Single-dose tetanus toxoid** — Algorithm: **Clean wound + fully immunised + last dose >10 years** → 1 booster dose of Td (tetanus-diphtheria toxoid). No TIG required for clean wounds. Tetanus-prone wound + last dose >5 years → Td + TIG. Unimmunised + any wound → full course (3 doses) + TIG.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q451 — Water sample collection during outbreak: correct method
+
+How should water be collected for bacteriological examination during a disease outbreak?
+
+- A. Collect from an already opened tap
+- B. Let water flow for at least 1 minute before collecting
+- C. Keep the container close to the tap to avoid spillage
+- D. Collect from a gentle stream of water to avoid splashing
+
+<details><summary>Answer</summary>
+
+**D. Collect from a gentle stream of water to avoid splashing** — For bacteriological water sampling from a tap in regular use during an outbreak: open the tap to produce a **gentle stream** of water, hold the sterile container under the stream, and collect without splashing (splashing can contaminate the sample from the outside). The container must not touch the tap.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q452 — Recommended Dietary Allowance (RDA) definition
+
+The average daily dietary nutrient intake level sufficient to meet the nutrient requirements of nearly all (97–98%) healthy individuals in a particular life stage and gender group is known as:
+
+- A. Adequate intake
+- B. Dietary goal
+- C. Estimated average requirement
+- D. Recommended dietary allowance
+
+<details><summary>Answer</summary>
+
+**D. Recommended Dietary Allowance (RDA)** — RDA = mean + 2 SD of requirement, covering ~97.5% of the population. **Estimated Average Requirement (EAR)** = meets needs of 50% of individuals. **Adequate Intake (AI)** = used when RDA cannot be determined. Dietary goal = population-level targets for chronic disease prevention.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q453 — Chickenpox outbreak in boys' hostel: management
+
+A boys' hostel has an outbreak of fever, headache, and pleomorphic rashes sparing the palms and soles. What is the next best step in management of suspected cases?
+
+- A. Isolate for 6 days after onset of rash, give acyclovir, and offer VZIG to susceptible contacts within 72 hours
+- B. Isolate for 12 days, give acyclovir, and offer VZIG within 48 hours
+- C. Isolate for 6 days only (no antiviral or VZIG needed)
+- D. Administer VZIG to all students
+
+<details><summary>Answer</summary>
+
+**A. Isolate for 6 days, give acyclovir, and offer VZIG to susceptible contacts within 72 hours** — **Varicella (chickenpox)**: pleomorphic rash in crops sparing palms/soles. Management: acyclovir (5 days); isolate until all lesions are crusted (~5–6 days after onset). VZIG (Varicella-Zoster Immunoglobulin) should be given to susceptible high-risk contacts within 96 hours (ideally 72 hours) of exposure.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+### Q454 — IMR as sensitive indicator of healthcare
+
+Which of the following is the most sensitive indicator to assess the availability, utilisation, and effectiveness of healthcare in a community?
+
+- A. Infant mortality rate
+- B. Maternal mortality rate
+- C. Immunisation coverage
+- D. Under-5 mortality rate
+
+<details><summary>Answer</summary>
+
+**A. Infant mortality rate (IMR)** — IMR = deaths in the first year of life per 1000 live births. It is universally accepted as the most sensitive indicator of the health status of a community, reflecting nutrition, sanitation, maternal health, immunisation, healthcare access, and socioeconomic conditions. India's IMR (2020) = 28/1000 live births.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+
+---
+
+### Q455 — In a village, it is observed *(2023)*
+
+In a village, it is observed that several farmers have crossed gait and use a stick for support to stand up and walk. Due to poor yield from farms, they consume meals containing rice and pulses only. Supplementing their diet with which of the following vitamins could have prevented this?
+
+- A. Vitamin A
+- B. Vitamin D
+- C. Vitamin C
+- D. Vitamin B
+
+<details><summary>Answer</summary>
+
+**C. Vitamin C**
+
+</details>
+
+---
+
+---
+
+### Q456 — The blood pressure of a population *(2023)*
+
+The blood pressure of a population was tracked from childhood to adulthood. It was observed that those who had lower BP in childhood had low BP in adulthood, while those who had higher BP in childhood had high BP in adulthood. This can be best described as
+
+- A. Rule of halves
+- B. Tracking of blood pressure
+- C. STEPwise approach
+- D. Primordial approach
+
+<details><summary>Answer</summary>
+
+**B. Tracking of blood pressure**
+
+</details>
+
+---
+
+---
+
+### Q457 — A 30-week primigravida complaints of reduced *(2023)*
+
+A 30-week primigravida complaints of reduced vision at night. She has been avoiding papaya, mango, and other fruits throughout her pregnancy as she thinks they could be abortifacients. It is the primary duty of which of the following workers to provide counseling and information to the patient?
+
+- A. ANM
+- B. AWW
+- C. Trained birth attendant
+- D. ASHA
+
+<details><summary>Answer</summary>
+
+**D. ASHA**
+
+</details>
+
+---
+
+---
+
+### Q458 — In a 10-year-old school child, which *(2023)*
+
+In a 10-year-old school child, which of the following vaccines is given as a part of the school immunization program?
+
+- A. Measles vaccine
+- B. Rotavirus vaccine
+- C. TT/Td vaccine
+- D. Hepatitis B vaccine
+
+<details><summary>Answer</summary>
+
+**C. TT/Td vaccine**
+
+</details>
+
+---
+
+---
+
+### Q459 — A 10-year-old child presents with throat *(2023)*
+
+A 10-year-old child presents with throat pain, fever, and ear pain. He is diagnosed with recurrent tonsillitis. Which nerve is responsible for the ear pain in this patient?
+
+- A. Tympanic branch of the glossopharyngeal nerve
+- B. Greater auricular nerve
+- C. Auriculotemporal nerve
+- D. Auricular branch of the vagus nerve
+
+<details><summary>Answer</summary>
+
+**A. Tympanic branch of the glossopharyngeal nerve**
+
+</details>
+
+---
+
+---
+
+### Q460 — A poor farmer with a history *(2023)*
+
+A poor farmer with a history of successive crop failure develops progressive spastic paraparesis, signs of upper motor neuron paralysis, and gait instability. Name the toxin responsible for this condition.
+
+- A. Aflatoxin
+- B. Beta-oxalyl-amino-alanine
+- C. Ergot alkaloids
+- D. Fusarium toxin
+
+<details><summary>Answer</summary>
+
+**B. Beta-oxalyl-amino-alanine**
+
+</details>
+
+---
+
+---
+
+### Q461 — A young male came to the *(2023)*
+
+A young male came to the hospital with a clean-cut wound without any bleeding. The patient received a full course of tetanus vaccination 10 years ago. What is the best management for this patient?
+
+- A. Human tetanus immunoglobulin and full course of vaccine
+- B. Human tetanus immunoglobulin only
+- C. Single-dose tetanus toxoid
+- D. Full course tetanus toxoid
+
+<details><summary>Answer</summary>
+
+**C. Single-dose tetanus toxoid**
+
+</details>
+
+---
+
+---
+
+### Q462 — How is water collected for bacteriological *(2023)*
+
+How is water collected for bacteriological examination during a disease outbreak?
+
+- A. Collect water from already leaking taps
+- B. Before collecting, let water flow for at least 1 minute
+- C. Water sample container is kept close to the tap avoid spillage
+- D. Collect from a gentle stream of water to avoid splashing
+
+<details><summary>Answer</summary>
+
+**D. Collect from a gentle stream of water to avoid splashing**
+
+</details>
+
+---
+
+---
+
+### Q463 — A boys hostel has an outbreak *(2023)*
+
+A boys' hostel has an outbreak of fever cases with headache, followed by the development of pleomorphic rashes sparing palms and soles. What is the next best step in the management of suspected cases? VZIG-Varicella zoster immunoglobulin
+
+- A. Isolate for 6 days after giving acyclovir, followed by VZIG within 72 hours of exposure.
+- B. Isolate for 12 days after giving acyclovir, followed by VZIG within 48 hours of exposure
+- C. Isolate for 6 days
+- D. Only give VZIG
+
+<details><summary>Answer</summary>
+
+**C. Isolate for 6 days**
+
+</details>
+
+---
+
+---
+
+### Q464 — A 35-year-old homeless man presented with *(2023)*
+
+A 35-year-old homeless man presented with a 1-month history of fever, cough, and weight loss. Both sputum smears turned out to be negative, but the chest x-ray ordered was suggestive of tuberculosis. According to the recent NTEP guidelines, which is the next best line of management?
+
+- A. Repeat sputum smears
+- B. Ask for CBNAAT
+- C. Ask for line probe assay
+- D. Wait until TB culture results to start ATT
+
+<details><summary>Answer</summary>
+
+**B. Ask for CBNAAT**
+
+</details>
+
+---
+
+---
+
+### Q465 — A chronic smoker who worked in *(2023)*
+
+A chronic smoker who worked in a cement factory for 20 years developed mesothelioma. The association is likely to be due to ________.
+
+- A. Silicosis
+- B. Asbestosis
+- C. Coal workers' pneumoconiosis
+- D. Bagassosis
+
+<details><summary>Answer</summary>
+
+**B. Asbestosis**
+
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q466 — Fruit-farmer with neuro illness
+
+A fruit farmer with fever, respiratory difficulty, neurological complications. Most likely?
+
+- A. Ebola
+- B. Meningitis
+- C. Nipah
+- D. Zika
+
+<details><summary>Answer</summary>
+
+**C. Nipah virus** — Fruit-bat reservoir; outbreaks in Kerala, Bangladesh. Encephalitis + respiratory illness.
+</details>
+
+---
+
+### Q467 — Vaccine stored at lowest temperature
+
+Which vaccine is kept at the lowest temperature?
+
+- A. OPV
+- B. DPT
+- C. Hepatitis B
+- D. Rota
+
+<details><summary>Answer</summary>
+
+**A. OPV** — Stored frozen at −20 °C at higher cold-chain levels; DPT/HepB/Rota stored 2–8 °C and damaged by freezing.
+</details>
+
+---
+
+---
+
+### Q468 — Which of the following given diseases *(2024)*
+
+Which of the following given diseases has the maximum portion of the iceberg submerged?
+
+- A. Influenza
+- B. Chicken pox
+- C. Tetanus
+- D. Rabies
+
+<details><summary>Answer</summary>
+
+**A. Influenza**
+
+</details>
+
+---
+
+---
+
+### Q469 — What is the term for the *(2024)*
+
+What is the term for the interval between the entry of a pathogen into the host and the point at which the host reaches peak infectivity?
+
+- A. Generation time
+- B. Median incubation period
+- C. Window period
+- D. Latent period
+
+<details><summary>Answer</summary>
+
+**A. Generation time**
+
+</details>
+
+---
+
+---
+
+### Q470 — Clinical Question A female presents with *(2024)*
+
+A female presents with 22 weeks of pregnancy as a result of sexual assault. Which statement is true regarding medical termination of pregnancy (MTP)?
+
+- A. Between 20-24 weeks, one doctor's opinion is required
+- B. Between 20-24 weeks, MTP is only done if it is life-saving for the mother
+- C. MTP can be done up to 24 weeks in this case
+- D. MTP can be done after 24 weeks.
+
+<details><summary>Answer</summary>
+
+**C. MTP can be done up to 24 weeks in this case**
+
+</details>
+
+---
+
+---
+
+### Q471 — A 36-year-old fruit farmer presents with *(2024)*
+
+A 36-year-old fruit farmer presents with fever, breathing difficulties and neurological complications. He gives a history of spotting a few bats on his farm. What is the most likely diagnosis?
+
+- A. Ebola
+- B. Meningitis
+- C. Nipah
+- D. Zika
+
+<details><summary>Answer</summary>
+
+**C. Nipah**
+
+</details>
+
+---
+
+---
+
+### Q472 — A group of 80 people was *(2024)*
+
+A group of 80 people was studied to assess the effect of diet modification on mean cholesterol levels before and after the intervention. Which statistical test is most appropriate to compare the mean cholesterol levels before and after the diet modification?
+
+- A. Paired t-test
+- B. McNemar test
+- C. Chi-square test
+- D. Wilcoxon signed-rank test
+
+<details><summary>Answer</summary>
+
+**A. Paired t-test**
+
+</details>
+
+---
+
+---
+
+### Q473 — A study is conducted on the *(2024)*
+
+A study is conducted on the association between the intake of vitamin C and the occurrence of respiratory illness. What is the order in which the following steps are conducted? A. Select a case and control. B. Matching C. Measure total exposure D. Analysis
+
+- A. ABCD
+- B. BCDA
+- C. CBAD
+- D. DABC
+
+<details><summary>Answer</summary>
+
+**A. ABCD**
+
+</details>
+
+---
+
+---
+
+### Q474 — Clinical Question A mother brings her *(2024)*
+
+A mother brings her child with complaints of papular lesions on the extensor surfaces of the skin. The lesions improve following supplementation with vitamins A and C along with essential amino acids. What is the most likely diagnosis?
+
+- A. Phrynoderma
+- B. Rickets
+- C. Kwashiorkor
+- D. Marasmus
+
+<details><summary>Answer</summary>
+
+**A. Phrynoderma**
+
+</details>
+
+---
+
+---
+
+### Q475 — Given 500 live births, 12 stillbirths, *(2024)*
+
+Given 500 live births, 12 stillbirths, and 9 deaths within the first 7 days, calculate the Early Neonatal Mortality Rate (ENMR).
+
+- A. 18
+- B. 36
+- C. 24
+- D. 50
+
+<details><summary>Answer</summary>
+
+**A. 18**
+
+</details>
+
+---
+
+---
+
+### Q476 — Calculate the maternal mortality ratio (MMR) *(2024)*
+
+Calculate the maternal mortality ratio (MMR) for the year 2023, from the given data: ● Total women who died: 6 ● Total live births: 4000 Causes of death: ● 1 due to a road traffic accident (RTA) ● 1 due to sepsis ● 1 due to obstructed labour ● 1 due to eclampsia ● 1 due to ectopic pregnancy ● 1 due toa snake bite
+
+- A. 75
+- B. 150
+- C. 100
+- D. 125
+
+<details><summary>Answer</summary>
+
+**C. 100**
+
+</details>
+
+---
+
+---
+
+### Q477 — What is the correct order of *(2024)*
+
+What is the correct order of steps in disaster management?
+
+- A. Impact-Response-Rehab-Mitigation
+- B. Response- Rehab-Mitigation-Impact
+- C. Rehab-mitigation-Response-Impact
+- D. Mitigation-Response-Impact-Rehab
+
+<details><summary>Answer</summary>
+
+**A. Impact-Response-Rehab-Mitigation**
+
+</details>
+
+---
+
+---
+
+### Q478 — For a disease with incubation period *(2024)*
+
+For a disease with incubation period of 5-14 days, what should be the recommended quarantine period?
+
+- A. 5 days
+- B. 10 days
+- C. 14 days
+- D. 20 days
+
+<details><summary>Answer</summary>
+
+**C. 14 days**
+
+</details>
+
+---
+
+---
+
+### Q479 — Which one of the following is *(2024)*
+
+Which one of the following is not included in the school health program under Ayushman Bharat?
+
+- A. Providing sanitary pads
+- B. Health check-up/screening
+- C. Albendazole provision
+- D. IFA monthly
+
+<details><summary>Answer</summary>
+
+**D. IFA monthly**
+
+</details>
+
+---
+
+---
+
+### Q480 — In the health education model with *(2024)*
+
+In the health education model with first step as awareness and second step as motivation, what is the third step?
+
+- A. Reflection
+- B. Dedication
+- C. Contemplation
+- D. Action
+
+<details><summary>Answer</summary>
+
+**D. Action**
+
+</details>
+
+---
+
+---
+
+### Q481 — Which indicator is defined by a *(2024)*
+
+Which indicator is defined by a formula that uses the number of maternal deaths as the numerator and the total number of women of reproductive age as the denominator?
+
+- A. Maternal mortality rate
+- B. Maternal mortality ratio
+- C. Perinatal mortality rate
+- D. Perinatal mortality ratio
+
+<details><summary>Answer</summary>
+
+**A. Maternal mortality rate**
+
+</details>
+
+---
+
+---
+
+### Q482 — Which of the following is not *(2024)*
+
+Which of the following is not a component of PQLI?
+
+- A. Life expectancy at 1 year
+- B. Literacy rate
+- C. Infant mortality rate
+- D. Gross national product
+
+<details><summary>Answer</summary>
+
+**D. Gross national product**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q483 — Dietary cholesterol limit for CAD prevention
+
+For prevention of coronary artery disease, what is the recommended dietary cholesterol intake per day?
+
+- A. 100 mg/1000 kcal
+- B. 200 mg/1000 kcal
+- C. 400 mg/1000 kcal
+- D. 500 mg/1000 kcal
+
+<details><summary>Answer</summary>
+
+**B. 200 mg/1000 kcal** — WHO/ICMR recommendation for dietary cholesterol to reduce CAD risk.
+</details>
+
+---
+
+---
+
+### Q484 — Toxic fumes after industrial explosion
+
+Toxic fumes are released after an industrial explosion. What should residents do?
+
+- A. Use telephone and call friends
+- B. Seal cracks and close windows
+- C. Open windows for ventilation
+- D. Use a mask only
+
+<details><summary>Answer</summary>
+
+**B. Seal cracks and close windows** — Sheltering-in-place protocol for chemical plume: seal building to prevent toxic gas ingress until advised to evacuate.
+</details>
+
+---
+
+---
+
+### Q485 — PHC cluster intervention study design
+
+20 PHCs receive standard care and 20 PHCs receive a community-based intervention to reduce prenatal sepsis. What study design is this?
+
+- A. Cross-sectional study
+- B. Case-control study
+- C. Quasi-experimental study
+- D. Cluster-randomised controlled trial
+
+<details><summary>Answer</summary>
+
+**D. Cluster-randomised controlled trial** — Randomisation at the cluster (PHC) level rather than the individual level; reduces contamination between groups.
+</details>
+
+---
+
+---
+
+### Q486 — Skeletal fluorosis intervention
+
+A 20-year-old from Andhra Pradesh with bowing of lower limbs and osteoporosis; diet is rice and jowar. Which intervention will NOT help?
+
+- A. Provision of running surface water for drinking
+- B. Change the water source
+- C. Fluoride supplementation
+- D. Add lime and alum to drinking water
+
+<details><summary>Answer</summary>
+
+**C. Fluoride supplementation** — This is endemic fluorosis (excess fluoride from groundwater). Fluoride supplementation would worsen the condition; the interventions focus on reducing fluoride intake.
+</details>
+
+---
+
+---
+
+### Q487 — Nalgonda technique reagents
+
+The Nalgonda technique for defluoridation of water uses which combination?
+
+- A. Alum and Gypsum
+- B. Alum and Charcoal
+- C. Alum and Lime
+- D. Charcoal and Lime
+
+<details><summary>Answer</summary>
+
+**C. Alum and Lime** — Nalgonda technique: alum + lime + bleaching powder added to fluoride-rich water → coagulation/flocculation removes fluoride.
+</details>
+
+---
+
+---
+
+### Q488 — Comparing haemoglobin between two groups
+
+Which statistical test is most appropriate to compare mean Hb levels between two independent groups?
+
+- A. Paired t-test
+- B. Unpaired t-test
+- C. Chi-square test
+- D. ANOVA
+
+<details><summary>Answer</summary>
+
+**B. Unpaired t-test** — Compares means of two independent (unpaired) groups with continuous normally distributed data.
+</details>
+
+---
+
+---
+
+### Q489 — UPHCs required for slum population
+
+An urban city of 70 lakh has 30% slum population. How many UPHCs are required?
+
+- A. 22
+- B. 32
+- C. 42
+- D. 52
+
+<details><summary>Answer</summary>
+
+**C. 42** — Slum population = 70,00,000 × 30% = 21,00,000. UPHC norm = 1 per 50,000 slum population → 21,00,000 ÷ 50,000 = 42.
+</details>
+
+---
+
+---
+
+### Q490 — Mosquito without siphon tube
+
+Which mosquito lacks a siphon tube and rests parallel to the water surface?
+
+- A. Anopheles
+- B. Culex
+- C. Aedes
+- D. Mansonia
+
+<details><summary>Answer</summary>
+
+**A. Anopheles** — Anopheles larva lacks a siphon tube and rests parallel (horizontal) to water surface. Culex/Aedes larvae have siphon tubes and hang at an angle.
+</details>
+
+---
+
+---
+
+### Q491 — COVID-19 hospital death surveillance type
+
+A 60-year-old diabetic with COVID-19 died in hospital. The death is routinely reported to the health department. What type of surveillance is this?
+
+- A. Active surveillance
+- B. Passive surveillance
+- C. Sentinel surveillance
+- D. Syndromic surveillance
+
+<details><summary>Answer</summary>
+
+**B. Passive surveillance** — Routine reporting by healthcare providers without active case-finding by the health authority.
+</details>
+
+---
+
+---
+
+### Q492 — Increased 5-year survival rate but no change in mortality
+
+A new breast cancer screening method improves 5-year survival but autopsy data show no change in overall mortality. What bias?
+
+- A. Survival bias
+- B. Lead time bias
+- C. Berksonian bias
+- D. Detection bias
+
+<details><summary>Answer</summary>
+
+**B. Lead time bias** — Screening detects cancer earlier, lengthening apparent survival time without actually prolonging life. Mortality unchanged confirms this.
+</details>
+
+---
+
+---
+
+### Q493 — De facto census method
+
+In the "de facto" method of census, data is collected based on:
+
+- A. Place of birth
+- B. Location at the time of enumeration
+- C. Place of employment
+- D. Usual place of residence
+
+<details><summary>Answer</summary>
+
+**B. Location at the time of enumeration** — De facto = where the person is found on census night. De jure = usual place of residence. India uses de facto method.
+</details>
+
+---
+
+---
+
+### Q494 — Correct sequence in RCT
+
+Which is the correct sequence in a Randomised Controlled Trial?
+
+- A. Follow-up → Manipulation → Assessment → Randomization
+- B. Randomization → Manipulation → Follow-up → Assessment
+- C. Assessment → Randomization → Follow-up → Manipulation
+- D. Manipulation → Assessment → Follow-up → Randomization
+
+<details><summary>Answer</summary>
+
+**B. Randomization → Manipulation → Follow-up → Assessment** — Standard RCT sequence: randomise subjects, apply intervention (manipulate), follow up over time, assess outcome.
+</details>
+
+---
+
+---
+
+### Q495 — WIFS tablet composition for adolescents
+
+Under the Weekly Iron and Folic Acid Supplementation (WIFS) scheme, IFA tablets for 10–19-year-olds contain:
+
+- A. 60 mg iron + 100 µg folic acid
+- B. 100 mg iron + 500 µg folic acid
+- C. 100 mg iron + 100 µg folic acid
+- D. 60 mg iron + 500 µg folic acid
+
+<details><summary>Answer</summary>
+
+**D. 60 mg elemental iron + 500 µg folic acid** — WIFS tablet: weekly dose of 60 mg elemental iron + 500 µg (0.5 mg) folic acid for school-age children and adolescents.
+</details>
+
+---
+
+---
+
+### Q496 — Generation time definition
+
+The time interval between acquiring an infection and reaching maximum infectivity is:
+
+- A. Generation time
+- B. Communicable period
+- C. Incubation period
+- D. Serial interval
+
+<details><summary>Answer</summary>
+
+**A. Generation time** — Time from receipt of infection to maximal infectivity. Serial interval = time between successive cases in a chain.
+</details>
+
+---
+
+---
+
+### Q497 — Measure of objective/target achievement
+
+Which health programme activity measures the degree of target achievement and quality of results?
+
+- A. Planning
+- B. Surveillance
+- C. Monitoring
+- D. Evaluation
+
+<details><summary>Answer</summary>
+
+**D. Evaluation** — Evaluation assesses whether objectives were met (effectiveness, efficiency). Monitoring tracks ongoing progress (process indicators).
+</details>
+
+---
+
+---
+
+### Q498 — Government program for rickets
+
+A child with clinical rickets is brought. Which government program specifically addresses this deficiency?
+
+- A. ICDS
+- B. National Nutritional Deficiency Control Programme
+- C. Anaemia Mukt Bharat
+- D. Mid-Day Meal Scheme
+
+<details><summary>Answer</summary>
+
+**A. ICDS (Integrated Child Development Services)** — Provides supplementary nutrition including Vitamin D and calcium; addresses nutritional rickets in children under 6. The NNDCP specifically targets Vitamin A/iodine/iron deficiencies.
+</details>
+
+---
+
+---
+
+### Q499 — HIV with active TB treatment sequence
+
+HIV-positive patient (CD4 = 250 cells/mm³) with active TB, not yet on ART. Correct approach?
+
+- A. Start ATT first, then initiate ART after 2 weeks
+- B. Start ART first, then begin ATT after 2 weeks
+- C. Start both ART and ATT simultaneously
+- D. Start ATT first, then initiate ART after 8 weeks
+
+<details><summary>Answer</summary>
+
+**A. Start ATT first, then initiate ART after 2 weeks** — Current NACO/WHO guidelines: start ATT, then add ART within 2 weeks (regardless of CD4 count) to reduce IRIS risk while treating TB first.
+</details>
+
+---
+
+---
+
+### Q500 — Vaccines usable at clinic (open multi-dose vial)
+
+Regarding the vaccine vial monitor, which vaccines can be used?
+
+- A. Use A only
+- B. Use A and B
+- C. Use A, B and C
+- D. Use D only
+
+<details><summary>Answer</summary>
+
+**B. Use A and B** — Vials where the VVM square is lighter than the outer circle (Stage 1 and 2) are usable. Stage 3/4 (square darker than circle) should be discarded.
+</details>
+
+---
+
+---
+

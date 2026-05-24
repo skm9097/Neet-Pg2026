@@ -37,27 +37,27 @@ Neet-Pg2026/
     ├── STUDY-PLAN.md                ← 16-week phased study schedule
     ├── template.md                  ← schema for adding new questions
     │
-    ├── subject-wise/                ← multi-year pools, one file per subject (~400 Qs total)
+    ├── subject-wise/                ← multi-year pools, one file per subject (3,792 Qs total)
     │   ├── README.md
-    │   ├── anaesthesia.md           (27 Qs)
-    │   ├── anatomy.md               (20 Qs)
-    │   ├── biochemistry.md          (20 Qs)
-    │   ├── community-medicine.md    (222 Qs)
-    │   ├── dermatology.md           (20 Qs)
-    │   ├── ent.md                   (20 Qs)
-    │   ├── forensic-medicine.md     (35 Qs)
-    │   ├── medicine.md              (20 Qs)
-    │   ├── microbiology.md          (20 Qs)
-    │   ├── obstetrics-gynaecology.md (30 Qs)
-    │   ├── ophthalmology.md         (15 Qs)
-    │   ├── orthopaedics.md          (40 Qs)
-    │   ├── pathology.md             (18 Qs)
-    │   ├── pediatrics.md            (14 Qs)
-    │   ├── pharmacology.md          (10 Qs)
-    │   ├── physiology.md            (16 Qs)
-    │   ├── psychiatry.md            (20 Qs)
-    │   ├── radiology.md             (15 Qs)
-    │   └── surgery.md               (20 Qs)
+    │   ├── anaesthesia.md           (77 Qs)
+    │   ├── anatomy.md               (357 Qs)
+    │   ├── biochemistry.md          (156 Qs)
+    │   ├── community-medicine.md    (500 Qs)
+    │   ├── dermatology.md           (73 Qs)
+    │   ├── ent.md                   (176 Qs)
+    │   ├── forensic-medicine.md     (105 Qs)
+    │   ├── medicine.md              (288 Qs)
+    │   ├── microbiology.md          (138 Qs)
+    │   ├── obstetrics-gynaecology.md (661 Qs)
+    │   ├── ophthalmology.md         (94 Qs)
+    │   ├── orthopaedics.md          (101 Qs)
+    │   ├── pathology.md             (154 Qs)
+    │   ├── pediatrics.md            (100 Qs)
+    │   ├── pharmacology.md          (147 Qs)
+    │   ├── physiology.md            (349 Qs)
+    │   ├── psychiatry.md            (80 Qs)
+    │   ├── radiology.md             (91 Qs)
+    │   └── surgery.md               (145 Qs)
     │
     ├── 2025/questions.md            ← 200 Qs (full DigiNerve recall set)
     ├── 2024/questions.md            ← 306 Qs (DocTutorials Shift 1+2)
@@ -82,10 +82,10 @@ Neet-Pg2026/
         └── 2022-2024/               ← raw content for recent years
 ```
 
-**Current totals (as of 2026-05-24, post-audit):**
+**Current totals (as of 2026-05-24, post-expansion):**
 - Year-wise: 2,836 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
-- Subject-wise: 1,693 questions across all 19 NBE subjects
-- Combined unique: ~3,900 distinct stems
+- Subject-wise: 3,792 questions across all 19 NBE subjects (full year-wise pool merged in)
+- Combined unique: ~5,000+ distinct stems
 - Gap: 2021 (227 Qs recall only, no official PDF source with answer key)
 - PSM/Community Medicine: 260 Qs (most complete subject)
 - OBG: 491 Qs (subject-wise, extensively expanded)
@@ -99,8 +99,8 @@ Neet-Pg2026/
 The owner has ~90 days to exam. Strategy is reactivation, not relearning from zero.
 
 ### Priority order for Claude when building/expanding the question bank:
-1. **Subject-wise depth** — Low-count subjects need expansion: Pathology 18 Qs, Biochemistry/Dermatology/ENT/Medicine/Microbiology/Psychiatry/Surgery 20 Qs each, Pharmacology 25 Qs, Paediatrics 14 Qs. Community Medicine (260 Qs), OBG (491 Qs), Physiology (100 Qs), Anatomy (99 Qs) are well-developed.
-2. **2021 year gap** — Only 227 recall questions; no official PDF source with answer key found. Try PrepLadder or other sources.
+1. **2021 year gap** — Only 227 recall questions; no official PDF source with answer key found. nishantbhushan.in has a 2021 PDF at `https://www.nishantbhushan.in/_files/ugd/37999e_086d33f1c86d4f638c453b8919f2f98c.pdf` (download manually — not WebFetch-accessible). Also 2022 PDF at `...37999e_e1759464937f45c988f8c41df8cf0423.pdf`.
+2. **Subject-wise depth** — All subjects now have 73–661 Qs (full year-wise pool merged in). No critically thin subjects remain.
 3. **Quality improvements** — Some year-wise questions have keyword misclassification by subject; consider re-sorting by subject for easier subject-wise study.
 
 ### Active recall beats passive reading

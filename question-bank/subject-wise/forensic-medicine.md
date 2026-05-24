@@ -1088,3 +1088,759 @@ Anaplasia is
 </details>
 
 ---
+
+## Year 2019
+
+### Q66 — Viscera in toxicology stored in *(2019)*
+
+Viscera in toxicology stored in
+
+- A. Glycerine
+- B. Rectified spirit
+- C. Formalism
+- D. Saturated salt solution
+
+<details><summary>Answer</summary>
+
+**D. Saturated salt solution**
+
+</details>
+
+---
+
+---
+
+
+## Year 2020
+
+### Q67 — Tattoo location at autopsy
+
+Tattoo missing at autopsy; which structure to examine?
+
+- A. Liver
+- B. Arteries
+- C. Skin
+- D. Lymph nodes
+
+<details><summary>Answer</summary>
+
+**D. Lymph nodes** — Tattoo pigment is phagocytosed and drains to regional lymph nodes.
+</details>
+
+---
+
+### Q68 — Heroin dependence
+
+Most common drug causing physical dependence?
+
+- A. Ketamine
+- B. LSD
+- C. Phencyclidine
+- D. Heroin
+
+<details><summary>Answer</summary>
+
+**D. Heroin** — Opioid → strong physical dependence with classical withdrawal syndrome.
+</details>
+
+---
+
+---
+
+---
+
+### Q69 — Magnans symptoms are related to *(2020)*
+
+Magnan’s symptoms are related to
+
+- A. Cocaine poisoning
+- B. Cannabis
+- C. Cannabis
+- D. Alcohol
+
+<details><summary>Answer</summary>
+
+**A. Cocaine poisoning**
+
+</details>
+
+---
+
+---
+
+### Q70 — The best method for routine monitoring *(2020)*
+
+The best method for routine monitoring of air pollution
+
+- A. Sulphur dioxide, smoke, and particulate matter
+- B. Sulphur dioxide, Hydrogen sulphide, carbon monoxide
+- C. Carbon dioxide, hydrogen sulphide, lead
+- D. Sulphur dioxide, Lead and particulate matter
+
+<details><summary>Answer</summary>
+
+**D. Sulphur dioxide, Lead and particulate matter**
+
+</details>
+
+---
+
+---
+
+### Q71 — What poison will you detect in *(2020)*
+
+What poison will you detect in skeleton even after emaciation
+
+- A. Lead
+- B. Arsenic
+- C. Mercury
+- D. Cadmium
+
+<details><summary>Answer</summary>
+
+**B. Arsenic**
+
+</details>
+
+---
+
+---
+
+### Q72 — Identify the phenomena *(2020)*
+
+Identify the phenomena
+
+- A. Electric Burn
+- B. Crocodile Burn
+- C. Scalds
+- D. Putrefaction
+
+<details><summary>Answer</summary>
+
+**D. Putrefaction**
+
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q73 — Datura poisoning + antidote
+
+Child collapsed after eating garden fruit; irritability, dry skin, urinary retention.
+
+- A. Datura, pralidoxime
+- B. Datura, physostigmine
+- C. Yellow oleander, digoxin
+- D. Yellow oleander, physostigmine
+
+<details><summary>Answer</summary>
+
+**B. Datura, physostigmine** — Antimuscarinic toxidrome → cholinesterase inhibitor that crosses BBB.
+</details>
+
+---
+
+### Q74 — Heat stroke — feature NOT seen
+
+Man collapsed in hot afternoon, no dehydration, normal electrolytes, 106 °F.
+
+- A. Hot skin
+- B. Hypotension
+- C. Sweating
+- D. Disorientation
+
+<details><summary>Answer</summary>
+
+**C. Sweating** — Heat stroke = anhidrosis; skin is hot and dry.
+</details>
+
+---
+
+---
+
+---
+
+### Q75 — Throttling vs strangulation
+
+Multiple crescentic abrasions on neck, bruising, intact hyoid — cause of death?
+
+- A. Ligature strangulation
+- B. Mugging
+- C. Throttling (manual strangulation)
+- D. Garroting
+
+<details><summary>Answer</summary>
+
+**C. Throttling** — Fingernail crescentic abrasions = manual strangulation. Ligature strangulation = groove mark. Hyoid fracture more common in manual strangulation in elderly.
+
+</details>
+
+---
+
+### Q76 — POCSO Act — child definition
+
+POCSO Act — child is defined as?
+
+- A. Girls under 16
+- B. All children under 16
+- C. All children under 18
+- D. Girls under 18
+
+<details><summary>Answer</summary>
+
+**C. All children under 18** — POCSO Act 2012 defines "child" as any person below 18 years, regardless of gender.
+
+</details>
+
+---
+
+### Q77 — Acute arsenic poisoning
+
+Garlic odor in stomach, red-velvet gastric mucosa, grey granular deposits — poison?
+
+- A. Organophosphorus
+- B. Acute arsenic
+- C. Aluminum phosphide
+- D. Carbamates
+
+<details><summary>Answer</summary>
+
+**B. Acute arsenic** — Garlic odor, red-velvet mucosa (hyperemic gastric mucosa), grey/white granules (arsenious oxide) — classic post-mortem findings of acute arsenic poisoning.
+
+</details>
+
+---
+
+### Q78 — Age of consent under POCSO
+
+16-year-old girl, 23-year-old boy, consensual sexual act — legal status?
+
+- A. Consent invalid — girl under 18 under POCSO
+- B. No punishment as act was consensual
+- C. No punishment if marriage planned
+- D. Parents must prove non-consensual
+
+<details><summary>Answer</summary>
+
+**A. Consent invalid — girl under 18** — Under POCSO, children below 18 cannot give valid consent for sexual activity. Any sexual act with a person under 18 is an offence regardless of apparent consent.
+
+</details>
+
+---
+
+---
+
+
+## Year 2022
+
+### Q79 — Informed consent
+
+A 45-year-old female told of hysterectomy benefits/complications, agrees. Consent type?
+
+- A. Informed consent
+- B. Implied consent
+- C. Opt-out
+- D. Passive consent
+
+<details><summary>Answer</summary>
+
+**A. Informed consent** — Disclosure + understanding + voluntariness + competence.
+</details>
+
+---
+
+### Q80 — Ligature strangulation
+
+Postmortem: ligature completely encircles neck, horizontal, below thyroid, no saliva dribbling. Cause?
+
+- A. Throttling
+- B. Ligature strangulation
+- C. Gagging
+- D. Hanging
+
+<details><summary>Answer</summary>
+
+**B. Ligature strangulation** — Horizontal mark below thyroid, complete; hanging produces oblique, incomplete mark above thyroid + saliva dribbling.
+</details>
+
+---
+
+---
+
+---
+
+### Q81 — A 56-year-old man presents with fatigue, *(2022)*
+
+A 56-year-old man presents with fatigue, pallor, and abdominal pain. He reports memory loss and reveals that he works at a battery recycling plant. On examination, a noticeable foot drop in both lower extremities is seen. Laboratory testing shows elevated blood lead levels. Which enzyme is affected in the given scenario?
+
+- A. Aminolevulinic acid (ALA) dehydratase
+- B. Uroporphyrinogen III
+- C. Uroporphyrinogen I
+- D. Pyruvate dehydrogenase
+
+<details><summary>Answer</summary>
+
+**A. Aminolevulinic acid (ALA) dehydratase**
+
+</details>
+
+---
+
+---
+
+### Q82 — A patient came with complaints of *(2022)*
+
+A patient came with complaints of hair loss. His wife mentions that she has noticed some behavioral changes. The doctor notices a loss of eyebrows on the lateral side. He then concludes by examining the nails. What is the type of poisoning in this case?
+
+- A. Thallium
+- B. Arsenic
+- C. Mercury
+- D. Lead
+
+<details><summary>Answer</summary>
+
+**A. Thallium**
+
+</details>
+
+---
+
+---
+
+### Q83 — Identify the gun that caused the *(2022)*
+
+Identify the gun that caused the wound and the range of the shot.
+
+- A. Shotgun, intermediate range
+- B. Shotgun, close range
+- C. Pistol, near shot
+- D. Pistol, close shot
+
+<details><summary>Answer</summary>
+
+**C. Pistol, near shot**
+
+</details>
+
+---
+
+---
+
+### Q84 — Identify the type of wound from *(2022)*
+
+Identify the type of wound from the image.
+
+- A. Defense wounds
+- B. Antemortem wound
+- C. Postmortem wound
+- D. Hesitation cuts
+
+<details><summary>Answer</summary>
+
+**A. Defense wounds**
+
+</details>
+
+---
+
+---
+
+### Q85 — A 45-year-old female patient is told *(2022)*
+
+A 45-year-old female patient is told about the benefits and complications of a hysterectomy, and she agrees to the procedure. What kind of consent is this?
+
+- A. Informed consent
+- B. Implied consent
+- C. Opt-out
+- D. Passive consent
+
+<details><summary>Answer</summary>
+
+**A. Informed consent**
+
+</details>
+
+---
+
+---
+
+### Q86 — A dead body is brought for *(2022)*
+
+A dead body is brought for evaluation. On post-mortem examination, a ligature completely encircled the neck, horizontal, and below the thyroid level was seen. There was no dribbling of saliva. What is the cause of death?
+
+- A. Throttling
+- B. Ligature strangulation
+- C. Gagging
+- D. Hanging
+
+<details><summary>Answer</summary>
+
+**B. Ligature strangulation**
+
+</details>
+
+---
+
+---
+
+### Q87 — A surgeon returns home from a *(2022)*
+
+A surgeon returns home from a party after many pegs of alcohol and is called to perform an emergency operation. During the operation, the assisting staff noticed the surgeon’s handshaking and the instruments falling. He eventually nicks an artery, and the patient collapses. Under which of the following terms will this incident be tried?
+
+- A. Criminal negligence
+- B. Civil negligence not amounting to criminal negligence
+- C. Therapeutic misadventure
+- D. Dichotomy
+
+<details><summary>Answer</summary>
+
+**A. Criminal negligence**
+
+</details>
+
+---
+
+---
+
+### Q88 — During the court proceedings, the defense *(2022)*
+
+During the court proceedings, the defense lawyer asks a leading question, which the prosecutor appeals against. The judge grants the appeal. Leading questions are not allowed in all of the following except?
+
+- A. Re-examination
+- B. Cross-examination
+- C. Examination in chief
+- D. Dying declaration
+
+<details><summary>Answer</summary>
+
+**B. Cross-examination**
+
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q89 — Garden fruit poisoning + antidote
+
+A child ate a garden fruit; develops high fever, confusion, photophobia, urinary retention. Cause and antidote?
+
+- A. Datura, pralidoxime
+- B. Datura, physostigmine
+- C. Yellow oleander, pralidoxime
+- D. Yellow oleander, physostigmine
+
+<details><summary>Answer</summary>
+
+**B. Datura, physostigmine** — Anticholinergic poisoning. Physostigmine crosses BBB (unlike neostigmine).
+</details>
+
+---
+
+### Q90 — Letulle autopsy technique
+
+Autopsy method removing organs en masse from tongue to prostate?
+
+- A. Virchow
+- B. Rokitansky
+- C. Ghon
+- D. Letulle
+
+<details><summary>Answer</summary>
+
+**D. Letulle technique** — En masse removal; preserves anatomical relations.
+</details>
+
+---
+
+---
+
+### Q91 — The method of autopsy carried out *(2023)*
+
+The method of autopsy carried out en masse to remove from tongue to prostate is.
+
+- A. Virchow technique
+- B. Rokitansky technique
+- C. Ghon technique
+- D. Letulle technique
+
+<details><summary>Answer</summary>
+
+**D. Letulle technique**
+
+</details>
+
+---
+
+---
+
+### Q92 — A 10-year-old male child came to *(2023)*
+
+A 10-year-old male child came to the casualty with difficulty in walking and pain in the perianal region. On subjecting the specimen from the perianal region to a test, it produces yellow needle-shaped rhombic crystals with picric acid. What is the test done?
+
+- A. Barberio test
+- B. Florence test
+- C. Teichmann test
+- D. Acid phosphatase test
+
+<details><summary>Answer</summary>
+
+**A. Barberio test**
+
+</details>
+
+---
+
+---
+
+### Q93 — A patient was brought to casualty *(2023)*
+
+A patient was brought to casualty with seizures. He had multiple episodes and was taking herbal medicines for the same. He was conscious in between the episodes. During the episodes, he had arching of his back. What is the likely cause?
+
+- A. Strychnine
+- B. Ricinus
+- C. Nerium odorum
+- D. Datura
+
+<details><summary>Answer</summary>
+
+**A. Strychnine**
+
+</details>
+
+---
+
+---
+
+### Q94 — The temperature of a body of *(2023)*
+
+The temperature of a body of a deceased person is found to be 39 degrees Celsius. Which of the following is the most probable reason?
+
+- A. Cyanide poisoning
+- B. Septicemia
+- C. Corrosive poisoning
+- D. Intra-abdominal hemorrhage
+
+<details><summary>Answer</summary>
+
+**B. Septicemia**
+
+</details>
+
+---
+
+---
+
+### Q95 — A farmer was sleeping in the *(2023)*
+
+A farmer was sleeping in the field, and he felt a sting on his leg. He saw something moving away quickly. He then got drowsy and was taken to the hospital. He developed pain around the site and continued to bleed profusely from the wound site. The wound became red with blisters. Which of the following is the most likely cause?
+
+- A. Viper
+- B. Cobra
+- C. Wasp bite
+- D. Scorpion
+
+<details><summary>Answer</summary>
+
+**A. Viper**
+
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q96 — Age estimation for late teen
+
+For age determination of an accused claiming 16 but stated as 18, which joint X-rays?
+
+- A. Head & shoulder
+- B. Elbow & ankle
+- C. Knee & wrist
+- D. Elbow & hip
+
+<details><summary>Answer</summary>
+
+**C. Knee & wrist** — Most informative for 16–18 yrs (distal radius, proximal tibia/fibula epiphyseal fusion).
+</details>
+
+---
+
+### Q97 — Dry pupils, slurred speech, altered sensorium
+
+A person from a railway track with dry dilated pupils, dry skin, slurred speech, altered sensorium. Poisoning?
+
+- A. Morphine
+- B. Cannabis
+- C. Datura
+- D. Alcohol
+
+<details><summary>Answer</summary>
+
+**C. Datura** — "Hot as a hare, dry as a bone, red as a beet, mad as a hatter, blind as a bat" — anticholinergic toxidrome.
+</details>
+
+---
+
+---
+
+### Q98 — What are the sequential steps in *(2024)*
+
+What are the sequential steps in rigour mortis? Options
+
+- A. Center to periphery
+- B. Head to foot
+- C. Foot to head
+- D. Simultaneously
+
+<details><summary>Answer</summary>
+
+**B. Head to foot**
+
+</details>
+
+---
+
+---
+
+### Q99 — Clinical Question A child is born *(2024)*
+
+A child is born eight months following the death of the presumed father. Despite doubts about paternity from the paternal grandparents, DNA testing confirms the child is biologically related to their son. What term best describes this child?
+
+- A. Suppositious child
+- B. Fabricated child
+- C. Posthumous child
+- D. Illegitimate child
+
+<details><summary>Answer</summary>
+
+**C. Posthumous child**
+
+</details>
+
+---
+
+---
+
+### Q100 — In the event of a death *(2024)*
+
+In the event of a death resulting from a road traffic accident, which authority is responsible for requesting an autopsy?
+
+- A. Forensic expert
+- B. Police
+- C. Lawyer
+- D. Forensic doctor
+
+<details><summary>Answer</summary>
+
+**B. Police**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q101 — Bruises on neck — cause of death
+
+Autopsy of a 35-year-old female shows bruises below right jaw angle with scratches and three groups of bruises on left neck below thyroid cartilage. Most likely cause of death?
+
+- A. Throttling
+- B. Garroting
+- C. Mugging
+- D. Ligature strangulation
+
+<details><summary>Answer</summary>
+
+**A. Throttling (manual strangulation)** — Fingertip bruises (groups) on neck with scratching marks from fingernails are hallmarks of throttling. Ligature strangulation leaves a horizontal groove.
+</details>
+
+---
+
+---
+
+### Q102 — Consent in alleged rape (minor)
+
+16-year-old girl and 23-year-old man; girl states it was consensual; no injuries. Legal status?
+
+- A. Consent is invalid as girl is under 18
+- B. No punishment since act was consensual
+- C. Parents must prove it was non-consensual
+- D. No punishment since there are no injuries
+
+<details><summary>Answer</summary>
+
+**A. Consent is invalid as the girl is under 18** — Under POCSO Act 2012 and IPC Section 376, sexual activity with a person under 18 is statutory rape regardless of consent.
+</details>
+
+---
+
+---
+
+### Q103 — POCSO Act 2012 protection
+
+Under POCSO Act 2012, which group is protected?
+
+- A. All children under 16 years
+- B. All children under 18 years
+- C. Girls under 16 years
+- D. Girls under 18 years
+
+<details><summary>Answer</summary>
+
+**B. All children under 18 years** — POCSO protects both boys and girls under 18 from sexual offences; gender-neutral legislation.
+</details>
+
+---
+
+---
+
+### Q104 — RTA, normal CT, retraction balls in corpus callosum
+
+A patient with RTA, normal CT, dies within 3 hours. Autopsy shows retraction balls and petechial hemorrhages in corpus callosum. Diagnosis?
+
+- A. Diffuse vascular injury
+- B. Diffuse axonal injury
+- C. Intracerebral hemorrhage
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Diffuse axonal injury (DAI)** — Shearing forces damage axons at grey-white interface and corpus callosum. CT may be normal initially; retraction balls (axonal retraction clots) on microscopy are pathognomonic.
+</details>
+
+---
+
+---
+
+### Q105 — Palliative care ethics scenario
+
+A 68-year-old with advanced cancer: doctors believe aggressive treatment is futile; daughter insists on "trying everything." How should the doctor respond?
+
+- A. Convene with family members and consider the patient's needs
+- B. Shift to ICU and start aggressive treatment
+- C. Discharge patient and shift to palliative care
+- D. Give placebo care to relieve anxiety
+
+<details><summary>Answer</summary>
+
+**A. Convene with family members and consider the patient's needs** — Ethical approach: multidisciplinary family meeting, shared decision-making, respect patient autonomy; shift to palliative/comfort care is appropriate but requires communication and consensus.
+</details>
+
+---
+
+---
+

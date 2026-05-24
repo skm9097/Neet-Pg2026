@@ -1015,3 +1015,589 @@ Imaging techniques used in Uterus anomalies EXCEPT
 </details>
 
 ---
+
+## Year 2018
+
+### Q61 — A woman shows symptoms of massive *(2018)*
+
+A woman shows symptoms of massive pulmonary thromboembolism.The gross appearance of liver autopsy is shown. Which of the following statement best characterizes the patient’s condition
+
+- A. Metastasis from PE
+- B. Angiosarcoma
+- C. Colonic adenocarcinoma with metastasis
+- D. Locally invaded hepatocellular carcinoma
+
+<details><summary>Answer</summary>
+
+**C. Colonic adenocarcinoma with metastasis**
+
+</details>
+
+---
+
+---
+
+### Q62 — What is the structure seen in *(2018)*
+
+What is the structure seen in the given Xray below
+
+- A. Stent
+- B. Surgical clips
+- C. Foley catheter
+- D. Intravesical wire
+
+<details><summary>Answer</summary>
+
+**A. Stent**
+
+</details>
+
+---
+
+---
+
+### Q63 — What is the diagnosis based on *(2018)*
+
+What is the diagnosis based on the following X-ray
+
+- A. Uterine Fibroid
+- B. Bladder Carcinoma
+- C. Bladder stone
+- D. Renal Tuberculosis
+
+<details><summary>Answer</summary>
+
+**C. Bladder stone**
+
+</details>
+
+---
+
+---
+
+### Q64 — A red soft to firm swelling *(2018)*
+
+A red soft to firm swelling on sternum that on biopsy shows following histology. What is the diagnosis
+
+- A. Hemangioma
+- B. Osteochondroma
+- C. Osteoid osteoma
+- D. Paget disease
+
+<details><summary>Answer</summary>
+
+**A. Hemangioma**
+
+</details>
+
+---
+
+---
+
+### Q65 — Which of the following is carrying *(2018)*
+
+Which of the following is carrying agent for the disease with given characteristic on polarized microscopy
+
+- A. Anopheles
+- B. Ixodes scapularis ticks
+- C. Louse
+- D. Rat flea
+
+<details><summary>Answer</summary>
+
+**B. Ixodes scapularis ticks**
+
+</details>
+
+---
+
+---
+
+### Q66 — Identify the condition shown in the *(2018)*
+
+Identify the condition shown in the CT Scan image below.
+
+- A. Dandy walker malformation
+- B. Cerebellar vermis hypoplasia
+- C. Mega cisterna magna
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Dandy walker malformation**
+
+</details>
+
+---
+
+---
+
+### Q67 — Identify artery X in the given *(2018)*
+
+Identify artery ‘X’ in the given angiography anatomy image:
+
+- A. Superior mesenteric artery
+- B. Subclavian artery
+- C. Celiac artery
+- D. Brachiocephalic artery
+
+<details><summary>Answer</summary>
+
+**A. Superior mesenteric artery**
+
+</details>
+
+---
+
+---
+
+
+## Year 2019
+
+### Q68 — Earliest cerebral infarct imaging
+
+Best imaging for earliest cerebral infarct diagnosis?
+
+- A. FLAIR MRI
+- B. NCCT
+- C. CECT
+- D. Diffusion-weighted MRI (DWI)
+
+<details><summary>Answer</summary>
+
+**D. DWI MRI** — Detects cytotoxic oedema within minutes of ischaemia.
+</details>
+
+---
+
+### Q69 — Water-soluble contrast
+
+Which is a water-soluble contrast?
+
+- A. Iohexol
+- B. Barium
+- C. Borium
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**A. Iohexol** — Non-ionic iodinated water-soluble contrast. Safe if perforation suspected (barium contraindicated).
+</details>
+
+---
+
+---
+
+### Q70 — Which of the following is water *(2019)*
+
+Which of the following is water soluble contrast?
+
+- A. Barium
+- B. Iodine
+- C. Bromium
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**B. Iodine**
+
+</details>
+
+---
+
+---
+
+### Q71 — Identify the radiological procedure shown below *(2019)*
+
+Identify the radiological procedure shown below?
+
+- A. Barium meal follow through
+- B. Barium enema
+- C. Enteroclysis
+- D. Proctography
+
+<details><summary>Answer</summary>
+
+**A. Barium meal follow through**
+
+</details>
+
+---
+
+---
+
+### Q72 — Which method is used to study *(2019)*
+
+Which method is used to study the following timeline?
+
+- A. Cohort Study
+- B. Cross sectional study
+- C. Randomized Control Trials
+- D. Interventional Studies
+
+<details><summary>Answer</summary>
+
+**A. Cohort Study**
+
+</details>
+
+---
+
+---
+
+
+## Year 2020
+
+### Q73 — Cystic suprasellar lesion with calcification
+
+Cystic suprasellar lesion with calcification on MRI.
+
+- A. Pituitary adenoma
+- B. Meningioma
+- C. Oligodendroglioma
+- D. Craniopharyngioma
+
+<details><summary>Answer</summary>
+
+**D. Craniopharyngioma** — Cystic + calcified suprasellar mass; commonest pediatric suprasellar tumour. Bimodal age distribution.
+</details>
+
+---
+
+### Q74 — Personnel monitoring device
+
+Personnel radiation monitoring device?
+
+- A. Collimator
+- B. Linear accelerator
+- C. Grid
+- D. TLD badge
+
+<details><summary>Answer</summary>
+
+**D. TLD badge** — Thermoluminescent dosimeter. Worn by radiation workers.
+</details>
+
+---
+
+---
+
+### Q75 — years old lady with a history *(2020)*
+
+years old lady with a history of fever for 1 month presents with headache and ataxia.Brain imaging shows dilated ventricles and significant basal
+
+- A. Lymphocytosis, Low Glucose, High protein
+- B. Lymphocytosis, Normal Glucose, High protein
+- C. Lymphocytosis, Low Glucose, Normal protein
+- D. Neutrophilia, Low glucose, Low Protein
+
+<details><summary>Answer</summary>
+
+**A. Lymphocytosis, Low Glucose, High protein**
+
+</details>
+
+---
+
+---
+
+### Q76 — The most common site of origin *(2020)*
+
+The most common site of origin of the diverticulum of the pharynx seen in the barium swallow given below is
+
+- A. Between stylopharyngeus and palatopharyngeus
+- B. Between middle and inferior constrictor
+- C. Between inferior constrictor and esophagus
+- D. Between thyropharyngeus and cricopharyngeus
+
+<details><summary>Answer</summary>
+
+**D. Between thyropharyngeus and cricopharyngeus**
+
+</details>
+
+---
+
+---
+
+### Q77 — Barium Swallow examination is shown What *(2020)*
+
+Barium Swallow examination is shown. What can be the most probable diagnosis?
+
+- A. Esophageal Ca
+- B. Esophageal Ring
+- C. Esophageal Tear
+- D. Achalasia Cardia
+
+<details><summary>Answer</summary>
+
+**A. Esophageal Ca**
+
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q78 — Stable trauma — FAST
+
+Patient post-RTA, stable, GCS 15/15, left lower chest wall tenderness. Initial imaging?
+
+- A. FAST
+- B. X-ray
+- C. DPL
+- D. CT scan
+
+<details><summary>Answer</summary>
+
+**A. FAST** — Focused Assessment with Sonography in Trauma. Quick bedside detection of free fluid.
+</details>
+
+---
+
+### Q79 — Radiosensitive tissue (NOT)
+
+Child with ALL prophylactic irradiation. Which tissue is **most resistant**?
+
+- A. Spermatogonia
+- B. Intestinal epithelium
+- C. Neurons
+- D. Bone marrow
+
+<details><summary>Answer</summary>
+
+**C. Neurons** — Post-mitotic neurons are highly radio-resistant. Rapidly dividing cells (gonads, marrow, gut) are most sensitive.
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q80 — Parietal swelling since birth
+
+A 2-month-old with parietal swelling since birth, not crossing suture lines.
+
+- A. Subgaleal haematoma
+- B. Cephalhaematoma
+- C. Caput succedaneum
+- D. Encephalocele
+
+<details><summary>Answer</summary>
+
+**B. Cephalhaematoma** — Subperiosteal; doesn't cross sutures; resolves over weeks.
+</details>
+
+---
+
+### Q81 — Sterile pyuria + putty kidney
+
+A patient with abdominal pain, sterile pyuria, X-ray features of calcified kidney.
+
+- A. Putty kidney
+- B. Nephrocalcinosis
+- C. Staghorn calculus
+- D. Psoas calcification
+
+<details><summary>Answer</summary>
+
+**A. Putty kidney** — End-stage genitourinary TB → autonephrectomy with caseous calcification. Sterile pyuria is the clue.
+</details>
+
+---
+
+---
+
+### Q82 — O2 Parotid tumor O3 Sebaceous cyst *(2023)*
+
+O2: Parotid tumor O3: Sebaceous cyst O4: Cervical lymph node Ans: 2 A woman with endometrial carcinoma is undergoing radiotherapy. Which of the following is true? Pr
+
+- A. Intensity is inversely proportional to the square of the distance from the source
+- B. Parotid tumor
+- C. Sebaceous cyst
+- D. Cervical lymph node
+
+<details><summary>Answer</summary>
+
+**B. Parotid tumor**
+
+</details>
+
+---
+
+---
+
+### Q83 — A child before playing consumed fruit *(2023)*
+
+A child before playing consumed fruit from the garden. After some time he developed a high fever, confusion, photophobia, and unable to urinate. What are the likely causative agent and the appropriate antidote used in this case?
+
+- A. Datura, Pralidoxime
+- B. Datura, Physostigmine
+- C. Yellow oleander, Pralidoxime
+- D. Yellow oleander, Physostigmine
+
+<details><summary>Answer</summary>
+
+**B. Datura, Physostigmine**
+
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q84 — Persistent headache + CT (SAH)
+
+A 40-year-old female with persistent headache; CT shown. Most accurate diagnosis?
+
+- A. Subarachnoid haemorrhage
+- B. Epidural haemorrhage
+- C. Subdural haemorrhage
+- D. Intraparenchymal haemorrhage
+
+<details><summary>Answer</summary>
+
+**A. Subarachnoid haemorrhage** — Hyperdense blood in basal cisterns / sulci. "Thunderclap headache."
+</details>
+
+---
+
+### Q85 — Ptosis + fatigability + mediastinal mass
+
+A 45-year-old with ptosis, muscle weakness improving with rest, dysphagia, engorged thoracic veins. CT shows anterior mediastinal mass. Most likely?
+
+- A. Thymoma
+- B. Pancoast tumour
+- C. Adenocarcinoma
+- D. Small-cell lung cancer
+
+<details><summary>Answer</summary>
+
+**A. Thymoma** — Associated with myasthenia gravis; anterior mediastinum (one of "4 Ts": thymoma, thyroid, teratoma, terrible lymphoma).
+</details>
+
+---
+
+---
+
+### Q86 — Clinical Question A 25-year-old individual present *(2024)*
+
+A 25-year-old individual presents with sudden-onset epigastric pain and an elevated serum lipase level. He is stabilised after three days. Based on the chest X-ray provided, what is the most likely pulmonary complication?
+
+- A. Acute Respiratory Distress Syndrome (ARDS)
+- B. Acute pulmonary oedema
+- C. Pulmonary thromboembolism
+- D. Miliary tuberculosis (TB)
+
+<details><summary>Answer</summary>
+
+**A. Acute Respiratory Distress Syndrome (ARDS)**
+
+</details>
+
+---
+
+---
+
+### Q87 — Clinical Question A 6-week-old infant is *(2024)*
+
+A 6-week-old infant is brought to the emergency department with repeated episodes of forceful, non-bilious vomiting. Based on the accompanying radiograph, what is the most likely diagnosis?
+
+- A. Annular pancreas
+- B. Congenital Hypertrophic Pyloric Stenosis
+- C. Duodenal atresia
+- D. Meckel’s diverticulum
+
+<details><summary>Answer</summary>
+
+**B. Congenital Hypertrophic Pyloric Stenosis**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q88 — Imaging investigation: non-invasive, PUJ obstruction
+
+Which is true about the investigation shown?
+
+- A. Non-invasive; gold standard for cancer
+- B. Non-invasive; can diagnose PUJ obstruction
+- C. Percutaneous method
+- D. Invasive; therapeutic for bladder lithiasis
+
+<details><summary>Answer</summary>
+
+**B. Non-invasive; can diagnose PUJ obstruction** — IVP (intravenous pyelogram)/CT urogram: non-invasive; evaluates PUJ obstruction, urinary tract anatomy.
+</details>
+
+---
+
+---
+
+### Q89 — Right-sided collapse on X-ray
+
+CXR shows right-sided findings. Most appropriate diagnosis?
+
+- A. Collapse of right upper lobe
+- B. Consolidation of right upper lobe
+- C. Right lung abscess
+- D. Right upper lobe bronchogenic carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Collapse of right upper lobe** — Elevated minor fissure, tracheal deviation to right, opacity in right upper zone with volume loss = collapse (atelectasis) of right upper lobe.
+</details>
+
+---
+
+---
+
+### Q90 — 35-year-old male with recurrent headaches, MRI shown
+
+35-year-old male with recurrent headaches. MRI shown. Diagnosis?
+
+- A. Meningioma
+- B. Glioma
+- C. Medulloblastoma
+- D. Pilocytic astrocytoma
+
+<details><summary>Answer</summary>
+
+**A. Meningioma** — MRI: extra-axial, homogeneously enhancing dural-based mass with "dural tail." Most common benign brain tumour in adults; more common in middle-aged women.
+</details>
+
+---
+
+---
+
+### Q91 — Dysphagia and regurgitation, barium swallow shown: gold standard
+
+32-year-old with dysphagia and regurgitation; barium swallow image shown. Gold standard for confirming diagnosis?
+
+- A. CECT
+- B. Esophageal manometry
+- C. Endoscopy
+- D. NCCT
+
+<details><summary>Answer</summary>
+
+**B. Esophageal manometry** — Achalasia cardia on barium swallow (bird's beak sign). Gold standard confirmation: manometry (absent peristalsis + incomplete LES relaxation).
+</details>
+
+---
+
+---
+

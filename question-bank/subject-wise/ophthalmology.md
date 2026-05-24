@@ -1015,3 +1015,641 @@ true about TRIAD congenital rubella syndrome
 </details>
 
 ---
+
+## Year 2019
+
+### Q61 — Drug used in acute congestive glaucoma *(2019)*
+
+Drug used in acute congestive glaucoma are:
+
+- A. Atropine
+- B. Pilocarpine
+- C. Acetazolamide
+- D. Both B & C
+
+<details><summary>Answer</summary>
+
+**D. Both B & C**
+
+</details>
+
+---
+
+---
+
+### Q62 — Esotropiais usually associated with *(2019)*
+
+Esotropiais usually associated with:
+
+- A. Myopia
+- B. Hypermetropia
+- C. Astigmatism
+- D. Presbyopia
+
+<details><summary>Answer</summary>
+
+**B. Hypermetropia**
+
+</details>
+
+---
+
+---
+
+### Q63 — Following test is used to diagnose *(2019)*
+
+Following test is used to diagnose which ocular condition as shown in image:
+
+- A. Strabismus
+- B. Heterophoria
+- C. Both A & B
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Both A & B**
+
+</details>
+
+---
+
+---
+
+
+## Year 2020
+
+### Q64 — Corneal transparency
+
+Layer responsible for corneal hydration and transparency?
+
+- A. Descemet's membrane
+- B. Stroma
+- C. Corneal epithelium
+- D. Endothelium
+
+<details><summary>Answer</summary>
+
+**D. Endothelium** — Na/K ATPase pumps maintain deturgescence (relative dehydration).
+</details>
+
+---
+
+### Q65 — Fungal ulcer feature
+
+Characteristic feature of a fungal corneal ulcer?
+
+- A. Dendritic ulcer on fluorescein
+- B. Ring abscess
+- C. Reverse hypopyon
+- D. Satellite lesions
+
+<details><summary>Answer</summary>
+
+**D. Satellite lesions** — Classic of fungal keratitis. Dendritic = HSV; ring infiltrate = Acanthamoeba/severe bacterial.
+</details>
+
+---
+
+---
+
+### Q66 — What causes shifting fluid *(2020)*
+
+What causes shifting fluid?
+
+- A. Exudative Retinal detachment
+- B. Tractional Retinal Detachment
+- C. Rhegmatogenous retinal detachment
+- D. Retinodialysis
+
+<details><summary>Answer</summary>
+
+**A. Exudative Retinal detachment**
+
+</details>
+
+---
+
+---
+
+### Q67 — Photostress test to differentiate *(2020)*
+
+Photostress test to differentiate
+
+- A. Lens and cornea
+- B. The macula and Optic nerve diseases
+- C. Cataract and glaucoma
+- D. Retinal and vitreous diseases
+
+<details><summary>Answer</summary>
+
+**B. The macula and Optic nerve diseases**
+
+</details>
+
+---
+
+---
+
+### Q68 — Which layer of cornea helps in *(2020)*
+
+Which layer of cornea helps in the hydration of stroma of cornea
+
+- A. Endothelium
+- B. Epithelium
+- C. Descemet membrane
+- D. Stroma
+
+<details><summary>Answer</summary>
+
+**A. Endothelium**
+
+</details>
+
+---
+
+---
+
+### Q69 — Esotropia is common in *(2020)*
+
+Esotropia is common in
+
+- A. Myopia
+- B. Hypermetropia
+- C. Emmetropia
+- D. Astigmatism
+
+<details><summary>Answer</summary>
+
+**B. Hypermetropia**
+
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q70 — Right homonymous hemianopia
+
+A 33-year-old woman with progressive vision loss in right halves of both eyes. Lesion?
+
+- A. Left optic tract
+- B. Right visual cortex
+- C. Optic chiasma
+- D. Right optic nerve
+
+<details><summary>Answer</summary>
+
+**A. Left optic tract** — Right HH from left retrochiasmal lesion.
+</details>
+
+---
+
+### Q71 — Non-compliant teen with myopic astigmatism
+
+15-year-old girl non-compliant with spectacles for myopic astigmatism. Option?
+
+- A. LASIK
+- B. Spherical equivalent spectacles
+- C. Femto LASIK
+- D. Implantable collamer lens
+
+<details><summary>Answer</summary>
+
+**B. Spherical equivalent spectacles** — Refractive surgery not done until stable refraction (~age 18+).
+</details>
+
+---
+
+---
+
+### Q72 — Dermoid cyst — location
+
+15-year-old, painless supraorbital swelling, slowly progressive over 1 year?
+
+- A. Lacrimal gland mass
+- B. Dermoid cyst
+- C. Orbital hemangioma
+- D. Epidermoid cyst
+
+<details><summary>Answer</summary>
+
+**B. Dermoid cyst** — Most common orbital tumor in children; choristoma arising from embryonal ectoderm trapped at suture lines; superolateral (frontozygomatic) location most common; non-tender, firm.
+
+</details>
+
+---
+
+### Q73 — Fuchs endothelial dystrophy
+
+Guttate lesions one eye, bullous keratopathy other eye?
+
+- A. Trachoma
+- B. Herpes keratitis
+- C. Fuchs endothelial dystrophy
+- D. Keratoconus
+
+<details><summary>Answer</summary>
+
+**C. Fuchs endothelial dystrophy** — Bilateral progressive corneal endotheliopathy; guttae (drop-like excrescences on Descemet's); → stromal edema → bullous keratopathy. Definitive treatment: DSEK/DMEK.
+
+</details>
+
+---
+
+### Q74 — Orbital cellulitis — true statement
+
+Orbital cellulitis — most true statement?
+
+- A. Ethmoidal sinusitis is the most common cause across all age groups
+- B. Topical antibiotics are the mainstay of treatment
+- C. Inflammation is anterior to the orbital septum
+- D. Normal pupils and eye movements are characteristic
+
+<details><summary>Answer</summary>
+
+**A. Ethmoidal sinusitis most common cause in all ages** — Chandler's classification; ethmoidal sinusitis → subperiosteal/orbital abscess. Preseptal cellulitis (anterior to septum) ≠ orbital cellulitis (posterior). Orbital = proptosis, restricted EOM, chemosis.
+
+</details>
+
+---
+
+---
+
+
+## Year 2022
+
+### Q75 — Sympathetic ophthalmitis
+
+Penetrating eye injury; sympathetic ophthalmitis confirmed. Finding?
+
+- A. Acute anterior uveitis
+- B. Pars planitis
+- C. Panuveitis
+- D. Chronic anterior uveitis
+
+<details><summary>Answer</summary>
+
+**C. Panuveitis** — Granulomatous, bilateral. Earliest sign: retro-lental yellow-white spots (Dalen–Fuchs nodules).
+</details>
+
+---
+
+### Q76 — Diabetic retinopathy — neovascularisation
+
+Diabetic patient: VA 6/9, preretinal haemorrhages, neovascularisation at optic disc. Management?
+
+- A. Focal laser
+- B. Pan-retinal photocoagulation (PRP)
+- C. Grid laser
+- D. Scleral buckling
+
+<details><summary>Answer</summary>
+
+**B. PRP** — Proliferative diabetic retinopathy (NVD/NVE) → PRP is standard.
+</details>
+
+---
+
+---
+
+### Q77 — What is the diagnosis *(2022)*
+
+What is the diagnosis?
+
+- A. Intraocular foreign body
+- B. Pseudoexfoliation syndrome
+- C. Ocular trauma
+- D. Vossius ring
+
+<details><summary>Answer</summary>
+
+**B. Pseudoexfoliation syndrome**
+
+</details>
+
+---
+
+---
+
+### Q78 — A patient presents with a history *(2022)*
+
+A patient presents with a history of penetrating injury to the eye. A diagnosis of sympathetic ophthalmitis was confirmed. Which of the following will be seen?
+
+- A. Acute anterior uveitis
+- B. Pars planitis
+- C. Panuveitis
+- D. Chronic anterior uveitis
+
+<details><summary>Answer</summary>
+
+**C. Panuveitis**
+
+</details>
+
+---
+
+---
+
+### Q79 — A diabetic patient presents to you *(2022)*
+
+A diabetic patient presents to you with visual acuity of 6/9 in one eye. Further investigations revealed preretinal hemorrhages with neovascularization at the optic disc. What is the next step in management?
+
+- A. Focal laser photocoagulation
+- B. Pan-retinal photocoagulation
+- C. Grid laser photocoagulation
+- D. Scleral buckling
+
+<details><summary>Answer</summary>
+
+**B. Pan-retinal photocoagulation**
+
+</details>
+
+---
+
+---
+
+### Q80 — What is the indication of this *(2022)*
+
+What is the indication of this procedure?
+
+- A. Keratoconus
+- B. Vogt’s limbal girdle
+- C. Keratoglobus
+- D. Corneal dystrophy
+
+<details><summary>Answer</summary>
+
+**A. Keratoconus**
+
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q81 — Right homonymous hemianopia
+
+A female with vision loss in the right halves of both eyes (right homonymous hemianopia). Lesion location?
+
+- A. Left optic tract
+- B. Optic radiation
+- C. Optic chiasma
+- D. Right optic tract
+
+<details><summary>Answer</summary>
+
+**A. Left optic tract** — Right homonymous hemianopia = left retrochiasmal lesion (tract, LGN, radiation, or cortex).
+</details>
+
+---
+
+### Q82 — Kayser–Fleischer ring
+
+A 20-year-old male with a golden ring on the iris. Next investigation?
+
+- A. α1-antitrypsin
+- B. α-fetoprotein
+- C. Serum iron
+- D. Serum ceruloplasmin
+
+<details><summary>Answer</summary>
+
+**D. Serum ceruloplasmin** — KF ring → Wilson's disease (decreased ceruloplasmin, copper accumulation in Descemet's membrane).
+</details>
+
+---
+
+---
+
+### Q83 — A child presents with mental retardation, *(2023)*
+
+A child presents with mental retardation, bone pain, and inability to walk. On funduscopic examination, a cherry red spot is seen. There is no organomegaly. What is the most likely diagnosis?
+
+- A. Tay-Sachs disease
+- B. Niemann-Pick disease
+- C. Hurler syndrome
+- D. Gaucher disease
+
+<details><summary>Answer</summary>
+
+**A. Tay-Sachs disease**
+
+</details>
+
+---
+
+---
+
+### Q84 — The eye examination of a 20-year-old *(2023)*
+
+The eye examination of a 20-year-old male shows a golden ring on the iris. What is the next investigation to diagnose the condition?
+
+- A. Alpha-1-antitrypsin
+- B. Alpha-fetoprotein
+- C. Serum iron
+- D. Serum ceruloplasmin
+
+<details><summary>Answer</summary>
+
+**D. Serum ceruloplasmin**
+
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q85 — Congenital cataract — timing
+
+A 2-month-old child with significant congenital cataract. Ideal management?
+
+- A. Medical management
+- B. Operate immediately
+- C. Surgery after 6 months
+- D. Surgery after 2 years
+
+<details><summary>Answer</summary>
+
+**B. Operate immediately** — To prevent stimulus deprivation amblyopia; critical period for visual development.
+</details>
+
+---
+
+### Q86 — Night blindness + peripheral loss
+
+Patient with gradual night vision and peripheral vision loss; fundus shows bone-spicule pigmentation. Diagnosis?
+
+- A. Retinitis pigmentosa
+- B. Retinal haemorrhage
+- C. Diabetic retinopathy
+- D. Hypertensive retinopathy
+
+<details><summary>Answer</summary>
+
+**A. Retinitis pigmentosa** — Triad: bone-spicule pigmentation, attenuated arterioles, waxy disc pallor. ERG markedly reduced.
+</details>
+
+---
+
+---
+
+### Q87 — A patient undergoing the Worth 4 *(2024)*
+
+A patient undergoing the Worth 4 Dot Test reports seeing only three green dots. What does this finding most likely indicate?
+
+- A. Right eye suppression
+- B. Left eye suppression
+- C. Crossed diplopia with esodeviation
+- D. Crossed diplopia with exodeviation
+
+<details><summary>Answer</summary>
+
+**A. Right eye suppression**
+
+</details>
+
+---
+
+---
+
+### Q88 — Clinical Question A 2-month-old infant is *(2024)*
+
+A 2-month-old infant is brought to the ophthalmology outpatient department with the condition shown. What is the most appropriate course of management in this case?
+
+- A. Medical management
+- B. Operate immediately
+- C. Surgery after 6 months
+- D. Surgery after 2 years
+
+<details><summary>Answer</summary>
+
+**B. Operate immediately**
+
+</details>
+
+---
+
+---
+
+### Q89 — Clinical Question A patient reports progressive *(2024)*
+
+A patient reports progressive visual decline three years following ocular surgery and presents with the condition shown. What is the most probable diagnosis?
+
+- A. Pseudo-bullous keratopathy
+- B. Corneal dystrophy
+- C. Posterior subcapsular cataract
+- D. Posterior capsular opacification (PCO)
+
+<details><summary>Answer</summary>
+
+**D. Posterior capsular opacification (PCO)**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q90 — INTACS primary indication
+
+The INTACS intrastromal corneal ring segment is primarily indicated for:
+
+- A. Glaucoma
+- B. Cataract
+- C. Keratoconus
+- D. Corneal ulcer
+
+<details><summary>Answer</summary>
+
+**C. Keratoconus** — INTACS flatten the corneal cone, improving vision in early-to-moderate keratoconus; can delay or avoid corneal transplantation.
+</details>
+
+---
+
+---
+
+### Q91 — Gradually enlarging painless orbital swelling for 10 years (16-year-old)
+
+16-year-old female, painless orbital swelling present since birth, slowly enlarging for 10 years. Diagnosis?
+
+- A. Dermoid cyst
+- B. Capillary hemangioma
+- C. Lacrimal gland carcinoma
+- D. Osteoma
+
+<details><summary>Answer</summary>
+
+**A. Dermoid cyst** — Congenital choristoma; most common at fronto-zygomatic suture (superolateral orbit); slow-growing, painless; contains ectodermal elements (hair, sebaceous glands).
+</details>
+
+---
+
+---
+
+### Q92 — Guttate lesions in one eye, bullous keratopathy in other
+
+Patient with guttate lesions in one eye and bullous keratopathy in the other. Diagnosis?
+
+- A. Fuchs' endothelial dystrophy
+- B. Viral corneal ulcer
+- C. Interstitial keratitis
+- D. Keratoconjunctivitis
+
+<details><summary>Answer</summary>
+
+**A. Fuchs' endothelial dystrophy** — Guttae (comma-shaped endothelial excrescences) on specular microscopy; leads to bullous keratopathy as endothelial cells fail. Bilateral but asymmetric.
+</details>
+
+---
+
+---
+
+### Q93 — True statement about orbital cellulitis
+
+Which is true about orbital cellulitis?
+
+- A. Inflammation is confined anterior to orbital septum
+- B. Ethmoidal sinusitis is the most common cause
+- C. It presents with proptosis, but pupillary reflexes and EOMs remain normal
+- D. Broad-spectrum topical antibiotics are treatment of choice
+
+<details><summary>Answer</summary>
+
+**B. Ethmoidal sinusitis is the most common cause** — Most common cause of orbital cellulitis at all ages (especially children) is spread from ethmoidal sinusitis. Preseptal (periorbital) cellulitis is anterior to septum, not orbital cellulitis.
+</details>
+
+---
+
+---
+
+### Q94 — Binocular vision components A and B (image)
+
+Identify components A and B from the binocular vision diagram:
+
+- A. A-Simultaneous perception and B-Stereopsis
+- B. A-Simultaneous perception and B-Fusion
+- C. A-Fusion and B-Simultaneous perception
+- D. A-Stereopsis and B-Fusion
+
+<details><summary>Answer</summary>
+
+**B. A-Simultaneous perception and B-Fusion** — Worth's grades of binocular vision: 1st = Simultaneous perception, 2nd = Fusion, 3rd = Stereopsis.
+</details>
+
+---
+
+---
+

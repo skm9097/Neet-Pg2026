@@ -665,3 +665,719 @@ What is the intubation dose of pancuronium?
 </details>
 
 ---
+
+## Year 2016
+
+### Q41 — Hypotension following spinal anesthesia can be *(2016)*
+
+Hypotension following spinal anesthesia can be best prevented by?
+
+- A. Preloading with colloids
+- B. Using small size needle
+- C. Preloading with crystalloids
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Preloading with colloids**
+
+</details>
+
+---
+
+---
+
+
+## Year 2017
+
+### Q42 — Murphys eye is seen in *(2017)*
+
+Murphy's eye is seen in
+
+- A. Macintosh laryngoscope
+- B. Endotracheal tube
+- C. LMA
+- D. Flexible laryngoscope
+
+<details><summary>Answer</summary>
+
+**B. Endotracheal tube**
+
+</details>
+
+---
+
+---
+
+### Q43 — Modified MallamPati grading is used in *(2017)*
+
+Modified MallamPati grading is used in assessment of
+
+- A. Difficult intubation
+- B. Airway obstruction
+- C. Death due to aspiration
+- D. Intubation
+
+<details><summary>Answer</summary>
+
+**A. Difficult intubation**
+
+</details>
+
+---
+
+---
+
+### Q44 — Which nerve is tested for adequacy *(2017)*
+
+Which nerve is tested for adequacy of anaesthesia
+
+- A. Median Nerve
+- B. Ulnar Nerve
+- C. Radial nerve
+- D. Mandibular nerve
+
+<details><summary>Answer</summary>
+
+**A. Median Nerve**
+
+</details>
+
+---
+
+---
+
+### Q45 — Most effective circuit in spontaneous anaesthesia *(2017)*
+
+Most effective circuit in spontaneous anaesthesia is
+
+- A. Mapleson A
+- B. Mapleson B
+- C. Mapleson C
+- D. Mapleson D
+
+<details><summary>Answer</summary>
+
+**A. Mapleson A**
+
+</details>
+
+---
+
+---
+
+### Q46 — Identify the following lesion *(2017)*
+
+Identify the following lesion.
+
+- A. Becker nevus
+- B. Hypopigmented macule
+- C. Spitz nevus.
+- D. Epidermal nevus
+
+<details><summary>Answer</summary>
+
+**A. Becker nevus**
+
+</details>
+
+---
+
+---
+
+### Q47 — Cutis marmorata occurs due to exposure *(2017)*
+
+Cutis marmorata occurs due to exposure to –
+
+- A. Cold temperature
+- B. Dust
+- C. Hot temperature
+- D. Humidity
+
+<details><summary>Answer</summary>
+
+**A. Cold temperature**
+
+</details>
+
+---
+
+---
+
+### Q48 — Imaging techniques used in Uterus anomalies *(2017)*
+
+Imaging techniques used in Uterus anomalies EXCEPT:
+
+- A. HSG
+- B. MRI guided HSG
+- C. CT guided HSG
+- D. USG
+
+<details><summary>Answer</summary>
+
+**C. CT guided HSG**
+
+</details>
+
+---
+
+---
+
+### Q49 — MRI of skull represents *(2017)*
+
+MRI of skull represents:
+
+- A. Vein of Galen
+- B. Dandy walker Syndrome
+- C. Pneumocephalus
+- D. Crouzon syndrome
+
+<details><summary>Answer</summary>
+
+**A. Vein of Galen**
+
+</details>
+
+---
+
+---
+
+### Q50 — CT of Thorax represents *(2017)*
+
+CT of Thorax represents:
+
+- A. Ascending Aortic dissection
+- B. Descending Aortic dissection
+- C. Aortic aneurysm
+- D. Cystic fibrosis
+
+<details><summary>Answer</summary>
+
+**B. Descending Aortic dissection**
+
+</details>
+
+---
+
+---
+
+### Q51 — Identify artery X in the given *(2017)*
+
+Identify artery ‘X’ in the given angiography anatomy image:
+
+- A. Superior mesenteric artery
+- B. Subclavian artery
+- C. Celiac artery
+- D. Brachiocephalic artery
+
+<details><summary>Answer</summary>
+
+**A. Superior mesenteric artery**
+
+</details>
+
+---
+
+---
+
+
+## Year 2018
+
+### Q52 — What is mechanism of action of *(2018)*
+
+What is mechanism of action of Curanium drugs as muscle relaxant
+
+- A. Persistently depolarizing at Neuromuscular junction
+- B. Act competitively on Ach receptors blocking post-synaptically
+- C. Repetitive stimulation of Ach receptors on muscle end plate
+- D. Inhibiting the calcium channel on presynaptic membrane
+
+<details><summary>Answer</summary>
+
+**B. Act competitively on Ach receptors blocking post-synaptically**
+
+</details>
+
+---
+
+---
+
+### Q53 — Trilene is degraded by *(2018)*
+
+Trilene is degraded by
+
+- A. Enzymatic Degradation
+- B. Non Enzymatic degradation
+- C. Chemical Degradation
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Enzymatic Degradation**
+
+</details>
+
+---
+
+<!-- Source: Medicoholic NEET-PG 2018 PYQ compilation -->
+
+---
+
+
+## Year 2019
+
+### Q54 — Curare mechanism
+
+Mechanism of curare-group muscle relaxants?
+
+- A. Persistent depolarisation
+- B. Competitive ACh blockade
+- C. Repetitive ACh receptor stimulation
+- D. Presynaptic Ca²⁺ channel inhibition
+
+<details><summary>Answer</summary>
+
+**B. Competitive ACh blockade** — Non-depolarising NMBs (curare, vecuronium, rocuronium) compete with ACh at nicotinic receptors.
+</details>
+
+---
+
+### Q55 — Paediatric induction — avoid
+
+Not used for induction in paediatric patients?
+
+- A. Halothane
+- B. Sevoflurane
+- C. Desflurane
+- D. Nitrous oxide
+
+<details><summary>Answer</summary>
+
+**C. Desflurane** — Pungent, airway-irritant; causes laryngospasm in children. Avoided for inhalational induction.
+</details>
+
+---
+
+---
+
+### Q56 — Anaesthetic gas with maximum respiratory irritatio *(2019)*
+
+Anaesthetic gas with maximum respiratory irritation
+
+- A. Halothane
+- B. Enflurane
+- C. Desflurane
+- D. Sevoflurane
+
+<details><summary>Answer</summary>
+
+**C. Desflurane**
+
+</details>
+
+---
+
+---
+
+### Q57 — IV administration of which anesthetic drug *(2019)*
+
+IV administration of which anesthetic drug is most painful among the following?
+
+- A. Methohexital
+- B. Ketamine
+- C. Propofol
+- D. Etomidate
+
+<details><summary>Answer</summary>
+
+**C. Propofol**
+
+</details>
+
+---
+
+---
+
+### Q58 — Which of the following is not *(2019)*
+
+Which of the following is not cardiodepressive?
+
+- A. Propofol
+- B. Thiopentone
+- C. Ketamine
+- D. Etomidate
+
+<details><summary>Answer</summary>
+
+**D. Etomidate**
+
+</details>
+
+---
+
+---
+
+### Q59 — Which of the following is the *(2019)*
+
+Which of the following is the most common method used to know depth of anaesthesia?
+
+- A. BIS
+- B. Oesophageal contractility
+- C. Depressed responses
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**A. BIS**
+
+</details>
+
+---
+
+<!-- Source: NEET-PG 2019 recall PDF (nishantbhushan.in) -->
+
+---
+
+
+## Year 2020
+
+### Q60 — Best prognostic cardiac test
+
+Most accurate prognostic test for perioperative cardiac risk?
+
+- A. Exercise ECG
+- B. Myocardial perfusion scintigraphy
+- C. Coronary angiography
+- D. Dobutamine stress echocardiography
+
+<details><summary>Answer</summary>
+
+**D. Dobutamine stress echo** — High sensitivity/specificity for ischaemia & wall motion abnormalities in patients unable to exercise.
+</details>
+
+---
+
+### Q61 — Neostigmine reversal
+
+Drug given postoperatively to recover from nicotinic antagonist muscle weakness?
+
+- A. Physostigmine
+- B. Carbachol
+- C. Succinylcholine
+- D. Neostigmine
+
+<details><summary>Answer</summary>
+
+**D. Neostigmine** — Reverses non-depolarising NMB. Co-administer atropine/glycopyrrolate to block muscarinic effects.
+</details>
+
+---
+
+---
+
+
+## Year 2021
+
+### Q62 — Confirmation of ET tube position
+
+Method to confirm endotracheal tube position?
+
+- A. CXR
+- B. Auscultation
+- C. End-tidal CO₂
+- D. Chest rise
+
+<details><summary>Answer</summary>
+
+**C. End-tidal CO₂** — Gold standard (capnography) for confirming tracheal placement.
+</details>
+
+---
+
+### Q63 — Malignant hyperthermia trigger
+
+Patient on halothane develops hyperthermia and muscle rigidity. Trigger drug?
+
+- A. d-Tubocurarine
+- B. Suxamethonium
+- C. Cisatracurium
+- D. Rocuronium
+
+<details><summary>Answer</summary>
+
+**B. Suxamethonium** — Triggers (with halothane) malignant hyperthermia in susceptible individuals (RYR1 mutation).
+</details>
+
+---
+
+---
+
+### Q64 — Muscle relaxant causing histamine release
+
+Muscle relaxant causing erythema, bronchospasm, and hypotension due to histamine release?
+
+- A. Vecuronium
+- B. Atracurium
+- C. Cisatracurium
+- D. Pancuronium
+
+<details><summary>Answer</summary>
+
+**B. Atracurium** — Undergoes Hofmann elimination but also releases histamine. Cisatracurium (stereoisomer) does not cause histamine release — preferred in asthma/reactive airway disease.
+
+</details>
+
+---
+
+### Q65 — Malignant hyperthermia — treatment
+
+Sevoflurane + succinylcholine causes muscle rigidity and hyperthermia — treatment?
+
+- A. Dantrolene
+- B. Paracetamol
+- C. Calcium chloride
+- D. Propranolol
+
+<details><summary>Answer</summary>
+
+**A. Dantrolene** — Ryanodine receptor antagonist; reduces Ca²⁺ release from sarcoplasmic reticulum. First-line for malignant hyperthermia. Loading dose 2.5 mg/kg IV.
+
+</details>
+
+---
+
+---
+
+
+## Year 2022
+
+### Q66 — Identify the mask in the image *(2022)*
+
+Identify the mask in the image used for patients with COVID-19 injection.
+
+- A. Venturi mask
+- B. Hudson mask
+- C. Nebuliser
+- D. Non-rebreathing mask
+
+<details><summary>Answer</summary>
+
+**D. Non-rebreathing mask**
+
+</details>
+
+---
+
+---
+
+
+## Year 2023
+
+### Q67 — Cardiac surgery antibiotic prophylaxis
+
+Drug of choice for preoperative antibiotic prophylaxis in cardiac surgery.
+
+- A. Penicillin G
+- B. Erythromycin
+- C. Azithromycin
+- D. Cefazolin
+
+<details><summary>Answer</summary>
+
+**D. Cefazolin** — 1st-gen cephalosporin; covers staphylococci. Given within 60 min before incision.
+</details>
+
+---
+
+---
+
+### Q68 — O3 Malignant melanoma O4 Basal cell *(2023)*
+
+O3: Malignant melanoma O4: Basal cell carcinoma Ans: 3 Which of the following is the drug of choice for preoperative antibiotic prophylaxis in a patient undergoing cardiac surgery?
+
+- A. Penicillin G
+- B. Erythromycin
+- C. Malignant melanoma
+- D. Basal cell carcinoma
+
+<details><summary>Answer</summary>
+
+**C. Malignant melanoma**
+
+</details>
+
+---
+
+---
+
+### Q69 — During resuscitation, when is the given *(2023)*
+
+During resuscitation, when is the given position indicated? La
+
+- A. Unconsciousness with pulse and breathing absent
+- B. Unconsciousness with pulse present and breathing absent
+- C. Unconsciousness with pulse and breathing present
+- D. Unconsciousness with pulse absent and breathing present
+
+<details><summary>Answer</summary>
+
+**C. Unconsciousness with pulse and breathing present**
+
+</details>
+
+---
+
+---
+
+
+## Year 2024
+
+### Q70 — EMLA cream
+
+Which statement is accurate regarding EMLA?
+
+- A. EMLA contains ropivacaine and lignocaine
+- B. EMLA can lead to methemoglobinemia
+- C. EMLA contains 5% lignocaine
+- D. EMLA acts within 15 minutes
+
+<details><summary>Answer</summary>
+
+**B. EMLA can lead to methemoglobinemia** — Prilocaine (a component) is metabolized to o-toluidine, which oxidizes Hb to metHb. EMLA = 2.5% lignocaine + 2.5% prilocaine; onset ~60 min.
+</details>
+
+---
+
+### Q71 — Pulseless rhythm
+
+A patient presents with no pulse and a specific ECG rhythm (shockable). Next step?
+
+- A. Defibrillate, check pulse, then CPR
+- B. Cardioversion
+- C. Defibrillate, perform CPR, then check pulse
+- D. Administer epinephrine
+
+<details><summary>Answer</summary>
+
+**C. Defibrillate, perform CPR, then check pulse** — ACLS: immediately resume 2 min CPR after a shock before rhythm/pulse check.
+</details>
+
+---
+
+---
+
+### Q72 — What is the typical pressure setting *(2024)*
+
+What is the typical pressure setting for the valve in a Mapleson circuit?
+
+- A. 10–20 mmHg
+- B. 30–40 mmHg
+- C. 10–20 cm H₂O
+- D. 30–40 cm H₂O
+
+<details><summary>Answer</summary>
+
+**D. 30–40 cm H₂O**
+
+</details>
+
+---
+
+---
+
+### Q73 — Which drug is used to reverse *(2024)*
+
+Which drug is used to reverse the muscle relaxant effects of vecuronium when renal function is normal?
+
+- A. Sugammadex
+- B. Neostigmine
+- C. Atropine
+- D. Physostigmine
+
+<details><summary>Answer</summary>
+
+**A. Sugammadex**
+
+</details>
+
+---
+
+---
+
+### Q74 — What is the primary purpose of *(2024)*
+
+What is the primary purpose of PEEP (Positive End-Expiratory Pressure) in mechanical ventilation?
+
+- A. To increase respiratory rate
+- B. To reduce carbon dioxide levels
+- C. To increase the VR (venous return)
+- D. To open alveoli and prevent atelectasis
+
+<details><summary>Answer</summary>
+
+**D. To open alveoli and prevent atelectasis**
+
+</details>
+
+---
+
+---
+
+### Q75 — A 25-year-old patient undergoing orthopedic surger *(2024)*
+
+A 25-year-old patient undergoing orthopedic surgery under general anaesthesia suddenly developed a rise in EtCO₂, temperature, and also muscle rigidity. Which of the following drugs leads to such complications?
+
+- A. Propofol
+- B. Nitrous oxide
+- C. Etomidate
+- D. Halothane
+
+<details><summary>Answer</summary>
+
+**D. Halothane**
+
+</details>
+
+---
+
+---
+
+
+## Year 2025
+
+### Q76 — Malignant hyperthermia
+
+A patient on sevoflurane and succinylcholine develops post-operative muscle rigidity, hyperthermia, and rising end-tidal CO₂. Drug of choice?
+
+- A. Dantrolene
+- B. Diazepam
+- C. Propranolol
+- D. Paracetamol
+
+<details><summary>Answer</summary>
+
+**A. Dantrolene** — Ryanodine receptor blocker; specific treatment for malignant hyperthermia triggered by volatile anaesthetics and succinylcholine.
+</details>
+
+---
+
+---
+
+### Q77 — Histamine-releasing muscle relaxant
+
+A patient develops erythema, facial flushing, and hypotension after muscle relaxant administration. Which drug is responsible?
+
+- A. Cisatracurium
+- B. Atracurium
+- C. Rocuronium
+- D. Vecuronium
+
+<details><summary>Answer</summary>
+
+**B. Atracurium** — Causes histamine release (especially rapid IV bolus). Cisatracurium (an isomer) does not cause histamine release.
+</details>
+
+---
+
+---
+
