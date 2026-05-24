@@ -2618,24 +2618,6 @@ A 30-week primigravida complaints of reduced vision at night. She has been avoid
 </details>
 
 ---
-
-### Q154 — A 22-year-old female comes to the *(2023)*
-
-A 22-year-old female comes to the STI clinic with minimal vaginal discharge. On speculum examination, erosions are seen on the cervix. Which of the following kit should be given to this patient?
-
-- A. Green
-- B. Red
-- C. Grey
-- D. Yellow
-
-<details><summary>Answer</summary>
-
-**C. Grey**
-
-</details>
-
----
-
 ### Q155 — In a 10-year-old school child, which *(2023)*
 
 In a 10-year-old school child, which of the following vaccines is given as a part of the school immunization program?

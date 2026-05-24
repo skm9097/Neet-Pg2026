@@ -1697,24 +1697,6 @@ A 56-year-old man presents with dragging pain in the abdomen. On examination, th
 
 
 ## Microbiology
-
-### Q100 — Microfilariae with sheathed tail and two *(2022)*
-
-Microfilariae with sheathed tail and two nuclei at the tail is suggestive of?
-
-- A. Wuchereria bancrofti
-- B. Brugia malayi
-- C. Loa loa
-- D. Onchocerca volvulus
-
-<details><summary>Answer</summary>
-
-**B. Brugia malayi**
-
-</details>
-
----
-
 ### Q101 — A photographer who recently returned from *(2022)*
 
 A photographer who recently returned from Africa presents to the emergency department with abdominal pain, hepatomegaly, and hemorrhagic manifestations. He died despite treatment, and an autopsy revealed intranuclear Torres bodies in the liver. Which of the following vaccines with which strain could have prevented it?
@@ -2250,24 +2232,6 @@ During the court proceedings, the defense lawyer asks a leading question, which 
 
 
 ## Community Medicine
-
-### Q132 — The average life expectancy for a *(2022)*
-
-The average life expectancy for a woman in Japan is 87 years. Due to recent advances in testing for cervical cancer, there is an increase in life expectancy by 15 years. The healthcare utility value is 0.8. Which of the following can be calculated from the parameters given?
-
-- A. HALE
-- B. DALY
-- C. DFLE
-- D. QALY
-
-<details><summary>Answer</summary>
-
-**D. QALY**
-
-</details>
-
----
-
 ### Q133 — You are working in a primary *(2022)*
 
 You are working in a primary health center (PHC) situated in a high seismic zone. Which of the following will you do as part of preparedness for an emergency? 1. Disaster preparedness by making sure all financial and other resources are available 2. Increase public awareness through campaigns and loudspeakers 3. Conduct a simulation for the disaster and assess the response 4. Follow instructions given over the phone or radio by higher officials

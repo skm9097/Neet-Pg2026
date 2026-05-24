@@ -649,20 +649,3 @@ Bindi leukoderma is caused by which chemical?
 </details>
 
 ---
-
-### Q40 — Young female with vaginal itching, green *(2019)*
-
-Young female with vaginal itching, green frothy discharge, strawberry vagina. Drug?
-
-- A. Doxycycline
-- B. Oral fluconazole
-- C. Metronidazole
-- D. Azithromycin
-
-<details><summary>Answer</summary>
-
-**C. Metronidazole**
-
-</details>
-
----

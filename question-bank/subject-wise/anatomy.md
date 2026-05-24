@@ -1008,24 +1008,6 @@ Ataxia and incoordination = thrombosis of which artery?
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf 2020 | OPTIONS_GENERATED: false -->
-
-### Q61 — Thyroid goiter — upward extension prevented by
-
-Which structure prevents upward extension of thyroid swelling through its attachment to thyroid cartilage?
-
-- A. Pretracheal fascia
-- B. Sternothyroid muscle
-- C. Thyrohyoid membrane
-- D. Ligament of Berry
-
-<details><summary>Answer</summary>
-
-**B. Sternothyroid muscle** — Sternothyroid attaches to oblique line of thyroid cartilage → tethers gland + prevents upward retrosternal extension. Pretracheal fascia = moves thyroid on swallowing (attached to larynx). Berry ligament = prevents downward descent into mediastinum.
-
-</details>
-
-<!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf 2020 | OPTIONS_GENERATED: false -->
-
 ### Q62 — Claw hand — intrinsic muscles
 
 Extension of MCP joint + flexion of IP joints — muscle group affected?

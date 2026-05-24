@@ -1608,24 +1608,6 @@ Insulin like growth factor is secreted by
 </details>
 
 ---
-
-### Q94 — What is Prosopagnosia *(2018)*
-
-What is Prosopagnosia
-
-- A. Impairment of consciousness
-- B. Being unaware of one’s problems
-- C. Difficulty in identifying known faces
-- D. Failure to identify objects
-
-<details><summary>Answer</summary>
-
-**C. Difficulty in identifying known faces**
-
-</details>
-
----
-
 ### Q95 — Which of the following is endogenous *(2018)*
 
 Which of the following is endogenous pyrogen
@@ -5112,58 +5094,6 @@ Trilene is degraded by
 
 
 ## Anatomy
-
-### Q297 — About Webers syndrome which is incorrect *(2018)*
-
-About Weber’s syndrome which is incorrect:
-
-- A. Contralateral hemiplegia
-- B. Ipsilateral Oculomotor nerve palsy
-- C. Contralateral Parkinsonism
-- D. Anterior cerebral peduncle
-
-<details><summary>Answer</summary>
-
-**D. Anterior cerebral peduncle**
-
-</details>
-
----
-
-### Q298 — About Sibsons fascia which is incorrect *(2018)*
-
-About Sibson’s fascia which is incorrect:
-
-- A. Attached to the inner border of 2nd rib
-- B. Covers apical part of lung
-- C. Part of scalenus anterior muscle
-- D. Vessel pass above the fascia
-
-<details><summary>Answer</summary>
-
-**A. Attached to the inner border of 2nd rib**
-
-</details>
-
----
-
-### Q299 — Alpha waves are seen during *(2018)*
-
-Alpha waves are seen during?
-
-- A. Sleep
-- B. REM movements
-- C. Relaxed state
-- D. Active state
-
-<details><summary>Answer</summary>
-
-**C. Relaxed state**
-
-</details>
-
----
-
 ### Q300 — Glucose is absorbed in intestine by *(2018)*
 
 Glucose is absorbed in intestine by?
@@ -5200,126 +5130,6 @@ Cytotoxic and expired drug disposal is done by which method?
 </details>
 
 ---
-
-### Q302 — Astigmatism in emmetropic eye of elderly *(2018)*
-
-Astigmatism in emmetropic eye of elderly person contribute to:
-
-- A. +1d
-- B. +2D
-- C. +3d
-- D. +4d
-
-<details><summary>Answer</summary>
-
-**C. +3d**
-
-</details>
-
----
-
-### Q303 — Automatic Implantable Cardioverter Defibrillator,  *(2018)*
-
-Automatic Implantable Cardioverter Defibrillator, (AICD) implantation is done for which of following conditions:
-
-- A. Brugada syndrome
-- B. Ventricular fibrillation
-- C. Acute coronary syndrome with low EF
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above**
-
-</details>
-
----
-
-### Q304 — Approximate time interval between HIV infection *(2018)*
-
-Approximate time interval between HIV infection & manifestation of AIDS is?
-
-- A. 7.5 yr
-- B. 10 yr
-- C. 12 yr
-- D. 11 yr
-
-<details><summary>Answer</summary>
-
-**B. 10 yr**
-
-</details>
-
----
-
-### Q305 — Alternative drug for cardiac arrest in *(2018)*
-
-Alternative drug for cardiac arrest in place of epinephrine is?
-
-- A. Amiodarone infusion
-- B. Atropine
-- C. High dose vasopressin
-- D. Adenosine
-
-<details><summary>Answer</summary>
-
-**C. High dose vasopressin**
-
-</details>
-
----
-
-### Q306 — An abdominal mass is best demonstrated *(2018)*
-
-An abdominal mass is best demonstrated in congenital hypertrophic pyloric stenosis by:
-
-- A. In palpation over the epigastrium
-- B. In left hypochondriac
-- C. Right iliac fossa
-- D. During feeding
-
-<details><summary>Answer</summary>
-
-**D. During feeding**
-
-</details>
-
----
-
-### Q307 — 8th and 9th rib costal cartilage *(2018)*
-
-8th and 9th rib costal cartilage forms which type of joint?
-
-- A. Costochondral joint
-- B. Interchondral joint
-- C. Synovial joint
-- D. Costovertebral joint
-
-<details><summary>Answer</summary>
-
-**C. Synovial joint**
-
-</details>
-
----
-
-### Q308 — All are habit disorder except *(2018)*
-
-All are habit disorder except
-
-- A. Nail biting
-- B. Thumb sucking
-- C. Temper tantrum
-- D. Tics
-
-<details><summary>Answer</summary>
-
-**C. Temper tantrum**
-
-</details>
-
----
-
 ### Q309 — Identify the type of muscle shown *(2018)*
 
 Identify the type of muscle shown in the image below.
@@ -5523,79 +5333,7 @@ MRI of skull represents:
 </details>
 
 ---
-
-### Q321 — A red soft to firm swelling *(2018)*
-
-A red soft to firm swelling on sternum that on biopsy shows following histology. What is the diagnosis?
-
-- A. Hemangioma
-- B. Osteochondroma
-- C. Osteoid osteoma
-- D. Paget disease
-
-<details><summary>Answer</summary>
-
-**A. Hemangioma**
-
-</details>
-
----
-
-
 ## Biochemistry
-
-### Q322 — About DNA polymerase I which one *(2018)*
-
-About DNA polymerase I which one is correct?
-
-- A. Not required in bacteria
-- B. Repair any damage with DNA
-- C. Involved in okazaki fragment
-- D. Participate in DNA replication
-
-<details><summary>Answer</summary>
-
-**A. Not required in bacteria**
-
-</details>
-
----
-
-### Q323 — 1 yr child weighing 6 kg *(2018)*
-
-1 yr child weighing 6 kg is suffering from Acute Gastroenteritis along with signs of sunken eyes & skin pinch going back to normal very rapidly. What will be your
-
-- A. RL infusion 120 ml in the first hour followed by 360 ml in the
-- B. RL INFUSION 180 ml in the first hour followed by 420 ml in the
-- C. RL INFUSION 180 ML IN the first hour followed by 480 ml in the
-- D. RL INFUSION 240 ml in the first hour followed by 360 ml in the
-
-<details><summary>Answer</summary>
-
-**B. RL INFUSION 180 ml in the first hour followed by 420 ml in the**
-
-</details>
-
----
-
-### Q324 — Aldosterone synthesis is stimulated by which *(2018)*
-
-Aldosterone synthesis is stimulated by which of the following?
-
-- A. ACTH
-- B. Hyperkalemia
-- C. Hypernatremia
-- D. Exogenous steroids
-
-<details><summary>Answer</summary>
-
-**B. Hyperkalemia**
-
-</details>
-
----
-
-
 ## Pathology
 
 ### Q325 — CT of Thorax represents *(2018)*
@@ -5617,58 +5355,6 @@ CT of Thorax represents:
 
 
 ## Microbiology
-
-### Q326 — Australian antigen for hepatitis b is *(2018)*
-
-Australian antigen for hepatitis b is?
-
-- A. Hb S ag
-- B. Hb E ag
-- C. Hb D ag
-- D. HbV Dna
-
-<details><summary>Answer</summary>
-
-**A. Hb S ag**
-
-</details>
-
----
-
-### Q327 — Acute Hemorrhagic Conjunctivitis is caused by *(2018)*
-
-Acute Hemorrhagic Conjunctivitis is caused by which of enterovirus type ?
-
-- A. 69
-- B. 68
-- C. 70
-- D. 71
-
-<details><summary>Answer</summary>
-
-**C. 70**
-
-</details>
-
----
-
-### Q328 — An anaerobe causing multiple abscess with *(2018)*
-
-An anaerobe causing multiple abscess with discharging sinuses, demonstrating sulphur granules in pus is?
-
-- A. Actinomycetes
-- B. Nocardia
-- C. Salmonella
-- D. Tularemia
-
-<details><summary>Answer</summary>
-
-**A. Actinomycetes**
-
-</details>
-
----
-
 ### Q329 — Identify the condition represented in below *(2018)*
 
 Identify the condition represented in below image
@@ -5685,45 +5371,7 @@ Identify the condition represented in below image
 </details>
 
 ---
-
-### Q330 — A boy presented with multiple non *(2018)*
-
-A boy presented with multiple non suppurative osteomyelitis with sickle cell anaemia. What will be the causative organism?
-
-- A. Salmonella
-- B. S. aureus
-- C. H. influenzae
-- D. Enterobacter species
-
-<details><summary>Answer</summary>
-
-**A. Salmonella**
-
-</details>
-
----
-
-
 ## Forensic Medicine
-
-### Q331 — Anaplasia is *(2018)*
-
-Anaplasia is
-
-- A. Changing one type of epithelium to another
-- B. Nuclear chromatin
-- C. Lack of differentiation
-- D. Morphological changes
-
-<details><summary>Answer</summary>
-
-**C. Lack of differentiation**
-
-</details>
-
----
-
-
 ## Community Medicine
 
 ### Q332 — Incidence of a disease is 4 *(2018)*
@@ -5819,58 +5467,6 @@ Hard palate contains:
 </details>
 
 ---
-
-### Q337 — Acute tonsillitis effects which nerve *(2018)*
-
-Acute tonsillitis effects which nerve:
-
-- A. Glossopharyngeal Nerve
-- B. Facial Nerve
-- C. Trigeminal nerve
-- D. Vagus Nerve
-
-<details><summary>Answer</summary>
-
-**A. Glossopharyngeal Nerve**
-
-</details>
-
----
-
-### Q338 — ABPI increases artificially in *(2018)*
-
-ABPI increases artificially in
-
-- A. Arteriosclerosis calcified arteries
-- B. Ischemic ulcers
-- C. Intermittent claudication
-- D. DVT
-
-<details><summary>Answer</summary>
-
-**A. Arteriosclerosis calcified arteries**
-
-</details>
-
----
-
-### Q339 — A patient with a history of *(2018)*
-
-A patient with a history of RTA before 2 months presents with complaints of dreams of accidents. He is able to visualize the same scene whenever he
-
-- A. Adjustment disorder
-- B. PTSD
-- C. Anxiety disorder
-- D. OCD
-
-<details><summary>Answer</summary>
-
-**B. PTSD**
-
-</details>
-
----
-
 ### Q340 — Which of the following statement is *(2018)*
 
 Which of the following statement is true about suture material in the image:
@@ -5887,62 +5483,7 @@ Which of the following statement is true about suture material in the image:
 </details>
 
 ---
-
-### Q341 — A woman shows symptoms of massive *(2018)*
-
-A woman shows symptoms of massive pulmonary thromboembolism.The gross appearance of liver autopsy is shown. Which of the following statement best
-
-- A. Metastasis from PE
-- B. Angiosarcoma
-- C. Colonic adenocarcinoma with metastasis
-- D. Locally invaded hepatocellular carcinoma
-
-<details><summary>Answer</summary>
-
-**C. Colonic adenocarcinoma with metastasis**
-
-</details>
-
----
-
-### Q342 — A diabetic patient 2 days after *(2018)*
-
-A diabetic patient 2 days after post cataract surgery develops develops hypopyon. What will be the management?
-
-- A. Intravitreal antibiotics
-- B. Eye drops
-- C. Surgery
-- D. No treatment required
-
-<details><summary>Answer</summary>
-
-**A. Intravitreal antibiotics**
-
-</details>
-
----
-
-
 ## Ophthalmology
-
-### Q343 — 100 day Glaucoma seen in which *(2018)*
-
-100 day Glaucoma seen in which of the following condition:
-
-- A. Central retinal vein occlusion (CRVO)
-- B. Neovascular glaucoma
-- C. Central retinal artery occlusion (CRAO)
-- D. Steroid induced Glaucoma
-
-<details><summary>Answer</summary>
-
-**A. Central retinal vein occlusion (CRVO)**
-
-</details>
-
----
-
-
 ## Dermatology
 
 ### Q344 — A child has a rash as *(2018)*

@@ -5891,25 +5891,6 @@ Type of sensation lost on same side of Brown-Séquard syndrome:
 </details>
 
 ---
-
-### Q347 — Nerve injured in Freys syndrome is *(2019)*
-
-Nerve injured in Frey’s syndrome is:
-
-- A. Auriculotemporal Nerve
-- B. Great auricular nerve
-- C. Lingual Nerve
-- D. Inferior alveolar nerve
-
-<details><summary>Answer</summary>
-
-**A. Auriculotemporal Nerve**
-
-</details>
-
----
-
-
 ## Physiology
 
 ### Q348 — Hormone predominately secreted after 14 day on *(2019)*
@@ -5945,24 +5926,6 @@ Polyuria is defined as urine output more than:
 </details>
 
 ---
-
-### Q350 — When the values of Fev113 & FCV39 *(2019)*
-
-When the values of Fev1=1.3 & FCV=3.9. Which of the following does this signify?
-
-- A. Normal lung function
-- B. Obstructive lung disease
-- C. Restrictive lung disease
-- D. Both
-
-<details><summary>Answer</summary>
-
-**B. Obstructive lung disease**
-
-</details>
-
----
-
 ### Q351 — Day 20 of menstrual cycle falls under *(2019)*
 
 Day 20 of menstrual cycle falls under which phase?
@@ -5982,41 +5945,6 @@ Day 20 of menstrual cycle falls under which phase?
 
 
 ## Biochemistry
-
-### Q352 — C-peptide seen in *(2019)*
-
-C-peptide seen in?
-
-- A. In Pre-proinsulin
-- B. In Proinsulin
-- C. As a combined entity with insulin after secretion
-- D. A gastrointestinal proactive molecul
-
-<details><summary>Answer</summary>
-
-**B. In Proinsulin**
-
-</details>
-
----
-
-### Q353 — Urea, creatinine, nitric oxide formed by which *(2019)*
-
-Urea, creatinine, nitric oxide formed by which amino acid
-
-- A. Histidine
-- B. Glycine
-- C. Cysteine
-- D. Arginine
-
-<details><summary>Answer</summary>
-
-**D. Arginine**
-
-</details>
-
----
-
 ### Q354 — A 25 year old alcoholic presented with *(2019)*
 
 A 25 year old alcoholic presented with edema,hypertension, ocular disturbance,and changes in mental state was observed, diagnosis of high output cardiac failure was made with Wet Beri Beri, this is due to deficiency of?
@@ -6033,58 +5961,6 @@ A 25 year old alcoholic presented with edema,hypertension, ocular disturbance,an
 </details>
 
 ---
-
-### Q355 — Glutamine is Increase in CSF, blood and *(2019)*
-
-Glutamine is Increase in CSF, blood and urine, this is due to deficiency of
-
-- A. CPS-I
-- B. Arginase
-- C. OTC
-- D. Argininosuccinate synthetase
-
-<details><summary>Answer</summary>
-
-**A. CPS-I**
-
-</details>
-
----
-
-### Q356 — Type-I hyperlipoproteinemia is characterized by *(2019)*
-
-Type-I hyperlipoproteinemia is characterized by
-
-- A. Elevated LDL
-- B. Elevated HDL
-- C. Elevated chylomicrons
-- D. Elevated lipoprotein lipase
-
-<details><summary>Answer</summary>
-
-**C. Elevated chylomicrons**
-
-</details>
-
----
-
-### Q357 — In Krebs cycle and Urea cycle the *(2019)*
-
-In Kreb’s cycle and Urea cycle the linking amino acid is
-
-- A. Fumarate
-- B. Alanine
-- C. Arginine
-- D. Aspartate
-
-<details><summary>Answer</summary>
-
-**D. Aspartate**
-
-</details>
-
----
-
 ### Q358 — Type of necrosis seen in blood vessels *(2019)*
 
 Type of necrosis seen in blood vessels due to immune reactionsa) Coagulation b) Liquefaction c) Fibrinoid d) None
@@ -6192,152 +6068,8 @@ Infarcts involving which portion of the myocardium cause aneurysm as a post-MI c
 
 
 ## Microbiology
-
-### Q364 — Imipenem, a newer antibiotic with a broad *(2019)*
-
-Imipenem, a newer antibiotic with a broad antibacterial spectrum, is co administered with cilastatin. Which of the following is the best reason for the same?
-
-- A. Combination of antibiotics is synergistic against Pseudomonas
-specie
-- B. Cilastatin aids gastrointestinal absorption of active moiety,
-imipenem
-- C. Cilastatin inhibits beta=lactamase enzyme destroying imipenem
-- D. Cilastatin inhibits an enzyme in kidney destroying imipenem
-
-<details><summary>Answer</summary>
-
-**D. Cilastatin inhibits an enzyme in kidney destroying imipenem**
-
-</details>
-
----
-
-
 ## Pharmacology
-
-### Q365 — Drug acting on K channels include which *(2019)*
-
-Drug acting on K+ channels include which of the following?
-
-- A. Spironolacton
-- B. Amiloride.
-- C. Nicorandil
-- D. Methyldopa
-
-<details><summary>Answer</summary>
-
-**C. Nicorandil**
-
-</details>
-
----
-
-### Q366 — True about colchicines is/are *(2019)*
-
-True about colchicines is/are?
-
-- A. Acts by neutrophil recruitment
-- B. Causes metaphase arrest
-- C. Useful in urate-lowering therapy
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above**
-
-</details>
-
----
-
-### Q367 — DOC for digitalis is induced centro-chilar tachyca *(2019)*
-
-DOC for digitalis is induced centro-chilar tachycardia?
-
-- A. Lidocaine
-- B. Reducing dosage of digoxin itself, reverses the condition
-- C. Verapamil
-- D. Beta blockers
-
-<details><summary>Answer</summary>
-
-**A. Lidocaine**
-
-</details>
-
----
-
-### Q368 — DOC for isospora *(2019)*
-
-D.O.C for isospora
-
-- A. Penicillin G
-- B. Benzathine penicillin
-- C. Co-trimoxazole
-- D. Albendazole
-
-<details><summary>Answer</summary>
-
-**C. Co-trimoxazole**
-
-</details>
-
----
-
-
 ## Forensic Medicine
-
-### Q369 — Sexual perversions(Exhibitionism) is under section *(2019)*
-
-Sexual perversions(Exhibitionism) is under section
-
-- A. Section 290
-- B. Section 294
-- C. Section 230
-- D. Section 291
-
-<details><summary>Answer</summary>
-
-**B. Section 294**
-
-</details>
-
----
-
-### Q370 — In Alleged history of gun shot injurythere *(2019)*
-
-In Alleged history of gun shot injury.there is burning, blackening, tattooing around the wound Dirt collar, the injury is
-
-- A. Close shot entry wound
-- B. Close shot exit wound
-- C. Distant shot entry wound
-- D. distant shot exit wound
-
-<details><summary>Answer</summary>
-
-**A. Close shot entry wound**
-
-</details>
-
----
-
-### Q371 — Test based on the principle of suspects *(2019)*
-
-Test based on the principle of suspect’s reaction, if he witnesses an event then he behaves in a certain way is?
-
-- A. Narcoanalysis
-- B. Brain mapping
-- C. Truth serum testing
-- D. Polygraph
-
-<details><summary>Answer</summary>
-
-**D. Polygraph**
-
-</details>
-
----
-
-
 ## Community Medicine
 
 ### Q372 — Diagnostic power of a test to correctly *(2019)*
@@ -6427,41 +6159,6 @@ Dose of diphtheria antitoxin is:
 
 
 ## Medicine
-
-### Q377 — In forceful expiration, which of the following *(2019)*
-
-In forceful expiration, which of the following neurons gets fired?
-
-- A. VRG
-- B. DRG
-- C. Pneumotaxic centre
-- D. Chemoreceptors
-
-<details><summary>Answer</summary>
-
-**A. VRG**
-
-</details>
-
----
-
-### Q378 — A patient of RA is taking methotrexate, *(2019)*
-
-A patient of RA is taking methotrexate, steroids and NSAIDs since 4 months but activity of disease progression is same. What should be the next probable step?
-
-- A. Start monotherapy with anti TNF alpha drugs
-- B. Continue methotrexate and steroids
-- C. Stop oral methotrexate and start parenteral methotrexate
-- D. Add sulfasalazine
-
-<details><summary>Answer</summary>
-
-**D. Add sulfasalazine**
-
-</details>
-
----
-
 ### Q379 — A 36 yrs old male patient c/,o *(2019)*
 
 A 36 yrs old male patient c/,o cough cold fever/rusty sputum / sputum neg for tb ,h/o of travel in china & eaten crab, Name the infection
@@ -6495,41 +6192,6 @@ Which wall of heart enlargement can be seen on barium swallow in mitral stenosis
 </details>
 
 ---
-
-### Q381 — True about Barretts esophagus are all of *(2019)*
-
-True about Barrett’s esophagus are all of the following except:
-
-- A. Causes adenocarcinoma
-- B. Patient is usually asymptomatic
-- C. Histology of the lesion shows mucus secreting goblet cells
-- D. Chronic gastroesophageal reflux is a predisposing factor
-
-<details><summary>Answer</summary>
-
-**A. Causes adenocarcinoma**
-
-</details>
-
----
-
-### Q382 — Bells palsy is associated with the lesion *(2019)*
-
-Bell’s palsy is associated with the lesion in which of the nerve?
-
-- A. 11th cranial nerve
-- B. 7th cranial nerve
-- C. 9th cranial nerve
-- D. 3rd cranial nerve
-
-<details><summary>Answer</summary>
-
-**B. 7th cranial nerve**
-
-</details>
-
----
-
 ### Q383 — Which of the following statement is correct *(2019)*
 
 Which of the following statement is correct about acute fatty liver of pregnancy?
@@ -6850,20 +6512,3 @@ Dohlman procedure is for:
 
 
 ## Psychiatry
-
-### Q401 — Intense depression & misery without any cause *(2019)*
-
-Intense depression & misery without any cause is?
-
-- A. Melancholia
-- B. Major depressive disorder
-- C. Mania
-- D. Schizophrenia
-
-<details><summary>Answer</summary>
-
-**A. Melancholia**
-
-</details>
-
----
