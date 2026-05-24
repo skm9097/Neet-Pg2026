@@ -1697,7 +1697,7 @@ A 56-year-old man presents with dragging pain in the abdomen. On examination, th
 
 
 ## Microbiology
-### Q101 — A photographer who recently returned from *(2022)*
+### Q100 — A photographer who recently returned from *(2022)*
 
 A photographer who recently returned from Africa presents to the emergency department with abdominal pain, hepatomegaly, and hemorrhagic manifestations. He died despite treatment, and an autopsy revealed intranuclear Torres bodies in the liver. Which of the following vaccines with which strain could have prevented it?
 
@@ -1714,7 +1714,7 @@ A photographer who recently returned from Africa presents to the emergency depar
 
 ---
 
-### Q102 — A militant presents with rashes all *(2022)*
+### Q101 — A militant presents with rashes all *(2022)*
 
 A militant presents with rashes all over his body sparing the palms and soles. On examination, he was febrile and lice were noted. Which of the following is responsible for his condition?
 
@@ -1731,7 +1731,7 @@ A militant presents with rashes all over his body sparing the palms and soles. O
 
 ---
 
-### Q103 — A patient presents with itching in *(2022)*
+### Q102 — A patient presents with itching in *(2022)*
 
 A patient presents with itching in the axilla. On microscopic examination of the skin scrapings, a red pigment-producing fungus with pencil – shaped macroconidia is seen. Which of the following is the most likely organism?
 
@@ -1748,7 +1748,7 @@ A patient presents with itching in the axilla. On microscopic examination of the
 
 ---
 
-### Q104 — A female patient presents with complaints *(2022)*
+### Q103 — A female patient presents with complaints *(2022)*
 
 A female patient presents with complaints of thick white vaginal secretions. Which of the following can be used to identify the likely species of the causative agent?
 
@@ -1765,7 +1765,7 @@ A female patient presents with complaints of thick white vaginal secretions. Whi
 
 ---
 
-### Q105 — A 12-year-old boy presents with right *(2022)*
+### Q104 — A 12-year-old boy presents with right *(2022)*
 
 A 12-year-old boy presents with right upper quadrant pain, calf pain, conjunctival suffusion, icterus, and fever. Examination shows tender hepatomegaly. What is the most likely diagnosis?
 
@@ -1782,7 +1782,7 @@ A 12-year-old boy presents with right upper quadrant pain, calf pain, conjunctiv
 
 ---
 
-### Q106 — A newly joined teacher develops rice *(2022)*
+### Q105 — A newly joined teacher develops rice *(2022)*
 
 A newly joined teacher develops rice water stools. The causative agent acts on which of the following receptors?
 
@@ -1799,7 +1799,7 @@ A newly joined teacher develops rice water stools. The causative agent acts on w
 
 ---
 
-### Q107 — Which of the following is considered *(2022)*
+### Q106 — Which of the following is considered *(2022)*
 
 Which of the following is considered to be the best for the detection of Clostridium difficile?
 
@@ -1816,7 +1816,7 @@ Which of the following is considered to be the best for the detection of Clostri
 
 ---
 
-### Q108 — A woman with recurrent diarrhea is *(2022)*
+### Q107 — A woman with recurrent diarrhea is *(2022)*
 
 A woman with recurrent diarrhea is prescribed a broad-spectrum antibiotic. Which of the following is not true regarding Clostridium difficile infection?
 
@@ -1836,7 +1836,7 @@ A woman with recurrent diarrhea is prescribed a broad-spectrum antibiotic. Which
 
 ## Pharmacology
 
-### Q109 — A male patient with chronic obstructive *(2022)*
+### Q108 — A male patient with chronic obstructive *(2022)*
 
 A male patient with chronic obstructive pulmonary disease (COPD) was prescribed theophylline. He noticed that his urine output had increased the following day. This action of the drug is mediated through which of the following receptors?
 
@@ -1853,7 +1853,7 @@ A male patient with chronic obstructive pulmonary disease (COPD) was prescribed 
 
 ---
 
-### Q110 — Which of the following drugs is *(2022)*
+### Q109 — Which of the following drugs is *(2022)*
 
 Which of the following drugs is not likely to cause Pulmonary fibrosis?
 
@@ -1870,7 +1870,7 @@ Which of the following drugs is not likely to cause Pulmonary fibrosis?
 
 ---
 
-### Q111 — A patient with deep vein thrombosis *(2022)*
+### Q110 — A patient with deep vein thrombosis *(2022)*
 
 A patient with deep vein thrombosis was started on a new drug. After 2 days, he presented with the given finding. Which of the following drugs is implicated in causing the above condition?
 
@@ -1887,7 +1887,7 @@ A patient with deep vein thrombosis was started on a new drug. After 2 days, he 
 
 ---
 
-### Q112 — A patient undergoing chemotherapy was given *(2022)*
+### Q111 — A patient undergoing chemotherapy was given *(2022)*
 
 A patient undergoing chemotherapy was given an antiemetic, after which he developed symptoms like acute dystonia, bradykinesia, and tremors. Which of the following drugs would have caused these symptoms?
 
@@ -1904,7 +1904,7 @@ A patient undergoing chemotherapy was given an antiemetic, after which he develo
 
 ---
 
-### Q113 — A young patient started to take *(2022)*
+### Q112 — A young patient started to take *(2022)*
 
 A young patient started to take a weight loss medication that acts by inhibiting fat absorption from food. After a few weeks, she developed easy bruising and increased menstrual bleeding. Deficiency of which of the following vitamins is responsible for her condition?
 
@@ -1921,7 +1921,7 @@ A young patient started to take a weight loss medication that acts by inhibiting
 
 ---
 
-### Q114 — A woman presenting with symptoms of *(2022)*
+### Q113 — A woman presenting with symptoms of *(2022)*
 
 A woman presenting with symptoms of urinary tract infection was prescribed a drug that causes tendon rupture and arthropathy. What is the mechanism of action of the drug?
 
@@ -1938,7 +1938,7 @@ A woman presenting with symptoms of urinary tract infection was prescribed a dru
 
 ---
 
-### Q115 — A patient was brought to the *(2022)*
+### Q114 — A patient was brought to the *(2022)*
 
 A patient was brought to the emergency with a history of consumption of 8 tablets of digoxin. On examination he was unstable and his heart rate was 56 bpm. ECG showed a 3rd-degree heart block. What is the next step in the management of this patient?
 
@@ -1955,7 +1955,7 @@ A patient was brought to the emergency with a history of consumption of 8 tablet
 
 ---
 
-### Q116 — An elderly man, who is a *(2022)*
+### Q115 — An elderly man, who is a *(2022)*
 
 An elderly man, who is a known case of diabetic nephropathy, presented to the emergency with palpitations and chest discomfort. ECG showed tall T-waves. Laboratory investigations showed elevated potassium levels. Which of the following drugs will cause the shift of potassium back into the cell?
 
@@ -1972,7 +1972,7 @@ An elderly man, who is a known case of diabetic nephropathy, presented to the em
 
 ---
 
-### Q117 — A patient with a pituitary tumor *(2022)*
+### Q116 — A patient with a pituitary tumor *(2022)*
 
 A patient with a pituitary tumor that overproduced growth hormone underwent surgical removal of the tumor. The resection was found to be incomplete. What is the first-line treatment for this patient?
 
@@ -1989,7 +1989,7 @@ A patient with a pituitary tumor that overproduced growth hormone underwent surg
 
 ---
 
-### Q118 — A middle-aged male patient presents with *(2022)*
+### Q117 — A middle-aged male patient presents with *(2022)*
 
 A middle-aged male patient presents with protrusion of the chin, excessive sweating, impaired glucose tolerance, and enlargement of hands and feet. Which of the following is a growth hormone receptor antagonist used to treat this condition?
 
@@ -2006,7 +2006,7 @@ A middle-aged male patient presents with protrusion of the chin, excessive sweat
 
 ---
 
-### Q119 — A diabetic patient presented with rhinitis *(2022)*
+### Q118 — A diabetic patient presented with rhinitis *(2022)*
 
 A diabetic patient presented with rhinitis and facial swelling. An intranasal biopsy revealed the presence of broad-based aseptate hyphae with branching at right angle. Evidence of vascular invasion was present. What will be the drug of choice for this condition?
 
@@ -2023,7 +2023,7 @@ A diabetic patient presented with rhinitis and facial swelling. An intranasal bi
 
 ---
 
-### Q120 — A tuberculosis patient on anti-tubercular treatmen *(2022)*
+### Q119 — A tuberculosis patient on anti-tubercular treatmen *(2022)*
 
 A tuberculosis patient on anti-tubercular treatment presents with a tingling sensation and paresthesia in the lower limbs. He is not a diabetic and occasionally consumes alcohol. Which of the following vitamins must be supplemented to this patient?
 
@@ -2040,7 +2040,7 @@ A tuberculosis patient on anti-tubercular treatment presents with a tingling sen
 
 ---
 
-### Q121 — An elderly woman received a botox *(2022)*
+### Q120 — An elderly woman received a botox *(2022)*
 
 An elderly woman received a botox injection for the treatment of wrinkles. Which of the following is the mechanism of action of botulinum toxin?
 
@@ -2057,7 +2057,7 @@ An elderly woman received a botox injection for the treatment of wrinkles. Which
 
 ---
 
-### Q122 — Which of the following is a *(2022)*
+### Q121 — Which of the following is a *(2022)*
 
 Which of the following is a PCSK9 inhibitor?
 
@@ -2074,7 +2074,7 @@ Which of the following is a PCSK9 inhibitor?
 
 ---
 
-### Q123 — An elderly man presents with rigidity *(2022)*
+### Q122 — An elderly man presents with rigidity *(2022)*
 
 An elderly man presents with rigidity and tremors. On examination, he has blank facial expressions. Which of the following drugs can be used to manage this condition?
 
@@ -2094,7 +2094,7 @@ An elderly man presents with rigidity and tremors. On examination, he has blank 
 
 ## Forensic Medicine
 
-### Q124 — A 56-year-old man presents with fatigue, *(2022)*
+### Q123 — A 56-year-old man presents with fatigue, *(2022)*
 
 A 56-year-old man presents with fatigue, pallor, and abdominal pain. He reports memory loss and reveals that he works at a battery recycling plant. On examination, a noticeable foot drop in both lower extremities is seen. Laboratory testing shows elevated blood lead levels. Which enzyme is affected in the given scenario?
 
@@ -2111,7 +2111,7 @@ A 56-year-old man presents with fatigue, pallor, and abdominal pain. He reports 
 
 ---
 
-### Q125 — A patient came with complaints of *(2022)*
+### Q124 — A patient came with complaints of *(2022)*
 
 A patient came with complaints of hair loss. His wife mentions that she has noticed some behavioral changes. The doctor notices a loss of eyebrows on the lateral side. He then concludes by examining the nails. What is the type of poisoning in this case?
 
@@ -2128,7 +2128,7 @@ A patient came with complaints of hair loss. His wife mentions that she has noti
 
 ---
 
-### Q126 — Identify the gun that caused the *(2022)*
+### Q125 — Identify the gun that caused the *(2022)*
 
 Identify the gun that caused the wound and the range of the shot.
 
@@ -2145,7 +2145,7 @@ Identify the gun that caused the wound and the range of the shot.
 
 ---
 
-### Q127 — Identify the type of wound from *(2022)*
+### Q126 — Identify the type of wound from *(2022)*
 
 Identify the type of wound from the image.
 
@@ -2162,7 +2162,7 @@ Identify the type of wound from the image.
 
 ---
 
-### Q128 — A 45-year-old female patient is told *(2022)*
+### Q127 — A 45-year-old female patient is told *(2022)*
 
 A 45-year-old female patient is told about the benefits and complications of a hysterectomy, and she agrees to the procedure. What kind of consent is this?
 
@@ -2179,7 +2179,7 @@ A 45-year-old female patient is told about the benefits and complications of a h
 
 ---
 
-### Q129 — A dead body is brought for *(2022)*
+### Q128 — A dead body is brought for *(2022)*
 
 A dead body is brought for evaluation. On post-mortem examination, a ligature completely encircled the neck, horizontal, and below the thyroid level was seen. There was no dribbling of saliva. What is the cause of death?
 
@@ -2196,7 +2196,7 @@ A dead body is brought for evaluation. On post-mortem examination, a ligature co
 
 ---
 
-### Q130 — A surgeon returns home from a *(2022)*
+### Q129 — A surgeon returns home from a *(2022)*
 
 A surgeon returns home from a party after many pegs of alcohol and is called to perform an emergency operation. During the operation, the assisting staff noticed the surgeon’s handshaking and the instruments falling. He eventually nicks an artery, and the patient collapses. Under which of the following terms will this incident be tried?
 
@@ -2213,7 +2213,7 @@ A surgeon returns home from a party after many pegs of alcohol and is called to 
 
 ---
 
-### Q131 — During the court proceedings, the defense *(2022)*
+### Q130 — During the court proceedings, the defense *(2022)*
 
 During the court proceedings, the defense lawyer asks a leading question, which the prosecutor appeals against. The judge grants the appeal. Leading questions are not allowed in all of the following except?
 
@@ -2232,7 +2232,7 @@ During the court proceedings, the defense lawyer asks a leading question, which 
 
 
 ## Community Medicine
-### Q133 — You are working in a primary *(2022)*
+### Q131 — You are working in a primary *(2022)*
 
 You are working in a primary health center (PHC) situated in a high seismic zone. Which of the following will you do as part of preparedness for an emergency? 1. Disaster preparedness by making sure all financial and other resources are available 2. Increase public awareness through campaigns and loudspeakers 3. Conduct a simulation for the disaster and assess the response 4. Follow instructions given over the phone or radio by higher officials
 
@@ -2249,7 +2249,7 @@ You are working in a primary health center (PHC) situated in a high seismic zone
 
 ---
 
-### Q134 — Although many animals are implicated in *(2022)*
+### Q132 — Although many animals are implicated in *(2022)*
 
 Although many animals are implicated in the spread of rabies, dogs are the most common ones. Also, it usually affects children in developing countries. Knowing this, what is the most cost-effective and logical way to reduce the incidence of rabies?
 
@@ -2266,7 +2266,7 @@ Although many animals are implicated in the spread of rabies, dogs are the most 
 
 ---
 
-### Q135 — Which of the following steps is *(2022)*
+### Q133 — Which of the following steps is *(2022)*
 
 Which of the following steps is not included in the STEP approach of WHO?
 
@@ -2283,7 +2283,7 @@ Which of the following steps is not included in the STEP approach of WHO?
 
 ---
 
-### Q136 — A male patient diagnosed with tuberculosis *(2022)*
+### Q134 — A male patient diagnosed with tuberculosis *(2022)*
 
 A male patient diagnosed with tuberculosis took complete treatment. Sputum examination was done after the completion of the intensive and the continuation phases. It was found to be negative. What is the status of the patient?
 
@@ -2300,7 +2300,7 @@ A male patient diagnosed with tuberculosis took complete treatment. Sputum exami
 
 ---
 
-### Q137 — A cohort study was conducted with *(2022)*
+### Q135 — A cohort study was conducted with *(2022)*
 
 A cohort study was conducted with drinkers and non-drinkers of green tea to study its effect on diabetes mellitus. The risk ratio was found to be 0.84. Which of the following statements is correct?
 
@@ -2317,7 +2317,7 @@ A cohort study was conducted with drinkers and non-drinkers of green tea to stud
 
 ---
 
-### Q138 — Which statement refers best to the *(2022)*
+### Q136 — Which statement refers best to the *(2022)*
 
 Which statement refers best to the criteria for starting an urban community health center?
 
@@ -2334,7 +2334,7 @@ Which statement refers best to the criteria for starting an urban community heal
 
 ---
 
-### Q139 — How is a broken vaccine vial *(2022)*
+### Q137 — How is a broken vaccine vial *(2022)*
 
 How is a broken vaccine vial disposed of, according to biomedical waste management?
 
@@ -2351,7 +2351,7 @@ How is a broken vaccine vial disposed of, according to biomedical waste manageme
 
 ---
 
-### Q140 — In an urban area in the *(2022)*
+### Q138 — In an urban area in the *(2022)*
 
 In an urban area in the state of Madhya Pradesh, a primigravida goes for institutional delivery after being motivated by an ASHA worker. What are the benefits they will receive (in terms of money in rupees) under the Janani Suraksha Yojana? ASHA-Accredited social health activist
 
@@ -2368,7 +2368,7 @@ In an urban area in the state of Madhya Pradesh, a primigravida goes for institu
 
 ---
 
-### Q141 — Which of the following agencies provides *(2022)*
+### Q139 — Which of the following agencies provides *(2022)*
 
 Which of the following agencies provides seed and manure in applied nutrition programs in schools?
 
@@ -2385,7 +2385,7 @@ Which of the following agencies provides seed and manure in applied nutrition pr
 
 ---
 
-### Q142 — Many children from a particular community *(2022)*
+### Q140 — Many children from a particular community *(2022)*
 
 Many children from a particular community coming to a hospital were detected to have acute lymphoblastic leukemia (ALL). It was assumed that it is due to the presence of cytotoxic waste in the water of that community. If a case-control study has to be done to find whether the chemical and ALL are associated, what will be taken as the control?
 
@@ -2402,7 +2402,7 @@ Many children from a particular community coming to a hospital were detected to 
 
 ---
 
-### Q143 — An auxiliary nurse midwife has to *(2022)*
+### Q141 — An auxiliary nurse midwife has to *(2022)*
 
 An auxiliary nurse midwife has to conduct a vaccination camp in a village. She received 2 open vials, one of which is a pentavalent vaccine and the other is an MR vaccine. What can she do regarding the utilization of these vials?
 
@@ -2422,7 +2422,7 @@ An auxiliary nurse midwife has to conduct a vaccination camp in a village. She r
 
 ## Medicine
 
-### Q144 — A female patient presents to you *(2022)*
+### Q142 — A female patient presents to you *(2022)*
 
 A female patient presents to you with a unilateral headache. It is associated with nausea, photophobia, and phonophobia. What is the drug of choice for acute management?
 
@@ -2439,7 +2439,7 @@ A female patient presents to you with a unilateral headache. It is associated wi
 
 ---
 
-### Q145 — A patient presents to you with *(2022)*
+### Q143 — A patient presents to you with *(2022)*
 
 A patient presents to you with fever, night sweats, ptosis, and bilateral facial nerve palsy. Investigations showed leukocytosis and bilateral hilar lymphadenopathy. Which of the following is the most likely diagnosis?
 
@@ -2456,7 +2456,7 @@ A patient presents to you with fever, night sweats, ptosis, and bilateral facial
 
 ---
 
-### Q146 — A 25-year-old patient is undergoing tooth *(2022)*
+### Q144 — A 25-year-old patient is undergoing tooth *(2022)*
 
 A 25-year-old patient is undergoing tooth extraction for dental caries. Which of the following does not require prophylaxis against infective endocarditis?
 
@@ -2473,7 +2473,7 @@ A 25-year-old patient is undergoing tooth extraction for dental caries. Which of
 
 ---
 
-### Q147 — A patient presents to the emergency *(2022)*
+### Q145 — A patient presents to the emergency *(2022)*
 
 A patient presents to the emergency department with a history of ingestion of ten tablets of paracetamol. He has developed oliguria and liver function tests show deranged values. Which of the following can be used in the management of this condition?
 
@@ -2490,7 +2490,7 @@ A patient presents to the emergency department with a history of ingestion of te
 
 ---
 
-### Q148 — A patient presents to you with *(2022)*
+### Q146 — A patient presents to you with *(2022)*
 
 A patient presents to you with an irregularly irregular pulse of 120/minutes and a pulse deficit of 20. Which of the following would be the jugular venous pressure (JVP) finding?
 
@@ -2507,7 +2507,7 @@ A patient presents to you with an irregularly irregular pulse of 120/minutes and
 
 ---
 
-### Q149 — A patient with a history of *(2022)*
+### Q147 — A patient with a history of *(2022)*
 
 A patient with a history of chronic liver disease presents with abdominal distension, jaundice, and pruritis. Ascitic fluid analysis revealed a neutrophil count >650 per cubic mm. What is the most likely diagnosis?
 
@@ -2524,7 +2524,7 @@ A patient with a history of chronic liver disease presents with abdominal disten
 
 ---
 
-### Q150 — Laboratory investigations of a patient being *(2022)*
+### Q148 — Laboratory investigations of a patient being *(2022)*
 
 Laboratory investigations of a patient being evaluated for jaundice show elevated bilirubin and alkaline phosphatase levels. Levels of the remaining liver enzymes are normal. What is the likely diagnosis?
 
@@ -2541,7 +2541,7 @@ Laboratory investigations of a patient being evaluated for jaundice show elevate
 
 ---
 
-### Q151 — An 11-year-old child with a history *(2022)*
+### Q149 — An 11-year-old child with a history *(2022)*
 
 An 11-year-old child with a history of streptococcal pharyngitis presents you with fever and arthralgia. There is no past history of rheumatic heart disease or features of carditis or valvular disease. How often is 6,00,000 IU of benzathine penicillin recommended for prophylaxis of rheumatic heart disease?
 
@@ -2558,7 +2558,7 @@ An 11-year-old child with a history of streptococcal pharyngitis presents you wi
 
 ---
 
-### Q152 — Which of the following is not *(2022)*
+### Q150 — Which of the following is not *(2022)*
 
 Which of the following is not seen in MEN 2B syndrome?
 
@@ -2575,7 +2575,7 @@ Which of the following is not seen in MEN 2B syndrome?
 
 ---
 
-### Q153 — A patient with diabetes mellitus for *(2022)*
+### Q151 — A patient with diabetes mellitus for *(2022)*
 
 A patient with diabetes mellitus for the past 5 years presents with vomiting and abdominal pain. She is non-compliant with medication and appears dehydrated. Investigations revealed a blood sugar value of 500 mg/dl and the presence of ketone bodies. What is the next best st in management?
 
@@ -2592,7 +2592,7 @@ A patient with diabetes mellitus for the past 5 years presents with vomiting and
 
 ---
 
-### Q154 — A patient diagnosed to be retro-positive *(2022)*
+### Q152 — A patient diagnosed to be retro-positive *(2022)*
 
 A patient diagnosed to be retro-positive was started on highly active antiretroviral therapy (HAART). Which of the following can be used to monitor treatment efficacy?
 
@@ -2609,7 +2609,7 @@ A patient diagnosed to be retro-positive was started on highly active antiretrov
 
 ---
 
-### Q155 — A patient on anti-depressants presented to *(2022)*
+### Q153 — A patient on anti-depressants presented to *(2022)*
 
 A patient on anti-depressants presented to you with hypotension. An ECG was done, which showed wide QRS complexes and right axis deviation. How will you manage this patient?
 
@@ -2626,7 +2626,7 @@ A patient on anti-depressants presented to you with hypotension. An ECG was done
 
 ---
 
-### Q156 — A female patient with a negative *(2022)*
+### Q154 — A female patient with a negative *(2022)*
 
 A female patient with a negative urine pregnancy test presents to you with galactorrhea. An MRI was done which revealed a large pituitary tumor. If the patient is not willing for surgery, which of the following is the best drug for treatment?
 
@@ -2643,7 +2643,7 @@ A female patient with a negative urine pregnancy test presents to you with galac
 
 ---
 
-### Q157 — A woman presents to you with *(2022)*
+### Q155 — A woman presents to you with *(2022)*
 
 A woman presents to you with fever, arthralgia, ulcers, fatigue for the past six months, and new-onset hematuria. Urine examination reveals RBC casts and proteinuria. What is the likely diagnosis?
 
@@ -2660,7 +2660,7 @@ A woman presents to you with fever, arthralgia, ulcers, fatigue for the past six
 
 ---
 
-### Q158 — A man on diuretics presents with *(2022)*
+### Q156 — A man on diuretics presents with *(2022)*
 
 A man on diuretics presents with weakness. An ECG was done which showed flat T waves and prominent U waves. What is the most likely diagnosis?
 
@@ -2677,7 +2677,7 @@ A man on diuretics presents with weakness. An ECG was done which showed flat T w
 
 ---
 
-### Q159 — A male patient presents to the *(2022)*
+### Q157 — A male patient presents to the *(2022)*
 
 A male patient presents to the emergency department. The arterial blood gas report is as follows: pH, 7.2; pCO2, 81 mmHg; and HCO3, 40meq/L. which of the following is the most likely diagnosis?
 
@@ -2694,7 +2694,7 @@ A male patient presents to the emergency department. The arterial blood gas repo
 
 ---
 
-### Q160 — Multidrug-resistant (MDR) tuberculosis shows resis *(2022)*
+### Q158 — Multidrug-resistant (MDR) tuberculosis shows resis *(2022)*
 
 Multidrug-resistant (MDR) tuberculosis shows resistance to which of the following drugs?
 
@@ -2711,7 +2711,7 @@ Multidrug-resistant (MDR) tuberculosis shows resistance to which of the followin
 
 ---
 
-### Q161 — A child presents to the emergency *(2022)*
+### Q159 — A child presents to the emergency *(2022)*
 
 A child presents to the emergency department with a history of ingestion of 10-20 ferrous sulphate tablets. Arterial blood gas revealed acidosis. Which of the following can be used in the management of this condition?
 
@@ -2731,7 +2731,7 @@ A child presents to the emergency department with a history of ingestion of 10-2
 
 ## Surgery
 
-### Q162 — A 45-year-old female patient underwent a *(2022)*
+### Q160 — A 45-year-old female patient underwent a *(2022)*
 
 A 45-year-old female patient underwent a thyroidectomy. Three days after the surgery, she developed perioral numbness. Which of the following investigations need to be done for her?
 
@@ -2748,7 +2748,7 @@ A 45-year-old female patient underwent a thyroidectomy. Three days after the sur
 
 ---
 
-### Q163 — A 59-year-old lady presents with a *(2022)*
+### Q161 — A 59-year-old lady presents with a *(2022)*
 
 A 59-year-old lady presents with a progressive, painless lump in the breast. What is the cause for the following skin change?
 
@@ -2765,7 +2765,7 @@ A 59-year-old lady presents with a progressive, painless lump in the breast. Wha
 
 ---
 
-### Q164 — Which of the following is most *(2022)*
+### Q162 — Which of the following is most *(2022)*
 
 Which of the following is most likely to be seen due to the rupture of a saccular aneurysm?
 
@@ -2782,7 +2782,7 @@ Which of the following is most likely to be seen due to the rupture of a saccula
 
 ---
 
-### Q165 — A male patient presented with a *(2022)*
+### Q163 — A male patient presented with a *(2022)*
 
 A male patient presented with a 0.3 cm nodule on the left nasolabial fold. It was excised, and a pathological examination was done. What is the diagnosis?
 
@@ -2799,7 +2799,7 @@ A male patient presented with a 0.3 cm nodule on the left nasolabial fold. It wa
 
 ---
 
-### Q166 — A young male patient with a *(2022)*
+### Q164 — A young male patient with a *(2022)*
 
 A young male patient with a history of a motor vehicle accident cannot pass urine. Blood is seen at the meatus. What is the most likely site of urethral injury?
 
@@ -2816,7 +2816,7 @@ A young male patient with a history of a motor vehicle accident cannot pass urin
 
 ---
 
-### Q167 — A patient presents with prostate carcinoma, *(2022)*
+### Q165 — A patient presents with prostate carcinoma, *(2022)*
 
 A patient presents with prostate carcinoma, which has now spread to the vertebra. What is the route of spread to the lumbar vertebra?
 
@@ -2833,7 +2833,7 @@ A patient presents with prostate carcinoma, which has now spread to the vertebra
 
 ---
 
-### Q168 — A male patient presents with impotence *(2022)*
+### Q166 — A male patient presents with impotence *(2022)*
 
 A male patient presents with impotence and bilateral resting pain. The following finding is seen in the legs. At which level has the pathology occurred?
 
@@ -2850,7 +2850,7 @@ A male patient presents with impotence and bilateral resting pain. The following
 
 ---
 
-### Q169 — Identify the most common site of *(2022)*
+### Q167 — Identify the most common site of *(2022)*
 
 Identify the most common site of an intraperitoneal abscess.
 
@@ -2867,7 +2867,7 @@ Identify the most common site of an intraperitoneal abscess.
 
 ---
 
-### Q170 — A man complained of recurrent discharge *(2022)*
+### Q168 — A man complained of recurrent discharge *(2022)*
 
 A man complained of recurrent discharge and pain due to lesions around the anus for 3 years. What is the diagnosis?
 
@@ -2884,7 +2884,7 @@ A man complained of recurrent discharge and pain due to lesions around the anus 
 
 ---
 
-### Q171 — According to triage, which of the *(2022)*
+### Q169 — According to triage, which of the *(2022)*
 
 According to triage, which of the following categories of patients comes under green?
 
@@ -2904,7 +2904,7 @@ According to triage, which of the following categories of patients comes under g
 
 ## Obstetrics & Gynaecology
 
-### Q172 — A pregnant lady with 34 weeks *(2022)*
+### Q170 — A pregnant lady with 34 weeks *(2022)*
 
 A pregnant lady with 34 weeks of amenorrhea has the following findings: LDH- 700 IU/L, platelets – 75,000/mm3, serum bilirubin- 1.5mg/dL, SGOT-200 U/L, SGPT-150U/L, and BP -140/96 mm Hg. Her coagulation profile and renal function tests are normal. What is the diagnosis? LDH- Lactate dehydrogenase SGOT- Serum glutamic-oxaloacetic transaminase / AST- Asparate transaminase SGPT- Serum glutamic pyruvic transaminase / ALT- Alanine transaminase
 
@@ -2921,7 +2921,7 @@ A pregnant lady with 34 weeks of amenorrhea has the following findings: LDH- 700
 
 ---
 
-### Q173 — A woman at 26 weeks of *(2022)*
+### Q171 — A woman at 26 weeks of *(2022)*
 
 A woman at 26 weeks of gestation presents for routine evaluation. On examination, fundal height corresponds to 24 weeks. Ultrasonography revealed decreased amniotic fluid. Which of the following conditions would have led to this presentation?
 
@@ -2938,7 +2938,7 @@ A woman at 26 weeks of gestation presents for routine evaluation. On examination
 
 ---
 
-### Q174 — A type 1 diabetic mother is *(2022)*
+### Q172 — A type 1 diabetic mother is *(2022)*
 
 A type 1 diabetic mother is on magnesium sulfate infusion post – cesarean section for preeclampsia. She develops delirium and is drowsy. She has a respiratory rate of 10/min, random blood glucose level of 240 mg / dL, oliguria, and bilaterally absent knee reflex. What is the cause of her condition?
 
@@ -2955,7 +2955,7 @@ A type 1 diabetic mother is on magnesium sulfate infusion post – cesarean sect
 
 ---
 
-### Q175 — While discharging a patient who underwent *(2022)*
+### Q173 — While discharging a patient who underwent *(2022)*
 
 While discharging a patient who underwent a vesicovaginal fistula repair, which of the following would you recommend?
 
@@ -2972,7 +2972,7 @@ While discharging a patient who underwent a vesicovaginal fistula repair, which 
 
 ---
 
-### Q176 — A pregnant woman with no other *(2022)*
+### Q174 — A pregnant woman with no other *(2022)*
 
 A pregnant woman with no other comorbid conditions develops preeclampsia. She enquires about the cause of her condition. The doctor explains that it is due to the failure of the invasion of:
 
@@ -2989,7 +2989,7 @@ A pregnant woman with no other comorbid conditions develops preeclampsia. She en
 
 ---
 
-### Q177 — A woman with an obstetric score *(2022)*
+### Q175 — A woman with an obstetric score *(2022)*
 
 A woman with an obstetric score of G2P1 comes to the clinic at 14 weeks of gestation for h antenatal checkup. A uterine artery doppler was suggested by the doctor. What would it detect?
 
@@ -3006,7 +3006,7 @@ A woman with an obstetric score of G2P1 comes to the clinic at 14 weeks of gesta
 
 ---
 
-### Q178 — A female patient collapses soon after *(2022)*
+### Q176 — A female patient collapses soon after *(2022)*
 
 A female patient collapses soon after delivery. There is profuse bleeding and features of disseminated intravascular coagulation. Which of the following is the most likely etiology?
 
@@ -3023,7 +3023,7 @@ A female patient collapses soon after delivery. There is profuse bleeding and fe
 
 ---
 
-### Q179 — You are examining a multigravida in *(2022)*
+### Q177 — You are examining a multigravida in *(2022)*
 
 You are examining a multigravida in the second stage of labor for the past two hours. On examination, contractions are adequate, the cervix is dilated with the head at station 0 with molding 2+ and caput 2+. The sagittal suture is in the right occipitotransverse position. The fetal heart rate is 140 beats / minute. Which of the following is carried out for the management of this patient?
 
@@ -3040,7 +3040,7 @@ You are examining a multigravida in the second stage of labor for the past two h
 
 ---
 
-### Q180 — A primigravida presents to the labor *(2022)*
+### Q178 — A primigravida presents to the labor *(2022)*
 
 A primigravida presents to the labor room at 40 weeks of gestation with lower abdominal pain. She has been in labor for 3 hours. Which of the following will determine if she is in active labor?
 
@@ -3057,7 +3057,7 @@ A primigravida presents to the labor room at 40 weeks of gestation with lower ab
 
 ---
 
-### Q181 — What will be the level of *(2022)*
+### Q179 — What will be the level of *(2022)*
 
 What will be the level of the uterus on the second – day post delivery?
 
@@ -3074,7 +3074,7 @@ What will be the level of the uterus on the second – day post delivery?
 
 ---
 
-### Q182 — A primigravida woman at 12 weeks *(2022)*
+### Q180 — A primigravida woman at 12 weeks *(2022)*
 
 A primigravida woman at 12 weeks of gestation comes to the antenatal clinic for nutritional advice. Which of the following will you recommend?
 
@@ -3091,7 +3091,7 @@ A primigravida woman at 12 weeks of gestation comes to the antenatal clinic for 
 
 ---
 
-### Q183 — A 40 year old G2P1 woman *(2022)*
+### Q181 — A 40 year old G2P1 woman *(2022)*
 
 A 40 year old G2P1 woman with 18 weeks of amenorrhea comes with a dilated cervix. The cervical length is 15 mm. In spite of explaining the risks, she insisted on cerclage. Which of the following is a contraindication for cervical cerclage?
 
@@ -3108,7 +3108,7 @@ A 40 year old G2P1 woman with 18 weeks of amenorrhea comes with a dilated cervix
 
 ---
 
-### Q184 — A primigravida presents to the emergency *(2022)*
+### Q182 — A primigravida presents to the emergency *(2022)*
 
 A primigravida presents to the emergency room in the early stage of labor with adequate uterine contractions. On per vaginal examination, a gynecoid pelvis is felt, the membranes are ruptured, and the vertex is felt in the right occipito- posterior position. How will you manage this patient?
 
@@ -3125,7 +3125,7 @@ A primigravida presents to the emergency room in the early stage of labor with a
 
 ---
 
-### Q185 — A pregnant patient, with a history *(2022)*
+### Q183 — A pregnant patient, with a history *(2022)*
 
 A pregnant patient, with a history of classical cesarean section in view of fetal growth retardation in the previous pregnancy, presents to you. She is currently at 35 weeks of gestation with breech presentation. What is the next step in management?
 
@@ -3142,7 +3142,7 @@ A pregnant patient, with a history of classical cesarean section in view of feta
 
 ---
 
-### Q186 — A primigravida at 22 weeks of *(2022)*
+### Q184 — A primigravida at 22 weeks of *(2022)*
 
 A primigravida at 22 weeks of gestation presents to you with profuse vaginal bleeding. H blood pressure and glucose levels are within normal limits. Placental implantation at which of the following sites can cause this?
 
@@ -3159,7 +3159,7 @@ A primigravida at 22 weeks of gestation presents to you with profuse vaginal ble
 
 ---
 
-### Q187 — A female patient presents to you *(2022)*
+### Q185 — A female patient presents to you *(2022)*
 
 A female patient presents to you with six weeks of amenorrhea, associated with abdominal pain and vaginal bleeding with normal blood pressure. Investigations revealed beta – hCG to be 1400 mIU/mL. An ultrasound scan was done which showed a trilaminar endometrium with normal adnexa. What is the next best step in the management of this patient ?
 
@@ -3176,7 +3176,7 @@ A female patient presents to you with six weeks of amenorrhea, associated with a
 
 ---
 
-### Q188 — A 24 year old lactating female *(2022)*
+### Q186 — A 24 year old lactating female *(2022)*
 
 A 24 year old lactating female with an 18 month old child comes with a history of irregular, heavy bleeding seeking contraceptive advice. Which is the contraceptive of choice?
 
@@ -3193,7 +3193,7 @@ A 24 year old lactating female with an 18 month old child comes with a history o
 
 ---
 
-### Q189 — A 20 year old woman presented *(2022)*
+### Q187 — A 20 year old woman presented *(2022)*
 
 A 20 year old woman presented at 7 weeks of gestation, unwilling to continue the pregnancy. What are the drugs used for medical termination of pregnancy in this patient?
 
@@ -3210,7 +3210,7 @@ A 20 year old woman presented at 7 weeks of gestation, unwilling to continue the
 
 ---
 
-### Q190 — Testosterone helps in the development of *(2022)*
+### Q188 — Testosterone helps in the development of *(2022)*
 
 Testosterone helps in the development of various organs in the fetus. Which of the following stimulates its production?
 
@@ -3230,7 +3230,7 @@ Testosterone helps in the development of various organs in the fetus. Which of t
 
 ## Paediatrics
 
-### Q191 — A 1 day- old neonate has *(2022)*
+### Q189 — A 1 day- old neonate has *(2022)*
 
 A 1 day- old neonate has not passed urine since birth. What is the next step in management?
 
@@ -3247,7 +3247,7 @@ A 1 day- old neonate has not passed urine since birth. What is the next step in 
 
 ---
 
-### Q192 — A 7  year old boy *(2022)*
+### Q190 — A 7  year old boy *(2022)*
 
 A 7 – year old boy presented with abdominal pain, vomiting, oliguria, and periorbital puffiness following chemotherapy. Investigations reveal hyperuricemia, raised creatinine levels, and hyperkalemia. What is the next best step in the management of this condition ?
 
@@ -3264,7 +3264,7 @@ A 7 – year old boy presented with abdominal pain, vomiting, oliguria, and peri
 
 ---
 
-### Q193 — An 8-day old newborn was found *(2022)*
+### Q191 — An 8-day old newborn was found *(2022)*
 
 An 8-day old newborn was found to have a thyroid – stimulating hormone level of more than 100 mIU/L. Which of the following will be the next best investigation?
 
@@ -3281,7 +3281,7 @@ An 8-day old newborn was found to have a thyroid – stimulating hormone level o
 
 ---
 
-### Q194 — A 10-month old infant was brought *(2022)*
+### Q192 — A 10-month old infant was brought *(2022)*
 
 A 10-month old infant was brought with complaints of jerking movement of limbs towards the body. On examination, there is a regression of developmental milestones. Electroencephalogram shows hypsarrhythmia. Which of the following is the drug of choice in this condition ?
 
@@ -3298,7 +3298,7 @@ A 10-month old infant was brought with complaints of jerking movement of limbs t
 
 ---
 
-### Q195 — A 2-month old infant born to *(2022)*
+### Q193 — A 2-month old infant born to *(2022)*
 
 A 2-month old infant born to an HIV- positive mother presents with recurrent diarrhea. What is the next best step?
 
@@ -3315,7 +3315,7 @@ A 2-month old infant born to an HIV- positive mother presents with recurrent dia
 
 ---
 
-### Q196 — A child presented with a history *(2022)*
+### Q194 — A child presented with a history *(2022)*
 
 A child presented with a history of loose stools with an increase in frequency of 4 days. On examination, he is drowsy, unable to feed, and skin on pinching goes back very slowly. According to the integrated management of neonatal and childhood illness (IMNCI), this child will be classified as having
 
@@ -3332,7 +3332,7 @@ A child presented with a history of loose stools with an increase in frequency o
 
 ---
 
-### Q197 — Which of the following children are *(2022)*
+### Q195 — Which of the following children are *(2022)*
 
 Which of the following children are considered at risk babies ? 1. Baby with a birth weight of 2.5 kg 2. Baby on artificial feeds 3. Baby of working mother / single parent 4. Baby with weight <85% of expected weight 5. Birth order of 3 or more
 
@@ -3349,7 +3349,7 @@ Which of the following children are considered at risk babies ? 1. Baby with a b
 
 ---
 
-### Q198 — Identify the condition *(2022)*
+### Q196 — Identify the condition *(2022)*
 
 Identify the condition:
 
@@ -3366,7 +3366,7 @@ Identify the condition:
 
 ---
 
-### Q199 — A previously healthy child presented with *(2022)*
+### Q197 — A previously healthy child presented with *(2022)*
 
 A previously healthy child presented with acute – onset dyspnea. A chest X – ray shows unilateral hyperinflation of the lungs. What is true for this patient ?
 
@@ -3383,7 +3383,7 @@ A previously healthy child presented with acute – onset dyspnea. A chest X –
 
 ---
 
-### Q200 — A male child presented with arthralgia *(2022)*
+### Q198 — A male child presented with arthralgia *(2022)*
 
 A male child presented with arthralgia and abdominal pain. On examination, there was palpable purpura over the lower limbs. There is a past history of upper respiratory tract infection prior to the onset of presenting symptoms. Which of the following is the treatment for this condition?
 
@@ -3400,7 +3400,7 @@ A male child presented with arthralgia and abdominal pain. On examination, there
 
 ---
 
-### Q201 — A 10 year old presents with *(2022)*
+### Q199 — A 10 year old presents with *(2022)*
 
 A 10 year old presents with edema and anasarca. A diagnosis of minimal change disease is made. Which of the following is true about this condition?
 
@@ -3417,7 +3417,7 @@ A 10 year old presents with edema and anasarca. A diagnosis of minimal change di
 
 ---
 
-### Q202 — A 10-year old child presents with *(2022)*
+### Q200 — A 10-year old child presents with *(2022)*
 
 A 10-year old child presents with diarrhea and weight loss. On examination, the height and weight are lesser than expected. Laboratory investigations were positive for class II HLA-DQ2. Which of the following will you advise the child ?
 
@@ -3437,7 +3437,7 @@ A 10-year old child presents with diarrhea and weight loss. On examination, the 
 
 ## Orthopaedics
 
-### Q203 — What could be the diagnosis of *(2022)*
+### Q201 — What could be the diagnosis of *(2022)*
 
 What could be the diagnosis of a woman with this appearance on X-ray?
 
@@ -3454,7 +3454,7 @@ What could be the diagnosis of a woman with this appearance on X-ray?
 
 ---
 
-### Q204 — A male patient presented with a *(2022)*
+### Q202 — A male patient presented with a *(2022)*
 
 A male patient presented with a bone fracture following a road traffic accident. After 2 days he developed dyspnea, petechiae involving the whole body, and a fall in oxygen saturation. What is the likely diagnosis?
 
@@ -3471,7 +3471,7 @@ A male patient presented with a bone fracture following a road traffic accident.
 
 ---
 
-### Q205 — An intrauterine scan at the 13th *(2022)*
+### Q203 — An intrauterine scan at the 13th *(2022)*
 
 An intrauterine scan at the 13th week of pregnancy showed a fetus with multiple long bone fractures. What is commonly associated with this finding ?
 
@@ -3488,7 +3488,7 @@ An intrauterine scan at the 13th week of pregnancy showed a fetus with multiple 
 
 ---
 
-### Q206 — What is the most common complication *(2022)*
+### Q204 — What is the most common complication *(2022)*
 
 What is the most common complication of this condition, if left untreated ?
 
@@ -3508,7 +3508,7 @@ What is the most common complication of this condition, if left untreated ?
 
 ## ENT
 
-### Q207 — A post-COVID patient, who is a *(2022)*
+### Q205 — A post-COVID patient, who is a *(2022)*
 
 A post-COVID patient, who is a known diabetic, develops unilateral facial pain and loosening of teeth. Which investigation would you do to confirm the diagnosis of this patient?
 
@@ -3525,7 +3525,7 @@ A post-COVID patient, who is a known diabetic, develops unilateral facial pain a
 
 ---
 
-### Q208 — A patient presents with the complaint *(2022)*
+### Q206 — A patient presents with the complaint *(2022)*
 
 A patient presents with the complaint of inability to close the eye, drooling of saliva, and deviation of the angle of the mouth. Which of the following nerves is most likely to be affected?
 
@@ -3542,7 +3542,7 @@ A patient presents with the complaint of inability to close the eye, drooling of
 
 ---
 
-### Q209 — An adult man in a restaurant *(2022)*
+### Q207 — An adult man in a restaurant *(2022)*
 
 An adult man in a restaurant suddenly begins choking on his food. He is conscious. The following procedure was performed. Identify the procedure.
 
@@ -3559,7 +3559,7 @@ An adult man in a restaurant suddenly begins choking on his food. He is consciou
 
 ---
 
-### Q210 — A patient comes with a history *(2022)*
+### Q208 — A patient comes with a history *(2022)*
 
 A patient comes with a history of asthma and sinusitis. On looking into his medical records, you notice this has been attributed to Samter’s triad. Which drug should be avoided in this patient?
 
@@ -3576,7 +3576,7 @@ A patient comes with a history of asthma and sinusitis. On looking into his medi
 
 ---
 
-### Q211 — A 70-year-old male patient presents with *(2022)*
+### Q209 — A 70-year-old male patient presents with *(2022)*
 
 A 70-year-old male patient presents with decreased hearing in higher frequencies. It was noted that the basilar membrane was affected. Which of the following structures lie near the affected structure?
 
@@ -3596,7 +3596,7 @@ A 70-year-old male patient presents with decreased hearing in higher frequencies
 
 ## Ophthalmology
 
-### Q212 — What is the diagnosis *(2022)*
+### Q210 — What is the diagnosis *(2022)*
 
 What is the diagnosis?
 
@@ -3613,7 +3613,7 @@ What is the diagnosis?
 
 ---
 
-### Q213 — A patient presents with a history *(2022)*
+### Q211 — A patient presents with a history *(2022)*
 
 A patient presents with a history of penetrating injury to the eye. A diagnosis of sympathetic ophthalmitis was confirmed. Which of the following will be seen?
 
@@ -3630,7 +3630,7 @@ A patient presents with a history of penetrating injury to the eye. A diagnosis 
 
 ---
 
-### Q214 — A diabetic patient presents to you *(2022)*
+### Q212 — A diabetic patient presents to you *(2022)*
 
 A diabetic patient presents to you with visual acuity of 6/9 in one eye. Further investigations revealed preretinal hemorrhages with neovascularization at the optic disc. What is the next step in management?
 
@@ -3647,7 +3647,7 @@ A diabetic patient presents to you with visual acuity of 6/9 in one eye. Further
 
 ---
 
-### Q215 — What is the indication of this *(2022)*
+### Q213 — What is the indication of this *(2022)*
 
 What is the indication of this procedure?
 
@@ -3667,7 +3667,7 @@ What is the indication of this procedure?
 
 ## Dermatology
 
-### Q216 — A patient presents to you with *(2022)*
+### Q214 — A patient presents to you with *(2022)*
 
 A patient presents to you with multiple anogenital warts. The biopsy of these lesions showed squamous atypia. Which of the following human papillomavirus types are considered high-risk?
 
@@ -3684,7 +3684,7 @@ A patient presents to you with multiple anogenital warts. The biopsy of these le
 
 ---
 
-### Q217 — A farmer presents you with a *(2022)*
+### Q215 — A farmer presents you with a *(2022)*
 
 A farmer presents you with a cauliflower-shaped mass on foot, which developed after a minor injury. Microscopy shows copper penny bodies. What is the most likely diagnosis?
 
@@ -3701,7 +3701,7 @@ A farmer presents you with a cauliflower-shaped mass on foot, which developed af
 
 ---
 
-### Q218 — Irregular pitting of nails with subungual *(2022)*
+### Q216 — Irregular pitting of nails with subungual *(2022)*
 
 Irregular pitting of nails with subungual hyperkeratosis is seen in ___________.
 
@@ -3718,7 +3718,7 @@ Irregular pitting of nails with subungual hyperkeratosis is seen in ___________.
 
 ---
 
-### Q219 — A 35-year-old woman presents to you *(2022)*
+### Q217 — A 35-year-old woman presents to you *(2022)*
 
 A 35-year-old woman presents to you with hair loss for the past three months. She tested positive for COVID-19 eight months ago. What is the most likely diagnosis?
 
@@ -3738,7 +3738,7 @@ A 35-year-old woman presents to you with hair loss for the past three months. Sh
 
 ## Psychiatry
 
-### Q220 — A 16-year-old girl has intense cravings *(2022)*
+### Q218 — A 16-year-old girl has intense cravings *(2022)*
 
 A 16-year-old girl has intense cravings for food. She eats large amounts of food, which is followed by self-induced vomiting. What is the probable diagnosis?
 
@@ -3755,7 +3755,7 @@ A 16-year-old girl has intense cravings for food. She eats large amounts of food
 
 ---
 
-### Q221 — A woman, who is 4 days *(2022)*
+### Q219 — A woman, who is 4 days *(2022)*
 
 A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and occasional insomnia. What is the likely diagnosis?
 
@@ -3775,7 +3775,7 @@ A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and 
 
 ## Anaesthesia
 
-### Q222 — Identify the mask in the image *(2022)*
+### Q220 — Identify the mask in the image *(2022)*
 
 Identify the mask in the image used for patients with COVID-19 injection.
 

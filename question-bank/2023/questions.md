@@ -1471,7 +1471,7 @@ A cyclist sustains a fracture of the surgical neck of the humerus after a fall. 
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
 
-### Q32 — Partogram CPD — management *(2023)*
+### Q88 — Partogram CPD — management *(2023)*
 
 A partogram of a woman in labour shows oxytocin infusion already given. How will you manage the condition?
 
@@ -1488,7 +1488,7 @@ A partogram of a woman in labour shows oxytocin infusion already given. How will
 
 ---
 
-### Q33 — Asherman syndrome — procedure *(2023)*
+### Q89 — Asherman syndrome — procedure *(2023)*
 
 For which of the following procedures in the OT list can you preferably do hysteroscopy?
 
@@ -1505,7 +1505,7 @@ For which of the following procedures in the OT list can you preferably do hyste
 
 ---
 
-### Q34 — Cervical cancer IIB — treatment *(2023)*
+### Q90 — Cervical cancer IIB — treatment *(2023)*
 
 A 50-year-old woman has foul-smelling bloody mucus discharge, necrotizing cervical growth, and lateral parametrium involvement. Management?
 
@@ -1522,7 +1522,7 @@ A 50-year-old woman has foul-smelling bloody mucus discharge, necrotizing cervic
 
 ---
 
-### Q35 — Laparoscopy — disadvantage over open surgery *(2023)*
+### Q91 — Laparoscopy — disadvantage over open surgery *(2023)*
 
 A woman undergoing complete laparoscopic hysterectomy asks about disadvantages of laparoscopy over open surgery. Which is a disadvantage?
 
@@ -1539,7 +1539,7 @@ A woman undergoing complete laparoscopic hysterectomy asks about disadvantages o
 
 ---
 
-### Q36 — Unruptured ectopic — management *(2023)*
+### Q92 — Unruptured ectopic — management *(2023)*
 
 A hemodynamically stable woman with 6 weeks amenorrhoea, vaginal bleeding, mild abdominal pain, beta-hCG 2800 IU/L, and a left adnexal mass 3 × 2.5 cm has unruptured ectopic pregnancy. Management?
 
@@ -1556,7 +1556,7 @@ A hemodynamically stable woman with 6 weeks amenorrhoea, vaginal bleeding, mild 
 
 ---
 
-### Q37 — Bartholin abscess — diagnosis *(2023)*
+### Q93 — Bartholin abscess — diagnosis *(2023)*
 
 A woman has painful tender swelling with redness in the labial/perineal area and difficulty walking and sitting. Diagnosis?
 
@@ -1573,7 +1573,7 @@ A woman has painful tender swelling with redness in the labial/perineal area and
 
 ---
 
-### Q38 — Infertility evaluation — timing *(2023)*
+### Q94 — Infertility evaluation — timing *(2023)*
 
 A 23-year-old woman has regular intercourse for 6 months but has not conceived. Next best step?
 
@@ -1590,7 +1590,7 @@ A 23-year-old woman has regular intercourse for 6 months but has not conceived. 
 
 ---
 
-### Q39 — PID — causative organism *(2023)*
+### Q95 — PID — causative organism *(2023)*
 
 A 28-year-old woman with multiple sexual partners has lower abdominal pain, minimal discharge, and intermenstrual bleeding. Most likely cause?
 
@@ -1607,7 +1607,7 @@ A 28-year-old woman with multiple sexual partners has lower abdominal pain, mini
 
 ---
 
-### Q40 — Transverse lie near term — management *(2023)*
+### Q96 — Transverse lie near term — management *(2023)*
 
 A G3P2L2 woman at 36+6 weeks has transverse lie, adequate liquor, normal placenta, no risk factors, and previous normal vaginal deliveries. Management?
 
@@ -1624,7 +1624,7 @@ A G3P2L2 woman at 36+6 weeks has transverse lie, adequate liquor, normal placent
 
 ---
 
-### Q41 — OHSS after gonadotropin therapy *(2023)*
+### Q97 — OHSS after gonadotropin therapy *(2023)*
 
 A woman treated for infertility with human menopausal gonadotropin develops sudden abdominal pain, nausea, vomiting, breathlessness, and enlarged cystic ovaries on ultrasound. Most likely diagnosis?
 
@@ -1641,7 +1641,7 @@ A woman treated for infertility with human menopausal gonadotropin develops sudd
 
 ---
 
-### Q42 — Hysteroscopy fluid deficit — complication *(2023)*
+### Q98 — Hysteroscopy fluid deficit — complication *(2023)*
 
 During hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL is estimated. Immediate complication?
 
@@ -1658,7 +1658,7 @@ During hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL
 
 ---
 
-### Q43 — HPV vaccine for daughter of cervical cancer patient *(2023)*
+### Q99 — HPV vaccine for daughter of cervical cancer patient *(2023)*
 
 A 54-year-old woman has advanced cervical cancer and a 14-year-old daughter. What advice should be given for the daughter?
 
@@ -1675,7 +1675,7 @@ A 54-year-old woman has advanced cervical cancer and a 14-year-old daughter. Wha
 
 ---
 
-### Q44 — Primary amenorrhea + bilateral inguinal masses *(2023)*
+### Q100 — Primary amenorrhea + bilateral inguinal masses *(2023)*
 
 A 17-year-old girl has primary amenorrhea, no breast or pubic/axillary hair development, normal height, bilateral inguinal masses, and absent uterus and ovaries on ultrasound. Most likely diagnosis?
 
@@ -1692,7 +1692,7 @@ A 17-year-old girl has primary amenorrhea, no breast or pubic/axillary hair deve
 
 ---
 
-### Q45 — Imperforate hymen — cyclic pain *(2023)*
+### Q101 — Imperforate hymen — cyclic pain *(2023)*
 
 A 16-year-old girl has cyclic pelvic pain every month, primary amenorrhea, suprapubic bulge, and PR examination shows anterior bulging swelling. Most likely diagnosis?
 
@@ -1709,7 +1709,7 @@ A 16-year-old girl has cyclic pelvic pain every month, primary amenorrhea, supra
 
 ---
 
-### Q46 — Obstetric score — previous twin delivery (current pregnancy) *(2023)*
+### Q102 — Obstetric score — previous twin delivery (current pregnancy) *(2023)*
 
 A pregnant woman already had twins delivered by normal delivery and is now pregnant. Correct obstetric score?
 
@@ -1726,7 +1726,7 @@ A pregnant woman already had twins delivered by normal delivery and is now pregn
 
 ---
 
-### Q47 — Supine hypotension in late pregnancy *(2023)*
+### Q103 — Supine hypotension in late pregnancy *(2023)*
 
 A woman at 36 weeks feels lightheaded and dizzy when lying on her back, but feels well on her side or while walking. Most likely reason?
 
@@ -2618,7 +2618,7 @@ A 30-week primigravida complaints of reduced vision at night. She has been avoid
 </details>
 
 ---
-### Q155 — In a 10-year-old school child, which *(2023)*
+### Q154 — In a 10-year-old school child, which *(2023)*
 
 In a 10-year-old school child, which of the following vaccines is given as a part of the school immunization program?
 
@@ -2635,7 +2635,7 @@ In a 10-year-old school child, which of the following vaccines is given as a par
 
 ---
 
-### Q156 — A 10-year-old child presents with throat *(2023)*
+### Q155 — A 10-year-old child presents with throat *(2023)*
 
 A 10-year-old child presents with throat pain, fever, and ear pain. He is diagnosed with recurrent tonsillitis. Which nerve is responsible for the ear pain in this patient?
 
@@ -2652,7 +2652,7 @@ A 10-year-old child presents with throat pain, fever, and ear pain. He is diagno
 
 ---
 
-### Q157 — A poor farmer with a history *(2023)*
+### Q156 — A poor farmer with a history *(2023)*
 
 A poor farmer with a history of successive crop failure develops progressive spastic paraparesis, signs of upper motor neuron paralysis, and gait instability. Name the toxin responsible for this condition.
 
@@ -2669,7 +2669,7 @@ A poor farmer with a history of successive crop failure develops progressive spa
 
 ---
 
-### Q158 — A young male came to the *(2023)*
+### Q157 — A young male came to the *(2023)*
 
 A young male came to the hospital with a clean-cut wound without any bleeding. The patient received a full course of tetanus vaccination 10 years ago. What is the best management for this patient?
 
@@ -2686,7 +2686,7 @@ A young male came to the hospital with a clean-cut wound without any bleeding. T
 
 ---
 
-### Q159 — How is water collected for bacteriological *(2023)*
+### Q158 — How is water collected for bacteriological *(2023)*
 
 How is water collected for bacteriological examination during a disease outbreak?
 
@@ -2703,7 +2703,7 @@ How is water collected for bacteriological examination during a disease outbreak
 
 ---
 
-### Q160 — A boys hostel has an outbreak *(2023)*
+### Q159 — A boys hostel has an outbreak *(2023)*
 
 A boys' hostel has an outbreak of fever cases with headache, followed by the development of pleomorphic rashes sparing palms and soles. What is the next best step in the management of suspected cases? VZIG-Varicella zoster immunoglobulin
 
@@ -2720,7 +2720,7 @@ A boys' hostel has an outbreak of fever cases with headache, followed by the dev
 
 ---
 
-### Q161 — A 35-year-old homeless man presented with *(2023)*
+### Q160 — A 35-year-old homeless man presented with *(2023)*
 
 A 35-year-old homeless man presented with a 1-month history of fever, cough, and weight loss. Both sputum smears turned out to be negative, but the chest x-ray ordered was suggestive of tuberculosis. According to the recent NTEP guidelines, which is the next best line of management?
 
@@ -2737,7 +2737,7 @@ A 35-year-old homeless man presented with a 1-month history of fever, cough, and
 
 ---
 
-### Q162 — A chronic smoker who worked in *(2023)*
+### Q161 — A chronic smoker who worked in *(2023)*
 
 A chronic smoker who worked in a cement factory for 20 years developed mesothelioma. The association is likely to be due to ________.
 
@@ -2757,7 +2757,7 @@ A chronic smoker who worked in a cement factory for 20 years developed mesotheli
 
 ## Medicine
 
-### Q163 — A patient with hyperkalemia and elevated *(2023)*
+### Q162 — A patient with hyperkalemia and elevated *(2023)*
 
 A patient with hyperkalemia and elevated urea levels underwent dialysis. Towards the end of the session, she became drowsy and had a sudden seizure episode. On examination, the patient was hypotensive. What is the treatment for this condition?
 
@@ -2774,7 +2774,7 @@ A patient with hyperkalemia and elevated urea levels underwent dialysis. Towards
 
 ---
 
-### Q164 — A middle-aged man complains of very *(2023)*
+### Q163 — A middle-aged man complains of very *(2023)*
 
 A middle-aged man complains of very early ejaculation during intercourse. What is the non-pharmacological management that can be advised to the patient?
 
@@ -2791,7 +2791,7 @@ A middle-aged man complains of very early ejaculation during intercourse. What i
 
 ---
 
-### Q165 — What is the diagnostic test done *(2023)*
+### Q164 — What is the diagnostic test done *(2023)*
 
 What is the diagnostic test done on this patient?
 
@@ -2808,7 +2808,7 @@ What is the diagnostic test done on this patient?
 
 ---
 
-### Q166 — A newborn presented with chest retractions, *(2023)*
+### Q165 — A newborn presented with chest retractions, *(2023)*
 
 A newborn presented with chest retractions, dyspnea, and lethargy. The pediatrician diagnosed the baby with respiratory distress syndrome. This occurs due to the deficiency of:
 
@@ -2825,7 +2825,7 @@ A newborn presented with chest retractions, dyspnea, and lethargy. The pediatric
 
 ---
 
-### Q167 — A male patient presented to the *(2023)*
+### Q166 — A male patient presented to the *(2023)*
 
 A male patient presented to the emergency room with seizures. He has a history of fever, headache, and confusion. An MRI brain was done, and it showed inflammation involving the bitemporal lobe. What is the most likely aetiology for this presentation? er
 
@@ -2842,7 +2842,7 @@ A male patient presented to the emergency room with seizures. He has a history o
 
 ---
 
-### Q168 — A male patient presents with sensory *(2023)*
+### Q167 — A male patient presents with sensory *(2023)*
 
 A male patient presents with sensory loss and weakness of limbs for 3 months. He also has angular stomatitis. On examination, there is loss of proprioception, vibration sensations, UMN type of lower limb weakness, and absent ankle reflex. What is the most probable diagnosis? ep
 
@@ -2859,7 +2859,7 @@ A male patient presents with sensory loss and weakness of limbs for 3 months. He
 
 ---
 
-### Q169 — A 40-year-old female patient came with *(2023)*
+### Q168 — A 40-year-old female patient came with *(2023)*
 
 A 40-year-old female patient came with complaints of chest pain, palpitation, and shortness of breath. On examination, a mid-diastolic murmur was heard, and a prominent 'a' wave was found on JVP. What is the most likely diagnosis?
 
@@ -2879,7 +2879,7 @@ A 40-year-old female patient came with complaints of chest pain, palpitation, an
 
 ## Surgery
 
-### Q170 — A 55-year-old male presented with verrucous *(2023)*
+### Q169 — A 55-year-old male presented with verrucous *(2023)*
 
 A 55-year-old male presented with verrucous carcinoma around the glans of the penis. Examination reveals that the inguinal lymph nodes are not enlarged. What is the appropriate management for this patient?
 
@@ -2896,7 +2896,7 @@ A 55-year-old male presented with verrucous carcinoma around the glans of the pe
 
 ---
 
-### Q171 — A diabetic patient presents with sudden-onset *(2023)*
+### Q170 — A diabetic patient presents with sudden-onset *(2023)*
 
 A diabetic patient presents with sudden-onset perineal pain. On examination, foul-smelling discharge, and necrotic tissue as seen in the image is noted. Which of the following is true about the given condition? ep
 
@@ -2913,7 +2913,7 @@ A diabetic patient presents with sudden-onset perineal pain. On examination, fou
 
 ---
 
-### Q172 — Which of the following is the *(2023)*
+### Q171 — Which of the following is the *(2023)*
 
 Which of the following is the most common complication following ligation of the first vessel during abdominoperineal resection for rectal carcinoma? (APR Abdominoperineal resection)
 
@@ -2930,7 +2930,7 @@ Which of the following is the most common complication following ligation of the
 
 ---
 
-### Q173 — A 45-year-old male underwent bilateral laparoscopi *(2023)*
+### Q172 — A 45-year-old male underwent bilateral laparoscopi *(2023)*
 
 A 45-year-old male underwent bilateral laparoscopic hernia repair for inguinal hernia. Postoperatively, he complained of pain in the right thigh. Which of the following nerve entrapment leads to this symptom? er
 
@@ -2947,7 +2947,7 @@ A 45-year-old male underwent bilateral laparoscopic hernia repair for inguinal h
 
 ---
 
-### Q174 — Echinococcus species is involved in etiology *(2023)*
+### Q173 — Echinococcus species is involved in etiology *(2023)*
 
 Echinococcus species is involved in etiology Ans: 4 A patient who is a known case of alcohol dependence syndrome presents with sudden and unintentional weight loss. What is the most likely diagnosis? -ALP 240 IU/L -S. Direct bilirubin - 1 mg/dL -AST/ALT -0.5 -Alpha fetoprotein- 600 ng/mL
 
@@ -2964,7 +2964,7 @@ Echinococcus species is involved in etiology Ans: 4 A patient who is a known cas
 
 ---
 
-### Q175 — A female patient with hearing loss *(2023)*
+### Q174 — A female patient with hearing loss *(2023)*
 
 A female patient with hearing loss is examined and is found to be Rinne negative at 256 Hz and 512 Hz, while Rinne positive at 1024 Hz. What is the expected air conduction and bone conduction gap?
 
@@ -2981,7 +2981,7 @@ A female patient with hearing loss is examined and is found to be Rinne negative
 
 ---
 
-### Q176 — A 50-year-old patient with a history *(2023)*
+### Q175 — A 50-year-old patient with a history *(2023)*
 
 A 50-year-old patient with a history of trauma one week back presents with confusion and ataxia. He is on treatment for alcohol dependence and his last intake was 2 weeks back. CT scan reveals the following finding. What is the diagnosis? ep
 
@@ -2998,7 +2998,7 @@ A 50-year-old patient with a history of trauma one week back presents with confu
 
 ---
 
-### Q177 — Which of the following is false *(2023)*
+### Q176 — Which of the following is false *(2023)*
 
 Which of the following is false about the given condition?
 
@@ -3015,7 +3015,7 @@ Which of the following is false about the given condition?
 
 ---
 
-### Q178 — A construction worker came to the *(2023)*
+### Q177 — A construction worker came to the *(2023)*
 
 A construction worker came to the OPD complaining of white fingers. He has been working in the cement and concrete industry and has been working on heavy machinery drills, wood, and furniture polishing for 20 years. What is the most likely etiology for this condition? Pr
 
@@ -3032,7 +3032,7 @@ A construction worker came to the OPD complaining of white fingers. He has been 
 
 ---
 
-### Q179 — A patient with a previous history *(2023)*
+### Q178 — A patient with a previous history *(2023)*
 
 A patient with a previous history of myocardial infarction and ventricular arrhythmia is on treatment for a few months. He developed fatigue, dyspnea, and weight gain. He had also developed pulmonary fibrosis. Which of the following drugs is responsible for the side effects mentioned above?
 
@@ -3049,7 +3049,7 @@ A patient with a previous history of myocardial infarction and ventricular arrhy
 
 ---
 
-### Q180 — A chronic smoker was on nicotine *(2023)*
+### Q179 — A chronic smoker was on nicotine *(2023)*
 
 A chronic smoker was on nicotine replacement therapy and clonidine tablets for smoking de-addiction. He stopped taking clonidine tablets and now presents with a headache. What is the reason behind this condition?
 
@@ -3066,7 +3066,7 @@ A chronic smoker was on nicotine replacement therapy and clonidine tablets for s
 
 ---
 
-### Q181 — A patient with varicose veins complains *(2023)*
+### Q180 — A patient with varicose veins complains *(2023)*
 
 A patient with varicose veins complains of eczema over the same region. What is the stage of the clinical classification according to the CEAP guidelines? CEAP-Clinical-Aetiology-Anatomy- Pathophysiology classification of chronic venous disorders
 
@@ -3083,7 +3083,7 @@ A patient with varicose veins complains of eczema over the same region. What is 
 
 ---
 
-### Q182 — A 20-year-old female patient consumed a *(2023)*
+### Q181 — A 20-year-old female patient consumed a *(2023)*
 
 A 20-year-old female patient consumed a cleaning product containing 90% sodium hydroxide. She is having complete dysphagia. What is the best step in management?
 
@@ -3100,7 +3100,7 @@ A 20-year-old female patient consumed a cleaning product containing 90% sodium h
 
 ---
 
-### Q183 — A 23-year-old male patient presents with *(2023)*
+### Q182 — A 23-year-old male patient presents with *(2023)*
 
 A 23-year-old male patient presents with midline swelling in the neck. The swelling moves with deglutition and protrusion of the tongue. What is the likely diagnosis?
 
@@ -3117,7 +3117,7 @@ A 23-year-old male patient presents with midline swelling in the neck. The swell
 
 ---
 
-### Q184 — A 54-year-old woman presents with cervical *(2023)*
+### Q183 — A 54-year-old woman presents with cervical *(2023)*
 
 A 54-year-old woman presents with cervical cancer stage 2A. It is decided to give neoadjuvant chemotherapy. What does neoadjuvant chemotherapy mean?
 
@@ -3137,7 +3137,7 @@ A 54-year-old woman presents with cervical cancer stage 2A. It is decided to giv
 
 ## Obstetrics & Gynaecology
 
-### Q185 — A patient comes to the casualty *(2023)*
+### Q184 — A patient comes to the casualty *(2023)*
 
 A patient comes to the casualty with organophosphate poisoning. He was started on atropine infusion and pralidoxime. After 2 hours, the patient had a sudden rise in temperature. What is the likely cause of fever?
 
@@ -3154,7 +3154,7 @@ A patient comes to the casualty with organophosphate poisoning. He was started o
 
 ---
 
-### Q186 — For which of the following procedures *(2023)*
+### Q185 — For which of the following procedures *(2023)*
 
 For which of the following procedures in the given OT list, can you preferably do a hysteroscopy?
 
@@ -3171,7 +3171,7 @@ For which of the following procedures in the given OT list, can you preferably d
 
 ---
 
-### Q187 — A primigravida presents to you with *(2023)*
+### Q186 — A primigravida presents to you with *(2023)*
 
 A primigravida presents to you with anemia early in her pregnancy. She is 7 weeks pregnant as seen on ultrasound. Her hemoglobin level is 9 g/dL. When should the iron supplements be started for her?
 
@@ -3188,7 +3188,7 @@ A primigravida presents to you with anemia early in her pregnancy. She is 7 week
 
 ---
 
-### Q188 — A 50-year-old woman presents with foul-smelling *(2023)*
+### Q187 — A 50-year-old woman presents with foul-smelling *(2023)*
 
 A 50-year-old woman presents with foul-smelling bloody discharge per vagina mixed with mucous. On examination, a necrotizing growth is seen in the cervix with lateral parametrium involvement. What is the management for this patient?
 
@@ -3205,7 +3205,7 @@ A 50-year-old woman presents with foul-smelling bloody discharge per vagina mixe
 
 ---
 
-### Q189 — A 28-year-old woman with a history *(2023)*
+### Q188 — A 28-year-old woman with a history *(2023)*
 
 A 28-year-old woman with a history of multiple sexual partners presents with lower abdominal pain for 1 month. She experiences minimal discharge and complaints of intermenstrual bleeding. What is the most likely cause?
 
@@ -3222,7 +3222,7 @@ A 28-year-old woman with a history of multiple sexual partners presents with low
 
 ---
 
-### Q190 — A woman is set to undergo *(2023)*
+### Q189 — A woman is set to undergo *(2023)*
 
 A woman is set to undergo a complete laparoscopic hysterectomy. She wants to know if there are any disadvantages to this procedure. What are the disadvantages of laproscopis over-open surgery? Pr
 
@@ -3239,7 +3239,7 @@ A woman is set to undergo a complete laparoscopic hysterectomy. She wants to kno
 
 ---
 
-### Q191 — A 27-year-old pregnant G3P2L2 woman presents *(2023)*
+### Q190 — A 27-year-old pregnant G3P2L2 woman presents *(2023)*
 
 A 27-year-old pregnant G3P2L2 woman presents to you at 36+6 weeks. Ultrasound is done and shows the fetus is in a transverse lie. The liquor is adequate, the placenta is normal, and she has no risk factors. Both her previous deliveries were normal vaginal deliveries. How will you manage this patient?
 
@@ -3256,7 +3256,7 @@ A 27-year-old pregnant G3P2L2 woman presents to you at 36+6 weeks. Ultrasound is
 
 ---
 
-### Q192 — During a hysteroscopic removal of a *(2023)*
+### Q191 — During a hysteroscopic removal of a *(2023)*
 
 During a hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL is estimated in a patient. What is the immediate complication of this?
 
@@ -3273,7 +3273,7 @@ During a hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 
 
 ---
 
-### Q193 — A 54-year-old woman was diagnosed with *(2023)*
+### Q192 — A 54-year-old woman was diagnosed with *(2023)*
 
 A 54-year-old woman was diagnosed with advanced cervical cancer. She has a 14-year-old daughter. What advice would you give her daughter?
 
@@ -3290,7 +3290,7 @@ A 54-year-old woman was diagnosed with advanced cervical cancer. She has a 14-ye
 
 ---
 
-### Q194 — A 17-year-old girl is seen for *(2023)*
+### Q193 — A 17-year-old girl is seen for *(2023)*
 
 A 17-year-old girl is seen for primary amenorrhea. There is no development of breasts or hair in the pubic or axillary region. Her height is 155 cm, and her weight is 48 kg. She has bilateral inguinal masses. The uterus, fallopian tube, and Ovary are absent on ultrasound examination. What is the most likely diagnosis?
 
@@ -3307,7 +3307,7 @@ A 17-year-old girl is seen for primary amenorrhea. There is no development of br
 
 ---
 
-### Q195 — A 16-year-old girl presents with cyclical *(2023)*
+### Q194 — A 16-year-old girl presents with cyclical *(2023)*
 
 A 16-year-old girl presents with cyclical pelvic pain every month. She has not achieved menarche yet. On examination, a suprapubic bulge can be seen in the lower abdomen. PR examination reveals a bulging swelling in the anterior aspect. What is the most likely diagnosis?
 
@@ -3324,7 +3324,7 @@ A 16-year-old girl presents with cyclical pelvic pain every month. She has not a
 
 ---
 
-### Q196 — A pregnant woman comes to the *(2023)*
+### Q195 — A pregnant woman comes to the *(2023)*
 
 A pregnant woman comes to the clinic. She already has twins by normal delivery. Which of the following is the correct representation of her obstetric score?
 
@@ -3344,7 +3344,7 @@ A pregnant woman comes to the clinic. She already has twins by normal delivery. 
 
 ## Paediatrics
 
-### Q197 — A 10-year-old child weighing 30 kg *(2023)*
+### Q196 — A 10-year-old child weighing 30 kg *(2023)*
 
 A 10-year-old child weighing 30 kg presents with a history of loose stools for 2 days. On examination, there is severe dehydration. Laboratory investigations are as follows. What is the initial management as per ISPAD guidelines? RBS 550mg/dL pH 7.01 158mEq/L 3+
 
@@ -3361,7 +3361,7 @@ A 10-year-old child weighing 30 kg presents with a history of loose stools for 2
 
 ---
 
-### Q198 — Na Urine glucose Which of the *(2023)*
+### Q197 — Na Urine glucose Which of the *(2023)*
 
 Na+ Urine glucose Which of the following is the best sign to indicate adequate growth in an infant with a birth weight of 2.8 kg?
 
@@ -3378,7 +3378,7 @@ Na+ Urine glucose Which of the following is the best sign to indicate adequate g
 
 ---
 
-### Q199 — A 3-month-old baby complains of deafness, *(2023)*
+### Q198 — A 3-month-old baby complains of deafness, *(2023)*
 
 A 3-month-old baby complains of deafness, cataract, and patent ductus arteriosus. Which of the following is the most likely diagnosis?
 
@@ -3395,7 +3395,7 @@ A 3-month-old baby complains of deafness, cataract, and patent ductus arteriosus
 
 ---
 
-### Q200 — Research is being conducted to find *(2023)*
+### Q199 — Research is being conducted to find *(2023)*
 
 Research is being conducted to find the association between aniline dye exposure and bladder cancer in workers who have worked in the industry for >20 years. Two groups were formed: one directly involved with dye handling and the other group consisting of office clerks not directly exposed to the dye. Years of occupation were noted from records. What type of study is being performed?
 
@@ -3412,7 +3412,7 @@ Research is being conducted to find the association between aniline dye exposure
 
 ---
 
-### Q201 — A child presents with fever and *(2023)*
+### Q200 — A child presents with fever and *(2023)*
 
 A child presents with fever and a rash spreading from the face, behind cheeks, and buccal mucosa to other body parts. On examination, Koplik's spot is present. What is the likely diagnosis?
 
@@ -3429,7 +3429,7 @@ A child presents with fever and a rash spreading from the face, behind cheeks, a
 
 ---
 
-### Q202 — A 3-week-old infant presents with a *(2023)*
+### Q201 — A 3-week-old infant presents with a *(2023)*
 
 A 3-week-old infant presents with a cough and sore throat. The mother reports that the infant develops a paroxysm of cough followed by apnea. The total leucocyte count is >50,000 cells/μL. Which of the following drugs will you prescribe for this patient?
 
@@ -3449,7 +3449,7 @@ A 3-week-old infant presents with a cough and sore throat. The mother reports th
 
 ## Orthopaedics
 
-### Q203 — The true statement among the following *(2023)*
+### Q202 — The true statement among the following *(2023)*
 
 The true statement among the following is___
 
@@ -3469,7 +3469,7 @@ The true statement among the following is___
 
 ## Ophthalmology
 
-### Q204 — A child presents with mental retardation, *(2023)*
+### Q203 — A child presents with mental retardation, *(2023)*
 
 A child presents with mental retardation, bone pain, and inability to walk. On funduscopic examination, a cherry red spot is seen. There is no organomegaly. What is the most likely diagnosis?
 
@@ -3486,7 +3486,7 @@ A child presents with mental retardation, bone pain, and inability to walk. On f
 
 ---
 
-### Q205 — The eye examination of a 20-year-old *(2023)*
+### Q204 — The eye examination of a 20-year-old *(2023)*
 
 The eye examination of a 20-year-old male shows a golden ring on the iris. What is the next investigation to diagnose the condition?
 
@@ -3506,7 +3506,7 @@ The eye examination of a 20-year-old male shows a golden ring on the iris. What 
 
 ## Psychiatry
 
-### Q206 — A schizophrenic patient was prescribed drug *(2023)*
+### Q205 — A schizophrenic patient was prescribed drug *(2023)*
 
 A schizophrenic patient was prescribed drug A after he did not respond to haloperidol and thioridazine. He now presents with excessive salivation, an increase in blood glucose, and hyperlipidemia. What is drug A?
 
@@ -3523,7 +3523,7 @@ A schizophrenic patient was prescribed drug A after he did not respond to halope
 
 ---
 
-### Q207 — A woman, who is 4 days *(2023)*
+### Q206 — A woman, who is 4 days *(2023)*
 
 A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and occasional insomnia. What is the likely diagnosis?
 
@@ -3540,7 +3540,7 @@ A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and 
 
 ---
 
-### Q208 — A 25-year-old female reported symptoms of *(2023)*
+### Q207 — A 25-year-old female reported symptoms of *(2023)*
 
 A 25-year-old female reported symptoms of anxiety, palpitations, sweating, breathlessness, chest pain, and a feeling of impending doom. She recalls having experienced 5-6 similar episodes in the past 6 months, each episode lasting for about 20-30 minutes. What is the likely diagnosis?
 
@@ -3560,7 +3560,7 @@ A 25-year-old female reported symptoms of anxiety, palpitations, sweating, breat
 
 ## Radiology
 
-### Q209 — O2 Parotid tumor O3 Sebaceous cyst *(2023)*
+### Q208 — O2 Parotid tumor O3 Sebaceous cyst *(2023)*
 
 O2: Parotid tumor O3: Sebaceous cyst O4: Cervical lymph node Ans: 2 A woman with endometrial carcinoma is undergoing radiotherapy. Which of the following is true? Pr
 
@@ -3577,7 +3577,7 @@ O2: Parotid tumor O3: Sebaceous cyst O4: Cervical lymph node Ans: 2 A woman with
 
 ---
 
-### Q210 — A child before playing consumed fruit *(2023)*
+### Q209 — A child before playing consumed fruit *(2023)*
 
 A child before playing consumed fruit from the garden. After some time he developed a high fever, confusion, photophobia, and unable to urinate. What are the likely causative agent and the appropriate antidote used in this case?
 
@@ -3597,7 +3597,7 @@ A child before playing consumed fruit from the garden. After some time he develo
 
 ## Anaesthesia
 
-### Q211 — O3 Malignant melanoma O4 Basal cell *(2023)*
+### Q210 — O3 Malignant melanoma O4 Basal cell *(2023)*
 
 O3: Malignant melanoma O4: Basal cell carcinoma Ans: 3 Which of the following is the drug of choice for preoperative antibiotic prophylaxis in a patient undergoing cardiac surgery?
 
@@ -3614,7 +3614,7 @@ O3: Malignant melanoma O4: Basal cell carcinoma Ans: 3 Which of the following is
 
 ---
 
-### Q212 — During resuscitation, when is the given *(2023)*
+### Q211 — During resuscitation, when is the given *(2023)*
 
 During resuscitation, when is the given position indicated? La
 

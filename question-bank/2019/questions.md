@@ -5893,7 +5893,7 @@ Type of sensation lost on same side of Brown-Séquard syndrome:
 ---
 ## Physiology
 
-### Q348 — Hormone predominately secreted after 14 day on *(2019)*
+### Q347 — Hormone predominately secreted after 14 day on *(2019)*
 
 Hormone predominately secreted after 14 day on endometrium is?
 
@@ -5910,7 +5910,7 @@ Hormone predominately secreted after 14 day on endometrium is?
 
 ---
 
-### Q349 — Polyuria is defined as urine output more *(2019)*
+### Q348 — Polyuria is defined as urine output more *(2019)*
 
 Polyuria is defined as urine output more than:
 
@@ -5926,7 +5926,7 @@ Polyuria is defined as urine output more than:
 </details>
 
 ---
-### Q351 — Day 20 of menstrual cycle falls under *(2019)*
+### Q349 — Day 20 of menstrual cycle falls under *(2019)*
 
 Day 20 of menstrual cycle falls under which phase?
 
@@ -5945,7 +5945,7 @@ Day 20 of menstrual cycle falls under which phase?
 
 
 ## Biochemistry
-### Q354 — A 25 year old alcoholic presented with *(2019)*
+### Q350 — A 25 year old alcoholic presented with *(2019)*
 
 A 25 year old alcoholic presented with edema,hypertension, ocular disturbance,and changes in mental state was observed, diagnosis of high output cardiac failure was made with Wet Beri Beri, this is due to deficiency of?
 
@@ -5961,7 +5961,7 @@ A 25 year old alcoholic presented with edema,hypertension, ocular disturbance,an
 </details>
 
 ---
-### Q358 — Type of necrosis seen in blood vessels *(2019)*
+### Q351 — Type of necrosis seen in blood vessels *(2019)*
 
 Type of necrosis seen in blood vessels due to immune reactionsa) Coagulation b) Liquefaction c) Fibrinoid d) None
 
@@ -5978,7 +5978,7 @@ Type of necrosis seen in blood vessels due to immune reactionsa) Coagulation b) 
 
 ---
 
-### Q359 — In Wilsons disease, there is less urinary *(2019)*
+### Q352 — In Wilsons disease, there is less urinary *(2019)*
 
 In Wilson's disease, there is less urinary excretion of:
 
@@ -5995,7 +5995,7 @@ In Wilson's disease, there is less urinary excretion of:
 
 ---
 
-### Q360 — Krabbes disease is *(2019)*
+### Q353 — Krabbes disease is *(2019)*
 
 Krabbe's disease is:
 
@@ -6015,7 +6015,7 @@ Krabbe's disease is:
 
 ## Pathology
 
-### Q361 — Which of the following is an anti-apoptotic *(2019)*
+### Q354 — Which of the following is an anti-apoptotic *(2019)*
 
 Which of the following is an anti-apoptotic gene:
 
@@ -6032,7 +6032,7 @@ Which of the following is an anti-apoptotic gene:
 
 ---
 
-### Q362 — Fish mouth appearance of valve in RHD *(2019)*
+### Q355 — Fish mouth appearance of valve in RHD *(2019)*
 
 Fish mouth appearance of valve in RHD is due to:
 
@@ -6049,7 +6049,7 @@ Fish mouth appearance of valve in RHD is due to:
 
 ---
 
-### Q363 — Infarcts involving which portion of the myocardium *(2019)*
+### Q356 — Infarcts involving which portion of the myocardium *(2019)*
 
 Infarcts involving which portion of the myocardium cause aneurysm as a post-MI complication:
 
@@ -6072,7 +6072,7 @@ Infarcts involving which portion of the myocardium cause aneurysm as a post-MI c
 ## Forensic Medicine
 ## Community Medicine
 
-### Q372 — Diagnostic power of a test to correctly *(2019)*
+### Q357 — Diagnostic power of a test to correctly *(2019)*
 
 Diagnostic power of a test to correctly diagnose a disease is:
 
@@ -6089,7 +6089,7 @@ Diagnostic power of a test to correctly diagnose a disease is:
 
 ---
 
-### Q373 — All of the following are examples of *(2019)*
+### Q358 — All of the following are examples of *(2019)*
 
 All of the following are examples of dietary fibre EXCEPT:
 
@@ -6106,7 +6106,7 @@ All of the following are examples of dietary fibre EXCEPT:
 
 ---
 
-### Q374 — In a normal distribution curve, the area *(2019)*
+### Q359 — In a normal distribution curve, the area *(2019)*
 
 In a normal distribution curve, the area that comes under 1 standard deviation is:
 
@@ -6123,7 +6123,7 @@ In a normal distribution curve, the area that comes under 1 standard deviation i
 
 ---
 
-### Q375 — The significance of difference between proportions *(2019)*
+### Q360 — The significance of difference between proportions *(2019)*
 
 The significance of difference between proportions can be tested by:
 
@@ -6140,7 +6140,7 @@ The significance of difference between proportions can be tested by:
 
 ---
 
-### Q376 — Dose of diphtheria antitoxin is *(2019)*
+### Q361 — Dose of diphtheria antitoxin is *(2019)*
 
 Dose of diphtheria antitoxin is:
 
@@ -6159,7 +6159,7 @@ Dose of diphtheria antitoxin is:
 
 
 ## Medicine
-### Q379 — A 36 yrs old male patient c/,o *(2019)*
+### Q362 — A 36 yrs old male patient c/,o *(2019)*
 
 A 36 yrs old male patient c/,o cough cold fever/rusty sputum / sputum neg for tb ,h/o of travel in china & eaten crab, Name the infection
 
@@ -6176,7 +6176,7 @@ A 36 yrs old male patient c/,o cough cold fever/rusty sputum / sputum neg for tb
 
 ---
 
-### Q380 — Which wall of heart enlargement can be *(2019)*
+### Q363 — Which wall of heart enlargement can be *(2019)*
 
 Which wall of heart enlargement can be seen on barium swallow in mitral stenosis:
 
@@ -6192,7 +6192,7 @@ Which wall of heart enlargement can be seen on barium swallow in mitral stenosis
 </details>
 
 ---
-### Q383 — Which of the following statement is correct *(2019)*
+### Q364 — Which of the following statement is correct *(2019)*
 
 Which of the following statement is correct about acute fatty liver of pregnancy?
 
@@ -6212,7 +6212,7 @@ Which of the following statement is correct about acute fatty liver of pregnancy
 
 ## Surgery
 
-### Q384 — CEAP score indicates *(2019)*
+### Q365 — CEAP score indicates *(2019)*
 
 CEAP score indicates:
 
@@ -6229,7 +6229,7 @@ CEAP score indicates:
 
 ---
 
-### Q385 — Cushing ulcer is seen in case of *(2019)*
+### Q366 — Cushing ulcer is seen in case of *(2019)*
 
 Cushing ulcer is seen in case of:
 
@@ -6249,7 +6249,7 @@ Cushing ulcer is seen in case of:
 
 ## Obstetrics & Gynaecology
 
-### Q386 — Overt gestational diabetes is defined as blood *(2019)*
+### Q367 — Overt gestational diabetes is defined as blood *(2019)*
 
 Overt gestational diabetes is defined as blood glucose more than_?
 
@@ -6266,7 +6266,7 @@ Overt gestational diabetes is defined as blood glucose more than_?
 
 ---
 
-### Q387 — MgSO4 has NO role in prevention of *(2019)*
+### Q368 — MgSO4 has NO role in prevention of *(2019)*
 
 MgSO4 has NO role in prevention of:
 
@@ -6283,7 +6283,7 @@ MgSO4 has NO role in prevention of:
 
 ---
 
-### Q388 — Double decidua sign is seen during *(2019)*
+### Q369 — Double decidua sign is seen during *(2019)*
 
 Double decidua sign is seen during:
 
@@ -6300,7 +6300,7 @@ Double decidua sign is seen during:
 
 ---
 
-### Q389 — First line of treatment of mastitis in *(2019)*
+### Q370 — First line of treatment of mastitis in *(2019)*
 
 First line of treatment of mastitis in a lactating mother:
 
@@ -6317,7 +6317,7 @@ First line of treatment of mastitis in a lactating mother:
 
 ---
 
-### Q390 — Gestational trophoblastic neoplasm does NOT includ *(2019)*
+### Q371 — Gestational trophoblastic neoplasm does NOT includ *(2019)*
 
 Gestational trophoblastic neoplasm does NOT include:
 
@@ -6334,7 +6334,7 @@ Gestational trophoblastic neoplasm does NOT include:
 
 ---
 
-### Q391 — 45 years female with 3 months menorrhagia *(2019)*
+### Q372 — 45 years female with 3 months menorrhagia *(2019)*
 
 45 years female with 3 months menorrhagia. USG showing 2 cm submucosal fibroid.Treatment options.
 
@@ -6351,7 +6351,7 @@ Gestational trophoblastic neoplasm does NOT include:
 
 ---
 
-### Q392 — In low ovarian reserve,anti mullerian hormone leve *(2019)*
+### Q373 — In low ovarian reserve,anti mullerian hormone leve *(2019)*
 
 In low ovarian reserve,anti mullerian hormone level will be:
 
@@ -6368,7 +6368,7 @@ In low ovarian reserve,anti mullerian hormone level will be:
 
 ---
 
-### Q393 — The major contribution of the amniotic fluid *(2019)*
+### Q374 — The major contribution of the amniotic fluid *(2019)*
 
 The major contribution of the amniotic fluid after 20 weeks of gestation :
 
@@ -6385,7 +6385,7 @@ The major contribution of the amniotic fluid after 20 weeks of gestation :
 
 ---
 
-### Q394 — PGF2 alpha maximum dose in PPH *(2019)*
+### Q375 — PGF2 alpha maximum dose in PPH *(2019)*
 
 PGF2 alpha maximum dose in PPH:
 
@@ -6405,7 +6405,7 @@ PGF2 alpha maximum dose in PPH:
 
 ## Paediatrics
 
-### Q395 — Most characteristic cardiovascular defect seen in *(2019)*
+### Q376 — Most characteristic cardiovascular defect seen in *(2019)*
 
 Most characteristic cardiovascular defect seen in Rubella:
 
@@ -6422,7 +6422,7 @@ Most characteristic cardiovascular defect seen in Rubella:
 
 ---
 
-### Q396 — Most common indication for liver transplant in *(2019)*
+### Q377 — Most common indication for liver transplant in *(2019)*
 
 Most common indication for liver transplant in children:
 
@@ -6439,7 +6439,7 @@ Most common indication for liver transplant in children:
 
 ---
 
-### Q397 — Severe acute malnutrition as per WHO criteria *(2019)*
+### Q378 — Severe acute malnutrition as per WHO criteria *(2019)*
 
 Severe acute malnutrition as per WHO criteria:
 
@@ -6456,7 +6456,7 @@ Severe acute malnutrition as per WHO criteria:
 
 ---
 
-### Q398 — True about Fragile X syndrome is *(2019)*
+### Q379 — True about Fragile X syndrome is *(2019)*
 
 True about Fragile X syndrome is:
 
@@ -6473,7 +6473,7 @@ True about Fragile X syndrome is:
 
 ---
 
-### Q399 — In 34 weeks gestation the weight of *(2019)*
+### Q380 — In 34 weeks gestation the weight of *(2019)*
 
 In 34 weeks gestation the weight of baby was 3kg.The child shows following features may indicate associated condition –
 
@@ -6493,7 +6493,7 @@ In 34 weeks gestation the weight of baby was 3kg.The child shows following featu
 
 ## ENT
 
-### Q400 — Dohlman procedure is for *(2019)*
+### Q381 — Dohlman procedure is for *(2019)*
 
 Dohlman procedure is for:
 

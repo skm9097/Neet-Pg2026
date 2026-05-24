@@ -1608,7 +1608,7 @@ Insulin like growth factor is secreted by
 </details>
 
 ---
-### Q95 — Which of the following is endogenous *(2018)*
+### Q94 — Which of the following is endogenous *(2018)*
 
 Which of the following is endogenous pyrogen
 
@@ -1625,7 +1625,7 @@ Which of the following is endogenous pyrogen
 
 ---
 
-### Q96 — In Bartter syndrome defect is seen *(2018)*
+### Q95 — In Bartter syndrome defect is seen *(2018)*
 
 In Bartter syndrome defect is seen in
 
@@ -1642,7 +1642,7 @@ In Bartter syndrome defect is seen in
 
 ---
 
-### Q97 — Nitric oxide acts by increasing *(2018)*
+### Q96 — Nitric oxide acts by increasing *(2018)*
 
 Nitric oxide acts by increasing
 
@@ -1662,7 +1662,7 @@ Nitric oxide acts by increasing
 
 ## Biochemistry
 
-### Q98 — Tyrosinosis is caused due to deficiency *(2018)*
+### Q97 — Tyrosinosis is caused due to deficiency *(2018)*
 
 Tyrosinosis is caused due to deficiency of which enzyme
 
@@ -1679,7 +1679,7 @@ Tyrosinosis is caused due to deficiency of which enzyme
 
 ---
 
-### Q99 — LeschNyhan syndrome is caused by deficiency *(2018)*
+### Q98 — LeschNyhan syndrome is caused by deficiency *(2018)*
 
 Lesch–Nyhan syndrome is caused by deficiency of which enzyme
 
@@ -1696,7 +1696,7 @@ Lesch–Nyhan syndrome is caused by deficiency of which enzyme
 
 ---
 
-### Q100 — Fish odor syndrome is caused by *(2018)*
+### Q99 — Fish odor syndrome is caused by *(2018)*
 
 Fish odor syndrome is caused by deficiency of which enzyme
 
@@ -1713,7 +1713,7 @@ Fish odor syndrome is caused by deficiency of which enzyme
 
 ---
 
-### Q101 — Galactosemia is due to deficiency of *(2018)*
+### Q100 — Galactosemia is due to deficiency of *(2018)*
 
 Galactosemia is due to deficiency of which enzymes
 
@@ -1730,7 +1730,7 @@ Galactosemia is due to deficiency of which enzymes
 
 ---
 
-### Q102 — About DNA polymerase I which one *(2018)*
+### Q101 — About DNA polymerase I which one *(2018)*
 
 About DNA polymerase I which one is correct
 
@@ -1747,7 +1747,7 @@ About DNA polymerase I which one is correct
 
 ---
 
-### Q103 — What does chaperones assist in *(2018)*
+### Q102 — What does chaperones assist in *(2018)*
 
 What does chaperones assist in
 
@@ -1764,7 +1764,7 @@ What does chaperones assist in
 
 ---
 
-### Q104 — In Cystinuria all of the following *(2018)*
+### Q103 — In Cystinuria all of the following *(2018)*
 
 In Cystinuria all of the following aminoacids reabsorption defect is present, except
 
@@ -1781,7 +1781,7 @@ In Cystinuria all of the following aminoacids reabsorption defect is present, ex
 
 ---
 
-### Q105 — HIAA in urine present in *(2018)*
+### Q104 — HIAA in urine present in *(2018)*
 
 HIAA in urine present in
 
@@ -1798,7 +1798,7 @@ HIAA in urine present in
 
 ---
 
-### Q106 — Phenylketonuria is due to deficiency of *(2018)*
+### Q105 — Phenylketonuria is due to deficiency of *(2018)*
 
 Phenylketonuria is due to deficiency of
 
@@ -1815,7 +1815,7 @@ Phenylketonuria is due to deficiency of
 
 ---
 
-### Q107 — Which one of the following shows *(2018)*
+### Q106 — Which one of the following shows *(2018)*
 
 Which one of the following shows allosteric inhibition
 
@@ -1835,7 +1835,7 @@ Which one of the following shows allosteric inhibition
 
 ## Pathology
 
-### Q108 — Warthin finkeldey cells are seen in *(2018)*
+### Q107 — Warthin finkeldey cells are seen in *(2018)*
 
 Warthin finkeldey cells are seen in
 
@@ -1852,7 +1852,7 @@ Warthin finkeldey cells are seen in
 
 ---
 
-### Q109 — CD59 marker of which disease *(2018)*
+### Q108 — CD59 marker of which disease *(2018)*
 
 CD59 marker of which disease
 
@@ -1869,7 +1869,7 @@ CD59 marker of which disease
 
 ---
 
-### Q110 — Opsonin is *(2018)*
+### Q109 — Opsonin is *(2018)*
 
 Opsonin is
 
@@ -1886,7 +1886,7 @@ Opsonin is
 
 ---
 
-### Q111 — BernardSoulier syndrome due to deficiency of *(2018)*
+### Q110 — BernardSoulier syndrome due to deficiency of *(2018)*
 
 Bernard–Soulier syndrome due to deficiency of
 
@@ -1903,7 +1903,7 @@ Bernard–Soulier syndrome due to deficiency of
 
 ---
 
-### Q112 — Cowden syndrome *(2018)*
+### Q111 — Cowden syndrome *(2018)*
 
 Cowden syndrome
 
@@ -1920,7 +1920,7 @@ Cowden syndrome
 
 ---
 
-### Q113 — Chromosome involved in myotonic dystrophy is *(2018)*
+### Q112 — Chromosome involved in myotonic dystrophy is *(2018)*
 
 Chromosome involved in myotonic dystrophy is
 
@@ -1937,7 +1937,7 @@ Chromosome involved in myotonic dystrophy is
 
 ---
 
-### Q114 — TRALI occurs within how many hours *(2018)*
+### Q113 — TRALI occurs within how many hours *(2018)*
 
 TRALI occurs within how many hours of transfusion
 
@@ -1954,7 +1954,7 @@ TRALI occurs within how many hours of transfusion
 
 ---
 
-### Q115 — Which of the following is epithelial *(2018)*
+### Q114 — Which of the following is epithelial *(2018)*
 
 Which of the following is epithelial tumor of stomach
 
@@ -1971,7 +1971,7 @@ Which of the following is epithelial tumor of stomach
 
 ---
 
-### Q116 — Identify an X linked disorder *(2018)*
+### Q115 — Identify an X linked disorder *(2018)*
 
 Identify an X linked disorder
 
@@ -1988,7 +1988,7 @@ Identify an X linked disorder
 
 ---
 
-### Q117 — H And L variety seen in *(2018)*
+### Q116 — H And L variety seen in *(2018)*
 
 H And L variety seen in
 
@@ -2005,7 +2005,7 @@ H And L variety seen in
 
 ---
 
-### Q118 — Stellate granuloma seen in *(2018)*
+### Q117 — Stellate granuloma seen in *(2018)*
 
 Stellate granuloma seen in
 
@@ -2022,7 +2022,7 @@ Stellate granuloma seen in
 
 ---
 
-### Q119 — Which best explains Flipping effect *(2018)*
+### Q118 — Which best explains Flipping effect *(2018)*
 
 Which best explains “Flipping effect”
 
@@ -2039,7 +2039,7 @@ Which best explains “Flipping effect”
 
 ---
 
-### Q120 — Nude mice is not resistant to *(2018)*
+### Q119 — Nude mice is not resistant to *(2018)*
 
 Nude mice is not resistant to xenograft due to absence of
 
@@ -2056,7 +2056,7 @@ Nude mice is not resistant to xenograft due to absence of
 
 ---
 
-### Q121 — Anaplasia is *(2018)*
+### Q120 — Anaplasia is *(2018)*
 
 Anaplasia is
 
@@ -2073,7 +2073,7 @@ Anaplasia is
 
 ---
 
-### Q122 — Which level of prolactin definitely suggest *(2018)*
+### Q121 — Which level of prolactin definitely suggest *(2018)*
 
 Which level of prolactin definitely suggest prolactinoma
 
@@ -2090,7 +2090,7 @@ Which level of prolactin definitely suggest prolactinoma
 
 ---
 
-### Q123 — Laxative abuse causes which of the *(2018)*
+### Q122 — Laxative abuse causes which of the *(2018)*
 
 Laxative abuse causes which of the following renal stones
 
@@ -2107,7 +2107,7 @@ Laxative abuse causes which of the following renal stones
 
 ---
 
-### Q124 — Which of the following can result *(2018)*
+### Q123 — Which of the following can result *(2018)*
 
 Which of the following can result in dactylitis
 
@@ -2124,7 +2124,7 @@ Which of the following can result in dactylitis
 
 ---
 
-### Q125 — Australian antigen for hepatitis b is *(2018)*
+### Q124 — Australian antigen for hepatitis b is *(2018)*
 
 Australian antigen for hepatitis b is
 
@@ -2141,7 +2141,7 @@ Australian antigen for hepatitis b is
 
 ---
 
-### Q126 — Van Nuys prognostic index is not *(2018)*
+### Q125 — Van Nuys prognostic index is not *(2018)*
 
 Van Nuys prognostic index is not based on
 
@@ -2158,7 +2158,7 @@ Van Nuys prognostic index is not based on
 
 ---
 
-### Q127 — Pagets is associated with which other *(2018)*
+### Q126 — Pagets is associated with which other *(2018)*
 
 Paget's is associated with which other cancer
 
@@ -2175,7 +2175,7 @@ Paget's is associated with which other cancer
 
 ---
 
-### Q128 — What constitutes malpighian layer *(2018)*
+### Q127 — What constitutes malpighian layer *(2018)*
 
 What constitutes malpighian layer
 
@@ -2192,7 +2192,7 @@ What constitutes malpighian layer
 
 ---
 
-### Q129 — Reed sternberg cells are found in *(2018)*
+### Q128 — Reed sternberg cells are found in *(2018)*
 
 Reed sternberg cells are found in
 
@@ -2212,7 +2212,7 @@ Reed sternberg cells are found in
 
 ## Microbiology
 
-### Q130 — Which chromosome is responsible for the *(2018)*
+### Q129 — Which chromosome is responsible for the *(2018)*
 
 Which chromosome is responsible for the production of MIF
 
@@ -2229,7 +2229,7 @@ Which chromosome is responsible for the production of MIF
 
 ---
 
-### Q131 — Burkholderia cepacia is resistant to which *(2018)*
+### Q130 — Burkholderia cepacia is resistant to which *(2018)*
 
 Burkholderia cepacia is resistant to which of the following drugs
 
@@ -2246,7 +2246,7 @@ Burkholderia cepacia is resistant to which of the following drugs
 
 ---
 
-### Q132 — Sabin Feldman dye test is used *(2018)*
+### Q131 — Sabin Feldman dye test is used *(2018)*
 
 Sabin Feldman dye test is used for diagnosis of which of the following condition
 
@@ -2263,7 +2263,7 @@ Sabin Feldman dye test is used for diagnosis of which of the following condition
 
 ---
 
-### Q133 — Acute Hemorrhagic Conjunctivitis is caused by *(2018)*
+### Q132 — Acute Hemorrhagic Conjunctivitis is caused by *(2018)*
 
 Acute Hemorrhagic Conjunctivitis is caused by which of enterovirus type
 
@@ -2280,7 +2280,7 @@ Acute Hemorrhagic Conjunctivitis is caused by which of enterovirus type
 
 ---
 
-### Q134 — Echinococcus granulosus are commonly seen in *(2018)*
+### Q133 — Echinococcus granulosus are commonly seen in *(2018)*
 
 Echinococcus granulosus are commonly seen in which of the given animals
 
@@ -2297,7 +2297,7 @@ Echinococcus granulosus are commonly seen in which of the given animals
 
 ---
 
-### Q135 — Which organism causing acute bacterial prostatitis *(2018)*
+### Q134 — Which organism causing acute bacterial prostatitis *(2018)*
 
 Which organism causing acute bacterial prostatitis
 
@@ -2314,7 +2314,7 @@ Which organism causing acute bacterial prostatitis
 
 ---
 
-### Q136 — Who is the father of microbiology *(2018)*
+### Q135 — Who is the father of microbiology *(2018)*
 
 Who is the father of microbiology
 
@@ -2331,7 +2331,7 @@ Who is the father of microbiology
 
 ---
 
-### Q137 — Cutaneous larva migrans caused by which *(2018)*
+### Q136 — Cutaneous larva migrans caused by which *(2018)*
 
 Cutaneous larva migrans caused by which organism
 
@@ -2348,7 +2348,7 @@ Cutaneous larva migrans caused by which organism
 
 ---
 
-### Q138 — Which of the following condition is *(2018)*
+### Q137 — Which of the following condition is *(2018)*
 
 Which of the following condition is NOT caused by Parvovirus B19
 
@@ -2368,7 +2368,7 @@ Which of the following condition is NOT caused by Parvovirus B19
 
 ## Pharmacology
 
-### Q139 — Site of action of amphotericin B *(2018)*
+### Q138 — Site of action of amphotericin B *(2018)*
 
 Site of action of amphotericin B is
 
@@ -2385,7 +2385,7 @@ Site of action of amphotericin B is
 
 ---
 
-### Q140 — Which antiretroviral drug also has anti *(2018)*
+### Q139 — Which antiretroviral drug also has anti *(2018)*
 
 Which antiretroviral drug also has anti hepatitis activity
 
@@ -2402,7 +2402,7 @@ Which antiretroviral drug also has anti hepatitis activity
 
 ---
 
-### Q141 — Drug of choice for resistant rheumatic *(2018)*
+### Q140 — Drug of choice for resistant rheumatic *(2018)*
 
 Drug of choice for resistant rheumatic chorea
 
@@ -2419,7 +2419,7 @@ Drug of choice for resistant rheumatic chorea
 
 ---
 
-### Q142 — What is mechanism of action of *(2018)*
+### Q141 — What is mechanism of action of *(2018)*
 
 What is mechanism of action of colchicine in acute gout
 
@@ -2436,7 +2436,7 @@ What is mechanism of action of colchicine in acute gout
 
 ---
 
-### Q143 — Which of the following is glucocorticoid *(2018)*
+### Q142 — Which of the following is glucocorticoid *(2018)*
 
 Which of the following is glucocorticoid synthesis inhibitor
 
@@ -2453,7 +2453,7 @@ Which of the following is glucocorticoid synthesis inhibitor
 
 ---
 
-### Q144 — Which of the following statements is *(2018)*
+### Q143 — Which of the following statements is *(2018)*
 
 Which of the following statements is incorrect w.r.t Prasugrel
 
@@ -2470,7 +2470,7 @@ Which of the following statements is incorrect w.r.t Prasugrel
 
 ---
 
-### Q145 — Q-T elongation is seen in which *(2018)*
+### Q144 — Q-T elongation is seen in which *(2018)*
 
 Q-T elongation is seen in which drug
 
@@ -2487,7 +2487,7 @@ Q-T elongation is seen in which drug
 
 ---
 
-### Q146 — Sacubitril is, *(2018)*
+### Q145 — Sacubitril is, *(2018)*
 
 Sacubitril is,
 
@@ -2504,7 +2504,7 @@ Sacubitril is,
 
 ---
 
-### Q147 — Endothelin acts through which receptors *(2018)*
+### Q146 — Endothelin acts through which receptors *(2018)*
 
 Endothelin acts through which receptors
 
@@ -2521,7 +2521,7 @@ Endothelin acts through which receptors
 
 ---
 
-### Q148 — Which of the following causes melanosis *(2018)*
+### Q147 — Which of the following causes melanosis *(2018)*
 
 Which of the following causes melanosis coli
 
@@ -2538,7 +2538,7 @@ Which of the following causes melanosis coli
 
 ---
 
-### Q149 — Which among the following will the *(2018)*
+### Q148 — Which among the following will the *(2018)*
 
 Which among the following will the choice of antibiotic for a bedridden patient with catheter-related UTI and pneumonia.
 
@@ -2555,7 +2555,7 @@ Which among the following will the choice of antibiotic for a bedridden patient 
 
 ---
 
-### Q150 — Tadalafil should not be given with *(2018)*
+### Q149 — Tadalafil should not be given with *(2018)*
 
 Tadalafil should not be given with
 
@@ -2575,7 +2575,7 @@ Tadalafil should not be given with
 
 ## Forensic Medicine
 
-### Q151 — Estimate volume of ringer lactate in *(2018)*
+### Q150 — Estimate volume of ringer lactate in *(2018)*
 
 Estimate volume of ringer lactate in first 8 hrs for 40% burns in 50 kg male with 2° burns
 
@@ -2592,7 +2592,7 @@ Estimate volume of ringer lactate in first 8 hrs for 40% burns in 50 kg male wit
 
 ---
 
-### Q152 — Posthumous child is *(2018)*
+### Q151 — Posthumous child is *(2018)*
 
 Posthumous child is
 
@@ -2609,7 +2609,7 @@ Posthumous child is
 
 ---
 
-### Q153 — Mnaghten rule comes under which section *(2018)*
+### Q152 — Mnaghten rule comes under which section *(2018)*
 
 M'naghten rule comes under which section of IPC
 
@@ -2626,7 +2626,7 @@ M'naghten rule comes under which section of IPC
 
 ---
 
-### Q154 — Bluish discoloration of gastric mucosa seen *(2018)*
+### Q153 — Bluish discoloration of gastric mucosa seen *(2018)*
 
 Bluish discoloration of gastric mucosa seen in which poisoning
 
@@ -2643,7 +2643,7 @@ Bluish discoloration of gastric mucosa seen in which poisoning
 
 ---
 
-### Q155 — Muscle pain, nephropathy caused by which *(2018)*
+### Q154 — Muscle pain, nephropathy caused by which *(2018)*
 
 Muscle pain, nephropathy caused by which metal poisoning
 
@@ -2660,7 +2660,7 @@ Muscle pain, nephropathy caused by which metal poisoning
 
 ---
 
-### Q156 — Which is the first organ to *(2018)*
+### Q155 — Which is the first organ to *(2018)*
 
 Which is the first organ to putrefy
 
@@ -2677,7 +2677,7 @@ Which is the first organ to putrefy
 
 ---
 
-### Q157 — Locard is famous for *(2018)*
+### Q156 — Locard is famous for *(2018)*
 
 Locard is famous for
 
@@ -2694,7 +2694,7 @@ Locard is famous for
 
 ---
 
-### Q158 — When does basiocciput fuses with basisphenoid *(2018)*
+### Q157 — When does basiocciput fuses with basisphenoid *(2018)*
 
 When does basiocciput fuses with basisphenoid
 
@@ -2711,7 +2711,7 @@ When does basiocciput fuses with basisphenoid
 
 ---
 
-### Q159 — What is the smell of mummified *(2018)*
+### Q158 — What is the smell of mummified *(2018)*
 
 What is the smell of mummified body
 
@@ -2728,7 +2728,7 @@ What is the smell of mummified body
 
 ---
 
-### Q160 — Patient presented with proximal tubule proteinuria *(2018)*
+### Q159 — Patient presented with proximal tubule proteinuria *(2018)*
 
 Patient presented with proximal tubule proteinuria. Which metal is likely to be associated with it
 
@@ -2745,7 +2745,7 @@ Patient presented with proximal tubule proteinuria. Which metal is likely to be 
 
 ---
 
-### Q161 — Which of the following constitutional article *(2018)*
+### Q160 — Which of the following constitutional article *(2018)*
 
 Which of the following constitutional article is not related to children
 
@@ -2762,7 +2762,7 @@ Which of the following constitutional article is not related to children
 
 ---
 
-### Q162 — Which metal results in Saturnine gout *(2018)*
+### Q161 — Which metal results in Saturnine gout *(2018)*
 
 Which metal results in “Saturnine gout” formation
 
@@ -2782,7 +2782,7 @@ Which metal results in “Saturnine gout” formation
 
 ## Community Medicine
 
-### Q163 — Which of the statement regarding Factory *(2018)*
+### Q162 — Which of the statement regarding Factory *(2018)*
 
 Which of the statement regarding Factory act is correct
 
@@ -2799,7 +2799,7 @@ Which of the statement regarding Factory act is correct
 
 ---
 
-### Q164 — Shingles Is caused by which of *(2018)*
+### Q163 — Shingles Is caused by which of *(2018)*
 
 Shingles Is caused by which of the following
 
@@ -2816,7 +2816,7 @@ Shingles Is caused by which of the following
 
 ---
 
-### Q165 — Urea breath test is used for *(2018)*
+### Q164 — Urea breath test is used for *(2018)*
 
 Urea breath test is used for diagnosis of
 
@@ -2833,7 +2833,7 @@ Urea breath test is used for diagnosis of
 
 ---
 
-### Q166 — Hyperacute graft rejection occurs after how *(2018)*
+### Q165 — Hyperacute graft rejection occurs after how *(2018)*
 
 Hyperacute graft rejection occurs after how much time
 
@@ -2850,7 +2850,7 @@ Hyperacute graft rejection occurs after how much time
 
 ---
 
-### Q167 — Which fungus is most commonly associated *(2018)*
+### Q166 — Which fungus is most commonly associated *(2018)*
 
 Which fungus is most commonly associated with orbital cellulitis in patients with diabetic ketoacidosis.
 
@@ -2867,7 +2867,7 @@ Which fungus is most commonly associated with orbital cellulitis in patients wit
 
 ---
 
-### Q168 — An anaerobe causing multiple abscess with *(2018)*
+### Q167 — An anaerobe causing multiple abscess with *(2018)*
 
 An anaerobe causing multiple abscess with discharging sinuses, demonstrating sulphur granules in pus is
 
@@ -2884,7 +2884,7 @@ An anaerobe causing multiple abscess with discharging sinuses, demonstrating sul
 
 ---
 
-### Q169 — Whole blood is used as a *(2018)*
+### Q168 — Whole blood is used as a *(2018)*
 
 Whole blood is used as a sample for which test
 
@@ -2901,7 +2901,7 @@ Whole blood is used as a sample for which test
 
 ---
 
-### Q170 — For NRR to be 1 couple *(2018)*
+### Q169 — For NRR to be 1 couple *(2018)*
 
 For NRR to be 1 couple protection rate should be
 
@@ -2918,7 +2918,7 @@ For NRR to be 1 couple protection rate should be
 
 ---
 
-### Q171 — Study unit of ecological study is *(2018)*
+### Q170 — Study unit of ecological study is *(2018)*
 
 Study unit of ecological study is
 
@@ -2935,7 +2935,7 @@ Study unit of ecological study is
 
 ---
 
-### Q172 — In a screening test for DM *(2018)*
+### Q171 — In a screening test for DM *(2018)*
 
 In a screening test for DM out of 1000 population, 90 were positive. Then the gold standard test was done in which 100 were positive. Calculate the sensitivity
 
@@ -2952,7 +2952,7 @@ In a screening test for DM out of 1000 population, 90 were positive. Then the go
 
 ---
 
-### Q173 — What is the mass chemoprophylaxis for *(2018)*
+### Q172 — What is the mass chemoprophylaxis for *(2018)*
 
 What is the mass chemoprophylaxis for meningococcal meningitis
 
@@ -2969,7 +2969,7 @@ What is the mass chemoprophylaxis for meningococcal meningitis
 
 ---
 
-### Q174 — Which among the following is an *(2018)*
+### Q173 — Which among the following is an *(2018)*
 
 Which among the following is an active form of chlorination
 
@@ -2986,7 +2986,7 @@ Which among the following is an active form of chlorination
 
 ---
 
-### Q175 — Kala-Azar is found in all endemic *(2018)*
+### Q174 — Kala-Azar is found in all endemic *(2018)*
 
 Kala-Azar is found in all endemic areas except.
 
@@ -3003,7 +3003,7 @@ Kala-Azar is found in all endemic areas except.
 
 ---
 
-### Q176 — Risk among exposed to risk among *(2018)*
+### Q175 — Risk among exposed to risk among *(2018)*
 
 Risk among exposed to risk among non exposed is defined to be –
 
@@ -3020,7 +3020,7 @@ Risk among exposed to risk among non exposed is defined to be –
 
 ---
 
-### Q177 — Ideal time gap between 2 live *(2018)*
+### Q176 — Ideal time gap between 2 live *(2018)*
 
 Ideal time gap between 2 live vaccination
 
@@ -3037,7 +3037,7 @@ Ideal time gap between 2 live vaccination
 
 ---
 
-### Q178 — Out of 100 women who were *(2018)*
+### Q177 — Out of 100 women who were *(2018)*
 
 Out of 100 women who were offered ocp for contraception 10 women got pregnant when followed for 24 months. What is Pearl's index
 
@@ -3054,7 +3054,7 @@ Out of 100 women who were offered ocp for contraception 10 women got pregnant wh
 
 ---
 
-### Q179 — Which of the following do not *(2018)*
+### Q178 — Which of the following do not *(2018)*
 
 Which of the following do not cause hardness of water
 
@@ -3071,7 +3071,7 @@ Which of the following do not cause hardness of water
 
 ---
 
-### Q180 — Which of the following is not *(2018)*
+### Q179 — Which of the following is not *(2018)*
 
 Which of the following is not an example of direct transmission in communicable diseases
 
@@ -3088,7 +3088,7 @@ Which of the following is not an example of direct transmission in communicable 
 
 ---
 
-### Q181 — Which vaccine is not include in *(2018)*
+### Q180 — Which vaccine is not include in *(2018)*
 
 Which vaccine is not include in indradhanush mission
 
@@ -3105,7 +3105,7 @@ Which vaccine is not include in indradhanush mission
 
 ---
 
-### Q182 — Which of the following statement is *(2018)*
+### Q181 — Which of the following statement is *(2018)*
 
 Which of the following statement is false about MR vaccination campaign launched by WHO
 
@@ -3125,7 +3125,7 @@ Which of the following statement is false about MR vaccination campaign launched
 
 ## Medicine
 
-### Q183 — Not seen in allergic pulmonary aspergillosis *(2018)*
+### Q182 — Not seen in allergic pulmonary aspergillosis *(2018)*
 
 Not seen in allergic pulmonary aspergillosis is
 
@@ -3142,7 +3142,7 @@ Not seen in allergic pulmonary aspergillosis is
 
 ---
 
-### Q184 — Pseudo P Pulmonale *(2018)*
+### Q183 — Pseudo P Pulmonale *(2018)*
 
 Pseudo P Pulmonale
 
@@ -3159,7 +3159,7 @@ Pseudo P Pulmonale
 
 ---
 
-### Q185 — Automatic Implantable Cardioverter Defibrillator,  *(2018)*
+### Q184 — Automatic Implantable Cardioverter Defibrillator,  *(2018)*
 
 Automatic Implantable Cardioverter Defibrillator, (AICD) implantation is done for which of following conditions
 
@@ -3176,7 +3176,7 @@ Automatic Implantable Cardioverter Defibrillator, (AICD) implantation is done fo
 
 ---
 
-### Q186 — What is the line of treatment *(2018)*
+### Q185 — What is the line of treatment *(2018)*
 
 What is the line of treatment for intractable Sydenham chorea
 
@@ -3193,7 +3193,7 @@ What is the line of treatment for intractable Sydenham chorea
 
 ---
 
-### Q187 — Neurofibromatosis 1 criteria except *(2018)*
+### Q186 — Neurofibromatosis 1 criteria except *(2018)*
 
 Neurofibromatosis 1 criteria except
 
@@ -3210,7 +3210,7 @@ Neurofibromatosis 1 criteria except
 
 ---
 
-### Q188 — Most common site of chronic gastric *(2018)*
+### Q187 — Most common site of chronic gastric *(2018)*
 
 Most common site of chronic gastric ulcer
 
@@ -3227,7 +3227,7 @@ Most common site of chronic gastric ulcer
 
 ---
 
-### Q189 — Approximate time interval between HIV infection *(2018)*
+### Q188 — Approximate time interval between HIV infection *(2018)*
 
 Approximate time interval between HIV infection & manifestation of AIDS is
 
@@ -3244,7 +3244,7 @@ Approximate time interval between HIV infection & manifestation of AIDS is
 
 ---
 
-### Q190 — Hellers myotomy is done for *(2018)*
+### Q189 — Hellers myotomy is done for *(2018)*
 
 Heller's myotomy is done for
 
@@ -3261,7 +3261,7 @@ Heller's myotomy is done for
 
 ---
 
-### Q191 — Myocardial stunning pattern not matching the *(2018)*
+### Q190 — Myocardial stunning pattern not matching the *(2018)*
 
 Myocardial stunning pattern not matching the ECG. What is the diagnosis.
 
@@ -3278,7 +3278,7 @@ Myocardial stunning pattern not matching the ECG. What is the diagnosis.
 
 ---
 
-### Q192 — Alternative drug for cardiac arrest in *(2018)*
+### Q191 — Alternative drug for cardiac arrest in *(2018)*
 
 Alternative drug for cardiac arrest in place of epinephrine is
 
@@ -3295,7 +3295,7 @@ Alternative drug for cardiac arrest in place of epinephrine is
 
 ---
 
-### Q193 — Patient presenting with cutaneous vasculitis, glom *(2018)*
+### Q192 — Patient presenting with cutaneous vasculitis, glom *(2018)*
 
 Patient presenting with cutaneous vasculitis, glomerulonephritis, peripheral neuropathy, Which investigation is to be performed next that will help you diagnose the condition
 
@@ -3312,7 +3312,7 @@ Patient presenting with cutaneous vasculitis, glomerulonephritis, peripheral neu
 
 ---
 
-### Q194 — Cryoglobulinemia *(2018)*
+### Q193 — Cryoglobulinemia *(2018)*
 
 Cryoglobulinemia
 
@@ -3329,7 +3329,7 @@ Cryoglobulinemia
 
 ---
 
-### Q195 — Causes of hypokalemic metabolic alkalosis with *(2018)*
+### Q194 — Causes of hypokalemic metabolic alkalosis with *(2018)*
 
 Causes of hypokalemic metabolic alkalosis with hypertension
 
@@ -3346,7 +3346,7 @@ Causes of hypokalemic metabolic alkalosis with hypertension
 
 ---
 
-### Q196 — Gold criteria for very severe COPD *(2018)*
+### Q195 — Gold criteria for very severe COPD *(2018)*
 
 Gold criteria for very severe COPD
 
@@ -3363,7 +3363,7 @@ Gold criteria for very severe COPD
 
 ---
 
-### Q197 — ABPI increases artificially in *(2018)*
+### Q196 — ABPI increases artificially in *(2018)*
 
 ABPI increases artificially in
 
@@ -3380,7 +3380,7 @@ ABPI increases artificially in
 
 ---
 
-### Q198 — Which statement is not true regarding *(2018)*
+### Q197 — Which statement is not true regarding *(2018)*
 
 Which statement is not true regarding crohn's disease
 
@@ -3397,7 +3397,7 @@ Which statement is not true regarding crohn's disease
 
 ---
 
-### Q199 — Chordoma arises from *(2018)*
+### Q198 — Chordoma arises from *(2018)*
 
 Chordoma arises from
 
@@ -3414,7 +3414,7 @@ Chordoma arises from
 
 ---
 
-### Q200 — Which drug decreases the bone resorption *(2018)*
+### Q199 — Which drug decreases the bone resorption *(2018)*
 
 Which drug decreases the bone resorption in osteoporosis
 
@@ -3431,7 +3431,7 @@ Which drug decreases the bone resorption in osteoporosis
 
 ---
 
-### Q201 — WHICH IS NOT CORRECT *(2018)*
+### Q200 — WHICH IS NOT CORRECT *(2018)*
 
 WHICH IS NOT CORRECT
 
@@ -3448,7 +3448,7 @@ WHICH IS NOT CORRECT
 
 ---
 
-### Q202 — What is the cause of myocardial *(2018)*
+### Q201 — What is the cause of myocardial *(2018)*
 
 What is the cause of myocardial shock other than MI
 
@@ -3465,7 +3465,7 @@ What is the cause of myocardial shock other than MI
 
 ---
 
-### Q203 — Positive acid schiff macrophages seen in *(2018)*
+### Q202 — Positive acid schiff macrophages seen in *(2018)*
 
 Positive acid schiff macrophages seen in
 
@@ -3482,7 +3482,7 @@ Positive acid schiff macrophages seen in
 
 ---
 
-### Q204 — Term pathology refers to *(2018)*
+### Q203 — Term pathology refers to *(2018)*
 
 Term pathology refers to
 
@@ -3499,7 +3499,7 @@ Term pathology refers to
 
 ---
 
-### Q205 — 1 yr child weighing 6 kg *(2018)*
+### Q204 — 1 yr child weighing 6 kg *(2018)*
 
 1 yr child weighing 6 kg is suffering from Acute Gastroenteritis along with signs of sunken eyes & skin pinch going back to normal very rapidly. What will be your management
 
@@ -3516,7 +3516,7 @@ Term pathology refers to
 
 ---
 
-### Q206 — Mechanism of action colchicine in acute *(2018)*
+### Q205 — Mechanism of action colchicine in acute *(2018)*
 
 Mechanism of action colchicine in acute gout
 
@@ -3533,7 +3533,7 @@ Mechanism of action colchicine in acute gout
 
 ---
 
-### Q207 — Oxygen therapy may not be useful *(2018)*
+### Q206 — Oxygen therapy may not be useful *(2018)*
 
 Oxygen therapy may not be useful in
 
@@ -3550,7 +3550,7 @@ Oxygen therapy may not be useful in
 
 ---
 
-### Q208 — New born baby with heart rate *(2018)*
+### Q207 — New born baby with heart rate *(2018)*
 
 New born baby with heart rate less than 60 beats per minute can be resuscitated by all except
 
@@ -3567,7 +3567,7 @@ New born baby with heart rate less than 60 beats per minute can be resuscitated 
 
 ---
 
-### Q209 — Mobitz type 2 second degree AV *(2018)*
+### Q208 — Mobitz type 2 second degree AV *(2018)*
 
 Mobitz type 2 second degree AV block is seen in all except
 
@@ -3584,7 +3584,7 @@ Mobitz type 2 second degree AV block is seen in all except
 
 ---
 
-### Q210 — When can one diagnose acute respiratory *(2018)*
+### Q209 — When can one diagnose acute respiratory *(2018)*
 
 When can one diagnose acute respiratory distress in a child
 
@@ -3601,7 +3601,7 @@ When can one diagnose acute respiratory distress in a child
 
 ---
 
-### Q211 — In ACLS which drug can be *(2018)*
+### Q210 — In ACLS which drug can be *(2018)*
 
 In ACLS which drug can be given following ventricular fibrillation after cardiac arrest other than epinephrine
 
@@ -3618,7 +3618,7 @@ In ACLS which drug can be given following ventricular fibrillation after cardiac
 
 ---
 
-### Q212 — Which of the following true regarding *(2018)*
+### Q211 — Which of the following true regarding *(2018)*
 
 Which of the following true regarding Hemophilia A
 
@@ -3635,7 +3635,7 @@ Which of the following true regarding Hemophilia A
 
 ---
 
-### Q213 — Marked bleeding is seen in which *(2018)*
+### Q212 — Marked bleeding is seen in which *(2018)*
 
 Marked bleeding is seen in which of following conditions
 
@@ -3652,7 +3652,7 @@ Marked bleeding is seen in which of following conditions
 
 ---
 
-### Q214 — By which method foreign DNA is *(2018)*
+### Q213 — By which method foreign DNA is *(2018)*
 
 By which method foreign DNA is introduced into a cell by a virus or viral vector
 
@@ -3669,7 +3669,7 @@ By which method foreign DNA is introduced into a cell by a virus or viral vector
 
 ---
 
-### Q215 — Which of the following is seen *(2018)*
+### Q214 — Which of the following is seen *(2018)*
 
 Which of the following is seen in seropositive rheumatoid arthritis
 
@@ -3686,7 +3686,7 @@ Which of the following is seen in seropositive rheumatoid arthritis
 
 ---
 
-### Q216 — Which of the following is not *(2018)*
+### Q215 — Which of the following is not *(2018)*
 
 Which of the following is not seen in Anterior mediastinum
 
@@ -3703,7 +3703,7 @@ Which of the following is not seen in Anterior mediastinum
 
 ---
 
-### Q217 — Struvite stone is caused by which *(2018)*
+### Q216 — Struvite stone is caused by which *(2018)*
 
 Struvite stone is caused by which metal
 
@@ -3720,7 +3720,7 @@ Struvite stone is caused by which metal
 
 ---
 
-### Q218 — Which of the following statements about *(2018)*
+### Q217 — Which of the following statements about *(2018)*
 
 Which of the following statements about Graves disease is false
 
@@ -3737,7 +3737,7 @@ Which of the following statements about Graves disease is false
 
 ---
 
-### Q219 — Aldosterone synthesis is stimulated by which *(2018)*
+### Q218 — Aldosterone synthesis is stimulated by which *(2018)*
 
 Aldosterone synthesis is stimulated by which of the following
 
@@ -3754,7 +3754,7 @@ Aldosterone synthesis is stimulated by which of the following
 
 ---
 
-### Q220 — Which of the following is false *(2018)*
+### Q219 — Which of the following is false *(2018)*
 
 Which of the following is false about Alzheimer's disease
 
@@ -3771,7 +3771,7 @@ Which of the following is false about Alzheimer's disease
 
 ---
 
-### Q221 — Which of the following is true *(2018)*
+### Q220 — Which of the following is true *(2018)*
 
 Which of the following is true about vitamin K
 
@@ -3788,7 +3788,7 @@ Which of the following is true about vitamin K
 
 ---
 
-### Q222 — Which drugs needs continuous monitoring of *(2018)*
+### Q221 — Which drugs needs continuous monitoring of *(2018)*
 
 Which drugs needs continuous monitoring of prothrombin time
 
@@ -3805,7 +3805,7 @@ Which drugs needs continuous monitoring of prothrombin time
 
 ---
 
-### Q223 — Which of the following are the *(2018)*
+### Q222 — Which of the following are the *(2018)*
 
 Which of the following are the risk factor for cutaneous lymphoma
 
@@ -3822,7 +3822,7 @@ Which of the following are the risk factor for cutaneous lymphoma
 
 ---
 
-### Q224 — Which is not included in AIDS *(2018)*
+### Q223 — Which is not included in AIDS *(2018)*
 
 Which is not included in AIDS related complex
 
@@ -3839,7 +3839,7 @@ Which is not included in AIDS related complex
 
 ---
 
-### Q225 — Which is the treatment of choice *(2018)*
+### Q224 — Which is the treatment of choice *(2018)*
 
 Which is the treatment of choice for irradiation in Chordoma
 
@@ -3856,7 +3856,7 @@ Which is the treatment of choice for irradiation in Chordoma
 
 ---
 
-### Q226 — What differentiates delirium from dementia *(2018)*
+### Q225 — What differentiates delirium from dementia *(2018)*
 
 What differentiates delirium from dementia
 
@@ -3873,7 +3873,7 @@ What differentiates delirium from dementia
 
 ---
 
-### Q227 — Which drug regimen is given in *(2018)*
+### Q226 — Which drug regimen is given in *(2018)*
 
 Which drug regimen is given in a pregnant woman with HIV infection
 
@@ -3890,7 +3890,7 @@ Which drug regimen is given in a pregnant woman with HIV infection
 
 ---
 
-### Q228 — Which of the following is the *(2018)*
+### Q227 — Which of the following is the *(2018)*
 
 Which of the following is the best Stent for Femoropopliteal Bypass
 
@@ -3907,7 +3907,7 @@ Which of the following is the best Stent for Femoropopliteal Bypass
 
 ---
 
-### Q229 — Which is true regarding ataxia telangiectasia *(2018)*
+### Q228 — Which is true regarding ataxia telangiectasia *(2018)*
 
 Which is true regarding ataxia telangiectasia
 
@@ -3924,7 +3924,7 @@ Which is true regarding ataxia telangiectasia
 
 ---
 
-### Q230 — A diabetic patient 2 days after *(2018)*
+### Q229 — A diabetic patient 2 days after *(2018)*
 
 A diabetic patient 2 days after post cataract surgery develops develops hypopyon. What will be the management
 
@@ -3941,7 +3941,7 @@ A diabetic patient 2 days after post cataract surgery develops develops hypopyon
 
 ---
 
-### Q231 — Leiden thrombophilia is caused by mutational *(2018)*
+### Q230 — Leiden thrombophilia is caused by mutational *(2018)*
 
 Leiden thrombophilia is caused by mutational deficiency of which of the following factors
 
@@ -3961,7 +3961,7 @@ Leiden thrombophilia is caused by mutational deficiency of which of the followin
 
 ## Surgery
 
-### Q232 — Minimal dysfunction syndrome seen in *(2018)*
+### Q231 — Minimal dysfunction syndrome seen in *(2018)*
 
 Minimal dysfunction syndrome seen in
 
@@ -3978,7 +3978,7 @@ Minimal dysfunction syndrome seen in
 
 ---
 
-### Q233 — Common cause of chronic pancreatitis *(2018)*
+### Q232 — Common cause of chronic pancreatitis *(2018)*
 
 Common cause of chronic pancreatitis
 
@@ -3995,7 +3995,7 @@ Common cause of chronic pancreatitis
 
 ---
 
-### Q234 — The following statement about Keloid is *(2018)*
+### Q233 — The following statement about Keloid is *(2018)*
 
 The following statement about Keloid is true
 
@@ -4012,7 +4012,7 @@ The following statement about Keloid is true
 
 ---
 
-### Q235 — Which of the following layers are *(2018)*
+### Q234 — Which of the following layers are *(2018)*
 
 Which of the following layers are cut during fasciotomy
 
@@ -4029,7 +4029,7 @@ Which of the following layers are cut during fasciotomy
 
 ---
 
-### Q236 — Which is the best investigation for *(2018)*
+### Q235 — Which is the best investigation for *(2018)*
 
 Which is the best investigation for carcinoma head of pancreas
 
@@ -4046,7 +4046,7 @@ Which is the best investigation for carcinoma head of pancreas
 
 ---
 
-### Q237 — An abdominal mass is best demonstrated *(2018)*
+### Q236 — An abdominal mass is best demonstrated *(2018)*
 
 An abdominal mass is best demonstrated in congenital hypertrophic pyloric stenosis by
 
@@ -4063,7 +4063,7 @@ An abdominal mass is best demonstrated in congenital hypertrophic pyloric stenos
 
 ---
 
-### Q238 — RET proto-oncogene is associated with the *(2018)*
+### Q237 — RET proto-oncogene is associated with the *(2018)*
 
 RET proto-oncogene is associated with the development of
 
@@ -4080,7 +4080,7 @@ RET proto-oncogene is associated with the development of
 
 ---
 
-### Q239 — Dye used in diagnosis of esophageal *(2018)*
+### Q238 — Dye used in diagnosis of esophageal *(2018)*
 
 Dye used in diagnosis of esophageal perforation
 
@@ -4097,7 +4097,7 @@ Dye used in diagnosis of esophageal perforation
 
 ---
 
-### Q240 — Salt and Pepper pot appearance of *(2018)*
+### Q239 — Salt and Pepper pot appearance of *(2018)*
 
 Salt and Pepper pot appearance of skull seen in
 
@@ -4114,7 +4114,7 @@ Salt and Pepper pot appearance of skull seen in
 
 ---
 
-### Q241 — Maastricht classification of donation after cardia *(2018)*
+### Q240 — Maastricht classification of donation after cardia *(2018)*
 
 Maastricht classification of donation after cardiac death.What category is stage 3
 
@@ -4134,7 +4134,7 @@ Maastricht classification of donation after cardiac death.What category is stage
 
 ## Obstetrics & Gynaecology
 
-### Q242 — Which enzyme deficiency causesLesch Nyhan syndrome *(2018)*
+### Q241 — Which enzyme deficiency causesLesch Nyhan syndrome *(2018)*
 
 Which enzyme deficiency causesLesch– Nyhan syndrome
 
@@ -4151,7 +4151,7 @@ Which enzyme deficiency causesLesch– Nyhan syndrome
 
 ---
 
-### Q243 — Which of the following is correct *(2018)*
+### Q242 — Which of the following is correct *(2018)*
 
 Which of the following is correct regarding placenta
 
@@ -4168,7 +4168,7 @@ Which of the following is correct regarding placenta
 
 ---
 
-### Q244 — Which One of the following is *(2018)*
+### Q243 — Which One of the following is *(2018)*
 
 Which One of the following is not a cause of secondary Postpartum Haemorrhage
 
@@ -4185,7 +4185,7 @@ Which One of the following is not a cause of secondary Postpartum Haemorrhage
 
 ---
 
-### Q245 — Best time to do quadruple test *(2018)*
+### Q244 — Best time to do quadruple test *(2018)*
 
 Best time to do quadruple test
 
@@ -4202,7 +4202,7 @@ Best time to do quadruple test
 
 ---
 
-### Q246 — Drug that is used for fetal *(2018)*
+### Q245 — Drug that is used for fetal *(2018)*
 
 Drug that is used for fetal lung maturity is
 
@@ -4219,7 +4219,7 @@ Drug that is used for fetal lung maturity is
 
 ---
 
-### Q247 — In Uterine prolapse how to know *(2018)*
+### Q246 — In Uterine prolapse how to know *(2018)*
 
 In Uterine prolapse how to know if ring is in place
 
@@ -4236,7 +4236,7 @@ In Uterine prolapse how to know if ring is in place
 
 ---
 
-### Q248 — HT indicated in menopausal women *(2018)*
+### Q247 — HT indicated in menopausal women *(2018)*
 
 HT indicated in menopausal women
 
@@ -4253,7 +4253,7 @@ HT indicated in menopausal women
 
 ---
 
-### Q249 — Which of these steps is followed *(2018)*
+### Q248 — Which of these steps is followed *(2018)*
 
 Which of these steps is followed first for the management of shoulder dystocia after McRoberts maneuver
 
@@ -4270,7 +4270,7 @@ Which of these steps is followed first for the management of shoulder dystocia a
 
 ---
 
-### Q250 — True hermaphroditism karyotype *(2018)*
+### Q249 — True hermaphroditism karyotype *(2018)*
 
 True hermaphroditism karyotype
 
@@ -4287,7 +4287,7 @@ True hermaphroditism karyotype
 
 ---
 
-### Q251 — Nerve mostly compressed in pregnancy puerperium *(2018)*
+### Q250 — Nerve mostly compressed in pregnancy puerperium *(2018)*
 
 Nerve mostly compressed in pregnancy puerperium
 
@@ -4304,7 +4304,7 @@ Nerve mostly compressed in pregnancy puerperium
 
 ---
 
-### Q252 — In pregnancy which of the following *(2018)*
+### Q251 — In pregnancy which of the following *(2018)*
 
 In pregnancy which of the following level is altered mostly
 
@@ -4321,7 +4321,7 @@ In pregnancy which of the following level is altered mostly
 
 ---
 
-### Q253 — What is meant by Superfecundation *(2018)*
+### Q252 — What is meant by Superfecundation *(2018)*
 
 What is meant by Superfecundation
 
@@ -4338,7 +4338,7 @@ What is meant by Superfecundation
 
 ---
 
-### Q254 — Anesthesia of choice for cesarean section *(2018)*
+### Q253 — Anesthesia of choice for cesarean section *(2018)*
 
 Anesthesia of choice for cesarean section in severe pre-eclampsia
 
@@ -4355,7 +4355,7 @@ Anesthesia of choice for cesarean section in severe pre-eclampsia
 
 ---
 
-### Q255 — Which of the following is not *(2018)*
+### Q254 — Which of the following is not *(2018)*
 
 Which of the following is not a high-risk pregnancy
 
@@ -4372,7 +4372,7 @@ Which of the following is not a high-risk pregnancy
 
 ---
 
-### Q256 — Which of the following is not *(2018)*
+### Q255 — Which of the following is not *(2018)*
 
 Which of the following is not used in preeclampsia
 
@@ -4389,7 +4389,7 @@ Which of the following is not used in preeclampsia
 
 ---
 
-### Q257 — What is the effect of Progesterone *(2018)*
+### Q256 — What is the effect of Progesterone *(2018)*
 
 What is the effect of Progesterone only pills
 
@@ -4406,7 +4406,7 @@ What is the effect of Progesterone only pills
 
 ---
 
-### Q258 — Which condition is associated with Congenital *(2018)*
+### Q257 — Which condition is associated with Congenital *(2018)*
 
 Which condition is associated with Congenital adrenal hypoplasia
 
@@ -4423,7 +4423,7 @@ Which condition is associated with Congenital adrenal hypoplasia
 
 ---
 
-### Q259 — Anteversion of uterus is maintained by *(2018)*
+### Q258 — Anteversion of uterus is maintained by *(2018)*
 
 Anteversion of uterus is maintained by
 
@@ -4443,7 +4443,7 @@ Anteversion of uterus is maintained by
 
 ## Orthopaedics
 
-### Q260 — What is meant by Perilunate dislocations *(2018)*
+### Q259 — What is meant by Perilunate dislocations *(2018)*
 
 What is meant by Perilunate dislocations
 
@@ -4460,7 +4460,7 @@ What is meant by Perilunate dislocations
 
 ---
 
-### Q261 — You are posted as an intern *(2018)*
+### Q260 — You are posted as an intern *(2018)*
 
 You are posted as an intern in causality.Which among the following patients with fracture will be your 1st priority to call ortho PG and inform
 
@@ -4477,7 +4477,7 @@ You are posted as an intern in causality.Which among the following patients with
 
 ---
 
-### Q262 — In Rheumatoid arthritis, which type of *(2018)*
+### Q261 — In Rheumatoid arthritis, which type of *(2018)*
 
 In Rheumatoid arthritis, which type of cells are prominently present
 
@@ -4494,7 +4494,7 @@ In Rheumatoid arthritis, which type of cells are prominently present
 
 ---
 
-### Q263 — 8th and 9th rib costal cartilage *(2018)*
+### Q262 — 8th and 9th rib costal cartilage *(2018)*
 
 8th and 9th rib costal cartilage forms which type of joint
 
@@ -4511,7 +4511,7 @@ In Rheumatoid arthritis, which type of cells are prominently present
 
 ---
 
-### Q264 — A boy presented with multiple non *(2018)*
+### Q263 — A boy presented with multiple non *(2018)*
 
 A boy presented with multiple non suppurative osteomyelitis with sickle cell anaemia. What will be the causative organism
 
@@ -4531,7 +4531,7 @@ A boy presented with multiple non suppurative osteomyelitis with sickle cell ana
 
 ## ENT
 
-### Q265 — Waters view is used to obtain *(2018)*
+### Q264 — Waters view is used to obtain *(2018)*
 
 Water’s view is used to obtain diagnostic information of
 
@@ -4548,7 +4548,7 @@ Water’s view is used to obtain diagnostic information of
 
 ---
 
-### Q266 — Tracheostomy indication is *(2018)*
+### Q265 — Tracheostomy indication is *(2018)*
 
 Tracheostomy indication is
 
@@ -4565,7 +4565,7 @@ Tracheostomy indication is
 
 ---
 
-### Q267 — Caldwells view is used for *(2018)*
+### Q266 — Caldwells view is used for *(2018)*
 
 Caldwell’s view is used for
 
@@ -4582,7 +4582,7 @@ Caldwell’s view is used for
 
 ---
 
-### Q268 — Where will be the placement location *(2018)*
+### Q267 — Where will be the placement location *(2018)*
 
 Where will be the placement location for Auditory Brainstem Implant
 
@@ -4602,7 +4602,7 @@ Where will be the placement location for Auditory Brainstem Implant
 
 ## Ophthalmology
 
-### Q269 — Astigmatism in emmetropic eye of elderly *(2018)*
+### Q268 — Astigmatism in emmetropic eye of elderly *(2018)*
 
 Astigmatism in emmetropic eye of elderly person contribute to
 
@@ -4619,7 +4619,7 @@ Astigmatism in emmetropic eye of elderly person contribute to
 
 ---
 
-### Q270 — 100 day Glaucoma seen in which *(2018)*
+### Q269 — 100 day Glaucoma seen in which *(2018)*
 
 100 day Glaucoma seen in which of the following condition
 
@@ -4636,7 +4636,7 @@ Astigmatism in emmetropic eye of elderly person contribute to
 
 ---
 
-### Q271 — Q Roth spots is seen in *(2018)*
+### Q270 — Q Roth spots is seen in *(2018)*
 
 Q Roth spots is seen in
 
@@ -4653,7 +4653,7 @@ Q Roth spots is seen in
 
 ---
 
-### Q272 — Yoke muscle of right lateral rectus *(2018)*
+### Q271 — Yoke muscle of right lateral rectus *(2018)*
 
 Yoke muscle of right lateral rectus
 
@@ -4670,7 +4670,7 @@ Yoke muscle of right lateral rectus
 
 ---
 
-### Q273 — Severe Conjunctivitis caused by *(2018)*
+### Q272 — Severe Conjunctivitis caused by *(2018)*
 
 Severe Conjunctivitis caused by
 
@@ -4687,7 +4687,7 @@ Severe Conjunctivitis caused by
 
 ---
 
-### Q274 — Which is example of the Simple *(2018)*
+### Q273 — Which is example of the Simple *(2018)*
 
 Which is example of the Simple Myopic Astigmatism among the prescriptions given below
 
@@ -4704,7 +4704,7 @@ Which is example of the Simple Myopic Astigmatism among the prescriptions given 
 
 ---
 
-### Q275 — Blow out fracture of orbit involves *(2018)*
+### Q274 — Blow out fracture of orbit involves *(2018)*
 
 Blow out fracture of orbit involves
 
@@ -4721,7 +4721,7 @@ Blow out fracture of orbit involves
 
 ---
 
-### Q276 — Which among the following is the *(2018)*
+### Q275 — Which among the following is the *(2018)*
 
 Which among the following is the Most common cause for neonatal blindness
 
@@ -4738,7 +4738,7 @@ Which among the following is the Most common cause for neonatal blindness
 
 ---
 
-### Q277 — What is the Thinnest part of *(2018)*
+### Q276 — What is the Thinnest part of *(2018)*
 
 What is the Thinnest part of neuro-retinal rim according to ISNT rule
 
@@ -4758,7 +4758,7 @@ What is the Thinnest part of neuro-retinal rim according to ISNT rule
 
 ## Dermatology
 
-### Q278 — Cutis marmorata occurs due to exposure *(2018)*
+### Q277 — Cutis marmorata occurs due to exposure *(2018)*
 
 Cutis marmorata occurs due to exposure to –
 
@@ -4778,7 +4778,7 @@ Cutis marmorata occurs due to exposure to –
 
 ## Psychiatry
 
-### Q279 — Bragg peak effect pronounced in *(2018)*
+### Q278 — Bragg peak effect pronounced in *(2018)*
 
 Bragg peak effect pronounced in
 
@@ -4795,7 +4795,7 @@ Bragg peak effect pronounced in
 
 ---
 
-### Q280 — Semen squeeze *(2018)*
+### Q279 — Semen squeeze *(2018)*
 
 Semen squeeze
 
@@ -4812,7 +4812,7 @@ Semen squeeze
 
 ---
 
-### Q281 — A patient with a history of *(2018)*
+### Q280 — A patient with a history of *(2018)*
 
 A patient with a history of RTA before 2 months presents with complaints of dreams of accidents. He is able to visualize the same scene whenever he visits the place. Hence is afraid to go back to the accident site. Identify the type of disorder that he might be suffering from
 
@@ -4829,7 +4829,7 @@ A patient with a history of RTA before 2 months presents with complaints of drea
 
 ---
 
-### Q282 — Freuds theory of dream includes all *(2018)*
+### Q281 — Freuds theory of dream includes all *(2018)*
 
 Freud’s theory of dream includes all except
 
@@ -4846,7 +4846,7 @@ Freud’s theory of dream includes all except
 
 ---
 
-### Q283 — Expression and consequent release of previously *(2018)*
+### Q282 — Expression and consequent release of previously *(2018)*
 
 Expression and consequent release of previously repressed emotion is called as
 
@@ -4863,7 +4863,7 @@ Expression and consequent release of previously repressed emotion is called as
 
 ---
 
-### Q284 — All are habit disorder except *(2018)*
+### Q283 — All are habit disorder except *(2018)*
 
 All are habit disorder except
 
@@ -4880,7 +4880,7 @@ All are habit disorder except
 
 ---
 
-### Q285 — New name of mental retardation according *(2018)*
+### Q284 — New name of mental retardation according *(2018)*
 
 New name of mental retardation according to American Association of Mental Retardation
 
@@ -4897,7 +4897,7 @@ New name of mental retardation according to American Association of Mental Retar
 
 ---
 
-### Q286 — Now-a-days Down syndrome Is referred to *(2018)*
+### Q285 — Now-a-days Down syndrome Is referred to *(2018)*
 
 Now-a-days Down syndrome Is referred to as.
 
@@ -4914,7 +4914,7 @@ Now-a-days Down syndrome Is referred to as.
 
 ---
 
-### Q287 — A 55 years aged chronic alcoholic *(2018)*
+### Q286 — A 55 years aged chronic alcoholic *(2018)*
 
 A 55 years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable diagnosis
 
@@ -4931,7 +4931,7 @@ A 55 years aged chronic alcoholic male, presented with irrelevant talks, tremor 
 
 ---
 
-### Q288 — Genital warts are caused by which *(2018)*
+### Q287 — Genital warts are caused by which *(2018)*
 
 Genital warts are caused by which virus
 
@@ -4951,7 +4951,7 @@ Genital warts are caused by which virus
 
 ## Radiology
 
-### Q289 — Imaging techniques used in Uterus anomalies *(2018)*
+### Q288 — Imaging techniques used in Uterus anomalies *(2018)*
 
 Imaging techniques used in Uterus anomalies EXCEPT
 
@@ -4968,7 +4968,7 @@ Imaging techniques used in Uterus anomalies EXCEPT
 
 ---
 
-### Q290 — A woman shows symptoms of massive *(2018)*
+### Q289 — A woman shows symptoms of massive *(2018)*
 
 A woman shows symptoms of massive pulmonary thromboembolism.The gross appearance of liver autopsy is shown. Which of the following statement best characterizes the patient’s condition
 
@@ -4985,7 +4985,7 @@ A woman shows symptoms of massive pulmonary thromboembolism.The gross appearance
 
 ---
 
-### Q291 — What is the structure seen in *(2018)*
+### Q290 — What is the structure seen in *(2018)*
 
 What is the structure seen in the given Xray below
 
@@ -5002,7 +5002,7 @@ What is the structure seen in the given Xray below
 
 ---
 
-### Q292 — What is the diagnosis based on *(2018)*
+### Q291 — What is the diagnosis based on *(2018)*
 
 What is the diagnosis based on the following X-ray
 
@@ -5019,7 +5019,7 @@ What is the diagnosis based on the following X-ray
 
 ---
 
-### Q293 — A red soft to firm swelling *(2018)*
+### Q292 — A red soft to firm swelling *(2018)*
 
 A red soft to firm swelling on sternum that on biopsy shows following histology. What is the diagnosis
 
@@ -5036,7 +5036,7 @@ A red soft to firm swelling on sternum that on biopsy shows following histology.
 
 ---
 
-### Q294 — Which of the following is carrying *(2018)*
+### Q293 — Which of the following is carrying *(2018)*
 
 Which of the following is carrying agent for the disease with given characteristic on polarized microscopy
 
@@ -5056,7 +5056,7 @@ Which of the following is carrying agent for the disease with given characterist
 
 ## Anaesthesia
 
-### Q295 — What is mechanism of action of *(2018)*
+### Q294 — What is mechanism of action of *(2018)*
 
 What is mechanism of action of Curanium drugs as muscle relaxant
 
@@ -5073,7 +5073,7 @@ What is mechanism of action of Curanium drugs as muscle relaxant
 
 ---
 
-### Q296 — Trilene is degraded by *(2018)*
+### Q295 — Trilene is degraded by *(2018)*
 
 Trilene is degraded by
 
@@ -5094,7 +5094,7 @@ Trilene is degraded by
 
 
 ## Anatomy
-### Q300 — Glucose is absorbed in intestine by *(2018)*
+### Q296 — Glucose is absorbed in intestine by *(2018)*
 
 Glucose is absorbed in intestine by?
 
@@ -5114,7 +5114,7 @@ Glucose is absorbed in intestine by?
 
 ## Physiology
 
-### Q301 — Cytotoxic and expired drug disposal is *(2018)*
+### Q297 — Cytotoxic and expired drug disposal is *(2018)*
 
 Cytotoxic and expired drug disposal is done by which method?
 
@@ -5130,7 +5130,7 @@ Cytotoxic and expired drug disposal is done by which method?
 </details>
 
 ---
-### Q309 — Identify the type of muscle shown *(2018)*
+### Q298 — Identify the type of muscle shown *(2018)*
 
 Identify the type of muscle shown in the image below.
 
@@ -5147,7 +5147,7 @@ Identify the type of muscle shown in the image below.
 
 ---
 
-### Q310 — Function of the muscle shown in *(2018)*
+### Q299 — Function of the muscle shown in *(2018)*
 
 Function of the muscle shown in picture:
 
@@ -5164,7 +5164,7 @@ Function of the muscle shown in picture:
 
 ---
 
-### Q311 — Following image is also known as *(2018)*
+### Q300 — Following image is also known as *(2018)*
 
 Following image is also known as?
 
@@ -5181,7 +5181,7 @@ Following image is also known as?
 
 ---
 
-### Q312 — Choose the best method of diagnosis *(2018)*
+### Q301 — Choose the best method of diagnosis *(2018)*
 
 Choose the best method of diagnosis for the clinical sign represented in the image.
 
@@ -5198,7 +5198,7 @@ Choose the best method of diagnosis for the clinical sign represented in the ima
 
 ---
 
-### Q313 — Identify the condition represented in the *(2018)*
+### Q302 — Identify the condition represented in the *(2018)*
 
 Identify the condition represented in the image.
 
@@ -5215,7 +5215,7 @@ Identify the condition represented in the image.
 
 ---
 
-### Q314 — Identify the organism related to blood *(2018)*
+### Q303 — Identify the organism related to blood *(2018)*
 
 Identify the organism related to blood smear image -
 
@@ -5232,7 +5232,7 @@ Identify the organism related to blood smear image -
 
 ---
 
-### Q315 — Which is thickened nerve shown here *(2018)*
+### Q304 — Which is thickened nerve shown here *(2018)*
 
 Which is thickened nerve shown here:
 
@@ -5249,7 +5249,7 @@ Which is thickened nerve shown here:
 
 ---
 
-### Q316 — Which type of retractor is shown *(2018)*
+### Q305 — Which type of retractor is shown *(2018)*
 
 Which type of retractor is shown in the image
 
@@ -5266,7 +5266,7 @@ Which type of retractor is shown in the image
 
 ---
 
-### Q317 — Identify the bone numbered in the *(2018)*
+### Q306 — Identify the bone numbered in the *(2018)*
 
 Identify the bone numbered in the X-ray below that most commonly fracture when a person falls on outstretched hands?
 
@@ -5283,7 +5283,7 @@ Identify the bone numbered in the X-ray below that most commonly fracture when a
 
 ---
 
-### Q318 — Identify the following lesion *(2018)*
+### Q307 — Identify the following lesion *(2018)*
 
 Identify the following lesion.
 
@@ -5300,7 +5300,7 @@ Identify the following lesion.
 
 ---
 
-### Q319 — Spot radiograph from a double contrast *(2018)*
+### Q308 — Spot radiograph from a double contrast *(2018)*
 
 Spot radiograph from a double contrast esophagram. Image represents:
 
@@ -5317,7 +5317,7 @@ Spot radiograph from a double contrast esophagram. Image represents:
 
 ---
 
-### Q320 — MRI of skull represents *(2018)*
+### Q309 — MRI of skull represents *(2018)*
 
 MRI of skull represents:
 
@@ -5336,7 +5336,7 @@ MRI of skull represents:
 ## Biochemistry
 ## Pathology
 
-### Q325 — CT of Thorax represents *(2018)*
+### Q310 — CT of Thorax represents *(2018)*
 
 CT of Thorax represents:
 
@@ -5355,7 +5355,7 @@ CT of Thorax represents:
 
 
 ## Microbiology
-### Q329 — Identify the condition represented in below *(2018)*
+### Q311 — Identify the condition represented in below *(2018)*
 
 Identify the condition represented in below image
 
@@ -5374,7 +5374,7 @@ Identify the condition represented in below image
 ## Forensic Medicine
 ## Community Medicine
 
-### Q332 — Incidence of a disease is 4 *(2018)*
+### Q312 — Incidence of a disease is 4 *(2018)*
 
 Incidence of a disease is 4 per 1000 of population with duration of 2 years. Calculate the prevalence?
 
@@ -5394,7 +5394,7 @@ Incidence of a disease is 4 per 1000 of population with duration of 2 years. Cal
 
 ## Medicine
 
-### Q333 — Identify the condition shown in the *(2018)*
+### Q313 — Identify the condition shown in the *(2018)*
 
 Identify the condition shown in the image.
 
@@ -5414,7 +5414,7 @@ Identify the condition shown in the image.
 
 ## Orthopaedics
 
-### Q334 — APatient has history of RTA 2 *(2018)*
+### Q314 — APatient has history of RTA 2 *(2018)*
 
 APatient has history of RTA 2 years back, at the same sight he developed pain and swelling. Xray shows the following features . What will be the
 
@@ -5431,7 +5431,7 @@ APatient has history of RTA 2 years back, at the same sight he developed pain an
 
 ---
 
-### Q335 — X-ray of skull showing which lesions *(2018)*
+### Q315 — X-ray of skull showing which lesions *(2018)*
 
 X-ray of skull showing which lesions in the brain:
 
@@ -5451,7 +5451,7 @@ X-ray of skull showing which lesions in the brain:
 
 ## ENT
 
-### Q336 — Hard palate contains *(2018)*
+### Q316 — Hard palate contains *(2018)*
 
 Hard palate contains:
 
@@ -5467,7 +5467,7 @@ Hard palate contains:
 </details>
 
 ---
-### Q340 — Which of the following statement is *(2018)*
+### Q317 — Which of the following statement is *(2018)*
 
 Which of the following statement is true about suture material in the image:
 
@@ -5486,7 +5486,7 @@ Which of the following statement is true about suture material in the image:
 ## Ophthalmology
 ## Dermatology
 
-### Q344 — A child has a rash as *(2018)*
+### Q318 — A child has a rash as *(2018)*
 
 A child has a rash as shown in the picture .His family history is positive for asthma . What could be the most probable diagnosis ?
 
@@ -5506,7 +5506,7 @@ A child has a rash as shown in the picture .His family history is positive for a
 
 ## Psychiatry
 
-### Q345 — years aged chronic alcoholic male, presented *(2018)*
+### Q319 — years aged chronic alcoholic male, presented *(2018)*
 
 years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable
 
@@ -5526,7 +5526,7 @@ years aged chronic alcoholic male, presented with irrelevant talks, tremor and s
 
 ## Radiology
 
-### Q346 — Identify the condition shown in the *(2018)*
+### Q320 — Identify the condition shown in the *(2018)*
 
 Identify the condition shown in the CT Scan image below.
 
@@ -5543,7 +5543,7 @@ Identify the condition shown in the CT Scan image below.
 
 ---
 
-### Q347 — CT scan of abdomen showing an *(2018)*
+### Q321 — CT scan of abdomen showing an *(2018)*
 
 CT scan of abdomen showing an area that branching into the liver. Identify the structure?
 
@@ -5560,7 +5560,7 @@ CT scan of abdomen showing an area that branching into the liver. Identify the s
 
 ---
 
-### Q348 — Identify artery X in the given *(2018)*
+### Q322 — Identify artery X in the given *(2018)*
 
 Identify artery ‘X’ in the given angiography anatomy image:
 
