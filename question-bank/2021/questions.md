@@ -453,7 +453,7 @@ A 20-year-old woman with breathlessness, mitral stenosis, irregularly irregular 
 
 ---
 
-## Pediatrics
+## Paediatrics
 
 ### Q29 — Umbilical artery
 
@@ -485,7 +485,7 @@ A 10-year-old with seizures and prior fever/rash at 1 year. Diagnostic?
 
 ---
 
-## PSM
+## Community Medicine
 
 ### Q31 — Kata thermometer
 
@@ -2341,7 +2341,7 @@ Persistent lateral tongue lesion confirmed SCC — strongly associated virus?
 
 ---
 
-## Pediatrics
+## Paediatrics
 
 ### Q151 — Febrile seizure — first-line drug
 
@@ -2638,7 +2638,7 @@ Capillary hydrostatic 18, oncotic 27, interstitial oncotic 7, no net transudatio
 
 ---
 
-## Community Medicine (PSM)
+## Community Medicine
 
 ### Q170 — Dietary cholesterol recommendation
 
@@ -3049,7 +3049,7 @@ ORS facilitates glucose absorption through which transporter?
 
 ---
 
-## Community Medicine (PSM)
+## Community Medicine
 
 ### Q195 — Kata thermometer: current use
 
@@ -3615,3 +3615,5 @@ A pregnant woman in her second trimester previously delivered healthy full-term 
 </details>
 
 ---
+
+<!-- ===== APPENDED FROM staging/2021-doctutorials-Q37-Q182.md ===== -->

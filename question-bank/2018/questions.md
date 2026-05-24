@@ -490,7 +490,7 @@ Nuclear signalling pathways include all EXCEPT:
 
 ---
 
-## Community Medicine (PSM)
+## Community Medicine
 
 ### Q29 — Chadah Committee recommendations
 

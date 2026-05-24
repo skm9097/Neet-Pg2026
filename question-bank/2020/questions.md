@@ -453,7 +453,7 @@ At 3000 m altitude, which is **NOT** used for breathlessness?
 
 ---
 
-## Pediatrics
+## Paediatrics
 
 ### Q29 — Duchenne muscular dystrophy
 
@@ -485,7 +485,7 @@ Advice for a 12-year-old exposed to meningococcal meningitis classmates.
 
 ---
 
-## PSM
+## Community Medicine
 
 ### Q31 — Cost-benefit analysis
 
@@ -1172,7 +1172,7 @@ What makes CPDA-1 superior to ACD for blood storage?
 
 ---
 
-## Community Medicine (PSM)
+## Community Medicine
 
 ### Q71 — Biomedical waste: sharp waste disposal container
 

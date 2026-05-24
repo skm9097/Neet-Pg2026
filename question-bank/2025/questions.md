@@ -2384,7 +2384,7 @@ Which translocation is characteristically associated with AML M3?
 
 ---
 
-## Pediatrics
+## Paediatrics
 
 ### Q148 — First-line drug for acute febrile seizure
 

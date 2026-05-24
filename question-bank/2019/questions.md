@@ -997,7 +997,7 @@ Site of lesion in Wernicke's hemianopic pupil?
 
 ---
 
-## Community Medicine (PSM)
+## Community Medicine
 
 ### Q60 — DTwP vaccine: false statement
 

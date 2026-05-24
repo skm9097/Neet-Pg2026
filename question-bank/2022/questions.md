@@ -343,7 +343,7 @@ Patient with fever, night sweats, ptosis, bilateral facial nerve palsy, leukocyt
 
 ---
 
-## Pediatrics
+## Paediatrics
 
 ### Q22 — Neonate hasn't urinated since birth
 
@@ -375,7 +375,7 @@ A 7-year-old post-chemotherapy with abdominal pain, vomiting, oliguria, periorbi
 
 ---
 
-## PSM
+## Community Medicine
 
 ### Q24 — QALY scenario
 
@@ -668,7 +668,7 @@ Hypothalamic thermostat reset upward (A → C). What happens in the rising phase
 
 ---
 
-## Community Medicine (PSM)
+## Community Medicine
 
 ### Q41 — QALY: disability-adjusted life measure
 

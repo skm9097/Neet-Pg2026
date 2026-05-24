@@ -439,7 +439,7 @@ Female with restlessness, palpitations, tremors; asthma; swollen neck, BP↑, ta
 
 ---
 
-## PSM
+## Community Medicine
 
 ### Q28 — Crossed gait in farmers (lathyrism)
 
@@ -535,7 +535,7 @@ Autopsy method removing organs en masse from tongue to prostate?
 
 ---
 
-## Pediatrics
+## Paediatrics
 
 ### Q34 — DKA in child — initial management (ISPAD)
 
@@ -866,7 +866,7 @@ True statement regarding the plateau (phase 2) on the myocardial action potentia
 
 ---
 
-## Community Medicine (PSM)
+## Community Medicine
 
 ### Q53 — Neurolathyrism: vitamin supplement
 

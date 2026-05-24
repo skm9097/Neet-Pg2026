@@ -417,7 +417,7 @@ A 23-year-old female, 4 feet tall; karyotype shown. Most likely condition?
 
 ---
 
-## Pediatrics
+## Paediatrics
 
 ### Q27 — Vomiting + non-glucose reducing substance
 
@@ -516,7 +516,7 @@ The ion most responsible for the resting membrane potential?
 
 ---
 
-## PSM / Community Medicine
+## Community Medicine
 
 ### Q33 — Fruit-farmer with neuro illness
 
