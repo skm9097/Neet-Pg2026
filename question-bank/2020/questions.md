@@ -526,12 +526,15 @@ Complete perineal tear management 2 weeks post-home delivery.
 - A. Repair immediately
 - B. Repair after 6 months
 - C. Repair after 3 months
-- D. Repair after 3 months
+- D. Repair after 6 weeks
 
 <details><summary>Answer</summary>
 
-**Repair after 3 months** — Allow oedema/infection to settle. Old (chronic) tears repaired electively.
+**C. Repair after 3 months** — Allow oedema/infection to settle. Old (chronic) tears repaired electively after granulation tissue matures (≈3 months).
+
 </details>
+
+<!-- FIXED: original option D was duplicate of C ("Repair after 3 months"); substituted "Repair after 6 weeks". Answer block prefix corrected. -->
 
 ### Q34 — Wolffian duct remnants in females
 

@@ -462,8 +462,11 @@ Which statement is **incorrect** regarding Samter's triad?
 
 <details><summary>Answer</summary>
 
-**A — Incorrect.** Any COX-1 inhibitor can trigger it; not aspirin-specific.
+**A. It is only triggered by aspirin** — Incorrect statement. Any COX-1 inhibitor (not just aspirin) can trigger Samter's triad symptoms; aspirin is the most common trigger but not the exclusive one.
+
 </details>
+
+<!-- FIXED: answer block reformatted from non-standard "**A — Incorrect.**" to standard "**A. <option text> — explanation**" -->
 
 ### Q30 — Aprepitant mechanism
 
