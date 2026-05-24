@@ -507,7 +507,9 @@ Which chromosome is responsible for the production of MIF?
 
 <details><summary>Answer</summary>
 
-**B. Chromosome 22** — ● Anti-Mullerian Hormone (AMH) / Mullerian Inhibiting Factor (MIF); Mullerian-inhibiting Hormone (MIH) / Mullerian-inhibiting Substance (MIS). ○ AMH - Downstream genes regulated by SRY pathway ● SRY - Gene in “Sex determining region” - short arm of Y chromosome - Testis determining factor. ● Secrete
+**D. Y chromosome** — Production of Müllerian Inhibiting Factor (MIF/AMH) is initiated by the SRY gene on the short arm of the Y chromosome (testis-determining factor). SRY activates Sertoli cells to secrete MIF, which causes Müllerian duct regression in males. Although the AMH gene itself is located on chromosome 19, NEET-PG answer keys treat "responsible for production" as referring to the Y-chromosome SRY trigger.
+
+<!-- VERIFIED: Answer corrected from B→D. SRY on Y chromosome triggers MIF production via Sertoli cells. Aligns with 2018 file answer. -->
 
 </details>
 
@@ -3152,9 +3154,11 @@ Which of the statement regarding Factory act is correct
 
 <details><summary>Answer</summary>
 
-**A. Child age less than 14 carrying serious work earn more money**
+**B. Less than 14 yr not done for factory act** — Indian Factories Act 1948 prohibits employment of children below 14 years. Maximum working hours: 48 hrs/week (not 72 or 82). Option A is factually incorrect (children <14 are prohibited from factory work).
 
 </details>
+
+<!-- VERIFIED: Answer corrected from A→B. Factories Act 1948 prohibits <14 employment; 48hr/wk max. Aligns with 2018 file. -->
 
 ---
 

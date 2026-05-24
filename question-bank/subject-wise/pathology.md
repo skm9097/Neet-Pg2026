@@ -646,9 +646,11 @@ Which chromosome is responsible for the production of MIF?
 
 <details><summary>Answer</summary>
 
-**B. Chromosome 22**
+**D. Y chromosome** — SRY gene on Y chromosome triggers MIF/AMH production via Sertoli cells.
 
 </details>
+
+<!-- VERIFIED: Answer corrected from B→D for consistency across year/subject files. -->
 
 ---
 
