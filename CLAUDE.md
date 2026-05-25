@@ -67,9 +67,9 @@ Neet-Pg2026/
     ├── 2020/questions.md            ← 390 Qs (Medicoholic PYQ)
     ├── 2019/questions.md            ← 381 Qs (Medicoholic + nishantbhushan.in)
     ├── 2018/questions.md            ← 322 Qs (PrepLadder + Medicoholic)
-    ├── 2017/questions.md            ← 263 Qs (Medicoholic NEET-PG 2017)
+    ├── 2017/questions.md            ← 249 Qs (Medicoholic NEET-PG 2017)
     ├── 2016/questions.md            ← 1,871 Qs (Medicoholic PYQ compilation + firstranker.com)
-    ├── 2015/questions.md            ← 1,848 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
+    ├── 2015/questions.md            ← 1,846 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
     │
     ├── staging/                     ← unverified extracted questions pending review
     │   └── README.md
@@ -83,9 +83,9 @@ Neet-Pg2026/
 ```
 
 **Current totals (as of 2026-05-25, post-expansion):**
-- Year-wise: 6,239 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
+- Year-wise: 6,223 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
 - Subject-wise: 7,455 questions across all 19 NBE subjects (full year-wise pool merged in)
-- Grand total: ~13,600+ entries across year-wise + subject-wise
+- Grand total: ~13,550+ entries across year-wise + subject-wise
 - Gap: 2021 (227 Qs recall only, no official PDF source with answer key)
 - OBG: 1,060 Qs (most complete subject, extensively expanded)
 - Anatomy: 828 Qs (year-wise 2015+2016 Medicoholic + firstranker.com actual papers merged in)

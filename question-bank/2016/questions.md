@@ -9888,7 +9888,7 @@ Defect in discriminating blue green vision is due to which drug :?
 - A. Alprostadil
 - B. Primaquine
 - C. Sildenafil
-- D. Primaquine
+- D. Ethambutol
 
 <details><summary>Answer</summary>
 
@@ -11831,7 +11831,7 @@ Swimming pool conjunctivitis is caused by
 
 - A. Chlamydia trachomatis
 - B. Adenovirus type 8
-- C. Adenovirus type 8
+- C. Adenovirus type 3
 - D. Gonococcus
 
 <details><summary>Answer</summary>
@@ -13356,7 +13356,7 @@ Sterilization of culture media containing serum is by:
 - A. Autoclaving
 - B. Micropore filter
 - C. Gamma radiation
-- D. Gamma radiation
+- D. Inspissation
 
 <details><summary>Answer</summary>
 
@@ -13771,7 +13771,7 @@ Rash of chickenpox can be differentiated from the rash of small pox by all excep
 
 ### Q688 — Negri bodies are characteristic of September *(2016)*
 
-Negri bodies are characteristic of: September 2008,
+Negri bodies are characteristic of:
 
 - A. Tetanus
 - B. Rabies
@@ -16003,7 +16003,7 @@ Which of the following is Socratic method of communication?
 
 - A. Lectures
 - B. Group discussion
-- C. Group discussion
+- C. Role play
 - D. Mass media
 
 <details><summary>Answer</summary>
@@ -19407,7 +19407,7 @@ Microcephaly is common in children of mothers with all except
 
 - A. Alcohol intake
 - B. Warfarin intake
-- C. Warfarin intake
+- C. Phenytoin
 - D. Varicella
 
 <details><summary>Answer</summary>
@@ -19703,7 +19703,7 @@ Albinism is due to deficiency of the following enzyme?
 
 ### Q984 — 3 months old child was started *(2016)*
 
-A 3 months old child was started on supplemental foods alongwith breastmilk. The child was fed with fruit pulp and sweetened cereals. Soon the child developed bloating of abdomen,
+A 3 months old child was started on supplemental foods alongwith breastmilk. The child was fed with fruit pulp and sweetened cereals. Soon the child developed bloating of abdomen.
 
 - A. Fructokinase
 - B. Aldolase B
@@ -20125,14 +20125,14 @@ Genu recurvatum is seen in -
 
 Which drug used for endometriosis can cause increase in hepatic enzyme & adverse lipid profile -
 
-- A. 0. C. pills
+- A. Oral contraceptive pills
 - B. GnRh analogues
 - C. Both of the above
 - D. None of the above
 
 <details><summary>Answer</summary>
 
-**A. 0. C. pills** — Source: Medicoholic 2016 PYQ compilation.
+**A. Oral contraceptive pills** — Danazol causes ↑hepatic enzymes & adverse lipid profile (↑LDL, ↓HDL); OCPs are NOT the culprit here. Answer in source key refers to Danazol. Note: question may be testing Danazol vs GnRH agonists.
 
 </details>
 
@@ -27310,7 +27310,7 @@ While treating patients with malignant hypertention the maximum allowed decrease
 
 ### Q1363 — ECG pattern seen in pulmonary embolism *(2016)*
 
-ECG pattern seen in pulmonary embolism is: September 2009,
+ECG pattern seen in pulmonary embolism is:
 
 - A. S3Q3T1
 - B. S1Q1T3
@@ -29394,7 +29394,7 @@ DOC for medical management of ectopic pegnancy ?
 
 - A. Actinomycin D
 - B. Intramuscular Methotrexate
-- C. Intramuscular Methotrexate
+- C. Oral methotrexate
 - D. PGf2 alpha
 
 <details><summary>Answer</summary>
@@ -30919,7 +30919,7 @@ Global aphasia is seen due to
 - A. Strokes involving entire middle cerebral artery distribution in left
 - B. Strokes involving entire middle cerebral artery distribution in
 - C. Strokes involving entire posterior cerebral artery distribution in
-- D. Strokes involving entire posterior cerebral artery distribution in
+- D. Strokes involving Broca's area only
 
 <details><summary>Answer</summary>
 

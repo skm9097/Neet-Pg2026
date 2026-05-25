@@ -110,24 +110,7 @@ Broca’s area situated in:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#9 | OPTIONS_GENERATED: false -->
 
-### Q7 — Function of the muscle shown in picture
-
-Function of the muscle shown in picture:
-
-- A. Flexion
-- B. Extension
-- C. Adduction
-- D. Abduction
-
-<details><summary>Answer</summary>
-
-**A. Flexion** — ● Lumbricals are four short hand muscles located in the metacarpus deep to the palmar fascia. ● The lumbricals are intrinsic muscles of the hand that flex the metacarpophalangeal joints and extendthe interphalangeal joints. ● The lumbricals are used during an upstroke in writing.
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#10 | OPTIONS_GENERATED: false -->
-
-### Q8 — Acute tonsillitis effects which nerve
+### Q7 — Acute tonsillitis effects which nerve
 
 Acute tonsillitis effects which nerve:
 
@@ -144,7 +127,7 @@ Acute tonsillitis effects which nerve:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#11 | OPTIONS_GENERATED: false -->
 
-### Q9 — Structures not passing through Aortic opening
+### Q8 — Structures not passing through Aortic opening
 
 Structures not passing through Aortic opening:
 
@@ -161,7 +144,7 @@ Structures not passing through Aortic opening:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#12 | OPTIONS_GENERATED: false -->
 
-### Q10 — Newly erupted teeth is covered by
+### Q9 — Newly erupted teeth is covered by
 
 Newly erupted teeth is covered by:
 
@@ -180,26 +163,7 @@ Newly erupted teeth is covered by:
 
 ---
 
-### Q262 — Identify the type of muscle shown
-
-Identify the type of muscle shown in the image below.
-
-- A. Cruciate
-- B. Multipennate
-- C. Parallel
-- D. Unipennate
-
-<details><summary>Answer</summary>
-
-**B. Multipennate** — Source: Medicoholic 2017 NEET-PG.
-
-</details>
-
----
-
-## Physiology
-
-### Q11 — What should be the value of BMI to be considered a
+### Q10 — What should be the value of BMI to be considered a
 
 What should be the value of BMI to be considered as “Lethal” in men?
 
@@ -216,7 +180,7 @@ What should be the value of BMI to be considered as “Lethal” in men?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#14 | OPTIONS_GENERATED: false -->
 
-### Q12 — Which receptors are blocked in Myasthenia Gravis
+### Q11 — Which receptors are blocked in Myasthenia Gravis
 
 Which receptors are blocked in Myasthenia Gravis?
 
@@ -233,7 +197,7 @@ Which receptors are blocked in Myasthenia Gravis?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#15 | OPTIONS_GENERATED: false -->
 
-### Q13 — Alpha waves are seen during
+### Q12 — Alpha waves are seen during
 
 Alpha waves are seen during?
 
@@ -250,7 +214,7 @@ Alpha waves are seen during?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#19 | OPTIONS_GENERATED: false -->
 
-### Q14 — Components responsible for counter current mechani
+### Q13 — Components responsible for counter current mechani
 
 Components responsible for counter current mechanism in kidney are all except:
 
@@ -267,7 +231,7 @@ Components responsible for counter current mechanism in kidney are all except:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#21 | OPTIONS_GENERATED: false -->
 
-### Q15 — Glucose is absorbed in intestine by
+### Q14 — Glucose is absorbed in intestine by
 
 Glucose is absorbed in intestine by?
 
@@ -284,7 +248,7 @@ Glucose is absorbed in intestine by?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#22 | OPTIONS_GENERATED: false -->
 
-### Q16 — Insulin like growth factor is secreted by
+### Q15 — Insulin like growth factor is secreted by
 
 Insulin like growth factor is secreted by:
 
@@ -301,7 +265,7 @@ Insulin like growth factor is secreted by:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#23 | OPTIONS_GENERATED: false -->
 
-### Q17 — Transport across nucleus is by all except
+### Q16 — Transport across nucleus is by all except
 
 Transport across nucleus is by all except?
 
@@ -322,7 +286,7 @@ Transport across nucleus is by all except?
 
 ## Biochemistry
 
-### Q18 — Serotonin is also known as
+### Q17 — Serotonin is also known as
 
 Serotonin is also known as?
 
@@ -339,7 +303,7 @@ Serotonin is also known as?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#27 | OPTIONS_GENERATED: false -->
 
-### Q19 — Tyrosinosis is caused due to deficiency of which e
+### Q18 — Tyrosinosis is caused due to deficiency of which e
 
 Tyrosinosis is caused due to deficiency of which enzyme?
 
@@ -356,7 +320,7 @@ Tyrosinosis is caused due to deficiency of which enzyme?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#28 | OPTIONS_GENERATED: false -->
 
-### Q20 — Lesch–Nyhan syndrome is caused by deficiency of wh
+### Q19 — Lesch–Nyhan syndrome is caused by deficiency of wh
 
 Lesch–Nyhan syndrome is caused by deficiency of which enzyme?
 
@@ -373,7 +337,7 @@ Lesch–Nyhan syndrome is caused by deficiency of which enzyme?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#29 | OPTIONS_GENERATED: false -->
 
-### Q21 — Fish odour syndrome is caused by deficiency of whi
+### Q20 — Fish odour syndrome is caused by deficiency of whi
 
 Fish odour syndrome is caused by deficiency of which enzyme?
 
@@ -390,7 +354,7 @@ Fish odour syndrome is caused by deficiency of which enzyme?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#30 | OPTIONS_GENERATED: false -->
 
-### Q22 — Galactosemia is due to deficiency of which enzymes
+### Q21 — Galactosemia is due to deficiency of which enzymes
 
 Galactosemia is due to deficiency of which enzymes?
 
@@ -407,7 +371,7 @@ Galactosemia is due to deficiency of which enzymes?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#31 | OPTIONS_GENERATED: false -->
 
-### Q23 — About DNA polymerase I which one is correct
+### Q22 — About DNA polymerase I which one is correct
 
 About DNA polymerase I which one is correct?
 
@@ -424,7 +388,7 @@ About DNA polymerase I which one is correct?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#33 | OPTIONS_GENERATED: false -->
 
-### Q24 — What does chaperones assist in
+### Q23 — What does chaperones assist in
 
 What does chaperones assist in?
 
@@ -445,7 +409,7 @@ What does chaperones assist in?
 
 ## Pathology
 
-### Q25 — TRALI occurs within how many hours of transfusion
+### Q24 — TRALI occurs within how many hours of transfusion
 
 TRALI occurs within how many hours of transfusion?
 
@@ -462,7 +426,7 @@ TRALI occurs within how many hours of transfusion?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#46 | OPTIONS_GENERATED: false -->
 
-### Q26 — Which of the following is epithelial tumor of stom
+### Q25 — Which of the following is epithelial tumor of stom
 
 Which of the following is epithelial tumor of stomach?
 
@@ -479,7 +443,7 @@ Which of the following is epithelial tumor of stomach?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#49 | OPTIONS_GENERATED: false -->
 
-### Q27 — Identify an X linked disorder
+### Q26 — Identify an X linked disorder
 
 Identify an X linked disorder?
 
@@ -496,7 +460,7 @@ Identify an X linked disorder?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#50 | OPTIONS_GENERATED: false -->
 
-### Q28 — Which option best explains “Flipping effect”
+### Q27 — Which option best explains “Flipping effect”
 
 Which option best explains “Flipping effect”?
 
@@ -513,7 +477,7 @@ Which option best explains “Flipping effect”?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#53 | OPTIONS_GENERATED: false -->
 
-### Q29 — Which chromosome is responsible for the production
+### Q28 — Which chromosome is responsible for the production
 
 Which chromosome is responsible for the production of MIF?
 
@@ -534,7 +498,7 @@ Which chromosome is responsible for the production of MIF?
 
 ---
 
-### Q259 — Which drugs needs continuous monitoring of
+### Q29 — Which drugs needs continuous monitoring of
 
 Which drugs needs continuous monitoring of prothrombin time? A.Aspirin B.Lepirudin C.Digoxin D. Coumadin Ans.D Warfarin is a coumarin anticoagulant used for the prophylaxis and treatment of thromboembolic complications associated with cardiac valve replacement and atrial fibrillation,as well as the prophylaxis and treatment of venous thrombosis and pulmonary embolism.Increased metabolism of warfarin results in insufficient prolongation of prothrombin time. Question 271 Which of the following are the risk factor for cutaneous lymphoma?
 
@@ -1109,24 +1073,7 @@ Which of the following constitutional article is not related to children:
 
 ## Surgery
 
-### Q62 — Which of the following statement is true about sut
-
-Which of the following statement is true about suture material in the image:
-
-- A. Made of rabbit submucosa
-- B. Made of cat submucosa
-- C. Not degraded
-- D. Degraded by enzymatic degradation
-
-<details><summary>Answer</summary>
-
-**D. Degraded by enzymatic degradation** — Sutures such as catgut are derived from sheep submucosa or beef serosa are digested by proteolytic enzymes in the wound.
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#162 | OPTIONS_GENERATED: false -->
-
-### Q63 — Van nuys prognostic index is not based on
+### Q62 — Van nuys prognostic index is not based on
 
 Van nuys prognostic index is not based on:
 
@@ -1143,7 +1090,7 @@ Van nuys prognostic index is not based on:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#163 | OPTIONS_GENERATED: false -->
 
-### Q64 — Which of the following layers are cut during fasci
+### Q63 — Which of the following layers are cut during fasci
 
 Which of the following layers are cut during fasciotomy ?
 
@@ -1160,7 +1107,7 @@ Which of the following layers are cut during fasciotomy ?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#166 | OPTIONS_GENERATED: false -->
 
-### Q65 — Which statement is not true regarding crohn's dise
+### Q64 — Which statement is not true regarding crohn's dise
 
 Which statement is not true regarding crohn's disease :
 
@@ -1177,7 +1124,7 @@ Which statement is not true regarding crohn's disease :
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#167 | OPTIONS_GENERATED: false -->
 
-### Q66 — Which is the best investigation for carcinoma head
+### Q65 — Which is the best investigation for carcinoma head
 
 Which is the best investigation for carcinoma head of pancreas:
 
@@ -1198,7 +1145,7 @@ Which is the best investigation for carcinoma head of pancreas:
 
 ## Orthopaedics
 
-### Q67 — What is mechanism of action of Curanium drugs as m
+### Q66 — What is mechanism of action of Curanium drugs as m
 
 What is mechanism of action of Curanium drugs as muscle relaxant?
 
@@ -1219,7 +1166,7 @@ What is mechanism of action of Curanium drugs as muscle relaxant?
 
 ## ENT
 
-### Q68 — Tracheostomy indication is
+### Q67 — Tracheostomy indication is
 
 Tracheostomy indication is:
 
@@ -1236,7 +1183,7 @@ Tracheostomy indication is:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#151 | OPTIONS_GENERATED: false -->
 
-### Q69 — Which is thickened nerve shown here
+### Q68 — Which is thickened nerve shown here
 
 Which is thickened nerve shown here:
 
@@ -1257,7 +1204,7 @@ Which is thickened nerve shown here:
 
 ## Ophthalmology
 
-### Q70 — 100 day Glaucoma seen in which of the following co
+### Q69 — 100 day Glaucoma seen in which of the following co
 
 100 day Glaucoma seen in which of the following condition:
 
@@ -1274,7 +1221,7 @@ Which is thickened nerve shown here:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#155 | OPTIONS_GENERATED: false -->
 
-### Q71 — Yoke muscle of right lateral rectus
+### Q70 — Yoke muscle of right lateral rectus
 
 Yoke muscle of right lateral rectus:
 
@@ -1291,7 +1238,7 @@ Yoke muscle of right lateral rectus:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#157 | OPTIONS_GENERATED: false -->
 
-### Q72 — Which is example of the Simple Myopic Astigmatism
+### Q71 — Which is example of the Simple Myopic Astigmatism
 
 Which is example of the Simple Myopic Astigmatism among the prescriptions given below:
 
@@ -1312,7 +1259,7 @@ Which is example of the Simple Myopic Astigmatism among the prescriptions given 
 
 ## Psychiatry
 
-### Q73 — A patient with a history of RTA before 2 months pr
+### Q72 — A patient with a history of RTA before 2 months pr
 
 A patient with a history of RTA before 2 months presents with complaints of dreams of accidents. He is able to visualize the same scene whenever he visits the place. Hence is afraid to go back to the accident site. Identify the type of disorder that he might be suffering from?
 
@@ -1333,7 +1280,7 @@ A patient with a history of RTA before 2 months presents with complaints of drea
 
 ## Radiology
 
-### Q74 — Dye used in diagnosis of esophageal perforation
+### Q73 — Dye used in diagnosis of esophageal perforation
 
 Dye used in diagnosis of esophageal perforation:
 
@@ -1350,7 +1297,7 @@ Dye used in diagnosis of esophageal perforation:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#219 | OPTIONS_GENERATED: false -->
 
-### Q75 — Bragg peak effect pronounced in
+### Q74 — Bragg peak effect pronounced in
 
 Bragg peak effect pronounced in:
 
@@ -1367,7 +1314,7 @@ Bragg peak effect pronounced in:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#220 | OPTIONS_GENERATED: false -->
 
-### Q76 — Salt and Pepper pot appearance of skull seen in
+### Q75 — Salt and Pepper pot appearance of skull seen in
 
 Salt and Pepper pot appearance of skull seen in:
 
@@ -1384,41 +1331,7 @@ Salt and Pepper pot appearance of skull seen in:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#221 | OPTIONS_GENERATED: false -->
 
-### Q77 — Spot radiograph from a double contrast esophagram
-
-Spot radiograph from a double contrast esophagram. Image represents:
-
-- A. Esophageal atresia
-- B. Esophageal stenosis
-- C. Feline oesophagus
-- D. Tracheoesophageal fistula
-
-<details><summary>Answer</summary>
-
-**C. Feline oesophagus** — In given image, there are numerous 1-2 mm radiolucent folds across the oesophagus. The folds are angled with respect to the center of the oesophagus in a "herringbone" pattern. The folds occur transiently. Feline oesophagus also known as oesophageal shiver, refers to the transient transverse bands s
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#223 | OPTIONS_GENERATED: false -->
-
-### Q78 — What is diagnosis based on given image
-
-What is diagnosis based on given image:
-
-- A. Uterus didelphys
-- B. Bicornuate Uterus
-- C. Unicornuate Uterus
-- D. Septate uterus
-
-<details><summary>Answer</summary>
-
-**C. Unicornuate Uterus** — ● A unicornuate uterus or unicornis unicollis is a type of Mullerian duct anomaly (class II) that is the second most commonly associated with miscarriages. ● This type can account for ~10% (range 6-13%) of uterine anomalies and infertility is seen in ~12.5% (range 5-20%) of cases. Above image unicor
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#225 | OPTIONS_GENERATED: false -->
-
-### Q79 — X ray of skull showing which lesions in brain
+### Q76 — X ray of skull showing which lesions in brain
 
 X ray of skull showing which lesions in brain:
 
@@ -1435,7 +1348,7 @@ X ray of skull showing which lesions in brain:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#226 | OPTIONS_GENERATED: false -->
 
-### Q80 — CT scan of abdomen showing an area that branching
+### Q77 — CT scan of abdomen showing an area that branching
 
 CT scan of abdomen showing an area that branching into the liver. Identify the structure ?
 
@@ -1456,7 +1369,7 @@ CT scan of abdomen showing an area that branching into the liver. Identify the s
 
 ## Miscellaneous
 
-### Q81 — A 55 years aged chronic alcoholic male, presented
+### Q78 — A 55 years aged chronic alcoholic male, presented
 
 A 55 years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable diagnosis?
 
@@ -1473,7 +1386,7 @@ A 55 years aged chronic alcoholic male, presented with irrelevant talks, tremor 
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#237 | OPTIONS_GENERATED: false -->
 
-### Q82 — Which of the following is carrying agent for the d
+### Q79 — Which of the following is carrying agent for the d
 
 Which of the following is carrying agent for the disease with given characteristic on polarized microscopy?
 
@@ -1490,7 +1403,7 @@ Which of the following is carrying agent for the disease with given characterist
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#238 | OPTIONS_GENERATED: false -->
 
-### Q83 — Which of the following is best Stent for Femoropop
+### Q80 — Which of the following is best Stent for Femoropop
 
 Which of the following is best Stent for Femoropopliteal Bypass?
 
@@ -1507,7 +1420,7 @@ Which of the following is best Stent for Femoropopliteal Bypass?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#239 | OPTIONS_GENERATED: false -->
 
-### Q84 — Which of the following condition is NOT caused by
+### Q81 — Which of the following condition is NOT caused by
 
 Which of the following condition is NOT caused by Parvovirus B19?
 
@@ -1524,7 +1437,7 @@ Which of the following condition is NOT caused by Parvovirus B19?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#244 | OPTIONS_GENERATED: false -->
 
-### Q85 — Which of the following statements is not true abou
+### Q82 — Which of the following statements is not true abou
 
 Which of the following statements is not true about iliolumbar ligament?
 
@@ -1541,7 +1454,7 @@ Which of the following statements is not true about iliolumbar ligament?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#245 | OPTIONS_GENERATED: false -->
 
-### Q86 — Where will be the placement location for Auditory
+### Q83 — Where will be the placement location for Auditory
 
 Where will be the placement location for Auditory Brainstem Implant?
 
@@ -1558,7 +1471,7 @@ Where will be the placement location for Auditory Brainstem Implant?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#246 | OPTIONS_GENERATED: false -->
 
-### Q87 — Which condition is associated with Congenital adre
+### Q84 — Which condition is associated with Congenital adre
 
 Which condition is associated with Congenital adrenal hypoplasia?
 
@@ -1575,7 +1488,7 @@ Which condition is associated with Congenital adrenal hypoplasia?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#247 | OPTIONS_GENERATED: false -->
 
-### Q88 — Which is true regarding ataxia telangiectasia
+### Q85 — Which is true regarding ataxia telangiectasia
 
 Which is true regarding ataxia telangiectasia:
 
@@ -1592,7 +1505,7 @@ Which is true regarding ataxia telangiectasia:
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#248 | OPTIONS_GENERATED: false -->
 
-### Q89 — Which is the treatment of choice for irradiation i
+### Q86 — Which is the treatment of choice for irradiation i
 
 Which is the treatment of choice for irradiation in Chordoma?
 
@@ -1609,7 +1522,7 @@ Which is the treatment of choice for irradiation in Chordoma?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#273 | OPTIONS_GENERATED: false -->
 
-### Q90 — A woman shows symptoms of massive pulmonary thromb
+### Q87 — A woman shows symptoms of massive pulmonary thromb
 
 A woman shows symptoms of massive pulmonary thromboembolism.The gross appearance of liver autopsy is shown. Which of the following statement best characterizes the patient’s condition?
 
@@ -1626,7 +1539,7 @@ A woman shows symptoms of massive pulmonary thromboembolism.The gross appearance
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#274 | OPTIONS_GENERATED: false -->
 
-### Q91 — Which of the following statement is false about MR
+### Q88 — Which of the following statement is false about MR
 
 Which of the following statement is false about MR vaccination campaign launched by WHO?
 
@@ -1643,7 +1556,7 @@ Which of the following statement is false about MR vaccination campaign launched
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#275 | OPTIONS_GENERATED: false -->
 
-### Q92 — Marked bleeding is seen in which of following cond
+### Q89 — Marked bleeding is seen in which of following cond
 
 Marked bleeding is seen in which of following conditions?
 
@@ -1660,7 +1573,7 @@ Marked bleeding is seen in which of following conditions?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#277 | OPTIONS_GENERATED: false -->
 
-### Q93 — What is the effect of Progesterone only pills
+### Q90 — What is the effect of Progesterone only pills
 
 What is the effect of Progesterone only pills?
 
@@ -1677,7 +1590,7 @@ What is the effect of Progesterone only pills?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#281 | OPTIONS_GENERATED: false -->
 
-### Q94 — Which drug decreases the bone resorption in osteop
+### Q91 — Which drug decreases the bone resorption in osteop
 
 Which drug decreases the bone resorption in osteoporosis?
 
@@ -1694,7 +1607,7 @@ Which drug decreases the bone resorption in osteoporosis?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#283 | OPTIONS_GENERATED: false -->
 
-### Q95 — Maastricht classification of donation after cardia
+### Q92 — Maastricht classification of donation after cardia
 
 Maastricht classification of donation after cardiac death.What category is stage 3 ?
 
@@ -1711,7 +1624,7 @@ Maastricht classification of donation after cardiac death.What category is stage
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#286 | OPTIONS_GENERATED: false -->
 
-### Q96 — What is the cause of myocardial shock other than M
+### Q93 — What is the cause of myocardial shock other than M
 
 What is the cause of myocardial shock other than MI ?
 
@@ -1728,7 +1641,7 @@ What is the cause of myocardial shock other than MI ?
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#287 | OPTIONS_GENERATED: false -->
 
-### Q97 — Nitric oxide acts by increasing
+### Q94 — Nitric oxide acts by increasing
 
 Nitric oxide acts by increasing ?
 
@@ -1749,7 +1662,7 @@ Nitric oxide acts by increasing ?
 
 ## Obstetrics & Gynaecology
 
-### Q98 — Shoulder Dystocia Management *(2017)*
+### Q95 — Shoulder Dystocia Management *(2017)*
 
 Shoulder dystocia is managed by:
 
@@ -1766,7 +1679,7 @@ Shoulder dystocia is managed by:
 
 ---
 
-### Q99 — True Hermaphroditism Karyotype *(2017)*
+### Q96 — True Hermaphroditism Karyotype *(2017)*
 
 True hermaphroditism (ovotesticular DSD) karyotype is:
 
@@ -1783,7 +1696,7 @@ True hermaphroditism (ovotesticular DSD) karyotype is:
 
 ---
 
-### Q100 — Peripartum Cardiomyopathy Timing *(2017)*
+### Q97 — Peripartum Cardiomyopathy Timing *(2017)*
 
 Peripartum cardiomyopathy occurs:
 
@@ -1800,7 +1713,7 @@ Peripartum cardiomyopathy occurs:
 
 ---
 
-### Q101 — Nerve Compressed in Pregnancy/Puerperium *(2017)*
+### Q98 — Nerve Compressed in Pregnancy/Puerperium *(2017)*
 
 The nerve most commonly compressed during pregnancy/puerperium is:
 
@@ -1817,7 +1730,7 @@ The nerve most commonly compressed during pregnancy/puerperium is:
 
 ---
 
-### Q102 — Thyroid Changes in Pregnancy *(2017)*
+### Q99 — Thyroid Changes in Pregnancy *(2017)*
 
 In pregnancy, which of the following is altered most:
 
@@ -1834,7 +1747,7 @@ In pregnancy, which of the following is altered most:
 
 ---
 
-### Q103 — Paget's Disease Association *(2017)*
+### Q100 — Paget's Disease Association *(2017)*
 
 Extramammary Paget's disease is associated with which gynaecological site:
 
@@ -1851,7 +1764,7 @@ Extramammary Paget's disease is associated with which gynaecological site:
 
 ---
 
-### Q104 — Superfecundation Definition *(2017)*
+### Q101 — Superfecundation Definition *(2017)*
 
 Superfecundation is:
 
@@ -1868,7 +1781,7 @@ Superfecundation is:
 
 ---
 
-### Q105 — Anaesthesia for Caesarean in Severe Pre-eclampsia *(2017)*
+### Q102 — Anaesthesia for Caesarean in Severe Pre-eclampsia *(2017)*
 
 Anaesthesia of choice for caesarean section in severe pre-eclampsia is:
 
@@ -1885,7 +1798,7 @@ Anaesthesia of choice for caesarean section in severe pre-eclampsia is:
 
 ---
 
-### Q106 — High Risk Pregnancy — Exception *(2017)*
+### Q103 — High Risk Pregnancy — Exception *(2017)*
 
 Which of the following is NOT a high-risk pregnancy condition:
 
@@ -1902,7 +1815,7 @@ Which of the following is NOT a high-risk pregnancy condition:
 
 ---
 
-### Q107 — Drug NOT Used in Pre-eclampsia *(2017)*
+### Q104 — Drug NOT Used in Pre-eclampsia *(2017)*
 
 Which of the following is not used in pre-eclampsia:
 
@@ -1919,7 +1832,7 @@ Which of the following is not used in pre-eclampsia:
 
 ---
 
-### Q108 — D&C Contraindication *(2017)*
+### Q105 — D&C Contraindication *(2017)*
 
 Dilatation and curettage (D&C) is contraindicated in:
 
@@ -1936,7 +1849,7 @@ Dilatation and curettage (D&C) is contraindicated in:
 
 ---
 
-### Q109 — Wharton's Jelly Location *(2017)*
+### Q106 — Wharton's Jelly Location *(2017)*
 
 Which of the following is correct regarding placenta:
 
@@ -1953,7 +1866,7 @@ Which of the following is correct regarding placenta:
 
 ---
 
-### Q110 — Acute Fatty Liver of Pregnancy Trimester *(2017)*
+### Q107 — Acute Fatty Liver of Pregnancy Trimester *(2017)*
 
 Acute fatty liver is most commonly seen in pregnancy at:
 
@@ -1970,7 +1883,7 @@ Acute fatty liver is most commonly seen in pregnancy at:
 
 ---
 
-### Q111 — Fetoplacental Circulation Establishment *(2017)*
+### Q108 — Fetoplacental Circulation Establishment *(2017)*
 
 Fetoplacental circulation is established at:
 
@@ -1987,7 +1900,7 @@ Fetoplacental circulation is established at:
 
 ---
 
-### Q112 — Fimbriectomy Method *(2017)*
+### Q109 — Fimbriectomy Method *(2017)*
 
 Fimbriectomy procedure is known as:
 
@@ -2004,7 +1917,7 @@ Fimbriectomy procedure is known as:
 
 ---
 
-### Q113 — RDA of Iodine in Lactation *(2017)*
+### Q110 — RDA of Iodine in Lactation *(2017)*
 
 RDA of iodine during lactation is (micrograms/day):
 
@@ -2021,7 +1934,7 @@ RDA of iodine during lactation is (micrograms/day):
 
 ---
 
-### Q114 — Secondary PPH — Not a Cause *(2017)*
+### Q111 — Secondary PPH — Not a Cause *(2017)*
 
 Which of the following is NOT a cause of secondary postpartum haemorrhage:
 
@@ -2038,7 +1951,7 @@ Which of the following is NOT a cause of secondary postpartum haemorrhage:
 
 ---
 
-### Q115 — Quadruple Test Timing *(2017)*
+### Q112 — Quadruple Test Timing *(2017)*
 
 Best time to do the quadruple test (quad screen) is:
 
@@ -2055,7 +1968,7 @@ Best time to do the quadruple test (quad screen) is:
 
 ---
 
-### Q116 — Drug for Fetal Lung Maturity *(2017)*
+### Q113 — Drug for Fetal Lung Maturity *(2017)*
 
 Drug used for fetal lung maturity is:
 
@@ -2072,7 +1985,7 @@ Drug used for fetal lung maturity is:
 
 ---
 
-### Q117 — Pessary Ring Placement Verification *(2017)*
+### Q114 — Pessary Ring Placement Verification *(2017)*
 
 In uterine prolapse, how do you know the ring pessary is in place:
 
@@ -2089,7 +2002,7 @@ In uterine prolapse, how do you know the ring pessary is in place:
 
 ---
 
-### Q118 — Hormone Therapy Indication in Menopause *(2017)*
+### Q115 — Hormone Therapy Indication in Menopause *(2017)*
 
 Hormone therapy is indicated in menopausal women for:
 
@@ -2108,26 +2021,7 @@ Hormone therapy is indicated in menopausal women for:
 
 <!-- Source: Medicoholic NEET-PG 2017 PYQ compilation -->
 
-### Q260 — What is the Thinnest part of
-
-What is the Thinnest part of neuro-retinal rim according to ISNT rule? A. Inferior B. Superficial C. Temporal D. Medial Ans. C. Temporal The ISNT rule is an easy way to remember how the optic nerve is supposed to look in a normal eye. Normally the neuro-retinal rim is thickest Inferiorly and thinnest Temporally. With glaucoma, however, you begin to see vertical thinning, with atrophy along the inferior and superior rims. Question: 251 Leiden thrombophilia is caused by mutational deficiency of which of the following factors? A. Factor V B. Factor VII C. Factor IX D. Factor X Ans. A. Factor V Factor V Leiden thrombophilia is an inherited disorder of blood clotting. Factor V Leiden is the name of a specific mutation (genetic alteration) that results in thrombophilia, or an increased tendency to form abnormal blood clots in blood vessels. Factor V Leiden is the most common inherited form of thrombophilia. Question:252 Anteversion of uterus is maintained by? A. Cardinal B. Uterosacral C. Pubocervical D. Round Ans. D. Round In most women, the uterus is anteverted and anteflexed. The function of the round ligament is maintenance of the anteversion of the uterus(a position where the fundus of the uterus is turned forward at the junction of cervix and vagina) during pregnancy. Normally, the cardinal ligament is what supports the uterine angle (angle of anteversion). Question:253 Long standing pelvic inflammation may lead to which of the following conditions? A. Pyometra B. Uterine polyposis C. Pseudopregnancy D. Cystic endometrial hyperplasia Ans. A.Pyometra Pyometra is collection of pus due to obstruction of flow in the uterine cavity. It may be due to Long standing PID or secondary to cervical stenosis. Question:254 A red soft to firm swelling on sternum that on biopsy shows following histology. What is the diagnosis? A. Hemangioma B. Osteochondroma C. Osteoid osteoma D. Paget disease Ans. A. Hemangioma Clinical presentation These tumours are slow growing and are generally asymptomatic unless they exert mass effect on sensitive structures. Occasionally they may present as a swelling or a palpable mass, especially in the skull. When large and strategically located they may present with a pathological fracture. If they are high-flow lesions, shunt-related symptoms may also be present. Pathology Primary intraosseous haemangiomas are slow growing vascular neoplasms, usually located in the medullary cavity. They are classified as benign, but rarely may be locally aggressive. Histology Histologically, intraosseous haemangiomas demonstrate hamartomatous vascular tissue within endothelium, but may also contain fat, smooth muscle, fibrous tissue, and thrombi. Question:255 What differentiates delirium from dementia? A. Confusion B. Difficulty in communicating C. Hallucination D. Sudden change Delirium Also called the acute confusional state, delirium is a medical condition that results in confusion and other disruptions in thinking and behavior, including changes in perception, attention, mood and activity level. In dementia, changes in memory and intellect are slowly evident over months or years. Delirium is a more abrupt confusion, emerging over days or weeks, and represents a suddenchange from the person’s previous course of dementia. Thinking becomes more disorganized, and maintaining a coherent conversation may not be possible. The hallmark separating delirium from underlying dementia is inattention. The individual simply cannot focus on one idea or task. Question:256 Genital warts are caused by which virus? A. Herpes simplex B. Human papilloma C. Cytomegalovirus D. Varicella zoster Ans. B.Human papilloma Genital warts are soft growths that appear on the genitals. Genital warts are a sexually transmitted infection (STI) caused by certain strains of the human papillomavirus (HPV). These skin growths can cause pain, discomfort, and itching. Question:257 Which drug regimen is given in a pregnant woman with HIV infection? A. Tenofovir disoproxil fumarate with emtricitabine B. Tenofovir disoproxil fumarate with lamivudine C. Abacavir with lamivudine D. All Ans. D. All Two-NRTI backbone Regimens include the following: ● Tenofovir disoproxil fumarate with emtricitabine (TDF/FTC co-formulated) or tenofovir disoproxil fumarate with lamivudine (3TC) once daily (use with caution in renal insufficiency) or ● Abacavir with lamivudine (ABC/3TC) once daily (only if HLA-B5701–negative); avoid combination with ritonavir-boosted atazanavir if the pretreatment HIV viral load exceeds 100,000 copies/mL. For women who have never taken HIV medicines, the preferred HIV regimen should include two nucleoside reverse transcriptase inhibitors (NRTIs) plus an integrase strand transfer inhibitor (INSTI), a non-nucleoside reverse transcriptase inhibitor (NNRTI), or a protease inhibitor (PI) with low-dose ritonavir (brand name: Norvir). The regimen generally should include at least one of the following NRTIs that pass easily across the placenta: ● abacavir (brand name: Ziagen) ● emtricitabine (brand name: Emtriva) ● lamivudine (brand name: Epivir) ● tenofovir disoproxil fumarate(brand name: Viread) ● zidovudine (brand name: Retrovir) Question: 258 Which of the following structure develops from dorsal mesentery? A. Greater omentum B. Lesser omentum C. Liver D. Diaphragm Ans. A. The portion of the dorsal mesentery that attaches to the greater curvature of the stomach, is known as the dorsal mesogastrium. The part of the dorsal mesentery that suspends the colon is termed the mesocolon. The dorsal mesogastrium develops into the greater omentum. Question 259: What is the structure seen in the given X-ray below? A. Stent B. Surgical clips C. Foley catheter D. Intravesical wire Ans. A. Stent Plain abdominal X ray showing a stent in the right and left ureter. Ureteric stents,also known as double J stents or retrograde ureteric stents, is a urological catheter that has two "J-shaped" (curled) ends, where one is anchored in the renal pelvis and the other inside the bladder. Stents are used for the free passage of urine from the kidney to the bladder, in adverse conditions such as postoperative urologic procedures, and previously to lithotripsy and ureteral obstructions. Indications Stents may be uses for a short of long term period depending on the indication: ● obstruction from urolithiasis ● malignant obstruction (typically pelvic malignancies) ● benign strictures ● retroperitoneal fibrosis bilateral ureteric stents Question 260: What is the diagnosis based on the following X-ray? A. Uterine Fibroid B. Bladder Carcinoma C. Bladder stone D. Renal Tuberculosis Ans. C. Bladder stone Multiple bladder calculi. Four oval radiopaque bladder stones are visible centrally in the pelvis. Most bladder calculi are round or oval, but they may also be amorphous, laminated, or even spiculated. Bladder stones are small mineral deposits that can form in the bladder. In most cases bladder stones develop when the urine becomes very concentrated or when one is dehydrated. This allows for minerals, such as calcium or magnesium salts, to crystallize and form stones. In some cases bladder stones do not cause any symptoms and are discovered as an incidental finding on a plain radiograph. Bladder stones vary in their size, shape and texture- some are small, hard and smooth whereas others are huge, spiked and very soft. One can have one or multiple stones. Bladder stones are somewhat more common in men who have prostate enlargement. The large prostate presses on the urethra and makes it difficult to pass urine. Over time, stagnant urine collects in the bladder and minerals like calcium start to precipitate. Radiography The initial imaging study of choice is plain radiography of the kidneys, ureters, and bladder (KUB), which is the least expensive and easiest radiologic test to obtain. Pure uric acid and ammonium urate stones are radiolucent but may be coated with a layer of opaque calcium sediment. Laminations are common, with the layers stratified according to metabolic and infectious status and the degree of periodic hematuria (see the images below). Multiple laminated bladder calculi in patient with neurogenic bladder. Question 261: By which method foreign DNA is introduced into a cell by a virus or viral vector? A. Transduction B. Transcription C. Lysogenic conversion D. Transformation Ans. A. Transduction Transduction is the process by which foreign DNA is introduced into a cell by a virus or viral vector. An example is the viral transfer of DNA from one bacterium to another. Question 262: Which one of the following shows allosteric inhibition? A. Malonic acid & succinate B. 2,3 BPG C. Amino acid alanine & pyruvate kinase D. Citrate Negative allosteric modulation (also known as allosteric inhibition) occurs when the binding of one ligand decreases the affinity for substrate at other active sites. For example, when 2,3-BPG binds to an allosteric site on hemoglobin, the affinity for oxygen of all subunits decreases. Question 263: Which of the following is seen in seropositive rheumatoid arthritis? A. Multiple joints affected B. Symmetrical joint symptoms C. Joint pain and swelling D. All ● Positive for Rheumatoid factor in blood is seropositivity. ● Patients with positive rheumatoid factor usually present with symptoms like ● Joint deformities & disability ● Symmetrical involvement of joints ● Inflammation ● Swelling and painful in multiple joints, especially of hands and feet. ● Morning stiffness (short term) ● Development of firm lumps near joints - “Rheumatoid nodules” ● Deterioration of bone & cartilage (X- ray findings) Question 264: Which of the following is not seen in Anterior mediastinum A. Thyroid tumour B. Thymoma C. Lymphoma D. Neurogenic tumor ● The anterior mediastinum is the portion of the mediastinum anterior to the pericardium and below the thoracic plane. ● It forms the anterior part of the inferior mediastinum ● contains the thymus, lymph nodes, and may contain the portions of a retrosternal thyroid. Mediastinal Tumors and Other Masses Superior Mediastinum Anterior Mediastinum Posterior Mediastinum Middle Mediastinum Lymphoma Thymoma Neurogenic tumors Bronchogenic cyst Thymoma Teratoma Lymphoma Pericardial cyst Thyroid lesions Lymphoma Gastroenteric hernia Lymphoma Metastatic carcinoma Thyroid lesions Parathyroid tumors Parathyroid tumors Question 265: Struvite stone is caused by which metal?
-
-- A. Results in hyperthyroidism
-- B. Autoimmune disorder
-- C. Common in Male
-- D. Referred as Toxic diffuse goitre
-
-<details><summary>Answer</summary>
-
-**D. Referred as Toxic diffuse goitre** — Source: Medicoholic 2017 NEET-PG.
-
-</details>
-
----
-
-## Anatomy
-
-### Q119 — Hard palate contains *(2017)*
+### Q116 — Hard palate contains *(2017)*
 
 Hard palate contains:
 
@@ -2144,7 +2038,7 @@ Hard palate contains:
 
 ---
 
-### Q120 — Thrombosis of posterior inferior cerebellar artery *(2017)*
+### Q117 — Thrombosis of posterior inferior cerebellar artery *(2017)*
 
 Thrombosis of posterior inferior cerebellar artery causes:
 
@@ -2161,26 +2055,7 @@ Thrombosis of posterior inferior cerebellar artery causes:
 
 ---
 
-### Q263 — Identify the type of muscle shown
-
-Identify the type of muscle shown in the image below.
-
-- A. Cruciate
-- B. Multipennate
-- C. Parallel
-- D. Unipennate
-
-<details><summary>Answer</summary>
-
-**B. Multipennate** — Source: Medicoholic 2017 NEET-PG.
-
-</details>
-
----
-
-## Biochemistry
-
-### Q121 — Which of the following is most *(2017)*
+### Q118 — Which of the following is most *(2017)*
 
 Which of the following is most abundant end product of fatty acid synthesis
 
@@ -2197,7 +2072,7 @@ Which of the following is most abundant end product of fatty acid synthesis
 
 ---
 
-### Q122 — Fishy odour occurs due to deficiency *(2017)*
+### Q119 — Fishy odour occurs due to deficiency *(2017)*
 
 Fishy odour occurs due to deficiency of this vitamin from diet
 
@@ -2214,7 +2089,7 @@ Fishy odour occurs due to deficiency of this vitamin from diet
 
 ---
 
-### Q123 — VMA is excreted in urine in *(2017)*
+### Q120 — VMA is excreted in urine in *(2017)*
 
 VMA is excreted in urine in which condition
 
@@ -2231,7 +2106,7 @@ VMA is excreted in urine in which condition
 
 ---
 
-### Q124 — All of the following are excreted *(2017)*
+### Q121 — All of the following are excreted *(2017)*
 
 All of the following are excreted in cystinuria except
 
@@ -2248,7 +2123,7 @@ All of the following are excreted in cystinuria except
 
 ---
 
-### Q125 — Fibrinopeptide A and fibrinopeptide B are *(2017)*
+### Q122 — Fibrinopeptide A and fibrinopeptide B are *(2017)*
 
 Fibrinopeptide A and fibrinopeptide B are acidic due to the presence of which amino acids in its structure
 
@@ -2265,7 +2140,7 @@ Fibrinopeptide A and fibrinopeptide B are acidic due to the presence of which am
 
 ---
 
-### Q126 — HIAA in urine present in *(2017)*
+### Q123 — HIAA in urine present in *(2017)*
 
 HIAA in urine present in?
 
@@ -2284,7 +2159,7 @@ HIAA in urine present in?
 
 ## Pathology
 
-### Q127 — Warthin finkeldey cells are seen in *(2017)*
+### Q124 — Warthin finkeldey cells are seen in *(2017)*
 
 Warthin finkeldey cells are seen in
 
@@ -2301,7 +2176,7 @@ Warthin finkeldey cells are seen in
 
 ---
 
-### Q128 — CD59 marker of which disease *(2017)*
+### Q125 — CD59 marker of which disease *(2017)*
 
 CD59 marker of which disease
 
@@ -2318,7 +2193,7 @@ CD59 marker of which disease
 
 ---
 
-### Q129 — Opsonin is *(2017)*
+### Q126 — Opsonin is *(2017)*
 
 Opsonin is
 
@@ -2335,7 +2210,7 @@ Opsonin is
 
 ---
 
-### Q130 — BernardSoulier syndrome due to deficiency of *(2017)*
+### Q127 — BernardSoulier syndrome due to deficiency of *(2017)*
 
 Bernard–Soulier syndrome due to deficiency of
 
@@ -2352,7 +2227,7 @@ Bernard–Soulier syndrome due to deficiency of
 
 ---
 
-### Q131 — Cowden syndrome *(2017)*
+### Q128 — Cowden syndrome *(2017)*
 
 Cowden syndrome
 
@@ -2369,7 +2244,7 @@ Cowden syndrome
 
 ---
 
-### Q132 — Chromosome involved in myotonic dystrophy is *(2017)*
+### Q129 — Chromosome involved in myotonic dystrophy is *(2017)*
 
 Chromosome involved in myotonic dystrophy is
 
@@ -2386,7 +2261,7 @@ Chromosome involved in myotonic dystrophy is
 
 ---
 
-### Q133 — Kidney responds to shock by *(2017)*
+### Q130 — Kidney responds to shock by *(2017)*
 
 Kidney responds to shock by
 
@@ -2403,7 +2278,7 @@ Kidney responds to shock by
 
 ---
 
-### Q134 — H And L variety seen in *(2017)*
+### Q131 — H And L variety seen in *(2017)*
 
 H And L variety seen in
 
@@ -2420,7 +2295,7 @@ H And L variety seen in
 
 ---
 
-### Q135 — Stellate granuloma seen in *(2017)*
+### Q132 — Stellate granuloma seen in *(2017)*
 
 Stellate granuloma seen in
 
@@ -2437,7 +2312,7 @@ Stellate granuloma seen in
 
 ---
 
-### Q136 — Nude mice is not resistant to *(2017)*
+### Q133 — Nude mice is not resistant to *(2017)*
 
 Nude mice is not resistant to xenograft due to absence of
 
@@ -2454,7 +2329,7 @@ Nude mice is not resistant to xenograft due to absence of
 
 ---
 
-### Q137 — Anaplasia is *(2017)*
+### Q134 — Anaplasia is *(2017)*
 
 Anaplasia is
 
@@ -2471,7 +2346,7 @@ Anaplasia is
 
 ---
 
-### Q138 — Which level of prolactin definitely suggest *(2017)*
+### Q135 — Which level of prolactin definitely suggest *(2017)*
 
 Which level of prolactin definitely suggest prolactinoma
 
@@ -2488,7 +2363,7 @@ Which level of prolactin definitely suggest prolactinoma
 
 ---
 
-### Q139 — Laxative abuse causes which of the *(2017)*
+### Q136 — Laxative abuse causes which of the *(2017)*
 
 Laxative abuse causes which of the following renal stones ?
 
@@ -2505,24 +2380,7 @@ Laxative abuse causes which of the following renal stones ?
 
 ---
 
-### Q140 — Identify the condition represented in below *(2017)*
-
-Identify the condition represented in below image
-
-- A. Miliary tuberculosis
-- B. Bronchiectasis
-- C. COPD
-- D. Lung cancer
-
-<details><summary>Answer</summary>
-
-**A. Miliary tuberculosis**
-
-</details>
-
----
-
-### Q141 — Which of the following can result *(2017)*
+### Q137 — Which of the following can result *(2017)*
 
 Which of the following can result in dactylitis
 
@@ -2539,7 +2397,7 @@ Which of the following can result in dactylitis
 
 ---
 
-### Q142 — What is the structure seen in *(2017)*
+### Q138 — What is the structure seen in *(2017)*
 
 What is the structure seen in the given X-ray below?
 
@@ -2556,7 +2414,7 @@ What is the structure seen in the given X-ray below?
 
 ---
 
-### Q143 — What is the diagnosis based on *(2017)*
+### Q139 — What is the diagnosis based on *(2017)*
 
 What is the diagnosis based on the following X-ray?
 
@@ -2573,7 +2431,7 @@ What is the diagnosis based on the following X-ray?
 
 ---
 
-### Q144 — By which method foreign DNA is *(2017)*
+### Q140 — By which method foreign DNA is *(2017)*
 
 By which method foreign DNA is introduced into a cell by a virus or viral vector?
 
@@ -2590,7 +2448,7 @@ By which method foreign DNA is introduced into a cell by a virus or viral vector
 
 ---
 
-### Q145 — Which one of the following shows *(2017)*
+### Q141 — Which one of the following shows *(2017)*
 
 Which one of the following shows allosteric inhibition?
 
@@ -2607,7 +2465,7 @@ Which one of the following shows allosteric inhibition?
 
 ---
 
-### Q146 — Which of the following is seen *(2017)*
+### Q142 — Which of the following is seen *(2017)*
 
 Which of the following is seen in seropositive rheumatoid arthritis?
 
@@ -2624,7 +2482,7 @@ Which of the following is seen in seropositive rheumatoid arthritis?
 
 ---
 
-### Q147 — Which of the following is not *(2017)*
+### Q143 — Which of the following is not *(2017)*
 
 Which of the following is not seen in Anterior mediastinum
 
@@ -2641,7 +2499,7 @@ Which of the following is not seen in Anterior mediastinum
 
 ---
 
-### Q148 — Which of the following statements about *(2017)*
+### Q144 — Which of the following statements about *(2017)*
 
 Which of the following statements about Graves disease is false?
 
@@ -2658,7 +2516,7 @@ Which of the following statements about Graves disease is false?
 
 ---
 
-### Q149 — Aldosterone synthesis is stimulated by which *(2017)*
+### Q145 — Aldosterone synthesis is stimulated by which *(2017)*
 
 Aldosterone synthesis is stimulated by which of the following?
 
@@ -2675,7 +2533,7 @@ Aldosterone synthesis is stimulated by which of the following?
 
 ---
 
-### Q150 — Which of the following is false *(2017)*
+### Q146 — Which of the following is false *(2017)*
 
 Which of the following is false about Alzheimer's disease?
 
@@ -2692,7 +2550,7 @@ Which of the following is false about Alzheimer's disease?
 
 ---
 
-### Q151 — Which drugs needs continuous monitoring of *(2017)*
+### Q147 — Which drugs needs continuous monitoring of *(2017)*
 
 Which drugs needs continuous monitoring of prothrombin time?
 
@@ -2709,7 +2567,7 @@ Which drugs needs continuous monitoring of prothrombin time?
 
 ---
 
-### Q152 — Which of the following are the *(2017)*
+### Q148 — Which of the following are the *(2017)*
 
 Which of the following are the risk factor for cutaneous lymphoma?
 
@@ -2726,7 +2584,7 @@ Which of the following are the risk factor for cutaneous lymphoma?
 
 ---
 
-### Q153 — Which is not included in AIDS *(2017)*
+### Q149 — Which is not included in AIDS *(2017)*
 
 Which is not included in AIDS related complex?
 
@@ -2743,7 +2601,7 @@ Which is not included in AIDS related complex?
 
 ---
 
-### Q154 — Which of the following true regarding *(2017)*
+### Q150 — Which of the following true regarding *(2017)*
 
 Which of the following true regarding Hemophilia A
 
@@ -2760,7 +2618,7 @@ Which of the following true regarding Hemophilia A
 
 ---
 
-### Q155 — Reed sternberg cells are found in *(2017)*
+### Q151 — Reed sternberg cells are found in *(2017)*
 
 Reed sternberg cells are found in
 
@@ -2777,7 +2635,7 @@ Reed sternberg cells are found in
 
 ---
 
-### Q156 — Phenylketonuria is due to deficiency of *(2017)*
+### Q152 — Phenylketonuria is due to deficiency of *(2017)*
 
 Phenylketonuria is due to deficiency of:
 
@@ -2794,7 +2652,7 @@ Phenylketonuria is due to deficiency of:
 
 ---
 
-### Q157 — WHICH IS NOT CORRECT *(2017)*
+### Q153 — WHICH IS NOT CORRECT *(2017)*
 
 WHICH IS NOT CORRECT:
 
@@ -2811,7 +2669,7 @@ WHICH IS NOT CORRECT:
 
 ---
 
-### Q158 — Term pathology refers to *(2017)*
+### Q154 — Term pathology refers to *(2017)*
 
 Term pathology refers to:
 
@@ -2828,7 +2686,7 @@ Term pathology refers to:
 
 ---
 
-### Q159 — 1 yr child weighing 6 kg *(2017)*
+### Q155 — 1 yr child weighing 6 kg *(2017)*
 
 1 yr child weighing 6 kg is suffering from Acute Gastroenteritis along with signs of sunken eyes & skin pinch going back to normal very rapidly. What will be your management?
 
@@ -2845,7 +2703,7 @@ Term pathology refers to:
 
 ---
 
-### Q160 — What constitutes malpighian layer *(2017)*
+### Q156 — What constitutes malpighian layer *(2017)*
 
 What constitutes malpighian layer?
 
@@ -2862,7 +2720,7 @@ What constitutes malpighian layer?
 
 ---
 
-### Q161 — Mechanism of action colchicine in acute *(2017)*
+### Q157 — Mechanism of action colchicine in acute *(2017)*
 
 Mechanism of action colchicine in acute gout
 
@@ -2879,7 +2737,7 @@ Mechanism of action colchicine in acute gout
 
 ---
 
-### Q162 — Oxygen therapy may not be useful *(2017)*
+### Q158 — Oxygen therapy may not be useful *(2017)*
 
 Oxygen therapy may not be useful in
 
@@ -2896,7 +2754,7 @@ Oxygen therapy may not be useful in
 
 ---
 
-### Q163 — In ACLS which drug can be *(2017)*
+### Q159 — In ACLS which drug can be *(2017)*
 
 In ACLS which drug can be given following ventricular fibrillation after cardiac arrest other than epinephrine?
 
@@ -2913,26 +2771,7 @@ In ACLS which drug can be given following ventricular fibrillation after cardiac
 
 ---
 
-### Q261 — Which drugs needs continuous monitoring of
-
-Which drugs needs continuous monitoring of prothrombin time? A.Aspirin B.Lepirudin C.Digoxin D. Coumadin Ans.D Warfarin is a coumarin anticoagulant used for the prophylaxis and treatment of thromboembolic complications associated with cardiac valve replacement and atrial fibrillation,as well as the prophylaxis and treatment of venous thrombosis and pulmonary embolism.Increased metabolism of warfarin results in insufficient prolongation of prothrombin time. Question 271 Which of the following are the risk factor for cutaneous lymphoma?
-
-- A. Metastasis from PE
-- B. Angiosarcoma
-- C. Colonic adenocarcinoma with metastasis
-- D. Locally invaded hepatocellular carcinoma
-
-<details><summary>Answer</summary>
-
-**A. Metastasis from PE** — Source: Medicoholic 2017 NEET-PG.
-
-</details>
-
----
-
-## Microbiology
-
-### Q164 — Shingles Is caused by which of *(2017)*
+### Q160 — Shingles Is caused by which of *(2017)*
 
 Shingles Is caused by which of the following ?
 
@@ -2949,7 +2788,7 @@ Shingles Is caused by which of the following ?
 
 ---
 
-### Q165 — Australian antigen for hepatitis b is *(2017)*
+### Q161 — Australian antigen for hepatitis b is *(2017)*
 
 Australian antigen for hepatitis b is?
 
@@ -2966,7 +2805,7 @@ Australian antigen for hepatitis b is?
 
 ---
 
-### Q166 — Which fungus is most commonly associated *(2017)*
+### Q162 — Which fungus is most commonly associated *(2017)*
 
 Which fungus is most commonly associated with orbital cellulitis in patients with diabetic ketoacidosis.
 
@@ -2983,7 +2822,7 @@ Which fungus is most commonly associated with orbital cellulitis in patients wit
 
 ---
 
-### Q167 — Which of the following organism releases *(2017)*
+### Q163 — Which of the following organism releases *(2017)*
 
 Which of the following organism releases histamine and cause scombroid fish poisoning
 
@@ -3000,7 +2839,7 @@ Which of the following organism releases histamine and cause scombroid fish pois
 
 ---
 
-### Q168 — After kidney transplantation which organisms infec *(2017)*
+### Q164 — After kidney transplantation which organisms infec *(2017)*
 
 After kidney transplantation which organisms infection is more likely to happens
 
@@ -3017,26 +2856,7 @@ After kidney transplantation which organisms infection is more likely to happens
 
 ---
 
-### Q169 — Identify the organism related to blood *(2017)*
-
-Identify the organism related to blood smear image
-
-- A. F.malariae
-- B. S. Typhi
-- C. Treponema pallidum
-- D. Toxoplasma gondii.
-
-<details><summary>Answer</summary>
-
-**A. F.malariae**
-
-</details>
-
----
-
-## Pharmacology
-
-### Q170 — Pirenzapine is used *(2017)*
+### Q165 — Pirenzapine is used *(2017)*
 
 Pirenzapine is used
 
@@ -3053,9 +2873,9 @@ Pirenzapine is used
 
 ---
 
-### Q171 — Sacubitril is, *(2017)*
+### Q166 — Sacubitril is, *(2017)*
 
-Sacubitril is,
+Sacubitril is
 
 - A. ACE inhibitor
 - B. Neutral endopeptidase inhibitor
@@ -3070,7 +2890,7 @@ Sacubitril is,
 
 ---
 
-### Q172 — Niacin therapy is contraindicated in diabetes *(2017)*
+### Q167 — Niacin therapy is contraindicated in diabetes *(2017)*
 
 Niacin therapy is contraindicated in diabetes because
 
@@ -3087,7 +2907,7 @@ Niacin therapy is contraindicated in diabetes because
 
 ---
 
-### Q173 — Apixaban is *(2017)*
+### Q168 — Apixaban is *(2017)*
 
 Apixaban is
 
@@ -3104,7 +2924,7 @@ Apixaban is
 
 ---
 
-### Q174 — Anaerobes are resistant intrinsically against *(2017)*
+### Q169 — Anaerobes are resistant intrinsically against *(2017)*
 
 Anaerobes are resistant intrinsically against
 
@@ -3121,7 +2941,7 @@ Anaerobes are resistant intrinsically against
 
 ---
 
-### Q175 — Which is not bacteriostatic antibiotic *(2017)*
+### Q170 — Which is not bacteriostatic antibiotic *(2017)*
 
 Which is not bacteriostatic antibiotic
 
@@ -3138,7 +2958,7 @@ Which is not bacteriostatic antibiotic
 
 ---
 
-### Q176 — Which among the following will the *(2017)*
+### Q171 — Which among the following will the *(2017)*
 
 Which among the following will the choice of antibiotic for a bedridden patient with catheter-related UTI and pneumonia.
 
@@ -3155,7 +2975,7 @@ Which among the following will the choice of antibiotic for a bedridden patient 
 
 ---
 
-### Q177 — Mycoplasma is resistant to *(2017)*
+### Q172 — Mycoplasma is resistant to *(2017)*
 
 Mycoplasma is resistant to
 
@@ -3172,7 +2992,7 @@ Mycoplasma is resistant to
 
 ---
 
-### Q178 — Posthumous child is *(2017)*
+### Q173 — Posthumous child is *(2017)*
 
 Posthumous child is:
 
@@ -3189,7 +3009,7 @@ Posthumous child is:
 
 ---
 
-### Q179 — Muscle pain, nephropathy caused by which *(2017)*
+### Q174 — Muscle pain, nephropathy caused by which *(2017)*
 
 Muscle pain, nephropathy caused by which metal poisoning
 
@@ -3206,7 +3026,7 @@ Muscle pain, nephropathy caused by which metal poisoning
 
 ---
 
-### Q180 — Locard is famous for *(2017)*
+### Q175 — Locard is famous for *(2017)*
 
 Locard is famous for:
 
@@ -3223,7 +3043,7 @@ Locard is famous for:
 
 ---
 
-### Q181 — Which of the statement regarding Factory *(2017)*
+### Q176 — Which of the statement regarding Factory *(2017)*
 
 Which of the statement regarding Factory act is correct
 
@@ -3244,7 +3064,7 @@ Which of the statement regarding Factory act is correct
 
 ## Community Medicine
 
-### Q182 — Incidence of a disease is 4 *(2017)*
+### Q177 — Incidence of a disease is 4 *(2017)*
 
 Incidence of a disease is 4 per 1000 of population with duration of 2 years. Calculate the prevalence?
 
@@ -3261,7 +3081,7 @@ Incidence of a disease is 4 per 1000 of population with duration of 2 years. Cal
 
 ---
 
-### Q183 — Cytotoxic and expired drug disposal is *(2017)*
+### Q178 — Cytotoxic and expired drug disposal is *(2017)*
 
 Cytotoxic and expired drug disposal is done by which method?
 
@@ -3278,7 +3098,7 @@ Cytotoxic and expired drug disposal is done by which method?
 
 ---
 
-### Q184 — For NRR to be 1 couple *(2017)*
+### Q179 — For NRR to be 1 couple *(2017)*
 
 For NRR to be 1 couple protection rate should be?
 
@@ -3295,7 +3115,7 @@ For NRR to be 1 couple protection rate should be?
 
 ---
 
-### Q185 — Study unit of ecological study is *(2017)*
+### Q180 — Study unit of ecological study is *(2017)*
 
 Study unit of ecological study is
 
@@ -3312,7 +3132,7 @@ Study unit of ecological study is
 
 ---
 
-### Q186 — In a screening test for DM *(2017)*
+### Q181 — In a screening test for DM *(2017)*
 
 In a screening test for DM out of 1000 population 90 Were positive.Then gold standard test was done in which 100 were positive. Calculate the sensitivity?
 
@@ -3329,7 +3149,7 @@ In a screening test for DM out of 1000 population 90 Were positive.Then gold sta
 
 ---
 
-### Q187 — What is the mass chemoprophylaxis for *(2017)*
+### Q182 — What is the mass chemoprophylaxis for *(2017)*
 
 What is the mass chemoprophylaxis for meningococcal meningitis ?
 
@@ -3346,7 +3166,7 @@ What is the mass chemoprophylaxis for meningococcal meningitis ?
 
 ---
 
-### Q188 — Which among the following is an *(2017)*
+### Q183 — Which among the following is an *(2017)*
 
 Which among the following is an active form of chlorination?
 
@@ -3363,7 +3183,7 @@ Which among the following is an active form of chlorination?
 
 ---
 
-### Q189 — Kala-Azar is found in all endemic *(2017)*
+### Q184 — Kala-Azar is found in all endemic *(2017)*
 
 Kala-Azar is found in all endemic areas except.
 
@@ -3380,7 +3200,7 @@ Kala-Azar is found in all endemic areas except.
 
 ---
 
-### Q190 — Risk among exposed by risk among *(2017)*
+### Q185 — Risk among exposed by risk among *(2017)*
 
 Risk among exposed by risk among non exposed is defined to be –
 
@@ -3397,7 +3217,7 @@ Risk among exposed by risk among non exposed is defined to be –
 
 ---
 
-### Q191 — Out of 100 women who were *(2017)*
+### Q186 — Out of 100 women who were *(2017)*
 
 Out of 100 women who were offered ocp for contraception 10 women got pregnant when followed for 24 months. What is Pearl's index?
 
@@ -3414,7 +3234,7 @@ Out of 100 women who were offered ocp for contraception 10 women got pregnant wh
 
 ---
 
-### Q192 — Which of the following do not *(2017)*
+### Q187 — Which of the following do not *(2017)*
 
 Which of the following do not cause hardness of water ?
 
@@ -3431,7 +3251,7 @@ Which of the following do not cause hardness of water ?
 
 ---
 
-### Q193 — Which of the following is not *(2017)*
+### Q188 — Which of the following is not *(2017)*
 
 Which of the following is not an example of direct transmission in communicable diseases ?
 
@@ -3450,7 +3270,7 @@ Which of the following is not an example of direct transmission in communicable 
 
 ## Medicine
 
-### Q194 — Neurofibromatosis 1 criteria except *(2017)*
+### Q189 — Neurofibromatosis 1 criteria except *(2017)*
 
 Neurofibromatosis 1 criteria except
 
@@ -3467,7 +3287,7 @@ Neurofibromatosis 1 criteria except
 
 ---
 
-### Q195 — Most common site of chronic gastric *(2017)*
+### Q190 — Most common site of chronic gastric *(2017)*
 
 Most common site of chronic gastric ulcer
 
@@ -3484,7 +3304,7 @@ Most common site of chronic gastric ulcer
 
 ---
 
-### Q196 — Hellers myotomy is done for *(2017)*
+### Q191 — Hellers myotomy is done for *(2017)*
 
 Heller's myotomy is done for
 
@@ -3501,7 +3321,7 @@ Heller's myotomy is done for
 
 ---
 
-### Q197 — Myocardial stunning pattern not matching the *(2017)*
+### Q192 — Myocardial stunning pattern not matching the *(2017)*
 
 Myocardial stunning pattern not matching the ECG. What is the diagnosis.
 
@@ -3518,7 +3338,7 @@ Myocardial stunning pattern not matching the ECG. What is the diagnosis.
 
 ---
 
-### Q198 — Patient presenting with cutaneous vasculitis, glom *(2017)*
+### Q193 — Patient presenting with cutaneous vasculitis, glom *(2017)*
 
 Patient presenting with cutaneous vasculitis, glomerulonephritis, peripheral neuropathy, Which investigation is to be performed next that will help you diagnose the condition?
 
@@ -3535,7 +3355,7 @@ Patient presenting with cutaneous vasculitis, glomerulonephritis, peripheral neu
 
 ---
 
-### Q199 — Cryoglobulinemia *(2017)*
+### Q194 — Cryoglobulinemia *(2017)*
 
 Cryoglobulinemia
 
@@ -3552,7 +3372,7 @@ Cryoglobulinemia
 
 ---
 
-### Q200 — Causes of hypokalemic metabolic alkalosis with *(2017)*
+### Q195 — Causes of hypokalemic metabolic alkalosis with *(2017)*
 
 Causes of hypokalemic metabolic alkalosis with hypertension
 
@@ -3569,7 +3389,7 @@ Causes of hypokalemic metabolic alkalosis with hypertension
 
 ---
 
-### Q201 — Gold criteria for very severe COPD *(2017)*
+### Q196 — Gold criteria for very severe COPD *(2017)*
 
 Gold criteria for very severe COPD
 
@@ -3586,7 +3406,7 @@ Gold criteria for very severe COPD
 
 ---
 
-### Q202 — ABPI increases artificially in *(2017)*
+### Q197 — ABPI increases artificially in *(2017)*
 
 ABPI increases artificially in
 
@@ -3603,7 +3423,7 @@ ABPI increases artificially in
 
 ---
 
-### Q203 — Minimal dysfunction syndrome seen in *(2017)*
+### Q198 — Minimal dysfunction syndrome seen in *(2017)*
 
 Minimal dysfunction syndrome seen in
 
@@ -3622,7 +3442,7 @@ Minimal dysfunction syndrome seen in
 
 ## Surgery
 
-### Q204 — Common cause of chronic pancreatitis *(2017)*
+### Q199 — Common cause of chronic pancreatitis *(2017)*
 
 Common cause of chronic pancreatitis
 
@@ -3639,7 +3459,7 @@ Common cause of chronic pancreatitis
 
 ---
 
-### Q205 — Abdominal mass is best demonstrated in *(2017)*
+### Q200 — Abdominal mass is best demonstrated in *(2017)*
 
 Abdominal mass is best demonstrated in congenital hypertrophic pyloric stenosis by:
 
@@ -3656,7 +3476,7 @@ Abdominal mass is best demonstrated in congenital hypertrophic pyloric stenosis 
 
 ---
 
-### Q206 — Calculate GCS of 25 old head *(2017)*
+### Q201 — Calculate GCS of 25 old head *(2017)*
 
 Calculate GCS of 25 old head injury patient with following parameters confused,opening eyes in response to pain ,localising pain response to pain
 
@@ -3673,7 +3493,7 @@ Calculate GCS of 25 old head injury patient with following parameters confused,o
 
 ---
 
-### Q207 — RET proto oncogene is associate with *(2017)*
+### Q202 — RET proto oncogene is associate with *(2017)*
 
 RET proto oncogene is associate with development of
 
@@ -3690,7 +3510,7 @@ RET proto oncogene is associate with development of
 
 ---
 
-### Q208 — Cutoff for surgery in abdominal aortic *(2017)*
+### Q203 — Cutoff for surgery in abdominal aortic *(2017)*
 
 Cutoff for surgery in abdominal aortic aneurysm in asymptomatic pts
 
@@ -3707,7 +3527,7 @@ Cutoff for surgery in abdominal aortic aneurysm in asymptomatic pts
 
 ---
 
-### Q209 — Muscles affected in De quervain tenosynovitis *(2017)*
+### Q204 — Muscles affected in De quervain tenosynovitis *(2017)*
 
 Muscles affected in De quervain tenosynovitis
 
@@ -3724,7 +3544,7 @@ Muscles affected in De quervain tenosynovitis
 
 ---
 
-### Q210 — APatient has history of RTA 2 *(2017)*
+### Q205 — APatient has history of RTA 2 *(2017)*
 
 APatient has history of RTA 2 years back, at the same sight he developed pain and swelling. Xray shows the following features . What will be the diagnosis?
 
@@ -3741,7 +3561,7 @@ APatient has history of RTA 2 years back, at the same sight he developed pain an
 
 ---
 
-### Q211 — What is meant byPerilunate dislocations *(2017)*
+### Q206 — What is meant byPerilunate dislocations *(2017)*
 
 What is meant byPerilunate dislocations ?
 
@@ -3758,7 +3578,7 @@ What is meant byPerilunate dislocations ?
 
 ---
 
-### Q212 — Identify the bone numbered in the *(2017)*
+### Q207 — Identify the bone numbered in the *(2017)*
 
 Identify the bone numbered in the X-ray below that most commonly fracture when a person falls on outstretched hands ?
 
@@ -3775,7 +3595,7 @@ Identify the bone numbered in the X-ray below that most commonly fracture when a
 
 ---
 
-### Q213 — Fallen fragment sign *(2017)*
+### Q208 — Fallen fragment sign *(2017)*
 
 Fallen fragment sign
 
@@ -3792,7 +3612,7 @@ Fallen fragment sign
 
 ---
 
-### Q214 — You are posted as an intern *(2017)*
+### Q209 — You are posted as an intern *(2017)*
 
 You are posted as an intern in causality.Which among the following patients with fracture will be your 1st priority to call ortho PG and inform?
 
@@ -3809,7 +3629,7 @@ You are posted as an intern in causality.Which among the following patients with
 
 ---
 
-### Q215 — In Rheumatoid arthritis, which type of *(2017)*
+### Q210 — In Rheumatoid arthritis, which type of *(2017)*
 
 In Rheumatoid arthritis, which type of cells are prominently present ?
 
@@ -3826,7 +3646,7 @@ In Rheumatoid arthritis, which type of cells are prominently present ?
 
 ---
 
-### Q216 — 8th and 9th rib costal cartilage *(2017)*
+### Q211 — 8th and 9th rib costal cartilage *(2017)*
 
 8th and 9th rib costal cartilage forms which type of joint?
 
@@ -3845,7 +3665,7 @@ In Rheumatoid arthritis, which type of cells are prominently present ?
 
 ## Paediatrics
 
-### Q217 — Which of the fontanelle is the *(2017)*
+### Q212 — Which of the fontanelle is the *(2017)*
 
 Which of the fontanelle is the last to close?
 
@@ -3862,7 +3682,7 @@ Which of the fontanelle is the last to close?
 
 ---
 
-### Q218 — Which enzyme deficiency causesLeschNyhan syndrome *(2017)*
+### Q213 — Which enzyme deficiency causesLeschNyhan syndrome *(2017)*
 
 Which enzyme deficiency causesLesch–Nyhan syndrome ?
 
@@ -3879,7 +3699,7 @@ Which enzyme deficiency causesLesch–Nyhan syndrome ?
 
 ---
 
-### Q219 — Which vaccine is not include in *(2017)*
+### Q214 — Which vaccine is not include in *(2017)*
 
 Which vaccine is not include in indradhanush mission?
 
@@ -3896,7 +3716,7 @@ Which vaccine is not include in indradhanush mission?
 
 ---
 
-### Q220 — Which among the following is the *(2017)*
+### Q215 — Which among the following is the *(2017)*
 
 Which among the following is the Most common cause for neonatal blindness?
 
@@ -3913,7 +3733,7 @@ Which among the following is the Most common cause for neonatal blindness?
 
 ---
 
-### Q221 — True hermaphroditism karyotype *(2017)*
+### Q216 — True hermaphroditism karyotype *(2017)*
 
 True hermaphroditism karyotype:
 
@@ -3930,7 +3750,7 @@ True hermaphroditism karyotype:
 
 ---
 
-### Q222 — Nerve mostly compressed in pregnancy puerperium *(2017)*
+### Q217 — Nerve mostly compressed in pregnancy puerperium *(2017)*
 
 Nerve mostly compressed in pregnancy puerperium:
 
@@ -3947,7 +3767,7 @@ Nerve mostly compressed in pregnancy puerperium:
 
 ---
 
-### Q223 — In pregnancy which of the following *(2017)*
+### Q218 — In pregnancy which of the following *(2017)*
 
 In pregnancy which of the following level is altered mostly:
 
@@ -3964,7 +3784,7 @@ In pregnancy which of the following level is altered mostly:
 
 ---
 
-### Q224 — Pagets is associated with which other *(2017)*
+### Q219 — Pagets is associated with which other *(2017)*
 
 Paget's is associated with which other cancer:
 
@@ -3981,7 +3801,7 @@ Paget's is associated with which other cancer:
 
 ---
 
-### Q225 — What is meant by Superfecundation *(2017)*
+### Q220 — What is meant by Superfecundation *(2017)*
 
 What is meant by Superfecundation?
 
@@ -3998,7 +3818,7 @@ What is meant by Superfecundation?
 
 ---
 
-### Q226 — Anesthesia of choice for cesarean section *(2017)*
+### Q221 — Anesthesia of choice for cesarean section *(2017)*
 
 Anesthesia of choice for cesarean section in severe pre-eclampsia :
 
@@ -4015,7 +3835,7 @@ Anesthesia of choice for cesarean section in severe pre-eclampsia :
 
 ---
 
-### Q227 — Which of the following is not *(2017)*
+### Q222 — Which of the following is not *(2017)*
 
 Which of the following is not a high risk pregnancy?
 
@@ -4032,7 +3852,7 @@ Which of the following is not a high risk pregnancy?
 
 ---
 
-### Q228 — Which One of the following is *(2017)*
+### Q223 — Which One of the following is *(2017)*
 
 Which One of the following is not a cause of secondary Postpartum Haemorrhage?
 
@@ -4049,7 +3869,7 @@ Which One of the following is not a cause of secondary Postpartum Haemorrhage?
 
 ---
 
-### Q229 — Best time to do quadruple test *(2017)*
+### Q224 — Best time to do quadruple test *(2017)*
 
 Best time to do quadruple test
 
@@ -4066,7 +3886,7 @@ Best time to do quadruple test
 
 ---
 
-### Q230 — Drug that is used for fetal *(2017)*
+### Q225 — Drug that is used for fetal *(2017)*
 
 Drug that is used for fetal lung maturity is:
 
@@ -4083,7 +3903,7 @@ Drug that is used for fetal lung maturity is:
 
 ---
 
-### Q231 — In Uterine prolapse how to know *(2017)*
+### Q226 — In Uterine prolapse how to know *(2017)*
 
 In Uterine prolapse how to know if ring is in place?
 
@@ -4100,7 +3920,7 @@ In Uterine prolapse how to know if ring is in place?
 
 ---
 
-### Q232 — HT indicated in menopausal women *(2017)*
+### Q227 — HT indicated in menopausal women *(2017)*
 
 HT indicated in menopausal women
 
@@ -4119,7 +3939,7 @@ HT indicated in menopausal women
 
 ## ENT
 
-### Q233 — Waters view is used to obtain *(2017)*
+### Q228 — Waters view is used to obtain *(2017)*
 
 Water’s view is used to obtain diagnostic information of:
 
@@ -4136,7 +3956,7 @@ Water’s view is used to obtain diagnostic information of:
 
 ---
 
-### Q234 — Caldwells view is used for *(2017)*
+### Q229 — Caldwells view is used for *(2017)*
 
 Caldwell’s view is used for:
 
@@ -4153,7 +3973,7 @@ Caldwell’s view is used for:
 
 ---
 
-### Q235 — Q) Presbyopic correction in old patients *(2017)*
+### Q230 — Q) Presbyopic correction in old patients *(2017)*
 
 Q) Presbyopic correction in old patients?
 
@@ -4170,7 +3990,7 @@ Q) Presbyopic correction in old patients?
 
 ---
 
-### Q236 — Q Roth spots is seen in *(2017)*
+### Q231 — Q Roth spots is seen in *(2017)*
 
 Q Roth spots is seen in:
 
@@ -4187,7 +4007,7 @@ Q Roth spots is seen in:
 
 ---
 
-### Q237 — Severe Conjunctivitis caused by *(2017)*
+### Q232 — Severe Conjunctivitis caused by *(2017)*
 
 Severe Conjunctivitis caused by:
 
@@ -4204,7 +4024,7 @@ Severe Conjunctivitis caused by:
 
 ---
 
-### Q238 — Blow out fracture of orbit involves *(2017)*
+### Q233 — Blow out fracture of orbit involves *(2017)*
 
 Blow out fracture of orbit involves:
 
@@ -4223,7 +4043,7 @@ Blow out fracture of orbit involves:
 
 ## Psychiatry
 
-### Q239 — Semen squeeze *(2017)*
+### Q234 — Semen squeeze *(2017)*
 
 Semen squeeze
 
@@ -4240,7 +4060,7 @@ Semen squeeze
 
 ---
 
-### Q240 — Expression and consequent release of previously *(2017)*
+### Q235 — Expression and consequent release of previously *(2017)*
 
 Expression and consequent release of previously repressed emotion is called as
 
@@ -4257,7 +4077,7 @@ Expression and consequent release of previously repressed emotion is called as
 
 ---
 
-### Q241 — All are habit disorder except *(2017)*
+### Q236 — All are habit disorder except *(2017)*
 
 All are habit disorder except
 
@@ -4274,7 +4094,7 @@ All are habit disorder except
 
 ---
 
-### Q242 — New name of mental retardation according *(2017)*
+### Q237 — New name of mental retardation according *(2017)*
 
 New name of mental retardation according to American Association of Mental Retardation
 
@@ -4291,7 +4111,7 @@ New name of mental retardation according to American Association of Mental Retar
 
 ---
 
-### Q243 — Now-a-days Down syndrome Is referred to *(2017)*
+### Q238 — Now-a-days Down syndrome Is referred to *(2017)*
 
 Now-a-days Down syndrome Is referred to as.
 
@@ -4308,7 +4128,7 @@ Now-a-days Down syndrome Is referred to as.
 
 ---
 
-### Q244 — Trilene is degraded by *(2017)*
+### Q239 — Trilene is degraded by *(2017)*
 
 Trilene is degraded by:
 
@@ -4325,7 +4145,7 @@ Trilene is degraded by:
 
 ---
 
-### Q245 — The earliest feature of 3rd cranial *(2017)*
+### Q240 — The earliest feature of 3rd cranial *(2017)*
 
 The earliest feature of 3rd cranial nerve involvement in diabetes mellitus patient is
 
@@ -4342,7 +4162,7 @@ The earliest feature of 3rd cranial nerve involvement in diabetes mellitus patie
 
 ---
 
-### Q246 — During squint surgery, anesthesiologist sees the *(2017)*
+### Q241 — During squint surgery, anesthesiologist sees the *(2017)*
 
 During squint surgery, anesthesiologist sees the machine and see the bp suddenly drops to 40. What will be best immediate management
 
@@ -4359,7 +4179,7 @@ During squint surgery, anesthesiologist sees the machine and see the bp suddenly
 
 ---
 
-### Q247 — All are special visceral efferent column *(2017)*
+### Q242 — All are special visceral efferent column *(2017)*
 
 All are special visceral efferent column except
 
@@ -4376,7 +4196,7 @@ All are special visceral efferent column except
 
 ---
 
-### Q248 — What is the Thinnest part of *(2017)*
+### Q243 — What is the Thinnest part of *(2017)*
 
 What is the Thinnest part of neuro-retinal rim according to ISNT rule?
 
@@ -4395,7 +4215,7 @@ What is the Thinnest part of neuro-retinal rim according to ISNT rule?
 
 ## Anaesthesia
 
-### Q249 — Murphys eye is seen in *(2017)*
+### Q244 — Murphys eye is seen in *(2017)*
 
 Murphy's eye is seen in
 
@@ -4412,7 +4232,7 @@ Murphy's eye is seen in
 
 ---
 
-### Q250 — Modified MallamPati grading is used in *(2017)*
+### Q245 — Modified MallamPati grading is used in *(2017)*
 
 Modified MallamPati grading is used in assessment of
 
@@ -4429,7 +4249,7 @@ Modified MallamPati grading is used in assessment of
 
 ---
 
-### Q251 — Which nerve is tested for adequacy *(2017)*
+### Q246 — Which nerve is tested for adequacy *(2017)*
 
 Which nerve is tested for adequacy of anaesthesia
 
@@ -4446,7 +4266,7 @@ Which nerve is tested for adequacy of anaesthesia
 
 ---
 
-### Q252 — Most effective circuit in spontaneous anaesthesia *(2017)*
+### Q247 — Most effective circuit in spontaneous anaesthesia *(2017)*
 
 Most effective circuit in spontaneous anaesthesia is
 
@@ -4463,24 +4283,7 @@ Most effective circuit in spontaneous anaesthesia is
 
 ---
 
-### Q253 — Identify the following lesion *(2017)*
-
-Identify the following lesion.
-
-- A. Becker nevus
-- B. Hypopigmented macule
-- C. Spitz nevus.
-- D. Epidermal nevus
-
-<details><summary>Answer</summary>
-
-**A. Becker nevus**
-
-</details>
-
----
-
-### Q254 — Cutis marmorata occurs due to exposure *(2017)*
+### Q248 — Cutis marmorata occurs due to exposure *(2017)*
 
 Cutis marmorata occurs due to exposure to –
 
@@ -4497,7 +4300,7 @@ Cutis marmorata occurs due to exposure to –
 
 ---
 
-### Q255 — Imaging techniques used in Uterus anomalies *(2017)*
+### Q249 — Imaging techniques used in Uterus anomalies *(2017)*
 
 Imaging techniques used in Uterus anomalies EXCEPT:
 
@@ -4514,53 +4317,3 @@ Imaging techniques used in Uterus anomalies EXCEPT:
 
 ---
 
-### Q256 — MRI of skull represents *(2017)*
-
-MRI of skull represents:
-
-- A. Vein of Galen
-- B. Dandy walker Syndrome
-- C. Pneumocephalus
-- D. Crouzon syndrome
-
-<details><summary>Answer</summary>
-
-**A. Vein of Galen**
-
-</details>
-
----
-
-### Q257 — CT of Thorax represents *(2017)*
-
-CT of Thorax represents:
-
-- A. Ascending Aortic dissection
-- B. Descending Aortic dissection
-- C. Aortic aneurysm
-- D. Cystic fibrosis
-
-<details><summary>Answer</summary>
-
-**B. Descending Aortic dissection**
-
-</details>
-
----
-
-### Q258 — Identify artery X in the given *(2017)*
-
-Identify artery ‘X’ in the given angiography anatomy image:
-
-- A. Superior mesenteric artery
-- B. Subclavian artery
-- C. Celiac artery
-- D. Brachiocephalic artery
-
-<details><summary>Answer</summary>
-
-**A. Superior mesenteric artery**
-
-</details>
-
----

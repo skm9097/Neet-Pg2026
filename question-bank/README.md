@@ -38,15 +38,15 @@ question-bank/
 ├── 2020/questions.md       390 Qs (Medicoholic PYQ compilation)
 ├── 2019/questions.md       381 Qs (Medicoholic + nishantbhushan.in PDFs)
 ├── 2018/questions.md       322 Qs (PrepLadder + Medicoholic PDF)
-├── 2017/questions.md       263 Qs (Medicoholic NEET-PG 2017)
+├── 2017/questions.md       249 Qs (Medicoholic NEET-PG 2017)
 ├── 2016/questions.md       1,871 Qs (Medicoholic PYQ compilation + firstranker.com)
-└── 2015/questions.md       1,848 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
+└── 2015/questions.md       1,846 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
 ```
 
 **Current totals (as of 2026-05-25, post-expansion):**
-- **Year-wise:** 6,239 questions across 2015–2025 (all years covered)
+- **Year-wise:** 6,223 questions across 2015–2025 (all years covered)
 - **Subject-wise:** 7,455 questions across all 19 NBE subjects
-- **Grand total:** ~13,600+ entries (year-wise + subject-wise combined)
+- **Grand total:** ~13,550+ entries (year-wise + subject-wise combined)
 - **Audit results:** 0 within-file duplicates, all answer-letter conflicts resolved, sequential Q-numbering verified
 
 | Subject | Year-wise | Subject-wise |
