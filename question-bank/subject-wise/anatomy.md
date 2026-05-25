@@ -13561,3 +13561,2754 @@ Measurement of intracellular fluid in 50-year-old male done by:
 
 ---
 
+## Year 2015
+
+### Q698 — Anatomy: Cubital fossa medial boundary
+
+Medial boundary of cubital fossa:
+
+- A. Brachioradialis
+- B. Pronator teres
+- C. Supinator
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Pronator teres** — Cubital fossa: lateral boundary = brachioradialis; medial boundary = pronator teres; floor = brachialis + supinator.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q699 — Anatomy: Anterior interosseous nerve
+
+Anterior interosseous nerve is a branch of:
+
+- A. Radial nerve
+- B. Median nerve
+- C. Ulnar nerve
+- D. Axillary nerve
+
+<details><summary>Answer</summary>
+
+**B. Median nerve** — Anterior interosseous nerve (AIN) is a branch of median nerve; supplies FPL, lateral half of FDP, pronator quadratus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q700 — Anatomy: Olecranon process
+
+Olecranon process of ulna helps in formation of:
+
+- A. Radial notch
+- B. Trochlear notch
+- C. Olecranon fossa
+- D. Coronoid fossa
+
+<details><summary>Answer</summary>
+
+**B. Trochlear notch** — Trochlear (semilunar) notch = olecranon + coronoid processes of ulna articulating with trochlea of humerus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q701 — Anatomy: Clavicle
+
+True about clavicle:
+
+- A. Endochondral ossification
+- B. Vertical orientation
+- C. No medullary cavity
+- D. Rarely fractures
+
+<details><summary>Answer</summary>
+
+**C. No medullary cavity** — Clavicle ossifies by intramembranous ossification (first bone to ossify); has no medullary cavity.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q702 — Anatomy: Clavipectoral fascia
+
+Clavipectoral fascia is pierced by all except:
+
+- A. Lateral pectoral nerve
+- B. Medial pectoral nerve
+- C. Thoracoacromial vessels
+- D. Cephalic vein
+
+<details><summary>Answer</summary>
+
+**B. Medial pectoral nerve** — Clavipectoral fascia pierced by: cephalic vein, thoracoacromial vessels, lateral pectoral nerve. Medial pectoral nerve pierces pectoralis minor to reach pectoralis major.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q703 — Anatomy: Supinator jerk root value
+
+Root value of supinator jerk:
+
+- A. C3, C4
+- B. C4, C5
+- C. C5, C6
+- D. C8, T1
+
+<details><summary>Answer</summary>
+
+**C. C5, C6** — Supinator jerk (brachioradialis reflex) = C5, C6; biceps = C5, C6; triceps = C7.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q704 — Anatomy: Small hand muscles nerve supply
+
+Small muscles of hand are supplied by:
+
+- A. C3
+- B. C4
+- C. C6
+- D. C5–C7, C8 to T1
+
+<details><summary>Answer</summary>
+
+**D. C5–C7, C8 to T1** — Most intrinsic hand muscles: ulnar C8, T1; thenar muscles (lateral): median C8, T1.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q705 — Anatomy: Bicipital aponeurosis
+
+Bicipital aponeurosis lies over which structure in cubital fossa:
+
+- A. Ulnar nerve
+- B. Radial nerve
+- C. Brachial artery
+- D. Anterior interosseous artery
+
+<details><summary>Answer</summary>
+
+**C. Brachial artery** — Bicipital aponeurosis (lacertus fibrosus) passes medially to cover the brachial artery in the cubital fossa.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q706 — Anatomy: Over bicipital aponeurosis
+
+Structure over bicipital aponeurosis in cubital fossa:
+
+- A. Ulnar nerve
+- B. Radial nerve
+- C. Brachial artery
+- D. Veins
+
+<details><summary>Answer</summary>
+
+**D. Veins** — Median cubital vein crosses superficial to the bicipital aponeurosis (important for venepuncture safety).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q707 — Anatomy: Radial nerve in spiral groove
+
+Nerve running along with profunda brachii artery in spiral groove:
+
+- A. Ulnar
+- B. Median
+- C. Radial
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Radial** — Radial nerve and profunda brachii artery run together in the spiral groove (radial groove) of humerus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q708 — Anatomy: Quadrilateral space
+
+Boundaries of quadrilateral space include all except:
+
+- A. Teres major
+- B. Long head of triceps
+- C. Neck of humerus
+- D. Deltoid
+
+<details><summary>Answer</summary>
+
+**D. Deltoid** — Quadrilateral space boundaries: teres minor (superior), teres major (inferior), long head of triceps (medial), surgical neck of humerus (lateral). Axillary nerve and posterior circumflex humeral artery pass through.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q709 — Anatomy: Axillary artery
+
+Axillary artery is divided into three parts by:
+
+- A. 1st rib
+- B. Clavicle
+- C. Pectoralis minor muscle
+- D. Teres minor muscle
+
+<details><summary>Answer</summary>
+
+**C. Pectoralis minor muscle** — Pectoralis minor divides axillary artery into 3 parts (1 branch, 2 branches, 3 branches respectively).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q710 — Anatomy: Posterior wall of axilla
+
+Posterior wall of axilla is formed by:
+
+- A. Pectoralis major
+- B. Pectoralis minor
+- C. Subscapularis
+- D. Intercostal muscles
+
+<details><summary>Answer</summary>
+
+**C. Subscapularis** — Posterior wall of axilla: subscapularis, teres major, latissimus dorsi. Anterior wall: pectoralis major and minor.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q711 — Anatomy: Anterior axillary fold
+
+Anterior axillary fold is due to which muscle:
+
+- A. Pectoralis major
+- B. Pectoralis minor
+- C. Subscapularis
+- D. Teres major
+
+<details><summary>Answer</summary>
+
+**A. Pectoralis major** — Anterior axillary fold = pectoralis major; posterior axillary fold = latissimus dorsi + teres major.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q712 — Anatomy: Intracapsular extrasynovial structure
+
+Intracapsular but extrasynovial:
+
+- A. Long head of triceps
+- B. Long head of biceps
+- C. Short head of biceps
+- D. Medial head of biceps
+
+<details><summary>Answer</summary>
+
+**B. Long head of biceps** — Long head of biceps tendon is intracapsular (within shoulder joint capsule) but extrasynovial.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q713 — Anatomy: Lactiferous ducts
+
+How many lactiferous ducts open in nipple:
+
+- A. 0–10
+- B. 15–20
+- C. 25–50
+- D. 50–75
+
+<details><summary>Answer</summary>
+
+**B. 15–20** — Each lactiferous duct opens separately at nipple; corresponds to 15–20 lobes.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q714 — Anatomy: Deltopectoral groove
+
+Structure related to deltopectoral groove:
+
+- A. Axillary artery
+- B. Cephalic vein
+- C. Basilic vein
+- D. Radial nerve
+
+<details><summary>Answer</summary>
+
+**B. Cephalic vein** — Cephalic vein runs in deltopectoral groove to drain into axillary vein below clavicle.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q715 — Anatomy: Common interosseous artery
+
+Common interosseous artery is a branch of:
+
+- A. Brachial artery
+- B. Radial artery
+- C. Ulnar artery
+- D. Profunda brachii artery
+
+<details><summary>Answer</summary>
+
+**C. Ulnar artery** — Ulnar artery → common interosseous artery → anterior + posterior interosseous arteries.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q716 — Anatomy: Scaphoid blood supply
+
+True about blood supply of scaphoid:
+
+- A. Mainly through ulnar artery
+- B. Major supply from ventral surface
+- C. Major supply from dorsal surface
+- D. Proximal supply in anterograde fashion
+
+<details><summary>Answer</summary>
+
+**C. Major supply from dorsal surface** — Scaphoid blood supply mainly enters dorsally; proximal pole is supplied retrogradely, predisposing to AVN after fracture.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q717 — Anatomy: Foot lumbricals nerve supply
+
+3rd and 4th lumbricals of foot are supplied by:
+
+- A. Medial plantar nerve
+- B. Lateral plantar nerve
+- C. Peroneal nerve
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Lateral plantar nerve** — In foot: 1st lumbrical = medial plantar nerve; 2nd, 3rd, 4th = lateral plantar nerve (opposite to hand pattern).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q718 — Anatomy: Short saphenous vein
+
+All are true about short saphenous vein except:
+
+- A. Runs behind lateral malleolus
+- B. Runs on lateral side of leg
+- C. Accompanied by sural nerve
+- D. Achilles tendon is medial to vein
+
+<details><summary>Answer</summary>
+
+**B. Runs on lateral side of leg** — Short (small) saphenous vein: runs behind lateral malleolus, up posterior calf, drains into popliteal vein. Runs on posterior, not lateral, side of leg.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q719 — Anatomy: Inferior extensor retinaculum
+
+Not true about inferior extensor retinaculum:
+
+- A. Y-shaped
+- B. Superior slip attached to lower end of fibula
+- C. Inferior slip attached to deep fascia of sole
+- D. Lateral attached to calcaneum
+
+<details><summary>Answer</summary>
+
+**B. Superior slip attached to lower end of fibula** — Inferior extensor retinaculum is Y-shaped with stem attached to calcaneum; two slips attach to medial malleolus and plantar fascia. Not attached to fibula.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q720 — Anatomy: Popliteus
+
+True about popliteus — all except:
+
+- A. Flexor of knee
+- B. Intracapsular origin
+- C. Supplied by tibial nerve
+- D. Causes locking of knee
+
+<details><summary>Answer</summary>
+
+**D. Causes locking of knee** — Popliteus unlocks the knee (lateral rotation of femur on tibia). It does NOT cause locking.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q721 — Anatomy: Semitendinosus
+
+True regarding semitendinosus:
+
+- A. Supplied by common peroneal part of sciatic nerve
+- B. Proximal fleshy, distal thin
+- C. Distal fleshy, proximal thin
+- D. Proximal and distal thin, middle fleshy
+
+<details><summary>Answer</summary>
+
+**D. Proximal and distal thin, middle fleshy** — Semitendinosus has a long tendon at its lower end; its muscle belly is in the middle; hence "semi-tendinosus."
+
+</details>
+
+---
+
+---
+
+---
+
+### Q722 — Anatomy: Foot dorsiflexor
+
+Which of the following dorsiflexes the foot:
+
+- A. Tibialis posterior
+- B. Tibialis anterior
+- C. Peroneus brevis
+- D. Extensor digitorum brevis
+
+<details><summary>Answer</summary>
+
+**B. Tibialis anterior** — Tibialis anterior is the primary dorsiflexor and invertor of foot (deep peroneal nerve, L4, L5).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q723 — Anatomy: Oblique popliteal ligament artery
+
+Artery piercing the oblique popliteal ligament of knee:
+
+- A. Superior genicular
+- B. Inferior genicular
+- C. Middle genicular
+- D. Popliteal
+
+<details><summary>Answer</summary>
+
+**C. Middle genicular** — Middle genicular (azygos articular) artery pierces the oblique popliteal ligament.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q724 — Anatomy: Lateral patellar dislocation prevention
+
+Lateral dislocation of patella is prevented by:
+
+- A. Rectus femoris
+- B. Vastus intermedius
+- C. Vastus lateralis
+- D. Vastus medialis
+
+<details><summary>Answer</summary>
+
+**D. Vastus medialis** — Vastus medialis oblique (VMO) pulls patella medially, preventing lateral dislocation.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q725 — Anatomy: Hunter's canal
+
+Hunter's canal is seen in:
+
+- A. Cubital fossa
+- B. Popliteal fossa
+- C. Thigh
+- D. Calf
+
+<details><summary>Answer</summary>
+
+**C. Thigh** — Hunter's (adductor) canal is in the medial thigh; contains femoral vessels and saphenous nerve.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q726 — Anatomy: Iliotibial tract
+
+True about iliotibial tract — all except:
+
+- A. Receives insertion of gluteus maximus
+- B. Derived from fascia lata
+- C. Inserted on lateral tibial condyle
+- D. None
+
+<details><summary>Answer</summary>
+
+**D. None** — All statements about iliotibial tract are true; all A, B, C are correct facts.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q727 — Anatomy: Talus support ligament
+
+Ligament supporting the talus:
+
+- A. Spring ligament
+- B. Deltoid ligament
+- C. LCL
+- D. Cervical ligament
+
+<details><summary>Answer</summary>
+
+**A. Spring ligament** — Plantar calcaneonavicular (spring) ligament supports head of talus and the medial longitudinal arch.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q728 — Anatomy: Tibia nutrient artery
+
+False about tibia-fibula:
+
+- A. Nutrient artery of tibia is from posterior tibial artery
+- B. Nutrient artery of fibula is from peroneal artery
+- C. Proximal end of tibia is related to common peroneal nerve
+- D. Tibia is most common site of osteomyelitis
+
+<details><summary>Answer</summary>
+
+**C. Proximal end of tibia is related to common peroneal nerve** — Common peroneal nerve winds around neck of fibula, not tibia. So the false statement is C.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q729 — Anatomy: Lumbar plexus branches
+
+All are branches of lumbar plexus except:
+
+- A. Iliohypogastric nerve
+- B. Ilioinguinal nerve
+- C. Obturator nerve
+- D. Subcostal nerve
+
+<details><summary>Answer</summary>
+
+**D. Subcostal nerve** — Subcostal nerve (T12) is NOT part of lumbar plexus; it's the ventral ramus of T12.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q730 — Anatomy: Sacral articular surface in males
+
+Articular surface of sacrum extends up to how many vertebrae in males:
+
+- A. 1 to 1½
+- B. 2 to 2½
+- C. 3 to 3½
+- D. 4 to 4½
+
+<details><summary>Answer</summary>
+
+**C. 3 to 3½** — In males, sacroiliac articular surface extends over first 3–3.5 sacral segments; in females, 2–2.5 segments.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q731 — Anatomy: Sacroiliac joint lower limit in females
+
+Lower limit of sacroiliac joint in females:
+
+- A. 1 to 1½
+- B. 2 to 2½
+- C. 3 to 3½
+- D. 4 to 4½
+
+<details><summary>Answer</summary>
+
+**B. 2 to 2½** — Sacroiliac joint extends over S1–S2 (or 2–2.5 vertebrae) in females.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q732 — Anatomy: First rib relations
+
+First rib is not related to:
+
+- A. Sympathetic chain
+- B. Scalenus anterior
+- C. Suprapleureal membrane
+- D. T2 nerve
+
+<details><summary>Answer</summary>
+
+**D. T2 nerve** — First rib is related to T1 nerve (not T2). The T2 nerve passes over the 2nd rib.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q733 — Anatomy: Anterior intercostal artery
+
+True about anterior intercostal artery:
+
+- A. Present in 1st to 11th intercostal space
+- B. Each intercostal space has two anterior intercostal arteries
+- C. Branch of internal thoracic artery
+- D. Branch of aorta
+
+<details><summary>Answer</summary>
+
+**C. Branch of internal thoracic artery** — Anterior intercostal arteries (1st–6th) are from internal thoracic artery; 7th–9th from musculophrenic artery.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q734 — Anatomy: Right principal bronchus
+
+True about right principal bronchus:
+
+- A. Narrower
+- B. Horizontal
+- C. Shorter
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**C. Shorter** — Right principal bronchus: wider, shorter, more vertical (hence more likely to aspirate foreign bodies into right lung).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q735 — Anatomy: Thoracic duct formation
+
+Thoracic duct is formed by:
+
+- A. Union of left subclavian and left internal jugular vein
+- B. Union of brachiocephalic vein and internal jugular vein
+- C. Continuation of upper end of cisterna chyli
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Continuation of upper end of cisterna chyli** — Thoracic duct is the upward continuation of cisterna chyli, starting at T12.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q736 — Anatomy: Thoracic duct termination
+
+Thoracic duct opens into:
+
+- A. Subclavian vein
+- B. Internal jugular vein
+- C. Right brachiocephalic vein
+- D. Left brachiocephalic vein
+
+<details><summary>Answer</summary>
+
+**D. Left brachiocephalic vein** — Thoracic duct opens into the junction of left internal jugular and left subclavian veins (= left brachiocephalic vein).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q737 — Anatomy: Hilum of lung posterior relation
+
+Posterior relation of hilum of lung:
+
+- A. Azygous vein
+- B. SVC
+- C. Vagus nerve
+- D. Arch of aorta
+
+<details><summary>Answer</summary>
+
+**C. Vagus nerve** — Vagus passes posterior to lung hilum; phrenic passes anterior.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q738 — Anatomy: Right lung hilum not related to
+
+Not related to hilum of right lung:
+
+- A. Azygous vein
+- B. Vagus nerve
+- C. SVC
+- D. Arch of aorta
+
+<details><summary>Answer</summary>
+
+**D. Arch of aorta** — Arch of aorta is on the left side. Right lung hilum is related to SVC, azygous vein, right vagus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q739 — Anatomy: Xiphoid fusion age
+
+Xiphoid fuses with sternum by what age:
+
+- A. 30 years
+- B. 35 years
+- C. 40 years
+- D. 45 years
+
+<details><summary>Answer</summary>
+
+**C. 40 years** — Xiphoid process fuses with the sternal body around age 40.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q740 — Anatomy: Bronchopulmonary segments
+
+Bronchopulmonary segments in right and left lungs respectively:
+
+- A. 9, 11
+- B. 11, 9
+- C. 10, 10
+- D. 8, 10
+
+<details><summary>Answer</summary>
+
+**C. 10, 10** — Both right and left lungs have 10 bronchopulmonary segments each.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q741 — Anatomy: Arch of aorta nerve relations
+
+At the level of arch of aorta, relationship of left vagus and left phrenic nerve:
+
+- A. Phrenic nerve anterior, vagus nerve posterior
+- B. Phrenic nerve posterior, vagus nerve anterior
+- C. Both in same plane anteroposteriorly
+- D. Variable relationship
+
+<details><summary>Answer</summary>
+
+**A. Phrenic nerve anterior, vagus nerve posterior** — At arch of aorta level: phrenic nerve is anterior (crosses laterally), vagus is posterior (to form left RLN).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q742 — Anatomy: Transverse pericardial sinus
+
+Posterior to transverse pericardial sinus:
+
+- A. Aorta
+- B. Pulmonary trunk
+- C. SVC
+- D. Left atrium
+
+<details><summary>Answer</summary>
+
+**C. SVC** — Transverse pericardial sinus: anterior = aorta and pulmonary trunk; posterior = SVC and pulmonary veins.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q743 — Anatomy: Cremasteric reflex
+
+True about cremasteric reflex:
+
+- A. Afferent: genital branch of genitofemoral nerve
+- B. Efferent: genital branch of genitofemoral nerve
+- C. Efferent: femoral branch of genitofemoral nerve
+- D. Afferent: pudendal nerve
+
+<details><summary>Answer</summary>
+
+**B. Efferent: genital branch of genitofemoral nerve** — Cremasteric reflex: afferent = femoral branch (L1, L2); efferent = genital branch of genitofemoral nerve (L1, L2).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q744 — Anatomy: Urethral crest
+
+Urethral crest is an elevation seen in urethra due to:
+
+- A. Prostatic glands
+- B. Insertion of detrusor muscle
+- C. Insertion of trigone
+- D. Pre-prostatic internal sphincter
+
+<details><summary>Answer</summary>
+
+**A. Prostatic glands** — Urethral crest (verumontanum) is a longitudinal ridge in the prostatic urethra where prostatic utricle and ejaculatory ducts open.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q745 — Anatomy: Pyramidalis nerve supply
+
+Pyramidalis is supplied by:
+
+- A. Subcostal nerve
+- B. Ilioinguinal nerve
+- C. Iliohypogastric nerve
+- D. Genitofemoral nerve
+
+<details><summary>Answer</summary>
+
+**A. Subcostal nerve** — Pyramidalis muscle is supplied by the subcostal nerve (T12).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q746 — Anatomy: Appendices epiploicae
+
+Appendices epiploicae is a feature of:
+
+- A. Duodenum
+- B. Stomach
+- C. Colon
+- D. Jejunum
+
+<details><summary>Answer</summary>
+
+**C. Colon** — Appendices epiploicae are fat-filled peritoneal pouches on the surface of the large intestine.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q747 — Anatomy: Appendices epiploicae distribution
+
+Appendices epiploicae are seen in all parts of large intestine except:
+
+- A. Sigmoid colon
+- B. Ascending colon
+- C. Caecum
+- D. Transverse colon
+
+<details><summary>Answer</summary>
+
+**C. Caecum** — Caecum has no appendices epiploicae; the appendix and rectum also lack them.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q748 — Anatomy: Inferior rectal artery
+
+Inferior rectal artery is a branch of:
+
+- A. Inferior mesenteric artery
+- B. Superior mesenteric artery
+- C. Coeliac trunk
+- D. Internal pudendal artery
+
+<details><summary>Answer</summary>
+
+**D. Internal pudendal artery** — Inferior rectal artery = branch of internal pudendal artery (supplies external anal sphincter).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q749 — Anatomy: Cremasteric artery
+
+Cremasteric artery is a branch of:
+
+- A. Internal pudendal artery
+- B. External pudendal artery
+- C. Inferior epigastric artery
+- D. Superior epigastric artery
+
+<details><summary>Answer</summary>
+
+**C. Inferior epigastric artery** — Cremasteric artery is a branch of the inferior epigastric artery.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q750 — Anatomy: Superficial epigastric artery
+
+Superficial epigastric artery is a branch of:
+
+- A. Internal pudendal artery
+- B. External pudendal artery
+- C. Internal iliac artery
+- D. Femoral artery
+
+<details><summary>Answer</summary>
+
+**D. Femoral artery** — Superficial epigastric artery is a branch of the femoral artery (just below inguinal ligament).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q751 — Anatomy: Inferior epigastric vein
+
+Inferior epigastric vein drains into:
+
+- A. Femoral vein
+- B. External iliac vein
+- C. Internal iliac vein
+- D. Internal pudendal vein
+
+<details><summary>Answer</summary>
+
+**B. External iliac vein** — Inferior epigastric vein drains into the external iliac vein.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q752 — Anatomy: Superior rectal vein
+
+Superior rectal vein drains into:
+
+- A. Inferior mesenteric vein
+- B. External iliac vein
+- C. Internal iliac vein
+- D. Internal pudendal vein
+
+<details><summary>Answer</summary>
+
+**A. Inferior mesenteric vein** — Superior rectal vein → inferior mesenteric vein → portal system. Important portosystemic anastomosis site.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q753 — Anatomy: Accessory spleen location
+
+Most common location of accessory spleen:
+
+- A. Hilum of spleen
+- B. Greater omentum
+- C. Lesser omentum
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Hilum of spleen** — Accessory spleen most commonly found at splenic hilum (~80% of cases).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q754 — Anatomy: Posterior vaginal wall
+
+Length of posterior vaginal wall:
+
+- A. Variable
+- B. Same as anterior vaginal wall
+- C. Less than anterior vaginal wall
+- D. More than anterior vaginal wall
+
+<details><summary>Answer</summary>
+
+**D. More than anterior vaginal wall** — Posterior vaginal wall (~9 cm) is longer than anterior vaginal wall (~7 cm) due to posterior fornix depth.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q755 — Anatomy: Bare area of liver
+
+Bare area of liver is related to:
+
+- A. Aorta
+- B. Hepatic vein
+- C. Portal vein
+- D. Gallbladder
+
+<details><summary>Answer</summary>
+
+**B. Hepatic vein** — Bare area of liver (not covered by peritoneum) is related to the IVC and right hepatic vein.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q756 — Anatomy: Circumcaval ureter
+
+True about circumcaval ureter:
+
+- A. Developmental anomaly of ureter
+- B. Ureter passes in front of IVC from lateral to medial
+- C. Mostly involves right ureter
+- D. Type 2 is more common
+
+<details><summary>Answer</summary>
+
+**C. Mostly involves right ureter** — Retrocaval (circumcaval) ureter = right ureter passes behind IVC (due to persistence of right posterior cardinal vein). Mostly right ureter.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q757 — Anatomy: Retroperitoneal structure
+
+Which of the following is a retroperitoneal structure:
+
+- A. Ileum
+- B. Jejunum
+- C. Ureter
+- D. Appendix
+
+<details><summary>Answer</summary>
+
+**C. Ureter** — Ureter is retroperitoneal. SAD PUCKER mnemonic: Suprarenal glands, Aorta/IVC, Duodenum (2nd–4th), Pancreas (except tail), Ureters, Colon (ascending/descending), Kidneys, Esophagus, Rectum.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q758 — Anatomy: Falciform ligament content
+
+Falciform ligament contains:
+
+- A. Ligamentum venosus
+- B. Ligamentum teres
+- C. Linorenal ligament
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Ligamentum teres** — Falciform ligament contains ligamentum teres hepatis (obliterated left umbilical vein).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q759 — Anatomy: Colon without mesentery
+
+Part of colon with no mesentery:
+
+- A. Transverse colon
+- B. Sigmoid colon
+- C. Ascending colon
+- D. Rectum
+
+<details><summary>Answer</summary>
+
+**C. Ascending colon** — Ascending and descending colon are retroperitoneal (no mesentery). Transverse and sigmoid have mesentery.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q760 — Anatomy: Trigone of bladder
+
+False regarding trigone of bladder:
+
+- A. Lined by transitional epithelium
+- B. Mucosa smooth and firmly adherent
+- C. Internal urethral orifice lies at lateral angle of base
+- D. Developed from mesonephric duct
+
+<details><summary>Answer</summary>
+
+**C. Internal urethral orifice lies at lateral angle of base** — Internal urethral orifice is at the APEX (lower angle) of the trigone, not lateral angles. Ureteric orifices are at lateral angles.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q761 — Anatomy: Trigone development
+
+Trigone of urinary bladder develops from:
+
+- A. Mesoderm
+- B. Ectoderm
+- C. Endoderm of urachus
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Mesoderm** — Trigone develops from the absorbed mesonephric (Wolffian) ducts = mesodermal origin.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q762 — Anatomy: Large intestine watershed zone
+
+Watershed zone of large intestine:
+
+- A. Cecum
+- B. Ascending colon
+- C. Rectosigmoid
+- D. Transverse colon
+
+<details><summary>Answer</summary>
+
+**C. Rectosigmoid** — Rectosigmoid junction (Sudeck's critical point) is the watershed zone between IMA territory (sigmoid) and superior rectal artery territory; prone to ischemia.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q763 — Anatomy: Transverse cervical ligament
+
+Ligament extending from cervix and vagina to lateral pelvic wall:
+
+- A. Broad ligament
+- B. Pubocervical ligament
+- C. Round ligament
+- D. Transverse cervical ligament
+
+<details><summary>Answer</summary>
+
+**D. Transverse cervical ligament** — Transverse cervical (cardinal/Mackenrodt's) ligament supports cervix and upper vagina, attaches to lateral pelvic wall.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q764 — Anatomy: Scarpa's fascia
+
+True about Scarpa's fascia:
+
+- A. Deep fascia of anterior abdominal wall
+- B. Also called Buck's fascia
+- C. Attached to iliotibial tract
+- D. Forms suspensory ligament of penis
+
+<details><summary>Answer</summary>
+
+**D. Forms suspensory ligament of penis** — Scarpa's fascia (membranous layer of superficial fascia) forms the suspensory ligament of penis and dartos fascia.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q765 — Anatomy: Cave of Retzius
+
+Where is the Cave of Retzius present:
+
+- A. Between urinary bladder and rectum
+- B. Between urinary bladder and cervix
+- C. In front of the bladder
+- D. Between cervix and rectum
+
+<details><summary>Answer</summary>
+
+**C. In front of the bladder** — Retropubic space (space of Retzius/Cave of Retzius) is between pubic symphysis and urinary bladder.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q766 — Anatomy: Deep inguinal ring nerve
+
+Nerve entering the inguinal canal through deep inguinal ring:
+
+- A. Ilioinguinal nerve
+- B. Pudendal nerve
+- C. Genital branch of genitofemoral nerve
+- D. Superior rectal nerve
+
+<details><summary>Answer</summary>
+
+**C. Genital branch of genitofemoral nerve** — Genital branch of genitofemoral nerve enters through deep inguinal ring with spermatic cord.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q767 — Anatomy: Renal artery development
+
+Initially, renal arteries are branches of:
+
+- A. Internal pudendal artery
+- B. External iliac artery
+- C. Common iliac artery
+- D. Aorta
+
+<details><summary>Answer</summary>
+
+**C. Common iliac artery** — During early development, kidney is in pelvis; initially supplied by branches of common iliac artery.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q768 — Anatomy: Neonatal kidney supply
+
+In a neonate, kidney is supplied by:
+
+- A. Internal pudendal artery
+- B. External iliac artery
+- C. Common iliac artery
+- D. Aorta
+
+<details><summary>Answer</summary>
+
+**D. Aorta** — After ascent to adult position, kidney is supplied by renal arteries directly from abdominal aorta (at L1–L2).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q769 — Anatomy: Meckel's cave
+
+Meckel's cave is related to:
+
+- A. Submandibular ganglion
+- B. Trigeminal ganglion
+- C. Otic ganglion
+- D. Pterygopalatine ganglion
+
+<details><summary>Answer</summary>
+
+**B. Trigeminal ganglion** — Meckel's cave (cavum trigeminale) is a dural recess near apex of petrous bone containing the trigeminal (Gasserian) ganglion.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q770 — Anatomy: Longest spinous process
+
+Longest spinous process is seen in:
+
+- A. C2
+- B. C4
+- C. C5
+- D. C7
+
+<details><summary>Answer</summary>
+
+**D. C7** — C7 (vertebra prominens) has the longest spinous process in the cervical spine; palpable at base of neck.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q771 — Anatomy: Sweat gland near lid margin
+
+Sweat gland near the lid margins:
+
+- A. Moll
+- B. Zeis
+- C. Meibomian
+- D. Krause
+
+<details><summary>Answer</summary>
+
+**A. Moll** — Glands of Moll = modified sweat (apocrine) glands at eyelid margin. Zeis = modified sebaceous glands. Meibomian = tarsal glands (sebaceous).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q772 — Anatomy: Anterior nasal lymph drainage
+
+Anterior lymphatics from the nose drain into:
+
+- A. Pretracheal nodes
+- B. Submandibular nodes
+- C. Sublingual nodes
+- D. Superficial cervical nodes
+
+<details><summary>Answer</summary>
+
+**B. Submandibular nodes** — Anterior nasal cavity drains to submandibular nodes; posterior nasal cavity to retropharyngeal and deep cervical nodes.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q773 — Anatomy: Killian's dehiscence
+
+Killian's dehiscence is seen in:
+
+- A. Oropharynx
+- B. Nasopharynx
+- C. Cricopharynx
+- D. Vocal cords
+
+<details><summary>Answer</summary>
+
+**C. Cricopharynx** — Killian's dehiscence = triangle of weakness between thyropharyngeus and cricopharyngeus; site of pharyngeal (Zenker's) diverticulum formation.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q774 — Anatomy: Fossa incudis
+
+Fossa incudis is related to:
+
+- A. Head of malleus
+- B. Long process of incus
+- C. Short process of incus
+- D. Foot process of stapes
+
+<details><summary>Answer</summary>
+
+**C. Short process of incus** — Fossa incudis is a recess in the posterior epitympanum that lodges the short process of the incus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q775 — Anatomy: Unpaired laryngeal cartilage
+
+Unpaired laryngeal cartilage:
+
+- A. Arytenoid
+- B. Corniculate
+- C. Cuneiform
+- D. Epiglottis
+
+<details><summary>Answer</summary>
+
+**D. Epiglottis** — Unpaired laryngeal cartilages: thyroid, cricoid, epiglottis. Paired: arytenoid, corniculate, cuneiform.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q776 — Anatomy: Dorsal cranial nerve exit
+
+Only nerve which exits brainstem on dorsal side:
+
+- A. Facial
+- B. Trigeminal
+- C. Trochlear
+- D. Abducent
+
+<details><summary>Answer</summary>
+
+**C. Trochlear** — CN IV (trochlear) is the only cranial nerve to exit dorsally from the brainstem (posterior midbrain); also the smallest.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q777 — Anatomy: Putamen blood supply
+
+Blood supply of putamen includes all except:
+
+- A. Medial striate arteries
+- B. Lateral striate arteries
+- C. Anterior choroidal artery
+- D. Posterior communicating artery
+
+<details><summary>Answer</summary>
+
+**D. Posterior communicating artery** — Putamen is supplied by medial and lateral striate arteries (lenticulostriate from MCA) and anterior choroidal artery.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q778 — Anatomy: Medulla blood supply
+
+Medulla is supplied by all except:
+
+- A. Basilar artery
+- B. Anterior spinal artery
+- C. Vertebral artery
+- D. Posterior cerebral artery
+
+<details><summary>Answer</summary>
+
+**D. Posterior cerebral artery** — Medulla blood supply: vertebral artery, anterior spinal, posterior inferior cerebellar (PICA), and basilar (lower portion). PCA supplies midbrain and occipital lobe.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q779 — Anatomy: Eustachian tube length
+
+Length of Eustachian tube:
+
+- A. 12 mm
+- B. 24 mm
+- C. 36 mm
+- D. 48 mm
+
+<details><summary>Answer</summary>
+
+**C. 36 mm** — Eustachian (auditory) tube is approximately 35–36 mm long in adults.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q780 — Anatomy: Lacrimal gland parasympathetic supply
+
+Parasympathetic supply to lacrimal glands passed through:
+
+- A. Lesser petrosal nerve
+- B. Chorda tympani
+- C. Greater petrosal nerve
+- D. Lingual nerve
+
+<details><summary>Answer</summary>
+
+**C. Greater petrosal nerve** — Greater petrosal nerve (from facial/geniculate ganglion) → nerve of pterygoid canal (Vidian) → pterygopalatine ganglion → zygomatic → lacrimal nerve → lacrimal gland.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q781 — Anatomy: Onodi cells
+
+Onodi cells are seen in:
+
+- A. Sphenoid sinus
+- B. Maxillary sinus
+- C. Anterior ethmoidal sinus
+- D. Posterior ethmoidal sinus
+
+<details><summary>Answer</summary>
+
+**D. Posterior ethmoidal sinus** — Onodi cells are posterior ethmoid air cells that extend superolaterally around the optic nerve; risk in sinus surgery.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q782 — Anatomy: Haller cells
+
+Haller cells are seen in:
+
+- A. Roof of nose
+- B. Orbital floor
+- C. Lateral nasal wall
+- D. Maxillary sinus
+
+<details><summary>Answer</summary>
+
+**B. Orbital floor** — Haller cells (infraorbital cells) = anterior ethmoid cells that pneumatize the orbital floor medial to infraorbital canal.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q783 — Anatomy: Nasolacrimal duct valve
+
+Which valve is present at opening of nasolacrimal duct:
+
+- A. Hasner's valve
+- B. Heister valve
+- C. Spiral valve
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Hasner's valve** — Valve of Hasner (plica lacrimalis) is at the lower opening of the nasolacrimal duct in the inferior meatus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q784 — Anatomy: Cribriform plate function
+
+Cribriform plate forms:
+
+- A. Roof of olfactory region
+- B. Floor of olfactory region
+- C. Nasal septum
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Roof of olfactory region** — Cribriform plate of ethmoid = roof of olfactory region (nasal cavity); olfactory nerve bundles pass through its foramina.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q785 — Anatomy: Galen's anastomosis
+
+Galen's anastomosis is between:
+
+- A. Recurrent laryngeal nerve and external laryngeal nerve
+- B. Recurrent laryngeal nerve and internal laryngeal nerve
+- C. Internal laryngeal nerve and external laryngeal nerve
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Recurrent laryngeal nerve and internal laryngeal nerve** — Galen's anastomosis connects the recurrent laryngeal nerve (motor) with the internal laryngeal nerve (sensory branch of SLN) in the posterior larynx.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q786 — Anatomy: Lamina papyracea
+
+Lamina papyracea is between:
+
+- A. Optic nerve and orbit
+- B. Maxillary sinus and orbit
+- C. Ethmoid sinus and orbit
+- D. Cranial cavity and orbit
+
+<details><summary>Answer</summary>
+
+**C. Ethmoid sinus and orbit** — Lamina papyracea = paper-thin medial orbital wall = orbital plate of ethmoid bone; separates orbit from ethmoid air cells.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q787 — Anatomy: Sternocleidomastoid
+
+False about sternocleidomastoid:
+
+- A. Arises from sternum and clavicle
+- B. Inserted on mastoid process
+- C. Motor supply by spinal accessory nerve
+- D. Tilts the head on opposite side
+
+<details><summary>Answer</summary>
+
+**D. Tilts the head on opposite side** — SCM tilts (laterally flexes) the head to the SAME side while rotating the face to the OPPOSITE side.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q788 — Anatomy: Scalenus anterior
+
+The key to the root of the neck is scalenus anterior. True statement about scalenus anterior:
+
+- A. Not pierced by phrenic nerve
+- B. Attached to scalene tubercle on 2nd rib
+- C. Separates subclavian artery from subclavian vein
+- D. Pierced by phrenic nerve
+
+<details><summary>Answer</summary>
+
+**A. Not pierced by phrenic nerve** — Phrenic nerve descends on the ANTERIOR surface of scalenus anterior (not through it). The muscle separates subclavian artery (posterior) from subclavian vein (anterior). Attaches to 1st rib scalene tubercle.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q789 — Anatomy: Tongue and occipital myotome
+
+Tongue muscle not developed from occipital myotome:
+
+- A. Styloglossus
+- B. Hyoglossus
+- C. Genioglossus
+- D. Palatoglossus
+
+<details><summary>Answer</summary>
+
+**D. Palatoglossus** — Palatoglossus is the exception — it is derived from the pharyngeal mesoderm (not occipital myotomes) and is innervated by vagus nerve, not hypoglossal.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q790 — Anatomy: Korner's septum
+
+Korner's septum is seen in:
+
+- A. Petrosquamous suture
+- B. Temporosquamous suture
+- C. Petromastoid suture
+- D. Frontozygomatic suture
+
+<details><summary>Answer</summary>
+
+**A. Petrosquamous suture** — Körner's septum is a bony plate at the petrosquamous suture in the mastoid; can mislead surgeons to think they're in the mastoid antrum when still lateral to the plate.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q791 — Anatomy: Chorda tympani fibers
+
+True about chorda tympani:
+
+- A. Postganglionic sympathetic
+- B. Preganglionic sympathetic
+- C. Preganglionic parasympathetic
+- D. Postganglionic parasympathetic
+
+<details><summary>Answer</summary>
+
+**C. Preganglionic parasympathetic** — Chorda tympani carries preganglionic parasympathetic fibers (synapsing in submandibular ganglion) and taste from anterior 2/3 tongue.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q792 — Anatomy: Vidian nerve formation
+
+Vidian nerve is formed by union of:
+
+- A. Superficial petrosal nerve and deep petrosal nerve
+- B. Greater petrosal nerve and superficial petrosal nerve
+- C. Greater petrosal nerve and deep petrosal nerve
+- D. Greater petrosal nerve and external petrosal nerve
+
+<details><summary>Answer</summary>
+
+**C. Greater petrosal nerve and deep petrosal nerve** — Vidian nerve (nerve of pterygoid canal) = greater petrosal nerve (pre-ganglionic parasympathetic from facial) + deep petrosal nerve (sympathetic from ICA plexus).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q793 — Anatomy: Woodruff's area
+
+Woodruff's area is located at:
+
+- A. Anteroinferior part of nasal septum
+- B. Posteroinferior part of nasal septum
+- C. Superior part of nasal septum
+- D. Posteroinferior part of lateral nasal wall
+
+<details><summary>Answer</summary>
+
+**D. Posteroinferior part of lateral nasal wall** — Woodruff's plexus is on the posteroinferior lateral nasal wall (nasopharyngeal end of inferior turbinate); common bleeding site in hypertensives.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q794 — Anatomy: Scutum in middle ear
+
+Scutum is present in middle ear:
+
+- A. Roof
+- B. Lateral wall
+- C. Medial wall
+- D. Floor
+
+<details><summary>Answer</summary>
+
+**B. Lateral wall** — Scutum (spur) = sharp bony projection of the lateral wall of attic (epitympanum); erosion suggests cholesteatoma.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q795 — Anatomy: Bony labyrinth
+
+Not a part of bony labyrinth:
+
+- A. Cochlea
+- B. Vestibule
+- C. Utricle
+- D. Semicircular canal
+
+<details><summary>Answer</summary>
+
+**C. Utricle** — Utricle and saccule are parts of the membranous labyrinth (inside bony vestibule). Bony labyrinth = cochlea, vestibule, semicircular canals.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q796 — Anatomy: Thyroid lymph drainage
+
+Lymphatic drainage of thyroid gland is mainly:
+
+- A. Sublingual nodes
+- B. Submandibular nodes
+- C. Deep cervical nodes
+- D. Submental nodes
+
+<details><summary>Answer</summary>
+
+**C. Deep cervical nodes** — Thyroid lymph drains mainly to deep cervical nodes (and paratracheal nodes).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q797 — Anatomy: Organ of Corti location
+
+Organ of Corti is situated in:
+
+- A. Basilar membrane
+- B. Utricle
+- C. Saccule
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Basilar membrane** — Organ of Corti sits on the basilar membrane within the scala media (cochlear duct) of the cochlea.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q798 — Anatomy: 4th ventricle floor
+
+Floor of 4th ventricle has:
+
+- A. Infundibulum
+- B. Vagal triangle
+- C. Mammillary body
+- D. Tuber cinereum
+
+<details><summary>Answer</summary>
+
+**B. Vagal triangle** — Floor of 4th ventricle (rhomboid fossa) contains: hypoglossal triangle, vagal triangle, facial colliculus, sulcus limitans, locus coeruleus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q799 — Anatomy: Middle meningeal artery foramen
+
+Middle meningeal artery passes through:
+
+- A. Foramen ovale
+- B. Foramen lacerum
+- C. Foramen rotundum
+- D. Foramen spinosum
+
+<details><summary>Answer</summary>
+
+**D. Foramen spinosum** — Middle meningeal artery enters the middle cranial fossa through foramen spinosum.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q800 — Anatomy: Nerve looping submandibular duct
+
+Nerve which loops around submandibular duct:
+
+- A. Mandibular nerve
+- B. Lingual nerve
+- C. Hypoglossal nerve
+- D. Recurrent laryngeal nerve
+
+<details><summary>Answer</summary>
+
+**B. Lingual nerve** — Lingual nerve winds around the submandibular duct (Wharton's duct), crossing from lateral to medial to reach tongue tip.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q801 — Anatomy: Medulla oblongata derivation
+
+Medulla oblongata is derived from:
+
+- A. Telencephalon
+- B. Diencephalon
+- C. Mesencephalon
+- D. Myelencephalon
+
+<details><summary>Answer</summary>
+
+**D. Myelencephalon** — Myelencephalon → medulla oblongata. Metencephalon → pons + cerebellum. Mesencephalon → midbrain.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q802 — Embryology: Morula cell count
+
+Morula is how many celled:
+
+- A. 4
+- B. 8
+- C. 12
+- D. 16
+
+<details><summary>Answer</summary>
+
+**D. 16** — Morula (= mulberry) is a solid ball of ~16 cells formed by day 3 after fertilization.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q803 — Embryology: Dental papilla derivatives
+
+Dental papilla gives rise to:
+
+- A. Enamel
+- B. Dental cuticle
+- C. Tooth pulp
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Tooth pulp** — Dental papilla (mesenchyme) → dentine and pulp. Dental organ (enamel organ) → enamel.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q804 — Embryology: Optic cup derivatives
+
+Optic cup gives rise to:
+
+- A. Lens
+- B. Retina
+- C. Cornea
+- D. Sclera
+
+<details><summary>Answer</summary>
+
+**B. Retina** — Inner layer of optic cup → neural retina; outer layer → retinal pigment epithelium. Lens = surface ectoderm.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q805 — Embryology: Kidney excretory system
+
+Excretory system of kidney is derived from:
+
+- A. Ureteric bud
+- B. Mesonephros
+- C. Metanephros
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Metanephros** — Metanephric mesoderm (induced by ureteric bud) → nephrons (excretory tubules, glomeruli).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q806 — Embryology: Ureteric bud origin
+
+Ureteric bud arises from:
+
+- A. Paramesonephric duct
+- B. Mullerian duct
+- C. Mesonephric duct
+- D. Mesonephric tubule
+
+<details><summary>Answer</summary>
+
+**C. Mesonephric duct** — Ureteric bud is an outgrowth from the caudal mesonephric (Wolffian) duct.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q807 — Embryology: Vitelline vein derivative
+
+Derivative of vitelline vein:
+
+- A. IVC
+- B. SVC
+- C. Ligamentum venosus
+- D. Ligamentum teres
+
+<details><summary>Answer</summary>
+
+**A. IVC** — Vitelline veins contribute to formation of IVC (hepatic segments), portal vein, and hepatic sinusoids.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q808 — Embryology: Ovary development
+
+Not true about development of ovary:
+
+- A. Develops in genital ridge
+- B. Sex cords are derived from coelomic epithelium
+- C. Oocytes are mesodermal in origin
+- D. At birth ovary contains 2 million follicles
+
+<details><summary>Answer</summary>
+
+**C. Oocytes are mesodermal in origin** — Oocytes (primordial germ cells) originate from the wall of the yolk sac (endoderm), not mesoderm.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q809 — Embryology: Testis at deep inguinal ring
+
+Testis lies at deep inguinal ring up to:
+
+- A. 4 months
+- B. 5 months
+- C. 7 months
+- D. 9 months
+
+<details><summary>Answer</summary>
+
+**C. 7 months** — Testis reaches deep inguinal ring at 7 months; enters scrotum at 8–9 months. Descent involves gubernaculum.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q810 — Embryology: Testis position at 24–28 weeks
+
+Position of testis at 24–28 weeks of intrauterine life:
+
+- A. Inguinal canal
+- B. Lumbar region
+- C. Superficial inguinal ring
+- D. Deep inguinal ring
+
+<details><summary>Answer</summary>
+
+**D. Deep inguinal ring** — At 24–28 weeks (7 months), testis is at the deep inguinal ring prior to entering the inguinal canal.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q811 — Embryology: Notochord
+
+True about notochord — all except:
+
+- A. Defines axis of embryo
+- B. Serves as primary inductor
+- C. Derived from hypoblast
+- D. Remains as nucleus pulposus
+
+<details><summary>Answer</summary>
+
+**C. Derived from hypoblast** — Notochord is derived from the primitive node/epiblast (NOT hypoblast); it is a mesodermal structure.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q812 — Embryology: Notochord remnant
+
+Remnant of notochord:
+
+- A. Annulus fibrosus
+- B. Nucleus pulposus
+- C. Ligamentum flavum
+- D. Intertransverse ligament
+
+<details><summary>Answer</summary>
+
+**B. Nucleus pulposus** — Nucleus pulposus (central gelatinous core of intervertebral disc) is the remnant of the notochord.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q813 — Embryology: Second part of duodenum
+
+2nd part of duodenum is derived from:
+
+- A. Foregut
+- B. Midgut
+- C. Both foregut and midgut
+- D. Hindgut
+
+<details><summary>Answer</summary>
+
+**C. Both foregut and midgut** — 1st part and upper 2nd part = foregut (celiac trunk supply); lower 2nd part to 2/3 transverse colon = midgut (SMA supply). The ampulla of Vater marks the foregut/midgut junction.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q814 — Embryology: Corneal stroma development
+
+Stroma of cornea develops from:
+
+- A. Neural ectoderm
+- B. Surface ectoderm
+- C. Mesoderm
+- D. Neural crest
+
+<details><summary>Answer</summary>
+
+**C. Mesoderm** — Corneal stroma derives from periocular mesoderm/neural crest (Note: different sources vary; most standard teaching = neural crest/mesenchyme).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q815 — Embryology: Female genital tract
+
+Female genital tract develops from:
+
+- A. Mesonephric duct
+- B. Mesonephric tubules
+- C. Mullerian duct
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Mullerian duct** — Paramesonephric (Mullerian) duct → fallopian tubes, uterus, upper vagina in females.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q816 — Embryology: Glomus cells
+
+Glomus cells are derived from:
+
+- A. Surface ectoderm
+- B. Neuroectoderm
+- C. Mesoderm
+- D. Endoderm
+
+<details><summary>Answer</summary>
+
+**B. Neuroectoderm** — Glomus (type I) cells of the carotid body are derived from neural crest (neuroectoderm).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q817 — Embryology: Vaginal epithelium
+
+Epithelium of vagina arises from:
+
+- A. Ectoderm
+- B. Wolffian duct
+- C. Mesoderm
+- D. Mesonephric duct
+
+<details><summary>Answer</summary>
+
+**C. Mesoderm** — Vaginal epithelium is derived from urogenital sinus (endoderm) per most sources, but some texts say mesoderm. The answer given here is C (mesoderm).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q818 — Embryology: First arch derivatives
+
+Which of the following is derived from 1st arch:
+
+- A. Frontonasal process
+- B. Maxillary process
+- C. Mandibular process
+- D. Both maxillary and mandibular processes
+
+<details><summary>Answer</summary>
+
+**D. Both maxillary and mandibular processes** — First branchial arch has two processes: maxillary process (superior) and mandibular process (inferior).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q819 — Embryology: First arch skeletal derivatives
+
+Skeletal derivative of 1st arch:
+
+- A. Stapes
+- B. Hyoid
+- C. Maxilla
+- D. Laryngeal cartilages
+
+<details><summary>Answer</summary>
+
+**C. Maxilla** — 1st arch: maxilla, mandible, malleus, incus, sphenomandibular ligament. Stapes = 2nd arch. Hyoid = 2nd + 3rd.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q820 — Embryology: Styloid process derivation
+
+Styloid process is derived from:
+
+- A. 1st arch
+- B. 2nd arch
+- C. 3rd arch
+- D. 4th arch
+
+<details><summary>Answer</summary>
+
+**B. 2nd arch** — 2nd arch (Reichert's cartilage): stapes, styloid process, lesser cornu of hyoid, upper body of hyoid.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q821 — Embryology: Pharyngeal muscles arch
+
+Pharyngeal muscles are derived from which pharyngeal arch:
+
+- A. 1st
+- B. 2nd
+- C. 3rd
+- D. 5th (4th)
+
+<details><summary>Answer</summary>
+
+**C. 3rd** — Stylopharyngeus = 3rd arch (CN IX). Most pharyngeal constrictors = 4th arch (vagus, CN X).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q822 — Anatomy: Sternochondral joint type
+
+Sternochondral joint is:
+
+- A. Primary cartilaginous
+- B. Secondary cartilaginous
+- C. Fibrous
+- D. Synovial
+
+<details><summary>Answer</summary>
+
+**A. Primary cartilaginous** — 1st sternochondral joint = primary cartilaginous (synchondrosis). 2nd–7th = synovial joints.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q823 — Anatomy: Innervated joint structures
+
+Innervated structures of joints are all except:
+
+- A. Synovium
+- B. Capsule
+- C. Articular cartilage
+- D. Ligaments
+
+<details><summary>Answer</summary>
+
+**C. Articular cartilage** — Articular cartilage is avascular and aneural; this is why cartilage damage is painless until other structures are involved.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q824 — Anatomy: Submucosal plexus
+
+Submucosal plexus is:
+
+- A. Myenteric plexus
+- B. Auerbach's plexus
+- C. Meissner's plexus
+- D. Tympanic plexus
+
+<details><summary>Answer</summary>
+
+**C. Meissner's plexus** — Submucosal (Meissner's) plexus controls secretion; myenteric (Auerbach's) plexus controls motility.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q825 — Histology: Hassall's corpuscles
+
+Hassall's corpuscles are found in:
+
+- A. Lymph nodes
+- B. Spleen
+- C. Liver
+- D. Thymus
+
+<details><summary>Answer</summary>
+
+**D. Thymus** — Hassall's corpuscles are whorls of epithelial cells in thymic medulla; markers of thymus on histology.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q826 — Histology: Duct of Bellini
+
+Duct of Bellini is present in:
+
+- A. Pancreas
+- B. Liver
+- C. Kidney
+- D. Salivary gland
+
+<details><summary>Answer</summary>
+
+**C. Kidney** — Duct of Bellini = papillary collecting ducts that open at renal papilla into minor calyces.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q827 — Histology: Breast gland type
+
+Breast is a:
+
+- A. Endocrine gland
+- B. Modified sweat gland
+- C. Modified sebaceous gland
+- D. Holocrine gland
+
+<details><summary>Answer</summary>
+
+**B. Modified sweat gland** — Mammary gland is a modified apocrine sweat gland.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q828 — Histology: Valve of Heister
+
+Valve of Heister is seen in:
+
+- A. Cystic duct
+- B. Common bile duct
+- C. Common hepatic duct
+- D. Pancreatic duct
+
+<details><summary>Answer</summary>
+
+**A. Cystic duct** — Heister's valves (spiral valves of cystic duct) are mucosal folds in the cystic duct that regulate bile flow.
+
+</details>
+
+---
+
+---
+

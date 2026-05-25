@@ -9,10 +9,10 @@ question-bank/
 ├── ATTRIBUTION.md          Source attribution & use notice
 ├── STUDY-PLAN.md           Suggested study schedule + how to use this repo
 ├── template.md             Schema for adding new questions
-├── subject-wise/           Multi-year pools across all 19 subjects (7,324 Qs)
+├── subject-wise/           Multi-year pools across all 19 subjects (7,455 Qs)
 │   ├── README.md                           (index + counts)
 │   ├── anaesthesia.md       (80 Qs)
-│   ├── anatomy.md           (697 Qs)
+│   ├── anatomy.md           (828 Qs)
 │   ├── biochemistry.md      (462 Qs)
 │   ├── community-medicine.md (744 Qs)
 │   ├── dermatology.md       (215 Qs)
@@ -40,18 +40,18 @@ question-bank/
 ├── 2018/questions.md       322 Qs (PrepLadder + Medicoholic PDF)
 ├── 2017/questions.md       263 Qs (Medicoholic NEET-PG 2017)
 ├── 2016/questions.md       1,871 Qs (Medicoholic PYQ compilation + firstranker.com)
-└── 2015/questions.md       1,717 Qs (Medicoholic PYQ compilation)
+└── 2015/questions.md       1,848 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
 ```
 
 **Current totals (as of 2026-05-25, post-expansion):**
-- **Year-wise:** 6,108 questions across 2015–2025 (all years covered)
-- **Subject-wise:** 7,324 questions across all 19 NBE subjects
-- **Grand total:** ~13,400+ entries (year-wise + subject-wise combined)
+- **Year-wise:** 6,239 questions across 2015–2025 (all years covered)
+- **Subject-wise:** 7,455 questions across all 19 NBE subjects
+- **Grand total:** ~13,600+ entries (year-wise + subject-wise combined)
 - **Audit results:** 0 within-file duplicates, all answer-letter conflicts resolved, sequential Q-numbering verified
 
 | Subject | Year-wise | Subject-wise |
 |---------|-----------|--------------|
-| Anatomy | ~2,100 | 697 |
+| Anatomy | ~2,300 | 828 |
 | Physiology | ~1,900 | 574 |
 | Biochemistry | ~1,500 | 462 |
 | Pathology | ~1,500 | 469 |

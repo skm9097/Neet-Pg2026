@@ -37,10 +37,10 @@ Neet-Pg2026/
     ├── STUDY-PLAN.md                ← 16-week phased study schedule
     ├── template.md                  ← schema for adding new questions
     │
-    ├── subject-wise/                ← multi-year pools, one file per subject (7,324 Qs total)
+    ├── subject-wise/                ← multi-year pools, one file per subject (7,455 Qs total)
     │   ├── README.md
     │   ├── anaesthesia.md           (80 Qs)
-    │   ├── anatomy.md               (697 Qs)
+    │   ├── anatomy.md               (828 Qs)
     │   ├── biochemistry.md          (462 Qs)
     │   ├── community-medicine.md    (744 Qs)
     │   ├── dermatology.md           (215 Qs)
@@ -69,7 +69,7 @@ Neet-Pg2026/
     ├── 2018/questions.md            ← 322 Qs (PrepLadder + Medicoholic)
     ├── 2017/questions.md            ← 263 Qs (Medicoholic NEET-PG 2017)
     ├── 2016/questions.md            ← 1,871 Qs (Medicoholic PYQ compilation + firstranker.com)
-    ├── 2015/questions.md            ← 1,717 Qs (Medicoholic PYQ compilation)
+    ├── 2015/questions.md            ← 1,848 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
     │
     ├── staging/                     ← unverified extracted questions pending review
     │   └── README.md
@@ -83,13 +83,13 @@ Neet-Pg2026/
 ```
 
 **Current totals (as of 2026-05-25, post-expansion):**
-- Year-wise: 6,108 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
-- Subject-wise: 7,324 questions across all 19 NBE subjects (full year-wise pool merged in)
-- Grand total: ~13,400+ entries across year-wise + subject-wise
+- Year-wise: 6,239 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
+- Subject-wise: 7,455 questions across all 19 NBE subjects (full year-wise pool merged in)
+- Grand total: ~13,600+ entries across year-wise + subject-wise
 - Gap: 2021 (227 Qs recall only, no official PDF source with answer key)
-- PSM/Community Medicine: 260 Qs (most complete subject)
-- OBG: 491 Qs (subject-wise, extensively expanded)
-- Anatomy/Physiology: 99/100 Qs (subject-wise)
+- OBG: 1,060 Qs (most complete subject, extensively expanded)
+- Anatomy: 828 Qs (year-wise 2015+2016 Medicoholic + firstranker.com actual papers merged in)
+- Community Medicine: 744 Qs, ENT: 715 Qs
 - Quality: subject headings standardized (Paediatrics, Community Medicine); 3 cross-file answer conflicts resolved; 2 malformed answer blocks fixed
 
 ---

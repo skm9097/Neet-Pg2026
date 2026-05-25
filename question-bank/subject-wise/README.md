@@ -9,7 +9,7 @@ Each subject file includes the complete year-wise pool merged in — use these f
 | File | Subject | Questions |
 |------|---------|-----------|
 | [anaesthesia.md](anaesthesia.md) | Anaesthesia | 80 |
-| [anatomy.md](anatomy.md) | Anatomy | 697 |
+| [anatomy.md](anatomy.md) | Anatomy | 828 |
 | [biochemistry.md](biochemistry.md) | Biochemistry | 462 |
 | [community-medicine.md](community-medicine.md) | Community Medicine / PSM | 744 |
 | [dermatology.md](dermatology.md) | Dermatology | 215 |
@@ -28,7 +28,7 @@ Each subject file includes the complete year-wise pool merged in — use these f
 | [radiology.md](radiology.md) | Radiology | 104 |
 | [surgery.md](surgery.md) | General Surgery | 244 |
 
-**Total: 7,324 subject-wise questions** across all 19 NBE NEET-PG subjects.
+**Total: 7,455 subject-wise questions** across all 19 NBE NEET-PG subjects.
 
 ## Format
 
@@ -46,12 +46,12 @@ All subject files now include:
 3. OBG staging expansions from EduRev, MCQ platforms, and DocPlexus
 4. Zero within-file duplicates (stem-key deduplicated)
 
-High-count subjects: OBG (1,060), Community Medicine (744), ENT (715), Anatomy (697), Medicine (585), Physiology (574), Pathology (469), Biochemistry (462).
+High-count subjects: OBG (1,060), Community Medicine (744), ENT (715), Anatomy (828), Medicine (585), Physiology (574), Pathology (469), Biochemistry (462).
 
 ## Year-wise sets
 
 For complete year-wise papers in exam order, see the `../20XX/questions.md` files.
-- 2015: 1,717 Qs (Medicoholic PYQ compilation)
+- 2015: 1,848 Qs (Medicoholic PYQ compilation + firstranker.com actual 2015 paper)
 - 2016: 1,871 Qs (Medicoholic compilation + firstranker.com actual 2016 paper)
 - 2017: 263 Qs (Medicoholic NEET-PG 2017)
 - 2018–2020: 322–390 Qs each (Medicoholic + PrepLadder)
