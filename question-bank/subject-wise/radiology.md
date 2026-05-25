@@ -1601,3 +1601,279 @@ CXR shows right-sided findings. Most appropriate diagnosis?
 
 ---
 
+## Year 2015
+
+### Q92 — A child presented with blunt abdominal
+
+A child presented with blunt abdominal trauma, the first investigation to be done is -
+
+- A. USG
+- B. CT Scan
+- C. Complete Hemogram
+- D. Abdominal Xray
+
+<details><summary>Answer</summary>
+
+**A. USG** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q93 — Substance used for PET scan is
+
+Substance used for PET scan is
+
+- A. 18FPCT
+- B. Gadolinium
+- C. Gastrogarfin
+- D. Iodine
+
+<details><summary>Answer</summary>
+
+**A. 18FPCT** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q94 — Following X-ray finding is associated with
+
+Following X-ray finding is associated with Chilaiditi syndrome -
+
+- A. Pseudopneumoperitoneum
+- B. Pseudopneumothorax
+- C. Pneumothorax
+- D. Hydropneumothorax
+
+<details><summary>Answer</summary>
+
+**A. Pseudopneumoperitoneum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q95 — Investigation of choice for acute subarachnoid
+
+Investigation of choice for acute subarachnoid hemorrhage is -
+
+- A. MRI
+- B. CT scan
+- C. Enhance MRI
+- D. Angiography
+
+<details><summary>Answer</summary>
+
+**B. CT scan** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q96 — Investigation of choice for soft tissue
+
+Investigation of choice for soft tissue sarcoma is -
+
+- A. CT
+- B. MRI
+- C. Ultrasound
+- D. X-ray
+
+<details><summary>Answer</summary>
+
+**B. MRI** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q97 — Regarding adenoids true isare *(2016)*
+
+Regarding adenoids true is/are:
+
+- A. There is failure to thrive
+- B. Mouth breathing is seen
+- C. CT scan should be done to assess size
+- D. a and b
+
+<details><summary>Answer</summary>
+
+**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q98 — of the following is are the *(2016)*
+
+Which of the following is/ are the imaging criteria for unresectable carcinoma of pancreas?
+
+- A. Metastatic spread to vertebrae
+- B. Invasion in duodenal wall
+- C. Irregular increase in density of omental fat
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q99 — accurate method for the diagnosis Gastroesophageal *(2016)*
+
+Most accurate method for the diagnosis Gastroesophageal Reflux Disease (GERD) is
+
+- A. Histological study
+- B. Manometry
+- C. 24-hour pH recording and electrical impedance measurement
+- D. Barium swallow studies
+
+<details><summary>Answer</summary>
+
+**C. 24-hour pH recording and electrical impedance measurement** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q100 — Staging of rectal carcinoma is best *(2016)*
+
+Staging of rectal carcinoma is best done by -
+
+- A. CT Scan
+- B. MRI
+- C. TRUS
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**B. MRI** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q101 — Neuroimaging features of neurocysticercosis are co *(2016)*
+
+Neuroimaging features of neurocysticercosis are considered as criteria for definitive diagnosis -
+
+- A. Major
+- B. Minor
+- C. Probable
+- D. Absolute
+
+<details><summary>Answer</summary>
+
+**A. Major** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q102 — Keyhole sign on ultrasound is seen *(2016)*
+
+Keyhole sign on ultrasound is seen in -
+
+- A. Polycystic kidney
+- B. Hydronephrosis
+- C. Chronic pyelonephritis
+- D. Posterior urethral valves
+
+<details><summary>Answer</summary>
+
+**D. Posterior urethral valves** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q103 — Minimum radiation dose which may lead *(2016)*
+
+Minimum radiation dose which may lead to oligospermia is -
+
+- A. <1 Gy
+- B. 2-3 Gy
+- C. 7-10 Gy
+- D. 15 Gy
+
+<details><summary>Answer</summary>
+
+**A. <1 Gy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q104 — Non - ionizing radiation among the *(2016)*
+
+Non - ionizing radiation among the following is -
+
+- A. MRI
+- B. CT Scan
+- C. X-ray
+- D. Position emission scintigraphy
+
+<details><summary>Answer</summary>
+
+**A. MRI** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+

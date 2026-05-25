@@ -1770,3 +1770,271 @@ Image shows forward slippage of a vertebra on the one below. Diagnosis?
 
 ---
 
+## Year 2015
+
+### Q102 — Which of the following prevents hyperextension
+
+Which of the following prevents hyperextension of thigh
+
+- A. Ischiofemoral ligament
+- B. Iliofemoral ligament
+- C. Patellofemoral ligament
+- D. Puboischial ligament
+
+<details><summary>Answer</summary>
+
+**B. Iliofemoral ligament** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q103 — All are components of Spermatic cord
+
+All are components of Spermatic cord except :
+
+- A. Poupart's ligament
+- B. Genito-femoral nerve
+- C. Vas deferens
+- D. Pampiniform plexus
+
+<details><summary>Answer</summary>
+
+**A. Poupart's ligament** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q104 — Which of the following is a
+
+Which of the following is a derivative of ventral mesogastrium ?
+
+- A. Greater omentum
+- B. Gastrosplenic ligament
+- C. Linorenal ligament
+- D. Lesser omentum
+
+<details><summary>Answer</summary>
+
+**D. Lesser omentum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q105 — All of the following are extrinsic
+
+All of the following are extrinsic laryngeal membranes except?
+
+- A. Quadrangular membrane
+- B. Hyoepiglottic ligament
+- C. Cricotracheal membrane
+- D. Thyrohyoid membrane
+
+<details><summary>Answer</summary>
+
+**A. Quadrangular membrane** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q106 — Vacuum assisted closure is contraindicated in
+
+Vacuum assisted closure is contraindicated in which of the following conditions -
+
+- A. Chronic osteomyelitis
+- B. Large amount of necrotic tissue with eschar
+- C. Abdominal wound
+- D. Surgical wound dehiscence
+
+<details><summary>Answer</summary>
+
+**B. Large amount of necrotic tissue with eschar** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q107 — Snapping knee syndrome is due to
+
+Snapping knee syndrome is due to involvement of -
+
+- A. Pes Anserinus
+- B. Quadrieps Tendon
+- C. Gastrocnemius origin
+- D. lateral collateral ligament
+
+<details><summary>Answer</summary>
+
+**A. Pes Anserinus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q108 — Sudden dorsiflexion of foot may lead
+
+Sudden dorsiflexion of foot may lead to which of the following injuries -
+
+- A. Anterior talofibular ligament injury
+- B. Tendo Achilles avulsion injury
+- C. Rupture of deltoid ligament
+- D. Tarsal tunnel syndrome
+
+<details><summary>Answer</summary>
+
+**B. Tendo Achilles avulsion injury** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q109 — Not seen in anorexia nervosa
+
+Not seen in anorexia nervosa:
+
+- A. Osteoporosis
+- B. Refusal to feeds
+- C. Weight loss
+- D. Menorrhagia
+
+<details><summary>Answer</summary>
+
+**D. Menorrhagia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q110 — Oblique popliteal ligament is derived from *(2016)*
+
+Oblique popliteal ligament is derived from ?
+
+- A. Semitendinosus
+- B. Biceps femoris
+- C. Adductor magnus
+- D. Semimembranosus
+
+<details><summary>Answer</summary>
+
+**D. Semimembranosus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q111 — of the following are causes of *(2016)*
+
+All of the following are causes of pseudoparalysis except
+
+- A. Osteomyelitis
+- B. Scurvy
+- C. Septic arthritis
+- D. Polio
+
+<details><summary>Answer</summary>
+
+**D. Polio** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q112 — Age group affected by osteosarcoma - *(2016)*
+
+Age group affected by osteosarcoma -
+
+- A. Upto 10 years
+- B. 10 - 20 years
+- C. 30 - 40 years
+- D. Older than 45 years
+
+<details><summary>Answer</summary>
+
+**B. 10 - 20 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q113 — patient presents with wrist trauma On *(2016)*
+
+A patient presents with wrist trauma. On investigations patient is diagnosed to have a sprained wrist, without any evidence of fracture. There is tenderness in anatomical snuffbox.
+
+- A. Scapholunate ligament
+- B. Radial collateral ligament
+- C. Lunotriquetral ligament
+- D. Ulnar collateral ligament
+
+<details><summary>Answer</summary>
+
+**A. Scapholunate ligament** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+
+
+## Year 2017
+
+### Q114 — Tom smith septic arthritis is
+
+Tom smith septic arthritis is-
+
+- A. Acute Gonococcal arthritis
+- B. Smallpox arthritis
+- C. Septic arthritis of infancy
+- D. Chronic pyogenic arthritis
+
+<details><summary>Answer</summary>
+
+**C. Septic arthritis of infancy** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#181 | OPTIONS_GENERATED: false -->
+
+---
+

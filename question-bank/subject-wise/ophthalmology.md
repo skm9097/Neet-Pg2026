@@ -1653,3 +1653,3630 @@ Identify components A and B from the binocular vision diagram:
 
 ---
 
+## Year 2015
+
+### Q95 — Contraindication of antimuscarinic drug
+
+Contraindication of antimuscarinic drug ?
+
+- A. Glaucoma
+- B. Asthma
+- C. Peptic ulcer
+- D. Urinary incontinence
+
+<details><summary>Answer</summary>
+
+**A. Glaucoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q96 — Atropine plus diphenoxylate combination is used
+
+Atropine plus diphenoxylate combination is used for?
+
+- A. Glaucoma
+- B. Iridocyclitis
+- C. Diarrhea
+- D. Motion sickness
+
+<details><summary>Answer</summary>
+
+**C. Diarrhea** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q97 — Methanol attacks
+
+Methanol attacks ?
+
+- A. Cones
+- B. Rods
+- C. Ganglion cells of retina
+- D. Germinal cell layer
+
+<details><summary>Answer</summary>
+
+**C. Ganglion cells of retina** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q98 — In primary open-angle glaucoma pilocarpine eye
+
+In primary open-angle glaucoma pilocarpine eye drops lowers the intraocular pressure by its direct action on the:
+
+- A. Trabecular meshwork
+- B. Ciliary epithelium
+- C. Longitudinal fibres of the ciliary muscle
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q99 — Required for IOL power calculation
+
+Required for IOL power calculation ?
+
+- A. Corneal topography
+- B. Gonioscopy
+- C. Indirect Ophthalmoscopy
+- D. Keratometry
+
+<details><summary>Answer</summary>
+
+**D. Keratometry** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q100 — Most powerful refractory surface of eye
+
+Most powerful refractory surface of eye is -
+
+- A. Conjunctiva
+- B. Cornea
+- C. Vitreous
+- D. Lens
+
+<details><summary>Answer</summary>
+
+**B. Cornea** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q101 — What is regular astigmatism
+
+What is regular astigmatism?
+
+- A. Astigmatism in which the principal meridians are parallel
+- B. Astigmatism in which the principal meridians are perpendicular
+- C. Asymptomatic astigmatism
+- D. Astigmatism as a result of cataract surgery
+
+<details><summary>Answer</summary>
+
+**B. Astigmatism in which the principal meridians are perpendicular** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q102 — In a case of myopia, LASIK
+
+In a case of myopia, LASIK will provide correction upto ?
+
+- A. 20D
+- B. 12D
+- C. 6D
+- D. 4D
+
+<details><summary>Answer</summary>
+
+**B. 12D** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q103 — What is reverse hypopyon
+
+What is reverse hypopyon?
+
+- A. Collection of pus in the vireous
+- B. Collection of emulsified silicon oil in anterior chamber
+- C. Abscess in the orbit
+- D. Seen in corneal ulcer close to being ruptured
+
+<details><summary>Answer</summary>
+
+**B. Collection of emulsified silicon oil in anterior chamber** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q104 — Silk retina is seen in
+
+Silk retina is seen in ?
+
+- A. Hypermetropia
+- B. Myopia
+- C. Astigmatism
+- D. Presbyopia
+
+<details><summary>Answer</summary>
+
+**A. Hypermetropia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q105 — Pseudopapilitis with silk shot appearance is
+
+Pseudopapilitis with silk shot appearance is seen in?
+
+- A. Hypermetropia
+- B. Myopia
+- C. Astigmatism
+- D. Presbyopia
+
+<details><summary>Answer</summary>
+
+**A. Hypermetropia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q106 — Lensometer detects
+
+Lensometer detects ?
+
+- A. Correct power of a pair of glasses
+- B. Corneal topography
+- C. Biochemical constitution of lens
+- D. Power of IOL
+
+<details><summary>Answer</summary>
+
+**A. Correct power of a pair of glasses** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q107 — All of the following are treatments
+
+All of the following are treatments of myopia except?
+
+- A. LASIK
+- B. Phakic intraocular lens
+- C. Radial Keratotomy
+- D. Holmium laser thermoplasty
+
+<details><summary>Answer</summary>
+
+**D. Holmium laser thermoplasty** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q108 — Sudden painless loss of vision- All
+
+Sudden painless loss of vision- All are causes except?
+
+- A. CRAO
+- B. CSR
+- C. Acute congestive glaucoma
+- D. Vitereous Hemorrhage
+
+<details><summary>Answer</summary>
+
+**C. Acute congestive glaucoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q109 — All are true regarding cornea except
+
+All are true regarding cornea except:
+
+- A. Endothelium help in maintaining dehydrated state
+- B. Oxygen is mostly derived by epithelium directly from the air
+- C. Glucose supply for corneal metabolism is mainly derived from
+- D. Corneal thickness is more at center than periphery
+
+<details><summary>Answer</summary>
+
+**D. Corneal thickness is more at center than periphery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q110 — Corneal tattooing may be done with
+
+Corneal tattooing may be done with:
+
+- A. Gold chloride
+- B. Calcium chloride
+- C. Copper sulfate
+- D. Potassium permanganate
+
+<details><summary>Answer</summary>
+
+**A. Gold chloride** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q111 — Kayser Fleischer ring is found in
+
+Kayser Fleischer ring is found in which layer of cornea?
+
+- A. Bowman's Capsule
+- B. Substantia propria
+- C. Descemet’s membrane
+- D. Endothelium
+
+<details><summary>Answer</summary>
+
+**C. Descemet’s membrane** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q112 — Posterior staphyloma is seen in
+
+Posterior staphyloma is seen in:
+
+- A. Myopia
+- B. Hypermetropia
+- C. Astigmatism
+- D. Presbyopia
+
+<details><summary>Answer</summary>
+
+**A. Myopia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q113 — year old man presents to the
+
+year old man presents to the clinic with pain in the eye, watering, redness and photophobia. Examination of his eyes shows circumcorneal congestion and keratic precipitates. Assertion: KPs are proteinaceous deposits occurring in a triangular fashion in the
+
+- A. Both Assertion and Reason are true, and Reason is the correct
+- B. Both Assertion and Reason are true, and Reason is not the
+- C. Assertion is true, but Reason is false
+- D. Assertion is false but reason is true
+
+<details><summary>Answer</summary>
+
+**B. Both Assertion and Reason are true, and Reason is not the** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q114 — All of the following are true
+
+All of the following are true about Keratoconus, except:
+
+- A. Increased curvature of corneaAstigmatism
+- B. Astigmatism
+- C. K.F ring cornea
+- D. Thick cornea
+
+<details><summary>Answer</summary>
+
+**D. Thick cornea** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q115 — Cataract is caused by
+
+Cataract is caused by ?
+
+- A. Hypoparathyroidism
+- B. Cigrate smoking
+- C. Non-ionizing radiation
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q116 — All of the following are causes
+
+All of the following are causes of posterior subcapsular cataract except -
+
+- A. Myotonic dystrophy
+- B. Wilson's Disease
+- C. Ionizing radiation
+- D. Congenital cataract
+
+<details><summary>Answer</summary>
+
+**D. Congenital cataract** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q117 — The intraocular lens in cataract surgery
+
+The intraocular lens in cataract surgery is placed in ?
+
+- A. Surface of iris
+- B. Capsular bag
+- C. Over the face of viterous
+- D. Around the limbus
+
+<details><summary>Answer</summary>
+
+**B. Capsular bag** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q118 — Snowflake cataract is associated with
+
+Snowflake cataract is associated with:
+
+- A. Hypertension
+- B. Adult diabetes
+- C. Trauma
+- D. Juvenile diabetes
+
+<details><summary>Answer</summary>
+
+**D. Juvenile diabetes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q119 — What is the type of Galactosemia
+
+What is the type of Galactosemia cataract?
+
+- A. Snowflake
+- B. Oil drop
+- C. Blue dot
+- D. Polychromatic lustre
+
+<details><summary>Answer</summary>
+
+**B. Oil drop** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q120 — Rosette cataract is seen due to
+
+Rosette cataract is seen due to:
+
+- A. Trauma
+- B. Copper foreign body
+- C. Diabetes
+- D. Hyperparathyroidism
+
+<details><summary>Answer</summary>
+
+**A. Trauma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q121 — What is not true about congenital
+
+What is not true about congenital glaucoma of eye?
+
+- A. Photophobia is most common symptom
+- B. Haab's Striae maybe seen
+- C. Thin and blue sclera seen
+- D. Anterior chamber is shallow
+
+<details><summary>Answer</summary>
+
+**A. Photophobia is most common symptom** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q122 — Descemet membrane breach is seen in
+
+Descemet membrane breach is seen in ?
+
+- A. Angle closure glaucoma
+- B. Buphthalmos
+- C. Acute Iridocyclitis
+- D. Subconjunctival hemorrhage
+
+<details><summary>Answer</summary>
+
+**B. Buphthalmos** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q123 — Earliest sign of primary congenital glaucoma
+
+Earliest sign of primary congenital glaucoma ?
+
+- A. Corneal edema with watering
+- B. Haab's Striae
+- C. Blue sclera
+- D. Myopia
+
+<details><summary>Answer</summary>
+
+**A. Corneal edema with watering** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q124 — Selective alpha 2 agoinst used in
+
+Selective alpha 2 agoinst used in glaucoma ?
+
+- A. Tirriolol
+- B. Epinephrine
+- C. Dipivefrine
+- D. Brimonidine
+
+<details><summary>Answer</summary>
+
+**D. Brimonidine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q125 — Latanoprost used topically in glaucoma primarily
+
+Latanoprost used topically in glaucoma primarily acts by?
+
+- A. Decreasing aqueous humor formation
+- B. Increasing uveoscleral outflow
+- C. Releasing pupillary block
+- D. Increasing trabecular outflow
+
+<details><summary>Answer</summary>
+
+**B. Increasing uveoscleral outflow** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q126 — What is the cause of glaucoma
+
+What is the cause of glaucoma in retinoblastoma?
+
+- A. Blockge of trabecular network
+- B. Neovascularisation
+- C. Mass effect of the tumour
+- D. Lysis of the lens
+
+<details><summary>Answer</summary>
+
+**B. Neovascularisation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q127 — What is true about retinal hemorrhage
+
+What is true about retinal hemorrhage in new born?
+
+- A. More common in instrumented deliveries
+- B. Resolve in 6 - 8 months
+- C. Commonly unilateral
+- D. Associated with intrauterine infection
+
+<details><summary>Answer</summary>
+
+**A. More common in instrumented deliveries** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q128 — All are true regarding optic neuritis
+
+All are true regarding optic neuritis except:
+
+- A. Decreased visual acuity
+- B. Decreased pupillary reflex
+- C. Abnormal electroretinogram
+- D. Abnormal visual evoked response retinogram
+
+<details><summary>Answer</summary>
+
+**C. Abnormal electroretinogram** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q129 — Macular sparing is associated with lesions
+
+Macular sparing is associated with lesions in:
+
+- A. Optic nerve
+- B. Lateral geniculate body
+- C. Occipital cortex
+- D. Optic chiasma
+
+<details><summary>Answer</summary>
+
+**C. Occipital cortex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q130 — Pupillary reflex pathway- All of the
+
+Pupillary reflex pathway- All of the following are a part except ?
+
+- A. Edinger Westphal nucleus
+- B. Pretectal nudes
+- C. Medial geniculate body
+- D. Retinal ganglion cell
+
+<details><summary>Answer</summary>
+
+**C. Medial geniculate body** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q131 — Best method of detection of retained
+
+Best method of detection of retained glass intraocular foreign body is:
+
+- A. CT scan
+- B. Radiography
+- C. Ultrasonography
+- D. Tonography
+
+<details><summary>Answer</summary>
+
+**A. CT scan** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q132 — All of the following are complications
+
+All of the following are complications of traumatic hyphema except?
+
+- A. Rebleeding
+- B. Pupillary Block
+- C. Corneal Ulcer
+- D. Posterior synechiae
+
+<details><summary>Answer</summary>
+
+**C. Corneal Ulcer** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q133 — Pilocarpine is used in all of
+
+Pilocarpine is used in all of the following except:
+
+- A. Primary, Open Angle Glaucoma
+- B. Malignant Glaucoma
+- C. Acute Angle Closure Glaucoma
+- D. Chronic Synechial Angle Closure Glaucoma
+
+<details><summary>Answer</summary>
+
+**B. Malignant Glaucoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q134 — Which of the following statements about
+
+Which of the following statements about atrial myxomas is true
+
+- A. Most common in Left Atrium
+- B. More common in Males
+- C. Distant metastasis are seen
+- D. Most myxomas are familial
+
+<details><summary>Answer</summary>
+
+**A. Most common in Left Atrium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q135 — Duroziezs sign is seen in
+
+Duroziez's sign is seen in
+
+- A. Aortic Regurgitation
+- B. Tricuspid RegurgitationMitral stenosis
+- C. Pericardial effusion
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Aortic Regurgitation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q136 — Becks triad is seen in
+
+Becks triad is seen in
+
+- A. Constrictive pericarditis
+- B. Restrictive cardiomyopathy
+- C. Cardiac tamponade
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Cardiac tamponade** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q137 — The severity of mitral stenosis can
+
+The severity of mitral stenosis can be judged by-
+
+- A. Intensity of murmur
+- B. Duration of murmur
+- C. Left ventricular S3
+- D. Loud S1
+
+<details><summary>Answer</summary>
+
+**B. Duration of murmur** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q138 — Wide pulse pressure is seen in
+
+Wide pulse pressure is seen in all except:
+
+- A. PDA
+- B. Aortic stenosis
+- C. Aortic Regurgitation
+- D. A.V. malformation
+
+<details><summary>Answer</summary>
+
+**B. Aortic stenosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q139 — All are true for transplanted kidney
+
+All are true for transplanted kidney except
+
+- A. Humoral antibody responsible for rejection
+- B. CMI is responsible for rejection
+- C. Previous blood transfusion
+- D. HLA identity similarity seen in 1:100 people
+
+<details><summary>Answer</summary>
+
+**D. HLA identity similarity seen in 1:100 people** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q140 — All are seen in Nephrotic syndrome
+
+All are seen in Nephrotic syndrome except
+
+- A. Atherosclerosis
+- B. Thrombo-embolism
+- C. Increased protein C levels
+- D. Lipiduria
+
+<details><summary>Answer</summary>
+
+**C. Increased protein C levels** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q141 — All of the following causes acute
+
+All of the following causes acute renal failure except
+
+- A. Pyelonephritis
+- B. Snakebite
+- C. Rhabdomyolysis
+- D. Analgesic nephropathy
+
+<details><summary>Answer</summary>
+
+**D. Analgesic nephropathy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q142 — Features of Hepatorenal syndrome are
+
+Features of Hepatorenal syndrome are
+
+- A. Urine sodium < 10 meq/1
+- B. Normal renal histology
+- C. Renal function abnormal even after liver become normal
+- D. a and b
+
+<details><summary>Answer</summary>
+
+**D. a and b** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q143 — Dialysis indications
+
+Dialysis indications
+
+- A. Hypertension
+- B. Hypokalemia
+- C. Pericarditis
+- D. Metabolic alkalosis
+
+<details><summary>Answer</summary>
+
+**C. Pericarditis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q144 — Which of the following microorganism is
+
+Which of the following microorganism is incriminated in infection after hemodialysis
+
+- A. Chlamydia
+- B. Gram positive organisms
+- C. Gram negative
+- D. Anaerobes
+
+<details><summary>Answer</summary>
+
+**B. Gram positive organisms** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q145 — Significant weight loss is defined as
+
+Significant weight loss is defined as:
+
+- A. 5% weight loss in 1-2 months
+- B. 5% weight loss in 2-3 months
+- C. 10% weight loss in 1-2 months
+- D. 10% weight loss in 2-3 months
+
+<details><summary>Answer</summary>
+
+**A. 5% weight loss in 1-2 months** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q146 — Which is not true about alcoholic
+
+Which is not true about alcoholic hepatitis :
+
+- A. Gamma glutamyl transferase is raised
+- B. SGPT is raised > SGOT
+- C. SGOT is raised > SGPT
+- D. Alkaline phosphatase is raised
+
+<details><summary>Answer</summary>
+
+**B. SGPT is raised > SGOT** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q147 — Which of the following is not
+
+Which of the following is not true regarding amoebic liver abscess
+
+- A. Multiple abscesses is more common
+- B. May rupture into the pleural cavity
+- C. For asymptomatic luminal carriers diloxanide furoate is the drug
+- D. Mostly involving the right lobe of liver
+
+<details><summary>Answer</summary>
+
+**A. Multiple abscesses is more common** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q148 — Which of the following is not
+
+Which of the following is not expected in a case of Microcytic Hypochromic anemia
+
+- A. Reduced serum Iron
+- B. Reduced total RBC distribution width
+- C. Normal Ferritin levels
+- D. Increased TIBC
+
+<details><summary>Answer</summary>
+
+**B. Reduced total RBC distribution width** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q149 — Zieve syndrome is characterized by all
+
+Zieve syndrome is characterized by all except
+
+- A. Alcohol abuse
+- B. Hemolysis
+- C. Hypertriglyceridemia
+- D. Pancreatic lipase deficiency
+
+<details><summary>Answer</summary>
+
+**D. Pancreatic lipase deficiency** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q150 — All of the following are major
+
+All of the following are major complications of massive transfusion, except:
+
+- A. Hypokalemia
+- B. Hypothermia
+- C. Hypomagnesemia
+- D. Hypocalcemia
+
+<details><summary>Answer</summary>
+
+**A. Hypokalemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q151 — The tissue of origin of the
+
+The tissue of origin of the Kaposi's sarcoma is ?
+
+- A. Lymphoid
+- B. Vascular
+- C. Neural
+- D. Muscular
+
+<details><summary>Answer</summary>
+
+**B. Vascular** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q152 — Thrombocythemia is characterized by
+
+Thrombocythemia is characterized by
+
+- A. Platelets elevation
+- B. Low platelets
+- C. Neutrophilia
+- D. Monocytosis
+
+<details><summary>Answer</summary>
+
+**A. Platelets elevation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q153 — Which of the following is required
+
+Which of the following is required for proper effects of Insulin?
+
+- A. Selenium
+- B. Iron
+- C. Copper
+- D. Chromium
+
+<details><summary>Answer</summary>
+
+**D. Chromium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q154 — Glucose fever is related with -
+
+Glucose fever is related with -
+
+- A. Glucagon
+- B. Parathyroid
+- C. GH
+- D. Aldosterone
+
+<details><summary>Answer</summary>
+
+**D. Aldosterone** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q155 — Which is the best indicator for
+
+Which is the best indicator for short term control (2-3 weeks] of blood glucose ?
+
+- A. Serum fructosamine
+- B. HbA lc
+- C. Blood sugar
+- D. Urine sugar
+
+<details><summary>Answer</summary>
+
+**A. Serum fructosamine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q156 — Post Prandial capillary glucose should be
+
+Post Prandial capillary glucose should be mg/dl for adequate diabetes control
+
+- A. < 100mg / dl
+- B. < 140 mg / dl
+- C. < 180 mg/dl
+- D. < 200 mg/dl
+
+<details><summary>Answer</summary>
+
+**C. < 180 mg/dl** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q157 — The most common cause of Cushings
+
+The most common cause of Cushing's syndrome is:
+
+- A. Pituitary adenoma
+- B. Adrenal adenoma
+- C. Ectopic ACTH
+- D. Iatrogenic steroids
+
+<details><summary>Answer</summary>
+
+**D. Iatrogenic steroids** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q158 — Primary Hyperaldosteronism can be diagnosed by
+
+Primary Hyperaldosteronism can be diagnosed by all of the following criteria, except:
+
+- A. Diastolic Hypertension without edema
+- B. Hyperaldosteronism which is not supressed by volume
+- C. Low Plasma Renin Activity
+- D. Metabolic Acidosis
+
+<details><summary>Answer</summary>
+
+**D. Metabolic Acidosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q159 — Female with blood sugar of 600
+
+Female with blood sugar of 600 mg% and sodium of 110 mEq. Insulin was given, what will happen to serum sodium levels ?
+
+- A. Sodium increase
+- B. Sodium decrease
+- C. Sodium unaffected
+- D. Relative sodium deficiency
+
+<details><summary>Answer</summary>
+
+**A. Sodium increase** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q160 — Which of the following presents with
+
+Which of the following presents with hypokalemia and metabolic acidosis ?
+
+- A. Diarrhea
+- B. Vomiting
+- C. Nasogastic suction
+- D. Nasogastic suction
+
+<details><summary>Answer</summary>
+
+**A. Diarrhea** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q161 — Hypertension with Hypokalemia is seen in
+
+Hypertension with Hypokalemia is seen in:
+
+- A. Bartter Syndrome
+- B. Liddle's Syndrome
+- C. Gitelman's Syndrome
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Liddle's Syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q162 — In cobalamin deficiency which is not
+
+In cobalamin deficiency which is not seen
+
+- A. Microcytic anemia
+- B. Long tract signs
+- C. Loss of proprioception
+- D. Rhomberg sign
+
+<details><summary>Answer</summary>
+
+**A. Microcytic anemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q163 — Hypernatremia causes all EXCEPT
+
+Hypernatremia causes all EXCEPT
+
+- A. Seizure
+- B. Thrombus
+- C. Brain hemorrhage
+- D. Central pontine myelinosis
+
+<details><summary>Answer</summary>
+
+**D. Central pontine myelinosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q164 — All of the following are associated
+
+All of the following are associated with hyponatremia except
+
+- A. anorexia
+- B. Convulsions
+- C. Drowsiness
+- D. Myalgia
+
+<details><summary>Answer</summary>
+
+**D. Myalgia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q165 — Most common type of multiple sclerosis
+
+Most common type of multiple sclerosis?
+
+- A. Relapsing remitting type
+- B. Secondry progressive multiple sclerosis
+- C. Progresive relapsing multiple scelrosis
+- D. Primary progresive multiple sclerosis
+
+<details><summary>Answer</summary>
+
+**A. Relapsing remitting type** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q166 — In EEG which type of waves
+
+In EEG which type of waves are seen in metabolic encephalopathy
+
+- A. Alpha
+- B. Beta
+- C. Gamma
+- D. Delta
+
+<details><summary>Answer</summary>
+
+**D. Delta** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q167 — Glasgow coma scale motor 4 represents
+
+Glasgow coma scale motor 4 represents?
+
+- A. Withdrawal or flexion
+- B. Decorticate posturing
+- C. Decorticate posturing
+- D. Localise pain
+
+<details><summary>Answer</summary>
+
+**A. Withdrawal or flexion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q168 — Increased ICT is shown by
+
+Increased ICT is shown by
+
+- A. Miosis
+- B. Systemic hypotension
+- C. Tachycardia
+- D. Reduction in GCS
+
+<details><summary>Answer</summary>
+
+**D. Reduction in GCS** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q169 — Lateral vessels medullary syndrome is due
+
+Lateral vessels? medullary syndrome is due to the occlusion of which of the following
+
+- A. Posterior superior cerebellar artery
+- B. Anterior inferior cerebellar artery
+- C. Basilar artery
+- D. Vertebral artery
+
+<details><summary>Answer</summary>
+
+**D. Vertebral artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q170 — Plaques jaunes are seen in
+
+Plaques jaunes are seen in
+
+- A. Syphilis
+- B. Head injury
+- C. Endocarditis
+- D. Atherosclerosis
+
+<details><summary>Answer</summary>
+
+**B. Head injury** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q171 — Rademecker complex in EEG is seen
+
+Rademecker complex in EEG is seen in -
+
+- A. SSPE
+- B. vCJD
+- C. cCJD
+- D. Kuru
+
+<details><summary>Answer</summary>
+
+**A. SSPE** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q172 — Which of the following sites is
+
+Which of the following sites is responsible for the amnestic defect in Wernicke's Korsakoff syndrome:
+
+- A. Mamillary body
+- B. Thalamus
+- C. Periventricular Grey matter
+- D. Hippocampus
+
+<details><summary>Answer</summary>
+
+**B. Thalamus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q173 — Which of the following is the
+
+Which of the following is the most common initial presenting feature of multiple sclerosis:
+
+- A. Optic Neuritis
+- B. Cerebellar Ataxia
+- C. Internuclear ophthalmoplegia
+- D. Diplopia
+
+<details><summary>Answer</summary>
+
+**A. Optic Neuritis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q174 — Absence of Corpus callosum leads to
+
+Absence of Corpus callosum leads to
+
+- A. Hemiparesis
+- B. Hemisensory loss
+- C. Astereognosis
+- D. No neurological manifestations
+
+<details><summary>Answer</summary>
+
+**D. No neurological manifestations** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q175 — First Symptoms of parkinsons disease is
+
+First Symptoms of parkinsons disease is -
+
+- A. Postural instability
+- B. Rigidity
+- C. Tremors
+- D. Bradykinesia
+
+<details><summary>Answer</summary>
+
+**C. Tremors** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q176 — Which of the following metal ions
+
+Which of the following metal ions is associated with secondary Parkinsonisms:
+
+- A. Mangnese (Mn)
+- B. Magnesium (Mg)
+- C. Selenium (Se)
+- D. Molybednum (Me)
+
+<details><summary>Answer</summary>
+
+**A. Mangnese (Mn)** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q177 — Isaac syndroma is characterised by -
+
+Isaac syndroma is characterised by -
+
+- A. Peripheral nerve excitability
+- B. Opsoclonus
+- C. Encephalomyelitis
+- D. Limbic encephalitis
+
+<details><summary>Answer</summary>
+
+**A. Peripheral nerve excitability** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q178 — In Alzheimers disease (AD) which of
+
+In Alzheimer's disease (AD) which of the following is not seen:
+
+- A. Aphasia
+- B. Acalculia
+- C. Agnosia
+- D. Apraxia
+
+<details><summary>Answer</summary>
+
+**C. Agnosia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q179 — Which vitamin toxicity is associated with
+
+Which vitamin toxicity is associated with excessive sweating -
+
+- A. Choline
+- B. Biotin
+- C. Folic cid
+- D. Vitamin B
+
+<details><summary>Answer</summary>
+
+**A. Choline** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q180 — Laforas disease presents with -
+
+Lafora's disease presents with -
+
+- A. G.T.C.S
+- B. Myoclonic epilepsy
+- C. Petit mal epilepsy
+- D. Partial seizures
+
+<details><summary>Answer</summary>
+
+**B. Myoclonic epilepsy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q181 — Kaposi sarcoma is commonly seen in
+
+Kaposi sarcoma is commonly seen in ?
+
+- A. Upper limbs
+- B. Lower limbs
+- C. Head and Neck
+- D. Trunk
+
+<details><summary>Answer</summary>
+
+**B. Lower limbs** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q182 — Hyperuricemia can be caused by all
+
+Hyperuricemia can be caused by all except -
+
+- A. Ethanol
+- B. Thiazide
+- C. Furosemide
+- D. None
+
+<details><summary>Answer</summary>
+
+**D. None** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q183 — Which is the most common tumor
+
+Which is the most common tumor leading to death in adults?
+
+- A. Lung cancer
+- B. Prostate cancer
+- C. Colorectal cancer
+- D. Leukemia
+
+<details><summary>Answer</summary>
+
+**A. Lung cancer** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q184 — Which of the following antibodies is
+
+Which of the following antibodies is highly specific for systemic lupus erythematosus -
+
+- A. Anti-Sm
+- B. Anti-RO-1
+- C. Anti-UIRNP
+- D. Anti-Centromere
+
+<details><summary>Answer</summary>
+
+**A. Anti-Sm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q185 — Gaisbock syndrome is known as
+
+Gaisbock syndrome is known as
+
+- A. Primary Familial Polycythemia
+- B. High Altitude Erythrocytosis
+- C. Spurious Polycythemia
+- D. Polycythemia Vera
+
+<details><summary>Answer</summary>
+
+**C. Spurious Polycythemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q186 — Polyarticular onset JRA involves more than
+
+Polyarticular onset JRA involves more than how many joints -
+
+- A. 3
+- B. 4
+- C. 5
+- D. 6
+
+<details><summary>Answer</summary>
+
+**C. 5** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q187 — Which of the following is given
+
+Which of the following is given to decrease Serum Triglycerides?
+
+- A. Fibrates
+- B. Statine
+- C. Ezetimibe
+- D. Niacin
+
+<details><summary>Answer</summary>
+
+**A. Fibrates** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q188 — Blood transfusion associated acute lung injury
+
+Blood transfusion associated acute lung injury occurs due to -
+
+- A. Nosocomial infections
+- B. HLA mediated
+- C. Auto-immune disorder
+- D. Genetic susceptibility
+
+<details><summary>Answer</summary>
+
+**B. HLA mediated** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q189 — Dietary deficiency of which vitamin usually
+
+Dietary deficiency of which vitamin usually does not exist -
+
+- A. Vitamin-B6
+- B. Thiamine
+- C. Vitamin-E
+- D. Vitamin-D
+
+<details><summary>Answer</summary>
+
+**C. Vitamin-E** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q190 — Manifestations of vitamin Edeficiency are all
+
+Manifestations of vitamin E.deficiency are all except -
+
+- A. Hemolytic anemia
+- B. Posterior column abnormalities
+- C. Cerebellar ataxia
+- D. Autonomic dysfunction
+
+<details><summary>Answer</summary>
+
+**D. Autonomic dysfunction** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q191 — HIV RNA by PCR can detect
+
+HIV RNA by PCR can detect as low as
+
+- A. 30 copies viral RNA/ml of blood
+- B. 40 copies viral RNA/ml of blood
+- C. 50 copies of viral RNA/ml of blood
+- D. 60 copies of viral RNA/ml of blood
+
+<details><summary>Answer</summary>
+
+**B. 40 copies viral RNA/ml of blood** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q192 — Smoking may be associated with all
+
+Smoking may be associated with all of the following cancers, except:
+
+- A. Ca Larynx
+- B. Ca Nasopharynx
+- C. Ca Bladder
+- D. None
+
+<details><summary>Answer</summary>
+
+**D. None** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q193 — Traumatic optic neuropathy due to closed
+
+Traumatic optic neuropathy due to closed head trauma commonly affects which part of optic nerve -
+
+- A. Optic canal
+- B. Intra ocular part
+- C. Intracranial part
+- D. Optic tract
+
+<details><summary>Answer</summary>
+
+**A. Optic canal** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q194 — Use of PGF 2 a analogues *(2016)*
+
+Use of PGF 2 a analogues is contraindicated in ?
+
+- A. Post partum harmorrhage
+- B. Glaucoma
+- C. Bronchial asthma
+- D. Priapism
+
+<details><summary>Answer</summary>
+
+**C. Bronchial asthma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q195 — WHO VISION 2020 initiative includes *(2016)*
+
+WHO VISION 2020 initiative includes ?
+
+- A. Corneal ulcer
+- B. Trachoma blindness
+- C. Diabetic retinopathy
+- D. Vernal kerato Conjunctivitis
+
+<details><summary>Answer</summary>
+
+**B. Trachoma blindness** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q196 — Placido disc is used for diagnosing *(2016)*
+
+Placido disc is used for diagnosing which of the following condition?
+
+- A. Uveitis
+- B. Keratoconus
+- C. Retinoblastoma
+- D. Retinal detachment
+
+<details><summary>Answer</summary>
+
+**B. Keratoconus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q197 — Spasm of accommodation mimics *(2016)*
+
+Spasm of accommodation mimics
+
+- A. Myopia
+- B. Hypermetropia
+- C. Amblyopia
+- D. Presbiopia
+
+<details><summary>Answer</summary>
+
+**A. Myopia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q198 — Subretinal haemorrhage at the macula in *(2016)*
+
+Subretinal haemorrhage at the macula in myopia is known as?
+
+- A. Lacquer cracks
+- B. Foster Fuchs spot
+- C. Staphyloma
+- D. Macular retinoschisis
+
+<details><summary>Answer</summary>
+
+**B. Foster Fuchs spot** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q199 — Goblet cells are seen in - *(2016)*
+
+Goblet cells are seen in -
+
+- A. Cornea
+- B. Conjunctiva
+- C. Retina
+- D. Vitreous
+
+<details><summary>Answer</summary>
+
+**B. Conjunctiva** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q200 — Schwalbes ring corresponds to *(2016)*
+
+Schwalbe's ring corresponds to:
+
+- A. Corneal endothelium
+- B. Descemet's membrane
+- C. Schlemm's canal
+- D. Ciliary body
+
+<details><summary>Answer</summary>
+
+**B. Descemet's membrane** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q201 — Corneal epithelial repair includes all of *(2016)*
+
+Corneal epithelial repair includes all of the following phases except
+
+- A. Cell proliferation
+- B. Cell migration
+- C. Cell adhesion
+- D. Cell fusion
+
+<details><summary>Answer</summary>
+
+**D. Cell fusion** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q202 — 50 year old male presents with *(2016)*
+
+A 50 year old male presents with cicatricial entopion of upper and lower eyelid. On eversion of upper eyelid, linear conjunctival scars - Arlt line are seen. What is the diagnosis?
+
+- A. Trachoma
+- B. Spring catarrah
+- C. Ligneous conjunctivitis
+- D. Parinaud oculoglandular syndrome
+
+<details><summary>Answer</summary>
+
+**A. Trachoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q203 — of the following is not a *(2016)*
+
+Which of the following is not a feature of fungal corneal ulcer?
+
+- A. Fixed hypopyon
+- B. Ulcer with sloughing margins
+- C. Symptoms are more pronounced than signs
+- D. Fungal hyphae are seen on KOH mount
+
+<details><summary>Answer</summary>
+
+**C. Symptoms are more pronounced than signs** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q204 — Iron deposition line at edge of *(2016)*
+
+Iron deposition line at edge of pterygium on corneal epithelium is known as?
+
+- A. Stocker's line
+- B. KF Ring
+- C. Fleischer ring
+- D. Ferrys line
+
+<details><summary>Answer</summary>
+
+**A. Stocker's line** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q205 — order neuron is optic nerve in *(2016)*
+
+Which order neuron is optic nerve in the visual pathway?
+
+- A. First order
+- B. Second order
+- C. Third order
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**B. Second order** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q206 — of the following is not a *(2016)*
+
+Which of the following is not a part of uveal
+
+- A. Iris
+- B. Ciliary body
+- C. Choroid
+- D. Retina
+
+<details><summary>Answer</summary>
+
+**D. Retina** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q207 — Blue dot cataract is caused by *(2016)*
+
+Blue dot cataract is caused by
+
+- A. Diabetes
+- B. Wilson's disease
+- C. Atopic dermatitis
+- D. Chalcosis
+
+<details><summary>Answer</summary>
+
+**C. Atopic dermatitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q208 — of the following is complication of *(2016)*
+
+Which of the following is complication of prolonged use of corticosteroid eye drops?
+
+- A. Posterior Subcapsular cataract
+- B. Nuclear cataract
+- C. Capsular cataract
+- D. Cortical cataract
+
+<details><summary>Answer</summary>
+
+**A. Posterior Subcapsular cataract** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q209 — is the new advance in cataract *(2016)*
+
+What is the new advance in cataract surgery?
+
+- A. Femtosecond Laser
+- B. Neodymium Laser
+- C. Nanosecond Laser
+- D. Picosecond Laser
+
+<details><summary>Answer</summary>
+
+**A. Femtosecond Laser** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q210 — of the following step is not *(2016)*
+
+Which of the following step is not done during phacoemulsification surgery for cataract?
+
+- A. Irrigation and drainage of cortex
+- B. Continuous curvilinear capsulorrhexis
+- C. Foldable IOL implantation
+- D. Sclerocorneal tunnel
+
+<details><summary>Answer</summary>
+
+**D. Sclerocorneal tunnel** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q211 — Post operative complications of cataract are *(2016)*
+
+Post operative complications of cataract are all except?
+
+- A. After cataract
+- B. Endophthalmitis
+- C. Glaucoma
+- D. Scleritis
+
+<details><summary>Answer</summary>
+
+**D. Scleritis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q212 — of the following is the most *(2016)*
+
+Which of the following is the most important factor in the prevention of the endophthalmitis in cataract surgery?
+
+- A. Preoperative preparation with povidone iodine
+- B. One week antibiotic therapy prior to surgery
+- C. Trimming of eyelashes
+- D. Use of intravitreal antibiotics
+
+<details><summary>Answer</summary>
+
+**A. Preoperative preparation with povidone iodine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q213 — Hemeralopia is seen in *(2016)*
+
+Hemeralopia is seen in
+
+- A. Retinal detachment
+- B. Retinitis pigmentosa
+- C. Optic neuritis
+- D. Subcapsular cataract
+
+<details><summary>Answer</summary>
+
+**D. Subcapsular cataract** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q214 — of the following is a good *(2016)*
+
+Which of the following is a good dye is used for lens in cataract surgery?
+
+- A. Trypan Blue
+- B. Fluoroscein
+- C. India ink
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Trypan Blue** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q215 — of the following is a layer *(2016)*
+
+Which of the following is a layer between choroid and retina?
+
+- A. Bruch's membrane
+- B. Descemet's membrane
+- C. Photoreceptors
+- D. Ganglion cell layer
+
+<details><summary>Answer</summary>
+
+**A. Bruch's membrane** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q216 — 100 day glaucoma is caused by *(2016)*
+
+100 day glaucoma is caused by
+
+- A. CRVO
+- B. CRAO
+- C. Buphthalmos
+- D. Age related macular degeneration
+
+<details><summary>Answer</summary>
+
+**A. CRVO** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q217 — Retinal tears seen most commonly seen *(2016)*
+
+Retinal tears seen most commonly seen in ?
+
+- A. Primary retinal detachment
+- B. Secondary retinal detachment
+- C. Tractional retinal detachment
+- D. Exudative retinal detachment
+
+<details><summary>Answer</summary>
+
+**A. Primary retinal detachment** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q218 — elderly male with heart disease presents *(2016)*
+
+An elderly male with heart disease presents with sudden loss of vision in one eye; examination reveals cherry red spot; diagnosis is:
+
+- A. Central retinal vein occlusion
+- B. Central retinal artery occlusion
+- C. Amaurosis fugax
+- D. Acute ischemic optic neuritis
+
+<details><summary>Answer</summary>
+
+**B. Central retinal artery occlusion** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q219 — of the following is true about *(2016)*
+
+Which of the following is true about signs of angle in closure glaucoma except
+
+- A. Vertical semi dialted puil
+- B. Edematous cornea
+- C. Multiple iris nodules
+- D. Edematous and hyperemic optic disc
+
+<details><summary>Answer</summary>
+
+**C. Multiple iris nodules** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q220 — common site of basal cell carcinoma *(2016)*
+
+Most common site of basal cell carcinoma of the eye is
+
+- A. Eyelid
+- B. Conjunctiva
+- C. Cornea
+- D. Lacrimal apparatus
+
+<details><summary>Answer</summary>
+
+**A. Eyelid** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q221 — Ocular findings in diabetes are all *(2016)*
+
+Ocular findings in diabetes are all except -
+
+- A. Retinopathy
+- B. Early senile cataract
+- C. Neovascular glaucoma
+- D. Blepharophimosis
+
+<details><summary>Answer</summary>
+
+**D. Blepharophimosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q222 — Mucin layer tear flilm deficiency occurs *(2016)*
+
+Mucin layer tear flilm deficiency occurs in:
+
+- A. Keratoconjunctivitis sicca
+- B. Lacrimal gland removal
+- C. Canalicular block
+- D. Herpetic keratitis
+
+<details><summary>Answer</summary>
+
+**A. Keratoconjunctivitis sicca** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q223 — Pure word deafness is associated with *(2016)*
+
+Pure word deafness is associated with
+
+- A. Middle cerebral artery stroke
+- B. Posterior cerebral artery stroke
+- C. Vertebral artery aneurysm
+- D. Basilar artery aneurysm
+
+<details><summary>Answer</summary>
+
+**A. Middle cerebral artery stroke** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q224 — Global aphasia is seen due to *(2016)*
+
+Global aphasia is seen due to
+
+- A. Strokes involving entire middle cerebral artery distribution in left
+- B. Strokes involving entire middle cerebral artery distribution in
+- C. Strokes involving entire posterior cerebral artery distribution in
+- D. Strokes involving entire posterior cerebral artery distribution in
+
+<details><summary>Answer</summary>
+
+**A. Strokes involving entire middle cerebral artery distribution in left** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q225 — lobe is affected in the early *(2016)*
+
+Which lobe is affected in the early course of alzheimers disease
+
+- A. Frontal lobe
+- B. Parietal lobe
+- C. Medial temporal lobe
+- D. Lateral temporal lobe
+
+<details><summary>Answer</summary>
+
+**C. Medial temporal lobe** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q226 — isare the usual first deformityies to *(2016)*
+
+Which is/are the usual first deformity/ies to be seen in CMT disease?
+
+- A. Pes cavus
+- B. Club hand
+- C. Mannus valgus
+- D. Flexion deformity of knee
+
+<details><summary>Answer</summary>
+
+**A. Pes cavus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q227 — Huntingtons disease is commonly seen in *(2016)*
+
+Huntingtons disease is commonly seen in age group between
+
+- A. 15 - 35 years
+- B. 25 - 45 years
+- C. 35 - 55 years
+- D. 45 - 65 years
+
+<details><summary>Answer</summary>
+
+**B. 25 - 45 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q228 — Wernickes encephalopathy develops secondary to acc *(2016)*
+
+Wernickes encephalopathy develops secondary to accumulation of which substrate?
+
+- A. Glutamate
+- B. Aspartate
+- C. Lactate
+- D. Acetate
+
+<details><summary>Answer</summary>
+
+**A. Glutamate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q229 — of the following clinical test when *(2016)*
+
+Which of the following clinical test when positive suggests presence of sensory ataxia?
+
+- A. Romberg test
+- B. Adson test
+- C. Stinchfield test
+- D. Crossed SLR test
+
+<details><summary>Answer</summary>
+
+**A. Romberg test** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q230 — Todds paralysis is experience following episode *(2016)*
+
+Todds paralysis is experience following episode of
+
+- A. Focal seizure
+- B. Generalised seizure
+- C. After correction of hyponatremia
+- D. After correction of hypokalemia
+
+<details><summary>Answer</summary>
+
+**A. Focal seizure** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q231 — Frontal lobe syndrome consists *(2016)*
+
+Frontal lobe syndrome consists
+
+- A. Euphoria
+- B. Indifference
+- C. Irritability
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q232 — Immune thrombocytopenic puprpura associated with *(2016)*
+
+Immune thrombocytopenic puprpura associated with
+
+- A. Hepatitis A infection
+- B. Hepatitis B infection
+- C. Hepatitis C infection
+- D. Hepatitis D infection
+
+<details><summary>Answer</summary>
+
+**C. Hepatitis C infection** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q233 — of the following drugs can be *(2016)*
+
+Which of the following drug/s can be used for immediate parenteral anticoagulation in patients with venous thromboembolism?
+
+- A. Unfractioned heparin
+- B. Low molecular weight heparin
+- C. Fondaparinux
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q234 — True about sideroblastic anemia *(2016)*
+
+True about sideroblastic anemia
+
+- A. Severity of the disease depends on the residual erythroid ALA
+- B. Prussian blue staining sideroblasts are observed
+- C. Pyridoxine supplementation can be used for treatment
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q235 — Massive transfusion is defined as transfusion *(2016)*
+
+Massive transfusion is defined as transfusion of
+
+- A. 10/ 24 or more red cell products in hours.
+- B. 5/12 or more red cell products in hours.
+- C. 10/48 or more red cell products in hours.
+- D. 5/24or more red cell products in hours.
+
+<details><summary>Answer</summary>
+
+**A. 10/ 24 or more red cell products in hours.** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q236 — is the most common cause of *(2016)*
+
+Which is the most common cause of thrombocytopenia in an ICU patient?
+
+- A. Sepsis
+- B. Bone marrow failure
+- C. ITP
+- D. Drug induced
+
+<details><summary>Answer</summary>
+
+**A. Sepsis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q237 — percentage of Multiple myeloma patients have *(2016)*
+
+What percentage of Multiple myeloma patients have vertebral involvement?
+
+- A. 22%
+- B. 44%
+- C. 66%
+- D. 88%
+
+<details><summary>Answer</summary>
+
+**C. 66%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q238 — In case of hypothyroidism which investigation *(2016)*
+
+In case of hypothyroidism which investigation is most informative and most commonly used ?
+
+- A. Serum TSH Level
+- B. Serum T3, T4 Level
+- C. Serum Calcitonin assay
+- D. Serum T3 level
+
+<details><summary>Answer</summary>
+
+**A. Serum TSH Level** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q239 — HbA1c control for how much time *(2016)*
+
+HbA1c control for how much time
+
+- A. 2 -3 weeks
+- B. 3 - 6 weeks
+- C. 6 - 8 weeks
+- D. 14 - 18 weeks
+
+<details><summary>Answer</summary>
+
+**C. 6 - 8 weeks** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q240 — are seen in MEN IIA syndrome *(2016)*
+
+All are seen in MEN IIA syndrome except
+
+- A. Medullary carcinoma of thyroid is seen in 100% of the patients
+- B. 40 - 30% patients have phaeochromocytoms
+- C. Caused by loss of function mutation in IIRT protooncogene
+- D. Primary hyperparathyroidism is the most variable feature of
+
+<details><summary>Answer</summary>
+
+**C. Caused by loss of function mutation in IIRT protooncogene** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q241 — Tertiary hyperparathyroidism is- *(2016)*
+
+Tertiary hyperparathyroidism is-
+
+- A. High PO4 level with metastasis
+- B. Secondary hyperparathyroidism with CRF
+- C. Primary hyperparathyroidism with low Ca" levels
+- D. Secondary hyperparathyroidism with chief cell adenoma
+
+<details><summary>Answer</summary>
+
+**D. Secondary hyperparathyroidism with chief cell adenoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q242 — Chronic adrenal insufficiency is caused by *(2016)*
+
+Chronic adrenal insufficiency is caused by the following organisms except
+
+- A. Mycobacterium tubercle
+- B. Histoplasma capsulatum
+- C. Coccidioides immitis
+- D. Mycobacterium bovis
+
+<details><summary>Answer</summary>
+
+**D. Mycobacterium bovis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q243 — of the following is not a *(2016)*
+
+Which of the following is not a feature of myxedema coma?
+
+- A. Reduced level of consciousness and seizures with other
+- B. Hypoventilation leading to hypoxia and hypercapnia
+- C. Levothyroxine can be given via intravenous and nasogastric
+- D. Levothyroxine should not be used in the management
+
+<details><summary>Answer</summary>
+
+**D. Levothyroxine should not be used in the management** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q244 — gold standard test for diagnosis of *(2016)*
+
+The gold standard test for diagnosis of Insulinoma is:
+
+- A. '72 hour' fast test
+- B. Plasma Glucose levels < 3 mmol/l
+- C. Plasma Insulin levels > 6µU/ml
+- D. C- peptide levels < 50 p mol/e
+
+<details><summary>Answer</summary>
+
+**A. '72 hour' fast test** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q245 — Hypotonic solution given to correct *(2016)*
+
+Hypotonic solution given to correct
+
+- A. Dehydration secondary to diuretic therapy
+- B. Diabetic ketoacidosis
+- C. Hyperosmolar, hyperglycemic nonketotic syndrome
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q246 — Acute hyponatremia becomes symptomatic at *(2016)*
+
+Acute hyponatremia becomes symptomatic at
+
+- A. < 135 mEq
+- B. < 125 mEq
+- C. < 120 mEq
+- D. < 110 mEq
+
+<details><summary>Answer</summary>
+
+**B. < 125 mEq** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q247 — Respiratory acidosis is recognized primarily by *(2016)*
+
+Respiratory acidosis is recognized primarily by increase in
+
+- A. Pa02
+- B. PaCO2
+- C. HCO3
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. PaCO2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q248 — of the following drug administration is *(2016)*
+
+Which of the following drug administration is not associated with hypomagnesemia?
+
+- A. Cisplatin
+- B. Valproate
+- C. Foscarnet
+- D. Cetuximab
+
+<details><summary>Answer</summary>
+
+**B. Valproate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q249 — SARS infection case fatality rate of *(2016)*
+
+SARS infection case fatality rate of >50% is observed in patients of which age group?
+
+- A. < 20 yrs
+- B. 20 - 40 years
+- C. 40 - 60 years
+- D. > 65 years
+
+<details><summary>Answer</summary>
+
+**D. > 65 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q250 — are features of SIRS except- *(2016)*
+
+All are features of SIRS except-
+
+- A. RR> 24 & Paco2 <22mm hg
+- B. WBC >11 or <4
+- C. Temperature <36 and >38
+- D. PR >90
+
+<details><summary>Answer</summary>
+
+**A. RR> 24 & Paco2 <22mm hg** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q251 — Dengue shock syndrome is characterized by *(2016)*
+
+Dengue shock syndrome is characterized by the following except -
+
+- A. Hepatomegaly
+- B. Pleural effusion
+- C. Thrombocytopenia
+- D. Decreased haemoglobin
+
+<details><summary>Answer</summary>
+
+**D. Decreased haemoglobin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q252 — Tuberous sclerosis is caused by mutations *(2016)*
+
+Tuberous sclerosis is caused by mutations in the following proteins
+
+- A. Hamartin
+- B. Tuberin
+- C. Merlin
+- D. Ankyrin
+
+<details><summary>Answer</summary>
+
+**A. Hamartin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q253 — Z track technique must be used *(2016)*
+
+Z track technique must be used for administration of
+
+- A. Injection Iron Dextran deep IM
+- B. Injection Hydroxyzine hydrochloride deep IM
+- C. Injection Depomedroxyprogesterone iv
+- D. Injection erythromycin
+
+<details><summary>Answer</summary>
+
+**D. Injection erythromycin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q254 — Pierre robin syndrome following is true *(2016)*
+
+Pierre robin syndrome following is true except
+
+- A. Consists of micrognathia and cleft palate
+- B. Tongue is of normal size
+- C. Airway obstruction particularly during expiration
+- D. 30 - 50% patients have Stickler syndrome
+
+<details><summary>Answer</summary>
+
+**C. Airway obstruction particularly during expiration** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q255 — Alien limb syndrome seen in *(2016)*
+
+Alien limb syndrome seen in
+
+- A. Post neurosurgical cases
+- B. Alzheimers disease
+- C. Creutzfeldt-Jakob disease
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q256 — Osmolarity of Milk F-100 is *(2016)*
+
+Osmolarity of Milk F-100 is
+
+- A. 399 mOsm/L
+- B. 409 mOsm/L
+- C. 419 mOsm/L
+- D. 429 mOsm/L
+
+<details><summary>Answer</summary>
+
+**C. 419 mOsm/L** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q257 — of the following drugs can cause *(2016)*
+
+Which of the following drugs can cause seizures except?
+
+- A. Lithium
+- B. Phencyclindine
+- C. INH
+- D. Ketorolac
+
+<details><summary>Answer</summary>
+
+**D. Ketorolac** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q258 — Riboflavin deficiency causes *(2016)*
+
+Riboflavin deficiency causes
+
+- A. Corneal vascularization
+- B. Anemia
+- C. Personality changes
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q259 — Soret band in which porphyrins absorb *(2016)*
+
+Soret band in which porphyrins absorb light lie at what wavelength of the spectrum of light?
+
+- A. 200nm
+- B. 300nm
+- C. 400nm
+- D. 500nm
+
+<details><summary>Answer</summary>
+
+**C. 400nm** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q260 — of the following is not seen *(2016)*
+
+Which of the following is not seen after nerve transection?
+
+- A. Morphologic pattern of wallerian degeneration
+- B. Myelin ovoids
+- C. Painful neuroma
+- D. Neuroma in continuity
+
+<details><summary>Answer</summary>
+
+**D. Neuroma in continuity** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q261 — Reactive nitrogen species for killing of *(2016)*
+
+Reactive nitrogen species for killing of microbes are mainly derived from
+
+- A. Elemental nitrogen [N3]
+- B. Nitric Oxide [NO]
+- C. Nitrogen Dioxide [NO2]
+- D. Nitrous Oxide [N20]
+
+<details><summary>Answer</summary>
+
+**B. Nitric Oxide [NO]** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q262 — of the following genes if affected *(2016)*
+
+Which of the following genes if affected will sporadically cause Juvenile myeloid leukemia?
+
+- A. NF1
+- B. PTEN
+- C. APC
+- D. SMAD2
+
+<details><summary>Answer</summary>
+
+**A. NF1** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q263 — Oculogyric crisis is known to be *(2016)*
+
+Oculogyric crisis is known to be produced by all of the following drugs except
+
+- A. Trifluoperazine
+- B. Atropine
+- C. Perchlorperazine
+- D. Perphenazine
+
+<details><summary>Answer</summary>
+
+**B. Atropine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q264 — of the following primarily governs the *(2016)*
+
+Which of the following primarily governs the uptake of Tc-99m MDP in body?
+
+- A. Amount of osteogenic activity
+- B. Amount of iodine uptake
+- C. Amount of calcium uptake
+- D. Amount of catecholamine activity
+
+<details><summary>Answer</summary>
+
+**A. Amount of osteogenic activity** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q265 — Technitium-99m pertechnetate labelled methylene di *(2016)*
+
+Technitium-99m pertechnetate labelled methylene diphosphonate is structurally similar to
+
+- A. Calcium phosphate
+- B. Phosphorus
+- C. Sodium bicarbonate
+- D. Magnesiumsulfate
+
+<details><summary>Answer</summary>
+
+**A. Calcium phosphate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q266 — of the following should be done *(2016)*
+
+Which of the following should be done for an acute onset painful scrotal swelling in 12 years old male?
+
+- A. Doppler stethoscope evaluation
+- B. Administer analgesics
+- C. Advise bed rest
+- D. Administer antibiotics
+
+<details><summary>Answer</summary>
+
+**A. Doppler stethoscope evaluation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q267 — Earliest hematological change following spleenecto *(2016)*
+
+Earliest hematological change following spleenectomy is
+
+- A. Leukocytosis and thrombocytosis
+- B. Presence of Heinz bodies
+- C. Evidence of Howell Jolly bodies
+- D. Poikilocytosis
+
+<details><summary>Answer</summary>
+
+**A. Leukocytosis and thrombocytosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q268 — Sebaceous cyst occurs occur in all *(2016)*
+
+Sebaceous cyst occurs occur in all the following locations in body except
+
+- A. Palms and soles
+- B. Axilla
+- C. Back
+- D. Pubic area
+
+<details><summary>Answer</summary>
+
+**A. Palms and soles** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q269 — Cortisol levels remain elevated for how *(2016)*
+
+Cortisol levels remain elevated for how many week/s following hemorrhage?
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**A. 1** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q270 — percentage of gall stones are radio *(2016)*
+
+What percentage of gall stones are radio opaque?
+
+- A. 10- 20
+- B. 30 - 40
+- C. 50 - 60
+- D. 70 - 80
+
+<details><summary>Answer</summary>
+
+**A. 10- 20** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q271 — False about osteogenesis imperfecta is - *(2016)*
+
+False about osteogenesis imperfecta is -
+
+- A. Defective collagen formation
+- B. Associated with cataract formation
+- C. Autosomal dominant
+- D. Known as Brittle bone disease
+
+<details><summary>Answer</summary>
+
+**B. Associated with cataract formation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+
+
+## Year 2017
+
+### Q272 — diabetic patient 2 days after post cataract
+
+A diabetic patient 2 days after post cataract surgery develops hypopyon. What will be the management?
+
+- A. Intravitreal antibiotics
+- B. Eye drops
+- C. Surgery
+- D. No treatment required
+
+<details><summary>Answer</summary>
+
+**A. Intravitreal antibiotics** — Post-cataract endophthalmitis requires intravitreal antibiotics (vancomycin + ceftazidime) as first-line treatment.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#249 | OPTIONS_GENERATED: false -->
+
+---
+
+---
+

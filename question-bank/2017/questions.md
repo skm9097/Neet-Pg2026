@@ -180,6 +180,23 @@ Newly erupted teeth is covered by:
 
 ---
 
+### Q262 — Identify the type of muscle shown
+
+Identify the type of muscle shown in the image below.
+
+- A. Cruciate
+- B. Multipennate
+- C. Parallel
+- D. Unipennate
+
+<details><summary>Answer</summary>
+
+**B. Multipennate** — Source: Medicoholic 2017 NEET-PG.
+
+</details>
+
+---
+
 ## Physiology
 
 ### Q11 — What should be the value of BMI to be considered a
@@ -514,6 +531,23 @@ Which chromosome is responsible for the production of MIF?
 </details>
 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#62 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q259 — Which drugs needs continuous monitoring of
+
+Which drugs needs continuous monitoring of prothrombin time? A.Aspirin B.Lepirudin C.Digoxin D. Coumadin Ans.D Warfarin is a coumarin anticoagulant used for the prophylaxis and treatment of thromboembolic complications associated with cardiac valve replacement and atrial fibrillation,as well as the prophylaxis and treatment of venous thrombosis and pulmonary embolism.Increased metabolism of warfarin results in insufficient prolongation of prothrombin time. Question 271 Which of the following are the risk factor for cutaneous lymphoma?
+
+- A. Metastasis from PE
+- B. Angiosarcoma
+- C. Colonic adenocarcinoma with metastasis
+- D. Locally invaded hepatocellular carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Metastasis from PE** — Source: Medicoholic 2017 NEET-PG.
+
+</details>
 
 ---
 
@@ -2074,6 +2108,22 @@ Hormone therapy is indicated in menopausal women for:
 
 <!-- Source: Medicoholic NEET-PG 2017 PYQ compilation -->
 
+### Q260 — What is the Thinnest part of
+
+What is the Thinnest part of neuro-retinal rim according to ISNT rule? A. Inferior B. Superficial C. Temporal D. Medial Ans. C. Temporal The ISNT rule is an easy way to remember how the optic nerve is supposed to look in a normal eye. Normally the neuro-retinal rim is thickest Inferiorly and thinnest Temporally. With glaucoma, however, you begin to see vertical thinning, with atrophy along the inferior and superior rims. Question: 251 Leiden thrombophilia is caused by mutational deficiency of which of the following factors? A. Factor V B. Factor VII C. Factor IX D. Factor X Ans. A. Factor V Factor V Leiden thrombophilia is an inherited disorder of blood clotting. Factor V Leiden is the name of a specific mutation (genetic alteration) that results in thrombophilia, or an increased tendency to form abnormal blood clots in blood vessels. Factor V Leiden is the most common inherited form of thrombophilia. Question:252 Anteversion of uterus is maintained by? A. Cardinal B. Uterosacral C. Pubocervical D. Round Ans. D. Round In most women, the uterus is anteverted and anteflexed. The function of the round ligament is maintenance of the anteversion of the uterus(a position where the fundus of the uterus is turned forward at the junction of cervix and vagina) during pregnancy. Normally, the cardinal ligament is what supports the uterine angle (angle of anteversion). Question:253 Long standing pelvic inflammation may lead to which of the following conditions? A. Pyometra B. Uterine polyposis C. Pseudopregnancy D. Cystic endometrial hyperplasia Ans. A.Pyometra Pyometra is collection of pus due to obstruction of flow in the uterine cavity. It may be due to Long standing PID or secondary to cervical stenosis. Question:254 A red soft to firm swelling on sternum that on biopsy shows following histology. What is the diagnosis? A. Hemangioma B. Osteochondroma C. Osteoid osteoma D. Paget disease Ans. A. Hemangioma Clinical presentation These tumours are slow growing and are generally asymptomatic unless they exert mass effect on sensitive structures. Occasionally they may present as a swelling or a palpable mass, especially in the skull. When large and strategically located they may present with a pathological fracture. If they are high-flow lesions, shunt-related symptoms may also be present. Pathology Primary intraosseous haemangiomas are slow growing vascular neoplasms, usually located in the medullary cavity. They are classified as benign, but rarely may be locally aggressive. Histology Histologically, intraosseous haemangiomas demonstrate hamartomatous vascular tissue within endothelium, but may also contain fat, smooth muscle, fibrous tissue, and thrombi. Question:255 What differentiates delirium from dementia? A. Confusion B. Difficulty in communicating C. Hallucination D. Sudden change Delirium Also called the acute confusional state, delirium is a medical condition that results in confusion and other disruptions in thinking and behavior, including changes in perception, attention, mood and activity level. In dementia, changes in memory and intellect are slowly evident over months or years. Delirium is a more abrupt confusion, emerging over days or weeks, and represents a suddenchange from the person’s previous course of dementia. Thinking becomes more disorganized, and maintaining a coherent conversation may not be possible. The hallmark separating delirium from underlying dementia is inattention. The individual simply cannot focus on one idea or task. Question:256 Genital warts are caused by which virus? A. Herpes simplex B. Human papilloma C. Cytomegalovirus D. Varicella zoster Ans. B.Human papilloma Genital warts are soft growths that appear on the genitals. Genital warts are a sexually transmitted infection (STI) caused by certain strains of the human papillomavirus (HPV). These skin growths can cause pain, discomfort, and itching. Question:257 Which drug regimen is given in a pregnant woman with HIV infection? A. Tenofovir disoproxil fumarate with emtricitabine B. Tenofovir disoproxil fumarate with lamivudine C. Abacavir with lamivudine D. All Ans. D. All Two-NRTI backbone Regimens include the following: ● Tenofovir disoproxil fumarate with emtricitabine (TDF/FTC co-formulated) or tenofovir disoproxil fumarate with lamivudine (3TC) once daily (use with caution in renal insufficiency) or ● Abacavir with lamivudine (ABC/3TC) once daily (only if HLA-B5701–negative); avoid combination with ritonavir-boosted atazanavir if the pretreatment HIV viral load exceeds 100,000 copies/mL. For women who have never taken HIV medicines, the preferred HIV regimen should include two nucleoside reverse transcriptase inhibitors (NRTIs) plus an integrase strand transfer inhibitor (INSTI), a non-nucleoside reverse transcriptase inhibitor (NNRTI), or a protease inhibitor (PI) with low-dose ritonavir (brand name: Norvir). The regimen generally should include at least one of the following NRTIs that pass easily across the placenta: ● abacavir (brand name: Ziagen) ● emtricitabine (brand name: Emtriva) ● lamivudine (brand name: Epivir) ● tenofovir disoproxil fumarate(brand name: Viread) ● zidovudine (brand name: Retrovir) Question: 258 Which of the following structure develops from dorsal mesentery? A. Greater omentum B. Lesser omentum C. Liver D. Diaphragm Ans. A. The portion of the dorsal mesentery that attaches to the greater curvature of the stomach, is known as the dorsal mesogastrium. The part of the dorsal mesentery that suspends the colon is termed the mesocolon. The dorsal mesogastrium develops into the greater omentum. Question 259: What is the structure seen in the given X-ray below? A. Stent B. Surgical clips C. Foley catheter D. Intravesical wire Ans. A. Stent Plain abdominal X ray showing a stent in the right and left ureter. Ureteric stents,also known as double J stents or retrograde ureteric stents, is a urological catheter that has two "J-shaped" (curled) ends, where one is anchored in the renal pelvis and the other inside the bladder. Stents are used for the free passage of urine from the kidney to the bladder, in adverse conditions such as postoperative urologic procedures, and previously to lithotripsy and ureteral obstructions. Indications Stents may be uses for a short of long term period depending on the indication: ● obstruction from urolithiasis ● malignant obstruction (typically pelvic malignancies) ● benign strictures ● retroperitoneal fibrosis bilateral ureteric stents Question 260: What is the diagnosis based on the following X-ray? A. Uterine Fibroid B. Bladder Carcinoma C. Bladder stone D. Renal Tuberculosis Ans. C. Bladder stone Multiple bladder calculi. Four oval radiopaque bladder stones are visible centrally in the pelvis. Most bladder calculi are round or oval, but they may also be amorphous, laminated, or even spiculated. Bladder stones are small mineral deposits that can form in the bladder. In most cases bladder stones develop when the urine becomes very concentrated or when one is dehydrated. This allows for minerals, such as calcium or magnesium salts, to crystallize and form stones. In some cases bladder stones do not cause any symptoms and are discovered as an incidental finding on a plain radiograph. Bladder stones vary in their size, shape and texture- some are small, hard and smooth whereas others are huge, spiked and very soft. One can have one or multiple stones. Bladder stones are somewhat more common in men who have prostate enlargement. The large prostate presses on the urethra and makes it difficult to pass urine. Over time, stagnant urine collects in the bladder and minerals like calcium start to precipitate. Radiography The initial imaging study of choice is plain radiography of the kidneys, ureters, and bladder (KUB), which is the least expensive and easiest radiologic test to obtain. Pure uric acid and ammonium urate stones are radiolucent but may be coated with a layer of opaque calcium sediment. Laminations are common, with the layers stratified according to metabolic and infectious status and the degree of periodic hematuria (see the images below). Multiple laminated bladder calculi in patient with neurogenic bladder. Question 261: By which method foreign DNA is introduced into a cell by a virus or viral vector? A. Transduction B. Transcription C. Lysogenic conversion D. Transformation Ans. A. Transduction Transduction is the process by which foreign DNA is introduced into a cell by a virus or viral vector. An example is the viral transfer of DNA from one bacterium to another. Question 262: Which one of the following shows allosteric inhibition? A. Malonic acid & succinate B. 2,3 BPG C. Amino acid alanine & pyruvate kinase D. Citrate Negative allosteric modulation (also known as allosteric inhibition) occurs when the binding of one ligand decreases the affinity for substrate at other active sites. For example, when 2,3-BPG binds to an allosteric site on hemoglobin, the affinity for oxygen of all subunits decreases. Question 263: Which of the following is seen in seropositive rheumatoid arthritis? A. Multiple joints affected B. Symmetrical joint symptoms C. Joint pain and swelling D. All ● Positive for Rheumatoid factor in blood is seropositivity. ● Patients with positive rheumatoid factor usually present with symptoms like ● Joint deformities & disability ● Symmetrical involvement of joints ● Inflammation ● Swelling and painful in multiple joints, especially of hands and feet. ● Morning stiffness (short term) ● Development of firm lumps near joints - “Rheumatoid nodules” ● Deterioration of bone & cartilage (X- ray findings) Question 264: Which of the following is not seen in Anterior mediastinum A. Thyroid tumour B. Thymoma C. Lymphoma D. Neurogenic tumor ● The anterior mediastinum is the portion of the mediastinum anterior to the pericardium and below the thoracic plane. ● It forms the anterior part of the inferior mediastinum ● contains the thymus, lymph nodes, and may contain the portions of a retrosternal thyroid. Mediastinal Tumors and Other Masses Superior Mediastinum Anterior Mediastinum Posterior Mediastinum Middle Mediastinum Lymphoma Thymoma Neurogenic tumors Bronchogenic cyst Thymoma Teratoma Lymphoma Pericardial cyst Thyroid lesions Lymphoma Gastroenteric hernia Lymphoma Metastatic carcinoma Thyroid lesions Parathyroid tumors Parathyroid tumors Question 265: Struvite stone is caused by which metal?
+
+- A. Results in hyperthyroidism
+- B. Autoimmune disorder
+- C. Common in Male
+- D. Referred as Toxic diffuse goitre
+
+<details><summary>Answer</summary>
+
+**D. Referred as Toxic diffuse goitre** — Source: Medicoholic 2017 NEET-PG.
+
+</details>
+
+---
 
 ## Anatomy
 
@@ -2111,6 +2161,22 @@ Thrombosis of posterior inferior cerebellar artery causes:
 
 ---
 
+### Q263 — Identify the type of muscle shown
+
+Identify the type of muscle shown in the image below.
+
+- A. Cruciate
+- B. Multipennate
+- C. Parallel
+- D. Unipennate
+
+<details><summary>Answer</summary>
+
+**B. Multipennate** — Source: Medicoholic 2017 NEET-PG.
+
+</details>
+
+---
 
 ## Biochemistry
 
@@ -2215,7 +2281,6 @@ HIAA in urine present in?
 </details>
 
 ---
-
 
 ## Pathology
 
@@ -2848,6 +2913,22 @@ In ACLS which drug can be given following ventricular fibrillation after cardiac
 
 ---
 
+### Q261 — Which drugs needs continuous monitoring of
+
+Which drugs needs continuous monitoring of prothrombin time? A.Aspirin B.Lepirudin C.Digoxin D. Coumadin Ans.D Warfarin is a coumarin anticoagulant used for the prophylaxis and treatment of thromboembolic complications associated with cardiac valve replacement and atrial fibrillation,as well as the prophylaxis and treatment of venous thrombosis and pulmonary embolism.Increased metabolism of warfarin results in insufficient prolongation of prothrombin time. Question 271 Which of the following are the risk factor for cutaneous lymphoma?
+
+- A. Metastasis from PE
+- B. Angiosarcoma
+- C. Colonic adenocarcinoma with metastasis
+- D. Locally invaded hepatocellular carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Metastasis from PE** — Source: Medicoholic 2017 NEET-PG.
+
+</details>
+
+---
 
 ## Microbiology
 
@@ -2952,7 +3033,6 @@ Identify the organism related to blood smear image
 </details>
 
 ---
-
 
 ## Pharmacology
 
@@ -3162,7 +3242,6 @@ Which of the statement regarding Factory act is correct
 
 ---
 
-
 ## Community Medicine
 
 ### Q182 — Incidence of a disease is 4 *(2017)*
@@ -3369,7 +3448,6 @@ Which of the following is not an example of direct transmission in communicable 
 
 ---
 
-
 ## Medicine
 
 ### Q194 — Neurofibromatosis 1 criteria except *(2017)*
@@ -3541,7 +3619,6 @@ Minimal dysfunction syndrome seen in
 </details>
 
 ---
-
 
 ## Surgery
 
@@ -3765,7 +3842,6 @@ In Rheumatoid arthritis, which type of cells are prominently present ?
 </details>
 
 ---
-
 
 ## Paediatrics
 
@@ -4041,7 +4117,6 @@ HT indicated in menopausal women
 
 ---
 
-
 ## ENT
 
 ### Q233 — Waters view is used to obtain *(2017)*
@@ -4145,7 +4220,6 @@ Blow out fracture of orbit involves:
 </details>
 
 ---
-
 
 ## Psychiatry
 
@@ -4318,7 +4392,6 @@ What is the Thinnest part of neuro-retinal rim according to ISNT rule?
 </details>
 
 ---
-
 
 ## Anaesthesia
 

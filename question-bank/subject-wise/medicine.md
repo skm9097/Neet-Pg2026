@@ -5302,3 +5302,6102 @@ Next step for patient on salbutamol + ipratropium with continuing nocturnal asth
 
 ---
 
+## Year 2015
+
+### Q289 — Common hepatic artery is a branch
+
+Common hepatic artery is a branch of -
+
+- A. Splenic artery
+- B. Superior mesenteric artery
+- C. Inferior mesenteric artery
+- D. Coeliac trunk
+
+<details><summary>Answer</summary>
+
+**D. Coeliac trunk** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q290 — Tail of pancrease develops from -
+
+Tail of pancrease develops from -
+
+- A. Hepatic diverticulum
+- B. Dorsal pancreatic duct
+- C. Ventral pancreatic duct
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Dorsal pancreatic duct** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q291 — Structures passing through Calots triangle are
+
+Structures passing through Calot's triangle are all EXCEPT:
+
+- A. Portal vein
+- B. Cystic artery
+- C. Right hepatic artery
+- D. Lymph node of Lund
+
+<details><summary>Answer</summary>
+
+**A. Portal vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q292 — Shrinking Lung Syndrome is seen in
+
+Shrinking Lung Syndrome is seen in:
+
+- A. SLE
+- B. Rheumatoid Arthritis
+- C. Scleroderma
+- D. Sarcoidosis
+
+<details><summary>Answer</summary>
+
+**A. SLE** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q293 — Heart failure cells are
+
+Heart failure cells are
+
+- A. Neutrophils
+- B. Macrophages
+- C. Lymphocytes
+- D. Basophils
+
+<details><summary>Answer</summary>
+
+**B. Macrophages** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q294 — Heart failure cells are seen in
+
+Heart failure cells are seen in -
+
+- A. Pulmonary edema
+- B. Pulmonary infarction
+- C. Pulmonary abscess
+- D. PulmonaryTB
+
+<details><summary>Answer</summary>
+
+**A. Pulmonary edema** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q295 — Most common nephropathy associated with malignaneN
+
+Most common nephropathy associated with malignaneN is:
+
+- A. Focal segmental glomerulosclerosis (FSGS)
+- B. Minimal change disease
+- C. IgA nephropathy
+- D. Membranous glomerulonephritis
+
+<details><summary>Answer</summary>
+
+**D. Membranous glomerulonephritis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q296 — Not true about Alports syndrome -
+
+Not true about Alport's syndrome -
+
+- A. X-linked
+- B. Autosomal dominant
+- C. Nerve deafness
+- D. Glomerulonephritis
+
+<details><summary>Answer</summary>
+
+**B. Autosomal dominant** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q297 — Fenoldopam is used in the management
+
+Fenoldopam is used in the management of ?
+
+- A. Hypertensive emergencies
+- B. Congestive heart failure
+- C. Migraine prophylaxis
+- D. Tachyarrhythmias
+
+<details><summary>Answer</summary>
+
+**A. Hypertensive emergencies** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q298 — Following are the side effects of
+
+Following are the side effects of thiazides except?
+
+- A. Hypokalemia
+- B. Hypocalcemia
+- C. Hepatic coma
+- D. Impotence
+
+<details><summary>Answer</summary>
+
+**B. Hypocalcemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q299 — Atypical side effect montelukast
+
+Atypical side effect montelukast ?
+
+- A. Good pasture syndrome
+- B. Churg - Strauss syndrome
+- C. Membranous glomerulonephritis
+- D. Bronchial asthma
+
+<details><summary>Answer</summary>
+
+**B. Churg - Strauss syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q300 — Neuropathy caused by INH increases in
+
+Neuropathy caused by INH increases in all except?
+
+- A. Uremia
+- B. Hyperthyroidism
+- C. Diabetes mellitus
+- D. Poor nutrition
+
+<details><summary>Answer</summary>
+
+**B. Hyperthyroidism** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q301 — Chlamydia pneumoniae causes causes
+
+Chlamydia pneumoniae causes causes:
+
+- A. LGV
+- B. Atherosclerosis
+- C. Inclusion conjunctivitis
+- D. Trachoma
+
+<details><summary>Answer</summary>
+
+**B. Atherosclerosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q302 — Streptococcal pneumoniae pneumonia present at -
+
+Streptococcal pneumoniae pneumonia present at -
+
+- A. < 5 years
+- B. 5 - 15 years
+- C. 20 - 25 years
+- D. 30 - 40 years
+
+<details><summary>Answer</summary>
+
+**A. < 5 years** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q303 — Most common complication of diphtheria is
+
+Most common complication of diphtheria is -
+
+- A. Myocarditis
+- B. Pneumonia
+- C. Meningitis
+- D. Endocarditis
+
+<details><summary>Answer</summary>
+
+**A. Myocarditis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q304 — Scleritis is most commonly associated with
+
+Scleritis is most commonly associated with:
+
+- A. Diabetes
+- B. Osteoarthritis
+- C. Rheumatoid arthritis
+- D. Hypertension
+
+<details><summary>Answer</summary>
+
+**C. Rheumatoid arthritis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q305 — Prutchners retinopathy in associated with -
+
+Prutchners retinopathy in associated with -
+
+- A. Diabetes Mellitus
+- B. Wilson's disease
+- C. Head trauma
+- D. Rheumatoid arthritis
+
+<details><summary>Answer</summary>
+
+**C. Head trauma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q306 — Which one of the following is
+
+Which one of the following is not an early complication of acute myocardial infarction ?
+
+- A. Papillary muscle dysfunction
+- B. Ventricular septal defect
+- C. Paricarditis
+- D. Dressler's syndrome
+
+<details><summary>Answer</summary>
+
+**D. Dressler's syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q307 — Hepatic Encephalopathy is predisposed by all,
+
+Hepatic Encephalopathy is predisposed by all, Except:
+
+- A. Hyperkalemia
+- B. Dehydration
+- C. Constipation
+- D. GI Bleeding
+
+<details><summary>Answer</summary>
+
+**A. Hyperkalemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q308 — Rockall score is used for prognosis
+
+Rockall score is used for prognosis of patients of
+
+- A. Upper GI bleeding
+- B. Lower GI bleeding
+- C. Hepatic encephalopathy
+- D. IBD
+
+<details><summary>Answer</summary>
+
+**A. Upper GI bleeding** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q309 — Not associated with diabetes mellitus
+
+Not associated with diabetes mellitus
+
+- A. Cushing syndrome
+- B. Acromegaly
+- C. Hypothyroidism
+- D. Pheochromocytoma
+
+<details><summary>Answer</summary>
+
+**C. Hypothyroidism** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q310 — In long standing rheumatoid arthritis which
+
+In long standing rheumatoid arthritis which will be seen -
+
+- A. Milk alkali syndrome
+- B. Nephrolithiasis
+- C. Paradoxical aciduria
+- D. Secondary amylodosis
+
+<details><summary>Answer</summary>
+
+**D. Secondary amylodosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q311 — Alzehiemer type II astrocyte are seen
+
+Alzehiemer type II astrocyte are seen in -
+
+- A. Hepatic encephalopathy
+- B. Alzehiemer's
+- C. Parkinsonism
+- D. Biswanger disease
+
+<details><summary>Answer</summary>
+
+**A. Hepatic encephalopathy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q312 — Chvostek sign is seen in
+
+Chvostek sign is seen in:
+
+- A. Hypercalcemia
+- B. Hypoparathyroidism
+- C. Insulinoma
+- D. Diabetes mellitus
+
+<details><summary>Answer</summary>
+
+**B. Hypoparathyroidism** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q313 — Martel sign is seen in -
+
+Martel sign is seen in -
+
+- A. Gout
+- B. Ankylosing spondylitis
+- C. Osteoarthritis
+- D. Rheumatoid arthritis
+
+<details><summary>Answer</summary>
+
+**A. Gout** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q314 — In which of causes of oral
+
+In which of causes of oral ulcer, Auto- antibodies are not seen?
+
+- A. Behcet disease
+- B. SLE
+- C. Pemphigus
+- D. Celiac disease
+
+<details><summary>Answer</summary>
+
+**A. Behcet disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q315 — Incorrect about LAMB syndrome -
+
+Incorrect about LAMB syndrome -
+
+- A. Lentigines
+- B. Atrial Myxoma
+- C. Myaesthenic syndrome
+- D. Blue Nevi
+
+<details><summary>Answer</summary>
+
+**C. Myaesthenic syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q316 — The Vitamin which has inhibitory effect
+
+The Vitamin which has inhibitory effect on wound healing is -
+
+- A. Vitamin -A
+- B. Vitamin - E
+- C. Vitamin -C
+- D. Vitamin B-complex
+
+<details><summary>Answer</summary>
+
+**B. Vitamin - E** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q317 — Number of barr bodies in klinfellters
+
+Number of barr bodies in klinfellter's syndrome is -
+
+- A. 0
+- B. 1
+- C. 2
+- D. 3
+
+<details><summary>Answer</summary>
+
+**B. 1** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q318 — Which of these is not a
+
+Which of these is not a part of extracellular matrix:
+
+- A. Laminin
+- B. Fibronectin
+- C. Integrins
+- D. Collagen
+
+<details><summary>Answer</summary>
+
+**C. Integrins** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q319 — Which of the following substances is
+
+Which of the following substances is primarily found in tendons?
+
+- A. Collagen
+- B. Fibrin
+- C. Fibrillin
+- D. Protedglycans
+
+<details><summary>Answer</summary>
+
+**A. Collagen** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q320 — DOC for acute attack of Hereditary
+
+DOC for acute attack of Hereditary angioneurotic edema
+
+- A. Danazol
+- B. Cl, inhibitor concentrate
+- C. Icatibant
+- D. Methylprednisolone
+
+<details><summary>Answer</summary>
+
+**B. Cl, inhibitor concentrate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q321 — Which can be give in hemorrhagic
+
+Which can be give in hemorrhagic stroke ?
+
+- A. Normal saline
+- B. Colloids
+- C. Blood transfusion
+- D. Hypertonic fluids
+
+<details><summary>Answer</summary>
+
+**A. Normal saline** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q322 — Flushing with niacin in reduced by
+
+Flushing with niacin in reduced by -
+
+- A. Laropiprant
+- B. Premedication with aspirin
+- C. Tachyphylaxis
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q323 — Obesity is seen in all except
+
+Obesity is seen in all except
+
+- A. Cushing syndrome
+- B. Pickwinian syndrome
+- C. Prader willi syndrome
+- D. Sipple syndrome
+
+<details><summary>Answer</summary>
+
+**D. Sipple syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q324 — Intracranial pressure may be increased by
+
+Intracranial pressure may be increased by all of the following drugs except -
+
+- A. Hypervitaminosis A
+- B. Corticosteroids
+- C. Quinolones
+- D. Aminoglycosides
+
+<details><summary>Answer</summary>
+
+**D. Aminoglycosides** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q325 — Most common location of ectopic salivary
+
+Most common location of ectopic salivary gland is -
+
+- A. Cervical lymph nodes
+- B. Anterior mediastinum
+- C. Posterior triangle
+- D. Parathyroid gland
+
+<details><summary>Answer</summary>
+
+**A. Cervical lymph nodes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q326 — Classic triad inRenal cell carcinoma includes
+
+Classic triad inRenal cell carcinoma includes all of the following, Except:
+
+- A. Hematuria
+- B. Hypertension
+- C. Flank mass
+- D. Abdominal Pain
+
+<details><summary>Answer</summary>
+
+**B. Hypertension** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q327 — ESWL is contraindicated in which of
+
+ESWL is contraindicated in which of the following stones -
+
+- A. Cysteine stones
+- B. Oxalate Stones
+- C. Urate stones
+- D. Phosphate stones
+
+<details><summary>Answer</summary>
+
+**A. Cysteine stones** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q328 — Surgery for undescended testis is recommended
+
+Surgery for undescended testis is recommended at what age?
+
+- A. 6 months
+- B. 12 months
+- C. 24 months
+- D. 36 months
+
+<details><summary>Answer</summary>
+
+**A. 6 months** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q329 — Pseudoclaudication is caused by
+
+Pseudoclaudication is caused by
+
+- A. Femoral Artery stenosis
+- B. Popliteal Artery stenosis
+- C. Lumbar canal stenosis
+- D. Radial Artery stenosis
+
+<details><summary>Answer</summary>
+
+**C. Lumbar canal stenosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q330 — Which of the following is the
+
+Which of the following is the most conservative neck dissection -
+
+- A. Supraomohyoid neck dissection
+- B. Radical neck dissection
+- C. Modified radical neck dissection
+- D. All are conservative
+
+<details><summary>Answer</summary>
+
+**A. Supraomohyoid neck dissection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q331 — Supraomohyoid dissection is a type of
+
+Supraomohyoid dissection is a type of -
+
+- A. Selective neck dissection
+- B. Modified radical neck dissection
+- C. Radical neck dissection
+- D. Posterolateral dissection
+
+<details><summary>Answer</summary>
+
+**A. Selective neck dissection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q332 — Alagille syndrome- all of the following
+
+Alagille syndrome- all of the following are true except -
+
+- A. Mutation in JAG 1 And Notch2 gene are seen
+- B. Can Cause Autoimmune hepatitis
+- C. Autosomal Recessive Disease
+- D. Valvular anomalis of heart seen
+
+<details><summary>Answer</summary>
+
+**C. Autosomal Recessive Disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q333 — Absence of Ultra hepatic bile duct
+
+Absence of Ultra hepatic bile duct leads to which syndrome?
+
+- A. Von Meyenburg Complexes
+- B. Polycystic Liver Disease
+- C. Caroli Disease
+- D. Alagille Syndrome
+
+<details><summary>Answer</summary>
+
+**D. Alagille Syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q334 — Adsons test is positive in -
+
+Adson's test is positive in -
+
+- A. Cervical rib
+- B. Cervical spondylosis
+- C. Cervical fracture
+- D. Cervical dislocation
+
+<details><summary>Answer</summary>
+
+**A. Cervical rib** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q335 — Anterior Mediastinal nodes are included in
+
+Anterior Mediastinal nodes are included in which level of lymphnodes -
+
+- A. I
+- B. III
+- C. V
+- D. VII
+
+<details><summary>Answer</summary>
+
+**D. VII** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q336 — Which Is False about stress urinary
+
+Which Is False about stress urinary incontinence -
+
+- A. More common in men
+- B. It occurs during increased abdominal pressure
+- C. It is due to weakening of pelvic floor muscles
+- D. Prostate surgery may be a cause
+
+<details><summary>Answer</summary>
+
+**A. More common in men** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q337 — Which of the following urethral anomaly
+
+Which of the following urethral anomaly is the most common -
+
+- A. Hypospadias
+- B. Pin hole meatus
+- C. Epispadias
+- D. Stricture urethra
+
+<details><summary>Answer</summary>
+
+**A. Hypospadias** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q338 — Which of the following types of
+
+Which of the following types of shock wiil usually have warm peripheral extremities ?
+
+- A. Hypovolemic Shock
+- B. Neurogenic Shock
+- C. Cardiogenic Shock
+- D. Anaphylactic Shock
+
+<details><summary>Answer</summary>
+
+**B. Neurogenic Shock** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q339 — Antibiotic prophylaxis is best given -
+
+Antibiotic prophylaxis is best given -
+
+- A. 1 day before surgery
+- B. 2 hours before surgery
+- C. Before the time of incision
+- D. Only postoperatively
+
+<details><summary>Answer</summary>
+
+**C. Before the time of incision** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q340 — Which of the following is a
+
+Which of the following is a feature of crush syndrome -
+
+- A. Hypokalemia
+- B. Hypercalcemia
+- C. Myoglobinuria
+- D. Hypophosphatemia
+
+<details><summary>Answer</summary>
+
+**C. Myoglobinuria** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q341 — Crush Syndrome is associated with all
+
+Crush Syndrome is associated with all of the following features except -
+
+- A. Hypercalcemia
+- B. Hyperkalemia
+- C. Increased serum creatinine
+- D. Myoglobinuria
+
+<details><summary>Answer</summary>
+
+**A. Hypercalcemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q342 — Which of the following stones are
+
+Which of the following stones are common with infection ?
+
+- A. Struvite
+- B. Xanthine Stones
+- C. Cysteine stones
+- D. Calcium Oxalate stones
+
+<details><summary>Answer</summary>
+
+**A. Struvite** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q343 — High Flying prostate is a sign
+
+High Flying prostate is a sign of -
+
+- A. Extraperitoneal Bladder rupture
+- B. Intraperitoneal Bladder Rupture
+- C. Membranous Urethral Injury
+- D. Bulbar Urethral Injury
+
+<details><summary>Answer</summary>
+
+**C. Membranous Urethral Injury** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q344 — BPH involves -
+
+BPH involves -
+
+- A. Central zone
+- B. Peripheral zone
+- C. Transitional zone
+- D. Prostate capsule
+
+<details><summary>Answer</summary>
+
+**C. Transitional zone** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q345 — Prostate cancer that is limited to
+
+Prostate cancer that is limited to the capsule and not the urethra would be satged as -
+
+- A. Tx
+- B. T1
+- C. T2
+- D. T3
+
+<details><summary>Answer</summary>
+
+**C. T2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q346 — If 90 of jejunum and ilium
+
+If 90% of jejunum and ilium is removed then all of the following features will be seen excePt -
+
+- A. Steatorrhoea
+- B. Diarrhoea
+- C. Weight gain
+- D. Megaloblastic anemia
+
+<details><summary>Answer</summary>
+
+**C. Weight gain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q347 — All of the following may lead
+
+All of the following may lead to a gall bladder carcinoma except -
+
+- A. Gall Bladder Polyps
+- B. Typhoid carriers
+- C. Exposure to carcinogens like nitrosamine
+- D. Echinococcus Granulosus Infection
+
+<details><summary>Answer</summary>
+
+**D. Echinococcus Granulosus Infection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q348 — All of the following are false
+
+All of the following are false for Gall Bladder carcinoma except:
+
+- A. Carries a good prognosis
+- B. Gallstones may be a predisposing factor
+- C. Commonly squamous cell carcinoma
+- D. Jaundice is rare
+
+<details><summary>Answer</summary>
+
+**B. Gallstones may be a predisposing factor** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q349 — Which of the following is not
+
+Which of the following is not true about Boerhaave syndrome?
+
+- A. Perforation of the esophagus due to barotrauma
+- B. Most common site is left posteromedial aspect 3 - 5 cms above
+- C. Pain is the early manifestation
+- D. Most cases follow a bout of heavy eating or drinking
+
+<details><summary>Answer</summary>
+
+**B. Most common site is left posteromedial aspect 3 - 5 cms above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q350 — Which of the following is true
+
+Which of the following is true about Mallory Weiss tear -
+
+- A. It is a mucosal tear not extending through the muscle layer
+- B. It is more common in women than men
+- C. It is common in young individuals
+- D. It is associated with achalasia cardia
+
+<details><summary>Answer</summary>
+
+**A. It is a mucosal tear not extending through the muscle layer** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q351 — What is the most common position
+
+What is the most common position of appendix?
+
+- A. Pelvic
+- B. Paracolic
+- C. Retrocaecal
+- D. Retroperitoneal
+
+<details><summary>Answer</summary>
+
+**C. Retrocaecal** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q352 — year pld male complaining of per
+
+year pld male complaining of per rectal bleeding was diagnosed of having rectal/anorectal cancer. The distal margin of the tumor was 5 cm
+
+- A. Palliative Radiotherapy
+- B. Abdominoperineal recection
+- C. Low anterior resection
+- D. Local Excision
+
+<details><summary>Answer</summary>
+
+**C. Low anterior resection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q353 — Commonest cause of intussusception is -
+
+Commonest cause of intussusception is -
+
+- A. Submucous lipoma
+- B. Meckel's diverticulum
+- C. Hypertrophy of submucous peyer's patches
+- D. Polyp
+
+<details><summary>Answer</summary>
+
+**C. Hypertrophy of submucous peyer's patches** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q354 — All of the following are clinical
+
+All of the following are clinical features suggestive of trachea-esophagal fistula except -
+
+- A. Choking and Coughing
+- B. Regurgitation
+- C. Cyanosis
+- D. Fever
+
+<details><summary>Answer</summary>
+
+**D. Fever** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q355 — Most important presenting feature of periampullary
+
+Most important presenting feature of periampullary carcinoma is -
+
+- A. Jaundice
+- B. Pain
+- C. Weight Loss
+- D. Palpable Mass
+
+<details><summary>Answer</summary>
+
+**A. Jaundice** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q356 — Best marker to assess prognosis after
+
+Best marker to assess prognosis after Surgery for colon carcinoma:
+
+- A. CA 19-9
+- B. CA-125
+- C. Alpha fetoprotein
+- D. CEA
+
+<details><summary>Answer</summary>
+
+**D. CEA** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q357 — All of the following are features
+
+All of the following are features of Zollinger Ellison syndrome except
+
+- A. Intractable peptic ulcers
+- B. Severe diarrhoea
+- C. Beta cell tumors of the pancreas
+- D. Very high acid output.
+
+<details><summary>Answer</summary>
+
+**C. Beta cell tumors of the pancreas** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q358 — All of the following is true
+
+All of the following is true about heart transplantation except -
+
+- A. Immmunosupression is started preoperatively
+- B. It is only orthotopic and not heterotopic
+- C. A Beating heart cadaver/donor is needed
+- D. High Pulmonary arterial resistance in a contra indication
+
+<details><summary>Answer</summary>
+
+**B. It is only orthotopic and not heterotopic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q359 — Lateral aberrant thyroid refers to -
+
+Lateral aberrant thyroid refers to -
+
+- A. Congenital thyroid abnormality
+- B. Metastatic focus in lymph nodes
+- C. Struma ovarii
+- D. Lingual thyroid
+
+<details><summary>Answer</summary>
+
+**B. Metastatic focus in lymph nodes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q360 — True regarding cystic hygroma is -
+
+True regarding cystic hygroma is -
+
+- A. Non transilluminant
+- B. Lined by columnar epithelium epithelium
+- C. Develops from jugular lymphatic sequestration
+- D. All
+
+<details><summary>Answer</summary>
+
+**C. Develops from jugular lymphatic sequestration** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q361 — Most common site for Cystic Hygroma
+
+Most common site for Cystic Hygroma is -
+
+- A. Lower third of neck
+- B. Overlying the parotid gland
+- C. Along the Zygomatic Prominence
+- D. Post auricular
+
+<details><summary>Answer</summary>
+
+**A. Lower third of neck** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q362 — Chvostek sign could be seen after
+
+Chvostek sign could be seen after -
+
+- A. Gastrojejunostomy
+- B. Total thyroidectomy
+- C. Subtotal Thyroidectomy
+- D. Hellers Cardiomyotomy
+
+<details><summary>Answer</summary>
+
+**B. Total thyroidectomy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q363 — Transplanted kidney is relocated to which
+
+Transplanted kidney is relocated to which region in the recepient's body ?
+
+- A. Retroperitoneal rgion
+- B. Lumbar region
+- C. Epigastrium
+- D. Beside the dysfunctional Kidney
+
+<details><summary>Answer</summary>
+
+**A. Retroperitoneal rgion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q364 — Claudication due to popliteofemoral incompetence i
+
+Claudication due to popliteofemoral incompetence is primary seen in
+
+- A. Thigh
+- B. Calf
+- C. Buttocks
+- D. Feet
+
+<details><summary>Answer</summary>
+
+**B. Calf** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q365 — Food can commonly get obstructed in
+
+Food can commonly get obstructed in the esophagus at all of the following locations except
+
+- A. Crossing of left bronchus
+- B. Crossing of arch of aorta
+- C. Diagphragmatic aperture
+- D. Crossing of the hemiazygous vein
+
+<details><summary>Answer</summary>
+
+**D. Crossing of the hemiazygous vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q366 — A full thickness wound that is
+
+A full thickness wound that is not sutured heals by
+
+- A. Primary Healing
+- B. Secondary Healing
+- C. Delayed primary Healing
+- D. Reepithelization
+
+<details><summary>Answer</summary>
+
+**B. Secondary Healing** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q367 — An Incisional wound heals by
+
+An Incisional wound heals by
+
+- A. Primary Healing
+- B. Secondary Healing
+- C. Delayed primary Healing
+- D. Reepithelization
+
+<details><summary>Answer</summary>
+
+**A. Primary Healing** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q368 — A cystic mass at the base
+
+A cystic mass at the base of umbilical cord in a neonate could be
+
+- A. Allantoic Cyst
+- B. Meckel's Diverticulum
+- C. Ventral mesogastrium
+- D. Cystic Hygroma
+
+<details><summary>Answer</summary>
+
+**A. Allantoic Cyst** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q369 — Which of the following gas is
+
+Which of the following gas is most commonly used in laproscopy?
+
+- A. CO2
+- B. N2O
+- C. O2
+- D. Helium
+
+<details><summary>Answer</summary>
+
+**A. CO2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q370 — Strawberry gallbladder is seen in
+
+Strawberry gallbladder is seen in ?
+
+- A. Gangrene of gallbladder
+- B. Porcelain gall bladder
+- C. Adenomatosis
+- D. Cholesterosis
+
+<details><summary>Answer</summary>
+
+**D. Cholesterosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q371 — All of the following are causes
+
+All of the following are causes of Urothelial Carcinomas Except -
+
+- A. Smoking
+- B. Industrial solvents
+- C. Exposure to thorotrast
+- D. Alcohol consumption
+
+<details><summary>Answer</summary>
+
+**D. Alcohol consumption** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q372 — Commonest site of peptic ulcer is
+
+Commonest site of peptic ulcer is :
+
+- A. 1st part of Duodenum
+- B. IInd part of duodenum
+- C. Distal 1/3 of stomach
+- D. Pylorus of the stomach
+
+<details><summary>Answer</summary>
+
+**A. 1st part of Duodenum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q373 — In case of polytrauma with multiple
+
+In case of polytrauma with multiple injuries to the chest, neck and abdomen, highest priority is given to
+
+- A. Stabilization of cervical spine
+- B. Staring of koids
+- C. Vasopressors
+- D. Assesing disability
+
+<details><summary>Answer</summary>
+
+**A. Stabilization of cervical spine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q374 — Thyroid nodule in a 65 year
+
+Thyroid nodule in a 65 year old male who is clinically euthyroid is most likely to be
+
+- A. Follicular adenoma
+- B. Follicular Carcinoma
+- C. Thyroid Cyst
+- D. Multinodular goiter
+
+<details><summary>Answer</summary>
+
+**A. Follicular adenoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q375 — In Subtotal Thyroidectomy, What is true
+
+In Subtotal Thyroidectomy, What is true
+
+- A. Removal of one lobe and isthmus
+- B. Removal of both lobes leaving behind 6-8 grams of tissue
+- C. Removal of entire thyroid with cervical lymphnodes
+- D. Removal of 1 lobe with isthmus and the second lobe partially
+
+<details><summary>Answer</summary>
+
+**B. Removal of both lobes leaving behind 6-8 grams of tissue** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q376 — Which of the following statements about
+
+Which of the following statements about Branchial cysts is true:
+
+- A. 50-70% are seen in lungs
+- B. Most common site is mediastinum
+- C. They are premalignant lesions
+- D. Infection is uncommon in Pulmonary bronchogenic cysts
+
+<details><summary>Answer</summary>
+
+**B. Most common site is mediastinum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q377 — Most common cause of goiter in
+
+Most common cause of goiter in India is
+
+- A. Diffuse Endemic Goitre
+- B. Papillary Carcinoma
+- C. Toxic Multinodular Goitre
+- D. Hashimoto's Thyroiditis
+
+<details><summary>Answer</summary>
+
+**A. Diffuse Endemic Goitre** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q378 — Which of the following is an
+
+Which of the following is an indication for thoracotomy in case of hemothorax ?
+
+- A. Persistant drainage of 250 ml/hr
+- B. Total output of 1000m1 of blood
+- C. Falling blood pressure
+- D. Shift of mediastimum to the opposite side
+
+<details><summary>Answer</summary>
+
+**A. Persistant drainage of 250 ml/hr** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q379 — year old male with chest trauma
+
+year old male with chest trauma presents with breathlessness, decreased respiratory sounds on the right side, hyperresonance on
+
+- A. Tension Pneumothorax
+- B. Cardiac Tamonade
+- C. Flail Chest
+- D. Myocardial Infarction
+
+<details><summary>Answer</summary>
+
+**A. Tension Pneumothorax** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q380 — Ainhum is seen in
+
+Ainhum is seen in ?
+
+- A. Base of great toe
+- B. Base of fingers tips
+- C. Base of toe
+- D. Ankle
+
+<details><summary>Answer</summary>
+
+**C. Base of toe** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q381 — Most common precipitant of Raynauds phenomenon
+
+Most common precipitant of Raynaud's phenomenon is
+
+- A. Exposure to cold
+- B. Exposure to heat
+- C. Psychosocial triggers
+- D. Exertion
+
+<details><summary>Answer</summary>
+
+**A. Exposure to cold** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q382 — Which is the main contraindication for
+
+Which is the main contraindication for a liver biopsy?
+
+- A. Thrombocytopenia
+- B. Hemangioma
+- C. Ascites
+- D. All
+
+<details><summary>Answer</summary>
+
+**D. All** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q383 — Spontaneous esophageal rupture is most common
+
+Spontaneous esophageal rupture is most common in
+
+- A. Below the diagphragmatic aperture
+- B. Pharyngoesophagal junction
+- C. Above the diagphragmatic aperture
+- D. At the crossing of the arch of aorta
+
+<details><summary>Answer</summary>
+
+**C. Above the diagphragmatic aperture** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q384 — True about Dentigerous cyst
+
+True about Dentigerous cyst:
+
+- A. Arises in relation to unerupted teeth
+- B. It most commonly encroaches maxillary antrum
+- C. Mandibular third molar is common site
+- D. Common in mandible
+
+<details><summary>Answer</summary>
+
+**C. Mandibular third molar is common site** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q385 — Which of the following is true
+
+Which of the following is true about menetrier's disease
+
+- A. It is premalignant condition
+- B. There is increased gastric acid secretion
+- C. Atrophied mucosal folds are seen
+- D. Affects the stomach and small intestines
+
+<details><summary>Answer</summary>
+
+**A. It is premalignant condition** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q386 — All are resected in whipples operation
+
+All are resected in whipples operation except ?
+
+- A. Duodenum
+- B. Head of pancreas
+- C. Neck of pancreas
+- D. Common bile duct
+
+<details><summary>Answer</summary>
+
+**C. Neck of pancreas** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q387 — CA Breast may locally spread to
+
+CA Breast may locally spread to all of the following muscles except
+
+- A. Pectoralis Major
+- B. Pectoralis Minor
+- C. Latissimus Dorsi
+- D. Serratus Anterior
+
+<details><summary>Answer</summary>
+
+**C. Latissimus Dorsi** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q388 — Which is the most common type
+
+Which is the most common type of male breast cancer?
+
+- A. Infiltrating Ductal Carcinoma
+- B. Lobular Carcinoma
+- C. Mucinous Carcinoma
+- D. Colloid Carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Infiltrating Ductal Carcinoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q389 — In Pateys mastectomy the step not
+
+In Patey's mastectomy the step not done is
+
+- A. Nipple and areola removed
+- B. Surrounding normal tissue of tumor is removed.
+- C. Pectoralis major removed
+- D. Pectoralis minor removed
+
+<details><summary>Answer</summary>
+
+**C. Pectoralis major removed** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q390 — year old woman comes with a
+
+year old woman comes with a non progressive mass in a left breast since 6 months. There are no associated symptoms. Examination shows a
+
+- A. Fibroadenoma
+- B. Cystasarcoma Phylloides
+- C. Scirrhous Carcinoma
+- D. Fibroadenosis
+
+<details><summary>Answer</summary>
+
+**A. Fibroadenoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q391 — Most common location of breast cancer
+
+Most common location of breast cancer is
+
+- A. Lower inner quadrant
+- B. Nipple
+- C. Upper inner quadrant
+- D. Upper outer quadrant
+
+<details><summary>Answer</summary>
+
+**D. Upper outer quadrant** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q392 — years old male with a knoen
+
+years old male with a knoen history of gall stones presents with chief complints of severe abdominal pain and elevated levels of serum lipase
+
+- A. Age
+- B. Serum LDH
+- C. Base deficit
+- D. Serum GGT
+
+<details><summary>Answer</summary>
+
+**D. Serum GGT** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q393 — All are true about carcinoma palate,
+
+All are true about carcinoma palate, except -
+
+- A. Slow growing
+- B. Bilateral lymphatic spread
+- C. Adenocarcinoma
+- D. Presents with pain
+
+<details><summary>Answer</summary>
+
+**D. Presents with pain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q394 — year old lawyer presents with pain
+
+year old lawyer presents with pain in the abdomen more so in the epigastric region that worsens with eating spicy food and is relieved by
+
+- A. Perforation
+- B. Bleeding
+- C. Gastric Outlet Obstruction
+- D. Splenic Vein Thrombosis
+
+<details><summary>Answer</summary>
+
+**D. Splenic Vein Thrombosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q395 — All of the following testicular tumours
+
+All of the following testicular tumours are germ cell tumours EXCEPT:
+
+- A. Seminoma
+- B. Teratoma
+- C. Choriocarcinoma
+- D. Sertoli cell tumour
+
+<details><summary>Answer</summary>
+
+**D. Sertoli cell tumour** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q396 — The Grayhack shunt is established between
+
+The Grayhack shunt is established between:
+
+- A. Corpora cavernosa and dorsal vein
+- B. Corpora cavernosa and saphenous vein
+- C. Corpora cavernosa and glans
+- D. Corpora cavernosa and corpora spongiosa
+
+<details><summary>Answer</summary>
+
+**B. Corpora cavernosa and saphenous vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q397 — Congenital hydrocele is best tt by
+
+Congenital hydrocele is best t/t by -
+
+- A. Eversion of sac
+- B. Excision of sac
+- C. Lords procedure
+- D. herniotomy
+
+<details><summary>Answer</summary>
+
+**D. herniotomy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q398 — The posterior urethra is best visualized
+
+The posterior urethra is best visualized by ?
+
+- A. Static cystogram
+- B. Retrograde urethrogram
+- C. Voiding cystogram
+- D. CT cystogram
+
+<details><summary>Answer</summary>
+
+**C. Voiding cystogram** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q399 — Early stage of non small cell
+
+Early stage of non small cell lung cancer can be treated by
+
+- A. Surgical resection
+- B. Surgical resection with adjuvant chemotherapy
+- C. Radiotherapy
+- D. Immunotherapy
+
+<details><summary>Answer</summary>
+
+**C. Radiotherapy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q400 — All of the following about Gastrointestinal
+
+All of the following about Gastrointestinal carcinoid tumors are true, Except:
+
+- A. Small intestine and appendix account for almost 60% of all
+- B. 5 year survival for carcinoid tumors is >60%
+- C. Rectum is spared
+- D. Appendicial carcinoids are more common in females than
+
+<details><summary>Answer</summary>
+
+**C. Rectum is spared** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q401 — Commonest infantile testicular tumour is
+
+Commonest infantile testicular tumour is ?
+
+- A. Seminoma
+- B. Teratoma
+- C. Yolk sac tumor
+- D. Dysgerminoma
+
+<details><summary>Answer</summary>
+
+**C. Yolk sac tumor** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q402 — Which of the following is an
+
+Which of the following is an absorbable suture
+
+- A. Polyglactin
+- B. Silk
+- C. Polyester
+- D. Ethilon
+
+<details><summary>Answer</summary>
+
+**A. Polyglactin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q403 — Polydiaxonone suture is normally absorbed in
+
+Polydiaxonone suture is normally absorbed in
+
+- A. 2 weeks
+- B. 4 weeks
+- C. 6 weeks
+- D. 6 months
+
+<details><summary>Answer</summary>
+
+**D. 6 months** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q404 — Most tissue reaction is seen with
+
+Most tissue reaction is seen with
+
+- A. Plain Catgut
+- B. Polydiaxonone
+- C. Silk
+- D. Chromic catgut
+
+<details><summary>Answer</summary>
+
+**C. Silk** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q405 — Trauma and Injury Severity Score (TRISS)
+
+Trauma and Injury Severity Score (TRISS) includes:
+
+- A. GCS + BP + RR
+- B. RTS + ISS + Age
+- C. RTS + ISS + GCS
+- D. RTS + GCS + Age
+
+<details><summary>Answer</summary>
+
+**B. RTS + ISS + Age** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q406 — Which of the following is most
+
+Which of the following is most malignant tumor?
+
+- A. Glioblastoma Multiforme
+- B. Meningioma
+- C. Osteochondroma
+- D. Giant cell tumor
+
+<details><summary>Answer</summary>
+
+**A. Glioblastoma Multiforme** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q407 — Epulis arises from -
+
+Epulis arises from -
+
+- A. Enamel
+- B. Root of teeth
+- C. Gingiva
+- D. Pulp
+
+<details><summary>Answer</summary>
+
+**C. Gingiva** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q408 — IQ in mild mental retardation is
+
+IQ in mild mental retardation is
+
+- A. 50-70
+- B. 35-49
+- C. 20-34
+- D. < 20
+
+<details><summary>Answer</summary>
+
+**A. 50-70** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q409 — What is the IQ of a
+
+What is the IQ of a borderline deficiency?
+
+- A. 70 - 80
+- B. 50 - 69
+- C. 20 - 49
+- D. 0 - 20
+
+<details><summary>Answer</summary>
+
+**A. 70 - 80** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q410 — According to Wechsler intelligence scale scoring,
+
+According to Wechsler intelligence scale scoring, average IQ of a normal child is:
+
+- A. 50
+- B. 75
+- C. 90
+- D. 111
+
+<details><summary>Answer</summary>
+
+**C. 90** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q411 — Milestones at 1 year of age
+
+Milestones at 1 year of age are all except
+
+- A. Playing a simple ball game
+- B. Using 2 words that are meaningful
+- C. Spontaneous scribbling
+- D. Walking upstairs 1 step at a time
+
+<details><summary>Answer</summary>
+
+**D. Walking upstairs 1 step at a time** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q412 — Stranger anxiety develops at
+
+Stranger anxiety develops at
+
+- A. 3 months
+- B. 4 months
+- C. 7 months
+- D. 11 months
+
+<details><summary>Answer</summary>
+
+**C. 7 months** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q413 — What is the average weight gain
+
+What is the average weight gain of the neonate per day
+
+- A. 5-10 g
+- B. 25-30 g
+- C. 50-60g
+- D. 100-150g
+
+<details><summary>Answer</summary>
+
+**B. 25-30 g** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q414 — Newborn loses how much weight in
+
+Newborn loses how much weight in first week?
+
+- A. 5 -10%
+- B. 1-2%
+- C. 10-20%
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. 5 -10%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q415 — What is the cardiothoracic ratio in
+
+What is the cardiothoracic ratio in children is -
+
+- A. 30-35%
+- B. 40-45%
+- C. 50-55%
+- D. 60-65%
+
+<details><summary>Answer</summary>
+
+**C. 50-55%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q416 — Most common cause of pneumonia in
+
+Most common cause of pneumonia in early onset sepsis a neonate is
+
+- A. Pnemococcus
+- B. S. Pyogens
+- C. E Coli
+- D. S. Aureus
+
+<details><summary>Answer</summary>
+
+**C. E Coli** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q417 — When does crying stop in cyanotic
+
+When does crying stop in cyanotic spells ?
+
+- A. Forced Expiration
+- B. Forced inspiration
+- C. Mid inspiration
+- D. Crying is continuous
+
+<details><summary>Answer</summary>
+
+**A. Forced Expiration** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q418 — 3 month old child with indrawing
+
+3 month old child with indrawing chest with respitratory rate 52/min classified as
+
+- A. SIRS
+- B. Respiratory distress
+- C. Tachypnoea
+- D. ARDS
+
+<details><summary>Answer</summary>
+
+**B. Respiratory distress** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q419 — Chronic lung disease in a infancy
+
+Chronic lung disease in a infancy is defined as
+
+- A. Need for supplemental oxygen at 36 weeks after conception
+- B. Tachypnoea > 50 breaths/ min within 1 week of birth
+- C. Presence of bilateral infiltrates on chest Xray for 2 weeks
+- D. Reticulogranular pattern on chest Xray for 6 weeks
+
+<details><summary>Answer</summary>
+
+**A. Need for supplemental oxygen at 36 weeks after conception** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q420 — What is the shape of caecum
+
+What is the shape of caecum in the newborn ?
+
+- A. Ovoid
+- B. Trapezoid
+- C. Globular
+- D. Conical
+
+<details><summary>Answer</summary>
+
+**D. Conical** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q421 — Most common complication of Meckels Diverticulum
+
+Most common complication of Meckel's Diverticulum lit children
+
+- A. Abdominal pain
+- B. Peptic ulcers
+- C. Intestinal obstruction
+- D. Painless Rectal bleeding
+
+<details><summary>Answer</summary>
+
+**D. Painless Rectal bleeding** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q422 — Which of the following is a
+
+Which of the following is a X linked metabolic disorder?
+
+- A. Fabry's disease
+- B. Sandoff s disease
+- C. Pompe disease
+- D. Gaucher disease
+
+<details><summary>Answer</summary>
+
+**A. Fabry's disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q423 — Testes are not palpable in
+
+Testes are not palpable in
+
+- A. SRY deletion
+- B. DAX 1 deletion
+- C. WNT- 4 gene mutation
+- D. RSPO-1 gene mutation
+
+<details><summary>Answer</summary>
+
+**A. SRY deletion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q424 — 1 year old child with multiple
+
+1 year old child with multiple episodes of diarrhea presents with sunken dry eyes, depressed fontanelles, very slow skin pinch. The amount of fluid to be
+
+- A. 600 ml
+- B. 900 ml
+- C. 1200 ml
+- D. 1500 ml
+
+<details><summary>Answer</summary>
+
+**B. 900 ml** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q425 — Hutchisons Triad is seen in
+
+Hutchison's Triad is seen in
+
+- A. Congenital Syphilis
+- B. Tertiary syphilis
+- C. Secondary Syphilis
+- D. Primary syphilis
+
+<details><summary>Answer</summary>
+
+**A. Congenital Syphilis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q426 — Hydrocephalus is best detected antenately by
+
+Hydrocephalus is best detected antenately by :
+
+- A. X-ray abdomen
+- B. Amniocentesis
+- C. Clinical examination
+- D. Ultrasonography
+
+<details><summary>Answer</summary>
+
+**D. Ultrasonography** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q427 — Which of the following is not
+
+Which of the following is not a feature of Juvenile Idiopathic Arthritis?
+
+- A. Rheumatoid nodules
+- B. Spikes of high fever
+- C. Uveitis
+- D. Raynaud's phenomenon
+
+<details><summary>Answer</summary>
+
+**D. Raynaud's phenomenon** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q428 — Eyelid papules and hoarse cry in
+
+Eyelid papules and hoarse cry in a child is suggestive of -
+
+- A. Congenital syphilis
+- B. Croup
+- C. Lipoid proteinosis
+- D. Acrodermatitis enterohepatica
+
+<details><summary>Answer</summary>
+
+**C. Lipoid proteinosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q429 — Which part of the spine is
+
+Which part of the spine is most commonly affected in Rheumatoid arthritis:
+
+- A. Cervical
+- B. Lumbar
+- C. Thoracic
+- D. Sacral
+
+<details><summary>Answer</summary>
+
+**A. Cervical** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q430 — Hammer toe deformity is seen in
+
+Hammer toe deformity is seen in -
+
+- A. Rheumatoid arthritis
+- B. Fracture distal phalanx ofgreat toe
+- C. Bunion
+- D. Osteochondritis
+
+<details><summary>Answer</summary>
+
+**A. Rheumatoid arthritis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q431 — Among various types of psoriatic arthrirtis,
+
+Among various types of psoriatic arthrirtis, which variety is most common ?
+
+- A. Classic
+- B. Oligoarticular
+- C. Rheumatoid
+- D. Spondylitis
+
+<details><summary>Answer</summary>
+
+**B. Oligoarticular** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q432 — On CT chest halo sign is
+
+On CT chest 'halo sign' is noted in
+
+- A. Pulmonary hydatid cyst
+- B. Invasive pulmonary aspergilossis
+- C. Round pneumonia
+- D. Bronchiectasis
+
+<details><summary>Answer</summary>
+
+**B. Invasive pulmonary aspergilossis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q433 — Caudate lobe of the liver - *(2016)*
+
+Caudate lobe of the liver - True is?
+
+- A. It receives blood supply from both right and left hepatic arteries
+- B. It is Segment II of the liver
+- C. It is situated on the anterior surface of liver
+- D. It lies between the aorta and ligamentum venosum
+
+<details><summary>Answer</summary>
+
+**A. It receives blood supply from both right and left hepatic arteries** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q434 — Superior border of epiploic foramen formed *(2016)*
+
+Superior border of epiploic foramen formed by -
+
+- A. Caudate lobe
+- B. Hepatic artery
+- C. Bile duct
+- D. IVC
+
+<details><summary>Answer</summary>
+
+**A. Caudate lobe** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q435 — Posterior perforation of stomach collection of *(2016)*
+
+Posterior perforation of stomach, collection of contents occurs in which pouch ?
+
+- A. Greater sac
+- B. Left subhepatic and hepatorenal spaces [pouch of Morrison]
+- C. Omental bursa
+- D. Right subphrenic space
+
+<details><summary>Answer</summary>
+
+**C. Omental bursa** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q436 — Glucose transporter affected in diabetes mellitus *(2016)*
+
+Glucose transporter affected in diabetes mellitus?
+
+- A. GLUT-2
+- B. GLUT-5
+- C. GLUT-4
+- D. SGLT-2
+
+<details><summary>Answer</summary>
+
+**C. GLUT-4** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q437 — of the following is true about *(2016)*
+
+Which of the following is true about properties of VLDL/LDL-
+
+- A. In electrophoresis, VLDL migrates more cathodal than LDL
+- B. LDL is formed from liver
+- C. LDL is formed from Chylomicron
+- D. VLDL remnants reach extrahepatic tissues
+
+<details><summary>Answer</summary>
+
+**B. LDL is formed from liver** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q438 — Anti Jo-1 antibodies are a feature *(2016)*
+
+Anti Jo-1 antibodies are a feature associated with?
+
+- A. SLE
+- B. Systemic sclerosis
+- C. Polymyositis
+- D. Rheumatoid arthritis
+
+<details><summary>Answer</summary>
+
+**C. Polymyositis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q439 — HLA marker associated with diabetes mellitus *(2016)*
+
+HLA marker associated with diabetes mellitus type 1 is -
+
+- A. B 7
+- B. DR 4
+- C. DQ 3
+- D. DQ 4
+
+<details><summary>Answer</summary>
+
+**B. DR 4** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q440 — Characteristic histopathological feature of rheuma *(2016)*
+
+Characteristic histopathological feature of rheumatic heart failure is -
+
+- A. Aschoff's nodule
+- B. Mc Callumn patch
+- C. Bread & butter pericarditis
+- D. Shaggy vegetation
+
+<details><summary>Answer</summary>
+
+**A. Aschoff's nodule** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q441 — frequent time period between myocardial infarction *(2016)*
+
+Most frequent time period between myocardial infarction and subsequent myocardial rupture is -
+
+- A. 3-4 days
+- B. 4-8 days
+- C. 1-3 weeks
+- D. 3-6 weeks
+
+<details><summary>Answer</summary>
+
+**A. 3-4 days** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q442 — Gamma gandy bodies are seen in *(2016)*
+
+Gamma gandy bodies are seen in all except ?
+
+- A. Cirrhosis with portal hypertension
+- B. Chronic myeloid leukemia
+- C. Sickle cell anemia
+- D. Thalassemia
+
+<details><summary>Answer</summary>
+
+**D. Thalassemia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q443 — Terminal stage of pneumonia is *(2016)*
+
+Terminal stage of pneumonia is
+
+- A. Congestion
+- B. Red hepatization
+- C. Gray hepatization
+- D. Resolution
+
+<details><summary>Answer</summary>
+
+**D. Resolution** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q444 — Pink puffers are associated with *(2016)*
+
+Pink puffers are associated with?
+
+- A. Emphysema
+- B. Chronic bronchitis
+- C. Pneumonia
+- D. Bronchiectasis
+
+<details><summary>Answer</summary>
+
+**A. Emphysema** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q445 — zonal necrosis most commonly affected in *(2016)*
+
+The zonal necrosis most commonly affected in chronic passive hepatic congestion is?
+
+- A. Central
+- B. Peripheral
+- C. Mid zonal
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Central** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q446 — Contraindication for the triptans is which *(2016)*
+
+Contraindication for the triptans is which of the following?
+
+- A. Ischemic heart disease
+- B. Epilepsy
+- C. Hepatic failure
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q447 — of the following are uses of *(2016)*
+
+All of the following are uses of octreotide except :?
+
+- A. Secretory diarrhea
+- B. Acromegaly
+- C. Hepatic encephalopathy
+- D. Bleeding esophageal varices
+
+<details><summary>Answer</summary>
+
+**C. Hepatic encephalopathy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q448 — Temazepam is superior to diazepam in *(2016)*
+
+Temazepam is superior to diazepam in ?
+
+- A. Longer duration of action
+- B. Safely used in liver failure
+- C. No active metabolite required.
+- D. High hepatic metabolism
+
+<details><summary>Answer</summary>
+
+**C. No active metabolite required.** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q449 — True about anti - Parkinson drug *(2016)*
+
+True about anti - Parkinson drug levodopa is :?
+
+- A. Levodopa is an active metabolite of dopamine.
+- B. About 50% of administered levodopa is peripherally converted
+- C. About 2% of the administered levodopa crosses blood brain
+- D. Levodopa has no role in hepatic coma.
+
+<details><summary>Answer</summary>
+
+**C. About 2% of the administered levodopa crosses blood brain** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q450 — Antiboiotic of choice for severe pneumonia *(2016)*
+
+Antiboiotic of choice for severe pneumonia in 1 year all child?
+
+- A. Cotrimoxazole
+- B. Ciprofloxacin
+- C. Benzyl penicillin
+- D. Tetracycline
+
+<details><summary>Answer</summary>
+
+**C. Benzyl penicillin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q451 — Phacodonesis is seen in all except *(2016)*
+
+Phacodonesis is seen in all except
+
+- A. Traumatic injury to the eye
+- B. Hypermature cataract
+- C. Pseudoexfoliation
+- D. Diabetes mellitus
+
+<details><summary>Answer</summary>
+
+**D. Diabetes mellitus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q452 — Enophthalmos is seen in *(2016)*
+
+Enophthalmos is seen in ?
+
+- A. Blow out fracture of orbit wall
+- B. Hyperthyroidism
+- C. Radiation Injuries
+- D. Diabetes mellitus
+
+<details><summary>Answer</summary>
+
+**A. Blow out fracture of orbit wall** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q453 — Reciprocal changes in ECG in patients *(2016)*
+
+Reciprocal changes in ECG in patients with inferior wall myocardial infarction are seen in which leads
+
+- A. I
+- B. II
+- C. III
+- D. aVF
+
+<details><summary>Answer</summary>
+
+**A. I** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q454 — are features of aortic stenosis except *(2016)*
+
+All are features of aortic stenosis except
+
+- A. Congestive heart failure due to systolic or diastolic dysfunction
+- B. Presence of ejection systolic murmur
+- C. Presence of pulsus tardus
+- D. Pressure in the aorta is the same as in left ventricle
+
+<details><summary>Answer</summary>
+
+**D. Pressure in the aorta is the same as in left ventricle** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q455 — Pharmacological stress during stress myocardial ra *(2016)*
+
+Pharmacological stress during stress myocardial radionucleotide perfusion imaging can be induced using
+
+- A. Dipyridamole
+- B. Adenosine
+- C. Dobutamine
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q456 — Tools which objectively asses the risk *(2016)*
+
+Tool/s which objectively asses the risk of adverse outcomes in a patient with pneumonia is/are
+
+- A. Pneumonia severity index [PSI]
+- B. CURB - 65 criteria
+- C. Apachee Score
+- D. Glasgow scale
+
+<details><summary>Answer</summary>
+
+**D. Glasgow scale** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q457 — In ICU setting patients suffering from *(2016)*
+
+In ICU setting patients suffering from which respiratory pathology are at risk of CO2 narcosis?
+
+- A. Pneumonia
+- B. Asthma
+- C. Emphysema
+- D. Bronchieactasis
+
+<details><summary>Answer</summary>
+
+**C. Emphysema** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q458 — Inspiratory squeaks are the physical examination *(2016)*
+
+Inspiratory squeaks are the physical examination finding of
+
+- A. Bronchiolitis
+- B. Pulmonary hypertension
+- C. Pneumonia
+- D. Pulmonary edema
+
+<details><summary>Answer</summary>
+
+**A. Bronchiolitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q459 — patient presents with blunt trauma to *(2016)*
+
+A patient presents with blunt trauma to abdomen. On investigations patient is found to have hepatic injury which has
+
+- A. Grade I
+- B. Grade II
+- C. Grade III
+- D. Grade IV
+
+<details><summary>Answer</summary>
+
+**C. Grade III** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q460 — Specific antibody associated with primary biliary *(2016)*
+
+Specific antibody associated with primary biliary cirrhosis is:
+
+- A. Anti-myosin
+- B. Anti-nuclear
+- C. Anti-mitochondrial
+- D. Anti-endomysial
+
+<details><summary>Answer</summary>
+
+**C. Anti-mitochondrial** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q461 — of the following is not a *(2016)*
+
+Which of the following is not a cause of secondary Idiopathic thrombocytopenic purpura?
+
+- A. Systemic lupus erythmatosus
+- B. Hepatitis C infection
+- C. Rheumatoid arthritis
+- D. HIV infection
+
+<details><summary>Answer</summary>
+
+**C. Rheumatoid arthritis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q462 — HbA1C criteria for a patient to *(2016)*
+
+HbA1C criteria for a patient to be diagnosed with diabetes mellitus is
+
+- A. >4.5%
+- B. >5.5%
+- C. >6.5%
+- D. >7.5%
+
+<details><summary>Answer</summary>
+
+**C. >6.5%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q463 — Extrahepatic Manifestations of Hepatitis C include *(2016)*
+
+Extrahepatic Manifestations of Hepatitis C include all of the following Except:
+
+- A. Lichen Planus
+- B. Celiac Disease
+- C. Glomerulonephritis
+- D. Cryoglobulinemia
+
+<details><summary>Answer</summary>
+
+**B. Celiac Disease** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q464 — Following is not true about epinephrine *(2016)*
+
+Following is not true about epinephrine
+
+- A. Has potent alpha and beta stimulating properties
+- B. It improves coronary perfusion pressure and myocardial blood
+- C. Increases cerebral blood flow during CPR
+- D. Routine use of high dose epinephrine during resuscitation is
+
+<details><summary>Answer</summary>
+
+**D. Routine use of high dose epinephrine during resuscitation is** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q465 — Percentage of renal stones that are *(2016)*
+
+Percentage of renal stones that are radio-opaque
+
+- A. 20
+- B. 40
+- C. 60
+- D. 80
+
+<details><summary>Answer</summary>
+
+**D. 80** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q466 — Indications of thoracotomy in blunt chest *(2016)*
+
+Indications of thoracotomy in blunt chest trauma include all except
+
+- A. Initial drainage of > 500 ml of fresh blood
+- B. Rupture of bronchous
+- C. Continued bleeding of > 200 ml/ hr for >/= 3hrs
+- D. Unsuccesful attempt at drainage of cardiac tamponade
+
+<details><summary>Answer</summary>
+
+**A. Initial drainage of > 500 ml of fresh blood** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q467 — Embolisation of tumors is done using *(2016)*
+
+Embolisation of tumors is done using
+
+- A. Polyvinyl alcohol
+- B. Autologous blood clots
+- C. Absolute ethanol
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q468 — Definitive surgery is a part of *(2016)*
+
+Definitive surgery is a part of which stage of damage control surgery?
+
+- A. I
+- B. II
+- C. III
+- D. IV
+
+<details><summary>Answer</summary>
+
+**D. IV** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q469 — Intracranial pressure is not raised during *(2016)*
+
+Intracranial pressure is not raised during
+
+- A. Hyperventilation
+- B. Status epilepticus
+- C. Head injury
+- D. Subdural hematoma
+
+<details><summary>Answer</summary>
+
+**A. Hyperventilation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q470 — Immediate physiological response to sudden decreas *(2016)*
+
+Immediate physiological response to sudden decrease in blood volume is
+
+- A. Release of epinephrine
+- B. Shift of fluid from intracellular to interstitial compartment
+- C. Release of angiotensin
+- D. Release of thyroxine
+
+<details><summary>Answer</summary>
+
+**A. Release of epinephrine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q471 — of the following are indications for *(2016)*
+
+All of the following are indications for bariatric surgery except -
+
+- A. BMI>40 kg/m2
+- B. BMI> 35 kg/m2 with atleast one comorbidity
+- C. BMI>30 with long standing diabetes
+- D. Failure of other methods of weight loss
+
+<details><summary>Answer</summary>
+
+**C. BMI>30 with long standing diabetes** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q472 — Slip sign is seen in *(2016)*
+
+Slip sign is seen in
+
+- A. Lipoma
+- B. Desmoid tumor
+- C. Sebaceous cyst
+- D. Hernia
+
+<details><summary>Answer</summary>
+
+**A. Lipoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q473 — For reimplantation digits are stored in *(2016)*
+
+For reimplantation digits are stored in
+
+- A. Ice packs
+- B. Deep freeze
+- C. Cold saline
+- D. Plastic bags with ice
+
+<details><summary>Answer</summary>
+
+**D. Plastic bags with ice** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q474 — of the following suture has max *(2016)*
+
+Which of the following suture has max tensile strength and minimum tissue reaction
+
+- A. Poliglecaprone
+- B. Polypropylene
+- C. Polygalctine
+- D. Polydioxanone
+
+<details><summary>Answer</summary>
+
+**B. Polypropylene** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q475 — of the following histological type of *(2016)*
+
+Which of the following histological type of breast carcinoma worst prognosis?
+
+- A. Tubular
+- B. Colloid
+- C. Papillary
+- D. Scirrhous
+
+<details><summary>Answer</summary>
+
+**D. Scirrhous** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q476 — Best prognosis for carcinoma breast is *(2016)*
+
+Best prognosis for carcinoma breast is seen with which of the following?
+
+- A. <1cm size, nodes -ye , ER/ PR +ve, her 2/ neu -ye
+- B. <1cm size, nodes -ye , ER/ PR -ye, her 2/ neu +ve
+- C. <2cm size, nodes -ye , ER/ PR +ve, her 2/ neu -ye
+- D. <2cm size, nodes -ye , ER/ PR -ye, her 2/ neu +ve
+
+<details><summary>Answer</summary>
+
+**A. <1cm size, nodes -ye , ER/ PR +ve, her 2/ neu -ye** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q477 — Favorable prognosis with  90 5 *(2016)*
+
+Favorable prognosis with > 90% 5 year survival rate for carcinoma breast is seen in which of the following?
+
+- A. Screen detected ductal carcinoma in situ
+- B. Screen detected lobular carcinoma in situ
+- C. Node negative tumor with favourable histology
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Screen detected ductal carcinoma in situ** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q478 — female undergone surgery for left breast *(2016)*
+
+A female undergone surgery for left breast cancer 3 yrs back now developed blue nodule on same side
+
+- A. Lymphangiosarcoma
+- B. Recurrence
+- C. Hemangioma
+- D. Cellulitis
+
+<details><summary>Answer</summary>
+
+**A. Lymphangiosarcoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q479 — percentage of reduction in dying from *(2016)*
+
+What percentage of reduction in dying from breast cancer can be achieved with annual screening after age of 50 yrs with mammography?
+
+- A. 15- 20 %
+- B. 20- 25 %
+- C. 25- 30 %
+- D. 30- 35 %
+
+<details><summary>Answer</summary>
+
+**C. 25- 30 %** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q480 — of the following is not true *(2016)*
+
+Which of the following is not true about Pateys mastectomy
+
+- A. It is also called modified radical mastectomy
+- B. Intercosto brachial nerves are usually preserved
+- C. All lymph nodes of axilla are removed
+- D. Pectoralis muscle is either divided or retracted
+
+<details><summary>Answer</summary>
+
+**B. Intercosto brachial nerves are usually preserved** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q481 — Parathyroid adenomas account for how much *(2016)*
+
+Parathyroid adenomas account for how much percentage of patients with primary hyperpara-thyroidism?
+
+- A. 50%
+- B. 60%
+- C. 70%
+- D. 80%
+
+<details><summary>Answer</summary>
+
+**D. 80%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q482 — MC site for thyroglossal cyst is *(2016)*
+
+MC site for thyroglossal cyst is:
+
+- A. Beneath the foramen caecum
+- B. Floor of mouth
+- C. Above hyoid
+- D. Subhyoid
+
+<details><summary>Answer</summary>
+
+**D. Subhyoid** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q483 — Investigation of choice for hepatic metastasis *(2016)*
+
+Investigation of choice for hepatic metastasis form stomach cancer is
+
+- A. MRI
+- B. CECT
+- C. USG
+- D. HIDA
+
+<details><summary>Answer</summary>
+
+**B. CECT** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q484 — Prognosis of surgery for liver secondaries *(2016)*
+
+Prognosis of surgery for liver secondaries is best for which cancer?
+
+- A. Colorectal
+- B. Neuroendocrine
+- C. Genitourinary
+- D. Esophageal
+
+<details><summary>Answer</summary>
+
+**C. Genitourinary** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q485 — Milan criteria is for *(2016)*
+
+Milan criteria is for
+
+- A. Selecting patients for Liver transplantation
+- B. Selecting patients for Lung transplantation
+- C. Selecting patients for Kidney transplantation
+- D. Selecting patients for heart trnasplantation
+
+<details><summary>Answer</summary>
+
+**A. Selecting patients for Liver transplantation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q486 — Gall stone pain is referred to *(2016)*
+
+The Gall stone pain is referred to the shoulder through which of the following nerves:
+
+- A. C2-C8
+- B. T1-T4
+- C. T8-T12
+- D. C3-05
+
+<details><summary>Answer</summary>
+
+**D. C3-05** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q487 — 3cm stone in cystic duct near *(2016)*
+
+3cm stone in cystic duct near the ampulla of vater, The Method of removal is a
+
+- A. Transduodenal approach
+- B. Supraduodenal approach
+- C. Lithotripsy
+- D. Chemical dissolution
+
+<details><summary>Answer</summary>
+
+**A. Transduodenal approach** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q488 — How much percentage of the blunt *(2016)*
+
+How much percentage of the blunt trauma injuries to spleen in adults are currently managed non operatively?
+
+- A. 30%
+- B. 50%
+- C. 80%
+- D. 90%
+
+<details><summary>Answer</summary>
+
+**C. 80%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q489 — Following is not true about traction *(2016)*
+
+Following is not true about traction diverticulum of esophagus -
+
+- A. Produced due to the extraluminal forces
+- B. It is not a true diverticulum
+- C. The outpouching is usually small and conical
+- D. May develop tracheoesophageal fistula
+
+<details><summary>Answer</summary>
+
+**B. It is not a true diverticulum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q490 — of the following is false about *(2016)*
+
+Which of the following is false about zenkers diverticulum
+
+- A. Most patients are above 50 years of age
+- B. It is the most common esophageal diverticulum
+- C. Mucosal outpouching through the killians triangle
+- D. Cervical webs can be associated with zenkers diverticulum in
+
+<details><summary>Answer</summary>
+
+**D. Cervical webs can be associated with zenkers diverticulum in** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q491 — Dohlman procedure for- *(2016)*
+
+Dohlman procedure for-
+
+- A. Meckel’s diverticulum
+- B. Zenker’s diverticulum
+- C. Dermatomyositis
+- D. Menetrier’s disease
+
+<details><summary>Answer</summary>
+
+**B. Zenker’s diverticulum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q492 — True about esophageal carcinoma is *(2016)*
+
+True about esophageal carcinoma is
+
+- A. More lethal than the colorectal cancers
+- B. These show an increasing trend towards the number of
+- C. Smaller size esophageal lesions have better survival
+- D. Asymptomatic benign lesions should be excised immediately
+
+<details><summary>Answer</summary>
+
+**A. More lethal than the colorectal cancers** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q493 — Downhill esophagus varices develop as *(2016)*
+
+Downhill esophagus varices develop as
+
+- A. Portal vein
+- B. Hepatic vein
+- C. Superior vena cava
+- D. Inferior vena cava
+
+<details><summary>Answer</summary>
+
+**C. Superior vena cava** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q494 — common impacted foreign body in esophagus *(2016)*
+
+Most common impacted foreign body in esophagus in children is
+
+- A. Coin
+- B. Food product
+- C. Krayon
+- D. Marble
+
+<details><summary>Answer</summary>
+
+**A. Coin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q495 — Single drug regimen for carcinoma esophagus *(2016)*
+
+Single drug regimen for carcinoma esophagus which shows significant decrease in tumor size in 15 - 20% of patients incorporates which drug?
+
+- A. Cisplatin
+- B. Bleomycin
+- C. Doxorubicin
+- D. Vincristine
+
+<details><summary>Answer</summary>
+
+**A. Cisplatin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q496 — common type of Hiatal hernia is *(2016)*
+
+Most common type of Hiatal hernia is
+
+- A. Sliding
+- B. Rolling
+- C. Mixed
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Sliding** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q497 — of the following tumors most commonly *(2016)*
+
+Which of the following tumors most commonly presents with upper gastrointestinal bleeding?
+
+- A. Primary gastric cancer
+- B. Esophageal carcinoma
+- C. Metastases to stomach
+- D. Hepatic adenocarcinoma
+
+<details><summary>Answer</summary>
+
+**A. Primary gastric cancer** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q498 — of the following is true about *(2016)*
+
+Which of the following is true about gastric ulcer but not the duodenal ulcer?
+
+- A. Pain rarely occurs at night
+- B. Melena is more common than hematemesis
+- C. Usually occurs in 40 - 50 yrs of age
+- D. Pain is relieved with ingestion of food
+
+<details><summary>Answer</summary>
+
+**A. Pain rarely occurs at night** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q499 — most commonly practiced operative procedure for *(2016)*
+
+The most commonly practiced operative procedure for a perforated duodenal ulcer is -
+
+- A. Vagotomy and pyloroplasty
+- B. Vagotomy and antrectomy
+- C. Vagotomy and perforation closure
+- D. Graham's omentum patch repair
+
+<details><summary>Answer</summary>
+
+**D. Graham's omentum patch repair** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q500 — Not true about highly selective vagotomy *(2016)*
+
+Not true about highly selective vagotomy -
+
+- A. It is also known parietal cell vagotomy
+- B. Nerves of Latarjet are sacrifised
+- C. Recurrence rates are higher than vagotomy and drainage and
+- D. Entire gastric reservoir capacity is preserved
+
+<details><summary>Answer</summary>
+
+**B. Nerves of Latarjet are sacrifised** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q501 — features of crohns disease are all *(2016)*
+
+The features of crohns disease are all except ?
+
+- A. Lymphoid hyperplasia
+- B. Skin lesion
+- C. Transmural involvement
+- D. Crypt Abscess
+
+<details><summary>Answer</summary>
+
+**A. Lymphoid hyperplasia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q502 — Colonoscopy is are not indicated in *(2016)*
+
+Colonoscopy is are not indicated in -
+
+- A. MEN 2B
+- B. FAP
+- C. HNPCC
+- D. Cornkite canada syndrome
+
+<details><summary>Answer</summary>
+
+**A. MEN 2B** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q503 — Exception to Goodsals rule is considered *(2016)*
+
+Exception to Goodsals rule is considered when the anterior external opening is more situated more than cms from anal margin -
+
+- A. 2
+- B. 3
+- C. 4
+- D. 5
+
+<details><summary>Answer</summary>
+
+**B. 3** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q504 — Pantaloon hernia is also called as *(2016)*
+
+Pantaloon hernia is also called as -
+
+- A. Dual hernia
+- B. Saddle bag hernia
+- C. Bochdaleks hernia
+- D. Retrosternal hernia
+
+<details><summary>Answer</summary>
+
+**B. Saddle bag hernia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q505 — of the following famous personalities had *(2016)*
+
+Which of the following famous personalities had hydrocele associated with hernia, which proved to be fatal?
+
+- A. Edward Gibbon
+- B. Thomas Edison
+- C. Miley Wright
+- D. Neil Armstrong
+
+<details><summary>Answer</summary>
+
+**A. Edward Gibbon** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q506 — Physiological adhesions between foreskin and glans *(2016)*
+
+Physiological adhesions between foreskin and glans penis persist until years of age -
+
+- A. 4
+- B. 5
+- C. 6
+- D. 7
+
+<details><summary>Answer</summary>
+
+**C. 6** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q507 — common site of penile carcinoma is *(2016)*
+
+Most common site of penile carcinoma is -
+
+- A. Glans
+- B. Prepuce
+- C. Shaft
+- D. Coronal sulcus
+
+<details><summary>Answer</summary>
+
+**A. Glans** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q508 — Traditionally scrotal carcinoma is associated with *(2016)*
+
+Traditionally scrotal carcinoma is associated with which of the following occupations?
+
+- A. Chimney sweeps
+- B. Mule spinners
+- C. Coal worker
+- D. Wood workers
+
+<details><summary>Answer</summary>
+
+**A. Chimney sweeps** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q509 — is the main hazard of ectopic *(2016)*
+
+What is the main hazard of ectopic testis -
+
+- A. Impotence
+- B. Carcinoma development
+- C. Liable to injury
+- D. Hernia development
+
+<details><summary>Answer</summary>
+
+**C. Liable to injury** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q510 — 40 years old male complains of *(2016)*
+
+40 years old male complains of loin pain since 1 month. Patient's complaint of pain has severely increased over last 2 hours and pain now radiates from loin and to groin and anterior thigh and
+
+- A. Bladder calculus
+- B. Ureteric calculus
+- C. Vesico ureteric reflux
+- D. Hydronephrosis
+
+<details><summary>Answer</summary>
+
+**B. Ureteric calculus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q511 — Harder renal stone having less satisfactory *(2016)*
+
+Harder renal stone having less satisfactory results with ECWL is -
+
+- A. Oxalate stone
+- B. Phosphate stone
+- C. Urate stone
+- D. Cystine stone
+
+<details><summary>Answer</summary>
+
+**D. Cystine stone** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q512 — Radical nephrectomy involves resection of the *(2016)*
+
+Radical nephrectomy involves resection of the following except -
+
+- A. Gerotas fascia
+- B. Ipsilateral adrenal gland
+- C. Surrounding hilar lymph nodes
+- D. Proximal para-aortic lymph nodes
+
+<details><summary>Answer</summary>
+
+**D. Proximal para-aortic lymph nodes** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q513 — Normal urine flow rate in healthy *(2016)*
+
+Normal urine flow rate in healthy adults in urodynamic study is -
+
+- A. 10 ml/sec
+- B. 20 ml/sec
+- C. 25 ml/sec
+- D. 5 ml/sec
+
+<details><summary>Answer</summary>
+
+**B. 20 ml/sec** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q514 — Dermoepidermal burn is what degree of *(2016)*
+
+Dermoepidermal burn is what degree of burn -
+
+- A. I
+- B. II
+- C. III
+- D. IV
+
+<details><summary>Answer</summary>
+
+**B. II** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q515 — Revascularization and angiogenesis process after s *(2016)*
+
+Revascularization and angiogenesis process after skin grafting is seen after how many days after the procedure?
+
+- A. 4
+- B. 5
+- C. 6
+- D. 7
+
+<details><summary>Answer</summary>
+
+**B. 5** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q516 — most commonly used myocutaneous pedicle graft *(2016)*
+
+The most commonly used myocutaneous pedicle graft for pelvis surgeries contains muscle segments from -
+
+- A. Rectus abdominis muscle
+- B. External oblique muscle
+- C. Internal oblique muscle
+- D. Transversus abdominis muscle
+
+<details><summary>Answer</summary>
+
+**A. Rectus abdominis muscle** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q517 — Kernahens striped Y classification Main reference *(2016)*
+
+Kernahen's striped 'Y' classification, Main reference point is -
+
+- A. Incisive foramen
+- B. Soft palate
+- C. Hard palate
+- D. Third molar
+
+<details><summary>Answer</summary>
+
+**A. Incisive foramen** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q518 — is the meaning of the French *(2016)*
+
+What is the meaning of the French word "Debridement"
+
+- A. Unleash or Cut Open
+- B. Debulk
+- C. Sanitize
+- D. Rehydration
+
+<details><summary>Answer</summary>
+
+**A. Unleash or Cut Open** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q519 — Cardinal rule for dressing of pressure *(2016)*
+
+Cardinal rule for dressing of pressure ulcer is to -
+
+- A. Keep ulcer tissue dry and surrounding intact tissue dry
+- B. Keep ulcer tissue dry and surrounding intact tissue moist
+- C. Keep ulcer tissue moist and surrounding intact tissue dry
+- D. Keep the ulcer tissue moist and surrounding intact tissue moist
+
+<details><summary>Answer</summary>
+
+**C. Keep ulcer tissue moist and surrounding intact tissue dry** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q520 — of the following are true regarding *(2016)*
+
+All of the following are true regarding fluid resuscitation in burn patients except:
+
+- A. Consider intravenous resuscitation in children with burns
+- B. Oral fluids must contain salts
+- C. Most preferred fluid is Ringer's lactate
+- D. Half of the calculated volume of fluid should be given in first 8
+
+<details><summary>Answer</summary>
+
+**A. Consider intravenous resuscitation in children with burns** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q521 — Upto Level III lymph node dissection *(2016)*
+
+Upto Level III lymph node dissection is done for which nodal status of oropharyngeal cancer?
+
+- A. N1
+- B. N2
+- C. N3
+- D. N4
+
+<details><summary>Answer</summary>
+
+**A. N1** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q522 — Hemorrhage commonly seen with trivial trauma *(2016)*
+
+Hemorrhage commonly seen with trivial trauma in elderly -
+
+- A. Subdural hemorrhage
+- B. Extradural hemorrhage
+- C. Subarachnoid hemorrhage
+- D. Intraparenchymal hemorrhage
+
+<details><summary>Answer</summary>
+
+**A. Subdural hemorrhage** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q523 — common organ injured in penetrating injury *(2016)*
+
+Most common organ injured in penetrating injury of the abdomen:
+
+- A. Liver
+- B. Spleen
+- C. Small bowel
+- D. none of these
+
+<details><summary>Answer</summary>
+
+**C. Small bowel** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q524 — child swallowed a watch battery containing *(2016)*
+
+A child swallowed a watch battery containing alkaline content. What next -
+
+- A. Immediate X-ray measurements
+- B. Remove surgically immediately
+- C. CT abdomen
+- D. Laxatives
+
+<details><summary>Answer</summary>
+
+**A. Immediate X-ray measurements** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q525 — Typical of rectus sheath hematoma is *(2016)*
+
+Typical of rectus sheath hematoma is -
+
+- A. Severe tenderness
+- B. Bluish discoloration
+- C. Firm painful mass
+- D. Ecchymosis
+
+<details><summary>Answer</summary>
+
+**C. Firm painful mass** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q526 — Percuteneous chemical lumbar sympathectomy is prac *(2016)*
+
+Percuteneous chemical lumbar sympathectomy is practised using -
+
+- A. Phenol
+- B. Ethanol
+- C. Formalin
+- D. Acetic acid
+
+<details><summary>Answer</summary>
+
+**A. Phenol** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q527 — of the following is spared in *(2016)*
+
+Which of the following is spared in lumbar sympathectomy:
+
+- A. L1
+- B. L2
+- C. L3
+- D. L4
+
+<details><summary>Answer</summary>
+
+**A. L1** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q528 — commonly performed and acceptable method of *(2016)*
+
+Most commonly performed and acceptable method of bariatric surgery is:
+
+- A. Biliopancreatic diversion
+- B. Biliopancreatic diversion with ilcostomy
+- C. Laparoscopic gastric banding
+- D. Roux-en-Y gastric bypass.
+
+<details><summary>Answer</summary>
+
+**D. Roux-en-Y gastric bypass.** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q529 — of the following electrolyte abnormalities can *(2016)*
+
+Which of the following electrolyte abnormalities can be seen after brain injury?
+
+- A. Hyponatremia
+- B. Hyperkalemia
+- C. Hypomagnesemia
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**A. Hyponatremia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q530 — Features of marasmus are all except *(2016)*
+
+Features of marasmus are all except :
+
+- A. Absence of anasarca
+- B. Increased appetite
+- C. Excessive catabolism of adipose tissue and muscle protein
+- D. Uncompensated phase of PEM
+
+<details><summary>Answer</summary>
+
+**D. Uncompensated phase of PEM** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q531 — of the following are features of *(2016)*
+
+All of the following are features of Rett's syndrome except
+
+- A. Microcephaly
+- B. Regression of milestones
+- C. Cardia arrhythmias
+- D. Focal Convulsions
+
+<details><summary>Answer</summary>
+
+**D. Focal Convulsions** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q532 — Infantile body proportion in adults is *(2016)*
+
+Infantile body proportion in adults is seen in all except-
+
+- A. Achondroplasia
+- B. Hypothyroidism
+- C. Klinefelter's syndrome
+- D. Cretinism
+
+<details><summary>Answer</summary>
+
+**C. Klinefelter's syndrome** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q533 — If chronological age  skeletal age *(2016)*
+
+If chronological age > skeletal age with normal growth velocity, then the final height that is expected to be achieved is
+
+- A. Normal
+- B. Less because of small bones
+- C. More than expected
+- D. Less because of epiphyseal closure due to accelerated growth
+
+<details><summary>Answer</summary>
+
+**A. Normal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q534 — of the following about hormone levels *(2016)*
+
+Which of the following about hormone levels in a malnourished child is true?
+
+- A. Increased insulin levels
+- B. Decreased cortisol levels
+- C. Increased growth hormone
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Increased growth hormone** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q535 — 9 month old child with respiratory *(2016)*
+
+A 9 month old child with respiratory rate 53/min and presence of cough is classified as :
+
+- A. SIRS
+- B. Respiratory distress
+- C. Tachypnoea
+- D. ARDS
+
+<details><summary>Answer</summary>
+
+**C. Tachypnoea** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q536 — How are chest compressions given in *(2016)*
+
+How are chest compressions given in a newborn?
+
+- A. Using palm on the lower third of sternum
+- B. Using two fingers on the middle third of sternum
+- C. Using the two thumbs on the lower third of sternum
+- D. Using three fingers on the lower third of sternum
+
+<details><summary>Answer</summary>
+
+**C. Using the two thumbs on the lower third of sternum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q537 — Grasp reflex develops by - *(2016)*
+
+Grasp reflex develops by -
+
+- A. 20 weeks
+- B. 24 weeks
+- C. 28 weeks
+- D. 32 weeks
+
+<details><summary>Answer</summary>
+
+**C. 28 weeks** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q538 — Asymmetric tonic neck reflex disappears at *(2016)*
+
+Asymmetric tonic neck reflex disappears at what age?
+
+- A. 2 months
+- B. 3 months
+- C. 6 months
+- D. 8 months
+
+<details><summary>Answer</summary>
+
+**C. 6 months** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q539 — True about tonic neck reflex is *(2016)*
+
+True about tonic neck reflex is
+
+- A. Extension of arm on ipsilateral side, flexion on contralateral side
+- B. Extension of arm on contralateral side, flexion on ipsilateral side
+- C. Extension of arms on both sides
+- D. Flexion of arms on both sides
+
+<details><summary>Answer</summary>
+
+**A. Extension of arm on ipsilateral side, flexion on contralateral side** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q540 — Withdrawal reflex is an example of *(2016)*
+
+Withdrawal reflex is an example of which of the following?
+
+- A. Monosynaptic reflex
+- B. Polysynaptic reflex
+- C. Both A and B of the above
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Polysynaptic reflex** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q541 — False about PDA is *(2016)*
+
+False about PDA is
+
+- A. More common in females
+- B. Anatomical closure takes 21 hours after birth
+- C. PGE maintains patency of ductus
+- D. Dilatation of ascending aorta
+
+<details><summary>Answer</summary>
+
+**B. Anatomical closure takes 21 hours after birth** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q542 — of the following congenital anomalies leads *(2016)*
+
+Which of the following congenital anomalies leads to heart failure at birth?
+
+- A. Total anomalous pulmonary venous connection
+- B. Transposition of great arteries
+- C. Pulmonary atresia
+- D. Coarctation of aorta
+
+<details><summary>Answer</summary>
+
+**C. Pulmonary atresia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q543 — following features are true for tetralogy *(2016)*
+
+The following features are true for tetralogy of Fallot, except -
+
+- A. Ventricular septal defect
+- B. Right ventricular hypertrophy
+- C. Atrial septal defect
+- D. Pulmonary stenosis
+
+<details><summary>Answer</summary>
+
+**C. Atrial septal defect** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q544 — Microcephaly is common in children of *(2016)*
+
+Microcephaly is common in children of mothers with all except
+
+- A. Alcohol intake
+- B. Warfarin intake
+- C. Warfarin intake
+- D. Varicella
+
+<details><summary>Answer</summary>
+
+**B. Warfarin intake** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q545 — is the capacity of stomach at *(2016)*
+
+What is the capacity of stomach at birth
+
+- A. 5 ml
+- B. 25 ml
+- C. 50 ml
+- D. 100 ml
+
+<details><summary>Answer</summary>
+
+**C. 50 ml** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q546 — Colour of stools in breastfed new *(2016)*
+
+Colour of stools in breastfed new born is -
+
+- A. Red
+- B. Green
+- C. Black
+- D. Golden
+
+<details><summary>Answer</summary>
+
+**D. Golden** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q547 — Trigonocephaly is due to premature closure *(2016)*
+
+Trigonocephaly is due to premature closure of which suture?
+
+- A. Sagittal suture
+- B. Metopic suture
+- C. Lambdoid suture
+- D. Coronal suture
+
+<details><summary>Answer</summary>
+
+**B. Metopic suture** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q548 — of the following is a marker *(2016)*
+
+Which of the following is a marker for neural tube defects?
+
+- A. ↑Phosphatidylesterase
+- B. ↑Pseudocholinesterase
+- C. ↑Acetylcholinesterase
+- D. ↑Butyrylcholinesterase
+
+<details><summary>Answer</summary>
+
+**C. ↑Acetylcholinesterase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q549 — RDA of zinc in a child *(2016)*
+
+RDA of zinc in a child ?
+
+- A. 10 mg
+- B. 20 mg
+- C. 6-8 mg
+- D. 4-5 mg
+
+<details><summary>Answer</summary>
+
+**C. 6-8 mg** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q550 — of the following is not a *(2016)*
+
+Which of the following is not a feature of Minimal change disease?
+
+- A. Hypertension
+- B. Edema
+- C. Proteinuria
+- D. Responsive to steroid therapy
+
+<details><summary>Answer</summary>
+
+**A. Hypertension** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q551 — of the following drugs is useful *(2016)*
+
+Which of the following drugs is useful in the prophylaxis of migraine?
+
+- A. Propranolol
+- B. Sumatriptan
+- C. Domperidone
+- D. Ergotamine
+
+<details><summary>Answer</summary>
+
+**A. Propranolol** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q552 — is the rate of CSF formation *(2016)*
+
+What is the rate of CSF formation in children?
+
+- A. 0.3 ml/min
+- B. 1 ml/min
+- C. 3 ml/min
+- D. 20 ml/min
+
+<details><summary>Answer</summary>
+
+**A. 0.3 ml/min** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q553 — common cause of cranial irradiation in *(2016)*
+
+Most common cause of cranial irradiation in children is
+
+- A. Small cell lung Ca
+- B. ALL
+- C. AML
+- D. Craniopharyngioma
+
+<details><summary>Answer</summary>
+
+**B. ALL** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q554 — common cause of severe hematemesis in *(2016)*
+
+Most common cause of severe hematemesis in a child is-
+
+- A. Portal hypetension
+- B. Peptic ulcer
+- C. Mallory weiss syndrome
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Portal hypetension** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q555 — of the following is not a *(2016)*
+
+Which of the following is not a feature of physiological anaemia of infancy?
+
+- A. Term infant hemoglobin 7 gm%
+- B. Preterm infant hemoglobin 7 gm%
+- C. Term infant hemoglobin 9 gm%
+- D. Preterm infant hemoglobin 9 gm%
+
+<details><summary>Answer</summary>
+
+**A. Term infant hemoglobin 7 gm%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q556 — Mean hemoglobin in a 1 year *(2016)*
+
+Mean hemoglobin in a 1 year old child is
+
+- A. 18.5 g/dl
+- B. 16.5 g/d1
+- C. 14 g/c11
+- D. 12 g/dl
+
+<details><summary>Answer</summary>
+
+**D. 12 g/dl** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q557 — of the following biochemical test is *(2016)*
+
+Which of the following biochemical test is used to diagnose Dubin Johnson syndrome?
+
+- A. Serum transaminases
+- B. Bromsulphalein test (BSP)
+- C. Hippurate test
+- D. Gamma glutamyl transferase level
+
+<details><summary>Answer</summary>
+
+**B. Bromsulphalein test (BSP)** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q558 — Albinism is due to deficiency of *(2016)*
+
+Albinism is due to deficiency of the following enzyme?
+
+- A. Phenylalanine hydroxylase
+- B. Homogentisic acid oxidase
+- C. Tyrosinase
+- D. Decarboxylase
+
+<details><summary>Answer</summary>
+
+**C. Tyrosinase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q559 — 3 months old child was started *(2016)*
+
+A 3 months old child was started on supplemental foods alongwith breastmilk. The child was fed with fruit pulp and sweetened cereals. Soon the child developed bloating of abdomen,
+
+- A. Fructokinase
+- B. Aldolase B
+- C. Gal actokinase
+- D. Galactose - 1 - phosphate uridyl transferase
+
+<details><summary>Answer</summary>
+
+**B. Aldolase B** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q560 — Earliest symptom of Tay sach disease *(2016)*
+
+Earliest symptom of Tay sach disease
+
+- A. Exaggerated startle response
+- B. Bone deformation
+- C. Hepatomegaly
+- D. Excessive bleeding
+
+<details><summary>Answer</summary>
+
+**A. Exaggerated startle response** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q561 — are true about sacrococcygeal teratoma except *(2016)*
+
+All are true about sacrococcygeal teratoma except
+
+- A. Not associated with increased serum markers
+- B. In most cases is not visible externally
+- C. If associated with hydrops, should be resected antenatally
+- D. Most common tumor of fetus
+
+<details><summary>Answer</summary>
+
+**B. In most cases is not visible externally** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q562 — common sign of LRTI Lower respiratory *(2016)*
+
+Most common sign of LRTI [Lower respiratory tract infection] in children is
+
+- A. Chest indrawing
+- B. Tachypnea
+- C. Nasal flaring
+- D. Failure to feed well
+
+<details><summary>Answer</summary>
+
+**B. Tachypnea** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q563 — of the following is not a *(2016)*
+
+Which of the following is not a sign of severe dehydration?
+
+- A. Tachycardia
+- B. Anuria
+- C. Increased thirst
+- D. Delayed capillary refill [>3 sec]
+
+<details><summary>Answer</summary>
+
+**C. Increased thirst** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q564 — is the grade of dehydration if *(2016)*
+
+What is the grade of dehydration if a child demonstrates excessive thirst and decreased urine output?
+
+- A. No dehydration
+- B. Mild dehydration
+- C. Moderate dehydration
+- D. Severe dehydration
+
+<details><summary>Answer</summary>
+
+**B. Mild dehydration** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q565 — Russell silver syndrome is associated with *(2016)*
+
+Russell silver syndrome is associated with which of the following?
+
+- A. Autosomal inheritance
+- B. X - linked inheritance
+- C. Sporadic gene mutation
+- D. Uniparental disomy
+
+<details><summary>Answer</summary>
+
+**D. Uniparental disomy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q566 — of the following is not a *(2016)*
+
+Which of the following is not a feature of Down's syndrome?
+
+- A. Hypotonia
+- B. Infections
+- C. Female infertility
+- D. Early onset Alzheimer's disease
+
+<details><summary>Answer</summary>
+
+**C. Female infertility** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q567 — of the following is not a *(2016)*
+
+Which of the following is not a feature of Turner's syndrome?
+
+- A. Cubitus valgus
+- B. Cryptorchidism
+- C. Short fourth metacarpal
+- D. Shield chest
+
+<details><summary>Answer</summary>
+
+**B. Cryptorchidism** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q568 — In Turners syndrome which of the *(2016)*
+
+In Turner's syndrome which of the following is NOT seen :
+
+- A. Short stature
+- B. Widely spaced nipple
+- C. Webbed neck
+- D. Mental retardation
+
+<details><summary>Answer</summary>
+
+**D. Mental retardation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q569 — of the following is true regarding *(2016)*
+
+Which of the following is true regarding Turner's syndrome?
+
+- A. Cubitus valgus
+- B. Autosomal dominant
+- C. Monosomy of chromosome 12
+- D. Sensorineural hearing loss
+
+<details><summary>Answer</summary>
+
+**A. Cubitus valgus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q570 — Single gene disorder which does not *(2016)*
+
+Single gene disorder which does not follow mendelian inheritance -
+
+- A. Sickle cell anemia
+- B. Down syndrome
+- C. Fragile X-syndrome
+- D. Retinoblastoma
+
+<details><summary>Answer</summary>
+
+**C. Fragile X-syndrome** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q571 — common cause of shock in child *(2016)*
+
+Most common cause of shock in child
+
+- A. Septic shock
+- B. Hypovolemic shock
+- C. Cardiogenic shock
+- D. Anaphylactic shock
+
+<details><summary>Answer</summary>
+
+**B. Hypovolemic shock** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q572 — is the prognostic scoring system for *(2016)*
+
+Which is the prognostic scoring system for head injury in children?
+
+- A. CCS
+- B. AUDIT
+- C. Injury severity score
+- D. Pediatric Trauma Score
+
+<details><summary>Answer</summary>
+
+**A. CCS** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q573 — of the following is a criteria *(2016)*
+
+Which of the following is a criteria for clinical Stage II of AIDS in children?
+
+- A. Lymphadenopathy
+- B. Oral candidiasis
+- C. Hepatosplenomegaly
+- D. Oesophageal candidiasis
+
+<details><summary>Answer</summary>
+
+**C. Hepatosplenomegaly** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q574 — of the following is closed at *(2016)*
+
+Which of the following is closed at birth?
+
+- A. Foramen ovale
+- B. Posterior fontanelle
+- C. Ductus venosus
+- D. Anterior fontanelle
+
+<details><summary>Answer</summary>
+
+**B. Posterior fontanelle** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q575 — Harlequin skin change is seen due *(2016)*
+
+Harlequin skin change is seen due to mutation of which gene?
+
+- A. ABCA 12
+- B. FAD
+- C. Keratin 1
+- D. ALOXE 3
+
+<details><summary>Answer</summary>
+
+**A. ABCA 12** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q576 — Ritter disease is a disease caused *(2016)*
+
+Ritter disease is a disease caused by -
+
+- A. Infection
+- B. Autoimmune
+- C. Genetic
+- D. Metabolic disorder
+
+<details><summary>Answer</summary>
+
+**A. Infection** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q577 — Pink color in the IMNCI chart *(2016)*
+
+Pink color in the IMNCI chart is suggestive of
+
+- A. Normal zone of weight for age
+- B. Undernutrition (Upto - 2SD)
+- C. Severely underweight zone (Upto - 3SD)
+- D. Very severely undernourished (Upto - 5SD)
+
+<details><summary>Answer</summary>
+
+**C. Severely underweight zone (Upto - 3SD)** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q578 — Osteoporosis is seen in all the *(2016)*
+
+Osteoporosis is seen in all the following except
+
+- A. Thyrotoxicosis
+- B. Rheumatoid arthritis
+- C. Hypoparathyroidism
+- D. Steroid therapy
+
+<details><summary>Answer</summary>
+
+**C. Hypoparathyroidism** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q579 — Genu recurvatum is seen in - *(2016)*
+
+Genu recurvatum is seen in -
+
+- A. Rheumatoid arthritis
+- B. Poliomyelitis
+- C. Rickets
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q580 — drug used for endometriosis can cause *(2016)*
+
+Which drug used for endometriosis can cause increase in hepatic enzyme & adverse lipid profile -
+
+- A. 0. C. pills
+- B. GnRh analogues
+- C. Both of the above
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. 0. C. pills** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q581 — 30-year-old is 14 weeks pregnant She *(2016)*
+
+A 30-year-old is 14 weeks pregnant. She had two painless deliveries at 16 weeks earlier. Next line of management is ?
+
+- A. Cervical encerclage
+- B. Evaluation for diabetes mellitus and thyroid disorders
+- C. Cervical length assessment
+- D. Tocolytics
+
+<details><summary>Answer</summary>
+
+**C. Cervical length assessment** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+
+
+## Year 2017
+
+### Q582 — endogenous pyrogen
+
+Which of the following is endogenous pyrogen
+
+- A. PG E2
+- B. PG D2
+- C. PGF2 alpha
+- D. PG I2
+
+<details><summary>Answer</summary>
+
+**A. PG E2** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#81 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q583 — A bedridden patient experiences acute chest pain
+
+A bedridden patient experiences acute chest pain which is worsened by breathing. Which imaging techniques could be helpful?
+
+- A. USG
+- B. X-ray chest
+- C. Ventilation perfusion scan
+- D. CT scan
+
+<details><summary>Answer</summary>
+
+**D. CT scan** — CT pulmonary angiography (CTPA) is the investigation of choice for pulmonary embolism, which presents with pleuritic chest pain.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#279 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q584 — Which type of retractor is
+
+Which type of retractor is shown in the image
+
+- A. Morris retractor
+- B. Czerny retractor
+- C. Richardson retractor.
+- D. Lower lid retractor
+
+<details><summary>Answer</summary>
+
+**A. Morris retractor** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#161 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q585 — The following statement about Keloid is true
+
+The following statement about Keloid is true
+
+- A. It contain growth factor
+- B. Extended excision is the treatment of choice
+- C. It do not extend beyond the wound
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. It contain growth factor** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#165 | OPTIONS_GENERATED: false -->
+
+---
+

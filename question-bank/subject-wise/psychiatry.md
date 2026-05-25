@@ -1428,3 +1428,1785 @@ Person attacks coworker claiming plots against him, hears voices, displays disor
 
 ---
 
+## Year 2015
+
+### Q81 — For activity of antipsychotic, action is
+
+For activity of antipsychotic, action is required at which receptor -
+
+- A. M, muscarinic
+- B. D1dopaminergic
+- C. DZdopaminergic
+- D. 5HT4 serotonergic
+
+<details><summary>Answer</summary>
+
+**C. DZdopaminergic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q82 — Beside depression, other use of SSRIs
+
+Beside depression, other use of SSRIs ?
+
+- A. Erectile dysfunction
+- B. Retrograde ejaculation
+- C. Premature ejaculation
+- D. Sterility
+
+<details><summary>Answer</summary>
+
+**D. Sterility** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q83 — Irresistible sexual desire in a male
+
+Irresistible sexual desire in a male is known as: AIIMS 08
+
+- A. Nymphomania
+- B. Tribadism
+- C. Satyriasis
+- D. Sadism
+
+<details><summary>Answer</summary>
+
+**C. Satyriasis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q84 — Duodenal aspirate is used in diagnosis
+
+Duodenal aspirate is used in diagnosis of:
+
+- A. E histolytica
+- B. Giardia lamblia
+- C. Taenia solium
+- D. Leishmania
+
+<details><summary>Answer</summary>
+
+**B. Giardia lamblia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q85 — Most common acute complication of dialysis
+
+Most common acute complication of dialysis is
+
+- A. Hypotension
+- B. Bleeding
+- C. Dementia
+- D. Muscle cramps
+
+<details><summary>Answer</summary>
+
+**A. Hypotension** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q86 — Triad of normal pressure hydrocephalus includes
+
+Triad of normal pressure hydrocephalus includes all except -
+
+- A. Dementia
+- B. Gait disturbance
+- C. Urinary incontinence
+- D. Browache
+
+<details><summary>Answer</summary>
+
+**D. Browache** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q87 — The best method for inducing mid
+
+The best method for inducing mid trimester abortion is :
+
+- A. Injection of Hypertonic Saline
+- B. Ethacrydine
+- C. Prostaglandins
+- D. D and C
+
+<details><summary>Answer</summary>
+
+**C. Prostaglandins** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q88 — What would be the type of
+
+What would be the type of presentation when the engaging diameter is mentovertical?
+
+- A. Face
+- B. Brow
+- C. Vertex
+- D. Breech
+
+<details><summary>Answer</summary>
+
+**B. Brow** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q89 — 45 yrs female with G5P4A0L4 with
+
+45 yrs female with G5P4A0L4 with LMP
+
+- A. 32 weeks
+- B. 35 weeks
+- C. 36 weeks
+- D. 40 weeks
+
+<details><summary>Answer</summary>
+
+**C. 36 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q90 — If the symphysiofundal height is 40
+
+If the symphysiofundal height is 40 cm and the station of the head is at -1, weight of the fetus is approximately
+
+- A. 3 kg
+- B. 3.3 kg
+- C. 4 kg
+- D. 4.3 kg
+
+<details><summary>Answer</summary>
+
+**D. 4.3 kg** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q91 — Which of the following is true
+
+Which of the following is true regarding precocious puberty :
+
+- A. Sexual maturity is attained early
+- B. Mental function is increased
+- C. No reproductive function
+- D. Body proportions are enlarged
+
+<details><summary>Answer</summary>
+
+**A. Sexual maturity is attained early** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q92 — Kallmans syndrome is associated with all
+
+Kallmans syndrome is associated with all of the following except
+
+- A. Amenorrhea
+- B. Excess stimulation of the HPO axis
+- C. Genetic mutation
+- D. Anosmia
+
+<details><summary>Answer</summary>
+
+**B. Excess stimulation of the HPO axis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q93 — Antimullerian hormone is secreted by
+
+Antimullerian hormone is secreted by ?
+
+- A. Granulosa cells
+- B. Lyedig cells
+- C. Sertoli cells
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Sertoli cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q94 — What is to be done if
+
+What is to be done if 2 OCP is missed on day 17 - 18 of the cycle -
+
+- A. Take 2 pills on the next 2 days
+- B. Use back up contraceptive
+- C. Both a and b
+- D. Continue taking single pill per day
+
+<details><summary>Answer</summary>
+
+**B. Use back up contraceptive** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q95 — Most common complication of dermoid cyst
+
+Most common complication of dermoid cyst is -
+
+- A. Cyst Rupture
+- B. Torsion
+- C. Malignant degeneration
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Torsion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q96 — There is overlapping of skull sutures
+
+There is overlapping of skull sutures which can be reduced with gental pressure. What is the grade of moulding ?
+
+- A. Grade 1
+- B. Grade 2
+- C. Grade 3
+- D. Grade 4
+
+<details><summary>Answer</summary>
+
+**B. Grade 2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q97 — In cervical incompetence diameter of internal
+
+In cervical incompetence diameter of internal os of cervix is -
+
+- A. 1 cm
+- B. 1.5 cm
+- C. 2 cm
+- D. 2.5 cm
+
+<details><summary>Answer</summary>
+
+**A. 1 cm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q98 — Contracted pelvis is defined as shortening
+
+Contracted pelvis is defined as shortening of one or more planes by -
+
+- A. 0.5 cm
+- B. 1 cm
+- C. 1.25 cm
+- D. 1.5 cm
+
+<details><summary>Answer</summary>
+
+**A. 0.5 cm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q99 — Most common type of conjoint twin
+
+Most common type of conjoint twin is -
+
+- A. Thoracopagus
+- B. Omphalopagus
+- C. Craniopagus
+- D. Rachipagus
+
+<details><summary>Answer</summary>
+
+**A. Thoracopagus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q100 — Not a cause of oligohydramnios -
+
+Not a cause of oligohydramnios -
+
+- A. IUGR
+- B. Renal agenesis
+- C. Amnion nodosum
+- D. Chorioangioma
+
+<details><summary>Answer</summary>
+
+**D. Chorioangioma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q101 — Risk factors for molar gestation are
+
+Risk factors for molar gestation are all of the following except -
+
+- A. Oriental countries
+- B. Disturbed maternal immune mechanism
+- C. Higher ratio of maternal/paternal chromosomes
+- D. Faulty nutrition
+
+<details><summary>Answer</summary>
+
+**C. Higher ratio of maternal/paternal chromosomes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q102 — Drugs used in endometriosis is
+
+Drugs used in endometriosis is
+
+- A. Combined oral contraceptives
+- B. Letrozole
+- C. Mifepristone
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q103 — Leydig cells of fetus testis secretes
+
+Leydig cells of fetus testis secretes
+
+- A. hCG
+- B. LH
+- C. Testosterone
+- D. Mullerian inhibiting substance
+
+<details><summary>Answer</summary>
+
+**C. Testosterone** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q104 — Odland bodies are seen in which
+
+Odland bodies are seen in which layer of epidermis?
+
+- A. Basal cell layer
+- B. Prickle cell layer
+- C. Stratum granulosum
+- D. Stratum corneum
+
+<details><summary>Answer</summary>
+
+**C. Stratum granulosum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q105 — Anagen phase of the hair indicates
+
+Anagen phase of the hair indicates:
+
+- A. The phase of activity and growth
+- B. The phase of transition
+- C. The phase of resting
+- D. The phase of degeneration
+
+<details><summary>Answer</summary>
+
+**A. The phase of activity and growth** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q106 — A girl about to marry has
+
+A girl about to marry has comedonal acne. Drug to treat such a case is:
+
+- A. Topical antibiotic
+- B. Benzoyl peroxide
+- C. Retinoids
+- D. Estrogen
+
+<details><summary>Answer</summary>
+
+**C. Retinoids** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q107 — Acanthosis nigricans is characterized by all
+
+Acanthosis nigricans is characterized by all of the following except ?
+
+- A. Common in obese people
+- B. Associated with thick skin with hyperpigmentaion
+- C. Histologically there is hypermelanosis
+- D. May be a sign of internal malignancy
+
+<details><summary>Answer</summary>
+
+**C. Histologically there is hypermelanosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q108 — Epidermal nevus follows
+
+Epidermal nevus follows ?
+
+- A. Blaschko's lines
+- B. Langer's lines
+- C. Vasculature
+- D. Lymphatics
+
+<details><summary>Answer</summary>
+
+**A. Blaschko's lines** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q109 — In lichen planus all the following
+
+In lichen planus all the following sites are affected except ?
+
+- A. Flexor aspect of upper extrimities
+- B. Oral mucosa
+- C. Nails
+- D. Extensor aspect of upper extrimities
+
+<details><summary>Answer</summary>
+
+**D. Extensor aspect of upper extrimities** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q110 — Not a hemorrhagic lesion
+
+Not a hemorrhagic lesion ?
+
+- A. Petechiae
+- B. Echymosis
+- C. Plaque
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Plaque** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q111 — Incontinentia pigmenti involves all exept
+
+Incontinentia pigmenti involves all exept ?
+
+- A. Skin
+- B. Bones
+- C. Teeth
+- D. Heart
+
+<details><summary>Answer</summary>
+
+**D. Heart** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q112 — Bulls eye lesions are found in
+
+Bull's eye lesions are found in ?
+
+- A. Erythema nodosum
+- B. Erythema gangrenosum
+- C. Erythema multiforme
+- D. Erythroderma
+
+<details><summary>Answer</summary>
+
+**C. Erythema multiforme** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q113 — Husband having suspicion that his wife
+
+Husband having suspicion that his wife is having affair with another man, diagnosis is ?
+
+- A. Illusion
+- B. Delusion
+- C. Hallucination
+- D. Delirium
+
+<details><summary>Answer</summary>
+
+**B. Delusion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q114 — The site of lesion in Korsakoffs
+
+The site of lesion in Korsakoff's psychosis is
+
+- A. Frontal lobe
+- B. Corpus striatum
+- C. Mammilary Body
+- D. Cingulate gyrus
+
+<details><summary>Answer</summary>
+
+**C. Mammilary Body** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q115 — Which of the following is not
+
+Which of the following is not associated with dementia:
+
+- A. Forgetfulness
+- B. Alteration of consciousness
+- C. Reduced personal care
+- D. Loss of neurons in brain
+
+<details><summary>Answer</summary>
+
+**B. Alteration of consciousness** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q116 — A girl with bad behavior like
+
+A girl with bad behavior like smashing and throwing objects was admitted in the hospital. There also she was behaving very badly with staff &
+
+- A. Bipolar disorder
+- B. Schizoaffective disorder
+- C. Borderline personality disorder
+- D. Antisocial personality
+
+<details><summary>Answer</summary>
+
+**D. Antisocial personality** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q117 — All of the following are essential
+
+All of the following are essential features of attention deficit hyperactive disease (ADHD) except -
+
+- A. Lack of concentration
+- B. Impulsivity
+- C. Mental retardation
+- D. Hyperactivity
+
+<details><summary>Answer</summary>
+
+**C. Mental retardation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q118 — Capgras syndrome is
+
+Capgras syndrome is ?
+
+- A. Sharing of delusion
+- B. Delusion of double
+- C. Erotomania
+- D. Hypochondriacal delusions
+
+<details><summary>Answer</summary>
+
+**B. Delusion of double** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q119 — Features like increased psychomotor acitivity, wax
+
+Features like increased psychomotor acitivity, waxy flexinbility at time are seen classically in :
+
+- A. Simple schizophrenia
+- B. Hebephrenic schizophrenia
+- C. Catatonic schizophrenia
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Catatonic schizophrenia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q120 — Good prognostic factor for schizophrenia is
+
+Good prognostic factor for schizophrenia is ?
+
+- A. Blunted affect
+- B. Early onset
+- C. Presence of depression
+- D. Male sex
+
+<details><summary>Answer</summary>
+
+**C. Presence of depression** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q121 — Increased dopamine levels are associated
+
+Increased dopamine levels are associated ?
+
+- A. Depression
+- B. Mania
+- C. Delirium
+- D. Schizophrenia
+
+<details><summary>Answer</summary>
+
+**D. Schizophrenia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q122 — Visual hallucinations is seen in
+
+Visual hallucinations is seen in :
+
+- A. Alcoholism
+- B. Mania
+- C. Depression
+- D. Phobia
+
+<details><summary>Answer</summary>
+
+**A. Alcoholism** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q123 — Behavioral therapy is done in
+
+Behavioral therapy is done in ?
+
+- A. Schizophrenia
+- B. Agoraphobia
+- C. Delirium
+- D. Neurotic depression
+
+<details><summary>Answer</summary>
+
+**B. Agoraphobia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q124 — Feature associated with mania is
+
+Feature associated with mania is ?
+
+- A. Neologism
+- B. Perseveration
+- C. Echolalia
+- D. Flights of ideas
+
+<details><summary>Answer</summary>
+
+**D. Flights of ideas** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q125 — Which of the following typical antipsychotic
+
+Which of the following typical antipsychotic drug is not available in depot form ?
+
+- A. Haloperidol
+- B. Risperidone
+- C. Olanzapine
+- D. Chlorpromazine
+
+<details><summary>Answer</summary>
+
+**D. Chlorpromazine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q126 — Causes of neuroregression in a child
+
+Causes of neuroregression in a child can be all except ?
+
+- A. Wilson's disease
+- B. Vitamin B12 deficiency
+- C. ADHD
+- D. Ataxia telengiectasia
+
+<details><summary>Answer</summary>
+
+**C. ADHD** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q127 — Promastigote form of Leishmania is found *(2016)*
+
+Promastigote form of Leishmania is found in which part of sandfly:
+
+- A. Lymph node
+- B. GIT
+- C. Spleen
+- D. Bone marrow
+
+<details><summary>Answer</summary>
+
+**B. GIT** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q128 — Agger nasi is *(2016)*
+
+Agger nasi is
+
+- A. Mucosal flap covering the nasolacrimal duct
+- B. Opening of the sinuses
+- C. Depression in front of middle turbinate
+- D. Elevation anterior to middle turbinate
+
+<details><summary>Answer</summary>
+
+**D. Elevation anterior to middle turbinate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q129 — Not a feature of Wernickes Korsakoff *(2016)*
+
+Not a feature of Wernicke's Korsakoff Syndrome
+
+- A. Ataxia
+- B. Psychosis
+- C. Normal pupillary response
+- D. Opthalmoplegia
+
+<details><summary>Answer</summary>
+
+**C. Normal pupillary response** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q130 — Complete vesicular mole is associated Theca *(2016)*
+
+Complete vesicular mole is associated Theca leutin csyts in what percentage of cases ?
+
+- A. <5
+- B. 5-15
+- C. 20-40
+- D. 60-70
+
+<details><summary>Answer</summary>
+
+**C. 20-40** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q131 — Radio isotope used in Ca cervix *(2016)*
+
+Radio isotope used in Ca cervix Brachytherapy ?
+
+- A. Cobalt
+- B. Iridium
+- C. Cesium
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q132 — is not used in PCOS *(2016)*
+
+What is not used in PCOS ?
+
+- A. OC pills
+- B. Cyclical progesterones
+- C. Myoinositol
+- D. Danazol
+
+<details><summary>Answer</summary>
+
+**D. Danazol** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q133 — Triad of symptoms of endometriosis are *(2016)*
+
+Triad of symptoms of endometriosis are all except ?
+
+- A. Infertility
+- B. Dysmenorrhea
+- C. Dyspareunia
+- D. Cyclical hematuria
+
+<details><summary>Answer</summary>
+
+**D. Cyclical hematuria** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q134 — Investigation of choice for endometriosis *(2016)*
+
+Investigation of choice for endometriosis ?
+
+- A. USG
+- B. CA 125
+- C. MRI
+- D. Laparoscopy
+
+<details><summary>Answer</summary>
+
+**D. Laparoscopy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q135 — Powder burnt lesion seen in *(2016)*
+
+Powder burnt lesion seen in ?
+
+- A. PID
+- B. PCOS
+- C. Endometriosis
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Endometriosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q136 — Triad for clinical diagnosis PID includes *(2016)*
+
+Triad for clinical diagnosis PID includes all except ?
+
+- A. Fever
+- B. Lower abdominal pain
+- C. Cervical motion tenderness
+- D. Bilateral adnexal tenderness
+
+<details><summary>Answer</summary>
+
+**A. Fever** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q137 — Tumor marker for germ cell malignancy *(2016)*
+
+Tumor marker for germ cell malignancy are all except?
+
+- A. LDH
+- B. Alkaline phosphatase
+- C. AFP
+- D. CA-125
+
+<details><summary>Answer</summary>
+
+**D. CA-125** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q138 — 28 year old female complaints of *(2016)*
+
+28 year old female complaints of foul smelling yellowish urethral discharge since 4 days. History of burning micturation. History of sexual contact with multiple partners 2 days before the
+
+- A. Syphilis
+- B. Chancroid
+- C. Gonococcal urethritis
+- D. Non-infective urethritis
+
+<details><summary>Answer</summary>
+
+**C. Gonococcal urethritis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q139 — Twin-peak sign is seen in *(2016)*
+
+Twin-peak sign is seen in ?
+
+- A. All Monozygotic twins
+- B. Monochorionic twins
+- C. Dichorionic twins
+- D. Siamese twins
+
+<details><summary>Answer</summary>
+
+**C. Dichorionic twins** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q140 — In ca Cervix treatment point A *(2016)*
+
+In ca Cervix treatment, point A receives ?
+
+- A. 3000 cGy
+- B. 5000 cGy
+- C. 7000 cGy
+- D. 10,000 cGy
+
+<details><summary>Answer</summary>
+
+**C. 7000 cGy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q141 — GARDASIL vaccine is for - *(2016)*
+
+GARDASIL vaccine is for -
+
+- A. HPV 16,18
+- B. HSV
+- C. HPV 6,11,16,18
+- D. Hepatitis B
+
+<details><summary>Answer</summary>
+
+**C. HPV 6,11,16,18** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q142 — Raloxifene decreases the risk of which *(2016)*
+
+Raloxifene decreases the risk of which cancer?
+
+- A. Breast
+- B. Cervix
+- C. Ovary
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Breast** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q143 — Least failure rate *(2016)*
+
+Least failure rate ?
+
+- A. CuT
+- B. MIRENA
+- C. DMPA
+- D. O.C. PILLS
+
+<details><summary>Answer</summary>
+
+**B. MIRENA** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q144 — Nuva ring contains *(2016)*
+
+Nuva ring contains ?
+
+- A. EE+ etonogestrel
+- B. LNG + EE
+- C. LNG
+- D. EE+ drosperinone
+
+<details><summary>Answer</summary>
+
+**A. EE+ etonogestrel** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q145 — Norgestimate in OC pills has the *(2016)*
+
+Norgestimate in OC pills has the following advantage ?
+
+- A. Reduces venous thrombosis
+- B. Is cheaper than standard OC pills
+- C. Reduces acne and hirsutism
+- D. Useful in heart disease
+
+<details><summary>Answer</summary>
+
+**C. Reduces acne and hirsutism** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q146 — of the following is not an *(2016)*
+
+Which of the following is not an ideal candidate for IUCD insertion ?
+
+- A. Previous LSCS
+- B. Lactating mother
+- C. Acute PID
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Acute PID** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q147 — Outcomes of occipito posterior position *(2016)*
+
+Outcomes of occipito posterior position?
+
+- A. Deep transverse arrest
+- B. Occipito sacral arrest
+- C. Face to pubis delivery
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q148 — RMP can perform MTP in first *(2016)*
+
+RMP can perform MTP in first trimester if he has assisted in MTPs -
+
+- A. 5
+- B. 15
+- C. 25
+- D. 50
+
+<details><summary>Answer</summary>
+
+**C. 25** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q149 — Inner cell mass differentiates into *(2016)*
+
+Inner cell mass differentiates into ?
+
+- A. Chorion
+- B. Trophoectoderm
+- C. Embryo
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Embryo** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q150 — Embryo is called fetus after how *(2016)*
+
+Embryo is called "fetus" after how many weeks post fertilization/conception ?
+
+- A. 6
+- B. 8
+- C. 10
+- D. 12
+
+<details><summary>Answer</summary>
+
+**B. 8** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q151 — Endometrial biopsy to detect ovulation is *(2016)*
+
+Endometrial biopsy to detect ovulation is done on which day of the menstual cycle ?
+
+- A. Day 8-9
+- B. Day 13-15
+- C. Day 21-23
+- D. Day 3-5
+
+<details><summary>Answer</summary>
+
+**C. Day 21-23** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q152 — Godells sign is *(2016)*
+
+Godell's sign is ?
+
+- A. Dusky hue of the vestibule
+- B. Softening of the cervix
+- C. Increased pulsations felt through the lateral fornices
+- D. Regular and rhythmic contractions during bimanual examination
+
+<details><summary>Answer</summary>
+
+**B. Softening of the cervix** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q153 — In fetus insulin production begin at *(2016)*
+
+In fetus, insulin production begin at weeks of gestation -
+
+- A. 4-6
+- B. 8-12
+- C. 14-18
+- D. 24-28
+
+<details><summary>Answer</summary>
+
+**B. 8-12** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q154 — Limb bud appear at what weeks *(2016)*
+
+Limb bud appear at what weeks of gestation?
+
+- A. 3
+- B. 4
+- C. 6
+- D. 9
+
+<details><summary>Answer</summary>
+
+**B. 4** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q155 — Features of non severemild pre ecampsia *(2016)*
+
+Features of non severe/mild pre ecampsia are all ecxept​ -
+
+- A. Diastolic BP <100 mm Hg
+- B. Systolic BP< 160 mm Hg
+- C. Mild IUGR
+- D. No premonitory symptoms
+
+<details><summary>Answer</summary>
+
+**C. Mild IUGR** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q156 — FERNING is due to *(2016)*
+
+FERNING is due to ?
+
+- A. Estogen & sodium chloride
+- B. Progesterone & sodium chloride
+- C. HCG
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Estogen & sodium chloride** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q157 — Abstinence period before semen analysis is *(2016)*
+
+Abstinence period before semen analysis is ?
+
+- A. 1-2 days
+- B. 3-5 days
+- C. 5-7 days
+- D. 7-9 days
+
+<details><summary>Answer</summary>
+
+**B. 3-5 days** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q158 — Engaging diameter in face presentation is *(2016)*
+
+Engaging diameter in face presentation is -
+
+- A. Suboccipitobregmatic
+- B. Mentovertical
+- C. Submentobregmatic
+- D. Occipitofrontal
+
+<details><summary>Answer</summary>
+
+**C. Submentobregmatic** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q159 — Least likely to cause dysmenorrhea - *(2016)*
+
+Least likely to cause dysmenorrhea -
+
+- A. Endometriosis
+- B. Adenomyosis
+- C. Uterine polyp
+- D. Cervical polyp
+
+<details><summary>Answer</summary>
+
+**D. Cervical polyp** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q160 — LH surge is due to *(2016)*
+
+LH surge is due to ?
+
+- A. Progesterone
+- B. Estrogen
+- C. AMH
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Estrogen** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q161 — Menopause is defined as *(2016)*
+
+Menopause is defined as ?
+
+- A. Presence of hot flushes
+- B. Cessation of menses for 1 year
+- C. Cessation of menses for 6 months
+- D. Cessation of menses for 2 years
+
+<details><summary>Answer</summary>
+
+**B. Cessation of menses for 1 year** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q162 — Propofol shows following effect on EEG *(2016)*
+
+Propofol shows following effect on EEG?
+
+- A. Activation
+- B. Depression
+- C. Depression in low doses and activation in high doses
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Depression** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q163 — Alcohol withdrawal is not associated with *(2016)*
+
+Alcohol withdrawal is not associated with?
+
+- A. Seizure
+- B. Amnesia
+- C. Tremers
+- D. Delirium
+
+<details><summary>Answer</summary>
+
+**B. Amnesia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q164 — Personality type seen in schizophrenia is *(2016)*
+
+Personality type seen in schizophrenia is?
+
+- A. Schizoid
+- B. Paranoid
+- C. Borderline
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q165 — Irresistible urge to drink alcohol is *(2016)*
+
+Irresistible urge to drink alcohol is called?
+
+- A. Kleptomania
+- B. Pyromania
+- C. Dipsomania
+- D. Trichotillomania
+
+<details><summary>Answer</summary>
+
+**C. Dipsomania** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q166 — Generalized anxiety disorder is diagnosed when *(2016)*
+
+Generalized anxiety disorder is diagnosed when anxiety and worry continues for at least?
+
+- A. 2 months
+- B. 4 months
+- C. 6 months
+- D. 8 months
+
+<details><summary>Answer</summary>
+
+**C. 6 months** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q167 — important receptors involved with schizophrenia ar *(2016)*
+
+Most important receptors involved with schizophrenia are?
+
+- A. GABAA
+- B. GABA,,
+- C. DZd
+- D. 5-HT
+
+<details><summary>Answer</summary>
+
+**C. DZd** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+

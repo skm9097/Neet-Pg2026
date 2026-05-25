@@ -2634,3 +2634,2058 @@ Anal carcinoma with mass near the anal opening. Most likely involved lymph nodes
 
 ---
 
+## Year 2015
+
+### Q146 — Nigro Regimen is used for -
+
+Nigro Regimen is used for -
+
+- A. Anal Carcinoma
+- B. Rectal Carcinoma
+- C. Sigmoid Colon Carcinoma
+- D. Duodenal Carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Anal Carcinoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q147 — year old male came with jaundice,
+
+year old male came with jaundice, palpable mass in the right hypochondrium not associated with pain. The probable diagnosis is -
+
+- A. Carcinoma Ampulla of Vater
+- B. Acute cholecystitis
+- C. Chronic Cholecystitis
+- D. Chronic Pancreatitis
+
+<details><summary>Answer</summary>
+
+**A. Carcinoma Ampulla of Vater** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q148 — year male presented with jaundice, pale
+
+year male presented with jaundice, pale stools, dark urine and mass in the epigastric region. Which of the following diagnosis in unlikely ?
+
+- A. Pancreatic cancer
+- B. Biliary Cancer
+- C. Periampullary Cancer
+- D. Chronic Cholecystitis
+
+<details><summary>Answer</summary>
+
+**D. Chronic Cholecystitis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q149 — Which of the following stoma is
+
+Which of the following stoma is formed in Hartman's procedure ?
+
+- A. End Colostomy
+- B. End Iliostomy
+- C. Loop Iliostomy
+- D. Caecostomy
+
+<details><summary>Answer</summary>
+
+**A. End Colostomy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q150 — Most common site of colorectal carcinoma
+
+Most common site of colorectal carcinoma is -
+
+- A. Rectum
+- B. Sigmoid Colon
+- C. Ascending Colon
+- D. Descending Colon
+
+<details><summary>Answer</summary>
+
+**A. Rectum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q151 — Riglers sign is suggestive of -
+
+Rigler's sign is suggestive of -
+
+- A. Pneumothorax
+- B. Pneumoperitoneum
+- C. Peritonitis
+- D. Hemothorax
+
+<details><summary>Answer</summary>
+
+**B. Pneumoperitoneum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q152 — Bilateral parotid enlargement occurs in all,
+
+Bilateral parotid enlargement occurs in all, Except:
+
+- A. Sjogren's syndrome
+- B. SLE
+- C. HIV
+- D. Chronic pancreatitis
+
+<details><summary>Answer</summary>
+
+**B. SLE** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q153 — year old male presenting with acure
+
+year old male presenting with acure pancreatitis is now having refractory hypoxia. The X RAY of chest would show
+
+- A. Bilateral infiltrates
+- B. Pneumatocoeles
+- C. Ground glass appearances
+- D. Hilar lymphadenopathy
+
+<details><summary>Answer</summary>
+
+**A. Bilateral infiltrates** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q154 — Medulloblatoma arises exclusively from the cells
+
+Medulloblatoma arises exclusively from the cells of
+
+- A. Immature embryonal cells
+- B. Ependymal cells
+- C. Neurons
+- D. Spindle shaped cells
+
+<details><summary>Answer</summary>
+
+**A. Immature embryonal cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q155 — Hypoxic Ischemic encephalopathy true is
+
+Hypoxic Ischemic encephalopathy true is ?
+
+- A. Lower limbs affected more than upper limbs
+- B. Prox. Muscles > distal muscles
+- C. Seizure
+- D. Trunk involved
+
+<details><summary>Answer</summary>
+
+**C. Seizure** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q156 — Which of the following is not
+
+Which of the following is not true about encephalocoele?
+
+- A. It is a neural tube defect
+- B. Common in the frontal region
+- C. Can be associated with hydrocephalus
+- D. It is protrusion of neural tissue through a defect
+
+<details><summary>Answer</summary>
+
+**A. It is a neural tube defect** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q157 — Most common site for opening of
+
+Most common site for opening of TAPVC is -
+
+- A. Supracardiac
+- B. Cardiac
+- C. Infracardiac
+- D. Multiple
+
+<details><summary>Answer</summary>
+
+**A. Supracardiac** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q158 — Autosomal recessive Polycystic kidneys - all
+
+Autosomal recessive Polycystic kidneys - all are true except -
+
+- A. Seen in adults
+- B. Defective gene is PKHD1
+- C. Both kidneys show innumerable cysts
+- D. USG shows salt and pepper appearance
+
+<details><summary>Answer</summary>
+
+**A. Seen in adults** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q159 — Investigation of choice for CONFIRMING Henoch
+
+Investigation of choice for CONFIRMING Henoch Schonlein purpura is -
+
+- A. Serum IgA levels
+- B. CRP levels
+- C. Renal Biopsy
+- D. DTPA
+
+<details><summary>Answer</summary>
+
+**C. Renal Biopsy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q160 — Which of the following is correct
+
+Which of the following is correct about shock in child?
+
+- A. Tachycardia is a very sensitive indicator of depletion of
+- B. Mottling of extremities is seen in early shock
+- C. Confusion, stupor and coma are early signs
+- D. Respiratory rate is more sensitive than heart rate as an
+
+<details><summary>Answer</summary>
+
+**A. Tachycardia is a very sensitive indicator of depletion of** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q161 — Inotropic support for severely dehydrated child
+
+Inotropic support for severely dehydrated child with dopamine is done at what rate -
+
+- A. 0.1-0-5 microgram/kg/min
+- B. 1-5 microgram/kg/min
+- C. 1-5 mg/kg/min
+- D. 10-15 mg/kg/min
+
+<details><summary>Answer</summary>
+
+**B. 1-5 microgram/kg/min** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q162 — In acute diarrhea following is used
+
+In acute diarrhea following is used to decrease duration and severity -
+
+- A. Zn
+- B. Mg
+- C. Fe
+- D. Ca
+
+<details><summary>Answer</summary>
+
+**A. Zn** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q163 — Consanguinous marriages increase risk of diseases
+
+Consanguinous marriages increase risk of diseases -
+
+- A. Autosomal dominant disease
+- B. Autosomal recessive disease
+- C. X linked dominant diseases
+- D. Environmental diseases
+
+<details><summary>Answer</summary>
+
+**B. Autosomal recessive disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q164 — Floor of nasal cavity in children
+
+Floor of nasal cavity in children is made of -
+
+- A. Palatine bone and vomer
+- B. Sphenoid and ethmoid
+- C. Nasal bone and maxilla
+- D. Palatine bone and maxilla
+
+<details><summary>Answer</summary>
+
+**D. Palatine bone and maxilla** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q165 — Reduced osmolarity ORS does not contain
+
+Reduced osmolarity ORS does not contain which of the following ion -
+
+- A. Sodium
+- B. Potassium
+- C. Lactate
+- D. Citrate
+
+<details><summary>Answer</summary>
+
+**C. Lactate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q166 — Osteoclasts have all of the following
+
+Osteoclasts have all of the following except -
+
+- A. Bone resorption
+- B. Receptor for parathormone
+- C. Ruffledborder
+- D. RANK ligand
+
+<details><summary>Answer</summary>
+
+**B. Receptor for parathormone** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q167 — PTH acts directly on which cells
+
+PTH acts directly on which cells ?
+
+- A. Osteoclasts
+- B. Osteocytes
+- C. Osteoblasts
+- D. Macrophages
+
+<details><summary>Answer</summary>
+
+**C. Osteoblasts** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q168 — Tennis elbow is characterized by
+
+Tennis elbow is characterized by ?
+
+- A. Tenderness over the medial epicondyle
+- B. Tendinits of common extensor origin
+- C. Tendinitis of common flexor origin
+- D. Painful flexion and extension
+
+<details><summary>Answer</summary>
+
+**B. Tendinits of common extensor origin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q169 — Flexor Digitorum Profundus tendon avulsion injury
+
+Flexor Digitorum Profundus tendon avulsion injury leads to -
+
+- A. Jersey Finger
+- B. Mallet Finger
+- C. Gamekeepers Thumb
+- D. Boutonierre Deformity
+
+<details><summary>Answer</summary>
+
+**A. Jersey Finger** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q170 — Extensor Carpi Radialis Longus is -
+
+Extensor Carpi Radialis Longus is -
+
+- A. Extensor and ulnar deviator ofthe wrist
+- B. Extensor and radial Deviator of the wrist
+- C. Injured in Posterior interosseus nerve injury
+- D. Weak extensor of the wrist
+
+<details><summary>Answer</summary>
+
+**B. Extensor and radial Deviator of the wrist** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q171 — Thomas test is used for testing
+
+Thomas test is used for testing?
+
+- A. Hip flexion
+- B. Knee flexion
+- C. Hip abduction
+- D. Hip rotation
+
+<details><summary>Answer</summary>
+
+**A. Hip flexion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q172 — A child presented to an orthopaedic
+
+A child presented to an orthopaedic clinic with a limp. The surgeon suspected him to have a fixed fledon deformity of the hip. Which test should
+
+- A. Thomas test
+- B. Trendelenburgs test
+- C. Nelatons test
+- D. Telescoping test
+
+<details><summary>Answer</summary>
+
+**A. Thomas test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q173 — Effect of hypoparathyroidisrn on bones include
+
+Effect of hypoparathyroidisrn on bones include -
+
+- A. Brown tumours
+- B. Subperiosteal Resorption of Bone
+- C. Multiple Cysts in Bone
+- D. NoneoftheAbove
+
+<details><summary>Answer</summary>
+
+**D. NoneoftheAbove** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q174 — AII of the following are true
+
+AII of the following are true regarding application of POP Cast except -
+
+- A. Putting the Plaster roll in warm water hastens setting time
+- B. It is anhydrous Calcium phosphate
+- C. It can applied in presence of extreme swelling
+- D. Gangrene is known complication of a tight plaster cast
+
+<details><summary>Answer</summary>
+
+**B. It is anhydrous Calcium phosphate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q175 — In uncemented arthroplasty of the hip
+
+In uncemented arthroplasty of the hip , the stem remains attached to the bone by -
+
+- A. Bone Ingrowth/ ongrowth over the surface of the stem
+- B. Mechanical bonding between the stem and bone
+- C. Press fitting of the stem in the tight canal
+- D. Adhesion between the stem and bone due to ashesive
+
+<details><summary>Answer</summary>
+
+**A. Bone Ingrowth/ ongrowth over the surface of the stem** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q176 — Vertebra Plana is seen in all
+
+Vertebra Plana is seen in all except -
+
+- A. Histioctosis X
+- B. Leukemia
+- C. Excessive use of systemic steroids
+- D. Scheurmanns Disease
+
+<details><summary>Answer</summary>
+
+**D. Scheurmanns Disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q177 — What is luxatio erecta
+
+What is luxatio erecta ?
+
+- A. Anterior Dislocation of the shoulder joint
+- B. Inferior Dislocation of the shoulder joint
+- C. Anterior Dislocation of the HIP joint
+- D. Posterior Dislocation of Hip joint
+
+<details><summary>Answer</summary>
+
+**B. Inferior Dislocation of the shoulder joint** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q178 — Hamilton Ruler test sign is positive
+
+Hamilton Ruler test sign is positive in which of the above mentioned conditions ?
+
+- A. Anterior dislocation of shoulder
+- B. Acrornioclavivular joint dislocation
+- C. Posterior dislocation of shoulder
+- D. luxatio erecta
+
+<details><summary>Answer</summary>
+
+**A. Anterior dislocation of shoulder** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q179 — Dinner fork deformity is seen in
+
+Dinner fork deformity is seen in?
+
+- A. Colle's fracture
+- B. March fracture
+- C. Lateral condyle fracture
+- D. Supracondylar fracture
+
+<details><summary>Answer</summary>
+
+**A. Colle's fracture** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q180 — Brodie-Trendelenburg test is positive in
+
+Brodie-Trendelenburg test is positive in:
+
+- A. Deep vein thrombosis
+- B. Sapheno-femoral incompetence
+- C. Thromboangiitis obliterans
+- D. Below-knee perforators incompetence
+
+<details><summary>Answer</summary>
+
+**B. Sapheno-femoral incompetence** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q181 — 4 year old child presented to
+
+4 year old child presented to the clinic with a history of fall on outstretched hand. Radiographs revealed a broken anterior cortex with an intact posterior
+
+- A. Torus Fracture
+- B. Greenstick fracture
+- C. Galleazi Fracture
+- D. Monteggia Frtacture Dislocation
+
+<details><summary>Answer</summary>
+
+**B. Greenstick fracture** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q182 — Greenstick Nightstick fractures are seen in
+
+Greenstick/ Nightstick fractures are seen in -
+
+- A. Children
+- B. Elderly
+- C. Youngadults
+- D. Common in all age groups
+
+<details><summary>Answer</summary>
+
+**A. Children** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q183 — Who devised correction of CTEV by
+
+Who devised correction of CTEV by serial castinga -
+
+- A. Ignasio Ponseti
+- B. Gerhardt Kuntscher
+- C. Gavril Ilizarov
+- D. Hugh Owen Thomas
+
+<details><summary>Answer</summary>
+
+**A. Ignasio Ponseti** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q184 — Quickening in multiparae is felt at
+
+Quickening in multiparae is felt at what weeks of gestation?
+
+- A. 14 weeks
+- B. 16 weeks
+- C. 18 weeks
+- D. 20 weeks
+
+<details><summary>Answer</summary>
+
+**B. 16 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q185 — Progesterone of choice in emergency contraception
+
+Progesterone of choice in emergency contraception is?
+
+- A. Norethisterone
+- B. Medroxyprogesterone
+- C. Oxytocin
+- D. Levonorgestrel
+
+<details><summary>Answer</summary>
+
+**D. Levonorgestrel** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q186 — Most common breech position is
+
+Most common breech position is
+
+- A. Complete breech
+- B. Frank breech
+- C. Footling breech
+- D. Knee presentation
+
+<details><summary>Answer</summary>
+
+**B. Frank breech** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q187 — Method not used for shoulder dystocia
+
+Method not used for shoulder dystocia
+
+- A. McRobert's maneuver
+- B. Hegar's maneuver
+- C. Zanavelli maneuver
+- D. Wood's maneuver
+
+<details><summary>Answer</summary>
+
+**B. Hegar's maneuver** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q188 — Occipitoanterior position
+
+Occipitoanterior position
+
+- A. Anterior fontanalle is posterior
+- B. Sagittal suture is along the Transverse plane of the maternal
+- C. Coronal suture is along the antero - posterior plane of the
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Anterior fontanalle is posterior** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q189 — Following genetic counselling in a family *(2016)*
+
+Following genetic counselling in a family for Familial polyposis coli (FPC) next screening test is
+
+- A. Flexible sigmoidoscopy
+- B. Colonoscopy
+- C. Occult blood in stools
+- D. APC gene
+
+<details><summary>Answer</summary>
+
+**D. APC gene** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q190 — Treatment of choice for stab injury *(2016)*
+
+Treatment of choice for stab injury caecum ?
+
+- A. Caecostomy
+- B. Ileo-transverse anastomosis
+- C. Transverse colostomy
+- D. Sigmoid colostomy
+
+<details><summary>Answer</summary>
+
+**B. Ileo-transverse anastomosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q191 — Fasting hypoglycemia is caused by the *(2016)*
+
+Fasting hypoglycemia is caused by the following except
+
+- A. Alcohol intake
+- B. Pentamidine therapy
+- C. Renal insufficiency
+- D. Chronic pancreatitis
+
+<details><summary>Answer</summary>
+
+**D. Chronic pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q192 — of the following is not a *(2016)*
+
+Which of the following is not a prognostic factor for Acute Pancreatitis
+
+- A. Serum Amylase
+- B. Serum Calcium
+- C. Serum Glucose
+- D. Serum AST
+
+<details><summary>Answer</summary>
+
+**A. Serum Amylase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q193 — sensitive and specific for acute pancreatitis *(2016)*
+
+Most sensitive and specific for acute pancreatitis amongst the following is:
+
+- A. S.amylase
+- B. S.Alanine transaminase
+- C. S.lipase
+- D. C-reactive protein
+
+<details><summary>Answer</summary>
+
+**C. S.lipase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q194 — enzyme is of diagnostic importance in *(2016)*
+
+Which enzyme is of diagnostic importance in chronic pancreatitis
+
+- A. Amylase
+- B. Pancreatic polypeptide
+- C. Lipase
+- D. Serum Interleukin 6 levels
+
+<details><summary>Answer</summary>
+
+**C. Lipase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q195 — common screening test for acute pancreatitis *(2016)*
+
+Most common screening test for acute pancreatitis -
+
+- A. Serum amylase
+- B. Serum lipase
+- C. Urine trypsinogen
+- D. Insulin
+
+<details><summary>Answer</summary>
+
+**C. Urine trypsinogen** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q196 — Pseudocyst pancreas is developed in how *(2016)*
+
+Pseudocyst pancreas is developed in how much duration following an attack of acute pancreatitis?
+
+- A. Less than 1 week
+- B. Less than 2 weeks
+- C. 3 or more weeks
+- D. 4 or more weeks
+
+<details><summary>Answer</summary>
+
+**D. 4 or more weeks** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q197 — Cullens sign is seen in *(2016)*
+
+Cullen's sign is seen in:
+
+- A. Acute cholecystitis
+- B. Acute hepatitis
+- C. Acute pancreatitis
+- D. Blunt injury abdomen
+
+<details><summary>Answer</summary>
+
+**C. Acute pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q198 — Contraindication for colostomy planning are all *(2016)*
+
+Contraindication for colostomy planning are all except -
+
+- A. Age > 60 yrs
+- B. Stoma near skin creases and bony prominences
+- C. Poorly motivated patient for elective stomy
+- D. Stomas through previous scars
+
+<details><summary>Answer</summary>
+
+**A. Age > 60 yrs** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q199 — Definition of childhood is under what *(2016)*
+
+Definition of childhood is under what age?
+
+- A. 8 years
+- B. 10 years
+- C. 12 years
+- D. 16 years
+
+<details><summary>Answer</summary>
+
+**C. 12 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q200 — child aged 7 years has how *(2016)*
+
+A child aged 7 years has how many teeth
+
+- A. 15
+- B. 20
+- C. 26
+- D. 32
+
+<details><summary>Answer</summary>
+
+**C. 26** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q201 — is the age of the child *(2016)*
+
+What is the age of the child who draws
+
+- A. 1 year
+- B. 2 years
+- C. 21/2 years
+- D. 3 years
+
+<details><summary>Answer</summary>
+
+**D. 3 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q202 — By what age is the milestone *(2016)*
+
+By what age is the milestone of climbing steps with alternate feet achieved?
+
+- A. 2 years
+- B. 3 years
+- C. 4 years
+- D. 5 years
+
+<details><summary>Answer</summary>
+
+**B. 3 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q203 — Social smile is attained at what *(2016)*
+
+Social smile is attained at what age?
+
+- A. 2 months
+- B. 5 months
+- C. 9 months
+- D. 1 year
+
+<details><summary>Answer</summary>
+
+**A. 2 months** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q204 — By what age can a newborn *(2016)*
+
+By what age can a newborn recognize mother?
+
+- A. 2 months
+- B. 3 months
+- C. 6 months
+- D. 7 months
+
+<details><summary>Answer</summary>
+
+**B. 3 months** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q205 — of the following can be done *(2016)*
+
+Which of the following can be done by an 18 months old baby?
+
+- A. Making tower of 9 cubes
+- B. Can use 10 words with meaning
+- C. Ride tricycle
+- D. Turn pages of book one at a time
+
+<details><summary>Answer</summary>
+
+**B. Can use 10 words with meaning** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q206 — Vocabulary of 15 year old child *(2016)*
+
+Vocabulary of 1.5 year old child is -
+
+- A. 1-10 words
+- B. 10-20 words
+- C. 20-30 words
+- D. 30-40 words
+
+<details><summary>Answer</summary>
+
+**B. 10-20 words** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q207 — child of 5 years can use *(2016)*
+
+A child of 5 years can use sentences of around how many words?
+
+- A. 6 words
+- B. 10 words
+- C. 100 words
+- D. 250 words
+
+<details><summary>Answer</summary>
+
+**B. 10 words** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q208 — Milestones achieved by a 10 months *(2016)*
+
+Milestones achieved by a 10 months old child are all except -
+
+- A. Pincer grasp
+- B. Waving bye - bye
+- C. Standing without support
+- D. Plays a peek - a - boo game
+
+<details><summary>Answer</summary>
+
+**C. Standing without support** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q209 — is the age of a child *(2016)*
+
+What is the age of a child who can identify 4 colours and draw a triangle?
+
+- A. 21/2 years
+- B. 3 years
+- C. 4 years
+- D. 5 years
+
+<details><summary>Answer</summary>
+
+**D. 5 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q210 — Growth of head circumference in 1st *(2016)*
+
+Growth of head circumference in 1st 3 months of life is by
+
+- A. 2 cm
+- B. 3 cm
+- C. 5 cm
+- D. 10 cm
+
+<details><summary>Answer</summary>
+
+**C. 5 cm** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q211 — Delayed eruption is failure of teeth *(2016)*
+
+Delayed eruption is failure of teeth to appear by
+
+- A. 6 months
+- B. 13 months
+- C. 25 months
+- D. 37 months
+
+<details><summary>Answer</summary>
+
+**B. 13 months** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q212 — Breast milk protects from infections as *(2016)*
+
+Breast milk protects from infections as it contains all of the following except:
+
+- A. IgE
+- B. Lactoferrin
+- C. Bifidus factor
+- D. PABA
+
+<details><summary>Answer</summary>
+
+**A. IgE** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q213 — of the following is true regarding *(2016)*
+
+Which of the following is true regarding premature milk as compared to mature milk?
+
+- A. Less lactose
+- B. Less iron
+- C. Less immunoglobulins
+- D. Less sodium
+
+<details><summary>Answer</summary>
+
+**A. Less lactose** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q214 — of the following are true regarding *(2016)*
+
+All of the following are true regarding breast milk as compared to cow's milk except
+
+- A. Contains more lactose
+- B. More amount of proteins
+- C. Less amount of fat content
+- D. Minerals and salts is less
+
+<details><summary>Answer</summary>
+
+**B. More amount of proteins** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q215 — of the following is the best *(2016)*
+
+Which of the following is the best reference for growth monitoring in children?
+
+- A. ICMR
+- B. NCHS
+- C. Boston
+- D. IAP
+
+<details><summary>Answer</summary>
+
+**B. NCHS** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q216 — Kwashiorkar is due to deficiency of *(2016)*
+
+Kwashiorkar is due to deficiency of
+
+- A. Calories
+- B. Minerals
+- C. Vitamins
+- D. Zinc
+
+<details><summary>Answer</summary>
+
+**A. Calories** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q217 — of the following is not true *(2016)*
+
+Which of the following is not true about Galeazzi fracture dislocation?
+
+- A. Fracture of distal third of radius and dislocation of distal radio-
+- B. Results from fall on outstretched hand
+- C. The distal end of ulna dislocates volarly after disruption of distal
+- D. Radius is angulated medially and anteriorly
+
+<details><summary>Answer</summary>
+
+**C. The distal end of ulna dislocates volarly after disruption of distal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q218 — In Monteggia fracture which is true *(2016)*
+
+In Monteggia fracture, which is true about ulnar fracture and head of radius
+
+- A. Both ulnar fracture and head of radius is displaced posteriorly
+- B. Both ulnar fracture and head of radius is displaced anteriorly
+- C. Ulnar fractures is posteriorly and head of radius is displaced
+- D. Ulnar fracture is anteriorly and head of radius is displaced
+
+<details><summary>Answer</summary>
+
+**B. Both ulnar fracture and head of radius is displaced anteriorly** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q219 — of the following shoulder movements is *(2016)*
+
+Which of the following shoulder movements is/ are weak in patients of supraspinatus tear?
+
+- A. Abduction
+- B. Adduction
+- C. External rotation
+- D. Internal rotation
+
+<details><summary>Answer</summary>
+
+**A. Abduction** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q220 — Increased Q angle predisposes to *(2016)*
+
+Increased Q angle predisposes to
+
+- A. Medial patellar subluxation
+- B. Lateral patellar subluxation
+- C. Superior patellar subluxation
+- D. Inferior patellar subluxation
+
+<details><summary>Answer</summary>
+
+**B. Lateral patellar subluxation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q221 — Seat belt injury is *(2016)*
+
+Seat belt injury is
+
+- A. Tear drop fracture
+- B. Wedge fracture
+- C. Chance fracture
+- D. Whiplash injury
+
+<details><summary>Answer</summary>
+
+**C. Chance fracture** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q222 — Popliteal artery injury is commonly seen *(2016)*
+
+Popliteal artery injury is commonly seen in which type of traumatic knee dislocation?
+
+- A. Anterior
+- B. Posterior
+- C. Medial
+- D. Lateral
+
+<details><summary>Answer</summary>
+
+**B. Posterior** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q223 — Kocher manoeuver is used for *(2016)*
+
+Kocher manoeuver is used for
+
+- A. Shoulder reduction
+- B. Elbow reduction
+- C. Ankle dislocation
+- D. Knee dislocation
+
+<details><summary>Answer</summary>
+
+**A. Shoulder reduction** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q224 — Cobra head plate is used for *(2016)*
+
+Cobra head plate is used for
+
+- A. Hip arthrodesis
+- B. Knee arthrodesis
+- C. Elbow arthrodesis
+- D. Ankle arthrodesis
+
+<details><summary>Answer</summary>
+
+**A. Hip arthrodesis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q225 — Locking compression plating for is commonly *(2016)*
+
+Locking compression plating for is commonly indicated in the following fracture types
+
+- A. Periarticular fractures
+- B. Transverse or oblique fractures of long bones
+- C. Intertrochanteric fractures
+- D. Fracture of long bones
+
+<details><summary>Answer</summary>
+
+**A. Periarticular fractures** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q226 — Ankle reflex is affected in prolapsed *(2016)*
+
+Ankle reflex is affected in prolapsed intervertebral disc at what level?
+
+- A. L3 - L4
+- B. L4 - L5
+- C. L5 - S1
+- D. S1 - S2
+
+<details><summary>Answer</summary>
+
+**C. L5 - S1** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q227 — CTEV shoe true is *(2016)*
+
+CTEV shoe true is
+
+- A. It is the same as normal shoe
+- B. It has straight medial border
+- C. It has medical shoe raise
+- D. It has heel with extra length
+
+<details><summary>Answer</summary>
+
+**B. It has straight medial border** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q228 — of the following is not true *(2016)*
+
+Which of the following is not true about the tests for hip instability in neonates?
+
+- A. Ortolanis test has two parts
+- B. They are performed at 2 - 3 days of birth
+- C. In ortolanis test examiners fingers rest on the greater trochanter
+- D. In barlows test examiners thumb is placed in the groin
+
+<details><summary>Answer</summary>
+
+**A. Ortolanis test has two parts** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q229 — Ortolani test is positive when the *(2016)*
+
+Ortolani test is positive when the examiner hears the ?
+
+- A. Clunk of entry on abduction and flexion of hip
+- B. Clunk of entry on extension and adduction of hip
+- C. Click of exit on abduction and flexion of hip
+- D. Click of exit on extension and adduction of hip
+
+<details><summary>Answer</summary>
+
+**A. Clunk of entry on abduction and flexion of hip** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q230 — Oncogenic osteomalacia is mediated by *(2016)*
+
+Oncogenic osteomalacia is mediated by
+
+- A. Phosphatonin
+- B. Calcitonin
+- C. Interleukin 2
+- D. Interleukin 6
+
+<details><summary>Answer</summary>
+
+**A. Phosphatonin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q231 — of the following is not true *(2016)*
+
+Which of the following is not true about the manipulation methods to correct CTEV?
+
+- A. Involves serial casting and below knee plaster casting
+- B. In kites method deformities are corrected sequentially
+- C. Ponseti's technique has success rate of 90 - 98%
+- D. Ponseti's method of correction involves cavus —> adduction -->
+
+<details><summary>Answer</summary>
+
+**A. Involves serial casting and below knee plaster casting** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q232 — of the following is not true *(2016)*
+
+Which of the following is not true about SCFE?
+
+- A. Males are affected more frequently
+- B. Extension is restricted
+- C. Commonly occurs during adolescence
+- D. Varus, adduction and external rotation deformities are present
+
+<details><summary>Answer</summary>
+
+**B. Extension is restricted** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q233 — Tinel sign is seen in *(2016)*
+
+Tinel sign is seen in ?
+
+- A. Nerve degeneration
+- B. Nerve regeneration
+- C. Muscle degeneration
+- D. Muscle regeneration
+
+<details><summary>Answer</summary>
+
+**B. Nerve regeneration** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q234 — are true about Marie - strumpell *(2016)*
+
+All are true about Marie - strumpell disease except :
+
+- A. Most commonly involves the sacro - iliac joints
+- B. Enhesitis is common
+- C. More common in males
+- D. Roentgenogram is the most sensitive investigation
+
+<details><summary>Answer</summary>
+
+**D. Roentgenogram is the most sensitive investigation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q235 — commonly lesion associated with pathological fract *(2016)*
+
+Most commonly lesion associated with pathological fracture in hand is -
+
+- A. Enchondroma
+- B. Metastases
+- C. Osteoid osteoma
+- D. Osteochondroma
+
+<details><summary>Answer</summary>
+
+**A. Enchondroma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q236 — common primary bone tumour of hand *(2016)*
+
+Most common primary bone tumour of hand is:
+
+- A. Osteoma
+- B. Osteochondroma
+- C. Enchondroma
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Enchondroma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q237 — common malignant bone tumor- *(2016)*
+
+Most common malignant bone tumor-
+
+- A. Osteogenic sarcoma
+- B. Secondaries
+- C. Osteoma
+- D. Enchondroma
+
+<details><summary>Answer</summary>
+
+**B. Secondaries** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q238 — common site for the osteoporotic vertebral *(2016)*
+
+Most common site for the osteoporotic vertebral fracture is ?
+
+- A. Dorsolumbar spine
+- B. Cervical spine
+- C. Lumbosacral spine
+- D. Dorsal spine
+
+<details><summary>Answer</summary>
+
+**A. Dorsolumbar spine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q239 — Trendelenburg test is positive due to *(2016)*
+
+Trendelenburg test is positive due to injury to which of the following nerve?
+
+- A. Obturator
+- B. Sciatic
+- C. Superior Gluteal
+- D. Inferior Gluteal
+
+<details><summary>Answer</summary>
+
+**C. Superior Gluteal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q240 — Shentons line is seen in X *(2016)*
+
+Shentons line is seen in X ray of -
+
+- A. Antero-posterior pelvis with both hips
+- B. Antero-posterior shoulder
+- C. Lateral cervical spine
+- D. Lateral lumbosacral spine
+
+<details><summary>Answer</summary>
+
+**A. Antero-posterior pelvis with both hips** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q241 — Chauffeur fracture is - *(2016)*
+
+Chauffeur fracture is -
+
+- A. Extra - articular fracture of styloid process
+- B. Intra - articular fracture of styloid process
+- C. Intra - articular fracture of base of 1st metacarpal
+- D. Extra - articular fracture of base of 1st metacarpal
+
+<details><summary>Answer</summary>
+
+**B. Intra - articular fracture of styloid process** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q242 — of the following is used in *(2016)*
+
+Which of the following is used in quantifying hirsutism?
+
+- A. Bishop score
+- B. Rotterdam criteria
+- C. Ferriman-Gallwey score
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Ferriman-Gallwey score** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q243 — Rate of cervical dilatation in primigravida *(2016)*
+
+Rate of cervical dilatation in primigravida is ?
+
+- A. 0.8 cm/hour
+- B. 1.2 cm/hour
+- C. 1.5 cm/hour
+- D. 2 cm/hour
+
+<details><summary>Answer</summary>
+
+**A. 0.8 cm/hour** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q244 — Chain of lakes appearance is seen *(2016)*
+
+Chain of lakes appearance is seen in?
+
+- A. Chronic pancreatitis
+- B. Acute pancreatitis
+- C. Gall stone ileus
+- D. Sub-acute intestinal obstruction
+
+<details><summary>Answer</summary>
+
+**A. Chronic pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+

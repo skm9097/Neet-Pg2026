@@ -1844,3 +1844,473 @@ A 68-year-old with advanced cancer: doctors believe aggressive treatment is futi
 
 ---
 
+## Year 2015
+
+### Q106 — Alkaline diuresis in acidic drug poisoning
+
+Alkaline diuresis in acidic drug poisoning is not done in ?
+
+- A. Aspirin
+- B. Methotrexate
+- C. Morphine
+- D. Phenobarbitone
+
+<details><summary>Answer</summary>
+
+**C. Morphine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q107 — Not a feature of postmortem staining
+
+Not a feature of postmortem staining -
+
+- A. Occur immediate after death
+- B. Common in dependent part
+- C. Disappear with putrefaction
+- D. Margins are sharp
+
+<details><summary>Answer</summary>
+
+**A. Occur immediate after death** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q108 — Best temperature for putrefaction is -
+
+Best temperature for putrefaction is -
+
+- A. 0-10 C
+- B. 10-45 C
+- C. 45-100 C
+- D. 100-150 C
+
+<details><summary>Answer</summary>
+
+**B. 10-45 C** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q109 — Best indicator of antemortem drowning is
+
+Best indicator of antemortem drowning is: Delhi 07; TN 11
+
+- A. Froth in nostrils
+- B. Cutis anserina
+- C. Washerwoman's hand
+- D. Water in stomach
+
+<details><summary>Answer</summary>
+
+**A. Froth in nostrils** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q110 — Arsenic poisoning presents with symptoms mimicking
+
+Arsenic poisoning presents with symptoms mimicking
+
+- A. Cholera
+- B. Dhatura poisoning
+- C. Barbiturates poisoniong
+- D. Morphine poisoning
+
+<details><summary>Answer</summary>
+
+**A. Cholera** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q111 — Which of the following is most
+
+Which of the following is most specific for arsenic poisoning ?
+
+- A. Red velvety stomach mucosa
+- B. Blue lining on gums
+- C. Tremors
+- D. Anemia
+
+<details><summary>Answer</summary>
+
+**A. Red velvety stomach mucosa** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q112 — Arrow poison is
+
+Arrow poison is ?
+
+- A. Opium
+- B. Curare
+- C. Cannabis
+- D. Cyanide
+
+<details><summary>Answer</summary>
+
+**B. Curare** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q113 — Best method of treatment of Methyl
+
+Best method of treatment of Methyl alcohol poisoning is :
+
+- A. Calcium gluconate
+- B. Ethyl alcohol
+- C. Amphetamines
+- D. 1 % Ammonia
+
+<details><summary>Answer</summary>
+
+**B. Ethyl alcohol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q114 — Miners cramps are also called NEET
+
+Miner's cramps are also called: NEET 13
+
+- A. Heat collapse
+- B. Heat cramps
+- C. Sunstroke
+- D. Heat exhaustion
+
+<details><summary>Answer</summary>
+
+**B. Heat cramps** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q115 — Corona mortis is
+
+Corona mortis is ?
+
+- A. Is a vascular anastomosis
+- B. Post mortem heart & coronary arteries examination
+- C. Another term used for rigor mortis
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Is a vascular anastomosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q116 — Which of the following can be
+
+Which of the following can be used for obtaining specimen for isolation of microorganism in laboratory diagnosis:
+
+- A. Meningococcal rash
+- B. Blood in staphylococcal food poisoning
+- C. Throat swab in Rheumatic fever
+- D. Blood in post-streptococcal GN
+
+<details><summary>Answer</summary>
+
+**A. Meningococcal rash** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q117 — Which is not an aryl organophosphate
+
+Which is not an aryl organophosphate ?
+
+- A. Malathion
+- B. Parathion
+- C. Chlorthion
+- D. Diazinon
+
+<details><summary>Answer</summary>
+
+**A. Malathion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q118 — MC cause of delirium
+
+MC cause of delirium ?
+
+- A. Infection
+- B. Liver failure
+- C. Belladonna poisoning
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Infection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q119 — True about flumazenil is
+
+True about flumazenil is ?
+
+- A. Can be used in barbiturate poisoning
+- B. Specific antidote for opiate overdose
+- C. Can be used in benzodiazepine overdose
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Can be used in benzodiazepine overdose** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q120 — Rigor mortis occurs due to *(2016)*
+
+Rigor mortis occurs due to:
+
+- A. Muscle of the body began to relax
+- B. Capillo-venous distension in the most dependent body parts
+- C. Muscle of the body began to stiffen
+- D. Mummification of the body tissues
+
+<details><summary>Answer</summary>
+
+**C. Muscle of the body began to stiffen** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q121 — is the best temperature for putrefaction *(2016)*
+
+Which is the best temperature for putrefaction?
+
+- A. - 10 degrees C
+- B. 0 degrees C
+- C. 30 degrees C
+- D. 50 degrees C
+
+<details><summary>Answer</summary>
+
+**C. 30 degrees C** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q122 — Bansdola is a form of strangulation *(2016)*
+
+Bansdola is a form of strangulation by: NEET 14
+
+- A. Ligature
+- B. Hands
+- C. Wooden sticks
+- D. Bend of elbow
+
+<details><summary>Answer</summary>
+
+**C. Wooden sticks** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q123 — Pure motor palsy seen in poisoning *(2016)*
+
+Pure motor palsy seen in poisoning of
+
+- A. Lead poisoning
+- B. Arsenic poisoning
+- C. Cocaine poisoning
+- D. Cannabis poisoning
+
+<details><summary>Answer</summary>
+
+**A. Lead poisoning** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q124 — True about acid poisoning is *(2016)*
+
+True about acid poisoning is
+
+- A. Greatest damage is along the lesser curvature
+- B. Corrosives cause vaporization of tissues
+- C. Vitriolage means ingestion of acid in empty stomach
+- D. Highest chance of perforation is with nitric acid
+
+<details><summary>Answer</summary>
+
+**A. Greatest damage is along the lesser curvature** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q125 — Not a contact poison MAHE 14 *(2016)*
+
+Not a contact poison: MAHE 14
+
+- A. Pyrethrum
+- B. Paris green
+- C. Rotenone
+- D. Eucalyptus oil
+
+<details><summary>Answer</summary>
+
+**A. Pyrethrum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q126 — Flapping tremors are not seen in *(2016)*
+
+Flapping tremors are not seen in
+
+- A. CO2 toxicity
+- B. Hypomagnesemia
+- C. Subarachnoid hemorrhage
+- D. Carbolic acid poisoning
+
+<details><summary>Answer</summary>
+
+**D. Carbolic acid poisoning** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q127 — Indicatons of liver transplant in PCM *(2016)*
+
+Indicatons of liver transplant in PCM poisoning are all except
+
+- A. SGPT increase
+- B. PT/INR
+- C. High creatinine
+- D. Encephalopathy
+
+<details><summary>Answer</summary>
+
+**A. SGPT increase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q128 — In corrosive injury of esophagus correct *(2016)*
+
+In corrosive injury of esophagus correct statement is all except
+
+- A. Alkalis are usually ingested in larger volumes
+- B. Alkalis cause more gastic damage than acids
+- C. Alkalis form fibrous scar
+- D. Acids form eschar
+
+<details><summary>Answer</summary>
+
+**B. Alkalis cause more gastic damage than acids** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+

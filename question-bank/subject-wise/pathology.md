@@ -2808,3 +2808,6471 @@ Which translocation is characteristically associated with AML M3?
 
 ---
 
+## Year 2015
+
+### Q155 — Which is activated for nuclear fragmentation
+
+Which is activated for nuclear fragmentation in apoptosis -
+
+- A. Caspases
+- B. Apaf - 1
+- C. Oxygen free radicals
+- D. All
+
+<details><summary>Answer</summary>
+
+**A. Caspases** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q156 — In apoptosis which isare involved -
+
+In apoptosis which is/are involved -
+
+- A. Apaf-1
+- B. Bc12
+- C. Caspases
+- D. All
+
+<details><summary>Answer</summary>
+
+**D. All** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q157 — Spread of infection causes
+
+Spread of infection causes
+
+- A. Fibrinoid necrosis
+- B. Fat necrosis
+- C. Liquifactive necrosis
+- D. Coagulative necrosis
+
+<details><summary>Answer</summary>
+
+**C. Liquifactive necrosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q158 — MI is a type of -
+
+MI is a type of -
+
+- A. Coagulative necrosis
+- B. Liquefactive necrosis
+- C. Caseous necrosis
+- D. Fat necrosis
+
+<details><summary>Answer</summary>
+
+**A. Coagulative necrosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q159 — Not an example of excess tissue
+
+Not an example of excess tissue growth
+
+- A. Granulation tissue
+- B. Neoplasia
+- C. Hyperplasia
+- D. Fibrosis
+
+<details><summary>Answer</summary>
+
+**A. Granulation tissue** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q160 — 1st mediator of inflammation to be
+
+1st mediator of inflammation to be released is
+
+- A. Nitric oxide
+- B. PAF
+- C. Histamine
+- D. IL-1
+
+<details><summary>Answer</summary>
+
+**C. Histamine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q161 — Which of the following is derived
+
+Which of the following is derived from fibroblast cells ?
+
+- A. TGF-13
+- B. MMP2
+- C. Collagen
+- D. Angiopoietin
+
+<details><summary>Answer</summary>
+
+**C. Collagen** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q162 — Process of migration of leukocytes through
+
+Process of migration of leukocytes through the endothelium is through:
+
+- A. Phagocytosis
+- B. Pinocytosis
+- C. Diapedesis
+- D. Apoptosis
+
+<details><summary>Answer</summary>
+
+**C. Diapedesis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q163 — Serum amyloid associated protein, found in
+
+Serum amyloid associated protein, found in ?
+
+- A. Alzheimer's disease
+- B. Chronic inflammatory states
+- C. Chronic renal failure
+- D. Malignant hypertension
+
+<details><summary>Answer</summary>
+
+**B. Chronic inflammatory states** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q164 — Reversible change from on cell type
+
+Reversible change from on cell type to other is known as -
+
+- A. Hyperplesia
+- B. Hypertrophy
+- C. Metaplesia
+- D. Dysplasia
+
+<details><summary>Answer</summary>
+
+**C. Metaplesia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q165 — Elastic fibers of tunica media are
+
+Elastic fibers of tunica media are secreted by
+
+- A. Fibroblast
+- B. Endothelium
+- C. Smooth muscle
+- D. External lamina
+
+<details><summary>Answer</summary>
+
+**C. Smooth muscle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q166 — Small vessel vasculitis are -
+
+Small vessel vasculitis are -
+
+- A. Classical PAN
+- B. Wegner's granulomatosis
+- C. Giant cell arteritis
+- D. All
+
+<details><summary>Answer</summary>
+
+**B. Wegner's granulomatosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q167 — Warm antibody in AIHA is -
+
+Warm antibody in AIHA is -
+
+- A. IgE
+- B. IgM
+- C. IgG
+- D. IgD
+
+<details><summary>Answer</summary>
+
+**C. IgG** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q168 — Osmotic fragility test is commonly used
+
+Osmotic fragility test is commonly used for -
+
+- A. Iron deficienry anemia
+- B. Megaloblastic anemia
+- C. Hereditary spherocYtosis
+- D. Aplastic anemia
+
+<details><summary>Answer</summary>
+
+**C. Hereditary spherocYtosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q169 — Which of the following findings is
+
+Which of the following findings is diagnostic of iron deficiency anemia?
+
+- A. Increased TIBC, decreased serum ferritin
+- B. Decreased TIBC, decreased serum ferritin
+- C. Increased TIBC, increased serum ferritin
+- D. Decreased TIBC, increased serum ferritin
+
+<details><summary>Answer</summary>
+
+**A. Increased TIBC, decreased serum ferritin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q170 — Ristocetin testing von Willebrand disease shows
+
+Ristocetin testing von Willebrand disease shows?
+
+- A. Increased agglutination
+- B. Decreasedagglutination
+- C. Normalagglutination
+- D. No agglutination
+
+<details><summary>Answer</summary>
+
+**B. Decreasedagglutination** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q171 — Shelf life of platelets to blood
+
+Shelf life of platelets to blood bank is
+
+- A. 5 days
+- B. 7 days
+- C. 10 days
+- D. 21 days
+
+<details><summary>Answer</summary>
+
+**A. 5 days** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q172 — Which of the following does not
+
+Which of the following does not predispose to leukemia?
+
+- A. Genetic disorder
+- B. Alcohol
+- C. Smoking
+- D. Chemical exposure
+
+<details><summary>Answer</summary>
+
+**B. Alcohol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q173 — Hairy cell leukemia is a Neoplastic
+
+'Hairy cell leukemia' is a Neoplastic proliferation of :
+
+- A. T. cells
+- B. B. cells
+- C. Myeloid cells
+- D. Macrophages
+
+<details><summary>Answer</summary>
+
+**B. B. cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q174 — AML causing Gum hypertrophy
+
+AML causing Gum hypertrophy ?
+
+- A. M1
+- B. M2
+- C. M3
+- D. M4
+
+<details><summary>Answer</summary>
+
+**D. M4** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q175 — Radiotherapy induced radiation pneumonitis mediate
+
+Radiotherapy induced radiation pneumonitis mediated by all of the following except -
+
+- A. TNF-c
+- B. PAF
+- C. TGF-p
+- D. NF-kB
+
+<details><summary>Answer</summary>
+
+**B. PAF** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q176 — Most common lung cancer in non-
+
+Most common lung cancer in non- smokers is:
+
+- A. Adenocarcinoma
+- B. Squamous cell carcinoma
+- C. Oat cell carcinoma
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Adenocarcinoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q177 — Most common histological form of lung
+
+Most common histological form of lung Ca that metastasizes is -
+
+- A. Squamous cell CA
+- B. Adenocarcinoma
+- C. Alveolar-carcinoma
+- D. Small cell carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Squamous cell CA** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q178 — Most common tnre of renal carcinoma
+
+Most common tnre of renal carcinoma is -
+
+- A. Clear cell type
+- B. Chromophobe type
+- C. Papillarytype
+- D. Tubulartype
+
+<details><summary>Answer</summary>
+
+**A. Clear cell type** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q179 — Subepithelial deposits in kidney are seen
+
+Subepithelial deposits in kidney are seen in-
+
+- A. MPGN-1
+- B. GPS
+- C. PSGN
+- D. All
+
+<details><summary>Answer</summary>
+
+**C. PSGN** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q180 — NotafeatureofPSGN -
+
+NotafeatureofPSGN -
+
+- A. HTN
+- B. Increased urea
+- C. Increased creatinine
+- D. Normal C3 level
+
+<details><summary>Answer</summary>
+
+**D. Normal C3 level** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q181 — In follicular carcinoma chromosomal translocation 
+
+In follicular carcinoma chromosomal translocation is?
+
+- A. PAXS - PPARTI
+- B. RET - PTC
+- C. ALK - NMPI
+- D. IAK - TEL
+
+<details><summary>Answer</summary>
+
+**A. PAXS - PPARTI** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q182 — All of the following are features
+
+All of the following are features of granulomatous thyroiditis except?
+
+- A. Hyperthyroidism
+- B. Hypothyroidism
+- C. Painless
+- D. Giant cells on histology
+
+<details><summary>Answer</summary>
+
+**C. Painless** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q183 — Sezary cells show which tlpe of
+
+Sezary cells show which tlpe of nucleus -
+
+- A. Pleomorphic
+- B. Round
+- C. Eosinophillic
+- D. Cerebriform
+
+<details><summary>Answer</summary>
+
+**D. Cerebriform** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q184 — Prusian blue detects
+
+Prusian blue detects?
+
+- A. Ferric iron
+- B. Ferrous iron
+- C. Glycogen
+- D. Lipids
+
+<details><summary>Answer</summary>
+
+**A. Ferric iron** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q185 — Lysosome with undigested particle inside is
+
+Lysosome with undigested particle inside is known as -
+
+- A. Residual body
+- B. Phagosome
+- C. Phagolysosome
+- D. Autophagosome
+
+<details><summary>Answer</summary>
+
+**A. Residual body** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q186 — The predominant isozyme of LDH in
+
+The predominant isozyme of LDH in Lung is:
+
+- A. LD-1
+- B. LD-2
+- C. LD-3
+- D. LD-5
+
+<details><summary>Answer</summary>
+
+**C. LD-3** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q187 — Homer rosette is seen in -
+
+Homer rosette is seen in -
+
+- A. Neurobastoma
+- B. Nephroblastoma
+- C. Hepatoma
+- D. Ependymoma
+
+<details><summary>Answer</summary>
+
+**A. Neurobastoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q188 — Neuroblastomas - good prognositc factor is
+
+Neuroblastomas - good prognositc factor is ?
+
+- A. N-myc amplification
+- B. RAS oncogene
+- C. Hyperdiploidy
+- D. Translocations
+
+<details><summary>Answer</summary>
+
+**C. Hyperdiploidy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q189 — Flare in Triple response is mediated
+
+'Flare' in Triple response is mediated by :
+
+- A. Axon reflex
+- B. Arteriolar dilation
+- C. Histamine release
+- D. Local hormones
+
+<details><summary>Answer</summary>
+
+**A. Axon reflex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q190 — HDL receptor is -
+
+HDL receptor is -
+
+- A. SR-BI
+- B. LDLR
+- C. HDLR
+- D. SR-82
+
+<details><summary>Answer</summary>
+
+**A. SR-BI** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q191 — Citron bodies boat or leaf shaped
+
+"Citron bodies" boat or leaf shaped pleomorphic organism in an exudate is
+
+- A. Cl. welchii
+- B. Cl. edematiens
+- C. Cl. septicum
+- D. Cl. tetani
+
+<details><summary>Answer</summary>
+
+**C. Cl. septicum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q192 — Calrexin and calreticulin are -
+
+Calrexin and calreticulin are -
+
+- A. Glycoproteins
+- B. Chaperons
+- C. Tumor markers
+- D. Enzymes
+
+<details><summary>Answer</summary>
+
+**B. Chaperons** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q193 — Which of the following is potassium
+
+Which of the following is potassium Channelopathy -
+
+- A. Hypokalemic periodic paralysis
+- B. Hyperkalemic periodic paralysis
+- C. Episodic ataxia I
+- D. Long QT-syndrome
+
+<details><summary>Answer</summary>
+
+**A. Hypokalemic periodic paralysis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q194 — Which of the following is false
+
+Which of the following is false regarding carcinoid tumor ?
+
+- A. Neuroendocrine tumor
+- B. Most common site is lung
+- C. Associated with serotonin production
+- D. Potentially malignant tumor
+
+<details><summary>Answer</summary>
+
+**B. Most common site is lung** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q195 — Fibrosis associated with liver cirrhosis is
+
+Fibrosis associated with liver cirrhosis is mediated by -
+
+- A. PDGF
+- B. IFN-y
+- C. ICAM-1
+- D. PcAM-l
+
+<details><summary>Answer</summary>
+
+**A. PDGF** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q196 — Solution currently used for liver preservation
+
+Solution currently used for liver preservation for transplant is -
+
+- A. UW solution
+- B. IGL solution
+- C. Kyoto ET solution
+- D. Ross Marshal Citrate solution
+
+<details><summary>Answer</summary>
+
+**A. UW solution** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q197 — Which of the following markers is
+
+Which of the following markers is specific for gastro-intestinal stomal tumor (GIST) -
+
+- A. CD 117
+- B. CD 34
+- C. CD 23
+- D. S-100
+
+<details><summary>Answer</summary>
+
+**A. CD 117** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q198 — Primary hyperparathyroidism, phaeochromocytoma may
+
+Primary hyperparathyroidism, phaeochromocytoma may be associated with which type of thyroid cancer?
+
+- A. Medullary carcinoma of the thyroid
+- B. Papillary carcinoma of the thyroid
+- C. Anaplastic carcinoma of the thyroid
+- D. Follicular carcinoma of the thyroid
+
+<details><summary>Answer</summary>
+
+**A. Medullary carcinoma of the thyroid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q199 — Permission from DCGI Drug controller general,
+
+Permission from DCGI [Drug controller general, India] is needed before which phase of drug trial?
+
+- A. Phase 1
+- B. Phase 2
+- C. Phase 3
+- D. Phase 4
+
+<details><summary>Answer</summary>
+
+**A. Phase 1** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q200 — CYP3A inhibitors isare -
+
+CYP3A inhibitors is/are -
+
+- A. Ritonavir
+- B. Amiodarone
+- C. Verapamil
+- D. a and c
+
+<details><summary>Answer</summary>
+
+**D. a and c** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q201 — Regarding efficacy and potency of a
+
+Regarding efficacy and potency of a drug, all are true, EXCEPT:
+
+- A. In a clinical setup, efficacy is more important than potency
+- B. In the log dose response curve, the height of the curve
+- C. ED50 of the drug corresponds to efficacy
+- D. Drugs that produce a similar pharmacological effect can have
+
+<details><summary>Answer</summary>
+
+**C. ED50 of the drug corresponds to efficacy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q202 — Volume of distribution of a drug
+
+Volume of distribution of a drug is 500 ml and target concentration of drug in blood is 5 g/L. 20% of administered drug is reached to systemic circulation. What
+
+- A. 1 gm
+- B. 5 gm
+- C. 12.5 gm
+- D. 25 gm
+
+<details><summary>Answer</summary>
+
+**C. 12.5 gm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q203 — Drugs which is not metabolized by
+
+Drugs which is not metabolized by acetylation ?
+
+- A. Dapsone
+- B. Metoclopramide
+- C. Procainamide
+- D. INH
+
+<details><summary>Answer</summary>
+
+**B. Metoclopramide** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q204 — True about drug metabolism
+
+True about drug metabolism ?
+
+- A. Glucuronidation is phase I reaction
+- B. Most common enzyme involved is Cyp 3A4/5
+- C. Reduction is most common reaction
+- D. Cytochrome p450 is involved phase-II reaction
+
+<details><summary>Answer</summary>
+
+**B. Most common enzyme involved is Cyp 3A4/5** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q205 — Which is topical way of drug
+
+Which is topical way of drug administration ?
+
+- A. Inhaled steroid
+- B. Transdermal patch
+- C. Sublingual NTG
+- D. Rectal diazepam
+
+<details><summary>Answer</summary>
+
+**A. Inhaled steroid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q206 — True about transdermal drug delivery system
+
+True about transdermal drug delivery system are all except?
+
+- A. Applied to chest, abdomen and back
+- B. Drug is delivered at a constant rate
+- C. Good option in emergency situations
+- D. Fentanyl is used
+
+<details><summary>Answer</summary>
+
+**C. Good option in emergency situations** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q207 — Receptor level antagonism is shown by
+
+Receptor level antagonism is shown by ?
+
+- A. Adrenaline and Isoprenaline
+- B. Histamine and adrenaline
+- C. Isoprenaline and propranolol
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Isoprenaline and propranolol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q208 — Fastest receptor mediated action is through
+
+Fastest receptor mediated action is through ?
+
+- A. Cell membrane receptors
+- B. Intrinsic ion channels
+- C. Enzyme linked receptors
+- D. Intracellular receptors
+
+<details><summary>Answer</summary>
+
+**B. Intrinsic ion channels** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q209 — Side effects of clonidine are all
+
+Side effects of clonidine are all except ?
+
+- A. Xerostomia
+- B. Sedation
+- C. Impotency
+- D. Diarrhea
+
+<details><summary>Answer</summary>
+
+**D. Diarrhea** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q210 — Lipid insoluble (3-blokcer is -
+
+Lipid insoluble (3-blokcer is -
+
+- A. Timolol
+- B. Carvedilol
+- C. Pindolol
+- D. Celiprolol
+
+<details><summary>Answer</summary>
+
+**D. Celiprolol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q211 — Nonselective a  1 blocker is
+
+Nonselective a + 1 blocker is ?
+
+- A. Carvedilol
+- B. Timolol
+- C. Pindolol
+- D. Acebutolol
+
+<details><summary>Answer</summary>
+
+**A. Carvedilol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q212 — Non-selective Beta-blocker with sympathomimetic ac
+
+Non-selective Beta-blocker with sympathomimetic activity ?
+
+- A. Pindolol
+- B. Acebutalol
+- C. Nodalol
+- D. Metoprolol
+
+<details><summary>Answer</summary>
+
+**A. Pindolol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q213 — Action of M, cholinergic receptors
+
+Action of M, cholinergic receptors ?
+
+- A. Skeletal muscle contraction
+- B. Acid secretion in stomach
+- C. Decreased heart rate
+- D. Salivation and lacrimation
+
+<details><summary>Answer</summary>
+
+**C. Decreased heart rate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q214 — Antimuscarinic drug used in overactive bladder
+
+Antimuscarinic drug used in overactive bladder -
+
+- A. Pirenzepine
+- B. Trospium
+- C. Tropicamide
+- D. Atropine
+
+<details><summary>Answer</summary>
+
+**B. Trospium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q215 — Anti-cholinesterase with central action
+
+Anti-cholinesterase with central action ?
+
+- A. Neostigmine
+- B. Physostigmine
+- C. Pyridostigmine
+- D. Edrophonium
+
+<details><summary>Answer</summary>
+
+**B. Physostigmine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q216 — Maximum cycloplegic action of atropine is
+
+Maximum cycloplegic action of atropine is seen at ?
+
+- A. 30-40 minutes
+- B. 1-3 hours
+- C. 8-10 hours
+- D. 1-2 weeks
+
+<details><summary>Answer</summary>
+
+**B. 1-3 hours** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q217 — One of the following is not
+
+One of the following is not a side effect of atropine?
+
+- A. Blurring of vision
+- B. Diarrhoea
+- C. Urinary retention
+- D. Confusion of elderly
+
+<details><summary>Answer</summary>
+
+**B. Diarrhoea** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q218 — Longest acting anti-cholinesterase -
+
+Longest acting anti-cholinesterase -
+
+- A. Pyridostigmine
+- B. Ambenonium
+- C. Edrophonium
+- D. Echothiophate
+
+<details><summary>Answer</summary>
+
+**D. Echothiophate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q219 — Propranolol is used in
+
+Propranolol is used in ?
+
+- A. Thyrotoxicosis
+- B. AV block
+- C. Cardiac arrest
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Thyrotoxicosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q220 — Maximum potassium loss is caused by
+
+Maximum potassium loss is caused by which diuretics ?
+
+- A. Furosemide
+- B. Thiazide
+- C. Acetazolamide
+- D. Spironolactone
+
+<details><summary>Answer</summary>
+
+**C. Acetazolamide** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q221 — True about cardiac muscle fibers
+
+True about cardiac muscle fibers ?
+
+- A. Digitalis decreases force of contraction
+- B. Na+ - Ca+ exchanger requires ATP directly
+- C. Na+-Ca+ exchanger acts to pump Ca2+ into heart muscle cells
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**C. Na+-Ca+ exchanger acts to pump Ca2+ into heart muscle cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q222 — Side effects of amiodarone are all
+
+Side effects of amiodarone are all except ?
+
+- A. Hyperthyroidism
+- B. Peripheral neuropathy
+- C. Skin discoloration
+- D. Hyperglycemia
+
+<details><summary>Answer</summary>
+
+**D. Hyperglycemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q223 — Thiazides cause hypercalcemia by
+
+Thiazides cause hypercalcemia by ?
+
+- A. Increased Ca" absorption
+- B. Increased PTH secretion
+- C. Decreased calcitonin secretion
+- D. Decreased calcium excretion
+
+<details><summary>Answer</summary>
+
+**D. Decreased calcium excretion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q224 — Drug affecting positive free water clearance
+
+Drug affecting positive free water clearance without affecting negative free water clearance -
+
+- A. Loop diuretics
+- B. Thiazides
+- C. Acetazolamide
+- D. Amiloride
+
+<details><summary>Answer</summary>
+
+**B. Thiazides** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q225 — Sympathomimetic drug which causes decrease in
+
+Sympathomimetic drug which causes decrease in heart rate ?
+
+- A. Adrenaline
+- B. Isoprenaline
+- C. Noradrenaline
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Noradrenaline** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q226 — Na- K- 2Cl- is inhibited by
+
+Na*- K*- 2Cl- is inhibited by -
+
+- A. Thiazides
+- B. Acetazolomide
+- C. Furosemide
+- D. Amiloride
+
+<details><summary>Answer</summary>
+
+**C. Furosemide** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q227 — Opioid morphine causes
+
+Opioid [morphine] causes ?
+
+- A. Increased heart rate
+- B. Increased muscle tone
+- C. Mydriaris
+- D. Respiratory stimulation
+
+<details><summary>Answer</summary>
+
+**B. Increased muscle tone** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q228 — Most common renal sequel of lithium
+
+Most common renal sequel of lithium toxicity is ?
+
+- A. Nephrogenic DM
+- B. Renal tubular acidosis
+- C. Glycosuria
+- D. MPGN
+
+<details><summary>Answer</summary>
+
+**A. Nephrogenic DM** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q229 — Drug(s) not given as transdermal patch
+
+Drug(s) not given as transdermal patch:
+
+- A. Fentanyl
+- B. Diclofenac
+- C. Morphine
+- D. Clonidine
+
+<details><summary>Answer</summary>
+
+**A. Fentanyl** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q230 — Zonisamide acts on
+
+Zonisamide acts on ?
+
+- A. GABA receptors
+- B. T type Ca2+ channels
+- C. Na+Channels
+- D. Cl- channels
+
+<details><summary>Answer</summary>
+
+**C. Na+Channels** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q231 — Dexmedetomidine acts on which receptor for
+
+Dexmedetomidine acts on which receptor for its analgesic action ?
+
+- A. 5HT2A
+- B. D2
+- C. α2A
+- D. D5
+
+<details><summary>Answer</summary>
+
+**C. α2A** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q232 — Adverse effects of phenytoin include all
+
+Adverse effects of phenytoin include all of the following except?
+
+- A. Lymphadenopathy
+- B. Ataxia
+- C. Hypercalcemia
+- D. Hirsutism
+
+<details><summary>Answer</summary>
+
+**C. Hypercalcemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q233 — Which of the following is true
+
+Which of the following is true?
+
+- A. Glucocorticoids upregulate MHC expression
+- B. Glucocorticoids activate T-helper cells
+- C. Glucocorticoids activate cytotoxic T cells
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Glucocorticoids upregulate MHC expression** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q234 — Which of the following is an
+
+Which of the following is an aromatase inhibitor?
+
+- A. Tamoxifen
+- B. Letrozole
+- C. Danazol
+- D. Taxane
+
+<details><summary>Answer</summary>
+
+**B. Letrozole** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q235 — Drug which is contraindicated before 2nd
+
+Drug which is contraindicated before 2nd stage of labor is:
+
+- A. Mifepristone
+- B. Oxytocin
+- C. Misoprostol
+- D. Ergometrine
+
+<details><summary>Answer</summary>
+
+**D. Ergometrine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q236 — Which of the following oral antidiabetic
+
+Which of the following oral antidiabetic drug is insulin secretagogues?
+
+- A. Metformin
+- B. Pioglitazone
+- C. Nateglinide
+- D. Acarbose
+
+<details><summary>Answer</summary>
+
+**C. Nateglinide** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q237 — Which of the following antidiabetic drug
+
+Which of the following antidiabetic drug is insulin secretogogue ?
+
+- A. Pramlintide
+- B. Glucomannan
+- C. Exenatide
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Exenatide** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q238 — Oral sore due to inhaled steroids
+
+Oral sore due to inhaled steroids are treated by ?
+
+- A. Griseofulfin
+- B. Amphotericin-B
+- C. Fusidic acid
+- D. Muprocin ointment
+
+<details><summary>Answer</summary>
+
+**B. Amphotericin-B** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q239 — PGE1 analogue is
+
+PGE1 analogue is ?
+
+- A. Carboprost
+- B. Alprostadil
+- C. Epoprostenol
+- D. Dinoprostone
+
+<details><summary>Answer</summary>
+
+**B. Alprostadil** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q240 — Triptan taken by nasal route is
+
+Triptan taken by nasal route is ?
+
+- A. Sumatriptan
+- B. Rizatriptan
+- C. Naratriptan
+- D. Frovatriptan
+
+<details><summary>Answer</summary>
+
+**A. Sumatriptan** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q241 — Acetaminophen Paracetamol induced liver toxicity i
+
+Acetaminophen [Paracetamol] induced liver toxicity is due to ?
+
+- A. N-acetyl cystine
+- B. NAPQ
+- C. Co-Q
+- D. Cytochrome 'C'
+
+<details><summary>Answer</summary>
+
+**B. NAPQ** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q242 — True about heparin induced thrombocytopenia
+
+True about heparin induced thrombocytopenia ?
+
+- A. Low molecular weight heparin is better alternative
+- B. Antibodies are formed against platelets
+- C. Vitamin K is specific antidote
+- D. Within 12 hours of starting heparin
+
+<details><summary>Answer</summary>
+
+**B. Antibodies are formed against platelets** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q243 — Which of following is a stool
+
+Which of following is a stool softener ?
+
+- A. Bran
+- B. Senna
+- C. Phenalphthalein
+- D. Docusates
+
+<details><summary>Answer</summary>
+
+**D. Docusates** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q244 — Latest oral direct thrombin inhibitor is
+
+Latest oral direct thrombin inhibitor is?
+
+- A. Ximelagatran
+- B. Indraparinux
+- C. Dabigatran
+- D. Fondaparinux
+
+<details><summary>Answer</summary>
+
+**C. Dabigatran** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q245 — Ximelagatran is used as
+
+Ximelagatran is used as ?
+
+- A. Antiplatelet
+- B. Anticoagulant
+- C. Fibrinolytic
+- D. Antifibrinolytic
+
+<details><summary>Answer</summary>
+
+**B. Anticoagulant** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q246 — Thymidine is responsible for resistance to
+
+Thymidine is responsible for resistance to which antibiotic ?
+
+- A. Erythromycin
+- B. Sulfonamide
+- C. Tetracycline
+- D. Nitroforantoin
+
+<details><summary>Answer</summary>
+
+**B. Sulfonamide** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q247 — Which of the following is not
+
+Which of the following is not excreted in kidney ?
+
+- A. Ciprofloxacin
+- B. Ofloxacin
+- C. Levofloxacin
+- D. Moxifloxacin
+
+<details><summary>Answer</summary>
+
+**D. Moxifloxacin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q248 — Levamisol is aan
+
+Levamisol is a/an ?
+
+- A. Immunomodulator
+- B. Immunostimulant
+- C. Antiheliminthic
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q249 — Quinine acts on which stage of
+
+Quinine acts on which stage of plasmodium life cycle?
+
+- A. Exoerythrocytic
+- B. Pre-erythrocytic
+- C. Erythrocytic
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Erythrocytic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q250 — Synergistic action is shown by all
+
+Synergistic action is shown by all except ?
+
+- A. Penicillin plus sulfonamide
+- B. Streptomycin plus tetracycline
+- C. Rifampicin plus dapsone
+- D. Penicillin plus tetracycline
+
+<details><summary>Answer</summary>
+
+**D. Penicillin plus tetracycline** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q251 — Neuropathy with INH therapy is least
+
+Neuropathy with INH therapy is least in patients?
+
+- A. Having malnutrition
+- B. Alcoholics
+- C. Fast acetylators
+- D. Vitamin B complex deficiency
+
+<details><summary>Answer</summary>
+
+**C. Fast acetylators** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q252 — Longest acting carbapenems
+
+Longest acting carbapenems ?
+
+- A. Imipenem
+- B. Meropenem
+- C. Doripenem
+- D. Ertapenem
+
+<details><summary>Answer</summary>
+
+**D. Ertapenem** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q253 — XDR TB is defined as
+
+XDR TB is defined as ?
+
+- A. MDR plus resistance to fluoroquinolone
+- B. MDR plus resistance to fluoroquinolone and streptomycin
+- C. MDR plus resistance to fluoroquinolone and Amikacin
+- D. MDR plus resistance to Amikacin
+
+<details><summary>Answer</summary>
+
+**D. MDR plus resistance to Amikacin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q254 — Which antibiotic should not be given
+
+Which antibiotic should not be given after drinking milk?
+
+- A. Chloramphenical
+- B. Tetracycline
+- C. Erythromycin
+- D. Sulfonamide
+
+<details><summary>Answer</summary>
+
+**B. Tetracycline** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q255 — Post-transplantation hypertension can be caused by
+
+Post-transplantation hypertension can be caused by:I. Rejection. II. Cyclosporine nephrotoxicity.III. Renal transplant artery stenosis (RTAS).IV.
+
+- A. I,II,III,IV are correct
+- B. I,II,IV are correct.
+- C. I & III are correct
+- D. None of the above is correct.
+
+<details><summary>Answer</summary>
+
+**A. I,II,III,IV are correct** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q256 — Which of the following drugs is
+
+Which of the following drugs is associated with untoward side effect of renal tubular damage-
+
+- A. Cisplatin
+- B. Steptozotocin
+- C. Methysergide
+- D. Cyclophosphamide
+
+<details><summary>Answer</summary>
+
+**A. Cisplatin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q257 — Drug that can cause hypertrophic pyloric
+
+Drug that can cause hypertrophic pyloric stenosis is?
+
+- A. Tertacyclin
+- B. Erythromycin
+- C. Ampicillin
+- D. Rifampicin
+
+<details><summary>Answer</summary>
+
+**B. Erythromycin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q258 — Lower esophageal sphincter pressure is increased
+
+Lower esophageal sphincter pressure is increased by all of the following substances, EXCEPT:
+
+- A. Gastrin
+- B. Vasopressin
+- C. Glucagon
+- D. Secretin
+
+<details><summary>Answer</summary>
+
+**D. Secretin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q259 — Interstitial nephritis is seen with all
+
+Interstitial nephritis is seen with all except
+
+- A. Beta lactam inhibitors
+- B. INH
+- C. Diuretics
+- D. Allopurinol
+
+<details><summary>Answer</summary>
+
+**B. INH** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q260 — Lorcaserin is used as
+
+Lorcaserin is used as ?
+
+- A. Anti-anxiety
+- B. Anti-smoking
+- C. Anti-helminthic
+- D. Anti-obesity
+
+<details><summary>Answer</summary>
+
+**D. Anti-obesity** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q261 — Flu like syptoms is side effect
+
+Flu like syptoms is side effect of which anti TB drug ?
+
+- A. NH
+- B. Rifampicin
+- C. Pyrzinamide
+- D. Streptomycin
+
+<details><summary>Answer</summary>
+
+**B. Rifampicin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q262 — All of the following are known
+
+All of the following are known adverse effects of thalidomide, except:
+
+- A. Diarrhoea
+- B. Teratogenicity
+- C. DVT
+- D. Neuropathy
+
+<details><summary>Answer</summary>
+
+**A. Diarrhoea** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q263 — Oxidation of drugs is mainly takes
+
+Oxidation of drugs is mainly takes place in?
+
+- A. Nucleu
+- B. Smooth ER
+- C. Rough ER
+- D. Cytoplasm
+
+<details><summary>Answer</summary>
+
+**B. Smooth ER** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q264 — Sec 191 IPC is for -
+
+Sec 191 IPC is for -
+
+- A. Medical negligence
+- B. Hostile witness
+- C. Criminal negligence
+- D. Assault punishment
+
+<details><summary>Answer</summary>
+
+**B. Hostile witness** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q265 — Dying declaration is a MAHE 10
+
+Dying declaration is a: MAHE 10
+
+- A. Circumstantial evidence
+- B. Oral evidence
+- C. Documentary evidence
+- D. Hearsay evidence
+
+<details><summary>Answer</summary>
+
+**C. Documentary evidence** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q266 — Novus actus interveniens is -
+
+Novus actus interveniens is -
+
+- A. Facts speaking for itself
+- B. Breaking of chain
+- C. Contributory negligence
+- D. Therapeutic misadventure
+
+<details><summary>Answer</summary>
+
+**B. Breaking of chain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q267 — Inquest, not followed in India is
+
+Inquest, not followed in India is -
+
+- A. Police inquest
+- B. Magistrate inquest
+- C. Coroner's inquest
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Coroner's inquest** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q268 — Length of the fetus is 40cms
+
+Length of the fetus is 40cms. What would be the age of gestation ?
+
+- A. 4 months
+- B. 6 months
+- C. 7 months
+- D. 8 months
+
+<details><summary>Answer</summary>
+
+**D. 8 months** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q269 — UV rays examination is done for
+
+UV rays examination is done for -
+
+- A. Faded tattoo
+- B. Blood satins
+- C. Hair examination
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Faded tattoo** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q270 — Time interval between somatic and molecular
+
+Time interval between somatic and molecular death is -
+
+- A. 5-10 min
+- B. 10-30 min
+- C. 30 -1hr
+- D. 1 - 2 hrs
+
+<details><summary>Answer</summary>
+
+**D. 1 - 2 hrs** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q271 — Bishops tripod of life includes all
+
+Bishop's tripod of life includes all except -
+
+- A. Respiration
+- B. Circulation
+- C. Spinal cord reflexes
+- D. Brain functions
+
+<details><summary>Answer</summary>
+
+**C. Spinal cord reflexes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q272 — For autopsy, stomach is open through
+
+For autopsy, stomach is open through -
+
+- A. Lesser sac
+- B. Greater sac
+- C. Greater curvature
+- D. Lesser curvature
+
+<details><summary>Answer</summary>
+
+**C. Greater curvature** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q273 — Tache noire de salenortica is a
+
+Tache noire de salenortica is a postmortem finding is related to
+
+- A. Eye
+- B. Muscle
+- C. Hair
+- D. Semen
+
+<details><summary>Answer</summary>
+
+**A. Eye** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q274 — Adipocere formation is seen in
+
+Adipocere formation is seen in:
+
+- A. Dead body exposed to air
+- B. Dead body buried in damp, clay soil
+- C. Burial in dry hot air
+- D. All
+
+<details><summary>Answer</summary>
+
+**B. Dead body buried in damp, clay soil** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q275 — In Adipocere, color change seen is
+
+In Adipocere, color change seen is -
+
+- A. Grayish white
+- B. Black
+- C. Brown
+- D. Red
+
+<details><summary>Answer</summary>
+
+**A. Grayish white** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q276 — True about cadaveric spasm
+
+True about cadaveric spasm :
+
+- A. Develops immediately after death
+- B. May develop hours after death
+- C. Develops only in facial muscles
+- D. All
+
+<details><summary>Answer</summary>
+
+**A. Develops immediately after death** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q277 — In India exhumation is ordered by
+
+In India exhumation is ordered by ?
+
+- A. Magistrate
+- B. Health Secretory
+- C. Health Minister
+- D. Any local MLA
+
+<details><summary>Answer</summary>
+
+**A. Magistrate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q278 — Chicken fat appearance is seen in
+
+Chicken fat appearance is seen in -
+
+- A. Antemortem wound
+- B. Postmortem wound
+- C. Gunshot injury
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Postmortem wound** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q279 — True about heat hematoma PGI 12
+
+True about heat hematoma: PGI 12
+
+- A. Inside the brain
+- B. Between skull and dura mater
+- C. Between skull and pericranium
+- D. Between scalp and pericranium
+
+<details><summary>Answer</summary>
+
+**B. Between skull and dura mater** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q280 — Homicidal gunshot wound can be differentiated
+
+Homicidal gunshot wound can be differentiated from suicidal gunshot wound by-
+
+- A. Multiple gunshot wounds
+- B. Presence of gunpowder on hand
+- C. No sign of struggle
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Multiple gunshot wounds** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q281 — Choking is characteristic of the following
+
+Choking is characteristic of the following weapon:
+
+- A. Revolver
+- B. Pistol
+- C. Shotgun
+- D. Rifle
+
+<details><summary>Answer</summary>
+
+**C. Shotgun** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q282 — Beveling of skull is seen in
+
+Beveling of skull is seen in -
+
+- A. Broad end of the entry point in bullet injury
+- B. Narrow end of the entry point in bullet injury
+- C. Exit point of bullet
+- D. Depressed fracture of the skull
+
+<details><summary>Answer</summary>
+
+**C. Exit point of bullet** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q283 — Most specific sign of Antemortem burns
+
+Most specific sign of Antemortem burns is -
+
+- A. Soot in respiratory passage
+- B. Cyanosis of fingernails
+- C. Pugilistic attitude
+- D. Heat ruptures
+
+<details><summary>Answer</summary>
+
+**A. Soot in respiratory passage** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q284 — Granulomatosis infantiseptica is caused by
+
+Granulomatosis infantiseptica is caused by:
+
+- A. Pseudomonas
+- B. Chlamydia trachomatis
+- C. Group D streptococci
+- D. Listeria
+
+<details><summary>Answer</summary>
+
+**D. Listeria** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q285 — Which is not true about macrophages
+
+Which is not true about macrophages:
+
+- A. Activation by IFN-y
+- B. Major cells in chronic inflammation
+- C. M2 type involved in inflammation
+- D. Phagocytic cells
+
+<details><summary>Answer</summary>
+
+**C. M2 type involved in inflammation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q286 — Which of the following is not
+
+Which of the following is not a premalignant condition oral cancer?
+
+- A. Leukoplakia
+- B. Erythroplakia
+- C. Oral submucous fibrosis
+- D. Systemic Sclerosis
+
+<details><summary>Answer</summary>
+
+**D. Systemic Sclerosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q287 — Red keratic precipitates are seen in
+
+Red keratic precipitates are seen in ?
+
+- A. Granulomatous uveits
+- B. Hemorrhagic uveitis
+- C. Old healed uveitis
+- D. Acute anterior uveitis
+
+<details><summary>Answer</summary>
+
+**B. Hemorrhagic uveitis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q288 — Central bronchiectasis is seen with
+
+Central bronchiectasis is seen with
+
+- A. Cystic Adenomatoid Malformation
+- B. Cystic fibrosis
+- C. Broncho carcinoma
+- D. Tuberculosis
+
+<details><summary>Answer</summary>
+
+**B. Cystic fibrosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q289 — Bronchiectasis Sicca is seen with
+
+Bronchiectasis Sicca is seen with
+
+- A. Tuberculosis
+- B. Pertussis
+- C. Cystic fibrosis
+- D. Kartagener syndrome
+
+<details><summary>Answer</summary>
+
+**A. Tuberculosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q290 — Most common cause of idiopathic interstitial
+
+Most common cause of idiopathic interstitial pneumonia is
+
+- A. Sarcoidosis
+- B. Organizing pneumonia
+- C. Idiopathic pulmonary fibrosis
+- D. Lipoid pneumonia
+
+<details><summary>Answer</summary>
+
+**C. Idiopathic pulmonary fibrosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q291 — Disease, does not recur in the
+
+Disease, does not recur in the kidney after renal transplant is :
+
+- A. Alport syndrome
+- B. Amyloidosis
+- C. Good Pasteur's syndrome
+- D. Diabetic nephropathy
+
+<details><summary>Answer</summary>
+
+**A. Alport syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q292 — The most common cause of malignant
+
+The most common cause of malignant adrenal mass is
+
+- A. Adrenocortical carcinoma
+- B. Malignant phaeochromocytoma
+- C. Lymphoma
+- D. Metastasis from another solid tissue tumor
+
+<details><summary>Answer</summary>
+
+**D. Metastasis from another solid tissue tumor** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q293 — IRIS is -
+
+I.R.I.S. is -
+
+- A. Immune reconstitution idiopathic syndrome
+- B. Immune reconstitution immunological syndrome
+- C. Immune reconstitution inflammatory syndroma
+- D. Inflammatory reconstitution immune syndrome
+
+<details><summary>Answer</summary>
+
+**C. Immune reconstitution inflammatory syndroma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q294 — All are seen in carneys triad
+
+All are seen in carney's triad except -
+
+- A. Atrial myxoma
+- B. GIST
+- C. Chondroma
+- D. Paraganglioma
+
+<details><summary>Answer</summary>
+
+**A. Atrial myxoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q295 — All of the following are paraneoplastic
+
+All of the following are paraneoplastic syndromes for renal cell carcinoma except -
+
+- A. Fever
+- B. Anaemia
+- C. Amyloidosis
+- D. Acanthosis Nigricans
+
+<details><summary>Answer</summary>
+
+**D. Acanthosis Nigricans** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q296 — Perihepatic fibrosis occurring in Fitz Hugh
+
+Perihepatic fibrosis occurring in Fitz Hugh Curtis Syndrome is due to -
+
+- A. Pelvic Inflammatory Disease
+- B. Bile Duct Injry
+- C. Chronic Alcoholism
+- D. Viral Hepatitis
+
+<details><summary>Answer</summary>
+
+**A. Pelvic Inflammatory Disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q297 — True about MALToma is
+
+True about MALToma is
+
+- A. They are secondary gastric lymphomas
+- B. H. Pylori infection is a risk factor
+- C. Commonly seen in gastric cardia
+- D. They are a type of T cell lymphoma
+
+<details><summary>Answer</summary>
+
+**B. H. Pylori infection is a risk factor** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q298 — False about Gastric lymphoma is
+
+False about Gastric lymphoma is:
+
+- A. Stomach is the most common site
+- B. Asosciate with H. pylori infection
+- C. Total gastrectomy with adjuvant chemotherapy is the treatment
+- D. 5 yr survival rate after treatment is 60%.
+
+<details><summary>Answer</summary>
+
+**C. Total gastrectomy with adjuvant chemotherapy is the treatment** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q299 — Aneurysmal dilation of the small bowel
+
+Aneurysmal dilation of the small bowel is seen in
+
+- A. Small bowel Lymphoma
+- B. Gall Stone Ileus
+- C. Duodenal Atresia
+- D. Sjogrens Syndrome
+
+<details><summary>Answer</summary>
+
+**A. Small bowel Lymphoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q300 — Which of the following is a
+
+Which of the following is a tumour marker for bladder cancer ?
+
+- A. AFP
+- B. CEA
+- C. Bladder surface protein
+- D. Nuclear Matrix protein 22
+
+<details><summary>Answer</summary>
+
+**D. Nuclear Matrix protein 22** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q301 — RPLND and Chemotherapy may be used
+
+RPLND and Chemotherapy may be used in management of
+
+- A. Non seminomatous Germ cell tumours of testis
+- B. Non germ cell tumours
+- C. Seminomatous Germ cell tumours
+- D. Lymphoma testis
+
+<details><summary>Answer</summary>
+
+**A. Non seminomatous Germ cell tumours of testis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q302 — year old child presents with a
+
+year old child presents with a mass in the lumbar region with abdominal pain with excruciating bone pain. Possible diagnosis is -
+
+- A. Neuroblastoma
+- B. Wilm's Tumour
+- C. Lymphoma
+- D. Angiomyolipoma
+
+<details><summary>Answer</summary>
+
+**A. Neuroblastoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q303 — year old child presents with an
+
+year old child presents with an abdominal mass, fever, bone pain and IVC thrombosis , the diagnosis could be -
+
+- A. Wilm's tumour
+- B. Neuroblastoma
+- C. Langerhans cell Histiocytosis
+- D. Gastric lymphoma
+
+<details><summary>Answer</summary>
+
+**B. Neuroblastoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q304 — Which one of the following statements
+
+Which one of the following statements is false about Xanthogranulomatous pyelonephritis in children?
+
+- A. Often affects those younger than 8 years of age
+- B. It affects the kidney focally more frequently than diffusely
+- C. Clinical presentation in children is same as in adults
+- D. Boys are affected more frequently
+
+<details><summary>Answer</summary>
+
+**D. Boys are affected more frequently** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q305 — Abdominal pain in Henoch Schonlein purpura
+
+Abdominal pain in Henoch Schonlein purpura is due to -
+
+- A. Mucosal erosions and swelling of the GI mucosa
+- B. Gastrointestinal hemorrhage
+- C. Volvulus
+- D. Associated pancreatic inflammation
+
+<details><summary>Answer</summary>
+
+**A. Mucosal erosions and swelling of the GI mucosa** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q306 — Waddling gait due to
+
+Waddling gait due to:
+
+- A. Bilateral congenital dysplasia of hip
+- B. Coxa valga
+- C. CTEV
+- D. Bilateral coxa valgum
+
+<details><summary>Answer</summary>
+
+**A. Bilateral congenital dysplasia of hip** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q307 — Onion peel appearanace on Xray is
+
+Onion peel appearanace on Xray is seen in which of the following conditions ?
+
+- A. Ewings Sarcoma
+- B. Osteosarcoma
+- C. Giant cell tumour
+- D. Eosinophilic granuloma
+
+<details><summary>Answer</summary>
+
+**A. Ewings Sarcoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q308 — True about nabothian cyst is all
+
+True about nabothian cyst is all except - �
+
+- A. Squamous epithelium occludes the mouth of the glands
+- B. It is seen in chronic irritation and inflammation
+- C. It is a pathology of the cervix
+- D. It is pre - malignant
+
+<details><summary>Answer</summary>
+
+**D. It is pre - malignant** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q309 — Most common cause of pelvic inflammatory
+
+Most common cause of pelvic inflammatory disease is -
+
+- A. Sexually transmitted disease
+- B. IUCD
+- C. Pelvic peritonitis
+- D. Puerperal sepsis
+
+<details><summary>Answer</summary>
+
+**A. Sexually transmitted disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q310 — Stereotactic radiosurgery is done for -
+
+Stereotactic radiosurgery is done for -
+
+- A. Glioblastoma multiforme
+- B. Medulloblastoma spinal cord
+- C. Ependymoma
+- D. AV malformation of brain
+
+<details><summary>Answer</summary>
+
+**D. AV malformation of brain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q311 — of the following are true about *(2016)*
+
+All of the following are true about collagen structure except -
+
+- A. Collagen is secreted by fibroblasts as procollagen
+- B. Lysyl oxidase is dependent on Vitamin C
+- C. Hydroxylysine undergoes glycosylation
+- D. Glycine is the most abundant aminoacid of collagen
+
+<details><summary>Answer</summary>
+
+**B. Lysyl oxidase is dependent on Vitamin C** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q312 — Vitamin A deficiency leads to metaplasia *(2016)*
+
+Vitamin A deficiency leads to metaplasia of?
+
+- A. Squamous epithelium
+- B. Columnar epithelium
+- C. Both
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Squamous epithelium** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q313 — Example of coagulative necrosis is - *(2016)*
+
+Example of coagulative necrosis is -
+
+- A. Acute tubular necrosis
+- B. Stroke
+- C. Malignant hypertension
+- D. Acute pancreatitis
+
+<details><summary>Answer</summary>
+
+**A. Acute tubular necrosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q314 — one of the following statements is *(2016)*
+
+Which one of the following statements is correct regarding chronic granulomatous disease ?
+
+- A. It is an autosomal dominant disease
+- B. It is characterized by abnormal bacterial phagocytosis
+- C. Recurrent streptococcal infections are usual in this disease
+- D. Nitrobluetetrazolium test is useful for screening
+
+<details><summary>Answer</summary>
+
+**D. Nitrobluetetrazolium test is useful for screening** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q315 — common cause of chronic granulomatous disease *(2016)*
+
+Most common cause of chronic granulomatous disease in children is:
+
+- A. Myeloperoxidase deficiency
+- B. Defective phagocytosis
+- C. Defective H2O2 production
+- D. Job's disease
+
+<details><summary>Answer</summary>
+
+**C. Defective H2O2 production** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q316 — Delayed umbilical cord detachment leukocytosis is *(2016)*
+
+Delayed umbilical cord detachment leukocytosis is seen in?
+
+- A. Leukocyte adhesion deficiency
+- B. Chronic granulomatous disease
+- C. Severe combined immunodeficiency
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Leukocyte adhesion deficiency** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q317 — are pre-malignant conditions except - *(2016)*
+
+All are pre-malignant conditions except -
+
+- A. Anaplasia
+- B. Metaplasia
+- C. Hamartoma
+- D. Dysplasia
+
+<details><summary>Answer</summary>
+
+**C. Hamartoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q318 — Strawberry gums are seen in *(2016)*
+
+Strawberry gums are seen in
+
+- A. Goodpasteur's syndrome
+- B. Classic polyarteritis nodosa
+- C. Wegener's granulomatosis
+- D. Kawasaki syndrome
+
+<details><summary>Answer</summary>
+
+**C. Wegener's granulomatosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q319 — Strawberry gingivitis seen in *(2016)*
+
+Strawberry gingivitis seen in
+
+- A. Myelocytic infiltration
+- B. Phenytoin toxicity
+- C. Wegner granulomatosis
+- D. Klipel renaunay syndrome
+
+<details><summary>Answer</summary>
+
+**C. Wegner granulomatosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q320 — Heinz bodies are removed by *(2016)*
+
+Heinz bodies are removed by?
+
+- A. Macrophages
+- B. Lymphocytes
+- C. Neutrophils
+- D. Fibroblasts
+
+<details><summary>Answer</summary>
+
+**A. Macrophages** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q321 — of the following statements about Burkitts *(2016)*
+
+All of the following statements about Burkitt's lymphoma are true, Except:
+
+- A. B cell lymphoma
+- B. 8, 14 translocation
+- C. Can present as an abdominal mass
+- D. Radiotherapy is the treatment of choice
+
+<details><summary>Answer</summary>
+
+**D. Radiotherapy is the treatment of choice** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q322 — Oncogene associated with burkitts lymphoma is *(2016)*
+
+Oncogene associated with burkitt's lymphoma is:
+
+- A. BCL-1, IgH
+- B. BCL-2, IgH
+- C. C-MYC
+- D. ALK
+
+<details><summary>Answer</summary>
+
+**C. C-MYC** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q323 — Cag A gene is associated with *(2016)*
+
+Cag A gene is associated with
+
+- A. Hepatocellular carcinoma
+- B. Esophageal carcinoma
+- C. MALT lymphoma
+- D. Lung carcinoma
+
+<details><summary>Answer</summary>
+
+**C. MALT lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q324 — Richters syndrome refers to which of *(2016)*
+
+Richter’s syndrome refers to which of the following malignant transformation?
+
+- A. CLL evolving into aggressive lymphoma
+- B. Hairy cell leukemia evolving to AML
+- C. Blast crisis in CML
+- D. Splenic infiltration in NHL
+
+<details><summary>Answer</summary>
+
+**A. CLL evolving into aggressive lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q325 — Granulomatous lung disease is caused by *(2016)*
+
+Granulomatous lung disease is caused by?
+
+- A. Hypersensitivity pneumonitis
+- B. Sarcoma
+- C. Bronchogenic carcinoma
+- D. Bronchogenic cyst
+
+<details><summary>Answer</summary>
+
+**A. Hypersensitivity pneumonitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q326 — Deficiency of p53 mutation is maximum *(2016)*
+
+Deficiency of p53 mutation is maximum in which lung carcinoma?
+
+- A. Small cell carcinoma
+- B. Squamous cell carcinoma
+- C. Adenocarcinoma
+- D. Lymphoma
+
+<details><summary>Answer</summary>
+
+**B. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q327 — type of paraneoplastic syndrome is most *(2016)*
+
+Which type of paraneoplastic syndrome is most commonly associated with lung carcinoma?
+
+- A. SIADH
+- B. Gynaecomastia
+- C. Acanthosis nigricans
+- D. Hypocalcaemia
+
+<details><summary>Answer</summary>
+
+**A. SIADH** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q328 — common cause of chylothorax is *(2016)*
+
+Most common cause of chylothorax is?
+
+- A. Trauma
+- B. Lymphoma
+- C. Left-sided heart failure
+- D. Infections
+
+<details><summary>Answer</summary>
+
+**B. Lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q329 — common type of pneumoconiosis associated with *(2016)*
+
+Most common type of pneumoconiosis, associated with TB is?
+
+- A. Silicosis
+- B. Bysinosis
+- C. Asbestosis
+- D. Baggassosis
+
+<details><summary>Answer</summary>
+
+**A. Silicosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q330 — Anthracosis is due to inhalation of- *(2016)*
+
+Anthracosis is due to inhalation of-
+
+- A. Coal dust
+- B. Asbestos
+- C. Silica dust
+- D. Berylium dust
+
+<details><summary>Answer</summary>
+
+**A. Coal dust** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q331 — Chronic bronchitis is associated with *(2016)*
+
+Chronic bronchitis is associated with?
+
+- A. Increase in number of glands without any change in size
+- B. Bronchiolitis obliterans
+- C. Decrease in Reid index
+- D. Only large airways are involved
+
+<details><summary>Answer</summary>
+
+**B. Bronchiolitis obliterans** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q332 — Histopathology showing large cells with plant *(2016)*
+
+Histopathology showing large cells with plant like apperance with perinuclear halo is seen in which type of renal cell carcinoma ?
+
+- A. Onchocytoma
+- B. Granular cell carcinoma
+- C. Angiosarcoma
+- D. Chromophobic
+
+<details><summary>Answer</summary>
+
+**D. Chromophobic** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q333 — True about RCC is *(2016)*
+
+True about RCC is?
+
+- A. Most common site is lower lobe of kidney
+- B. Most common variety is papillary type
+- C. Invasion of renal vein is more common than renal artery
+- D. Most common site of metastasis is lymph nodes
+
+<details><summary>Answer</summary>
+
+**C. Invasion of renal vein is more common than renal artery** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q334 — is responsible for regeneration of liver *(2016)*
+
+What is responsible for regeneration of liver cells?
+
+- A. HGF
+- B. VEGF
+- C. TGF-13
+- D. IFN-y
+
+<details><summary>Answer</summary>
+
+**A. HGF** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q335 — Bridging necrosis is characteristically seen in *(2016)*
+
+Bridging necrosis is characteristically seen in:
+
+- A. Acute hepatitis
+- B. Chronic hepatitis
+- C. Both of the above
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Both of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q336 — Normally squamo-columnar junction is usually locat *(2016)*
+
+Normally squamo-columnar junction is usually located at
+
+- A. Distal 2-3 cms of esophagus
+- B. Proximal 2-3 cms of stomach
+- C. In esophagus more than 3cms proximal to GEJ
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Proximal 2-3 cms of stomach** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q337 — Carcinoma associated most commonly with upper *(2016)*
+
+Carcinoma associated most commonly with upper one third of esophagus is
+
+- A. Adenocarcinoma
+- B. Squamous cell Carcinoma
+- C. Adeno-squamous Carcinoma
+- D. Leiomyosarcoma
+
+<details><summary>Answer</summary>
+
+**B. Squamous cell Carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q338 — Autoimmune gastritis is associated with deficiency *(2016)*
+
+Autoimmune gastritis is associated with deficiency of vitamin?
+
+- A. A
+- B. B12
+- C. C
+- D. D
+
+<details><summary>Answer</summary>
+
+**B. B12** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q339 — Blood group most commonly associated with *(2016)*
+
+Blood group most commonly associated with gastric carcinoma is?
+
+- A. Blood Group 0
+- B. Blood group A
+- C. Blood group AB
+- D. Blood group B
+
+<details><summary>Answer</summary>
+
+**B. Blood group A** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q340 — disease is diagnosed by jejunal biopsy *(2016)*
+
+Which disease is diagnosed by jejunal biopsy?
+
+- A. Celiac disease
+- B. Intestinal lymphoma
+- C. Argentaffinoma of intestine
+- D. Tropical sprue
+
+<details><summary>Answer</summary>
+
+**B. Intestinal lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q341 — commonest benign tumor of the esophagus *(2016)*
+
+commonest benign tumor of the esophagus?
+
+- A. Leiomyoma
+- B. Papilloma
+- C. Adenoma
+- D. Hemangioma
+
+<details><summary>Answer</summary>
+
+**A. Leiomyoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q342 — Total colonic aganglionosis is a variant *(2016)*
+
+Total colonic aganglionosis is a variant of?
+
+- A. Crohn's disease
+- B. Ulcerative colitis
+- C. Hirschsprung's disease
+- D. Tropical sprue
+
+<details><summary>Answer</summary>
+
+**C. Hirschsprung's disease** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q343 — APC gene is involved in *(2016)*
+
+APC gene is involved in?
+
+- A. Colorectal carcinoma
+- B. Gastric carcinoma
+- C. Gastric lymphoma
+- D. Esophageal adenocarcinoma
+
+<details><summary>Answer</summary>
+
+**A. Colorectal carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q344 — False about Patterson-Kelly-Brown syndrome is *(2016)*
+
+False about Patterson-Kelly-Brown syndrome is?
+
+- A. Anemia
+- B. Esophageal webs
+- C. Glossitis
+- D. Risk factor for adenocarcinoma
+
+<details><summary>Answer</summary>
+
+**D. Risk factor for adenocarcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q345 — common site for carcinoma pharynx in *(2016)*
+
+Most common site for carcinoma pharynx in females suffering from plummer vinson syndrome is
+
+- A. Post cricoid region
+- B. Posterior wall
+- C. Lateral wall
+- D. Pyriformis fossa
+
+<details><summary>Answer</summary>
+
+**A. Post cricoid region** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q346 — Commonest following carcinoma that can cause *(2016)*
+
+Commonest following? carcinoma that can cause splenic metastasis is which of the
+
+- A. Ca. Pancreas
+- B. Ca. Stomach
+- C. Ca. Ovary
+- D. Ca. Cervix
+
+<details><summary>Answer</summary>
+
+**C. Ca. Ovary** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q347 — of the following would be the *(2016)*
+
+Which of the following would be the best morphological feature to distinguish ulcerative colitis from Crohn's disease?
+
+- A. Diffuse distributions of pseudopolyps
+- B. Mucosal edema
+- C. Crypt abscesses
+- D. Lymphoid aggregates in the mucosa
+
+<details><summary>Answer</summary>
+
+**A. Diffuse distributions of pseudopolyps** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q348 — Penile carcinoma is usually *(2016)*
+
+Penile carcinoma is usually?
+
+- A. Squamous cell carcinoma
+- B. Basal cell carcinoma
+- C. Adenocarcinoma
+- D. Small cell carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q349 — Stain used for staining the nucleus *(2016)*
+
+Stain used for staining the nucleus is?
+
+- A. Safranin
+- B. Fast green
+- C. Hematoxylin
+- D. Erythrosine
+
+<details><summary>Answer</summary>
+
+**C. Hematoxylin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q350 — Choroid metastasis is associated most commonly *(2016)*
+
+Choroid metastasis is associated most commonly with?
+
+- A. Gastric carcinoma
+- B. Renal carcinoma
+- C. Brain tumor
+- D. Bone tumor
+
+<details><summary>Answer</summary>
+
+**B. Renal carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q351 — of the following statements about the *(2016)*
+
+Which of the following statements about the pathology in Alzheimer's disease is not true:
+
+- A. Neuritic Plaques are formed of amyloid protein
+- B. Neurofibrillary tangles (NFT) are made of tau protein
+- C. NFTs appear extracellularly before intracellular appearance
+- D. Number of NFTs correlates with dementia
+
+<details><summary>Answer</summary>
+
+**C. NFTs appear extracellularly before intracellular appearance** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q352 — Metastasis to thyroid comes from which *(2016)*
+
+Metastasis to thyroid comes from which primary site of malignancy?
+
+- A. Liver
+- B. Testis
+- C. Prostate
+- D. Kidney
+
+<details><summary>Answer</summary>
+
+**D. Kidney** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q353 — of the following is the most *(2016)*
+
+Which of the following is the most common mutation in Ewing's sarcoma -
+
+- A. Translocation X : 18
+- B. Translocation 11; 22
+- C. Activative mutation of G5a,p, surface protein
+- D. Missense mutation in EXTI
+
+<details><summary>Answer</summary>
+
+**B. Translocation 11; 22** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q354 — Least desmoplastic breast carcinoma is *(2016)*
+
+Least desmoplastic breast carcinoma is
+
+- A. Ductal
+- B. Lobular
+- C. Tubular
+- D. Medullary
+
+<details><summary>Answer</summary>
+
+**B. Lobular** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q355 — Marker for neuroblastoma among the following *(2016)*
+
+Marker for neuroblastoma among the following is?
+
+- A. NMP 22
+- B. Chromogranin A
+- C. LDH
+- D. 32 microglobulin
+
+<details><summary>Answer</summary>
+
+**B. Chromogranin A** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q356 — Thymic hyperplasia is seen in *(2016)*
+
+Thymic hyperplasia is seen in ?
+
+- A. Thymoma
+- B. Thymic lymphoma
+- C. Myasthenia gravis
+- D. Scleroderma
+
+<details><summary>Answer</summary>
+
+**C. Myasthenia gravis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q357 — In Endometrial carcinoma which of the *(2016)*
+
+In Endometrial carcinoma, which of the following tumor suppressor gene occurs?
+
+- A. P53
+- B. Rb
+- C. PTEN
+- D. APC
+
+<details><summary>Answer</summary>
+
+**C. PTEN** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q358 — Stain used for tubulin is *(2016)*
+
+Stain used for tubulin is
+
+- A. Luna stain
+- B. Cajal stain
+- C. SiR stain
+- D. Masson's trichrome
+
+<details><summary>Answer</summary>
+
+**C. SiR stain** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q359 — X-linked adrenoleukodystrophy is *(2016)*
+
+X-linked adrenoleukodystrophy is
+
+- A. Fatty acid disorder
+- B. Lysosomal storage disorder
+- C. Mucoplysaccharridoses
+- D. Glycogen defect disorder
+
+<details><summary>Answer</summary>
+
+**A. Fatty acid disorder** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q360 — Chromosome for MEN2 gene is *(2016)*
+
+Chromosome for MEN2 gene is
+
+- A. 11q13
+- B. 13q11
+- C. 10811.2
+- D. 11q10-2
+
+<details><summary>Answer</summary>
+
+**C. 10811.2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q361 — Hob nail appearance is seen in *(2016)*
+
+Hob nail appearance is seen in
+
+- A. Clear cell carcinoma
+- B. Endodermal sinus tumor
+- C. HCC
+- D. Choriocarcinoma
+
+<details><summary>Answer</summary>
+
+**A. Clear cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q362 — Sphenoid dysplasia is seen in *(2016)*
+
+Sphenoid dysplasia is seen in?
+
+- A. NF-1
+- B. Tuberous sclerosis
+- C. Sturge-Weber syndrome
+- D. Creutzfeldt-Jakob disease
+
+<details><summary>Answer</summary>
+
+**A. NF-1** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q363 — In a case of Dysgerminoma of *(2016)*
+
+In a case of Dysgerminoma of ovary one of the following tumor markers is likely to be raised :
+
+- A. Serum HCG
+- B. Serum alphafetoprotein
+- C. Serum lactic dehydrogenase
+- D. Serum inhibin
+
+<details><summary>Answer</summary>
+
+**C. Serum lactic dehydrogenase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q364 — common site for ectopic thyroid tissue *(2016)*
+
+Most common site for ectopic thyroid tissue is?
+
+- A. Ovaries
+- B. Lingual
+- C. In front of hyoid bone
+- D. Stomach
+
+<details><summary>Answer</summary>
+
+**B. Lingual** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q365 — Salivary schintigraphy is useful in *(2016)*
+
+Salivary schintigraphy is useful in?
+
+- A. Monomorphic adenoma
+- B. Pleomorphic adenoma
+- C. Sialidinitis
+- D. Sjogren syndrome
+
+<details><summary>Answer</summary>
+
+**D. Sjogren syndrome** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q366 — Trilateral retinoblastoma is *(2016)*
+
+Trilateral retinoblastoma is?
+
+- A. Bilateral Retinoblastoma plus medulloblastoma
+- B. Bilateral retinoblastoma plus pineoblastoma
+- C. Bilateral retinoblastoma plus neuroblastoma
+- D. Bilateral retinoblastoma plus ependymoma
+
+<details><summary>Answer</summary>
+
+**B. Bilateral retinoblastoma plus pineoblastoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q367 — Hydroxyl ions are destroyed in the *(2016)*
+
+Hydroxyl ions are destroyed in the body by?
+
+- A. Vitamin C
+- B. Vitamin A
+- C. Vitamin K
+- D. Vitamin D
+
+<details><summary>Answer</summary>
+
+**A. Vitamin C** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q368 — of the following drugs is not *(2016)*
+
+Which of the following drugs is not an inhibitor of P - glycoprotein?
+
+- A. Quinidine
+- B. Erythromycin
+- C. Verapamil
+- D. Phenobarbitone
+
+<details><summary>Answer</summary>
+
+**D. Phenobarbitone** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q369 — Tachyphylaxis is seen with which of *(2016)*
+
+Tachyphylaxis is seen with which of the following drugs?
+
+- A. Pethidine
+- B. Ephedrine
+- C. Phenoxybenzamine
+- D. Phentolamine
+
+<details><summary>Answer</summary>
+
+**B. Ephedrine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q370 — Oxidation in biotransformation is *(2016)*
+
+Oxidation in biotransformation is ?
+
+- A. Functionalization reaction
+- B. Conjugation reaction
+- C. Synthetic reaction
+- D. Felson reaction
+
+<details><summary>Answer</summary>
+
+**A. Functionalization reaction** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q371 — of the following drug crosses BBB *(2016)*
+
+Which of the following drug crosses BBB?
+
+- A. Glycopyrrolate
+- B. Neostigmine
+- C. Physostigmine
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Physostigmine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q372 — of the following is not true *(2016)*
+
+Which of the following is not true about the action of anticholinergic drugs?
+
+- A. Atropine is a CNS depressant
+- B. Atropine causes mydriasis, abolition of light reflex and
+- C. Atropine causes bronchoconstriction
+- D. Atropine can increase the chances of hyperthermia in children
+
+<details><summary>Answer</summary>
+
+**B. Atropine causes mydriasis, abolition of light reflex and** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q373 — of the following is an example *(2016)*
+
+Which of the following is an example of irreversible carbamate?
+
+- A. Ambenonium
+- B. Galantamine
+- C. Propoxur
+- D. Rivastigmine
+
+<details><summary>Answer</summary>
+
+**C. Propoxur** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q374 — of the following is NOT a *(2016)*
+
+Which of the following is NOT a side effect of amiodarone?
+
+- A. Pulmonary fibrosis
+- B. Corneal microdeposits
+- C. Photosensitivity
+- D. Tachycardia
+
+<details><summary>Answer</summary>
+
+**D. Tachycardia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q375 — side effect of loop diuretics is *(2016)*
+
+A side effect of loop diuretics is used in ?
+
+- A. Post - surgery care
+- B. Chronic anemia
+- C. Blood transfusion
+- D. Oncology/cancer
+
+<details><summary>Answer</summary>
+
+**D. Oncology/cancer** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q376 — of the following antiarrhythmic drugs can *(2016)*
+
+Which of the following antiarrhythmic drugs can develop Long QT syndrome?
+
+- A. Ibutilide
+- B. Dofetilide
+- C. Sotalol
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q377 — drug inhibits both cyclooxygenase and lipooxygenas *(2016)*
+
+Which drug inhibits both cyclooxygenase and lipooxygenase?
+
+- A. Aspirin
+- B. Indomethacin
+- C. Imidazole
+- D. BW755
+
+<details><summary>Answer</summary>
+
+**D. BW755** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q378 — Drug acting on 5HT4 receptor is *(2016)*
+
+Drug acting on 5HT4 receptor is ?
+
+- A. Loxiglumide
+- B. Renzapride
+- C. Atractiloside
+- D. Metoclopromide
+
+<details><summary>Answer</summary>
+
+**B. Renzapride** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q379 — Rasburicase is an analogue of *(2016)*
+
+Rasburicase is an analogue of ?
+
+- A. Xanthine oxidase
+- B. IMP dehydrogenase
+- C. Adenosine Deaminase
+- D. Urate Oxidase
+
+<details><summary>Answer</summary>
+
+**D. Urate Oxidase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q380 — Adverse effect of methysergide is *(2016)*
+
+Adverse effect of methysergide is ?
+
+- A. Metabolic syndrome
+- B. Endocardial fibrosis
+- C. Peyronie's syndrome
+- D. Dry mouth
+
+<details><summary>Answer</summary>
+
+**B. Endocardial fibrosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q381 — Anti-inflammatory actions of corticosteroids are m *(2016)*
+
+Anti-inflammatory actions of corticosteroids are mediated by ?
+
+- A. By inhibiting angiogenesis
+- B. By inhibiting breakdown of phospholipids
+- C. By increasing vascularity
+- D. By increasing granulation tissue formation
+
+<details><summary>Answer</summary>
+
+**B. By inhibiting breakdown of phospholipids** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q382 — of the following is not an *(2016)*
+
+Which of the following is not an inhalational steroids?
+
+- A. Beclomethasone
+- B. Betamethasone
+- C. Budesonide
+- D. Fluticasone acetonide
+
+<details><summary>Answer</summary>
+
+**B. Betamethasone** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q383 — of the following antithyroid medications had *(2016)*
+
+Which of the following antithyroid medications had the maximum chances of causing agranulocytosis?
+
+- A. Carbimazole
+- B. Clotrimazole
+- C. Propylthiouracil
+- D. Methimazole
+
+<details><summary>Answer</summary>
+
+**C. Propylthiouracil** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q384 — Mifepristone acts on which receptor *(2016)*
+
+Mifepristone acts on which receptor?
+
+- A. Type A progesterone receptor
+- B. Estrogen receptor
+- C. LH receptor
+- D. Thyroid receptor
+
+<details><summary>Answer</summary>
+
+**A. Type A progesterone receptor** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q385 — Tibolone is a *(2016)*
+
+Tibolone is a ?
+
+- A. Natural steroidal estrogen
+- B. Natural non-steroidal estrogen
+- C. Synthetic steroidal estrogen
+- D. Synthetic non-steroidal estrogen
+
+<details><summary>Answer</summary>
+
+**C. Synthetic steroidal estrogen** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q386 — Danazol acts through *(2016)*
+
+Danazol acts through :?
+
+- A. Increases release of Gn
+- B. Increases insulin release
+- C. Inhibition of release of Gn
+- D. Inhibition of insulin release
+
+<details><summary>Answer</summary>
+
+**C. Inhibition of release of Gn** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q387 — Metyrosine acts by inhibiting *(2016)*
+
+Metyrosine acts by inhibiting ?
+
+- A. Phenolethanolamine N methyl Transferase
+- B. Phenyl alanine Hydroxylase
+- C. Tyrosine Hydroxylase
+- D. Tyrosinase
+
+<details><summary>Answer</summary>
+
+**C. Tyrosine Hydroxylase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q388 — of the following oral hypoglycaemic drugs *(2016)*
+
+Which of the following oral hypoglycaemic drugs has the longest t 1/2 ?
+
+- A. Gliclazide
+- B. Glimepiride
+- C. Chlorpropamide
+- D. Tolbutamide
+
+<details><summary>Answer</summary>
+
+**C. Chlorpropamide** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q389 — Nasally acting GnRH analogue is *(2016)*
+
+Nasally acting GnRH analogue is ?
+
+- A. Goserelin
+- B. Triptorelin
+- C. Nafarelin
+- D. Leuprolide
+
+<details><summary>Answer</summary>
+
+**C. Nafarelin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q390 — of the following drugs halts macrovascular *(2016)*
+
+Which of the following drugs halts macrovascular as well as microvascular effects of DM?
+
+- A. Acarbose
+- B. Biguanides
+- C. Meglitinide
+- D. Algaliptin
+
+<details><summary>Answer</summary>
+
+**B. Biguanides** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q391 — of the following are naturally occurring *(2016)*
+
+Which of the following are naturally occurring opioid?
+
+- A. Di acetyl morphine
+- B. Ethyl morphine
+- C. Morphine
+- D. Pholcodeine
+
+<details><summary>Answer</summary>
+
+**C. Morphine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q392 — of the following pairs are correct *(2016)*
+
+All of the following pairs are correct except ?
+
+- A. Peripheral decarboxylase inhibitor - Benserazide
+- B. MAO - B inhibitor - Clorgyline
+- C. COMT inhibitor - Entacapone
+- D. Dopamine facilitation - Amantadine
+
+<details><summary>Answer</summary>
+
+**B. MAO - B inhibitor - Clorgyline** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q393 — of the following is not true *(2016)*
+
+Which of the following is not true about benzodiazepines?
+
+- A. Can produce ataxia
+- B. Has GABA facilitatory but no GABA mimetic action
+- C. REM, and Stage 3 and 4 sleep is increased
+- D. Produces muscle relaxation by action on medulla
+
+<details><summary>Answer</summary>
+
+**C. REM, and Stage 3 and 4 sleep is increased** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q394 — of the following is not true *(2016)*
+
+Which of the following is not true about barbiturate?
+
+- A. Shows GABA mimetic action
+- B. Shows GABA facilitatory action
+- C. It can depress voltage gated Na.- and IC' channels at high
+- D. Limbic system is most sensitive to the depressive action of
+
+<details><summary>Answer</summary>
+
+**D. Limbic system is most sensitive to the depressive action of** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q395 — of the following is true about *(2016)*
+
+Which of the following is true about ziprasidone?
+
+- A. Profound extrapyramidal symptoms
+- B. Causes weight loss
+- C. Has anti - depressant properties
+- D. Safe in cardiac patients.
+
+<details><summary>Answer</summary>
+
+**C. Has anti - depressant properties** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q396 — of the following nephrotoxic drugs should *(2016)*
+
+Which of the following nephrotoxic drugs should be completely avoided in renal failure?
+
+- A. Doxycycline
+- B. Talampicillin
+- C. Nitrofurantoin
+- D. Nalidixic acid
+
+<details><summary>Answer</summary>
+
+**C. Nitrofurantoin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q397 — drug is given in the pain *(2016)*
+
+Which drug is given in the pain due to diabetic neuropathy?
+
+- A. Lamotrigine
+- B. Na valproate
+- C. Gabapentin
+- D. Morphine
+
+<details><summary>Answer</summary>
+
+**C. Gabapentin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q398 — of the following increases Amphoterecin B *(2016)*
+
+Which of the following increases Amphoterecin B induced nephrotoxicity?
+
+- A. Vancomycin
+- B. Cyclosporin
+- C. Acyclovir
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q399 — macrolide is active against Mycobaterium leprae *(2016)*
+
+Which macrolide is active against Mycobaterium leprae?
+
+- A. Azithromycin
+- B. Roxithromycin
+- C. Clarithromycin
+- D. Framycetin
+
+<details><summary>Answer</summary>
+
+**C. Clarithromycin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q400 — of the following is not true *(2016)*
+
+Which of the following is not true about levamisole?
+
+- A. It is the levoisomer of tetramisole
+- B. It has immunomodulator action
+- C. It can kill strongyloides larvae and adult worms
+- D. It is used against ascariasis and ancyclostomiasis
+
+<details><summary>Answer</summary>
+
+**C. It can kill strongyloides larvae and adult worms** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q401 — of the following is a side *(2016)*
+
+Which of the following is a side effect of clofazimine?
+
+- A. Reddish black skin discoloration
+- B. Hemolytic anaemia
+- C. Flu like syndrome
+- D. Axillary freckling
+
+<details><summary>Answer</summary>
+
+**A. Reddish black skin discoloration** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q402 — For systemic mycosis fluconazole is preferred *(2016)*
+
+For systemic mycosis fluconazole is preferred over ketoconazole because of -
+
+- A. Greater efficacy
+- B. Longer t 1/2
+- C. Lesser side effects
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q403 — INH hepatotoxicity is due to which *(2016)*
+
+INH hepatotoxicity is due to which compound?
+
+- A. INH acetylhydrazine
+- B. INH sulfhydrazine
+- C. INH methylhydrazine
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. INH acetylhydrazine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q404 — is the effect of co administration *(2016)*
+
+What is the effect of co administration of rifampicin and ritonavir in patients suffering from AIDS?
+
+- A. Area Under Curve decreased by 15%
+- B. Area Under Curve decreased by 35%
+- C. Area Under Curve increased by 15%
+- D. Area Under Curve increased by 35%
+
+<details><summary>Answer</summary>
+
+**B. Area Under Curve decreased by 35%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q405 — of the following antilipidemic drug is *(2016)*
+
+Which of the following antilipidemic drug is a sterol absorption inhibitor?
+
+- A. Gemfibrozil
+- B. Simvastatin
+- C. Nicotinic acid
+- D. Ezetimibe
+
+<details><summary>Answer</summary>
+
+**D. Ezetimibe** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q406 — Not an adverse effect of cimetidine *(2016)*
+
+Not an adverse effect of cimetidine ?
+
+- A. Confusional state, restlessness
+- B. Gynecomastia
+- C. Dry mouth
+- D. Decreased prolactin levels
+
+<details><summary>Answer</summary>
+
+**D. Decreased prolactin levels** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q407 — Use of metoclopramide beyond weeks increases *(2016)*
+
+Use of metoclopramide beyond weeks increases the chances of tardive dyskinesia ?
+
+- A. 8
+- B. 12
+- C. 16
+- D. 20
+
+<details><summary>Answer</summary>
+
+**B. 12** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q408 — two molecules of Aminosalicylate coupled via *(2016)*
+
+The two molecules of Aminosalicylate coupled via azo bond form?
+
+- A. Mesalazine
+- B. Olsalazine
+- C. Balsalazine
+- D. Sulfasalazine
+
+<details><summary>Answer</summary>
+
+**B. Olsalazine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q409 — Natural anticancer drug is *(2016)*
+
+Natural anticancer drug is ?
+
+- A. Paclitaxel
+- B. Methotrexate
+- C. Cyclophosphomide
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Paclitaxel** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q410 — Use of HAART is associated with *(2016)*
+
+Use of HAART is associated with hepatotoxicity approximately what percentage of patients?
+
+- A. 10%
+- B. 20%
+- C. 30%
+- D. 40%
+
+<details><summary>Answer</summary>
+
+**A. 10%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q411 — Abraxane is a *(2016)*
+
+Abraxane is a :?
+
+- A. Albumin bound docetaxel
+- B. Globulin bound docetaxel
+- C. Albumin bound paclitaxel
+- D. Globulin bound paclitaxel
+
+<details><summary>Answer</summary>
+
+**C. Albumin bound paclitaxel** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q412 — Abatacept binds to on T cell *(2016)*
+
+Abatacept binds to on T cell surface
+
+- A. CD I I
+- B. CD 20
+- C. CD 22
+- D. CD 28
+
+<details><summary>Answer</summary>
+
+**D. CD 28** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q413 — Cardiotmdcity is the side effect of *(2016)*
+
+Cardiotmdcity is the side effect of :?
+
+- A. Bleomycin
+- B. Topotecan
+- C. Rubidomycin
+- D. Procarbazine
+
+<details><summary>Answer</summary>
+
+**C. Rubidomycin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q414 — Estramustine is a combination of *(2016)*
+
+Estramustine is a combination of ?
+
+- A. Estradiol + normustine
+- B. Estriol + normustine
+- C. Estriol + mechloroethamine
+- D. Estriol + cyclophosphamide
+
+<details><summary>Answer</summary>
+
+**A. Estradiol + normustine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q415 — Cetuximab is used to treat *(2016)*
+
+Cetuximab is used to treat ?
+
+- A. Adamantinoma
+- B. Basal cell Ca
+- C. Colorectal Ca
+- D. Crohn's disease
+
+<details><summary>Answer</summary>
+
+**C. Colorectal Ca** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q416 — of the following is not an *(2016)*
+
+Which of the following is not an adverse effect of cyclophosphamide?
+
+- A. Hemorrhagic cystitis
+- B. Infertility
+- C. Bone marrow suppression
+- D. Diabetes insipidus
+
+<details><summary>Answer</summary>
+
+**D. Diabetes insipidus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q417 — Adverse effect of the imatinib are *(2016)*
+
+Adverse effect of the imatinib are all except ?
+
+- A. Periorbital edema
+- B. Myalgia
+- C. Pleural effusion
+- D. Arthralgia
+
+<details><summary>Answer</summary>
+
+**D. Arthralgia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q418 — Defect in discriminating blue green vision *(2016)*
+
+Defect in discriminating blue green vision is due to which drug :?
+
+- A. Alprostadil
+- B. Primaquine
+- C. Sildenafil
+- D. Primaquine
+
+<details><summary>Answer</summary>
+
+**C. Sildenafil** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q419 — Racecadotril is used for *(2016)*
+
+Racecadotril is used for?
+
+- A. Chronic diarrhea
+- B. Acute secretory diarrhea
+- C. Chronic constipation
+- D. Diabetic gastroparesis
+
+<details><summary>Answer</summary>
+
+**B. Acute secretory diarrhea** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q420 — of the following drugs is associated *(2016)*
+
+Which of the following drugs is associated with priapism?
+
+- A. Hydralazine
+- B. Prazocin
+- C. Resperidone
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q421 — of the following is a Cl- *(2016)*
+
+Which of the following is a Cl- channel activator?
+
+- A. Lubriprostone
+- B. Nefazodone
+- C. Varenioline
+- D. Valethamate
+
+<details><summary>Answer</summary>
+
+**A. Lubriprostone** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q422 — Acamprostate is used for *(2016)*
+
+Acamprostate is used for ?
+
+- A. Alcohol abstinence
+- B. Nicotine abstinence
+- C. Opioid abstinence
+- D. Cocaine abstinence
+
+<details><summary>Answer</summary>
+
+**A. Alcohol abstinence** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q423 — If a woman is assaulted by *(2016)*
+
+If a woman is assaulted by her husband then he is charged under: FMGE 11
+
+- A. Sec. 498-A IPC
+- B. Sec. 304-A IPC
+- C. Sec. 304-B IPC
+- D. Sec. 504 IPC
+
+<details><summary>Answer</summary>
+
+**A. Sec. 498-A IPC** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q424 — Adultery is described under which section *(2016)*
+
+Adultery is described under which section of IPC?
+
+- A. 314
+- B. 375
+- C. 497
+- D. 504
+
+<details><summary>Answer</summary>
+
+**C. 497** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q425 — Use of dangerous weapon is related *(2016)*
+
+Use of dangerous weapon is related to which section of IPC?
+
+- A. 304
+- B. 319
+- C. 322
+- D. 324
+
+<details><summary>Answer</summary>
+
+**D. 324** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q426 — Grievous hurt comes under which section *(2016)*
+
+Grievous hurt comes under which section of IPC?
+
+- A. Section 319
+- B. Section 320
+- C. Section 324
+- D. Section 326
+
+<details><summary>Answer</summary>
+
+**B. Section 320** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q427 — Outraging modesty of women is which *(2016)*
+
+Outraging modesty of women is which section of IPC?
+
+- A. 375
+- B. 354
+- C. 195
+- D. 304
+
+<details><summary>Answer</summary>
+
+**B. 354** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q428 — Section 89 IPC is for *(2016)*
+
+Section 89 IPC is for?
+
+- A. Criminal responsibility of insane
+- B. Criminal responsibility of a child
+- C. Criminal responsibility of drunken person
+- D. Age for consent
+
+<details><summary>Answer</summary>
+
+**B. Criminal responsibility of a child** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q429 — person is declared dead if heshe *(2016)*
+
+A person is declared dead if he/she is not found for
+
+- A. 7 years
+- B. 10 years
+- C. 14 years
+- D. 21 years
+
+<details><summary>Answer</summary>
+
+**A. 7 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q430 — First carpal bone to appear is *(2016)*
+
+First carpal bone to appear is?
+
+- A. Trapezium
+- B. Capitate
+- C. Pisiform
+- D. Lunate
+
+<details><summary>Answer</summary>
+
+**B. Capitate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q431 — Ossification centre of scaphoid appears at *(2016)*
+
+Ossification centre of scaphoid appears at
+
+- A. 1-6 months
+- B. 1 to 2 years
+- C. 2 to 4 years
+- D. 4 to 6 years
+
+<details><summary>Answer</summary>
+
+**D. 4 to 6 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q432 — Holograph will is defined as *(2016)*
+
+Holograph will is defined as
+
+- A. Doctor dictates and written by relatives
+- B. Testator is written in his own handwriting
+- C. Testator is dictated and written by relatives
+- D. Testator is dictated and written by doctor
+
+<details><summary>Answer</summary>
+
+**B. Testator is written in his own handwriting** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q433 — Subpubic angle is *(2016)*
+
+Subpubic angle is :
+
+- A. <65°
+- B. 65-75°
+- C. 85°
+- D. 110-120°
+
+<details><summary>Answer</summary>
+
+**C. 85°** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q434 — Obtuse angle of mandible is seen *(2016)*
+
+Obtuse angle of mandible is seen in
+
+- A. Infancy
+- B. Adulthood
+- C. Adult Male
+- D. Adult Female
+
+<details><summary>Answer</summary>
+
+**A. Infancy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q435 — First incisor to erupt is *(2016)*
+
+First incisor to erupt is
+
+- A. Lower central
+- B. Upper central
+- C. Lower lateral
+- D. Upper lateral
+
+<details><summary>Answer</summary>
+
+**A. Lower central** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q436 — baby has stated to get his *(2016)*
+
+A baby has stated to get his first milk teeth. His age is approximately:
+
+- A. 3 months
+- B. 6 months
+- C. 9 months
+- D. 12 months
+
+<details><summary>Answer</summary>
+
+**B. 6 months** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q437 — X-ray of choice for age detection *(2016)*
+
+X-ray of choice for age detection at around 16-17 years of age
+
+- A. Elbow
+- B. Wrist
+- C. Shoulder
+- D. Pelvis
+
+<details><summary>Answer</summary>
+
+**B. Wrist** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q438 — Post mortem staining gets fixed after *(2016)*
+
+Post mortem staining gets fixed after :
+
+- A. 2-3 hrs.
+- B. 3-4 hrs.
+- C. 5-6 hrs..
+- D. 7-8 hours
+
+<details><summary>Answer</summary>
+
+**D. 7-8 hours** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q439 — Suggilation is due to which of *(2016)*
+
+Suggilation is due to which of the following?
+
+- A. Gravity leading to pooling of blood
+- B. Escape of blood from microvasculature
+- C. Molecular death leading to stiffening of muscles
+- D. Autolysis of enzymes
+
+<details><summary>Answer</summary>
+
+**A. Gravity leading to pooling of blood** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q440 — First sign of maceration is *(2016)*
+
+First sign of maceration is
+
+- A. Robert's sign
+- B. Skin slippage
+- C. Spalding sign
+- D. Greenish discoloration of body
+
+<details><summary>Answer</summary>
+
+**B. Skin slippage** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q441 — According to Caspers dictum decomposition is *(2016)*
+
+According to Casper's dictum, decomposition is the fastest when the body is in which of the following?
+
+- A. Air
+- B. Water
+- C. Earth
+- D. Soil
+
+<details><summary>Answer</summary>
+
+**A. Air** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q442 — Enzyme responsible for postmortem hemolysis is *(2016)*
+
+Enzyme responsible for postmortem hemolysis is
+
+- A. Hemolysin
+- B. Lecithinase
+- C. Lipoproteinase
+- D. Protease
+
+<details><summary>Answer</summary>
+
+**B. Lecithinase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q443 — Mummification is enhanced by *(2016)*
+
+Mummification is enhanced by ?
+
+- A. Moist and hot air
+- B. Moist and cool air
+- C. Dry and hot air
+- D. Dry and cool air
+
+<details><summary>Answer</summary>
+
+**C. Dry and hot air** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q444 — Postmortem wound best differs from the *(2016)*
+
+Postmortem wound best differs from the antemortem wound by :
+
+- A. Gaps on incising
+- B. No clots
+- C. Absence of erythema and cellular changes
+- D. All
+
+<details><summary>Answer</summary>
+
+**C. Absence of erythema and cellular changes** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q445 — Gun powder on body and clothing *(2016)*
+
+Gun powder on body and clothing can be visualized by?
+
+- A. Harrison and Gilroy test
+- B. Neutron activation analysis
+- C. Dermal nitrate test
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q446 — Laser used in tracheal neoplasm is *(2016)*
+
+Laser used in tracheal neoplasm is
+
+- A. Argon
+- B. KTP - 532
+- C. CO2
+- D. Nd - YAG
+
+<details><summary>Answer</summary>
+
+**C. CO2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q447 — except one are true for Scleromalacia *(2016)*
+
+All except one are true for Scleromalacia perforans
+
+- A. It is non inflammatory scleritis
+- B. It affects only males
+- C. Perforation of the globe is extremely rare
+- D. Vision is unaffected
+
+<details><summary>Answer</summary>
+
+**B. It affects only males** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q448 — In which of the following intraocular *(2016)*
+
+In which of the following, intraocular pressure is very high and inflammation is minimum?
+
+- A. Glaucomatocyclic crisis
+- B. Acute iridocyclitis
+- C. Hypetensive uveitis
+- D. Angle closure glaucoma
+
+<details><summary>Answer</summary>
+
+**A. Glaucomatocyclic crisis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q449 — Ankyloblepheron is defined as *(2016)*
+
+Ankyloblepheron is defined as
+
+- A. Adhesion of the lid to the eyeballs
+- B. Adhesion of the lid margins to each other
+- C. Inturned eyelash
+- D. Inflammation of the lid margin
+
+<details><summary>Answer</summary>
+
+**B. Adhesion of the lid margins to each other** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q450 — FEVIFVC is decrease in *(2016)*
+
+FEVI/FVC is decrease in:
+
+- A. Asthma
+- B. Kyphosis
+- C. Scoliosis
+- D. Fibrosis
+
+<details><summary>Answer</summary>
+
+**A. Asthma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q451 — Triad of skin lesions mononeuritis multiplex *(2016)*
+
+Triad of skin lesions, mononeuritis multiplex, eosinophils seen in
+
+- A. Alports syndrome
+- B. Churg - Strauss syndrome
+- C. Cryoglobulinemia
+- D. Wegeners granulomatosus
+
+<details><summary>Answer</summary>
+
+**C. Cryoglobulinemia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q452 — Presence of Velcro crackles at the *(2016)*
+
+Presence of Velcro crackles at the lung base on auscultation is a sign of
+
+- A. Scleroderma
+- B. Systemic Lupus
+- C. Wegeners Granulomatosus
+- D. Polyarteritisnodosa
+
+<details><summary>Answer</summary>
+
+**A. Scleroderma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q453 — Type 3 respiratory failure occurs due *(2016)*
+
+Type 3 respiratory failure occurs due to ?
+
+- A. Post-operative atelectasis
+- B. Kyphoscoliosis
+- C. Flail chest
+- D. Pulmonary fibrosis
+
+<details><summary>Answer</summary>
+
+**A. Post-operative atelectasis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q454 — Ascitic fluid SAAG  11 what *(2016)*
+
+Ascitic fluid SAAG < 1.1 what is the disease associated with
+
+- A. Hepatic failure
+- B. Idiopathic portal fibrosis
+- C. Constrictive pericarditis
+- D. Peritoneal carcinomatosis
+
+<details><summary>Answer</summary>
+
+**D. Peritoneal carcinomatosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q455 — Lambert Eaton syndrome true is *(2016)*
+
+Lambert Eaton syndrome true is
+
+- A. It is a paraneoplastic syndrome associated with squamous cell
+- B. IgM antibodies against ligand gated calcium channels
+- C. There is increase in release of presynaptic acetylcholine
+- D. With continuous stimulation there is marked increase in
+
+<details><summary>Answer</summary>
+
+**D. With continuous stimulation there is marked increase in** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q456 — of the following is not true *(2016)*
+
+Which of the following is not true about the development of thyroid tumors in nodular goiter?
+
+- A. Prevalence of thyroid carcinoma ranges between 5-15% in the
+- B. Papillary carcinoma is the most common carcinoma developed
+- C. Both benign and malignant neoplasms can be seen in patients
+- D. The risk of development of carcinoma is not correlated with the
+
+<details><summary>Answer</summary>
+
+**D. The risk of development of carcinoma is not correlated with the** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q457 — of the following antineoplastic agents is *(2016)*
+
+Which of the following antineoplastic agents is used in the management of Hodgkins lymphoma, non Hodgkins lymphoma and small cell carcinoma of lung?
+
+- A. Cisplatin
+- B. Bleomycin
+- C. Paclitaxel
+- D. Doxorubicin
+
+<details><summary>Answer</summary>
+
+**A. Cisplatin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q458 — Mantle field radiation was used for *(2016)*
+
+Mantle field radiation was used for management of -
+
+- A. Hodgkins lymphoma
+- B. Mantle cell lymphoma
+- C. Multiple myeloma
+- D. Cervical carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Hodgkins lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q459 — Hadfields operation is performed for which *(2016)*
+
+Hadfields operation is performed for which of the following pathology?
+
+- A. Duct ectasia
+- B. Fibroadenoma
+- C. Mondors disease
+- D. Inflammatory breast carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Duct ectasia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q460 — Previous radition therapy for which disease *(2016)*
+
+Previous radition therapy for which disease particulary increases the risk of breast carcinoma development?
+
+- A. Hodgkins lymphoma
+- B. Mantle cell lymphoma
+- C. Nasopharyngeal carcinoma
+- D. Lung carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Hodgkins lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q461 — True about small intestinal tumor is *(2016)*
+
+True about small intestinal tumor is -
+
+- A. Lymphomas are the most common small intestinal tumors
+- B. Carcinoids are more common in the duodenum and jejunum
+- C. Adenomatous polyps are more common in the terminal ileum
+- D. Risk of developing small bowel tumor correlates positively with
+
+<details><summary>Answer</summary>
+
+**D. Risk of developing small bowel tumor correlates positively with** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q462 — Meconium ileus is associated with *(2016)*
+
+Meconium ileus is associated with:
+
+- A. Cystic fibrosis
+- B. Infant of diabetic mother
+- C. Hypothyroidism
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Cystic fibrosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q463 — of the following is not true *(2016)*
+
+Which of the following is not true about impingement syndrome?
+
+- A. It is the tendinitis caused by inflammation of the rotator cuff
+- B. Supraspinatus tendon is most often involved
+- C. Shoulder abduction in the arc of 60 - 120 degrees is particularly
+- D. Surgical decompression of the subacromial space is frequently
+
+<details><summary>Answer</summary>
+
+**D. Surgical decompression of the subacromial space is frequently** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q464 — are features of inflammatory arthritis except *(2016)*
+
+All are features of inflammatory arthritis except?
+
+- A. Morning stiffness
+- B. X-ray showing sclerosis
+- C. Elevated ESR
+- D. Weight gain
+
+<details><summary>Answer</summary>
+
+**B. X-ray showing sclerosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q465 — False about osteoarthritis is *(2016)*
+
+False about osteoarthritis is ?
+
+- A. Involves synovial joints
+- B. Progressive softening of the articular cartilage
+- C. It is an inflammatory arthritis
+- D. Marginal osteophytes are produced
+
+<details><summary>Answer</summary>
+
+**C. It is an inflammatory arthritis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q466 — Therapeutic conization is indicated in *(2016)*
+
+Therapeutic conization is indicated in?
+
+- A. Microinvasive carcinoma cervix stage lal
+- B. CIN III
+- C. Unsatisfactory colposcopy with cervical dysplasia
+- D. Cervical metaplasia
+
+<details><summary>Answer</summary>
+
+**A. Microinvasive carcinoma cervix stage lal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q467 — Samsons theory for Development of Endometriosis *(2016)*
+
+Samson's theory for Development of Endometriosis is ?
+
+- A. Celomic metaplasia
+- B. Hematogenous spread
+- C. Lymphatic spread
+- D. Retrograde menstruation
+
+<details><summary>Answer</summary>
+
+**D. Retrograde menstruation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q468 — Residual Hypopigmentation following a drug reactio *(2016)*
+
+Residual Hypopigmentation following a drug reaction, is best known as?
+
+- A. Vitiligo
+- B. Chemical leukoderma
+- C. Post inflammatory hypomelanosis
+- D. Piebaldism
+
+<details><summary>Answer</summary>
+
+**C. Post inflammatory hypomelanosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+
+
+## Year 2017
+
+### Q469 — Microbial cause of catheter infection in young
+
+Microbial cause of catheter infection in young female.
+
+- A. S.aureus
+- B. S.viridans
+- C. P. mallei
+- D. P. cepacia
+
+<details><summary>Answer</summary>
+
+**A. S.aureus** — Coagulase-negative staphylococci are most common (30-40%), followed by S. aureus (5-10%) in catheter-related infections.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#79 | OPTIONS_GENERATED: false -->
+
+---
+

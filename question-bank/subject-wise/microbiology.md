@@ -2486,3 +2486,2583 @@ A man from endemic region with progressive leg swelling; peripheral smear shows 
 
 ---
 
+## Year 2015
+
+### Q139 — Obliterative endarteritis in vasa vasorum is
+
+Obliterative endarteritis in vasa vasorum is seen in -
+
+- A. Hypertension
+- B. Tuberculosis
+- C. Syphilis
+- D. SLE
+
+<details><summary>Answer</summary>
+
+**C. Syphilis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q140 — hLh blood group-
+
+hL/h blood group-
+
+- A. lacks H- antigen
+- B. lacks A-antigen
+- C. lacks B- antigen
+- D. Alloftheabove
+
+<details><summary>Answer</summary>
+
+**D. Alloftheabove** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q141 — Routine Rh typing includes testing
+
+Routine Rh typing includes testing?
+
+- A. A antigen
+- B. B antigen
+- C. C antigen
+- D. D antigen
+
+<details><summary>Answer</summary>
+
+**D. D antigen** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q142 — Irregular scarred kidney with pelvic dilatation
+
+Irregular scarred kidney with pelvic dilatation is seen with -
+
+- A. Chronicpyelonephritis
+- B. Polycystickidney
+- C. Renalarterystenosis
+- D. Tuberculosisofkidney
+
+<details><summary>Answer</summary>
+
+**A. Chronicpyelonephritis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q143 — Ghons focus reflects
+
+Ghon's focus reflects:
+
+- A. Miliary tuberculosis
+- B. Primary complex
+- C. Tuberculous lymphadenitis
+- D. Post primary tuberculosis
+
+<details><summary>Answer</summary>
+
+**B. Primary complex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q144 — Bacteria most commonly involved in bowel
+
+Bacteria most commonly involved in bowel decomposition after death is -
+
+- A. Streptococcus pyogenes
+- B. Clostridium welchii
+- C. Pseudomonas aeruginosa
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Clostridium welchii** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q145 — Crystal violet blood agar is used
+
+Crystal violet blood agar is used for which bacteria?
+
+- A. Corynebacterium diphtheriae
+- B. Staph aureus
+- C. β-hemolytic streptococcus
+- D. Meningococcus
+
+<details><summary>Answer</summary>
+
+**C. β-hemolytic streptococcus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q146 — Modified Ziehl-neelsen staining is used for
+
+Modified Ziehl-neelsen staining is used for:
+
+- A. Mycobacterium tuberculosis
+- B. Mycobacterium bovis
+- C. Nocardia
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q147 — Viral DNA is integrated into Bacterial
+
+Viral DNA is integrated into Bacterial DNA in:
+
+- A. Transduction
+- B. Lysogenic conversion
+- C. Transformation
+- D. Conjugation
+
+<details><summary>Answer</summary>
+
+**B. Lysogenic conversion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q148 — Frozen phenomenon is used for -
+
+Frozen phenomenon is used for -
+
+- A. Sterilization of heat sensitive material
+- B. Killing thermophilic bacteria
+- C. Preservation of microorganisms
+- D. Stimulating metabolism of microorganism
+
+<details><summary>Answer</summary>
+
+**C. Preservation of microorganisms** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q149 — Nucleic acid is not found in
+
+Nucleic acid is not found in -
+
+- A. Virus
+- B. bacteria
+- C. Fungus
+- D. Prions
+
+<details><summary>Answer</summary>
+
+**D. Prions** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q150 — Most common organism involved in nosocomial
+
+Most common organism involved in nosocomial infection -
+
+- A. Staph aureus
+- B. E. coli
+- C. Legionella
+- D. Strep pneumonia
+
+<details><summary>Answer</summary>
+
+**A. Staph aureus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q151 — Oil paint appearance on nutrient agar
+
+Oil paint appearance on nutrient agar is seen in -
+
+- A. Streptococcus pyogenes
+- B. Staphylococcus aureus
+- C. Bordtella pertussis
+- D. H. influenzae
+
+<details><summary>Answer</summary>
+
+**B. Staphylococcus aureus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q152 — Most common age group affected by
+
+Most common age group affected by streptococcus pyogenes -
+
+- A. < 5 years
+- B. 5 - 15 years
+- C. 20 - 25 years
+- D. 30 - 40 years
+
+<details><summary>Answer</summary>
+
+**B. 5 - 15 years** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q153 — Bacteria that can grow even in
+
+Bacteria that can grow even in the presence of antiseptic:
+
+- A. Staphylococcus
+- B. Streptococcus
+- C. E. coli
+- D. Pseudomonas
+
+<details><summary>Answer</summary>
+
+**D. Pseudomonas** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q154 — A chronic alcoholic is presenting with
+
+A chronic alcoholic is presenting with clinical features of meningitis. Most likely organism which will grow on CSF culture:
+
+- A. Streptococcus pneumoniae
+- B. N. meningitidis
+- C. Listeria monocytogenes
+- D. F. coli
+
+<details><summary>Answer</summary>
+
+**A. Streptococcus pneumoniae** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q155 — Protein A of staphylococcus binds to
+
+Protein A of staphylococcus binds to
+
+- A. IgA
+- B. IgG
+- C. IgD
+- D. IgE
+
+<details><summary>Answer</summary>
+
+**B. IgG** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q156 — Which streptodornase is most antigenic in
+
+Which streptodornase is most antigenic in human beings:
+
+- A. A
+- B. B
+- C. C
+- D. D
+
+<details><summary>Answer</summary>
+
+**B. B** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q157 — Fresh water swimming leads to infection
+
+Fresh water swimming leads to infection by -
+
+- A. Bordetella pertussis
+- B. Corynebacterium diphtheriae
+- C. M tuberculosis
+- D. Pseudomonas
+
+<details><summary>Answer</summary>
+
+**D. Pseudomonas** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q158 — Izumi fever is caused by
+
+Izumi fever is caused by:
+
+- A. Pseudomonas aeruginosa
+- B. Burkholderia mallei
+- C. Yersinia pseudotuberculosis
+- D. Pasteurella multocida
+
+<details><summary>Answer</summary>
+
+**C. Yersinia pseudotuberculosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q159 — True about widal test
+
+True about widal test:
+
+- A. Anti-0 antibody persists longer
+- B. 0 antigen of S. paratyphi is used
+- C. H-antigen is most immunogenic
+- D. Felix tube is used for 'H' agglutination lnar
+
+<details><summary>Answer</summary>
+
+**C. H-antigen is most immunogenic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q160 — Non-motile bacterium is -
+
+Non-motile bacterium is -
+
+- A. Vibrio
+- B. Clostridium septicum
+- C. Clostridium perfringens
+- D. Legionella
+
+<details><summary>Answer</summary>
+
+**C. Clostridium perfringens** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q161 — Phagocytosis of mycobacterium tuberculosis by macr
+
+Phagocytosis of mycobacterium tuberculosis by macro​phages is mainly mediated by:
+
+- A. IL 6
+- B. IL 3
+- C. IL 12
+- D. IFN Gamma
+
+<details><summary>Answer</summary>
+
+**D. IFN Gamma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q162 — Bile esculin agar is used for
+
+Bile esculin agar is used for ?
+
+- A. Group A streptococcus
+- B. Group B streptococcus
+- C. Group C streptococcus
+- D. Enterococcus
+
+<details><summary>Answer</summary>
+
+**D. Enterococcus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q163 — Which of the following belongs to
+
+Which of the following belongs to Herpesviridae:
+
+- A. Variola
+- B. Adenovirus
+- C. HPV
+- D. RK virus
+
+<details><summary>Answer</summary>
+
+**D. RK virus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q164 — HIV envelop is formed by
+
+HIV envelop is formed by:
+
+- A. Host cell
+- B. Virus
+- C. Both
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Both** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q165 — Which HIV-virus is more dangerous
+
+Which HIV-virus is more dangerous:
+
+- A. HIV-1
+- B. HIV-2
+- C. Both are same
+- D. It depends on host factors
+
+<details><summary>Answer</summary>
+
+**A. HIV-1** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q166 — Which of the following can infect
+
+Which of the following can infect ovary -
+
+- A. Mumps virus
+- B. EBV
+- C. CMV
+- D. Measles virus
+
+<details><summary>Answer</summary>
+
+**A. Mumps virus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q167 — Which is not a poxvirus
+
+Which is not a poxvirus:
+
+- A. Vaccinia virus
+- B. Molluscum contagiosum
+- C. Tanapox virus
+- D. Coxsackie virus
+
+<details><summary>Answer</summary>
+
+**D. Coxsackie virus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q168 — True about rotavirus vaccine
+
+True about rotavirus vaccine:
+
+- A. Killed vaccine
+- B. Given subcutaneous
+- C. Pentavalent vaccine
+- D. Should be given before 5 years
+
+<details><summary>Answer</summary>
+
+**C. Pentavalent vaccine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q169 — Von Magnus phenomenon -
+
+Von Magnus phenomenon -
+
+- A. Is a normal replicative cycle
+- B. Virus yield has low hemagglutination
+- C. Virus has high infectivity
+- D. Virus yields has high hemagglutination titre but low infectivity
+
+<details><summary>Answer</summary>
+
+**D. Virus yields has high hemagglutination titre but low infectivity** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q170 — Precipitation in comparison to agglutination requi
+
+Precipitation in comparison to agglutination requires -
+
+- A. Less pH
+- B. High temperature
+- C. Specific enzyme
+- D. Soluble antigen
+
+<details><summary>Answer</summary>
+
+**D. Soluble antigen** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q171 — Example of precipitation test is
+
+Example of precipitation test is
+
+- A. Rose waaler test
+- B. Widal test
+- C. Latex agglutination
+- D. Kahn test
+
+<details><summary>Answer</summary>
+
+**D. Kahn test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q172 — Example of neutrilization reaction -
+
+Example of neutrilization reaction -
+
+- A. VDRL
+- B. Widal test
+- C. Kahn test
+- D. Nagler reaction
+
+<details><summary>Answer</summary>
+
+**D. Nagler reaction** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q173 — Which is specific for acquired immunity
+
+Which is specific for acquired immunity ?
+
+- A. Immunological memory
+- B. Affected by genetic makeup
+- C. No antigen exposure
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Immunological memory** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q174 — Prozone phenomenon is due to
+
+Prozone phenomenon is due to
+
+- A. Antigen excess
+- B. Antibody excess
+- C. False +ve reaction
+- D. False -ve reaction
+
+<details><summary>Answer</summary>
+
+**A. Antigen excess** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q175 — A child is presenting with vomiting
+
+A child is presenting with vomiting and abdominal pain after 5 hours of eating some food. The most likely causa​tive orgonism:
+
+- A. Bacillus cereus
+- B. Cl. perfringens
+- C. Cl. botalinum
+- D. V. cholerae
+
+<details><summary>Answer</summary>
+
+**A. Bacillus cereus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q176 — Measles is infective for
+
+Measles is infective for:
+
+- A. One day before and 4 days after rash
+- B. Four days before and five days after rash
+- C. Entire incubation period
+- D. Only during scabs falling
+
+<details><summary>Answer</summary>
+
+**B. Four days before and five days after rash** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q177 — True about chicken pox
+
+True about chicken pox ?
+
+- A. Caused by Herpes simplex type-7
+- B. SAR is 90%
+- C. Infectious perios is 7 days prior to 7 days after onset of rash
+- D. Affects commonly 10-15 years old
+
+<details><summary>Answer</summary>
+
+**B. SAR is 90%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q178 — What is common in H5N1 and
+
+What is common in H5N1 and H7N7 strains of influenza ?
+
+- A. Frequent endemic infection in man
+- B. Have same frequency of antigenic variation
+- C. Strains of avian influenza
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**C. Strains of avian influenza** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q179 — Vaccine derived polio virus outbreaks are
+
+Vaccine derived polio virus outbreaks are due to ?
+
+- A. Type-2 virus
+- B. Type-3 virus
+- C. Type-1 virus
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Type-2 virus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q180 — Women traveling from Bihar to Delhi
+
+Women traveling from Bihar to Delhi is suspecting to have Kala-azar. Suitable investigation is ?
+
+- A. P24 antigen
+- B. Rk-39 test
+- C. Combo RDT
+- D. HRP-2 antigen
+
+<details><summary>Answer</summary>
+
+**B. Rk-39 test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q181 — Incubation period of plasmodium vivax is-
+
+Incubation period of plasmodium vivax is-
+
+- A. 5-7 days
+- B. 7-10 days
+- C. 10-14 days
+- D. 15-30 days
+
+<details><summary>Answer</summary>
+
+**C. 10-14 days** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q182 — Most common cause of otitis externa
+
+Most common cause of otitis externa is?
+
+- A. Fungal infection
+- B. Bacterial infection
+- C. Seborrheic disease
+- D. Herpes Zoster
+
+<details><summary>Answer</summary>
+
+**B. Bacterial infection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q183 — All of the following are causes
+
+All of the following are causes of perforation of cartilaginous part of nasal septum except?
+
+- A. Tuberculosis
+- B. Leprosy
+- C. Lupus
+- D. Syphilis
+
+<details><summary>Answer</summary>
+
+**D. Syphilis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q184 — Unilateral frontal blisters with upper lid
+
+Unilateral frontal blisters with upper lid edema with conjunctivitis is seen in ?
+
+- A. Acanthamoeba Keratits
+- B. Herpes Simplex
+- C. Herpes Zoster Ophthalmicus
+- D. Neuroparalytic Keratitis
+
+<details><summary>Answer</summary>
+
+**C. Herpes Zoster Ophthalmicus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q185 — Which organism can peneterate corneal endothelium
+
+Which organism can peneterate corneal endothelium?
+
+- A. Aspergillus fumigatus
+- B. Staphylococcus Aureus
+- C. Neisseriae Gonorrhae
+- D. Hemophilus influenza
+
+<details><summary>Answer</summary>
+
+**A. Aspergillus fumigatus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q186 — Most common cause of lung abscess
+
+Most common cause of lung abscess is comatose patient
+
+- A. Staph aureus
+- B. Oral anaerobes
+- C. Klebsiella
+- D. Tuberculosis
+
+<details><summary>Answer</summary>
+
+**B. Oral anaerobes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q187 — Most common cause of Addisons Disease
+
+Most common cause of Addison's Disease in India is:
+
+- A. Autoimmune
+- B. Postpartum
+- C. HIV
+- D. Tuberculosis
+
+<details><summary>Answer</summary>
+
+**D. Tuberculosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q188 — Most common organism associated with reactive
+
+Most common organism associated with reactive arthritis is:
+
+- A. Staphylococcus
+- B. Shigella
+- C. Chlamydia
+- D. Yersinia
+
+<details><summary>Answer</summary>
+
+**C. Chlamydia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q189 — 696 Salmonella and shigella can be
+
+696. Salmonella and shigella can be differentiated from other enterobacteriaceae member by isolation on:
+
+- A. MacConkey agar
+- B. Mannitol salt agar
+- C. BCYE medium
+- D. XLD agar
+
+<details><summary>Answer</summary>
+
+**D. XLD agar** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q190 — Which of the following condition does
+
+Which of the following condition does not cause multiple painful ulcers on tongue?
+
+- A. TB
+- B. Sacroidosis
+- C. Herpes
+- D. Behcet disease
+
+<details><summary>Answer</summary>
+
+**B. Sacroidosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q191 — Test done to diagnose syphilis in
+
+Test done to diagnose syphilis in newborn if mother is syphilitic -
+
+- A. Syphilis Capita M test
+- B. Detection of IgG
+- C. ZN staining
+- D. Fluoroescent antigen test
+
+<details><summary>Answer</summary>
+
+**A. Syphilis Capita M test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q192 — Microorganism which causes pyogenic osteomyelitis 
+
+Microorganism which causes pyogenic osteomyelitis is ?
+
+- A. Streptococcus
+- B. Staph aureus
+- C. Corynebacterium
+- D. Neisseria gonorrhoeae
+
+<details><summary>Answer</summary>
+
+**B. Staph aureus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q193 — Risk factor for cervical carcinoma is
+
+Risk factor for cervical carcinoma is -
+
+- A. Smoking
+- B. Human papilloma virus
+- C. Low socioeconomic status
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q194 — Which of the following is characterized
+
+Which of the following is characterized by a solitary painless ulcer on genitalia?
+
+- A. Herpes
+- B. Soft chancre [chancroid]
+- C. Hard chancre
+- D. Traumatic ulcer
+
+<details><summary>Answer</summary>
+
+**C. Hard chancre** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q195 — Tree in bud appearance on CT
+
+"Tree in bud appearance" on CT is seen in
+
+- A. Pulmonary tuberculosis
+- B. Silicosis
+- C. Pulmonary hydatid cyst
+- D. Small cell carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Pulmonary tuberculosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q196 — year old male presents with fever
+
+year old male presents with fever and malaise for 4 months& pain in the knees and ankles. Blood tests are normal apart from a raised ESR. Chest x-ray shows bilateral hilar
+
+- A. Tuberculosis
+- B. Sarcoidosis
+- C. Asbestosis
+- D. Berylliosis
+
+<details><summary>Answer</summary>
+
+**B. Sarcoidosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q197 — commonly used vector for DNA cloning *(2016)*
+
+Most commonly used vector for DNA cloning ?
+
+- A. Plasmid
+- B. Virus
+- C. Cosmid
+- D. Phage
+
+<details><summary>Answer</summary>
+
+**A. Plasmid** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q198 — Type 4 hypersensitivity reaction to TB *(2016)*
+
+Type 4 hypersensitivity reaction to TB antigen is similar to which of the following?
+
+- A. Serum sickness
+- B. Asthma
+- C. Myasthenia gravis
+- D. Temporal arteritis
+
+<details><summary>Answer</summary>
+
+**D. Temporal arteritis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q199 — True Statement about silicosis - *(2016)*
+
+True Statement about silicosis -
+
+- A. Produces pleural plaque
+- B. Associated with tuberculosis
+- C. Lower lobe infiltration
+- D. All
+
+<details><summary>Answer</summary>
+
+**B. Associated with tuberculosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q200 — Phlegmonous gastritis occurs due to *(2016)*
+
+Phlegmonous gastritis occurs due to?
+
+- A. H. pylori
+- B. E. coli
+- C. C. jejuni
+- D. Cl. Tetani
+
+<details><summary>Answer</summary>
+
+**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q201 — Collar button ulcer is found in *(2016)*
+
+Collar button ulcer is found in?
+
+- A. Ulcerative colitis
+- B. Crohn's disease
+- C. Shigella
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q202 — of the following are important mechanisms *(2016)*
+
+All of the following are important mechanisms of gene transfer in bacteria, except ?
+
+- A. Lateral gene transfer
+- B. Conjugation
+- C. Vertical gene transfer
+- D. Horizontal gene transfer
+
+<details><summary>Answer</summary>
+
+**C. Vertical gene transfer** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q203 — Natural method of horizontal gene transfer *(2016)*
+
+Natural method of horizontal gene transfer among bacteria includes -
+
+- A. Electroporation
+- B. Transduction
+- C. Transformation
+- D. b and c
+
+<details><summary>Answer</summary>
+
+**D. b and c** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q204 — Nutrient agar heated at 80C used *(2016)*
+
+Nutrient agar heated at 80°C used for
+
+- A. Spore germination
+- B. To grow mesophilic bacteria
+- C. To grow thermophilic bacteria
+- D. For clostridium isolation
+
+<details><summary>Answer</summary>
+
+**D. For clostridium isolation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q205 — Partial acid fast organism is *(2016)*
+
+Partial acid fast organism is
+
+- A. M. tuberculosis
+- B. M. Bovis
+- C. Nocardia
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Nocardia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q206 — Classification of staphylococcus is based on *(2016)*
+
+Classification of staphylococcus is based on -
+
+- A. Catalase test
+- B. Coagulase test
+- C. Mannitol fermentation
+- D. Optochin sensitivity
+
+<details><summary>Answer</summary>
+
+**B. Coagulase test** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q207 — Iron helps in virulence of which *(2016)*
+
+Iron helps in virulence of which organism
+
+- A. Streptococcus pyogenes
+- B. Pneumococcus
+- C. Staphylococcus aureus
+- D. Pseudomonas
+
+<details><summary>Answer</summary>
+
+**C. Staphylococcus aureus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q208 — Fishy odour is found on growth *(2016)*
+
+Fishy odour is found on growth of which organism
+
+- A. Proteus
+- B. Pseudomonas
+- C. Yersinia pseudotuberculosis
+- D. Yersinia pestis
+
+<details><summary>Answer</summary>
+
+**A. Proteus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q209 — Species of shigella causing arthritis *(2016)*
+
+Species of shigella causing arthritis
+
+- A. Sh dysenteriae-1
+- B. Sh sonnei
+- C. Sh flexneri
+- D. Sh boydii
+
+<details><summary>Answer</summary>
+
+**C. Sh flexneri** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q210 — Griffth classification is base on *(2016)*
+
+Griffth classification is base on
+
+- A. 'C'-carbohydrate
+- B. M, T, R antigens
+- C. Type of hemolysis
+- D. 0, requirment
+
+<details><summary>Answer</summary>
+
+**B. M, T, R antigens** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q211 — How does chlamydia differ from other *(2016)*
+
+How does chlamydia differ from other usual bacteria?
+
+- A. Lack cell wall
+- B. Cannot grow in cell free culture media
+- C. Contains inclusion body
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Contains inclusion body** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q212 — E coli subtypes are divided on *(2016)*
+
+E. coli subtypes are divided on the basis of
+
+- A. Lactose fermentation
+- B. Virulence properties
+- C. Somatic 0 antigen
+- D. Maltose fermentation
+
+<details><summary>Answer</summary>
+
+**B. Virulence properties** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q213 — ELISA test for virulence antigen is *(2016)*
+
+ELISA test for virulence antigen is used for which type of E coli
+
+- A. ETEC
+- B. EIEC
+- C. EHEC
+- D. EAEC
+
+<details><summary>Answer</summary>
+
+**B. EIEC** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q214 — E coli infection occur in which *(2016)*
+
+E. coli infection occur in which enzyme defect
+
+- A. Lactase
+- B. Pyruvate kinase
+- C. Pepsin
+- D. Trypsin
+
+<details><summary>Answer</summary>
+
+**B. Pyruvate kinase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q215 — Generation time for M tuberculosis *(2016)*
+
+Generation time for M tuberculosis
+
+- A. 10-15 min
+- B. 10-15 hours
+- C. 10-15 days
+- D. 5-10 days
+
+<details><summary>Answer</summary>
+
+**B. 10-15 hours** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q216 — of the following agents is most *(2016)*
+
+Which of the following agents is most commonly associated with recurrent meningitis due to CSF leaks?
+
+- A. Meningococci
+- B. Pneumococci
+- C. Hemophilus Influenza
+- D. E. Coli
+
+<details><summary>Answer</summary>
+
+**B. Pneumococci** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q217 — E coli is differentiated by E *(2016)*
+
+E. coli is differentiated by E histolytica by presence of
+
+- A. Very active movement
+- B. Thin nuclear membrane
+- C. Cyst with 1-4 nuclei
+- D. Blunt pseudopodia
+
+<details><summary>Answer</summary>
+
+**D. Blunt pseudopodia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q218 — Intermediate host is not required for *(2016)*
+
+Intermediate host is not required for which parasite -
+
+- A. Toxoplasma
+- B. Schistosoma
+- C. Ancylostoma
+- D. Fish tapeworm
+
+<details><summary>Answer</summary>
+
+**C. Ancylostoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q219 — Smallest DNA virus is *(2016)*
+
+Smallest DNA virus is?
+
+- A. Herpes virus
+- B. Adenovirus
+- C. Parvovirus
+- D. Poxvirus
+
+<details><summary>Answer</summary>
+
+**C. Parvovirus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q220 — viruses are associated with specific inclusion *(2016)*
+
+All viruses are associated with specific inclusion body, except ?
+
+- A. CMV
+- B. Malluscum contagiosum
+- C. EBV
+- D. Yellow fever
+
+<details><summary>Answer</summary>
+
+**C. EBV** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q221 — Hand foot mouth disease is caused *(2016)*
+
+Hand foot mouth disease is caused by ?
+
+- A. Enterovirus -70
+- B. Coxsackie - A virus
+- C. Coxsackie - B virus
+- D. Enterovirus
+
+<details><summary>Answer</summary>
+
+**B. Coxsackie - A virus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q222 — HSV-2 (Herpes simplex) causes *(2016)*
+
+HSV-2 (Herpes simplex) causes ?
+
+- A. Oral ulcers
+- B. Genital ulcers
+- C. U.T.I.
+- D. Pharyngitis
+
+<details><summary>Answer</summary>
+
+**B. Genital ulcers** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q223 — of the following is Hepadnavirus *(2016)*
+
+Which of the following is Hepadnavirus ?
+
+- A. HAV��
+- B. HBV
+- C. HCV
+- D. HDV
+
+<details><summary>Answer</summary>
+
+**B. HBV** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q224 — Core antigen HBO in HBV is *(2016)*
+
+Core antigen [HBO in HBV is encloded by which gene ?
+
+- A. S
+- B. C
+- C. P
+- D. X
+
+<details><summary>Answer</summary>
+
+**B. C** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q225 — Respiratory Syncytial Virus (RSV) causes all *(2016)*
+
+Respiratory Syncytial Virus (RSV) causes all, EXCEPT:
+
+- A. Coryza in kids
+- B. ARDS
+- C. Bronchitis
+- D. Common cold
+
+<details><summary>Answer</summary>
+
+**B. ARDS** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q226 — Rota-teq oral vaccine for rotavirus contains *(2016)*
+
+Rota-teq oral vaccine for rotavirus contains ?
+
+- A. 2 reassorted rotaviruses
+- B. 3 reassorted rotaviruses
+- C. 4 reassorted rotaviruses
+- D. 5 reassorted rotaviruses
+
+<details><summary>Answer</summary>
+
+**D. 5 reassorted rotaviruses** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q227 — Zika virus causes *(2016)*
+
+Zika virus causes ?
+
+- A. Hepatitis
+- B. Myocarditis
+- C. Conjunctivitis
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**C. Conjunctivitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q228 — Ebola virus belongs to *(2016)*
+
+Ebola virus belongs to?
+
+- A. Picornaviridae
+- B. Togaviridae
+- C. Flaviviridae
+- D. Filoviridae
+
+<details><summary>Answer</summary>
+
+**D. Filoviridae** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q229 — Polio virus is shed in stool *(2016)*
+
+Polio virus is shed in stool upto-
+
+- A. 6 weeks
+- B. 8 weeks
+- C. 10 weeks
+- D. 12 weeks
+
+<details><summary>Answer</summary>
+
+**D. 12 weeks** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q230 — True about rhabdoviridae are all except *(2016)*
+
+True about rhabdoviridae are all except ?
+
+- A. Includes vesculostomatitis virus
+- B. Rabies virus is inactivated by formalin
+- C. Rabies virus is negative sense double stranded RNA virus
+- D. All of the above correct
+
+<details><summary>Answer</summary>
+
+**C. Rabies virus is negative sense double stranded RNA virus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q231 — Bloody diarrhea in HIV infected patient *(2016)*
+
+Bloody diarrhea in HIV infected patient is mostly due to ?
+
+- A. Cryptosporidium
+- B. Isospora
+- C. CMV
+- D. Salmonella
+
+<details><summary>Answer</summary>
+
+**C. CMV** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q232 — Sabourauds dextrose glucose agar is used *(2016)*
+
+Sabouraud's dextrose [glucose] agar is used for isolation of -
+
+- A. Pseudomonas
+- B. B. Antracis
+- C. Fungi
+- D. Ancylostome
+
+<details><summary>Answer</summary>
+
+**C. Fungi** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q233 — Aspergillus fumigatus is differentiated by other *(2016)*
+
+Aspergillus fumigatus is differentiated by other fungi by ?
+
+- A. Showing septate hyphae
+- B. Grow at 45°C
+- C. Cause respiratory tract infection
+- D. Most common endemic mycosis
+
+<details><summary>Answer</summary>
+
+**B. Grow at 45°C** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q234 — 18 years old girl presents with *(2016)*
+
+18 years old girl presents with watery diarrhea. Most likely causative agent -
+
+- A. Rota virus
+- B. V. cholerae
+- C. Salmonella
+- D. Shigella
+
+<details><summary>Answer</summary>
+
+**B. V. cholerae** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q235 — Swimming pool conjunctivitis is caused by *(2016)*
+
+Swimming pool conjunctivitis is caused by
+
+- A. Chlamydia trachomatis
+- B. Adenovirus type 8
+- C. Adenovirus type 8
+- D. Gonococcus
+
+<details><summary>Answer</summary>
+
+**A. Chlamydia trachomatis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q236 — common organism grown in urine culture *(2016)*
+
+Most common organism grown in urine culture of pregnant woman with asymptomatic bacteriuria?
+
+- A. Proteus
+- B. E. coli
+- C. Staph aureus
+- D. Pseudomonas
+
+<details><summary>Answer</summary>
+
+**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q237 — paitent operated for transurethral resection of *(2016)*
+
+A paitent operated for transurethral resection of prostate [TURP] develops UTI. The organism most commonly grown on culture will be -
+
+- A. Proteus
+- B. E. coli
+- C. Pseudomonas
+- D. Listeria
+
+<details><summary>Answer</summary>
+
+**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q238 — Cellulitis surrounding diabetic ulcer is mostly *(2016)*
+
+Cellulitis surrounding diabetic ulcer is mostly caused by ?
+
+- A. Streptococcus pyogenes
+- B. Staphylococcus
+- C. Mixed organisms
+- D. Pseudomonas
+
+<details><summary>Answer</summary>
+
+**C. Mixed organisms** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q239 — Non-parasitic eosinophilia is caused by infection *(2016)*
+
+Non-parasitic eosinophilia is caused by infection with -
+
+- A. Staphylococcus
+- B. Ehrlischia
+- C. Coccidioidomycosis
+- D. Candidiasis
+
+<details><summary>Answer</summary>
+
+**C. Coccidioidomycosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q240 — Atypical pneumonia can be caused by *(2016)*
+
+Atypical pneumonia can be caused by the following microbial agents except?
+
+- A. Mycoplasma pneumoniae.
+- B. Legionella pemmophila
+- C. Human Corona virus
+- D. Klebsiella pneumoniae
+
+<details><summary>Answer</summary>
+
+**D. Klebsiella pneumoniae** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q241 — Median incubation period is *(2016)*
+
+Median incubation period is ?
+
+- A. Maximum time from exposure to development of symptoms in
+- B. Minimum time from exposure to development of symptoms in all
+- C. Time from exposure to development in 50% of cases
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Time from exposure to development in 50% of cases** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q242 — Varicella zoster virus infection is more *(2016)*
+
+Varicella zoster virus infection is more likely to occur in which of the following month?
+
+- A. March
+- B. August
+- C. October
+- D. November
+
+<details><summary>Answer</summary>
+
+**A. March** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q243 — common influenza virus causing disease *(2016)*
+
+Most common influenza virus causing disease?
+
+- A. Type A
+- B. Type B
+- C. Type C
+- D. Type D
+
+<details><summary>Answer</summary>
+
+**A. Type A** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q244 — Vesicles on external ear are seen *(2016)*
+
+Vesicles on external ear are seen in
+
+- A. Otitis externa
+- B. Malignant otitis externa
+- C. Herpes zoster
+- D. Clear cell carcinoma
+
+<details><summary>Answer</summary>
+
+**C. Herpes zoster** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q245 — Pain is out of proportion to *(2016)*
+
+Pain is out of proportion to signs in which corneal ulcer?
+
+- A. Herpes simplex keratits
+- B. Acanthamoeba keratitis
+- C. Fungal keratitis
+- D. Pneumococcal keratitis
+
+<details><summary>Answer</summary>
+
+**B. Acanthamoeba keratitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q246 — Smokers are prone to which lung *(2016)*
+
+Smokers are prone to which lung infection
+
+- A. Mycobacterium tuberculosis
+- B. Pneumonia
+- C. Influenza
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q247 — of the following corroborates to the *(2016)*
+
+Which of the following corroborates to the presence of clostridium difficle infection in patients taking antibiotics for another cause?
+
+- A. Diarrhoea unformed stools per 12 h for 2 days with no other
+- B. Diarrhoea unformed stools per 24 h for 2 days with no other
+- C. Diarrhoea unformed stools per 24 h for 3 days with no other
+- D. Diarrhoea unformed stools per 24 h for 4 days with no other
+
+<details><summary>Answer</summary>
+
+**B. Diarrhoea unformed stools per 24 h for 2 days with no other** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q248 — following statements are true regarding botulism *(2016)*
+
+The following statements are true regarding botulism except -
+
+- A. Infant botulism is caused by ingestion of preformed toxin
+- B. Clostridium botulinum A, B, C and F cause human disease
+- C. The gene for botulinum toxin is encoded by a bacteriophage
+- D. Clostridium baratti may cause botulism
+
+<details><summary>Answer</summary>
+
+**A. Infant botulism is caused by ingestion of preformed toxin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q249 — Rolled up omentum is seen in *(2016)*
+
+Rolled up omentum is seen in cases of -
+
+- A. Peritoneal tuberculosis
+- B. Peritoneal metastases
+- C. Perforation peritonitis
+- D. Malrotation of gut
+
+<details><summary>Answer</summary>
+
+**A. Peritoneal tuberculosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q250 — of the following cannot be used *(2016)*
+
+Which of the following cannot be used to detect HIV status in early infancy?
+
+- A. DNA - PCR
+- B. HIV culture
+- C. ELISA
+- D. P - 24 antigen assay
+
+<details><summary>Answer</summary>
+
+**C. ELISA** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q251 — Tuberculosis of spine most commonly affects *(2016)*
+
+Tuberculosis of spine most commonly affects which vertebral segment?
+
+- A. Upper dorsal
+- B. Lower dorsal
+- C. Lumbar
+- D. Cervical
+
+<details><summary>Answer</summary>
+
+**B. Lower dorsal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q252 — 20 year old male presents with *(2016)*
+
+A 20 year old male presents with history of gradual onset pain and swelling in left knee since 6 months. Now since last 1 month patient has started limping while walking and also has flexion
+
+- A. Tuberculosis of knee
+- B. Pigmented villonodular synovitis
+- C. Synovial sarcoma
+- D. Hemarthrosis
+
+<details><summary>Answer</summary>
+
+**A. Tuberculosis of knee** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q253 — Acute salpingitis is most commonly caused *(2016)*
+
+Acute salpingitis is most commonly caused by ?
+
+- A. N. gonorrhoeae
+- B. Chlamydia trachomatis
+- C. Mycoplasma
+- D. Staphylococcus
+
+<details><summary>Answer</summary>
+
+**B. Chlamydia trachomatis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q254 — Scaling is not feature of which *(2016)*
+
+Scaling is not feature of which of the following?
+
+- A. Tinea
+- B. Lichen planus
+- C. Herpes zoster
+- D. Reiter's disease
+
+<details><summary>Answer</summary>
+
+**C. Herpes zoster** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q255 — Scabies is caused by *(2016)*
+
+Scabies is caused by?
+
+- A. Mite
+- B. Tic
+- C. Virus
+- D. Fungus
+
+<details><summary>Answer</summary>
+
+**A. Mite** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+
+
+## Year 2017
+
+### Q256 — Site of action of amphotericin B is
+
+Site of action of amphotericin B is:
+
+- A. Ribosomes
+- B. Cell wall
+- C. Plasma membrane
+- D. Protein
+
+<details><summary>Answer</summary>
+
+**B. Cell wall** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#99 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q257 — Drug of choice for resistant rheumatic chorea
+
+Drug of choice for resistant rheumatic chorea?
+
+- A. Valproate
+- B. Haloperidol
+- C. Diazepam
+- D. Probenecid
+
+<details><summary>Answer</summary>
+
+**A. Valproate** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#101 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q258 — At pKa=pH
+
+At pKa=pH
+
+- A. Conc. of drug is 50% ionic and 50 % non-ionic
+- B. Absorption of drug is 50% ionic and 50% ionic
+- C. Conc of drug is 75% ionic and 25 % non-ionic
+- D. Conc of drug is 25% ionic and 75 % non-ionic
+
+<details><summary>Answer</summary>
+
+**A. Conc. of drug is 50% ionic and 50 % non-ionic** — Concentration of drug is 50% ionic & 50 % Non-ionic
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#102 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q259 — Physiological dose of hydrocortisone (mg/kg/day) is
+
+Physiological dose of hydrocortisone (mg/kg/day) is
+
+- A. 5 mg/kg/day
+- B. 10 mg/kg/day
+- C. 15 mg/kg/day
+- D. 20 mg/kg/day
+
+<details><summary>Answer</summary>
+
+**B. 10 mg/kg/day** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#103 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q260 — Basiliximab is an
+
+Basiliximab is an
+
+- A. IL-1 receptor antagonist
+- B. Anti-CD3 antibody
+- C. IL-2 receptor antagonist
+- D. TNF inhibitor
+
+<details><summary>Answer</summary>
+
+**C. IL-2 receptor antagonist** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#105 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q261 — Which of the following antipsychotic have increased
+
+Which of the following antipsychotic have increased prolactin secretion
+
+- A. Olanzapine
+- B. Ziprasidone
+- C. Clozapine
+- D. Risperidone
+
+<details><summary>Answer</summary>
+
+**D. Risperidone** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#107 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q262 — Which is the centrally acting alpha 2
+
+Which is the centrally acting alpha 2 agonist muscle relaxant
+
+- A. Diazepam
+- B. Bromocriptine
+- C. Tizanidine
+- D. Methocarbamol
+
+<details><summary>Answer</summary>
+
+**C. Tizanidine** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#114 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q263 — Apixaban is
+
+Apixaban is
+
+- A. Antithrombin inhibitor
+- B. Direct X2 inhibitor
+- C. Platelet activator
+- D. Clotting Factor XII
+
+<details><summary>Answer</summary>
+
+**B. Direct X2 inhibitor** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#115 | OPTIONS_GENERATED: false -->
+
+---
+
+### Q264 — true about vitamin K
+
+Which of the following is true about vitamin K?
+
+- A. Anticoagulant
+- B. Prolonged use of antimicrobial leads to deficiency
+- C. Dietary allowance is 15-20 mg
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Prolonged use of antimicrobial leads to deficiency** — Prolonged antibiotic use decreases gut flora that synthesise vitamin K2, leading to deficiency. Adult RDA is 50-100 mcg/day.
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#269 | OPTIONS_GENERATED: false -->
+
+---
+

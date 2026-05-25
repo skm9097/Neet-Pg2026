@@ -6560,3 +6560,7004 @@ A long head of triceps avulses its attachment during a forced hyperextension inj
 
 ---
 
+## Year 2015
+
+### Q358 — Upper limb deformity in Erbs palsy
+
+Upper limb deformity in Erb's palsy?
+
+- A. Adduction and lateral rotation of arm
+- B. Adduction and medial rotation of arm
+- C. Abduction and lateral rotation of arm
+- D. Abduction and medial rotation of arm
+
+<details><summary>Answer</summary>
+
+**B. Adduction and medial rotation of arm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q359 — Nerve roots involved in Erbs palsy
+
+Nerve roots involved in Erb's palsy:
+
+- A. C5, C6
+- B. C6, C7
+- C. C7,C8,T1
+- D. C5,C6,C7,C8,T1
+
+<details><summary>Answer</summary>
+
+**A. C5, C6** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q360 — Superior to inferior -vein,
+
+Superior to inferior -vein,
+
+- A. Right :- (i) Eparterial bronchus (superior most)' (ii) Pulmonary
+- B. Left :- (i) Puhnonary artery (superior most), (ii) Primary/Principal
+- C. Obturator
+- D. Paraaortic
+
+<details><summary>Answer</summary>
+
+**D. Paraaortic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q361 — Root value of thoracodorsal nerve
+
+Root value of thoracodorsal nerve ?
+
+- A. C5,C6,C7
+- B. C8,T1
+- C. C6,C7,C8
+- D. Ti T2
+
+<details><summary>Answer</summary>
+
+**C. C6,C7,C8** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q362 — Teres minor is supplied by
+
+Teres minor is supplied by
+
+- A. Suprascapular nerve
+- B. Infrascapular nerve
+- C. Thoracodorsal nerve
+- D. Axillary nerve
+
+<details><summary>Answer</summary>
+
+**D. Axillary nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q363 — Limb shortening
+
+Limb shortening
+
+- A. 1,2 true & 3,4 false
+- B. 2,3 True & 1,4 false
+- C. 1,2,3 true & 4 false
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**D. All are true** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q364 — Insertion of levator scapulae is
+
+Insertion of levator scapulae is ?
+
+- A. Lateral border of scapula
+- B. Suprolateral part of scapula
+- C. Superior part of medial scapula border
+- D. Inferior angle of scapula
+
+<details><summary>Answer</summary>
+
+**C. Superior part of medial scapula border** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q365 — Number of lobes in breast
+
+Number of lobes in breast
+
+- A. 5
+- B. 10
+- C. 15
+- D. 30
+
+<details><summary>Answer</summary>
+
+**C. 15** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q366 — Which of the following arises from
+
+Which of the following arises from infraglenoid tubercle -
+
+- A. Longheadofbiceps
+- B. Longheadoftriceps
+- C. Shortheadofbiceps
+- D. Coracobrachialis
+
+<details><summary>Answer</summary>
+
+**B. Longheadoftriceps** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q367 — Not attached on medial border of
+
+Not attached on medial border of scapula ?
+
+- A. Serratus anterior
+- B. Levator scapulae
+- C. Rhamboides major
+- D. Teres major
+
+<details><summary>Answer</summary>
+
+**D. Teres major** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q368 — Medial boundry of Cubital fossa
+
+Medial boundry of Cubital fossa ?
+
+- A. Brachioradialis
+- B. Pronator teres
+- C. Supinator
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Pronator teres** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q369 — True about lumbricals is
+
+True about lumbricals is
+
+- A. Flex IP joints and extends MCP joint
+- B. 1st and 2nd supplied by radial nerve
+- C. 3 and 4 supplied by superficial branch of ulnar
+- D. Origin from tendons of flexor digitorum profundus
+
+<details><summary>Answer</summary>
+
+**D. Origin from tendons of flexor digitorum profundus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q370 — Lateral boundary of cubital fossa is
+
+Lateral boundary of cubital fossa is formed by:
+
+- A. Brachioradialis
+- B. Pronator teres
+- C. Brachialis
+- D. Biceps
+
+<details><summary>Answer</summary>
+
+**A. Brachioradialis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q371 — Muscle of Arm with additional supinator
+
+Muscle of Arm with additional supinator action?
+
+- A. Brachialis
+- B. Biceps
+- C. Coracobrachialis
+- D. Triceps
+
+<details><summary>Answer</summary>
+
+**B. Biceps** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q372 — The nerve supply of nail bed
+
+The nerve supply of nail bed of index finger is ?
+
+- A. Superficial br of radial nerve
+- B. Deep br of radial nerve
+- C. Median nerve
+- D. Ulnar nerve
+
+<details><summary>Answer</summary>
+
+**C. Median nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q373 — Which leaves the pelvis
+
+Which leaves the pelvis ?
+
+- A. Piriformis
+- B. Sciatic nerve
+- C. Superior gluteal vessel
+- D. Inferior gluteal vessel
+
+<details><summary>Answer</summary>
+
+**B. Sciatic nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q374 — Abduction and adduction of foot occurs
+
+Abduction and adduction of foot occurs at which joints
+
+- A. Ankle
+- B. Subtalar
+- C. Tarso-metatarsal
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Subtalar** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q375 — All are true about femoral triangle,
+
+All are true about femoral triangle, EXCEPT?
+
+- A. Lateral margin is formed by sartorius
+- B. Floor is formed by adductor longus
+- C. Contains the femoral vessels
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**D. None of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q376 — Content of femoral canal
+
+Content of femoral canal
+
+- A. Femoral branch of genitofemoral nerve
+- B. Genital branch of genitofemoral nerve
+- C. Femoral vein
+- D. Lymph node
+
+<details><summary>Answer</summary>
+
+**D. Lymph node** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q377 — A patient presents with defective adduction
+
+A patient presents with defective adduction of the hip joint and pains in the hip and knee joint. Which nerve is involved
+
+- A. Obturator nerve
+- B. Femoral nerve
+- C. Saphenous nerve
+- D. Sciatic nerve
+
+<details><summary>Answer</summary>
+
+**A. Obturator nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q378 — Structure which lies outside the femoral
+
+Structure which lies outside the femoral sheath
+
+- A. Femoral artery
+- B. Femoral nerve
+- C. Femoral vein
+- D. Genitofemoral nerve
+
+<details><summary>Answer</summary>
+
+**B. Femoral nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q379 — Which structure(s) passes behind the inguinal
+
+Which structure(s) passes behind the inguinal ligament:
+
+- A. Femoral branch of genitofemoral nerve
+- B. Femoral vein
+- C. Psoas major
+- D. All
+
+<details><summary>Answer</summary>
+
+**D. All** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q380 — Lateral border of ischeorectal fossa is
+
+Lateral border of ischeorectal fossa is formed by?
+
+- A. Gluteus maximus
+- B. Perineal membrane
+- C. Pelvic diaphram
+- D. Obturator internus
+
+<details><summary>Answer</summary>
+
+**D. Obturator internus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q381 — Arterial branches which supply the head
+
+Arterial branches which supply the head and neck of the femur is/are:
+
+- A. Medial circumflex artery
+- B. Lateral circumflex artery
+- C. Profunda femoris artery
+- D. All
+
+<details><summary>Answer</summary>
+
+**D. All** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q382 — Femoral nerve supplies all except
+
+Femoral nerve supplies all except ?
+
+- A. Pectineus
+- B. Sartorius
+- C. Vastus medialis
+- D. Obturator externus
+
+<details><summary>Answer</summary>
+
+**D. Obturator externus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q383 — Superior gluteal nerve does not supply
+
+Superior gluteal nerve does not supply ?
+
+- A. Tensor fasciae latae
+- B. Gluteus medius
+- C. Gluteus minimus
+- D. Gluteus maximus
+
+<details><summary>Answer</summary>
+
+**D. Gluteus maximus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q384 — What is true about adductors of
+
+What is true about adductors of thigh –
+
+- A. Ischial head of adductor magnus is an adductor
+- B. Profunda femoris artery is the main blood supply
+- C. Ischial head of adductor magnus originates from adductor
+- D. Adductor magnus is the largest muscle
+
+<details><summary>Answer</summary>
+
+**D. Adductor magnus is the largest muscle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q385 — A nerve injured in radical neck
+
+A nerve injured in radical neck dissection leads to loss of sensation in medial side of the arm, nerve injured is?
+
+- A. Long thoracic nerve
+- B. Thoracodorsal nerve
+- C. Dorsal scapular nerve
+- D. Medial cutaneous nerve of arm
+
+<details><summary>Answer</summary>
+
+**D. Medial cutaneous nerve of arm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q386 — Secondary ossification center for lower end
+
+Secondary ossification center for lower end of femur?
+
+- A. Present at birth
+- B. Appears at 6 months of age
+- C. Appears at 1 year of age
+- D. Appears at 5 years of age
+
+<details><summary>Answer</summary>
+
+**A. Present at birth** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q387 — Lower limit of superior mediastinum is
+
+Lower limit of superior mediastinum is at which level -
+
+- A. Ti
+- B. T1
+- C. T8
+- D. T10
+
+<details><summary>Answer</summary>
+
+**B. T1** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q388 — Azygous vein drains into
+
+Azygous vein drains into:
+
+- A. Right subcostal vein
+- B. Superior vena cava
+- C. Braciocephalic
+- D. Right ascending lumbar vein
+
+<details><summary>Answer</summary>
+
+**B. Superior vena cava** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q389 — Arch of aorta begins and ends
+
+Arch of aorta begins and ends at which level:
+
+- A. T2
+- B. T3
+- C. T4
+- D. T5
+
+<details><summary>Answer</summary>
+
+**C. T4** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q390 — Which among the following is NOT
+
+Which among the following is NOT a branch of Arch of Aorta?
+
+- A. Brachiocephalic
+- B. Right common carotid
+- C. Left common carotid
+- D. Left Subclavian
+
+<details><summary>Answer</summary>
+
+**B. Right common carotid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q391 — Intercostal nerve is a branch of
+
+Intercostal nerve is a branch of ?
+
+- A. Brachial plexus
+- B. Dorsal rami of thoracic spinal nerves
+- C. Ventral rami of thoracic spinal nerves
+- D. Ventral rami of cervical spinal nerves
+
+<details><summary>Answer</summary>
+
+**C. Ventral rami of thoracic spinal nerves** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q392 — Distance of cricopharynx from incisor teeth
+
+Distance of cricopharynx from incisor teeth
+
+- A. 15 cm
+- B. 22.5 cm
+- C. 27.5 cm
+- D. 40 cm
+
+<details><summary>Answer</summary>
+
+**A. 15 cm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q393 — Anterior part of interventricular septum is
+
+Anterior part of interventricular septum is supplied by -
+
+- A. Right coronary artery
+- B. Left coronary artery
+- C. Posterior descending coronary artery
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Left coronary artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q394 — All veins open in sinus venarum
+
+All veins open in sinus venarum except -
+
+- A. SVC
+- B. Coronary sinus
+- C. Anterior cardiac vein
+- D. Small cardiac vein
+
+<details><summary>Answer</summary>
+
+**D. Small cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q395 — True about atrioventricular groove are all
+
+True about atrioventricular groove are all except ?
+
+- A. Contains left anterior descending coronary artery
+- B. Also called coronary sulcus
+- C. Contains right coronary artery
+- D. Contains circumflex branch of left coronary artery
+
+<details><summary>Answer</summary>
+
+**A. Contains left anterior descending coronary artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q396 — Which vein is found at the
+
+Which vein is found at the apex of the heart ?
+
+- A. Great cardiac vein
+- B. Coronary Sinus
+- C. Anterior cardiac vein
+- D. Middle cardiac vein
+
+<details><summary>Answer</summary>
+
+**A. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q397 — Which of the following does not
+
+Which of the following does not directly drain into right atrium ?
+
+- A. Great cardiac vein
+- B. Anterior cardiac vein
+- C. Thebasian vein
+- D. Venae cordis minimi
+
+<details><summary>Answer</summary>
+
+**A. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q398 — Tributary of coronary sinus
+
+Tributary of coronary sinus ?
+
+- A. Anterior cardiac vein
+- B. Thebesion vein
+- C. Smallest cardiac vein
+- D. Great cardiac vein
+
+<details><summary>Answer</summary>
+
+**D. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q399 — Which are segments of upper lobe
+
+Which are segments of upper lobe of right lung ?
+
+- A. Anterior, posterior, media
+- B. Lateral, medial, superior
+- C. Apical, anterior, posterior
+- D. Basal, medial, lateral
+
+<details><summary>Answer</summary>
+
+**C. Apical, anterior, posterior** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q400 — What is the uppermost structure in
+
+What is the uppermost structure in left lung hilum?
+
+- A. Pulmonary artery
+- B. Pulmonary vein
+- C. Bronchial artery
+- D. Left mainstem bronchus
+
+<details><summary>Answer</summary>
+
+**A. Pulmonary artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q401 — Base of the heart is formed
+
+Base of the heart is formed by ?
+
+- A. Right atrium
+- B. Right ventricle
+- C. Left atrium
+- D. Left ventricle
+
+<details><summary>Answer</summary>
+
+**C. Left atrium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q402 — Right border of heart is formed
+
+Right border of heart is formed by ?
+
+- A. Right ventricle
+- B. Right atrium
+- C. SVC
+- D. IVC
+
+<details><summary>Answer</summary>
+
+**B. Right atrium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q403 — Sensory supply to tongue is by
+
+Sensory supply to tongue is by all, EXCEPT?
+
+- A. Lingual nerve
+- B. Vagus nerve
+- C. Glossopharyngeal nerve
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**D. None of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q404 — Internal anal sphincter is a apart
+
+Internal anal sphincter is a apart of:
+
+- A. Puborectalis muscle
+- B. Deep perineal muscles
+- C. Internal longitudinal fibers
+- D. Internal circular fibers
+
+<details><summary>Answer</summary>
+
+**D. Internal circular fibers** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q405 — Shortest part of male urethra is
+
+Shortest part of male urethra is :
+
+- A. Prostatic
+- B. Membranous
+- C. Bulbar
+- D. Penile
+
+<details><summary>Answer</summary>
+
+**B. Membranous** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q406 — Posterior relation of neck of pancreas
+
+Posterior relation of neck of pancreas ?
+
+- A. IVC
+- B. Origin of postal vein
+- C. Aorta
+- D. Common bile duct
+
+<details><summary>Answer</summary>
+
+**B. Origin of postal vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q407 — The right suprarenal vein drains into
+
+The right suprarenal vein drains into the
+
+- A. Inferior vena cava
+- B. Right renal vein
+- C. Right Gonadal vein
+- D. Left Renal vein
+
+<details><summary>Answer</summary>
+
+**A. Inferior vena cava** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q408 — Suprarenal gland gets its blood supply
+
+Suprarenal gland gets its blood supply from all of the following arteries except:
+
+- A. Aorta
+- B. Renal artery
+- C. Inferior phrenic artery
+- D. Superior mesentric artery
+
+<details><summary>Answer</summary>
+
+**D. Superior mesentric artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q409 — Inferior artery pancreaticoduodenal artery is a
+
+Inferior artery? pancreaticoduodenal artery is a branch of which of the following
+
+- A. Splenic artery
+- B. Left gastric artery
+- C. Gastroduodenal artery
+- D. Superior mesenteric artery
+
+<details><summary>Answer</summary>
+
+**D. Superior mesenteric artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q410 — All of the following are branches
+
+All of the following are branches of splenic artery, except?
+
+- A. Hilar branches
+- B. Short Gastric Artery
+- C. Arteria Pancreatica Magna
+- D. Right Gastroepiploic Artery
+
+<details><summary>Answer</summary>
+
+**D. Right Gastroepiploic Artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q411 — Esophageal varices occur in which portion
+
+Esophageal varices occur in which portion of esophagus?
+
+- A. Upper
+- B. Middle
+- C. Lower
+- D. All sites
+
+<details><summary>Answer</summary>
+
+**C. Lower** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q412 — External oblique forms all except
+
+External oblique forms all except?
+
+- A. Lacunar ligament
+- B. Pectineal ligament
+- C. Conjoint tendon
+- D. Inguinal ligament
+
+<details><summary>Answer</summary>
+
+**C. Conjoint tendon** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q413 — Inferior epigastric artery forms the boundry
+
+Inferior epigastric artery forms the boundry of ?
+
+- A. Femoral triangle
+- B. Hesselbach's triangle
+- C. Adductor canal
+- D. Popliteal triangle
+
+<details><summary>Answer</summary>
+
+**B. Hesselbach's triangle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q414 — The boundaries of the interconnection between
+
+The boundaries of the interconnection between greater sac and lesser sac of peritoneum known as 'Foramen of Winslow' are all, EXCEPT:
+
+- A. Caudate lobe of liver
+- B. Inferior vena cava
+- C. Free border of lesser omentum
+- D. 4th part of Duodenum
+
+<details><summary>Answer</summary>
+
+**D. 4th part of Duodenum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q415 — Anorectal angle is formed due to
+
+Anorectal angle is formed due to action of -
+
+- A. Internal anal sphincter
+- B. Circular muscle layer of smooth muscles
+- C. Longitudinal muscle layer of smooth muscle
+- D. Puborectalis
+
+<details><summary>Answer</summary>
+
+**D. Puborectalis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q416 — Prostate analogue in female is -
+
+Prostate analogue in female is -
+
+- A. Skene gland
+- B. Bulbourethral gland
+- C. Great vestibular gland
+- D. Bartholin's gland
+
+<details><summary>Answer</summary>
+
+**A. Skene gland** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q417 — All are true about 1st part
+
+All are true about 1st part of duodenum, except ?
+
+- A. 5 cm long
+- B. Is superior part
+- C. Develops from foregut
+- D. Supplied by superior mesenteric artery
+
+<details><summary>Answer</summary>
+
+**D. Supplied by superior mesenteric artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q418 — Ventral pancreatic duct give rise to
+
+Ventral pancreatic duct give rise to ?
+
+- A. Body
+- B. Tail
+- C. Neck
+- D. Uncinate process
+
+<details><summary>Answer</summary>
+
+**D. Uncinate process** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q419 — The muscles attached to perineal body
+
+The muscles attached to perineal body are A/E
+
+- A. Ischiocavernosum
+- B. Bulbospongiosm
+- C. Superficial transverse perinea
+- D. Deep transverse perinea
+
+<details><summary>Answer</summary>
+
+**A. Ischiocavernosum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q420 — Anterior relation to upper part of
+
+Anterior relation to upper part of rectum in male is-
+
+- A. Rectovesical pouch
+- B. Sacrum
+- C. Seminal vesicle
+- D. Ductus deference
+
+<details><summary>Answer</summary>
+
+**A. Rectovesical pouch** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q421 — FALSE for seminal vesicles
+
+FALSE for seminal vesicles:
+
+- A. Contains large amount of fructose
+- B. Stores sperms
+- C. Situated on either side near prostate
+- D. Secretion of seminal vesicle gives mucoid consistency to
+
+<details><summary>Answer</summary>
+
+**B. Stores sperms** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q422 — Sensory nerve supply of gall bladder
+
+Sensory nerve supply of gall bladder is through -
+
+- A. Vagus nerve
+- B. Trigeminal nerve
+- C. Parasympathetic nerve
+- D. Facial nerve
+
+<details><summary>Answer</summary>
+
+**A. Vagus nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q423 — Uvula vesicae seen in bladder is
+
+Uvula vesicae seen in bladder is formed from the following structure ?
+
+- A. Median lobe of prostate
+- B. Lateral lobe of prostate
+- C. Anterior lobe of prostate
+- D. Posterior lobe of prostate
+
+<details><summary>Answer</summary>
+
+**A. Median lobe of prostate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q424 — Floor of Petit triangle is formed
+
+Floor of Petit triangle is formed by?
+
+- A. Sacrospinalis
+- B. Internal oblique
+- C. Rectus abdominis
+- D. Fascia Transversalis
+
+<details><summary>Answer</summary>
+
+**B. Internal oblique** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q425 — In which of the following vessels
+
+In which of the following vessels transverse mesocolon seen ?
+
+- A. Right colic artery
+- B. Left colic artery
+- C. Middle colic artery
+- D. Iliocolic artery
+
+<details><summary>Answer</summary>
+
+**C. Middle colic artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q426 — Nerve suply of cremastric muscle
+
+Nerve suply of cremastric muscle ?
+
+- A. Pudendal nerve
+- B. Femoral branch of genitofemoral
+- C. Genital branch of genitofemoral nerve
+- D. Ilioinguinal nerve
+
+<details><summary>Answer</summary>
+
+**C. Genital branch of genitofemoral nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q427 — True about the anatomy of great
+
+True about the anatomy of great saphenous vein:
+
+- A. Starts as a continuation of medial marginal vein
+- B. Ends of femoral vein 2.5 cm below the inguinal ligament
+- C. There are 2 - 5 valves below the knee.
+- D. Ascends 2.5 - 3 cm behind tibial malleolus
+
+<details><summary>Answer</summary>
+
+**A. Starts as a continuation of medial marginal vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q428 — Posterior relation of right kidney are
+
+Posterior relation of right kidney are all except -
+
+- A. Diaphragm
+- B. Subcostal nerve
+- C. 11th rib
+- D. Ilioinguinal nerve
+
+<details><summary>Answer</summary>
+
+**C. 11th rib** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q429 — Not True about blood supply of
+
+Not True about blood supply of kidney -
+
+- A. Renal vein drains into IVC
+- B. Renal artery is a branch of common iliac artery
+- C. Right renal artery passes behind IVC
+- D. Branches of renal artery are end arteries
+
+<details><summary>Answer</summary>
+
+**B. Renal artery is a branch of common iliac artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q430 — All pass through deep inguinal ring,
+
+All pass through deep inguinal ring, EXCEPT?
+
+- A. Spermatic cord
+- B. Internal spermatic fascia
+- C. Round ligament
+- D. Ilioinguinal nerve
+
+<details><summary>Answer</summary>
+
+**D. Ilioinguinal nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q431 — Superficial inguinal ring is a defect
+
+Superficial inguinal ring is a defect in the:
+
+- A. Internal oblique aponeurosis
+- B. External oblique aponeurosis
+- C. Transverse abdominis aponeurosis
+- D. Internal oblique muscle
+
+<details><summary>Answer</summary>
+
+**B. External oblique aponeurosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q432 — Superficial perineal space contains
+
+Superficial perineal space contains ?
+
+- A. Sphincter urethrae muscle
+- B. Ischiocavernosus muscle
+- C. Deep transverse perinei muscle
+- D. Bulbourethral gland
+
+<details><summary>Answer</summary>
+
+**B. Ischiocavernosus muscle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q433 — 3d part of duodenum is not
+
+3'd part of duodenum is not related -
+
+- A. Superior mesenteric vessels
+- B. Right ureter
+- C. Head of pancreas
+- D. Quadrate lobe of liver
+
+<details><summary>Answer</summary>
+
+**D. Quadrate lobe of liver** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q434 — Correct sequence of uterine blood flow
+
+Correct sequence of uterine blood flow -
+
+- A. Uterine A - Arcuate A Radial A Spiral A
+- B. Uterine A Radial A - Arcuate A Spiral A
+- C. Uterine A Spiral A Radial A Arcuate A
+- D. Uterine A Arcuate A → Spiral A - Radial A
+
+<details><summary>Answer</summary>
+
+**A. Uterine A - Arcuate A Radial A Spiral A** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q435 — Nerve supply of stapedius is
+
+Nerve supply of stapedius is:
+
+- A. 2nd nerve
+- B. 3rd nerve
+- C. 5th nerve
+- D. 7th nerve
+
+<details><summary>Answer</summary>
+
+**D. 7th nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q436 — Stapedius pulls stapes in which direction
+
+Stapedius pulls stapes in which direction -
+
+- A. Anterior
+- B. Superior
+- C. Inferior
+- D. Posterior
+
+<details><summary>Answer</summary>
+
+**D. Posterior** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q437 — Sternocleidomastoid muscle is examined by
+
+Sternocleidomastoid muscle is examined by
+
+- A. Turning the head towards the same side
+- B. Turning the head towards opposite side
+- C. Shrugging of shoulder
+- D. Overhead abduction
+
+<details><summary>Answer</summary>
+
+**B. Turning the head towards opposite side** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q438 — The nerve which has the longest
+
+The nerve which has the longest intracranial course is:
+
+- A. Fourth cranial nerve
+- B. Third cranial nerve
+- C. Sixth cranial nerve
+- D. Fifth cranial nerve
+
+<details><summary>Answer</summary>
+
+**A. Fourth cranial nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q439 — Largest cranial nerve is
+
+Largest cranial nerve is:
+
+- A. Trochlear
+- B. Trigeminal
+- C. Oculomotor
+- D. Vagus
+
+<details><summary>Answer</summary>
+
+**B. Trigeminal** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q440 — Olfactory Great cerebral vein of Galen
+
+Olfactory Great cerebral vein of Galen drains into -
+
+- A. Cavernous sinus
+- B. Basal vein
+- C. Internal cerebral vein
+- D. Straight sinus
+
+<details><summary>Answer</summary>
+
+**D. Straight sinus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q441 — Superficial middle cerebral vein drains into
+
+Superficial middle cerebral vein drains into -
+
+- A. Internal cerebral vein
+- B. Cavernous sinus
+- C. Great cerebral vein of Galen
+- D. Straight sinus
+
+<details><summary>Answer</summary>
+
+**B. Cavernous sinus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q442 — Which of the following structures seen
+
+Which of the following structures seen in the cavernous sinus?
+
+- A. Maxillary division of V nerve
+- B. Mandibular division of V nerve
+- C. Internal carotid artery
+- D. Facial nerve
+
+<details><summary>Answer</summary>
+
+**C. Internal carotid artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q443 — First bone to start ossifying -
+
+First bone to start ossifying -
+
+- A. Femur
+- B. Tibia
+- C. Scapula
+- D. Mandible
+
+<details><summary>Answer</summary>
+
+**D. Mandible** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q444 — What structure passes through the quandrangular
+
+What structure passes through the quandrangular space ?
+
+- A. Axillary nerve
+- B. Radial nerve
+- C. Median nerve
+- D. Brachial Artery
+
+<details><summary>Answer</summary>
+
+**A. Axillary nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q445 — Inner plexus in GIT is
+
+Inner plexus in GIT is ?
+
+- A. Mucosal plexus
+- B. Submucosal plexus
+- C. Auerbach's plexus
+- D. Myenteric plexus
+
+<details><summary>Answer</summary>
+
+**B. Submucosal plexus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q446 — Relationship between insulin and glucose concentra
+
+Relationship between insulin and glucose concentration?
+
+- A. Linear
+- B. Hyperbola
+- C. Sigmoidal
+- D. Bell Shaped
+
+<details><summary>Answer</summary>
+
+**C. Sigmoidal** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q447 — Drugs which are used in acute
+
+Drugs which are used in acute asthma include?
+
+- A. Budesonide
+- B. Terbutaline
+- C. Salbutamole
+- D. Theophylline
+
+<details><summary>Answer</summary>
+
+**D. Theophylline** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q448 — Just before the birth which epiphysis
+
+Just before the birth which epiphysis appears?
+
+- A. Lower end of femur
+- B. Upper end of humerus
+- C. Lower end of fibula
+- D. Upper end of tibia
+
+<details><summary>Answer</summary>
+
+**A. Lower end of femur** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q449 — Granuloma inguinale is caused by
+
+Granuloma inguinale is caused by:
+
+- A. H. ducreyi
+- B. Chlamydia trachomatis
+- C. Treponema pallidum
+- D. Calymmatobacterium
+
+<details><summary>Answer</summary>
+
+**D. Calymmatobacterium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q450 — Sixth cranial nerve palsy causes of
+
+Sixth cranial nerve palsy causes of left eye causes?
+
+- A. Accomodation paresis in left gaze
+- B. Ptosis of left eye
+- C. Adduction weakness of left eye
+- D. Diplopia in left gaze
+
+<details><summary>Answer</summary>
+
+**D. Diplopia in left gaze** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q451 — Which of the following is the
+
+Which of the following is the common cause of respiratory failure type 2 ?
+
+- A. Chronic bronchitis exacerbation
+- B. Acute attack asthma
+- C. ARDS
+- D. Pneumonia
+
+<details><summary>Answer</summary>
+
+**A. Chronic bronchitis exacerbation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q452 — Gastric carcinoma is associated with all
+
+Gastric carcinoma is associated with all EXCEPT ?
+
+- A. Inactivation of p53
+- B. Over expression of C-erb
+- C. Over expression of C-met
+- D. Activation of RAS
+
+<details><summary>Answer</summary>
+
+**D. Activation of RAS** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q453 — Hellers myotomy is done for September
+
+Heller's myotomy is done for: September 2007, 2009, 2010
+
+- A. Esophageal carcinoma
+- B. Pyloric hypertrophy
+- C. Achalasia cardia
+- D. Inguinal hernia
+
+<details><summary>Answer</summary>
+
+**C. Achalasia cardia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q454 — year old male is diagnosed with
+
+year old male is diagnosed with carcinoma penis. The surgeon must look out for which lymphnodes
+
+- A. Para aortic
+- B. External iliac
+- C. Internal Iliac
+- D. Inguinal
+
+<details><summary>Answer</summary>
+
+**D. Inguinal** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q455 — year old male presenting with penile
+
+year old male presenting with penile cancer extending upto the glans penis is treated with
+
+- A. Partial Penectomy with 2 cm margin
+- B. Circumcision
+- C. Partial penectomy with Inguinal nodes exploration
+- D. Partial penectomy with 4 cm margin
+
+<details><summary>Answer</summary>
+
+**A. Partial Penectomy with 2 cm margin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q456 — Most common site for bone marrow
+
+Most common site for bone marrow aspiration in neonates is -
+
+- A. Anterior superior iliac crest
+- B. Posterior superior iliac crest
+- C. Sternum
+- D. Anteromedial tibia
+
+<details><summary>Answer</summary>
+
+**D. Anteromedial tibia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q457 — Puff of smoke appearance on cerebral
+
+Puff of smoke appearance on cerebral angiography is seen in:
+
+- A. ACA aneurysm
+- B. Cavernous sinus thrombosis
+- C. Moyamoya disease
+- D. Vein of Galen malformation
+
+<details><summary>Answer</summary>
+
+**C. Moyamoya disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q458 — K nail can be used for
+
+K nail can be used for all of the following fractures excePt -
+
+- A. Isthmic femur shaft fractures
+- B. Intertrochanteric fractures
+- C. Low subtrochanteric fractures
+- D. Distal femur shaft fractures
+
+<details><summary>Answer</summary>
+
+**B. Intertrochanteric fractures** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q459 — Bone transport can be used in
+
+Bone transport can be used in the management of -
+
+- A. Gap non union
+- B. Deformity Correction
+- C. Communited shaft femur fracture
+- D. Avscular Necrosis of Femoral Head
+
+<details><summary>Answer</summary>
+
+**A. Gap non union** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q460 — Aeroplane splint is used in
+
+Aeroplane splint is used in ?
+
+- A. Radial nerve injury
+- B. Ulnar nerve injury
+- C. Brachial plexus injury
+- D. Scoliosis
+
+<details><summary>Answer</summary>
+
+**C. Brachial plexus injury** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q461 — Salter Harris classification is used for
+
+Salter Harris classification is used for -
+
+- A. Supracondylar humerus fractures in children
+- B. Estimation of growth of the physes
+- C. Physeal injuries
+- D. Severity of degloving injuries to the limb
+
+<details><summary>Answer</summary>
+
+**C. Physeal injuries** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q462 — Which of the following castssplints is
+
+Which of the following casts/splints is used for fracture shaft humerus ?
+
+- A. Hanging casts
+- B. Knuckle bender splint
+- C. Aeroplane Splint
+- D. Above elbow cast
+
+<details><summary>Answer</summary>
+
+**A. Hanging casts** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q463 — Lift off test is done to
+
+Lift off test is done to assess the function of:
+
+- A. Supraspinatus
+- B. Infraspinatus
+- C. Teres Minor
+- D. Subscapularis
+
+<details><summary>Answer</summary>
+
+**D. Subscapularis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q464 — All are true about menisci of
+
+All are true about menisci of knee joint except
+
+- A. Lateral meniscus covers more articular surface of tibia-
+- B. Lateral meniscus is more mobile
+- C. Lateral meniscus is more prone to injury
+- D. Lateral meniscus is semicircular
+
+<details><summary>Answer</summary>
+
+**C. Lateral meniscus is more prone to injury** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q465 — Three point bony relationship of the
+
+Three point bony relationship of the elbow is disturbed in -
+
+- A. Supracondylar Fracture of the humerus
+- B. Fracture lateral condyle of the humerus
+- C. Monteggia Fracture dislocation
+- D. Fracture of Proximal Radius
+
+<details><summary>Answer</summary>
+
+**B. Fracture lateral condyle of the humerus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q466 — Cubitus Valgus Deformity is commonly seen
+
+Cubitus Valgus Deformity is commonly seen in which of the following conditions -
+
+- A. Malunited Lateral Condylar fracture of Humerus
+- B. Malunited Supracondylar Fracture of Humerus
+- C. Posterior dislocation ofelbow
+- D. Fracture medial condyle of humerus
+
+<details><summary>Answer</summary>
+
+**A. Malunited Lateral Condylar fracture of Humerus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q467 — AVN following transcervical neck femur fractures
+
+AVN following transcervical neck femur fractures occurs due to damage to which of the following blood vessels ?
+
+- A. Lateral retinacular branch of lateral circumflex femoral artery
+- B. Lateral retinacular branch of medial circumflex femoral artery
+- C. Medial retinacular branch of lateral circumflex femoral artery
+- D. Obdurator artery
+
+<details><summary>Answer</summary>
+
+**A. Lateral retinacular branch of lateral circumflex femoral artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q468 — Lockingoftheknee involves -
+
+Lockingoftheknee involves -
+
+- A. External rotation of femur with the foot offthe ground
+- B. Internal rotation of the tibia with the foot on the ground
+- C. Contraction of popliteus
+- D. Internal rotation of femur with foot on the ground
+
+<details><summary>Answer</summary>
+
+**D. Internal rotation of femur with foot on the ground** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q469 — Foot drop occurs due to the
+
+Foot drop occurs due to the involvement of: September 2006, March 2013 (b, f g, h)
+
+- A. Sciatic nerve
+- B. Direct injury to the dorsiflexors
+- C. Common peroneal nerve palsy
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q470 — Fracture neck of femur in 80
+
+Fracture neck of femur in 80 year old male sustained 1 weekback The treatment of choice is -
+
+- A. Hemiarthroplasty
+- B. ExcisionarthroPlastY
+- C. Closed reduction and fixation with three cancellous screws
+- D. Longitudinal skin traction for 6 weeks
+
+<details><summary>Answer</summary>
+
+**A. Hemiarthroplasty** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q471 — Which of the following fractures of
+
+Which of the following fractures of the neck of femur are associated with maximal compromise in blood supply ?
+
+- A. Intertrochantericfractures
+- B. Basicervical fracture
+- C. Trans cervical fracture
+- D. Sub Capital fractures
+
+<details><summary>Answer</summary>
+
+**D. Sub Capital fractures** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q472 — AVN is seen in which type
+
+AVN is seen in which type of # of femur:
+
+- A. Intertrochantric #
+- B. Subcapital #
+- C. Trans cervical #
+- D. B AND C
+
+<details><summary>Answer</summary>
+
+**D. B AND C** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q473 — Tinels sign is seen in -
+
+Tinels sign is seen in -
+
+- A. Avascular necrosisof scaPhoid
+- B. Kienbock s Disease
+- C. lst carpometacarpal joint arthritis
+- D. Carpal tunnel syndrome
+
+<details><summary>Answer</summary>
+
+**D. Carpal tunnel syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q474 — Which of the following is used
+
+Which of the following is used as a substitute for wrist extensors in radial nerve PalsY?
+
+- A. Pronator Teres
+- B. Palmaris Longus
+- C. Flexor Digitorum SuPerficialis
+- D. Flexor Digitorum Profundus
+
+<details><summary>Answer</summary>
+
+**A. Pronator Teres** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q475 — year old carpenter with a blunt
+
+year old carpenter with a blunt trauma to his arm sustained a fracture followingwhich he developedwrist drop, loss of extension at fingers and loss of
+
+- A. Patient has an injury to the median nerve
+- B. He should have also lost extention of the forearm
+- C. Patient has injured the radial nerve in the spird groove
+- D. There is combined involvement of the radial nerve and median
+
+<details><summary>Answer</summary>
+
+**C. Patient has injured the radial nerve in the spird groove** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q476 — Wrist drop is due to injury
+
+Wrist drop is due to injury to ?
+
+- A. Radial nerve
+- B. Ulnar nerve
+- C. Median nerve
+- D. Posterior interosseous nerve
+
+<details><summary>Answer</summary>
+
+**A. Radial nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q477 — Blounts disease is associated with all
+
+Blount's disease is associated with all of the following, EXCEPT:
+
+- A. Genu varum
+- B. Genu Recurvatum
+- C. Internal Tibial Torsion
+- D. External Tibial Torsion
+
+<details><summary>Answer</summary>
+
+**D. External Tibial Torsion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q478 — All of the following are true
+
+All of the following are true regarding Pagets Disease except -
+
+- A. Pelvis is the most common site
+- B. Cranial nerve involvement may be seen
+- C. High output cardiac failure is one of the complications
+- D. It may progress to a secondary chondrosarcoma
+
+<details><summary>Answer</summary>
+
+**D. It may progress to a secondary chondrosarcoma** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q479 — Commonest site of occurrence of chondrosarcoma
+
+Commonest site of occurrence of chondrosarcoma is -
+
+- A. Pelvis
+- B. Ribs
+- C. Femur
+- D. Proximal tibia
+
+<details><summary>Answer</summary>
+
+**A. Pelvis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q480 — Nerve damaged due to lunate dislocation
+
+Nerve damaged due to lunate dislocation (in carpal tunnel):
+
+- A. Median & ulnar
+- B. Median
+- C. Ulnar
+- D. Radial
+
+<details><summary>Answer</summary>
+
+**B. Median** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q481 — Tongue muscles are derived from *(2016)*
+
+Tongue muscles are derived from
+
+- A. Lateral plate mesoderm
+- B. Occipital myotome
+- C. Intermediate mesoderm
+- D. Cervical myotome
+
+<details><summary>Answer</summary>
+
+**B. Occipital myotome** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q482 — Sensory loss in first web space *(2016)*
+
+Sensory loss in first web space (on dorsal side). If lesion is low
+
+- A. Type 1
+- B. Type 2
+- C. Teres major
+- D. Supraspinatus
+
+<details><summary>Answer</summary>
+
+**B. Type 2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q483 — Optic vesicle is derived from - *(2016)*
+
+Optic vesicle is derived from -
+
+- A. Endoderm
+- B. Mesoderm
+- C. Neuroectoderm
+- D. Surface Ectoderm
+
+<details><summary>Answer</summary>
+
+**C. Neuroectoderm** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q484 — Part of neural tube from which *(2016)*
+
+Part of neural tube from which corpus callosum develops
+
+- A. Basal lamina
+- B. Alar lamina
+- C. Lamina terminalis
+- D. Basal plate
+
+<details><summary>Answer</summary>
+
+**C. Lamina terminalis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q485 — Epithelial lining of urinary bladder *(2016)*
+
+Epithelial lining of urinary bladder ?
+
+- A. Squamous
+- B. Transitional
+- C. Cuboidal
+- D. Columnar
+
+<details><summary>Answer</summary>
+
+**B. Transitional** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q486 — Female urethra develops from - *(2016)*
+
+Female urethra develops from -
+
+- A. Urogenital sinus
+- B. Mesonephric duct
+- C. Ureteric bud
+- D. Metanephric Blastema
+
+<details><summary>Answer</summary>
+
+**A. Urogenital sinus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q487 — Kidney parenchyma is derived from - *(2016)*
+
+Kidney parenchyma is derived from -
+
+- A. Ureteric bud
+- B. Mesonephros
+- C. Metanephros
+- D. Paramesonephros
+
+<details><summary>Answer</summary>
+
+**C. Metanephros** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q488 — Facial nerve is a derivative of *(2016)*
+
+Facial nerve is a derivative of which of the following branchial arch?
+
+- A. First arch
+- B. Second arch
+- C. Third arch
+- D. Fourth arch
+
+<details><summary>Answer</summary>
+
+**B. Second arch** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q489 — Leptotene and pachytene are stages ofwhich *(2016)*
+
+Leptotene and pachytene are stages ofwhich phases of meiosis -
+
+- A. Prophase I
+- B. Metaphase I
+- C. Anaphase II
+- D. Telophase II
+
+<details><summary>Answer</summary>
+
+**A. Prophase I** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q490 — Crypta magna develops from which pouch *(2016)*
+
+Crypta magna develops from which pouch?
+
+- A. 1st
+- B. 2nd
+- C. 3rd
+- D. 4th
+
+<details><summary>Answer</summary>
+
+**B. 2nd** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q491 — of the following is a traction *(2016)*
+
+Which of the following is a traction epiphysis?
+
+- A. Distal Radius
+- B. Mastoid process
+- C. Tibial Condyles
+- D. Coracoid Process
+
+<details><summary>Answer</summary>
+
+**B. Mastoid process** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q492 — of the following are true about *(2016)*
+
+All of the following are true about thymus except?
+
+- A. The cortical portion is mainly composed of lymphocytes
+- B. The medulla contains Hassall's Corpuscles
+- C. It is derived from the fourth Pharyngeal pouch
+- D. It undergoes atrophy puberty onwards
+
+<details><summary>Answer</summary>
+
+**C. It is derived from the fourth Pharyngeal pouch** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q493 — is the most abundant cartilage- *(2016)*
+
+Which is the most abundant cartilage-
+
+- A. Hyaline cartilage
+- B. Elastic cartilage
+- C. Fibrocartilage
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Hyaline cartilage** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q494 — is the lining of the lacrimal *(2016)*
+
+What is the lining of the lacrimal gland alveoli?
+
+- A. Ciliated columnar cells
+- B. Pyramidal cells
+- C. Non keratinizing squamous epithelium
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Pyramidal cells** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q495 — type of muscles are medial two *(2016)*
+
+What type of muscles are medial two lumbricals?
+
+- A. Unipennate
+- B. Bipennate
+- C. Multipennate
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Bipennate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q496 — Ansa nephroni is lined by *(2016)*
+
+Ansa nephroni is lined by ?
+
+- A. Columnar
+- B. Squamous epithelium
+- C. Cuboidal and columnar epithelium
+- D. Stratified squamous epithelium
+
+<details><summary>Answer</summary>
+
+**B. Squamous epithelium** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q497 — is the level of the spine *(2016)*
+
+What is the level of the spine of scapula?
+
+- A. T7
+- B. T I 0
+- C. T4
+- D. T2
+
+<details><summary>Answer</summary>
+
+**C. T4** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q498 — of the following muscles carries out *(2016)*
+
+Which of the following muscles carries out shoulder abduction from 15 to 90 degrees?
+
+- A. Suprapinatus
+- B. Trapezius
+- C. Deltoid
+- D. Serratus Anterior
+
+<details><summary>Answer</summary>
+
+**C. Deltoid** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q499 — muscle acting on the thumb has *(2016)*
+
+Which muscle acting on the thumb has dual nerve supply?
+
+- A. Flexor Pollicis Longus
+- B. Flexor Pollicis brevis
+- C. Adductor Pollicis
+- D. Opponens Pollicis
+
+<details><summary>Answer</summary>
+
+**B. Flexor Pollicis brevis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q500 — is Wartenbergs sign *(2016)*
+
+What is Wartenberg's sign?
+
+- A. Inability to maintain Intrinsic plus position
+- B. Inability to adduct small finger against the ring finger
+- C. Inability to grasp a book between the thumb and index finger
+- D. Inability to move the middle finger sideways
+
+<details><summary>Answer</summary>
+
+**B. Inability to adduct small finger against the ring finger** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q501 — Sensory region of the ulnar nerve *(2016)*
+
+Sensory region of the ulnar nerve is?
+
+- A. Tip of little finger
+- B. Tip of index finger
+- C. 1st web space
+- D. Lateral upper aspect of arm
+
+<details><summary>Answer</summary>
+
+**A. Tip of little finger** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q502 — Pulp of the index finger is *(2016)*
+
+Pulp of the index finger is supplied by
+
+- A. Median nerve
+- B. Radial nerve
+- C. Ulnar nerve
+- D. Axillary nerve
+
+<details><summary>Answer</summary>
+
+**A. Median nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q503 — Low radial nerve just after spiral *(2016)*
+
+Low radial nerve [just after spiral groove] palsy does not produce ?
+
+- A. Loss of wrist extention
+- B. Loss of elbow extention
+- C. Loss of finger extention
+- D. Loss of thumb extention
+
+<details><summary>Answer</summary>
+
+**B. Loss of elbow extention** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q504 — Structure passing deep to flexor retinaculum *(2016)*
+
+Structure passing deep to flexor retinaculum at wrist:
+
+- A. Ulnar nerve
+- B. Median nerve
+- C. Radial nerve
+- D. Ulnar artery
+
+<details><summary>Answer</summary>
+
+**B. Median nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q505 — Coracoacromial ligament resists which movements *(2016)*
+
+Coracoacromial ligament resists which movements?
+
+- A. Upward displacement of humeral head
+- B. Abduction of shoulder
+- C. Inferior displacement of humerus
+- D. External rotation
+
+<details><summary>Answer</summary>
+
+**A. Upward displacement of humeral head** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q506 — is the action of anconeus *(2016)*
+
+What is the action of anconeus?
+
+- A. Primary elbow extensor
+- B. Assists Extension of elbow
+- C. Wrist extension
+- D. Thumb Abduction
+
+<details><summary>Answer</summary>
+
+**B. Assists Extension of elbow** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q507 — muscle helps in climbing a tree *(2016)*
+
+Which muscle helps in climbing a tree ?
+
+- A. Latissimus Dorsi
+- B. Rhomboideus
+- C. Trapezius
+- D. Levator scapulae
+
+<details><summary>Answer</summary>
+
+**A. Latissimus Dorsi** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q508 — Posterior interosseus artery is a branch *(2016)*
+
+Posterior interosseus artery is a branch of ?
+
+- A. Common interosseus artery
+- B. Radial artery
+- C. Median artery
+- D. Brachial artery
+
+<details><summary>Answer</summary>
+
+**A. Common interosseus artery** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q509 — muscle protects the brachial plexus in *(2016)*
+
+Which muscle protects the brachial plexus in case of clavicle fractures?
+
+- A. Subclavius
+- B. Supraspinatus
+- C. Subscapularius
+- D. Teres Minor
+
+<details><summary>Answer</summary>
+
+**A. Subclavius** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q510 — of the following is true about *(2016)*
+
+Which of the following is true about deep palmar arch?
+
+- A. Mainly formed by the radial artery
+- B. Ulnar artery has no contribution to it
+- C. It gives off 5 perforating branches
+- D. It does not anastomose with the superficial palmar arch
+
+<details><summary>Answer</summary>
+
+**A. Mainly formed by the radial artery** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q511 — part of scapula can be palpated *(2016)*
+
+Which part of scapula can be palpated in the infraclavicular fossa?
+
+- A. Coracoid process
+- B. Spine of scapula
+- C. Inferior angle
+- D. Supraspinous fossa
+
+<details><summary>Answer</summary>
+
+**A. Coracoid process** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q512 — Flexor carpi radialis inserts into *(2016)*
+
+Flexor carpi radialis inserts into ?
+
+- A. Base of 5th metatarsal
+- B. Base of 2nd and 3rd metacarpal
+- C. Scaphoid and trapezium
+- D. Capitate and hamate
+
+<details><summary>Answer</summary>
+
+**B. Base of 2nd and 3rd metacarpal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q513 — is true about lateral tibial condyle *(2016)*
+
+What is true about lateral tibial condyle ?
+
+- A. Iliotibial tract is attached to the lateral condyle of tibia
+- B. Ligamentum patellae inserts on it
+- C. Medial collateral ligament is attached to it
+- D. Semimembranosus is attached to it
+
+<details><summary>Answer</summary>
+
+**A. Iliotibial tract is attached to the lateral condyle of tibia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q514 — Weakness of extensor Hallucis longus is *(2016)*
+
+Weakness of extensor Hallucis longus is due to which nerve root mainly?
+
+- A. L5
+- B. L4
+- C. S1
+- D. S2
+
+<details><summary>Answer</summary>
+
+**A. L5** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q515 — tendon is lodged in the groove *(2016)*
+
+Which tendon is lodged in the groove on posterior surface of lateral malleolus?
+
+- A. Peroneus longus
+- B. Tibialis anterior
+- C. Tibialis posterior
+- D. Flexor Hallucis Longus
+
+<details><summary>Answer</summary>
+
+**A. Peroneus longus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q516 — of the following are true about *(2016)*
+
+All of the following are true about tibialis anterior except ?
+
+- A. It is supplied by the superficial peroneal nerve
+- B. It dorsiflexes the foot
+- C. It is closely related to the anterior tibial vessels
+- D. It inserts on the medial cuneiform
+
+<details><summary>Answer</summary>
+
+**A. It is supplied by the superficial peroneal nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q517 — Structures passing through sacral hiatus are *(2016)*
+
+Structures passing through sacral hiatus are ?
+
+- A. S4 nerve root
+- B. S2 nerve root
+- C. S3 nerve root
+- D. S5 nerve root
+
+<details><summary>Answer</summary>
+
+**D. S5 nerve root** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q518 — Lateral border of the foot receives *(2016)*
+
+Lateral border of the foot receives its sensory supply from ?
+
+- A. Saphenous nerve
+- B. Sural nerve
+- C. Deep peroneal nerve
+- D. Sciatic nerve
+
+<details><summary>Answer</summary>
+
+**B. Sural nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q519 — of the following is included in *(2016)*
+
+All of the following is included in chest wall except?
+
+- A. Ribs
+- B. Thoracic Vertebrae
+- C. Sternum
+- D. Lumbar vertebrae
+
+<details><summary>Answer</summary>
+
+**D. Lumbar vertebrae** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q520 — Respiratory bronchioles are formed from *(2016)*
+
+Respiratory bronchioles are formed from ?
+
+- A. Principal bronchus
+- B. Terminal bronchioles
+- C. Tertiary Bronchus
+- D. Lobar bronchioles
+
+<details><summary>Answer</summary>
+
+**B. Terminal bronchioles** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q521 — cricopharyngeal sphincter is how far from *(2016)*
+
+The cricopharyngeal sphincter is how far from the central incisor?
+
+- A. 15cm
+- B. 25cm
+- C. 40cm
+- D. 50cm
+
+<details><summary>Answer</summary>
+
+**A. 15cm** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q522 — of the following structures is related *(2016)*
+
+Which of the following structures is related to the esophagus 22.5cm from the incisor teeth?
+
+- A. Arch of aorta
+- B. Right principal broncus
+- C. Thoracic Duct
+- D. Azygous Vein
+
+<details><summary>Answer</summary>
+
+**A. Arch of aorta** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q523 — Thoracic duct opens into systemic circulation *(2016)*
+
+Thoracic duct opens into systemic circulation at?
+
+- A. junction of SVC and left brachiocephalic vein
+- B. Junction of left internal jugular and left subclavian vein
+- C. Directly into coronary sinus
+- D. Into azygous vein
+
+<details><summary>Answer</summary>
+
+**B. Junction of left internal jugular and left subclavian vein** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q524 — Sympathetic supply of the heart is *(2016)*
+
+Sympathetic supply of the heart is from ?
+
+- A. Vagus
+- B. Thoracic sympathetic fibres [T1 to T5]
+- C. Lumbar sympathetic fibres
+- D. Cervical ganglion
+
+<details><summary>Answer</summary>
+
+**B. Thoracic sympathetic fibres [T1 to T5]** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q525 — of the following are cusps of *(2016)*
+
+Which of the following are cusps of the aortic valves?
+
+- A. Left, right and Anterior
+- B. Anterior, Right and Posterior
+- C. Posterior, Left and Right
+- D. Anterior, Posterior and Left
+
+<details><summary>Answer</summary>
+
+**C. Posterior, Left and Right** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q526 — of the following passes posterior to *(2016)*
+
+Which of the following passes posterior to the hilum of the lung?
+
+- A. Vagus
+- B. Phrenic nerve
+- C. SVC
+- D. Right atrium
+
+<details><summary>Answer</summary>
+
+**A. Vagus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q527 — is the level of the pulmonary *(2016)*
+
+What is the level of the pulmonary valve?
+
+- A. 3rd intercostal space
+- B. 4th costal cartilage
+- C. 3rd costal cartilage
+- D. 2nd intercostal space
+
+<details><summary>Answer</summary>
+
+**C. 3rd costal cartilage** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q528 — Lower limit of the inferior border *(2016)*
+
+Lower limit of the inferior border of the lung in the midaxillary line is ?
+
+- A. 6th rib
+- B. 8th rib
+- C. 10th rib
+- D. 12th rib
+
+<details><summary>Answer</summary>
+
+**B. 8th rib** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q529 — is a typical intercostal nerve *(2016)*
+
+Which is a typical intercostal nerve?
+
+- A. First
+- B. Second
+- C. Third
+- D. Seventh
+
+<details><summary>Answer</summary>
+
+**C. Third** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q530 — Great cardiac vein lies in *(2016)*
+
+Great cardiac vein lies in ?
+
+- A. Tricuspid valve
+- B. Anterior interventricular sulcus
+- C. Posterior interventricular sulcus
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Anterior interventricular sulcus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q531 — Diaphragm is supplied by *(2016)*
+
+Diaphragm is supplied by ?
+
+- A. Phrenic nerve
+- B. C2,C3,C4 Roots
+- C. Thoracodorsal nerve
+- D. Long thoracic nerve
+
+<details><summary>Answer</summary>
+
+**A. Phrenic nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q532 — Midpoint between suprasternal notch and pubic *(2016)*
+
+Midpoint between suprasternal notch and pubic symphyses passes through which plane?
+
+- A. Transpyloric plane
+- B. Transtubercular plane
+- C. Trnasxiphoid plane
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Transpyloric plane** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q533 — Muscle lying between anterior and middle *(2016)*
+
+Muscle lying between anterior and middle layer of thoracolumbar fascia is ?
+
+- A. Psoas major
+- B. Quadratus Lumborum
+- C. Obdurator internus
+- D. External oblique
+
+<details><summary>Answer</summary>
+
+**B. Quadratus Lumborum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q534 — Anterior Rectus Sheath just above pubic *(2016)*
+
+Anterior Rectus Sheath just above pubic symphysis is formed by ?
+
+- A. External Oblique Aponeurosis
+- B. The aponeurosis of three muscles including External Oblique,
+- C. Linea Alba
+- D. Internal Oblique only
+
+<details><summary>Answer</summary>
+
+**B. The aponeurosis of three muscles including External Oblique,** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q535 — Right suprarenal vein drains into *(2016)*
+
+Right suprarenal vein drains into ?
+
+- A. Inferior vena cava
+- B. Right renal vein
+- C. Left renal vein
+- D. Accessory Hemiazygous vein
+
+<details><summary>Answer</summary>
+
+**A. Inferior vena cava** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q536 — of the following is not derived *(2016)*
+
+Which of the following is not derived from the external oblique aponeurosis?
+
+- A. Inguinal Ligament
+- B. Lacunar ligament
+- C. Line Semilunaris
+- D. Pectineal Ligament
+
+<details><summary>Answer</summary>
+
+**C. Line Semilunaris** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q537 — Stomach is supplied by *(2016)*
+
+Stomach is supplied by ?
+
+- A. Coeliac trunk
+- B. Splenic artery
+- C. Gastroduodenal artery
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q538 — is the number of layers in *(2016)*
+
+What is the number of layers in greater omentum?
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**D. 4** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q539 — Stomach wall is mainly drained by *(2016)*
+
+Stomach wall is mainly drained by all lymphnodes except?
+
+- A. Pyloric nodes
+- B. Short gastric vessel nodal group
+- C. Right gastroepiploic nodes
+- D. Inguinal nodes
+
+<details><summary>Answer</summary>
+
+**D. Inguinal nodes** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q540 — lymph of stomach drains into *(2016)*
+
+All lymph of stomach drains into ?
+
+- A. Pyloric nodes
+- B. Short gastric vessel nodal group
+- C. Right gastroepiploic nodes
+- D. Coeliac nodes
+
+<details><summary>Answer</summary>
+
+**D. Coeliac nodes** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q541 — Internal anal Sphincter is formed by *(2016)*
+
+Internal anal Sphincter is formed by ?
+
+- A. Puborectalis
+- B. Circular muscles from lower rectum
+- C. Longitudinal Involuntary muscles
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Circular muscles from lower rectum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q542 — of the following organs are in *(2016)*
+
+All of the following organs are in direct contact with the spleen except?
+
+- A. Duodenum
+- B. Stomach
+- C. Left kidney
+- D. Colon
+
+<details><summary>Answer</summary>
+
+**A. Duodenum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q543 — Glans penis is a continuation of *(2016)*
+
+Glans penis is a continuation of -
+
+- A. Corpus spongiosum
+- B. Ischiocavernosus
+- C. Corpora Cavernosa
+- D. Puborectalis
+
+<details><summary>Answer</summary>
+
+**A. Corpus spongiosum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q544 — Cremastric muscle is formed from *(2016)*
+
+Cremastric muscle is formed from ?
+
+- A. Fascia from internal oblique
+- B. Fascia from external oblique
+- C. Fascia from rectus abdominis
+- D. Fascia from transversus abdominis
+
+<details><summary>Answer</summary>
+
+**A. Fascia from internal oblique** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q545 — Kidney is covered by what fascia *(2016)*
+
+Kidney is covered by what fascia?
+
+- A. Sibson's fascia
+- B. Buck's Fascia
+- C. Gerota's Fascia
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Gerota's Fascia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q546 — Narrowest part of ureter is *(2016)*
+
+Narrowest part of ureter is ?
+
+- A. Brim of the pelvis
+- B. Crossing by gonadal vessels
+- C. Vesicouretric junction
+- D. Crossing by ductus deferens
+
+<details><summary>Answer</summary>
+
+**C. Vesicouretric junction** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q547 — is the total length of the *(2016)*
+
+What is the total length of the colon?
+
+- A. 1 metre
+- B. 1.5 metres
+- C. 2 metres
+- D. 4 metres
+
+<details><summary>Answer</summary>
+
+**B. 1.5 metres** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q548 — Submandibular lymphnodes drain the following areas *(2016)*
+
+Submandibular lymphnodes drain the following areas of the face except?
+
+- A. Medial half of eyelids
+- B. Central part of lower lip
+- C. Medial part of cheek
+- D. Central part of fore head
+
+<details><summary>Answer</summary>
+
+**B. Central part of lower lip** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q549 — Nerve supply to the angle of *(2016)*
+
+Nerve supply to the angle of the mandible is by ?
+
+- A. Posterior primary rami of C2, C3
+- B. Greater auricular nerve
+- C. Maxillary nerve
+- D. Mandibular nerve
+
+<details><summary>Answer</summary>
+
+**B. Greater auricular nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q550 — Nerve supply to the tip of *(2016)*
+
+Nerve supply to the tip of the nose is from?
+
+- A. The ophthalmic division of the trigeminal nerve
+- B. Greater auricular nerve
+- C. The maxillary division of the trigeminal nerve
+- D. Mandibular nerve
+
+<details><summary>Answer</summary>
+
+**A. The ophthalmic division of the trigeminal nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q551 — of the following are main branches *(2016)*
+
+All of the following are main branches of Trigeminal nerve except ?
+
+- A. Mandibular nerve
+- B. Maxillary nerve
+- C. Ophthalmic nerve
+- D. Optic nerve
+
+<details><summary>Answer</summary>
+
+**D. Optic nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q552 — HHH syndrome is due to defect *(2016)*
+
+HHH syndrome is due to defect in ?
+
+- A. Tryptophan metabolism
+- B. Histidine transporter
+- C. Branched chain AA metabolism
+- D. Ornithine transporter
+
+<details><summary>Answer</summary>
+
+**D. Ornithine transporter** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q553 — Soft wood exposure leads to - *(2016)*
+
+Soft wood exposure leads to -
+
+- A. Nasal adenocarcinoma
+- B. Skin cancer
+- C. Liver cancer
+- D. Bladder cancer
+
+<details><summary>Answer</summary>
+
+**A. Nasal adenocarcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q554 — of the following pairs is correct *(2016)*
+
+Which of the following pairs is correct?
+
+- A. Glibenclamide - Na' ATP blocker
+- B. Biguanides - AMP Kinase activation
+- C. Vildagliptin - SGLT2 inhibitor
+- D. Voglibose - DPP4 inhibitor
+
+<details><summary>Answer</summary>
+
+**B. Biguanides - AMP Kinase activation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q555 — Panitumumab is used for which cancer *(2016)*
+
+Panitumumab is used for which cancer?
+
+- A. Colon cancer
+- B. Lung cancer
+- C. Breast cancer
+- D. Osteoclastoma
+
+<details><summary>Answer</summary>
+
+**A. Colon cancer** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q556 — common source of Diphtheria *(2016)*
+
+Most common source of Diphtheria
+
+- A. Case
+- B. Carrier
+- C. Both
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Carrier** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q557 — Gradenigos syndrome involves all of the *(2016)*
+
+Gradenigo's syndrome involves all of the following cranial nerves, EXCEPT:
+
+- A. IV
+- B. V
+- C. VI
+- D. VII
+
+<details><summary>Answer</summary>
+
+**A. IV** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q558 — cranial nerve is involved in Weber *(2016)*
+
+Which cranial nerve is involved in Weber syndrome?
+
+- A. II
+- B. III
+- C. IV
+- D. V
+
+<details><summary>Answer</summary>
+
+**B. III** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q559 — Following are the features of neuropathy *(2016)*
+
+Following are the features of neuropathy associated with varicella- zoster infection except
+
+- A. Persistent infection in neurons of sensory ganglia
+- B. With reactivation virus transported along nerves to skin
+- C. Shingles are distributed along motor dermatomes
+- D. Intranuclear inclusions are not found in peripheral nervous
+
+<details><summary>Answer</summary>
+
+**C. Shingles are distributed along motor dermatomes** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q560 — common nerve affected in leprosy *(2016)*
+
+Most common nerve affected in leprosy
+
+- A. Posterior tibial
+- B. Ulnar
+- C. Median
+- D. Facial
+
+<details><summary>Answer</summary>
+
+**A. Posterior tibial** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q561 — Characteristic site for development of venous *(2016)*
+
+Characteristic site for development of venous leg ulcers is
+
+- A. Skin of gaiter region
+- B. Behind lateral malleolus
+- C. Shin of tibia
+- D. Medial aspect of knee
+
+<details><summary>Answer</summary>
+
+**A. Skin of gaiter region** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q562 — In case of female commonest hernia *(2016)*
+
+In case of female commonest hernia is ?
+
+- A. Direct inguinal hernia
+- B. Indirect inguinal hernia
+- C. Femoral Hernia
+- D. Incisional hernia
+
+<details><summary>Answer</summary>
+
+**B. Indirect inguinal hernia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q563 — 40 years male presents with translucent *(2016)*
+
+40 years male presents with translucent scrotal swelling in which it is possible to get above the swelling on examination. What is the most probable diagnosis?
+
+- A. Hydrocele
+- B. Indirect inguinal hernia
+- C. Varicocele
+- D. Sebaceous cyst
+
+<details><summary>Answer</summary>
+
+**A. Hydrocele** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q564 — Scrotal swelling non reducible but disappears *(2016)*
+
+Scrotal swelling non reducible but disappears when the child wakes up from sleep is most likely to be -
+
+- A. Congenital hydrocele
+- B. Varicocele
+- C. Indirect inguinal hernia
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Congenital hydrocele** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q565 — 10 years old male presents a *(2016)*
+
+A 10 years old male presents a smooth swelling near superficial inguinal ring, which moves downwards when the testicle is pulled downwards. Diagnosis -
+
+- A. Inguinal hernia
+- B. Congenital hydrocele
+- C. Encysted hydrocele of the cord
+- D. Varicocele
+
+<details><summary>Answer</summary>
+
+**C. Encysted hydrocele of the cord** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q566 — Child while playing has sudden loss *(2016)*
+
+Child while playing has sudden loss of consciousness and appears pale. There is no significant medical history and the child was otherwise healthy. Which of the following is the most probable
+
+- A. Attention deficit hyperkinetic disorder
+- B. Breath holding spell
+- C. Autism
+- D. Rett's syndrome
+
+<details><summary>Answer</summary>
+
+**B. Breath holding spell** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q567 — Iliotibial band contracture in patients of *(2016)*
+
+Iliotibial band contracture in patients of poliomyelitis will lead to
+
+- A. Flexion at hip and knee
+- B. Flexion at hip, extention at knee
+- C. Extention at hip flexion at knee
+- D. Extention at hip and knee
+
+<details><summary>Answer</summary>
+
+**A. Flexion at hip and knee** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q568 — Jumpers knee *(2016)*
+
+Jumpers knee
+
+- A. Apophysitis of patellar tendon as it inserts in patella
+- B. Apophysitis of patellar tendon as it inserts in tibia
+- C. Apophysitis of quadriceps tendon as it inserts in patella
+- D. Apophysitis of hamstring tendon as it inserts in tibia
+
+<details><summary>Answer</summary>
+
+**A. Apophysitis of patellar tendon as it inserts in patella** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q569 — Palpable femur head on per rectal *(2016)*
+
+Palpable femur head on per rectal exam is a feature of which of the following conditions?
+
+- A. Posterior hip dislocation
+- B. Anterior hip dislocation
+- C. Central hip dislocation
+- D. Inferior hip dislocation
+
+<details><summary>Answer</summary>
+
+**C. Central hip dislocation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q570 — most common complication of intracapsular fracture *(2016)*
+
+The most common complication of intracapsular fracture neck of femur is
+
+- A. Mal union
+- B. Osteoarthritis
+- C. Non-Union
+- D. Shortening
+
+<details><summary>Answer</summary>
+
+**C. Non-Union** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q571 — of the following are true regarding *(2016)*
+
+All of the following are true regarding fracture of lateral condyle of humerus except
+
+- A. Usually seen at 6 - 10 years of age
+- B. Results in Gun stock deformity
+- C. Cubitus valgus occurs
+- D. Tardy ulnar nerve palsy is seen
+
+<details><summary>Answer</summary>
+
+**B. Results in Gun stock deformity** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q572 — common complication of fracture of tibia *(2016)*
+
+Most common complication of fracture of tibia
+
+- A. Infection
+- B. Compartment syndrome
+- C. Delayed union
+- D. Vascular injury
+
+<details><summary>Answer</summary>
+
+**C. Delayed union** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q573 — Dunlop traction is a type of *(2016)*
+
+Dunlop traction is a type of traction used in management of
+
+- A. Fracture humerus
+- B. Fracture radius
+- C. Fracture femur
+- D. Fracture Tibia
+
+<details><summary>Answer</summary>
+
+**A. Fracture humerus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q574 — of the following is true about *(2016)*
+
+Which of the following is true about CTEV
+
+- A. It is more common in females
+- B. Right foot is usually more affected than the left
+- C. Talus is displaced medial and plantarwards
+- D. Tibia usually shows lateral torsion
+
+<details><summary>Answer</summary>
+
+**C. Talus is displaced medial and plantarwards** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q575 — of the following isare features of *(2016)*
+
+Which of the following is/are feature/s of sprengels deformity?
+
+- A. Elevated shoulder on affected side
+- B. Smaller than usual scapula
+- C. Short neck
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q576 — 33 yr old female presents with *(2016)*
+
+33 yr old female presents with a slow growing bony mass along the distal femur cortex in the metaphyseal region with an appreciable gap between the cortex and tumor without any cortical
+
+- A. Local resection
+- B. Amputaion
+- C. Chemotherapy
+- D. Radiotherapy
+
+<details><summary>Answer</summary>
+
+**A. Local resection** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q577 — Proximal tibial epiphysis fuses at - *(2016)*
+
+Proximal tibial epiphysis fuses at -
+
+- A. 12 - 14 years
+- B. 14 - 16 years
+- C. 16 - 18 years
+- D. 18 - 20 years
+
+<details><summary>Answer</summary>
+
+**C. 16 - 18 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q578 — Management of displaced non comminuted intercondyl *(2016)*
+
+Management of displaced non comminuted intercondylar humerus fracture is -
+
+- A. Open reduction internal fixation
+- B. Above elbow plaster slab application
+- C. Olecranon pin traction
+- D. External fixation
+
+<details><summary>Answer</summary>
+
+**A. Open reduction internal fixation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q579 — Nerve injured in McRoberts maneuver is *(2016)*
+
+Nerve injured in McRoberts maneuver is ?
+
+- A. Lumbosacral trunk
+- B. Obturator nerve
+- C. Femoral nerve
+- D. Pudendal nerve
+
+<details><summary>Answer</summary>
+
+**C. Femoral nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q580 — Shortest transverse diameter is *(2016)*
+
+Shortest transverse diameter is ?
+
+- A. BPD
+- B. Bitemporal diameter
+- C. Bimastoid diameter
+- D. All are equal in length
+
+<details><summary>Answer</summary>
+
+**C. Bimastoid diameter** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q581 — Treatment of choice for oral candidiasis *(2016)*
+
+Treatment of choice for oral candidiasis is?
+
+- A. Terbinafin
+- B. Nystatin
+- C. Griesofulvin
+- D. Selenium sulphide
+
+<details><summary>Answer</summary>
+
+**B. Nystatin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+
+## Year 2017
+
+### Q582 — Identify the type of muscle shown
+
+Identify the type of muscle shown in the image below.
+
+- A. Cruciate
+- B. Multipennate
+- C. Parallel
+- D. Unipennate
+
+<details><summary>Answer</summary>
+
+**B. Multipennate** — Source: Medicoholic 2017 NEET-PG.
+
+</details>
+
+---
+
+---
+
+## Year 2016
+
+### Q583 — Embryology: Zygote transport
+
+Zygote with zona pellucida reaches the uterine cavity by:
+
+- A. 2 days
+- B. 4 days
+- C. 5 days
+- D. 6 days
+
+<details><summary>Answer</summary>
+
+**B. 4 days** — Zygote takes about 4 days to travel from fallopian tube to uterine cavity.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q584 — Embryology: Spermatogenesis
+
+Independent assortment of paternal and maternal chromosomes occurs during:
+
+- A. Primary to secondary spermatocyte
+- B. Spermatogonia to primary spermatocyte
+- C. Secondary spermatocyte to spermatids
+- D. Spermatids to spermatozoa
+
+<details><summary>Answer</summary>
+
+**A. Primary to secondary spermatocyte** — Independent assortment occurs during meiosis I (reductional division).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q585 — Embryology: Umbilical artery remnant
+
+Remnant of distal umbilical artery:
+
+- A. Ligamentum teres
+- B. Superior vesical artery
+- C. Medial umbilical ligament
+- D. Ligamentum arteriosum
+
+<details><summary>Answer</summary>
+
+**C. Medial umbilical ligament** — Distal umbilical arteries become the medial umbilical ligaments after birth.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q586 — Embryology: Corpus callosum
+
+Corpus callosum develops from:
+
+- A. Basal lamina
+- B. Alar lamina
+- C. Lamina terminalis
+- D. Basal plate
+
+<details><summary>Answer</summary>
+
+**C. Lamina terminalis** — Corpus callosum develops from the lamina terminalis (rostral end of neural tube).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q587 — Embryology: IVC formation
+
+All help in formation of IVC except:
+
+- A. Posterior intercardinal anastomosis
+- B. Terminal portion of right vitelline vein
+- C. Segment of right cardinal vein
+- D. Subcardinal sinus
+
+<details><summary>Answer</summary>
+
+**D. Subcardinal sinus** — IVC is formed from right subcardinal vein, right vitelline vein, right supracardinal vein, and right posterior cardinal vein — not subcardinal sinus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q588 — Embryology: Facial nerve arch
+
+Facial nerve is a derivative of which branchial arch:
+
+- A. First arch
+- B. Second arch
+- C. Third arch
+- D. Fourth arch
+
+<details><summary>Answer</summary>
+
+**B. Second arch** — Second (Reichert's) arch gives facial nerve (CN VII).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q589 — Embryology: Meiosis stages
+
+Leptotene and pachytene are stages of:
+
+- A. Prophase I
+- B. Metaphase I
+- C. Anaphase II
+- D. Telophase II
+
+<details><summary>Answer</summary>
+
+**A. Prophase I** — Prophase I stages: Leptotene, Zygotene, Pachytene, Diplotene, Diakinesis (LZPDD).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q590 — Anatomy: Traction epiphysis
+
+Which is a traction epiphysis:
+
+- A. Distal radius
+- B. Mastoid process
+- C. Tibial condyles
+- D. Coracoid process
+
+<details><summary>Answer</summary>
+
+**B. Mastoid process** — Traction epiphyses are pulled by muscle tendons (e.g., mastoid process, tibial tuberosity). Pressure epiphyses bear weight.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q591 — Histology: Liver
+
+All are true about liver except:
+
+- A. It is covered by Glisson's capsule
+- B. Stellate cells present in space of Disse
+- C. Kupfer cells are defense cells
+- D. Lobules in liver are pentagonal
+
+<details><summary>Answer</summary>
+
+**D. Lobules in liver are pentagonal** — Liver lobules are hexagonal, not pentagonal.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q592 — Histology: Thymus
+
+All are true about thymus except:
+
+- A. Cortical portion mainly composed of lymphocytes
+- B. Medulla contains Hassall's corpuscles
+- C. Derived from fourth pharyngeal pouch
+- D. Undergoes atrophy from puberty onwards
+
+<details><summary>Answer</summary>
+
+**C. Derived from fourth pharyngeal pouch** — Thymus is derived from the third pharyngeal pouch (not fourth).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q593 — Histology: Auerbach's plexus
+
+Auerbach's plexus is present in:
+
+- A. Colon
+- B. Esophagus
+- C. Stomach
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Myenteric (Auerbach's) plexus is present throughout the GI tract wall.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q594 — Histology: Esophagus
+
+Layer absent in esophagus:
+
+- A. Adventitia
+- B. Serosa
+- C. Muscularis propria
+- D. Mucosa
+
+<details><summary>Answer</summary>
+
+**B. Serosa** — Esophagus lacks a serosa (has adventitia instead); this is why esophageal cancer spreads easily.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q595 — Histology: Cartilage
+
+Most abundant cartilage:
+
+- A. Hyaline cartilage
+- B. Elastic cartilage
+- C. Fibrocartilage
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Hyaline cartilage** — Hyaline cartilage is the most abundant type, covering articular surfaces and forming costal cartilages.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q596 — Histology: Haustrations
+
+Haustrations are present in:
+
+- A. Duodenum
+- B. Ileum
+- C. Jejunum
+- D. Colon
+
+<details><summary>Answer</summary>
+
+**D. Colon** — Haustrations (sacculations) are a characteristic feature of the large intestine.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q597 — Histology: Lacrimal gland
+
+Lining of lacrimal gland alveoli:
+
+- A. Ciliated columnar cells
+- B. Pyramidal cells
+- C. Nonkeratinizing squamous epithelium
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Pyramidal cells** — Lacrimal gland acini are lined by pyramidal secretory cells.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q598 — Anatomy: Lumbricals
+
+Type of muscles of medial two lumbricals:
+
+- A. Unipennate
+- B. Bipennate
+- C. Multipennate
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Bipennate** — Medial two (3rd and 4th) lumbricals arise from two tendons (bipennate). Lateral two (1st and 2nd) are unipennate.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q599 — Anatomy: Ansa subclavia
+
+Ansa subclavia is lined by:
+
+- A. Columnar
+- B. Squamous epithelium
+- C. Cuboidal and columnar epithelium
+- D. Stratified squamous epithelium
+
+<details><summary>Answer</summary>
+
+**B. Squamous epithelium** — Ansa subclavia is part of the sympathetic chain; this question likely refers to the subclavian artery lining (endothelium = simple squamous).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q600 — Anatomy: Carpal ossification
+
+Four carpal bones present at what age:
+
+- A. 3 years
+- B. 4 years
+- C. 5 years
+- D. 6 years
+
+<details><summary>Answer</summary>
+
+**B. 4 years** — Carpal bone ossification: capitate (1yr), hamate (2yr), triquetrum (3yr), lunate (4yr), scaphoid (5yr), trapezium (6yr), trapezoid (6yr), pisiform (9yr).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q601 — Anatomy: Spine of scapula level
+
+Level of spine of scapula:
+
+- A. T7
+- B. T10
+- C. T4
+- D. T2
+
+<details><summary>Answer</summary>
+
+**C. T4** — Spine of scapula lies at T4 vertebral level; inferior angle of scapula at T7.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q602 — Anatomy: Shoulder abduction
+
+Shoulder abduction from 15 to 90 degrees by:
+
+- A. Supraspinatus
+- B. Trapezius
+- C. Deltoid
+- D. Serratus anterior
+
+<details><summary>Answer</summary>
+
+**C. Deltoid** — Supraspinatus initiates first 15°; Deltoid completes 15–90°; above 90° requires scapular rotation (trapezius + serratus anterior).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q603 — Anatomy: Dual nerve supply
+
+Thumb muscle with dual nerve supply:
+
+- A. Flexor pollicis longus
+- B. Flexor pollicis brevis
+- C. Adductor pollicis
+- D. Opponens pollicis
+
+<details><summary>Answer</summary>
+
+**B. Flexor pollicis brevis** — FPB has superficial head (median nerve) and deep head (ulnar nerve) — dual supply.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q604 — Anatomy: Wartenberg's sign
+
+Wartenberg's sign:
+
+- A. Inability to maintain intrinsic plus position
+- B. Inability to adduct small finger against ring finger
+- C. Inability to grasp a book between thumb and index finger
+- D. Inability to move middle finger sideways
+
+<details><summary>Answer</summary>
+
+**B. Inability to adduct small finger against ring finger** — Wartenberg's sign: abduction of little finger in ulnar nerve palsy due to unopposed extensor digiti minimi action.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q605 — Anatomy: Ulnar nerve sensation
+
+Sensory region of ulnar nerve:
+
+- A. Tip of little finger
+- B. Tip of index finger
+- C. 1st web space
+- D. Lateral upper aspect of arm
+
+<details><summary>Answer</summary>
+
+**A. Tip of little finger** — Ulnar nerve supplies medial 1.5 fingers (little finger + medial half of ring finger).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q606 — Anatomy: Index finger pulp
+
+Pulp of index finger supplied by:
+
+- A. Median nerve
+- B. Radial nerve
+- C. Ulnar nerve
+- D. Axillary nerve
+
+<details><summary>Answer</summary>
+
+**A. Median nerve** — Median nerve supplies lateral 3.5 fingers (thumb, index, middle, lateral ring finger).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q607 — Anatomy: Low radial nerve palsy
+
+Low radial nerve palsy does not produce:
+
+- A. Loss of wrist extension
+- B. Loss of elbow extension
+- C. Loss of finger extension
+- D. Loss of thumb extension
+
+<details><summary>Answer</summary>
+
+**B. Loss of elbow extension** — Low radial nerve palsy (posterior interosseous nerve): no wrist drop or elbow extension loss; mainly finger/thumb extension lost. Elbow extension (triceps) is spared as nerve to triceps branches off high.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q608 — Anatomy: Infraspinous fossa
+
+Infraspinous fossa contains:
+
+- A. Subscapularis
+- B. Infraspinatus
+- C. Teres major
+- D. Supraspinatus
+
+<details><summary>Answer</summary>
+
+**B. Infraspinatus** — Infraspinatus occupies the infraspinous fossa; subscapularis is in subscapular fossa.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q609 — Anatomy: Coracoacromial ligament
+
+Coracoacromial ligament resists:
+
+- A. Upward displacement of humeral head
+- B. Abduction of shoulder
+- C. Inferior displacement of humerus
+- D. External rotation
+
+<details><summary>Answer</summary>
+
+**A. Upward displacement of humeral head** — Coracoacromial arch prevents superior escape of humeral head.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q610 — Anatomy: Anconeus
+
+Action of anconeus:
+
+- A. Primary elbow extensor
+- B. Assists extension of elbow
+- C. Wrist extension
+- D. Thumb abduction
+
+<details><summary>Answer</summary>
+
+**B. Assists extension of elbow** — Anconeus is an accessory extensor of the elbow, also abducts ulna in pronation.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q611 — Anatomy: Climbing muscle
+
+Muscle helping in climbing a tree:
+
+- A. Latissimus dorsi
+- B. Rhomboideus
+- C. Trapezius
+- D. Levator scapulae
+
+<details><summary>Answer</summary>
+
+**A. Latissimus dorsi** — Latissimus dorsi adducts and medially rotates arm; used in climbing, swimming, rowing.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q612 — Anatomy: Posterior interosseous artery
+
+Posterior interosseous artery is branch of:
+
+- A. Common interosseous artery
+- B. Radial artery
+- C. Median artery
+- D. Brachial artery
+
+<details><summary>Answer</summary>
+
+**A. Common interosseous artery** — Ulnar artery → common interosseous → anterior + posterior interosseous arteries.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q613 — Anatomy: Subclavius
+
+Muscle protecting brachial plexus in clavicle fractures:
+
+- A. Subclavius
+- B. Supraspinatus
+- C. Subscapularis
+- D. Teres minor
+
+<details><summary>Answer</summary>
+
+**A. Subclavius** — Subclavius muscle lies between clavicle and first rib, protecting the brachial plexus and subclavian vessels in clavicle fractures.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q614 — Anatomy: Deep palmar arch
+
+True about deep palmar arch:
+
+- A. Mainly formed by radial artery
+- B. Ulnar artery has no contribution
+- C. Gives off 5 perforating branches
+- D. Does not anastomose with superficial palmar arch
+
+<details><summary>Answer</summary>
+
+**A. Mainly formed by radial artery** — Deep palmar arch is predominantly from radial artery; superficial palmar arch is predominantly from ulnar artery.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q615 — Anatomy: Scapula in infraclavicular fossa
+
+Part of scapula palpable in infraclavicular fossa:
+
+- A. Coracoid process
+- B. Spine of scapula
+- C. Inferior angle
+- D. Supraspinous fossa
+
+<details><summary>Answer</summary>
+
+**A. Coracoid process** — Coracoid process is palpable just below the clavicle in the infraclavicular fossa.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q616 — Anatomy: Lateral tibial condyle
+
+True about lateral tibial condyle:
+
+- A. Iliotibial tract attached to lateral condyle of tibia
+- B. Ligamentum patellae inserts on it
+- C. Medial collateral ligament attached to it
+- D. Semimembranosus attached to it
+
+<details><summary>Answer</summary>
+
+**A. Iliotibial tract attached to lateral condyle of tibia** — ITB inserts on Gerdy's tubercle on lateral tibial condyle.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q617 — Anatomy: Extensor hallucis longus nerve root
+
+Weakness of extensor hallucis longus due to nerve root:
+
+- A. L5
+- B. L4
+- C. S1
+- D. S2
+
+<details><summary>Answer</summary>
+
+**A. L5** — EHL (big toe extension) tests L5 nerve root — classic NEET PG high-yield.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q618 — Anatomy: Plantar arch
+
+Common between medial and lateral plantar arch:
+
+- A. Flexor digitorum brevis
+- B. Plantar fascia
+- C. Spring ligament
+- D. Deltoid ligament
+
+<details><summary>Answer</summary>
+
+**B. Plantar fascia** — Plantar fascia supports both longitudinal arches of foot.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q619 — Anatomy: Peroneus longus groove
+
+Tendon lodged in groove on posterior surface of lateral malleolus:
+
+- A. Peroneus longus
+- B. Tibialis anterior
+- C. Tibialis posterior
+- D. Flexor hallucis longus
+
+<details><summary>Answer</summary>
+
+**A. Peroneus longus** — Peroneus (fibularis) longus and brevis tendons pass behind the lateral malleolus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q620 — Anatomy: Tibialis anterior nerve supply
+
+All true about tibialis anterior except:
+
+- A. Supplied by superficial peroneal nerve
+- B. Dorsiflexes the foot
+- C. Closely related to anterior tibial vessels
+- D. Inserts on medial cuneiform
+
+<details><summary>Answer</summary>
+
+**A. Supplied by superficial peroneal nerve** — Tibialis anterior is supplied by the deep peroneal (fibular) nerve, not superficial.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q621 — Anatomy: Sacral hiatus
+
+Structures passing through sacral hiatus:
+
+- A. S4 nerve root
+- B. S2 nerve root
+- C. S3 nerve root
+- D. S5 nerve root
+
+<details><summary>Answer</summary>
+
+**D. S5 nerve root** — Sacral hiatus transmits S5 nerve root and coccygeal nerve roots (S1–S4 exit through sacral foramina).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q622 — Anatomy: Oblique popliteal ligament
+
+Oblique popliteal ligament derived from:
+
+- A. Semitendinosus
+- B. Biceps femoris
+- C. Adductor magnus
+- D. Semimembranosus
+
+<details><summary>Answer</summary>
+
+**D. Semimembranosus** — Oblique popliteal ligament is a reflected expansion of semimembranosus tendon.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q623 — Anatomy: Sural nerve territory
+
+Lateral border of foot receives sensory supply from:
+
+- A. Saphenous nerve
+- B. Sural nerve
+- C. Deep peroneal nerve
+- D. Sciatic nerve
+
+<details><summary>Answer</summary>
+
+**B. Sural nerve** — Sural nerve (from tibial + common peroneal) supplies lateral foot and little toe.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q624 — Anatomy: Chest wall structures
+
+All included in chest wall except:
+
+- A. Ribs
+- B. Thoracic vertebrae
+- C. Sternum
+- D. Lumbar vertebrae
+
+<details><summary>Answer</summary>
+
+**D. Lumbar vertebrae** — Chest wall = ribs, sternum, thoracic vertebrae + associated muscles.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q625 — Anatomy: Respiratory bronchioles
+
+Respiratory bronchioles formed from:
+
+- A. Principal bronchus
+- B. Terminal bronchioles
+- C. Tertiary bronchus
+- D. Lobar bronchioles
+
+<details><summary>Answer</summary>
+
+**B. Terminal bronchioles** — Terminal bronchioles give rise to respiratory bronchioles (first level with alveoli in walls).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q626 — Anatomy: Cricopharyngeal sphincter distance
+
+Cricopharyngeal sphincter distance from central incisor:
+
+- A. 15 cm
+- B. 25 cm
+- C. 40 cm
+- D. 50 cm
+
+<details><summary>Answer</summary>
+
+**A. 15 cm** — Upper esophageal sphincter (cricopharyngeus) is 15 cm from upper incisors.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q627 — Anatomy: Esophageal relations at 22.5 cm
+
+Structure related to esophagus 22.5 cm from incisor teeth:
+
+- A. Arch of aorta
+- B. Right principal bronchus
+- C. Thoracic duct
+- D. Azygous vein
+
+<details><summary>Answer</summary>
+
+**A. Arch of aorta** — Arch of aorta crosses esophagus at approximately 22.5 cm from incisors (second esophageal constriction).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q628 — Anatomy: Cardiac sympathetic supply
+
+Sympathetic supply of heart from:
+
+- A. Vagus
+- B. Thoracic sympathetic fibres (T1 to T5)
+- C. Lumbar sympathetic fibres
+- D. Cervical ganglion
+
+<details><summary>Answer</summary>
+
+**B. Thoracic sympathetic fibres (T1 to T5)** — Cardiac sympathetic supply: T1–T5 (upper thoracic); vagus is parasympathetic.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q629 — Anatomy: Aortic valve cusps
+
+Cusps of aortic valve:
+
+- A. Left, right and anterior
+- B. Anterior, right and posterior
+- C. Posterior, left and right
+- D. Anterior, posterior and left
+
+<details><summary>Answer</summary>
+
+**C. Posterior, left and right** — Aortic valve: right (anterior), left, and posterior (non-coronary) cusps.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q630 — Anatomy: Widow's artery
+
+Widow's artery in myocardial infarction:
+
+- A. Left anterior descending artery
+- B. Right coronary artery
+- C. Posterior interventricular artery
+- D. Left circumflex artery
+
+<details><summary>Answer</summary>
+
+**A. Left anterior descending artery** — LAD ("widow maker") supplies anterior 2/3 of IVS and anterior LV wall.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q631 — Anatomy: Lung hilum posterior structure
+
+Structure passing posterior to hilum of lung:
+
+- A. Vagus
+- B. Phrenic nerve
+- C. SVC
+- D. Right atrium
+
+<details><summary>Answer</summary>
+
+**A. Vagus** — Vagus nerve passes posterior to lung hilum; phrenic nerve passes anterior.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q632 — Anatomy: Pulmonary valve level
+
+Level of pulmonary valve:
+
+- A. 3rd intercostal space
+- B. 4th costal cartilage
+- C. 3rd costal cartilage
+- D. 2nd intercostal space
+
+<details><summary>Answer</summary>
+
+**C. 3rd costal cartilage** — Pulmonary valve lies at level of left 3rd costal cartilage; best heard at 2nd left intercostal space.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q633 — Anatomy: Lung inferior border
+
+Lower limit of inferior border of lung in mid-axillary line:
+
+- A. 6th rib
+- B. 8th rib
+- C. 10th rib
+- D. 12th rib
+
+<details><summary>Answer</summary>
+
+**B. 8th rib** — Inferior border of lung: 6th rib midclavicular line, 8th rib midaxillary line, 10th rib paravertebral.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q634 — Anatomy: Atypical intercostal nerve
+
+Which is an atypical intercostal nerve:
+
+- A. First
+- B. Second
+- C. Third
+- D. Seventh
+
+<details><summary>Answer</summary>
+
+**C. Third** — Wait — 1st and 2nd intercostal nerves are atypical (they contribute to brachial plexus). Some sources also include the 7th–11th as atypical (subcostal nerves). The 1st intercostal is most classically atypical. Answer C (Third) appears incorrect per standard anatomy — likely an error in source material; 1st and 2nd are the recognized atypical intercostal nerves.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q635 — Anatomy: Lung apex
+
+Apex of lung lies at what level:
+
+- A. Above the clavicle
+- B. Below the clavicle
+- C. At the level of clavicle
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Above the clavicle** — Apex of lung rises 2.5 cm above the medial third of clavicle (into the root of neck).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q636 — Anatomy: Transpyloric plane
+
+Midpoint between suprasternal notch and pubic symphysis passes through:
+
+- A. Transpyloric plane
+- B. Transtubercular plane
+- C. Transxiphoid plane
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Transpyloric plane** — Transpyloric plane (L1) lies at midpoint between jugular notch and pubic symphysis, at tip of 9th costal cartilage.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q637 — Anatomy: Thoracolumbar fascia
+
+Muscle between anterior and middle layer of thoracolumbar fascia:
+
+- A. Psoas major
+- B. Quadratus lumborum
+- C. Obturator internus
+- D. External oblique
+
+<details><summary>Answer</summary>
+
+**B. Quadratus lumborum** — Quadratus lumborum lies between the anterior and middle layers of thoracolumbar fascia.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q638 — Anatomy: Anterior rectus sheath
+
+Anterior rectus sheath above pubic symphysis formed by:
+
+- A. External oblique aponeurosis
+- B. Aponeurosis of three muscles (External oblique, Internal oblique, Transversus abdominis)
+- C. Linea alba
+- D. Internal oblique only
+
+<details><summary>Answer</summary>
+
+**B. Aponeurosis of three muscles** — Below arcuate line (below pubis): all three aponeuroses pass anterior to rectus.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q639 — Anatomy: External oblique aponeurosis
+
+Not derived from external oblique aponeurosis:
+
+- A. Inguinal ligament
+- B. Lacunar ligament
+- C. Linea semilunaris
+- D. Pectineal ligament
+
+<details><summary>Answer</summary>
+
+**C. Linea semilunaris** — Linea semilunaris is the lateral border of rectus abdominis muscle, not derived from external oblique.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q640 — Anatomy: Greater omentum layers
+
+Number of layers in greater omentum:
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**D. 4** — Greater omentum consists of 4 layers of peritoneum (2 anterior descending + 2 posterior ascending, fused in adults).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q641 — Anatomy: Stomach lymph nodes
+
+Stomach wall drained by all lymph nodes except:
+
+- A. Pyloric nodes
+- B. Short gastric vessel nodal group
+- C. Right gastroepiploic nodes
+- D. Inguinal nodes
+
+<details><summary>Answer</summary>
+
+**D. Inguinal nodes** — Inguinal nodes drain lower limb and perineum, not stomach.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q642 — Anatomy: Final gastric lymph drainage
+
+All lymph of stomach ultimately drains into:
+
+- A. Pyloric nodes
+- B. Short gastric vessel nodal group
+- C. Right gastroepiploic nodes
+- D. Coeliac nodes
+
+<details><summary>Answer</summary>
+
+**D. Coeliac nodes** — All gastric lymph ultimately drains into coeliac (preaortic) nodes around coeliac trunk.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q643 — Anatomy: Gallbladder liver segment
+
+Gallbladder is related to which liver segment:
+
+- A. I
+- B. II
+- C. III
+- D. IV
+
+<details><summary>Answer</summary>
+
+**D. IV** — Gallbladder fossa lies on the undersurface of segment IV (quadrate lobe) of liver.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q644 — Anatomy: Caudate lobe drainage
+
+Liver segment that drains on both sides:
+
+- A. I (Caudate)
+- B. II
+- C. III
+- D. IV
+
+<details><summary>Answer</summary>
+
+**A. I (Caudate)** — Caudate lobe (segment I) drains into both right and left hepatic ducts and receives blood from both hepatic arteries.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q645 — Anatomy: Caudate lobe
+
+Caudate lobe true statement:
+
+- A. Receives blood from both right and left hepatic arteries
+- B. Is segment II of liver
+- C. Situated on anterior surface of liver
+- D. Lies between aorta and ligamentum venosum
+
+<details><summary>Answer</summary>
+
+**A. Receives blood from both right and left hepatic arteries** — Caudate lobe has dual blood supply (both hepatic arteries) and dual venous drainage.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q646 — Anatomy: Epiploic foramen
+
+Superior border of epiploic foramen (of Winslow) formed by:
+
+- A. Caudate lobe
+- B. Hepatic artery
+- C. Bile duct
+- D. IVC
+
+<details><summary>Answer</summary>
+
+**A. Caudate lobe** — Epiploic foramen: Superior = caudate lobe; Inferior = 1st part duodenum; Anterior = hepatoduodenal ligament; Posterior = IVC.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q647 — Anatomy: Internal anal sphincter
+
+Internal anal sphincter formed by:
+
+- A. Puborectalis
+- B. Circular muscles from lower rectum
+- C. Longitudinal involuntary muscles
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Circular muscles from lower rectum** — Internal anal sphincter = thickened circular smooth muscle layer of rectum.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q648 — Anatomy: Duodenum
+
+All true about duodenum except:
+
+- A. Fourth part is shortest
+- B. Ampulla of Vater opens through second part
+- C. Minor duodenal papilla in third part
+- D. First part appears like duodenal cap on barium studies
+
+<details><summary>Answer</summary>
+
+**C. Minor duodenal papilla in third part** — Minor duodenal papilla (accessory pancreatic duct opening) is in the second part of duodenum, 2 cm above major papilla.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q649 — Anatomy: Inferior mesenteric artery branches
+
+Branch of inferior mesenteric artery:
+
+- A. Sigmoid artery
+- B. Middle colic artery
+- C. Renal artery
+- D. Right colic artery
+
+<details><summary>Answer</summary>
+
+**A. Sigmoid artery** — IMA branches: left colic, sigmoid arteries, superior rectal artery. Middle colic and right colic are SMA branches.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q650 — Anatomy: Alcock's canal
+
+Content of Alcock's canal:
+
+- A. Internal pudendal artery
+- B. Internal iliac artery
+- C. Inferior rectal vein
+- D. Inferior mesenteric vein
+
+<details><summary>Answer</summary>
+
+**A. Internal pudendal artery** — Alcock's canal (pudendal canal) contains internal pudendal artery, vein, and pudendal nerve.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q651 — Anatomy: Splenic relations
+
+All organs in indirect contact with spleen except:
+
+- A. Duodenum
+- B. Stomach
+- C. Left kidney
+- D. Colon
+
+<details><summary>Answer</summary>
+
+**A. Duodenum** — Spleen is in contact with stomach, left kidney, tail of pancreas, splenic flexure of colon. Duodenum is on the right side.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q652 — Anatomy: Glans penis
+
+Glans penis is continuation of:
+
+- A. Corpus spongiosum
+- B. Ischiocavernosus
+- C. Corpora cavernosa
+- D. Puborectalis
+
+<details><summary>Answer</summary>
+
+**A. Corpus spongiosum** — Glans penis is the expanded distal end of corpus spongiosum.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q653 — Anatomy: Upper esophagus opening
+
+Muscle causing opening of upper esophagus:
+
+- A. Epiglottis
+- B. Thyropharyngeus
+- C. Stylopharyngeus
+- D. Cricopharyngeus of inferior constrictor
+
+<details><summary>Answer</summary>
+
+**D. Cricopharyngeus of inferior constrictor** — Upper esophageal sphincter (cricopharyngeus) relaxes to allow food entry.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q654 — Anatomy: Posterior stomach perforation
+
+Posterior perforation of stomach, collection occurs in:
+
+- A. Greater sac
+- B. Left subhepatic and hepatorenal spaces
+- C. Omental bursa
+- D. Right subphrenic space
+
+<details><summary>Answer</summary>
+
+**C. Omental bursa** — Posterior wall of stomach is related to the lesser sac (omental bursa); perforation collects there.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q655 — Anatomy: Cremaster muscle
+
+Cremaster muscle formed from:
+
+- A. Fascia from internal oblique
+- B. Fascia from external oblique
+- C. Fascia from rectus abdominis
+- D. Fascia from transversus abdominis
+
+<details><summary>Answer</summary>
+
+**A. Fascia from internal oblique** — Cremaster muscle is derived from internal oblique; supplied by genitofemoral nerve.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q656 — Anatomy: Renal fascia
+
+Kidney covered by fascia:
+
+- A. Sibson's fascia
+- B. Buck's fascia
+- C. Gerota's fascia
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Gerota's fascia** — Gerota's (renal/perinephric) fascia encloses the kidney and adrenal gland.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q657 — Anatomy: Narrowest ureter
+
+Narrowest part of ureter:
+
+- A. Brim of pelvis
+- B. Crossing by gonadal vessels
+- C. Vesicoureteric junction
+- D. Crossing by ductus deferens
+
+<details><summary>Answer</summary>
+
+**C. Vesicoureteric junction** — VUJ is the narrowest part; stones most commonly impacted here (also at PUJ and pelvic brim).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q658 — Anatomy: Colon length
+
+Total length of colon:
+
+- A. 1 metre
+- B. 1.5 metres
+- C. 2 metres
+- D. 4 metres
+
+<details><summary>Answer</summary>
+
+**B. 1.5 metres** — Large intestine is approximately 1.5 metres in length.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q659 — Anatomy: Submandibular lymph nodes
+
+Submandibular lymph nodes drain following areas except:
+
+- A. Medial half of eyelids
+- B. Central part of lower lip
+- C. Medial part of cheek
+- D. Central part of forehead
+
+<details><summary>Answer</summary>
+
+**B. Central part of lower lip** — Central lower lip and chin drain to submental nodes, not submandibular.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q660 — Anatomy: Laryngeal lymph drainage
+
+Larynx below vocal cords drains into:
+
+- A. Pretracheal lymph nodes
+- B. Occipital lymph nodes
+- C. Mediastinal nodes
+- D. Lymphatics along superior laryngeal vein
+
+<details><summary>Answer</summary>
+
+**A. Pretracheal lymph nodes** — Below vocal cord: pretracheal and paratracheal nodes. Above vocal cord: upper deep cervical nodes.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q661 — Anatomy: Angle of mandible nerve supply
+
+Nerve supply to angle of mandible:
+
+- A. Posterior primary rami of C2, C3
+- B. Greater auricular nerve
+- C. Maxillary nerve
+- D. Mandibular nerve
+
+<details><summary>Answer</summary>
+
+**B. Greater auricular nerve** — Greater auricular nerve (C2, C3 from cervical plexus) supplies angle of mandible and parotid region.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q662 — Anatomy: Tip of nose nerve supply
+
+Nerve supply to tip of nose:
+
+- A. Ophthalmic division of trigeminal nerve
+- B. Greater auricular nerve
+- C. Maxillary division of trigeminal nerve
+- D. Mandibular nerve
+
+<details><summary>Answer</summary>
+
+**A. Ophthalmic division of trigeminal nerve** — Tip of nose (nasal dorsum) is supplied by nasociliary branch of ophthalmic division (Hutchinson's sign in herpes zoster).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q663 — Anatomy: Dangerous space in neck
+
+Dangerous space in neck found between:
+
+- A. Buccopharyngeal and alar fascia
+- B. Prevertebral and alar fascia
+- C. Buccopharyngeal and prevertebral fascia
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Prevertebral and alar fascia** — "Danger space" (space 4) lies between prevertebral and alar fasciae; extends from skull base to diaphragm.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q664 — Anatomy: TMJ disc attachment
+
+Muscle attached to disc of temporomandibular joint:
+
+- A. Buccinator
+- B. Lateral pterygoid
+- C. Masseter
+- D. Temporalis
+
+<details><summary>Answer</summary>
+
+**B. Lateral pterygoid** — Upper head of lateral pterygoid attaches to the articular disc of TMJ.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q665 — Anatomy: Vidian nerve
+
+Vidian nerve also known as:
+
+- A. Nerve of pterygoid canal
+- B. Greater petrosal nerve
+- C. Lesser petrosal nerve
+- D. Greater auricular nerve
+
+<details><summary>Answer</summary>
+
+**A. Nerve of pterygoid canal** — Vidian nerve = nerve of pterygoid canal (greater petrosal + deep petrosal nerve).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q666 — Anatomy: Vagus nerve nuclei
+
+Nuclei belonging to general visceral afferent column:
+
+- A. Facial nerve nucleus
+- B. Trigeminal nucleus
+- C. Dorsal nucleus of vagus
+- D. Nucleus ambiguus
+
+<details><summary>Answer</summary>
+
+**C. Dorsal nucleus of vagus** — Dorsal motor nucleus of vagus = GVE (general visceral efferent); nucleus tractus solitarius = GVA. Answer refers to vagal visceral afferent.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q667 — Anatomy: Parotid duct
+
+Structures pierced by parotid duct, all except:
+
+- A. Buccopharyngeal fascia
+- B. Buccinator muscle
+- C. Buccal fat pad
+- D. Investing layer of deep cervical fascia
+
+<details><summary>Answer</summary>
+
+**D. Investing layer of deep cervical fascia** — Parotid duct pierces: buccal fat pad, buccinator, buccopharyngeal fascia to open into vestibule opposite upper 2nd molar.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q668 — Anatomy: Vascular layer of scalp
+
+Which layer of scalp is vascular:
+
+- A. Pericranium
+- B. Superficial fascia
+- C. Skin
+- D. Aponeurosis
+
+<details><summary>Answer</summary>
+
+**B. Superficial fascia** — Scalp layers (SCALP): Skin, Connective tissue (dense — vascular layer), Aponeurosis (galea), Loose areolar tissue, Pericranium.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q669 — Anatomy: Sinus of Morgagni
+
+All pass through sinus of Morgagni except:
+
+- A. Auditory tube
+- B. Levator veli palatini
+- C. Ascending palatine artery
+- D. Stylopharyngeus
+
+<details><summary>Answer</summary>
+
+**D. Stylopharyngeus** — Sinus of Morgagni: gap between superior pharyngeal constrictor and skull base. Contains: auditory tube, levator veli palatini, ascending palatine artery, ascending pharyngeal artery.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q670 — Anatomy: Chorda tympani origin
+
+Chorda tympani is branch of:
+
+- A. Facial nerve
+- B. Trigeminal nerve
+- C. Greater auricular nerve
+- D. External laryngeal nerve
+
+<details><summary>Answer</summary>
+
+**A. Facial nerve** — Chorda tympani branches from facial nerve in facial canal; carries taste from anterior 2/3 tongue and preganglionic parasympathetic to submandibular/sublingual glands.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q671 — Anatomy: Hypoglossal canal
+
+Which passes through hypoglossal canal:
+
+- A. Hypoglossal nerve
+- B. External jugular vein
+- C. Facial nerve
+- D. Mandibular nerve
+
+<details><summary>Answer</summary>
+
+**A. Hypoglossal nerve** — Hypoglossal canal transmits CN XII (+ meningeal branch of ascending pharyngeal artery).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q672 — Anatomy: Levator palpebrae superioris
+
+Antagonist to orbicularis oculi not supplied by facial nerve:
+
+- A. Levator palpebrae superioris
+- B. Orbicularis oris
+- C. Superior oblique
+- D. Inferior oblique
+
+<details><summary>Answer</summary>
+
+**A. Levator palpebrae superioris** — LPS opens the eye; antagonist to orbicularis oculi (closes eye). LPS is supplied by CN III (oculomotor).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q673 — Anatomy: Trigeminal nerve branches
+
+Main branches of trigeminal nerve except:
+
+- A. Mandibular nerve
+- B. Maxillary nerve
+- C. Ophthalmic nerve
+- D. Optic nerve
+
+<details><summary>Answer</summary>
+
+**D. Optic nerve** — Optic nerve (CN II) is not a branch of trigeminal nerve (CN V).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q674 — Anatomy: Retropharyngeal space
+
+Extension of retropharyngeal space between:
+
+- A. Alar fascia and buccopharyngeal fascia
+- B. Buccopharyngeal and prevertebral fascia
+- C. Alar fascia and prevertebral fascia
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Alar fascia and buccopharyngeal fascia** — Retropharyngeal space lies between alar fascia (posteriorly) and buccopharyngeal fascia (anteriorly).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q675 — Anatomy: Straight sinus
+
+Straight sinus formed by:
+
+- A. Inferior sagittal sinus
+- B. Internal jugular veins
+- C. Superior sagittal sinus
+- D. Transverse sinus
+
+<details><summary>Answer</summary>
+
+**A. Inferior sagittal sinus** — Straight sinus = union of inferior sagittal sinus + great cerebral vein of Galen.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q676 — Anatomy: Paracentral lobule supply
+
+Which artery supplies paracentral lobule:
+
+- A. Medial striate artery
+- B. Callosomarginal artery
+- C. Pericallosal artery
+- D. Frontopolar artery
+
+<details><summary>Answer</summary>
+
+**B. Callosomarginal artery** — Paracentral lobule (bladder/leg motor area) supplied by callosomarginal branch of ACA.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q677 — Anatomy: Cerebellar nuclei
+
+Most lateral nucleus of cerebellum:
+
+- A. Dentate
+- B. Globose
+- C. Fastigial
+- D. Emboliform
+
+<details><summary>Answer</summary>
+
+**A. Dentate** — Cerebellar nuclei lateral to medial: Dentate, Emboliform, Globose, Fastigial (Don't Eat Green Figs).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q678 — Anatomy: Supramarginal gyrus
+
+Superior marginal gyrus part of:
+
+- A. Parietal lobe
+- B. Frontal lobe
+- C. Temporal lobe
+- D. Occipital lobe
+
+<details><summary>Answer</summary>
+
+**A. Parietal lobe** — Supramarginal gyrus (part of inferior parietal lobule) is in parietal lobe; involved in language.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q679 — Anatomy: Pars dorsalis
+
+Pars dorsalis part of:
+
+- A. Cerebrum
+- B. Cerebellum
+- C. Pons
+- D. Thalamus
+
+<details><summary>Answer</summary>
+
+**C. Pons** — Pons has ventral (basis pontis) and dorsal (tegmentum) portions; pars dorsalis = dorsal pons tegmentum.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q680 — Anatomy: Arbor vitae
+
+Arbor vitae seen in:
+
+- A. Cerebrum
+- B. Cerebellum
+- C. Pons
+- D. Thalamus
+
+<details><summary>Answer</summary>
+
+**B. Cerebellum** — Arbor vitae ("tree of life") is the tree-like white matter pattern seen in cerebellar sections.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q681 — Physiology: CSF volume
+
+Total volume of CSF:
+
+- A. 150 ml
+- B. 500 ml
+- C. 50 ml
+- D. 800 ml
+
+<details><summary>Answer</summary>
+
+**A. 150 ml** — Total CSF volume ≈ 150 ml; produced at ~500 ml/day; turns over ~3.5 times per day.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q682 — Anatomy: Internal capsule
+
+Internal capsule — all parts except:
+
+- A. Anterior limb
+- B. Sublentiform part
+- C. Retrolentiform
+- D. Prelentiform
+
+<details><summary>Answer</summary>
+
+**D. Prelentiform** — Internal capsule parts: anterior limb, genu, posterior limb, retrolentiform, sublentiform. There is no "prelentiform" part.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q683 — Anatomy: Substantia ferruginea
+
+Substantia ferruginea found in:
+
+- A. Fourth ventricle
+- B. Thalamus
+- C. Midbrain
+- D. Third ventricle
+
+<details><summary>Answer</summary>
+
+**A. Fourth ventricle** — Substantia ferruginea (locus coeruleus) is in the floor of the fourth ventricle (upper pons).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q684 — Anatomy: Infundibular diverticulum
+
+Infundibular diverticulum extension of:
+
+- A. 1st and 2nd ventricles
+- B. 3rd ventricle
+- C. 4th ventricle
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. 3rd ventricle** — Infundibular recess is a downward extension of the 3rd ventricle into the pituitary stalk.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q685 — Anatomy: Complete sulcus
+
+Which is a complete sulcus in brain:
+
+- A. Calcarine sulcus
+- B. Paracentral sulcus
+- C. Both
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Calcarine sulcus** — Calcarine sulcus is a complete (limiting) sulcus that indents the ventricular wall; visible as calcar avis in posterior horn.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q686 — Embryology: Neural tube derivatives
+
+Derived from neural tube except:
+
+- A. Retina
+- B. Brain
+- C. Dorsal root ganglia
+- D. Pineal gland
+
+<details><summary>Answer</summary>
+
+**C. Dorsal root ganglia** — DRG are derived from neural crest cells, not neural tube. Brain, spinal cord, retina, pineal gland are from neural tube.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q687 — Anatomy: Long spinous process
+
+Long spinous process seen in:
+
+- A. Cervical vertebrae
+- B. Thoracic vertebrae
+- C. Lumbar vertebrae
+- D. Sacrum
+
+<details><summary>Answer</summary>
+
+**B. Thoracic vertebrae** — Thoracic vertebrae have long, downward-sloping spinous processes (especially T5–T8).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q688 — Anatomy: Atlantoaxial joint movement
+
+Movement occurring at atlanto-axial joint:
+
+- A. Flexion
+- B. Bending
+- C. Rotation
+- D. Nodding
+
+<details><summary>Answer</summary>
+
+**C. Rotation** — Atlantoaxial joint: rotation (saying "no"). Atlantooccipital joint: flexion/nodding (saying "yes").
+
+</details>
+
+---
+
+---
+
+---
+
+### Q689 — Anatomy: Spinal segmental artery
+
+Spinal segmental artery branch of:
+
+- A. Ascending spinal artery
+- B. Basilar artery
+- C. Posterior spinal artery
+- D. Anterior spinal artery
+
+<details><summary>Answer</summary>
+
+**A. Ascending spinal artery** — Spinal segmental arteries are branches of vertebral/ascending cervical arteries providing radicular supply.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q690 — Anatomy: Permanent mucosal folds
+
+Not a permanent mucosal fold:
+
+- A. Heister's valves
+- B. Transverse rectal fold
+- C. Plicae circulares
+- D. Gastric rugae
+
+<details><summary>Answer</summary>
+
+**D. Gastric rugae** — Gastric rugae are temporary folds that disappear when stomach distends; plicae circulares are permanent.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q691 — Histology: Lipid rafts
+
+Lipid rafts seen in:
+
+- A. Ribosomes
+- B. Mitochondria
+- C. Plasma membrane
+- D. ER
+
+<details><summary>Answer</summary>
+
+**C. Plasma membrane** — Lipid rafts are microdomains in the cell membrane enriched in cholesterol and sphingolipids.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q692 — Physiology: Simple diffusion
+
+Feature of simple diffusion:
+
+- A. Against concentration gradient
+- B. Easy for non-polar substance
+- C. More in thick membrane
+- D. Requires carrier protein
+
+<details><summary>Answer</summary>
+
+**B. Easy for non-polar substance** — Simple diffusion is down concentration gradient; favors small, non-polar, lipid-soluble molecules; no carrier needed.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q693 — Physiology: Transport mechanism
+
+Most common mechanism for transport into cell:
+
+- A. Diffusion
+- B. Primary active transport
+- C. Antiport
+- D. Cotransport
+
+<details><summary>Answer</summary>
+
+**A. Diffusion** — Simple and facilitated diffusion is the most common form of membrane transport.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q694 — Physiology: Equilibrium potential
+
+ECF [K+] = 150 meq/L, ICF [K+] = 5 meq/L. Equilibrium potential for K+:
+
+- A. +60 mV
+- B. -60 mV
+- C. -90 mV
+- D. +90 mV
+
+<details><summary>Answer</summary>
+
+**C. -90 mV** — Normal K+ equilibrium potential ≈ -90 mV (Nernst equation with normal concentrations).
+
+</details>
+
+---
+
+---
+
+---
+
+### Q695 — Physiology: Nernst equation independence
+
+Nernst equation related to equilibrium potential does not depend on:
+
+- A. Concentration gradient
+- B. Electric gradient
+- C. Non-ionic solution
+- D. Concentration of ions in two solutions
+
+<details><summary>Answer</summary>
+
+**C. Non-ionic solution** — Nernst equation requires ionic species; it calculates equilibrium based on concentration ratio and charge.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q696 — Physiology: O2 transport diffusion
+
+Diffusion related to O2 transport across respiratory membrane:
+
+- A. Simple diffusion
+- B. Facilitated diffusion
+- C. Active diffusion
+- D. Osmotic diffusion
+
+<details><summary>Answer</summary>
+
+**A. Simple diffusion** — O2 crosses the alveolar-capillary membrane by simple diffusion down a partial pressure gradient.
+
+</details>
+
+---
+
+---
+
+---
+
+### Q697 — Physiology: ICF measurement
+
+Measurement of intracellular fluid in 50-year-old male done by:
+
+- A. Dilution method
+- B. Evans blue
+- C. D2O
+- D. Indirectly
+
+<details><summary>Answer</summary>
+
+**D. Indirectly** — ICF cannot be measured directly; it is calculated as: ICF = TBW − ECF. TBW = D2O or antipyrine; ECF = inulin, mannitol, or radioactive Na+.
+
+</details>
+
+---
+
+---
+

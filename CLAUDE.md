@@ -37,27 +37,27 @@ Neet-Pg2026/
     ├── STUDY-PLAN.md                ← 16-week phased study schedule
     ├── template.md                  ← schema for adding new questions
     │
-    ├── subject-wise/                ← multi-year pools, one file per subject (3,792 Qs total)
+    ├── subject-wise/                ← multi-year pools, one file per subject (7,324 Qs total)
     │   ├── README.md
-    │   ├── anaesthesia.md           (77 Qs)
-    │   ├── anatomy.md               (357 Qs)
-    │   ├── biochemistry.md          (156 Qs)
-    │   ├── community-medicine.md    (500 Qs)
-    │   ├── dermatology.md           (73 Qs)
-    │   ├── ent.md                   (176 Qs)
-    │   ├── forensic-medicine.md     (105 Qs)
-    │   ├── medicine.md              (288 Qs)
-    │   ├── microbiology.md          (138 Qs)
-    │   ├── obstetrics-gynaecology.md (661 Qs)
-    │   ├── ophthalmology.md         (94 Qs)
-    │   ├── orthopaedics.md          (101 Qs)
-    │   ├── pathology.md             (154 Qs)
-    │   ├── pediatrics.md            (100 Qs)
-    │   ├── pharmacology.md          (147 Qs)
-    │   ├── physiology.md            (349 Qs)
-    │   ├── psychiatry.md            (80 Qs)
-    │   ├── radiology.md             (91 Qs)
-    │   └── surgery.md               (145 Qs)
+    │   ├── anaesthesia.md           (80 Qs)
+    │   ├── anatomy.md               (697 Qs)
+    │   ├── biochemistry.md          (462 Qs)
+    │   ├── community-medicine.md    (744 Qs)
+    │   ├── dermatology.md           (215 Qs)
+    │   ├── ent.md                   (715 Qs)
+    │   ├── forensic-medicine.md     (128 Qs)
+    │   ├── medicine.md              (585 Qs)
+    │   ├── microbiology.md          (264 Qs)
+    │   ├── obstetrics-gynaecology.md (1060 Qs)
+    │   ├── ophthalmology.md         (272 Qs)
+    │   ├── orthopaedics.md          (114 Qs)
+    │   ├── pathology.md             (469 Qs)
+    │   ├── pediatrics.md            (101 Qs)
+    │   ├── pharmacology.md          (329 Qs)
+    │   ├── physiology.md            (574 Qs)
+    │   ├── psychiatry.md            (167 Qs)
+    │   ├── radiology.md             (104 Qs)
+    │   └── surgery.md               (244 Qs)
     │
     ├── 2025/questions.md            ← 200 Qs (full DigiNerve recall set)
     ├── 2024/questions.md            ← 306 Qs (DocTutorials Shift 1+2)
@@ -67,9 +67,9 @@ Neet-Pg2026/
     ├── 2020/questions.md            ← 390 Qs (Medicoholic PYQ)
     ├── 2019/questions.md            ← 381 Qs (Medicoholic + nishantbhushan.in)
     ├── 2018/questions.md            ← 322 Qs (PrepLadder + Medicoholic)
-    ├── 2017/questions.md            ← 258 Qs (Medicoholic PYQ)
-    ├── 2016/questions.md            ← 153 Qs (Medicoholic PYQ)
-    ├── 2015/questions.md            ← 168 Qs (Medicoholic PYQ)
+    ├── 2017/questions.md            ← 263 Qs (Medicoholic NEET-PG 2017)
+    ├── 2016/questions.md            ← 1,871 Qs (Medicoholic PYQ compilation + firstranker.com)
+    ├── 2015/questions.md            ← 1,717 Qs (Medicoholic PYQ compilation)
     │
     ├── staging/                     ← unverified extracted questions pending review
     │   └── README.md
@@ -82,10 +82,10 @@ Neet-Pg2026/
         └── 2022-2024/               ← raw content for recent years
 ```
 
-**Current totals (as of 2026-05-24, post-expansion):**
-- Year-wise: 2,836 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
-- Subject-wise: 3,792 questions across all 19 NBE subjects (full year-wise pool merged in)
-- Combined unique: ~5,000+ distinct stems
+**Current totals (as of 2026-05-25, post-expansion):**
+- Year-wise: 6,108 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
+- Subject-wise: 7,324 questions across all 19 NBE subjects (full year-wise pool merged in)
+- Grand total: ~13,400+ entries across year-wise + subject-wise
 - Gap: 2021 (227 Qs recall only, no official PDF source with answer key)
 - PSM/Community Medicine: 260 Qs (most complete subject)
 - OBG: 491 Qs (subject-wise, extensively expanded)

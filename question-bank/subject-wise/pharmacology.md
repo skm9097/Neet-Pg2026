@@ -2666,3 +2666,3749 @@ HIV patient with MDR-TB. Appropriate regimen?
 
 ---
 
+## Year 2015
+
+### Q148 — Volume of distribution depends upon all
+
+Volume of distribution depends upon all except ?
+
+- A. Drug dose
+- B. Plasma concentration
+- C. Extent of absorption
+- D. Half life of drug
+
+<details><summary>Answer</summary>
+
+**D. Half life of drug** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q149 — High volume of distribution depends on
+
+High volume of distribution depends on ?
+
+- A. High plasma protein binding
+- B. Lipid solubility
+- C. Elimination
+- D. Half life
+
+<details><summary>Answer</summary>
+
+**B. Lipid solubility** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q150 — Physiological antagonists are
+
+Physiological antagonists are ?
+
+- A. Adrenaline and Isoprenaline
+- B. Histamine and adrenaline
+- C. Isoprenaline and propranolal
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Histamine and adrenaline** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q151 — Which of the following is non-selective
+
+Which of the following is non-selective 3rd generation Beta blocker ?
+
+- A. Betaxolol
+- B. Celiprolol
+- C. Carteolol
+- D. Nadolol
+
+<details><summary>Answer</summary>
+
+**C. Carteolol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q152 — Hyoscine is antagonist at which
+
+. Hyoscine is antagonist at which cholinergic receptor?
+
+- A. Muscarinic
+- B. Nicotinic
+- C. Both
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Muscarinic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q153 — Which among the following is renin
+
+Which among the following is renin antagonist?
+
+- A. Losartan
+- B. Benazepril
+- C. Remikiren
+- D. Imidapril
+
+<details><summary>Answer</summary>
+
+**C. Remikiren** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q154 — Antihypertensive drug causing erectile dysfunction
+
+Antihypertensive drug causing erectile dysfunction?
+
+- A. Calcium channel blocker
+- B. ACE inhibitors
+- C. AT 1 receptor antagonists
+- D. 13-blockers
+
+<details><summary>Answer</summary>
+
+**D. 13-blockers** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q155 — Which of the following adverse effect
+
+Which of the following adverse effect of ACE inhibitors is not due to bradykinin ?
+
+- A. Cough
+- B. Angiodema
+- C. Hypotension
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Hypotension** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q156 — Which ACE inhibitor in safe in
+
+Which ACE inhibitor in safe in renal failure ?
+
+- A. Captopril
+- B. Enalapril
+- C. Benazapril
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Benazapril** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q157 — Spironolactone agent should NOT be given
+
+Spironolactone agent: should NOT be given with the following pharmacological
+
+- A. Chlorothiazide
+- B. b-blocker
+- C. ACE inhibitors
+- D. Amlodipine
+
+<details><summary>Answer</summary>
+
+**C. ACE inhibitors** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q158 — Mechanism of action of opioids
+
+Mechanism of action of opioids ?
+
+- A. Inhibition of cyclooxylgenase
+- B. Inhibition of opioid receptors at spinal level
+- C. Inhibition of opioid receptors at supraspinal level
+- D. Inhibition of opioid receptors at spinal and supraspinal level
+
+<details><summary>Answer</summary>
+
+**D. Inhibition of opioid receptors at spinal and supraspinal level** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q159 — Beta blockers used in thyroid storm
+
+Beta blockers used in thyroid storm cause ?
+
+- A. Quick relief of symptoms
+- B. Increased metabolism of thyroxine
+- C. Blockade of thyroxine receptors
+- D. Decreased synthesis of thyroxine
+
+<details><summary>Answer</summary>
+
+**A. Quick relief of symptoms** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q160 — Long acting 13-2 agonist is
+
+Long acting 13-2 agonist is ?
+
+- A. Formoterol
+- B. Isoprenaline
+- C. Salbutamol
+- D. Ephedrine
+
+<details><summary>Answer</summary>
+
+**A. Formoterol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q161 — Mechanism of action of ticagrelor
+
+Mechanism of action of ticagrelor ?
+
+- A. Cox inhibition
+- B. GPIIB/IIIAinhibition
+- C. Inhibition of thromboxane synthase
+- D. P2Y12 receptor antagonist
+
+<details><summary>Answer</summary>
+
+**D. P2Y12 receptor antagonist** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q162 — Mechanism of action of ticgrelor
+
+Mechanism of action of ticgrelor ?
+
+- A. Reversible inhibition of ADP action
+- B. Irreversible inhibition of ADP action
+- C. Reversible inhibition of GPIIb/IIIa
+- D. Irreversible inhibition of GPIIb/IIIa
+
+<details><summary>Answer</summary>
+
+**A. Reversible inhibition of ADP action** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q163 — Which of the following is a
+
+Which of the following is a PAR antagonist ?
+
+- A. Prasugrel
+- B. Ticlopidine
+- C. Tirofiban
+- D. Vorapaxar
+
+<details><summary>Answer</summary>
+
+**D. Vorapaxar** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q164 — Rebound increase in gastric acid secretion
+
+Rebound increase in gastric acid secretion after stopping proton pump inhibitor therapy is due to?
+
+- A. Parietal cell hyperplasia
+- B. Increased histamine release
+- C. Hypergastrinemia
+- D. Hypersensitivity of Ach receptors
+
+<details><summary>Answer</summary>
+
+**C. Hypergastrinemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q165 — Drug of choice for drug induced
+
+Drug of choice for drug induced peptic ulcer ?
+
+- A. Prostaglandin analogues
+- B. H2-receptor antagonists
+- C. Proton pump inhibitors
+- D. Antacids
+
+<details><summary>Answer</summary>
+
+**C. Proton pump inhibitors** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q166 — Statin having longest half life
+
+Statin having longest half life:
+
+- A. Rosuvastatin
+- B. Pravastatin
+- C. Simvastatin
+- D. Lovastatin
+
+<details><summary>Answer</summary>
+
+**A. Rosuvastatin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q167 — Gametocidal antimalarial drug for all species
+
+Gametocidal antimalarial drug for all species of plasmodium ?
+
+- A. Chloroquine
+- B. Quinine
+- C. Primaquine
+- D. Mefloquine
+
+<details><summary>Answer</summary>
+
+**C. Primaquine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q168 — Idoxuridine is used for treatment of
+
+Idoxuridine is used for treatment of ?
+
+- A. Influenza
+- B. RSV
+- C. HSV
+- D. HIV
+
+<details><summary>Answer</summary>
+
+**C. HSV** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q169 — Half life of Nicotine in blood
+
+Half life of Nicotine in blood ?
+
+- A. 15 minutes
+- B. 2 hours
+- C. 5 hours
+- D. 24 hours
+
+<details><summary>Answer</summary>
+
+**B. 2 hours** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q170 — Sex with cadaver is called -
+
+Sex with cadaver is called -
+
+- A. Necrophilia
+- B. Exhibitionism
+- C. Voveyrism
+- D. Undinism
+
+<details><summary>Answer</summary>
+
+**A. Necrophilia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q171 — Sexual gratification by inflicting pain on
+
+Sexual gratification by inflicting pain on partner -
+
+- A. Sodomy
+- B. Sadism
+- C. Necrophilia
+- D. Bestiality
+
+<details><summary>Answer</summary>
+
+**B. Sadism** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q172 — Masochism means TN 09
+
+Masochism means: TN 09
+
+- A. Sexual intercourse with dead body
+- B. Sexual pleasure by contact with articles of opposite sex
+- C. Sexual pleasure by suffering of pain
+- D. Sexual pleasure by self-stimulation
+
+<details><summary>Answer</summary>
+
+**C. Sexual pleasure by suffering of pain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q173 — Sexual gratification obtained by enema is
+
+Sexual gratification obtained by enema is called -
+
+- A. Exhibitionism
+- B. Fetichism
+- C. Klismaphillia
+- D. Frotteurism
+
+<details><summary>Answer</summary>
+
+**C. Klismaphillia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q174 — Absorption elution technique is used for
+
+Absorption elution technique is used for -
+
+- A. Blood group detection
+- B. Species detection
+- C. Seminal stain examination
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Blood group detection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q175 — Test to know the species from
+
+Test to know the species from blood stain is -
+
+- A. Takayama test
+- B. Benzidine test
+- C. Precipitin test
+- D. Teichmann's test
+
+<details><summary>Answer</summary>
+
+**C. Precipitin test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q176 — All of the following are true
+
+All of the following are true for ingestion of acid except -
+
+- A. They are hygroscopic
+- B. Coagulate proteins
+- C. Hemoglobin to hematin
+- D. Systemic symptoms are severe
+
+<details><summary>Answer</summary>
+
+**D. Systemic symptoms are severe** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q177 — Least toxic form of lead is
+
+Least toxic form of lead is -
+
+- A. Lead acetate
+- B. Lead oxide
+- C. Lead carbonate
+- D. Lead sulphide
+
+<details><summary>Answer</summary>
+
+**D. Lead sulphide** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q178 — Black foot disease is caused by
+
+Black foot disease is caused by
+
+- A. Arsenic
+- B. Cadmium
+- C. Lead
+- D. Mercury
+
+<details><summary>Answer</summary>
+
+**A. Arsenic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q179 — Papaver semniferum milk exudes from
+
+Papaver semniferum milk exudes from ?
+
+- A. Leaf
+- B. Root
+- C. Poppy seed
+- D. Unripe capsule
+
+<details><summary>Answer</summary>
+
+**D. Unripe capsule** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q180 — Acid used for forging signature is
+
+Acid used for forging signature is ?
+
+- A. Sulphuric acid
+- B. Nitric acid
+- C. Carbolic acid
+- D. Oxalic acid
+
+<details><summary>Answer</summary>
+
+**D. Oxalic acid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q181 — Thorn apple is
+
+Thorn apple is ?
+
+- A. Dhatura
+- B. Nax vomika
+- C. Opioid
+- D. Cannabis
+
+<details><summary>Answer</summary>
+
+**A. Dhatura** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q182 — Acid injury can be differentiated from
+
+Acid injury can be differentiated from alkali injury by ?
+
+- A. Liquefactive necrosis
+- B. Acid burns are more dangerous
+- C. Perforation is more common
+- D. Affects more commonly esophagus
+
+<details><summary>Answer</summary>
+
+**C. Perforation is more common** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q183 — How many days a person can
+
+How many days a person can live without food and water ?
+
+- A. 1 to 2 days
+- B. 2 to 4 days
+- C. 5 to 7 days
+- D. 10 to 12 days
+
+<details><summary>Answer</summary>
+
+**D. 10 to 12 days** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q184 — MTP can be done by a
+
+MTP can be done by a single doctor till ?
+
+- A. 8 weeks
+- B. 12 weeks
+- C. 20 weeks
+- D. 24 weeks
+
+<details><summary>Answer</summary>
+
+**B. 12 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q185 — Alcohol is taken with aerated soft
+
+Alcohol is taken with aerated soft drinks because -
+
+- A. Absorption is faster
+- B. Effect is increased
+- C. To avoid hangover
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Absorption is faster** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q186 — After death, blood is taken from
+
+After death, blood is taken from ?
+
+- A. Femoral vein
+- B. Antecubital vein
+- C. Jugular vein
+- D. Carotid artery
+
+<details><summary>Answer</summary>
+
+**A. Femoral vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q187 — Multiple drug resistance is transferred through
+
+Multiple drug resistance is transferred through -
+
+- A. Transduction
+- B. Transformation
+- C. Conjugation
+- D. Mutation
+
+<details><summary>Answer</summary>
+
+**C. Conjugation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q188 — True about vibrio parahemolyticus
+
+True about vibrio parahemolyticus ?
+
+- A. Polar flagella
+- B. Non halophilic vibrio
+- C. Non-capsulated
+- D. Requires NaCI
+
+<details><summary>Answer</summary>
+
+**D. Requires NaCI** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q189 — Hansens bacillus is cultured in
+
+Hansen's bacillus is cultured in:
+
+- A. L J medium
+- B. Robertson's cooked meat medium
+- C. Foot pad of mice
+- D. Sabraud's agar
+
+<details><summary>Answer</summary>
+
+**C. Foot pad of mice** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q190 — Draughtsman colonies are seen with
+
+Draughtsman colonies are seen with:
+
+- A. Anthrax
+- B. Pnuemococci
+- C. Pertussis
+- D. Yersenia
+
+<details><summary>Answer</summary>
+
+**B. Pnuemococci** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q191 — Primary complex of M bovis involves
+
+Primary complex of M bovis involves:
+
+- A. Tonsil and lung
+- B. Tonsil and intestine
+- C. Tonsil and skin
+- D. Skin and Intestine
+
+<details><summary>Answer</summary>
+
+**B. Tonsil and intestine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q192 — Hemophilus parainfluenzae requres -
+
+Hemophilus parainfluenzae requres -
+
+- A. Factor V
+- B. Factor X
+- C. Factor V & X
+- D. Factor VII
+
+<details><summary>Answer</summary>
+
+**A. Factor V** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q193 — All are true about listeria except
+
+All are true about listeria except:
+
+- A. Gram positive
+- B. PALCAM agar is used for isolation
+- C. Characteristic tumbling motility at 37°C
+- D. Umbrella shaped growth
+
+<details><summary>Answer</summary>
+
+**C. Characteristic tumbling motility at 37°C** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q194 — Listeria resists phagocytosis in phagosomes (phago
+
+Listeria resists phagocytosis in phagosomes (phagolysosomes) due to:
+
+- A. β-hemolysin
+- B. Caspases
+- C. Cell membrane adhesion molecules
+- D. Opacity associated protein (OAP)
+
+<details><summary>Answer</summary>
+
+**A. β-hemolysin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q195 — Most common form of leptospirosis
+
+Most common form of leptospirosis:
+
+- A. Weil's disease
+- B. Icteric form
+- C. Hepatorenal form
+- D. Anicteric form
+
+<details><summary>Answer</summary>
+
+**D. Anicteric form** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q196 — Vincents angina is caused by Borrelia
+
+Vincent's angina is caused by Borrelia vincentii along with:
+
+- A. Lactobacillus
+- B. Lactobacillus
+- C. Fusobacterium
+- D. Bacteroides
+
+<details><summary>Answer</summary>
+
+**C. Fusobacterium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q197 — Bartonella quintana causes
+
+Bartonella quintana causes:
+
+- A. Trench fever
+- B. Scrub typhus
+- C. Endemic typhus
+- D. Epidemic typhus
+
+<details><summary>Answer</summary>
+
+**A. Trench fever** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q198 — What is trench fever
+
+What is trench fever:
+
+- A. Q-fever
+- B. 5-days fever
+- C. Boutonneuse fever
+- D. Indian tick typhus
+
+<details><summary>Answer</summary>
+
+**B. 5-days fever** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q199 — Pneumonic plague is spread by
+
+Pneumonic plague is spread by:
+
+- A. Bite of infected flae
+- B. Direct contact with infected tissue
+- C. Ingestion of contaminated food
+- D. Droplet infection
+
+<details><summary>Answer</summary>
+
+**D. Droplet infection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q200 — Not true about gas gangrene
+
+Not true about gas gangrene:
+
+- A. Most common cause is Cl perfringens
+- B. Extensive necrosis of muscles
+- C. Cl perfringens produce heat-labile spores
+- D. Metronidazole is the drug of choice
+
+<details><summary>Answer</summary>
+
+**D. Metronidazole is the drug of choice** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q201 — Most sensitive test in syphilis -
+
+Most sensitive test in syphilis -
+
+- A. VDRL
+- B. TP-PA
+- C. RPR
+- D. FTA-ABS
+
+<details><summary>Answer</summary>
+
+**B. TP-PA** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q202 — Brazilian purpuric fever is caused by
+
+Brazilian purpuric fever is caused by:
+
+- A. Bordetella pertussis
+- B. Haemophilus aegypticus
+- C. Haemophilus duceryi
+- D. Haemophilus parinfluenzae
+
+<details><summary>Answer</summary>
+
+**B. Haemophilus aegypticus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q203 — Commonest cause for puerperal sepsis is
+
+Commonest cause for puerperal sepsis is :
+
+- A. Streptococci
+- B. Anaerobes
+- C. Gonococci
+- D. Staphylococci
+
+<details><summary>Answer</summary>
+
+**A. Streptococci** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q204 — All are true about anaerobic infection
+
+All are true about anaerobic infection except -
+
+- A. Most infections are endogenous
+- B. Exudates and swabs are best for culture
+- C. Specimen for UTI is suprapubic aspiration
+- D. They are found normally on skin and GIT
+
+<details><summary>Answer</summary>
+
+**B. Exudates and swabs are best for culture** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q205 — Most common route of infection in
+
+Most common route of infection in pasteurella cellulitis -
+
+- A. Animal bites or scratches
+- B. Aerosols or dust
+- C. Contaminated tissue
+- D. Human to human
+
+<details><summary>Answer</summary>
+
+**A. Animal bites or scratches** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q206 — True about legionella
+
+True about legionella:
+
+- A. Most common mode of transmission is aerosol inhala​tion
+- B. There is no man to man transmission
+- C. Prolonged carrier are common
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**B. There is no man to man transmission** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q207 — Which of the following is non-motile
+
+Which of the following is non-motile:
+
+- A. Pseudomonas aeruginosa
+- B. Burkholderia mallei
+- C. Burkholderia pseudomallei
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Burkholderia mallei** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q208 — Not true about Vi polysaccharide vaccine
+
+Not true about Vi polysaccharide vaccine of typhoid:
+
+- A. Single dose is given
+- B. Revaccination at 3 years
+- C. Given at birth
+- D. Given subcutaneously
+
+<details><summary>Answer</summary>
+
+**C. Given at birth** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q209 — Ehrlichia phagocytophila mainly affects -
+
+Ehrlichia phagocytophila mainly affects -
+
+- A. RBC
+- B. Platelets
+- C. Neutrophils
+- D. Macrophages
+
+<details><summary>Answer</summary>
+
+**C. Neutrophils** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q210 — Not true about corynebacterium hormannii
+
+Not true about corynebacterium hormannii
+
+- A. A diphtheroid
+- B. Non-pathogenic saprophyte
+- C. Toxigenic
+- D. Also known as C pseudodiphthericum
+
+<details><summary>Answer</summary>
+
+**C. Toxigenic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q211 — Heating at 60C for 30 minute
+
+Heating at 60°C for 30 minute would isolate:
+
+- A. Staphylococci
+- B. Enterococci
+- C. Micrococci
+- D. Streptococci
+
+<details><summary>Answer</summary>
+
+**B. Enterococci** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q212 — Most common mode of transmission of
+
+Most common mode of transmission of HIV sexual transmission:
+
+- A. Blood & blood products
+- B. Occupational
+- C. Perinatal
+- D. Breast feeding
+
+<details><summary>Answer</summary>
+
+**A. Blood & blood products** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q213 — Which viral gene acts as carcinogen
+
+Which viral gene acts as carcinogen in causing carcinoma cervix -
+
+- A. P 24 - gene
+- B. E - gene
+- C. L - gene
+- D. H - gene
+
+<details><summary>Answer</summary>
+
+**B. E - gene** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q214 — True about influenza vaccine
+
+True about influenza vaccine:
+
+- A. Live vaccine is used most commonly
+- B. Live vaccine is given by nasal drops
+- C. Killed vaccine is given intramuscular in deltoid
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**B. Live vaccine is given by nasal drops** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q215 — Integration of viral genome into host
+
+Integration of viral genome into host cell chromosome can leads to -
+
+- A. Malignancy
+- B. Latency
+- C. Altered growth
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q216 — HTLV-1 can be transmitted by -
+
+HTLV-1 can be transmitted by -
+
+- A. Blood transfusion
+- B. Droplet inhalation
+- C. Contaminated water
+- D. Animal bite
+
+<details><summary>Answer</summary>
+
+**A. Blood transfusion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q217 — Trypanosoma cruzi is transmitted by
+
+Trypanosoma cruzi is transmitted by:
+
+- A. Tse tse fly
+- B. Reduviid bug
+- C. Culex mosquito
+- D. Sand fly
+
+<details><summary>Answer</summary>
+
+**A. Tse tse fly** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q218 — Amoebiasis is not transmitted by
+
+Amoebiasis is not transmitted by:
+
+- A. Feco-oral route
+- B. Sexual transmission
+- C. Blood and blood products
+- D. Vector transmission
+
+<details><summary>Answer</summary>
+
+**D. Vector transmission** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q219 — Recrudescences are commonly seen in which
+
+Recrudescences are commonly seen in which malaria:
+
+- A. P vivax
+- B. P ovale
+- C. P malariae
+- D. P falciparum
+
+<details><summary>Answer</summary>
+
+**D. P falciparum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q220 — River blindness is caused by -
+
+River blindness is caused by -
+
+- A. Onchocerca
+- B. Loa loa
+- C. Ascaris
+- D. B. malayi
+
+<details><summary>Answer</summary>
+
+**A. Onchocerca** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q221 — True about VDRL test -
+
+True about VDRL test -
+
+- A. Non - specific
+- B. Slide flocculation test
+- C. Best followed for drug therapy
+- D. All
+
+<details><summary>Answer</summary>
+
+**D. All** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q222 — Weil felix reaction in scrub typhus
+
+Weil felix reaction in scrub typhus is/are positive for:
+
+- A. OX -19
+- B. OX-2
+- C. Both OX -19 & OX-2
+- D. OX -K
+
+<details><summary>Answer</summary>
+
+**D. OX -K** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q223 — Primory T-cell deficiency is -
+
+Primory T-cell deficiency is -
+
+- A. Ecto- 5' nucleotidase deficiency
+- B. Common variable immunodeficiency
+- C. DiGeorge syndrome
+- D. Wiskott-Aldrich syndrome
+
+<details><summary>Answer</summary>
+
+**C. DiGeorge syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q224 — Oakley - fulthorpe procedure is -
+
+Oakley - fulthorpe procedure is -
+
+- A. Agglutination test
+- B. Precipitation test
+- C. Single diffusion in one dimension
+- D. Double diffusion in one dimension
+
+<details><summary>Answer</summary>
+
+**A. Agglutination test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q225 — The serum concentration of which of
+
+The serum concentration of which of the following human IgG subclass is maximum ?
+
+- A. IgG 1
+- B. IgG 2
+- C. IgG 3
+- D. IgG 4
+
+<details><summary>Answer</summary>
+
+**A. IgG 1** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q226 — Which of the following is not
+
+Which of the following is not an in vivo test ?
+
+- A. Elek's gel precipitation test
+- B. Schick test
+- C. Lepromin test
+- D. Tuberculin test
+
+<details><summary>Answer</summary>
+
+**A. Elek's gel precipitation test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q227 — Morula form is seen in which
+
+Morula form is seen in which infection ?
+
+- A. Chlamydiae
+- B. Bartonella quintana
+- C. Mycoplasma hominis
+- D. Ehrlichia
+
+<details><summary>Answer</summary>
+
+**D. Ehrlichia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q228 — Drug of choice for Mass therapy
+
+Drug of choice for Mass therapy under filaria control Programme ?
+
+- A. Albendazole
+- B. Ivermectin
+- C. DEC
+- D. Mebendazole
+
+<details><summary>Answer</summary>
+
+**C. DEC** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q229 — Drug of choice for plasmodium vivax
+
+Drug of choice for plasmodium vivax is:
+
+- A. Mefloquine
+- B. Chloroquine
+- C. Artesunate
+- D. Quinine
+
+<details><summary>Answer</summary>
+
+**B. Chloroquine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q230 — Drug NOT used in pulmonary hypertension
+
+Drug NOT used in pulmonary hypertension ‑
+
+- A. Calcium channel blocker
+- B. Endothelin receptor antagonist
+- C. Alpha blocker
+- D. Prostacyclin
+
+<details><summary>Answer</summary>
+
+**C. Alpha blocker** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q231 — All are used for secondary prevention
+
+All are used for secondary prevention of MI except
+
+- A. Aspirin
+- B. Statins
+- C. Beta blockers
+- D. Warfarin
+
+<details><summary>Answer</summary>
+
+**D. Warfarin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q232 — All of the following are characteristic
+
+All of the following are characteristic features of treatment of iron deficiency anemia with oral iron supplements, except
+
+- A. Bioavailability is enhanced with vitamin C
+- B. The proportion of iron absorbed reduces as hemoglobin
+- C. The reticulocyte count should begin to increase in two weeks
+- D. The treatment should be discontinued immediately once
+
+<details><summary>Answer</summary>
+
+**D. The treatment should be discontinued immediately once** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q233 — Which one of the following is
+
+Which one of the following is correct regarding Eaton-Lambert syndrome-
+
+- A. It commonly affects the ocular muscle
+- B. Neostigmine is the drug of choice for this syndrome
+- C. Repeated electrical stimulation enhances muscle power in it.
+- D. It is commonly associated with adenocarcinoma of lung
+
+<details><summary>Answer</summary>
+
+**C. Repeated electrical stimulation enhances muscle power in it.** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q234 — Drug of choice for bubos in
+
+Drug of choice for bubos in a pregnant female is ?
+
+- A. Tetracycline
+- B. Doxycycline
+- C. Ceftriaxone
+- D. Erythromycin
+
+<details><summary>Answer</summary>
+
+**D. Erythromycin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q235 — Mechanism of action of duloxetine is
+
+Mechanism of action of duloxetine is ?
+
+- A. Selective Inhibition of serotonin reuptake
+- B. Selective inhibition of nor-epinephrine reuptake
+- C. Selective inhibition of both serotonin and nor-epinephrine
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Selective inhibition of both serotonin and nor-epinephrine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q236 — Mechanism of action of 5-a reductase *(2016)*
+
+Mechanism of action of 5-a reductase?
+
+- A. Breakage of C4C5 double bond
+- B. Breakage of C-N bond
+- C. Breakage of amide bond
+- D. Breakage of N-N bond
+
+<details><summary>Answer</summary>
+
+**A. Breakage of C4C5 double bond** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q237 — Oxybutynin acts by *(2016)*
+
+Oxybutynin acts by ?
+
+- A. Adrenergic receptor antagonist
+- B. Muscarinic rece8ptor antagonist
+- C. Histaminic antagonist
+- D. Serotonergic antagonist
+
+<details><summary>Answer</summary>
+
+**B. Muscarinic rece8ptor antagonist** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q238 — 38 yr old patient with high *(2016)*
+
+38 yr old patient with high risk of coronary artery disease risk has hypertention, which of the following antihypertensive drugs will be suitable as a first line treatment for this patient?
+
+- A. ACE inhibitors
+- B. Calcium channel blockers
+- C. Beta adrenergic blockers
+- D. Diuretics
+
+<details><summary>Answer</summary>
+
+**A. ACE inhibitors** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q239 — Why adenosine has a short half *(2016)*
+
+Why adenosine has a short half life?
+
+- A. Spontaneous hydrolysis
+- B. Uptake in subcutaneous tissue
+- C. Uptake in RBC and endothelial cells
+- D. Renal excretion
+
+<details><summary>Answer</summary>
+
+**C. Uptake in RBC and endothelial cells** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q240 — Mechanism of action of nicorandil is *(2016)*
+
+Mechanism of action of nicorandil is ?
+
+- A. K* channel blocker
+- B. I(' channel opener
+- C. Na' channel blocker
+- D. Cl- channel blocker
+
+<details><summary>Answer</summary>
+
+**B. I(' channel opener** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q241 — of the following is not true *(2016)*
+
+Which of the following is not true about the mechanism of action of digitalis?
+
+- A. It binds to the intracellular face of Na' ATPase enzyme
+- B. There is rise in intracellular Na'
+- C. It has positive ionotropic action
+- D. Digitalis action is independent of cardiac innervation
+
+<details><summary>Answer</summary>
+
+**A. It binds to the intracellular face of Na' ATPase enzyme** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q242 — Drug of choice for aborting the *(2016)*
+
+Drug of choice for aborting the acute attack of migraine is ?
+
+- A. NSAIDs like indomethacin
+- B. Opioids like morphine
+- C. Triptans like sumatriptan
+- D. Glucocorticoids
+
+<details><summary>Answer</summary>
+
+**C. Triptans like sumatriptan** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q243 — Advantage of formoterol over salmeterol is *(2016)*
+
+Advantage of formoterol over salmeterol is ?
+
+- A. It can be used for prophylaxis in asthmatics
+- B. It has got a faster onset of action
+- C. It is a short acting beta 2 agonist
+- D. It also has beta 1 agonistic action
+
+<details><summary>Answer</summary>
+
+**B. It has got a faster onset of action** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q244 — Mechanism of action of Teriparatide is *(2016)*
+
+Mechanism of action of Teriparatide is ?
+
+- A. Recombinant PTH [rPTH]
+- B. Recombinant calcitonin
+- C. Recombinant insulin
+- D. Recombinant prolactin
+
+<details><summary>Answer</summary>
+
+**A. Recombinant PTH [rPTH]** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q245 — Pegvisomant is *(2016)*
+
+Pegvisomant is ?
+
+- A. Somatostatin antagonist
+- B. Somatotropin antagonist
+- C. GH receptor antagonist
+- D. GH receptor agonist
+
+<details><summary>Answer</summary>
+
+**C. GH receptor antagonist** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q246 — Mechanism of action of Voglibose is *(2016)*
+
+Mechanism of action of Voglibose is :?
+
+- A. p galactosidase inhibitor
+- B. 3 lactase inhibitor
+- C. a glucosidase inhibitor
+- D. 3 glucosidase inhibitor
+
+<details><summary>Answer</summary>
+
+**C. a glucosidase inhibitor** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q247 — Mechanism of action of sulfonylureas is *(2016)*
+
+Mechanism of action of sulfonylureas is ?
+
+- A. Na ATP channel blocker
+- B. K ATP channel blocker
+- C. CI ATP channel blocker
+- D. Ca ATP channel blocker
+
+<details><summary>Answer</summary>
+
+**B. K ATP channel blocker** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q248 — of the following antipsychotics show partial *(2016)*
+
+Which of the following antipsychotics show partial D2 agonist activity?
+
+- A. Aripiprazole
+- B. Clozapine
+- C. Quetiapine
+- D. Ziprasidone
+
+<details><summary>Answer</summary>
+
+**A. Aripiprazole** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q249 — Topical antifungal of choice for aspergillus *(2016)*
+
+Topical antifungal of choice for aspergillus infection of eye is ?
+
+- A. Miconazole
+- B. Clotrimazole
+- C. Econazole
+- D. Fluconazole
+
+<details><summary>Answer</summary>
+
+**B. Clotrimazole** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q250 — of the following is a topical *(2016)*
+
+Which of the following is a topical antifungal agent?
+
+- A. Benzyl benzoate
+- B. Brimetenide
+- C. Butenafine
+- D. Posconazole
+
+<details><summary>Answer</summary>
+
+**C. Butenafine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q251 — Fastest acting anti malarial drug is *(2016)*
+
+Fastest acting anti malarial drug is ?
+
+- A. Chloroquine
+- B. Quinine
+- C. Mefloquine
+- D. Artether
+
+<details><summary>Answer</summary>
+
+**D. Artether** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q252 — Ivermectin is the drug of choice *(2016)*
+
+Ivermectin is the drug of choice for which of the following infections?
+
+- A. Trichuriasis
+- B. Onchocerciasis
+- C. Loiasis
+- D. Trichinosis
+
+<details><summary>Answer</summary>
+
+**B. Onchocerciasis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q253 — of the following causes retinal pigmentation *(2016)*
+
+Which of the following causes retinal pigmentation?
+
+- A. Quinine
+- B. Chloroquine
+- C. Mefloquine
+- D. Atovaquone
+
+<details><summary>Answer</summary>
+
+**B. Chloroquine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q254 — Mechanism of action of Linezolid is *(2016)*
+
+Mechanism of action of Linezolid is :?
+
+- A. Inhibits 30S ribosome subunit of 50S ribosome
+- B. Inhibits 23S ribosome subunit of 50S ribosome
+- C. Inhibits 5S ribosome subunit of 50S ribosome
+- D. Inhibits 5PS. ribosome subunit of 50S ribosome
+
+<details><summary>Answer</summary>
+
+**B. Inhibits 23S ribosome subunit of 50S ribosome** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q255 — Mechanism of action of Niclosamide is *(2016)*
+
+Mechanism of action of Niclosamide is :?
+
+- A. Inhibition of substrate level phosphorylation
+- B. Inhibition of oxidative phosphorylation
+- C. Inhibition of proton efflux pumps
+- D. Increase production of free radicals
+
+<details><summary>Answer</summary>
+
+**B. Inhibition of oxidative phosphorylation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q256 — Drug of choice for surgical prophylaxis *(2016)*
+
+Drug of choice for surgical prophylaxis is :?
+
+- A. Cefaclor
+- B. Ceftizoxime
+- C. Cefazolin
+- D. Cefoperazone
+
+<details><summary>Answer</summary>
+
+**C. Cefazolin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q257 — Vapiprost is a *(2016)*
+
+Vapiprost is a ?
+
+- A. Thromboxane receptor antagonist
+- B. Thromboxane synthetase antagonist
+- C. PGE 1 analogue
+- D. PGI 2 analogue
+
+<details><summary>Answer</summary>
+
+**A. Thromboxane receptor antagonist** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q258 — Mechanism of action of Torcetraprib is *(2016)*
+
+Mechanism of action of Torcetraprib is ?
+
+- A. Bile acid sequestrant
+- B. Sterol absorption inhibitor
+- C. Lipoprotein lipase activator
+- D. CETP inhibitors
+
+<details><summary>Answer</summary>
+
+**D. CETP inhibitors** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q259 — potent H2 antagonist is *(2016)*
+
+Most potent H2 antagonist is :?
+
+- A. Ranitidine
+- B. Cimetidine
+- C. Famotidine
+- D. Nizatidine
+
+<details><summary>Answer</summary>
+
+**C. Famotidine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q260 — Tocilizumab acts as an antagonist at *(2016)*
+
+Tocilizumab acts as an antagonist at which reeptor -
+
+- A. IL I
+- B. IL 2
+- C. IL 6
+- D. TNF
+
+<details><summary>Answer</summary>
+
+**C. IL 6** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q261 — Mechanism of action of Basiliximab is *(2016)*
+
+Mechanism of action of Basiliximab is ?
+
+- A. TNF a inhibitor
+- B. IL 1 antagonist
+- C. IL 2 antagonist
+- D. IL 6 antagonist
+
+<details><summary>Answer</summary>
+
+**C. IL 2 antagonist** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q262 — of the following causes maximum damage *(2016)*
+
+Which of the following causes maximum damage?
+
+- A. Tandem
+- B. Dumdum
+- C. Souvenir
+- D. Piggy
+
+<details><summary>Answer</summary>
+
+**B. Dumdum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q263 — bullet packed with jacket and opens *(2016)*
+
+A bullet packed with jacket and opens at
+
+- A. Dum dum bullet
+- B. Tandem bullet
+- C. Duplex bullet
+- D. Souvenir bullet
+
+<details><summary>Answer</summary>
+
+**A. Dum dum bullet** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q264 — Compound used as primer in weapon *(2016)*
+
+Compound used as primer in weapon is
+
+- A. Potassium chlorate
+- B. Sulphur
+- C. Potassium nitrate
+- D. Nitrocellulose
+
+<details><summary>Answer</summary>
+
+**A. Potassium chlorate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q265 — Destructive power of bullet is determined *(2016)*
+
+Destructive power of bullet is determined by all except
+
+- A. Velocity of bullet
+- B. Weight of bullet
+- C. Shape of bullet
+- D. Kinetic energy
+
+<details><summary>Answer</summary>
+
+**C. Shape of bullet** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q266 — Heat Rupture is characterized by *(2016)*
+
+Heat Rupture is characterized by:
+
+- A. Regular margins
+- B. Irregular margins
+- C. Ruptured blood vessels
+- D. Ruptured Red Blood cells/clotted blood
+
+<details><summary>Answer</summary>
+
+**B. Irregular margins** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q267 — Sexual stimulation obtained through some inanimate *(2016)*
+
+Sexual stimulation obtained through some inanimate object is known as:
+
+- A. Transvestism
+- B. Fetichism
+- C. Voyeurism
+- D. Zoophilia
+
+<details><summary>Answer</summary>
+
+**B. Fetichism** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q268 — Transvestism is *(2016)*
+
+Transvestism is :
+
+- A. Wearing clothes of opposite sex
+- B. Touching ones own private parts to others
+- C. Desire for sexual intercourse with dead bodies
+- D. Orgasm from visualisation part of the body of a woman
+
+<details><summary>Answer</summary>
+
+**A. Wearing clothes of opposite sex** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q269 — of the following is meant by *(2016)*
+
+Which of the following is meant by the term ‘Sin of Gomorrah’?
+
+- A. Oral sex
+- B. Anal sex
+- C. Bestiality
+- D. Lesbianism
+
+<details><summary>Answer</summary>
+
+**A. Oral sex** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q270 — Voyeurism is *(2016)*
+
+Voyeurism is ?
+
+- A. Sexual gratification by watching the act of sexual intercourse
+- B. Use of such objects for sexual gratification
+- C. Sexual gratification is by self pain
+- D. Sexual gratification by rubbing private part
+
+<details><summary>Answer</summary>
+
+**A. Sexual gratification by watching the act of sexual intercourse** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q271 — couple was locked up in a *(2016)*
+
+A couple was locked up in a room with fire around. All of the following are the probable immediate causes of death in such circumstance except:-
+
+- A. Cyanide intoxication
+- B. Suffocation
+- C. Sepsis
+- D. Fat embolism
+
+<details><summary>Answer</summary>
+
+**C. Sepsis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q272 — of the following are CNS stimulants *(2016)*
+
+All of the following are CNS stimulants except?
+
+- A. Amphetamines
+- B. Benzodiazepines
+- C. Cocaine
+- D. Methylphenidate
+
+<details><summary>Answer</summary>
+
+**B. Benzodiazepines** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q273 — Nux vomica seeds contain 2 alkaloids *(2016)*
+
+Nux vomica seeds contain 2 alkaloids, strychnine and :
+
+- A. Hyoscine
+- B. Hyoscyamine
+- C. Brucine
+- D. Atropine
+
+<details><summary>Answer</summary>
+
+**C. Brucine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q274 — sea snake is *(2016)*
+
+A sea snake is:
+
+- A. Neurotoxic
+- B. Hemotoxic
+- C. Musculotoxic
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Musculotoxic** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q275 — Cold Turkey term is used to *(2016)*
+
+'Cold Turkey' term is used to denote which of the following?
+
+- A. Consumption of heroin
+- B. Abrupt cessation of heroin
+- C. Gradual withdrawal of heroin
+- D. Place to withdraw a drug in a group
+
+<details><summary>Answer</summary>
+
+**B. Abrupt cessation of heroin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q276 — are true of opioid withdrawal except *(2016)*
+
+All are true of opioid withdrawal, except: NIMHANS 10; PGI 14
+
+- A. Yawning
+- B. Hallucinations
+- C. Lacrimation
+- D. Piloerection
+
+<details><summary>Answer</summary>
+
+**B. Hallucinations** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q277 — Gigantin is active principle of *(2016)*
+
+Gigantin is active principle of
+
+- A. Plumbago Rosea
+- B. Calotropis
+- C. Ricinus Communis
+- D. P. Zeylanica
+
+<details><summary>Answer</summary>
+
+**B. Calotropis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q278 — Who is the father of modern *(2016)*
+
+Who is the father of modern Microbiology?
+
+- A. Metchnikoff
+- B. Lord Lister
+- C. Louis Pasteur
+- D. Robert Koch
+
+<details><summary>Answer</summary>
+
+**C. Louis Pasteur** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q279 — culture media are used for antibiotic *(2016)*
+
+All culture media are used for antibiotic susceptibility except -
+
+- A. Tetrathionate-F
+- B. Blood agar
+- C. Chocolate agar
+- D. Muller-Hinton agar
+
+<details><summary>Answer</summary>
+
+**A. Tetrathionate-F** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q280 — Savlon contains *(2016)*
+
+Savlon contains
+
+- A. Cetrimide + Chlorhexidine
+- B. Cetrimide + Chlorhexidine + butyl alcohol
+- C. Cetrimide + butyl alcohol
+- D. Cetrimide + Cetavlon
+
+<details><summary>Answer</summary>
+
+**A. Cetrimide + Chlorhexidine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q281 — of the following is a method *(2016)*
+
+Which of the following is a method of Pasteurization
+
+- A. Vat method
+- B. Pasteur method
+- C. Billing method
+- D. Flash method
+
+<details><summary>Answer</summary>
+
+**D. Flash method** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q282 — Laproscope is sterilized by *(2016)*
+
+Laproscope is sterilized by ?
+
+- A. 2% formalin
+- B. 2% glutaraldehyde
+- C. Autoclaving
+- D. Boiling
+
+<details><summary>Answer</summary>
+
+**B. 2% glutaraldehyde** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q283 — Sterilization of culture media containing serum *(2016)*
+
+Sterilization of culture media containing serum is by:
+
+- A. Autoclaving
+- B. Micropore filter
+- C. Gamma radiation
+- D. Gamma radiation
+
+<details><summary>Answer</summary>
+
+**A. Autoclaving** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q284 — DOC for listeria meningitis - *(2016)*
+
+DOC for listeria meningitis -
+
+- A. Ampicillin
+- B. Cefotaxime
+- C. Cefotriaxone
+- D. Ciprofloxacin
+
+<details><summary>Answer</summary>
+
+**A. Ampicillin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q285 — of the following is not mechanism *(2016)*
+
+Which of the following is not mechanism for resistance to MRSA -
+
+- A. Resistance is chromosomally mediated
+- B. Produced mainly by alteration in PBPs
+- C. MRSA resistance is absolutely beta-lactamase independent
+- D. Intrinsic resistance is known
+
+<details><summary>Answer</summary>
+
+**C. MRSA resistance is absolutely beta-lactamase independent** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q286 — Wool-Sorter disease is caused by *(2016)*
+
+Wool-Sorter disease is caused by
+
+- A. Pseudomonas
+- B. Bacillus anthracis
+- C. Vibrio parahemolyticus
+- D. Spirillus minor
+
+<details><summary>Answer</summary>
+
+**B. Bacillus anthracis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q287 — Capsule of Bacillus anthracis is formed *(2016)*
+
+Capsule of Bacillus anthracis is formed of:
+
+- A. Polysaccharide
+- B. Lipopolysaccharide
+- C. Polypeptide
+- D. Long chain fatty acids
+
+<details><summary>Answer</summary>
+
+**C. Polypeptide** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q288 — Confirmatory test for Syphilis is September *(2016)*
+
+Confirmatory test for Syphilis is: September 2010
+
+- A. VDRL
+- B. Rapid plasma reagin test
+- C. FT-ABS
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. FT-ABS** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q289 — Rapid detection of meningococal meningitis is *(2016)*
+
+Rapid detection of meningococal meningitis is
+
+- A. Blood culture
+- B. CSF culture
+- C. PCR
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. PCR** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q290 — Presumptive diagnosis of meningococcal meningitis  *(2016)*
+
+Presumptive diagnosis of meningococcal meningitis is made earliest by -
+
+- A. CSF culture
+- B. PCR
+- C. Latex agglutination
+- D. CFT
+
+<details><summary>Answer</summary>
+
+**C. Latex agglutination** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q291 — Legionnaire disease is caused by *(2016)*
+
+Legionnaire disease is caused by?
+
+- A. Motile gram positive
+- B. Motile gram negative
+- C. Non-motile gram positive
+- D. Non-motile gram negative
+
+<details><summary>Answer</summary>
+
+**B. Motile gram negative** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q292 — Pontiac fever is caused by *(2016)*
+
+Pontiac fever is caused by:
+
+- A. Legionella
+- B. Listeria
+- C. Scrub typhus
+- D. Leptospira
+
+<details><summary>Answer</summary>
+
+**A. Legionella** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q293 — 20 year old man presented with *(2016)*
+
+A 20 year old man presented with abdominal pain, vomiting and bloody diarrhea, his stool sample grew Escherichia coli in pure culture. Which of the following serotype of E.coli is the
+
+- A. O 157:H7
+- B. O 159:H7
+- C. O 107:H7
+- D. O 55:H7
+
+<details><summary>Answer</summary>
+
+**A. O 157:H7** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q294 — Culture media containing potassium tellurite *(2016)*
+
+Culture media containing potassium tellurite
+
+- A. TCBS medium
+- B. Monsur medium
+- C. BYCE medium
+- D. Muller Hinton agar
+
+<details><summary>Answer</summary>
+
+**B. Monsur medium** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q295 — Gonococci has affinity for *(2016)*
+
+Gonococci has affinity for :
+
+- A. Columnar epithelium
+- B. Glandular epithelium
+- C. Stratified sqamous epithelium
+- D. Squamous epithelium
+
+<details><summary>Answer</summary>
+
+**A. Columnar epithelium** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q296 — Stalactite growth in ghee broth is *(2016)*
+
+Stalactite growth in ghee broth is due to the following organism?
+
+- A. Y.pestis
+- B. T.palladium
+- C. H.influenzae
+- D. C.diphtheriae
+
+<details><summary>Answer</summary>
+
+**A. Y.pestis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q297 — Cyst with scolex and hooks is *(2016)*
+
+Cyst with scolex and hooks is seen in
+
+- A. T. saginatu
+- B. Fish tapeworm
+- C. Echinococcus
+- D. H. diminuta
+
+<details><summary>Answer</summary>
+
+**C. Echinococcus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q298 — Pulmonary eosinophilia is found in infection *(2016)*
+
+Pulmonary eosinophilia is found in infection with ?
+
+- A. Babesia
+- B. Malaria
+- C. Strongyloides
+- D. Trypanosoma
+
+<details><summary>Answer</summary>
+
+**C. Strongyloides** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q299 — Adherence of E histolytica to colonic *(2016)*
+
+Adherence of E. histolytica to colonic mucosa is mediated by ?
+
+- A. Fibronectin
+- B. Lectin
+- C. Collagen
+- D. Fucose
+
+<details><summary>Answer</summary>
+
+**B. Lectin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q300 — Calabar swelling is produced by *(2016)*
+
+Calabar swelling is produced by?
+
+- A. Onchocerca volvulus
+- B. Loa loa
+- C. Burgia malayi
+- D. Wuchereria bancrofti
+
+<details><summary>Answer</summary>
+
+**B. Loa loa** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q301 — Maurers dots are seen in which *(2016)*
+
+Maurer's dots are seen in which species of plasmodium?
+
+- A. P ovale
+- B. P vivax
+- C. P falciparum
+- D. P malariae
+
+<details><summary>Answer</summary>
+
+**C. P falciparum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q302 — Cholangiocarcinoma is caused by *(2016)*
+
+Cholangiocarcinoma is caused by:
+
+- A. Giardia lamblia
+- B. Clonorchis infestation
+- C. Paragonimus infestation
+- D. Ascaris infestation
+
+<details><summary>Answer</summary>
+
+**B. Clonorchis infestation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q303 — Rash of chickenpox can be differentiated *(2016)*
+
+Rash of chickenpox can be differentiated from the rash of small pox by all except ?
+
+- A. Pleomorphic
+- B. Centripetal
+- C. Deep-seated
+- D. Unilocular
+
+<details><summary>Answer</summary>
+
+**C. Deep-seated** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q304 — Negri bodies are characteristic of September *(2016)*
+
+Negri bodies are characteristic of: September 2008,
+
+- A. Tetanus
+- B. Rabies
+- C. Polio
+- D. AIDS
+
+<details><summary>Answer</summary>
+
+**B. Rabies** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q305 — CCR5 mutation is related to which *(2016)*
+
+CCR5 mutation is related to which condition ?
+
+- A. Resistance to HIV infection
+- B. Susceptibility to HIV infection
+- C. Resistance to HBV infection
+- D. Susceptibility to HBV infection
+
+<details><summary>Answer</summary>
+
+**A. Resistance to HIV infection** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q306 — 52-year-old male with HIV presents with *(2016)*
+
+A 52-year-old male with HIV presents with profuse, watery diarrhea of 5 days’ duration. A biopsy of the small intestine is shown here.What is the most likely cause of this patient’s symptoms?
+
+- A. Cryptosporidium.
+- B. Giardia.
+- C. Acanthamoeba.
+- D. Histoplasma.
+
+<details><summary>Answer</summary>
+
+**A. Cryptosporidium.** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q307 — Hair perforation test is positive in *(2016)*
+
+Hair perforation test is positive in infection with ?
+
+- A. Trichophyton
+- B. Microsporum
+- C. Epidermophyton
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Trichophyton** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q308 — Ectothrix is caused by *(2016)*
+
+Ectothrix is caused by ?
+
+- A. T tansurans
+- B. T violaceum
+- C. Microsporum canis
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Microsporum canis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q309 — Chlamydospore is formed by *(2016)*
+
+Chlamydospore is formed by ?
+
+- A. Candida albicans
+- B. Candida pscitasi
+- C. Histoplasma
+- D. Cryptococcus
+
+<details><summary>Answer</summary>
+
+**A. Candida albicans** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q310 — True about cryptococcus are all except *(2016)*
+
+True about cryptococcus are all except
+
+- A. Primarily infects lung
+- B. Urease negative
+- C. India-ink is used
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**B. Urease negative** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q311 — 60 years old farmer has developed *(2016)*
+
+A 60 years old farmer has developed swelling on the sole of foot with discharging yellow granules. The diagnosis is -
+
+- A. Fungal mycetoma
+- B. Eumycetoma
+- C. Actinomycosis
+- D. Candidiasis
+
+<details><summary>Answer</summary>
+
+**C. Actinomycosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q312 — Lipophilic fungus is *(2016)*
+
+Lipophilic fungus is ?
+
+- A. Malassezia furfur
+- B. Candida
+- C. Cryptococcus
+- D. Histoplasma
+
+<details><summary>Answer</summary>
+
+**A. Malassezia furfur** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q313 — Not true about sporothrix Schenckii *(2016)*
+
+Not true about sporothrix Schenckii ?
+
+- A. Dimorphic fungus
+- B. Asteroid bodies
+- C. Copper penny bodies
+- D. Common in gardners
+
+<details><summary>Answer</summary>
+
+**C. Copper penny bodies** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q314 — effective antibody for precipitation *(2016)*
+
+Most effective antibody for precipitation ?
+
+- A. IgM
+- B. IgG
+- C. IgA
+- D. IgD
+
+<details><summary>Answer</summary>
+
+**B. IgG** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q315 — Candidias of penis is *(2016)*
+
+Candidias of penis is ?
+
+- A. Thrush
+- B. Leukoplakia
+- C. Balanitis
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Balanitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q316 — Health index characteristics are all except *(2016)*
+
+Health index characteristics are all except ?
+
+- A. Validity
+- B. Reliability
+- C. Affordability
+- D. Feasibility
+
+<details><summary>Answer</summary>
+
+**C. Affordability** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q317 — Only disease which is eradicated worldwide *(2016)*
+
+Only disease which is eradicated worldwide ?
+
+- A. Small pox
+- B. Polio
+- C. Diphtheria
+- D. Measles
+
+<details><summary>Answer</summary>
+
+**A. Small pox** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q318 — Endemic disease is defined as - *(2016)*
+
+Endemic disease is defined as -
+
+- A. Disease occuring regularly in expected frequency
+- B. Disease occuring irregularly
+- C. Disease occuring in excess of expected freqency
+- D. Disease affecting a large population
+
+<details><summary>Answer</summary>
+
+**A. Disease occuring regularly in expected frequency** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q319 — Secondary attack rate is a measure *(2016)*
+
+Secondary attack rate is a measure of-
+
+- A. Communicability
+- B. Lethality
+- C. Strength of association
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Communicability** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q320 — Berkesonian bias is a type of *(2016)*
+
+Berkesonian bias is a type of ?
+
+- A. Admission rate bias
+- B. Interviever bias
+- C. Information bias
+- D. Recall bias
+
+<details><summary>Answer</summary>
+
+**A. Admission rate bias** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q321 — Live influenza vaccine is given by *(2016)*
+
+Live influenza vaccine is given by which route ?
+
+- A. Intradermal
+- B. Subcutaneous
+- C. Intramuscular
+- D. Intra nasal
+
+<details><summary>Answer</summary>
+
+**D. Intra nasal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q322 — Initial treatment for most patient of *(2016)*
+
+Initial treatment for most patient of growth hormone secreting pituitary adenoma is
+
+- A. Transphenoidal surgical resection
+- B. Somatostatin analogs
+- C. GH rector antagonists
+- D. Dopamine agonists
+
+<details><summary>Answer</summary>
+
+**A. Transphenoidal surgical resection** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q323 — Drug of choice for palliative treatment *(2016)*
+
+Drug of choice for palliative treatment of pancreatic carcinoma
+
+- A. Erlotinib
+- B. Gemcitabine
+- C. Paclitaxel
+- D. Cyclophosphomide
+
+<details><summary>Answer</summary>
+
+**B. Gemcitabine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q324 — Drug of choice for infantile spasm *(2016)*
+
+Drug of choice for infantile spasm is?
+
+- A. Vigabatrin
+- B. Adrenocorticotropic hormone (ACTH)
+- C. Ethosuximide
+- D. Carbamazepine
+
+<details><summary>Answer</summary>
+
+**A. Vigabatrin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q325 — 40 years old male patient presents *(2016)*
+
+A 40 years old male patient presents with multiple erythematous annular lesions with peripheral scales arranged predominantly on trunk. Treatment of choice is?
+
+- A. Topical steroids
+- B. Systemic steroids
+- C. Systemic Azathioprine
+- D. Topical antifungal
+
+<details><summary>Answer</summary>
+
+**A. Topical steroids** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q326 — Half life of Technetium 99 is *(2016)*
+
+Half life of Technetium 99 is:
+
+- A. 2 hours
+- B. 6 hours
+- C. 12 hours
+- D. 24 hours
+
+<details><summary>Answer</summary>
+
+**B. 6 hours** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q327 — Half life of tritium is - *(2016)*
+
+Half life of tritium is -
+
+- A. 10.2 years
+- B. 12.3 years
+- C. 15.5 years
+- D. 20.7 years
+
+<details><summary>Answer</summary>
+
+**B. 12.3 years** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q328 — Treatment of choice for generalized anxiety *(2016)*
+
+Treatment of choice for generalized anxiety disorder is?
+
+- A. Benzodiazepines
+- B. Neuroleptics
+- C. Beta blockers
+- D. Barbiturates
+
+<details><summary>Answer</summary>
+
+**A. Benzodiazepines** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q329 — Drug of choice for Tourette syndrome *(2016)*
+
+Drug of choice for Tourette syndrome is?
+
+- A. Haloperidol
+- B. Amantidine
+- C. Propanolol
+- D. Diazepam
+
+<details><summary>Answer</summary>
+
+**A. Haloperidol** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+

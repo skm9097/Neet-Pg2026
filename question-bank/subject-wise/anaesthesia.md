@@ -1381,3 +1381,62 @@ A patient develops erythema, facial flushing, and hypotension after muscle relax
 
 ---
 
+## Year 2015
+
+### Q78 — The most appropriate circuit for ventilating
+
+The most appropriate circuit for ventilating a spontaneously breathing infant during anaesthesia is?
+
+- A. jackson Rees modification of Ayre's T piece
+- B. Mapleson A or Magill's circuit
+- C. Mapleson C or Waters to and fro canister
+- D. Bains circuit
+
+<details><summary>Answer</summary>
+
+**A. jackson Rees modification of Ayre's T piece** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q79 — Which one of the following agents
+
+Which one of the following agents sensitizes the myocardium to catecholamines -
+
+- A. Isoflurane
+- B. Ether
+- C. Halothane
+- D. Propofol
+
+<details><summary>Answer</summary>
+
+**C. Halothane** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q80 — All of the following statements about
+
+All of the following statements about neuromuscular blockage produced by succinylcholine are true, except:
+
+- A. No fade on Train of four stimulation
+- B. Fade on tetanic stimulation
+- C. No post tetanic facilitation
+- D. Train of four ratio > 0.4
+
+<details><summary>Answer</summary>
+
+**B. Fade on tetanic stimulation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+

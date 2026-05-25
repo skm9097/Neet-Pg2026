@@ -1286,3 +1286,2971 @@ A patient with gluten sensitivity has intensely itchy vesicular lesions on exten
 
 ---
 
+## Year 2015
+
+### Q74 — All of the following are premalignant
+
+All of the following are premalignant conditions except -
+
+- A. Bowen's Disease
+- B. Senile Keratosis
+- C. Xeroderma Pigmentosum
+- D. Pyoderma Gangrenosum
+
+<details><summary>Answer</summary>
+
+**D. Pyoderma Gangrenosum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q75 — Which of the following organism has
+
+Which of the following organism has a role to play in Seborrhic dermatitis ?
+
+- A. Pityrosporum ovale
+- B. Canida albicans
+- C. Propionibacterium
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Pityrosporum ovale** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q76 — Pruritus is a feature of which
+
+Pruritus is a feature of which of the following ?
+
+- A. Pemphigus foliaceous
+- B. Pemphigus vulgaris
+- C. Bullous Pemphigoid
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Bullous Pemphigoid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q77 — Maculae cerulea is seen in
+
+Maculae cerulea is seen in ?
+
+- A. Pediculosis hominis corporis
+- B. Pediculosis capitis
+- C. Scabies
+- D. Lupus erythematosus
+
+<details><summary>Answer</summary>
+
+**A. Pediculosis hominis corporis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q78 — Most common site for atopic dermatitis
+
+Most common site for atopic dermatitis -
+
+- A. Scalp
+- B. Trunk
+- C. Popliteal fossa
+- D. Knees
+
+<details><summary>Answer</summary>
+
+**C. Popliteal fossa** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q79 — True regarding Bowens disease is
+
+True regarding Bowen's disease is ?
+
+- A. In situ BCC
+- B. More common in dark skinned people
+- C. HSV infection plays a role
+- D. Chronic sun damage plays a role
+
+<details><summary>Answer</summary>
+
+**D. Chronic sun damage plays a role** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q80 — Lines of Blaschko represent
+
+Lines of Blaschko represent:
+
+- A. Lines along lymphatics
+- B. Lines along blood vessels
+- C. Lines along nerves
+- D. Lines of development
+
+<details><summary>Answer</summary>
+
+**D. Lines of development** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q81 — All are true about actinic lichen
+
+All are true about actinic lichen planus except ?
+
+- A. Associated with severe pruritus
+- B. Autoimmune etiology
+- C. Voilaceous brown papules
+- D. Usually affects exposed areas of body
+
+<details><summary>Answer</summary>
+
+**A. Associated with severe pruritus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q82 — Muehrcke lines in nails are seen
+
+Muehrcke lines in nails are seen in
+
+- A. Nephrotic syndrome
+- B. Barrter syndrome
+- C. Nail patella syndrome
+- D. Acute tubular necrosis
+
+<details><summary>Answer</summary>
+
+**A. Nephrotic syndrome** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q83 — Which of the following drug can
+
+Which of the following drug can lead to pemphigus?
+
+- A. Penicillamine
+- B. Isoniazid
+- C. Carbamazepine
+- D. Furosemide
+
+<details><summary>Answer</summary>
+
+**A. Penicillamine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q84 — Periungual desquamation, which is a characteristic
+
+Periungual desquamation, which is a characteristic feature of Kawasaki syndrome, occurs at ?
+
+- A. 1st-2nd week
+- B. 2nd-3rd week
+- C. 3rd-4th week
+- D. 4th_5th week
+
+<details><summary>Answer</summary>
+
+**B. 2nd-3rd week** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q85 — Arm tongue time is
+
+Arm tongue time is ?
+
+- A. 13 secs
+- B. 15 secs
+- C. 20 secs
+- D. 40 secs
+
+<details><summary>Answer</summary>
+
+**A. 13 secs** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q86 — Post dural puncture headache usually presents
+
+Post dural puncture headache usually presents with in ?
+
+- A. 0-6 Hrs
+- B. 6-12 Hrs
+- C. 12-72 Hrs
+- D. 72-96 Hrs
+
+<details><summary>Answer</summary>
+
+**C. 12-72 Hrs** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q87 — Contraindication to neruaxial block is
+
+Contraindication to neruaxial block is ?
+
+- A. Hypertension
+- B. Renal disease
+- C. Clotting disorders
+- D. Diabetes
+
+<details><summary>Answer</summary>
+
+**C. Clotting disorders** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q88 — Long acting local anaesthetic
+
+Long acting local anaesthetic ?
+
+- A. Procaine
+- B. Lignocaine
+- C. Prilocaine
+- D. Dibucaine
+
+<details><summary>Answer</summary>
+
+**D. Dibucaine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q89 — Composition of soda lime is NaOH
+
+Composition of soda lime is: NaOH - Ca (OH)2 - KOH - Moisture
+
+- A. 4% - 90% - 1% - 5%
+- B. 4% - 80% - 1% - 15%
+- C. 80% - 10% - 5% - 5%
+- D. 15% - 80% - 1% - 4%
+
+<details><summary>Answer</summary>
+
+**B. 4% - 80% - 1% - 15%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q90 — Suxamethonium acts through which channels
+
+Suxamethonium acts through which channels ?
+
+- A. Sodium channels
+- B. Potassium channels
+- C. Calcium channels
+- D. Chloride channels
+
+<details><summary>Answer</summary>
+
+**A. Sodium channels** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q91 — Only available depolarizing muscle relaxant is
+
+Only available depolarizing muscle relaxant is ?
+
+- A. Decamethonium
+- B. Suxamethonium
+- C. Mivacurium
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Suxamethonium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q92 — All of the following about MRI
+
+All of the following about MRI are correct except:
+
+- A. MRI is contraindicated in patients with pacemakers
+- B. MRI is useful for evaluating bone marrow
+- C. MRI is better for calcified lesions
+- D. MRI is useful for localizing small lesione in the brain
+
+<details><summary>Answer</summary>
+
+**C. MRI is better for calcified lesions** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q93 — Amount of radiation exposure in 1
+
+Amount of radiation exposure in 1 CT- scan of chest is
+
+- A. 1 mSv
+- B. 3 mSv
+- C. 5 mSv
+- D. 7 mSv
+
+<details><summary>Answer</summary>
+
+**D. 7 mSv** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q94 — Which of the following is a
+
+Which of the following is a late severe adverse effect of radiation therapy
+
+- A. Nausea
+- B. Erythema
+- C. Anemia
+- D. Osteoradionecrosis
+
+<details><summary>Answer</summary>
+
+**D. Osteoradionecrosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q95 — Which common tracer in PET is
+
+Which common tracer in PET is usually administered in the form of a glucose sugar
+
+- A. Oxygen 15
+- B. Fluorine 18
+- C. Saccharide - 12
+- D. Aluminum - 12
+
+<details><summary>Answer</summary>
+
+**B. Fluorine 18** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q96 — Intraoperative radiotherapy is used in
+
+Intraoperative radiotherapy is used in
+
+- A. Gastric cancer
+- B. Colon carcinoma
+- C. Pancreatic carcinoma
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q97 — Precisely directed high dose radiation is
+
+Precisely directed high dose radiation is used in
+
+- A. IMRT
+- B. EBRT
+- C. Stereotectic radiosurgery
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. IMRT** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q98 — Not used for internal radiotherapy
+
+Not used for internal radiotherapy
+
+- A. Iodine-125
+- B. Iodine-131
+- C. Cobalt-60
+- D. Iridium-192
+
+<details><summary>Answer</summary>
+
+**B. Iodine-131** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q99 — Radioiodine generates which type of radiation
+
+Radioiodine generates which type of radiation
+
+- A. X-rays
+- B. Alpha and beta rays
+- C. Beta and gamma rays
+- D. Alpha and beta rays
+
+<details><summary>Answer</summary>
+
+**C. Beta and gamma rays** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q100 — Ring enhancing lesion on CT is
+
+Ring enhancing lesion on CT is a feature of
+
+- A. Toxoplasmsis
+- B. Intracranial hemorrhage
+- C. Cysts
+- D. Hamartoma
+
+<details><summary>Answer</summary>
+
+**A. Toxoplasmsis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q101 — About lipoma, radiologically true is -
+
+About lipoma, radiologically true is -
+
+- A. Low attenuation on CT
+- B. Anechoic on US
+- C. Hypo-intense on T1 -MRI
+- D. Hypo-intense on T2-MRI
+
+<details><summary>Answer</summary>
+
+**A. Low attenuation on CT** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q102 — Ultrasonographic finding of autosomal recessive po
+
+Ultrasonographic finding of autosomal recessive polycystic kidney disease [ARPKD] are all except
+
+- A. Cysts more than 2 cm
+- B. Corticomedullary differentiation is eventually lost
+- C. Enlarged kidney
+- D. Oligohydramnios
+
+<details><summary>Answer</summary>
+
+**A. Cysts more than 2 cm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q103 — Cobra head appearance on excretory urography
+
+Cobra head appearance on excretory urography is suggestive of:
+
+- A. Horseshoe kidney
+- B. Duplication of renal pelvis
+- C. Simple cyst of kidney
+- D. Ureterocele
+
+<details><summary>Answer</summary>
+
+**D. Ureterocele** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q104 — CT of gastric Volvulus shows -
+
+CT of gastric Volvulus shows -
+
+- A. Shortened twisted stomach
+- B. Enlarged twisted stomach
+- C. Normal twisted stomach
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Enlarged twisted stomach** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q105 — Sausage finger appearance is seen in
+
+Sausage finger appearance is seen in -
+
+- A. Psoriatic arthritis
+- B. Rickets
+- C. Hyperthyroidism
+- D. Addison's disease
+
+<details><summary>Answer</summary>
+
+**A. Psoriatic arthritis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q106 — Skyline view X-ray is useful in
+
+Skyline view X-ray is useful in diagnosing -
+
+- A. Patellofemoral problem
+- B. Radioulnars problem
+- C. Tibiofibular problem
+- D. Skull fracture
+
+<details><summary>Answer</summary>
+
+**A. Patellofemoral problem** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q107 — Theory of human motivation was given
+
+Theory of human motivation was given by ?
+
+- A. Pavlov
+- B. Abraham Maslow
+- C. Alios Alzheimer
+- D. Aaron Beck
+
+<details><summary>Answer</summary>
+
+**B. Abraham Maslow** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q108 — Illusion is
+
+Illusion is:
+
+- A. A false unshaken belief not keeping one's sociao​cultural
+- B. Perception without stimuli
+- C. Abnormal perception by a sensory misinterpretation of actual
+- D. Fear of closed spaces
+
+<details><summary>Answer</summary>
+
+**C. Abnormal perception by a sensory misinterpretation of actual** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q109 — year old male believes that his
+
+year old male believes that his penis is decreasing in size everyday and one day it will disappear one day and he will die. Diagnosis is ?
+
+- A. Obsession
+- B. Somatization
+- C. Hypochondriasis
+- D. Delusion disorder
+
+<details><summary>Answer</summary>
+
+**D. Delusion disorder** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q110 — Most common substance of abuse in
+
+Most common substance of abuse in India ?
+
+- A. Cannabis
+- B. Tobacco
+- C. Alcohol
+- D. Opium
+
+<details><summary>Answer</summary>
+
+**B. Tobacco** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q111 — In Neuroleptic malignant syndrome, cause of
+
+In Neuroleptic malignant syndrome, cause of death is ?
+
+- A. Respiratory failure
+- B. Liver failure
+- C. Drug toxicity
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Respiratory failure** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q112 — Trichophagia is characterized by
+
+Trichophagia is characterized by?
+
+- A. Compulsive pulling of hair
+- B. Compulsive eating of hair
+- C. Compulsive shopping
+- D. Compulsive stealing
+
+<details><summary>Answer</summary>
+
+**B. Compulsive eating of hair** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q113 — Jamais vu is -
+
+Jamais vu is -
+
+- A. Illusion that what one is hearing, one has heard previously
+- B. A unfamiliar thought regarded as repetition of a previous
+- C. Unfamiliar situations or events feel strangely familiar
+- D. Feeling of strangeness to familiar situation
+
+<details><summary>Answer</summary>
+
+**D. Feeling of strangeness to familiar situation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q114 — Which of the following is not
+
+Which of the following is not true about sleep ?
+
+- A. REM sleep comes earlier than NREM sleep
+- B. REM sleep is also called paradoxical sleep
+- C. Sleep walking comes in NREM sleep
+- D. Dreams come in REM sleep
+
+<details><summary>Answer</summary>
+
+**A. REM sleep comes earlier than NREM sleep** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q115 — Gamma waves of REM sleep in
+
+Gamma waves of REM sleep in sleep cycle are associated with ?
+
+- A. Intense attention
+- B. Subconscious thinking
+- C. Deep subconscious thinking
+- D. Deep sleep
+
+<details><summary>Answer</summary>
+
+**A. Intense attention** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q116 — Main difference between anorexia nervosa and
+
+Main difference between anorexia nervosa and bulimia nervosa lies in:
+
+- A. Symptomatology
+- B. Weight
+- C. Gender
+- D. Age
+
+<details><summary>Answer</summary>
+
+**B. Weight** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q117 — Eating disorder with normal weight is
+
+Eating disorder with normal weight is?
+
+- A. Anorexia nervosa
+- B. Bulimia nervosa
+- C. Binge eating disorder
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Bulimia nervosa** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q118 — Binge eating disorder is characterized by
+
+Binge eating disorder is characterized by ?
+
+- A. Normal weight
+- B. Weight loss
+- C. Obesity
+- D. Self induced vomiting
+
+<details><summary>Answer</summary>
+
+**C. Obesity** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q119 — Tricyclic antidepressants have all of the
+
+Tricyclic antidepressants have all of the following actions except ?
+
+- A. Anticholinergic action
+- B. MAO inhibition
+- C. Block 5-HT or NE reuptake
+- D. Causes sedation
+
+<details><summary>Answer</summary>
+
+**B. MAO inhibition** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q120 — Drug not used in prophylaxis of
+
+Drug not used in prophylaxis of MD P ?
+
+- A. Haloperidol
+- B. Lithium
+- C. Carbamazepine
+- D. Valproate
+
+<details><summary>Answer</summary>
+
+**A. Haloperidol** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q121 — Tourette syndrome is a type of
+
+Tourette syndrome is a type of ?
+
+- A. Tic disorder
+- B. Mental retardation disorder
+- C. Seizure disorder
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Tic disorder** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q122 — General paralysis of insane is associated
+
+General paralysis of insane is associated with ?
+
+- A. Neurosyphillis
+- B. Alzheimer's disease
+- C. Parkinson's disease
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Neurosyphillis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q123 — Sign of oppositionalism in a young
+
+Sign of oppositionalism in a young child is due to?
+
+- A. Mental retardation
+- B. Organic mental disorder
+- C. Mental distress
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Mental distress** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q124 — All of the following are associated
+
+All of the following are associated increased REM latency, except ?
+
+- A. First night effect
+- B. SSRIs
+- C. Narcolepsy
+- D. Restless leg syndrome
+
+<details><summary>Answer</summary>
+
+**C. Narcolepsy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q125 — Drug with no mood stabilizing property
+
+Drug with no mood stabilizing property is -
+
+- A. Lithium
+- B. Lamotrigine
+- C. Imipramine
+- D. Carbamazepine
+
+<details><summary>Answer</summary>
+
+**C. Imipramine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q126 — Haloperidol induced extarpyramidal side effects ar
+
+Haloperidol induced extarpyramidal side effects are treated by ?
+
+- A. Benzodiazepines
+- B. Barbiturates
+- C. Anticholinergic drugs
+- D. SSRIs
+
+<details><summary>Answer</summary>
+
+**C. Anticholinergic drugs** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+### Q127 — Most common complication of modified ECT
+
+Most common complication of modified ECT
+
+- A. Intracerebellar Bleed
+- B. Fracture spine
+- C. Body ache
+- D. Amnesia
+
+<details><summary>Answer</summary>
+
+**D. Amnesia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+
+## Year 2016
+
+### Q128 — Liposome drug delivery system is used *(2016)*
+
+Liposome drug delivery system is used for all except ?
+
+- A. Vincristine
+- B. Amphotericin B
+- C. Hyoscine
+- D. Amikacin
+
+<details><summary>Answer</summary>
+
+**C. Hyoscine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q129 — common tumor of oropharynx is *(2016)*
+
+Most common tumor of oropharynx is
+
+- A. Squamous cell carcinoma
+- B. Adenocarcinoma
+- C. Melanoma
+- D. Salivary gland tumors
+
+<details><summary>Answer</summary>
+
+**A. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q130 — Pseudogerontoxon is seen in *(2016)*
+
+Pseudogerontoxon is seen in
+
+- A. Vernal keratopathy
+- B. Choroidal melanoma
+- C. Trachoma
+- D. Retinoblastoma
+
+<details><summary>Answer</summary>
+
+**A. Vernal keratopathy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q131 — Visual examination is used as screening *(2016)*
+
+Visual examination is used as screening test for
+
+- A. Melanoma
+- B. Breast cancer
+- C. Thyroid cancer
+- D. Testicular cancer
+
+<details><summary>Answer</summary>
+
+**A. Melanoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q132 — Acral lentigines type of malignant melanoma *(2016)*
+
+Acral lentigines type of malignant melanoma occurs in -
+
+- A. Face
+- B. Nape of neck
+- C. Mucosa
+- D. Sun exposed areas
+
+<details><summary>Answer</summary>
+
+**C. Mucosa** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q133 — MENOPAUSE is diagnosed by *(2016)*
+
+MENOPAUSE is diagnosed by ?
+
+- A. Estradiol <20 pg/ml
+- B. Progesterone <40 ng/dl
+- C. FSH>40 IU/L
+- D. LH > 20 IU/L
+
+<details><summary>Answer</summary>
+
+**C. FSH>40 IU/L** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q134 — velocity of sperm is *(2016)*
+
+The velocity of sperm is ?
+
+- A. 1-2 cm/hr
+- B. 2-4 cm/min
+- C. 1-4 mm/min
+- D. 1-4 mm/hr
+
+<details><summary>Answer</summary>
+
+**C. 1-4 mm/min** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q135 — After ejaculation semen liquefies in *(2016)*
+
+After ejaculation semen liquefies in ?
+
+- A. 10 minutes
+- B. 30 minutes
+- C. 75 minutes
+- D. 120 minutes
+
+<details><summary>Answer</summary>
+
+**B. 30 minutes** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q136 — Alpha subunit of hCG is similar *(2016)*
+
+Alpha subunit of hCG is similar to ?
+
+- A. FSH
+- B. LH
+- C. TSH
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q137 — pelvic inlet usually is considered to *(2016)*
+
+The pelvic inlet usually is considered to be contracted if its shortest anteroposterior diameter is less than -
+
+- A. 12 cm
+- B. 10 cm
+- C. 8 cm
+- D. 14 cm
+
+<details><summary>Answer</summary>
+
+**B. 10 cm** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q138 — Azoospermia with normal FSH would indicate *(2016)*
+
+Azoospermia with normal FSH would indicate ?
+
+- A. Hypothalamic failure
+- B. Testicular failure
+- C. Obstruction of vas defrens
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Obstruction of vas defrens** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q139 — CRL when cardiac activity can be *(2016)*
+
+CRL when cardiac activity can be detected earliest by TVS -
+
+- A. 1-4mm
+- B. 1 cm
+- C. 6-7mm
+- D. 2-4 cm
+
+<details><summary>Answer</summary>
+
+**A. 1-4mm** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q140 — Surgical excision of corpus luteum before *(2016)*
+
+Surgical excision of corpus luteum before weeks of gestation, results in miscarriage
+
+- A. 6-7
+- B. 9-11
+- C. 11-12
+- D. 12-14
+
+<details><summary>Answer</summary>
+
+**A. 6-7** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q141 — MVA syringe is used for *(2016)*
+
+MVA syringe is used for ?
+
+- A. First trimester MTP
+- B. 2nd trimester MTP
+- C. Vacuum delivery
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. First trimester MTP** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q142 — Woman has 100 ml blood loss *(2016)*
+
+Woman has 100 ml blood loss every 30 days. This is called as ?
+
+- A. Menorrhagia
+- B. Polymenorrhea
+- C. Hypomenorrhea
+- D. Normal menses
+
+<details><summary>Answer</summary>
+
+**A. Menorrhagia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q143 — In IVF embryos are transferred back *(2016)*
+
+In IVF, embryos are transferred back to uterine cavity at cells stage ?
+
+- A. 2
+- B. 2-4
+- C. 4-8
+- D. 8-16
+
+<details><summary>Answer</summary>
+
+**C. 4-8** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q144 — With which of the following events *(2016)*
+
+With which of the following events, the feto maternal haemorrhage risk is the least ?
+
+- A. Amniocentesis
+- B. Cordocentrsis
+- C. Chorionic villus sampling
+- D. Abruption
+
+<details><summary>Answer</summary>
+
+**D. Abruption** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q145 — Infertility is defined as *(2016)*
+
+Infertility is defined as ?
+
+- A. Inability to conceive after 1 year of regular unprotected
+- B. Inability to conceive after 1 year of marriage
+- C. Inability to conceive after 2 years of marriage
+- D. Inability to conceive in spite of 2 years of regular unprotected
+
+<details><summary>Answer</summary>
+
+**A. Inability to conceive after 1 year of regular unprotected** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q146 — Cord prolapse is least likely with *(2016)*
+
+Cord prolapse is least likely with -
+
+- A. Transverse lie
+- B. Footling breech
+- C. Oligohydroamnios
+- D. Floating head
+
+<details><summary>Answer</summary>
+
+**C. Oligohydroamnios** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q147 — After IUFD when does the mother *(2016)*
+
+After IUFD, when does the mother develop DIC -
+
+- A. 48 hours
+- B. 1-2 weeks
+- C. 3-4 weeks
+- D. 6 weeks
+
+<details><summary>Answer</summary>
+
+**C. 3-4 weeks** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q148 — Earliest sign after IUFD is *(2016)*
+
+Earliest sign after IUFD is ?
+
+- A. Overlapping of skull bones
+- B. Hyperflexion of spine
+- C. Gas in great vessel
+- D. Over crowding of ribs
+
+<details><summary>Answer</summary>
+
+**C. Gas in great vessel** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q149 — True about Gartners cyst is *(2016)*
+
+True about Gartners cyst is ?
+
+- A. Retention cyst in remnants of Wolffian duct
+- B. Arises from mullerian duct
+- C. Commonly arises from cervix
+- D. Impulse on coughing
+
+<details><summary>Answer</summary>
+
+**A. Retention cyst in remnants of Wolffian duct** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q150 — If the rectal mucosa is injured *(2016)*
+
+If the rectal mucosa is injured, it is which degree of Perineal Tear ?
+
+- A. First
+- B. Second
+- C. Third
+- D. Fourth
+
+<details><summary>Answer</summary>
+
+**D. Fourth** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q151 — HPL has activity similar to which *(2016)*
+
+HPL has activity similar to which hormone ?
+
+- A. Oxytocin
+- B. Growth hormone
+- C. Insulin
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Growth hormone** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q152 — Dilatation & evacuation is done for *(2016)*
+
+Dilatation & evacuation is done for all ecxept ?
+
+- A. Inevitable abortion
+- B. Incomplete abortion
+- C. Threatened abortion
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Threatened abortion** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q153 — WHO normal Hb value for a *(2016)*
+
+WHO normal Hb value for a non pregnant adult female is ?
+
+- A. 10 gm/di
+- B. 11 gm /dl
+- C. 12 gm/dl
+- D. 13 gm/dl
+
+<details><summary>Answer</summary>
+
+**C. 12 gm/dl** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q154 — of the following epidermal layer is *(2016)*
+
+Which of the following epidermal layer is dead layer?
+
+- A. Stratum basale
+- B. Stratum spinosum
+- C. Stratum corneum
+- D. Stratum granulosum
+
+<details><summary>Answer</summary>
+
+**C. Stratum corneum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q155 — Langerhans cell are seen in which *(2016)*
+
+Langerhans cell are seen in which layer of skin?
+
+- A. Stratum basal
+- B. Stratum carneum
+- C. Stratum granulosum
+- D. Stratum spinosum
+
+<details><summary>Answer</summary>
+
+**D. Stratum spinosum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q156 — Increase in the thickness of the *(2016)*
+
+Increase in the thickness of the prickle cell layer of the epidermis is called?
+
+- A. Spongiosis
+- B. Acanthosis
+- C. Hypergranulosis
+- D. Hyperkeratosis
+
+<details><summary>Answer</summary>
+
+**B. Acanthosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q157 — Substance common in skin and hair *(2016)*
+
+Substance common in skin and hair is?
+
+- A. Keratin
+- B. Laminin
+- C. Nectin
+- D. Vimentin
+
+<details><summary>Answer</summary>
+
+**A. Keratin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q158 — of the following is a melanising *(2016)*
+
+Which of the following is a melanising agent?
+
+- A. Methoxsalen
+- B. Dapsone
+- C. Minocycline
+- D. Kojic acid
+
+<details><summary>Answer</summary>
+
+**A. Methoxsalen** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q159 — Fordyce spots involve *(2016)*
+
+Fordyce spots involve?
+
+- A. Penis
+- B. Tongue
+- C. Fingers
+- D. Nails
+
+<details><summary>Answer</summary>
+
+**A. Penis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q160 — common etiology of erythema multiforme is *(2016)*
+
+Most common etiology of erythema multiforme is?
+
+- A. Idiopathic
+- B. Drugs
+- C. HSV
+- D. TB
+
+<details><summary>Answer</summary>
+
+**A. Idiopathic** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q161 — common pattern of onychomycosis is *(2016)*
+
+Most common pattern of onychomycosis is?
+
+- A. Distal and lateral subungual
+- B. Proximal subungual
+- C. White superficial
+- D. Total dystrophic
+
+<details><summary>Answer</summary>
+
+**A. Distal and lateral subungual** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q162 — of the following is not a *(2016)*
+
+Which of the following is not a feature of dermatomyositis?
+
+- A. 'V' sign
+- B. Holster sign
+- C. Pokiloderma
+- D. Groove sign
+
+<details><summary>Answer</summary>
+
+**D. Groove sign** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q163 — Not a feature of candidal intertrigo *(2016)*
+
+Not a feature of candidal intertrigo is?
+
+- A. Obesity is a risk factor
+- B. C. albicans is the most common causative species
+- C. Central scaling
+- D. Satellite lesions
+
+<details><summary>Answer</summary>
+
+**C. Central scaling** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q164 — Woronoffs ring is a feature of *(2016)*
+
+Woronoff's ring is a feature of?
+
+- A. Psoriasis
+- B. Lichen planus
+- C. Pityriasis rosea
+- D. Pemphigus
+
+<details><summary>Answer</summary>
+
+**A. Psoriasis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q165 — of the following is not a *(2016)*
+
+Which of the following is not a feature of lichen planus?
+
+- A. Pterygium
+- B. Spontaneous healing
+- C. Scarring alopecia
+- D. Not premalignant
+
+<details><summary>Answer</summary>
+
+**D. Not premalignant** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q166 — First generation topical retinoid is *(2016)*
+
+First generation topical retinoid is?
+
+- A. Retinoic acid
+- B. Adapalene
+- C. Tazarotene
+- D. Acitretin
+
+<details><summary>Answer</summary>
+
+**A. Retinoic acid** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q167 — Jock itch is caused by *(2016)*
+
+Jock itch is caused by?
+
+- A. Epidermophyton floccosum
+- B. Candida albicans
+- C. Trichophyton tonsurans
+- D. Malassezia furfur
+
+<details><summary>Answer</summary>
+
+**A. Epidermophyton floccosum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q168 — Hertoghes sign is seen in *(2016)*
+
+Hertoghe's sign is seen in?
+
+- A. Atopic dermatitis
+- B. Cutaneous TB
+- C. Lichen planus
+- D. Psoriasis
+
+<details><summary>Answer</summary>
+
+**A. Atopic dermatitis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q169 — Preferred concentration of minoxidil for female *(2016)*
+
+Preferred concentration of minoxidil for female androgenetic alopecia is?
+
+- A. 2%
+- B. 5%
+- C. 8%
+- D. 10%
+
+<details><summary>Answer</summary>
+
+**A. 2%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q170 — Normal epidermal turnover time is *(2016)*
+
+Normal epidermal turnover time is?
+
+- A. 1 week
+- B. 2 weeks
+- C. 3 weeks
+- D. 4 weeks
+
+<details><summary>Answer</summary>
+
+**C. 3 weeks** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q171 — Pityriasis rosea clears with in *(2016)*
+
+Pityriasis rosea clears with in?
+
+- A. 1-2 weeks
+- B. 2-4 weeks
+- C. 4-8 weeks
+- D. 6-12 weeks
+
+<details><summary>Answer</summary>
+
+**B. 2-4 weeks** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q172 — Alopecia universalis is *(2016)*
+
+Alopecia universalis is?
+
+- A. Loss of all the scalp hair
+- B. Loss of all body hair
+- C. Loss hair at the scalp margin
+- D. Male pattern hair loss
+
+<details><summary>Answer</summary>
+
+**B. Loss of all body hair** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q173 — Multiple psoriatic lesions on hands *(2016)*
+
+Multiple psoriatic lesions on hands.
+
+- A. NBUVB
+- B. Systemic methotrexate
+- C. Topical steroids and salicylic acid
+- D. Systemic steroids
+
+<details><summary>Answer</summary>
+
+**C. Topical steroids and salicylic acid** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q174 — False about Langers lines is *(2016)*
+
+False about Langer's lines is?
+
+- A. Remain constant throughout life time of a person
+- B. Correspond to the collagen fibers in dermis
+- C. Incision along these lines produces better scar
+- D. Skin along these lines is least flexible
+
+<details><summary>Answer</summary>
+
+**A. Remain constant throughout life time of a person** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q175 — common type of cutaneous mastocytosis is *(2016)*
+
+Most common type of cutaneous mastocytosis is?
+
+- A. Solitary mastocytoma
+- B. Urticaria pigmentosa
+- C. Telangiectasia macularis eruptiva perstans
+- D. Diffuse erythrodermic
+
+<details><summary>Answer</summary>
+
+**B. Urticaria pigmentosa** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q176 — Volcano sign is seen in *(2016)*
+
+Volcano sign is seen in?
+
+- A. Leprosy
+- B. Leishmaniasis
+- C. Lupus vulgaris
+- D. DLE
+
+<details><summary>Answer</summary>
+
+**B. Leishmaniasis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q177 — common metal responsible for contact dermatitis *(2016)*
+
+Most common metal responsible for contact dermatitis is ?
+
+- A. Gold
+- B. Silver
+- C. Nickel
+- D. Mercury
+
+<details><summary>Answer</summary>
+
+**C. Nickel** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q178 — of the following is true about *(2016)*
+
+Which of the following is true about xeroderma pigmentosa?
+
+- A. Autosomal dominant
+- B. Good long term prognosis
+- C. Purine dimmers
+- D. DNA repair defect
+
+<details><summary>Answer</summary>
+
+**D. DNA repair defect** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q179 — Nevus simplex commonly presents at *(2016)*
+
+Nevus simplex commonly presents at ?
+
+- A. Face
+- B. Trunk
+- C. Legs
+- D. Hand
+
+<details><summary>Answer</summary>
+
+**A. Face** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q180 — In mechanical ventilation peak pressure in *(2016)*
+
+In mechanical ventilation, peak pressure in inspiration denotes ?
+
+- A. Compliance of lung
+- B. Capacity of inspiratory muscles
+- C. Airway resistance
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Airway resistance** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q181 — American anesthetic association says that clopidog *(2016)*
+
+American anesthetic association says that clopidogrel should be withheld how many days before surgery?
+
+- A. 1 day
+- B. 1 week
+- C. 3 weeks
+- D. 4 weeks
+
+<details><summary>Answer</summary>
+
+**B. 1 week** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q182 — Etomidate is not used for long *(2016)*
+
+Etomidate is not used for long term infusion because?
+
+- A. Results in adrenal suppression
+- B. May cause vasospasm
+- C. Results in cardiac arrhythmias
+- D. May cause increase in ICT
+
+<details><summary>Answer</summary>
+
+**A. Results in adrenal suppression** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q183 — Succinylcholine is contraindicated in *(2016)*
+
+Succinylcholine is contraindicated in?
+
+- A. Hyperkalemia
+- B. Hypokalemia
+- C. Hypercalcemia
+- D. Hypocalcemia
+
+<details><summary>Answer</summary>
+
+**A. Hyperkalemia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q184 — Intra-arterial thiopentone injection leads to *(2016)*
+
+Intra-arterial thiopentone injection leads to?
+
+- A. Ischemia
+- B. Vasodilatation
+- C. Vomiting
+- D. Hypertension
+
+<details><summary>Answer</summary>
+
+**A. Ischemia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q185 — Size of LMA for a 15kg *(2016)*
+
+Size of LMA for a 15kg child is?
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**B. 2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q186 — Type E circuit is used for *(2016)*
+
+Type E circuit is used for?
+
+- A. Spontaneous ventilation
+- B. Controlled ventilation
+- C. Children
+- D. An used for all of the above indications
+
+<details><summary>Answer</summary>
+
+**C. Children** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q187 — Radiation protection shields are made up *(2016)*
+
+Radiation protection shields are made up of:
+
+- A. Copper
+- B. Silver
+- C. Lead
+- D. Tin
+
+<details><summary>Answer</summary>
+
+**C. Lead** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q188 — Soap bubble appearance on MRI brain *(2016)*
+
+Soap bubble appearance on MRI brain is characteristic of?
+
+- A. Tubercular meningitis
+- B. Neurocysticercosis
+- C. Cryptococcal cysts
+- D. Ependymoma
+
+<details><summary>Answer</summary>
+
+**C. Cryptococcal cysts** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q189 — T2 image in MRI is - *(2016)*
+
+T2 image in MRI is -
+
+- A. Good to detect pathology
+- B. Good to detect anatomy
+- C. Good for both
+- D. Good for none
+
+<details><summary>Answer</summary>
+
+**A. Good to detect pathology** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q190 — CSF on MRI appears *(2016)*
+
+CSF on MRI appears:
+
+- A. Hyperintense on T1 weighed image and hypointense on T2
+- B. Hypointense on T1 weighed image and hyperintense on T2
+- C. Hyperintense on T1 and T2 weighed images
+- D. Hypointense on T1 and T2 weighed images
+
+<details><summary>Answer</summary>
+
+**B. Hypointense on T1 weighed image and hyperintense on T2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q191 — MIBG dose is - *(2016)*
+
+MIBG dose is -
+
+- A. 40-80MBq
+- B. 80-100MBq
+- C. 100-120MBq
+- D. 120-150MBq
+
+<details><summary>Answer</summary>
+
+**A. 40-80MBq** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q192 — maximum permissible level of occupational exposure *(2016)*
+
+The maximum permissible level of occupational exposure to radiation is...per year -
+
+- A. 5 rad
+- B. 2 rad.
+- C. 10 rad
+- D. 50 rad
+
+<details><summary>Answer</summary>
+
+**A. 5 rad** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q193 — Radiographic sign characteristic of pulmonary edem *(2016)*
+
+Radiographic sign characteristic of pulmonary edema is -
+
+- A. Westermark's sign
+- B. Hampton's hump
+- C. Palla sign
+- D. Bat wing sign
+
+<details><summary>Answer</summary>
+
+**D. Bat wing sign** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q194 — Snow storm appearance on chest X-ray *(2016)*
+
+Snow storm appearance on chest X-ray is seen in -
+
+- A. Anthracosis
+- B. Byssinosis
+- C. Silicosis
+- D. Bagassosis
+
+<details><summary>Answer</summary>
+
+**C. Silicosis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q195 — Droop lily sign is seen in *(2016)*
+
+"Droop lily sign" is seen in -
+
+- A. "Droop lily sign" is seen in
+- B. Duplicated collecting system
+- C. Chronic pyelonephritis
+- D. Hypernephroma
+
+<details><summary>Answer</summary>
+
+**B. Duplicated collecting system** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q196 — Sonographic appearance of hydatid cyst is *(2016)*
+
+Sonographic appearance of hydatid cyst is -
+
+- A. Hyperechoic aseptate lesion
+- B. Hypoechoic aseptate lesion
+- C. Hyperechoic septate lesion
+- D. Hypoechoic septate lesion
+
+<details><summary>Answer</summary>
+
+**D. Hypoechoic septate lesion** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q197 — Roentgen is the unit of *(2016)*
+
+Roentgen is the unit of:
+
+- A. Radioactivity
+- B. Radiation exposure
+- C. Absorbed dose
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Radiation exposure** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q198 — SI unit of radioactivity is March *(2016)*
+
+SI unit of radioactivity is: March 2013 (c, f)
+
+- A. Rem
+- B. Rad
+- C. Becuerel
+- D. Curie
+
+<details><summary>Answer</summary>
+
+**C. Becuerel** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q199 — SI unit of absorbed dose is *(2016)*
+
+SI unit of absorbed dose is -
+
+- A. Becquerel
+- B. Columb/cm
+- C. Gray
+- D. Sievert [Sv]
+
+<details><summary>Answer</summary>
+
+**C. Gray** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q200 — Stenvers view is used for - *(2016)*
+
+Stenver's view is used for -
+
+- A. Superior orbital foramen
+- B. Inferior orbital foramen
+- C. Internal auditory canal
+- D. Sella turcica
+
+<details><summary>Answer</summary>
+
+**C. Internal auditory canal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q201 — Acute myocarditis schintigraphy is done with *(2016)*
+
+Acute myocarditis schintigraphy is done with -
+
+- A. Thallium
+- B. Technetium
+- C. Gallium
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Gallium** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q202 — Safe light in radiographic dark room *(2016)*
+
+Safe light in radiographic dark room is ideally should be of following color -
+
+- A. Red
+- B. Yellow
+- C. Purple
+- D. Blue
+
+<details><summary>Answer</summary>
+
+**A. Red** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q203 — Commonly used type of radiation in *(2016)*
+
+Commonly used type of radiation in radiotherapy is:
+
+- A. Alpha rays
+- B. Beta rays
+- C. Gamma rays
+- D. X-rays
+
+<details><summary>Answer</summary>
+
+**C. Gamma rays** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q204 — photosensitive material used in X- rays *(2016)*
+
+The photosensitive material used in X- rays films consist of:
+
+- A. Cellulose
+- B. Silver bromide
+- C. Zinc sulphide
+- D. Cadmium tungstate
+
+<details><summary>Answer</summary>
+
+**B. Silver bromide** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q205 — 40 year old married male thinks *(2016)*
+
+A 40 year old married male thinks that he is multitalented and is always overconfident. He never listens to his family or friends. Infact whenever anyone gives him any advice, he thinks
+
+- A. Borderline personality disorder
+- B. Schizoid personality disorder
+- C. Paranoid personality disorder
+- D. Histrionic personality disorder
+
+<details><summary>Answer</summary>
+
+**C. Paranoid personality disorder** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q206 — Characteristic of histrionic personality disorder  *(2016)*
+
+Characteristic of histrionic personality disorder is?
+
+- A. Violation of rules of society
+- B. Attention - seeking behavior
+- C. Unstable interpersonal relationship
+- D. Grandiose behavior
+
+<details><summary>Answer</summary>
+
+**B. Attention - seeking behavior** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q207 — Risk factor for suicide is *(2016)*
+
+Risk factor for suicide is?
+
+- A. Increased serotonin
+- B. Drug abuse
+- C. Female sex
+- D. Married person
+
+<details><summary>Answer</summary>
+
+**B. Drug abuse** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q208 — Functional somatic disorder is *(2016)*
+
+Functional somatic disorder is?
+
+- A. Somatization disorder
+- B. Chronic fatigue syndrome
+- C. Hypochondriasis
+- D. Body dysmorphic disorder
+
+<details><summary>Answer</summary>
+
+**B. Chronic fatigue syndrome** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q209 — DHAT syndrome is *(2016)*
+
+DHAT syndrome is?
+
+- A. Passage of blood in urine
+- B. Passage of semen in urine
+- C. Passage of pus in urine
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Passage of semen in urine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q210 — Suicide rate in India is *(2016)*
+
+Suicide rate in India is?
+
+- A. 10.5 /100,000
+- B. 12.5/ 100,000
+- C. 14.5/ 100,000
+- D. 18/ 100,000
+
+<details><summary>Answer</summary>
+
+**A. 10.5 /100,000** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q211 — of the following is not a *(2016)*
+
+Which of the following is not a culture bound syndrome?
+
+- A. Amok
+- B. Latah
+- C. Dhat
+- D. Von-Gogh
+
+<details><summary>Answer</summary>
+
+**D. Von-Gogh** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q212 — Scatologia is *(2016)*
+
+Scatologia is?
+
+- A. Eating disorder
+- B. Sleep disorder
+- C. Paraphilia
+- D. Defense mechanism
+
+<details><summary>Answer</summary>
+
+**C. Paraphilia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q213 — Loading dose of diazepam for alcohol *(2016)*
+
+Loading dose of diazepam for alcohol withdrawal is?
+
+- A. 80mg
+- B. 50mg
+- C. 40mg
+- D. 20mg
+
+<details><summary>Answer</summary>
+
+**D. 20mg** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q214 — of the following is not a *(2016)*
+
+Which of the following is not a side effect of quetiapine?
+
+- A. Dry mouth
+- B. Hair loss
+- C. Sudden cardiac death
+- D. Dyspepsia
+
+<details><summary>Answer</summary>
+
+**B. Hair loss** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+---
+
+---
+
+### Q215 — Other 28 children developed chickenpox within *(2016)*
+
+Other 28 children developed chickenpox within next 2 week what is the SAR of chickenpox?
+
+- A. 60%
+- B. 70%
+- C. 80%
+- D. 90%
+
+<details><summary>Answer</summary>
+
+**C. 80%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+
+
+---
+
+---
+

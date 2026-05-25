@@ -1804,3 +1804,24 @@ Neonate born to HIV-positive mother (viral load 1200 copies/mL). Recommended ARV
 
 ---
 
+## Year 2017
+
+### Q101 — condition shown in the CT Scan image
+
+Identify the condition shown in the CT Scan image below.
+
+- A. Dandy walker malformation
+- B. Cerebellar vermis hypoplasia
+- C. Mega cisterna magna
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Dandy walker malformation** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#185 | OPTIONS_GENERATED: false -->
+
+---
+
