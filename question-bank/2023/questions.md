@@ -5,41 +5,9 @@
 
 ---
 
-## Microbiology
-
-### Q1 — Dengue presentation
-
-A patient from Delhi with fever, arthralgia, petechial rash for 3 days; Hb 9, WBC 9000, platelets 20,000, prolonged BT, normal CT. Most likely?
-
-- A. Brucellosis
-- B. Malaria
-- C. Scrub typhus
-- D. Dengue
-
-<details><summary>Answer</summary>
-
-**D. Dengue** — Thrombocytopenia + petechiae + Delhi (endemic) + arthralgia ("break-bone fever"). Aedes aegypti vector.
-</details>
-
-### Q2 — Trichomonas characteristics
-
-True about *Trichomonas vaginalis*?
-
-- A. Cannot be cultured
-- B. Twitching motility on wet saline mount
-- C. Cysts seen on wet mount
-- D. Not sexually transmitted
-
-<details><summary>Answer</summary>
-
-**B. Twitching motility on wet saline mount** — Pear-shaped flagellate. Cultured on Diamond's medium. Sexually transmitted; no cyst form.
-</details>
-
----
-
 ## Anatomy
 
-### Q3 — Locked jaw + TMJ disc
+### Q1 — Locked jaw + TMJ disc
 
 A student with locked jaw while yawning. Which muscle attaches to the TMJ articular disc?
 
@@ -52,8 +20,7 @@ A student with locked jaw while yawning. Which muscle attaches to the TMJ articu
 
 **A. Lateral pterygoid** — Superior head inserts into the articular disc; spasm/derangement causes TMJ dysfunction.
 </details>
-
-### Q4 — Portal-systemic anastomosis (oesophageal varices)
+### Q2 — Portal-systemic anastomosis (oesophageal varices)
 
 A patient with abdominal pain, jaundice, portal hypertension. Anastomosis between which veins?
 
@@ -68,510 +35,7 @@ A patient with abdominal pain, jaundice, portal hypertension. Anastomosis betwee
 </details>
 
 ---
-
-## Biochemistry
-
-### Q5 — Pellagra
-
-Patient with diarrhoea, dermatitis, dementia.
-
-- A. B3 (niacin) deficiency
-- B. B1 deficiency
-- C. B6 deficiency
-- D. B12 deficiency
-
-<details><summary>Answer</summary>
-
-**A. B3 deficiency (pellagra)** — Classic 3 D's. Casal's necklace (photosensitive dermatitis around neck).
-</details>
-
-### Q6 — Hypoglycaemia + muscle cramps
-
-A young boy with hypoglycaemia and muscle cramps on exertion; decreased serum lactate and glucose.
-
-- A. McArdle disease
-- B. Hers disease
-- C. Cori disease
-- D. Andersen disease
-
-<details><summary>Answer</summary>
-
-**A. McArdle disease** — Myophosphorylase deficiency (GSD V). Failure of lactate rise on exercise (second-wind phenomenon).
-</details>
-
----
-
-## Radiology
-
-### Q7 — Parietal swelling since birth
-
-A 2-month-old with parietal swelling since birth, not crossing suture lines.
-
-- A. Subgaleal haematoma
-- B. Cephalhaematoma
-- C. Caput succedaneum
-- D. Encephalocele
-
-<details><summary>Answer</summary>
-
-**B. Cephalhaematoma** — Subperiosteal; doesn't cross sutures; resolves over weeks.
-</details>
-
-### Q8 — Sterile pyuria + putty kidney
-
-A patient with abdominal pain, sterile pyuria, X-ray features of calcified kidney.
-
-- A. Putty kidney
-- B. Nephrocalcinosis
-- C. Staghorn calculus
-- D. Psoas calcification
-
-<details><summary>Answer</summary>
-
-**A. Putty kidney** — End-stage genitourinary TB → autonephrectomy with caseous calcification. Sterile pyuria is the clue.
-</details>
-
----
-
-## Ophthalmology
-
-### Q9 — Right homonymous hemianopia
-
-A female with vision loss in the right halves of both eyes (right homonymous hemianopia). Lesion location?
-
-- A. Left optic tract
-- B. Optic radiation
-- C. Optic chiasma
-- D. Right optic tract
-
-<details><summary>Answer</summary>
-
-**A. Left optic tract** — Right homonymous hemianopia = left retrochiasmal lesion (tract, LGN, radiation, or cortex).
-</details>
-
-### Q10 — Kayser–Fleischer ring
-
-A 20-year-old male with a golden ring on the iris. Next investigation?
-
-- A. α1-antitrypsin
-- B. α-fetoprotein
-- C. Serum iron
-- D. Serum ceruloplasmin
-
-<details><summary>Answer</summary>
-
-**D. Serum ceruloplasmin** — KF ring → Wilson's disease (decreased ceruloplasmin, copper accumulation in Descemet's membrane).
-</details>
-
----
-
-## Surgery
-
-### Q11 — Verrucous carcinoma penis
-
-A 55-year-old male with verrucous carcinoma around glans, no enlarged inguinal nodes. Management?
-
-- A. Total penectomy
-- B. CO₂ laser excision
-- C. Topical 5-FU
-- D. Partial penectomy
-
-<details><summary>Answer</summary>
-
-**D. Partial penectomy** — Adequate when 2 cm clearance preserves functional stump.
-</details>
-
-### Q12 — APR complication — first vessel ligation
-
-Most common complication after ligating the first vessel during abdominoperineal resection (IMA).
-
-- A. Parasympathetic — bladder dysfunction + retrograde ejaculation
-- B. Sympathetic — bladder dysfunction + impotence
-- C. Sympathetic — retrograde ejaculation + bladder dysfunction
-- D. Sympathetic — impotence + perineal sensory loss
-
-<details><summary>Answer</summary>
-
-**C. Sympathetic** — Damage to superior hypogastric plexus → retrograde ejaculation + bladder dysfunction.
-</details>
-
----
-
-## Dermatology
-
-### Q13 — Resistant acne in female
-
-Female with acne not responding to isotretinoin and antibiotics. Next best investigation?
-
-- A. Dietary triggers
-- B. Evaluate for hyperandrogenism
-- C. Check for antibiotic resistance
-- D. Drug triggers
-
-<details><summary>Answer</summary>
-
-**B. Evaluate for hyperandrogenism** — PCOS, late-onset CAH; check testosterone, DHEAS, free androgen index.
-</details>
-
-### Q14 — Painless genital ulcer + non-tender lymphadenopathy
-
-A young woman with painless genital ulcer and non-tender inguinal lymphadenopathy.
-
-- A. Chancroid
-- B. Syphilis
-- C. Herpes genitalis
-- D. Granuloma inguinale
-
-<details><summary>Answer</summary>
-
-**B. Syphilis** — Primary chancre: painless, indurated ulcer + painless lymphadenopathy. Chancroid is painful with tender nodes.
-</details>
-
----
-
-## Anaesthesia
-
-### Q15 — Cardiac surgery antibiotic prophylaxis
-
-Drug of choice for preoperative antibiotic prophylaxis in cardiac surgery.
-
-- A. Penicillin G
-- B. Erythromycin
-- C. Azithromycin
-- D. Cefazolin
-
-<details><summary>Answer</summary>
-
-**D. Cefazolin** — 1st-gen cephalosporin; covers staphylococci. Given within 60 min before incision.
-</details>
-
----
-
-## ENT
-
-### Q16 — Air-bone gap estimation
-
-A female with hearing loss; Rinne negative at 256–512 Hz, positive at 1024 Hz. Expected air–bone gap?
-
-- A. 30–45 dB
-- B. 15–30 dB
-- C. 45–60 dB
-- D. > 60 dB
-
-<details><summary>Answer</summary>
-
-**A. 30–45 dB** — Rinne negative at 512 Hz but positive at 1024 Hz → ABG ≈ 30–45 dB.
-</details>
-
-### Q17 — Referred otalgia from tonsillitis
-
-A 10-year-old with throat pain, fever, ear pain; recurrent tonsillitis. Which nerve carries the referred ear pain?
-
-- A. Tympanic branch of glossopharyngeal (Jacobson's)
-- B. Greater auricular nerve
-- C. Auriculotemporal nerve
-- D. Auricular branch of vagus (Arnold's)
-
-<details><summary>Answer</summary>
-
-**A. Tympanic branch of glossopharyngeal (Jacobson's nerve)** — IX supplies tonsillar fossa and middle ear → referred otalgia.
-</details>
-
----
-
-## Pharmacology
-
-### Q18 — Oral candidiasis from inhaled steroid
-
-A bronchial asthma patient on inhalational steroids with white patchy lesions on tongue/buccal mucosa. Treatment drug?
-
-- A. Clotrimazole
-- B. Griseofulvin
-- C. Terbinafine
-- D. Flucytosine
-
-<details><summary>Answer</summary>
-
-**A. Clotrimazole** — Topical azole for oral candidiasis. Also advise rinsing mouth after inhaler use.
-</details>
-
-### Q19 — PPH in asthmatic — avoid which uterotonic
-
-Pregnant woman with bronchial asthma in third stage of labour; which drug to **avoid** for PPH?
-
-- A. Carboprost
-- B. Oxytocin
-- C. Dinoprostone
-- D. Methylergometrine
-
-<details><summary>Answer</summary>
-
-**A. Carboprost (PGF2α)** — Causes bronchospasm; contraindicated in asthma. Methylergometrine contraindicated in hypertension.
-</details>
-
----
-
-## Orthopaedics
-
-### Q20 — Carpal tunnel diagnosis
-
-A patient with numbness/tingling in lateral 3 digits, relieved with arms hanging. Condition and test?
-
-- A. Guyon's canal syndrome, Froment's test
-- B. Carpal tunnel syndrome, Froment's test
-- C. Guyon's canal syndrome, Durkan's test
-- D. Carpal tunnel syndrome, Durkan's test
-
-<details><summary>Answer</summary>
-
-**D. Carpal tunnel syndrome, Durkan's test** — Median nerve compression. Durkan's = direct compression test (more sensitive than Tinel/Phalen).
-</details>
-
-### Q21 — Café-au-lait + bone deformity
-
-A child with lower-limb deformity and hyperpigmented skin lesions; X-ray with ground-glass appearance.
-
-- A. Non-ossifying fibroma
-- B. Fibrous dysplasia
-- C. Paget's disease
-- D. Osteogenesis imperfecta
-
-<details><summary>Answer</summary>
-
-**B. Fibrous dysplasia** — McCune–Albright (café-au-lait + polyostotic FD + endocrinopathy).
-</details>
-
----
-
-## Psychiatry
-
-### Q22 — Clozapine adverse effects
-
-Schizophrenic patient unresponsive to haloperidol and thioridazine; started on a new drug with excessive salivation, elevated glucose, hyperlipidaemia.
-
-- A. Ziprasidone
-- B. Risperidone
-- C. Clozapine
-- D. Aripiprazole
-
-<details><summary>Answer</summary>
-
-**C. Clozapine** — Used in treatment-resistant schizophrenia. Hypersalivation, metabolic syndrome, agranulocytosis (monitor WBC).
-</details>
-
-### Q23 — Postpartum blues
-
-A woman 4 days postpartum with tearfulness, mood swings, occasional insomnia.
-
-- A. Postpartum depression
-- B. Postpartum blues
-- C. Postpartum psychosis
-- D. Postpartum anxiety
-
-<details><summary>Answer</summary>
-
-**B. Postpartum blues** — Onset 2–4 days; mild, self-limiting, resolves by 2 weeks. Affects ~50–80% of women.
-</details>
-
----
-
-## Physiology
-
-### Q24 — Heatstroke — feature NOT seen
-
-A man brought unconscious from a field; temperature 105 °F, decreased skin turgor. Which is **NOT** seen?
-
-- A. Tachypnoea
-- B. Hypotension
-- C. Sweating
-- D. Red hot skin
-
-<details><summary>Answer</summary>
-
-**C. Sweating** — Classic heatstroke = anhidrosis (failure of thermoregulation). Skin is hot and dry.
-</details>
-
-### Q25 — Preterm RDS — surface tension & compliance
-
-A preterm baby at 28 weeks with respiratory distress syndrome. Status?
-
-- A. Surface tension ↓ ; Compliance ↑
-- B. Surface tension ↑ ; Compliance ↓
-- C. Both decreased
-- D. Both increased
-
-<details><summary>Answer</summary>
-
-**B. Surface tension ↑, Compliance ↓** — Surfactant deficiency → high alveolar surface tension → stiff lungs.
-</details>
-
----
-
-## Medicine
-
-### Q26 — Dialysis disequilibrium
-
-Patient post-dialysis (high urea/K+) becomes drowsy, has seizures, hypotension. Treatment?
-
-- A. Bumetanide
-- B. Ethacrynic acid
-- C. Nesiritide
-- D. IV Mannitol
-
-<details><summary>Answer</summary>
-
-**D. IV Mannitol** — Dialysis disequilibrium syndrome: cerebral oedema from rapid urea removal. Mannitol shrinks brain water.
-</details>
-
-### Q27 — Thyroid storm with asthma
-
-Female with restlessness, palpitations, tremors; asthma; swollen neck, BP↑, tachycardia, AF. Immediate drug?
-
-- A. Diltiazem
-- B. Propranolol
-- C. Esmolol
-- D. PTU
-
-<details><summary>Answer</summary>
-
-**A. Diltiazem** — Propranolol/esmolol contraindicated in asthma. Diltiazem controls HR in thyroid storm + asthma.
-</details>
-
----
-
-## Community Medicine
-
-### Q28 — Crossed gait in farmers (lathyrism)
-
-Village farmers with crossed (scissor) gait using stick support; diet limited to rice and pulses. Which supplementation could prevent?
-
-- A. Vitamin A
-- B. Vitamin D
-- C. Vitamin C
-- D. Vitamin B
-
-<details><summary>Answer</summary>
-
-**D. Vitamin B** *(per answer key)* — Neurolathyrism from *Lathyrus sativus*; β-ODAP toxicity. (Some sources favour adequate nutrition / detoxification.)
-</details>
-
-### Q29 — Aniline dye + bladder cancer study
-
-Research on aniline-dye exposure and bladder cancer in workers employed >20 years; exposed handlers vs office clerks. Study type?
-
-- A. Retrospective cohort study
-- B. Prospective cohort study
-- C. Case-control study
-- D. Intervention
-
-<details><summary>Answer</summary>
-
-**A. Retrospective cohort study** — Exposure status defined in the past; outcome (bladder cancer) tracked forward from past records.
-</details>
-
----
-
-## Obstetrics & Gynaecology
-
-### Q30 — Polyhydramnios
-
-Woman at 36 weeks: SFH 41 cm, muffled FHS, tense non-tender abdomen, normal fetal movements.
-
-- A. Abruptio placenta
-- B. Fetal hydrocephalus
-- C. Polyhydramnios
-- D. Fetal-maternal ascites
-
-<details><summary>Answer</summary>
-
-**C. Polyhydramnios** — SFH > gestational age, muffled FHS, taut abdomen. Causes: DM, anencephaly, TOF, twin gestation.
-</details>
-
-### Q31 — Iron supplementation start
-
-Primigravida with early pregnancy anaemia; 7 weeks, Hb 9 g/dL. When to start iron supplements?
-
-- A. 10–12 weeks
-- B. 8–10 weeks
-- C. After 14 weeks
-- D. After 20 weeks
-
-<details><summary>Answer</summary>
-
-**B. 8–10 weeks** *(per source key)* — Anaemic pregnancies should start iron after nausea subsides; routine supplementation per WHO is post-12 weeks.
-</details>
-
----
-
-## Forensic Medicine
-
-### Q32 — Garden fruit poisoning + antidote
-
-A child ate a garden fruit; develops high fever, confusion, photophobia, urinary retention. Cause and antidote?
-
-- A. Datura, pralidoxime
-- B. Datura, physostigmine
-- C. Yellow oleander, pralidoxime
-- D. Yellow oleander, physostigmine
-
-<details><summary>Answer</summary>
-
-**B. Datura, physostigmine** — Anticholinergic poisoning. Physostigmine crosses BBB (unlike neostigmine).
-</details>
-
-### Q33 — Letulle autopsy technique
-
-Autopsy method removing organs en masse from tongue to prostate?
-
-- A. Virchow
-- B. Rokitansky
-- C. Ghon
-- D. Letulle
-
-<details><summary>Answer</summary>
-
-**D. Letulle technique** — En masse removal; preserves anatomical relations.
-</details>
-
----
-
-## Paediatrics
-
-### Q34 — DKA in child — initial management (ISPAD)
-
-A 10-year-old, 30 kg with 2-day loose stools, severe dehydration; RBS 550, pH 7.01, Na+ 158, urine glucose 3+. Initial management?
-
-- A. ABC, NS 20 mL/kg, start insulin after 1 hour
-- B. ABC, NS 20 mL/kg + insulin 0.1 IU/kg/hr
-- C. ABC, NS 10 mL/kg + insulin 0.1 IU/kg/hr
-- D. ABC, NS 10 mL/kg, start insulin after 1 hour
-
-<details><summary>Answer</summary>
-
-**A. ABC, NS 20 mL/kg, start insulin after 1 hour** — Per ISPAD: fluid resuscitation first; delay insulin to prevent cerebral oedema.
-</details>
-
-### Q35 — Adequate infant growth
-
-Best sign indicating adequate infant growth with birth weight 2.8 kg?
-
-- A. Length increase of 25 cm in first year
-- B. Weight gain 300 g/month until 1 year
-- C. Anterior fontanelle closure by 6 months
-- D. Weight < 75th percentile, height < 25th percentile
-
-<details><summary>Answer</summary>
-
-**A. Length increase of 25 cm in first year** — Expected: 25 cm in year 1, 12 cm in year 2. Length is the most reliable longitudinal indicator.
-</details>
-
----
-
----
-
-## Anatomy
-
-### Q36 — Deep inguinal ring — defect in *(image-based)*
+### Q3 — Deep inguinal ring — defect in *(image-based)*
 
 Image marks the deep inguinal ring. A defect in which of the following forms this structure?
 
@@ -587,8 +51,7 @@ Image marks the deep inguinal ring. A defect in which of the following forms thi
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
-
-### Q37 — TMJ articular disc — muscle attached
+### Q4 — TMJ articular disc — muscle attached
 
 Patient had jaw locked while yawning. Which muscle is attached to the articular disc of the temporomandibular joint?
 
@@ -604,8 +67,7 @@ Patient had jaw locked while yawning. Which muscle is attached to the articular 
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
-
-### Q38 — Glomerulus *(image-based)*
+### Q5 — Glomerulus *(image-based)*
 
 Image shows histological section with a rounded tuft of anastomosing capillaries lined by fenestrated endothelium, supported by mesangium. Structure identified?
 
@@ -621,8 +83,7 @@ Image shows histological section with a rounded tuft of anastomosing capillaries
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
-
-### Q39 — Neck of fibula injury — consequence *(image-based)*
+### Q6 — Neck of fibula injury — consequence *(image-based)*
 
 Image shows the course of the common peroneal nerve. Injury at site marked "3" (neck of fibula) causes failure of:
 
@@ -638,8 +99,7 @@ Image shows the course of the common peroneal nerve. Injury at site marked "3" (
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
-
-### Q40 — Patent ductus arteriosus — aortic arch defect *(image-based)*
+### Q7 — Patent ductus arteriosus — aortic arch defect *(image-based)*
 
 Image shows patent ductus arteriosus. A defect in which of the following aortic arches causes this?
 
@@ -655,8 +115,7 @@ Image shows patent ductus arteriosus. A defect in which of the following aortic 
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
-
-### Q41 — Allantois derivative *(image-based)*
+### Q8 — Allantois derivative *(image-based)*
 
 Image marks structure A (allantois) in embryo. Structure A gives rise to which of the following?
 
@@ -672,8 +131,7 @@ Image marks structure A (allantois) in embryo. Structure A gives rise to which o
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
-
-### Q42 — Portal hypertension — portosystemic anastomosis
+### Q9 — Portal hypertension — portosystemic anastomosis
 
 Patient with abdominal pain, jaundice, and portal hypertension. Anastomosis between which of the following veins is seen?
 
@@ -689,8 +147,7 @@ Patient with abdominal pain, jaundice, and portal hypertension. Anastomosis betw
 </details>
 
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
-
-### Q43 — Parotid region pain — nerve responsible
+### Q10 — Parotid region pain — nerve responsible
 
 Patient presents with swelling under the left ear lobule (parotid region) and complains of pain. Most likely cause of pain?
 
@@ -708,600 +165,55 @@ Patient presents with swelling under the left ear lobule (parotid region) and co
 <!-- SOURCE: Anatomy_NEET_PG_PYT20182023_1_1.pdf OCR 2023 | OPTIONS_GENERATED: false -->
 
 ---
+### Q11 — A student had his jaw locked *(2023)*
 
-## Physiology
+A student had his jaw locked while yawning. Which of the following muscles is attached to the articular disc of the temporomandibular joint?
 
-### Q44 — Spirometry — FRC identification *(image-based)*
-
-Identify the marked region in the spirometry trace (volume remaining after a normal expiration):
-
-- A. Functional residual capacity
-- B. Tidal volume
-- C. Expiratory reserve volume
-- D. Inspiratory capacity
+- A. Lateral pterygoid
+- B. Temporalis
+- C. Medial pterygoid
+- D. Masseter
 
 <details><summary>Answer</summary>
 
-**A. Functional residual capacity** — FRC = volume in lungs after a normal passive expiration = ERV + RV ≈ 2.3 L. Not measurable by spirometry (RV component). Measured by helium dilution, N₂ washout, or body plethysmography. ↑FRC: COPD, emphysema, asthma; ↓FRC: obesity, ARDS, pregnancy, pulmonary fibrosis.
+**A. Lateral pterygoid**
 
 </details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
-
-### Q45 — Heatstroke — NOT present
-
-Man collapsed in a field; temperature 105°F (40.6°C), decreased skin turgor. Which finding would NOT be seen?
-
-- A. Tachypnea
-- B. Hypotension
-- C. Sweating
-- D. Red hot skin
-
-<details><summary>Answer</summary>
-
-**C. Sweating** — Classic heatstroke (non-exertional): thermoregulation failure → **anhidrosis** (no sweating), hot dry skin, hyperthermia >40.5°C. Other features: tachypnea (compensatory), hypotension, altered consciousness, end-organ damage. Exertional heatstroke may have sweating. Key distinction from heat exhaustion: consciousness + thermoregulation preserved in heat exhaustion.
-
-</details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
-
-### Q46 — Renal clearance — substance matching *(image-based)*
-
-Graph shows clearance ratios vs plasma concentration. Correctly matched substances with renal clearance?
-
-- A. A-Inulin, B-PAH, C-Bicarbonate, D-Inulin
-- B. A-Glucose, B-Bicarbonate, C-Inulin, D-PAH
-- C. A-PAH, B-Inulin, C-Glucose, D-Bicarbonate
-- D. A-Inulin, B-Glucose, C-Bicarbonate, D-PAH
-
-<details><summary>Answer</summary>
-
-**B. A-Glucose, B-Bicarbonate, C-Inulin, D-PAH** — Glucose: completely reabsorbed up to Tm → clearance = 0 at normal plasma [glucose]; Bicarbonate: mostly reabsorbed → clearance < GFR; Inulin: filtered only, neither secreted nor reabsorbed → clearance = GFR (100%); PAH: filtered + actively secreted → clearance > GFR (measures RPF, ≈130% at low plasma concentrations).
-
-</details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
-
-### Q47 — Action potential — refractory period
-
-True statement about the nerve action potential curve:
-
-- A. Resting state is at point A
-- B. At point E the nerve is more excitable than normal
-- C. Point C–D: opening of Na⁺ channels and closure of K⁺ channels
-- D. Point B–D is the refractory period
-
-<details><summary>Answer</summary>
-
-**D. Point B to D is the refractory period** — B = peak depolarization; C = repolarization; D = hyperpolarization (after-potential). B–C = absolute refractory period (Na⁺ channels inactivated, no AP possible); C–D = relative refractory period (requires suprathreshold stimulus); D (hyperpolarization) = supernormal period. At point E (after hyperpolarization) = membrane returns to RMP.
-
-</details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
-
-### Q48 — Facilitated diffusion — identification
-
-Identify the type of transport (carrier protein, no energy requirement):
-
-- A. Simple diffusion
-- B. Facilitated diffusion
-- C. Active transport
-- D. Secondary active transport
-
-<details><summary>Answer</summary>
-
-**B. Facilitated diffusion** — Facilitated diffusion: carrier protein + concentration gradient driven (no ATP); moves from high → low concentration. Examples: GLUT transporters (glucose into red cells, hepatocytes), urea channels, ion channels. Simple diffusion: no carrier. Primary active: ATP directly. Secondary active: gradient created by primary active (Na⁺ gradient).
-
-</details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
-
-### Q49 — Preterm RDS — surface tension and compliance
-
-Preterm baby (28 weeks) develops RDS. What is true about surface tension and compliance?
-
-- A. Surface tension decreased, compliance decreased
-- B. Surface tension increased, compliance decreased
-- C. Both surface tension and compliance decreased
-- D. Both surface tension and compliance increased
-
-<details><summary>Answer</summary>
-
-**B. Surface tension increased, compliance decreased** — Surfactant deficiency (preterm <34 weeks) → ↑surface tension (↑alveolar collapsing force) → progressive alveolar collapse → ↓lung compliance (stiffer lungs) → ↑work of breathing → hypoxemia. Treatment: exogenous surfactant (beractant, poractant) + CPAP/mechanical ventilation.
-
-</details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
-
-### Q50 — Hyperkalemia — resting membrane potential
-
-RTA with severe muscle injury, K⁺ = 5.5 mEq/L. What happens to resting membrane potential?
-
-- A. No change
-- B. Becomes more negative (hyperpolarization)
-- C. Becomes more positive (depolarization)
-- D. First more positive then negative
-
-<details><summary>Answer</summary>
-
-**C. Becomes more positive (depolarization)** — RMP is determined by K⁺ equilibrium potential (Nernst equation). Hyperkalemia → ↓transmembrane K⁺ gradient → ↓K⁺ equilibrium potential → RMP depolarizes (less negative, closer to threshold) → membrane hyperexcitability (initially) → then Na⁺ channel inactivation → inexcitability. ECG: peaked T waves, widened QRS, sine wave pattern.
-
-</details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
-
-### Q51 — Dorsal column injury — fasciculus cuneatus
-
-Cervical spine injury; fragment pierced lateral aspect of dorsal column. Finding seen?
-
-- A. Absence of ipsilateral lower limb proprioception
-- B. Absence of fine motor movement of fingers
-- C. Absence of ipsilateral arm proprioception
-- D. Absence of contralateral lower limb proprioception
-
-<details><summary>Answer</summary>
-
-**C. Absence of ipsilateral arm proprioception** — Lateral dorsal column at cervical level = fasciculus cuneatus (carries upper limb proprioception, vibration, fine touch from ipsilateral arm). Fasciculus gracilis (medial) = lower limb. Dorsal columns decussate at medulla → lesion before decussation = ipsilateral sensory loss. Posterior cord syndrome: bilateral dorsal column loss.
-
-</details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
-
-### Q52 — Cardiac action potential — plateau phase
-
-True statement regarding the plateau (phase 2) on the myocardial action potential curve:
-
-- A. Opening of fast Na⁺ channels and closure of fast K⁺ channels
-- B. Slow but prolonged opening of L-type Ca²⁺ channels
-- C. Closure of Na⁺ channels and opening of slow K⁺ channels
-- D. Due to Na⁺/K⁺-ATPase pump activity
-
-<details><summary>Answer</summary>
-
-**B. Slow but prolonged opening of L-type Ca²⁺ channels** — Cardiac AP phases: 0 = fast Na⁺ influx (depolarization); 1 = transient K⁺ efflux (Ito); 2 = plateau = sustained L-type Ca²⁺ influx balances K⁺ efflux (IKr); 3 = rapid repolarization (K⁺ efflux); 4 = resting. Plateau = prolonged effective refractory period → prevents tetany. Ca²⁺ influx triggers Ca²⁺-induced Ca²⁺ release (CICR) from SR.
-
-</details>
-
-<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
+### Q12 — O3 Meckels diverticulum O4 Ligamentum teres *(2023)*
 
-## Community Medicine
+O3: Meckel's diverticulum O4: Ligamentum teres Ans: 2 A patient comes with abdominal pain, jaundice, and portal hypertension. Anastomosis between which of the following veins is seen?
 
-### Q53 — Neurolathyrism: vitamin supplement
-
-In a village, several farmers have a scissor gait and use a stick for support. Due to poor crop yields, they consume meals of rice and pulse. Supplementing their diet with which vitamin could have prevented this?
-
-- A. Vitamin A
-- B. Vitamin D
-- C. Vitamin C
-- D. Vitamin B complex
+- A. Left colic vein and middle colic veins
+- B. Esophageal veins and left gastric veins
+- C. Meckel's diverticulum
+- D. Ligamentum teres
 
 <details><summary>Answer</summary>
 
-**C. Vitamin C** — **Neurolathyrism** is caused by consumption of *Lathyrus sativus* (khesari dal / grass pea) due to the toxin **BOAA** (beta-oxalyl-amino-alanine). Vitamin C at 500–1000 mg/day is beneficial as it antagonises the excitotoxic effect of BOAA. The condition presents as spastic paraparesis (UMN disease).
+**B. Esophageal veins and left gastric veins**
 
 </details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q54 — Smear-negative TB: next step per NTEP guidelines
-
-A 35-year-old homeless man has 1 month of fever, cough, and weight loss. Both sputum smears are negative but chest X-ray is suggestive of TB. According to recent NTEP guidelines, what is the next best step?
-
-- A. Repeat sputum smear examination
-- B. CBNAAT (GeneXpert MTB/RIF)
-- C. Line probe assay
-- D. Wait for radiology results before starting ATT
-
-<details><summary>Answer</summary>
-
-**B. CBNAAT (GeneXpert MTB/RIF)** — Per NTEP guidelines: for smear-negative presumptive TB with suspicious clinical and radiological features, the next step is **CBNAAT** (cartridge-based nucleic acid amplification test/GeneXpert). It simultaneously detects *M. tuberculosis* and rifampicin resistance within 2 hours. Line probe assay is for drug-resistance testing.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q55 — Aniline dye and bladder cancer: study type
-
-Research is conducted on aniline dye exposure and bladder cancer in workers employed in the industry for >20 years. Two groups are formed — one with direct dye handling exposure, and office clerks with no dye exposure. Records of past years of employment are reviewed. What type of study is this?
-
-- A. Retrospective cohort study
-- B. Prospective cohort study
-- C. Case-control study
-- D. Randomised controlled trial
-
-<details><summary>Answer</summary>
-
-**A. Retrospective cohort study** — The study has two groups defined by **exposure status** (exposed vs unexposed), which is the design of a cohort study. Since exposure and outcome data come from **past records** (retrospective), it is a retrospective/historical cohort study. In a case-control study, groups would be defined by disease status (cases vs controls).
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q56 — Blood pressure tracking from childhood to adulthood
-
-Blood pressure of a population was tracked from childhood to adulthood. Those with lower BP in childhood had lower BP in adulthood; those with higher BP in childhood had higher BP in adulthood. This is best described as:
-
-- A. Rule of halves
-- B. Tracking of blood pressure
-- C. STEPwise approach
-- D. Primordial prevention
-
-<details><summary>Answer</summary>
-
-**B. Tracking of blood pressure** — **Tracking** refers to the tendency for blood pressure (and other physiological variables like BMI, cholesterol) measured in childhood to predict adult values, maintaining their rank within a population over time. This forms the basis for early identification and intervention in childhood hypertension.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q57 — Night blindness in pregnant woman: whose duty to counsel?
-
-A 30-week primigravida reports reduced vision at night. She has been avoiding papaya, mango, and other fruits throughout pregnancy, believing they cause abortions. It is the primary duty of which worker to provide counselling?
-
-- A. ANM
-- B. Medical officer
-- C. Trained birth attendant
-- D. ASHA
-
-<details><summary>Answer</summary>
-
-**D. ASHA (Accredited Social Health Activist)** — ASHA is the frontline community health worker and a resident woman of the village responsible for providing counselling, health education, and motivating families to use health services. She specifically addresses myths and misconceptions about diet and antenatal care in the community. ANM focuses on clinical/preventive services.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q58 — STI syndromic management: kit for cervicitis
-
-A 22-year-old female comes to the STI clinic with minimal vaginal discharge. Speculum examination shows erosions on the cervix. Which kit should be given?
-
-- A. Green kit
-- B. Red kit
-- C. Gray kit
-- D. Yellow kit
-
-<details><summary>Answer</summary>
-
-**C. Gray kit** — NACO STI/RTI syndromic management kits: **Gray kit** = cervical discharge/erosions (cervicitis) = contains cefixime + azithromycin (to cover gonorrhoea + chlamydia). Green kit = vaginal discharge (vaginitis). Red kit = genital ulcer disease. Yellow kit = lower abdominal pain (PID).
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q59 — Years of potential life lost (YPLL)
-
-The years of potential life lost (YPLL) could be attributed to:
-
-- A. Years lost to morbidity
-- B. Years lost due to premature death
-- C. Years lost to disability
-- D. Years lost to poor quality of life
-
-<details><summary>Answer</summary>
-
-**B. Years lost due to premature death** — YPLL = mortality indicator measuring the number of years a person would have been expected to live (reference = 75 years) had they not died prematurely. Formula: YPLL = Σ (reference age − age at death) for all deaths before reference age. Higher YPLL in younger-onset diseases (accidents, suicide, cancer).
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q60 — School immunisation programme: vaccine for 10-year-old
-
-In a 10-year-old school child, which vaccine is given as part of the school immunisation programme?
-
-- A. Measles vaccine
-- B. Rotavirus vaccine
-- C. TT/Td vaccine
-- D. Hepatitis B vaccine
-
-<details><summary>Answer</summary>
-
-**C. TT/Td vaccine** — National Immunisation Schedule (India): **TT/Td at 10 years** and again at 16 years as school-age booster doses (given under the school immunisation programme). Measles = 9 months + 15–18 months. Rotavirus = 6, 10, 14 weeks. Hepatitis B = birth + 6 + 10 + 14 weeks.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q61 — Colombo Plan: assistance for cancer in India
-
-Aid to set up which type of cancer treatment unit in Indian medical institutions was part of the Colombo Plan?
-
-- A. PET scan units for cancer diagnosis
-- B. Human resource development in oncology
-- C. Linear accelerator (LINAC) radiotherapy units
-- D. Cobalt therapy units
-
-<details><summary>Answer</summary>
-
-**D. Cobalt therapy units** — The **Colombo Plan** (1951) provided aid for development in Asia-Pacific. Specifically, setting up **cobalt-60 therapy units** for cancer treatment at medical institutions in India was a key component. Cobalt therapy (external beam radiation) was the primary radiotherapy technology available at that time.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q62 — Neurolathyrism: responsible toxin
-
-A poor farmer with successive crop failures develops progressive spastic paraparesis with upper motor neuron signs and gait instability. What is the toxin responsible?
-
-- A. Aflatoxin
-- B. Beta-oxalyl-amino-alanine (BOAA)
-- C. Ergot alkaloids
-- D. Fusarium toxin
-
-<details><summary>Answer</summary>
-
-**B. Beta-oxalyl-amino-alanine (BOAA)** — **Neurolathyrism** = spastic paraparesis caused by BOAA toxin from *Lathyrus sativus* (khesari dal). Consumed during famines/crop failures when it is the only affordable food. BOAA is an excitatory amino acid that causes irreversible UMN damage. Aflatoxin → hepatocellular carcinoma; ergot alkaloids → ergotism; fusarium toxins → trichothecene mycotoxicosis.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q63 — Tetanus prophylaxis: clean wound, full course 10 years ago
-
-A young male presents with a clean-cut wound without bleeding. He received a full course of tetanus vaccination 10 years ago. What is the best management?
-
-- A. Human tetanus immunoglobulin + full course of vaccine
-- B. Human tetanus immunoglobulin only
-- C. Single-dose tetanus toxoid
-- D. Full course tetanus toxoid
-
-<details><summary>Answer</summary>
-
-**C. Single-dose tetanus toxoid** — Algorithm: **Clean wound + fully immunised + last dose >10 years** → 1 booster dose of Td (tetanus-diphtheria toxoid). No TIG required for clean wounds. Tetanus-prone wound + last dose >5 years → Td + TIG. Unimmunised + any wound → full course (3 doses) + TIG.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q64 — Water sample collection during outbreak: correct method
-
-How should water be collected for bacteriological examination during a disease outbreak?
-
-- A. Collect from an already opened tap
-- B. Let water flow for at least 1 minute before collecting
-- C. Keep the container close to the tap to avoid spillage
-- D. Collect from a gentle stream of water to avoid splashing
-
-<details><summary>Answer</summary>
-
-**D. Collect from a gentle stream of water to avoid splashing** — For bacteriological water sampling from a tap in regular use during an outbreak: open the tap to produce a **gentle stream** of water, hold the sterile container under the stream, and collect without splashing (splashing can contaminate the sample from the outside). The container must not touch the tap.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q65 — Recommended Dietary Allowance (RDA) definition
-
-The average daily dietary nutrient intake level sufficient to meet the nutrient requirements of nearly all (97–98%) healthy individuals in a particular life stage and gender group is known as:
-
-- A. Adequate intake
-- B. Dietary goal
-- C. Estimated average requirement
-- D. Recommended dietary allowance
-
-<details><summary>Answer</summary>
-
-**D. Recommended Dietary Allowance (RDA)** — RDA = mean + 2 SD of requirement, covering ~97.5% of the population. **Estimated Average Requirement (EAR)** = meets needs of 50% of individuals. **Adequate Intake (AI)** = used when RDA cannot be determined. Dietary goal = population-level targets for chronic disease prevention.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q66 — Chickenpox outbreak in boys' hostel: management
-
-A boys' hostel has an outbreak of fever, headache, and pleomorphic rashes sparing the palms and soles. What is the next best step in management of suspected cases?
-
-- A. Isolate for 6 days after onset of rash, give acyclovir, and offer VZIG to susceptible contacts within 72 hours
-- B. Isolate for 12 days, give acyclovir, and offer VZIG within 48 hours
-- C. Isolate for 6 days only (no antiviral or VZIG needed)
-- D. Administer VZIG to all students
-
-<details><summary>Answer</summary>
-
-**A. Isolate for 6 days, give acyclovir, and offer VZIG to susceptible contacts within 72 hours** — **Varicella (chickenpox)**: pleomorphic rash in crops sparing palms/soles. Management: acyclovir (5 days); isolate until all lesions are crusted (~5–6 days after onset). VZIG (Varicella-Zoster Immunoglobulin) should be given to susceptible high-risk contacts within 96 hours (ideally 72 hours) of exposure.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
-### Q67 — IMR as sensitive indicator of healthcare
-
-Which of the following is the most sensitive indicator to assess the availability, utilisation, and effectiveness of healthcare in a community?
-
-- A. Infant mortality rate
-- B. Maternal mortality rate
-- C. Immunisation coverage
-- D. Under-5 mortality rate
-
-<details><summary>Answer</summary>
-
-**A. Infant mortality rate (IMR)** — IMR = deaths in the first year of life per 1000 live births. It is universally accepted as the most sensitive indicator of the health status of a community, reflecting nutrition, sanitation, maternal health, immunisation, healthcare access, and socioeconomic conditions. India's IMR (2020) = 28/1000 live births.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
+### Q13 — A patient presents with swelling under *(2023)*
 
-## Pharmacology (additional)
+A patient presents with swelling under the left ear lobule and complains of pain. Which of the following structures is the likely cause of the pain?
 
-### Q68 — Isoniazid + peripheral neuropathy
-
-A patient started on isoniazid for TB develops peripheral neuropathy. What should be co-administered to prevent this?
-
-- A. Pyridoxine
-- B. Niacin
-- C. Riboflavin
-- D. Ascorbic acid
+- A. Facial nerve
+- B. Greater auricular nerve
+- C. Auriculotemporal nerve
+- D. Investing layer of deep cervical fascia
 
 <details><summary>Answer</summary>
 
-**A. Pyridoxine** — Isoniazid interferes with pyridoxine (vitamin B6) metabolism by forming inactive hydrazones → functional B6 deficiency → peripheral neuropathy. Prophylactic pyridoxine 10–50 mg/day prevents this; especially in malnourished, diabetic, alcoholic, pregnant, and HIV+ patients.
+**B. Greater auricular nerve**
 
 </details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q69 — Drug causing Torsades de Pointes
-
-Which drug most commonly causes Torsades de Pointes?
-
-- A. Amiodarone
-- B. Sotalol
-- C. Verapamil
-- D. Lignocaine
-
-<details><summary>Answer</summary>
-
-**B. Sotalol** — Class III antiarrhythmic with non-selective β-blocking activity; prolongs QT in a dose-dependent manner → highest risk of TdP among antiarrhythmics. Amiodarone prolongs QT but rarely causes TdP (homogeneous repolarisation). Verapamil/lignocaine do not prolong QT.
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q70 — Delayed chemotherapy-induced nausea
-
-A patient undergoing chemotherapy develops severe vomiting. Best drug for delayed chemotherapy-induced nausea and vomiting (CINV)?
-
-- A. Metoclopramide
-- B. Ondansetron
-- C. Domperidone
-- D. Aprepitant
-
-<details><summary>Answer</summary>
-
-**D. Aprepitant** — NK1 receptor antagonist; most effective for **delayed CINV** (24–120 h post-chemotherapy). Combined with 5-HT3 antagonist (ondansetron) + dexamethasone for highly emetogenic regimens (cisplatin, AC). Ondansetron alone is better for acute (<24 h) CINV.
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q71 — Ivermectin mechanism
-
-Mechanism of action of ivermectin?
-
-- A. Inhibits microtubules
-- B. Enhances GABA-mediated Cl⁻ influx
-- C. Inhibits DNA synthesis
-- D. Calcium channel blocker
-
-<details><summary>Answer</summary>
-
-**B. Enhances GABA-mediated Cl⁻ influx** — Ivermectin acts on glutamate-gated chloride channels (invertebrate-specific) and potentiates GABA-mediated Cl⁻ influx → hyperpolarisation and paralysis of parasites. Used in onchocerciasis, lymphatic filariasis, strabismus, scabies, head lice. Crosses BBB only in P-glycoprotein-deficient hosts (Collie dogs).
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q72 — Longest-acting insulin
-
-Which insulin has the longest duration of action?
-
-- A. NPH
-- B. Glargine
-- C. Lispro
-- D. Regular
-
-<details><summary>Answer</summary>
-
-**B. Glargine** — Long-acting basal insulin analogue; ~24 h duration with no pronounced peak (precipitates at neutral pH at injection site → slow dissolution). Degludec is even longer (>42 h). NPH = intermediate-acting (12–18 h). Lispro/aspart = rapid-acting (3–5 h). Regular = short-acting (6–8 h).
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q73 — Antihypertensive contraindicated in pregnancy
-
-Which antihypertensive drug is contraindicated during pregnancy?
-
-- A. Methyldopa
-- B. Labetalol
-- C. Enalapril
-- D. Nifedipine
-
-<details><summary>Answer</summary>
-
-**C. Enalapril** — ACE inhibitors are teratogenic, especially in 2nd/3rd trimester → fetal renal dysgenesis, oligohydramnios, pulmonary hypoplasia, hypocalvaria, fetal death. ARBs are similarly contraindicated. Safe alternatives: methyldopa (1st-line), labetalol, nifedipine, hydralazine.
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q74 — Antibiotic unsafe in pregnancy
-
-Which antibiotic is unsafe in pregnancy?
-
-- A. Penicillin
-- B. Erythromycin
-- C. Tetracycline
-- D. Cephalexin
-
-<details><summary>Answer</summary>
-
-**C. Tetracycline** — Tetracyclines chelate calcium → deposit in developing teeth (yellow-brown discolouration), bones (inhibits growth), and may cause acute fatty liver of pregnancy. Avoid after 18 weeks gestation and in children <8 years. Penicillins, cephalosporins, and erythromycin (except estolate) are safe.
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q75 — First-line drug for primary open-angle glaucoma
-
-Drug of choice for open-angle glaucoma?
-
-- A. Timolol
-- B. Atropine
-- C. Pilocarpine
-- D. Acetazolamide
-
-<details><summary>Answer</summary>
-
-**A. Timolol** — Non-selective β-blocker; reduces aqueous humour production by ciliary body → lowers IOP. First-line topical agent. Avoid in asthma/COPD, bradycardia, heart block. Prostaglandin analogues (latanoprost) now preferred 1st-line in many guidelines; pilocarpine rarely used due to miosis/pupillary block side effects.
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q76 — Rifampicin + warfarin interaction
-
-A patient on rifampicin and warfarin — effect on INR?
-
-- A. Increase
-- B. Decrease
-- C. No change
-- D. Fluctuate unpredictably
-
-<details><summary>Answer</summary>
-
-**B. Decrease** — Rifampicin is a **potent inducer** of CYP450 enzymes (CYP3A4, CYP2C9) → ↑warfarin metabolism → ↓anticoagulant effect → ↓INR → thrombotic risk. Requires upward warfarin dose adjustment. Other inducers: phenytoin, carbamazepine, barbiturates, St. John's wort.
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
-
-### Q77 — Selective COX-2 inhibitor
-
-Which of the following is a selective COX-2 inhibitor?
-
-- A. Aspirin
-- B. Diclofenac
-- C. Celecoxib
-- D. Ibuprofen
-
-<details><summary>Answer</summary>
-
-**C. Celecoxib** — Selective COX-2 inhibitor → anti-inflammatory and analgesic with fewer GI side effects (peptic ulcer) than non-selective NSAIDs. Used in osteoarthritis, RA, ankylosing spondylitis. Increased cardiovascular risk (limit duration). Rofecoxib withdrawn due to MI risk. Etoricoxib, parecoxib are other COX-2 selective agents.
-
-</details>
-
-<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
 
 ---
-
-## Anatomy (additional)
-
-### Q78 — Cerebellar ataxia: loss of inhibition
+### Q14 — Cerebellar ataxia: loss of inhibition
 
 A 6-year-old boy with chickenpox develops difficulty walking, broad-based gait, and slow speech. Loss of inhibitory signals to which structure causes this?
 
@@ -1317,8 +229,7 @@ A 6-year-old boy with chickenpox develops difficulty walking, broad-based gait, 
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q79 — Rachischisis: neural tube defect
+### Q15 — Rachischisis: neural tube defect
 
 A 1-day-old boy has spinal cord protruding through the back with a hairy patch and a pouch-like bulge. Which defect causes this?
 
@@ -1334,8 +245,7 @@ A 1-day-old boy has spinal cord protruding through the back with a hairy patch a
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q80 — Stereognosis: tract tested
+### Q16 — Stereognosis: tract tested
 
 A patient identifies an object placed in their hand with eyes closed. Which sensory pathway does this test?
 
@@ -1351,8 +261,7 @@ A patient identifies an object placed in their hand with eyes closed. Which sens
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q81 — Endolymphatic sac location
+### Q17 — Endolymphatic sac location
 
 Which inner ear structure is formed by fusion of the ducts of the utricle and saccule?
 
@@ -1368,8 +277,7 @@ Which inner ear structure is formed by fusion of the ducts of the utricle and sa
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q82 — Sacral hiatus: structures transmitted
+### Q18 — Sacral hiatus: structures transmitted
 
 A 32-year-old male with sacral compression presents with lower back pain and groin sensory loss. Which structure passing through the sacral hiatus is involved?
 
@@ -1385,8 +293,7 @@ A 32-year-old male with sacral compression presents with lower back pain and gro
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q83 — Culdocentesis: site of needle insertion
+### Q19 — Culdocentesis: site of needle insertion
 
 For culdocentesis, through which structure should the needle be inserted?
 
@@ -1402,8 +309,7 @@ For culdocentesis, through which structure should the needle be inserted?
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q84 — Hirschsprung disease
+### Q20 — Hirschsprung disease
 
 A 4-day-old neonate has no defecation but is feeding normally. After a digital rectal exam, a large faecal mass is expelled. Diagnosis?
 
@@ -1419,8 +325,7 @@ A 4-day-old neonate has no defecation but is feeding normally. After a digital r
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q85 — Strongest hip flexor
+### Q21 — Strongest hip flexor
 
 Which is the strongest flexor of the hip joint?
 
@@ -1436,8 +341,7 @@ Which is the strongest flexor of the hip joint?
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q86 — Right coronary artery: NOT a branch
+### Q22 — Right coronary artery: NOT a branch
 
 Cardiac catheterisation reveals a thrombus in the right coronary artery. Which is NOT a branch of the right coronary artery?
 
@@ -1453,8 +357,7 @@ Cardiac catheterisation reveals a thrombus in the right coronary artery. Which i
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q87 — Surgical neck of humerus fracture: nerve injury
+### Q23 — Surgical neck of humerus fracture: nerve injury
 
 A cyclist sustains a fracture of the surgical neck of the humerus after a fall. Which nerve is most likely damaged?
 
@@ -1470,8 +373,7 @@ A cyclist sustains a fracture of the surgical neck of the humerus after a fall. 
 </details>
 
 <!-- SOURCE: prepladder.com NEET-PG high-yield anatomy | OPTIONS_GENERATED: false -->
-
-### Q88 — Partogram CPD — management *(2023)*
+### Q24 — Partogram CPD — management *(2023)*
 
 A partogram of a woman in labour shows oxytocin infusion already given. How will you manage the condition?
 
@@ -1487,8 +389,7 @@ A partogram of a woman in labour shows oxytocin infusion already given. How will
 </details>
 
 ---
-
-### Q89 — Asherman syndrome — procedure *(2023)*
+### Q25 — Asherman syndrome — procedure *(2023)*
 
 For which of the following procedures in the OT list can you preferably do hysteroscopy?
 
@@ -1504,8 +405,7 @@ For which of the following procedures in the OT list can you preferably do hyste
 </details>
 
 ---
-
-### Q90 — Cervical cancer IIB — treatment *(2023)*
+### Q26 — Cervical cancer IIB — treatment *(2023)*
 
 A 50-year-old woman has foul-smelling bloody mucus discharge, necrotizing cervical growth, and lateral parametrium involvement. Management?
 
@@ -1521,8 +421,7 @@ A 50-year-old woman has foul-smelling bloody mucus discharge, necrotizing cervic
 </details>
 
 ---
-
-### Q91 — Laparoscopy — disadvantage over open surgery *(2023)*
+### Q27 — Laparoscopy — disadvantage over open surgery *(2023)*
 
 A woman undergoing complete laparoscopic hysterectomy asks about disadvantages of laparoscopy over open surgery. Which is a disadvantage?
 
@@ -1538,8 +437,7 @@ A woman undergoing complete laparoscopic hysterectomy asks about disadvantages o
 </details>
 
 ---
-
-### Q92 — Unruptured ectopic — management *(2023)*
+### Q28 — Unruptured ectopic — management *(2023)*
 
 A hemodynamically stable woman with 6 weeks amenorrhoea, vaginal bleeding, mild abdominal pain, beta-hCG 2800 IU/L, and a left adnexal mass 3 × 2.5 cm has unruptured ectopic pregnancy. Management?
 
@@ -1555,8 +453,7 @@ A hemodynamically stable woman with 6 weeks amenorrhoea, vaginal bleeding, mild 
 </details>
 
 ---
-
-### Q93 — Bartholin abscess — diagnosis *(2023)*
+### Q29 — Bartholin abscess — diagnosis *(2023)*
 
 A woman has painful tender swelling with redness in the labial/perineal area and difficulty walking and sitting. Diagnosis?
 
@@ -1572,8 +469,7 @@ A woman has painful tender swelling with redness in the labial/perineal area and
 </details>
 
 ---
-
-### Q94 — Infertility evaluation — timing *(2023)*
+### Q30 — Infertility evaluation — timing *(2023)*
 
 A 23-year-old woman has regular intercourse for 6 months but has not conceived. Next best step?
 
@@ -1589,8 +485,7 @@ A 23-year-old woman has regular intercourse for 6 months but has not conceived. 
 </details>
 
 ---
-
-### Q95 — PID — causative organism *(2023)*
+### Q31 — PID — causative organism *(2023)*
 
 A 28-year-old woman with multiple sexual partners has lower abdominal pain, minimal discharge, and intermenstrual bleeding. Most likely cause?
 
@@ -1606,8 +501,7 @@ A 28-year-old woman with multiple sexual partners has lower abdominal pain, mini
 </details>
 
 ---
-
-### Q96 — Transverse lie near term — management *(2023)*
+### Q32 — Transverse lie near term — management *(2023)*
 
 A G3P2L2 woman at 36+6 weeks has transverse lie, adequate liquor, normal placenta, no risk factors, and previous normal vaginal deliveries. Management?
 
@@ -1623,8 +517,7 @@ A G3P2L2 woman at 36+6 weeks has transverse lie, adequate liquor, normal placent
 </details>
 
 ---
-
-### Q97 — OHSS after gonadotropin therapy *(2023)*
+### Q33 — OHSS after gonadotropin therapy *(2023)*
 
 A woman treated for infertility with human menopausal gonadotropin develops sudden abdominal pain, nausea, vomiting, breathlessness, and enlarged cystic ovaries on ultrasound. Most likely diagnosis?
 
@@ -1640,8 +533,7 @@ A woman treated for infertility with human menopausal gonadotropin develops sudd
 </details>
 
 ---
-
-### Q98 — Hysteroscopy fluid deficit — complication *(2023)*
+### Q34 — Hysteroscopy fluid deficit — complication *(2023)*
 
 During hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL is estimated. Immediate complication?
 
@@ -1657,8 +549,7 @@ During hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL
 </details>
 
 ---
-
-### Q99 — HPV vaccine for daughter of cervical cancer patient *(2023)*
+### Q35 — HPV vaccine for daughter of cervical cancer patient *(2023)*
 
 A 54-year-old woman has advanced cervical cancer and a 14-year-old daughter. What advice should be given for the daughter?
 
@@ -1674,8 +565,7 @@ A 54-year-old woman has advanced cervical cancer and a 14-year-old daughter. Wha
 </details>
 
 ---
-
-### Q100 — Primary amenorrhea + bilateral inguinal masses *(2023)*
+### Q36 — Primary amenorrhea + bilateral inguinal masses *(2023)*
 
 A 17-year-old girl has primary amenorrhea, no breast or pubic/axillary hair development, normal height, bilateral inguinal masses, and absent uterus and ovaries on ultrasound. Most likely diagnosis?
 
@@ -1691,8 +581,7 @@ A 17-year-old girl has primary amenorrhea, no breast or pubic/axillary hair deve
 </details>
 
 ---
-
-### Q101 — Imperforate hymen — cyclic pain *(2023)*
+### Q37 — Imperforate hymen — cyclic pain *(2023)*
 
 A 16-year-old girl has cyclic pelvic pain every month, primary amenorrhea, suprapubic bulge, and PR examination shows anterior bulging swelling. Most likely diagnosis?
 
@@ -1708,8 +597,7 @@ A 16-year-old girl has cyclic pelvic pain every month, primary amenorrhea, supra
 </details>
 
 ---
-
-### Q102 — Obstetric score — previous twin delivery (current pregnancy) *(2023)*
+### Q38 — Obstetric score — previous twin delivery (current pregnancy) *(2023)*
 
 A pregnant woman already had twins delivered by normal delivery and is now pregnant. Correct obstetric score?
 
@@ -1725,8 +613,7 @@ A pregnant woman already had twins delivered by normal delivery and is now pregn
 </details>
 
 ---
-
-### Q103 — Supine hypotension in late pregnancy *(2023)*
+### Q39 — Supine hypotension in late pregnancy *(2023)*
 
 A woman at 36 weeks feels lightheaded and dizzy when lying on her back, but feels well on her side or while walking. Most likely reason?
 
@@ -1745,64 +632,183 @@ A woman at 36 weeks feels lightheaded and dizzy when lying on her back, but feel
 
 <!-- Source: PrepLadder/Medicoholic NEET-PG 2023 -->
 
-
-## Anatomy
-
-### Q104 — A student had his jaw locked *(2023)*
-
-A student had his jaw locked while yawning. Which of the following muscles is attached to the articular disc of the temporomandibular joint?
-
-- A. Lateral pterygoid
-- B. Temporalis
-- C. Medial pterygoid
-- D. Masseter
-
-<details><summary>Answer</summary>
-
-**A. Lateral pterygoid**
-
-</details>
-
----
-
-### Q105 — O3 Meckels diverticulum O4 Ligamentum teres *(2023)*
-
-O3: Meckel's diverticulum O4: Ligamentum teres Ans: 2 A patient comes with abdominal pain, jaundice, and portal hypertension. Anastomosis between which of the following veins is seen?
-
-- A. Left colic vein and middle colic veins
-- B. Esophageal veins and left gastric veins
-- C. Meckel's diverticulum
-- D. Ligamentum teres
-
-<details><summary>Answer</summary>
-
-**B. Esophageal veins and left gastric veins**
-
-</details>
-
----
-
-### Q106 — A patient presents with swelling under *(2023)*
-
-A patient presents with swelling under the left ear lobule and complains of pain. Which of the following structures is the likely cause of the pain?
-
-- A. Facial nerve
-- B. Greater auricular nerve
-- C. Auriculotemporal nerve
-- D. Investing layer of deep cervical fascia
-
-<details><summary>Answer</summary>
-
-**B. Greater auricular nerve**
-
-</details>
-
----
-
-
 ## Physiology
 
-### Q107 — Identify the marked region in the *(2023)*
+### Q40 — Heatstroke — feature NOT seen
+
+A man brought unconscious from a field; temperature 105 °F, decreased skin turgor. Which is **NOT** seen?
+
+- A. Tachypnoea
+- B. Hypotension
+- C. Sweating
+- D. Red hot skin
+
+<details><summary>Answer</summary>
+
+**C. Sweating** — Classic heatstroke = anhidrosis (failure of thermoregulation). Skin is hot and dry.
+</details>
+### Q41 — Preterm RDS — surface tension & compliance
+
+A preterm baby at 28 weeks with respiratory distress syndrome. Status?
+
+- A. Surface tension ↓ ; Compliance ↑
+- B. Surface tension ↑ ; Compliance ↓
+- C. Both decreased
+- D. Both increased
+
+<details><summary>Answer</summary>
+
+**B. Surface tension ↑, Compliance ↓** — Surfactant deficiency → high alveolar surface tension → stiff lungs.
+</details>
+
+---
+### Q42 — Spirometry — FRC identification *(image-based)*
+
+Identify the marked region in the spirometry trace (volume remaining after a normal expiration):
+
+- A. Functional residual capacity
+- B. Tidal volume
+- C. Expiratory reserve volume
+- D. Inspiratory capacity
+
+<details><summary>Answer</summary>
+
+**A. Functional residual capacity** — FRC = volume in lungs after a normal passive expiration = ERV + RV ≈ 2.3 L. Not measurable by spirometry (RV component). Measured by helium dilution, N₂ washout, or body plethysmography. ↑FRC: COPD, emphysema, asthma; ↓FRC: obesity, ARDS, pregnancy, pulmonary fibrosis.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+### Q43 — Heatstroke — NOT present
+
+Man collapsed in a field; temperature 105°F (40.6°C), decreased skin turgor. Which finding would NOT be seen?
+
+- A. Tachypnea
+- B. Hypotension
+- C. Sweating
+- D. Red hot skin
+
+<details><summary>Answer</summary>
+
+**C. Sweating** — Classic heatstroke (non-exertional): thermoregulation failure → **anhidrosis** (no sweating), hot dry skin, hyperthermia >40.5°C. Other features: tachypnea (compensatory), hypotension, altered consciousness, end-organ damage. Exertional heatstroke may have sweating. Key distinction from heat exhaustion: consciousness + thermoregulation preserved in heat exhaustion.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+### Q44 — Renal clearance — substance matching *(image-based)*
+
+Graph shows clearance ratios vs plasma concentration. Correctly matched substances with renal clearance?
+
+- A. A-Inulin, B-PAH, C-Bicarbonate, D-Inulin
+- B. A-Glucose, B-Bicarbonate, C-Inulin, D-PAH
+- C. A-PAH, B-Inulin, C-Glucose, D-Bicarbonate
+- D. A-Inulin, B-Glucose, C-Bicarbonate, D-PAH
+
+<details><summary>Answer</summary>
+
+**B. A-Glucose, B-Bicarbonate, C-Inulin, D-PAH** — Glucose: completely reabsorbed up to Tm → clearance = 0 at normal plasma [glucose]; Bicarbonate: mostly reabsorbed → clearance < GFR; Inulin: filtered only, neither secreted nor reabsorbed → clearance = GFR (100%); PAH: filtered + actively secreted → clearance > GFR (measures RPF, ≈130% at low plasma concentrations).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+### Q45 — Action potential — refractory period
+
+True statement about the nerve action potential curve:
+
+- A. Resting state is at point A
+- B. At point E the nerve is more excitable than normal
+- C. Point C–D: opening of Na⁺ channels and closure of K⁺ channels
+- D. Point B–D is the refractory period
+
+<details><summary>Answer</summary>
+
+**D. Point B to D is the refractory period** — B = peak depolarization; C = repolarization; D = hyperpolarization (after-potential). B–C = absolute refractory period (Na⁺ channels inactivated, no AP possible); C–D = relative refractory period (requires suprathreshold stimulus); D (hyperpolarization) = supernormal period. At point E (after hyperpolarization) = membrane returns to RMP.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+### Q46 — Facilitated diffusion — identification
+
+Identify the type of transport (carrier protein, no energy requirement):
+
+- A. Simple diffusion
+- B. Facilitated diffusion
+- C. Active transport
+- D. Secondary active transport
+
+<details><summary>Answer</summary>
+
+**B. Facilitated diffusion** — Facilitated diffusion: carrier protein + concentration gradient driven (no ATP); moves from high → low concentration. Examples: GLUT transporters (glucose into red cells, hepatocytes), urea channels, ion channels. Simple diffusion: no carrier. Primary active: ATP directly. Secondary active: gradient created by primary active (Na⁺ gradient).
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+### Q47 — Preterm RDS — surface tension and compliance
+
+Preterm baby (28 weeks) develops RDS. What is true about surface tension and compliance?
+
+- A. Surface tension decreased, compliance decreased
+- B. Surface tension increased, compliance decreased
+- C. Both surface tension and compliance decreased
+- D. Both surface tension and compliance increased
+
+<details><summary>Answer</summary>
+
+**B. Surface tension increased, compliance decreased** — Surfactant deficiency (preterm <34 weeks) → ↑surface tension (↑alveolar collapsing force) → progressive alveolar collapse → ↓lung compliance (stiffer lungs) → ↑work of breathing → hypoxemia. Treatment: exogenous surfactant (beractant, poractant) + CPAP/mechanical ventilation.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+### Q48 — Hyperkalemia — resting membrane potential
+
+RTA with severe muscle injury, K⁺ = 5.5 mEq/L. What happens to resting membrane potential?
+
+- A. No change
+- B. Becomes more negative (hyperpolarization)
+- C. Becomes more positive (depolarization)
+- D. First more positive then negative
+
+<details><summary>Answer</summary>
+
+**C. Becomes more positive (depolarization)** — RMP is determined by K⁺ equilibrium potential (Nernst equation). Hyperkalemia → ↓transmembrane K⁺ gradient → ↓K⁺ equilibrium potential → RMP depolarizes (less negative, closer to threshold) → membrane hyperexcitability (initially) → then Na⁺ channel inactivation → inexcitability. ECG: peaked T waves, widened QRS, sine wave pattern.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+### Q49 — Dorsal column injury — fasciculus cuneatus
+
+Cervical spine injury; fragment pierced lateral aspect of dorsal column. Finding seen?
+
+- A. Absence of ipsilateral lower limb proprioception
+- B. Absence of fine motor movement of fingers
+- C. Absence of ipsilateral arm proprioception
+- D. Absence of contralateral lower limb proprioception
+
+<details><summary>Answer</summary>
+
+**C. Absence of ipsilateral arm proprioception** — Lateral dorsal column at cervical level = fasciculus cuneatus (carries upper limb proprioception, vibration, fine touch from ipsilateral arm). Fasciculus gracilis (medial) = lower limb. Dorsal columns decussate at medulla → lesion before decussation = ipsilateral sensory loss. Posterior cord syndrome: bilateral dorsal column loss.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+### Q50 — Cardiac action potential — plateau phase
+
+True statement regarding the plateau (phase 2) on the myocardial action potential curve:
+
+- A. Opening of fast Na⁺ channels and closure of fast K⁺ channels
+- B. Slow but prolonged opening of L-type Ca²⁺ channels
+- C. Closure of Na⁺ channels and opening of slow K⁺ channels
+- D. Due to Na⁺/K⁺-ATPase pump activity
+
+<details><summary>Answer</summary>
+
+**B. Slow but prolonged opening of L-type Ca²⁺ channels** — Cardiac AP phases: 0 = fast Na⁺ influx (depolarization); 1 = transient K⁺ efflux (Ito); 2 = plateau = sustained L-type Ca²⁺ influx balances K⁺ efflux (IKr); 3 = rapid repolarization (K⁺ efflux); 4 = resting. Plateau = prolonged effective refractory period → prevents tetany. Ca²⁺ influx triggers Ca²⁺-induced Ca²⁺ release (CICR) from SR.
+
+</details>
+
+<!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
+
+---
+### Q51 — Identify the marked region in the *(2023)*
 
 Identify the marked region in the given spirometry. La
 
@@ -1818,8 +824,7 @@ Identify the marked region in the given spirometry. La
 </details>
 
 ---
-
-### Q108 — A man was brought to the *(2023)*
+### Q52 — A man was brought to the *(2023)*
 
 A man was brought to the emergency after suddenly becoming unconscious while working in the field. On examination, his temperature was 105 degrees Fahrenheit, and his skin turgor was decreased. Which of the following would not be seen in the patient?
 
@@ -1835,8 +840,7 @@ A man was brought to the emergency after suddenly becoming unconscious while wor
 </details>
 
 ---
-
-### Q109 — Identify the correctly matched pair of *(2023)*
+### Q53 — Identify the correctly matched pair of *(2023)*
 
 Identify the correctly matched pair of substances with their renal clearance from the graph below. La
 
@@ -1852,8 +856,7 @@ Identify the correctly matched pair of substances with their renal clearance fro
 </details>
 
 ---
-
-### Q110 — Identify the true statement regarding the *(2023)*
+### Q54 — Identify the true statement regarding the *(2023)*
 
 Identify the true statement regarding the given nerve action potential curve? Pr
 
@@ -1869,8 +872,7 @@ Identify the true statement regarding the given nerve action potential curve? Pr
 </details>
 
 ---
-
-### Q111 — A preterm baby who was delivered *(2023)*
+### Q55 — A preterm baby who was delivered *(2023)*
 
 A preterm baby who was delivered at 28 weeks developed respiratory distress syndrome. Which of the following is true about surface tension and compliance in this baby?
 
@@ -1886,8 +888,7 @@ A preterm baby who was delivered at 28 weeks developed respiratory distress synd
 </details>
 
 ---
-
-### Q112 — A patient came to the hospital *(2023)*
+### Q56 — A patient came to the hospital *(2023)*
 
 A patient came to the hospital after a road traffic accident. He had severe muscle injury, and his serum K+ level was found to be 5.5 mEq/L. What will happen to the resting membrane potential in this patient?
 
@@ -1903,8 +904,7 @@ A patient came to the hospital after a road traffic accident. He had severe musc
 </details>
 
 ---
-
-### Q113 — Identify the true statement regarding the *(2023)*
+### Q57 — Identify the true statement regarding the *(2023)*
 
 Identify the true statement regarding the point marked(Red) on the myocardial action potential curve?
 
@@ -1921,10 +921,37 @@ Identify the true statement regarding the point marked(Red) on the myocardial ac
 
 ---
 
-
 ## Biochemistry
 
-### Q114 — Which of the following clotting factors *(2023)*
+### Q58 — Pellagra
+
+Patient with diarrhoea, dermatitis, dementia.
+
+- A. B3 (niacin) deficiency
+- B. B1 deficiency
+- C. B6 deficiency
+- D. B12 deficiency
+
+<details><summary>Answer</summary>
+
+**A. B3 deficiency (pellagra)** — Classic 3 D's. Casal's necklace (photosensitive dermatitis around neck).
+</details>
+### Q59 — Hypoglycaemia + muscle cramps
+
+A young boy with hypoglycaemia and muscle cramps on exertion; decreased serum lactate and glucose.
+
+- A. McArdle disease
+- B. Hers disease
+- C. Cori disease
+- D. Andersen disease
+
+<details><summary>Answer</summary>
+
+**A. McArdle disease** — Myophosphorylase deficiency (GSD V). Failure of lactate rise on exercise (second-wind phenomenon).
+</details>
+
+---
+### Q60 — Which of the following clotting factors *(2023)*
 
 Which of the following clotting factors is needed for gamma-glutamyl carboxylase?
 
@@ -1940,8 +967,7 @@ Which of the following clotting factors is needed for gamma-glutamyl carboxylase
 </details>
 
 ---
-
-### Q115 — A patient presented with diarrhea, dermatitis, *(2023)*
+### Q61 — A patient presented with diarrhea, dermatitis, *(2023)*
 
 A patient presented with diarrhea, dermatitis, and dementia. Which of the following vitamin deficiencies would you suspect in this patient?
 
@@ -1957,8 +983,7 @@ A patient presented with diarrhea, dermatitis, and dementia. Which of the follow
 </details>
 
 ---
-
-### Q116 — A young boy presents to the *(2023)*
+### Q62 — A young boy presents to the *(2023)*
 
 A young boy presents to the OPD with hypoglycemia and muscle cramps, on exertion or while playing. Then he becomes normal after resting for a while. These episodes are recurrent aft a period of activity. He has decreased serum lactate and glucose levels. Which of the following diseases is he most likely to be suffering from?
 
@@ -1974,8 +999,7 @@ A young boy presents to the OPD with hypoglycemia and muscle cramps, on exertion
 </details>
 
 ---
-
-### Q117 — A family consumes only polished rice *(2023)*
+### Q63 — A family consumes only polished rice *(2023)*
 
 A family consumes only polished rice. Which of the following combinations of vitamin deficiency and enzymatic defect will be present in this family?
 
@@ -1991,8 +1015,7 @@ A family consumes only polished rice. Which of the following combinations of vit
 </details>
 
 ---
-
-### Q118 — A 4-year-old child presents with easy *(2023)*
+### Q64 — A 4-year-old child presents with easy *(2023)*
 
 A 4-year-old child presents with easy fatigability. The mother also complains that the child has increased hunger between meals, which is relieved after food. Liver examination revealed no glycogen. The enzyme most likely deficient is?
 
@@ -2008,8 +1031,7 @@ A 4-year-old child presents with easy fatigability. The mother also complains th
 </details>
 
 ---
-
-### Q119 — A child was bought with pedal *(2023)*
+### Q65 — A child was bought with pedal *(2023)*
 
 A child was bought with pedal edema and cheilosis. Cardiomegaly was present. What is the vitamin deficiency associated with this clinical presentation?
 
@@ -2025,8 +1047,7 @@ A child was bought with pedal edema and cheilosis. Cardiomegaly was present. Wha
 </details>
 
 ---
-
-### Q120 — A child presents with erythematous scaly *(2023)*
+### Q66 — A child presents with erythematous scaly *(2023)*
 
 A child presents with erythematous scaly patches in the perioral region, mucosal ulcers, and impaired epithelial wound healing. The most likely mineral deficiency associated with this condition is?
 
@@ -2042,8 +1063,7 @@ A child presents with erythematous scaly patches in the perioral region, mucosal
 </details>
 
 ---
-
-### Q121 — A patient presenting with bleeding gums *(2023)*
+### Q67 — A patient presenting with bleeding gums *(2023)*
 
 A patient presenting with bleeding gums and easy bruisability was diagnosed with scurvy. This is due to
 
@@ -2059,8 +1079,7 @@ A patient presenting with bleeding gums and easy bruisability was diagnosed with
 </details>
 
 ---
-
-### Q122 — Which of the following is seen *(2023)*
+### Q68 — Which of the following is seen *(2023)*
 
 Which of the following is seen in low insulin: glucagon ratio?
 
@@ -2076,8 +1095,7 @@ Which of the following is seen in low insulin: glucagon ratio?
 </details>
 
 ---
-
-### Q123 — An infant is brought by his *(2023)*
+### Q69 — An infant is brought by his *(2023)*
 
 An infant is brought by his parents with complaints that his urine turns black on standing. Which of the following metabolic disorders is likely?
 
@@ -2093,8 +1111,7 @@ An infant is brought by his parents with complaints that his urine turns black o
 </details>
 
 ---
-
-### Q124 — A child presents with bone pain *(2023)*
+### Q70 — A child presents with bone pain *(2023)*
 
 A child presents with bone pain and hepatosplenomegaly. A trephine biopsy and aspirate show the following finding. Which of the following is the most likely enzyme deficient in this condition? Pr
 
@@ -2111,10 +1128,9 @@ A child presents with bone pain and hepatosplenomegaly. A trephine biopsy and as
 
 ---
 
-
 ## Pathology
 
-### Q125 — Which of the following is true *(2023)*
+### Q71 — Which of the following is true *(2023)*
 
 Which of the following is true regarding the Mendelian mode of inheritance?
 
@@ -2130,8 +1146,7 @@ Which of the following is true regarding the Mendelian mode of inheritance?
 </details>
 
 ---
-
-### Q126 — A child presents with intermittent jaundice *(2023)*
+### Q72 — A child presents with intermittent jaundice *(2023)*
 
 A child presents with intermittent jaundice and splenomegaly. There is a history of similar complaints in the elder brother. Peripheral smear shows the following finding. How will you investigate this condition? Pr
 
@@ -2147,8 +1162,7 @@ A child presents with intermittent jaundice and splenomegaly. There is a history
 </details>
 
 ---
-
-### Q127 — A child presented to the hospital *(2023)*
+### Q73 — A child presented to the hospital *(2023)*
 
 A child presented to the hospital with cola-colored urine, hypertension, and puffiness of eyes. Laboratory investigations were done, and creatinine was 2.5 mg/dL. Treatment was started, and despite treatment, the patient did not improve for the next 3 weeks. The creatinine value increased to 4.5 mg/dL. Which among the following electron microscopic findings will be seen in this patient?
 
@@ -2164,8 +1178,7 @@ A child presented to the hospital with cola-colored urine, hypertension, and puf
 </details>
 
 ---
-
-### Q128 — An elderly male is known as *(2023)*
+### Q74 — An elderly male is known as *(2023)*
 
 An elderly male is known as a smoker presented with chronic cough, significant weight loss, and fatigue. Serum calcium level is raised. A lung biopsy was done, and it showed large atypical cells with hyperchromasia. What is the probable diagnosis?
 
@@ -2181,8 +1194,7 @@ An elderly male is known as a smoker presented with chronic cough, significant w
 </details>
 
 ---
-
-### Q129 — A young patient presents with a *(2023)*
+### Q75 — A young patient presents with a *(2023)*
 
 A young patient presents with a large retroperitoneal hemorrhage. He also gives a frequent history of intermittent swelling of knees on strenuous exercise. There is no history of any mucosal bleeding. Which among the following clotting factors is responsible for the condition mentioned above?
 
@@ -2199,10 +1211,37 @@ A young patient presents with a large retroperitoneal hemorrhage. He also gives 
 
 ---
 
-
 ## Microbiology
 
-### Q130 — A patient hailing from Delhi presents *(2023)*
+### Q76 — Dengue presentation
+
+A patient from Delhi with fever, arthralgia, petechial rash for 3 days; Hb 9, WBC 9000, platelets 20,000, prolonged BT, normal CT. Most likely?
+
+- A. Brucellosis
+- B. Malaria
+- C. Scrub typhus
+- D. Dengue
+
+<details><summary>Answer</summary>
+
+**D. Dengue** — Thrombocytopenia + petechiae + Delhi (endemic) + arthralgia ("break-bone fever"). Aedes aegypti vector.
+</details>
+### Q77 — Trichomonas characteristics
+
+True about *Trichomonas vaginalis*?
+
+- A. Cannot be cultured
+- B. Twitching motility on wet saline mount
+- C. Cysts seen on wet mount
+- D. Not sexually transmitted
+
+<details><summary>Answer</summary>
+
+**B. Twitching motility on wet saline mount** — Pear-shaped flagellate. Cultured on Diamond's medium. Sexually transmitted; no cyst form.
+</details>
+
+---
+### Q78 — A patient hailing from Delhi presents *(2023)*
 
 A patient hailing from Delhi presents with fever, arthralgia, and extensive petechial rash for 3 days. Lab investigations revealed a hemoglobin of 9 g/ dL, a white blood cell count of 9000 cells/mm3, a platelet count of 20000 cells/mm3, and a prolonged bleeding time. The clotting time was normal. What is the most likely diagnosis?
 
@@ -2218,8 +1257,7 @@ A patient hailing from Delhi presents with fever, arthralgia, and extensive pete
 </details>
 
 ---
-
-### Q131 — Which of the following statements is *(2023)*
+### Q79 — Which of the following statements is *(2023)*
 
 Which of the following statements is true about Trichomonas vaginalis?
 
@@ -2235,8 +1273,7 @@ Which of the following statements is true about Trichomonas vaginalis?
 </details>
 
 ---
-
-### Q132 — A lady from West Rajasthan presented *(2023)*
+### Q80 — A lady from West Rajasthan presented *(2023)*
 
 A lady from West Rajasthan presented with an ulcer surrounded by erythema on the right leg. Microscopy of the biopsy from the edge of the ulcer showed organisms with dark staining nuclei and kinetoplast. What is the most likely causative agent?
 
@@ -2252,8 +1289,7 @@ A lady from West Rajasthan presented with an ulcer surrounded by erythema on the
 </details>
 
 ---
-
-### Q133 — Infection with Clonorchis sinensis is associated *(2023)*
+### Q81 — Infection with Clonorchis sinensis is associated *(2023)*
 
 Infection with Clonorchis sinensis is associated with an increased risk of__?
 
@@ -2269,8 +1305,7 @@ Infection with Clonorchis sinensis is associated with an increased risk of__?
 </details>
 
 ---
-
-### Q134 — A patient presented with complaints of *(2023)*
+### Q82 — A patient presented with complaints of *(2023)*
 
 A patient presented with complaints of persistent cough and weight loss. He had a history of contact with multiple sexual partners. He was diagnosed as HIV positive 6 months back and is poorly adherent to his medications. The fungal culture of sputum was negative. On Gomori methamine silver staining, the cells showed darkly stained crescent-shaped cysts. What is the most likely causative organism?
 
@@ -2286,8 +1321,7 @@ A patient presented with complaints of persistent cough and weight loss. He had 
 </details>
 
 ---
-
-### Q135 — A sewage worker presented with abdominal *(2023)*
+### Q83 — A sewage worker presented with abdominal *(2023)*
 
 A sewage worker presented with abdominal pain, jaundice, conjunctival injection, and blood in the urine for the past 5 days. Which of the following is the investigation of choice?
 
@@ -2303,8 +1337,7 @@ A sewage worker presented with abdominal pain, jaundice, conjunctival injection,
 </details>
 
 ---
-
-### Q136 — Which of the following laboratory test *(2023)*
+### Q84 — Which of the following laboratory test *(2023)*
 
 Which of the following laboratory test is used to diagnose rotavirus diarrhea?
 
@@ -2320,8 +1353,7 @@ Which of the following laboratory test is used to diagnose rotavirus diarrhea?
 </details>
 
 ---
-
-### Q137 — rigidity CSF analysis showed low glucose, *(2023)*
+### Q85 — rigidity CSF analysis showed low glucose, *(2023)*
 
 rigidity. CSF analysis showed low glucose, high protein, and many polymorphs. The CSF culture showed pleomorphic gram-negative bacilli. What is true about the causative organism?
 
@@ -2337,8 +1369,7 @@ rigidity. CSF analysis showed low glucose, high protein, and many polymorphs. Th
 </details>
 
 ---
-
-### Q138 — A patient presented with a high *(2023)*
+### Q86 — A patient presented with a high *(2023)*
 
 A patient presented with a high fever, altered sensorium, headache, neck rigidity, and seizures. He was diagnosed with HSV encephalitis. Which of the following tests can be used to confirm the diagnosis?
 
@@ -2355,10 +1386,37 @@ A patient presented with a high fever, altered sensorium, headache, neck rigidit
 
 ---
 
-
 ## Pharmacology
 
-### Q139 — A bronchial asthma patient on inhalational *(2023)*
+### Q87 — Oral candidiasis from inhaled steroid
+
+A bronchial asthma patient on inhalational steroids with white patchy lesions on tongue/buccal mucosa. Treatment drug?
+
+- A. Clotrimazole
+- B. Griseofulvin
+- C. Terbinafine
+- D. Flucytosine
+
+<details><summary>Answer</summary>
+
+**A. Clotrimazole** — Topical azole for oral candidiasis. Also advise rinsing mouth after inhaler use.
+</details>
+### Q88 — PPH in asthmatic — avoid which uterotonic
+
+Pregnant woman with bronchial asthma in third stage of labour; which drug to **avoid** for PPH?
+
+- A. Carboprost
+- B. Oxytocin
+- C. Dinoprostone
+- D. Methylergometrine
+
+<details><summary>Answer</summary>
+
+**A. Carboprost (PGF2α)** — Causes bronchospasm; contraindicated in asthma. Methylergometrine contraindicated in hypertension.
+</details>
+
+---
+### Q89 — A bronchial asthma patient on inhalational *(2023)*
 
 A bronchial asthma patient on inhalational steroids presented with white patchy lesions on the tongue and buccal mucosa. What is the drug that can be used to treat this condition?
 
@@ -2374,8 +1432,7 @@ A bronchial asthma patient on inhalational steroids presented with white patchy 
 </details>
 
 ---
-
-### Q140 — Name the drug that acts on *(2023)*
+### Q90 — Name the drug that acts on *(2023)*
 
 Name the drug that acts on both the marked areas. ep
 
@@ -2391,8 +1448,7 @@ Name the drug that acts on both the marked areas. ep
 </details>
 
 ---
-
-### Q141 — A young female comes to the *(2023)*
+### Q91 — A young female comes to the *(2023)*
 
 A young female comes to the emergency department after consuming 100 aspirin tablets. What should be the next step in management?
 
@@ -2408,8 +1464,7 @@ A young female comes to the emergency department after consuming 100 aspirin tab
 </details>
 
 ---
-
-### Q142 — A patient with recurrent gout attacks *(2023)*
+### Q92 — A patient with recurrent gout attacks *(2023)*
 
 A patient with recurrent gout attacks was started on a therapy that inhibits uric acid synthesis. His symptoms were reduced after therapy. Which drug was he started on?
 
@@ -2425,8 +1480,7 @@ A patient with recurrent gout attacks was started on a therapy that inhibits uri
 </details>
 
 ---
-
-### Q143 — A patient with a malignancy is *(2023)*
+### Q93 — A patient with a malignancy is *(2023)*
 
 A patient with a malignancy is undergoing chemotherapy. The platelet counts were reduced after the previous cycle of chemotherapy. Which of the following drugs can be used to treat this patient?
 
@@ -2442,8 +1496,7 @@ A patient with a malignancy is undergoing chemotherapy. The platelet counts were
 </details>
 
 ---
-
-### Q144 — A patient given digoxin started having *(2023)*
+### Q94 — A patient given digoxin started having *(2023)*
 
 A patient given digoxin started having side effects like nausea and vomiting. The serum concentration of digoxin was 4 mg/dL. The plasma therapeutic range is 1 mg/dL. If the half-life of digoxin is 40 hours, how long should one wait before resuming the treatment?
 
@@ -2459,8 +1512,7 @@ A patient given digoxin started having side effects like nausea and vomiting. Th
 </details>
 
 ---
-
-### Q145 — The mechanism of action of tissue *(2023)*
+### Q95 — The mechanism of action of tissue *(2023)*
 
 The mechanism of action of tissue plasminogen activator is
 
@@ -2476,11 +1528,200 @@ The mechanism of action of tissue plasminogen activator is
 </details>
 
 ---
+### Q96 — Isoniazid + peripheral neuropathy
 
+A patient started on isoniazid for TB develops peripheral neuropathy. What should be co-administered to prevent this?
+
+- A. Pyridoxine
+- B. Niacin
+- C. Riboflavin
+- D. Ascorbic acid
+
+<details><summary>Answer</summary>
+
+**A. Pyridoxine** — Isoniazid interferes with pyridoxine (vitamin B6) metabolism by forming inactive hydrazones → functional B6 deficiency → peripheral neuropathy. Prophylactic pyridoxine 10–50 mg/day prevents this; especially in malnourished, diabetic, alcoholic, pregnant, and HIV+ patients.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q97 — Drug causing Torsades de Pointes
+
+Which drug most commonly causes Torsades de Pointes?
+
+- A. Amiodarone
+- B. Sotalol
+- C. Verapamil
+- D. Lignocaine
+
+<details><summary>Answer</summary>
+
+**B. Sotalol** — Class III antiarrhythmic with non-selective β-blocking activity; prolongs QT in a dose-dependent manner → highest risk of TdP among antiarrhythmics. Amiodarone prolongs QT but rarely causes TdP (homogeneous repolarisation). Verapamil/lignocaine do not prolong QT.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q98 — Delayed chemotherapy-induced nausea
+
+A patient undergoing chemotherapy develops severe vomiting. Best drug for delayed chemotherapy-induced nausea and vomiting (CINV)?
+
+- A. Metoclopramide
+- B. Ondansetron
+- C. Domperidone
+- D. Aprepitant
+
+<details><summary>Answer</summary>
+
+**D. Aprepitant** — NK1 receptor antagonist; most effective for **delayed CINV** (24–120 h post-chemotherapy). Combined with 5-HT3 antagonist (ondansetron) + dexamethasone for highly emetogenic regimens (cisplatin, AC). Ondansetron alone is better for acute (<24 h) CINV.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q99 — Ivermectin mechanism
+
+Mechanism of action of ivermectin?
+
+- A. Inhibits microtubules
+- B. Enhances GABA-mediated Cl⁻ influx
+- C. Inhibits DNA synthesis
+- D. Calcium channel blocker
+
+<details><summary>Answer</summary>
+
+**B. Enhances GABA-mediated Cl⁻ influx** — Ivermectin acts on glutamate-gated chloride channels (invertebrate-specific) and potentiates GABA-mediated Cl⁻ influx → hyperpolarisation and paralysis of parasites. Used in onchocerciasis, lymphatic filariasis, strabismus, scabies, head lice. Crosses BBB only in P-glycoprotein-deficient hosts (Collie dogs).
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q100 — Longest-acting insulin
+
+Which insulin has the longest duration of action?
+
+- A. NPH
+- B. Glargine
+- C. Lispro
+- D. Regular
+
+<details><summary>Answer</summary>
+
+**B. Glargine** — Long-acting basal insulin analogue; ~24 h duration with no pronounced peak (precipitates at neutral pH at injection site → slow dissolution). Degludec is even longer (>42 h). NPH = intermediate-acting (12–18 h). Lispro/aspart = rapid-acting (3–5 h). Regular = short-acting (6–8 h).
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q101 — Antihypertensive contraindicated in pregnancy
+
+Which antihypertensive drug is contraindicated during pregnancy?
+
+- A. Methyldopa
+- B. Labetalol
+- C. Enalapril
+- D. Nifedipine
+
+<details><summary>Answer</summary>
+
+**C. Enalapril** — ACE inhibitors are teratogenic, especially in 2nd/3rd trimester → fetal renal dysgenesis, oligohydramnios, pulmonary hypoplasia, hypocalvaria, fetal death. ARBs are similarly contraindicated. Safe alternatives: methyldopa (1st-line), labetalol, nifedipine, hydralazine.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q102 — Antibiotic unsafe in pregnancy
+
+Which antibiotic is unsafe in pregnancy?
+
+- A. Penicillin
+- B. Erythromycin
+- C. Tetracycline
+- D. Cephalexin
+
+<details><summary>Answer</summary>
+
+**C. Tetracycline** — Tetracyclines chelate calcium → deposit in developing teeth (yellow-brown discolouration), bones (inhibits growth), and may cause acute fatty liver of pregnancy. Avoid after 18 weeks gestation and in children <8 years. Penicillins, cephalosporins, and erythromycin (except estolate) are safe.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q103 — First-line drug for primary open-angle glaucoma
+
+Drug of choice for open-angle glaucoma?
+
+- A. Timolol
+- B. Atropine
+- C. Pilocarpine
+- D. Acetazolamide
+
+<details><summary>Answer</summary>
+
+**A. Timolol** — Non-selective β-blocker; reduces aqueous humour production by ciliary body → lowers IOP. First-line topical agent. Avoid in asthma/COPD, bradycardia, heart block. Prostaglandin analogues (latanoprost) now preferred 1st-line in many guidelines; pilocarpine rarely used due to miosis/pupillary block side effects.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q104 — Rifampicin + warfarin interaction
+
+A patient on rifampicin and warfarin — effect on INR?
+
+- A. Increase
+- B. Decrease
+- C. No change
+- D. Fluctuate unpredictably
+
+<details><summary>Answer</summary>
+
+**B. Decrease** — Rifampicin is a **potent inducer** of CYP450 enzymes (CYP3A4, CYP2C9) → ↑warfarin metabolism → ↓anticoagulant effect → ↓INR → thrombotic risk. Requires upward warfarin dose adjustment. Other inducers: phenytoin, carbamazepine, barbiturates, St. John's wort.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+### Q105 — Selective COX-2 inhibitor
+
+Which of the following is a selective COX-2 inhibitor?
+
+- A. Aspirin
+- B. Diclofenac
+- C. Celecoxib
+- D. Ibuprofen
+
+<details><summary>Answer</summary>
+
+**C. Celecoxib** — Selective COX-2 inhibitor → anti-inflammatory and analgesic with fewer GI side effects (peptic ulcer) than non-selective NSAIDs. Used in osteoarthritis, RA, ankylosing spondylitis. Increased cardiovascular risk (limit duration). Rofecoxib withdrawn due to MI risk. Etoricoxib, parecoxib are other COX-2 selective agents.
+
+</details>
+
+<!-- SOURCE: diginerve.com NEET-PG previous-year pharmacology | OPTIONS_GENERATED: false -->
+
+---
 
 ## Forensic Medicine
 
-### Q146 — The method of autopsy carried out *(2023)*
+### Q106 — Garden fruit poisoning + antidote
+
+A child ate a garden fruit; develops high fever, confusion, photophobia, urinary retention. Cause and antidote?
+
+- A. Datura, pralidoxime
+- B. Datura, physostigmine
+- C. Yellow oleander, pralidoxime
+- D. Yellow oleander, physostigmine
+
+<details><summary>Answer</summary>
+
+**B. Datura, physostigmine** — Anticholinergic poisoning. Physostigmine crosses BBB (unlike neostigmine).
+</details>
+### Q107 — Letulle autopsy technique
+
+Autopsy method removing organs en masse from tongue to prostate?
+
+- A. Virchow
+- B. Rokitansky
+- C. Ghon
+- D. Letulle
+
+<details><summary>Answer</summary>
+
+**D. Letulle technique** — En masse removal; preserves anatomical relations.
+</details>
+
+---
+### Q108 — The method of autopsy carried out *(2023)*
 
 The method of autopsy carried out en masse to remove from tongue to prostate is.
 
@@ -2496,8 +1737,7 @@ The method of autopsy carried out en masse to remove from tongue to prostate is.
 </details>
 
 ---
-
-### Q147 — A 10-year-old male child came to *(2023)*
+### Q109 — A 10-year-old male child came to *(2023)*
 
 A 10-year-old male child came to the casualty with difficulty in walking and pain in the perianal region. On subjecting the specimen from the perianal region to a test, it produces yellow needle-shaped rhombic crystals with picric acid. What is the test done?
 
@@ -2513,8 +1753,7 @@ A 10-year-old male child came to the casualty with difficulty in walking and pai
 </details>
 
 ---
-
-### Q148 — A patient was brought to casualty *(2023)*
+### Q110 — A patient was brought to casualty *(2023)*
 
 A patient was brought to casualty with seizures. He had multiple episodes and was taking herbal medicines for the same. He was conscious in between the episodes. During the episodes, he had arching of his back. What is the likely cause?
 
@@ -2530,8 +1769,7 @@ A patient was brought to casualty with seizures. He had multiple episodes and wa
 </details>
 
 ---
-
-### Q149 — The temperature of a body of *(2023)*
+### Q111 — The temperature of a body of *(2023)*
 
 The temperature of a body of a deceased person is found to be 39 degrees Celsius. Which of the following is the most probable reason?
 
@@ -2547,8 +1785,7 @@ The temperature of a body of a deceased person is found to be 39 degrees Celsius
 </details>
 
 ---
-
-### Q150 — A farmer was sleeping in the *(2023)*
+### Q112 — A farmer was sleeping in the *(2023)*
 
 A farmer was sleeping in the field, and he felt a sting on his leg. He saw something moving away quickly. He then got drowsy and was taken to the hospital. He developed pain around the site and continued to bleed profusely from the wound site. The wound became red with blisters. Which of the following is the most likely cause?
 
@@ -2565,10 +1802,279 @@ A farmer was sleeping in the field, and he felt a sting on his leg. He saw somet
 
 ---
 
-
 ## Community Medicine
 
-### Q151 — In a village, it is observed *(2023)*
+### Q113 — Crossed gait in farmers (lathyrism)
+
+Village farmers with crossed (scissor) gait using stick support; diet limited to rice and pulses. Which supplementation could prevent?
+
+- A. Vitamin A
+- B. Vitamin D
+- C. Vitamin C
+- D. Vitamin B
+
+<details><summary>Answer</summary>
+
+**D. Vitamin B** *(per answer key)* — Neurolathyrism from *Lathyrus sativus*; β-ODAP toxicity. (Some sources favour adequate nutrition / detoxification.)
+</details>
+### Q114 — Aniline dye + bladder cancer study
+
+Research on aniline-dye exposure and bladder cancer in workers employed >20 years; exposed handlers vs office clerks. Study type?
+
+- A. Retrospective cohort study
+- B. Prospective cohort study
+- C. Case-control study
+- D. Intervention
+
+<details><summary>Answer</summary>
+
+**A. Retrospective cohort study** — Exposure status defined in the past; outcome (bladder cancer) tracked forward from past records.
+</details>
+
+---
+### Q115 — Neurolathyrism: vitamin supplement
+
+In a village, several farmers have a scissor gait and use a stick for support. Due to poor crop yields, they consume meals of rice and pulse. Supplementing their diet with which vitamin could have prevented this?
+
+- A. Vitamin A
+- B. Vitamin D
+- C. Vitamin C
+- D. Vitamin B complex
+
+<details><summary>Answer</summary>
+
+**C. Vitamin C** — **Neurolathyrism** is caused by consumption of *Lathyrus sativus* (khesari dal / grass pea) due to the toxin **BOAA** (beta-oxalyl-amino-alanine). Vitamin C at 500–1000 mg/day is beneficial as it antagonises the excitotoxic effect of BOAA. The condition presents as spastic paraparesis (UMN disease).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q116 — Smear-negative TB: next step per NTEP guidelines
+
+A 35-year-old homeless man has 1 month of fever, cough, and weight loss. Both sputum smears are negative but chest X-ray is suggestive of TB. According to recent NTEP guidelines, what is the next best step?
+
+- A. Repeat sputum smear examination
+- B. CBNAAT (GeneXpert MTB/RIF)
+- C. Line probe assay
+- D. Wait for radiology results before starting ATT
+
+<details><summary>Answer</summary>
+
+**B. CBNAAT (GeneXpert MTB/RIF)** — Per NTEP guidelines: for smear-negative presumptive TB with suspicious clinical and radiological features, the next step is **CBNAAT** (cartridge-based nucleic acid amplification test/GeneXpert). It simultaneously detects *M. tuberculosis* and rifampicin resistance within 2 hours. Line probe assay is for drug-resistance testing.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q117 — Aniline dye and bladder cancer: study type
+
+Research is conducted on aniline dye exposure and bladder cancer in workers employed in the industry for >20 years. Two groups are formed — one with direct dye handling exposure, and office clerks with no dye exposure. Records of past years of employment are reviewed. What type of study is this?
+
+- A. Retrospective cohort study
+- B. Prospective cohort study
+- C. Case-control study
+- D. Randomised controlled trial
+
+<details><summary>Answer</summary>
+
+**A. Retrospective cohort study** — The study has two groups defined by **exposure status** (exposed vs unexposed), which is the design of a cohort study. Since exposure and outcome data come from **past records** (retrospective), it is a retrospective/historical cohort study. In a case-control study, groups would be defined by disease status (cases vs controls).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q118 — Blood pressure tracking from childhood to adulthood
+
+Blood pressure of a population was tracked from childhood to adulthood. Those with lower BP in childhood had lower BP in adulthood; those with higher BP in childhood had higher BP in adulthood. This is best described as:
+
+- A. Rule of halves
+- B. Tracking of blood pressure
+- C. STEPwise approach
+- D. Primordial prevention
+
+<details><summary>Answer</summary>
+
+**B. Tracking of blood pressure** — **Tracking** refers to the tendency for blood pressure (and other physiological variables like BMI, cholesterol) measured in childhood to predict adult values, maintaining their rank within a population over time. This forms the basis for early identification and intervention in childhood hypertension.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q119 — Night blindness in pregnant woman: whose duty to counsel?
+
+A 30-week primigravida reports reduced vision at night. She has been avoiding papaya, mango, and other fruits throughout pregnancy, believing they cause abortions. It is the primary duty of which worker to provide counselling?
+
+- A. ANM
+- B. Medical officer
+- C. Trained birth attendant
+- D. ASHA
+
+<details><summary>Answer</summary>
+
+**D. ASHA (Accredited Social Health Activist)** — ASHA is the frontline community health worker and a resident woman of the village responsible for providing counselling, health education, and motivating families to use health services. She specifically addresses myths and misconceptions about diet and antenatal care in the community. ANM focuses on clinical/preventive services.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q120 — STI syndromic management: kit for cervicitis
+
+A 22-year-old female comes to the STI clinic with minimal vaginal discharge. Speculum examination shows erosions on the cervix. Which kit should be given?
+
+- A. Green kit
+- B. Red kit
+- C. Gray kit
+- D. Yellow kit
+
+<details><summary>Answer</summary>
+
+**C. Gray kit** — NACO STI/RTI syndromic management kits: **Gray kit** = cervical discharge/erosions (cervicitis) = contains cefixime + azithromycin (to cover gonorrhoea + chlamydia). Green kit = vaginal discharge (vaginitis). Red kit = genital ulcer disease. Yellow kit = lower abdominal pain (PID).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q121 — Years of potential life lost (YPLL)
+
+The years of potential life lost (YPLL) could be attributed to:
+
+- A. Years lost to morbidity
+- B. Years lost due to premature death
+- C. Years lost to disability
+- D. Years lost to poor quality of life
+
+<details><summary>Answer</summary>
+
+**B. Years lost due to premature death** — YPLL = mortality indicator measuring the number of years a person would have been expected to live (reference = 75 years) had they not died prematurely. Formula: YPLL = Σ (reference age − age at death) for all deaths before reference age. Higher YPLL in younger-onset diseases (accidents, suicide, cancer).
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q122 — School immunisation programme: vaccine for 10-year-old
+
+In a 10-year-old school child, which vaccine is given as part of the school immunisation programme?
+
+- A. Measles vaccine
+- B. Rotavirus vaccine
+- C. TT/Td vaccine
+- D. Hepatitis B vaccine
+
+<details><summary>Answer</summary>
+
+**C. TT/Td vaccine** — National Immunisation Schedule (India): **TT/Td at 10 years** and again at 16 years as school-age booster doses (given under the school immunisation programme). Measles = 9 months + 15–18 months. Rotavirus = 6, 10, 14 weeks. Hepatitis B = birth + 6 + 10 + 14 weeks.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q123 — Colombo Plan: assistance for cancer in India
+
+Aid to set up which type of cancer treatment unit in Indian medical institutions was part of the Colombo Plan?
+
+- A. PET scan units for cancer diagnosis
+- B. Human resource development in oncology
+- C. Linear accelerator (LINAC) radiotherapy units
+- D. Cobalt therapy units
+
+<details><summary>Answer</summary>
+
+**D. Cobalt therapy units** — The **Colombo Plan** (1951) provided aid for development in Asia-Pacific. Specifically, setting up **cobalt-60 therapy units** for cancer treatment at medical institutions in India was a key component. Cobalt therapy (external beam radiation) was the primary radiotherapy technology available at that time.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q124 — Neurolathyrism: responsible toxin
+
+A poor farmer with successive crop failures develops progressive spastic paraparesis with upper motor neuron signs and gait instability. What is the toxin responsible?
+
+- A. Aflatoxin
+- B. Beta-oxalyl-amino-alanine (BOAA)
+- C. Ergot alkaloids
+- D. Fusarium toxin
+
+<details><summary>Answer</summary>
+
+**B. Beta-oxalyl-amino-alanine (BOAA)** — **Neurolathyrism** = spastic paraparesis caused by BOAA toxin from *Lathyrus sativus* (khesari dal). Consumed during famines/crop failures when it is the only affordable food. BOAA is an excitatory amino acid that causes irreversible UMN damage. Aflatoxin → hepatocellular carcinoma; ergot alkaloids → ergotism; fusarium toxins → trichothecene mycotoxicosis.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q125 — Tetanus prophylaxis: clean wound, full course 10 years ago
+
+A young male presents with a clean-cut wound without bleeding. He received a full course of tetanus vaccination 10 years ago. What is the best management?
+
+- A. Human tetanus immunoglobulin + full course of vaccine
+- B. Human tetanus immunoglobulin only
+- C. Single-dose tetanus toxoid
+- D. Full course tetanus toxoid
+
+<details><summary>Answer</summary>
+
+**C. Single-dose tetanus toxoid** — Algorithm: **Clean wound + fully immunised + last dose >10 years** → 1 booster dose of Td (tetanus-diphtheria toxoid). No TIG required for clean wounds. Tetanus-prone wound + last dose >5 years → Td + TIG. Unimmunised + any wound → full course (3 doses) + TIG.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q126 — Water sample collection during outbreak: correct method
+
+How should water be collected for bacteriological examination during a disease outbreak?
+
+- A. Collect from an already opened tap
+- B. Let water flow for at least 1 minute before collecting
+- C. Keep the container close to the tap to avoid spillage
+- D. Collect from a gentle stream of water to avoid splashing
+
+<details><summary>Answer</summary>
+
+**D. Collect from a gentle stream of water to avoid splashing** — For bacteriological water sampling from a tap in regular use during an outbreak: open the tap to produce a **gentle stream** of water, hold the sterile container under the stream, and collect without splashing (splashing can contaminate the sample from the outside). The container must not touch the tap.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q127 — Recommended Dietary Allowance (RDA) definition
+
+The average daily dietary nutrient intake level sufficient to meet the nutrient requirements of nearly all (97–98%) healthy individuals in a particular life stage and gender group is known as:
+
+- A. Adequate intake
+- B. Dietary goal
+- C. Estimated average requirement
+- D. Recommended dietary allowance
+
+<details><summary>Answer</summary>
+
+**D. Recommended Dietary Allowance (RDA)** — RDA = mean + 2 SD of requirement, covering ~97.5% of the population. **Estimated Average Requirement (EAR)** = meets needs of 50% of individuals. **Adequate Intake (AI)** = used when RDA cannot be determined. Dietary goal = population-level targets for chronic disease prevention.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q128 — Chickenpox outbreak in boys' hostel: management
+
+A boys' hostel has an outbreak of fever, headache, and pleomorphic rashes sparing the palms and soles. What is the next best step in management of suspected cases?
+
+- A. Isolate for 6 days after onset of rash, give acyclovir, and offer VZIG to susceptible contacts within 72 hours
+- B. Isolate for 12 days, give acyclovir, and offer VZIG within 48 hours
+- C. Isolate for 6 days only (no antiviral or VZIG needed)
+- D. Administer VZIG to all students
+
+<details><summary>Answer</summary>
+
+**A. Isolate for 6 days, give acyclovir, and offer VZIG to susceptible contacts within 72 hours** — **Varicella (chickenpox)**: pleomorphic rash in crops sparing palms/soles. Management: acyclovir (5 days); isolate until all lesions are crusted (~5–6 days after onset). VZIG (Varicella-Zoster Immunoglobulin) should be given to susceptible high-risk contacts within 96 hours (ideally 72 hours) of exposure.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+### Q129 — IMR as sensitive indicator of healthcare
+
+Which of the following is the most sensitive indicator to assess the availability, utilisation, and effectiveness of healthcare in a community?
+
+- A. Infant mortality rate
+- B. Maternal mortality rate
+- C. Immunisation coverage
+- D. Under-5 mortality rate
+
+<details><summary>Answer</summary>
+
+**A. Infant mortality rate (IMR)** — IMR = deaths in the first year of life per 1000 live births. It is universally accepted as the most sensitive indicator of the health status of a community, reflecting nutrition, sanitation, maternal health, immunisation, healthcare access, and socioeconomic conditions. India's IMR (2020) = 28/1000 live births.
+
+</details>
+
+<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
+
+---
+### Q130 — In a village, it is observed *(2023)*
 
 In a village, it is observed that several farmers have crossed gait and use a stick for support to stand up and walk. Due to poor yield from farms, they consume meals containing rice and pulses only. Supplementing their diet with which of the following vitamins could have prevented this?
 
@@ -2584,8 +2090,7 @@ In a village, it is observed that several farmers have crossed gait and use a st
 </details>
 
 ---
-
-### Q152 — The blood pressure of a population *(2023)*
+### Q131 — The blood pressure of a population *(2023)*
 
 The blood pressure of a population was tracked from childhood to adulthood. It was observed that those who had lower BP in childhood had low BP in adulthood, while those who had higher BP in childhood had high BP in adulthood. This can be best described as
 
@@ -2601,8 +2106,7 @@ The blood pressure of a population was tracked from childhood to adulthood. It w
 </details>
 
 ---
-
-### Q153 — A 30-week primigravida complaints of reduced *(2023)*
+### Q132 — A 30-week primigravida complaints of reduced *(2023)*
 
 A 30-week primigravida complaints of reduced vision at night. She has been avoiding papaya, mango, and other fruits throughout her pregnancy as she thinks they could be abortifacients. It is the primary duty of which of the following workers to provide counseling and information to the patient?
 
@@ -2618,7 +2122,7 @@ A 30-week primigravida complaints of reduced vision at night. She has been avoid
 </details>
 
 ---
-### Q154 — In a 10-year-old school child, which *(2023)*
+### Q133 — In a 10-year-old school child, which *(2023)*
 
 In a 10-year-old school child, which of the following vaccines is given as a part of the school immunization program?
 
@@ -2634,8 +2138,7 @@ In a 10-year-old school child, which of the following vaccines is given as a par
 </details>
 
 ---
-
-### Q155 — A 10-year-old child presents with throat *(2023)*
+### Q134 — A 10-year-old child presents with throat *(2023)*
 
 A 10-year-old child presents with throat pain, fever, and ear pain. He is diagnosed with recurrent tonsillitis. Which nerve is responsible for the ear pain in this patient?
 
@@ -2651,8 +2154,7 @@ A 10-year-old child presents with throat pain, fever, and ear pain. He is diagno
 </details>
 
 ---
-
-### Q156 — A poor farmer with a history *(2023)*
+### Q135 — A poor farmer with a history *(2023)*
 
 A poor farmer with a history of successive crop failure develops progressive spastic paraparesis, signs of upper motor neuron paralysis, and gait instability. Name the toxin responsible for this condition.
 
@@ -2668,8 +2170,7 @@ A poor farmer with a history of successive crop failure develops progressive spa
 </details>
 
 ---
-
-### Q157 — A young male came to the *(2023)*
+### Q136 — A young male came to the *(2023)*
 
 A young male came to the hospital with a clean-cut wound without any bleeding. The patient received a full course of tetanus vaccination 10 years ago. What is the best management for this patient?
 
@@ -2685,8 +2186,7 @@ A young male came to the hospital with a clean-cut wound without any bleeding. T
 </details>
 
 ---
-
-### Q158 — How is water collected for bacteriological *(2023)*
+### Q137 — How is water collected for bacteriological *(2023)*
 
 How is water collected for bacteriological examination during a disease outbreak?
 
@@ -2702,8 +2202,7 @@ How is water collected for bacteriological examination during a disease outbreak
 </details>
 
 ---
-
-### Q159 — A boys hostel has an outbreak *(2023)*
+### Q138 — A boys hostel has an outbreak *(2023)*
 
 A boys' hostel has an outbreak of fever cases with headache, followed by the development of pleomorphic rashes sparing palms and soles. What is the next best step in the management of suspected cases? VZIG-Varicella zoster immunoglobulin
 
@@ -2719,8 +2218,7 @@ A boys' hostel has an outbreak of fever cases with headache, followed by the dev
 </details>
 
 ---
-
-### Q160 — A 35-year-old homeless man presented with *(2023)*
+### Q139 — A 35-year-old homeless man presented with *(2023)*
 
 A 35-year-old homeless man presented with a 1-month history of fever, cough, and weight loss. Both sputum smears turned out to be negative, but the chest x-ray ordered was suggestive of tuberculosis. According to the recent NTEP guidelines, which is the next best line of management?
 
@@ -2736,8 +2234,7 @@ A 35-year-old homeless man presented with a 1-month history of fever, cough, and
 </details>
 
 ---
-
-### Q161 — A chronic smoker who worked in *(2023)*
+### Q140 — A chronic smoker who worked in *(2023)*
 
 A chronic smoker who worked in a cement factory for 20 years developed mesothelioma. The association is likely to be due to ________.
 
@@ -2754,10 +2251,37 @@ A chronic smoker who worked in a cement factory for 20 years developed mesotheli
 
 ---
 
-
 ## Medicine
 
-### Q162 — A patient with hyperkalemia and elevated *(2023)*
+### Q141 — Dialysis disequilibrium
+
+Patient post-dialysis (high urea/K+) becomes drowsy, has seizures, hypotension. Treatment?
+
+- A. Bumetanide
+- B. Ethacrynic acid
+- C. Nesiritide
+- D. IV Mannitol
+
+<details><summary>Answer</summary>
+
+**D. IV Mannitol** — Dialysis disequilibrium syndrome: cerebral oedema from rapid urea removal. Mannitol shrinks brain water.
+</details>
+### Q142 — Thyroid storm with asthma
+
+Female with restlessness, palpitations, tremors; asthma; swollen neck, BP↑, tachycardia, AF. Immediate drug?
+
+- A. Diltiazem
+- B. Propranolol
+- C. Esmolol
+- D. PTU
+
+<details><summary>Answer</summary>
+
+**A. Diltiazem** — Propranolol/esmolol contraindicated in asthma. Diltiazem controls HR in thyroid storm + asthma.
+</details>
+
+---
+### Q143 — A patient with hyperkalemia and elevated *(2023)*
 
 A patient with hyperkalemia and elevated urea levels underwent dialysis. Towards the end of the session, she became drowsy and had a sudden seizure episode. On examination, the patient was hypotensive. What is the treatment for this condition?
 
@@ -2773,8 +2297,7 @@ A patient with hyperkalemia and elevated urea levels underwent dialysis. Towards
 </details>
 
 ---
-
-### Q163 — A middle-aged man complains of very *(2023)*
+### Q144 — A middle-aged man complains of very *(2023)*
 
 A middle-aged man complains of very early ejaculation during intercourse. What is the non-pharmacological management that can be advised to the patient?
 
@@ -2790,8 +2313,7 @@ A middle-aged man complains of very early ejaculation during intercourse. What i
 </details>
 
 ---
-
-### Q164 — What is the diagnostic test done *(2023)*
+### Q145 — What is the diagnostic test done *(2023)*
 
 What is the diagnostic test done on this patient?
 
@@ -2807,8 +2329,7 @@ What is the diagnostic test done on this patient?
 </details>
 
 ---
-
-### Q165 — A newborn presented with chest retractions, *(2023)*
+### Q146 — A newborn presented with chest retractions, *(2023)*
 
 A newborn presented with chest retractions, dyspnea, and lethargy. The pediatrician diagnosed the baby with respiratory distress syndrome. This occurs due to the deficiency of:
 
@@ -2824,8 +2345,7 @@ A newborn presented with chest retractions, dyspnea, and lethargy. The pediatric
 </details>
 
 ---
-
-### Q166 — A male patient presented to the *(2023)*
+### Q147 — A male patient presented to the *(2023)*
 
 A male patient presented to the emergency room with seizures. He has a history of fever, headache, and confusion. An MRI brain was done, and it showed inflammation involving the bitemporal lobe. What is the most likely aetiology for this presentation? er
 
@@ -2841,8 +2361,7 @@ A male patient presented to the emergency room with seizures. He has a history o
 </details>
 
 ---
-
-### Q167 — A male patient presents with sensory *(2023)*
+### Q148 — A male patient presents with sensory *(2023)*
 
 A male patient presents with sensory loss and weakness of limbs for 3 months. He also has angular stomatitis. On examination, there is loss of proprioception, vibration sensations, UMN type of lower limb weakness, and absent ankle reflex. What is the most probable diagnosis? ep
 
@@ -2858,8 +2377,7 @@ A male patient presents with sensory loss and weakness of limbs for 3 months. He
 </details>
 
 ---
-
-### Q168 — A 40-year-old female patient came with *(2023)*
+### Q149 — A 40-year-old female patient came with *(2023)*
 
 A 40-year-old female patient came with complaints of chest pain, palpitation, and shortness of breath. On examination, a mid-diastolic murmur was heard, and a prominent 'a' wave was found on JVP. What is the most likely diagnosis?
 
@@ -2876,10 +2394,37 @@ A 40-year-old female patient came with complaints of chest pain, palpitation, an
 
 ---
 
-
 ## Surgery
 
-### Q169 — A 55-year-old male presented with verrucous *(2023)*
+### Q150 — Verrucous carcinoma penis
+
+A 55-year-old male with verrucous carcinoma around glans, no enlarged inguinal nodes. Management?
+
+- A. Total penectomy
+- B. CO₂ laser excision
+- C. Topical 5-FU
+- D. Partial penectomy
+
+<details><summary>Answer</summary>
+
+**D. Partial penectomy** — Adequate when 2 cm clearance preserves functional stump.
+</details>
+### Q151 — APR complication — first vessel ligation
+
+Most common complication after ligating the first vessel during abdominoperineal resection (IMA).
+
+- A. Parasympathetic — bladder dysfunction + retrograde ejaculation
+- B. Sympathetic — bladder dysfunction + impotence
+- C. Sympathetic — retrograde ejaculation + bladder dysfunction
+- D. Sympathetic — impotence + perineal sensory loss
+
+<details><summary>Answer</summary>
+
+**C. Sympathetic** — Damage to superior hypogastric plexus → retrograde ejaculation + bladder dysfunction.
+</details>
+
+---
+### Q152 — A 55-year-old male presented with verrucous *(2023)*
 
 A 55-year-old male presented with verrucous carcinoma around the glans of the penis. Examination reveals that the inguinal lymph nodes are not enlarged. What is the appropriate management for this patient?
 
@@ -2895,25 +2440,7 @@ A 55-year-old male presented with verrucous carcinoma around the glans of the pe
 </details>
 
 ---
-
-### Q170 — A diabetic patient presents with sudden-onset *(2023)*
-
-A diabetic patient presents with sudden-onset perineal pain. On examination, foul-smelling discharge, and necrotic tissue as seen in the image is noted. Which of the following is true about the given condition? ep
-
-- A. Anti-gas gangrene serum indicated for all cases
-- B. Urinary diversion is the next step
-- C. Bilateral orchidectomy must be done
-- D. Mixed aerobic and anaerobic infection
-
-<details><summary>Answer</summary>
-
-**D. Mixed aerobic and anaerobic infection**
-
-</details>
-
----
-
-### Q171 — Which of the following is the *(2023)*
+### Q153 — Which of the following is the *(2023)*
 
 Which of the following is the most common complication following ligation of the first vessel during abdominoperineal resection for rectal carcinoma? (APR Abdominoperineal resection)
 
@@ -2929,8 +2456,7 @@ Which of the following is the most common complication following ligation of the
 </details>
 
 ---
-
-### Q172 — A 45-year-old male underwent bilateral laparoscopi *(2023)*
+### Q154 — A 45-year-old male underwent bilateral laparoscopi *(2023)*
 
 A 45-year-old male underwent bilateral laparoscopic hernia repair for inguinal hernia. Postoperatively, he complained of pain in the right thigh. Which of the following nerve entrapment leads to this symptom? er
 
@@ -2946,8 +2472,7 @@ A 45-year-old male underwent bilateral laparoscopic hernia repair for inguinal h
 </details>
 
 ---
-
-### Q173 — Echinococcus species is involved in etiology *(2023)*
+### Q155 — Echinococcus species is involved in etiology *(2023)*
 
 Echinococcus species is involved in etiology Ans: 4 A patient who is a known case of alcohol dependence syndrome presents with sudden and unintentional weight loss. What is the most likely diagnosis? -ALP 240 IU/L -S. Direct bilirubin - 1 mg/dL -AST/ALT -0.5 -Alpha fetoprotein- 600 ng/mL
 
@@ -2963,8 +2488,7 @@ Echinococcus species is involved in etiology Ans: 4 A patient who is a known cas
 </details>
 
 ---
-
-### Q174 — A female patient with hearing loss *(2023)*
+### Q156 — A female patient with hearing loss *(2023)*
 
 A female patient with hearing loss is examined and is found to be Rinne negative at 256 Hz and 512 Hz, while Rinne positive at 1024 Hz. What is the expected air conduction and bone conduction gap?
 
@@ -2980,8 +2504,7 @@ A female patient with hearing loss is examined and is found to be Rinne negative
 </details>
 
 ---
-
-### Q175 — A 50-year-old patient with a history *(2023)*
+### Q157 — A 50-year-old patient with a history *(2023)*
 
 A 50-year-old patient with a history of trauma one week back presents with confusion and ataxia. He is on treatment for alcohol dependence and his last intake was 2 weeks back. CT scan reveals the following finding. What is the diagnosis? ep
 
@@ -2997,8 +2520,7 @@ A 50-year-old patient with a history of trauma one week back presents with confu
 </details>
 
 ---
-
-### Q176 — Which of the following is false *(2023)*
+### Q158 — Which of the following is false *(2023)*
 
 Which of the following is false about the given condition?
 
@@ -3014,8 +2536,7 @@ Which of the following is false about the given condition?
 </details>
 
 ---
-
-### Q177 — A construction worker came to the *(2023)*
+### Q159 — A construction worker came to the *(2023)*
 
 A construction worker came to the OPD complaining of white fingers. He has been working in the cement and concrete industry and has been working on heavy machinery drills, wood, and furniture polishing for 20 years. What is the most likely etiology for this condition? Pr
 
@@ -3031,8 +2552,7 @@ A construction worker came to the OPD complaining of white fingers. He has been 
 </details>
 
 ---
-
-### Q178 — A patient with a previous history *(2023)*
+### Q160 — A patient with a previous history *(2023)*
 
 A patient with a previous history of myocardial infarction and ventricular arrhythmia is on treatment for a few months. He developed fatigue, dyspnea, and weight gain. He had also developed pulmonary fibrosis. Which of the following drugs is responsible for the side effects mentioned above?
 
@@ -3048,8 +2568,7 @@ A patient with a previous history of myocardial infarction and ventricular arrhy
 </details>
 
 ---
-
-### Q179 — A chronic smoker was on nicotine *(2023)*
+### Q161 — A chronic smoker was on nicotine *(2023)*
 
 A chronic smoker was on nicotine replacement therapy and clonidine tablets for smoking de-addiction. He stopped taking clonidine tablets and now presents with a headache. What is the reason behind this condition?
 
@@ -3065,8 +2584,7 @@ A chronic smoker was on nicotine replacement therapy and clonidine tablets for s
 </details>
 
 ---
-
-### Q180 — A patient with varicose veins complains *(2023)*
+### Q162 — A patient with varicose veins complains *(2023)*
 
 A patient with varicose veins complains of eczema over the same region. What is the stage of the clinical classification according to the CEAP guidelines? CEAP-Clinical-Aetiology-Anatomy- Pathophysiology classification of chronic venous disorders
 
@@ -3082,8 +2600,7 @@ A patient with varicose veins complains of eczema over the same region. What is 
 </details>
 
 ---
-
-### Q181 — A 20-year-old female patient consumed a *(2023)*
+### Q163 — A 20-year-old female patient consumed a *(2023)*
 
 A 20-year-old female patient consumed a cleaning product containing 90% sodium hydroxide. She is having complete dysphagia. What is the best step in management?
 
@@ -3099,8 +2616,7 @@ A 20-year-old female patient consumed a cleaning product containing 90% sodium h
 </details>
 
 ---
-
-### Q182 — A 23-year-old male patient presents with *(2023)*
+### Q164 — A 23-year-old male patient presents with *(2023)*
 
 A 23-year-old male patient presents with midline swelling in the neck. The swelling moves with deglutition and protrusion of the tongue. What is the likely diagnosis?
 
@@ -3116,8 +2632,7 @@ A 23-year-old male patient presents with midline swelling in the neck. The swell
 </details>
 
 ---
-
-### Q183 — A 54-year-old woman presents with cervical *(2023)*
+### Q165 — A 54-year-old woman presents with cervical *(2023)*
 
 A 54-year-old woman presents with cervical cancer stage 2A. It is decided to give neoadjuvant chemotherapy. What does neoadjuvant chemotherapy mean?
 
@@ -3134,10 +2649,37 @@ A 54-year-old woman presents with cervical cancer stage 2A. It is decided to giv
 
 ---
 
-
 ## Obstetrics & Gynaecology
 
-### Q184 — A patient comes to the casualty *(2023)*
+### Q166 — Polyhydramnios
+
+Woman at 36 weeks: SFH 41 cm, muffled FHS, tense non-tender abdomen, normal fetal movements.
+
+- A. Abruptio placenta
+- B. Fetal hydrocephalus
+- C. Polyhydramnios
+- D. Fetal-maternal ascites
+
+<details><summary>Answer</summary>
+
+**C. Polyhydramnios** — SFH > gestational age, muffled FHS, taut abdomen. Causes: DM, anencephaly, TOF, twin gestation.
+</details>
+### Q167 — Iron supplementation start
+
+Primigravida with early pregnancy anaemia; 7 weeks, Hb 9 g/dL. When to start iron supplements?
+
+- A. 10–12 weeks
+- B. 8–10 weeks
+- C. After 14 weeks
+- D. After 20 weeks
+
+<details><summary>Answer</summary>
+
+**B. 8–10 weeks** *(per source key)* — Anaemic pregnancies should start iron after nausea subsides; routine supplementation per WHO is post-12 weeks.
+</details>
+
+---
+### Q168 — A patient comes to the casualty *(2023)*
 
 A patient comes to the casualty with organophosphate poisoning. He was started on atropine infusion and pralidoxime. After 2 hours, the patient had a sudden rise in temperature. What is the likely cause of fever?
 
@@ -3153,8 +2695,7 @@ A patient comes to the casualty with organophosphate poisoning. He was started o
 </details>
 
 ---
-
-### Q185 — For which of the following procedures *(2023)*
+### Q169 — For which of the following procedures *(2023)*
 
 For which of the following procedures in the given OT list, can you preferably do a hysteroscopy?
 
@@ -3170,8 +2711,7 @@ For which of the following procedures in the given OT list, can you preferably d
 </details>
 
 ---
-
-### Q186 — A primigravida presents to you with *(2023)*
+### Q170 — A primigravida presents to you with *(2023)*
 
 A primigravida presents to you with anemia early in her pregnancy. She is 7 weeks pregnant as seen on ultrasound. Her hemoglobin level is 9 g/dL. When should the iron supplements be started for her?
 
@@ -3187,8 +2727,7 @@ A primigravida presents to you with anemia early in her pregnancy. She is 7 week
 </details>
 
 ---
-
-### Q187 — A 50-year-old woman presents with foul-smelling *(2023)*
+### Q171 — A 50-year-old woman presents with foul-smelling *(2023)*
 
 A 50-year-old woman presents with foul-smelling bloody discharge per vagina mixed with mucous. On examination, a necrotizing growth is seen in the cervix with lateral parametrium involvement. What is the management for this patient?
 
@@ -3204,8 +2743,7 @@ A 50-year-old woman presents with foul-smelling bloody discharge per vagina mixe
 </details>
 
 ---
-
-### Q188 — A 28-year-old woman with a history *(2023)*
+### Q172 — A 28-year-old woman with a history *(2023)*
 
 A 28-year-old woman with a history of multiple sexual partners presents with lower abdominal pain for 1 month. She experiences minimal discharge and complaints of intermenstrual bleeding. What is the most likely cause?
 
@@ -3221,8 +2759,7 @@ A 28-year-old woman with a history of multiple sexual partners presents with low
 </details>
 
 ---
-
-### Q189 — A woman is set to undergo *(2023)*
+### Q173 — A woman is set to undergo *(2023)*
 
 A woman is set to undergo a complete laparoscopic hysterectomy. She wants to know if there are any disadvantages to this procedure. What are the disadvantages of laproscopis over-open surgery? Pr
 
@@ -3238,8 +2775,7 @@ A woman is set to undergo a complete laparoscopic hysterectomy. She wants to kno
 </details>
 
 ---
-
-### Q190 — A 27-year-old pregnant G3P2L2 woman presents *(2023)*
+### Q174 — A 27-year-old pregnant G3P2L2 woman presents *(2023)*
 
 A 27-year-old pregnant G3P2L2 woman presents to you at 36+6 weeks. Ultrasound is done and shows the fetus is in a transverse lie. The liquor is adequate, the placenta is normal, and she has no risk factors. Both her previous deliveries were normal vaginal deliveries. How will you manage this patient?
 
@@ -3255,8 +2791,7 @@ A 27-year-old pregnant G3P2L2 woman presents to you at 36+6 weeks. Ultrasound is
 </details>
 
 ---
-
-### Q191 — During a hysteroscopic removal of a *(2023)*
+### Q175 — During a hysteroscopic removal of a *(2023)*
 
 During a hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 mL is estimated in a patient. What is the immediate complication of this?
 
@@ -3272,8 +2807,7 @@ During a hysteroscopic removal of a submucosal fibroid, a fluid deficit of 2000 
 </details>
 
 ---
-
-### Q192 — A 54-year-old woman was diagnosed with *(2023)*
+### Q176 — A 54-year-old woman was diagnosed with *(2023)*
 
 A 54-year-old woman was diagnosed with advanced cervical cancer. She has a 14-year-old daughter. What advice would you give her daughter?
 
@@ -3289,8 +2823,7 @@ A 54-year-old woman was diagnosed with advanced cervical cancer. She has a 14-ye
 </details>
 
 ---
-
-### Q193 — A 17-year-old girl is seen for *(2023)*
+### Q177 — A 17-year-old girl is seen for *(2023)*
 
 A 17-year-old girl is seen for primary amenorrhea. There is no development of breasts or hair in the pubic or axillary region. Her height is 155 cm, and her weight is 48 kg. She has bilateral inguinal masses. The uterus, fallopian tube, and Ovary are absent on ultrasound examination. What is the most likely diagnosis?
 
@@ -3306,8 +2839,7 @@ A 17-year-old girl is seen for primary amenorrhea. There is no development of br
 </details>
 
 ---
-
-### Q194 — A 16-year-old girl presents with cyclical *(2023)*
+### Q178 — A 16-year-old girl presents with cyclical *(2023)*
 
 A 16-year-old girl presents with cyclical pelvic pain every month. She has not achieved menarche yet. On examination, a suprapubic bulge can be seen in the lower abdomen. PR examination reveals a bulging swelling in the anterior aspect. What is the most likely diagnosis?
 
@@ -3323,8 +2855,7 @@ A 16-year-old girl presents with cyclical pelvic pain every month. She has not a
 </details>
 
 ---
-
-### Q195 — A pregnant woman comes to the *(2023)*
+### Q179 — A pregnant woman comes to the *(2023)*
 
 A pregnant woman comes to the clinic. She already has twins by normal delivery. Which of the following is the correct representation of her obstetric score?
 
@@ -3341,10 +2872,39 @@ A pregnant woman comes to the clinic. She already has twins by normal delivery. 
 
 ---
 
-
 ## Paediatrics
 
-### Q196 — A 10-year-old child weighing 30 kg *(2023)*
+### Q180 — DKA in child — initial management (ISPAD)
+
+A 10-year-old, 30 kg with 2-day loose stools, severe dehydration; RBS 550, pH 7.01, Na+ 158, urine glucose 3+. Initial management?
+
+- A. ABC, NS 20 mL/kg, start insulin after 1 hour
+- B. ABC, NS 20 mL/kg + insulin 0.1 IU/kg/hr
+- C. ABC, NS 10 mL/kg + insulin 0.1 IU/kg/hr
+- D. ABC, NS 10 mL/kg, start insulin after 1 hour
+
+<details><summary>Answer</summary>
+
+**A. ABC, NS 20 mL/kg, start insulin after 1 hour** — Per ISPAD: fluid resuscitation first; delay insulin to prevent cerebral oedema.
+</details>
+### Q181 — Adequate infant growth
+
+Best sign indicating adequate infant growth with birth weight 2.8 kg?
+
+- A. Length increase of 25 cm in first year
+- B. Weight gain 300 g/month until 1 year
+- C. Anterior fontanelle closure by 6 months
+- D. Weight < 75th percentile, height < 25th percentile
+
+<details><summary>Answer</summary>
+
+**A. Length increase of 25 cm in first year** — Expected: 25 cm in year 1, 12 cm in year 2. Length is the most reliable longitudinal indicator.
+</details>
+
+---
+
+---
+### Q182 — A 10-year-old child weighing 30 kg *(2023)*
 
 A 10-year-old child weighing 30 kg presents with a history of loose stools for 2 days. On examination, there is severe dehydration. Laboratory investigations are as follows. What is the initial management as per ISPAD guidelines? RBS 550mg/dL pH 7.01 158mEq/L 3+
 
@@ -3360,8 +2920,7 @@ A 10-year-old child weighing 30 kg presents with a history of loose stools for 2
 </details>
 
 ---
-
-### Q197 — Na Urine glucose Which of the *(2023)*
+### Q183 — Na Urine glucose Which of the *(2023)*
 
 Na+ Urine glucose Which of the following is the best sign to indicate adequate growth in an infant with a birth weight of 2.8 kg?
 
@@ -3377,8 +2936,7 @@ Na+ Urine glucose Which of the following is the best sign to indicate adequate g
 </details>
 
 ---
-
-### Q198 — A 3-month-old baby complains of deafness, *(2023)*
+### Q184 — A 3-month-old baby complains of deafness, *(2023)*
 
 A 3-month-old baby complains of deafness, cataract, and patent ductus arteriosus. Which of the following is the most likely diagnosis?
 
@@ -3394,8 +2952,7 @@ A 3-month-old baby complains of deafness, cataract, and patent ductus arteriosus
 </details>
 
 ---
-
-### Q199 — Research is being conducted to find *(2023)*
+### Q185 — Research is being conducted to find *(2023)*
 
 Research is being conducted to find the association between aniline dye exposure and bladder cancer in workers who have worked in the industry for >20 years. Two groups were formed: one directly involved with dye handling and the other group consisting of office clerks not directly exposed to the dye. Years of occupation were noted from records. What type of study is being performed?
 
@@ -3411,8 +2968,7 @@ Research is being conducted to find the association between aniline dye exposure
 </details>
 
 ---
-
-### Q200 — A child presents with fever and *(2023)*
+### Q186 — A child presents with fever and *(2023)*
 
 A child presents with fever and a rash spreading from the face, behind cheeks, and buccal mucosa to other body parts. On examination, Koplik's spot is present. What is the likely diagnosis?
 
@@ -3428,8 +2984,7 @@ A child presents with fever and a rash spreading from the face, behind cheeks, a
 </details>
 
 ---
-
-### Q201 — A 3-week-old infant presents with a *(2023)*
+### Q187 — A 3-week-old infant presents with a *(2023)*
 
 A 3-week-old infant presents with a cough and sore throat. The mother reports that the infant develops a paroxysm of cough followed by apnea. The total leucocyte count is >50,000 cells/μL. Which of the following drugs will you prescribe for this patient?
 
@@ -3446,10 +3001,37 @@ A 3-week-old infant presents with a cough and sore throat. The mother reports th
 
 ---
 
-
 ## Orthopaedics
 
-### Q202 — The true statement among the following *(2023)*
+### Q188 — Carpal tunnel diagnosis
+
+A patient with numbness/tingling in lateral 3 digits, relieved with arms hanging. Condition and test?
+
+- A. Guyon's canal syndrome, Froment's test
+- B. Carpal tunnel syndrome, Froment's test
+- C. Guyon's canal syndrome, Durkan's test
+- D. Carpal tunnel syndrome, Durkan's test
+
+<details><summary>Answer</summary>
+
+**D. Carpal tunnel syndrome, Durkan's test** — Median nerve compression. Durkan's = direct compression test (more sensitive than Tinel/Phalen).
+</details>
+### Q189 — Café-au-lait + bone deformity
+
+A child with lower-limb deformity and hyperpigmented skin lesions; X-ray with ground-glass appearance.
+
+- A. Non-ossifying fibroma
+- B. Fibrous dysplasia
+- C. Paget's disease
+- D. Osteogenesis imperfecta
+
+<details><summary>Answer</summary>
+
+**B. Fibrous dysplasia** — McCune–Albright (café-au-lait + polyostotic FD + endocrinopathy).
+</details>
+
+---
+### Q190 — The true statement among the following *(2023)*
 
 The true statement among the following is___
 
@@ -3466,10 +3048,68 @@ The true statement among the following is___
 
 ---
 
+## ENT
+
+### Q191 — Air-bone gap estimation
+
+A female with hearing loss; Rinne negative at 256–512 Hz, positive at 1024 Hz. Expected air–bone gap?
+
+- A. 30–45 dB
+- B. 15–30 dB
+- C. 45–60 dB
+- D. > 60 dB
+
+<details><summary>Answer</summary>
+
+**A. 30–45 dB** — Rinne negative at 512 Hz but positive at 1024 Hz → ABG ≈ 30–45 dB.
+</details>
+### Q192 — Referred otalgia from tonsillitis
+
+A 10-year-old with throat pain, fever, ear pain; recurrent tonsillitis. Which nerve carries the referred ear pain?
+
+- A. Tympanic branch of glossopharyngeal (Jacobson's)
+- B. Greater auricular nerve
+- C. Auriculotemporal nerve
+- D. Auricular branch of vagus (Arnold's)
+
+<details><summary>Answer</summary>
+
+**A. Tympanic branch of glossopharyngeal (Jacobson's nerve)** — IX supplies tonsillar fossa and middle ear → referred otalgia.
+</details>
+
+---
 
 ## Ophthalmology
 
-### Q203 — A child presents with mental retardation, *(2023)*
+### Q193 — Right homonymous hemianopia
+
+A female with vision loss in the right halves of both eyes (right homonymous hemianopia). Lesion location?
+
+- A. Left optic tract
+- B. Optic radiation
+- C. Optic chiasma
+- D. Right optic tract
+
+<details><summary>Answer</summary>
+
+**A. Left optic tract** — Right homonymous hemianopia = left retrochiasmal lesion (tract, LGN, radiation, or cortex).
+</details>
+### Q194 — Kayser–Fleischer ring
+
+A 20-year-old male with a golden ring on the iris. Next investigation?
+
+- A. α1-antitrypsin
+- B. α-fetoprotein
+- C. Serum iron
+- D. Serum ceruloplasmin
+
+<details><summary>Answer</summary>
+
+**D. Serum ceruloplasmin** — KF ring → Wilson's disease (decreased ceruloplasmin, copper accumulation in Descemet's membrane).
+</details>
+
+---
+### Q195 — A child presents with mental retardation, *(2023)*
 
 A child presents with mental retardation, bone pain, and inability to walk. On funduscopic examination, a cherry red spot is seen. There is no organomegaly. What is the most likely diagnosis?
 
@@ -3485,8 +3125,7 @@ A child presents with mental retardation, bone pain, and inability to walk. On f
 </details>
 
 ---
-
-### Q204 — The eye examination of a 20-year-old *(2023)*
+### Q196 — The eye examination of a 20-year-old *(2023)*
 
 The eye examination of a 20-year-old male shows a golden ring on the iris. What is the next investigation to diagnose the condition?
 
@@ -3503,10 +3142,68 @@ The eye examination of a 20-year-old male shows a golden ring on the iris. What 
 
 ---
 
+## Dermatology
+
+### Q197 — Resistant acne in female
+
+Female with acne not responding to isotretinoin and antibiotics. Next best investigation?
+
+- A. Dietary triggers
+- B. Evaluate for hyperandrogenism
+- C. Check for antibiotic resistance
+- D. Drug triggers
+
+<details><summary>Answer</summary>
+
+**B. Evaluate for hyperandrogenism** — PCOS, late-onset CAH; check testosterone, DHEAS, free androgen index.
+</details>
+### Q198 — Painless genital ulcer + non-tender lymphadenopathy
+
+A young woman with painless genital ulcer and non-tender inguinal lymphadenopathy.
+
+- A. Chancroid
+- B. Syphilis
+- C. Herpes genitalis
+- D. Granuloma inguinale
+
+<details><summary>Answer</summary>
+
+**B. Syphilis** — Primary chancre: painless, indurated ulcer + painless lymphadenopathy. Chancroid is painful with tender nodes.
+</details>
+
+---
 
 ## Psychiatry
 
-### Q205 — A schizophrenic patient was prescribed drug *(2023)*
+### Q199 — Clozapine adverse effects
+
+Schizophrenic patient unresponsive to haloperidol and thioridazine; started on a new drug with excessive salivation, elevated glucose, hyperlipidaemia.
+
+- A. Ziprasidone
+- B. Risperidone
+- C. Clozapine
+- D. Aripiprazole
+
+<details><summary>Answer</summary>
+
+**C. Clozapine** — Used in treatment-resistant schizophrenia. Hypersalivation, metabolic syndrome, agranulocytosis (monitor WBC).
+</details>
+### Q200 — Postpartum blues
+
+A woman 4 days postpartum with tearfulness, mood swings, occasional insomnia.
+
+- A. Postpartum depression
+- B. Postpartum blues
+- C. Postpartum psychosis
+- D. Postpartum anxiety
+
+<details><summary>Answer</summary>
+
+**B. Postpartum blues** — Onset 2–4 days; mild, self-limiting, resolves by 2 weeks. Affects ~50–80% of women.
+</details>
+
+---
+### Q201 — A schizophrenic patient was prescribed drug *(2023)*
 
 A schizophrenic patient was prescribed drug A after he did not respond to haloperidol and thioridazine. He now presents with excessive salivation, an increase in blood glucose, and hyperlipidemia. What is drug A?
 
@@ -3522,8 +3219,7 @@ A schizophrenic patient was prescribed drug A after he did not respond to halope
 </details>
 
 ---
-
-### Q206 — A woman, who is 4 days *(2023)*
+### Q202 — A woman, who is 4 days *(2023)*
 
 A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and occasional insomnia. What is the likely diagnosis?
 
@@ -3539,8 +3235,7 @@ A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and 
 </details>
 
 ---
-
-### Q207 — A 25-year-old female reported symptoms of *(2023)*
+### Q203 — A 25-year-old female reported symptoms of *(2023)*
 
 A 25-year-old female reported symptoms of anxiety, palpitations, sweating, breathlessness, chest pain, and a feeling of impending doom. She recalls having experienced 5-6 similar episodes in the past 6 months, each episode lasting for about 20-30 minutes. What is the likely diagnosis?
 
@@ -3557,10 +3252,37 @@ A 25-year-old female reported symptoms of anxiety, palpitations, sweating, breat
 
 ---
 
-
 ## Radiology
 
-### Q208 — O2 Parotid tumor O3 Sebaceous cyst *(2023)*
+### Q204 — Parietal swelling since birth
+
+A 2-month-old with parietal swelling since birth, not crossing suture lines.
+
+- A. Subgaleal haematoma
+- B. Cephalhaematoma
+- C. Caput succedaneum
+- D. Encephalocele
+
+<details><summary>Answer</summary>
+
+**B. Cephalhaematoma** — Subperiosteal; doesn't cross sutures; resolves over weeks.
+</details>
+### Q205 — Sterile pyuria + putty kidney
+
+A patient with abdominal pain, sterile pyuria, X-ray features of calcified kidney.
+
+- A. Putty kidney
+- B. Nephrocalcinosis
+- C. Staghorn calculus
+- D. Psoas calcification
+
+<details><summary>Answer</summary>
+
+**A. Putty kidney** — End-stage genitourinary TB → autonephrectomy with caseous calcification. Sterile pyuria is the clue.
+</details>
+
+---
+### Q206 — O2 Parotid tumor O3 Sebaceous cyst *(2023)*
 
 O2: Parotid tumor O3: Sebaceous cyst O4: Cervical lymph node Ans: 2 A woman with endometrial carcinoma is undergoing radiotherapy. Which of the following is true? Pr
 
@@ -3576,8 +3298,7 @@ O2: Parotid tumor O3: Sebaceous cyst O4: Cervical lymph node Ans: 2 A woman with
 </details>
 
 ---
-
-### Q209 — A child before playing consumed fruit *(2023)*
+### Q207 — A child before playing consumed fruit *(2023)*
 
 A child before playing consumed fruit from the garden. After some time he developed a high fever, confusion, photophobia, and unable to urinate. What are the likely causative agent and the appropriate antidote used in this case?
 
@@ -3594,10 +3315,24 @@ A child before playing consumed fruit from the garden. After some time he develo
 
 ---
 
-
 ## Anaesthesia
 
-### Q210 — O3 Malignant melanoma O4 Basal cell *(2023)*
+### Q208 — Cardiac surgery antibiotic prophylaxis
+
+Drug of choice for preoperative antibiotic prophylaxis in cardiac surgery.
+
+- A. Penicillin G
+- B. Erythromycin
+- C. Azithromycin
+- D. Cefazolin
+
+<details><summary>Answer</summary>
+
+**D. Cefazolin** — 1st-gen cephalosporin; covers staphylococci. Given within 60 min before incision.
+</details>
+
+---
+### Q209 — O3 Malignant melanoma O4 Basal cell *(2023)*
 
 O3: Malignant melanoma O4: Basal cell carcinoma Ans: 3 Which of the following is the drug of choice for preoperative antibiotic prophylaxis in a patient undergoing cardiac surgery?
 
@@ -3613,8 +3348,7 @@ O3: Malignant melanoma O4: Basal cell carcinoma Ans: 3 Which of the following is
 </details>
 
 ---
-
-### Q211 — During resuscitation, when is the given *(2023)*
+### Q210 — During resuscitation, when is the given *(2023)*
 
 During resuscitation, when is the given position indicated? La
 

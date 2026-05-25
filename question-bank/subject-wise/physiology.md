@@ -1717,7 +1717,6 @@ Occulomotor nerve supplies all extraocular muscles except ?
 ---
 
 ---
-
 ### Q102 — nucleus is not seen in floor *(2015)*
 
 Which nucleus is not seen in floor of the 4th ventricle -
@@ -1736,7 +1735,6 @@ Which nucleus is not seen in floor of the 4th ventricle -
 ---
 
 ---
-
 ### Q103 — Malleus and incus are derived from *(2015)*
 
 Malleus and incus are derived from ?
@@ -1755,7 +1753,6 @@ Malleus and incus are derived from ?
 ---
 
 ---
-
 ### Q104 — Transport through pores in cell members *(2015)*
 
 Transport through pores in cell members is ?
@@ -1774,7 +1771,6 @@ Transport through pores in cell members is ?
 ---
 
 ---
-
 ### Q105 — Vibration sense is detected by *(2015)*
 
 Vibration sense is detected by ?
@@ -1793,7 +1789,6 @@ Vibration sense is detected by ?
 ---
 
 ---
-
 ### Q106 — Neuropraxia is *(2015)*
 
 Neuropraxia is ?
@@ -1812,7 +1807,6 @@ Neuropraxia is ?
 ---
 
 ---
-
 ### Q107 — In zero gravity VQ ratio is *(2015)*
 
 In zero gravity V/Q ratio is ?
@@ -1831,7 +1825,6 @@ In zero gravity V/Q ratio is ?
 ---
 
 ---
-
 ### Q108 — Blood pressure is dependant on *(2015)*
 
 Blood pressure is dependant on?
@@ -1850,11 +1843,2062 @@ Blood pressure is dependant on?
 ---
 
 ---
+### Q109 — Major central nucleus of sympathetic system
 
+Major central nucleus of sympathetic system is
+
+- A. Nucleus ambiguus
+- B. Nucleus tractus solitarius
+- C. Edinger-Westphal nucleus
+- D. Hypothalamus
+
+<details><summary>Answer</summary>
+
+**D. Hypothalamus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q110 — What is attached to the superior
+
+What is attached to the superior nuchal line?
+
+- A. Trapezius
+- B. Scalenus anticus
+- C. Coracobrachialis
+- D. Biceps Brachii
+
+<details><summary>Answer</summary>
+
+**A. Trapezius** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q111 — Dangerous area of scalp is -
+
+Dangerous area of scalp is -
+
+- A. Superficial facia
+- B. Aponeurosis
+- C. Subaponeurotic tissue
+- D. Pericranium
+
+<details><summary>Answer</summary>
+
+**C. Subaponeurotic tissue** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q112 — Which nerve is preserved in dissecting
+
+Which nerve is preserved in dissecting the superficial and deep lobes of parotid gland -
+
+- A. Glossopharyngeal
+- B. Hypoglossal
+- C. Lingual
+- D. Facial
+
+<details><summary>Answer</summary>
+
+**D. Facial** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q113 — Which intrinsic ocular muscle is supplied
+
+Which intrinsic ocular muscle is supplied by parasympathetic innervation -
+
+- A. Superior rectus
+- B. Superior oblique
+- C. Constrictor pupillae
+- D. Dilator pupillae
+
+<details><summary>Answer</summary>
+
+**C. Constrictor pupillae** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q114 — Lips does not drain into which
+
+Lips does not drain into which group of lymph nodes?
+
+- A. Submandibular nodes
+- B. Sublingual nodes
+- C. Preauricular parotid
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Preauricular parotid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q115 — Postganglionic fibres to parotid gland is
+
+Postganglionic fibres to parotid gland is supplied by?
+
+- A. Glossopharyngeal nerve
+- B. Auriculotemporal nerve
+- C. Both of the above
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Auriculotemporal nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q116 — Features of facial nerve palsy are
+
+Features of facial nerve palsy are all except -
+
+- A. Loss of salivation
+- B. Loss of lacrimation
+- C. Facial muscle paralysis
+- D. Loss of taste sensation from posterior tongue
+
+<details><summary>Answer</summary>
+
+**D. Loss of taste sensation from posterior tongue** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q117 — Nasopharynx is lined by which epithelium
+
+Nasopharynx is lined by which epithelium ?
+
+- A. Stratified squamous nonkerationized
+- B. Stratified squamous keratinized
+- C. Ciliated columnar
+- D. Cuboidal
+
+<details><summary>Answer</summary>
+
+**C. Ciliated columnar** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q118 — Greater petrosal nerve is formed from
+
+Greater petrosal nerve is formed from ?
+
+- A. Geniculate ganglion
+- B. Plexus around ICA
+- C. Plexus around middle meningeal artery
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Geniculate ganglion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q119 — Nerve 3td ventricle is the cavity
+
+Nerve 3td ventricle is the cavity of -
+
+- A. Mesencephalon
+- B. Rhombencephalon
+- C. Diencephalon
+- D. Telencephalon
+
+<details><summary>Answer</summary>
+
+**C. Diencephalon** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q120 — Occulomotor nucleus is located in -
+
+Occulomotor nucleus is located in -
+
+- A. Forebrain
+- B. Midbrain
+- C. Pons
+- D. Medulla
+
+<details><summary>Answer</summary>
+
+**B. Midbrain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q121 — Major supply of medial surface of
+
+Major supply of medial surface of cerebral hemisphere
+
+- A. Anterior cerebral artery
+- B. Posterior cerebral artery
+- C. Middle cerebral artery
+- D. Posterior inferior cerebellar artery
+
+<details><summary>Answer</summary>
+
+**A. Anterior cerebral artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q122 — Ventral tegmental decussation in cerebral peduncle
+
+Ventral tegmental decussation in cerebral peduncle is due to -
+
+- A. Tectospinal tract
+- B. Tectobulbar tract
+- C. Vestibulospinal tract
+- D. Rubrospinal tract
+
+<details><summary>Answer</summary>
+
+**D. Rubrospinal tract** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q123 — Incudomalleolar joint is a
+
+Incudomalleolar joint is a ?
+
+- A. Ellipsoid joint
+- B. Pivot joint
+- C. Hinge joint
+- D. Saddle joint
+
+<details><summary>Answer</summary>
+
+**D. Saddle joint** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q124 — Hiltons law is related to -
+
+Hilton's law is related to -
+
+- A. Venous drainage
+- B. Blood supply
+- C. Nerve innervation
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Nerve innervation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q125 — Spermatogenesis begins at -
+
+Spermatogenesis begins at -
+
+- A. Birth
+- B. 5 years
+- C. Puberty
+- D. 18 years
+
+<details><summary>Answer</summary>
+
+**C. Puberty** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q126 — Which is not a stage of
+
+Which is not a stage of prophase -
+
+- A. Diakinesis
+- B. Leptotene
+- C. Zygotene
+- D. Arachytene
+
+<details><summary>Answer</summary>
+
+**D. Arachytene** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q127 — Fossa ovalis is a remnant of
+
+Fossa ovalis is a remnant of -
+
+- A. Septum primum
+- B. Septum secundum
+- C. Septum spurium
+- D. AV cushion
+
+<details><summary>Answer</summary>
+
+**A. Septum primum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q128 — Nephron is derived from
+
+Nephron is derived from ?
+
+- A. Ureteric bud
+- B. Mesonephric duct
+- C. Metanephros
+- D. Mesonephros
+
+<details><summary>Answer</summary>
+
+**C. Metanephros** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q129 — Fibrous stroma of liver is derived
+
+Fibrous stroma of liver is derived from -
+
+- A. Foregut endoderm
+- B. Midgut endoderm
+- C. Hindgut endoderm
+- D. Septum transversum
+
+<details><summary>Answer</summary>
+
+**D. Septum transversum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q130 — True about Branchial cyst is
+
+True about Branchial cyst is:
+
+- A. Cysts are more common than sinuses
+- B. Mostly arises from 2nd branchial system
+- C. Causes dysphagia and hoarseness
+- D. Sinus should always be operated
+
+<details><summary>Answer</summary>
+
+**B. Mostly arises from 2nd branchial system** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q131 — True about notochord are all except
+
+True about notochord are all except?
+
+- A. Defines axis of embryo
+- B. Serves as primary inductor
+- C. Derived from hypoblast
+- D. Remains as nucleus pulposus
+
+<details><summary>Answer</summary>
+
+**C. Derived from hypoblast** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q132 — Structures derived from the neural crest
+
+Structures derived from the neural crest are?
+
+- A. Pia
+- B. Dental papillae
+- C. Adrenal medulla
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q133 — Heart tube is formed at -
+
+Heart tube is formed at -
+
+- A. 3 weeks
+- B. 6 weeks
+- C. 10 weeks
+- D. 12 weeks
+
+<details><summary>Answer</summary>
+
+**A. 3 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q134 — Heart tube is formed in
+
+Heart tube is formed in
+
+- A. Hyaluronic acid secreted by endocardium
+- B. Chondroitin sulfate secreted by endocardium
+- C. Hyaluronic acid secreted by myocardium
+- D. Chondroitin sulfate secreted by myocardium
+
+<details><summary>Answer</summary>
+
+**C. Hyaluronic acid secreted by myocardium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q135 — Which of the following is a
+
+Which of the following is a derivative of paramesonephric duct in males ?
+
+- A. Trigone of bladder
+- B. Paraphoron
+- C. Prostatic utricle
+- D. Gartner's duct
+
+<details><summary>Answer</summary>
+
+**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q136 — Myelination in peripheral nervous system is
+
+Myelination in peripheral nervous system is done by
+
+- A. Astrocytes
+- B. Oligodendrocytes
+- C. Ependymal cells
+- D. Schwann cells
+
+<details><summary>Answer</summary>
+
+**D. Schwann cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q137 — False about limbus fossa ovalis -
+
+False about limbus fossa ovalis -
+
+- A. Situated above fossa ovalis
+- B. In right atrium
+- C. Derived from septum primum
+- D. Also called Annulus ovalis
+
+<details><summary>Answer</summary>
+
+**C. Derived from septum primum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q138 — Sertoli cells are derived from -
+
+Sertoli cells are derived from -
+
+- A. Genital tubercle
+- B. Genital swelling
+- C. Primordial germ cells
+- D. Germinal epithelium
+
+<details><summary>Answer</summary>
+
+**D. Germinal epithelium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q139 — Prolactin secreting gland develops from -
+
+Prolactin secreting gland develops from -
+
+- A. Infundibulum
+- B. Rathke's pouch
+- C. Tuber cinereum
+- D. 3rd ventricle
+
+<details><summary>Answer</summary>
+
+**B. Rathke's pouch** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q140 — Posterior cardinal vein develops into -
+
+Posterior cardinal vein develops into -
+
+- A. Common iliac vein
+- B. Superior vena cava
+- C. Internal jugular vein
+- D. External jugular vein
+
+<details><summary>Answer</summary>
+
+**A. Common iliac vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q141 — Superior vena cava develops from -
+
+Superior vena cava develops from -
+
+- A. Right anterior cardinal vein
+- B. Left anterior cardinal vein
+- C. Left common cardinal vein
+- D. Right subcardinal vein
+
+<details><summary>Answer</summary>
+
+**A. Right anterior cardinal vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q142 — Structure developing from Mullerian duct in
+
+Structure developing from Mullerian duct in males?
+
+- A. Seminal vesicle
+- B. Epididymis
+- C. Prostatic utricle
+- D. Ureter
+
+<details><summary>Answer</summary>
+
+**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q143 — Optic cup is derived from
+
+Optic cup is derived from ?
+
+- A. Neural ectoderm
+- B. Surface ectoderm
+- C. Mesoderm
+- D. Neural crest
+
+<details><summary>Answer</summary>
+
+**A. Neural ectoderm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q144 — Which of the following is a
+
+Which of the following is a derivative of Rathke's pouch -
+
+- A. Pars tuberalis
+- B. Neurohypophysis
+- C. Posterior pituitary
+- D. Pineal gland
+
+<details><summary>Answer</summary>
+
+**A. Pars tuberalis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q145 — Which of glial cell is mesodermal
+
+Which of glial cell is mesodermal in origin -
+
+- A. Macroglial cells
+- B. Microglial cells
+- C. Oligodendrocytes
+- D. Ependymal cells
+
+<details><summary>Answer</summary>
+
+**B. Microglial cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q146 — Trigone of bladder is derived from
+
+Trigone of bladder is derived from ?
+
+- A. Mesonephric duct
+- B. Paramesonephric duct
+- C. Absorbed anal membrane
+- D. Mullerian duct
+
+<details><summary>Answer</summary>
+
+**A. Mesonephric duct** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q147 — Pisiform articulates with -
+
+Pisiform articulates with -
+
+- A. Scaphoid
+- B. Trapezium
+- C. Triquetral
+- D. Lunate
+
+<details><summary>Answer</summary>
+
+**C. Triquetral** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q148 — Spleniculi are seen most commonly in
+
+Spleniculi are seen most commonly in:
+
+- A. Colon
+- B. Hilum
+- C. Liver
+- D. Lungs
+
+<details><summary>Answer</summary>
+
+**B. Hilum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q149 — Which of the following is not
+
+Which of the following is not a derivative of foregut?
+
+- A. Cecum
+- B. duodenum
+- C. Liver
+- D. Pancreas
+
+<details><summary>Answer</summary>
+
+**A. Cecum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q150 — Most important factor in transport across
+
+Most important factor in transport across
+
+- A. Charge of particle
+- B. Membrane thickness
+- C. Size of particle
+- D. Concentration gradient
+
+<details><summary>Answer</summary>
+
+**D. Concentration gradient** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q151 — Percentage of total body water to
+
+Percentage of total body water to body weight at birth?
+
+- A. 90%
+- B. 80%
+- C. 60%
+- D. 50%
+
+<details><summary>Answer</summary>
+
+**B. 80%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q152 — Epithelial sodium channels has
+
+Epithelial sodium channels has ?
+
+- A. 2a, 213
+- B. la, i(3
+- C. 2a, 213, 2y
+- D. 2a, 113, 2y
+
+<details><summary>Answer</summary>
+
+**D. 2a, 113, 2y** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q153 — pH of intracellular fluid is
+
+pH of intracellular fluid is ?
+
+- A. Slightly less than ECF
+- B. Slightly more than ECF
+- C. Same as ECF
+- D. Highly alkaline
+
+<details><summary>Answer</summary>
+
+**A. Slightly less than ECF** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q154 — Increased in plasma viscosity is maximally
+
+Increased in plasma viscosity is maximally caused by which plasma protein?
+
+- A. Fibrinogen
+- B. Albumin
+- C. Globulin
+- D. All have equal effect
+
+<details><summary>Answer</summary>
+
+**C. Globulin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q155 — Oncotic pressure is contributed by
+
+Oncotic pressure is contributed by?
+
+- A. Sodium
+- B. Chloride
+- C. Chloride
+- D. Albumin
+
+<details><summary>Answer</summary>
+
+**D. Albumin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q156 — Motor evoked potential assess
+
+Motor evoked potential assess ?
+
+- A. Peripheral motor pathways
+- B. Central motor pathways
+- C. Both of the above
+- D. Regeneration in muscles
+
+<details><summary>Answer</summary>
+
+**B. Central motor pathways** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q157 — True about visual cycle cascade
+
+True about visual cycle cascade ?
+
+- A. Associated with conformational change in opsin
+- B. Light causes isomerization of all-trans-retinol to 11 Cis-retinol
+- C. Retinol [alcohol] is involved
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**A. Associated with conformational change in opsin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q158 — True about smooth muscle contraction
+
+True about smooth muscle contraction ?
+
+- A. Troponin plays an important role
+- B. Calmodulin has no role
+- C. Phosphorylation of myosin
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Phosphorylation of myosin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q159 — Increase in Duration of expiration is
+
+Increase in Duration of expiration is due to?
+
+- A. J-reflex
+- B. Head's paradoxical reflex
+- C. Hering-Breure reflex
+- D. Proprioceptors
+
+<details><summary>Answer</summary>
+
+**C. Hering-Breure reflex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q160 — Wallerian degeneration is for
+
+Wallerian degeneration is for ?
+
+- A. Nerve degeneration
+- B. Muscle degeneration
+- C. Nerve regeneration
+- D. Muscle regeneration
+
+<details><summary>Answer</summary>
+
+**A. Nerve degeneration** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q161 — Withdrawal reflex is also known as
+
+Withdrawal reflex is also known as ?
+
+- A. Extension reflex
+- B. Stretch reflex
+- C. Golgitendon reflex
+- D. Flexor reflex
+
+<details><summary>Answer</summary>
+
+**D. Flexor reflex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q162 — Tetany in muscle occurs inspite of
+
+Tetany in muscle occurs inspite of normal serum Ca" level. Which ion is responsible ?
+
+- A. Mg2+
+- B. Ca2+
+- C. K+
+- D. Na+
+
+<details><summary>Answer</summary>
+
+**B. Ca2+** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q163 — Unspecified pain pathway is for
+
+Unspecified pain pathway is for?
+
+- A. Neuropathic pain
+- B. Trauma
+- C. Visceral pain
+- D. Psychogenic pain
+
+<details><summary>Answer</summary>
+
+**D. Psychogenic pain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q164 — Pain is carried by which nerve
+
+Pain is carried by which nerve fibers?
+
+- A. Act, A13
+- B. Act, Ay
+- C. AS, C
+- D. Ay, C
+
+<details><summary>Answer</summary>
+
+**A. Act, A13** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q165 — Vibration sense is detected by which
+
+Vibration sense is detected by which type of receptor?
+
+- A. Merkel's disc
+- B. Ruffini's end organ
+- C. Paccinian corpuscle
+- D. Meissner's corpuscle
+
+<details><summary>Answer</summary>
+
+**C. Paccinian corpuscle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q166 — Vibrations are detected by which types
+
+Vibrations are detected by which types of receptors?
+
+- A. Slowly adapting
+- B. Rapidly adapting
+- C. Non-adapting
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Rapidly adapting** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q167 — Which of the following receptor is
+
+Which of the following receptor is stimulated by sustained pressure?
+
+- A. Ruffini's end organ
+- B. Merkel's disc
+- C. Hair cells
+- D. Meissner Corpuscles
+
+<details><summary>Answer</summary>
+
+**A. Ruffini's end organ** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q168 — Prosopagnosia is characterized by
+
+"Prosopagnosia" is characterized by :
+
+- A. Inability to read
+- B. Inability to identify faces
+- C. Inability to write
+- D. Inability to speak
+
+<details><summary>Answer</summary>
+
+**B. Inability to identify faces** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q169 — Brocas area is concerned with
+
+Broca's area is concerned with:
+
+- A. Word formation
+- B. Comprehension
+- C. Repetition
+- D. Reading
+
+<details><summary>Answer</summary>
+
+**A. Word formation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q170 — Broadmans area for motor speech
+
+Broadman's area for motor speech?
+
+- A. Area 1,2,3
+- B. Area 4,6
+- C. Area 28,29
+- D. Area 44
+
+<details><summary>Answer</summary>
+
+**D. Area 44** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q171 — Maximum density of muscle spindle is
+
+Maximum density of muscle spindle is found in ?
+
+- A. Calf muscle
+- B. Lumbricals
+- C. Quadrieps muscle
+- D. Triceps
+
+<details><summary>Answer</summary>
+
+**B. Lumbricals** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q172 — Function of epinephirine and norepinephine in
+
+Function of epinephirine and norepinephine in Fight​or-Flight response is ?
+
+- A. Increased blood flow to skin
+- B. Increased blood flow to muscles
+- C. Bronchoconstriction
+- D. Bradycardia
+
+<details><summary>Answer</summary>
+
+**B. Increased blood flow to muscles** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q173 — EPSP is due to
+
+EPSP is due to ?
+
+- A. K' influx
+- B. Na* efflux
+- C. Na* influx
+- D. Ca** influx
+
+<details><summary>Answer</summary>
+
+**C. Na* influx** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q174 — The only excitatory neurons in cerebellar
+
+The only excitatory neurons in cerebellar cortex are?
+
+- A. Purkinje
+- B. Basket
+- C. Golgi
+- D. Granule cells
+
+<details><summary>Answer</summary>
+
+**D. Granule cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q175 — Sleep walking is seen in which
+
+Sleep walking is seen in which stage of sleep ?
+
+- A. REM
+- B. Stage 1-2 NREM
+- C. Stage 2-3 NREM
+- D. Stage 3-4 NREM
+
+<details><summary>Answer</summary>
+
+**D. Stage 3-4 NREM** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q176 — Calcium absorption is hampered by
+
+Calcium absorption is hampered by
+
+- A. Protein
+- B. Lactose
+- C. Acid
+- D. Phytates
+
+<details><summary>Answer</summary>
+
+**D. Phytates** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q177 — Suppressor Strip on anterior edge of
+
+Suppressor Strip on anterior edge of pre- central gyrus has following function ?
+
+- A. Increase extensor tone
+- B. Pain perception
+- C. Inhibition of stretch reflex
+- D. Voluntary movement
+
+<details><summary>Answer</summary>
+
+**C. Inhibition of stretch reflex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q178 — Part of sympathetic system which secrete
+
+Part of sympathetic system which secrete chemical transmitter?
+
+- A. Cardiac ganglion
+- B. Cervical sympathetic chain
+- C. Adrenal medulla
+- D. Thoracic sympathetic chain
+
+<details><summary>Answer</summary>
+
+**C. Adrenal medulla** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q179 — Which of the following has direct
+
+Which of the following has direct innervation from sympathetic system but no parasymputhetic supply?
+
+- A. Heart
+- B. Intestine
+- C. Skin
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Skin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q180 — RMP in smooth muscles
+
+RMP in smooth muscles?
+
+- A. -90 mV
+- B. -70 mV
+- C. -150 mV
+- D. - 40 mV
+
+<details><summary>Answer</summary>
+
+**D. - 40 mV** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q181 — Halden Effect is
+
+Halden Effect is ?
+
+- A. CO2 delivery by increased 02
+- B. 02 delivery by increased CO2
+- C. CO2 delivery by increased CO2
+- D. 0, delivery by increased CO
+
+<details><summary>Answer</summary>
+
+**A. CO2 delivery by increased 02** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q182 — Total surface area of respiratory membrane
+
+Total surface area of respiratory membrane ?
+
+- A. 25 cm'
+- B. 50 cm'
+- C. 25 m2
+- D. 100 m2
+
+<details><summary>Answer</summary>
+
+**D. 100 m2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q183 — Damage to pnemotaxic center along with
+
+Damage to pnemotaxic center along with vagus nerve causes which type of respiration?
+
+- A. Chyne stoke breathing
+- B. Deep and slow
+- C. Shallow and rapid
+- D. Inspiratory Spasm
+
+<details><summary>Answer</summary>
+
+**D. Inspiratory Spasm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q184 — Transpulmonary pressure is the difference between
+
+Transpulmonary pressure is the difference between:
+
+- A. The bronchus and atmospheric pressure
+- B. Pressure in alveoli and intrapleural pressure
+- C. Atmosphere and intrapleural pressure
+- D. Atmosphere and intraalveolar pressure
+
+<details><summary>Answer</summary>
+
+**B. Pressure in alveoli and intrapleural pressure** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q185 — Normal transpulmonary pressure during quiet breath
+
+Normal transpulmonary pressure during quiet breathing?
+
+- A. + 8 to +5 cm H20
+- B. - 8 to - 5 cm H20
+- C. 0 to + 1 cm H20
+- D. 0 to -1 cm H20
+
+<details><summary>Answer</summary>
+
+**A. + 8 to +5 cm H20** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q186 — What is the partial pressure of
+
+What is the partial pressure of oxygen at 760mmHg atmospheric pressure?
+
+- A. 76
+- B. 160
+- C. 120
+- D. 130
+
+<details><summary>Answer</summary>
+
+**B. 160** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q187 — What is the partial pressure for
+
+What is the partial pressure for oxygen in the inspired air?
+
+- A. 116 mm Hg
+- B. 158 mm Hg
+- C. 100 mm Hg
+- D. 0.3 mm Hg
+
+<details><summary>Answer</summary>
+
+**B. 158 mm Hg** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q188 — Isocapenic buffering is
+
+Isocapenic buffering is ?
+
+- A. Increcased pCO2 with increased CO2
+- B. Increcased pCO2 with decreased CO,
+- C. Normal pCO, with increased CO2
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Normal pCO, with increased CO2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q189 — Vital capacity is measured by
+
+Vital capacity is measured by ?
+
+- A. Plethysmography
+- B. Gas-dilution methed
+- C. Nitrogen washout technique
+- D. Spirometer
+
+<details><summary>Answer</summary>
+
+**D. Spirometer** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q190 — In patients with emphysematous bullae, total
+
+In patients with emphysematous bullae, total lung volume is best determined by?
+
+- A. Spirometry
+- B. Helium dilution method
+- C. Plathysmography
+- D. Any of the above
+
+<details><summary>Answer</summary>
+
+**B. Helium dilution method** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q191 — All are true about compliance of
+
+All are true about compliance of lung except ?
+
+- A. Change in Volume per unit change in pressure
+- B. Total Compliance is 0.2 L/cm
+- C. A measure of distensibility
+- D. Decreased in emphysema
+
+<details><summary>Answer</summary>
+
+**D. Decreased in emphysema** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q192 — Normal respiratory compliance is
+
+Normal respiratory compliance is ?
+
+- A. 200 ml/cm water
+- B. 50 ml/cm water
+- C. 100 ml/cm water
+- D. 150 ml/cm water
+
+<details><summary>Answer</summary>
+
+**A. 200 ml/cm water** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q193 — In relaxation pressure curve, in chronic
+
+In relaxation pressure curve, in chronic smokers at Zero relaxation pressure ?
+
+- A. Lung volume increases
+- B. Lung volume decreases
+- C. No change in lung volume
+- D. Any of the above
+
+<details><summary>Answer</summary>
+
+**A. Lung volume increases** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q194 — Which of the following parameter Indicates
+
+Which of the following parameter Indicates elimination of CO2 from lung ?
+
+- A. Pa02
+- B. pH
+- C. PaCO2
+- D. HCO, level
+
+<details><summary>Answer</summary>
+
+**C. PaCO2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q195 — Normal02 extraction ratio of tissues
+
+Normal02 extraction ratio of tissues ?
+
+- A. 5%
+- B. 15%
+- C. 25%
+- D. 40%
+
+<details><summary>Answer</summary>
+
+**C. 25%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q196 — Poiseuilles equation states that
+
+Poiseuille's equation states that?
+
+- A. Blood flow is directly proportion to 2nd power of radius
+- B. Blood flow is directly proportiom to 4th power of radius
+- C. Blood flow is inversely proportion to 2nd power of radius
+- D. Blood flow is inversely proportion to 4th power of radius
+
+<details><summary>Answer</summary>
+
+**D. Blood flow is inversely proportion to 4th power of radius** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q197 — Aortic valve closure occurs in which
+
+Aortic valve closure occurs in which part of cardiac cycle?
+
+- A. Beginning of isovolumetric contraction
+- B. Beginning of ventricular ejection
+- C. Beginning of isovolumetric relaxation
+- D. During rapid ventricular filling
+
+<details><summary>Answer</summary>
+
+**B. Beginning of ventricular ejection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q198 — Role of ion channels on vascular
+
+Role of ion channels on vascular endothelium is ?
+
+- A. Ca+ influx
+- B. K+ efflux
+- C. Na+ influx
+- D. Cl- effux
+
+<details><summary>Answer</summary>
+
+**D. Cl- effux** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q199 — Action Potential in cardiac muscles has
+
+Action Potential in cardiac muscles has how many phases?
+
+- A. 2
+- B. 3
+- C. 4
+- D. 5
+
+<details><summary>Answer</summary>
+
+**D. 5** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q200 — Aortic valve closure corresponds to the
+
+Aortic valve closure corresponds to the beginning of:
+
+- A. Systole
+- B. Parasystole
+- C. Isovolumetric relaxation
+- D. Isovolumetric contraction
+
+<details><summary>Answer</summary>
+
+**C. Isovolumetric relaxation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q201 — Cerebral blood flow is increased by
+
+Cerebral blood flow is increased by ?
+
+- A. Increase in P02
+- B. Increase in PCO2
+- C. Decrease metabolic rate
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Increase in P02** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q202 — ST Segment of ECG corresponds to
+
+ST Segment of ECG corresponds to which phase of action potential ?
+
+- A. Phase 0
+- B. Phase I
+- C. Phase II
+- D. Phase III
+
+<details><summary>Answer</summary>
+
+**C. Phase II** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q203 — ST Segment of ECG Correspords to
+
+ST Segment of ECG Correspords to which phase of action potential ?
+
+- A. Rapid depolarixation
+- B. Rapid repolarizedtion
+- C. Find repolarizetion
+- D. Plateu Phase
+
+<details><summary>Answer</summary>
+
+**D. Plateu Phase** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q204 — Baroreeaptors are located in
+
+Baroreeaptors are located in ?
+
+- A. Tunica media
+- B. Tunica intima
+- C. Tunica adventitia
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Tunica adventitia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q205 — Baroreceptor are
+
+Baroreceptor are ?
+
+- A. Carotid body
+- B. Carotid sinus
+- C. Aortic body
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Carotid sinus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q206 — After load is decreased by
+
+After load is decreased by ?
+
+- A. Exercise
+- B. Anemia
+- C. Thyrotoxicosis
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q207 — Oxygen saturation of venous blood is
+
+Oxygen saturation of venous blood is ?
+
+- A. 30%
+- B. 50%
+- C. 70%
+- D. 90%
+
+<details><summary>Answer</summary>
+
+**C. 70%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q208 — Organ with dual blood supply
+
+Organ with dual blood supply?
+
+- A. Heart
+- B. Liver
+- C. Kidney
+- D. Lung
+
+<details><summary>Answer</summary>
+
+**C. Kidney** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q209 — True about Bezold-Jarish reflex
+
+True about Bezold-Jarish reflex?
+
+- A. Hypertension
+- B. Tachycardia
+- C. Hyperpnea
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**D. Hypotension** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q210 — True about Coronary circulation
+
+True about Coronary circulation ?
+
+- A. 250 ml/min
+- B. Major flow during systole
+- C. Unifrom flow during full cardiac cycle
+- D. All of the about
+
+<details><summary>Answer</summary>
+
+**A. 250 ml/min** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q211 — Glomerular filteration of a substance depends
+
+Glomerular filteration of a substance depends upon?
+
+- A. Lipid solubility of substance
+- B. Binding capacity to albumin
+- C. Both of the above
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Binding capacity to albumin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q212 — Tubuloglomerular feedback is for regulation of
+
+Tubuloglomerular feedback is for regulation of?
+
+- A. BP
+- B. Blood volume
+- C. Na+ reabsorption
+- D. GFR
+
+<details><summary>Answer</summary>
+
+**D. GFR** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q213 — Glomerulotubular feedback is for regulation of
+
+Glomerulotubular feedback is for regulation of?
+
+- A. BP
+- B. Blood volume
+- C. Na+ reabsorption
+- D. Renal blood flow
+
+<details><summary>Answer</summary>
+
+**C. Na+ reabsorption** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q214 — Mesangial cell contraction is done by
+
+Mesangial cell contraction is done by?
+
+- A. cAMP
+- B. Dopamine
+- C. PAF
+- D. ANP
+
+<details><summary>Answer</summary>
+
+**C. PAF** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q215 — Mechamism of secretion of ammonia in
+
+Mechamism of secretion of ammonia in distal tubule is?
+
+- A. Primary active transport
+- B. Symport
+- C. Antiport
+- D. Passive diffusion
+
+<details><summary>Answer</summary>
+
+**D. Passive diffusion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q216 — A Substance has clearance same as
+
+A Substance has clearance same as inulin clearance, the Substarce is mainly excreted in urine by ?
+
+- A. Tubular Secretion
+- B. Glomerular filtration
+- C. Both a & b
+- D. Vascular leakage
+
+<details><summary>Answer</summary>
+
+**B. Glomerular filtration** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q217 — Normal Uninary pH is
+
+Normal Uninary pH is ?
+
+- A. 5.0 - 6.0
+- B. 6.5 - 7.0
+- C. 8.5 - 9.0
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. 6.5 - 7.0** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q218 — Increased aldosterone and ADH secretiom following
+
+Increased aldosterone and ADH secretiom following major trauma results in all the following except ?
+
+- A. Decreased Na+ excretion is urine
+- B. Increased K' excretion in urine
+- C. Increased osmolarity of urine
+- D. Increased water excretion
+
+<details><summary>Answer</summary>
+
+**D. Increased water excretion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q219 — Which carrier pump is transporting solutes
+
+Which carrier pump is transporting solutes in thick ascending limb of Henle loop?
+
+- A. Carrier pump Na-K-2Cl transporter.
+- B. NaCl- cotransporter
+- C. Na2+-H+ exchanger
+- D. Na2+-K+ exchanger
+
+<details><summary>Answer</summary>
+
+**A. Carrier pump Na-K-2Cl transporter.** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q220 — Receptive area of stomach
+
+Receptive area of stomach?
+
+- A. Antrum
+- B. Pylorus
+- C. Body
+- D. Fundus
+
+<details><summary>Answer</summary>
+
+**D. Fundus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q221 — All are seen in emphysema except
+
+All are seen in emphysema except
+
+- A. Decreased vital capacity
+- B. Hyperinflation
+- C. Rhonchi
+- D. Reduced Dlco
+
+<details><summary>Answer</summary>
+
+**C. Rhonchi** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q222 — Which of the following agents is
+
+Which of the following agents is used to measure Glomerular Filtration Rate (GFR)?
+
+- A. Iodohippurate
+- B. Tc99m-DTPA
+- C. Tc99m-MAG3
+- D. Tc99m-DMSA
+
+<details><summary>Answer</summary>
+
+**B. Tc99m-DTPA** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
 
 ## Year 2016
 
-### Q109 — Dangerous space in the neck is *(2016)*
+### Q223 — Dangerous space in the neck is *(2016)*
 
 Dangerous space in the neck is found between?
 
@@ -1872,8 +3916,7 @@ Dangerous space in the neck is found between?
 ---
 
 ---
-
-### Q110 — Pars dorsalis is a part of *(2016)*
+### Q224 — Pars dorsalis is a part of *(2016)*
 
 Pars dorsalis is a part of ?
 
@@ -1891,8 +3934,7 @@ Pars dorsalis is a part of ?
 ---
 
 ---
-
-### Q111 — common mechanism for transport into the *(2016)*
+### Q225 — common mechanism for transport into the *(2016)*
 
 Most common mechanism for transport into the cell?
 
@@ -1910,8 +3952,7 @@ Most common mechanism for transport into the cell?
 ---
 
 ---
-
-### Q112 — In a muscle fiber at rest *(2016)*
+### Q226 — In a muscle fiber at rest *(2016)*
 
 In a muscle fiber at rest, the length of the I band is 1 mm and A band is 1.5 mm. What is the length of the sarcomere
 
@@ -1929,8 +3970,7 @@ In a muscle fiber at rest, the length of the I band is 1 mm and A band is 1.5 mm
 ---
 
 ---
-
-### Q113 — of the following defines vital capacity *(2016)*
+### Q227 — of the following defines vital capacity *(2016)*
 
 Which of the following defines vital capacity?
 
@@ -1948,8 +3988,7 @@ Which of the following defines vital capacity?
 ---
 
 ---
-
-### Q114 — Respiratory exchange of gases is strated *(2016)*
+### Q228 — Respiratory exchange of gases is strated *(2016)*
 
 Respiratory exchange of gases is strated from?
 
@@ -1967,8 +4006,7 @@ Respiratory exchange of gases is strated from?
 ---
 
 ---
-
-### Q115 — of the following acts as Gatekeeper *(2016)*
+### Q229 — of the following acts as Gatekeeper *(2016)*
 
 Which of the following acts as "Gatekeeper" in the GIT?
 
@@ -1986,8 +4024,7 @@ Which of the following acts as "Gatekeeper" in the GIT?
 ---
 
 ---
-
-### Q116 — Apnea-hypopnea index is used for *(2016)*
+### Q230 — Apnea-hypopnea index is used for *(2016)*
 
 Apnea-hypopnea index is used for?
 
@@ -2005,11 +4042,2130 @@ Apnea-hypopnea index is used for?
 ---
 
 ---
+### Q231 — muscle is attached to the disc *(2016)*
 
+Which muscle is attached to the disc of the temporomandibular joint?
+
+- A. Buccinator
+- B. Lateral pterygoid
+- C. Masseter
+- D. Temporalis
+
+<details><summary>Answer</summary>
+
+**B. Lateral pterygoid** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q232 — Vidian nerve is also known as *(2016)*
+
+Vidian nerve is also known as?
+
+- A. Nerve of Pterygoid canal
+- B. Greater Petrosal nerve
+- C. Lesser Petrosal nerve
+- D. Greater Auricular nerve
+
+<details><summary>Answer</summary>
+
+**A. Nerve of Pterygoid canal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q233 — Structures pierced by the parotid duct *(2016)*
+
+Structures pierced by the parotid duct are all except?
+
+- A. Buccopharyngeal fascia
+- B. Buccinator muscle
+- C. Buccal fat pad
+- D. Investing layer of deep cervical fascia
+
+<details><summary>Answer</summary>
+
+**D. Investing layer of deep cervical fascia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q234 — layer of the scalp is vascular *(2016)*
+
+Which layer of the scalp is vascular?
+
+- A. Pericranium
+- B. Superficial fascia
+- C. Skin
+- D. Aponeurosis
+
+<details><summary>Answer</summary>
+
+**B. Superficial fascia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q235 — of the following pass through the *(2016)*
+
+All of the following pass through the Sinus of morgagni except -
+
+- A. Auditory tube
+- B. Levator veli palatini
+- C. Ascending palatine artery
+- D. Stylopharyngeus
+
+<details><summary>Answer</summary>
+
+**D. Stylopharyngeus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q236 — Chorda-tympani does not carry which fibers *(2016)*
+
+Chorda-tympani does not carry which fibers?
+
+- A. Preganglionic parasympathetic fibers for sublingual glands
+- B. Preganglionic parasympathetic fibers for submandibular gland
+- C. Preganglionic parasympathetic fibers for parotid gland
+- D. Taste fibers from anterior two third of tongue
+
+<details><summary>Answer</summary>
+
+**C. Preganglionic parasympathetic fibers for parotid gland** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q237 — of the following pass through the *(2016)*
+
+Which of the following pass through the Hypoglossal canal?
+
+- A. Hypoglossal nerve
+- B. External jugular vein
+- C. Facial nerve
+- D. Mandibular nerve
+
+<details><summary>Answer</summary>
+
+**A. Hypoglossal nerve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q238 — Extension of the retropharyngeal space is *(2016)*
+
+Extension of the retropharyngeal space is between ?
+
+- A. Alar fascia and buccopharyngeal fascia
+- B. buccopharyngeal fascia and prevertebral fascia
+- C. Alar fascia and Prevertebral fascia
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Alar fascia and buccopharyngeal fascia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q239 — Straight sinus is formed by *(2016)*
+
+Straight sinus is formed by?
+
+- A. Inferior Sagittal Sinus
+- B. Internal Jugular veins
+- C. Superior Sagittal Sinus
+- D. Tranverse sinus
+
+<details><summary>Answer</summary>
+
+**A. Inferior Sagittal Sinus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q240 — artery supplies the paracentral lobule *(2016)*
+
+Which artery supplies the paracentral lobule?
+
+- A. Medial Striate artery
+- B. Calloso Marginal artery
+- C. Pericallosal artery
+- D. Frontopolar artery
+
+<details><summary>Answer</summary>
+
+**B. Calloso Marginal artery** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q241 — Nucleus of basal ganglia *(2016)*
+
+Nucleus of basal ganglia
+
+- A. Dentate
+- B. Thalamus
+- C. Caudate
+- D. Red nucleus
+
+<details><summary>Answer</summary>
+
+**C. Caudate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q242 — lateral nucleus of cerebellum is *(2016)*
+
+Most lateral nucleus of cerebellum is ?
+
+- A. Dentate
+- B. Globose
+- C. Fastigial
+- D. Emboliform
+
+<details><summary>Answer</summary>
+
+**A. Dentate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q243 — Superior marginal gyrus is a part *(2016)*
+
+Superior marginal gyrus is a part of?
+
+- A. Parietal lobe
+- B. Frontal lobe
+- C. Temporal lobe
+- D. Occipital lobe
+
+<details><summary>Answer</summary>
+
+**A. Parietal lobe** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q244 — Arbor vitae are seen in *(2016)*
+
+Arbor vitae are seen in ?
+
+- A. Cerebrum
+- B. Cerebellum
+- C. Pons
+- D. Thalamus
+
+<details><summary>Answer</summary>
+
+**B. Cerebellum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q245 — Total volume of CSF is *(2016)*
+
+Total volume of CSF is?
+
+- A. 150 ml
+- B. 500 ml
+- C. 50 ml
+- D. 800 ml
+
+<details><summary>Answer</summary>
+
+**A. 150 ml** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q246 — Lateral lemniscus terminates into *(2016)*
+
+Lateral lemniscus terminates into ?
+
+- A. Lateral geniculate body
+- B. Superior colliculus
+- C. Inferior colliculus
+- D. Inferior olivary complex
+
+<details><summary>Answer</summary>
+
+**C. Inferior colliculus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q247 — Internal capsule- All of the following *(2016)*
+
+Internal capsule- All of the following are parts except ?
+
+- A. Anterior limb
+- B. Sublentiform part
+- C. Retrolentiform
+- D. Prelentiform
+
+<details><summary>Answer</summary>
+
+**D. Prelentiform** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q248 — Substantia ferruginea is found in - *(2016)*
+
+Substantia ferruginea is found in -
+
+- A. Fourth ventricle
+- B. Thalamus
+- C. Midbrain
+- D. Third ventricle
+
+<details><summary>Answer</summary>
+
+**A. Fourth ventricle** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q249 — Infundibular diverticulum is an extention of *(2016)*
+
+Infundibular diverticulum is an extention of ?
+
+- A. 1st and 2th ventricles
+- B. 3rd ventricle
+- C. 4th ventricle
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. 3rd ventricle** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q250 — of the following is a complete *(2016)*
+
+Which of the following is a complete sulcus in the brain?
+
+- A. Calcarine sulcus
+- B. Paracentral sulcus
+- C. Both
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Calcarine sulcus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q251 — Cerebellovestibular fibres pass through *(2016)*
+
+Cerebellovestibular fibres pass through ?
+
+- A. Superior cerebellar peduncle
+- B. Middle cerebellar peduncle
+- C. Inferior cerebellar peduncle
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Inferior cerebellar peduncle** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q252 — Long spinous process is seen in *(2016)*
+
+Long spinous process is seen in ?
+
+- A. Cervical vertebrae
+- B. Thoracic Vertebrae
+- C. Lumbar Vertebrae
+- D. Sacrum
+
+<details><summary>Answer</summary>
+
+**B. Thoracic Vertebrae** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q253 — Spinal segmental artery is a branch *(2016)*
+
+Spinal segmental artery is a branch of ?
+
+- A. Ascending spinal artery
+- B. Basilar artery
+- C. Posterior spinal artery
+- D. Anterior spinal artery
+
+<details><summary>Answer</summary>
+
+**A. Ascending spinal artery** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q254 — Lipid rafts are seen in *(2016)*
+
+Lipid rafts are seen in?
+
+- A. Ribosomes
+- B. Mitochondria
+- C. Plasma membrane
+- D. ER
+
+<details><summary>Answer</summary>
+
+**C. Plasma membrane** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q255 — Marker of endoplasmic reticulum *(2016)*
+
+Marker of endoplasmic reticulum?
+
+- A. Acid phosphatase
+- B. Glucose-6-phosphatase
+- C. Catalase
+- D. LDH
+
+<details><summary>Answer</summary>
+
+**B. Glucose-6-phosphatase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q256 — Following is a feature of simple *(2016)*
+
+Following is a feature of simple diffusion?
+
+- A. Against a concentration gradient
+- B. Easy for non-polar substance
+- C. More in thick membrane
+- D. Requires carrier protein
+
+<details><summary>Answer</summary>
+
+**B. Easy for non-polar substance** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q257 — True about Nernst equation *(2016)*
+
+True about Nernst equation?
+
+- A. Used to calculate equilibrium potential
+- B. Calculated for non-ionic solution
+- C. Nernst potential for Cl is -90 my
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**A. Used to calculate equilibrium potential** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q258 — ECF concentration of 1C is 150 *(2016)*
+
+ECF concentration of 1C. is 150 meq/L and ICF concentration of le is 5 meq/L. What is the equilibrium potential for K+ is?
+
+- A. +60 mV
+- B. -60 mV
+- C. -90 mV
+- D. +90 mV
+
+<details><summary>Answer</summary>
+
+**C. -90 mV** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q259 — Nernnst equation related to equilibrium potential *(2016)*
+
+Nernnst equation related to equilibrium potential does not depend upon?
+
+- A. Concentration gradient
+- B. Electric gradient
+- C. Non-ionic solution
+- D. Concentration of ions in two solution
+
+<details><summary>Answer</summary>
+
+**C. Non-ionic solution** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q260 — Due to Donnan-Gibbs effect *(2016)*
+
+Due to Donnan-Gibbs effect?
+
+- A. Concentration of K. is greater in ECF
+- B. Concentration of cl is greater in ECF
+- C. Total ions are more in ICF
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**C. Total ions are more in ICF** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q261 — ATPase is which type of pump *(2016)*
+
+ATPase is which type of pump?
+
+- A. Secondary active
+- B. Electrogenic
+- C. Symport
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Electrogenic** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q262 — Diffusion related to 02 transport across *(2016)*
+
+Diffusion related to 02 transport across respiratory membrane is an example of?
+
+- A. Simple diffusion
+- B. Facilitated diffusion
+- C. Active diffusion
+- D. Osmotic diffusion
+
+<details><summary>Answer</summary>
+
+**A. Simple diffusion** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q263 — Calculation of interstitial fluid in a *(2016)*
+
+Calculation of interstitial fluid in a 50 years old is done by?
+
+- A. TBW minus ECF
+- B. ECF minus plasma volume
+- C. ICF minus ECF
+- D. TBW minus ICF
+
+<details><summary>Answer</summary>
+
+**B. ECF minus plasma volume** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q264 — Excitability of cells is maximally affected *(2016)*
+
+Excitability of cells is maximally affected by change in concentration of which ion?
+
+- A. IC+
+- B. Na*
+- C. a-
+- D. Ca+2
+
+<details><summary>Answer</summary>
+
+**D. Ca+2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q265 — Dull visceral pain is carried by *(2016)*
+
+Dull visceral pain is carried by which type of neurons?
+
+- A. A gamma
+- B. Aa
+- C. C fibres
+- D. B
+
+<details><summary>Answer</summary>
+
+**C. C fibres** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q266 — C fibers carry sensations through which *(2016)*
+
+'C' fibers carry sensations through which pathway?
+
+- A. Posterior column
+- B. Anterior spinothalamic tract
+- C. Lateral spinothalamic tract
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Lateral spinothalamic tract** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q267 — Types C nerve fibers are *(2016)*
+
+Types C nerve fibers are?
+
+- A. Sensory
+- B. Motor
+- C. Mixed
+- D. Any of the above
+
+<details><summary>Answer</summary>
+
+**A. Sensory** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q268 — Warmth sensation is carried by *(2016)*
+
+Warmth sensation is carried by?
+
+- A. A a fibers
+- B. A (3 fibers
+- C. A y fibers
+- D. A S fibers
+
+<details><summary>Answer</summary>
+
+**A. A a fibers** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q269 — True about myosin *(2016)*
+
+True about myosin?
+
+- A. Thin filament
+- B. Covers active site of action
+- C. Has ATPase activity
+- D. Ca' binding protein
+
+<details><summary>Answer</summary>
+
+**C. Has ATPase activity** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q270 — Afferents for stretch reflexes are carried *(2016)*
+
+Afferents for stretch reflexes are carried by which fibers?
+
+- A. Aa
+- B. Ay
+- C. Type B
+- D. Type C
+
+<details><summary>Answer</summary>
+
+**A. Aa** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q271 — Spinal cord has how many synapses *(2016)*
+
+Spinal cord has how many synapses in golgi tendon reflex?
+
+- A. 1
+- B. 2
+- C. 3
+- D. 4
+
+<details><summary>Answer</summary>
+
+**B. 2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q272 — Inverse stretch reflex is a *(2016)*
+
+Inverse stretch reflex is a?
+
+- A. Monosynaptic reflex
+- B. Bisynaptic reflex
+- C. Polysynaptic reflex
+- D. Nonsynaptic reflex
+
+<details><summary>Answer</summary>
+
+**B. Bisynaptic reflex** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q273 — Facilitatory presynaptic neurotransmitter is *(2016)*
+
+Facilitatory presynaptic neurotransmitter is?
+
+- A. GABA
+- B. Glycine
+- C. Glutamate
+- D. Aspartate
+
+<details><summary>Answer</summary>
+
+**D. Aspartate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q274 — Stereocilia are found in *(2016)*
+
+Stereocilia are found in?
+
+- A. Eye
+- B. Nose
+- C. Tongue
+- D. Epididymis
+
+<details><summary>Answer</summary>
+
+**D. Epididymis** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q275 — CSF pressure is increased in all *(2016)*
+
+CSF pressure is increased in all except -
+
+- A. Forced inspiration
+- B. Coughing
+- C. Valsalva manoeuvre
+- D. Crying
+
+<details><summary>Answer</summary>
+
+**A. Forced inspiration** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q276 — Function of Ghrelin *(2016)*
+
+Function of Ghrelin?
+
+- A. Stimulate water absorption
+- B. Increase appatite
+- C. Regulation of temperature
+- D. Stimulate lipogenesis
+
+<details><summary>Answer</summary>
+
+**B. Increase appatite** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q277 — Location of visual cortex *(2016)*
+
+Location of visual cortex?
+
+- A. Precentral gyrus
+- B. Postcentral gyrus
+- C. Sylvian fissure
+- D. Calcarine sulcus
+
+<details><summary>Answer</summary>
+
+**D. Calcarine sulcus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q278 — Parvocellular pathway for vision is concerned *(2016)*
+
+Parvocellular pathway for vision is concerned with?
+
+- A. Fine details of object
+- B. Movements of object
+- C. Flickering features
+- D. Depth of vision
+
+<details><summary>Answer</summary>
+
+**A. Fine details of object** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q279 — Sweat glands are supplied by all *(2016)*
+
+Sweat glands are supplied by all except?
+
+- A. Cholinergic neurons
+- B. Sympathetic neurons
+- C. Adrenergic neurons
+- D. C-fibers
+
+<details><summary>Answer</summary>
+
+**C. Adrenergic neurons** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q280 — Gustatory pathway involves which nerve *(2016)*
+
+Gustatory pathway involves which nerve?
+
+- A. Facial
+- B. Glossopharyngeal
+- C. Vagus
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q281 — Function of cerebellum *(2016)*
+
+Function of cerebellum?
+
+- A. Regulation of tone
+- B. Coordination of eye movement
+- C. Planning & initiation of movement
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q282 — of the following is not a *(2016)*
+
+Which of the following is not a metabotropic receptor for serotonin?
+
+- A. 5HT,A
+- B. 5HT,13
+- C. 5HT2A
+- D. 5HT3
+
+<details><summary>Answer</summary>
+
+**D. 5HT3** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q283 — Two point discrimination is mainly a *(2016)*
+
+Two point discrimination is mainly a function of which touch receptors?
+
+- A. Merkel's disc
+- B. Ruffini's end organ
+- C. Paccinian corpuscle
+- D. Meissner's corpuscle
+
+<details><summary>Answer</summary>
+
+**A. Merkel's disc** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q284 — Functional residual capacity in normal adult *(2016)*
+
+Functional residual capacity in normal adult is?
+
+- A. 500 ml
+- B. 1200 ml
+- C. 2400 ml
+- D. 3200 ml
+
+<details><summary>Answer</summary>
+
+**C. 2400 ml** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q285 — is maximum voluntary ventilation *(2016)*
+
+What is maximum voluntary ventilation?
+
+- A. Amount of air expired in one munute at rest
+- B. Maximum amount of air that can be inspired and expired in one
+- C. Maximum amount of air that can be inspired per breath
+- D. Maximum amount of air remaining in lung after forced expiration
+
+<details><summary>Answer</summary>
+
+**B. Maximum amount of air that can be inspired and expired in one** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q286 — True about Carboxyhemoglobin *(2016)*
+
+True about Carboxyhemoglobin?
+
+- A. Take up 02 very quickly
+- B. Causes histotoxic hypoxia
+- C. Causes left shift of Hb-02 dissociation curve
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**C. Causes left shift of Hb-02 dissociation curve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q287 — is the difference between Hb-0 dissociation *(2016)*
+
+What is the difference between Hb-0 dissociation curve and Hb-CO curve?
+
+- A. CO shifts the curve to left
+- B. CO has more affinity to Hb
+- C. Co-Hb curve is similar to 02-Hb curve
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**D. All are true** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q288 — Not true about Bohr effect *(2016)*
+
+Not true about Bohr effect?
+
+- A. Decrease affinity of 02 by increase PCO,
+- B. Left shift of Hb-02 dissociation curve
+- C. It is due to H*
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**B. Left shift of Hb-02 dissociation curve** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q289 — True of 02-Hb dissociation curve *(2016)*
+
+True of 02-Hb dissociation curve?
+
+- A. Straight line curve
+- B. 100% saturated at P02 of 100 mmHg
+- C. Cooperative binding
+- D. Hb molecule can carry 6 molecules of 0,
+
+<details><summary>Answer</summary>
+
+**C. Cooperative binding** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q290 — increases affinity of hemoglobin for 0- *(2016)*
+
+Which increases affinity of hemoglobin for 0,-
+
+- A. Acidosis
+- B. Hyperthermia
+- C. High pH
+- D. High PCO2
+
+<details><summary>Answer</summary>
+
+**C. High pH** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q291 — In comparison to hemoglobin effect of *(2016)*
+
+In comparison to hemoglobin, effect of myoglobin on Bohr effect?
+
+- A. Increased
+- B. Decreased
+- C. Same
+- D. No Bohr effect
+
+<details><summary>Answer</summary>
+
+**D. No Bohr effect** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q292 — Function of chloride shift in RBCs *(2016)*
+
+Function of chloride shift in RBCs?
+
+- A. Right shift of Hb-O, curve
+- B. Left shift of Hb-02 curve
+- C. Transport of CO2
+- D. Diffusion of 02 in alveoli
+
+<details><summary>Answer</summary>
+
+**C. Transport of CO2** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q293 — Closing volume is related to which *(2016)*
+
+Closing volume is related to which of the following?
+
+- A. Tidal volume
+- B. Residual volume
+- C. Vital capacity
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Residual volume** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q294 — Central chemoreceptors are not stimulated by *(2016)*
+
+Central chemoreceptors are not stimulated by?
+
+- A. T PCO2
+- B. T El' in CSF
+- C. Hypoxia
+- D. All stimulate
+
+<details><summary>Answer</summary>
+
+**C. Hypoxia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q295 — Chemical regulation of respiration is not *(2016)*
+
+Chemical regulation of respiration is not affected by?
+
+- A. P02
+- B. PCO2
+- C. pH
+- D. Mean BP
+
+<details><summary>Answer</summary>
+
+**D. Mean BP** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q296 — True about high altitude acclimatization *(2016)*
+
+True about high altitude acclimatization?
+
+- A. Left shift 0102- Hb curve
+- B. Decreased RBC count
+- C. Hypoventilation
+- D. Increased erythropoietin
+
+<details><summary>Answer</summary>
+
+**D. Increased erythropoietin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q297 — Distending capacity of lung is maximum *(2016)*
+
+Distending capacity of lung is maximum at?
+
+- A. Apex
+- B. Base
+- C. Mid region
+- D. Posterior lobe
+
+<details><summary>Answer</summary>
+
+**A. Apex** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q298 — Action potential in cardiac muscles is *(2016)*
+
+Action potential in cardiac muscles is due to which ions?
+
+- A. K*
+- B. Na*
+- C. Ca'
+- D. CI?
+
+<details><summary>Answer</summary>
+
+**D. CI?** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q299 — Baroreceptors are related to which vessels *(2016)*
+
+Baroreceptors are related to which vessels?
+
+- A. Internal carotid artery
+- B. External carotid artery
+- C. Subclavian artery
+- D. Brachiocephalic trunk
+
+<details><summary>Answer</summary>
+
+**A. Internal carotid artery** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q300 — Effect of positive G *(2016)*
+
+Effect of positive G?
+
+- A. Increased cerebral arterial pressure
+- B. Increased venous return
+- C. Decreased cardiac output
+- D. Increased pressure in lower limb
+
+<details><summary>Answer</summary>
+
+**C. Decreased cardiac output** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q301 — of the following cause increase in *(2016)*
+
+Which of the following cause increase in pulmonary arterial pressure?
+
+- A. Histamine
+- B. Hypoxia
+- C. ANP
+- D. PGI2
+
+<details><summary>Answer</summary>
+
+**B. Hypoxia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q302 — important cerebral vasodilator *(2016)*
+
+Most important cerebral vasodilator?
+
+- A. H+
+- B. Na+
+- C. Cal+
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. H+** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q303 — Renin secretion is decreased by *(2016)*
+
+Renin secretion is decreased by?
+
+- A. Sympathetic stimulation
+- B. Prostacycline [PGI2]
+- C. Nacl in distal tubules
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**C. Nacl in distal tubules** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q304 — True about function of distal convoluted *(2016)*
+
+True about function of distal convoluted tubule?
+
+- A. Reabsorbe Na* by Nal(+2c1- channel
+- B. Reabsorbe IC' by Nei(' channel
+- C. Water reabsorption by ADH
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**C. Water reabsorption by ADH** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q305 — Function of Lacis cells in nephron *(2016)*
+
+Function of Lacis cells in nephron?
+
+- A. H+secretion
+- B. Na+reabsorption
+- C. Renin secretion
+- D. Regulation of vasoconstriction / vasodilatation of arterioles
+
+<details><summary>Answer</summary>
+
+**D. Regulation of vasoconstriction / vasodilatation of arterioles** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q306 — Plasma inulin of a person is *(2016)*
+
+Plasma inulin of a person is 4 mg/ml and urine flow rate is 20 ml/min. What will be GFR if urine inulin is 50 mg/ml?
+
+- A. 125 ml/min
+- B. 250 ml/min
+- C. 500 ml/min
+- D. 1000 ml/min
+
+<details><summary>Answer</summary>
+
+**B. 250 ml/min** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q307 — True about aquaporins are all except *(2016)*
+
+True about aquaporins are all except ?
+
+- A. Protein
+- B. Aquaporin-1 in PCT
+- C. Aquaporin-2 in loop of Henle
+- D. Aquaporin-2 in CD
+
+<details><summary>Answer</summary>
+
+**C. Aquaporin-2 in loop of Henle** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q308 — Maximum fat absorption in GI tract *(2016)*
+
+Maximum fat absorption in GI tract occurs in?
+
+- A. Duodenum
+- B. Jejunum
+- C. Ileum
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**B. Jejunum** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q309 — If the ileum is excised what *(2016)*
+
+If the ileum is excised, what will increase in stool?
+
+- A. Bile salts
+- B. Bile acids
+- C. Iron
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**A. Bile salts** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q310 — Daily fecal urobilinogen excretion in healthy *(2016)*
+
+Daily fecal urobilinogen excretion in healthy adults?
+
+- A. 20-40 gm
+- B. 40-280 gm
+- C. 20-40 mg
+- D. 40-280 mg
+
+<details><summary>Answer</summary>
+
+**D. 40-280 mg** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q311 — Maximum daily degradation of hemoglobin in *(2016)*
+
+Maximum daily degradation of hemoglobin in normal adults?
+
+- A. 2 gm
+- B. 4 gm
+- C. 6 gm
+- D. 8 gm
+
+<details><summary>Answer</summary>
+
+**D. 8 gm** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q312 — cAMP activates *(2016)*
+
+cAMP activates?
+
+- A. Protein kinase 'A'
+- B. Protein kinase 'C'
+- C. Nuclear transcription
+- D. Phospholipare
+
+<details><summary>Answer</summary>
+
+**A. Protein kinase 'A'** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q313 — Gene for insulin responsive glucose transporter *(2016)*
+
+Gene for insulin responsive glucose transporter is located on chromosome?
+
+- A. 7
+- B. 21
+- C. 17
+- D. 13
+
+<details><summary>Answer</summary>
+
+**C. 17** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q314 — True about ACTH and cortisol corticosteroid *(2016)*
+
+True about ACTH and cortisol [corticosteroid] secretion?
+
+- A. Maximum secretion in the evening
+- B. ACTH has negative feed-back control
+- C. ACTH has major effect on mineralocorticoid secretion
+- D. ACTH is derived from POMC
+
+<details><summary>Answer</summary>
+
+**B. ACTH has negative feed-back control** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q315 — are true regarding intracellular receptors except *(2016)*
+
+All are true regarding intracellular receptors, except?
+
+- A. Act by regulating gene expression
+- B. Fastest acting receptors
+- C. Glucocorticoid receptors
+- D. DNA contains hormone responsive elements
+
+<details><summary>Answer</summary>
+
+**B. Fastest acting receptors** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q316 — Hormone which affects IC ion concentration *(2016)*
+
+Hormone which affects IC* ion concentration?
+
+- A. GH
+- B. Thyroxine
+- C. Insulin
+- D. Estrogen
+
+<details><summary>Answer</summary>
+
+**C. Insulin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q317 — Tissue factor activates *(2016)*
+
+Tissue factor activates?
+
+- A. Intrinsic pathway
+- B. Contact pathway
+- C. In vitro pathway
+- D. In vivo pathway
+
+<details><summary>Answer</summary>
+
+**D. In vivo pathway** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q318 — Tisse factor activates *(2016)*
+
+Tisse factor activates?
+
+- A. Preaccelerin
+- B. Hageman facter
+- C. Labile facter
+- D. Prothrombin
+
+<details><summary>Answer</summary>
+
+**A. Preaccelerin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q319 — Maximum storage of magnesium occurs in *(2016)*
+
+Maximum storage of magnesium occurs in which part of body?
+
+- A. Adipose tissue
+- B. Skeletal muscles
+- C. Blood
+- D. Bone
+
+<details><summary>Answer</summary>
+
+**D. Bone** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q320 — Exercise mediated increase in muscular blood *(2016)*
+
+Exercise mediated increase in muscular blood flow is mediated by which sympathetic fibers
+
+- A. Adrenergic
+- B. Noradrenergic
+- C. Dopaminergic
+- D. Cholinergic
+
+<details><summary>Answer</summary>
+
+**D. Cholinergic** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q321 — Inhibition of Na ATPase leads to *(2016)*
+
+Inhibition of Na* ATPase leads to?
+
+- A. Decreased Na* in the cell
+- B. Increased Ca' in the cell
+- C. Increased K* in the cell
+- D. Increased Cl- in the cell
+
+<details><summary>Answer</summary>
+
+**B. Increased Ca' in the cell** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q322 — Hypercoagulable factor is *(2016)*
+
+Hypercoagulable factor is?
+
+- A. Protein C
+- B. Protein S
+- C. Factor V Leiden
+- D. Antithrombin III
+
+<details><summary>Answer</summary>
+
+**C. Factor V Leiden** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q323 — True about heterophilic receptors *(2016)*
+
+True about heterophilic receptors?
+
+- A. Involved in binding of GH to cell membrane
+- B. Bind to same ligand/hormone
+- C. Involved in cell adhesion
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**C. Involved in cell adhesion** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q324 — Third order neurons of sensations from *(2016)*
+
+Third order neurons of sensations from face arise in?
+
+- A. Medulla
+- B. Spinal nucleus of trigeminal
+- C. Thalamus
+- D. Brainstem
+
+<details><summary>Answer</summary>
+
+**C. Thalamus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q325 — Actin is which type of protein *(2016)*
+
+Actin is which type of protein?
+
+- A. Fibrous
+- B. Globular
+- C. Both
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Both** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q326 — NAD Acts as a coenzyme for *(2016)*
+
+NAD+ Acts as a coenzyme for ?
+
+- A. Xanthine oxidase
+- B. L-amino acid oxidase
+- C. Succinate dehydrogenase
+- D. Malate dehydrogenase
+
+<details><summary>Answer</summary>
+
+**D. Malate dehydrogenase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q327 — Enzyme involved in the transfer of *(2016)*
+
+Enzyme involved in the transfer of hydrogen ion is
+
+- A. Hydratase
+- B. Oxidase
+- C. Peroxidase
+- D. Dehydrogenase
+
+<details><summary>Answer</summary>
+
+**A. Hydratase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q328 — Sequence of complexes in the electron *(2016)*
+
+Sequence of complexes in the electron transport chain is -
+
+- A. NADH dehydrogenase → Q → Cytochrome bc1 →
+- B. NADH dehydrogenase → Q → Cytochrome aa3 →
+- C. NADH dehydrogenase → Cytochrome aa3 → Q →
+- D. NADH dehydrogenase → Cytochrome bcl → Q →
+
+<details><summary>Answer</summary>
+
+**A. NADH dehydrogenase → Q → Cytochrome bc1 →** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q329 — Regarding energy production by the electron *(2016)*
+
+Regarding energy production by the electron transport chain, which is true?
+
+- A. The complexes are arranged in a decreasing order of redox
+- B. The complexes are arranged in a decreasing order of ability
+- C. The complexes are arranged in a decreasing order of state
+- D. The complexes are arranged in a decreasing order of
+
+<details><summary>Answer</summary>
+
+**D. The complexes are arranged in a decreasing order of** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q330 — Electron transport chain all are true *(2016)*
+
+Electron transport chain all are true except
+
+- A. Complexes are arranged in an increasing order of redox
+- B. Mitochondrial Glycerol phosphate dehydrogenase sends its
+- C. l0 Hydrogen ions are translocated when NADH enters into
+- D. 7 Hydrogen ions are translocated when FADH2 electrons
+
+<details><summary>Answer</summary>
+
+**D. 7 Hydrogen ions are translocated when FADH2 electrons** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q331 — Atractiloside act as *(2016)*
+
+Atractiloside act as ?
+
+- A. Uncoupler
+- B. Inhibitor of oxidative phosphorylation
+- C. Inhibitor of complex I of ETC
+- D. Inhibitor of complex III of ETC
+
+<details><summary>Answer</summary>
+
+**B. Inhibitor of oxidative phosphorylation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q332 — of the following is the respiratory *(2016)*
+
+Which of the following is the respiratory centre of cell?
+
+- A. Mitochondria
+- B. Microsome
+- C. Lysosome
+- D. Nucleus
+
+<details><summary>Answer</summary>
+
+**A. Mitochondria** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q333 — Cellulose is biochemically - *(2016)*
+
+Cellulose is biochemically -
+
+- A. β (1,4) L glucose
+- B. ?, (14) D glucose
+- C. β(1,4) D glucose
+- D. ? (1,4) L glucose
+
+<details><summary>Answer</summary>
+
+**A. β (1,4) L glucose** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q334 — D and L isomerism is - *(2016)*
+
+D and L isomerism is -
+
+- A. Optical isomerism
+- B. Functional isomerism
+- C. Epimerism
+- D. Enantiomerism
+
+<details><summary>Answer</summary>
+
+**D. Enantiomerism** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q335 — of the following are converted to *(2016)*
+
+All of the following are converted to cr-ketoglutarate on catabolism except-
+
+- A. Glutamate
+- B. Histidine
+- C. Proline
+- D. Glycine
+
+<details><summary>Answer</summary>
+
+**D. Glycine** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q336 — Glucogenic aminoacids give rise to all *(2016)*
+
+Glucogenic aminoacids give rise to all of the following intermediates of citric acid cycle except-
+
+- A. Isocitrate
+- B. c ketoglutarate
+- C. Succinyl CoA
+- D. Fumarates
+
+<details><summary>Answer</summary>
+
+**A. Isocitrate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
 
 ## Year 2017
 
-### Q117 — What should be the value of BMI to be considered a
+### Q337 — What should be the value of BMI to be considered a
 
 What should be the value of BMI to be considered as “Lethal” in men?
 
@@ -2027,8 +6183,7 @@ What should be the value of BMI to be considered as “Lethal” in men?
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#14 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q118 — Which receptors are blocked in Myasthenia Gravis
+### Q338 — Which receptors are blocked in Myasthenia Gravis
 
 Which receptors are blocked in Myasthenia Gravis?
 
@@ -2046,8 +6201,7 @@ Which receptors are blocked in Myasthenia Gravis?
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#15 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q119 — Alpha waves are seen during
+### Q339 — Alpha waves are seen during
 
 Alpha waves are seen during?
 
@@ -2065,8 +6219,7 @@ Alpha waves are seen during?
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#19 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q120 — Components responsible for counter current mechani
+### Q340 — Components responsible for counter current mechani
 
 Components responsible for counter current mechanism in kidney are all except:
 
@@ -2084,8 +6237,7 @@ Components responsible for counter current mechanism in kidney are all except:
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#21 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q121 — Glucose is absorbed in intestine by
+### Q341 — Glucose is absorbed in intestine by
 
 Glucose is absorbed in intestine by?
 
@@ -2103,8 +6255,7 @@ Glucose is absorbed in intestine by?
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#22 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q122 — Insulin like growth factor is secreted by
+### Q342 — Insulin like growth factor is secreted by
 
 Insulin like growth factor is secreted by:
 
@@ -2122,8 +6273,7 @@ Insulin like growth factor is secreted by:
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#23 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q123 — Transport across nucleus is by all except
+### Q343 — Transport across nucleus is by all except
 
 Transport across nucleus is by all except?
 
@@ -2143,11 +6293,100 @@ Transport across nucleus is by all except?
 ---
 
 ---
+### Q344 — the characteristic pattern seen in Brown sequard
 
+What is the characteristic pattern seen in Brown sequard syndrome
+
+- A. C/L loss of joint sense and position
+- B. C/L loss of pain
+- C. I/L loss of complete sensory functions
+- D. C/L motor functions
+
+<details><summary>Answer</summary>
+
+**B. C/L loss of pain** — Contralateral loss of pain sensations
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#16 | OPTIONS_GENERATED: false -->
+
+---
+### Q345 — When Va / Q is infinity
+
+When Va / Q is infinity?
+
+- A. Partial pressure of O2 becomes zero
+- B. No exchange of O2 & CO2
+- C. Partial pressure of CO2 alone becomes zero
+- D. Partial pressure both CO2 and O2 remain normal
+
+<details><summary>Answer</summary>
+
+**B. No exchange of O2 & CO2** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#17 | OPTIONS_GENERATED: false -->
+
+---
+### Q346 — C wave is seen in
+
+C wave is seen in
+
+- A. Iso -volumetric contraction
+- B. Slow filling at end of diastole
+- C. End of systole
+- D. Start of diastole
+
+<details><summary>Answer</summary>
+
+**B. Slow filling at end of diastole** — Iso- volumetric contraction
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#18 | OPTIONS_GENERATED: false -->
+
+---
+### Q347 — In hypovolemic shock there is 
+
+In hypovolemic shock there is -
+
+- A. Afferent arteriolar constriction
+- B. Efferent arteriolar constriction
+- C. Increased blood flow to kidney
+- D. Normal cardiac output
+
+<details><summary>Answer</summary>
+
+**A. Afferent arteriolar constriction** — Afferent arteriole constriction
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#20 | OPTIONS_GENERATED: false -->
+
+---
+### Q348 — Iron from enterocytes through
+
+Iron from enterocytes through
+
+- A. Dmt1
+- B. Dmt2
+- C. Ferroprotein1
+- D. GLUT1
+
+<details><summary>Answer</summary>
+
+**A. Dmt1** — DMT1
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#26 | OPTIONS_GENERATED: false -->
+
+---
 
 ## Year 2018
 
-### Q124 — IGF-1 — predominant producing organ
+### Q349 — IGF-1 — predominant producing organ
 
 The predominant organ producing insulin-like growth factor I (IGF-1) is:
 
@@ -2165,8 +6404,7 @@ The predominant organ producing insulin-like growth factor I (IGF-1) is:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q125 — Prosopagnosia — definition
+### Q350 — Prosopagnosia — definition
 
 What is Prosopagnosia?
 
@@ -2184,8 +6422,7 @@ What is Prosopagnosia?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q126 — Countercurrent mechanism — NOT a component
+### Q351 — Countercurrent mechanism — NOT a component
 
 All are components of the countercurrent mechanism EXCEPT:
 
@@ -2203,8 +6440,7 @@ All are components of the countercurrent mechanism EXCEPT:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q127 — Intestinal glucose absorption — transport type
+### Q352 — Intestinal glucose absorption — transport type
 
 Glucose is absorbed in the intestine by:
 
@@ -2222,8 +6458,7 @@ Glucose is absorbed in the intestine by:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q128 — Oxygen therapy — NOT useful in
+### Q353 — Oxygen therapy — NOT useful in
 
 In which condition is oxygen therapy NOT useful?
 
@@ -2241,8 +6476,7 @@ In which condition is oxygen therapy NOT useful?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q129 — JVP 'c' wave — timing
+### Q354 — JVP 'c' wave — timing
 
 'c' wave in the JVP is seen during:
 
@@ -2260,8 +6494,7 @@ In which condition is oxygen therapy NOT useful?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q130 — Endothelin-1 — false statement
+### Q355 — Endothelin-1 — false statement
 
 All of the following are true regarding endothelin-1 EXCEPT:
 
@@ -2279,8 +6512,7 @@ All of the following are true regarding endothelin-1 EXCEPT:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q131 — Iron absorption — apical transporter
+### Q356 — Iron absorption — apical transporter
 
 Transport molecule for Fe²⁺ into enterocytes at the apical membrane is:
 
@@ -2298,8 +6530,7 @@ Transport molecule for Fe²⁺ into enterocytes at the apical membrane is:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q132 — Cuthbertson's trauma response — false statement
+### Q357 — Cuthbertson's trauma response — false statement
 
 Which statement is FALSE about Cuthbertson's metabolic ebb and flow responses to trauma?
 
@@ -2317,8 +6548,7 @@ Which statement is FALSE about Cuthbertson's metabolic ebb and flow responses to
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2018 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q133 — Nuclear signalling — NOT involved
+### Q358 — Nuclear signalling — NOT involved
 
 Nuclear signalling pathways include all EXCEPT:
 
@@ -2338,8 +6568,7 @@ Nuclear signalling pathways include all EXCEPT:
 ---
 
 ---
-
-### Q134 — Which of the following is endogenous *(2018)*
+### Q359 — Which of the following is endogenous *(2018)*
 
 Which of the following is endogenous pyrogen
 
@@ -2357,8 +6586,7 @@ Which of the following is endogenous pyrogen
 ---
 
 ---
-
-### Q135 — In Bartter syndrome defect is seen *(2018)*
+### Q360 — In Bartter syndrome defect is seen *(2018)*
 
 In Bartter syndrome defect is seen in
 
@@ -2376,8 +6604,7 @@ In Bartter syndrome defect is seen in
 ---
 
 ---
-
-### Q136 — Nitric oxide acts by increasing *(2018)*
+### Q361 — Nitric oxide acts by increasing *(2018)*
 
 Nitric oxide acts by increasing
 
@@ -2395,8 +6622,7 @@ Nitric oxide acts by increasing
 ---
 
 ---
-
-### Q137 — Cytotoxic and expired drug disposal is *(2018)*
+### Q362 — Cytotoxic and expired drug disposal is *(2018)*
 
 Cytotoxic and expired drug disposal is done by which method?
 
@@ -2414,46 +6640,7 @@ Cytotoxic and expired drug disposal is done by which method?
 ---
 
 ---
-
-### Q138 — Identify the type of muscle shown *(2018)*
-
-Identify the type of muscle shown in the image below.
-
-- A. Cruciate
-- B. Multipennate
-- C. Parallel
-- D. Unipennate
-
-<details><summary>Answer</summary>
-
-**B. Multipennate**
-
-</details>
-
----
-
----
-
-### Q139 — Function of the muscle shown in *(2018)*
-
-Function of the muscle shown in picture:
-
-- A. Flexion
-- B. Extension
-- C. Adduction
-- D. Abduction
-
-<details><summary>Answer</summary>
-
-**A. Flexion**
-
-</details>
-
----
-
----
-
-### Q140 — Following image is also known as *(2018)*
+### Q363 — Following image is also known as *(2018)*
 
 Following image is also known as?
 
@@ -2471,65 +6658,7 @@ Following image is also known as?
 ---
 
 ---
-
-### Q141 — Choose the best method of diagnosis *(2018)*
-
-Choose the best method of diagnosis for the clinical sign represented in the image.
-
-- A. Serum copper
-- B. Serum ceruloplasmin
-- C. Karyotyping
-- D. PCR
-
-<details><summary>Answer</summary>
-
-**B. Serum ceruloplasmin**
-
-</details>
-
----
-
----
-
-### Q142 — Identify the condition represented in the *(2018)*
-
-Identify the condition represented in the image.
-
-- A. Seminoma
-- B. Germ cell differentiate tumor
-- C. Non-seminoma
-- D. Teratoma
-
-<details><summary>Answer</summary>
-
-**A. Seminoma**
-
-</details>
-
----
-
----
-
-### Q143 — Identify the organism related to blood *(2018)*
-
-Identify the organism related to blood smear image -
-
-- A. P. falciparum
-- B. S. Typhi
-- C. Treponema pallidum
-- D. Toxoplasma gondii
-
-<details><summary>Answer</summary>
-
-**A. P. falciparum**
-
-</details>
-
----
-
----
-
-### Q144 — Which is thickened nerve shown here *(2018)*
+### Q364 — Which is thickened nerve shown here *(2018)*
 
 Which is thickened nerve shown here:
 
@@ -2547,27 +6676,7 @@ Which is thickened nerve shown here:
 ---
 
 ---
-
-### Q145 — Which type of retractor is shown *(2018)*
-
-Which type of retractor is shown in the image
-
-- A. Morris retractor
-- B. Czerny retractor
-- C. Richardson retractor
-- D. Lower lid retractor
-
-<details><summary>Answer</summary>
-
-**A. Morris retractor**
-
-</details>
-
----
-
----
-
-### Q146 — Identify the bone numbered in the *(2018)*
+### Q365 — Identify the bone numbered in the *(2018)*
 
 Identify the bone numbered in the X-ray below that most commonly fracture when a person falls on outstretched hands?
 
@@ -2586,67 +6695,9 @@ Identify the bone numbered in the X-ray below that most commonly fracture when a
 
 ---
 
-### Q147 — Identify the following lesion *(2018)*
-
-Identify the following lesion.
-
-- A. Becker nevus
-- B. Hypopigmented macule
-- C. Spitz nevus
-- D. Epidermal nevus
-
-<details><summary>Answer</summary>
-
-**A. Becker nevus**
-
-</details>
-
----
-
----
-
-### Q148 — Spot radiograph from a double contrast *(2018)*
-
-Spot radiograph from a double contrast esophagram. Image represents:
-
-- A. Esophageal atresia
-- B. Esophageal stenosis
-- C. Feline oesophagus
-- D. Tracheoesophageal fistula
-
-<details><summary>Answer</summary>
-
-**C. Feline oesophagus**
-
-</details>
-
----
-
----
-
-### Q149 — MRI of skull represents *(2018)*
-
-MRI of skull represents:
-
-- A. Vein of Galen
-- B. Dandy walker Syndrome
-- C. Pneumocephalus
-- D. Crouzon syndrome
-
-<details><summary>Answer</summary>
-
-**A. Vein of Galen**
-
-</details>
-
----
-
----
-
-
 ## Year 2019
 
-### Q150 — Myogenic autoregulation — mechanism
+### Q366 — Myogenic autoregulation — mechanism
 
 According to the myogenic hypothesis, afferent arterioles contract in response to stretch induced by:
 
@@ -2664,8 +6715,7 @@ According to the myogenic hypothesis, afferent arterioles contract in response t
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q151 — Decerebrate rigidity — exception
+### Q367 — Decerebrate rigidity — exception
 
 According to Herrington classification, decerebrate rigidity is characterized by all EXCEPT:
 
@@ -2683,8 +6733,7 @@ According to Herrington classification, decerebrate rigidity is characterized by
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q152 — Decorticate rigidity — true statement
+### Q368 — Decorticate rigidity — true statement
 
 Which is TRUE for decorticate rigidity?
 
@@ -2702,8 +6751,7 @@ Which is TRUE for decorticate rigidity?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q153 — Blood storage — ACD vs CPDA-1
+### Q369 — Blood storage — ACD vs CPDA-1
 
 ACD preserves RBCs for 21 days. Storage duration with phosphate alone vs. adenine + phosphate (CPDA-1):
 
@@ -2721,8 +6769,7 @@ ACD preserves RBCs for 21 days. Storage duration with phosphate alone vs. adenin
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q154 — FRC — definition
+### Q370 — FRC — definition
 
 Functional residual capacity is:
 
@@ -2740,8 +6787,7 @@ Functional residual capacity is:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q155 — Medial lemniscus lesion at pons — effect
+### Q371 — Medial lemniscus lesion at pons — effect
 
 Lesion in the medial lemniscus at the level of the pons causes:
 
@@ -2759,8 +6805,7 @@ Lesion in the medial lemniscus at the level of the pons causes:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q156 — Peristalsis — anterograde dilation neurotransmitter
+### Q372 — Peristalsis — anterograde dilation neurotransmitter
 
 Neurotransmitter responsible for anterograde dilation of the small intestine (ascending relaxation in peristaltic reflex)?
 
@@ -2778,8 +6823,7 @@ Neurotransmitter responsible for anterograde dilation of the small intestine (as
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q157 — Testosterone production — main source
+### Q373 — Testosterone production — main source
 
 Testosterone production is mainly contributed by:
 
@@ -2797,8 +6841,7 @@ Testosterone production is mainly contributed by:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q158 — Tubuloglomerular feedback — function
+### Q374 — Tubuloglomerular feedback — function
 
 Function of tubuloglomerular feedback (TGF)?
 
@@ -2816,8 +6859,7 @@ Function of tubuloglomerular feedback (TGF)?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q159 — Forced expiration — respiratory neurons
+### Q375 — Forced expiration — respiratory neurons
 
 Which neurons predominantly fire during forceful expiration?
 
@@ -2835,8 +6877,7 @@ Which neurons predominantly fire during forceful expiration?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q160 — Nerve fiber — slowest conduction velocity
+### Q376 — Nerve fiber — slowest conduction velocity
 
 Which has the LEAST (slowest) conduction velocity?
 
@@ -2854,8 +6895,7 @@ Which has the LEAST (slowest) conduction velocity?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q161 — Vitamin A storage — hepatic cell
+### Q377 — Vitamin A storage — hepatic cell
 
 Which liver cell stores vitamin A?
 
@@ -2873,8 +6913,7 @@ Which liver cell stores vitamin A?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q162 — Liver synthesis — NOT produced
+### Q378 — Liver synthesis — NOT produced
 
 Liver synthesizes all of the following EXCEPT:
 
@@ -2892,8 +6931,7 @@ Liver synthesizes all of the following EXCEPT:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q163 — Peripheral chemoreceptors — ion involved
+### Q379 — Peripheral chemoreceptors — ion involved
 
 Which ion is primarily involved in peripheral oxygen-sensing chemoreceptors?
 
@@ -2911,8 +6949,7 @@ Which ion is primarily involved in peripheral oxygen-sensing chemoreceptors?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q164 — Brown-Séquard syndrome — characteristic
+### Q380 — Brown-Séquard syndrome — characteristic
 
 Brown-Séquard syndrome (spinal cord hemisection) is characterized by:
 
@@ -2930,8 +6967,7 @@ Brown-Séquard syndrome (spinal cord hemisection) is characterized by:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q165 — Blood type — agglutination test
+### Q381 — Blood type — agglutination test
 
 Agglutination test: no reaction with anti-A or anti-B serum; positive with anti-D. Blood group?
 
@@ -2949,8 +6985,7 @@ Agglutination test: no reaction with anti-A or anti-B serum; positive with anti-
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2019 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q166 — Wernicke's hemianopic pupil — lesion site
+### Q382 — Wernicke's hemianopic pupil — lesion site
 
 Site of lesion in Wernicke's hemianopic pupil?
 
@@ -2970,8 +7005,7 @@ Site of lesion in Wernicke's hemianopic pupil?
 ---
 
 ---
-
-### Q167 — Bainbridge reflux causes *(2019)*
+### Q383 — Bainbridge reflux causes *(2019)*
 
 Bainbridge reflux causes?
 
@@ -2989,8 +7023,7 @@ Bainbridge reflux causes?
 ---
 
 ---
-
-### Q168 — Peripheral chemoreceptors respond to hypoxia using *(2019)*
+### Q384 — Peripheral chemoreceptors respond to hypoxia using *(2019)*
 
 Peripheral chemoreceptors respond to hypoxia using which channel?
 
@@ -3008,8 +7041,7 @@ Peripheral chemoreceptors respond to hypoxia using which channel?
 ---
 
 ---
-
-### Q169 — In forceful expiration, which of the *(2019)*
+### Q385 — In forceful expiration, which of the *(2019)*
 
 In forceful expiration, which of the following neurons gets fired?
 
@@ -3027,8 +7059,7 @@ In forceful expiration, which of the following neurons gets fired?
 ---
 
 ---
-
-### Q170 — Sexual perversions(Exhibitionism) is under section *(2019)*
+### Q386 — Sexual perversions(Exhibitionism) is under section *(2019)*
 
 Sexual perversions(Exhibitionism) is under section
 
@@ -3046,8 +7077,7 @@ Sexual perversions(Exhibitionism) is under section
 ---
 
 ---
-
-### Q171 — Gastric lavage is not contraindicated after *(2019)*
+### Q387 — Gastric lavage is not contraindicated after *(2019)*
 
 Gastric lavage is not contraindicated after ingestion of which acid.
 
@@ -3065,8 +7095,7 @@ Gastric lavage is not contraindicated after ingestion of which acid.
 ---
 
 ---
-
-### Q172 — Two identical twins will not have *(2019)*
+### Q388 — Two identical twins will not have *(2019)*
 
 Two identical twins will not have same
 
@@ -3084,8 +7113,7 @@ Two identical twins will not have same
 ---
 
 ---
-
-### Q173 — In Alleged history of gun shot *(2019)*
+### Q389 — In Alleged history of gun shot *(2019)*
 
 In Alleged history of gun shot injury.there is burning, blackening, tattooing around the wound Dirt collar, the injury is
 
@@ -3103,8 +7131,7 @@ In Alleged history of gun shot injury.there is burning, blackening, tattooing ar
 ---
 
 ---
-
-### Q174 — Contact isolation is done for *(2019)*
+### Q390 — Contact isolation is done for *(2019)*
 
 Contact isolation is done for
 
@@ -3122,8 +7149,7 @@ Contact isolation is done for
 ---
 
 ---
-
-### Q175 — DOC for isospora *(2019)*
+### Q391 — DOC for isospora *(2019)*
 
 D.O.C for isospora
 
@@ -3141,8 +7167,7 @@ D.O.C for isospora
 ---
 
 ---
-
-### Q176 — Pneumocystis jerovici is *(2019)*
+### Q392 — Pneumocystis jerovici is *(2019)*
 
 Pneumocystis jerovici is:
 
@@ -3160,8 +7185,7 @@ Pneumocystis jerovici is:
 ---
 
 ---
-
-### Q177 — Disc diffusion method is also known *(2019)*
+### Q393 — Disc diffusion method is also known *(2019)*
 
 Disc diffusion method is also known as
 
@@ -3179,8 +7203,7 @@ Disc diffusion method is also known as
 ---
 
 ---
-
-### Q178 — Diagnostic test for neurosyphilis *(2019)*
+### Q394 — Diagnostic test for neurosyphilis *(2019)*
 
 Diagnostic test for neurosyphilis
 
@@ -3198,8 +7221,7 @@ Diagnostic test for neurosyphilis
 ---
 
 ---
-
-### Q179 — Flask shaped ulcers in intestine caused *(2019)*
+### Q395 — Flask shaped ulcers in intestine caused *(2019)*
 
 Flask shaped ulcers in intestine caused by
 
@@ -3217,8 +7239,7 @@ Flask shaped ulcers in intestine caused by
 ---
 
 ---
-
-### Q180 — What type of culture media is *(2019)*
+### Q396 — What type of culture media is *(2019)*
 
 What type of culture media is used for Ligionella?
 
@@ -3236,8 +7257,7 @@ What type of culture media is used for Ligionella?
 ---
 
 ---
-
-### Q181 — Microbiological test for diagnosing leptospira inf *(2019)*
+### Q397 — Microbiological test for diagnosing leptospira inf *(2019)*
 
 Microbiological test for diagnosing leptospira infection?
 
@@ -3255,8 +7275,7 @@ Microbiological test for diagnosing leptospira infection?
 ---
 
 ---
-
-### Q182 — Last point where reproductive and child *(2019)*
+### Q398 — Last point where reproductive and child *(2019)*
 
 Last point where reproductive and child health programme are include :
 
@@ -3274,8 +7293,7 @@ Last point where reproductive and child health programme are include :
 ---
 
 ---
-
-### Q183 — According to IMNCI, a baby of *(2019)*
+### Q399 — According to IMNCI, a baby of *(2019)*
 
 According to IMNCI, a baby of 6 month age, criteria for fast breathing is more than _____/min
 
@@ -3293,8 +7311,7 @@ According to IMNCI, a baby of 6 month age, criteria for fast breathing is more t
 ---
 
 ---
-
-### Q184 — Cross product ratio is determined by *(2019)*
+### Q400 — Cross product ratio is determined by *(2019)*
 
 Cross product ratio is determined by which study ?
 
@@ -3312,8 +7329,7 @@ Cross product ratio is determined by which study ?
 ---
 
 ---
-
-### Q185 — 2 year old boy of weight *(2019)*
+### Q401 — 2 year old boy of weight *(2019)*
 
 2 year old boy of weight 12 kg with vitamin A deficiency what is oral dose of vitamin A
 
@@ -3331,8 +7347,7 @@ Cross product ratio is determined by which study ?
 ---
 
 ---
-
-### Q186 — Confounding factor is defined as *(2019)*
+### Q402 — Confounding factor is defined as *(2019)*
 
 Confounding factor is defined as
 
@@ -3350,8 +7365,7 @@ Confounding factor is defined as
 ---
 
 ---
-
-### Q187 — Risk of genetic diseases in consanguineous *(2019)*
+### Q403 — Risk of genetic diseases in consanguineous *(2019)*
 
 Risk of genetic diseases in consanguineous marriage between first cousins?
 
@@ -3369,8 +7383,7 @@ Risk of genetic diseases in consanguineous marriage between first cousins?
 ---
 
 ---
-
-### Q188 — The most common site of the *(2019)*
+### Q404 — The most common site of the *(2019)*
 
 The most common site of the branchial cyst is:
 
@@ -3388,8 +7401,7 @@ The most common site of the branchial cyst is:
 ---
 
 ---
-
-### Q189 — Inspiratory stridor is found in what *(2019)*
+### Q405 — Inspiratory stridor is found in what *(2019)*
 
 Inspiratory stridor is found in what kind of lesions:
 
@@ -3407,8 +7419,7 @@ Inspiratory stridor is found in what kind of lesions:
 ---
 
 ---
-
-### Q190 — In Retinitis pigmentosa decreased level of *(2019)*
+### Q406 — In Retinitis pigmentosa decreased level of *(2019)*
 
 In Retinitis pigmentosa decreased level of?
 
@@ -3426,8 +7437,7 @@ In Retinitis pigmentosa decreased level of?
 ---
 
 ---
-
-### Q191 — What is against the rule correction *(2019)*
+### Q407 — What is against the rule correction *(2019)*
 
 What is against the rule correction in astigmatism:
 
@@ -3445,8 +7455,7 @@ What is against the rule correction in astigmatism:
 ---
 
 ---
-
-### Q192 — A child has ptosis and poor *(2019)*
+### Q408 — A child has ptosis and poor *(2019)*
 
 A child has ptosis and poor levator function. What surgery will you do?
 
@@ -3464,8 +7473,7 @@ A child has ptosis and poor levator function. What surgery will you do?
 ---
 
 ---
-
-### Q193 — Which drug causes ocular hypotension with *(2019)*
+### Q409 — Which drug causes ocular hypotension with *(2019)*
 
 Which drug causes ocular hypotension with apnea in an infant?
 
@@ -3483,8 +7491,7 @@ Which drug causes ocular hypotension with apnea in an infant?
 ---
 
 ---
-
-### Q194 — Chemotherapy agents for retinoblastoma *(2019)*
+### Q410 — Chemotherapy agents for retinoblastoma *(2019)*
 
 Chemotherapy agents for retinoblastoma:
 
@@ -3502,8 +7509,7 @@ Chemotherapy agents for retinoblastoma:
 ---
 
 ---
-
-### Q195 — Which is the Most common ocular *(2019)*
+### Q411 — Which is the Most common ocular *(2019)*
 
 Which is the Most common ocular finding in myasthenia gravis?
 
@@ -3521,8 +7527,7 @@ Which is the Most common ocular finding in myasthenia gravis?
 ---
 
 ---
-
-### Q196 — Which of the following statements is *(2019)*
+### Q412 — Which of the following statements is *(2019)*
 
 Which of the following statements is true about the bundle of kent?
 
@@ -3540,8 +7545,7 @@ Which of the following statements is true about the bundle of kent?
 ---
 
 ---
-
-### Q197 — MELD score includes *(2019)*
+### Q413 — MELD score includes *(2019)*
 
 MELD score includes
 
@@ -3559,8 +7563,7 @@ MELD score includes
 ---
 
 ---
-
-### Q198 — Essential major blood culture criteria for *(2019)*
+### Q414 — Essential major blood culture criteria for *(2019)*
 
 Essential major blood culture criteria for infective endocarditis.
 
@@ -3578,8 +7581,7 @@ Essential major blood culture criteria for infective endocarditis.
 ---
 
 ---
-
-### Q199 — Respiratory centres are stimulated by *(2019)*
+### Q415 — Respiratory centres are stimulated by *(2019)*
 
 Respiratory centres are stimulated by
 
@@ -3597,8 +7599,7 @@ Respiratory centres are stimulated by
 ---
 
 ---
-
-### Q200 — Which murmur increases on standing *(2019)*
+### Q416 — Which murmur increases on standing *(2019)*
 
 Which murmur increases on standing?
 
@@ -3616,8 +7617,7 @@ Which murmur increases on standing?
 ---
 
 ---
-
-### Q201 — Omphalocele is caused by *(2019)*
+### Q417 — Omphalocele is caused by *(2019)*
 
 Omphalocele is caused by?
 
@@ -3635,8 +7635,7 @@ Omphalocele is caused by?
 ---
 
 ---
-
-### Q202 — Uvula vesicae is produced by which *(2019)*
+### Q418 — Uvula vesicae is produced by which *(2019)*
 
 Uvula vesicae is produced by which prostate lobe?
 
@@ -3654,8 +7653,7 @@ Uvula vesicae is produced by which prostate lobe?
 ---
 
 ---
-
-### Q203 — Parathyroid autoimplantation takes place in which *(2019)*
+### Q419 — Parathyroid autoimplantation takes place in which *(2019)*
 
 Parathyroid autoimplantation takes place in which of the muscle?
 
@@ -3673,8 +7671,7 @@ Parathyroid autoimplantation takes place in which of the muscle?
 ---
 
 ---
-
-### Q204 — Bidextrous grip is seen at what *(2019)*
+### Q420 — Bidextrous grip is seen at what *(2019)*
 
 Bidextrous grip is seen at what age?
 
@@ -3692,8 +7689,7 @@ Bidextrous grip is seen at what age?
 ---
 
 ---
-
-### Q205 — Which vaccine to be given every *(2019)*
+### Q421 — Which vaccine to be given every *(2019)*
 
 Which vaccine to be given every year ?
 
@@ -3711,8 +7707,7 @@ Which vaccine to be given every year ?
 ---
 
 ---
-
-### Q206 — Which part of scaphoid fracture is *(2019)*
+### Q422 — Which part of scaphoid fracture is *(2019)*
 
 Which part of scaphoid fracture is most susceptible to avascular necrosis?
 
@@ -3730,8 +7725,7 @@ Which part of scaphoid fracture is most susceptible to avascular necrosis?
 ---
 
 ---
-
-### Q207 — Potts puffy tumor *(2019)*
+### Q423 — Potts puffy tumor *(2019)*
 
 Pott’s puffy tumor:
 
@@ -3749,8 +7743,7 @@ Pott’s puffy tumor:
 ---
 
 ---
-
-### Q208 — Which dislocation of hip *(2019)*
+### Q424 — Which dislocation of hip *(2019)*
 
 Which dislocation of hip?
 
@@ -3768,8 +7761,7 @@ Which dislocation of hip?
 ---
 
 ---
-
-### Q209 — Most common joint involved in septic *(2019)*
+### Q425 — Most common joint involved in septic *(2019)*
 
 Most common joint involved in septic arthritis:
 
@@ -3787,8 +7779,7 @@ Most common joint involved in septic arthritis:
 ---
 
 ---
-
-### Q210 — Painful arc syndrome pain is felt *(2019)*
+### Q426 — Painful arc syndrome pain is felt *(2019)*
 
 Painful arc syndrome pain is felt during ?
 
@@ -3806,8 +7797,7 @@ Painful arc syndrome pain is felt during ?
 ---
 
 ---
-
-### Q211 — Nuchal translucency in USG can be *(2019)*
+### Q427 — Nuchal translucency in USG can be *(2019)*
 
 Nuchal translucency in USG can be detected at_____weeks of gestation.
 
@@ -3825,8 +7815,7 @@ Nuchal translucency in USG can be detected at_____weeks of gestation.
 ---
 
 ---
-
-### Q212 — Presenting diameter of full flexed head *(2019)*
+### Q428 — Presenting diameter of full flexed head *(2019)*
 
 Presenting diameter of full flexed head:
 
@@ -3844,8 +7833,7 @@ Presenting diameter of full flexed head:
 ---
 
 ---
-
-### Q213 — What is the dose of ulipristal *(2019)*
+### Q429 — What is the dose of ulipristal *(2019)*
 
 What is the dose of ulipristal acetate?
 
@@ -3863,8 +7851,7 @@ What is the dose of ulipristal acetate?
 ---
 
 ---
-
-### Q214 — All are true about skin except *(2019)*
+### Q430 — All are true about skin except *(2019)*
 
 All are true about skin except:
 
@@ -3882,8 +7869,7 @@ All are true about skin except:
 ---
 
 ---
-
-### Q215 — MRP 2 associated with which of *(2019)*
+### Q431 — MRP 2 associated with which of *(2019)*
 
 MRP 2 associated with which of the following?
 
@@ -3901,8 +7887,7 @@ MRP 2 associated with which of the following?
 ---
 
 ---
-
-### Q216 — Solitary lytic lesions seen in *(2019)*
+### Q432 — Solitary lytic lesions seen in *(2019)*
 
 Solitary lytic lesions seen in
 
@@ -3920,8 +7905,7 @@ Solitary lytic lesions seen in
 ---
 
 ---
-
-### Q217 — Which of the following is the *(2019)*
+### Q433 — Which of the following is the *(2019)*
 
 Which of the following is the poor prognostic factor for OCD?
 
@@ -3939,8 +7923,7 @@ Which of the following is the poor prognostic factor for OCD?
 ---
 
 ---
-
-### Q218 — Which of the following is not *(2019)*
+### Q434 — Which of the following is not *(2019)*
 
 Which of the following is not true regarding delusional disorder?
 
@@ -3958,46 +7941,7 @@ Which of the following is not true regarding delusional disorder?
 ---
 
 ---
-
-### Q219 — Identify the condition given in the *(2019)*
-
-Identify the condition given in the image?
-
-- A. Atrial fibrillar
-- B. Atrial flutter
-- C. Ventricular tachycardia
-- D. SVT
-
-<details><summary>Answer</summary>
-
-**C. Ventricular tachycardia**
-
-</details>
-
----
-
----
-
-### Q220 — Identify the condition in the below *(2019)*
-
-Identify the condition in the below image?
-
-- A. Lacunar infarct
-- B. Embolic infarct
-- C. Thrombotic infarct
-- D. Intracerebral hemorrhage
-
-<details><summary>Answer</summary>
-
-**A. Lacunar infarct**
-
-</details>
-
----
-
----
-
-### Q221 — Hormone predominately secreted after 14 day on *(2019)*
+### Q435 — Hormone predominately secreted after 14 day on *(2019)*
 
 Hormone predominately secreted after 14 day on endometrium is?
 
@@ -4015,8 +7959,7 @@ Hormone predominately secreted after 14 day on endometrium is?
 ---
 
 ---
-
-### Q222 — Polyuria is defined as urine output more *(2019)*
+### Q436 — Polyuria is defined as urine output more *(2019)*
 
 Polyuria is defined as urine output more than:
 
@@ -4034,8 +7977,7 @@ Polyuria is defined as urine output more than:
 ---
 
 ---
-
-### Q223 — Day 20 of menstrual cycle falls under *(2019)*
+### Q437 — Day 20 of menstrual cycle falls under *(2019)*
 
 Day 20 of menstrual cycle falls under which phase?
 
@@ -4054,10 +7996,9 @@ Day 20 of menstrual cycle falls under which phase?
 
 ---
 
-
 ## Year 2020
 
-### Q224 — High-altitude treatment NOT used
+### Q438 — High-altitude treatment NOT used
 
 Treatment **NOT used** for high-altitude headache/breathlessness?
 
@@ -4072,8 +8013,7 @@ Treatment **NOT used** for high-altitude headache/breathlessness?
 </details>
 
 ---
-
-### Q225 — Peak prolactin
+### Q439 — Peak prolactin
 
 Highest prolactin levels occur?
 
@@ -4090,8 +8030,7 @@ Highest prolactin levels occur?
 ---
 
 ---
-
-### Q226 — Acute mountain sickness — NOT used in treatment
+### Q440 — Acute mountain sickness — NOT used in treatment
 
 Headache and breathlessness on rapid ascent to >3000 m. Which is NOT used in treatment?
 
@@ -4109,8 +8048,7 @@ Headache and breathlessness on rapid ascent to >3000 m. Which is NOT used in tre
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q227 — V/Q infinity — equivalent condition
+### Q441 — V/Q infinity — equivalent condition
 
 V/Q = infinity holds true in which condition?
 
@@ -4128,8 +8066,7 @@ V/Q = infinity holds true in which condition?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q228 — JVP 'c' wave — represents
+### Q442 — JVP 'c' wave — represents
 
 'c' wave of JVP represents:
 
@@ -4147,8 +8084,7 @@ V/Q = infinity holds true in which condition?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q229 — GBM charge filtration — protein responsible
+### Q443 — GBM charge filtration — protein responsible
 
 Protein in glomerular basement membrane responsible for charge-dependent filtration:
 
@@ -4166,8 +8102,7 @@ Protein in glomerular basement membrane responsible for charge-dependent filtrat
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q230 — Warfarin — affected clotting factor
+### Q444 — Warfarin — affected clotting factor
 
 Which clotting factor has decreased γ-carboxyglutamate (Gla) residues on warfarin therapy?
 
@@ -4185,8 +8120,7 @@ Which clotting factor has decreased γ-carboxyglutamate (Gla) residues on warfar
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q231 — ACTH and cortisol — highest levels
+### Q445 — ACTH and cortisol — highest levels
 
 Which condition has the highest ACTH and cortisol levels?
 
@@ -4204,8 +8138,7 @@ Which condition has the highest ACTH and cortisol levels?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q232 — Ileal resection — deficiency
+### Q446 — Ileal resection — deficiency
 
 After complete ileal and partial jejunal resection, patient most likely has:
 
@@ -4223,8 +8156,7 @@ After complete ileal and partial jejunal resection, patient most likely has:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q233 — RDS — cell type deficient
+### Q447 — RDS — cell type deficient
 
 Respiratory distress syndrome is due to defective:
 
@@ -4242,8 +8174,7 @@ Respiratory distress syndrome is due to defective:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q234 — Receptor tyrosine kinase — hormone using
+### Q448 — Receptor tyrosine kinase — hormone using
 
 Which hormone uses receptor tyrosine kinase (RTK) signalling?
 
@@ -4261,8 +8192,7 @@ Which hormone uses receptor tyrosine kinase (RTK) signalling?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q235 — Enterogastric reflex — trigger
+### Q449 — Enterogastric reflex — trigger
 
 In which reflex is gastric emptying delayed when acidic content enters the duodenum?
 
@@ -4280,8 +8210,7 @@ In which reflex is gastric emptying delayed when acidic content enters the duode
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q236 — Inferior frontal gyrus vascular injury — function affected
+### Q450 — Inferior frontal gyrus vascular injury — function affected
 
 Vascular injury to the inferior frontal gyrus affects which functional area?
 
@@ -4299,8 +8228,7 @@ Vascular injury to the inferior frontal gyrus affects which functional area?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q237 — Pressure block of nerve — paresis without pain loss
+### Q451 — Pressure block of nerve — paresis without pain loss
 
 Sleeping with arm under head → cannot move arm on waking, but pain sensation intact. Why?
 
@@ -4318,8 +8246,7 @@ Sleeping with arm under head → cannot move arm on waking, but pain sensation i
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q238 — Fetal circulation — highest O₂ content
+### Q452 — Fetal circulation — highest O₂ content
 
 Which vessel has the highest oxygen concentration in fetal circulation?
 
@@ -4337,8 +8264,7 @@ Which vessel has the highest oxygen concentration in fetal circulation?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q239 — Surfactant composition — main component
+### Q453 — Surfactant composition — main component
 
 RDS is due to deficiency of:
 
@@ -4356,8 +8282,7 @@ RDS is due to deficiency of:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q240 — CPDA-1 superiority over ACD
+### Q454 — CPDA-1 superiority over ACD
 
 What makes CPDA-1 superior to ACD for blood storage?
 
@@ -4375,8 +8300,7 @@ What makes CPDA-1 superior to ACD for blood storage?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2020 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q241 — Hemiballismus — lesion site
+### Q455 — Hemiballismus — lesion site
 
 65-year-old man, 2 days after stroke, presents with violent flinging movements of limbs on one side. Site of lesion?
 
@@ -4396,8 +8320,7 @@ What makes CPDA-1 superior to ACD for blood storage?
 ---
 
 ---
-
-### Q242 — When the value of Vq is *(2020)*
+### Q456 — When the value of Vq is *(2020)*
 
 When the value of V/q is infinity, it means?
 
@@ -4415,8 +8338,7 @@ When the value of V/q is infinity, it means?
 ---
 
 ---
-
-### Q243 — A study had a normal distribution *(2020)*
+### Q457 — A study had a normal distribution *(2020)*
 
 A study had a normal distribution with the median value as 200 and standard deviation 20. 68 % will fall between
 
@@ -4434,8 +8356,7 @@ A study had a normal distribution with the median value as 200 and standard devi
 ---
 
 ---
-
-### Q244 — A study was done to assess *(2020)*
+### Q458 — A study was done to assess *(2020)*
 
 A study was done to assess malnutrition among young children. 100 children were selected each from rural and urban areas. Out of these, 30 among rural and
 
@@ -4453,8 +8374,7 @@ A study was done to assess malnutrition among young children. 100 children were 
 ---
 
 ---
-
-### Q245 — The active disinfectant property of bleaching *(2020)*
+### Q459 — The active disinfectant property of bleaching *(2020)*
 
 The active disinfectant property of bleaching powder is due to:
 
@@ -4472,8 +8392,7 @@ The active disinfectant property of bleaching powder is due to:
 ---
 
 ---
-
-### Q246 — Mother does not transmit what antibody *(2020)*
+### Q460 — Mother does not transmit what antibody *(2020)*
 
 Mother does not transmit what antibody to the baby –
 
@@ -4491,8 +8410,7 @@ Mother does not transmit what antibody to the baby –
 ---
 
 ---
-
-### Q247 — Voluntary admission can be done maximum *(2020)*
+### Q461 — Voluntary admission can be done maximum *(2020)*
 
 Voluntary admission can be done maximum up to how much time according to MHA 2017
 
@@ -4510,8 +8428,7 @@ Voluntary admission can be done maximum up to how much time according to MHA 201
 ---
 
 ---
-
-### Q248 — Blood bags are disposed of in *(2020)*
+### Q462 — Blood bags are disposed of in *(2020)*
 
 Blood bags are disposed of in
 
@@ -4529,8 +8446,7 @@ Blood bags are disposed of in
 ---
 
 ---
-
-### Q249 — In Vision 2020, the target for *(2020)*
+### Q463 — In Vision 2020, the target for *(2020)*
 
 In Vision 2020, the target for Secondary Sevice center is for how much population –
 
@@ -4548,8 +8464,7 @@ In Vision 2020, the target for Secondary Sevice center is for how much populatio
 ---
 
 ---
-
-### Q250 — Screening is not useful in which *(2020)*
+### Q464 — Screening is not useful in which *(2020)*
 
 Screening is not useful in which carcinoma
 
@@ -4567,8 +8482,7 @@ Screening is not useful in which carcinoma
 ---
 
 ---
-
-### Q251 — Admission rate bias is *(2020)*
+### Q465 — Admission rate bias is *(2020)*
 
 Admission rate bias is?
 
@@ -4586,8 +8500,7 @@ Admission rate bias is?
 ---
 
 ---
-
-### Q252 — Stimulation of the external auditory canal *(2020)*
+### Q466 — Stimulation of the external auditory canal *(2020)*
 
 Stimulation of the external auditory canal leads to cough due to which nerve
 
@@ -4605,8 +8518,7 @@ Stimulation of the external auditory canal leads to cough due to which nerve
 ---
 
 ---
-
-### Q253 — widening of the cartilaginous part of *(2020)*
+### Q467 — widening of the cartilaginous part of *(2020)*
 
 widening of the cartilaginous part of the extra auditory canal called.
 
@@ -4624,8 +8536,7 @@ widening of the cartilaginous part of the extra auditory canal called.
 ---
 
 ---
-
-### Q254 — Occipitomental view of PNS X-ray called *(2020)*
+### Q468 — Occipitomental view of PNS X-ray called *(2020)*
 
 Occipitomental view of PNS X-ray called as
 
@@ -4643,8 +8554,7 @@ Occipitomental view of PNS X-ray called as
 ---
 
 ---
-
-### Q255 — Conjunctival injection, pharyngeal injection, poly *(2020)*
+### Q469 — Conjunctival injection, pharyngeal injection, poly *(2020)*
 
 Conjunctival injection, pharyngeal injection, polymorphic rash, cervical lymphadenopathy can be seen in
 
@@ -4662,8 +8572,7 @@ Conjunctival injection, pharyngeal injection, polymorphic rash, cervical lymphad
 ---
 
 ---
-
-### Q256 — Incongruous Homonymous hemianopia with Wernickes h *(2020)*
+### Q470 — Incongruous Homonymous hemianopia with Wernickes h *(2020)*
 
 Incongruous Homonymous hemianopia with Wernicke's hemianopia pupil is seen with the lesion of
 
@@ -4681,8 +8590,7 @@ Incongruous Homonymous hemianopia with Wernicke's hemianopia pupil is seen with 
 ---
 
 ---
-
-### Q257 — Prerequisite for sympathetic ophthalmitis *(2020)*
+### Q471 — Prerequisite for sympathetic ophthalmitis *(2020)*
 
 Prerequisite for sympathetic ophthalmitis
 
@@ -4700,8 +8608,7 @@ Prerequisite for sympathetic ophthalmitis
 ---
 
 ---
-
-### Q258 — old male with a history of *(2020)*
+### Q472 — old male with a history of *(2020)*
 
 old male with a history of hypertension and diabetes, presents to the OPD with complaints of diplopia and squint. On examination, the secondary
 
@@ -4719,8 +8626,7 @@ old male with a history of hypertension and diabetes, presents to the OPD with c
 ---
 
 ---
-
-### Q259 — An extra row of cilia posterior *(2020)*
+### Q473 — An extra row of cilia posterior *(2020)*
 
 An extra row of cilia posterior to the grey line
 
@@ -4738,8 +8644,7 @@ An extra row of cilia posterior to the grey line
 ---
 
 ---
-
-### Q260 — The characteristic finding of fungal ulcers *(2020)*
+### Q474 — The characteristic finding of fungal ulcers *(2020)*
 
 The characteristic finding of fungal ulcers?
 
@@ -4757,8 +8662,7 @@ The characteristic finding of fungal ulcers?
 ---
 
 ---
-
-### Q261 — Which of the following criteria is *(2020)*
+### Q475 — Which of the following criteria is *(2020)*
 
 Which of the following criteria is used to assess the prognosis of the liver condition as represented in the picture below?
 
@@ -4776,8 +8680,7 @@ Which of the following criteria is used to assess the prognosis of the liver con
 ---
 
 ---
-
-### Q262 — Sudden onset headache with neck rigidity *(2020)*
+### Q476 — Sudden onset headache with neck rigidity *(2020)*
 
 Sudden onset headache with neck rigidity?
 
@@ -4795,8 +8698,7 @@ Sudden onset headache with neck rigidity?
 ---
 
 ---
-
-### Q263 — Vegetation in mitral valve seen in *(2020)*
+### Q477 — Vegetation in mitral valve seen in *(2020)*
 
 Vegetation in mitral valve seen in which condition
 
@@ -4814,8 +8716,7 @@ Vegetation in mitral valve seen in which condition
 ---
 
 ---
-
-### Q264 — Water hammer pulse is seen in *(2020)*
+### Q478 — Water hammer pulse is seen in *(2020)*
 
 Water hammer pulse is seen in
 
@@ -4833,8 +8734,7 @@ Water hammer pulse is seen in
 ---
 
 ---
-
-### Q265 — Ph72, HCO3 - (10 or 12), *(2020)*
+### Q479 — Ph72, HCO3 - (10 or 12), *(2020)*
 
 Ph7.2, HCO3 - (10 or 12), pco2-35 , metabolic acidosis due to
 
@@ -4852,8 +8752,7 @@ Ph7.2, HCO3 - (10 or 12), pco2-35 , metabolic acidosis due to
 ---
 
 ---
-
-### Q266 — The most common cause of death *(2020)*
+### Q480 — The most common cause of death *(2020)*
 
 The most common cause of death in SLE in children
 
@@ -4871,8 +8770,7 @@ The most common cause of death in SLE in children
 ---
 
 ---
-
-### Q267 — Pulmonary plethora is seen with all *(2020)*
+### Q481 — Pulmonary plethora is seen with all *(2020)*
 
 Pulmonary plethora is seen with all except:
 
@@ -4890,8 +8788,7 @@ Pulmonary plethora is seen with all except:
 ---
 
 ---
-
-### Q268 — 20 years old man presented with *(2020)*
+### Q482 — 20 years old man presented with *(2020)*
 
 20 years old man presented with the complaint of swelling of the wrist for the last two years. histopathological examination showed spindle-shaped
 
@@ -4909,8 +8806,7 @@ Pulmonary plethora is seen with all except:
 ---
 
 ---
-
-### Q269 — Lithium causes *(2020)*
+### Q483 — Lithium causes *(2020)*
 
 Lithium causes:
 
@@ -4928,8 +8824,7 @@ Lithium causes:
 ---
 
 ---
-
-### Q270 — Renal tubular acidosis with ABG value *(2020)*
+### Q484 — Renal tubular acidosis with ABG value *(2020)*
 
 Renal tubular acidosis with ABG value pH = 7.24 P02=80; PaCO2= 36 Na = 131; HCO3 = 14 Cl= 90; BE = -13 Glucose = 135 above ABG picture suggest –
 
@@ -4947,8 +8842,7 @@ Renal tubular acidosis with ABG value pH = 7.24 P02=80; PaCO2= 36 Na = 131; HCO3
 ---
 
 ---
-
-### Q271 — The differentiating feature between IBS and *(2020)*
+### Q485 — The differentiating feature between IBS and *(2020)*
 
 The differentiating feature between IBS and organic GI disease is:
 
@@ -4966,8 +8860,7 @@ The differentiating feature between IBS and organic GI disease is:
 ---
 
 ---
-
-### Q272 — Warming in Frost frostbite should be *(2020)*
+### Q486 — Warming in Frost frostbite should be *(2020)*
 
 Warming in Frost frostbite should be done at what temperature:
 
@@ -4985,8 +8878,7 @@ Warming in Frost frostbite should be done at what temperature:
 ---
 
 ---
-
-### Q273 — Which of the following is not *(2020)*
+### Q487 — Which of the following is not *(2020)*
 
 Which of the following is not seen in Pituitary apoplexy
 
@@ -5004,8 +8896,7 @@ Which of the following is not seen in Pituitary apoplexy
 ---
 
 ---
-
-### Q274 — Loss of paintemperature sensation on ipsilateral *(2020)*
+### Q488 — Loss of paintemperature sensation on ipsilateral *(2020)*
 
 Loss of pain/temperature sensation on ipsilateral face & C/L body due to thrombosis in
 
@@ -5023,8 +8914,7 @@ Loss of pain/temperature sensation on ipsilateral face & C/L body due to thrombo
 ---
 
 ---
-
-### Q275 — All found in LVF except *(2020)*
+### Q489 — All found in LVF except *(2020)*
 
 All found in LVF except
 
@@ -5042,8 +8932,7 @@ All found in LVF except
 ---
 
 ---
-
-### Q276 — Which of the following drug can *(2020)*
+### Q490 — Which of the following drug can *(2020)*
 
 Which of the following drug can be given in patients of primary pulmonary hypertension?
 
@@ -5061,8 +8950,7 @@ Which of the following drug can be given in patients of primary pulmonary hypert
 ---
 
 ---
-
-### Q277 — Esophageal manometry was performed it revealed *(2020)*
+### Q491 — Esophageal manometry was performed it revealed *(2020)*
 
 Esophageal manometry was performed it revealed panesophageal pressurization with distal contractile integrity as >450mm Hg pressure in the body. What will be the diagnosis?
 
@@ -5080,8 +8968,7 @@ Esophageal manometry was performed it revealed panesophageal pressurization with
 ---
 
 ---
-
-### Q278 — What is the T stage of *(2020)*
+### Q492 — What is the T stage of *(2020)*
 
 What is the T stage of a 2.5cm lung carcinoma, not involving the pleura?
 
@@ -5099,8 +8986,7 @@ What is the T stage of a 2.5cm lung carcinoma, not involving the pleura?
 ---
 
 ---
-
-### Q279 — MC location of gastrinoma in MEN-1 *(2020)*
+### Q493 — MC location of gastrinoma in MEN-1 *(2020)*
 
 MC location of gastrinoma in MEN-1 syndrome?
 
@@ -5118,8 +9004,7 @@ MC location of gastrinoma in MEN-1 syndrome?
 ---
 
 ---
-
-### Q280 — A man under alcohol intoxication had *(2020)*
+### Q494 — A man under alcohol intoxication had *(2020)*
 
 A man under alcohol intoxication had fallen into a manhole and had a perineal injury with swollen scrotum and upper thigh along with blood at meatus. The
 
@@ -5137,8 +9022,7 @@ A man under alcohol intoxication had fallen into a manhole and had a perineal in
 ---
 
 ---
-
-### Q281 — Retrosternal goiter which is true *(2020)*
+### Q495 — Retrosternal goiter which is true *(2020)*
 
 Retrosternal goiter which is true?
 
@@ -5156,8 +9040,7 @@ Retrosternal goiter which is true?
 ---
 
 ---
-
-### Q282 — Which parameter conclusively rules out malnutritio *(2020)*
+### Q496 — Which parameter conclusively rules out malnutritio *(2020)*
 
 Which parameter conclusively rules out malnutrition?
 
@@ -5175,8 +9058,7 @@ Which parameter conclusively rules out malnutrition?
 ---
 
 ---
-
-### Q283 — In RDS in a child, which *(2020)*
+### Q497 — In RDS in a child, which *(2020)*
 
 In RDS in a child, which cells are found defective?
 
@@ -5194,8 +9076,7 @@ In RDS in a child, which cells are found defective?
 ---
 
 ---
-
-### Q284 — True hermaphroditism karyotype *(2020)*
+### Q498 — True hermaphroditism karyotype *(2020)*
 
 True hermaphroditism karyotype:
 
@@ -5213,8 +9094,7 @@ True hermaphroditism karyotype:
 ---
 
 ---
-
-### Q285 — A Child is born, covered with *(2020)*
+### Q499 — A Child is born, covered with *(2020)*
 
 A Child is born, covered with a thick membranous coat, what could be the possible diagnosis?
 
@@ -5232,8 +9112,7 @@ A Child is born, covered with a thick membranous coat, what could be the possibl
 ---
 
 ---
-
-### Q286 — Mouth to mouth respiration provides what *(2020)*
+### Q500 — Mouth to mouth respiration provides what *(2020)*
 
 Mouth to mouth respiration provides what percentage of oxygen ?
 
@@ -5251,8 +9130,7 @@ Mouth to mouth respiration provides what percentage of oxygen ?
 ---
 
 ---
-
-### Q287 — Most common DRUG causing dependence *(2020)*
+### Q501 — Most common DRUG causing dependence *(2020)*
 
 Most common DRUG causing dependence?
 
@@ -5270,8 +9148,7 @@ Most common DRUG causing dependence?
 ---
 
 ---
-
-### Q288 — Identify the type of joint in *(2020)*
+### Q502 — Identify the type of joint in *(2020)*
 
 Identify the type of joint in the given picture
 
@@ -5289,8 +9166,7 @@ Identify the type of joint in the given picture
 ---
 
 ---
-
-### Q289 — Identify the cartilage *(2020)*
+### Q503 — Identify the cartilage *(2020)*
 
 Identify the cartilage
 
@@ -5308,27 +9184,7 @@ Identify the cartilage
 ---
 
 ---
-
-### Q290 — Identify the boundaries of the anatomical *(2020)*
-
-Identify the boundaries of the anatomical structure in the image
-
-- A. Extensor pollicis longus
-- B. Abductor pollicis longus
-- C. Styloid process of the radius
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above**
-
-</details>
-
----
-
----
-
-### Q291 — Identify the cell type marked in *(2020)*
+### Q504 — Identify the cell type marked in *(2020)*
 
 Identify the cell type marked in the cerebellum?
 
@@ -5346,8 +9202,7 @@ Identify the cell type marked in the cerebellum?
 ---
 
 ---
-
-### Q292 — Identify the sleep wave marked in *(2020)*
+### Q505 — Identify the sleep wave marked in *(2020)*
 
 Identify the sleep wave marked in the EEG during the sleep-wake cycle?
 
@@ -5365,8 +9220,7 @@ Identify the sleep wave marked in the EEG during the sleep-wake cycle?
 ---
 
 ---
-
-### Q293 — Casals necklace is seen in deficiency *(2020)*
+### Q506 — Casals necklace is seen in deficiency *(2020)*
 
 Casal's necklace is seen in deficiency of:
 
@@ -5385,10 +9239,9 @@ Casal's necklace is seen in deficiency of:
 
 ---
 
-
 ## Year 2021
 
-### Q294 — Sodium deficit calculation
+### Q507 — Sodium deficit calculation
 
 30-year-old, 70 kg, sodium 120 mEq/L. Calculate deficit (target 140).
 
@@ -5403,8 +9256,7 @@ Casal's necklace is seen in deficiency of:
 </details>
 
 ---
-
-### Q295 — Intracellular fluid composition
+### Q508 — Intracellular fluid composition
 
 Body fluid with Na 10, K 140, Cl 4 mEq/L. Compartment?
 
@@ -5421,8 +9273,7 @@ Body fluid with Na 10, K 140, Cl 4 mEq/L. Compartment?
 ---
 
 ---
-
-### Q296 — High altitude — cerebral edema mechanism
+### Q509 — High altitude — cerebral edema mechanism
 
 22-year-old at 3700 m, nausea, headache, confusion — mechanism of cerebral edema?
 
@@ -5438,8 +9289,7 @@ Body fluid with Na 10, K 140, Cl 4 mEq/L. Compartment?
 </details>
 
 ---
-
-### Q297 — Hyperprolactinemia — amenorrhea mechanism
+### Q510 — Hyperprolactinemia — amenorrhea mechanism
 
 Secondary amenorrhea, pituitary microadenoma, hyperprolactinemia — mechanism of amenorrhea?
 
@@ -5455,8 +9305,7 @@ Secondary amenorrhea, pituitary microadenoma, hyperprolactinemia — mechanism o
 </details>
 
 ---
-
-### Q298 — Starling forces — interstitial hydrostatic pressure
+### Q511 — Starling forces — interstitial hydrostatic pressure
 
 Capillary hydrostatic 18, oncotic 27, interstitial oncotic 7, no net transudation — interstitial hydrostatic pressure?
 
@@ -5474,8 +9323,7 @@ Capillary hydrostatic 18, oncotic 27, interstitial oncotic 7, no net transudatio
 ---
 
 ---
-
-### Q299 — Hyponatremia — sodium deficit calculation
+### Q512 — Hyponatremia — sodium deficit calculation
 
 30-year-old man, 70 kg, serum sodium 120 mEq/L. Sodium deficit?
 
@@ -5493,8 +9341,7 @@ Capillary hydrostatic 18, oncotic 27, interstitial oncotic 7, no net transudatio
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q300 — β2 receptor — enzyme mediating hyperglycemia
+### Q513 — β2 receptor — enzyme mediating hyperglycemia
 
 β2 receptor action leading to hyperglycemia is mediated by which enzyme?
 
@@ -5512,8 +9359,7 @@ Capillary hydrostatic 18, oncotic 27, interstitial oncotic 7, no net transudatio
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q301 — Body fluid compartment — identification
+### Q514 — Body fluid compartment — identification
 
 Body fluid sample: Na⁺ = 10 mEq/L, K⁺ = 140 mEq/L, Cl⁻ = 4 mEq/L. Identify compartment:
 
@@ -5531,8 +9377,7 @@ Body fluid sample: Na⁺ = 10 mEq/L, K⁺ = 140 mEq/L, Cl⁻ = 4 mEq/L. Identify
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q302 — Multiple sclerosis — cell type affected
+### Q515 — Multiple sclerosis — cell type affected
 
 Middle-aged female with progressive weakness, nuchal rigidity, dysphagia — MS suspected. Which cells are affected?
 
@@ -5550,8 +9395,7 @@ Middle-aged female with progressive weakness, nuchal rigidity, dysphagia — MS 
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2021 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q303 — ORS — glucose transporter
+### Q516 — ORS — glucose transporter
 
 ORS facilitates glucose absorption through which transporter?
 
@@ -5572,10 +9416,9 @@ ORS facilitates glucose absorption through which transporter?
 
 ---
 
-
 ## Year 2022
 
-### Q304 — Nerve fibre susceptibility to pressure
+### Q517 — Nerve fibre susceptibility to pressure
 
 Person develops paresis (no numbness) after sleeping with arm under head.
 
@@ -5590,8 +9433,7 @@ Person develops paresis (no numbness) after sleeping with arm under head.
 </details>
 
 ---
-
-### Q305 — Hemiballismus localisation
+### Q518 — Hemiballismus localisation
 
 A 65-year-old post-stroke with unilateral, violent, flinging limb movements.
 
@@ -5608,8 +9450,7 @@ A 65-year-old post-stroke with unilateral, violent, flinging limb movements.
 ---
 
 ---
-
-### Q306 — Pressure paresis — fiber susceptibility
+### Q519 — Pressure paresis — fiber susceptibility
 
 Sleeps with arm under head → wakes with paresis but no numbness. Best explanation?
 
@@ -5627,8 +9468,7 @@ Sleeps with arm under head → wakes with paresis but no numbness. Best explanat
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q307 — Baroreceptor reflex — feedback type
+### Q520 — Baroreceptor reflex — feedback type
 
 Mechanism seen in the baroreceptor reflex?
 
@@ -5646,8 +9486,7 @@ Mechanism seen in the baroreceptor reflex?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q308 — Cell signalling — paracrine
+### Q521 — Cell signalling — paracrine
 
 Image depicts signal released by one cell acting on nearby target cells via local diffusion. Type of signalling?
 
@@ -5665,8 +9504,7 @@ Image depicts signal released by one cell acting on nearby target cells via loca
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q309 — Cystometrogram — Segment Ib
+### Q522 — Cystometrogram — Segment Ib
 
 Which is true regarding the given cystometrogram?
 
@@ -5684,8 +9522,7 @@ Which is true regarding the given cystometrogram?
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q310 — Fever — thermostat reset
+### Q523 — Fever — thermostat reset
 
 Hypothalamic thermostat reset upward (A → C). What happens in the rising phase?
 
@@ -5703,8 +9540,7 @@ Hypothalamic thermostat reset upward (A → C). What happens in the rising phase
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2022 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q311 — Hemiballismus — lesion location
+### Q524 — Hemiballismus — lesion location
 
 65-year-old man, 2 days post-stroke, violent flinging movements of left limbs. Site of lesion?
 
@@ -5724,8 +9560,7 @@ Hypothalamic thermostat reset upward (A → C). What happens in the rising phase
 ---
 
 ---
-
-### Q312 — A person after sleeping overnight with *(2022)*
+### Q525 — A person after sleeping overnight with *(2022)*
 
 A person after sleeping overnight with the arm under his head now experiences paresis but no numbness in the morning. Which of the following is the best explanation for it?
 
@@ -5743,8 +9578,7 @@ A person after sleeping overnight with the arm under his head now experiences pa
 ---
 
 ---
-
-### Q313 — Which of the following mechanisms is *(2022)*
+### Q526 — Which of the following mechanisms is *(2022)*
 
 Which of the following mechanisms is seen in the baroreceptor reflex?
 
@@ -5762,8 +9596,7 @@ Which of the following mechanisms is seen in the baroreceptor reflex?
 ---
 
 ---
-
-### Q314 — Which of the following statements is *(2022)*
+### Q527 — Which of the following statements is *(2022)*
 
 Which of the following statements is true regarding the given cystometrogram?
 
@@ -5781,8 +9614,7 @@ Which of the following statements is true regarding the given cystometrogram?
 ---
 
 ---
-
-### Q315 — A 65-year-old suffered from a stroke *(2022)*
+### Q528 — A 65-year-old suffered from a stroke *(2022)*
 
 A 65-year-old suffered from a stroke 2 days ago. He now presents with involuntary, violent, and flinging movements of the limbs on one side. What is the likely site of lesion in this patient?
 
@@ -5801,10 +9633,9 @@ A 65-year-old suffered from a stroke 2 days ago. He now presents with involuntar
 
 ---
 
-
 ## Year 2023
 
-### Q316 — Heatstroke — feature NOT seen
+### Q529 — Heatstroke — feature NOT seen
 
 A man brought unconscious from a field; temperature 105 °F, decreased skin turgor. Which is **NOT** seen?
 
@@ -5819,8 +9650,7 @@ A man brought unconscious from a field; temperature 105 °F, decreased skin turg
 </details>
 
 ---
-
-### Q317 — Preterm RDS — surface tension & compliance
+### Q530 — Preterm RDS — surface tension & compliance
 
 A preterm baby at 28 weeks with respiratory distress syndrome. Status?
 
@@ -5837,8 +9667,7 @@ A preterm baby at 28 weeks with respiratory distress syndrome. Status?
 ---
 
 ---
-
-### Q318 — Spirometry — FRC identification *(image-based)*
+### Q531 — Spirometry — FRC identification *(image-based)*
 
 Identify the marked region in the spirometry trace (volume remaining after a normal expiration):
 
@@ -5856,8 +9685,7 @@ Identify the marked region in the spirometry trace (volume remaining after a nor
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q319 — Heatstroke — NOT present
+### Q532 — Heatstroke — NOT present
 
 Man collapsed in a field; temperature 105°F (40.6°C), decreased skin turgor. Which finding would NOT be seen?
 
@@ -5875,8 +9703,7 @@ Man collapsed in a field; temperature 105°F (40.6°C), decreased skin turgor. W
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q320 — Renal clearance — substance matching *(image-based)*
+### Q533 — Renal clearance — substance matching *(image-based)*
 
 Graph shows clearance ratios vs plasma concentration. Correctly matched substances with renal clearance?
 
@@ -5894,8 +9721,7 @@ Graph shows clearance ratios vs plasma concentration. Correctly matched substanc
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q321 — Action potential — refractory period
+### Q534 — Action potential — refractory period
 
 True statement about the nerve action potential curve:
 
@@ -5913,8 +9739,7 @@ True statement about the nerve action potential curve:
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q322 — Facilitated diffusion — identification
+### Q535 — Facilitated diffusion — identification
 
 Identify the type of transport (carrier protein, no energy requirement):
 
@@ -5932,8 +9757,7 @@ Identify the type of transport (carrier protein, no energy requirement):
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q323 — Preterm RDS — surface tension and compliance
+### Q536 — Preterm RDS — surface tension and compliance
 
 Preterm baby (28 weeks) develops RDS. What is true about surface tension and compliance?
 
@@ -5951,8 +9775,7 @@ Preterm baby (28 weeks) develops RDS. What is true about surface tension and com
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q324 — Hyperkalemia — resting membrane potential
+### Q537 — Hyperkalemia — resting membrane potential
 
 RTA with severe muscle injury, K⁺ = 5.5 mEq/L. What happens to resting membrane potential?
 
@@ -5970,8 +9793,7 @@ RTA with severe muscle injury, K⁺ = 5.5 mEq/L. What happens to resting membran
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q325 — Dorsal column injury — fasciculus cuneatus
+### Q538 — Dorsal column injury — fasciculus cuneatus
 
 Cervical spine injury; fragment pierced lateral aspect of dorsal column. Finding seen?
 
@@ -5989,8 +9811,7 @@ Cervical spine injury; fragment pierced lateral aspect of dorsal column. Finding
 <!-- SOURCE: Physiology_NEET_PG_PYT_2018_2023.md 2023 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q326 — Cardiac action potential — plateau phase
+### Q539 — Cardiac action potential — plateau phase
 
 True statement regarding the plateau (phase 2) on the myocardial action potential curve:
 
@@ -6010,8 +9831,7 @@ True statement regarding the plateau (phase 2) on the myocardial action potentia
 ---
 
 ---
-
-### Q327 — Identify the marked region in the *(2023)*
+### Q540 — Identify the marked region in the *(2023)*
 
 Identify the marked region in the given spirometry. La
 
@@ -6029,8 +9849,7 @@ Identify the marked region in the given spirometry. La
 ---
 
 ---
-
-### Q328 — A man was brought to the *(2023)*
+### Q541 — A man was brought to the *(2023)*
 
 A man was brought to the emergency after suddenly becoming unconscious while working in the field. On examination, his temperature was 105 degrees Fahrenheit, and his skin turgor was decreased. Which of the following would not be seen in the patient?
 
@@ -6048,8 +9867,7 @@ A man was brought to the emergency after suddenly becoming unconscious while wor
 ---
 
 ---
-
-### Q329 — Identify the correctly matched pair of *(2023)*
+### Q542 — Identify the correctly matched pair of *(2023)*
 
 Identify the correctly matched pair of substances with their renal clearance from the graph below. La
 
@@ -6067,8 +9885,7 @@ Identify the correctly matched pair of substances with their renal clearance fro
 ---
 
 ---
-
-### Q330 — Identify the true statement regarding the *(2023)*
+### Q543 — Identify the true statement regarding the *(2023)*
 
 Identify the true statement regarding the given nerve action potential curve? Pr
 
@@ -6086,8 +9903,7 @@ Identify the true statement regarding the given nerve action potential curve? Pr
 ---
 
 ---
-
-### Q331 — A preterm baby who was delivered *(2023)*
+### Q544 — A preterm baby who was delivered *(2023)*
 
 A preterm baby who was delivered at 28 weeks developed respiratory distress syndrome. Which of the following is true about surface tension and compliance in this baby?
 
@@ -6105,8 +9921,7 @@ A preterm baby who was delivered at 28 weeks developed respiratory distress synd
 ---
 
 ---
-
-### Q332 — A patient came to the hospital *(2023)*
+### Q545 — A patient came to the hospital *(2023)*
 
 A patient came to the hospital after a road traffic accident. He had severe muscle injury, and his serum K+ level was found to be 5.5 mEq/L. What will happen to the resting membrane potential in this patient?
 
@@ -6124,8 +9939,7 @@ A patient came to the hospital after a road traffic accident. He had severe musc
 ---
 
 ---
-
-### Q333 — Identify the true statement regarding the *(2023)*
+### Q546 — Identify the true statement regarding the *(2023)*
 
 Identify the true statement regarding the point marked(Red) on the myocardial action potential curve?
 
@@ -6144,10 +9958,9 @@ Identify the true statement regarding the point marked(Red) on the myocardial ac
 
 ---
 
-
 ## Year 2024
 
-### Q334 — Sour taste receptor
+### Q547 — Sour taste receptor
 
 Sour taste is perceived by which receptors?
 
@@ -6162,8 +9975,7 @@ Sour taste is perceived by which receptors?
 </details>
 
 ---
-
-### Q335 — Resting membrane potential ion
+### Q548 — Resting membrane potential ion
 
 The ion most responsible for the resting membrane potential?
 
@@ -6180,8 +9992,7 @@ The ion most responsible for the resting membrane potential?
 ---
 
 ---
-
-### Q336 — Which ion is the most responsible *(2024)*
+### Q549 — Which ion is the most responsible *(2024)*
 
 Which ion is the most responsible one for the resting membrane potential?
 
@@ -6199,8 +10010,7 @@ Which ion is the most responsible one for the resting membrane potential?
 ---
 
 ---
-
-### Q337 — Which type of papillae on the *(2024)*
+### Q550 — Which type of papillae on the *(2024)*
 
 Which type of papillae on the tongue do not contain taste buds?
 
@@ -6218,8 +10028,7 @@ Which type of papillae on the tongue do not contain taste buds?
 ---
 
 ---
-
-### Q338 — Clinical Question A 46-year-old man presents *(2024)*
+### Q551 — Clinical Question A 46-year-old man presents *(2024)*
 
 A 46-year-old man presents with an irregularly irregular pulse and dyspnoea. The expected finding in the jugular venous pressure (JVP) is
 
@@ -6237,8 +10046,7 @@ A 46-year-old man presents with an irregularly irregular pulse and dyspnoea. The
 ---
 
 ---
-
-### Q339 — Caffeine impairs sleep by which of *(2024)*
+### Q552 — Caffeine impairs sleep by which of *(2024)*
 
 Caffeine impairs sleep by which of the following:
 
@@ -6256,8 +10064,7 @@ Caffeine impairs sleep by which of the following:
 ---
 
 ---
-
-### Q340 — Clinical Question After a sunburn, a *(2024)*
+### Q553 — Clinical Question After a sunburn, a *(2024)*
 
 After a sunburn, a woman experiences pain when lukewarm (40°C) water touches her skin during a shower. Which receptors are activated, and what is the explanation for her pain?
 
@@ -6275,8 +10082,7 @@ After a sunburn, a woman experiences pain when lukewarm (40°C) water touches he
 ---
 
 ---
-
-### Q341 — Clinical question Which glucose transporter is *(2024)*
+### Q554 — Clinical question Which glucose transporter is *(2024)*
 
 Clinical question: Which glucose transporter is involved in enhancing insulin sensitivity in Type 2 Diabetes Mellitus through regular exercise?
 
@@ -6295,10 +10101,9 @@ Clinical question: Which glucose transporter is involved in enhancing insulin se
 
 ---
 
-
 ## Year 2025
 
-### Q342 — V/Q mismatch in pulmonary embolism (graph)
+### Q555 — V/Q mismatch in pulmonary embolism (graph)
 
 In pulmonary embolism with complete blood flow obstruction, the affected lung units move to which point on the V/Q graph?
 
@@ -6315,8 +10120,7 @@ In pulmonary embolism with complete blood flow obstruction, the affected lung un
 ---
 
 ---
-
-### Q343 — Starling forces calculation (interstitial hydrostatic pressure)
+### Q556 — Starling forces calculation (interstitial hydrostatic pressure)
 
 Capillary: Pc = 18 mmHg, πc = 27 mmHg, πi = 7 mmHg. No net fluid movement. Interstitial hydrostatic pressure (Pi)?
 
@@ -6333,8 +10137,7 @@ Capillary: Pc = 18 mmHg, πc = 27 mmHg, πi = 7 mmHg. No net fluid movement. Int
 ---
 
 ---
-
-### Q344 — High altitude: mechanism of symptoms
+### Q557 — High altitude: mechanism of symptoms
 
 Patient at 3700 m with headache, nausea, dyspnea. Explanation?
 
@@ -6351,8 +10154,7 @@ Patient at 3700 m with headache, nausea, dyspnea. Explanation?
 ---
 
 ---
-
-### Q345 — Insulin secretion pattern with sustained hyperglycemia
+### Q558 — Insulin secretion pattern with sustained hyperglycemia
 
 Blood glucose maintained at 2–3× normal. Insulin secretion pattern?
 
@@ -6369,8 +10171,7 @@ Blood glucose maintained at 2–3× normal. Insulin secretion pattern?
 ---
 
 ---
-
-### Q346 — Sarcomere length-tension relationship: maximum tension point
+### Q559 — Sarcomere length-tension relationship: maximum tension point
 
 At which point on the sarcomere length–tension curve is maximum active tension generated?
 
@@ -6387,8 +10188,7 @@ At which point on the sarcomere length–tension curve is maximum active tension
 ---
 
 ---
-
-### Q347 — Fatigue, muscle cramps, salt cravings
+### Q560 — Fatigue, muscle cramps, salt cravings
 
 Patient with fatigue, muscle cramps, and strong salt cravings. Diagnosis?
 
@@ -6405,8 +10205,7 @@ Patient with fatigue, muscle cramps, and strong salt cravings. Diagnosis?
 ---
 
 ---
-
-### Q348 — Acid-base at high altitude
+### Q561 — Acid-base at high altitude
 
 What acid-base disturbance occurs at high altitude due to hyperventilation?
 
@@ -6423,8 +10222,7 @@ What acid-base disturbance occurs at high altitude due to hyperventilation?
 ---
 
 ---
-
-### Q349 — Pituitary adenoma, elevated prolactin, amenorrhea mechanism
+### Q562 — Pituitary adenoma, elevated prolactin, amenorrhea mechanism
 
 Woman with amenorrhea and galactorrhea; pituitary adenoma, elevated prolactin. Cause of amenorrhea?
 
@@ -6441,4606 +10239,3 @@ Woman with amenorrhea and galactorrhea; pituitary adenoma, elevated prolactin. C
 ---
 
 ---
-
-## Year 2015
-
-### Q350 — Major central nucleus of sympathetic system
-
-Major central nucleus of sympathetic system is
-
-- A. Nucleus ambiguus
-- B. Nucleus tractus solitarius
-- C. Edinger-Westphal nucleus
-- D. Hypothalamus
-
-<details><summary>Answer</summary>
-
-**D. Hypothalamus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q351 — What is attached to the superior
-
-What is attached to the superior nuchal line?
-
-- A. Trapezius
-- B. Scalenus anticus
-- C. Coracobrachialis
-- D. Biceps Brachii
-
-<details><summary>Answer</summary>
-
-**A. Trapezius** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q352 — Dangerous area of scalp is -
-
-Dangerous area of scalp is -
-
-- A. Superficial facia
-- B. Aponeurosis
-- C. Subaponeurotic tissue
-- D. Pericranium
-
-<details><summary>Answer</summary>
-
-**C. Subaponeurotic tissue** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q353 — Which nerve is preserved in dissecting
-
-Which nerve is preserved in dissecting the superficial and deep lobes of parotid gland -
-
-- A. Glossopharyngeal
-- B. Hypoglossal
-- C. Lingual
-- D. Facial
-
-<details><summary>Answer</summary>
-
-**D. Facial** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q354 — Which intrinsic ocular muscle is supplied
-
-Which intrinsic ocular muscle is supplied by parasympathetic innervation -
-
-- A. Superior rectus
-- B. Superior oblique
-- C. Constrictor pupillae
-- D. Dilator pupillae
-
-<details><summary>Answer</summary>
-
-**C. Constrictor pupillae** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q355 — Lips does not drain into which
-
-Lips does not drain into which group of lymph nodes?
-
-- A. Submandibular nodes
-- B. Sublingual nodes
-- C. Preauricular parotid
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. Preauricular parotid** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q356 — Postganglionic fibres to parotid gland is
-
-Postganglionic fibres to parotid gland is supplied by?
-
-- A. Glossopharyngeal nerve
-- B. Auriculotemporal nerve
-- C. Both of the above
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Auriculotemporal nerve** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q357 — Features of facial nerve palsy are
-
-Features of facial nerve palsy are all except -
-
-- A. Loss of salivation
-- B. Loss of lacrimation
-- C. Facial muscle paralysis
-- D. Loss of taste sensation from posterior tongue
-
-<details><summary>Answer</summary>
-
-**D. Loss of taste sensation from posterior tongue** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q358 — Nasopharynx is lined by which epithelium
-
-Nasopharynx is lined by which epithelium ?
-
-- A. Stratified squamous nonkerationized
-- B. Stratified squamous keratinized
-- C. Ciliated columnar
-- D. Cuboidal
-
-<details><summary>Answer</summary>
-
-**C. Ciliated columnar** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q359 — Greater petrosal nerve is formed from
-
-Greater petrosal nerve is formed from ?
-
-- A. Geniculate ganglion
-- B. Plexus around ICA
-- C. Plexus around middle meningeal artery
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**A. Geniculate ganglion** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q360 — Nerve 3td ventricle is the cavity
-
-Nerve 3td ventricle is the cavity of -
-
-- A. Mesencephalon
-- B. Rhombencephalon
-- C. Diencephalon
-- D. Telencephalon
-
-<details><summary>Answer</summary>
-
-**C. Diencephalon** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q361 — Occulomotor nucleus is located in -
-
-Occulomotor nucleus is located in -
-
-- A. Forebrain
-- B. Midbrain
-- C. Pons
-- D. Medulla
-
-<details><summary>Answer</summary>
-
-**B. Midbrain** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q362 — Major supply of medial surface of
-
-Major supply of medial surface of cerebral hemisphere
-
-- A. Anterior cerebral artery
-- B. Posterior cerebral artery
-- C. Middle cerebral artery
-- D. Posterior inferior cerebellar artery
-
-<details><summary>Answer</summary>
-
-**A. Anterior cerebral artery** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q363 — Ventral tegmental decussation in cerebral peduncle
-
-Ventral tegmental decussation in cerebral peduncle is due to -
-
-- A. Tectospinal tract
-- B. Tectobulbar tract
-- C. Vestibulospinal tract
-- D. Rubrospinal tract
-
-<details><summary>Answer</summary>
-
-**D. Rubrospinal tract** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q364 — Incudomalleolar joint is a
-
-Incudomalleolar joint is a ?
-
-- A. Ellipsoid joint
-- B. Pivot joint
-- C. Hinge joint
-- D. Saddle joint
-
-<details><summary>Answer</summary>
-
-**D. Saddle joint** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q365 — Hiltons law is related to -
-
-Hilton's law is related to -
-
-- A. Venous drainage
-- B. Blood supply
-- C. Nerve innervation
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**C. Nerve innervation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q366 — Spermatogenesis begins at -
-
-Spermatogenesis begins at -
-
-- A. Birth
-- B. 5 years
-- C. Puberty
-- D. 18 years
-
-<details><summary>Answer</summary>
-
-**C. Puberty** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q367 — Which is not a stage of
-
-Which is not a stage of prophase -
-
-- A. Diakinesis
-- B. Leptotene
-- C. Zygotene
-- D. Arachytene
-
-<details><summary>Answer</summary>
-
-**D. Arachytene** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q368 — Fossa ovalis is a remnant of
-
-Fossa ovalis is a remnant of -
-
-- A. Septum primum
-- B. Septum secundum
-- C. Septum spurium
-- D. AV cushion
-
-<details><summary>Answer</summary>
-
-**A. Septum primum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q369 — Nephron is derived from
-
-Nephron is derived from ?
-
-- A. Ureteric bud
-- B. Mesonephric duct
-- C. Metanephros
-- D. Mesonephros
-
-<details><summary>Answer</summary>
-
-**C. Metanephros** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q370 — Fibrous stroma of liver is derived
-
-Fibrous stroma of liver is derived from -
-
-- A. Foregut endoderm
-- B. Midgut endoderm
-- C. Hindgut endoderm
-- D. Septum transversum
-
-<details><summary>Answer</summary>
-
-**D. Septum transversum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q371 — True about Branchial cyst is
-
-True about Branchial cyst is:
-
-- A. Cysts are more common than sinuses
-- B. Mostly arises from 2nd branchial system
-- C. Causes dysphagia and hoarseness
-- D. Sinus should always be operated
-
-<details><summary>Answer</summary>
-
-**B. Mostly arises from 2nd branchial system** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q372 — True about notochord are all except
-
-True about notochord are all except?
-
-- A. Defines axis of embryo
-- B. Serves as primary inductor
-- C. Derived from hypoblast
-- D. Remains as nucleus pulposus
-
-<details><summary>Answer</summary>
-
-**C. Derived from hypoblast** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q373 — Structures derived from the neural crest
-
-Structures derived from the neural crest are?
-
-- A. Pia
-- B. Dental papillae
-- C. Adrenal medulla
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q374 — Heart tube is formed at -
-
-Heart tube is formed at -
-
-- A. 3 weeks
-- B. 6 weeks
-- C. 10 weeks
-- D. 12 weeks
-
-<details><summary>Answer</summary>
-
-**A. 3 weeks** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q375 — Heart tube is formed in
-
-Heart tube is formed in
-
-- A. Hyaluronic acid secreted by endocardium
-- B. Chondroitin sulfate secreted by endocardium
-- C. Hyaluronic acid secreted by myocardium
-- D. Chondroitin sulfate secreted by myocardium
-
-<details><summary>Answer</summary>
-
-**C. Hyaluronic acid secreted by myocardium** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q376 — Which of the following is a
-
-Which of the following is a derivative of paramesonephric duct in males ?
-
-- A. Trigone of bladder
-- B. Paraphoron
-- C. Prostatic utricle
-- D. Gartner's duct
-
-<details><summary>Answer</summary>
-
-**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q377 — Myelination in peripheral nervous system is
-
-Myelination in peripheral nervous system is done by
-
-- A. Astrocytes
-- B. Oligodendrocytes
-- C. Ependymal cells
-- D. Schwann cells
-
-<details><summary>Answer</summary>
-
-**D. Schwann cells** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q378 — False about limbus fossa ovalis -
-
-False about limbus fossa ovalis -
-
-- A. Situated above fossa ovalis
-- B. In right atrium
-- C. Derived from septum primum
-- D. Also called Annulus ovalis
-
-<details><summary>Answer</summary>
-
-**C. Derived from septum primum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q379 — Sertoli cells are derived from -
-
-Sertoli cells are derived from -
-
-- A. Genital tubercle
-- B. Genital swelling
-- C. Primordial germ cells
-- D. Germinal epithelium
-
-<details><summary>Answer</summary>
-
-**D. Germinal epithelium** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q380 — Prolactin secreting gland develops from -
-
-Prolactin secreting gland develops from -
-
-- A. Infundibulum
-- B. Rathke's pouch
-- C. Tuber cinereum
-- D. 3rd ventricle
-
-<details><summary>Answer</summary>
-
-**B. Rathke's pouch** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q381 — Posterior cardinal vein develops into -
-
-Posterior cardinal vein develops into -
-
-- A. Common iliac vein
-- B. Superior vena cava
-- C. Internal jugular vein
-- D. External jugular vein
-
-<details><summary>Answer</summary>
-
-**A. Common iliac vein** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q382 — Superior vena cava develops from -
-
-Superior vena cava develops from -
-
-- A. Right anterior cardinal vein
-- B. Left anterior cardinal vein
-- C. Left common cardinal vein
-- D. Right subcardinal vein
-
-<details><summary>Answer</summary>
-
-**A. Right anterior cardinal vein** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q383 — Structure developing from Mullerian duct in
-
-Structure developing from Mullerian duct in males?
-
-- A. Seminal vesicle
-- B. Epididymis
-- C. Prostatic utricle
-- D. Ureter
-
-<details><summary>Answer</summary>
-
-**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q384 — Optic cup is derived from
-
-Optic cup is derived from ?
-
-- A. Neural ectoderm
-- B. Surface ectoderm
-- C. Mesoderm
-- D. Neural crest
-
-<details><summary>Answer</summary>
-
-**A. Neural ectoderm** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q385 — Which of the following is a
-
-Which of the following is a derivative of Rathke's pouch -
-
-- A. Pars tuberalis
-- B. Neurohypophysis
-- C. Posterior pituitary
-- D. Pineal gland
-
-<details><summary>Answer</summary>
-
-**A. Pars tuberalis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q386 — Which of glial cell is mesodermal
-
-Which of glial cell is mesodermal in origin -
-
-- A. Macroglial cells
-- B. Microglial cells
-- C. Oligodendrocytes
-- D. Ependymal cells
-
-<details><summary>Answer</summary>
-
-**B. Microglial cells** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q387 — Trigone of bladder is derived from
-
-Trigone of bladder is derived from ?
-
-- A. Mesonephric duct
-- B. Paramesonephric duct
-- C. Absorbed anal membrane
-- D. Mullerian duct
-
-<details><summary>Answer</summary>
-
-**A. Mesonephric duct** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q388 — Pisiform articulates with -
-
-Pisiform articulates with -
-
-- A. Scaphoid
-- B. Trapezium
-- C. Triquetral
-- D. Lunate
-
-<details><summary>Answer</summary>
-
-**C. Triquetral** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q389 — Spleniculi are seen most commonly in
-
-Spleniculi are seen most commonly in:
-
-- A. Colon
-- B. Hilum
-- C. Liver
-- D. Lungs
-
-<details><summary>Answer</summary>
-
-**B. Hilum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q390 — Which of the following is not
-
-Which of the following is not a derivative of foregut?
-
-- A. Cecum
-- B. duodenum
-- C. Liver
-- D. Pancreas
-
-<details><summary>Answer</summary>
-
-**A. Cecum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q391 — Most important factor in transport across
-
-Most important factor in transport across
-
-- A. Charge of particle
-- B. Membrane thickness
-- C. Size of particle
-- D. Concentration gradient
-
-<details><summary>Answer</summary>
-
-**D. Concentration gradient** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q392 — Percentage of total body water to
-
-Percentage of total body water to body weight at birth?
-
-- A. 90%
-- B. 80%
-- C. 60%
-- D. 50%
-
-<details><summary>Answer</summary>
-
-**B. 80%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q393 — Epithelial sodium channels has
-
-Epithelial sodium channels has ?
-
-- A. 2a, 213
-- B. la, i(3
-- C. 2a, 213, 2y
-- D. 2a, 113, 2y
-
-<details><summary>Answer</summary>
-
-**D. 2a, 113, 2y** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q394 — pH of intracellular fluid is
-
-pH of intracellular fluid is ?
-
-- A. Slightly less than ECF
-- B. Slightly more than ECF
-- C. Same as ECF
-- D. Highly alkaline
-
-<details><summary>Answer</summary>
-
-**A. Slightly less than ECF** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q395 — Increased in plasma viscosity is maximally
-
-Increased in plasma viscosity is maximally caused by which plasma protein?
-
-- A. Fibrinogen
-- B. Albumin
-- C. Globulin
-- D. All have equal effect
-
-<details><summary>Answer</summary>
-
-**C. Globulin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q396 — Oncotic pressure is contributed by
-
-Oncotic pressure is contributed by?
-
-- A. Sodium
-- B. Chloride
-- C. Chloride
-- D. Albumin
-
-<details><summary>Answer</summary>
-
-**D. Albumin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q397 — Motor evoked potential assess
-
-Motor evoked potential assess ?
-
-- A. Peripheral motor pathways
-- B. Central motor pathways
-- C. Both of the above
-- D. Regeneration in muscles
-
-<details><summary>Answer</summary>
-
-**B. Central motor pathways** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q398 — True about visual cycle cascade
-
-True about visual cycle cascade ?
-
-- A. Associated with conformational change in opsin
-- B. Light causes isomerization of all-trans-retinol to 11 Cis-retinol
-- C. Retinol [alcohol] is involved
-- D. All are true
-
-<details><summary>Answer</summary>
-
-**A. Associated with conformational change in opsin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q399 — True about smooth muscle contraction
-
-True about smooth muscle contraction ?
-
-- A. Troponin plays an important role
-- B. Calmodulin has no role
-- C. Phosphorylation of myosin
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**C. Phosphorylation of myosin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q400 — Increase in Duration of expiration is
-
-Increase in Duration of expiration is due to?
-
-- A. J-reflex
-- B. Head's paradoxical reflex
-- C. Hering-Breure reflex
-- D. Proprioceptors
-
-<details><summary>Answer</summary>
-
-**C. Hering-Breure reflex** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q401 — Wallerian degeneration is for
-
-Wallerian degeneration is for ?
-
-- A. Nerve degeneration
-- B. Muscle degeneration
-- C. Nerve regeneration
-- D. Muscle regeneration
-
-<details><summary>Answer</summary>
-
-**A. Nerve degeneration** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q402 — Withdrawal reflex is also known as
-
-Withdrawal reflex is also known as ?
-
-- A. Extension reflex
-- B. Stretch reflex
-- C. Golgitendon reflex
-- D. Flexor reflex
-
-<details><summary>Answer</summary>
-
-**D. Flexor reflex** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q403 — Tetany in muscle occurs inspite of
-
-Tetany in muscle occurs inspite of normal serum Ca" level. Which ion is responsible ?
-
-- A. Mg2+
-- B. Ca2+
-- C. K+
-- D. Na+
-
-<details><summary>Answer</summary>
-
-**B. Ca2+** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q404 — Unspecified pain pathway is for
-
-Unspecified pain pathway is for?
-
-- A. Neuropathic pain
-- B. Trauma
-- C. Visceral pain
-- D. Psychogenic pain
-
-<details><summary>Answer</summary>
-
-**D. Psychogenic pain** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q405 — Pain is carried by which nerve
-
-Pain is carried by which nerve fibers?
-
-- A. Act, A13
-- B. Act, Ay
-- C. AS, C
-- D. Ay, C
-
-<details><summary>Answer</summary>
-
-**A. Act, A13** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q406 — Vibration sense is detected by which
-
-Vibration sense is detected by which type of receptor?
-
-- A. Merkel's disc
-- B. Ruffini's end organ
-- C. Paccinian corpuscle
-- D. Meissner's corpuscle
-
-<details><summary>Answer</summary>
-
-**C. Paccinian corpuscle** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q407 — Vibrations are detected by which types
-
-Vibrations are detected by which types of receptors?
-
-- A. Slowly adapting
-- B. Rapidly adapting
-- C. Non-adapting
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Rapidly adapting** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q408 — Which of the following receptor is
-
-Which of the following receptor is stimulated by sustained pressure?
-
-- A. Ruffini's end organ
-- B. Merkel's disc
-- C. Hair cells
-- D. Meissner Corpuscles
-
-<details><summary>Answer</summary>
-
-**A. Ruffini's end organ** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q409 — Prosopagnosia is characterized by
-
-"Prosopagnosia" is characterized by :
-
-- A. Inability to read
-- B. Inability to identify faces
-- C. Inability to write
-- D. Inability to speak
-
-<details><summary>Answer</summary>
-
-**B. Inability to identify faces** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q410 — Brocas area is concerned with
-
-Broca's area is concerned with:
-
-- A. Word formation
-- B. Comprehension
-- C. Repetition
-- D. Reading
-
-<details><summary>Answer</summary>
-
-**A. Word formation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q411 — Broadmans area for motor speech
-
-Broadman's area for motor speech?
-
-- A. Area 1,2,3
-- B. Area 4,6
-- C. Area 28,29
-- D. Area 44
-
-<details><summary>Answer</summary>
-
-**D. Area 44** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q412 — Maximum density of muscle spindle is
-
-Maximum density of muscle spindle is found in ?
-
-- A. Calf muscle
-- B. Lumbricals
-- C. Quadrieps muscle
-- D. Triceps
-
-<details><summary>Answer</summary>
-
-**B. Lumbricals** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q413 — Function of epinephirine and norepinephine in
-
-Function of epinephirine and norepinephine in Fight​or-Flight response is ?
-
-- A. Increased blood flow to skin
-- B. Increased blood flow to muscles
-- C. Bronchoconstriction
-- D. Bradycardia
-
-<details><summary>Answer</summary>
-
-**B. Increased blood flow to muscles** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q414 — EPSP is due to
-
-EPSP is due to ?
-
-- A. K' influx
-- B. Na* efflux
-- C. Na* influx
-- D. Ca** influx
-
-<details><summary>Answer</summary>
-
-**C. Na* influx** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q415 — The only excitatory neurons in cerebellar
-
-The only excitatory neurons in cerebellar cortex are?
-
-- A. Purkinje
-- B. Basket
-- C. Golgi
-- D. Granule cells
-
-<details><summary>Answer</summary>
-
-**D. Granule cells** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q416 — Sleep walking is seen in which
-
-Sleep walking is seen in which stage of sleep ?
-
-- A. REM
-- B. Stage 1-2 NREM
-- C. Stage 2-3 NREM
-- D. Stage 3-4 NREM
-
-<details><summary>Answer</summary>
-
-**D. Stage 3-4 NREM** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q417 — Calcium absorption is hampered by
-
-Calcium absorption is hampered by
-
-- A. Protein
-- B. Lactose
-- C. Acid
-- D. Phytates
-
-<details><summary>Answer</summary>
-
-**D. Phytates** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q418 — Suppressor Strip on anterior edge of
-
-Suppressor Strip on anterior edge of pre- central gyrus has following function ?
-
-- A. Increase extensor tone
-- B. Pain perception
-- C. Inhibition of stretch reflex
-- D. Voluntary movement
-
-<details><summary>Answer</summary>
-
-**C. Inhibition of stretch reflex** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q419 — Part of sympathetic system which secrete
-
-Part of sympathetic system which secrete chemical transmitter?
-
-- A. Cardiac ganglion
-- B. Cervical sympathetic chain
-- C. Adrenal medulla
-- D. Thoracic sympathetic chain
-
-<details><summary>Answer</summary>
-
-**C. Adrenal medulla** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q420 — Which of the following has direct
-
-Which of the following has direct innervation from sympathetic system but no parasymputhetic supply?
-
-- A. Heart
-- B. Intestine
-- C. Skin
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Skin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q421 — RMP in smooth muscles
-
-RMP in smooth muscles?
-
-- A. -90 mV
-- B. -70 mV
-- C. -150 mV
-- D. - 40 mV
-
-<details><summary>Answer</summary>
-
-**D. - 40 mV** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q422 — Halden Effect is
-
-Halden Effect is ?
-
-- A. CO2 delivery by increased 02
-- B. 02 delivery by increased CO2
-- C. CO2 delivery by increased CO2
-- D. 0, delivery by increased CO
-
-<details><summary>Answer</summary>
-
-**A. CO2 delivery by increased 02** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q423 — Total surface area of respiratory membrane
-
-Total surface area of respiratory membrane ?
-
-- A. 25 cm'
-- B. 50 cm'
-- C. 25 m2
-- D. 100 m2
-
-<details><summary>Answer</summary>
-
-**D. 100 m2** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q424 — Damage to pnemotaxic center along with
-
-Damage to pnemotaxic center along with vagus nerve causes which type of respiration?
-
-- A. Chyne stoke breathing
-- B. Deep and slow
-- C. Shallow and rapid
-- D. Inspiratory Spasm
-
-<details><summary>Answer</summary>
-
-**D. Inspiratory Spasm** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q425 — Transpulmonary pressure is the difference between
-
-Transpulmonary pressure is the difference between:
-
-- A. The bronchus and atmospheric pressure
-- B. Pressure in alveoli and intrapleural pressure
-- C. Atmosphere and intrapleural pressure
-- D. Atmosphere and intraalveolar pressure
-
-<details><summary>Answer</summary>
-
-**B. Pressure in alveoli and intrapleural pressure** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q426 — Normal transpulmonary pressure during quiet breath
-
-Normal transpulmonary pressure during quiet breathing?
-
-- A. + 8 to +5 cm H20
-- B. - 8 to - 5 cm H20
-- C. 0 to + 1 cm H20
-- D. 0 to -1 cm H20
-
-<details><summary>Answer</summary>
-
-**A. + 8 to +5 cm H20** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q427 — What is the partial pressure of
-
-What is the partial pressure of oxygen at 760mmHg atmospheric pressure?
-
-- A. 76
-- B. 160
-- C. 120
-- D. 130
-
-<details><summary>Answer</summary>
-
-**B. 160** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q428 — What is the partial pressure for
-
-What is the partial pressure for oxygen in the inspired air?
-
-- A. 116 mm Hg
-- B. 158 mm Hg
-- C. 100 mm Hg
-- D. 0.3 mm Hg
-
-<details><summary>Answer</summary>
-
-**B. 158 mm Hg** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q429 — Isocapenic buffering is
-
-Isocapenic buffering is ?
-
-- A. Increcased pCO2 with increased CO2
-- B. Increcased pCO2 with decreased CO,
-- C. Normal pCO, with increased CO2
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. Normal pCO, with increased CO2** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q430 — Vital capacity is measured by
-
-Vital capacity is measured by ?
-
-- A. Plethysmography
-- B. Gas-dilution methed
-- C. Nitrogen washout technique
-- D. Spirometer
-
-<details><summary>Answer</summary>
-
-**D. Spirometer** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q431 — In patients with emphysematous bullae, total
-
-In patients with emphysematous bullae, total lung volume is best determined by?
-
-- A. Spirometry
-- B. Helium dilution method
-- C. Plathysmography
-- D. Any of the above
-
-<details><summary>Answer</summary>
-
-**B. Helium dilution method** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q432 — All are true about compliance of
-
-All are true about compliance of lung except ?
-
-- A. Change in Volume per unit change in pressure
-- B. Total Compliance is 0.2 L/cm
-- C. A measure of distensibility
-- D. Decreased in emphysema
-
-<details><summary>Answer</summary>
-
-**D. Decreased in emphysema** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q433 — Normal respiratory compliance is
-
-Normal respiratory compliance is ?
-
-- A. 200 ml/cm water
-- B. 50 ml/cm water
-- C. 100 ml/cm water
-- D. 150 ml/cm water
-
-<details><summary>Answer</summary>
-
-**A. 200 ml/cm water** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q434 — In relaxation pressure curve, in chronic
-
-In relaxation pressure curve, in chronic smokers at Zero relaxation pressure ?
-
-- A. Lung volume increases
-- B. Lung volume decreases
-- C. No change in lung volume
-- D. Any of the above
-
-<details><summary>Answer</summary>
-
-**A. Lung volume increases** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q435 — Which of the following parameter Indicates
-
-Which of the following parameter Indicates elimination of CO2 from lung ?
-
-- A. Pa02
-- B. pH
-- C. PaCO2
-- D. HCO, level
-
-<details><summary>Answer</summary>
-
-**C. PaCO2** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q436 — Normal02 extraction ratio of tissues
-
-Normal02 extraction ratio of tissues ?
-
-- A. 5%
-- B. 15%
-- C. 25%
-- D. 40%
-
-<details><summary>Answer</summary>
-
-**C. 25%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q437 — Poiseuilles equation states that
-
-Poiseuille's equation states that?
-
-- A. Blood flow is directly proportion to 2nd power of radius
-- B. Blood flow is directly proportiom to 4th power of radius
-- C. Blood flow is inversely proportion to 2nd power of radius
-- D. Blood flow is inversely proportion to 4th power of radius
-
-<details><summary>Answer</summary>
-
-**D. Blood flow is inversely proportion to 4th power of radius** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q438 — Aortic valve closure occurs in which
-
-Aortic valve closure occurs in which part of cardiac cycle?
-
-- A. Beginning of isovolumetric contraction
-- B. Beginning of ventricular ejection
-- C. Beginning of isovolumetric relaxation
-- D. During rapid ventricular filling
-
-<details><summary>Answer</summary>
-
-**B. Beginning of ventricular ejection** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q439 — Role of ion channels on vascular
-
-Role of ion channels on vascular endothelium is ?
-
-- A. Ca+ influx
-- B. K+ efflux
-- C. Na+ influx
-- D. Cl- effux
-
-<details><summary>Answer</summary>
-
-**D. Cl- effux** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q440 — Action Potential in cardiac muscles has
-
-Action Potential in cardiac muscles has how many phases?
-
-- A. 2
-- B. 3
-- C. 4
-- D. 5
-
-<details><summary>Answer</summary>
-
-**D. 5** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q441 — Aortic valve closure corresponds to the
-
-Aortic valve closure corresponds to the beginning of:
-
-- A. Systole
-- B. Parasystole
-- C. Isovolumetric relaxation
-- D. Isovolumetric contraction
-
-<details><summary>Answer</summary>
-
-**C. Isovolumetric relaxation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q442 — Cerebral blood flow is increased by
-
-Cerebral blood flow is increased by ?
-
-- A. Increase in P02
-- B. Increase in PCO2
-- C. Decrease metabolic rate
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**A. Increase in P02** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q443 — ST Segment of ECG corresponds to
-
-ST Segment of ECG corresponds to which phase of action potential ?
-
-- A. Phase 0
-- B. Phase I
-- C. Phase II
-- D. Phase III
-
-<details><summary>Answer</summary>
-
-**C. Phase II** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q444 — ST Segment of ECG Correspords to
-
-ST Segment of ECG Correspords to which phase of action potential ?
-
-- A. Rapid depolarixation
-- B. Rapid repolarizedtion
-- C. Find repolarizetion
-- D. Plateu Phase
-
-<details><summary>Answer</summary>
-
-**D. Plateu Phase** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q445 — Baroreeaptors are located in
-
-Baroreeaptors are located in ?
-
-- A. Tunica media
-- B. Tunica intima
-- C. Tunica adventitia
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Tunica adventitia** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q446 — Baroreceptor are
-
-Baroreceptor are ?
-
-- A. Carotid body
-- B. Carotid sinus
-- C. Aortic body
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. Carotid sinus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q447 — After load is decreased by
-
-After load is decreased by ?
-
-- A. Exercise
-- B. Anemia
-- C. Thyrotoxicosis
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q448 — Oxygen saturation of venous blood is
-
-Oxygen saturation of venous blood is ?
-
-- A. 30%
-- B. 50%
-- C. 70%
-- D. 90%
-
-<details><summary>Answer</summary>
-
-**C. 70%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q449 — Organ with dual blood supply
-
-Organ with dual blood supply?
-
-- A. Heart
-- B. Liver
-- C. Kidney
-- D. Lung
-
-<details><summary>Answer</summary>
-
-**C. Kidney** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q450 — True about Bezold-Jarish reflex
-
-True about Bezold-Jarish reflex?
-
-- A. Hypertension
-- B. Tachycardia
-- C. Hyperpnea
-- D. Hypotension
-
-<details><summary>Answer</summary>
-
-**D. Hypotension** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q451 — True about Coronary circulation
-
-True about Coronary circulation ?
-
-- A. 250 ml/min
-- B. Major flow during systole
-- C. Unifrom flow during full cardiac cycle
-- D. All of the about
-
-<details><summary>Answer</summary>
-
-**A. 250 ml/min** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q452 — Glomerular filteration of a substance depends
-
-Glomerular filteration of a substance depends upon?
-
-- A. Lipid solubility of substance
-- B. Binding capacity to albumin
-- C. Both of the above
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Binding capacity to albumin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q453 — Tubuloglomerular feedback is for regulation of
-
-Tubuloglomerular feedback is for regulation of?
-
-- A. BP
-- B. Blood volume
-- C. Na+ reabsorption
-- D. GFR
-
-<details><summary>Answer</summary>
-
-**D. GFR** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q454 — Glomerulotubular feedback is for regulation of
-
-Glomerulotubular feedback is for regulation of?
-
-- A. BP
-- B. Blood volume
-- C. Na+ reabsorption
-- D. Renal blood flow
-
-<details><summary>Answer</summary>
-
-**C. Na+ reabsorption** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q455 — Mesangial cell contraction is done by
-
-Mesangial cell contraction is done by?
-
-- A. cAMP
-- B. Dopamine
-- C. PAF
-- D. ANP
-
-<details><summary>Answer</summary>
-
-**C. PAF** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q456 — Mechamism of secretion of ammonia in
-
-Mechamism of secretion of ammonia in distal tubule is?
-
-- A. Primary active transport
-- B. Symport
-- C. Antiport
-- D. Passive diffusion
-
-<details><summary>Answer</summary>
-
-**D. Passive diffusion** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q457 — A Substance has clearance same as
-
-A Substance has clearance same as inulin clearance, the Substarce is mainly excreted in urine by ?
-
-- A. Tubular Secretion
-- B. Glomerular filtration
-- C. Both a & b
-- D. Vascular leakage
-
-<details><summary>Answer</summary>
-
-**B. Glomerular filtration** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q458 — Normal Uninary pH is
-
-Normal Uninary pH is ?
-
-- A. 5.0 - 6.0
-- B. 6.5 - 7.0
-- C. 8.5 - 9.0
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. 6.5 - 7.0** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q459 — Increased aldosterone and ADH secretiom following
-
-Increased aldosterone and ADH secretiom following major trauma results in all the following except ?
-
-- A. Decreased Na+ excretion is urine
-- B. Increased K' excretion in urine
-- C. Increased osmolarity of urine
-- D. Increased water excretion
-
-<details><summary>Answer</summary>
-
-**D. Increased water excretion** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q460 — Which carrier pump is transporting solutes
-
-Which carrier pump is transporting solutes in thick ascending limb of Henle loop?
-
-- A. Carrier pump Na-K-2Cl transporter.
-- B. NaCl- cotransporter
-- C. Na2+-H+ exchanger
-- D. Na2+-K+ exchanger
-
-<details><summary>Answer</summary>
-
-**A. Carrier pump Na-K-2Cl transporter.** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q461 — Receptive area of stomach
-
-Receptive area of stomach?
-
-- A. Antrum
-- B. Pylorus
-- C. Body
-- D. Fundus
-
-<details><summary>Answer</summary>
-
-**D. Fundus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q462 — All are seen in emphysema except
-
-All are seen in emphysema except
-
-- A. Decreased vital capacity
-- B. Hyperinflation
-- C. Rhonchi
-- D. Reduced Dlco
-
-<details><summary>Answer</summary>
-
-**C. Rhonchi** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q463 — Which of the following agents is
-
-Which of the following agents is used to measure Glomerular Filtration Rate (GFR)?
-
-- A. Iodohippurate
-- B. Tc99m-DTPA
-- C. Tc99m-MAG3
-- D. Tc99m-DMSA
-
-<details><summary>Answer</summary>
-
-**B. Tc99m-DTPA** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-
-## Year 2016
-
-### Q464 — muscle is attached to the disc *(2016)*
-
-Which muscle is attached to the disc of the temporomandibular joint?
-
-- A. Buccinator
-- B. Lateral pterygoid
-- C. Masseter
-- D. Temporalis
-
-<details><summary>Answer</summary>
-
-**B. Lateral pterygoid** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q465 — Vidian nerve is also known as *(2016)*
-
-Vidian nerve is also known as?
-
-- A. Nerve of Pterygoid canal
-- B. Greater Petrosal nerve
-- C. Lesser Petrosal nerve
-- D. Greater Auricular nerve
-
-<details><summary>Answer</summary>
-
-**A. Nerve of Pterygoid canal** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q466 — Structures pierced by the parotid duct *(2016)*
-
-Structures pierced by the parotid duct are all except?
-
-- A. Buccopharyngeal fascia
-- B. Buccinator muscle
-- C. Buccal fat pad
-- D. Investing layer of deep cervical fascia
-
-<details><summary>Answer</summary>
-
-**D. Investing layer of deep cervical fascia** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q467 — layer of the scalp is vascular *(2016)*
-
-Which layer of the scalp is vascular?
-
-- A. Pericranium
-- B. Superficial fascia
-- C. Skin
-- D. Aponeurosis
-
-<details><summary>Answer</summary>
-
-**B. Superficial fascia** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q468 — of the following pass through the *(2016)*
-
-All of the following pass through the Sinus of morgagni except -
-
-- A. Auditory tube
-- B. Levator veli palatini
-- C. Ascending palatine artery
-- D. Stylopharyngeus
-
-<details><summary>Answer</summary>
-
-**D. Stylopharyngeus** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q469 — Chorda-tympani does not carry which fibers *(2016)*
-
-Chorda-tympani does not carry which fibers?
-
-- A. Preganglionic parasympathetic fibers for sublingual glands
-- B. Preganglionic parasympathetic fibers for submandibular gland
-- C. Preganglionic parasympathetic fibers for parotid gland
-- D. Taste fibers from anterior two third of tongue
-
-<details><summary>Answer</summary>
-
-**C. Preganglionic parasympathetic fibers for parotid gland** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q470 — of the following pass through the *(2016)*
-
-Which of the following pass through the Hypoglossal canal?
-
-- A. Hypoglossal nerve
-- B. External jugular vein
-- C. Facial nerve
-- D. Mandibular nerve
-
-<details><summary>Answer</summary>
-
-**A. Hypoglossal nerve** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q471 — Extension of the retropharyngeal space is *(2016)*
-
-Extension of the retropharyngeal space is between ?
-
-- A. Alar fascia and buccopharyngeal fascia
-- B. buccopharyngeal fascia and prevertebral fascia
-- C. Alar fascia and Prevertebral fascia
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Alar fascia and buccopharyngeal fascia** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q472 — Straight sinus is formed by *(2016)*
-
-Straight sinus is formed by?
-
-- A. Inferior Sagittal Sinus
-- B. Internal Jugular veins
-- C. Superior Sagittal Sinus
-- D. Tranverse sinus
-
-<details><summary>Answer</summary>
-
-**A. Inferior Sagittal Sinus** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q473 — artery supplies the paracentral lobule *(2016)*
-
-Which artery supplies the paracentral lobule?
-
-- A. Medial Striate artery
-- B. Calloso Marginal artery
-- C. Pericallosal artery
-- D. Frontopolar artery
-
-<details><summary>Answer</summary>
-
-**B. Calloso Marginal artery** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q474 — Nucleus of basal ganglia *(2016)*
-
-Nucleus of basal ganglia
-
-- A. Dentate
-- B. Thalamus
-- C. Caudate
-- D. Red nucleus
-
-<details><summary>Answer</summary>
-
-**C. Caudate** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q475 — lateral nucleus of cerebellum is *(2016)*
-
-Most lateral nucleus of cerebellum is ?
-
-- A. Dentate
-- B. Globose
-- C. Fastigial
-- D. Emboliform
-
-<details><summary>Answer</summary>
-
-**A. Dentate** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q476 — Superior marginal gyrus is a part *(2016)*
-
-Superior marginal gyrus is a part of?
-
-- A. Parietal lobe
-- B. Frontal lobe
-- C. Temporal lobe
-- D. Occipital lobe
-
-<details><summary>Answer</summary>
-
-**A. Parietal lobe** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q477 — Arbor vitae are seen in *(2016)*
-
-Arbor vitae are seen in ?
-
-- A. Cerebrum
-- B. Cerebellum
-- C. Pons
-- D. Thalamus
-
-<details><summary>Answer</summary>
-
-**B. Cerebellum** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q478 — Total volume of CSF is *(2016)*
-
-Total volume of CSF is?
-
-- A. 150 ml
-- B. 500 ml
-- C. 50 ml
-- D. 800 ml
-
-<details><summary>Answer</summary>
-
-**A. 150 ml** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q479 — Lateral lemniscus terminates into *(2016)*
-
-Lateral lemniscus terminates into ?
-
-- A. Lateral geniculate body
-- B. Superior colliculus
-- C. Inferior colliculus
-- D. Inferior olivary complex
-
-<details><summary>Answer</summary>
-
-**C. Inferior colliculus** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q480 — Internal capsule- All of the following *(2016)*
-
-Internal capsule- All of the following are parts except ?
-
-- A. Anterior limb
-- B. Sublentiform part
-- C. Retrolentiform
-- D. Prelentiform
-
-<details><summary>Answer</summary>
-
-**D. Prelentiform** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q481 — Substantia ferruginea is found in - *(2016)*
-
-Substantia ferruginea is found in -
-
-- A. Fourth ventricle
-- B. Thalamus
-- C. Midbrain
-- D. Third ventricle
-
-<details><summary>Answer</summary>
-
-**A. Fourth ventricle** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q482 — Infundibular diverticulum is an extention of *(2016)*
-
-Infundibular diverticulum is an extention of ?
-
-- A. 1st and 2th ventricles
-- B. 3rd ventricle
-- C. 4th ventricle
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. 3rd ventricle** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q483 — of the following is a complete *(2016)*
-
-Which of the following is a complete sulcus in the brain?
-
-- A. Calcarine sulcus
-- B. Paracentral sulcus
-- C. Both
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Calcarine sulcus** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q484 — Cerebellovestibular fibres pass through *(2016)*
-
-Cerebellovestibular fibres pass through ?
-
-- A. Superior cerebellar peduncle
-- B. Middle cerebellar peduncle
-- C. Inferior cerebellar peduncle
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Inferior cerebellar peduncle** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q485 — Long spinous process is seen in *(2016)*
-
-Long spinous process is seen in ?
-
-- A. Cervical vertebrae
-- B. Thoracic Vertebrae
-- C. Lumbar Vertebrae
-- D. Sacrum
-
-<details><summary>Answer</summary>
-
-**B. Thoracic Vertebrae** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q486 — Spinal segmental artery is a branch *(2016)*
-
-Spinal segmental artery is a branch of ?
-
-- A. Ascending spinal artery
-- B. Basilar artery
-- C. Posterior spinal artery
-- D. Anterior spinal artery
-
-<details><summary>Answer</summary>
-
-**A. Ascending spinal artery** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q487 — Lipid rafts are seen in *(2016)*
-
-Lipid rafts are seen in?
-
-- A. Ribosomes
-- B. Mitochondria
-- C. Plasma membrane
-- D. ER
-
-<details><summary>Answer</summary>
-
-**C. Plasma membrane** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q488 — Marker of endoplasmic reticulum *(2016)*
-
-Marker of endoplasmic reticulum?
-
-- A. Acid phosphatase
-- B. Glucose-6-phosphatase
-- C. Catalase
-- D. LDH
-
-<details><summary>Answer</summary>
-
-**B. Glucose-6-phosphatase** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q489 — Following is a feature of simple *(2016)*
-
-Following is a feature of simple diffusion?
-
-- A. Against a concentration gradient
-- B. Easy for non-polar substance
-- C. More in thick membrane
-- D. Requires carrier protein
-
-<details><summary>Answer</summary>
-
-**B. Easy for non-polar substance** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q490 — True about Nernst equation *(2016)*
-
-True about Nernst equation?
-
-- A. Used to calculate equilibrium potential
-- B. Calculated for non-ionic solution
-- C. Nernst potential for Cl is -90 my
-- D. All are correct
-
-<details><summary>Answer</summary>
-
-**A. Used to calculate equilibrium potential** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q491 — ECF concentration of 1C is 150 *(2016)*
-
-ECF concentration of 1C. is 150 meq/L and ICF concentration of le is 5 meq/L. What is the equilibrium potential for K+ is?
-
-- A. +60 mV
-- B. -60 mV
-- C. -90 mV
-- D. +90 mV
-
-<details><summary>Answer</summary>
-
-**C. -90 mV** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q492 — Nernnst equation related to equilibrium potential *(2016)*
-
-Nernnst equation related to equilibrium potential does not depend upon?
-
-- A. Concentration gradient
-- B. Electric gradient
-- C. Non-ionic solution
-- D. Concentration of ions in two solution
-
-<details><summary>Answer</summary>
-
-**C. Non-ionic solution** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q493 — Due to Donnan-Gibbs effect *(2016)*
-
-Due to Donnan-Gibbs effect?
-
-- A. Concentration of K. is greater in ECF
-- B. Concentration of cl is greater in ECF
-- C. Total ions are more in ICF
-- D. All are true
-
-<details><summary>Answer</summary>
-
-**C. Total ions are more in ICF** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q494 — ATPase is which type of pump *(2016)*
-
-ATPase is which type of pump?
-
-- A. Secondary active
-- B. Electrogenic
-- C. Symport
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**B. Electrogenic** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q495 — Diffusion related to 02 transport across *(2016)*
-
-Diffusion related to 02 transport across respiratory membrane is an example of?
-
-- A. Simple diffusion
-- B. Facilitated diffusion
-- C. Active diffusion
-- D. Osmotic diffusion
-
-<details><summary>Answer</summary>
-
-**A. Simple diffusion** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q496 — Calculation of interstitial fluid in a *(2016)*
-
-Calculation of interstitial fluid in a 50 years old is done by?
-
-- A. TBW minus ECF
-- B. ECF minus plasma volume
-- C. ICF minus ECF
-- D. TBW minus ICF
-
-<details><summary>Answer</summary>
-
-**B. ECF minus plasma volume** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q497 — Excitability of cells is maximally affected *(2016)*
-
-Excitability of cells is maximally affected by change in concentration of which ion?
-
-- A. IC+
-- B. Na*
-- C. a-
-- D. Ca+2
-
-<details><summary>Answer</summary>
-
-**D. Ca+2** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q498 — Dull visceral pain is carried by *(2016)*
-
-Dull visceral pain is carried by which type of neurons?
-
-- A. A gamma
-- B. Aa
-- C. C fibres
-- D. B
-
-<details><summary>Answer</summary>
-
-**C. C fibres** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q499 — C fibers carry sensations through which *(2016)*
-
-'C' fibers carry sensations through which pathway?
-
-- A. Posterior column
-- B. Anterior spinothalamic tract
-- C. Lateral spinothalamic tract
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**C. Lateral spinothalamic tract** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q500 — Types C nerve fibers are *(2016)*
-
-Types C nerve fibers are?
-
-- A. Sensory
-- B. Motor
-- C. Mixed
-- D. Any of the above
-
-<details><summary>Answer</summary>
-
-**A. Sensory** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q501 — Warmth sensation is carried by *(2016)*
-
-Warmth sensation is carried by?
-
-- A. A a fibers
-- B. A (3 fibers
-- C. A y fibers
-- D. A S fibers
-
-<details><summary>Answer</summary>
-
-**A. A a fibers** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q502 — True about myosin *(2016)*
-
-True about myosin?
-
-- A. Thin filament
-- B. Covers active site of action
-- C. Has ATPase activity
-- D. Ca' binding protein
-
-<details><summary>Answer</summary>
-
-**C. Has ATPase activity** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q503 — Afferents for stretch reflexes are carried *(2016)*
-
-Afferents for stretch reflexes are carried by which fibers?
-
-- A. Aa
-- B. Ay
-- C. Type B
-- D. Type C
-
-<details><summary>Answer</summary>
-
-**A. Aa** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q504 — Spinal cord has how many synapses *(2016)*
-
-Spinal cord has how many synapses in golgi tendon reflex?
-
-- A. 1
-- B. 2
-- C. 3
-- D. 4
-
-<details><summary>Answer</summary>
-
-**B. 2** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q505 — Inverse stretch reflex is a *(2016)*
-
-Inverse stretch reflex is a?
-
-- A. Monosynaptic reflex
-- B. Bisynaptic reflex
-- C. Polysynaptic reflex
-- D. Nonsynaptic reflex
-
-<details><summary>Answer</summary>
-
-**B. Bisynaptic reflex** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q506 — Facilitatory presynaptic neurotransmitter is *(2016)*
-
-Facilitatory presynaptic neurotransmitter is?
-
-- A. GABA
-- B. Glycine
-- C. Glutamate
-- D. Aspartate
-
-<details><summary>Answer</summary>
-
-**D. Aspartate** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q507 — Stereocilia are found in *(2016)*
-
-Stereocilia are found in?
-
-- A. Eye
-- B. Nose
-- C. Tongue
-- D. Epididymis
-
-<details><summary>Answer</summary>
-
-**D. Epididymis** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q508 — CSF pressure is increased in all *(2016)*
-
-CSF pressure is increased in all except -
-
-- A. Forced inspiration
-- B. Coughing
-- C. Valsalva manoeuvre
-- D. Crying
-
-<details><summary>Answer</summary>
-
-**A. Forced inspiration** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q509 — Function of Ghrelin *(2016)*
-
-Function of Ghrelin?
-
-- A. Stimulate water absorption
-- B. Increase appatite
-- C. Regulation of temperature
-- D. Stimulate lipogenesis
-
-<details><summary>Answer</summary>
-
-**B. Increase appatite** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q510 — Location of visual cortex *(2016)*
-
-Location of visual cortex?
-
-- A. Precentral gyrus
-- B. Postcentral gyrus
-- C. Sylvian fissure
-- D. Calcarine sulcus
-
-<details><summary>Answer</summary>
-
-**D. Calcarine sulcus** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q511 — Parvocellular pathway for vision is concerned *(2016)*
-
-Parvocellular pathway for vision is concerned with?
-
-- A. Fine details of object
-- B. Movements of object
-- C. Flickering features
-- D. Depth of vision
-
-<details><summary>Answer</summary>
-
-**A. Fine details of object** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q512 — Sweat glands are supplied by all *(2016)*
-
-Sweat glands are supplied by all except?
-
-- A. Cholinergic neurons
-- B. Sympathetic neurons
-- C. Adrenergic neurons
-- D. C-fibers
-
-<details><summary>Answer</summary>
-
-**C. Adrenergic neurons** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q513 — Gustatory pathway involves which nerve *(2016)*
-
-Gustatory pathway involves which nerve?
-
-- A. Facial
-- B. Glossopharyngeal
-- C. Vagus
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q514 — Function of cerebellum *(2016)*
-
-Function of cerebellum?
-
-- A. Regulation of tone
-- B. Coordination of eye movement
-- C. Planning & initiation of movement
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q515 — of the following is not a *(2016)*
-
-Which of the following is not a metabotropic receptor for serotonin?
-
-- A. 5HT,A
-- B. 5HT,13
-- C. 5HT2A
-- D. 5HT3
-
-<details><summary>Answer</summary>
-
-**D. 5HT3** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q516 — Two point discrimination is mainly a *(2016)*
-
-Two point discrimination is mainly a function of which touch receptors?
-
-- A. Merkel's disc
-- B. Ruffini's end organ
-- C. Paccinian corpuscle
-- D. Meissner's corpuscle
-
-<details><summary>Answer</summary>
-
-**A. Merkel's disc** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q517 — Functional residual capacity in normal adult *(2016)*
-
-Functional residual capacity in normal adult is?
-
-- A. 500 ml
-- B. 1200 ml
-- C. 2400 ml
-- D. 3200 ml
-
-<details><summary>Answer</summary>
-
-**C. 2400 ml** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q518 — is maximum voluntary ventilation *(2016)*
-
-What is maximum voluntary ventilation?
-
-- A. Amount of air expired in one munute at rest
-- B. Maximum amount of air that can be inspired and expired in one
-- C. Maximum amount of air that can be inspired per breath
-- D. Maximum amount of air remaining in lung after forced expiration
-
-<details><summary>Answer</summary>
-
-**B. Maximum amount of air that can be inspired and expired in one** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q519 — True about Carboxyhemoglobin *(2016)*
-
-True about Carboxyhemoglobin?
-
-- A. Take up 02 very quickly
-- B. Causes histotoxic hypoxia
-- C. Causes left shift of Hb-02 dissociation curve
-- D. All are true
-
-<details><summary>Answer</summary>
-
-**C. Causes left shift of Hb-02 dissociation curve** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q520 — is the difference between Hb-0 dissociation *(2016)*
-
-What is the difference between Hb-0 dissociation curve and Hb-CO curve?
-
-- A. CO shifts the curve to left
-- B. CO has more affinity to Hb
-- C. Co-Hb curve is similar to 02-Hb curve
-- D. All are true
-
-<details><summary>Answer</summary>
-
-**D. All are true** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q521 — Not true about Bohr effect *(2016)*
-
-Not true about Bohr effect?
-
-- A. Decrease affinity of 02 by increase PCO,
-- B. Left shift of Hb-02 dissociation curve
-- C. It is due to H*
-- D. All are true
-
-<details><summary>Answer</summary>
-
-**B. Left shift of Hb-02 dissociation curve** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q522 — True of 02-Hb dissociation curve *(2016)*
-
-True of 02-Hb dissociation curve?
-
-- A. Straight line curve
-- B. 100% saturated at P02 of 100 mmHg
-- C. Cooperative binding
-- D. Hb molecule can carry 6 molecules of 0,
-
-<details><summary>Answer</summary>
-
-**C. Cooperative binding** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q523 — increases affinity of hemoglobin for 0- *(2016)*
-
-Which increases affinity of hemoglobin for 0,-
-
-- A. Acidosis
-- B. Hyperthermia
-- C. High pH
-- D. High PCO2
-
-<details><summary>Answer</summary>
-
-**C. High pH** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q524 — In comparison to hemoglobin effect of *(2016)*
-
-In comparison to hemoglobin, effect of myoglobin on Bohr effect?
-
-- A. Increased
-- B. Decreased
-- C. Same
-- D. No Bohr effect
-
-<details><summary>Answer</summary>
-
-**D. No Bohr effect** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q525 — Function of chloride shift in RBCs *(2016)*
-
-Function of chloride shift in RBCs?
-
-- A. Right shift of Hb-O, curve
-- B. Left shift of Hb-02 curve
-- C. Transport of CO2
-- D. Diffusion of 02 in alveoli
-
-<details><summary>Answer</summary>
-
-**C. Transport of CO2** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q526 — Closing volume is related to which *(2016)*
-
-Closing volume is related to which of the following?
-
-- A. Tidal volume
-- B. Residual volume
-- C. Vital capacity
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. Residual volume** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q527 — Central chemoreceptors are not stimulated by *(2016)*
-
-Central chemoreceptors are not stimulated by?
-
-- A. T PCO2
-- B. T El' in CSF
-- C. Hypoxia
-- D. All stimulate
-
-<details><summary>Answer</summary>
-
-**C. Hypoxia** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q528 — Chemical regulation of respiration is not *(2016)*
-
-Chemical regulation of respiration is not affected by?
-
-- A. P02
-- B. PCO2
-- C. pH
-- D. Mean BP
-
-<details><summary>Answer</summary>
-
-**D. Mean BP** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q529 — True about high altitude acclimatization *(2016)*
-
-True about high altitude acclimatization?
-
-- A. Left shift 0102- Hb curve
-- B. Decreased RBC count
-- C. Hypoventilation
-- D. Increased erythropoietin
-
-<details><summary>Answer</summary>
-
-**D. Increased erythropoietin** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q530 — Distending capacity of lung is maximum *(2016)*
-
-Distending capacity of lung is maximum at?
-
-- A. Apex
-- B. Base
-- C. Mid region
-- D. Posterior lobe
-
-<details><summary>Answer</summary>
-
-**A. Apex** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q531 — Action potential in cardiac muscles is *(2016)*
-
-Action potential in cardiac muscles is due to which ions?
-
-- A. K*
-- B. Na*
-- C. Ca'
-- D. CI?
-
-<details><summary>Answer</summary>
-
-**D. CI?** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q532 — Baroreceptors are related to which vessels *(2016)*
-
-Baroreceptors are related to which vessels?
-
-- A. Internal carotid artery
-- B. External carotid artery
-- C. Subclavian artery
-- D. Brachiocephalic trunk
-
-<details><summary>Answer</summary>
-
-**A. Internal carotid artery** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q533 — Effect of positive G *(2016)*
-
-Effect of positive G?
-
-- A. Increased cerebral arterial pressure
-- B. Increased venous return
-- C. Decreased cardiac output
-- D. Increased pressure in lower limb
-
-<details><summary>Answer</summary>
-
-**C. Decreased cardiac output** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q534 — of the following cause increase in *(2016)*
-
-Which of the following cause increase in pulmonary arterial pressure?
-
-- A. Histamine
-- B. Hypoxia
-- C. ANP
-- D. PGI2
-
-<details><summary>Answer</summary>
-
-**B. Hypoxia** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q535 — important cerebral vasodilator *(2016)*
-
-Most important cerebral vasodilator?
-
-- A. H+
-- B. Na+
-- C. Cal+
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. H+** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q536 — Renin secretion is decreased by *(2016)*
-
-Renin secretion is decreased by?
-
-- A. Sympathetic stimulation
-- B. Prostacycline [PGI2]
-- C. Nacl in distal tubules
-- D. Hypotension
-
-<details><summary>Answer</summary>
-
-**C. Nacl in distal tubules** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q537 — True about function of distal convoluted *(2016)*
-
-True about function of distal convoluted tubule?
-
-- A. Reabsorbe Na* by Nal(+2c1- channel
-- B. Reabsorbe IC' by Nei(' channel
-- C. Water reabsorption by ADH
-- D. All are correct
-
-<details><summary>Answer</summary>
-
-**C. Water reabsorption by ADH** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q538 — Function of Lacis cells in nephron *(2016)*
-
-Function of Lacis cells in nephron?
-
-- A. H+secretion
-- B. Na+reabsorption
-- C. Renin secretion
-- D. Regulation of vasoconstriction / vasodilatation of arterioles
-
-<details><summary>Answer</summary>
-
-**D. Regulation of vasoconstriction / vasodilatation of arterioles** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q539 — Plasma inulin of a person is *(2016)*
-
-Plasma inulin of a person is 4 mg/ml and urine flow rate is 20 ml/min. What will be GFR if urine inulin is 50 mg/ml?
-
-- A. 125 ml/min
-- B. 250 ml/min
-- C. 500 ml/min
-- D. 1000 ml/min
-
-<details><summary>Answer</summary>
-
-**B. 250 ml/min** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q540 — True about aquaporins are all except *(2016)*
-
-True about aquaporins are all except ?
-
-- A. Protein
-- B. Aquaporin-1 in PCT
-- C. Aquaporin-2 in loop of Henle
-- D. Aquaporin-2 in CD
-
-<details><summary>Answer</summary>
-
-**C. Aquaporin-2 in loop of Henle** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q541 — Maximum fat absorption in GI tract *(2016)*
-
-Maximum fat absorption in GI tract occurs in?
-
-- A. Duodenum
-- B. Jejunum
-- C. Ileum
-- D. Calcium
-
-<details><summary>Answer</summary>
-
-**B. Jejunum** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q542 — If the ileum is excised what *(2016)*
-
-If the ileum is excised, what will increase in stool?
-
-- A. Bile salts
-- B. Bile acids
-- C. Iron
-- D. Calcium
-
-<details><summary>Answer</summary>
-
-**A. Bile salts** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q543 — Daily fecal urobilinogen excretion in healthy *(2016)*
-
-Daily fecal urobilinogen excretion in healthy adults?
-
-- A. 20-40 gm
-- B. 40-280 gm
-- C. 20-40 mg
-- D. 40-280 mg
-
-<details><summary>Answer</summary>
-
-**D. 40-280 mg** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q544 — Maximum daily degradation of hemoglobin in *(2016)*
-
-Maximum daily degradation of hemoglobin in normal adults?
-
-- A. 2 gm
-- B. 4 gm
-- C. 6 gm
-- D. 8 gm
-
-<details><summary>Answer</summary>
-
-**D. 8 gm** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q545 — cAMP activates *(2016)*
-
-cAMP activates?
-
-- A. Protein kinase 'A'
-- B. Protein kinase 'C'
-- C. Nuclear transcription
-- D. Phospholipare
-
-<details><summary>Answer</summary>
-
-**A. Protein kinase 'A'** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q546 — Gene for insulin responsive glucose transporter *(2016)*
-
-Gene for insulin responsive glucose transporter is located on chromosome?
-
-- A. 7
-- B. 21
-- C. 17
-- D. 13
-
-<details><summary>Answer</summary>
-
-**C. 17** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q547 — True about ACTH and cortisol corticosteroid *(2016)*
-
-True about ACTH and cortisol [corticosteroid] secretion?
-
-- A. Maximum secretion in the evening
-- B. ACTH has negative feed-back control
-- C. ACTH has major effect on mineralocorticoid secretion
-- D. ACTH is derived from POMC
-
-<details><summary>Answer</summary>
-
-**B. ACTH has negative feed-back control** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q548 — are true regarding intracellular receptors except *(2016)*
-
-All are true regarding intracellular receptors, except?
-
-- A. Act by regulating gene expression
-- B. Fastest acting receptors
-- C. Glucocorticoid receptors
-- D. DNA contains hormone responsive elements
-
-<details><summary>Answer</summary>
-
-**B. Fastest acting receptors** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q549 — Hormone which affects IC ion concentration *(2016)*
-
-Hormone which affects IC* ion concentration?
-
-- A. GH
-- B. Thyroxine
-- C. Insulin
-- D. Estrogen
-
-<details><summary>Answer</summary>
-
-**C. Insulin** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q550 — Tissue factor activates *(2016)*
-
-Tissue factor activates?
-
-- A. Intrinsic pathway
-- B. Contact pathway
-- C. In vitro pathway
-- D. In vivo pathway
-
-<details><summary>Answer</summary>
-
-**D. In vivo pathway** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q551 — Tisse factor activates *(2016)*
-
-Tisse factor activates?
-
-- A. Preaccelerin
-- B. Hageman facter
-- C. Labile facter
-- D. Prothrombin
-
-<details><summary>Answer</summary>
-
-**A. Preaccelerin** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q552 — Maximum storage of magnesium occurs in *(2016)*
-
-Maximum storage of magnesium occurs in which part of body?
-
-- A. Adipose tissue
-- B. Skeletal muscles
-- C. Blood
-- D. Bone
-
-<details><summary>Answer</summary>
-
-**D. Bone** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q553 — Exercise mediated increase in muscular blood *(2016)*
-
-Exercise mediated increase in muscular blood flow is mediated by which sympathetic fibers
-
-- A. Adrenergic
-- B. Noradrenergic
-- C. Dopaminergic
-- D. Cholinergic
-
-<details><summary>Answer</summary>
-
-**D. Cholinergic** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q554 — Inhibition of Na ATPase leads to *(2016)*
-
-Inhibition of Na* ATPase leads to?
-
-- A. Decreased Na* in the cell
-- B. Increased Ca' in the cell
-- C. Increased K* in the cell
-- D. Increased Cl- in the cell
-
-<details><summary>Answer</summary>
-
-**B. Increased Ca' in the cell** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q555 — Hypercoagulable factor is *(2016)*
-
-Hypercoagulable factor is?
-
-- A. Protein C
-- B. Protein S
-- C. Factor V Leiden
-- D. Antithrombin III
-
-<details><summary>Answer</summary>
-
-**C. Factor V Leiden** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q556 — True about heterophilic receptors *(2016)*
-
-True about heterophilic receptors?
-
-- A. Involved in binding of GH to cell membrane
-- B. Bind to same ligand/hormone
-- C. Involved in cell adhesion
-- D. All are correct
-
-<details><summary>Answer</summary>
-
-**C. Involved in cell adhesion** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q557 — Third order neurons of sensations from *(2016)*
-
-Third order neurons of sensations from face arise in?
-
-- A. Medulla
-- B. Spinal nucleus of trigeminal
-- C. Thalamus
-- D. Brainstem
-
-<details><summary>Answer</summary>
-
-**C. Thalamus** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q558 — Actin is which type of protein *(2016)*
-
-Actin is which type of protein?
-
-- A. Fibrous
-- B. Globular
-- C. Both
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Both** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q559 — NAD Acts as a coenzyme for *(2016)*
-
-NAD+ Acts as a coenzyme for ?
-
-- A. Xanthine oxidase
-- B. L-amino acid oxidase
-- C. Succinate dehydrogenase
-- D. Malate dehydrogenase
-
-<details><summary>Answer</summary>
-
-**D. Malate dehydrogenase** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q560 — Enzyme involved in the transfer of *(2016)*
-
-Enzyme involved in the transfer of hydrogen ion is
-
-- A. Hydratase
-- B. Oxidase
-- C. Peroxidase
-- D. Dehydrogenase
-
-<details><summary>Answer</summary>
-
-**A. Hydratase** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q561 — Sequence of complexes in the electron *(2016)*
-
-Sequence of complexes in the electron transport chain is -
-
-- A. NADH dehydrogenase → Q → Cytochrome bc1 →
-- B. NADH dehydrogenase → Q → Cytochrome aa3 →
-- C. NADH dehydrogenase → Cytochrome aa3 → Q →
-- D. NADH dehydrogenase → Cytochrome bcl → Q →
-
-<details><summary>Answer</summary>
-
-**A. NADH dehydrogenase → Q → Cytochrome bc1 →** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q562 — Regarding energy production by the electron *(2016)*
-
-Regarding energy production by the electron transport chain, which is true?
-
-- A. The complexes are arranged in a decreasing order of redox
-- B. The complexes are arranged in a decreasing order of ability
-- C. The complexes are arranged in a decreasing order of state
-- D. The complexes are arranged in a decreasing order of
-
-<details><summary>Answer</summary>
-
-**D. The complexes are arranged in a decreasing order of** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q563 — Electron transport chain all are true *(2016)*
-
-Electron transport chain all are true except
-
-- A. Complexes are arranged in an increasing order of redox
-- B. Mitochondrial Glycerol phosphate dehydrogenase sends its
-- C. l0 Hydrogen ions are translocated when NADH enters into
-- D. 7 Hydrogen ions are translocated when FADH2 electrons
-
-<details><summary>Answer</summary>
-
-**D. 7 Hydrogen ions are translocated when FADH2 electrons** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q564 — Atractiloside act as *(2016)*
-
-Atractiloside act as ?
-
-- A. Uncoupler
-- B. Inhibitor of oxidative phosphorylation
-- C. Inhibitor of complex I of ETC
-- D. Inhibitor of complex III of ETC
-
-<details><summary>Answer</summary>
-
-**B. Inhibitor of oxidative phosphorylation** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q565 — of the following is the respiratory *(2016)*
-
-Which of the following is the respiratory centre of cell?
-
-- A. Mitochondria
-- B. Microsome
-- C. Lysosome
-- D. Nucleus
-
-<details><summary>Answer</summary>
-
-**A. Mitochondria** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q566 — Cellulose is biochemically - *(2016)*
-
-Cellulose is biochemically -
-
-- A. β (1,4) L glucose
-- B. ?, (14) D glucose
-- C. β(1,4) D glucose
-- D. ? (1,4) L glucose
-
-<details><summary>Answer</summary>
-
-**A. β (1,4) L glucose** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q567 — D and L isomerism is - *(2016)*
-
-D and L isomerism is -
-
-- A. Optical isomerism
-- B. Functional isomerism
-- C. Epimerism
-- D. Enantiomerism
-
-<details><summary>Answer</summary>
-
-**D. Enantiomerism** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q568 — of the following are converted to *(2016)*
-
-All of the following are converted to cr-ketoglutarate on catabolism except-
-
-- A. Glutamate
-- B. Histidine
-- C. Proline
-- D. Glycine
-
-<details><summary>Answer</summary>
-
-**D. Glycine** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q569 — Glucogenic aminoacids give rise to all *(2016)*
-
-Glucogenic aminoacids give rise to all of the following intermediates of citric acid cycle except-
-
-- A. Isocitrate
-- B. c ketoglutarate
-- C. Succinyl CoA
-- D. Fumarates
-
-<details><summary>Answer</summary>
-
-**A. Isocitrate** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
-
----
-
----
-
-
-## Year 2017
-
-### Q570 — the characteristic pattern seen in Brown sequard
-
-What is the characteristic pattern seen in Brown sequard syndrome
-
-- A. C/L loss of joint sense and position
-- B. C/L loss of pain
-- C. I/L loss of complete sensory functions
-- D. C/L motor functions
-
-<details><summary>Answer</summary>
-
-**B. C/L loss of pain** — Contralateral loss of pain sensations
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#16 | OPTIONS_GENERATED: false -->
-
----
-
-### Q571 — When Va / Q is infinity
-
-When Va / Q is infinity?
-
-- A. Partial pressure of O2 becomes zero
-- B. No exchange of O2 & CO2
-- C. Partial pressure of CO2 alone becomes zero
-- D. Partial pressure both CO2 and O2 remain normal
-
-<details><summary>Answer</summary>
-
-**B. No exchange of O2 & CO2** — Source: NEET-PG 2017 medicoholic.com
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#17 | OPTIONS_GENERATED: false -->
-
----
-
-### Q572 — C wave is seen in
-
-C wave is seen in
-
-- A. Iso -volumetric contraction
-- B. Slow filling at end of diastole
-- C. End of systole
-- D. Start of diastole
-
-<details><summary>Answer</summary>
-
-**B. Slow filling at end of diastole** — Iso- volumetric contraction
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#18 | OPTIONS_GENERATED: false -->
-
----
-
-### Q573 — In hypovolemic shock there is 
-
-In hypovolemic shock there is -
-
-- A. Afferent arteriolar constriction
-- B. Efferent arteriolar constriction
-- C. Increased blood flow to kidney
-- D. Normal cardiac output
-
-<details><summary>Answer</summary>
-
-**A. Afferent arteriolar constriction** — Afferent arteriole constriction
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#20 | OPTIONS_GENERATED: false -->
-
----
-
-### Q574 — Iron from enterocytes through
-
-Iron from enterocytes through
-
-- A. Dmt1
-- B. Dmt2
-- C. Ferroprotein1
-- D. GLUT1
-
-<details><summary>Answer</summary>
-
-**A. Dmt1** — DMT1
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#26 | OPTIONS_GENERATED: false -->
-
----
-

@@ -22,7 +22,6 @@ Last structure pierced before entering the lumbar cistern during LP?
 </details>
 
 ---
-
 ### Q2 — Local anaesthetic systemic toxicity (LAST) treatment
 
 Young male on 0.25% bupivacaine becomes unresponsive with no pulse. Best management?
@@ -38,7 +37,6 @@ Young male on 0.25% bupivacaine becomes unresponsive with no pulse. Best managem
 </details>
 
 ---
-
 ### Q3 — Head tilt-chin lift
 
 Image shows airway manoeuvre with head extension and jaw lift:
@@ -54,7 +52,6 @@ Image shows airway manoeuvre with head extension and jaw lift:
 </details>
 
 ---
-
 ### Q4 — Non-rebreathing mask for COVID
 
 Best oxygen delivery device for COVID-19 patient needing high FiO₂?
@@ -70,7 +67,6 @@ Best oxygen delivery device for COVID-19 patient needing high FiO₂?
 </details>
 
 ---
-
 ### Q5 — Mallampati Class II
 
 Patient with base of uvula visible, soft and hard palate seen. Mallampati class?
@@ -86,7 +82,6 @@ Patient with base of uvula visible, soft and hard palate seen. Mallampati class?
 </details>
 
 ---
-
 ### Q6 — Capnography in bronchospasm (asthma)
 
 Asthma patient with shark-fin shaped capnograph. Indicates:
@@ -102,7 +97,6 @@ Asthma patient with shark-fin shaped capnograph. Indicates:
 </details>
 
 ---
-
 ### Q7 — Tuohy needle for epidural
 
 Needle used for epidural anaesthesia:
@@ -118,7 +112,6 @@ Needle used for epidural anaesthesia:
 </details>
 
 ---
-
 ### Q8 — Mapleson circuit valve pressure
 
 Maximum pressure setting for Mapleson breathing circuit relief valve:
@@ -134,7 +127,6 @@ Maximum pressure setting for Mapleson breathing circuit relief valve:
 </details>
 
 ---
-
 ### Q9 — Capnogram alveolar plateau
 
 Marked phase on capnogram showing constant EtCO₂:
@@ -150,7 +142,6 @@ Marked phase on capnogram showing constant EtCO₂:
 </details>
 
 ---
-
 ### Q10 — Capnogram Phase 1 dead space
 
 Capnogram Phase 1 represents:
@@ -166,7 +157,6 @@ Capnogram Phase 1 represents:
 </details>
 
 ---
-
 ### Q11 — Curare cleft on capnograph
 
 A notch in the alveolar plateau during spontaneous ventilation indicates:
@@ -182,7 +172,6 @@ A notch in the alveolar plateau during spontaneous ventilation indicates:
 </details>
 
 ---
-
 ### Q12 — Pin index for oxygen cylinder
 
 Pin Index Safety System (PISS) for oxygen cylinder pins:
@@ -198,7 +187,6 @@ Pin Index Safety System (PISS) for oxygen cylinder pins:
 </details>
 
 ---
-
 ### Q13 — Murphy's eye
 
 A device with "Murphy's eye" is:
@@ -214,7 +202,6 @@ A device with "Murphy's eye" is:
 </details>
 
 ---
-
 ### Q14 — LMA aspiration risk
 
 Main adverse effect of laryngeal mask airway (LMA):
@@ -248,7 +235,6 @@ Curare-type muscle relaxants act by:
 </details>
 
 ---
-
 ### Q16 — IV anaesthetic without myocardial depression
 
 IV induction agent with minimal cardiovascular depression:
@@ -264,7 +250,6 @@ IV induction agent with minimal cardiovascular depression:
 </details>
 
 ---
-
 ### Q17 — Desflurane NOT for paediatric induction
 
 Which is NOT used for inhalational induction in paediatric anaesthesia?
@@ -280,7 +265,6 @@ Which is NOT used for inhalational induction in paediatric anaesthesia?
 </details>
 
 ---
-
 ### Q18 — IV agent without injection pain
 
 Which IV induction agent does NOT cause injection pain?
@@ -296,7 +280,6 @@ Which IV induction agent does NOT cause injection pain?
 </details>
 
 ---
-
 ### Q19 — Local anaesthetic safe in liver disease
 
 Local anaesthetic preferred in patients with severe liver disease:
@@ -312,7 +295,6 @@ Local anaesthetic preferred in patients with severe liver disease:
 </details>
 
 ---
-
 ### Q20 — Succinylcholine side effect (NOT bronchospasm)
 
 Which is NOT a typical side effect of succinylcholine?
@@ -346,7 +328,6 @@ Recovery position is indicated for:
 </details>
 
 ---
-
 ### Q22 — AED for cardiac patient
 
 Portable microprocessor device delivering electric shock for cardiac arrest:
@@ -362,7 +343,6 @@ Portable microprocessor device delivering electric shock for cardiac arrest:
 </details>
 
 ---
-
 ### Q23 — BiPAP for COPD
 
 Non-invasive ventilatory support device for COPD exacerbation:
@@ -378,7 +358,6 @@ Non-invasive ventilatory support device for COPD exacerbation:
 </details>
 
 ---
-
 ### Q24 — Halothane and malignant hyperthermia
 
 Anaesthetic gas associated with MH trigger:
@@ -394,7 +373,6 @@ Anaesthetic gas associated with MH trigger:
 </details>
 
 ---
-
 ### Q25 — Atracurium histamine release
 
 Patient on atracurium develops flushing and hypotension. Cause?
@@ -410,7 +388,6 @@ Patient on atracurium develops flushing and hypotension. Cause?
 </details>
 
 ---
-
 ### Q26 — Stable narrow-complex SVT management
 
 60-year-old with narrow-complex tachycardia at 180 bpm, stable, no chest pain. First-line drug?
@@ -426,7 +403,6 @@ Patient on atracurium develops flushing and hypotension. Cause?
 </details>
 
 ---
-
 ### Q27 — EMLA cream composition
 
 Active ingredients in EMLA cream:
@@ -444,7 +420,6 @@ Active ingredients in EMLA cream:
 ---
 
 <!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
-
 ### Q28 — All of the following drugs increase *(2015)*
 
 All of the following drugs increase the risk of postoperative nausea and vomiting after squint surgery in children except ?
@@ -461,10 +436,9 @@ All of the following drugs increase the risk of postoperative nausea and vomitin
 </details>
 
 ---
-
 ### Q29 — year old male presented with a *(2015)*
 
-year old male presented with a penetrating trauma to chest. He is dyspnoeic with distended neck veins with hypotension and mediastinum is
+A patient (age not captured in source) who is a year old male presented with a penetrating trauma to chest. He is dyspnoeic with distended neck veins with hypotension and mediastinum is
 
 - A. Insertion of a large bore needle in the 2" ICS in the mid
 - B. Fluid Resuscitation
@@ -478,7 +452,6 @@ year old male presented with a penetrating trauma to chest. He is dyspnoeic with
 </details>
 
 ---
-
 ### Q30 — Best uterine relaxation is seen with *(2015)*
 
 Best uterine relaxation is seen with ?
@@ -495,7 +468,6 @@ Best uterine relaxation is seen with ?
 </details>
 
 ---
-
 ### Q31 — Which of the following drugs produces *(2015)*
 
 Which of the following drugs produces dissociative anesthesia
@@ -512,7 +484,6 @@ Which of the following drugs produces dissociative anesthesia
 </details>
 
 ---
-
 ### Q32 — Not included in neuraxial block *(2015)*
 
 Not included in neuraxial block ?
@@ -529,7 +500,6 @@ Not included in neuraxial block ?
 </details>
 
 ---
-
 ### Q33 — Most common cause of maternal mortality *(2015)*
 
 Most common cause of maternal mortality in spinal anesthesia is ?
@@ -546,7 +516,6 @@ Most common cause of maternal mortality in spinal anesthesia is ?
 </details>
 
 ---
-
 ### Q34 — Cauda equina syndrome is associated with *(2015)*
 
 Cauda equina syndrome is associated with ?
@@ -563,7 +532,6 @@ Cauda equina syndrome is associated with ?
 </details>
 
 ---
-
 ### Q35 — Local anaesthetic injected directly into the *(2015)*
 
 Local anaesthetic injected directly into the tissue ?
@@ -580,7 +548,6 @@ Local anaesthetic injected directly into the tissue ?
 </details>
 
 ---
-
 ### Q36 — Propofol vial, once opened, should be *(2016)*
 
 Propofol vial, once opened, should be used within?
@@ -597,7 +564,6 @@ Propofol vial, once opened, should be used within?
 </details>
 
 ---
-
 ### Q37 — Relative contraindication of neuraxialregional ane *(2016)*
 
 Relative contraindication of neuraxial/regional anesthesia is?
@@ -614,7 +580,6 @@ Relative contraindication of neuraxial/regional anesthesia is?
 </details>
 
 ---
-
 ### Q38 — Benzocaine is used in which type *(2016)*
 
 Benzocaine is used in which type of anesthesia?
@@ -631,7 +596,6 @@ Benzocaine is used in which type of anesthesia?
 </details>
 
 ---
-
 ### Q39 — Triangle of Petit is a landmark *(2016)*
 
 "Triangle of Petit" is a landmark for which block?
@@ -648,7 +612,6 @@ Benzocaine is used in which type of anesthesia?
 </details>
 
 ---
-
 ### Q40 — What is the intubation dose of *(2016)*
 
 What is the intubation dose of pancuronium?
@@ -666,9 +629,66 @@ What is the intubation dose of pancuronium?
 
 ---
 
+## Year 2015
+
+### Q41 — The most appropriate circuit for ventilating
+
+The most appropriate circuit for ventilating a spontaneously breathing infant during anaesthesia is?
+
+- A. jackson Rees modification of Ayre's T piece
+- B. Mapleson A or Magill's circuit
+- C. Mapleson C or Waters to and fro canister
+- D. Bains circuit
+
+<details><summary>Answer</summary>
+
+**A. jackson Rees modification of Ayre's T piece** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q42 — Which one of the following agents
+
+Which one of the following agents sensitizes the myocardium to catecholamines -
+
+- A. Isoflurane
+- B. Ether
+- C. Halothane
+- D. Propofol
+
+<details><summary>Answer</summary>
+
+**C. Halothane** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q43 — All of the following statements about
+
+All of the following statements about neuromuscular blockage produced by succinylcholine are true, except:
+
+- A. No fade on Train of four stimulation
+- B. Fade on tetanic stimulation
+- C. No post tetanic facilitation
+- D. Train of four ratio > 0.4
+
+<details><summary>Answer</summary>
+
+**B. Fade on tetanic stimulation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+
 ## Year 2016
 
-### Q41 — Hypotension following spinal anesthesia can be *(2016)*
+### Q44 — Hypotension following spinal anesthesia can be *(2016)*
 
 Hypotension following spinal anesthesia can be best prevented by?
 
@@ -687,10 +707,9 @@ Hypotension following spinal anesthesia can be best prevented by?
 
 ---
 
-
 ## Year 2017
 
-### Q42 — Murphys eye is seen in *(2017)*
+### Q45 — Murphys eye is seen in *(2017)*
 
 Murphy's eye is seen in
 
@@ -708,8 +727,7 @@ Murphy's eye is seen in
 ---
 
 ---
-
-### Q43 — Modified MallamPati grading is used in *(2017)*
+### Q46 — Modified MallamPati grading is used in *(2017)*
 
 Modified MallamPati grading is used in assessment of
 
@@ -727,8 +745,7 @@ Modified MallamPati grading is used in assessment of
 ---
 
 ---
-
-### Q44 — Which nerve is tested for adequacy *(2017)*
+### Q47 — Which nerve is tested for adequacy *(2017)*
 
 Which nerve is tested for adequacy of anaesthesia
 
@@ -746,8 +763,7 @@ Which nerve is tested for adequacy of anaesthesia
 ---
 
 ---
-
-### Q45 — Most effective circuit in spontaneous anaesthesia *(2017)*
+### Q48 — Most effective circuit in spontaneous anaesthesia *(2017)*
 
 Most effective circuit in spontaneous anaesthesia is
 
@@ -765,27 +781,7 @@ Most effective circuit in spontaneous anaesthesia is
 ---
 
 ---
-
-### Q46 — Identify the following lesion *(2017)*
-
-Identify the following lesion.
-
-- A. Becker nevus
-- B. Hypopigmented macule
-- C. Spitz nevus.
-- D. Epidermal nevus
-
-<details><summary>Answer</summary>
-
-**A. Becker nevus**
-
-</details>
-
----
-
----
-
-### Q47 — Cutis marmorata occurs due to exposure *(2017)*
+### Q49 — Cutis marmorata occurs due to exposure *(2017)*
 
 Cutis marmorata occurs due to exposure to –
 
@@ -803,8 +799,7 @@ Cutis marmorata occurs due to exposure to –
 ---
 
 ---
-
-### Q48 — Imaging techniques used in Uterus anomalies *(2017)*
+### Q50 — Imaging techniques used in Uterus anomalies *(2017)*
 
 Imaging techniques used in Uterus anomalies EXCEPT:
 
@@ -823,67 +818,9 @@ Imaging techniques used in Uterus anomalies EXCEPT:
 
 ---
 
-### Q49 — MRI of skull represents *(2017)*
-
-MRI of skull represents:
-
-- A. Vein of Galen
-- B. Dandy walker Syndrome
-- C. Pneumocephalus
-- D. Crouzon syndrome
-
-<details><summary>Answer</summary>
-
-**A. Vein of Galen**
-
-</details>
-
----
-
----
-
-### Q50 — CT of Thorax represents *(2017)*
-
-CT of Thorax represents:
-
-- A. Ascending Aortic dissection
-- B. Descending Aortic dissection
-- C. Aortic aneurysm
-- D. Cystic fibrosis
-
-<details><summary>Answer</summary>
-
-**B. Descending Aortic dissection**
-
-</details>
-
----
-
----
-
-### Q51 — Identify artery X in the given *(2017)*
-
-Identify artery ‘X’ in the given angiography anatomy image:
-
-- A. Superior mesenteric artery
-- B. Subclavian artery
-- C. Celiac artery
-- D. Brachiocephalic artery
-
-<details><summary>Answer</summary>
-
-**A. Superior mesenteric artery**
-
-</details>
-
----
-
----
-
-
 ## Year 2018
 
-### Q52 — What is mechanism of action of *(2018)*
+### Q51 — What is mechanism of action of *(2018)*
 
 What is mechanism of action of Curanium drugs as muscle relaxant
 
@@ -901,8 +838,7 @@ What is mechanism of action of Curanium drugs as muscle relaxant
 ---
 
 ---
-
-### Q53 — Trilene is degraded by *(2018)*
+### Q52 — Trilene is degraded by *(2018)*
 
 Trilene is degraded by
 
@@ -923,10 +859,9 @@ Trilene is degraded by
 
 ---
 
-
 ## Year 2019
 
-### Q54 — Curare mechanism
+### Q53 — Curare mechanism
 
 Mechanism of curare-group muscle relaxants?
 
@@ -941,8 +876,7 @@ Mechanism of curare-group muscle relaxants?
 </details>
 
 ---
-
-### Q55 — Paediatric induction — avoid
+### Q54 — Paediatric induction — avoid
 
 Not used for induction in paediatric patients?
 
@@ -959,8 +893,7 @@ Not used for induction in paediatric patients?
 ---
 
 ---
-
-### Q56 — Anaesthetic gas with maximum respiratory irritatio *(2019)*
+### Q55 — Anaesthetic gas with maximum respiratory irritatio *(2019)*
 
 Anaesthetic gas with maximum respiratory irritation
 
@@ -978,8 +911,7 @@ Anaesthetic gas with maximum respiratory irritation
 ---
 
 ---
-
-### Q57 — IV administration of which anesthetic drug *(2019)*
+### Q56 — IV administration of which anesthetic drug *(2019)*
 
 IV administration of which anesthetic drug is most painful among the following?
 
@@ -997,8 +929,7 @@ IV administration of which anesthetic drug is most painful among the following?
 ---
 
 ---
-
-### Q58 — Which of the following is not *(2019)*
+### Q57 — Which of the following is not *(2019)*
 
 Which of the following is not cardiodepressive?
 
@@ -1016,8 +947,7 @@ Which of the following is not cardiodepressive?
 ---
 
 ---
-
-### Q59 — Which of the following is the *(2019)*
+### Q58 — Which of the following is the *(2019)*
 
 Which of the following is the most common method used to know depth of anaesthesia?
 
@@ -1038,10 +968,9 @@ Which of the following is the most common method used to know depth of anaesthes
 
 ---
 
-
 ## Year 2020
 
-### Q60 — Best prognostic cardiac test
+### Q59 — Best prognostic cardiac test
 
 Most accurate prognostic test for perioperative cardiac risk?
 
@@ -1056,8 +985,7 @@ Most accurate prognostic test for perioperative cardiac risk?
 </details>
 
 ---
-
-### Q61 — Neostigmine reversal
+### Q60 — Neostigmine reversal
 
 Drug given postoperatively to recover from nicotinic antagonist muscle weakness?
 
@@ -1075,10 +1003,9 @@ Drug given postoperatively to recover from nicotinic antagonist muscle weakness?
 
 ---
 
-
 ## Year 2021
 
-### Q62 — Confirmation of ET tube position
+### Q61 — Confirmation of ET tube position
 
 Method to confirm endotracheal tube position?
 
@@ -1093,8 +1020,7 @@ Method to confirm endotracheal tube position?
 </details>
 
 ---
-
-### Q63 — Malignant hyperthermia trigger
+### Q62 — Malignant hyperthermia trigger
 
 Patient on halothane develops hyperthermia and muscle rigidity. Trigger drug?
 
@@ -1111,8 +1037,7 @@ Patient on halothane develops hyperthermia and muscle rigidity. Trigger drug?
 ---
 
 ---
-
-### Q64 — Muscle relaxant causing histamine release
+### Q63 — Muscle relaxant causing histamine release
 
 Muscle relaxant causing erythema, bronchospasm, and hypotension due to histamine release?
 
@@ -1128,8 +1053,7 @@ Muscle relaxant causing erythema, bronchospasm, and hypotension due to histamine
 </details>
 
 ---
-
-### Q65 — Malignant hyperthermia — treatment
+### Q64 — Malignant hyperthermia — treatment
 
 Sevoflurane + succinylcholine causes muscle rigidity and hyperthermia — treatment?
 
@@ -1148,32 +1072,9 @@ Sevoflurane + succinylcholine causes muscle rigidity and hyperthermia — treatm
 
 ---
 
-
-## Year 2022
-
-### Q66 — Identify the mask in the image *(2022)*
-
-Identify the mask in the image used for patients with COVID-19 injection.
-
-- A. Venturi mask
-- B. Hudson mask
-- C. Nebuliser
-- D. Non-rebreathing mask
-
-<details><summary>Answer</summary>
-
-**D. Non-rebreathing mask**
-
-</details>
-
----
-
----
-
-
 ## Year 2023
 
-### Q67 — Cardiac surgery antibiotic prophylaxis
+### Q65 — Cardiac surgery antibiotic prophylaxis
 
 Drug of choice for preoperative antibiotic prophylaxis in cardiac surgery.
 
@@ -1190,8 +1091,7 @@ Drug of choice for preoperative antibiotic prophylaxis in cardiac surgery.
 ---
 
 ---
-
-### Q68 — O3 Malignant melanoma O4 Basal cell *(2023)*
+### Q66 — O3 Malignant melanoma O4 Basal cell *(2023)*
 
 O3: Malignant melanoma O4: Basal cell carcinoma Ans: 3 Which of the following is the drug of choice for preoperative antibiotic prophylaxis in a patient undergoing cardiac surgery?
 
@@ -1209,8 +1109,7 @@ O3: Malignant melanoma O4: Basal cell carcinoma Ans: 3 Which of the following is
 ---
 
 ---
-
-### Q69 — During resuscitation, when is the given *(2023)*
+### Q67 — During resuscitation, when is the given *(2023)*
 
 During resuscitation, when is the given position indicated? La
 
@@ -1229,10 +1128,9 @@ During resuscitation, when is the given position indicated? La
 
 ---
 
-
 ## Year 2024
 
-### Q70 — EMLA cream
+### Q68 — EMLA cream
 
 Which statement is accurate regarding EMLA?
 
@@ -1247,8 +1145,7 @@ Which statement is accurate regarding EMLA?
 </details>
 
 ---
-
-### Q71 — Pulseless rhythm
+### Q69 — Pulseless rhythm
 
 A patient presents with no pulse and a specific ECG rhythm (shockable). Next step?
 
@@ -1265,8 +1162,7 @@ A patient presents with no pulse and a specific ECG rhythm (shockable). Next ste
 ---
 
 ---
-
-### Q72 — What is the typical pressure setting *(2024)*
+### Q70 — What is the typical pressure setting *(2024)*
 
 What is the typical pressure setting for the valve in a Mapleson circuit?
 
@@ -1284,8 +1180,7 @@ What is the typical pressure setting for the valve in a Mapleson circuit?
 ---
 
 ---
-
-### Q73 — Which drug is used to reverse *(2024)*
+### Q71 — Which drug is used to reverse *(2024)*
 
 Which drug is used to reverse the muscle relaxant effects of vecuronium when renal function is normal?
 
@@ -1303,8 +1198,7 @@ Which drug is used to reverse the muscle relaxant effects of vecuronium when ren
 ---
 
 ---
-
-### Q74 — What is the primary purpose of *(2024)*
+### Q72 — What is the primary purpose of *(2024)*
 
 What is the primary purpose of PEEP (Positive End-Expiratory Pressure) in mechanical ventilation?
 
@@ -1322,8 +1216,7 @@ What is the primary purpose of PEEP (Positive End-Expiratory Pressure) in mechan
 ---
 
 ---
-
-### Q75 — A 25-year-old patient undergoing orthopedic surger *(2024)*
+### Q73 — A 25-year-old patient undergoing orthopedic surger *(2024)*
 
 A 25-year-old patient undergoing orthopedic surgery under general anaesthesia suddenly developed a rise in EtCO₂, temperature, and also muscle rigidity. Which of the following drugs leads to such complications?
 
@@ -1342,10 +1235,9 @@ A 25-year-old patient undergoing orthopedic surgery under general anaesthesia su
 
 ---
 
-
 ## Year 2025
 
-### Q76 — Malignant hyperthermia
+### Q74 — Malignant hyperthermia
 
 A patient on sevoflurane and succinylcholine develops post-operative muscle rigidity, hyperthermia, and rising end-tidal CO₂. Drug of choice?
 
@@ -1362,8 +1254,7 @@ A patient on sevoflurane and succinylcholine develops post-operative muscle rigi
 ---
 
 ---
-
-### Q77 — Histamine-releasing muscle relaxant
+### Q75 — Histamine-releasing muscle relaxant
 
 A patient develops erythema, facial flushing, and hypotension after muscle relaxant administration. Which drug is responsible?
 
@@ -1380,63 +1271,3 @@ A patient develops erythema, facial flushing, and hypotension after muscle relax
 ---
 
 ---
-
-## Year 2015
-
-### Q78 — The most appropriate circuit for ventilating
-
-The most appropriate circuit for ventilating a spontaneously breathing infant during anaesthesia is?
-
-- A. jackson Rees modification of Ayre's T piece
-- B. Mapleson A or Magill's circuit
-- C. Mapleson C or Waters to and fro canister
-- D. Bains circuit
-
-<details><summary>Answer</summary>
-
-**A. jackson Rees modification of Ayre's T piece** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q79 — Which one of the following agents
-
-Which one of the following agents sensitizes the myocardium to catecholamines -
-
-- A. Isoflurane
-- B. Ether
-- C. Halothane
-- D. Propofol
-
-<details><summary>Answer</summary>
-
-**C. Halothane** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q80 — All of the following statements about
-
-All of the following statements about neuromuscular blockage produced by succinylcholine are true, except:
-
-- A. No fade on Train of four stimulation
-- B. Fade on tetanic stimulation
-- C. No post tetanic facilitation
-- D. Train of four ratio > 0.4
-
-<details><summary>Answer</summary>
-
-**B. Fade on tetanic stimulation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-

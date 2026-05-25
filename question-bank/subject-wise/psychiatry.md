@@ -667,770 +667,9 @@ All are habit disorder except
 
 ---
 
-## Year 2017
-
-### Q41 — New name of mental retardation according *(2017)*
-
-New name of mental retardation according to American Association of Mental Retardation
-
-- A. Feeble Mindedness
-- B. Madness
-- C. Intellectual disability
-- D. Mentally unstable
-
-<details><summary>Answer</summary>
-
-**C. Intellectual disability**
-
-</details>
-
----
-
----
-
-### Q42 — Now-a-days Down syndrome Is referred to *(2017)*
-
-Now-a-days Down syndrome Is referred to as.
-
-- A. Submental disorder
-- B. Oligophrenia
-- C. Madness
-- D. Mentally unstable
-
-<details><summary>Answer</summary>
-
-**A. Submental disorder**
-
-</details>
-
----
-
----
-
-### Q43 — Trilene is degraded by *(2017)*
-
-Trilene is degraded by:
-
-- A. Enzymatic Degradation
-- B. Non Enzymatic degradation
-- C. Chemical Degradation
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Enzymatic Degradation**
-
-</details>
-
----
-
----
-
-### Q44 — The earliest feature of 3rd cranial *(2017)*
-
-The earliest feature of 3rd cranial nerve involvement in diabetes mellitus patient is
-
-- A. Normal light reflex
-- B. Abnormal light reflex
-- C. Normal light and accommodation reflex
-- D. Abnormal light and accommodation reflex
-
-<details><summary>Answer</summary>
-
-**A. Normal light reflex**
-
-</details>
-
----
-
----
-
-### Q45 — During squint surgery, anesthesiologist sees the *(2017)*
-
-During squint surgery, anesthesiologist sees the machine and see the bp suddenly drops to 40. What will be best immediate management
-
-- A. Give atropine
-- B. Increase level of anesthesia
-- C. Ask the surgeon to stop the surgery
-- D. Give adrenaline
-
-<details><summary>Answer</summary>
-
-**D. Give adrenaline**
-
-</details>
-
----
-
----
-
-### Q46 — All are special visceral efferent column *(2017)*
-
-All are special visceral efferent column except
-
-- A. Glossopharyngeal n
-- B. Nucleus ambiguus
-- C. vagus nerve
-- D. trigeminal nerve
-
-<details><summary>Answer</summary>
-
-**B. Nucleus ambiguus**
-
-</details>
-
----
-
----
-
-### Q47 — What is the Thinnest part of *(2017)*
-
-What is the Thinnest part of neuro-retinal rim according to ISNT rule?
-
-- A. Inferior
-- B. Superficial
-- C. Temporal
-- D. Medial
-
-<details><summary>Answer</summary>
-
-**C. Temporal**
-
-</details>
-
----
-
----
-
-
-## Year 2018
-
-### Q48 — Bragg peak effect pronounced in *(2018)*
-
-Bragg peak effect pronounced in
-
-- A. X ray
-- B. Proton
-- C. Neutron
-- D. Electron
-
-<details><summary>Answer</summary>
-
-**B. Proton**
-
-</details>
-
----
-
----
-
-### Q49 — Freuds theory of dream includes all *(2018)*
-
-Freud’s theory of dream includes all except
-
-- A. Displacement
-- B. Condensation
-- C. Symbolisation
-- D. Correlation
-
-<details><summary>Answer</summary>
-
-**D. Correlation**
-
-</details>
-
----
-
----
-
-### Q50 — A 55 years aged chronic alcoholic *(2018)*
-
-A 55 years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable diagnosis
-
-- A. Delirium tremens
-- B. Korsakoff psychosis
-- C. Post-Acute withdrawal syndrome
-- D. Discontinuation syndrome
-
-<details><summary>Answer</summary>
-
-**A. Delirium tremens**
-
-</details>
-
----
-
----
-
-### Q51 — Genital warts are caused by which *(2018)*
-
-Genital warts are caused by which virus
-
-- A. Herpes simplex
-- B. Human papilloma
-- C. Cytomegalovirus
-- D. Varicella zoster
-
-<details><summary>Answer</summary>
-
-**B. Human papilloma**
-
-</details>
-
----
-
----
-
-### Q52 — years aged chronic alcoholic male, presented *(2018)*
-
-years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable
-
-- A. Delirium tremens
-- B. Korsakoff psychosis
-- C. Post-Acute withdrawal syndrome
-- D. Discontinuation syndrome
-
-<details><summary>Answer</summary>
-
-**A. Delirium tremens**
-
-</details>
-
----
-
----
-
-
-## Year 2019
-
-### Q53 — Intense depression & misery without any *(2019)*
-
-Intense depression & misery without any cause is?
-
-- A. Melancholia
-- B. Major depressive disorder
-- C. Mania
-- D. Schizophrenia
-
-<details><summary>Answer</summary>
-
-**A. Melancholia**
-
-</details>
-
----
-
----
-
-
-## Year 2020
-
-### Q54 — Cocaine — formication
-
-Drug causing sensation of insects crawling under the skin?
-
-- A. Cannabis
-- B. Amphetamine
-- C. Alcohol
-- D. Cocaine
-
-<details><summary>Answer</summary>
-
-**D. Cocaine** — "Magnan's symptom" / formication. Also seen with chronic amphetamine use.
-</details>
-
----
-
-### Q55 — Psychotic depression
-
-A 60-year-old widower with guilt delusions about wife's death.
-
-- A. Normal grief
-- B. Delusional disorder
-- C. Schizophrenia
-- D. Psychotic depression
-
-<details><summary>Answer</summary>
-
-**D. Psychotic depression** — Mood-congruent delusions (guilt, nihilism). Treat: antidepressant + antipsychotic; ECT if severe.
-</details>
-
----
-
----
-
-
-## Year 2021
-
-### Q56 — Countertransference
-
-A therapist's mixed conscious and unconscious feelings toward a patient.
-
-- A. Countertransference
-- B. Transference
-- C. Dissociation
-- D. Preoccupation
-
-<details><summary>Answer</summary>
-
-**A. Countertransference** — Therapist's feelings toward patient. (Transference = patient's feelings toward therapist.)
-</details>
-
----
-
-### Q57 — Delirium tremens
-
-A patient 3 days post-alcohol cessation with disorientation, delusions, hallucinations.
-
-- A. Delirium tremens
-- B. Wernicke encephalopathy
-- C. Korsakoff psychosis
-- D. Alcohol-induced psychosis
-
-<details><summary>Answer</summary>
-
-**A. Delirium tremens** — Onset 48–96 h after cessation. Autonomic hyperactivity + visual hallucinations. Treat with benzodiazepines.
-</details>
-
----
-
----
-
-
-## Year 2022
-
-### Q58 — Binge–purge eating
-
-A 16-year-old girl with intense food cravings, eats large amounts, then self-induced vomiting.
-
-- A. Anorexia nervosa
-- B. Bulimia nervosa
-- C. Atypical depression
-- D. Binge eating disorder
-
-<details><summary>Answer</summary>
-
-**B. Bulimia nervosa** — Binge + inappropriate compensatory behaviour (purging). Russell's sign (knuckle calluses).
-</details>
-
----
-
-### Q59 — Postpartum blues
-
-A woman 4 days postpartum with tearfulness, mood swings, occasional insomnia.
-
-- A. Postpartum depression
-- B. Postpartum blues
-- C. Postpartum psychosis
-- D. Postpartum anxiety
-
-<details><summary>Answer</summary>
-
-**B. Postpartum blues** — Self-limiting; resolves within 2 weeks.
-</details>
-
----
-
----
-
-### Q60 — A 16-year-old girl has intense cravings *(2022)*
-
-A 16-year-old girl has intense cravings for food. She eats large amounts of food, which is followed by self-induced vomiting. What is the probable diagnosis?
-
-- A. Anorexia nervosa
-- B. Bulimia nervosa
-- C. Atypical depression
-- D. Binge eating disorder
-
-<details><summary>Answer</summary>
-
-**B. Bulimia nervosa**
-
-</details>
-
----
-
----
-
-### Q61 — A woman, who is 4 days *(2022)*
-
-A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and occasional insomnia. What is the likely diagnosis?
-
-- A. Postpartum depression
-- B. Postpartum blues
-- C. Postpartum psychosis
-- D. Postpartum anxiety
-
-<details><summary>Answer</summary>
-
-**B. Postpartum blues**
-
-</details>
-
----
-
----
-
-
-## Year 2023
-
-### Q62 — Clozapine adverse effects
-
-Schizophrenic patient unresponsive to haloperidol and thioridazine; started on a new drug with excessive salivation, elevated glucose, hyperlipidaemia.
-
-- A. Ziprasidone
-- B. Risperidone
-- C. Clozapine
-- D. Aripiprazole
-
-<details><summary>Answer</summary>
-
-**C. Clozapine** — Used in treatment-resistant schizophrenia. Hypersalivation, metabolic syndrome, agranulocytosis (monitor WBC).
-</details>
-
----
-
-### Q63 — A schizophrenic patient was prescribed drug *(2023)*
-
-A schizophrenic patient was prescribed drug A after he did not respond to haloperidol and thioridazine. He now presents with excessive salivation, an increase in blood glucose, and hyperlipidemia. What is drug A?
-
-- A. Ziprasidone
-- B. Risperidone
-- C. Clozapine
-- D. Aripiprazole
-
-<details><summary>Answer</summary>
-
-**C. Clozapine**
-
-</details>
-
----
-
----
-
-### Q64 — A 25-year-old female reported symptoms of *(2023)*
-
-A 25-year-old female reported symptoms of anxiety, palpitations, sweating, breathlessness, chest pain, and a feeling of impending doom. She recalls having experienced 5-6 similar episodes in the past 6 months, each episode lasting for about 20-30 minutes. What is the likely diagnosis?
-
-- A. Depression
-- B. Panic disorder
-- C. Generalized anxiety disorder
-- D. Phobia
-
-<details><summary>Answer</summary>
-
-**B. Panic disorder**
-
-</details>
-
----
-
----
-
-
-## Year 2024
-
-### Q65 — Opioid maintenance
-
-Drug used in the maintenance phase of opioid withdrawal?
-
-- A. Buprenorphine
-- B. Disulfiram
-- C. Butorphanol
-- D. Clonidine
-
-<details><summary>Answer</summary>
-
-**A. Buprenorphine** — Partial μ-agonist; long-acting; ceiling effect on respiratory depression. Methadone is alternative.
-</details>
-
----
-
-### Q66 — Generalized anxiety disorder somatic symptoms
-
-A 45-year-old woman with long-standing "tense" feeling, upset stomach, diarrhoea, heartburn. Family members have similar symptoms. Most likely associated symptom?
-
-- A. Neologisms
-- B. Tingling at extremities
-- C. Hallucinations
-- D. Idea of reference
-
-<details><summary>Answer</summary>
-
-**B. Tingling at extremities** — GAD with autonomic hyperactivity → hyperventilation → paraesthesiae.
-</details>
-
----
-
----
-
-### Q67 — Which of the following is a *(2024)*
-
-Which of the following is a selective norepinephrine reuptake inhibitor used to manage ADHD?
-
-- A. Modafinil
-- B. Reboxetine
-- C. Guanfacine
-- D. Methylphenidate
-
-<details><summary>Answer</summary>
-
-**B. Reboxetine**
-
-</details>
-
----
-
----
-
-### Q68 — A mother brings her daughter to *(2024)*
-
-A mother brings her daughter to the emergency room after she ingested an unknown substance. The child presents with hypertension, tachycardia, hyperthermia, and mydriasis. Which of the following substances is most likely responsible for these symptoms?
-
-- A. Heroin
-- B. Morphine
-- C. Cocaine
-- D. Chlorpheniramine
-
-<details><summary>Answer</summary>
-
-**C. Cocaine**
-
-</details>
-
----
-
----
-
-### Q69 — A 30-year-old male presents as calm *(2024)*
-
-A 30-year-old male presents as calm and charming in front of a psychiatrist. However, he engages in aggressive behaviour towards friends, frequently skips classes, disregards traffic rules, and has been involved in a police interrogation. What is the most likely diagnosis?
-
-- A. Antisocial Personality Disorder
-- B. Narcissistic Personality Disorder
-- C. Schizotypal Personality Disorder
-- D. Paranoid Personality Disorder
-
-<details><summary>Answer</summary>
-
-**A. Antisocial Personality Disorder**
-
-</details>
-
----
-
----
-
-### Q70 — A 40-year-old woman has consulted multiple *(2024)*
-
-A 40-year-old woman has consulted multiple plastic surgeons to correct a perceived facial deformity. Despite reassurances from doctors and her family that no such defect exists, she remains convinced and frequently checks her appearance in the mirror. She insists on surgical intervention. What is the most appropriate management for her condition?
-
-- A. SSRI
-- B. Atypical antipsychotic
-- C. Insight therapy
-- D. SNRI
-
-<details><summary>Answer</summary>
-
-**A. SSRI**
-
-</details>
-
----
-
----
-
-### Q71 — Which drug is commonly used in *(2024)*
-
-Which drug is commonly used in the maintenance phase of opioid withdrawal?
-
-- A. Buprenorphine
-- B. Disulfiram
-- C. Butorphanol
-- D. Clonidine
-
-<details><summary>Answer</summary>
-
-**A. Buprenorphine**
-
-</details>
-
----
-
----
-
-### Q72 — A man experiences sexual arousal from *(2024)*
-
-A man experiences sexual arousal from wearing female undergarments and high heels during sexual activity with women, but he is not attracted to men. What is the most likely diagnosis?
-
-- A. Gender Dysphoria
-- B. Transvestic Fetishism
-- C. Hermaphroditism
-- D. Gay Identity Disorder
-
-<details><summary>Answer</summary>
-
-**B. Transvestic Fetishism**
-
-</details>
-
----
-
----
-
-### Q73 — A child presents to the OPD *(2024)*
-
-A child presents to the OPD with intracranial diffuse calcifications, chorioretinitis, and hydrocephalus. Which of the following is the most likely diagnosis?
-
-- A. Congenital Toxoplasmosis
-- B. Dandy-Walker Malformation
-- C. Budd-Chiari Syndrome
-- D. Congenital Hydrocephalus
-
-<details><summary>Answer</summary>
-
-**A. Congenital Toxoplasmosis**
-
-</details>
-
----
-
----
-
-### Q74 — A 45-year-old woman presents with a *(2024)*
-
-A 45-year-old woman presents with a long-standing history of “feeling tensed” along with an upset stomach, diarrhea, and heartburn. She mentions that her family members also experience similar symptoms. Which of the following symptoms is most likely to be observed in this patient?
-
-- A. Neologisms
-- B. Tingling at extremities
-- C. Hallucinations
-- D. Idea of reference
-
-<details><summary>Answer</summary>
-
-**B. Tingling at extremities**
-
-</details>
-
----
-
----
-
-
-## Year 2025
-
-### Q75 — Haloperidol, orofacial dyskinesia, choreiform movements
-
-Schizophrenia patient on haloperidol for 2 years develops orofacial dyskinesia and choreiform movements. Diagnosis and treatment?
-
-- A. Acute dystonia — Ropinirole
-- B. Tardive dyskinesia — Valbenazine
-- C. Akathisia — Propranolol
-- D. Oral tremor — Amantadine
-
-<details><summary>Answer</summary>
-
-**B. Tardive dyskinesia — Valbenazine** — Late-onset involuntary movements after prolonged antipsychotic use; VMAT2 inhibitors (valbenazine, deutetrabenazine) are FDA-approved for tardive dyskinesia.
-</details>
-
----
-
----
-
-### Q76 — Birds' flight patterns give instructions from God
-
-A patient believes birds' flight patterns give him instructions from God. Diagnosis?
-
-- A. Delusional perception
-- B. Visual hallucination
-- C. Delusional memory
-- D. Sudden delusional ideas
-
-<details><summary>Answer</summary>
-
-**A. Delusional perception** — A real perception (birds flying) is given a delusional meaning (instructions from God). A first-rank symptom of schizophrenia (Schneider).
-</details>
-
----
-
----
-
-### Q77 — Perfectionism, difficulty discarding items, ego-syntonic
-
-Mr. K requires everything in perfect order, struggles discarding items, affecting work quality; denies complaints (ego-syntonic). Diagnosis?
-
-- A. Narcissistic personality disorder
-- B. Obsessive-compulsive personality disorder
-- C. Paranoid delusion
-- D. Dependent personality disorder
-
-<details><summary>Answer</summary>
-
-**B. Obsessive-compulsive personality disorder** — OCPD: ego-syntonic perfectionism, rigidity, hoarding behaviour, orderliness. OCD (ego-dystonic intrusive thoughts with compulsions) is different.
-</details>
-
----
-
----
-
-### Q78 — Post-earthquake, travelled 110 km, unable to recall identity
-
-Post-earthquake, patient found 110 km from home, cannot recall identity, no substance abuse. Diagnosis?
-
-- A. Dissociative amnesia
-- B. Dissociative fugue
-- C. DID
-- D. Selective amnesia
-
-<details><summary>Answer</summary>
-
-**B. Dissociative fugue** — Purposeful travel away from home with inability to recall one's identity or past; associated with psychological trauma. Now classified as a specifier of dissociative amnesia in DSM-5.
-</details>
-
----
-
----
-
-### Q79 — Amnesia after father's RTA death, flashbacks for 2 weeks
-
-21-year-old female, amnesia after father's death in RTA, flashbacks for 2 weeks. Diagnosis?
-
-- A. Dissociative disorder
-- B. Major depression
-- C. PTSD
-- D. Acute stress disorder
-
-<details><summary>Answer</summary>
-
-**D. Acute stress disorder** — Duration < 4 weeks (≥ 3 days) after trauma with dissociative symptoms, flashbacks; PTSD is diagnosed if symptoms persist > 4 weeks.
-</details>
-
----
-
----
-
-### Q80 — Attacks coworker, hears voices, disorganized speech
-
-Person attacks coworker claiming plots against him, hears voices, displays disorganised speech. Next step?
-
-- A. Refer for anger management
-- B. Psychiatric assessment; evaluate fitness for trial
-- C. Not responsible due to mental illness
-- D. Immediate trial and punishment
-
-<details><summary>Answer</summary>
-
-**B. Psychiatric assessment; evaluate fitness for trial** — Psychosis with command hallucinations and violence: immediate psychiatric evaluation to assess fitness to stand trial (cognitive capacity) and criminal responsibility (insanity defence).
-</details>
-
----
-
----
-
 ## Year 2015
 
-### Q81 — For activity of antipsychotic, action is
+### Q41 — For activity of antipsychotic, action is
 
 For activity of antipsychotic, action is required at which receptor -
 
@@ -1448,8 +687,7 @@ For activity of antipsychotic, action is required at which receptor -
 ---
 
 ---
-
-### Q82 — Beside depression, other use of SSRIs
+### Q42 — Beside depression, other use of SSRIs
 
 Beside depression, other use of SSRIs ?
 
@@ -1467,8 +705,7 @@ Beside depression, other use of SSRIs ?
 ---
 
 ---
-
-### Q83 — Irresistible sexual desire in a male
+### Q43 — Irresistible sexual desire in a male
 
 Irresistible sexual desire in a male is known as: AIIMS 08
 
@@ -1486,8 +723,7 @@ Irresistible sexual desire in a male is known as: AIIMS 08
 ---
 
 ---
-
-### Q84 — Duodenal aspirate is used in diagnosis
+### Q44 — Duodenal aspirate is used in diagnosis
 
 Duodenal aspirate is used in diagnosis of:
 
@@ -1505,8 +741,7 @@ Duodenal aspirate is used in diagnosis of:
 ---
 
 ---
-
-### Q85 — Most common acute complication of dialysis
+### Q45 — Most common acute complication of dialysis
 
 Most common acute complication of dialysis is
 
@@ -1524,8 +759,7 @@ Most common acute complication of dialysis is
 ---
 
 ---
-
-### Q86 — Triad of normal pressure hydrocephalus includes
+### Q46 — Triad of normal pressure hydrocephalus includes
 
 Triad of normal pressure hydrocephalus includes all except -
 
@@ -1543,8 +777,7 @@ Triad of normal pressure hydrocephalus includes all except -
 ---
 
 ---
-
-### Q87 — The best method for inducing mid
+### Q47 — The best method for inducing mid
 
 The best method for inducing mid trimester abortion is :
 
@@ -1562,8 +795,7 @@ The best method for inducing mid trimester abortion is :
 ---
 
 ---
-
-### Q88 — What would be the type of
+### Q48 — What would be the type of
 
 What would be the type of presentation when the engaging diameter is mentovertical?
 
@@ -1581,8 +813,7 @@ What would be the type of presentation when the engaging diameter is mentovertic
 ---
 
 ---
-
-### Q89 — 45 yrs female with G5P4A0L4 with
+### Q49 — 45 yrs female with G5P4A0L4 with
 
 45 yrs female with G5P4A0L4 with LMP
 
@@ -1600,8 +831,7 @@ What would be the type of presentation when the engaging diameter is mentovertic
 ---
 
 ---
-
-### Q90 — If the symphysiofundal height is 40
+### Q50 — If the symphysiofundal height is 40
 
 If the symphysiofundal height is 40 cm and the station of the head is at -1, weight of the fetus is approximately
 
@@ -1619,8 +849,7 @@ If the symphysiofundal height is 40 cm and the station of the head is at -1, wei
 ---
 
 ---
-
-### Q91 — Which of the following is true
+### Q51 — Which of the following is true
 
 Which of the following is true regarding precocious puberty :
 
@@ -1638,8 +867,7 @@ Which of the following is true regarding precocious puberty :
 ---
 
 ---
-
-### Q92 — Kallmans syndrome is associated with all
+### Q52 — Kallmans syndrome is associated with all
 
 Kallmans syndrome is associated with all of the following except
 
@@ -1657,8 +885,7 @@ Kallmans syndrome is associated with all of the following except
 ---
 
 ---
-
-### Q93 — Antimullerian hormone is secreted by
+### Q53 — Antimullerian hormone is secreted by
 
 Antimullerian hormone is secreted by ?
 
@@ -1676,8 +903,7 @@ Antimullerian hormone is secreted by ?
 ---
 
 ---
-
-### Q94 — What is to be done if
+### Q54 — What is to be done if
 
 What is to be done if 2 OCP is missed on day 17 - 18 of the cycle -
 
@@ -1695,8 +921,7 @@ What is to be done if 2 OCP is missed on day 17 - 18 of the cycle -
 ---
 
 ---
-
-### Q95 — Most common complication of dermoid cyst
+### Q55 — Most common complication of dermoid cyst
 
 Most common complication of dermoid cyst is -
 
@@ -1714,8 +939,7 @@ Most common complication of dermoid cyst is -
 ---
 
 ---
-
-### Q96 — There is overlapping of skull sutures
+### Q56 — There is overlapping of skull sutures
 
 There is overlapping of skull sutures which can be reduced with gental pressure. What is the grade of moulding ?
 
@@ -1733,8 +957,7 @@ There is overlapping of skull sutures which can be reduced with gental pressure.
 ---
 
 ---
-
-### Q97 — In cervical incompetence diameter of internal
+### Q57 — In cervical incompetence diameter of internal
 
 In cervical incompetence diameter of internal os of cervix is -
 
@@ -1752,8 +975,7 @@ In cervical incompetence diameter of internal os of cervix is -
 ---
 
 ---
-
-### Q98 — Contracted pelvis is defined as shortening
+### Q58 — Contracted pelvis is defined as shortening
 
 Contracted pelvis is defined as shortening of one or more planes by -
 
@@ -1771,8 +993,7 @@ Contracted pelvis is defined as shortening of one or more planes by -
 ---
 
 ---
-
-### Q99 — Most common type of conjoint twin
+### Q59 — Most common type of conjoint twin
 
 Most common type of conjoint twin is -
 
@@ -1790,8 +1011,7 @@ Most common type of conjoint twin is -
 ---
 
 ---
-
-### Q100 — Not a cause of oligohydramnios -
+### Q60 — Not a cause of oligohydramnios -
 
 Not a cause of oligohydramnios -
 
@@ -1809,8 +1029,7 @@ Not a cause of oligohydramnios -
 ---
 
 ---
-
-### Q101 — Risk factors for molar gestation are
+### Q61 — Risk factors for molar gestation are
 
 Risk factors for molar gestation are all of the following except -
 
@@ -1828,8 +1047,7 @@ Risk factors for molar gestation are all of the following except -
 ---
 
 ---
-
-### Q102 — Drugs used in endometriosis is
+### Q62 — Drugs used in endometriosis is
 
 Drugs used in endometriosis is
 
@@ -1847,8 +1065,7 @@ Drugs used in endometriosis is
 ---
 
 ---
-
-### Q103 — Leydig cells of fetus testis secretes
+### Q63 — Leydig cells of fetus testis secretes
 
 Leydig cells of fetus testis secretes
 
@@ -1866,8 +1083,7 @@ Leydig cells of fetus testis secretes
 ---
 
 ---
-
-### Q104 — Odland bodies are seen in which
+### Q64 — Odland bodies are seen in which
 
 Odland bodies are seen in which layer of epidermis?
 
@@ -1885,8 +1101,7 @@ Odland bodies are seen in which layer of epidermis?
 ---
 
 ---
-
-### Q105 — Anagen phase of the hair indicates
+### Q65 — Anagen phase of the hair indicates
 
 Anagen phase of the hair indicates:
 
@@ -1904,8 +1119,7 @@ Anagen phase of the hair indicates:
 ---
 
 ---
-
-### Q106 — A girl about to marry has
+### Q66 — A girl about to marry has
 
 A girl about to marry has comedonal acne. Drug to treat such a case is:
 
@@ -1923,8 +1137,7 @@ A girl about to marry has comedonal acne. Drug to treat such a case is:
 ---
 
 ---
-
-### Q107 — Acanthosis nigricans is characterized by all
+### Q67 — Acanthosis nigricans is characterized by all
 
 Acanthosis nigricans is characterized by all of the following except ?
 
@@ -1942,8 +1155,7 @@ Acanthosis nigricans is characterized by all of the following except ?
 ---
 
 ---
-
-### Q108 — Epidermal nevus follows
+### Q68 — Epidermal nevus follows
 
 Epidermal nevus follows ?
 
@@ -1961,8 +1173,7 @@ Epidermal nevus follows ?
 ---
 
 ---
-
-### Q109 — In lichen planus all the following
+### Q69 — In lichen planus all the following
 
 In lichen planus all the following sites are affected except ?
 
@@ -1980,8 +1191,7 @@ In lichen planus all the following sites are affected except ?
 ---
 
 ---
-
-### Q110 — Not a hemorrhagic lesion
+### Q70 — Not a hemorrhagic lesion
 
 Not a hemorrhagic lesion ?
 
@@ -1999,8 +1209,7 @@ Not a hemorrhagic lesion ?
 ---
 
 ---
-
-### Q111 — Incontinentia pigmenti involves all exept
+### Q71 — Incontinentia pigmenti involves all exept
 
 Incontinentia pigmenti involves all exept ?
 
@@ -2018,8 +1227,7 @@ Incontinentia pigmenti involves all exept ?
 ---
 
 ---
-
-### Q112 — Bulls eye lesions are found in
+### Q72 — Bulls eye lesions are found in
 
 Bull's eye lesions are found in ?
 
@@ -2037,8 +1245,7 @@ Bull's eye lesions are found in ?
 ---
 
 ---
-
-### Q113 — Husband having suspicion that his wife
+### Q73 — Husband having suspicion that his wife
 
 Husband having suspicion that his wife is having affair with another man, diagnosis is ?
 
@@ -2056,8 +1263,7 @@ Husband having suspicion that his wife is having affair with another man, diagno
 ---
 
 ---
-
-### Q114 — The site of lesion in Korsakoffs
+### Q74 — The site of lesion in Korsakoffs
 
 The site of lesion in Korsakoff's psychosis is
 
@@ -2075,8 +1281,7 @@ The site of lesion in Korsakoff's psychosis is
 ---
 
 ---
-
-### Q115 — Which of the following is not
+### Q75 — Which of the following is not
 
 Which of the following is not associated with dementia:
 
@@ -2094,8 +1299,7 @@ Which of the following is not associated with dementia:
 ---
 
 ---
-
-### Q116 — A girl with bad behavior like
+### Q76 — A girl with bad behavior like
 
 A girl with bad behavior like smashing and throwing objects was admitted in the hospital. There also she was behaving very badly with staff &
 
@@ -2113,8 +1317,7 @@ A girl with bad behavior like smashing and throwing objects was admitted in the 
 ---
 
 ---
-
-### Q117 — All of the following are essential
+### Q77 — All of the following are essential
 
 All of the following are essential features of attention deficit hyperactive disease (ADHD) except -
 
@@ -2132,8 +1335,7 @@ All of the following are essential features of attention deficit hyperactive dis
 ---
 
 ---
-
-### Q118 — Capgras syndrome is
+### Q78 — Capgras syndrome is
 
 Capgras syndrome is ?
 
@@ -2151,8 +1353,7 @@ Capgras syndrome is ?
 ---
 
 ---
-
-### Q119 — Features like increased psychomotor acitivity, wax
+### Q79 — Features like increased psychomotor acitivity, wax
 
 Features like increased psychomotor acitivity, waxy flexinbility at time are seen classically in :
 
@@ -2170,8 +1371,7 @@ Features like increased psychomotor acitivity, waxy flexinbility at time are see
 ---
 
 ---
-
-### Q120 — Good prognostic factor for schizophrenia is
+### Q80 — Good prognostic factor for schizophrenia is
 
 Good prognostic factor for schizophrenia is ?
 
@@ -2189,8 +1389,7 @@ Good prognostic factor for schizophrenia is ?
 ---
 
 ---
-
-### Q121 — Increased dopamine levels are associated
+### Q81 — Increased dopamine levels are associated
 
 Increased dopamine levels are associated ?
 
@@ -2208,8 +1407,7 @@ Increased dopamine levels are associated ?
 ---
 
 ---
-
-### Q122 — Visual hallucinations is seen in
+### Q82 — Visual hallucinations is seen in
 
 Visual hallucinations is seen in :
 
@@ -2227,8 +1425,7 @@ Visual hallucinations is seen in :
 ---
 
 ---
-
-### Q123 — Behavioral therapy is done in
+### Q83 — Behavioral therapy is done in
 
 Behavioral therapy is done in ?
 
@@ -2246,8 +1443,7 @@ Behavioral therapy is done in ?
 ---
 
 ---
-
-### Q124 — Feature associated with mania is
+### Q84 — Feature associated with mania is
 
 Feature associated with mania is ?
 
@@ -2265,8 +1461,7 @@ Feature associated with mania is ?
 ---
 
 ---
-
-### Q125 — Which of the following typical antipsychotic
+### Q85 — Which of the following typical antipsychotic
 
 Which of the following typical antipsychotic drug is not available in depot form ?
 
@@ -2284,8 +1479,7 @@ Which of the following typical antipsychotic drug is not available in depot form
 ---
 
 ---
-
-### Q126 — Causes of neuroregression in a child
+### Q86 — Causes of neuroregression in a child
 
 Causes of neuroregression in a child can be all except ?
 
@@ -2304,10 +1498,9 @@ Causes of neuroregression in a child can be all except ?
 
 ---
 
-
 ## Year 2016
 
-### Q127 — Promastigote form of Leishmania is found *(2016)*
+### Q87 — Promastigote form of Leishmania is found *(2016)*
 
 Promastigote form of Leishmania is found in which part of sandfly:
 
@@ -2324,12 +1517,10 @@ Promastigote form of Leishmania is found in which part of sandfly:
 
 ---
 
-
 ---
 
 ---
-
-### Q128 — Agger nasi is *(2016)*
+### Q88 — Agger nasi is *(2016)*
 
 Agger nasi is
 
@@ -2346,12 +1537,10 @@ Agger nasi is
 
 ---
 
-
 ---
 
 ---
-
-### Q129 — Not a feature of Wernickes Korsakoff *(2016)*
+### Q89 — Not a feature of Wernickes Korsakoff *(2016)*
 
 Not a feature of Wernicke's Korsakoff Syndrome
 
@@ -2368,12 +1557,10 @@ Not a feature of Wernicke's Korsakoff Syndrome
 
 ---
 
-
 ---
 
 ---
-
-### Q130 — Complete vesicular mole is associated Theca *(2016)*
+### Q90 — Complete vesicular mole is associated Theca *(2016)*
 
 Complete vesicular mole is associated Theca leutin csyts in what percentage of cases ?
 
@@ -2390,12 +1577,10 @@ Complete vesicular mole is associated Theca leutin csyts in what percentage of c
 
 ---
 
-
 ---
 
 ---
-
-### Q131 — Radio isotope used in Ca cervix *(2016)*
+### Q91 — Radio isotope used in Ca cervix *(2016)*
 
 Radio isotope used in Ca cervix Brachytherapy ?
 
@@ -2412,12 +1597,10 @@ Radio isotope used in Ca cervix Brachytherapy ?
 
 ---
 
-
 ---
 
 ---
-
-### Q132 — is not used in PCOS *(2016)*
+### Q92 — is not used in PCOS *(2016)*
 
 What is not used in PCOS ?
 
@@ -2434,12 +1617,10 @@ What is not used in PCOS ?
 
 ---
 
-
 ---
 
 ---
-
-### Q133 — Triad of symptoms of endometriosis are *(2016)*
+### Q93 — Triad of symptoms of endometriosis are *(2016)*
 
 Triad of symptoms of endometriosis are all except ?
 
@@ -2456,12 +1637,10 @@ Triad of symptoms of endometriosis are all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q134 — Investigation of choice for endometriosis *(2016)*
+### Q94 — Investigation of choice for endometriosis *(2016)*
 
 Investigation of choice for endometriosis ?
 
@@ -2478,12 +1657,10 @@ Investigation of choice for endometriosis ?
 
 ---
 
-
 ---
 
 ---
-
-### Q135 — Powder burnt lesion seen in *(2016)*
+### Q95 — Powder burnt lesion seen in *(2016)*
 
 Powder burnt lesion seen in ?
 
@@ -2500,12 +1677,10 @@ Powder burnt lesion seen in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q136 — Triad for clinical diagnosis PID includes *(2016)*
+### Q96 — Triad for clinical diagnosis PID includes *(2016)*
 
 Triad for clinical diagnosis PID includes all except ?
 
@@ -2522,12 +1697,10 @@ Triad for clinical diagnosis PID includes all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q137 — Tumor marker for germ cell malignancy *(2016)*
+### Q97 — Tumor marker for germ cell malignancy *(2016)*
 
 Tumor marker for germ cell malignancy are all except?
 
@@ -2544,12 +1717,10 @@ Tumor marker for germ cell malignancy are all except?
 
 ---
 
-
 ---
 
 ---
-
-### Q138 — 28 year old female complaints of *(2016)*
+### Q98 — 28 year old female complaints of *(2016)*
 
 28 year old female complaints of foul smelling yellowish urethral discharge since 4 days. History of burning micturation. History of sexual contact with multiple partners 2 days before the
 
@@ -2566,12 +1737,10 @@ Tumor marker for germ cell malignancy are all except?
 
 ---
 
-
 ---
 
 ---
-
-### Q139 — Twin-peak sign is seen in *(2016)*
+### Q99 — Twin-peak sign is seen in *(2016)*
 
 Twin-peak sign is seen in ?
 
@@ -2588,12 +1757,10 @@ Twin-peak sign is seen in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q140 — In ca Cervix treatment point A *(2016)*
+### Q100 — In ca Cervix treatment point A *(2016)*
 
 In ca Cervix treatment, point A receives ?
 
@@ -2610,12 +1777,10 @@ In ca Cervix treatment, point A receives ?
 
 ---
 
-
 ---
 
 ---
-
-### Q141 — GARDASIL vaccine is for - *(2016)*
+### Q101 — GARDASIL vaccine is for - *(2016)*
 
 GARDASIL vaccine is for -
 
@@ -2632,12 +1797,10 @@ GARDASIL vaccine is for -
 
 ---
 
-
 ---
 
 ---
-
-### Q142 — Raloxifene decreases the risk of which *(2016)*
+### Q102 — Raloxifene decreases the risk of which *(2016)*
 
 Raloxifene decreases the risk of which cancer?
 
@@ -2654,12 +1817,10 @@ Raloxifene decreases the risk of which cancer?
 
 ---
 
-
 ---
 
 ---
-
-### Q143 — Least failure rate *(2016)*
+### Q103 — Least failure rate *(2016)*
 
 Least failure rate ?
 
@@ -2676,12 +1837,10 @@ Least failure rate ?
 
 ---
 
-
 ---
 
 ---
-
-### Q144 — Nuva ring contains *(2016)*
+### Q104 — Nuva ring contains *(2016)*
 
 Nuva ring contains ?
 
@@ -2698,12 +1857,10 @@ Nuva ring contains ?
 
 ---
 
-
 ---
 
 ---
-
-### Q145 — Norgestimate in OC pills has the *(2016)*
+### Q105 — Norgestimate in OC pills has the *(2016)*
 
 Norgestimate in OC pills has the following advantage ?
 
@@ -2720,12 +1877,10 @@ Norgestimate in OC pills has the following advantage ?
 
 ---
 
-
 ---
 
 ---
-
-### Q146 — of the following is not an *(2016)*
+### Q106 — of the following is not an *(2016)*
 
 Which of the following is not an ideal candidate for IUCD insertion ?
 
@@ -2742,12 +1897,10 @@ Which of the following is not an ideal candidate for IUCD insertion ?
 
 ---
 
-
 ---
 
 ---
-
-### Q147 — Outcomes of occipito posterior position *(2016)*
+### Q107 — Outcomes of occipito posterior position *(2016)*
 
 Outcomes of occipito posterior position?
 
@@ -2764,12 +1917,10 @@ Outcomes of occipito posterior position?
 
 ---
 
-
 ---
 
 ---
-
-### Q148 — RMP can perform MTP in first *(2016)*
+### Q108 — RMP can perform MTP in first *(2016)*
 
 RMP can perform MTP in first trimester if he has assisted in MTPs -
 
@@ -2786,12 +1937,10 @@ RMP can perform MTP in first trimester if he has assisted in MTPs -
 
 ---
 
-
 ---
 
 ---
-
-### Q149 — Inner cell mass differentiates into *(2016)*
+### Q109 — Inner cell mass differentiates into *(2016)*
 
 Inner cell mass differentiates into ?
 
@@ -2808,12 +1957,10 @@ Inner cell mass differentiates into ?
 
 ---
 
-
 ---
 
 ---
-
-### Q150 — Embryo is called fetus after how *(2016)*
+### Q110 — Embryo is called fetus after how *(2016)*
 
 Embryo is called "fetus" after how many weeks post fertilization/conception ?
 
@@ -2830,12 +1977,10 @@ Embryo is called "fetus" after how many weeks post fertilization/conception ?
 
 ---
 
-
 ---
 
 ---
-
-### Q151 — Endometrial biopsy to detect ovulation is *(2016)*
+### Q111 — Endometrial biopsy to detect ovulation is *(2016)*
 
 Endometrial biopsy to detect ovulation is done on which day of the menstual cycle ?
 
@@ -2852,12 +1997,10 @@ Endometrial biopsy to detect ovulation is done on which day of the menstual cycl
 
 ---
 
-
 ---
 
 ---
-
-### Q152 — Godells sign is *(2016)*
+### Q112 — Godells sign is *(2016)*
 
 Godell's sign is ?
 
@@ -2874,12 +2017,10 @@ Godell's sign is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q153 — In fetus insulin production begin at *(2016)*
+### Q113 — In fetus insulin production begin at *(2016)*
 
 In fetus, insulin production begin at weeks of gestation -
 
@@ -2896,12 +2037,10 @@ In fetus, insulin production begin at weeks of gestation -
 
 ---
 
-
 ---
 
 ---
-
-### Q154 — Limb bud appear at what weeks *(2016)*
+### Q114 — Limb bud appear at what weeks *(2016)*
 
 Limb bud appear at what weeks of gestation?
 
@@ -2918,12 +2057,10 @@ Limb bud appear at what weeks of gestation?
 
 ---
 
-
 ---
 
 ---
-
-### Q155 — Features of non severemild pre ecampsia *(2016)*
+### Q115 — Features of non severemild pre ecampsia *(2016)*
 
 Features of non severe/mild pre ecampsia are all ecxept​ -
 
@@ -2940,12 +2077,10 @@ Features of non severe/mild pre ecampsia are all ecxept​ -
 
 ---
 
-
 ---
 
 ---
-
-### Q156 — FERNING is due to *(2016)*
+### Q116 — FERNING is due to *(2016)*
 
 FERNING is due to ?
 
@@ -2962,12 +2097,10 @@ FERNING is due to ?
 
 ---
 
-
 ---
 
 ---
-
-### Q157 — Abstinence period before semen analysis is *(2016)*
+### Q117 — Abstinence period before semen analysis is *(2016)*
 
 Abstinence period before semen analysis is ?
 
@@ -2984,12 +2117,10 @@ Abstinence period before semen analysis is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q158 — Engaging diameter in face presentation is *(2016)*
+### Q118 — Engaging diameter in face presentation is *(2016)*
 
 Engaging diameter in face presentation is -
 
@@ -3006,12 +2137,10 @@ Engaging diameter in face presentation is -
 
 ---
 
-
 ---
 
 ---
-
-### Q159 — Least likely to cause dysmenorrhea - *(2016)*
+### Q119 — Least likely to cause dysmenorrhea - *(2016)*
 
 Least likely to cause dysmenorrhea -
 
@@ -3028,12 +2157,10 @@ Least likely to cause dysmenorrhea -
 
 ---
 
-
 ---
 
 ---
-
-### Q160 — LH surge is due to *(2016)*
+### Q120 — LH surge is due to *(2016)*
 
 LH surge is due to ?
 
@@ -3050,12 +2177,10 @@ LH surge is due to ?
 
 ---
 
-
 ---
 
 ---
-
-### Q161 — Menopause is defined as *(2016)*
+### Q121 — Menopause is defined as *(2016)*
 
 Menopause is defined as ?
 
@@ -3072,12 +2197,10 @@ Menopause is defined as ?
 
 ---
 
-
 ---
 
 ---
-
-### Q162 — Propofol shows following effect on EEG *(2016)*
+### Q122 — Propofol shows following effect on EEG *(2016)*
 
 Propofol shows following effect on EEG?
 
@@ -3094,12 +2217,10 @@ Propofol shows following effect on EEG?
 
 ---
 
-
 ---
 
 ---
-
-### Q163 — Alcohol withdrawal is not associated with *(2016)*
+### Q123 — Alcohol withdrawal is not associated with *(2016)*
 
 Alcohol withdrawal is not associated with?
 
@@ -3116,12 +2237,10 @@ Alcohol withdrawal is not associated with?
 
 ---
 
-
 ---
 
 ---
-
-### Q164 — Personality type seen in schizophrenia is *(2016)*
+### Q124 — Personality type seen in schizophrenia is *(2016)*
 
 Personality type seen in schizophrenia is?
 
@@ -3138,12 +2257,10 @@ Personality type seen in schizophrenia is?
 
 ---
 
-
 ---
 
 ---
-
-### Q165 — Irresistible urge to drink alcohol is *(2016)*
+### Q125 — Irresistible urge to drink alcohol is *(2016)*
 
 Irresistible urge to drink alcohol is called?
 
@@ -3160,12 +2277,10 @@ Irresistible urge to drink alcohol is called?
 
 ---
 
-
 ---
 
 ---
-
-### Q166 — Generalized anxiety disorder is diagnosed when *(2016)*
+### Q126 — Generalized anxiety disorder is diagnosed when *(2016)*
 
 Generalized anxiety disorder is diagnosed when anxiety and worry continues for at least?
 
@@ -3182,12 +2297,10 @@ Generalized anxiety disorder is diagnosed when anxiety and worry continues for a
 
 ---
 
-
 ---
 
 ---
-
-### Q167 — important receptors involved with schizophrenia ar *(2016)*
+### Q127 — important receptors involved with schizophrenia ar *(2016)*
 
 Most important receptors involved with schizophrenia are?
 
@@ -3204,9 +2317,728 @@ Most important receptors involved with schizophrenia are?
 
 ---
 
+---
 
+---
+
+## Year 2017
+
+### Q128 — New name of mental retardation according *(2017)*
+
+New name of mental retardation according to American Association of Mental Retardation
+
+- A. Feeble Mindedness
+- B. Madness
+- C. Intellectual disability
+- D. Mentally unstable
+
+<details><summary>Answer</summary>
+
+**C. Intellectual disability**
+
+</details>
+
+---
+
+---
+### Q129 — Now-a-days Down syndrome Is referred to *(2017)*
+
+Now-a-days Down syndrome Is referred to as.
+
+- A. Submental disorder
+- B. Oligophrenia
+- C. Madness
+- D. Mentally unstable
+
+<details><summary>Answer</summary>
+
+**A. Submental disorder**
+
+</details>
+
+---
+
+---
+### Q130 — Trilene is degraded by *(2017)*
+
+Trilene is degraded by:
+
+- A. Enzymatic Degradation
+- B. Non Enzymatic degradation
+- C. Chemical Degradation
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Enzymatic Degradation**
+
+</details>
+
+---
+
+---
+### Q131 — The earliest feature of 3rd cranial *(2017)*
+
+The earliest feature of 3rd cranial nerve involvement in diabetes mellitus patient is
+
+- A. Normal light reflex
+- B. Abnormal light reflex
+- C. Normal light and accommodation reflex
+- D. Abnormal light and accommodation reflex
+
+<details><summary>Answer</summary>
+
+**A. Normal light reflex**
+
+</details>
+
+---
+
+---
+### Q132 — During squint surgery, anesthesiologist sees the *(2017)*
+
+During squint surgery, anesthesiologist sees the machine and see the bp suddenly drops to 40. What will be best immediate management
+
+- A. Give atropine
+- B. Increase level of anesthesia
+- C. Ask the surgeon to stop the surgery
+- D. Give adrenaline
+
+<details><summary>Answer</summary>
+
+**D. Give adrenaline**
+
+</details>
+
+---
+
+---
+### Q133 — All are special visceral efferent column *(2017)*
+
+All are special visceral efferent column except
+
+- A. Glossopharyngeal n
+- B. Nucleus ambiguus
+- C. vagus nerve
+- D. trigeminal nerve
+
+<details><summary>Answer</summary>
+
+**B. Nucleus ambiguus**
+
+</details>
+
+---
+
+---
+### Q134 — What is the Thinnest part of *(2017)*
+
+What is the Thinnest part of neuro-retinal rim according to ISNT rule?
+
+- A. Inferior
+- B. Superficial
+- C. Temporal
+- D. Medial
+
+<details><summary>Answer</summary>
+
+**C. Temporal**
+
+</details>
 
 ---
 
 ---
 
+## Year 2018
+
+### Q135 — Bragg peak effect pronounced in *(2018)*
+
+Bragg peak effect pronounced in
+
+- A. X ray
+- B. Proton
+- C. Neutron
+- D. Electron
+
+<details><summary>Answer</summary>
+
+**B. Proton**
+
+</details>
+
+---
+
+---
+### Q136 — Freuds theory of dream includes all *(2018)*
+
+Freud’s theory of dream includes all except
+
+- A. Displacement
+- B. Condensation
+- C. Symbolisation
+- D. Correlation
+
+<details><summary>Answer</summary>
+
+**D. Correlation**
+
+</details>
+
+---
+
+---
+### Q137 — A 55 years aged chronic alcoholic *(2018)*
+
+A 55 years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable diagnosis
+
+- A. Delirium tremens
+- B. Korsakoff psychosis
+- C. Post-Acute withdrawal syndrome
+- D. Discontinuation syndrome
+
+<details><summary>Answer</summary>
+
+**A. Delirium tremens**
+
+</details>
+
+---
+
+---
+### Q138 — Genital warts are caused by which *(2018)*
+
+Genital warts are caused by which virus
+
+- A. Herpes simplex
+- B. Human papilloma
+- C. Cytomegalovirus
+- D. Varicella zoster
+
+<details><summary>Answer</summary>
+
+**B. Human papilloma**
+
+</details>
+
+---
+
+---
+### Q139 — years aged chronic alcoholic male, presented *(2018)*
+
+years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable
+
+- A. Delirium tremens
+- B. Korsakoff psychosis
+- C. Post-Acute withdrawal syndrome
+- D. Discontinuation syndrome
+
+<details><summary>Answer</summary>
+
+**A. Delirium tremens**
+
+</details>
+
+---
+
+---
+
+## Year 2019
+
+### Q140 — Intense depression & misery without any *(2019)*
+
+Intense depression & misery without any cause is?
+
+- A. Melancholia
+- B. Major depressive disorder
+- C. Mania
+- D. Schizophrenia
+
+<details><summary>Answer</summary>
+
+**A. Melancholia**
+
+</details>
+
+---
+
+---
+
+## Year 2020
+
+### Q141 — Cocaine — formication
+
+Drug causing sensation of insects crawling under the skin?
+
+- A. Cannabis
+- B. Amphetamine
+- C. Alcohol
+- D. Cocaine
+
+<details><summary>Answer</summary>
+
+**D. Cocaine** — "Magnan's symptom" / formication. Also seen with chronic amphetamine use.
+</details>
+
+---
+### Q142 — Psychotic depression
+
+A 60-year-old widower with guilt delusions about wife's death.
+
+- A. Normal grief
+- B. Delusional disorder
+- C. Schizophrenia
+- D. Psychotic depression
+
+<details><summary>Answer</summary>
+
+**D. Psychotic depression** — Mood-congruent delusions (guilt, nihilism). Treat: antidepressant + antipsychotic; ECT if severe.
+</details>
+
+---
+
+---
+
+## Year 2021
+
+### Q143 — Countertransference
+
+A therapist's mixed conscious and unconscious feelings toward a patient.
+
+- A. Countertransference
+- B. Transference
+- C. Dissociation
+- D. Preoccupation
+
+<details><summary>Answer</summary>
+
+**A. Countertransference** — Therapist's feelings toward patient. (Transference = patient's feelings toward therapist.)
+</details>
+
+---
+### Q144 — Delirium tremens
+
+A patient 3 days post-alcohol cessation with disorientation, delusions, hallucinations.
+
+- A. Delirium tremens
+- B. Wernicke encephalopathy
+- C. Korsakoff psychosis
+- D. Alcohol-induced psychosis
+
+<details><summary>Answer</summary>
+
+**A. Delirium tremens** — Onset 48–96 h after cessation. Autonomic hyperactivity + visual hallucinations. Treat with benzodiazepines.
+</details>
+
+---
+
+---
+
+## Year 2022
+
+### Q145 — Binge–purge eating
+
+A 16-year-old girl with intense food cravings, eats large amounts, then self-induced vomiting.
+
+- A. Anorexia nervosa
+- B. Bulimia nervosa
+- C. Atypical depression
+- D. Binge eating disorder
+
+<details><summary>Answer</summary>
+
+**B. Bulimia nervosa** — Binge + inappropriate compensatory behaviour (purging). Russell's sign (knuckle calluses).
+</details>
+
+---
+### Q146 — Postpartum blues
+
+A woman 4 days postpartum with tearfulness, mood swings, occasional insomnia.
+
+- A. Postpartum depression
+- B. Postpartum blues
+- C. Postpartum psychosis
+- D. Postpartum anxiety
+
+<details><summary>Answer</summary>
+
+**B. Postpartum blues** — Self-limiting; resolves within 2 weeks.
+</details>
+
+---
+
+---
+### Q147 — A 16-year-old girl has intense cravings *(2022)*
+
+A 16-year-old girl has intense cravings for food. She eats large amounts of food, which is followed by self-induced vomiting. What is the probable diagnosis?
+
+- A. Anorexia nervosa
+- B. Bulimia nervosa
+- C. Atypical depression
+- D. Binge eating disorder
+
+<details><summary>Answer</summary>
+
+**B. Bulimia nervosa**
+
+</details>
+
+---
+
+---
+### Q148 — A woman, who is 4 days *(2022)*
+
+A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and occasional insomnia. What is the likely diagnosis?
+
+- A. Postpartum depression
+- B. Postpartum blues
+- C. Postpartum psychosis
+- D. Postpartum anxiety
+
+<details><summary>Answer</summary>
+
+**B. Postpartum blues**
+
+</details>
+
+---
+
+---
+
+## Year 2023
+
+### Q149 — Clozapine adverse effects
+
+Schizophrenic patient unresponsive to haloperidol and thioridazine; started on a new drug with excessive salivation, elevated glucose, hyperlipidaemia.
+
+- A. Ziprasidone
+- B. Risperidone
+- C. Clozapine
+- D. Aripiprazole
+
+<details><summary>Answer</summary>
+
+**C. Clozapine** — Used in treatment-resistant schizophrenia. Hypersalivation, metabolic syndrome, agranulocytosis (monitor WBC).
+</details>
+
+---
+### Q150 — A schizophrenic patient was prescribed drug *(2023)*
+
+A schizophrenic patient was prescribed drug A after he did not respond to haloperidol and thioridazine. He now presents with excessive salivation, an increase in blood glucose, and hyperlipidemia. What is drug A?
+
+- A. Ziprasidone
+- B. Risperidone
+- C. Clozapine
+- D. Aripiprazole
+
+<details><summary>Answer</summary>
+
+**C. Clozapine**
+
+</details>
+
+---
+
+---
+### Q151 — A 25-year-old female reported symptoms of *(2023)*
+
+A 25-year-old female reported symptoms of anxiety, palpitations, sweating, breathlessness, chest pain, and a feeling of impending doom. She recalls having experienced 5-6 similar episodes in the past 6 months, each episode lasting for about 20-30 minutes. What is the likely diagnosis?
+
+- A. Depression
+- B. Panic disorder
+- C. Generalized anxiety disorder
+- D. Phobia
+
+<details><summary>Answer</summary>
+
+**B. Panic disorder**
+
+</details>
+
+---
+
+---
+
+## Year 2024
+
+### Q152 — Opioid maintenance
+
+Drug used in the maintenance phase of opioid withdrawal?
+
+- A. Buprenorphine
+- B. Disulfiram
+- C. Butorphanol
+- D. Clonidine
+
+<details><summary>Answer</summary>
+
+**A. Buprenorphine** — Partial μ-agonist; long-acting; ceiling effect on respiratory depression. Methadone is alternative.
+</details>
+
+---
+### Q153 — Generalized anxiety disorder somatic symptoms
+
+A 45-year-old woman with long-standing "tense" feeling, upset stomach, diarrhoea, heartburn. Family members have similar symptoms. Most likely associated symptom?
+
+- A. Neologisms
+- B. Tingling at extremities
+- C. Hallucinations
+- D. Idea of reference
+
+<details><summary>Answer</summary>
+
+**B. Tingling at extremities** — GAD with autonomic hyperactivity → hyperventilation → paraesthesiae.
+</details>
+
+---
+
+---
+### Q154 — Which of the following is a *(2024)*
+
+Which of the following is a selective norepinephrine reuptake inhibitor used to manage ADHD?
+
+- A. Modafinil
+- B. Reboxetine
+- C. Guanfacine
+- D. Methylphenidate
+
+<details><summary>Answer</summary>
+
+**B. Reboxetine**
+
+</details>
+
+---
+
+---
+### Q155 — A mother brings her daughter to *(2024)*
+
+A mother brings her daughter to the emergency room after she ingested an unknown substance. The child presents with hypertension, tachycardia, hyperthermia, and mydriasis. Which of the following substances is most likely responsible for these symptoms?
+
+- A. Heroin
+- B. Morphine
+- C. Cocaine
+- D. Chlorpheniramine
+
+<details><summary>Answer</summary>
+
+**C. Cocaine**
+
+</details>
+
+---
+
+---
+### Q156 — A 30-year-old male presents as calm *(2024)*
+
+A 30-year-old male presents as calm and charming in front of a psychiatrist. However, he engages in aggressive behaviour towards friends, frequently skips classes, disregards traffic rules, and has been involved in a police interrogation. What is the most likely diagnosis?
+
+- A. Antisocial Personality Disorder
+- B. Narcissistic Personality Disorder
+- C. Schizotypal Personality Disorder
+- D. Paranoid Personality Disorder
+
+<details><summary>Answer</summary>
+
+**A. Antisocial Personality Disorder**
+
+</details>
+
+---
+
+---
+### Q157 — A 40-year-old woman has consulted multiple *(2024)*
+
+A 40-year-old woman has consulted multiple plastic surgeons to correct a perceived facial deformity. Despite reassurances from doctors and her family that no such defect exists, she remains convinced and frequently checks her appearance in the mirror. She insists on surgical intervention. What is the most appropriate management for her condition?
+
+- A. SSRI
+- B. Atypical antipsychotic
+- C. Insight therapy
+- D. SNRI
+
+<details><summary>Answer</summary>
+
+**A. SSRI**
+
+</details>
+
+---
+
+---
+### Q158 — Which drug is commonly used in *(2024)*
+
+Which drug is commonly used in the maintenance phase of opioid withdrawal?
+
+- A. Buprenorphine
+- B. Disulfiram
+- C. Butorphanol
+- D. Clonidine
+
+<details><summary>Answer</summary>
+
+**A. Buprenorphine**
+
+</details>
+
+---
+
+---
+### Q159 — A man experiences sexual arousal from *(2024)*
+
+A man experiences sexual arousal from wearing female undergarments and high heels during sexual activity with women, but he is not attracted to men. What is the most likely diagnosis?
+
+- A. Gender Dysphoria
+- B. Transvestic Fetishism
+- C. Hermaphroditism
+- D. Gay Identity Disorder
+
+<details><summary>Answer</summary>
+
+**B. Transvestic Fetishism**
+
+</details>
+
+---
+
+---
+### Q160 — A child presents to the OPD *(2024)*
+
+A child presents to the OPD with intracranial diffuse calcifications, chorioretinitis, and hydrocephalus. Which of the following is the most likely diagnosis?
+
+- A. Congenital Toxoplasmosis
+- B. Dandy-Walker Malformation
+- C. Budd-Chiari Syndrome
+- D. Congenital Hydrocephalus
+
+<details><summary>Answer</summary>
+
+**A. Congenital Toxoplasmosis**
+
+</details>
+
+---
+
+---
+### Q161 — A 45-year-old woman presents with a *(2024)*
+
+A 45-year-old woman presents with a long-standing history of “feeling tensed” along with an upset stomach, diarrhea, and heartburn. She mentions that her family members also experience similar symptoms. Which of the following symptoms is most likely to be observed in this patient?
+
+- A. Neologisms
+- B. Tingling at extremities
+- C. Hallucinations
+- D. Idea of reference
+
+<details><summary>Answer</summary>
+
+**B. Tingling at extremities**
+
+</details>
+
+---
+
+---
+
+## Year 2025
+
+### Q162 — Haloperidol, orofacial dyskinesia, choreiform movements
+
+Schizophrenia patient on haloperidol for 2 years develops orofacial dyskinesia and choreiform movements. Diagnosis and treatment?
+
+- A. Acute dystonia — Ropinirole
+- B. Tardive dyskinesia — Valbenazine
+- C. Akathisia — Propranolol
+- D. Oral tremor — Amantadine
+
+<details><summary>Answer</summary>
+
+**B. Tardive dyskinesia — Valbenazine** — Late-onset involuntary movements after prolonged antipsychotic use; VMAT2 inhibitors (valbenazine, deutetrabenazine) are FDA-approved for tardive dyskinesia.
+</details>
+
+---
+
+---
+### Q163 — Birds' flight patterns give instructions from God
+
+A patient believes birds' flight patterns give him instructions from God. Diagnosis?
+
+- A. Delusional perception
+- B. Visual hallucination
+- C. Delusional memory
+- D. Sudden delusional ideas
+
+<details><summary>Answer</summary>
+
+**A. Delusional perception** — A real perception (birds flying) is given a delusional meaning (instructions from God). A first-rank symptom of schizophrenia (Schneider).
+</details>
+
+---
+
+---
+### Q164 — Perfectionism, difficulty discarding items, ego-syntonic
+
+Mr. K requires everything in perfect order, struggles discarding items, affecting work quality; denies complaints (ego-syntonic). Diagnosis?
+
+- A. Narcissistic personality disorder
+- B. Obsessive-compulsive personality disorder
+- C. Paranoid delusion
+- D. Dependent personality disorder
+
+<details><summary>Answer</summary>
+
+**B. Obsessive-compulsive personality disorder** — OCPD: ego-syntonic perfectionism, rigidity, hoarding behaviour, orderliness. OCD (ego-dystonic intrusive thoughts with compulsions) is different.
+</details>
+
+---
+
+---
+### Q165 — Post-earthquake, travelled 110 km, unable to recall identity
+
+Post-earthquake, patient found 110 km from home, cannot recall identity, no substance abuse. Diagnosis?
+
+- A. Dissociative amnesia
+- B. Dissociative fugue
+- C. DID
+- D. Selective amnesia
+
+<details><summary>Answer</summary>
+
+**B. Dissociative fugue** — Purposeful travel away from home with inability to recall one's identity or past; associated with psychological trauma. Now classified as a specifier of dissociative amnesia in DSM-5.
+</details>
+
+---
+
+---
+### Q166 — Amnesia after father's RTA death, flashbacks for 2 weeks
+
+21-year-old female, amnesia after father's death in RTA, flashbacks for 2 weeks. Diagnosis?
+
+- A. Dissociative disorder
+- B. Major depression
+- C. PTSD
+- D. Acute stress disorder
+
+<details><summary>Answer</summary>
+
+**D. Acute stress disorder** — Duration < 4 weeks (≥ 3 days) after trauma with dissociative symptoms, flashbacks; PTSD is diagnosed if symptoms persist > 4 weeks.
+</details>
+
+---
+
+---
+### Q167 — Attacks coworker, hears voices, disorganized speech
+
+Person attacks coworker claiming plots against him, hears voices, displays disorganised speech. Next step?
+
+- A. Refer for anger management
+- B. Psychiatric assessment; evaluate fitness for trial
+- C. Not responsible due to mental illness
+- D. Immediate trial and punishment
+
+<details><summary>Answer</summary>
+
+**B. Psychiatric assessment; evaluate fitness for trial** — Psychosis with command hallucinations and violence: immediate psychiatric evaluation to assess fitness to stand trial (cognitive capacity) and criminal responsibility (insanity defence).
+</details>
+
+---
+
+---

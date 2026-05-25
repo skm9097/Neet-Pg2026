@@ -837,1981 +837,9 @@ Fish odor syndrome is caused by deficiency of which enzyme
 
 ---
 
-## Year 2018
-
-### Q51 — In Cystinuria all of the following *(2018)*
-
-In Cystinuria all of the following aminoacids reabsorption defect is present, except
-
-- A. Lysine
-- B. Citrulline
-- C. Arginine
-- D. Ornithine
-
-<details><summary>Answer</summary>
-
-**B. Citrulline**
-
-</details>
-
----
-
----
-
-### Q52 — Phenylketonuria is due to deficiency of *(2018)*
-
-Phenylketonuria is due to deficiency of
-
-- A. Phenylalanine
-- B. Phenylalanine hydroxylase ( PAH)
-- C. Phenylene
-- D. All of these
-
-<details><summary>Answer</summary>
-
-**B. Phenylalanine hydroxylase ( PAH)**
-
-</details>
-
----
-
----
-
-### Q53 — Which one of the following shows *(2018)*
-
-Which one of the following shows allosteric inhibition
-
-- A. Malonic acid & succinate
-- B. 2,3 BPG
-- C. Amino acid alanine & pyruvate kinase
-- D. Citrate
-
-<details><summary>Answer</summary>
-
-**B. 2,3 BPG**
-
-</details>
-
----
-
----
-
-
-## Year 2019
-
-### Q54 — Zellweger syndrome — VLCFA
-
-Infant with hypotonia/seizures; cerebrohepatorenal syndrome. What accumulates in brain?
-
-- A. Glucose
-- B. Long-chain fatty acid (VLCFA)
-- C. Lactic acid
-- D. Triglycerides
-
-<details><summary>Answer</summary>
-
-**B. VLCFA** — Zellweger syndrome = peroxisomal biogenesis defect (PEX genes).
-</details>
-
----
-
-### Q55 — Achondroplasia inheritance
-
-Which follows autosomal dominant inheritance?
-
-- A. Cystic fibrosis
-- B. Duchenne MD
-- C. Sickle cell anaemia
-- D. Achondroplasia
-
-<details><summary>Answer</summary>
-
-**D. Achondroplasia** — FGFR3 gain-of-function mutation.
-</details>
-
----
-
----
-
-### Q56 — Menkes disease is associated with which *(2019)*
-
-Menkes disease is associated with which enzyme deficiency.
-
-- A. lysyl oxidase
-- B. Methionine synthase
-- C. Glutamyl aminopeptidase
-- D. Lysyl hydroxylase
-
-<details><summary>Answer</summary>
-
-**A. lysyl oxidase**
-
-</details>
-
----
-
----
-
-### Q57 — type of cholesterol present in gallstones *(2019)*
-
-type of cholesterol present in gallstones?
-
-- A. Amorphous cholesterol monohydrate.
-- B. Amorphous cholesterol dihydrate.
-- C. Crystalline Cholesterol dihydrate.
-- D. Crystalline cholesterol monohydrate.
-
-<details><summary>Answer</summary>
-
-**D. Crystalline cholesterol monohydrate.**
-
-</details>
-
----
-
----
-
-### Q58 — In Krebs cycle and Urea cycle *(2019)*
-
-In Kreb’s cycle and Urea cycle the linking amino acid is
-
-- A. Fumarate
-- B. Alanine
-- C. Arginine
-- D. Aspartate
-
-<details><summary>Answer</summary>
-
-**D. Aspartate**
-
-</details>
-
----
-
----
-
-### Q59 — Mechanism of action of Oseltamivir *(2019)*
-
-Mechanism of action of Oseltamivir?
-
-- A. Protein synthesis inhibitor
-- B. Thymidylate synthetase inhibitor
-- C. Neuraminidase inhibitor
-- D. Pyrimidine analogs.
-
-<details><summary>Answer</summary>
-
-**C. Neuraminidase inhibitor**
-
-</details>
-
----
-
----
-
-### Q60 — Identify the condition as shown *(2019)*
-
-Identify the condition as shown:
-
-- A. Brodie abscess
-- B. Osteoid osteoma
-- C. Intracortical hemangioma
-- D. Chondromyxoid fibroma
-
-<details><summary>Answer</summary>
-
-**A. Brodie abscess**
-
-</details>
-
----
-
----
-
-### Q61 — Identify the triangle in the image *(2019)*
-
-Identify the triangle in the image below-
-
-- A. Koch’s triangle
-- B. Gastrinoma triangle
-- C. Hesselbach’s triangle
-- D. Sherren’s triangle
-
-<details><summary>Answer</summary>
-
-**B. Gastrinoma triangle**
-
-</details>
-
----
-
----
-
-### Q62 — Identify the instrument- *(2019)*
-
-Identify the instrument-
-
-- A. Blade no. 15
-- B. Blade no. 10
-- C. Blade no. 11
-- D. Blade 12
-
-<details><summary>Answer</summary>
-
-**C. Blade no. 11**
-
-</details>
-
----
-
----
-
-### Q63 — Identify the type of knot in *(2019)*
-
-Identify the type of knot in the image-
-
-- A. Granny knot
-- B. Surgeon’s knot
-- C. Reef knot
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Granny knot**
-
-</details>
-
----
-
----
-
-### Q64 — Identify the condition in the ECG *(2019)*
-
-Identify the condition in the ECG?
-
-- A. Atrial fibrillation
-- B. Arrhythmia
-- C. Atrial flutter
-- D. Cardiomyopathy
-
-<details><summary>Answer</summary>
-
-**C. Atrial flutter**
-
-</details>
-
----
-
----
-
-### Q65 — Identify the image with the diagnosis *(2019)*
-
-Identify the image with the diagnosis?
-
-- A. VT
-- B. PSVT
-- C. AT
-- D. Ventricular fibrillation
-
-<details><summary>Answer</summary>
-
-**B. PSVT**
-
-</details>
-
----
-
----
-
-### Q66 — Name the manoeuvre shown in the *(2019)*
-
-Name the manoeuvre shown in the image:
-
-- A. Brandt daroff
-- B. Epley
-- C. Foster
-- D. Semont
-
-<details><summary>Answer</summary>
-
-**B. Epley**
-
-</details>
-
----
-
----
-
-### Q67 — Identify the image *(2019)*
-
-Identify the image
-
-- A. Malaria
-- B. Plague
-- C. Japanese encephalitis
-- D. Paragonimus
-
-<details><summary>Answer</summary>
-
-**C. Japanese encephalitis**
-
-</details>
-
----
-
----
-
-### Q68 — What is the cause of death *(2019)*
-
-What is the cause of death according to the below death certificate
-
-- A. Breast Cancer
-- B. Secondaries
-- C. Cerebral Hemorrhage
-- D. All of the Above
-
-<details><summary>Answer</summary>
-
-**D. All of the Above**
-
-</details>
-
----
-
----
-
-### Q69 — Identify the blood grouping process done *(2019)*
-
-Identify the blood grouping process done here. Slide given with: AB no clumps, Clumping in O & No clumps in control.
-
-- A. A-ve
-- B. B+ve
-- C. O+ve
-- D. Rh group
-
-<details><summary>Answer</summary>
-
-**D. Rh group**
-
-</details>
-
----
-
----
-
-### Q70 — Identify the type of the fibre *(2019)*
-
-Identify the type of the fibre marked in the image of internal capsule:
-
-- A. Projection fibres
-- B. Short association fibres
-- C. Long association fibres
-- D. Commissural fibres
-
-<details><summary>Answer</summary>
-
-**A. Projection fibres**
-
-</details>
-
----
-
----
-
-### Q71 — Identify the marked structure in the *(2019)*
-
-Identify the marked structure in the image:
-
-- A. Cerebrum
-- B. Brain stem
-- C. Corpus callosum
-- D. Cerebellum
-
-<details><summary>Answer</summary>
-
-**D. Cerebellum**
-
-</details>
-
----
-
----
-
-### Q72 — Nerve injured in Freys syndrome is *(2019)*
-
-Nerve injured in Frey’s syndrome is:
-
-- A. Auriculotemporal Nerve
-- B. Great auricular nerve
-- C. Lingual Nerve
-- D. Inferior alveolar nerve
-
-<details><summary>Answer</summary>
-
-**A. Auriculotemporal Nerve**
-
-</details>
-
----
-
----
-
-### Q73 — Identify the marked muscle A in *(2019)*
-
-Identify the marked muscle ‘A’ in the diagram:
-
-- A. Brachioradialis
-- B. Extensor carpi radialis longus
-- C. Flexor carpi radialis
-- D. Extensor carpi ulnaris
-
-<details><summary>Answer</summary>
-
-**B. Extensor carpi radialis longus**
-
-</details>
-
----
-
----
-
-### Q74 — Which of the following nail findings *(2019)*
-
-Which of the following nail findings is seen in the condition shown below?
-
-- A. Pterygium
-- B. Pigmentation
-- C. Pitting
-- D. Ridges
-
-<details><summary>Answer</summary>
-
-**C. Pitting**
-
-</details>
-
----
-
----
-
-### Q75 — A 25 year old alcoholic presented with *(2019)*
-
-A 25 year old alcoholic presented with edema,hypertension, ocular disturbance,and changes in mental state was observed, diagnosis of high output cardiac failure was made with Wet Beri Beri, this is due to deficiency of?
-
-- A. Vit B3
-- B. Vit B6
-- C. Vit B9
-- D. Vit B1
-
-<details><summary>Answer</summary>
-
-**D. Vit B1**
-
-</details>
-
----
-
----
-
-### Q76 — Type of necrosis seen in blood vessels *(2019)*
-
-Type of necrosis seen in blood vessels due to immune reactionsa) Coagulation b) Liquefaction c) Fibrinoid d) None
-
-- A. Chylomicron
-- B. LDL
-- C. HDL
-- D. Apo-A
-
-<details><summary>Answer</summary>
-
-**A. Chylomicron**
-
-</details>
-
----
-
----
-
-### Q77 — In Wilsons disease, there is less urinary *(2019)*
-
-In Wilson's disease, there is less urinary excretion of:
-
-- A. Phosphorus
-- B. Methyl-Histidine
-- C. Phosphotyrosine
-- D. Serine
-
-<details><summary>Answer</summary>
-
-**B. Methyl-Histidine**
-
-</details>
-
----
-
----
-
-### Q78 — Krabbes disease is *(2019)*
-
-Krabbe's disease is:
-
-- A. Deficiency of Beta-galactosylceramidase
-- B. Deficiency of aryl sulphatase
-- C. Alpha galactosidase deficiency
-- D. Acid lipase deficiency
-
-<details><summary>Answer</summary>
-
-**A. Deficiency of Beta-galactosylceramidase**
-
-</details>
-
----
-
----
-
-
-## Year 2020
-
-### Q79 — Proteasome function
-
-Function of the proteasome?
-
-- A. Protein folding
-- B. Post-translational modification
-- C. Protein sorting
-- D. Protein degradation
-
-<details><summary>Answer</summary>
-
-**D. Protein degradation** — Ubiquitin-tagged proteins are degraded by the 26S proteasome.
-</details>
-
----
-
-### Q80 — Tryptophan at 280 nm
-
-Amino acid replacement that increases UV absorbance at 280 nm?
-
-- A. Leucine
-- B. Proline
-- C. Arginine
-- D. Tryptophan
-
-<details><summary>Answer</summary>
-
-**D. Tryptophan** — Aromatic AAs absorb at 280 nm (W > Y > F). Used to quantify protein.
-</details>
-
----
-
----
-
-### Q81 — Which of the following drugs act *(2020)*
-
-Which of the following drugs act by inhibiting DNA replication?
-
-- A. 6 Mercaptopurine
-- B. Actinomycin D
-- C. Mitomycin C
-- D. Asparaginase
-
-<details><summary>Answer</summary>
-
-**A. 6 Mercaptopurine**
-
-</details>
-
----
-
----
-
-### Q82 — year old person presented with 108 *(2020)*
-
-year old person presented with 10*8 swelling in a retroperitoneal,biopsy from the lesion is as shown below. Molecular analysis demonstrated t(12,16). A most
-
-- A. Myxoid liposarcoma
-- B. Lipoma
-- C. Synovial sarcoma
-- D. Pleomorphic sarcoma
-
-<details><summary>Answer</summary>
-
-**A. Myxoid liposarcoma**
-
-</details>
-
----
-
----
-
-### Q83 — Graph showing three drugs A, B *(2020)*
-
-Graph showing three drugs A, B & C. Which of the following drugs shown in the graph below has the highest potency?
-
-- A. Drug A
-- B. Drug B
-- C. Drug C
-- D. Both Drug A & B
-
-<details><summary>Answer</summary>
-
-**A. Drug A**
-
-</details>
-
----
-
----
-
-### Q84 — In the following X-ray of the *(2020)*
-
-In the following X-ray of the wrist, what is the exact age-
-
-- A. 2 yrs
-- B. 8yrs
-- C. 6yrs
-- D. 9 yrs
-
-<details><summary>Answer</summary>
-
-**C. 6yrs**
-
-</details>
-
----
-
----
-
-### Q85 — Identify the following Image *(2020)*
-
-Identify the following Image
-
-- A. Neisseria meningitidis
-- B. Neisseria cinerea
-- C. Neisseria gonorrhoeae
-- D. Neisseria polysaccharea
-
-<details><summary>Answer</summary>
-
-**A. Neisseria meningitidis**
-
-</details>
-
----
-
----
-
-### Q86 — Immunoglobulin Image shown below is of- *(2020)*
-
-Immunoglobulin Image shown below is of-
-
-- A. IgA
-- B. IgG
-- C. IgM
-- D. IgE
-
-<details><summary>Answer</summary>
-
-**A. IgA**
-
-</details>
-
----
-
----
-
-### Q87 — Battle sign image Bluish Purple colour *(2020)*
-
-Battle sign image Bluish Purple colour behind mastoid?
-
-- A. Battle sign
-- B. Bezold abscess
-- C. Both A and B
-- D. None of these
-
-<details><summary>Answer</summary>
-
-**A. Battle sign**
-
-</details>
-
----
-
----
-
-### Q88 — Identify the condition given below in *(2020)*
-
-Identify the condition given below in the image
-
-- A. Peutz jeghers
-- B. Juvenile polyp
-- C. Villous adenoma
-- D. Hyperplastic polyp
-
-<details><summary>Answer</summary>
-
-**B. Juvenile polyp**
-
-</details>
-
----
-
----
-
-### Q89 — Identify the condition given below- *(2020)*
-
-Identify the condition given below-
-
-- A. MCU with Bulbar urethral stricture
-- B. MCU with penile stricture
-- C. RGU with membranous stricture
-- D. RGU with prostatic stricture
-
-<details><summary>Answer</summary>
-
-**A. MCU with Bulbar urethral stricture**
-
-</details>
-
----
-
----
-
-### Q90 — Identify the imagebelow *(2020)*
-
-Identify the imagebelow:
-
-- A. Female condom
-- B. Male condom
-- C. Chaaya
-- D. Today
-
-<details><summary>Answer</summary>
-
-**A. Female condom**
-
-</details>
-
----
-
----
-
-### Q91 — What is the most likely diagnosis *(2020)*
-
-What is the most likely diagnosis given in the image -
-
-- A. Popeye's sign
-- B. Griesinger sign
-- C. Rising sun sign
-- D. Winner sign
-
-<details><summary>Answer</summary>
-
-**A. Popeye's sign**
-
-</details>
-
----
-
----
-
-### Q92 — The shown angle in the image *(2020)*
-
-The shown angle in the image is known as
-
-- A. Cobb's angle
-- B. Bohler's angle
-- C. Ferguson angle
-- D. Baumann's angle
-
-<details><summary>Answer</summary>
-
-**A. Cobb's angle**
-
-</details>
-
----
-
----
-
-### Q93 — Which of the following does the *(2020)*
-
-Which of the following does the image of Capnograph below depicts?
-
-- A. During inspiration
-- B. Inspiration with cardiac oscillations
-- C. During expiration
-- D. spontaneous respiration
-
-<details><summary>Answer</summary>
-
-**D. spontaneous respiration**
-
-</details>
-
----
-
----
-
-### Q94 — Identify the condition in the X-ray *(2020)*
-
-Identify the condition in the X-ray given below-
-
-- A. TGA
-- B. TAPVC
-- C. TOF
-- D. Ebstein's anomaly
-
-<details><summary>Answer</summary>
-
-**C. TOF**
-
-</details>
-
----
-
----
-
-### Q95 — A chest radiograph obtained a male *(2020)*
-
-A chest radiograph obtained a male with hypertension. What will be the diagnosis?
-
-- A. Tetralogy of Fallot
-- B. Ebstein's Anomaly
-- C. TAPVC
-- D. Coarctation of Aorta
-
-<details><summary>Answer</summary>
-
-**D. Coarctation of Aorta**
-
-</details>
-
----
-
----
-
-### Q96 — A middle-aged man with a swelling *(2020)*
-
-A middle-aged man with a swelling over the neck since childhood with the overlying skin not intact which had a bag or worm-like appearance with a black
-
-- A. Cirsoid aneurysm
-- B. Varicocele
-- C. Plexiform neurofibroma
-- D. Lymphangioma
-
-<details><summary>Answer</summary>
-
-**C. Plexiform neurofibroma**
-
-</details>
-
----
-
----
-
-### Q97 — Name the sign seen in the *(2020)*
-
-Name the sign seen in the given below image represents-
-
-- A. Mickey mouse sign
-- B. String sign
-- C. Tillaux sign
-- D. Stemmer's sign
-
-<details><summary>Answer</summary>
-
-**A. Mickey mouse sign**
-
-</details>
-
----
-
----
-
-
-## Year 2021
-
-### Q98 — Gaucher disease
-
-A 5-year-old with fatigue, irritability, hepatosplenomegaly. Enzyme?
-
-- A. Hexosaminidase
-- B. Glucocerebrosidase
-- C. Sphingomyelinase
-- D. N-acetylglucosaminidase
-
-<details><summary>Answer</summary>
-
-**B. Glucocerebrosidase** — Gaucher disease. Crumpled-paper macrophages on biopsy.
-</details>
-
----
-
-### Q99 — Oligomycin in oxidative phosphorylation
-
-Mitochondrial respiration with substrates added. Drug blocking ATP synthase?
-
-- A. Rotenone
-- B. Antimycin A
-- C. Oligomycin
-- D. 2,4-DNP
-
-<details><summary>Answer</summary>
-
-**C. Oligomycin** — Inhibits F0 subunit of ATP synthase. Rotenone: Complex I; Antimycin: Complex III; DNP: uncoupler.
-</details>
-
----
-
----
-
-### Q100 — Brain fuel during prolonged starvation
-
-Primary brain energy source during 5-day starvation?
-
-- A. Glycogenolysis
-- B. Gluconeogenesis
-- C. Ketogenesis
-- D. Lipolysis
-
-<details><summary>Answer</summary>
-
-**C. Ketogenesis** — After 3–5 days of starvation, ketone bodies (acetoacetate, β-hydroxybutyrate) become the predominant brain fuel, replacing glucose and sparing muscle protein.
-
-</details>
-
----
-
-### Q101 — Alpha-L-iduronidase deficiency
-
-Alpha-L-iduronidase deficiency (Hurler/Scheie syndrome) — accumulated substance?
-
-- A. Dermatan sulfate and heparan sulfate
-- B. Dermatan sulfate only
-- C. Keratan sulfate and chondroitin sulfate
-- D. Sphingolipids
-
-<details><summary>Answer</summary>
-
-**A. Dermatan sulfate and heparan sulfate** — Hurler syndrome (MPS I): alpha-L-iduronidase deficiency → accumulation of both dermatan and heparan sulfate → gargoylism, corneal clouding, intellectual disability.
-
-</details>
-
----
-
-### Q102 — Xeroderma pigmentosum — DNA repair
-
-Multiple freckles, hyperpigmentation, basal cell carcinomas — defective DNA repair?
-
-- A. Base excision repair
-- B. Nucleotide excision repair
-- C. DNA mismatch repair
-- D. Double-strand break repair
-
-<details><summary>Answer</summary>
-
-**B. Nucleotide excision repair** — XP is caused by defective NER, which normally removes bulky adducts and UV-induced pyrimidine dimers. Leads to sun-sensitive skin cancers.
-
-</details>
-
----
-
-### Q103 — ADA deficiency — immunodeficiency
-
-Oral lesions, recurrent respiratory infections, absent B/T/NK cells, low adenosine deaminase — diagnosis?
-
-- A. X-linked agammaglobulinemia
-- B. Alpha-1 antitrypsin deficiency
-- C. DiGeorge syndrome
-- D. SCID (ADA deficiency)
-
-<details><summary>Answer</summary>
-
-**D. SCID (ADA deficiency)** — Adenosine deaminase deficiency → toxic dATP accumulation → lymphocyte apoptosis → complete absence of T, B, NK cells. AR inheritance.
-
-</details>
-
----
-
-### Q104 — Frameshift mutation — protein consequence
-
-Frameshift mutation at position 4 in a 900-nucleotide mRNA — consequence?
-
-- A. No biological change
-- B. Partial protein product
-- C. Complete loss of functional protein
-- D. Post-translational removal of affected segment
-
-<details><summary>Answer</summary>
-
-**C. Complete loss of functional protein** — Early frameshift (position 4) shifts reading frame throughout the rest of mRNA → premature stop codon → non-functional truncated protein.
-
-</details>
-
----
-
-### Q105 — Ileal resection — anemia type
-
-Post-ileal resection, anemia, RBC 2.8 M, serum iron 164 µg/dL — diagnosis?
-
-- A. Iron deficiency anemia
-- B. Megaloblastic anemia
-- C. Aplastic anemia
-- D. Hemolytic anemia
-
-<details><summary>Answer</summary>
-
-**B. Megaloblastic anemia** — Terminal ileum resection causes B12 malabsorption (intrinsic factor–B12 complex absorbed in terminal ileum). High serum iron rules out iron deficiency.
-
-</details>
-
----
-
-### Q106 — Hyperchloremic acidosis — IV fluid
-
-Large volume infusion causing hyperchloremic metabolic acidosis?
-
-- A. DNS (dextrose normal saline)
-- B. Normal saline (0.9% NaCl)
-- C. 5% dextrose
-- D. Ringer's lactate
-
-<details><summary>Answer</summary>
-
-**B. Normal saline** — Contains 154 mEq/L Cl⁻ (supra-physiological); dilutional acidosis + hyperchloremia. Balanced crystalloids (RL, PlasmaLyte) preferred for large-volume resuscitation.
-
-</details>
-
----
-
-### Q107 — Elevated phenylalanine with normal PAH
-
-Elevated phenylalanine but normal phenylalanine hydroxylase enzyme — deficient cofactor?
-
-- A. Biopterin (BH4)
-- B. Pyridoxal phosphate
-- C. Adenosylcobalamin
-- D. Dihydrofolic acid
-
-<details><summary>Answer</summary>
-
-**A. Biopterin (BH4)** — PAH requires tetrahydrobiopterin as cofactor. BH4 deficiency → hyperphenylalaninemia despite normal PAH. Treated with BH4 supplementation, not phenylalanine restriction alone.
-
-</details>
-
----
-
-### Q108 — Familial hypercholesterolemia — type
-
-Xanthoma, cholesterol 480 mg/dL, LDL 300, strong family history — hyperlipoproteinemia type?
-
-- A. Type I
-- B. Type IIa
-- C. Type IIb
-- D. Type III
-
-<details><summary>Answer</summary>
-
-**B. Type IIa (familial hypercholesterolemia)** — Elevated LDL only; LDLR mutation; tendinous xanthomas; severe premature atherosclerosis. Statin + ezetimibe ± PCSK9 inhibitor.
-
-</details>
-
----
-
-### Q109 — Scurvy — defective enzyme
-
-Bone fractures, perifollicular hemorrhages, lusterless corkscrew hair — affected enzyme?
-
-- A. Prolyl hydroxylase
-- B. ALA synthase
-- C. Glutathione peroxidase
-- D. Dihydrofolate reductase
-
-<details><summary>Answer</summary>
-
-**A. Prolyl hydroxylase** — Requires vitamin C as cofactor; hydroxylates proline residues in procollagen → essential for triple-helix stability. Scurvy = defective collagen synthesis.
-
-</details>
-
----
-
-### Q110 — Tay-Sachs disease
-
-Developmental delay, seizures, cherry-red spot, hexosaminidase A deficiency — accumulated substance?
-
-- A. GM1 ganglioside
-- B. GM2 ganglioside
-- C. Galactocerebroside
-- D. Sphingomyelin
-
-<details><summary>Answer</summary>
-
-**B. GM2 ganglioside** — Tay-Sachs: HexA deficiency → GM2 accumulation in neurons. Cherry-red spot = normal macula surrounded by lipid-laden retinal ganglion cells. No bone marrow involvement (unlike Gaucher).
-
-</details>
-
----
-
-### Q111 — Tangier disease
-
-Orange tonsils, cholesterol 80, triglycerides 146, HDL <5 — diagnosis?
-
-- A. Niemann-Pick disease
-- B. Tangier disease
-- C. Familial abetalipoproteinemia
-- D. Familial hyperlipoproteinemia type I
-
-<details><summary>Answer</summary>
-
-**B. Tangier disease** — ABCA1 transporter mutation → impaired cellular cholesterol efflux → cholesterol ester accumulation in RES → orange tonsils, hepatosplenomegaly, near-zero HDL.
-
-</details>
-
----
-
-### Q112 — Elevated homocysteine/MMA — deficiency
-
-Ataxia, anemia, neuropathy with elevated homocysteine AND methylmalonic acid — deficient amino acid precursor?
-
-- A. Tyrosine
-- B. Glutamine
-- C. Cysteine
-- D. Methionine
-
-<details><summary>Answer</summary>
-
-**D. Methionine** — B12 deficiency impairs methionine synthase (homocysteine → methionine) AND methylmalonyl-CoA mutase (requires adenosylB12). Both methylmalonic acid and homocysteine rise.
-
-</details>
-
----
-
-### Q113 — Wet beri-beri / Wernicke — deficiency
-
-Heart failure, nystagmus, peripheral neuropathy without alcohol history — deficiency?
-
-- A. Thiamine (B1)
-- B. Selenium
-- C. Zinc
-- D. Vitamin B12
-
-<details><summary>Answer</summary>
-
-**A. Thiamine (B1)** — Wernicke's encephalopathy (nystagmus, ataxia, confusion) + wet beri-beri (high-output cardiac failure). Both from thiamine deficiency; not exclusive to alcohol.
-
-</details>
-
----
-
----
-
-
-## Year 2022
-
-### Q114 — Primaquine-induced haemolysis
-
-Mediterranean patient develops haemolytic anaemia after primaquine. Affected pathway?
-
-- A. Glycolysis
-- B. Gluconeogenesis
-- C. Hexose monophosphate pathway
-- D. Luebering–Rapoport
-
-<details><summary>Answer</summary>
-
-**C. Hexose monophosphate pathway** — G6PD deficiency → NADPH ↓ → glutathione cannot be reduced → oxidative haemolysis.
-</details>
-
----
-
-### Q115 — Autosomal recessive disorder
-
-Which is autosomal recessive?
-
-- A. Huntington's
-- B. Treacher Collins
-- C. Cystic fibrosis
-- D. Achondroplasia
-
-<details><summary>Answer</summary>
-
-**C. Cystic fibrosis** — CFTR gene mutation. Huntington, Treacher Collins, Achondroplasia are autosomal dominant.
-</details>
-
----
-
----
-
-### Q116 — A patient from a Mediterranean country *(2022)*
-
-A patient from a Mediterranean country visits Africa, where he develops malaria. He is treated with primaquine and later develops hemolytic anemia. Deficiency of an enzyme involved in which of the following pathways could be the cause?
-
-- A. Glycolysis
-- B. Gluconeogenesis
-- C. Hexose monophosphate (HMP) pathway
-- D. Luebering-Rapoport pathway
-
-<details><summary>Answer</summary>
-
-**C. Hexose monophosphate (HMP) pathway**
-
-</details>
-
----
-
----
-
-### Q117 — Which of the following disorders follows *(2022)*
-
-Which of the following disorders follows autosomal recessive inheritance pattern?
-
-- A. Huntington’s disease
-- B. Treacher collins syndrome
-- C. Cystic fibrosis
-- D. Achondroplasia
-
-<details><summary>Answer</summary>
-
-**C. Cystic fibrosis**
-
-</details>
-
----
-
----
-
-### Q118 — Which of the following helps in *(2022)*
-
-Which of the following helps in the transport of fatty acids across the inner mitochondrial membrane?
-
-- A. Acyl carrier protein
-- B. Carnitine
-- C. Lecithin-cholesterol acyltransferase
-- D. Carnitine and albumin
-
-<details><summary>Answer</summary>
-
-**B. Carnitine**
-
-</details>
-
----
-
----
-
-### Q119 — A single mutation in a nucleotide *(2022)*
-
-A single mutation in a nucleotide base pair resulting in a termination codon is known as ________?
-
-- A. Missense mutation
-- B. Nonsense mutation
-- C. Stop mutation
-- D. Silent mutation
-
-<details><summary>Answer</summary>
-
-**B. Nonsense mutation**
-
-</details>
-
----
-
----
-
-### Q120 — DNA packing is done by which *(2022)*
-
-DNA packing is done by which of the following?
-
-- A. Histone
-- B. Glycoprotein
-- C. Nucleic acid
-- D. Adenine
-
-<details><summary>Answer</summary>
-
-**A. Histone**
-
-</details>
-
----
-
----
-
-### Q121 — An adolescent male patient presents to *(2022)*
-
-An adolescent male patient presents to you with exercise intolerance. He gives a history of developing cramps on exertion. Which of the following enzyme deficiencies could be the cause?
-
-- A. Myophosphorylase
-- B. Hexokinase
-- C. Glucose-6-phosphatase
-- D. Hepatic glycogen phosphorylase
-
-<details><summary>Answer</summary>
-
-**A. Myophosphorylase**
-
-</details>
-
----
-
----
-
-### Q122 — Which of the following enzyme activities *(2022)*
-
-Which of the following enzyme activities can be estimated in red blood cells to diagnose vitamin B2 deficiency?
-
-- A. Transketolase
-- B. Glutathione reductase
-- C. Kynureninase
-- D. Pyruvate dehydrogenase
-
-<details><summary>Answer</summary>
-
-**B. Glutathione reductase**
-
-</details>
-
----
-
----
-
-### Q123 — The following is due to the *(2022)*
-
-The following is due to the deficiency of?
-
-- A. Vitamin C
-- B. Vitamin A
-- C. Vitamin B
-- D. Vitamin E
-
-<details><summary>Answer</summary>
-
-**B. Vitamin A**
-
-</details>
-
----
-
----
-
-### Q124 — A child presents to you with *(2022)*
-
-A child presents to you with anemia, thrombocytopenia, and bony pain. On examination, hepatosplenomegaly was noticed. If light microscopy of bone marrow aspirate reveals “crumpled tissue paper” appearance, what is the enzyme defect?
-
-- A. Glucocerebrosidase
-- B. Sphingomyelinase
-- C. Hexosaminidase
-- D. Glucose6-phosphatase
-
-<details><summary>Answer</summary>
-
-**A. Glucocerebrosidase**
-
-</details>
-
----
-
----
-
-### Q125 — The electron transport chain is a *(2022)*
-
-The electron transport chain is a series of redox reactions that result in ATP synthesis. Which of the following is a cytochrome complex IV inhibitor?
-
-- A. Cyanide
-- B. Carbon dioxide
-- C. Oligomycin
-- D. Ouabain
-
-<details><summary>Answer</summary>
-
-**A. Cyanide**
-
-</details>
-
----
-
----
-
-
-## Year 2023
-
-### Q126 — Pellagra
-
-Patient with diarrhoea, dermatitis, dementia.
-
-- A. B3 (niacin) deficiency
-- B. B1 deficiency
-- C. B6 deficiency
-- D. B12 deficiency
-
-<details><summary>Answer</summary>
-
-**A. B3 deficiency (pellagra)** — Classic 3 D's. Casal's necklace (photosensitive dermatitis around neck).
-</details>
-
----
-
-### Q127 — Hypoglycaemia + muscle cramps
-
-A young boy with hypoglycaemia and muscle cramps on exertion; decreased serum lactate and glucose.
-
-- A. McArdle disease
-- B. Hers disease
-- C. Cori disease
-- D. Andersen disease
-
-<details><summary>Answer</summary>
-
-**A. McArdle disease** — Myophosphorylase deficiency (GSD V). Failure of lactate rise on exercise (second-wind phenomenon).
-</details>
-
----
-
----
-
-### Q128 — Which of the following clotting factors *(2023)*
-
-Which of the following clotting factors is needed for gamma-glutamyl carboxylase?
-
-- A. Factors II, VIII, IX, X
-- B. Factors II, VII, IX, and X
-- C. Factors II, VII, IX, XI
-- D. Factors II, VIII, X, XI
-
-<details><summary>Answer</summary>
-
-**B. Factors II, VII, IX, and X**
-
-</details>
-
----
-
----
-
-### Q129 — A patient presented with diarrhea, dermatitis, *(2023)*
-
-A patient presented with diarrhea, dermatitis, and dementia. Which of the following vitamin deficiencies would you suspect in this patient?
-
-- A. Vitamin B3 deficiency
-- B. Vitamin B1 deficiency
-- C. Vitamin B6 deficiency
-- D. Vitamin B12 deficiency
-
-<details><summary>Answer</summary>
-
-**A. Vitamin B3 deficiency**
-
-</details>
-
----
-
----
-
-### Q130 — A young boy presents to the *(2023)*
-
-A young boy presents to the OPD with hypoglycemia and muscle cramps, on exertion or while playing. Then he becomes normal after resting for a while. These episodes are recurrent aft a period of activity. He has decreased serum lactate and glucose levels. Which of the following diseases is he most likely to be suffering from?
-
-- A. McArdle disease
-- B. Hers disease
-- C. Cori's disease
-- D. Andersen disease
-
-<details><summary>Answer</summary>
-
-**A. McArdle disease**
-
-</details>
-
----
-
----
-
-### Q131 — A family consumes only polished rice *(2023)*
-
-A family consumes only polished rice. Which of the following combinations of vitamin deficiency and enzymatic defect will be present in this family?
-
-- A. Riboflavin-glutathione reductase
-- B. Thiamine-transketolase
-- C. Thiamine-transaminase
-- D. Riboflavin-transketolase
-
-<details><summary>Answer</summary>
-
-**B. Thiamine-transketolase**
-
-</details>
-
----
-
----
-
-### Q132 — A 4-year-old child presents with easy *(2023)*
-
-A 4-year-old child presents with easy fatigability. The mother also complains that the child has increased hunger between meals, which is relieved after food. Liver examination revealed no glycogen. The enzyme most likely deficient is?
-
-- A. Glycogen phosphorylase
-- B. Glycogen synthase
-- C. Debranching enzyme
-- D. Glucose 6 phosphatase
-
-<details><summary>Answer</summary>
-
-**B. Glycogen synthase**
-
-</details>
-
----
-
----
-
-### Q133 — A child was bought with pedal *(2023)*
-
-A child was bought with pedal edema and cheilosis. Cardiomegaly was present. What is the vitamin deficiency associated with this clinical presentation?
-
-- A. Riboflavin
-- B. Thiamine
-- C. Pyridoxine
-- D. Niacin
-
-<details><summary>Answer</summary>
-
-**B. Thiamine**
-
-</details>
-
----
-
----
-
-### Q134 — A child presents with erythematous scaly *(2023)*
-
-A child presents with erythematous scaly patches in the perioral region, mucosal ulcers, and impaired epithelial wound healing. The most likely mineral deficiency associated with this condition is?
-
-- A. Iron deficiency
-- B. Zinc deficiency
-- C. Calcium deficiency
-- D. Copper deficiency
-
-<details><summary>Answer</summary>
-
-**B. Zinc deficiency**
-
-</details>
-
----
-
----
-
-### Q135 — A patient presenting with bleeding gums *(2023)*
-
-A patient presenting with bleeding gums and easy bruisability was diagnosed with scurvy. This is due to
-
-- A. Low calcium
-- B. Defective collagen formation
-- C. Inhibition of clotting factors
-- D. Increased keratinization of epithelium
-
-<details><summary>Answer</summary>
-
-**B. Defective collagen formation**
-
-</details>
-
----
-
----
-
-### Q136 — Which of the following is seen *(2023)*
-
-Which of the following is seen in low insulin: glucagon ratio?
-
-- A. Activation of lipoprotein lipase
-- B. Activation of glycogen synthase
-- C. Activation of phosphofructokinase 1
-- D. Activation of hormone-sensitive lipase
-
-<details><summary>Answer</summary>
-
-**D. Activation of hormone-sensitive lipase**
-
-</details>
-
----
-
----
-
-### Q137 — An infant is brought by his *(2023)*
-
-An infant is brought by his parents with complaints that his urine turns black on standing. Which of the following metabolic disorders is likely?
-
-- A. Phenylketonuria
-- B. Alkaptonuria
-- C. Homocystinuria
-- D. Maple syrup urine disease
-
-<details><summary>Answer</summary>
-
-**B. Alkaptonuria**
-
-</details>
-
----
-
----
-
-### Q138 — A child presents with bone pain *(2023)*
-
-A child presents with bone pain and hepatosplenomegaly. A trephine biopsy and aspirate show the following finding. Which of the following is the most likely enzyme deficient in this condition? Pr
-
-- A. Hexosaminidase
-- B. Glucocerebrosidase
-- C. Sphingomyelinase
-- D. Alpha 1,4-glucosidase
-
-<details><summary>Answer</summary>
-
-**B. Glucocerebrosidase**
-
-</details>
-
----
-
----
-
-
-## Year 2024
-
-### Q139 — Wilson's disease — definitive test
-
-A 13-year-old boy with jaundice, tremors, behavioural changes, and Kayser–Fleischer rings. Definitive diagnosis?
-
-- A. Urinary copper
-- B. Serum ceruloplasmin
-- C. Hepatic parenchymal copper concentration
-- D. Genetic testing for ATP7B mutation
-
-<details><summary>Answer</summary>
-
-**C. Hepatic parenchymal copper concentration** — Liver biopsy with >250 μg/g dry weight is most definitive. (Ceruloplasmin is screening; genetic testing supportive.)
-</details>
-
----
-
-### Q140 — Achilles tendon xanthomas
-
-Patient with xanthomas on the Achilles tendon. Most likely diagnosis?
-
-- A. Familial hypercholesterolemia
-- B. Tangier disease
-- C. Familial hyperchylomicronemia
-- D. Type III hyperlipoproteinemia
-
-<details><summary>Answer</summary>
-
-**A. Familial hypercholesterolemia** — LDL-R defect → high LDL → tendon xanthomas (Achilles, extensors), xanthelasma, early CAD.
-</details>
-
----
-
-### Q141 — Tendon xanthoma + high LDL — molecular defect
-
-Multiple tendon xanthomas with serum cholesterol 398 mg/dL, LDL 220 mg/dL. Most likely defect?
-
-- A. Lipoprotein lipase deficiency
-- B. LDL receptor defect
-- C. Defective Apo B-100
-- D. PCSK9 gain-of-function mutation
-
-<details><summary>Answer</summary>
-
-**B. LDL receptor defect** — Most common cause of familial hypercholesterolaemia (~85%).
-</details>
-
----
-
----
-
-### Q142 — Clinical Question A patient presents with *(2024)*
-
-A patient presents with dermatitis, dementia, and cognitive decline. Which micronutrient deficiency is most likely responsible?
-
-- A. Niacin
-- B. Thiamine
-- C. Tryptophan
-- D. Riboflavin
-
-<details><summary>Answer</summary>
-
-**A. Niacin**
-
-</details>
-
----
-
----
-
-### Q143 — Clinical Question A patient has severe *(2024)*
-
-A patient has severe abdominal pain and raised lipase levels. Imaging shows a stone in the common bile duct (CBD). Which additional enzyme is most likely to be elevated?
-
-- A. Gamma-glutamyl transferase (GGT)
-- B. Lactate Dehydrogenase (LDH)
-- C. Alanine Aminotransferase (ALT)
-- D. Aspartate Aminotransferase (AST)
-
-<details><summary>Answer</summary>
-
-**A. Gamma-glutamyl transferase (GGT)**
-
-</details>
-
----
-
----
-
-### Q144 — A patients X-ray shows cardiomegaly, and *(2024)*
-
-A patient’s X-ray shows cardiomegaly, and they present with hypotonia, macroglossia, hepatomegaly and "floppy baby" syndrome. What is the probable diagnosis?
-
-- A. Pompe disease
-- B. Ebstein anomaly
-- C. Down syndrome
-- D. Cori's Disease
-
-<details><summary>Answer</summary>
-
-**A. Pompe disease**
-
-</details>
-
----
-
----
-
-
-## Year 2025
-
-### Q145 — Hurler syndrome glycosaminoglycans
-
-A child with α-L-iduronidase deficiency (Hurler syndrome) accumulates which GAGs?
-
-- A. Keratan sulfate and dermatan sulfate
-- B. Keratan sulfate and heparan sulfate
-- C. Heparan sulfate and dermatan sulfate
-- D. Keratan sulfate and hyaluronic acid
-
-<details><summary>Answer</summary>
-
-**C. Heparan sulfate and dermatan sulfate** — MPS I (Hurler). α-L-iduronidase cleaves iduronate residues in both heparan and dermatan sulfate.
-</details>
-
----
-
----
-
-### Q146 — Gum bleeding and fractures
-
-A child has petechiae, perifollicular hemorrhages, gum bleeding, and fractures. Which enzyme is deficient?
-
-- A. Lysyl oxidase
-- B. Prolyl hydroxylase
-- C. Tyrosinase
-- D. Alkaline phosphatase
-
-<details><summary>Answer</summary>
-
-**B. Prolyl hydroxylase** — Vitamin C is a cofactor for prolyl (and lysyl) hydroxylase in collagen synthesis. Deficiency → scurvy.
-</details>
-
----
-
----
-
-### Q147 — Brain energy after prolonged fasting
-
-After 5 days of fasting, what is the primary energy source for the brain?
-
-- A. Gluconeogenesis
-- B. Glycogenolysis
-- C. Ketosis
-- D. Lipolysis
-
-<details><summary>Answer</summary>
-
-**C. Ketosis** — After 3–4 days of fasting, ketone bodies (acetoacetate, β-hydroxybutyrate) become the primary brain fuel, sparing glucose/protein.
-</details>
-
----
-
----
-
-### Q148 — High phenylalanine with normal PAH enzyme
-
-A child has elevated serum phenylalanine despite normal phenylalanine hydroxylase activity. Which cofactor is deficient?
-
-- A. Tetrahydrofolate
-- B. Tetrahydrobiopterin (BH4)
-- C. Thiamine
-- D. Pyridoxine
-
-<details><summary>Answer</summary>
-
-**B. Tetrahydrobiopterin (BH4)** — PAH requires BH4 as cofactor. BH4 deficiency (malignant PKU) causes elevated phenylalanine even with intact PAH enzyme.
-</details>
-
----
-
----
-
-### Q149 — B12 deficiency with elevated homocysteine
-
-In Vitamin B12 deficiency, elevated homocysteine results from failure to regenerate which amino acid?
-
-- A. Cysteine
-- B. Methionine
-- C. Tyrosine
-- D. Glutamate
-
-<details><summary>Answer</summary>
-
-**B. Methionine** — Methionine synthase (requires B12) converts homocysteine + methyltetrahydrofolate → methionine. B12 deficiency → hyperhomocysteinemia.
-</details>
-
----
-
----
-
-### Q150 — Hydrochlorothiazide-induced neuropathy
-
-Long-term HCTZ use causes a neuropathy related to deficiency of which micronutrient?
-
-- A. Selenium
-- B. Thiamine
-- C. Vitamin B12
-- D. Zinc
-
-<details><summary>Answer</summary>
-
-**B. Thiamine** — Thiazides can cause thiamine depletion; thiamine deficiency → peripheral neuropathy (also Wernicke's/Beriberi).
-</details>
-
----
-
----
-
-### Q151 — Frameshift mutation effect
-
-A frameshift mutation (insertion/deletion) at codon 4 in a 300-codon gene will most likely result in:
-
-- A. No change in final protein
-- B. Partial protein production
-- C. Complete change in protein from position 4 onwards
-- D. No change due to RNA editing
-
-<details><summary>Answer</summary>
-
-**C. Complete change in protein from position 4 onwards** — Frameshift mutations alter the reading frame of all downstream codons, producing a completely different (and usually truncated/nonfunctional) protein.
-</details>
-
----
-
----
-
-### Q152 — Skin cancer and hyperpigmentation DNA repair
-
-Xeroderma pigmentosum (sun-induced skin cancer and hyperpigmentation) results from defective which DNA repair pathway?
-
-- A. Nucleotide excision repair
-- B. Base excision repair
-- C. Non-homologous end joining
-- D. Mismatch repair
-
-<details><summary>Answer</summary>
-
-**A. Nucleotide excision repair** — NER corrects bulky DNA lesions including UV-induced thymine dimers. Defective NER → XP with extreme photosensitivity and skin cancer.
-</details>
-
----
-
----
-
-### Q153 — Orange tonsils, low HDL
-
-A patient has orange-coloured tonsils, very low HDL cholesterol, and borderline triglycerides. Diagnosis?
-
-- A. Familial hypercholesterolemia
-- B. Tangier disease
-- C. Type I hyperlipoproteinemia
-- D. Abetalipoproteinemia
-
-<details><summary>Answer</summary>
-
-**B. Tangier disease** — ABCA1 transporter defect → defective reverse cholesterol transport → cholesterol ester accumulation in tonsils (orange), very low HDL.
-</details>
-
----
-
----
-
-### Q154 — High cholesterol with tendon xanthomas
-
-A patient has hypercholesterolemia with tendon xanthomas. Frederickson type?
-
-- A. Type I
-- B. Type IIa
-- C. Type IIb
-- D. Type IV
-
-<details><summary>Answer</summary>
-
-**B. Type IIa** — Familial hypercholesterolemia; elevated LDL only; tendon xanthomas (Achilles, extensor tendons) are hallmark.
-</details>
-
----
-
----
-
-### Q155 — PCR for polymicrobial meningitis
-
-Which PCR technique is used to simultaneously identify multiple pathogens causing meningitis?
-
-- A. Multiplex PCR
-- B. Uniplex PCR
-- C. Real-time PCR
-- D. Nested PCR
-
-<details><summary>Answer</summary>
-
-**A. Multiplex PCR** — Uses multiple primer sets in one reaction to detect several organisms simultaneously (e.g., BioFire FilmArray for meningitis/encephalitis panel).
-</details>
-
----
-
----
-
-### Q156 — Anion gap calculation
-
-A patient has Na⁺ 140, Cl⁻ 100, HCO₃⁻ 10 mEq/L. What is the anion gap?
-
-- A. 26
-- B. 30
-- C. 18
-- D. 22
-
-<details><summary>Answer</summary>
-
-**B. 30** — AG = Na − (Cl + HCO₃) = 140 − (100 + 10) = 30. Indicates high anion gap metabolic acidosis.
-</details>
-
----
-
----
-
 ## Year 2015
 
-### Q157 — Chymotrypsinogen is activated into chymotrypsin by
+### Q51 — Chymotrypsinogen is activated into chymotrypsin by
 
 Chymotrypsinogen is activated into chymotrypsin by:
 
@@ -2829,8 +857,7 @@ Chymotrypsinogen is activated into chymotrypsin by:
 ---
 
 ---
-
-### Q158 — Example of exopeptidase is
+### Q52 — Example of exopeptidase is
 
 Example of exopeptidase is ?
 
@@ -2848,8 +875,7 @@ Example of exopeptidase is ?
 ---
 
 ---
-
-### Q159 — Secretion of bile out of hepactocytes
+### Q53 — Secretion of bile out of hepactocytes
 
 Secretion of bile out of hepactocytes occurs via?
 
@@ -2867,8 +893,7 @@ Secretion of bile out of hepactocytes occurs via?
 ---
 
 ---
-
-### Q160 — Absorption of calcium ion is affected
+### Q54 — Absorption of calcium ion is affected
 
 Absorption of calcium ion is affected mostly by ?
 
@@ -2886,8 +911,7 @@ Absorption of calcium ion is affected mostly by ?
 ---
 
 ---
-
-### Q161 — Vitamin D absorption is decreased by
+### Q55 — Vitamin D absorption is decreased by
 
 Vitamin D absorption is decreased by ?
 
@@ -2905,8 +929,7 @@ Vitamin D absorption is decreased by ?
 ---
 
 ---
-
-### Q162 — Effect of cholecystokinin on GIT
+### Q56 — Effect of cholecystokinin on GIT
 
 Effect of cholecystokinin on GIT ?
 
@@ -2924,8 +947,7 @@ Effect of cholecystokinin on GIT ?
 ---
 
 ---
-
-### Q163 — Small intestinal peristalsis is controlled by
+### Q57 — Small intestinal peristalsis is controlled by
 
 Small intestinal peristalsis is controlled by :
 
@@ -2943,8 +965,7 @@ Small intestinal peristalsis is controlled by :
 ---
 
 ---
-
-### Q164 — How is folic acid absorbed in
+### Q58 — How is folic acid absorbed in
 
 How is folic acid absorbed in proximal jejunum?
 
@@ -2962,8 +983,7 @@ How is folic acid absorbed in proximal jejunum?
 ---
 
 ---
-
-### Q165 — Colipase is
+### Q59 — Colipase is
 
 Colipase is:
 
@@ -2981,8 +1001,7 @@ Colipase is:
 ---
 
 ---
-
-### Q166 — Cholecystokinin is produced from
+### Q60 — Cholecystokinin is produced from
 
 Cholecystokinin is produced from:
 
@@ -3000,8 +1019,7 @@ Cholecystokinin is produced from:
 ---
 
 ---
-
-### Q167 — Somatomedin - C deficiency causes
+### Q61 — Somatomedin - C deficiency causes
 
 Somatomedin - C deficiency causes?
 
@@ -3019,8 +1037,7 @@ Somatomedin - C deficiency causes?
 ---
 
 ---
-
-### Q168 — All are about adiponectin except
+### Q62 — All are about adiponectin except
 
 All are about adiponectin except ?
 
@@ -3038,8 +1055,7 @@ All are about adiponectin except ?
 ---
 
 ---
-
-### Q169 — Hormone responsible for galactopoiesis
+### Q63 — Hormone responsible for galactopoiesis
 
 Hormone responsible for galactopoiesis ?
 
@@ -3057,8 +1073,7 @@ Hormone responsible for galactopoiesis ?
 ---
 
 ---
-
-### Q170 — Ionotropic effect of thyroid hormone is
+### Q64 — Ionotropic effect of thyroid hormone is
 
 Ionotropic effect of thyroid hormone is by ?
 
@@ -3076,8 +1091,7 @@ Ionotropic effect of thyroid hormone is by ?
 ---
 
 ---
-
-### Q171 — 3 - subumit of insulin receptor
+### Q65 — 3 - subumit of insulin receptor
 
 3 - subumit of insulin receptor binds to ?
 
@@ -3095,8 +1109,7 @@ Ionotropic effect of thyroid hormone is by ?
 ---
 
 ---
-
-### Q172 — Insulin mediated transport of glucose is
+### Q66 — Insulin mediated transport of glucose is
 
 Insulin mediated transport of glucose is ?
 
@@ -3114,8 +1127,7 @@ Insulin mediated transport of glucose is ?
 ---
 
 ---
-
-### Q173 — Acrosome reaction is seen in
+### Q67 — Acrosome reaction is seen in
 
 Acrosome reaction is seen in?
 
@@ -3133,8 +1145,7 @@ Acrosome reaction is seen in?
 ---
 
 ---
-
-### Q174 — Iron is conserved by
+### Q68 — Iron is conserved by
 
 Iron is conserved by?
 
@@ -3152,8 +1163,7 @@ Iron is conserved by?
 ---
 
 ---
-
-### Q175 — Primitive red cells first originates in
+### Q69 — Primitive red cells first originates in
 
 Primitive red cells first originates in the early embryonic life is in:
 
@@ -3171,8 +1181,7 @@ Primitive red cells first originates in the early embryonic life is in:
 ---
 
 ---
-
-### Q176 — Converging point of both pathway in
+### Q70 — Converging point of both pathway in
 
 Converging point of both pathway in coagulation is at:
 
@@ -3190,8 +1199,7 @@ Converging point of both pathway in coagulation is at:
 ---
 
 ---
-
-### Q177 — Penile erection is mediated by
+### Q71 — Penile erection is mediated by
 
 Penile erection is mediated by?
 
@@ -3209,8 +1217,7 @@ Penile erection is mediated by?
 ---
 
 ---
-
-### Q178 — Inhibition of heart by vagus is
+### Q72 — Inhibition of heart by vagus is
 
 Inhibition of heart by vagus is mediated by which receptors -
 
@@ -3228,8 +1235,7 @@ Inhibition of heart by vagus is mediated by which receptors -
 ---
 
 ---
-
-### Q179 — Inhibition of heart by vagus by
+### Q73 — Inhibition of heart by vagus by
 
 Inhibition of heart by vagus by M2 receptors is medicated by which mechanism?
 
@@ -3247,8 +1253,7 @@ Inhibition of heart by vagus by M2 receptors is medicated by which mechanism?
 ---
 
 ---
-
-### Q180 — Glucagon activates which enzyme
+### Q74 — Glucagon activates which enzyme
 
 Glucagon activates which enzyme ?
 
@@ -3266,8 +1271,7 @@ Glucagon activates which enzyme ?
 ---
 
 ---
-
-### Q181 — Size of platelets is
+### Q75 — Size of platelets is
 
 Size of platelets is ?
 
@@ -3285,8 +1289,7 @@ Size of platelets is ?
 ---
 
 ---
-
-### Q182 — If HbAl C is 8, What
+### Q76 — If HbAl C is 8, What
 
 If HbAl C is 8%, What will be the value of blood glucose [mg/d1] ?
 
@@ -3304,8 +1307,7 @@ If HbAl C is 8%, What will be the value of blood glucose [mg/d1] ?
 ---
 
 ---
-
-### Q183 — Preaccelerin is
+### Q77 — Preaccelerin is
 
 Preaccelerin is ?
 
@@ -3323,8 +1325,7 @@ Preaccelerin is ?
 ---
 
 ---
-
-### Q184 — Conversion of prekallikrein to kallikrein requires
+### Q78 — Conversion of prekallikrein to kallikrein requires
 
 Conversion of prekallikrein to kallikrein requires which clotting factor -
 
@@ -3342,8 +1343,7 @@ Conversion of prekallikrein to kallikrein requires which clotting factor -
 ---
 
 ---
-
-### Q185 — Caissons disease is associated with
+### Q79 — Caissons disease is associated with
 
 Caisson's disease is associated with?
 
@@ -3361,8 +1361,7 @@ Caisson's disease is associated with?
 ---
 
 ---
-
-### Q186 — Following is true about oculocardiac reflex
+### Q80 — Following is true about oculocardiac reflex
 
 Following is true about oculocardiac reflex except ?
 
@@ -3380,8 +1379,7 @@ Following is true about oculocardiac reflex except ?
 ---
 
 ---
-
-### Q187 — Blood testis barrier in testis is
+### Q81 — Blood testis barrier in testis is
 
 Blood testis barrier in testis is formed by?
 
@@ -3399,8 +1397,7 @@ Blood testis barrier in testis is formed by?
 ---
 
 ---
-
-### Q188 — Which of the following is false
+### Q82 — Which of the following is false
 
 Which of the following is false about peripheral nerve injury?
 
@@ -3418,8 +1415,7 @@ Which of the following is false about peripheral nerve injury?
 ---
 
 ---
-
-### Q189 — First to occur after a sharp
+### Q83 — First to occur after a sharp
 
 First to occur after a sharp nerve cut ?
 
@@ -3437,8 +1433,7 @@ First to occur after a sharp nerve cut ?
 ---
 
 ---
-
-### Q190 — LDH has how many isoenzymes
+### Q84 — LDH has how many isoenzymes
 
 LDH has how many isoenzymes
 
@@ -3456,8 +1451,7 @@ LDH has how many isoenzymes
 ---
 
 ---
-
-### Q191 — Which of the following is known
+### Q85 — Which of the following is known
 
 Which of the following is known as suicidal enzyme?
 
@@ -3475,8 +1469,7 @@ Which of the following is known as suicidal enzyme?
 ---
 
 ---
-
-### Q192 — Rate limiting enzyme in bile acid
+### Q86 — Rate limiting enzyme in bile acid
 
 Rate limiting enzyme in bile acid synthesis ?
 
@@ -3494,8 +1487,7 @@ Rate limiting enzyme in bile acid synthesis ?
 ---
 
 ---
-
-### Q193 — Enzyme activity is expressed as
+### Q87 — Enzyme activity is expressed as
 
 Enzyme activity is expressed as:
 
@@ -3513,8 +1505,7 @@ Enzyme activity is expressed as:
 ---
 
 ---
-
-### Q194 — Lysyl oxidase requires which cofactor -
+### Q88 — Lysyl oxidase requires which cofactor -
 
 Lysyl oxidase requires which cofactor -
 
@@ -3532,8 +1523,7 @@ Lysyl oxidase requires which cofactor -
 ---
 
 ---
-
-### Q195 — Mechanism of conversion of trypsinogen to
+### Q89 — Mechanism of conversion of trypsinogen to
 
 Mechanism of conversion of trypsinogen to trypsin -
 
@@ -3551,8 +1541,7 @@ Mechanism of conversion of trypsinogen to trypsin -
 ---
 
 ---
-
-### Q196 — Immediate source of energy is
+### Q90 — Immediate source of energy is
 
 Immediate source of energy is ?
 
@@ -3570,8 +1559,7 @@ Immediate source of energy is ?
 ---
 
 ---
-
-### Q197 — True about NADP -
+### Q91 — True about NADP -
 
 True about NADP -
 
@@ -3589,8 +1577,7 @@ True about NADP -
 ---
 
 ---
-
-### Q198 — In malate shuttle, NADH Produces how
+### Q92 — In malate shuttle, NADH Produces how
 
 In malate shuttle, NADH Produces how many ATPs
 
@@ -3608,8 +1595,7 @@ In malate shuttle, NADH Produces how many ATPs
 ---
 
 ---
-
-### Q199 — Not a substrate for gluconeogenesis -
+### Q93 — Not a substrate for gluconeogenesis -
 
 Not a substrate for gluconeogenesis -
 
@@ -3627,8 +1613,7 @@ Not a substrate for gluconeogenesis -
 ---
 
 ---
-
-### Q200 — Pyruvate dehydrogenase requires all cofactors exce
+### Q94 — Pyruvate dehydrogenase requires all cofactors exce
 
 Pyruvate dehydrogenase requires all cofactors except
 
@@ -3646,8 +1631,7 @@ Pyruvate dehydrogenase requires all cofactors except
 ---
 
 ---
-
-### Q201 — Lactate produced anaerobically is used by
+### Q95 — Lactate produced anaerobically is used by
 
 Lactate produced anaerobically is used by
 
@@ -3665,8 +1649,7 @@ Lactate produced anaerobically is used by
 ---
 
 ---
-
-### Q202 — Citrate synthase is inhibited by -
+### Q96 — Citrate synthase is inhibited by -
 
 Citrate synthase is inhibited by -
 
@@ -3684,8 +1667,7 @@ Citrate synthase is inhibited by -
 ---
 
 ---
-
-### Q203 — Fumarate is formed from which amino
+### Q97 — Fumarate is formed from which amino
 
 Fumarate is formed from which amino acid
 
@@ -3703,8 +1685,7 @@ Fumarate is formed from which amino acid
 ---
 
 ---
-
-### Q204 — The major role of 2, 3
+### Q98 — The major role of 2, 3
 
 The major role of 2, 3 bisphosphoglycerate in RBCs is -
 
@@ -3722,8 +1703,7 @@ The major role of 2, 3 bisphosphoglycerate in RBCs is -
 ---
 
 ---
-
-### Q205 — Immediate metabolic products during conversion of
+### Q99 — Immediate metabolic products during conversion of
 
 Immediate metabolic products during conversion of Fructus 1-6 bisphosphate to 2 molecules of pyruvate -
 
@@ -3741,8 +1721,7 @@ Immediate metabolic products during conversion of Fructus 1-6 bisphosphate to 2 
 ---
 
 ---
-
-### Q206 — In conversion of glucose to glucose-6-
+### Q100 — In conversion of glucose to glucose-6-
 
 In conversion of glucose to glucose-6- phosphate in glycolysis true is
 
@@ -3760,8 +1739,7 @@ In conversion of glucose to glucose-6- phosphate in glycolysis true is
 ---
 
 ---
-
-### Q207 — Most abundant source of fuel in
+### Q101 — Most abundant source of fuel in
 
 Most abundant source of fuel in starvation -
 
@@ -3779,8 +1757,7 @@ Most abundant source of fuel in starvation -
 ---
 
 ---
-
-### Q208 — Major metabolism of saturated fatty acids
+### Q102 — Major metabolism of saturated fatty acids
 
 Major metabolism of saturated fatty acids in the mitochondria is called as -
 
@@ -3798,8 +1775,7 @@ Major metabolism of saturated fatty acids in the mitochondria is called as -
 ---
 
 ---
-
-### Q209 — Bile acids are synthesized from
+### Q103 — Bile acids are synthesized from
 
 Bile acids are synthesized from ?
 
@@ -3817,8 +1793,7 @@ Bile acids are synthesized from ?
 ---
 
 ---
-
-### Q210 — Which method is used to separate
+### Q104 — Which method is used to separate
 
 Which method is used to separate a mixture of lipids -
 
@@ -3836,8 +1811,7 @@ Which method is used to separate a mixture of lipids -
 ---
 
 ---
-
-### Q211 — Transport of lipids from the intestine
+### Q105 — Transport of lipids from the intestine
 
 Transport of lipids from the intestine to other tissues is by -
 
@@ -3855,8 +1829,7 @@ Transport of lipids from the intestine to other tissues is by -
 ---
 
 ---
-
-### Q212 — (β-oxidation of palmitic acid yields
+### Q106 — (β-oxidation of palmitic acid yields
 
 (β-oxidation of palmitic acid yields
 
@@ -3874,8 +1847,7 @@ Transport of lipids from the intestine to other tissues is by -
 ---
 
 ---
-
-### Q213 — All are true about Niemann- Pick
+### Q107 — All are true about Niemann- Pick
 
 All are true about Niemann- Pick disease except -
 
@@ -3893,8 +1865,7 @@ All are true about Niemann- Pick disease except -
 ---
 
 ---
-
-### Q214 — Plasminogen domain resembles
+### Q108 — Plasminogen domain resembles
 
 Plasminogen domain resembles
 
@@ -3912,8 +1883,7 @@ Plasminogen domain resembles
 ---
 
 ---
-
-### Q215 — Acetyl CoA Carboxylase is stimulated by
+### Q109 — Acetyl CoA Carboxylase is stimulated by
 
 Acetyl CoA Carboxylase is stimulated by -
 
@@ -3931,8 +1901,7 @@ Acetyl CoA Carboxylase is stimulated by -
 ---
 
 ---
-
-### Q216 — Cholesterol is not a precursor for
+### Q110 — Cholesterol is not a precursor for
 
 Cholesterol is not a precursor for synthesis of -
 
@@ -3950,8 +1919,7 @@ Cholesterol is not a precursor for synthesis of -
 ---
 
 ---
-
-### Q217 — HDL is called good cholesterol because
+### Q111 — HDL is called good cholesterol because
 
 HDL is called good cholesterol because -
 
@@ -3969,8 +1937,7 @@ HDL is called good cholesterol because -
 ---
 
 ---
-
-### Q218 — Non- essential amino-acids are all except
+### Q112 — Non- essential amino-acids are all except
 
 Non- essential amino-acids are all except -
 
@@ -3988,8 +1955,7 @@ Non- essential amino-acids are all except -
 ---
 
 ---
-
-### Q219 — Amino acid which can be used
+### Q113 — Amino acid which can be used
 
 Amino acid which can be used in both gluconeogenesis and ketogenesis -
 
@@ -4007,8 +1973,7 @@ Amino acid which can be used in both gluconeogenesis and ketogenesis -
 ---
 
 ---
-
-### Q220 — In phenylketonuria, diet restriction is advised
+### Q114 — In phenylketonuria, diet restriction is advised
 
 In phenylketonuria, diet restriction is advised for -
 
@@ -4026,8 +1991,7 @@ In phenylketonuria, diet restriction is advised for -
 ---
 
 ---
-
-### Q221 — Guanidinium group is associated with -
+### Q115 — Guanidinium group is associated with -
 
 Guanidinium group is associated with -
 
@@ -4045,8 +2009,7 @@ Guanidinium group is associated with -
 ---
 
 ---
-
-### Q222 — Creatinine is formed from -
+### Q116 — Creatinine is formed from -
 
 Creatinine is formed from -
 
@@ -4064,8 +2027,7 @@ Creatinine is formed from -
 ---
 
 ---
-
-### Q223 — Coenzyme for phenylalanine hydroxylase is -
+### Q117 — Coenzyme for phenylalanine hydroxylase is -
 
 Coenzyme for phenylalanine hydroxylase is -
 
@@ -4083,8 +2045,7 @@ Coenzyme for phenylalanine hydroxylase is -
 ---
 
 ---
-
-### Q224 — Glycine is required in formation of
+### Q118 — Glycine is required in formation of
 
 Glycine is required in formation of all except ?
 
@@ -4102,8 +2063,7 @@ Glycine is required in formation of all except ?
 ---
 
 ---
-
-### Q225 — Which of the following is required
+### Q119 — Which of the following is required
 
 Which of the following is required in the synthesis of acetylcholine -
 
@@ -4121,8 +2081,7 @@ Which of the following is required in the synthesis of acetylcholine -
 ---
 
 ---
-
-### Q226 — Most important factor which causes lactic
+### Q120 — Most important factor which causes lactic
 
 Most important factor which causes lactic acidosis in alcoholics -
 
@@ -4140,8 +2099,7 @@ Most important factor which causes lactic acidosis in alcoholics -
 ---
 
 ---
-
-### Q227 — Insulin dependant cells are -
+### Q121 — Insulin dependant cells are -
 
 Insulin dependant cells are -
 
@@ -4159,8 +2117,7 @@ Insulin dependant cells are -
 ---
 
 ---
-
-### Q228 — Energy source used by brain in
+### Q122 — Energy source used by brain in
 
 Energy source used by brain in later days of Starvation is
 
@@ -4178,8 +2135,7 @@ Energy source used by brain in later days of Starvation is
 ---
 
 ---
-
-### Q229 — Which of the following enzyme activity
+### Q123 — Which of the following enzyme activity
 
 Which of the following enzyme activity decreases in fasting?
 
@@ -4197,8 +2153,7 @@ Which of the following enzyme activity decreases in fasting?
 ---
 
 ---
-
-### Q230 — Vitamin formed in the body -
+### Q124 — Vitamin formed in the body -
 
 Vitamin formed in the body -
 
@@ -4216,8 +2171,7 @@ Vitamin formed in the body -
 ---
 
 ---
-
-### Q231 — Pruritis Itching is caused by deficiency
+### Q125 — Pruritis Itching is caused by deficiency
 
 Pruritis [Itching] is caused by deficiency of -
 
@@ -4235,8 +2189,7 @@ Pruritis [Itching] is caused by deficiency of -
 ---
 
 ---
-
-### Q232 — Vitamin acting on intranuclear receptors -
+### Q126 — Vitamin acting on intranuclear receptors -
 
 Vitamin acting on intranuclear receptors -
 
@@ -4254,8 +2207,7 @@ Vitamin acting on intranuclear receptors -
 ---
 
 ---
-
-### Q233 — Which of the following has antioxidant
+### Q127 — Which of the following has antioxidant
 
 Which of the following has antioxidant property?
 
@@ -4273,8 +2225,7 @@ Which of the following has antioxidant property?
 ---
 
 ---
-
-### Q234 — Niacin acts as coenzyme -
+### Q128 — Niacin acts as coenzyme -
 
 Niacin acts as coenzyme -
 
@@ -4292,8 +2243,7 @@ Niacin acts as coenzyme -
 ---
 
 ---
-
-### Q235 — Coenzyme not required in formation of
+### Q129 — Coenzyme not required in formation of
 
 Coenzyme not required in formation of glutamate-
 
@@ -4311,8 +2261,7 @@ Coenzyme not required in formation of glutamate-
 ---
 
 ---
-
-### Q236 — Not a metabolic product of urea
+### Q130 — Not a metabolic product of urea
 
 Not a metabolic product of urea cycle -
 
@@ -4330,8 +2279,7 @@ Not a metabolic product of urea cycle -
 ---
 
 ---
-
-### Q237 — Which amino acid is not involved
+### Q131 — Which amino acid is not involved
 
 Which amino acid is not involved in transamination -
 
@@ -4349,8 +2297,7 @@ Which amino acid is not involved in transamination -
 ---
 
 ---
-
-### Q238 — Boiled cabbage or rancid butter smelling
+### Q132 — Boiled cabbage or rancid butter smelling
 
 Boiled cabbage or rancid butter smelling urine is seen in
 
@@ -4368,8 +2315,7 @@ Boiled cabbage or rancid butter smelling urine is seen in
 ---
 
 ---
-
-### Q239 — Apo B48 is synthesized in -
+### Q133 — Apo B48 is synthesized in -
 
 Apo B48 is synthesized in -
 
@@ -4387,8 +2333,7 @@ Apo B48 is synthesized in -
 ---
 
 ---
-
-### Q240 — Allantoin is the end product of
+### Q134 — Allantoin is the end product of
 
 Allantoin is the end product of metabolism of ?
 
@@ -4406,8 +2351,7 @@ Allantoin is the end product of metabolism of ?
 ---
 
 ---
-
-### Q241 — True about sigma factor
+### Q135 — True about sigma factor
 
 True about sigma factor?
 
@@ -4425,8 +2369,7 @@ True about sigma factor?
 ---
 
 ---
-
-### Q242 — Replication and transcription are similar processe
+### Q136 — Replication and transcription are similar processe
 
 Replication and transcription are similar processes in mechanistic terms because both :
 
@@ -4444,8 +2387,7 @@ Replication and transcription are similar processes in mechanistic terms because
 ---
 
 ---
-
-### Q243 — What are okazzaki fragments -
+### Q137 — What are okazzaki fragments -
 
 What are okazzaki fragments -
 
@@ -4463,8 +2405,7 @@ What are okazzaki fragments -
 ---
 
 ---
-
-### Q244 — First purine nucleotide, which is synthesized
+### Q138 — First purine nucleotide, which is synthesized
 
 First purine nucleotide, which is synthesized in purine biosynthesis ?
 
@@ -4482,8 +2423,7 @@ First purine nucleotide, which is synthesized in purine biosynthesis ?
 ---
 
 ---
-
-### Q245 — C4, C5, N7 in purine ring
+### Q139 — C4, C5, N7 in purine ring
 
 C4, C5, N7 in purine ring are derived from -
 
@@ -4501,8 +2441,7 @@ C4, C5, N7 in purine ring are derived from -
 ---
 
 ---
-
-### Q246 — Most important tool used in genetic
+### Q140 — Most important tool used in genetic
 
 Most important tool used in genetic engineering
 
@@ -4520,8 +2459,7 @@ Most important tool used in genetic engineering
 ---
 
 ---
-
-### Q247 — The gaps between segments of DNA
+### Q141 — The gaps between segments of DNA
 
 The gaps between segments of DNA on the lagging strand produced by restriction enzymes are rejoined sealed by:
 
@@ -4539,8 +2477,7 @@ The gaps between segments of DNA on the lagging strand produced by restriction e
 ---
 
 ---
-
-### Q248 — Which is not a chaperon protein
+### Q142 — Which is not a chaperon protein
 
 Which is not a chaperon protein -
 
@@ -4558,8 +2495,7 @@ Which is not a chaperon protein -
 ---
 
 ---
-
-### Q249 — All are functions of glycosaminglycans except
+### Q143 — All are functions of glycosaminglycans except
 
 All are functions of glycosaminglycans except -
 
@@ -4577,8 +2513,7 @@ All are functions of glycosaminglycans except -
 ---
 
 ---
-
-### Q250 — a-aminolevulinic acid is a metabolic product
+### Q144 — a-aminolevulinic acid is a metabolic product
 
 a-aminolevulinic acid is a metabolic product in synthesis of -
 
@@ -4596,8 +2531,7 @@ a-aminolevulinic acid is a metabolic product in synthesis of -
 ---
 
 ---
-
-### Q251 — Which is an inhibitor of ferrochelatase
+### Q145 — Which is an inhibitor of ferrochelatase
 
 Which is an inhibitor of ferrochelatase ?
 
@@ -4615,8 +2549,7 @@ Which is an inhibitor of ferrochelatase ?
 ---
 
 ---
-
-### Q252 — Bile acids consist of all except
+### Q146 — Bile acids consist of all except
 
 Bile acids consist of all except -
 
@@ -4634,8 +2567,7 @@ Bile acids consist of all except -
 ---
 
 ---
-
-### Q253 — True about cAMP and cGMP -
+### Q147 — True about cAMP and cGMP -
 
 True about cAMP and cGMP -
 
@@ -4653,8 +2585,7 @@ True about cAMP and cGMP -
 ---
 
 ---
-
-### Q254 — Spectroscopy is used for interaction of
+### Q148 — Spectroscopy is used for interaction of
 
 Spectroscopy is used for interaction of -
 
@@ -4672,8 +2603,7 @@ Spectroscopy is used for interaction of -
 ---
 
 ---
-
-### Q255 — Abnormal proteins which are bound to
+### Q149 — Abnormal proteins which are bound to
 
 Abnormal proteins which are bound to ubiquitin are degraded in -
 
@@ -4691,8 +2621,7 @@ Abnormal proteins which are bound to ubiquitin are degraded in -
 ---
 
 ---
-
-### Q256 — Enzyme degradation is caused by -
+### Q150 — Enzyme degradation is caused by -
 
 Enzyme degradation is caused by -
 
@@ -4710,8 +2639,7 @@ Enzyme degradation is caused by -
 ---
 
 ---
-
-### Q257 — G1cNAc-P-P- oligosacharride is -
+### Q151 — G1cNAc-P-P- oligosacharride is -
 
 G1cNAc-P-P- oligosacharride is -
 
@@ -4729,8 +2657,7 @@ G1cNAc-P-P- oligosacharride is -
 ---
 
 ---
-
-### Q258 — Prolyl hydroxylase require which cofactor -
+### Q152 — Prolyl hydroxylase require which cofactor -
 
 Prolyl hydroxylase require which cofactor -
 
@@ -4748,8 +2675,7 @@ Prolyl hydroxylase require which cofactor -
 ---
 
 ---
-
-### Q259 — Which of following is not a
+### Q153 — Which of following is not a
 
 Which of following is not a free radical -
 
@@ -4767,8 +2693,7 @@ Which of following is not a free radical -
 ---
 
 ---
-
-### Q260 — Not an irreversible injury-
+### Q154 — Not an irreversible injury-
 
 Not an irreversible injury-
 
@@ -4786,8 +2711,7 @@ Not an irreversible injury-
 ---
 
 ---
-
-### Q261 — Hypertrophy is -
+### Q155 — Hypertrophy is -
 
 Hypertrophy is -
 
@@ -4805,8 +2729,7 @@ Hypertrophy is -
 ---
 
 ---
-
-### Q262 — Hyaline degeneration is found in -
+### Q156 — Hyaline degeneration is found in -
 
 Hyaline degeneration is found in -
 
@@ -4824,8 +2747,7 @@ Hyaline degeneration is found in -
 ---
 
 ---
-
-### Q263 — In cell death, myelin figures, are
+### Q157 — In cell death, myelin figures, are
 
 In cell death, myelin figures, are derived from-
 
@@ -4843,8 +2765,7 @@ In cell death, myelin figures, are derived from-
 ---
 
 ---
-
-### Q264 — Antiapoptotic gene
+### Q158 — Antiapoptotic gene
 
 Antiapoptotic gene
 
@@ -4862,8 +2783,7 @@ Antiapoptotic gene
 ---
 
 ---
-
-### Q265 — Not a apoptotic gene
+### Q159 — Not a apoptotic gene
 
 Not a apoptotic gene
 
@@ -4881,8 +2801,7 @@ Not a apoptotic gene
 ---
 
 ---
-
-### Q266 — Fat necrosis is common in -
+### Q160 — Fat necrosis is common in -
 
 Fat necrosis is common in -
 
@@ -4900,8 +2819,7 @@ Fat necrosis is common in -
 ---
 
 ---
-
-### Q267 — Liquefactive necrosis is seen in
+### Q161 — Liquefactive necrosis is seen in
 
 Liquefactive necrosis is seen in:
 
@@ -4919,8 +2837,7 @@ Liquefactive necrosis is seen in:
 ---
 
 ---
-
-### Q268 — Diabetic foot is associated with following
+### Q162 — Diabetic foot is associated with following
 
 Diabetic foot is associated with following type of gangrene -
 
@@ -4938,8 +2855,7 @@ Diabetic foot is associated with following type of gangrene -
 ---
 
 ---
-
-### Q269 — Unfolded protein metabolism is associated with
+### Q163 — Unfolded protein metabolism is associated with
 
 Unfolded protein metabolism is associated with
 
@@ -4957,8 +2873,7 @@ Unfolded protein metabolism is associated with
 ---
 
 ---
-
-### Q270 — Most reactive free radical is
+### Q164 — Most reactive free radical is
 
 Most reactive free radical is:
 
@@ -4976,8 +2891,7 @@ Most reactive free radical is:
 ---
 
 ---
-
-### Q271 — Rolling of leucocytes on endothelial cells
+### Q165 — Rolling of leucocytes on endothelial cells
 
 Rolling of leucocytes on endothelial cells is mediated by
 
@@ -4995,8 +2909,7 @@ Rolling of leucocytes on endothelial cells is mediated by
 ---
 
 ---
-
-### Q272 — Perioperative shock is an example of
+### Q166 — Perioperative shock is an example of
 
 Perioperative shock is an example of
 
@@ -5014,8 +2927,7 @@ Perioperative shock is an example of
 ---
 
 ---
-
-### Q273 — Substance playing a role in tumor
+### Q167 — Substance playing a role in tumor
 
 Substance playing a role in tumor metastasis cascade is
 
@@ -5033,8 +2945,7 @@ Substance playing a role in tumor metastasis cascade is
 ---
 
 ---
-
-### Q274 — Which of the following is not
+### Q168 — Which of the following is not
 
 Which of the following is not a part of ECM ?
 
@@ -5052,8 +2963,7 @@ Which of the following is not a part of ECM ?
 ---
 
 ---
-
-### Q275 — Chemotaxis is mediated by-
+### Q169 — Chemotaxis is mediated by-
 
 Chemotaxis is mediated by-
 
@@ -5071,8 +2981,7 @@ Chemotaxis is mediated by-
 ---
 
 ---
-
-### Q276 — Interleukin 2 is produced by
+### Q170 — Interleukin 2 is produced by
 
 Interleukin 2 is produced by
 
@@ -5090,8 +2999,7 @@ Interleukin 2 is produced by
 ---
 
 ---
-
-### Q277 — IFN-gamma is produced by
+### Q171 — IFN-gamma is produced by
 
 IFN-gamma is produced by
 
@@ -5109,8 +3017,7 @@ IFN-gamma is produced by
 ---
 
 ---
-
-### Q278 — Extremities are warm in which type
+### Q172 — Extremities are warm in which type
 
 Extremities are warm in which type of shock
 
@@ -5128,8 +3035,7 @@ Extremities are warm in which type of shock
 ---
 
 ---
-
-### Q279 — Following injection of lymphokines, the same
+### Q173 — Following injection of lymphokines, the same
 
 Following injection of lymphokines, the same class of immunoglobulin are produced. This is to be referred as -
 
@@ -5147,8 +3053,7 @@ Following injection of lymphokines, the same class of immunoglobulin are produce
 ---
 
 ---
-
-### Q280 — B cells are located in which
+### Q174 — B cells are located in which
 
 B cells are located in which region of lymph nodes
 
@@ -5166,8 +3071,7 @@ B cells are located in which region of lymph nodes
 ---
 
 ---
-
-### Q281 — Number of criteria for HLA matching
+### Q175 — Number of criteria for HLA matching
 
 Number of criteria for HLA matching are
 
@@ -5185,8 +3089,7 @@ Number of criteria for HLA matching are
 ---
 
 ---
-
-### Q282 — Organ with least chance of rejection
+### Q176 — Organ with least chance of rejection
 
 Organ with least chance of rejection
 
@@ -5204,8 +3107,7 @@ Organ with least chance of rejection
 ---
 
 ---
-
-### Q283 — Mc type of graft rejection is
+### Q177 — Mc type of graft rejection is
 
 Mc type of graft rejection is
 
@@ -5223,8 +3125,7 @@ Mc type of graft rejection is
 ---
 
 ---
-
-### Q284 — Most lethal combination is
+### Q178 — Most lethal combination is
 
 Most lethal combination is
 
@@ -5242,8 +3143,7 @@ Most lethal combination is
 ---
 
 ---
-
-### Q285 — Chromosomal instability syndrome is
+### Q179 — Chromosomal instability syndrome is
 
 Chromosomal instability syndrome is
 
@@ -5261,8 +3161,7 @@ Chromosomal instability syndrome is
 ---
 
 ---
-
-### Q286 — Structure of chromosomes is studied by
+### Q180 — Structure of chromosomes is studied by
 
 Structure of chromosomes is studied by?
 
@@ -5280,8 +3179,7 @@ Structure of chromosomes is studied by?
 ---
 
 ---
-
-### Q287 — Location of gene on chromosome is
+### Q181 — Location of gene on chromosome is
 
 Location of gene on chromosome is identified by
 
@@ -5299,8 +3197,7 @@ Location of gene on chromosome is identified by
 ---
 
 ---
-
-### Q288 — Tyrosine kinase receptor is associated with
+### Q182 — Tyrosine kinase receptor is associated with
 
 Tyrosine kinase receptor is associated with proto¬oncogene -
 
@@ -5318,8 +3215,7 @@ Tyrosine kinase receptor is associated with proto¬oncogene -
 ---
 
 ---
-
-### Q289 — Which is not a tumor suppressor
+### Q183 — Which is not a tumor suppressor
 
 Which is not a tumor suppressor gene ?
 
@@ -5337,8 +3233,7 @@ Which is not a tumor suppressor gene ?
 ---
 
 ---
-
-### Q290 — Which of the following has tumor
+### Q184 — Which of the following has tumor
 
 Which of the following has tumor promoting effect?
 
@@ -5356,8 +3251,7 @@ Which of the following has tumor promoting effect?
 ---
 
 ---
-
-### Q291 — Hematological carcinoma is commonly linked to
+### Q185 — Hematological carcinoma is commonly linked to
 
 Hematological carcinoma is commonly linked to
 
@@ -5375,8 +3269,7 @@ Hematological carcinoma is commonly linked to
 ---
 
 ---
-
-### Q292 — Major contribution to cachexia with advanced
+### Q186 — Major contribution to cachexia with advanced
 
 Major contribution to cachexia with advanced cancer?
 
@@ -5394,8 +3287,7 @@ Major contribution to cachexia with advanced cancer?
 ---
 
 ---
-
-### Q293 — Level of which of the following
+### Q187 — Level of which of the following
 
 Level of which of the following is not elevated in heart disease
 
@@ -5413,8 +3305,7 @@ Level of which of the following is not elevated in heart disease
 ---
 
 ---
-
-### Q294 — Which protein is defective in dialated
+### Q188 — Which protein is defective in dialated
 
 Which protein is defective in dialated cardiomyopathy?
 
@@ -5432,8 +3323,7 @@ Which protein is defective in dialated cardiomyopathy?
 ---
 
 ---
-
-### Q295 — Lines of Zahn are seen in
+### Q189 — Lines of Zahn are seen in
 
 Lines of Zahn are seen in -
 
@@ -5451,8 +3341,7 @@ Lines of Zahn are seen in -
 ---
 
 ---
-
-### Q296 — Concentric hypertrophy of left ventricle is
+### Q190 — Concentric hypertrophy of left ventricle is
 
 Concentric hypertrophy of left ventricle is seen in -
 
@@ -5470,8 +3359,7 @@ Concentric hypertrophy of left ventricle is seen in -
 ---
 
 ---
-
-### Q297 — Which type of artery is most
+### Q191 — Which type of artery is most
 
 Which type of artery is most commonly involved in PAN?
 
@@ -5489,8 +3377,7 @@ Which type of artery is most commonly involved in PAN?
 ---
 
 ---
-
-### Q298 — Amount of blood loss in Stage
+### Q192 — Amount of blood loss in Stage
 
 Amount of blood loss in Stage I of hemorrhagic shock is -
 
@@ -5508,8 +3395,7 @@ Amount of blood loss in Stage I of hemorrhagic shock is -
 ---
 
 ---
-
-### Q299 — Normal Myeloid - erythroid ratio is
+### Q193 — Normal Myeloid - erythroid ratio is
 
 Normal Myeloid - erythroid ratio is -
 
@@ -5527,8 +3413,7 @@ Normal Myeloid - erythroid ratio is -
 ---
 
 ---
-
-### Q300 — Distinguishing feature of reticulocyte is -
+### Q194 — Distinguishing feature of reticulocyte is -
 
 Distinguishing feature of reticulocyte is -
 
@@ -5546,8 +3431,7 @@ Distinguishing feature of reticulocyte is -
 ---
 
 ---
-
-### Q301 — True about anthrax toxin are all
+### Q195 — True about anthrax toxin are all
 
 True about anthrax toxin are all except:
 
@@ -5565,8 +3449,7 @@ True about anthrax toxin are all except:
 ---
 
 ---
-
-### Q302 — Which of the following Vitamin deficiency
+### Q196 — Which of the following Vitamin deficiency
 
 Which of the following Vitamin deficiency is seen in short bowel syndrome with ileal resection ?
 
@@ -5584,8 +3467,7 @@ Which of the following Vitamin deficiency is seen in short bowel syndrome with i
 ---
 
 ---
-
-### Q303 — Therepeutic phlebotomy is not done in
+### Q197 — Therepeutic phlebotomy is not done in
 
 Therepeutic phlebotomy is not done in which of the following conditions ?
 
@@ -5604,10 +3486,9 @@ Therepeutic phlebotomy is not done in which of the following conditions ?
 
 ---
 
-
 ## Year 2016
 
-### Q304 — used in citric acid cycle are *(2016)*
+### Q198 — used in citric acid cycle are *(2016)*
 
 used in citric acid cycle are all except-
 
@@ -5624,12 +3505,10 @@ used in citric acid cycle are all except-
 
 ---
 
-
 ---
 
 ---
-
-### Q305 — of the following steps act as *(2016)*
+### Q199 — of the following steps act as *(2016)*
 
 All of the following steps act as sources of energy in citric acid cycle except -
 
@@ -5646,12 +3525,10 @@ All of the following steps act as sources of energy in citric acid cycle except 
 
 ---
 
-
 ---
 
 ---
-
-### Q306 — of the following are true about *(2016)*
+### Q200 — of the following are true about *(2016)*
 
 All of the following are true about lactate utilisation in liver except -
 
@@ -5668,12 +3545,10 @@ All of the following are true about lactate utilisation in liver except -
 
 ---
 
-
 ---
 
 ---
-
-### Q307 — of the following is true about *(2016)*
+### Q201 — of the following is true about *(2016)*
 
 Which of the following is true about effect of insulin and glucagon on gluconeogenesis?
 
@@ -5690,12 +3565,10 @@ Which of the following is true about effect of insulin and glucagon on gluconeog
 
 ---
 
-
 ---
 
 ---
-
-### Q308 — Key enzyme of gluconeogenesis are all *(2016)*
+### Q202 — Key enzyme of gluconeogenesis are all *(2016)*
 
 Key enzyme of gluconeogenesis are all except?
 
@@ -5712,12 +3585,10 @@ Key enzyme of gluconeogenesis are all except?
 
 ---
 
-
 ---
 
 ---
-
-### Q309 — In glycogen synthesis the active form *(2016)*
+### Q203 — In glycogen synthesis the active form *(2016)*
 
 In glycogen synthesis the active form of glucose used is-
 
@@ -5734,12 +3605,10 @@ In glycogen synthesis the active form of glucose used is-
 
 ---
 
-
 ---
 
 ---
-
-### Q310 — UDP glucose is not used in *(2016)*
+### Q204 — UDP glucose is not used in *(2016)*
 
 UDP glucose is not used in ?
 
@@ -5756,12 +3625,10 @@ UDP glucose is not used in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q311 — of the following is a serine *(2016)*
+### Q205 — of the following is a serine *(2016)*
 
 Which of the following is a serine protease
 
@@ -5778,12 +3645,10 @@ Which of the following is a serine protease
 
 ---
 
-
 ---
 
 ---
-
-### Q312 — Essential fatty acids are except *(2016)*
+### Q206 — Essential fatty acids are except *(2016)*
 
 Essential fatty acids are except:
 
@@ -5800,12 +3665,10 @@ Essential fatty acids are except:
 
 ---
 
-
 ---
 
 ---
-
-### Q313 — of the following is a transfatty *(2016)*
+### Q207 — of the following is a transfatty *(2016)*
 
 Which of the following is a transfatty acid?
 
@@ -5822,12 +3685,10 @@ Which of the following is a transfatty acid?
 
 ---
 
-
 ---
 
 ---
-
-### Q314 — Activators of Acetyl CoA carboxylase are *(2016)*
+### Q208 — Activators of Acetyl CoA carboxylase are *(2016)*
 
 Activators of Acetyl CoA carboxylase are all except
 
@@ -5844,12 +3705,10 @@ Activators of Acetyl CoA carboxylase are all except
 
 ---
 
-
 ---
 
 ---
-
-### Q315 — Arachidonic acid oxidation involves how many *(2016)*
+### Q209 — Arachidonic acid oxidation involves how many *(2016)*
 
 Arachidonic acid oxidation involves how many cycles of beta oxidation?
 
@@ -5866,12 +3725,10 @@ Arachidonic acid oxidation involves how many cycles of beta oxidation?
 
 ---
 
-
 ---
 
 ---
-
-### Q316 — are true about beta oxidation of *(2016)*
+### Q210 — are true about beta oxidation of *(2016)*
 
 All are true about beta oxidation of fatty acids except -
 
@@ -5888,12 +3745,10 @@ All are true about beta oxidation of fatty acids except -
 
 ---
 
-
 ---
 
 ---
-
-### Q317 — of the following is true about *(2016)*
+### Q211 — of the following is true about *(2016)*
 
 Which of the following is true about Beta oxidation of fatty acids?
 
@@ -5910,12 +3765,10 @@ Which of the following is true about Beta oxidation of fatty acids?
 
 ---
 
-
 ---
 
 ---
-
-### Q318 — Reverse cholesterol transport - all are *(2016)*
+### Q212 — Reverse cholesterol transport - all are *(2016)*
 
 Reverse cholesterol transport - all are true except-
 
@@ -5932,12 +3785,10 @@ Reverse cholesterol transport - all are true except-
 
 ---
 
-
 ---
 
 ---
-
-### Q319 — Progesterone synthesis requires - *(2016)*
+### Q213 — Progesterone synthesis requires - *(2016)*
 
 Progesterone synthesis requires -
 
@@ -5954,12 +3805,10 @@ Progesterone synthesis requires -
 
 ---
 
-
 ---
 
 ---
-
-### Q320 — Site of small chain fatty acid *(2016)*
+### Q214 — Site of small chain fatty acid *(2016)*
 
 Site of small chain fatty acid absorption is -
 
@@ -5976,12 +3825,10 @@ Site of small chain fatty acid absorption is -
 
 ---
 
-
 ---
 
 ---
-
-### Q321 — HMG CoA is precursor of all *(2016)*
+### Q215 — HMG CoA is precursor of all *(2016)*
 
 HMG CoA is precursor of all except-
 
@@ -5998,12 +3845,10 @@ HMG CoA is precursor of all except-
 
 ---
 
-
 ---
 
 ---
-
-### Q322 — is the parameter that is used *(2016)*
+### Q216 — is the parameter that is used *(2016)*
 
 What is the parameter that is used to assess lipid peroxidation?
 
@@ -6020,12 +3865,10 @@ What is the parameter that is used to assess lipid peroxidation?
 
 ---
 
-
 ---
 
 ---
-
-### Q323 — are true about ketone bodies except *(2016)*
+### Q217 — are true about ketone bodies except *(2016)*
 
 All are true about ketone bodies except ?
 
@@ -6042,12 +3885,10 @@ All are true about ketone bodies except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q324 — are features of Abetalipoproteinemia EXCEPT *(2016)*
+### Q218 — are features of Abetalipoproteinemia EXCEPT *(2016)*
 
 All are features of Abetalipoproteinemia, EXCEPT:
 
@@ -6064,12 +3905,10 @@ All are features of Abetalipoproteinemia, EXCEPT:
 
 ---
 
-
 ---
 
 ---
-
-### Q325 — Amino acid in synthesis of neurotransmitter *(2016)*
+### Q219 — Amino acid in synthesis of neurotransmitter *(2016)*
 
 Amino acid in synthesis of neurotransmitter
 
@@ -6086,12 +3925,10 @@ Amino acid in synthesis of neurotransmitter
 
 ---
 
-
 ---
 
 ---
-
-### Q326 — Maximum buffering capacity of a buffer *(2016)*
+### Q220 — Maximum buffering capacity of a buffer *(2016)*
 
 Maximum buffering capacity of a buffer is maximum at pH
 
@@ -6108,12 +3945,10 @@ Maximum buffering capacity of a buffer is maximum at pH
 
 ---
 
-
 ---
 
 ---
-
-### Q327 — Essential amino-acid deficiency affect nitrogen ba *(2016)*
+### Q221 — Essential amino-acid deficiency affect nitrogen ba *(2016)*
 
 Essential amino-acid deficiency affect nitrogen balance by
 
@@ -6130,12 +3965,10 @@ Essential amino-acid deficiency affect nitrogen balance by
 
 ---
 
-
 ---
 
 ---
-
-### Q328 — Acidic amino acids are - *(2016)*
+### Q222 — Acidic amino acids are - *(2016)*
 
 Acidic amino acids are -
 
@@ -6152,12 +3985,10 @@ Acidic amino acids are -
 
 ---
 
-
 ---
 
 ---
-
-### Q329 — Function of tyrosinase is *(2016)*
+### Q223 — Function of tyrosinase is *(2016)*
 
 Function of tyrosinase is
 
@@ -6174,12 +4005,10 @@ Function of tyrosinase is
 
 ---
 
-
 ---
 
 ---
-
-### Q330 — Cofactor for dopamine hydroxylase *(2016)*
+### Q224 — Cofactor for dopamine hydroxylase *(2016)*
 
 Cofactor for dopamine hydroxylase ?
 
@@ -6196,12 +4025,10 @@ Cofactor for dopamine hydroxylase ?
 
 ---
 
-
 ---
 
 ---
-
-### Q331 — Rate limiting enzyme in catecholamine synthesis *(2016)*
+### Q225 — Rate limiting enzyme in catecholamine synthesis *(2016)*
 
 Rate limiting enzyme in catecholamine synthesis?
 
@@ -6218,12 +4045,10 @@ Rate limiting enzyme in catecholamine synthesis?
 
 ---
 
-
 ---
 
 ---
-
-### Q332 — Enzyme which acts on aspartate *(2016)*
+### Q226 — Enzyme which acts on aspartate *(2016)*
 
 Enzyme which acts on aspartate
 
@@ -6240,12 +4065,10 @@ Enzyme which acts on aspartate
 
 ---
 
-
 ---
 
 ---
-
-### Q333 — True about glutamate dehydrogenase is AE *(2016)*
+### Q227 — True about glutamate dehydrogenase is AE *(2016)*
 
 True about glutamate dehydrogenase is A/E
 
@@ -6262,12 +4085,10 @@ True about glutamate dehydrogenase is A/E
 
 ---
 
-
 ---
 
 ---
-
-### Q334 — Allosteric stimulator of glutamate dehydrogenase i *(2016)*
+### Q228 — Allosteric stimulator of glutamate dehydrogenase i *(2016)*
 
 Allosteric stimulator of glutamate dehydrogenase is
 
@@ -6284,12 +4105,10 @@ Allosteric stimulator of glutamate dehydrogenase is
 
 ---
 
-
 ---
 
 ---
-
-### Q335 — of the following is a biologically *(2016)*
+### Q229 — of the following is a biologically *(2016)*
 
 Which of the following is a biologically important tripeptide?
 
@@ -6306,12 +4125,10 @@ Which of the following is a biologically important tripeptide?
 
 ---
 
-
 ---
 
 ---
-
-### Q336 — Carbamoyl Phosphate synthetase I CPSI true *(2016)*
+### Q230 — Carbamoyl Phosphate synthetase I CPSI true *(2016)*
 
 Carbamoyl Phosphate synthetase I [CPSI] true is
 
@@ -6328,12 +4145,10 @@ Carbamoyl Phosphate synthetase I [CPSI] true is
 
 ---
 
-
 ---
 
 ---
-
-### Q337 — Carbamoyl phosphate synthetase I is *(2016)*
+### Q231 — Carbamoyl phosphate synthetase I is *(2016)*
 
 Carbamoyl phosphate synthetase I is:
 
@@ -6350,12 +4165,10 @@ Carbamoyl phosphate synthetase I is:
 
 ---
 
-
 ---
 
 ---
-
-### Q338 — of the following can determine protein *(2016)*
+### Q232 — of the following can determine protein *(2016)*
 
 All of the following can determine protein structure except
 
@@ -6372,12 +4185,10 @@ All of the following can determine protein structure except
 
 ---
 
-
 ---
 
 ---
-
-### Q339 — abundant aminoacid in brain is *(2016)*
+### Q233 — abundant aminoacid in brain is *(2016)*
 
 Most abundant aminoacid in brain is
 
@@ -6394,12 +4205,10 @@ Most abundant aminoacid in brain is
 
 ---
 
-
 ---
 
 ---
-
-### Q340 — Vitamin given in homocysteinuria are all *(2016)*
+### Q234 — Vitamin given in homocysteinuria are all *(2016)*
 
 Vitamin given in homocysteinuria are all except
 
@@ -6416,12 +4225,10 @@ Vitamin given in homocysteinuria are all except
 
 ---
 
-
 ---
 
 ---
-
-### Q341 — Glutathione is used to detoxify which *(2016)*
+### Q235 — Glutathione is used to detoxify which *(2016)*
 
 Glutathione is used to detoxify which free radical?
 
@@ -6438,12 +4245,10 @@ Glutathione is used to detoxify which free radical?
 
 ---
 
-
 ---
 
 ---
-
-### Q342 — Match enzyme with the disease caused *(2016)*
+### Q236 — Match enzyme with the disease caused *(2016)*
 
 Match enzyme with the disease caused due to its deficiency - Enzyme Disease A. Tyrosinemia Type II Fumarylacetoacetate
 
@@ -6460,12 +4265,10 @@ Match enzyme with the disease caused due to its deficiency - Enzyme Disease A. T
 
 ---
 
-
 ---
 
 ---
-
-### Q343 — of the following has two amino *(2016)*
+### Q237 — of the following has two amino *(2016)*
 
 Which of the following has two amino groups-
 
@@ -6482,12 +4285,10 @@ Which of the following has two amino groups-
 
 ---
 
-
 ---
 
 ---
-
-### Q344 — Alternate fuel for brain is *(2016)*
+### Q238 — Alternate fuel for brain is *(2016)*
 
 Alternate fuel for brain is
 
@@ -6504,12 +4305,10 @@ Alternate fuel for brain is
 
 ---
 
-
 ---
 
 ---
-
-### Q345 — Pyruvate can be a substrate of *(2016)*
+### Q239 — Pyruvate can be a substrate of *(2016)*
 
 Pyruvate can be a substrate of all except
 
@@ -6526,12 +4325,10 @@ Pyruvate can be a substrate of all except
 
 ---
 
-
 ---
 
 ---
-
-### Q346 — vitamin is required for conversion of *(2016)*
+### Q240 — vitamin is required for conversion of *(2016)*
 
 Which vitamin is required for conversion of serine to glycine?
 
@@ -6548,12 +4345,10 @@ Which vitamin is required for conversion of serine to glycine?
 
 ---
 
-
 ---
 
 ---
-
-### Q347 — Headache and papilledema are features of *(2016)*
+### Q241 — Headache and papilledema are features of *(2016)*
 
 Headache and papilledema are features of toxicity of which vitamin?
 
@@ -6570,12 +4365,10 @@ Headache and papilledema are features of toxicity of which vitamin?
 
 ---
 
-
 ---
 
 ---
-
-### Q348 — of the following is teratogenic *(2016)*
+### Q242 — of the following is teratogenic *(2016)*
 
 Which of the following is teratogenic:
 
@@ -6592,12 +4385,10 @@ Which of the following is teratogenic:
 
 ---
 
-
 ---
 
 ---
-
-### Q349 — Alcoholism leads to deficiency of which *(2016)*
+### Q243 — Alcoholism leads to deficiency of which *(2016)*
 
 Alcoholism leads to deficiency of which vitamin ?
 
@@ -6614,12 +4405,10 @@ Alcoholism leads to deficiency of which vitamin ?
 
 ---
 
-
 ---
 
 ---
-
-### Q350 — Vitamin B12 is required for all *(2016)*
+### Q244 — Vitamin B12 is required for all *(2016)*
 
 Vitamin B12 is required for all of the following except ?
 
@@ -6636,12 +4425,10 @@ Vitamin B12 is required for all of the following except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q351 — of the following vitamins is significantly *(2016)*
+### Q245 — of the following vitamins is significantly *(2016)*
 
 Which of the following vitamins is significantly synthesised in gut by intestinal flora?
 
@@ -6658,12 +4445,10 @@ Which of the following vitamins is significantly synthesised in gut by intestina
 
 ---
 
-
 ---
 
 ---
-
-### Q352 — of the following elements is known *(2016)*
+### Q246 — of the following elements is known *(2016)*
 
 Which of the following elements is known to influence the body's ability to handle oxidative stress?
 
@@ -6680,12 +4465,10 @@ Which of the following elements is known to influence the body's ability to hand
 
 ---
 
-
 ---
 
 ---
-
-### Q353 — Vitamin B12 deficiency causes all except *(2016)*
+### Q247 — Vitamin B12 deficiency causes all except *(2016)*
 
 Vitamin B12 deficiency causes all except ?
 
@@ -6702,12 +4485,10 @@ Vitamin B12 deficiency causes all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q354 — Richest source of vitamin B12 *(2016)*
+### Q248 — Richest source of vitamin B12 *(2016)*
 
 Richest source of vitamin B12 ?
 
@@ -6724,12 +4505,10 @@ Richest source of vitamin B12 ?
 
 ---
 
-
 ---
 
 ---
-
-### Q355 — Antistress Vitamin is *(2016)*
+### Q249 — Antistress Vitamin is *(2016)*
 
 Antistress Vitamin is?
 
@@ -6746,12 +4525,10 @@ Antistress Vitamin is?
 
 ---
 
-
 ---
 
 ---
-
-### Q356 — True about Purine synthesis *(2016)*
+### Q250 — True about Purine synthesis *(2016)*
 
 True about Purine synthesis ?
 
@@ -6768,12 +4545,10 @@ True about Purine synthesis ?
 
 ---
 
-
 ---
 
 ---
-
-### Q357 — True about pyrimidine catabolism is *(2016)*
+### Q251 — True about pyrimidine catabolism is *(2016)*
 
 True about pyrimidine catabolism is ?
 
@@ -6790,12 +4565,10 @@ True about pyrimidine catabolism is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q358 — linkage which links individual nucleotides in *(2016)*
+### Q252 — linkage which links individual nucleotides in *(2016)*
 
 The linkage which links individual nucleotides in a polynucleotide chain is -
 
@@ -6812,12 +4585,10 @@ The linkage which links individual nucleotides in a polynucleotide chain is -
 
 ---
 
-
 ---
 
 ---
-
-### Q359 — Bond formation between ribose sugar and *(2016)*
+### Q253 — Bond formation between ribose sugar and *(2016)*
 
 Bond formation between ribose sugar and nitrogen is ?
 
@@ -6834,12 +4605,10 @@ Bond formation between ribose sugar and nitrogen is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q360 — Ataxia telangiectasia is caused by a *(2016)*
+### Q254 — Ataxia telangiectasia is caused by a *(2016)*
 
 Ataxia telangiectasia is caused by a defect of ?
 
@@ -6856,12 +4625,10 @@ Ataxia telangiectasia is caused by a defect of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q361 — Molecular mimicry is established in the *(2016)*
+### Q255 — Molecular mimicry is established in the *(2016)*
 
 Molecular mimicry is established in the presence of ?
 
@@ -6878,12 +4645,10 @@ Molecular mimicry is established in the presence of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q362 — DNA fragments are separated by *(2016)*
+### Q256 — DNA fragments are separated by *(2016)*
 
 DNA fragments are separated by ?
 
@@ -6900,12 +4665,10 @@ DNA fragments are separated by ?
 
 ---
 
-
 ---
 
 ---
-
-### Q363 — Left handed helix is seen in *(2016)*
+### Q257 — Left handed helix is seen in *(2016)*
 
 Left handed helix is seen in -
 
@@ -6922,12 +4685,10 @@ Left handed helix is seen in -
 
 ---
 
-
 ---
 
 ---
-
-### Q364 — Aminoacyl tRNA gets attached to which *(2016)*
+### Q258 — Aminoacyl tRNA gets attached to which *(2016)*
 
 Aminoacyl tRNA gets attached to which site of ribosome?
 
@@ -6944,12 +4705,10 @@ Aminoacyl tRNA gets attached to which site of ribosome?
 
 ---
 
-
 ---
 
 ---
-
-### Q365 — Okazaki fragments are formed during *(2016)*
+### Q259 — Okazaki fragments are formed during *(2016)*
 
 Okazaki fragments are formed during ?
 
@@ -6966,12 +4725,10 @@ Okazaki fragments are formed during ?
 
 ---
 
-
 ---
 
 ---
-
-### Q366 — Splicing is a process of *(2016)*
+### Q260 — Splicing is a process of *(2016)*
 
 Splicing is a process of ?
 
@@ -6988,12 +4745,10 @@ Splicing is a process of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q367 — Proteins are stored as *(2016)*
+### Q261 — Proteins are stored as *(2016)*
 
 Proteins are stored as ?
 
@@ -7010,12 +4765,10 @@ Proteins are stored as ?
 
 ---
 
-
 ---
 
 ---
-
-### Q368 — Flow cytometry is done on *(2016)*
+### Q262 — Flow cytometry is done on *(2016)*
 
 Flow cytometry is done on
 
@@ -7032,12 +4785,10 @@ Flow cytometry is done on
 
 ---
 
-
 ---
 
 ---
-
-### Q369 — True about tRNA *(2016)*
+### Q263 — True about tRNA *(2016)*
 
 True about tRNA ?
 
@@ -7054,12 +4805,10 @@ True about tRNA ?
 
 ---
 
-
 ---
 
 ---
-
-### Q370 — Chimeric DNA true are all except *(2016)*
+### Q264 — Chimeric DNA true are all except *(2016)*
 
 Chimeric DNA true are all except ?
 
@@ -7076,12 +4825,10 @@ Chimeric DNA true are all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q371 — is the role of catabolite activator *(2016)*
+### Q265 — is the role of catabolite activator *(2016)*
 
 What is the role of catabolite activator protein (CAP) in LAC operon?
 
@@ -7098,12 +4845,10 @@ What is the role of catabolite activator protein (CAP) in LAC operon?
 
 ---
 
-
 ---
 
 ---
-
-### Q372 — LacY in Lac Operon codes for *(2016)*
+### Q266 — LacY in Lac Operon codes for *(2016)*
 
 LacY in Lac Operon codes for ?
 
@@ -7120,12 +4865,10 @@ LacY in Lac Operon codes for ?
 
 ---
 
-
 ---
 
 ---
-
-### Q373 — Ubiquitin Proteasome pathway is used for *(2016)*
+### Q267 — Ubiquitin Proteasome pathway is used for *(2016)*
 
 Ubiquitin Proteasome pathway is used for degradation of ?
 
@@ -7142,12 +4885,10 @@ Ubiquitin Proteasome pathway is used for degradation of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q374 — Small RNAs are *(2016)*
+### Q268 — Small RNAs are *(2016)*
 
 Small RNAs are ?
 
@@ -7164,12 +4905,10 @@ Small RNAs are ?
 
 ---
 
-
 ---
 
 ---
-
-### Q375 — most abundant aminoacid of collagen is *(2016)*
+### Q269 — most abundant aminoacid of collagen is *(2016)*
 
 The most abundant aminoacid of collagen is -
 
@@ -7186,12 +4925,10 @@ The most abundant aminoacid of collagen is -
 
 ---
 
-
 ---
 
 ---
-
-### Q376 — Folds in collagen are due to- *(2016)*
+### Q270 — Folds in collagen are due to- *(2016)*
 
 Folds in collagen are due to-
 
@@ -7208,12 +4945,10 @@ Folds in collagen are due to-
 
 ---
 
-
 ---
 
 ---
-
-### Q377 — Gerhardts test is used to detect *(2016)*
+### Q271 — Gerhardts test is used to detect *(2016)*
 
 Gerhardt's test is used to detect ?
 
@@ -7230,12 +4965,10 @@ Gerhardt's test is used to detect ?
 
 ---
 
-
 ---
 
 ---
-
-### Q378 — Genetically mediated VLDL overproduction is a *(2016)*
+### Q272 — Genetically mediated VLDL overproduction is a *(2016)*
 
 Genetically mediated VLDL overproduction is a feature of all except ?
 
@@ -7252,12 +4985,10 @@ Genetically mediated VLDL overproduction is a feature of all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q379 — Synthetic oxygen carrier is *(2016)*
+### Q273 — Synthetic oxygen carrier is *(2016)*
 
 Synthetic oxygen carrier is ?
 
@@ -7274,12 +5005,10 @@ Synthetic oxygen carrier is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q380 — Pepsinogen is activated by *(2016)*
+### Q274 — Pepsinogen is activated by *(2016)*
 
 Pepsinogen is activated by ?
 
@@ -7296,12 +5025,10 @@ Pepsinogen is activated by ?
 
 ---
 
-
 ---
 
 ---
-
-### Q381 — of the following accumulates in maple *(2016)*
+### Q275 — of the following accumulates in maple *(2016)*
 
 Which of the following accumulates in maple syrup urine disease
 
@@ -7318,12 +5045,10 @@ Which of the following accumulates in maple syrup urine disease
 
 ---
 
-
 ---
 
 ---
-
-### Q382 — Heme is synthesized from *(2016)*
+### Q276 — Heme is synthesized from *(2016)*
 
 Heme is synthesized from ?
 
@@ -7340,12 +5065,10 @@ Heme is synthesized from ?
 
 ---
 
-
 ---
 
 ---
-
-### Q383 — True about coproporphyrin I and coproporphyrin *(2016)*
+### Q277 — True about coproporphyrin I and coproporphyrin *(2016)*
 
 True about coproporphyrin I and coproporphyrin III is -
 
@@ -7362,12 +5085,10 @@ True about coproporphyrin I and coproporphyrin III is -
 
 ---
 
-
 ---
 
 ---
-
-### Q384 — Dystrophic calcification is seen in *(2016)*
+### Q278 — Dystrophic calcification is seen in *(2016)*
 
 Dystrophic calcification is seen in ?
 
@@ -7384,12 +5105,10 @@ Dystrophic calcification is seen in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q385 — is the first sign of injury *(2016)*
+### Q279 — is the first sign of injury *(2016)*
 
 What is the first sign of injury?
 
@@ -7406,12 +5125,10 @@ What is the first sign of injury?
 
 ---
 
-
 ---
 
 ---
-
-### Q386 — Blebs are found in which type *(2016)*
+### Q280 — Blebs are found in which type *(2016)*
 
 Blebs are found in which type of injury?
 
@@ -7428,12 +5145,10 @@ Blebs are found in which type of injury?
 
 ---
 
-
 ---
 
 ---
-
-### Q387 — Hydropic change is due to - *(2016)*
+### Q281 — Hydropic change is due to - *(2016)*
 
 Hydropic change is due to -
 
@@ -7450,12 +5165,10 @@ Hydropic change is due to -
 
 ---
 
-
 ---
 
 ---
-
-### Q388 — Nuclei are arranged at the cell *(2016)*
+### Q282 — Nuclei are arranged at the cell *(2016)*
 
 Nuclei are arranged at the cell periphery in which type of cell?
 
@@ -7472,12 +5185,10 @@ Nuclei are arranged at the cell periphery in which type of cell?
 
 ---
 
-
 ---
 
 ---
-
-### Q389 — Not true about VEGF is - *(2016)*
+### Q283 — Not true about VEGF is - *(2016)*
 
 Not true about VEGF is -
 
@@ -7494,12 +5205,10 @@ Not true about VEGF is -
 
 ---
 
-
 ---
 
 ---
-
-### Q390 — Endothelial molecule involved in rolling is *(2016)*
+### Q284 — Endothelial molecule involved in rolling is *(2016)*
 
 Endothelial molecule involved in rolling is -
 
@@ -7516,12 +5225,10 @@ Endothelial molecule involved in rolling is -
 
 ---
 
-
 ---
 
 ---
-
-### Q391 — Acute phase reactants are stimulated by *(2016)*
+### Q285 — Acute phase reactants are stimulated by *(2016)*
 
 Acute phase reactants are stimulated by -
 
@@ -7538,12 +5245,10 @@ Acute phase reactants are stimulated by -
 
 ---
 
-
 ---
 
 ---
-
-### Q392 — Vasodilatation following endothelial damage is due *(2016)*
+### Q286 — Vasodilatation following endothelial damage is due *(2016)*
 
 Vasodilatation following endothelial damage is due to ?
 
@@ -7560,12 +5265,10 @@ Vasodilatation following endothelial damage is due to ?
 
 ---
 
-
 ---
 
 ---
-
-### Q393 — Lymphotactin is which type of chemokine *(2016)*
+### Q287 — Lymphotactin is which type of chemokine *(2016)*
 
 Lymphotactin is which type of chemokine?
 
@@ -7582,12 +5285,10 @@ Lymphotactin is which type of chemokine?
 
 ---
 
-
 ---
 
 ---
-
-### Q394 — Primary granules contain which enzyme *(2016)*
+### Q288 — Primary granules contain which enzyme *(2016)*
 
 Primary granules contain which enzyme?
 
@@ -7604,12 +5305,10 @@ Primary granules contain which enzyme?
 
 ---
 
-
 ---
 
 ---
-
-### Q395 — Peroxidase enzyme found in neutrophills is *(2016)*
+### Q289 — Peroxidase enzyme found in neutrophills is *(2016)*
 
 Peroxidase enzyme found in neutrophills is used for -
 
@@ -7626,12 +5325,10 @@ Peroxidase enzyme found in neutrophills is used for -
 
 ---
 
-
 ---
 
 ---
-
-### Q396 — Decrease in plasma osmotic pressure is *(2016)*
+### Q290 — Decrease in plasma osmotic pressure is *(2016)*
 
 Decrease in plasma osmotic pressure is cause of edema in?
 
@@ -7648,12 +5345,10 @@ Decrease in plasma osmotic pressure is cause of edema in?
 
 ---
 
-
 ---
 
 ---
-
-### Q397 — Normal time taken for scar formation *(2016)*
+### Q291 — Normal time taken for scar formation *(2016)*
 
 Normal time taken for scar formation after injury is?
 
@@ -7670,12 +5365,10 @@ Normal time taken for scar formation after injury is?
 
 ---
 
-
 ---
 
 ---
-
-### Q398 — type of healing occurs in an *(2016)*
+### Q292 — type of healing occurs in an *(2016)*
 
 Which type of healing occurs in an incisional wound with infection?
 
@@ -7692,12 +5385,10 @@ Which type of healing occurs in an incisional wound with infection?
 
 ---
 
-
 ---
 
 ---
-
-### Q399 — of the following cell types undergo *(2016)*
+### Q293 — of the following cell types undergo *(2016)*
 
 All of the following cell types undergo cell division, EXCEPT:
 
@@ -7714,12 +5405,10 @@ All of the following cell types undergo cell division, EXCEPT:
 
 ---
 
-
 ---
 
 ---
-
-### Q400 — Gene for embryogenic stem cell is *(2016)*
+### Q294 — Gene for embryogenic stem cell is *(2016)*
 
 Gene for embryogenic stem cell is -
 
@@ -7736,12 +5425,10 @@ Gene for embryogenic stem cell is -
 
 ---
 
-
 ---
 
 ---
-
-### Q401 — T-cell mediated disease is *(2016)*
+### Q295 — T-cell mediated disease is *(2016)*
 
 T-cell mediated disease is?
 
@@ -7758,12 +5445,10 @@ T-cell mediated disease is?
 
 ---
 
-
 ---
 
 ---
-
-### Q402 — Non IgE mediated anaphylactic reaction includes *(2016)*
+### Q296 — Non IgE mediated anaphylactic reaction includes *(2016)*
 
 Non IgE mediated anaphylactic reaction includes -
 
@@ -7780,12 +5465,10 @@ Non IgE mediated anaphylactic reaction includes -
 
 ---
 
-
 ---
 
 ---
-
-### Q403 — MHC1 is involved in *(2016)*
+### Q297 — MHC1 is involved in *(2016)*
 
 MHC1 is involved in?
 
@@ -7802,12 +5485,10 @@ MHC1 is involved in?
 
 ---
 
-
 ---
 
 ---
-
-### Q404 — CD4 is associated with HLA *(2016)*
+### Q298 — CD4 is associated with HLA *(2016)*
 
 CD4 is associated with HLA?
 
@@ -7824,12 +5505,10 @@ CD4 is associated with HLA?
 
 ---
 
-
 ---
 
 ---
-
-### Q405 — Memory cells are *(2016)*
+### Q299 — Memory cells are *(2016)*
 
 Memory cells are:
 
@@ -7846,12 +5525,10 @@ Memory cells are:
 
 ---
 
-
 ---
 
 ---
-
-### Q406 — of the following interleukin is secreted *(2016)*
+### Q300 — of the following interleukin is secreted *(2016)*
 
 Which of the following interleukin is secreted by T helper 2 cells?
 
@@ -7868,12 +5545,10 @@ Which of the following interleukin is secreted by T helper 2 cells?
 
 ---
 
-
 ---
 
 ---
-
-### Q407 — are true about Toll like receptors *(2016)*
+### Q301 — are true about Toll like receptors *(2016)*
 
 All are true about Toll like receptors except?
 
@@ -7890,12 +5565,10 @@ All are true about Toll like receptors except?
 
 ---
 
-
 ---
 
 ---
-
-### Q408 — Toll like receptors are seen on *(2016)*
+### Q302 — Toll like receptors are seen on *(2016)*
 
 Toll like receptors are seen on?
 
@@ -7912,12 +5585,10 @@ Toll like receptors are seen on?
 
 ---
 
-
 ---
 
 ---
-
-### Q409 — most common organ to be involved *(2016)*
+### Q303 — most common organ to be involved *(2016)*
 
 The most common organ to be involved in the acute phase of Graft vs host disease is?
 
@@ -7934,12 +5605,10 @@ The most common organ to be involved in the acute phase of Graft vs host disease
 
 ---
 
-
 ---
 
 ---
-
-### Q410 — Normal value of CD4CD8 ratio is *(2016)*
+### Q304 — Normal value of CD4CD8 ratio is *(2016)*
 
 Normal value of CD4:CD8 ratio is -
 
@@ -7956,12 +5625,10 @@ Normal value of CD4:CD8 ratio is -
 
 ---
 
-
 ---
 
 ---
-
-### Q411 — More than 90 patients of CREST *(2016)*
+### Q305 — More than 90 patients of CREST *(2016)*
 
 More than 90% patients of CREST syndrome with the limited cutaneous form of this disorder make which of the following autoantibodies?
 
@@ -7978,12 +5645,10 @@ More than 90% patients of CREST syndrome with the limited cutaneous form of this
 
 ---
 
-
 ---
 
 ---
-
-### Q412 — Expression of a gene is known *(2016)*
+### Q306 — Expression of a gene is known *(2016)*
 
 Expression of a gene is known as?
 
@@ -8000,12 +5665,10 @@ Expression of a gene is known as?
 
 ---
 
-
 ---
 
 ---
-
-### Q413 — Acute intermittent porphyria is associated with *(2016)*
+### Q307 — Acute intermittent porphyria is associated with *(2016)*
 
 Acute intermittent porphyria is associated with which type of inheritance?
 
@@ -8022,12 +5685,10 @@ Acute intermittent porphyria is associated with which type of inheritance?
 
 ---
 
-
 ---
 
 ---
-
-### Q414 — Inheritance associated with congenital adrenal hyp *(2016)*
+### Q308 — Inheritance associated with congenital adrenal hyp *(2016)*
 
 Inheritance associated with congenital adrenal hyperplasia -
 
@@ -8044,12 +5705,10 @@ Inheritance associated with congenital adrenal hyperplasia -
 
 ---
 
-
 ---
 
 ---
-
-### Q415 — Inheritance associated with fragile X- syndrome *(2016)*
+### Q309 — Inheritance associated with fragile X- syndrome *(2016)*
 
 Inheritance associated with fragile X- syndrome is-
 
@@ -8066,12 +5725,10 @@ Inheritance associated with fragile X- syndrome is-
 
 ---
 
-
 ---
 
 ---
-
-### Q416 — HOX gene is associated with *(2016)*
+### Q310 — HOX gene is associated with *(2016)*
 
 HOX gene is associated with
 
@@ -8088,12 +5745,10 @@ HOX gene is associated with
 
 ---
 
-
 ---
 
 ---
-
-### Q417 — Chromosome for ABO gene is *(2016)*
+### Q311 — Chromosome for ABO gene is *(2016)*
 
 Chromosome for ABO gene is?
 
@@ -8110,12 +5765,10 @@ Chromosome for ABO gene is?
 
 ---
 
-
 ---
 
 ---
-
-### Q418 — Barr body is found in the *(2016)*
+### Q312 — Barr body is found in the *(2016)*
 
 Barr body is found in the following phase of the cell cycle:
 
@@ -8132,12 +5785,10 @@ Barr body is found in the following phase of the cell cycle:
 
 ---
 
-
 ---
 
 ---
-
-### Q419 — Trinucleotide sequence associated with spino-cereb *(2016)*
+### Q313 — Trinucleotide sequence associated with spino-cereb *(2016)*
 
 Trinucleotide sequence associated with spino-cerebellar ataxia is?
 
@@ -8154,12 +5805,10 @@ Trinucleotide sequence associated with spino-cerebellar ataxia is?
 
 ---
 
-
 ---
 
 ---
-
-### Q420 — Elevated CA-125 are seen in - *(2016)*
+### Q314 — Elevated CA-125 are seen in - *(2016)*
 
 Elevated CA-125 are seen in -
 
@@ -8176,12 +5825,10 @@ Elevated CA-125 are seen in -
 
 ---
 
-
 ---
 
 ---
-
-### Q421 — Li-fraumani syndrome occurs due to mutation *(2016)*
+### Q315 — Li-fraumani syndrome occurs due to mutation *(2016)*
 
 Li-fraumani syndrome occurs due to mutation in gene?
 
@@ -8198,12 +5845,10 @@ Li-fraumani syndrome occurs due to mutation in gene?
 
 ---
 
-
 ---
 
 ---
-
-### Q422 — common tumor suppressor gene involved in *(2016)*
+### Q316 — common tumor suppressor gene involved in *(2016)*
 
 Most common tumor suppressor gene involved in cancer genesis is?
 
@@ -8220,12 +5865,10 @@ Most common tumor suppressor gene involved in cancer genesis is?
 
 ---
 
-
 ---
 
 ---
-
-### Q423 — At which cell cycle checkpoint is *(2016)*
+### Q317 — At which cell cycle checkpoint is *(2016)*
 
 At which cell cycle checkpoint is the cell cycle halted if the cell's DNA is damaged?
 
@@ -8242,12 +5885,10 @@ At which cell cycle checkpoint is the cell cycle halted if the cell's DNA is dam
 
 ---
 
-
 ---
 
 ---
-
-### Q424 — Immunohistochemical marker for sentinel node biops *(2016)*
+### Q318 — Immunohistochemical marker for sentinel node biops *(2016)*
 
 Immunohistochemical marker for sentinel node biopsy for breast carcinoma is?
 
@@ -8264,12 +5905,10 @@ Immunohistochemical marker for sentinel node biopsy for breast carcinoma is?
 
 ---
 
-
 ---
 
 ---
-
-### Q425 — Scavenger receptors are for *(2016)*
+### Q319 — Scavenger receptors are for *(2016)*
 
 Scavenger receptors are for?
 
@@ -8286,12 +5925,10 @@ Scavenger receptors are for?
 
 ---
 
-
 ---
 
 ---
-
-### Q426 — Causes of constrictive pericarditis isare *(2016)*
+### Q320 — Causes of constrictive pericarditis isare *(2016)*
 
 Causes of constrictive pericarditis is/are ?
 
@@ -8308,12 +5945,10 @@ Causes of constrictive pericarditis is/are ?
 
 ---
 
-
 ---
 
 ---
-
-### Q427 — Prosthetic valves are predisposed to - *(2016)*
+### Q321 — Prosthetic valves are predisposed to - *(2016)*
 
 Prosthetic valves are predisposed to -
 
@@ -8330,12 +5965,10 @@ Prosthetic valves are predisposed to -
 
 ---
 
-
 ---
 
 ---
-
-### Q428 — Infarcts involving which portion of the *(2016)*
+### Q322 — Infarcts involving which portion of the *(2016)*
 
 Infarcts involving which portion of the myocardium cause aneurysm as a post- MI complication-
 
@@ -8352,12 +5985,10 @@ Infarcts involving which portion of the myocardium cause aneurysm as a post- MI 
 
 ---
 
-
 ---
 
 ---
-
-### Q429 — In patients with hypertrophic cardiomyopathy maxim *(2016)*
+### Q323 — In patients with hypertrophic cardiomyopathy maxim *(2016)*
 
 In patients with hypertrophic cardiomyopathy maximum mutations are found in which gene:
 
@@ -8374,12 +6005,10 @@ In patients with hypertrophic cardiomyopathy maximum mutations are found in whic
 
 ---
 
-
 ---
 
 ---
-
-### Q430 — Mutation in protein associated with restrictive *(2016)*
+### Q324 — Mutation in protein associated with restrictive *(2016)*
 
 Mutation in protein associated with restrictive cardiomyopathy?
 
@@ -8396,12 +6025,10 @@ Mutation in protein associated with restrictive cardiomyopathy?
 
 ---
 
-
 ---
 
 ---
-
-### Q431 — Takayasu arteritis mainly affects *(2016)*
+### Q325 — Takayasu arteritis mainly affects *(2016)*
 
 Takayasu arteritis mainly affects?
 
@@ -8418,12 +6045,10 @@ Takayasu arteritis mainly affects?
 
 ---
 
-
 ---
 
 ---
-
-### Q432 — Gall stones in hemolytic anaemia are *(2016)*
+### Q326 — Gall stones in hemolytic anaemia are *(2016)*
 
 Gall stones in hemolytic anaemia are -
 
@@ -8440,12 +6065,10 @@ Gall stones in hemolytic anaemia are -
 
 ---
 
-
 ---
 
 ---
-
-### Q433 — Hypercoagulability due to defective factor V *(2016)*
+### Q327 — Hypercoagulability due to defective factor V *(2016)*
 
 Hypercoagulability due to defective factor V gene is called :
 
@@ -8462,12 +6085,10 @@ Hypercoagulability due to defective factor V gene is called :
 
 ---
 
-
 ---
 
 ---
-
-### Q434 — Cryoprecipitate contains *(2016)*
+### Q328 — Cryoprecipitate contains *(2016)*
 
 Cryoprecipitate contains:
 
@@ -8484,12 +6105,10 @@ Cryoprecipitate contains:
 
 ---
 
-
 ---
 
 ---
-
-### Q435 — of the following is a pro- *(2016)*
+### Q329 — of the following is a pro- *(2016)*
 
 Which of the following is a pro- coagulant?
 
@@ -8506,12 +6125,10 @@ Which of the following is a pro- coagulant?
 
 ---
 
-
 ---
 
 ---
-
-### Q436 — test is used for both intrinsic *(2016)*
+### Q330 — test is used for both intrinsic *(2016)*
 
 Which test is used for both intrinsic and common clotting pathways?
 
@@ -8528,12 +6145,10 @@ Which test is used for both intrinsic and common clotting pathways?
 
 ---
 
-
 ---
 
 ---
-
-### Q437 — Maximum life of transfused RBCs is *(2016)*
+### Q331 — Maximum life of transfused RBCs is *(2016)*
 
 Maximum life of transfused RBCs is
 
@@ -8550,12 +6165,10 @@ Maximum life of transfused RBCs is
 
 ---
 
-
 ---
 
 ---
-
-### Q438 — Hemolytic Uremic Syndrome is characterized by *(2016)*
+### Q332 — Hemolytic Uremic Syndrome is characterized by *(2016)*
 
 Hemolytic Uremic Syndrome is characterized by ?
 
@@ -8572,12 +6185,10 @@ Hemolytic Uremic Syndrome is characterized by ?
 
 ---
 
-
 ---
 
 ---
-
-### Q439 — Left side shift in Arneths count *(2016)*
+### Q333 — Left side shift in Arneths count *(2016)*
 
 Left side shift in Arneth's count is seen in?
 
@@ -8594,12 +6205,10 @@ Left side shift in Arneth's count is seen in?
 
 ---
 
-
 ---
 
 ---
-
-### Q440 — common heavy chain disease is *(2016)*
+### Q334 — common heavy chain disease is *(2016)*
 
 Most common heavy chain disease is
 
@@ -8616,12 +6225,10 @@ Most common heavy chain disease is
 
 ---
 
-
 ---
 
 ---
-
-### Q441 — Dutcher bodies are seen in *(2016)*
+### Q335 — Dutcher bodies are seen in *(2016)*
 
 Dutcher bodies are seen in?
 
@@ -8638,12 +6245,10 @@ Dutcher bodies are seen in?
 
 ---
 
-
 ---
 
 ---
-
-### Q442 — Basophillic leucocytosis occurs in - *(2016)*
+### Q336 — Basophillic leucocytosis occurs in - *(2016)*
 
 Basophillic leucocytosis occurs in -
 
@@ -8660,12 +6265,10 @@ Basophillic leucocytosis occurs in -
 
 ---
 
-
 ---
 
 ---
-
-### Q443 — TEL-AML 1 fusion is associated with *(2016)*
+### Q337 — TEL-AML 1 fusion is associated with *(2016)*
 
 TEL-AML 1 fusion is associated with?
 
@@ -8682,12 +6285,10 @@ TEL-AML 1 fusion is associated with?
 
 ---
 
-
 ---
 
 ---
-
-### Q444 — common cancer found in coal mine *(2016)*
+### Q338 — common cancer found in coal mine *(2016)*
 
 Most common cancer found in coal mine workers
 
@@ -8704,12 +6305,10 @@ Most common cancer found in coal mine workers
 
 ---
 
-
 ---
 
 ---
-
-### Q445 — In allergic bronchopulmonary aspergillosis the loc *(2016)*
+### Q339 — In allergic bronchopulmonary aspergillosis the loc *(2016)*
 
 In allergic bronchopulmonary aspergillosis, the location of lesions is
 
@@ -8726,12 +6325,10 @@ In allergic bronchopulmonary aspergillosis, the location of lesions is
 
 ---
 
-
 ---
 
 ---
-
-### Q446 — Vitamin deficiency associated with cystic fibrosis *(2016)*
+### Q340 — Vitamin deficiency associated with cystic fibrosis *(2016)*
 
 Vitamin deficiency associated with cystic fibrosis is
 
@@ -8748,12 +6345,10 @@ Vitamin deficiency associated with cystic fibrosis is
 
 ---
 
-
 ---
 
 ---
-
-### Q447 — Folding defect is associated with which *(2016)*
+### Q341 — Folding defect is associated with which *(2016)*
 
 Folding defect is associated with which disease
 
@@ -8770,12 +6365,10 @@ Folding defect is associated with which disease
 
 ---
 
-
 ---
 
 ---
-
-### Q448 — Diphtheria toxins mechanism of action is *(2016)*
+### Q342 — Diphtheria toxins mechanism of action is *(2016)*
 
 Diphtheria toxin's mechanism of action is:
 
@@ -8792,12 +6385,10 @@ Diphtheria toxin's mechanism of action is:
 
 ---
 
-
 ---
 
 ---
-
-### Q449 — Amino acid metabolism is implicated in *(2016)*
+### Q343 — Amino acid metabolism is implicated in *(2016)*
 
 Amino acid metabolism is implicated in which disease?
 
@@ -8814,12 +6405,10 @@ Amino acid metabolism is implicated in which disease?
 
 ---
 
-
 ---
 
 ---
-
-### Q450 — Hypopigmented macules are found in *(2016)*
+### Q344 — Hypopigmented macules are found in *(2016)*
 
 Hypopigmented macules are found in?
 
@@ -8836,16 +6425,13 @@ Hypopigmented macules are found in?
 
 ---
 
-
-
 ---
 
 ---
-
 
 ## Year 2017
 
-### Q451 — Opsonin is
+### Q345 — Opsonin is
 
 Opsonin is
 
@@ -8863,65 +6449,7 @@ Opsonin is
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#42 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q452 — Choose the best method of diagnosis for
-
-Choose the best method of diagnosis for the clinical sign represented in the image.
-
-- A. Serum copper
-- B. Serum ceruloplasmin
-- C. Karyotyping
-- D. PCR
-
-<details><summary>Answer</summary>
-
-**B. Serum ceruloplasmin** — Serum Ceruloplasmin
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#48 | OPTIONS_GENERATED: false -->
-
----
-
-### Q453 — condition represented in the image
-
-Identify the condition represented in the image.
-
-- A. Seminoma
-- B. Germ cell differentiate tumor
-- C. Non-seminoma
-- D. Teratoma
-
-<details><summary>Answer</summary>
-
-**A. Seminoma** — Source: NEET-PG 2017 medicoholic.com
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#55 | OPTIONS_GENERATED: false -->
-
----
-
-### Q454 — condition 
-
-Identify the condition shown in the image.
-
-- A. Lobar Pneumonia
-- B. Bronchopneumonia
-- C. Acute glomerulonephritis
-- D. Congested kidney
-
-<details><summary>Answer</summary>
-
-**A. Lobar Pneumonia** — Source: NEET-PG 2017 medicoholic.com
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#59 | OPTIONS_GENERATED: false -->
-
----
-
-### Q455 — Chordoma arises from
+### Q346 — Chordoma arises from
 
 Chordoma arises from:
 
@@ -8939,8 +6467,7 @@ Chordoma arises from:
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#280 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q456 — Which metal results in “Saturnine gout” formation
+### Q347 — Which metal results in “Saturnine gout” formation
 
 Which metal results in “Saturnine gout” formation?
 
@@ -8958,8 +6485,7 @@ Which metal results in “Saturnine gout” formation?
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#282 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q457 — Positive acid schiff macrophages seen in 
+### Q348 — Positive acid schiff macrophages seen in 
 
 Positive acid schiff macrophages seen in ?
 
@@ -8977,8 +6503,7 @@ Positive acid schiff macrophages seen in ?
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#289 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q458 — A boy presented with multiple non suppurative
+### Q349 — A boy presented with multiple non suppurative
 
 A boy presented with multiple non suppurative osteomyelitis with sickle cell anaemia. What will be the causative organism?
 
@@ -8996,8 +6521,7 @@ A boy presented with multiple non suppurative osteomyelitis with sickle cell ana
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#290 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q459 — New born baby with heart rate less
+### Q350 — New born baby with heart rate less
 
 New born baby with heart rate less than 60 beats per minute can be resuscitated by all except
 
@@ -9015,8 +6539,7 @@ New born baby with heart rate less than 60 beats per minute can be resuscitated 
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#296 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q460 — Mobitz type 2 second degree AV block
+### Q351 — Mobitz type 2 second degree AV block
 
 Mobitz type 2 second degree AV block is seen in all except:
 
@@ -9034,8 +6557,7 @@ Mobitz type 2 second degree AV block is seen in all except:
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#297 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q461 — When can one diagnose acute respiratory distress
+### Q352 — When can one diagnose acute respiratory distress
 
 When can one diagnose acute respiratory distress in a child ?
 
@@ -9053,8 +6575,7 @@ When can one diagnose acute respiratory distress in a child ?
 <!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#298 | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q462 — A 6-year-old boy experienced life threatening shock
+### Q353 — A 6-year-old boy experienced life threatening shock
 
 A 6-year-old boy experienced life threatening shock ,his CT scan showed large amount of ascites, bowel wall thickening and poor or absent enhancement of the strangulated bowel segment, showing gangrenous bowel on surgical exploration. True about anastomosis is-
 
@@ -9073,3 +6594,1599 @@ A 6-year-old boy experienced life threatening shock ,his CT scan showed large am
 
 ---
 
+## Year 2018
+
+### Q354 — In Cystinuria all of the following *(2018)*
+
+In Cystinuria all of the following aminoacids reabsorption defect is present, except
+
+- A. Lysine
+- B. Citrulline
+- C. Arginine
+- D. Ornithine
+
+<details><summary>Answer</summary>
+
+**B. Citrulline**
+
+</details>
+
+---
+
+---
+### Q355 — Phenylketonuria is due to deficiency of *(2018)*
+
+Phenylketonuria is due to deficiency of
+
+- A. Phenylalanine
+- B. Phenylalanine hydroxylase ( PAH)
+- C. Phenylene
+- D. All of these
+
+<details><summary>Answer</summary>
+
+**B. Phenylalanine hydroxylase ( PAH)**
+
+</details>
+
+---
+
+---
+### Q356 — Which one of the following shows *(2018)*
+
+Which one of the following shows allosteric inhibition
+
+- A. Malonic acid & succinate
+- B. 2,3 BPG
+- C. Amino acid alanine & pyruvate kinase
+- D. Citrate
+
+<details><summary>Answer</summary>
+
+**B. 2,3 BPG**
+
+</details>
+
+---
+
+---
+
+## Year 2019
+
+### Q357 — Zellweger syndrome — VLCFA
+
+Infant with hypotonia/seizures; cerebrohepatorenal syndrome. What accumulates in brain?
+
+- A. Glucose
+- B. Long-chain fatty acid (VLCFA)
+- C. Lactic acid
+- D. Triglycerides
+
+<details><summary>Answer</summary>
+
+**B. VLCFA** — Zellweger syndrome = peroxisomal biogenesis defect (PEX genes).
+</details>
+
+---
+### Q358 — Achondroplasia inheritance
+
+Which follows autosomal dominant inheritance?
+
+- A. Cystic fibrosis
+- B. Duchenne MD
+- C. Sickle cell anaemia
+- D. Achondroplasia
+
+<details><summary>Answer</summary>
+
+**D. Achondroplasia** — FGFR3 gain-of-function mutation.
+</details>
+
+---
+
+---
+### Q359 — Menkes disease is associated with which *(2019)*
+
+Menkes disease is associated with which enzyme deficiency.
+
+- A. lysyl oxidase
+- B. Methionine synthase
+- C. Glutamyl aminopeptidase
+- D. Lysyl hydroxylase
+
+<details><summary>Answer</summary>
+
+**A. lysyl oxidase**
+
+</details>
+
+---
+
+---
+### Q360 — type of cholesterol present in gallstones *(2019)*
+
+type of cholesterol present in gallstones?
+
+- A. Amorphous cholesterol monohydrate.
+- B. Amorphous cholesterol dihydrate.
+- C. Crystalline Cholesterol dihydrate.
+- D. Crystalline cholesterol monohydrate.
+
+<details><summary>Answer</summary>
+
+**D. Crystalline cholesterol monohydrate.**
+
+</details>
+
+---
+
+---
+### Q361 — In Krebs cycle and Urea cycle *(2019)*
+
+In Kreb’s cycle and Urea cycle the linking amino acid is
+
+- A. Fumarate
+- B. Alanine
+- C. Arginine
+- D. Aspartate
+
+<details><summary>Answer</summary>
+
+**D. Aspartate**
+
+</details>
+
+---
+
+---
+### Q362 — Mechanism of action of Oseltamivir *(2019)*
+
+Mechanism of action of Oseltamivir?
+
+- A. Protein synthesis inhibitor
+- B. Thymidylate synthetase inhibitor
+- C. Neuraminidase inhibitor
+- D. Pyrimidine analogs.
+
+<details><summary>Answer</summary>
+
+**C. Neuraminidase inhibitor**
+
+</details>
+
+---
+
+---
+### Q363 — Identify the condition as shown *(2019)*
+
+Identify the condition as shown:
+
+- A. Brodie abscess
+- B. Osteoid osteoma
+- C. Intracortical hemangioma
+- D. Chondromyxoid fibroma
+
+<details><summary>Answer</summary>
+
+**A. Brodie abscess**
+
+</details>
+
+---
+
+---
+### Q364 — Identify the instrument- *(2019)*
+
+Identify the instrument-
+
+- A. Blade no. 15
+- B. Blade no. 10
+- C. Blade no. 11
+- D. Blade 12
+
+<details><summary>Answer</summary>
+
+**C. Blade no. 11**
+
+</details>
+
+---
+
+---
+### Q365 — What is the cause of death *(2019)*
+
+What is the cause of death according to the below death certificate
+
+- A. Breast Cancer
+- B. Secondaries
+- C. Cerebral Hemorrhage
+- D. All of the Above
+
+<details><summary>Answer</summary>
+
+**D. All of the Above**
+
+</details>
+
+---
+
+---
+### Q366 — Identify the blood grouping process done *(2019)*
+
+Identify the blood grouping process done here. Slide given with: AB no clumps, Clumping in O & No clumps in control.
+
+- A. A-ve
+- B. B+ve
+- C. O+ve
+- D. Rh group
+
+<details><summary>Answer</summary>
+
+**D. Rh group**
+
+</details>
+
+---
+
+---
+### Q367 — Nerve injured in Freys syndrome is *(2019)*
+
+Nerve injured in Frey’s syndrome is:
+
+- A. Auriculotemporal Nerve
+- B. Great auricular nerve
+- C. Lingual Nerve
+- D. Inferior alveolar nerve
+
+<details><summary>Answer</summary>
+
+**A. Auriculotemporal Nerve**
+
+</details>
+
+---
+
+---
+### Q368 — Identify the marked muscle A in *(2019)*
+
+Identify the marked muscle ‘A’ in the diagram:
+
+- A. Brachioradialis
+- B. Extensor carpi radialis longus
+- C. Flexor carpi radialis
+- D. Extensor carpi ulnaris
+
+<details><summary>Answer</summary>
+
+**B. Extensor carpi radialis longus**
+
+</details>
+
+---
+
+---
+### Q369 — Which of the following nail findings *(2019)*
+
+Which of the following nail findings is seen in the condition shown below?
+
+- A. Pterygium
+- B. Pigmentation
+- C. Pitting
+- D. Ridges
+
+<details><summary>Answer</summary>
+
+**C. Pitting**
+
+</details>
+
+---
+
+---
+### Q370 — A 25 year old alcoholic presented with *(2019)*
+
+A 25 year old alcoholic presented with edema,hypertension, ocular disturbance,and changes in mental state was observed, diagnosis of high output cardiac failure was made with Wet Beri Beri, this is due to deficiency of?
+
+- A. Vit B3
+- B. Vit B6
+- C. Vit B9
+- D. Vit B1
+
+<details><summary>Answer</summary>
+
+**D. Vit B1**
+
+</details>
+
+---
+
+---
+### Q371 — Type of necrosis seen in blood vessels *(2019)*
+
+Type of necrosis seen in blood vessels due to immune reactionsa) Coagulation b) Liquefaction c) Fibrinoid d) None
+
+- A. Chylomicron
+- B. LDL
+- C. HDL
+- D. Apo-A
+
+<details><summary>Answer</summary>
+
+**A. Chylomicron**
+
+</details>
+
+---
+
+---
+### Q372 — In Wilsons disease, there is less urinary *(2019)*
+
+In Wilson's disease, there is less urinary excretion of:
+
+- A. Phosphorus
+- B. Methyl-Histidine
+- C. Phosphotyrosine
+- D. Serine
+
+<details><summary>Answer</summary>
+
+**B. Methyl-Histidine**
+
+</details>
+
+---
+
+---
+### Q373 — Krabbes disease is *(2019)*
+
+Krabbe's disease is:
+
+- A. Deficiency of Beta-galactosylceramidase
+- B. Deficiency of aryl sulphatase
+- C. Alpha galactosidase deficiency
+- D. Acid lipase deficiency
+
+<details><summary>Answer</summary>
+
+**A. Deficiency of Beta-galactosylceramidase**
+
+</details>
+
+---
+
+---
+
+## Year 2020
+
+### Q374 — Proteasome function
+
+Function of the proteasome?
+
+- A. Protein folding
+- B. Post-translational modification
+- C. Protein sorting
+- D. Protein degradation
+
+<details><summary>Answer</summary>
+
+**D. Protein degradation** — Ubiquitin-tagged proteins are degraded by the 26S proteasome.
+</details>
+
+---
+### Q375 — Tryptophan at 280 nm
+
+Amino acid replacement that increases UV absorbance at 280 nm?
+
+- A. Leucine
+- B. Proline
+- C. Arginine
+- D. Tryptophan
+
+<details><summary>Answer</summary>
+
+**D. Tryptophan** — Aromatic AAs absorb at 280 nm (W > Y > F). Used to quantify protein.
+</details>
+
+---
+
+---
+### Q376 — Which of the following drugs act *(2020)*
+
+Which of the following drugs act by inhibiting DNA replication?
+
+- A. 6 Mercaptopurine
+- B. Actinomycin D
+- C. Mitomycin C
+- D. Asparaginase
+
+<details><summary>Answer</summary>
+
+**A. 6 Mercaptopurine**
+
+</details>
+
+---
+
+---
+### Q377 — year old person presented with 108 *(2020)*
+
+A patient (age not captured in source) who is a year old person presented with 10*8 swelling in a retroperitoneal,biopsy from the lesion is as shown below. Molecular analysis demonstrated t(12,16). A most
+
+- A. Myxoid liposarcoma
+- B. Lipoma
+- C. Synovial sarcoma
+- D. Pleomorphic sarcoma
+
+<details><summary>Answer</summary>
+
+**A. Myxoid liposarcoma**
+
+</details>
+
+---
+
+---
+### Q378 — Graph showing three drugs A, B *(2020)*
+
+Graph showing three drugs A, B & C. Which of the following drugs shown in the graph below has the highest potency?
+
+- A. Drug A
+- B. Drug B
+- C. Drug C
+- D. Both Drug A & B
+
+<details><summary>Answer</summary>
+
+**A. Drug A**
+
+</details>
+
+---
+
+---
+### Q379 — In the following X-ray of the *(2020)*
+
+In the following X-ray of the wrist, what is the exact age-
+
+- A. 2 yrs
+- B. 8yrs
+- C. 6yrs
+- D. 9 yrs
+
+<details><summary>Answer</summary>
+
+**C. 6yrs**
+
+</details>
+
+---
+
+---
+### Q380 — Immunoglobulin Image shown below is of- *(2020)*
+
+Immunoglobulin Image shown below is of-
+
+- A. IgA
+- B. IgG
+- C. IgM
+- D. IgE
+
+<details><summary>Answer</summary>
+
+**A. IgA**
+
+</details>
+
+---
+
+---
+### Q381 — Battle sign image Bluish Purple colour *(2020)*
+
+Battle sign image Bluish Purple colour behind mastoid?
+
+- A. Battle sign
+- B. Bezold abscess
+- C. Both A and B
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**A. Battle sign**
+
+</details>
+
+---
+
+---
+### Q382 — Identify the condition given below- *(2020)*
+
+Identify the condition given below-
+
+- A. MCU with Bulbar urethral stricture
+- B. MCU with penile stricture
+- C. RGU with membranous stricture
+- D. RGU with prostatic stricture
+
+<details><summary>Answer</summary>
+
+**A. MCU with Bulbar urethral stricture**
+
+</details>
+
+---
+
+---
+### Q383 — Which of the following does the *(2020)*
+
+Which of the following does the image of Capnograph below depicts?
+
+- A. During inspiration
+- B. Inspiration with cardiac oscillations
+- C. During expiration
+- D. spontaneous respiration
+
+<details><summary>Answer</summary>
+
+**D. spontaneous respiration**
+
+</details>
+
+---
+
+---
+### Q384 — A chest radiograph obtained a male *(2020)*
+
+A chest radiograph obtained a male with hypertension. What will be the diagnosis?
+
+- A. Tetralogy of Fallot
+- B. Ebstein's Anomaly
+- C. TAPVC
+- D. Coarctation of Aorta
+
+<details><summary>Answer</summary>
+
+**D. Coarctation of Aorta**
+
+</details>
+
+---
+
+---
+### Q385 — A middle-aged man with a swelling *(2020)*
+
+A middle-aged man with a swelling over the neck since childhood with the overlying skin not intact which had a bag or worm-like appearance with a black
+
+- A. Cirsoid aneurysm
+- B. Varicocele
+- C. Plexiform neurofibroma
+- D. Lymphangioma
+
+<details><summary>Answer</summary>
+
+**C. Plexiform neurofibroma**
+
+</details>
+
+---
+
+---
+
+## Year 2021
+
+### Q386 — Gaucher disease
+
+A 5-year-old with fatigue, irritability, hepatosplenomegaly. Enzyme?
+
+- A. Hexosaminidase
+- B. Glucocerebrosidase
+- C. Sphingomyelinase
+- D. N-acetylglucosaminidase
+
+<details><summary>Answer</summary>
+
+**B. Glucocerebrosidase** — Gaucher disease. Crumpled-paper macrophages on biopsy.
+</details>
+
+---
+### Q387 — Oligomycin in oxidative phosphorylation
+
+Mitochondrial respiration with substrates added. Drug blocking ATP synthase?
+
+- A. Rotenone
+- B. Antimycin A
+- C. Oligomycin
+- D. 2,4-DNP
+
+<details><summary>Answer</summary>
+
+**C. Oligomycin** — Inhibits F0 subunit of ATP synthase. Rotenone: Complex I; Antimycin: Complex III; DNP: uncoupler.
+</details>
+
+---
+
+---
+### Q388 — Brain fuel during prolonged starvation
+
+Primary brain energy source during 5-day starvation?
+
+- A. Glycogenolysis
+- B. Gluconeogenesis
+- C. Ketogenesis
+- D. Lipolysis
+
+<details><summary>Answer</summary>
+
+**C. Ketogenesis** — After 3–5 days of starvation, ketone bodies (acetoacetate, β-hydroxybutyrate) become the predominant brain fuel, replacing glucose and sparing muscle protein.
+
+</details>
+
+---
+### Q389 — Alpha-L-iduronidase deficiency
+
+Alpha-L-iduronidase deficiency (Hurler/Scheie syndrome) — accumulated substance?
+
+- A. Dermatan sulfate and heparan sulfate
+- B. Dermatan sulfate only
+- C. Keratan sulfate and chondroitin sulfate
+- D. Sphingolipids
+
+<details><summary>Answer</summary>
+
+**A. Dermatan sulfate and heparan sulfate** — Hurler syndrome (MPS I): alpha-L-iduronidase deficiency → accumulation of both dermatan and heparan sulfate → gargoylism, corneal clouding, intellectual disability.
+
+</details>
+
+---
+### Q390 — Xeroderma pigmentosum — DNA repair
+
+Multiple freckles, hyperpigmentation, basal cell carcinomas — defective DNA repair?
+
+- A. Base excision repair
+- B. Nucleotide excision repair
+- C. DNA mismatch repair
+- D. Double-strand break repair
+
+<details><summary>Answer</summary>
+
+**B. Nucleotide excision repair** — XP is caused by defective NER, which normally removes bulky adducts and UV-induced pyrimidine dimers. Leads to sun-sensitive skin cancers.
+
+</details>
+
+---
+### Q391 — ADA deficiency — immunodeficiency
+
+Oral lesions, recurrent respiratory infections, absent B/T/NK cells, low adenosine deaminase — diagnosis?
+
+- A. X-linked agammaglobulinemia
+- B. Alpha-1 antitrypsin deficiency
+- C. DiGeorge syndrome
+- D. SCID (ADA deficiency)
+
+<details><summary>Answer</summary>
+
+**D. SCID (ADA deficiency)** — Adenosine deaminase deficiency → toxic dATP accumulation → lymphocyte apoptosis → complete absence of T, B, NK cells. AR inheritance.
+
+</details>
+
+---
+### Q392 — Frameshift mutation — protein consequence
+
+Frameshift mutation at position 4 in a 900-nucleotide mRNA — consequence?
+
+- A. No biological change
+- B. Partial protein product
+- C. Complete loss of functional protein
+- D. Post-translational removal of affected segment
+
+<details><summary>Answer</summary>
+
+**C. Complete loss of functional protein** — Early frameshift (position 4) shifts reading frame throughout the rest of mRNA → premature stop codon → non-functional truncated protein.
+
+</details>
+
+---
+### Q393 — Ileal resection — anemia type
+
+Post-ileal resection, anemia, RBC 2.8 M, serum iron 164 µg/dL — diagnosis?
+
+- A. Iron deficiency anemia
+- B. Megaloblastic anemia
+- C. Aplastic anemia
+- D. Hemolytic anemia
+
+<details><summary>Answer</summary>
+
+**B. Megaloblastic anemia** — Terminal ileum resection causes B12 malabsorption (intrinsic factor–B12 complex absorbed in terminal ileum). High serum iron rules out iron deficiency.
+
+</details>
+
+---
+### Q394 — Hyperchloremic acidosis — IV fluid
+
+Large volume infusion causing hyperchloremic metabolic acidosis?
+
+- A. DNS (dextrose normal saline)
+- B. Normal saline (0.9% NaCl)
+- C. 5% dextrose
+- D. Ringer's lactate
+
+<details><summary>Answer</summary>
+
+**B. Normal saline** — Contains 154 mEq/L Cl⁻ (supra-physiological); dilutional acidosis + hyperchloremia. Balanced crystalloids (RL, PlasmaLyte) preferred for large-volume resuscitation.
+
+</details>
+
+---
+### Q395 — Elevated phenylalanine with normal PAH
+
+Elevated phenylalanine but normal phenylalanine hydroxylase enzyme — deficient cofactor?
+
+- A. Biopterin (BH4)
+- B. Pyridoxal phosphate
+- C. Adenosylcobalamin
+- D. Dihydrofolic acid
+
+<details><summary>Answer</summary>
+
+**A. Biopterin (BH4)** — PAH requires tetrahydrobiopterin as cofactor. BH4 deficiency → hyperphenylalaninemia despite normal PAH. Treated with BH4 supplementation, not phenylalanine restriction alone.
+
+</details>
+
+---
+### Q396 — Familial hypercholesterolemia — type
+
+Xanthoma, cholesterol 480 mg/dL, LDL 300, strong family history — hyperlipoproteinemia type?
+
+- A. Type I
+- B. Type IIa
+- C. Type IIb
+- D. Type III
+
+<details><summary>Answer</summary>
+
+**B. Type IIa (familial hypercholesterolemia)** — Elevated LDL only; LDLR mutation; tendinous xanthomas; severe premature atherosclerosis. Statin + ezetimibe ± PCSK9 inhibitor.
+
+</details>
+
+---
+### Q397 — Scurvy — defective enzyme
+
+Bone fractures, perifollicular hemorrhages, lusterless corkscrew hair — affected enzyme?
+
+- A. Prolyl hydroxylase
+- B. ALA synthase
+- C. Glutathione peroxidase
+- D. Dihydrofolate reductase
+
+<details><summary>Answer</summary>
+
+**A. Prolyl hydroxylase** — Requires vitamin C as cofactor; hydroxylates proline residues in procollagen → essential for triple-helix stability. Scurvy = defective collagen synthesis.
+
+</details>
+
+---
+### Q398 — Tay-Sachs disease
+
+Developmental delay, seizures, cherry-red spot, hexosaminidase A deficiency — accumulated substance?
+
+- A. GM1 ganglioside
+- B. GM2 ganglioside
+- C. Galactocerebroside
+- D. Sphingomyelin
+
+<details><summary>Answer</summary>
+
+**B. GM2 ganglioside** — Tay-Sachs: HexA deficiency → GM2 accumulation in neurons. Cherry-red spot = normal macula surrounded by lipid-laden retinal ganglion cells. No bone marrow involvement (unlike Gaucher).
+
+</details>
+
+---
+### Q399 — Tangier disease
+
+Orange tonsils, cholesterol 80, triglycerides 146, HDL <5 — diagnosis?
+
+- A. Niemann-Pick disease
+- B. Tangier disease
+- C. Familial abetalipoproteinemia
+- D. Familial hyperlipoproteinemia type I
+
+<details><summary>Answer</summary>
+
+**B. Tangier disease** — ABCA1 transporter mutation → impaired cellular cholesterol efflux → cholesterol ester accumulation in RES → orange tonsils, hepatosplenomegaly, near-zero HDL.
+
+</details>
+
+---
+### Q400 — Elevated homocysteine/MMA — deficiency
+
+Ataxia, anemia, neuropathy with elevated homocysteine AND methylmalonic acid — deficient amino acid precursor?
+
+- A. Tyrosine
+- B. Glutamine
+- C. Cysteine
+- D. Methionine
+
+<details><summary>Answer</summary>
+
+**D. Methionine** — B12 deficiency impairs methionine synthase (homocysteine → methionine) AND methylmalonyl-CoA mutase (requires adenosylB12). Both methylmalonic acid and homocysteine rise.
+
+</details>
+
+---
+### Q401 — Wet beri-beri / Wernicke — deficiency
+
+Heart failure, nystagmus, peripheral neuropathy without alcohol history — deficiency?
+
+- A. Thiamine (B1)
+- B. Selenium
+- C. Zinc
+- D. Vitamin B12
+
+<details><summary>Answer</summary>
+
+**A. Thiamine (B1)** — Wernicke's encephalopathy (nystagmus, ataxia, confusion) + wet beri-beri (high-output cardiac failure). Both from thiamine deficiency; not exclusive to alcohol.
+
+</details>
+
+---
+
+---
+
+## Year 2022
+
+### Q402 — Primaquine-induced haemolysis
+
+Mediterranean patient develops haemolytic anaemia after primaquine. Affected pathway?
+
+- A. Glycolysis
+- B. Gluconeogenesis
+- C. Hexose monophosphate pathway
+- D. Luebering–Rapoport
+
+<details><summary>Answer</summary>
+
+**C. Hexose monophosphate pathway** — G6PD deficiency → NADPH ↓ → glutathione cannot be reduced → oxidative haemolysis.
+</details>
+
+---
+### Q403 — Autosomal recessive disorder
+
+Which is autosomal recessive?
+
+- A. Huntington's
+- B. Treacher Collins
+- C. Cystic fibrosis
+- D. Achondroplasia
+
+<details><summary>Answer</summary>
+
+**C. Cystic fibrosis** — CFTR gene mutation. Huntington, Treacher Collins, Achondroplasia are autosomal dominant.
+</details>
+
+---
+
+---
+### Q404 — A patient from a Mediterranean country *(2022)*
+
+A patient from a Mediterranean country visits Africa, where he develops malaria. He is treated with primaquine and later develops hemolytic anemia. Deficiency of an enzyme involved in which of the following pathways could be the cause?
+
+- A. Glycolysis
+- B. Gluconeogenesis
+- C. Hexose monophosphate (HMP) pathway
+- D. Luebering-Rapoport pathway
+
+<details><summary>Answer</summary>
+
+**C. Hexose monophosphate (HMP) pathway**
+
+</details>
+
+---
+
+---
+### Q405 — Which of the following disorders follows *(2022)*
+
+Which of the following disorders follows autosomal recessive inheritance pattern?
+
+- A. Huntington’s disease
+- B. Treacher collins syndrome
+- C. Cystic fibrosis
+- D. Achondroplasia
+
+<details><summary>Answer</summary>
+
+**C. Cystic fibrosis**
+
+</details>
+
+---
+
+---
+### Q406 — Which of the following helps in *(2022)*
+
+Which of the following helps in the transport of fatty acids across the inner mitochondrial membrane?
+
+- A. Acyl carrier protein
+- B. Carnitine
+- C. Lecithin-cholesterol acyltransferase
+- D. Carnitine and albumin
+
+<details><summary>Answer</summary>
+
+**B. Carnitine**
+
+</details>
+
+---
+
+---
+### Q407 — A single mutation in a nucleotide *(2022)*
+
+A single mutation in a nucleotide base pair resulting in a termination codon is known as ________?
+
+- A. Missense mutation
+- B. Nonsense mutation
+- C. Stop mutation
+- D. Silent mutation
+
+<details><summary>Answer</summary>
+
+**B. Nonsense mutation**
+
+</details>
+
+---
+
+---
+### Q408 — DNA packing is done by which *(2022)*
+
+DNA packing is done by which of the following?
+
+- A. Histone
+- B. Glycoprotein
+- C. Nucleic acid
+- D. Adenine
+
+<details><summary>Answer</summary>
+
+**A. Histone**
+
+</details>
+
+---
+
+---
+### Q409 — An adolescent male patient presents to *(2022)*
+
+An adolescent male patient presents to you with exercise intolerance. He gives a history of developing cramps on exertion. Which of the following enzyme deficiencies could be the cause?
+
+- A. Myophosphorylase
+- B. Hexokinase
+- C. Glucose-6-phosphatase
+- D. Hepatic glycogen phosphorylase
+
+<details><summary>Answer</summary>
+
+**A. Myophosphorylase**
+
+</details>
+
+---
+
+---
+### Q410 — Which of the following enzyme activities *(2022)*
+
+Which of the following enzyme activities can be estimated in red blood cells to diagnose vitamin B2 deficiency?
+
+- A. Transketolase
+- B. Glutathione reductase
+- C. Kynureninase
+- D. Pyruvate dehydrogenase
+
+<details><summary>Answer</summary>
+
+**B. Glutathione reductase**
+
+</details>
+
+---
+
+---
+### Q411 — The following is due to the *(2022)*
+
+The following is due to the deficiency of?
+
+- A. Vitamin C
+- B. Vitamin A
+- C. Vitamin B
+- D. Vitamin E
+
+<details><summary>Answer</summary>
+
+**B. Vitamin A**
+
+</details>
+
+---
+
+---
+### Q412 — A child presents to you with *(2022)*
+
+A child presents to you with anemia, thrombocytopenia, and bony pain. On examination, hepatosplenomegaly was noticed. If light microscopy of bone marrow aspirate reveals “crumpled tissue paper” appearance, what is the enzyme defect?
+
+- A. Glucocerebrosidase
+- B. Sphingomyelinase
+- C. Hexosaminidase
+- D. Glucose6-phosphatase
+
+<details><summary>Answer</summary>
+
+**A. Glucocerebrosidase**
+
+</details>
+
+---
+
+---
+### Q413 — The electron transport chain is a *(2022)*
+
+The electron transport chain is a series of redox reactions that result in ATP synthesis. Which of the following is a cytochrome complex IV inhibitor?
+
+- A. Cyanide
+- B. Carbon dioxide
+- C. Oligomycin
+- D. Ouabain
+
+<details><summary>Answer</summary>
+
+**A. Cyanide**
+
+</details>
+
+---
+
+---
+
+## Year 2023
+
+### Q414 — Pellagra
+
+Patient with diarrhoea, dermatitis, dementia.
+
+- A. B3 (niacin) deficiency
+- B. B1 deficiency
+- C. B6 deficiency
+- D. B12 deficiency
+
+<details><summary>Answer</summary>
+
+**A. B3 deficiency (pellagra)** — Classic 3 D's. Casal's necklace (photosensitive dermatitis around neck).
+</details>
+
+---
+### Q415 — Hypoglycaemia + muscle cramps
+
+A young boy with hypoglycaemia and muscle cramps on exertion; decreased serum lactate and glucose.
+
+- A. McArdle disease
+- B. Hers disease
+- C. Cori disease
+- D. Andersen disease
+
+<details><summary>Answer</summary>
+
+**A. McArdle disease** — Myophosphorylase deficiency (GSD V). Failure of lactate rise on exercise (second-wind phenomenon).
+</details>
+
+---
+
+---
+### Q416 — Which of the following clotting factors *(2023)*
+
+Which of the following clotting factors is needed for gamma-glutamyl carboxylase?
+
+- A. Factors II, VIII, IX, X
+- B. Factors II, VII, IX, and X
+- C. Factors II, VII, IX, XI
+- D. Factors II, VIII, X, XI
+
+<details><summary>Answer</summary>
+
+**B. Factors II, VII, IX, and X**
+
+</details>
+
+---
+
+---
+### Q417 — A patient presented with diarrhea, dermatitis, *(2023)*
+
+A patient presented with diarrhea, dermatitis, and dementia. Which of the following vitamin deficiencies would you suspect in this patient?
+
+- A. Vitamin B3 deficiency
+- B. Vitamin B1 deficiency
+- C. Vitamin B6 deficiency
+- D. Vitamin B12 deficiency
+
+<details><summary>Answer</summary>
+
+**A. Vitamin B3 deficiency**
+
+</details>
+
+---
+
+---
+### Q418 — A young boy presents to the *(2023)*
+
+A young boy presents to the OPD with hypoglycemia and muscle cramps, on exertion or while playing. Then he becomes normal after resting for a while. These episodes are recurrent aft a period of activity. He has decreased serum lactate and glucose levels. Which of the following diseases is he most likely to be suffering from?
+
+- A. McArdle disease
+- B. Hers disease
+- C. Cori's disease
+- D. Andersen disease
+
+<details><summary>Answer</summary>
+
+**A. McArdle disease**
+
+</details>
+
+---
+
+---
+### Q419 — A family consumes only polished rice *(2023)*
+
+A family consumes only polished rice. Which of the following combinations of vitamin deficiency and enzymatic defect will be present in this family?
+
+- A. Riboflavin-glutathione reductase
+- B. Thiamine-transketolase
+- C. Thiamine-transaminase
+- D. Riboflavin-transketolase
+
+<details><summary>Answer</summary>
+
+**B. Thiamine-transketolase**
+
+</details>
+
+---
+
+---
+### Q420 — A 4-year-old child presents with easy *(2023)*
+
+A 4-year-old child presents with easy fatigability. The mother also complains that the child has increased hunger between meals, which is relieved after food. Liver examination revealed no glycogen. The enzyme most likely deficient is?
+
+- A. Glycogen phosphorylase
+- B. Glycogen synthase
+- C. Debranching enzyme
+- D. Glucose 6 phosphatase
+
+<details><summary>Answer</summary>
+
+**B. Glycogen synthase**
+
+</details>
+
+---
+
+---
+### Q421 — A child was bought with pedal *(2023)*
+
+A child was bought with pedal edema and cheilosis. Cardiomegaly was present. What is the vitamin deficiency associated with this clinical presentation?
+
+- A. Riboflavin
+- B. Thiamine
+- C. Pyridoxine
+- D. Niacin
+
+<details><summary>Answer</summary>
+
+**B. Thiamine**
+
+</details>
+
+---
+
+---
+### Q422 — A child presents with erythematous scaly *(2023)*
+
+A child presents with erythematous scaly patches in the perioral region, mucosal ulcers, and impaired epithelial wound healing. The most likely mineral deficiency associated with this condition is?
+
+- A. Iron deficiency
+- B. Zinc deficiency
+- C. Calcium deficiency
+- D. Copper deficiency
+
+<details><summary>Answer</summary>
+
+**B. Zinc deficiency**
+
+</details>
+
+---
+
+---
+### Q423 — A patient presenting with bleeding gums *(2023)*
+
+A patient presenting with bleeding gums and easy bruisability was diagnosed with scurvy. This is due to
+
+- A. Low calcium
+- B. Defective collagen formation
+- C. Inhibition of clotting factors
+- D. Increased keratinization of epithelium
+
+<details><summary>Answer</summary>
+
+**B. Defective collagen formation**
+
+</details>
+
+---
+
+---
+### Q424 — Which of the following is seen *(2023)*
+
+Which of the following is seen in low insulin: glucagon ratio?
+
+- A. Activation of lipoprotein lipase
+- B. Activation of glycogen synthase
+- C. Activation of phosphofructokinase 1
+- D. Activation of hormone-sensitive lipase
+
+<details><summary>Answer</summary>
+
+**D. Activation of hormone-sensitive lipase**
+
+</details>
+
+---
+
+---
+### Q425 — An infant is brought by his *(2023)*
+
+An infant is brought by his parents with complaints that his urine turns black on standing. Which of the following metabolic disorders is likely?
+
+- A. Phenylketonuria
+- B. Alkaptonuria
+- C. Homocystinuria
+- D. Maple syrup urine disease
+
+<details><summary>Answer</summary>
+
+**B. Alkaptonuria**
+
+</details>
+
+---
+
+---
+### Q426 — A child presents with bone pain *(2023)*
+
+A child presents with bone pain and hepatosplenomegaly. A trephine biopsy and aspirate show the following finding. Which of the following is the most likely enzyme deficient in this condition? Pr
+
+- A. Hexosaminidase
+- B. Glucocerebrosidase
+- C. Sphingomyelinase
+- D. Alpha 1,4-glucosidase
+
+<details><summary>Answer</summary>
+
+**B. Glucocerebrosidase**
+
+</details>
+
+---
+
+---
+
+## Year 2024
+
+### Q427 — Wilson's disease — definitive test
+
+A 13-year-old boy with jaundice, tremors, behavioural changes, and Kayser–Fleischer rings. Definitive diagnosis?
+
+- A. Urinary copper
+- B. Serum ceruloplasmin
+- C. Hepatic parenchymal copper concentration
+- D. Genetic testing for ATP7B mutation
+
+<details><summary>Answer</summary>
+
+**C. Hepatic parenchymal copper concentration** — Liver biopsy with >250 μg/g dry weight is most definitive. (Ceruloplasmin is screening; genetic testing supportive.)
+</details>
+
+---
+### Q428 — Achilles tendon xanthomas
+
+Patient with xanthomas on the Achilles tendon. Most likely diagnosis?
+
+- A. Familial hypercholesterolemia
+- B. Tangier disease
+- C. Familial hyperchylomicronemia
+- D. Type III hyperlipoproteinemia
+
+<details><summary>Answer</summary>
+
+**A. Familial hypercholesterolemia** — LDL-R defect → high LDL → tendon xanthomas (Achilles, extensors), xanthelasma, early CAD.
+</details>
+
+---
+### Q429 — Tendon xanthoma + high LDL — molecular defect
+
+Multiple tendon xanthomas with serum cholesterol 398 mg/dL, LDL 220 mg/dL. Most likely defect?
+
+- A. Lipoprotein lipase deficiency
+- B. LDL receptor defect
+- C. Defective Apo B-100
+- D. PCSK9 gain-of-function mutation
+
+<details><summary>Answer</summary>
+
+**B. LDL receptor defect** — Most common cause of familial hypercholesterolaemia (~85%).
+</details>
+
+---
+
+---
+### Q430 — Clinical Question A patient presents with *(2024)*
+
+A patient presents with dermatitis, dementia, and cognitive decline. Which micronutrient deficiency is most likely responsible?
+
+- A. Niacin
+- B. Thiamine
+- C. Tryptophan
+- D. Riboflavin
+
+<details><summary>Answer</summary>
+
+**A. Niacin**
+
+</details>
+
+---
+
+---
+### Q431 — Clinical Question A patient has severe *(2024)*
+
+A patient has severe abdominal pain and raised lipase levels. Imaging shows a stone in the common bile duct (CBD). Which additional enzyme is most likely to be elevated?
+
+- A. Gamma-glutamyl transferase (GGT)
+- B. Lactate Dehydrogenase (LDH)
+- C. Alanine Aminotransferase (ALT)
+- D. Aspartate Aminotransferase (AST)
+
+<details><summary>Answer</summary>
+
+**A. Gamma-glutamyl transferase (GGT)**
+
+</details>
+
+---
+
+---
+### Q432 — A patients X-ray shows cardiomegaly, and *(2024)*
+
+A patient’s X-ray shows cardiomegaly, and they present with hypotonia, macroglossia, hepatomegaly and "floppy baby" syndrome. What is the probable diagnosis?
+
+- A. Pompe disease
+- B. Ebstein anomaly
+- C. Down syndrome
+- D. Cori's Disease
+
+<details><summary>Answer</summary>
+
+**A. Pompe disease**
+
+</details>
+
+---
+
+---
+
+## Year 2025
+
+### Q433 — Hurler syndrome glycosaminoglycans
+
+A child with α-L-iduronidase deficiency (Hurler syndrome) accumulates which GAGs?
+
+- A. Keratan sulfate and dermatan sulfate
+- B. Keratan sulfate and heparan sulfate
+- C. Heparan sulfate and dermatan sulfate
+- D. Keratan sulfate and hyaluronic acid
+
+<details><summary>Answer</summary>
+
+**C. Heparan sulfate and dermatan sulfate** — MPS I (Hurler). α-L-iduronidase cleaves iduronate residues in both heparan and dermatan sulfate.
+</details>
+
+---
+
+---
+### Q434 — Gum bleeding and fractures
+
+A child has petechiae, perifollicular hemorrhages, gum bleeding, and fractures. Which enzyme is deficient?
+
+- A. Lysyl oxidase
+- B. Prolyl hydroxylase
+- C. Tyrosinase
+- D. Alkaline phosphatase
+
+<details><summary>Answer</summary>
+
+**B. Prolyl hydroxylase** — Vitamin C is a cofactor for prolyl (and lysyl) hydroxylase in collagen synthesis. Deficiency → scurvy.
+</details>
+
+---
+
+---
+### Q435 — Brain energy after prolonged fasting
+
+After 5 days of fasting, what is the primary energy source for the brain?
+
+- A. Gluconeogenesis
+- B. Glycogenolysis
+- C. Ketosis
+- D. Lipolysis
+
+<details><summary>Answer</summary>
+
+**C. Ketosis** — After 3–4 days of fasting, ketone bodies (acetoacetate, β-hydroxybutyrate) become the primary brain fuel, sparing glucose/protein.
+</details>
+
+---
+
+---
+### Q436 — High phenylalanine with normal PAH enzyme
+
+A child has elevated serum phenylalanine despite normal phenylalanine hydroxylase activity. Which cofactor is deficient?
+
+- A. Tetrahydrofolate
+- B. Tetrahydrobiopterin (BH4)
+- C. Thiamine
+- D. Pyridoxine
+
+<details><summary>Answer</summary>
+
+**B. Tetrahydrobiopterin (BH4)** — PAH requires BH4 as cofactor. BH4 deficiency (malignant PKU) causes elevated phenylalanine even with intact PAH enzyme.
+</details>
+
+---
+
+---
+### Q437 — B12 deficiency with elevated homocysteine
+
+In Vitamin B12 deficiency, elevated homocysteine results from failure to regenerate which amino acid?
+
+- A. Cysteine
+- B. Methionine
+- C. Tyrosine
+- D. Glutamate
+
+<details><summary>Answer</summary>
+
+**B. Methionine** — Methionine synthase (requires B12) converts homocysteine + methyltetrahydrofolate → methionine. B12 deficiency → hyperhomocysteinemia.
+</details>
+
+---
+
+---
+### Q438 — Hydrochlorothiazide-induced neuropathy
+
+Long-term HCTZ use causes a neuropathy related to deficiency of which micronutrient?
+
+- A. Selenium
+- B. Thiamine
+- C. Vitamin B12
+- D. Zinc
+
+<details><summary>Answer</summary>
+
+**B. Thiamine** — Thiazides can cause thiamine depletion; thiamine deficiency → peripheral neuropathy (also Wernicke's/Beriberi).
+</details>
+
+---
+
+---
+### Q439 — Frameshift mutation effect
+
+A frameshift mutation (insertion/deletion) at codon 4 in a 300-codon gene will most likely result in:
+
+- A. No change in final protein
+- B. Partial protein production
+- C. Complete change in protein from position 4 onwards
+- D. No change due to RNA editing
+
+<details><summary>Answer</summary>
+
+**C. Complete change in protein from position 4 onwards** — Frameshift mutations alter the reading frame of all downstream codons, producing a completely different (and usually truncated/nonfunctional) protein.
+</details>
+
+---
+
+---
+### Q440 — Skin cancer and hyperpigmentation DNA repair
+
+Xeroderma pigmentosum (sun-induced skin cancer and hyperpigmentation) results from defective which DNA repair pathway?
+
+- A. Nucleotide excision repair
+- B. Base excision repair
+- C. Non-homologous end joining
+- D. Mismatch repair
+
+<details><summary>Answer</summary>
+
+**A. Nucleotide excision repair** — NER corrects bulky DNA lesions including UV-induced thymine dimers. Defective NER → XP with extreme photosensitivity and skin cancer.
+</details>
+
+---
+
+---
+### Q441 — Orange tonsils, low HDL
+
+A patient has orange-coloured tonsils, very low HDL cholesterol, and borderline triglycerides. Diagnosis?
+
+- A. Familial hypercholesterolemia
+- B. Tangier disease
+- C. Type I hyperlipoproteinemia
+- D. Abetalipoproteinemia
+
+<details><summary>Answer</summary>
+
+**B. Tangier disease** — ABCA1 transporter defect → defective reverse cholesterol transport → cholesterol ester accumulation in tonsils (orange), very low HDL.
+</details>
+
+---
+
+---
+### Q442 — High cholesterol with tendon xanthomas
+
+A patient has hypercholesterolemia with tendon xanthomas. Frederickson type?
+
+- A. Type I
+- B. Type IIa
+- C. Type IIb
+- D. Type IV
+
+<details><summary>Answer</summary>
+
+**B. Type IIa** — Familial hypercholesterolemia; elevated LDL only; tendon xanthomas (Achilles, extensor tendons) are hallmark.
+</details>
+
+---
+
+---
+### Q443 — PCR for polymicrobial meningitis
+
+Which PCR technique is used to simultaneously identify multiple pathogens causing meningitis?
+
+- A. Multiplex PCR
+- B. Uniplex PCR
+- C. Real-time PCR
+- D. Nested PCR
+
+<details><summary>Answer</summary>
+
+**A. Multiplex PCR** — Uses multiple primer sets in one reaction to detect several organisms simultaneously (e.g., BioFire FilmArray for meningitis/encephalitis panel).
+</details>
+
+---
+
+---
+### Q444 — Anion gap calculation
+
+A patient has Na⁺ 140, Cl⁻ 100, HCO₃⁻ 10 mEq/L. What is the anion gap?
+
+- A. 26
+- B. 30
+- C. 18
+- D. 22
+
+<details><summary>Answer</summary>
+
+**B. 30** — AG = Na − (Cl + HCO₃) = 140 − (100 + 10) = 30. Indicates high anion gap metabolic acidosis.
+</details>
+
+---
+
+---

@@ -1016,646 +1016,9 @@ true about TRIAD congenital rubella syndrome
 
 ---
 
-## Year 2019
-
-### Q61 — Drug used in acute congestive glaucoma *(2019)*
-
-Drug used in acute congestive glaucoma are:
-
-- A. Atropine
-- B. Pilocarpine
-- C. Acetazolamide
-- D. Both B & C
-
-<details><summary>Answer</summary>
-
-**D. Both B & C**
-
-</details>
-
----
-
----
-
-### Q62 — Esotropiais usually associated with *(2019)*
-
-Esotropiais usually associated with:
-
-- A. Myopia
-- B. Hypermetropia
-- C. Astigmatism
-- D. Presbyopia
-
-<details><summary>Answer</summary>
-
-**B. Hypermetropia**
-
-</details>
-
----
-
----
-
-### Q63 — Following test is used to diagnose *(2019)*
-
-Following test is used to diagnose which ocular condition as shown in image:
-
-- A. Strabismus
-- B. Heterophoria
-- C. Both A & B
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. Both A & B**
-
-</details>
-
----
-
----
-
-
-## Year 2020
-
-### Q64 — Corneal transparency
-
-Layer responsible for corneal hydration and transparency?
-
-- A. Descemet's membrane
-- B. Stroma
-- C. Corneal epithelium
-- D. Endothelium
-
-<details><summary>Answer</summary>
-
-**D. Endothelium** — Na/K ATPase pumps maintain deturgescence (relative dehydration).
-</details>
-
----
-
-### Q65 — Fungal ulcer feature
-
-Characteristic feature of a fungal corneal ulcer?
-
-- A. Dendritic ulcer on fluorescein
-- B. Ring abscess
-- C. Reverse hypopyon
-- D. Satellite lesions
-
-<details><summary>Answer</summary>
-
-**D. Satellite lesions** — Classic of fungal keratitis. Dendritic = HSV; ring infiltrate = Acanthamoeba/severe bacterial.
-</details>
-
----
-
----
-
-### Q66 — What causes shifting fluid *(2020)*
-
-What causes shifting fluid?
-
-- A. Exudative Retinal detachment
-- B. Tractional Retinal Detachment
-- C. Rhegmatogenous retinal detachment
-- D. Retinodialysis
-
-<details><summary>Answer</summary>
-
-**A. Exudative Retinal detachment**
-
-</details>
-
----
-
----
-
-### Q67 — Photostress test to differentiate *(2020)*
-
-Photostress test to differentiate
-
-- A. Lens and cornea
-- B. The macula and Optic nerve diseases
-- C. Cataract and glaucoma
-- D. Retinal and vitreous diseases
-
-<details><summary>Answer</summary>
-
-**B. The macula and Optic nerve diseases**
-
-</details>
-
----
-
----
-
-### Q68 — Which layer of cornea helps in *(2020)*
-
-Which layer of cornea helps in the hydration of stroma of cornea
-
-- A. Endothelium
-- B. Epithelium
-- C. Descemet membrane
-- D. Stroma
-
-<details><summary>Answer</summary>
-
-**A. Endothelium**
-
-</details>
-
----
-
----
-
-### Q69 — Esotropia is common in *(2020)*
-
-Esotropia is common in
-
-- A. Myopia
-- B. Hypermetropia
-- C. Emmetropia
-- D. Astigmatism
-
-<details><summary>Answer</summary>
-
-**B. Hypermetropia**
-
-</details>
-
----
-
----
-
-
-## Year 2021
-
-### Q70 — Right homonymous hemianopia
-
-A 33-year-old woman with progressive vision loss in right halves of both eyes. Lesion?
-
-- A. Left optic tract
-- B. Right visual cortex
-- C. Optic chiasma
-- D. Right optic nerve
-
-<details><summary>Answer</summary>
-
-**A. Left optic tract** — Right HH from left retrochiasmal lesion.
-</details>
-
----
-
-### Q71 — Non-compliant teen with myopic astigmatism
-
-15-year-old girl non-compliant with spectacles for myopic astigmatism. Option?
-
-- A. LASIK
-- B. Spherical equivalent spectacles
-- C. Femto LASIK
-- D. Implantable collamer lens
-
-<details><summary>Answer</summary>
-
-**B. Spherical equivalent spectacles** — Refractive surgery not done until stable refraction (~age 18+).
-</details>
-
----
-
----
-
-### Q72 — Dermoid cyst — location
-
-15-year-old, painless supraorbital swelling, slowly progressive over 1 year?
-
-- A. Lacrimal gland mass
-- B. Dermoid cyst
-- C. Orbital hemangioma
-- D. Epidermoid cyst
-
-<details><summary>Answer</summary>
-
-**B. Dermoid cyst** — Most common orbital tumor in children; choristoma arising from embryonal ectoderm trapped at suture lines; superolateral (frontozygomatic) location most common; non-tender, firm.
-
-</details>
-
----
-
-### Q73 — Fuchs endothelial dystrophy
-
-Guttate lesions one eye, bullous keratopathy other eye?
-
-- A. Trachoma
-- B. Herpes keratitis
-- C. Fuchs endothelial dystrophy
-- D. Keratoconus
-
-<details><summary>Answer</summary>
-
-**C. Fuchs endothelial dystrophy** — Bilateral progressive corneal endotheliopathy; guttae (drop-like excrescences on Descemet's); → stromal edema → bullous keratopathy. Definitive treatment: DSEK/DMEK.
-
-</details>
-
----
-
-### Q74 — Orbital cellulitis — true statement
-
-Orbital cellulitis — most true statement?
-
-- A. Ethmoidal sinusitis is the most common cause across all age groups
-- B. Topical antibiotics are the mainstay of treatment
-- C. Inflammation is anterior to the orbital septum
-- D. Normal pupils and eye movements are characteristic
-
-<details><summary>Answer</summary>
-
-**A. Ethmoidal sinusitis most common cause in all ages** — Chandler's classification; ethmoidal sinusitis → subperiosteal/orbital abscess. Preseptal cellulitis (anterior to septum) ≠ orbital cellulitis (posterior). Orbital = proptosis, restricted EOM, chemosis.
-
-</details>
-
----
-
----
-
-
-## Year 2022
-
-### Q75 — Sympathetic ophthalmitis
-
-Penetrating eye injury; sympathetic ophthalmitis confirmed. Finding?
-
-- A. Acute anterior uveitis
-- B. Pars planitis
-- C. Panuveitis
-- D. Chronic anterior uveitis
-
-<details><summary>Answer</summary>
-
-**C. Panuveitis** — Granulomatous, bilateral. Earliest sign: retro-lental yellow-white spots (Dalen–Fuchs nodules).
-</details>
-
----
-
-### Q76 — Diabetic retinopathy — neovascularisation
-
-Diabetic patient: VA 6/9, preretinal haemorrhages, neovascularisation at optic disc. Management?
-
-- A. Focal laser
-- B. Pan-retinal photocoagulation (PRP)
-- C. Grid laser
-- D. Scleral buckling
-
-<details><summary>Answer</summary>
-
-**B. PRP** — Proliferative diabetic retinopathy (NVD/NVE) → PRP is standard.
-</details>
-
----
-
----
-
-### Q77 — What is the diagnosis *(2022)*
-
-What is the diagnosis?
-
-- A. Intraocular foreign body
-- B. Pseudoexfoliation syndrome
-- C. Ocular trauma
-- D. Vossius ring
-
-<details><summary>Answer</summary>
-
-**B. Pseudoexfoliation syndrome**
-
-</details>
-
----
-
----
-
-### Q78 — A patient presents with a history *(2022)*
-
-A patient presents with a history of penetrating injury to the eye. A diagnosis of sympathetic ophthalmitis was confirmed. Which of the following will be seen?
-
-- A. Acute anterior uveitis
-- B. Pars planitis
-- C. Panuveitis
-- D. Chronic anterior uveitis
-
-<details><summary>Answer</summary>
-
-**C. Panuveitis**
-
-</details>
-
----
-
----
-
-### Q79 — A diabetic patient presents to you *(2022)*
-
-A diabetic patient presents to you with visual acuity of 6/9 in one eye. Further investigations revealed preretinal hemorrhages with neovascularization at the optic disc. What is the next step in management?
-
-- A. Focal laser photocoagulation
-- B. Pan-retinal photocoagulation
-- C. Grid laser photocoagulation
-- D. Scleral buckling
-
-<details><summary>Answer</summary>
-
-**B. Pan-retinal photocoagulation**
-
-</details>
-
----
-
----
-
-### Q80 — What is the indication of this *(2022)*
-
-What is the indication of this procedure?
-
-- A. Keratoconus
-- B. Vogt’s limbal girdle
-- C. Keratoglobus
-- D. Corneal dystrophy
-
-<details><summary>Answer</summary>
-
-**A. Keratoconus**
-
-</details>
-
----
-
----
-
-
-## Year 2023
-
-### Q81 — Right homonymous hemianopia
-
-A female with vision loss in the right halves of both eyes (right homonymous hemianopia). Lesion location?
-
-- A. Left optic tract
-- B. Optic radiation
-- C. Optic chiasma
-- D. Right optic tract
-
-<details><summary>Answer</summary>
-
-**A. Left optic tract** — Right homonymous hemianopia = left retrochiasmal lesion (tract, LGN, radiation, or cortex).
-</details>
-
----
-
-### Q82 — Kayser–Fleischer ring
-
-A 20-year-old male with a golden ring on the iris. Next investigation?
-
-- A. α1-antitrypsin
-- B. α-fetoprotein
-- C. Serum iron
-- D. Serum ceruloplasmin
-
-<details><summary>Answer</summary>
-
-**D. Serum ceruloplasmin** — KF ring → Wilson's disease (decreased ceruloplasmin, copper accumulation in Descemet's membrane).
-</details>
-
----
-
----
-
-### Q83 — A child presents with mental retardation, *(2023)*
-
-A child presents with mental retardation, bone pain, and inability to walk. On funduscopic examination, a cherry red spot is seen. There is no organomegaly. What is the most likely diagnosis?
-
-- A. Tay-Sachs disease
-- B. Niemann-Pick disease
-- C. Hurler syndrome
-- D. Gaucher disease
-
-<details><summary>Answer</summary>
-
-**A. Tay-Sachs disease**
-
-</details>
-
----
-
----
-
-### Q84 — The eye examination of a 20-year-old *(2023)*
-
-The eye examination of a 20-year-old male shows a golden ring on the iris. What is the next investigation to diagnose the condition?
-
-- A. Alpha-1-antitrypsin
-- B. Alpha-fetoprotein
-- C. Serum iron
-- D. Serum ceruloplasmin
-
-<details><summary>Answer</summary>
-
-**D. Serum ceruloplasmin**
-
-</details>
-
----
-
----
-
-
-## Year 2024
-
-### Q85 — Congenital cataract — timing
-
-A 2-month-old child with significant congenital cataract. Ideal management?
-
-- A. Medical management
-- B. Operate immediately
-- C. Surgery after 6 months
-- D. Surgery after 2 years
-
-<details><summary>Answer</summary>
-
-**B. Operate immediately** — To prevent stimulus deprivation amblyopia; critical period for visual development.
-</details>
-
----
-
-### Q86 — Night blindness + peripheral loss
-
-Patient with gradual night vision and peripheral vision loss; fundus shows bone-spicule pigmentation. Diagnosis?
-
-- A. Retinitis pigmentosa
-- B. Retinal haemorrhage
-- C. Diabetic retinopathy
-- D. Hypertensive retinopathy
-
-<details><summary>Answer</summary>
-
-**A. Retinitis pigmentosa** — Triad: bone-spicule pigmentation, attenuated arterioles, waxy disc pallor. ERG markedly reduced.
-</details>
-
----
-
----
-
-### Q87 — A patient undergoing the Worth 4 *(2024)*
-
-A patient undergoing the Worth 4 Dot Test reports seeing only three green dots. What does this finding most likely indicate?
-
-- A. Right eye suppression
-- B. Left eye suppression
-- C. Crossed diplopia with esodeviation
-- D. Crossed diplopia with exodeviation
-
-<details><summary>Answer</summary>
-
-**A. Right eye suppression**
-
-</details>
-
----
-
----
-
-### Q88 — Clinical Question A 2-month-old infant is *(2024)*
-
-A 2-month-old infant is brought to the ophthalmology outpatient department with the condition shown. What is the most appropriate course of management in this case?
-
-- A. Medical management
-- B. Operate immediately
-- C. Surgery after 6 months
-- D. Surgery after 2 years
-
-<details><summary>Answer</summary>
-
-**B. Operate immediately**
-
-</details>
-
----
-
----
-
-### Q89 — Clinical Question A patient reports progressive *(2024)*
-
-A patient reports progressive visual decline three years following ocular surgery and presents with the condition shown. What is the most probable diagnosis?
-
-- A. Pseudo-bullous keratopathy
-- B. Corneal dystrophy
-- C. Posterior subcapsular cataract
-- D. Posterior capsular opacification (PCO)
-
-<details><summary>Answer</summary>
-
-**D. Posterior capsular opacification (PCO)**
-
-</details>
-
----
-
----
-
-
-## Year 2025
-
-### Q90 — INTACS primary indication
-
-The INTACS intrastromal corneal ring segment is primarily indicated for:
-
-- A. Glaucoma
-- B. Cataract
-- C. Keratoconus
-- D. Corneal ulcer
-
-<details><summary>Answer</summary>
-
-**C. Keratoconus** — INTACS flatten the corneal cone, improving vision in early-to-moderate keratoconus; can delay or avoid corneal transplantation.
-</details>
-
----
-
----
-
-### Q91 — Gradually enlarging painless orbital swelling for 10 years (16-year-old)
-
-16-year-old female, painless orbital swelling present since birth, slowly enlarging for 10 years. Diagnosis?
-
-- A. Dermoid cyst
-- B. Capillary hemangioma
-- C. Lacrimal gland carcinoma
-- D. Osteoma
-
-<details><summary>Answer</summary>
-
-**A. Dermoid cyst** — Congenital choristoma; most common at fronto-zygomatic suture (superolateral orbit); slow-growing, painless; contains ectodermal elements (hair, sebaceous glands).
-</details>
-
----
-
----
-
-### Q92 — Guttate lesions in one eye, bullous keratopathy in other
-
-Patient with guttate lesions in one eye and bullous keratopathy in the other. Diagnosis?
-
-- A. Fuchs' endothelial dystrophy
-- B. Viral corneal ulcer
-- C. Interstitial keratitis
-- D. Keratoconjunctivitis
-
-<details><summary>Answer</summary>
-
-**A. Fuchs' endothelial dystrophy** — Guttae (comma-shaped endothelial excrescences) on specular microscopy; leads to bullous keratopathy as endothelial cells fail. Bilateral but asymmetric.
-</details>
-
----
-
----
-
-### Q93 — True statement about orbital cellulitis
-
-Which is true about orbital cellulitis?
-
-- A. Inflammation is confined anterior to orbital septum
-- B. Ethmoidal sinusitis is the most common cause
-- C. It presents with proptosis, but pupillary reflexes and EOMs remain normal
-- D. Broad-spectrum topical antibiotics are treatment of choice
-
-<details><summary>Answer</summary>
-
-**B. Ethmoidal sinusitis is the most common cause** — Most common cause of orbital cellulitis at all ages (especially children) is spread from ethmoidal sinusitis. Preseptal (periorbital) cellulitis is anterior to septum, not orbital cellulitis.
-</details>
-
----
-
----
-
-### Q94 — Binocular vision components A and B (image)
-
-Identify components A and B from the binocular vision diagram:
-
-- A. A-Simultaneous perception and B-Stereopsis
-- B. A-Simultaneous perception and B-Fusion
-- C. A-Fusion and B-Simultaneous perception
-- D. A-Stereopsis and B-Fusion
-
-<details><summary>Answer</summary>
-
-**B. A-Simultaneous perception and B-Fusion** — Worth's grades of binocular vision: 1st = Simultaneous perception, 2nd = Fusion, 3rd = Stereopsis.
-</details>
-
----
-
----
-
 ## Year 2015
 
-### Q95 — Contraindication of antimuscarinic drug
+### Q61 — Contraindication of antimuscarinic drug
 
 Contraindication of antimuscarinic drug ?
 
@@ -1673,8 +1036,7 @@ Contraindication of antimuscarinic drug ?
 ---
 
 ---
-
-### Q96 — Atropine plus diphenoxylate combination is used
+### Q62 — Atropine plus diphenoxylate combination is used
 
 Atropine plus diphenoxylate combination is used for?
 
@@ -1692,8 +1054,7 @@ Atropine plus diphenoxylate combination is used for?
 ---
 
 ---
-
-### Q97 — Methanol attacks
+### Q63 — Methanol attacks
 
 Methanol attacks ?
 
@@ -1711,8 +1072,7 @@ Methanol attacks ?
 ---
 
 ---
-
-### Q98 — In primary open-angle glaucoma pilocarpine eye
+### Q64 — In primary open-angle glaucoma pilocarpine eye
 
 In primary open-angle glaucoma pilocarpine eye drops lowers the intraocular pressure by its direct action on the:
 
@@ -1730,8 +1090,7 @@ In primary open-angle glaucoma pilocarpine eye drops lowers the intraocular pres
 ---
 
 ---
-
-### Q99 — Required for IOL power calculation
+### Q65 — Required for IOL power calculation
 
 Required for IOL power calculation ?
 
@@ -1749,8 +1108,7 @@ Required for IOL power calculation ?
 ---
 
 ---
-
-### Q100 — Most powerful refractory surface of eye
+### Q66 — Most powerful refractory surface of eye
 
 Most powerful refractory surface of eye is -
 
@@ -1768,8 +1126,7 @@ Most powerful refractory surface of eye is -
 ---
 
 ---
-
-### Q101 — What is regular astigmatism
+### Q67 — What is regular astigmatism
 
 What is regular astigmatism?
 
@@ -1787,8 +1144,7 @@ What is regular astigmatism?
 ---
 
 ---
-
-### Q102 — In a case of myopia, LASIK
+### Q68 — In a case of myopia, LASIK
 
 In a case of myopia, LASIK will provide correction upto ?
 
@@ -1806,8 +1162,7 @@ In a case of myopia, LASIK will provide correction upto ?
 ---
 
 ---
-
-### Q103 — What is reverse hypopyon
+### Q69 — What is reverse hypopyon
 
 What is reverse hypopyon?
 
@@ -1825,8 +1180,7 @@ What is reverse hypopyon?
 ---
 
 ---
-
-### Q104 — Silk retina is seen in
+### Q70 — Silk retina is seen in
 
 Silk retina is seen in ?
 
@@ -1844,8 +1198,7 @@ Silk retina is seen in ?
 ---
 
 ---
-
-### Q105 — Pseudopapilitis with silk shot appearance is
+### Q71 — Pseudopapilitis with silk shot appearance is
 
 Pseudopapilitis with silk shot appearance is seen in?
 
@@ -1863,8 +1216,7 @@ Pseudopapilitis with silk shot appearance is seen in?
 ---
 
 ---
-
-### Q106 — Lensometer detects
+### Q72 — Lensometer detects
 
 Lensometer detects ?
 
@@ -1882,8 +1234,7 @@ Lensometer detects ?
 ---
 
 ---
-
-### Q107 — All of the following are treatments
+### Q73 — All of the following are treatments
 
 All of the following are treatments of myopia except?
 
@@ -1901,8 +1252,7 @@ All of the following are treatments of myopia except?
 ---
 
 ---
-
-### Q108 — Sudden painless loss of vision- All
+### Q74 — Sudden painless loss of vision- All
 
 Sudden painless loss of vision- All are causes except?
 
@@ -1920,8 +1270,7 @@ Sudden painless loss of vision- All are causes except?
 ---
 
 ---
-
-### Q109 — All are true regarding cornea except
+### Q75 — All are true regarding cornea except
 
 All are true regarding cornea except:
 
@@ -1939,8 +1288,7 @@ All are true regarding cornea except:
 ---
 
 ---
-
-### Q110 — Corneal tattooing may be done with
+### Q76 — Corneal tattooing may be done with
 
 Corneal tattooing may be done with:
 
@@ -1958,8 +1306,7 @@ Corneal tattooing may be done with:
 ---
 
 ---
-
-### Q111 — Kayser Fleischer ring is found in
+### Q77 — Kayser Fleischer ring is found in
 
 Kayser Fleischer ring is found in which layer of cornea?
 
@@ -1977,8 +1324,7 @@ Kayser Fleischer ring is found in which layer of cornea?
 ---
 
 ---
-
-### Q112 — Posterior staphyloma is seen in
+### Q78 — Posterior staphyloma is seen in
 
 Posterior staphyloma is seen in:
 
@@ -1996,10 +1342,9 @@ Posterior staphyloma is seen in:
 ---
 
 ---
+### Q79 — year old man presents to the
 
-### Q113 — year old man presents to the
-
-year old man presents to the clinic with pain in the eye, watering, redness and photophobia. Examination of his eyes shows circumcorneal congestion and keratic precipitates. Assertion: KPs are proteinaceous deposits occurring in a triangular fashion in the
+A patient (age not captured in source) who is a year old man presents to the clinic with pain in the eye, watering, redness and photophobia. Examination of his eyes shows circumcorneal congestion and keratic precipitates. Assertion: KPs are proteinaceous deposits occurring in a triangular fashion in the
 
 - A. Both Assertion and Reason are true, and Reason is the correct
 - B. Both Assertion and Reason are true, and Reason is not the
@@ -2015,8 +1360,7 @@ year old man presents to the clinic with pain in the eye, watering, redness and 
 ---
 
 ---
-
-### Q114 — All of the following are true
+### Q80 — All of the following are true
 
 All of the following are true about Keratoconus, except:
 
@@ -2034,8 +1378,7 @@ All of the following are true about Keratoconus, except:
 ---
 
 ---
-
-### Q115 — Cataract is caused by
+### Q81 — Cataract is caused by
 
 Cataract is caused by ?
 
@@ -2053,8 +1396,7 @@ Cataract is caused by ?
 ---
 
 ---
-
-### Q116 — All of the following are causes
+### Q82 — All of the following are causes
 
 All of the following are causes of posterior subcapsular cataract except -
 
@@ -2072,8 +1414,7 @@ All of the following are causes of posterior subcapsular cataract except -
 ---
 
 ---
-
-### Q117 — The intraocular lens in cataract surgery
+### Q83 — The intraocular lens in cataract surgery
 
 The intraocular lens in cataract surgery is placed in ?
 
@@ -2091,8 +1432,7 @@ The intraocular lens in cataract surgery is placed in ?
 ---
 
 ---
-
-### Q118 — Snowflake cataract is associated with
+### Q84 — Snowflake cataract is associated with
 
 Snowflake cataract is associated with:
 
@@ -2110,8 +1450,7 @@ Snowflake cataract is associated with:
 ---
 
 ---
-
-### Q119 — What is the type of Galactosemia
+### Q85 — What is the type of Galactosemia
 
 What is the type of Galactosemia cataract?
 
@@ -2129,8 +1468,7 @@ What is the type of Galactosemia cataract?
 ---
 
 ---
-
-### Q120 — Rosette cataract is seen due to
+### Q86 — Rosette cataract is seen due to
 
 Rosette cataract is seen due to:
 
@@ -2148,8 +1486,7 @@ Rosette cataract is seen due to:
 ---
 
 ---
-
-### Q121 — What is not true about congenital
+### Q87 — What is not true about congenital
 
 What is not true about congenital glaucoma of eye?
 
@@ -2167,8 +1504,7 @@ What is not true about congenital glaucoma of eye?
 ---
 
 ---
-
-### Q122 — Descemet membrane breach is seen in
+### Q88 — Descemet membrane breach is seen in
 
 Descemet membrane breach is seen in ?
 
@@ -2186,8 +1522,7 @@ Descemet membrane breach is seen in ?
 ---
 
 ---
-
-### Q123 — Earliest sign of primary congenital glaucoma
+### Q89 — Earliest sign of primary congenital glaucoma
 
 Earliest sign of primary congenital glaucoma ?
 
@@ -2205,8 +1540,7 @@ Earliest sign of primary congenital glaucoma ?
 ---
 
 ---
-
-### Q124 — Selective alpha 2 agoinst used in
+### Q90 — Selective alpha 2 agoinst used in
 
 Selective alpha 2 agoinst used in glaucoma ?
 
@@ -2224,8 +1558,7 @@ Selective alpha 2 agoinst used in glaucoma ?
 ---
 
 ---
-
-### Q125 — Latanoprost used topically in glaucoma primarily
+### Q91 — Latanoprost used topically in glaucoma primarily
 
 Latanoprost used topically in glaucoma primarily acts by?
 
@@ -2243,8 +1576,7 @@ Latanoprost used topically in glaucoma primarily acts by?
 ---
 
 ---
-
-### Q126 — What is the cause of glaucoma
+### Q92 — What is the cause of glaucoma
 
 What is the cause of glaucoma in retinoblastoma?
 
@@ -2262,8 +1594,7 @@ What is the cause of glaucoma in retinoblastoma?
 ---
 
 ---
-
-### Q127 — What is true about retinal hemorrhage
+### Q93 — What is true about retinal hemorrhage
 
 What is true about retinal hemorrhage in new born?
 
@@ -2281,8 +1612,7 @@ What is true about retinal hemorrhage in new born?
 ---
 
 ---
-
-### Q128 — All are true regarding optic neuritis
+### Q94 — All are true regarding optic neuritis
 
 All are true regarding optic neuritis except:
 
@@ -2300,8 +1630,7 @@ All are true regarding optic neuritis except:
 ---
 
 ---
-
-### Q129 — Macular sparing is associated with lesions
+### Q95 — Macular sparing is associated with lesions
 
 Macular sparing is associated with lesions in:
 
@@ -2319,8 +1648,7 @@ Macular sparing is associated with lesions in:
 ---
 
 ---
-
-### Q130 — Pupillary reflex pathway- All of the
+### Q96 — Pupillary reflex pathway- All of the
 
 Pupillary reflex pathway- All of the following are a part except ?
 
@@ -2338,8 +1666,7 @@ Pupillary reflex pathway- All of the following are a part except ?
 ---
 
 ---
-
-### Q131 — Best method of detection of retained
+### Q97 — Best method of detection of retained
 
 Best method of detection of retained glass intraocular foreign body is:
 
@@ -2357,8 +1684,7 @@ Best method of detection of retained glass intraocular foreign body is:
 ---
 
 ---
-
-### Q132 — All of the following are complications
+### Q98 — All of the following are complications
 
 All of the following are complications of traumatic hyphema except?
 
@@ -2376,8 +1702,7 @@ All of the following are complications of traumatic hyphema except?
 ---
 
 ---
-
-### Q133 — Pilocarpine is used in all of
+### Q99 — Pilocarpine is used in all of
 
 Pilocarpine is used in all of the following except:
 
@@ -2395,8 +1720,7 @@ Pilocarpine is used in all of the following except:
 ---
 
 ---
-
-### Q134 — Which of the following statements about
+### Q100 — Which of the following statements about
 
 Which of the following statements about atrial myxomas is true
 
@@ -2414,8 +1738,7 @@ Which of the following statements about atrial myxomas is true
 ---
 
 ---
-
-### Q135 — Duroziezs sign is seen in
+### Q101 — Duroziezs sign is seen in
 
 Duroziez's sign is seen in
 
@@ -2433,8 +1756,7 @@ Duroziez's sign is seen in
 ---
 
 ---
-
-### Q136 — Becks triad is seen in
+### Q102 — Becks triad is seen in
 
 Becks triad is seen in
 
@@ -2452,8 +1774,7 @@ Becks triad is seen in
 ---
 
 ---
-
-### Q137 — The severity of mitral stenosis can
+### Q103 — The severity of mitral stenosis can
 
 The severity of mitral stenosis can be judged by-
 
@@ -2471,8 +1792,7 @@ The severity of mitral stenosis can be judged by-
 ---
 
 ---
-
-### Q138 — Wide pulse pressure is seen in
+### Q104 — Wide pulse pressure is seen in
 
 Wide pulse pressure is seen in all except:
 
@@ -2490,8 +1810,7 @@ Wide pulse pressure is seen in all except:
 ---
 
 ---
-
-### Q139 — All are true for transplanted kidney
+### Q105 — All are true for transplanted kidney
 
 All are true for transplanted kidney except
 
@@ -2509,8 +1828,7 @@ All are true for transplanted kidney except
 ---
 
 ---
-
-### Q140 — All are seen in Nephrotic syndrome
+### Q106 — All are seen in Nephrotic syndrome
 
 All are seen in Nephrotic syndrome except
 
@@ -2528,8 +1846,7 @@ All are seen in Nephrotic syndrome except
 ---
 
 ---
-
-### Q141 — All of the following causes acute
+### Q107 — All of the following causes acute
 
 All of the following causes acute renal failure except
 
@@ -2547,8 +1864,7 @@ All of the following causes acute renal failure except
 ---
 
 ---
-
-### Q142 — Features of Hepatorenal syndrome are
+### Q108 — Features of Hepatorenal syndrome are
 
 Features of Hepatorenal syndrome are
 
@@ -2566,8 +1882,7 @@ Features of Hepatorenal syndrome are
 ---
 
 ---
-
-### Q143 — Dialysis indications
+### Q109 — Dialysis indications
 
 Dialysis indications
 
@@ -2585,8 +1900,7 @@ Dialysis indications
 ---
 
 ---
-
-### Q144 — Which of the following microorganism is
+### Q110 — Which of the following microorganism is
 
 Which of the following microorganism is incriminated in infection after hemodialysis
 
@@ -2604,8 +1918,7 @@ Which of the following microorganism is incriminated in infection after hemodial
 ---
 
 ---
-
-### Q145 — Significant weight loss is defined as
+### Q111 — Significant weight loss is defined as
 
 Significant weight loss is defined as:
 
@@ -2623,8 +1936,7 @@ Significant weight loss is defined as:
 ---
 
 ---
-
-### Q146 — Which is not true about alcoholic
+### Q112 — Which is not true about alcoholic
 
 Which is not true about alcoholic hepatitis :
 
@@ -2642,8 +1954,7 @@ Which is not true about alcoholic hepatitis :
 ---
 
 ---
-
-### Q147 — Which of the following is not
+### Q113 — Which of the following is not
 
 Which of the following is not true regarding amoebic liver abscess
 
@@ -2661,8 +1972,7 @@ Which of the following is not true regarding amoebic liver abscess
 ---
 
 ---
-
-### Q148 — Which of the following is not
+### Q114 — Which of the following is not
 
 Which of the following is not expected in a case of Microcytic Hypochromic anemia
 
@@ -2680,8 +1990,7 @@ Which of the following is not expected in a case of Microcytic Hypochromic anemi
 ---
 
 ---
-
-### Q149 — Zieve syndrome is characterized by all
+### Q115 — Zieve syndrome is characterized by all
 
 Zieve syndrome is characterized by all except
 
@@ -2699,8 +2008,7 @@ Zieve syndrome is characterized by all except
 ---
 
 ---
-
-### Q150 — All of the following are major
+### Q116 — All of the following are major
 
 All of the following are major complications of massive transfusion, except:
 
@@ -2718,8 +2026,7 @@ All of the following are major complications of massive transfusion, except:
 ---
 
 ---
-
-### Q151 — The tissue of origin of the
+### Q117 — The tissue of origin of the
 
 The tissue of origin of the Kaposi's sarcoma is ?
 
@@ -2737,8 +2044,7 @@ The tissue of origin of the Kaposi's sarcoma is ?
 ---
 
 ---
-
-### Q152 — Thrombocythemia is characterized by
+### Q118 — Thrombocythemia is characterized by
 
 Thrombocythemia is characterized by
 
@@ -2756,8 +2062,7 @@ Thrombocythemia is characterized by
 ---
 
 ---
-
-### Q153 — Which of the following is required
+### Q119 — Which of the following is required
 
 Which of the following is required for proper effects of Insulin?
 
@@ -2775,8 +2080,7 @@ Which of the following is required for proper effects of Insulin?
 ---
 
 ---
-
-### Q154 — Glucose fever is related with -
+### Q120 — Glucose fever is related with -
 
 Glucose fever is related with -
 
@@ -2794,8 +2098,7 @@ Glucose fever is related with -
 ---
 
 ---
-
-### Q155 — Which is the best indicator for
+### Q121 — Which is the best indicator for
 
 Which is the best indicator for short term control (2-3 weeks] of blood glucose ?
 
@@ -2813,8 +2116,7 @@ Which is the best indicator for short term control (2-3 weeks] of blood glucose 
 ---
 
 ---
-
-### Q156 — Post Prandial capillary glucose should be
+### Q122 — Post Prandial capillary glucose should be
 
 Post Prandial capillary glucose should be mg/dl for adequate diabetes control
 
@@ -2832,8 +2134,7 @@ Post Prandial capillary glucose should be mg/dl for adequate diabetes control
 ---
 
 ---
-
-### Q157 — The most common cause of Cushings
+### Q123 — The most common cause of Cushings
 
 The most common cause of Cushing's syndrome is:
 
@@ -2851,8 +2152,7 @@ The most common cause of Cushing's syndrome is:
 ---
 
 ---
-
-### Q158 — Primary Hyperaldosteronism can be diagnosed by
+### Q124 — Primary Hyperaldosteronism can be diagnosed by
 
 Primary Hyperaldosteronism can be diagnosed by all of the following criteria, except:
 
@@ -2870,8 +2170,7 @@ Primary Hyperaldosteronism can be diagnosed by all of the following criteria, ex
 ---
 
 ---
-
-### Q159 — Female with blood sugar of 600
+### Q125 — Female with blood sugar of 600
 
 Female with blood sugar of 600 mg% and sodium of 110 mEq. Insulin was given, what will happen to serum sodium levels ?
 
@@ -2889,8 +2188,7 @@ Female with blood sugar of 600 mg% and sodium of 110 mEq. Insulin was given, wha
 ---
 
 ---
-
-### Q160 — Which of the following presents with
+### Q126 — Which of the following presents with
 
 Which of the following presents with hypokalemia and metabolic acidosis ?
 
@@ -2908,8 +2206,7 @@ Which of the following presents with hypokalemia and metabolic acidosis ?
 ---
 
 ---
-
-### Q161 — Hypertension with Hypokalemia is seen in
+### Q127 — Hypertension with Hypokalemia is seen in
 
 Hypertension with Hypokalemia is seen in:
 
@@ -2927,8 +2224,7 @@ Hypertension with Hypokalemia is seen in:
 ---
 
 ---
-
-### Q162 — In cobalamin deficiency which is not
+### Q128 — In cobalamin deficiency which is not
 
 In cobalamin deficiency which is not seen
 
@@ -2946,8 +2242,7 @@ In cobalamin deficiency which is not seen
 ---
 
 ---
-
-### Q163 — Hypernatremia causes all EXCEPT
+### Q129 — Hypernatremia causes all EXCEPT
 
 Hypernatremia causes all EXCEPT
 
@@ -2965,8 +2260,7 @@ Hypernatremia causes all EXCEPT
 ---
 
 ---
-
-### Q164 — All of the following are associated
+### Q130 — All of the following are associated
 
 All of the following are associated with hyponatremia except
 
@@ -2984,8 +2278,7 @@ All of the following are associated with hyponatremia except
 ---
 
 ---
-
-### Q165 — Most common type of multiple sclerosis
+### Q131 — Most common type of multiple sclerosis
 
 Most common type of multiple sclerosis?
 
@@ -3003,8 +2296,7 @@ Most common type of multiple sclerosis?
 ---
 
 ---
-
-### Q166 — In EEG which type of waves
+### Q132 — In EEG which type of waves
 
 In EEG which type of waves are seen in metabolic encephalopathy
 
@@ -3022,8 +2314,7 @@ In EEG which type of waves are seen in metabolic encephalopathy
 ---
 
 ---
-
-### Q167 — Glasgow coma scale motor 4 represents
+### Q133 — Glasgow coma scale motor 4 represents
 
 Glasgow coma scale motor 4 represents?
 
@@ -3041,8 +2332,7 @@ Glasgow coma scale motor 4 represents?
 ---
 
 ---
-
-### Q168 — Increased ICT is shown by
+### Q134 — Increased ICT is shown by
 
 Increased ICT is shown by
 
@@ -3060,8 +2350,7 @@ Increased ICT is shown by
 ---
 
 ---
-
-### Q169 — Lateral vessels medullary syndrome is due
+### Q135 — Lateral vessels medullary syndrome is due
 
 Lateral vessels? medullary syndrome is due to the occlusion of which of the following
 
@@ -3079,8 +2368,7 @@ Lateral vessels? medullary syndrome is due to the occlusion of which of the foll
 ---
 
 ---
-
-### Q170 — Plaques jaunes are seen in
+### Q136 — Plaques jaunes are seen in
 
 Plaques jaunes are seen in
 
@@ -3098,8 +2386,7 @@ Plaques jaunes are seen in
 ---
 
 ---
-
-### Q171 — Rademecker complex in EEG is seen
+### Q137 — Rademecker complex in EEG is seen
 
 Rademecker complex in EEG is seen in -
 
@@ -3117,8 +2404,7 @@ Rademecker complex in EEG is seen in -
 ---
 
 ---
-
-### Q172 — Which of the following sites is
+### Q138 — Which of the following sites is
 
 Which of the following sites is responsible for the amnestic defect in Wernicke's Korsakoff syndrome:
 
@@ -3136,8 +2422,7 @@ Which of the following sites is responsible for the amnestic defect in Wernicke'
 ---
 
 ---
-
-### Q173 — Which of the following is the
+### Q139 — Which of the following is the
 
 Which of the following is the most common initial presenting feature of multiple sclerosis:
 
@@ -3155,8 +2440,7 @@ Which of the following is the most common initial presenting feature of multiple
 ---
 
 ---
-
-### Q174 — Absence of Corpus callosum leads to
+### Q140 — Absence of Corpus callosum leads to
 
 Absence of Corpus callosum leads to
 
@@ -3174,8 +2458,7 @@ Absence of Corpus callosum leads to
 ---
 
 ---
-
-### Q175 — First Symptoms of parkinsons disease is
+### Q141 — First Symptoms of parkinsons disease is
 
 First Symptoms of parkinsons disease is -
 
@@ -3193,8 +2476,7 @@ First Symptoms of parkinsons disease is -
 ---
 
 ---
-
-### Q176 — Which of the following metal ions
+### Q142 — Which of the following metal ions
 
 Which of the following metal ions is associated with secondary Parkinsonisms:
 
@@ -3212,8 +2494,7 @@ Which of the following metal ions is associated with secondary Parkinsonisms:
 ---
 
 ---
-
-### Q177 — Isaac syndroma is characterised by -
+### Q143 — Isaac syndroma is characterised by -
 
 Isaac syndroma is characterised by -
 
@@ -3231,8 +2512,7 @@ Isaac syndroma is characterised by -
 ---
 
 ---
-
-### Q178 — In Alzheimers disease (AD) which of
+### Q144 — In Alzheimers disease (AD) which of
 
 In Alzheimer's disease (AD) which of the following is not seen:
 
@@ -3250,8 +2530,7 @@ In Alzheimer's disease (AD) which of the following is not seen:
 ---
 
 ---
-
-### Q179 — Which vitamin toxicity is associated with
+### Q145 — Which vitamin toxicity is associated with
 
 Which vitamin toxicity is associated with excessive sweating -
 
@@ -3269,8 +2548,7 @@ Which vitamin toxicity is associated with excessive sweating -
 ---
 
 ---
-
-### Q180 — Laforas disease presents with -
+### Q146 — Laforas disease presents with -
 
 Lafora's disease presents with -
 
@@ -3288,8 +2566,7 @@ Lafora's disease presents with -
 ---
 
 ---
-
-### Q181 — Kaposi sarcoma is commonly seen in
+### Q147 — Kaposi sarcoma is commonly seen in
 
 Kaposi sarcoma is commonly seen in ?
 
@@ -3307,8 +2584,7 @@ Kaposi sarcoma is commonly seen in ?
 ---
 
 ---
-
-### Q182 — Hyperuricemia can be caused by all
+### Q148 — Hyperuricemia can be caused by all
 
 Hyperuricemia can be caused by all except -
 
@@ -3326,8 +2602,7 @@ Hyperuricemia can be caused by all except -
 ---
 
 ---
-
-### Q183 — Which is the most common tumor
+### Q149 — Which is the most common tumor
 
 Which is the most common tumor leading to death in adults?
 
@@ -3345,8 +2620,7 @@ Which is the most common tumor leading to death in adults?
 ---
 
 ---
-
-### Q184 — Which of the following antibodies is
+### Q150 — Which of the following antibodies is
 
 Which of the following antibodies is highly specific for systemic lupus erythematosus -
 
@@ -3364,8 +2638,7 @@ Which of the following antibodies is highly specific for systemic lupus erythema
 ---
 
 ---
-
-### Q185 — Gaisbock syndrome is known as
+### Q151 — Gaisbock syndrome is known as
 
 Gaisbock syndrome is known as
 
@@ -3383,8 +2656,7 @@ Gaisbock syndrome is known as
 ---
 
 ---
-
-### Q186 — Polyarticular onset JRA involves more than
+### Q152 — Polyarticular onset JRA involves more than
 
 Polyarticular onset JRA involves more than how many joints -
 
@@ -3402,8 +2674,7 @@ Polyarticular onset JRA involves more than how many joints -
 ---
 
 ---
-
-### Q187 — Which of the following is given
+### Q153 — Which of the following is given
 
 Which of the following is given to decrease Serum Triglycerides?
 
@@ -3421,8 +2692,7 @@ Which of the following is given to decrease Serum Triglycerides?
 ---
 
 ---
-
-### Q188 — Blood transfusion associated acute lung injury
+### Q154 — Blood transfusion associated acute lung injury
 
 Blood transfusion associated acute lung injury occurs due to -
 
@@ -3440,8 +2710,7 @@ Blood transfusion associated acute lung injury occurs due to -
 ---
 
 ---
-
-### Q189 — Dietary deficiency of which vitamin usually
+### Q155 — Dietary deficiency of which vitamin usually
 
 Dietary deficiency of which vitamin usually does not exist -
 
@@ -3459,8 +2728,7 @@ Dietary deficiency of which vitamin usually does not exist -
 ---
 
 ---
-
-### Q190 — Manifestations of vitamin Edeficiency are all
+### Q156 — Manifestations of vitamin Edeficiency are all
 
 Manifestations of vitamin E.deficiency are all except -
 
@@ -3478,8 +2746,7 @@ Manifestations of vitamin E.deficiency are all except -
 ---
 
 ---
-
-### Q191 — HIV RNA by PCR can detect
+### Q157 — HIV RNA by PCR can detect
 
 HIV RNA by PCR can detect as low as
 
@@ -3497,8 +2764,7 @@ HIV RNA by PCR can detect as low as
 ---
 
 ---
-
-### Q192 — Smoking may be associated with all
+### Q158 — Smoking may be associated with all
 
 Smoking may be associated with all of the following cancers, except:
 
@@ -3516,8 +2782,7 @@ Smoking may be associated with all of the following cancers, except:
 ---
 
 ---
-
-### Q193 — Traumatic optic neuropathy due to closed
+### Q159 — Traumatic optic neuropathy due to closed
 
 Traumatic optic neuropathy due to closed head trauma commonly affects which part of optic nerve -
 
@@ -3536,10 +2801,9 @@ Traumatic optic neuropathy due to closed head trauma commonly affects which part
 
 ---
 
-
 ## Year 2016
 
-### Q194 — Use of PGF 2 a analogues *(2016)*
+### Q160 — Use of PGF 2 a analogues *(2016)*
 
 Use of PGF 2 a analogues is contraindicated in ?
 
@@ -3556,12 +2820,10 @@ Use of PGF 2 a analogues is contraindicated in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q195 — WHO VISION 2020 initiative includes *(2016)*
+### Q161 — WHO VISION 2020 initiative includes *(2016)*
 
 WHO VISION 2020 initiative includes ?
 
@@ -3578,12 +2840,10 @@ WHO VISION 2020 initiative includes ?
 
 ---
 
-
 ---
 
 ---
-
-### Q196 — Placido disc is used for diagnosing *(2016)*
+### Q162 — Placido disc is used for diagnosing *(2016)*
 
 Placido disc is used for diagnosing which of the following condition?
 
@@ -3600,12 +2860,10 @@ Placido disc is used for diagnosing which of the following condition?
 
 ---
 
-
 ---
 
 ---
-
-### Q197 — Spasm of accommodation mimics *(2016)*
+### Q163 — Spasm of accommodation mimics *(2016)*
 
 Spasm of accommodation mimics
 
@@ -3622,12 +2880,10 @@ Spasm of accommodation mimics
 
 ---
 
-
 ---
 
 ---
-
-### Q198 — Subretinal haemorrhage at the macula in *(2016)*
+### Q164 — Subretinal haemorrhage at the macula in *(2016)*
 
 Subretinal haemorrhage at the macula in myopia is known as?
 
@@ -3644,12 +2900,10 @@ Subretinal haemorrhage at the macula in myopia is known as?
 
 ---
 
-
 ---
 
 ---
-
-### Q199 — Goblet cells are seen in - *(2016)*
+### Q165 — Goblet cells are seen in - *(2016)*
 
 Goblet cells are seen in -
 
@@ -3666,12 +2920,10 @@ Goblet cells are seen in -
 
 ---
 
-
 ---
 
 ---
-
-### Q200 — Schwalbes ring corresponds to *(2016)*
+### Q166 — Schwalbes ring corresponds to *(2016)*
 
 Schwalbe's ring corresponds to:
 
@@ -3688,12 +2940,10 @@ Schwalbe's ring corresponds to:
 
 ---
 
-
 ---
 
 ---
-
-### Q201 — Corneal epithelial repair includes all of *(2016)*
+### Q167 — Corneal epithelial repair includes all of *(2016)*
 
 Corneal epithelial repair includes all of the following phases except
 
@@ -3710,12 +2960,10 @@ Corneal epithelial repair includes all of the following phases except
 
 ---
 
-
 ---
 
 ---
-
-### Q202 — 50 year old male presents with *(2016)*
+### Q168 — 50 year old male presents with *(2016)*
 
 A 50 year old male presents with cicatricial entopion of upper and lower eyelid. On eversion of upper eyelid, linear conjunctival scars - Arlt line are seen. What is the diagnosis?
 
@@ -3732,12 +2980,10 @@ A 50 year old male presents with cicatricial entopion of upper and lower eyelid.
 
 ---
 
-
 ---
 
 ---
-
-### Q203 — of the following is not a *(2016)*
+### Q169 — of the following is not a *(2016)*
 
 Which of the following is not a feature of fungal corneal ulcer?
 
@@ -3754,12 +3000,10 @@ Which of the following is not a feature of fungal corneal ulcer?
 
 ---
 
-
 ---
 
 ---
-
-### Q204 — Iron deposition line at edge of *(2016)*
+### Q170 — Iron deposition line at edge of *(2016)*
 
 Iron deposition line at edge of pterygium on corneal epithelium is known as?
 
@@ -3776,12 +3020,10 @@ Iron deposition line at edge of pterygium on corneal epithelium is known as?
 
 ---
 
-
 ---
 
 ---
-
-### Q205 — order neuron is optic nerve in *(2016)*
+### Q171 — order neuron is optic nerve in *(2016)*
 
 Which order neuron is optic nerve in the visual pathway?
 
@@ -3798,12 +3040,10 @@ Which order neuron is optic nerve in the visual pathway?
 
 ---
 
-
 ---
 
 ---
-
-### Q206 — of the following is not a *(2016)*
+### Q172 — of the following is not a *(2016)*
 
 Which of the following is not a part of uveal
 
@@ -3820,12 +3060,10 @@ Which of the following is not a part of uveal
 
 ---
 
-
 ---
 
 ---
-
-### Q207 — Blue dot cataract is caused by *(2016)*
+### Q173 — Blue dot cataract is caused by *(2016)*
 
 Blue dot cataract is caused by
 
@@ -3842,12 +3080,10 @@ Blue dot cataract is caused by
 
 ---
 
-
 ---
 
 ---
-
-### Q208 — of the following is complication of *(2016)*
+### Q174 — of the following is complication of *(2016)*
 
 Which of the following is complication of prolonged use of corticosteroid eye drops?
 
@@ -3864,12 +3100,10 @@ Which of the following is complication of prolonged use of corticosteroid eye dr
 
 ---
 
-
 ---
 
 ---
-
-### Q209 — is the new advance in cataract *(2016)*
+### Q175 — is the new advance in cataract *(2016)*
 
 What is the new advance in cataract surgery?
 
@@ -3886,12 +3120,10 @@ What is the new advance in cataract surgery?
 
 ---
 
-
 ---
 
 ---
-
-### Q210 — of the following step is not *(2016)*
+### Q176 — of the following step is not *(2016)*
 
 Which of the following step is not done during phacoemulsification surgery for cataract?
 
@@ -3908,12 +3140,10 @@ Which of the following step is not done during phacoemulsification surgery for c
 
 ---
 
-
 ---
 
 ---
-
-### Q211 — Post operative complications of cataract are *(2016)*
+### Q177 — Post operative complications of cataract are *(2016)*
 
 Post operative complications of cataract are all except?
 
@@ -3930,12 +3160,10 @@ Post operative complications of cataract are all except?
 
 ---
 
-
 ---
 
 ---
-
-### Q212 — of the following is the most *(2016)*
+### Q178 — of the following is the most *(2016)*
 
 Which of the following is the most important factor in the prevention of the endophthalmitis in cataract surgery?
 
@@ -3952,12 +3180,10 @@ Which of the following is the most important factor in the prevention of the end
 
 ---
 
-
 ---
 
 ---
-
-### Q213 — Hemeralopia is seen in *(2016)*
+### Q179 — Hemeralopia is seen in *(2016)*
 
 Hemeralopia is seen in
 
@@ -3974,12 +3200,10 @@ Hemeralopia is seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q214 — of the following is a good *(2016)*
+### Q180 — of the following is a good *(2016)*
 
 Which of the following is a good dye is used for lens in cataract surgery?
 
@@ -3996,12 +3220,10 @@ Which of the following is a good dye is used for lens in cataract surgery?
 
 ---
 
-
 ---
 
 ---
-
-### Q215 — of the following is a layer *(2016)*
+### Q181 — of the following is a layer *(2016)*
 
 Which of the following is a layer between choroid and retina?
 
@@ -4018,12 +3240,10 @@ Which of the following is a layer between choroid and retina?
 
 ---
 
-
 ---
 
 ---
-
-### Q216 — 100 day glaucoma is caused by *(2016)*
+### Q182 — 100 day glaucoma is caused by *(2016)*
 
 100 day glaucoma is caused by
 
@@ -4040,12 +3260,10 @@ Which of the following is a layer between choroid and retina?
 
 ---
 
-
 ---
 
 ---
-
-### Q217 — Retinal tears seen most commonly seen *(2016)*
+### Q183 — Retinal tears seen most commonly seen *(2016)*
 
 Retinal tears seen most commonly seen in ?
 
@@ -4062,12 +3280,10 @@ Retinal tears seen most commonly seen in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q218 — elderly male with heart disease presents *(2016)*
+### Q184 — elderly male with heart disease presents *(2016)*
 
 An elderly male with heart disease presents with sudden loss of vision in one eye; examination reveals cherry red spot; diagnosis is:
 
@@ -4084,12 +3300,10 @@ An elderly male with heart disease presents with sudden loss of vision in one ey
 
 ---
 
-
 ---
 
 ---
-
-### Q219 — of the following is true about *(2016)*
+### Q185 — of the following is true about *(2016)*
 
 Which of the following is true about signs of angle in closure glaucoma except
 
@@ -4106,12 +3320,10 @@ Which of the following is true about signs of angle in closure glaucoma except
 
 ---
 
-
 ---
 
 ---
-
-### Q220 — common site of basal cell carcinoma *(2016)*
+### Q186 — common site of basal cell carcinoma *(2016)*
 
 Most common site of basal cell carcinoma of the eye is
 
@@ -4128,12 +3340,10 @@ Most common site of basal cell carcinoma of the eye is
 
 ---
 
-
 ---
 
 ---
-
-### Q221 — Ocular findings in diabetes are all *(2016)*
+### Q187 — Ocular findings in diabetes are all *(2016)*
 
 Ocular findings in diabetes are all except -
 
@@ -4150,12 +3360,10 @@ Ocular findings in diabetes are all except -
 
 ---
 
-
 ---
 
 ---
-
-### Q222 — Mucin layer tear flilm deficiency occurs *(2016)*
+### Q188 — Mucin layer tear flilm deficiency occurs *(2016)*
 
 Mucin layer tear flilm deficiency occurs in:
 
@@ -4172,12 +3380,10 @@ Mucin layer tear flilm deficiency occurs in:
 
 ---
 
-
 ---
 
 ---
-
-### Q223 — Pure word deafness is associated with *(2016)*
+### Q189 — Pure word deafness is associated with *(2016)*
 
 Pure word deafness is associated with
 
@@ -4194,12 +3400,10 @@ Pure word deafness is associated with
 
 ---
 
-
 ---
 
 ---
-
-### Q224 — Global aphasia is seen due to *(2016)*
+### Q190 — Global aphasia is seen due to *(2016)*
 
 Global aphasia is seen due to
 
@@ -4216,12 +3420,10 @@ Global aphasia is seen due to
 
 ---
 
-
 ---
 
 ---
-
-### Q225 — lobe is affected in the early *(2016)*
+### Q191 — lobe is affected in the early *(2016)*
 
 Which lobe is affected in the early course of alzheimers disease
 
@@ -4238,12 +3440,10 @@ Which lobe is affected in the early course of alzheimers disease
 
 ---
 
-
 ---
 
 ---
-
-### Q226 — isare the usual first deformityies to *(2016)*
+### Q192 — isare the usual first deformityies to *(2016)*
 
 Which is/are the usual first deformity/ies to be seen in CMT disease?
 
@@ -4260,12 +3460,10 @@ Which is/are the usual first deformity/ies to be seen in CMT disease?
 
 ---
 
-
 ---
 
 ---
-
-### Q227 — Huntingtons disease is commonly seen in *(2016)*
+### Q193 — Huntingtons disease is commonly seen in *(2016)*
 
 Huntingtons disease is commonly seen in age group between
 
@@ -4282,12 +3480,10 @@ Huntingtons disease is commonly seen in age group between
 
 ---
 
-
 ---
 
 ---
-
-### Q228 — Wernickes encephalopathy develops secondary to acc *(2016)*
+### Q194 — Wernickes encephalopathy develops secondary to acc *(2016)*
 
 Wernickes encephalopathy develops secondary to accumulation of which substrate?
 
@@ -4304,12 +3500,10 @@ Wernickes encephalopathy develops secondary to accumulation of which substrate?
 
 ---
 
-
 ---
 
 ---
-
-### Q229 — of the following clinical test when *(2016)*
+### Q195 — of the following clinical test when *(2016)*
 
 Which of the following clinical test when positive suggests presence of sensory ataxia?
 
@@ -4326,12 +3520,10 @@ Which of the following clinical test when positive suggests presence of sensory 
 
 ---
 
-
 ---
 
 ---
-
-### Q230 — Todds paralysis is experience following episode *(2016)*
+### Q196 — Todds paralysis is experience following episode *(2016)*
 
 Todds paralysis is experience following episode of
 
@@ -4348,12 +3540,10 @@ Todds paralysis is experience following episode of
 
 ---
 
-
 ---
 
 ---
-
-### Q231 — Frontal lobe syndrome consists *(2016)*
+### Q197 — Frontal lobe syndrome consists *(2016)*
 
 Frontal lobe syndrome consists
 
@@ -4370,12 +3560,10 @@ Frontal lobe syndrome consists
 
 ---
 
-
 ---
 
 ---
-
-### Q232 — Immune thrombocytopenic puprpura associated with *(2016)*
+### Q198 — Immune thrombocytopenic puprpura associated with *(2016)*
 
 Immune thrombocytopenic puprpura associated with
 
@@ -4392,12 +3580,10 @@ Immune thrombocytopenic puprpura associated with
 
 ---
 
-
 ---
 
 ---
-
-### Q233 — of the following drugs can be *(2016)*
+### Q199 — of the following drugs can be *(2016)*
 
 Which of the following drug/s can be used for immediate parenteral anticoagulation in patients with venous thromboembolism?
 
@@ -4414,12 +3600,10 @@ Which of the following drug/s can be used for immediate parenteral anticoagulati
 
 ---
 
-
 ---
 
 ---
-
-### Q234 — True about sideroblastic anemia *(2016)*
+### Q200 — True about sideroblastic anemia *(2016)*
 
 True about sideroblastic anemia
 
@@ -4436,12 +3620,10 @@ True about sideroblastic anemia
 
 ---
 
-
 ---
 
 ---
-
-### Q235 — Massive transfusion is defined as transfusion *(2016)*
+### Q201 — Massive transfusion is defined as transfusion *(2016)*
 
 Massive transfusion is defined as transfusion of
 
@@ -4458,12 +3640,10 @@ Massive transfusion is defined as transfusion of
 
 ---
 
-
 ---
 
 ---
-
-### Q236 — is the most common cause of *(2016)*
+### Q202 — is the most common cause of *(2016)*
 
 Which is the most common cause of thrombocytopenia in an ICU patient?
 
@@ -4480,12 +3660,10 @@ Which is the most common cause of thrombocytopenia in an ICU patient?
 
 ---
 
-
 ---
 
 ---
-
-### Q237 — percentage of Multiple myeloma patients have *(2016)*
+### Q203 — percentage of Multiple myeloma patients have *(2016)*
 
 What percentage of Multiple myeloma patients have vertebral involvement?
 
@@ -4502,12 +3680,10 @@ What percentage of Multiple myeloma patients have vertebral involvement?
 
 ---
 
-
 ---
 
 ---
-
-### Q238 — In case of hypothyroidism which investigation *(2016)*
+### Q204 — In case of hypothyroidism which investigation *(2016)*
 
 In case of hypothyroidism which investigation is most informative and most commonly used ?
 
@@ -4524,12 +3700,10 @@ In case of hypothyroidism which investigation is most informative and most commo
 
 ---
 
-
 ---
 
 ---
-
-### Q239 — HbA1c control for how much time *(2016)*
+### Q205 — HbA1c control for how much time *(2016)*
 
 HbA1c control for how much time
 
@@ -4546,12 +3720,10 @@ HbA1c control for how much time
 
 ---
 
-
 ---
 
 ---
-
-### Q240 — are seen in MEN IIA syndrome *(2016)*
+### Q206 — are seen in MEN IIA syndrome *(2016)*
 
 All are seen in MEN IIA syndrome except
 
@@ -4568,12 +3740,10 @@ All are seen in MEN IIA syndrome except
 
 ---
 
-
 ---
 
 ---
-
-### Q241 — Tertiary hyperparathyroidism is- *(2016)*
+### Q207 — Tertiary hyperparathyroidism is- *(2016)*
 
 Tertiary hyperparathyroidism is-
 
@@ -4590,12 +3760,10 @@ Tertiary hyperparathyroidism is-
 
 ---
 
-
 ---
 
 ---
-
-### Q242 — Chronic adrenal insufficiency is caused by *(2016)*
+### Q208 — Chronic adrenal insufficiency is caused by *(2016)*
 
 Chronic adrenal insufficiency is caused by the following organisms except
 
@@ -4612,12 +3780,10 @@ Chronic adrenal insufficiency is caused by the following organisms except
 
 ---
 
-
 ---
 
 ---
-
-### Q243 — of the following is not a *(2016)*
+### Q209 — of the following is not a *(2016)*
 
 Which of the following is not a feature of myxedema coma?
 
@@ -4634,12 +3800,10 @@ Which of the following is not a feature of myxedema coma?
 
 ---
 
-
 ---
 
 ---
-
-### Q244 — gold standard test for diagnosis of *(2016)*
+### Q210 — gold standard test for diagnosis of *(2016)*
 
 The gold standard test for diagnosis of Insulinoma is:
 
@@ -4656,12 +3820,10 @@ The gold standard test for diagnosis of Insulinoma is:
 
 ---
 
-
 ---
 
 ---
-
-### Q245 — Hypotonic solution given to correct *(2016)*
+### Q211 — Hypotonic solution given to correct *(2016)*
 
 Hypotonic solution given to correct
 
@@ -4678,12 +3840,10 @@ Hypotonic solution given to correct
 
 ---
 
-
 ---
 
 ---
-
-### Q246 — Acute hyponatremia becomes symptomatic at *(2016)*
+### Q212 — Acute hyponatremia becomes symptomatic at *(2016)*
 
 Acute hyponatremia becomes symptomatic at
 
@@ -4700,12 +3860,10 @@ Acute hyponatremia becomes symptomatic at
 
 ---
 
-
 ---
 
 ---
-
-### Q247 — Respiratory acidosis is recognized primarily by *(2016)*
+### Q213 — Respiratory acidosis is recognized primarily by *(2016)*
 
 Respiratory acidosis is recognized primarily by increase in
 
@@ -4722,12 +3880,10 @@ Respiratory acidosis is recognized primarily by increase in
 
 ---
 
-
 ---
 
 ---
-
-### Q248 — of the following drug administration is *(2016)*
+### Q214 — of the following drug administration is *(2016)*
 
 Which of the following drug administration is not associated with hypomagnesemia?
 
@@ -4744,12 +3900,10 @@ Which of the following drug administration is not associated with hypomagnesemia
 
 ---
 
-
 ---
 
 ---
-
-### Q249 — SARS infection case fatality rate of *(2016)*
+### Q215 — SARS infection case fatality rate of *(2016)*
 
 SARS infection case fatality rate of >50% is observed in patients of which age group?
 
@@ -4766,12 +3920,10 @@ SARS infection case fatality rate of >50% is observed in patients of which age g
 
 ---
 
-
 ---
 
 ---
-
-### Q250 — are features of SIRS except- *(2016)*
+### Q216 — are features of SIRS except- *(2016)*
 
 All are features of SIRS except-
 
@@ -4788,12 +3940,10 @@ All are features of SIRS except-
 
 ---
 
-
 ---
 
 ---
-
-### Q251 — Dengue shock syndrome is characterized by *(2016)*
+### Q217 — Dengue shock syndrome is characterized by *(2016)*
 
 Dengue shock syndrome is characterized by the following except -
 
@@ -4810,12 +3960,10 @@ Dengue shock syndrome is characterized by the following except -
 
 ---
 
-
 ---
 
 ---
-
-### Q252 — Tuberous sclerosis is caused by mutations *(2016)*
+### Q218 — Tuberous sclerosis is caused by mutations *(2016)*
 
 Tuberous sclerosis is caused by mutations in the following proteins
 
@@ -4832,12 +3980,10 @@ Tuberous sclerosis is caused by mutations in the following proteins
 
 ---
 
-
 ---
 
 ---
-
-### Q253 — Z track technique must be used *(2016)*
+### Q219 — Z track technique must be used *(2016)*
 
 Z track technique must be used for administration of
 
@@ -4854,12 +4000,10 @@ Z track technique must be used for administration of
 
 ---
 
-
 ---
 
 ---
-
-### Q254 — Pierre robin syndrome following is true *(2016)*
+### Q220 — Pierre robin syndrome following is true *(2016)*
 
 Pierre robin syndrome following is true except
 
@@ -4876,12 +4020,10 @@ Pierre robin syndrome following is true except
 
 ---
 
-
 ---
 
 ---
-
-### Q255 — Alien limb syndrome seen in *(2016)*
+### Q221 — Alien limb syndrome seen in *(2016)*
 
 Alien limb syndrome seen in
 
@@ -4898,12 +4040,10 @@ Alien limb syndrome seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q256 — Osmolarity of Milk F-100 is *(2016)*
+### Q222 — Osmolarity of Milk F-100 is *(2016)*
 
 Osmolarity of Milk F-100 is
 
@@ -4920,12 +4060,10 @@ Osmolarity of Milk F-100 is
 
 ---
 
-
 ---
 
 ---
-
-### Q257 — of the following drugs can cause *(2016)*
+### Q223 — of the following drugs can cause *(2016)*
 
 Which of the following drugs can cause seizures except?
 
@@ -4942,12 +4080,10 @@ Which of the following drugs can cause seizures except?
 
 ---
 
-
 ---
 
 ---
-
-### Q258 — Riboflavin deficiency causes *(2016)*
+### Q224 — Riboflavin deficiency causes *(2016)*
 
 Riboflavin deficiency causes
 
@@ -4964,12 +4100,10 @@ Riboflavin deficiency causes
 
 ---
 
-
 ---
 
 ---
-
-### Q259 — Soret band in which porphyrins absorb *(2016)*
+### Q225 — Soret band in which porphyrins absorb *(2016)*
 
 Soret band in which porphyrins absorb light lie at what wavelength of the spectrum of light?
 
@@ -4986,12 +4120,10 @@ Soret band in which porphyrins absorb light lie at what wavelength of the spectr
 
 ---
 
-
 ---
 
 ---
-
-### Q260 — of the following is not seen *(2016)*
+### Q226 — of the following is not seen *(2016)*
 
 Which of the following is not seen after nerve transection?
 
@@ -5008,12 +4140,10 @@ Which of the following is not seen after nerve transection?
 
 ---
 
-
 ---
 
 ---
-
-### Q261 — Reactive nitrogen species for killing of *(2016)*
+### Q227 — Reactive nitrogen species for killing of *(2016)*
 
 Reactive nitrogen species for killing of microbes are mainly derived from
 
@@ -5030,12 +4160,10 @@ Reactive nitrogen species for killing of microbes are mainly derived from
 
 ---
 
-
 ---
 
 ---
-
-### Q262 — of the following genes if affected *(2016)*
+### Q228 — of the following genes if affected *(2016)*
 
 Which of the following genes if affected will sporadically cause Juvenile myeloid leukemia?
 
@@ -5052,12 +4180,10 @@ Which of the following genes if affected will sporadically cause Juvenile myeloi
 
 ---
 
-
 ---
 
 ---
-
-### Q263 — Oculogyric crisis is known to be *(2016)*
+### Q229 — Oculogyric crisis is known to be *(2016)*
 
 Oculogyric crisis is known to be produced by all of the following drugs except
 
@@ -5074,12 +4200,10 @@ Oculogyric crisis is known to be produced by all of the following drugs except
 
 ---
 
-
 ---
 
 ---
-
-### Q264 — of the following primarily governs the *(2016)*
+### Q230 — of the following primarily governs the *(2016)*
 
 Which of the following primarily governs the uptake of Tc-99m MDP in body?
 
@@ -5096,12 +4220,10 @@ Which of the following primarily governs the uptake of Tc-99m MDP in body?
 
 ---
 
-
 ---
 
 ---
-
-### Q265 — Technitium-99m pertechnetate labelled methylene di *(2016)*
+### Q231 — Technitium-99m pertechnetate labelled methylene di *(2016)*
 
 Technitium-99m pertechnetate labelled methylene diphosphonate is structurally similar to
 
@@ -5118,12 +4240,10 @@ Technitium-99m pertechnetate labelled methylene diphosphonate is structurally si
 
 ---
 
-
 ---
 
 ---
-
-### Q266 — of the following should be done *(2016)*
+### Q232 — of the following should be done *(2016)*
 
 Which of the following should be done for an acute onset painful scrotal swelling in 12 years old male?
 
@@ -5140,12 +4260,10 @@ Which of the following should be done for an acute onset painful scrotal swellin
 
 ---
 
-
 ---
 
 ---
-
-### Q267 — Earliest hematological change following spleenecto *(2016)*
+### Q233 — Earliest hematological change following spleenecto *(2016)*
 
 Earliest hematological change following spleenectomy is
 
@@ -5162,12 +4280,10 @@ Earliest hematological change following spleenectomy is
 
 ---
 
-
 ---
 
 ---
-
-### Q268 — Sebaceous cyst occurs occur in all *(2016)*
+### Q234 — Sebaceous cyst occurs occur in all *(2016)*
 
 Sebaceous cyst occurs occur in all the following locations in body except
 
@@ -5184,12 +4300,10 @@ Sebaceous cyst occurs occur in all the following locations in body except
 
 ---
 
-
 ---
 
 ---
-
-### Q269 — Cortisol levels remain elevated for how *(2016)*
+### Q235 — Cortisol levels remain elevated for how *(2016)*
 
 Cortisol levels remain elevated for how many week/s following hemorrhage?
 
@@ -5206,12 +4320,10 @@ Cortisol levels remain elevated for how many week/s following hemorrhage?
 
 ---
 
-
 ---
 
 ---
-
-### Q270 — percentage of gall stones are radio *(2016)*
+### Q236 — percentage of gall stones are radio *(2016)*
 
 What percentage of gall stones are radio opaque?
 
@@ -5228,12 +4340,10 @@ What percentage of gall stones are radio opaque?
 
 ---
 
-
 ---
 
 ---
-
-### Q271 — False about osteogenesis imperfecta is - *(2016)*
+### Q237 — False about osteogenesis imperfecta is - *(2016)*
 
 False about osteogenesis imperfecta is -
 
@@ -5250,16 +4360,13 @@ False about osteogenesis imperfecta is -
 
 ---
 
-
-
 ---
 
 ---
-
 
 ## Year 2017
 
-### Q272 — diabetic patient 2 days after post cataract
+### Q238 — diabetic patient 2 days after post cataract
 
 A diabetic patient 2 days after post cataract surgery develops hypopyon. What will be the management?
 
@@ -5280,3 +4387,588 @@ A diabetic patient 2 days after post cataract surgery develops hypopyon. What wi
 
 ---
 
+## Year 2019
+
+### Q239 — Drug used in acute congestive glaucoma *(2019)*
+
+Drug used in acute congestive glaucoma are:
+
+- A. Atropine
+- B. Pilocarpine
+- C. Acetazolamide
+- D. Both B & C
+
+<details><summary>Answer</summary>
+
+**D. Both B & C**
+
+</details>
+
+---
+
+---
+### Q240 — Esotropiais usually associated with *(2019)*
+
+Esotropiais usually associated with:
+
+- A. Myopia
+- B. Hypermetropia
+- C. Astigmatism
+- D. Presbyopia
+
+<details><summary>Answer</summary>
+
+**B. Hypermetropia**
+
+</details>
+
+---
+
+---
+
+## Year 2020
+
+### Q241 — Corneal transparency
+
+Layer responsible for corneal hydration and transparency?
+
+- A. Descemet's membrane
+- B. Stroma
+- C. Corneal epithelium
+- D. Endothelium
+
+<details><summary>Answer</summary>
+
+**D. Endothelium** — Na/K ATPase pumps maintain deturgescence (relative dehydration).
+</details>
+
+---
+### Q242 — Fungal ulcer feature
+
+Characteristic feature of a fungal corneal ulcer?
+
+- A. Dendritic ulcer on fluorescein
+- B. Ring abscess
+- C. Reverse hypopyon
+- D. Satellite lesions
+
+<details><summary>Answer</summary>
+
+**D. Satellite lesions** — Classic of fungal keratitis. Dendritic = HSV; ring infiltrate = Acanthamoeba/severe bacterial.
+</details>
+
+---
+
+---
+### Q243 — What causes shifting fluid *(2020)*
+
+What causes shifting fluid?
+
+- A. Exudative Retinal detachment
+- B. Tractional Retinal Detachment
+- C. Rhegmatogenous retinal detachment
+- D. Retinodialysis
+
+<details><summary>Answer</summary>
+
+**A. Exudative Retinal detachment**
+
+</details>
+
+---
+
+---
+### Q244 — Photostress test to differentiate *(2020)*
+
+Photostress test to differentiate
+
+- A. Lens and cornea
+- B. The macula and Optic nerve diseases
+- C. Cataract and glaucoma
+- D. Retinal and vitreous diseases
+
+<details><summary>Answer</summary>
+
+**B. The macula and Optic nerve diseases**
+
+</details>
+
+---
+
+---
+### Q245 — Which layer of cornea helps in *(2020)*
+
+Which layer of cornea helps in the hydration of stroma of cornea
+
+- A. Endothelium
+- B. Epithelium
+- C. Descemet membrane
+- D. Stroma
+
+<details><summary>Answer</summary>
+
+**A. Endothelium**
+
+</details>
+
+---
+
+---
+### Q246 — Esotropia is common in *(2020)*
+
+Esotropia is common in
+
+- A. Myopia
+- B. Hypermetropia
+- C. Emmetropia
+- D. Astigmatism
+
+<details><summary>Answer</summary>
+
+**B. Hypermetropia**
+
+</details>
+
+---
+
+---
+
+## Year 2021
+
+### Q247 — Right homonymous hemianopia
+
+A 33-year-old woman with progressive vision loss in right halves of both eyes. Lesion?
+
+- A. Left optic tract
+- B. Right visual cortex
+- C. Optic chiasma
+- D. Right optic nerve
+
+<details><summary>Answer</summary>
+
+**A. Left optic tract** — Right HH from left retrochiasmal lesion.
+</details>
+
+---
+### Q248 — Non-compliant teen with myopic astigmatism
+
+15-year-old girl non-compliant with spectacles for myopic astigmatism. Option?
+
+- A. LASIK
+- B. Spherical equivalent spectacles
+- C. Femto LASIK
+- D. Implantable collamer lens
+
+<details><summary>Answer</summary>
+
+**B. Spherical equivalent spectacles** — Refractive surgery not done until stable refraction (~age 18+).
+</details>
+
+---
+
+---
+### Q249 — Dermoid cyst — location
+
+15-year-old, painless supraorbital swelling, slowly progressive over 1 year?
+
+- A. Lacrimal gland mass
+- B. Dermoid cyst
+- C. Orbital hemangioma
+- D. Epidermoid cyst
+
+<details><summary>Answer</summary>
+
+**B. Dermoid cyst** — Most common orbital tumor in children; choristoma arising from embryonal ectoderm trapped at suture lines; superolateral (frontozygomatic) location most common; non-tender, firm.
+
+</details>
+
+---
+### Q250 — Fuchs endothelial dystrophy
+
+Guttate lesions one eye, bullous keratopathy other eye?
+
+- A. Trachoma
+- B. Herpes keratitis
+- C. Fuchs endothelial dystrophy
+- D. Keratoconus
+
+<details><summary>Answer</summary>
+
+**C. Fuchs endothelial dystrophy** — Bilateral progressive corneal endotheliopathy; guttae (drop-like excrescences on Descemet's); → stromal edema → bullous keratopathy. Definitive treatment: DSEK/DMEK.
+
+</details>
+
+---
+### Q251 — Orbital cellulitis — true statement
+
+Orbital cellulitis — most true statement?
+
+- A. Ethmoidal sinusitis is the most common cause across all age groups
+- B. Topical antibiotics are the mainstay of treatment
+- C. Inflammation is anterior to the orbital septum
+- D. Normal pupils and eye movements are characteristic
+
+<details><summary>Answer</summary>
+
+**A. Ethmoidal sinusitis most common cause in all ages** — Chandler's classification; ethmoidal sinusitis → subperiosteal/orbital abscess. Preseptal cellulitis (anterior to septum) ≠ orbital cellulitis (posterior). Orbital = proptosis, restricted EOM, chemosis.
+
+</details>
+
+---
+
+---
+
+## Year 2022
+
+### Q252 — Sympathetic ophthalmitis
+
+Penetrating eye injury; sympathetic ophthalmitis confirmed. Finding?
+
+- A. Acute anterior uveitis
+- B. Pars planitis
+- C. Panuveitis
+- D. Chronic anterior uveitis
+
+<details><summary>Answer</summary>
+
+**C. Panuveitis** — Granulomatous, bilateral. Earliest sign: retro-lental yellow-white spots (Dalen–Fuchs nodules).
+</details>
+
+---
+### Q253 — Diabetic retinopathy — neovascularisation
+
+Diabetic patient: VA 6/9, preretinal haemorrhages, neovascularisation at optic disc. Management?
+
+- A. Focal laser
+- B. Pan-retinal photocoagulation (PRP)
+- C. Grid laser
+- D. Scleral buckling
+
+<details><summary>Answer</summary>
+
+**B. PRP** — Proliferative diabetic retinopathy (NVD/NVE) → PRP is standard.
+</details>
+
+---
+
+---
+### Q254 — What is the diagnosis *(2022)*
+
+What is the diagnosis?
+
+- A. Intraocular foreign body
+- B. Pseudoexfoliation syndrome
+- C. Ocular trauma
+- D. Vossius ring
+
+<details><summary>Answer</summary>
+
+**B. Pseudoexfoliation syndrome**
+
+</details>
+
+---
+
+---
+### Q255 — A patient presents with a history *(2022)*
+
+A patient presents with a history of penetrating injury to the eye. A diagnosis of sympathetic ophthalmitis was confirmed. Which of the following will be seen?
+
+- A. Acute anterior uveitis
+- B. Pars planitis
+- C. Panuveitis
+- D. Chronic anterior uveitis
+
+<details><summary>Answer</summary>
+
+**C. Panuveitis**
+
+</details>
+
+---
+
+---
+### Q256 — A diabetic patient presents to you *(2022)*
+
+A diabetic patient presents to you with visual acuity of 6/9 in one eye. Further investigations revealed preretinal hemorrhages with neovascularization at the optic disc. What is the next step in management?
+
+- A. Focal laser photocoagulation
+- B. Pan-retinal photocoagulation
+- C. Grid laser photocoagulation
+- D. Scleral buckling
+
+<details><summary>Answer</summary>
+
+**B. Pan-retinal photocoagulation**
+
+</details>
+
+---
+
+---
+### Q257 — What is the indication of this *(2022)*
+
+What is the indication of this procedure?
+
+- A. Keratoconus
+- B. Vogt’s limbal girdle
+- C. Keratoglobus
+- D. Corneal dystrophy
+
+<details><summary>Answer</summary>
+
+**A. Keratoconus**
+
+</details>
+
+---
+
+---
+
+## Year 2023
+
+### Q258 — Right homonymous hemianopia
+
+A female with vision loss in the right halves of both eyes (right homonymous hemianopia). Lesion location?
+
+- A. Left optic tract
+- B. Optic radiation
+- C. Optic chiasma
+- D. Right optic tract
+
+<details><summary>Answer</summary>
+
+**A. Left optic tract** — Right homonymous hemianopia = left retrochiasmal lesion (tract, LGN, radiation, or cortex).
+</details>
+
+---
+### Q259 — Kayser–Fleischer ring
+
+A 20-year-old male with a golden ring on the iris. Next investigation?
+
+- A. α1-antitrypsin
+- B. α-fetoprotein
+- C. Serum iron
+- D. Serum ceruloplasmin
+
+<details><summary>Answer</summary>
+
+**D. Serum ceruloplasmin** — KF ring → Wilson's disease (decreased ceruloplasmin, copper accumulation in Descemet's membrane).
+</details>
+
+---
+
+---
+### Q260 — A child presents with mental retardation, *(2023)*
+
+A child presents with mental retardation, bone pain, and inability to walk. On funduscopic examination, a cherry red spot is seen. There is no organomegaly. What is the most likely diagnosis?
+
+- A. Tay-Sachs disease
+- B. Niemann-Pick disease
+- C. Hurler syndrome
+- D. Gaucher disease
+
+<details><summary>Answer</summary>
+
+**A. Tay-Sachs disease**
+
+</details>
+
+---
+
+---
+### Q261 — The eye examination of a 20-year-old *(2023)*
+
+The eye examination of a 20-year-old male shows a golden ring on the iris. What is the next investigation to diagnose the condition?
+
+- A. Alpha-1-antitrypsin
+- B. Alpha-fetoprotein
+- C. Serum iron
+- D. Serum ceruloplasmin
+
+<details><summary>Answer</summary>
+
+**D. Serum ceruloplasmin**
+
+</details>
+
+---
+
+---
+
+## Year 2024
+
+### Q262 — Congenital cataract — timing
+
+A 2-month-old child with significant congenital cataract. Ideal management?
+
+- A. Medical management
+- B. Operate immediately
+- C. Surgery after 6 months
+- D. Surgery after 2 years
+
+<details><summary>Answer</summary>
+
+**B. Operate immediately** — To prevent stimulus deprivation amblyopia; critical period for visual development.
+</details>
+
+---
+### Q263 — Night blindness + peripheral loss
+
+Patient with gradual night vision and peripheral vision loss; fundus shows bone-spicule pigmentation. Diagnosis?
+
+- A. Retinitis pigmentosa
+- B. Retinal haemorrhage
+- C. Diabetic retinopathy
+- D. Hypertensive retinopathy
+
+<details><summary>Answer</summary>
+
+**A. Retinitis pigmentosa** — Triad: bone-spicule pigmentation, attenuated arterioles, waxy disc pallor. ERG markedly reduced.
+</details>
+
+---
+
+---
+### Q264 — A patient undergoing the Worth 4 *(2024)*
+
+A patient undergoing the Worth 4 Dot Test reports seeing only three green dots. What does this finding most likely indicate?
+
+- A. Right eye suppression
+- B. Left eye suppression
+- C. Crossed diplopia with esodeviation
+- D. Crossed diplopia with exodeviation
+
+<details><summary>Answer</summary>
+
+**A. Right eye suppression**
+
+</details>
+
+---
+
+---
+### Q265 — Clinical Question A 2-month-old infant is *(2024)*
+
+A 2-month-old infant is brought to the ophthalmology outpatient department with the condition shown. What is the most appropriate course of management in this case?
+
+- A. Medical management
+- B. Operate immediately
+- C. Surgery after 6 months
+- D. Surgery after 2 years
+
+<details><summary>Answer</summary>
+
+**B. Operate immediately**
+
+</details>
+
+---
+
+---
+### Q266 — Clinical Question A patient reports progressive *(2024)*
+
+A patient reports progressive visual decline three years following ocular surgery and presents with the condition shown. What is the most probable diagnosis?
+
+- A. Pseudo-bullous keratopathy
+- B. Corneal dystrophy
+- C. Posterior subcapsular cataract
+- D. Posterior capsular opacification (PCO)
+
+<details><summary>Answer</summary>
+
+**D. Posterior capsular opacification (PCO)**
+
+</details>
+
+---
+
+---
+
+## Year 2025
+
+### Q267 — INTACS primary indication
+
+The INTACS intrastromal corneal ring segment is primarily indicated for:
+
+- A. Glaucoma
+- B. Cataract
+- C. Keratoconus
+- D. Corneal ulcer
+
+<details><summary>Answer</summary>
+
+**C. Keratoconus** — INTACS flatten the corneal cone, improving vision in early-to-moderate keratoconus; can delay or avoid corneal transplantation.
+</details>
+
+---
+
+---
+### Q268 — Gradually enlarging painless orbital swelling for 10 years (16-year-old)
+
+16-year-old female, painless orbital swelling present since birth, slowly enlarging for 10 years. Diagnosis?
+
+- A. Dermoid cyst
+- B. Capillary hemangioma
+- C. Lacrimal gland carcinoma
+- D. Osteoma
+
+<details><summary>Answer</summary>
+
+**A. Dermoid cyst** — Congenital choristoma; most common at fronto-zygomatic suture (superolateral orbit); slow-growing, painless; contains ectodermal elements (hair, sebaceous glands).
+</details>
+
+---
+
+---
+### Q269 — Guttate lesions in one eye, bullous keratopathy in other
+
+Patient with guttate lesions in one eye and bullous keratopathy in the other. Diagnosis?
+
+- A. Fuchs' endothelial dystrophy
+- B. Viral corneal ulcer
+- C. Interstitial keratitis
+- D. Keratoconjunctivitis
+
+<details><summary>Answer</summary>
+
+**A. Fuchs' endothelial dystrophy** — Guttae (comma-shaped endothelial excrescences) on specular microscopy; leads to bullous keratopathy as endothelial cells fail. Bilateral but asymmetric.
+</details>
+
+---
+
+---
+### Q270 — True statement about orbital cellulitis
+
+Which is true about orbital cellulitis?
+
+- A. Inflammation is confined anterior to orbital septum
+- B. Ethmoidal sinusitis is the most common cause
+- C. It presents with proptosis, but pupillary reflexes and EOMs remain normal
+- D. Broad-spectrum topical antibiotics are treatment of choice
+
+<details><summary>Answer</summary>
+
+**B. Ethmoidal sinusitis is the most common cause** — Most common cause of orbital cellulitis at all ages (especially children) is spread from ethmoidal sinusitis. Preseptal (periorbital) cellulitis is anterior to septum, not orbital cellulitis.
+</details>
+
+---
+
+---
+### Q271 — Binocular vision components A and B (image)
+
+Identify components A and B from the binocular vision diagram:
+
+- A. A-Simultaneous perception and B-Stereopsis
+- B. A-Simultaneous perception and B-Fusion
+- C. A-Fusion and B-Simultaneous perception
+- D. A-Stereopsis and B-Fusion
+
+<details><summary>Answer</summary>
+
+**B. A-Simultaneous perception and B-Fusion** — Worth's grades of binocular vision: 1st = Simultaneous perception, 2nd = Fusion, 3rd = Stereopsis.
+</details>
+
+---
+
+---

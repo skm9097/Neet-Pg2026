@@ -694,7 +694,6 @@ HT indicated in menopausal women
 
 ---
 
-
 ## Year 2019
 
 ### Q42 — APGAR score 3 at 1 minute *(2019)*
@@ -715,7 +714,6 @@ APGAR score 3 at 1 minute indicates:
 ---
 
 ---
-
 ### Q43 — Most characteristic cardiovascular defect seen in *(2019)*
 
 Most characteristic cardiovascular defect seen in Rubella:
@@ -734,7 +732,6 @@ Most characteristic cardiovascular defect seen in Rubella:
 ---
 
 ---
-
 ### Q44 — Most common indication for liver transplant in *(2019)*
 
 Most common indication for liver transplant in children:
@@ -753,7 +750,6 @@ Most common indication for liver transplant in children:
 ---
 
 ---
-
 ### Q45 — Severe acute malnutrition as per WHO criteria *(2019)*
 
 Severe acute malnutrition as per WHO criteria:
@@ -772,7 +768,6 @@ Severe acute malnutrition as per WHO criteria:
 ---
 
 ---
-
 ### Q46 — True about Fragile X syndrome is *(2019)*
 
 True about Fragile X syndrome is:
@@ -791,7 +786,6 @@ True about Fragile X syndrome is:
 ---
 
 ---
-
 ### Q47 — In 34 weeks gestation the weight of *(2019)*
 
 In 34 weeks gestation the weight of baby was 3kg.The child shows following features may indicate associated condition –
@@ -811,7 +805,6 @@ In 34 weeks gestation the weight of baby was 3kg.The child shows following featu
 
 ---
 
-
 ## Year 2020
 
 ### Q48 — Duchenne muscular dystrophy
@@ -829,7 +822,6 @@ A 4-year-old with muscle weakness, difficulty climbing stairs; absent dystrophin
 </details>
 
 ---
-
 ### Q49 — Meningococcal chemoprophylaxis
 
 Advice for a 12-year-old exposed to meningococcal meningitis classmates.
@@ -848,7 +840,6 @@ Advice for a 12-year-old exposed to meningococcal meningitis classmates.
 
 ---
 
-
 ## Year 2021
 
 ### Q50 — Umbilical artery
@@ -866,7 +857,6 @@ In fetal circulation, which vessel carries deoxygenated blood to the placenta?
 </details>
 
 ---
-
 ### Q51 — SSPE
 
 A 10-year-old with seizures and prior fever/rash at 1 year. Diagnostic?
@@ -884,7 +874,6 @@ A 10-year-old with seizures and prior fever/rash at 1 year. Diagnostic?
 ---
 
 ---
-
 ### Q52 — Febrile seizure — first-line drug
 
 2-year-old, generalized seizure from high fever — first-line drug?
@@ -901,7 +890,6 @@ A 10-year-old with seizures and prior fever/rash at 1 year. Diagnostic?
 </details>
 
 ---
-
 ### Q53 — HIV-exposed neonate — prophylaxis
 
 Pregnant HIV+ at 34 weeks, viral load 1200, ART started, term baby 2.5 kg — postnatal prophylaxis?
@@ -918,7 +906,6 @@ Pregnant HIV+ at 34 weeks, viral load 1200, ART started, term baby 2.5 kg — po
 </details>
 
 ---
-
 ### Q54 — Congenital hypothyroidism — iodine transport defect
 
 Congenital hypothyroidism, low T3/T4, low radioactive iodine uptake, normal thyroid ultrasound?
@@ -938,7 +925,6 @@ Congenital hypothyroidism, low T3/T4, low radioactive iodine uptake, normal thyr
 
 ---
 
-
 ## Year 2022
 
 ### Q55 — Neonate hasn't urinated since birth
@@ -956,7 +942,6 @@ A 1-day-old neonate hasn't passed urine since birth. Next step?
 </details>
 
 ---
-
 ### Q56 — Tumour lysis syndrome
 
 A 7-year-old post-chemotherapy with abdominal pain, vomiting, oliguria, periorbital puffiness, hyperuricaemia, raised creatinine, hyperkalaemia. Best next step?
@@ -974,7 +959,6 @@ A 7-year-old post-chemotherapy with abdominal pain, vomiting, oliguria, periorbi
 ---
 
 ---
-
 ### Q57 — A 1 day- old neonate has *(2022)*
 
 A 1 day- old neonate has not passed urine since birth. What is the next step in management?
@@ -993,7 +977,6 @@ A 1 day- old neonate has not passed urine since birth. What is the next step in 
 ---
 
 ---
-
 ### Q58 — A 7  year old boy *(2022)*
 
 A 7 – year old boy presented with abdominal pain, vomiting, oliguria, and periorbital puffiness following chemotherapy. Investigations reveal hyperuricemia, raised creatinine levels, and hyperkalemia. What is the next best step in the management of this condition ?
@@ -1012,7 +995,6 @@ A 7 – year old boy presented with abdominal pain, vomiting, oliguria, and peri
 ---
 
 ---
-
 ### Q59 — An 8-day old newborn was found *(2022)*
 
 An 8-day old newborn was found to have a thyroid – stimulating hormone level of more than 100 mIU/L. Which of the following will be the next best investigation?
@@ -1031,7 +1013,6 @@ An 8-day old newborn was found to have a thyroid – stimulating hormone level o
 ---
 
 ---
-
 ### Q60 — A 10-month old infant was brought *(2022)*
 
 A 10-month old infant was brought with complaints of jerking movement of limbs towards the body. On examination, there is a regression of developmental milestones. Electroencephalogram shows hypsarrhythmia. Which of the following is the drug of choice in this condition ?
@@ -1050,7 +1031,6 @@ A 10-month old infant was brought with complaints of jerking movement of limbs t
 ---
 
 ---
-
 ### Q61 — A 2-month old infant born to *(2022)*
 
 A 2-month old infant born to an HIV- positive mother presents with recurrent diarrhea. What is the next best step?
@@ -1069,7 +1049,6 @@ A 2-month old infant born to an HIV- positive mother presents with recurrent dia
 ---
 
 ---
-
 ### Q62 — A child presented with a history *(2022)*
 
 A child presented with a history of loose stools with an increase in frequency of 4 days. On examination, he is drowsy, unable to feed, and skin on pinching goes back very slowly. According to the integrated management of neonatal and childhood illness (IMNCI), this child will be classified as having
@@ -1088,7 +1067,6 @@ A child presented with a history of loose stools with an increase in frequency o
 ---
 
 ---
-
 ### Q63 — Which of the following children are *(2022)*
 
 Which of the following children are considered at risk babies ? 1. Baby with a birth weight of 2.5 kg 2. Baby on artificial feeds 3. Baby of working mother / single parent 4. Baby with weight <85% of expected weight 5. Birth order of 3 or more
@@ -1107,7 +1085,6 @@ Which of the following children are considered at risk babies ? 1. Baby with a b
 ---
 
 ---
-
 ### Q64 — Identify the condition *(2022)*
 
 Identify the condition:
@@ -1126,7 +1103,6 @@ Identify the condition:
 ---
 
 ---
-
 ### Q65 — A previously healthy child presented with *(2022)*
 
 A previously healthy child presented with acute – onset dyspnea. A chest X – ray shows unilateral hyperinflation of the lungs. What is true for this patient ?
@@ -1145,7 +1121,6 @@ A previously healthy child presented with acute – onset dyspnea. A chest X –
 ---
 
 ---
-
 ### Q66 — A male child presented with arthralgia *(2022)*
 
 A male child presented with arthralgia and abdominal pain. On examination, there was palpable purpura over the lower limbs. There is a past history of upper respiratory tract infection prior to the onset of presenting symptoms. Which of the following is the treatment for this condition?
@@ -1164,7 +1139,6 @@ A male child presented with arthralgia and abdominal pain. On examination, there
 ---
 
 ---
-
 ### Q67 — A 10 year old presents with *(2022)*
 
 A 10 year old presents with edema and anasarca. A diagnosis of minimal change disease is made. Which of the following is true about this condition?
@@ -1183,7 +1157,6 @@ A 10 year old presents with edema and anasarca. A diagnosis of minimal change di
 ---
 
 ---
-
 ### Q68 — A 10-year old child presents with *(2022)*
 
 A 10-year old child presents with diarrhea and weight loss. On examination, the height and weight are lesser than expected. Laboratory investigations were positive for class II HLA-DQ2. Which of the following will you advise the child ?
@@ -1203,7 +1176,6 @@ A 10-year old child presents with diarrhea and weight loss. On examination, the 
 
 ---
 
-
 ## Year 2023
 
 ### Q69 — DKA in child — initial management (ISPAD)
@@ -1221,7 +1193,6 @@ A 10-year-old, 30 kg with 2-day loose stools, severe dehydration; RBS 550, pH 7.
 </details>
 
 ---
-
 ### Q70 — Adequate infant growth
 
 Best sign indicating adequate infant growth with birth weight 2.8 kg?
@@ -1241,7 +1212,6 @@ Best sign indicating adequate infant growth with birth weight 2.8 kg?
 ---
 
 ---
-
 ### Q71 — A 10-year-old child weighing 30 kg *(2023)*
 
 A 10-year-old child weighing 30 kg presents with a history of loose stools for 2 days. On examination, there is severe dehydration. Laboratory investigations are as follows. What is the initial management as per ISPAD guidelines? RBS 550mg/dL pH 7.01 158mEq/L 3+
@@ -1260,7 +1230,6 @@ A 10-year-old child weighing 30 kg presents with a history of loose stools for 2
 ---
 
 ---
-
 ### Q72 — Na Urine glucose Which of the *(2023)*
 
 Na+ Urine glucose Which of the following is the best sign to indicate adequate growth in an infant with a birth weight of 2.8 kg?
@@ -1279,7 +1248,6 @@ Na+ Urine glucose Which of the following is the best sign to indicate adequate g
 ---
 
 ---
-
 ### Q73 — A 3-month-old baby complains of deafness, *(2023)*
 
 A 3-month-old baby complains of deafness, cataract, and patent ductus arteriosus. Which of the following is the most likely diagnosis?
@@ -1298,7 +1266,6 @@ A 3-month-old baby complains of deafness, cataract, and patent ductus arteriosus
 ---
 
 ---
-
 ### Q74 — Research is being conducted to find *(2023)*
 
 Research is being conducted to find the association between aniline dye exposure and bladder cancer in workers who have worked in the industry for >20 years. Two groups were formed: one directly involved with dye handling and the other group consisting of office clerks not directly exposed to the dye. Years of occupation were noted from records. What type of study is being performed?
@@ -1317,7 +1284,6 @@ Research is being conducted to find the association between aniline dye exposure
 ---
 
 ---
-
 ### Q75 — A child presents with fever and *(2023)*
 
 A child presents with fever and a rash spreading from the face, behind cheeks, and buccal mucosa to other body parts. On examination, Koplik's spot is present. What is the likely diagnosis?
@@ -1336,7 +1302,6 @@ A child presents with fever and a rash spreading from the face, behind cheeks, a
 ---
 
 ---
-
 ### Q76 — A 3-week-old infant presents with a *(2023)*
 
 A 3-week-old infant presents with a cough and sore throat. The mother reports that the infant develops a paroxysm of cough followed by apnea. The total leucocyte count is >50,000 cells/μL. Which of the following drugs will you prescribe for this patient?
@@ -1356,7 +1321,6 @@ A 3-week-old infant presents with a cough and sore throat. The mother reports th
 
 ---
 
-
 ## Year 2024
 
 ### Q77 — Vomiting + non-glucose reducing substance
@@ -1374,7 +1338,6 @@ An infant with vomiting after feeding; Benedict's test positive for a non-glucos
 </details>
 
 ---
-
 ### Q78 — Neonatal abdominal-wall defect
 
 Neonatal anomaly depicted: defect below umbilicus with exposed bladder mucosa.
@@ -1392,7 +1355,6 @@ Neonatal anomaly depicted: defect below umbilicus with exposed bladder mucosa.
 ---
 
 ---
-
 ### Q79 — A floppy infant presents with hypotonia, *(2024)*
 
 A floppy infant presents with hypotonia, hepatomegaly, and cardiomegaly on chest X-ray. Which of the following is the most likely diagnosis?
@@ -1411,7 +1373,6 @@ A floppy infant presents with hypotonia, hepatomegaly, and cardiomegaly on chest
 ---
 
 ---
-
 ### Q80 — Ajay, a 3-year-old child, is the *(2024)*
 
 Ajay, a 3-year-old child, is the younger brother of Anuj, who is currently undergoing treatment for diphtheria in the hospital. Ajay lives in the same household and received his diphtheria vaccination 16 months ago. What is the most appropriate course of action for the care of Ajay?
@@ -1430,7 +1391,6 @@ Ajay, a 3-year-old child, is the younger brother of Anuj, who is currently under
 ---
 
 ---
-
 ### Q81 — At what age is surgery typically *(2024)*
 
 At what age is surgery typically performed for cleft lip in infants?
@@ -1449,7 +1409,6 @@ At what age is surgery typically performed for cleft lip in infants?
 ---
 
 ---
-
 ### Q82 — A 3-year-old boy presents with fever, *(2024)*
 
 A 3-year-old boy presents with fever, rash, bleeding gums, and a positive tourniquet test. His platelet count is 25,000/mm³. Which of the following is the most important prognostic feature in this clinical scenario?
@@ -1468,7 +1427,6 @@ A 3-year-old boy presents with fever, rash, bleeding gums, and a positive tourni
 ---
 
 ---
-
 ### Q83 — Which of the following is the *(2024)*
 
 Which of the following is the most common type of congenital diaphragmatic hernia?
@@ -1487,7 +1445,6 @@ Which of the following is the most common type of congenital diaphragmatic herni
 ---
 
 ---
-
 ### Q84 — An infant presents with vomiting after *(2024)*
 
 An infant presents with vomiting after feeding. A Benedict’s test is performed and returns positive for a non-glucose reducing substance. What is the most likely diagnosis?
@@ -1506,7 +1463,6 @@ An infant presents with vomiting after feeding. A Benedict’s test is performed
 ---
 
 ---
-
 ### Q85 — An infant presents with recurrent chest *(2024)*
 
 An infant presents with recurrent chest infections and tachypnea. Identify the likely clinical condition.
@@ -1525,7 +1481,6 @@ An infant presents with recurrent chest infections and tachypnea. Identify the l
 ---
 
 ---
-
 ### Q86 — What is Celiac Sprue in a *(2024)*
 
 What is Celiac Sprue in a child?
@@ -1544,7 +1499,6 @@ What is Celiac Sprue in a child?
 ---
 
 ---
-
 ### Q87 — A 2-year-old child presents with stable *(2024)*
 
 A 2-year-old child presents with stable vitals and an ECG showing paroxysmal supraventricular tachycardia (PSVT). Which of the following is the appropriate treatment?
@@ -1563,7 +1517,6 @@ A 2-year-old child presents with stable vitals and an ECG showing paroxysmal sup
 ---
 
 ---
-
 ### Q88 — At which of the following ages *(2024)*
 
 At which of the following ages does maximum brain growth occur?
@@ -1582,7 +1535,6 @@ At which of the following ages does maximum brain growth occur?
 ---
 
 ---
-
 ### Q89 — An 18-month-old child presents with hepatosplenome *(2024)*
 
 An 18-month-old child presents with hepatosplenomegaly, a hemoglobin level of 7 g/dL, a white blood cell count of 50,000 cells/cu.mm, and petechiae and purpura. What is the recommended drug treatment for this condition?
@@ -1601,7 +1553,6 @@ An 18-month-old child presents with hepatosplenomegaly, a hemoglobin level of 7 
 ---
 
 ---
-
 ### Q90 — A child presents with malnutrition and *(2024)*
 
 A child presents with malnutrition and multiple follicular, dry papules on the elbows and knees. Improvement of the skin lesions is observed following vitamin supplementation. What is the most likely diagnosis?
@@ -1620,7 +1571,6 @@ A child presents with malnutrition and multiple follicular, dry papules on the e
 ---
 
 ---
-
 
 ## Year 2025
 
@@ -1641,7 +1591,6 @@ A child presents with malnutrition and multiple follicular, dry papules on the e
 ---
 
 ---
-
 ### Q92 — ADA deficiency and immunodeficiency
 
 6-month-old with recurrent infections, failure to thrive, ADA deficiency. Associated immunodeficiency?
@@ -1659,7 +1608,6 @@ A child presents with malnutrition and multiple follicular, dry papules on the e
 ---
 
 ---
-
 ### Q93 — Progressive ophthalmoplegia, retinal pigment changes, cardiac conduction
 
 Family pedigree with progressive external ophthalmoplegia, retinal pigment changes, cardiac conduction disturbances. Diagnosis?
@@ -1677,7 +1625,6 @@ Family pedigree with progressive external ophthalmoplegia, retinal pigment chang
 ---
 
 ---
-
 ### Q94 — 2-year-old choked on peanut
 
 2-year-old choked on peanut. Most appropriate immediate management?
@@ -1695,7 +1642,6 @@ Family pedigree with progressive external ophthalmoplegia, retinal pigment chang
 ---
 
 ---
-
 ### Q95 — Cherry-red spot, hexosaminidase A deficiency
 
 Child with progressive neurological decline, cherry-red spot, hexosaminidase A deficiency. Diagnosis?
@@ -1713,7 +1659,6 @@ Child with progressive neurological decline, cherry-red spot, hexosaminidase A d
 ---
 
 ---
-
 ### Q96 — α-L-Iduronidase deficiency accumulation
 
 Child with coarse features, developmental delay, α-L-iduronidase deficiency. Which GAGs accumulate?
@@ -1731,7 +1676,6 @@ Child with coarse features, developmental delay, α-L-iduronidase deficiency. Wh
 ---
 
 ---
-
 ### Q97 — Katori method complementary feeding
 
 7-month-old, katori method started. Recommended quantity and frequency on day 1?
@@ -1749,7 +1693,6 @@ Child with coarse features, developmental delay, α-L-iduronidase deficiency. Wh
 ---
 
 ---
-
 ### Q98 — Neonatal HIV prophylaxis
 
 Neonate born to HIV-positive mother (viral load 1200 copies/mL). Recommended ARV prophylaxis?
@@ -1767,7 +1710,6 @@ Neonate born to HIV-positive mother (viral load 1200 copies/mL). Recommended ARV
 ---
 
 ---
-
 ### Q99 — CKD child with leg bowing, normal Ca, high phosphate
 
 5-year-old with CKD, leg bowing, normal calcium, elevated phosphate, high ALP, low 25(OH) Vit D. Best intervention?
@@ -1785,7 +1727,6 @@ Neonate born to HIV-positive mother (viral load 1200 copies/mL). Recommended ARV
 ---
 
 ---
-
 ### Q100 — 1-day-old with respiratory distress (X-ray image)
 
 1-day-old newborn with significant respiratory distress admitted to ICU. Chest X-ray shown. Most probable diagnosis?
@@ -1803,25 +1744,3 @@ Neonate born to HIV-positive mother (viral load 1200 copies/mL). Recommended ARV
 ---
 
 ---
-
-## Year 2017
-
-### Q101 — condition shown in the CT Scan image
-
-Identify the condition shown in the CT Scan image below.
-
-- A. Dandy walker malformation
-- B. Cerebellar vermis hypoplasia
-- C. Mega cisterna magna
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Dandy walker malformation** — Source: NEET-PG 2017 medicoholic.com
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#185 | OPTIONS_GENERATED: false -->
-
----
-

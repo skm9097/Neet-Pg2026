@@ -671,2146 +671,9 @@ Warthin finkeldey cells are seen in
 
 ---
 
-## Year 2017
-
-### Q41 — CD59 marker of which disease *(2017)*
-
-CD59 marker of which disease
-
-- A. PNH
-- B. PTEN
-- C. BRR
-- D. Cowden syndrome
-
-<details><summary>Answer</summary>
-
-**A. PNH**
-
-</details>
-
----
-
----
-
-### Q42 — Opsonin is *(2017)*
-
-Opsonin is
-
-- A. C3a
-- B. C3b
-- C. C5a
-- D. C6
-
-<details><summary>Answer</summary>
-
-**B. C3b**
-
-</details>
-
----
-
----
-
-### Q43 — BernardSoulier syndrome due to deficiency of *(2017)*
-
-Bernard–Soulier syndrome due to deficiency of
-
-- A. Gp 2b/3a
-- B. Gp 1b
-- C. vWf
-- D. TNF
-
-<details><summary>Answer</summary>
-
-**B. Gp 1b**
-
-</details>
-
----
-
----
-
-### Q44 — Cowden syndrome *(2017)*
-
-Cowden syndrome
-
-- A. P53
-- B. PTEN
-- C. Rb
-- D. Ras
-
-<details><summary>Answer</summary>
-
-**B. PTEN**
-
-</details>
-
----
-
----
-
-### Q45 — Chromosome involved in myotonic dystrophy is *(2017)*
-
-Chromosome involved in myotonic dystrophy is
-
-- A. Chromosome 19
-- B. Chromosome 20
-- C. Chromosome 21
-- D. Chromosome 22
-
-<details><summary>Answer</summary>
-
-**A. Chromosome 19**
-
-</details>
-
----
-
----
-
-### Q46 — Kidney responds to shock by *(2017)*
-
-Kidney responds to shock by
-
-- A. Decreases renal blood flow
-- B. Increases afferent arteriole resistance
-- C. GFR remains unaltered
-- D. Perfusion of kidney increases
-
-<details><summary>Answer</summary>
-
-**B. Increases afferent arteriole resistance**
-
-</details>
-
----
-
----
-
-### Q47 — H And L variety seen in *(2017)*
-
-H And L variety seen in
-
-- A. Mixed cellularity hodgkin
-- B. Lymphocyte depleted
-- C. Lymphocyte predominance
-- D. Nodular sclerosis
-
-<details><summary>Answer</summary>
-
-**C. Lymphocyte predominance**
-
-</details>
-
----
-
----
-
-### Q48 — Stellate granuloma seen in *(2017)*
-
-Stellate granuloma seen in
-
-- A. Sarcoidosis
-- B. Cat scratch disease
-- C. Cryptococcosis
-- D. Histoplasmosis
-
-<details><summary>Answer</summary>
-
-**B. Cat scratch disease**
-
-</details>
-
----
-
----
-
-### Q49 — Nude mice is not resistant to *(2017)*
-
-Nude mice is not resistant to xenograft due to absence of
-
-- A. B cell
-- B. T cell
-- C. Both b and t cell
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. T cell**
-
-</details>
-
----
-
----
-
-### Q50 — Anaplasia is *(2017)*
-
-Anaplasia is
-
-- A. Changing one type of epithelium to another
-- B. Nuclear chromatin
-- C. Lack of differentiation
-- D. Morphological changes
-
-<details><summary>Answer</summary>
-
-**C. Lack of differentiation**
-
-</details>
-
----
-
----
-
-### Q51 — Which level of prolactin definitely suggest *(2017)*
-
-Which level of prolactin definitely suggest prolactinoma
-
-- A. 200 ng/ml
-- B. 150 ng/ml
-- C. 50 ng/ml
-- D. 100 ng/ml
-
-<details><summary>Answer</summary>
-
-**C. 50 ng/ml**
-
-</details>
-
----
-
----
-
-### Q52 — Laxative abuse causes which of the *(2017)*
-
-Laxative abuse causes which of the following renal stones ?
-
-- A. Uric acid
-- B. Ammonium urate
-- C. Struvite
-- D. Ca oxalate
-
-<details><summary>Answer</summary>
-
-**B. Ammonium urate**
-
-</details>
-
----
-
----
-
-### Q53 — Identify the condition represented in below *(2017)*
-
-Identify the condition represented in below image
-
-- A. Miliary tuberculosis
-- B. Bronchiectasis
-- C. COPD
-- D. Lung cancer
-
-<details><summary>Answer</summary>
-
-**A. Miliary tuberculosis**
-
-</details>
-
----
-
----
-
-### Q54 — Which of the following can result *(2017)*
-
-Which of the following can result in dactylitis
-
-- A. Hemophilia
-- B. Von willebrand disease 1
-- C. Measles
-- D. Sickle Cell Anemia
-
-<details><summary>Answer</summary>
-
-**D. Sickle Cell Anemia**
-
-</details>
-
----
-
----
-
-### Q55 — What is the structure seen in *(2017)*
-
-What is the structure seen in the given X-ray below?
-
-- A. Stent
-- B. Surgical clips
-- C. Foley catheter
-- D. Intravesical wire
-
-<details><summary>Answer</summary>
-
-**A. Stent**
-
-</details>
-
----
-
----
-
-### Q56 — What is the diagnosis based on *(2017)*
-
-What is the diagnosis based on the following X-ray?
-
-- A. Uterine Fibroid
-- B. Bladder Carcinoma
-- C. Bladder stone
-- D. Renal Tuberculosis
-
-<details><summary>Answer</summary>
-
-**C. Bladder stone**
-
-</details>
-
----
-
----
-
-### Q57 — By which method foreign DNA is *(2017)*
-
-By which method foreign DNA is introduced into a cell by a virus or viral vector?
-
-- A. Transduction
-- B. Transcription
-- C. Lysogenic conversion
-- D. Transformation
-
-<details><summary>Answer</summary>
-
-**A. Transduction**
-
-</details>
-
----
-
----
-
-### Q58 — Which one of the following shows *(2017)*
-
-Which one of the following shows allosteric inhibition?
-
-- A. Malonic acid & succinate
-- B. 2,3 BPG
-- C. Amino acid alanine & pyruvate kinase
-- D. Citrate
-
-<details><summary>Answer</summary>
-
-**B. 2,3 BPG**
-
-</details>
-
----
-
----
-
-### Q59 — Which of the following is seen *(2017)*
-
-Which of the following is seen in seropositive rheumatoid arthritis?
-
-- A. Multiple joints affected
-- B. Symmetrical joint symptoms
-- C. Joint pain and swelling
-- D. All
-
-<details><summary>Answer</summary>
-
-**D. All**
-
-</details>
-
----
-
----
-
-### Q60 — Which of the following is not *(2017)*
-
-Which of the following is not seen in Anterior mediastinum
-
-- A. Thyroid tumour
-- B. Thymoma
-- C. Lymphoma
-- D. Neurogenic tumor
-
-<details><summary>Answer</summary>
-
-**D. Neurogenic tumor**
-
-</details>
-
----
-
----
-
-### Q61 — Which of the following statements about *(2017)*
-
-Which of the following statements about Graves disease is false?
-
-- A. Results in hyperthyroidism
-- B. Autoimmune disorder
-- C. Common in Male
-- D. Referred as Toxic diffuse goitre
-
-<details><summary>Answer</summary>
-
-**C. Common in Male**
-
-</details>
-
----
-
----
-
-### Q62 — Aldosterone synthesis is stimulated by which *(2017)*
-
-Aldosterone synthesis is stimulated by which of the following?
-
-- A. ACTH
-- B. Hyperkalemia
-- C. Hypernatremia
-- D. Exogenous steroids
-
-<details><summary>Answer</summary>
-
-**B. Hyperkalemia**
-
-</details>
-
----
-
----
-
-### Q63 — Which of the following is false *(2017)*
-
-Which of the following is false about Alzheimer's disease?
-
-- A. One in 10 people age 65 and older has Alzheimer’s disease.
-- B. Alzheimer’s disease is curable.
-- C. Cause dementia
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**B. Alzheimer’s disease is curable.**
-
-</details>
-
----
-
----
-
-### Q64 — Which drugs needs continuous monitoring of *(2017)*
-
-Which drugs needs continuous monitoring of prothrombin time?
-
-- A. Aspirin
-- B. Lepirudin
-- C. Digoxin
-- D. Coumadin
-
-<details><summary>Answer</summary>
-
-**D. Coumadin**
-
-</details>
-
----
-
----
-
-### Q65 — Which of the following are the *(2017)*
-
-Which of the following are the risk factor for cutaneous lymphoma?
-
-- A. Age
-- B. Gender
-- C. Weakened immune system
-- D. All
-
-<details><summary>Answer</summary>
-
-**D. All**
-
-</details>
-
----
-
----
-
-### Q66 — Which is not included in AIDS *(2017)*
-
-Which is not included in AIDS related complex?
-
-- A. Ectopic pregnancy
-- B. Recurrent genital candidiasis
-- C. Generalised lymphadenopathy
-- D. Chronic diarrhea
-
-<details><summary>Answer</summary>
-
-**A. Ectopic pregnancy**
-
-</details>
-
----
-
----
-
-### Q67 — Which of the following true regarding *(2017)*
-
-Which of the following true regarding Hemophilia A
-
-- A. Serum levels of factor VIII are decreased.
-- B. Deficiency of factor IX
-- C. PT increased
-- D. FIT decreased
-
-<details><summary>Answer</summary>
-
-**A. Serum levels of factor VIII are decreased.**
-
-</details>
-
----
-
----
-
-### Q68 — Reed sternberg cells are found in *(2017)*
-
-Reed sternberg cells are found in
-
-- A. Hodgkin's disease
-- B. Sickle cell anaemia
-- C. Thalassemia
-- D. CML
-
-<details><summary>Answer</summary>
-
-**A. Hodgkin's disease**
-
-</details>
-
----
-
----
-
-### Q69 — Phenylketonuria is due to deficiency of *(2017)*
-
-Phenylketonuria is due to deficiency of:
-
-- A. Phenylalanine
-- B. Phenylalanine hydroxylase ( PAH)
-- C. Phenylene
-- D. All of these
-
-<details><summary>Answer</summary>
-
-**B. Phenylalanine hydroxylase ( PAH)**
-
-</details>
-
----
-
----
-
-### Q70 — WHICH IS NOT CORRECT *(2017)*
-
-WHICH IS NOT CORRECT:
-
-- A. MRI needed to access haemorrhage
-- B. GCS assessment helps in prognosis
-- C. Haematoma must be operated
-- D. all of the above
-
-<details><summary>Answer</summary>
-
-**C. Haematoma must be operated**
-
-</details>
-
----
-
----
-
-### Q71 — Term pathology refers to *(2017)*
-
-Term pathology refers to:
-
-- A. Work
-- B. Function
-- C. Details
-- D. Explains
-
-<details><summary>Answer</summary>
-
-**A. Work**
-
-</details>
-
----
-
----
-
-### Q72 — 1 yr child weighing 6 kg *(2017)*
-
-1 yr child weighing 6 kg is suffering from Acute Gastroenteritis along with signs of sunken eyes & skin pinch going back to normal very rapidly. What will be your management?
-
-- A. RL infusion 120 ml in the first hour followed by 360 ml in the next 5 hours
-- B. RL INFUSION 180 ml in the first hour followed by 420 ml in the next 5 hours
-- C. RL INFUSION 180 ML IN the first hour followed by 480 ml in the next 5 hours
-- D. RL INFUSION 240 ml in the first hour followed by 360 ml in the next 5 hours
-
-<details><summary>Answer</summary>
-
-**B. RL INFUSION 180 ml in the first hour followed by 420 ml in the next 5 hours**
-
-</details>
-
----
-
----
-
-### Q73 — What constitutes malpighian layer *(2017)*
-
-What constitutes malpighian layer?
-
-- A. Corneum lucidum
-- B. Corneum spinosum
-- C. Spinosum and basale
-- D. Basale granulosum
-
-<details><summary>Answer</summary>
-
-**C. Spinosum and basale**
-
-</details>
-
----
-
----
-
-### Q74 — Mechanism of action colchicine in acute *(2017)*
-
-Mechanism of action colchicine in acute gout
-
-- A. Uric acid nephrolithiasis.
-- B. Deficiency of enzyme Xanthine oxidase.
-- C. Increase in serum urate concentration.
-- D. Renal disease involving interstitial tissues.
-
-<details><summary>Answer</summary>
-
-**B. Deficiency of enzyme Xanthine oxidase.**
-
-</details>
-
----
-
----
-
-### Q75 — Oxygen therapy may not be useful *(2017)*
-
-Oxygen therapy may not be useful in
-
-- A. Asthma
-- B. Pneumonia
-- C. Subglottic stenosis
-- D. Pulmonary fibrosis
-
-<details><summary>Answer</summary>
-
-**D. Pulmonary fibrosis**
-
-</details>
-
----
-
----
-
-### Q76 — In ACLS which drug can be *(2017)*
-
-In ACLS which drug can be given following ventricular fibrillation after cardiac arrest other than epinephrine?
-
-- A. Amiodarone
-- B. Dopamine
-- C. Adenosine
-- D. Atropine
-
-<details><summary>Answer</summary>
-
-**A. Amiodarone**
-
-</details>
-
----
-
----
-
-
-## Year 2018
-
-### Q77 — Which best explains Flipping effect *(2018)*
-
-Which best explains “Flipping effect”
-
-- A. LDH 1 > LDH 2
-- B. LDH2 > LDH1
-- C. LDH 2 > LDH 3
-- D. LDH 3 > LDH 2
-
-<details><summary>Answer</summary>
-
-**A. LDH 1 > LDH 2**
-
-</details>
-
----
-
----
-
-### Q78 — Australian antigen for hepatitis b is *(2018)*
-
-Australian antigen for hepatitis b is
-
-- A. Hb S ag
-- B. Hb E ag
-- C. Hb D ag
-- D. HbV Dna
-
-<details><summary>Answer</summary>
-
-**A. Hb S ag**
-
-</details>
-
----
-
----
-
-### Q79 — Van Nuys prognostic index is not *(2018)*
-
-Van Nuys prognostic index is not based on
-
-- A. Age
-- B. Microcalcification
-- C. Size
-- D. ER status
-
-<details><summary>Answer</summary>
-
-**D. ER status**
-
-</details>
-
----
-
----
-
-### Q80 — Pagets is associated with which other *(2018)*
-
-Paget's is associated with which other cancer
-
-- A. Vulva
-- B. Vagina
-- C. Cervix
-- D. Uterus
-
-<details><summary>Answer</summary>
-
-**A. Vulva**
-
-</details>
-
----
-
----
-
-### Q81 — CT of Thorax represents *(2018)*
-
-CT of Thorax represents:
-
-- A. Ascending Aortic dissection
-- B. Descending Aortic dissection
-- C. Aortic aneurysm
-- D. Cystic fibrosis
-
-<details><summary>Answer</summary>
-
-**B. Descending Aortic dissection**
-
-</details>
-
----
-
----
-
-
-## Year 2019
-
-### Q82 — Which of the following exocrine glandular *(2019)*
-
-Which of the following exocrine glandular ducts are not obstructed in cystic fibrosis:
-
-- A. Pancreas
-- B. Lung
-- C. Sweat gland
-- D. All of above
-
-<details><summary>Answer</summary>
-
-**C. Sweat gland**
-
-</details>
-
----
-
----
-
-### Q83 — Follicular lymphoma positivity *(2019)*
-
-Follicular lymphoma positivity?
-
-- A. Bcl-1
-- B. Bcl-6
-- C. Bcl- 2
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. Bcl- 2**
-
-</details>
-
----
-
----
-
-### Q84 — Which is not related to HIV *(2019)*
-
-Which is not related to HIV
-
-- A. Primary CNS lymphoma
-- B. Tertiary syphilis
-- C. Oesophageal candidasis
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. Tertiary syphilis**
-
-</details>
-
----
-
----
-
-### Q85 — Identify the condition as shown in *(2019)*
-
-Identify the condition as shown in the image given below:
-
-- A. Callosal dysgenesis
-- B. Dandy walker syndrome
-- C. Aicardi syndrome
-- D. Septo optic dysplasia
-
-<details><summary>Answer</summary>
-
-**A. Callosal dysgenesis**
-
-</details>
-
----
-
----
-
-### Q86 — Which of the following is an anti-apoptotic *(2019)*
-
-Which of the following is an anti-apoptotic gene:
-
-- A. Bax
-- B. Bcl2
-- C. Bclx
-- D. Mcl1
-
-<details><summary>Answer</summary>
-
-**B. Bcl2**
-
-</details>
-
----
-
----
-
-### Q87 — Fish mouth appearance of valve in RHD *(2019)*
-
-Fish mouth appearance of valve in RHD is due to:
-
-- A. Rupture of valve
-- B. Calcification & fibrosis
-- C. Hypertrophy of ventricular wall
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Calcification & fibrosis**
-
-</details>
-
----
-
----
-
-### Q88 — Infarcts involving which portion of the myocardium *(2019)*
-
-Infarcts involving which portion of the myocardium cause aneurysm as a post-MI complication:
-
-- A. Subendocardial
-- B. Anterior transmural
-- C. Lateral
-- D. Inferior
-
-<details><summary>Answer</summary>
-
-**B. Anterior transmural**
-
-</details>
-
----
-
----
-
-
-## Year 2020
-
-### Q89 — The patient came with proptosis, restriction *(2020)*
-
-The patient came with proptosis, restriction of eye movements, and was Euthyroid. What could this be from?
-
-- A. Orbital Cellulitis
-- B. Orbital Lymphoma
-- C. Orbital pseudotumor
-- D. Thyroid ophthalmopathy
-
-<details><summary>Answer</summary>
-
-**C. Orbital pseudotumor**
-
-</details>
-
----
-
----
-
-### Q90 — Impaired function of Aquaporin results in *(2020)*
-
-Impaired function of Aquaporin results in
-
-- A. Liddel syndrome
-- B. Nephrogenic DI
-- C. Cystic fibrosis
-- D. Barter syndrome
-
-<details><summary>Answer</summary>
-
-**B. Nephrogenic DI**
-
-</details>
-
----
-
----
-
-### Q91 — Patient with pulmonary fibrosis Which antiarrhythm *(2020)*
-
-Patient with pulmonary fibrosis. Which antiarrhythmic drug should not be given
-
-- A. Amiodarone
-- B. Flecainide
-- C. Iv ibutilide
-- D. lidocaine
-
-<details><summary>Answer</summary>
-
-**A. Amiodarone**
-
-</details>
-
----
-
----
-
-### Q92 — Which is the most common pancreatic *(2020)*
-
-Which is the most common pancreatic endocrine neoplasm?
-
-- A. Insulinoma
-- B. Gastrinoma
-- C. VIPoma
-- D. Glucagonoma
-
-<details><summary>Answer</summary>
-
-**A. Insulinoma**
-
-</details>
-
----
-
----
-
-### Q93 — 47 35-year-old woman with a long *(2020)*
-
-47. 35-year-old woman with a long history of dyspnea, chronic cough, sputum production, and wheezing dies of respiratory failure following a bout of
-
-- A. Mutation in dynein arms
-- B. Cystic fibrosis
-- C. Alpha 1 antitrypsin deficiency
-- D. Antibodies against type 4 collagen
-
-<details><summary>Answer</summary>
-
-**C. Alpha 1 antitrypsin deficiency**
-
-</details>
-
----
-
----
-
-
-## Year 2021
-
-### Q94 — Mitochondrial inheritance
-
-Pedigree showing inheritance through maternal line only (all children of affected mother affected, none of affected father's children affected)?
-
-- A. Achondroplasia
-- B. Kearns-Sayre syndrome
-- C. Williams syndrome
-- D. Prader-Willi syndrome
-
-<details><summary>Answer</summary>
-
-**B. Kearns-Sayre syndrome** — Mitochondrial inheritance (maternal only); mtDNA deletion; progressive external ophthalmoplegia + cardiac conduction defects + ataxia. Presents <20 years.
-
-</details>
-
----
-
-### Q95 — Recurrent gonococcal infection — immune defect
-
-Recurrent disseminated gonococcal infection — underlying immune defect?
-
-- A. Myeloperoxidase deficiency
-- B. PMN chemotactic defect
-- C. Terminal complement deficiency (C5-C9)
-- D. C2 deficiency
-
-<details><summary>Answer</summary>
-
-**C. Terminal complement deficiency (C5-C9)** — MAC (membrane attack complex) is essential for killing Neisseria. C5-C9 deficiency → recurrent Neisseria (meningitidis/gonorrhoeae) infections. C2 deficiency → SLE-like illness.
-
-</details>
-
----
-
-### Q96 — Marfan syndrome gene
-
-Long limbs, ectopia lentis (downward), arm span > height — gene defect?
-
-- A. PLOD1 (Bruck syndrome)
-- B. Elastin (Williams syndrome)
-- C. Fibrillin-1 (FBN1)
-- D. COL1A1 (Osteogenesis imperfecta)
-
-<details><summary>Answer</summary>
-
-**C. Fibrillin-1 (FBN1)** — Marfan syndrome; AD; fibrillin-1 mutation → defective microfibrils → aortic dilatation, ectopia lentis (subluxation superiorly in homocystinuria, downward in Marfan), tall stature.
-
-</details>
-
----
-
-### Q97 — Schwannoma histology
-
-45-year-old, progressive unilateral hearing loss, tinnitus, ataxia, CPA angle tumor, Antoni A and B areas on biopsy?
-
-- A. Meningioma
-- B. Ependymoma
-- C. Schwannoma (acoustic neuroma)
-- D. Vestibular neuritis
-
-<details><summary>Answer</summary>
-
-**C. Schwannoma** — CPA angle tumor; CN VIII most common (vestibular schwannoma/acoustic neuroma); Antoni A (palisading Verocay bodies) and Antoni B (loose myxoid) areas on histology. S100+.
-
-</details>
-
----
-
-### Q98 — AML cytogenetics — t(15;17)
-
-Elderly male, cervical lymphadenopathy, bleeding tendency, >20% blasts, Auer rods — cytogenetics?
-
-- A. Inv(16)
-- B. t(15;17)
-- C. t(8;21)
-- D. t(9;22)
-
-<details><summary>Answer</summary>
-
-**B. t(15;17)** — APML (AML-M3): t(15;17) = PML-RARα fusion; Auer rods (faggot cells); DIC; treat with ATRA + arsenic. Best prognosis among AMLs. t(8;21) = M2; inv(16) = M4Eo.
-
-</details>
-
----
-
-### Q99 — Testicular tumor — post-pubertal
-
-Elderly male, painless testicular swelling, multinodular gray-white homogeneous mass?
-
-- A. Yolk sac tumor
-- B. Seminoma
-- C. Embryonal carcinoma
-- D. Leydig cell tumor
-
-<details><summary>Answer</summary>
-
-**B. Seminoma** — Most common testicular tumor (overall); lobulated gray homogeneous cut surface; lymphocytic infiltrate + syncytiotrophoblasts; PLAP+; radiosensitive. Yolk sac = commonest in children.
-
-</details>
-
----
-
-### Q100 — Medullary thyroid cancer
-
-Midline neck swelling, amyloid deposition on Congo red, synaptophysin+, chromogranin+, TTF-1+?
-
-- A. Papillary thyroid cancer
-- B. Medullary thyroid cancer
-- C. Follicular thyroid cancer
-- D. Anaplastic thyroid cancer
-
-<details><summary>Answer</summary>
-
-**B. Medullary thyroid cancer** — Parafollicular C-cell tumor; secretes calcitonin; amyloid (calcitonin-derived); neuroendocrine markers (synaptophysin, chromogranin, TTF-1). Associated with MEN 2A/2B (RET mutation).
-
-</details>
-
----
-
-### Q101 — Focal nodular hyperplasia
-
-Liver specimen: well-circumscribed lesion with central stellate scar and spoke-wheel vascularity?
-
-- A. Hepatocellular adenoma
-- B. Hepatocellular carcinoma
-- C. Focal nodular hyperplasia
-- D. Regenerative nodule
-
-<details><summary>Answer</summary>
-
-**C. Focal nodular hyperplasia** — Benign liver mass; central stellate fibrous scar with abnormal arteries; hyperintense on hepatobiliary phase MRI (retains gadoxetate); not premalignant; no treatment needed.
-
-</details>
-
----
-
-### Q102 — Follicular lymphoma — cytogenetics
-
-Elderly bilateral cervical lymphadenopathy, CD10+, BCL2+ — cytogenetics?
-
-- A. t(11;18)
-- B. t(14;18)
-- C. t(11;14)
-- D. t(8;14)
-
-<details><summary>Answer</summary>
-
-**B. t(14;18)** — Follicular lymphoma: t(14;18) = IGH-BCL2 fusion → BCL2 overexpression → anti-apoptosis → accumulation of B-cells. CD10+, BCL2+, BCL6+. Indolent but incurable.
-
-</details>
-
----
-
-### Q103 — Caspase-mediated cell death
-
-Caspase-mediated cell death includes which forms?
-
-- A. Apoptosis and necroptosis
-- B. Apoptosis and necrosis
-- C. Apoptosis and pyroptosis
-- D. Apoptosis and ferroptosis
-
-<details><summary>Answer</summary>
-
-**C. Apoptosis and pyroptosis** — Both require caspases: apoptosis (caspase-3/7) and pyroptosis (caspase-1/4/5/11 → gasdermin D). Necroptosis = RIPK3/MLKL; ferroptosis = iron-mediated lipid peroxidation; necrosis = passive.
-
-</details>
-
----
-
-### Q104 — Hereditary spherocytosis
-
-Mild anemia, jaundice, splenomegaly, elevated MCHC, positive family history, spherocytes — diagnosis?
-
-- A. Hereditary spherocytosis
-- B. Iron deficiency anemia
-- C. Autoimmune hemolytic anemia
-- D. Thalassemia minor
-
-<details><summary>Answer</summary>
-
-**A. Hereditary spherocytosis** — Spectrin/ankyrin defect → spherocytes; elevated MCHC (most specific finding); osmotic fragility increased; DAT negative (unlike AIHA). Splenectomy curative.
-
-</details>
-
----
-
-### Q105 — Craniopharyngioma histology
-
-8-year-old, progressive vision loss, suprasellar mass, palisading epithelium, wet keratin — diagnosis?
-
-- A. Craniopharyngioma (adamantinomatous)
-- B. Pituitary adenoma
-- C. Rathke's cleft cyst
-- D. Meningioma
-
-<details><summary>Answer</summary>
-
-**A. Craniopharyngioma (adamantinomatous)** — Palisading epithelium + "wet keratin" (ghost cells) + dystrophic calcification = pathognomonic of adamantinomatous craniopharyngioma in children.
-
-</details>
-
----
-
-### Q106 — CLL diagnosis — technique
-
-CLL diagnosis — most useful quantification technique?
-
-- A. ELISA
-- B. Western blot
-- C. Flow cytometry
-- D. Immunohistochemistry
-
-<details><summary>Answer</summary>
-
-**C. Flow cytometry** — Detects CD5+/CD19+/CD23+ co-expression (characteristic of CLL); counts absolute lymphocyte subtypes. Minimum 5000/µL clonal B-lymphocytes for diagnosis.
-
-</details>
-
----
-
-### Q107 — Primary biliary cholangitis — antibody
-
-AMA (antimitochondrial antibody) positivity most associated with?
-
-- A. Primary biliary cholangitis
-- B. Autoimmune hepatitis
-- C. Sarcoidosis
-- D. Wilson's disease
-
-<details><summary>Answer</summary>
-
-**A. Primary biliary cholangitis** — AMA (anti-M2 = against pyruvate dehydrogenase complex E2) is >95% sensitive and specific for PBC. Autoimmune hepatitis = ANA/anti-SMA. Wilson's = Kayser-Fleischer rings.
-
-</details>
-
----
-
-### Q108 — Sarcoidosis — histology
-
-1-month cough, bilateral hilar lymphadenopathy, non-caseating granulomas, stellate (asteroid) inclusions?
-
-- A. Tuberculosis
-- B. Sarcoidosis
-- C. Lung cancer
-- D. Hypersensitivity pneumonitis
-
-<details><summary>Answer</summary>
-
-**B. Sarcoidosis** — Non-caseating granulomas with Langhans giant cells, Schaumann bodies (concentric calcifications) and asteroid bodies. Elevated serum ACE, bilateral hilar lymphadenopathy. TB = caseating granulomas.
-
-</details>
-
----
-
-### Q109 — Sjögren's syndrome — pathology
-
-Middle-aged woman, dry eyes/mouth, anti-Ro+ (SS-A), anti-La+ (SS-B) — pathological mechanism?
-
-- A. Neutrophil infiltration and destruction of glands
-- B. IgE-mediated hypersensitivity
-- C. Lymphocytic infiltration and destruction of exocrine glands
-- D. Amyloid deposition in glands
-
-<details><summary>Answer</summary>
-
-**C. Lymphocytic infiltration and destruction of exocrine glands** — Sjögren's: CD4+ T-cells + B-cells infiltrate salivary and lacrimal glands → progressive destruction → xerostomia and xerophthalmia. Focus score on lip biopsy.
-
-</details>
-
----
-
-### Q110 — Dermatitis herpetiformis
-
-36-year-old, gluten sensitivity, intensely pruritic grouped vesicles on extensor surfaces?
-
-- A. Bullous pemphigoid
-- B. Pemphigus vulgaris
-- C. Dermatitis herpetiformis
-- D. Psoriasis
-
-<details><summary>Answer</summary>
-
-**C. Dermatitis herpetiformis** — Subepidermal blisters with IgA deposits at dermal papillae tips (DIF); associated with gluten-sensitive enteropathy (celiac); elbows/knees/buttocks; treat with dapsone + gluten-free diet.
-
-</details>
-
----
-
-### Q111 — HPV and oral SCC
-
-Persistent lateral tongue lesion confirmed SCC — strongly associated virus?
-
-- A. Epstein-Barr virus
-- B. Cytomegalovirus
-- C. Herpes simplex virus
-- D. Human papillomavirus (HPV)
-
-<details><summary>Answer</summary>
-
-**D. Human papillomavirus (HPV)** — HPV-16/18 associated with oropharyngeal and oral SCC (especially tongue base, tonsil). Better prognosis than HPV-negative SCC. EBV = nasopharyngeal carcinoma.
-
-</details>
-
----
-
----
-
-
-## Year 2022
-
-### Q112 — Choose the correct statement regarding the *(2022)*
-
-Choose the correct statement regarding the telomerase theory of aging
-
-- A. Telomere stability is associated with aging
-- B. Abnormal telomerase activation is associated with aging
-- C. Decreased telomere length is associated with aging
-- D. Increased telomere length is associated with aging
-
-<details><summary>Answer</summary>
-
-**C. Decreased telomere length is associated with aging**
-
-</details>
-
----
-
----
-
-### Q113 — A child presents with recurrent chest *(2022)*
-
-A child presents with recurrent chest infections and abdominal pain. There is a history of 1 blood transfusion in the past. On examination, he had icterus and mild splenomegaly. Electrophoresis shows increased HbA2, HbF, and S spike. What is the likely diagnosis?
-
-- A. Beta thalassemia
-- B. HbC disease
-- C. Sickle cell disease
-- D. Acute coronary disease
-
-<details><summary>Answer</summary>
-
-**A. Beta thalassemia**
-
-</details>
-
----
-
----
-
-### Q114 — Why do neoplastic cells utilize Warburg *(2022)*
-
-Why do neoplastic cells utilize Warburg metabolism?
-
-- A. It decreases glucose utilization by neoplastic cells
-- B. It forms metabolic intermediates which are needed for cell growth and multiplication
-- C. It provides more energy in the form of increased ATP production
-- D. In prevents apoptosis and makes the cancer immortal
-
-<details><summary>Answer</summary>
-
-**B. It forms metabolic intermediates which are needed for cell growth and multiplication**
-
-</details>
-
----
-
----
-
-### Q115 — All of the following statements are *(2022)*
-
-All of the following statements are true regarding neutrophil extracellular trapping (NET) except that
-
-- A. It is detected in blood during sepsis
-- B. It is produced in response to bacterial infection
-- C. Mitochondrial DNA is seen
-- D. It is chromatin with antibacterial enzymes
-
-<details><summary>Answer</summary>
-
-**C. Mitochondrial DNA is seen**
-
-</details>
-
----
-
----
-
-### Q116 — Which of the following measures are *(2022)*
-
-Which of the following measures are associated with an increased life span?
-
-- A. Moderate of regular exercise for 30 min
-- B. Decrease stress
-- C. Decreasing calorie intake by 30 percent
-- D. Pharmacological intervention with proton pump inhibitors
-
-<details><summary>Answer</summary>
-
-**C. Decreasing calorie intake by 30 percent**
-
-</details>
-
----
-
----
-
-### Q117 — A 56-year-old man was diagnosed with *(2022)*
-
-A 56-year-old man was diagnosed with COVID-19 and was put on mechanical ventilation. He passed away after a week. What is the likely post-mortem change seen in the lungs?
-
-- A. Thick layer of fibrin lining the alveoli
-- B. Acute and chronic alveolar hemorrhage
-- C. Perivascular cuffing
-- D. Pulmonary artery hypertrophy with increased resistance
-
-<details><summary>Answer</summary>
-
-**B. Acute and chronic alveolar hemorrhage**
-
-</details>
-
----
-
----
-
-### Q118 — A 56-year-old man presents with dragging *(2022)*
-
-A 56-year-old man presents with dragging pain in the abdomen. On examination, there is massive splenomegaly. Peripheral smear shows leukocytesis with increased myelocytes, metamyelocytes and basophils. Which of the following translocations is seen in this condition?
-
-- A. t(9;22)
-- B. t(8;22)
-- C. t(15;17)
-- D. t(8;14)
-
-<details><summary>Answer</summary>
-
-**A. t(9;22)**
-
-</details>
-
----
-
----
-
-
-## Year 2023
-
-### Q119 — Which of the following is true *(2023)*
-
-Which of the following is true regarding the Mendelian mode of inheritance?
-
-- A. Every 10th patient has a Y-linked disorder
-- B. 1/3rd of Mendelian disorders is autosomal recessive
-- C. Every 5th patient has an X-linked recessive disorder
-- D. 2/3rd of Mendelian disorders are autosomal dominant
-
-<details><summary>Answer</summary>
-
-**D. 2/3rd of Mendelian disorders are autosomal dominant**
-
-</details>
-
----
-
----
-
-### Q120 — A child presents with intermittent jaundice *(2023)*
-
-A child presents with intermittent jaundice and splenomegaly. There is a history of similar complaints in the elder brother. Peripheral smear shows the following finding. How will you investigate this condition? Pr
-
-- A. Osmotic fragility test - Hereditary spherocytosis
-- B. Coombs test - AIHA
-- C. G6PD deficiency - Genetic testing
-- D. Paroxysmal nocturnal hemoglobinuria - Flow cytometry
-
-<details><summary>Answer</summary>
-
-**A. Osmotic fragility test - Hereditary spherocytosis**
-
-</details>
-
----
-
----
-
-### Q121 — A child presented to the hospital *(2023)*
-
-A child presented to the hospital with cola-colored urine, hypertension, and puffiness of eyes. Laboratory investigations were done, and creatinine was 2.5 mg/dL. Treatment was started, and despite treatment, the patient did not improve for the next 3 weeks. The creatinine value increased to 4.5 mg/dL. Which among the following electron microscopic findings will be seen in this patient?
-
-- A. Subendothelial deposits
-- B. Subepithelial deposits
-- C. Crescent formation
-- D. Mesangial deposits
-
-<details><summary>Answer</summary>
-
-**B. Subepithelial deposits**
-
-</details>
-
----
-
----
-
-### Q122 — An elderly male is known as *(2023)*
-
-An elderly male is known as a smoker presented with chronic cough, significant weight loss, and fatigue. Serum calcium level is raised. A lung biopsy was done, and it showed large atypical cells with hyperchromasia. What is the probable diagnosis?
-
-- A. Large cell neuroendocrine tumor
-- B. Small cell carcinoma
-- C. Adenocarcinoma
-- D. Squamous cell carcinoma
-
-<details><summary>Answer</summary>
-
-**D. Squamous cell carcinoma**
-
-</details>
-
----
-
----
-
-### Q123 — A young patient presents with a *(2023)*
-
-A young patient presents with a large retroperitoneal hemorrhage. He also gives a frequent history of intermittent swelling of knees on strenuous exercise. There is no history of any mucosal bleeding. Which among the following clotting factors is responsible for the condition mentioned above?
-
-- A. Factors VIII and IX
-- B. Factors XI and XII
-- C. Von Willebrand factor
-- D. Lupus anticoagulant
-
-<details><summary>Answer</summary>
-
-**A. Factors VIII and IX**
-
-</details>
-
----
-
----
-
-
-## Year 2024
-
-### Q124 — CML genetics
-
-A patient with fever, hepatosplenomegaly, WBC > 50,000/mm³. Involved genetic abnormality?
-
-- A. t(9;22)
-- B. del(1q)
-- C. t(15;17)
-- D. del 3q
-
-<details><summary>Answer</summary>
-
-**A. t(9;22)** — Philadelphia chromosome → BCR-ABL → CML. Treated with imatinib.
-</details>
-
----
-
-### Q125 — Karyotype 45,X
-
-A 23-year-old female, 4 feet tall; karyotype shown. Most likely condition?
-
-- A. Turner syndrome
-- B. Klinefelter syndrome
-- C. MRKH syndrome
-- D. Edwards syndrome
-
-<details><summary>Answer</summary>
-
-**A. Turner syndrome (45,X)** — Short stature, streak gonads, webbed neck, coarctation of aorta, primary amenorrhoea.
-</details>
-
----
-
----
-
-### Q126 — Following gastrectomy procedure which vitamin is *(2024)*
-
-Following gastrectomy procedure which vitamin is to be supplemented for the patient?
-
-- A. Vitamin A
-- B. Vitamin B1
-- C. Vitamin C
-- D. Vitamin B12
-
-<details><summary>Answer</summary>
-
-**D. Vitamin B12**
-
-</details>
-
----
-
----
-
-### Q127 — Clinical question A 20-year-old patient presents *(2024)*
-
-Clinical question: A 20-year-old patient presents with a cerebellar mass and a renal tumour, along with a similar family history. Which of the following is responsible for his findings?
-
-- A. VHL
-- B. NF
-- C. TSC
-- D. Li fraumeni syndrome
-
-<details><summary>Answer</summary>
-
-**A. VHL**
-
-</details>
-
----
-
----
-
-### Q128 — Clinical question Which of the following *(2024)*
-
-Clinical question: Which of the following is an incorrect statement regarding Von Willebrand's disease?
-
-- A. Type 2 Von Willebrand disease is associated with a moderate bleeding tendency.
-- B. Type 3 Von Willebrand disease is associated with a complete absence of the Von
-- C. Type 1 Von Willebrand disease presents with severe bleeding since childhood.
-- D. Type 2 Von Willebrand disease includes subtypes with varying defects in the von
-
-<details><summary>Answer</summary>
-
-**C. Type 1 Von Willebrand disease presents with severe bleeding since childhood.**
-
-</details>
-
----
-
----
-
-### Q129 — A 52-year-old patient presents with respiratory *(2024)*
-
-A 52-year-old patient presents with respiratory distress, and he is diagnosed with pan-acinar emphysema. Which deficiency is responsible for his condition?
-
-- A. Type 1 alveolar cells
-- B. Type 2 alveolar cells
-- C. Alpha-1 antitrypsin deficiency
-- D. Albumin
-
-<details><summary>Answer</summary>
-
-**C. Alpha-1 antitrypsin deficiency**
-
-</details>
-
----
-
----
-
-### Q130 — Clinical question An adult male presents *(2024)*
-
-Clinical question: An adult male presents with abdominal distension, chronic diarrhoea, visual complaints, and neurological symptoms. Examination of the peripheral blood smear reveals following characteristic findings. What is the most probable diagnosis?
-
-- A. Abetalipoproteinemia
-- B. Whipple’s disease
-- C. Menetrier’s disease
-- D. Uremia
-
-<details><summary>Answer</summary>
-
-**A. Abetalipoproteinemia**
-
-</details>
-
----
-
----
-
-### Q131 — Clinical question A child develops skin *(2024)*
-
-Clinical question: A child develops skin lesions following exposure to sunlight. Genetic testing reveals a defect in a DNA repair mechanism. Which type of DNA repair is most likely impaired?
-
-- A. Nucleotide excision repair defect
-- B. Base excision repair defect
-- C. Mismatch repair defect
-- D. Recombination repair defect
-
-<details><summary>Answer</summary>
-
-**A. Nucleotide excision repair defect**
-
-</details>
-
----
-
----
-
-### Q132 — Which of the following conditions is *(2024)*
-
-Which of the following conditions is associated with pulmonary haemorrhage and is typically positive for perinuclear ANCA (P-ANCA)?
-
-- A. Monckeberg’s sclerosis
-- B. Microscopic polyangiitis
-- C. Wegener's granulomatosis
-- D. Polyarteritis nodosa
-
-<details><summary>Answer</summary>
-
-**B. Microscopic polyangiitis**
-
-</details>
-
----
-
----
-
-### Q133 — In iron deficiency anaemia, how is *(2024)*
-
-In iron deficiency anaemia, how is the transferrin saturation affected?
-
-- A. Increased
-- B. Decreased
-- C. Normal
-- D. Dynamic
-
-<details><summary>Answer</summary>
-
-**B. Decreased**
-
-</details>
-
----
-
----
-
-### Q134 — Which of the following is not *(2024)*
-
-Which of the following is not a typical feature after ileal resection?
-
-- A. Nuclear cytological asynchrony
-- B. Neurological manifestations
-- C. Microcytic hypochromic anaemia
-- D. Reversible dementia
-
-<details><summary>Answer</summary>
-
-**C. Microcytic hypochromic anaemia**
-
-</details>
-
----
-
----
-
-### Q135 — Clinical question A tall adult male *(2024)*
-
-Clinical question: A tall adult male presents with lens subluxation, disproportionately long limbs, a sunken chest wall, and cardiovascular abnormalities. Which protein is most likely mutated in this individual?
-
-- A. Elastin
-- B. Collagen
-- C. Fibrillin
-- D. Laminin
-
-<details><summary>Answer</summary>
-
-**C. Fibrillin**
-
-</details>
-
----
-
----
-
-### Q136 — Clinical question A patient presents with *(2024)*
-
-Clinical question: A patient presents with high-grade fever, hepatosplenomegaly, abdominal discomfort, and a white blood cell count exceeding 50,000/mm³. Which genetic abnormality is most likely associated with this presentation?
-
-- A. t(9;22)
-- B. del(1q)
-- C. t(15;17)
-- D. del 3q
-
-<details><summary>Answer</summary>
-
-**A. t(9;22)**
-
-</details>
-
----
-
----
-
-### Q137 — Which of the following antibodies are *(2024)*
-
-Which of the following antibodies are associated with celiac disease?
-
-- A. Anti-tTG
-- B. ANCA
-- C. ASCA
-- D. AMA
-
-<details><summary>Answer</summary>
-
-**A. Anti-tTG**
-
-</details>
-
----
-
----
-
-
-## Year 2025
-
-### Q138 — Caspase-dependent cell death types
-
-Which types of cell death involve activation of caspase enzymes?
-
-- A. Necrosis and Apoptosis
-- B. Apoptosis and Pyroptosis
-- C. Apoptosis and Necroptosis
-- D. Apoptosis only
-
-<details><summary>Answer</summary>
-
-**B. Apoptosis and Pyroptosis** — Both activate caspases (apoptosis: caspase-3/7; pyroptosis: caspase-1/4/5/11). Necroptosis involves RIP kinases, not caspases. Necrosis is passive.
-</details>
-
----
-
----
-
-### Q139 — Anti-mitochondrial antibody association
-
-Anti-mitochondrial antibody (AMA) is most commonly seen in:
-
-- A. Autoimmune hepatitis
-- B. Primary biliary cholangitis
-- C. Primary sclerosing cholangitis
-- D. SLE
-
-<details><summary>Answer</summary>
-
-**B. Primary biliary cholangitis** — AMA (especially anti-M2) is positive in ~95% of PBC cases. Autoimmune hepatitis: anti-LKM1, anti-SMA, ANA.
-</details>
-
----
-
----
-
-### Q140 — Inheritance pattern (image)
-
-Based on the pedigree image, which condition fits this inheritance pattern?
-
-- A. Prader-Willi syndrome
-- B. Marfan syndrome
-- C. Kearns-Sayre syndrome
-- D. Duchenne muscular dystrophy
-
-<details><summary>Answer</summary>
-
-**B. Marfan syndrome** — Autosomal dominant (FBN1 gene); 50% chance of transmission. Prader-Willi = imprinting; KSS = mitochondrial; DMD = X-linked recessive.
-</details>
-
----
-
----
-
-### Q141 — Investigation for CLL confirmation
-
-68-year-old with generalised lymphadenopathy, leukocytosis, absolute lymphocyte count 35,000/µL. Investigation of choice to confirm and determine CD markers?
-
-- A. Bone marrow biopsy
-- B. Flow cytometry of peripheral blood
-- C. Serum LDH
-- D. Lymph node excisional biopsy
-
-<details><summary>Answer</summary>
-
-**B. Flow cytometry of peripheral blood** — Gold standard for CLL immunophenotyping: CD5+, CD19+, CD20 (dim), CD23+, FMC7 negative.
-</details>
-
----
-
----
-
-### Q142 — Liver mass on imaging (image)
-
-Liver mass identified on imaging, surgically excised; gross specimen shown. Most likely diagnosis?
-
-- A. Hepatocellular carcinoma
-- B. Focal nodular hyperplasia
-- C. Hepatic adenoma
-- D. Metastasis
-
-<details><summary>Answer</summary>
-
-**B. Focal nodular hyperplasia** — Central stellate scar with spoke-wheel vascular pattern on CT; benign; normal hepatocytes, no malignant potential.
-</details>
-
----
-
----
-
-### Q143 — Cough, chest pain, dyspnea; giant cells, granuloma, stellate inclusions
-
-Patient with cough, chest pain, dyspnea; imaging/biopsy shows giant cells, granulomas, and stellate (asteroid) inclusions. Diagnosis?
-
-- A. Tuberculosis
-- B. Sarcoidosis
-- C. Lung cancer
-- D. Fungal infection
-
-<details><summary>Answer</summary>
-
-**B. Sarcoidosis** — Non-caseating granulomas with Langhans giant cells; asteroid bodies and Schaumann bodies are inclusions in sarcoid giant cells. Bilateral hilar lymphadenopathy on CXR.
-</details>
-
----
-
----
-
-### Q144 — Tall man with visual problems and ectopia lentis
-
-Very tall man with visual problems and ectopia lentis. Defective gene?
-
-- A. FBN1
-- B. COL1A1
-- C. FGFR3
-- D. PAX6
-
-<details><summary>Answer</summary>
-
-**A. FBN1** — Marfan syndrome: FBN1 (fibrillin-1) gene mutation; autosomal dominant; ectopia lentis (lens dislocates superiorly), aortic root dilatation, tall stature.
-</details>
-
----
-
----
-
-### Q145 — Antoni A and B areas, Verocay bodies
-
-Patient with hearing loss and balance problems; histopathology shows Antoni A and B areas, Verocay bodies. Diagnosis?
-
-- A. Schwannoma
-- B. Ependymoma
-- C. Meningioma
-- D. Medulloblastoma
-
-<details><summary>Answer</summary>
-
-**A. Schwannoma (acoustic neuroma)** — Vestibular schwannoma (CN VIII); Antoni A (dense palisading cells, Verocay bodies) and Antoni B (loose myxoid areas) are hallmarks.
-</details>
-
----
-
----
-
-### Q146 — Suprasellar mass with "wet keratin" on histology
-
-Child with visual disturbances and delayed growth; suprasellar mass with wet keratin (compact eosinophilic anucleate keratin) on histopathology. Diagnosis?
-
-- A. Medulloblastoma
-- B. Rathke pouch cyst
-- C. Pituitary adenoma
-- D. Craniopharyngioma
-
-<details><summary>Answer</summary>
-
-**D. Craniopharyngioma** — Adamantinomatous type: suprasellar, "machinery oil" fluid, calcification, wet keratin. Arises from Rathke pouch remnants.
-</details>
-
----
-
----
-
-### Q147 — CD marker quantification technique
-
-Most commonly used technique to compare and quantify CD markers?
-
-- A. ELISA
-- B. Western blot
-- C. Flow cytometry
-- D. Immunohistochemistry
-
-<details><summary>Answer</summary>
-
-**C. Flow cytometry** — Single-cell analysis with fluorescent antibodies; gold standard for quantifying surface CD markers (lymphoma phenotyping, CD4 counts, stem cell enumeration).
-</details>
-
----
-
----
-
-### Q148 — Anti-Scl-70 antibody association
-
-Anti-SCL-70 (anti-topoisomerase I) antibody is most strongly associated with:
-
-- A. GAVE
-- B. Calcinosis cutis
-- C. Interstitial lung disease
-- D. Myositis
-
-<details><summary>Answer</summary>
-
-**C. Interstitial lung disease** — Anti-Scl-70 is associated with diffuse cutaneous systemic sclerosis and ILD (pulmonary fibrosis). Anti-centromere antibody associates with limited SSc (CREST).
-</details>
-
----
-
----
-
-### Q149 — Painless, well-circumscribed, non-haemorrhagic testicular mass
-
-30-year-old man with painless testicular mass; USG: well-circumscribed, homogeneous, non-haemorrhagic. Histology shown. Diagnosis?
-
-- A. Yolk sac tumour
-- B. Choriocarcinoma
-- C. Teratoma
-- D. Seminoma
-
-<details><summary>Answer</summary>
-
-**D. Seminoma** — Most common testicular GCT; homogeneous, lobulated; histology: large cells with clear cytoplasm, lymphocytic infiltrate, fibrous septa. AFP normal; β-hCG may be mildly elevated.
-</details>
-
----
-
----
-
-### Q150 — Lymphoma with centrocytes, centroblasts, BCL2, CD10: chromosomal translocation
-
-Lymphoma with centrocytes, centroblasts, BCL2 positivity, CD10 expression. Chromosomal translocation?
-
-- A. t(2;5)
-- B. t(11;14)
-- C. t(14;18)
-- D. t(8;14)
-
-<details><summary>Answer</summary>
-
-**C. t(14;18)** — Follicular lymphoma: t(14;18) juxtaposes BCL2 with IgH enhancer → BCL2 overexpression → anti-apoptosis. CD10+, BCL2+, BCL6+.
-</details>
-
----
-
----
-
-### Q151 — Faggot cells on peripheral smear: translocation
-
-A 68-year-old with bleeding; peripheral smear shows "faggot cells." Associated translocation?
-
-- A. t(15;17)
-- B. t(14;18)
-- C. t(11;14)
-- D. t(8;21)
-
-<details><summary>Answer</summary>
-
-**A. t(15;17)** — AML M3 (APML): faggot cells (Auer rods bundled in cytoplasm) are pathognomonic; PML-RARα fusion from t(15;17); treated with ATRA + arsenic trioxide.
-</details>
-
----
-
----
-
-### Q152 — Dry eyes and mouth, anti-Ro/anti-La antibodies
-
-Middle-aged woman with dry eyes and mouth; anti-Ro (SSA) and anti-La (SSB) positive. Pathological mechanism?
-
-- A. Neutrophil destruction of exocrine glands
-- B. IgE-mediated hypersensitivity
-- C. Lymphocytic infiltration of salivary and lacrimal glands
-- D. Amyloid deposition in salivary glands
-
-<details><summary>Answer</summary>
-
-**C. Lymphocytic infiltration and destruction of salivary and lacrimal glands** — Sjögren syndrome: CD4+ T-cell and B-cell infiltration of exocrine glands; anti-Ro/La autoantibodies.
-</details>
-
----
-
----
-
-### Q153 — Neck mass, amyloid deposition on histology
-
-Patient with neck mass, odynophagia, dyspnea; histology shows amyloid deposition. Diagnosis?
-
-- A. Papillary thyroid carcinoma
-- B. Follicular thyroid carcinoma
-- C. Medullary thyroid carcinoma
-- D. Anaplastic thyroid carcinoma
-
-<details><summary>Answer</summary>
-
-**C. Medullary thyroid carcinoma** — Arises from parafollicular C-cells; secretes calcitonin; amyloid deposition (from polymerised calcitonin) is characteristic on histopathology.
-</details>
-
----
-
----
-
-### Q154 — AML M3 chromosomal translocation
-
-Which translocation is characteristically associated with AML M3?
-
-- A. t(9;22)
-- B. t(8;21)
-- C. t(15;17)
-- D. t(11;14)
-
-<details><summary>Answer</summary>
-
-**C. t(15;17)** — AML M3 (APML): PML-RARα fusion. Risk of DIC (release of procoagulants from Auer rods). Treatment: ATRA + arsenic trioxide.
-</details>
-
----
-
----
-
 ## Year 2015
 
-### Q155 — Which is activated for nuclear fragmentation
+### Q41 — Which is activated for nuclear fragmentation
 
 Which is activated for nuclear fragmentation in apoptosis -
 
@@ -2828,8 +691,7 @@ Which is activated for nuclear fragmentation in apoptosis -
 ---
 
 ---
-
-### Q156 — In apoptosis which isare involved -
+### Q42 — In apoptosis which isare involved -
 
 In apoptosis which is/are involved -
 
@@ -2847,8 +709,7 @@ In apoptosis which is/are involved -
 ---
 
 ---
-
-### Q157 — Spread of infection causes
+### Q43 — Spread of infection causes
 
 Spread of infection causes
 
@@ -2866,8 +727,7 @@ Spread of infection causes
 ---
 
 ---
-
-### Q158 — MI is a type of -
+### Q44 — MI is a type of -
 
 MI is a type of -
 
@@ -2885,8 +745,7 @@ MI is a type of -
 ---
 
 ---
-
-### Q159 — Not an example of excess tissue
+### Q45 — Not an example of excess tissue
 
 Not an example of excess tissue growth
 
@@ -2904,8 +763,7 @@ Not an example of excess tissue growth
 ---
 
 ---
-
-### Q160 — 1st mediator of inflammation to be
+### Q46 — 1st mediator of inflammation to be
 
 1st mediator of inflammation to be released is
 
@@ -2923,8 +781,7 @@ Not an example of excess tissue growth
 ---
 
 ---
-
-### Q161 — Which of the following is derived
+### Q47 — Which of the following is derived
 
 Which of the following is derived from fibroblast cells ?
 
@@ -2942,8 +799,7 @@ Which of the following is derived from fibroblast cells ?
 ---
 
 ---
-
-### Q162 — Process of migration of leukocytes through
+### Q48 — Process of migration of leukocytes through
 
 Process of migration of leukocytes through the endothelium is through:
 
@@ -2961,8 +817,7 @@ Process of migration of leukocytes through the endothelium is through:
 ---
 
 ---
-
-### Q163 — Serum amyloid associated protein, found in
+### Q49 — Serum amyloid associated protein, found in
 
 Serum amyloid associated protein, found in ?
 
@@ -2980,8 +835,7 @@ Serum amyloid associated protein, found in ?
 ---
 
 ---
-
-### Q164 — Reversible change from on cell type
+### Q50 — Reversible change from on cell type
 
 Reversible change from on cell type to other is known as -
 
@@ -2999,8 +853,7 @@ Reversible change from on cell type to other is known as -
 ---
 
 ---
-
-### Q165 — Elastic fibers of tunica media are
+### Q51 — Elastic fibers of tunica media are
 
 Elastic fibers of tunica media are secreted by
 
@@ -3018,8 +871,7 @@ Elastic fibers of tunica media are secreted by
 ---
 
 ---
-
-### Q166 — Small vessel vasculitis are -
+### Q52 — Small vessel vasculitis are -
 
 Small vessel vasculitis are -
 
@@ -3037,8 +889,7 @@ Small vessel vasculitis are -
 ---
 
 ---
-
-### Q167 — Warm antibody in AIHA is -
+### Q53 — Warm antibody in AIHA is -
 
 Warm antibody in AIHA is -
 
@@ -3056,8 +907,7 @@ Warm antibody in AIHA is -
 ---
 
 ---
-
-### Q168 — Osmotic fragility test is commonly used
+### Q54 — Osmotic fragility test is commonly used
 
 Osmotic fragility test is commonly used for -
 
@@ -3075,8 +925,7 @@ Osmotic fragility test is commonly used for -
 ---
 
 ---
-
-### Q169 — Which of the following findings is
+### Q55 — Which of the following findings is
 
 Which of the following findings is diagnostic of iron deficiency anemia?
 
@@ -3094,8 +943,7 @@ Which of the following findings is diagnostic of iron deficiency anemia?
 ---
 
 ---
-
-### Q170 — Ristocetin testing von Willebrand disease shows
+### Q56 — Ristocetin testing von Willebrand disease shows
 
 Ristocetin testing von Willebrand disease shows?
 
@@ -3113,8 +961,7 @@ Ristocetin testing von Willebrand disease shows?
 ---
 
 ---
-
-### Q171 — Shelf life of platelets to blood
+### Q57 — Shelf life of platelets to blood
 
 Shelf life of platelets to blood bank is
 
@@ -3132,8 +979,7 @@ Shelf life of platelets to blood bank is
 ---
 
 ---
-
-### Q172 — Which of the following does not
+### Q58 — Which of the following does not
 
 Which of the following does not predispose to leukemia?
 
@@ -3151,8 +997,7 @@ Which of the following does not predispose to leukemia?
 ---
 
 ---
-
-### Q173 — Hairy cell leukemia is a Neoplastic
+### Q59 — Hairy cell leukemia is a Neoplastic
 
 'Hairy cell leukemia' is a Neoplastic proliferation of :
 
@@ -3170,8 +1015,7 @@ Which of the following does not predispose to leukemia?
 ---
 
 ---
-
-### Q174 — AML causing Gum hypertrophy
+### Q60 — AML causing Gum hypertrophy
 
 AML causing Gum hypertrophy ?
 
@@ -3189,8 +1033,7 @@ AML causing Gum hypertrophy ?
 ---
 
 ---
-
-### Q175 — Radiotherapy induced radiation pneumonitis mediate
+### Q61 — Radiotherapy induced radiation pneumonitis mediate
 
 Radiotherapy induced radiation pneumonitis mediated by all of the following except -
 
@@ -3208,8 +1051,7 @@ Radiotherapy induced radiation pneumonitis mediated by all of the following exce
 ---
 
 ---
-
-### Q176 — Most common lung cancer in non-
+### Q62 — Most common lung cancer in non-
 
 Most common lung cancer in non- smokers is:
 
@@ -3227,8 +1069,7 @@ Most common lung cancer in non- smokers is:
 ---
 
 ---
-
-### Q177 — Most common histological form of lung
+### Q63 — Most common histological form of lung
 
 Most common histological form of lung Ca that metastasizes is -
 
@@ -3246,8 +1087,7 @@ Most common histological form of lung Ca that metastasizes is -
 ---
 
 ---
-
-### Q178 — Most common tnre of renal carcinoma
+### Q64 — Most common tnre of renal carcinoma
 
 Most common tnre of renal carcinoma is -
 
@@ -3265,8 +1105,7 @@ Most common tnre of renal carcinoma is -
 ---
 
 ---
-
-### Q179 — Subepithelial deposits in kidney are seen
+### Q65 — Subepithelial deposits in kidney are seen
 
 Subepithelial deposits in kidney are seen in-
 
@@ -3284,8 +1123,7 @@ Subepithelial deposits in kidney are seen in-
 ---
 
 ---
-
-### Q180 — NotafeatureofPSGN -
+### Q66 — NotafeatureofPSGN -
 
 NotafeatureofPSGN -
 
@@ -3303,8 +1141,7 @@ NotafeatureofPSGN -
 ---
 
 ---
-
-### Q181 — In follicular carcinoma chromosomal translocation 
+### Q67 — In follicular carcinoma chromosomal translocation 
 
 In follicular carcinoma chromosomal translocation is?
 
@@ -3322,8 +1159,7 @@ In follicular carcinoma chromosomal translocation is?
 ---
 
 ---
-
-### Q182 — All of the following are features
+### Q68 — All of the following are features
 
 All of the following are features of granulomatous thyroiditis except?
 
@@ -3341,8 +1177,7 @@ All of the following are features of granulomatous thyroiditis except?
 ---
 
 ---
-
-### Q183 — Sezary cells show which tlpe of
+### Q69 — Sezary cells show which tlpe of
 
 Sezary cells show which tlpe of nucleus -
 
@@ -3360,8 +1195,7 @@ Sezary cells show which tlpe of nucleus -
 ---
 
 ---
-
-### Q184 — Prusian blue detects
+### Q70 — Prusian blue detects
 
 Prusian blue detects?
 
@@ -3379,8 +1213,7 @@ Prusian blue detects?
 ---
 
 ---
-
-### Q185 — Lysosome with undigested particle inside is
+### Q71 — Lysosome with undigested particle inside is
 
 Lysosome with undigested particle inside is known as -
 
@@ -3398,8 +1231,7 @@ Lysosome with undigested particle inside is known as -
 ---
 
 ---
-
-### Q186 — The predominant isozyme of LDH in
+### Q72 — The predominant isozyme of LDH in
 
 The predominant isozyme of LDH in Lung is:
 
@@ -3417,8 +1249,7 @@ The predominant isozyme of LDH in Lung is:
 ---
 
 ---
-
-### Q187 — Homer rosette is seen in -
+### Q73 — Homer rosette is seen in -
 
 Homer rosette is seen in -
 
@@ -3436,8 +1267,7 @@ Homer rosette is seen in -
 ---
 
 ---
-
-### Q188 — Neuroblastomas - good prognositc factor is
+### Q74 — Neuroblastomas - good prognositc factor is
 
 Neuroblastomas - good prognositc factor is ?
 
@@ -3455,8 +1285,7 @@ Neuroblastomas - good prognositc factor is ?
 ---
 
 ---
-
-### Q189 — Flare in Triple response is mediated
+### Q75 — Flare in Triple response is mediated
 
 'Flare' in Triple response is mediated by :
 
@@ -3474,8 +1303,7 @@ Neuroblastomas - good prognositc factor is ?
 ---
 
 ---
-
-### Q190 — HDL receptor is -
+### Q76 — HDL receptor is -
 
 HDL receptor is -
 
@@ -3493,8 +1321,7 @@ HDL receptor is -
 ---
 
 ---
-
-### Q191 — Citron bodies boat or leaf shaped
+### Q77 — Citron bodies boat or leaf shaped
 
 "Citron bodies" boat or leaf shaped pleomorphic organism in an exudate is
 
@@ -3512,8 +1339,7 @@ HDL receptor is -
 ---
 
 ---
-
-### Q192 — Calrexin and calreticulin are -
+### Q78 — Calrexin and calreticulin are -
 
 Calrexin and calreticulin are -
 
@@ -3531,8 +1357,7 @@ Calrexin and calreticulin are -
 ---
 
 ---
-
-### Q193 — Which of the following is potassium
+### Q79 — Which of the following is potassium
 
 Which of the following is potassium Channelopathy -
 
@@ -3550,8 +1375,7 @@ Which of the following is potassium Channelopathy -
 ---
 
 ---
-
-### Q194 — Which of the following is false
+### Q80 — Which of the following is false
 
 Which of the following is false regarding carcinoid tumor ?
 
@@ -3569,8 +1393,7 @@ Which of the following is false regarding carcinoid tumor ?
 ---
 
 ---
-
-### Q195 — Fibrosis associated with liver cirrhosis is
+### Q81 — Fibrosis associated with liver cirrhosis is
 
 Fibrosis associated with liver cirrhosis is mediated by -
 
@@ -3588,8 +1411,7 @@ Fibrosis associated with liver cirrhosis is mediated by -
 ---
 
 ---
-
-### Q196 — Solution currently used for liver preservation
+### Q82 — Solution currently used for liver preservation
 
 Solution currently used for liver preservation for transplant is -
 
@@ -3607,8 +1429,7 @@ Solution currently used for liver preservation for transplant is -
 ---
 
 ---
-
-### Q197 — Which of the following markers is
+### Q83 — Which of the following markers is
 
 Which of the following markers is specific for gastro-intestinal stomal tumor (GIST) -
 
@@ -3626,8 +1447,7 @@ Which of the following markers is specific for gastro-intestinal stomal tumor (G
 ---
 
 ---
-
-### Q198 — Primary hyperparathyroidism, phaeochromocytoma may
+### Q84 — Primary hyperparathyroidism, phaeochromocytoma may
 
 Primary hyperparathyroidism, phaeochromocytoma may be associated with which type of thyroid cancer?
 
@@ -3645,8 +1465,7 @@ Primary hyperparathyroidism, phaeochromocytoma may be associated with which type
 ---
 
 ---
-
-### Q199 — Permission from DCGI Drug controller general,
+### Q85 — Permission from DCGI Drug controller general,
 
 Permission from DCGI [Drug controller general, India] is needed before which phase of drug trial?
 
@@ -3664,8 +1483,7 @@ Permission from DCGI [Drug controller general, India] is needed before which pha
 ---
 
 ---
-
-### Q200 — CYP3A inhibitors isare -
+### Q86 — CYP3A inhibitors isare -
 
 CYP3A inhibitors is/are -
 
@@ -3683,8 +1501,7 @@ CYP3A inhibitors is/are -
 ---
 
 ---
-
-### Q201 — Regarding efficacy and potency of a
+### Q87 — Regarding efficacy and potency of a
 
 Regarding efficacy and potency of a drug, all are true, EXCEPT:
 
@@ -3702,8 +1519,7 @@ Regarding efficacy and potency of a drug, all are true, EXCEPT:
 ---
 
 ---
-
-### Q202 — Volume of distribution of a drug
+### Q88 — Volume of distribution of a drug
 
 Volume of distribution of a drug is 500 ml and target concentration of drug in blood is 5 g/L. 20% of administered drug is reached to systemic circulation. What
 
@@ -3721,8 +1537,7 @@ Volume of distribution of a drug is 500 ml and target concentration of drug in b
 ---
 
 ---
-
-### Q203 — Drugs which is not metabolized by
+### Q89 — Drugs which is not metabolized by
 
 Drugs which is not metabolized by acetylation ?
 
@@ -3740,8 +1555,7 @@ Drugs which is not metabolized by acetylation ?
 ---
 
 ---
-
-### Q204 — True about drug metabolism
+### Q90 — True about drug metabolism
 
 True about drug metabolism ?
 
@@ -3759,8 +1573,7 @@ True about drug metabolism ?
 ---
 
 ---
-
-### Q205 — Which is topical way of drug
+### Q91 — Which is topical way of drug
 
 Which is topical way of drug administration ?
 
@@ -3778,8 +1591,7 @@ Which is topical way of drug administration ?
 ---
 
 ---
-
-### Q206 — True about transdermal drug delivery system
+### Q92 — True about transdermal drug delivery system
 
 True about transdermal drug delivery system are all except?
 
@@ -3797,8 +1609,7 @@ True about transdermal drug delivery system are all except?
 ---
 
 ---
-
-### Q207 — Receptor level antagonism is shown by
+### Q93 — Receptor level antagonism is shown by
 
 Receptor level antagonism is shown by ?
 
@@ -3816,8 +1627,7 @@ Receptor level antagonism is shown by ?
 ---
 
 ---
-
-### Q208 — Fastest receptor mediated action is through
+### Q94 — Fastest receptor mediated action is through
 
 Fastest receptor mediated action is through ?
 
@@ -3835,8 +1645,7 @@ Fastest receptor mediated action is through ?
 ---
 
 ---
-
-### Q209 — Side effects of clonidine are all
+### Q95 — Side effects of clonidine are all
 
 Side effects of clonidine are all except ?
 
@@ -3854,8 +1663,7 @@ Side effects of clonidine are all except ?
 ---
 
 ---
-
-### Q210 — Lipid insoluble (3-blokcer is -
+### Q96 — Lipid insoluble (3-blokcer is -
 
 Lipid insoluble (3-blokcer is -
 
@@ -3873,8 +1681,7 @@ Lipid insoluble (3-blokcer is -
 ---
 
 ---
-
-### Q211 — Nonselective a  1 blocker is
+### Q97 — Nonselective a  1 blocker is
 
 Nonselective a + 1 blocker is ?
 
@@ -3892,8 +1699,7 @@ Nonselective a + 1 blocker is ?
 ---
 
 ---
-
-### Q212 — Non-selective Beta-blocker with sympathomimetic ac
+### Q98 — Non-selective Beta-blocker with sympathomimetic ac
 
 Non-selective Beta-blocker with sympathomimetic activity ?
 
@@ -3911,8 +1717,7 @@ Non-selective Beta-blocker with sympathomimetic activity ?
 ---
 
 ---
-
-### Q213 — Action of M, cholinergic receptors
+### Q99 — Action of M, cholinergic receptors
 
 Action of M, cholinergic receptors ?
 
@@ -3930,8 +1735,7 @@ Action of M, cholinergic receptors ?
 ---
 
 ---
-
-### Q214 — Antimuscarinic drug used in overactive bladder
+### Q100 — Antimuscarinic drug used in overactive bladder
 
 Antimuscarinic drug used in overactive bladder -
 
@@ -3949,8 +1753,7 @@ Antimuscarinic drug used in overactive bladder -
 ---
 
 ---
-
-### Q215 — Anti-cholinesterase with central action
+### Q101 — Anti-cholinesterase with central action
 
 Anti-cholinesterase with central action ?
 
@@ -3968,8 +1771,7 @@ Anti-cholinesterase with central action ?
 ---
 
 ---
-
-### Q216 — Maximum cycloplegic action of atropine is
+### Q102 — Maximum cycloplegic action of atropine is
 
 Maximum cycloplegic action of atropine is seen at ?
 
@@ -3987,8 +1789,7 @@ Maximum cycloplegic action of atropine is seen at ?
 ---
 
 ---
-
-### Q217 — One of the following is not
+### Q103 — One of the following is not
 
 One of the following is not a side effect of atropine?
 
@@ -4006,8 +1807,7 @@ One of the following is not a side effect of atropine?
 ---
 
 ---
-
-### Q218 — Longest acting anti-cholinesterase -
+### Q104 — Longest acting anti-cholinesterase -
 
 Longest acting anti-cholinesterase -
 
@@ -4025,8 +1825,7 @@ Longest acting anti-cholinesterase -
 ---
 
 ---
-
-### Q219 — Propranolol is used in
+### Q105 — Propranolol is used in
 
 Propranolol is used in ?
 
@@ -4044,8 +1843,7 @@ Propranolol is used in ?
 ---
 
 ---
-
-### Q220 — Maximum potassium loss is caused by
+### Q106 — Maximum potassium loss is caused by
 
 Maximum potassium loss is caused by which diuretics ?
 
@@ -4063,8 +1861,7 @@ Maximum potassium loss is caused by which diuretics ?
 ---
 
 ---
-
-### Q221 — True about cardiac muscle fibers
+### Q107 — True about cardiac muscle fibers
 
 True about cardiac muscle fibers ?
 
@@ -4082,8 +1879,7 @@ True about cardiac muscle fibers ?
 ---
 
 ---
-
-### Q222 — Side effects of amiodarone are all
+### Q108 — Side effects of amiodarone are all
 
 Side effects of amiodarone are all except ?
 
@@ -4101,8 +1897,7 @@ Side effects of amiodarone are all except ?
 ---
 
 ---
-
-### Q223 — Thiazides cause hypercalcemia by
+### Q109 — Thiazides cause hypercalcemia by
 
 Thiazides cause hypercalcemia by ?
 
@@ -4120,8 +1915,7 @@ Thiazides cause hypercalcemia by ?
 ---
 
 ---
-
-### Q224 — Drug affecting positive free water clearance
+### Q110 — Drug affecting positive free water clearance
 
 Drug affecting positive free water clearance without affecting negative free water clearance -
 
@@ -4139,8 +1933,7 @@ Drug affecting positive free water clearance without affecting negative free wat
 ---
 
 ---
-
-### Q225 — Sympathomimetic drug which causes decrease in
+### Q111 — Sympathomimetic drug which causes decrease in
 
 Sympathomimetic drug which causes decrease in heart rate ?
 
@@ -4158,8 +1951,7 @@ Sympathomimetic drug which causes decrease in heart rate ?
 ---
 
 ---
-
-### Q226 — Na- K- 2Cl- is inhibited by
+### Q112 — Na- K- 2Cl- is inhibited by
 
 Na*- K*- 2Cl- is inhibited by -
 
@@ -4177,8 +1969,7 @@ Na*- K*- 2Cl- is inhibited by -
 ---
 
 ---
-
-### Q227 — Opioid morphine causes
+### Q113 — Opioid morphine causes
 
 Opioid [morphine] causes ?
 
@@ -4196,8 +1987,7 @@ Opioid [morphine] causes ?
 ---
 
 ---
-
-### Q228 — Most common renal sequel of lithium
+### Q114 — Most common renal sequel of lithium
 
 Most common renal sequel of lithium toxicity is ?
 
@@ -4215,8 +2005,7 @@ Most common renal sequel of lithium toxicity is ?
 ---
 
 ---
-
-### Q229 — Drug(s) not given as transdermal patch
+### Q115 — Drug(s) not given as transdermal patch
 
 Drug(s) not given as transdermal patch:
 
@@ -4234,8 +2023,7 @@ Drug(s) not given as transdermal patch:
 ---
 
 ---
-
-### Q230 — Zonisamide acts on
+### Q116 — Zonisamide acts on
 
 Zonisamide acts on ?
 
@@ -4253,8 +2041,7 @@ Zonisamide acts on ?
 ---
 
 ---
-
-### Q231 — Dexmedetomidine acts on which receptor for
+### Q117 — Dexmedetomidine acts on which receptor for
 
 Dexmedetomidine acts on which receptor for its analgesic action ?
 
@@ -4272,8 +2059,7 @@ Dexmedetomidine acts on which receptor for its analgesic action ?
 ---
 
 ---
-
-### Q232 — Adverse effects of phenytoin include all
+### Q118 — Adverse effects of phenytoin include all
 
 Adverse effects of phenytoin include all of the following except?
 
@@ -4291,8 +2077,7 @@ Adverse effects of phenytoin include all of the following except?
 ---
 
 ---
-
-### Q233 — Which of the following is true
+### Q119 — Which of the following is true
 
 Which of the following is true?
 
@@ -4310,8 +2095,7 @@ Which of the following is true?
 ---
 
 ---
-
-### Q234 — Which of the following is an
+### Q120 — Which of the following is an
 
 Which of the following is an aromatase inhibitor?
 
@@ -4329,8 +2113,7 @@ Which of the following is an aromatase inhibitor?
 ---
 
 ---
-
-### Q235 — Drug which is contraindicated before 2nd
+### Q121 — Drug which is contraindicated before 2nd
 
 Drug which is contraindicated before 2nd stage of labor is:
 
@@ -4348,8 +2131,7 @@ Drug which is contraindicated before 2nd stage of labor is:
 ---
 
 ---
-
-### Q236 — Which of the following oral antidiabetic
+### Q122 — Which of the following oral antidiabetic
 
 Which of the following oral antidiabetic drug is insulin secretagogues?
 
@@ -4367,8 +2149,7 @@ Which of the following oral antidiabetic drug is insulin secretagogues?
 ---
 
 ---
-
-### Q237 — Which of the following antidiabetic drug
+### Q123 — Which of the following antidiabetic drug
 
 Which of the following antidiabetic drug is insulin secretogogue ?
 
@@ -4386,8 +2167,7 @@ Which of the following antidiabetic drug is insulin secretogogue ?
 ---
 
 ---
-
-### Q238 — Oral sore due to inhaled steroids
+### Q124 — Oral sore due to inhaled steroids
 
 Oral sore due to inhaled steroids are treated by ?
 
@@ -4405,8 +2185,7 @@ Oral sore due to inhaled steroids are treated by ?
 ---
 
 ---
-
-### Q239 — PGE1 analogue is
+### Q125 — PGE1 analogue is
 
 PGE1 analogue is ?
 
@@ -4424,8 +2203,7 @@ PGE1 analogue is ?
 ---
 
 ---
-
-### Q240 — Triptan taken by nasal route is
+### Q126 — Triptan taken by nasal route is
 
 Triptan taken by nasal route is ?
 
@@ -4443,8 +2221,7 @@ Triptan taken by nasal route is ?
 ---
 
 ---
-
-### Q241 — Acetaminophen Paracetamol induced liver toxicity i
+### Q127 — Acetaminophen Paracetamol induced liver toxicity i
 
 Acetaminophen [Paracetamol] induced liver toxicity is due to ?
 
@@ -4462,8 +2239,7 @@ Acetaminophen [Paracetamol] induced liver toxicity is due to ?
 ---
 
 ---
-
-### Q242 — True about heparin induced thrombocytopenia
+### Q128 — True about heparin induced thrombocytopenia
 
 True about heparin induced thrombocytopenia ?
 
@@ -4481,8 +2257,7 @@ True about heparin induced thrombocytopenia ?
 ---
 
 ---
-
-### Q243 — Which of following is a stool
+### Q129 — Which of following is a stool
 
 Which of following is a stool softener ?
 
@@ -4500,8 +2275,7 @@ Which of following is a stool softener ?
 ---
 
 ---
-
-### Q244 — Latest oral direct thrombin inhibitor is
+### Q130 — Latest oral direct thrombin inhibitor is
 
 Latest oral direct thrombin inhibitor is?
 
@@ -4519,8 +2293,7 @@ Latest oral direct thrombin inhibitor is?
 ---
 
 ---
-
-### Q245 — Ximelagatran is used as
+### Q131 — Ximelagatran is used as
 
 Ximelagatran is used as ?
 
@@ -4538,8 +2311,7 @@ Ximelagatran is used as ?
 ---
 
 ---
-
-### Q246 — Thymidine is responsible for resistance to
+### Q132 — Thymidine is responsible for resistance to
 
 Thymidine is responsible for resistance to which antibiotic ?
 
@@ -4557,8 +2329,7 @@ Thymidine is responsible for resistance to which antibiotic ?
 ---
 
 ---
-
-### Q247 — Which of the following is not
+### Q133 — Which of the following is not
 
 Which of the following is not excreted in kidney ?
 
@@ -4576,8 +2347,7 @@ Which of the following is not excreted in kidney ?
 ---
 
 ---
-
-### Q248 — Levamisol is aan
+### Q134 — Levamisol is aan
 
 Levamisol is a/an ?
 
@@ -4595,8 +2365,7 @@ Levamisol is a/an ?
 ---
 
 ---
-
-### Q249 — Quinine acts on which stage of
+### Q135 — Quinine acts on which stage of
 
 Quinine acts on which stage of plasmodium life cycle?
 
@@ -4614,8 +2383,7 @@ Quinine acts on which stage of plasmodium life cycle?
 ---
 
 ---
-
-### Q250 — Synergistic action is shown by all
+### Q136 — Synergistic action is shown by all
 
 Synergistic action is shown by all except ?
 
@@ -4633,8 +2401,7 @@ Synergistic action is shown by all except ?
 ---
 
 ---
-
-### Q251 — Neuropathy with INH therapy is least
+### Q137 — Neuropathy with INH therapy is least
 
 Neuropathy with INH therapy is least in patients?
 
@@ -4652,8 +2419,7 @@ Neuropathy with INH therapy is least in patients?
 ---
 
 ---
-
-### Q252 — Longest acting carbapenems
+### Q138 — Longest acting carbapenems
 
 Longest acting carbapenems ?
 
@@ -4671,8 +2437,7 @@ Longest acting carbapenems ?
 ---
 
 ---
-
-### Q253 — XDR TB is defined as
+### Q139 — XDR TB is defined as
 
 XDR TB is defined as ?
 
@@ -4690,8 +2455,7 @@ XDR TB is defined as ?
 ---
 
 ---
-
-### Q254 — Which antibiotic should not be given
+### Q140 — Which antibiotic should not be given
 
 Which antibiotic should not be given after drinking milk?
 
@@ -4709,8 +2473,7 @@ Which antibiotic should not be given after drinking milk?
 ---
 
 ---
-
-### Q255 — Post-transplantation hypertension can be caused by
+### Q141 — Post-transplantation hypertension can be caused by
 
 Post-transplantation hypertension can be caused by:I. Rejection. II. Cyclosporine nephrotoxicity.III. Renal transplant artery stenosis (RTAS).IV.
 
@@ -4728,8 +2491,7 @@ Post-transplantation hypertension can be caused by:I. Rejection. II. Cyclosporin
 ---
 
 ---
-
-### Q256 — Which of the following drugs is
+### Q142 — Which of the following drugs is
 
 Which of the following drugs is associated with untoward side effect of renal tubular damage-
 
@@ -4747,8 +2509,7 @@ Which of the following drugs is associated with untoward side effect of renal tu
 ---
 
 ---
-
-### Q257 — Drug that can cause hypertrophic pyloric
+### Q143 — Drug that can cause hypertrophic pyloric
 
 Drug that can cause hypertrophic pyloric stenosis is?
 
@@ -4766,8 +2527,7 @@ Drug that can cause hypertrophic pyloric stenosis is?
 ---
 
 ---
-
-### Q258 — Lower esophageal sphincter pressure is increased
+### Q144 — Lower esophageal sphincter pressure is increased
 
 Lower esophageal sphincter pressure is increased by all of the following substances, EXCEPT:
 
@@ -4785,8 +2545,7 @@ Lower esophageal sphincter pressure is increased by all of the following substan
 ---
 
 ---
-
-### Q259 — Interstitial nephritis is seen with all
+### Q145 — Interstitial nephritis is seen with all
 
 Interstitial nephritis is seen with all except
 
@@ -4804,8 +2563,7 @@ Interstitial nephritis is seen with all except
 ---
 
 ---
-
-### Q260 — Lorcaserin is used as
+### Q146 — Lorcaserin is used as
 
 Lorcaserin is used as ?
 
@@ -4823,8 +2581,7 @@ Lorcaserin is used as ?
 ---
 
 ---
-
-### Q261 — Flu like syptoms is side effect
+### Q147 — Flu like syptoms is side effect
 
 Flu like syptoms is side effect of which anti TB drug ?
 
@@ -4842,8 +2599,7 @@ Flu like syptoms is side effect of which anti TB drug ?
 ---
 
 ---
-
-### Q262 — All of the following are known
+### Q148 — All of the following are known
 
 All of the following are known adverse effects of thalidomide, except:
 
@@ -4861,8 +2617,7 @@ All of the following are known adverse effects of thalidomide, except:
 ---
 
 ---
-
-### Q263 — Oxidation of drugs is mainly takes
+### Q149 — Oxidation of drugs is mainly takes
 
 Oxidation of drugs is mainly takes place in?
 
@@ -4880,8 +2635,7 @@ Oxidation of drugs is mainly takes place in?
 ---
 
 ---
-
-### Q264 — Sec 191 IPC is for -
+### Q150 — Sec 191 IPC is for -
 
 Sec 191 IPC is for -
 
@@ -4899,8 +2653,7 @@ Sec 191 IPC is for -
 ---
 
 ---
-
-### Q265 — Dying declaration is a MAHE 10
+### Q151 — Dying declaration is a MAHE 10
 
 Dying declaration is a: MAHE 10
 
@@ -4918,8 +2671,7 @@ Dying declaration is a: MAHE 10
 ---
 
 ---
-
-### Q266 — Novus actus interveniens is -
+### Q152 — Novus actus interveniens is -
 
 Novus actus interveniens is -
 
@@ -4937,8 +2689,7 @@ Novus actus interveniens is -
 ---
 
 ---
-
-### Q267 — Inquest, not followed in India is
+### Q153 — Inquest, not followed in India is
 
 Inquest, not followed in India is -
 
@@ -4956,8 +2707,7 @@ Inquest, not followed in India is -
 ---
 
 ---
-
-### Q268 — Length of the fetus is 40cms
+### Q154 — Length of the fetus is 40cms
 
 Length of the fetus is 40cms. What would be the age of gestation ?
 
@@ -4975,8 +2725,7 @@ Length of the fetus is 40cms. What would be the age of gestation ?
 ---
 
 ---
-
-### Q269 — UV rays examination is done for
+### Q155 — UV rays examination is done for
 
 UV rays examination is done for -
 
@@ -4994,8 +2743,7 @@ UV rays examination is done for -
 ---
 
 ---
-
-### Q270 — Time interval between somatic and molecular
+### Q156 — Time interval between somatic and molecular
 
 Time interval between somatic and molecular death is -
 
@@ -5013,8 +2761,7 @@ Time interval between somatic and molecular death is -
 ---
 
 ---
-
-### Q271 — Bishops tripod of life includes all
+### Q157 — Bishops tripod of life includes all
 
 Bishop's tripod of life includes all except -
 
@@ -5032,8 +2779,7 @@ Bishop's tripod of life includes all except -
 ---
 
 ---
-
-### Q272 — For autopsy, stomach is open through
+### Q158 — For autopsy, stomach is open through
 
 For autopsy, stomach is open through -
 
@@ -5051,8 +2797,7 @@ For autopsy, stomach is open through -
 ---
 
 ---
-
-### Q273 — Tache noire de salenortica is a
+### Q159 — Tache noire de salenortica is a
 
 Tache noire de salenortica is a postmortem finding is related to
 
@@ -5070,8 +2815,7 @@ Tache noire de salenortica is a postmortem finding is related to
 ---
 
 ---
-
-### Q274 — Adipocere formation is seen in
+### Q160 — Adipocere formation is seen in
 
 Adipocere formation is seen in:
 
@@ -5089,8 +2833,7 @@ Adipocere formation is seen in:
 ---
 
 ---
-
-### Q275 — In Adipocere, color change seen is
+### Q161 — In Adipocere, color change seen is
 
 In Adipocere, color change seen is -
 
@@ -5108,8 +2851,7 @@ In Adipocere, color change seen is -
 ---
 
 ---
-
-### Q276 — True about cadaveric spasm
+### Q162 — True about cadaveric spasm
 
 True about cadaveric spasm :
 
@@ -5127,8 +2869,7 @@ True about cadaveric spasm :
 ---
 
 ---
-
-### Q277 — In India exhumation is ordered by
+### Q163 — In India exhumation is ordered by
 
 In India exhumation is ordered by ?
 
@@ -5146,8 +2887,7 @@ In India exhumation is ordered by ?
 ---
 
 ---
-
-### Q278 — Chicken fat appearance is seen in
+### Q164 — Chicken fat appearance is seen in
 
 Chicken fat appearance is seen in -
 
@@ -5165,8 +2905,7 @@ Chicken fat appearance is seen in -
 ---
 
 ---
-
-### Q279 — True about heat hematoma PGI 12
+### Q165 — True about heat hematoma PGI 12
 
 True about heat hematoma: PGI 12
 
@@ -5184,8 +2923,7 @@ True about heat hematoma: PGI 12
 ---
 
 ---
-
-### Q280 — Homicidal gunshot wound can be differentiated
+### Q166 — Homicidal gunshot wound can be differentiated
 
 Homicidal gunshot wound can be differentiated from suicidal gunshot wound by-
 
@@ -5203,8 +2941,7 @@ Homicidal gunshot wound can be differentiated from suicidal gunshot wound by-
 ---
 
 ---
-
-### Q281 — Choking is characteristic of the following
+### Q167 — Choking is characteristic of the following
 
 Choking is characteristic of the following weapon:
 
@@ -5222,8 +2959,7 @@ Choking is characteristic of the following weapon:
 ---
 
 ---
-
-### Q282 — Beveling of skull is seen in
+### Q168 — Beveling of skull is seen in
 
 Beveling of skull is seen in -
 
@@ -5241,8 +2977,7 @@ Beveling of skull is seen in -
 ---
 
 ---
-
-### Q283 — Most specific sign of Antemortem burns
+### Q169 — Most specific sign of Antemortem burns
 
 Most specific sign of Antemortem burns is -
 
@@ -5260,8 +2995,7 @@ Most specific sign of Antemortem burns is -
 ---
 
 ---
-
-### Q284 — Granulomatosis infantiseptica is caused by
+### Q170 — Granulomatosis infantiseptica is caused by
 
 Granulomatosis infantiseptica is caused by:
 
@@ -5279,8 +3013,7 @@ Granulomatosis infantiseptica is caused by:
 ---
 
 ---
-
-### Q285 — Which is not true about macrophages
+### Q171 — Which is not true about macrophages
 
 Which is not true about macrophages:
 
@@ -5298,8 +3031,7 @@ Which is not true about macrophages:
 ---
 
 ---
-
-### Q286 — Which of the following is not
+### Q172 — Which of the following is not
 
 Which of the following is not a premalignant condition oral cancer?
 
@@ -5317,8 +3049,7 @@ Which of the following is not a premalignant condition oral cancer?
 ---
 
 ---
-
-### Q287 — Red keratic precipitates are seen in
+### Q173 — Red keratic precipitates are seen in
 
 Red keratic precipitates are seen in ?
 
@@ -5336,8 +3067,7 @@ Red keratic precipitates are seen in ?
 ---
 
 ---
-
-### Q288 — Central bronchiectasis is seen with
+### Q174 — Central bronchiectasis is seen with
 
 Central bronchiectasis is seen with
 
@@ -5355,8 +3085,7 @@ Central bronchiectasis is seen with
 ---
 
 ---
-
-### Q289 — Bronchiectasis Sicca is seen with
+### Q175 — Bronchiectasis Sicca is seen with
 
 Bronchiectasis Sicca is seen with
 
@@ -5374,8 +3103,7 @@ Bronchiectasis Sicca is seen with
 ---
 
 ---
-
-### Q290 — Most common cause of idiopathic interstitial
+### Q176 — Most common cause of idiopathic interstitial
 
 Most common cause of idiopathic interstitial pneumonia is
 
@@ -5393,8 +3121,7 @@ Most common cause of idiopathic interstitial pneumonia is
 ---
 
 ---
-
-### Q291 — Disease, does not recur in the
+### Q177 — Disease, does not recur in the
 
 Disease, does not recur in the kidney after renal transplant is :
 
@@ -5412,8 +3139,7 @@ Disease, does not recur in the kidney after renal transplant is :
 ---
 
 ---
-
-### Q292 — The most common cause of malignant
+### Q178 — The most common cause of malignant
 
 The most common cause of malignant adrenal mass is
 
@@ -5431,8 +3157,7 @@ The most common cause of malignant adrenal mass is
 ---
 
 ---
-
-### Q293 — IRIS is -
+### Q179 — IRIS is -
 
 I.R.I.S. is -
 
@@ -5450,8 +3175,7 @@ I.R.I.S. is -
 ---
 
 ---
-
-### Q294 — All are seen in carneys triad
+### Q180 — All are seen in carneys triad
 
 All are seen in carney's triad except -
 
@@ -5469,8 +3193,7 @@ All are seen in carney's triad except -
 ---
 
 ---
-
-### Q295 — All of the following are paraneoplastic
+### Q181 — All of the following are paraneoplastic
 
 All of the following are paraneoplastic syndromes for renal cell carcinoma except -
 
@@ -5488,8 +3211,7 @@ All of the following are paraneoplastic syndromes for renal cell carcinoma excep
 ---
 
 ---
-
-### Q296 — Perihepatic fibrosis occurring in Fitz Hugh
+### Q182 — Perihepatic fibrosis occurring in Fitz Hugh
 
 Perihepatic fibrosis occurring in Fitz Hugh Curtis Syndrome is due to -
 
@@ -5507,8 +3229,7 @@ Perihepatic fibrosis occurring in Fitz Hugh Curtis Syndrome is due to -
 ---
 
 ---
-
-### Q297 — True about MALToma is
+### Q183 — True about MALToma is
 
 True about MALToma is
 
@@ -5526,8 +3247,7 @@ True about MALToma is
 ---
 
 ---
-
-### Q298 — False about Gastric lymphoma is
+### Q184 — False about Gastric lymphoma is
 
 False about Gastric lymphoma is:
 
@@ -5545,8 +3265,7 @@ False about Gastric lymphoma is:
 ---
 
 ---
-
-### Q299 — Aneurysmal dilation of the small bowel
+### Q185 — Aneurysmal dilation of the small bowel
 
 Aneurysmal dilation of the small bowel is seen in
 
@@ -5564,8 +3283,7 @@ Aneurysmal dilation of the small bowel is seen in
 ---
 
 ---
-
-### Q300 — Which of the following is a
+### Q186 — Which of the following is a
 
 Which of the following is a tumour marker for bladder cancer ?
 
@@ -5583,8 +3301,7 @@ Which of the following is a tumour marker for bladder cancer ?
 ---
 
 ---
-
-### Q301 — RPLND and Chemotherapy may be used
+### Q187 — RPLND and Chemotherapy may be used
 
 RPLND and Chemotherapy may be used in management of
 
@@ -5602,10 +3319,9 @@ RPLND and Chemotherapy may be used in management of
 ---
 
 ---
+### Q188 — year old child presents with a
 
-### Q302 — year old child presents with a
-
-year old child presents with a mass in the lumbar region with abdominal pain with excruciating bone pain. Possible diagnosis is -
+A patient (age not captured in source) who is a year old child presents with a mass in the lumbar region with abdominal pain with excruciating bone pain. Possible diagnosis is -
 
 - A. Neuroblastoma
 - B. Wilm's Tumour
@@ -5621,10 +3337,9 @@ year old child presents with a mass in the lumbar region with abdominal pain wit
 ---
 
 ---
+### Q189 — year old child presents with an
 
-### Q303 — year old child presents with an
-
-year old child presents with an abdominal mass, fever, bone pain and IVC thrombosis , the diagnosis could be -
+A patient (age not captured in source) who is a year old child presents with an abdominal mass, fever, bone pain and IVC thrombosis , the diagnosis could be -
 
 - A. Wilm's tumour
 - B. Neuroblastoma
@@ -5640,8 +3355,7 @@ year old child presents with an abdominal mass, fever, bone pain and IVC thrombo
 ---
 
 ---
-
-### Q304 — Which one of the following statements
+### Q190 — Which one of the following statements
 
 Which one of the following statements is false about Xanthogranulomatous pyelonephritis in children?
 
@@ -5659,8 +3373,7 @@ Which one of the following statements is false about Xanthogranulomatous pyelone
 ---
 
 ---
-
-### Q305 — Abdominal pain in Henoch Schonlein purpura
+### Q191 — Abdominal pain in Henoch Schonlein purpura
 
 Abdominal pain in Henoch Schonlein purpura is due to -
 
@@ -5678,8 +3391,7 @@ Abdominal pain in Henoch Schonlein purpura is due to -
 ---
 
 ---
-
-### Q306 — Waddling gait due to
+### Q192 — Waddling gait due to
 
 Waddling gait due to:
 
@@ -5697,8 +3409,7 @@ Waddling gait due to:
 ---
 
 ---
-
-### Q307 — Onion peel appearanace on Xray is
+### Q193 — Onion peel appearanace on Xray is
 
 Onion peel appearanace on Xray is seen in which of the following conditions ?
 
@@ -5716,8 +3427,7 @@ Onion peel appearanace on Xray is seen in which of the following conditions ?
 ---
 
 ---
-
-### Q308 — True about nabothian cyst is all
+### Q194 — True about nabothian cyst is all
 
 True about nabothian cyst is all except - �
 
@@ -5735,8 +3445,7 @@ True about nabothian cyst is all except - �
 ---
 
 ---
-
-### Q309 — Most common cause of pelvic inflammatory
+### Q195 — Most common cause of pelvic inflammatory
 
 Most common cause of pelvic inflammatory disease is -
 
@@ -5754,8 +3463,7 @@ Most common cause of pelvic inflammatory disease is -
 ---
 
 ---
-
-### Q310 — Stereotactic radiosurgery is done for -
+### Q196 — Stereotactic radiosurgery is done for -
 
 Stereotactic radiosurgery is done for -
 
@@ -5774,10 +3482,9 @@ Stereotactic radiosurgery is done for -
 
 ---
 
-
 ## Year 2016
 
-### Q311 — of the following are true about *(2016)*
+### Q197 — of the following are true about *(2016)*
 
 All of the following are true about collagen structure except -
 
@@ -5794,12 +3501,10 @@ All of the following are true about collagen structure except -
 
 ---
 
-
 ---
 
 ---
-
-### Q312 — Vitamin A deficiency leads to metaplasia *(2016)*
+### Q198 — Vitamin A deficiency leads to metaplasia *(2016)*
 
 Vitamin A deficiency leads to metaplasia of?
 
@@ -5816,12 +3521,10 @@ Vitamin A deficiency leads to metaplasia of?
 
 ---
 
-
 ---
 
 ---
-
-### Q313 — Example of coagulative necrosis is - *(2016)*
+### Q199 — Example of coagulative necrosis is - *(2016)*
 
 Example of coagulative necrosis is -
 
@@ -5838,12 +3541,10 @@ Example of coagulative necrosis is -
 
 ---
 
-
 ---
 
 ---
-
-### Q314 — one of the following statements is *(2016)*
+### Q200 — one of the following statements is *(2016)*
 
 Which one of the following statements is correct regarding chronic granulomatous disease ?
 
@@ -5860,12 +3561,10 @@ Which one of the following statements is correct regarding chronic granulomatous
 
 ---
 
-
 ---
 
 ---
-
-### Q315 — common cause of chronic granulomatous disease *(2016)*
+### Q201 — common cause of chronic granulomatous disease *(2016)*
 
 Most common cause of chronic granulomatous disease in children is:
 
@@ -5882,12 +3581,10 @@ Most common cause of chronic granulomatous disease in children is:
 
 ---
 
-
 ---
 
 ---
-
-### Q316 — Delayed umbilical cord detachment leukocytosis is *(2016)*
+### Q202 — Delayed umbilical cord detachment leukocytosis is *(2016)*
 
 Delayed umbilical cord detachment leukocytosis is seen in?
 
@@ -5904,12 +3601,10 @@ Delayed umbilical cord detachment leukocytosis is seen in?
 
 ---
 
-
 ---
 
 ---
-
-### Q317 — are pre-malignant conditions except - *(2016)*
+### Q203 — are pre-malignant conditions except - *(2016)*
 
 All are pre-malignant conditions except -
 
@@ -5926,12 +3621,10 @@ All are pre-malignant conditions except -
 
 ---
 
-
 ---
 
 ---
-
-### Q318 — Strawberry gums are seen in *(2016)*
+### Q204 — Strawberry gums are seen in *(2016)*
 
 Strawberry gums are seen in
 
@@ -5948,12 +3641,10 @@ Strawberry gums are seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q319 — Strawberry gingivitis seen in *(2016)*
+### Q205 — Strawberry gingivitis seen in *(2016)*
 
 Strawberry gingivitis seen in
 
@@ -5970,12 +3661,10 @@ Strawberry gingivitis seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q320 — Heinz bodies are removed by *(2016)*
+### Q206 — Heinz bodies are removed by *(2016)*
 
 Heinz bodies are removed by?
 
@@ -5992,12 +3681,10 @@ Heinz bodies are removed by?
 
 ---
 
-
 ---
 
 ---
-
-### Q321 — of the following statements about Burkitts *(2016)*
+### Q207 — of the following statements about Burkitts *(2016)*
 
 All of the following statements about Burkitt's lymphoma are true, Except:
 
@@ -6014,12 +3701,10 @@ All of the following statements about Burkitt's lymphoma are true, Except:
 
 ---
 
-
 ---
 
 ---
-
-### Q322 — Oncogene associated with burkitts lymphoma is *(2016)*
+### Q208 — Oncogene associated with burkitts lymphoma is *(2016)*
 
 Oncogene associated with burkitt's lymphoma is:
 
@@ -6036,12 +3721,10 @@ Oncogene associated with burkitt's lymphoma is:
 
 ---
 
-
 ---
 
 ---
-
-### Q323 — Cag A gene is associated with *(2016)*
+### Q209 — Cag A gene is associated with *(2016)*
 
 Cag A gene is associated with
 
@@ -6058,12 +3741,10 @@ Cag A gene is associated with
 
 ---
 
-
 ---
 
 ---
-
-### Q324 — Richters syndrome refers to which of *(2016)*
+### Q210 — Richters syndrome refers to which of *(2016)*
 
 Richter’s syndrome refers to which of the following malignant transformation?
 
@@ -6080,12 +3761,10 @@ Richter’s syndrome refers to which of the following malignant transformation?
 
 ---
 
-
 ---
 
 ---
-
-### Q325 — Granulomatous lung disease is caused by *(2016)*
+### Q211 — Granulomatous lung disease is caused by *(2016)*
 
 Granulomatous lung disease is caused by?
 
@@ -6102,12 +3781,10 @@ Granulomatous lung disease is caused by?
 
 ---
 
-
 ---
 
 ---
-
-### Q326 — Deficiency of p53 mutation is maximum *(2016)*
+### Q212 — Deficiency of p53 mutation is maximum *(2016)*
 
 Deficiency of p53 mutation is maximum in which lung carcinoma?
 
@@ -6124,12 +3801,10 @@ Deficiency of p53 mutation is maximum in which lung carcinoma?
 
 ---
 
-
 ---
 
 ---
-
-### Q327 — type of paraneoplastic syndrome is most *(2016)*
+### Q213 — type of paraneoplastic syndrome is most *(2016)*
 
 Which type of paraneoplastic syndrome is most commonly associated with lung carcinoma?
 
@@ -6146,12 +3821,10 @@ Which type of paraneoplastic syndrome is most commonly associated with lung carc
 
 ---
 
-
 ---
 
 ---
-
-### Q328 — common cause of chylothorax is *(2016)*
+### Q214 — common cause of chylothorax is *(2016)*
 
 Most common cause of chylothorax is?
 
@@ -6168,12 +3841,10 @@ Most common cause of chylothorax is?
 
 ---
 
-
 ---
 
 ---
-
-### Q329 — common type of pneumoconiosis associated with *(2016)*
+### Q215 — common type of pneumoconiosis associated with *(2016)*
 
 Most common type of pneumoconiosis, associated with TB is?
 
@@ -6190,12 +3861,10 @@ Most common type of pneumoconiosis, associated with TB is?
 
 ---
 
-
 ---
 
 ---
-
-### Q330 — Anthracosis is due to inhalation of- *(2016)*
+### Q216 — Anthracosis is due to inhalation of- *(2016)*
 
 Anthracosis is due to inhalation of-
 
@@ -6212,12 +3881,10 @@ Anthracosis is due to inhalation of-
 
 ---
 
-
 ---
 
 ---
-
-### Q331 — Chronic bronchitis is associated with *(2016)*
+### Q217 — Chronic bronchitis is associated with *(2016)*
 
 Chronic bronchitis is associated with?
 
@@ -6234,12 +3901,10 @@ Chronic bronchitis is associated with?
 
 ---
 
-
 ---
 
 ---
-
-### Q332 — Histopathology showing large cells with plant *(2016)*
+### Q218 — Histopathology showing large cells with plant *(2016)*
 
 Histopathology showing large cells with plant like apperance with perinuclear halo is seen in which type of renal cell carcinoma ?
 
@@ -6256,12 +3921,10 @@ Histopathology showing large cells with plant like apperance with perinuclear ha
 
 ---
 
-
 ---
 
 ---
-
-### Q333 — True about RCC is *(2016)*
+### Q219 — True about RCC is *(2016)*
 
 True about RCC is?
 
@@ -6278,12 +3941,10 @@ True about RCC is?
 
 ---
 
-
 ---
 
 ---
-
-### Q334 — is responsible for regeneration of liver *(2016)*
+### Q220 — is responsible for regeneration of liver *(2016)*
 
 What is responsible for regeneration of liver cells?
 
@@ -6300,12 +3961,10 @@ What is responsible for regeneration of liver cells?
 
 ---
 
-
 ---
 
 ---
-
-### Q335 — Bridging necrosis is characteristically seen in *(2016)*
+### Q221 — Bridging necrosis is characteristically seen in *(2016)*
 
 Bridging necrosis is characteristically seen in:
 
@@ -6322,12 +3981,10 @@ Bridging necrosis is characteristically seen in:
 
 ---
 
-
 ---
 
 ---
-
-### Q336 — Normally squamo-columnar junction is usually locat *(2016)*
+### Q222 — Normally squamo-columnar junction is usually locat *(2016)*
 
 Normally squamo-columnar junction is usually located at
 
@@ -6344,12 +4001,10 @@ Normally squamo-columnar junction is usually located at
 
 ---
 
-
 ---
 
 ---
-
-### Q337 — Carcinoma associated most commonly with upper *(2016)*
+### Q223 — Carcinoma associated most commonly with upper *(2016)*
 
 Carcinoma associated most commonly with upper one third of esophagus is
 
@@ -6366,12 +4021,10 @@ Carcinoma associated most commonly with upper one third of esophagus is
 
 ---
 
-
 ---
 
 ---
-
-### Q338 — Autoimmune gastritis is associated with deficiency *(2016)*
+### Q224 — Autoimmune gastritis is associated with deficiency *(2016)*
 
 Autoimmune gastritis is associated with deficiency of vitamin?
 
@@ -6388,12 +4041,10 @@ Autoimmune gastritis is associated with deficiency of vitamin?
 
 ---
 
-
 ---
 
 ---
-
-### Q339 — Blood group most commonly associated with *(2016)*
+### Q225 — Blood group most commonly associated with *(2016)*
 
 Blood group most commonly associated with gastric carcinoma is?
 
@@ -6410,12 +4061,10 @@ Blood group most commonly associated with gastric carcinoma is?
 
 ---
 
-
 ---
 
 ---
-
-### Q340 — disease is diagnosed by jejunal biopsy *(2016)*
+### Q226 — disease is diagnosed by jejunal biopsy *(2016)*
 
 Which disease is diagnosed by jejunal biopsy?
 
@@ -6432,12 +4081,10 @@ Which disease is diagnosed by jejunal biopsy?
 
 ---
 
-
 ---
 
 ---
-
-### Q341 — commonest benign tumor of the esophagus *(2016)*
+### Q227 — commonest benign tumor of the esophagus *(2016)*
 
 commonest benign tumor of the esophagus?
 
@@ -6454,12 +4101,10 @@ commonest benign tumor of the esophagus?
 
 ---
 
-
 ---
 
 ---
-
-### Q342 — Total colonic aganglionosis is a variant *(2016)*
+### Q228 — Total colonic aganglionosis is a variant *(2016)*
 
 Total colonic aganglionosis is a variant of?
 
@@ -6476,12 +4121,10 @@ Total colonic aganglionosis is a variant of?
 
 ---
 
-
 ---
 
 ---
-
-### Q343 — APC gene is involved in *(2016)*
+### Q229 — APC gene is involved in *(2016)*
 
 APC gene is involved in?
 
@@ -6498,12 +4141,10 @@ APC gene is involved in?
 
 ---
 
-
 ---
 
 ---
-
-### Q344 — False about Patterson-Kelly-Brown syndrome is *(2016)*
+### Q230 — False about Patterson-Kelly-Brown syndrome is *(2016)*
 
 False about Patterson-Kelly-Brown syndrome is?
 
@@ -6520,12 +4161,10 @@ False about Patterson-Kelly-Brown syndrome is?
 
 ---
 
-
 ---
 
 ---
-
-### Q345 — common site for carcinoma pharynx in *(2016)*
+### Q231 — common site for carcinoma pharynx in *(2016)*
 
 Most common site for carcinoma pharynx in females suffering from plummer vinson syndrome is
 
@@ -6542,12 +4181,10 @@ Most common site for carcinoma pharynx in females suffering from plummer vinson 
 
 ---
 
-
 ---
 
 ---
-
-### Q346 — Commonest following carcinoma that can cause *(2016)*
+### Q232 — Commonest following carcinoma that can cause *(2016)*
 
 Commonest following? carcinoma that can cause splenic metastasis is which of the
 
@@ -6564,12 +4201,10 @@ Commonest following? carcinoma that can cause splenic metastasis is which of the
 
 ---
 
-
 ---
 
 ---
-
-### Q347 — of the following would be the *(2016)*
+### Q233 — of the following would be the *(2016)*
 
 Which of the following would be the best morphological feature to distinguish ulcerative colitis from Crohn's disease?
 
@@ -6586,12 +4221,10 @@ Which of the following would be the best morphological feature to distinguish ul
 
 ---
 
-
 ---
 
 ---
-
-### Q348 — Penile carcinoma is usually *(2016)*
+### Q234 — Penile carcinoma is usually *(2016)*
 
 Penile carcinoma is usually?
 
@@ -6608,12 +4241,10 @@ Penile carcinoma is usually?
 
 ---
 
-
 ---
 
 ---
-
-### Q349 — Stain used for staining the nucleus *(2016)*
+### Q235 — Stain used for staining the nucleus *(2016)*
 
 Stain used for staining the nucleus is?
 
@@ -6630,12 +4261,10 @@ Stain used for staining the nucleus is?
 
 ---
 
-
 ---
 
 ---
-
-### Q350 — Choroid metastasis is associated most commonly *(2016)*
+### Q236 — Choroid metastasis is associated most commonly *(2016)*
 
 Choroid metastasis is associated most commonly with?
 
@@ -6652,12 +4281,10 @@ Choroid metastasis is associated most commonly with?
 
 ---
 
-
 ---
 
 ---
-
-### Q351 — of the following statements about the *(2016)*
+### Q237 — of the following statements about the *(2016)*
 
 Which of the following statements about the pathology in Alzheimer's disease is not true:
 
@@ -6674,12 +4301,10 @@ Which of the following statements about the pathology in Alzheimer's disease is 
 
 ---
 
-
 ---
 
 ---
-
-### Q352 — Metastasis to thyroid comes from which *(2016)*
+### Q238 — Metastasis to thyroid comes from which *(2016)*
 
 Metastasis to thyroid comes from which primary site of malignancy?
 
@@ -6696,12 +4321,10 @@ Metastasis to thyroid comes from which primary site of malignancy?
 
 ---
 
-
 ---
 
 ---
-
-### Q353 — of the following is the most *(2016)*
+### Q239 — of the following is the most *(2016)*
 
 Which of the following is the most common mutation in Ewing's sarcoma -
 
@@ -6718,12 +4341,10 @@ Which of the following is the most common mutation in Ewing's sarcoma -
 
 ---
 
-
 ---
 
 ---
-
-### Q354 — Least desmoplastic breast carcinoma is *(2016)*
+### Q240 — Least desmoplastic breast carcinoma is *(2016)*
 
 Least desmoplastic breast carcinoma is
 
@@ -6740,12 +4361,10 @@ Least desmoplastic breast carcinoma is
 
 ---
 
-
 ---
 
 ---
-
-### Q355 — Marker for neuroblastoma among the following *(2016)*
+### Q241 — Marker for neuroblastoma among the following *(2016)*
 
 Marker for neuroblastoma among the following is?
 
@@ -6762,12 +4381,10 @@ Marker for neuroblastoma among the following is?
 
 ---
 
-
 ---
 
 ---
-
-### Q356 — Thymic hyperplasia is seen in *(2016)*
+### Q242 — Thymic hyperplasia is seen in *(2016)*
 
 Thymic hyperplasia is seen in ?
 
@@ -6784,12 +4401,10 @@ Thymic hyperplasia is seen in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q357 — In Endometrial carcinoma which of the *(2016)*
+### Q243 — In Endometrial carcinoma which of the *(2016)*
 
 In Endometrial carcinoma, which of the following tumor suppressor gene occurs?
 
@@ -6806,12 +4421,10 @@ In Endometrial carcinoma, which of the following tumor suppressor gene occurs?
 
 ---
 
-
 ---
 
 ---
-
-### Q358 — Stain used for tubulin is *(2016)*
+### Q244 — Stain used for tubulin is *(2016)*
 
 Stain used for tubulin is
 
@@ -6828,12 +4441,10 @@ Stain used for tubulin is
 
 ---
 
-
 ---
 
 ---
-
-### Q359 — X-linked adrenoleukodystrophy is *(2016)*
+### Q245 — X-linked adrenoleukodystrophy is *(2016)*
 
 X-linked adrenoleukodystrophy is
 
@@ -6850,12 +4461,10 @@ X-linked adrenoleukodystrophy is
 
 ---
 
-
 ---
 
 ---
-
-### Q360 — Chromosome for MEN2 gene is *(2016)*
+### Q246 — Chromosome for MEN2 gene is *(2016)*
 
 Chromosome for MEN2 gene is
 
@@ -6872,12 +4481,10 @@ Chromosome for MEN2 gene is
 
 ---
 
-
 ---
 
 ---
-
-### Q361 — Hob nail appearance is seen in *(2016)*
+### Q247 — Hob nail appearance is seen in *(2016)*
 
 Hob nail appearance is seen in
 
@@ -6894,12 +4501,10 @@ Hob nail appearance is seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q362 — Sphenoid dysplasia is seen in *(2016)*
+### Q248 — Sphenoid dysplasia is seen in *(2016)*
 
 Sphenoid dysplasia is seen in?
 
@@ -6916,12 +4521,10 @@ Sphenoid dysplasia is seen in?
 
 ---
 
-
 ---
 
 ---
-
-### Q363 — In a case of Dysgerminoma of *(2016)*
+### Q249 — In a case of Dysgerminoma of *(2016)*
 
 In a case of Dysgerminoma of ovary one of the following tumor markers is likely to be raised :
 
@@ -6938,12 +4541,10 @@ In a case of Dysgerminoma of ovary one of the following tumor markers is likely 
 
 ---
 
-
 ---
 
 ---
-
-### Q364 — common site for ectopic thyroid tissue *(2016)*
+### Q250 — common site for ectopic thyroid tissue *(2016)*
 
 Most common site for ectopic thyroid tissue is?
 
@@ -6960,12 +4561,10 @@ Most common site for ectopic thyroid tissue is?
 
 ---
 
-
 ---
 
 ---
-
-### Q365 — Salivary schintigraphy is useful in *(2016)*
+### Q251 — Salivary schintigraphy is useful in *(2016)*
 
 Salivary schintigraphy is useful in?
 
@@ -6982,12 +4581,10 @@ Salivary schintigraphy is useful in?
 
 ---
 
-
 ---
 
 ---
-
-### Q366 — Trilateral retinoblastoma is *(2016)*
+### Q252 — Trilateral retinoblastoma is *(2016)*
 
 Trilateral retinoblastoma is?
 
@@ -7004,12 +4601,10 @@ Trilateral retinoblastoma is?
 
 ---
 
-
 ---
 
 ---
-
-### Q367 — Hydroxyl ions are destroyed in the *(2016)*
+### Q253 — Hydroxyl ions are destroyed in the *(2016)*
 
 Hydroxyl ions are destroyed in the body by?
 
@@ -7026,12 +4621,10 @@ Hydroxyl ions are destroyed in the body by?
 
 ---
 
-
 ---
 
 ---
-
-### Q368 — of the following drugs is not *(2016)*
+### Q254 — of the following drugs is not *(2016)*
 
 Which of the following drugs is not an inhibitor of P - glycoprotein?
 
@@ -7048,12 +4641,10 @@ Which of the following drugs is not an inhibitor of P - glycoprotein?
 
 ---
 
-
 ---
 
 ---
-
-### Q369 — Tachyphylaxis is seen with which of *(2016)*
+### Q255 — Tachyphylaxis is seen with which of *(2016)*
 
 Tachyphylaxis is seen with which of the following drugs?
 
@@ -7070,12 +4661,10 @@ Tachyphylaxis is seen with which of the following drugs?
 
 ---
 
-
 ---
 
 ---
-
-### Q370 — Oxidation in biotransformation is *(2016)*
+### Q256 — Oxidation in biotransformation is *(2016)*
 
 Oxidation in biotransformation is ?
 
@@ -7092,12 +4681,10 @@ Oxidation in biotransformation is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q371 — of the following drug crosses BBB *(2016)*
+### Q257 — of the following drug crosses BBB *(2016)*
 
 Which of the following drug crosses BBB?
 
@@ -7114,12 +4701,10 @@ Which of the following drug crosses BBB?
 
 ---
 
-
 ---
 
 ---
-
-### Q372 — of the following is not true *(2016)*
+### Q258 — of the following is not true *(2016)*
 
 Which of the following is not true about the action of anticholinergic drugs?
 
@@ -7136,12 +4721,10 @@ Which of the following is not true about the action of anticholinergic drugs?
 
 ---
 
-
 ---
 
 ---
-
-### Q373 — of the following is an example *(2016)*
+### Q259 — of the following is an example *(2016)*
 
 Which of the following is an example of irreversible carbamate?
 
@@ -7158,12 +4741,10 @@ Which of the following is an example of irreversible carbamate?
 
 ---
 
-
 ---
 
 ---
-
-### Q374 — of the following is NOT a *(2016)*
+### Q260 — of the following is NOT a *(2016)*
 
 Which of the following is NOT a side effect of amiodarone?
 
@@ -7180,12 +4761,10 @@ Which of the following is NOT a side effect of amiodarone?
 
 ---
 
-
 ---
 
 ---
-
-### Q375 — side effect of loop diuretics is *(2016)*
+### Q261 — side effect of loop diuretics is *(2016)*
 
 A side effect of loop diuretics is used in ?
 
@@ -7202,12 +4781,10 @@ A side effect of loop diuretics is used in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q376 — of the following antiarrhythmic drugs can *(2016)*
+### Q262 — of the following antiarrhythmic drugs can *(2016)*
 
 Which of the following antiarrhythmic drugs can develop Long QT syndrome?
 
@@ -7224,12 +4801,10 @@ Which of the following antiarrhythmic drugs can develop Long QT syndrome?
 
 ---
 
-
 ---
 
 ---
-
-### Q377 — drug inhibits both cyclooxygenase and lipooxygenas *(2016)*
+### Q263 — drug inhibits both cyclooxygenase and lipooxygenas *(2016)*
 
 Which drug inhibits both cyclooxygenase and lipooxygenase?
 
@@ -7246,12 +4821,10 @@ Which drug inhibits both cyclooxygenase and lipooxygenase?
 
 ---
 
-
 ---
 
 ---
-
-### Q378 — Drug acting on 5HT4 receptor is *(2016)*
+### Q264 — Drug acting on 5HT4 receptor is *(2016)*
 
 Drug acting on 5HT4 receptor is ?
 
@@ -7268,12 +4841,10 @@ Drug acting on 5HT4 receptor is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q379 — Rasburicase is an analogue of *(2016)*
+### Q265 — Rasburicase is an analogue of *(2016)*
 
 Rasburicase is an analogue of ?
 
@@ -7290,12 +4861,10 @@ Rasburicase is an analogue of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q380 — Adverse effect of methysergide is *(2016)*
+### Q266 — Adverse effect of methysergide is *(2016)*
 
 Adverse effect of methysergide is ?
 
@@ -7312,12 +4881,10 @@ Adverse effect of methysergide is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q381 — Anti-inflammatory actions of corticosteroids are m *(2016)*
+### Q267 — Anti-inflammatory actions of corticosteroids are m *(2016)*
 
 Anti-inflammatory actions of corticosteroids are mediated by ?
 
@@ -7334,12 +4901,10 @@ Anti-inflammatory actions of corticosteroids are mediated by ?
 
 ---
 
-
 ---
 
 ---
-
-### Q382 — of the following is not an *(2016)*
+### Q268 — of the following is not an *(2016)*
 
 Which of the following is not an inhalational steroids?
 
@@ -7356,12 +4921,10 @@ Which of the following is not an inhalational steroids?
 
 ---
 
-
 ---
 
 ---
-
-### Q383 — of the following antithyroid medications had *(2016)*
+### Q269 — of the following antithyroid medications had *(2016)*
 
 Which of the following antithyroid medications had the maximum chances of causing agranulocytosis?
 
@@ -7378,12 +4941,10 @@ Which of the following antithyroid medications had the maximum chances of causin
 
 ---
 
-
 ---
 
 ---
-
-### Q384 — Mifepristone acts on which receptor *(2016)*
+### Q270 — Mifepristone acts on which receptor *(2016)*
 
 Mifepristone acts on which receptor?
 
@@ -7400,12 +4961,10 @@ Mifepristone acts on which receptor?
 
 ---
 
-
 ---
 
 ---
-
-### Q385 — Tibolone is a *(2016)*
+### Q271 — Tibolone is a *(2016)*
 
 Tibolone is a ?
 
@@ -7422,12 +4981,10 @@ Tibolone is a ?
 
 ---
 
-
 ---
 
 ---
-
-### Q386 — Danazol acts through *(2016)*
+### Q272 — Danazol acts through *(2016)*
 
 Danazol acts through :?
 
@@ -7444,12 +5001,10 @@ Danazol acts through :?
 
 ---
 
-
 ---
 
 ---
-
-### Q387 — Metyrosine acts by inhibiting *(2016)*
+### Q273 — Metyrosine acts by inhibiting *(2016)*
 
 Metyrosine acts by inhibiting ?
 
@@ -7466,12 +5021,10 @@ Metyrosine acts by inhibiting ?
 
 ---
 
-
 ---
 
 ---
-
-### Q388 — of the following oral hypoglycaemic drugs *(2016)*
+### Q274 — of the following oral hypoglycaemic drugs *(2016)*
 
 Which of the following oral hypoglycaemic drugs has the longest t 1/2 ?
 
@@ -7488,12 +5041,10 @@ Which of the following oral hypoglycaemic drugs has the longest t 1/2 ?
 
 ---
 
-
 ---
 
 ---
-
-### Q389 — Nasally acting GnRH analogue is *(2016)*
+### Q275 — Nasally acting GnRH analogue is *(2016)*
 
 Nasally acting GnRH analogue is ?
 
@@ -7510,12 +5061,10 @@ Nasally acting GnRH analogue is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q390 — of the following drugs halts macrovascular *(2016)*
+### Q276 — of the following drugs halts macrovascular *(2016)*
 
 Which of the following drugs halts macrovascular as well as microvascular effects of DM?
 
@@ -7532,12 +5081,10 @@ Which of the following drugs halts macrovascular as well as microvascular effect
 
 ---
 
-
 ---
 
 ---
-
-### Q391 — of the following are naturally occurring *(2016)*
+### Q277 — of the following are naturally occurring *(2016)*
 
 Which of the following are naturally occurring opioid?
 
@@ -7554,12 +5101,10 @@ Which of the following are naturally occurring opioid?
 
 ---
 
-
 ---
 
 ---
-
-### Q392 — of the following pairs are correct *(2016)*
+### Q278 — of the following pairs are correct *(2016)*
 
 All of the following pairs are correct except ?
 
@@ -7576,12 +5121,10 @@ All of the following pairs are correct except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q393 — of the following is not true *(2016)*
+### Q279 — of the following is not true *(2016)*
 
 Which of the following is not true about benzodiazepines?
 
@@ -7598,12 +5141,10 @@ Which of the following is not true about benzodiazepines?
 
 ---
 
-
 ---
 
 ---
-
-### Q394 — of the following is not true *(2016)*
+### Q280 — of the following is not true *(2016)*
 
 Which of the following is not true about barbiturate?
 
@@ -7620,12 +5161,10 @@ Which of the following is not true about barbiturate?
 
 ---
 
-
 ---
 
 ---
-
-### Q395 — of the following is true about *(2016)*
+### Q281 — of the following is true about *(2016)*
 
 Which of the following is true about ziprasidone?
 
@@ -7642,12 +5181,10 @@ Which of the following is true about ziprasidone?
 
 ---
 
-
 ---
 
 ---
-
-### Q396 — of the following nephrotoxic drugs should *(2016)*
+### Q282 — of the following nephrotoxic drugs should *(2016)*
 
 Which of the following nephrotoxic drugs should be completely avoided in renal failure?
 
@@ -7664,12 +5201,10 @@ Which of the following nephrotoxic drugs should be completely avoided in renal f
 
 ---
 
-
 ---
 
 ---
-
-### Q397 — drug is given in the pain *(2016)*
+### Q283 — drug is given in the pain *(2016)*
 
 Which drug is given in the pain due to diabetic neuropathy?
 
@@ -7686,12 +5221,10 @@ Which drug is given in the pain due to diabetic neuropathy?
 
 ---
 
-
 ---
 
 ---
-
-### Q398 — of the following increases Amphoterecin B *(2016)*
+### Q284 — of the following increases Amphoterecin B *(2016)*
 
 Which of the following increases Amphoterecin B induced nephrotoxicity?
 
@@ -7708,12 +5241,10 @@ Which of the following increases Amphoterecin B induced nephrotoxicity?
 
 ---
 
-
 ---
 
 ---
-
-### Q399 — macrolide is active against Mycobaterium leprae *(2016)*
+### Q285 — macrolide is active against Mycobaterium leprae *(2016)*
 
 Which macrolide is active against Mycobaterium leprae?
 
@@ -7730,12 +5261,10 @@ Which macrolide is active against Mycobaterium leprae?
 
 ---
 
-
 ---
 
 ---
-
-### Q400 — of the following is not true *(2016)*
+### Q286 — of the following is not true *(2016)*
 
 Which of the following is not true about levamisole?
 
@@ -7752,12 +5281,10 @@ Which of the following is not true about levamisole?
 
 ---
 
-
 ---
 
 ---
-
-### Q401 — of the following is a side *(2016)*
+### Q287 — of the following is a side *(2016)*
 
 Which of the following is a side effect of clofazimine?
 
@@ -7774,12 +5301,10 @@ Which of the following is a side effect of clofazimine?
 
 ---
 
-
 ---
 
 ---
-
-### Q402 — For systemic mycosis fluconazole is preferred *(2016)*
+### Q288 — For systemic mycosis fluconazole is preferred *(2016)*
 
 For systemic mycosis fluconazole is preferred over ketoconazole because of -
 
@@ -7796,12 +5321,10 @@ For systemic mycosis fluconazole is preferred over ketoconazole because of -
 
 ---
 
-
 ---
 
 ---
-
-### Q403 — INH hepatotoxicity is due to which *(2016)*
+### Q289 — INH hepatotoxicity is due to which *(2016)*
 
 INH hepatotoxicity is due to which compound?
 
@@ -7818,12 +5341,10 @@ INH hepatotoxicity is due to which compound?
 
 ---
 
-
 ---
 
 ---
-
-### Q404 — is the effect of co administration *(2016)*
+### Q290 — is the effect of co administration *(2016)*
 
 What is the effect of co administration of rifampicin and ritonavir in patients suffering from AIDS?
 
@@ -7840,12 +5361,10 @@ What is the effect of co administration of rifampicin and ritonavir in patients 
 
 ---
 
-
 ---
 
 ---
-
-### Q405 — of the following antilipidemic drug is *(2016)*
+### Q291 — of the following antilipidemic drug is *(2016)*
 
 Which of the following antilipidemic drug is a sterol absorption inhibitor?
 
@@ -7862,12 +5381,10 @@ Which of the following antilipidemic drug is a sterol absorption inhibitor?
 
 ---
 
-
 ---
 
 ---
-
-### Q406 — Not an adverse effect of cimetidine *(2016)*
+### Q292 — Not an adverse effect of cimetidine *(2016)*
 
 Not an adverse effect of cimetidine ?
 
@@ -7884,12 +5401,10 @@ Not an adverse effect of cimetidine ?
 
 ---
 
-
 ---
 
 ---
-
-### Q407 — Use of metoclopramide beyond weeks increases *(2016)*
+### Q293 — Use of metoclopramide beyond weeks increases *(2016)*
 
 Use of metoclopramide beyond weeks increases the chances of tardive dyskinesia ?
 
@@ -7906,12 +5421,10 @@ Use of metoclopramide beyond weeks increases the chances of tardive dyskinesia ?
 
 ---
 
-
 ---
 
 ---
-
-### Q408 — two molecules of Aminosalicylate coupled via *(2016)*
+### Q294 — two molecules of Aminosalicylate coupled via *(2016)*
 
 The two molecules of Aminosalicylate coupled via azo bond form?
 
@@ -7928,12 +5441,10 @@ The two molecules of Aminosalicylate coupled via azo bond form?
 
 ---
 
-
 ---
 
 ---
-
-### Q409 — Natural anticancer drug is *(2016)*
+### Q295 — Natural anticancer drug is *(2016)*
 
 Natural anticancer drug is ?
 
@@ -7950,12 +5461,10 @@ Natural anticancer drug is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q410 — Use of HAART is associated with *(2016)*
+### Q296 — Use of HAART is associated with *(2016)*
 
 Use of HAART is associated with hepatotoxicity approximately what percentage of patients?
 
@@ -7972,12 +5481,10 @@ Use of HAART is associated with hepatotoxicity approximately what percentage of 
 
 ---
 
-
 ---
 
 ---
-
-### Q411 — Abraxane is a *(2016)*
+### Q297 — Abraxane is a *(2016)*
 
 Abraxane is a :?
 
@@ -7994,12 +5501,10 @@ Abraxane is a :?
 
 ---
 
-
 ---
 
 ---
-
-### Q412 — Abatacept binds to on T cell *(2016)*
+### Q298 — Abatacept binds to on T cell *(2016)*
 
 Abatacept binds to on T cell surface
 
@@ -8016,12 +5521,10 @@ Abatacept binds to on T cell surface
 
 ---
 
-
 ---
 
 ---
-
-### Q413 — Cardiotmdcity is the side effect of *(2016)*
+### Q299 — Cardiotmdcity is the side effect of *(2016)*
 
 Cardiotmdcity is the side effect of :?
 
@@ -8038,12 +5541,10 @@ Cardiotmdcity is the side effect of :?
 
 ---
 
-
 ---
 
 ---
-
-### Q414 — Estramustine is a combination of *(2016)*
+### Q300 — Estramustine is a combination of *(2016)*
 
 Estramustine is a combination of ?
 
@@ -8060,12 +5561,10 @@ Estramustine is a combination of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q415 — Cetuximab is used to treat *(2016)*
+### Q301 — Cetuximab is used to treat *(2016)*
 
 Cetuximab is used to treat ?
 
@@ -8082,12 +5581,10 @@ Cetuximab is used to treat ?
 
 ---
 
-
 ---
 
 ---
-
-### Q416 — of the following is not an *(2016)*
+### Q302 — of the following is not an *(2016)*
 
 Which of the following is not an adverse effect of cyclophosphamide?
 
@@ -8104,12 +5601,10 @@ Which of the following is not an adverse effect of cyclophosphamide?
 
 ---
 
-
 ---
 
 ---
-
-### Q417 — Adverse effect of the imatinib are *(2016)*
+### Q303 — Adverse effect of the imatinib are *(2016)*
 
 Adverse effect of the imatinib are all except ?
 
@@ -8126,12 +5621,10 @@ Adverse effect of the imatinib are all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q418 — Defect in discriminating blue green vision *(2016)*
+### Q304 — Defect in discriminating blue green vision *(2016)*
 
 Defect in discriminating blue green vision is due to which drug :?
 
@@ -8148,12 +5641,10 @@ Defect in discriminating blue green vision is due to which drug :?
 
 ---
 
-
 ---
 
 ---
-
-### Q419 — Racecadotril is used for *(2016)*
+### Q305 — Racecadotril is used for *(2016)*
 
 Racecadotril is used for?
 
@@ -8170,12 +5661,10 @@ Racecadotril is used for?
 
 ---
 
-
 ---
 
 ---
-
-### Q420 — of the following drugs is associated *(2016)*
+### Q306 — of the following drugs is associated *(2016)*
 
 Which of the following drugs is associated with priapism?
 
@@ -8192,12 +5681,10 @@ Which of the following drugs is associated with priapism?
 
 ---
 
-
 ---
 
 ---
-
-### Q421 — of the following is a Cl- *(2016)*
+### Q307 — of the following is a Cl- *(2016)*
 
 Which of the following is a Cl- channel activator?
 
@@ -8214,12 +5701,10 @@ Which of the following is a Cl- channel activator?
 
 ---
 
-
 ---
 
 ---
-
-### Q422 — Acamprostate is used for *(2016)*
+### Q308 — Acamprostate is used for *(2016)*
 
 Acamprostate is used for ?
 
@@ -8236,12 +5721,10 @@ Acamprostate is used for ?
 
 ---
 
-
 ---
 
 ---
-
-### Q423 — If a woman is assaulted by *(2016)*
+### Q309 — If a woman is assaulted by *(2016)*
 
 If a woman is assaulted by her husband then he is charged under: FMGE 11
 
@@ -8258,12 +5741,10 @@ If a woman is assaulted by her husband then he is charged under: FMGE 11
 
 ---
 
-
 ---
 
 ---
-
-### Q424 — Adultery is described under which section *(2016)*
+### Q310 — Adultery is described under which section *(2016)*
 
 Adultery is described under which section of IPC?
 
@@ -8280,12 +5761,10 @@ Adultery is described under which section of IPC?
 
 ---
 
-
 ---
 
 ---
-
-### Q425 — Use of dangerous weapon is related *(2016)*
+### Q311 — Use of dangerous weapon is related *(2016)*
 
 Use of dangerous weapon is related to which section of IPC?
 
@@ -8302,12 +5781,10 @@ Use of dangerous weapon is related to which section of IPC?
 
 ---
 
-
 ---
 
 ---
-
-### Q426 — Grievous hurt comes under which section *(2016)*
+### Q312 — Grievous hurt comes under which section *(2016)*
 
 Grievous hurt comes under which section of IPC?
 
@@ -8324,12 +5801,10 @@ Grievous hurt comes under which section of IPC?
 
 ---
 
-
 ---
 
 ---
-
-### Q427 — Outraging modesty of women is which *(2016)*
+### Q313 — Outraging modesty of women is which *(2016)*
 
 Outraging modesty of women is which section of IPC?
 
@@ -8346,12 +5821,10 @@ Outraging modesty of women is which section of IPC?
 
 ---
 
-
 ---
 
 ---
-
-### Q428 — Section 89 IPC is for *(2016)*
+### Q314 — Section 89 IPC is for *(2016)*
 
 Section 89 IPC is for?
 
@@ -8368,12 +5841,10 @@ Section 89 IPC is for?
 
 ---
 
-
 ---
 
 ---
-
-### Q429 — person is declared dead if heshe *(2016)*
+### Q315 — person is declared dead if heshe *(2016)*
 
 A person is declared dead if he/she is not found for
 
@@ -8390,12 +5861,10 @@ A person is declared dead if he/she is not found for
 
 ---
 
-
 ---
 
 ---
-
-### Q430 — First carpal bone to appear is *(2016)*
+### Q316 — First carpal bone to appear is *(2016)*
 
 First carpal bone to appear is?
 
@@ -8412,12 +5881,10 @@ First carpal bone to appear is?
 
 ---
 
-
 ---
 
 ---
-
-### Q431 — Ossification centre of scaphoid appears at *(2016)*
+### Q317 — Ossification centre of scaphoid appears at *(2016)*
 
 Ossification centre of scaphoid appears at
 
@@ -8434,12 +5901,10 @@ Ossification centre of scaphoid appears at
 
 ---
 
-
 ---
 
 ---
-
-### Q432 — Holograph will is defined as *(2016)*
+### Q318 — Holograph will is defined as *(2016)*
 
 Holograph will is defined as
 
@@ -8456,12 +5921,10 @@ Holograph will is defined as
 
 ---
 
-
 ---
 
 ---
-
-### Q433 — Subpubic angle is *(2016)*
+### Q319 — Subpubic angle is *(2016)*
 
 Subpubic angle is :
 
@@ -8478,12 +5941,10 @@ Subpubic angle is :
 
 ---
 
-
 ---
 
 ---
-
-### Q434 — Obtuse angle of mandible is seen *(2016)*
+### Q320 — Obtuse angle of mandible is seen *(2016)*
 
 Obtuse angle of mandible is seen in
 
@@ -8500,12 +5961,10 @@ Obtuse angle of mandible is seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q435 — First incisor to erupt is *(2016)*
+### Q321 — First incisor to erupt is *(2016)*
 
 First incisor to erupt is
 
@@ -8522,12 +5981,10 @@ First incisor to erupt is
 
 ---
 
-
 ---
 
 ---
-
-### Q436 — baby has stated to get his *(2016)*
+### Q322 — baby has stated to get his *(2016)*
 
 A baby has stated to get his first milk teeth. His age is approximately:
 
@@ -8544,12 +6001,10 @@ A baby has stated to get his first milk teeth. His age is approximately:
 
 ---
 
-
 ---
 
 ---
-
-### Q437 — X-ray of choice for age detection *(2016)*
+### Q323 — X-ray of choice for age detection *(2016)*
 
 X-ray of choice for age detection at around 16-17 years of age
 
@@ -8566,12 +6021,10 @@ X-ray of choice for age detection at around 16-17 years of age
 
 ---
 
-
 ---
 
 ---
-
-### Q438 — Post mortem staining gets fixed after *(2016)*
+### Q324 — Post mortem staining gets fixed after *(2016)*
 
 Post mortem staining gets fixed after :
 
@@ -8588,12 +6041,10 @@ Post mortem staining gets fixed after :
 
 ---
 
-
 ---
 
 ---
-
-### Q439 — Suggilation is due to which of *(2016)*
+### Q325 — Suggilation is due to which of *(2016)*
 
 Suggilation is due to which of the following?
 
@@ -8610,12 +6061,10 @@ Suggilation is due to which of the following?
 
 ---
 
-
 ---
 
 ---
-
-### Q440 — First sign of maceration is *(2016)*
+### Q326 — First sign of maceration is *(2016)*
 
 First sign of maceration is
 
@@ -8632,12 +6081,10 @@ First sign of maceration is
 
 ---
 
-
 ---
 
 ---
-
-### Q441 — According to Caspers dictum decomposition is *(2016)*
+### Q327 — According to Caspers dictum decomposition is *(2016)*
 
 According to Casper's dictum, decomposition is the fastest when the body is in which of the following?
 
@@ -8654,12 +6101,10 @@ According to Casper's dictum, decomposition is the fastest when the body is in w
 
 ---
 
-
 ---
 
 ---
-
-### Q442 — Enzyme responsible for postmortem hemolysis is *(2016)*
+### Q328 — Enzyme responsible for postmortem hemolysis is *(2016)*
 
 Enzyme responsible for postmortem hemolysis is
 
@@ -8676,12 +6121,10 @@ Enzyme responsible for postmortem hemolysis is
 
 ---
 
-
 ---
 
 ---
-
-### Q443 — Mummification is enhanced by *(2016)*
+### Q329 — Mummification is enhanced by *(2016)*
 
 Mummification is enhanced by ?
 
@@ -8698,12 +6141,10 @@ Mummification is enhanced by ?
 
 ---
 
-
 ---
 
 ---
-
-### Q444 — Postmortem wound best differs from the *(2016)*
+### Q330 — Postmortem wound best differs from the *(2016)*
 
 Postmortem wound best differs from the antemortem wound by :
 
@@ -8720,12 +6161,10 @@ Postmortem wound best differs from the antemortem wound by :
 
 ---
 
-
 ---
 
 ---
-
-### Q445 — Gun powder on body and clothing *(2016)*
+### Q331 — Gun powder on body and clothing *(2016)*
 
 Gun powder on body and clothing can be visualized by?
 
@@ -8742,12 +6181,10 @@ Gun powder on body and clothing can be visualized by?
 
 ---
 
-
 ---
 
 ---
-
-### Q446 — Laser used in tracheal neoplasm is *(2016)*
+### Q332 — Laser used in tracheal neoplasm is *(2016)*
 
 Laser used in tracheal neoplasm is
 
@@ -8764,12 +6201,10 @@ Laser used in tracheal neoplasm is
 
 ---
 
-
 ---
 
 ---
-
-### Q447 — except one are true for Scleromalacia *(2016)*
+### Q333 — except one are true for Scleromalacia *(2016)*
 
 All except one are true for Scleromalacia perforans
 
@@ -8786,12 +6221,10 @@ All except one are true for Scleromalacia perforans
 
 ---
 
-
 ---
 
 ---
-
-### Q448 — In which of the following intraocular *(2016)*
+### Q334 — In which of the following intraocular *(2016)*
 
 In which of the following, intraocular pressure is very high and inflammation is minimum?
 
@@ -8808,12 +6241,10 @@ In which of the following, intraocular pressure is very high and inflammation is
 
 ---
 
-
 ---
 
 ---
-
-### Q449 — Ankyloblepheron is defined as *(2016)*
+### Q335 — Ankyloblepheron is defined as *(2016)*
 
 Ankyloblepheron is defined as
 
@@ -8830,12 +6261,10 @@ Ankyloblepheron is defined as
 
 ---
 
-
 ---
 
 ---
-
-### Q450 — FEVIFVC is decrease in *(2016)*
+### Q336 — FEVIFVC is decrease in *(2016)*
 
 FEVI/FVC is decrease in:
 
@@ -8852,12 +6281,10 @@ FEVI/FVC is decrease in:
 
 ---
 
-
 ---
 
 ---
-
-### Q451 — Triad of skin lesions mononeuritis multiplex *(2016)*
+### Q337 — Triad of skin lesions mononeuritis multiplex *(2016)*
 
 Triad of skin lesions, mononeuritis multiplex, eosinophils seen in
 
@@ -8874,12 +6301,10 @@ Triad of skin lesions, mononeuritis multiplex, eosinophils seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q452 — Presence of Velcro crackles at the *(2016)*
+### Q338 — Presence of Velcro crackles at the *(2016)*
 
 Presence of Velcro crackles at the lung base on auscultation is a sign of
 
@@ -8896,12 +6321,10 @@ Presence of Velcro crackles at the lung base on auscultation is a sign of
 
 ---
 
-
 ---
 
 ---
-
-### Q453 — Type 3 respiratory failure occurs due *(2016)*
+### Q339 — Type 3 respiratory failure occurs due *(2016)*
 
 Type 3 respiratory failure occurs due to ?
 
@@ -8918,12 +6341,10 @@ Type 3 respiratory failure occurs due to ?
 
 ---
 
-
 ---
 
 ---
-
-### Q454 — Ascitic fluid SAAG  11 what *(2016)*
+### Q340 — Ascitic fluid SAAG  11 what *(2016)*
 
 Ascitic fluid SAAG < 1.1 what is the disease associated with
 
@@ -8940,12 +6361,10 @@ Ascitic fluid SAAG < 1.1 what is the disease associated with
 
 ---
 
-
 ---
 
 ---
-
-### Q455 — Lambert Eaton syndrome true is *(2016)*
+### Q341 — Lambert Eaton syndrome true is *(2016)*
 
 Lambert Eaton syndrome true is
 
@@ -8962,12 +6381,10 @@ Lambert Eaton syndrome true is
 
 ---
 
-
 ---
 
 ---
-
-### Q456 — of the following is not true *(2016)*
+### Q342 — of the following is not true *(2016)*
 
 Which of the following is not true about the development of thyroid tumors in nodular goiter?
 
@@ -8984,12 +6401,10 @@ Which of the following is not true about the development of thyroid tumors in no
 
 ---
 
-
 ---
 
 ---
-
-### Q457 — of the following antineoplastic agents is *(2016)*
+### Q343 — of the following antineoplastic agents is *(2016)*
 
 Which of the following antineoplastic agents is used in the management of Hodgkins lymphoma, non Hodgkins lymphoma and small cell carcinoma of lung?
 
@@ -9006,12 +6421,10 @@ Which of the following antineoplastic agents is used in the management of Hodgki
 
 ---
 
-
 ---
 
 ---
-
-### Q458 — Mantle field radiation was used for *(2016)*
+### Q344 — Mantle field radiation was used for *(2016)*
 
 Mantle field radiation was used for management of -
 
@@ -9028,12 +6441,10 @@ Mantle field radiation was used for management of -
 
 ---
 
-
 ---
 
 ---
-
-### Q459 — Hadfields operation is performed for which *(2016)*
+### Q345 — Hadfields operation is performed for which *(2016)*
 
 Hadfields operation is performed for which of the following pathology?
 
@@ -9050,12 +6461,10 @@ Hadfields operation is performed for which of the following pathology?
 
 ---
 
-
 ---
 
 ---
-
-### Q460 — Previous radition therapy for which disease *(2016)*
+### Q346 — Previous radition therapy for which disease *(2016)*
 
 Previous radition therapy for which disease particulary increases the risk of breast carcinoma development?
 
@@ -9072,12 +6481,10 @@ Previous radition therapy for which disease particulary increases the risk of br
 
 ---
 
-
 ---
 
 ---
-
-### Q461 — True about small intestinal tumor is *(2016)*
+### Q347 — True about small intestinal tumor is *(2016)*
 
 True about small intestinal tumor is -
 
@@ -9094,12 +6501,10 @@ True about small intestinal tumor is -
 
 ---
 
-
 ---
 
 ---
-
-### Q462 — Meconium ileus is associated with *(2016)*
+### Q348 — Meconium ileus is associated with *(2016)*
 
 Meconium ileus is associated with:
 
@@ -9116,12 +6521,10 @@ Meconium ileus is associated with:
 
 ---
 
-
 ---
 
 ---
-
-### Q463 — of the following is not true *(2016)*
+### Q349 — of the following is not true *(2016)*
 
 Which of the following is not true about impingement syndrome?
 
@@ -9138,12 +6541,10 @@ Which of the following is not true about impingement syndrome?
 
 ---
 
-
 ---
 
 ---
-
-### Q464 — are features of inflammatory arthritis except *(2016)*
+### Q350 — are features of inflammatory arthritis except *(2016)*
 
 All are features of inflammatory arthritis except?
 
@@ -9160,12 +6561,10 @@ All are features of inflammatory arthritis except?
 
 ---
 
-
 ---
 
 ---
-
-### Q465 — False about osteoarthritis is *(2016)*
+### Q351 — False about osteoarthritis is *(2016)*
 
 False about osteoarthritis is ?
 
@@ -9182,12 +6581,10 @@ False about osteoarthritis is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q466 — Therapeutic conization is indicated in *(2016)*
+### Q352 — Therapeutic conization is indicated in *(2016)*
 
 Therapeutic conization is indicated in?
 
@@ -9204,12 +6601,10 @@ Therapeutic conization is indicated in?
 
 ---
 
-
 ---
 
 ---
-
-### Q467 — Samsons theory for Development of Endometriosis *(2016)*
+### Q353 — Samsons theory for Development of Endometriosis *(2016)*
 
 Samson's theory for Development of Endometriosis is ?
 
@@ -9226,12 +6621,10 @@ Samson's theory for Development of Endometriosis is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q468 — Residual Hypopigmentation following a drug reactio *(2016)*
+### Q354 — Residual Hypopigmentation following a drug reactio *(2016)*
 
 Residual Hypopigmentation following a drug reaction, is best known as?
 
@@ -9248,16 +6641,643 @@ Residual Hypopigmentation following a drug reaction, is best known as?
 
 ---
 
-
-
 ---
 
 ---
-
 
 ## Year 2017
 
-### Q469 — Microbial cause of catheter infection in young
+### Q355 — CD59 marker of which disease *(2017)*
+
+CD59 marker of which disease
+
+- A. PNH
+- B. PTEN
+- C. BRR
+- D. Cowden syndrome
+
+<details><summary>Answer</summary>
+
+**A. PNH**
+
+</details>
+
+---
+
+---
+### Q356 — Opsonin is *(2017)*
+
+Opsonin is
+
+- A. C3a
+- B. C3b
+- C. C5a
+- D. C6
+
+<details><summary>Answer</summary>
+
+**B. C3b**
+
+</details>
+
+---
+
+---
+### Q357 — BernardSoulier syndrome due to deficiency of *(2017)*
+
+Bernard–Soulier syndrome due to deficiency of
+
+- A. Gp 2b/3a
+- B. Gp 1b
+- C. vWf
+- D. TNF
+
+<details><summary>Answer</summary>
+
+**B. Gp 1b**
+
+</details>
+
+---
+
+---
+### Q358 — Cowden syndrome *(2017)*
+
+Cowden syndrome
+
+- A. P53
+- B. PTEN
+- C. Rb
+- D. Ras
+
+<details><summary>Answer</summary>
+
+**B. PTEN**
+
+</details>
+
+---
+
+---
+### Q359 — Chromosome involved in myotonic dystrophy is *(2017)*
+
+Chromosome involved in myotonic dystrophy is
+
+- A. Chromosome 19
+- B. Chromosome 20
+- C. Chromosome 21
+- D. Chromosome 22
+
+<details><summary>Answer</summary>
+
+**A. Chromosome 19**
+
+</details>
+
+---
+
+---
+### Q360 — Kidney responds to shock by *(2017)*
+
+Kidney responds to shock by
+
+- A. Decreases renal blood flow
+- B. Increases afferent arteriole resistance
+- C. GFR remains unaltered
+- D. Perfusion of kidney increases
+
+<details><summary>Answer</summary>
+
+**B. Increases afferent arteriole resistance**
+
+</details>
+
+---
+
+---
+### Q361 — H And L variety seen in *(2017)*
+
+H And L variety seen in
+
+- A. Mixed cellularity hodgkin
+- B. Lymphocyte depleted
+- C. Lymphocyte predominance
+- D. Nodular sclerosis
+
+<details><summary>Answer</summary>
+
+**C. Lymphocyte predominance**
+
+</details>
+
+---
+
+---
+### Q362 — Stellate granuloma seen in *(2017)*
+
+Stellate granuloma seen in
+
+- A. Sarcoidosis
+- B. Cat scratch disease
+- C. Cryptococcosis
+- D. Histoplasmosis
+
+<details><summary>Answer</summary>
+
+**B. Cat scratch disease**
+
+</details>
+
+---
+
+---
+### Q363 — Nude mice is not resistant to *(2017)*
+
+Nude mice is not resistant to xenograft due to absence of
+
+- A. B cell
+- B. T cell
+- C. Both b and t cell
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. T cell**
+
+</details>
+
+---
+
+---
+### Q364 — Anaplasia is *(2017)*
+
+Anaplasia is
+
+- A. Changing one type of epithelium to another
+- B. Nuclear chromatin
+- C. Lack of differentiation
+- D. Morphological changes
+
+<details><summary>Answer</summary>
+
+**C. Lack of differentiation**
+
+</details>
+
+---
+
+---
+### Q365 — Which level of prolactin definitely suggest *(2017)*
+
+Which level of prolactin definitely suggest prolactinoma
+
+- A. 200 ng/ml
+- B. 150 ng/ml
+- C. 50 ng/ml
+- D. 100 ng/ml
+
+<details><summary>Answer</summary>
+
+**C. 50 ng/ml**
+
+</details>
+
+---
+
+---
+### Q366 — Laxative abuse causes which of the *(2017)*
+
+Laxative abuse causes which of the following renal stones ?
+
+- A. Uric acid
+- B. Ammonium urate
+- C. Struvite
+- D. Ca oxalate
+
+<details><summary>Answer</summary>
+
+**B. Ammonium urate**
+
+</details>
+
+---
+
+---
+### Q367 — Which of the following can result *(2017)*
+
+Which of the following can result in dactylitis
+
+- A. Hemophilia
+- B. Von willebrand disease 1
+- C. Measles
+- D. Sickle Cell Anemia
+
+<details><summary>Answer</summary>
+
+**D. Sickle Cell Anemia**
+
+</details>
+
+---
+
+---
+### Q368 — What is the structure seen in *(2017)*
+
+What is the structure seen in the given X-ray below?
+
+- A. Stent
+- B. Surgical clips
+- C. Foley catheter
+- D. Intravesical wire
+
+<details><summary>Answer</summary>
+
+**A. Stent**
+
+</details>
+
+---
+
+---
+### Q369 — What is the diagnosis based on *(2017)*
+
+What is the diagnosis based on the following X-ray?
+
+- A. Uterine Fibroid
+- B. Bladder Carcinoma
+- C. Bladder stone
+- D. Renal Tuberculosis
+
+<details><summary>Answer</summary>
+
+**C. Bladder stone**
+
+</details>
+
+---
+
+---
+### Q370 — By which method foreign DNA is *(2017)*
+
+By which method foreign DNA is introduced into a cell by a virus or viral vector?
+
+- A. Transduction
+- B. Transcription
+- C. Lysogenic conversion
+- D. Transformation
+
+<details><summary>Answer</summary>
+
+**A. Transduction**
+
+</details>
+
+---
+
+---
+### Q371 — Which one of the following shows *(2017)*
+
+Which one of the following shows allosteric inhibition?
+
+- A. Malonic acid & succinate
+- B. 2,3 BPG
+- C. Amino acid alanine & pyruvate kinase
+- D. Citrate
+
+<details><summary>Answer</summary>
+
+**B. 2,3 BPG**
+
+</details>
+
+---
+
+---
+### Q372 — Which of the following is seen *(2017)*
+
+Which of the following is seen in seropositive rheumatoid arthritis?
+
+- A. Multiple joints affected
+- B. Symmetrical joint symptoms
+- C. Joint pain and swelling
+- D. All
+
+<details><summary>Answer</summary>
+
+**D. All**
+
+</details>
+
+---
+
+---
+### Q373 — Which of the following is not *(2017)*
+
+Which of the following is not seen in Anterior mediastinum
+
+- A. Thyroid tumour
+- B. Thymoma
+- C. Lymphoma
+- D. Neurogenic tumor
+
+<details><summary>Answer</summary>
+
+**D. Neurogenic tumor**
+
+</details>
+
+---
+
+---
+### Q374 — Which of the following statements about *(2017)*
+
+Which of the following statements about Graves disease is false?
+
+- A. Results in hyperthyroidism
+- B. Autoimmune disorder
+- C. Common in Male
+- D. Referred as Toxic diffuse goitre
+
+<details><summary>Answer</summary>
+
+**C. Common in Male**
+
+</details>
+
+---
+
+---
+### Q375 — Aldosterone synthesis is stimulated by which *(2017)*
+
+Aldosterone synthesis is stimulated by which of the following?
+
+- A. ACTH
+- B. Hyperkalemia
+- C. Hypernatremia
+- D. Exogenous steroids
+
+<details><summary>Answer</summary>
+
+**B. Hyperkalemia**
+
+</details>
+
+---
+
+---
+### Q376 — Which of the following is false *(2017)*
+
+Which of the following is false about Alzheimer's disease?
+
+- A. One in 10 people age 65 and older has Alzheimer’s disease.
+- B. Alzheimer’s disease is curable.
+- C. Cause dementia
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Alzheimer’s disease is curable.**
+
+</details>
+
+---
+
+---
+### Q377 — Which drugs needs continuous monitoring of *(2017)*
+
+Which drugs needs continuous monitoring of prothrombin time?
+
+- A. Aspirin
+- B. Lepirudin
+- C. Digoxin
+- D. Coumadin
+
+<details><summary>Answer</summary>
+
+**D. Coumadin**
+
+</details>
+
+---
+
+---
+### Q378 — Which of the following are the *(2017)*
+
+Which of the following are the risk factor for cutaneous lymphoma?
+
+- A. Age
+- B. Gender
+- C. Weakened immune system
+- D. All
+
+<details><summary>Answer</summary>
+
+**D. All**
+
+</details>
+
+---
+
+---
+### Q379 — Which is not included in AIDS *(2017)*
+
+Which is not included in AIDS related complex?
+
+- A. Ectopic pregnancy
+- B. Recurrent genital candidiasis
+- C. Generalised lymphadenopathy
+- D. Chronic diarrhea
+
+<details><summary>Answer</summary>
+
+**A. Ectopic pregnancy**
+
+</details>
+
+---
+
+---
+### Q380 — Which of the following true regarding *(2017)*
+
+Which of the following true regarding Hemophilia A
+
+- A. Serum levels of factor VIII are decreased.
+- B. Deficiency of factor IX
+- C. PT increased
+- D. FIT decreased
+
+<details><summary>Answer</summary>
+
+**A. Serum levels of factor VIII are decreased.**
+
+</details>
+
+---
+
+---
+### Q381 — Reed sternberg cells are found in *(2017)*
+
+Reed sternberg cells are found in
+
+- A. Hodgkin's disease
+- B. Sickle cell anaemia
+- C. Thalassemia
+- D. CML
+
+<details><summary>Answer</summary>
+
+**A. Hodgkin's disease**
+
+</details>
+
+---
+
+---
+### Q382 — Phenylketonuria is due to deficiency of *(2017)*
+
+Phenylketonuria is due to deficiency of:
+
+- A. Phenylalanine
+- B. Phenylalanine hydroxylase ( PAH)
+- C. Phenylene
+- D. All of these
+
+<details><summary>Answer</summary>
+
+**B. Phenylalanine hydroxylase ( PAH)**
+
+</details>
+
+---
+
+---
+### Q383 — WHICH IS NOT CORRECT *(2017)*
+
+WHICH IS NOT CORRECT:
+
+- A. MRI needed to access haemorrhage
+- B. GCS assessment helps in prognosis
+- C. Haematoma must be operated
+- D. all of the above
+
+<details><summary>Answer</summary>
+
+**C. Haematoma must be operated**
+
+</details>
+
+---
+
+---
+### Q384 — Term pathology refers to *(2017)*
+
+Term pathology refers to:
+
+- A. Work
+- B. Function
+- C. Details
+- D. Explains
+
+<details><summary>Answer</summary>
+
+**A. Work**
+
+</details>
+
+---
+
+---
+### Q385 — 1 yr child weighing 6 kg *(2017)*
+
+1 yr child weighing 6 kg is suffering from Acute Gastroenteritis along with signs of sunken eyes & skin pinch going back to normal very rapidly. What will be your management?
+
+- A. RL infusion 120 ml in the first hour followed by 360 ml in the next 5 hours
+- B. RL INFUSION 180 ml in the first hour followed by 420 ml in the next 5 hours
+- C. RL INFUSION 180 ML IN the first hour followed by 480 ml in the next 5 hours
+- D. RL INFUSION 240 ml in the first hour followed by 360 ml in the next 5 hours
+
+<details><summary>Answer</summary>
+
+**B. RL INFUSION 180 ml in the first hour followed by 420 ml in the next 5 hours**
+
+</details>
+
+---
+
+---
+### Q386 — What constitutes malpighian layer *(2017)*
+
+What constitutes malpighian layer?
+
+- A. Corneum lucidum
+- B. Corneum spinosum
+- C. Spinosum and basale
+- D. Basale granulosum
+
+<details><summary>Answer</summary>
+
+**C. Spinosum and basale**
+
+</details>
+
+---
+
+---
+### Q387 — Mechanism of action colchicine in acute *(2017)*
+
+Mechanism of action colchicine in acute gout
+
+- A. Uric acid nephrolithiasis.
+- B. Deficiency of enzyme Xanthine oxidase.
+- C. Increase in serum urate concentration.
+- D. Renal disease involving interstitial tissues.
+
+<details><summary>Answer</summary>
+
+**B. Deficiency of enzyme Xanthine oxidase.**
+
+</details>
+
+---
+
+---
+### Q388 — Oxygen therapy may not be useful *(2017)*
+
+Oxygen therapy may not be useful in
+
+- A. Asthma
+- B. Pneumonia
+- C. Subglottic stenosis
+- D. Pulmonary fibrosis
+
+<details><summary>Answer</summary>
+
+**D. Pulmonary fibrosis**
+
+</details>
+
+---
+
+---
+### Q389 — In ACLS which drug can be *(2017)*
+
+In ACLS which drug can be given following ventricular fibrillation after cardiac arrest other than epinephrine?
+
+- A. Amiodarone
+- B. Dopamine
+- C. Adenosine
+- D. Atropine
+
+<details><summary>Answer</summary>
+
+**A. Amiodarone**
+
+</details>
+
+---
+
+---
+### Q390 — Microbial cause of catheter infection in young
 
 Microbial cause of catheter infection in young female.
 
@@ -9276,3 +7296,1339 @@ Microbial cause of catheter infection in young female.
 
 ---
 
+## Year 2018
+
+### Q391 — Which best explains Flipping effect *(2018)*
+
+Which best explains “Flipping effect”
+
+- A. LDH 1 > LDH 2
+- B. LDH2 > LDH1
+- C. LDH 2 > LDH 3
+- D. LDH 3 > LDH 2
+
+<details><summary>Answer</summary>
+
+**A. LDH 1 > LDH 2**
+
+</details>
+
+---
+
+---
+### Q392 — Australian antigen for hepatitis b is *(2018)*
+
+Australian antigen for hepatitis b is
+
+- A. Hb S ag
+- B. Hb E ag
+- C. Hb D ag
+- D. HbV Dna
+
+<details><summary>Answer</summary>
+
+**A. Hb S ag**
+
+</details>
+
+---
+
+---
+### Q393 — Van Nuys prognostic index is not *(2018)*
+
+Van Nuys prognostic index is not based on
+
+- A. Age
+- B. Microcalcification
+- C. Size
+- D. ER status
+
+<details><summary>Answer</summary>
+
+**D. ER status**
+
+</details>
+
+---
+
+---
+### Q394 — Pagets is associated with which other *(2018)*
+
+Paget's is associated with which other cancer
+
+- A. Vulva
+- B. Vagina
+- C. Cervix
+- D. Uterus
+
+<details><summary>Answer</summary>
+
+**A. Vulva**
+
+</details>
+
+---
+
+---
+
+## Year 2019
+
+### Q395 — Which of the following exocrine glandular *(2019)*
+
+Which of the following exocrine glandular ducts are not obstructed in cystic fibrosis:
+
+- A. Pancreas
+- B. Lung
+- C. Sweat gland
+- D. All of above
+
+<details><summary>Answer</summary>
+
+**C. Sweat gland**
+
+</details>
+
+---
+
+---
+### Q396 — Follicular lymphoma positivity *(2019)*
+
+Follicular lymphoma positivity?
+
+- A. Bcl-1
+- B. Bcl-6
+- C. Bcl- 2
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Bcl- 2**
+
+</details>
+
+---
+
+---
+### Q397 — Which is not related to HIV *(2019)*
+
+Which is not related to HIV
+
+- A. Primary CNS lymphoma
+- B. Tertiary syphilis
+- C. Oesophageal candidasis
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Tertiary syphilis**
+
+</details>
+
+---
+
+---
+### Q398 — Which of the following is an anti-apoptotic *(2019)*
+
+Which of the following is an anti-apoptotic gene:
+
+- A. Bax
+- B. Bcl2
+- C. Bclx
+- D. Mcl1
+
+<details><summary>Answer</summary>
+
+**B. Bcl2**
+
+</details>
+
+---
+
+---
+### Q399 — Fish mouth appearance of valve in RHD *(2019)*
+
+Fish mouth appearance of valve in RHD is due to:
+
+- A. Rupture of valve
+- B. Calcification & fibrosis
+- C. Hypertrophy of ventricular wall
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Calcification & fibrosis**
+
+</details>
+
+---
+
+---
+### Q400 — Infarcts involving which portion of the myocardium *(2019)*
+
+Infarcts involving which portion of the myocardium cause aneurysm as a post-MI complication:
+
+- A. Subendocardial
+- B. Anterior transmural
+- C. Lateral
+- D. Inferior
+
+<details><summary>Answer</summary>
+
+**B. Anterior transmural**
+
+</details>
+
+---
+
+---
+
+## Year 2020
+
+### Q401 — The patient came with proptosis, restriction *(2020)*
+
+The patient came with proptosis, restriction of eye movements, and was Euthyroid. What could this be from?
+
+- A. Orbital Cellulitis
+- B. Orbital Lymphoma
+- C. Orbital pseudotumor
+- D. Thyroid ophthalmopathy
+
+<details><summary>Answer</summary>
+
+**C. Orbital pseudotumor**
+
+</details>
+
+---
+
+---
+### Q402 — Impaired function of Aquaporin results in *(2020)*
+
+Impaired function of Aquaporin results in
+
+- A. Liddel syndrome
+- B. Nephrogenic DI
+- C. Cystic fibrosis
+- D. Barter syndrome
+
+<details><summary>Answer</summary>
+
+**B. Nephrogenic DI**
+
+</details>
+
+---
+
+---
+### Q403 — Patient with pulmonary fibrosis Which antiarrhythm *(2020)*
+
+Patient with pulmonary fibrosis. Which antiarrhythmic drug should not be given
+
+- A. Amiodarone
+- B. Flecainide
+- C. Iv ibutilide
+- D. lidocaine
+
+<details><summary>Answer</summary>
+
+**A. Amiodarone**
+
+</details>
+
+---
+
+---
+### Q404 — Which is the most common pancreatic *(2020)*
+
+Which is the most common pancreatic endocrine neoplasm?
+
+- A. Insulinoma
+- B. Gastrinoma
+- C. VIPoma
+- D. Glucagonoma
+
+<details><summary>Answer</summary>
+
+**A. Insulinoma**
+
+</details>
+
+---
+
+---
+### Q405 — 47 35-year-old woman with a long *(2020)*
+
+47. 35-year-old woman with a long history of dyspnea, chronic cough, sputum production, and wheezing dies of respiratory failure following a bout of
+
+- A. Mutation in dynein arms
+- B. Cystic fibrosis
+- C. Alpha 1 antitrypsin deficiency
+- D. Antibodies against type 4 collagen
+
+<details><summary>Answer</summary>
+
+**C. Alpha 1 antitrypsin deficiency**
+
+</details>
+
+---
+
+---
+
+## Year 2021
+
+### Q406 — Mitochondrial inheritance
+
+Pedigree showing inheritance through maternal line only (all children of affected mother affected, none of affected father's children affected)?
+
+- A. Achondroplasia
+- B. Kearns-Sayre syndrome
+- C. Williams syndrome
+- D. Prader-Willi syndrome
+
+<details><summary>Answer</summary>
+
+**B. Kearns-Sayre syndrome** — Mitochondrial inheritance (maternal only); mtDNA deletion; progressive external ophthalmoplegia + cardiac conduction defects + ataxia. Presents <20 years.
+
+</details>
+
+---
+### Q407 — Recurrent gonococcal infection — immune defect
+
+Recurrent disseminated gonococcal infection — underlying immune defect?
+
+- A. Myeloperoxidase deficiency
+- B. PMN chemotactic defect
+- C. Terminal complement deficiency (C5-C9)
+- D. C2 deficiency
+
+<details><summary>Answer</summary>
+
+**C. Terminal complement deficiency (C5-C9)** — MAC (membrane attack complex) is essential for killing Neisseria. C5-C9 deficiency → recurrent Neisseria (meningitidis/gonorrhoeae) infections. C2 deficiency → SLE-like illness.
+
+</details>
+
+---
+### Q408 — Marfan syndrome gene
+
+Long limbs, ectopia lentis (downward), arm span > height — gene defect?
+
+- A. PLOD1 (Bruck syndrome)
+- B. Elastin (Williams syndrome)
+- C. Fibrillin-1 (FBN1)
+- D. COL1A1 (Osteogenesis imperfecta)
+
+<details><summary>Answer</summary>
+
+**C. Fibrillin-1 (FBN1)** — Marfan syndrome; AD; fibrillin-1 mutation → defective microfibrils → aortic dilatation, ectopia lentis (subluxation superiorly in homocystinuria, downward in Marfan), tall stature.
+
+</details>
+
+---
+### Q409 — Schwannoma histology
+
+45-year-old, progressive unilateral hearing loss, tinnitus, ataxia, CPA angle tumor, Antoni A and B areas on biopsy?
+
+- A. Meningioma
+- B. Ependymoma
+- C. Schwannoma (acoustic neuroma)
+- D. Vestibular neuritis
+
+<details><summary>Answer</summary>
+
+**C. Schwannoma** — CPA angle tumor; CN VIII most common (vestibular schwannoma/acoustic neuroma); Antoni A (palisading Verocay bodies) and Antoni B (loose myxoid) areas on histology. S100+.
+
+</details>
+
+---
+### Q410 — AML cytogenetics — t(15;17)
+
+Elderly male, cervical lymphadenopathy, bleeding tendency, >20% blasts, Auer rods — cytogenetics?
+
+- A. Inv(16)
+- B. t(15;17)
+- C. t(8;21)
+- D. t(9;22)
+
+<details><summary>Answer</summary>
+
+**B. t(15;17)** — APML (AML-M3): t(15;17) = PML-RARα fusion; Auer rods (faggot cells); DIC; treat with ATRA + arsenic. Best prognosis among AMLs. t(8;21) = M2; inv(16) = M4Eo.
+
+</details>
+
+---
+### Q411 — Testicular tumor — post-pubertal
+
+Elderly male, painless testicular swelling, multinodular gray-white homogeneous mass?
+
+- A. Yolk sac tumor
+- B. Seminoma
+- C. Embryonal carcinoma
+- D. Leydig cell tumor
+
+<details><summary>Answer</summary>
+
+**B. Seminoma** — Most common testicular tumor (overall); lobulated gray homogeneous cut surface; lymphocytic infiltrate + syncytiotrophoblasts; PLAP+; radiosensitive. Yolk sac = commonest in children.
+
+</details>
+
+---
+### Q412 — Medullary thyroid cancer
+
+Midline neck swelling, amyloid deposition on Congo red, synaptophysin+, chromogranin+, TTF-1+?
+
+- A. Papillary thyroid cancer
+- B. Medullary thyroid cancer
+- C. Follicular thyroid cancer
+- D. Anaplastic thyroid cancer
+
+<details><summary>Answer</summary>
+
+**B. Medullary thyroid cancer** — Parafollicular C-cell tumor; secretes calcitonin; amyloid (calcitonin-derived); neuroendocrine markers (synaptophysin, chromogranin, TTF-1). Associated with MEN 2A/2B (RET mutation).
+
+</details>
+
+---
+### Q413 — Focal nodular hyperplasia
+
+Liver specimen: well-circumscribed lesion with central stellate scar and spoke-wheel vascularity?
+
+- A. Hepatocellular adenoma
+- B. Hepatocellular carcinoma
+- C. Focal nodular hyperplasia
+- D. Regenerative nodule
+
+<details><summary>Answer</summary>
+
+**C. Focal nodular hyperplasia** — Benign liver mass; central stellate fibrous scar with abnormal arteries; hyperintense on hepatobiliary phase MRI (retains gadoxetate); not premalignant; no treatment needed.
+
+</details>
+
+---
+### Q414 — Follicular lymphoma — cytogenetics
+
+Elderly bilateral cervical lymphadenopathy, CD10+, BCL2+ — cytogenetics?
+
+- A. t(11;18)
+- B. t(14;18)
+- C. t(11;14)
+- D. t(8;14)
+
+<details><summary>Answer</summary>
+
+**B. t(14;18)** — Follicular lymphoma: t(14;18) = IGH-BCL2 fusion → BCL2 overexpression → anti-apoptosis → accumulation of B-cells. CD10+, BCL2+, BCL6+. Indolent but incurable.
+
+</details>
+
+---
+### Q415 — Caspase-mediated cell death
+
+Caspase-mediated cell death includes which forms?
+
+- A. Apoptosis and necroptosis
+- B. Apoptosis and necrosis
+- C. Apoptosis and pyroptosis
+- D. Apoptosis and ferroptosis
+
+<details><summary>Answer</summary>
+
+**C. Apoptosis and pyroptosis** — Both require caspases: apoptosis (caspase-3/7) and pyroptosis (caspase-1/4/5/11 → gasdermin D). Necroptosis = RIPK3/MLKL; ferroptosis = iron-mediated lipid peroxidation; necrosis = passive.
+
+</details>
+
+---
+### Q416 — Hereditary spherocytosis
+
+Mild anemia, jaundice, splenomegaly, elevated MCHC, positive family history, spherocytes — diagnosis?
+
+- A. Hereditary spherocytosis
+- B. Iron deficiency anemia
+- C. Autoimmune hemolytic anemia
+- D. Thalassemia minor
+
+<details><summary>Answer</summary>
+
+**A. Hereditary spherocytosis** — Spectrin/ankyrin defect → spherocytes; elevated MCHC (most specific finding); osmotic fragility increased; DAT negative (unlike AIHA). Splenectomy curative.
+
+</details>
+
+---
+### Q417 — Craniopharyngioma histology
+
+8-year-old, progressive vision loss, suprasellar mass, palisading epithelium, wet keratin — diagnosis?
+
+- A. Craniopharyngioma (adamantinomatous)
+- B. Pituitary adenoma
+- C. Rathke's cleft cyst
+- D. Meningioma
+
+<details><summary>Answer</summary>
+
+**A. Craniopharyngioma (adamantinomatous)** — Palisading epithelium + "wet keratin" (ghost cells) + dystrophic calcification = pathognomonic of adamantinomatous craniopharyngioma in children.
+
+</details>
+
+---
+### Q418 — CLL diagnosis — technique
+
+CLL diagnosis — most useful quantification technique?
+
+- A. ELISA
+- B. Western blot
+- C. Flow cytometry
+- D. Immunohistochemistry
+
+<details><summary>Answer</summary>
+
+**C. Flow cytometry** — Detects CD5+/CD19+/CD23+ co-expression (characteristic of CLL); counts absolute lymphocyte subtypes. Minimum 5000/µL clonal B-lymphocytes for diagnosis.
+
+</details>
+
+---
+### Q419 — Primary biliary cholangitis — antibody
+
+AMA (antimitochondrial antibody) positivity most associated with?
+
+- A. Primary biliary cholangitis
+- B. Autoimmune hepatitis
+- C. Sarcoidosis
+- D. Wilson's disease
+
+<details><summary>Answer</summary>
+
+**A. Primary biliary cholangitis** — AMA (anti-M2 = against pyruvate dehydrogenase complex E2) is >95% sensitive and specific for PBC. Autoimmune hepatitis = ANA/anti-SMA. Wilson's = Kayser-Fleischer rings.
+
+</details>
+
+---
+### Q420 — Sarcoidosis — histology
+
+1-month cough, bilateral hilar lymphadenopathy, non-caseating granulomas, stellate (asteroid) inclusions?
+
+- A. Tuberculosis
+- B. Sarcoidosis
+- C. Lung cancer
+- D. Hypersensitivity pneumonitis
+
+<details><summary>Answer</summary>
+
+**B. Sarcoidosis** — Non-caseating granulomas with Langhans giant cells, Schaumann bodies (concentric calcifications) and asteroid bodies. Elevated serum ACE, bilateral hilar lymphadenopathy. TB = caseating granulomas.
+
+</details>
+
+---
+### Q421 — Sjögren's syndrome — pathology
+
+Middle-aged woman, dry eyes/mouth, anti-Ro+ (SS-A), anti-La+ (SS-B) — pathological mechanism?
+
+- A. Neutrophil infiltration and destruction of glands
+- B. IgE-mediated hypersensitivity
+- C. Lymphocytic infiltration and destruction of exocrine glands
+- D. Amyloid deposition in glands
+
+<details><summary>Answer</summary>
+
+**C. Lymphocytic infiltration and destruction of exocrine glands** — Sjögren's: CD4+ T-cells + B-cells infiltrate salivary and lacrimal glands → progressive destruction → xerostomia and xerophthalmia. Focus score on lip biopsy.
+
+</details>
+
+---
+### Q422 — Dermatitis herpetiformis
+
+36-year-old, gluten sensitivity, intensely pruritic grouped vesicles on extensor surfaces?
+
+- A. Bullous pemphigoid
+- B. Pemphigus vulgaris
+- C. Dermatitis herpetiformis
+- D. Psoriasis
+
+<details><summary>Answer</summary>
+
+**C. Dermatitis herpetiformis** — Subepidermal blisters with IgA deposits at dermal papillae tips (DIF); associated with gluten-sensitive enteropathy (celiac); elbows/knees/buttocks; treat with dapsone + gluten-free diet.
+
+</details>
+
+---
+### Q423 — HPV and oral SCC
+
+Persistent lateral tongue lesion confirmed SCC — strongly associated virus?
+
+- A. Epstein-Barr virus
+- B. Cytomegalovirus
+- C. Herpes simplex virus
+- D. Human papillomavirus (HPV)
+
+<details><summary>Answer</summary>
+
+**D. Human papillomavirus (HPV)** — HPV-16/18 associated with oropharyngeal and oral SCC (especially tongue base, tonsil). Better prognosis than HPV-negative SCC. EBV = nasopharyngeal carcinoma.
+
+</details>
+
+---
+
+---
+
+## Year 2022
+
+### Q424 — Choose the correct statement regarding the *(2022)*
+
+Choose the correct statement regarding the telomerase theory of aging
+
+- A. Telomere stability is associated with aging
+- B. Abnormal telomerase activation is associated with aging
+- C. Decreased telomere length is associated with aging
+- D. Increased telomere length is associated with aging
+
+<details><summary>Answer</summary>
+
+**C. Decreased telomere length is associated with aging**
+
+</details>
+
+---
+
+---
+### Q425 — A child presents with recurrent chest *(2022)*
+
+A child presents with recurrent chest infections and abdominal pain. There is a history of 1 blood transfusion in the past. On examination, he had icterus and mild splenomegaly. Electrophoresis shows increased HbA2, HbF, and S spike. What is the likely diagnosis?
+
+- A. Beta thalassemia
+- B. HbC disease
+- C. Sickle cell disease
+- D. Acute coronary disease
+
+<details><summary>Answer</summary>
+
+**A. Beta thalassemia**
+
+</details>
+
+---
+
+---
+### Q426 — Why do neoplastic cells utilize Warburg *(2022)*
+
+Why do neoplastic cells utilize Warburg metabolism?
+
+- A. It decreases glucose utilization by neoplastic cells
+- B. It forms metabolic intermediates which are needed for cell growth and multiplication
+- C. It provides more energy in the form of increased ATP production
+- D. In prevents apoptosis and makes the cancer immortal
+
+<details><summary>Answer</summary>
+
+**B. It forms metabolic intermediates which are needed for cell growth and multiplication**
+
+</details>
+
+---
+
+---
+### Q427 — All of the following statements are *(2022)*
+
+All of the following statements are true regarding neutrophil extracellular trapping (NET) except that
+
+- A. It is detected in blood during sepsis
+- B. It is produced in response to bacterial infection
+- C. Mitochondrial DNA is seen
+- D. It is chromatin with antibacterial enzymes
+
+<details><summary>Answer</summary>
+
+**C. Mitochondrial DNA is seen**
+
+</details>
+
+---
+
+---
+### Q428 — Which of the following measures are *(2022)*
+
+Which of the following measures are associated with an increased life span?
+
+- A. Moderate of regular exercise for 30 min
+- B. Decrease stress
+- C. Decreasing calorie intake by 30 percent
+- D. Pharmacological intervention with proton pump inhibitors
+
+<details><summary>Answer</summary>
+
+**C. Decreasing calorie intake by 30 percent**
+
+</details>
+
+---
+
+---
+### Q429 — A 56-year-old man was diagnosed with *(2022)*
+
+A 56-year-old man was diagnosed with COVID-19 and was put on mechanical ventilation. He passed away after a week. What is the likely post-mortem change seen in the lungs?
+
+- A. Thick layer of fibrin lining the alveoli
+- B. Acute and chronic alveolar hemorrhage
+- C. Perivascular cuffing
+- D. Pulmonary artery hypertrophy with increased resistance
+
+<details><summary>Answer</summary>
+
+**B. Acute and chronic alveolar hemorrhage**
+
+</details>
+
+---
+
+---
+### Q430 — A 56-year-old man presents with dragging *(2022)*
+
+A 56-year-old man presents with dragging pain in the abdomen. On examination, there is massive splenomegaly. Peripheral smear shows leukocytesis with increased myelocytes, metamyelocytes and basophils. Which of the following translocations is seen in this condition?
+
+- A. t(9;22)
+- B. t(8;22)
+- C. t(15;17)
+- D. t(8;14)
+
+<details><summary>Answer</summary>
+
+**A. t(9;22)**
+
+</details>
+
+---
+
+---
+
+## Year 2023
+
+### Q431 — Which of the following is true *(2023)*
+
+Which of the following is true regarding the Mendelian mode of inheritance?
+
+- A. Every 10th patient has a Y-linked disorder
+- B. 1/3rd of Mendelian disorders is autosomal recessive
+- C. Every 5th patient has an X-linked recessive disorder
+- D. 2/3rd of Mendelian disorders are autosomal dominant
+
+<details><summary>Answer</summary>
+
+**D. 2/3rd of Mendelian disorders are autosomal dominant**
+
+</details>
+
+---
+
+---
+### Q432 — A child presents with intermittent jaundice *(2023)*
+
+A child presents with intermittent jaundice and splenomegaly. There is a history of similar complaints in the elder brother. Peripheral smear shows the following finding. How will you investigate this condition? Pr
+
+- A. Osmotic fragility test - Hereditary spherocytosis
+- B. Coombs test - AIHA
+- C. G6PD deficiency - Genetic testing
+- D. Paroxysmal nocturnal hemoglobinuria - Flow cytometry
+
+<details><summary>Answer</summary>
+
+**A. Osmotic fragility test - Hereditary spherocytosis**
+
+</details>
+
+---
+
+---
+### Q433 — A child presented to the hospital *(2023)*
+
+A child presented to the hospital with cola-colored urine, hypertension, and puffiness of eyes. Laboratory investigations were done, and creatinine was 2.5 mg/dL. Treatment was started, and despite treatment, the patient did not improve for the next 3 weeks. The creatinine value increased to 4.5 mg/dL. Which among the following electron microscopic findings will be seen in this patient?
+
+- A. Subendothelial deposits
+- B. Subepithelial deposits
+- C. Crescent formation
+- D. Mesangial deposits
+
+<details><summary>Answer</summary>
+
+**B. Subepithelial deposits**
+
+</details>
+
+---
+
+---
+### Q434 — An elderly male is known as *(2023)*
+
+An elderly male is known as a smoker presented with chronic cough, significant weight loss, and fatigue. Serum calcium level is raised. A lung biopsy was done, and it showed large atypical cells with hyperchromasia. What is the probable diagnosis?
+
+- A. Large cell neuroendocrine tumor
+- B. Small cell carcinoma
+- C. Adenocarcinoma
+- D. Squamous cell carcinoma
+
+<details><summary>Answer</summary>
+
+**D. Squamous cell carcinoma**
+
+</details>
+
+---
+
+---
+### Q435 — A young patient presents with a *(2023)*
+
+A young patient presents with a large retroperitoneal hemorrhage. He also gives a frequent history of intermittent swelling of knees on strenuous exercise. There is no history of any mucosal bleeding. Which among the following clotting factors is responsible for the condition mentioned above?
+
+- A. Factors VIII and IX
+- B. Factors XI and XII
+- C. Von Willebrand factor
+- D. Lupus anticoagulant
+
+<details><summary>Answer</summary>
+
+**A. Factors VIII and IX**
+
+</details>
+
+---
+
+---
+
+## Year 2024
+
+### Q436 — CML genetics
+
+A patient with fever, hepatosplenomegaly, WBC > 50,000/mm³. Involved genetic abnormality?
+
+- A. t(9;22)
+- B. del(1q)
+- C. t(15;17)
+- D. del 3q
+
+<details><summary>Answer</summary>
+
+**A. t(9;22)** — Philadelphia chromosome → BCR-ABL → CML. Treated with imatinib.
+</details>
+
+---
+### Q437 — Karyotype 45,X
+
+A 23-year-old female, 4 feet tall; karyotype shown. Most likely condition?
+
+- A. Turner syndrome
+- B. Klinefelter syndrome
+- C. MRKH syndrome
+- D. Edwards syndrome
+
+<details><summary>Answer</summary>
+
+**A. Turner syndrome (45,X)** — Short stature, streak gonads, webbed neck, coarctation of aorta, primary amenorrhoea.
+</details>
+
+---
+
+---
+### Q438 — Following gastrectomy procedure which vitamin is *(2024)*
+
+Following gastrectomy procedure which vitamin is to be supplemented for the patient?
+
+- A. Vitamin A
+- B. Vitamin B1
+- C. Vitamin C
+- D. Vitamin B12
+
+<details><summary>Answer</summary>
+
+**D. Vitamin B12**
+
+</details>
+
+---
+
+---
+### Q439 — Clinical question A 20-year-old patient presents *(2024)*
+
+Clinical question: A 20-year-old patient presents with a cerebellar mass and a renal tumour, along with a similar family history. Which of the following is responsible for his findings?
+
+- A. VHL
+- B. NF
+- C. TSC
+- D. Li fraumeni syndrome
+
+<details><summary>Answer</summary>
+
+**A. VHL**
+
+</details>
+
+---
+
+---
+### Q440 — Clinical question Which of the following *(2024)*
+
+Clinical question: Which of the following is an incorrect statement regarding Von Willebrand's disease?
+
+- A. Type 2 Von Willebrand disease is associated with a moderate bleeding tendency.
+- B. Type 3 Von Willebrand disease is associated with a complete absence of the Von
+- C. Type 1 Von Willebrand disease presents with severe bleeding since childhood.
+- D. Type 2 Von Willebrand disease includes subtypes with varying defects in the von
+
+<details><summary>Answer</summary>
+
+**C. Type 1 Von Willebrand disease presents with severe bleeding since childhood.**
+
+</details>
+
+---
+
+---
+### Q441 — A 52-year-old patient presents with respiratory *(2024)*
+
+A 52-year-old patient presents with respiratory distress, and he is diagnosed with pan-acinar emphysema. Which deficiency is responsible for his condition?
+
+- A. Type 1 alveolar cells
+- B. Type 2 alveolar cells
+- C. Alpha-1 antitrypsin deficiency
+- D. Albumin
+
+<details><summary>Answer</summary>
+
+**C. Alpha-1 antitrypsin deficiency**
+
+</details>
+
+---
+
+---
+### Q442 — Clinical question An adult male presents *(2024)*
+
+Clinical question: An adult male presents with abdominal distension, chronic diarrhoea, visual complaints, and neurological symptoms. Examination of the peripheral blood smear reveals following characteristic findings. What is the most probable diagnosis?
+
+- A. Abetalipoproteinemia
+- B. Whipple’s disease
+- C. Menetrier’s disease
+- D. Uremia
+
+<details><summary>Answer</summary>
+
+**A. Abetalipoproteinemia**
+
+</details>
+
+---
+
+---
+### Q443 — Clinical question A child develops skin *(2024)*
+
+Clinical question: A child develops skin lesions following exposure to sunlight. Genetic testing reveals a defect in a DNA repair mechanism. Which type of DNA repair is most likely impaired?
+
+- A. Nucleotide excision repair defect
+- B. Base excision repair defect
+- C. Mismatch repair defect
+- D. Recombination repair defect
+
+<details><summary>Answer</summary>
+
+**A. Nucleotide excision repair defect**
+
+</details>
+
+---
+
+---
+### Q444 — Which of the following conditions is *(2024)*
+
+Which of the following conditions is associated with pulmonary haemorrhage and is typically positive for perinuclear ANCA (P-ANCA)?
+
+- A. Monckeberg’s sclerosis
+- B. Microscopic polyangiitis
+- C. Wegener's granulomatosis
+- D. Polyarteritis nodosa
+
+<details><summary>Answer</summary>
+
+**B. Microscopic polyangiitis**
+
+</details>
+
+---
+
+---
+### Q445 — In iron deficiency anaemia, how is *(2024)*
+
+In iron deficiency anaemia, how is the transferrin saturation affected?
+
+- A. Increased
+- B. Decreased
+- C. Normal
+- D. Dynamic
+
+<details><summary>Answer</summary>
+
+**B. Decreased**
+
+</details>
+
+---
+
+---
+### Q446 — Which of the following is not *(2024)*
+
+Which of the following is not a typical feature after ileal resection?
+
+- A. Nuclear cytological asynchrony
+- B. Neurological manifestations
+- C. Microcytic hypochromic anaemia
+- D. Reversible dementia
+
+<details><summary>Answer</summary>
+
+**C. Microcytic hypochromic anaemia**
+
+</details>
+
+---
+
+---
+### Q447 — Clinical question A tall adult male *(2024)*
+
+Clinical question: A tall adult male presents with lens subluxation, disproportionately long limbs, a sunken chest wall, and cardiovascular abnormalities. Which protein is most likely mutated in this individual?
+
+- A. Elastin
+- B. Collagen
+- C. Fibrillin
+- D. Laminin
+
+<details><summary>Answer</summary>
+
+**C. Fibrillin**
+
+</details>
+
+---
+
+---
+### Q448 — Clinical question A patient presents with *(2024)*
+
+Clinical question: A patient presents with high-grade fever, hepatosplenomegaly, abdominal discomfort, and a white blood cell count exceeding 50,000/mm³. Which genetic abnormality is most likely associated with this presentation?
+
+- A. t(9;22)
+- B. del(1q)
+- C. t(15;17)
+- D. del 3q
+
+<details><summary>Answer</summary>
+
+**A. t(9;22)**
+
+</details>
+
+---
+
+---
+### Q449 — Which of the following antibodies are *(2024)*
+
+Which of the following antibodies are associated with celiac disease?
+
+- A. Anti-tTG
+- B. ANCA
+- C. ASCA
+- D. AMA
+
+<details><summary>Answer</summary>
+
+**A. Anti-tTG**
+
+</details>
+
+---
+
+---
+
+## Year 2025
+
+### Q450 — Caspase-dependent cell death types
+
+Which types of cell death involve activation of caspase enzymes?
+
+- A. Necrosis and Apoptosis
+- B. Apoptosis and Pyroptosis
+- C. Apoptosis and Necroptosis
+- D. Apoptosis only
+
+<details><summary>Answer</summary>
+
+**B. Apoptosis and Pyroptosis** — Both activate caspases (apoptosis: caspase-3/7; pyroptosis: caspase-1/4/5/11). Necroptosis involves RIP kinases, not caspases. Necrosis is passive.
+</details>
+
+---
+
+---
+### Q451 — Anti-mitochondrial antibody association
+
+Anti-mitochondrial antibody (AMA) is most commonly seen in:
+
+- A. Autoimmune hepatitis
+- B. Primary biliary cholangitis
+- C. Primary sclerosing cholangitis
+- D. SLE
+
+<details><summary>Answer</summary>
+
+**B. Primary biliary cholangitis** — AMA (especially anti-M2) is positive in ~95% of PBC cases. Autoimmune hepatitis: anti-LKM1, anti-SMA, ANA.
+</details>
+
+---
+
+---
+### Q452 — Inheritance pattern (image)
+
+Based on the pedigree image, which condition fits this inheritance pattern?
+
+- A. Prader-Willi syndrome
+- B. Marfan syndrome
+- C. Kearns-Sayre syndrome
+- D. Duchenne muscular dystrophy
+
+<details><summary>Answer</summary>
+
+**B. Marfan syndrome** — Autosomal dominant (FBN1 gene); 50% chance of transmission. Prader-Willi = imprinting; KSS = mitochondrial; DMD = X-linked recessive.
+</details>
+
+---
+
+---
+### Q453 — Investigation for CLL confirmation
+
+68-year-old with generalised lymphadenopathy, leukocytosis, absolute lymphocyte count 35,000/µL. Investigation of choice to confirm and determine CD markers?
+
+- A. Bone marrow biopsy
+- B. Flow cytometry of peripheral blood
+- C. Serum LDH
+- D. Lymph node excisional biopsy
+
+<details><summary>Answer</summary>
+
+**B. Flow cytometry of peripheral blood** — Gold standard for CLL immunophenotyping: CD5+, CD19+, CD20 (dim), CD23+, FMC7 negative.
+</details>
+
+---
+
+---
+### Q454 — Liver mass on imaging (image)
+
+Liver mass identified on imaging, surgically excised; gross specimen shown. Most likely diagnosis?
+
+- A. Hepatocellular carcinoma
+- B. Focal nodular hyperplasia
+- C. Hepatic adenoma
+- D. Metastasis
+
+<details><summary>Answer</summary>
+
+**B. Focal nodular hyperplasia** — Central stellate scar with spoke-wheel vascular pattern on CT; benign; normal hepatocytes, no malignant potential.
+</details>
+
+---
+
+---
+### Q455 — Cough, chest pain, dyspnea; giant cells, granuloma, stellate inclusions
+
+Patient with cough, chest pain, dyspnea; imaging/biopsy shows giant cells, granulomas, and stellate (asteroid) inclusions. Diagnosis?
+
+- A. Tuberculosis
+- B. Sarcoidosis
+- C. Lung cancer
+- D. Fungal infection
+
+<details><summary>Answer</summary>
+
+**B. Sarcoidosis** — Non-caseating granulomas with Langhans giant cells; asteroid bodies and Schaumann bodies are inclusions in sarcoid giant cells. Bilateral hilar lymphadenopathy on CXR.
+</details>
+
+---
+
+---
+### Q456 — Tall man with visual problems and ectopia lentis
+
+Very tall man with visual problems and ectopia lentis. Defective gene?
+
+- A. FBN1
+- B. COL1A1
+- C. FGFR3
+- D. PAX6
+
+<details><summary>Answer</summary>
+
+**A. FBN1** — Marfan syndrome: FBN1 (fibrillin-1) gene mutation; autosomal dominant; ectopia lentis (lens dislocates superiorly), aortic root dilatation, tall stature.
+</details>
+
+---
+
+---
+### Q457 — Antoni A and B areas, Verocay bodies
+
+Patient with hearing loss and balance problems; histopathology shows Antoni A and B areas, Verocay bodies. Diagnosis?
+
+- A. Schwannoma
+- B. Ependymoma
+- C. Meningioma
+- D. Medulloblastoma
+
+<details><summary>Answer</summary>
+
+**A. Schwannoma (acoustic neuroma)** — Vestibular schwannoma (CN VIII); Antoni A (dense palisading cells, Verocay bodies) and Antoni B (loose myxoid areas) are hallmarks.
+</details>
+
+---
+
+---
+### Q458 — Suprasellar mass with "wet keratin" on histology
+
+Child with visual disturbances and delayed growth; suprasellar mass with wet keratin (compact eosinophilic anucleate keratin) on histopathology. Diagnosis?
+
+- A. Medulloblastoma
+- B. Rathke pouch cyst
+- C. Pituitary adenoma
+- D. Craniopharyngioma
+
+<details><summary>Answer</summary>
+
+**D. Craniopharyngioma** — Adamantinomatous type: suprasellar, "machinery oil" fluid, calcification, wet keratin. Arises from Rathke pouch remnants.
+</details>
+
+---
+
+---
+### Q459 — CD marker quantification technique
+
+Most commonly used technique to compare and quantify CD markers?
+
+- A. ELISA
+- B. Western blot
+- C. Flow cytometry
+- D. Immunohistochemistry
+
+<details><summary>Answer</summary>
+
+**C. Flow cytometry** — Single-cell analysis with fluorescent antibodies; gold standard for quantifying surface CD markers (lymphoma phenotyping, CD4 counts, stem cell enumeration).
+</details>
+
+---
+
+---
+### Q460 — Anti-Scl-70 antibody association
+
+Anti-SCL-70 (anti-topoisomerase I) antibody is most strongly associated with:
+
+- A. GAVE
+- B. Calcinosis cutis
+- C. Interstitial lung disease
+- D. Myositis
+
+<details><summary>Answer</summary>
+
+**C. Interstitial lung disease** — Anti-Scl-70 is associated with diffuse cutaneous systemic sclerosis and ILD (pulmonary fibrosis). Anti-centromere antibody associates with limited SSc (CREST).
+</details>
+
+---
+
+---
+### Q461 — Painless, well-circumscribed, non-haemorrhagic testicular mass
+
+30-year-old man with painless testicular mass; USG: well-circumscribed, homogeneous, non-haemorrhagic. Histology shown. Diagnosis?
+
+- A. Yolk sac tumour
+- B. Choriocarcinoma
+- C. Teratoma
+- D. Seminoma
+
+<details><summary>Answer</summary>
+
+**D. Seminoma** — Most common testicular GCT; homogeneous, lobulated; histology: large cells with clear cytoplasm, lymphocytic infiltrate, fibrous septa. AFP normal; β-hCG may be mildly elevated.
+</details>
+
+---
+
+---
+### Q462 — Lymphoma with centrocytes, centroblasts, BCL2, CD10: chromosomal translocation
+
+Lymphoma with centrocytes, centroblasts, BCL2 positivity, CD10 expression. Chromosomal translocation?
+
+- A. t(2;5)
+- B. t(11;14)
+- C. t(14;18)
+- D. t(8;14)
+
+<details><summary>Answer</summary>
+
+**C. t(14;18)** — Follicular lymphoma: t(14;18) juxtaposes BCL2 with IgH enhancer → BCL2 overexpression → anti-apoptosis. CD10+, BCL2+, BCL6+.
+</details>
+
+---
+
+---
+### Q463 — Faggot cells on peripheral smear: translocation
+
+A 68-year-old with bleeding; peripheral smear shows "faggot cells." Associated translocation?
+
+- A. t(15;17)
+- B. t(14;18)
+- C. t(11;14)
+- D. t(8;21)
+
+<details><summary>Answer</summary>
+
+**A. t(15;17)** — AML M3 (APML): faggot cells (Auer rods bundled in cytoplasm) are pathognomonic; PML-RARα fusion from t(15;17); treated with ATRA + arsenic trioxide.
+</details>
+
+---
+
+---
+### Q464 — Dry eyes and mouth, anti-Ro/anti-La antibodies
+
+Middle-aged woman with dry eyes and mouth; anti-Ro (SSA) and anti-La (SSB) positive. Pathological mechanism?
+
+- A. Neutrophil destruction of exocrine glands
+- B. IgE-mediated hypersensitivity
+- C. Lymphocytic infiltration of salivary and lacrimal glands
+- D. Amyloid deposition in salivary glands
+
+<details><summary>Answer</summary>
+
+**C. Lymphocytic infiltration and destruction of salivary and lacrimal glands** — Sjögren syndrome: CD4+ T-cell and B-cell infiltration of exocrine glands; anti-Ro/La autoantibodies.
+</details>
+
+---
+
+---
+### Q465 — Neck mass, amyloid deposition on histology
+
+Patient with neck mass, odynophagia, dyspnea; histology shows amyloid deposition. Diagnosis?
+
+- A. Papillary thyroid carcinoma
+- B. Follicular thyroid carcinoma
+- C. Medullary thyroid carcinoma
+- D. Anaplastic thyroid carcinoma
+
+<details><summary>Answer</summary>
+
+**C. Medullary thyroid carcinoma** — Arises from parafollicular C-cells; secretes calcitonin; amyloid deposition (from polymerised calcitonin) is characteristic on histopathology.
+</details>
+
+---
+
+---
+### Q466 — AML M3 chromosomal translocation
+
+Which translocation is characteristically associated with AML M3?
+
+- A. t(9;22)
+- B. t(8;21)
+- C. t(15;17)
+- D. t(11;14)
+
+<details><summary>Answer</summary>
+
+**C. t(15;17)** — AML M3 (APML): PML-RARα fusion. Risk of DIC (release of procoagulants from Auer rods). Treatment: ATRA + arsenic trioxide.
+</details>
+
+---
+
+---

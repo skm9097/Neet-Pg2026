@@ -837,2387 +837,9 @@ Which of the following statement is true about suture material in the image:
 
 ---
 
-## Year 2019
-
-### Q51 — Tubercular OM — NOT a feature
-
-Not a feature of tubercular otitis media?
-
-- A. Earache
-- B. Multiple perforations
-- C. Pale granulation
-- D. Foul-smelling discharge
-
-<details><summary>Answer</summary>
-
-**A. Earache** — Tubercular OM is typically painless. Multiple perforations and pale granulation are classic.
-</details>
-
----
-
-### Q52 — Pott's puffy tumour
-
-Pott's puffy tumour is?
-
-- A. Subperiosteal abscess of frontal bone
-- B. Subperiosteal abscess of ethmoid bone
-- C. Mucocele of frontal bone
-- D. Mucocele of ethmoid bone
-
-<details><summary>Answer</summary>
-
-**A. Subperiosteal abscess of frontal bone** — Complication of frontal sinusitis with osteomyelitis.
-</details>
-
----
-
----
-
-### Q53 — Duct of Bellini are present in *(2019)*
-
-Duct of Bellini are present in:
-
-- A. Pancreas
-- B. Liver
-- C. Kidney
-- D. Salivary gland
-
-<details><summary>Answer</summary>
-
-**C. Kidney**
-
-</details>
-
----
-
----
-
-### Q54 — Joint involved in movement of head *(2019)*
-
-Joint involved in movement of head from left to right.
-
-- A. Atlanto axial
-- B. Atlanto occipital
-- C. C2- C3 Joint
-- D. C3- C4 Joint
-
-<details><summary>Answer</summary>
-
-**A. Atlanto axial**
-
-</details>
-
----
-
----
-
-### Q55 — collagen present in skin is *(2019)*
-
-collagen present in skin is
-
-- A. Type II
-- B. Type I
-- C. Type III
-- D. Type IV
-
-<details><summary>Answer</summary>
-
-**B. Type I**
-
-</details>
-
----
-
----
-
-### Q56 — In a patient with lipoprotein lipase *(2019)*
-
-In a patient with lipoprotein lipase deficiency, which of the following is increased following a fatty meal?
-
-- A. Chylomicron
-- B. LDL
-- C. HDL
-- D. Apo-A
-
-<details><summary>Answer</summary>
-
-**A. Chylomicron**
-
-</details>
-
----
-
----
-
-### Q57 — What is the choice of treatment *(2019)*
-
-What is the choice of treatment for idiopathic thrombocytopenia purpura (ITP)?
-
-- A. Blood transfusion
-- B. Spontaneous recovery
-- C. IV infusion
-- D. Splenectomy
-
-<details><summary>Answer</summary>
-
-**D. Splenectomy**
-
-</details>
-
----
-
----
-
-### Q58 — What is the advantage of fixed *(2019)*
-
-What is the advantage of fixed dose combination of drugs.
-
-- A. Increases efficacy of drug
-- B. Decreases adverse effects
-- C. Patient compliance improved
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above**
-
-</details>
-
----
-
----
-
-### Q59 — Filgrastim is used in treatment of *(2019)*
-
-Filgrastim is used in treatment of:
-
-- A. Anemia
-- B. Neutropenia
-- C. Malaria
-- D. Filarial
-
-<details><summary>Answer</summary>
-
-**B. Neutropenia**
-
-</details>
-
----
-
----
-
-### Q60 — True about treatment of early breast *(2019)*
-
-True about treatment of early breast carcinoma?
-
-- A. Aromatase inhibitors are replacing tamoxifen in premenopausal
-- B. Post mastectomy radiation therapy is given when 4 or more
-- C. Tamoxifen is not useful in post-menopausal women
-- D. In premenopausal women, multidrug chemotherapy is given in
-
-<details><summary>Answer</summary>
-
-**B. Post mastectomy radiation therapy is given when 4 or more**
-
-</details>
-
----
-
----
-
-### Q61 — IV Mannitol is used for treatment *(2019)*
-
-IV Mannitol is used for treatment of
-
-- A. Acute congestive glaucoma
-- B. Pulmonary edema
-- C. Acute renal failure
-- D. CHF
-
-<details><summary>Answer</summary>
-
-**A. Acute congestive glaucoma**
-
-</details>
-
----
-
----
-
-### Q62 — Punishment for perjury is under which *(2019)*
-
-Punishment for perjury is under which section IPC ?
-
-- A. Sec 193
-- B. Sec 191
-- C. Sec 197
-- D. Sec 190
-
-<details><summary>Answer</summary>
-
-**A. Sec 193**
-
-</details>
-
----
-
----
-
-### Q63 — A child is having Battered baby *(2019)*
-
-A child is having Battered baby syndrome how will you identify
-
-- A. Stab wound
-- B. Gunshot wound
-- C. Bruise of different ages
-- D. None of these
-
-<details><summary>Answer</summary>
-
-**C. Bruise of different ages**
-
-</details>
-
----
-
----
-
-### Q64 — Green colour of triage is for *(2019)*
-
-Green colour of triage is for which patient ?
-
-- A. Low priority
-- B. Morbidity
-- C. Ambulatory
-- D. High priority
-
-<details><summary>Answer</summary>
-
-**C. Ambulatory**
-
-</details>
-
----
-
----
-
-### Q65 — Concurrent list of Indian Constitution includes *(2019)*
-
-Concurrent list of Indian Constitution includes which of the following?
-
-- A. International immigration rule for quarantine
-- B. Prevention of extension of communicable disease from one unit
-- C. Mines and oilfield workers rules
-- D. Establishment and maintenance of drug standards
-
-<details><summary>Answer</summary>
-
-**B. Prevention of extension of communicable disease from one unit**
-
-</details>
-
----
-
----
-
-### Q66 — Health center in remotest area for *(2019)*
-
-Health center in remotest area for planning and management of schemes:
-
-- A. Anganwadi
-- B. Block centre
-- C. Sub-centre
-- D. PHC
-
-<details><summary>Answer</summary>
-
-**C. Sub-centre**
-
-</details>
-
----
-
----
-
-### Q67 — Not a personal protective equipment *(2019)*
-
-Not a personal protective equipment
-
-- A. Goggles
-- B. Badges for detecting radiation
-- C. Gloves
-- D. Lab coat
-
-<details><summary>Answer</summary>
-
-**B. Badges for detecting radiation**
-
-</details>
-
----
-
----
-
-### Q68 — Deep venous thrombosis which is incorrect *(2019)*
-
-Deep venous thrombosis which is incorrect –
-
-- A. Clinical assessment highly reliable
-- B. Mostly bilateral
-- C. Most common clinically presents as pain and tenderness in calf
-- D. Some cases may directly present as pulmonary
-
-<details><summary>Answer</summary>
-
-**B. Mostly bilateral**
-
-</details>
-
----
-
----
-
-### Q69 — True about Barretts esophagus are all *(2019)*
-
-True about Barrett’s esophagus are all of the following except:
-
-- A. Causes adenocarcinoma
-- B. Patient is usually asymptomatic
-- C. Histology of the lesion shows mucus secreting goblet cells
-- D. Chronic gastroesophageal reflux is a predisposing factor
-
-<details><summary>Answer</summary>
-
-**A. Causes adenocarcinoma**
-
-</details>
-
----
-
----
-
-### Q70 — Which statement is incorrect about the *(2019)*
-
-Which statement is incorrect about the pathology shown in the image:
-
-- A. Tumor arise from epiphyseal to metaphyseal region
-- B. Tumor has distinct margin
-- C. Eccentric lesion
-- D. Chemotherapy is the treatment of choice
-
-<details><summary>Answer</summary>
-
-**D. Chemotherapy is the treatment of choice**
-
-</details>
-
----
-
----
-
-### Q71 — True about Tenosynovitis of finger *(2019)*
-
-True about Tenosynovitis of finger ?
-
-- A. Fingers held in mild extension / Extension deformity at the
-- B. Tenosynovitis of little finger will spread to thumb rather than ring
-- C. With involvement of little finger the infection can spread to the
-- D. Treatment is conservative.
-
-<details><summary>Answer</summary>
-
-**B. Tenosynovitis of little finger will spread to thumb rather than ring**
-
-</details>
-
----
-
----
-
-### Q72 — Female with 41 wk gestation confirmed *(2019)*
-
-Female with 41 wk gestation confirmed by radiological investigation, very sure of her LMP, no uterine contractions, no effacement and no dilatation. What
-
-- A. Intracervical foley’s
-- B. PGE1 tab
-- C. PGE2 gel
-- D. PGF2alpha
-
-<details><summary>Answer</summary>
-
-**D. PGF2alpha**
-
-</details>
-
----
-
----
-
-### Q73 — Premature ejaculation is a part of *(2019)*
-
-Premature ejaculation is a part of which phase of sexual disorders?
-
-- A. Excitement phase
-- B. Plateau phase
-- C. Orgasm phase
-- D. Refractory phase
-
-<details><summary>Answer</summary>
-
-**C. Orgasm phase**
-
-</details>
-
----
-
----
-
-### Q74 — Patient with recurrent abortion diagnosed to *(2019)*
-
-Patient with recurrent abortion diagnosed to have antiphospholipid syndrome. What will be the treatment?
-
-- A. Aspirin only
-- B. Aspirin + Low molecular weight Heparin
-- C. Aspirin + Low molecular weight Heparin + Prednisolone
-- D. No Treatment
-
-<details><summary>Answer</summary>
-
-**B. Aspirin + Low molecular weight Heparin**
-
-</details>
-
----
-
----
-
-### Q75 — Not true about somnambulism among the *(2019)*
-
-Not true about somnambulism among the following is?
-
-- A. Sleep walking.
-- B. Patient consciousness is preserved.
-- C. Disorder of sleep arousal.
-- D. Low level motor skill/function is present
-
-<details><summary>Answer</summary>
-
-**D. Low level motor skill/function is present**
-
-</details>
-
----
-
----
-
-### Q76 — Confusion assessment scale used for which *(2019)*
-
-Confusion assessment scale used for which of the following?
-
-- A. Schizophrenia
-- B. Delirium
-- C. Dementia
-- D. Depression
-
-<details><summary>Answer</summary>
-
-**B. Delirium**
-
-</details>
-
----
-
----
-
-### Q77 — Test based on the principle of *(2019)*
-
-Test based on the principle of suspect’s reaction, if he witnesses an event then he behaves in a certain way is?
-
-- A. Narcoanalysis
-- B. Brain mapping
-- C. Truth serum testing
-- D. Polygraph
-
-<details><summary>Answer</summary>
-
-**D. Polygraph**
-
-</details>
-
----
-
----
-
-### Q78 — A patient presented with history of *(2019)*
-
-A patient presented with history of diplopia and restricted eye movements. A clinical image and CT image is shown below. What will be the diagnosis?
-
-- A. Le- fort fracture
-- B. Fracture maxilla
-- C. Fracture zygomatic
-- D. Blow out fracture
-
-<details><summary>Answer</summary>
-
-**D. Blow out fracture**
-
-</details>
-
----
-
----
-
-### Q79 — Patient presents with purities of inter *(2019)*
-
-Patient presents with purities of inter digits of left hand as shown in the image. Identify the condition?
-
-- A. Sarcoptes scabis
-- B. Dermatitis herpetiformis
-- C. Xerotic dermatitis
-- D. Erythema multiforme
-
-<details><summary>Answer</summary>
-
-**A. Sarcoptes scabis**
-
-</details>
-
----
-
----
-
-### Q80 — A female patient presented with recurrent *(2019)*
-
-A female patient presented with recurrent Urinary tract infections. Imaging shows the following picture. What can be the most probable
-
-- A. Duplication of Ureter
-- B. Congenital Megaureter
-- C. Ureterocele
-- D. Urinary Stones
-
-<details><summary>Answer</summary>
-
-**C. Ureterocele**
-
-</details>
-
----
-
----
-
-### Q81 — A patient came in emergency with *(2019)*
-
-A patient came in emergency with severe abdominal pain pulse 112/ minute and systolic BP 80 mm/Hg with the chest Xray shown below. What will be the next appropriate step to be taken for the
-
-- A. Exploratory laprotomy
-- B. Saline Wash of stomach
-- C. Intercostal tube drainage
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Exploratory laprotomy**
-
-</details>
-
----
-
----
-
-### Q82 — True statement about given condition of *(2019)*
-
-True statement about given condition of eye except:
-
-- A. Arise from any part of conjunctiva
-- B. Can cause Astigmatism
-- C. Surgery is treatment of choice
-- D. UV exposure is risk factor
-
-<details><summary>Answer</summary>
-
-**A. Arise from any part of conjunctiva**
-
-</details>
-
----
-
----
-
-### Q83 — CT image of left maxilla with *(2019)*
-
-CT image of left maxilla with history of allergic rhinitis?
-
-- A. Ground glass appearance
-- B. Double densities
-- C. Honey comb
-- D. Onion Peel Appearance
-
-<details><summary>Answer</summary>
-
-**B. Double densities**
-
-</details>
-
----
-
----
-
-### Q84 — Identify the lesion of vocal cord *(2019)*
-
-Identify the lesion of vocal cord in the image given below:
-
-- A. Reinke’s edema
-- B. Laryngeal Papilloma
-- C. Malignancy
-- D. Tracheomalacia
-
-<details><summary>Answer</summary>
-
-**B. Laryngeal Papilloma**
-
-</details>
-
----
-
----
-
-### Q85 — A patient gives Ho hoarseness in *(2019)*
-
-A patient gives H/o hoarseness in voice & presenting with clinical condition as shown in the image. Identify the lesion:
-
-- A. Membranous tonsillitis
-- B. Follicular tonsillitis
-- C. Diphtheria
-- D. Aphthous ulcer
-
-<details><summary>Answer</summary>
-
-**C. Diphtheria**
-
-</details>
-
----
-
----
-
-### Q86 — A patient presented with the following *(2019)*
-
-A patient presented with the following picture of Tympanic Membrane. Most Probable diagnosis (marked with arrow):
-
-- A. Tubercular Otitis Media
-- B. Syphilitic Otitis Media
-- C. Pseudomonas infection
-- D. Fungal Otitis Media
-
-<details><summary>Answer</summary>
-
-**A. Tubercular Otitis Media**
-
-</details>
-
----
-
----
-
-### Q87 — Dohlman procedure is for *(2019)*
-
-Dohlman procedure is for:
-
-- A. Meckel's diverticulum
-- B. Zenker's diverticulum
-- C. Dermatomyositis
-- D. Menetrier's disease
-
-<details><summary>Answer</summary>
-
-**B. Zenker's diverticulum**
-
-</details>
-
----
-
----
-
-
-## Year 2020
-
-### Q88 — Saccule origin
-
-Saccule develops from which structure?
-
-- A. Sacculus anterior
-- B. Pars posterior
-- C. Pars superior
-- D. Pars inferior
-
-<details><summary>Answer</summary>
-
-**D. Pars inferior** — Saccule and cochlea arise from pars inferior of the otocyst.
-</details>
-
----
-
-### Q89 — Meatoplasty
-
-Surgery to widen cartilaginous external auditory canal?
-
-- A. Tympanoplasty
-- B. Myringoplasty
-- C. Otoplasty
-- D. Meatoplasty
-
-<details><summary>Answer</summary>
-
-**D. Meatoplasty** — Widens the cartilaginous canal (often after canal-wall-down mastoidectomy).
-</details>
-
----
-
----
-
-### Q90 — The reason for the long left *(2020)*
-
-The reason for the long left recurrent laryngeal nerve is due to the persistence of which arch artery?
-
-- A. 3rd arch
-- B. 4th arch
-- C. 5th arch
-- D. 2nd arch
-
-<details><summary>Answer</summary>
-
-**B. 4th arch**
-
-</details>
-
----
-
----
-
-### Q91 — A boy met with a motorbike *(2020)*
-
-A boy met with a motorbike accident. CT brain shows injury to the posterior end of the superior temporal gyrus. He is likely to suffer from
-
-- A. Fluent aphasia
-- B. Non-fluent aphasia
-- C. Conduction aphasia
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**A. Fluent aphasia**
-
-</details>
-
----
-
----
-
-### Q92 — Proteoglycan present in the glomerular basement *(2020)*
-
-Proteoglycan present in the glomerular basement membrane is?
-
-- A. Keratan sulphate 1
-- B. Keratan sulphate 2
-- C. Heparan sulphate
-- D. Chondroitin sulphate
-
-<details><summary>Answer</summary>
-
-**C. Heparan sulphate**
-
-</details>
-
----
-
----
-
-### Q93 — Which of the following clotting factor *(2020)*
-
-Which of the following clotting factor in a patient on Warfarin therapy, would have decreased gamma carboxyglutamate residue?
-
-- A. Factor 2
-- B. Factor 11
-- C. Tissue factor
-- D. Factor 5
-
-<details><summary>Answer</summary>
-
-**A. Factor 2**
-
-</details>
-
----
-
----
-
-### Q94 — Which of the following technique is *(2020)*
-
-Which of the following technique is used to study current flow across a single ion channel?
-
-- A. Patch clamp
-- B. Voltage clamp
-- C. lontophoresis
-- D. Galvanometry
-
-<details><summary>Answer</summary>
-
-**A. Patch clamp**
-
-</details>
-
----
-
----
-
-### Q95 — Which of the following is true *(2020)*
-
-Which of the following is true about different structures of protein?
-
-- A. Secondary structure is the three-dimensional structure of
-- B. Secondary structure is stabilized by disulfide bonds
-- C. Primary, secondary and tertiary structures destroyed during
-- D. Secondary and tertiary structure depends on the sequence of
-
-<details><summary>Answer</summary>
-
-**D. Secondary and tertiary structure depends on the sequence of**
-
-</details>
-
----
-
----
-
-### Q96 — If a sample of DNA if *(2020)*
-
-If a sample of DNA if adenine is 28% what will be the amount of Cytosine present
-
-- A. 23%
-- B. 25%
-- C. 46%
-- D. 22%
-
-<details><summary>Answer</summary>
-
-**D. 22%**
-
-</details>
-
----
-
----
-
-### Q97 — True statement regarding Huntingtons chorea is *(2020)*
-
-True statement regarding Huntington’s chorea is
-
-- A. There is a loss of function type of mutation
-- B. It is an autosomal recessive
-- C. It is a trinucleotide repeat expansion type of disorder
-- D. Increased number of CAA repeats
-
-<details><summary>Answer</summary>
-
-**C. It is a trinucleotide repeat expansion type of disorder**
-
-</details>
-
----
-
----
-
-### Q98 — Which of the following is the *(2020)*
-
-Which of the following is the basis for the intestine-specific expression of apoprotein B-48?
-
-- A. DNA rearrangement and loss
-- B. DNA rearrangement and loss
-- C. RNA alternative splicing
-- D. RNA editing
-
-<details><summary>Answer</summary>
-
-**D. RNA editing**
-
-</details>
-
----
-
----
-
-### Q99 — 30 years old came with complaints *(2020)*
-
-30 years old came with complaints of easy fatigability, exertional dyspnea, and weight loss. She also complains of frequent falls. physical examination
-
-- A. Folate not absorbed
-- B. Unmasked pyridoxine deficiency
-- C. Deficiency of folate reductase in CNS
-- D. Folate therapy caused rapid use of Vit B12 stores aggravating
-
-<details><summary>Answer</summary>
-
-**D. Folate therapy caused rapid use of Vit B12 stores aggravating**
-
-</details>
-
----
-
----
-
-### Q100 — Which of the following will be *(2020)*
-
-Which of the following will be seen on cardiac biopsy of a patient who had a post MI reperfusion injury?
-
-- A. Waviness of fibres
-- B. Eosinophilic contraction bands
-- C. Neutrophils in cardiac cells
-- D. Swelling of cells
-
-<details><summary>Answer</summary>
-
-**B. Eosinophilic contraction bands**
-
-</details>
-
----
-
----
-
-### Q101 — Which of the following is true *(2020)*
-
-Which of the following is true about PAN?
-
-- A. Microscopy shows fibrinoid necrosis in large arteries
-- B. ANCA is positive
-- C. 30% of people have HbsAg positive
-- D. Patient have hypogammaglobulinemia
-
-<details><summary>Answer</summary>
-
-**C. 30% of people have HbsAg positive**
-
-</details>
-
----
-
----
-
-### Q102 — What is the main feature of *(2020)*
-
-What is the main feature of chemotaxis as observed in white blood cells?
-
-- A. Increased random movement of neutrophils
-- B. Increased adhesiveness to intima
-- C. Increased phagocytosis
-- D. Unidirectional locomotion of neutrophils
-
-<details><summary>Answer</summary>
-
-**D. Unidirectional locomotion of neutrophils**
-
-</details>
-
----
-
----
-
-### Q103 — Which of the following antimicrobials should *(2020)*
-
-Which of the following antimicrobials should not be given to a chronic asthmatic patient managed on theophylline therapy?
-
-- A. Erythromycin
-- B. Amoxicillin
-- C. Cefotaxime
-- D. Cotrimoxazole
-
-<details><summary>Answer</summary>
-
-**A. Erythromycin**
-
-</details>
-
----
-
----
-
-### Q104 — A patient on lithium therapy developed *(2020)*
-
-A patient on lithium therapy developed hypertension. He was started on Thiazide for hypertension. After a few days, he developed coarse tremors and other
-
-- A. Thiazide increases the tubular reabsorption of lithium
-- B. Thiazide inhibits the metabolism of lithium
-- C. Thiazides act as an add on the drug to lithium
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**A. Thiazide increases the tubular reabsorption of lithium**
-
-</details>
-
----
-
----
-
-### Q105 — At a high altitude of 3000 *(2020)*
-
-At a high altitude of 3000 m, a person complains of breathlessness. All of the following can be used for the management of this person except?
-
-- A. Intravenous digoxin
-- B. Oxygen supplementation
-- C. Immediate descent
-- D. Acetazolamide
-
-<details><summary>Answer</summary>
-
-**A. Intravenous digoxin**
-
-</details>
-
----
-
----
-
-### Q106 — A patient with diabetes and COPD *(2020)*
-
-A patient with diabetes and COPD developed postoperative urinary retention. Which of the following drugs can be used for short term treatment to
-
-- A. Bethanechol
-- B. Methacholine
-- C. Terazosin
-- D. Tamsulosin
-
-<details><summary>Answer</summary>
-
-**A. Bethanechol**
-
-</details>
-
----
-
----
-
-### Q107 — A patient was recently started on *(2020)*
-
-A patient was recently started on Fluphenazine. A few weeks later, he developed tremors, rigidity, bradykinesia, and excessive salivation. The first line of
-
-- A. Selegiline
-- B. Trihexyphenidyl
-- C. Pramipexole
-- D. Amantadine
-
-<details><summary>Answer</summary>
-
-**B. Trihexyphenidyl**
-
-</details>
-
----
-
----
-
-### Q108 — Punishment of perjury comes under IPC *(2020)*
-
-Punishment of perjury comes under IPC section?
-
-- A. IPC 191
-- B. IPC 192
-- C. IPC 193
-- D. IPC 197
-
-<details><summary>Answer</summary>
-
-**C. IPC 193**
-
-</details>
-
----
-
----
-
-### Q109 — Relatives of a patient told during *(2020)*
-
-Relatives of a patient told during postmortem examination that the person had a tattoo - which was now invisible. How to identify?
-
-- A. Examine the Lymph node
-- B. Spectrophotometer
-- C. Ordinary light
-- D. X-ray
-
-<details><summary>Answer</summary>
-
-**A. Examine the Lymph node**
-
-</details>
-
----
-
----
-
-### Q110 — Which of the following cell components *(2020)*
-
-Which of the following cell components produced by Neisseria gonorrhoeae is responsible for attachment to host cells?
-
-- A. Lipooligosaccharide
-- B. Pili (fimbriae)
-- C. IgA1 protease
-- D. Outer membrane porin protein
-
-<details><summary>Answer</summary>
-
-**B. Pili (fimbriae)**
-
-</details>
-
----
-
----
-
-### Q111 — A person reports 4 hours after *(2020)*
-
-A person reports 4 hours after having a clean wound without laceration. He had taken TT 10 years before. the next step in management is:
-
-- A. Full course Tetanus vaccine to be given
-- B. Full dose TT with TIG
-- C. Single-dose TT
-- D. No need for any vaccine
-
-<details><summary>Answer</summary>
-
-**C. Single-dose TT**
-
-</details>
-
----
-
----
-
-### Q112 — Recent Influenza Pandemic was due to *(2020)*
-
-Recent Influenza Pandemic was due to:
-
-- A. H1N1
-- B. H5N1
-- C. H7N7
-- D. H3N2
-
-<details><summary>Answer</summary>
-
-**A. H1N1**
-
-</details>
-
----
-
----
-
-### Q113 — Which of the following is a *(2020)*
-
-Which of the following is a technique/method based on behavioural sciences
-
-- A. Management by objectives
-- B. Network analysis
-- C. Systems analysis
-- D. Decision making
-
-<details><summary>Answer</summary>
-
-**A. Management by objectives**
-
-</details>
-
----
-
----
-
-### Q114 — As per the sustainable development goals, *(2020)*
-
-As per the sustainable development goals, The target for MMR is to achieve maternal deaths of
-
-- A. < 70 / Lac live births
-- B. < 100 / lac live births
-- C. < 7 / 1000 live births
-- D. < 10 / 1000 live births
-
-<details><summary>Answer</summary>
-
-**A. < 70 / Lac live births**
-
-</details>
-
----
-
----
-
-### Q115 — The variation in data is compared *(2020)*
-
-The variation in data is compared with another data set by:
-
-- A. Variance
-- B. Coefficient of variation
-- C. The standard error of mean
-- D. Standard deviation
-
-<details><summary>Answer</summary>
-
-**B. Coefficient of variation**
-
-</details>
-
----
-
----
-
-### Q116 — In which of the following methods *(2020)*
-
-In which of the following methods of management is the benefit measured in natural units?
-
-- A. Program budgeting system
-- B. Network analysis
-- C. Cost-effective analysis
-- D. Cost-benefit analysis
-
-<details><summary>Answer</summary>
-
-**C. Cost-effective analysis**
-
-</details>
-
----
-
----
-
-### Q117 — If one variable is given then *(2020)*
-
-If one variable is given then you can find another variable by
-
-- A. Coefficient of variation
-- B. Coefficient of correlation
-- C. Coefficient of regression
-- D. Coefficient of determination
-
-<details><summary>Answer</summary>
-
-**C. Coefficient of regression**
-
-</details>
-
----
-
----
-
-### Q118 — A researcher wanted to prove the *(2020)*
-
-A researcher wanted to prove the relation between COPD and smoking. He collected patients records from government hospitals and records of
-
-- A. Cross-sectional
-- B. Posological study
-- C. Ecological study
-- D. Operations research
-
-<details><summary>Answer</summary>
-
-**C. Ecological study**
-
-</details>
-
----
-
----
-
-### Q119 — Tubercular Otitis media is characterized by *(2020)*
-
-Tubercular Otitis media is characterized by all except
-
-- A. Painful otorrhea
-- B. Multiple perforations
-- C. Pale granulations
-- D. Foul-smelling ear discharge
-
-<details><summary>Answer</summary>
-
-**A. Painful otorrhea**
-
-</details>
-
----
-
----
-
-### Q120 — Partial and full closure done in *(2020)*
-
-Partial and full closure done in
-
-- A. Atrophic rhinitis
-- B. Allergic rhinitis
-- C. Vasomotor rhinitis
-- D. Occupational rhinitis
-
-<details><summary>Answer</summary>
-
-**A. Atrophic rhinitis**
-
-</details>
-
----
-
----
-
-### Q121 — A drug used in a patient *(2020)*
-
-A drug used in a patient with increased IOP and optic disc changes, ciliary congestion for decrease IOP acts by increasing uveoscleral outflow is
-
-- A. Latanoprost
-- B. Pilocarpine
-- C. Dorzolamide
-- D. Timolol
-
-<details><summary>Answer</summary>
-
-**A. Latanoprost**
-
-</details>
-
----
-
----
-
-### Q122 — Nutcracker esophagus, the correct statement is *(2020)*
-
-Nutcracker esophagus, the correct statement is
-
-- A. There is extremely forceful peristaltic activity leading to
-- B. There is no medical t/t available
-- C. Type of oesophageal Malignancy
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. There is extremely forceful peristaltic activity leading to**
-
-</details>
-
----
-
----
-
-### Q123 — What will you do when 3 *(2020)*
-
-What will you do when 3 yrs old child parents come to phc with fever, cough since 5 days with chest indrawing present under mnci classification
-
-- A. Give antipyretics only
-- B. Give antibiotics and follow up
-- C. Refer urgently to tertiary care
-- D. Give antibiotics and refer to tertiary care
-
-<details><summary>Answer</summary>
-
-**D. Give antibiotics and refer to tertiary care**
-
-</details>
-
----
-
----
-
-### Q124 — A patient having multiple Gall stones *(2020)*
-
-A patient having multiple Gall stones and shows 8 mm dilation and 4 stones in CBD, best treatment modalities are –
-
-- A. Cholecystectomy with choledocholithotomy at the same setting
-- B. ESWL
-- C. Cholecystectomy and wait for ERCP
-- D. All
-
-<details><summary>Answer</summary>
-
-**A. Cholecystectomy with choledocholithotomy at the same setting**
-
-</details>
-
----
-
----
-
-### Q125 — Hemodynamically unstable patient with SVT *(2020)*
-
-Hemodynamically unstable patient with SVT
-
-- A. IV IBUTILIDE
-- B. IV DILTIAZEM
-- C. CARDIOVERSION
-- D. Iv beta-blockers
-
-<details><summary>Answer</summary>
-
-**C. CARDIOVERSION**
-
-</details>
-
----
-
----
-
-### Q126 — A Female patient was on lithium *(2020)*
-
-A Female patient was on lithium for bipolar disorder for 6 months.she fasted for some days due to religious condition and later presented with
-
-- A. serum electrolytes
-- B. serum lithium
-- C. ECG
-- D. MRI
-
-<details><summary>Answer</summary>
-
-**B. serum lithium**
-
-</details>
-
----
-
----
-
-### Q127 — All trans retinoic acid is used *(2020)*
-
-All trans retinoic acid is used in the treatment of tumour associated with
-
-- A. BCR-ABL
-- B. PML-RARA
-- C. CMYC
-- D. CEBPA
-
-<details><summary>Answer</summary>
-
-**B. PML-RARA**
-
-</details>
-
----
-
----
-
-### Q128 — Atient has fatigue But not gaining *(2020)*
-
-Atient has fatigue. But not gaining weight. Body was warm. Investigation will show:
-
-- A. Low TSH with more t3 or t4
-- B. High TSH with normal t3 or t4
-- C. High TSH with euthyroid
-- D. Increased uptake of t3, but decrease t4
-
-<details><summary>Answer</summary>
-
-**A. Low TSH with more t3 or t4**
-
-</details>
-
----
-
----
-
-### Q129 — A patient arrived in ER following *(2020)*
-
-A patient arrived in ER following an RTA with hypotension, respiratory distress and subcutaneous emphysema with no entry of air on one side. What will be the
-
-- A. Needle decompression in 5th intercostal space in the
-- B. Continue PPV
-- C. Shift to ICU and incubate
-- D. Secure IV line and start fluid resuscitation after insertion of the
-
-<details><summary>Answer</summary>
-
-**A. Needle decompression in 5th intercostal space in the**
-
-</details>
-
----
-
----
-
-### Q130 — Patient with a history of carcinoma *(2020)*
-
-Patient with a history of carcinoma bladder presenting with dyspnoea with clinical signs of DVT and tachycardia. The risk for the patient to develop
-
-- A. High
-- B. Medium
-- C. Low
-- D. Cannot comment without d-dimer values
-
-<details><summary>Answer</summary>
-
-**B. Medium**
-
-</details>
-
----
-
----
-
-### Q131 — A young man met with a *(2020)*
-
-A young man met with a motorbike accident and had injuries to ileum and jejunum. Therefore the entire ileum and partial jejunum were resected. Which of
-
-- A. Vitamin B12 deficiency
-- B. Atrophic gastritis
-- C. Constipation
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Vitamin B12 deficiency**
-
-</details>
-
----
-
----
-
-### Q132 — Thoracoscore , what is not the *(2020)*
-
-Thoracoscore , what is not the component
-
-- A. ASA CLASSIFICATIONS
-- B. SURGERY PRIORITIES
-- C. Performance status
-- D. Expected complications post-surgery
-
-<details><summary>Answer</summary>
-
-**B. SURGERY PRIORITIES**
-
-</details>
-
----
-
----
-
-### Q133 — In a patient with parathyroid adenoma, *(2020)*
-
-In a patient with parathyroid adenoma, how do we confirm the removal of the correct gland after surgery?
-
-- A. 50% reduction in PTH after 10mins
-- B. 50% reduction in PTH after 5mins
-- C. 25% reduction in PTH after 10mins
-- D. 25% reduction in PTH after 5mins
-
-<details><summary>Answer</summary>
-
-**A. 50% reduction in PTH after 10mins**
-
-</details>
-
----
-
----
-
-### Q134 — A patient delivered at home with *(2020)*
-
-A patient delivered at home with a complete perineal tear came to the hospital after 2 weeks. What management will you prefer?
-
-- A. Immediate repair
-- B. Repair 3 weeks post-delivery
-- C. Repair 6 weeks post-delivery
-- D. Repair 3 months post-delivery
-
-<details><summary>Answer</summary>
-
-**D. Repair 3 months post-delivery**
-
-</details>
-
----
-
----
-
-### Q135 — MBBS student she was choking with *(2020)*
-
-MBBS student she was choking with dyspnea, chest tightness, anxiety and an impending sense of doom on examination all systemic conditions were
-
-- A. Panic disorder
-- B. Depression
-- C. Epilepsy
-- D. Asthma
-
-<details><summary>Answer</summary>
-
-**A. Panic disorder**
-
-</details>
-
----
-
----
-
-### Q136 — A patient with depression was given *(2020)*
-
-A patient with depression was given Imipramine for 2 weeks. Relatives noticed increased excitement, colourful clothes, increased talking. What is the
-
-- A. Antipsychotic with Imipramine continued
-- B. Discontinue Imipramine and start Valproate
-- C. Continue Imipramine alone
-- D. Manage with Valproate alone
-
-<details><summary>Answer</summary>
-
-**A. Antipsychotic with Imipramine continued**
-
-</details>
-
----
-
----
-
-### Q137 — A Patient falls down often with *(2020)*
-
-A Patient falls down often with behavioral change and enuresis. What is the condition associated with him?
-
-- A. Frontotemporal dementia
-- B. Normal pressure hydrocephalus
-- C. Parkinson's disease
-- D. Alzheimer's disease
-
-<details><summary>Answer</summary>
-
-**B. Normal pressure hydrocephalus**
-
-</details>
-
----
-
----
-
-### Q138 — A Patient with depressive symptoms for *(2020)*
-
-A Patient with depressive symptoms for 6 months and associated with auditory hallucinations for 2 weeks. What is the probable diagnosis of the
-
-- A. Psychotic depression
-- B. Schizoaffective disorder
-- C. Mania depressive illness
-- D. Schizophrenia
-
-<details><summary>Answer</summary>
-
-**A. Psychotic depression**
-
-</details>
-
----
-
----
-
-### Q139 — An Hiv positive patient with a *(2020)*
-
-An Hiv positive patient with a CD4 COUNT OF 300/Cumm presents with mucosal lesions in the mouth as shown in the figure. on microscopy budding
-
-- A. Candidiasis
-- B. Hairy leukoplakia
-- C. Lichen planus
-- D. Diphtheria
-
-<details><summary>Answer</summary>
-
-**A. Candidiasis**
-
-</details>
-
----
-
----
-
-### Q140 — 25-year-old man presents for a routine *(2020)*
-
-25-year-old man presents for a routine physical examination. The patient is tall and on examination, he was found to have an early diastolic murmur. His
-
-- A. AD
-- B. AR
-- C. XLR
-- D. XLD
-
-<details><summary>Answer</summary>
-
-**A. AD**
-
-</details>
-
----
-
----
-
-### Q141 — A patient with the following feature *(2020)*
-
-A patient with the following feature shown in the image. The patient reports having another 3-year-old sibling at home, who is fully immunized as per the
-
-- A. Give diphtheria toxoid booster
-- B. Give a full course of DPT vaccine
-- C. Give prophylactic erythromycin
-- D. Nothing is required to be done
-
-<details><summary>Answer</summary>
-
-**D. Nothing is required to be done**
-
-</details>
-
----
-
----
-
-### Q142 — The patient presents with, fever, dysphagia *(2020)*
-
-The patient presents with, fever, dysphagia. Image showing pushing tonsil. what is the diagnosis?
-
-- A. Parapharyngeal abscess
-- B. Retropharyngeal abscess
-- C. Peritonsillar abscess
-- D. Ludwig's angina
-
-<details><summary>Answer</summary>
-
-**C. Peritonsillar abscess**
-
-</details>
-
----
-
----
-
-### Q143 — This patient gives a history of *(2020)*
-
-This patient gives a history of toothache for one week. What is the diagnosis:
-
-- A. Acute parotitis
-- B. Angioneurotic edema
-- C. Ludwig's angina
-- D. Parapharyngeal abscess
-
-<details><summary>Answer</summary>
-
-**C. Ludwig's angina**
-
-</details>
-
----
-
----
-
-### Q144 — The movement is lost in *(2020)*
-
-The movement is lost in:
-
-- A. Third nerve palsy
-- B. Trochlear palsy
-- C. Sixth nerve palsy
-- D. Facial nerve palsy
-
-<details><summary>Answer</summary>
-
-**B. Trochlear palsy**
-
-</details>
-
----
-
----
-
-### Q145 — A lady on treatment for infertility *(2020)*
-
-A lady on treatment for infertility developed ascites, abdominal pain & dyspnea. USG of the patient was done shown
-
-- A. PCOS
-- B. OHSS
-- C. Theca lutein cyst
-- D. Mucinous cystadenomas
-
-<details><summary>Answer</summary>
-
-**B. OHSS**
-
-</details>
-
----
-
----
-
-### Q146 — 5-year male child present to the *(2020)*
-
-5-year male child present to the clinic with H/O recurrent infection On examination he was found to have rashes shown below in the image. On
-
-- A. Wiskott Aldrich syndrome
-- B. Job's syndrome
-- C. Chediak Higashi syndrome
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Wiskott Aldrich syndrome**
-
-</details>
-
----
-
----
-
-### Q147 — The patient is presenting with pain *(2020)*
-
-The patient is presenting with pain around the base of the thumb, tendons involved -
-
-- A. APB & EBL
-- B. APL & EPB
-- C. APB & EPB
-- D. APL & EPL
-
-<details><summary>Answer</summary>
-
-**B. APL & EPB**
-
-</details>
-
----
-
----
-
-### Q148 — Identify the device shown in the *(2020)*
-
-Identify the device shown in the image.
-
-- A. Nasopharyngeal Airway
-- B. Endotracheal Tube(Cuffed)
-- C. Guedel Airway
-- D. Laryngeal Mask Airway
-
-<details><summary>Answer</summary>
-
-**D. Laryngeal Mask Airway**
-
-</details>
-
----
-
----
-
-### Q149 — Steeple sign is seen in which *(2020)*
-
-Steeple sign is seen in which of the following condition?
-
-- A. Acute epiglottitis
-- B. Acute laryngotracheobronchitis
-- C. Laryngeal papillomatosis
-- D. Bilateral abductor paralysis
-
-<details><summary>Answer</summary>
-
-**B. Acute laryngotracheobronchitis**
-
-</details>
-
----
-
----
-
-
-## Year 2021
-
-### Q150 — Failed extubation post-thyroidectomy
-
-Post-thyroidectomy patient with breathing difficulty, failed extubation.
-
-- A. Superior laryngeal nerve injury
-- B. Unilateral RLN injury
-- C. Bilateral RLN injury
-- D. Hematoma
-
-<details><summary>Answer</summary>
-
-**C. Bilateral RLN injury** — Both cords adduct in median position → airway obstruction → stridor + failed extubation.
-</details>
-
----
-
-### Q151 — Atrophic rhinitis
-
-Female with nasal obstruction, foul discharge, anosmia. Finding?
-
-- A. Roomy nasal cavity
-- B. Nasal polyps
-- C. Inferior turbinate hypertrophy
-- D. Foreign body
-
-<details><summary>Answer</summary>
-
-**A. Roomy nasal cavity** — Atrophic rhinitis (ozaena); paradoxical roominess + crusting + foul smell.
-</details>
-
----
-
----
-
-### Q152 — Tympanoplasty — indication
-
-Large central tympanic membrane perforation with visible middle ear structures — surgery?
-
-- A. Atticotomy
-- B. Modified radical mastoidectomy
-- C. Myringoplasty
-- D. Tympanoplasty
-
-<details><summary>Answer</summary>
-
-**D. Tympanoplasty** — Tympanoplasty repairs TM + reconstructs ossicular chain (if needed). Myringoplasty = TM repair only (no ossicular work). Large perforations with middle ear involvement = tympanoplasty.
-
-</details>
-
----
-
-### Q153 — Tuning fork — left conductive loss
-
-Rinne negative left, positive right; Weber lateralized left; PTA shows conductive loss — diagnosis?
-
-- A. Right conductive hearing loss
-- B. Left conductive hearing loss
-- C. Right sensorineural hearing loss
-- D. Left sensorineural hearing loss
-
-<details><summary>Answer</summary>
-
-**B. Left conductive hearing loss** — Weber lateralizes to worse ear in conductive loss. Rinne negative = BC > AC = conductive loss on that side.
-
-</details>
-
----
-
-### Q154 — Juvenile nasopharyngeal angiofibroma
-
-Adolescent male with profuse epistaxis, nasal obstruction, globular vascular nasopharyngeal mass?
-
-- A. Juvenile nasopharyngeal angiofibroma
-- B. Antrochoanal polyp
-- C. Rhinoscleroma
-- D. Rhinosporidiosis
-
-<details><summary>Answer</summary>
-
-**A. Juvenile nasopharyngeal angiofibroma** — Exclusive to adolescent males; fibrovascular tumor; CT shows Holman-Miller sign (anterior bowing of posterior antral wall). Profuse bleed on biopsy.
-
-</details>
-
----
-
-### Q155 — Nasal fracture — reduction forceps
-
-Nasal bone fracture with displaced bones — reduction instrument?
-
-- A. Tilley's forceps
-- B. Luc's forceps
-- C. Walsham forceps
-- D. Bayonet forceps
-
-<details><summary>Answer</summary>
-
-**C. Walsham forceps** — Used to manipulate displaced nasal bones. Asch's forceps for septal fractures. Luc's forceps for nasal polyps.
-
-</details>
-
----
-
-### Q156 — Foreign body in child — management
-
-3-year-old with peanut aspiration, unresponsive — management?
-
-- A. Abdominal thrusts (Heimlich)
-- B. Back slaps
-- C. Chest compressions
-- D. Endotracheal intubation
-
-<details><summary>Answer</summary>
-
-**C. Chest compressions** — In unresponsive child with foreign body airway obstruction → CPR protocol (chest compressions). Heimlich (abdominal thrusts) for conscious children >1 year. Back blows + chest thrusts for infants <1 year.
-
-</details>
-
----
-
----
-
-
-## Year 2022
-
-### Q157 — A post-COVID patient, who is a *(2022)*
-
-A post-COVID patient, who is a known diabetic, develops unilateral facial pain and loosening of teeth. Which investigation would you do to confirm the diagnosis of this patient?
-
-- A. MRI
-- B. Biopsy with histopathologic examination
-- C. Serum ferritin
-- D. HbA1c
-
-<details><summary>Answer</summary>
-
-**B. Biopsy with histopathologic examination**
-
-</details>
-
----
-
----
-
-### Q158 — A patient presents with the complaint *(2022)*
-
-A patient presents with the complaint of inability to close the eye, drooling of saliva, and deviation of the angle of the mouth. Which of the following nerves is most likely to be affected?
-
-- A. Facial nerve
-- B. Trigeminal nerve
-- C. Oculomotor nerve
-- D. Glossopharyngeal nerve
-
-<details><summary>Answer</summary>
-
-**A. Facial nerve**
-
-</details>
-
----
-
----
-
-### Q159 — An adult man in a restaurant *(2022)*
-
-An adult man in a restaurant suddenly begins choking on his food. He is conscious. The following procedure was performed. Identify the procedure.
-
-- A. Heimlich’s maneuver
-- B. Back slap
-- C. Chest thrust
-- D. Blind insertion of finger
-
-<details><summary>Answer</summary>
-
-**A. Heimlich’s maneuver**
-
-</details>
-
----
-
----
-
-### Q160 — A patient comes with a history *(2022)*
-
-A patient comes with a history of asthma and sinusitis. On looking into his medical records, you notice this has been attributed to Samter’s triad. Which drug should be avoided in this patient?
-
-- A. Cotrimoxazole
-- B. Co-amoxiclav
-- C. Aspirin
-- D. Chloramphenicol
-
-<details><summary>Answer</summary>
-
-**C. Aspirin**
-
-</details>
-
----
-
----
-
-### Q161 — A 70-year-old male patient presents with *(2022)*
-
-A 70-year-old male patient presents with decreased hearing in higher frequencies. It was noted that the basilar membrane was affected. Which of the following structures lie near the affected structure?
-
-- A. Modiolus
-- B. Stria vascularis
-- C. Oval window
-- D. Helicotrema
-
-<details><summary>Answer</summary>
-
-**C. Oval window**
-
-</details>
-
----
-
----
-
-
-## Year 2023
-
-### Q162 — Air-bone gap estimation
-
-A female with hearing loss; Rinne negative at 256–512 Hz, positive at 1024 Hz. Expected air–bone gap?
-
-- A. 30–45 dB
-- B. 15–30 dB
-- C. 45–60 dB
-- D. > 60 dB
-
-<details><summary>Answer</summary>
-
-**A. 30–45 dB** — Rinne negative at 512 Hz but positive at 1024 Hz → ABG ≈ 30–45 dB.
-</details>
-
----
-
-### Q163 — Referred otalgia from tonsillitis
-
-A 10-year-old with throat pain, fever, ear pain; recurrent tonsillitis. Which nerve carries the referred ear pain?
-
-- A. Tympanic branch of glossopharyngeal (Jacobson's)
-- B. Greater auricular nerve
-- C. Auriculotemporal nerve
-- D. Auricular branch of vagus (Arnold's)
-
-<details><summary>Answer</summary>
-
-**A. Tympanic branch of glossopharyngeal (Jacobson's nerve)** — IX supplies tonsillar fossa and middle ear → referred otalgia.
-</details>
-
----
-
----
-
-
-## Year 2024
-
-### Q164 — Singer with low-pitched bowed cords
-
-A singer with difficulty raising pitch, depressed and bowing vocal cords. Involved muscle?
-
-- A. Cricothyroid
-- B. Interarytenoid
-- C. Posterior cricoarytenoid
-- D. Lateral arytenoid
-
-<details><summary>Answer</summary>
-
-**A. Cricothyroid** — Sole tensor of vocal cords (supplied by external laryngeal nerve). Paralysis → loss of high pitch / bowing.
-</details>
-
----
-
-### Q165 — Head impulse in vestibular neuronitis
-
-A 45-year-old woman with right vestibular neuronitis. Expected head impulse test findings?
-
-- A. Head turned left, eyes move left with nystagmus
-- B. Head turned left, eyes move right with nystagmus
-- C. Head turned right, eyes move left with nystagmus
-- D. Head turned right, eyes move right with nystagmus
-
-<details><summary>Answer</summary>
-
-**C. Head turned right, eyes move left with nystagmus** — Toward affected side, VOR fails → corrective catch-up saccade.
-</details>
-
----
-
----
-
-### Q166 — Identify the given drain Surgery *(2024)*
-
-Identify the given drain: Surgery
-
-- A. Underwater seal drain
-- B. Nelaton drain
-- C. Closed suction drain
-- D. Penrose drain
-
-<details><summary>Answer</summary>
-
-**C. Closed suction drain**
-
-</details>
-
----
-
----
-
-### Q167 — Clinical Question A 36-year-old male patient *(2024)*
-
-A 36-year-old male patient presents with a history of ear discharge for 2 weeks. On examination, a mild perforation is observed in the antero-inferior segment of the tympanic membrane. What is the expected result from Rinne’s test?
-
-- A. Rinne’s positive
-- B. Rinne’s negative
-- C. Rinne’s equivocal
-- D. Cannot be determined
-
-<details><summary>Answer</summary>
-
-**B. Rinne’s negative**
-
-</details>
-
----
-
----
-
-### Q168 — Considering the findings on the given *(2024)*
-
-Considering the findings on the given chest X-ray, which procedure is likely to be the most technically difficult to carry out?
-
-- A. Tracheostomy
-- B. Laryngeal Mask Airway (LMA) insertion
-- C. Ryle’s Tube (RT) insertion
-- D. Indirect laryngoscopy
-
-<details><summary>Answer</summary>
-
-**A. Tracheostomy**
-
-</details>
-
----
-
----
-
-
-## Year 2025
-
-### Q169 — Nasal bone fracture reduction instrument
-
-A patient with nasal bone fracture requires closed reduction. Which instrument is used?
-
-- A. Tilley's probe
-- B. Luc's forceps
-- C. Denis Browne probe
-- D. Walsham's forceps
-
-<details><summary>Answer</summary>
-
-**D. Walsham's forceps** — Used for nasal bone reduction (one blade inside, one outside). Asch forceps is used for septal reduction.
-</details>
-
----
-
----
-
-### Q170 — Posterior epistaxis artery ligation
-
-An elderly diabetic hypertensive with severe posterior epistaxis not controlled by packing. Which artery should be ligated?
-
-- A. Sphenopalatine artery
-- B. Anterior ethmoidal artery
-- C. Posterior ethmoidal artery
-- D. Greater palatine artery
-
-<details><summary>Answer</summary>
-
-**A. Sphenopalatine artery** — Primary vessel for posterior epistaxis. Endoscopic sphenopalatine artery ligation is now the gold standard.
-</details>
-
----
-
----
-
-### Q171 — Recurrent profuse nasal bleeding in adolescent male
-
-16-year-old male with recurrent profuse right-sided nasal bleeding; endoscopy shows globular mass; CT shows bowing of posterior maxillary sinus wall. Diagnosis?
-
-- A. Juvenile nasopharyngeal angiofibroma (JNA)
-- B. Antrochoanal polyp
-- C. Rhinosporidiosis
-- D. Rhinoscleroma
-
-<details><summary>Answer</summary>
-
-**A. Juvenile nasopharyngeal angiofibroma** — Highly vascular, benign but locally aggressive tumour in adolescent males. Holman-Miller sign (bowing of posterior maxillary wall) is pathognomonic.
-</details>
-
----
-
----
-
-### Q172 — Laryngeal structure identification (image)
-
-The marked structure in the laryngoscopic image is:
-
-- A. Thyroid cartilage
-- B. Pyriform sinus
-- C. Epiglottis
-- D. Vallecula
-
-<details><summary>Answer</summary>
-
-**B. Pyriform sinus** — The pyriform fossa (sinus) is the most common site of hypopharyngeal carcinoma. Lies lateral to the laryngeal inlet.
-</details>
-
----
-
----
-
-### Q173 — Rinne and Weber interpretation
-
-A 27-year-old male: Rinne negative left, positive right; Weber lateralises to left. Type and side?
-
-- A. Left sensorineural hearing loss
-- B. Right sensorineural hearing loss
-- C. Left conductive hearing loss
-- D. Right conductive hearing loss
-
-<details><summary>Answer</summary>
-
-**C. Left conductive hearing loss** — Rinne negative (BC > AC) on left = CHL left. Weber lateralises to affected ear in CHL (to left). Consistent with tubotympanic CSOM/central perforation.
-</details>
-
----
-
----
-
-### Q174 — Advanced laryngeal SCC surgery
-
-A 75-year-old smoker with advanced T4 laryngeal SCC undergoes surgery. Most appropriate procedure?
-
-- A. Total laryngectomy
-- B. Partial laryngectomy
-- C. Percutaneous tracheostomy
-- D. Standard tracheostomy
-
-<details><summary>Answer</summary>
-
-**A. Total laryngectomy** — Advanced (T3/T4) laryngeal SCC: total laryngectomy ± neck dissection ± radiotherapy. Partial laryngectomy is for early-stage tumours.
-</details>
-
----
-
----
-
-### Q175 — Complete absence of tympanic membrane
-
-A 20-year-old with recurrent ear discharge has complete absence of the tympanic membrane on otoscopy. Best treatment?
-
-- A. Myringoplasty
-- B. Radical mastoidectomy
-- C. Ossiculoplasty
-- D. Tympanoplasty
-
-<details><summary>Answer</summary>
-
-**D. Tympanoplasty** — Complete TM absence requires tympanoplasty (Type I = myringoplasty is only for perforations, not total absence). When ossicles also need repair, higher types apply.
-</details>
-
----
-
----
-
-### Q176 — Pure tone audiogram interpretation (image)
-
-A 27-year-old male with 2 months of reduced left-ear hearing. PTA audiogram shows air-bone gap on the left. Most likely?
-
-- A. Left ear SNHL
-- B. Left ear CHL
-- C. Right ear mixed hearing loss
-- D. Normal hearing
-
-<details><summary>Answer</summary>
-
-**B. Left ear CHL** — Air-bone gap present on left indicates conductive hearing loss on the left side.
-</details>
-
----
-
----
-
 ## Year 2015
 
-### Q177 — Content of anatomical snuffbox
+### Q51 — Content of anatomical snuffbox
 
 Content of anatomical snuffbox
 
@@ -3235,8 +857,7 @@ Content of anatomical snuffbox
 ---
 
 ---
-
-### Q178 — 3rd extensor compartment of wrist contains
+### Q52 — 3rd extensor compartment of wrist contains
 
 3rd extensor compartment of wrist contains tendon of ?
 
@@ -3254,8 +875,7 @@ Content of anatomical snuffbox
 ---
 
 ---
-
-### Q179 — Which of the following represent the
+### Q53 — Which of the following represent the
 
 Which of the following represent the commonest variation in the arteries arising from the arch of aorta?
 
@@ -3273,8 +893,7 @@ Which of the following represent the commonest variation in the arteries arising
 ---
 
 ---
-
-### Q180 — Which structure does not pass through
+### Q54 — Which structure does not pass through
 
 Which structure does not pass through superior thoracic aperture -
 
@@ -3292,8 +911,7 @@ Which structure does not pass through superior thoracic aperture -
 ---
 
 ---
-
-### Q181 — True about anatomy of right ventricle
+### Q55 — True about anatomy of right ventricle
 
 True about anatomy of right ventricle:
 
@@ -3311,8 +929,7 @@ True about anatomy of right ventricle:
 ---
 
 ---
-
-### Q182 — Haustrations are present in -
+### Q56 — Haustrations are present in -
 
 Haustrations are present in -
 
@@ -3330,8 +947,7 @@ Haustrations are present in -
 ---
 
 ---
-
-### Q183 — Secretomotor fibers to parotid glands are
+### Q57 — Secretomotor fibers to parotid glands are
 
 Secretomotor fibers to parotid glands are through -
 
@@ -3349,8 +965,7 @@ Secretomotor fibers to parotid glands are through -
 ---
 
 ---
-
-### Q184 — Which of the following is pure
+### Q58 — Which of the following is pure
 
 Which of the following is pure sensory nerve ?
 
@@ -3368,8 +983,7 @@ Which of the following is pure sensory nerve ?
 ---
 
 ---
-
-### Q185 — Oxyntic cells are present in -
+### Q59 — Oxyntic cells are present in -
 
 Oxyntic cells are present in -
 
@@ -3387,8 +1001,7 @@ Oxyntic cells are present in -
 ---
 
 ---
-
-### Q186 — Seminal colliculus is present in
+### Q60 — Seminal colliculus is present in
 
 Seminal colliculus is present in ?
 
@@ -3406,8 +1019,7 @@ Seminal colliculus is present in ?
 ---
 
 ---
-
-### Q187 — Tronsport process which is against concentration
+### Q61 — Tronsport process which is against concentration
 
 Tronsport process which is against concentration gradient and carrier mediated is ?
 
@@ -3425,8 +1037,7 @@ Tronsport process which is against concentration gradient and carrier mediated i
 ---
 
 ---
-
-### Q188 — Similarity between active transport and facilitate
+### Q62 — Similarity between active transport and facilitate
 
 Similarity between active transport and facilitated diffusion ?
 
@@ -3444,8 +1055,7 @@ Similarity between active transport and facilitated diffusion ?
 ---
 
 ---
-
-### Q189 — True about ENaC are all except
+### Q63 — True about ENaC are all except
 
 True about ENaC are all except ?
 
@@ -3463,8 +1073,7 @@ True about ENaC are all except ?
 ---
 
 ---
-
-### Q190 — Most recent taste sensation is
+### Q64 — Most recent taste sensation is
 
 Most recent taste sensation is?
 
@@ -3482,8 +1091,7 @@ Most recent taste sensation is?
 ---
 
 ---
-
-### Q191 — In electromyograply EMG transient response at
+### Q65 — In electromyograply EMG transient response at
 
 In electromyograply [EMG] transient response at the time of insertion of eloctrode indicates ?
 
@@ -3501,8 +1109,7 @@ In electromyograply [EMG] transient response at the time of insertion of eloctro
 ---
 
 ---
-
-### Q192 — Dolls eye reflex is used in
+### Q66 — Dolls eye reflex is used in
 
 Doll's eye reflex is used in?
 
@@ -3520,8 +1127,7 @@ Doll's eye reflex is used in?
 ---
 
 ---
-
-### Q193 — Which of the following statement is
+### Q67 — Which of the following statement is
 
 Which of the following statement is TRUE about Bohr's effect?
 
@@ -3539,8 +1145,7 @@ Which of the following statement is TRUE about Bohr's effect?
 ---
 
 ---
-
-### Q194 — ST Segment of ECG Corresponds to
+### Q68 — ST Segment of ECG Corresponds to
 
 ST Segment of ECG Corresponds to ?
 
@@ -3558,8 +1163,7 @@ ST Segment of ECG Corresponds to ?
 ---
 
 ---
-
-### Q195 — In an ECG the cardiac event
+### Q69 — In an ECG the cardiac event
 
 In an ECG the cardiac event corresponding to the ST segment is:
 
@@ -3577,8 +1181,7 @@ In an ECG the cardiac event corresponding to the ST segment is:
 ---
 
 ---
-
-### Q196 — GFR measurement help in determining
+### Q70 — GFR measurement help in determining
 
 GFR measurement help in determining ?
 
@@ -3596,8 +1199,7 @@ GFR measurement help in determining ?
 ---
 
 ---
-
-### Q197 — Not a content of sperm
+### Q71 — Not a content of sperm
 
 Not a content of sperm ?
 
@@ -3615,8 +1217,7 @@ Not a content of sperm ?
 ---
 
 ---
-
-### Q198 — Respiratery quotient is the Ratio of
+### Q72 — Respiratery quotient is the Ratio of
 
 Respiratery quotient is the Ratio of -
 
@@ -3634,8 +1235,7 @@ Respiratery quotient is the Ratio of -
 ---
 
 ---
-
-### Q199 — Intercalated disc is present in
+### Q73 — Intercalated disc is present in
 
 Intercalated disc is present in:
 
@@ -3653,8 +1253,7 @@ Intercalated disc is present in:
 ---
 
 ---
-
-### Q200 — Regarding Caissons disease which statement among
+### Q74 — Regarding Caissons disease which statement among
 
 Regarding Caisson's disease which statement among the following is CORRECT?
 
@@ -3672,8 +1271,7 @@ Regarding Caisson's disease which statement among the following is CORRECT?
 ---
 
 ---
-
-### Q201 — Enzyme deficient in Hers disease -
+### Q75 — Enzyme deficient in Hers disease -
 
 Enzyme deficient in Hers disease -
 
@@ -3691,8 +1289,7 @@ Enzyme deficient in Hers disease -
 ---
 
 ---
-
-### Q202 — Which of the following enzyme is
+### Q76 — Which of the following enzyme is
 
 Which of the following enzyme is not a component of fatty acid synthase complex?
 
@@ -3710,8 +1307,7 @@ Which of the following enzyme is not a component of fatty acid synthase complex?
 ---
 
 ---
-
-### Q203 — Amide group is present in which
+### Q77 — Amide group is present in which
 
 Amide group is present in which part of protein -
 
@@ -3729,8 +1325,7 @@ Amide group is present in which part of protein -
 ---
 
 ---
-
-### Q204 — Respiratory quotient of carbohydrate is
+### Q78 — Respiratory quotient of carbohydrate is
 
 Respiratory quotient of carbohydrate is:
 
@@ -3748,8 +1343,7 @@ Respiratory quotient of carbohydrate is:
 ---
 
 ---
-
-### Q205 — If content of A is 15,
+### Q79 — If content of A is 15,
 
 If content of A is 15%, what is the amount of G in DNA according to Chargaff s rule?
 
@@ -3767,8 +1361,7 @@ If content of A is 15%, what is the amount of G in DNA according to Chargaff s r
 ---
 
 ---
-
-### Q206 — cDNA from RNA is synthesized by
+### Q80 — cDNA from RNA is synthesized by
 
 cDNA from RNA is synthesized by -
 
@@ -3786,8 +1379,7 @@ cDNA from RNA is synthesized by -
 ---
 
 ---
-
-### Q207 — Side chain linkage in proteoglycons -
+### Q81 — Side chain linkage in proteoglycons -
 
 Side chain linkage in proteoglycons -
 
@@ -3805,8 +1397,7 @@ Side chain linkage in proteoglycons -
 ---
 
 ---
-
-### Q208 — Lipofuscin is
+### Q82 — Lipofuscin is
 
 Lipofuscin is
 
@@ -3824,8 +1415,7 @@ Lipofuscin is
 ---
 
 ---
-
-### Q209 — Following are seen in polycythemia vera
+### Q83 — Following are seen in polycythemia vera
 
 Following are seen in polycythemia vera except:
 
@@ -3843,8 +1433,7 @@ Following are seen in polycythemia vera except:
 ---
 
 ---
-
-### Q210 — Characteristic feature of IgA nephropathy -
+### Q84 — Characteristic feature of IgA nephropathy -
 
 Characteristic feature of IgA nephropathy -
 
@@ -3862,8 +1451,7 @@ Characteristic feature of IgA nephropathy -
 ---
 
 ---
-
-### Q211 — IgA nephropathyis not associatedwith
+### Q85 — IgA nephropathyis not associatedwith
 
 IgA nephropathyis not associatedwith?
 
@@ -3881,8 +1469,7 @@ IgA nephropathyis not associatedwith?
 ---
 
 ---
-
-### Q212 — Skin involvement along with collar stud
+### Q86 — Skin involvement along with collar stud
 
 Skin involvement along with collar stud ulceration in intestine on radiography. Diagnosis is -
 
@@ -3900,8 +1487,7 @@ Skin involvement along with collar stud ulceration in intestine on radiography. 
 ---
 
 ---
-
-### Q213 — Feature of microscopic polyangitis is
+### Q87 — Feature of microscopic polyangitis is
 
 Feature of microscopic polyangitis is:
 
@@ -3919,8 +1505,7 @@ Feature of microscopic polyangitis is:
 ---
 
 ---
-
-### Q214 — First order kinetics is
+### Q88 — First order kinetics is
 
 First order kinetics is:
 
@@ -3938,8 +1523,7 @@ First order kinetics is:
 ---
 
 ---
-
-### Q215 — Beta-blocker should be used with
+### Q89 — Beta-blocker should be used with
 
 . Beta-blocker should be used with caution in patient of -
 
@@ -3957,8 +1541,7 @@ First order kinetics is:
 ---
 
 ---
-
-### Q216 — Which of the following drug is
+### Q90 — Which of the following drug is
 
 Which of the following drug is not used in the treatment of akathisia?
 
@@ -3976,8 +1559,7 @@ Which of the following drug is not used in the treatment of akathisia?
 ---
 
 ---
-
-### Q217 — True about oral iron preparations
+### Q91 — True about oral iron preparations
 
 True about oral iron preparations ?
 
@@ -3995,8 +1577,7 @@ True about oral iron preparations ?
 ---
 
 ---
-
-### Q218 — Specific feature of simvastatin
+### Q92 — Specific feature of simvastatin
 
 Specific feature of simvastatin ?
 
@@ -4014,8 +1595,7 @@ Specific feature of simvastatin ?
 ---
 
 ---
-
-### Q219 — Antitubercular drug which makes the patient
+### Q93 — Antitubercular drug which makes the patient
 
 Antitubercular drug which makes the patient non-infective earliest ?
 
@@ -4033,8 +1613,7 @@ Antitubercular drug which makes the patient non-infective earliest ?
 ---
 
 ---
-
-### Q220 — Which among the following is present
+### Q94 — Which among the following is present
 
 Which among the following is present only in iv [intravenous] form -
 
@@ -4052,8 +1631,7 @@ Which among the following is present only in iv [intravenous] form -
 ---
 
 ---
-
-### Q221 — Emtricitabine is classified as
+### Q95 — Emtricitabine is classified as
 
 Emtricitabine is classified as?
 
@@ -4071,8 +1649,7 @@ Emtricitabine is classified as?
 ---
 
 ---
-
-### Q222 — Emtricitabine is aan
+### Q96 — Emtricitabine is aan
 
 Emtricitabine is a/an ?
 
@@ -4090,8 +1667,7 @@ Emtricitabine is a/an ?
 ---
 
 ---
-
-### Q223 — Duration of erythromycin used in treatment
+### Q97 — Duration of erythromycin used in treatment
 
 Duration of erythromycin used in treatment of diphtheria is ?
 
@@ -4109,8 +1685,7 @@ Duration of erythromycin used in treatment of diphtheria is ?
 ---
 
 ---
-
-### Q224 — Capecitabine belongs to which class of
+### Q98 — Capecitabine belongs to which class of
 
 Capecitabine belongs to which class of anticancer drug?
 
@@ -4128,8 +1703,7 @@ Capecitabine belongs to which class of anticancer drug?
 ---
 
 ---
-
-### Q225 — IC content of Ringers lactate mmolL
+### Q99 — IC content of Ringers lactate mmolL
 
 IC content of Ringer's lactate [mmol/L] ?
 
@@ -4147,8 +1721,7 @@ IC content of Ringer's lactate [mmol/L] ?
 ---
 
 ---
-
-### Q226 — IPC 304B is related to -
+### Q100 — IPC 304B is related to -
 
 IPC 304B is related to -
 
@@ -4166,8 +1739,7 @@ IPC 304B is related to -
 ---
 
 ---
-
-### Q227 — IPC 201 is for -
+### Q101 — IPC 201 is for -
 
 IPC 201 is for -
 
@@ -4185,8 +1757,7 @@ IPC 201 is for -
 ---
 
 ---
-
-### Q228 — Extra permanent tooth to erupt is
+### Q102 — Extra permanent tooth to erupt is
 
 Extra permanent tooth to erupt is -
 
@@ -4204,8 +1775,7 @@ Extra permanent tooth to erupt is -
 ---
 
 ---
-
-### Q229 — True about finger printing is -
+### Q103 — True about finger printing is -
 
 True about finger printing is -
 
@@ -4223,8 +1793,7 @@ True about finger printing is -
 ---
 
 ---
-
-### Q230 — False about declaration of brain stem
+### Q104 — False about declaration of brain stem
 
 False about declaration of brain stem death in hospital -
 
@@ -4242,8 +1811,7 @@ False about declaration of brain stem death in hospital -
 ---
 
 ---
-
-### Q231 — Negative autopsy is defined as -
+### Q105 — Negative autopsy is defined as -
 
 Negative autopsy is defined as -
 
@@ -4261,8 +1829,7 @@ Negative autopsy is defined as -
 ---
 
 ---
-
-### Q232 — In a patient of unilateral loss
+### Q106 — In a patient of unilateral loss
 
 In a patient of unilateral loss of vision, the patient had injury to opposite eye leading to corneal opacification. The patient was operated by corneal grafting,
 
@@ -4280,8 +1847,7 @@ In a patient of unilateral loss of vision, the patient had injury to opposite ey
 ---
 
 ---
-
-### Q233 — True about universal precautions are all
+### Q107 — True about universal precautions are all
 
 True about universal precautions are all except -
 
@@ -4299,8 +1865,7 @@ True about universal precautions are all except -
 ---
 
 ---
-
-### Q234 — Not ture about El Tor biotype
+### Q108 — Not ture about El Tor biotype
 
 Not ture about El Tor biotype of vibrio cholerae?
 
@@ -4318,8 +1883,7 @@ Not ture about El Tor biotype of vibrio cholerae?
 ---
 
 ---
-
-### Q235 — All are true about chromobacteritun violaceum
+### Q109 — All are true about chromobacteritun violaceum
 
 All are true about chromobacteritun violaceum except?
 
@@ -4337,8 +1901,7 @@ All are true about chromobacteritun violaceum except?
 ---
 
 ---
-
-### Q236 — Brill-Zinsser disease is
+### Q110 — Brill-Zinsser disease is
 
 Brill-Zinsser disease is:
 
@@ -4356,8 +1919,7 @@ Brill-Zinsser disease is:
 ---
 
 ---
-
-### Q237 — Hebra nose is caused by
+### Q111 — Hebra nose is caused by
 
 Hebra nose is caused by:
 
@@ -4375,8 +1937,7 @@ Hebra nose is caused by:
 ---
 
 ---
-
-### Q238 — Absence of Vi-antibody in a typhoid
+### Q112 — Absence of Vi-antibody in a typhoid
 
 Absence of Vi-antibody in a typhoid patient has:
 
@@ -4394,8 +1955,7 @@ Absence of Vi-antibody in a typhoid patient has:
 ---
 
 ---
-
-### Q239 — True about corynebacterium diphtheriae
+### Q113 — True about corynebacterium diphtheriae
 
 True about corynebacterium diphtheriae:
 
@@ -4413,8 +1973,7 @@ True about corynebacterium diphtheriae:
 ---
 
 ---
-
-### Q240 — Which of the following cell types
+### Q114 — Which of the following cell types
 
 Which of the following cell types are the most potent activator of T-cell ?
 
@@ -4432,8 +1991,7 @@ Which of the following cell types are the most potent activator of T-cell ?
 ---
 
 ---
-
-### Q241 — Rose waaler test is -
+### Q115 — Rose waaler test is -
 
 Rose waaler test is -
 
@@ -4451,8 +2009,7 @@ Rose waaler test is -
 ---
 
 ---
-
-### Q242 — Complement Fixation test is
+### Q116 — Complement Fixation test is
 
 Complement Fixation test is:
 
@@ -4470,8 +2027,7 @@ Complement Fixation test is:
 ---
 
 ---
-
-### Q243 — Which of the following complement factors
+### Q117 — Which of the following complement factors
 
 Which of the following complement factors is a marker of humoral rejection?
 
@@ -4489,8 +2045,7 @@ Which of the following complement factors is a marker of humoral rejection?
 ---
 
 ---
-
-### Q244 — Lattice phenomenon is seen in -
+### Q118 — Lattice phenomenon is seen in -
 
 Lattice phenomenon is seen in -
 
@@ -4508,8 +2063,7 @@ Lattice phenomenon is seen in -
 ---
 
 ---
-
-### Q245 — Complement deficiency has not been implicated
+### Q119 — Complement deficiency has not been implicated
 
 Complement deficiency has not been implicated in causing ?
 
@@ -4527,8 +2081,7 @@ Complement deficiency has not been implicated in causing ?
 ---
 
 ---
-
-### Q246 — When transfer factor is given as
+### Q120 — When transfer factor is given as
 
 When transfer factor is given as treatment results in -
 
@@ -4546,8 +2099,7 @@ When transfer factor is given as treatment results in -
 ---
 
 ---
-
-### Q247 — Common variable deficiency is due to
+### Q121 — Common variable deficiency is due to
 
 Common variable deficiency is due to -
 
@@ -4565,8 +2117,7 @@ Common variable deficiency is due to -
 ---
 
 ---
-
-### Q248 — Human development index includes all except
+### Q122 — Human development index includes all except
 
 Human development index includes all except ?
 
@@ -4584,8 +2135,7 @@ Human development index includes all except ?
 ---
 
 ---
-
-### Q249 — Reservoir is defined as
+### Q123 — Reservoir is defined as
 
 Reservoir is defined as ?
 
@@ -4603,8 +2153,7 @@ Reservoir is defined as ?
 ---
 
 ---
-
-### Q250 — Benefit of screening is
+### Q124 — Benefit of screening is
 
 Benefit of screening is ?
 
@@ -4622,8 +2171,7 @@ Benefit of screening is ?
 ---
 
 ---
-
-### Q251 — Multiphasic screening means-
+### Q125 — Multiphasic screening means-
 
 Multiphasic screening means-
 
@@ -4641,8 +2189,7 @@ Multiphasic screening means-
 ---
 
 ---
-
-### Q252 — Slection bias occurs during
+### Q126 — Slection bias occurs during
 
 Slection bias occurs during ?
 
@@ -4660,8 +2207,7 @@ Slection bias occurs during ?
 ---
 
 ---
-
-### Q253 — Disinfection of urine is which type
+### Q127 — Disinfection of urine is which type
 
 Disinfection of urine is which type of disinfection ?
 
@@ -4679,8 +2225,7 @@ Disinfection of urine is which type of disinfection ?
 ---
 
 ---
-
-### Q254 — Not used for treatment andor prophylaxis
+### Q128 — Not used for treatment andor prophylaxis
 
 Not used for treatment and/or prophylaxis of seasonal influenza -
 
@@ -4698,8 +2243,7 @@ Not used for treatment and/or prophylaxis of seasonal influenza -
 ---
 
 ---
-
-### Q255 — Rideal-walker coefficient for disinfectant used fo
+### Q129 — Rideal-walker coefficient for disinfectant used fo
 
 Rideal-walker coefficient for disinfectant used for cholera stool should be ?
 
@@ -4717,8 +2261,7 @@ Rideal-walker coefficient for disinfectant used for cholera stool should be ?
 ---
 
 ---
-
-### Q256 — Protein quality assessment is best done
+### Q130 — Protein quality assessment is best done
 
 Protein quality assessment is best done by ?
 
@@ -4736,8 +2279,7 @@ Protein quality assessment is best done by ?
 ---
 
 ---
-
-### Q257 — Nutrient which is lost maximum in
+### Q131 — Nutrient which is lost maximum in
 
 Nutrient which is lost maximum in polished rice?
 
@@ -4755,8 +2297,7 @@ Nutrient which is lost maximum in polished rice?
 ---
 
 ---
-
-### Q258 — Caloric requirement in an adult male
+### Q132 — Caloric requirement in an adult male
 
 Caloric requirement in an adult male for heavy work?
 
@@ -4774,8 +2315,7 @@ Caloric requirement in an adult male for heavy work?
 ---
 
 ---
-
-### Q259 — True about culex larvae
+### Q133 — True about culex larvae
 
 True about culex larvae ?
 
@@ -4793,8 +2333,7 @@ True about culex larvae ?
 ---
 
 ---
-
-### Q260 — In disaster management all are true
+### Q134 — In disaster management all are true
 
 In disaster management all are true except
 
@@ -4812,8 +2351,7 @@ In disaster management all are true except
 ---
 
 ---
-
-### Q261 — In disaster management following are practiced
+### Q135 — In disaster management following are practiced
 
 In disaster management following are practiced except
 
@@ -4831,8 +2369,7 @@ In disaster management following are practiced except
 ---
 
 ---
-
-### Q262 — All are true for ASHA worker
+### Q136 — All are true for ASHA worker
 
 All are true for ASHA worker EXCEPT:
 
@@ -4850,8 +2387,7 @@ All are true for ASHA worker EXCEPT:
 ---
 
 ---
-
-### Q263 — Observation under nursing care for 24
+### Q137 — Observation under nursing care for 24
 
 Observation under nursing care for 24 hours in an hospital is defined as ?
 
@@ -4869,8 +2405,7 @@ Observation under nursing care for 24 hours in an hospital is defined as ?
 ---
 
 ---
-
-### Q264 — Under RNTCP, DOTS provider gets how
+### Q138 — Under RNTCP, DOTS provider gets how
 
 Under RNTCP, DOTS provider gets how much honorarium after completion of treatment ?
 
@@ -4888,8 +2423,7 @@ Under RNTCP, DOTS provider gets how much honorarium after completion of treatmen
 ---
 
 ---
-
-### Q265 — All of the following are are
+### Q139 — All of the following are are
 
 All of the following are are a part of medial wall of the middle ear except?
 
@@ -4907,8 +2441,7 @@ All of the following are are a part of medial wall of the middle ear except?
 ---
 
 ---
-
-### Q266 — Ceruminous glands present in the ear
+### Q140 — Ceruminous glands present in the ear
 
 Ceruminous glands present in the ear are:
 
@@ -4926,8 +2459,7 @@ Ceruminous glands present in the ear are:
 ---
 
 ---
-
-### Q267 — Afollowing patient with ear complaints showed
+### Q141 — Afollowing patient with ear complaints showed
 
 Afollowing patient with ear complaints showed positive Hennebert sign. Which of the condition shows positive Hennebert sign?
 
@@ -4945,8 +2477,7 @@ Afollowing patient with ear complaints showed positive Hennebert sign. Which of 
 ---
 
 ---
-
-### Q268 — Chemical labyrinthectomy by transtympanic route is
+### Q142 — Chemical labyrinthectomy by transtympanic route is
 
 Chemical labyrinthectomy by transtympanic route is done in Meniere's disease using which drug?
 
@@ -4964,8 +2495,7 @@ Chemical labyrinthectomy by transtympanic route is done in Meniere's disease usi
 ---
 
 ---
-
-### Q269 — Which perforation of the tympanic membrane
+### Q143 — Which perforation of the tympanic membrane
 
 Which perforation of the tympanic membrane is most commonly seen with tubotympanic CSOM?
 
@@ -4983,8 +2513,7 @@ Which perforation of the tympanic membrane is most commonly seen with tubotympan
 ---
 
 ---
-
-### Q270 — Histelbergers sign is seen in
+### Q144 — Histelbergers sign is seen in
 
 Histelberger's sign is seen in?
 
@@ -5002,8 +2531,7 @@ Histelberger's sign is seen in?
 ---
 
 ---
-
-### Q271 — Saddle nose deformity is seen in
+### Q145 — Saddle nose deformity is seen in
 
 Saddle nose deformity is seen in?
 
@@ -5021,8 +2549,7 @@ Saddle nose deformity is seen in?
 ---
 
 ---
-
-### Q272 — What is the treatment of choice
+### Q146 — What is the treatment of choice
 
 What is the treatment of choice for ethmoidal polyps?
 
@@ -5040,8 +2567,7 @@ What is the treatment of choice for ethmoidal polyps?
 ---
 
 ---
-
-### Q273 — Intrathecal fluorescein with endoscopic visualizat
+### Q147 — Intrathecal fluorescein with endoscopic visualizat
 
 Intrathecal fluorescein with endoscopic visualization is useful in diagnosis of?
 
@@ -5059,8 +2585,7 @@ Intrathecal fluorescein with endoscopic visualization is useful in diagnosis of?
 ---
 
 ---
-
-### Q274 — All of the following are features
+### Q148 — All of the following are features
 
 All of the following are features of a nasal foreign body except?
 
@@ -5078,8 +2603,7 @@ All of the following are features of a nasal foreign body except?
 ---
 
 ---
-
-### Q275 — All of the following are true
+### Q149 — All of the following are true
 
 All of the following are true about nasal myiasis except?
 
@@ -5097,8 +2621,7 @@ All of the following are true about nasal myiasis except?
 ---
 
 ---
-
-### Q276 — All of the following are features
+### Q150 — All of the following are features
 
 All of the following are features of enlarged adenoids except?
 
@@ -5116,8 +2639,7 @@ All of the following are features of enlarged adenoids except?
 ---
 
 ---
-
-### Q277 — All of the following are true
+### Q151 — All of the following are true
 
 All of the following are true about Spasmoidic Dysphonia except ?
 
@@ -5135,8 +2657,7 @@ All of the following are true about Spasmoidic Dysphonia except ?
 ---
 
 ---
-
-### Q278 — Which of the following cancers do
+### Q152 — Which of the following cancers do
 
 Which of the following cancers do not present with cervical lymphnode involvement?
 
@@ -5154,8 +2675,7 @@ Which of the following cancers do not present with cervical lymphnode involvemen
 ---
 
 ---
-
-### Q279 — All of the following are indications
+### Q153 — All of the following are indications
 
 All of the following are indications for tracheostomy except ?
 
@@ -5173,8 +2693,7 @@ All of the following are indications for tracheostomy except ?
 ---
 
 ---
-
-### Q280 — Submucosal resection is the treatment of
+### Q154 — Submucosal resection is the treatment of
 
 Submucosal resection is the treatment of choice of?
 
@@ -5192,8 +2711,7 @@ Submucosal resection is the treatment of choice of?
 ---
 
 ---
-
-### Q281 — All of the following are complications
+### Q155 — All of the following are complications
 
 All of the following are complications of maxillary sinus lavage and insufflation except?
 
@@ -5211,8 +2729,7 @@ All of the following are complications of maxillary sinus lavage and insufflatio
 ---
 
 ---
-
-### Q282 — All of the following are features
+### Q156 — All of the following are features
 
 All of the following are features of Tubotympanic CSOM except ?
 
@@ -5230,8 +2747,7 @@ All of the following are features of Tubotympanic CSOM except ?
 ---
 
 ---
-
-### Q283 — Features of Ushers Syndrome include all
+### Q157 — Features of Ushers Syndrome include all
 
 Features of Usher's Syndrome include all except ?
 
@@ -5249,8 +2765,7 @@ Features of Usher's Syndrome include all except ?
 ---
 
 ---
-
-### Q284 — Ansiokonia is
+### Q158 — Ansiokonia is
 
 Ansiokonia is ?
 
@@ -5268,8 +2783,7 @@ Ansiokonia is ?
 ---
 
 ---
-
-### Q285 — Strabismic amblyopia is more common in
+### Q159 — Strabismic amblyopia is more common in
 
 Strabismic amblyopia is more common in patients with:
 
@@ -5287,8 +2801,7 @@ Strabismic amblyopia is more common in patients with:
 ---
 
 ---
-
-### Q286 — Astigmatism is defined as
+### Q160 — Astigmatism is defined as
 
 Astigmatism is defined as ?
 
@@ -5306,8 +2819,7 @@ Astigmatism is defined as ?
 ---
 
 ---
-
-### Q287 — Pterygium all are true except
+### Q161 — Pterygium all are true except
 
 Pterygium all are true except:
 
@@ -5325,8 +2837,7 @@ Pterygium all are true except:
 ---
 
 ---
-
-### Q288 — 1mm change axial length of the
+### Q162 — 1mm change axial length of the
 
 1mm change axial length of the eyeball would change the refracting power of the eye by ?
 
@@ -5344,8 +2855,7 @@ Pterygium all are true except:
 ---
 
 ---
-
-### Q289 — Subconjunctival hemorrhages are evident in the
+### Q163 — Subconjunctival hemorrhages are evident in the
 
 Subconjunctival hemorrhages are evident in the following cases except ?
 
@@ -5363,8 +2873,7 @@ Subconjunctival hemorrhages are evident in the following cases except ?
 ---
 
 ---
-
-### Q290 — Kayser- Fleischer rings (KF rings) are
+### Q164 — Kayser- Fleischer rings (KF rings) are
 
 Kayser- Fleischer rings (KF rings) are seen in:
 
@@ -5382,8 +2891,7 @@ Kayser- Fleischer rings (KF rings) are seen in:
 ---
 
 ---
-
-### Q291 — All of the following are true
+### Q165 — All of the following are true
 
 All of the following are true for sympathetic ophthalmitis except:
 
@@ -5401,8 +2909,7 @@ All of the following are true for sympathetic ophthalmitis except:
 ---
 
 ---
-
-### Q292 — The zonules suspending the lens are
+### Q166 — The zonules suspending the lens are
 
 The zonules suspending the lens are attached to the?
 
@@ -5420,8 +2927,7 @@ The zonules suspending the lens are attached to the?
 ---
 
 ---
-
-### Q293 — Lens attached to ciliary body via
+### Q167 — Lens attached to ciliary body via
 
 Lens attached to ciliary body via ?
 
@@ -5439,8 +2945,7 @@ Lens attached to ciliary body via ?
 ---
 
 ---
-
-### Q294 — Non foldable lens is made of
+### Q168 — Non foldable lens is made of
 
 Non foldable lens is made of -
 
@@ -5458,8 +2963,7 @@ Non foldable lens is made of -
 ---
 
 ---
-
-### Q295 — Rigid gas permeable lens are made
+### Q169 — Rigid gas permeable lens are made
 
 Rigid gas permeable lens are made of-
 
@@ -5477,8 +2981,7 @@ Rigid gas permeable lens are made of-
 ---
 
 ---
-
-### Q296 — Axial length of eye ball is
+### Q170 — Axial length of eye ball is
 
 Axial length of eye ball is measured by ?
 
@@ -5496,8 +2999,7 @@ Axial length of eye ball is measured by ?
 ---
 
 ---
-
-### Q297 — Vossius ring occurs in
+### Q171 — Vossius ring occurs in
 
 Vossius ring occurs in
 
@@ -5515,8 +3017,7 @@ Vossius ring occurs in
 ---
 
 ---
-
-### Q298 — Feature (s) of Infantile glaucoma isare
+### Q172 — Feature (s) of Infantile glaucoma isare
 
 Feature (s) of Infantile glaucoma is/are except:
 
@@ -5534,8 +3035,7 @@ Feature (s) of Infantile glaucoma is/are except:
 ---
 
 ---
-
-### Q299 — Mioitcs are treatment of choice for
+### Q173 — Mioitcs are treatment of choice for
 
 Mioitcs are treatment of choice for ?
 
@@ -5553,8 +3053,7 @@ Mioitcs are treatment of choice for ?
 ---
 
 ---
-
-### Q300 — Glaucoma drainage devices
+### Q174 — Glaucoma drainage devices
 
 Glaucoma drainage devices ?
 
@@ -5572,10 +3071,9 @@ Glaucoma drainage devices ?
 ---
 
 ---
+### Q175 — year old woman presents Sudden painless
 
-### Q301 — year old woman presents Sudden painless
-
-year old woman presents Sudden painless loss of vision with history of previous similar episode fundoscopy shows no glow. What could be the
+A patient (age not captured in source) who is a year old woman presents Sudden painless loss of vision with history of previous similar episode fundoscopy shows no glow. What could be the
 
 - A. Vitreous Hemorrhage
 - B. Rhegmatogenous Retinal Detachment
@@ -5591,8 +3089,7 @@ year old woman presents Sudden painless loss of vision with history of previous 
 ---
 
 ---
-
-### Q302 — Retinopathy of prematurity is commonly predisposed
+### Q176 — Retinopathy of prematurity is commonly predisposed
 
 Retinopathy of prematurity is commonly predisposed by-
 
@@ -5610,8 +3107,7 @@ Retinopathy of prematurity is commonly predisposed by-
 ---
 
 ---
-
-### Q303 — Eales disease is
+### Q177 — Eales disease is
 
 Eales disease is:
 
@@ -5629,8 +3125,7 @@ Eales disease is:
 ---
 
 ---
-
-### Q304 — What is false about Eales disease
+### Q178 — What is false about Eales disease
 
 What is false about Eale's disease amongst the followwing?
 
@@ -5648,8 +3143,7 @@ What is false about Eale's disease amongst the followwing?
 ---
 
 ---
-
-### Q305 — Snowball appearance is seen in
+### Q179 — Snowball appearance is seen in
 
 Snowball appearance is seen in ?
 
@@ -5667,8 +3161,7 @@ Snowball appearance is seen in ?
 ---
 
 ---
-
-### Q306 — Subhyaloid hemorrhage is
+### Q180 — Subhyaloid hemorrhage is
 
 Subhyaloid hemorrhage is ?
 
@@ -5686,8 +3179,7 @@ Subhyaloid hemorrhage is ?
 ---
 
 ---
-
-### Q307 — Most common age related change in
+### Q181 — Most common age related change in
 
 Most common age related change in vitreous ?
 
@@ -5705,8 +3197,7 @@ Most common age related change in vitreous ?
 ---
 
 ---
-
-### Q308 — Muscae volitantes is seen in
+### Q182 — Muscae volitantes is seen in
 
 Muscae volitantes is seen in ?
 
@@ -5724,8 +3215,7 @@ Muscae volitantes is seen in ?
 ---
 
 ---
-
-### Q309 — Anisocoria in Horners syndrome is due
+### Q183 — Anisocoria in Horners syndrome is due
 
 Anisocoria in Horner's syndrome is due to
 
@@ -5743,8 +3233,7 @@ Anisocoria in Horner's syndrome is due to
 ---
 
 ---
-
-### Q310 — The most common type of strabismus
+### Q184 — The most common type of strabismus
 
 The most common type of strabismus seen in myopes is?
 
@@ -5762,8 +3251,7 @@ The most common type of strabismus seen in myopes is?
 ---
 
 ---
-
-### Q311 — Dalrymples sign of ocular Graves disease
+### Q185 — Dalrymples sign of ocular Graves disease
 
 Dalrymple's sign of ocular Graves' disease refers to:
 
@@ -5781,8 +3269,7 @@ Dalrymple's sign of ocular Graves' disease refers to:
 ---
 
 ---
-
-### Q312 — D Shaped pupil is seen in
+### Q186 — D Shaped pupil is seen in
 
 D Shaped pupil is seen in ?
 
@@ -5800,8 +3287,7 @@ D Shaped pupil is seen in ?
 ---
 
 ---
-
-### Q313 — Pulsatile proptosis is a feature of
+### Q187 — Pulsatile proptosis is a feature of
 
 Pulsatile proptosis is a feature of ?
 
@@ -5819,8 +3305,7 @@ Pulsatile proptosis is a feature of ?
 ---
 
 ---
-
-### Q314 — What is the most common eye
+### Q188 — What is the most common eye
 
 What is the most common eye lesion in HIV?
 
@@ -5838,8 +3323,7 @@ What is the most common eye lesion in HIV?
 ---
 
 ---
-
-### Q315 — Parasitosis of extraocular eye muscles is
+### Q189 — Parasitosis of extraocular eye muscles is
 
 Parasitosis of extraocular eye muscles is seen in?
 
@@ -5857,8 +3341,7 @@ Parasitosis of extraocular eye muscles is seen in?
 ---
 
 ---
-
-### Q316 — The principle of total internal reflection
+### Q190 — The principle of total internal reflection
 
 The principle of total internal reflection is used by?
 
@@ -5876,8 +3359,7 @@ The principle of total internal reflection is used by?
 ---
 
 ---
-
-### Q317 — Immediate treatment of acute dacryocystitis is
+### Q191 — Immediate treatment of acute dacryocystitis is
 
 Immediate treatment of acute dacryocystitis is?
 
@@ -5895,8 +3377,7 @@ Immediate treatment of acute dacryocystitis is?
 ---
 
 ---
-
-### Q318 — Aspirin-sensitive asthma is associated with
+### Q192 — Aspirin-sensitive asthma is associated with
 
 Aspirin-sensitive asthma is associated with:
 
@@ -5914,8 +3395,7 @@ Aspirin-sensitive asthma is associated with:
 ---
 
 ---
-
-### Q319 — Which of the following is seen
+### Q193 — Which of the following is seen
 
 Which of the following is seen in sarcoidosis
 
@@ -5933,8 +3413,7 @@ Which of the following is seen in sarcoidosis
 ---
 
 ---
-
-### Q320 — In a patient with COPD, best
+### Q194 — In a patient with COPD, best
 
 In a patient with COPD, best management option is
 
@@ -5952,8 +3431,7 @@ In a patient with COPD, best management option is
 ---
 
 ---
-
-### Q321 — In a patient there is dyspnea
+### Q195 — In a patient there is dyspnea
 
 In a patient there is dyspnea in upright position which is relieved in supine position, Diagnosis ?
 
@@ -5971,8 +3449,7 @@ In a patient there is dyspnea in upright position which is relieved in supine po
 ---
 
 ---
-
-### Q322 — Clicking noise in Pneumomediastinum is known
+### Q196 — Clicking noise in Pneumomediastinum is known
 
 Clicking noise in Pneumomediastinum is known as
 
@@ -5990,8 +3467,7 @@ Clicking noise in Pneumomediastinum is known as
 ---
 
 ---
-
-### Q323 — Emphysema presents with all except
+### Q197 — Emphysema presents with all except
 
 Emphysema presents with all except
 
@@ -6009,8 +3485,7 @@ Emphysema presents with all except
 ---
 
 ---
-
-### Q324 — Most common cause of pleural effusion
+### Q198 — Most common cause of pleural effusion
 
 Most common cause of pleural effusion in AIDS patients
 
@@ -6028,8 +3503,7 @@ Most common cause of pleural effusion in AIDS patients
 ---
 
 ---
-
-### Q325 — If a person is having ventriular
+### Q199 — If a person is having ventriular
 
 If a person is having ventriular tachycardia, extra systoles appears to
 
@@ -6047,8 +3521,7 @@ If a person is having ventriular tachycardia, extra systoles appears to
 ---
 
 ---
-
-### Q326 — Most common arrhythmia in ICU patients
+### Q200 — Most common arrhythmia in ICU patients
 
 Most common arrhythmia in ICU patients -
 
@@ -6066,8 +3539,7 @@ Most common arrhythmia in ICU patients -
 ---
 
 ---
-
-### Q327 — Most common mechanism of arrhythmia
+### Q201 — Most common mechanism of arrhythmia
 
 Most common mechanism of arrhythmia
 
@@ -6085,8 +3557,7 @@ Most common mechanism of arrhythmia
 ---
 
 ---
-
-### Q328 — Not recommended in coronary artery disease
+### Q202 — Not recommended in coronary artery disease
 
 Not recommended in coronary artery disease patients
 
@@ -6104,8 +3575,7 @@ Not recommended in coronary artery disease patients
 ---
 
 ---
-
-### Q329 — Digitalis is used in mitral stenosis
+### Q203 — Digitalis is used in mitral stenosis
 
 Digitalis is used in mitral stenosis when patient develops
 
@@ -6123,8 +3593,7 @@ Digitalis is used in mitral stenosis when patient develops
 ---
 
 ---
-
-### Q330 — Which is the best way to
+### Q204 — Which is the best way to
 
 Which is the best way to differentiate between stable angina and NSTEMI?
 
@@ -6142,8 +3611,7 @@ Which is the best way to differentiate between stable angina and NSTEMI?
 ---
 
 ---
-
-### Q331 — Aetiology of Dressler Syndrome is
+### Q205 — Aetiology of Dressler Syndrome is
 
 Aetiology of Dressler Syndrome is
 
@@ -6161,8 +3629,7 @@ Aetiology of Dressler Syndrome is
 ---
 
 ---
-
-### Q332 — Predisposing factors for coronary artery disease
+### Q206 — Predisposing factors for coronary artery disease
 
 Predisposing factors for coronary artery disease include, all Except:
 
@@ -6180,8 +3647,7 @@ Predisposing factors for coronary artery disease include, all Except:
 ---
 
 ---
-
-### Q333 — Murmur heard in aortic stenosis
+### Q207 — Murmur heard in aortic stenosis
 
 Murmur heard in aortic stenosis
 
@@ -6199,8 +3665,7 @@ Murmur heard in aortic stenosis
 ---
 
 ---
-
-### Q334 — Basket weave appearance of glomerular basement
+### Q208 — Basket weave appearance of glomerular basement
 
 Basket weave appearance of glomerular basement membrane on electron microscopy is seen in
 
@@ -6218,8 +3683,7 @@ Basket weave appearance of glomerular basement membrane on electron microscopy i
 ---
 
 ---
-
-### Q335 — All are true about GFR except
+### Q209 — All are true about GFR except
 
 All are true about GFR except
 
@@ -6237,8 +3701,7 @@ All are true about GFR except
 ---
 
 ---
-
-### Q336 — Which is a hormone dependent liver
+### Q210 — Which is a hormone dependent liver
 
 Which is a hormone dependent liver tumor ?
 
@@ -6256,8 +3719,7 @@ Which is a hormone dependent liver tumor ?
 ---
 
 ---
-
-### Q337 — HAM test is based upon
+### Q211 — HAM test is based upon
 
 HAM test is based upon :
 
@@ -6275,8 +3737,7 @@ HAM test is based upon :
 ---
 
 ---
-
-### Q338 — All are true about CNS leukemia
+### Q212 — All are true about CNS leukemia
 
 All are true about CNS leukemia except
 
@@ -6294,8 +3755,7 @@ All are true about CNS leukemia except
 ---
 
 ---
-
-### Q339 — Patient on insulin in CKD stage
+### Q213 — Patient on insulin in CKD stage
 
 Patient on insulin in CKD stage 4. What is the dose adjustment of insulin required ?
 
@@ -6313,8 +3773,7 @@ Patient on insulin in CKD stage 4. What is the dose adjustment of insulin requir
 ---
 
 ---
-
-### Q340 — A patient after an accident was
+### Q214 — A patient after an accident was
 
 A patient after an accident was unconscious. On physical examination there was unilateral pupillary dilatation Possible reason for the same is
 
@@ -6332,8 +3791,7 @@ A patient after an accident was unconscious. On physical examination there was u
 ---
 
 ---
-
-### Q341 — Commonest cause of cerebro vascular accident
+### Q215 — Commonest cause of cerebro vascular accident
 
 Commonest cause of cerebro vascular accident
 
@@ -6351,8 +3809,7 @@ Commonest cause of cerebro vascular accident
 ---
 
 ---
-
-### Q342 — Criteria for Brainstem death includes
+### Q216 — Criteria for Brainstem death includes
 
 Criteria for Brainstem death includes:
 
@@ -6370,8 +3827,7 @@ Criteria for Brainstem death includes:
 ---
 
 ---
-
-### Q343 — The following are components of Brown
+### Q217 — The following are components of Brown
 
 The following are components of Brown Sequard syndrome except :
 
@@ -6389,8 +3845,7 @@ The following are components of Brown Sequard syndrome except :
 ---
 
 ---
-
-### Q344 — DOC for treatment of SSPE -
+### Q218 — DOC for treatment of SSPE -
 
 DOC for treatment of SSPE -
 
@@ -6408,8 +3863,7 @@ DOC for treatment of SSPE -
 ---
 
 ---
-
-### Q345 — Aspirin decreases the risk of development
+### Q219 — Aspirin decreases the risk of development
 
 Aspirin decreases the risk of development of which of the following -
 
@@ -6427,8 +3881,7 @@ Aspirin decreases the risk of development of which of the following -
 ---
 
 ---
-
-### Q346 — Mosaic pattern of coment line is
+### Q220 — Mosaic pattern of coment line is
 
 Mosaic pattern of coment line is characteristically seen in -
 
@@ -6446,8 +3899,7 @@ Mosaic pattern of coment line is characteristically seen in -
 ---
 
 ---
-
-### Q347 — All of the following are true
+### Q221 — All of the following are true
 
 All of the following are true about Gout, except:-
 
@@ -6465,8 +3917,7 @@ All of the following are true about Gout, except:-
 ---
 
 ---
-
-### Q348 — All are true about cross-matching of
+### Q222 — All are true about cross-matching of
 
 All are true about cross-matching of blood except -
 
@@ -6484,8 +3935,7 @@ All are true about cross-matching of blood except -
 ---
 
 ---
-
-### Q349 — Best management after human bite -
+### Q223 — Best management after human bite -
 
 Best management after human bite -
 
@@ -6503,8 +3953,7 @@ Best management after human bite -
 ---
 
 ---
-
-### Q350 — In a patient who was brought
+### Q224 — In a patient who was brought
 
 In a patient who was brought to casualty after RTA with pulse rate 108, SBP 80. Which fluid is to be given ideally?
 
@@ -6522,8 +3971,7 @@ In a patient who was brought to casualty after RTA with pulse rate 108, SBP 80. 
 ---
 
 ---
-
-### Q351 — True abour drug induced SLE is
+### Q225 — True abour drug induced SLE is
 
 True abour drug induced SLE is except ?
 
@@ -6541,8 +3989,7 @@ True abour drug induced SLE is except ?
 ---
 
 ---
-
-### Q352 — After Road traffic accident a patient
+### Q226 — After Road traffic accident a patient
 
 After Road traffic accident a patient presented to casualty with vitals showing BP of 90/60 mm Hg with heart of 56 bpm. Which kind of shock occurs
 
@@ -6560,8 +4007,7 @@ After Road traffic accident a patient presented to casualty with vitals showing 
 ---
 
 ---
-
-### Q353 — Chimeric chemotherapy is being investigated for
+### Q227 — Chimeric chemotherapy is being investigated for
 
 Chimeric chemotherapy is being investigated for the treatment of which malignancy ?
 
@@ -6579,10 +4025,9 @@ Chimeric chemotherapy is being investigated for the treatment of which malignanc
 ---
 
 ---
+### Q228 — year old male presents with CA
 
-### Q354 — year old male presents with CA
-
-year old male presents with CA prostate. The tumour is limited to the capsule and it is palpable on PR examination. The patient is diagnosed
+A patient (age not captured in source) who is a year old male presents with CA prostate. The tumour is limited to the capsule and it is palpable on PR examination. The patient is diagnosed
 
 - A. Radical prostatectomy
 - B. Chemotherapy
@@ -6598,10 +4043,9 @@ year old male presents with CA prostate. The tumour is limited to the capsule an
 ---
 
 ---
+### Q229 — year old male is receiving conservative
 
-### Q355 — year old male is receiving conservative
-
-year old male is receiving conservative management for an appendicular mass since 3 days now presents with a rising pulse rate,
+A patient (age not captured in source) who is a year old male is receiving conservative management for an appendicular mass since 3 days now presents with a rising pulse rate,
 
 - A. Ochsner sherren regimen
 - B. Continue conservative management
@@ -6617,8 +4061,7 @@ year old male is receiving conservative management for an appendicular mass sinc
 ---
 
 ---
-
-### Q356 — Under what guidelines is treatment started
+### Q230 — Under what guidelines is treatment started
 
 Under what guidelines is treatment started for a patient presenting with appendicular mass on CT Scan ?
 
@@ -6636,8 +4079,7 @@ Under what guidelines is treatment started for a patient presenting with appendi
 ---
 
 ---
-
-### Q357 — Treatment of choice of mucinous carcinoma
+### Q231 — Treatment of choice of mucinous carcinoma
 
 Treatment of choice of mucinous carcinoma of Gall Bladder confined to the lamina propria is -
 
@@ -6655,10 +4097,9 @@ Treatment of choice of mucinous carcinoma of Gall Bladder confined to the lamina
 ---
 
 ---
+### Q232 — year old woman presented with history
 
-### Q358 — year old woman presented with history
-
-year old woman presented with history of recurrent episodes of right upper abdominal pain for the last one year. She presented to emergency with
+A patient (age not captured in source) who is a year old woman presented with history of recurrent episodes of right upper abdominal pain for the last one year. She presented to emergency with
 
 - A. ERCP and bile duct stone extraction
 - B. Laparoscopic cholecystectomy
@@ -6674,8 +4115,7 @@ year old woman presented with history of recurrent episodes of right upper abdom
 ---
 
 ---
-
-### Q359 — All of the following are true
+### Q233 — All of the following are true
 
 All of the following are true about Hirschsprung disease except -
 
@@ -6693,8 +4133,7 @@ All of the following are true about Hirschsprung disease except -
 ---
 
 ---
-
-### Q360 — All of the following are surgical
+### Q234 — All of the following are surgical
 
 All of the following are surgical options in management of esophageal carcinoma except -
 
@@ -6712,8 +4151,7 @@ All of the following are surgical options in management of esophageal carcinoma 
 ---
 
 ---
-
-### Q361 — Chronic hemolytic anaemia is associated with
+### Q235 — Chronic hemolytic anaemia is associated with
 
 Chronic hemolytic anaemia is associated with which of the following -
 
@@ -6731,8 +4169,7 @@ Chronic hemolytic anaemia is associated with which of the following -
 ---
 
 ---
-
-### Q362 — Reactionary Hemorrhage occurs due to -
+### Q236 — Reactionary Hemorrhage occurs due to -
 
 Reactionary Hemorrhage occurs due to -
 
@@ -6750,8 +4187,7 @@ Reactionary Hemorrhage occurs due to -
 ---
 
 ---
-
-### Q363 — Which of the following is correct
+### Q237 — Which of the following is correct
 
 Which of the following is correct management of abdominal compartment syndrome
 
@@ -6769,8 +4205,7 @@ Which of the following is correct management of abdominal compartment syndrome
 ---
 
 ---
-
-### Q364 — All of the following is true
+### Q238 — All of the following is true
 
 All of the following is true about congenital hypertrophic pyloric stenosis except
 
@@ -6788,8 +4223,7 @@ All of the following is true about congenital hypertrophic pyloric stenosis exce
 ---
 
 ---
-
-### Q365 — In a patient with renal cell
+### Q239 — In a patient with renal cell
 
 In a patient with renal cell carcinoma with a thrombus in IVC renal vein, which is the best investigation for diagnosis?
 
@@ -6807,8 +4241,7 @@ In a patient with renal cell carcinoma with a thrombus in IVC renal vein, which 
 ---
 
 ---
-
-### Q366 — Which of the following is the
+### Q240 — Which of the following is the
 
 Which of the following is the agent of choice for cryosurgery?
 
@@ -6826,10 +4259,9 @@ Which of the following is the agent of choice for cryosurgery?
 ---
 
 ---
+### Q241 — year old female presents with a
 
-### Q367 — year old female presents with a
-
-year old female presents with a swelling in the neck diagnosed as a solitary thyroid nodule. The patient is investigated and a scan shows
+A patient (age not captured in source) who is a year old female presents with a swelling in the neck diagnosed as a solitary thyroid nodule. The patient is investigated and a scan shows
 
 - A. Benign Colloid Nodule
 - B. Toxic Adenoma
@@ -6845,8 +4277,7 @@ year old female presents with a swelling in the neck diagnosed as a solitary thy
 ---
 
 ---
-
-### Q368 — Which of the following stages of
+### Q242 — Which of the following stages of
 
 Which of the following stages of lip carcinoma do not have nodal involvement ?
 
@@ -6864,10 +4295,9 @@ Which of the following stages of lip carcinoma do not have nodal involvement ?
 ---
 
 ---
+### Q243 — year old woman is diagnosed as
 
-### Q369 — year old woman is diagnosed as
-
-year old woman is diagnosed as having carcinoma of the renal pelvis of size less than 4 cm without any metastasis. The best treatment option
+A patient (age not captured in source) who is a year old woman is diagnosed as having carcinoma of the renal pelvis of size less than 4 cm without any metastasis. The best treatment option
 
 - A. Partial nephrectomy
 - B. Radical Nephrectomy
@@ -6883,8 +4313,7 @@ year old woman is diagnosed as having carcinoma of the renal pelvis of size less
 ---
 
 ---
-
-### Q370 — All of the following are principles
+### Q244 — All of the following are principles
 
 All of the following are principles of negative pressure wound therapy except
 
@@ -6902,8 +4331,7 @@ All of the following are principles of negative pressure wound therapy except
 ---
 
 ---
-
-### Q371 — What is the treatment of choice
+### Q245 — What is the treatment of choice
 
 What is the treatment of choice in desmoid tumors ?
 
@@ -6921,8 +4349,7 @@ What is the treatment of choice in desmoid tumors ?
 ---
 
 ---
-
-### Q372 — 45 year old female underwent modified
+### Q246 — 45 year old female underwent modified
 
 45 year old female underwent modified radical mastectomy with axillary clearance for CA breast. After surgery she could not lift her arm above head.
 
@@ -6940,8 +4367,7 @@ What is the treatment of choice in desmoid tumors ?
 ---
 
 ---
-
-### Q373 — All of the following are true
+### Q247 — All of the following are true
 
 All of the following are true about Nissen Fundoplication except
 
@@ -6959,8 +4385,7 @@ All of the following are true about Nissen Fundoplication except
 ---
 
 ---
-
-### Q374 — False regarding hypernephroma is -
+### Q248 — False regarding hypernephroma is -
 
 False regarding hypernephroma is -
 
@@ -6978,8 +4403,7 @@ False regarding hypernephroma is -
 ---
 
 ---
-
-### Q375 — All of the following are medical
+### Q249 — All of the following are medical
 
 All of the following are medical uses of erythropoietin except -
 
@@ -6997,8 +4421,7 @@ All of the following are medical uses of erythropoietin except -
 ---
 
 ---
-
-### Q376 — Which is false about development milestones
+### Q250 — Which is false about development milestones
 
 Which is false about development milestones at 6 months of age?
 
@@ -7016,8 +4439,7 @@ Which is false about development milestones at 6 months of age?
 ---
 
 ---
-
-### Q377 — At what age child begins to
+### Q251 — At what age child begins to
 
 At what age child begins to use past and present tense
 
@@ -7035,8 +4457,7 @@ At what age child begins to use past and present tense
 ---
 
 ---
-
-### Q378 — Potters syndrome is associated with -
+### Q252 — Potters syndrome is associated with -
 
 "Potter's syndrome" is associated with -
 
@@ -7054,8 +4475,7 @@ At what age child begins to use past and present tense
 ---
 
 ---
-
-### Q379 — 45 day old infant presents with
+### Q253 — 45 day old infant presents with
 
 45 day old infant presents with seizures. Examination reveals he is icteric, having bulging fontanelles and opisthotonic posture. Treatment is all
 
@@ -7073,8 +4493,7 @@ At what age child begins to use past and present tense
 ---
 
 ---
-
-### Q380 — Eryhtematous blotchy rash is seen on
+### Q254 — Eryhtematous blotchy rash is seen on
 
 Eryhtematous blotchy rash is seen on the abdomen, trunk and face of a 3 day old child along with yellowish papules. However the child feels well. What is
 
@@ -7092,8 +4511,7 @@ Eryhtematous blotchy rash is seen on the abdomen, trunk and face of a 3 day old 
 ---
 
 ---
-
-### Q381 — A newborn presents with subconjunctival hemorrhage
+### Q255 — A newborn presents with subconjunctival hemorrhage
 
 A newborn presents with subconjunctival hemorrhage. The treatment is
 
@@ -7111,8 +4529,7 @@ A newborn presents with subconjunctival hemorrhage. The treatment is
 ---
 
 ---
-
-### Q382 — Child with 10 episodes of diarrhea
+### Q256 — Child with 10 episodes of diarrhea
 
 Child with 10 episodes of diarrhea in last 24 hours with sunken dry eyes, very slow skin pinch, and absent tears. Management is
 
@@ -7130,8 +4547,7 @@ Child with 10 episodes of diarrhea in last 24 hours with sunken dry eyes, very s
 ---
 
 ---
-
-### Q383 — What is the first line treatment
+### Q257 — What is the first line treatment
 
 What is the first line treatment of a 4 year old child presenting with intussusception ?
 
@@ -7149,8 +4565,7 @@ What is the first line treatment of a 4 year old child presenting with intussusc
 ---
 
 ---
-
-### Q384 — What is the maintainance fluid requirement
+### Q258 — What is the maintainance fluid requirement
 
 What is the maintainance fluid requirement in a 6 kg child ?
 
@@ -7168,8 +4583,7 @@ What is the maintainance fluid requirement in a 6 kg child ?
 ---
 
 ---
-
-### Q385 — Which is found in DiGeorges syndrome
+### Q259 — Which is found in DiGeorges syndrome
 
 Which is found in DiGeorge's syndrome -
 
@@ -7187,8 +4601,7 @@ Which is found in DiGeorge's syndrome -
 ---
 
 ---
-
-### Q386 — Which of the following is present
+### Q260 — Which of the following is present
 
 Which of the following is present in a XY child but not in a XX child ?
 
@@ -7206,8 +4619,7 @@ Which of the following is present in a XY child but not in a XX child ?
 ---
 
 ---
-
-### Q387 — Treatment of choice for Kawasaki Disease
+### Q261 — Treatment of choice for Kawasaki Disease
 
 Treatment of choice for Kawasaki Disease is:
 
@@ -7225,8 +4637,7 @@ Treatment of choice for Kawasaki Disease is:
 ---
 
 ---
-
-### Q388 — All are of value in modified
+### Q262 — All are of value in modified
 
 All are of value in modified Bishop score except
 
@@ -7244,8 +4655,7 @@ All are of value in modified Bishop score except
 ---
 
 ---
-
-### Q389 — True about Keratinocyte is
+### Q263 — True about Keratinocyte is
 
 True about Keratinocyte is ?
 
@@ -7263,8 +4673,7 @@ True about Keratinocyte is ?
 ---
 
 ---
-
-### Q390 — In which of the following phototherapy
+### Q264 — In which of the following phototherapy
 
 In which of the following phototherapy is useful in treatment ?
 
@@ -7282,8 +4691,7 @@ In which of the following phototherapy is useful in treatment ?
 ---
 
 ---
-
-### Q391 — Goekarman regimen used in for treatment
+### Q265 — Goekarman regimen used in for treatment
 
 Goekarman regimen used in for treatment of psoriasis is?
 
@@ -7301,8 +4709,7 @@ Goekarman regimen used in for treatment of psoriasis is?
 ---
 
 ---
-
-### Q392 — All of the followings are part
+### Q266 — All of the followings are part
 
 All of the followings are part of the treatment of scabies except?
 
@@ -7320,8 +4727,7 @@ All of the followings are part of the treatment of scabies except?
 ---
 
 ---
-
-### Q393 — A pregnant lady comes with itchy
+### Q267 — A pregnant lady comes with itchy
 
 A pregnant lady comes with itchy hand lesions as shown. Her husband also gets it. The best treatment that can be given is ?
 
@@ -7339,8 +4745,7 @@ A pregnant lady comes with itchy hand lesions as shown. Her husband also gets it
 ---
 
 ---
-
-### Q394 — Respiratory failure in a post operative
+### Q268 — Respiratory failure in a post operative
 
 Respiratory failure in a post operative patient is ?
 
@@ -7358,8 +4763,7 @@ Respiratory failure in a post operative patient is ?
 ---
 
 ---
-
-### Q395 — Laryngeal mask airway LMA is contraindicated
+### Q269 — Laryngeal mask airway LMA is contraindicated
 
 Laryngeal mask airway [LMA] is contraindicated in?
 
@@ -7377,8 +4781,7 @@ Laryngeal mask airway [LMA] is contraindicated in?
 ---
 
 ---
-
-### Q396 — All of the following are advantages
+### Q270 — All of the following are advantages
 
 All of the following are advantages of LMA except?
 
@@ -7396,8 +4799,7 @@ All of the following are advantages of LMA except?
 ---
 
 ---
-
-### Q397 — Which anesthetic gas was used by
+### Q271 — Which anesthetic gas was used by
 
 Which anesthetic gas was used by WTG Morton in his experiment ?
 
@@ -7415,8 +4817,7 @@ Which anesthetic gas was used by WTG Morton in his experiment ?
 ---
 
 ---
-
-### Q398 — Hepatotoxic agent is
+### Q272 — Hepatotoxic agent is
 
 Hepatotoxic agent is
 
@@ -7434,8 +4835,7 @@ Hepatotoxic agent is
 ---
 
 ---
-
-### Q399 — Anesthetic agent (s) safe to use
+### Q273 — Anesthetic agent (s) safe to use
 
 Anesthetic agent (s) safe to use in TICP
 
@@ -7453,8 +4853,7 @@ Anesthetic agent (s) safe to use in TICP
 ---
 
 ---
-
-### Q400 — Which of the following anesthetic agent
+### Q274 — Which of the following anesthetic agent
 
 Which of the following anesthetic agent is a potent bronchodilator -
 
@@ -7472,8 +4871,7 @@ Which of the following anesthetic agent is a potent bronchodilator -
 ---
 
 ---
-
-### Q401 — Blood  Gas partition coefficient is
+### Q275 — Blood  Gas partition coefficient is
 
 Blood : Gas partition coefficient is a measure of ?
 
@@ -7491,8 +4889,7 @@ Blood : Gas partition coefficient is a measure of ?
 ---
 
 ---
-
-### Q402 — At the end of anaesthesia after
+### Q276 — At the end of anaesthesia after
 
 At the end of anaesthesia after discontinuation of nitrous oxide and removal of endotracheal tube, 1000/0 oxygen is administered to the patient to
 
@@ -7510,8 +4907,7 @@ At the end of anaesthesia after discontinuation of nitrous oxide and removal of 
 ---
 
 ---
-
-### Q403 — Shortest acting local anesthetic agent is
+### Q277 — Shortest acting local anesthetic agent is
 
 Shortest acting local anesthetic agent is
 
@@ -7529,8 +4925,7 @@ Shortest acting local anesthetic agent is
 ---
 
 ---
-
-### Q404 — All are done to minimize radiation,
+### Q278 — All are done to minimize radiation,
 
 All are done to minimize radiation, exposure to the patient under fluroscopy, except
 
@@ -7548,8 +4943,7 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 ---
 
 ---
-
-### Q405 — 22-year-old women presents to the emergency
+### Q279 — 22-year-old women presents to the emergency
 
 22-year-old women presents to the emergency department with a chief complaint of severe left upper quadrant [LUQ] pain after being punched by her
 
@@ -7567,8 +4961,7 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 ---
 
 ---
-
-### Q406 — year-old female presented to the emergency
+### Q280 — year-old female presented to the emergency
 
 year-old female presented to the emergency department with the sudden onset of severe epigastric pain. She had
 
@@ -7586,8 +4979,7 @@ year-old female presented to the emergency department with the sudden onset of s
 ---
 
 ---
-
-### Q407 — year-old chronic alcoholic male patient, after
+### Q281 — year-old chronic alcoholic male patient, after
 
 year-old chronic alcoholic male patient, after a large binge of alcohol, presented to the emergency department in subconscious state. He vomited
 
@@ -7605,8 +4997,7 @@ year-old chronic alcoholic male patient, after a large binge of alcohol, present
 ---
 
 ---
-
-### Q408 — Epidural hematoma on CT scan shows
+### Q282 — Epidural hematoma on CT scan shows
 
 Epidural hematoma on CT scan shows -
 
@@ -7624,8 +5015,7 @@ Epidural hematoma on CT scan shows -
 ---
 
 ---
-
-### Q409 — Medical treatment for paraphillia includes
+### Q283 — Medical treatment for paraphillia includes
 
 Medical treatment for paraphillia includes ?
 
@@ -7643,8 +5033,7 @@ Medical treatment for paraphillia includes ?
 ---
 
 ---
-
-### Q410 — Sex reassignment surgery is done in
+### Q284 — Sex reassignment surgery is done in
 
 Sex reassignment surgery is done in ?
 
@@ -7662,8 +5051,7 @@ Sex reassignment surgery is done in ?
 ---
 
 ---
-
-### Q411 — Characteristic hallucination of schizophrenia is
+### Q285 — Characteristic hallucination of schizophrenia is
 
 Characteristic hallucination of schizophrenia is
 
@@ -7681,8 +5069,7 @@ Characteristic hallucination of schizophrenia is
 ---
 
 ---
-
-### Q412 — A patient inventing new words, is
+### Q286 — A patient inventing new words, is
 
 A patient inventing new words, is a feature of ?
 
@@ -7700,8 +5087,7 @@ A patient inventing new words, is a feature of ?
 ---
 
 ---
-
-### Q413 — Treatment of choice for acute panic
+### Q287 — Treatment of choice for acute panic
 
 Treatment of choice for acute panic attacks is ?
 
@@ -7719,8 +5105,7 @@ Treatment of choice for acute panic attacks is ?
 ---
 
 ---
-
-### Q414 — Which of the following is a
+### Q288 — Which of the following is a
 
 Which of the following is a feature of opioid withdrawal?
 
@@ -7738,8 +5123,7 @@ Which of the following is a feature of opioid withdrawal?
 ---
 
 ---
-
-### Q415 — Phototherapy is used in the treatment
+### Q289 — Phototherapy is used in the treatment
 
 Phototherapy is used in the treatment of ?
 
@@ -7757,8 +5141,7 @@ Phototherapy is used in the treatment of ?
 ---
 
 ---
-
-### Q416 — Conventional drug used in the treatment
+### Q290 — Conventional drug used in the treatment
 
 Conventional drug used in the treatment of delirium is?
 
@@ -7776,8 +5159,7 @@ Conventional drug used in the treatment of delirium is?
 ---
 
 ---
-
-### Q417 — Modafinil is used for the treatment
+### Q291 — Modafinil is used for the treatment
 
 Modafinil is used for the treatment of ?
 
@@ -7796,10 +5178,9 @@ Modafinil is used for the treatment of ?
 
 ---
 
-
 ## Year 2016
 
-### Q418 — are derived from neural crest except *(2016)*
+### Q292 — are derived from neural crest except *(2016)*
 
 All are derived from neural crest except ?
 
@@ -7816,12 +5197,10 @@ All are derived from neural crest except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q419 — Digeorge syndrome is characterized by all *(2016)*
+### Q293 — Digeorge syndrome is characterized by all *(2016)*
 
 Digeorge syndrome is characterized by all except ?
 
@@ -7838,12 +5217,10 @@ Digeorge syndrome is characterized by all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q420 — 1353 Closure of patent ductus arteriosus *(2016)*
+### Q294 — 1353 Closure of patent ductus arteriosus *(2016)*
 
 1353. Closure of patent ductus arteriosus is stimulated by?
 
@@ -7860,12 +5237,10 @@ Digeorge syndrome is characterized by all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q421 — of the following help in formation *(2016)*
+### Q295 — of the following help in formation *(2016)*
 
 All of the following help in formation of IVC except -
 
@@ -7882,12 +5257,10 @@ All of the following help in formation of IVC except -
 
 ---
 
-
 ---
 
 ---
-
-### Q422 — of the following are true about *(2016)*
+### Q296 — of the following are true about *(2016)*
 
 All of the following are true about the liver except ?
 
@@ -7904,12 +5277,10 @@ All of the following are true about the liver except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q423 — Herings canal is present in *(2016)*
+### Q297 — Herings canal is present in *(2016)*
 
 Hering's canal is present in ?
 
@@ -7926,12 +5297,10 @@ Hering's canal is present in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q424 — Herrings bodies are present in *(2016)*
+### Q298 — Herrings bodies are present in *(2016)*
 
 Herring's bodies are present in?
 
@@ -7948,12 +5317,10 @@ Herring's bodies are present in?
 
 ---
 
-
 ---
 
 ---
-
-### Q425 — of the followinglayer is absent in *(2016)*
+### Q299 — of the followinglayer is absent in *(2016)*
 
 Which of the followinglayer is absent in the esophagusa -
 
@@ -7970,12 +5337,10 @@ Which of the followinglayer is absent in the esophagusa -
 
 ---
 
-
 ---
 
 ---
-
-### Q426 — Four carpal bones are present at *(2016)*
+### Q300 — Four carpal bones are present at *(2016)*
 
 Four carpal bones are present at what age?
 
@@ -7992,12 +5357,10 @@ Four carpal bones are present at what age?
 
 ---
 
-
 ---
 
 ---
-
-### Q427 — Attachment on posterior surface of sacrum *(2016)*
+### Q301 — Attachment on posterior surface of sacrum *(2016)*
 
 Attachment on posterior surface of sacrum?
 
@@ -8014,12 +5377,10 @@ Attachment on posterior surface of sacrum?
 
 ---
 
-
 ---
 
 ---
-
-### Q428 — Segment of bronchi distal to primary *(2016)*
+### Q302 — Segment of bronchi distal to primary *(2016)*
 
 Segment of bronchi distal to primary bifurcation?
 
@@ -8036,12 +5397,10 @@ Segment of bronchi distal to primary bifurcation?
 
 ---
 
-
 ---
 
 ---
-
-### Q429 — Gall bladder is realted to which *(2016)*
+### Q303 — Gall bladder is realted to which *(2016)*
 
 Gall bladder is realted to which segment of the liver?
 
@@ -8058,12 +5417,10 @@ Gall bladder is realted to which segment of the liver?
 
 ---
 
-
 ---
 
 ---
-
-### Q430 — segment of liver drains on both *(2016)*
+### Q304 — segment of liver drains on both *(2016)*
 
 Which segment of liver drains on both sides ?
 
@@ -8080,12 +5437,10 @@ Which segment of liver drains on both sides ?
 
 ---
 
-
 ---
 
 ---
-
-### Q431 — Content of Alcocks canal is *(2016)*
+### Q305 — Content of Alcocks canal is *(2016)*
 
 Content of Alcock's canal is ?
 
@@ -8102,12 +5457,10 @@ Content of Alcock's canal is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q432 — Larynx below the vocal cords drain *(2016)*
+### Q306 — Larynx below the vocal cords drain *(2016)*
 
 Larynx below the vocal cords drain into ?
 
@@ -8124,12 +5477,10 @@ Larynx below the vocal cords drain into ?
 
 ---
 
-
 ---
 
 ---
-
-### Q433 — Maxillary tubercle gives attachment to *(2016)*
+### Q307 — Maxillary tubercle gives attachment to *(2016)*
 
 Maxillary tubercle gives attachment to ?
 
@@ -8146,12 +5497,10 @@ Maxillary tubercle gives attachment to ?
 
 ---
 
-
 ---
 
 ---
-
-### Q434 — of the following nuclei belong to *(2016)*
+### Q308 — of the following nuclei belong to *(2016)*
 
 Which of the following nuclei belong to the general visceral afferent column?
 
@@ -8168,12 +5517,10 @@ Which of the following nuclei belong to the general visceral afferent column?
 
 ---
 
-
 ---
 
 ---
-
-### Q435 — Right Recurrent laryngeal nerve loops around *(2016)*
+### Q309 — Right Recurrent laryngeal nerve loops around *(2016)*
 
 Right Recurrent laryngeal nerve loops around?
 
@@ -8190,12 +5537,10 @@ Right Recurrent laryngeal nerve loops around?
 
 ---
 
-
 ---
 
 ---
-
-### Q436 — Left recurrent laryngeal passes between *(2016)*
+### Q310 — Left recurrent laryngeal passes between *(2016)*
 
 Left recurrent laryngeal passes between ?
 
@@ -8212,12 +5557,10 @@ Left recurrent laryngeal passes between ?
 
 ---
 
-
 ---
 
 ---
-
-### Q437 — Chorda tympani is a branch of *(2016)*
+### Q311 — Chorda tympani is a branch of *(2016)*
 
 Chorda tympani is a branch of ?
 
@@ -8234,12 +5577,10 @@ Chorda tympani is a branch of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q438 — Delphian nodes are *(2016)*
+### Q312 — Delphian nodes are *(2016)*
 
 Delphian nodes are ?
 
@@ -8256,12 +5597,10 @@ Delphian nodes are ?
 
 ---
 
-
 ---
 
 ---
-
-### Q439 — Movement occuring at atlanto-axial joint *(2016)*
+### Q313 — Movement occuring at atlanto-axial joint *(2016)*
 
 Movement occuring at atlanto-axial joint?
 
@@ -8278,12 +5617,10 @@ Movement occuring at atlanto-axial joint?
 
 ---
 
-
 ---
 
 ---
-
-### Q440 — of the following is not a *(2016)*
+### Q314 — of the following is not a *(2016)*
 
 Which of the following is not a permanent mucosal fold?
 
@@ -8300,12 +5637,10 @@ Which of the following is not a permanent mucosal fold?
 
 ---
 
-
 ---
 
 ---
-
-### Q441 — Measurement of intracellular fluid in a *(2016)*
+### Q315 — Measurement of intracellular fluid in a *(2016)*
 
 Measurement of intracellular fluid in a 50 years old male is done by?
 
@@ -8322,12 +5657,10 @@ Measurement of intracellular fluid in a 50 years old male is done by?
 
 ---
 
-
 ---
 
 ---
-
-### Q442 — In cardiac muscles T-tubules are present *(2016)*
+### Q316 — In cardiac muscles T-tubules are present *(2016)*
 
 In cardiac muscles, T-tubules are present at?
 
@@ -8344,12 +5677,10 @@ In cardiac muscles, T-tubules are present at?
 
 ---
 
-
 ---
 
 ---
-
-### Q443 — White fibers are present in which *(2016)*
+### Q317 — White fibers are present in which *(2016)*
 
 White fibers are present in which muscle?
 
@@ -8366,12 +5697,10 @@ White fibers are present in which muscle?
 
 ---
 
-
 ---
 
 ---
-
-### Q444 — Function of muscle spindle is *(2016)*
+### Q318 — Function of muscle spindle is *(2016)*
 
 Function of muscle spindle is?
 
@@ -8388,12 +5717,10 @@ Function of muscle spindle is?
 
 ---
 
-
 ---
 
 ---
-
-### Q445 — Stereocilia are present in *(2016)*
+### Q319 — Stereocilia are present in *(2016)*
 
 Stereocilia are present in?
 
@@ -8410,12 +5737,10 @@ Stereocilia are present in?
 
 ---
 
-
 ---
 
 ---
-
-### Q446 — CSF is present in which space *(2016)*
+### Q320 — CSF is present in which space *(2016)*
 
 CSF is present in which space?
 
@@ -8432,12 +5757,10 @@ CSF is present in which space?
 
 ---
 
-
 ---
 
 ---
-
-### Q447 — True about basic rhythm of GIT *(2016)*
+### Q321 — True about basic rhythm of GIT *(2016)*
 
 True about basic rhythm of GIT?
 
@@ -8454,12 +5777,10 @@ True about basic rhythm of GIT?
 
 ---
 
-
 ---
 
 ---
-
-### Q448 — Phosphatephosphorus is present in which part *(2016)*
+### Q322 — Phosphatephosphorus is present in which part *(2016)*
 
 Phosphate/phosphorus is present in which part of cell?
 
@@ -8476,12 +5797,10 @@ Phosphate/phosphorus is present in which part of cell?
 
 ---
 
-
 ---
 
 ---
-
-### Q449 — Premature ejaculation occurs in which phase *(2016)*
+### Q323 — Premature ejaculation occurs in which phase *(2016)*
 
 Premature ejaculation occurs in which phase of sexual cycle?
 
@@ -8498,12 +5817,10 @@ Premature ejaculation occurs in which phase of sexual cycle?
 
 ---
 
-
 ---
 
 ---
-
-### Q450 — Erection of penis occurs in which *(2016)*
+### Q324 — Erection of penis occurs in which *(2016)*
 
 Erection of penis occurs in which phase of sexual cycle?
 
@@ -8520,12 +5837,10 @@ Erection of penis occurs in which phase of sexual cycle?
 
 ---
 
-
 ---
 
 ---
-
-### Q451 — Shortest phase of sexual cycle *(2016)*
+### Q325 — Shortest phase of sexual cycle *(2016)*
 
 Shortest phase of sexual cycle?
 
@@ -8542,12 +5857,10 @@ Shortest phase of sexual cycle?
 
 ---
 
-
 ---
 
 ---
-
-### Q452 — Somatic efferent of which arise from *(2016)*
+### Q326 — Somatic efferent of which arise from *(2016)*
 
 Somatic efferent of which arise from medulla?
 
@@ -8564,12 +5877,10 @@ Somatic efferent of which arise from medulla?
 
 ---
 
-
 ---
 
 ---
-
-### Q453 — among the following glucose transporter present *(2016)*
+### Q327 — among the following glucose transporter present *(2016)*
 
 Which among the following glucose transporter present in beta cells ?
 
@@ -8586,12 +5897,10 @@ Which among the following glucose transporter present in beta cells ?
 
 ---
 
-
 ---
 
 ---
-
-### Q454 — AII are true about beta oxidation *(2016)*
+### Q328 — AII are true about beta oxidation *(2016)*
 
 AII are true about beta oxidation of fats acids except -
 
@@ -8608,12 +5917,10 @@ AII are true about beta oxidation of fats acids except -
 
 ---
 
-
 ---
 
 ---
-
-### Q455 — Edmans reagent is used for *(2016)*
+### Q329 — Edmans reagent is used for *(2016)*
 
 Edman's reagent is used for
 
@@ -8630,12 +5937,10 @@ Edman's reagent is used for
 
 ---
 
-
 ---
 
 ---
-
-### Q456 — Regarding NAD and NADP true is *(2016)*
+### Q330 — Regarding NAD and NADP true is *(2016)*
 
 Regarding NAD and NADP, true is ?
 
@@ -8652,12 +5957,10 @@ Regarding NAD and NADP, true is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q457 — of the following are true about *(2016)*
+### Q331 — of the following are true about *(2016)*
 
 All of the following are true about Nucleic Acid Sequence Based Amplification except ?
 
@@ -8674,12 +5977,10 @@ All of the following are true about Nucleic Acid Sequence Based Amplification ex
 
 ---
 
-
 ---
 
 ---
-
-### Q458 — Jumping genes are *(2016)*
+### Q332 — Jumping genes are *(2016)*
 
 Jumping genes are ?
 
@@ -8696,12 +5997,10 @@ Jumping genes are ?
 
 ---
 
-
 ---
 
 ---
-
-### Q459 — Abetalipoproteinemia affects *(2016)*
+### Q333 — Abetalipoproteinemia affects *(2016)*
 
 Abetalipoproteinemia affects ?
 
@@ -8718,12 +6017,10 @@ Abetalipoproteinemia affects ?
 
 ---
 
-
 ---
 
 ---
-
-### Q460 — True about MHC-class II - *(2016)*
+### Q334 — True about MHC-class II - *(2016)*
 
 True about MHC-class II -
 
@@ -8740,12 +6037,10 @@ True about MHC-class II -
 
 ---
 
-
 ---
 
 ---
-
-### Q461 — are true about thrombotic thrombocytopenic purpura *(2016)*
+### Q335 — are true about thrombotic thrombocytopenic purpura *(2016)*
 
 All are true about thrombotic thrombocytopenic purpura except?
 
@@ -8762,12 +6057,10 @@ All are true about thrombotic thrombocytopenic purpura except?
 
 ---
 
-
 ---
 
 ---
-
-### Q462 — common cancer to occur in organ *(2016)*
+### Q336 — common cancer to occur in organ *(2016)*
 
 Most common cancer to occur in organ transplant patient is?
 
@@ -8784,12 +6077,10 @@ Most common cancer to occur in organ transplant patient is?
 
 ---
 
-
 ---
 
 ---
-
-### Q463 — Drug used for medical management of *(2016)*
+### Q337 — Drug used for medical management of *(2016)*
 
 Drug used for medical management of acromegaly due to small pituitary tumors is?
 
@@ -8806,12 +6097,10 @@ Drug used for medical management of acromegaly due to small pituitary tumors is?
 
 ---
 
-
 ---
 
 ---
-
-### Q464 — potent opioid is *(2016)*
+### Q338 — potent opioid is *(2016)*
 
 Most potent opioid is ?
 
@@ -8828,12 +6117,10 @@ Most potent opioid is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q465 — of the following is used for *(2016)*
+### Q339 — of the following is used for *(2016)*
 
 Which of the following is used for the patient on anti​parkinsonian medication levodopa + carbidopa, but patient showing marked on - off effect?
 
@@ -8850,12 +6137,10 @@ Which of the following is used for the patient on anti​parkinsonian medication
 
 ---
 
-
 ---
 
 ---
-
-### Q466 — of the following can be used *(2016)*
+### Q340 — of the following can be used *(2016)*
 
 Which of the following can be used in the management of tardive dyskinesia ?
 
@@ -8872,12 +6157,10 @@ Which of the following can be used in the management of tardive dyskinesia ?
 
 ---
 
-
 ---
 
 ---
-
-### Q467 — Venalafaxine is an FDA approved drug *(2016)*
+### Q341 — Venalafaxine is an FDA approved drug *(2016)*
 
 Venalafaxine is an FDA approved drug for the treatment of ?
 
@@ -8894,12 +6177,10 @@ Venalafaxine is an FDA approved drug for the treatment of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q468 — Botulinum toxin is used in treatment *(2016)*
+### Q342 — Botulinum toxin is used in treatment *(2016)*
 
 Botulinum toxin is used in treatment of ?
 
@@ -8916,12 +6197,10 @@ Botulinum toxin is used in treatment of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q469 — Erythromycin is used in the treatment *(2016)*
+### Q343 — Erythromycin is used in the treatment *(2016)*
 
 Erythromycin is used in the treatment of which GIT disorder?
 
@@ -8938,12 +6217,10 @@ Erythromycin is used in the treatment of which GIT disorder?
 
 ---
 
-
 ---
 
 ---
-
-### Q470 — Treatment of clopidogrel toxicity can be *(2016)*
+### Q344 — Treatment of clopidogrel toxicity can be *(2016)*
 
 Treatment of clopidogrel toxicity can be done with ?
 
@@ -8960,12 +6237,10 @@ Treatment of clopidogrel toxicity can be done with ?
 
 ---
 
-
 ---
 
 ---
-
-### Q471 — Bendamustine is useful for the management *(2016)*
+### Q345 — Bendamustine is useful for the management *(2016)*
 
 Bendamustine is useful for the management of ?
 
@@ -8982,12 +6257,10 @@ Bendamustine is useful for the management of ?
 
 ---
 
-
 ---
 
 ---
-
-### Q472 — True about trientene is *(2016)*
+### Q346 — True about trientene is *(2016)*
 
 True about trientene is :
 
@@ -9004,12 +6277,10 @@ True about trientene is :
 
 ---
 
-
 ---
 
 ---
-
-### Q473 — drug is used in the treatment *(2016)*
+### Q347 — drug is used in the treatment *(2016)*
 
 Which drug is used in the treatment of Type I tyrosinemia?
 
@@ -9026,12 +6297,10 @@ Which drug is used in the treatment of Type I tyrosinemia?
 
 ---
 
-
 ---
 
 ---
-
-### Q474 — Punishment for criminal abortion for the *(2016)*
+### Q348 — Punishment for criminal abortion for the *(2016)*
 
 Punishment for criminal abortion for the women who gives consent and the performer are covered under IPC section ?
 
@@ -9048,12 +6317,10 @@ Punishment for criminal abortion for the women who gives consent and the perform
 
 ---
 
-
 ---
 
 ---
-
-### Q475 — Minimum age for giving consent for *(2016)*
+### Q349 — Minimum age for giving consent for *(2016)*
 
 Minimum age for giving consent for organ donation in India is?
 
@@ -9070,12 +6337,10 @@ Minimum age for giving consent for organ donation in India is?
 
 ---
 
-
 ---
 
 ---
-
-### Q476 — Four carpal bones are present at *(2016)*
+### Q350 — Four carpal bones are present at *(2016)*
 
 Four carpal bones are present at what age: DNB 09
 
@@ -9092,12 +6357,10 @@ Four carpal bones are present at what age: DNB 09
 
 ---
 
-
 ---
 
 ---
-
-### Q477 — Bullet fixed from a gun is *(2016)*
+### Q351 — Bullet fixed from a gun is *(2016)*
 
 Bullet fixed from a gun is not released. It is ejected out with subsequent shot. Such a bullet is called as
 
@@ -9114,12 +6377,10 @@ Bullet fixed from a gun is not released. It is ejected out with subsequent shot.
 
 ---
 
-
 ---
 
 ---
-
-### Q478 — Ricochet bullet is *(2016)*
+### Q352 — Ricochet bullet is *(2016)*
 
 Ricochet bullet is
 
@@ -9136,12 +6397,10 @@ Ricochet bullet is
 
 ---
 
-
 ---
 
 ---
-
-### Q479 — Highest content of cannabis is found *(2016)*
+### Q353 — Highest content of cannabis is found *(2016)*
 
 Highest content of cannabis is found in which part of the plant?
 
@@ -9158,12 +6417,10 @@ Highest content of cannabis is found in which part of the plant?
 
 ---
 
-
 ---
 
 ---
-
-### Q480 — of the following is true about *(2016)*
+### Q354 — of the following is true about *(2016)*
 
 Which of the following is true about cocaine metabolite test
 
@@ -9180,12 +6437,10 @@ Which of the following is true about cocaine metabolite test
 
 ---
 
-
 ---
 
 ---
-
-### Q481 — Active ingredient of marking nut is *(2016)*
+### Q355 — Active ingredient of marking nut is *(2016)*
 
 Active ingredient of marking nut is ?
 
@@ -9202,12 +6457,10 @@ Active ingredient of marking nut is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q482 — of the following statement regarding cell *(2016)*
+### Q356 — of the following statement regarding cell *(2016)*
 
 Which of the following statement regarding cell division is NOT TRUE?
 
@@ -9224,12 +6477,10 @@ Which of the following statement regarding cell division is NOT TRUE?
 
 ---
 
-
 ---
 
 ---
-
-### Q483 — Loeffers serum is an example of *(2016)*
+### Q357 — Loeffers serum is an example of *(2016)*
 
 Loeffer's serum is an example of
 
@@ -9246,12 +6497,10 @@ Loeffer's serum is an example of
 
 ---
 
-
 ---
 
 ---
-
-### Q484 — test cannot differentiate endemic and epidemic *(2016)*
+### Q358 — test cannot differentiate endemic and epidemic *(2016)*
 
 Which test cannot differentiate endemic and epidemic typhus
 
@@ -9268,12 +6517,10 @@ Which test cannot differentiate endemic and epidemic typhus
 
 ---
 
-
 ---
 
 ---
-
-### Q485 — Borrelia causes which of the following *(2016)*
+### Q359 — Borrelia causes which of the following *(2016)*
 
 Borrelia causes which of the following
 
@@ -9290,12 +6537,10 @@ Borrelia causes which of the following
 
 ---
 
-
 ---
 
 ---
-
-### Q486 — True about vibrio cholerae is - *(2016)*
+### Q360 — True about vibrio cholerae is - *(2016)*
 
 True about vibrio cholerae is -
 
@@ -9312,12 +6557,10 @@ True about vibrio cholerae is -
 
 ---
 
-
 ---
 
 ---
-
-### Q487 — stage of Leishmania is found in *(2016)*
+### Q361 — stage of Leishmania is found in *(2016)*
 
 Which stage of Leishmania is found in spleen aspirate of patient ?
 
@@ -9334,12 +6577,10 @@ Which stage of Leishmania is found in spleen aspirate of patient ?
 
 ---
 
-
 ---
 
 ---
-
-### Q488 — HSV-2 causes latent infection in which *(2016)*
+### Q362 — HSV-2 causes latent infection in which *(2016)*
 
 HSV-2 causes latent infection in which nerve plexus/ ganglia ?
 
@@ -9356,12 +6597,10 @@ HSV-2 causes latent infection in which nerve plexus/ ganglia ?
 
 ---
 
-
 ---
 
 ---
-
-### Q489 — 30 years old male is having *(2016)*
+### Q363 — 30 years old male is having *(2016)*
 
 A 30 years old male is having prpductive cough with dysnea. Blood gas analysis shows low pa02. Chest x-ray is showing reticulonodular pattern. The causative agent is?
 
@@ -9378,12 +6617,10 @@ A 30 years old male is having prpductive cough with dysnea. Blood gas analysis s
 
 ---
 
-
 ---
 
 ---
-
-### Q490 — True about iceberg of disease *(2016)*
+### Q364 — True about iceberg of disease *(2016)*
 
 True about iceberg of disease ?
 
@@ -9400,12 +6637,10 @@ True about iceberg of disease ?
 
 ---
 
-
 ---
 
 ---
-
-### Q491 — Standardized death rates are used because *(2016)*
+### Q365 — Standardized death rates are used because *(2016)*
 
 Standardized death rates are used because health?
 
@@ -9422,12 +6657,10 @@ Standardized death rates are used because health?
 
 ---
 
-
 ---
 
 ---
-
-### Q492 — are true about natural experiments except *(2016)*
+### Q366 — are true about natural experiments except *(2016)*
 
 All are true about natural experiments, except?
 
@@ -9444,12 +6677,10 @@ All are true about natural experiments, except?
 
 ---
 
-
 ---
 
 ---
-
-### Q493 — In a study a patient does *(2016)*
+### Q367 — In a study a patient does *(2016)*
 
 In a study a patient does not know the nature of drug [whether a placebo or curative drug] he is taking. The researcher knows the drug type to be given to the individuals in study. Types
 
@@ -9466,12 +6697,10 @@ In a study a patient does not know the nature of drug [whether a placebo or cura
 
 ---
 
-
 ---
 
 ---
-
-### Q494 — How many doses of monovalent meningococcal *(2016)*
+### Q368 — How many doses of monovalent meningococcal *(2016)*
 
 How many doses of monovalent meningococcal 'C' vaccine is given in Infants ?
 
@@ -9488,12 +6717,10 @@ How many doses of monovalent meningococcal 'C' vaccine is given in Infants ?
 
 ---
 
-
 ---
 
 ---
-
-### Q495 — Infectivity of convalescent carrier of cholera *(2016)*
+### Q369 — Infectivity of convalescent carrier of cholera *(2016)*
 
 Infectivity of convalescent carrier of cholera lasts for?
 
@@ -9510,12 +6737,10 @@ Infectivity of convalescent carrier of cholera lasts for?
 
 ---
 
-
 ---
 
 ---
-
-### Q496 — Not true about diphtheria vaccine *(2016)*
+### Q370 — Not true about diphtheria vaccine *(2016)*
 
 Not true about diphtheria vaccine?
 
@@ -9532,12 +6757,10 @@ Not true about diphtheria vaccine?
 
 ---
 
-
 ---
 
 ---
-
-### Q497 — Color of box containing drugs for *(2016)*
+### Q371 — Color of box containing drugs for *(2016)*
 
 Color of box containing drugs for treatment of category I of TB -
 
@@ -9554,12 +6777,10 @@ Color of box containing drugs for treatment of category I of TB -
 
 ---
 
-
 ---
 
 ---
-
-### Q498 — Pulses are deficient in *(2016)*
+### Q372 — Pulses are deficient in *(2016)*
 
 Pulses are deficient in ?
 
@@ -9576,12 +6797,10 @@ Pulses are deficient in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q499 — Daily iron requirement in healthy Indian *(2016)*
+### Q373 — Daily iron requirement in healthy Indian *(2016)*
 
 Daily iron requirement in healthy Indian male is-
 
@@ -9598,12 +6817,10 @@ Daily iron requirement in healthy Indian male is-
 
 ---
 
-
 ---
 
 ---
-
-### Q500 — of the following defines movement across *(2016)*
+### Q374 — of the following defines movement across *(2016)*
 
 Which of the following defines movement across scioeconomic status.
 
@@ -9620,12 +6837,10 @@ Which of the following defines movement across scioeconomic status.
 
 ---
 
-
 ---
 
 ---
-
-### Q501 — are non-parametric tests except - *(2016)*
+### Q375 — are non-parametric tests except - *(2016)*
 
 All are non-parametric tests except -
 
@@ -9642,12 +6857,10 @@ All are non-parametric tests except -
 
 ---
 
-
 ---
 
 ---
-
-### Q502 — True about NPCDCS is all EXCEPT *(2016)*
+### Q376 — True about NPCDCS is all EXCEPT *(2016)*
 
 True about NPCDCS is all, EXCEPT:
 
@@ -9664,12 +6877,10 @@ True about NPCDCS is all, EXCEPT:
 
 ---
 
-
 ---
 
 ---
-
-### Q503 — Colored kit for STD treatment is *(2016)*
+### Q377 — Colored kit for STD treatment is *(2016)*
 
 Colored kit for STD treatment is which type of approach?
 
@@ -9686,12 +6897,10 @@ Colored kit for STD treatment is which type of approach?
 
 ---
 
-
 ---
 
 ---
-
-### Q504 — PERT is which type of management *(2016)*
+### Q378 — PERT is which type of management *(2016)*
 
 PERT is which type of management technique?
 
@@ -9708,12 +6917,10 @@ PERT is which type of management technique?
 
 ---
 
-
 ---
 
 ---
-
-### Q505 — Tensor tympani is attached at *(2016)*
+### Q379 — Tensor tympani is attached at *(2016)*
 
 Tensor tympani is attached at ?
 
@@ -9730,12 +6937,10 @@ Tensor tympani is attached at ?
 
 ---
 
-
 ---
 
 ---
-
-### Q506 — First line treatment for mild retraction *(2016)*
+### Q380 — First line treatment for mild retraction *(2016)*
 
 First line treatment for mild retraction pocket in the ear is
 
@@ -9752,12 +6957,10 @@ First line treatment for mild retraction pocket in the ear is
 
 ---
 
-
 ---
 
 ---
-
-### Q507 — Cauliflower ear seen in *(2016)*
+### Q381 — Cauliflower ear seen in *(2016)*
 
 Cauliflower ear seen in:
 
@@ -9774,12 +6977,10 @@ Cauliflower ear seen in:
 
 ---
 
-
 ---
 
 ---
-
-### Q508 — In electrocochleography *(2016)*
+### Q382 — In electrocochleography *(2016)*
 
 In electrocochleography:
 
@@ -9796,12 +6997,10 @@ In electrocochleography:
 
 ---
 
-
 ---
 
 ---
-
-### Q509 — common malignancy of middle ear is *(2016)*
+### Q383 — common malignancy of middle ear is *(2016)*
 
 Most common malignancy of middle ear is
 
@@ -9818,12 +7017,10 @@ Most common malignancy of middle ear is
 
 ---
 
-
 ---
 
 ---
-
-### Q510 — common benign tumor of ear canal *(2016)*
+### Q384 — common benign tumor of ear canal *(2016)*
 
 Most common benign tumor of ear canal is
 
@@ -9840,12 +7037,10 @@ Most common benign tumor of ear canal is
 
 ---
 
-
 ---
 
 ---
-
-### Q511 — Diplacusis is *(2016)*
+### Q385 — Diplacusis is *(2016)*
 
 Diplacusis is
 
@@ -9862,12 +7057,10 @@ Diplacusis is
 
 ---
 
-
 ---
 
 ---
-
-### Q512 — Singapore ear is *(2016)*
+### Q386 — Singapore ear is *(2016)*
 
 Singapore ear is
 
@@ -9884,12 +7077,10 @@ Singapore ear is
 
 ---
 
-
 ---
 
 ---
-
-### Q513 — diabetic patient presents with foul smelling *(2016)*
+### Q387 — diabetic patient presents with foul smelling *(2016)*
 
 A diabetic patient presents with foul smelling ear discharge, fever and severe pain in the ear. On examination there is thick yellow coloured discharge from the ear and granulation tissue in the canal.
 
@@ -9906,12 +7097,10 @@ A diabetic patient presents with foul smelling ear discharge, fever and severe p
 
 ---
 
-
 ---
 
 ---
-
-### Q514 — of the following is the function *(2016)*
+### Q388 — of the following is the function *(2016)*
 
 Which of the following is the function of tensor tympani muscle?
 
@@ -9928,12 +7117,10 @@ Which of the following is the function of tensor tympani muscle?
 
 ---
 
-
 ---
 
 ---
-
-### Q515 — True about serous otitis media are *(2016)*
+### Q389 — True about serous otitis media are *(2016)*
 
 True about serous otitis media are all except ?
 
@@ -9950,12 +7137,10 @@ True about serous otitis media are all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q516 — Pink reflex through intact tympanic membrane *(2016)*
+### Q390 — Pink reflex through intact tympanic membrane *(2016)*
 
 Pink reflex through intact tympanic membrane in active otosclerosis is known as
 
@@ -9972,12 +7157,10 @@ Pink reflex through intact tympanic membrane in active otosclerosis is known as
 
 ---
 
-
 ---
 
 ---
-
-### Q517 — 10 year old child presents with *(2016)*
+### Q391 — 10 year old child presents with *(2016)*
 
 A 10 year old child presents with non foul purulent smelling discharge, which is painless. Patient reports that he is able to hear better in the presence of discharge than when the ear is dry. The
 
@@ -9994,12 +7177,10 @@ A 10 year old child presents with non foul purulent smelling discharge, which is
 
 ---
 
-
 ---
 
 ---
-
-### Q518 — Treatment of central safe perforation of *(2016)*
+### Q392 — Treatment of central safe perforation of *(2016)*
 
 Treatment of central safe perforation of tympanic membrane includes all except
 
@@ -10016,12 +7197,10 @@ Treatment of central safe perforation of tympanic membrane includes all except
 
 ---
 
-
 ---
 
 ---
-
-### Q519 — of the following terms is used *(2016)*
+### Q393 — of the following terms is used *(2016)*
 
 Which of the following terms is used to describe the most prominent point of nasal tip?
 
@@ -10038,12 +7217,10 @@ Which of the following terms is used to describe the most prominent point of nas
 
 ---
 
-
 ---
 
 ---
-
-### Q520 — Epistaxis after ligating external carotid artery *(2016)*
+### Q394 — Epistaxis after ligating external carotid artery *(2016)*
 
 Epistaxis after ligating external carotid artery is due to which vessel?
 
@@ -10060,12 +7237,10 @@ Epistaxis after ligating external carotid artery is due to which vessel?
 
 ---
 
-
 ---
 
 ---
-
-### Q521 — Rhinolith can cause *(2016)*
+### Q395 — Rhinolith can cause *(2016)*
 
 Rhinolith can cause
 
@@ -10082,12 +7257,10 @@ Rhinolith can cause
 
 ---
 
-
 ---
 
 ---
-
-### Q522 — Treatment of nasal bone fracture includes *(2016)*
+### Q396 — Treatment of nasal bone fracture includes *(2016)*
 
 Treatment of nasal bone fracture includes all except
 
@@ -10104,12 +7277,10 @@ Treatment of nasal bone fracture includes all except
 
 ---
 
-
 ---
 
 ---
-
-### Q523 — Lining epithelium of vocal cord is *(2016)*
+### Q397 — Lining epithelium of vocal cord is *(2016)*
 
 Lining epithelium of vocal cord is
 
@@ -10126,12 +7297,10 @@ Lining epithelium of vocal cord is
 
 ---
 
-
 ---
 
 ---
-
-### Q524 — the following are true about Laryngeal *(2016)*
+### Q398 — the following are true about Laryngeal *(2016)*
 
 All the following are true about Laryngeal carcinoma except:
 
@@ -10148,12 +7317,10 @@ All the following are true about Laryngeal carcinoma except:
 
 ---
 
-
 ---
 
 ---
-
-### Q525 — patient presents with Ca larynx involving *(2016)*
+### Q399 — patient presents with Ca larynx involving *(2016)*
 
 A patient presents with Ca larynx involving left false cord, left arytenoid and left aryepiglottic fold with bilateral mobile true cords. The treatment of choice in this patient is which of the
 
@@ -10170,12 +7337,10 @@ A patient presents with Ca larynx involving left false cord, left arytenoid and 
 
 ---
 
-
 ---
 
 ---
-
-### Q526 — In recurrent laryngeal nerve palsy which *(2016)*
+### Q400 — In recurrent laryngeal nerve palsy which *(2016)*
 
 In recurrent laryngeal nerve palsy which muscle keeps vocal cord in median position?
 
@@ -10192,12 +7357,10 @@ In recurrent laryngeal nerve palsy which muscle keeps vocal cord in median posit
 
 ---
 
-
 ---
 
 ---
-
-### Q527 — Simple mastoidectomy is done in *(2016)*
+### Q401 — Simple mastoidectomy is done in *(2016)*
 
 Simple mastoidectomy is done in:
 
@@ -10214,12 +7377,10 @@ Simple mastoidectomy is done in:
 
 ---
 
-
 ---
 
 ---
-
-### Q528 — Membrane incised during hemilaryngectomy is *(2016)*
+### Q402 — Membrane incised during hemilaryngectomy is *(2016)*
 
 Membrane incised during hemilaryngectomy is
 
@@ -10236,12 +7397,10 @@ Membrane incised during hemilaryngectomy is
 
 ---
 
-
 ---
 
 ---
-
-### Q529 — Treatment of moorens ulcer is *(2016)*
+### Q403 — Treatment of moorens ulcer is *(2016)*
 
 Treatment of mooren's ulcer is?
 
@@ -10258,12 +7417,10 @@ Treatment of mooren's ulcer is?
 
 ---
 
-
 ---
 
 ---
-
-### Q530 — of the following Glycosaminoglycans are not *(2016)*
+### Q404 — of the following Glycosaminoglycans are not *(2016)*
 
 Which of the following Glycosaminoglycans are not present in cornea
 
@@ -10280,12 +7437,10 @@ Which of the following Glycosaminoglycans are not present in cornea
 
 ---
 
-
 ---
 
 ---
-
-### Q531 — percentage of atropine present in atropine *(2016)*
+### Q405 — percentage of atropine present in atropine *(2016)*
 
 The percentage of atropine present in atropine drops as cycloplegic is:
 
@@ -10302,12 +7457,10 @@ The percentage of atropine present in atropine drops as cycloplegic is:
 
 ---
 
-
 ---
 
 ---
-
-### Q532 — False about treatment of cataract in *(2016)*
+### Q406 — False about treatment of cataract in *(2016)*
 
 False about treatment of cataract in children is
 
@@ -10324,12 +7477,10 @@ False about treatment of cataract in children is
 
 ---
 
-
 ---
 
 ---
-
-### Q533 — Cell bodies of Mullers Cells are *(2016)*
+### Q407 — Cell bodies of Mullers Cells are *(2016)*
 
 Cell bodies of Muller's Cells are present in which layer of retina?
 
@@ -10346,12 +7497,10 @@ Cell bodies of Muller's Cells are present in which layer of retina?
 
 ---
 
-
 ---
 
 ---
-
-### Q534 — of the following is false statement *(2016)*
+### Q408 — of the following is false statement *(2016)*
 
 Which of the following is false statement about vitreous?
 
@@ -10368,12 +7517,10 @@ Which of the following is false statement about vitreous?
 
 ---
 
-
 ---
 
 ---
-
-### Q535 — Onset of stereopsis occurs at the *(2016)*
+### Q409 — Onset of stereopsis occurs at the *(2016)*
 
 Onset of stereopsis occurs at the age of:
 
@@ -10390,12 +7537,10 @@ Onset of stereopsis occurs at the age of:
 
 ---
 
-
 ---
 
 ---
-
-### Q536 — Homonymous hemianopia type of visual field *(2016)*
+### Q410 — Homonymous hemianopia type of visual field *(2016)*
 
 Homonymous hemianopia type of visual field defect is seen in all except ?
 
@@ -10412,12 +7557,10 @@ Homonymous hemianopia type of visual field defect is seen in all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q537 — Normal vision with absence of direct *(2016)*
+### Q411 — Normal vision with absence of direct *(2016)*
 
 Normal vision with absence of direct & consensual light reflex, which nerve is involved ?
 
@@ -10434,12 +7577,10 @@ Normal vision with absence of direct & consensual light reflex, which nerve is i
 
 ---
 
-
 ---
 
 ---
-
-### Q538 — of the following is true about *(2016)*
+### Q412 — of the following is true about *(2016)*
 
 Which of the following is true about divergent squint
 
@@ -10456,12 +7597,10 @@ Which of the following is true about divergent squint
 
 ---
 
-
 ---
 
 ---
-
-### Q539 — Crossed eye fixation is positive in *(2016)*
+### Q413 — Crossed eye fixation is positive in *(2016)*
 
 Crossed eye fixation is positive in -
 
@@ -10478,12 +7617,10 @@ Crossed eye fixation is positive in -
 
 ---
 
-
 ---
 
 ---
-
-### Q540 — Partial ptosis is oculomotor nerve injury *(2016)*
+### Q414 — Partial ptosis is oculomotor nerve injury *(2016)*
 
 Partial ptosis is oculomotor nerve injury is due to intact -
 
@@ -10500,12 +7637,10 @@ Partial ptosis is oculomotor nerve injury is due to intact -
 
 ---
 
-
 ---
 
 ---
-
-### Q541 — Painful eye movement is a feature *(2016)*
+### Q415 — Painful eye movement is a feature *(2016)*
 
 Painful eye movement is a feature of :
 
@@ -10522,12 +7657,10 @@ Painful eye movement is a feature of :
 
 ---
 
-
 ---
 
 ---
-
-### Q542 — Retinoblastomas show all of the following *(2016)*
+### Q416 — Retinoblastomas show all of the following *(2016)*
 
 Retinoblastomas show all of the following except
 
@@ -10544,12 +7677,10 @@ Retinoblastomas show all of the following except
 
 ---
 
-
 ---
 
 ---
-
-### Q543 — of the following is most common *(2016)*
+### Q417 — of the following is most common *(2016)*
 
 Which of the following is most common visual defect in papilloedema
 
@@ -10566,12 +7697,10 @@ Which of the following is most common visual defect in papilloedema
 
 ---
 
-
 ---
 
 ---
-
-### Q544 — is the treatment of meibomianitis *(2016)*
+### Q418 — is the treatment of meibomianitis *(2016)*
 
 What is the treatment of meibomianitis ?
 
@@ -10588,12 +7717,10 @@ What is the treatment of meibomianitis ?
 
 ---
 
-
 ---
 
 ---
-
-### Q545 — Blow out fracture of orbit leads *(2016)*
+### Q419 — Blow out fracture of orbit leads *(2016)*
 
 Blow out fracture of orbit leads to fracture in
 
@@ -10610,12 +7737,10 @@ Blow out fracture of orbit leads to fracture in
 
 ---
 
-
 ---
 
 ---
-
-### Q546 — Vitrectomy should be considered if the *(2016)*
+### Q420 — Vitrectomy should be considered if the *(2016)*
 
 Vitrectomy should be considered if the vitreous haemorrhage is not absorbed within:
 
@@ -10632,12 +7757,10 @@ Vitrectomy should be considered if the vitreous haemorrhage is not absorbed with
 
 ---
 
-
 ---
 
 ---
-
-### Q547 — globe is displaced to which side *(2016)*
+### Q421 — globe is displaced to which side *(2016)*
 
 The globe is displaced to which side in lacrimal gland tumour?
 
@@ -10654,12 +7777,10 @@ The globe is displaced to which side in lacrimal gland tumour?
 
 ---
 
-
 ---
 
 ---
-
-### Q548 — common protozoan causing keratitis is *(2016)*
+### Q422 — common protozoan causing keratitis is *(2016)*
 
 Most common protozoan causing keratitis is
 
@@ -10676,12 +7797,10 @@ Most common protozoan causing keratitis is
 
 ---
 
-
 ---
 
 ---
-
-### Q549 — Some patients with severe form of *(2016)*
+### Q423 — Some patients with severe form of *(2016)*
 
 Some patients with severe form of Idiopathic infantile hypercalcemia, presnt with phenotypic features similar to which of the following?
 
@@ -10698,12 +7817,10 @@ Some patients with severe form of Idiopathic infantile hypercalcemia, presnt wit
 
 ---
 
-
 ---
 
 ---
-
-### Q550 — 1 to 2 mm haemorrhages in *(2016)*
+### Q424 — 1 to 2 mm haemorrhages in *(2016)*
 
 1 to 2 mm haemorrhages in skin are known as:
 
@@ -10720,12 +7837,10 @@ Some patients with severe form of Idiopathic infantile hypercalcemia, presnt wit
 
 ---
 
-
 ---
 
 ---
-
-### Q551 — of the following is not true *(2016)*
+### Q425 — of the following is not true *(2016)*
 
 Which of the following is not true about metabolic syndrome?
 
@@ -10742,12 +7857,10 @@ Which of the following is not true about metabolic syndrome?
 
 ---
 
-
 ---
 
 ---
-
-### Q552 — Metabolic syndrome diagnosis in men based *(2016)*
+### Q426 — Metabolic syndrome diagnosis in men based *(2016)*
 
 Metabolic syndrome diagnosis in men based on NCEP ATP III criteria includes the following except
 
@@ -10764,12 +7877,10 @@ Metabolic syndrome diagnosis in men based on NCEP ATP III criteria includes the 
 
 ---
 
-
 ---
 
 ---
-
-### Q553 — Water hammer pulse seen in *(2016)*
+### Q427 — Water hammer pulse seen in *(2016)*
 
 Water hammer pulse seen in
 
@@ -10786,12 +7897,10 @@ Water hammer pulse seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q554 — FALSE statement regarding the ECG in *(2016)*
+### Q428 — FALSE statement regarding the ECG in *(2016)*
 
 FALSE statement regarding the ECG in acute pericarditis is:
 
@@ -10808,12 +7917,10 @@ FALSE statement regarding the ECG in acute pericarditis is:
 
 ---
 
-
 ---
 
 ---
-
-### Q555 — Ejection click of pulmonary stenosis is *(2016)*
+### Q429 — Ejection click of pulmonary stenosis is *(2016)*
 
 Ejection click of pulmonary stenosis is better heard in
 
@@ -10830,12 +7937,10 @@ Ejection click of pulmonary stenosis is better heard in
 
 ---
 
-
 ---
 
 ---
-
-### Q556 — of the following is not true *(2016)*
+### Q430 — of the following is not true *(2016)*
 
 Which of the following is not true about bicuspid aortic valve?
 
@@ -10852,12 +7957,10 @@ Which of the following is not true about bicuspid aortic valve?
 
 ---
 
-
 ---
 
 ---
-
-### Q557 — of the following hemodynamic changes is *(2016)*
+### Q431 — of the following hemodynamic changes is *(2016)*
 
 Which of the following hemodynamic changes is not evident in cardiac tamponade during diastole?
 
@@ -10874,12 +7977,10 @@ Which of the following hemodynamic changes is not evident in cardiac tamponade d
 
 ---
 
-
 ---
 
 ---
-
-### Q558 — Major criteria for infective endocarditis include *(2016)*
+### Q432 — Major criteria for infective endocarditis include *(2016)*
 
 Major criteria for infective endocarditis include which of the following
 
@@ -10896,12 +7997,10 @@ Major criteria for infective endocarditis include which of the following
 
 ---
 
-
 ---
 
 ---
-
-### Q559 — of the following ECG features are *(2016)*
+### Q433 — of the following ECG features are *(2016)*
 
 Which of the following ECG features are not seen in patients with ventricular tachycardias?
 
@@ -10918,12 +8017,10 @@ Which of the following ECG features are not seen in patients with ventricular ta
 
 ---
 
-
 ---
 
 ---
-
-### Q560 — Cerebro-occulo-genital syndrome has the following  *(2016)*
+### Q434 — Cerebro-occulo-genital syndrome has the following  *(2016)*
 
 Cerebro-occulo-genital syndrome has the following features except
 
@@ -10940,12 +8037,10 @@ Cerebro-occulo-genital syndrome has the following features except
 
 ---
 
-
 ---
 
 ---
-
-### Q561 — Pulsus biseferians which of the following *(2016)*
+### Q435 — Pulsus biseferians which of the following *(2016)*
 
 Pulsus biseferians, which of the following is not true
 
@@ -10962,12 +8057,10 @@ Pulsus biseferians, which of the following is not true
 
 ---
 
-
 ---
 
 ---
-
-### Q562 — most common reentrant tachycardia associated with *(2016)*
+### Q436 — most common reentrant tachycardia associated with *(2016)*
 
 The most common reentrant tachycardia associated with WPW syndrome is
 
@@ -10984,12 +8077,10 @@ The most common reentrant tachycardia associated with WPW syndrome is
 
 ---
 
-
 ---
 
 ---
-
-### Q563 — Square wave seen in ECG recording *(2016)*
+### Q437 — Square wave seen in ECG recording *(2016)*
 
 Square wave seen in ECG recording denote
 
@@ -11006,12 +8097,10 @@ Square wave seen in ECG recording denote
 
 ---
 
-
 ---
 
 ---
-
-### Q564 — of the following is not true *(2016)*
+### Q438 — of the following is not true *(2016)*
 
 Which of the following is not true about Torsades de pointes?
 
@@ -11028,12 +8117,10 @@ Which of the following is not true about Torsades de pointes?
 
 ---
 
-
 ---
 
 ---
-
-### Q565 — Prolonged QT interval is seen in *(2016)*
+### Q439 — Prolonged QT interval is seen in *(2016)*
 
 Prolonged QT interval is seen in all of the following except
 
@@ -11050,12 +8137,10 @@ Prolonged QT interval is seen in all of the following except
 
 ---
 
-
 ---
 
 ---
-
-### Q566 — of the following are characteristic features *(2016)*
+### Q440 — of the following are characteristic features *(2016)*
 
 All of the following are characteristic features of Tricuspid Atresia except -
 
@@ -11072,12 +8157,10 @@ All of the following are characteristic features of Tricuspid Atresia except -
 
 ---
 
-
 ---
 
 ---
-
-### Q567 — Episode of stable angina pectoris typically *(2016)*
+### Q441 — Episode of stable angina pectoris typically *(2016)*
 
 Episode of stable angina pectoris typically lasts for
 
@@ -11094,12 +8177,10 @@ Episode of stable angina pectoris typically lasts for
 
 ---
 
-
 ---
 
 ---
-
-### Q568 — Levine sign is seen in *(2016)*
+### Q442 — Levine sign is seen in *(2016)*
 
 Levine sign is seen in
 
@@ -11116,12 +8197,10 @@ Levine sign is seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q569 — Not True about Prinzmetals angina *(2016)*
+### Q443 — Not True about Prinzmetals angina *(2016)*
 
 Not True about Prinzmetal's angina:
 
@@ -11138,12 +8217,10 @@ Not True about Prinzmetal's angina:
 
 ---
 
-
 ---
 
 ---
-
-### Q570 — most common toxin causing Dilated Cardiomyopathy *(2016)*
+### Q444 — most common toxin causing Dilated Cardiomyopathy *(2016)*
 
 The most common toxin causing Dilated Cardiomyopathy is:
 
@@ -11160,12 +8237,10 @@ The most common toxin causing Dilated Cardiomyopathy is:
 
 ---
 
-
 ---
 
 ---
-
-### Q571 — Obstructive shock can be seen in *(2016)*
+### Q445 — Obstructive shock can be seen in *(2016)*
 
 Obstructive shock can be seen in
 
@@ -11182,12 +8257,10 @@ Obstructive shock can be seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q572 — While treating patients with malignant hypertentio *(2016)*
+### Q446 — While treating patients with malignant hypertentio *(2016)*
 
 While treating patients with malignant hypertention the maximum allowed decrease in blood pressure in the first 2 - 6 hours should not exceed %
 
@@ -11204,14 +8277,12 @@ While treating patients with malignant hypertention the maximum allowed decrease
 
 ---
 
-
 ---
 
 ---
+### Q447 — ECG pattern seen in pulmonary embolism *(2016)*
 
-### Q573 — ECG pattern seen in pulmonary embolism *(2016)*
-
-ECG pattern seen in pulmonary embolism is: September 2009,
+ECG pattern seen in pulmonary embolism is
 
 - A. S3Q3T1
 - B. S1Q1T3
@@ -11226,12 +8297,10 @@ ECG pattern seen in pulmonary embolism is: September 2009,
 
 ---
 
-
 ---
 
 ---
-
-### Q574 — Contraindication for percutaneous ballon mitral va *(2016)*
+### Q448 — Contraindication for percutaneous ballon mitral va *(2016)*
 
 Contraindication for percutaneous ballon mitral valvotomy include the following except
 
@@ -11248,12 +8317,10 @@ Contraindication for percutaneous ballon mitral valvotomy include the following 
 
 ---
 
-
 ---
 
 ---
-
-### Q575 — Mitral valve replacement is recommended in *(2016)*
+### Q449 — Mitral valve replacement is recommended in *(2016)*
 
 Mitral valve replacement is recommended in patients with
 
@@ -11270,12 +8337,10 @@ Mitral valve replacement is recommended in patients with
 
 ---
 
-
 ---
 
 ---
-
-### Q576 — HOCM is common in which age *(2016)*
+### Q450 — HOCM is common in which age *(2016)*
 
 HOCM is common in which age group?
 
@@ -11292,12 +8357,10 @@ HOCM is common in which age group?
 
 ---
 
-
 ---
 
 ---
-
-### Q577 — Preferred vein for central venous catheter *(2016)*
+### Q451 — Preferred vein for central venous catheter *(2016)*
 
 Preferred vein for central venous catheter insertion is
 
@@ -11314,12 +8377,10 @@ Preferred vein for central venous catheter insertion is
 
 ---
 
-
 ---
 
 ---
-
-### Q578 — Kerley B lines seen in mitral *(2016)*
+### Q452 — Kerley B lines seen in mitral *(2016)*
 
 Kerley B lines seen in mitral stenosis when the resting left atrial pressure exceeds
 
@@ -11336,12 +8397,10 @@ Kerley B lines seen in mitral stenosis when the resting left atrial pressure exc
 
 ---
 
-
 ---
 
 ---
-
-### Q579 — of the following is the most *(2016)*
+### Q453 — of the following is the most *(2016)*
 
 Which of the following is the most common anamoly in patients with fanconi's anemia?
 
@@ -11358,12 +8417,10 @@ Which of the following is the most common anamoly in patients with fanconi's ane
 
 ---
 
-
 ---
 
 ---
-
-### Q580 — Patients with which of the following *(2016)*
+### Q454 — Patients with which of the following *(2016)*
 
 Patients with which of the following conditions are at greatest risk of pernio
 
@@ -11380,12 +8437,10 @@ Patients with which of the following conditions are at greatest risk of pernio
 
 ---
 
-
 ---
 
 ---
-
-### Q581 — is Tiffeneau - Pinelli index *(2016)*
+### Q455 — is Tiffeneau - Pinelli index *(2016)*
 
 What is Tiffeneau - Pinelli index?
 
@@ -11402,12 +8457,10 @@ What is Tiffeneau - Pinelli index?
 
 ---
 
-
 ---
 
 ---
-
-### Q582 — Lights criteria is used for *(2016)*
+### Q456 — Lights criteria is used for *(2016)*
 
 Lights criteria is used for
 
@@ -11424,12 +8477,10 @@ Lights criteria is used for
 
 ---
 
-
 ---
 
 ---
-
-### Q583 — Common cause of death in a *(2016)*
+### Q457 — Common cause of death in a *(2016)*
 
 Common cause of death in a patient with chronic bronchieactasis is
 
@@ -11446,12 +8497,10 @@ Common cause of death in a patient with chronic bronchieactasis is
 
 ---
 
-
 ---
 
 ---
-
-### Q584 — Leutriene inhibitors are used in asthma *(2016)*
+### Q458 — Leutriene inhibitors are used in asthma *(2016)*
 
 Leutriene inhibitors are used in asthma for
 
@@ -11468,12 +8517,10 @@ Leutriene inhibitors are used in asthma for
 
 ---
 
-
 ---
 
 ---
-
-### Q585 — Apnea hypoapnea index indicating obstructive sleep *(2016)*
+### Q459 — Apnea hypoapnea index indicating obstructive sleep *(2016)*
 
 Apnea hypoapnea index indicating obstructive sleep apnea is -
 
@@ -11490,12 +8537,10 @@ Apnea hypoapnea index indicating obstructive sleep apnea is -
 
 ---
 
-
 ---
 
 ---
-
-### Q586 — Multiple episodes of acute chest syndrome *(2016)*
+### Q460 — Multiple episodes of acute chest syndrome *(2016)*
 
 Multiple episodes of acute chest syndrome are associated with
 
@@ -11512,12 +8557,10 @@ Multiple episodes of acute chest syndrome are associated with
 
 ---
 
-
 ---
 
 ---
-
-### Q587 — Chronic bronchitis is said to be *(2016)*
+### Q461 — Chronic bronchitis is said to be *(2016)*
 
 Chronic bronchitis is said to be present when patient has chronic cough
 
@@ -11534,12 +8577,10 @@ Chronic bronchitis is said to be present when patient has chronic cough
 
 ---
 
-
 ---
 
 ---
-
-### Q588 — Brocks syndrome is due to which *(2016)*
+### Q462 — Brocks syndrome is due to which *(2016)*
 
 Brocks syndrome is due to which lobe of lung?
 
@@ -11556,12 +8597,10 @@ Brocks syndrome is due to which lobe of lung?
 
 ---
 
-
 ---
 
 ---
-
-### Q589 — Feature of Acute severe Asthma include *(2016)*
+### Q463 — Feature of Acute severe Asthma include *(2016)*
 
 Feature of Acute severe Asthma include all of the following, Except:
 
@@ -11578,12 +8617,10 @@ Feature of Acute severe Asthma include all of the following, Except:
 
 ---
 
-
 ---
 
 ---
-
-### Q590 — Type IV respiratory failure occurs due *(2016)*
+### Q464 — Type IV respiratory failure occurs due *(2016)*
 
 Type IV respiratory failure occurs due to
 
@@ -11600,12 +8637,10 @@ Type IV respiratory failure occurs due to
 
 ---
 
-
 ---
 
 ---
-
-### Q591 — of the following are the clinical *(2016)*
+### Q465 — of the following are the clinical *(2016)*
 
 Which of the following are the clinical abnormalities of uremia?
 
@@ -11622,12 +8657,10 @@ Which of the following are the clinical abnormalities of uremia?
 
 ---
 
-
 ---
 
 ---
-
-### Q592 — type of Bartters syndrome is associated *(2016)*
+### Q466 — type of Bartters syndrome is associated *(2016)*
 
 Which type of Bartter's syndrome is associated with mutations in barttin?
 
@@ -11644,12 +8677,10 @@ Which type of Bartter's syndrome is associated with mutations in barttin?
 
 ---
 
-
 ---
 
 ---
-
-### Q593 — Test used for screening for urinary *(2016)*
+### Q467 — Test used for screening for urinary *(2016)*
 
 Test used for screening for urinary tract infection is
 
@@ -11666,12 +8697,10 @@ Test used for screening for urinary tract infection is
 
 ---
 
-
 ---
 
 ---
-
-### Q594 — Patient with nephrotic syndrome has decreased *(2016)*
+### Q468 — Patient with nephrotic syndrome has decreased *(2016)*
 
 Patient with nephrotic syndrome has decreased amount of which antibody
 
@@ -11688,12 +8717,10 @@ Patient with nephrotic syndrome has decreased amount of which antibody
 
 ---
 
-
 ---
 
 ---
-
-### Q595 — RIFLE criteria is used for diagnosis *(2016)*
+### Q469 — RIFLE criteria is used for diagnosis *(2016)*
 
 RIFLE criteria is used for diagnosis of
 
@@ -11710,12 +8737,10 @@ RIFLE criteria is used for diagnosis of
 
 ---
 
-
 ---
 
 ---
-
-### Q596 — is oliguria - *(2016)*
+### Q470 — is oliguria - *(2016)*
 
 What is oliguria -
 
@@ -11732,12 +8757,10 @@ What is oliguria -
 
 ---
 
-
 ---
 
 ---
-
-### Q597 — Gitelmans syndrome resembles the effects of *(2016)*
+### Q471 — Gitelmans syndrome resembles the effects of *(2016)*
 
 Gitelman's syndrome resembles the effects of which of the following drugs?
 
@@ -11754,12 +8777,10 @@ Gitelman's syndrome resembles the effects of which of the following drugs?
 
 ---
 
-
 ---
 
 ---
-
-### Q598 — Autosomal recessive polycystic kidney disease is *(2016)*
+### Q472 — Autosomal recessive polycystic kidney disease is *(2016)*
 
 Autosomal recessive polycystic kidney disease is characterised by the altered expression of:
 
@@ -11776,12 +8797,10 @@ Autosomal recessive polycystic kidney disease is characterised by the altered ex
 
 ---
 
-
 ---
 
 ---
-
-### Q599 — Definition of complicated urinary tract infection *(2016)*
+### Q473 — Definition of complicated urinary tract infection *(2016)*
 
 Definition of complicated urinary tract infection is, the infection which fail to resolve or recur within week/s of standard therapy.
 
@@ -11798,12 +8817,10 @@ Definition of complicated urinary tract infection is, the infection which fail t
 
 ---
 
-
 ---
 
 ---
-
-### Q600 — Excellent predictor of mortality and morbidity *(2016)*
+### Q474 — Excellent predictor of mortality and morbidity *(2016)*
 
 Excellent predictor of mortality and morbidity in patients after hepatectomy is
 
@@ -11820,12 +8837,10 @@ Excellent predictor of mortality and morbidity in patients after hepatectomy is
 
 ---
 
-
 ---
 
 ---
-
-### Q601 — Portal hypertension is said to be *(2016)*
+### Q475 — Portal hypertension is said to be *(2016)*
 
 Portal hypertension is said to be present if portal venous pressure is more than:
 
@@ -11842,12 +8857,10 @@ Portal hypertension is said to be present if portal venous pressure is more than
 
 ---
 
-
 ---
 
 ---
-
-### Q602 — of the following drugs may be *(2016)*
+### Q476 — of the following drugs may be *(2016)*
 
 All of the following drugs may be used in the treatment of ulcerative colitis Except:
 
@@ -11864,12 +8877,10 @@ All of the following drugs may be used in the treatment of ulcerative colitis Ex
 
 ---
 
-
 ---
 
 ---
-
-### Q603 — of the following is not true *(2016)*
+### Q477 — of the following is not true *(2016)*
 
 Which of the following is not true about amoebiasis?
 
@@ -11886,12 +8897,10 @@ Which of the following is not true about amoebiasis?
 
 ---
 
-
 ---
 
 ---
-
-### Q604 — Right hand dominant patient presents with *(2016)*
+### Q478 — Right hand dominant patient presents with *(2016)*
 
 Right hand dominant patient presents with normal comprehension but speaks with short utterances of a few words at
 
@@ -11908,12 +8917,10 @@ Right hand dominant patient presents with normal comprehension but speaks with s
 
 ---
 
-
 ---
 
 ---
-
-### Q605 — is not seen in Alzheimers disease *(2016)*
+### Q479 — is not seen in Alzheimers disease *(2016)*
 
 Which is not seen in Alzheimers disease
 
@@ -11930,12 +8937,10 @@ Which is not seen in Alzheimers disease
 
 ---
 
-
 ---
 
 ---
-
-### Q606 — Violent abnormal flinging movements which are *(2016)*
+### Q480 — Violent abnormal flinging movements which are *(2016)*
 
 Violent abnormal flinging movements which are irregular and affecting one side are called as -
 
@@ -11952,12 +8957,10 @@ Violent abnormal flinging movements which are irregular and affecting one side a
 
 ---
 
-
 ---
 
 ---
-
-### Q607 — True about electrophoresis in patients of *(2016)*
+### Q481 — True about electrophoresis in patients of *(2016)*
 
 True about electrophoresis in patients of multiple myeloma
 
@@ -11974,12 +8977,10 @@ True about electrophoresis in patients of multiple myeloma
 
 ---
 
-
 ---
 
 ---
-
-### Q608 — but one is true for beta *(2016)*
+### Q482 — but one is true for beta *(2016)*
 
 All but one is true for beta thalassemia major
 
@@ -11996,12 +8997,10 @@ All but one is true for beta thalassemia major
 
 ---
 
-
 ---
 
 ---
-
-### Q609 — Drugs used in management relapsed multiple *(2016)*
+### Q483 — Drugs used in management relapsed multiple *(2016)*
 
 Drug/s used in management relapsed multiple myeloma is
 
@@ -12018,12 +9017,10 @@ Drug/s used in management relapsed multiple myeloma is
 
 ---
 
-
 ---
 
 ---
-
-### Q610 — Treatment of chronic phase of CML *(2016)*
+### Q484 — Treatment of chronic phase of CML *(2016)*
 
 Treatment of chronic phase of CML in pregnant women is -
 
@@ -12040,12 +9037,10 @@ Treatment of chronic phase of CML in pregnant women is -
 
 ---
 
-
 ---
 
 ---
-
-### Q611 — patient presents with icterus but there *(2016)*
+### Q485 — patient presents with icterus but there *(2016)*
 
 A patient presents with icterus, but there is no evidence of bilirubin in urine. What is the most likely cause of jaundice in this patient?
 
@@ -12062,12 +9057,10 @@ A patient presents with icterus, but there is no evidence of bilirubin in urine.
 
 ---
 
-
 ---
 
 ---
-
-### Q612 — Multiagent chemotherapy induces remission in of *(2016)*
+### Q486 — Multiagent chemotherapy induces remission in of *(2016)*
 
 Multiagent chemotherapy induces remission in of the patients of acute myelogenous leukemia
 
@@ -12084,12 +9077,10 @@ Multiagent chemotherapy induces remission in of the patients of acute myelogenou
 
 ---
 
-
 ---
 
 ---
-
-### Q613 — Indication for giving liothyronine as therapeutic *(2016)*
+### Q487 — Indication for giving liothyronine as therapeutic *(2016)*
 
 Indication for giving liothyronine as therapeutic management is
 
@@ -12106,12 +9097,10 @@ Indication for giving liothyronine as therapeutic management is
 
 ---
 
-
 ---
 
 ---
-
-### Q614 — Medical management of hyperparathyroidism includes *(2016)*
+### Q488 — Medical management of hyperparathyroidism includes *(2016)*
 
 Medical management of hyperparathyroidism includes which of the following?
 
@@ -12128,12 +9117,10 @@ Medical management of hyperparathyroidism includes which of the following?
 
 ---
 
-
 ---
 
 ---
-
-### Q615 — Diabetes insipidus is said to be *(2016)*
+### Q489 — Diabetes insipidus is said to be *(2016)*
 
 Diabetes insipidus is said to be present when
 
@@ -12150,12 +9137,10 @@ Diabetes insipidus is said to be present when
 
 ---
 
-
 ---
 
 ---
-
-### Q616 — Acute adrenal insufficiency can present as *(2016)*
+### Q490 — Acute adrenal insufficiency can present as *(2016)*
 
 Acute adrenal insufficiency can present as
 
@@ -12172,12 +9157,10 @@ Acute adrenal insufficiency can present as
 
 ---
 
-
 ---
 
 ---
-
-### Q617 — of the following are causes of *(2016)*
+### Q491 — of the following are causes of *(2016)*
 
 All of the following are causes of acute hyponatremia except
 
@@ -12194,12 +9177,10 @@ All of the following are causes of acute hyponatremia except
 
 ---
 
-
 ---
 
 ---
-
-### Q618 — Dose of benzathaine penicillin G to *(2016)*
+### Q492 — Dose of benzathaine penicillin G to *(2016)*
 
 Dose of benzathaine penicillin G to be given in patients of latent syphilis in patients without penicillin allergy and normal CSF findings is
 
@@ -12216,12 +9197,10 @@ Dose of benzathaine penicillin G to be given in patients of latent syphilis in p
 
 ---
 
-
 ---
 
 ---
-
-### Q619 — According to the congenital rubella syndrome *(2016)*
+### Q493 — According to the congenital rubella syndrome *(2016)*
 
 According to the congenital rubella syndrome eradication program, the first priority for rubella vaccination is offered to which of the following group?
 
@@ -12238,12 +9217,10 @@ According to the congenital rubella syndrome eradication program, the first prio
 
 ---
 
-
 ---
 
 ---
-
-### Q620 — of the following is not true *(2016)*
+### Q494 — of the following is not true *(2016)*
 
 Which of the following is not true about the epididymo¬orchitis of mumps?
 
@@ -12260,12 +9237,10 @@ Which of the following is not true about the epididymo¬orchitis of mumps?
 
 ---
 
-
 ---
 
 ---
-
-### Q621 — Factors contributing to the development of *(2016)*
+### Q495 — Factors contributing to the development of *(2016)*
 
 Factors contributing to the development of complications in measles are the following except-
 
@@ -12282,12 +9257,10 @@ Factors contributing to the development of complications in measles are the foll
 
 ---
 
-
 ---
 
 ---
-
-### Q622 — Chronic manifestations of Aspergillosis are not *(2016)*
+### Q496 — Chronic manifestations of Aspergillosis are not *(2016)*
 
 Chronic manifestations of Aspergillosis are not evident in which of the following organs?
 
@@ -12304,12 +9277,10 @@ Chronic manifestations of Aspergillosis are not evident in which of the followin
 
 ---
 
-
 ---
 
 ---
-
-### Q623 — of the following are true about *(2016)*
+### Q497 — of the following are true about *(2016)*
 
 All of the following are true about incontinentia pigmenti, except:
 
@@ -12326,12 +9297,10 @@ All of the following are true about incontinentia pigmenti, except:
 
 ---
 
-
 ---
 
 ---
-
-### Q624 — Laproscopic procedure patient develops shoulder pa *(2016)*
+### Q498 — Laproscopic procedure patient develops shoulder pa *(2016)*
 
 Laproscopic procedure patient develops shoulder pain due to
 
@@ -12348,12 +9317,10 @@ Laproscopic procedure patient develops shoulder pain due to
 
 ---
 
-
 ---
 
 ---
-
-### Q625 — patient comes with a complaint of *(2016)*
+### Q499 — patient comes with a complaint of *(2016)*
 
 A patient comes with a complaint of shoulder pain after laparoscopic surgery. What should be the next step in management?
 
@@ -12370,12 +9337,10 @@ A patient comes with a complaint of shoulder pain after laparoscopic surgery. Wh
 
 ---
 
-
 ---
 
 ---
-
-### Q626 — Following road traffic accident patient suffers *(2016)*
+### Q500 — Following road traffic accident patient suffers *(2016)*
 
 Following road traffic accident patient suffers polytrauma and is evaluated in the emergency section of the hospital. His pulse rate is 116, respiratory rate is 24, blood pressure of 122/78 mm of Hg and patient is
 
@@ -12392,12 +9357,10 @@ Following road traffic accident patient suffers polytrauma and is evaluated in t
 
 ---
 
-
 ---
 
 ---
-
-### Q627 — Surgical treatment of congenital hydrocele recomme *(2016)*
+### Q501 — Surgical treatment of congenital hydrocele recomme *(2016)*
 
 Surgical treatment of congenital hydrocele recommended if it fails to resolve by what age?
 
@@ -12414,12 +9377,10 @@ Surgical treatment of congenital hydrocele recommended if it fails to resolve by
 
 ---
 
-
 ---
 
 ---
-
-### Q628 — is the order of disorientation which *(2016)*
+### Q502 — is the order of disorientation which *(2016)*
 
 What is the order of disorientation, which a person goes through after an event of trauma to head?
 
@@ -12436,12 +9397,10 @@ What is the order of disorientation, which a person goes through after an event 
 
 ---
 
-
 ---
 
 ---
-
-### Q629 — of the following is the preferred *(2016)*
+### Q503 — of the following is the preferred *(2016)*
 
 Which of the following is the preferred route of access for total parenteral nutrition in a patient who requires the same for <14 days and there is otherwise no indication for use of
 
@@ -12458,12 +9417,10 @@ Which of the following is the preferred route of access for total parenteral nut
 
 ---
 
-
 ---
 
 ---
-
-### Q630 — of the following is not true *(2016)*
+### Q504 — of the following is not true *(2016)*
 
 Which of the following is not true about use of graft in vascular surgery
 
@@ -12480,12 +9437,10 @@ Which of the following is not true about use of graft in vascular surgery
 
 ---
 
-
 ---
 
 ---
-
-### Q631 — of the following is true about *(2016)*
+### Q505 — of the following is true about *(2016)*
 
 Which of the following is true about the management of venous ulcer of lower limb?
 
@@ -12502,12 +9457,10 @@ Which of the following is true about the management of venous ulcer of lower lim
 
 ---
 
-
 ---
 
 ---
-
-### Q632 — Blunt trauma exploratory laparotomy done nonexpans *(2016)*
+### Q506 — Blunt trauma exploratory laparotomy done nonexpans *(2016)*
 
 Blunt trauma exploratory laparotomy done nonexpansile swelling found on mesenteric border of intestine, management
 
@@ -12524,12 +9477,10 @@ Blunt trauma exploratory laparotomy done nonexpansile swelling found on mesenter
 
 ---
 
-
 ---
 
 ---
-
-### Q633 — In SVC syndrome for non small *(2016)*
+### Q507 — In SVC syndrome for non small *(2016)*
 
 In SVC syndrome for non small cell carcinoma of lung management done
 
@@ -12546,12 +9497,10 @@ In SVC syndrome for non small cell carcinoma of lung management done
 
 ---
 
-
 ---
 
 ---
-
-### Q634 — Microdochotomy is treatment for *(2016)*
+### Q508 — Microdochotomy is treatment for *(2016)*
 
 Microdochotomy is treatment for
 
@@ -12568,12 +9517,10 @@ Microdochotomy is treatment for
 
 ---
 
-
 ---
 
 ---
-
-### Q635 — 52 years female patient presents with *(2016)*
+### Q509 — 52 years female patient presents with *(2016)*
 
 52 years female patient presents with 4 cm diameter diagnosed breast cancer lesion with ipsilateral axillary and contralateral supraclavicular lymphadenopathy. As per AJCC
 
@@ -12590,12 +9537,10 @@ Microdochotomy is treatment for
 
 ---
 
-
 ---
 
 ---
-
-### Q636 — of the following hormonal levels influence *(2016)*
+### Q510 — of the following hormonal levels influence *(2016)*
 
 Which of the following hormonal levels influence the development of benign breast disease?
 
@@ -12612,12 +9557,10 @@ Which of the following hormonal levels influence the development of benign breas
 
 ---
 
-
 ---
 
 ---
-
-### Q637 — Treatment of large omphalocele defect can *(2016)*
+### Q511 — Treatment of large omphalocele defect can *(2016)*
 
 Treatment of large omphalocele defect can be done by
 
@@ -12634,12 +9577,10 @@ Treatment of large omphalocele defect can be done by
 
 ---
 
-
 ---
 
 ---
-
-### Q638 — Macroprolactinoma ideal treatment is *(2016)*
+### Q512 — Macroprolactinoma ideal treatment is *(2016)*
 
 Macroprolactinoma ideal treatment is
 
@@ -12656,12 +9597,10 @@ Macroprolactinoma ideal treatment is
 
 ---
 
-
 ---
 
 ---
-
-### Q639 — should be the plan of management *(2016)*
+### Q513 — should be the plan of management *(2016)*
 
 What should be the plan of management for a patient for whom while undergoing simple cholecystectomy T2 gall bladder carcinoma is discovered?
 
@@ -12678,12 +9617,10 @@ What should be the plan of management for a patient for whom while undergoing si
 
 ---
 
-
 ---
 
 ---
-
-### Q640 — In which condition medical treatment of *(2016)*
+### Q514 — In which condition medical treatment of *(2016)*
 
 In which condition, medical treatment of gall stone is indicated -
 
@@ -12700,12 +9637,10 @@ In which condition, medical treatment of gall stone is indicated -
 
 ---
 
-
 ---
 
 ---
-
-### Q641 — prevalent symptom in patients of leiomyoma *(2016)*
+### Q515 — prevalent symptom in patients of leiomyoma *(2016)*
 
 Most prevalent symptom in patients of leiomyoma of esophagus is
 
@@ -12722,12 +9657,10 @@ Most prevalent symptom in patients of leiomyoma of esophagus is
 
 ---
 
-
 ---
 
 ---
-
-### Q642 — Patient complains of intermittent dysphagia which *(2016)*
+### Q516 — Patient complains of intermittent dysphagia which *(2016)*
 
 Patient complains of intermittent dysphagia which is equal both for solids and liquids, which of the following is the most probable diagnosis?
 
@@ -12744,12 +9677,10 @@ Patient complains of intermittent dysphagia which is equal both for solids and l
 
 ---
 
-
 ---
 
 ---
-
-### Q643 — of the following is not true *(2016)*
+### Q517 — of the following is not true *(2016)*
 
 Which of the following is not true about medical management of uncomplicated GERD?
 
@@ -12766,12 +9697,10 @@ Which of the following is not true about medical management of uncomplicated GER
 
 ---
 
-
 ---
 
 ---
-
-### Q644 — individual of age 40 yrs presents *(2016)*
+### Q518 — individual of age 40 yrs presents *(2016)*
 
 An individual of age 40 yrs presents with dysphagia to both solids and liquids with symptoms of regurgitation. Patient also complaints of chest pain and weight loss. Which of the following
 
@@ -12788,12 +9717,10 @@ An individual of age 40 yrs presents with dysphagia to both solids and liquids w
 
 ---
 
-
 ---
 
 ---
-
-### Q645 — Critical diameter of caecum when perforation *(2016)*
+### Q519 — Critical diameter of caecum when perforation *(2016)*
 
 Critical diameter of caecum when perforation is considered eminent in pseudo-obstruction is -
 
@@ -12810,12 +9737,10 @@ Critical diameter of caecum when perforation is considered eminent in pseudo-obs
 
 ---
 
-
 ---
 
 ---
-
-### Q646 — Treatment of choice for low fistula *(2016)*
+### Q520 — Treatment of choice for low fistula *(2016)*
 
 Treatment of choice for low fistula in ano is -
 
@@ -12832,12 +9757,10 @@ Treatment of choice for low fistula in ano is -
 
 ---
 
-
 ---
 
 ---
-
-### Q647 — Treatment of congenital hydrocephalus is - *(2016)*
+### Q521 — Treatment of congenital hydrocephalus is - *(2016)*
 
 Treatment of congenital hydrocephalus is -
 
@@ -12854,12 +9777,10 @@ Treatment of congenital hydrocephalus is -
 
 ---
 
-
 ---
 
 ---
-
-### Q648 — True of umbilical hernia - *(2016)*
+### Q522 — True of umbilical hernia - *(2016)*
 
 True of umbilical hernia -
 
@@ -12876,12 +9797,10 @@ True of umbilical hernia -
 
 ---
 
-
 ---
 
 ---
-
-### Q649 — Treatment of choice for bladder stone *(2016)*
+### Q523 — Treatment of choice for bladder stone *(2016)*
 
 Treatment of choice for bladder stone
 
@@ -12898,12 +9817,10 @@ Treatment of choice for bladder stone
 
 ---
 
-
 ---
 
 ---
-
-### Q650 — LAHSAL code is used to represent *(2016)*
+### Q524 — LAHSAL code is used to represent *(2016)*
 
 LAHSAL code is used to represent congenital malformation of -
 
@@ -12920,12 +9837,10 @@ LAHSAL code is used to represent congenital malformation of -
 
 ---
 
-
 ---
 
 ---
-
-### Q651 — Outcome of burns depends on - *(2016)*
+### Q525 — Outcome of burns depends on - *(2016)*
 
 Outcome of burns depends on -
 
@@ -12942,12 +9857,10 @@ Outcome of burns depends on -
 
 ---
 
-
 ---
 
 ---
-
-### Q652 — best treatment for cystic hygroma is *(2016)*
+### Q526 — best treatment for cystic hygroma is *(2016)*
 
 The best treatment for cystic hygroma is -
 
@@ -12964,12 +9877,10 @@ The best treatment for cystic hygroma is -
 
 ---
 
-
 ---
 
 ---
-
-### Q653 — patient after road traffic accident presented *(2016)*
+### Q527 — patient after road traffic accident presented *(2016)*
 
 A patient after road traffic accident presented with tension pneumothorax. What is the first line of management?
 
@@ -12986,12 +9897,10 @@ A patient after road traffic accident presented with tension pneumothorax. What 
 
 ---
 
-
 ---
 
 ---
-
-### Q654 — Preferred treatment for oral tongue carcinoma *(2016)*
+### Q528 — Preferred treatment for oral tongue carcinoma *(2016)*
 
 Preferred treatment for oral tongue carcinoma which infiltrates the local cortical bone is -
 
@@ -13008,12 +9917,10 @@ Preferred treatment for oral tongue carcinoma which infiltrates the local cortic
 
 ---
 
-
 ---
 
 ---
-
-### Q655 — For lower lip carcinoma of 1cm *(2016)*
+### Q529 — For lower lip carcinoma of 1cm *(2016)*
 
 For lower lip carcinoma of <1cm in size. The treatment of choice will be-
 
@@ -13030,12 +9937,10 @@ For lower lip carcinoma of <1cm in size. The treatment of choice will be-
 
 ---
 
-
 ---
 
 ---
-
-### Q656 — Hoarseness of voice in lung carcinoma *(2016)*
+### Q530 — Hoarseness of voice in lung carcinoma *(2016)*
 
 Hoarseness of voice in lung carcinoma is due to invasion of which structure?
 
@@ -13052,12 +9957,10 @@ Hoarseness of voice in lung carcinoma is due to invasion of which structure?
 
 ---
 
-
 ---
 
 ---
-
-### Q657 — of the following provides excellent details *(2016)*
+### Q531 — of the following provides excellent details *(2016)*
 
 Which of the following provides excellent details about the chemodectomas?
 
@@ -13074,12 +9977,10 @@ Which of the following provides excellent details about the chemodectomas?
 
 ---
 
-
 ---
 
 ---
-
-### Q658 — Indication for surgical compartment release in *(2016)*
+### Q532 — Indication for surgical compartment release in *(2016)*
 
 Indication for surgical compartment release in compartment Syndrome in any compartment is absolute pressure greater than?
 
@@ -13096,12 +9997,10 @@ Indication for surgical compartment release in compartment Syndrome in any compa
 
 ---
 
-
 ---
 
 ---
-
-### Q659 — of the following is not seen *(2016)*
+### Q533 — of the following is not seen *(2016)*
 
 Which of the following is not seen in patent ductus arteriosus?
 
@@ -13118,12 +10017,10 @@ Which of the following is not seen in patent ductus arteriosus?
 
 ---
 
-
 ---
 
 ---
-
-### Q660 — of the following statement is true *(2016)*
+### Q534 — of the following statement is true *(2016)*
 
 Which of the following statement is true for physiological jaundice in neonate?
 
@@ -13140,12 +10037,10 @@ Which of the following statement is true for physiological jaundice in neonate?
 
 ---
 
-
 ---
 
 ---
-
-### Q661 — Content of Na in ringer lactate *(2016)*
+### Q535 — Content of Na in ringer lactate *(2016)*
 
 Content of Na' in ringer lactate is meq/1-
 
@@ -13162,12 +10057,10 @@ Content of Na' in ringer lactate is meq/1-
 
 ---
 
-
 ---
 
 ---
-
-### Q662 — 5DHT is necessary for development of *(2016)*
+### Q536 — 5DHT is necessary for development of *(2016)*
 
 5DHT is necessary for development of which of the following?
 
@@ -13184,12 +10077,10 @@ Content of Na' in ringer lactate is meq/1-
 
 ---
 
-
 ---
 
 ---
-
-### Q663 — True about Asperger syndrome *(2016)*
+### Q537 — True about Asperger syndrome *(2016)*
 
 True about Asperger syndrome:
 
@@ -13206,12 +10097,10 @@ True about Asperger syndrome:
 
 ---
 
-
 ---
 
 ---
-
-### Q664 — Pectus excavatum is *(2016)*
+### Q538 — Pectus excavatum is *(2016)*
 
 Pectus excavatum is
 
@@ -13228,12 +10117,10 @@ Pectus excavatum is
 
 ---
 
-
 ---
 
 ---
-
-### Q665 — Arrange the following milestones in the *(2016)*
+### Q539 — Arrange the following milestones in the *(2016)*
 
 Arrange the following milestones in the correct order of their attainment I. Build tower of 4 cubes II. Make simple sentences III. Drawing a circle
 
@@ -13250,12 +10137,10 @@ Arrange the following milestones in the correct order of their attainment I. Bui
 
 ---
 
-
 ---
 
 ---
-
-### Q666 — dangerous type of odontoid fracture as *(2016)*
+### Q540 — dangerous type of odontoid fracture as *(2016)*
 
 Most dangerous type of odontoid fracture as per Anderson and D' Alonzo classification and its respective management is
 
@@ -13272,12 +10157,10 @@ Most dangerous type of odontoid fracture as per Anderson and D' Alonzo classific
 
 ---
 
-
 ---
 
 ---
-
-### Q667 — Treatment of scaphoid fracture *(2016)*
+### Q541 — Treatment of scaphoid fracture *(2016)*
 
 Treatment of scaphoid fracture
 
@@ -13294,12 +10177,10 @@ Treatment of scaphoid fracture
 
 ---
 
-
 ---
 
 ---
-
-### Q668 — of the following is the management *(2016)*
+### Q542 — of the following is the management *(2016)*
 
 Which of the following is the management for neglected case of CTEV in a patient > 10 years of age?
 
@@ -13316,12 +10197,10 @@ Which of the following is the management for neglected case of CTEV in a patient
 
 ---
 
-
 ---
 
 ---
-
-### Q669 — of the following is not true *(2016)*
+### Q543 — of the following is not true *(2016)*
 
 Which of the following is not true about the management of potts paraplegia?
 
@@ -13338,12 +10217,10 @@ Which of the following is not true about the management of potts paraplegia?
 
 ---
 
-
 ---
 
 ---
-
-### Q670 — X-ray appearance of sequestrum is - *(2016)*
+### Q544 — X-ray appearance of sequestrum is - *(2016)*
 
 X-ray appearance of sequestrum is -
 
@@ -13360,12 +10237,10 @@ X-ray appearance of sequestrum is -
 
 ---
 
-
 ---
 
 ---
-
-### Q671 — mobile segment of vertebral column is *(2016)*
+### Q545 — mobile segment of vertebral column is *(2016)*
 
 Most mobile segment of vertebral column is -
 
@@ -13382,12 +10257,10 @@ Most mobile segment of vertebral column is -
 
 ---
 
-
 ---
 
 ---
-
-### Q672 — Treatment of choice in Acute myositis *(2016)*
+### Q546 — Treatment of choice in Acute myositis *(2016)*
 
 Treatment of choice in Acute myositis ossificans is:
 
@@ -13404,12 +10277,10 @@ Treatment of choice in Acute myositis ossificans is:
 
 ---
 
-
 ---
 
 ---
-
-### Q673 — is the treatment for patient with *(2016)*
+### Q547 — is the treatment for patient with *(2016)*
 
 What is the treatment for patient with hypertrophic nonunion with deformity at fracture site?
 
@@ -13426,12 +10297,10 @@ What is the treatment for patient with hypertrophic nonunion with deformity at f
 
 ---
 
-
 ---
 
 ---
-
-### Q674 — infertile woman has bilateral tubal block *(2016)*
+### Q548 — infertile woman has bilateral tubal block *(2016)*
 
 An infertile woman has bilateral tubal block at cornua diagnosed on hysterosalpingography. Next treatment of choice is ?
 
@@ -13448,12 +10317,10 @@ An infertile woman has bilateral tubal block at cornua diagnosed on hysterosalpi
 
 ---
 
-
 ---
 
 ---
-
-### Q675 — is monitored in a patient of *(2016)*
+### Q549 — is monitored in a patient of *(2016)*
 
 What is monitored in a patient of pre eclamsia ?
 
@@ -13470,12 +10337,10 @@ What is monitored in a patient of pre eclamsia ?
 
 ---
 
-
 ---
 
 ---
-
-### Q676 — Patient with choriocarcinoma & jaundice treatment *(2016)*
+### Q550 — Patient with choriocarcinoma & jaundice treatment *(2016)*
 
 Patient with choriocarcinoma & jaundice, treatment of choice is ?
 
@@ -13492,12 +10357,10 @@ Patient with choriocarcinoma & jaundice, treatment of choice is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q677 — DOC for medical management of ectopic *(2016)*
+### Q551 — DOC for medical management of ectopic *(2016)*
 
 DOC for medical management of ectopic pegnancy ?
 
@@ -13514,12 +10377,10 @@ DOC for medical management of ectopic pegnancy ?
 
 ---
 
-
 ---
 
 ---
-
-### Q678 — Choice of adjuvant treatment for endometrial *(2016)*
+### Q552 — Choice of adjuvant treatment for endometrial *(2016)*
 
 Choice of adjuvant treatment for endometrial carcinoma stage IA, grade I is?
 
@@ -13536,12 +10397,10 @@ Choice of adjuvant treatment for endometrial carcinoma stage IA, grade I is?
 
 ---
 
-
 ---
 
 ---
-
-### Q679 — Nugent score includes all except - *(2016)*
+### Q553 — Nugent score includes all except - *(2016)*
 
 Nugent score includes all except -
 
@@ -13558,12 +10417,10 @@ Nugent score includes all except -
 
 ---
 
-
 ---
 
 ---
-
-### Q680 — pregnant lady presents with genital warts *(2016)*
+### Q554 — pregnant lady presents with genital warts *(2016)*
 
 A pregnant lady presents with genital warts. The best management for her is ?
 
@@ -13580,12 +10437,10 @@ A pregnant lady presents with genital warts. The best management for her is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q681 — LNG content of Mirena is - *(2016)*
+### Q555 — LNG content of Mirena is - *(2016)*
 
 LNG content of Mirena is -
 
@@ -13602,12 +10457,10 @@ LNG content of Mirena is -
 
 ---
 
-
 ---
 
 ---
-
-### Q682 — Patient with 45 XO  what *(2016)*
+### Q556 — Patient with 45 XO  what *(2016)*
 
 Patient with 45 XO , what HRT to be given ?
 
@@ -13624,12 +10477,10 @@ Patient with 45 XO , what HRT to be given ?
 
 ---
 
-
 ---
 
 ---
-
-### Q683 — Symptoms of menopause are all except *(2016)*
+### Q557 — Symptoms of menopause are all except *(2016)*
 
 Symptoms of menopause are all except ?
 
@@ -13646,12 +10497,10 @@ Symptoms of menopause are all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q684 — Factors responsible for development of OHSS *(2016)*
+### Q558 — Factors responsible for development of OHSS *(2016)*
 
 Factors responsible for development of OHSS include ?
 
@@ -13668,12 +10517,10 @@ Factors responsible for development of OHSS include ?
 
 ---
 
-
 ---
 
 ---
-
-### Q685 — Azoospermic patient can be a father *(2016)*
+### Q559 — Azoospermic patient can be a father *(2016)*
 
 Azoospermic patient can be a father of
 
@@ -13690,12 +10537,10 @@ Azoospermic patient can be a father of
 
 ---
 
-
 ---
 
 ---
-
-### Q686 — of the following is not a *(2016)*
+### Q560 — of the following is not a *(2016)*
 
 Which of the following is not a soft tissue marker of Down syndrome on USG ?
 
@@ -13712,12 +10557,10 @@ Which of the following is not a soft tissue marker of Down syndrome on USG ?
 
 ---
 
-
 ---
 
 ---
-
-### Q687 — In a case of recurrent spontaneous *(2016)*
+### Q561 — In a case of recurrent spontaneous *(2016)*
 
 In a case of recurrent spontaneous abortion the following investigation is unwanted ?
 
@@ -13734,12 +10577,10 @@ In a case of recurrent spontaneous abortion the following investigation is unwan
 
 ---
 
-
 ---
 
 ---
-
-### Q688 — Selenium sulphide is used in the *(2016)*
+### Q562 — Selenium sulphide is used in the *(2016)*
 
 Selenium sulphide is used in the treatment of?
 
@@ -13756,12 +10597,10 @@ Selenium sulphide is used in the treatment of?
 
 ---
 
-
 ---
 
 ---
-
-### Q689 — Treatment for impetigo includes all except *(2016)*
+### Q563 — Treatment for impetigo includes all except *(2016)*
 
 Treatment for impetigo includes all except?
 
@@ -13778,12 +10617,10 @@ Treatment for impetigo includes all except?
 
 ---
 
-
 ---
 
 ---
-
-### Q690 — Resorcinol is used in the treatment *(2016)*
+### Q564 — Resorcinol is used in the treatment *(2016)*
 
 Resorcinol is used in the treatment of?
 
@@ -13800,12 +10637,10 @@ Resorcinol is used in the treatment of?
 
 ---
 
-
 ---
 
 ---
-
-### Q691 — Treatment of choice for scabies in *(2016)*
+### Q565 — Treatment of choice for scabies in *(2016)*
 
 Treatment of choice for scabies in an infant < 6 months is?
 
@@ -13822,12 +10657,10 @@ Treatment of choice for scabies in an infant < 6 months is?
 
 ---
 
-
 ---
 
 ---
-
-### Q692 — Oral treatment of choice for scabies *(2016)*
+### Q566 — Oral treatment of choice for scabies *(2016)*
 
 Oral treatment of choice for scabies is?
 
@@ -13844,12 +10677,10 @@ Oral treatment of choice for scabies is?
 
 ---
 
-
 ---
 
 ---
-
-### Q693 — Treatment of choice for erytherodermic psoriasis *(2016)*
+### Q567 — Treatment of choice for erytherodermic psoriasis *(2016)*
 
 Treatment of choice for erytherodermic psoriasis is?
 
@@ -13866,12 +10697,10 @@ Treatment of choice for erytherodermic psoriasis is?
 
 ---
 
-
 ---
 
 ---
-
-### Q694 — CNS affection of a local anesthetic *(2016)*
+### Q568 — CNS affection of a local anesthetic *(2016)*
 
 CNS affection of a local anesthetic agent leads to?
 
@@ -13888,12 +10717,10 @@ CNS affection of a local anesthetic agent leads to?
 
 ---
 
-
 ---
 
 ---
-
-### Q695 — of the following inhalational anesthetic agent *(2016)*
+### Q569 — of the following inhalational anesthetic agent *(2016)*
 
 Which of the following inhalational anesthetic agent most easily crosses blood brain barrier?
 
@@ -13910,12 +10737,10 @@ Which of the following inhalational anesthetic agent most easily crosses blood b
 
 ---
 
-
 ---
 
 ---
-
-### Q696 — of the following anesthetic agent most *(2016)*
+### Q570 — of the following anesthetic agent most *(2016)*
 
 Which of the following anesthetic agent most is lipid soluble?
 
@@ -13932,12 +10757,10 @@ Which of the following anesthetic agent most is lipid soluble?
 
 ---
 
-
 ---
 
 ---
-
-### Q697 — patient with normal succinylcholine metabolism wil *(2016)*
+### Q571 — patient with normal succinylcholine metabolism wil *(2016)*
 
 A patient with normal succinylcholine metabolism will have Dibucaine number between?
 
@@ -13954,12 +10777,10 @@ A patient with normal succinylcholine metabolism will have Dibucaine number betw
 
 ---
 
-
 ---
 
 ---
-
-### Q698 — of the following agent is associated *(2016)*
+### Q572 — of the following agent is associated *(2016)*
 
 Which of the following agent is associated with maximum histamine release?
 
@@ -13976,12 +10797,10 @@ Which of the following agent is associated with maximum histamine release?
 
 ---
 
-
 ---
 
 ---
-
-### Q699 — Anesthetic agent leading to bradycardia is *(2016)*
+### Q573 — Anesthetic agent leading to bradycardia is *(2016)*
 
 Anesthetic agent leading to bradycardia is?
 
@@ -13998,12 +10817,10 @@ Anesthetic agent leading to bradycardia is?
 
 ---
 
-
 ---
 
 ---
-
-### Q700 — Pin index system is a safety *(2016)*
+### Q574 — Pin index system is a safety *(2016)*
 
 Pin index system is a safety feature adopted in anesthesia machines to prevent?
 
@@ -14020,12 +10837,10 @@ Pin index system is a safety feature adopted in anesthesia machines to prevent?
 
 ---
 
-
 ---
 
 ---
-
-### Q701 — Anesthetic agent of choice in asthma *(2016)*
+### Q575 — Anesthetic agent of choice in asthma *(2016)*
 
 Anesthetic agent of choice in asthma patient is?
 
@@ -14042,12 +10857,10 @@ Anesthetic agent of choice in asthma patient is?
 
 ---
 
-
 ---
 
 ---
-
-### Q702 — Mallampattis classification is for *(2016)*
+### Q576 — Mallampattis classification is for *(2016)*
 
 Mallampatti's classification is for?
 
@@ -14064,12 +10877,10 @@ Mallampatti's classification is for?
 
 ---
 
-
 ---
 
 ---
-
-### Q703 — Thickness of lead apron to prevent *(2016)*
+### Q577 — Thickness of lead apron to prevent *(2016)*
 
 Thickness of lead apron to prevent radiation:
 
@@ -14086,12 +10897,10 @@ Thickness of lead apron to prevent radiation:
 
 ---
 
-
 ---
 
 ---
-
-### Q704 — Radiation used most commonly for pain *(2016)*
+### Q578 — Radiation used most commonly for pain *(2016)*
 
 Radiation used most commonly for pain management due to bone metastasis is -
 
@@ -14108,12 +10917,10 @@ Radiation used most commonly for pain management due to bone metastasis is -
 
 ---
 
-
 ---
 
 ---
-
-### Q705 — Bone marrow transplant recipient patientdeveloped  *(2016)*
+### Q579 — Bone marrow transplant recipient patientdeveloped  *(2016)*
 
 A Bone marrow transplant recipient patientdeveloped chest infection. On HRCT 'Tree in bud appearance' is seen. Most likely causative agent is:
 
@@ -14130,12 +10937,10 @@ A Bone marrow transplant recipient patientdeveloped chest infection. On HRCT 'Tr
 
 ---
 
-
 ---
 
 ---
-
-### Q706 — Confabulation is *(2016)*
+### Q580 — Confabulation is *(2016)*
 
 Confabulation is?
 
@@ -14152,12 +10957,10 @@ Confabulation is?
 
 ---
 
-
 ---
 
 ---
-
-### Q707 — 39 years old male patient presents *(2016)*
+### Q581 — 39 years old male patient presents *(2016)*
 
 A 39 years old male patient presents with waxy flexibility, negativism and rigidity. Most probable diagnosis is?
 
@@ -14174,12 +10977,10 @@ A 39 years old male patient presents with waxy flexibility, negativism and rigid
 
 ---
 
-
 ---
 
 ---
-
-### Q708 — appropriate test for child psychologist to *(2016)*
+### Q582 — appropriate test for child psychologist to *(2016)*
 
 Most appropriate test for child psychologist to evaluate the intellectual ability of a 3 year old is?
 
@@ -14196,12 +10997,10 @@ Most appropriate test for child psychologist to evaluate the intellectual abilit
 
 ---
 
-
 ---
 
 ---
-
-### Q709 — Treatment of choice for akathesia is *(2016)*
+### Q583 — Treatment of choice for akathesia is *(2016)*
 
 Treatment of choice for akathesia is?
 
@@ -14218,12 +11017,10 @@ Treatment of choice for akathesia is?
 
 ---
 
-
 ---
 
 ---
-
-### Q710 — Cardinal element of behavior therapy is *(2016)*
+### Q584 — Cardinal element of behavior therapy is *(2016)*
 
 Cardinal element of behavior therapy is?
 
@@ -14240,12 +11037,10 @@ Cardinal element of behavior therapy is?
 
 ---
 
-
 ---
 
 ---
-
-### Q711 — Tolerance is seen in *(2016)*
+### Q585 — Tolerance is seen in *(2016)*
 
 Tolerance is seen in?
 
@@ -14262,12 +11057,10 @@ Tolerance is seen in?
 
 ---
 
-
 ---
 
 ---
-
-### Q712 — 25 years old male co recurrent *(2016)*
+### Q586 — 25 years old male co recurrent *(2016)*
 
 A 25 years old male c/o recurrent abdominal pain but biochemical assays and ultrasound abdomen is normal. He also complains of constant headaches. He suddenly complains of loss of vision
 
@@ -14284,12 +11077,10 @@ A 25 years old male c/o recurrent abdominal pain but biochemical assays and ultr
 
 ---
 
-
 ---
 
 ---
-
-### Q713 — TCAs are contraindicated in all of *(2016)*
+### Q587 — TCAs are contraindicated in all of *(2016)*
 
 TCAs are contraindicated in all of the following except?
 
@@ -14306,12 +11097,10 @@ TCAs are contraindicated in all of the following except?
 
 ---
 
-
 ---
 
 ---
-
-### Q714 — DOC for schizophrenic patient with poor *(2016)*
+### Q588 — DOC for schizophrenic patient with poor *(2016)*
 
 DOC for schizophrenic patient with poor oral absorption is?
 
@@ -14328,16 +11117,13 @@ DOC for schizophrenic patient with poor oral absorption is?
 
 ---
 
-
-
 ---
 
 ---
-
 
 ## Year 2017
 
-### Q715 — Freud’s theory of dream includes all except
+### Q589 — Freud’s theory of dream includes all except
 
 Freud’s theory of dream includes all except:
 
@@ -14356,3 +11142,2111 @@ Freud’s theory of dream includes all except:
 
 ---
 
+## Year 2019
+
+### Q590 — Tubercular OM — NOT a feature
+
+Not a feature of tubercular otitis media?
+
+- A. Earache
+- B. Multiple perforations
+- C. Pale granulation
+- D. Foul-smelling discharge
+
+<details><summary>Answer</summary>
+
+**A. Earache** — Tubercular OM is typically painless. Multiple perforations and pale granulation are classic.
+</details>
+
+---
+### Q591 — Pott's puffy tumour
+
+Pott's puffy tumour is?
+
+- A. Subperiosteal abscess of frontal bone
+- B. Subperiosteal abscess of ethmoid bone
+- C. Mucocele of frontal bone
+- D. Mucocele of ethmoid bone
+
+<details><summary>Answer</summary>
+
+**A. Subperiosteal abscess of frontal bone** — Complication of frontal sinusitis with osteomyelitis.
+</details>
+
+---
+
+---
+### Q592 — Duct of Bellini are present in *(2019)*
+
+Duct of Bellini are present in:
+
+- A. Pancreas
+- B. Liver
+- C. Kidney
+- D. Salivary gland
+
+<details><summary>Answer</summary>
+
+**C. Kidney**
+
+</details>
+
+---
+
+---
+### Q593 — Joint involved in movement of head *(2019)*
+
+Joint involved in movement of head from left to right.
+
+- A. Atlanto axial
+- B. Atlanto occipital
+- C. C2- C3 Joint
+- D. C3- C4 Joint
+
+<details><summary>Answer</summary>
+
+**A. Atlanto axial**
+
+</details>
+
+---
+
+---
+### Q594 — collagen present in skin is *(2019)*
+
+collagen present in skin is
+
+- A. Type II
+- B. Type I
+- C. Type III
+- D. Type IV
+
+<details><summary>Answer</summary>
+
+**B. Type I**
+
+</details>
+
+---
+
+---
+### Q595 — In a patient with lipoprotein lipase *(2019)*
+
+In a patient with lipoprotein lipase deficiency, which of the following is increased following a fatty meal?
+
+- A. Chylomicron
+- B. LDL
+- C. HDL
+- D. Apo-A
+
+<details><summary>Answer</summary>
+
+**A. Chylomicron**
+
+</details>
+
+---
+
+---
+### Q596 — What is the choice of treatment *(2019)*
+
+What is the choice of treatment for idiopathic thrombocytopenia purpura (ITP)?
+
+- A. Blood transfusion
+- B. Spontaneous recovery
+- C. IV infusion
+- D. Splenectomy
+
+<details><summary>Answer</summary>
+
+**D. Splenectomy**
+
+</details>
+
+---
+
+---
+### Q597 — What is the advantage of fixed *(2019)*
+
+What is the advantage of fixed dose combination of drugs.
+
+- A. Increases efficacy of drug
+- B. Decreases adverse effects
+- C. Patient compliance improved
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+
+---
+### Q598 — Filgrastim is used in treatment of *(2019)*
+
+Filgrastim is used in treatment of:
+
+- A. Anemia
+- B. Neutropenia
+- C. Malaria
+- D. Filarial
+
+<details><summary>Answer</summary>
+
+**B. Neutropenia**
+
+</details>
+
+---
+
+---
+### Q599 — True about treatment of early breast *(2019)*
+
+True about treatment of early breast carcinoma?
+
+- A. Aromatase inhibitors are replacing tamoxifen in premenopausal
+- B. Post mastectomy radiation therapy is given when 4 or more
+- C. Tamoxifen is not useful in post-menopausal women
+- D. In premenopausal women, multidrug chemotherapy is given in
+
+<details><summary>Answer</summary>
+
+**B. Post mastectomy radiation therapy is given when 4 or more**
+
+</details>
+
+---
+
+---
+### Q600 — IV Mannitol is used for treatment *(2019)*
+
+IV Mannitol is used for treatment of
+
+- A. Acute congestive glaucoma
+- B. Pulmonary edema
+- C. Acute renal failure
+- D. CHF
+
+<details><summary>Answer</summary>
+
+**A. Acute congestive glaucoma**
+
+</details>
+
+---
+
+---
+### Q601 — Punishment for perjury is under which *(2019)*
+
+Punishment for perjury is under which section IPC ?
+
+- A. Sec 193
+- B. Sec 191
+- C. Sec 197
+- D. Sec 190
+
+<details><summary>Answer</summary>
+
+**A. Sec 193**
+
+</details>
+
+---
+
+---
+### Q602 — A child is having Battered baby *(2019)*
+
+A child is having Battered baby syndrome how will you identify
+
+- A. Stab wound
+- B. Gunshot wound
+- C. Bruise of different ages
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**C. Bruise of different ages**
+
+</details>
+
+---
+
+---
+### Q603 — Green colour of triage is for *(2019)*
+
+Green colour of triage is for which patient ?
+
+- A. Low priority
+- B. Morbidity
+- C. Ambulatory
+- D. High priority
+
+<details><summary>Answer</summary>
+
+**C. Ambulatory**
+
+</details>
+
+---
+
+---
+### Q604 — Concurrent list of Indian Constitution includes *(2019)*
+
+Concurrent list of Indian Constitution includes which of the following?
+
+- A. International immigration rule for quarantine
+- B. Prevention of extension of communicable disease from one unit
+- C. Mines and oilfield workers rules
+- D. Establishment and maintenance of drug standards
+
+<details><summary>Answer</summary>
+
+**B. Prevention of extension of communicable disease from one unit**
+
+</details>
+
+---
+
+---
+### Q605 — Health center in remotest area for *(2019)*
+
+Health center in remotest area for planning and management of schemes:
+
+- A. Anganwadi
+- B. Block centre
+- C. Sub-centre
+- D. PHC
+
+<details><summary>Answer</summary>
+
+**C. Sub-centre**
+
+</details>
+
+---
+
+---
+### Q606 — Not a personal protective equipment *(2019)*
+
+Not a personal protective equipment
+
+- A. Goggles
+- B. Badges for detecting radiation
+- C. Gloves
+- D. Lab coat
+
+<details><summary>Answer</summary>
+
+**B. Badges for detecting radiation**
+
+</details>
+
+---
+
+---
+### Q607 — Deep venous thrombosis which is incorrect *(2019)*
+
+Deep venous thrombosis which is incorrect –
+
+- A. Clinical assessment highly reliable
+- B. Mostly bilateral
+- C. Most common clinically presents as pain and tenderness in calf
+- D. Some cases may directly present as pulmonary
+
+<details><summary>Answer</summary>
+
+**B. Mostly bilateral**
+
+</details>
+
+---
+
+---
+### Q608 — True about Barretts esophagus are all *(2019)*
+
+True about Barrett’s esophagus are all of the following except:
+
+- A. Causes adenocarcinoma
+- B. Patient is usually asymptomatic
+- C. Histology of the lesion shows mucus secreting goblet cells
+- D. Chronic gastroesophageal reflux is a predisposing factor
+
+<details><summary>Answer</summary>
+
+**A. Causes adenocarcinoma**
+
+</details>
+
+---
+
+---
+### Q609 — True about Tenosynovitis of finger *(2019)*
+
+True about Tenosynovitis of finger ?
+
+- A. Fingers held in mild extension / Extension deformity at the
+- B. Tenosynovitis of little finger will spread to thumb rather than ring
+- C. With involvement of little finger the infection can spread to the
+- D. Treatment is conservative.
+
+<details><summary>Answer</summary>
+
+**B. Tenosynovitis of little finger will spread to thumb rather than ring**
+
+</details>
+
+---
+
+---
+### Q610 — Female with 41 wk gestation confirmed *(2019)*
+
+Female with 41 wk gestation confirmed by radiological investigation, very sure of her LMP, no uterine contractions, no effacement and no dilatation. What
+
+- A. Intracervical foley’s
+- B. PGE1 tab
+- C. PGE2 gel
+- D. PGF2alpha
+
+<details><summary>Answer</summary>
+
+**D. PGF2alpha**
+
+</details>
+
+---
+
+---
+### Q611 — Premature ejaculation is a part of *(2019)*
+
+Premature ejaculation is a part of which phase of sexual disorders?
+
+- A. Excitement phase
+- B. Plateau phase
+- C. Orgasm phase
+- D. Refractory phase
+
+<details><summary>Answer</summary>
+
+**C. Orgasm phase**
+
+</details>
+
+---
+
+---
+### Q612 — Patient with recurrent abortion diagnosed to *(2019)*
+
+Patient with recurrent abortion diagnosed to have antiphospholipid syndrome. What will be the treatment?
+
+- A. Aspirin only
+- B. Aspirin + Low molecular weight Heparin
+- C. Aspirin + Low molecular weight Heparin + Prednisolone
+- D. No Treatment
+
+<details><summary>Answer</summary>
+
+**B. Aspirin + Low molecular weight Heparin**
+
+</details>
+
+---
+
+---
+### Q613 — Not true about somnambulism among the *(2019)*
+
+Not true about somnambulism among the following is?
+
+- A. Sleep walking.
+- B. Patient consciousness is preserved.
+- C. Disorder of sleep arousal.
+- D. Low level motor skill/function is present
+
+<details><summary>Answer</summary>
+
+**D. Low level motor skill/function is present**
+
+</details>
+
+---
+
+---
+### Q614 — Confusion assessment scale used for which *(2019)*
+
+Confusion assessment scale used for which of the following?
+
+- A. Schizophrenia
+- B. Delirium
+- C. Dementia
+- D. Depression
+
+<details><summary>Answer</summary>
+
+**B. Delirium**
+
+</details>
+
+---
+
+---
+### Q615 — Test based on the principle of *(2019)*
+
+Test based on the principle of suspect’s reaction, if he witnesses an event then he behaves in a certain way is?
+
+- A. Narcoanalysis
+- B. Brain mapping
+- C. Truth serum testing
+- D. Polygraph
+
+<details><summary>Answer</summary>
+
+**D. Polygraph**
+
+</details>
+
+---
+
+---
+### Q616 — A patient presented with history of *(2019)*
+
+A patient presented with history of diplopia and restricted eye movements. A clinical image and CT image is shown below. What will be the diagnosis?
+
+- A. Le- fort fracture
+- B. Fracture maxilla
+- C. Fracture zygomatic
+- D. Blow out fracture
+
+<details><summary>Answer</summary>
+
+**D. Blow out fracture**
+
+</details>
+
+---
+
+---
+### Q617 — A female patient presented with recurrent *(2019)*
+
+A female patient presented with recurrent Urinary tract infections. Imaging shows the following picture. What can be the most probable
+
+- A. Duplication of Ureter
+- B. Congenital Megaureter
+- C. Ureterocele
+- D. Urinary Stones
+
+<details><summary>Answer</summary>
+
+**C. Ureterocele**
+
+</details>
+
+---
+
+---
+### Q618 — A patient came in emergency with *(2019)*
+
+A patient came in emergency with severe abdominal pain pulse 112/ minute and systolic BP 80 mm/Hg with the chest Xray shown below. What will be the next appropriate step to be taken for the
+
+- A. Exploratory laprotomy
+- B. Saline Wash of stomach
+- C. Intercostal tube drainage
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Exploratory laprotomy**
+
+</details>
+
+---
+
+---
+### Q619 — True statement about given condition of *(2019)*
+
+True statement about given condition of eye except:
+
+- A. Arise from any part of conjunctiva
+- B. Can cause Astigmatism
+- C. Surgery is treatment of choice
+- D. UV exposure is risk factor
+
+<details><summary>Answer</summary>
+
+**A. Arise from any part of conjunctiva**
+
+</details>
+
+---
+
+---
+### Q620 — CT image of left maxilla with *(2019)*
+
+CT image of left maxilla with history of allergic rhinitis?
+
+- A. Ground glass appearance
+- B. Double densities
+- C. Honey comb
+- D. Onion Peel Appearance
+
+<details><summary>Answer</summary>
+
+**B. Double densities**
+
+</details>
+
+---
+
+---
+### Q621 — A patient presented with the following *(2019)*
+
+A patient presented with the following picture of Tympanic Membrane. Most Probable diagnosis (marked with arrow):
+
+- A. Tubercular Otitis Media
+- B. Syphilitic Otitis Media
+- C. Pseudomonas infection
+- D. Fungal Otitis Media
+
+<details><summary>Answer</summary>
+
+**A. Tubercular Otitis Media**
+
+</details>
+
+---
+
+---
+### Q622 — Dohlman procedure is for *(2019)*
+
+Dohlman procedure is for:
+
+- A. Meckel's diverticulum
+- B. Zenker's diverticulum
+- C. Dermatomyositis
+- D. Menetrier's disease
+
+<details><summary>Answer</summary>
+
+**B. Zenker's diverticulum**
+
+</details>
+
+---
+
+---
+
+## Year 2020
+
+### Q623 — Saccule origin
+
+Saccule develops from which structure?
+
+- A. Sacculus anterior
+- B. Pars posterior
+- C. Pars superior
+- D. Pars inferior
+
+<details><summary>Answer</summary>
+
+**D. Pars inferior** — Saccule and cochlea arise from pars inferior of the otocyst.
+</details>
+
+---
+### Q624 — Meatoplasty
+
+Surgery to widen cartilaginous external auditory canal?
+
+- A. Tympanoplasty
+- B. Myringoplasty
+- C. Otoplasty
+- D. Meatoplasty
+
+<details><summary>Answer</summary>
+
+**D. Meatoplasty** — Widens the cartilaginous canal (often after canal-wall-down mastoidectomy).
+</details>
+
+---
+
+---
+### Q625 — The reason for the long left *(2020)*
+
+The reason for the long left recurrent laryngeal nerve is due to the persistence of which arch artery?
+
+- A. 3rd arch
+- B. 4th arch
+- C. 5th arch
+- D. 2nd arch
+
+<details><summary>Answer</summary>
+
+**B. 4th arch**
+
+</details>
+
+---
+
+---
+### Q626 — A boy met with a motorbike *(2020)*
+
+A boy met with a motorbike accident. CT brain shows injury to the posterior end of the superior temporal gyrus. He is likely to suffer from
+
+- A. Fluent aphasia
+- B. Non-fluent aphasia
+- C. Conduction aphasia
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Fluent aphasia**
+
+</details>
+
+---
+
+---
+### Q627 — Proteoglycan present in the glomerular basement *(2020)*
+
+Proteoglycan present in the glomerular basement membrane is?
+
+- A. Keratan sulphate 1
+- B. Keratan sulphate 2
+- C. Heparan sulphate
+- D. Chondroitin sulphate
+
+<details><summary>Answer</summary>
+
+**C. Heparan sulphate**
+
+</details>
+
+---
+
+---
+### Q628 — Which of the following clotting factor *(2020)*
+
+Which of the following clotting factor in a patient on Warfarin therapy, would have decreased gamma carboxyglutamate residue?
+
+- A. Factor 2
+- B. Factor 11
+- C. Tissue factor
+- D. Factor 5
+
+<details><summary>Answer</summary>
+
+**A. Factor 2**
+
+</details>
+
+---
+
+---
+### Q629 — Which of the following technique is *(2020)*
+
+Which of the following technique is used to study current flow across a single ion channel?
+
+- A. Patch clamp
+- B. Voltage clamp
+- C. lontophoresis
+- D. Galvanometry
+
+<details><summary>Answer</summary>
+
+**A. Patch clamp**
+
+</details>
+
+---
+
+---
+### Q630 — Which of the following is true *(2020)*
+
+Which of the following is true about different structures of protein?
+
+- A. Secondary structure is the three-dimensional structure of
+- B. Secondary structure is stabilized by disulfide bonds
+- C. Primary, secondary and tertiary structures destroyed during
+- D. Secondary and tertiary structure depends on the sequence of
+
+<details><summary>Answer</summary>
+
+**D. Secondary and tertiary structure depends on the sequence of**
+
+</details>
+
+---
+
+---
+### Q631 — If a sample of DNA if *(2020)*
+
+If a sample of DNA if adenine is 28% what will be the amount of Cytosine present
+
+- A. 23%
+- B. 25%
+- C. 46%
+- D. 22%
+
+<details><summary>Answer</summary>
+
+**D. 22%**
+
+</details>
+
+---
+
+---
+### Q632 — True statement regarding Huntingtons chorea is *(2020)*
+
+True statement regarding Huntington’s chorea is
+
+- A. There is a loss of function type of mutation
+- B. It is an autosomal recessive
+- C. It is a trinucleotide repeat expansion type of disorder
+- D. Increased number of CAA repeats
+
+<details><summary>Answer</summary>
+
+**C. It is a trinucleotide repeat expansion type of disorder**
+
+</details>
+
+---
+
+---
+### Q633 — Which of the following is the *(2020)*
+
+Which of the following is the basis for the intestine-specific expression of apoprotein B-48?
+
+- A. DNA rearrangement and loss
+- B. DNA rearrangement and loss
+- C. RNA alternative splicing
+- D. RNA editing
+
+<details><summary>Answer</summary>
+
+**D. RNA editing**
+
+</details>
+
+---
+
+---
+### Q634 — 30 years old came with complaints *(2020)*
+
+30 years old came with complaints of easy fatigability, exertional dyspnea, and weight loss. She also complains of frequent falls. physical examination
+
+- A. Folate not absorbed
+- B. Unmasked pyridoxine deficiency
+- C. Deficiency of folate reductase in CNS
+- D. Folate therapy caused rapid use of Vit B12 stores aggravating
+
+<details><summary>Answer</summary>
+
+**D. Folate therapy caused rapid use of Vit B12 stores aggravating**
+
+</details>
+
+---
+
+---
+### Q635 — Which of the following will be *(2020)*
+
+Which of the following will be seen on cardiac biopsy of a patient who had a post MI reperfusion injury?
+
+- A. Waviness of fibres
+- B. Eosinophilic contraction bands
+- C. Neutrophils in cardiac cells
+- D. Swelling of cells
+
+<details><summary>Answer</summary>
+
+**B. Eosinophilic contraction bands**
+
+</details>
+
+---
+
+---
+### Q636 — Which of the following is true *(2020)*
+
+Which of the following is true about PAN?
+
+- A. Microscopy shows fibrinoid necrosis in large arteries
+- B. ANCA is positive
+- C. 30% of people have HbsAg positive
+- D. Patient have hypogammaglobulinemia
+
+<details><summary>Answer</summary>
+
+**C. 30% of people have HbsAg positive**
+
+</details>
+
+---
+
+---
+### Q637 — What is the main feature of *(2020)*
+
+What is the main feature of chemotaxis as observed in white blood cells?
+
+- A. Increased random movement of neutrophils
+- B. Increased adhesiveness to intima
+- C. Increased phagocytosis
+- D. Unidirectional locomotion of neutrophils
+
+<details><summary>Answer</summary>
+
+**D. Unidirectional locomotion of neutrophils**
+
+</details>
+
+---
+
+---
+### Q638 — Which of the following antimicrobials should *(2020)*
+
+Which of the following antimicrobials should not be given to a chronic asthmatic patient managed on theophylline therapy?
+
+- A. Erythromycin
+- B. Amoxicillin
+- C. Cefotaxime
+- D. Cotrimoxazole
+
+<details><summary>Answer</summary>
+
+**A. Erythromycin**
+
+</details>
+
+---
+
+---
+### Q639 — A patient on lithium therapy developed *(2020)*
+
+A patient on lithium therapy developed hypertension. He was started on Thiazide for hypertension. After a few days, he developed coarse tremors and other
+
+- A. Thiazide increases the tubular reabsorption of lithium
+- B. Thiazide inhibits the metabolism of lithium
+- C. Thiazides act as an add on the drug to lithium
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Thiazide increases the tubular reabsorption of lithium**
+
+</details>
+
+---
+
+---
+### Q640 — At a high altitude of 3000 *(2020)*
+
+At a high altitude of 3000 m, a person complains of breathlessness. All of the following can be used for the management of this person except?
+
+- A. Intravenous digoxin
+- B. Oxygen supplementation
+- C. Immediate descent
+- D. Acetazolamide
+
+<details><summary>Answer</summary>
+
+**A. Intravenous digoxin**
+
+</details>
+
+---
+
+---
+### Q641 — A patient with diabetes and COPD *(2020)*
+
+A patient with diabetes and COPD developed postoperative urinary retention. Which of the following drugs can be used for short term treatment to
+
+- A. Bethanechol
+- B. Methacholine
+- C. Terazosin
+- D. Tamsulosin
+
+<details><summary>Answer</summary>
+
+**A. Bethanechol**
+
+</details>
+
+---
+
+---
+### Q642 — A patient was recently started on *(2020)*
+
+A patient was recently started on Fluphenazine. A few weeks later, he developed tremors, rigidity, bradykinesia, and excessive salivation. The first line of
+
+- A. Selegiline
+- B. Trihexyphenidyl
+- C. Pramipexole
+- D. Amantadine
+
+<details><summary>Answer</summary>
+
+**B. Trihexyphenidyl**
+
+</details>
+
+---
+
+---
+### Q643 — Punishment of perjury comes under IPC *(2020)*
+
+Punishment of perjury comes under IPC section?
+
+- A. IPC 191
+- B. IPC 192
+- C. IPC 193
+- D. IPC 197
+
+<details><summary>Answer</summary>
+
+**C. IPC 193**
+
+</details>
+
+---
+
+---
+### Q644 — Relatives of a patient told during *(2020)*
+
+Relatives of a patient told during postmortem examination that the person had a tattoo - which was now invisible. How to identify?
+
+- A. Examine the Lymph node
+- B. Spectrophotometer
+- C. Ordinary light
+- D. X-ray
+
+<details><summary>Answer</summary>
+
+**A. Examine the Lymph node**
+
+</details>
+
+---
+
+---
+### Q645 — Which of the following cell components *(2020)*
+
+Which of the following cell components produced by Neisseria gonorrhoeae is responsible for attachment to host cells?
+
+- A. Lipooligosaccharide
+- B. Pili (fimbriae)
+- C. IgA1 protease
+- D. Outer membrane porin protein
+
+<details><summary>Answer</summary>
+
+**B. Pili (fimbriae)**
+
+</details>
+
+---
+
+---
+### Q646 — A person reports 4 hours after *(2020)*
+
+A person reports 4 hours after having a clean wound without laceration. He had taken TT 10 years before. the next step in management is:
+
+- A. Full course Tetanus vaccine to be given
+- B. Full dose TT with TIG
+- C. Single-dose TT
+- D. No need for any vaccine
+
+<details><summary>Answer</summary>
+
+**C. Single-dose TT**
+
+</details>
+
+---
+
+---
+### Q647 — Recent Influenza Pandemic was due to *(2020)*
+
+Recent Influenza Pandemic was due to:
+
+- A. H1N1
+- B. H5N1
+- C. H7N7
+- D. H3N2
+
+<details><summary>Answer</summary>
+
+**A. H1N1**
+
+</details>
+
+---
+
+---
+### Q648 — Which of the following is a *(2020)*
+
+Which of the following is a technique/method based on behavioural sciences
+
+- A. Management by objectives
+- B. Network analysis
+- C. Systems analysis
+- D. Decision making
+
+<details><summary>Answer</summary>
+
+**A. Management by objectives**
+
+</details>
+
+---
+
+---
+### Q649 — As per the sustainable development goals, *(2020)*
+
+As per the sustainable development goals, The target for MMR is to achieve maternal deaths of
+
+- A. < 70 / Lac live births
+- B. < 100 / lac live births
+- C. < 7 / 1000 live births
+- D. < 10 / 1000 live births
+
+<details><summary>Answer</summary>
+
+**A. < 70 / Lac live births**
+
+</details>
+
+---
+
+---
+### Q650 — The variation in data is compared *(2020)*
+
+The variation in data is compared with another data set by:
+
+- A. Variance
+- B. Coefficient of variation
+- C. The standard error of mean
+- D. Standard deviation
+
+<details><summary>Answer</summary>
+
+**B. Coefficient of variation**
+
+</details>
+
+---
+
+---
+### Q651 — In which of the following methods *(2020)*
+
+In which of the following methods of management is the benefit measured in natural units?
+
+- A. Program budgeting system
+- B. Network analysis
+- C. Cost-effective analysis
+- D. Cost-benefit analysis
+
+<details><summary>Answer</summary>
+
+**C. Cost-effective analysis**
+
+</details>
+
+---
+
+---
+### Q652 — If one variable is given then *(2020)*
+
+If one variable is given then you can find another variable by
+
+- A. Coefficient of variation
+- B. Coefficient of correlation
+- C. Coefficient of regression
+- D. Coefficient of determination
+
+<details><summary>Answer</summary>
+
+**C. Coefficient of regression**
+
+</details>
+
+---
+
+---
+### Q653 — A researcher wanted to prove the *(2020)*
+
+A researcher wanted to prove the relation between COPD and smoking. He collected patients records from government hospitals and records of
+
+- A. Cross-sectional
+- B. Posological study
+- C. Ecological study
+- D. Operations research
+
+<details><summary>Answer</summary>
+
+**C. Ecological study**
+
+</details>
+
+---
+
+---
+### Q654 — Tubercular Otitis media is characterized by *(2020)*
+
+Tubercular Otitis media is characterized by all except
+
+- A. Painful otorrhea
+- B. Multiple perforations
+- C. Pale granulations
+- D. Foul-smelling ear discharge
+
+<details><summary>Answer</summary>
+
+**A. Painful otorrhea**
+
+</details>
+
+---
+
+---
+### Q655 — Partial and full closure done in *(2020)*
+
+Partial and full closure done in
+
+- A. Atrophic rhinitis
+- B. Allergic rhinitis
+- C. Vasomotor rhinitis
+- D. Occupational rhinitis
+
+<details><summary>Answer</summary>
+
+**A. Atrophic rhinitis**
+
+</details>
+
+---
+
+---
+### Q656 — A drug used in a patient *(2020)*
+
+A drug used in a patient with increased IOP and optic disc changes, ciliary congestion for decrease IOP acts by increasing uveoscleral outflow is
+
+- A. Latanoprost
+- B. Pilocarpine
+- C. Dorzolamide
+- D. Timolol
+
+<details><summary>Answer</summary>
+
+**A. Latanoprost**
+
+</details>
+
+---
+
+---
+### Q657 — Nutcracker esophagus, the correct statement is *(2020)*
+
+Nutcracker esophagus, the correct statement is
+
+- A. There is extremely forceful peristaltic activity leading to
+- B. There is no medical t/t available
+- C. Type of oesophageal Malignancy
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. There is extremely forceful peristaltic activity leading to**
+
+</details>
+
+---
+
+---
+### Q658 — What will you do when 3 *(2020)*
+
+What will you do when 3 yrs old child parents come to phc with fever, cough since 5 days with chest indrawing present under mnci classification
+
+- A. Give antipyretics only
+- B. Give antibiotics and follow up
+- C. Refer urgently to tertiary care
+- D. Give antibiotics and refer to tertiary care
+
+<details><summary>Answer</summary>
+
+**D. Give antibiotics and refer to tertiary care**
+
+</details>
+
+---
+
+---
+### Q659 — A patient having multiple Gall stones *(2020)*
+
+A patient having multiple Gall stones and shows 8 mm dilation and 4 stones in CBD, best treatment modalities are –
+
+- A. Cholecystectomy with choledocholithotomy at the same setting
+- B. ESWL
+- C. Cholecystectomy and wait for ERCP
+- D. All
+
+<details><summary>Answer</summary>
+
+**A. Cholecystectomy with choledocholithotomy at the same setting**
+
+</details>
+
+---
+
+---
+### Q660 — Hemodynamically unstable patient with SVT *(2020)*
+
+Hemodynamically unstable patient with SVT
+
+- A. IV IBUTILIDE
+- B. IV DILTIAZEM
+- C. CARDIOVERSION
+- D. Iv beta-blockers
+
+<details><summary>Answer</summary>
+
+**C. CARDIOVERSION**
+
+</details>
+
+---
+
+---
+### Q661 — A Female patient was on lithium *(2020)*
+
+A Female patient was on lithium for bipolar disorder for 6 months.she fasted for some days due to religious condition and later presented with
+
+- A. serum electrolytes
+- B. serum lithium
+- C. ECG
+- D. MRI
+
+<details><summary>Answer</summary>
+
+**B. serum lithium**
+
+</details>
+
+---
+
+---
+### Q662 — All trans retinoic acid is used *(2020)*
+
+All trans retinoic acid is used in the treatment of tumour associated with
+
+- A. BCR-ABL
+- B. PML-RARA
+- C. CMYC
+- D. CEBPA
+
+<details><summary>Answer</summary>
+
+**B. PML-RARA**
+
+</details>
+
+---
+
+---
+### Q663 — Atient has fatigue But not gaining *(2020)*
+
+Atient has fatigue. But not gaining weight. Body was warm. Investigation will show:
+
+- A. Low TSH with more t3 or t4
+- B. High TSH with normal t3 or t4
+- C. High TSH with euthyroid
+- D. Increased uptake of t3, but decrease t4
+
+<details><summary>Answer</summary>
+
+**A. Low TSH with more t3 or t4**
+
+</details>
+
+---
+
+---
+### Q664 — A patient arrived in ER following *(2020)*
+
+A patient arrived in ER following an RTA with hypotension, respiratory distress and subcutaneous emphysema with no entry of air on one side. What will be the
+
+- A. Needle decompression in 5th intercostal space in the
+- B. Continue PPV
+- C. Shift to ICU and incubate
+- D. Secure IV line and start fluid resuscitation after insertion of the
+
+<details><summary>Answer</summary>
+
+**A. Needle decompression in 5th intercostal space in the**
+
+</details>
+
+---
+
+---
+### Q665 — Patient with a history of carcinoma *(2020)*
+
+Patient with a history of carcinoma bladder presenting with dyspnoea with clinical signs of DVT and tachycardia. The risk for the patient to develop
+
+- A. High
+- B. Medium
+- C. Low
+- D. Cannot comment without d-dimer values
+
+<details><summary>Answer</summary>
+
+**B. Medium**
+
+</details>
+
+---
+
+---
+### Q666 — A young man met with a *(2020)*
+
+A young man met with a motorbike accident and had injuries to ileum and jejunum. Therefore the entire ileum and partial jejunum were resected. Which of
+
+- A. Vitamin B12 deficiency
+- B. Atrophic gastritis
+- C. Constipation
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Vitamin B12 deficiency**
+
+</details>
+
+---
+
+---
+### Q667 — Thoracoscore , what is not the *(2020)*
+
+Thoracoscore , what is not the component
+
+- A. ASA CLASSIFICATIONS
+- B. SURGERY PRIORITIES
+- C. Performance status
+- D. Expected complications post-surgery
+
+<details><summary>Answer</summary>
+
+**B. SURGERY PRIORITIES**
+
+</details>
+
+---
+
+---
+### Q668 — In a patient with parathyroid adenoma, *(2020)*
+
+In a patient with parathyroid adenoma, how do we confirm the removal of the correct gland after surgery?
+
+- A. 50% reduction in PTH after 10mins
+- B. 50% reduction in PTH after 5mins
+- C. 25% reduction in PTH after 10mins
+- D. 25% reduction in PTH after 5mins
+
+<details><summary>Answer</summary>
+
+**A. 50% reduction in PTH after 10mins**
+
+</details>
+
+---
+
+---
+### Q669 — A patient delivered at home with *(2020)*
+
+A patient delivered at home with a complete perineal tear came to the hospital after 2 weeks. What management will you prefer?
+
+- A. Immediate repair
+- B. Repair 3 weeks post-delivery
+- C. Repair 6 weeks post-delivery
+- D. Repair 3 months post-delivery
+
+<details><summary>Answer</summary>
+
+**D. Repair 3 months post-delivery**
+
+</details>
+
+---
+
+---
+### Q670 — MBBS student she was choking with *(2020)*
+
+MBBS student she was choking with dyspnea, chest tightness, anxiety and an impending sense of doom on examination all systemic conditions were
+
+- A. Panic disorder
+- B. Depression
+- C. Epilepsy
+- D. Asthma
+
+<details><summary>Answer</summary>
+
+**A. Panic disorder**
+
+</details>
+
+---
+
+---
+### Q671 — A patient with depression was given *(2020)*
+
+A patient with depression was given Imipramine for 2 weeks. Relatives noticed increased excitement, colourful clothes, increased talking. What is the
+
+- A. Antipsychotic with Imipramine continued
+- B. Discontinue Imipramine and start Valproate
+- C. Continue Imipramine alone
+- D. Manage with Valproate alone
+
+<details><summary>Answer</summary>
+
+**A. Antipsychotic with Imipramine continued**
+
+</details>
+
+---
+
+---
+### Q672 — A Patient falls down often with *(2020)*
+
+A Patient falls down often with behavioral change and enuresis. What is the condition associated with him?
+
+- A. Frontotemporal dementia
+- B. Normal pressure hydrocephalus
+- C. Parkinson's disease
+- D. Alzheimer's disease
+
+<details><summary>Answer</summary>
+
+**B. Normal pressure hydrocephalus**
+
+</details>
+
+---
+
+---
+### Q673 — A Patient with depressive symptoms for *(2020)*
+
+A Patient with depressive symptoms for 6 months and associated with auditory hallucinations for 2 weeks. What is the probable diagnosis of the
+
+- A. Psychotic depression
+- B. Schizoaffective disorder
+- C. Mania depressive illness
+- D. Schizophrenia
+
+<details><summary>Answer</summary>
+
+**A. Psychotic depression**
+
+</details>
+
+---
+
+---
+### Q674 — 25-year-old man presents for a routine *(2020)*
+
+25-year-old man presents for a routine physical examination. The patient is tall and on examination, he was found to have an early diastolic murmur. His
+
+- A. AD
+- B. AR
+- C. XLR
+- D. XLD
+
+<details><summary>Answer</summary>
+
+**A. AD**
+
+</details>
+
+---
+
+---
+### Q675 — The patient presents with, fever, dysphagia *(2020)*
+
+The patient presents with, fever, dysphagia. Image showing pushing tonsil. what is the diagnosis?
+
+- A. Parapharyngeal abscess
+- B. Retropharyngeal abscess
+- C. Peritonsillar abscess
+- D. Ludwig's angina
+
+<details><summary>Answer</summary>
+
+**C. Peritonsillar abscess**
+
+</details>
+
+---
+
+---
+### Q676 — This patient gives a history of *(2020)*
+
+This patient gives a history of toothache for one week. What is the diagnosis:
+
+- A. Acute parotitis
+- B. Angioneurotic edema
+- C. Ludwig's angina
+- D. Parapharyngeal abscess
+
+<details><summary>Answer</summary>
+
+**C. Ludwig's angina**
+
+</details>
+
+---
+
+---
+### Q677 — The movement is lost in *(2020)*
+
+The movement is lost in:
+
+- A. Third nerve palsy
+- B. Trochlear palsy
+- C. Sixth nerve palsy
+- D. Facial nerve palsy
+
+<details><summary>Answer</summary>
+
+**B. Trochlear palsy**
+
+</details>
+
+---
+
+---
+### Q678 — A lady on treatment for infertility *(2020)*
+
+A lady on treatment for infertility developed ascites, abdominal pain & dyspnea. USG of the patient was done shown
+
+- A. PCOS
+- B. OHSS
+- C. Theca lutein cyst
+- D. Mucinous cystadenomas
+
+<details><summary>Answer</summary>
+
+**B. OHSS**
+
+</details>
+
+---
+
+---
+### Q679 — The patient is presenting with pain *(2020)*
+
+The patient is presenting with pain around the base of the thumb, tendons involved -
+
+- A. APB & EBL
+- B. APL & EPB
+- C. APB & EPB
+- D. APL & EPL
+
+<details><summary>Answer</summary>
+
+**B. APL & EPB**
+
+</details>
+
+---
+
+---
+### Q680 — Steeple sign is seen in which *(2020)*
+
+Steeple sign is seen in which of the following condition?
+
+- A. Acute epiglottitis
+- B. Acute laryngotracheobronchitis
+- C. Laryngeal papillomatosis
+- D. Bilateral abductor paralysis
+
+<details><summary>Answer</summary>
+
+**B. Acute laryngotracheobronchitis**
+
+</details>
+
+---
+
+---
+
+## Year 2021
+
+### Q681 — Failed extubation post-thyroidectomy
+
+Post-thyroidectomy patient with breathing difficulty, failed extubation.
+
+- A. Superior laryngeal nerve injury
+- B. Unilateral RLN injury
+- C. Bilateral RLN injury
+- D. Hematoma
+
+<details><summary>Answer</summary>
+
+**C. Bilateral RLN injury** — Both cords adduct in median position → airway obstruction → stridor + failed extubation.
+</details>
+
+---
+### Q682 — Atrophic rhinitis
+
+Female with nasal obstruction, foul discharge, anosmia. Finding?
+
+- A. Roomy nasal cavity
+- B. Nasal polyps
+- C. Inferior turbinate hypertrophy
+- D. Foreign body
+
+<details><summary>Answer</summary>
+
+**A. Roomy nasal cavity** — Atrophic rhinitis (ozaena); paradoxical roominess + crusting + foul smell.
+</details>
+
+---
+
+---
+### Q683 — Tympanoplasty — indication
+
+Large central tympanic membrane perforation with visible middle ear structures — surgery?
+
+- A. Atticotomy
+- B. Modified radical mastoidectomy
+- C. Myringoplasty
+- D. Tympanoplasty
+
+<details><summary>Answer</summary>
+
+**D. Tympanoplasty** — Tympanoplasty repairs TM + reconstructs ossicular chain (if needed). Myringoplasty = TM repair only (no ossicular work). Large perforations with middle ear involvement = tympanoplasty.
+
+</details>
+
+---
+### Q684 — Tuning fork — left conductive loss
+
+Rinne negative left, positive right; Weber lateralized left; PTA shows conductive loss — diagnosis?
+
+- A. Right conductive hearing loss
+- B. Left conductive hearing loss
+- C. Right sensorineural hearing loss
+- D. Left sensorineural hearing loss
+
+<details><summary>Answer</summary>
+
+**B. Left conductive hearing loss** — Weber lateralizes to worse ear in conductive loss. Rinne negative = BC > AC = conductive loss on that side.
+
+</details>
+
+---
+### Q685 — Juvenile nasopharyngeal angiofibroma
+
+Adolescent male with profuse epistaxis, nasal obstruction, globular vascular nasopharyngeal mass?
+
+- A. Juvenile nasopharyngeal angiofibroma
+- B. Antrochoanal polyp
+- C. Rhinoscleroma
+- D. Rhinosporidiosis
+
+<details><summary>Answer</summary>
+
+**A. Juvenile nasopharyngeal angiofibroma** — Exclusive to adolescent males; fibrovascular tumor; CT shows Holman-Miller sign (anterior bowing of posterior antral wall). Profuse bleed on biopsy.
+
+</details>
+
+---
+### Q686 — Nasal fracture — reduction forceps
+
+Nasal bone fracture with displaced bones — reduction instrument?
+
+- A. Tilley's forceps
+- B. Luc's forceps
+- C. Walsham forceps
+- D. Bayonet forceps
+
+<details><summary>Answer</summary>
+
+**C. Walsham forceps** — Used to manipulate displaced nasal bones. Asch's forceps for septal fractures. Luc's forceps for nasal polyps.
+
+</details>
+
+---
+### Q687 — Foreign body in child — management
+
+3-year-old with peanut aspiration, unresponsive — management?
+
+- A. Abdominal thrusts (Heimlich)
+- B. Back slaps
+- C. Chest compressions
+- D. Endotracheal intubation
+
+<details><summary>Answer</summary>
+
+**C. Chest compressions** — In unresponsive child with foreign body airway obstruction → CPR protocol (chest compressions). Heimlich (abdominal thrusts) for conscious children >1 year. Back blows + chest thrusts for infants <1 year.
+
+</details>
+
+---
+
+---
+
+## Year 2022
+
+### Q688 — A post-COVID patient, who is a *(2022)*
+
+A post-COVID patient, who is a known diabetic, develops unilateral facial pain and loosening of teeth. Which investigation would you do to confirm the diagnosis of this patient?
+
+- A. MRI
+- B. Biopsy with histopathologic examination
+- C. Serum ferritin
+- D. HbA1c
+
+<details><summary>Answer</summary>
+
+**B. Biopsy with histopathologic examination**
+
+</details>
+
+---
+
+---
+### Q689 — A patient presents with the complaint *(2022)*
+
+A patient presents with the complaint of inability to close the eye, drooling of saliva, and deviation of the angle of the mouth. Which of the following nerves is most likely to be affected?
+
+- A. Facial nerve
+- B. Trigeminal nerve
+- C. Oculomotor nerve
+- D. Glossopharyngeal nerve
+
+<details><summary>Answer</summary>
+
+**A. Facial nerve**
+
+</details>
+
+---
+
+---
+### Q690 — An adult man in a restaurant *(2022)*
+
+An adult man in a restaurant suddenly begins choking on his food. He is conscious. The following procedure was performed. Identify the procedure.
+
+- A. Heimlich’s maneuver
+- B. Back slap
+- C. Chest thrust
+- D. Blind insertion of finger
+
+<details><summary>Answer</summary>
+
+**A. Heimlich’s maneuver**
+
+</details>
+
+---
+
+---
+### Q691 — A patient comes with a history *(2022)*
+
+A patient comes with a history of asthma and sinusitis. On looking into his medical records, you notice this has been attributed to Samter’s triad. Which drug should be avoided in this patient?
+
+- A. Cotrimoxazole
+- B. Co-amoxiclav
+- C. Aspirin
+- D. Chloramphenicol
+
+<details><summary>Answer</summary>
+
+**C. Aspirin**
+
+</details>
+
+---
+
+---
+### Q692 — A 70-year-old male patient presents with *(2022)*
+
+A 70-year-old male patient presents with decreased hearing in higher frequencies. It was noted that the basilar membrane was affected. Which of the following structures lie near the affected structure?
+
+- A. Modiolus
+- B. Stria vascularis
+- C. Oval window
+- D. Helicotrema
+
+<details><summary>Answer</summary>
+
+**C. Oval window**
+
+</details>
+
+---
+
+---
+
+## Year 2023
+
+### Q693 — Air-bone gap estimation
+
+A female with hearing loss; Rinne negative at 256–512 Hz, positive at 1024 Hz. Expected air–bone gap?
+
+- A. 30–45 dB
+- B. 15–30 dB
+- C. 45–60 dB
+- D. > 60 dB
+
+<details><summary>Answer</summary>
+
+**A. 30–45 dB** — Rinne negative at 512 Hz but positive at 1024 Hz → ABG ≈ 30–45 dB.
+</details>
+
+---
+### Q694 — Referred otalgia from tonsillitis
+
+A 10-year-old with throat pain, fever, ear pain; recurrent tonsillitis. Which nerve carries the referred ear pain?
+
+- A. Tympanic branch of glossopharyngeal (Jacobson's)
+- B. Greater auricular nerve
+- C. Auriculotemporal nerve
+- D. Auricular branch of vagus (Arnold's)
+
+<details><summary>Answer</summary>
+
+**A. Tympanic branch of glossopharyngeal (Jacobson's nerve)** — IX supplies tonsillar fossa and middle ear → referred otalgia.
+</details>
+
+---
+
+---
+
+## Year 2024
+
+### Q695 — Singer with low-pitched bowed cords
+
+A singer with difficulty raising pitch, depressed and bowing vocal cords. Involved muscle?
+
+- A. Cricothyroid
+- B. Interarytenoid
+- C. Posterior cricoarytenoid
+- D. Lateral arytenoid
+
+<details><summary>Answer</summary>
+
+**A. Cricothyroid** — Sole tensor of vocal cords (supplied by external laryngeal nerve). Paralysis → loss of high pitch / bowing.
+</details>
+
+---
+### Q696 — Head impulse in vestibular neuronitis
+
+A 45-year-old woman with right vestibular neuronitis. Expected head impulse test findings?
+
+- A. Head turned left, eyes move left with nystagmus
+- B. Head turned left, eyes move right with nystagmus
+- C. Head turned right, eyes move left with nystagmus
+- D. Head turned right, eyes move right with nystagmus
+
+<details><summary>Answer</summary>
+
+**C. Head turned right, eyes move left with nystagmus** — Toward affected side, VOR fails → corrective catch-up saccade.
+</details>
+
+---
+
+---
+### Q697 — Identify the given drain Surgery *(2024)*
+
+Identify the given drain: Surgery
+
+- A. Underwater seal drain
+- B. Nelaton drain
+- C. Closed suction drain
+- D. Penrose drain
+
+<details><summary>Answer</summary>
+
+**C. Closed suction drain**
+
+</details>
+
+---
+
+---
+### Q698 — Clinical Question A 36-year-old male patient *(2024)*
+
+A 36-year-old male patient presents with a history of ear discharge for 2 weeks. On examination, a mild perforation is observed in the antero-inferior segment of the tympanic membrane. What is the expected result from Rinne’s test?
+
+- A. Rinne’s positive
+- B. Rinne’s negative
+- C. Rinne’s equivocal
+- D. Cannot be determined
+
+<details><summary>Answer</summary>
+
+**B. Rinne’s negative**
+
+</details>
+
+---
+
+---
+### Q699 — Considering the findings on the given *(2024)*
+
+Considering the findings on the given chest X-ray, which procedure is likely to be the most technically difficult to carry out?
+
+- A. Tracheostomy
+- B. Laryngeal Mask Airway (LMA) insertion
+- C. Ryle’s Tube (RT) insertion
+- D. Indirect laryngoscopy
+
+<details><summary>Answer</summary>
+
+**A. Tracheostomy**
+
+</details>
+
+---
+
+---
+
+## Year 2025
+
+### Q700 — Nasal bone fracture reduction instrument
+
+A patient with nasal bone fracture requires closed reduction. Which instrument is used?
+
+- A. Tilley's probe
+- B. Luc's forceps
+- C. Denis Browne probe
+- D. Walsham's forceps
+
+<details><summary>Answer</summary>
+
+**D. Walsham's forceps** — Used for nasal bone reduction (one blade inside, one outside). Asch forceps is used for septal reduction.
+</details>
+
+---
+
+---
+### Q701 — Posterior epistaxis artery ligation
+
+An elderly diabetic hypertensive with severe posterior epistaxis not controlled by packing. Which artery should be ligated?
+
+- A. Sphenopalatine artery
+- B. Anterior ethmoidal artery
+- C. Posterior ethmoidal artery
+- D. Greater palatine artery
+
+<details><summary>Answer</summary>
+
+**A. Sphenopalatine artery** — Primary vessel for posterior epistaxis. Endoscopic sphenopalatine artery ligation is now the gold standard.
+</details>
+
+---
+
+---
+### Q702 — Recurrent profuse nasal bleeding in adolescent male
+
+16-year-old male with recurrent profuse right-sided nasal bleeding; endoscopy shows globular mass; CT shows bowing of posterior maxillary sinus wall. Diagnosis?
+
+- A. Juvenile nasopharyngeal angiofibroma (JNA)
+- B. Antrochoanal polyp
+- C. Rhinosporidiosis
+- D. Rhinoscleroma
+
+<details><summary>Answer</summary>
+
+**A. Juvenile nasopharyngeal angiofibroma** — Highly vascular, benign but locally aggressive tumour in adolescent males. Holman-Miller sign (bowing of posterior maxillary wall) is pathognomonic.
+</details>
+
+---
+
+---
+### Q703 — Laryngeal structure identification (image)
+
+The marked structure in the laryngoscopic image is:
+
+- A. Thyroid cartilage
+- B. Pyriform sinus
+- C. Epiglottis
+- D. Vallecula
+
+<details><summary>Answer</summary>
+
+**B. Pyriform sinus** — The pyriform fossa (sinus) is the most common site of hypopharyngeal carcinoma. Lies lateral to the laryngeal inlet.
+</details>
+
+---
+
+---
+### Q704 — Rinne and Weber interpretation
+
+A 27-year-old male: Rinne negative left, positive right; Weber lateralises to left. Type and side?
+
+- A. Left sensorineural hearing loss
+- B. Right sensorineural hearing loss
+- C. Left conductive hearing loss
+- D. Right conductive hearing loss
+
+<details><summary>Answer</summary>
+
+**C. Left conductive hearing loss** — Rinne negative (BC > AC) on left = CHL left. Weber lateralises to affected ear in CHL (to left). Consistent with tubotympanic CSOM/central perforation.
+</details>
+
+---
+
+---
+### Q705 — Advanced laryngeal SCC surgery
+
+A 75-year-old smoker with advanced T4 laryngeal SCC undergoes surgery. Most appropriate procedure?
+
+- A. Total laryngectomy
+- B. Partial laryngectomy
+- C. Percutaneous tracheostomy
+- D. Standard tracheostomy
+
+<details><summary>Answer</summary>
+
+**A. Total laryngectomy** — Advanced (T3/T4) laryngeal SCC: total laryngectomy ± neck dissection ± radiotherapy. Partial laryngectomy is for early-stage tumours.
+</details>
+
+---
+
+---
+### Q706 — Complete absence of tympanic membrane
+
+A 20-year-old with recurrent ear discharge has complete absence of the tympanic membrane on otoscopy. Best treatment?
+
+- A. Myringoplasty
+- B. Radical mastoidectomy
+- C. Ossiculoplasty
+- D. Tympanoplasty
+
+<details><summary>Answer</summary>
+
+**D. Tympanoplasty** — Complete TM absence requires tympanoplasty (Type I = myringoplasty is only for perforations, not total absence). When ossicles also need repair, higher types apply.
+</details>
+
+---
+
+---
+### Q707 — Pure tone audiogram interpretation (image)
+
+A 27-year-old male with 2 months of reduced left-ear hearing. PTA audiogram shows air-bone gap on the left. Most likely?
+
+- A. Left ear SNHL
+- B. Left ear CHL
+- C. Right ear mixed hearing loss
+- D. Normal hearing
+
+<details><summary>Answer</summary>
+
+**B. Left ear CHL** — Air-bone gap present on left indicates conductive hearing loss on the left side.
+</details>
+
+---
+
+---

@@ -25,7 +25,6 @@ All of the following are branches of the external carotid artery **except**:
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q2 — Cranial nerve palsy localisation (III, IV, VI + V1)
 
 Paralysis of 3rd, 4th, 6th nerves with involvement of the ophthalmic division of the 5th nerve localises the lesion to:
@@ -42,7 +41,6 @@ Paralysis of 3rd, 4th, 6th nerves with involvement of the ophthalmic division of
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q3 — Carpal tunnel contents: NOT included
 
 The carpal tunnel contains all of the following **except**:
@@ -59,7 +57,6 @@ The carpal tunnel contains all of the following **except**:
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q4 — Femoral ring boundaries: NOT a boundary
 
 The femoral ring is bounded by the following structures **except**:
@@ -76,7 +73,6 @@ The femoral ring is bounded by the following structures **except**:
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q5 — Vas deferens: false statement
 
 All of the following statements regarding vas deferens are true **except**:
@@ -93,7 +89,6 @@ All of the following statements regarding vas deferens are true **except**:
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q6 — Chorda tympani nerve: false statement
 
 The following statements concerning the chorda tympani nerve are true **except** that it:
@@ -110,7 +105,6 @@ The following statements concerning the chorda tympani nerve are true **except**
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q7 — Sacrococcygeal joint type
 
 The type of joint between the sacrum and the coccyx is a:
@@ -127,7 +121,6 @@ The type of joint between the sacrum and the coccyx is a:
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q8 — Prostatic urethra: false feature
 
 The prostatic urethra is characterised by all of the following **except** that it:
@@ -144,7 +137,6 @@ The prostatic urethra is characterised by all of the following **except** that i
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q9 — Uterine lymphatic drainage: NOT a destination
 
 The following group of lymph nodes receives lymphatics from the uterus **except**:
@@ -161,7 +153,6 @@ The following group of lymph nodes receives lymphatics from the uterus **except*
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q10 — Epiphyseal plate growth processes: NOT a feature
 
 All of the following physiological processes occur during growth at the epiphyseal plate **except**:
@@ -178,7 +169,6 @@ All of the following physiological processes occur during growth at the epiphyse
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q11 — Benign prostatic hypertrophy: lobe enlarged
 
 Benign prostatic hypertrophy results in obstruction of the urinary tract. The condition is associated with enlargement of the:
@@ -195,7 +185,6 @@ Benign prostatic hypertrophy results in obstruction of the urinary tract. The co
 </details>
 
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
-
 ### Q12 — Per rectal examination: NOT palpable anteriorly
 
 In an adult male, on per rectal examination, the following structures can be felt anteriorly **except**:
@@ -214,8 +203,6 @@ In an adult male, on per rectal examination, the following structures can be fel
 <!-- SOURCE: medicallegends.blogspot.com AIPGMEE 2015 Anatomy | OPTIONS_GENERATED: false -->
 
 ---
-
-
 ### Q13 — Upper limb deformity in Erbs palsy
 
 Upper limb deformity in Erb's palsy?
@@ -232,7 +219,6 @@ Upper limb deformity in Erb's palsy?
 </details>
 
 ---
-
 ### Q14 — Nerve roots involved in Erbs palsy
 
 Nerve roots involved in Erb's palsy:
@@ -249,7 +235,6 @@ Nerve roots involved in Erb's palsy:
 </details>
 
 ---
-
 ### Q15 — Root value of thoracodorsal nerve
 
 Root value of thoracodorsal nerve ?
@@ -266,7 +251,6 @@ Root value of thoracodorsal nerve ?
 </details>
 
 ---
-
 ### Q16 — Teres minor is supplied by
 
 Teres minor is supplied by
@@ -283,7 +267,6 @@ Teres minor is supplied by
 </details>
 
 ---
-
 ### Q17 — Limb shortening
 
 Limb shortening
@@ -300,7 +283,6 @@ Limb shortening
 </details>
 
 ---
-
 ### Q18 — Insertion of levator scapulae is
 
 Insertion of levator scapulae is ?
@@ -317,7 +299,6 @@ Insertion of levator scapulae is ?
 </details>
 
 ---
-
 ### Q19 — Number of lobes in breast
 
 Number of lobes in breast
@@ -334,7 +315,6 @@ Number of lobes in breast
 </details>
 
 ---
-
 ### Q20 — Which of the following arises from
 
 Which of the following arises from infraglenoid tubercle -
@@ -351,7 +331,6 @@ Which of the following arises from infraglenoid tubercle -
 </details>
 
 ---
-
 ### Q21 — Not attached on medial border of
 
 Not attached on medial border of scapula ?
@@ -368,7 +347,6 @@ Not attached on medial border of scapula ?
 </details>
 
 ---
-
 ### Q22 — Medial boundry of Cubital fossa
 
 Medial boundry of Cubital fossa ?
@@ -385,7 +363,6 @@ Medial boundry of Cubital fossa ?
 </details>
 
 ---
-
 ### Q23 — True about lumbricals is
 
 True about lumbricals is
@@ -402,7 +379,6 @@ True about lumbricals is
 </details>
 
 ---
-
 ### Q24 — Lateral boundary of cubital fossa is
 
 Lateral boundary of cubital fossa is formed by:
@@ -419,7 +395,6 @@ Lateral boundary of cubital fossa is formed by:
 </details>
 
 ---
-
 ### Q25 — Muscle of Arm with additional supinator
 
 Muscle of Arm with additional supinator action?
@@ -436,7 +411,6 @@ Muscle of Arm with additional supinator action?
 </details>
 
 ---
-
 ### Q26 — The nerve supply of nail bed
 
 The nerve supply of nail bed of index finger is ?
@@ -453,7 +427,6 @@ The nerve supply of nail bed of index finger is ?
 </details>
 
 ---
-
 ### Q27 — Which leaves the pelvis
 
 Which leaves the pelvis ?
@@ -470,7 +443,6 @@ Which leaves the pelvis ?
 </details>
 
 ---
-
 ### Q28 — Abduction and adduction of foot occurs
 
 Abduction and adduction of foot occurs at which joints
@@ -487,7 +459,6 @@ Abduction and adduction of foot occurs at which joints
 </details>
 
 ---
-
 ### Q29 — All are true about femoral triangle,
 
 All are true about femoral triangle, EXCEPT?
@@ -504,7 +475,6 @@ All are true about femoral triangle, EXCEPT?
 </details>
 
 ---
-
 ### Q30 — Content of femoral canal
 
 Content of femoral canal
@@ -521,7 +491,6 @@ Content of femoral canal
 </details>
 
 ---
-
 ### Q31 — A patient presents with defective adduction
 
 A patient presents with defective adduction of the hip joint and pains in the hip and knee joint. Which nerve is involved
@@ -538,7 +507,6 @@ A patient presents with defective adduction of the hip joint and pains in the hi
 </details>
 
 ---
-
 ### Q32 — Structure which lies outside the femoral
 
 Structure which lies outside the femoral sheath
@@ -555,7 +523,6 @@ Structure which lies outside the femoral sheath
 </details>
 
 ---
-
 ### Q33 — Which structure(s) passes behind the inguinal
 
 Which structure(s) passes behind the inguinal ligament:
@@ -572,7 +539,6 @@ Which structure(s) passes behind the inguinal ligament:
 </details>
 
 ---
-
 ### Q34 — Lateral border of ischeorectal fossa is
 
 Lateral border of ischeorectal fossa is formed by?
@@ -589,7 +555,6 @@ Lateral border of ischeorectal fossa is formed by?
 </details>
 
 ---
-
 ### Q35 — Arterial branches which supply the head
 
 Arterial branches which supply the head and neck of the femur is/are:
@@ -606,7 +571,6 @@ Arterial branches which supply the head and neck of the femur is/are:
 </details>
 
 ---
-
 ### Q36 — Femoral nerve supplies all except
 
 Femoral nerve supplies all except ?
@@ -623,7 +587,6 @@ Femoral nerve supplies all except ?
 </details>
 
 ---
-
 ### Q37 — Superior gluteal nerve does not supply
 
 Superior gluteal nerve does not supply ?
@@ -640,7 +603,6 @@ Superior gluteal nerve does not supply ?
 </details>
 
 ---
-
 ### Q38 — What is true about adductors of
 
 What is true about adductors of thigh –
@@ -657,7 +619,6 @@ What is true about adductors of thigh –
 </details>
 
 ---
-
 ### Q39 — A nerve injured in radical neck
 
 A nerve injured in radical neck dissection leads to loss of sensation in medial side of the arm, nerve injured is?
@@ -674,7 +635,6 @@ A nerve injured in radical neck dissection leads to loss of sensation in medial 
 </details>
 
 ---
-
 ### Q40 — Secondary ossification center for lower end
 
 Secondary ossification center for lower end of femur?
@@ -691,7 +651,6 @@ Secondary ossification center for lower end of femur?
 </details>
 
 ---
-
 ### Q41 — Lower limit of superior mediastinum is
 
 Lower limit of superior mediastinum is at which level -
@@ -708,7 +667,6 @@ Lower limit of superior mediastinum is at which level -
 </details>
 
 ---
-
 ### Q42 — Azygous vein drains into
 
 Azygous vein drains into:
@@ -725,7 +683,6 @@ Azygous vein drains into:
 </details>
 
 ---
-
 ### Q43 — Arch of aorta begins and ends
 
 Arch of aorta begins and ends at which level:
@@ -742,7 +699,6 @@ Arch of aorta begins and ends at which level:
 </details>
 
 ---
-
 ### Q44 — Which among the following is NOT
 
 Which among the following is NOT a branch of Arch of Aorta?
@@ -759,7 +715,6 @@ Which among the following is NOT a branch of Arch of Aorta?
 </details>
 
 ---
-
 ### Q45 — Intercostal nerve is a branch of
 
 Intercostal nerve is a branch of ?
@@ -776,7 +731,6 @@ Intercostal nerve is a branch of ?
 </details>
 
 ---
-
 ### Q46 — Distance of cricopharynx from incisor teeth
 
 Distance of cricopharynx from incisor teeth
@@ -793,7 +747,6 @@ Distance of cricopharynx from incisor teeth
 </details>
 
 ---
-
 ### Q47 — Anterior part of interventricular septum is
 
 Anterior part of interventricular septum is supplied by -
@@ -810,7 +763,6 @@ Anterior part of interventricular septum is supplied by -
 </details>
 
 ---
-
 ### Q48 — All veins open in sinus venarum
 
 All veins open in sinus venarum except -
@@ -827,7 +779,6 @@ All veins open in sinus venarum except -
 </details>
 
 ---
-
 ### Q49 — True about atrioventricular groove are all
 
 True about atrioventricular groove are all except ?
@@ -844,7 +795,6 @@ True about atrioventricular groove are all except ?
 </details>
 
 ---
-
 ### Q50 — Which vein is found at the
 
 Which vein is found at the apex of the heart ?
@@ -861,7 +811,6 @@ Which vein is found at the apex of the heart ?
 </details>
 
 ---
-
 ### Q51 — Which of the following does not
 
 Which of the following does not directly drain into right atrium ?
@@ -878,7 +827,6 @@ Which of the following does not directly drain into right atrium ?
 </details>
 
 ---
-
 ### Q52 — Tributary of coronary sinus
 
 Tributary of coronary sinus ?
@@ -895,7 +843,6 @@ Tributary of coronary sinus ?
 </details>
 
 ---
-
 ### Q53 — Which are segments of upper lobe
 
 Which are segments of upper lobe of right lung ?
@@ -912,7 +859,6 @@ Which are segments of upper lobe of right lung ?
 </details>
 
 ---
-
 ### Q54 — What is the uppermost structure in
 
 What is the uppermost structure in left lung hilum?
@@ -929,7 +875,6 @@ What is the uppermost structure in left lung hilum?
 </details>
 
 ---
-
 ### Q55 — Base of the heart is formed
 
 Base of the heart is formed by ?
@@ -946,7 +891,6 @@ Base of the heart is formed by ?
 </details>
 
 ---
-
 ### Q56 — Right border of heart is formed
 
 Right border of heart is formed by ?
@@ -963,7 +907,6 @@ Right border of heart is formed by ?
 </details>
 
 ---
-
 ### Q57 — Sensory supply to tongue is by
 
 Sensory supply to tongue is by all, EXCEPT?
@@ -980,7 +923,6 @@ Sensory supply to tongue is by all, EXCEPT?
 </details>
 
 ---
-
 ### Q58 — Internal anal sphincter is a apart
 
 Internal anal sphincter is a apart of:
@@ -997,7 +939,6 @@ Internal anal sphincter is a apart of:
 </details>
 
 ---
-
 ### Q59 — Shortest part of male urethra is
 
 Shortest part of male urethra is :
@@ -1014,7 +955,6 @@ Shortest part of male urethra is :
 </details>
 
 ---
-
 ### Q60 — Posterior relation of neck of pancreas
 
 Posterior relation of neck of pancreas ?
@@ -1031,7 +971,6 @@ Posterior relation of neck of pancreas ?
 </details>
 
 ---
-
 ### Q61 — The right suprarenal vein drains into
 
 The right suprarenal vein drains into the
@@ -1048,7 +987,6 @@ The right suprarenal vein drains into the
 </details>
 
 ---
-
 ### Q62 — Suprarenal gland gets its blood supply
 
 Suprarenal gland gets its blood supply from all of the following arteries except:
@@ -1065,7 +1003,6 @@ Suprarenal gland gets its blood supply from all of the following arteries except
 </details>
 
 ---
-
 ### Q63 — Inferior artery pancreaticoduodenal artery is a
 
 Inferior artery? pancreaticoduodenal artery is a branch of which of the following
@@ -1082,7 +1019,6 @@ Inferior artery? pancreaticoduodenal artery is a branch of which of the followin
 </details>
 
 ---
-
 ### Q64 — All of the following are branches
 
 All of the following are branches of splenic artery, except?
@@ -1099,7 +1035,6 @@ All of the following are branches of splenic artery, except?
 </details>
 
 ---
-
 ### Q65 — Esophageal varices occur in which portion
 
 Esophageal varices occur in which portion of esophagus?
@@ -1116,7 +1051,6 @@ Esophageal varices occur in which portion of esophagus?
 </details>
 
 ---
-
 ### Q66 — External oblique forms all except
 
 External oblique forms all except?
@@ -1133,7 +1067,6 @@ External oblique forms all except?
 </details>
 
 ---
-
 ### Q67 — Inferior epigastric artery forms the boundry
 
 Inferior epigastric artery forms the boundry of ?
@@ -1150,7 +1083,6 @@ Inferior epigastric artery forms the boundry of ?
 </details>
 
 ---
-
 ### Q68 — The boundaries of the interconnection between
 
 The boundaries of the interconnection between greater sac and lesser sac of peritoneum known as 'Foramen of Winslow' are all, EXCEPT:
@@ -1167,7 +1099,6 @@ The boundaries of the interconnection between greater sac and lesser sac of peri
 </details>
 
 ---
-
 ### Q69 — Anorectal angle is formed due to
 
 Anorectal angle is formed due to action of -
@@ -1184,7 +1115,6 @@ Anorectal angle is formed due to action of -
 </details>
 
 ---
-
 ### Q70 — Prostate analogue in female is -
 
 Prostate analogue in female is -
@@ -1201,7 +1131,6 @@ Prostate analogue in female is -
 </details>
 
 ---
-
 ### Q71 — All are true about 1st part
 
 All are true about 1st part of duodenum, except ?
@@ -1218,7 +1147,6 @@ All are true about 1st part of duodenum, except ?
 </details>
 
 ---
-
 ### Q72 — Ventral pancreatic duct give rise to
 
 Ventral pancreatic duct give rise to ?
@@ -1235,7 +1163,6 @@ Ventral pancreatic duct give rise to ?
 </details>
 
 ---
-
 ### Q73 — The muscles attached to perineal body
 
 The muscles attached to perineal body are A/E
@@ -1252,7 +1179,6 @@ The muscles attached to perineal body are A/E
 </details>
 
 ---
-
 ### Q74 — Anterior relation to upper part of
 
 Anterior relation to upper part of rectum in male is-
@@ -1269,7 +1195,6 @@ Anterior relation to upper part of rectum in male is-
 </details>
 
 ---
-
 ### Q75 — FALSE for seminal vesicles
 
 FALSE for seminal vesicles:
@@ -1286,7 +1211,6 @@ FALSE for seminal vesicles:
 </details>
 
 ---
-
 ### Q76 — Sensory nerve supply of gall bladder
 
 Sensory nerve supply of gall bladder is through -
@@ -1303,7 +1227,6 @@ Sensory nerve supply of gall bladder is through -
 </details>
 
 ---
-
 ### Q77 — Uvula vesicae seen in bladder is
 
 Uvula vesicae seen in bladder is formed from the following structure ?
@@ -1320,7 +1243,6 @@ Uvula vesicae seen in bladder is formed from the following structure ?
 </details>
 
 ---
-
 ### Q78 — Floor of Petit triangle is formed
 
 Floor of Petit triangle is formed by?
@@ -1337,7 +1259,6 @@ Floor of Petit triangle is formed by?
 </details>
 
 ---
-
 ### Q79 — In which of the following vessels
 
 In which of the following vessels transverse mesocolon seen ?
@@ -1354,7 +1275,6 @@ In which of the following vessels transverse mesocolon seen ?
 </details>
 
 ---
-
 ### Q80 — Nerve suply of cremastric muscle
 
 Nerve suply of cremastric muscle ?
@@ -1371,7 +1291,6 @@ Nerve suply of cremastric muscle ?
 </details>
 
 ---
-
 ### Q81 — True about the anatomy of great
 
 True about the anatomy of great saphenous vein:
@@ -1388,7 +1307,6 @@ True about the anatomy of great saphenous vein:
 </details>
 
 ---
-
 ### Q82 — Posterior relation of right kidney are
 
 Posterior relation of right kidney are all except -
@@ -1405,7 +1323,6 @@ Posterior relation of right kidney are all except -
 </details>
 
 ---
-
 ### Q83 — Not True about blood supply of
 
 Not True about blood supply of kidney -
@@ -1422,7 +1339,6 @@ Not True about blood supply of kidney -
 </details>
 
 ---
-
 ### Q84 — All pass through deep inguinal ring,
 
 All pass through deep inguinal ring, EXCEPT?
@@ -1439,7 +1355,6 @@ All pass through deep inguinal ring, EXCEPT?
 </details>
 
 ---
-
 ### Q85 — Superficial inguinal ring is a defect
 
 Superficial inguinal ring is a defect in the:
@@ -1456,7 +1371,6 @@ Superficial inguinal ring is a defect in the:
 </details>
 
 ---
-
 ### Q86 — Superficial perineal space contains
 
 Superficial perineal space contains ?
@@ -1473,7 +1387,6 @@ Superficial perineal space contains ?
 </details>
 
 ---
-
 ### Q87 — 3d part of duodenum is not
 
 3'd part of duodenum is not related -
@@ -1490,7 +1403,6 @@ Superficial perineal space contains ?
 </details>
 
 ---
-
 ### Q88 — Correct sequence of uterine blood flow
 
 Correct sequence of uterine blood flow -
@@ -1507,7 +1419,6 @@ Correct sequence of uterine blood flow -
 </details>
 
 ---
-
 ### Q89 — Nerve supply of stapedius is
 
 Nerve supply of stapedius is:
@@ -1524,7 +1435,6 @@ Nerve supply of stapedius is:
 </details>
 
 ---
-
 ### Q90 — Stapedius pulls stapes in which direction
 
 Stapedius pulls stapes in which direction -
@@ -1541,7 +1451,6 @@ Stapedius pulls stapes in which direction -
 </details>
 
 ---
-
 ### Q91 — Sternocleidomastoid muscle is examined by
 
 Sternocleidomastoid muscle is examined by
@@ -1558,7 +1467,6 @@ Sternocleidomastoid muscle is examined by
 </details>
 
 ---
-
 ### Q92 — The nerve which has the longest
 
 The nerve which has the longest intracranial course is:
@@ -1575,7 +1483,6 @@ The nerve which has the longest intracranial course is:
 </details>
 
 ---
-
 ### Q93 — Largest cranial nerve is
 
 Largest cranial nerve is:
@@ -1592,7 +1499,6 @@ Largest cranial nerve is:
 </details>
 
 ---
-
 ### Q94 — Olfactory Great cerebral vein of Galen
 
 Olfactory Great cerebral vein of Galen drains into -
@@ -1609,7 +1515,6 @@ Olfactory Great cerebral vein of Galen drains into -
 </details>
 
 ---
-
 ### Q95 — Superficial middle cerebral vein drains into
 
 Superficial middle cerebral vein drains into -
@@ -1626,7 +1531,6 @@ Superficial middle cerebral vein drains into -
 </details>
 
 ---
-
 ### Q96 — Which of the following structures seen
 
 Which of the following structures seen in the cavernous sinus?
@@ -1643,7 +1547,6 @@ Which of the following structures seen in the cavernous sinus?
 </details>
 
 ---
-
 ### Q97 — First bone to start ossifying -
 
 First bone to start ossifying -
@@ -1660,7 +1563,6 @@ First bone to start ossifying -
 </details>
 
 ---
-
 ### Q98 — What structure passes through the quandrangular
 
 What structure passes through the quandrangular space ?
@@ -1677,7 +1579,6 @@ What structure passes through the quandrangular space ?
 </details>
 
 ---
-
 ### Q99 — Inner plexus in GIT is
 
 Inner plexus in GIT is ?
@@ -1694,7 +1595,6 @@ Inner plexus in GIT is ?
 </details>
 
 ---
-
 ### Q100 — Relationship between insulin and glucose concentra
 
 Relationship between insulin and glucose concentration?
@@ -1711,7 +1611,6 @@ Relationship between insulin and glucose concentration?
 </details>
 
 ---
-
 ### Q101 — Drugs which are used in acute
 
 Drugs which are used in acute asthma include?
@@ -1728,7 +1627,6 @@ Drugs which are used in acute asthma include?
 </details>
 
 ---
-
 ### Q102 — Just before the birth which epiphysis
 
 Just before the birth which epiphysis appears?
@@ -1745,7 +1643,6 @@ Just before the birth which epiphysis appears?
 </details>
 
 ---
-
 ### Q103 — Granuloma inguinale is caused by
 
 Granuloma inguinale is caused by:
@@ -1762,7 +1659,6 @@ Granuloma inguinale is caused by:
 </details>
 
 ---
-
 ### Q104 — Sixth cranial nerve palsy causes of
 
 Sixth cranial nerve palsy causes of left eye causes?
@@ -1779,7 +1675,6 @@ Sixth cranial nerve palsy causes of left eye causes?
 </details>
 
 ---
-
 ### Q105 — Which of the following is the
 
 Which of the following is the common cause of respiratory failure type 2 ?
@@ -1796,7 +1691,6 @@ Which of the following is the common cause of respiratory failure type 2 ?
 </details>
 
 ---
-
 ### Q106 — Gastric carcinoma is associated with all
 
 Gastric carcinoma is associated with all EXCEPT ?
@@ -1813,7 +1707,6 @@ Gastric carcinoma is associated with all EXCEPT ?
 </details>
 
 ---
-
 ### Q107 — Hellers myotomy is done for September
 
 Heller's myotomy is done for: September 2007, 2009, 2010
@@ -1830,7 +1723,6 @@ Heller's myotomy is done for: September 2007, 2009, 2010
 </details>
 
 ---
-
 ### Q108 — year old male is diagnosed with
 
 A patient (age not captured in source) who is a year old male is diagnosed with carcinoma penis. The surgeon must look out for which lymphnodes
@@ -1847,7 +1739,6 @@ A patient (age not captured in source) who is a year old male is diagnosed with 
 </details>
 
 ---
-
 ### Q109 — year old male presenting with penile
 
 A patient (age not captured in source) who is a year old male presenting with penile cancer extending upto the glans penis is treated with
@@ -1864,7 +1755,6 @@ A patient (age not captured in source) who is a year old male presenting with pe
 </details>
 
 ---
-
 ### Q110 — Most common site for bone marrow
 
 Most common site for bone marrow aspiration in neonates is -
@@ -1881,7 +1771,6 @@ Most common site for bone marrow aspiration in neonates is -
 </details>
 
 ---
-
 ### Q111 — Puff of smoke appearance on cerebral
 
 Puff of smoke appearance on cerebral angiography is seen in:
@@ -1898,7 +1787,6 @@ Puff of smoke appearance on cerebral angiography is seen in:
 </details>
 
 ---
-
 ### Q112 — K nail can be used for
 
 K nail can be used for all of the following fractures excePt -
@@ -1915,7 +1803,6 @@ K nail can be used for all of the following fractures excePt -
 </details>
 
 ---
-
 ### Q113 — Bone transport can be used in
 
 Bone transport can be used in the management of -
@@ -1932,7 +1819,6 @@ Bone transport can be used in the management of -
 </details>
 
 ---
-
 ### Q114 — Aeroplane splint is used in
 
 Aeroplane splint is used in ?
@@ -1949,7 +1835,6 @@ Aeroplane splint is used in ?
 </details>
 
 ---
-
 ### Q115 — Salter Harris classification is used for
 
 Salter Harris classification is used for -
@@ -1966,7 +1851,6 @@ Salter Harris classification is used for -
 </details>
 
 ---
-
 ### Q116 — Which of the following castssplints is
 
 Which of the following casts/splints is used for fracture shaft humerus ?
@@ -1983,7 +1867,6 @@ Which of the following casts/splints is used for fracture shaft humerus ?
 </details>
 
 ---
-
 ### Q117 — Lift off test is done to
 
 Lift off test is done to assess the function of:
@@ -2000,7 +1883,6 @@ Lift off test is done to assess the function of:
 </details>
 
 ---
-
 ### Q118 — All are true about menisci of
 
 All are true about menisci of knee joint except
@@ -2017,7 +1899,6 @@ All are true about menisci of knee joint except
 </details>
 
 ---
-
 ### Q119 — Three point bony relationship of the
 
 Three point bony relationship of the elbow is disturbed in -
@@ -2034,7 +1915,6 @@ Three point bony relationship of the elbow is disturbed in -
 </details>
 
 ---
-
 ### Q120 — Cubitus Valgus Deformity is commonly seen
 
 Cubitus Valgus Deformity is commonly seen in which of the following conditions -
@@ -2051,7 +1931,6 @@ Cubitus Valgus Deformity is commonly seen in which of the following conditions -
 </details>
 
 ---
-
 ### Q121 — AVN following transcervical neck femur fractures
 
 AVN following transcervical neck femur fractures occurs due to damage to which of the following blood vessels ?
@@ -2068,7 +1947,6 @@ AVN following transcervical neck femur fractures occurs due to damage to which o
 </details>
 
 ---
-
 ### Q122 — Lockingoftheknee involves -
 
 Lockingoftheknee involves -
@@ -2085,7 +1963,6 @@ Lockingoftheknee involves -
 </details>
 
 ---
-
 ### Q123 — Foot drop occurs due to the
 
 Foot drop occurs due to the involvement of: September 2006, March 2013 (b, f g, h)
@@ -2102,7 +1979,6 @@ Foot drop occurs due to the involvement of: September 2006, March 2013 (b, f g, 
 </details>
 
 ---
-
 ### Q124 — Fracture neck of femur in 80
 
 Fracture neck of femur in 80 year old male sustained 1 weekback The treatment of choice is -
@@ -2119,7 +1995,6 @@ Fracture neck of femur in 80 year old male sustained 1 weekback The treatment of
 </details>
 
 ---
-
 ### Q125 — Which of the following fractures of
 
 Which of the following fractures of the neck of femur are associated with maximal compromise in blood supply ?
@@ -2136,7 +2011,6 @@ Which of the following fractures of the neck of femur are associated with maxima
 </details>
 
 ---
-
 ### Q126 — AVN is seen in which type
 
 AVN is seen in which type of # of femur:
@@ -2153,7 +2027,6 @@ AVN is seen in which type of # of femur:
 </details>
 
 ---
-
 ### Q127 — Tinels sign is seen in -
 
 Tinels sign is seen in -
@@ -2170,7 +2043,6 @@ Tinels sign is seen in -
 </details>
 
 ---
-
 ### Q128 — Which of the following is used
 
 Which of the following is used as a substitute for wrist extensors in radial nerve PalsY?
@@ -2187,7 +2059,6 @@ Which of the following is used as a substitute for wrist extensors in radial ner
 </details>
 
 ---
-
 ### Q129 — year old carpenter with a blunt
 
 A patient (age not captured in source) who is a year old carpenter with a blunt trauma to his arm sustained a fracture followingwhich he developedwrist drop, loss of extension at fingers and loss of
@@ -2204,7 +2075,6 @@ A patient (age not captured in source) who is a year old carpenter with a blunt 
 </details>
 
 ---
-
 ### Q130 — Wrist drop is due to injury
 
 Wrist drop is due to injury to ?
@@ -2221,7 +2091,6 @@ Wrist drop is due to injury to ?
 </details>
 
 ---
-
 ### Q131 — Blounts disease is associated with all
 
 Blount's disease is associated with all of the following, EXCEPT:
@@ -2238,7 +2107,6 @@ Blount's disease is associated with all of the following, EXCEPT:
 </details>
 
 ---
-
 ### Q132 — All of the following are true
 
 All of the following are true regarding Pagets Disease except -
@@ -2255,7 +2123,6 @@ All of the following are true regarding Pagets Disease except -
 </details>
 
 ---
-
 ### Q133 — Commonest site of occurrence of chondrosarcoma
 
 Commonest site of occurrence of chondrosarcoma is -
@@ -2272,7 +2139,6 @@ Commonest site of occurrence of chondrosarcoma is -
 </details>
 
 ---
-
 ### Q134 — Nerve damaged due to lunate dislocation
 
 Nerve damaged due to lunate dislocation (in carpal tunnel):
@@ -2289,7 +2155,6 @@ Nerve damaged due to lunate dislocation (in carpal tunnel):
 </details>
 
 ---
-
 ### Q135 — Anatomy: Cubital fossa medial boundary
 
 Medial boundary of cubital fossa:
@@ -2308,7 +2173,6 @@ Medial boundary of cubital fossa:
 ---
 
 ---
-
 ### Q136 — Anatomy: Anterior interosseous nerve
 
 Anterior interosseous nerve is a branch of:
@@ -2327,7 +2191,6 @@ Anterior interosseous nerve is a branch of:
 ---
 
 ---
-
 ### Q137 — Anatomy: Olecranon process
 
 Olecranon process of ulna helps in formation of:
@@ -2346,7 +2209,6 @@ Olecranon process of ulna helps in formation of:
 ---
 
 ---
-
 ### Q138 — Anatomy: Clavicle
 
 True about clavicle:
@@ -2365,7 +2227,6 @@ True about clavicle:
 ---
 
 ---
-
 ### Q139 — Anatomy: Clavipectoral fascia
 
 Clavipectoral fascia is pierced by all except:
@@ -2384,7 +2245,6 @@ Clavipectoral fascia is pierced by all except:
 ---
 
 ---
-
 ### Q140 — Anatomy: Supinator jerk root value
 
 Root value of supinator jerk:
@@ -2403,7 +2263,6 @@ Root value of supinator jerk:
 ---
 
 ---
-
 ### Q141 — Anatomy: Small hand muscles nerve supply
 
 Small muscles of hand are supplied by:
@@ -2422,7 +2281,6 @@ Small muscles of hand are supplied by:
 ---
 
 ---
-
 ### Q142 — Anatomy: Bicipital aponeurosis
 
 Bicipital aponeurosis lies over which structure in cubital fossa:
@@ -2441,7 +2299,6 @@ Bicipital aponeurosis lies over which structure in cubital fossa:
 ---
 
 ---
-
 ### Q143 — Anatomy: Over bicipital aponeurosis
 
 Structure over bicipital aponeurosis in cubital fossa:
@@ -2460,7 +2317,6 @@ Structure over bicipital aponeurosis in cubital fossa:
 ---
 
 ---
-
 ### Q144 — Anatomy: Radial nerve in spiral groove
 
 Nerve running along with profunda brachii artery in spiral groove:
@@ -2479,7 +2335,6 @@ Nerve running along with profunda brachii artery in spiral groove:
 ---
 
 ---
-
 ### Q145 — Anatomy: Quadrilateral space
 
 Boundaries of quadrilateral space include all except:
@@ -2498,7 +2353,6 @@ Boundaries of quadrilateral space include all except:
 ---
 
 ---
-
 ### Q146 — Anatomy: Axillary artery
 
 Axillary artery is divided into three parts by:
@@ -2517,7 +2371,6 @@ Axillary artery is divided into three parts by:
 ---
 
 ---
-
 ### Q147 — Anatomy: Posterior wall of axilla
 
 Posterior wall of axilla is formed by:
@@ -2536,7 +2389,6 @@ Posterior wall of axilla is formed by:
 ---
 
 ---
-
 ### Q148 — Anatomy: Anterior axillary fold
 
 Anterior axillary fold is due to which muscle:
@@ -2555,7 +2407,6 @@ Anterior axillary fold is due to which muscle:
 ---
 
 ---
-
 ### Q149 — Anatomy: Intracapsular extrasynovial structure
 
 Intracapsular but extrasynovial:
@@ -2574,7 +2425,6 @@ Intracapsular but extrasynovial:
 ---
 
 ---
-
 ### Q150 — Anatomy: Lactiferous ducts
 
 How many lactiferous ducts open in nipple:
@@ -2593,7 +2443,6 @@ How many lactiferous ducts open in nipple:
 ---
 
 ---
-
 ### Q151 — Anatomy: Deltopectoral groove
 
 Structure related to deltopectoral groove:
@@ -2612,7 +2461,6 @@ Structure related to deltopectoral groove:
 ---
 
 ---
-
 ### Q152 — Anatomy: Common interosseous artery
 
 Common interosseous artery is a branch of:
@@ -2631,7 +2479,6 @@ Common interosseous artery is a branch of:
 ---
 
 ---
-
 ### Q153 — Anatomy: Scaphoid blood supply
 
 True about blood supply of scaphoid:
@@ -2650,7 +2497,6 @@ True about blood supply of scaphoid:
 ---
 
 ---
-
 ### Q154 — Anatomy: Foot lumbricals nerve supply
 
 3rd and 4th lumbricals of foot are supplied by:
@@ -2669,7 +2515,6 @@ True about blood supply of scaphoid:
 ---
 
 ---
-
 ### Q155 — Anatomy: Short saphenous vein
 
 All are true about short saphenous vein except:
@@ -2688,7 +2533,6 @@ All are true about short saphenous vein except:
 ---
 
 ---
-
 ### Q156 — Anatomy: Inferior extensor retinaculum
 
 Not true about inferior extensor retinaculum:
@@ -2707,7 +2551,6 @@ Not true about inferior extensor retinaculum:
 ---
 
 ---
-
 ### Q157 — Anatomy: Popliteus
 
 True about popliteus — all except:
@@ -2726,7 +2569,6 @@ True about popliteus — all except:
 ---
 
 ---
-
 ### Q158 — Anatomy: Semitendinosus
 
 True regarding semitendinosus:
@@ -2745,7 +2587,6 @@ True regarding semitendinosus:
 ---
 
 ---
-
 ### Q159 — Anatomy: Foot dorsiflexor
 
 Which of the following dorsiflexes the foot:
@@ -2764,7 +2605,6 @@ Which of the following dorsiflexes the foot:
 ---
 
 ---
-
 ### Q160 — Anatomy: Oblique popliteal ligament artery
 
 Artery piercing the oblique popliteal ligament of knee:
@@ -2783,7 +2623,6 @@ Artery piercing the oblique popliteal ligament of knee:
 ---
 
 ---
-
 ### Q161 — Anatomy: Lateral patellar dislocation prevention
 
 Lateral dislocation of patella is prevented by:
@@ -2802,7 +2641,6 @@ Lateral dislocation of patella is prevented by:
 ---
 
 ---
-
 ### Q162 — Anatomy: Hunter's canal
 
 Hunter's canal is seen in:
@@ -2821,7 +2659,6 @@ Hunter's canal is seen in:
 ---
 
 ---
-
 ### Q163 — Anatomy: Iliotibial tract
 
 True about iliotibial tract — all except:
@@ -2840,7 +2677,6 @@ True about iliotibial tract — all except:
 ---
 
 ---
-
 ### Q164 — Anatomy: Talus support ligament
 
 Ligament supporting the talus:
@@ -2859,7 +2695,6 @@ Ligament supporting the talus:
 ---
 
 ---
-
 ### Q165 — Anatomy: Tibia nutrient artery
 
 False about tibia-fibula:
@@ -2878,7 +2713,6 @@ False about tibia-fibula:
 ---
 
 ---
-
 ### Q166 — Anatomy: Lumbar plexus branches
 
 All are branches of lumbar plexus except:
@@ -2897,7 +2731,6 @@ All are branches of lumbar plexus except:
 ---
 
 ---
-
 ### Q167 — Anatomy: Sacral articular surface in males
 
 Articular surface of sacrum extends up to how many vertebrae in males:
@@ -2916,7 +2749,6 @@ Articular surface of sacrum extends up to how many vertebrae in males:
 ---
 
 ---
-
 ### Q168 — Anatomy: Sacroiliac joint lower limit in females
 
 Lower limit of sacroiliac joint in females:
@@ -2935,7 +2767,6 @@ Lower limit of sacroiliac joint in females:
 ---
 
 ---
-
 ### Q169 — Anatomy: First rib relations
 
 First rib is not related to:
@@ -2954,7 +2785,6 @@ First rib is not related to:
 ---
 
 ---
-
 ### Q170 — Anatomy: Anterior intercostal artery
 
 True about anterior intercostal artery:
@@ -2973,7 +2803,6 @@ True about anterior intercostal artery:
 ---
 
 ---
-
 ### Q171 — Anatomy: Right principal bronchus
 
 True about right principal bronchus:
@@ -2992,7 +2821,6 @@ True about right principal bronchus:
 ---
 
 ---
-
 ### Q172 — Anatomy: Thoracic duct formation
 
 Thoracic duct is formed by:
@@ -3011,7 +2839,6 @@ Thoracic duct is formed by:
 ---
 
 ---
-
 ### Q173 — Anatomy: Thoracic duct termination
 
 Thoracic duct opens into:
@@ -3030,7 +2857,6 @@ Thoracic duct opens into:
 ---
 
 ---
-
 ### Q174 — Anatomy: Hilum of lung posterior relation
 
 Posterior relation of hilum of lung:
@@ -3049,7 +2875,6 @@ Posterior relation of hilum of lung:
 ---
 
 ---
-
 ### Q175 — Anatomy: Right lung hilum not related to
 
 Not related to hilum of right lung:
@@ -3068,7 +2893,6 @@ Not related to hilum of right lung:
 ---
 
 ---
-
 ### Q176 — Anatomy: Xiphoid fusion age
 
 Xiphoid fuses with sternum by what age:
@@ -3087,7 +2911,6 @@ Xiphoid fuses with sternum by what age:
 ---
 
 ---
-
 ### Q177 — Anatomy: Bronchopulmonary segments
 
 Bronchopulmonary segments in right and left lungs respectively:
@@ -3106,7 +2929,6 @@ Bronchopulmonary segments in right and left lungs respectively:
 ---
 
 ---
-
 ### Q178 — Anatomy: Arch of aorta nerve relations
 
 At the level of arch of aorta, relationship of left vagus and left phrenic nerve:
@@ -3125,7 +2947,6 @@ At the level of arch of aorta, relationship of left vagus and left phrenic nerve
 ---
 
 ---
-
 ### Q179 — Anatomy: Transverse pericardial sinus
 
 Posterior to transverse pericardial sinus:
@@ -3144,7 +2965,6 @@ Posterior to transverse pericardial sinus:
 ---
 
 ---
-
 ### Q180 — Anatomy: Cremasteric reflex
 
 True about cremasteric reflex:
@@ -3163,7 +2983,6 @@ True about cremasteric reflex:
 ---
 
 ---
-
 ### Q181 — Anatomy: Urethral crest
 
 Urethral crest is an elevation seen in urethra due to:
@@ -3182,7 +3001,6 @@ Urethral crest is an elevation seen in urethra due to:
 ---
 
 ---
-
 ### Q182 — Anatomy: Pyramidalis nerve supply
 
 Pyramidalis is supplied by:
@@ -3201,7 +3019,6 @@ Pyramidalis is supplied by:
 ---
 
 ---
-
 ### Q183 — Anatomy: Appendices epiploicae
 
 Appendices epiploicae is a feature of:
@@ -3220,7 +3037,6 @@ Appendices epiploicae is a feature of:
 ---
 
 ---
-
 ### Q184 — Anatomy: Appendices epiploicae distribution
 
 Appendices epiploicae are seen in all parts of large intestine except:
@@ -3239,7 +3055,6 @@ Appendices epiploicae are seen in all parts of large intestine except:
 ---
 
 ---
-
 ### Q185 — Anatomy: Inferior rectal artery
 
 Inferior rectal artery is a branch of:
@@ -3258,7 +3073,6 @@ Inferior rectal artery is a branch of:
 ---
 
 ---
-
 ### Q186 — Anatomy: Cremasteric artery
 
 Cremasteric artery is a branch of:
@@ -3277,7 +3091,6 @@ Cremasteric artery is a branch of:
 ---
 
 ---
-
 ### Q187 — Anatomy: Superficial epigastric artery
 
 Superficial epigastric artery is a branch of:
@@ -3296,7 +3109,6 @@ Superficial epigastric artery is a branch of:
 ---
 
 ---
-
 ### Q188 — Anatomy: Inferior epigastric vein
 
 Inferior epigastric vein drains into:
@@ -3315,7 +3127,6 @@ Inferior epigastric vein drains into:
 ---
 
 ---
-
 ### Q189 — Anatomy: Superior rectal vein
 
 Superior rectal vein drains into:
@@ -3334,7 +3145,6 @@ Superior rectal vein drains into:
 ---
 
 ---
-
 ### Q190 — Anatomy: Accessory spleen location
 
 Most common location of accessory spleen:
@@ -3353,7 +3163,6 @@ Most common location of accessory spleen:
 ---
 
 ---
-
 ### Q191 — Anatomy: Posterior vaginal wall
 
 Length of posterior vaginal wall:
@@ -3372,7 +3181,6 @@ Length of posterior vaginal wall:
 ---
 
 ---
-
 ### Q192 — Anatomy: Bare area of liver
 
 Bare area of liver is related to:
@@ -3391,7 +3199,6 @@ Bare area of liver is related to:
 ---
 
 ---
-
 ### Q193 — Anatomy: Circumcaval ureter
 
 True about circumcaval ureter:
@@ -3410,7 +3217,6 @@ True about circumcaval ureter:
 ---
 
 ---
-
 ### Q194 — Anatomy: Retroperitoneal structure
 
 Which of the following is a retroperitoneal structure:
@@ -3429,7 +3235,6 @@ Which of the following is a retroperitoneal structure:
 ---
 
 ---
-
 ### Q195 — Anatomy: Falciform ligament content
 
 Falciform ligament contains:
@@ -3448,7 +3253,6 @@ Falciform ligament contains:
 ---
 
 ---
-
 ### Q196 — Anatomy: Colon without mesentery
 
 Part of colon with no mesentery:
@@ -3467,7 +3271,6 @@ Part of colon with no mesentery:
 ---
 
 ---
-
 ### Q197 — Anatomy: Trigone of bladder
 
 False regarding trigone of bladder:
@@ -3486,7 +3289,6 @@ False regarding trigone of bladder:
 ---
 
 ---
-
 ### Q198 — Anatomy: Trigone development
 
 Trigone of urinary bladder develops from:
@@ -3505,7 +3307,6 @@ Trigone of urinary bladder develops from:
 ---
 
 ---
-
 ### Q199 — Anatomy: Large intestine watershed zone
 
 Watershed zone of large intestine:
@@ -3524,7 +3325,6 @@ Watershed zone of large intestine:
 ---
 
 ---
-
 ### Q200 — Anatomy: Transverse cervical ligament
 
 Ligament extending from cervix and vagina to lateral pelvic wall:
@@ -3543,7 +3343,6 @@ Ligament extending from cervix and vagina to lateral pelvic wall:
 ---
 
 ---
-
 ### Q201 — Anatomy: Scarpa's fascia
 
 True about Scarpa's fascia:
@@ -3562,7 +3361,6 @@ True about Scarpa's fascia:
 ---
 
 ---
-
 ### Q202 — Anatomy: Cave of Retzius
 
 Where is the Cave of Retzius present:
@@ -3581,7 +3379,6 @@ Where is the Cave of Retzius present:
 ---
 
 ---
-
 ### Q203 — Anatomy: Deep inguinal ring nerve
 
 Nerve entering the inguinal canal through deep inguinal ring:
@@ -3600,7 +3397,6 @@ Nerve entering the inguinal canal through deep inguinal ring:
 ---
 
 ---
-
 ### Q204 — Anatomy: Renal artery development
 
 Initially, renal arteries are branches of:
@@ -3619,7 +3415,6 @@ Initially, renal arteries are branches of:
 ---
 
 ---
-
 ### Q205 — Anatomy: Neonatal kidney supply
 
 In a neonate, kidney is supplied by:
@@ -3638,7 +3433,6 @@ In a neonate, kidney is supplied by:
 ---
 
 ---
-
 ### Q206 — Anatomy: Meckel's cave
 
 Meckel's cave is related to:
@@ -3657,7 +3451,6 @@ Meckel's cave is related to:
 ---
 
 ---
-
 ### Q207 — Anatomy: Longest spinous process
 
 Longest spinous process is seen in:
@@ -3676,7 +3469,6 @@ Longest spinous process is seen in:
 ---
 
 ---
-
 ### Q208 — Anatomy: Sweat gland near lid margin
 
 Sweat gland near the lid margins:
@@ -3695,7 +3487,6 @@ Sweat gland near the lid margins:
 ---
 
 ---
-
 ### Q209 — Anatomy: Anterior nasal lymph drainage
 
 Anterior lymphatics from the nose drain into:
@@ -3714,7 +3505,6 @@ Anterior lymphatics from the nose drain into:
 ---
 
 ---
-
 ### Q210 — Anatomy: Killian's dehiscence
 
 Killian's dehiscence is seen in:
@@ -3733,7 +3523,6 @@ Killian's dehiscence is seen in:
 ---
 
 ---
-
 ### Q211 — Anatomy: Fossa incudis
 
 Fossa incudis is related to:
@@ -3752,7 +3541,6 @@ Fossa incudis is related to:
 ---
 
 ---
-
 ### Q212 — Anatomy: Unpaired laryngeal cartilage
 
 Unpaired laryngeal cartilage:
@@ -3771,7 +3559,6 @@ Unpaired laryngeal cartilage:
 ---
 
 ---
-
 ### Q213 — Anatomy: Dorsal cranial nerve exit
 
 Only nerve which exits brainstem on dorsal side:
@@ -3790,7 +3577,6 @@ Only nerve which exits brainstem on dorsal side:
 ---
 
 ---
-
 ### Q214 — Anatomy: Putamen blood supply
 
 Blood supply of putamen includes all except:
@@ -3809,7 +3595,6 @@ Blood supply of putamen includes all except:
 ---
 
 ---
-
 ### Q215 — Anatomy: Medulla blood supply
 
 Medulla is supplied by all except:
@@ -3828,7 +3613,6 @@ Medulla is supplied by all except:
 ---
 
 ---
-
 ### Q216 — Anatomy: Eustachian tube length
 
 Length of Eustachian tube:
@@ -3847,7 +3631,6 @@ Length of Eustachian tube:
 ---
 
 ---
-
 ### Q217 — Anatomy: Lacrimal gland parasympathetic supply
 
 Parasympathetic supply to lacrimal glands passed through:
@@ -3866,7 +3649,6 @@ Parasympathetic supply to lacrimal glands passed through:
 ---
 
 ---
-
 ### Q218 — Anatomy: Onodi cells
 
 Onodi cells are seen in:
@@ -3885,7 +3667,6 @@ Onodi cells are seen in:
 ---
 
 ---
-
 ### Q219 — Anatomy: Haller cells
 
 Haller cells are seen in:
@@ -3904,7 +3685,6 @@ Haller cells are seen in:
 ---
 
 ---
-
 ### Q220 — Anatomy: Nasolacrimal duct valve
 
 Which valve is present at opening of nasolacrimal duct:
@@ -3923,7 +3703,6 @@ Which valve is present at opening of nasolacrimal duct:
 ---
 
 ---
-
 ### Q221 — Anatomy: Cribriform plate function
 
 Cribriform plate forms:
@@ -3942,7 +3721,6 @@ Cribriform plate forms:
 ---
 
 ---
-
 ### Q222 — Anatomy: Galen's anastomosis
 
 Galen's anastomosis is between:
@@ -3961,7 +3739,6 @@ Galen's anastomosis is between:
 ---
 
 ---
-
 ### Q223 — Anatomy: Lamina papyracea
 
 Lamina papyracea is between:
@@ -3980,7 +3757,6 @@ Lamina papyracea is between:
 ---
 
 ---
-
 ### Q224 — Anatomy: Sternocleidomastoid
 
 False about sternocleidomastoid:
@@ -3999,7 +3775,6 @@ False about sternocleidomastoid:
 ---
 
 ---
-
 ### Q225 — Anatomy: Scalenus anterior
 
 The key to the root of the neck is scalenus anterior. True statement about scalenus anterior:
@@ -4018,7 +3793,6 @@ The key to the root of the neck is scalenus anterior. True statement about scale
 ---
 
 ---
-
 ### Q226 — Anatomy: Tongue and occipital myotome
 
 Tongue muscle not developed from occipital myotome:
@@ -4037,7 +3811,6 @@ Tongue muscle not developed from occipital myotome:
 ---
 
 ---
-
 ### Q227 — Anatomy: Korner's septum
 
 Korner's septum is seen in:
@@ -4056,7 +3829,6 @@ Korner's septum is seen in:
 ---
 
 ---
-
 ### Q228 — Anatomy: Chorda tympani fibers
 
 True about chorda tympani:
@@ -4075,7 +3847,6 @@ True about chorda tympani:
 ---
 
 ---
-
 ### Q229 — Anatomy: Vidian nerve formation
 
 Vidian nerve is formed by union of:
@@ -4094,7 +3865,6 @@ Vidian nerve is formed by union of:
 ---
 
 ---
-
 ### Q230 — Anatomy: Woodruff's area
 
 Woodruff's area is located at:
@@ -4113,7 +3883,6 @@ Woodruff's area is located at:
 ---
 
 ---
-
 ### Q231 — Anatomy: Scutum in middle ear
 
 Scutum is present in middle ear:
@@ -4132,7 +3901,6 @@ Scutum is present in middle ear:
 ---
 
 ---
-
 ### Q232 — Anatomy: Bony labyrinth
 
 Not a part of bony labyrinth:
@@ -4151,7 +3919,6 @@ Not a part of bony labyrinth:
 ---
 
 ---
-
 ### Q233 — Anatomy: Thyroid lymph drainage
 
 Lymphatic drainage of thyroid gland is mainly:
@@ -4170,7 +3937,6 @@ Lymphatic drainage of thyroid gland is mainly:
 ---
 
 ---
-
 ### Q234 — Anatomy: Organ of Corti location
 
 Organ of Corti is situated in:
@@ -4189,7 +3955,6 @@ Organ of Corti is situated in:
 ---
 
 ---
-
 ### Q235 — Anatomy: 4th ventricle floor
 
 Floor of 4th ventricle has:
@@ -4208,7 +3973,6 @@ Floor of 4th ventricle has:
 ---
 
 ---
-
 ### Q236 — Anatomy: Middle meningeal artery foramen
 
 Middle meningeal artery passes through:
@@ -4227,7 +3991,6 @@ Middle meningeal artery passes through:
 ---
 
 ---
-
 ### Q237 — Anatomy: Nerve looping submandibular duct
 
 Nerve which loops around submandibular duct:
@@ -4246,7 +4009,6 @@ Nerve which loops around submandibular duct:
 ---
 
 ---
-
 ### Q238 — Anatomy: Medulla oblongata derivation
 
 Medulla oblongata is derived from:
@@ -4265,7 +4027,6 @@ Medulla oblongata is derived from:
 ---
 
 ---
-
 ### Q239 — Embryology: Morula cell count
 
 Morula is how many celled:
@@ -4284,7 +4045,6 @@ Morula is how many celled:
 ---
 
 ---
-
 ### Q240 — Embryology: Dental papilla derivatives
 
 Dental papilla gives rise to:
@@ -4303,7 +4063,6 @@ Dental papilla gives rise to:
 ---
 
 ---
-
 ### Q241 — Embryology: Optic cup derivatives
 
 Optic cup gives rise to:
@@ -4322,7 +4081,6 @@ Optic cup gives rise to:
 ---
 
 ---
-
 ### Q242 — Embryology: Kidney excretory system
 
 Excretory system of kidney is derived from:
@@ -4341,7 +4099,6 @@ Excretory system of kidney is derived from:
 ---
 
 ---
-
 ### Q243 — Embryology: Ureteric bud origin
 
 Ureteric bud arises from:
@@ -4360,7 +4117,6 @@ Ureteric bud arises from:
 ---
 
 ---
-
 ### Q244 — Embryology: Vitelline vein derivative
 
 Derivative of vitelline vein:
@@ -4379,7 +4135,6 @@ Derivative of vitelline vein:
 ---
 
 ---
-
 ### Q245 — Embryology: Ovary development
 
 Not true about development of ovary:
@@ -4398,7 +4153,6 @@ Not true about development of ovary:
 ---
 
 ---
-
 ### Q246 — Embryology: Testis at deep inguinal ring
 
 Testis lies at deep inguinal ring up to:
@@ -4417,7 +4171,6 @@ Testis lies at deep inguinal ring up to:
 ---
 
 ---
-
 ### Q247 — Embryology: Testis position at 24–28 weeks
 
 Position of testis at 24–28 weeks of intrauterine life:
@@ -4436,7 +4189,6 @@ Position of testis at 24–28 weeks of intrauterine life:
 ---
 
 ---
-
 ### Q248 — Embryology: Notochord
 
 True about notochord — all except:
@@ -4455,7 +4207,6 @@ True about notochord — all except:
 ---
 
 ---
-
 ### Q249 — Embryology: Notochord remnant
 
 Remnant of notochord:
@@ -4474,7 +4225,6 @@ Remnant of notochord:
 ---
 
 ---
-
 ### Q250 — Embryology: Second part of duodenum
 
 2nd part of duodenum is derived from:
@@ -4493,7 +4243,6 @@ Remnant of notochord:
 ---
 
 ---
-
 ### Q251 — Embryology: Corneal stroma development
 
 Stroma of cornea develops from:
@@ -4512,7 +4261,6 @@ Stroma of cornea develops from:
 ---
 
 ---
-
 ### Q252 — Embryology: Female genital tract
 
 Female genital tract develops from:
@@ -4531,7 +4279,6 @@ Female genital tract develops from:
 ---
 
 ---
-
 ### Q253 — Embryology: Glomus cells
 
 Glomus cells are derived from:
@@ -4550,7 +4297,6 @@ Glomus cells are derived from:
 ---
 
 ---
-
 ### Q254 — Embryology: Vaginal epithelium
 
 Epithelium of vagina arises from:
@@ -4569,7 +4315,6 @@ Epithelium of vagina arises from:
 ---
 
 ---
-
 ### Q255 — Embryology: First arch derivatives
 
 Which of the following is derived from 1st arch:
@@ -4588,7 +4333,6 @@ Which of the following is derived from 1st arch:
 ---
 
 ---
-
 ### Q256 — Embryology: First arch skeletal derivatives
 
 Skeletal derivative of 1st arch:
@@ -4607,7 +4351,6 @@ Skeletal derivative of 1st arch:
 ---
 
 ---
-
 ### Q257 — Embryology: Styloid process derivation
 
 Styloid process is derived from:
@@ -4626,7 +4369,6 @@ Styloid process is derived from:
 ---
 
 ---
-
 ### Q258 — Embryology: Pharyngeal muscles arch
 
 Pharyngeal muscles are derived from which pharyngeal arch:
@@ -4645,7 +4387,6 @@ Pharyngeal muscles are derived from which pharyngeal arch:
 ---
 
 ---
-
 ### Q259 — Anatomy: Sternochondral joint type
 
 Sternochondral joint is:
@@ -4664,7 +4405,6 @@ Sternochondral joint is:
 ---
 
 ---
-
 ### Q260 — Anatomy: Innervated joint structures
 
 Innervated structures of joints are all except:
@@ -4683,7 +4423,6 @@ Innervated structures of joints are all except:
 ---
 
 ---
-
 ### Q261 — Anatomy: Submucosal plexus
 
 Submucosal plexus is:
@@ -4702,7 +4441,6 @@ Submucosal plexus is:
 ---
 
 ---
-
 ### Q262 — Histology: Hassall's corpuscles
 
 Hassall's corpuscles are found in:
@@ -4721,7 +4459,6 @@ Hassall's corpuscles are found in:
 ---
 
 ---
-
 ### Q263 — Histology: Duct of Bellini
 
 Duct of Bellini is present in:
@@ -4740,7 +4477,6 @@ Duct of Bellini is present in:
 ---
 
 ---
-
 ### Q264 — Histology: Breast gland type
 
 Breast is a:
@@ -4759,7 +4495,6 @@ Breast is a:
 ---
 
 ---
-
 ### Q265 — Histology: Valve of Heister
 
 Valve of Heister is seen in:
@@ -4777,3703 +4512,9 @@ Valve of Heister is seen in:
 
 ---
 
-
-## Obstetrics & Gynaecology
-
-### Q266 — Malodorous Vaginal Discharge Cause *(2015)*
-
-Malodorous vaginal discharge is due to:
-
-- A. Bacterial vaginosis
-- B. Chlamydia trachomatis
-- C. Trichomonas vaginalis
-- D. Neisseria gonorrhoeae
-
-<details><summary>Answer</summary>
-
-**A. Bacterial vaginosis** — BV results from overgrowth of anaerobes and Gardnerella vaginalis following a fall in hydrogen-peroxide-producing lactobacilli; the characteristic odour is a fishy, amine smell (positive Whiff test).
-
-</details>
-
----
-
-### Q267 — Quickening in Multipara *(2015)*
-
-Quickening in a multipara is felt at what week of gestation:
-
-- A. 14 weeks
-- B. 16 weeks
-- C. 18 weeks
-- D. 20 weeks
-
-<details><summary>Answer</summary>
-
-**B. 16 weeks** — Quickening (first perception of fetal movement) is felt around 18 weeks in primigravidae and about 2 weeks earlier (16 weeks) in multipara.
-
-</details>
-
----
-
-### Q268 — Placental Site Trophoblastic Tumour *(2015)*
-
-True about placental site trophoblastic disease is:
-
-- A. Highly malignant behaviour
-- B. Hysterectomy followed by chemoradiation is the treatment of choice
-- C. Secretes human placental lactogen (HPL)
-- D. Contains syncytiotrophoblasts mainly
-
-<details><summary>Answer</summary>
-
-**C. Secretes human placental lactogen (HPL)** — PSTT arises from placental bed intermediate trophoblasts, not syncytiotrophoblasts. It secretes HPL (not hCG), usually runs a benign course, and hysterectomy alone (without routine chemoradiation) is the standard treatment.
-
-</details>
-
----
-
-### Q269 — Crowning Definition *(2015)*
-
-Crowning is defined as:
-
-- A. Biparietal diameter at the inlet of pelvis
-- B. Biparietal diameter at the ischial spine
-- C. Biparietal diameter at the vulval outlet
-- D. Biparietal diameter just outside the vulval outlet
-
-<details><summary>Answer</summary>
-
-**C. Biparietal diameter at the vulval outlet** — Crowning occurs when the maximum diameter (BPD) of the fetal head stretches the vulval outlet without any recession of the head between contractions.
-
-</details>
-
----
-
-### Q270 — Prolonged Second Stage of Labour *(2015)*
-
-Prolonged second stage of labour may occur due to:
-
-- A. Uterine inertia
-- B. Epidural analgesia
-- C. Cephalopelvic disproportion
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above** — All three are recognised causes: uterine inertia (fault in power), epidural analgesia (blunts bearing-down reflex), and CPD (fault in passage).
-
-</details>
-
----
-
-### Q271 — Emergency Contraception Progestogen of Choice *(2015)*
-
-Progestogen of choice in emergency contraception is:
-
-- A. Norethisterone
-- B. Medroxyprogesterone
-- C. Oxytocin
-- D. Levonorgestrel
-
-<details><summary>Answer</summary>
-
-**D. Levonorgestrel** — LNG 0.75 mg × 2 doses (or 1.5 mg single dose) within 72 hours is the standard EC regimen; it is more effective and has fewer side effects than oestrogen-progestin combinations.
-
-</details>
-
----
-
-### Q272 — Lovset Manoeuvre Use *(2015)*
-
-Lovset manoeuvre is used in delivery of:
-
-- A. Head
-- B. Breech
-- C. Foot
-- D. Arms
-
-<details><summary>Answer</summary>
-
-**D. Arms** — Lovset's manoeuvre uses rotation of the fetal trunk (keeping the back anterior, with downward traction) to bring the posterior shoulder below the symphysis and deliver the arms in breech delivery.
-
-</details>
-
----
-
-### Q273 — Partial Mole Common Misdiagnosis *(2015)*
-
-Common misdiagnosis of partial mole is:
-
-- A. Threatened abortion
-- B. Choriocarcinoma
-- C. Complete mole
-- D. Ectopic pregnancy
-
-<details><summary>Answer</summary>
-
-**A. Threatened abortion** — The clinical picture of partial mole (pain + bleeding + fetus usually dead in utero) closely mimics threatened or missed abortion.
-
-</details>
-
----
-
-### Q274 — Gestational Hypertension — Not a Risk Factor *(2015)*
-
-Which is NOT a risk factor for gestational hypertension:
-
-- A. Obesity
-- B. Smoking
-- C. Primigravida
-- D. Factor V Leiden mutation
-
-<details><summary>Answer</summary>
-
-**B. Smoking** — Smoking is actually protective against pre-eclampsia (reduces placental oxidative stress, though this does not justify smoking). Obesity, primigravidity, and thrombophilias (including Factor V Leiden) are all established risk factors.
-
-</details>
-
----
-
-### Q275 — MTP Misoprostol Timing (FDA Protocol) *(2015)*
-
-In medical termination of pregnancy, according to FDA protocol, misoprostol is given after how many hours of mifepristone:
-
-- A. 24 hours
-- B. 48 hours
-- C. 72 hours
-- D. 96 hours
-
-<details><summary>Answer</summary>
-
-**B. 48 hours** — The original FDA-approved protocol: mifepristone 600 mg orally on day 1, followed by misoprostol 400 mcg orally 48 hours later; treatment must be started ≤49 days from LMP.
-
-</details>
-
----
-
-### Q276 — Most Common Breech Position *(2015)*
-
-Most common type of breech presentation is:
-
-- A. Complete breech
-- B. Frank breech
-- C. Footling breech
-- D. Knee presentation
-
-<details><summary>Answer</summary>
-
-**B. Frank breech** — Frank breech (thighs flexed, knees extended) accounts for 65–70% of all breech presentations, especially in primigravidae.
-
-</details>
-
----
-
-### Q277 — Most Common Ovarian Tumour to Tort in Pregnancy *(2015)*
-
-Which ovarian tumour is most prone to undergo torsion during pregnancy:
-
-- A. Serous cystadenoma
-- B. Mucinous cystadenoma
-- C. Dermoid cyst
-- D. Theca lutein cyst
-
-<details><summary>Answer</summary>
-
-**C. Dermoid cyst (benign cystic teratoma)** — Because of its fat content dermoid cysts are lighter than fluid-filled tumours and torse more easily; ~15% undergo torsion. The most common ovarian tumour in pregnancy overall is serous cystadenoma, but dermoid is the most common one diagnosed (and to torse) during pregnancy.
-
-</details>
-
----
-
-### Q278 — Complete Prolapse Treatment in Completed Family *(2015)*
-
-Preferred treatment of complete uterine prolapse in a female with completed family is:
-
-- A. Sling surgery
-- B. Vaginal hysterectomy
-- C. Le Forte's repair
-- D. Pessary
-
-<details><summary>Answer</summary>
-
-**B. Vaginal hysterectomy** — Vaginal hysterectomy (usually with anterior and posterior colporrhaphy) is the definitive surgical option for major degree uterine prolapse in a parous woman with a completed family.
-
-</details>
-
----
-
-### Q279 — MRKH Syndrome — Absent Structure *(2015)*
-
-In MRKH syndrome, which of the following is absent:
-
-- A. Vagina
-- B. Breast development
-- C. Pubic hair development
-- D. Testes
-
-<details><summary>Answer</summary>
-
-**D. Testes** — MRKH (Mayer-Rokitansky-Küster-Hauser) syndrome has a 46,XX karyotype; gonads present are ovaries. It is characterised by congenital aplasia of the uterus and upper 2/3 of the vagina with normal secondary sexual characteristics.
-
-</details>
-
----
-
-### Q280 — Hot Flushes Mechanism *(2015)*
-
-Hot flushes are experienced as a result of:
-
-- A. Increased noradrenaline alone
-- B. Decreased oestrogen alone
-- C. Increased noradrenaline and decreased oestrogen
-- D. Increased noradrenaline and oestrogen
-
-<details><summary>Answer</summary>
-
-**C. Increased noradrenaline and decreased oestrogen** — Oestrogen deficiency reduces hypothalamic endorphins, increasing norepinephrine and serotonin, which disturb the hypothalamic thermoregulatory set-point.
-
-</details>
-
----
-
-### Q281 — IUD Absolute Contraindication — Exception *(2015)*
-
-Absolute contraindications to IUCD are all EXCEPT:
-
-- A. Pregnancy
-- B. Undiagnosed vaginal bleeding
-- C. Pelvic inflammatory disease
-- D. Uterine malformation
-
-<details><summary>Answer</summary>
-
-**D. Uterine malformation** — Uterine malformation (distorted cavity) is only a relative contraindication; the others (pregnancy, undiagnosed bleeding, active PID) are absolute contraindications.
-
-</details>
-
----
-
-### Q282 — Secondary PPH Most Common Cause *(2015)*
-
-Most common cause of secondary PPH is:
-
-- A. Uterine inertia
-- B. Retained placenta/placental bits
-- C. Episiotomy
-- D. Cervical tear
-
-<details><summary>Answer</summary>
-
-**B. Retained placental bits** — Retained cotyledon or membrane fragments are the most common cause of secondary PPH (bleeding after 24 hours, usually 8–14 days postpartum).
-
-</details>
-
----
-
-### Q283 — Complete Placenta Praevia at 38 Weeks (No Bleeding) *(2015)*
-
-Management of a patient with complete placenta praevia at 38 weeks gestation without any vaginal bleeding is:
-
-- A. Expectant management
-- B. Macafee and Johnson regimen
-- C. Elective caesarean section
-- D. Emergency caesarean section
-
-<details><summary>Answer</summary>
-
-**C. Elective caesarean section** — At ≥37 weeks active interference is mandatory for complete praevia. As there is no active bleeding, an elective (planned) caesarean section is appropriate rather than emergency.
-
-</details>
-
----
-
-### Q284 — Vasa Praevia Association *(2015)*
-
-Vasa praevia is associated with:
-
-- A. Marginal placenta
-- B. Velamentous placenta
-- C. Battledore placenta
-- D. Placenta praevia
-
-<details><summary>Answer</summary>
-
-**B. Velamentous placenta** — In velamentous cord insertion, unsupported umbilical vessels traverse the membranes over the internal os; rupture of these fetal vessels causes rapid fetal exsanguination.
-
-</details>
-
----
-
-### Q285 — Ectopic Pregnancy Most Common Tubal Site *(2015)*
-
-Most common site of implantation of tubal ectopic pregnancy is:
-
-- A. Interstitial portion
-- B. Isthmus
-- C. Ampulla
-- D. Infundibulum
-
-<details><summary>Answer</summary>
-
-**C. Ampulla** — The ampulla accounts for ~80% of tubal ectopics. The isthmus has the highest rupture propensity; interstitial ectopics have the longest survival (up to ~4 months).
-
-</details>
-
----
-
-### Q286 — Amsel Criteria Disease *(2015)*
-
-Amsel criteria is used for diagnosis of:
-
-- A. Bacterial vaginosis
-- B. Antiphospholipid antibody syndrome
-- C. Ovarian ectopic pregnancy
-- D. HELLP syndrome
-
-<details><summary>Answer</summary>
-
-**A. Bacterial vaginosis** — Amsel criteria (3 of 4): homogeneous white/grey discharge, vaginal pH >4.5, positive Whiff test (KOH fishy odour), and clue cells on microscopy.
-
-</details>
-
----
-
-
-### Q287 — The uterine artery is a branch
-
-The uterine artery is a branch of which of the following?
-
-- A. Left common iliac artery
-- B. Internal iliac artery
-- C. Internal pudendal artery
-- D. Ovarian artery
-
-<details><summary>Answer</summary>
-
-**B. Internal iliac artery** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q288 — Ovarian artery is a branch of
-
-Ovarian artery is a branch of:
-
-- A. Renal artery
-- B. Internal iliac artery
-- C. Abdominal part of the aorta
-- D. External iliac artery
-
-<details><summary>Answer</summary>
-
-**C. Abdominal part of the aorta** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q289 — Labour pain in uterus is carried
-
-Labour pain in uterus is carried by
-
-- A. Parasympathetic nerves
-- B. Sympathetic nerves
-- C. Pudendal nerve
-- D. Splanchnic nerve
-
-<details><summary>Answer</summary>
-
-**B. Sympathetic nerves** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q290 — True about fallopian tubes are all
-
-True about fallopian tubes are all except :
-
-- A. Lined by cuboidal epithelium
-- B. Isthmus is the narrower part of the tube that links to the uterus
-- C. Tubal ostium is the point where the tubal canal meets the
-- D. MUllerian ducts develops in females into the Fallopian tubes
-
-<details><summary>Answer</summary>
-
-**A. Lined by cuboidal epithelium** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q291 — Lining epithelium of vagina is
-
-Lining epithelium of vagina is
-
-- A. Squamous epithelium
-- B. Columnar epithelium
-- C. Transitional epithelium
-- D. Secretory epithelium
-
-<details><summary>Answer</summary>
-
-**A. Squamous epithelium** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q292 — CEA is increased in which non-
-
-CEA is increased in which non- neoplastic condition
-
-- A. Hemolytic anemia
-- B. Pancreatitis
-- C. BPH
-- D. Pregnancy
-
-<details><summary>Answer</summary>
-
-**C. BPH** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q293 — What is true about sickle cell
-
-What is true about sickle cell -
-
-- A. Sickling occurs both in heterozygous and homozygous state
-- B. Fetal hemoglobin facilitates Sickling
-- C. Sickling is reversible with oxygenation
-- D. Sickling Leads to decreased MCHC
-
-<details><summary>Answer</summary>
-
-**C. Sickling is reversible with oxygenation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q294 — Which antithyroid drug crosses placenta
-
-Which antithyroid drug crosses placenta ?
-
-- A. Carbimazole
-- B. Propylthiouracil
-- C. Both
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Both** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q295 — Last organ to putrefy in females
-
-Last organ to putrefy in females is: BHU 12
-
-- A. Kidney
-- B. Uterus
-- C. Brain
-- D. Spleen
-
-<details><summary>Answer</summary>
-
-**B. Uterus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q296 — To examine the vaginal cells in
-
-To examine the vaginal cells in of the rape victim test used is -
-
-- A. Lugol's iodine test
-- B. Takayama test
-- C. Florence test
-- D. Precipitin test
-
-<details><summary>Answer</summary>
-
-**A. Lugol's iodine test** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q297 — Tennis racket cells is seen in
-
-Tennis racket cells is seen in -
-
-- A. Sarcoma botyroides
-- B. Vaginal adenocarcinoma
-- C. Leiomyoma uterus
-- D. Seminoma
-
-<details><summary>Answer</summary>
-
-**A. Sarcoma botyroides** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q298 — Most common site for staphylococcus carrier
-
-Most common site for staphylococcus carrier:
-
-- A. Skin
-- B. Nose
-- C. Oropharynx
-- D. Perineum
-
-<details><summary>Answer</summary>
-
-**B. Nose** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q299 — IgM appears in fetus at what
-
-IgM appears in fetus at what gestational age -
-
-- A. 10 weeks
-- B. 20 weeks
-- C. 30 weeks
-- D. at birth
-
-<details><summary>Answer</summary>
-
-**B. 20 weeks** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q300 — Which does not stimulate active immunity
-
-Which does not stimulate active immunity -
-
-- A. Subclinical infection
-- B. Clinical infection
-- C. Vaccination
-- D. Transplacental antibody in newborn
-
-<details><summary>Answer</summary>
-
-**D. Transplacental antibody in newborn** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q301 — Newborn care corner is present in
-
-Newborn care corner is present in ?
-
-- A. NICU
-- B. OPD
-- C. Labour room
-- D. Wards side room
-
-<details><summary>Answer</summary>
-
-**C. Labour room** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q302 — Hemoglobin with zeta 2 and gamma
-
-Hemoglobin with zeta 2 and gamma 2 chains are seen in which of the following
-
-- A. Gower I
-- B. Gower II
-- C. Portland
-- D. Fetal Gb
-
-<details><summary>Answer</summary>
-
-**C. Portland** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q303 — Which of the following precancerous conditions
-
-Which of the following precancerous conditions if treated would not lead to cancer
-
-- A. Cervical intraepithelial Neoplasia
-- B. Ductal carcinoma in situ of breast
-- C. Lobular Carcinoma in situ of breast
-- D. Vaginal intraepithelial Neoplasia
-
-<details><summary>Answer</summary>
-
-**A. Cervical intraepithelial Neoplasia** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q304 — The fetal circulation changes to normal
-
-The fetal circulation changes to normal circulation at birth with
-
-- A. Closure of patent ductus arteriosus
-- B. Closure of ductus venosus
-- C. Increased activity of right Ventricle
-- D. Opening of fossa Ovalis
-
-<details><summary>Answer</summary>
-
-**A. Closure of patent ductus arteriosus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q305 — Which of the following is not
-
-Which of the following is not a cause of neonatal anaemia?
-
-- A. Subgaleal Hemorrhage
-- B. Abruptio placentae
-- C. Diamond Blackfan syndeome
-- D. Wilson's Disease
-
-<details><summary>Answer</summary>
-
-**D. Wilson's Disease** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q306 — Most common antigen involved in erythroblastosis
-
-Most common antigen involved in erythroblastosis fetalis is
-
-- A. C antigen in Rh group
-- B. D antigen in Rh group
-- C. E antigen in Rh group
-- D. Duffy antigen
-
-<details><summary>Answer</summary>
-
-**B. D antigen in Rh group** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q307 — Further investigation is essential in a
-
-Further investigation is essential in a newborn with which condition?
-
-- A. Erythema toxicum
-- B. Vaginal bleed
-- C. Subconjunctival hemorrhage
-- D. Lens opacity
-
-<details><summary>Answer</summary>
-
-**D. Lens opacity** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q308 — Most common cause of ca4ral tunnel
-
-Most common cause of ca4ral tunnel syndrome is ?
-
-- A. Pregnancy
-- B. Idiopathic
-- C. Alcoholism
-- D. Occupational-Excessive use of vibratory instruments
-
-<details><summary>Answer</summary>
-
-**B. Idiopathic** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q309 — When fetus is at station 2
-
-When fetus is at station +2 & fetal skull reaches pelvic floor, which of the following is true
-
-- A. Forceps can be applied
-- B. Best time to give episiotomy
-- C. Called as crowning
-- D. May lead to deep transverse arrest
-
-<details><summary>Answer</summary>
-
-**A. Forceps can be applied** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q310 — In Medical termination of pregnancy, according
-
-In Medical termination of pregnancy, according to FDA, Misoprostol is given after how many hours of Mifepristone?
-
-- A. 24 hours
-- B. 48 hours
-- C. 72 hours
-- D. 96 hours
-
-<details><summary>Answer</summary>
-
-**B. 48 hours** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q311 — Twin pregnancy of the same age
-
-Twin pregnancy of the same age and sex rules out ?
-
-- A. Superfetation
-- B. Maternal twins
-- C. Superfecundation
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**A. Superfetation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q312 — Propulsive stage in labour in multipara
-
-Propulsive stage in labour in multipara
-
-- A. 10 minutes
-- B. 20 minutes
-- C. 40 minutes
-- D. 1 hour
-
-<details><summary>Answer</summary>
-
-**B. 20 minutes** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q313 — During pregnancy increased size of pituitary
-
-During pregnancy increased size of pituitary is caused by increased size of cells which secrete ?
-
-- A. Growth hormone
-- B. Prolactin
-- C. ACTH
-- D. TSH
-
-<details><summary>Answer</summary>
-
-**B. Prolactin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q314 — Therapeutic use of folic acid is
-
-Therapeutic use of folic acid is
-
-- A. Previous pregnancy with child having neural tube defect
-- B. Megaloblastic anaemia
-- C. Hemoglobinopathies
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**B. Megaloblastic anaemia** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q315 — Cardiac output in pregnancy increases from
-
-Cardiac output in pregnancy increases from which week of gestation
-
-- A. 5 weeks
-- B. 15 weeks
-- C. 25 weeks
-- D. 35 weeks
-
-<details><summary>Answer</summary>
-
-**A. 5 weeks** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q316 — Stroke volume increases in pregnancy by
-
-Stroke volume increases in pregnancy by
-
-- A. 20%
-- B. 25%
-- C. 40%
-- D. 45%
-
-<details><summary>Answer</summary>
-
-**B. 25%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q317 — Oxygen consumption increases in pregnancy by
-
-Oxygen consumption increases in pregnancy by
-
-- A. 10%
-- B. 20%
-- C. 30%
-- D. 40%
-
-<details><summary>Answer</summary>
-
-**B. 20%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q318 — Which of the following about abdominal
-
-Which of the following about abdominal pregnancy is true?
-
-- A. Primary abdominal pregnancy is more common
-- B. If placenta is densely adhered, it should be separated alongwith
-- C. Around 50% of the fetus reach full term and survive
-- D. If placenta is left behind, infection can occur
-
-<details><summary>Answer</summary>
-
-**D. If placenta is left behind, infection can occur** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q319 — Which of the following is not
-
-Which of the following is not a probable sign of pregnancy
-
-- A. Jacquemier's sign
-- B. Dalrymple sign
-- C. Hegar's sign
-- D. Palmer's sign
-
-<details><summary>Answer</summary>
-
-**B. Dalrymple sign** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q320 — Which of the following ovarian tumor
-
-Which of the following ovarian tumor is most prone to undergo torsion during pregnancy :
-
-- A. Serous cystadenoma
-- B. Mucinous cystadenoma
-- C. Dermoid cyst
-- D. Theca lutein cyst
-
-<details><summary>Answer</summary>
-
-**C. Dermoid cyst** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q321 — What is the preferred treatment of
-
-What is the preferred treatment of complete prolapse in a female with completed family?
-
-- A. Sling surgery
-- B. Vaginal hysterectomy
-- C. Le Forte's repair
-- D. Pessary
-
-<details><summary>Answer</summary>
-
-**B. Vaginal hysterectomy** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q322 — In MRKH syndrome, which among the
-
-In MRKH syndrome, which among the following is absent?
-
-- A. Vagina
-- B. Breast development
-- C. Pubic hair development
-- D. Testes
-
-<details><summary>Answer</summary>
-
-**D. Testes** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q323 — During which gestational age is peak
-
-During which gestational age is peak serum HCG levels attained ?
-
-- A. 7-9 weeks
-- B. 11-13 weeks
-- C. 20 weeks
-- D. 25 weeks
-
-<details><summary>Answer</summary>
-
-**A. 7-9 weeks** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q324 — The role of human placental lactogen
-
-The role of human placental lactogen is :
-
-- A. Stimulate milk production
-- B. Fetal breast development
-- C. Growth of fetus
-- D. Endocrine regulation
-
-<details><summary>Answer</summary>
-
-**C. Growth of fetus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q325 — Patient with NTD, dose of folic
-
-Patient with NTD, dose of folic acid in next pregnancy
-
-- A. 0.5 mg
-- B. 1 mg
-- C. 2 mg
-- D. 4 mg
-
-<details><summary>Answer</summary>
-
-**D. 4 mg** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q326 — Absolute contraindication for IUD (Intra Uterine
-
-Absolute contraindication for IUD (Intra Uterine Contraceptive Device) are all except ?
-
-- A. Pregnancy
-- B. Undiagnosed vaginal bleeding
-- C. Pelvic inflammatory disease
-- D. Uterine malformation
-
-<details><summary>Answer</summary>
-
-**D. Uterine malformation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q327 — Number of stem villi at term
-
-Number of stem villi at term in human placenta is
-
-- A. 60
-- B. 120
-- C. 240
-- D. 480
-
-<details><summary>Answer</summary>
-
-**A. 60** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q328 — Uterus is receptive for implantation for
-
-Uterus is receptive for implantation for how many days after fertilization -
-
-- A. 6 days
-- B. 12 days
-- C. 6 weeks
-- D. 12 weeks
-
-<details><summary>Answer</summary>
-
-**D. 12 weeks** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q329 — Human placenta is
-
-Human placenta is ?
-
-- A. Discoid
-- B. Hemochorial
-- C. Deciduate
-- D. All the above
-
-<details><summary>Answer</summary>
-
-**D. All the above** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q330 — All are true about uteroplacental circulation
-
-All are true about uteroplacental circulation except
-
-- A. Blood in the intervillous space is completely replaced 3 - 4
-- B. The villi depend on the maternal blood for their nutrition
-- C. A mature placenta has 150 ml of blood in the villi system and
-- D. Intervillous blood flow at term is 500 - 600 ml per minute
-
-<details><summary>Answer</summary>
-
-**C. A mature placenta has 150 ml of blood in the villi system and** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q331 — Which is increased in premature ovarian
-
-Which is increased in premature ovarian failure :
-
-- A. Sr. Inhibin
-- B. Sr. FSH
-- C. Sr. Estradiol
-- D. Both A and B
-
-<details><summary>Answer</summary>
-
-**B. Sr. FSH** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q332 — All of the following are markers
-
-All of the following are markers of ovarian reserve except -
-
-- A. Inhibin A
-- B. Estradiol concentration
-- C. Inhibin B
-- D. Ovarian volume
-
-<details><summary>Answer</summary>
-
-**A. Inhibin A** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q333 — Most common site involved in genital
-
-Most common site involved in genital TB -
-
-- A. Fallopian tubes
-- B. Endometrium
-- C. Ovaries
-- D. Vulvo - vaginal part
-
-<details><summary>Answer</summary>
-
-**A. Fallopian tubes** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q334 — Which is not a side effect
-
-Which is not a side effect of POP [Progestin only pill]
-
-- A. Ovarian cysts
-- B. Venous thromboembolism
-- C. Increased risk of diabetes mellitus
-- D. Ectopic pregnancy
-
-<details><summary>Answer</summary>
-
-**B. Venous thromboembolism** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q335 — Maternal age is not associated with
-
-Maternal age is not associated with -
-
-- A. Preterm labour
-- B. Post maturity
-- C. Aneuploidy
-- D. Hydatidiform mole
-
-<details><summary>Answer</summary>
-
-**A. Preterm labour** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q336 — Cause of unilateral dysmenorrhea
-
-Cause of unilateral dysmenorrhea :
-
-- A. One horn of malformed uterus
-- B. Endometriosis with unilateral distribution
-- C. Small fibroid at the utero tubal junction
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q337 — Management of tubal ectopic pregnancy of
-
-Management of tubal ectopic pregnancy of 2.5 x 3 cm is -
-
-- A. Medical management
-- B. Salpingectomy
-- C. According to presence of fetal cardiac activity
-- D. Observation
-
-<details><summary>Answer</summary>
-
-**C. According to presence of fetal cardiac activity** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q338 — Dose of dexamethasone for fetal lung
-
-Dose of dexamethasone for fetal lung maturity is -
-
-- A. 6 mg
-- B. 12 mg
-- C. 18 mg
-- D. 24 mg
-
-<details><summary>Answer</summary>
-
-**A. 6 mg** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q339 — Management of a patient with complete
-
-Management of a patient with complete placenta previa at 38 weeks gestation without any vaginal bleeding is -
-
-- A. Expectant management
-- B. Macafee and Johnson regimen
-- C. Elective caesarean section
-- D. Emergency caesarean section
-
-<details><summary>Answer</summary>
-
-**C. Elective caesarean section** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q340 — What is the stage of carcinoma
-
-What is the stage of carcinoma cervix involving body of uterus -
-
-- A. Stage I
-- B. Stage II
-- C. Stage III
-- D. Stage IV
-
-<details><summary>Answer</summary>
-
-**A. Stage I** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q341 — Most common cause of death in
-
-Most common cause of death in cervical cancer is -
-
-- A. Renal failure
-- B. Infection
-- C. Haemorrhage
-- D. Metastasis to vital organs
-
-<details><summary>Answer</summary>
-
-**A. Renal failure** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q342 — Treatment options for CIN III include
-
-Treatment options for CIN III include all of the following except -
-
-- A. LLETZ
-- B. Conization
-- C. Hysterectomy
-- D. Wertheim's hysterectomy
-
-<details><summary>Answer</summary>
-
-**D. Wertheim's hysterectomy** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q343 — year old woman presents with abnormal
-
-A patient (age not captured in source) who is a year old woman presents with abnormal cervical cytology on PAP smear suggestive of CIN III (HSIL). The next best step in management is:
-
-- A. Hysterectomy
-- B. Colposcopy and LEEP
-- C. Colposcopy and Cryotherapy
-- D. Conization
-
-<details><summary>Answer</summary>
-
-**B. Colposcopy and LEEP** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q344 — Funneling in cervicogram is seen in
-
-Funneling in cervicogram is seen in -
-
-- A. In labour
-- B. Cervical incompetence
-- C. Cervical ectopic
-- D. During TVS
-
-<details><summary>Answer</summary>
-
-**B. Cervical incompetence** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q345 — Vasa previa is associated with -
-
-Vasa previa is associated with -
-
-- A. Marginal placenta
-- B. Velamentous placenta
-- C. Battledore
-- D. Placenta previa
-
-<details><summary>Answer</summary>
-
-**B. Velamentous placenta** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q346 — First symptom invulval cancer is-
-
-First symptom invulval cancer is-
-
-- A. Pain
-- B. Pruritis
-- C. Ulcer
-- D. Blood discharge
-
-<details><summary>Answer</summary>
-
-**B. Pruritis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q347 — Uterine height is greater than gestational
-
-Uterine height is greater than gestational age of the patient in a case of all except -
-
-- A. Fibroid uterus
-- B. IUGR
-- C. Wrong dates
-- D. Polyhydramnios
-
-<details><summary>Answer</summary>
-
-**B. IUGR** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q348 — Pregnancy is contraindicated in which cardiac
-
-Pregnancy is contraindicated in which cardiac disease -
-
-- A. Mitral stenosis
-- B. Primary pulmonary hypertension
-- C. VSD
-- D. Mitral regurgitation
-
-<details><summary>Answer</summary>
-
-**B. Primary pulmonary hypertension** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q349 — Following delivery, tear involves perineum, extern
-
-Following delivery, tear involves perineum, external anal spincter with intact mucosa, grade of tear is -
-
-- A. First degree
-- B. Second degree
-- C. Third degree
-- D. Fourth degree
-
-<details><summary>Answer</summary>
-
-**C. Third degree** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q350 — False about chorionic vinous sampling -
-
-False about chorionic vinous sampling -
-
-- A. Is used for prental genetic diagnosis
-- B. Is performed only in second trimester of pregnancy
-- C. Villi collected from chorion frondosum
-- D. Can cause limb deformities
-
-<details><summary>Answer</summary>
-
-**B. Is performed only in second trimester of pregnancy** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q351 — year old primigravida with 32 weeks
-
-A patient (age not captured in source) who is a year old primigravida with 32 weeks of gestation comes with complain of thin, frothy, profuse discharge through the vagina since
-
-- A. PPROM
-- B. Trichomoniasis
-- C. Normal finding
-- D. Candidiasis
-
-<details><summary>Answer</summary>
-
-**B. Trichomoniasis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q352 — Poor prognostic factor for hydatidiform mole
-
-Poor prognostic factor for hydatidiform mole is -
-
-- A. Prior molar pregnancy
-- B. Metastasis to lung
-- C. No prior chemotherapy
-- D. WHO score > 8
-
-<details><summary>Answer</summary>
-
-**D. WHO score > 8** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q353 — Le Fort repair is done for
-
-Le Fort repair is done for
-
-- A. Uterovaginal descent
-- B. Vault prolapse
-- C. VVF
-- D. RVF
-
-<details><summary>Answer</summary>
-
-**A. Uterovaginal descent** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q354 — Bacteria responsible for ectopic pregnancy is
-
-Bacteria responsible for ectopic pregnancy is
-
-- A. Staphylococcus
-- B. Chlamydia
-- C. Peptostreptococcus
-- D. Trichomonas vaginalis
-
-<details><summary>Answer</summary>
-
-**B. Chlamydia** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q355 — Most common site of Implantation of
-
-Most common site of Implantation of tubal pregnancy is :
-
-- A. Interstitial portion of fallopian tube
-- B. Isthmus
-- C. Ampulla
-- D. Infundibulum
-
-<details><summary>Answer</summary>
-
-**C. Ampulla** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q356 — In which part of fallopian tube
-
-In which part of fallopian tube ectopic pregnancy will have longest survival?
-
-- A. Isthmus
-- B. Ampulla
-- C. Cornua
-- D. Interstitium
-
-<details><summary>Answer</summary>
-
-**D. Interstitium** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q357 — Which of the following is true
-
-Which of the following is true about ovarian ectopic pregnancy?
-
-- A. Studdiford criteria is used for diagnosis
-- B. There should be no rent on the ovary or tube
-- C. Absence of evidence of pregnancy at any other site than
-- D. Conservative surgery can be done if diagnosed early
-
-<details><summary>Answer</summary>
-
-**D. Conservative surgery can be done if diagnosed early** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q358 — Plane of cleavage during placental separation
-
-Plane of cleavage during placental separation runs through
-
-- A. Between compact and spongy layer of decidua basalis
-- B. Between decidua basalis and chorion frondosum
-- C. Through deep spongy layer of decidua basalis
-- D. Between layers of chorion frondosum
-
-<details><summary>Answer</summary>
-
-**C. Through deep spongy layer of decidua basalis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q359 — Amsel criteria is for
-
-Amsel criteria is for
-
-- A. Bacterial vaginosis
-- B. Antiphospholipid antibody syndrome
-- C. Ovarian ectopic pregnancy
-- D. HELLP Syndrome
-
-<details><summary>Answer</summary>
-
-**A. Bacterial vaginosis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q360 — Ketamine can be used in all
-
-Ketamine can be used in all of the situations except
-
-- A. Status asthamaticus
-- B. For analgesia & sedation
-- C. Obstetric hemorrhage
-- D. Ischemic heart disease
-
-<details><summary>Answer</summary>
-
-**D. Ischemic heart disease** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q361 — Occulomotor nerve supplies all extraocular muscles *(2015)*
-
-Occulomotor nerve supplies all extraocular muscles except ?
-
-- A. Superior rectus
-- B. Inferior rectus
-- C. Lateral rectus
-- D. Medial rectus
-
-<details><summary>Answer</summary>
-
-**C. Lateral rectus**
-
-</details>
-
----
-
-### Q362 — nucleus is not seen in floor *(2015)*
-
-Which nucleus is not seen in floor of the 4th ventricle -
-
-- A. Abducens nucleus
-- B. Facial nucleus
-- C. Dorsal vagal nucleus
-- D. Hypoglossal nucleus
-
-<details><summary>Answer</summary>
-
-**B. Facial nucleus**
-
-</details>
-
----
-
-### Q363 — Malleus and incus are derived from *(2015)*
-
-Malleus and incus are derived from ?
-
-- A. 1st Arch
-- B. 2nd Arch
-- C. 3rd Arch
-- D. 4th Arch
-
-<details><summary>Answer</summary>
-
-**A. 1st Arch**
-
-</details>
-
----
-
-### Q364 — Transport through pores in cell members *(2015)*
-
-Transport through pores in cell members is ?
-
-- A. Active transpert
-- B. Transcytosis
-- C. Diffusion
-- D. Endocytosis
-
-<details><summary>Answer</summary>
-
-**C. Diffusion**
-
-</details>
-
----
-
-### Q365 — Vibration sense is detected by *(2015)*
-
-Vibration sense is detected by ?
-
-- A. Nociceptors
-- B. Deep receptors
-- C. Superficial receptors
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**D. None of the above**
-
-</details>
-
----
-
-### Q366 — Neuropraxia is *(2015)*
-
-Neuropraxia is ?
-
-- A. Damage to axon
-- B. Damage to endoneurium
-- C. Damage to epineurium
-- D. No Structural damage
-
-<details><summary>Answer</summary>
-
-**D. No Structural damage**
-
-</details>
-
----
-
-### Q367 — In zero gravity VQ ratio is *(2015)*
-
-In zero gravity V/Q ratio is ?
-
-- A. 0.8
-- B. 1
-- C. 2
-- D. 3
-
-<details><summary>Answer</summary>
-
-**B. 1**
-
-</details>
-
----
-
-### Q368 — Blood pressure is dependant on *(2015)*
-
-Blood pressure is dependant on?
-
-- A. Cardiac output
-- B. Heart rate
-- C. Stroke volume
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above**
-
-</details>
-
----
-
-
-### Q369 — Major central nucleus of sympathetic system
-
-Major central nucleus of sympathetic system is
-
-- A. Nucleus ambiguus
-- B. Nucleus tractus solitarius
-- C. Edinger-Westphal nucleus
-- D. Hypothalamus
-
-<details><summary>Answer</summary>
-
-**D. Hypothalamus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q370 — What is attached to the superior
-
-What is attached to the superior nuchal line?
-
-- A. Trapezius
-- B. Scalenus anticus
-- C. Coracobrachialis
-- D. Biceps Brachii
-
-<details><summary>Answer</summary>
-
-**A. Trapezius** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q371 — Dangerous area of scalp is -
-
-Dangerous area of scalp is -
-
-- A. Superficial facia
-- B. Aponeurosis
-- C. Subaponeurotic tissue
-- D. Pericranium
-
-<details><summary>Answer</summary>
-
-**C. Subaponeurotic tissue** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q372 — Which nerve is preserved in dissecting
-
-Which nerve is preserved in dissecting the superficial and deep lobes of parotid gland -
-
-- A. Glossopharyngeal
-- B. Hypoglossal
-- C. Lingual
-- D. Facial
-
-<details><summary>Answer</summary>
-
-**D. Facial** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q373 — Which intrinsic ocular muscle is supplied
-
-Which intrinsic ocular muscle is supplied by parasympathetic innervation -
-
-- A. Superior rectus
-- B. Superior oblique
-- C. Constrictor pupillae
-- D. Dilator pupillae
-
-<details><summary>Answer</summary>
-
-**C. Constrictor pupillae** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q374 — Lips does not drain into which
-
-Lips does not drain into which group of lymph nodes?
-
-- A. Submandibular nodes
-- B. Sublingual nodes
-- C. Preauricular parotid
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. Preauricular parotid** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q375 — Postganglionic fibres to parotid gland is
-
-Postganglionic fibres to parotid gland is supplied by?
-
-- A. Glossopharyngeal nerve
-- B. Auriculotemporal nerve
-- C. Both of the above
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Auriculotemporal nerve** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q376 — Features of facial nerve palsy are
-
-Features of facial nerve palsy are all except -
-
-- A. Loss of salivation
-- B. Loss of lacrimation
-- C. Facial muscle paralysis
-- D. Loss of taste sensation from posterior tongue
-
-<details><summary>Answer</summary>
-
-**D. Loss of taste sensation from posterior tongue** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q377 — Nasopharynx is lined by which epithelium
-
-Nasopharynx is lined by which epithelium ?
-
-- A. Stratified squamous nonkerationized
-- B. Stratified squamous keratinized
-- C. Ciliated columnar
-- D. Cuboidal
-
-<details><summary>Answer</summary>
-
-**C. Ciliated columnar** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q378 — Greater petrosal nerve is formed from
-
-Greater petrosal nerve is formed from ?
-
-- A. Geniculate ganglion
-- B. Plexus around ICA
-- C. Plexus around middle meningeal artery
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**A. Geniculate ganglion** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q379 — Nerve 3td ventricle is the cavity
-
-Nerve 3td ventricle is the cavity of -
-
-- A. Mesencephalon
-- B. Rhombencephalon
-- C. Diencephalon
-- D. Telencephalon
-
-<details><summary>Answer</summary>
-
-**C. Diencephalon** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q380 — Occulomotor nucleus is located in -
-
-Occulomotor nucleus is located in -
-
-- A. Forebrain
-- B. Midbrain
-- C. Pons
-- D. Medulla
-
-<details><summary>Answer</summary>
-
-**B. Midbrain** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q381 — Major supply of medial surface of
-
-Major supply of medial surface of cerebral hemisphere
-
-- A. Anterior cerebral artery
-- B. Posterior cerebral artery
-- C. Middle cerebral artery
-- D. Posterior inferior cerebellar artery
-
-<details><summary>Answer</summary>
-
-**A. Anterior cerebral artery** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q382 — Ventral tegmental decussation in cerebral peduncle
-
-Ventral tegmental decussation in cerebral peduncle is due to -
-
-- A. Tectospinal tract
-- B. Tectobulbar tract
-- C. Vestibulospinal tract
-- D. Rubrospinal tract
-
-<details><summary>Answer</summary>
-
-**D. Rubrospinal tract** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q383 — Incudomalleolar joint is a
-
-Incudomalleolar joint is a ?
-
-- A. Ellipsoid joint
-- B. Pivot joint
-- C. Hinge joint
-- D. Saddle joint
-
-<details><summary>Answer</summary>
-
-**D. Saddle joint** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q384 — Hiltons law is related to -
-
-Hilton's law is related to -
-
-- A. Venous drainage
-- B. Blood supply
-- C. Nerve innervation
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**C. Nerve innervation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q385 — Spermatogenesis begins at -
-
-Spermatogenesis begins at -
-
-- A. Birth
-- B. 5 years
-- C. Puberty
-- D. 18 years
-
-<details><summary>Answer</summary>
-
-**C. Puberty** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q386 — Which is not a stage of
-
-Which is not a stage of prophase -
-
-- A. Diakinesis
-- B. Leptotene
-- C. Zygotene
-- D. Arachytene
-
-<details><summary>Answer</summary>
-
-**D. Arachytene** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q387 — Fossa ovalis is a remnant of
-
-Fossa ovalis is a remnant of -
-
-- A. Septum primum
-- B. Septum secundum
-- C. Septum spurium
-- D. AV cushion
-
-<details><summary>Answer</summary>
-
-**A. Septum primum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q388 — Nephron is derived from
-
-Nephron is derived from ?
-
-- A. Ureteric bud
-- B. Mesonephric duct
-- C. Metanephros
-- D. Mesonephros
-
-<details><summary>Answer</summary>
-
-**C. Metanephros** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q389 — Fibrous stroma of liver is derived
-
-Fibrous stroma of liver is derived from -
-
-- A. Foregut endoderm
-- B. Midgut endoderm
-- C. Hindgut endoderm
-- D. Septum transversum
-
-<details><summary>Answer</summary>
-
-**D. Septum transversum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q390 — True about Branchial cyst is
-
-True about Branchial cyst is:
-
-- A. Cysts are more common than sinuses
-- B. Mostly arises from 2nd branchial system
-- C. Causes dysphagia and hoarseness
-- D. Sinus should always be operated
-
-<details><summary>Answer</summary>
-
-**B. Mostly arises from 2nd branchial system** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q391 — True about notochord are all except
-
-True about notochord are all except?
-
-- A. Defines axis of embryo
-- B. Serves as primary inductor
-- C. Derived from hypoblast
-- D. Remains as nucleus pulposus
-
-<details><summary>Answer</summary>
-
-**C. Derived from hypoblast** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q392 — Structures derived from the neural crest
-
-Structures derived from the neural crest are?
-
-- A. Pia
-- B. Dental papillae
-- C. Adrenal medulla
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q393 — Heart tube is formed at -
-
-Heart tube is formed at -
-
-- A. 3 weeks
-- B. 6 weeks
-- C. 10 weeks
-- D. 12 weeks
-
-<details><summary>Answer</summary>
-
-**A. 3 weeks** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q394 — Heart tube is formed in
-
-Heart tube is formed in
-
-- A. Hyaluronic acid secreted by endocardium
-- B. Chondroitin sulfate secreted by endocardium
-- C. Hyaluronic acid secreted by myocardium
-- D. Chondroitin sulfate secreted by myocardium
-
-<details><summary>Answer</summary>
-
-**C. Hyaluronic acid secreted by myocardium** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q395 — Which of the following is a
-
-Which of the following is a derivative of paramesonephric duct in males ?
-
-- A. Trigone of bladder
-- B. Paraphoron
-- C. Prostatic utricle
-- D. Gartner's duct
-
-<details><summary>Answer</summary>
-
-**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q396 — Myelination in peripheral nervous system is
-
-Myelination in peripheral nervous system is done by
-
-- A. Astrocytes
-- B. Oligodendrocytes
-- C. Ependymal cells
-- D. Schwann cells
-
-<details><summary>Answer</summary>
-
-**D. Schwann cells** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q397 — False about limbus fossa ovalis -
-
-False about limbus fossa ovalis -
-
-- A. Situated above fossa ovalis
-- B. In right atrium
-- C. Derived from septum primum
-- D. Also called Annulus ovalis
-
-<details><summary>Answer</summary>
-
-**C. Derived from septum primum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q398 — Sertoli cells are derived from -
-
-Sertoli cells are derived from -
-
-- A. Genital tubercle
-- B. Genital swelling
-- C. Primordial germ cells
-- D. Germinal epithelium
-
-<details><summary>Answer</summary>
-
-**D. Germinal epithelium** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q399 — Prolactin secreting gland develops from -
-
-Prolactin secreting gland develops from -
-
-- A. Infundibulum
-- B. Rathke's pouch
-- C. Tuber cinereum
-- D. 3rd ventricle
-
-<details><summary>Answer</summary>
-
-**B. Rathke's pouch** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q400 — Posterior cardinal vein develops into -
-
-Posterior cardinal vein develops into -
-
-- A. Common iliac vein
-- B. Superior vena cava
-- C. Internal jugular vein
-- D. External jugular vein
-
-<details><summary>Answer</summary>
-
-**A. Common iliac vein** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q401 — Superior vena cava develops from -
-
-Superior vena cava develops from -
-
-- A. Right anterior cardinal vein
-- B. Left anterior cardinal vein
-- C. Left common cardinal vein
-- D. Right subcardinal vein
-
-<details><summary>Answer</summary>
-
-**A. Right anterior cardinal vein** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q402 — Structure developing from Mullerian duct in
-
-Structure developing from Mullerian duct in males?
-
-- A. Seminal vesicle
-- B. Epididymis
-- C. Prostatic utricle
-- D. Ureter
-
-<details><summary>Answer</summary>
-
-**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q403 — Optic cup is derived from
-
-Optic cup is derived from ?
-
-- A. Neural ectoderm
-- B. Surface ectoderm
-- C. Mesoderm
-- D. Neural crest
-
-<details><summary>Answer</summary>
-
-**A. Neural ectoderm** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q404 — Which of the following is a
-
-Which of the following is a derivative of Rathke's pouch -
-
-- A. Pars tuberalis
-- B. Neurohypophysis
-- C. Posterior pituitary
-- D. Pineal gland
-
-<details><summary>Answer</summary>
-
-**A. Pars tuberalis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q405 — Which of glial cell is mesodermal
-
-Which of glial cell is mesodermal in origin -
-
-- A. Macroglial cells
-- B. Microglial cells
-- C. Oligodendrocytes
-- D. Ependymal cells
-
-<details><summary>Answer</summary>
-
-**B. Microglial cells** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q406 — Trigone of bladder is derived from
-
-Trigone of bladder is derived from ?
-
-- A. Mesonephric duct
-- B. Paramesonephric duct
-- C. Absorbed anal membrane
-- D. Mullerian duct
-
-<details><summary>Answer</summary>
-
-**A. Mesonephric duct** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q407 — Pisiform articulates with -
-
-Pisiform articulates with -
-
-- A. Scaphoid
-- B. Trapezium
-- C. Triquetral
-- D. Lunate
-
-<details><summary>Answer</summary>
-
-**C. Triquetral** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q408 — Spleniculi are seen most commonly in
-
-Spleniculi are seen most commonly in:
-
-- A. Colon
-- B. Hilum
-- C. Liver
-- D. Lungs
-
-<details><summary>Answer</summary>
-
-**B. Hilum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q409 — Which of the following is not
-
-Which of the following is not a derivative of foregut?
-
-- A. Cecum
-- B. duodenum
-- C. Liver
-- D. Pancreas
-
-<details><summary>Answer</summary>
-
-**A. Cecum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q410 — Most important factor in transport across
-
-Most important factor in transport across
-
-- A. Charge of particle
-- B. Membrane thickness
-- C. Size of particle
-- D. Concentration gradient
-
-<details><summary>Answer</summary>
-
-**D. Concentration gradient** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q411 — Percentage of total body water to
-
-Percentage of total body water to body weight at birth?
-
-- A. 90%
-- B. 80%
-- C. 60%
-- D. 50%
-
-<details><summary>Answer</summary>
-
-**B. 80%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q412 — Epithelial sodium channels has
-
-Epithelial sodium channels has ?
-
-- A. 2a, 213
-- B. la, i(3
-- C. 2a, 213, 2y
-- D. 2a, 113, 2y
-
-<details><summary>Answer</summary>
-
-**D. 2a, 113, 2y** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q413 — pH of intracellular fluid is
-
-pH of intracellular fluid is ?
-
-- A. Slightly less than ECF
-- B. Slightly more than ECF
-- C. Same as ECF
-- D. Highly alkaline
-
-<details><summary>Answer</summary>
-
-**A. Slightly less than ECF** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q414 — Increased in plasma viscosity is maximally
-
-Increased in plasma viscosity is maximally caused by which plasma protein?
-
-- A. Fibrinogen
-- B. Albumin
-- C. Globulin
-- D. All have equal effect
-
-<details><summary>Answer</summary>
-
-**C. Globulin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q415 — Oncotic pressure is contributed by
-
-Oncotic pressure is contributed by?
-
-- A. Sodium
-- B. Chloride
-- C. Potassium
-- D. Albumin
-
-<details><summary>Answer</summary>
-
-**D. Albumin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q416 — Motor evoked potential assess
-
-Motor evoked potential assess ?
-
-- A. Peripheral motor pathways
-- B. Central motor pathways
-- C. Both of the above
-- D. Regeneration in muscles
-
-<details><summary>Answer</summary>
-
-**B. Central motor pathways** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q417 — True about visual cycle cascade
-
-True about visual cycle cascade ?
-
-- A. Associated with conformational change in opsin
-- B. Light causes isomerization of all-trans-retinol to 11 Cis-retinol
-- C. Retinol [alcohol] is involved
-- D. All are true
-
-<details><summary>Answer</summary>
-
-**A. Associated with conformational change in opsin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q418 — True about smooth muscle contraction
-
-True about smooth muscle contraction ?
-
-- A. Troponin plays an important role
-- B. Calmodulin has no role
-- C. Phosphorylation of myosin
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**C. Phosphorylation of myosin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q419 — Increase in Duration of expiration is
-
-Increase in Duration of expiration is due to?
-
-- A. J-reflex
-- B. Head's paradoxical reflex
-- C. Hering-Breure reflex
-- D. Proprioceptors
-
-<details><summary>Answer</summary>
-
-**C. Hering-Breure reflex** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q420 — Wallerian degeneration is for
-
-Wallerian degeneration is for ?
-
-- A. Nerve degeneration
-- B. Muscle degeneration
-- C. Nerve regeneration
-- D. Muscle regeneration
-
-<details><summary>Answer</summary>
-
-**A. Nerve degeneration** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q421 — Withdrawal reflex is also known as
-
-Withdrawal reflex is also known as ?
-
-- A. Extension reflex
-- B. Stretch reflex
-- C. Golgitendon reflex
-- D. Flexor reflex
-
-<details><summary>Answer</summary>
-
-**D. Flexor reflex** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q422 — Tetany in muscle occurs inspite of
-
-Tetany in muscle occurs inspite of normal serum Ca" level. Which ion is responsible ?
-
-- A. Mg2+
-- B. Ca2+
-- C. K+
-- D. Na+
-
-<details><summary>Answer</summary>
-
-**B. Ca2+** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q423 — Unspecified pain pathway is for
-
-Unspecified pain pathway is for?
-
-- A. Neuropathic pain
-- B. Trauma
-- C. Visceral pain
-- D. Psychogenic pain
-
-<details><summary>Answer</summary>
-
-**D. Psychogenic pain** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q424 — Pain is carried by which nerve
-
-Pain is carried by which nerve fibers?
-
-- A. Act, A13
-- B. Act, Ay
-- C. AS, C
-- D. Ay, C
-
-<details><summary>Answer</summary>
-
-**A. Act, A13** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q425 — Vibration sense is detected by which
-
-Vibration sense is detected by which type of receptor?
-
-- A. Merkel's disc
-- B. Ruffini's end organ
-- C. Paccinian corpuscle
-- D. Meissner's corpuscle
-
-<details><summary>Answer</summary>
-
-**C. Paccinian corpuscle** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q426 — Vibrations are detected by which types
-
-Vibrations are detected by which types of receptors?
-
-- A. Slowly adapting
-- B. Rapidly adapting
-- C. Non-adapting
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Rapidly adapting** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q427 — Which of the following receptor is
-
-Which of the following receptor is stimulated by sustained pressure?
-
-- A. Ruffini's end organ
-- B. Merkel's disc
-- C. Hair cells
-- D. Meissner Corpuscles
-
-<details><summary>Answer</summary>
-
-**A. Ruffini's end organ** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q428 — Prosopagnosia is characterized by
-
-"Prosopagnosia" is characterized by :
-
-- A. Inability to read
-- B. Inability to identify faces
-- C. Inability to write
-- D. Inability to speak
-
-<details><summary>Answer</summary>
-
-**B. Inability to identify faces** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q429 — Brocas area is concerned with
-
-Broca's area is concerned with:
-
-- A. Word formation
-- B. Comprehension
-- C. Repetition
-- D. Reading
-
-<details><summary>Answer</summary>
-
-**A. Word formation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q430 — Broadmans area for motor speech
-
-Broadman's area for motor speech?
-
-- A. Area 1,2,3
-- B. Area 4,6
-- C. Area 28,29
-- D. Area 44
-
-<details><summary>Answer</summary>
-
-**D. Area 44** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q431 — Maximum density of muscle spindle is
-
-Maximum density of muscle spindle is found in ?
-
-- A. Calf muscle
-- B. Lumbricals
-- C. Quadrieps muscle
-- D. Triceps
-
-<details><summary>Answer</summary>
-
-**B. Lumbricals** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q432 — Function of epinephirine and norepinephine in
-
-Function of epinephirine and norepinephine in Fight​or-Flight response is ?
-
-- A. Increased blood flow to skin
-- B. Increased blood flow to muscles
-- C. Bronchoconstriction
-- D. Bradycardia
-
-<details><summary>Answer</summary>
-
-**B. Increased blood flow to muscles** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q433 — EPSP is due to
-
-EPSP is due to ?
-
-- A. K' influx
-- B. Na* efflux
-- C. Na* influx
-- D. Ca** influx
-
-<details><summary>Answer</summary>
-
-**C. Na* influx** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q434 — The only excitatory neurons in cerebellar
-
-The only excitatory neurons in cerebellar cortex are?
-
-- A. Purkinje
-- B. Basket
-- C. Golgi
-- D. Granule cells
-
-<details><summary>Answer</summary>
-
-**D. Granule cells** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q435 — Sleep walking is seen in which
-
-Sleep walking is seen in which stage of sleep ?
-
-- A. REM
-- B. Stage 1-2 NREM
-- C. Stage 2-3 NREM
-- D. Stage 3-4 NREM
-
-<details><summary>Answer</summary>
-
-**D. Stage 3-4 NREM** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q436 — Calcium absorption is hampered by
-
-Calcium absorption is hampered by
-
-- A. Protein
-- B. Lactose
-- C. Acid
-- D. Phytates
-
-<details><summary>Answer</summary>
-
-**D. Phytates** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q437 — Suppressor Strip on anterior edge of
-
-Suppressor Strip on anterior edge of pre- central gyrus has following function ?
-
-- A. Increase extensor tone
-- B. Pain perception
-- C. Inhibition of stretch reflex
-- D. Voluntary movement
-
-<details><summary>Answer</summary>
-
-**C. Inhibition of stretch reflex** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q438 — Part of sympathetic system which secrete
-
-Part of sympathetic system which secrete chemical transmitter?
-
-- A. Cardiac ganglion
-- B. Cervical sympathetic chain
-- C. Adrenal medulla
-- D. Thoracic sympathetic chain
-
-<details><summary>Answer</summary>
-
-**C. Adrenal medulla** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q439 — Which of the following has direct
-
-Which of the following has direct innervation from sympathetic system but no parasymputhetic supply?
-
-- A. Heart
-- B. Intestine
-- C. Skin
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Skin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q440 — RMP in smooth muscles
-
-RMP in smooth muscles?
-
-- A. -90 mV
-- B. -70 mV
-- C. -150 mV
-- D. - 40 mV
-
-<details><summary>Answer</summary>
-
-**D. - 40 mV** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q441 — Halden Effect is
-
-Halden Effect is ?
-
-- A. CO2 delivery by increased 02
-- B. 02 delivery by increased CO2
-- C. CO2 delivery by increased CO2
-- D. 0, delivery by increased CO
-
-<details><summary>Answer</summary>
-
-**A. CO2 delivery by increased 02** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q442 — Total surface area of respiratory membrane
-
-Total surface area of respiratory membrane ?
-
-- A. 25 cm'
-- B. 50 cm'
-- C. 25 m2
-- D. 100 m2
-
-<details><summary>Answer</summary>
-
-**D. 100 m2** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q443 — Damage to pnemotaxic center along with
-
-Damage to pnemotaxic center along with vagus nerve causes which type of respiration?
-
-- A. Chyne stoke breathing
-- B. Deep and slow
-- C. Shallow and rapid
-- D. Inspiratory Spasm
-
-<details><summary>Answer</summary>
-
-**D. Inspiratory Spasm** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q444 — Transpulmonary pressure is the difference between
-
-Transpulmonary pressure is the difference between:
-
-- A. The bronchus and atmospheric pressure
-- B. Pressure in alveoli and intrapleural pressure
-- C. Atmosphere and intrapleural pressure
-- D. Atmosphere and intraalveolar pressure
-
-<details><summary>Answer</summary>
-
-**B. Pressure in alveoli and intrapleural pressure** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q445 — Normal transpulmonary pressure during quiet breath
-
-Normal transpulmonary pressure during quiet breathing?
-
-- A. + 8 to +5 cm H20
-- B. - 8 to - 5 cm H20
-- C. 0 to + 1 cm H20
-- D. 0 to -1 cm H20
-
-<details><summary>Answer</summary>
-
-**A. + 8 to +5 cm H20** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q446 — What is the partial pressure of
-
-What is the partial pressure of oxygen at 760mmHg atmospheric pressure?
-
-- A. 76
-- B. 160
-- C. 120
-- D. 130
-
-<details><summary>Answer</summary>
-
-**B. 160** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q447 — What is the partial pressure for
-
-What is the partial pressure for oxygen in the inspired air?
-
-- A. 116 mm Hg
-- B. 158 mm Hg
-- C. 100 mm Hg
-- D. 0.3 mm Hg
-
-<details><summary>Answer</summary>
-
-**B. 158 mm Hg** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q448 — Isocapenic buffering is
-
-Isocapenic buffering is ?
-
-- A. Increcased pCO2 with increased CO2
-- B. Increcased pCO2 with decreased CO,
-- C. Normal pCO, with increased CO2
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. Normal pCO, with increased CO2** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q449 — Vital capacity is measured by
-
-Vital capacity is measured by ?
-
-- A. Plethysmography
-- B. Gas-dilution methed
-- C. Nitrogen washout technique
-- D. Spirometer
-
-<details><summary>Answer</summary>
-
-**D. Spirometer** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q450 — In patients with emphysematous bullae, total
-
-In patients with emphysematous bullae, total lung volume is best determined by?
-
-- A. Spirometry
-- B. Helium dilution method
-- C. Plathysmography
-- D. Any of the above
-
-<details><summary>Answer</summary>
-
-**B. Helium dilution method** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q451 — All are true about compliance of
-
-All are true about compliance of lung except ?
-
-- A. Change in Volume per unit change in pressure
-- B. Total Compliance is 0.2 L/cm
-- C. A measure of distensibility
-- D. Decreased in emphysema
-
-<details><summary>Answer</summary>
-
-**D. Decreased in emphysema** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q452 — Normal respiratory compliance is
-
-Normal respiratory compliance is ?
-
-- A. 200 ml/cm water
-- B. 50 ml/cm water
-- C. 100 ml/cm water
-- D. 150 ml/cm water
-
-<details><summary>Answer</summary>
-
-**A. 200 ml/cm water** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q453 — In relaxation pressure curve, in chronic
-
-In relaxation pressure curve, in chronic smokers at Zero relaxation pressure ?
-
-- A. Lung volume increases
-- B. Lung volume decreases
-- C. No change in lung volume
-- D. Any of the above
-
-<details><summary>Answer</summary>
-
-**A. Lung volume increases** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q454 — Which of the following parameter Indicates
-
-Which of the following parameter Indicates elimination of CO2 from lung ?
-
-- A. Pa02
-- B. pH
-- C. PaCO2
-- D. HCO, level
-
-<details><summary>Answer</summary>
-
-**C. PaCO2** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q455 — Normal02 extraction ratio of tissues
-
-Normal02 extraction ratio of tissues ?
-
-- A. 5%
-- B. 15%
-- C. 25%
-- D. 40%
-
-<details><summary>Answer</summary>
-
-**C. 25%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q456 — Poiseuilles equation states that
-
-Poiseuille's equation states that?
-
-- A. Blood flow is directly proportion to 2nd power of radius
-- B. Blood flow is directly proportiom to 4th power of radius
-- C. Blood flow is inversely proportion to 2nd power of radius
-- D. Blood flow is inversely proportion to 4th power of radius
-
-<details><summary>Answer</summary>
-
-**D. Blood flow is inversely proportion to 4th power of radius** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q457 — Aortic valve closure occurs in which
-
-Aortic valve closure occurs in which part of cardiac cycle?
-
-- A. Beginning of isovolumetric contraction
-- B. Beginning of ventricular ejection
-- C. Beginning of isovolumetric relaxation
-- D. During rapid ventricular filling
-
-<details><summary>Answer</summary>
-
-**B. Beginning of ventricular ejection** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q458 — Role of ion channels on vascular
-
-Role of ion channels on vascular endothelium is ?
-
-- A. Ca+ influx
-- B. K+ efflux
-- C. Na+ influx
-- D. Cl- effux
-
-<details><summary>Answer</summary>
-
-**D. Cl- effux** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q459 — Action Potential in cardiac muscles has
-
-Action Potential in cardiac muscles has how many phases?
-
-- A. 2
-- B. 3
-- C. 4
-- D. 5
-
-<details><summary>Answer</summary>
-
-**D. 5** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q460 — Aortic valve closure corresponds to the
-
-Aortic valve closure corresponds to the beginning of:
-
-- A. Systole
-- B. Parasystole
-- C. Isovolumetric relaxation
-- D. Isovolumetric contraction
-
-<details><summary>Answer</summary>
-
-**C. Isovolumetric relaxation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q461 — Cerebral blood flow is increased by
-
-Cerebral blood flow is increased by ?
-
-- A. Increase in P02
-- B. Increase in PCO2
-- C. Decrease metabolic rate
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**A. Increase in P02** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q462 — ST Segment of ECG corresponds to
-
-ST Segment of ECG corresponds to which phase of action potential ?
-
-- A. Phase 0
-- B. Phase I
-- C. Phase II
-- D. Phase III
-
-<details><summary>Answer</summary>
-
-**C. Phase II** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q463 — ST Segment of ECG Correspords to
-
-ST Segment of ECG Correspords to which phase of action potential ?
-
-- A. Rapid depolarixation
-- B. Rapid repolarizedtion
-- C. Find repolarizetion
-- D. Plateu Phase
-
-<details><summary>Answer</summary>
-
-**D. Plateu Phase** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q464 — Baroreeaptors are located in
-
-Baroreeaptors are located in ?
-
-- A. Tunica media
-- B. Tunica intima
-- C. Tunica adventitia
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Tunica adventitia** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q465 — Baroreceptor are
-
-Baroreceptor are ?
-
-- A. Carotid body
-- B. Carotid sinus
-- C. Aortic body
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. Carotid sinus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q466 — After load is decreased by
-
-After load is decreased by ?
-
-- A. Exercise
-- B. Anemia
-- C. Thyrotoxicosis
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q467 — Oxygen saturation of venous blood is
-
-Oxygen saturation of venous blood is ?
-
-- A. 30%
-- B. 50%
-- C. 70%
-- D. 90%
-
-<details><summary>Answer</summary>
-
-**C. 70%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q468 — Organ with dual blood supply
-
-Organ with dual blood supply?
-
-- A. Heart
-- B. Liver
-- C. Kidney
-- D. Lung
-
-<details><summary>Answer</summary>
-
-**C. Kidney** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q469 — True about Bezold-Jarish reflex
-
-True about Bezold-Jarish reflex?
-
-- A. Hypertension
-- B. Tachycardia
-- C. Hyperpnea
-- D. Hypotension
-
-<details><summary>Answer</summary>
-
-**D. Hypotension** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q470 — True about Coronary circulation
-
-True about Coronary circulation ?
-
-- A. 250 ml/min
-- B. Major flow during systole
-- C. Unifrom flow during full cardiac cycle
-- D. All of the about
-
-<details><summary>Answer</summary>
-
-**A. 250 ml/min** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q471 — Glomerular filteration of a substance depends
-
-Glomerular filteration of a substance depends upon?
-
-- A. Lipid solubility of substance
-- B. Binding capacity to albumin
-- C. Both of the above
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Binding capacity to albumin** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q472 — Tubuloglomerular feedback is for regulation of
-
-Tubuloglomerular feedback is for regulation of?
-
-- A. BP
-- B. Blood volume
-- C. Na+ reabsorption
-- D. GFR
-
-<details><summary>Answer</summary>
-
-**D. GFR** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q473 — Glomerulotubular feedback is for regulation of
-
-Glomerulotubular feedback is for regulation of?
-
-- A. BP
-- B. Blood volume
-- C. Na+ reabsorption
-- D. Renal blood flow
-
-<details><summary>Answer</summary>
-
-**C. Na+ reabsorption** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q474 — Mesangial cell contraction is done by
-
-Mesangial cell contraction is done by?
-
-- A. cAMP
-- B. Dopamine
-- C. PAF
-- D. ANP
-
-<details><summary>Answer</summary>
-
-**C. PAF** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q475 — Mechamism of secretion of ammonia in
-
-Mechamism of secretion of ammonia in distal tubule is?
-
-- A. Primary active transport
-- B. Symport
-- C. Antiport
-- D. Passive diffusion
-
-<details><summary>Answer</summary>
-
-**D. Passive diffusion** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q476 — A Substance has clearance same as
-
-A Substance has clearance same as inulin clearance, the Substarce is mainly excreted in urine by ?
-
-- A. Tubular Secretion
-- B. Glomerular filtration
-- C. Both a & b
-- D. Vascular leakage
-
-<details><summary>Answer</summary>
-
-**B. Glomerular filtration** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q477 — Normal Uninary pH is
-
-Normal Uninary pH is ?
-
-- A. 5.0 - 6.0
-- B. 6.5 - 7.0
-- C. 8.5 - 9.0
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. 6.5 - 7.0** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q478 — Increased aldosterone and ADH secretiom following
-
-Increased aldosterone and ADH secretiom following major trauma results in all the following except ?
-
-- A. Decreased Na+ excretion is urine
-- B. Increased K' excretion in urine
-- C. Increased osmolarity of urine
-- D. Increased water excretion
-
-<details><summary>Answer</summary>
-
-**D. Increased water excretion** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q479 — Which carrier pump is transporting solutes
-
-Which carrier pump is transporting solutes in thick ascending limb of Henle loop?
-
-- A. Carrier pump Na-K-2Cl transporter.
-- B. NaCl- cotransporter
-- C. Na2+-H+ exchanger
-- D. Na2+-K+ exchanger
-
-<details><summary>Answer</summary>
-
-**A. Carrier pump Na-K-2Cl transporter.** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q480 — Receptive area of stomach
-
-Receptive area of stomach?
-
-- A. Antrum
-- B. Pylorus
-- C. Body
-- D. Fundus
-
-<details><summary>Answer</summary>
-
-**D. Fundus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q481 — All are seen in emphysema except
-
-All are seen in emphysema except
-
-- A. Decreased vital capacity
-- B. Hyperinflation
-- C. Rhonchi
-- D. Reduced Dlco
-
-<details><summary>Answer</summary>
-
-**C. Rhonchi** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
-### Q482 — Which of the following agents is
-
-Which of the following agents is used to measure Glomerular Filtration Rate (GFR)?
-
-- A. Iodohippurate
-- B. Tc99m-DTPA
-- C. Tc99m-MAG3
-- D. Tc99m-DMSA
-
-<details><summary>Answer</summary>
-
-**B. Tc99m-DTPA** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
 ## Biochemistry
 
-### Q483 — Function of myenteric plexus is to *(2015)*
+### Q266 — Function of myenteric plexus is to *(2015)*
 
 Function of myenteric plexus is to regulate ?
 
@@ -8489,8 +4530,7 @@ Function of myenteric plexus is to regulate ?
 </details>
 
 ---
-
-### Q484 — important intracellular buffer *(2015)*
+### Q267 — important intracellular buffer *(2015)*
 
 Most important intracellular buffer ?
 
@@ -8506,8 +4546,7 @@ Most important intracellular buffer ?
 </details>
 
 ---
-
-### Q485 — Example of allosteric inhibition *(2015)*
+### Q268 — Example of allosteric inhibition *(2015)*
 
 Example of allosteric inhibition
 
@@ -8523,8 +4562,7 @@ Example of allosteric inhibition
 </details>
 
 ---
-
-### Q486 — Chylomicrons core is formed by *(2015)*
+### Q269 — Chylomicrons core is formed by *(2015)*
 
 Chylomicrons core is formed by ?
 
@@ -8540,8 +4578,7 @@ Chylomicrons core is formed by ?
 </details>
 
 ---
-
-### Q487 — Pyridoxine is required in - *(2015)*
+### Q270 — Pyridoxine is required in - *(2015)*
 
 Pyridoxine is required in -
 
@@ -8557,8 +4594,7 @@ Pyridoxine is required in -
 </details>
 
 ---
-
-### Q488 — Bile salts help in absorption of *(2015)*
+### Q271 — Bile salts help in absorption of *(2015)*
 
 Bile salts help in absorption of fat by -
 
@@ -8574,8 +4610,7 @@ Bile salts help in absorption of fat by -
 </details>
 
 ---
-
-### Q489 — Caseating necrosis occurs in *(2015)*
+### Q272 — Caseating necrosis occurs in *(2015)*
 
 Caseating necrosis occurs in
 
@@ -8591,8 +4626,7 @@ Caseating necrosis occurs in
 </details>
 
 ---
-
-### Q490 — Hypophosphatemic rickets is *(2015)*
+### Q273 — Hypophosphatemic rickets is *(2015)*
 
 Hypophosphatemic rickets is
 
@@ -8608,9 +4642,7 @@ Hypophosphatemic rickets is
 </details>
 
 ---
-
-
-### Q491 — Chymotrypsinogen is activated into chymotrypsin by
+### Q274 — Chymotrypsinogen is activated into chymotrypsin by
 
 Chymotrypsinogen is activated into chymotrypsin by:
 
@@ -8626,8 +4658,7 @@ Chymotrypsinogen is activated into chymotrypsin by:
 </details>
 
 ---
-
-### Q492 — Example of exopeptidase is
+### Q275 — Example of exopeptidase is
 
 Example of exopeptidase is ?
 
@@ -8643,8 +4674,7 @@ Example of exopeptidase is ?
 </details>
 
 ---
-
-### Q493 — Secretion of bile out of hepactocytes
+### Q276 — Secretion of bile out of hepactocytes
 
 Secretion of bile out of hepactocytes occurs via?
 
@@ -8660,8 +4690,7 @@ Secretion of bile out of hepactocytes occurs via?
 </details>
 
 ---
-
-### Q494 — Absorption of calcium ion is affected
+### Q277 — Absorption of calcium ion is affected
 
 Absorption of calcium ion is affected mostly by ?
 
@@ -8677,8 +4706,7 @@ Absorption of calcium ion is affected mostly by ?
 </details>
 
 ---
-
-### Q495 — Vitamin D absorption is decreased by
+### Q278 — Vitamin D absorption is decreased by
 
 Vitamin D absorption is decreased by ?
 
@@ -8694,8 +4722,7 @@ Vitamin D absorption is decreased by ?
 </details>
 
 ---
-
-### Q496 — Effect of cholecystokinin on GIT
+### Q279 — Effect of cholecystokinin on GIT
 
 Effect of cholecystokinin on GIT ?
 
@@ -8711,8 +4738,7 @@ Effect of cholecystokinin on GIT ?
 </details>
 
 ---
-
-### Q497 — Small intestinal peristalsis is controlled by
+### Q280 — Small intestinal peristalsis is controlled by
 
 Small intestinal peristalsis is controlled by :
 
@@ -8728,8 +4754,7 @@ Small intestinal peristalsis is controlled by :
 </details>
 
 ---
-
-### Q498 — How is folic acid absorbed in
+### Q281 — How is folic acid absorbed in
 
 How is folic acid absorbed in proximal jejunum?
 
@@ -8745,8 +4770,7 @@ How is folic acid absorbed in proximal jejunum?
 </details>
 
 ---
-
-### Q499 — Colipase is
+### Q282 — Colipase is
 
 Colipase is:
 
@@ -8762,8 +4786,7 @@ Colipase is:
 </details>
 
 ---
-
-### Q500 — Cholecystokinin is produced from
+### Q283 — Cholecystokinin is produced from
 
 Cholecystokinin is produced from:
 
@@ -8779,8 +4802,7 @@ Cholecystokinin is produced from:
 </details>
 
 ---
-
-### Q501 — Somatomedin - C deficiency causes
+### Q284 — Somatomedin - C deficiency causes
 
 Somatomedin - C deficiency causes?
 
@@ -8796,8 +4818,7 @@ Somatomedin - C deficiency causes?
 </details>
 
 ---
-
-### Q502 — All are about adiponectin except
+### Q285 — All are about adiponectin except
 
 All are about adiponectin except ?
 
@@ -8813,8 +4834,7 @@ All are about adiponectin except ?
 </details>
 
 ---
-
-### Q503 — Hormone responsible for galactopoiesis
+### Q286 — Hormone responsible for galactopoiesis
 
 Hormone responsible for galactopoiesis ?
 
@@ -8830,8 +4850,7 @@ Hormone responsible for galactopoiesis ?
 </details>
 
 ---
-
-### Q504 — Ionotropic effect of thyroid hormone is
+### Q287 — Ionotropic effect of thyroid hormone is
 
 Ionotropic effect of thyroid hormone is by ?
 
@@ -8847,8 +4866,7 @@ Ionotropic effect of thyroid hormone is by ?
 </details>
 
 ---
-
-### Q505 — 3 - subumit of insulin receptor
+### Q288 — 3 - subumit of insulin receptor
 
 3 - subumit of insulin receptor binds to ?
 
@@ -8864,8 +4882,7 @@ Ionotropic effect of thyroid hormone is by ?
 </details>
 
 ---
-
-### Q506 — Insulin mediated transport of glucose is
+### Q289 — Insulin mediated transport of glucose is
 
 Insulin mediated transport of glucose is ?
 
@@ -8881,8 +4898,7 @@ Insulin mediated transport of glucose is ?
 </details>
 
 ---
-
-### Q507 — Acrosome reaction is seen in
+### Q290 — Acrosome reaction is seen in
 
 Acrosome reaction is seen in?
 
@@ -8898,8 +4914,7 @@ Acrosome reaction is seen in?
 </details>
 
 ---
-
-### Q508 — Iron is conserved by
+### Q291 — Iron is conserved by
 
 Iron is conserved by?
 
@@ -8915,8 +4930,7 @@ Iron is conserved by?
 </details>
 
 ---
-
-### Q509 — Primitive red cells first originates in
+### Q292 — Primitive red cells first originates in
 
 Primitive red cells first originates in the early embryonic life is in:
 
@@ -8932,8 +4946,7 @@ Primitive red cells first originates in the early embryonic life is in:
 </details>
 
 ---
-
-### Q510 — Converging point of both pathway in
+### Q293 — Converging point of both pathway in
 
 Converging point of both pathway in coagulation is at:
 
@@ -8949,8 +4962,7 @@ Converging point of both pathway in coagulation is at:
 </details>
 
 ---
-
-### Q511 — Penile erection is mediated by
+### Q294 — Penile erection is mediated by
 
 Penile erection is mediated by?
 
@@ -8966,8 +4978,7 @@ Penile erection is mediated by?
 </details>
 
 ---
-
-### Q512 — Inhibition of heart by vagus is
+### Q295 — Inhibition of heart by vagus is
 
 Inhibition of heart by vagus is mediated by which receptors -
 
@@ -8983,8 +4994,7 @@ Inhibition of heart by vagus is mediated by which receptors -
 </details>
 
 ---
-
-### Q513 — Inhibition of heart by vagus by
+### Q296 — Inhibition of heart by vagus by
 
 Inhibition of heart by vagus by M2 receptors is medicated by which mechanism?
 
@@ -9000,8 +5010,7 @@ Inhibition of heart by vagus by M2 receptors is medicated by which mechanism?
 </details>
 
 ---
-
-### Q514 — Glucagon activates which enzyme
+### Q297 — Glucagon activates which enzyme
 
 Glucagon activates which enzyme ?
 
@@ -9017,8 +5026,7 @@ Glucagon activates which enzyme ?
 </details>
 
 ---
-
-### Q515 — Size of platelets is
+### Q298 — Size of platelets is
 
 Size of platelets is ?
 
@@ -9034,8 +5042,7 @@ Size of platelets is ?
 </details>
 
 ---
-
-### Q516 — If HbAl C is 8, What
+### Q299 — If HbAl C is 8, What
 
 If HbAl C is 8%, What will be the value of blood glucose [mg/d1] ?
 
@@ -9051,8 +5058,7 @@ If HbAl C is 8%, What will be the value of blood glucose [mg/d1] ?
 </details>
 
 ---
-
-### Q517 — Preaccelerin is
+### Q300 — Preaccelerin is
 
 Preaccelerin is ?
 
@@ -9068,8 +5074,7 @@ Preaccelerin is ?
 </details>
 
 ---
-
-### Q518 — Conversion of prekallikrein to kallikrein requires
+### Q301 — Conversion of prekallikrein to kallikrein requires
 
 Conversion of prekallikrein to kallikrein requires which clotting factor -
 
@@ -9085,8 +5090,7 @@ Conversion of prekallikrein to kallikrein requires which clotting factor -
 </details>
 
 ---
-
-### Q519 — Caissons disease is associated with
+### Q302 — Caissons disease is associated with
 
 Caisson's disease is associated with?
 
@@ -9102,8 +5106,7 @@ Caisson's disease is associated with?
 </details>
 
 ---
-
-### Q520 — Following is true about oculocardiac reflex
+### Q303 — Following is true about oculocardiac reflex
 
 Following is true about oculocardiac reflex except ?
 
@@ -9119,8 +5122,7 @@ Following is true about oculocardiac reflex except ?
 </details>
 
 ---
-
-### Q521 — Blood testis barrier in testis is
+### Q304 — Blood testis barrier in testis is
 
 Blood testis barrier in testis is formed by?
 
@@ -9136,8 +5138,7 @@ Blood testis barrier in testis is formed by?
 </details>
 
 ---
-
-### Q522 — Which of the following is false
+### Q305 — Which of the following is false
 
 Which of the following is false about peripheral nerve injury?
 
@@ -9153,8 +5154,7 @@ Which of the following is false about peripheral nerve injury?
 </details>
 
 ---
-
-### Q523 — First to occur after a sharp
+### Q306 — First to occur after a sharp
 
 First to occur after a sharp nerve cut ?
 
@@ -9170,8 +5170,7 @@ First to occur after a sharp nerve cut ?
 </details>
 
 ---
-
-### Q524 — LDH has how many isoenzymes
+### Q307 — LDH has how many isoenzymes
 
 LDH has how many isoenzymes
 
@@ -9187,8 +5186,7 @@ LDH has how many isoenzymes
 </details>
 
 ---
-
-### Q525 — Which of the following is known
+### Q308 — Which of the following is known
 
 Which of the following is known as suicidal enzyme?
 
@@ -9204,8 +5202,7 @@ Which of the following is known as suicidal enzyme?
 </details>
 
 ---
-
-### Q526 — Rate limiting enzyme in bile acid
+### Q309 — Rate limiting enzyme in bile acid
 
 Rate limiting enzyme in bile acid synthesis ?
 
@@ -9221,8 +5218,7 @@ Rate limiting enzyme in bile acid synthesis ?
 </details>
 
 ---
-
-### Q527 — Enzyme activity is expressed as
+### Q310 — Enzyme activity is expressed as
 
 Enzyme activity is expressed as:
 
@@ -9238,8 +5234,7 @@ Enzyme activity is expressed as:
 </details>
 
 ---
-
-### Q528 — Lysyl oxidase requires which cofactor -
+### Q311 — Lysyl oxidase requires which cofactor -
 
 Lysyl oxidase requires which cofactor -
 
@@ -9255,8 +5250,7 @@ Lysyl oxidase requires which cofactor -
 </details>
 
 ---
-
-### Q529 — Mechanism of conversion of trypsinogen to
+### Q312 — Mechanism of conversion of trypsinogen to
 
 Mechanism of conversion of trypsinogen to trypsin -
 
@@ -9272,8 +5266,7 @@ Mechanism of conversion of trypsinogen to trypsin -
 </details>
 
 ---
-
-### Q530 — Immediate source of energy is
+### Q313 — Immediate source of energy is
 
 Immediate source of energy is ?
 
@@ -9289,8 +5282,7 @@ Immediate source of energy is ?
 </details>
 
 ---
-
-### Q531 — True about NADP -
+### Q314 — True about NADP -
 
 True about NADP -
 
@@ -9306,8 +5298,7 @@ True about NADP -
 </details>
 
 ---
-
-### Q532 — In malate shuttle, NADH Produces how
+### Q315 — In malate shuttle, NADH Produces how
 
 In malate shuttle, NADH Produces how many ATPs
 
@@ -9323,8 +5314,7 @@ In malate shuttle, NADH Produces how many ATPs
 </details>
 
 ---
-
-### Q533 — Not a substrate for gluconeogenesis -
+### Q316 — Not a substrate for gluconeogenesis -
 
 Not a substrate for gluconeogenesis -
 
@@ -9340,8 +5330,7 @@ Not a substrate for gluconeogenesis -
 </details>
 
 ---
-
-### Q534 — Pyruvate dehydrogenase requires all cofactors exce
+### Q317 — Pyruvate dehydrogenase requires all cofactors exce
 
 Pyruvate dehydrogenase requires all cofactors except
 
@@ -9357,8 +5346,7 @@ Pyruvate dehydrogenase requires all cofactors except
 </details>
 
 ---
-
-### Q535 — Lactate produced anaerobically is used by
+### Q318 — Lactate produced anaerobically is used by
 
 Lactate produced anaerobically is used by
 
@@ -9374,8 +5362,7 @@ Lactate produced anaerobically is used by
 </details>
 
 ---
-
-### Q536 — Citrate synthase is inhibited by -
+### Q319 — Citrate synthase is inhibited by -
 
 Citrate synthase is inhibited by -
 
@@ -9391,8 +5378,7 @@ Citrate synthase is inhibited by -
 </details>
 
 ---
-
-### Q537 — Fumarate is formed from which amino
+### Q320 — Fumarate is formed from which amino
 
 Fumarate is formed from which amino acid
 
@@ -9408,8 +5394,7 @@ Fumarate is formed from which amino acid
 </details>
 
 ---
-
-### Q538 — The major role of 2, 3
+### Q321 — The major role of 2, 3
 
 The major role of 2, 3 bisphosphoglycerate in RBCs is -
 
@@ -9425,8 +5410,7 @@ The major role of 2, 3 bisphosphoglycerate in RBCs is -
 </details>
 
 ---
-
-### Q539 — Immediate metabolic products during conversion of
+### Q322 — Immediate metabolic products during conversion of
 
 Immediate metabolic products during conversion of Fructus 1-6 bisphosphate to 2 molecules of pyruvate -
 
@@ -9442,8 +5426,7 @@ Immediate metabolic products during conversion of Fructus 1-6 bisphosphate to 2 
 </details>
 
 ---
-
-### Q540 — In conversion of glucose to glucose-6-
+### Q323 — In conversion of glucose to glucose-6-
 
 In conversion of glucose to glucose-6- phosphate in glycolysis true is
 
@@ -9459,8 +5442,7 @@ In conversion of glucose to glucose-6- phosphate in glycolysis true is
 </details>
 
 ---
-
-### Q541 — Most abundant source of fuel in
+### Q324 — Most abundant source of fuel in
 
 Most abundant source of fuel in starvation -
 
@@ -9476,8 +5458,7 @@ Most abundant source of fuel in starvation -
 </details>
 
 ---
-
-### Q542 — Major metabolism of saturated fatty acids
+### Q325 — Major metabolism of saturated fatty acids
 
 Major metabolism of saturated fatty acids in the mitochondria is called as -
 
@@ -9493,8 +5474,7 @@ Major metabolism of saturated fatty acids in the mitochondria is called as -
 </details>
 
 ---
-
-### Q543 — Bile acids are synthesized from
+### Q326 — Bile acids are synthesized from
 
 Bile acids are synthesized from ?
 
@@ -9510,8 +5490,7 @@ Bile acids are synthesized from ?
 </details>
 
 ---
-
-### Q544 — Which method is used to separate
+### Q327 — Which method is used to separate
 
 Which method is used to separate a mixture of lipids -
 
@@ -9527,8 +5506,7 @@ Which method is used to separate a mixture of lipids -
 </details>
 
 ---
-
-### Q545 — Transport of lipids from the intestine
+### Q328 — Transport of lipids from the intestine
 
 Transport of lipids from the intestine to other tissues is by -
 
@@ -9544,8 +5522,7 @@ Transport of lipids from the intestine to other tissues is by -
 </details>
 
 ---
-
-### Q546 — (β-oxidation of palmitic acid yields
+### Q329 — (β-oxidation of palmitic acid yields
 
 (β-oxidation of palmitic acid yields
 
@@ -9561,8 +5538,7 @@ Transport of lipids from the intestine to other tissues is by -
 </details>
 
 ---
-
-### Q547 — All are true about Niemann- Pick
+### Q330 — All are true about Niemann- Pick
 
 All are true about Niemann- Pick disease except -
 
@@ -9578,8 +5554,7 @@ All are true about Niemann- Pick disease except -
 </details>
 
 ---
-
-### Q548 — Plasminogen domain resembles
+### Q331 — Plasminogen domain resembles
 
 Plasminogen domain resembles
 
@@ -9595,8 +5570,7 @@ Plasminogen domain resembles
 </details>
 
 ---
-
-### Q549 — Acetyl CoA Carboxylase is stimulated by
+### Q332 — Acetyl CoA Carboxylase is stimulated by
 
 Acetyl CoA Carboxylase is stimulated by -
 
@@ -9612,8 +5586,7 @@ Acetyl CoA Carboxylase is stimulated by -
 </details>
 
 ---
-
-### Q550 — Cholesterol is not a precursor for
+### Q333 — Cholesterol is not a precursor for
 
 Cholesterol is not a precursor for synthesis of -
 
@@ -9629,8 +5602,7 @@ Cholesterol is not a precursor for synthesis of -
 </details>
 
 ---
-
-### Q551 — HDL is called good cholesterol because
+### Q334 — HDL is called good cholesterol because
 
 HDL is called good cholesterol because -
 
@@ -9646,8 +5618,7 @@ HDL is called good cholesterol because -
 </details>
 
 ---
-
-### Q552 — Non- essential amino-acids are all except
+### Q335 — Non- essential amino-acids are all except
 
 Non- essential amino-acids are all except -
 
@@ -9663,8 +5634,7 @@ Non- essential amino-acids are all except -
 </details>
 
 ---
-
-### Q553 — Amino acid which can be used
+### Q336 — Amino acid which can be used
 
 Amino acid which can be used in both gluconeogenesis and ketogenesis -
 
@@ -9680,8 +5650,7 @@ Amino acid which can be used in both gluconeogenesis and ketogenesis -
 </details>
 
 ---
-
-### Q554 — In phenylketonuria, diet restriction is advised
+### Q337 — In phenylketonuria, diet restriction is advised
 
 In phenylketonuria, diet restriction is advised for -
 
@@ -9697,8 +5666,7 @@ In phenylketonuria, diet restriction is advised for -
 </details>
 
 ---
-
-### Q555 — Guanidinium group is associated with -
+### Q338 — Guanidinium group is associated with -
 
 Guanidinium group is associated with -
 
@@ -9714,8 +5682,7 @@ Guanidinium group is associated with -
 </details>
 
 ---
-
-### Q556 — Creatinine is formed from -
+### Q339 — Creatinine is formed from -
 
 Creatinine is formed from -
 
@@ -9731,8 +5698,7 @@ Creatinine is formed from -
 </details>
 
 ---
-
-### Q557 — Coenzyme for phenylalanine hydroxylase is -
+### Q340 — Coenzyme for phenylalanine hydroxylase is -
 
 Coenzyme for phenylalanine hydroxylase is -
 
@@ -9748,8 +5714,7 @@ Coenzyme for phenylalanine hydroxylase is -
 </details>
 
 ---
-
-### Q558 — Glycine is required in formation of
+### Q341 — Glycine is required in formation of
 
 Glycine is required in formation of all except ?
 
@@ -9765,8 +5730,7 @@ Glycine is required in formation of all except ?
 </details>
 
 ---
-
-### Q559 — Which of the following is required
+### Q342 — Which of the following is required
 
 Which of the following is required in the synthesis of acetylcholine -
 
@@ -9782,8 +5746,7 @@ Which of the following is required in the synthesis of acetylcholine -
 </details>
 
 ---
-
-### Q560 — Most important factor which causes lactic
+### Q343 — Most important factor which causes lactic
 
 Most important factor which causes lactic acidosis in alcoholics -
 
@@ -9799,8 +5762,7 @@ Most important factor which causes lactic acidosis in alcoholics -
 </details>
 
 ---
-
-### Q561 — Insulin dependant cells are -
+### Q344 — Insulin dependant cells are -
 
 Insulin dependant cells are -
 
@@ -9816,8 +5778,7 @@ Insulin dependant cells are -
 </details>
 
 ---
-
-### Q562 — Energy source used by brain in
+### Q345 — Energy source used by brain in
 
 Energy source used by brain in later days of Starvation is
 
@@ -9833,8 +5794,7 @@ Energy source used by brain in later days of Starvation is
 </details>
 
 ---
-
-### Q563 — Which of the following enzyme activity
+### Q346 — Which of the following enzyme activity
 
 Which of the following enzyme activity decreases in fasting?
 
@@ -9850,8 +5810,7 @@ Which of the following enzyme activity decreases in fasting?
 </details>
 
 ---
-
-### Q564 — Vitamin formed in the body -
+### Q347 — Vitamin formed in the body -
 
 Vitamin formed in the body -
 
@@ -9867,8 +5826,7 @@ Vitamin formed in the body -
 </details>
 
 ---
-
-### Q565 — Pruritis Itching is caused by deficiency
+### Q348 — Pruritis Itching is caused by deficiency
 
 Pruritis [Itching] is caused by deficiency of -
 
@@ -9884,8 +5842,7 @@ Pruritis [Itching] is caused by deficiency of -
 </details>
 
 ---
-
-### Q566 — Vitamin acting on intranuclear receptors -
+### Q349 — Vitamin acting on intranuclear receptors -
 
 Vitamin acting on intranuclear receptors -
 
@@ -9901,8 +5858,7 @@ Vitamin acting on intranuclear receptors -
 </details>
 
 ---
-
-### Q567 — Which of the following has antioxidant
+### Q350 — Which of the following has antioxidant
 
 Which of the following has antioxidant property?
 
@@ -9918,8 +5874,7 @@ Which of the following has antioxidant property?
 </details>
 
 ---
-
-### Q568 — Niacin acts as coenzyme -
+### Q351 — Niacin acts as coenzyme -
 
 Niacin acts as coenzyme -
 
@@ -9935,8 +5890,7 @@ Niacin acts as coenzyme -
 </details>
 
 ---
-
-### Q569 — Coenzyme not required in formation of
+### Q352 — Coenzyme not required in formation of
 
 Coenzyme not required in formation of glutamate-
 
@@ -9952,8 +5906,7 @@ Coenzyme not required in formation of glutamate-
 </details>
 
 ---
-
-### Q570 — Not a metabolic product of urea
+### Q353 — Not a metabolic product of urea
 
 Not a metabolic product of urea cycle -
 
@@ -9969,8 +5922,7 @@ Not a metabolic product of urea cycle -
 </details>
 
 ---
-
-### Q571 — Which amino acid is not involved
+### Q354 — Which amino acid is not involved
 
 Which amino acid is not involved in transamination -
 
@@ -9986,8 +5938,7 @@ Which amino acid is not involved in transamination -
 </details>
 
 ---
-
-### Q572 — Boiled cabbage or rancid butter smelling
+### Q355 — Boiled cabbage or rancid butter smelling
 
 Boiled cabbage or rancid butter smelling urine is seen in
 
@@ -10003,8 +5954,7 @@ Boiled cabbage or rancid butter smelling urine is seen in
 </details>
 
 ---
-
-### Q573 — Apo B48 is synthesized in -
+### Q356 — Apo B48 is synthesized in -
 
 Apo B48 is synthesized in -
 
@@ -10020,8 +5970,7 @@ Apo B48 is synthesized in -
 </details>
 
 ---
-
-### Q574 — Allantoin is the end product of
+### Q357 — Allantoin is the end product of
 
 Allantoin is the end product of metabolism of ?
 
@@ -10037,8 +5986,7 @@ Allantoin is the end product of metabolism of ?
 </details>
 
 ---
-
-### Q575 — True about sigma factor
+### Q358 — True about sigma factor
 
 True about sigma factor?
 
@@ -10054,8 +6002,7 @@ True about sigma factor?
 </details>
 
 ---
-
-### Q576 — Replication and transcription are similar processe
+### Q359 — Replication and transcription are similar processe
 
 Replication and transcription are similar processes in mechanistic terms because both :
 
@@ -10071,8 +6018,7 @@ Replication and transcription are similar processes in mechanistic terms because
 </details>
 
 ---
-
-### Q577 — What are okazzaki fragments -
+### Q360 — What are okazzaki fragments -
 
 What are okazzaki fragments -
 
@@ -10088,8 +6034,7 @@ What are okazzaki fragments -
 </details>
 
 ---
-
-### Q578 — First purine nucleotide, which is synthesized
+### Q361 — First purine nucleotide, which is synthesized
 
 First purine nucleotide, which is synthesized in purine biosynthesis ?
 
@@ -10105,8 +6050,7 @@ First purine nucleotide, which is synthesized in purine biosynthesis ?
 </details>
 
 ---
-
-### Q579 — C4, C5, N7 in purine ring
+### Q362 — C4, C5, N7 in purine ring
 
 C4, C5, N7 in purine ring are derived from -
 
@@ -10122,8 +6066,7 @@ C4, C5, N7 in purine ring are derived from -
 </details>
 
 ---
-
-### Q580 — Most important tool used in genetic
+### Q363 — Most important tool used in genetic
 
 Most important tool used in genetic engineering
 
@@ -10139,8 +6082,7 @@ Most important tool used in genetic engineering
 </details>
 
 ---
-
-### Q581 — The gaps between segments of DNA
+### Q364 — The gaps between segments of DNA
 
 The gaps between segments of DNA on the lagging strand produced by restriction enzymes are rejoined sealed by:
 
@@ -10156,8 +6098,7 @@ The gaps between segments of DNA on the lagging strand produced by restriction e
 </details>
 
 ---
-
-### Q582 — Which is not a chaperon protein
+### Q365 — Which is not a chaperon protein
 
 Which is not a chaperon protein -
 
@@ -10173,8 +6114,7 @@ Which is not a chaperon protein -
 </details>
 
 ---
-
-### Q583 — All are functions of glycosaminglycans except
+### Q366 — All are functions of glycosaminglycans except
 
 All are functions of glycosaminglycans except -
 
@@ -10190,8 +6130,7 @@ All are functions of glycosaminglycans except -
 </details>
 
 ---
-
-### Q584 — a-aminolevulinic acid is a metabolic product
+### Q367 — a-aminolevulinic acid is a metabolic product
 
 a-aminolevulinic acid is a metabolic product in synthesis of -
 
@@ -10207,8 +6146,7 @@ a-aminolevulinic acid is a metabolic product in synthesis of -
 </details>
 
 ---
-
-### Q585 — Which is an inhibitor of ferrochelatase
+### Q368 — Which is an inhibitor of ferrochelatase
 
 Which is an inhibitor of ferrochelatase ?
 
@@ -10224,8 +6162,7 @@ Which is an inhibitor of ferrochelatase ?
 </details>
 
 ---
-
-### Q586 — Bile acids consist of all except
+### Q369 — Bile acids consist of all except
 
 Bile acids consist of all except -
 
@@ -10241,8 +6178,7 @@ Bile acids consist of all except -
 </details>
 
 ---
-
-### Q587 — True about cAMP and cGMP -
+### Q370 — True about cAMP and cGMP -
 
 True about cAMP and cGMP -
 
@@ -10258,8 +6194,7 @@ True about cAMP and cGMP -
 </details>
 
 ---
-
-### Q588 — Spectroscopy is used for interaction of
+### Q371 — Spectroscopy is used for interaction of
 
 Spectroscopy is used for interaction of -
 
@@ -10275,8 +6210,7 @@ Spectroscopy is used for interaction of -
 </details>
 
 ---
-
-### Q589 — Abnormal proteins which are bound to
+### Q372 — Abnormal proteins which are bound to
 
 Abnormal proteins which are bound to ubiquitin are degraded in -
 
@@ -10292,8 +6226,7 @@ Abnormal proteins which are bound to ubiquitin are degraded in -
 </details>
 
 ---
-
-### Q590 — Enzyme degradation is caused by -
+### Q373 — Enzyme degradation is caused by -
 
 Enzyme degradation is caused by -
 
@@ -10309,8 +6242,7 @@ Enzyme degradation is caused by -
 </details>
 
 ---
-
-### Q591 — G1cNAc-P-P- oligosacharride is -
+### Q374 — G1cNAc-P-P- oligosacharride is -
 
 G1cNAc-P-P- oligosacharride is -
 
@@ -10326,8 +6258,7 @@ G1cNAc-P-P- oligosacharride is -
 </details>
 
 ---
-
-### Q592 — Prolyl hydroxylase require which cofactor -
+### Q375 — Prolyl hydroxylase require which cofactor -
 
 Prolyl hydroxylase require which cofactor -
 
@@ -10343,8 +6274,7 @@ Prolyl hydroxylase require which cofactor -
 </details>
 
 ---
-
-### Q593 — Which of following is not a
+### Q376 — Which of following is not a
 
 Which of following is not a free radical -
 
@@ -10360,8 +6290,7 @@ Which of following is not a free radical -
 </details>
 
 ---
-
-### Q594 — Not an irreversible injury-
+### Q377 — Not an irreversible injury-
 
 Not an irreversible injury-
 
@@ -10377,8 +6306,7 @@ Not an irreversible injury-
 </details>
 
 ---
-
-### Q595 — Hypertrophy is -
+### Q378 — Hypertrophy is -
 
 Hypertrophy is -
 
@@ -10394,8 +6322,7 @@ Hypertrophy is -
 </details>
 
 ---
-
-### Q596 — Hyaline degeneration is found in -
+### Q379 — Hyaline degeneration is found in -
 
 Hyaline degeneration is found in -
 
@@ -10411,8 +6338,7 @@ Hyaline degeneration is found in -
 </details>
 
 ---
-
-### Q597 — In cell death, myelin figures, are
+### Q380 — In cell death, myelin figures, are
 
 In cell death, myelin figures, are derived from-
 
@@ -10428,8 +6354,7 @@ In cell death, myelin figures, are derived from-
 </details>
 
 ---
-
-### Q598 — Antiapoptotic gene
+### Q381 — Antiapoptotic gene
 
 Antiapoptotic gene
 
@@ -10445,8 +6370,7 @@ Antiapoptotic gene
 </details>
 
 ---
-
-### Q599 — Not a apoptotic gene
+### Q382 — Not a apoptotic gene
 
 Not a apoptotic gene
 
@@ -10462,8 +6386,7 @@ Not a apoptotic gene
 </details>
 
 ---
-
-### Q600 — Fat necrosis is common in -
+### Q383 — Fat necrosis is common in -
 
 Fat necrosis is common in -
 
@@ -10479,8 +6402,7 @@ Fat necrosis is common in -
 </details>
 
 ---
-
-### Q601 — Liquefactive necrosis is seen in
+### Q384 — Liquefactive necrosis is seen in
 
 Liquefactive necrosis is seen in:
 
@@ -10496,8 +6418,7 @@ Liquefactive necrosis is seen in:
 </details>
 
 ---
-
-### Q602 — Diabetic foot is associated with following
+### Q385 — Diabetic foot is associated with following
 
 Diabetic foot is associated with following type of gangrene -
 
@@ -10513,8 +6434,7 @@ Diabetic foot is associated with following type of gangrene -
 </details>
 
 ---
-
-### Q603 — Unfolded protein metabolism is associated with
+### Q386 — Unfolded protein metabolism is associated with
 
 Unfolded protein metabolism is associated with
 
@@ -10530,8 +6450,7 @@ Unfolded protein metabolism is associated with
 </details>
 
 ---
-
-### Q604 — Most reactive free radical is
+### Q387 — Most reactive free radical is
 
 Most reactive free radical is:
 
@@ -10547,8 +6466,7 @@ Most reactive free radical is:
 </details>
 
 ---
-
-### Q605 — Rolling of leucocytes on endothelial cells
+### Q388 — Rolling of leucocytes on endothelial cells
 
 Rolling of leucocytes on endothelial cells is mediated by
 
@@ -10564,8 +6482,7 @@ Rolling of leucocytes on endothelial cells is mediated by
 </details>
 
 ---
-
-### Q606 — Perioperative shock is an example of
+### Q389 — Perioperative shock is an example of
 
 Perioperative shock is an example of
 
@@ -10581,8 +6498,7 @@ Perioperative shock is an example of
 </details>
 
 ---
-
-### Q607 — Substance playing a role in tumor
+### Q390 — Substance playing a role in tumor
 
 Substance playing a role in tumor metastasis cascade is
 
@@ -10598,8 +6514,7 @@ Substance playing a role in tumor metastasis cascade is
 </details>
 
 ---
-
-### Q608 — Which of the following is not
+### Q391 — Which of the following is not
 
 Which of the following is not a part of ECM ?
 
@@ -10615,8 +6530,7 @@ Which of the following is not a part of ECM ?
 </details>
 
 ---
-
-### Q609 — Chemotaxis is mediated by-
+### Q392 — Chemotaxis is mediated by-
 
 Chemotaxis is mediated by-
 
@@ -10632,8 +6546,7 @@ Chemotaxis is mediated by-
 </details>
 
 ---
-
-### Q610 — Interleukin 2 is produced by
+### Q393 — Interleukin 2 is produced by
 
 Interleukin 2 is produced by
 
@@ -10649,8 +6562,7 @@ Interleukin 2 is produced by
 </details>
 
 ---
-
-### Q611 — IFN-gamma is produced by
+### Q394 — IFN-gamma is produced by
 
 IFN-gamma is produced by
 
@@ -10666,8 +6578,7 @@ IFN-gamma is produced by
 </details>
 
 ---
-
-### Q612 — Extremities are warm in which type
+### Q395 — Extremities are warm in which type
 
 Extremities are warm in which type of shock
 
@@ -10683,8 +6594,7 @@ Extremities are warm in which type of shock
 </details>
 
 ---
-
-### Q613 — Following injection of lymphokines, the same
+### Q396 — Following injection of lymphokines, the same
 
 Following injection of lymphokines, the same class of immunoglobulin are produced. This is to be referred as -
 
@@ -10700,8 +6610,7 @@ Following injection of lymphokines, the same class of immunoglobulin are produce
 </details>
 
 ---
-
-### Q614 — B cells are located in which
+### Q397 — B cells are located in which
 
 B cells are located in which region of lymph nodes
 
@@ -10717,8 +6626,7 @@ B cells are located in which region of lymph nodes
 </details>
 
 ---
-
-### Q615 — Number of criteria for HLA matching
+### Q398 — Number of criteria for HLA matching
 
 Number of criteria for HLA matching are
 
@@ -10734,8 +6642,7 @@ Number of criteria for HLA matching are
 </details>
 
 ---
-
-### Q616 — Organ with least chance of rejection
+### Q399 — Organ with least chance of rejection
 
 Organ with least chance of rejection
 
@@ -10751,8 +6658,7 @@ Organ with least chance of rejection
 </details>
 
 ---
-
-### Q617 — Mc type of graft rejection is
+### Q400 — Mc type of graft rejection is
 
 Mc type of graft rejection is
 
@@ -10768,8 +6674,7 @@ Mc type of graft rejection is
 </details>
 
 ---
-
-### Q618 — Most lethal combination is
+### Q401 — Most lethal combination is
 
 Most lethal combination is
 
@@ -10785,8 +6690,7 @@ Most lethal combination is
 </details>
 
 ---
-
-### Q619 — Chromosomal instability syndrome is
+### Q402 — Chromosomal instability syndrome is
 
 Chromosomal instability syndrome is
 
@@ -10802,8 +6706,7 @@ Chromosomal instability syndrome is
 </details>
 
 ---
-
-### Q620 — Structure of chromosomes is studied by
+### Q403 — Structure of chromosomes is studied by
 
 Structure of chromosomes is studied by?
 
@@ -10819,8 +6722,7 @@ Structure of chromosomes is studied by?
 </details>
 
 ---
-
-### Q621 — Location of gene on chromosome is
+### Q404 — Location of gene on chromosome is
 
 Location of gene on chromosome is identified by
 
@@ -10836,8 +6738,7 @@ Location of gene on chromosome is identified by
 </details>
 
 ---
-
-### Q622 — Tyrosine kinase receptor is associated with
+### Q405 — Tyrosine kinase receptor is associated with
 
 Tyrosine kinase receptor is associated with proto¬oncogene -
 
@@ -10853,8 +6754,7 @@ Tyrosine kinase receptor is associated with proto¬oncogene -
 </details>
 
 ---
-
-### Q623 — Which is not a tumor suppressor
+### Q406 — Which is not a tumor suppressor
 
 Which is not a tumor suppressor gene ?
 
@@ -10870,8 +6770,7 @@ Which is not a tumor suppressor gene ?
 </details>
 
 ---
-
-### Q624 — Which of the following has tumor
+### Q407 — Which of the following has tumor
 
 Which of the following has tumor promoting effect?
 
@@ -10887,8 +6786,7 @@ Which of the following has tumor promoting effect?
 </details>
 
 ---
-
-### Q625 — Hematological carcinoma is commonly linked to
+### Q408 — Hematological carcinoma is commonly linked to
 
 Hematological carcinoma is commonly linked to
 
@@ -10904,8 +6802,7 @@ Hematological carcinoma is commonly linked to
 </details>
 
 ---
-
-### Q626 — Major contribution to cachexia with advanced
+### Q409 — Major contribution to cachexia with advanced
 
 Major contribution to cachexia with advanced cancer?
 
@@ -10921,8 +6818,7 @@ Major contribution to cachexia with advanced cancer?
 </details>
 
 ---
-
-### Q627 — Level of which of the following
+### Q410 — Level of which of the following
 
 Level of which of the following is not elevated in heart disease
 
@@ -10938,8 +6834,7 @@ Level of which of the following is not elevated in heart disease
 </details>
 
 ---
-
-### Q628 — Which protein is defective in dialated
+### Q411 — Which protein is defective in dialated
 
 Which protein is defective in dialated cardiomyopathy?
 
@@ -10955,8 +6850,7 @@ Which protein is defective in dialated cardiomyopathy?
 </details>
 
 ---
-
-### Q629 — Lines of Zahn are seen in
+### Q412 — Lines of Zahn are seen in
 
 Lines of Zahn are seen in -
 
@@ -10972,8 +6866,7 @@ Lines of Zahn are seen in -
 </details>
 
 ---
-
-### Q630 — Concentric hypertrophy of left ventricle is
+### Q413 — Concentric hypertrophy of left ventricle is
 
 Concentric hypertrophy of left ventricle is seen in -
 
@@ -10989,8 +6882,7 @@ Concentric hypertrophy of left ventricle is seen in -
 </details>
 
 ---
-
-### Q631 — Which type of artery is most
+### Q414 — Which type of artery is most
 
 Which type of artery is most commonly involved in PAN?
 
@@ -11006,8 +6898,7 @@ Which type of artery is most commonly involved in PAN?
 </details>
 
 ---
-
-### Q632 — Amount of blood loss in Stage
+### Q415 — Amount of blood loss in Stage
 
 Amount of blood loss in Stage I of hemorrhagic shock is -
 
@@ -11023,8 +6914,7 @@ Amount of blood loss in Stage I of hemorrhagic shock is -
 </details>
 
 ---
-
-### Q633 — Normal Myeloid - erythroid ratio is
+### Q416 — Normal Myeloid - erythroid ratio is
 
 Normal Myeloid - erythroid ratio is -
 
@@ -11040,8 +6930,7 @@ Normal Myeloid - erythroid ratio is -
 </details>
 
 ---
-
-### Q634 — Distinguishing feature of reticulocyte is -
+### Q417 — Distinguishing feature of reticulocyte is -
 
 Distinguishing feature of reticulocyte is -
 
@@ -11057,8 +6946,7 @@ Distinguishing feature of reticulocyte is -
 </details>
 
 ---
-
-### Q635 — True about anthrax toxin are all
+### Q418 — True about anthrax toxin are all
 
 True about anthrax toxin are all except:
 
@@ -11074,8 +6962,7 @@ True about anthrax toxin are all except:
 </details>
 
 ---
-
-### Q636 — Which of the following Vitamin deficiency
+### Q419 — Which of the following Vitamin deficiency
 
 Which of the following Vitamin deficiency is seen in short bowel syndrome with ileal resection ?
 
@@ -11091,8 +6978,7 @@ Which of the following Vitamin deficiency is seen in short bowel syndrome with i
 </details>
 
 ---
-
-### Q637 — Therepeutic phlebotomy is not done in
+### Q420 — Therepeutic phlebotomy is not done in
 
 Therepeutic phlebotomy is not done in which of the following conditions ?
 
@@ -11111,7 +6997,7 @@ Therepeutic phlebotomy is not done in which of the following conditions ?
 
 ## Pathology
 
-### Q638 — Programmed cell death is known as- *(2015)*
+### Q421 — Programmed cell death is known as- *(2015)*
 
 Programmed cell death is known as-
 
@@ -11127,8 +7013,7 @@ Programmed cell death is known as-
 </details>
 
 ---
-
-### Q639 — AML best prognosis is seen with *(2015)*
+### Q422 — AML best prognosis is seen with *(2015)*
 
 AML best prognosis is seen with ?
 
@@ -11144,8 +7029,7 @@ AML best prognosis is seen with ?
 </details>
 
 ---
-
-### Q640 — COXtype 3 is a product of- *(2015)*
+### Q423 — COXtype 3 is a product of- *(2015)*
 
 COXtype 3 is a product of-
 
@@ -11161,8 +7045,7 @@ COXtype 3 is a product of-
 </details>
 
 ---
-
-### Q641 — Dopamine receptor with inhibitory action *(2015)*
+### Q424 — Dopamine receptor with inhibitory action *(2015)*
 
 Dopamine receptor with inhibitory action ?
 
@@ -11178,8 +7061,7 @@ Dopamine receptor with inhibitory action ?
 </details>
 
 ---
-
-### Q642 — Benzodiazepine binding ste on GABA receptors *(2015)*
+### Q425 — Benzodiazepine binding ste on GABA receptors *(2015)*
 
 Benzodiazepine binding ste on GABA receptors is on ?
 
@@ -11195,8 +7077,7 @@ Benzodiazepine binding ste on GABA receptors is on ?
 </details>
 
 ---
-
-### Q643 — Drugs used for H Pylori are *(2015)*
+### Q426 — Drugs used for H Pylori are *(2015)*
 
 Drugs used for H. Pylori are all except?
 
@@ -11212,8 +7093,7 @@ Drugs used for H. Pylori are all except?
 </details>
 
 ---
-
-### Q644 — Base of sphenoid fuses with occipit *(2015)*
+### Q427 — Base of sphenoid fuses with occipit *(2015)*
 
 Base of sphenoid fuses with occipit at the age of -
 
@@ -11229,8 +7109,7 @@ Base of sphenoid fuses with occipit at the age of -
 </details>
 
 ---
-
-### Q645 — common malignant tumor of heart in *(2015)*
+### Q428 — common malignant tumor of heart in *(2015)*
 
 Most common malignant tumor of heart in adults
 
@@ -11246,9 +7125,7 @@ Most common malignant tumor of heart in adults
 </details>
 
 ---
-
-
-### Q646 — Which is activated for nuclear fragmentation
+### Q429 — Which is activated for nuclear fragmentation
 
 Which is activated for nuclear fragmentation in apoptosis -
 
@@ -11264,8 +7141,7 @@ Which is activated for nuclear fragmentation in apoptosis -
 </details>
 
 ---
-
-### Q647 — In apoptosis which isare involved -
+### Q430 — In apoptosis which isare involved -
 
 In apoptosis which is/are involved -
 
@@ -11281,8 +7157,7 @@ In apoptosis which is/are involved -
 </details>
 
 ---
-
-### Q648 — Spread of infection causes
+### Q431 — Spread of infection causes
 
 Spread of infection causes
 
@@ -11298,8 +7173,7 @@ Spread of infection causes
 </details>
 
 ---
-
-### Q649 — MI is a type of -
+### Q432 — MI is a type of -
 
 MI is a type of -
 
@@ -11315,8 +7189,7 @@ MI is a type of -
 </details>
 
 ---
-
-### Q650 — Not an example of excess tissue
+### Q433 — Not an example of excess tissue
 
 Not an example of excess tissue growth
 
@@ -11332,8 +7205,7 @@ Not an example of excess tissue growth
 </details>
 
 ---
-
-### Q651 — 1st mediator of inflammation to be
+### Q434 — 1st mediator of inflammation to be
 
 1st mediator of inflammation to be released is
 
@@ -11349,8 +7221,7 @@ Not an example of excess tissue growth
 </details>
 
 ---
-
-### Q652 — Which of the following is derived
+### Q435 — Which of the following is derived
 
 Which of the following is derived from fibroblast cells ?
 
@@ -11366,8 +7237,7 @@ Which of the following is derived from fibroblast cells ?
 </details>
 
 ---
-
-### Q653 — Process of migration of leukocytes through
+### Q436 — Process of migration of leukocytes through
 
 Process of migration of leukocytes through the endothelium is through:
 
@@ -11383,8 +7253,7 @@ Process of migration of leukocytes through the endothelium is through:
 </details>
 
 ---
-
-### Q654 — Serum amyloid associated protein, found in
+### Q437 — Serum amyloid associated protein, found in
 
 Serum amyloid associated protein, found in ?
 
@@ -11400,8 +7269,7 @@ Serum amyloid associated protein, found in ?
 </details>
 
 ---
-
-### Q655 — Reversible change from on cell type
+### Q438 — Reversible change from on cell type
 
 Reversible change from on cell type to other is known as -
 
@@ -11417,8 +7285,7 @@ Reversible change from on cell type to other is known as -
 </details>
 
 ---
-
-### Q656 — Elastic fibers of tunica media are
+### Q439 — Elastic fibers of tunica media are
 
 Elastic fibers of tunica media are secreted by
 
@@ -11434,8 +7301,7 @@ Elastic fibers of tunica media are secreted by
 </details>
 
 ---
-
-### Q657 — Small vessel vasculitis are -
+### Q440 — Small vessel vasculitis are -
 
 Small vessel vasculitis are -
 
@@ -11451,8 +7317,7 @@ Small vessel vasculitis are -
 </details>
 
 ---
-
-### Q658 — Warm antibody in AIHA is -
+### Q441 — Warm antibody in AIHA is -
 
 Warm antibody in AIHA is -
 
@@ -11468,8 +7333,7 @@ Warm antibody in AIHA is -
 </details>
 
 ---
-
-### Q659 — Osmotic fragility test is commonly used
+### Q442 — Osmotic fragility test is commonly used
 
 Osmotic fragility test is commonly used for -
 
@@ -11485,8 +7349,7 @@ Osmotic fragility test is commonly used for -
 </details>
 
 ---
-
-### Q660 — Which of the following findings is
+### Q443 — Which of the following findings is
 
 Which of the following findings is diagnostic of iron deficiency anemia?
 
@@ -11502,8 +7365,7 @@ Which of the following findings is diagnostic of iron deficiency anemia?
 </details>
 
 ---
-
-### Q661 — Ristocetin testing von Willebrand disease shows
+### Q444 — Ristocetin testing von Willebrand disease shows
 
 Ristocetin testing von Willebrand disease shows?
 
@@ -11519,8 +7381,7 @@ Ristocetin testing von Willebrand disease shows?
 </details>
 
 ---
-
-### Q662 — Shelf life of platelets to blood
+### Q445 — Shelf life of platelets to blood
 
 Shelf life of platelets to blood bank is
 
@@ -11536,8 +7397,7 @@ Shelf life of platelets to blood bank is
 </details>
 
 ---
-
-### Q663 — Which of the following does not
+### Q446 — Which of the following does not
 
 Which of the following does not predispose to leukemia?
 
@@ -11553,8 +7413,7 @@ Which of the following does not predispose to leukemia?
 </details>
 
 ---
-
-### Q664 — Hairy cell leukemia is a Neoplastic
+### Q447 — Hairy cell leukemia is a Neoplastic
 
 'Hairy cell leukemia' is a Neoplastic proliferation of :
 
@@ -11570,8 +7429,7 @@ Which of the following does not predispose to leukemia?
 </details>
 
 ---
-
-### Q665 — AML causing Gum hypertrophy
+### Q448 — AML causing Gum hypertrophy
 
 AML causing Gum hypertrophy ?
 
@@ -11587,8 +7445,7 @@ AML causing Gum hypertrophy ?
 </details>
 
 ---
-
-### Q666 — Radiotherapy induced radiation pneumonitis mediate
+### Q449 — Radiotherapy induced radiation pneumonitis mediate
 
 Radiotherapy induced radiation pneumonitis mediated by all of the following except -
 
@@ -11604,8 +7461,7 @@ Radiotherapy induced radiation pneumonitis mediated by all of the following exce
 </details>
 
 ---
-
-### Q667 — Most common lung cancer in non-
+### Q450 — Most common lung cancer in non-
 
 Most common lung cancer in non- smokers is:
 
@@ -11621,8 +7477,7 @@ Most common lung cancer in non- smokers is:
 </details>
 
 ---
-
-### Q668 — Most common histological form of lung
+### Q451 — Most common histological form of lung
 
 Most common histological form of lung Ca that metastasizes is -
 
@@ -11638,8 +7493,7 @@ Most common histological form of lung Ca that metastasizes is -
 </details>
 
 ---
-
-### Q669 — Most common tnre of renal carcinoma
+### Q452 — Most common tnre of renal carcinoma
 
 Most common tnre of renal carcinoma is -
 
@@ -11655,8 +7509,7 @@ Most common tnre of renal carcinoma is -
 </details>
 
 ---
-
-### Q670 — Subepithelial deposits in kidney are seen
+### Q453 — Subepithelial deposits in kidney are seen
 
 Subepithelial deposits in kidney are seen in-
 
@@ -11672,8 +7525,7 @@ Subepithelial deposits in kidney are seen in-
 </details>
 
 ---
-
-### Q671 — NotafeatureofPSGN -
+### Q454 — NotafeatureofPSGN -
 
 NotafeatureofPSGN -
 
@@ -11689,8 +7541,7 @@ NotafeatureofPSGN -
 </details>
 
 ---
-
-### Q672 — In follicular carcinoma chromosomal translocation 
+### Q455 — In follicular carcinoma chromosomal translocation 
 
 In follicular carcinoma chromosomal translocation is?
 
@@ -11706,8 +7557,7 @@ In follicular carcinoma chromosomal translocation is?
 </details>
 
 ---
-
-### Q673 — All of the following are features
+### Q456 — All of the following are features
 
 All of the following are features of granulomatous thyroiditis except?
 
@@ -11723,8 +7573,7 @@ All of the following are features of granulomatous thyroiditis except?
 </details>
 
 ---
-
-### Q674 — Sezary cells show which tlpe of
+### Q457 — Sezary cells show which tlpe of
 
 Sezary cells show which tlpe of nucleus -
 
@@ -11740,8 +7589,7 @@ Sezary cells show which tlpe of nucleus -
 </details>
 
 ---
-
-### Q675 — Prusian blue detects
+### Q458 — Prusian blue detects
 
 Prusian blue detects?
 
@@ -11757,8 +7605,7 @@ Prusian blue detects?
 </details>
 
 ---
-
-### Q676 — Lysosome with undigested particle inside is
+### Q459 — Lysosome with undigested particle inside is
 
 Lysosome with undigested particle inside is known as -
 
@@ -11774,8 +7621,7 @@ Lysosome with undigested particle inside is known as -
 </details>
 
 ---
-
-### Q677 — The predominant isozyme of LDH in
+### Q460 — The predominant isozyme of LDH in
 
 The predominant isozyme of LDH in Lung is:
 
@@ -11791,8 +7637,7 @@ The predominant isozyme of LDH in Lung is:
 </details>
 
 ---
-
-### Q678 — Homer rosette is seen in -
+### Q461 — Homer rosette is seen in -
 
 Homer rosette is seen in -
 
@@ -11808,8 +7653,7 @@ Homer rosette is seen in -
 </details>
 
 ---
-
-### Q679 — Neuroblastomas - good prognositc factor is
+### Q462 — Neuroblastomas - good prognositc factor is
 
 Neuroblastomas - good prognositc factor is ?
 
@@ -11825,8 +7669,7 @@ Neuroblastomas - good prognositc factor is ?
 </details>
 
 ---
-
-### Q680 — Flare in Triple response is mediated
+### Q463 — Flare in Triple response is mediated
 
 'Flare' in Triple response is mediated by :
 
@@ -11842,8 +7685,7 @@ Neuroblastomas - good prognositc factor is ?
 </details>
 
 ---
-
-### Q681 — HDL receptor is -
+### Q464 — HDL receptor is -
 
 HDL receptor is -
 
@@ -11859,8 +7701,7 @@ HDL receptor is -
 </details>
 
 ---
-
-### Q682 — Citron bodies boat or leaf shaped
+### Q465 — Citron bodies boat or leaf shaped
 
 "Citron bodies" boat or leaf shaped pleomorphic organism in an exudate is
 
@@ -11876,8 +7717,7 @@ HDL receptor is -
 </details>
 
 ---
-
-### Q683 — Calrexin and calreticulin are -
+### Q466 — Calrexin and calreticulin are -
 
 Calrexin and calreticulin are -
 
@@ -11893,8 +7733,7 @@ Calrexin and calreticulin are -
 </details>
 
 ---
-
-### Q684 — Which of the following is potassium
+### Q467 — Which of the following is potassium
 
 Which of the following is potassium Channelopathy -
 
@@ -11910,8 +7749,7 @@ Which of the following is potassium Channelopathy -
 </details>
 
 ---
-
-### Q685 — Which of the following is false
+### Q468 — Which of the following is false
 
 Which of the following is false regarding carcinoid tumor ?
 
@@ -11927,8 +7765,7 @@ Which of the following is false regarding carcinoid tumor ?
 </details>
 
 ---
-
-### Q686 — Fibrosis associated with liver cirrhosis is
+### Q469 — Fibrosis associated with liver cirrhosis is
 
 Fibrosis associated with liver cirrhosis is mediated by -
 
@@ -11944,8 +7781,7 @@ Fibrosis associated with liver cirrhosis is mediated by -
 </details>
 
 ---
-
-### Q687 — Solution currently used for liver preservation
+### Q470 — Solution currently used for liver preservation
 
 Solution currently used for liver preservation for transplant is -
 
@@ -11961,8 +7797,7 @@ Solution currently used for liver preservation for transplant is -
 </details>
 
 ---
-
-### Q688 — Which of the following markers is
+### Q471 — Which of the following markers is
 
 Which of the following markers is specific for gastro-intestinal stomal tumor (GIST) -
 
@@ -11978,8 +7813,7 @@ Which of the following markers is specific for gastro-intestinal stomal tumor (G
 </details>
 
 ---
-
-### Q689 — Primary hyperparathyroidism, phaeochromocytoma may
+### Q472 — Primary hyperparathyroidism, phaeochromocytoma may
 
 Primary hyperparathyroidism, phaeochromocytoma may be associated with which type of thyroid cancer?
 
@@ -11995,8 +7829,7 @@ Primary hyperparathyroidism, phaeochromocytoma may be associated with which type
 </details>
 
 ---
-
-### Q690 — Permission from DCGI Drug controller general,
+### Q473 — Permission from DCGI Drug controller general,
 
 Permission from DCGI [Drug controller general, India] is needed before which phase of drug trial?
 
@@ -12012,8 +7845,7 @@ Permission from DCGI [Drug controller general, India] is needed before which pha
 </details>
 
 ---
-
-### Q691 — CYP3A inhibitors isare -
+### Q474 — CYP3A inhibitors isare -
 
 CYP3A inhibitors is/are -
 
@@ -12029,8 +7861,7 @@ CYP3A inhibitors is/are -
 </details>
 
 ---
-
-### Q692 — Regarding efficacy and potency of a
+### Q475 — Regarding efficacy and potency of a
 
 Regarding efficacy and potency of a drug, all are true, EXCEPT:
 
@@ -12046,8 +7877,7 @@ Regarding efficacy and potency of a drug, all are true, EXCEPT:
 </details>
 
 ---
-
-### Q693 — Volume of distribution of a drug
+### Q476 — Volume of distribution of a drug
 
 Volume of distribution of a drug is 500 ml and target concentration of drug in blood is 5 g/L. 20% of administered drug is reached to systemic circulation. What
 
@@ -12063,8 +7893,7 @@ Volume of distribution of a drug is 500 ml and target concentration of drug in b
 </details>
 
 ---
-
-### Q694 — Drugs which is not metabolized by
+### Q477 — Drugs which is not metabolized by
 
 Drugs which is not metabolized by acetylation ?
 
@@ -12080,8 +7909,7 @@ Drugs which is not metabolized by acetylation ?
 </details>
 
 ---
-
-### Q695 — True about drug metabolism
+### Q478 — True about drug metabolism
 
 True about drug metabolism ?
 
@@ -12097,8 +7925,7 @@ True about drug metabolism ?
 </details>
 
 ---
-
-### Q696 — Which is topical way of drug
+### Q479 — Which is topical way of drug
 
 Which is topical way of drug administration ?
 
@@ -12114,8 +7941,7 @@ Which is topical way of drug administration ?
 </details>
 
 ---
-
-### Q697 — True about transdermal drug delivery system
+### Q480 — True about transdermal drug delivery system
 
 True about transdermal drug delivery system are all except?
 
@@ -12131,8 +7957,7 @@ True about transdermal drug delivery system are all except?
 </details>
 
 ---
-
-### Q698 — Receptor level antagonism is shown by
+### Q481 — Receptor level antagonism is shown by
 
 Receptor level antagonism is shown by ?
 
@@ -12148,8 +7973,7 @@ Receptor level antagonism is shown by ?
 </details>
 
 ---
-
-### Q699 — Fastest receptor mediated action is through
+### Q482 — Fastest receptor mediated action is through
 
 Fastest receptor mediated action is through ?
 
@@ -12165,8 +7989,7 @@ Fastest receptor mediated action is through ?
 </details>
 
 ---
-
-### Q700 — Side effects of clonidine are all
+### Q483 — Side effects of clonidine are all
 
 Side effects of clonidine are all except ?
 
@@ -12182,8 +8005,7 @@ Side effects of clonidine are all except ?
 </details>
 
 ---
-
-### Q701 — Lipid insoluble (3-blokcer is -
+### Q484 — Lipid insoluble (3-blokcer is -
 
 Lipid insoluble (3-blokcer is -
 
@@ -12199,8 +8021,7 @@ Lipid insoluble (3-blokcer is -
 </details>
 
 ---
-
-### Q702 — Nonselective a  1 blocker is
+### Q485 — Nonselective a  1 blocker is
 
 Nonselective a + 1 blocker is ?
 
@@ -12216,8 +8037,7 @@ Nonselective a + 1 blocker is ?
 </details>
 
 ---
-
-### Q703 — Non-selective Beta-blocker with sympathomimetic ac
+### Q486 — Non-selective Beta-blocker with sympathomimetic ac
 
 Non-selective Beta-blocker with sympathomimetic activity ?
 
@@ -12233,8 +8053,7 @@ Non-selective Beta-blocker with sympathomimetic activity ?
 </details>
 
 ---
-
-### Q704 — Action of M, cholinergic receptors
+### Q487 — Action of M, cholinergic receptors
 
 Action of M, cholinergic receptors ?
 
@@ -12250,8 +8069,7 @@ Action of M, cholinergic receptors ?
 </details>
 
 ---
-
-### Q705 — Antimuscarinic drug used in overactive bladder
+### Q488 — Antimuscarinic drug used in overactive bladder
 
 Antimuscarinic drug used in overactive bladder -
 
@@ -12267,8 +8085,7 @@ Antimuscarinic drug used in overactive bladder -
 </details>
 
 ---
-
-### Q706 — Anti-cholinesterase with central action
+### Q489 — Anti-cholinesterase with central action
 
 Anti-cholinesterase with central action ?
 
@@ -12284,8 +8101,7 @@ Anti-cholinesterase with central action ?
 </details>
 
 ---
-
-### Q707 — Maximum cycloplegic action of atropine is
+### Q490 — Maximum cycloplegic action of atropine is
 
 Maximum cycloplegic action of atropine is seen at ?
 
@@ -12301,8 +8117,7 @@ Maximum cycloplegic action of atropine is seen at ?
 </details>
 
 ---
-
-### Q708 — One of the following is not
+### Q491 — One of the following is not
 
 One of the following is not a side effect of atropine?
 
@@ -12318,8 +8133,7 @@ One of the following is not a side effect of atropine?
 </details>
 
 ---
-
-### Q709 — Longest acting anti-cholinesterase -
+### Q492 — Longest acting anti-cholinesterase -
 
 Longest acting anti-cholinesterase -
 
@@ -12335,8 +8149,7 @@ Longest acting anti-cholinesterase -
 </details>
 
 ---
-
-### Q710 — Propranolol is used in
+### Q493 — Propranolol is used in
 
 Propranolol is used in ?
 
@@ -12352,8 +8165,7 @@ Propranolol is used in ?
 </details>
 
 ---
-
-### Q711 — Maximum potassium loss is caused by
+### Q494 — Maximum potassium loss is caused by
 
 Maximum potassium loss is caused by which diuretics ?
 
@@ -12369,8 +8181,7 @@ Maximum potassium loss is caused by which diuretics ?
 </details>
 
 ---
-
-### Q712 — True about cardiac muscle fibers
+### Q495 — True about cardiac muscle fibers
 
 True about cardiac muscle fibers ?
 
@@ -12386,8 +8197,7 @@ True about cardiac muscle fibers ?
 </details>
 
 ---
-
-### Q713 — Side effects of amiodarone are all
+### Q496 — Side effects of amiodarone are all
 
 Side effects of amiodarone are all except ?
 
@@ -12403,8 +8213,7 @@ Side effects of amiodarone are all except ?
 </details>
 
 ---
-
-### Q714 — Thiazides cause hypercalcemia by
+### Q497 — Thiazides cause hypercalcemia by
 
 Thiazides cause hypercalcemia by ?
 
@@ -12420,8 +8229,7 @@ Thiazides cause hypercalcemia by ?
 </details>
 
 ---
-
-### Q715 — Drug affecting positive free water clearance
+### Q498 — Drug affecting positive free water clearance
 
 Drug affecting positive free water clearance without affecting negative free water clearance -
 
@@ -12437,8 +8245,7 @@ Drug affecting positive free water clearance without affecting negative free wat
 </details>
 
 ---
-
-### Q716 — Sympathomimetic drug which causes decrease in
+### Q499 — Sympathomimetic drug which causes decrease in
 
 Sympathomimetic drug which causes decrease in heart rate ?
 
@@ -12454,8 +8261,7 @@ Sympathomimetic drug which causes decrease in heart rate ?
 </details>
 
 ---
-
-### Q717 — Na- K- 2Cl- is inhibited by
+### Q500 — Na- K- 2Cl- is inhibited by
 
 Na*- K*- 2Cl- is inhibited by -
 
@@ -12471,8 +8277,7 @@ Na*- K*- 2Cl- is inhibited by -
 </details>
 
 ---
-
-### Q718 — Opioid morphine causes
+### Q501 — Opioid morphine causes
 
 Opioid [morphine] causes ?
 
@@ -12488,8 +8293,7 @@ Opioid [morphine] causes ?
 </details>
 
 ---
-
-### Q719 — Most common renal sequel of lithium
+### Q502 — Most common renal sequel of lithium
 
 Most common renal sequel of lithium toxicity is ?
 
@@ -12505,8 +8309,7 @@ Most common renal sequel of lithium toxicity is ?
 </details>
 
 ---
-
-### Q720 — Drug(s) not given as transdermal patch
+### Q503 — Drug(s) not given as transdermal patch
 
 Drug(s) not given as transdermal patch:
 
@@ -12522,8 +8325,7 @@ Drug(s) not given as transdermal patch:
 </details>
 
 ---
-
-### Q721 — Zonisamide acts on
+### Q504 — Zonisamide acts on
 
 Zonisamide acts on ?
 
@@ -12539,8 +8341,7 @@ Zonisamide acts on ?
 </details>
 
 ---
-
-### Q722 — Dexmedetomidine acts on which receptor for
+### Q505 — Dexmedetomidine acts on which receptor for
 
 Dexmedetomidine acts on which receptor for its analgesic action ?
 
@@ -12556,8 +8357,7 @@ Dexmedetomidine acts on which receptor for its analgesic action ?
 </details>
 
 ---
-
-### Q723 — Adverse effects of phenytoin include all
+### Q506 — Adverse effects of phenytoin include all
 
 Adverse effects of phenytoin include all of the following except?
 
@@ -12573,8 +8373,7 @@ Adverse effects of phenytoin include all of the following except?
 </details>
 
 ---
-
-### Q724 — Which of the following is true
+### Q507 — Which of the following is true
 
 Which of the following is true?
 
@@ -12590,8 +8389,7 @@ Which of the following is true?
 </details>
 
 ---
-
-### Q725 — Which of the following is an
+### Q508 — Which of the following is an
 
 Which of the following is an aromatase inhibitor?
 
@@ -12607,8 +8405,7 @@ Which of the following is an aromatase inhibitor?
 </details>
 
 ---
-
-### Q726 — Drug which is contraindicated before 2nd
+### Q509 — Drug which is contraindicated before 2nd
 
 Drug which is contraindicated before 2nd stage of labor is:
 
@@ -12624,8 +8421,7 @@ Drug which is contraindicated before 2nd stage of labor is:
 </details>
 
 ---
-
-### Q727 — Which of the following oral antidiabetic
+### Q510 — Which of the following oral antidiabetic
 
 Which of the following oral antidiabetic drug is insulin secretagogues?
 
@@ -12641,8 +8437,7 @@ Which of the following oral antidiabetic drug is insulin secretagogues?
 </details>
 
 ---
-
-### Q728 — Which of the following antidiabetic drug
+### Q511 — Which of the following antidiabetic drug
 
 Which of the following antidiabetic drug is insulin secretogogue ?
 
@@ -12658,8 +8453,7 @@ Which of the following antidiabetic drug is insulin secretogogue ?
 </details>
 
 ---
-
-### Q729 — Oral sore due to inhaled steroids
+### Q512 — Oral sore due to inhaled steroids
 
 Oral sore due to inhaled steroids are treated by ?
 
@@ -12675,8 +8469,7 @@ Oral sore due to inhaled steroids are treated by ?
 </details>
 
 ---
-
-### Q730 — PGE1 analogue is
+### Q513 — PGE1 analogue is
 
 PGE1 analogue is ?
 
@@ -12692,8 +8485,7 @@ PGE1 analogue is ?
 </details>
 
 ---
-
-### Q731 — Triptan taken by nasal route is
+### Q514 — Triptan taken by nasal route is
 
 Triptan taken by nasal route is ?
 
@@ -12709,8 +8501,7 @@ Triptan taken by nasal route is ?
 </details>
 
 ---
-
-### Q732 — Acetaminophen Paracetamol induced liver toxicity i
+### Q515 — Acetaminophen Paracetamol induced liver toxicity i
 
 Acetaminophen [Paracetamol] induced liver toxicity is due to ?
 
@@ -12726,8 +8517,7 @@ Acetaminophen [Paracetamol] induced liver toxicity is due to ?
 </details>
 
 ---
-
-### Q733 — True about heparin induced thrombocytopenia
+### Q516 — True about heparin induced thrombocytopenia
 
 True about heparin induced thrombocytopenia ?
 
@@ -12743,8 +8533,7 @@ True about heparin induced thrombocytopenia ?
 </details>
 
 ---
-
-### Q734 — Which of following is a stool
+### Q517 — Which of following is a stool
 
 Which of following is a stool softener ?
 
@@ -12760,8 +8549,7 @@ Which of following is a stool softener ?
 </details>
 
 ---
-
-### Q735 — Latest oral direct thrombin inhibitor is
+### Q518 — Latest oral direct thrombin inhibitor is
 
 Latest oral direct thrombin inhibitor is?
 
@@ -12777,8 +8565,7 @@ Latest oral direct thrombin inhibitor is?
 </details>
 
 ---
-
-### Q736 — Ximelagatran is used as
+### Q519 — Ximelagatran is used as
 
 Ximelagatran is used as ?
 
@@ -12794,8 +8581,7 @@ Ximelagatran is used as ?
 </details>
 
 ---
-
-### Q737 — Thymidine is responsible for resistance to
+### Q520 — Thymidine is responsible for resistance to
 
 Thymidine is responsible for resistance to which antibiotic ?
 
@@ -12811,8 +8597,7 @@ Thymidine is responsible for resistance to which antibiotic ?
 </details>
 
 ---
-
-### Q738 — Which of the following is not
+### Q521 — Which of the following is not
 
 Which of the following is not excreted in kidney ?
 
@@ -12828,8 +8613,7 @@ Which of the following is not excreted in kidney ?
 </details>
 
 ---
-
-### Q739 — Levamisol is aan
+### Q522 — Levamisol is aan
 
 Levamisol is a/an ?
 
@@ -12845,8 +8629,7 @@ Levamisol is a/an ?
 </details>
 
 ---
-
-### Q740 — Quinine acts on which stage of
+### Q523 — Quinine acts on which stage of
 
 Quinine acts on which stage of plasmodium life cycle?
 
@@ -12862,8 +8645,7 @@ Quinine acts on which stage of plasmodium life cycle?
 </details>
 
 ---
-
-### Q741 — Synergistic action is shown by all
+### Q524 — Synergistic action is shown by all
 
 Synergistic action is shown by all except ?
 
@@ -12879,8 +8661,7 @@ Synergistic action is shown by all except ?
 </details>
 
 ---
-
-### Q742 — Neuropathy with INH therapy is least
+### Q525 — Neuropathy with INH therapy is least
 
 Neuropathy with INH therapy is least in patients?
 
@@ -12896,8 +8677,7 @@ Neuropathy with INH therapy is least in patients?
 </details>
 
 ---
-
-### Q743 — Longest acting carbapenems
+### Q526 — Longest acting carbapenems
 
 Longest acting carbapenems ?
 
@@ -12913,8 +8693,7 @@ Longest acting carbapenems ?
 </details>
 
 ---
-
-### Q744 — XDR TB is defined as
+### Q527 — XDR TB is defined as
 
 XDR TB is defined as ?
 
@@ -12930,8 +8709,7 @@ XDR TB is defined as ?
 </details>
 
 ---
-
-### Q745 — Which antibiotic should not be given
+### Q528 — Which antibiotic should not be given
 
 Which antibiotic should not be given after drinking milk?
 
@@ -12947,8 +8725,7 @@ Which antibiotic should not be given after drinking milk?
 </details>
 
 ---
-
-### Q746 — Post-transplantation hypertension can be caused by
+### Q529 — Post-transplantation hypertension can be caused by
 
 Post-transplantation hypertension can be caused by:I. Rejection. II. Cyclosporine nephrotoxicity.III. Renal transplant artery stenosis (RTAS).IV.
 
@@ -12964,8 +8741,7 @@ Post-transplantation hypertension can be caused by:I. Rejection. II. Cyclosporin
 </details>
 
 ---
-
-### Q747 — Which of the following drugs is
+### Q530 — Which of the following drugs is
 
 Which of the following drugs is associated with untoward side effect of renal tubular damage-
 
@@ -12981,8 +8757,7 @@ Which of the following drugs is associated with untoward side effect of renal tu
 </details>
 
 ---
-
-### Q748 — Drug that can cause hypertrophic pyloric
+### Q531 — Drug that can cause hypertrophic pyloric
 
 Drug that can cause hypertrophic pyloric stenosis is?
 
@@ -12998,8 +8773,7 @@ Drug that can cause hypertrophic pyloric stenosis is?
 </details>
 
 ---
-
-### Q749 — Lower esophageal sphincter pressure is increased
+### Q532 — Lower esophageal sphincter pressure is increased
 
 Lower esophageal sphincter pressure is increased by all of the following substances, EXCEPT:
 
@@ -13015,8 +8789,7 @@ Lower esophageal sphincter pressure is increased by all of the following substan
 </details>
 
 ---
-
-### Q750 — Interstitial nephritis is seen with all
+### Q533 — Interstitial nephritis is seen with all
 
 Interstitial nephritis is seen with all except
 
@@ -13032,8 +8805,7 @@ Interstitial nephritis is seen with all except
 </details>
 
 ---
-
-### Q751 — Lorcaserin is used as
+### Q534 — Lorcaserin is used as
 
 Lorcaserin is used as ?
 
@@ -13049,8 +8821,7 @@ Lorcaserin is used as ?
 </details>
 
 ---
-
-### Q752 — Flu like syptoms is side effect
+### Q535 — Flu like syptoms is side effect
 
 Flu like syptoms is side effect of which anti TB drug ?
 
@@ -13066,8 +8837,7 @@ Flu like syptoms is side effect of which anti TB drug ?
 </details>
 
 ---
-
-### Q753 — All of the following are known
+### Q536 — All of the following are known
 
 All of the following are known adverse effects of thalidomide, except:
 
@@ -13083,8 +8853,7 @@ All of the following are known adverse effects of thalidomide, except:
 </details>
 
 ---
-
-### Q754 — Oxidation of drugs is mainly takes
+### Q537 — Oxidation of drugs is mainly takes
 
 Oxidation of drugs is mainly takes place in?
 
@@ -13100,8 +8869,7 @@ Oxidation of drugs is mainly takes place in?
 </details>
 
 ---
-
-### Q755 — Sec 191 IPC is for -
+### Q538 — Sec 191 IPC is for -
 
 Sec 191 IPC is for -
 
@@ -13117,8 +8885,7 @@ Sec 191 IPC is for -
 </details>
 
 ---
-
-### Q756 — Dying declaration is a MAHE 10
+### Q539 — Dying declaration is a MAHE 10
 
 Dying declaration is a: MAHE 10
 
@@ -13134,8 +8901,7 @@ Dying declaration is a: MAHE 10
 </details>
 
 ---
-
-### Q757 — Novus actus interveniens is -
+### Q540 — Novus actus interveniens is -
 
 Novus actus interveniens is -
 
@@ -13151,8 +8917,7 @@ Novus actus interveniens is -
 </details>
 
 ---
-
-### Q758 — Inquest, not followed in India is
+### Q541 — Inquest, not followed in India is
 
 Inquest, not followed in India is -
 
@@ -13168,8 +8933,7 @@ Inquest, not followed in India is -
 </details>
 
 ---
-
-### Q759 — Length of the fetus is 40cms
+### Q542 — Length of the fetus is 40cms
 
 Length of the fetus is 40cms. What would be the age of gestation ?
 
@@ -13185,8 +8949,7 @@ Length of the fetus is 40cms. What would be the age of gestation ?
 </details>
 
 ---
-
-### Q760 — UV rays examination is done for
+### Q543 — UV rays examination is done for
 
 UV rays examination is done for -
 
@@ -13202,8 +8965,7 @@ UV rays examination is done for -
 </details>
 
 ---
-
-### Q761 — Time interval between somatic and molecular
+### Q544 — Time interval between somatic and molecular
 
 Time interval between somatic and molecular death is -
 
@@ -13219,8 +8981,7 @@ Time interval between somatic and molecular death is -
 </details>
 
 ---
-
-### Q762 — Bishops tripod of life includes all
+### Q545 — Bishops tripod of life includes all
 
 Bishop's tripod of life includes all except -
 
@@ -13236,8 +8997,7 @@ Bishop's tripod of life includes all except -
 </details>
 
 ---
-
-### Q763 — For autopsy, stomach is open through
+### Q546 — For autopsy, stomach is open through
 
 For autopsy, stomach is open through -
 
@@ -13253,8 +9013,7 @@ For autopsy, stomach is open through -
 </details>
 
 ---
-
-### Q764 — Tache noire de salenortica is a
+### Q547 — Tache noire de salenortica is a
 
 Tache noire de salenortica is a postmortem finding is related to
 
@@ -13270,8 +9029,7 @@ Tache noire de salenortica is a postmortem finding is related to
 </details>
 
 ---
-
-### Q765 — Adipocere formation is seen in
+### Q548 — Adipocere formation is seen in
 
 Adipocere formation is seen in:
 
@@ -13287,8 +9045,7 @@ Adipocere formation is seen in:
 </details>
 
 ---
-
-### Q766 — In Adipocere, color change seen is
+### Q549 — In Adipocere, color change seen is
 
 In Adipocere, color change seen is -
 
@@ -13304,8 +9061,7 @@ In Adipocere, color change seen is -
 </details>
 
 ---
-
-### Q767 — True about cadaveric spasm
+### Q550 — True about cadaveric spasm
 
 True about cadaveric spasm :
 
@@ -13321,8 +9077,7 @@ True about cadaveric spasm :
 </details>
 
 ---
-
-### Q768 — In India exhumation is ordered by
+### Q551 — In India exhumation is ordered by
 
 In India exhumation is ordered by ?
 
@@ -13338,8 +9093,7 @@ In India exhumation is ordered by ?
 </details>
 
 ---
-
-### Q769 — Chicken fat appearance is seen in
+### Q552 — Chicken fat appearance is seen in
 
 Chicken fat appearance is seen in -
 
@@ -13355,8 +9109,7 @@ Chicken fat appearance is seen in -
 </details>
 
 ---
-
-### Q770 — True about heat hematoma PGI 12
+### Q553 — True about heat hematoma PGI 12
 
 True about heat hematoma: PGI 12
 
@@ -13372,8 +9125,7 @@ True about heat hematoma: PGI 12
 </details>
 
 ---
-
-### Q771 — Homicidal gunshot wound can be differentiated
+### Q554 — Homicidal gunshot wound can be differentiated
 
 Homicidal gunshot wound can be differentiated from suicidal gunshot wound by-
 
@@ -13389,8 +9141,7 @@ Homicidal gunshot wound can be differentiated from suicidal gunshot wound by-
 </details>
 
 ---
-
-### Q772 — Choking is characteristic of the following
+### Q555 — Choking is characteristic of the following
 
 Choking is characteristic of the following weapon:
 
@@ -13406,8 +9157,7 @@ Choking is characteristic of the following weapon:
 </details>
 
 ---
-
-### Q773 — Beveling of skull is seen in
+### Q556 — Beveling of skull is seen in
 
 Beveling of skull is seen in -
 
@@ -13423,8 +9173,7 @@ Beveling of skull is seen in -
 </details>
 
 ---
-
-### Q774 — Most specific sign of Antemortem burns
+### Q557 — Most specific sign of Antemortem burns
 
 Most specific sign of Antemortem burns is -
 
@@ -13440,8 +9189,7 @@ Most specific sign of Antemortem burns is -
 </details>
 
 ---
-
-### Q775 — Granulomatosis infantiseptica is caused by
+### Q558 — Granulomatosis infantiseptica is caused by
 
 Granulomatosis infantiseptica is caused by:
 
@@ -13457,8 +9205,7 @@ Granulomatosis infantiseptica is caused by:
 </details>
 
 ---
-
-### Q776 — Which is not true about macrophages
+### Q559 — Which is not true about macrophages
 
 Which is not true about macrophages:
 
@@ -13474,8 +9221,7 @@ Which is not true about macrophages:
 </details>
 
 ---
-
-### Q777 — Which of the following is not
+### Q560 — Which of the following is not
 
 Which of the following is not a premalignant condition oral cancer?
 
@@ -13491,8 +9237,7 @@ Which of the following is not a premalignant condition oral cancer?
 </details>
 
 ---
-
-### Q778 — Red keratic precipitates are seen in
+### Q561 — Red keratic precipitates are seen in
 
 Red keratic precipitates are seen in ?
 
@@ -13508,8 +9253,7 @@ Red keratic precipitates are seen in ?
 </details>
 
 ---
-
-### Q779 — Central bronchiectasis is seen with
+### Q562 — Central bronchiectasis is seen with
 
 Central bronchiectasis is seen with
 
@@ -13525,8 +9269,7 @@ Central bronchiectasis is seen with
 </details>
 
 ---
-
-### Q780 — Bronchiectasis Sicca is seen with
+### Q563 — Bronchiectasis Sicca is seen with
 
 Bronchiectasis Sicca is seen with
 
@@ -13542,8 +9285,7 @@ Bronchiectasis Sicca is seen with
 </details>
 
 ---
-
-### Q781 — Most common cause of idiopathic interstitial
+### Q564 — Most common cause of idiopathic interstitial
 
 Most common cause of idiopathic interstitial pneumonia is
 
@@ -13559,8 +9301,7 @@ Most common cause of idiopathic interstitial pneumonia is
 </details>
 
 ---
-
-### Q782 — Disease, does not recur in the
+### Q565 — Disease, does not recur in the
 
 Disease, does not recur in the kidney after renal transplant is :
 
@@ -13576,8 +9317,7 @@ Disease, does not recur in the kidney after renal transplant is :
 </details>
 
 ---
-
-### Q783 — The most common cause of malignant
+### Q566 — The most common cause of malignant
 
 The most common cause of malignant adrenal mass is
 
@@ -13593,8 +9333,7 @@ The most common cause of malignant adrenal mass is
 </details>
 
 ---
-
-### Q784 — IRIS is -
+### Q567 — IRIS is -
 
 I.R.I.S. is -
 
@@ -13610,8 +9349,7 @@ I.R.I.S. is -
 </details>
 
 ---
-
-### Q785 — All are seen in carneys triad
+### Q568 — All are seen in carneys triad
 
 All are seen in carney's triad except -
 
@@ -13627,8 +9365,7 @@ All are seen in carney's triad except -
 </details>
 
 ---
-
-### Q786 — All of the following are paraneoplastic
+### Q569 — All of the following are paraneoplastic
 
 All of the following are paraneoplastic syndromes for renal cell carcinoma except -
 
@@ -13644,8 +9381,7 @@ All of the following are paraneoplastic syndromes for renal cell carcinoma excep
 </details>
 
 ---
-
-### Q787 — Perihepatic fibrosis occurring in Fitz Hugh
+### Q570 — Perihepatic fibrosis occurring in Fitz Hugh
 
 Perihepatic fibrosis occurring in Fitz Hugh Curtis Syndrome is due to -
 
@@ -13661,8 +9397,7 @@ Perihepatic fibrosis occurring in Fitz Hugh Curtis Syndrome is due to -
 </details>
 
 ---
-
-### Q788 — True about MALToma is
+### Q571 — True about MALToma is
 
 True about MALToma is
 
@@ -13678,8 +9413,7 @@ True about MALToma is
 </details>
 
 ---
-
-### Q789 — False about Gastric lymphoma is
+### Q572 — False about Gastric lymphoma is
 
 False about Gastric lymphoma is:
 
@@ -13695,8 +9429,7 @@ False about Gastric lymphoma is:
 </details>
 
 ---
-
-### Q790 — Aneurysmal dilation of the small bowel
+### Q573 — Aneurysmal dilation of the small bowel
 
 Aneurysmal dilation of the small bowel is seen in
 
@@ -13712,8 +9445,7 @@ Aneurysmal dilation of the small bowel is seen in
 </details>
 
 ---
-
-### Q791 — Which of the following is a
+### Q574 — Which of the following is a
 
 Which of the following is a tumour marker for bladder cancer ?
 
@@ -13729,8 +9461,7 @@ Which of the following is a tumour marker for bladder cancer ?
 </details>
 
 ---
-
-### Q792 — RPLND and Chemotherapy may be used
+### Q575 — RPLND and Chemotherapy may be used
 
 RPLND and Chemotherapy may be used in management of
 
@@ -13746,8 +9477,7 @@ RPLND and Chemotherapy may be used in management of
 </details>
 
 ---
-
-### Q793 — year old child presents with a
+### Q576 — year old child presents with a
 
 A patient (age not captured in source) who is a year old child presents with a mass in the lumbar region with abdominal pain with excruciating bone pain. Possible diagnosis is -
 
@@ -13763,8 +9493,7 @@ A patient (age not captured in source) who is a year old child presents with a m
 </details>
 
 ---
-
-### Q794 — year old child presents with an
+### Q577 — year old child presents with an
 
 A patient (age not captured in source) who is a year old child presents with an abdominal mass, fever, bone pain and IVC thrombosis , the diagnosis could be -
 
@@ -13780,8 +9509,7 @@ A patient (age not captured in source) who is a year old child presents with an 
 </details>
 
 ---
-
-### Q795 — Which one of the following statements
+### Q578 — Which one of the following statements
 
 Which one of the following statements is false about Xanthogranulomatous pyelonephritis in children?
 
@@ -13797,8 +9525,7 @@ Which one of the following statements is false about Xanthogranulomatous pyelone
 </details>
 
 ---
-
-### Q796 — Abdominal pain in Henoch Schonlein purpura
+### Q579 — Abdominal pain in Henoch Schonlein purpura
 
 Abdominal pain in Henoch Schonlein purpura is due to -
 
@@ -13814,8 +9541,7 @@ Abdominal pain in Henoch Schonlein purpura is due to -
 </details>
 
 ---
-
-### Q797 — Waddling gait due to
+### Q580 — Waddling gait due to
 
 Waddling gait due to:
 
@@ -13831,8 +9557,7 @@ Waddling gait due to:
 </details>
 
 ---
-
-### Q798 — Onion peel appearanace on Xray is
+### Q581 — Onion peel appearanace on Xray is
 
 Onion peel appearanace on Xray is seen in which of the following conditions ?
 
@@ -13848,8 +9573,7 @@ Onion peel appearanace on Xray is seen in which of the following conditions ?
 </details>
 
 ---
-
-### Q799 — True about nabothian cyst is all
+### Q582 — True about nabothian cyst is all
 
 True about nabothian cyst is all except - �
 
@@ -13865,8 +9589,7 @@ True about nabothian cyst is all except - �
 </details>
 
 ---
-
-### Q800 — Most common cause of pelvic inflammatory
+### Q583 — Most common cause of pelvic inflammatory
 
 Most common cause of pelvic inflammatory disease is -
 
@@ -13882,8 +9605,7 @@ Most common cause of pelvic inflammatory disease is -
 </details>
 
 ---
-
-### Q801 — Stereotactic radiosurgery is done for -
+### Q584 — Stereotactic radiosurgery is done for -
 
 Stereotactic radiosurgery is done for -
 
@@ -13902,7 +9624,7 @@ Stereotactic radiosurgery is done for -
 
 ## Microbiology
 
-### Q802 — True about serum sickness is *(2015)*
+### Q585 — True about serum sickness is *(2015)*
 
 True about serum sickness is
 
@@ -13918,8 +9640,7 @@ True about serum sickness is
 </details>
 
 ---
-
-### Q803 — Example of transfer of drug resistance *(2015)*
+### Q586 — Example of transfer of drug resistance *(2015)*
 
 Example of transfer of drug resistance by conjugation -
 
@@ -13935,8 +9656,7 @@ Example of transfer of drug resistance by conjugation -
 </details>
 
 ---
-
-### Q804 — Oropharyngeal commensal which predisposes to ca... *(2015)*
+### Q587 — Oropharyngeal commensal which predisposes to ca... *(2015)*
 
 Oropharyngeal commensal which predisposes to candidiasis -
 
@@ -13952,8 +9672,7 @@ Oropharyngeal commensal which predisposes to candidiasis -
 </details>
 
 ---
-
-### Q805 — Clinical significance of Vi antigen of *(2015)*
+### Q588 — Clinical significance of Vi antigen of *(2015)*
 
 Clinical significance of Vi antigen of S. typhi is:
 
@@ -13969,8 +9688,7 @@ Clinical significance of Vi antigen of S. typhi is:
 </details>
 
 ---
-
-### Q806 — Not true about paramyxoviruses - *(2015)*
+### Q589 — Not true about paramyxoviruses - *(2015)*
 
 Not true about paramyxoviruses -
 
@@ -13986,8 +9704,7 @@ Not true about paramyxoviruses -
 </details>
 
 ---
-
-### Q807 — Indirect Coombs test detects *(2015)*
+### Q590 — Indirect Coombs test detects *(2015)*
 
 Indirect Coomb's test detects:
 
@@ -14003,8 +9720,7 @@ Indirect Coomb's test detects:
 </details>
 
 ---
-
-### Q808 — True statement about malignant otitis externa *(2015)*
+### Q591 — True statement about malignant otitis externa *(2015)*
 
 True statement about malignant otitis externa is:
 
@@ -14020,8 +9736,7 @@ True statement about malignant otitis externa is:
 </details>
 
 ---
-
-### Q809 — Streptococcus bovis infection is associated with *(2015)*
+### Q592 — Streptococcus bovis infection is associated with *(2015)*
 
 Streptococcus bovis infection is associated with -
 
@@ -14037,9 +9752,7 @@ Streptococcus bovis infection is associated with -
 </details>
 
 ---
-
-
-### Q810 — Obliterative endarteritis in vasa vasorum is
+### Q593 — Obliterative endarteritis in vasa vasorum is
 
 Obliterative endarteritis in vasa vasorum is seen in -
 
@@ -14055,8 +9768,7 @@ Obliterative endarteritis in vasa vasorum is seen in -
 </details>
 
 ---
-
-### Q811 — hLh blood group-
+### Q594 — hLh blood group-
 
 hL/h blood group-
 
@@ -14072,8 +9784,7 @@ hL/h blood group-
 </details>
 
 ---
-
-### Q812 — Routine Rh typing includes testing
+### Q595 — Routine Rh typing includes testing
 
 Routine Rh typing includes testing?
 
@@ -14089,8 +9800,7 @@ Routine Rh typing includes testing?
 </details>
 
 ---
-
-### Q813 — Irregular scarred kidney with pelvic dilatation
+### Q596 — Irregular scarred kidney with pelvic dilatation
 
 Irregular scarred kidney with pelvic dilatation is seen with -
 
@@ -14106,8 +9816,7 @@ Irregular scarred kidney with pelvic dilatation is seen with -
 </details>
 
 ---
-
-### Q814 — Ghons focus reflects
+### Q597 — Ghons focus reflects
 
 Ghon's focus reflects:
 
@@ -14123,8 +9832,7 @@ Ghon's focus reflects:
 </details>
 
 ---
-
-### Q815 — Bacteria most commonly involved in bowel
+### Q598 — Bacteria most commonly involved in bowel
 
 Bacteria most commonly involved in bowel decomposition after death is -
 
@@ -14140,8 +9848,7 @@ Bacteria most commonly involved in bowel decomposition after death is -
 </details>
 
 ---
-
-### Q816 — Crystal violet blood agar is used
+### Q599 — Crystal violet blood agar is used
 
 Crystal violet blood agar is used for which bacteria?
 
@@ -14157,8 +9864,7 @@ Crystal violet blood agar is used for which bacteria?
 </details>
 
 ---
-
-### Q817 — Modified Ziehl-neelsen staining is used for
+### Q600 — Modified Ziehl-neelsen staining is used for
 
 Modified Ziehl-neelsen staining is used for:
 
@@ -14174,8 +9880,7 @@ Modified Ziehl-neelsen staining is used for:
 </details>
 
 ---
-
-### Q818 — Viral DNA is integrated into Bacterial
+### Q601 — Viral DNA is integrated into Bacterial
 
 Viral DNA is integrated into Bacterial DNA in:
 
@@ -14191,8 +9896,7 @@ Viral DNA is integrated into Bacterial DNA in:
 </details>
 
 ---
-
-### Q819 — Frozen phenomenon is used for -
+### Q602 — Frozen phenomenon is used for -
 
 Frozen phenomenon is used for -
 
@@ -14208,8 +9912,7 @@ Frozen phenomenon is used for -
 </details>
 
 ---
-
-### Q820 — Nucleic acid is not found in
+### Q603 — Nucleic acid is not found in
 
 Nucleic acid is not found in -
 
@@ -14225,8 +9928,7 @@ Nucleic acid is not found in -
 </details>
 
 ---
-
-### Q821 — Most common organism involved in nosocomial
+### Q604 — Most common organism involved in nosocomial
 
 Most common organism involved in nosocomial infection -
 
@@ -14242,8 +9944,7 @@ Most common organism involved in nosocomial infection -
 </details>
 
 ---
-
-### Q822 — Oil paint appearance on nutrient agar
+### Q605 — Oil paint appearance on nutrient agar
 
 Oil paint appearance on nutrient agar is seen in -
 
@@ -14259,8 +9960,7 @@ Oil paint appearance on nutrient agar is seen in -
 </details>
 
 ---
-
-### Q823 — Most common age group affected by
+### Q606 — Most common age group affected by
 
 Most common age group affected by streptococcus pyogenes -
 
@@ -14276,8 +9976,7 @@ Most common age group affected by streptococcus pyogenes -
 </details>
 
 ---
-
-### Q824 — Bacteria that can grow even in
+### Q607 — Bacteria that can grow even in
 
 Bacteria that can grow even in the presence of antiseptic:
 
@@ -14293,8 +9992,7 @@ Bacteria that can grow even in the presence of antiseptic:
 </details>
 
 ---
-
-### Q825 — A chronic alcoholic is presenting with
+### Q608 — A chronic alcoholic is presenting with
 
 A chronic alcoholic is presenting with clinical features of meningitis. Most likely organism which will grow on CSF culture:
 
@@ -14310,8 +10008,7 @@ A chronic alcoholic is presenting with clinical features of meningitis. Most lik
 </details>
 
 ---
-
-### Q826 — Protein A of staphylococcus binds to
+### Q609 — Protein A of staphylococcus binds to
 
 Protein A of staphylococcus binds to
 
@@ -14327,8 +10024,7 @@ Protein A of staphylococcus binds to
 </details>
 
 ---
-
-### Q827 — Which streptodornase is most antigenic in
+### Q610 — Which streptodornase is most antigenic in
 
 Which streptodornase is most antigenic in human beings:
 
@@ -14344,8 +10040,7 @@ Which streptodornase is most antigenic in human beings:
 </details>
 
 ---
-
-### Q828 — Fresh water swimming leads to infection
+### Q611 — Fresh water swimming leads to infection
 
 Fresh water swimming leads to infection by -
 
@@ -14361,8 +10056,7 @@ Fresh water swimming leads to infection by -
 </details>
 
 ---
-
-### Q829 — Izumi fever is caused by
+### Q612 — Izumi fever is caused by
 
 Izumi fever is caused by:
 
@@ -14378,8 +10072,7 @@ Izumi fever is caused by:
 </details>
 
 ---
-
-### Q830 — True about widal test
+### Q613 — True about widal test
 
 True about widal test:
 
@@ -14395,8 +10088,7 @@ True about widal test:
 </details>
 
 ---
-
-### Q831 — Non-motile bacterium is -
+### Q614 — Non-motile bacterium is -
 
 Non-motile bacterium is -
 
@@ -14412,8 +10104,7 @@ Non-motile bacterium is -
 </details>
 
 ---
-
-### Q832 — Phagocytosis of mycobacterium tuberculosis by macr
+### Q615 — Phagocytosis of mycobacterium tuberculosis by macr
 
 Phagocytosis of mycobacterium tuberculosis by macro​phages is mainly mediated by:
 
@@ -14429,8 +10120,7 @@ Phagocytosis of mycobacterium tuberculosis by macro​phages is mainly mediated 
 </details>
 
 ---
-
-### Q833 — Bile esculin agar is used for
+### Q616 — Bile esculin agar is used for
 
 Bile esculin agar is used for ?
 
@@ -14446,8 +10136,7 @@ Bile esculin agar is used for ?
 </details>
 
 ---
-
-### Q834 — Which of the following belongs to
+### Q617 — Which of the following belongs to
 
 Which of the following belongs to Herpesviridae:
 
@@ -14463,8 +10152,7 @@ Which of the following belongs to Herpesviridae:
 </details>
 
 ---
-
-### Q835 — HIV envelop is formed by
+### Q618 — HIV envelop is formed by
 
 HIV envelop is formed by:
 
@@ -14480,8 +10168,7 @@ HIV envelop is formed by:
 </details>
 
 ---
-
-### Q836 — Which HIV-virus is more dangerous
+### Q619 — Which HIV-virus is more dangerous
 
 Which HIV-virus is more dangerous:
 
@@ -14497,8 +10184,7 @@ Which HIV-virus is more dangerous:
 </details>
 
 ---
-
-### Q837 — Which of the following can infect
+### Q620 — Which of the following can infect
 
 Which of the following can infect ovary -
 
@@ -14514,8 +10200,7 @@ Which of the following can infect ovary -
 </details>
 
 ---
-
-### Q838 — Which is not a poxvirus
+### Q621 — Which is not a poxvirus
 
 Which is not a poxvirus:
 
@@ -14531,8 +10216,7 @@ Which is not a poxvirus:
 </details>
 
 ---
-
-### Q839 — True about rotavirus vaccine
+### Q622 — True about rotavirus vaccine
 
 True about rotavirus vaccine:
 
@@ -14548,8 +10232,7 @@ True about rotavirus vaccine:
 </details>
 
 ---
-
-### Q840 — Von Magnus phenomenon -
+### Q623 — Von Magnus phenomenon -
 
 Von Magnus phenomenon -
 
@@ -14565,8 +10248,7 @@ Von Magnus phenomenon -
 </details>
 
 ---
-
-### Q841 — Precipitation in comparison to agglutination requi
+### Q624 — Precipitation in comparison to agglutination requi
 
 Precipitation in comparison to agglutination requires -
 
@@ -14582,8 +10264,7 @@ Precipitation in comparison to agglutination requires -
 </details>
 
 ---
-
-### Q842 — Example of precipitation test is
+### Q625 — Example of precipitation test is
 
 Example of precipitation test is
 
@@ -14599,8 +10280,7 @@ Example of precipitation test is
 </details>
 
 ---
-
-### Q843 — Example of neutrilization reaction -
+### Q626 — Example of neutrilization reaction -
 
 Example of neutrilization reaction -
 
@@ -14616,8 +10296,7 @@ Example of neutrilization reaction -
 </details>
 
 ---
-
-### Q844 — Which is specific for acquired immunity
+### Q627 — Which is specific for acquired immunity
 
 Which is specific for acquired immunity ?
 
@@ -14633,8 +10312,7 @@ Which is specific for acquired immunity ?
 </details>
 
 ---
-
-### Q845 — Prozone phenomenon is due to
+### Q628 — Prozone phenomenon is due to
 
 Prozone phenomenon is due to
 
@@ -14650,8 +10328,7 @@ Prozone phenomenon is due to
 </details>
 
 ---
-
-### Q846 — A child is presenting with vomiting
+### Q629 — A child is presenting with vomiting
 
 A child is presenting with vomiting and abdominal pain after 5 hours of eating some food. The most likely causa​tive orgonism:
 
@@ -14667,8 +10344,7 @@ A child is presenting with vomiting and abdominal pain after 5 hours of eating s
 </details>
 
 ---
-
-### Q847 — Measles is infective for
+### Q630 — Measles is infective for
 
 Measles is infective for:
 
@@ -14684,8 +10360,7 @@ Measles is infective for:
 </details>
 
 ---
-
-### Q848 — True about chicken pox
+### Q631 — True about chicken pox
 
 True about chicken pox ?
 
@@ -14701,8 +10376,7 @@ True about chicken pox ?
 </details>
 
 ---
-
-### Q849 — What is common in H5N1 and
+### Q632 — What is common in H5N1 and
 
 What is common in H5N1 and H7N7 strains of influenza ?
 
@@ -14718,8 +10392,7 @@ What is common in H5N1 and H7N7 strains of influenza ?
 </details>
 
 ---
-
-### Q850 — Vaccine derived polio virus outbreaks are
+### Q633 — Vaccine derived polio virus outbreaks are
 
 Vaccine derived polio virus outbreaks are due to ?
 
@@ -14735,8 +10408,7 @@ Vaccine derived polio virus outbreaks are due to ?
 </details>
 
 ---
-
-### Q851 — Women traveling from Bihar to Delhi
+### Q634 — Women traveling from Bihar to Delhi
 
 Women traveling from Bihar to Delhi is suspecting to have Kala-azar. Suitable investigation is ?
 
@@ -14752,8 +10424,7 @@ Women traveling from Bihar to Delhi is suspecting to have Kala-azar. Suitable in
 </details>
 
 ---
-
-### Q852 — Incubation period of plasmodium vivax is-
+### Q635 — Incubation period of plasmodium vivax is-
 
 Incubation period of plasmodium vivax is-
 
@@ -14769,8 +10440,7 @@ Incubation period of plasmodium vivax is-
 </details>
 
 ---
-
-### Q853 — Most common cause of otitis externa
+### Q636 — Most common cause of otitis externa
 
 Most common cause of otitis externa is?
 
@@ -14786,8 +10456,7 @@ Most common cause of otitis externa is?
 </details>
 
 ---
-
-### Q854 — All of the following are causes
+### Q637 — All of the following are causes
 
 All of the following are causes of perforation of cartilaginous part of nasal septum except?
 
@@ -14803,8 +10472,7 @@ All of the following are causes of perforation of cartilaginous part of nasal se
 </details>
 
 ---
-
-### Q855 — Unilateral frontal blisters with upper lid
+### Q638 — Unilateral frontal blisters with upper lid
 
 Unilateral frontal blisters with upper lid edema with conjunctivitis is seen in ?
 
@@ -14820,8 +10488,7 @@ Unilateral frontal blisters with upper lid edema with conjunctivitis is seen in 
 </details>
 
 ---
-
-### Q856 — Which organism can peneterate corneal endothelium
+### Q639 — Which organism can peneterate corneal endothelium
 
 Which organism can peneterate corneal endothelium?
 
@@ -14837,8 +10504,7 @@ Which organism can peneterate corneal endothelium?
 </details>
 
 ---
-
-### Q857 — Most common cause of lung abscess
+### Q640 — Most common cause of lung abscess
 
 Most common cause of lung abscess is comatose patient
 
@@ -14854,8 +10520,7 @@ Most common cause of lung abscess is comatose patient
 </details>
 
 ---
-
-### Q858 — Most common cause of Addisons Disease
+### Q641 — Most common cause of Addisons Disease
 
 Most common cause of Addison's Disease in India is:
 
@@ -14871,8 +10536,7 @@ Most common cause of Addison's Disease in India is:
 </details>
 
 ---
-
-### Q859 — Most common organism associated with reactive
+### Q642 — Most common organism associated with reactive
 
 Most common organism associated with reactive arthritis is:
 
@@ -14888,8 +10552,7 @@ Most common organism associated with reactive arthritis is:
 </details>
 
 ---
-
-### Q860 — 696 Salmonella and shigella can be
+### Q643 — 696 Salmonella and shigella can be
 
 696. Salmonella and shigella can be differentiated from other enterobacteriaceae member by isolation on:
 
@@ -14905,8 +10568,7 @@ Most common organism associated with reactive arthritis is:
 </details>
 
 ---
-
-### Q861 — Which of the following condition does
+### Q644 — Which of the following condition does
 
 Which of the following condition does not cause multiple painful ulcers on tongue?
 
@@ -14922,8 +10584,7 @@ Which of the following condition does not cause multiple painful ulcers on tongu
 </details>
 
 ---
-
-### Q862 — Test done to diagnose syphilis in
+### Q645 — Test done to diagnose syphilis in
 
 Test done to diagnose syphilis in newborn if mother is syphilitic -
 
@@ -14939,8 +10600,7 @@ Test done to diagnose syphilis in newborn if mother is syphilitic -
 </details>
 
 ---
-
-### Q863 — Microorganism which causes pyogenic osteomyelitis 
+### Q646 — Microorganism which causes pyogenic osteomyelitis 
 
 Microorganism which causes pyogenic osteomyelitis is ?
 
@@ -14956,8 +10616,7 @@ Microorganism which causes pyogenic osteomyelitis is ?
 </details>
 
 ---
-
-### Q864 — Risk factor for cervical carcinoma is
+### Q647 — Risk factor for cervical carcinoma is
 
 Risk factor for cervical carcinoma is -
 
@@ -14973,8 +10632,7 @@ Risk factor for cervical carcinoma is -
 </details>
 
 ---
-
-### Q865 — Which of the following is characterized
+### Q648 — Which of the following is characterized
 
 Which of the following is characterized by a solitary painless ulcer on genitalia?
 
@@ -14990,8 +10648,7 @@ Which of the following is characterized by a solitary painless ulcer on genitali
 </details>
 
 ---
-
-### Q866 — Tree in bud appearance on CT
+### Q649 — Tree in bud appearance on CT
 
 "Tree in bud appearance" on CT is seen in
 
@@ -15007,8 +10664,7 @@ Which of the following is characterized by a solitary painless ulcer on genitali
 </details>
 
 ---
-
-### Q867 — year old male presents with fever
+### Q650 — year old male presents with fever
 
 A patient (age not captured in source) who is a year old male presents with fever and malaise for 4 months& pain in the knees and ankles. Blood tests are normal apart from a raised ESR. Chest x-ray shows bilateral hilar
 
@@ -15027,7 +10683,7 @@ A patient (age not captured in source) who is a year old male presents with feve
 
 ## Pharmacology
 
-### Q868 — mechanism of action of uncouplers of *(2015)*
+### Q651 — mechanism of action of uncouplers of *(2015)*
 
 The mechanism of action of uncouplers of oxidative phosphorylation involves:
 
@@ -15043,8 +10699,7 @@ The mechanism of action of uncouplers of oxidative phosphorylation involves:
 </details>
 
 ---
-
-### Q869 — Buprenorphine partial agonist at which opioid *(2015)*
+### Q652 — Buprenorphine partial agonist at which opioid *(2015)*
 
 Buprenorphine partial agonist at which opioid receptor?
 
@@ -15060,8 +10715,7 @@ Buprenorphine partial agonist at which opioid receptor?
 </details>
 
 ---
-
-### Q870 — Sexual gratification of a women is *(2015)*
+### Q653 — Sexual gratification of a women is *(2015)*
 
 Sexual gratification of a women is obtained by another woman is called ?
 
@@ -15077,8 +10731,7 @@ Sexual gratification of a women is obtained by another woman is called ?
 </details>
 
 ---
-
-### Q871 — Mickey Finn is *(2015)*
+### Q654 — Mickey Finn is *(2015)*
 
 Mickey Finn is ?
 
@@ -15094,8 +10747,7 @@ Mickey Finn is ?
 </details>
 
 ---
-
-### Q872 — Naeglers reaction is due to *(2015)*
+### Q655 — Naeglers reaction is due to *(2015)*
 
 Naegler's reaction is due to:
 
@@ -15111,8 +10763,7 @@ Naegler's reaction is due to:
 </details>
 
 ---
-
-### Q873 — Eschar is seen in all the *(2015)*
+### Q656 — Eschar is seen in all the *(2015)*
 
 Eschar is seen in all the Rickettsial diseases excent:
 
@@ -15128,8 +10779,7 @@ Eschar is seen in all the Rickettsial diseases excent:
 </details>
 
 ---
-
-### Q874 — influenzae strain not of human origin *(2015)*
+### Q657 — influenzae strain not of human origin *(2015)*
 
 Which influenzae strain, not of human origin and can cause pandemic:
 
@@ -15145,8 +10795,7 @@ Which influenzae strain, not of human origin and can cause pandemic:
 </details>
 
 ---
-
-### Q875 — Haptens are immunogenic when they covalently *(2015)*
+### Q658 — Haptens are immunogenic when they covalently *(2015)*
 
 Haptens are immunogenic when they covalently bind to -
 
@@ -15162,9 +10811,7 @@ Haptens are immunogenic when they covalently bind to -
 </details>
 
 ---
-
-
-### Q876 — Volume of distribution depends upon all
+### Q659 — Volume of distribution depends upon all
 
 Volume of distribution depends upon all except ?
 
@@ -15180,8 +10827,7 @@ Volume of distribution depends upon all except ?
 </details>
 
 ---
-
-### Q877 — High volume of distribution depends on
+### Q660 — High volume of distribution depends on
 
 High volume of distribution depends on ?
 
@@ -15197,8 +10843,7 @@ High volume of distribution depends on ?
 </details>
 
 ---
-
-### Q878 — Physiological antagonists are
+### Q661 — Physiological antagonists are
 
 Physiological antagonists are ?
 
@@ -15214,8 +10859,7 @@ Physiological antagonists are ?
 </details>
 
 ---
-
-### Q879 — Which of the following is non-selective
+### Q662 — Which of the following is non-selective
 
 Which of the following is non-selective 3rd generation Beta blocker ?
 
@@ -15231,8 +10875,7 @@ Which of the following is non-selective 3rd generation Beta blocker ?
 </details>
 
 ---
-
-### Q880 — Hyoscine is antagonist at which
+### Q663 — Hyoscine is antagonist at which
 
 . Hyoscine is antagonist at which cholinergic receptor?
 
@@ -15248,8 +10891,7 @@ Which of the following is non-selective 3rd generation Beta blocker ?
 </details>
 
 ---
-
-### Q881 — Which among the following is renin
+### Q664 — Which among the following is renin
 
 Which among the following is renin antagonist?
 
@@ -15265,8 +10907,7 @@ Which among the following is renin antagonist?
 </details>
 
 ---
-
-### Q882 — Antihypertensive drug causing erectile dysfunction
+### Q665 — Antihypertensive drug causing erectile dysfunction
 
 Antihypertensive drug causing erectile dysfunction?
 
@@ -15282,8 +10923,7 @@ Antihypertensive drug causing erectile dysfunction?
 </details>
 
 ---
-
-### Q883 — Which of the following adverse effect
+### Q666 — Which of the following adverse effect
 
 Which of the following adverse effect of ACE inhibitors is not due to bradykinin ?
 
@@ -15299,8 +10939,7 @@ Which of the following adverse effect of ACE inhibitors is not due to bradykinin
 </details>
 
 ---
-
-### Q884 — Which ACE inhibitor in safe in
+### Q667 — Which ACE inhibitor in safe in
 
 Which ACE inhibitor in safe in renal failure ?
 
@@ -15316,8 +10955,7 @@ Which ACE inhibitor in safe in renal failure ?
 </details>
 
 ---
-
-### Q885 — Spironolactone agent should NOT be given
+### Q668 — Spironolactone agent should NOT be given
 
 Spironolactone agent: should NOT be given with the following pharmacological
 
@@ -15333,8 +10971,7 @@ Spironolactone agent: should NOT be given with the following pharmacological
 </details>
 
 ---
-
-### Q886 — Mechanism of action of opioids
+### Q669 — Mechanism of action of opioids
 
 Mechanism of action of opioids ?
 
@@ -15350,8 +10987,7 @@ Mechanism of action of opioids ?
 </details>
 
 ---
-
-### Q887 — Beta blockers used in thyroid storm
+### Q670 — Beta blockers used in thyroid storm
 
 Beta blockers used in thyroid storm cause ?
 
@@ -15367,8 +11003,7 @@ Beta blockers used in thyroid storm cause ?
 </details>
 
 ---
-
-### Q888 — Long acting 13-2 agonist is
+### Q671 — Long acting 13-2 agonist is
 
 Long acting 13-2 agonist is ?
 
@@ -15384,8 +11019,7 @@ Long acting 13-2 agonist is ?
 </details>
 
 ---
-
-### Q889 — Mechanism of action of ticagrelor
+### Q672 — Mechanism of action of ticagrelor
 
 Mechanism of action of ticagrelor ?
 
@@ -15401,8 +11035,7 @@ Mechanism of action of ticagrelor ?
 </details>
 
 ---
-
-### Q890 — Mechanism of action of ticgrelor
+### Q673 — Mechanism of action of ticgrelor
 
 Mechanism of action of ticgrelor ?
 
@@ -15418,8 +11051,7 @@ Mechanism of action of ticgrelor ?
 </details>
 
 ---
-
-### Q891 — Which of the following is a
+### Q674 — Which of the following is a
 
 Which of the following is a PAR antagonist ?
 
@@ -15435,8 +11067,7 @@ Which of the following is a PAR antagonist ?
 </details>
 
 ---
-
-### Q892 — Rebound increase in gastric acid secretion
+### Q675 — Rebound increase in gastric acid secretion
 
 Rebound increase in gastric acid secretion after stopping proton pump inhibitor therapy is due to?
 
@@ -15452,8 +11083,7 @@ Rebound increase in gastric acid secretion after stopping proton pump inhibitor 
 </details>
 
 ---
-
-### Q893 — Drug of choice for drug induced
+### Q676 — Drug of choice for drug induced
 
 Drug of choice for drug induced peptic ulcer ?
 
@@ -15469,8 +11099,7 @@ Drug of choice for drug induced peptic ulcer ?
 </details>
 
 ---
-
-### Q894 — Statin having longest half life
+### Q677 — Statin having longest half life
 
 Statin having longest half life:
 
@@ -15486,8 +11115,7 @@ Statin having longest half life:
 </details>
 
 ---
-
-### Q895 — Gametocidal antimalarial drug for all species
+### Q678 — Gametocidal antimalarial drug for all species
 
 Gametocidal antimalarial drug for all species of plasmodium ?
 
@@ -15503,8 +11131,7 @@ Gametocidal antimalarial drug for all species of plasmodium ?
 </details>
 
 ---
-
-### Q896 — Idoxuridine is used for treatment of
+### Q679 — Idoxuridine is used for treatment of
 
 Idoxuridine is used for treatment of ?
 
@@ -15520,8 +11147,7 @@ Idoxuridine is used for treatment of ?
 </details>
 
 ---
-
-### Q897 — Half life of Nicotine in blood
+### Q680 — Half life of Nicotine in blood
 
 Half life of Nicotine in blood ?
 
@@ -15537,8 +11163,7 @@ Half life of Nicotine in blood ?
 </details>
 
 ---
-
-### Q898 — Sex with cadaver is called -
+### Q681 — Sex with cadaver is called -
 
 Sex with cadaver is called -
 
@@ -15554,8 +11179,7 @@ Sex with cadaver is called -
 </details>
 
 ---
-
-### Q899 — Sexual gratification by inflicting pain on
+### Q682 — Sexual gratification by inflicting pain on
 
 Sexual gratification by inflicting pain on partner -
 
@@ -15571,8 +11195,7 @@ Sexual gratification by inflicting pain on partner -
 </details>
 
 ---
-
-### Q900 — Masochism means TN 09
+### Q683 — Masochism means TN 09
 
 Masochism means: TN 09
 
@@ -15588,8 +11211,7 @@ Masochism means: TN 09
 </details>
 
 ---
-
-### Q901 — Sexual gratification obtained by enema is
+### Q684 — Sexual gratification obtained by enema is
 
 Sexual gratification obtained by enema is called -
 
@@ -15605,8 +11227,7 @@ Sexual gratification obtained by enema is called -
 </details>
 
 ---
-
-### Q902 — Absorption elution technique is used for
+### Q685 — Absorption elution technique is used for
 
 Absorption elution technique is used for -
 
@@ -15622,8 +11243,7 @@ Absorption elution technique is used for -
 </details>
 
 ---
-
-### Q903 — Test to know the species from
+### Q686 — Test to know the species from
 
 Test to know the species from blood stain is -
 
@@ -15639,8 +11259,7 @@ Test to know the species from blood stain is -
 </details>
 
 ---
-
-### Q904 — All of the following are true
+### Q687 — All of the following are true
 
 All of the following are true for ingestion of acid except -
 
@@ -15656,8 +11275,7 @@ All of the following are true for ingestion of acid except -
 </details>
 
 ---
-
-### Q905 — Least toxic form of lead is
+### Q688 — Least toxic form of lead is
 
 Least toxic form of lead is -
 
@@ -15673,8 +11291,7 @@ Least toxic form of lead is -
 </details>
 
 ---
-
-### Q906 — Black foot disease is caused by
+### Q689 — Black foot disease is caused by
 
 Black foot disease is caused by
 
@@ -15690,8 +11307,7 @@ Black foot disease is caused by
 </details>
 
 ---
-
-### Q907 — Papaver semniferum milk exudes from
+### Q690 — Papaver semniferum milk exudes from
 
 Papaver semniferum milk exudes from ?
 
@@ -15707,8 +11323,7 @@ Papaver semniferum milk exudes from ?
 </details>
 
 ---
-
-### Q908 — Acid used for forging signature is
+### Q691 — Acid used for forging signature is
 
 Acid used for forging signature is ?
 
@@ -15724,8 +11339,7 @@ Acid used for forging signature is ?
 </details>
 
 ---
-
-### Q909 — Thorn apple is
+### Q692 — Thorn apple is
 
 Thorn apple is ?
 
@@ -15741,8 +11355,7 @@ Thorn apple is ?
 </details>
 
 ---
-
-### Q910 — Acid injury can be differentiated from
+### Q693 — Acid injury can be differentiated from
 
 Acid injury can be differentiated from alkali injury by ?
 
@@ -15758,8 +11371,7 @@ Acid injury can be differentiated from alkali injury by ?
 </details>
 
 ---
-
-### Q911 — How many days a person can
+### Q694 — How many days a person can
 
 How many days a person can live without food and water ?
 
@@ -15775,8 +11387,7 @@ How many days a person can live without food and water ?
 </details>
 
 ---
-
-### Q912 — MTP can be done by a
+### Q695 — MTP can be done by a
 
 MTP can be done by a single doctor till ?
 
@@ -15792,8 +11403,7 @@ MTP can be done by a single doctor till ?
 </details>
 
 ---
-
-### Q913 — Alcohol is taken with aerated soft
+### Q696 — Alcohol is taken with aerated soft
 
 Alcohol is taken with aerated soft drinks because -
 
@@ -15809,8 +11419,7 @@ Alcohol is taken with aerated soft drinks because -
 </details>
 
 ---
-
-### Q914 — After death, blood is taken from
+### Q697 — After death, blood is taken from
 
 After death, blood is taken from ?
 
@@ -15826,8 +11435,7 @@ After death, blood is taken from ?
 </details>
 
 ---
-
-### Q915 — Multiple drug resistance is transferred through
+### Q698 — Multiple drug resistance is transferred through
 
 Multiple drug resistance is transferred through -
 
@@ -15843,8 +11451,7 @@ Multiple drug resistance is transferred through -
 </details>
 
 ---
-
-### Q916 — True about vibrio parahemolyticus
+### Q699 — True about vibrio parahemolyticus
 
 True about vibrio parahemolyticus ?
 
@@ -15860,8 +11467,7 @@ True about vibrio parahemolyticus ?
 </details>
 
 ---
-
-### Q917 — Hansens bacillus is cultured in
+### Q700 — Hansens bacillus is cultured in
 
 Hansen's bacillus is cultured in:
 
@@ -15877,8 +11483,7 @@ Hansen's bacillus is cultured in:
 </details>
 
 ---
-
-### Q918 — Draughtsman colonies are seen with
+### Q701 — Draughtsman colonies are seen with
 
 Draughtsman colonies are seen with:
 
@@ -15894,8 +11499,7 @@ Draughtsman colonies are seen with:
 </details>
 
 ---
-
-### Q919 — Primary complex of M bovis involves
+### Q702 — Primary complex of M bovis involves
 
 Primary complex of M bovis involves:
 
@@ -15911,8 +11515,7 @@ Primary complex of M bovis involves:
 </details>
 
 ---
-
-### Q920 — Hemophilus parainfluenzae requres -
+### Q703 — Hemophilus parainfluenzae requres -
 
 Hemophilus parainfluenzae requres -
 
@@ -15928,8 +11531,7 @@ Hemophilus parainfluenzae requres -
 </details>
 
 ---
-
-### Q921 — All are true about listeria except
+### Q704 — All are true about listeria except
 
 All are true about listeria except:
 
@@ -15945,8 +11547,7 @@ All are true about listeria except:
 </details>
 
 ---
-
-### Q922 — Listeria resists phagocytosis in phagosomes (phago
+### Q705 — Listeria resists phagocytosis in phagosomes (phago
 
 Listeria resists phagocytosis in phagosomes (phagolysosomes) due to:
 
@@ -15962,8 +11563,7 @@ Listeria resists phagocytosis in phagosomes (phagolysosomes) due to:
 </details>
 
 ---
-
-### Q923 — Most common form of leptospirosis
+### Q706 — Most common form of leptospirosis
 
 Most common form of leptospirosis:
 
@@ -15979,8 +11579,7 @@ Most common form of leptospirosis:
 </details>
 
 ---
-
-### Q924 — Vincents angina is caused by Borrelia
+### Q707 — Vincents angina is caused by Borrelia
 
 Vincent's angina is caused by Borrelia vincentii along with:
 
@@ -15996,8 +11595,7 @@ Vincent's angina is caused by Borrelia vincentii along with:
 </details>
 
 ---
-
-### Q925 — Bartonella quintana causes
+### Q708 — Bartonella quintana causes
 
 Bartonella quintana causes:
 
@@ -16013,8 +11611,7 @@ Bartonella quintana causes:
 </details>
 
 ---
-
-### Q926 — What is trench fever
+### Q709 — What is trench fever
 
 What is trench fever:
 
@@ -16030,8 +11627,7 @@ What is trench fever:
 </details>
 
 ---
-
-### Q927 — Pneumonic plague is spread by
+### Q710 — Pneumonic plague is spread by
 
 Pneumonic plague is spread by:
 
@@ -16047,8 +11643,7 @@ Pneumonic plague is spread by:
 </details>
 
 ---
-
-### Q928 — Not true about gas gangrene
+### Q711 — Not true about gas gangrene
 
 Not true about gas gangrene:
 
@@ -16064,8 +11659,7 @@ Not true about gas gangrene:
 </details>
 
 ---
-
-### Q929 — Most sensitive test in syphilis -
+### Q712 — Most sensitive test in syphilis -
 
 Most sensitive test in syphilis -
 
@@ -16081,8 +11675,7 @@ Most sensitive test in syphilis -
 </details>
 
 ---
-
-### Q930 — Brazilian purpuric fever is caused by
+### Q713 — Brazilian purpuric fever is caused by
 
 Brazilian purpuric fever is caused by:
 
@@ -16098,8 +11691,7 @@ Brazilian purpuric fever is caused by:
 </details>
 
 ---
-
-### Q931 — Commonest cause for puerperal sepsis is
+### Q714 — Commonest cause for puerperal sepsis is
 
 Commonest cause for puerperal sepsis is :
 
@@ -16115,8 +11707,7 @@ Commonest cause for puerperal sepsis is :
 </details>
 
 ---
-
-### Q932 — All are true about anaerobic infection
+### Q715 — All are true about anaerobic infection
 
 All are true about anaerobic infection except -
 
@@ -16132,8 +11723,7 @@ All are true about anaerobic infection except -
 </details>
 
 ---
-
-### Q933 — Most common route of infection in
+### Q716 — Most common route of infection in
 
 Most common route of infection in pasteurella cellulitis -
 
@@ -16149,8 +11739,7 @@ Most common route of infection in pasteurella cellulitis -
 </details>
 
 ---
-
-### Q934 — True about legionella
+### Q717 — True about legionella
 
 True about legionella:
 
@@ -16166,8 +11755,7 @@ True about legionella:
 </details>
 
 ---
-
-### Q935 — Which of the following is non-motile
+### Q718 — Which of the following is non-motile
 
 Which of the following is non-motile:
 
@@ -16183,8 +11771,7 @@ Which of the following is non-motile:
 </details>
 
 ---
-
-### Q936 — Not true about Vi polysaccharide vaccine
+### Q719 — Not true about Vi polysaccharide vaccine
 
 Not true about Vi polysaccharide vaccine of typhoid:
 
@@ -16200,8 +11787,7 @@ Not true about Vi polysaccharide vaccine of typhoid:
 </details>
 
 ---
-
-### Q937 — Ehrlichia phagocytophila mainly affects -
+### Q720 — Ehrlichia phagocytophila mainly affects -
 
 Ehrlichia phagocytophila mainly affects -
 
@@ -16217,8 +11803,7 @@ Ehrlichia phagocytophila mainly affects -
 </details>
 
 ---
-
-### Q938 — Not true about corynebacterium hormannii
+### Q721 — Not true about corynebacterium hormannii
 
 Not true about corynebacterium hormannii
 
@@ -16234,8 +11819,7 @@ Not true about corynebacterium hormannii
 </details>
 
 ---
-
-### Q939 — Heating at 60C for 30 minute
+### Q722 — Heating at 60C for 30 minute
 
 Heating at 60°C for 30 minute would isolate:
 
@@ -16251,8 +11835,7 @@ Heating at 60°C for 30 minute would isolate:
 </details>
 
 ---
-
-### Q940 — Most common mode of transmission of
+### Q723 — Most common mode of transmission of
 
 Most common mode of transmission of HIV sexual transmission:
 
@@ -16268,8 +11851,7 @@ Most common mode of transmission of HIV sexual transmission:
 </details>
 
 ---
-
-### Q941 — Which viral gene acts as carcinogen
+### Q724 — Which viral gene acts as carcinogen
 
 Which viral gene acts as carcinogen in causing carcinoma cervix -
 
@@ -16285,8 +11867,7 @@ Which viral gene acts as carcinogen in causing carcinoma cervix -
 </details>
 
 ---
-
-### Q942 — True about influenza vaccine
+### Q725 — True about influenza vaccine
 
 True about influenza vaccine:
 
@@ -16302,8 +11883,7 @@ True about influenza vaccine:
 </details>
 
 ---
-
-### Q943 — Integration of viral genome into host
+### Q726 — Integration of viral genome into host
 
 Integration of viral genome into host cell chromosome can leads to -
 
@@ -16319,8 +11899,7 @@ Integration of viral genome into host cell chromosome can leads to -
 </details>
 
 ---
-
-### Q944 — HTLV-1 can be transmitted by -
+### Q727 — HTLV-1 can be transmitted by -
 
 HTLV-1 can be transmitted by -
 
@@ -16336,8 +11915,7 @@ HTLV-1 can be transmitted by -
 </details>
 
 ---
-
-### Q945 — Trypanosoma cruzi is transmitted by
+### Q728 — Trypanosoma cruzi is transmitted by
 
 Trypanosoma cruzi is transmitted by:
 
@@ -16353,8 +11931,7 @@ Trypanosoma cruzi is transmitted by:
 </details>
 
 ---
-
-### Q946 — Amoebiasis is not transmitted by
+### Q729 — Amoebiasis is not transmitted by
 
 Amoebiasis is not transmitted by:
 
@@ -16370,8 +11947,7 @@ Amoebiasis is not transmitted by:
 </details>
 
 ---
-
-### Q947 — Recrudescences are commonly seen in which
+### Q730 — Recrudescences are commonly seen in which
 
 Recrudescences are commonly seen in which malaria:
 
@@ -16387,8 +11963,7 @@ Recrudescences are commonly seen in which malaria:
 </details>
 
 ---
-
-### Q948 — River blindness is caused by -
+### Q731 — River blindness is caused by -
 
 River blindness is caused by -
 
@@ -16404,8 +11979,7 @@ River blindness is caused by -
 </details>
 
 ---
-
-### Q949 — True about VDRL test -
+### Q732 — True about VDRL test -
 
 True about VDRL test -
 
@@ -16421,8 +11995,7 @@ True about VDRL test -
 </details>
 
 ---
-
-### Q950 — Weil felix reaction in scrub typhus
+### Q733 — Weil felix reaction in scrub typhus
 
 Weil felix reaction in scrub typhus is/are positive for:
 
@@ -16438,8 +12011,7 @@ Weil felix reaction in scrub typhus is/are positive for:
 </details>
 
 ---
-
-### Q951 — Primory T-cell deficiency is -
+### Q734 — Primory T-cell deficiency is -
 
 Primory T-cell deficiency is -
 
@@ -16455,8 +12027,7 @@ Primory T-cell deficiency is -
 </details>
 
 ---
-
-### Q952 — Oakley - fulthorpe procedure is -
+### Q735 — Oakley - fulthorpe procedure is -
 
 Oakley - fulthorpe procedure is -
 
@@ -16472,8 +12043,7 @@ Oakley - fulthorpe procedure is -
 </details>
 
 ---
-
-### Q953 — The serum concentration of which of
+### Q736 — The serum concentration of which of
 
 The serum concentration of which of the following human IgG subclass is maximum ?
 
@@ -16489,8 +12059,7 @@ The serum concentration of which of the following human IgG subclass is maximum 
 </details>
 
 ---
-
-### Q954 — Which of the following is not
+### Q737 — Which of the following is not
 
 Which of the following is not an in vivo test ?
 
@@ -16506,8 +12075,7 @@ Which of the following is not an in vivo test ?
 </details>
 
 ---
-
-### Q955 — Morula form is seen in which
+### Q738 — Morula form is seen in which
 
 Morula form is seen in which infection ?
 
@@ -16523,8 +12091,7 @@ Morula form is seen in which infection ?
 </details>
 
 ---
-
-### Q956 — Drug of choice for Mass therapy
+### Q739 — Drug of choice for Mass therapy
 
 Drug of choice for Mass therapy under filaria control Programme ?
 
@@ -16540,8 +12107,7 @@ Drug of choice for Mass therapy under filaria control Programme ?
 </details>
 
 ---
-
-### Q957 — Drug of choice for plasmodium vivax
+### Q740 — Drug of choice for plasmodium vivax
 
 Drug of choice for plasmodium vivax is:
 
@@ -16557,8 +12123,7 @@ Drug of choice for plasmodium vivax is:
 </details>
 
 ---
-
-### Q958 — Drug NOT used in pulmonary hypertension
+### Q741 — Drug NOT used in pulmonary hypertension
 
 Drug NOT used in pulmonary hypertension ‑
 
@@ -16574,8 +12139,7 @@ Drug NOT used in pulmonary hypertension ‑
 </details>
 
 ---
-
-### Q959 — All are used for secondary prevention
+### Q742 — All are used for secondary prevention
 
 All are used for secondary prevention of MI except
 
@@ -16591,8 +12155,7 @@ All are used for secondary prevention of MI except
 </details>
 
 ---
-
-### Q960 — All of the following are characteristic
+### Q743 — All of the following are characteristic
 
 All of the following are characteristic features of treatment of iron deficiency anemia with oral iron supplements, except
 
@@ -16608,8 +12171,7 @@ All of the following are characteristic features of treatment of iron deficiency
 </details>
 
 ---
-
-### Q961 — Which one of the following is
+### Q744 — Which one of the following is
 
 Which one of the following is correct regarding Eaton-Lambert syndrome-
 
@@ -16625,8 +12187,7 @@ Which one of the following is correct regarding Eaton-Lambert syndrome-
 </details>
 
 ---
-
-### Q962 — Drug of choice for bubos in
+### Q745 — Drug of choice for bubos in
 
 Drug of choice for bubos in a pregnant female is ?
 
@@ -16642,8 +12203,7 @@ Drug of choice for bubos in a pregnant female is ?
 </details>
 
 ---
-
-### Q963 — Mechanism of action of duloxetine is
+### Q746 — Mechanism of action of duloxetine is
 
 Mechanism of action of duloxetine is ?
 
@@ -16662,7 +12222,7 @@ Mechanism of action of duloxetine is ?
 
 ## Forensic Medicine
 
-### Q964 — In CO poisoning immediate emergency treatment *(2015)*
+### Q747 — In CO poisoning immediate emergency treatment *(2015)*
 
 In CO poisoning, immediate emergency treatment:
 
@@ -16678,8 +12238,7 @@ In CO poisoning, immediate emergency treatment:
 </details>
 
 ---
-
-### Q965 — Best method for methanol poisoning treatment *(2015)*
+### Q748 — Best method for methanol poisoning treatment *(2015)*
 
 Best method for methanol poisoning treatment:
 
@@ -16695,8 +12254,7 @@ Best method for methanol poisoning treatment:
 </details>
 
 ---
-
-### Q966 — Emphysema aquosum is seen in *(2015)*
+### Q749 — Emphysema aquosum is seen in *(2015)*
 
 Emphysema aquosum is seen in:
 
@@ -16712,8 +12270,7 @@ Emphysema aquosum is seen in:
 </details>
 
 ---
-
-### Q967 — Max damage is done by which *(2015)*
+### Q750 — Max damage is done by which *(2015)*
 
 Max damage is done by which poison -
 
@@ -16729,8 +12286,7 @@ Max damage is done by which poison -
 </details>
 
 ---
-
-### Q968 — Marsch test is done for poisoning *(2015)*
+### Q751 — Marsch test is done for poisoning *(2015)*
 
 Marsch test is done for poisoning with ?
 
@@ -16746,8 +12302,7 @@ Marsch test is done for poisoning with ?
 </details>
 
 ---
-
-### Q969 — Blisters are absent in *(2015)*
+### Q752 — Blisters are absent in *(2015)*
 
 Blisters are absent in ?
 
@@ -16763,8 +12318,7 @@ Blisters are absent in ?
 </details>
 
 ---
-
-### Q970 — Ophitoxemia is *(2015)*
+### Q753 — Ophitoxemia is *(2015)*
 
 Ophitoxemia is ?
 
@@ -16780,8 +12334,7 @@ Ophitoxemia is ?
 </details>
 
 ---
-
-### Q971 — Man working in hot environment & *(2015)*
+### Q754 — Man working in hot environment & *(2015)*
 
 Man working in hot environment & drinking lots of water without intake of salts is liable to develop -
 
@@ -16797,9 +12350,7 @@ Man working in hot environment & drinking lots of water without intake of salts 
 </details>
 
 ---
-
-
-### Q972 — Alkaline diuresis in acidic drug poisoning
+### Q755 — Alkaline diuresis in acidic drug poisoning
 
 Alkaline diuresis in acidic drug poisoning is not done in ?
 
@@ -16815,8 +12366,7 @@ Alkaline diuresis in acidic drug poisoning is not done in ?
 </details>
 
 ---
-
-### Q973 — Not a feature of postmortem staining
+### Q756 — Not a feature of postmortem staining
 
 Not a feature of postmortem staining -
 
@@ -16832,8 +12382,7 @@ Not a feature of postmortem staining -
 </details>
 
 ---
-
-### Q974 — Best temperature for putrefaction is -
+### Q757 — Best temperature for putrefaction is -
 
 Best temperature for putrefaction is -
 
@@ -16849,8 +12398,7 @@ Best temperature for putrefaction is -
 </details>
 
 ---
-
-### Q975 — Best indicator of antemortem drowning is
+### Q758 — Best indicator of antemortem drowning is
 
 Best indicator of antemortem drowning is: Delhi 07; TN 11
 
@@ -16866,8 +12414,7 @@ Best indicator of antemortem drowning is: Delhi 07; TN 11
 </details>
 
 ---
-
-### Q976 — Arsenic poisoning presents with symptoms mimicking
+### Q759 — Arsenic poisoning presents with symptoms mimicking
 
 Arsenic poisoning presents with symptoms mimicking
 
@@ -16883,8 +12430,7 @@ Arsenic poisoning presents with symptoms mimicking
 </details>
 
 ---
-
-### Q977 — Which of the following is most
+### Q760 — Which of the following is most
 
 Which of the following is most specific for arsenic poisoning ?
 
@@ -16900,8 +12446,7 @@ Which of the following is most specific for arsenic poisoning ?
 </details>
 
 ---
-
-### Q978 — Arrow poison is
+### Q761 — Arrow poison is
 
 Arrow poison is ?
 
@@ -16917,8 +12462,7 @@ Arrow poison is ?
 </details>
 
 ---
-
-### Q979 — Best method of treatment of Methyl
+### Q762 — Best method of treatment of Methyl
 
 Best method of treatment of Methyl alcohol poisoning is :
 
@@ -16934,8 +12478,7 @@ Best method of treatment of Methyl alcohol poisoning is :
 </details>
 
 ---
-
-### Q980 — Miners cramps are also called NEET
+### Q763 — Miners cramps are also called NEET
 
 Miner's cramps are also called: NEET 13
 
@@ -16951,8 +12494,7 @@ Miner's cramps are also called: NEET 13
 </details>
 
 ---
-
-### Q981 — Corona mortis is
+### Q764 — Corona mortis is
 
 Corona mortis is ?
 
@@ -16968,8 +12510,7 @@ Corona mortis is ?
 </details>
 
 ---
-
-### Q982 — Which of the following can be
+### Q765 — Which of the following can be
 
 Which of the following can be used for obtaining specimen for isolation of microorganism in laboratory diagnosis:
 
@@ -16985,8 +12526,7 @@ Which of the following can be used for obtaining specimen for isolation of micro
 </details>
 
 ---
-
-### Q983 — Which is not an aryl organophosphate
+### Q766 — Which is not an aryl organophosphate
 
 Which is not an aryl organophosphate ?
 
@@ -17002,8 +12542,7 @@ Which is not an aryl organophosphate ?
 </details>
 
 ---
-
-### Q984 — MC cause of delirium
+### Q767 — MC cause of delirium
 
 MC cause of delirium ?
 
@@ -17019,8 +12558,7 @@ MC cause of delirium ?
 </details>
 
 ---
-
-### Q985 — True about flumazenil is
+### Q768 — True about flumazenil is
 
 True about flumazenil is ?
 
@@ -17039,7 +12577,7 @@ True about flumazenil is ?
 
 ## Community Medicine
 
-### Q986 — PSGN is an example of which *(2015)*
+### Q769 — PSGN is an example of which *(2015)*
 
 PSGN is an example of which type of hyper sensitivity
 
@@ -17055,8 +12593,7 @@ PSGN is an example of which type of hyper sensitivity
 </details>
 
 ---
-
-### Q987 — Randomization is done to reduce *(2015)*
+### Q770 — Randomization is done to reduce *(2015)*
 
 Randomization is done to reduce ?
 
@@ -17072,8 +12609,7 @@ Randomization is done to reduce ?
 </details>
 
 ---
-
-### Q988 — After taking MMR live vaccine conception *(2015)*
+### Q771 — After taking MMR live vaccine conception *(2015)*
 
 After taking MMR live vaccine, conception should not occur within ?
 
@@ -17089,8 +12625,7 @@ After taking MMR live vaccine, conception should not occur within ?
 </details>
 
 ---
-
-### Q989 — Maximum relative risk attributed by obesity *(2015)*
+### Q772 — Maximum relative risk attributed by obesity *(2015)*
 
 Maximum relative risk attributed by obesity to which condition ?
 
@@ -17106,8 +12641,7 @@ Maximum relative risk attributed by obesity to which condition ?
 </details>
 
 ---
-
-### Q990 — Limiting amino acid in cereals *(2015)*
+### Q773 — Limiting amino acid in cereals *(2015)*
 
 Limiting amino acid in cereals ?
 
@@ -17123,8 +12657,7 @@ Limiting amino acid in cereals ?
 </details>
 
 ---
-
-### Q991 — are incinerated except *(2015)*
+### Q774 — are incinerated except *(2015)*
 
 All are incinerated except ?
 
@@ -17140,8 +12673,7 @@ All are incinerated except ?
 </details>
 
 ---
-
-### Q992 — is the intensity in decibel of *(2015)*
+### Q775 — is the intensity in decibel of *(2015)*
 
 What is the intensity in decibel of normal conversation in humans?
 
@@ -17157,8 +12689,7 @@ What is the intensity in decibel of normal conversation in humans?
 </details>
 
 ---
-
-### Q993 — is the type of epithelium of *(2015)*
+### Q776 — is the type of epithelium of *(2015)*
 
 What is the type of epithelium of the adenoid?
 
@@ -17174,9 +12705,7 @@ What is the type of epithelium of the adenoid?
 </details>
 
 ---
-
-
-### Q994 — All of the following are true
+### Q777 — All of the following are true
 
 All of the following are true about Down syndrome except
 
@@ -17192,8 +12721,7 @@ All of the following are true about Down syndrome except
 </details>
 
 ---
-
-### Q995 — Post marketing surveillance included in which
+### Q778 — Post marketing surveillance included in which
 
 Post marketing surveillance included in which phase of drug clinical trial?
 
@@ -17209,8 +12737,7 @@ Post marketing surveillance included in which phase of drug clinical trial?
 </details>
 
 ---
-
-### Q996 — Aincreased 47-year-old woman presents with complai
+### Q779 — Aincreased 47-year-old woman presents with complai
 
 Aincreased 47-year-old woman presents with complaints of nervousness and sensitivity to hot weather. She is diagnosed with hyperthyroidism and prescribed propylthiouracil. What is the principal mechanism by which
 
@@ -17226,8 +12753,7 @@ Aincreased 47-year-old woman presents with complaints of nervousness and sensiti
 </details>
 
 ---
-
-### Q997 — Medium used for antibiotic sensitivity
+### Q780 — Medium used for antibiotic sensitivity
 
 Medium used for antibiotic sensitivity:
 
@@ -17243,8 +12769,7 @@ Medium used for antibiotic sensitivity:
 </details>
 
 ---
-
-### Q998 — Proteus isolated from a patient of
+### Q781 — Proteus isolated from a patient of
 
 Proteus isolated from a patient of UTI will show which boichemical reaction:
 
@@ -17260,8 +12785,7 @@ Proteus isolated from a patient of UTI will show which boichemical reaction:
 </details>
 
 ---
-
-### Q999 — Test to differentiate staphylococci from micrococc
+### Q782 — Test to differentiate staphylococci from micrococc
 
 Test to differentiate staphylococci from micrococci:
 
@@ -17277,8 +12801,7 @@ Test to differentiate staphylococci from micrococci:
 </details>
 
 ---
-
-### Q1000 — Prevention of catheter induced urinary tract
+### Q783 — Prevention of catheter induced urinary tract
 
 Prevention of catheter induced urinary tract infection is by ?
 
@@ -17294,8 +12817,7 @@ Prevention of catheter induced urinary tract infection is by ?
 </details>
 
 ---
-
-### Q1001 — Bubus form is which stage of
+### Q784 — Bubus form is which stage of
 
 Bubus form is which stage of LGV:
 
@@ -17311,8 +12833,7 @@ Bubus form is which stage of LGV:
 </details>
 
 ---
-
-### Q1002 — Nosocomial infection is most commonly caused
+### Q785 — Nosocomial infection is most commonly caused
 
 Nosocomial infection is most commonly caused by:
 
@@ -17328,8 +12849,7 @@ Nosocomial infection is most commonly caused by:
 </details>
 
 ---
-
-### Q1003 — ABO non- secretors are more prone
+### Q786 — ABO non- secretors are more prone
 
 ABO non- secretors are more prone to ?
 
@@ -17345,8 +12865,7 @@ ABO non- secretors are more prone to ?
 </details>
 
 ---
-
-### Q1004 — CD3 is a marker for
+### Q787 — CD3 is a marker for
 
 CD3 is a marker for?
 
@@ -17362,8 +12881,7 @@ CD3 is a marker for?
 </details>
 
 ---
-
-### Q1005 — Performance of components of PQLI is
+### Q788 — Performance of components of PQLI is
 
 Performance of components of PQLI is counted between
 
@@ -17379,8 +12897,7 @@ Performance of components of PQLI is counted between
 </details>
 
 ---
-
-### Q1006 — Human, animal, fomite or objects from
+### Q789 — Human, animal, fomite or objects from
 
 Human, animal, fomite or objects from which infective organism enters the host is called ?
 
@@ -17396,8 +12913,7 @@ Human, animal, fomite or objects from which infective organism enters the host i
 </details>
 
 ---
-
-### Q1007 — Not included in Bradford Hills criteria
+### Q790 — Not included in Bradford Hills criteria
 
 Not included in Bradford Hill's criteria ?
 
@@ -17413,8 +12929,7 @@ Not included in Bradford Hill's criteria ?
 </details>
 
 ---
-
-### Q1008 — Most important criterian in causal relationship
+### Q791 — Most important criterian in causal relationship
 
 Most important criterian in causal relationship hypothesis ?
 
@@ -17430,8 +12945,7 @@ Most important criterian in causal relationship hypothesis ?
 </details>
 
 ---
-
-### Q1009 — The weakest criterian in causal relatianship
+### Q792 — The weakest criterian in causal relatianship
 
 The weakest criterian in causal relatianship hypothesis?
 
@@ -17447,8 +12961,7 @@ The weakest criterian in causal relatianship hypothesis?
 </details>
 
 ---
-
-### Q1010 — Benefit of RCT
+### Q793 — Benefit of RCT
 
 Benefit of RCT ?
 
@@ -17464,8 +12977,7 @@ Benefit of RCT ?
 </details>
 
 ---
-
-### Q1011 — Most commonly used blinding technique in
+### Q794 — Most commonly used blinding technique in
 
 Most commonly used blinding technique in epidemiological studies ?
 
@@ -17481,8 +12993,7 @@ Most commonly used blinding technique in epidemiological studies ?
 </details>
 
 ---
-
-### Q1012 — Which of one of the following
+### Q795 — Which of one of the following
 
 Which of one of the following is NOT a utilization rate?
 
@@ -17498,8 +13009,7 @@ Which of one of the following is NOT a utilization rate?
 </details>
 
 ---
-
-### Q1013 — Calculate IMR if in a population
+### Q796 — Calculate IMR if in a population
 
 Calculate IMR if in a population of 100000 there are 3000 live births in a year and 150 infant deaths in the same year -
 
@@ -17515,8 +13025,7 @@ Calculate IMR if in a population of 100000 there are 3000 live births in a year 
 </details>
 
 ---
-
-### Q1014 — True about combined prospective- retrospective stu
+### Q797 — True about combined prospective- retrospective stu
 
 True about combined prospective- retrospective study true is ?
 
@@ -17532,8 +13041,7 @@ True about combined prospective- retrospective study true is ?
 </details>
 
 ---
-
-### Q1015 — Proportional mortality rate is
+### Q798 — Proportional mortality rate is
 
 Proportional mortality rate is ?
 
@@ -17549,8 +13057,7 @@ Proportional mortality rate is ?
 </details>
 
 ---
-
-### Q1016 — Population attributable risk is defined as
+### Q799 — Population attributable risk is defined as
 
 Population attributable risk is defined as the difference between:
 
@@ -17566,8 +13073,7 @@ Population attributable risk is defined as the difference between:
 </details>
 
 ---
-
-### Q1017 — Selection bias occurs mainly in
+### Q800 — Selection bias occurs mainly in
 
 Selection bias occurs mainly in
 
@@ -17583,8 +13089,7 @@ Selection bias occurs mainly in
 </details>
 
 ---
-
-### Q1018 — Best study technique to study the
+### Q801 — Best study technique to study the
 
 Best study technique to study the occurence of rare adverse effects of drug ?
 
@@ -17600,8 +13105,7 @@ Best study technique to study the occurence of rare adverse effects of drug ?
 </details>
 
 ---
-
-### Q1019 — Bladder cancer can occur in those
+### Q802 — Bladder cancer can occur in those
 
 Bladder cancer can occur in those who are working in chimney for 25 years. Which is the best study for this relationship ?
 
@@ -17617,8 +13121,7 @@ Bladder cancer can occur in those who are working in chimney for 25 years. Which
 </details>
 
 ---
-
-### Q1020 — Which is an example of case
+### Q803 — Which is an example of case
 
 Which is an example of case control study ?
 
@@ -17634,8 +13137,7 @@ Which is an example of case control study ?
 </details>
 
 ---
-
-### Q1021 — Advantage of case-control over a cohort
+### Q804 — Advantage of case-control over a cohort
 
 Advantage of case-control over a cohort study ?
 
@@ -17651,8 +13153,7 @@ Advantage of case-control over a cohort study ?
 </details>
 
 ---
-
-### Q1022 — Immunity starts after how many days
+### Q805 — Immunity starts after how many days
 
 Immunity starts after how many days of yellow fever vaccination ?
 
@@ -17668,8 +13169,7 @@ Immunity starts after how many days of yellow fever vaccination ?
 </details>
 
 ---
-
-### Q1023 — Which Dipheria vaccine is recommended in
+### Q806 — Which Dipheria vaccine is recommended in
 
 Which Dipheria vaccine is recommended in a 14 years old girl ?
 
@@ -17685,8 +13185,7 @@ Which Dipheria vaccine is recommended in a 14 years old girl ?
 </details>
 
 ---
-
-### Q1024 — Droplet nuclei is a type of
+### Q807 — Droplet nuclei is a type of
 
 Droplet nuclei is a type of ?
 
@@ -17702,8 +13201,7 @@ Droplet nuclei is a type of ?
 </details>
 
 ---
-
-### Q1025 — Which is not a direct transmission
+### Q808 — Which is not a direct transmission
 
 Which is not a direct transmission ?
 
@@ -17719,8 +13217,7 @@ Which is not a direct transmission ?
 </details>
 
 ---
-
-### Q1026 — Not a freeze dried vaccine
+### Q809 — Not a freeze dried vaccine
 
 Not a freeze dried vaccine ?
 
@@ -17736,8 +13233,7 @@ Not a freeze dried vaccine ?
 </details>
 
 ---
-
-### Q1027 — Most widely used vaccine, beside OPV
+### Q810 — Most widely used vaccine, beside OPV
 
 Most widely used vaccine, beside OPV ?
 
@@ -17753,8 +13249,7 @@ Most widely used vaccine, beside OPV ?
 </details>
 
 ---
-
-### Q1028 — Chickenpox rash does not involve
+### Q811 — Chickenpox rash does not involve
 
 Chickenpox rash does not involve ?
 
@@ -17770,8 +13265,7 @@ Chickenpox rash does not involve ?
 </details>
 
 ---
-
-### Q1029 — 95 carrier and 5 cases are
+### Q812 — 95 carrier and 5 cases are
 
 95% carrier and 5% cases are seen in ?
 
@@ -17787,8 +13281,7 @@ Chickenpox rash does not involve ?
 </details>
 
 ---
-
-### Q1030 — Following is Hib conjugate vaccine
+### Q813 — Following is Hib conjugate vaccine
 
 Following is Hib conjugate vaccine ?
 
@@ -17804,8 +13297,7 @@ Following is Hib conjugate vaccine ?
 </details>
 
 ---
-
-### Q1031 — True about influenza infectivity
+### Q814 — True about influenza infectivity
 
 True about influenza infectivity ?
 
@@ -17821,8 +13313,7 @@ True about influenza infectivity ?
 </details>
 
 ---
-
-### Q1032 — Capsular polysaccharide derived vaccine is availab
+### Q815 — Capsular polysaccharide derived vaccine is availab
 
 Capsular polysaccharide derived vaccine is available for all meningocci except ?
 
@@ -17838,8 +13329,7 @@ Capsular polysaccharide derived vaccine is available for all meningocci except ?
 </details>
 
 ---
-
-### Q1033 — False regarding polio vaccination
+### Q816 — False regarding polio vaccination
 
 False regarding polio vaccination ?
 
@@ -17855,8 +13345,7 @@ False regarding polio vaccination ?
 </details>
 
 ---
-
-### Q1034 — Reservoir of infection in enteric fever
+### Q817 — Reservoir of infection in enteric fever
 
 Reservoir of infection in enteric fever ?
 
@@ -17872,8 +13361,7 @@ Reservoir of infection in enteric fever ?
 </details>
 
 ---
-
-### Q1035 — Most common route of nosocomial infection
+### Q818 — Most common route of nosocomial infection
 
 Most common route of nosocomial infection [Hospital-acquired infection] ?
 
@@ -17889,8 +13377,7 @@ Most common route of nosocomial infection [Hospital-acquired infection] ?
 </details>
 
 ---
-
-### Q1036 — Behavioral surveillance survey is done in
+### Q819 — Behavioral surveillance survey is done in
 
 Behavioral surveillance survey is done in ?
 
@@ -17906,8 +13393,7 @@ Behavioral surveillance survey is done in ?
 </details>
 
 ---
-
-### Q1037 — Which of the following larvicide is
+### Q820 — Which of the following larvicide is
 
 Which of the following larvicide is used under urban Malaria Scheme ?
 
@@ -17923,8 +13409,7 @@ Which of the following larvicide is used under urban Malaria Scheme ?
 </details>
 
 ---
-
-### Q1038 — Regular insectisidal spray is done when
+### Q821 — Regular insectisidal spray is done when
 
 Regular insectisidal spray is done when API is ?
 
@@ -17940,8 +13425,7 @@ Regular insectisidal spray is done when API is ?
 </details>
 
 ---
-
-### Q1039 — Main function of sodium citrate in
+### Q822 — Main function of sodium citrate in
 
 Main function of sodium citrate in ORS ?
 
@@ -17957,8 +13441,7 @@ Main function of sodium citrate in ORS ?
 </details>
 
 ---
-
-### Q1040 — For post exposure prophylaxis for HIV
+### Q823 — For post exposure prophylaxis for HIV
 
 For post exposure prophylaxis for HIV the regimen is ?
 
@@ -17974,8 +13457,7 @@ For post exposure prophylaxis for HIV the regimen is ?
 </details>
 
 ---
-
-### Q1041 — True about post-exposure prophylaxis in HIV
+### Q824 — True about post-exposure prophylaxis in HIV
 
 True about post-exposure prophylaxis in HIV ?
 
@@ -17991,8 +13473,7 @@ True about post-exposure prophylaxis in HIV ?
 </details>
 
 ---
-
-### Q1042 — Rule of Halves is related to
+### Q825 — Rule of Halves is related to
 
 Rule of Halves is related to ?
 
@@ -18008,8 +13489,7 @@ Rule of Halves is related to ?
 </details>
 
 ---
-
-### Q1043 — Total communication means
+### Q826 — Total communication means
 
 Total communication means ?
 
@@ -18025,8 +13505,7 @@ Total communication means ?
 </details>
 
 ---
-
-### Q1044 — Smoking is preventive for
+### Q827 — Smoking is preventive for
 
 Smoking is preventive for ?
 
@@ -18042,8 +13521,7 @@ Smoking is preventive for ?
 </details>
 
 ---
-
-### Q1045 — According female sterlization 2014 guidelines, eli
+### Q828 — According female sterlization 2014 guidelines, eli
 
 According female sterlization 2014 guidelines, eligibility criteria for female sterilization are all except?
 
@@ -18059,8 +13537,7 @@ According female sterlization 2014 guidelines, eligibility criteria for female s
 </details>
 
 ---
-
-### Q1046 — Which state has lowest IMR
+### Q829 — Which state has lowest IMR
 
 Which state has lowest IMR ?
 
@@ -18076,8 +13553,7 @@ Which state has lowest IMR ?
 </details>
 
 ---
-
-### Q1047 — Gross reproduction rate is
+### Q830 — Gross reproduction rate is
 
 Gross reproduction rate is ?
 
@@ -18093,8 +13569,7 @@ Gross reproduction rate is ?
 </details>
 
 ---
-
-### Q1048 — In a town there are 2500
+### Q831 — In a town there are 2500
 
 In a town there are 2500 live birth within six month. During same period 5 women died due to peripartum infection, 5 died due to electrocution, 2 died due to
 
@@ -18110,8 +13585,7 @@ In a town there are 2500 live birth within six month. During same period 5 women
 </details>
 
 ---
-
-### Q1049 — Vital statistics in a population are
+### Q832 — Vital statistics in a population are
 
 Vital statistics in a population are ?
 
@@ -18127,8 +13601,7 @@ Vital statistics in a population are ?
 </details>
 
 ---
-
-### Q1050 — What is exponential growth
+### Q833 — What is exponential growth
 
 What is exponential growth ?
 
@@ -18144,8 +13617,7 @@ What is exponential growth ?
 </details>
 
 ---
-
-### Q1051 — Sample registration system is done once
+### Q834 — Sample registration system is done once
 
 Sample registration system is done once in ?
 
@@ -18161,8 +13633,7 @@ Sample registration system is done once in ?
 </details>
 
 ---
-
-### Q1052 — In a community of 1000000 population
+### Q835 — In a community of 1000000 population
 
 In a community of 1000000 population 105 children were born in a year out of which 5 was still births, and 4 died within 6 months after birth. The IMR is ?
 
@@ -18178,8 +13649,7 @@ In a community of 1000000 population 105 children were born in a year out of whi
 </details>
 
 ---
-
-### Q1053 — Maternal mortality rate is defined as
+### Q836 — Maternal mortality rate is defined as
 
 Maternal mortality rate is defined as ?
 
@@ -18195,8 +13665,7 @@ Maternal mortality rate is defined as ?
 </details>
 
 ---
-
-### Q1054 — NPU for egg is
+### Q837 — NPU for egg is
 
 NPU for egg is ?
 
@@ -18212,8 +13681,7 @@ NPU for egg is ?
 </details>
 
 ---
-
-### Q1055 — Skeletal fluorosis occurs with fluoride level
+### Q838 — Skeletal fluorosis occurs with fluoride level
 
 Skeletal fluorosis occurs with fluoride level in water?
 
@@ -18229,8 +13697,7 @@ Skeletal fluorosis occurs with fluoride level in water?
 </details>
 
 ---
-
-### Q1056 — Mid-day meal provides
+### Q839 — Mid-day meal provides
 
 Mid-day meal provides ?
 
@@ -18246,8 +13713,7 @@ Mid-day meal provides ?
 </details>
 
 ---
-
-### Q1057 — Maximum protein is found in
+### Q840 — Maximum protein is found in
 
 Maximum protein is found in ?
 
@@ -18263,8 +13729,7 @@ Maximum protein is found in ?
 </details>
 
 ---
-
-### Q1058 — Tablet for supplementation of iron and
+### Q841 — Tablet for supplementation of iron and
 
 Tablet for supplementation of iron and folic acid for adult contains ?
 
@@ -18280,8 +13745,7 @@ Tablet for supplementation of iron and folic acid for adult contains ?
 </details>
 
 ---
-
-### Q1059 — Vanaspati Ghee is fortified with
+### Q842 — Vanaspati Ghee is fortified with
 
 Vanaspati Ghee is fortified with ?
 
@@ -18297,8 +13761,7 @@ Vanaspati Ghee is fortified with ?
 </details>
 
 ---
-
-### Q1060 — Village Health and Nutrition Day (VHND)
+### Q843 — Village Health and Nutrition Day (VHND)
 
 Village Health and Nutrition Day (VHND) is observed ?
 
@@ -18314,8 +13777,7 @@ Village Health and Nutrition Day (VHND) is observed ?
 </details>
 
 ---
-
-### Q1061 — Phrynoderma is due to deficiency-
+### Q844 — Phrynoderma is due to deficiency-
 
 Phrynoderma is due to ...deficiency-
 
@@ -18331,8 +13793,7 @@ Phrynoderma is due to ...deficiency-
 </details>
 
 ---
-
-### Q1062 — Glycemic index is defined as
+### Q845 — Glycemic index is defined as
 
 Glycemic index is defined as:
 
@@ -18348,8 +13809,7 @@ Glycemic index is defined as:
 </details>
 
 ---
-
-### Q1063 — Low glycemic index is classified as
+### Q846 — Low glycemic index is classified as
 
 Low glycemic index is classified as value less than:
 
@@ -18365,8 +13825,7 @@ Low glycemic index is classified as value less than:
 </details>
 
 ---
-
-### Q1064 — Differences between human milk and cow
+### Q847 — Differences between human milk and cow
 
 Differences between human milk and cow milk are all of the following except:
 
@@ -18382,8 +13841,7 @@ Differences between human milk and cow milk are all of the following except:
 </details>
 
 ---
-
-### Q1065 — Skin fold thickness is measured in
+### Q848 — Skin fold thickness is measured in
 
 Skin fold thickness is measured in all of the following places, EXCEPT:
 
@@ -18399,8 +13857,7 @@ Skin fold thickness is measured in all of the following places, EXCEPT:
 </details>
 
 ---
-
-### Q1066 — Which is true of pathogenic mosquitoes
+### Q849 — Which is true of pathogenic mosquitoes
 
 Which is true of pathogenic mosquitoes ?
 
@@ -18416,8 +13873,7 @@ Which is true of pathogenic mosquitoes ?
 </details>
 
 ---
-
-### Q1067 — Horrocks apparatus is used to measure
+### Q850 — Horrocks apparatus is used to measure
 
 Horrock's apparatus is used to measure ?
 
@@ -18433,8 +13889,7 @@ Horrock's apparatus is used to measure ?
 </details>
 
 ---
-
-### Q1068 — Indicator used in Horrochs apparatus
+### Q851 — Indicator used in Horrochs apparatus
 
 Indicator used in Horroch's apparatus ?
 
@@ -18450,8 +13905,7 @@ Indicator used in Horroch's apparatus ?
 </details>
 
 ---
-
-### Q1069 — In water testing from a well
+### Q852 — In water testing from a well
 
 In water testing from a well [containing 75000 litres of water] by Horrock's apparatus, there is blue colour from 4th cup onwards. What is the amount of
 
@@ -18467,8 +13921,7 @@ In water testing from a well [containing 75000 litres of water] by Horrock's app
 </details>
 
 ---
-
-### Q1070 — Daylight factor in the kitchen should
+### Q853 — Daylight factor in the kitchen should
 
 Daylight factor in the kitchen should be ?
 
@@ -18484,8 +13937,7 @@ Daylight factor in the kitchen should be ?
 </details>
 
 ---
-
-### Q1071 — Anemometer measures
+### Q854 — Anemometer measures
 
 Anemometer measures ?
 
@@ -18501,8 +13953,7 @@ Anemometer measures ?
 </details>
 
 ---
-
-### Q1072 — SI unit of luminal intesity is
+### Q855 — SI unit of luminal intesity is
 
 SI unit of luminal intesity is -
 
@@ -18518,8 +13969,7 @@ SI unit of luminal intesity is -
 </details>
 
 ---
-
-### Q1073 — Waste Sharps should be disposed in
+### Q856 — Waste Sharps should be disposed in
 
 Waste Sharps should be disposed in ?
 
@@ -18535,8 +13985,7 @@ Waste Sharps should be disposed in ?
 </details>
 
 ---
-
-### Q1074 — Which category waste is disposed in
+### Q857 — Which category waste is disposed in
 
 Which category waste is disposed in red bags ?
 
@@ -18552,8 +14001,7 @@ Which category waste is disposed in red bags ?
 </details>
 
 ---
-
-### Q1075 — Incineration is used for which category
+### Q858 — Incineration is used for which category
 
 Incineration is used for which category of waste ?
 
@@ -18569,8 +14017,7 @@ Incineration is used for which category of waste ?
 </details>
 
 ---
-
-### Q1076 — Micropolysopora faeni causes
+### Q859 — Micropolysopora faeni causes
 
 Micropolysopora faeni causes ?
 
@@ -18586,8 +14033,7 @@ Micropolysopora faeni causes ?
 </details>
 
 ---
-
-### Q1077 — True about Anganwadi worker is all
+### Q860 — True about Anganwadi worker is all
 
 True about Anganwadi worker is all except ?
 
@@ -18603,8 +14049,7 @@ True about Anganwadi worker is all except ?
 </details>
 
 ---
-
-### Q1078 — As per ICDS scheme, there should
+### Q861 — As per ICDS scheme, there should
 
 As per ICDS scheme, there should be one Anganwadi centre for a population of ?
 
@@ -18620,8 +14065,7 @@ As per ICDS scheme, there should be one Anganwadi centre for a population of ?
 </details>
 
 ---
-
-### Q1079 — True about ASHA are all except
+### Q862 — True about ASHA are all except
 
 True about ASHA are all except
 
@@ -18637,8 +14081,7 @@ True about ASHA are all except
 </details>
 
 ---
-
-### Q1080 — All of the following are duties
+### Q863 — All of the following are duties
 
 All of the following are duties of an ASHA worker except:
 
@@ -18654,8 +14097,7 @@ All of the following are duties of an ASHA worker except:
 </details>
 
 ---
-
-### Q1081 — ASHA gets remuneration on all except
+### Q864 — ASHA gets remuneration on all except
 
 ASHA gets remuneration on all except ?
 
@@ -18671,8 +14113,7 @@ ASHA gets remuneration on all except ?
 </details>
 
 ---
-
-### Q1082 — Swajaldhara programme is associated with
+### Q865 — Swajaldhara programme is associated with
 
 Swajaldhara programme is associated with:
 
@@ -18688,8 +14129,7 @@ Swajaldhara programme is associated with:
 </details>
 
 ---
-
-### Q1083 — Group of 4-8 experts talking in
+### Q866 — Group of 4-8 experts talking in
 
 Group of 4-8 experts talking in front of a large group of audience is known as:
 
@@ -18705,8 +14145,7 @@ Group of 4-8 experts talking in front of a large group of audience is known as:
 </details>
 
 ---
-
-### Q1084 — All are principles of primary health
+### Q867 — All are principles of primary health
 
 All are principles of primary health care except?
 
@@ -18722,8 +14161,7 @@ All are principles of primary health care except?
 </details>
 
 ---
-
-### Q1085 — Screening under RNTCP emphasizes on
+### Q868 — Screening under RNTCP emphasizes on
 
 Screening under RNTCP emphasizes on:
 
@@ -18739,8 +14177,7 @@ Screening under RNTCP emphasizes on:
 </details>
 
 ---
-
-### Q1086 — Which of the following screening methods
+### Q869 — Which of the following screening methods
 
 Which of the following screening methods is used under RNTCP?
 
@@ -18756,8 +14193,7 @@ Which of the following screening methods is used under RNTCP?
 </details>
 
 ---
-
-### Q1087 — Regarding PPV vaccine following is true
+### Q870 — Regarding PPV vaccine following is true
 
 Regarding PPV vaccine following is true ?
 
@@ -18773,8 +14209,7 @@ Regarding PPV vaccine following is true ?
 </details>
 
 ---
-
-### Q1088 — All are included in sleep hygiene
+### Q871 — All are included in sleep hygiene
 
 All are included in sleep hygiene except ?
 
@@ -18790,8 +14225,7 @@ All are included in sleep hygiene except ?
 </details>
 
 ---
-
-### Q1089 — A problem village is defined as
+### Q872 — A problem village is defined as
 
 A problem village is defined as if water source is ?
 
@@ -18807,8 +14241,7 @@ A problem village is defined as if water source is ?
 </details>
 
 ---
-
-### Q1090 — Not true about strategic plan for
+### Q873 — Not true about strategic plan for
 
 Not true about strategic plan for malaria control 2012​2017 ?
 
@@ -18824,8 +14257,7 @@ Not true about strategic plan for malaria control 2012​2017 ?
 </details>
 
 ---
-
-### Q1091 — Light house sign in seen in
+### Q874 — Light house sign in seen in
 
 Light house sign in seen in ASOM in which stage?
 
@@ -18841,8 +14273,7 @@ Light house sign in seen in ASOM in which stage?
 </details>
 
 ---
-
-### Q1092 — What is the role of Sodium
+### Q875 — What is the role of Sodium
 
 What is the role of Sodium Fluoride in otosclerosis?
 
@@ -18858,8 +14289,7 @@ What is the role of Sodium Fluoride in otosclerosis?
 </details>
 
 ---
-
-### Q1093 — Which of the following tests is
+### Q876 — Which of the following tests is
 
 Which of the following tests is not used to differentiate between cochlear and retrocochlear hearing loss?
 
@@ -18875,8 +14305,7 @@ Which of the following tests is not used to differentiate between cochlear and r
 </details>
 
 ---
-
-### Q1094 — When does the rudimentary cochlea develop
+### Q877 — When does the rudimentary cochlea develop
 
 When does the rudimentary cochlea develop in the fetus?
 
@@ -18892,8 +14321,7 @@ When does the rudimentary cochlea develop in the fetus?
 </details>
 
 ---
-
-### Q1095 — Otosclerosis affects which bone
+### Q878 — Otosclerosis affects which bone
 
 Otosclerosis affects which bone?
 
@@ -18909,8 +14337,7 @@ Otosclerosis affects which bone?
 </details>
 
 ---
-
-### Q1096 — External auditory canal is formed by
+### Q879 — External auditory canal is formed by
 
 External auditory canal is formed by:
 
@@ -18926,8 +14353,7 @@ External auditory canal is formed by:
 </details>
 
 ---
-
-### Q1097 — Which of the following is a
+### Q880 — Which of the following is a
 
 Which of the following is a cause of objective tinnitus?
 
@@ -18943,8 +14369,7 @@ Which of the following is a cause of objective tinnitus?
 </details>
 
 ---
-
-### Q1098 — Pulsatile tinnitus is a feature of
+### Q881 — Pulsatile tinnitus is a feature of
 
 Pulsatile tinnitus is a feature of ?
 
@@ -18960,8 +14385,7 @@ Pulsatile tinnitus is a feature of ?
 </details>
 
 ---
-
-### Q1099 — Ethmoidal infundibulum lies between
+### Q882 — Ethmoidal infundibulum lies between
 
 Ethmoidal infundibulum lies between ?
 
@@ -18977,8 +14401,7 @@ Ethmoidal infundibulum lies between ?
 </details>
 
 ---
-
-### Q1100 — What lies between the middle and
+### Q883 — What lies between the middle and
 
 What lies between the middle and inferior turbinate?
 
@@ -18994,8 +14417,7 @@ What lies between the middle and inferior turbinate?
 </details>
 
 ---
-
-### Q1101 — The narrowest part of the nasal
+### Q884 — The narrowest part of the nasal
 
 The narrowest part of the nasal cavity is ?
 
@@ -19011,8 +14433,7 @@ The narrowest part of the nasal cavity is ?
 </details>
 
 ---
-
-### Q1102 — Narrowest part of the nasal cavity
+### Q885 — Narrowest part of the nasal cavity
 
 Narrowest part of the nasal cavity is ?
 
@@ -19028,8 +14449,7 @@ Narrowest part of the nasal cavity is ?
 </details>
 
 ---
-
-### Q1103 — In evaluation of a case of
+### Q886 — In evaluation of a case of
 
 In evaluation of a case of immotile nasal cilia, which of the following investigations should prove useful?
 
@@ -19045,8 +14465,7 @@ In evaluation of a case of immotile nasal cilia, which of the following investig
 </details>
 
 ---
-
-### Q1104 — All of the following are features
+### Q887 — All of the following are features
 
 All of the following are features of ethmoidal polyp except ?
 
@@ -19062,8 +14481,7 @@ All of the following are features of ethmoidal polyp except ?
 </details>
 
 ---
-
-### Q1105 — All of the following are treatments
+### Q888 — All of the following are treatments
 
 All of the following are treatments of multiple bilateral ethmoidal polyps except?
 
@@ -19079,8 +14497,7 @@ All of the following are treatments of multiple bilateral ethmoidal polyps excep
 </details>
 
 ---
-
-### Q1106 — The artery which leads to bleeding
+### Q889 — The artery which leads to bleeding
 
 The artery which leads to bleeding in Woodruff's area is?
 
@@ -19096,8 +14513,7 @@ The artery which leads to bleeding in Woodruff's area is?
 </details>
 
 ---
-
-### Q1107 — ETHMOIDAL BULLAE are seen in
+### Q890 — ETHMOIDAL BULLAE are seen in
 
 ETHMOIDAL BULLAE are seen in?
 
@@ -19113,8 +14529,7 @@ ETHMOIDAL BULLAE are seen in?
 </details>
 
 ---
-
-### Q1108 — Anterior tonsillar pillar is formed by
+### Q891 — Anterior tonsillar pillar is formed by
 
 Anterior tonsillar pillar is formed by?
 
@@ -19130,8 +14545,7 @@ Anterior tonsillar pillar is formed by?
 </details>
 
 ---
-
-### Q1109 — One of the following is true
+### Q892 — One of the following is true
 
 One of the following is true regarding Zenker diverticulum ?
 
@@ -19147,8 +14561,7 @@ One of the following is true regarding Zenker diverticulum ?
 </details>
 
 ---
-
-### Q1110 — Which is the narrowest portion of
+### Q893 — Which is the narrowest portion of
 
 Which is the narrowest portion of the esophagus?
 
@@ -19164,8 +14577,7 @@ Which is the narrowest portion of the esophagus?
 </details>
 
 ---
-
-### Q1111 — In Caldwell Luc operation, the approach
+### Q894 — In Caldwell Luc operation, the approach
 
 In Caldwell Luc operation, the approach is through the?
 
@@ -19181,8 +14593,7 @@ In Caldwell Luc operation, the approach is through the?
 </details>
 
 ---
-
-### Q1112 — Caldwell Luc Surgery has its approach
+### Q895 — Caldwell Luc Surgery has its approach
 
 Caldwell Luc Surgery has its approach to the maxillary antrum through ?
 
@@ -19198,8 +14609,7 @@ Caldwell Luc Surgery has its approach to the maxillary antrum through ?
 </details>
 
 ---
-
-### Q1113 — All of the following are removed
+### Q896 — All of the following are removed
 
 All of the following are removed in vertical hemilaryngectomy except?
 
@@ -19215,8 +14625,7 @@ All of the following are removed in vertical hemilaryngectomy except?
 </details>
 
 ---
-
-### Q1114 — Miracle fruit is used to change
+### Q897 — Miracle fruit is used to change
 
 Miracle fruit is used to change the taste from?
 
@@ -19232,8 +14641,7 @@ Miracle fruit is used to change the taste from?
 </details>
 
 ---
-
-### Q1115 — The main muscle affected in congenital
+### Q898 — The main muscle affected in congenital
 
 The main muscle affected in congenital muscular torticollis is?
 
@@ -19249,8 +14657,7 @@ The main muscle affected in congenital muscular torticollis is?
 </details>
 
 ---
-
-### Q1116 — Where is the auditory cortex located
+### Q899 — Where is the auditory cortex located
 
 Where is the auditory cortex located inside the brain?
 
@@ -19266,8 +14673,7 @@ Where is the auditory cortex located inside the brain?
 </details>
 
 ---
-
-### Q1117 — Which eye muscle has radial, longitudinal
+### Q900 — Which eye muscle has radial, longitudinal
 
 Which eye muscle has radial, longitudinal and circular fibres?
 
@@ -19283,8 +14689,7 @@ Which eye muscle has radial, longitudinal and circular fibres?
 </details>
 
 ---
-
-### Q1118 — Axial length of eye ball is
+### Q901 — Axial length of eye ball is
 
 Axial length of eye ball is:
 
@@ -19300,8 +14705,7 @@ Axial length of eye ball is:
 </details>
 
 ---
-
-### Q1119 — Sturms conoid refers to configuration of
+### Q902 — Sturms conoid refers to configuration of
 
 Sturm's conoid refers to configuration of the rays refracted through:
 
@@ -19317,8 +14721,7 @@ Sturm's conoid refers to configuration of the rays refracted through:
 </details>
 
 ---
-
-### Q1120 — Refractory error measured by all except
+### Q903 — Refractory error measured by all except
 
 Refractory error measured by all except ?
 
@@ -19334,8 +14737,7 @@ Refractory error measured by all except ?
 </details>
 
 ---
-
-### Q1121 — Anteroposterior change in length of eye
+### Q904 — Anteroposterior change in length of eye
 
 Anteroposterior change in length of eye is called ?
 
@@ -19351,8 +14753,7 @@ Anteroposterior change in length of eye is called ?
 </details>
 
 ---
-
-### Q1122 — Poikilocytosis and anisocytosis is seen in
+### Q905 — Poikilocytosis and anisocytosis is seen in
 
 Poikilocytosis and anisocytosis is seen in
 
@@ -19368,8 +14769,7 @@ Poikilocytosis and anisocytosis is seen in
 </details>
 
 ---
-
-### Q1123 — Incidence of scar rupture in a
+### Q906 — Incidence of scar rupture in a
 
 Incidence of scar rupture in a subsequent preg​nancy in case of Lower Segment Cesarean Section (LSCS) is:
 
@@ -19388,7 +14788,7 @@ Incidence of scar rupture in a subsequent preg​nancy in case of Lower Segment 
 
 ## Medicine
 
-### Q1124 — Superior pancreaticoduodenal artery is a branch *(2015)*
+### Q907 — Superior pancreaticoduodenal artery is a branch *(2015)*
 
 Superior pancreaticoduodenal artery is a branch of?
 
@@ -19404,8 +14804,7 @@ Superior pancreaticoduodenal artery is a branch of?
 </details>
 
 ---
-
-### Q1125 — Polyuria with low fixed specific gravity *(2015)*
+### Q908 — Polyuria with low fixed specific gravity *(2015)*
 
 Polyuria with low fixed specific gravity urine is seen in ?
 
@@ -19421,8 +14820,7 @@ Polyuria with low fixed specific gravity urine is seen in ?
 </details>
 
 ---
-
-### Q1126 — Drainage of cervical abscess is an *(2015)*
+### Q909 — Drainage of cervical abscess is an *(2015)*
 
 Drainage of cervical abscess is an example of -
 
@@ -19438,8 +14836,7 @@ Drainage of cervical abscess is an example of -
 </details>
 
 ---
-
-### Q1127 — the features of membranous urethral injury *(2015)*
+### Q910 — the features of membranous urethral injury *(2015)*
 
 All the features of membranous urethral injury except
 
@@ -19455,8 +14852,7 @@ All the features of membranous urethral injury except
 </details>
 
 ---
-
-### Q1128 — size beyond which the risk of *(2015)*
+### Q911 — size beyond which the risk of *(2015)*
 
 The size beyond which the risk of rupture of an abdominal aneurysm significantly increases is greater than -
 
@@ -19472,8 +14868,7 @@ The size beyond which the risk of rupture of an abdominal aneurysm significantly
 </details>
 
 ---
-
-### Q1129 — of the following may lead to *(2015)*
+### Q912 — of the following may lead to *(2015)*
 
 All of the following may lead to pneumatocele formation except
 
@@ -19489,8 +14884,7 @@ All of the following may lead to pneumatocele formation except
 </details>
 
 ---
-
-### Q1130 — of the following is false about *(2015)*
+### Q913 — of the following is false about *(2015)*
 
 Which of the following is false about undescended testis ?
 
@@ -19506,8 +14900,7 @@ Which of the following is false about undescended testis ?
 </details>
 
 ---
-
-### Q1131 — newborn baby has a head circumference *(2015)*
+### Q914 — newborn baby has a head circumference *(2015)*
 
 A newborn baby has a head circumference of 35 ems. at birth, His optimal head circumference will be 43 ems at -
 
@@ -19523,9 +14916,7 @@ A newborn baby has a head circumference of 35 ems. at birth, His optimal head ci
 </details>
 
 ---
-
-
-### Q1132 — Common hepatic artery is a branch
+### Q915 — Common hepatic artery is a branch
 
 Common hepatic artery is a branch of -
 
@@ -19541,8 +14932,7 @@ Common hepatic artery is a branch of -
 </details>
 
 ---
-
-### Q1133 — Tail of pancrease develops from -
+### Q916 — Tail of pancrease develops from -
 
 Tail of pancrease develops from -
 
@@ -19558,8 +14948,7 @@ Tail of pancrease develops from -
 </details>
 
 ---
-
-### Q1134 — Structures passing through Calots triangle are
+### Q917 — Structures passing through Calots triangle are
 
 Structures passing through Calot's triangle are all EXCEPT:
 
@@ -19575,8 +14964,7 @@ Structures passing through Calot's triangle are all EXCEPT:
 </details>
 
 ---
-
-### Q1135 — Shrinking Lung Syndrome is seen in
+### Q918 — Shrinking Lung Syndrome is seen in
 
 Shrinking Lung Syndrome is seen in:
 
@@ -19592,8 +14980,7 @@ Shrinking Lung Syndrome is seen in:
 </details>
 
 ---
-
-### Q1136 — Heart failure cells are
+### Q919 — Heart failure cells are
 
 Heart failure cells are
 
@@ -19609,8 +14996,7 @@ Heart failure cells are
 </details>
 
 ---
-
-### Q1137 — Heart failure cells are seen in
+### Q920 — Heart failure cells are seen in
 
 Heart failure cells are seen in -
 
@@ -19626,8 +15012,7 @@ Heart failure cells are seen in -
 </details>
 
 ---
-
-### Q1138 — Most common nephropathy associated with malignaneN
+### Q921 — Most common nephropathy associated with malignaneN
 
 Most common nephropathy associated with malignaneN is:
 
@@ -19643,8 +15028,7 @@ Most common nephropathy associated with malignaneN is:
 </details>
 
 ---
-
-### Q1139 — Not true about Alports syndrome -
+### Q922 — Not true about Alports syndrome -
 
 Not true about Alport's syndrome -
 
@@ -19660,8 +15044,7 @@ Not true about Alport's syndrome -
 </details>
 
 ---
-
-### Q1140 — Fenoldopam is used in the management
+### Q923 — Fenoldopam is used in the management
 
 Fenoldopam is used in the management of ?
 
@@ -19677,8 +15060,7 @@ Fenoldopam is used in the management of ?
 </details>
 
 ---
-
-### Q1141 — Following are the side effects of
+### Q924 — Following are the side effects of
 
 Following are the side effects of thiazides except?
 
@@ -19694,8 +15076,7 @@ Following are the side effects of thiazides except?
 </details>
 
 ---
-
-### Q1142 — Atypical side effect montelukast
+### Q925 — Atypical side effect montelukast
 
 Atypical side effect montelukast ?
 
@@ -19711,8 +15092,7 @@ Atypical side effect montelukast ?
 </details>
 
 ---
-
-### Q1143 — Neuropathy caused by INH increases in
+### Q926 — Neuropathy caused by INH increases in
 
 Neuropathy caused by INH increases in all except?
 
@@ -19728,8 +15108,7 @@ Neuropathy caused by INH increases in all except?
 </details>
 
 ---
-
-### Q1144 — Chlamydia pneumoniae causes causes
+### Q927 — Chlamydia pneumoniae causes causes
 
 Chlamydia pneumoniae causes causes:
 
@@ -19745,8 +15124,7 @@ Chlamydia pneumoniae causes causes:
 </details>
 
 ---
-
-### Q1145 — Streptococcal pneumoniae pneumonia present at -
+### Q928 — Streptococcal pneumoniae pneumonia present at -
 
 Streptococcal pneumoniae pneumonia present at -
 
@@ -19762,8 +15140,7 @@ Streptococcal pneumoniae pneumonia present at -
 </details>
 
 ---
-
-### Q1146 — Most common complication of diphtheria is
+### Q929 — Most common complication of diphtheria is
 
 Most common complication of diphtheria is -
 
@@ -19779,8 +15156,7 @@ Most common complication of diphtheria is -
 </details>
 
 ---
-
-### Q1147 — Scleritis is most commonly associated with
+### Q930 — Scleritis is most commonly associated with
 
 Scleritis is most commonly associated with:
 
@@ -19796,8 +15172,7 @@ Scleritis is most commonly associated with:
 </details>
 
 ---
-
-### Q1148 — Prutchners retinopathy in associated with -
+### Q931 — Prutchners retinopathy in associated with -
 
 Prutchners retinopathy in associated with -
 
@@ -19813,8 +15188,7 @@ Prutchners retinopathy in associated with -
 </details>
 
 ---
-
-### Q1149 — Which one of the following is
+### Q932 — Which one of the following is
 
 Which one of the following is not an early complication of acute myocardial infarction ?
 
@@ -19830,8 +15204,7 @@ Which one of the following is not an early complication of acute myocardial infa
 </details>
 
 ---
-
-### Q1150 — Hepatic Encephalopathy is predisposed by all,
+### Q933 — Hepatic Encephalopathy is predisposed by all,
 
 Hepatic Encephalopathy is predisposed by all, Except:
 
@@ -19847,8 +15220,7 @@ Hepatic Encephalopathy is predisposed by all, Except:
 </details>
 
 ---
-
-### Q1151 — Rockall score is used for prognosis
+### Q934 — Rockall score is used for prognosis
 
 Rockall score is used for prognosis of patients of
 
@@ -19864,8 +15236,7 @@ Rockall score is used for prognosis of patients of
 </details>
 
 ---
-
-### Q1152 — Not associated with diabetes mellitus
+### Q935 — Not associated with diabetes mellitus
 
 Not associated with diabetes mellitus
 
@@ -19881,8 +15252,7 @@ Not associated with diabetes mellitus
 </details>
 
 ---
-
-### Q1153 — In long standing rheumatoid arthritis which
+### Q936 — In long standing rheumatoid arthritis which
 
 In long standing rheumatoid arthritis which will be seen -
 
@@ -19898,8 +15268,7 @@ In long standing rheumatoid arthritis which will be seen -
 </details>
 
 ---
-
-### Q1154 — Alzehiemer type II astrocyte are seen
+### Q937 — Alzehiemer type II astrocyte are seen
 
 Alzehiemer type II astrocyte are seen in -
 
@@ -19915,8 +15284,7 @@ Alzehiemer type II astrocyte are seen in -
 </details>
 
 ---
-
-### Q1155 — Chvostek sign is seen in
+### Q938 — Chvostek sign is seen in
 
 Chvostek sign is seen in:
 
@@ -19932,8 +15300,7 @@ Chvostek sign is seen in:
 </details>
 
 ---
-
-### Q1156 — Martel sign is seen in -
+### Q939 — Martel sign is seen in -
 
 Martel sign is seen in -
 
@@ -19949,8 +15316,7 @@ Martel sign is seen in -
 </details>
 
 ---
-
-### Q1157 — In which of causes of oral
+### Q940 — In which of causes of oral
 
 In which of causes of oral ulcer, Auto- antibodies are not seen?
 
@@ -19966,8 +15332,7 @@ In which of causes of oral ulcer, Auto- antibodies are not seen?
 </details>
 
 ---
-
-### Q1158 — Incorrect about LAMB syndrome -
+### Q941 — Incorrect about LAMB syndrome -
 
 Incorrect about LAMB syndrome -
 
@@ -19983,8 +15348,7 @@ Incorrect about LAMB syndrome -
 </details>
 
 ---
-
-### Q1159 — The Vitamin which has inhibitory effect
+### Q942 — The Vitamin which has inhibitory effect
 
 The Vitamin which has inhibitory effect on wound healing is -
 
@@ -20000,8 +15364,7 @@ The Vitamin which has inhibitory effect on wound healing is -
 </details>
 
 ---
-
-### Q1160 — Number of barr bodies in klinfellters
+### Q943 — Number of barr bodies in klinfellters
 
 Number of barr bodies in klinfellter's syndrome is -
 
@@ -20017,8 +15380,7 @@ Number of barr bodies in klinfellter's syndrome is -
 </details>
 
 ---
-
-### Q1161 — Which of these is not a
+### Q944 — Which of these is not a
 
 Which of these is not a part of extracellular matrix:
 
@@ -20034,8 +15396,7 @@ Which of these is not a part of extracellular matrix:
 </details>
 
 ---
-
-### Q1162 — Which of the following substances is
+### Q945 — Which of the following substances is
 
 Which of the following substances is primarily found in tendons?
 
@@ -20051,8 +15412,7 @@ Which of the following substances is primarily found in tendons?
 </details>
 
 ---
-
-### Q1163 — DOC for acute attack of Hereditary
+### Q946 — DOC for acute attack of Hereditary
 
 DOC for acute attack of Hereditary angioneurotic edema
 
@@ -20068,8 +15428,7 @@ DOC for acute attack of Hereditary angioneurotic edema
 </details>
 
 ---
-
-### Q1164 — Which can be give in hemorrhagic
+### Q947 — Which can be give in hemorrhagic
 
 Which can be give in hemorrhagic stroke ?
 
@@ -20085,8 +15444,7 @@ Which can be give in hemorrhagic stroke ?
 </details>
 
 ---
-
-### Q1165 — Flushing with niacin in reduced by
+### Q948 — Flushing with niacin in reduced by
 
 Flushing with niacin in reduced by -
 
@@ -20102,8 +15460,7 @@ Flushing with niacin in reduced by -
 </details>
 
 ---
-
-### Q1166 — Obesity is seen in all except
+### Q949 — Obesity is seen in all except
 
 Obesity is seen in all except
 
@@ -20119,8 +15476,7 @@ Obesity is seen in all except
 </details>
 
 ---
-
-### Q1167 — Intracranial pressure may be increased by
+### Q950 — Intracranial pressure may be increased by
 
 Intracranial pressure may be increased by all of the following drugs except -
 
@@ -20136,8 +15492,7 @@ Intracranial pressure may be increased by all of the following drugs except -
 </details>
 
 ---
-
-### Q1168 — Most common location of ectopic salivary
+### Q951 — Most common location of ectopic salivary
 
 Most common location of ectopic salivary gland is -
 
@@ -20153,8 +15508,7 @@ Most common location of ectopic salivary gland is -
 </details>
 
 ---
-
-### Q1169 — Classic triad inRenal cell carcinoma includes
+### Q952 — Classic triad inRenal cell carcinoma includes
 
 Classic triad inRenal cell carcinoma includes all of the following, Except:
 
@@ -20170,8 +15524,7 @@ Classic triad inRenal cell carcinoma includes all of the following, Except:
 </details>
 
 ---
-
-### Q1170 — ESWL is contraindicated in which of
+### Q953 — ESWL is contraindicated in which of
 
 ESWL is contraindicated in which of the following stones -
 
@@ -20187,8 +15540,7 @@ ESWL is contraindicated in which of the following stones -
 </details>
 
 ---
-
-### Q1171 — Surgery for undescended testis is recommended
+### Q954 — Surgery for undescended testis is recommended
 
 Surgery for undescended testis is recommended at what age?
 
@@ -20204,8 +15556,7 @@ Surgery for undescended testis is recommended at what age?
 </details>
 
 ---
-
-### Q1172 — Pseudoclaudication is caused by
+### Q955 — Pseudoclaudication is caused by
 
 Pseudoclaudication is caused by
 
@@ -20221,8 +15572,7 @@ Pseudoclaudication is caused by
 </details>
 
 ---
-
-### Q1173 — Which of the following is the
+### Q956 — Which of the following is the
 
 Which of the following is the most conservative neck dissection -
 
@@ -20238,8 +15588,7 @@ Which of the following is the most conservative neck dissection -
 </details>
 
 ---
-
-### Q1174 — Supraomohyoid dissection is a type of
+### Q957 — Supraomohyoid dissection is a type of
 
 Supraomohyoid dissection is a type of -
 
@@ -20255,8 +15604,7 @@ Supraomohyoid dissection is a type of -
 </details>
 
 ---
-
-### Q1175 — Alagille syndrome- all of the following
+### Q958 — Alagille syndrome- all of the following
 
 Alagille syndrome- all of the following are true except -
 
@@ -20272,8 +15620,7 @@ Alagille syndrome- all of the following are true except -
 </details>
 
 ---
-
-### Q1176 — Absence of Ultra hepatic bile duct
+### Q959 — Absence of Ultra hepatic bile duct
 
 Absence of Ultra hepatic bile duct leads to which syndrome?
 
@@ -20289,8 +15636,7 @@ Absence of Ultra hepatic bile duct leads to which syndrome?
 </details>
 
 ---
-
-### Q1177 — Adsons test is positive in -
+### Q960 — Adsons test is positive in -
 
 Adson's test is positive in -
 
@@ -20306,8 +15652,7 @@ Adson's test is positive in -
 </details>
 
 ---
-
-### Q1178 — Anterior Mediastinal nodes are included in
+### Q961 — Anterior Mediastinal nodes are included in
 
 Anterior Mediastinal nodes are included in which level of lymphnodes -
 
@@ -20323,8 +15668,7 @@ Anterior Mediastinal nodes are included in which level of lymphnodes -
 </details>
 
 ---
-
-### Q1179 — Which Is False about stress urinary
+### Q962 — Which Is False about stress urinary
 
 Which Is False about stress urinary incontinence -
 
@@ -20340,8 +15684,7 @@ Which Is False about stress urinary incontinence -
 </details>
 
 ---
-
-### Q1180 — Which of the following urethral anomaly
+### Q963 — Which of the following urethral anomaly
 
 Which of the following urethral anomaly is the most common -
 
@@ -20357,8 +15700,7 @@ Which of the following urethral anomaly is the most common -
 </details>
 
 ---
-
-### Q1181 — Which of the following types of
+### Q964 — Which of the following types of
 
 Which of the following types of shock wiil usually have warm peripheral extremities ?
 
@@ -20374,8 +15716,7 @@ Which of the following types of shock wiil usually have warm peripheral extremit
 </details>
 
 ---
-
-### Q1182 — Antibiotic prophylaxis is best given -
+### Q965 — Antibiotic prophylaxis is best given -
 
 Antibiotic prophylaxis is best given -
 
@@ -20391,8 +15732,7 @@ Antibiotic prophylaxis is best given -
 </details>
 
 ---
-
-### Q1183 — Which of the following is a
+### Q966 — Which of the following is a
 
 Which of the following is a feature of crush syndrome -
 
@@ -20408,8 +15748,7 @@ Which of the following is a feature of crush syndrome -
 </details>
 
 ---
-
-### Q1184 — Crush Syndrome is associated with all
+### Q967 — Crush Syndrome is associated with all
 
 Crush Syndrome is associated with all of the following features except -
 
@@ -20425,8 +15764,7 @@ Crush Syndrome is associated with all of the following features except -
 </details>
 
 ---
-
-### Q1185 — Which of the following stones are
+### Q968 — Which of the following stones are
 
 Which of the following stones are common with infection ?
 
@@ -20442,8 +15780,7 @@ Which of the following stones are common with infection ?
 </details>
 
 ---
-
-### Q1186 — High Flying prostate is a sign
+### Q969 — High Flying prostate is a sign
 
 High Flying prostate is a sign of -
 
@@ -20459,8 +15796,7 @@ High Flying prostate is a sign of -
 </details>
 
 ---
-
-### Q1187 — BPH involves -
+### Q970 — BPH involves -
 
 BPH involves -
 
@@ -20476,8 +15812,7 @@ BPH involves -
 </details>
 
 ---
-
-### Q1188 — Prostate cancer that is limited to
+### Q971 — Prostate cancer that is limited to
 
 Prostate cancer that is limited to the capsule and not the urethra would be satged as -
 
@@ -20493,8 +15828,7 @@ Prostate cancer that is limited to the capsule and not the urethra would be satg
 </details>
 
 ---
-
-### Q1189 — If 90 of jejunum and ilium
+### Q972 — If 90 of jejunum and ilium
 
 If 90% of jejunum and ilium is removed then all of the following features will be seen excePt -
 
@@ -20510,8 +15844,7 @@ If 90% of jejunum and ilium is removed then all of the following features will b
 </details>
 
 ---
-
-### Q1190 — All of the following may lead
+### Q973 — All of the following may lead
 
 All of the following may lead to a gall bladder carcinoma except -
 
@@ -20527,8 +15860,7 @@ All of the following may lead to a gall bladder carcinoma except -
 </details>
 
 ---
-
-### Q1191 — All of the following are false
+### Q974 — All of the following are false
 
 All of the following are false for Gall Bladder carcinoma except:
 
@@ -20544,8 +15876,7 @@ All of the following are false for Gall Bladder carcinoma except:
 </details>
 
 ---
-
-### Q1192 — Which of the following is not
+### Q975 — Which of the following is not
 
 Which of the following is not true about Boerhaave syndrome?
 
@@ -20561,8 +15892,7 @@ Which of the following is not true about Boerhaave syndrome?
 </details>
 
 ---
-
-### Q1193 — Which of the following is true
+### Q976 — Which of the following is true
 
 Which of the following is true about Mallory Weiss tear -
 
@@ -20578,8 +15908,7 @@ Which of the following is true about Mallory Weiss tear -
 </details>
 
 ---
-
-### Q1194 — What is the most common position
+### Q977 — What is the most common position
 
 What is the most common position of appendix?
 
@@ -20595,8 +15924,7 @@ What is the most common position of appendix?
 </details>
 
 ---
-
-### Q1195 — year pld male complaining of per
+### Q978 — year pld male complaining of per
 
 year pld male complaining of per rectal bleeding was diagnosed of having rectal/anorectal cancer. The distal margin of the tumor was 5 cm
 
@@ -20612,8 +15940,7 @@ year pld male complaining of per rectal bleeding was diagnosed of having rectal/
 </details>
 
 ---
-
-### Q1196 — Commonest cause of intussusception is -
+### Q979 — Commonest cause of intussusception is -
 
 Commonest cause of intussusception is -
 
@@ -20629,8 +15956,7 @@ Commonest cause of intussusception is -
 </details>
 
 ---
-
-### Q1197 — All of the following are clinical
+### Q980 — All of the following are clinical
 
 All of the following are clinical features suggestive of trachea-esophagal fistula except -
 
@@ -20646,8 +15972,7 @@ All of the following are clinical features suggestive of trachea-esophagal fistu
 </details>
 
 ---
-
-### Q1198 — Most important presenting feature of periampullary
+### Q981 — Most important presenting feature of periampullary
 
 Most important presenting feature of periampullary carcinoma is -
 
@@ -20663,8 +15988,7 @@ Most important presenting feature of periampullary carcinoma is -
 </details>
 
 ---
-
-### Q1199 — Best marker to assess prognosis after
+### Q982 — Best marker to assess prognosis after
 
 Best marker to assess prognosis after Surgery for colon carcinoma:
 
@@ -20680,8 +16004,7 @@ Best marker to assess prognosis after Surgery for colon carcinoma:
 </details>
 
 ---
-
-### Q1200 — All of the following are features
+### Q983 — All of the following are features
 
 All of the following are features of Zollinger Ellison syndrome except
 
@@ -20697,8 +16020,7 @@ All of the following are features of Zollinger Ellison syndrome except
 </details>
 
 ---
-
-### Q1201 — All of the following is true
+### Q984 — All of the following is true
 
 All of the following is true about heart transplantation except -
 
@@ -20714,8 +16036,7 @@ All of the following is true about heart transplantation except -
 </details>
 
 ---
-
-### Q1202 — Lateral aberrant thyroid refers to -
+### Q985 — Lateral aberrant thyroid refers to -
 
 Lateral aberrant thyroid refers to -
 
@@ -20731,8 +16052,7 @@ Lateral aberrant thyroid refers to -
 </details>
 
 ---
-
-### Q1203 — True regarding cystic hygroma is -
+### Q986 — True regarding cystic hygroma is -
 
 True regarding cystic hygroma is -
 
@@ -20748,8 +16068,7 @@ True regarding cystic hygroma is -
 </details>
 
 ---
-
-### Q1204 — Most common site for Cystic Hygroma
+### Q987 — Most common site for Cystic Hygroma
 
 Most common site for Cystic Hygroma is -
 
@@ -20765,8 +16084,7 @@ Most common site for Cystic Hygroma is -
 </details>
 
 ---
-
-### Q1205 — Chvostek sign could be seen after
+### Q988 — Chvostek sign could be seen after
 
 Chvostek sign could be seen after -
 
@@ -20782,8 +16100,7 @@ Chvostek sign could be seen after -
 </details>
 
 ---
-
-### Q1206 — Transplanted kidney is relocated to which
+### Q989 — Transplanted kidney is relocated to which
 
 Transplanted kidney is relocated to which region in the recepient's body ?
 
@@ -20799,8 +16116,7 @@ Transplanted kidney is relocated to which region in the recepient's body ?
 </details>
 
 ---
-
-### Q1207 — Claudication due to popliteofemoral incompetence i
+### Q990 — Claudication due to popliteofemoral incompetence i
 
 Claudication due to popliteofemoral incompetence is primary seen in
 
@@ -20816,8 +16132,7 @@ Claudication due to popliteofemoral incompetence is primary seen in
 </details>
 
 ---
-
-### Q1208 — Food can commonly get obstructed in
+### Q991 — Food can commonly get obstructed in
 
 Food can commonly get obstructed in the esophagus at all of the following locations except
 
@@ -20833,8 +16148,7 @@ Food can commonly get obstructed in the esophagus at all of the following locati
 </details>
 
 ---
-
-### Q1209 — A full thickness wound that is
+### Q992 — A full thickness wound that is
 
 A full thickness wound that is not sutured heals by
 
@@ -20850,8 +16164,7 @@ A full thickness wound that is not sutured heals by
 </details>
 
 ---
-
-### Q1210 — An Incisional wound heals by
+### Q993 — An Incisional wound heals by
 
 An Incisional wound heals by
 
@@ -20867,8 +16180,7 @@ An Incisional wound heals by
 </details>
 
 ---
-
-### Q1211 — A cystic mass at the base
+### Q994 — A cystic mass at the base
 
 A cystic mass at the base of umbilical cord in a neonate could be
 
@@ -20884,8 +16196,7 @@ A cystic mass at the base of umbilical cord in a neonate could be
 </details>
 
 ---
-
-### Q1212 — Which of the following gas is
+### Q995 — Which of the following gas is
 
 Which of the following gas is most commonly used in laproscopy?
 
@@ -20901,8 +16212,7 @@ Which of the following gas is most commonly used in laproscopy?
 </details>
 
 ---
-
-### Q1213 — Strawberry gallbladder is seen in
+### Q996 — Strawberry gallbladder is seen in
 
 Strawberry gallbladder is seen in ?
 
@@ -20918,8 +16228,7 @@ Strawberry gallbladder is seen in ?
 </details>
 
 ---
-
-### Q1214 — All of the following are causes
+### Q997 — All of the following are causes
 
 All of the following are causes of Urothelial Carcinomas Except -
 
@@ -20935,8 +16244,7 @@ All of the following are causes of Urothelial Carcinomas Except -
 </details>
 
 ---
-
-### Q1215 — Commonest site of peptic ulcer is
+### Q998 — Commonest site of peptic ulcer is
 
 Commonest site of peptic ulcer is :
 
@@ -20952,8 +16260,7 @@ Commonest site of peptic ulcer is :
 </details>
 
 ---
-
-### Q1216 — In case of polytrauma with multiple
+### Q999 — In case of polytrauma with multiple
 
 In case of polytrauma with multiple injuries to the chest, neck and abdomen, highest priority is given to
 
@@ -20969,8 +16276,7 @@ In case of polytrauma with multiple injuries to the chest, neck and abdomen, hig
 </details>
 
 ---
-
-### Q1217 — Thyroid nodule in a 65 year
+### Q1000 — Thyroid nodule in a 65 year
 
 Thyroid nodule in a 65 year old male who is clinically euthyroid is most likely to be
 
@@ -20986,8 +16292,7 @@ Thyroid nodule in a 65 year old male who is clinically euthyroid is most likely 
 </details>
 
 ---
-
-### Q1218 — In Subtotal Thyroidectomy, What is true
+### Q1001 — In Subtotal Thyroidectomy, What is true
 
 In Subtotal Thyroidectomy, What is true
 
@@ -21003,8 +16308,7 @@ In Subtotal Thyroidectomy, What is true
 </details>
 
 ---
-
-### Q1219 — Which of the following statements about
+### Q1002 — Which of the following statements about
 
 Which of the following statements about Branchial cysts is true:
 
@@ -21020,8 +16324,7 @@ Which of the following statements about Branchial cysts is true:
 </details>
 
 ---
-
-### Q1220 — Most common cause of goiter in
+### Q1003 — Most common cause of goiter in
 
 Most common cause of goiter in India is
 
@@ -21037,8 +16340,7 @@ Most common cause of goiter in India is
 </details>
 
 ---
-
-### Q1221 — Which of the following is an
+### Q1004 — Which of the following is an
 
 Which of the following is an indication for thoracotomy in case of hemothorax ?
 
@@ -21054,8 +16356,7 @@ Which of the following is an indication for thoracotomy in case of hemothorax ?
 </details>
 
 ---
-
-### Q1222 — year old male with chest trauma
+### Q1005 — year old male with chest trauma
 
 A patient (age not captured in source) who is a year old male with chest trauma presents with breathlessness, decreased respiratory sounds on the right side, hyperresonance on
 
@@ -21071,8 +16372,7 @@ A patient (age not captured in source) who is a year old male with chest trauma 
 </details>
 
 ---
-
-### Q1223 — Ainhum is seen in
+### Q1006 — Ainhum is seen in
 
 Ainhum is seen in ?
 
@@ -21088,8 +16388,7 @@ Ainhum is seen in ?
 </details>
 
 ---
-
-### Q1224 — Most common precipitant of Raynauds phenomenon
+### Q1007 — Most common precipitant of Raynauds phenomenon
 
 Most common precipitant of Raynaud's phenomenon is
 
@@ -21105,8 +16404,7 @@ Most common precipitant of Raynaud's phenomenon is
 </details>
 
 ---
-
-### Q1225 — Which is the main contraindication for
+### Q1008 — Which is the main contraindication for
 
 Which is the main contraindication for a liver biopsy?
 
@@ -21122,8 +16420,7 @@ Which is the main contraindication for a liver biopsy?
 </details>
 
 ---
-
-### Q1226 — Spontaneous esophageal rupture is most common
+### Q1009 — Spontaneous esophageal rupture is most common
 
 Spontaneous esophageal rupture is most common in
 
@@ -21139,8 +16436,7 @@ Spontaneous esophageal rupture is most common in
 </details>
 
 ---
-
-### Q1227 — True about Dentigerous cyst
+### Q1010 — True about Dentigerous cyst
 
 True about Dentigerous cyst:
 
@@ -21156,8 +16452,7 @@ True about Dentigerous cyst:
 </details>
 
 ---
-
-### Q1228 — Which of the following is true
+### Q1011 — Which of the following is true
 
 Which of the following is true about menetrier's disease
 
@@ -21173,8 +16468,7 @@ Which of the following is true about menetrier's disease
 </details>
 
 ---
-
-### Q1229 — All are resected in whipples operation
+### Q1012 — All are resected in whipples operation
 
 All are resected in whipples operation except ?
 
@@ -21190,8 +16484,7 @@ All are resected in whipples operation except ?
 </details>
 
 ---
-
-### Q1230 — CA Breast may locally spread to
+### Q1013 — CA Breast may locally spread to
 
 CA Breast may locally spread to all of the following muscles except
 
@@ -21207,8 +16500,7 @@ CA Breast may locally spread to all of the following muscles except
 </details>
 
 ---
-
-### Q1231 — Which is the most common type
+### Q1014 — Which is the most common type
 
 Which is the most common type of male breast cancer?
 
@@ -21224,8 +16516,7 @@ Which is the most common type of male breast cancer?
 </details>
 
 ---
-
-### Q1232 — In Pateys mastectomy the step not
+### Q1015 — In Pateys mastectomy the step not
 
 In Patey's mastectomy the step not done is
 
@@ -21241,8 +16532,7 @@ In Patey's mastectomy the step not done is
 </details>
 
 ---
-
-### Q1233 — year old woman comes with a
+### Q1016 — year old woman comes with a
 
 A patient (age not captured in source) who is a year old woman comes with a non progressive mass in a left breast since 6 months. There are no associated symptoms. Examination shows a
 
@@ -21258,8 +16548,7 @@ A patient (age not captured in source) who is a year old woman comes with a non 
 </details>
 
 ---
-
-### Q1234 — Most common location of breast cancer
+### Q1017 — Most common location of breast cancer
 
 Most common location of breast cancer is
 
@@ -21275,8 +16564,7 @@ Most common location of breast cancer is
 </details>
 
 ---
-
-### Q1235 — years old male with a knoen
+### Q1018 — years old male with a knoen
 
 A patient (age not captured in source) who is a years old male with a knoen history of gall stones presents with chief complints of severe abdominal pain and elevated levels of serum lipase
 
@@ -21292,8 +16580,7 @@ A patient (age not captured in source) who is a years old male with a knoen hist
 </details>
 
 ---
-
-### Q1236 — All are true about carcinoma palate,
+### Q1019 — All are true about carcinoma palate,
 
 All are true about carcinoma palate, except -
 
@@ -21309,8 +16596,7 @@ All are true about carcinoma palate, except -
 </details>
 
 ---
-
-### Q1237 — year old lawyer presents with pain
+### Q1020 — year old lawyer presents with pain
 
 A patient (age not captured in source) who is a year old lawyer presents with pain in the abdomen more so in the epigastric region that worsens with eating spicy food and is relieved by
 
@@ -21326,8 +16612,7 @@ A patient (age not captured in source) who is a year old lawyer presents with pa
 </details>
 
 ---
-
-### Q1238 — All of the following testicular tumours
+### Q1021 — All of the following testicular tumours
 
 All of the following testicular tumours are germ cell tumours EXCEPT:
 
@@ -21343,8 +16628,7 @@ All of the following testicular tumours are germ cell tumours EXCEPT:
 </details>
 
 ---
-
-### Q1239 — The Grayhack shunt is established between
+### Q1022 — The Grayhack shunt is established between
 
 The Grayhack shunt is established between:
 
@@ -21360,8 +16644,7 @@ The Grayhack shunt is established between:
 </details>
 
 ---
-
-### Q1240 — Congenital hydrocele is best tt by
+### Q1023 — Congenital hydrocele is best tt by
 
 Congenital hydrocele is best t/t by -
 
@@ -21377,8 +16660,7 @@ Congenital hydrocele is best t/t by -
 </details>
 
 ---
-
-### Q1241 — The posterior urethra is best visualized
+### Q1024 — The posterior urethra is best visualized
 
 The posterior urethra is best visualized by ?
 
@@ -21394,8 +16676,7 @@ The posterior urethra is best visualized by ?
 </details>
 
 ---
-
-### Q1242 — Early stage of non small cell
+### Q1025 — Early stage of non small cell
 
 Early stage of non small cell lung cancer can be treated by
 
@@ -21411,8 +16692,7 @@ Early stage of non small cell lung cancer can be treated by
 </details>
 
 ---
-
-### Q1243 — All of the following about Gastrointestinal
+### Q1026 — All of the following about Gastrointestinal
 
 All of the following about Gastrointestinal carcinoid tumors are true, Except:
 
@@ -21428,8 +16708,7 @@ All of the following about Gastrointestinal carcinoid tumors are true, Except:
 </details>
 
 ---
-
-### Q1244 — Commonest infantile testicular tumour is
+### Q1027 — Commonest infantile testicular tumour is
 
 Commonest infantile testicular tumour is ?
 
@@ -21445,8 +16724,7 @@ Commonest infantile testicular tumour is ?
 </details>
 
 ---
-
-### Q1245 — Which of the following is an
+### Q1028 — Which of the following is an
 
 Which of the following is an absorbable suture
 
@@ -21462,8 +16740,7 @@ Which of the following is an absorbable suture
 </details>
 
 ---
-
-### Q1246 — Polydiaxonone suture is normally absorbed in
+### Q1029 — Polydiaxonone suture is normally absorbed in
 
 Polydiaxonone suture is normally absorbed in
 
@@ -21479,8 +16756,7 @@ Polydiaxonone suture is normally absorbed in
 </details>
 
 ---
-
-### Q1247 — Most tissue reaction is seen with
+### Q1030 — Most tissue reaction is seen with
 
 Most tissue reaction is seen with
 
@@ -21496,8 +16772,7 @@ Most tissue reaction is seen with
 </details>
 
 ---
-
-### Q1248 — Trauma and Injury Severity Score (TRISS)
+### Q1031 — Trauma and Injury Severity Score (TRISS)
 
 Trauma and Injury Severity Score (TRISS) includes:
 
@@ -21513,8 +16788,7 @@ Trauma and Injury Severity Score (TRISS) includes:
 </details>
 
 ---
-
-### Q1249 — Which of the following is most
+### Q1032 — Which of the following is most
 
 Which of the following is most malignant tumor?
 
@@ -21530,8 +16804,7 @@ Which of the following is most malignant tumor?
 </details>
 
 ---
-
-### Q1250 — Epulis arises from -
+### Q1033 — Epulis arises from -
 
 Epulis arises from -
 
@@ -21547,8 +16820,7 @@ Epulis arises from -
 </details>
 
 ---
-
-### Q1251 — IQ in mild mental retardation is
+### Q1034 — IQ in mild mental retardation is
 
 IQ in mild mental retardation is
 
@@ -21564,8 +16836,7 @@ IQ in mild mental retardation is
 </details>
 
 ---
-
-### Q1252 — What is the IQ of a
+### Q1035 — What is the IQ of a
 
 What is the IQ of a borderline deficiency?
 
@@ -21581,8 +16852,7 @@ What is the IQ of a borderline deficiency?
 </details>
 
 ---
-
-### Q1253 — According to Wechsler intelligence scale scoring,
+### Q1036 — According to Wechsler intelligence scale scoring,
 
 According to Wechsler intelligence scale scoring, average IQ of a normal child is:
 
@@ -21598,8 +16868,7 @@ According to Wechsler intelligence scale scoring, average IQ of a normal child i
 </details>
 
 ---
-
-### Q1254 — Milestones at 1 year of age
+### Q1037 — Milestones at 1 year of age
 
 Milestones at 1 year of age are all except
 
@@ -21615,8 +16884,7 @@ Milestones at 1 year of age are all except
 </details>
 
 ---
-
-### Q1255 — Stranger anxiety develops at
+### Q1038 — Stranger anxiety develops at
 
 Stranger anxiety develops at
 
@@ -21632,8 +16900,7 @@ Stranger anxiety develops at
 </details>
 
 ---
-
-### Q1256 — What is the average weight gain
+### Q1039 — What is the average weight gain
 
 What is the average weight gain of the neonate per day
 
@@ -21649,8 +16916,7 @@ What is the average weight gain of the neonate per day
 </details>
 
 ---
-
-### Q1257 — Newborn loses how much weight in
+### Q1040 — Newborn loses how much weight in
 
 Newborn loses how much weight in first week?
 
@@ -21666,8 +16932,7 @@ Newborn loses how much weight in first week?
 </details>
 
 ---
-
-### Q1258 — What is the cardiothoracic ratio in
+### Q1041 — What is the cardiothoracic ratio in
 
 What is the cardiothoracic ratio in children is -
 
@@ -21683,8 +16948,7 @@ What is the cardiothoracic ratio in children is -
 </details>
 
 ---
-
-### Q1259 — Most common cause of pneumonia in
+### Q1042 — Most common cause of pneumonia in
 
 Most common cause of pneumonia in early onset sepsis a neonate is
 
@@ -21700,8 +16964,7 @@ Most common cause of pneumonia in early onset sepsis a neonate is
 </details>
 
 ---
-
-### Q1260 — When does crying stop in cyanotic
+### Q1043 — When does crying stop in cyanotic
 
 When does crying stop in cyanotic spells ?
 
@@ -21717,8 +16980,7 @@ When does crying stop in cyanotic spells ?
 </details>
 
 ---
-
-### Q1261 — 3 month old child with indrawing
+### Q1044 — 3 month old child with indrawing
 
 3 month old child with indrawing chest with respitratory rate 52/min classified as
 
@@ -21734,8 +16996,7 @@ When does crying stop in cyanotic spells ?
 </details>
 
 ---
-
-### Q1262 — Chronic lung disease in a infancy
+### Q1045 — Chronic lung disease in a infancy
 
 Chronic lung disease in a infancy is defined as
 
@@ -21751,8 +17012,7 @@ Chronic lung disease in a infancy is defined as
 </details>
 
 ---
-
-### Q1263 — What is the shape of caecum
+### Q1046 — What is the shape of caecum
 
 What is the shape of caecum in the newborn ?
 
@@ -21768,8 +17028,7 @@ What is the shape of caecum in the newborn ?
 </details>
 
 ---
-
-### Q1264 — Most common complication of Meckels Diverticulum
+### Q1047 — Most common complication of Meckels Diverticulum
 
 Most common complication of Meckel's Diverticulum lit children
 
@@ -21785,8 +17044,7 @@ Most common complication of Meckel's Diverticulum lit children
 </details>
 
 ---
-
-### Q1265 — Which of the following is a
+### Q1048 — Which of the following is a
 
 Which of the following is a X linked metabolic disorder?
 
@@ -21802,8 +17060,7 @@ Which of the following is a X linked metabolic disorder?
 </details>
 
 ---
-
-### Q1266 — Testes are not palpable in
+### Q1049 — Testes are not palpable in
 
 Testes are not palpable in
 
@@ -21819,8 +17076,7 @@ Testes are not palpable in
 </details>
 
 ---
-
-### Q1267 — 1 year old child with multiple
+### Q1050 — 1 year old child with multiple
 
 1 year old child with multiple episodes of diarrhea presents with sunken dry eyes, depressed fontanelles, very slow skin pinch. The amount of fluid to be
 
@@ -21836,8 +17092,7 @@ Testes are not palpable in
 </details>
 
 ---
-
-### Q1268 — Hutchisons Triad is seen in
+### Q1051 — Hutchisons Triad is seen in
 
 Hutchison's Triad is seen in
 
@@ -21853,8 +17108,7 @@ Hutchison's Triad is seen in
 </details>
 
 ---
-
-### Q1269 — Hydrocephalus is best detected antenately by
+### Q1052 — Hydrocephalus is best detected antenately by
 
 Hydrocephalus is best detected antenately by :
 
@@ -21870,8 +17124,7 @@ Hydrocephalus is best detected antenately by :
 </details>
 
 ---
-
-### Q1270 — Which of the following is not
+### Q1053 — Which of the following is not
 
 Which of the following is not a feature of Juvenile Idiopathic Arthritis?
 
@@ -21887,8 +17140,7 @@ Which of the following is not a feature of Juvenile Idiopathic Arthritis?
 </details>
 
 ---
-
-### Q1271 — Eyelid papules and hoarse cry in
+### Q1054 — Eyelid papules and hoarse cry in
 
 Eyelid papules and hoarse cry in a child is suggestive of -
 
@@ -21904,8 +17156,7 @@ Eyelid papules and hoarse cry in a child is suggestive of -
 </details>
 
 ---
-
-### Q1272 — Which part of the spine is
+### Q1055 — Which part of the spine is
 
 Which part of the spine is most commonly affected in Rheumatoid arthritis:
 
@@ -21921,8 +17172,7 @@ Which part of the spine is most commonly affected in Rheumatoid arthritis:
 </details>
 
 ---
-
-### Q1273 — Hammer toe deformity is seen in
+### Q1056 — Hammer toe deformity is seen in
 
 Hammer toe deformity is seen in -
 
@@ -21938,8 +17188,7 @@ Hammer toe deformity is seen in -
 </details>
 
 ---
-
-### Q1274 — Among various types of psoriatic arthrirtis,
+### Q1057 — Among various types of psoriatic arthrirtis,
 
 Among various types of psoriatic arthrirtis, which variety is most common ?
 
@@ -21955,8 +17204,7 @@ Among various types of psoriatic arthrirtis, which variety is most common ?
 </details>
 
 ---
-
-### Q1275 — On CT chest halo sign is
+### Q1058 — On CT chest halo sign is
 
 On CT chest 'halo sign' is noted in
 
@@ -21975,7 +17223,7 @@ On CT chest 'halo sign' is noted in
 
 ## Surgery
 
-### Q1276 — Ligament which prevents spleen to fall *(2015)*
+### Q1059 — Ligament which prevents spleen to fall *(2015)*
 
 Ligament which prevents spleen to fall in left iliac fossa -
 
@@ -21991,8 +17239,7 @@ Ligament which prevents spleen to fall in left iliac fossa -
 </details>
 
 ---
-
-### Q1277 — Acute pancreatitis causes all of the *(2015)*
+### Q1060 — Acute pancreatitis causes all of the *(2015)*
 
 Acute pancreatitis causes all of the following except:
 
@@ -22008,8 +17255,7 @@ Acute pancreatitis causes all of the following except:
 </details>
 
 ---
-
-### Q1278 — True about cephalhematoma is - *(2015)*
+### Q1061 — True about cephalhematoma is - *(2015)*
 
 True about cephalhematoma is -
 
@@ -22025,8 +17271,7 @@ True about cephalhematoma is -
 </details>
 
 ---
-
-### Q1279 — Japanese encephalitis vaccine in routine schedule *(2015)*
+### Q1062 — Japanese encephalitis vaccine in routine schedule *(2015)*
 
 Japanese encephalitis vaccine in routine schedule is given in how many doses -
 
@@ -22042,8 +17287,7 @@ Japanese encephalitis vaccine in routine schedule is given in how many doses -
 </details>
 
 ---
-
-### Q1280 — vascular zone of the bone is *(2015)*
+### Q1063 — vascular zone of the bone is *(2015)*
 
 Most vascular zone of the bone is -
 
@@ -22059,8 +17303,7 @@ Most vascular zone of the bone is -
 </details>
 
 ---
-
-### Q1281 — Trigger Finger Involves Which joint *(2015)*
+### Q1064 — Trigger Finger Involves Which joint *(2015)*
 
 Trigger Finger Involves Which joint ?
 
@@ -22076,8 +17319,7 @@ Trigger Finger Involves Which joint ?
 </details>
 
 ---
-
-### Q1282 — True regarding Monteggia fracture is March *(2015)*
+### Q1065 — True regarding Monteggia fracture is March *(2015)*
 
 True regarding Monteggia fracture is: March 2007, March 2013 (a, b, d, f)
 
@@ -22093,8 +17335,7 @@ True regarding Monteggia fracture is: March 2007, March 2013 (a, b, d, f)
 </details>
 
 ---
-
-### Q1283 — Osteosclerosis is a feature of which *(2015)*
+### Q1066 — Osteosclerosis is a feature of which *(2015)*
 
 Osteosclerosis is a feature of which of the followinga -
 
@@ -22110,9 +17351,7 @@ Osteosclerosis is a feature of which of the followinga -
 </details>
 
 ---
-
-
-### Q1284 — Nigro Regimen is used for -
+### Q1067 — Nigro Regimen is used for -
 
 Nigro Regimen is used for -
 
@@ -22128,8 +17367,7 @@ Nigro Regimen is used for -
 </details>
 
 ---
-
-### Q1285 — year old male came with jaundice,
+### Q1068 — year old male came with jaundice,
 
 A patient (age not captured in source) who is a year old male came with jaundice, palpable mass in the right hypochondrium not associated with pain. The probable diagnosis is -
 
@@ -22145,8 +17383,7 @@ A patient (age not captured in source) who is a year old male came with jaundice
 </details>
 
 ---
-
-### Q1286 — year male presented with jaundice, pale
+### Q1069 — year male presented with jaundice, pale
 
 year male presented with jaundice, pale stools, dark urine and mass in the epigastric region. Which of the following diagnosis in unlikely ?
 
@@ -22162,8 +17399,7 @@ year male presented with jaundice, pale stools, dark urine and mass in the epiga
 </details>
 
 ---
-
-### Q1287 — Which of the following stoma is
+### Q1070 — Which of the following stoma is
 
 Which of the following stoma is formed in Hartman's procedure ?
 
@@ -22179,8 +17415,7 @@ Which of the following stoma is formed in Hartman's procedure ?
 </details>
 
 ---
-
-### Q1288 — Most common site of colorectal carcinoma
+### Q1071 — Most common site of colorectal carcinoma
 
 Most common site of colorectal carcinoma is -
 
@@ -22196,8 +17431,7 @@ Most common site of colorectal carcinoma is -
 </details>
 
 ---
-
-### Q1289 — Riglers sign is suggestive of -
+### Q1072 — Riglers sign is suggestive of -
 
 Rigler's sign is suggestive of -
 
@@ -22213,8 +17447,7 @@ Rigler's sign is suggestive of -
 </details>
 
 ---
-
-### Q1290 — Bilateral parotid enlargement occurs in all,
+### Q1073 — Bilateral parotid enlargement occurs in all,
 
 Bilateral parotid enlargement occurs in all, Except:
 
@@ -22230,8 +17463,7 @@ Bilateral parotid enlargement occurs in all, Except:
 </details>
 
 ---
-
-### Q1291 — year old male presenting with acure
+### Q1074 — year old male presenting with acure
 
 A patient (age not captured in source) who is a year old male presenting with acure pancreatitis is now having refractory hypoxia. The X RAY of chest would show
 
@@ -22247,8 +17479,7 @@ A patient (age not captured in source) who is a year old male presenting with ac
 </details>
 
 ---
-
-### Q1292 — Medulloblatoma arises exclusively from the cells
+### Q1075 — Medulloblatoma arises exclusively from the cells
 
 Medulloblatoma arises exclusively from the cells of
 
@@ -22264,8 +17495,7 @@ Medulloblatoma arises exclusively from the cells of
 </details>
 
 ---
-
-### Q1293 — Hypoxic Ischemic encephalopathy true is
+### Q1076 — Hypoxic Ischemic encephalopathy true is
 
 Hypoxic Ischemic encephalopathy true is ?
 
@@ -22281,8 +17511,7 @@ Hypoxic Ischemic encephalopathy true is ?
 </details>
 
 ---
-
-### Q1294 — Which of the following is not
+### Q1077 — Which of the following is not
 
 Which of the following is not true about encephalocoele?
 
@@ -22298,8 +17527,7 @@ Which of the following is not true about encephalocoele?
 </details>
 
 ---
-
-### Q1295 — Most common site for opening of
+### Q1078 — Most common site for opening of
 
 Most common site for opening of TAPVC is -
 
@@ -22315,8 +17543,7 @@ Most common site for opening of TAPVC is -
 </details>
 
 ---
-
-### Q1296 — Autosomal recessive Polycystic kidneys - all
+### Q1079 — Autosomal recessive Polycystic kidneys - all
 
 Autosomal recessive Polycystic kidneys - all are true except -
 
@@ -22332,8 +17559,7 @@ Autosomal recessive Polycystic kidneys - all are true except -
 </details>
 
 ---
-
-### Q1297 — Investigation of choice for CONFIRMING Henoch
+### Q1080 — Investigation of choice for CONFIRMING Henoch
 
 Investigation of choice for CONFIRMING Henoch Schonlein purpura is -
 
@@ -22349,8 +17575,7 @@ Investigation of choice for CONFIRMING Henoch Schonlein purpura is -
 </details>
 
 ---
-
-### Q1298 — Which of the following is correct
+### Q1081 — Which of the following is correct
 
 Which of the following is correct about shock in child?
 
@@ -22366,8 +17591,7 @@ Which of the following is correct about shock in child?
 </details>
 
 ---
-
-### Q1299 — Inotropic support for severely dehydrated child
+### Q1082 — Inotropic support for severely dehydrated child
 
 Inotropic support for severely dehydrated child with dopamine is done at what rate -
 
@@ -22383,8 +17607,7 @@ Inotropic support for severely dehydrated child with dopamine is done at what ra
 </details>
 
 ---
-
-### Q1300 — In acute diarrhea following is used
+### Q1083 — In acute diarrhea following is used
 
 In acute diarrhea following is used to decrease duration and severity -
 
@@ -22400,8 +17623,7 @@ In acute diarrhea following is used to decrease duration and severity -
 </details>
 
 ---
-
-### Q1301 — Consanguinous marriages increase risk of diseases
+### Q1084 — Consanguinous marriages increase risk of diseases
 
 Consanguinous marriages increase risk of diseases -
 
@@ -22417,8 +17639,7 @@ Consanguinous marriages increase risk of diseases -
 </details>
 
 ---
-
-### Q1302 — Floor of nasal cavity in children
+### Q1085 — Floor of nasal cavity in children
 
 Floor of nasal cavity in children is made of -
 
@@ -22434,8 +17655,7 @@ Floor of nasal cavity in children is made of -
 </details>
 
 ---
-
-### Q1303 — Reduced osmolarity ORS does not contain
+### Q1086 — Reduced osmolarity ORS does not contain
 
 Reduced osmolarity ORS does not contain which of the following ion -
 
@@ -22451,8 +17671,7 @@ Reduced osmolarity ORS does not contain which of the following ion -
 </details>
 
 ---
-
-### Q1304 — Osteoclasts have all of the following
+### Q1087 — Osteoclasts have all of the following
 
 Osteoclasts have all of the following except -
 
@@ -22468,8 +17687,7 @@ Osteoclasts have all of the following except -
 </details>
 
 ---
-
-### Q1305 — PTH acts directly on which cells
+### Q1088 — PTH acts directly on which cells
 
 PTH acts directly on which cells ?
 
@@ -22485,8 +17703,7 @@ PTH acts directly on which cells ?
 </details>
 
 ---
-
-### Q1306 — Tennis elbow is characterized by
+### Q1089 — Tennis elbow is characterized by
 
 Tennis elbow is characterized by ?
 
@@ -22502,8 +17719,7 @@ Tennis elbow is characterized by ?
 </details>
 
 ---
-
-### Q1307 — Flexor Digitorum Profundus tendon avulsion injury
+### Q1090 — Flexor Digitorum Profundus tendon avulsion injury
 
 Flexor Digitorum Profundus tendon avulsion injury leads to -
 
@@ -22519,8 +17735,7 @@ Flexor Digitorum Profundus tendon avulsion injury leads to -
 </details>
 
 ---
-
-### Q1308 — Extensor Carpi Radialis Longus is -
+### Q1091 — Extensor Carpi Radialis Longus is -
 
 Extensor Carpi Radialis Longus is -
 
@@ -22536,8 +17751,7 @@ Extensor Carpi Radialis Longus is -
 </details>
 
 ---
-
-### Q1309 — Thomas test is used for testing
+### Q1092 — Thomas test is used for testing
 
 Thomas test is used for testing?
 
@@ -22553,8 +17767,7 @@ Thomas test is used for testing?
 </details>
 
 ---
-
-### Q1310 — A child presented to an orthopaedic
+### Q1093 — A child presented to an orthopaedic
 
 A child presented to an orthopaedic clinic with a limp. The surgeon suspected him to have a fixed fledon deformity of the hip. Which test should
 
@@ -22570,8 +17783,7 @@ A child presented to an orthopaedic clinic with a limp. The surgeon suspected hi
 </details>
 
 ---
-
-### Q1311 — Effect of hypoparathyroidisrn on bones include
+### Q1094 — Effect of hypoparathyroidisrn on bones include
 
 Effect of hypoparathyroidisrn on bones include -
 
@@ -22587,8 +17799,7 @@ Effect of hypoparathyroidisrn on bones include -
 </details>
 
 ---
-
-### Q1312 — AII of the following are true
+### Q1095 — AII of the following are true
 
 AII of the following are true regarding application of POP Cast except -
 
@@ -22604,8 +17815,7 @@ AII of the following are true regarding application of POP Cast except -
 </details>
 
 ---
-
-### Q1313 — In uncemented arthroplasty of the hip
+### Q1096 — In uncemented arthroplasty of the hip
 
 In uncemented arthroplasty of the hip , the stem remains attached to the bone by -
 
@@ -22621,8 +17831,7 @@ In uncemented arthroplasty of the hip , the stem remains attached to the bone by
 </details>
 
 ---
-
-### Q1314 — Vertebra Plana is seen in all
+### Q1097 — Vertebra Plana is seen in all
 
 Vertebra Plana is seen in all except -
 
@@ -22638,8 +17847,7 @@ Vertebra Plana is seen in all except -
 </details>
 
 ---
-
-### Q1315 — What is luxatio erecta
+### Q1098 — What is luxatio erecta
 
 What is luxatio erecta ?
 
@@ -22655,8 +17863,7 @@ What is luxatio erecta ?
 </details>
 
 ---
-
-### Q1316 — Hamilton Ruler test sign is positive
+### Q1099 — Hamilton Ruler test sign is positive
 
 Hamilton Ruler test sign is positive in which of the above mentioned conditions ?
 
@@ -22672,8 +17879,7 @@ Hamilton Ruler test sign is positive in which of the above mentioned conditions 
 </details>
 
 ---
-
-### Q1317 — Dinner fork deformity is seen in
+### Q1100 — Dinner fork deformity is seen in
 
 Dinner fork deformity is seen in?
 
@@ -22689,8 +17895,7 @@ Dinner fork deformity is seen in?
 </details>
 
 ---
-
-### Q1318 — Brodie-Trendelenburg test is positive in
+### Q1101 — Brodie-Trendelenburg test is positive in
 
 Brodie-Trendelenburg test is positive in:
 
@@ -22706,8 +17911,7 @@ Brodie-Trendelenburg test is positive in:
 </details>
 
 ---
-
-### Q1319 — 4 year old child presented to
+### Q1102 — 4 year old child presented to
 
 4 year old child presented to the clinic with a history of fall on outstretched hand. Radiographs revealed a broken anterior cortex with an intact posterior
 
@@ -22723,8 +17927,7 @@ Brodie-Trendelenburg test is positive in:
 </details>
 
 ---
-
-### Q1320 — Greenstick Nightstick fractures are seen in
+### Q1103 — Greenstick Nightstick fractures are seen in
 
 Greenstick/ Nightstick fractures are seen in -
 
@@ -22740,8 +17943,7 @@ Greenstick/ Nightstick fractures are seen in -
 </details>
 
 ---
-
-### Q1321 — Who devised correction of CTEV by
+### Q1104 — Who devised correction of CTEV by
 
 Who devised correction of CTEV by serial castinga -
 
@@ -22757,8 +17959,7 @@ Who devised correction of CTEV by serial castinga -
 </details>
 
 ---
-
-### Q1322 — Quickening in multiparae is felt at
+### Q1105 — Quickening in multiparae is felt at
 
 Quickening in multiparae is felt at what weeks of gestation?
 
@@ -22774,8 +17975,7 @@ Quickening in multiparae is felt at what weeks of gestation?
 </details>
 
 ---
-
-### Q1323 — Progesterone of choice in emergency contraception
+### Q1106 — Progesterone of choice in emergency contraception
 
 Progesterone of choice in emergency contraception is?
 
@@ -22791,8 +17991,7 @@ Progesterone of choice in emergency contraception is?
 </details>
 
 ---
-
-### Q1324 — Most common breech position is
+### Q1107 — Most common breech position is
 
 Most common breech position is
 
@@ -22808,8 +18007,7 @@ Most common breech position is
 </details>
 
 ---
-
-### Q1325 — Method not used for shoulder dystocia
+### Q1108 — Method not used for shoulder dystocia
 
 Method not used for shoulder dystocia
 
@@ -22825,8 +18023,7 @@ Method not used for shoulder dystocia
 </details>
 
 ---
-
-### Q1326 — Occipitoanterior position
+### Q1109 — Occipitoanterior position
 
 Occipitoanterior position
 
@@ -22838,6 +18035,3481 @@ Occipitoanterior position
 <details><summary>Answer</summary>
 
 **A. Anterior fontanalle is posterior** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+## Obstetrics & Gynaecology
+
+### Q1110 — Malodorous Vaginal Discharge Cause *(2015)*
+
+Malodorous vaginal discharge is due to:
+
+- A. Bacterial vaginosis
+- B. Chlamydia trachomatis
+- C. Trichomonas vaginalis
+- D. Neisseria gonorrhoeae
+
+<details><summary>Answer</summary>
+
+**A. Bacterial vaginosis** — BV results from overgrowth of anaerobes and Gardnerella vaginalis following a fall in hydrogen-peroxide-producing lactobacilli; the characteristic odour is a fishy, amine smell (positive Whiff test).
+
+</details>
+
+---
+### Q1111 — Quickening in Multipara *(2015)*
+
+Quickening in a multipara is felt at what week of gestation:
+
+- A. 14 weeks
+- B. 16 weeks
+- C. 18 weeks
+- D. 20 weeks
+
+<details><summary>Answer</summary>
+
+**B. 16 weeks** — Quickening (first perception of fetal movement) is felt around 18 weeks in primigravidae and about 2 weeks earlier (16 weeks) in multipara.
+
+</details>
+
+---
+### Q1112 — Placental Site Trophoblastic Tumour *(2015)*
+
+True about placental site trophoblastic disease is:
+
+- A. Highly malignant behaviour
+- B. Hysterectomy followed by chemoradiation is the treatment of choice
+- C. Secretes human placental lactogen (HPL)
+- D. Contains syncytiotrophoblasts mainly
+
+<details><summary>Answer</summary>
+
+**C. Secretes human placental lactogen (HPL)** — PSTT arises from placental bed intermediate trophoblasts, not syncytiotrophoblasts. It secretes HPL (not hCG), usually runs a benign course, and hysterectomy alone (without routine chemoradiation) is the standard treatment.
+
+</details>
+
+---
+### Q1113 — Crowning Definition *(2015)*
+
+Crowning is defined as:
+
+- A. Biparietal diameter at the inlet of pelvis
+- B. Biparietal diameter at the ischial spine
+- C. Biparietal diameter at the vulval outlet
+- D. Biparietal diameter just outside the vulval outlet
+
+<details><summary>Answer</summary>
+
+**C. Biparietal diameter at the vulval outlet** — Crowning occurs when the maximum diameter (BPD) of the fetal head stretches the vulval outlet without any recession of the head between contractions.
+
+</details>
+
+---
+### Q1114 — Prolonged Second Stage of Labour *(2015)*
+
+Prolonged second stage of labour may occur due to:
+
+- A. Uterine inertia
+- B. Epidural analgesia
+- C. Cephalopelvic disproportion
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — All three are recognised causes: uterine inertia (fault in power), epidural analgesia (blunts bearing-down reflex), and CPD (fault in passage).
+
+</details>
+
+---
+### Q1115 — Emergency Contraception Progestogen of Choice *(2015)*
+
+Progestogen of choice in emergency contraception is:
+
+- A. Norethisterone
+- B. Medroxyprogesterone
+- C. Oxytocin
+- D. Levonorgestrel
+
+<details><summary>Answer</summary>
+
+**D. Levonorgestrel** — LNG 0.75 mg × 2 doses (or 1.5 mg single dose) within 72 hours is the standard EC regimen; it is more effective and has fewer side effects than oestrogen-progestin combinations.
+
+</details>
+
+---
+### Q1116 — Lovset Manoeuvre Use *(2015)*
+
+Lovset manoeuvre is used in delivery of:
+
+- A. Head
+- B. Breech
+- C. Foot
+- D. Arms
+
+<details><summary>Answer</summary>
+
+**D. Arms** — Lovset's manoeuvre uses rotation of the fetal trunk (keeping the back anterior, with downward traction) to bring the posterior shoulder below the symphysis and deliver the arms in breech delivery.
+
+</details>
+
+---
+### Q1117 — Partial Mole Common Misdiagnosis *(2015)*
+
+Common misdiagnosis of partial mole is:
+
+- A. Threatened abortion
+- B. Choriocarcinoma
+- C. Complete mole
+- D. Ectopic pregnancy
+
+<details><summary>Answer</summary>
+
+**A. Threatened abortion** — The clinical picture of partial mole (pain + bleeding + fetus usually dead in utero) closely mimics threatened or missed abortion.
+
+</details>
+
+---
+### Q1118 — Gestational Hypertension — Not a Risk Factor *(2015)*
+
+Which is NOT a risk factor for gestational hypertension:
+
+- A. Obesity
+- B. Smoking
+- C. Primigravida
+- D. Factor V Leiden mutation
+
+<details><summary>Answer</summary>
+
+**B. Smoking** — Smoking is actually protective against pre-eclampsia (reduces placental oxidative stress, though this does not justify smoking). Obesity, primigravidity, and thrombophilias (including Factor V Leiden) are all established risk factors.
+
+</details>
+
+---
+### Q1119 — MTP Misoprostol Timing (FDA Protocol) *(2015)*
+
+In medical termination of pregnancy, according to FDA protocol, misoprostol is given after how many hours of mifepristone:
+
+- A. 24 hours
+- B. 48 hours
+- C. 72 hours
+- D. 96 hours
+
+<details><summary>Answer</summary>
+
+**B. 48 hours** — The original FDA-approved protocol: mifepristone 600 mg orally on day 1, followed by misoprostol 400 mcg orally 48 hours later; treatment must be started ≤49 days from LMP.
+
+</details>
+
+---
+### Q1120 — Most Common Breech Position *(2015)*
+
+Most common type of breech presentation is:
+
+- A. Complete breech
+- B. Frank breech
+- C. Footling breech
+- D. Knee presentation
+
+<details><summary>Answer</summary>
+
+**B. Frank breech** — Frank breech (thighs flexed, knees extended) accounts for 65–70% of all breech presentations, especially in primigravidae.
+
+</details>
+
+---
+### Q1121 — Most Common Ovarian Tumour to Tort in Pregnancy *(2015)*
+
+Which ovarian tumour is most prone to undergo torsion during pregnancy:
+
+- A. Serous cystadenoma
+- B. Mucinous cystadenoma
+- C. Dermoid cyst
+- D. Theca lutein cyst
+
+<details><summary>Answer</summary>
+
+**C. Dermoid cyst (benign cystic teratoma)** — Because of its fat content dermoid cysts are lighter than fluid-filled tumours and torse more easily; ~15% undergo torsion. The most common ovarian tumour in pregnancy overall is serous cystadenoma, but dermoid is the most common one diagnosed (and to torse) during pregnancy.
+
+</details>
+
+---
+### Q1122 — Complete Prolapse Treatment in Completed Family *(2015)*
+
+Preferred treatment of complete uterine prolapse in a female with completed family is:
+
+- A. Sling surgery
+- B. Vaginal hysterectomy
+- C. Le Forte's repair
+- D. Pessary
+
+<details><summary>Answer</summary>
+
+**B. Vaginal hysterectomy** — Vaginal hysterectomy (usually with anterior and posterior colporrhaphy) is the definitive surgical option for major degree uterine prolapse in a parous woman with a completed family.
+
+</details>
+
+---
+### Q1123 — MRKH Syndrome — Absent Structure *(2015)*
+
+In MRKH syndrome, which of the following is absent:
+
+- A. Vagina
+- B. Breast development
+- C. Pubic hair development
+- D. Testes
+
+<details><summary>Answer</summary>
+
+**D. Testes** — MRKH (Mayer-Rokitansky-Küster-Hauser) syndrome has a 46,XX karyotype; gonads present are ovaries. It is characterised by congenital aplasia of the uterus and upper 2/3 of the vagina with normal secondary sexual characteristics.
+
+</details>
+
+---
+### Q1124 — Hot Flushes Mechanism *(2015)*
+
+Hot flushes are experienced as a result of:
+
+- A. Increased noradrenaline alone
+- B. Decreased oestrogen alone
+- C. Increased noradrenaline and decreased oestrogen
+- D. Increased noradrenaline and oestrogen
+
+<details><summary>Answer</summary>
+
+**C. Increased noradrenaline and decreased oestrogen** — Oestrogen deficiency reduces hypothalamic endorphins, increasing norepinephrine and serotonin, which disturb the hypothalamic thermoregulatory set-point.
+
+</details>
+
+---
+### Q1125 — IUD Absolute Contraindication — Exception *(2015)*
+
+Absolute contraindications to IUCD are all EXCEPT:
+
+- A. Pregnancy
+- B. Undiagnosed vaginal bleeding
+- C. Pelvic inflammatory disease
+- D. Uterine malformation
+
+<details><summary>Answer</summary>
+
+**D. Uterine malformation** — Uterine malformation (distorted cavity) is only a relative contraindication; the others (pregnancy, undiagnosed bleeding, active PID) are absolute contraindications.
+
+</details>
+
+---
+### Q1126 — Secondary PPH Most Common Cause *(2015)*
+
+Most common cause of secondary PPH is:
+
+- A. Uterine inertia
+- B. Retained placenta/placental bits
+- C. Episiotomy
+- D. Cervical tear
+
+<details><summary>Answer</summary>
+
+**B. Retained placental bits** — Retained cotyledon or membrane fragments are the most common cause of secondary PPH (bleeding after 24 hours, usually 8–14 days postpartum).
+
+</details>
+
+---
+### Q1127 — Complete Placenta Praevia at 38 Weeks (No Bleeding) *(2015)*
+
+Management of a patient with complete placenta praevia at 38 weeks gestation without any vaginal bleeding is:
+
+- A. Expectant management
+- B. Macafee and Johnson regimen
+- C. Elective caesarean section
+- D. Emergency caesarean section
+
+<details><summary>Answer</summary>
+
+**C. Elective caesarean section** — At ≥37 weeks active interference is mandatory for complete praevia. As there is no active bleeding, an elective (planned) caesarean section is appropriate rather than emergency.
+
+</details>
+
+---
+### Q1128 — Vasa Praevia Association *(2015)*
+
+Vasa praevia is associated with:
+
+- A. Marginal placenta
+- B. Velamentous placenta
+- C. Battledore placenta
+- D. Placenta praevia
+
+<details><summary>Answer</summary>
+
+**B. Velamentous placenta** — In velamentous cord insertion, unsupported umbilical vessels traverse the membranes over the internal os; rupture of these fetal vessels causes rapid fetal exsanguination.
+
+</details>
+
+---
+### Q1129 — Ectopic Pregnancy Most Common Tubal Site *(2015)*
+
+Most common site of implantation of tubal ectopic pregnancy is:
+
+- A. Interstitial portion
+- B. Isthmus
+- C. Ampulla
+- D. Infundibulum
+
+<details><summary>Answer</summary>
+
+**C. Ampulla** — The ampulla accounts for ~80% of tubal ectopics. The isthmus has the highest rupture propensity; interstitial ectopics have the longest survival (up to ~4 months).
+
+</details>
+
+---
+### Q1130 — Amsel Criteria Disease *(2015)*
+
+Amsel criteria is used for diagnosis of:
+
+- A. Bacterial vaginosis
+- B. Antiphospholipid antibody syndrome
+- C. Ovarian ectopic pregnancy
+- D. HELLP syndrome
+
+<details><summary>Answer</summary>
+
+**A. Bacterial vaginosis** — Amsel criteria (3 of 4): homogeneous white/grey discharge, vaginal pH >4.5, positive Whiff test (KOH fishy odour), and clue cells on microscopy.
+
+</details>
+
+---
+### Q1131 — The uterine artery is a branch
+
+The uterine artery is a branch of which of the following?
+
+- A. Left common iliac artery
+- B. Internal iliac artery
+- C. Internal pudendal artery
+- D. Ovarian artery
+
+<details><summary>Answer</summary>
+
+**B. Internal iliac artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1132 — Ovarian artery is a branch of
+
+Ovarian artery is a branch of:
+
+- A. Renal artery
+- B. Internal iliac artery
+- C. Abdominal part of the aorta
+- D. External iliac artery
+
+<details><summary>Answer</summary>
+
+**C. Abdominal part of the aorta** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1133 — Labour pain in uterus is carried
+
+Labour pain in uterus is carried by
+
+- A. Parasympathetic nerves
+- B. Sympathetic nerves
+- C. Pudendal nerve
+- D. Splanchnic nerve
+
+<details><summary>Answer</summary>
+
+**B. Sympathetic nerves** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1134 — True about fallopian tubes are all
+
+True about fallopian tubes are all except :
+
+- A. Lined by cuboidal epithelium
+- B. Isthmus is the narrower part of the tube that links to the uterus
+- C. Tubal ostium is the point where the tubal canal meets the
+- D. MUllerian ducts develops in females into the Fallopian tubes
+
+<details><summary>Answer</summary>
+
+**A. Lined by cuboidal epithelium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1135 — Lining epithelium of vagina is
+
+Lining epithelium of vagina is
+
+- A. Squamous epithelium
+- B. Columnar epithelium
+- C. Transitional epithelium
+- D. Secretory epithelium
+
+<details><summary>Answer</summary>
+
+**A. Squamous epithelium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1136 — CEA is increased in which non-
+
+CEA is increased in which non- neoplastic condition
+
+- A. Hemolytic anemia
+- B. Pancreatitis
+- C. BPH
+- D. Pregnancy
+
+<details><summary>Answer</summary>
+
+**C. BPH** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1137 — What is true about sickle cell
+
+What is true about sickle cell -
+
+- A. Sickling occurs both in heterozygous and homozygous state
+- B. Fetal hemoglobin facilitates Sickling
+- C. Sickling is reversible with oxygenation
+- D. Sickling Leads to decreased MCHC
+
+<details><summary>Answer</summary>
+
+**C. Sickling is reversible with oxygenation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1138 — Which antithyroid drug crosses placenta
+
+Which antithyroid drug crosses placenta ?
+
+- A. Carbimazole
+- B. Propylthiouracil
+- C. Both
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Both** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1139 — Last organ to putrefy in females
+
+Last organ to putrefy in females is: BHU 12
+
+- A. Kidney
+- B. Uterus
+- C. Brain
+- D. Spleen
+
+<details><summary>Answer</summary>
+
+**B. Uterus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1140 — To examine the vaginal cells in
+
+To examine the vaginal cells in of the rape victim test used is -
+
+- A. Lugol's iodine test
+- B. Takayama test
+- C. Florence test
+- D. Precipitin test
+
+<details><summary>Answer</summary>
+
+**A. Lugol's iodine test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1141 — Tennis racket cells is seen in
+
+Tennis racket cells is seen in -
+
+- A. Sarcoma botyroides
+- B. Vaginal adenocarcinoma
+- C. Leiomyoma uterus
+- D. Seminoma
+
+<details><summary>Answer</summary>
+
+**A. Sarcoma botyroides** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1142 — Most common site for staphylococcus carrier
+
+Most common site for staphylococcus carrier:
+
+- A. Skin
+- B. Nose
+- C. Oropharynx
+- D. Perineum
+
+<details><summary>Answer</summary>
+
+**B. Nose** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1143 — IgM appears in fetus at what
+
+IgM appears in fetus at what gestational age -
+
+- A. 10 weeks
+- B. 20 weeks
+- C. 30 weeks
+- D. at birth
+
+<details><summary>Answer</summary>
+
+**B. 20 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1144 — Which does not stimulate active immunity
+
+Which does not stimulate active immunity -
+
+- A. Subclinical infection
+- B. Clinical infection
+- C. Vaccination
+- D. Transplacental antibody in newborn
+
+<details><summary>Answer</summary>
+
+**D. Transplacental antibody in newborn** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1145 — Newborn care corner is present in
+
+Newborn care corner is present in ?
+
+- A. NICU
+- B. OPD
+- C. Labour room
+- D. Wards side room
+
+<details><summary>Answer</summary>
+
+**C. Labour room** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1146 — Hemoglobin with zeta 2 and gamma
+
+Hemoglobin with zeta 2 and gamma 2 chains are seen in which of the following
+
+- A. Gower I
+- B. Gower II
+- C. Portland
+- D. Fetal Gb
+
+<details><summary>Answer</summary>
+
+**C. Portland** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1147 — Which of the following precancerous conditions
+
+Which of the following precancerous conditions if treated would not lead to cancer
+
+- A. Cervical intraepithelial Neoplasia
+- B. Ductal carcinoma in situ of breast
+- C. Lobular Carcinoma in situ of breast
+- D. Vaginal intraepithelial Neoplasia
+
+<details><summary>Answer</summary>
+
+**A. Cervical intraepithelial Neoplasia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1148 — The fetal circulation changes to normal
+
+The fetal circulation changes to normal circulation at birth with
+
+- A. Closure of patent ductus arteriosus
+- B. Closure of ductus venosus
+- C. Increased activity of right Ventricle
+- D. Opening of fossa Ovalis
+
+<details><summary>Answer</summary>
+
+**A. Closure of patent ductus arteriosus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1149 — Which of the following is not
+
+Which of the following is not a cause of neonatal anaemia?
+
+- A. Subgaleal Hemorrhage
+- B. Abruptio placentae
+- C. Diamond Blackfan syndeome
+- D. Wilson's Disease
+
+<details><summary>Answer</summary>
+
+**D. Wilson's Disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1150 — Most common antigen involved in erythroblastosis
+
+Most common antigen involved in erythroblastosis fetalis is
+
+- A. C antigen in Rh group
+- B. D antigen in Rh group
+- C. E antigen in Rh group
+- D. Duffy antigen
+
+<details><summary>Answer</summary>
+
+**B. D antigen in Rh group** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1151 — Further investigation is essential in a
+
+Further investigation is essential in a newborn with which condition?
+
+- A. Erythema toxicum
+- B. Vaginal bleed
+- C. Subconjunctival hemorrhage
+- D. Lens opacity
+
+<details><summary>Answer</summary>
+
+**D. Lens opacity** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1152 — Most common cause of ca4ral tunnel
+
+Most common cause of ca4ral tunnel syndrome is ?
+
+- A. Pregnancy
+- B. Idiopathic
+- C. Alcoholism
+- D. Occupational-Excessive use of vibratory instruments
+
+<details><summary>Answer</summary>
+
+**B. Idiopathic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1153 — When fetus is at station 2
+
+When fetus is at station +2 & fetal skull reaches pelvic floor, which of the following is true
+
+- A. Forceps can be applied
+- B. Best time to give episiotomy
+- C. Called as crowning
+- D. May lead to deep transverse arrest
+
+<details><summary>Answer</summary>
+
+**A. Forceps can be applied** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1154 — In Medical termination of pregnancy, according
+
+In Medical termination of pregnancy, according to FDA, Misoprostol is given after how many hours of Mifepristone?
+
+- A. 24 hours
+- B. 48 hours
+- C. 72 hours
+- D. 96 hours
+
+<details><summary>Answer</summary>
+
+**B. 48 hours** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1155 — Twin pregnancy of the same age
+
+Twin pregnancy of the same age and sex rules out ?
+
+- A. Superfetation
+- B. Maternal twins
+- C. Superfecundation
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Superfetation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1156 — Propulsive stage in labour in multipara
+
+Propulsive stage in labour in multipara
+
+- A. 10 minutes
+- B. 20 minutes
+- C. 40 minutes
+- D. 1 hour
+
+<details><summary>Answer</summary>
+
+**B. 20 minutes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1157 — During pregnancy increased size of pituitary
+
+During pregnancy increased size of pituitary is caused by increased size of cells which secrete ?
+
+- A. Growth hormone
+- B. Prolactin
+- C. ACTH
+- D. TSH
+
+<details><summary>Answer</summary>
+
+**B. Prolactin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1158 — Therapeutic use of folic acid is
+
+Therapeutic use of folic acid is
+
+- A. Previous pregnancy with child having neural tube defect
+- B. Megaloblastic anaemia
+- C. Hemoglobinopathies
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Megaloblastic anaemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1159 — Cardiac output in pregnancy increases from
+
+Cardiac output in pregnancy increases from which week of gestation
+
+- A. 5 weeks
+- B. 15 weeks
+- C. 25 weeks
+- D. 35 weeks
+
+<details><summary>Answer</summary>
+
+**A. 5 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1160 — Stroke volume increases in pregnancy by
+
+Stroke volume increases in pregnancy by
+
+- A. 20%
+- B. 25%
+- C. 40%
+- D. 45%
+
+<details><summary>Answer</summary>
+
+**B. 25%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1161 — Oxygen consumption increases in pregnancy by
+
+Oxygen consumption increases in pregnancy by
+
+- A. 10%
+- B. 20%
+- C. 30%
+- D. 40%
+
+<details><summary>Answer</summary>
+
+**B. 20%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1162 — Which of the following about abdominal
+
+Which of the following about abdominal pregnancy is true?
+
+- A. Primary abdominal pregnancy is more common
+- B. If placenta is densely adhered, it should be separated alongwith
+- C. Around 50% of the fetus reach full term and survive
+- D. If placenta is left behind, infection can occur
+
+<details><summary>Answer</summary>
+
+**D. If placenta is left behind, infection can occur** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1163 — Which of the following is not
+
+Which of the following is not a probable sign of pregnancy
+
+- A. Jacquemier's sign
+- B. Dalrymple sign
+- C. Hegar's sign
+- D. Palmer's sign
+
+<details><summary>Answer</summary>
+
+**B. Dalrymple sign** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1164 — Which of the following ovarian tumor
+
+Which of the following ovarian tumor is most prone to undergo torsion during pregnancy :
+
+- A. Serous cystadenoma
+- B. Mucinous cystadenoma
+- C. Dermoid cyst
+- D. Theca lutein cyst
+
+<details><summary>Answer</summary>
+
+**C. Dermoid cyst** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1165 — What is the preferred treatment of
+
+What is the preferred treatment of complete prolapse in a female with completed family?
+
+- A. Sling surgery
+- B. Vaginal hysterectomy
+- C. Le Forte's repair
+- D. Pessary
+
+<details><summary>Answer</summary>
+
+**B. Vaginal hysterectomy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1166 — In MRKH syndrome, which among the
+
+In MRKH syndrome, which among the following is absent?
+
+- A. Vagina
+- B. Breast development
+- C. Pubic hair development
+- D. Testes
+
+<details><summary>Answer</summary>
+
+**D. Testes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1167 — During which gestational age is peak
+
+During which gestational age is peak serum HCG levels attained ?
+
+- A. 7-9 weeks
+- B. 11-13 weeks
+- C. 20 weeks
+- D. 25 weeks
+
+<details><summary>Answer</summary>
+
+**A. 7-9 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1168 — The role of human placental lactogen
+
+The role of human placental lactogen is :
+
+- A. Stimulate milk production
+- B. Fetal breast development
+- C. Growth of fetus
+- D. Endocrine regulation
+
+<details><summary>Answer</summary>
+
+**C. Growth of fetus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1169 — Patient with NTD, dose of folic
+
+Patient with NTD, dose of folic acid in next pregnancy
+
+- A. 0.5 mg
+- B. 1 mg
+- C. 2 mg
+- D. 4 mg
+
+<details><summary>Answer</summary>
+
+**D. 4 mg** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1170 — Absolute contraindication for IUD (Intra Uterine
+
+Absolute contraindication for IUD (Intra Uterine Contraceptive Device) are all except ?
+
+- A. Pregnancy
+- B. Undiagnosed vaginal bleeding
+- C. Pelvic inflammatory disease
+- D. Uterine malformation
+
+<details><summary>Answer</summary>
+
+**D. Uterine malformation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1171 — Number of stem villi at term
+
+Number of stem villi at term in human placenta is
+
+- A. 60
+- B. 120
+- C. 240
+- D. 480
+
+<details><summary>Answer</summary>
+
+**A. 60** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1172 — Uterus is receptive for implantation for
+
+Uterus is receptive for implantation for how many days after fertilization -
+
+- A. 6 days
+- B. 12 days
+- C. 6 weeks
+- D. 12 weeks
+
+<details><summary>Answer</summary>
+
+**D. 12 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1173 — Human placenta is
+
+Human placenta is ?
+
+- A. Discoid
+- B. Hemochorial
+- C. Deciduate
+- D. All the above
+
+<details><summary>Answer</summary>
+
+**D. All the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1174 — All are true about uteroplacental circulation
+
+All are true about uteroplacental circulation except
+
+- A. Blood in the intervillous space is completely replaced 3 - 4
+- B. The villi depend on the maternal blood for their nutrition
+- C. A mature placenta has 150 ml of blood in the villi system and
+- D. Intervillous blood flow at term is 500 - 600 ml per minute
+
+<details><summary>Answer</summary>
+
+**C. A mature placenta has 150 ml of blood in the villi system and** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1175 — Which is increased in premature ovarian
+
+Which is increased in premature ovarian failure :
+
+- A. Sr. Inhibin
+- B. Sr. FSH
+- C. Sr. Estradiol
+- D. Both A and B
+
+<details><summary>Answer</summary>
+
+**B. Sr. FSH** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1176 — All of the following are markers
+
+All of the following are markers of ovarian reserve except -
+
+- A. Inhibin A
+- B. Estradiol concentration
+- C. Inhibin B
+- D. Ovarian volume
+
+<details><summary>Answer</summary>
+
+**A. Inhibin A** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1177 — Most common site involved in genital
+
+Most common site involved in genital TB -
+
+- A. Fallopian tubes
+- B. Endometrium
+- C. Ovaries
+- D. Vulvo - vaginal part
+
+<details><summary>Answer</summary>
+
+**A. Fallopian tubes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1178 — Which is not a side effect
+
+Which is not a side effect of POP [Progestin only pill]
+
+- A. Ovarian cysts
+- B. Venous thromboembolism
+- C. Increased risk of diabetes mellitus
+- D. Ectopic pregnancy
+
+<details><summary>Answer</summary>
+
+**B. Venous thromboembolism** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1179 — Maternal age is not associated with
+
+Maternal age is not associated with -
+
+- A. Preterm labour
+- B. Post maturity
+- C. Aneuploidy
+- D. Hydatidiform mole
+
+<details><summary>Answer</summary>
+
+**A. Preterm labour** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1180 — Cause of unilateral dysmenorrhea
+
+Cause of unilateral dysmenorrhea :
+
+- A. One horn of malformed uterus
+- B. Endometriosis with unilateral distribution
+- C. Small fibroid at the utero tubal junction
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1181 — Management of tubal ectopic pregnancy of
+
+Management of tubal ectopic pregnancy of 2.5 x 3 cm is -
+
+- A. Medical management
+- B. Salpingectomy
+- C. According to presence of fetal cardiac activity
+- D. Observation
+
+<details><summary>Answer</summary>
+
+**C. According to presence of fetal cardiac activity** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1182 — Dose of dexamethasone for fetal lung
+
+Dose of dexamethasone for fetal lung maturity is -
+
+- A. 6 mg
+- B. 12 mg
+- C. 18 mg
+- D. 24 mg
+
+<details><summary>Answer</summary>
+
+**A. 6 mg** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1183 — Management of a patient with complete
+
+Management of a patient with complete placenta previa at 38 weeks gestation without any vaginal bleeding is -
+
+- A. Expectant management
+- B. Macafee and Johnson regimen
+- C. Elective caesarean section
+- D. Emergency caesarean section
+
+<details><summary>Answer</summary>
+
+**C. Elective caesarean section** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1184 — What is the stage of carcinoma
+
+What is the stage of carcinoma cervix involving body of uterus -
+
+- A. Stage I
+- B. Stage II
+- C. Stage III
+- D. Stage IV
+
+<details><summary>Answer</summary>
+
+**A. Stage I** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1185 — Most common cause of death in
+
+Most common cause of death in cervical cancer is -
+
+- A. Renal failure
+- B. Infection
+- C. Haemorrhage
+- D. Metastasis to vital organs
+
+<details><summary>Answer</summary>
+
+**A. Renal failure** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1186 — Treatment options for CIN III include
+
+Treatment options for CIN III include all of the following except -
+
+- A. LLETZ
+- B. Conization
+- C. Hysterectomy
+- D. Wertheim's hysterectomy
+
+<details><summary>Answer</summary>
+
+**D. Wertheim's hysterectomy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1187 — year old woman presents with abnormal
+
+A patient (age not captured in source) who is a year old woman presents with abnormal cervical cytology on PAP smear suggestive of CIN III (HSIL). The next best step in management is:
+
+- A. Hysterectomy
+- B. Colposcopy and LEEP
+- C. Colposcopy and Cryotherapy
+- D. Conization
+
+<details><summary>Answer</summary>
+
+**B. Colposcopy and LEEP** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1188 — Funneling in cervicogram is seen in
+
+Funneling in cervicogram is seen in -
+
+- A. In labour
+- B. Cervical incompetence
+- C. Cervical ectopic
+- D. During TVS
+
+<details><summary>Answer</summary>
+
+**B. Cervical incompetence** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1189 — Vasa previa is associated with -
+
+Vasa previa is associated with -
+
+- A. Marginal placenta
+- B. Velamentous placenta
+- C. Battledore
+- D. Placenta previa
+
+<details><summary>Answer</summary>
+
+**B. Velamentous placenta** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1190 — First symptom invulval cancer is-
+
+First symptom invulval cancer is-
+
+- A. Pain
+- B. Pruritis
+- C. Ulcer
+- D. Blood discharge
+
+<details><summary>Answer</summary>
+
+**B. Pruritis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1191 — Uterine height is greater than gestational
+
+Uterine height is greater than gestational age of the patient in a case of all except -
+
+- A. Fibroid uterus
+- B. IUGR
+- C. Wrong dates
+- D. Polyhydramnios
+
+<details><summary>Answer</summary>
+
+**B. IUGR** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1192 — Pregnancy is contraindicated in which cardiac
+
+Pregnancy is contraindicated in which cardiac disease -
+
+- A. Mitral stenosis
+- B. Primary pulmonary hypertension
+- C. VSD
+- D. Mitral regurgitation
+
+<details><summary>Answer</summary>
+
+**B. Primary pulmonary hypertension** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1193 — Following delivery, tear involves perineum, extern
+
+Following delivery, tear involves perineum, external anal spincter with intact mucosa, grade of tear is -
+
+- A. First degree
+- B. Second degree
+- C. Third degree
+- D. Fourth degree
+
+<details><summary>Answer</summary>
+
+**C. Third degree** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1194 — False about chorionic vinous sampling -
+
+False about chorionic vinous sampling -
+
+- A. Is used for prental genetic diagnosis
+- B. Is performed only in second trimester of pregnancy
+- C. Villi collected from chorion frondosum
+- D. Can cause limb deformities
+
+<details><summary>Answer</summary>
+
+**B. Is performed only in second trimester of pregnancy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1195 — year old primigravida with 32 weeks
+
+A patient (age not captured in source) who is a year old primigravida with 32 weeks of gestation comes with complain of thin, frothy, profuse discharge through the vagina since
+
+- A. PPROM
+- B. Trichomoniasis
+- C. Normal finding
+- D. Candidiasis
+
+<details><summary>Answer</summary>
+
+**B. Trichomoniasis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1196 — Poor prognostic factor for hydatidiform mole
+
+Poor prognostic factor for hydatidiform mole is -
+
+- A. Prior molar pregnancy
+- B. Metastasis to lung
+- C. No prior chemotherapy
+- D. WHO score > 8
+
+<details><summary>Answer</summary>
+
+**D. WHO score > 8** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1197 — Le Fort repair is done for
+
+Le Fort repair is done for
+
+- A. Uterovaginal descent
+- B. Vault prolapse
+- C. VVF
+- D. RVF
+
+<details><summary>Answer</summary>
+
+**A. Uterovaginal descent** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1198 — Bacteria responsible for ectopic pregnancy is
+
+Bacteria responsible for ectopic pregnancy is
+
+- A. Staphylococcus
+- B. Chlamydia
+- C. Peptostreptococcus
+- D. Trichomonas vaginalis
+
+<details><summary>Answer</summary>
+
+**B. Chlamydia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1199 — Most common site of Implantation of
+
+Most common site of Implantation of tubal pregnancy is :
+
+- A. Interstitial portion of fallopian tube
+- B. Isthmus
+- C. Ampulla
+- D. Infundibulum
+
+<details><summary>Answer</summary>
+
+**C. Ampulla** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1200 — In which part of fallopian tube
+
+In which part of fallopian tube ectopic pregnancy will have longest survival?
+
+- A. Isthmus
+- B. Ampulla
+- C. Cornua
+- D. Interstitium
+
+<details><summary>Answer</summary>
+
+**D. Interstitium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1201 — Which of the following is true
+
+Which of the following is true about ovarian ectopic pregnancy?
+
+- A. Studdiford criteria is used for diagnosis
+- B. There should be no rent on the ovary or tube
+- C. Absence of evidence of pregnancy at any other site than
+- D. Conservative surgery can be done if diagnosed early
+
+<details><summary>Answer</summary>
+
+**D. Conservative surgery can be done if diagnosed early** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1202 — Plane of cleavage during placental separation
+
+Plane of cleavage during placental separation runs through
+
+- A. Between compact and spongy layer of decidua basalis
+- B. Between decidua basalis and chorion frondosum
+- C. Through deep spongy layer of decidua basalis
+- D. Between layers of chorion frondosum
+
+<details><summary>Answer</summary>
+
+**C. Through deep spongy layer of decidua basalis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1203 — Amsel criteria is for
+
+Amsel criteria is for
+
+- A. Bacterial vaginosis
+- B. Antiphospholipid antibody syndrome
+- C. Ovarian ectopic pregnancy
+- D. HELLP Syndrome
+
+<details><summary>Answer</summary>
+
+**A. Bacterial vaginosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1204 — Ketamine can be used in all
+
+Ketamine can be used in all of the situations except
+
+- A. Status asthamaticus
+- B. For analgesia & sedation
+- C. Obstetric hemorrhage
+- D. Ischemic heart disease
+
+<details><summary>Answer</summary>
+
+**D. Ischemic heart disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1205 — Occulomotor nerve supplies all extraocular muscles *(2015)*
+
+Occulomotor nerve supplies all extraocular muscles except ?
+
+- A. Superior rectus
+- B. Inferior rectus
+- C. Lateral rectus
+- D. Medial rectus
+
+<details><summary>Answer</summary>
+
+**C. Lateral rectus**
+
+</details>
+
+---
+### Q1206 — nucleus is not seen in floor *(2015)*
+
+Which nucleus is not seen in floor of the 4th ventricle -
+
+- A. Abducens nucleus
+- B. Facial nucleus
+- C. Dorsal vagal nucleus
+- D. Hypoglossal nucleus
+
+<details><summary>Answer</summary>
+
+**B. Facial nucleus**
+
+</details>
+
+---
+### Q1207 — Malleus and incus are derived from *(2015)*
+
+Malleus and incus are derived from ?
+
+- A. 1st Arch
+- B. 2nd Arch
+- C. 3rd Arch
+- D. 4th Arch
+
+<details><summary>Answer</summary>
+
+**A. 1st Arch**
+
+</details>
+
+---
+### Q1208 — Transport through pores in cell members *(2015)*
+
+Transport through pores in cell members is ?
+
+- A. Active transpert
+- B. Transcytosis
+- C. Diffusion
+- D. Endocytosis
+
+<details><summary>Answer</summary>
+
+**C. Diffusion**
+
+</details>
+
+---
+### Q1209 — Vibration sense is detected by *(2015)*
+
+Vibration sense is detected by ?
+
+- A. Nociceptors
+- B. Deep receptors
+- C. Superficial receptors
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**D. None of the above**
+
+</details>
+
+---
+### Q1210 — Neuropraxia is *(2015)*
+
+Neuropraxia is ?
+
+- A. Damage to axon
+- B. Damage to endoneurium
+- C. Damage to epineurium
+- D. No Structural damage
+
+<details><summary>Answer</summary>
+
+**D. No Structural damage**
+
+</details>
+
+---
+### Q1211 — In zero gravity VQ ratio is *(2015)*
+
+In zero gravity V/Q ratio is ?
+
+- A. 0.8
+- B. 1
+- C. 2
+- D. 3
+
+<details><summary>Answer</summary>
+
+**B. 1**
+
+</details>
+
+---
+### Q1212 — Blood pressure is dependant on *(2015)*
+
+Blood pressure is dependant on?
+
+- A. Cardiac output
+- B. Heart rate
+- C. Stroke volume
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above**
+
+</details>
+
+---
+### Q1213 — Major central nucleus of sympathetic system
+
+Major central nucleus of sympathetic system is
+
+- A. Nucleus ambiguus
+- B. Nucleus tractus solitarius
+- C. Edinger-Westphal nucleus
+- D. Hypothalamus
+
+<details><summary>Answer</summary>
+
+**D. Hypothalamus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1214 — What is attached to the superior
+
+What is attached to the superior nuchal line?
+
+- A. Trapezius
+- B. Scalenus anticus
+- C. Coracobrachialis
+- D. Biceps Brachii
+
+<details><summary>Answer</summary>
+
+**A. Trapezius** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1215 — Dangerous area of scalp is -
+
+Dangerous area of scalp is -
+
+- A. Superficial facia
+- B. Aponeurosis
+- C. Subaponeurotic tissue
+- D. Pericranium
+
+<details><summary>Answer</summary>
+
+**C. Subaponeurotic tissue** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1216 — Which nerve is preserved in dissecting
+
+Which nerve is preserved in dissecting the superficial and deep lobes of parotid gland -
+
+- A. Glossopharyngeal
+- B. Hypoglossal
+- C. Lingual
+- D. Facial
+
+<details><summary>Answer</summary>
+
+**D. Facial** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1217 — Which intrinsic ocular muscle is supplied
+
+Which intrinsic ocular muscle is supplied by parasympathetic innervation -
+
+- A. Superior rectus
+- B. Superior oblique
+- C. Constrictor pupillae
+- D. Dilator pupillae
+
+<details><summary>Answer</summary>
+
+**C. Constrictor pupillae** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1218 — Lips does not drain into which
+
+Lips does not drain into which group of lymph nodes?
+
+- A. Submandibular nodes
+- B. Sublingual nodes
+- C. Preauricular parotid
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Preauricular parotid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1219 — Postganglionic fibres to parotid gland is
+
+Postganglionic fibres to parotid gland is supplied by?
+
+- A. Glossopharyngeal nerve
+- B. Auriculotemporal nerve
+- C. Both of the above
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Auriculotemporal nerve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1220 — Features of facial nerve palsy are
+
+Features of facial nerve palsy are all except -
+
+- A. Loss of salivation
+- B. Loss of lacrimation
+- C. Facial muscle paralysis
+- D. Loss of taste sensation from posterior tongue
+
+<details><summary>Answer</summary>
+
+**D. Loss of taste sensation from posterior tongue** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1221 — Nasopharynx is lined by which epithelium
+
+Nasopharynx is lined by which epithelium ?
+
+- A. Stratified squamous nonkerationized
+- B. Stratified squamous keratinized
+- C. Ciliated columnar
+- D. Cuboidal
+
+<details><summary>Answer</summary>
+
+**C. Ciliated columnar** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1222 — Greater petrosal nerve is formed from
+
+Greater petrosal nerve is formed from ?
+
+- A. Geniculate ganglion
+- B. Plexus around ICA
+- C. Plexus around middle meningeal artery
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Geniculate ganglion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1223 — Nerve 3td ventricle is the cavity
+
+Nerve 3td ventricle is the cavity of -
+
+- A. Mesencephalon
+- B. Rhombencephalon
+- C. Diencephalon
+- D. Telencephalon
+
+<details><summary>Answer</summary>
+
+**C. Diencephalon** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1224 — Occulomotor nucleus is located in -
+
+Occulomotor nucleus is located in -
+
+- A. Forebrain
+- B. Midbrain
+- C. Pons
+- D. Medulla
+
+<details><summary>Answer</summary>
+
+**B. Midbrain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1225 — Major supply of medial surface of
+
+Major supply of medial surface of cerebral hemisphere
+
+- A. Anterior cerebral artery
+- B. Posterior cerebral artery
+- C. Middle cerebral artery
+- D. Posterior inferior cerebellar artery
+
+<details><summary>Answer</summary>
+
+**A. Anterior cerebral artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1226 — Ventral tegmental decussation in cerebral peduncle
+
+Ventral tegmental decussation in cerebral peduncle is due to -
+
+- A. Tectospinal tract
+- B. Tectobulbar tract
+- C. Vestibulospinal tract
+- D. Rubrospinal tract
+
+<details><summary>Answer</summary>
+
+**D. Rubrospinal tract** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1227 — Incudomalleolar joint is a
+
+Incudomalleolar joint is a ?
+
+- A. Ellipsoid joint
+- B. Pivot joint
+- C. Hinge joint
+- D. Saddle joint
+
+<details><summary>Answer</summary>
+
+**D. Saddle joint** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1228 — Hiltons law is related to -
+
+Hilton's law is related to -
+
+- A. Venous drainage
+- B. Blood supply
+- C. Nerve innervation
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Nerve innervation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1229 — Spermatogenesis begins at -
+
+Spermatogenesis begins at -
+
+- A. Birth
+- B. 5 years
+- C. Puberty
+- D. 18 years
+
+<details><summary>Answer</summary>
+
+**C. Puberty** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1230 — Which is not a stage of
+
+Which is not a stage of prophase -
+
+- A. Diakinesis
+- B. Leptotene
+- C. Zygotene
+- D. Arachytene
+
+<details><summary>Answer</summary>
+
+**D. Arachytene** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1231 — Fossa ovalis is a remnant of
+
+Fossa ovalis is a remnant of -
+
+- A. Septum primum
+- B. Septum secundum
+- C. Septum spurium
+- D. AV cushion
+
+<details><summary>Answer</summary>
+
+**A. Septum primum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1232 — Nephron is derived from
+
+Nephron is derived from ?
+
+- A. Ureteric bud
+- B. Mesonephric duct
+- C. Metanephros
+- D. Mesonephros
+
+<details><summary>Answer</summary>
+
+**C. Metanephros** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1233 — Fibrous stroma of liver is derived
+
+Fibrous stroma of liver is derived from -
+
+- A. Foregut endoderm
+- B. Midgut endoderm
+- C. Hindgut endoderm
+- D. Septum transversum
+
+<details><summary>Answer</summary>
+
+**D. Septum transversum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1234 — True about Branchial cyst is
+
+True about Branchial cyst is:
+
+- A. Cysts are more common than sinuses
+- B. Mostly arises from 2nd branchial system
+- C. Causes dysphagia and hoarseness
+- D. Sinus should always be operated
+
+<details><summary>Answer</summary>
+
+**B. Mostly arises from 2nd branchial system** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1235 — True about notochord are all except
+
+True about notochord are all except?
+
+- A. Defines axis of embryo
+- B. Serves as primary inductor
+- C. Derived from hypoblast
+- D. Remains as nucleus pulposus
+
+<details><summary>Answer</summary>
+
+**C. Derived from hypoblast** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1236 — Structures derived from the neural crest
+
+Structures derived from the neural crest are?
+
+- A. Pia
+- B. Dental papillae
+- C. Adrenal medulla
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1237 — Heart tube is formed at -
+
+Heart tube is formed at -
+
+- A. 3 weeks
+- B. 6 weeks
+- C. 10 weeks
+- D. 12 weeks
+
+<details><summary>Answer</summary>
+
+**A. 3 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1238 — Heart tube is formed in
+
+Heart tube is formed in
+
+- A. Hyaluronic acid secreted by endocardium
+- B. Chondroitin sulfate secreted by endocardium
+- C. Hyaluronic acid secreted by myocardium
+- D. Chondroitin sulfate secreted by myocardium
+
+<details><summary>Answer</summary>
+
+**C. Hyaluronic acid secreted by myocardium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1239 — Which of the following is a
+
+Which of the following is a derivative of paramesonephric duct in males ?
+
+- A. Trigone of bladder
+- B. Paraphoron
+- C. Prostatic utricle
+- D. Gartner's duct
+
+<details><summary>Answer</summary>
+
+**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1240 — Myelination in peripheral nervous system is
+
+Myelination in peripheral nervous system is done by
+
+- A. Astrocytes
+- B. Oligodendrocytes
+- C. Ependymal cells
+- D. Schwann cells
+
+<details><summary>Answer</summary>
+
+**D. Schwann cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1241 — False about limbus fossa ovalis -
+
+False about limbus fossa ovalis -
+
+- A. Situated above fossa ovalis
+- B. In right atrium
+- C. Derived from septum primum
+- D. Also called Annulus ovalis
+
+<details><summary>Answer</summary>
+
+**C. Derived from septum primum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1242 — Sertoli cells are derived from -
+
+Sertoli cells are derived from -
+
+- A. Genital tubercle
+- B. Genital swelling
+- C. Primordial germ cells
+- D. Germinal epithelium
+
+<details><summary>Answer</summary>
+
+**D. Germinal epithelium** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1243 — Prolactin secreting gland develops from -
+
+Prolactin secreting gland develops from -
+
+- A. Infundibulum
+- B. Rathke's pouch
+- C. Tuber cinereum
+- D. 3rd ventricle
+
+<details><summary>Answer</summary>
+
+**B. Rathke's pouch** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1244 — Posterior cardinal vein develops into -
+
+Posterior cardinal vein develops into -
+
+- A. Common iliac vein
+- B. Superior vena cava
+- C. Internal jugular vein
+- D. External jugular vein
+
+<details><summary>Answer</summary>
+
+**A. Common iliac vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1245 — Superior vena cava develops from -
+
+Superior vena cava develops from -
+
+- A. Right anterior cardinal vein
+- B. Left anterior cardinal vein
+- C. Left common cardinal vein
+- D. Right subcardinal vein
+
+<details><summary>Answer</summary>
+
+**A. Right anterior cardinal vein** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1246 — Structure developing from Mullerian duct in
+
+Structure developing from Mullerian duct in males?
+
+- A. Seminal vesicle
+- B. Epididymis
+- C. Prostatic utricle
+- D. Ureter
+
+<details><summary>Answer</summary>
+
+**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1247 — Optic cup is derived from
+
+Optic cup is derived from ?
+
+- A. Neural ectoderm
+- B. Surface ectoderm
+- C. Mesoderm
+- D. Neural crest
+
+<details><summary>Answer</summary>
+
+**A. Neural ectoderm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1248 — Which of the following is a
+
+Which of the following is a derivative of Rathke's pouch -
+
+- A. Pars tuberalis
+- B. Neurohypophysis
+- C. Posterior pituitary
+- D. Pineal gland
+
+<details><summary>Answer</summary>
+
+**A. Pars tuberalis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1249 — Which of glial cell is mesodermal
+
+Which of glial cell is mesodermal in origin -
+
+- A. Macroglial cells
+- B. Microglial cells
+- C. Oligodendrocytes
+- D. Ependymal cells
+
+<details><summary>Answer</summary>
+
+**B. Microglial cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1250 — Trigone of bladder is derived from
+
+Trigone of bladder is derived from ?
+
+- A. Mesonephric duct
+- B. Paramesonephric duct
+- C. Absorbed anal membrane
+- D. Mullerian duct
+
+<details><summary>Answer</summary>
+
+**A. Mesonephric duct** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1251 — Pisiform articulates with -
+
+Pisiform articulates with -
+
+- A. Scaphoid
+- B. Trapezium
+- C. Triquetral
+- D. Lunate
+
+<details><summary>Answer</summary>
+
+**C. Triquetral** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1252 — Spleniculi are seen most commonly in
+
+Spleniculi are seen most commonly in:
+
+- A. Colon
+- B. Hilum
+- C. Liver
+- D. Lungs
+
+<details><summary>Answer</summary>
+
+**B. Hilum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1253 — Which of the following is not
+
+Which of the following is not a derivative of foregut?
+
+- A. Cecum
+- B. duodenum
+- C. Liver
+- D. Pancreas
+
+<details><summary>Answer</summary>
+
+**A. Cecum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1254 — Most important factor in transport across
+
+Most important factor in transport across
+
+- A. Charge of particle
+- B. Membrane thickness
+- C. Size of particle
+- D. Concentration gradient
+
+<details><summary>Answer</summary>
+
+**D. Concentration gradient** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1255 — Percentage of total body water to
+
+Percentage of total body water to body weight at birth?
+
+- A. 90%
+- B. 80%
+- C. 60%
+- D. 50%
+
+<details><summary>Answer</summary>
+
+**B. 80%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1256 — Epithelial sodium channels has
+
+Epithelial sodium channels has ?
+
+- A. 2a, 213
+- B. la, i(3
+- C. 2a, 213, 2y
+- D. 2a, 113, 2y
+
+<details><summary>Answer</summary>
+
+**D. 2a, 113, 2y** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1257 — pH of intracellular fluid is
+
+pH of intracellular fluid is ?
+
+- A. Slightly less than ECF
+- B. Slightly more than ECF
+- C. Same as ECF
+- D. Highly alkaline
+
+<details><summary>Answer</summary>
+
+**A. Slightly less than ECF** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1258 — Increased in plasma viscosity is maximally
+
+Increased in plasma viscosity is maximally caused by which plasma protein?
+
+- A. Fibrinogen
+- B. Albumin
+- C. Globulin
+- D. All have equal effect
+
+<details><summary>Answer</summary>
+
+**C. Globulin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1259 — Oncotic pressure is contributed by
+
+Oncotic pressure is contributed by?
+
+- A. Sodium
+- B. Chloride
+- C. Potassium
+- D. Albumin
+
+<details><summary>Answer</summary>
+
+**D. Albumin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1260 — Motor evoked potential assess
+
+Motor evoked potential assess ?
+
+- A. Peripheral motor pathways
+- B. Central motor pathways
+- C. Both of the above
+- D. Regeneration in muscles
+
+<details><summary>Answer</summary>
+
+**B. Central motor pathways** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1261 — True about visual cycle cascade
+
+True about visual cycle cascade ?
+
+- A. Associated with conformational change in opsin
+- B. Light causes isomerization of all-trans-retinol to 11 Cis-retinol
+- C. Retinol [alcohol] is involved
+- D. All are true
+
+<details><summary>Answer</summary>
+
+**A. Associated with conformational change in opsin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1262 — True about smooth muscle contraction
+
+True about smooth muscle contraction ?
+
+- A. Troponin plays an important role
+- B. Calmodulin has no role
+- C. Phosphorylation of myosin
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Phosphorylation of myosin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1263 — Increase in Duration of expiration is
+
+Increase in Duration of expiration is due to?
+
+- A. J-reflex
+- B. Head's paradoxical reflex
+- C. Hering-Breure reflex
+- D. Proprioceptors
+
+<details><summary>Answer</summary>
+
+**C. Hering-Breure reflex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1264 — Wallerian degeneration is for
+
+Wallerian degeneration is for ?
+
+- A. Nerve degeneration
+- B. Muscle degeneration
+- C. Nerve regeneration
+- D. Muscle regeneration
+
+<details><summary>Answer</summary>
+
+**A. Nerve degeneration** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1265 — Withdrawal reflex is also known as
+
+Withdrawal reflex is also known as ?
+
+- A. Extension reflex
+- B. Stretch reflex
+- C. Golgitendon reflex
+- D. Flexor reflex
+
+<details><summary>Answer</summary>
+
+**D. Flexor reflex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1266 — Tetany in muscle occurs inspite of
+
+Tetany in muscle occurs inspite of normal serum Ca" level. Which ion is responsible ?
+
+- A. Mg2+
+- B. Ca2+
+- C. K+
+- D. Na+
+
+<details><summary>Answer</summary>
+
+**B. Ca2+** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1267 — Unspecified pain pathway is for
+
+Unspecified pain pathway is for?
+
+- A. Neuropathic pain
+- B. Trauma
+- C. Visceral pain
+- D. Psychogenic pain
+
+<details><summary>Answer</summary>
+
+**D. Psychogenic pain** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1268 — Pain is carried by which nerve
+
+Pain is carried by which nerve fibers?
+
+- A. Act, A13
+- B. Act, Ay
+- C. AS, C
+- D. Ay, C
+
+<details><summary>Answer</summary>
+
+**A. Act, A13** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1269 — Vibration sense is detected by which
+
+Vibration sense is detected by which type of receptor?
+
+- A. Merkel's disc
+- B. Ruffini's end organ
+- C. Paccinian corpuscle
+- D. Meissner's corpuscle
+
+<details><summary>Answer</summary>
+
+**C. Paccinian corpuscle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1270 — Vibrations are detected by which types
+
+Vibrations are detected by which types of receptors?
+
+- A. Slowly adapting
+- B. Rapidly adapting
+- C. Non-adapting
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Rapidly adapting** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1271 — Which of the following receptor is
+
+Which of the following receptor is stimulated by sustained pressure?
+
+- A. Ruffini's end organ
+- B. Merkel's disc
+- C. Hair cells
+- D. Meissner Corpuscles
+
+<details><summary>Answer</summary>
+
+**A. Ruffini's end organ** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1272 — Prosopagnosia is characterized by
+
+"Prosopagnosia" is characterized by :
+
+- A. Inability to read
+- B. Inability to identify faces
+- C. Inability to write
+- D. Inability to speak
+
+<details><summary>Answer</summary>
+
+**B. Inability to identify faces** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1273 — Brocas area is concerned with
+
+Broca's area is concerned with:
+
+- A. Word formation
+- B. Comprehension
+- C. Repetition
+- D. Reading
+
+<details><summary>Answer</summary>
+
+**A. Word formation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1274 — Broadmans area for motor speech
+
+Broadman's area for motor speech?
+
+- A. Area 1,2,3
+- B. Area 4,6
+- C. Area 28,29
+- D. Area 44
+
+<details><summary>Answer</summary>
+
+**D. Area 44** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1275 — Maximum density of muscle spindle is
+
+Maximum density of muscle spindle is found in ?
+
+- A. Calf muscle
+- B. Lumbricals
+- C. Quadrieps muscle
+- D. Triceps
+
+<details><summary>Answer</summary>
+
+**B. Lumbricals** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1276 — Function of epinephirine and norepinephine in
+
+Function of epinephirine and norepinephine in Fight​or-Flight response is ?
+
+- A. Increased blood flow to skin
+- B. Increased blood flow to muscles
+- C. Bronchoconstriction
+- D. Bradycardia
+
+<details><summary>Answer</summary>
+
+**B. Increased blood flow to muscles** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1277 — EPSP is due to
+
+EPSP is due to ?
+
+- A. K' influx
+- B. Na* efflux
+- C. Na* influx
+- D. Ca** influx
+
+<details><summary>Answer</summary>
+
+**C. Na* influx** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1278 — The only excitatory neurons in cerebellar
+
+The only excitatory neurons in cerebellar cortex are?
+
+- A. Purkinje
+- B. Basket
+- C. Golgi
+- D. Granule cells
+
+<details><summary>Answer</summary>
+
+**D. Granule cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1279 — Sleep walking is seen in which
+
+Sleep walking is seen in which stage of sleep ?
+
+- A. REM
+- B. Stage 1-2 NREM
+- C. Stage 2-3 NREM
+- D. Stage 3-4 NREM
+
+<details><summary>Answer</summary>
+
+**D. Stage 3-4 NREM** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1280 — Calcium absorption is hampered by
+
+Calcium absorption is hampered by
+
+- A. Protein
+- B. Lactose
+- C. Acid
+- D. Phytates
+
+<details><summary>Answer</summary>
+
+**D. Phytates** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1281 — Suppressor Strip on anterior edge of
+
+Suppressor Strip on anterior edge of pre- central gyrus has following function ?
+
+- A. Increase extensor tone
+- B. Pain perception
+- C. Inhibition of stretch reflex
+- D. Voluntary movement
+
+<details><summary>Answer</summary>
+
+**C. Inhibition of stretch reflex** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1282 — Part of sympathetic system which secrete
+
+Part of sympathetic system which secrete chemical transmitter?
+
+- A. Cardiac ganglion
+- B. Cervical sympathetic chain
+- C. Adrenal medulla
+- D. Thoracic sympathetic chain
+
+<details><summary>Answer</summary>
+
+**C. Adrenal medulla** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1283 — Which of the following has direct
+
+Which of the following has direct innervation from sympathetic system but no parasymputhetic supply?
+
+- A. Heart
+- B. Intestine
+- C. Skin
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Skin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1284 — RMP in smooth muscles
+
+RMP in smooth muscles?
+
+- A. -90 mV
+- B. -70 mV
+- C. -150 mV
+- D. - 40 mV
+
+<details><summary>Answer</summary>
+
+**D. - 40 mV** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1285 — Halden Effect is
+
+Halden Effect is ?
+
+- A. CO2 delivery by increased 02
+- B. 02 delivery by increased CO2
+- C. CO2 delivery by increased CO2
+- D. 0, delivery by increased CO
+
+<details><summary>Answer</summary>
+
+**A. CO2 delivery by increased 02** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1286 — Total surface area of respiratory membrane
+
+Total surface area of respiratory membrane ?
+
+- A. 25 cm'
+- B. 50 cm'
+- C. 25 m2
+- D. 100 m2
+
+<details><summary>Answer</summary>
+
+**D. 100 m2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1287 — Damage to pnemotaxic center along with
+
+Damage to pnemotaxic center along with vagus nerve causes which type of respiration?
+
+- A. Chyne stoke breathing
+- B. Deep and slow
+- C. Shallow and rapid
+- D. Inspiratory Spasm
+
+<details><summary>Answer</summary>
+
+**D. Inspiratory Spasm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1288 — Transpulmonary pressure is the difference between
+
+Transpulmonary pressure is the difference between:
+
+- A. The bronchus and atmospheric pressure
+- B. Pressure in alveoli and intrapleural pressure
+- C. Atmosphere and intrapleural pressure
+- D. Atmosphere and intraalveolar pressure
+
+<details><summary>Answer</summary>
+
+**B. Pressure in alveoli and intrapleural pressure** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1289 — Normal transpulmonary pressure during quiet breath
+
+Normal transpulmonary pressure during quiet breathing?
+
+- A. + 8 to +5 cm H20
+- B. - 8 to - 5 cm H20
+- C. 0 to + 1 cm H20
+- D. 0 to -1 cm H20
+
+<details><summary>Answer</summary>
+
+**A. + 8 to +5 cm H20** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1290 — What is the partial pressure of
+
+What is the partial pressure of oxygen at 760mmHg atmospheric pressure?
+
+- A. 76
+- B. 160
+- C. 120
+- D. 130
+
+<details><summary>Answer</summary>
+
+**B. 160** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1291 — What is the partial pressure for
+
+What is the partial pressure for oxygen in the inspired air?
+
+- A. 116 mm Hg
+- B. 158 mm Hg
+- C. 100 mm Hg
+- D. 0.3 mm Hg
+
+<details><summary>Answer</summary>
+
+**B. 158 mm Hg** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1292 — Isocapenic buffering is
+
+Isocapenic buffering is ?
+
+- A. Increcased pCO2 with increased CO2
+- B. Increcased pCO2 with decreased CO,
+- C. Normal pCO, with increased CO2
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Normal pCO, with increased CO2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1293 — Vital capacity is measured by
+
+Vital capacity is measured by ?
+
+- A. Plethysmography
+- B. Gas-dilution methed
+- C. Nitrogen washout technique
+- D. Spirometer
+
+<details><summary>Answer</summary>
+
+**D. Spirometer** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1294 — In patients with emphysematous bullae, total
+
+In patients with emphysematous bullae, total lung volume is best determined by?
+
+- A. Spirometry
+- B. Helium dilution method
+- C. Plathysmography
+- D. Any of the above
+
+<details><summary>Answer</summary>
+
+**B. Helium dilution method** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1295 — All are true about compliance of
+
+All are true about compliance of lung except ?
+
+- A. Change in Volume per unit change in pressure
+- B. Total Compliance is 0.2 L/cm
+- C. A measure of distensibility
+- D. Decreased in emphysema
+
+<details><summary>Answer</summary>
+
+**D. Decreased in emphysema** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1296 — Normal respiratory compliance is
+
+Normal respiratory compliance is ?
+
+- A. 200 ml/cm water
+- B. 50 ml/cm water
+- C. 100 ml/cm water
+- D. 150 ml/cm water
+
+<details><summary>Answer</summary>
+
+**A. 200 ml/cm water** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1297 — In relaxation pressure curve, in chronic
+
+In relaxation pressure curve, in chronic smokers at Zero relaxation pressure ?
+
+- A. Lung volume increases
+- B. Lung volume decreases
+- C. No change in lung volume
+- D. Any of the above
+
+<details><summary>Answer</summary>
+
+**A. Lung volume increases** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1298 — Which of the following parameter Indicates
+
+Which of the following parameter Indicates elimination of CO2 from lung ?
+
+- A. Pa02
+- B. pH
+- C. PaCO2
+- D. HCO, level
+
+<details><summary>Answer</summary>
+
+**C. PaCO2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1299 — Normal02 extraction ratio of tissues
+
+Normal02 extraction ratio of tissues ?
+
+- A. 5%
+- B. 15%
+- C. 25%
+- D. 40%
+
+<details><summary>Answer</summary>
+
+**C. 25%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1300 — Poiseuilles equation states that
+
+Poiseuille's equation states that?
+
+- A. Blood flow is directly proportion to 2nd power of radius
+- B. Blood flow is directly proportiom to 4th power of radius
+- C. Blood flow is inversely proportion to 2nd power of radius
+- D. Blood flow is inversely proportion to 4th power of radius
+
+<details><summary>Answer</summary>
+
+**D. Blood flow is inversely proportion to 4th power of radius** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1301 — Aortic valve closure occurs in which
+
+Aortic valve closure occurs in which part of cardiac cycle?
+
+- A. Beginning of isovolumetric contraction
+- B. Beginning of ventricular ejection
+- C. Beginning of isovolumetric relaxation
+- D. During rapid ventricular filling
+
+<details><summary>Answer</summary>
+
+**B. Beginning of ventricular ejection** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1302 — Role of ion channels on vascular
+
+Role of ion channels on vascular endothelium is ?
+
+- A. Ca+ influx
+- B. K+ efflux
+- C. Na+ influx
+- D. Cl- effux
+
+<details><summary>Answer</summary>
+
+**D. Cl- effux** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1303 — Action Potential in cardiac muscles has
+
+Action Potential in cardiac muscles has how many phases?
+
+- A. 2
+- B. 3
+- C. 4
+- D. 5
+
+<details><summary>Answer</summary>
+
+**D. 5** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1304 — Aortic valve closure corresponds to the
+
+Aortic valve closure corresponds to the beginning of:
+
+- A. Systole
+- B. Parasystole
+- C. Isovolumetric relaxation
+- D. Isovolumetric contraction
+
+<details><summary>Answer</summary>
+
+**C. Isovolumetric relaxation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1305 — Cerebral blood flow is increased by
+
+Cerebral blood flow is increased by ?
+
+- A. Increase in P02
+- B. Increase in PCO2
+- C. Decrease metabolic rate
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Increase in P02** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1306 — ST Segment of ECG corresponds to
+
+ST Segment of ECG corresponds to which phase of action potential ?
+
+- A. Phase 0
+- B. Phase I
+- C. Phase II
+- D. Phase III
+
+<details><summary>Answer</summary>
+
+**C. Phase II** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1307 — ST Segment of ECG Correspords to
+
+ST Segment of ECG Correspords to which phase of action potential ?
+
+- A. Rapid depolarixation
+- B. Rapid repolarizedtion
+- C. Find repolarizetion
+- D. Plateu Phase
+
+<details><summary>Answer</summary>
+
+**D. Plateu Phase** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1308 — Baroreeaptors are located in
+
+Baroreeaptors are located in ?
+
+- A. Tunica media
+- B. Tunica intima
+- C. Tunica adventitia
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Tunica adventitia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1309 — Baroreceptor are
+
+Baroreceptor are ?
+
+- A. Carotid body
+- B. Carotid sinus
+- C. Aortic body
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Carotid sinus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1310 — After load is decreased by
+
+After load is decreased by ?
+
+- A. Exercise
+- B. Anemia
+- C. Thyrotoxicosis
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1311 — Oxygen saturation of venous blood is
+
+Oxygen saturation of venous blood is ?
+
+- A. 30%
+- B. 50%
+- C. 70%
+- D. 90%
+
+<details><summary>Answer</summary>
+
+**C. 70%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1312 — Organ with dual blood supply
+
+Organ with dual blood supply?
+
+- A. Heart
+- B. Liver
+- C. Kidney
+- D. Lung
+
+<details><summary>Answer</summary>
+
+**C. Kidney** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1313 — True about Bezold-Jarish reflex
+
+True about Bezold-Jarish reflex?
+
+- A. Hypertension
+- B. Tachycardia
+- C. Hyperpnea
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**D. Hypotension** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1314 — True about Coronary circulation
+
+True about Coronary circulation ?
+
+- A. 250 ml/min
+- B. Major flow during systole
+- C. Unifrom flow during full cardiac cycle
+- D. All of the about
+
+<details><summary>Answer</summary>
+
+**A. 250 ml/min** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1315 — Glomerular filteration of a substance depends
+
+Glomerular filteration of a substance depends upon?
+
+- A. Lipid solubility of substance
+- B. Binding capacity to albumin
+- C. Both of the above
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Binding capacity to albumin** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1316 — Tubuloglomerular feedback is for regulation of
+
+Tubuloglomerular feedback is for regulation of?
+
+- A. BP
+- B. Blood volume
+- C. Na+ reabsorption
+- D. GFR
+
+<details><summary>Answer</summary>
+
+**D. GFR** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1317 — Glomerulotubular feedback is for regulation of
+
+Glomerulotubular feedback is for regulation of?
+
+- A. BP
+- B. Blood volume
+- C. Na+ reabsorption
+- D. Renal blood flow
+
+<details><summary>Answer</summary>
+
+**C. Na+ reabsorption** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1318 — Mesangial cell contraction is done by
+
+Mesangial cell contraction is done by?
+
+- A. cAMP
+- B. Dopamine
+- C. PAF
+- D. ANP
+
+<details><summary>Answer</summary>
+
+**C. PAF** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1319 — Mechamism of secretion of ammonia in
+
+Mechamism of secretion of ammonia in distal tubule is?
+
+- A. Primary active transport
+- B. Symport
+- C. Antiport
+- D. Passive diffusion
+
+<details><summary>Answer</summary>
+
+**D. Passive diffusion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1320 — A Substance has clearance same as
+
+A Substance has clearance same as inulin clearance, the Substarce is mainly excreted in urine by ?
+
+- A. Tubular Secretion
+- B. Glomerular filtration
+- C. Both a & b
+- D. Vascular leakage
+
+<details><summary>Answer</summary>
+
+**B. Glomerular filtration** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1321 — Normal Uninary pH is
+
+Normal Uninary pH is ?
+
+- A. 5.0 - 6.0
+- B. 6.5 - 7.0
+- C. 8.5 - 9.0
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. 6.5 - 7.0** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1322 — Increased aldosterone and ADH secretiom following
+
+Increased aldosterone and ADH secretiom following major trauma results in all the following except ?
+
+- A. Decreased Na+ excretion is urine
+- B. Increased K' excretion in urine
+- C. Increased osmolarity of urine
+- D. Increased water excretion
+
+<details><summary>Answer</summary>
+
+**D. Increased water excretion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1323 — Which carrier pump is transporting solutes
+
+Which carrier pump is transporting solutes in thick ascending limb of Henle loop?
+
+- A. Carrier pump Na-K-2Cl transporter.
+- B. NaCl- cotransporter
+- C. Na2+-H+ exchanger
+- D. Na2+-K+ exchanger
+
+<details><summary>Answer</summary>
+
+**A. Carrier pump Na-K-2Cl transporter.** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1324 — Receptive area of stomach
+
+Receptive area of stomach?
+
+- A. Antrum
+- B. Pylorus
+- C. Body
+- D. Fundus
+
+<details><summary>Answer</summary>
+
+**D. Fundus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1325 — All are seen in emphysema except
+
+All are seen in emphysema except
+
+- A. Decreased vital capacity
+- B. Hyperinflation
+- C. Rhonchi
+- D. Reduced Dlco
+
+<details><summary>Answer</summary>
+
+**C. Rhonchi** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+### Q1326 — Which of the following agents is
+
+Which of the following agents is used to measure Glomerular Filtration Rate (GFR)?
+
+- A. Iodohippurate
+- B. Tc99m-DTPA
+- C. Tc99m-MAG3
+- D. Tc99m-DMSA
+
+<details><summary>Answer</summary>
+
+**B. Tc99m-DTPA** — Source: Medicoholic 2015 PYQ compilation.
 
 </details>
 
@@ -22861,7 +21533,6 @@ Life span of neonatal RBC ?
 </details>
 
 ---
-
 ### Q1328 — CHARGE syndrome includes all except *(2015)*
 
 CHARGE syndrome includes all except ?
@@ -22878,7 +21549,6 @@ CHARGE syndrome includes all except ?
 </details>
 
 ---
-
 ### Q1329 — Neonatal resuscitation - which of the *(2015)*
 
 Neonatal resuscitation - which of the following drugs is used ?
@@ -22895,7 +21565,6 @@ Neonatal resuscitation - which of the following drugs is used ?
 </details>
 
 ---
-
 ### Q1330 — Treatment of choice for symptomatic neonatal *(2015)*
 
 Treatment of choice for symptomatic neonatal hypoglycemia is
@@ -22912,7 +21581,6 @@ Treatment of choice for symptomatic neonatal hypoglycemia is
 </details>
 
 ---
-
 ### Q1331 — of the following are causes of *(2015)*
 
 ALL of the following are causes of neonatal bradycardia except
@@ -22929,7 +21597,6 @@ ALL of the following are causes of neonatal bradycardia except
 </details>
 
 ---
-
 ### Q1332 — Kwashiorkor- Triad includes all except - *(2015)*
 
 Kwashiorkor- Triad includes all except -
@@ -22946,7 +21613,6 @@ Kwashiorkor- Triad includes all except -
 </details>
 
 ---
-
 ### Q1333 — After hepatitis B vaccination child with *(2015)*
 
 After hepatitis B vaccination child with allergic family history and pruritis involving face & convexities developed numerous umblicated vesicles; which
@@ -22982,7 +21648,6 @@ Most common ligament damaged in knee injury is
 </details>
 
 ---
-
 ### Q1335 — Ligamentum arteriosum is derived from *(2015)*
 
 Ligamentum arteriosum is derived from:
@@ -22999,7 +21664,6 @@ Ligamentum arteriosum is derived from:
 </details>
 
 ---
-
 ### Q1336 — Gastrosplenic ligament contains *(2015)*
 
 Gastrosplenic ligament contains ?
@@ -23016,7 +21680,6 @@ Gastrosplenic ligament contains ?
 </details>
 
 ---
-
 ### Q1337 — Remnant of umbilical artery *(2015)*
 
 Remnant of umbilical artery
@@ -23033,7 +21696,6 @@ Remnant of umbilical artery
 </details>
 
 ---
-
 ### Q1338 — In Celiac artery compression syndrome which *(2015)*
 
 In Celiac artery compression syndrome which structure is the main cause of compression -
@@ -23050,7 +21712,6 @@ In Celiac artery compression syndrome which structure is the main cause of compr
 </details>
 
 ---
-
 ### Q1339 — of the following are true about *(2015)*
 
 All of the following are true about the bare area of the liver except
@@ -23067,7 +21728,6 @@ All of the following are true about the bare area of the liver except
 </details>
 
 ---
-
 ### Q1340 — During perfoming a total hip replacement *(2015)*
 
 During perfoming a total hip replacement, the surgeon found destruction of the articular cartilage and rnultiple wedge shaped subchondral
@@ -23084,7 +21744,6 @@ During perfoming a total hip replacement, the surgeon found destruction of the a
 </details>
 
 ---
-
 ### Q1341 — Milwaukee Brace is used in - *(2015)*
 
 Milwaukee Brace is used in -
@@ -23101,8 +21760,6 @@ Milwaukee Brace is used in -
 </details>
 
 ---
-
-
 ### Q1342 — Which of the following prevents hyperextension
 
 Which of the following prevents hyperextension of thigh
@@ -23119,7 +21776,6 @@ Which of the following prevents hyperextension of thigh
 </details>
 
 ---
-
 ### Q1343 — All are components of Spermatic cord
 
 All are components of Spermatic cord except :
@@ -23136,7 +21792,6 @@ All are components of Spermatic cord except :
 </details>
 
 ---
-
 ### Q1344 — Which of the following is a
 
 Which of the following is a derivative of ventral mesogastrium ?
@@ -23153,7 +21808,6 @@ Which of the following is a derivative of ventral mesogastrium ?
 </details>
 
 ---
-
 ### Q1345 — All of the following are extrinsic
 
 All of the following are extrinsic laryngeal membranes except?
@@ -23170,7 +21824,6 @@ All of the following are extrinsic laryngeal membranes except?
 </details>
 
 ---
-
 ### Q1346 — Vacuum assisted closure is contraindicated in
 
 Vacuum assisted closure is contraindicated in which of the following conditions -
@@ -23187,7 +21840,6 @@ Vacuum assisted closure is contraindicated in which of the following conditions 
 </details>
 
 ---
-
 ### Q1347 — Snapping knee syndrome is due to
 
 Snapping knee syndrome is due to involvement of -
@@ -23204,7 +21856,6 @@ Snapping knee syndrome is due to involvement of -
 </details>
 
 ---
-
 ### Q1348 — Sudden dorsiflexion of foot may lead
 
 Sudden dorsiflexion of foot may lead to which of the following injuries -
@@ -23221,7 +21872,6 @@ Sudden dorsiflexion of foot may lead to which of the following injuries -
 </details>
 
 ---
-
 ### Q1349 — Not seen in anorexia nervosa
 
 Not seen in anorexia nervosa:
@@ -23257,7 +21907,6 @@ patient has a herniated intervertebral disc impinging on the right C5 nerve Whic
 </details>
 
 ---
-
 ### Q1351 — MHC-2 is present in all except *(2015)*
 
 MHC-2 is present in all except
@@ -23274,7 +21923,6 @@ MHC-2 is present in all except
 </details>
 
 ---
-
 ### Q1352 — Thymus dependent area in spleen - *(2015)*
 
 Thymus dependent area in spleen -
@@ -23291,7 +21939,6 @@ Thymus dependent area in spleen -
 </details>
 
 ---
-
 ### Q1353 — of the following are true about *(2015)*
 
 All of the following are true about vasomotor rhinitis except?
@@ -23308,7 +21955,6 @@ All of the following are true about vasomotor rhinitis except?
 </details>
 
 ---
-
 ### Q1354 — of the following are true for *(2015)*
 
 All of the following are true for retinopathy of prematurity except:
@@ -23325,7 +21971,6 @@ All of the following are true for retinopathy of prematurity except:
 </details>
 
 ---
-
 ### Q1355 — Patient of 1st degree heart block *(2015)*
 
 Patient of 1st degree heart block complains of dizziness. Best treatment for this patient is
@@ -23342,7 +21987,6 @@ Patient of 1st degree heart block complains of dizziness. Best treatment for thi
 </details>
 
 ---
-
 ### Q1356 — patient undergoing a minor surgical *(2015)*
 
 . patient undergoing a minor surgical procedure is given lignocaine Assertion: Local anaesthetics acts by blocking nerve conduction. Reason: Small fibers and non myelinated fibers are blocked more easily
@@ -23359,7 +22003,6 @@ Patient of 1st degree heart block complains of dizziness. Best treatment for thi
 </details>
 
 ---
-
 ### Q1357 — Club foot clinically present as what *(2015)*
 
 Club foot clinically present as what deformity ?
@@ -23376,8 +22019,6 @@ Club foot clinically present as what deformity ?
 </details>
 
 ---
-
-
 ### Q1358 — Content of anatomical snuffbox
 
 Content of anatomical snuffbox
@@ -23394,7 +22035,6 @@ Content of anatomical snuffbox
 </details>
 
 ---
-
 ### Q1359 — 3rd extensor compartment of wrist contains
 
 3rd extensor compartment of wrist contains tendon of ?
@@ -23411,7 +22051,6 @@ Content of anatomical snuffbox
 </details>
 
 ---
-
 ### Q1360 — Which of the following represent the
 
 Which of the following represent the commonest variation in the arteries arising from the arch of aorta?
@@ -23428,7 +22067,6 @@ Which of the following represent the commonest variation in the arteries arising
 </details>
 
 ---
-
 ### Q1361 — Which structure does not pass through
 
 Which structure does not pass through superior thoracic aperture -
@@ -23445,7 +22083,6 @@ Which structure does not pass through superior thoracic aperture -
 </details>
 
 ---
-
 ### Q1362 — True about anatomy of right ventricle
 
 True about anatomy of right ventricle:
@@ -23462,7 +22099,6 @@ True about anatomy of right ventricle:
 </details>
 
 ---
-
 ### Q1363 — Haustrations are present in -
 
 Haustrations are present in -
@@ -23479,7 +22115,6 @@ Haustrations are present in -
 </details>
 
 ---
-
 ### Q1364 — Secretomotor fibers to parotid glands are
 
 Secretomotor fibers to parotid glands are through -
@@ -23496,7 +22131,6 @@ Secretomotor fibers to parotid glands are through -
 </details>
 
 ---
-
 ### Q1365 — Which of the following is pure
 
 Which of the following is pure sensory nerve ?
@@ -23513,7 +22147,6 @@ Which of the following is pure sensory nerve ?
 </details>
 
 ---
-
 ### Q1366 — Oxyntic cells are present in -
 
 Oxyntic cells are present in -
@@ -23530,7 +22163,6 @@ Oxyntic cells are present in -
 </details>
 
 ---
-
 ### Q1367 — Seminal colliculus is present in
 
 Seminal colliculus is present in ?
@@ -23547,7 +22179,6 @@ Seminal colliculus is present in ?
 </details>
 
 ---
-
 ### Q1368 — Tronsport process which is against concentration
 
 Tronsport process which is against concentration gradient and carrier mediated is ?
@@ -23564,7 +22195,6 @@ Tronsport process which is against concentration gradient and carrier mediated i
 </details>
 
 ---
-
 ### Q1369 — Similarity between active transport and facilitate
 
 Similarity between active transport and facilitated diffusion ?
@@ -23581,7 +22211,6 @@ Similarity between active transport and facilitated diffusion ?
 </details>
 
 ---
-
 ### Q1370 — True about ENaC are all except
 
 True about ENaC are all except ?
@@ -23598,7 +22227,6 @@ True about ENaC are all except ?
 </details>
 
 ---
-
 ### Q1371 — Most recent taste sensation is
 
 Most recent taste sensation is?
@@ -23615,7 +22243,6 @@ Most recent taste sensation is?
 </details>
 
 ---
-
 ### Q1372 — In electromyograply EMG transient response at
 
 In electromyograply [EMG] transient response at the time of insertion of eloctrode indicates ?
@@ -23632,7 +22259,6 @@ In electromyograply [EMG] transient response at the time of insertion of eloctro
 </details>
 
 ---
-
 ### Q1373 — Dolls eye reflex is used in
 
 Doll's eye reflex is used in?
@@ -23649,7 +22275,6 @@ Doll's eye reflex is used in?
 </details>
 
 ---
-
 ### Q1374 — Which of the following statement is
 
 Which of the following statement is TRUE about Bohr's effect?
@@ -23666,7 +22291,6 @@ Which of the following statement is TRUE about Bohr's effect?
 </details>
 
 ---
-
 ### Q1375 — ST Segment of ECG Corresponds to
 
 ST Segment of ECG Corresponds to ?
@@ -23683,7 +22307,6 @@ ST Segment of ECG Corresponds to ?
 </details>
 
 ---
-
 ### Q1376 — In an ECG the cardiac event
 
 In an ECG the cardiac event corresponding to the ST segment is:
@@ -23700,7 +22323,6 @@ In an ECG the cardiac event corresponding to the ST segment is:
 </details>
 
 ---
-
 ### Q1377 — GFR measurement help in determining
 
 GFR measurement help in determining ?
@@ -23717,7 +22339,6 @@ GFR measurement help in determining ?
 </details>
 
 ---
-
 ### Q1378 — Not a content of sperm
 
 Not a content of sperm ?
@@ -23734,7 +22355,6 @@ Not a content of sperm ?
 </details>
 
 ---
-
 ### Q1379 — Respiratery quotient is the Ratio of
 
 Respiratery quotient is the Ratio of -
@@ -23751,7 +22371,6 @@ Respiratery quotient is the Ratio of -
 </details>
 
 ---
-
 ### Q1380 — Intercalated disc is present in
 
 Intercalated disc is present in:
@@ -23768,7 +22387,6 @@ Intercalated disc is present in:
 </details>
 
 ---
-
 ### Q1381 — Regarding Caissons disease which statement among
 
 Regarding Caisson's disease which statement among the following is CORRECT?
@@ -23785,7 +22403,6 @@ Regarding Caisson's disease which statement among the following is CORRECT?
 </details>
 
 ---
-
 ### Q1382 — Enzyme deficient in Hers disease -
 
 Enzyme deficient in Hers disease -
@@ -23802,7 +22419,6 @@ Enzyme deficient in Hers disease -
 </details>
 
 ---
-
 ### Q1383 — Which of the following enzyme is
 
 Which of the following enzyme is not a component of fatty acid synthase complex?
@@ -23819,7 +22435,6 @@ Which of the following enzyme is not a component of fatty acid synthase complex?
 </details>
 
 ---
-
 ### Q1384 — Amide group is present in which
 
 Amide group is present in which part of protein -
@@ -23836,7 +22451,6 @@ Amide group is present in which part of protein -
 </details>
 
 ---
-
 ### Q1385 — Respiratory quotient of carbohydrate is
 
 Respiratory quotient of carbohydrate is:
@@ -23853,7 +22467,6 @@ Respiratory quotient of carbohydrate is:
 </details>
 
 ---
-
 ### Q1386 — If content of A is 15,
 
 If content of A is 15%, what is the amount of G in DNA according to Chargaff s rule?
@@ -23870,7 +22483,6 @@ If content of A is 15%, what is the amount of G in DNA according to Chargaff s r
 </details>
 
 ---
-
 ### Q1387 — cDNA from RNA is synthesized by
 
 cDNA from RNA is synthesized by -
@@ -23887,7 +22499,6 @@ cDNA from RNA is synthesized by -
 </details>
 
 ---
-
 ### Q1388 — Side chain linkage in proteoglycons -
 
 Side chain linkage in proteoglycons -
@@ -23904,7 +22515,6 @@ Side chain linkage in proteoglycons -
 </details>
 
 ---
-
 ### Q1389 — Lipofuscin is
 
 Lipofuscin is
@@ -23921,7 +22531,6 @@ Lipofuscin is
 </details>
 
 ---
-
 ### Q1390 — Following are seen in polycythemia vera
 
 Following are seen in polycythemia vera except:
@@ -23938,7 +22547,6 @@ Following are seen in polycythemia vera except:
 </details>
 
 ---
-
 ### Q1391 — Characteristic feature of IgA nephropathy -
 
 Characteristic feature of IgA nephropathy -
@@ -23955,7 +22563,6 @@ Characteristic feature of IgA nephropathy -
 </details>
 
 ---
-
 ### Q1392 — IgA nephropathyis not associatedwith
 
 IgA nephropathyis not associatedwith?
@@ -23972,7 +22579,6 @@ IgA nephropathyis not associatedwith?
 </details>
 
 ---
-
 ### Q1393 — Skin involvement along with collar stud
 
 Skin involvement along with collar stud ulceration in intestine on radiography. Diagnosis is -
@@ -23989,7 +22595,6 @@ Skin involvement along with collar stud ulceration in intestine on radiography. 
 </details>
 
 ---
-
 ### Q1394 — Feature of microscopic polyangitis is
 
 Feature of microscopic polyangitis is:
@@ -24006,7 +22611,6 @@ Feature of microscopic polyangitis is:
 </details>
 
 ---
-
 ### Q1395 — First order kinetics is
 
 First order kinetics is:
@@ -24023,7 +22627,6 @@ First order kinetics is:
 </details>
 
 ---
-
 ### Q1396 — Beta-blocker should be used with
 
 . Beta-blocker should be used with caution in patient of -
@@ -24040,7 +22643,6 @@ First order kinetics is:
 </details>
 
 ---
-
 ### Q1397 — Which of the following drug is
 
 Which of the following drug is not used in the treatment of akathisia?
@@ -24057,7 +22659,6 @@ Which of the following drug is not used in the treatment of akathisia?
 </details>
 
 ---
-
 ### Q1398 — True about oral iron preparations
 
 True about oral iron preparations ?
@@ -24074,7 +22675,6 @@ True about oral iron preparations ?
 </details>
 
 ---
-
 ### Q1399 — Specific feature of simvastatin
 
 Specific feature of simvastatin ?
@@ -24091,7 +22691,6 @@ Specific feature of simvastatin ?
 </details>
 
 ---
-
 ### Q1400 — Antitubercular drug which makes the patient
 
 Antitubercular drug which makes the patient non-infective earliest ?
@@ -24108,7 +22707,6 @@ Antitubercular drug which makes the patient non-infective earliest ?
 </details>
 
 ---
-
 ### Q1401 — Which among the following is present
 
 Which among the following is present only in iv [intravenous] form -
@@ -24125,7 +22723,6 @@ Which among the following is present only in iv [intravenous] form -
 </details>
 
 ---
-
 ### Q1402 — Emtricitabine is classified as
 
 Emtricitabine is classified as?
@@ -24142,7 +22739,6 @@ Emtricitabine is classified as?
 </details>
 
 ---
-
 ### Q1403 — Emtricitabine is aan
 
 Emtricitabine is a/an ?
@@ -24159,7 +22755,6 @@ Emtricitabine is a/an ?
 </details>
 
 ---
-
 ### Q1404 — Duration of erythromycin used in treatment
 
 Duration of erythromycin used in treatment of diphtheria is ?
@@ -24176,7 +22771,6 @@ Duration of erythromycin used in treatment of diphtheria is ?
 </details>
 
 ---
-
 ### Q1405 — Capecitabine belongs to which class of
 
 Capecitabine belongs to which class of anticancer drug?
@@ -24193,7 +22787,6 @@ Capecitabine belongs to which class of anticancer drug?
 </details>
 
 ---
-
 ### Q1406 — IC content of Ringers lactate mmolL
 
 IC content of Ringer's lactate [mmol/L] ?
@@ -24210,7 +22803,6 @@ IC content of Ringer's lactate [mmol/L] ?
 </details>
 
 ---
-
 ### Q1407 — IPC 304B is related to -
 
 IPC 304B is related to -
@@ -24227,7 +22819,6 @@ IPC 304B is related to -
 </details>
 
 ---
-
 ### Q1408 — IPC 201 is for -
 
 IPC 201 is for -
@@ -24244,7 +22835,6 @@ IPC 201 is for -
 </details>
 
 ---
-
 ### Q1409 — Extra permanent tooth to erupt is
 
 Extra permanent tooth to erupt is -
@@ -24261,7 +22851,6 @@ Extra permanent tooth to erupt is -
 </details>
 
 ---
-
 ### Q1410 — True about finger printing is -
 
 True about finger printing is -
@@ -24278,7 +22867,6 @@ True about finger printing is -
 </details>
 
 ---
-
 ### Q1411 — False about declaration of brain stem
 
 False about declaration of brain stem death in hospital -
@@ -24295,7 +22883,6 @@ False about declaration of brain stem death in hospital -
 </details>
 
 ---
-
 ### Q1412 — Negative autopsy is defined as -
 
 Negative autopsy is defined as -
@@ -24312,7 +22899,6 @@ Negative autopsy is defined as -
 </details>
 
 ---
-
 ### Q1413 — In a patient of unilateral loss
 
 In a patient of unilateral loss of vision, the patient had injury to opposite eye leading to corneal opacification. The patient was operated by corneal grafting,
@@ -24329,7 +22915,6 @@ In a patient of unilateral loss of vision, the patient had injury to opposite ey
 </details>
 
 ---
-
 ### Q1414 — True about universal precautions are all
 
 True about universal precautions are all except -
@@ -24346,7 +22931,6 @@ True about universal precautions are all except -
 </details>
 
 ---
-
 ### Q1415 — Not ture about El Tor biotype
 
 Not ture about El Tor biotype of vibrio cholerae?
@@ -24363,7 +22947,6 @@ Not ture about El Tor biotype of vibrio cholerae?
 </details>
 
 ---
-
 ### Q1416 — All are true about chromobacteritun violaceum
 
 All are true about chromobacteritun violaceum except?
@@ -24380,7 +22963,6 @@ All are true about chromobacteritun violaceum except?
 </details>
 
 ---
-
 ### Q1417 — Brill-Zinsser disease is
 
 Brill-Zinsser disease is:
@@ -24397,7 +22979,6 @@ Brill-Zinsser disease is:
 </details>
 
 ---
-
 ### Q1418 — Hebra nose is caused by
 
 Hebra nose is caused by:
@@ -24414,7 +22995,6 @@ Hebra nose is caused by:
 </details>
 
 ---
-
 ### Q1419 — Absence of Vi-antibody in a typhoid
 
 Absence of Vi-antibody in a typhoid patient has:
@@ -24431,7 +23011,6 @@ Absence of Vi-antibody in a typhoid patient has:
 </details>
 
 ---
-
 ### Q1420 — True about corynebacterium diphtheriae
 
 True about corynebacterium diphtheriae:
@@ -24448,7 +23027,6 @@ True about corynebacterium diphtheriae:
 </details>
 
 ---
-
 ### Q1421 — Which of the following cell types
 
 Which of the following cell types are the most potent activator of T-cell ?
@@ -24465,7 +23043,6 @@ Which of the following cell types are the most potent activator of T-cell ?
 </details>
 
 ---
-
 ### Q1422 — Rose waaler test is -
 
 Rose waaler test is -
@@ -24482,7 +23059,6 @@ Rose waaler test is -
 </details>
 
 ---
-
 ### Q1423 — Complement Fixation test is
 
 Complement Fixation test is:
@@ -24499,7 +23075,6 @@ Complement Fixation test is:
 </details>
 
 ---
-
 ### Q1424 — Which of the following complement factors
 
 Which of the following complement factors is a marker of humoral rejection?
@@ -24516,7 +23091,6 @@ Which of the following complement factors is a marker of humoral rejection?
 </details>
 
 ---
-
 ### Q1425 — Lattice phenomenon is seen in -
 
 Lattice phenomenon is seen in -
@@ -24533,7 +23107,6 @@ Lattice phenomenon is seen in -
 </details>
 
 ---
-
 ### Q1426 — Complement deficiency has not been implicated
 
 Complement deficiency has not been implicated in causing ?
@@ -24550,7 +23123,6 @@ Complement deficiency has not been implicated in causing ?
 </details>
 
 ---
-
 ### Q1427 — When transfer factor is given as
 
 When transfer factor is given as treatment results in -
@@ -24567,7 +23139,6 @@ When transfer factor is given as treatment results in -
 </details>
 
 ---
-
 ### Q1428 — Common variable deficiency is due to
 
 Common variable deficiency is due to -
@@ -24584,7 +23155,6 @@ Common variable deficiency is due to -
 </details>
 
 ---
-
 ### Q1429 — Human development index includes all except
 
 Human development index includes all except ?
@@ -24601,7 +23171,6 @@ Human development index includes all except ?
 </details>
 
 ---
-
 ### Q1430 — Reservoir is defined as
 
 Reservoir is defined as ?
@@ -24618,7 +23187,6 @@ Reservoir is defined as ?
 </details>
 
 ---
-
 ### Q1431 — Benefit of screening is
 
 Benefit of screening is ?
@@ -24635,7 +23203,6 @@ Benefit of screening is ?
 </details>
 
 ---
-
 ### Q1432 — Multiphasic screening means-
 
 Multiphasic screening means-
@@ -24652,7 +23219,6 @@ Multiphasic screening means-
 </details>
 
 ---
-
 ### Q1433 — Slection bias occurs during
 
 Slection bias occurs during ?
@@ -24669,7 +23235,6 @@ Slection bias occurs during ?
 </details>
 
 ---
-
 ### Q1434 — Disinfection of urine is which type
 
 Disinfection of urine is which type of disinfection ?
@@ -24686,7 +23251,6 @@ Disinfection of urine is which type of disinfection ?
 </details>
 
 ---
-
 ### Q1435 — Not used for treatment andor prophylaxis
 
 Not used for treatment and/or prophylaxis of seasonal influenza -
@@ -24703,7 +23267,6 @@ Not used for treatment and/or prophylaxis of seasonal influenza -
 </details>
 
 ---
-
 ### Q1436 — Rideal-walker coefficient for disinfectant used fo
 
 Rideal-walker coefficient for disinfectant used for cholera stool should be ?
@@ -24720,7 +23283,6 @@ Rideal-walker coefficient for disinfectant used for cholera stool should be ?
 </details>
 
 ---
-
 ### Q1437 — Protein quality assessment is best done
 
 Protein quality assessment is best done by ?
@@ -24737,7 +23299,6 @@ Protein quality assessment is best done by ?
 </details>
 
 ---
-
 ### Q1438 — Nutrient which is lost maximum in
 
 Nutrient which is lost maximum in polished rice?
@@ -24754,7 +23315,6 @@ Nutrient which is lost maximum in polished rice?
 </details>
 
 ---
-
 ### Q1439 — Caloric requirement in an adult male
 
 Caloric requirement in an adult male for heavy work?
@@ -24771,7 +23331,6 @@ Caloric requirement in an adult male for heavy work?
 </details>
 
 ---
-
 ### Q1440 — True about culex larvae
 
 True about culex larvae ?
@@ -24788,7 +23347,6 @@ True about culex larvae ?
 </details>
 
 ---
-
 ### Q1441 — In disaster management all are true
 
 In disaster management all are true except
@@ -24805,7 +23363,6 @@ In disaster management all are true except
 </details>
 
 ---
-
 ### Q1442 — In disaster management following are practiced
 
 In disaster management following are practiced except
@@ -24822,7 +23379,6 @@ In disaster management following are practiced except
 </details>
 
 ---
-
 ### Q1443 — All are true for ASHA worker
 
 All are true for ASHA worker EXCEPT:
@@ -24839,7 +23395,6 @@ All are true for ASHA worker EXCEPT:
 </details>
 
 ---
-
 ### Q1444 — Observation under nursing care for 24
 
 Observation under nursing care for 24 hours in an hospital is defined as ?
@@ -24856,7 +23411,6 @@ Observation under nursing care for 24 hours in an hospital is defined as ?
 </details>
 
 ---
-
 ### Q1445 — Under RNTCP, DOTS provider gets how
 
 Under RNTCP, DOTS provider gets how much honorarium after completion of treatment ?
@@ -24873,7 +23427,6 @@ Under RNTCP, DOTS provider gets how much honorarium after completion of treatmen
 </details>
 
 ---
-
 ### Q1446 — All of the following are are
 
 All of the following are are a part of medial wall of the middle ear except?
@@ -24890,7 +23443,6 @@ All of the following are are a part of medial wall of the middle ear except?
 </details>
 
 ---
-
 ### Q1447 — Ceruminous glands present in the ear
 
 Ceruminous glands present in the ear are:
@@ -24907,7 +23459,6 @@ Ceruminous glands present in the ear are:
 </details>
 
 ---
-
 ### Q1448 — Afollowing patient with ear complaints showed
 
 Afollowing patient with ear complaints showed positive Hennebert sign. Which of the condition shows positive Hennebert sign?
@@ -24924,7 +23475,6 @@ Afollowing patient with ear complaints showed positive Hennebert sign. Which of 
 </details>
 
 ---
-
 ### Q1449 — Chemical labyrinthectomy by transtympanic route is
 
 Chemical labyrinthectomy by transtympanic route is done in Meniere's disease using which drug?
@@ -24941,7 +23491,6 @@ Chemical labyrinthectomy by transtympanic route is done in Meniere's disease usi
 </details>
 
 ---
-
 ### Q1450 — Which perforation of the tympanic membrane
 
 Which perforation of the tympanic membrane is most commonly seen with tubotympanic CSOM?
@@ -24958,7 +23507,6 @@ Which perforation of the tympanic membrane is most commonly seen with tubotympan
 </details>
 
 ---
-
 ### Q1451 — Histelbergers sign is seen in
 
 Histelberger's sign is seen in?
@@ -24975,7 +23523,6 @@ Histelberger's sign is seen in?
 </details>
 
 ---
-
 ### Q1452 — Saddle nose deformity is seen in
 
 Saddle nose deformity is seen in?
@@ -24992,7 +23539,6 @@ Saddle nose deformity is seen in?
 </details>
 
 ---
-
 ### Q1453 — What is the treatment of choice
 
 What is the treatment of choice for ethmoidal polyps?
@@ -25009,7 +23555,6 @@ What is the treatment of choice for ethmoidal polyps?
 </details>
 
 ---
-
 ### Q1454 — Intrathecal fluorescein with endoscopic visualizat
 
 Intrathecal fluorescein with endoscopic visualization is useful in diagnosis of?
@@ -25026,7 +23571,6 @@ Intrathecal fluorescein with endoscopic visualization is useful in diagnosis of?
 </details>
 
 ---
-
 ### Q1455 — All of the following are features
 
 All of the following are features of a nasal foreign body except?
@@ -25043,7 +23587,6 @@ All of the following are features of a nasal foreign body except?
 </details>
 
 ---
-
 ### Q1456 — All of the following are true
 
 All of the following are true about nasal myiasis except?
@@ -25060,7 +23603,6 @@ All of the following are true about nasal myiasis except?
 </details>
 
 ---
-
 ### Q1457 — All of the following are features
 
 All of the following are features of enlarged adenoids except?
@@ -25077,7 +23619,6 @@ All of the following are features of enlarged adenoids except?
 </details>
 
 ---
-
 ### Q1458 — All of the following are true
 
 All of the following are true about Spasmoidic Dysphonia except ?
@@ -25094,7 +23635,6 @@ All of the following are true about Spasmoidic Dysphonia except ?
 </details>
 
 ---
-
 ### Q1459 — Which of the following cancers do
 
 Which of the following cancers do not present with cervical lymphnode involvement?
@@ -25111,7 +23651,6 @@ Which of the following cancers do not present with cervical lymphnode involvemen
 </details>
 
 ---
-
 ### Q1460 — All of the following are indications
 
 All of the following are indications for tracheostomy except ?
@@ -25128,7 +23667,6 @@ All of the following are indications for tracheostomy except ?
 </details>
 
 ---
-
 ### Q1461 — Submucosal resection is the treatment of
 
 Submucosal resection is the treatment of choice of?
@@ -25145,7 +23683,6 @@ Submucosal resection is the treatment of choice of?
 </details>
 
 ---
-
 ### Q1462 — All of the following are complications
 
 All of the following are complications of maxillary sinus lavage and insufflation except?
@@ -25162,7 +23699,6 @@ All of the following are complications of maxillary sinus lavage and insufflatio
 </details>
 
 ---
-
 ### Q1463 — All of the following are features
 
 All of the following are features of Tubotympanic CSOM except ?
@@ -25179,7 +23715,6 @@ All of the following are features of Tubotympanic CSOM except ?
 </details>
 
 ---
-
 ### Q1464 — Features of Ushers Syndrome include all
 
 Features of Usher's Syndrome include all except ?
@@ -25196,7 +23731,6 @@ Features of Usher's Syndrome include all except ?
 </details>
 
 ---
-
 ### Q1465 — Ansiokonia is
 
 Ansiokonia is ?
@@ -25213,7 +23747,6 @@ Ansiokonia is ?
 </details>
 
 ---
-
 ### Q1466 — Strabismic amblyopia is more common in
 
 Strabismic amblyopia is more common in patients with:
@@ -25230,7 +23763,6 @@ Strabismic amblyopia is more common in patients with:
 </details>
 
 ---
-
 ### Q1467 — Astigmatism is defined as
 
 Astigmatism is defined as ?
@@ -25247,7 +23779,6 @@ Astigmatism is defined as ?
 </details>
 
 ---
-
 ### Q1468 — Pterygium all are true except
 
 Pterygium all are true except:
@@ -25264,7 +23795,6 @@ Pterygium all are true except:
 </details>
 
 ---
-
 ### Q1469 — 1mm change axial length of the
 
 1mm change axial length of the eyeball would change the refracting power of the eye by ?
@@ -25281,7 +23811,6 @@ Pterygium all are true except:
 </details>
 
 ---
-
 ### Q1470 — Subconjunctival hemorrhages are evident in the
 
 Subconjunctival hemorrhages are evident in the following cases except ?
@@ -25298,7 +23827,6 @@ Subconjunctival hemorrhages are evident in the following cases except ?
 </details>
 
 ---
-
 ### Q1471 — Kayser- Fleischer rings (KF rings) are
 
 Kayser- Fleischer rings (KF rings) are seen in:
@@ -25315,7 +23843,6 @@ Kayser- Fleischer rings (KF rings) are seen in:
 </details>
 
 ---
-
 ### Q1472 — All of the following are true
 
 All of the following are true for sympathetic ophthalmitis except:
@@ -25332,7 +23859,6 @@ All of the following are true for sympathetic ophthalmitis except:
 </details>
 
 ---
-
 ### Q1473 — The zonules suspending the lens are
 
 The zonules suspending the lens are attached to the?
@@ -25349,7 +23875,6 @@ The zonules suspending the lens are attached to the?
 </details>
 
 ---
-
 ### Q1474 — Lens attached to ciliary body via
 
 Lens attached to ciliary body via ?
@@ -25366,7 +23891,6 @@ Lens attached to ciliary body via ?
 </details>
 
 ---
-
 ### Q1475 — Non foldable lens is made of
 
 Non foldable lens is made of -
@@ -25383,7 +23907,6 @@ Non foldable lens is made of -
 </details>
 
 ---
-
 ### Q1476 — Rigid gas permeable lens are made
 
 Rigid gas permeable lens are made of-
@@ -25400,7 +23923,6 @@ Rigid gas permeable lens are made of-
 </details>
 
 ---
-
 ### Q1477 — Axial length of eye ball is
 
 Axial length of eye ball is measured by ?
@@ -25417,7 +23939,6 @@ Axial length of eye ball is measured by ?
 </details>
 
 ---
-
 ### Q1478 — Vossius ring occurs in
 
 Vossius ring occurs in
@@ -25434,7 +23955,6 @@ Vossius ring occurs in
 </details>
 
 ---
-
 ### Q1479 — Feature (s) of Infantile glaucoma isare
 
 Feature (s) of Infantile glaucoma is/are except:
@@ -25451,7 +23971,6 @@ Feature (s) of Infantile glaucoma is/are except:
 </details>
 
 ---
-
 ### Q1480 — Mioitcs are treatment of choice for
 
 Mioitcs are treatment of choice for ?
@@ -25468,7 +23987,6 @@ Mioitcs are treatment of choice for ?
 </details>
 
 ---
-
 ### Q1481 — Glaucoma drainage devices
 
 Glaucoma drainage devices ?
@@ -25485,7 +24003,6 @@ Glaucoma drainage devices ?
 </details>
 
 ---
-
 ### Q1482 — year old woman presents Sudden painless
 
 A patient (age not captured in source) who is a year old woman presents Sudden painless loss of vision with history of previous similar episode fundoscopy shows no glow. What could be the
@@ -25502,7 +24019,6 @@ A patient (age not captured in source) who is a year old woman presents Sudden p
 </details>
 
 ---
-
 ### Q1483 — Retinopathy of prematurity is commonly predisposed
 
 Retinopathy of prematurity is commonly predisposed by-
@@ -25519,7 +24035,6 @@ Retinopathy of prematurity is commonly predisposed by-
 </details>
 
 ---
-
 ### Q1484 — Eales disease is
 
 Eales disease is:
@@ -25536,7 +24051,6 @@ Eales disease is:
 </details>
 
 ---
-
 ### Q1485 — What is false about Eales disease
 
 What is false about Eale's disease amongst the followwing?
@@ -25553,7 +24067,6 @@ What is false about Eale's disease amongst the followwing?
 </details>
 
 ---
-
 ### Q1486 — Snowball appearance is seen in
 
 Snowball appearance is seen in ?
@@ -25570,7 +24083,6 @@ Snowball appearance is seen in ?
 </details>
 
 ---
-
 ### Q1487 — Subhyaloid hemorrhage is
 
 Subhyaloid hemorrhage is ?
@@ -25587,7 +24099,6 @@ Subhyaloid hemorrhage is ?
 </details>
 
 ---
-
 ### Q1488 — Most common age related change in
 
 Most common age related change in vitreous ?
@@ -25604,7 +24115,6 @@ Most common age related change in vitreous ?
 </details>
 
 ---
-
 ### Q1489 — Muscae volitantes is seen in
 
 Muscae volitantes is seen in ?
@@ -25621,7 +24131,6 @@ Muscae volitantes is seen in ?
 </details>
 
 ---
-
 ### Q1490 — Anisocoria in Horners syndrome is due
 
 Anisocoria in Horner's syndrome is due to
@@ -25638,7 +24147,6 @@ Anisocoria in Horner's syndrome is due to
 </details>
 
 ---
-
 ### Q1491 — The most common type of strabismus
 
 The most common type of strabismus seen in myopes is?
@@ -25655,7 +24163,6 @@ The most common type of strabismus seen in myopes is?
 </details>
 
 ---
-
 ### Q1492 — Dalrymples sign of ocular Graves disease
 
 Dalrymple's sign of ocular Graves' disease refers to:
@@ -25672,7 +24179,6 @@ Dalrymple's sign of ocular Graves' disease refers to:
 </details>
 
 ---
-
 ### Q1493 — D Shaped pupil is seen in
 
 D Shaped pupil is seen in ?
@@ -25689,7 +24195,6 @@ D Shaped pupil is seen in ?
 </details>
 
 ---
-
 ### Q1494 — Pulsatile proptosis is a feature of
 
 Pulsatile proptosis is a feature of ?
@@ -25706,7 +24211,6 @@ Pulsatile proptosis is a feature of ?
 </details>
 
 ---
-
 ### Q1495 — What is the most common eye
 
 What is the most common eye lesion in HIV?
@@ -25723,7 +24227,6 @@ What is the most common eye lesion in HIV?
 </details>
 
 ---
-
 ### Q1496 — Parasitosis of extraocular eye muscles is
 
 Parasitosis of extraocular eye muscles is seen in?
@@ -25740,7 +24243,6 @@ Parasitosis of extraocular eye muscles is seen in?
 </details>
 
 ---
-
 ### Q1497 — The principle of total internal reflection
 
 The principle of total internal reflection is used by?
@@ -25757,7 +24259,6 @@ The principle of total internal reflection is used by?
 </details>
 
 ---
-
 ### Q1498 — Immediate treatment of acute dacryocystitis is
 
 Immediate treatment of acute dacryocystitis is?
@@ -25774,7 +24275,6 @@ Immediate treatment of acute dacryocystitis is?
 </details>
 
 ---
-
 ### Q1499 — Aspirin-sensitive asthma is associated with
 
 Aspirin-sensitive asthma is associated with:
@@ -25791,7 +24291,6 @@ Aspirin-sensitive asthma is associated with:
 </details>
 
 ---
-
 ### Q1500 — Which of the following is seen
 
 Which of the following is seen in sarcoidosis
@@ -25808,7 +24307,6 @@ Which of the following is seen in sarcoidosis
 </details>
 
 ---
-
 ### Q1501 — In a patient with COPD, best
 
 In a patient with COPD, best management option is
@@ -25825,7 +24323,6 @@ In a patient with COPD, best management option is
 </details>
 
 ---
-
 ### Q1502 — In a patient there is dyspnea
 
 In a patient there is dyspnea in upright position which is relieved in supine position, Diagnosis ?
@@ -25842,7 +24339,6 @@ In a patient there is dyspnea in upright position which is relieved in supine po
 </details>
 
 ---
-
 ### Q1503 — Clicking noise in Pneumomediastinum is known
 
 Clicking noise in Pneumomediastinum is known as
@@ -25859,7 +24355,6 @@ Clicking noise in Pneumomediastinum is known as
 </details>
 
 ---
-
 ### Q1504 — Emphysema presents with all except
 
 Emphysema presents with all except
@@ -25876,7 +24371,6 @@ Emphysema presents with all except
 </details>
 
 ---
-
 ### Q1505 — Most common cause of pleural effusion
 
 Most common cause of pleural effusion in AIDS patients
@@ -25893,7 +24387,6 @@ Most common cause of pleural effusion in AIDS patients
 </details>
 
 ---
-
 ### Q1506 — If a person is having ventriular
 
 If a person is having ventriular tachycardia, extra systoles appears to
@@ -25910,7 +24403,6 @@ If a person is having ventriular tachycardia, extra systoles appears to
 </details>
 
 ---
-
 ### Q1507 — Most common arrhythmia in ICU patients
 
 Most common arrhythmia in ICU patients -
@@ -25927,7 +24419,6 @@ Most common arrhythmia in ICU patients -
 </details>
 
 ---
-
 ### Q1508 — Most common mechanism of arrhythmia
 
 Most common mechanism of arrhythmia
@@ -25944,7 +24435,6 @@ Most common mechanism of arrhythmia
 </details>
 
 ---
-
 ### Q1509 — Not recommended in coronary artery disease
 
 Not recommended in coronary artery disease patients
@@ -25961,7 +24451,6 @@ Not recommended in coronary artery disease patients
 </details>
 
 ---
-
 ### Q1510 — Digitalis is used in mitral stenosis
 
 Digitalis is used in mitral stenosis when patient develops
@@ -25978,7 +24467,6 @@ Digitalis is used in mitral stenosis when patient develops
 </details>
 
 ---
-
 ### Q1511 — Which is the best way to
 
 Which is the best way to differentiate between stable angina and NSTEMI?
@@ -25995,7 +24483,6 @@ Which is the best way to differentiate between stable angina and NSTEMI?
 </details>
 
 ---
-
 ### Q1512 — Aetiology of Dressler Syndrome is
 
 Aetiology of Dressler Syndrome is
@@ -26012,7 +24499,6 @@ Aetiology of Dressler Syndrome is
 </details>
 
 ---
-
 ### Q1513 — Predisposing factors for coronary artery disease
 
 Predisposing factors for coronary artery disease include, all Except:
@@ -26029,7 +24515,6 @@ Predisposing factors for coronary artery disease include, all Except:
 </details>
 
 ---
-
 ### Q1514 — Murmur heard in aortic stenosis
 
 Murmur heard in aortic stenosis
@@ -26046,7 +24531,6 @@ Murmur heard in aortic stenosis
 </details>
 
 ---
-
 ### Q1515 — Basket weave appearance of glomerular basement
 
 Basket weave appearance of glomerular basement membrane on electron microscopy is seen in
@@ -26063,7 +24547,6 @@ Basket weave appearance of glomerular basement membrane on electron microscopy i
 </details>
 
 ---
-
 ### Q1516 — All are true about GFR except
 
 All are true about GFR except
@@ -26080,7 +24563,6 @@ All are true about GFR except
 </details>
 
 ---
-
 ### Q1517 — Which is a hormone dependent liver
 
 Which is a hormone dependent liver tumor ?
@@ -26097,7 +24579,6 @@ Which is a hormone dependent liver tumor ?
 </details>
 
 ---
-
 ### Q1518 — HAM test is based upon
 
 HAM test is based upon :
@@ -26114,7 +24595,6 @@ HAM test is based upon :
 </details>
 
 ---
-
 ### Q1519 — All are true about CNS leukemia
 
 All are true about CNS leukemia except
@@ -26131,7 +24611,6 @@ All are true about CNS leukemia except
 </details>
 
 ---
-
 ### Q1520 — Patient on insulin in CKD stage
 
 Patient on insulin in CKD stage 4. What is the dose adjustment of insulin required ?
@@ -26148,7 +24627,6 @@ Patient on insulin in CKD stage 4. What is the dose adjustment of insulin requir
 </details>
 
 ---
-
 ### Q1521 — A patient after an accident was
 
 A patient after an accident was unconscious. On physical examination there was unilateral pupillary dilatation Possible reason for the same is
@@ -26165,7 +24643,6 @@ A patient after an accident was unconscious. On physical examination there was u
 </details>
 
 ---
-
 ### Q1522 — Commonest cause of cerebro vascular accident
 
 Commonest cause of cerebro vascular accident
@@ -26182,7 +24659,6 @@ Commonest cause of cerebro vascular accident
 </details>
 
 ---
-
 ### Q1523 — Criteria for Brainstem death includes
 
 Criteria for Brainstem death includes:
@@ -26199,7 +24675,6 @@ Criteria for Brainstem death includes:
 </details>
 
 ---
-
 ### Q1524 — The following are components of Brown
 
 The following are components of Brown Sequard syndrome except :
@@ -26216,7 +24691,6 @@ The following are components of Brown Sequard syndrome except :
 </details>
 
 ---
-
 ### Q1525 — DOC for treatment of SSPE -
 
 DOC for treatment of SSPE -
@@ -26233,7 +24707,6 @@ DOC for treatment of SSPE -
 </details>
 
 ---
-
 ### Q1526 — Aspirin decreases the risk of development
 
 Aspirin decreases the risk of development of which of the following -
@@ -26250,7 +24723,6 @@ Aspirin decreases the risk of development of which of the following -
 </details>
 
 ---
-
 ### Q1527 — Mosaic pattern of coment line is
 
 Mosaic pattern of coment line is characteristically seen in -
@@ -26267,7 +24739,6 @@ Mosaic pattern of coment line is characteristically seen in -
 </details>
 
 ---
-
 ### Q1528 — All of the following are true
 
 All of the following are true about Gout, except:-
@@ -26284,7 +24755,6 @@ All of the following are true about Gout, except:-
 </details>
 
 ---
-
 ### Q1529 — All are true about cross-matching of
 
 All are true about cross-matching of blood except -
@@ -26301,7 +24771,6 @@ All are true about cross-matching of blood except -
 </details>
 
 ---
-
 ### Q1530 — Best management after human bite -
 
 Best management after human bite -
@@ -26318,7 +24787,6 @@ Best management after human bite -
 </details>
 
 ---
-
 ### Q1531 — In a patient who was brought
 
 In a patient who was brought to casualty after RTA with pulse rate 108, SBP 80. Which fluid is to be given ideally?
@@ -26335,7 +24803,6 @@ In a patient who was brought to casualty after RTA with pulse rate 108, SBP 80. 
 </details>
 
 ---
-
 ### Q1532 — True abour drug induced SLE is
 
 True abour drug induced SLE is except ?
@@ -26352,7 +24819,6 @@ True abour drug induced SLE is except ?
 </details>
 
 ---
-
 ### Q1533 — After Road traffic accident a patient
 
 After Road traffic accident a patient presented to casualty with vitals showing BP of 90/60 mm Hg with heart of 56 bpm. Which kind of shock occurs
@@ -26369,7 +24835,6 @@ After Road traffic accident a patient presented to casualty with vitals showing 
 </details>
 
 ---
-
 ### Q1534 — Chimeric chemotherapy is being investigated for
 
 Chimeric chemotherapy is being investigated for the treatment of which malignancy ?
@@ -26386,7 +24851,6 @@ Chimeric chemotherapy is being investigated for the treatment of which malignanc
 </details>
 
 ---
-
 ### Q1535 — year old male presents with CA
 
 A patient (age not captured in source) who is a year old male presents with CA prostate. The tumour is limited to the capsule and it is palpable on PR examination. The patient is diagnosed
@@ -26403,7 +24867,6 @@ A patient (age not captured in source) who is a year old male presents with CA p
 </details>
 
 ---
-
 ### Q1536 — year old male is receiving conservative
 
 A patient (age not captured in source) who is a year old male is receiving conservative management for an appendicular mass since 3 days now presents with a rising pulse rate.
@@ -26420,7 +24883,6 @@ A patient (age not captured in source) who is a year old male is receiving conse
 </details>
 
 ---
-
 ### Q1537 — Under what guidelines is treatment started
 
 Under what guidelines is treatment started for a patient presenting with appendicular mass on CT Scan ?
@@ -26437,7 +24899,6 @@ Under what guidelines is treatment started for a patient presenting with appendi
 </details>
 
 ---
-
 ### Q1538 — Treatment of choice of mucinous carcinoma
 
 Treatment of choice of mucinous carcinoma of Gall Bladder confined to the lamina propria is -
@@ -26454,7 +24915,6 @@ Treatment of choice of mucinous carcinoma of Gall Bladder confined to the lamina
 </details>
 
 ---
-
 ### Q1539 — year old woman presented with history
 
 A patient (age not captured in source) who is a year old woman presented with history of recurrent episodes of right upper abdominal pain for the last one year. She presented to emergency with
@@ -26471,7 +24931,6 @@ A patient (age not captured in source) who is a year old woman presented with hi
 </details>
 
 ---
-
 ### Q1540 — All of the following are true
 
 All of the following are true about Hirschsprung disease except -
@@ -26488,7 +24947,6 @@ All of the following are true about Hirschsprung disease except -
 </details>
 
 ---
-
 ### Q1541 — All of the following are surgical
 
 All of the following are surgical options in management of esophageal carcinoma except -
@@ -26505,7 +24963,6 @@ All of the following are surgical options in management of esophageal carcinoma 
 </details>
 
 ---
-
 ### Q1542 — Chronic hemolytic anaemia is associated with
 
 Chronic hemolytic anaemia is associated with which of the following -
@@ -26522,7 +24979,6 @@ Chronic hemolytic anaemia is associated with which of the following -
 </details>
 
 ---
-
 ### Q1543 — Reactionary Hemorrhage occurs due to -
 
 Reactionary Hemorrhage occurs due to -
@@ -26539,7 +24995,6 @@ Reactionary Hemorrhage occurs due to -
 </details>
 
 ---
-
 ### Q1544 — Which of the following is correct
 
 Which of the following is correct management of abdominal compartment syndrome
@@ -26556,7 +25011,6 @@ Which of the following is correct management of abdominal compartment syndrome
 </details>
 
 ---
-
 ### Q1545 — All of the following is true
 
 All of the following is true about congenital hypertrophic pyloric stenosis except
@@ -26573,7 +25027,6 @@ All of the following is true about congenital hypertrophic pyloric stenosis exce
 </details>
 
 ---
-
 ### Q1546 — In a patient with renal cell
 
 In a patient with renal cell carcinoma with a thrombus in IVC renal vein, which is the best investigation for diagnosis?
@@ -26590,7 +25043,6 @@ In a patient with renal cell carcinoma with a thrombus in IVC renal vein, which 
 </details>
 
 ---
-
 ### Q1547 — Which of the following is the
 
 Which of the following is the agent of choice for cryosurgery?
@@ -26607,7 +25059,6 @@ Which of the following is the agent of choice for cryosurgery?
 </details>
 
 ---
-
 ### Q1548 — year old female presents with a
 
 A patient (age not captured in source) who is a year old female presents with a swelling in the neck diagnosed as a solitary thyroid nodule. The patient is investigated and a scan shows
@@ -26624,7 +25075,6 @@ A patient (age not captured in source) who is a year old female presents with a 
 </details>
 
 ---
-
 ### Q1549 — Which of the following stages of
 
 Which of the following stages of lip carcinoma do not have nodal involvement ?
@@ -26641,7 +25091,6 @@ Which of the following stages of lip carcinoma do not have nodal involvement ?
 </details>
 
 ---
-
 ### Q1550 — year old woman is diagnosed as
 
 A patient (age not captured in source) who is a year old woman is diagnosed as having carcinoma of the renal pelvis of size less than 4 cm without any metastasis. The best treatment option
@@ -26658,7 +25107,6 @@ A patient (age not captured in source) who is a year old woman is diagnosed as h
 </details>
 
 ---
-
 ### Q1551 — All of the following are principles
 
 All of the following are principles of negative pressure wound therapy except
@@ -26675,7 +25123,6 @@ All of the following are principles of negative pressure wound therapy except
 </details>
 
 ---
-
 ### Q1552 — What is the treatment of choice
 
 What is the treatment of choice in desmoid tumors ?
@@ -26692,7 +25139,6 @@ What is the treatment of choice in desmoid tumors ?
 </details>
 
 ---
-
 ### Q1553 — 45 year old female underwent modified
 
 45 year old female underwent modified radical mastectomy with axillary clearance for CA breast. After surgery she could not lift her arm above head.
@@ -26709,7 +25155,6 @@ What is the treatment of choice in desmoid tumors ?
 </details>
 
 ---
-
 ### Q1554 — All of the following are true
 
 All of the following are true about Nissen Fundoplication except
@@ -26726,7 +25171,6 @@ All of the following are true about Nissen Fundoplication except
 </details>
 
 ---
-
 ### Q1555 — False regarding hypernephroma is -
 
 False regarding hypernephroma is -
@@ -26743,7 +25187,6 @@ False regarding hypernephroma is -
 </details>
 
 ---
-
 ### Q1556 — All of the following are medical
 
 All of the following are medical uses of erythropoietin except -
@@ -26760,7 +25203,6 @@ All of the following are medical uses of erythropoietin except -
 </details>
 
 ---
-
 ### Q1557 — Which is false about development milestones
 
 Which is false about development milestones at 6 months of age?
@@ -26777,7 +25219,6 @@ Which is false about development milestones at 6 months of age?
 </details>
 
 ---
-
 ### Q1558 — At what age child begins to
 
 At what age child begins to use past and present tense
@@ -26794,7 +25235,6 @@ At what age child begins to use past and present tense
 </details>
 
 ---
-
 ### Q1559 — Potters syndrome is associated with -
 
 "Potter's syndrome" is associated with -
@@ -26811,7 +25251,6 @@ At what age child begins to use past and present tense
 </details>
 
 ---
-
 ### Q1560 — 45 day old infant presents with
 
 45 day old infant presents with seizures. Examination reveals he is icteric, having bulging fontanelles and opisthotonic posture. Treatment is all
@@ -26828,7 +25267,6 @@ At what age child begins to use past and present tense
 </details>
 
 ---
-
 ### Q1561 — Eryhtematous blotchy rash is seen on
 
 Eryhtematous blotchy rash is seen on the abdomen, trunk and face of a 3 day old child along with yellowish papules. However the child feels well. What is
@@ -26845,7 +25283,6 @@ Eryhtematous blotchy rash is seen on the abdomen, trunk and face of a 3 day old 
 </details>
 
 ---
-
 ### Q1562 — A newborn presents with subconjunctival hemorrhage
 
 A newborn presents with subconjunctival hemorrhage. The treatment is
@@ -26862,7 +25299,6 @@ A newborn presents with subconjunctival hemorrhage. The treatment is
 </details>
 
 ---
-
 ### Q1563 — Child with 10 episodes of diarrhea
 
 Child with 10 episodes of diarrhea in last 24 hours with sunken dry eyes, very slow skin pinch, and absent tears. Management is
@@ -26879,7 +25315,6 @@ Child with 10 episodes of diarrhea in last 24 hours with sunken dry eyes, very s
 </details>
 
 ---
-
 ### Q1564 — What is the first line treatment
 
 What is the first line treatment of a 4 year old child presenting with intussusception ?
@@ -26896,7 +25331,6 @@ What is the first line treatment of a 4 year old child presenting with intussusc
 </details>
 
 ---
-
 ### Q1565 — What is the maintainance fluid requirement
 
 What is the maintainance fluid requirement in a 6 kg child ?
@@ -26913,7 +25347,6 @@ What is the maintainance fluid requirement in a 6 kg child ?
 </details>
 
 ---
-
 ### Q1566 — Which is found in DiGeorges syndrome
 
 Which is found in DiGeorge's syndrome -
@@ -26930,7 +25363,6 @@ Which is found in DiGeorge's syndrome -
 </details>
 
 ---
-
 ### Q1567 — Which of the following is present
 
 Which of the following is present in a XY child but not in a XX child ?
@@ -26947,7 +25379,6 @@ Which of the following is present in a XY child but not in a XX child ?
 </details>
 
 ---
-
 ### Q1568 — Treatment of choice for Kawasaki Disease
 
 Treatment of choice for Kawasaki Disease is:
@@ -26964,7 +25395,6 @@ Treatment of choice for Kawasaki Disease is:
 </details>
 
 ---
-
 ### Q1569 — All are of value in modified
 
 All are of value in modified Bishop score except
@@ -26981,7 +25411,6 @@ All are of value in modified Bishop score except
 </details>
 
 ---
-
 ### Q1570 — True about Keratinocyte is
 
 True about Keratinocyte is ?
@@ -26998,7 +25427,6 @@ True about Keratinocyte is ?
 </details>
 
 ---
-
 ### Q1571 — In which of the following phototherapy
 
 In which of the following phototherapy is useful in treatment ?
@@ -27015,7 +25443,6 @@ In which of the following phototherapy is useful in treatment ?
 </details>
 
 ---
-
 ### Q1572 — Goekarman regimen used in for treatment
 
 Goekarman regimen used in for treatment of psoriasis is?
@@ -27032,7 +25459,6 @@ Goekarman regimen used in for treatment of psoriasis is?
 </details>
 
 ---
-
 ### Q1573 — All of the followings are part
 
 All of the followings are part of the treatment of scabies except?
@@ -27049,7 +25475,6 @@ All of the followings are part of the treatment of scabies except?
 </details>
 
 ---
-
 ### Q1574 — A pregnant lady comes with itchy
 
 A pregnant lady comes with itchy hand lesions as shown. Her husband also gets it. The best treatment that can be given is ?
@@ -27066,7 +25491,6 @@ A pregnant lady comes with itchy hand lesions as shown. Her husband also gets it
 </details>
 
 ---
-
 ### Q1575 — Respiratory failure in a post operative
 
 Respiratory failure in a post operative patient is ?
@@ -27083,7 +25507,6 @@ Respiratory failure in a post operative patient is ?
 </details>
 
 ---
-
 ### Q1576 — Laryngeal mask airway LMA is contraindicated
 
 Laryngeal mask airway [LMA] is contraindicated in?
@@ -27100,7 +25523,6 @@ Laryngeal mask airway [LMA] is contraindicated in?
 </details>
 
 ---
-
 ### Q1577 — All of the following are advantages
 
 All of the following are advantages of LMA except?
@@ -27117,7 +25539,6 @@ All of the following are advantages of LMA except?
 </details>
 
 ---
-
 ### Q1578 — Which anesthetic gas was used by
 
 Which anesthetic gas was used by WTG Morton in his experiment ?
@@ -27134,7 +25555,6 @@ Which anesthetic gas was used by WTG Morton in his experiment ?
 </details>
 
 ---
-
 ### Q1579 — Hepatotoxic agent is
 
 Hepatotoxic agent is
@@ -27151,7 +25571,6 @@ Hepatotoxic agent is
 </details>
 
 ---
-
 ### Q1580 — Anesthetic agent (s) safe to use
 
 Anesthetic agent (s) safe to use in TICP
@@ -27168,7 +25587,6 @@ Anesthetic agent (s) safe to use in TICP
 </details>
 
 ---
-
 ### Q1581 — Which of the following anesthetic agent
 
 Which of the following anesthetic agent is a potent bronchodilator -
@@ -27185,7 +25603,6 @@ Which of the following anesthetic agent is a potent bronchodilator -
 </details>
 
 ---
-
 ### Q1582 — Blood  Gas partition coefficient is
 
 Blood : Gas partition coefficient is a measure of ?
@@ -27202,7 +25619,6 @@ Blood : Gas partition coefficient is a measure of ?
 </details>
 
 ---
-
 ### Q1583 — At the end of anaesthesia after
 
 At the end of anaesthesia after discontinuation of nitrous oxide and removal of endotracheal tube, 1000/0 oxygen is administered to the patient to
@@ -27219,7 +25635,6 @@ At the end of anaesthesia after discontinuation of nitrous oxide and removal of 
 </details>
 
 ---
-
 ### Q1584 — Shortest acting local anesthetic agent is
 
 Shortest acting local anesthetic agent is
@@ -27236,7 +25651,6 @@ Shortest acting local anesthetic agent is
 </details>
 
 ---
-
 ### Q1585 — All are done to minimize radiation,
 
 All are done to minimize radiation, exposure to the patient under fluroscopy, except
@@ -27253,7 +25667,6 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 </details>
 
 ---
-
 ### Q1586 — 22-year-old women presents to the emergency
 
 22-year-old women presents to the emergency department with a chief complaint of severe left upper quadrant [LUQ] pain after being punched by her
@@ -27270,7 +25683,6 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 </details>
 
 ---
-
 ### Q1587 — year-old female presented to the emergency
 
 year-old female presented to the emergency department with the sudden onset of severe epigastric pain. She had
@@ -27287,7 +25699,6 @@ year-old female presented to the emergency department with the sudden onset of s
 </details>
 
 ---
-
 ### Q1588 — year-old chronic alcoholic male patient, after
 
 year-old chronic alcoholic male patient, after a large binge of alcohol, presented to the emergency department in subconscious state. He vomited
@@ -27304,7 +25715,6 @@ year-old chronic alcoholic male patient, after a large binge of alcohol, present
 </details>
 
 ---
-
 ### Q1589 — Epidural hematoma on CT scan shows
 
 Epidural hematoma on CT scan shows -
@@ -27321,7 +25731,6 @@ Epidural hematoma on CT scan shows -
 </details>
 
 ---
-
 ### Q1590 — Medical treatment for paraphillia includes
 
 Medical treatment for paraphillia includes ?
@@ -27338,7 +25747,6 @@ Medical treatment for paraphillia includes ?
 </details>
 
 ---
-
 ### Q1591 — Sex reassignment surgery is done in
 
 Sex reassignment surgery is done in ?
@@ -27355,7 +25763,6 @@ Sex reassignment surgery is done in ?
 </details>
 
 ---
-
 ### Q1592 — Characteristic hallucination of schizophrenia is
 
 Characteristic hallucination of schizophrenia is
@@ -27372,7 +25779,6 @@ Characteristic hallucination of schizophrenia is
 </details>
 
 ---
-
 ### Q1593 — A patient inventing new words, is
 
 A patient inventing new words, is a feature of ?
@@ -27389,7 +25795,6 @@ A patient inventing new words, is a feature of ?
 </details>
 
 ---
-
 ### Q1594 — Treatment of choice for acute panic
 
 Treatment of choice for acute panic attacks is ?
@@ -27406,7 +25811,6 @@ Treatment of choice for acute panic attacks is ?
 </details>
 
 ---
-
 ### Q1595 — Which of the following is a
 
 Which of the following is a feature of opioid withdrawal?
@@ -27423,7 +25827,6 @@ Which of the following is a feature of opioid withdrawal?
 </details>
 
 ---
-
 ### Q1596 — Phototherapy is used in the treatment
 
 Phototherapy is used in the treatment of ?
@@ -27440,7 +25843,6 @@ Phototherapy is used in the treatment of ?
 </details>
 
 ---
-
 ### Q1597 — Conventional drug used in the treatment
 
 Conventional drug used in the treatment of delirium is?
@@ -27457,7 +25859,6 @@ Conventional drug used in the treatment of delirium is?
 </details>
 
 ---
-
 ### Q1598 — Modafinil is used for the treatment
 
 Modafinil is used for the treatment of ?
@@ -27493,7 +25894,6 @@ Which of the following enhances acute phase response ?
 </details>
 
 ---
-
 ### Q1600 — Index myopia is seen in *(2015)*
 
 Index myopia is seen in ?
@@ -27510,7 +25910,6 @@ Index myopia is seen in ?
 </details>
 
 ---
-
 ### Q1601 — common etiolopathogenetic cause of glaucoma is *(2015)*
 
 Most common etiolopathogenetic cause of glaucoma is:
@@ -27527,7 +25926,6 @@ Most common etiolopathogenetic cause of glaucoma is:
 </details>
 
 ---
-
 ### Q1602 — In which of the following conditions *(2015)*
 
 In which of the following conditions Berlin's edema is
@@ -27544,7 +25942,6 @@ In which of the following conditions Berlin's edema is
 </details>
 
 ---
-
 ### Q1603 — Low serum copper due to ATP *(2015)*
 
 Low serum copper due to ATP 7A gene is due to?
@@ -27561,7 +25958,6 @@ Low serum copper due to ATP 7A gene is due to?
 </details>
 
 ---
-
 ### Q1604 — Hyperpigmentation is seen with which hormone *(2015)*
 
 Hyperpigmentation is seen with which hormone?
@@ -27578,7 +25974,6 @@ Hyperpigmentation is seen with which hormone?
 </details>
 
 ---
-
 ### Q1605 — common site of hypertensive intraparenchymal he... *(2015)*
 
 Most common site of hypertensive intraparenchymal hemorrhage in brain:
@@ -27595,7 +25990,6 @@ Most common site of hypertensive intraparenchymal hemorrhage in brain:
 </details>
 
 ---
-
 ### Q1606 — common cause of death in cancer *(2015)*
 
 Most common cause of death in cancer is -
@@ -27612,8 +26006,6 @@ Most common cause of death in cancer is -
 </details>
 
 ---
-
-
 ### Q1607 — Contraindication of antimuscarinic drug
 
 Contraindication of antimuscarinic drug ?
@@ -27630,7 +26022,6 @@ Contraindication of antimuscarinic drug ?
 </details>
 
 ---
-
 ### Q1608 — Atropine plus diphenoxylate combination is used
 
 Atropine plus diphenoxylate combination is used for?
@@ -27647,7 +26038,6 @@ Atropine plus diphenoxylate combination is used for?
 </details>
 
 ---
-
 ### Q1609 — Methanol attacks
 
 Methanol attacks ?
@@ -27664,7 +26054,6 @@ Methanol attacks ?
 </details>
 
 ---
-
 ### Q1610 — In primary open-angle glaucoma pilocarpine eye
 
 In primary open-angle glaucoma pilocarpine eye drops lowers the intraocular pressure by its direct action on the:
@@ -27681,7 +26070,6 @@ In primary open-angle glaucoma pilocarpine eye drops lowers the intraocular pres
 </details>
 
 ---
-
 ### Q1611 — Required for IOL power calculation
 
 Required for IOL power calculation ?
@@ -27698,7 +26086,6 @@ Required for IOL power calculation ?
 </details>
 
 ---
-
 ### Q1612 — Most powerful refractory surface of eye
 
 Most powerful refractory surface of eye is -
@@ -27715,7 +26102,6 @@ Most powerful refractory surface of eye is -
 </details>
 
 ---
-
 ### Q1613 — What is regular astigmatism
 
 What is regular astigmatism?
@@ -27732,7 +26118,6 @@ What is regular astigmatism?
 </details>
 
 ---
-
 ### Q1614 — In a case of myopia, LASIK
 
 In a case of myopia, LASIK will provide correction upto ?
@@ -27749,7 +26134,6 @@ In a case of myopia, LASIK will provide correction upto ?
 </details>
 
 ---
-
 ### Q1615 — What is reverse hypopyon
 
 What is reverse hypopyon?
@@ -27766,7 +26150,6 @@ What is reverse hypopyon?
 </details>
 
 ---
-
 ### Q1616 — Silk retina is seen in
 
 Silk retina is seen in ?
@@ -27783,7 +26166,6 @@ Silk retina is seen in ?
 </details>
 
 ---
-
 ### Q1617 — Pseudopapilitis with silk shot appearance is
 
 Pseudopapilitis with silk shot appearance is seen in?
@@ -27800,7 +26182,6 @@ Pseudopapilitis with silk shot appearance is seen in?
 </details>
 
 ---
-
 ### Q1618 — Lensometer detects
 
 Lensometer detects ?
@@ -27817,7 +26198,6 @@ Lensometer detects ?
 </details>
 
 ---
-
 ### Q1619 — All of the following are treatments
 
 All of the following are treatments of myopia except?
@@ -27834,7 +26214,6 @@ All of the following are treatments of myopia except?
 </details>
 
 ---
-
 ### Q1620 — Sudden painless loss of vision- All
 
 Sudden painless loss of vision- All are causes except?
@@ -27851,7 +26230,6 @@ Sudden painless loss of vision- All are causes except?
 </details>
 
 ---
-
 ### Q1621 — All are true regarding cornea except
 
 All are true regarding cornea except:
@@ -27868,7 +26246,6 @@ All are true regarding cornea except:
 </details>
 
 ---
-
 ### Q1622 — Corneal tattooing may be done with
 
 Corneal tattooing may be done with:
@@ -27885,7 +26262,6 @@ Corneal tattooing may be done with:
 </details>
 
 ---
-
 ### Q1623 — Kayser Fleischer ring is found in
 
 Kayser Fleischer ring is found in which layer of cornea?
@@ -27902,7 +26278,6 @@ Kayser Fleischer ring is found in which layer of cornea?
 </details>
 
 ---
-
 ### Q1624 — Posterior staphyloma is seen in
 
 Posterior staphyloma is seen in:
@@ -27919,7 +26294,6 @@ Posterior staphyloma is seen in:
 </details>
 
 ---
-
 ### Q1625 — year old man presents to the
 
 A patient (age not captured in source) who is a year old man presents to the clinic with pain in the eye, watering, redness and photophobia. Examination of his eyes shows circumcorneal congestion and keratic precipitates. Assertion: KPs are proteinaceous deposits occurring in a triangular fashion in the
@@ -27936,7 +26310,6 @@ A patient (age not captured in source) who is a year old man presents to the cli
 </details>
 
 ---
-
 ### Q1626 — All of the following are true
 
 All of the following are true about Keratoconus, except:
@@ -27953,7 +26326,6 @@ All of the following are true about Keratoconus, except:
 </details>
 
 ---
-
 ### Q1627 — Cataract is caused by
 
 Cataract is caused by ?
@@ -27970,7 +26342,6 @@ Cataract is caused by ?
 </details>
 
 ---
-
 ### Q1628 — All of the following are causes
 
 All of the following are causes of posterior subcapsular cataract except -
@@ -27987,7 +26358,6 @@ All of the following are causes of posterior subcapsular cataract except -
 </details>
 
 ---
-
 ### Q1629 — The intraocular lens in cataract surgery
 
 The intraocular lens in cataract surgery is placed in ?
@@ -28004,7 +26374,6 @@ The intraocular lens in cataract surgery is placed in ?
 </details>
 
 ---
-
 ### Q1630 — Snowflake cataract is associated with
 
 Snowflake cataract is associated with:
@@ -28021,7 +26390,6 @@ Snowflake cataract is associated with:
 </details>
 
 ---
-
 ### Q1631 — What is the type of Galactosemia
 
 What is the type of Galactosemia cataract?
@@ -28038,7 +26406,6 @@ What is the type of Galactosemia cataract?
 </details>
 
 ---
-
 ### Q1632 — Rosette cataract is seen due to
 
 Rosette cataract is seen due to:
@@ -28055,7 +26422,6 @@ Rosette cataract is seen due to:
 </details>
 
 ---
-
 ### Q1633 — What is not true about congenital
 
 What is not true about congenital glaucoma of eye?
@@ -28072,7 +26438,6 @@ What is not true about congenital glaucoma of eye?
 </details>
 
 ---
-
 ### Q1634 — Descemet membrane breach is seen in
 
 Descemet membrane breach is seen in ?
@@ -28089,7 +26454,6 @@ Descemet membrane breach is seen in ?
 </details>
 
 ---
-
 ### Q1635 — Earliest sign of primary congenital glaucoma
 
 Earliest sign of primary congenital glaucoma ?
@@ -28106,7 +26470,6 @@ Earliest sign of primary congenital glaucoma ?
 </details>
 
 ---
-
 ### Q1636 — Selective alpha 2 agoinst used in
 
 Selective alpha 2 agoinst used in glaucoma ?
@@ -28123,7 +26486,6 @@ Selective alpha 2 agoinst used in glaucoma ?
 </details>
 
 ---
-
 ### Q1637 — Latanoprost used topically in glaucoma primarily
 
 Latanoprost used topically in glaucoma primarily acts by?
@@ -28140,7 +26502,6 @@ Latanoprost used topically in glaucoma primarily acts by?
 </details>
 
 ---
-
 ### Q1638 — What is the cause of glaucoma
 
 What is the cause of glaucoma in retinoblastoma?
@@ -28157,7 +26518,6 @@ What is the cause of glaucoma in retinoblastoma?
 </details>
 
 ---
-
 ### Q1639 — What is true about retinal hemorrhage
 
 What is true about retinal hemorrhage in new born?
@@ -28174,7 +26534,6 @@ What is true about retinal hemorrhage in new born?
 </details>
 
 ---
-
 ### Q1640 — All are true regarding optic neuritis
 
 All are true regarding optic neuritis except:
@@ -28191,7 +26550,6 @@ All are true regarding optic neuritis except:
 </details>
 
 ---
-
 ### Q1641 — Macular sparing is associated with lesions
 
 Macular sparing is associated with lesions in:
@@ -28208,7 +26566,6 @@ Macular sparing is associated with lesions in:
 </details>
 
 ---
-
 ### Q1642 — Pupillary reflex pathway- All of the
 
 Pupillary reflex pathway- All of the following are a part except ?
@@ -28225,7 +26582,6 @@ Pupillary reflex pathway- All of the following are a part except ?
 </details>
 
 ---
-
 ### Q1643 — Best method of detection of retained
 
 Best method of detection of retained glass intraocular foreign body is:
@@ -28242,7 +26598,6 @@ Best method of detection of retained glass intraocular foreign body is:
 </details>
 
 ---
-
 ### Q1644 — All of the following are complications
 
 All of the following are complications of traumatic hyphema except?
@@ -28259,7 +26614,6 @@ All of the following are complications of traumatic hyphema except?
 </details>
 
 ---
-
 ### Q1645 — Pilocarpine is used in all of
 
 Pilocarpine is used in all of the following except:
@@ -28276,7 +26630,6 @@ Pilocarpine is used in all of the following except:
 </details>
 
 ---
-
 ### Q1646 — Which of the following statements about
 
 Which of the following statements about atrial myxomas is true
@@ -28293,7 +26646,6 @@ Which of the following statements about atrial myxomas is true
 </details>
 
 ---
-
 ### Q1647 — Duroziezs sign is seen in
 
 Duroziez's sign is seen in
@@ -28310,7 +26662,6 @@ Duroziez's sign is seen in
 </details>
 
 ---
-
 ### Q1648 — Becks triad is seen in
 
 Becks triad is seen in
@@ -28327,7 +26678,6 @@ Becks triad is seen in
 </details>
 
 ---
-
 ### Q1649 — The severity of mitral stenosis can
 
 The severity of mitral stenosis can be judged by-
@@ -28344,7 +26694,6 @@ The severity of mitral stenosis can be judged by-
 </details>
 
 ---
-
 ### Q1650 — Wide pulse pressure is seen in
 
 Wide pulse pressure is seen in all except:
@@ -28361,7 +26710,6 @@ Wide pulse pressure is seen in all except:
 </details>
 
 ---
-
 ### Q1651 — All are true for transplanted kidney
 
 All are true for transplanted kidney except
@@ -28378,7 +26726,6 @@ All are true for transplanted kidney except
 </details>
 
 ---
-
 ### Q1652 — All are seen in Nephrotic syndrome
 
 All are seen in Nephrotic syndrome except
@@ -28395,7 +26742,6 @@ All are seen in Nephrotic syndrome except
 </details>
 
 ---
-
 ### Q1653 — All of the following causes acute
 
 All of the following causes acute renal failure except
@@ -28412,7 +26758,6 @@ All of the following causes acute renal failure except
 </details>
 
 ---
-
 ### Q1654 — Features of Hepatorenal syndrome are
 
 Features of Hepatorenal syndrome are
@@ -28429,7 +26774,6 @@ Features of Hepatorenal syndrome are
 </details>
 
 ---
-
 ### Q1655 — Dialysis indications
 
 Dialysis indications
@@ -28446,7 +26790,6 @@ Dialysis indications
 </details>
 
 ---
-
 ### Q1656 — Which of the following microorganism is
 
 Which of the following microorganism is incriminated in infection after hemodialysis
@@ -28463,7 +26806,6 @@ Which of the following microorganism is incriminated in infection after hemodial
 </details>
 
 ---
-
 ### Q1657 — Significant weight loss is defined as
 
 Significant weight loss is defined as:
@@ -28480,7 +26822,6 @@ Significant weight loss is defined as:
 </details>
 
 ---
-
 ### Q1658 — Which is not true about alcoholic
 
 Which is not true about alcoholic hepatitis :
@@ -28497,7 +26838,6 @@ Which is not true about alcoholic hepatitis :
 </details>
 
 ---
-
 ### Q1659 — Which of the following is not
 
 Which of the following is not true regarding amoebic liver abscess
@@ -28514,7 +26854,6 @@ Which of the following is not true regarding amoebic liver abscess
 </details>
 
 ---
-
 ### Q1660 — Which of the following is not
 
 Which of the following is not expected in a case of Microcytic Hypochromic anemia
@@ -28531,7 +26870,6 @@ Which of the following is not expected in a case of Microcytic Hypochromic anemi
 </details>
 
 ---
-
 ### Q1661 — Zieve syndrome is characterized by all
 
 Zieve syndrome is characterized by all except
@@ -28548,7 +26886,6 @@ Zieve syndrome is characterized by all except
 </details>
 
 ---
-
 ### Q1662 — All of the following are major
 
 All of the following are major complications of massive transfusion, except:
@@ -28565,7 +26902,6 @@ All of the following are major complications of massive transfusion, except:
 </details>
 
 ---
-
 ### Q1663 — The tissue of origin of the
 
 The tissue of origin of the Kaposi's sarcoma is ?
@@ -28582,7 +26918,6 @@ The tissue of origin of the Kaposi's sarcoma is ?
 </details>
 
 ---
-
 ### Q1664 — Thrombocythemia is characterized by
 
 Thrombocythemia is characterized by
@@ -28599,7 +26934,6 @@ Thrombocythemia is characterized by
 </details>
 
 ---
-
 ### Q1665 — Which of the following is required
 
 Which of the following is required for proper effects of Insulin?
@@ -28616,7 +26950,6 @@ Which of the following is required for proper effects of Insulin?
 </details>
 
 ---
-
 ### Q1666 — Glucose fever is related with -
 
 Glucose fever is related with -
@@ -28633,7 +26966,6 @@ Glucose fever is related with -
 </details>
 
 ---
-
 ### Q1667 — Which is the best indicator for
 
 Which is the best indicator for short term control (2-3 weeks] of blood glucose ?
@@ -28650,7 +26982,6 @@ Which is the best indicator for short term control (2-3 weeks] of blood glucose 
 </details>
 
 ---
-
 ### Q1668 — Post Prandial capillary glucose should be
 
 Post Prandial capillary glucose should be mg/dl for adequate diabetes control
@@ -28667,7 +26998,6 @@ Post Prandial capillary glucose should be mg/dl for adequate diabetes control
 </details>
 
 ---
-
 ### Q1669 — The most common cause of Cushings
 
 The most common cause of Cushing's syndrome is:
@@ -28684,7 +27014,6 @@ The most common cause of Cushing's syndrome is:
 </details>
 
 ---
-
 ### Q1670 — Primary Hyperaldosteronism can be diagnosed by
 
 Primary Hyperaldosteronism can be diagnosed by all of the following criteria, except:
@@ -28701,7 +27030,6 @@ Primary Hyperaldosteronism can be diagnosed by all of the following criteria, ex
 </details>
 
 ---
-
 ### Q1671 — Female with blood sugar of 600
 
 Female with blood sugar of 600 mg% and sodium of 110 mEq. Insulin was given, what will happen to serum sodium levels ?
@@ -28718,7 +27046,6 @@ Female with blood sugar of 600 mg% and sodium of 110 mEq. Insulin was given, wha
 </details>
 
 ---
-
 ### Q1672 — Which of the following presents with
 
 Which of the following presents with hypokalemia and metabolic acidosis ?
@@ -28735,7 +27062,6 @@ Which of the following presents with hypokalemia and metabolic acidosis ?
 </details>
 
 ---
-
 ### Q1673 — Hypertension with Hypokalemia is seen in
 
 Hypertension with Hypokalemia is seen in:
@@ -28752,7 +27078,6 @@ Hypertension with Hypokalemia is seen in:
 </details>
 
 ---
-
 ### Q1674 — In cobalamin deficiency which is not
 
 In cobalamin deficiency which is not seen
@@ -28769,7 +27094,6 @@ In cobalamin deficiency which is not seen
 </details>
 
 ---
-
 ### Q1675 — Hypernatremia causes all EXCEPT
 
 Hypernatremia causes all EXCEPT
@@ -28786,7 +27110,6 @@ Hypernatremia causes all EXCEPT
 </details>
 
 ---
-
 ### Q1676 — All of the following are associated
 
 All of the following are associated with hyponatremia except
@@ -28803,7 +27126,6 @@ All of the following are associated with hyponatremia except
 </details>
 
 ---
-
 ### Q1677 — Most common type of multiple sclerosis
 
 Most common type of multiple sclerosis?
@@ -28820,7 +27142,6 @@ Most common type of multiple sclerosis?
 </details>
 
 ---
-
 ### Q1678 — In EEG which type of waves
 
 In EEG which type of waves are seen in metabolic encephalopathy
@@ -28837,7 +27158,6 @@ In EEG which type of waves are seen in metabolic encephalopathy
 </details>
 
 ---
-
 ### Q1679 — Glasgow coma scale motor 4 represents
 
 Glasgow coma scale motor 4 represents?
@@ -28854,7 +27174,6 @@ Glasgow coma scale motor 4 represents?
 </details>
 
 ---
-
 ### Q1680 — Increased ICT is shown by
 
 Increased ICT is shown by
@@ -28871,7 +27190,6 @@ Increased ICT is shown by
 </details>
 
 ---
-
 ### Q1681 — Lateral vessels medullary syndrome is due
 
 Lateral vessels? medullary syndrome is due to the occlusion of which of the following
@@ -28888,7 +27206,6 @@ Lateral vessels? medullary syndrome is due to the occlusion of which of the foll
 </details>
 
 ---
-
 ### Q1682 — Plaques jaunes are seen in
 
 Plaques jaunes are seen in
@@ -28905,7 +27222,6 @@ Plaques jaunes are seen in
 </details>
 
 ---
-
 ### Q1683 — Rademecker complex in EEG is seen
 
 Rademecker complex in EEG is seen in -
@@ -28922,7 +27238,6 @@ Rademecker complex in EEG is seen in -
 </details>
 
 ---
-
 ### Q1684 — Which of the following sites is
 
 Which of the following sites is responsible for the amnestic defect in Wernicke's Korsakoff syndrome:
@@ -28939,7 +27254,6 @@ Which of the following sites is responsible for the amnestic defect in Wernicke'
 </details>
 
 ---
-
 ### Q1685 — Which of the following is the
 
 Which of the following is the most common initial presenting feature of multiple sclerosis:
@@ -28956,7 +27270,6 @@ Which of the following is the most common initial presenting feature of multiple
 </details>
 
 ---
-
 ### Q1686 — Absence of Corpus callosum leads to
 
 Absence of Corpus callosum leads to
@@ -28973,7 +27286,6 @@ Absence of Corpus callosum leads to
 </details>
 
 ---
-
 ### Q1687 — First Symptoms of parkinsons disease is
 
 First Symptoms of parkinsons disease is -
@@ -28990,7 +27302,6 @@ First Symptoms of parkinsons disease is -
 </details>
 
 ---
-
 ### Q1688 — Which of the following metal ions
 
 Which of the following metal ions is associated with secondary Parkinsonisms:
@@ -29007,7 +27318,6 @@ Which of the following metal ions is associated with secondary Parkinsonisms:
 </details>
 
 ---
-
 ### Q1689 — Isaac syndroma is characterised by -
 
 Isaac syndroma is characterised by -
@@ -29024,7 +27334,6 @@ Isaac syndroma is characterised by -
 </details>
 
 ---
-
 ### Q1690 — In Alzheimers disease (AD) which of
 
 In Alzheimer's disease (AD) which of the following is not seen:
@@ -29041,7 +27350,6 @@ In Alzheimer's disease (AD) which of the following is not seen:
 </details>
 
 ---
-
 ### Q1691 — Which vitamin toxicity is associated with
 
 Which vitamin toxicity is associated with excessive sweating -
@@ -29058,7 +27366,6 @@ Which vitamin toxicity is associated with excessive sweating -
 </details>
 
 ---
-
 ### Q1692 — Laforas disease presents with -
 
 Lafora's disease presents with -
@@ -29075,7 +27382,6 @@ Lafora's disease presents with -
 </details>
 
 ---
-
 ### Q1693 — Kaposi sarcoma is commonly seen in
 
 Kaposi sarcoma is commonly seen in ?
@@ -29092,7 +27398,6 @@ Kaposi sarcoma is commonly seen in ?
 </details>
 
 ---
-
 ### Q1694 — Hyperuricemia can be caused by all
 
 Hyperuricemia can be caused by all except -
@@ -29109,7 +27414,6 @@ Hyperuricemia can be caused by all except -
 </details>
 
 ---
-
 ### Q1695 — Which is the most common tumor
 
 Which is the most common tumor leading to death in adults?
@@ -29126,7 +27430,6 @@ Which is the most common tumor leading to death in adults?
 </details>
 
 ---
-
 ### Q1696 — -year old woman has experienced episodes
 
 -year old woman has experienced episodes of myalgias, pleural effusion, pericarditis and arthralgias without joint deformity over course of several years.
@@ -29143,7 +27446,6 @@ Which is the most common tumor leading to death in adults?
 </details>
 
 ---
-
 ### Q1697 — Which of the following antibodies is
 
 Which of the following antibodies is highly specific for systemic lupus erythematosus -
@@ -29160,7 +27462,6 @@ Which of the following antibodies is highly specific for systemic lupus erythema
 </details>
 
 ---
-
 ### Q1698 — Gaisbock syndrome is known as
 
 Gaisbock syndrome is known as
@@ -29177,7 +27478,6 @@ Gaisbock syndrome is known as
 </details>
 
 ---
-
 ### Q1699 — Polyarticular onset JRA involves more than
 
 Polyarticular onset JRA involves more than how many joints -
@@ -29194,7 +27494,6 @@ Polyarticular onset JRA involves more than how many joints -
 </details>
 
 ---
-
 ### Q1700 — Which of the following is given
 
 Which of the following is given to decrease Serum Triglycerides?
@@ -29211,7 +27510,6 @@ Which of the following is given to decrease Serum Triglycerides?
 </details>
 
 ---
-
 ### Q1701 — Blood transfusion associated acute lung injury
 
 Blood transfusion associated acute lung injury occurs due to -
@@ -29228,7 +27526,6 @@ Blood transfusion associated acute lung injury occurs due to -
 </details>
 
 ---
-
 ### Q1702 — Dietary deficiency of which vitamin usually
 
 Dietary deficiency of which vitamin usually does not exist -
@@ -29245,7 +27542,6 @@ Dietary deficiency of which vitamin usually does not exist -
 </details>
 
 ---
-
 ### Q1703 — Manifestations of vitamin Edeficiency are all
 
 Manifestations of vitamin E.deficiency are all except -
@@ -29262,7 +27558,6 @@ Manifestations of vitamin E.deficiency are all except -
 </details>
 
 ---
-
 ### Q1704 — HIV RNA by PCR can detect
 
 HIV RNA by PCR can detect as low as
@@ -29279,7 +27574,6 @@ HIV RNA by PCR can detect as low as
 </details>
 
 ---
-
 ### Q1705 — Smoking may be associated with all
 
 Smoking may be associated with all of the following cancers, except:
@@ -29296,7 +27590,6 @@ Smoking may be associated with all of the following cancers, except:
 </details>
 
 ---
-
 ### Q1706 — Traumatic optic neuropathy due to closed
 
 Traumatic optic neuropathy due to closed head trauma commonly affects which part of optic nerve -
@@ -29332,7 +27625,6 @@ Dermatitis may be a clinical manifestation of deficiency states of all of follow
 </details>
 
 ---
-
 ### Q1708 — True about pemphigus vulgaris AE *(2015)*
 
 True about pemphigus vulgaris A/E:
@@ -29349,7 +27641,6 @@ True about pemphigus vulgaris A/E:
 </details>
 
 ---
-
 ### Q1709 — Landmark for pudendal nerve block is *(2015)*
 
 Landmark for pudendal nerve block is ?
@@ -29366,7 +27657,6 @@ Landmark for pudendal nerve block is ?
 </details>
 
 ---
-
 ### Q1710 — of the following is not a *(2015)*
 
 Which of the following is not a contraindication of MRI
@@ -29383,7 +27673,6 @@ Which of the following is not a contraindication of MRI
 </details>
 
 ---
-
 ### Q1711 — Radioactive iodine is administered through which *(2015)*
 
 Radioactive iodine is administered through which route
@@ -29400,7 +27689,6 @@ Radioactive iodine is administered through which route
 </details>
 
 ---
-
 ### Q1712 — Tigriod pattern on MRI is seen *(2015)*
 
 Tigriod pattern on MRI is seen in -
@@ -29417,7 +27705,6 @@ Tigriod pattern on MRI is seen in -
 </details>
 
 ---
-
 ### Q1713 — Loosening of association is an example *(2015)*
 
 Loosening of association is an example of
@@ -29434,7 +27721,6 @@ Loosening of association is an example of
 </details>
 
 ---
-
 ### Q1714 — Characterized by chronic multiple tics *(2015)*
 
 Characterized by chronic, multiple tics ?
@@ -29451,8 +27737,6 @@ Characterized by chronic, multiple tics ?
 </details>
 
 ---
-
-
 ### Q1715 — All of the following are premalignant
 
 All of the following are premalignant conditions except -
@@ -29469,7 +27753,6 @@ All of the following are premalignant conditions except -
 </details>
 
 ---
-
 ### Q1716 — Which of the following organism has
 
 Which of the following organism has a role to play in Seborrhic dermatitis ?
@@ -29486,7 +27769,6 @@ Which of the following organism has a role to play in Seborrhic dermatitis ?
 </details>
 
 ---
-
 ### Q1717 — Pruritus is a feature of which
 
 Pruritus is a feature of which of the following ?
@@ -29503,7 +27785,6 @@ Pruritus is a feature of which of the following ?
 </details>
 
 ---
-
 ### Q1718 — Maculae cerulea is seen in
 
 Maculae cerulea is seen in ?
@@ -29520,7 +27801,6 @@ Maculae cerulea is seen in ?
 </details>
 
 ---
-
 ### Q1719 — Most common site for atopic dermatitis
 
 Most common site for atopic dermatitis -
@@ -29537,7 +27817,6 @@ Most common site for atopic dermatitis -
 </details>
 
 ---
-
 ### Q1720 — True regarding Bowens disease is
 
 True regarding Bowen's disease is ?
@@ -29554,7 +27833,6 @@ True regarding Bowen's disease is ?
 </details>
 
 ---
-
 ### Q1721 — Lines of Blaschko represent
 
 Lines of Blaschko represent:
@@ -29571,7 +27849,6 @@ Lines of Blaschko represent:
 </details>
 
 ---
-
 ### Q1722 — All are true about actinic lichen
 
 All are true about actinic lichen planus except ?
@@ -29588,7 +27865,6 @@ All are true about actinic lichen planus except ?
 </details>
 
 ---
-
 ### Q1723 — Muehrcke lines in nails are seen
 
 Muehrcke lines in nails are seen in
@@ -29605,7 +27881,6 @@ Muehrcke lines in nails are seen in
 </details>
 
 ---
-
 ### Q1724 — Which of the following drug can
 
 Which of the following drug can lead to pemphigus?
@@ -29622,7 +27897,6 @@ Which of the following drug can lead to pemphigus?
 </details>
 
 ---
-
 ### Q1725 — Periungual desquamation, which is a characteristic
 
 Periungual desquamation, which is a characteristic feature of Kawasaki syndrome, occurs at ?
@@ -29639,7 +27913,6 @@ Periungual desquamation, which is a characteristic feature of Kawasaki syndrome,
 </details>
 
 ---
-
 ### Q1726 — Arm tongue time is
 
 Arm tongue time is ?
@@ -29656,7 +27929,6 @@ Arm tongue time is ?
 </details>
 
 ---
-
 ### Q1727 — Post dural puncture headache usually presents
 
 Post dural puncture headache usually presents with in ?
@@ -29673,7 +27945,6 @@ Post dural puncture headache usually presents with in ?
 </details>
 
 ---
-
 ### Q1728 — Contraindication to neruaxial block is
 
 Contraindication to neruaxial block is ?
@@ -29690,7 +27961,6 @@ Contraindication to neruaxial block is ?
 </details>
 
 ---
-
 ### Q1729 — Long acting local anaesthetic
 
 Long acting local anaesthetic ?
@@ -29707,7 +27977,6 @@ Long acting local anaesthetic ?
 </details>
 
 ---
-
 ### Q1730 — Composition of soda lime is NaOH
 
 Composition of soda lime is: NaOH - Ca (OH)2 - KOH - Moisture
@@ -29724,7 +27993,6 @@ Composition of soda lime is: NaOH - Ca (OH)2 - KOH - Moisture
 </details>
 
 ---
-
 ### Q1731 — Suxamethonium acts through which channels
 
 Suxamethonium acts through which channels ?
@@ -29741,7 +28009,6 @@ Suxamethonium acts through which channels ?
 </details>
 
 ---
-
 ### Q1732 — Only available depolarizing muscle relaxant is
 
 Only available depolarizing muscle relaxant is ?
@@ -29758,7 +28025,6 @@ Only available depolarizing muscle relaxant is ?
 </details>
 
 ---
-
 ### Q1733 — All of the following about MRI
 
 All of the following about MRI are correct except:
@@ -29775,7 +28041,6 @@ All of the following about MRI are correct except:
 </details>
 
 ---
-
 ### Q1734 — Amount of radiation exposure in 1
 
 Amount of radiation exposure in 1 CT- scan of chest is
@@ -29792,7 +28057,6 @@ Amount of radiation exposure in 1 CT- scan of chest is
 </details>
 
 ---
-
 ### Q1735 — Which of the following is a
 
 Which of the following is a late severe adverse effect of radiation therapy
@@ -29809,7 +28073,6 @@ Which of the following is a late severe adverse effect of radiation therapy
 </details>
 
 ---
-
 ### Q1736 — Which common tracer in PET is
 
 Which common tracer in PET is usually administered in the form of a glucose sugar
@@ -29826,7 +28089,6 @@ Which common tracer in PET is usually administered in the form of a glucose suga
 </details>
 
 ---
-
 ### Q1737 — Intraoperative radiotherapy is used in
 
 Intraoperative radiotherapy is used in
@@ -29843,7 +28105,6 @@ Intraoperative radiotherapy is used in
 </details>
 
 ---
-
 ### Q1738 — Precisely directed high dose radiation is
 
 Precisely directed high dose radiation is used in
@@ -29860,7 +28121,6 @@ Precisely directed high dose radiation is used in
 </details>
 
 ---
-
 ### Q1739 — Not used for internal radiotherapy
 
 Not used for internal radiotherapy
@@ -29877,7 +28137,6 @@ Not used for internal radiotherapy
 </details>
 
 ---
-
 ### Q1740 — Radioiodine generates which type of radiation
 
 Radioiodine generates which type of radiation
@@ -29894,7 +28153,6 @@ Radioiodine generates which type of radiation
 </details>
 
 ---
-
 ### Q1741 — Ring enhancing lesion on CT is
 
 Ring enhancing lesion on CT is a feature of
@@ -29911,7 +28169,6 @@ Ring enhancing lesion on CT is a feature of
 </details>
 
 ---
-
 ### Q1742 — About lipoma, radiologically true is -
 
 About lipoma, radiologically true is -
@@ -29928,7 +28185,6 @@ About lipoma, radiologically true is -
 </details>
 
 ---
-
 ### Q1743 — Ultrasonographic finding of autosomal recessive po
 
 Ultrasonographic finding of autosomal recessive polycystic kidney disease [ARPKD] are all except
@@ -29945,7 +28201,6 @@ Ultrasonographic finding of autosomal recessive polycystic kidney disease [ARPKD
 </details>
 
 ---
-
 ### Q1744 — Cobra head appearance on excretory urography
 
 Cobra head appearance on excretory urography is suggestive of:
@@ -29962,7 +28217,6 @@ Cobra head appearance on excretory urography is suggestive of:
 </details>
 
 ---
-
 ### Q1745 — CT of gastric Volvulus shows -
 
 CT of gastric Volvulus shows -
@@ -29979,7 +28233,6 @@ CT of gastric Volvulus shows -
 </details>
 
 ---
-
 ### Q1746 — Sausage finger appearance is seen in
 
 Sausage finger appearance is seen in -
@@ -29996,7 +28249,6 @@ Sausage finger appearance is seen in -
 </details>
 
 ---
-
 ### Q1747 — Skyline view X-ray is useful in
 
 Skyline view X-ray is useful in diagnosing -
@@ -30013,7 +28265,6 @@ Skyline view X-ray is useful in diagnosing -
 </details>
 
 ---
-
 ### Q1748 — Theory of human motivation was given
 
 Theory of human motivation was given by ?
@@ -30030,7 +28281,6 @@ Theory of human motivation was given by ?
 </details>
 
 ---
-
 ### Q1749 — Illusion is
 
 Illusion is:
@@ -30047,7 +28297,6 @@ Illusion is:
 </details>
 
 ---
-
 ### Q1750 — year old male believes that his
 
 A patient (age not captured in source) who is a year old male believes that his penis is decreasing in size everyday and one day it will disappear one day and he will die. Diagnosis is ?
@@ -30064,7 +28313,6 @@ A patient (age not captured in source) who is a year old male believes that his 
 </details>
 
 ---
-
 ### Q1751 — Most common substance of abuse in
 
 Most common substance of abuse in India ?
@@ -30081,7 +28329,6 @@ Most common substance of abuse in India ?
 </details>
 
 ---
-
 ### Q1752 — In Neuroleptic malignant syndrome, cause of
 
 In Neuroleptic malignant syndrome, cause of death is ?
@@ -30098,7 +28345,6 @@ In Neuroleptic malignant syndrome, cause of death is ?
 </details>
 
 ---
-
 ### Q1753 — Trichophagia is characterized by
 
 Trichophagia is characterized by?
@@ -30115,7 +28361,6 @@ Trichophagia is characterized by?
 </details>
 
 ---
-
 ### Q1754 — Jamais vu is -
 
 Jamais vu is -
@@ -30132,7 +28377,6 @@ Jamais vu is -
 </details>
 
 ---
-
 ### Q1755 — Which of the following is not
 
 Which of the following is not true about sleep ?
@@ -30149,7 +28393,6 @@ Which of the following is not true about sleep ?
 </details>
 
 ---
-
 ### Q1756 — Gamma waves of REM sleep in
 
 Gamma waves of REM sleep in sleep cycle are associated with ?
@@ -30166,7 +28409,6 @@ Gamma waves of REM sleep in sleep cycle are associated with ?
 </details>
 
 ---
-
 ### Q1757 — Main difference between anorexia nervosa and
 
 Main difference between anorexia nervosa and bulimia nervosa lies in:
@@ -30183,7 +28425,6 @@ Main difference between anorexia nervosa and bulimia nervosa lies in:
 </details>
 
 ---
-
 ### Q1758 — Eating disorder with normal weight is
 
 Eating disorder with normal weight is?
@@ -30200,7 +28441,6 @@ Eating disorder with normal weight is?
 </details>
 
 ---
-
 ### Q1759 — Binge eating disorder is characterized by
 
 Binge eating disorder is characterized by ?
@@ -30217,7 +28457,6 @@ Binge eating disorder is characterized by ?
 </details>
 
 ---
-
 ### Q1760 — Tricyclic antidepressants have all of the
 
 Tricyclic antidepressants have all of the following actions except ?
@@ -30234,7 +28473,6 @@ Tricyclic antidepressants have all of the following actions except ?
 </details>
 
 ---
-
 ### Q1761 — Drug not used in prophylaxis of
 
 Drug not used in prophylaxis of MD P ?
@@ -30251,7 +28489,6 @@ Drug not used in prophylaxis of MD P ?
 </details>
 
 ---
-
 ### Q1762 — Tourette syndrome is a type of
 
 Tourette syndrome is a type of ?
@@ -30268,7 +28505,6 @@ Tourette syndrome is a type of ?
 </details>
 
 ---
-
 ### Q1763 — General paralysis of insane is associated
 
 General paralysis of insane is associated with ?
@@ -30285,7 +28521,6 @@ General paralysis of insane is associated with ?
 </details>
 
 ---
-
 ### Q1764 — Sign of oppositionalism in a young
 
 Sign of oppositionalism in a young child is due to?
@@ -30302,7 +28537,6 @@ Sign of oppositionalism in a young child is due to?
 </details>
 
 ---
-
 ### Q1765 — All of the following are associated
 
 All of the following are associated increased REM latency, except ?
@@ -30319,7 +28553,6 @@ All of the following are associated increased REM latency, except ?
 </details>
 
 ---
-
 ### Q1766 — Drug with no mood stabilizing property
 
 Drug with no mood stabilizing property is -
@@ -30336,7 +28569,6 @@ Drug with no mood stabilizing property is -
 </details>
 
 ---
-
 ### Q1767 — Haloperidol induced extarpyramidal side effects ar
 
 Haloperidol induced extarpyramidal side effects are treated by ?
@@ -30353,7 +28585,6 @@ Haloperidol induced extarpyramidal side effects are treated by ?
 </details>
 
 ---
-
 ### Q1768 — Most common complication of modified ECT
 
 Most common complication of modified ECT
@@ -30389,7 +28620,6 @@ Tau protein seen in ?
 </details>
 
 ---
-
 ### Q1770 — Bipolar cautery is preferred over monopolar *(2015)*
 
 The Bipolar cautery is preferred over monopolar cautery in the following surgeries except
@@ -30406,7 +28636,6 @@ The Bipolar cautery is preferred over monopolar cautery in the following surgeri
 </details>
 
 ---
-
 ### Q1771 — Cephalic index is *(2015)*
 
 Cephalic index is
@@ -30423,7 +28652,6 @@ Cephalic index is
 </details>
 
 ---
-
 ### Q1772 — size of the hegars dilator if *(2015)*
 
 What size of the hegar's dilator if passed through the internal os can be labeled as cervical incompetence?
@@ -30440,7 +28668,6 @@ What size of the hegar's dilator if passed through the internal os can be labele
 </details>
 
 ---
-
 ### Q1773 — Embryo gets implanted at what stage *(2015)*
 
 Embryo gets implanted at what stage of development?
@@ -30457,7 +28684,6 @@ Embryo gets implanted at what stage of development?
 </details>
 
 ---
-
 ### Q1774 — P is not a feature of *(2015)*
 
 Which 'P' is not a feature of lichen planus ?
@@ -30474,7 +28700,6 @@ Which 'P' is not a feature of lichen planus ?
 </details>
 
 ---
-
 ### Q1775 — are reversible causes of dementia except *(2015)*
 
 All are reversible causes of dementia except
@@ -30491,7 +28716,6 @@ All are reversible causes of dementia except
 </details>
 
 ---
-
 ### Q1776 — Self mutilation is a feature of *(2015)*
 
 Self mutilation is a feature of ?
@@ -30508,8 +28732,6 @@ Self mutilation is a feature of ?
 </details>
 
 ---
-
-
 ### Q1777 — For activity of antipsychotic, action is
 
 For activity of antipsychotic, action is required at which receptor -
@@ -30526,7 +28748,6 @@ For activity of antipsychotic, action is required at which receptor -
 </details>
 
 ---
-
 ### Q1778 — Beside depression, other use of SSRIs
 
 Beside depression, other use of SSRIs ?
@@ -30543,7 +28764,6 @@ Beside depression, other use of SSRIs ?
 </details>
 
 ---
-
 ### Q1779 — Irresistible sexual desire in a male
 
 Irresistible sexual desire in a male is known as: AIIMS 08
@@ -30560,7 +28780,6 @@ Irresistible sexual desire in a male is known as: AIIMS 08
 </details>
 
 ---
-
 ### Q1780 — Duodenal aspirate is used in diagnosis
 
 Duodenal aspirate is used in diagnosis of:
@@ -30577,7 +28796,6 @@ Duodenal aspirate is used in diagnosis of:
 </details>
 
 ---
-
 ### Q1781 — Most common acute complication of dialysis
 
 Most common acute complication of dialysis is
@@ -30594,7 +28812,6 @@ Most common acute complication of dialysis is
 </details>
 
 ---
-
 ### Q1782 — Triad of normal pressure hydrocephalus includes
 
 Triad of normal pressure hydrocephalus includes all except -
@@ -30611,7 +28828,6 @@ Triad of normal pressure hydrocephalus includes all except -
 </details>
 
 ---
-
 ### Q1783 — The best method for inducing mid
 
 The best method for inducing mid trimester abortion is :
@@ -30628,7 +28844,6 @@ The best method for inducing mid trimester abortion is :
 </details>
 
 ---
-
 ### Q1784 — What would be the type of
 
 What would be the type of presentation when the engaging diameter is mentovertical?
@@ -30645,7 +28860,6 @@ What would be the type of presentation when the engaging diameter is mentovertic
 </details>
 
 ---
-
 ### Q1785 — 45 yrs female with G5P4A0L4 with
 
 45 yrs female with G5P4A0L4 with LMP
@@ -30662,7 +28876,6 @@ What would be the type of presentation when the engaging diameter is mentovertic
 </details>
 
 ---
-
 ### Q1786 — If the symphysiofundal height is 40
 
 If the symphysiofundal height is 40 cm and the station of the head is at -1, weight of the fetus is approximately
@@ -30679,7 +28892,6 @@ If the symphysiofundal height is 40 cm and the station of the head is at -1, wei
 </details>
 
 ---
-
 ### Q1787 — Which of the following is true
 
 Which of the following is true regarding precocious puberty :
@@ -30696,7 +28908,6 @@ Which of the following is true regarding precocious puberty :
 </details>
 
 ---
-
 ### Q1788 — Kallmans syndrome is associated with all
 
 Kallmans syndrome is associated with all of the following except
@@ -30713,7 +28924,6 @@ Kallmans syndrome is associated with all of the following except
 </details>
 
 ---
-
 ### Q1789 — Antimullerian hormone is secreted by
 
 Antimullerian hormone is secreted by ?
@@ -30730,7 +28940,6 @@ Antimullerian hormone is secreted by ?
 </details>
 
 ---
-
 ### Q1790 — What is to be done if
 
 What is to be done if 2 OCP is missed on day 17 - 18 of the cycle -
@@ -30747,7 +28956,6 @@ What is to be done if 2 OCP is missed on day 17 - 18 of the cycle -
 </details>
 
 ---
-
 ### Q1791 — Most common complication of dermoid cyst
 
 Most common complication of dermoid cyst is -
@@ -30764,7 +28972,6 @@ Most common complication of dermoid cyst is -
 </details>
 
 ---
-
 ### Q1792 — There is overlapping of skull sutures
 
 There is overlapping of skull sutures which can be reduced with gental pressure. What is the grade of moulding ?
@@ -30781,7 +28988,6 @@ There is overlapping of skull sutures which can be reduced with gental pressure.
 </details>
 
 ---
-
 ### Q1793 — In cervical incompetence diameter of internal
 
 In cervical incompetence diameter of internal os of cervix is -
@@ -30798,7 +29004,6 @@ In cervical incompetence diameter of internal os of cervix is -
 </details>
 
 ---
-
 ### Q1794 — Contracted pelvis is defined as shortening
 
 Contracted pelvis is defined as shortening of one or more planes by -
@@ -30815,7 +29020,6 @@ Contracted pelvis is defined as shortening of one or more planes by -
 </details>
 
 ---
-
 ### Q1795 — Most common type of conjoint twin
 
 Most common type of conjoint twin is -
@@ -30832,7 +29036,6 @@ Most common type of conjoint twin is -
 </details>
 
 ---
-
 ### Q1796 — Not a cause of oligohydramnios -
 
 Not a cause of oligohydramnios -
@@ -30849,7 +29052,6 @@ Not a cause of oligohydramnios -
 </details>
 
 ---
-
 ### Q1797 — Risk factors for molar gestation are
 
 Risk factors for molar gestation are all of the following except -
@@ -30866,7 +29068,6 @@ Risk factors for molar gestation are all of the following except -
 </details>
 
 ---
-
 ### Q1798 — Drugs used in endometriosis is
 
 Drugs used in endometriosis is
@@ -30883,7 +29084,6 @@ Drugs used in endometriosis is
 </details>
 
 ---
-
 ### Q1799 — Leydig cells of fetus testis secretes
 
 Leydig cells of fetus testis secretes
@@ -30900,7 +29100,6 @@ Leydig cells of fetus testis secretes
 </details>
 
 ---
-
 ### Q1800 — Odland bodies are seen in which
 
 Odland bodies are seen in which layer of epidermis?
@@ -30917,7 +29116,6 @@ Odland bodies are seen in which layer of epidermis?
 </details>
 
 ---
-
 ### Q1801 — Anagen phase of the hair indicates
 
 Anagen phase of the hair indicates:
@@ -30934,7 +29132,6 @@ Anagen phase of the hair indicates:
 </details>
 
 ---
-
 ### Q1802 — A girl about to marry has
 
 A girl about to marry has comedonal acne. Drug to treat such a case is:
@@ -30951,7 +29148,6 @@ A girl about to marry has comedonal acne. Drug to treat such a case is:
 </details>
 
 ---
-
 ### Q1803 — Acanthosis nigricans is characterized by all
 
 Acanthosis nigricans is characterized by all of the following except ?
@@ -30968,7 +29164,6 @@ Acanthosis nigricans is characterized by all of the following except ?
 </details>
 
 ---
-
 ### Q1804 — Epidermal nevus follows
 
 Epidermal nevus follows ?
@@ -30985,7 +29180,6 @@ Epidermal nevus follows ?
 </details>
 
 ---
-
 ### Q1805 — In lichen planus all the following
 
 In lichen planus all the following sites are affected except ?
@@ -31002,7 +29196,6 @@ In lichen planus all the following sites are affected except ?
 </details>
 
 ---
-
 ### Q1806 — Not a hemorrhagic lesion
 
 Not a hemorrhagic lesion ?
@@ -31019,7 +29212,6 @@ Not a hemorrhagic lesion ?
 </details>
 
 ---
-
 ### Q1807 — Incontinentia pigmenti involves all exept
 
 Incontinentia pigmenti involves all exept ?
@@ -31036,7 +29228,6 @@ Incontinentia pigmenti involves all exept ?
 </details>
 
 ---
-
 ### Q1808 — Bulls eye lesions are found in
 
 Bull's eye lesions are found in ?
@@ -31053,7 +29244,6 @@ Bull's eye lesions are found in ?
 </details>
 
 ---
-
 ### Q1809 — Husband having suspicion that his wife
 
 Husband having suspicion that his wife is having affair with another man, diagnosis is ?
@@ -31070,7 +29260,6 @@ Husband having suspicion that his wife is having affair with another man, diagno
 </details>
 
 ---
-
 ### Q1810 — The site of lesion in Korsakoffs
 
 The site of lesion in Korsakoff's psychosis is
@@ -31087,7 +29276,6 @@ The site of lesion in Korsakoff's psychosis is
 </details>
 
 ---
-
 ### Q1811 — Which of the following is not
 
 Which of the following is not associated with dementia:
@@ -31104,7 +29292,6 @@ Which of the following is not associated with dementia:
 </details>
 
 ---
-
 ### Q1812 — A girl with bad behavior like
 
 A girl with bad behavior like smashing and throwing objects was admitted in the hospital. There also she was behaving very badly with staff &
@@ -31121,7 +29308,6 @@ A girl with bad behavior like smashing and throwing objects was admitted in the 
 </details>
 
 ---
-
 ### Q1813 — All of the following are essential
 
 All of the following are essential features of attention deficit hyperactive disease (ADHD) except -
@@ -31138,7 +29324,6 @@ All of the following are essential features of attention deficit hyperactive dis
 </details>
 
 ---
-
 ### Q1814 — Capgras syndrome is
 
 Capgras syndrome is ?
@@ -31155,7 +29340,6 @@ Capgras syndrome is ?
 </details>
 
 ---
-
 ### Q1815 — Features like increased psychomotor acitivity, wax
 
 Features like increased psychomotor acitivity, waxy flexinbility at time are seen classically in :
@@ -31172,7 +29356,6 @@ Features like increased psychomotor acitivity, waxy flexinbility at time are see
 </details>
 
 ---
-
 ### Q1816 — Good prognostic factor for schizophrenia is
 
 Good prognostic factor for schizophrenia is ?
@@ -31189,7 +29372,6 @@ Good prognostic factor for schizophrenia is ?
 </details>
 
 ---
-
 ### Q1817 — Increased dopamine levels are associated
 
 Increased dopamine levels are associated ?
@@ -31206,7 +29388,6 @@ Increased dopamine levels are associated ?
 </details>
 
 ---
-
 ### Q1818 — Visual hallucinations is seen in
 
 Visual hallucinations is seen in :
@@ -31223,7 +29404,6 @@ Visual hallucinations is seen in :
 </details>
 
 ---
-
 ### Q1819 — Behavioral therapy is done in
 
 Behavioral therapy is done in ?
@@ -31240,7 +29420,6 @@ Behavioral therapy is done in ?
 </details>
 
 ---
-
 ### Q1820 — Feature associated with mania is
 
 Feature associated with mania is ?
@@ -31257,7 +29436,6 @@ Feature associated with mania is ?
 </details>
 
 ---
-
 ### Q1821 — Which of the following typical antipsychotic
 
 Which of the following typical antipsychotic drug is not available in depot form ?
@@ -31274,7 +29452,6 @@ Which of the following typical antipsychotic drug is not available in depot form
 </details>
 
 ---
-
 ### Q1822 — Causes of neuroregression in a child
 
 Causes of neuroregression in a child can be all except ?
@@ -31310,7 +29487,6 @@ True about imaging spectrometry is ?
 </details>
 
 ---
-
 ### Q1824 — is the Tt of pt with *(2015)*
 
 What is the T/t of pt with carcinoid tumor of appendix of size more than 2 cm -
@@ -31327,7 +29503,6 @@ What is the T/t of pt with carcinoid tumor of appendix of size more than 2 cm -
 </details>
 
 ---
-
 ### Q1825 — investigation of choice for dysphagia is *(2015)*
 
 The investigation of choice for dysphagia is
@@ -31344,7 +29519,6 @@ The investigation of choice for dysphagia is
 </details>
 
 ---
-
 ### Q1826 — is the investigation of choice for *(2015)*
 
 Which is the investigation of choice for staging of a lower limb sarcoma ?
@@ -31361,7 +29535,6 @@ Which is the investigation of choice for staging of a lower limb sarcoma ?
 </details>
 
 ---
-
 ### Q1827 — Investigation of choice for lung abscess *(2015)*
 
 Investigation of choice for lung abscess is
@@ -31378,7 +29551,6 @@ Investigation of choice for lung abscess is
 </details>
 
 ---
-
 ### Q1828 — Investigation of choice to evaluate intracranial *(2015)*
 
 Investigation of choice to evaluate intracranial hemorrhage of less than 48 hours is -
@@ -31395,7 +29567,6 @@ Investigation of choice to evaluate intracranial hemorrhage of less than 48 hour
 </details>
 
 ---
-
 ### Q1829 — Investigation of choice for acute intracerebral *(2015)*
 
 Investigation of choice for acute intracerebral hemorrhage is -
@@ -31412,7 +29583,6 @@ Investigation of choice for acute intracerebral hemorrhage is -
 </details>
 
 ---
-
 ### Q1830 — Investigation of choice for optic neuritis *(2015)*
 
 Investigation of choice for optic neuritis is ?
@@ -31429,8 +29599,6 @@ Investigation of choice for optic neuritis is ?
 </details>
 
 ---
-
-
 ### Q1831 — A child presented with blunt abdominal
 
 A child presented with blunt abdominal trauma, the first investigation to be done is -
@@ -31447,7 +29615,6 @@ A child presented with blunt abdominal trauma, the first investigation to be don
 </details>
 
 ---
-
 ### Q1832 — Substance used for PET scan is
 
 Substance used for PET scan is
@@ -31464,7 +29631,6 @@ Substance used for PET scan is
 </details>
 
 ---
-
 ### Q1833 — Following X-ray finding is associated with
 
 Following X-ray finding is associated with Chilaiditi syndrome -
@@ -31481,7 +29647,6 @@ Following X-ray finding is associated with Chilaiditi syndrome -
 </details>
 
 ---
-
 ### Q1834 — Investigation of choice for acute subarachnoid
 
 Investigation of choice for acute subarachnoid hemorrhage is -
@@ -31498,7 +29663,6 @@ Investigation of choice for acute subarachnoid hemorrhage is -
 </details>
 
 ---
-
 ### Q1835 — Investigation of choice for soft tissue
 
 Investigation of choice for soft tissue sarcoma is -
@@ -31534,7 +29698,6 @@ All of the following drugs increase the risk of postoperative nausea and vomitin
 </details>
 
 ---
-
 ### Q1837 — year old male presented with a *(2015)*
 
 A patient (age not captured in source) who is a year old male presented with a penetrating trauma to chest. He is dyspnoeic with distended neck veins with hypotension and mediastinum is
@@ -31551,7 +29714,6 @@ A patient (age not captured in source) who is a year old male presented with a p
 </details>
 
 ---
-
 ### Q1838 — Best uterine relaxation is seen with *(2015)*
 
 Best uterine relaxation is seen with ?
@@ -31568,7 +29730,6 @@ Best uterine relaxation is seen with ?
 </details>
 
 ---
-
 ### Q1839 — of the following drugs produces dissociative *(2015)*
 
 Which of the following drugs produces dissociative anesthesia
@@ -31585,7 +29746,6 @@ Which of the following drugs produces dissociative anesthesia
 </details>
 
 ---
-
 ### Q1840 — Not included in neuraxial block *(2015)*
 
 Not included in neuraxial block ?
@@ -31602,7 +29762,6 @@ Not included in neuraxial block ?
 </details>
 
 ---
-
 ### Q1841 — common cause of maternal mortality in *(2015)*
 
 Most common cause of maternal mortality in spinal anesthesia is ?
@@ -31619,7 +29778,6 @@ Most common cause of maternal mortality in spinal anesthesia is ?
 </details>
 
 ---
-
 ### Q1842 — Cauda equina syndrome is associated with *(2015)*
 
 Cauda equina syndrome is associated with ?
@@ -31636,7 +29794,6 @@ Cauda equina syndrome is associated with ?
 </details>
 
 ---
-
 ### Q1843 — Local anaesthetic injected directly into the *(2015)*
 
 Local anaesthetic injected directly into the tissue ?
@@ -31653,8 +29810,6 @@ Local anaesthetic injected directly into the tissue ?
 </details>
 
 ---
-
-
 ### Q1844 — The most appropriate circuit for ventilating
 
 The most appropriate circuit for ventilating a spontaneously breathing infant during anaesthesia is?
@@ -31671,7 +29826,6 @@ The most appropriate circuit for ventilating a spontaneously breathing infant du
 </details>
 
 ---
-
 ### Q1845 — Which one of the following agents
 
 Which one of the following agents sensitizes the myocardium to catecholamines -
@@ -31688,7 +29842,6 @@ Which one of the following agents sensitizes the myocardium to catecholamines -
 </details>
 
 ---
-
 ### Q1846 — All of the following statements about
 
 All of the following statements about neuromuscular blockage produced by succinylcholine are true, except:

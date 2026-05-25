@@ -5,55 +5,9 @@
 
 ---
 
-## Anaesthesia
-
-### Q1 — EMLA cream
-
-Which statement is accurate regarding EMLA?
-
-- A. EMLA contains ropivacaine and lignocaine
-- B. EMLA can lead to methemoglobinemia
-- C. EMLA contains 5% lignocaine
-- D. EMLA acts within 15 minutes
-
-<details><summary>Answer</summary>
-
-**B. EMLA can lead to methemoglobinemia** — Prilocaine (a component) is metabolized to o-toluidine, which oxidizes Hb to metHb. EMLA = 2.5% lignocaine + 2.5% prilocaine; onset ~60 min.
-</details>
-
-### Q2 — Pulseless rhythm
-
-A patient presents with no pulse and a specific ECG rhythm (shockable). Next step?
-
-- A. Defibrillate, check pulse, then CPR
-- B. Cardioversion
-- C. Defibrillate, perform CPR, then check pulse
-- D. Administer epinephrine
-
-<details><summary>Answer</summary>
-
-**C. Defibrillate, perform CPR, then check pulse** — ACLS: immediately resume 2 min CPR after a shock before rhythm/pulse check.
-</details>
-
----
-
 ## Anatomy
 
-### Q3 — Nerve identification (image)
-
-Identify the arrow-marked nerve in the provided image.
-
-- A. Medial pectoral nerve
-- B. Lateral pectoral nerve
-- C. Long thoracic nerve
-- D. Thoracodorsal nerve
-
-<details><summary>Answer</summary>
-
-**A. Medial pectoral nerve** — From medial cord of brachial plexus; supplies pectoralis minor + lower pectoralis major.
-</details>
-
-### Q4 — Behind medial malleolus
+### Q1 — Behind medial malleolus
 
 Behind the medial malleolus and anterior to the Achilles, which artery is present?
 
@@ -66,8 +20,7 @@ Behind the medial malleolus and anterior to the Achilles, which artery is presen
 
 **A. Posterior tibial artery** — Mnemonic *Tom, Dick And Very Nervous Harry* (tibialis posterior, FDL, PT artery, tibial nerve, FHL).
 </details>
-
-### Q5 — Omphalocele covering
+### Q2 — Omphalocele covering
 
 The omphalocele covering is derived from which layer?
 
@@ -82,573 +35,7 @@ The omphalocele covering is derived from which layer?
 </details>
 
 ---
-
-## Biochemistry
-
-### Q6 — Wilson's disease — definitive test
-
-A 13-year-old boy with jaundice, tremors, behavioural changes, and Kayser–Fleischer rings. Definitive diagnosis?
-
-- A. Urinary copper
-- B. Serum ceruloplasmin
-- C. Hepatic parenchymal copper concentration
-- D. Genetic testing for ATP7B mutation
-
-<details><summary>Answer</summary>
-
-**C. Hepatic parenchymal copper concentration** — Liver biopsy with >250 μg/g dry weight is most definitive. (Ceruloplasmin is screening; genetic testing supportive.)
-</details>
-
-### Q7 — Achilles tendon xanthomas
-
-Patient with xanthomas on the Achilles tendon. Most likely diagnosis?
-
-- A. Familial hypercholesterolemia
-- B. Tangier disease
-- C. Familial hyperchylomicronemia
-- D. Type III hyperlipoproteinemia
-
-<details><summary>Answer</summary>
-
-**A. Familial hypercholesterolemia** — LDL-R defect → high LDL → tendon xanthomas (Achilles, extensors), xanthelasma, early CAD.
-</details>
-
-### Q8 — Tendon xanthoma + high LDL — molecular defect
-
-Multiple tendon xanthomas with serum cholesterol 398 mg/dL, LDL 220 mg/dL. Most likely defect?
-
-- A. Lipoprotein lipase deficiency
-- B. LDL receptor defect
-- C. Defective Apo B-100
-- D. PCSK9 gain-of-function mutation
-
-<details><summary>Answer</summary>
-
-**B. LDL receptor defect** — Most common cause of familial hypercholesterolaemia (~85%).
-</details>
-
----
-
-## Dermatology
-
-### Q9 — Patchy alopecia + flat anal lesions
-
-A 30-year-old with flat lesions near the anal canal, body rashes, and patchy ("moth-eaten") hair loss. Diagnosis?
-
-- A. Trichotillomania
-- B. Alopecia areata
-- C. Secondary syphilis
-- D. Malassezia
-
-<details><summary>Answer</summary>
-
-**C. Secondary syphilis** — Condylomata lata (flat moist lesions), copper-coloured rash on palms/soles, moth-eaten alopecia.
-</details>
-
-### Q10 — Hypopigmented anesthetic nodules
-
-A 38-year-old with hypopigmented nodular lesions, anaesthesia, ulnar nerve involvement; biopsy with foamy macrophages and abundant bacilli. Most accurate statement?
-
-- A. Tuberculoid leprosy with positive antigen test
-- B. Lepromatous leprosy with positive antigen test
-- C. Erythema nodosum leprosum with negative antigen test
-- D. Lepromatous leprosy with negative antigen test
-
-<details><summary>Answer</summary>
-
-**D. Lepromatous leprosy with negative antigen test** — High bacillary load → negative lepromin (anergic). Tuberculoid → positive lepromin.
-</details>
-
----
-
-## ENT
-
-### Q11 — Singer with low-pitched bowed cords
-
-A singer with difficulty raising pitch, depressed and bowing vocal cords. Involved muscle?
-
-- A. Cricothyroid
-- B. Interarytenoid
-- C. Posterior cricoarytenoid
-- D. Lateral arytenoid
-
-<details><summary>Answer</summary>
-
-**A. Cricothyroid** — Sole tensor of vocal cords (supplied by external laryngeal nerve). Paralysis → loss of high pitch / bowing.
-</details>
-
-### Q12 — Head impulse in vestibular neuronitis
-
-A 45-year-old woman with right vestibular neuronitis. Expected head impulse test findings?
-
-- A. Head turned left, eyes move left with nystagmus
-- B. Head turned left, eyes move right with nystagmus
-- C. Head turned right, eyes move left with nystagmus
-- D. Head turned right, eyes move right with nystagmus
-
-<details><summary>Answer</summary>
-
-**C. Head turned right, eyes move left with nystagmus** — Toward affected side, VOR fails → corrective catch-up saccade.
-</details>
-
----
-
-## Forensic Medicine
-
-### Q13 — Age estimation for late teen
-
-For age determination of an accused claiming 16 but stated as 18, which joint X-rays?
-
-- A. Head & shoulder
-- B. Elbow & ankle
-- C. Knee & wrist
-- D. Elbow & hip
-
-<details><summary>Answer</summary>
-
-**C. Knee & wrist** — Most informative for 16–18 yrs (distal radius, proximal tibia/fibula epiphyseal fusion).
-</details>
-
-### Q14 — Dry pupils, slurred speech, altered sensorium
-
-A person from a railway track with dry dilated pupils, dry skin, slurred speech, altered sensorium. Poisoning?
-
-- A. Morphine
-- B. Cannabis
-- C. Datura
-- D. Alcohol
-
-<details><summary>Answer</summary>
-
-**C. Datura** — "Hot as a hare, dry as a bone, red as a beet, mad as a hatter, blind as a bat" — anticholinergic toxidrome.
-</details>
-
----
-
-## Obstetrics & Gynaecology
-
-### Q15 — Ventouse flexion point
-
-The flexion point in ventouse delivery is located at which position on the fetal head?
-
-- A. 3 cm posterior to anterior fontanelle
-- B. 3 cm anterior to posterior fontanelle
-- C. 6 cm anterior to posterior fontanelle
-- D. Midway between fontanelles
-
-<details><summary>Answer</summary>
-
-**B. 3 cm anterior to posterior fontanelle** — Correct placement promotes flexion and minimizes trauma.
-</details>
-
-### Q16 — Forceps identification (image)
-
-Identify the instrument shown.
-
-- A. Kielland
-- B. Wrigley
-- C. Pipers
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. Piper's forceps** — Used for the after-coming head in breech delivery.
-</details>
-
----
-
-## Medicine
-
-### Q17 — Brain + kidney tumours
-
-A patient with headache, confusion, brain tumour. Family history of brain and kidney tumours. Most likely?
-
-- A. Neurofibromatosis
-- B. Li–Fraumeni syndrome
-- C. VHL syndrome
-- D. Churg–Strauss syndrome
-
-<details><summary>Answer</summary>
-
-**C. VHL syndrome** — AD; haemangioblastomas (CNS), renal cell carcinoma, phaeochromocytoma, pancreatic cysts.
-</details>
-
-### Q18 — Crossed paralysis
-
-A 62-year-old with left arm/leg weakness, right facial paralysis, and horizontal eye-movement difficulty. Most consistent syndrome?
-
-- A. Foville syndrome
-- B. Benedict syndrome
-- C. Millard–Gubler syndrome
-- D. Wallenberg syndrome
-
-<details><summary>Answer</summary>
-
-**C. Millard–Gubler syndrome** — Ventral pontine lesion: ipsilateral VI + VII palsy, contralateral hemiparesis.
-</details>
-
----
-
-## Microbiology
-
-### Q19 — Genital vesicles
-
-A patient with painful vesicles in the genital region. Diagnosis?
-
-- A. Herpes
-- B. Chancroid
-- C. Syphilis
-- D. Candidiasis
-
-<details><summary>Answer</summary>
-
-**A. Herpes (HSV-2)** — Painful grouped vesicles on erythematous base; chancroid is painful ulcer (not vesicles); syphilis is painless ulcer.
-</details>
-
-### Q20 — Perianal itch in child
-
-A patient with perianal itching; peripheral swab shows oval eggs flattened on one side. Most likely?
-
-- A. *H. nana*
-- B. *Ancylostoma*
-- C. *Enterobius vermicularis*
-- D. *Necator americanus*
-
-<details><summary>Answer</summary>
-
-**C. Enterobius vermicularis** — Pinworm. Diagnosed by Scotch-tape test. Eggs are D-shaped (flat on one side).
-</details>
-
----
-
-## Ophthalmology
-
-### Q21 — Congenital cataract — timing
-
-A 2-month-old child with significant congenital cataract. Ideal management?
-
-- A. Medical management
-- B. Operate immediately
-- C. Surgery after 6 months
-- D. Surgery after 2 years
-
-<details><summary>Answer</summary>
-
-**B. Operate immediately** — To prevent stimulus deprivation amblyopia; critical period for visual development.
-</details>
-
-### Q22 — Night blindness + peripheral loss
-
-Patient with gradual night vision and peripheral vision loss; fundus shows bone-spicule pigmentation. Diagnosis?
-
-- A. Retinitis pigmentosa
-- B. Retinal haemorrhage
-- C. Diabetic retinopathy
-- D. Hypertensive retinopathy
-
-<details><summary>Answer</summary>
-
-**A. Retinitis pigmentosa** — Triad: bone-spicule pigmentation, attenuated arterioles, waxy disc pallor. ERG markedly reduced.
-</details>
-
----
-
-## Orthopaedics
-
-### Q23 — Back pain post-RTA, no deficit
-
-A man with back pain post-RTA, no neurological deficit. X-ray spine shown. Diagnosis?
-
-- A. Spinous process fracture
-- B. Chance fracture
-- C. Fracture of vertebral base
-- D. Compression fracture
-
-<details><summary>Answer</summary>
-
-**A. Spinous process fracture** *(per answer key)* — Stable injury, no deficit. (Chance fracture = flexion-distraction with seatbelt mechanism.)
-</details>
-
-### Q24 — Hypophosphataemic rickets
-
-A child with growth failure, normal calcium, normal PTH, reduced phosphate, increased ALP. Diagnosis?
-
-- A. Nutritional rickets
-- B. Hypophosphataemic rickets
-- C. Type 1 VDDR
-- D. Type 2 VDDR
-
-<details><summary>Answer</summary>
-
-**B. Hypophosphataemic rickets** — X-linked dominant (PHEX mutation). FGF23-driven phosphate wasting; PTH and Ca normal.
-</details>
-
----
-
-## Pathology
-
-### Q25 — CML genetics
-
-A patient with fever, hepatosplenomegaly, WBC > 50,000/mm³. Involved genetic abnormality?
-
-- A. t(9;22)
-- B. del(1q)
-- C. t(15;17)
-- D. del 3q
-
-<details><summary>Answer</summary>
-
-**A. t(9;22)** — Philadelphia chromosome → BCR-ABL → CML. Treated with imatinib.
-</details>
-
-### Q26 — Karyotype 45,X
-
-A 23-year-old female, 4 feet tall; karyotype shown. Most likely condition?
-
-- A. Turner syndrome
-- B. Klinefelter syndrome
-- C. MRKH syndrome
-- D. Edwards syndrome
-
-<details><summary>Answer</summary>
-
-**A. Turner syndrome (45,X)** — Short stature, streak gonads, webbed neck, coarctation of aorta, primary amenorrhoea.
-</details>
-
----
-
-## Paediatrics
-
-### Q27 — Vomiting + non-glucose reducing substance
-
-An infant with vomiting after feeding; Benedict's test positive for a non-glucose substance. Most likely?
-
-- A. Galactosaemia (GAL-1-P uridyl transferase deficiency)
-- B. Hereditary fructose intolerance (aldolase B deficiency)
-- C. G6PD deficiency
-- D. Galactokinase deficiency
-
-<details><summary>Answer</summary>
-
-**A. Galactosaemia (GAL-1-P uridyl transferase deficiency)** — Classic galactosaemia presents with vomiting, jaundice, hepatomegaly, cataracts; non-glucose reducing sugar in urine.
-</details>
-
-### Q28 — Neonatal abdominal-wall defect
-
-Neonatal anomaly depicted: defect below umbilicus with exposed bladder mucosa.
-
-- A. Omphalocele
-- B. Gastroschisis
-- C. Patent vitelline duct
-- D. Bladder exstrophy
-
-<details><summary>Answer</summary>
-
-**D. Bladder exstrophy** — Infraumbilical midline defect with exposed bladder; associated with epispadias.
-</details>
-
----
-
-## Pharmacology
-
-### Q29 — Samter's triad — incorrect statement
-
-Which statement is **incorrect** regarding Samter's triad?
-
-- A. It is only triggered by aspirin
-- B. Other COX-1 NSAIDs can trigger symptoms
-- C. Triad: asthma, nasal polyps, aspirin sensitivity
-- D. Involves overproduction of leukotrienes
-
-<details><summary>Answer</summary>
-
-**A. It is only triggered by aspirin** — Incorrect statement. Any COX-1 inhibitor (not just aspirin) can trigger Samter's triad symptoms; aspirin is the most common trigger but not the exclusive one.
-
-</details>
-
-<!-- FIXED: answer block reformatted from non-standard "**A — Incorrect.**" to standard "**A. <option text> — explanation**" -->
-
-### Q30 — Aprepitant mechanism
-
-Aprepitant prevents late-onset chemotherapy nausea/vomiting via which mechanism?
-
-- A. NK-1 antagonist
-- B. NK-1 agonist
-- C. NK-3 antagonist
-- D. NK-2 antagonist
-
-<details><summary>Answer</summary>
-
-**A. NK-1 antagonist** — Blocks substance P at neurokinin-1 receptors. Useful for delayed CINV.
-</details>
-
----
-
-## Physiology
-
-### Q31 — Sour taste receptor
-
-Sour taste is perceived by which receptors?
-
-- A. T1R1
-- B. T1R2
-- C. T1R3
-- D. TRPP3 (PKD2L1)
-
-<details><summary>Answer</summary>
-
-**D. TRPP3 (PKD2L1)** — Acid-sensing channel. T1R2/T1R3 → sweet; T1R1/T1R3 → umami; T2Rs → bitter; ENaC → salty.
-</details>
-
-### Q32 — Resting membrane potential ion
-
-The ion most responsible for the resting membrane potential?
-
-- A. Potassium (K⁺)
-- B. Calcium (Ca²⁺)
-- C. Sodium (Na⁺)
-- D. Chloride (Cl⁻)
-
-<details><summary>Answer</summary>
-
-**A. Potassium (K⁺)** — Highest membrane permeability at rest; RMP approximates the K⁺ equilibrium potential (~−90 mV).
-</details>
-
----
-
-## Community Medicine
-
-### Q33 — Fruit-farmer with neuro illness
-
-A fruit farmer with fever, respiratory difficulty, neurological complications. Most likely?
-
-- A. Ebola
-- B. Meningitis
-- C. Nipah
-- D. Zika
-
-<details><summary>Answer</summary>
-
-**C. Nipah virus** — Fruit-bat reservoir; outbreaks in Kerala, Bangladesh. Encephalitis + respiratory illness.
-</details>
-
-### Q34 — Vaccine stored at lowest temperature
-
-Which vaccine is kept at the lowest temperature?
-
-- A. OPV
-- B. DPT
-- C. Hepatitis B
-- D. Rota
-
-<details><summary>Answer</summary>
-
-**A. OPV** — Stored frozen at −20 °C at higher cold-chain levels; DPT/HepB/Rota stored 2–8 °C and damaged by freezing.
-</details>
-
----
-
-## Psychiatry
-
-### Q35 — Opioid maintenance
-
-Drug used in the maintenance phase of opioid withdrawal?
-
-- A. Buprenorphine
-- B. Disulfiram
-- C. Butorphanol
-- D. Clonidine
-
-<details><summary>Answer</summary>
-
-**A. Buprenorphine** — Partial μ-agonist; long-acting; ceiling effect on respiratory depression. Methadone is alternative.
-</details>
-
-### Q36 — Generalized anxiety disorder somatic symptoms
-
-A 45-year-old woman with long-standing "tense" feeling, upset stomach, diarrhoea, heartburn. Family members have similar symptoms. Most likely associated symptom?
-
-- A. Neologisms
-- B. Tingling at extremities
-- C. Hallucinations
-- D. Idea of reference
-
-<details><summary>Answer</summary>
-
-**B. Tingling at extremities** — GAD with autonomic hyperactivity → hyperventilation → paraesthesiae.
-</details>
-
----
-
-## Radiology
-
-### Q37 — Persistent headache + CT (SAH)
-
-A 40-year-old female with persistent headache; CT shown. Most accurate diagnosis?
-
-- A. Subarachnoid haemorrhage
-- B. Epidural haemorrhage
-- C. Subdural haemorrhage
-- D. Intraparenchymal haemorrhage
-
-<details><summary>Answer</summary>
-
-**A. Subarachnoid haemorrhage** — Hyperdense blood in basal cisterns / sulci. "Thunderclap headache."
-</details>
-
-### Q38 — Ptosis + fatigability + mediastinal mass
-
-A 45-year-old with ptosis, muscle weakness improving with rest, dysphagia, engorged thoracic veins. CT shows anterior mediastinal mass. Most likely?
-
-- A. Thymoma
-- B. Pancoast tumour
-- C. Adenocarcinoma
-- D. Small-cell lung cancer
-
-<details><summary>Answer</summary>
-
-**A. Thymoma** — Associated with myasthenia gravis; anterior mediastinum (one of "4 Ts": thymoma, thyroid, teratoma, terrible lymphoma).
-</details>
-
----
-
-## Surgery
-
-### Q39 — Suprapubic catheter instrument
-
-Instrument used to insert a specific tube (suprapubic catheter).
-
-- A. Nephroscope
-- B. Cysto-urethroscope
-- C. Ureteroscope
-- D. Endoscope
-
-<details><summary>Answer</summary>
-
-**B. Cysto-urethroscope** — Used in cystoscopy-assisted suprapubic catheterisation.
-</details>
-
-### Q40 — VAC therapy pressure
-
-Ideal pressure setting for vacuum-assisted closure (VAC) therapy?
-
-- A. −125 mm Hg
-- B. 60–80 mm Hg
-- C. 130 mm Hg
-- D. 80–100 mm Hg
-
-<details><summary>Answer</summary>
-
-**A. −125 mm Hg** — Standard continuous negative pressure for VAC dressings.
-</details>
-
----
-<!-- Source: DocTutorials NEET-PG 2024 Shift 1 & 2 recall questions -->
-
-
-## Anatomy
-
-### Q41 — A lesion in the Brodmann area *(2024)*
+### Q3 — A lesion in the Brodmann area *(2024)*
 
 A lesion in the Brodmann area 22 will cause:
 
@@ -664,8 +51,7 @@ A lesion in the Brodmann area 22 will cause:
 </details>
 
 ---
-
-### Q42 — Injury to which cranial nerve causes *(2024)*
+### Q4 — Injury to which cranial nerve causes *(2024)*
 
 Injury to which cranial nerve causes an absent gag reflex?
 
@@ -681,8 +67,7 @@ Injury to which cranial nerve causes an absent gag reflex?
 </details>
 
 ---
-
-### Q43 — Implantation occurs on which day post-fertilisatio *(2024)*
+### Q5 — Implantation occurs on which day post-fertilisatio *(2024)*
 
 Implantation occurs on which day post-fertilisation?
 
@@ -698,8 +83,7 @@ Implantation occurs on which day post-fertilisation?
 </details>
 
 ---
-
-### Q44 — Paralysis of which muscle causes ptosis *(2024)*
+### Q6 — Paralysis of which muscle causes ptosis *(2024)*
 
 Paralysis of which muscle causes ptosis in Horner's syndrome?
 
@@ -715,8 +99,7 @@ Paralysis of which muscle causes ptosis in Horner's syndrome?
 </details>
 
 ---
-
-### Q45 — Which artery lies in front of *(2024)*
+### Q7 — Which artery lies in front of *(2024)*
 
 Which artery lies in front of the Achilles and behind the medial malleolus?
 
@@ -733,10 +116,37 @@ Which artery lies in front of the Achilles and behind the medial malleolus?
 
 ---
 
-
 ## Physiology
 
-### Q46 — Which ion is the most responsible *(2024)*
+### Q8 — Sour taste receptor
+
+Sour taste is perceived by which receptors?
+
+- A. T1R1
+- B. T1R2
+- C. T1R3
+- D. TRPP3 (PKD2L1)
+
+<details><summary>Answer</summary>
+
+**D. TRPP3 (PKD2L1)** — Acid-sensing channel. T1R2/T1R3 → sweet; T1R1/T1R3 → umami; T2Rs → bitter; ENaC → salty.
+</details>
+### Q9 — Resting membrane potential ion
+
+The ion most responsible for the resting membrane potential?
+
+- A. Potassium (K⁺)
+- B. Calcium (Ca²⁺)
+- C. Sodium (Na⁺)
+- D. Chloride (Cl⁻)
+
+<details><summary>Answer</summary>
+
+**A. Potassium (K⁺)** — Highest membrane permeability at rest; RMP approximates the K⁺ equilibrium potential (~−90 mV).
+</details>
+
+---
+### Q10 — Which ion is the most responsible *(2024)*
 
 Which ion is the most responsible one for the resting membrane potential?
 
@@ -752,8 +162,7 @@ Which ion is the most responsible one for the resting membrane potential?
 </details>
 
 ---
-
-### Q47 — Which type of papillae on the *(2024)*
+### Q11 — Which type of papillae on the *(2024)*
 
 Which type of papillae on the tongue do not contain taste buds?
 
@@ -769,8 +178,7 @@ Which type of papillae on the tongue do not contain taste buds?
 </details>
 
 ---
-
-### Q48 — Clinical Question A 46-year-old man presents *(2024)*
+### Q12 — Clinical Question A 46-year-old man presents *(2024)*
 
 A 46-year-old man presents with an irregularly irregular pulse and dyspnoea. The expected finding in the jugular venous pressure (JVP) is
 
@@ -786,8 +194,7 @@ A 46-year-old man presents with an irregularly irregular pulse and dyspnoea. The
 </details>
 
 ---
-
-### Q49 — Caffeine impairs sleep by which of *(2024)*
+### Q13 — Caffeine impairs sleep by which of *(2024)*
 
 Caffeine impairs sleep by which of the following:
 
@@ -803,8 +210,7 @@ Caffeine impairs sleep by which of the following:
 </details>
 
 ---
-
-### Q50 — Clinical Question After a sunburn, a *(2024)*
+### Q14 — Clinical Question After a sunburn, a *(2024)*
 
 After a sunburn, a woman experiences pain when lukewarm (40°C) water touches her skin during a shower. Which receptors are activated, and what is the explanation for her pain?
 
@@ -820,8 +226,7 @@ After a sunburn, a woman experiences pain when lukewarm (40°C) water touches he
 </details>
 
 ---
-
-### Q51 — Clinical question Which glucose transporter is *(2024)*
+### Q15 — Clinical question Which glucose transporter is *(2024)*
 
 Clinical question: Which glucose transporter is involved in enhancing insulin sensitivity in Type 2 Diabetes Mellitus through regular exercise?
 
@@ -838,10 +243,50 @@ Clinical question: Which glucose transporter is involved in enhancing insulin se
 
 ---
 
-
 ## Biochemistry
 
-### Q52 — Clinical Question A patient presents with *(2024)*
+### Q16 — Wilson's disease — definitive test
+
+A 13-year-old boy with jaundice, tremors, behavioural changes, and Kayser–Fleischer rings. Definitive diagnosis?
+
+- A. Urinary copper
+- B. Serum ceruloplasmin
+- C. Hepatic parenchymal copper concentration
+- D. Genetic testing for ATP7B mutation
+
+<details><summary>Answer</summary>
+
+**C. Hepatic parenchymal copper concentration** — Liver biopsy with >250 μg/g dry weight is most definitive. (Ceruloplasmin is screening; genetic testing supportive.)
+</details>
+### Q17 — Achilles tendon xanthomas
+
+Patient with xanthomas on the Achilles tendon. Most likely diagnosis?
+
+- A. Familial hypercholesterolemia
+- B. Tangier disease
+- C. Familial hyperchylomicronemia
+- D. Type III hyperlipoproteinemia
+
+<details><summary>Answer</summary>
+
+**A. Familial hypercholesterolemia** — LDL-R defect → high LDL → tendon xanthomas (Achilles, extensors), xanthelasma, early CAD.
+</details>
+### Q18 — Tendon xanthoma + high LDL — molecular defect
+
+Multiple tendon xanthomas with serum cholesterol 398 mg/dL, LDL 220 mg/dL. Most likely defect?
+
+- A. Lipoprotein lipase deficiency
+- B. LDL receptor defect
+- C. Defective Apo B-100
+- D. PCSK9 gain-of-function mutation
+
+<details><summary>Answer</summary>
+
+**B. LDL receptor defect** — Most common cause of familial hypercholesterolaemia (~85%).
+</details>
+
+---
+### Q19 — Clinical Question A patient presents with *(2024)*
 
 A patient presents with dermatitis, dementia, and cognitive decline. Which micronutrient deficiency is most likely responsible?
 
@@ -857,8 +302,7 @@ A patient presents with dermatitis, dementia, and cognitive decline. Which micro
 </details>
 
 ---
-
-### Q53 — Clinical Question A patient has severe *(2024)*
+### Q20 — Clinical Question A patient has severe *(2024)*
 
 A patient has severe abdominal pain and raised lipase levels. Imaging shows a stone in the common bile duct (CBD). Which additional enzyme is most likely to be elevated?
 
@@ -874,8 +318,7 @@ A patient has severe abdominal pain and raised lipase levels. Imaging shows a st
 </details>
 
 ---
-
-### Q54 — A patients X-ray shows cardiomegaly, and *(2024)*
+### Q21 — A patients X-ray shows cardiomegaly, and *(2024)*
 
 A patient’s X-ray shows cardiomegaly, and they present with hypotonia, macroglossia, hepatomegaly and "floppy baby" syndrome. What is the probable diagnosis?
 
@@ -892,10 +335,37 @@ A patient’s X-ray shows cardiomegaly, and they present with hypotonia, macrogl
 
 ---
 
-
 ## Pathology
 
-### Q55 — Following gastrectomy procedure which vitamin is *(2024)*
+### Q22 — CML genetics
+
+A patient with fever, hepatosplenomegaly, WBC > 50,000/mm³. Involved genetic abnormality?
+
+- A. t(9;22)
+- B. del(1q)
+- C. t(15;17)
+- D. del 3q
+
+<details><summary>Answer</summary>
+
+**A. t(9;22)** — Philadelphia chromosome → BCR-ABL → CML. Treated with imatinib.
+</details>
+### Q23 — Karyotype 45,X
+
+A 23-year-old female, 4 feet tall; karyotype shown. Most likely condition?
+
+- A. Turner syndrome
+- B. Klinefelter syndrome
+- C. MRKH syndrome
+- D. Edwards syndrome
+
+<details><summary>Answer</summary>
+
+**A. Turner syndrome (45,X)** — Short stature, streak gonads, webbed neck, coarctation of aorta, primary amenorrhoea.
+</details>
+
+---
+### Q24 — Following gastrectomy procedure which vitamin is *(2024)*
 
 Following gastrectomy procedure which vitamin is to be supplemented for the patient?
 
@@ -911,8 +381,7 @@ Following gastrectomy procedure which vitamin is to be supplemented for the pati
 </details>
 
 ---
-
-### Q56 — Clinical question A 20-year-old patient presents *(2024)*
+### Q25 — Clinical question A 20-year-old patient presents *(2024)*
 
 Clinical question: A 20-year-old patient presents with a cerebellar mass and a renal tumour, along with a similar family history. Which of the following is responsible for his findings?
 
@@ -928,8 +397,7 @@ Clinical question: A 20-year-old patient presents with a cerebellar mass and a r
 </details>
 
 ---
-
-### Q57 — Clinical question Which of the following *(2024)*
+### Q26 — Clinical question Which of the following *(2024)*
 
 Clinical question: Which of the following is an incorrect statement regarding Von Willebrand's disease?
 
@@ -945,8 +413,7 @@ Clinical question: Which of the following is an incorrect statement regarding Vo
 </details>
 
 ---
-
-### Q58 — A 52-year-old patient presents with respiratory *(2024)*
+### Q27 — A 52-year-old patient presents with respiratory *(2024)*
 
 A 52-year-old patient presents with respiratory distress, and he is diagnosed with pan-acinar emphysema. Which deficiency is responsible for his condition?
 
@@ -962,8 +429,7 @@ A 52-year-old patient presents with respiratory distress, and he is diagnosed wi
 </details>
 
 ---
-
-### Q59 — Clinical question An adult male presents *(2024)*
+### Q28 — Clinical question An adult male presents *(2024)*
 
 Clinical question: An adult male presents with abdominal distension, chronic diarrhoea, visual complaints, and neurological symptoms. Examination of the peripheral blood smear reveals following characteristic findings. What is the most probable diagnosis?
 
@@ -979,8 +445,7 @@ Clinical question: An adult male presents with abdominal distension, chronic dia
 </details>
 
 ---
-
-### Q60 — Clinical question A child develops skin *(2024)*
+### Q29 — Clinical question A child develops skin *(2024)*
 
 Clinical question: A child develops skin lesions following exposure to sunlight. Genetic testing reveals a defect in a DNA repair mechanism. Which type of DNA repair is most likely impaired?
 
@@ -996,8 +461,7 @@ Clinical question: A child develops skin lesions following exposure to sunlight.
 </details>
 
 ---
-
-### Q61 — Which of the following conditions is *(2024)*
+### Q30 — Which of the following conditions is *(2024)*
 
 Which of the following conditions is associated with pulmonary haemorrhage and is typically positive for perinuclear ANCA (P-ANCA)?
 
@@ -1013,8 +477,7 @@ Which of the following conditions is associated with pulmonary haemorrhage and i
 </details>
 
 ---
-
-### Q62 — In iron deficiency anaemia, how is *(2024)*
+### Q31 — In iron deficiency anaemia, how is *(2024)*
 
 In iron deficiency anaemia, how is the transferrin saturation affected?
 
@@ -1030,8 +493,7 @@ In iron deficiency anaemia, how is the transferrin saturation affected?
 </details>
 
 ---
-
-### Q63 — Which of the following is not *(2024)*
+### Q32 — Which of the following is not *(2024)*
 
 Which of the following is not a typical feature after ileal resection?
 
@@ -1047,8 +509,7 @@ Which of the following is not a typical feature after ileal resection?
 </details>
 
 ---
-
-### Q64 — Clinical question A tall adult male *(2024)*
+### Q33 — Clinical question A tall adult male *(2024)*
 
 Clinical question: A tall adult male presents with lens subluxation, disproportionately long limbs, a sunken chest wall, and cardiovascular abnormalities. Which protein is most likely mutated in this individual?
 
@@ -1064,8 +525,7 @@ Clinical question: A tall adult male presents with lens subluxation, disproporti
 </details>
 
 ---
-
-### Q65 — Clinical question A patient presents with *(2024)*
+### Q34 — Clinical question A patient presents with *(2024)*
 
 Clinical question: A patient presents with high-grade fever, hepatosplenomegaly, abdominal discomfort, and a white blood cell count exceeding 50,000/mm³. Which genetic abnormality is most likely associated with this presentation?
 
@@ -1081,8 +541,7 @@ Clinical question: A patient presents with high-grade fever, hepatosplenomegaly,
 </details>
 
 ---
-
-### Q66 — Which of the following antibodies are *(2024)*
+### Q35 — Which of the following antibodies are *(2024)*
 
 Which of the following antibodies are associated with celiac disease?
 
@@ -1099,10 +558,37 @@ Which of the following antibodies are associated with celiac disease?
 
 ---
 
-
 ## Microbiology
 
-### Q67 — A patient has a past history *(2024)*
+### Q36 — Genital vesicles
+
+A patient with painful vesicles in the genital region. Diagnosis?
+
+- A. Herpes
+- B. Chancroid
+- C. Syphilis
+- D. Candidiasis
+
+<details><summary>Answer</summary>
+
+**A. Herpes (HSV-2)** — Painful grouped vesicles on erythematous base; chancroid is painful ulcer (not vesicles); syphilis is painless ulcer.
+</details>
+### Q37 — Perianal itch in child
+
+A patient with perianal itching; peripheral swab shows oval eggs flattened on one side. Most likely?
+
+- A. *H. nana*
+- B. *Ancylostoma*
+- C. *Enterobius vermicularis*
+- D. *Necator americanus*
+
+<details><summary>Answer</summary>
+
+**C. Enterobius vermicularis** — Pinworm. Diagnosed by Scotch-tape test. Eggs are D-shaped (flat on one side).
+</details>
+
+---
+### Q38 — A patient has a past history *(2024)*
 
 A patient has a past history of infection with Enterohemorrhagic Escherichia coli (EHEC) O157:H7. What does the "H" represent?
 
@@ -1118,8 +604,7 @@ A patient has a past history of infection with Enterohemorrhagic Escherichia col
 </details>
 
 ---
-
-### Q68 — Clinical Question A 12-year-old female patient *(2024)*
+### Q39 — Clinical Question A 12-year-old female patient *(2024)*
 
 A 12-year-old female patient with more than 10⁴ colonies of novobiocinresistant Staphylococcus in Urine Culture. What is the expected course of action?
 
@@ -1135,8 +620,7 @@ A 12-year-old female patient with more than 10⁴ colonies of novobiocinresistan
 </details>
 
 ---
-
-### Q69 — Which of the following organisms is *(2024)*
+### Q40 — Which of the following organisms is *(2024)*
 
 Which of the following organisms is associated with broad-based budding?
 
@@ -1152,8 +636,7 @@ Which of the following organisms is associated with broad-based budding?
 </details>
 
 ---
-
-### Q70 — A 43-year-old farmer presents with retro-orbital *(2024)*
+### Q41 — A 43-year-old farmer presents with retro-orbital *(2024)*
 
 A 43-year-old farmer presents with retro-orbital pain, conjunctival suffusion, burning red eyes, fever with chills, calf tenderness, and joint pain. What is the likely diagnosis?
 
@@ -1169,8 +652,7 @@ A 43-year-old farmer presents with retro-orbital pain, conjunctival suffusion, b
 </details>
 
 ---
-
-### Q71 — Clinical Question A 32-year-old female with *(2024)*
+### Q42 — Clinical Question A 32-year-old female with *(2024)*
 
 A 32-year-old female with a history of prolonged fever with discolouration of the skin over the lower limb and oedema. Microscopy reveals a sheathed organism with no nuclei at the tip of the tail. What is the most likely causative organism?
 
@@ -1186,8 +668,7 @@ A 32-year-old female with a history of prolonged fever with discolouration of th
 </details>
 
 ---
-
-### Q72 — A regular contact lens user presents *(2024)*
+### Q43 — A regular contact lens user presents *(2024)*
 
 A regular contact lens user presents with corneal ulcers and diminished vision. He was very careless about his lens fluid. On microscopy, an organism with spikes is identified. What is the causative organism?
 
@@ -1203,8 +684,7 @@ A regular contact lens user presents with corneal ulcers and diminished vision. 
 </details>
 
 ---
-
-### Q73 — Clinical Question A 5-month-old child presents *(2024)*
+### Q44 — Clinical Question A 5-month-old child presents *(2024)*
 
 A 5-month-old child presents with chorioretinitis, hydrocephalus, and cerebral calcifications. What is the most likely causative organism?
 
@@ -1221,10 +701,40 @@ A 5-month-old child presents with chorioretinitis, hydrocephalus, and cerebral c
 
 ---
 
-
 ## Pharmacology
 
-### Q74 — Which one of the following is *(2024)*
+### Q45 — Samter's triad — incorrect statement
+
+Which statement is **incorrect** regarding Samter's triad?
+
+- A. It is only triggered by aspirin
+- B. Other COX-1 NSAIDs can trigger symptoms
+- C. Triad: asthma, nasal polyps, aspirin sensitivity
+- D. Involves overproduction of leukotrienes
+
+<details><summary>Answer</summary>
+
+**A. It is only triggered by aspirin** — Incorrect statement. Any COX-1 inhibitor (not just aspirin) can trigger Samter's triad symptoms; aspirin is the most common trigger but not the exclusive one.
+
+</details>
+
+<!-- FIXED: answer block reformatted from non-standard "**A — Incorrect.**" to standard "**A. <option text> — explanation**" -->
+### Q46 — Aprepitant mechanism
+
+Aprepitant prevents late-onset chemotherapy nausea/vomiting via which mechanism?
+
+- A. NK-1 antagonist
+- B. NK-1 agonist
+- C. NK-3 antagonist
+- D. NK-2 antagonist
+
+<details><summary>Answer</summary>
+
+**A. NK-1 antagonist** — Blocks substance P at neurokinin-1 receptors. Useful for delayed CINV.
+</details>
+
+---
+### Q47 — Which one of the following is *(2024)*
 
 Which one of the following is an SNRI antidepressant drug?
 
@@ -1240,8 +750,7 @@ Which one of the following is an SNRI antidepressant drug?
 </details>
 
 ---
-
-### Q75 — Clinical Question A 36-year-old man from *(2024)*
+### Q48 — Clinical Question A 36-year-old man from *(2024)*
 
 A 36-year-old man from North India presents with a mixed infection of Plasmodium vivax and Plasmodium falciparum. What is the expected dosage for treatment given on the second day?
 
@@ -1257,8 +766,7 @@ A 36-year-old man from North India presents with a mixed infection of Plasmodium
 </details>
 
 ---
-
-### Q76 — Clinical Question A patient with hypertension *(2024)*
+### Q49 — Clinical Question A patient with hypertension *(2024)*
 
 A patient with hypertension and chronic kidney disease presents with recurrent episodes of renal colic. Which diuretic is most suitable for use in this clinical scenario?
 
@@ -1274,8 +782,7 @@ A patient with hypertension and chronic kidney disease presents with recurrent e
 </details>
 
 ---
-
-### Q77 — A child with untreated ADHD is *(2024)*
+### Q50 — A child with untreated ADHD is *(2024)*
 
 A child with untreated ADHD is most likely to develop which of the following disorders during adolescence?
 
@@ -1291,8 +798,7 @@ A child with untreated ADHD is most likely to develop which of the following dis
 </details>
 
 ---
-
-### Q78 — Clinical Question A patient with hypertension *(2024)*
+### Q51 — Clinical Question A patient with hypertension *(2024)*
 
 A patient with hypertension discontinued his antihypertensive medication due to complaints of dry mouth, dry eyes, and constipation. Shortly after stopping the drug, he presented with a hypertensive emergency, with blood pressure exceeding 180/120 mmHg. Which medication was he most likely taking?
 
@@ -1308,8 +814,7 @@ A patient with hypertension discontinued his antihypertensive medication due to 
 </details>
 
 ---
-
-### Q79 — Clinical Question A 66-year-old female presents *(2024)*
+### Q52 — Clinical Question A 66-year-old female presents *(2024)*
 
 A 66-year-old female presents with urinary incontinence along with dementia and cognitive decline. Which of the following is a useful treatment for urinary incontinence in this patient?
 
@@ -1325,8 +830,7 @@ A 66-year-old female presents with urinary incontinence along with dementia and 
 </details>
 
 ---
-
-### Q80 — Lignocaine is used as a loading *(2024)*
+### Q53 — Lignocaine is used as a loading *(2024)*
 
 Lignocaine is used as a loading dose for the treatment of arrhythmias. The loading dose depends on which of the following factors?
 
@@ -1342,8 +846,7 @@ Lignocaine is used as a loading dose for the treatment of arrhythmias. The loadi
 </details>
 
 ---
-
-### Q81 — Clinical Question A postoperative patient develops *(2024)*
+### Q54 — Clinical Question A postoperative patient develops *(2024)*
 
 A postoperative patient develops nausea and vomiting and is treated with aprepitant. What is the primary mechanism by which this drug exerts its antiemetic effect?
 
@@ -1359,8 +862,7 @@ A postoperative patient develops nausea and vomiting and is treated with aprepit
 </details>
 
 ---
-
-### Q82 — In the management of a patient *(2024)*
+### Q55 — In the management of a patient *(2024)*
 
 In the management of a patient diagnosed with multidrug-resistant or rifampicin-resistant tuberculosis, which of the following would be a suitable criterion for initiating bedaquiline therapy?
 
@@ -1376,8 +878,7 @@ In the management of a patient diagnosed with multidrug-resistant or rifampicin-
 </details>
 
 ---
-
-### Q83 — Which medication is indicated for managing *(2024)*
+### Q56 — Which medication is indicated for managing *(2024)*
 
 Which medication is indicated for managing lipodystrophy associated with HIV infection?
 
@@ -1393,8 +894,7 @@ Which medication is indicated for managing lipodystrophy associated with HIV inf
 </details>
 
 ---
-
-### Q84 — Diphenoxylate is commonly prescribed for secretory *(2024)*
+### Q57 — Diphenoxylate is commonly prescribed for secretory *(2024)*
 
 Diphenoxylate is commonly prescribed for secretory diarrhoea in combination with atropine. What is the main purpose of adding atropine to this regimen?
 
@@ -1411,10 +911,37 @@ Diphenoxylate is commonly prescribed for secretory diarrhoea in combination with
 
 ---
 
-
 ## Forensic Medicine
 
-### Q85 — What are the sequential steps in *(2024)*
+### Q58 — Age estimation for late teen
+
+For age determination of an accused claiming 16 but stated as 18, which joint X-rays?
+
+- A. Head & shoulder
+- B. Elbow & ankle
+- C. Knee & wrist
+- D. Elbow & hip
+
+<details><summary>Answer</summary>
+
+**C. Knee & wrist** — Most informative for 16–18 yrs (distal radius, proximal tibia/fibula epiphyseal fusion).
+</details>
+### Q59 — Dry pupils, slurred speech, altered sensorium
+
+A person from a railway track with dry dilated pupils, dry skin, slurred speech, altered sensorium. Poisoning?
+
+- A. Morphine
+- B. Cannabis
+- C. Datura
+- D. Alcohol
+
+<details><summary>Answer</summary>
+
+**C. Datura** — "Hot as a hare, dry as a bone, red as a beet, mad as a hatter, blind as a bat" — anticholinergic toxidrome.
+</details>
+
+---
+### Q60 — What are the sequential steps in *(2024)*
 
 What are the sequential steps in rigour mortis? Options
 
@@ -1430,8 +957,7 @@ What are the sequential steps in rigour mortis? Options
 </details>
 
 ---
-
-### Q86 — Clinical Question A child is born *(2024)*
+### Q61 — Clinical Question A child is born *(2024)*
 
 A child is born eight months following the death of the presumed father. Despite doubts about paternity from the paternal grandparents, DNA testing confirms the child is biologically related to their son. What term best describes this child?
 
@@ -1447,8 +973,7 @@ A child is born eight months following the death of the presumed father. Despite
 </details>
 
 ---
-
-### Q87 — In the event of a death *(2024)*
+### Q62 — In the event of a death *(2024)*
 
 In the event of a death resulting from a road traffic accident, which authority is responsible for requesting an autopsy?
 
@@ -1465,10 +990,37 @@ In the event of a death resulting from a road traffic accident, which authority 
 
 ---
 
-
 ## Community Medicine
 
-### Q88 — Which of the following given diseases *(2024)*
+### Q63 — Fruit-farmer with neuro illness
+
+A fruit farmer with fever, respiratory difficulty, neurological complications. Most likely?
+
+- A. Ebola
+- B. Meningitis
+- C. Nipah
+- D. Zika
+
+<details><summary>Answer</summary>
+
+**C. Nipah virus** — Fruit-bat reservoir; outbreaks in Kerala, Bangladesh. Encephalitis + respiratory illness.
+</details>
+### Q64 — Vaccine stored at lowest temperature
+
+Which vaccine is kept at the lowest temperature?
+
+- A. OPV
+- B. DPT
+- C. Hepatitis B
+- D. Rota
+
+<details><summary>Answer</summary>
+
+**A. OPV** — Stored frozen at −20 °C at higher cold-chain levels; DPT/HepB/Rota stored 2–8 °C and damaged by freezing.
+</details>
+
+---
+### Q65 — Which of the following given diseases *(2024)*
 
 Which of the following given diseases has the maximum portion of the iceberg submerged?
 
@@ -1484,8 +1036,7 @@ Which of the following given diseases has the maximum portion of the iceberg sub
 </details>
 
 ---
-
-### Q89 — What is the term for the *(2024)*
+### Q66 — What is the term for the *(2024)*
 
 What is the term for the interval between the entry of a pathogen into the host and the point at which the host reaches peak infectivity?
 
@@ -1501,8 +1052,7 @@ What is the term for the interval between the entry of a pathogen into the host 
 </details>
 
 ---
-
-### Q90 — Clinical Question A female presents with *(2024)*
+### Q67 — Clinical Question A female presents with *(2024)*
 
 A female presents with 22 weeks of pregnancy as a result of sexual assault. Which statement is true regarding medical termination of pregnancy (MTP)?
 
@@ -1518,8 +1068,7 @@ A female presents with 22 weeks of pregnancy as a result of sexual assault. Whic
 </details>
 
 ---
-
-### Q91 — A 36-year-old fruit farmer presents with *(2024)*
+### Q68 — A 36-year-old fruit farmer presents with *(2024)*
 
 A 36-year-old fruit farmer presents with fever, breathing difficulties and neurological complications. He gives a history of spotting a few bats on his farm. What is the most likely diagnosis?
 
@@ -1535,8 +1084,7 @@ A 36-year-old fruit farmer presents with fever, breathing difficulties and neuro
 </details>
 
 ---
-
-### Q92 — A group of 80 people was *(2024)*
+### Q69 — A group of 80 people was *(2024)*
 
 A group of 80 people was studied to assess the effect of diet modification on mean cholesterol levels before and after the intervention. Which statistical test is most appropriate to compare the mean cholesterol levels before and after the diet modification?
 
@@ -1552,8 +1100,7 @@ A group of 80 people was studied to assess the effect of diet modification on me
 </details>
 
 ---
-
-### Q93 — A study is conducted on the *(2024)*
+### Q70 — A study is conducted on the *(2024)*
 
 A study is conducted on the association between the intake of vitamin C and the occurrence of respiratory illness. What is the order in which the following steps are conducted? A. Select a case and control. B. Matching C. Measure total exposure D. Analysis
 
@@ -1569,8 +1116,7 @@ A study is conducted on the association between the intake of vitamin C and the 
 </details>
 
 ---
-
-### Q94 — Clinical Question A mother brings her *(2024)*
+### Q71 — Clinical Question A mother brings her *(2024)*
 
 A mother brings her child with complaints of papular lesions on the extensor surfaces of the skin. The lesions improve following supplementation with vitamins A and C along with essential amino acids. What is the most likely diagnosis?
 
@@ -1586,8 +1132,7 @@ A mother brings her child with complaints of papular lesions on the extensor sur
 </details>
 
 ---
-
-### Q95 — Given 500 live births, 12 stillbirths, *(2024)*
+### Q72 — Given 500 live births, 12 stillbirths, *(2024)*
 
 Given 500 live births, 12 stillbirths, and 9 deaths within the first 7 days, calculate the Early Neonatal Mortality Rate (ENMR).
 
@@ -1603,10 +1148,9 @@ Given 500 live births, 12 stillbirths, and 9 deaths within the first 7 days, cal
 </details>
 
 ---
+### Q73 — Calculate the maternal mortality ratio (MMR) *(2024)*
 
-### Q96 — Calculate the maternal mortality ratio (MMR) *(2024)*
-
-Calculate the maternal mortality ratio (MMR) for the year 2023, from the given data: ● Total women who died: 6 ● Total live births: 4000 Causes of death: ● 1 due to a road traffic accident (RTA) ● 1 due to sepsis ● 1 due to obstructed labour ● 1 due to eclampsia ● 1 due to ectopic pregnancy ● 1 due toa snake bite
+Calculate the maternal mortality ratio (MMR) for the year 2023, from the given data: Total women who died: 6 Total live births: 4000 Causes of death: 1 due to a road traffic accident (RTA) 1 due to sepsis 1 due to obstructed labour 1 due to eclampsia 1 due to ectopic pregnancy 1 due toa snake bite
 
 - A. 75
 - B. 150
@@ -1620,8 +1164,7 @@ Calculate the maternal mortality ratio (MMR) for the year 2023, from the given d
 </details>
 
 ---
-
-### Q97 — What is the correct order of *(2024)*
+### Q74 — What is the correct order of *(2024)*
 
 What is the correct order of steps in disaster management?
 
@@ -1637,8 +1180,7 @@ What is the correct order of steps in disaster management?
 </details>
 
 ---
-
-### Q98 — For a disease with incubation period *(2024)*
+### Q75 — For a disease with incubation period *(2024)*
 
 For a disease with incubation period of 5-14 days, what should be the recommended quarantine period?
 
@@ -1654,8 +1196,7 @@ For a disease with incubation period of 5-14 days, what should be the recommende
 </details>
 
 ---
-
-### Q99 — Which one of the following is *(2024)*
+### Q76 — Which one of the following is *(2024)*
 
 Which one of the following is not included in the school health program under Ayushman Bharat?
 
@@ -1671,8 +1212,7 @@ Which one of the following is not included in the school health program under Ay
 </details>
 
 ---
-
-### Q100 — In the health education model with *(2024)*
+### Q77 — In the health education model with *(2024)*
 
 In the health education model with first step as awareness and second step as motivation, what is the third step?
 
@@ -1688,8 +1228,7 @@ In the health education model with first step as awareness and second step as mo
 </details>
 
 ---
-
-### Q101 — Which indicator is defined by a *(2024)*
+### Q78 — Which indicator is defined by a *(2024)*
 
 Which indicator is defined by a formula that uses the number of maternal deaths as the numerator and the total number of women of reproductive age as the denominator?
 
@@ -1705,8 +1244,7 @@ Which indicator is defined by a formula that uses the number of maternal deaths 
 </details>
 
 ---
-
-### Q102 — Which of the following is not *(2024)*
+### Q79 — Which of the following is not *(2024)*
 
 Which of the following is not a component of PQLI?
 
@@ -1723,10 +1261,37 @@ Which of the following is not a component of PQLI?
 
 ---
 
-
 ## Medicine
 
-### Q103 — A patient presenting with sciatica exhibits *(2024)*
+### Q80 — Brain + kidney tumours
+
+A patient with headache, confusion, brain tumour. Family history of brain and kidney tumours. Most likely?
+
+- A. Neurofibromatosis
+- B. Li–Fraumeni syndrome
+- C. VHL syndrome
+- D. Churg–Strauss syndrome
+
+<details><summary>Answer</summary>
+
+**C. VHL syndrome** — AD; haemangioblastomas (CNS), renal cell carcinoma, phaeochromocytoma, pancreatic cysts.
+</details>
+### Q81 — Crossed paralysis
+
+A 62-year-old with left arm/leg weakness, right facial paralysis, and horizontal eye-movement difficulty. Most consistent syndrome?
+
+- A. Foville syndrome
+- B. Benedict syndrome
+- C. Millard–Gubler syndrome
+- D. Wallenberg syndrome
+
+<details><summary>Answer</summary>
+
+**C. Millard–Gubler syndrome** — Ventral pontine lesion: ipsilateral VI + VII palsy, contralateral hemiparesis.
+</details>
+
+---
+### Q82 — A patient presenting with sciatica exhibits *(2024)*
 
 A patient presenting with sciatica exhibits tenderness in the hamstring muscles. Which of the following nerves innervates a hybrid muscle that remains unaffected in this condition?
 
@@ -1742,8 +1307,7 @@ A patient presenting with sciatica exhibits tenderness in the hamstring muscles.
 </details>
 
 ---
-
-### Q104 — A 25-year-old male presents with hyperthermia, *(2024)*
+### Q83 — A 25-year-old male presents with hyperthermia, *(2024)*
 
 A 25-year-old male presents with hyperthermia, autonomic instability, confusion, hyperreflexia, muscle rigidity, and dilated pupils. He has been taking sertraline and was recently prescribed amitriptyline and sumatriptan for depression and migraines, respectively. Which medication is most likely to be effective in treating his current condition?
 
@@ -1759,8 +1323,7 @@ A 25-year-old male presents with hyperthermia, autonomic instability, confusion,
 </details>
 
 ---
-
-### Q105 — A patient complains of pain radiating *(2024)*
+### Q84 — A patient complains of pain radiating *(2024)*
 
 A patient complains of pain radiating down the posterior thigh and leg following a heavy lifting episode. Which spinal nerve root is most likely affected?
 
@@ -1776,8 +1339,7 @@ A patient complains of pain radiating down the posterior thigh and leg following
 </details>
 
 ---
-
-### Q106 — Which of the following mechanisms plays *(2024)*
+### Q85 — Which of the following mechanisms plays *(2024)*
 
 Which of the following mechanisms plays a key role in preventing polyspermy?
 
@@ -1793,8 +1355,7 @@ Which of the following mechanisms plays a key role in preventing polyspermy?
 </details>
 
 ---
-
-### Q107 — Clinical Question An individual found near *(2024)*
+### Q86 — Clinical Question An individual found near *(2024)*
 
 Clinical Question An individual found near a railway track presents with dry skin, dilated dry pupils, slurred speech, and altered sensorium. Which of the following substances is the most likely cause of poisoning? Options
 
@@ -1810,8 +1371,7 @@ Clinical Question An individual found near a railway track presents with dry ski
 </details>
 
 ---
-
-### Q108 — Clinical question A patient experiences phantom *(2024)*
+### Q87 — Clinical question A patient experiences phantom *(2024)*
 
 Clinical question: A patient experiences phantom limb pain following the amputation of the right limb. What would a PET scan most likely reveal in such a case?
 
@@ -1827,8 +1387,7 @@ Clinical question: A patient experiences phantom limb pain following the amputat
 </details>
 
 ---
-
-### Q109 — Clinical Question A patient presents with *(2024)*
+### Q88 — Clinical Question A patient presents with *(2024)*
 
 A patient presents with a sudden decrease in vision, photophobia, circumcorneal congestion, and a visible hypopyon. Which of the following is the most likely diagnosis?
 
@@ -1844,8 +1403,7 @@ A patient presents with a sudden decrease in vision, photophobia, circumcorneal 
 </details>
 
 ---
-
-### Q110 — Clinical Question A patient presents to *(2024)*
+### Q89 — Clinical Question A patient presents to *(2024)*
 
 A patient presents to the ophthalmology OPD with the following findings. What is the most likely diagnosis?
 
@@ -1861,8 +1419,7 @@ A patient presents to the ophthalmology OPD with the following findings. What is
 </details>
 
 ---
-
-### Q111 — Clinical Question A 2-year-old child presents *(2024)*
+### Q90 — Clinical Question A 2-year-old child presents *(2024)*
 
 A 2-year-old child presents with respiratory distress and a history of recurrent respiratory infections. Based on the radiographs provided, what is the most likely diagnosis?
 
@@ -1878,8 +1435,7 @@ A 2-year-old child presents with respiratory distress and a history of recurrent
 </details>
 
 ---
-
-### Q112 — Which of the following is not *(2024)*
+### Q91 — Which of the following is not *(2024)*
 
 Which of the following is not included as a component in the Physical Quality of Life Index (PQLI)?
 
@@ -1895,8 +1451,7 @@ Which of the following is not included as a component in the Physical Quality of
 </details>
 
 ---
-
-### Q113 — Which of the following statements about *(2024)*
+### Q92 — Which of the following statements about *(2024)*
 
 Which of the following statements about adipocere formation is correct?
 
@@ -1912,8 +1467,7 @@ Which of the following statements about adipocere formation is correct?
 </details>
 
 ---
-
-### Q114 — In cases involving sexual assault, how *(2024)*
+### Q93 — In cases involving sexual assault, how *(2024)*
 
 In cases involving sexual assault, how is the testimony of a female victim typically recorded in court? Options
 
@@ -1929,8 +1483,7 @@ In cases involving sexual assault, how is the testimony of a female victim typic
 </details>
 
 ---
-
-### Q115 — Clinical Question A professional singer reports *(2024)*
+### Q94 — Clinical Question A professional singer reports *(2024)*
 
 A professional singer reports difficulty producing high-pitched notes. Examination reveals bowing of the right vocal cord. Which of the following muscles is most likely impaired?
 
@@ -1946,8 +1499,7 @@ A professional singer reports difficulty producing high-pitched notes. Examinati
 </details>
 
 ---
-
-### Q116 — A soldier presents with fever, rash, *(2024)*
+### Q95 — A soldier presents with fever, rash, *(2024)*
 
 A soldier presents with fever, rash, and neck stiffness. Lab tests indicate a deficiency in the membrane attack complex (MAC). Which organism is most likely responsible for the infection?
 
@@ -1963,8 +1515,7 @@ A soldier presents with fever, rash, and neck stiffness. Lab tests indicate a de
 </details>
 
 ---
-
-### Q117 — Which of the following drugs used *(2024)*
+### Q96 — Which of the following drugs used *(2024)*
 
 Which of the following drugs used in the treatment of multiple myeloma is associated with the reactivation of herpes zoster?
 
@@ -1980,8 +1531,7 @@ Which of the following drugs used in the treatment of multiple myeloma is associ
 </details>
 
 ---
-
-### Q118 — Clinical Question A patient is initiated *(2024)*
+### Q97 — Clinical Question A patient is initiated *(2024)*
 
 A patient is initiated on the 3HP regimen (Isoniazid + Rifapentine once weekly for 3 months) for tuberculosis preventive therapy (TPT). Which of the following statements about the 3HP regimen is true?
 
@@ -1997,8 +1547,7 @@ A patient is initiated on the 3HP regimen (Isoniazid + Rifapentine once weekly f
 </details>
 
 ---
-
-### Q119 — A patient is diagnosed with an *(2024)*
+### Q98 — A patient is diagnosed with an *(2024)*
 
 A patient is diagnosed with an infection caused by Enterohaemorrhagic Escherichia coli (EHEC) O157:H7. In this serotype designation, what does the "H" denote?
 
@@ -2014,8 +1563,7 @@ A patient is diagnosed with an infection caused by Enterohaemorrhagic Escherichi
 </details>
 
 ---
-
-### Q120 — Clinical Question A patient experiences breathing *(2024)*
+### Q99 — Clinical Question A patient experiences breathing *(2024)*
 
 A patient experiences breathing difficulty and nasal polyps after taking aspirin, with a similar past history. Which of the following statements about this condition is not true?
 
@@ -2031,8 +1579,7 @@ A patient experiences breathing difficulty and nasal polyps after taking aspirin
 </details>
 
 ---
-
-### Q121 — A 30-year-old female, P2L2, with a *(2024)*
+### Q100 — A 30-year-old female, P2L2, with a *(2024)*
 
 A 30-year-old female, P2L2, with a history of infravaginal cervical lengthening, is considering surgical options.
 
@@ -2048,8 +1595,7 @@ A 30-year-old female, P2L2, with a history of infravaginal cervical lengthening,
 </details>
 
 ---
-
-### Q122 — Clinical Question Examination of a specific *(2024)*
+### Q101 — Clinical Question Examination of a specific *(2024)*
 
 Clinical Question Examination of a specific suspicious stain shows characteristic findings. What is the test to be performed? Options
 
@@ -2065,8 +1611,7 @@ Clinical Question Examination of a specific suspicious stain shows characteristi
 </details>
 
 ---
-
-### Q123 — Which of the following receptors is *(2024)*
+### Q102 — Which of the following receptors is *(2024)*
 
 Which of the following receptors is primarily responsible for the perception of a sour taste?
 
@@ -2082,8 +1627,7 @@ Which of the following receptors is primarily responsible for the perception of 
 </details>
 
 ---
-
-### Q124 — Clinical Question A man with a *(2024)*
+### Q103 — Clinical Question A man with a *(2024)*
 
 A man with a history of occasional food intake from outside presents with 4 days of abdominal pain, fever, and bradycardia. Which diagnostic test is best to confirm the suspected illness?
 
@@ -2099,8 +1643,7 @@ A man with a history of occasional food intake from outside presents with 4 days
 </details>
 
 ---
-
-### Q125 — Clinical Question A patient being treated *(2024)*
+### Q104 — Clinical Question A patient being treated *(2024)*
 
 A patient being treated for hypertriglyceridemia develops flushing, gout, and elevated liver enzymes after starting medication. Which of the following drugs is most likely responsible for these side effects?
 
@@ -2116,8 +1659,7 @@ A patient being treated for hypertriglyceridemia develops flushing, gout, and el
 </details>
 
 ---
-
-### Q126 — Clinical Question A 38-year-old patient presents *(2024)*
+### Q105 — Clinical Question A 38-year-old patient presents *(2024)*
 
 A 38-year-old patient presents with a gradual loss of night vision and peripheral vision. What is the most likely diagnosis based on fundoscopy findings?
 
@@ -2133,8 +1675,7 @@ A 38-year-old patient presents with a gradual loss of night vision and periphera
 </details>
 
 ---
-
-### Q127 — A mother gives birth in a *(2024)*
+### Q106 — A mother gives birth in a *(2024)*
 
 A mother gives birth in a rural setting attended by a skilled care provider. Which of the following actions is not appropriate as part of immediate newborn care?
 
@@ -2150,8 +1691,7 @@ A mother gives birth in a rural setting attended by a skilled care provider. Whi
 </details>
 
 ---
-
-### Q128 — Identify the condition depicted in the *(2024)*
+### Q107 — Identify the condition depicted in the *(2024)*
 
 Identify the condition depicted in the radiograph below.
 
@@ -2167,8 +1707,7 @@ Identify the condition depicted in the radiograph below.
 </details>
 
 ---
-
-### Q129 — A traveller develops diarrhoea, abdominal cramps, *(2024)*
+### Q108 — A traveller develops diarrhoea, abdominal cramps, *(2024)*
 
 A traveller develops diarrhoea, abdominal cramps, and vomiting after consuming oysters. Which of the following pathogens is the most likely cause?
 
@@ -2184,8 +1723,7 @@ A traveller develops diarrhoea, abdominal cramps, and vomiting after consuming o
 </details>
 
 ---
-
-### Q130 — Identify the markers in the given *(2024)*
+### Q109 — Identify the markers in the given *(2024)*
 
 Identify the markers in the given slide:
 
@@ -2201,8 +1739,7 @@ Identify the markers in the given slide:
 </details>
 
 ---
-
-### Q131 — A 40-year-old female, known case of *(2024)*
+### Q110 — A 40-year-old female, known case of *(2024)*
 
 A 40-year-old female, known case of myasthenia gravis on mycophenolate mofetil and pyridostigmine, now presents with breathing difficulties. Her serum calcium is found to be 13.5 mg/dL. What is the most likely cause of her hypercalcemia?
 
@@ -2218,8 +1755,7 @@ A 40-year-old female, known case of myasthenia gravis on mycophenolate mofetil a
 </details>
 
 ---
-
-### Q132 — In a case-control study examining the *(2024)*
+### Q111 — In a case-control study examining the *(2024)*
 
 In a case-control study examining the link between vitamin C intake and respiratory illness, what is the correct sequence of the following steps? A. Select a case and a control. B. Matching C. Measure total exposure D. Analysis
 
@@ -2235,8 +1771,7 @@ In a case-control study examining the link between vitamin C intake and respirat
 </details>
 
 ---
-
-### Q133 — A 26-year-old patient with a history *(2024)*
+### Q112 — A 26-year-old patient with a history *(2024)*
 
 A 26-year-old patient with a history of bronchial asthma experiences two daytime episodes and one nighttime episode per week. He uses albuterol as needed. Post-bronchodilator spirometry shows an improvement in FEV1 from 76% to 83%. What is the most appropriate next step in management?
 
@@ -2252,8 +1787,7 @@ A 26-year-old patient with a history of bronchial asthma experiences two daytime
 </details>
 
 ---
-
-### Q134 — Identify the labelling correctly *(2024)*
+### Q113 — Identify the labelling correctly *(2024)*
 
 Identify the labelling correctly:
 
@@ -2269,8 +1803,7 @@ Identify the labelling correctly:
 </details>
 
 ---
-
-### Q135 — Clinical Question An infant presents with *(2024)*
+### Q114 — Clinical Question An infant presents with *(2024)*
 
 An infant presents with hypotonia, macroglossia, and hepatomegaly. Additionally, a patient with elevated triglycerides (esterified with long-chain fatty acids) presents with fatigue, and a muscle biopsy reveals fat vacuoles. What is the most likely diagnosis?
 
@@ -2286,8 +1819,7 @@ An infant presents with hypotonia, macroglossia, and hepatomegaly. Additionally,
 </details>
 
 ---
-
-### Q136 — Which disease is associated with the *(2024)*
+### Q115 — Which disease is associated with the *(2024)*
 
 Which disease is associated with the term "Desert Rheumatism"?
 
@@ -2303,8 +1835,7 @@ Which disease is associated with the term "Desert Rheumatism"?
 </details>
 
 ---
-
-### Q137 — Which of the following chelating agents *(2024)*
+### Q116 — Which of the following chelating agents *(2024)*
 
 Which of the following chelating agents is contraindicated in the treatment of iron poisoning?
 
@@ -2320,8 +1851,7 @@ Which of the following chelating agents is contraindicated in the treatment of i
 </details>
 
 ---
-
-### Q138 — Clinical question A male patient with *(2024)*
+### Q117 — Clinical question A male patient with *(2024)*
 
 Clinical question A male patient with ARDS shows poor response to oxygen therapy. What is the primary role of interleukin-8 (IL-8) in the pathogenesis of ARDS?
 
@@ -2337,8 +1867,7 @@ Clinical question A male patient with ARDS shows poor response to oxygen therapy
 </details>
 
 ---
-
-### Q139 — A patient presents with complaints of *(2024)*
+### Q118 — A patient presents with complaints of *(2024)*
 
 A patient presents with complaints of easy fatiguability, anemia, hyperpigmentation over the knuckles, oral mucosa, palms, and hands, along with tachycardia. Blood pressure is recorded at 80/60 mmHg, and serum sodium is 130 mEq/L. What is the most probable diagnosis?
 
@@ -2354,8 +1883,7 @@ A patient presents with complaints of easy fatiguability, anemia, hyperpigmentat
 </details>
 
 ---
-
-### Q140 — Non-clinical question Which of the following *(2024)*
+### Q119 — Non-clinical question Which of the following *(2024)*
 
 Non-clinical question Which of the following statements about paroxysmal nocturnal hemoglobinuria (PNH) is accurate?
 
@@ -2371,8 +1899,7 @@ Non-clinical question Which of the following statements about paroxysmal nocturn
 </details>
 
 ---
-
-### Q141 — Clinical Question An HIV-positive patient with *(2024)*
+### Q120 — Clinical Question An HIV-positive patient with *(2024)*
 
 An HIV-positive patient with a prior helminth infection presents with motile larvae (~200 microns) in the stool, while no eggs are detected. Which of the following parasites is the most likely cause?
 
@@ -2388,8 +1915,7 @@ An HIV-positive patient with a prior helminth infection presents with motile lar
 </details>
 
 ---
-
-### Q142 — Which of the following beta-blockers is *(2024)*
+### Q121 — Which of the following beta-blockers is *(2024)*
 
 Which of the following beta-blockers is effective in patients with reduced ejection fraction and has been shown to reduce mortality in chronic heart failure without causing long-term worsening of the condition?
 
@@ -2405,8 +1931,7 @@ Which of the following beta-blockers is effective in patients with reduced eject
 </details>
 
 ---
-
-### Q143 — Question During which phase of clinical *(2024)*
+### Q122 — Question During which phase of clinical *(2024)*
 
 Question: During which phase of clinical trials is the appropriate dosage range of a drug established?
 
@@ -2422,8 +1947,7 @@ Question: During which phase of clinical trials is the appropriate dosage range 
 </details>
 
 ---
-
-### Q144 — Clinical question Which glucose transporter plays *(2024)*
+### Q123 — Clinical question Which glucose transporter plays *(2024)*
 
 Clinical question: Which glucose transporter plays a key role in improving insulin sensitivity in Type 2 Diabetes Mellitus through regular physical activity?
 
@@ -2439,8 +1963,7 @@ Clinical question: Which glucose transporter plays a key role in improving insul
 </details>
 
 ---
-
-### Q145 — Clinical Question A 29-week pregnant woman *(2024)*
+### Q124 — Clinical Question A 29-week pregnant woman *(2024)*
 
 A 29-week pregnant woman is diagnosed with deep vein thrombosis (DVT) based on Doppler findings and presents with calf tenderness. Which anticoagulant is most appropriate for treatment?
 
@@ -2456,8 +1979,7 @@ A 29-week pregnant woman is diagnosed with deep vein thrombosis (DVT) based on D
 </details>
 
 ---
-
-### Q146 — Clinical Question An ICU patient develops *(2024)*
+### Q125 — Clinical Question An ICU patient develops *(2024)*
 
 An ICU patient develops a central line–associated infection. Microscopy reveals gram-positive, oval-shaped organisms reproducing by budding. Which organism is most likely responsible?
 
@@ -2473,8 +1995,7 @@ An ICU patient develops a central line–associated infection. Microscopy reveal
 </details>
 
 ---
-
-### Q147 — In a patient with renal failure *(2024)*
+### Q126 — In a patient with renal failure *(2024)*
 
 In a patient with renal failure who has received Vecuronium or Rocuronium, which of the following agents is typically used for reversal of the neuromuscular blockade?
 
@@ -2490,8 +2011,7 @@ In a patient with renal failure who has received Vecuronium or Rocuronium, which
 </details>
 
 ---
-
-### Q148 — Release of acetylcholine *(2024)*
+### Q127 — Release of acetylcholine *(2024)*
 
 Release of acetylcholine.
 
@@ -2507,8 +2027,7 @@ Release of acetylcholine.
 </details>
 
 ---
-
-### Q149 — Clinical question A patient presents with *(2024)*
+### Q128 — Clinical question A patient presents with *(2024)*
 
 Clinical question A patient presents with hepatosplenomegaly. Bone marrow examination reveals 22% plasma cells, and biopsy shows deposition of pink, acellular material. What is the most probable diagnosis?
 
@@ -2524,8 +2043,7 @@ Clinical question A patient presents with hepatosplenomegaly. Bone marrow examin
 </details>
 
 ---
-
-### Q150 — The administration of methotrexate leads to *(2024)*
+### Q129 — The administration of methotrexate leads to *(2024)*
 
 The administration of methotrexate leads to decreased synthesis of which of the following nucleotides?
 
@@ -2541,8 +2059,7 @@ The administration of methotrexate leads to decreased synthesis of which of the 
 </details>
 
 ---
-
-### Q151 — A patient presents with faecal discharge *(2024)*
+### Q130 — A patient presents with faecal discharge *(2024)*
 
 A patient presents with faecal discharge emerging from the umbilicus. Which of the following is the most probable diagnosis?
 
@@ -2558,8 +2075,7 @@ A patient presents with faecal discharge emerging from the umbilicus. Which of t
 </details>
 
 ---
-
-### Q152 — Clinical question A child presents with *(2024)*
+### Q131 — Clinical question A child presents with *(2024)*
 
 Clinical question A child presents with recurrent infections, and imaging reveals the absence of the thymus. Further evaluation shows low levels of adenosine deaminase (ADA). What is the most likely diagnosis?
 
@@ -2575,8 +2091,7 @@ Clinical question A child presents with recurrent infections, and imaging reveal
 </details>
 
 ---
-
-### Q153 — Clinical question Which of the following *(2024)*
+### Q132 — Clinical question Which of the following *(2024)*
 
 Clinical question: Which of the following is responsible for transporting iodine into the thyroid follicular cells?
 
@@ -2592,8 +2107,7 @@ Clinical question: Which of the following is responsible for transporting iodine
 </details>
 
 ---
-
-### Q154 — Clinical question A patient presents with *(2024)*
+### Q133 — Clinical question A patient presents with *(2024)*
 
 Clinical question A patient presents with complaints of dyspnea, chest tightness and dry cough. His chest X-ray shows diffuse interstitial fibrosis. He has an occupational history of working in a factory for 20 years. Biopsy examination shows the following findings. What is the most likely diagnosis?
 
@@ -2609,8 +2123,7 @@ Clinical question A patient presents with complaints of dyspnea, chest tightness
 </details>
 
 ---
-
-### Q155 — In a population with 500 live *(2024)*
+### Q134 — In a population with 500 live *(2024)*
 
 In a population with 500 live births, 12 stillbirths, and 9 deaths occurring within the first 7 days of life, what is the Early Neonatal Mortality Rate (ENMR)?
 
@@ -2626,8 +2139,7 @@ In a population with 500 live births, 12 stillbirths, and 9 deaths occurring wit
 </details>
 
 ---
-
-### Q156 — Which of the following enzymes is *(2024)*
+### Q135 — Which of the following enzymes is *(2024)*
 
 Which of the following enzymes is deficient in a patient with phenylketonuria with normal phenylalanine hydroxylase levels?
 
@@ -2643,8 +2155,7 @@ Which of the following enzymes is deficient in a patient with phenylketonuria wi
 </details>
 
 ---
-
-### Q157 — On lesion of the nerve passing *(2024)*
+### Q136 — On lesion of the nerve passing *(2024)*
 
 On lesion of the nerve passing through the red arrow-marked region. What will be the clinical presentation?
 
@@ -2660,8 +2171,7 @@ On lesion of the nerve passing through the red arrow-marked region. What will be
 </details>
 
 ---
-
-### Q158 — Non-clinical question TTF-1 immunohistochemical ma *(2024)*
+### Q137 — Non-clinical question TTF-1 immunohistochemical ma *(2024)*
 
 Non-clinical question TTF-1 immunohistochemical marker is associated with which of the following cancers?
 
@@ -2677,8 +2187,7 @@ Non-clinical question TTF-1 immunohistochemical marker is associated with which 
 </details>
 
 ---
-
-### Q159 — Clinical Question A patient with inflammatory *(2024)*
+### Q138 — Clinical Question A patient with inflammatory *(2024)*
 
 A patient with inflammatory bowel disease experiences severe abdominal cramping. Which of the following drugs is most likely prescribed for its direct spasmolytic action on gastrointestinal smooth muscle?
 
@@ -2694,8 +2203,7 @@ A patient with inflammatory bowel disease experiences severe abdominal cramping.
 </details>
 
 ---
-
-### Q160 — Clinical Question A patient sustains a *(2024)*
+### Q139 — Clinical Question A patient sustains a *(2024)*
 
 A patient sustains a head injury in a road traffic accident and shows signs of elevated intracranial pressure (ICP). Which diuretic is the most suitable for reducing ICP in this scenario?
 
@@ -2711,8 +2219,7 @@ A patient sustains a head injury in a road traffic accident and shows signs of e
 </details>
 
 ---
-
-### Q161 — Clinical question A child presents with *(2024)*
+### Q140 — Clinical question A child presents with *(2024)*
 
 Clinical question A child presents with pruritic skin lesions and chronic diarrhoea. A gluten-free diet is recommended. What is the most probable diagnosis?
 
@@ -2728,8 +2235,7 @@ Clinical question A child presents with pruritic skin lesions and chronic diarrh
 </details>
 
 ---
-
-### Q162 — Which of the following vaccines should *(2024)*
+### Q141 — Which of the following vaccines should *(2024)*
 
 Which of the following vaccines should be kept at the lowest level?
 
@@ -2745,8 +2251,7 @@ Which of the following vaccines should be kept at the lowest level?
 </details>
 
 ---
-
-### Q163 — Identify the given fracture *(2024)*
+### Q142 — Identify the given fracture *(2024)*
 
 Identify the given fracture:
 
@@ -2762,8 +2267,7 @@ Identify the given fracture:
 </details>
 
 ---
-
-### Q164 — Clinical question A child presents with *(2024)*
+### Q143 — Clinical question A child presents with *(2024)*
 
 Clinical question A child presents with failure to pass stools and is diagnosed with Hirschsprung disease. Which of the following colon layers will show a congenital absence of neurons?
 
@@ -2779,8 +2283,7 @@ Clinical question A child presents with failure to pass stools and is diagnosed 
 </details>
 
 ---
-
-### Q165 — Which of the following represents the *(2024)*
+### Q144 — Which of the following represents the *(2024)*
 
 Which of the following represents the correct chronological order of steps in disaster management?
 
@@ -2796,8 +2299,7 @@ Which of the following represents the correct chronological order of steps in di
 </details>
 
 ---
-
-### Q166 — Clinical question A 27-year-old football player *(2024)*
+### Q145 — Clinical question A 27-year-old football player *(2024)*
 
 Clinical question A 27-year-old football player is brought to the ER after he collapsed due to sudden cardiac arrest. Based on the biopsy findings of his cardiac tissue, what is the most likely cause of his death?
 
@@ -2813,8 +2315,7 @@ Clinical question A 27-year-old football player is brought to the ER after he co
 </details>
 
 ---
-
-### Q167 — A young athlete presented with chest *(2024)*
+### Q146 — A young athlete presented with chest *(2024)*
 
 A young athlete presented with chest pain and dyspnea. His brother passed away due to sudden cardiac death. He is diagnosed with hypertrophic cardiomyopathy (HCM). A harsh systolic murmur is heard along the left sternal border. Which of the following maneuvers will increase the intensity of this murmur?
 
@@ -2830,8 +2331,7 @@ A young athlete presented with chest pain and dyspnea. His brother passed away d
 </details>
 
 ---
-
-### Q168 — What is the correct composition and *(2024)*
+### Q147 — What is the correct composition and *(2024)*
 
 What is the correct composition and dosing schedule of the Shanchol vaccine?
 
@@ -2847,8 +2347,7 @@ What is the correct composition and dosing schedule of the Shanchol vaccine?
 </details>
 
 ---
-
-### Q169 — For MDR-RR TB, what is the *(2024)*
+### Q148 — For MDR-RR TB, what is the *(2024)*
 
 For MDR-RR TB, what is the indication of short course bedaquiline?
 
@@ -2864,8 +2363,7 @@ For MDR-RR TB, what is the indication of short course bedaquiline?
 </details>
 
 ---
-
-### Q170 — Clinical question A 45-year-old man presents *(2024)*
+### Q149 — Clinical question A 45-year-old man presents *(2024)*
 
 Clinical question: A 45-year-old man presents with an irregular pulse and shortness of breath. Which of the following findings is most likely to be observed in his jugular venous pressure (JVP)?
 
@@ -2881,8 +2379,7 @@ Clinical question: A 45-year-old man presents with an irregular pulse and shortn
 </details>
 
 ---
-
-### Q171 — A 34-year-old patient presents with complaints *(2024)*
+### Q150 — A 34-year-old patient presents with complaints *(2024)*
 
 A 34-year-old patient presents with complaints of lethargy and persistent tiredness. On physical examination, he has noticeable perioral hyperpigmentation. His blood pressure is 90/60 mmHg and heart rate is 110 beats/minute. Laboratory investigations reveal serum sodium of 125 mEq/L and serum potassium of 5.5 mEq/L. What is the most appropriate treatment for this patient?
 
@@ -2898,8 +2395,7 @@ A 34-year-old patient presents with complaints of lethargy and persistent tiredn
 </details>
 
 ---
-
-### Q172 — An elderly female with a known *(2024)*
+### Q151 — An elderly female with a known *(2024)*
 
 An elderly female with a known history of scleroderma presents with shortness of breath. On clinical evaluation, her right ventricular systolic pressure is found to be 70–80 mmHg, and right heart catheterization reveals a pulmonary capillary wedge pressure of 35 mmHg. Which of the following statements is true regarding her condition?
 
@@ -2915,8 +2411,7 @@ An elderly female with a known history of scleroderma presents with shortness of
 </details>
 
 ---
-
-### Q173 — Which of the following correctly matches *(2024)*
+### Q152 — Which of the following correctly matches *(2024)*
 
 Which of the following correctly matches the receptor with its primary sensory function?
 
@@ -2932,8 +2427,7 @@ Which of the following correctly matches the receptor with its primary sensory f
 </details>
 
 ---
-
-### Q174 — A 30-year-old patient presents with weakness *(2024)*
+### Q153 — A 30-year-old patient presents with weakness *(2024)*
 
 A 30-year-old patient presents with weakness. Laboratory values are as follows: Blood pH: 7.3 Na⁺: 134 mEq/L K⁺: 2.8 mEq/L Cl⁻: 113 mEq/L HCO₃⁻: 12 mEq/L BUN: 3 mg/dL Creatinine: 0.6 mg/dL Urinary pH: 9.4 Which of the following is the most likely diagnosis?
 
@@ -2949,8 +2443,7 @@ A 30-year-old patient presents with weakness. Laboratory values are as follows: 
 </details>
 
 ---
-
-### Q175 — If words are interpreted differently by *(2024)*
+### Q154 — If words are interpreted differently by *(2024)*
 
 If words are interpreted differently by the sender and receiver during communication, what type of communication barrier does this represent?
 
@@ -2966,8 +2459,7 @@ If words are interpreted differently by the sender and receiver during communica
 </details>
 
 ---
-
-### Q176 — In a study examining the relationship *(2024)*
+### Q155 — In a study examining the relationship *(2024)*
 
 In a study examining the relationship between diet and disease incidence, 80 out of 200 vegetarians and 100 out of 200 non-vegetarians were found to have the disease. Which statistical test is most appropriate to assess the association between diet type and disease occurrence?
 
@@ -2983,8 +2475,7 @@ In a study examining the relationship between diet and disease incidence, 80 out
 </details>
 
 ---
-
-### Q177 — A patient presents with headache and *(2024)*
+### Q156 — A patient presents with headache and *(2024)*
 
 A patient presents with headache and confusion and is diagnosed with a brain tumor. Family history reveals the presence of both brain and kidney tumors in close relatives. What is the most likely diagnosis?
 
@@ -3000,8 +2491,7 @@ A patient presents with headache and confusion and is diagnosed with a brain tum
 </details>
 
 ---
-
-### Q178 — Which of the following is not *(2024)*
+### Q157 — Which of the following is not *(2024)*
 
 Which of the following is not a component of the school health program under Ayushman Bharat?
 
@@ -3017,8 +2507,7 @@ Which of the following is not a component of the school health program under Ayu
 </details>
 
 ---
-
-### Q179 — A 30-year-old patient presents with chest *(2024)*
+### Q158 — A 30-year-old patient presents with chest *(2024)*
 
 A 30-year-old patient presents with chest pain, shortness of breath, and pedal edema. Jugular venous pressure (JVP) shows a rapid Y descent. Auscultation reveals a high-pitched early diastolic sound. What is the most likely diagnosis?
 
@@ -3034,8 +2523,7 @@ A 30-year-old patient presents with chest pain, shortness of breath, and pedal e
 </details>
 
 ---
-
-### Q180 — Clinical Question A man presented with *(2024)*
+### Q159 — Clinical Question A man presented with *(2024)*
 
 A man presented with bilateral swelling of his legs, diarrhoea, and dyspnea. He has a history of consuming mustard oil from a local vendor. Which test should be performed by the health inspector to check for the adulterant?
 
@@ -3051,8 +2539,7 @@ A man presented with bilateral swelling of his legs, diarrhoea, and dyspnea. He 
 </details>
 
 ---
-
-### Q181 — Which of the following drugs will *(2024)*
+### Q160 — Which of the following drugs will *(2024)*
 
 Which of the following drugs will cause Torsades de Pointes if given with erythromycin?
 
@@ -3068,8 +2555,7 @@ Which of the following drugs will cause Torsades de Pointes if given with erythr
 </details>
 
 ---
-
-### Q182 — What is the median of the *(2024)*
+### Q161 — What is the median of the *(2024)*
 
 What is the median of the following data set? Data: 2, 3, 4, 4, 5, 6, 7, 8
 
@@ -3085,8 +2571,7 @@ What is the median of the following data set? Data: 2, 3, 4, 4, 5, 6, 7, 8
 </details>
 
 ---
-
-### Q183 — A 20-year-old female presents with an *(2024)*
+### Q162 — A 20-year-old female presents with an *(2024)*
 
 A 20-year-old female presents with an ovarian solid-cystic mass on ultrasound. Which combination of tumor markers is most appropriate for further evaluation of the likely ovarian tumor?
 
@@ -3102,8 +2587,7 @@ A 20-year-old female presents with an ovarian solid-cystic mass on ultrasound. W
 </details>
 
 ---
-
-### Q184 — Identify the logo *(2024)*
+### Q163 — Identify the logo *(2024)*
 
 Identify the logo?
 
@@ -3119,8 +2603,7 @@ Identify the logo?
 </details>
 
 ---
-
-### Q185 — A physician is evaluating a patient *(2024)*
+### Q164 — A physician is evaluating a patient *(2024)*
 
 A physician is evaluating a patient for an occupational disease and finds that a coproporphyrin test has been performed. Which of the following conditions is most likely suspected?
 
@@ -3136,8 +2619,7 @@ A physician is evaluating a patient for an occupational disease and finds that a
 </details>
 
 ---
-
-### Q186 — Which of the following statements regarding *(2024)*
+### Q165 — Which of the following statements regarding *(2024)*
 
 Which of the following statements regarding von Willebrand disease is incorrect?
 
@@ -3153,8 +2635,7 @@ Which of the following statements regarding von Willebrand disease is incorrect?
 </details>
 
 ---
-
-### Q187 — What is the full form of *(2024)*
+### Q166 — What is the full form of *(2024)*
 
 What is the full form of JSSK?
 
@@ -3170,8 +2651,7 @@ What is the full form of JSSK?
 </details>
 
 ---
-
-### Q188 — What is the confirmatory test for *(2024)*
+### Q167 — What is the confirmatory test for *(2024)*
 
 What is the confirmatory test for the given condition?
 
@@ -3187,8 +2667,7 @@ What is the confirmatory test for the given condition?
 </details>
 
 ---
-
-### Q189 — The following instrument is used for *(2024)*
+### Q168 — The following instrument is used for *(2024)*
 
 The following instrument is used for the measurement of?
 
@@ -3204,8 +2683,7 @@ The following instrument is used for the measurement of?
 </details>
 
 ---
-
-### Q190 — An alcoholic patient presented to the *(2024)*
+### Q169 — An alcoholic patient presented to the *(2024)*
 
 An alcoholic patient presented to the emergency in an unconscious state. Relatives stated that he had a similar episode of binge drinking one week back. On examination, his glucose was 49 mg/dL. What is the most appropriate treatment?
 
@@ -3221,8 +2699,7 @@ An alcoholic patient presented to the emergency in an unconscious state. Relativ
 </details>
 
 ---
-
-### Q191 — A mother presents with her child, *(2024)*
+### Q170 — A mother presents with her child, *(2024)*
 
 A mother presents with her child, who has papular skin lesions on the extensor surfaces. These lesions improve with supplementation of vitamins A, C, and essential amino acids. What is the most likely diagnosis?
 
@@ -3238,8 +2715,7 @@ A mother presents with her child, who has papular skin lesions on the extensor s
 </details>
 
 ---
-
-### Q192 — What is the most likely cause *(2024)*
+### Q171 — What is the most likely cause *(2024)*
 
 What is the most likely cause of death in a patient with idiopathic pulmonary fibrosis?
 
@@ -3255,8 +2731,7 @@ What is the most likely cause of death in a patient with idiopathic pulmonary fi
 </details>
 
 ---
-
-### Q193 — Which of the following substances should *(2024)*
+### Q172 — Which of the following substances should *(2024)*
 
 Which of the following substances should be eaten to prevent thiamine deficiency?
 
@@ -3272,8 +2747,7 @@ Which of the following substances should be eaten to prevent thiamine deficiency
 </details>
 
 ---
-
-### Q194 — A 50-year-old woman presents with exertional *(2024)*
+### Q173 — A 50-year-old woman presents with exertional *(2024)*
 
 A 50-year-old woman presents with exertional dyspnea and chest pain on exertion. Physical examination reveals a harsh systolic murmur radiating to the carotids. Echocardiography confirms the presence of aortic stenosis. Which of the following findings best distinguishes aortic stenosis from aortic regurgitation in terms of myocardial oxygen consumption?
 
@@ -3289,8 +2763,7 @@ A 50-year-old woman presents with exertional dyspnea and chest pain on exertion.
 </details>
 
 ---
-
-### Q195 — Meissners corpuscle D Fine touch *(2024)*
+### Q174 — Meissners corpuscle D Fine touch *(2024)*
 
 Meissner’s corpuscle D. Fine touch
 
@@ -3306,8 +2779,7 @@ Meissner’s corpuscle D. Fine touch
 </details>
 
 ---
-
-### Q196 — An adolescent boy presents with fever, *(2024)*
+### Q175 — An adolescent boy presents with fever, *(2024)*
 
 An adolescent boy presents with fever, purpuric rash over the thigh, and migratory swelling of the right knee and left ankle joints. On cardiac auscultation, a soft diastolic murmur is noted at the apex. Laboratory tests reveal negative rheumatoid factors. What is the most likely diagnosis?
 
@@ -3323,8 +2795,7 @@ An adolescent boy presents with fever, purpuric rash over the thigh, and migrato
 </details>
 
 ---
-
-### Q197 — A 28-year-old male presents to the *(2024)*
+### Q176 — A 28-year-old male presents to the *(2024)*
 
 A 28-year-old male presents to the emergency department after ingesting a large quantity of salicylic acid tablets. Arterial blood gas (ABG) analysis reveals: pH = 7.30 pCO₂ = 16 mmHg HCO₃⁻ = 6.3 mmol/L Na⁺ = 135 mmol/L K⁺ = 4.5 mmol/L Cl⁻ = 113.7 mmol/L Lactate = Normal Which of the following best describes the acid-base abnormality in this patient?
 
@@ -3340,8 +2811,7 @@ A 28-year-old male presents to the emergency department after ingesting a large 
 </details>
 
 ---
-
-### Q198 — A 45-year-old man presents with fatigue *(2024)*
+### Q177 — A 45-year-old man presents with fatigue *(2024)*
 
 A 45-year-old man presents with fatigue and hemoptysis. His hemoglobin has dropped from 12 g/dL to 8 g/dL in one week. Bronchoalveolar lavage reveals a reddish fluid, and his serum creatinine is elevated at 1.7 mg/dL. He tests ANCA-positive, and a renal biopsy shows pauciimmune glomerulonephritis without granulomatous inflammation. Which of the following is the most likely diagnosis?
 
@@ -3357,8 +2827,7 @@ A 45-year-old man presents with fatigue and hemoptysis. His hemoglobin has dropp
 </details>
 
 ---
-
-### Q199 — A 45-year-old man presents with complaints *(2024)*
+### Q178 — A 45-year-old man presents with complaints *(2024)*
 
 A 45-year-old man presents with complaints of persistent fatigue, bleeding from the gums, and hair changes. On examination, he has pallor, diffuse hair loss, and noticeable depigmentation of scalp hair. Which of the following trace element deficiencies best explains his clinical picture?
 
@@ -3374,8 +2843,7 @@ A 45-year-old man presents with complaints of persistent fatigue, bleeding from 
 </details>
 
 ---
-
-### Q200 — A patient presents with weakness of *(2024)*
+### Q179 — A patient presents with weakness of *(2024)*
 
 A patient presents with weakness of the right upper and lower limbs, along with left-sided facial nerve palsy and horizontal gaze palsy to the left side. What is the most probable diagnosis?
 
@@ -3391,8 +2859,7 @@ A patient presents with weakness of the right upper and lower limbs, along with 
 </details>
 
 ---
-
-### Q201 — A 48-year-old man presents with persistent *(2024)*
+### Q180 — A 48-year-old man presents with persistent *(2024)*
 
 A 48-year-old man presents with persistent headaches and progressive visual disturbance. On examination, he has prominent frontal bossing, thickened palms and soles, spaced central incisors, and coarse facial features. He is hypertensive and diabetic. What is the most appropriate screening test to evaluate his condition?
 
@@ -3408,8 +2875,7 @@ A 48-year-old man presents with persistent headaches and progressive visual dist
 </details>
 
 ---
-
-### Q202 — A 60-year-old woman presents with palpitations *(2024)*
+### Q181 — A 60-year-old woman presents with palpitations *(2024)*
 
 A 60-year-old woman presents with palpitations and lightheadedness. On examination, her pulse is irregularly irregular with a heart rate of 150 beats per minute. Auscultation reveals a loud P2 but no murmurs. What is the most likely finding on her jugular venous pulse (JVP) examination?
 
@@ -3425,8 +2891,7 @@ A 60-year-old woman presents with palpitations and lightheadedness. On examinati
 </details>
 
 ---
-
-### Q203 — In a patient with type 1 *(2024)*
+### Q182 — In a patient with type 1 *(2024)*
 
 In a patient with type 1 diabetes with 3rd stage of beta cell damage, which of the following situations is associated with the same?
 
@@ -3442,8 +2907,7 @@ In a patient with type 1 diabetes with 3rd stage of beta cell damage, which of t
 </details>
 
 ---
-
-### Q204 — A 30-year-old woman presents with complaints *(2024)*
+### Q183 — A 30-year-old woman presents with complaints *(2024)*
 
 A 30-year-old woman presents with complaints of neck swelling. She reports weight loss and palpitations. On examination, she has exophthalmos and a diffusely enlarged thyroid gland. Which of the following statements is not true?
 
@@ -3459,8 +2923,7 @@ A 30-year-old woman presents with complaints of neck swelling. She reports weigh
 </details>
 
 ---
-
-### Q205 — A young woman presents with complaints *(2024)*
+### Q184 — A young woman presents with complaints *(2024)*
 
 A young woman presents with complaints of weight loss, palpitations, heat intolerance, and hand tremors. On examination, she has exophthalmos. What is the most likely diagnosis?
 
@@ -3476,8 +2939,7 @@ A young woman presents with complaints of weight loss, palpitations, heat intole
 </details>
 
 ---
-
-### Q206 — What is the next best step *(2024)*
+### Q185 — What is the next best step *(2024)*
 
 What is the next best step in management of a pulseless patient with the following rhythm?
 
@@ -3493,8 +2955,7 @@ What is the next best step in management of a pulseless patient with the followi
 </details>
 
 ---
-
-### Q207 — A 60-year-old patient presents with complaints *(2024)*
+### Q186 — A 60-year-old patient presents with complaints *(2024)*
 
 A 60-year-old patient presents with complaints of chest pain and dyspnea. Pleural fluid analysis reveals a pleural fluid protein to serum protein ratio >0.5 and a pleural fluid LDH to serum LDH ratio >0.4. Which of the following is the most likely diagnosis?
 
@@ -3510,8 +2971,7 @@ A 60-year-old patient presents with complaints of chest pain and dyspnea. Pleura
 </details>
 
 ---
-
-### Q208 — What is the expected finding in *(2024)*
+### Q187 — What is the expected finding in *(2024)*
 
 What is the expected finding in a patient with the following CXR?
 
@@ -3527,8 +2987,7 @@ What is the expected finding in a patient with the following CXR?
 </details>
 
 ---
-
-### Q209 — A 30-year-old male suffered a road *(2024)*
+### Q188 — A 30-year-old male suffered a road *(2024)*
 
 A 30-year-old male suffered a road traffic accident (RTA). A few days later, he presents with exaggerated right-sided extensor plantar reflex and increased right knee jerk. Which of the following additional findings is most likely in this patient?
 
@@ -3545,10 +3004,38 @@ A 30-year-old male suffered a road traffic accident (RTA). A few days later, he 
 
 ---
 
-
 ## Surgery
 
-### Q210 — A jeep driver presented with pain *(2024)*
+### Q189 — Suprapubic catheter instrument
+
+Instrument used to insert a specific tube (suprapubic catheter).
+
+- A. Nephroscope
+- B. Cysto-urethroscope
+- C. Ureteroscope
+- D. Endoscope
+
+<details><summary>Answer</summary>
+
+**B. Cysto-urethroscope** — Used in cystoscopy-assisted suprapubic catheterisation.
+</details>
+### Q190 — VAC therapy pressure
+
+Ideal pressure setting for vacuum-assisted closure (VAC) therapy?
+
+- A. −125 mm Hg
+- B. 60–80 mm Hg
+- C. 130 mm Hg
+- D. 80–100 mm Hg
+
+<details><summary>Answer</summary>
+
+**A. −125 mm Hg** — Standard continuous negative pressure for VAC dressings.
+</details>
+
+---
+<!-- Source: DocTutorials NEET-PG 2024 Shift 1 & 2 recall questions -->
+### Q191 — A jeep driver presented with pain *(2024)*
 
 A jeep driver presented with pain in the gluteal region along with swelling. What is the most likely diagnosis?
 
@@ -3564,8 +3051,7 @@ A jeep driver presented with pain in the gluteal region along with swelling. Wha
 </details>
 
 ---
-
-### Q211 — A patient presents with a headache, *(2024)*
+### Q192 — A patient presents with a headache, *(2024)*
 
 A patient presents with a headache, recurrent episodes of high blood pressure, and tachycardia. Her urine shows elevated levels of vanillylmandelic acid, and a CT scan reveals a retroperitoneal tumour in the right lumbar region. Which of the following syndromes is not typically associated with this condition?
 
@@ -3581,8 +3067,7 @@ A patient presents with a headache, recurrent episodes of high blood pressure, a
 </details>
 
 ---
-
-### Q212 — A man presented to the emergency *(2024)*
+### Q193 — A man presented to the emergency *(2024)*
 
 A man presented to the emergency after a road traffic accident (RTA) with chest pain and breathing difficulty. An X-ray was done. What type of breathing pattern is observed in this patient?
 
@@ -3598,8 +3083,7 @@ A man presented to the emergency after a road traffic accident (RTA) with chest 
 </details>
 
 ---
-
-### Q213 — An elderly male presents with the *(2024)*
+### Q194 — An elderly male presents with the *(2024)*
 
 An elderly male presents with the following lesion as shown and then diagnosed with carcinoma of stage T3 lesion with no clinically palpable inguinal lymph node. What is management?
 
@@ -3615,8 +3099,7 @@ An elderly male presents with the following lesion as shown and then diagnosed w
 </details>
 
 ---
-
-### Q214 — Based on the constituents, identify the *(2024)*
+### Q195 — Based on the constituents, identify the *(2024)*
 
 Based on the constituents, identify the fluid given to post-operative patients: Constituent Composition Sodium (Na) 130 mmol/l Chloride (Cl) 109 mmol/l Lactate 28 mmol/l Potassium (K) 4 mmol/l Calcium (Ca) 1.5 mmol/l
 
@@ -3632,8 +3115,7 @@ Based on the constituents, identify the fluid given to post-operative patients: 
 </details>
 
 ---
-
-### Q215 — The most common congenital diaphragmatic hernia *(2024)*
+### Q196 — The most common congenital diaphragmatic hernia *(2024)*
 
 The most common congenital diaphragmatic hernia seen in neonates is:
 
@@ -3649,8 +3131,7 @@ The most common congenital diaphragmatic hernia seen in neonates is:
 </details>
 
 ---
-
-### Q216 — Which of the following is a *(2024)*
+### Q197 — Which of the following is a *(2024)*
 
 Which of the following is a complication of Total Parenteral Nutrition (TPN) in a sepsis patient in the ICU?
 
@@ -3666,8 +3147,7 @@ Which of the following is a complication of Total Parenteral Nutrition (TPN) in 
 </details>
 
 ---
-
-### Q217 — A woman noticed neck swelling 2 *(2024)*
+### Q198 — A woman noticed neck swelling 2 *(2024)*
 
 A woman noticed neck swelling 2 months back. Clinical examination reveals a solitary nodule on the right side. What is the most appropriate initial investigation in this patient?
 
@@ -3683,8 +3163,7 @@ A woman noticed neck swelling 2 months back. Clinical examination reveals a soli
 </details>
 
 ---
-
-### Q218 — A patient with adenocarcinoma of the *(2024)*
+### Q199 — A patient with adenocarcinoma of the *(2024)*
 
 A patient with adenocarcinoma of the stomach undergoes distal gastrectomy. Which nutrient should be supplemented for the patient?
 
@@ -3700,8 +3179,7 @@ A patient with adenocarcinoma of the stomach undergoes distal gastrectomy. Which
 </details>
 
 ---
-
-### Q219 — Identify the procedure commonly performed in *(2024)*
+### Q200 — Identify the procedure commonly performed in *(2024)*
 
 Identify the procedure commonly performed in patients with recurrent gastroesophageal reflux disease (GERD):
 
@@ -3717,8 +3195,7 @@ Identify the procedure commonly performed in patients with recurrent gastroesoph
 </details>
 
 ---
-
-### Q220 — A patient is diagnosed with Stanford *(2024)*
+### Q201 — A patient is diagnosed with Stanford *(2024)*
 
 A patient is diagnosed with Stanford type B aortic dissection. What is the most appropriate initial management of this patient?
 
@@ -3734,8 +3211,7 @@ A patient is diagnosed with Stanford type B aortic dissection. What is the most 
 </details>
 
 ---
-
-### Q221 — How does the graft get nutrition *(2024)*
+### Q202 — How does the graft get nutrition *(2024)*
 
 How does the graft get nutrition on day 3?
 
@@ -3751,8 +3227,7 @@ How does the graft get nutrition on day 3?
 </details>
 
 ---
-
-### Q222 — A 30-year-old patient with extensive third-degree *(2024)*
+### Q203 — A 30-year-old patient with extensive third-degree *(2024)*
 
 A 30-year-old patient with extensive third-degree burns requires skin grafting. What type of graft is used to cover the post-burn wound?
 
@@ -3768,8 +3243,7 @@ A 30-year-old patient with extensive third-degree burns requires skin grafting. 
 </details>
 
 ---
-
-### Q223 — What is the earliest age at *(2024)*
+### Q204 — What is the earliest age at *(2024)*
 
 What is the earliest age at which a unilateral cleft lip in a newborn can be corrected?
 
@@ -3785,8 +3259,7 @@ What is the earliest age at which a unilateral cleft lip in a newborn can be cor
 </details>
 
 ---
-
-### Q224 — A patient with oral cancer underwent *(2024)*
+### Q205 — A patient with oral cancer underwent *(2024)*
 
 A patient with oral cancer underwent radical surgery with PMMC flap reconstruction. What is the important indicator for adjuvant radiotherapy?
 
@@ -3802,8 +3275,7 @@ A patient with oral cancer underwent radical surgery with PMMC flap reconstructi
 </details>
 
 ---
-
-### Q225 — What is the ideal pressure setting *(2024)*
+### Q206 — What is the ideal pressure setting *(2024)*
 
 What is the ideal pressure setting for vacuum-assisted closure (VAC) therapy?
 
@@ -3819,8 +3291,7 @@ What is the ideal pressure setting for vacuum-assisted closure (VAC) therapy?
 </details>
 
 ---
-
-### Q226 — A 40-year-old female presents with an *(2024)*
+### Q207 — A 40-year-old female presents with an *(2024)*
 
 A 40-year-old female presents with an irregular 5 x 6 cm mass in the right breast. Histopathological examination reveals findings consistent with which of the following diagnoses?
 
@@ -3836,8 +3307,7 @@ A 40-year-old female presents with an irregular 5 x 6 cm mass in the right breas
 </details>
 
 ---
-
-### Q227 — Identify the disease *(2024)*
+### Q208 — Identify the disease *(2024)*
 
 Identify the disease.
 
@@ -3853,8 +3323,7 @@ Identify the disease.
 </details>
 
 ---
-
-### Q228 — A mother brought her 3-month-old male *(2024)*
+### Q209 — A mother brought her 3-month-old male *(2024)*
 
 A mother brought her 3-month-old male child to the hospital due to an inability to pass urine, with a similar episode occurring 15 days ago. Catheterization was performed without difficulty. A radiograph is provided. What is the appropriate management?
 
@@ -3870,8 +3339,7 @@ A mother brought her 3-month-old male child to the hospital due to an inability 
 </details>
 
 ---
-
-### Q229 — A baby was brought with complaints *(2024)*
+### Q210 — A baby was brought with complaints *(2024)*
 
 A baby was brought with complaints of discharge from the umbilicus of fecal matter. What is the diagnosis?
 
@@ -3887,8 +3355,7 @@ A baby was brought with complaints of discharge from the umbilicus of fecal matt
 </details>
 
 ---
-
-### Q230 — A 20-year-old chronic alcoholic presents with *(2024)*
+### Q211 — A 20-year-old chronic alcoholic presents with *(2024)*
 
 A 20-year-old chronic alcoholic presents with severe hematemesis. Ultrasonography reveals distention of the portal vein, and the liver appears hyperechoic. Pantoprazole has been initiated. What is the next appropriate step in management?
 
@@ -3904,8 +3371,7 @@ A 20-year-old chronic alcoholic presents with severe hematemesis. Ultrasonograph
 </details>
 
 ---
-
-### Q231 — Identify the procedure done *(2024)*
+### Q212 — Identify the procedure done *(2024)*
 
 Identify the procedure done.
 
@@ -3921,8 +3387,7 @@ Identify the procedure done.
 </details>
 
 ---
-
-### Q232 — A patient presents to the outpatient *(2024)*
+### Q213 — A patient presents to the outpatient *(2024)*
 
 A patient presents to the outpatient department (OPD) with recurrent diarrhoea, abdominal pain, and foul-smelling stools. A colonoscopy reveals yellowish-white raised plaques over the colonic mucosa. What is the most likely diagnosis?
 
@@ -3938,8 +3403,7 @@ A patient presents to the outpatient department (OPD) with recurrent diarrhoea, 
 </details>
 
 ---
-
-### Q233 — A female patient presented to the *(2024)*
+### Q214 — A female patient presented to the *(2024)*
 
 A female patient presented to the outpatient department with a breast mass, as shown, with HER2 positivity and liver metastasis. What is the appropriate management?
 
@@ -3955,8 +3419,7 @@ A female patient presented to the outpatient department with a breast mass, as s
 </details>
 
 ---
-
-### Q234 — A patient presents with a history *(2024)*
+### Q215 — A patient presents with a history *(2024)*
 
 A patient presents with a history of umbilical swelling, initially asymptomatic for many years, and now complains of pain over the swelling. It was reducible initially, but now it is non-reducible. What is the appropriate management?
 
@@ -3972,8 +3435,7 @@ A patient presents with a history of umbilical swelling, initially asymptomatic 
 </details>
 
 ---
-
-### Q235 — What instrument is used to insert *(2024)*
+### Q216 — What instrument is used to insert *(2024)*
 
 What instrument is used to insert this tube?
 
@@ -3989,8 +3451,7 @@ What instrument is used to insert this tube?
 </details>
 
 ---
-
-### Q236 — A male child experiences acute scrotal *(2024)*
+### Q217 — A male child experiences acute scrotal *(2024)*
 
 A male child experiences acute scrotal pain while playing. He is brought to the emergency department, where a Doppler ultrasound is performed followed by immediate surgical exploration, which showed the following findings. What is the most probable diagnosis?
 
@@ -4006,8 +3467,7 @@ A male child experiences acute scrotal pain while playing. He is brought to the 
 </details>
 
 ---
-
-### Q237 — Identify the given drain *(2024)*
+### Q218 — Identify the given drain *(2024)*
 
 Identify the given drain:
 
@@ -4024,10 +3484,37 @@ Identify the given drain:
 
 ---
 
-
 ## Obstetrics & Gynaecology
 
-### Q238 — A 50-year-old woman, who had her *(2024)*
+### Q219 — Ventouse flexion point
+
+The flexion point in ventouse delivery is located at which position on the fetal head?
+
+- A. 3 cm posterior to anterior fontanelle
+- B. 3 cm anterior to posterior fontanelle
+- C. 6 cm anterior to posterior fontanelle
+- D. Midway between fontanelles
+
+<details><summary>Answer</summary>
+
+**B. 3 cm anterior to posterior fontanelle** — Correct placement promotes flexion and minimizes trauma.
+</details>
+### Q220 — Forceps identification (image)
+
+Identify the instrument shown.
+
+- A. Kielland
+- B. Wrigley
+- C. Pipers
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Piper's forceps** — Used for the after-coming head in breech delivery.
+</details>
+
+---
+### Q221 — A 50-year-old woman, who had her *(2024)*
 
 A 50-year-old woman, who had her last pregnancy 20 years ago, presents with heavy bleeding and a mass felt on the perineum. A smooth, round, globular structure is observed on examination. On bimanual examination, the uterus is firm, and the cervix admits one finger. What is the most likely diagnosis?
 
@@ -4043,8 +3530,7 @@ A 50-year-old woman, who had her last pregnancy 20 years ago, presents with heav
 </details>
 
 ---
-
-### Q239 — A woman presents with a twin *(2024)*
+### Q222 — A woman presents with a twin *(2024)*
 
 A woman presents with a twin pregnancy. On ultrasound, the estimated age of one fetus is 1 month more than the other fetus.
 
@@ -4060,8 +3546,7 @@ A woman presents with a twin pregnancy. On ultrasound, the estimated age of one 
 </details>
 
 ---
-
-### Q240 — In sacrocolpopexy (sacrocolposuspension), which is *(2024)*
+### Q223 — In sacrocolpopexy (sacrocolposuspension), which is *(2024)*
 
 In sacrocolpopexy (sacrocolposuspension), which is the correct site of attachment of the mesh?
 
@@ -4077,8 +3562,7 @@ In sacrocolpopexy (sacrocolposuspension), which is the correct site of attachmen
 </details>
 
 ---
-
-### Q241 — A pregnant woman with bronchial asthma *(2024)*
+### Q224 — A pregnant woman with bronchial asthma *(2024)*
 
 A pregnant woman with bronchial asthma develops postpartum hemorrhage (PPH) during delivery of her first child. Which drug is contraindicated?
 
@@ -4094,8 +3578,7 @@ A pregnant woman with bronchial asthma develops postpartum hemorrhage (PPH) duri
 </details>
 
 ---
-
-### Q242 — A pregnant woman presents in labor *(2024)*
+### Q225 — A pregnant woman presents in labor *(2024)*
 
 A pregnant woman presents in labor with active genital ulcers, likely of infectious etiology such as Herpes Simplex Virus (HSV).
 
@@ -4111,8 +3594,7 @@ A pregnant woman presents in labor with active genital ulcers, likely of infecti
 </details>
 
 ---
-
-### Q243 — Persistent occipito-posterior (OP) face-to-pubis d *(2024)*
+### Q226 — Persistent occipito-posterior (OP) face-to-pubis d *(2024)*
 
 Persistent occipito-posterior (OP) face-to-pubis delivery is most likely to be seen in which pelvic type?
 
@@ -4128,8 +3610,7 @@ Persistent occipito-posterior (OP) face-to-pubis delivery is most likely to be s
 </details>
 
 ---
-
-### Q244 — A woman seeks Medical Termination of *(2024)*
+### Q227 — A woman seeks Medical Termination of *(2024)*
 
 A woman seeks Medical Termination of Pregnancy (MTP) after 24 weeks of gestation due to fetal anomalies. Whose opinion is not required in this decision?
 
@@ -4145,8 +3626,7 @@ A woman seeks Medical Termination of Pregnancy (MTP) after 24 weeks of gestation
 </details>
 
 ---
-
-### Q245 — A woman presents at 10 weeks *(2024)*
+### Q228 — A woman presents at 10 weeks *(2024)*
 
 A woman presents at 10 weeks of gestation and seeks medical termination of pregnancy (MTP). The appropriate choice would be?
 
@@ -4162,8 +3642,7 @@ A woman presents at 10 weeks of gestation and seeks medical termination of pregn
 </details>
 
 ---
-
-### Q246 — After ovulation, the egg is released *(2024)*
+### Q229 — After ovulation, the egg is released *(2024)*
 
 After ovulation, the egg is released from the ovary. At what stage of meiosis is the released egg arrested?
 
@@ -4179,8 +3658,7 @@ After ovulation, the egg is released from the ovary. At what stage of meiosis is
 </details>
 
 ---
-
-### Q247 — Youre assisting with a ventouse (vacuum-assisted) *(2024)*
+### Q230 — Youre assisting with a ventouse (vacuum-assisted) *(2024)*
 
 You're assisting with a ventouse (vacuum-assisted) delivery in a primigravida woman due to maternal exhaustion. The obstetrician instructs you to place the ventouse cup correctly. Where should the ventouse cup be placed?
 
@@ -4196,8 +3674,7 @@ You're assisting with a ventouse (vacuum-assisted) delivery in a primigravida wo
 </details>
 
 ---
-
-### Q248 — Which of the following is the *(2024)*
+### Q231 — Which of the following is the *(2024)*
 
 Which of the following is the anticoagulation of choice for a pregnant female at 36 weeks of gestation?
 
@@ -4213,8 +3690,7 @@ Which of the following is the anticoagulation of choice for a pregnant female at
 </details>
 
 ---
-
-### Q249 — A woman has just delivered a *(2024)*
+### Q232 — A woman has just delivered a *(2024)*
 
 A woman has just delivered a healthy baby via normal vaginal delivery. You are considering the timing of IUCD insertion for contraception. What is the earliest time at which an intrauterine contraceptive device (IUCD) can be inserted?
 
@@ -4230,8 +3706,7 @@ A woman has just delivered a healthy baby via normal vaginal delivery. You are c
 </details>
 
 ---
-
-### Q250 — What is the typical time between *(2024)*
+### Q233 — What is the typical time between *(2024)*
 
 What is the typical time between fertilization and implantation in human reproduction?
 
@@ -4247,8 +3722,7 @@ What is the typical time between fertilization and implantation in human reprodu
 </details>
 
 ---
-
-### Q251 — A 37-week pregnant woman with a *(2024)*
+### Q234 — A 37-week pregnant woman with a *(2024)*
 
 A 37-week pregnant woman with a breech presentation is being evaluated for external cephalic version (ECV). Which of the following is not a contraindication for ECV?
 
@@ -4264,8 +3738,7 @@ A 37-week pregnant woman with a breech presentation is being evaluated for exter
 </details>
 
 ---
-
-### Q252 — A woman is undergoing elective tubal *(2024)*
+### Q235 — A woman is undergoing elective tubal *(2024)*
 
 A woman is undergoing elective tubal ligation for permanent contraception. Which is the most common site selected for ligation, and what is the reason for choosing this site?
 
@@ -4281,8 +3754,7 @@ A woman is undergoing elective tubal ligation for permanent contraception. Which
 </details>
 
 ---
-
-### Q253 — A pregnant woman at 8 weeks *(2024)*
+### Q236 — A pregnant woman at 8 weeks *(2024)*
 
 A pregnant woman at 8 weeks of gestation presents with symptoms suggestive of hyperthyroidism. What is the drug of choice for treating hyperthyroidism during the first trimester of pregnancy?
 
@@ -4298,8 +3770,7 @@ A pregnant woman at 8 weeks of gestation presents with symptoms suggestive of hy
 </details>
 
 ---
-
-### Q254 — A woman at 32 weeks of *(2024)*
+### Q237 — A woman at 32 weeks of *(2024)*
 
 A woman at 32 weeks of gestation presents with a heart rate of 120 bpm and blood pressure of 160/110 mmHg. She has pedal edema and proteinuria and is diagnosed with eclampsia. She is started on the Pritchard regimen with magnesium sulfate. Under which of the following conditions should the treatment be stopped?
 
@@ -4315,8 +3786,7 @@ A woman at 32 weeks of gestation presents with a heart rate of 120 bpm and blood
 </details>
 
 ---
-
-### Q255 — A patient presents with a new *(2024)*
+### Q238 — A patient presents with a new *(2024)*
 
 A patient presents with a new 2 cm black nodular mass near an episiotomy scar that is painful and expands during menstruation. What is the most likely cause?
 
@@ -4332,8 +3802,7 @@ A patient presents with a new 2 cm black nodular mass near an episiotomy scar th
 </details>
 
 ---
-
-### Q256 — A 35-year-old woman presents with chronic *(2024)*
+### Q239 — A 35-year-old woman presents with chronic *(2024)*
 
 A 35-year-old woman presents with chronic lower abdominal pain that worsens during menstruation. An ultrasound (USG) shows a cystic ovarian mass with a “ground glass” appearance. Which of the following conditions is most likely associated with these findings?
 
@@ -4349,8 +3818,7 @@ A 35-year-old woman presents with chronic lower abdominal pain that worsens duri
 </details>
 
 ---
-
-### Q257 — A 45-year-old woman presents with complaints *(2024)*
+### Q240 — A 45-year-old woman presents with complaints *(2024)*
 
 A 45-year-old woman presents with complaints of spotting and foul-smelling discharge for the past 2 months. On examination, cervical erosions are seen.
 
@@ -4366,8 +3834,7 @@ A 45-year-old woman presents with complaints of spotting and foul-smelling disch
 </details>
 
 ---
-
-### Q258 — A 28-year-old woman with a 10-week *(2024)*
+### Q241 — A 28-year-old woman with a 10-week *(2024)*
 
 A 28-year-old woman with a 10-week intrauterine gestation presents to the OPD with an intrauterine contraceptive device (IUCD) in place. The IUCD thread is clearly visible. She expresses her desire to continue the pregnancy. What is the next best step in management?
 
@@ -4383,8 +3850,7 @@ A 28-year-old woman with a 10-week intrauterine gestation presents to the OPD wi
 </details>
 
 ---
-
-### Q259 — A 29-year-old woman presents with a *(2024)*
+### Q242 — A 29-year-old woman presents with a *(2024)*
 
 A 29-year-old woman presents with a history of infertility and chronic pelvic pain. A transvaginal ultrasound is performed, which reveals an adnexal mass characterized by incomplete septations and a cogwheel appearance. What is the most likely diagnosis?
 
@@ -4400,8 +3866,7 @@ A 29-year-old woman presents with a history of infertility and chronic pelvic pa
 </details>
 
 ---
-
-### Q260 — Identify the degree of uterine prolapse *(2024)*
+### Q243 — Identify the degree of uterine prolapse *(2024)*
 
 Identify the degree of uterine prolapse.
 
@@ -4417,8 +3882,7 @@ Identify the degree of uterine prolapse.
 </details>
 
 ---
-
-### Q261 — A 37-weeks pregnant woman with a *(2024)*
+### Q244 — A 37-weeks pregnant woman with a *(2024)*
 
 A 37-weeks pregnant woman with a mechanical prosthetic heart valve on warfarin presents for a routine antenatal check-up. She is asymptomatic and reports no bleeding or contractions.
 
@@ -4434,8 +3898,7 @@ A 37-weeks pregnant woman with a mechanical prosthetic heart valve on warfarin p
 </details>
 
 ---
-
-### Q262 — A patient with cervical cancer is *(2024)*
+### Q245 — A patient with cervical cancer is *(2024)*
 
 A patient with cervical cancer is found to have pelvic sidewall involvement and hydronephrosis on evaluation. What is the stage?
 
@@ -4451,8 +3914,7 @@ A patient with cervical cancer is found to have pelvic sidewall involvement and 
 </details>
 
 ---
-
-### Q263 — What is this grid system used *(2024)*
+### Q246 — What is this grid system used *(2024)*
 
 What is this grid system used for?
 
@@ -4468,8 +3930,7 @@ What is this grid system used for?
 </details>
 
 ---
-
-### Q264 — A G5P4 woman comes for her *(2024)*
+### Q247 — A G5P4 woman comes for her *(2024)*
 
 A G5P4 woman comes for her first routine sonography. She has four daughters and desires a boy this time, and asks to know the sex of the fetus. According to the PCPNDT Act, which action should a radiologist choose?
 
@@ -4486,10 +3947,37 @@ A G5P4 woman comes for her first routine sonography. She has four daughters and 
 
 ---
 
-
 ## Paediatrics
 
-### Q265 — A floppy infant presents with hypotonia, *(2024)*
+### Q248 — Vomiting + non-glucose reducing substance
+
+An infant with vomiting after feeding; Benedict's test positive for a non-glucose substance. Most likely?
+
+- A. Galactosaemia (GAL-1-P uridyl transferase deficiency)
+- B. Hereditary fructose intolerance (aldolase B deficiency)
+- C. G6PD deficiency
+- D. Galactokinase deficiency
+
+<details><summary>Answer</summary>
+
+**A. Galactosaemia (GAL-1-P uridyl transferase deficiency)** — Classic galactosaemia presents with vomiting, jaundice, hepatomegaly, cataracts; non-glucose reducing sugar in urine.
+</details>
+### Q249 — Neonatal abdominal-wall defect
+
+Neonatal anomaly depicted: defect below umbilicus with exposed bladder mucosa.
+
+- A. Omphalocele
+- B. Gastroschisis
+- C. Patent vitelline duct
+- D. Bladder exstrophy
+
+<details><summary>Answer</summary>
+
+**D. Bladder exstrophy** — Infraumbilical midline defect with exposed bladder; associated with epispadias.
+</details>
+
+---
+### Q250 — A floppy infant presents with hypotonia, *(2024)*
 
 A floppy infant presents with hypotonia, hepatomegaly, and cardiomegaly on chest X-ray. Which of the following is the most likely diagnosis?
 
@@ -4505,8 +3993,7 @@ A floppy infant presents with hypotonia, hepatomegaly, and cardiomegaly on chest
 </details>
 
 ---
-
-### Q266 — Ajay, a 3-year-old child, is the *(2024)*
+### Q251 — Ajay, a 3-year-old child, is the *(2024)*
 
 Ajay, a 3-year-old child, is the younger brother of Anuj, who is currently undergoing treatment for diphtheria in the hospital. Ajay lives in the same household and received his diphtheria vaccination 16 months ago. What is the most appropriate course of action for the care of Ajay?
 
@@ -4522,8 +4009,7 @@ Ajay, a 3-year-old child, is the younger brother of Anuj, who is currently under
 </details>
 
 ---
-
-### Q267 — At what age is surgery typically *(2024)*
+### Q252 — At what age is surgery typically *(2024)*
 
 At what age is surgery typically performed for cleft lip in infants?
 
@@ -4539,8 +4025,7 @@ At what age is surgery typically performed for cleft lip in infants?
 </details>
 
 ---
-
-### Q268 — A 3-year-old boy presents with fever, *(2024)*
+### Q253 — A 3-year-old boy presents with fever, *(2024)*
 
 A 3-year-old boy presents with fever, rash, bleeding gums, and a positive tourniquet test. His platelet count is 25,000/mm³. Which of the following is the most important prognostic feature in this clinical scenario?
 
@@ -4556,8 +4041,7 @@ A 3-year-old boy presents with fever, rash, bleeding gums, and a positive tourni
 </details>
 
 ---
-
-### Q269 — Which of the following is the *(2024)*
+### Q254 — Which of the following is the *(2024)*
 
 Which of the following is the most common type of congenital diaphragmatic hernia?
 
@@ -4573,8 +4057,7 @@ Which of the following is the most common type of congenital diaphragmatic herni
 </details>
 
 ---
-
-### Q270 — An infant presents with vomiting after *(2024)*
+### Q255 — An infant presents with vomiting after *(2024)*
 
 An infant presents with vomiting after feeding. A Benedict’s test is performed and returns positive for a non-glucose reducing substance. What is the most likely diagnosis?
 
@@ -4590,8 +4073,7 @@ An infant presents with vomiting after feeding. A Benedict’s test is performed
 </details>
 
 ---
-
-### Q271 — An infant presents with recurrent chest *(2024)*
+### Q256 — An infant presents with recurrent chest *(2024)*
 
 An infant presents with recurrent chest infections and tachypnea. Identify the likely clinical condition.
 
@@ -4607,8 +4089,7 @@ An infant presents with recurrent chest infections and tachypnea. Identify the l
 </details>
 
 ---
-
-### Q272 — What is Celiac Sprue in a *(2024)*
+### Q257 — What is Celiac Sprue in a *(2024)*
 
 What is Celiac Sprue in a child?
 
@@ -4624,8 +4105,7 @@ What is Celiac Sprue in a child?
 </details>
 
 ---
-
-### Q273 — A 2-year-old child presents with stable *(2024)*
+### Q258 — A 2-year-old child presents with stable *(2024)*
 
 A 2-year-old child presents with stable vitals and an ECG showing paroxysmal supraventricular tachycardia (PSVT). Which of the following is the appropriate treatment?
 
@@ -4641,8 +4121,7 @@ A 2-year-old child presents with stable vitals and an ECG showing paroxysmal sup
 </details>
 
 ---
-
-### Q274 — At which of the following ages *(2024)*
+### Q259 — At which of the following ages *(2024)*
 
 At which of the following ages does maximum brain growth occur?
 
@@ -4658,8 +4137,7 @@ At which of the following ages does maximum brain growth occur?
 </details>
 
 ---
-
-### Q275 — An 18-month-old child presents with hepatosplenome *(2024)*
+### Q260 — An 18-month-old child presents with hepatosplenome *(2024)*
 
 An 18-month-old child presents with hepatosplenomegaly, a hemoglobin level of 7 g/dL, a white blood cell count of 50,000 cells/cu.mm, and petechiae and purpura. What is the recommended drug treatment for this condition?
 
@@ -4675,8 +4153,7 @@ An 18-month-old child presents with hepatosplenomegaly, a hemoglobin level of 7 
 </details>
 
 ---
-
-### Q276 — A child presents with malnutrition and *(2024)*
+### Q261 — A child presents with malnutrition and *(2024)*
 
 A child presents with malnutrition and multiple follicular, dry papules on the elbows and knees. Improvement of the skin lesions is observed following vitamin supplementation. What is the most likely diagnosis?
 
@@ -4693,10 +4170,37 @@ A child presents with malnutrition and multiple follicular, dry papules on the e
 
 ---
 
-
 ## Orthopaedics
 
-### Q277 — A pediatric patient presents with a *(2024)*
+### Q262 — Back pain post-RTA, no deficit
+
+A man with back pain post-RTA, no neurological deficit. X-ray spine shown. Diagnosis?
+
+- A. Spinous process fracture
+- B. Chance fracture
+- C. Fracture of vertebral base
+- D. Compression fracture
+
+<details><summary>Answer</summary>
+
+**A. Spinous process fracture** *(per answer key)* — Stable injury, no deficit. (Chance fracture = flexion-distraction with seatbelt mechanism.)
+</details>
+### Q263 — Hypophosphataemic rickets
+
+A child with growth failure, normal calcium, normal PTH, reduced phosphate, increased ALP. Diagnosis?
+
+- A. Nutritional rickets
+- B. Hypophosphataemic rickets
+- C. Type 1 VDDR
+- D. Type 2 VDDR
+
+<details><summary>Answer</summary>
+
+**B. Hypophosphataemic rickets** — X-linked dominant (PHEX mutation). FGF23-driven phosphate wasting; PTH and Ca normal.
+</details>
+
+---
+### Q264 — A pediatric patient presents with a *(2024)*
 
 A pediatric patient presents with a completely displaced supracondylar fracture of the humerus, confirmed on X-ray. Which classification is used for this type of fracture, and what is its stage?
 
@@ -4712,8 +4216,7 @@ A pediatric patient presents with a completely displaced supracondylar fracture 
 </details>
 
 ---
-
-### Q278 — Linear growth of bone is disturbed *(2024)*
+### Q265 — Linear growth of bone is disturbed *(2024)*
 
 Linear growth of bone is disturbed when a fracture occurs in which of the following locations?
 
@@ -4729,8 +4232,7 @@ Linear growth of bone is disturbed when a fracture occurs in which of the follow
 </details>
 
 ---
-
-### Q279 — An 8-year-old male child presents with *(2024)*
+### Q266 — An 8-year-old male child presents with *(2024)*
 
 An 8-year-old male child presents with fever and tenderness in the left lower limb. The limb is warm to the touch, and ESR is raised. An X-ray reveals periosteal elevation. What is the most likely diagnosis?
 
@@ -4746,8 +4248,7 @@ An 8-year-old male child presents with fever and tenderness in the left lower li
 </details>
 
 ---
-
-### Q280 — A patient suffers an inversion injury *(2024)*
+### Q267 — A patient suffers an inversion injury *(2024)*
 
 A patient suffers an inversion injury to the ankle during a football match. Which structure is most likely to get injured?
 
@@ -4763,8 +4264,7 @@ A patient suffers an inversion injury to the ankle during a football match. Whic
 </details>
 
 ---
-
-### Q281 — A man presents with back pain *(2024)*
+### Q268 — A man presents with back pain *(2024)*
 
 A man presents with back pain following a road traffic accident. There was no history of neurological deficit. X-ray spine is done. What is the diagnosis?
 
@@ -4780,8 +4280,7 @@ A man presents with back pain following a road traffic accident. There was no hi
 </details>
 
 ---
-
-### Q282 — A patient presents with a 5th *(2024)*
+### Q269 — A patient presents with a 5th *(2024)*
 
 A patient presents with a 5th metatarsal fracture. For how many days he/she would have to wear a cast?
 
@@ -4798,10 +4297,37 @@ A patient presents with a 5th metatarsal fracture. For how many days he/she woul
 
 ---
 
-
 ## ENT
 
-### Q283 — Identify the given drain Surgery *(2024)*
+### Q270 — Singer with low-pitched bowed cords
+
+A singer with difficulty raising pitch, depressed and bowing vocal cords. Involved muscle?
+
+- A. Cricothyroid
+- B. Interarytenoid
+- C. Posterior cricoarytenoid
+- D. Lateral arytenoid
+
+<details><summary>Answer</summary>
+
+**A. Cricothyroid** — Sole tensor of vocal cords (supplied by external laryngeal nerve). Paralysis → loss of high pitch / bowing.
+</details>
+### Q271 — Head impulse in vestibular neuronitis
+
+A 45-year-old woman with right vestibular neuronitis. Expected head impulse test findings?
+
+- A. Head turned left, eyes move left with nystagmus
+- B. Head turned left, eyes move right with nystagmus
+- C. Head turned right, eyes move left with nystagmus
+- D. Head turned right, eyes move right with nystagmus
+
+<details><summary>Answer</summary>
+
+**C. Head turned right, eyes move left with nystagmus** — Toward affected side, VOR fails → corrective catch-up saccade.
+</details>
+
+---
+### Q272 — Identify the given drain Surgery *(2024)*
 
 Identify the given drain: Surgery
 
@@ -4817,8 +4343,7 @@ Identify the given drain: Surgery
 </details>
 
 ---
-
-### Q284 — Clinical Question A 36-year-old male patient *(2024)*
+### Q273 — Clinical Question A 36-year-old male patient *(2024)*
 
 A 36-year-old male patient presents with a history of ear discharge for 2 weeks. On examination, a mild perforation is observed in the antero-inferior segment of the tympanic membrane. What is the expected result from Rinne’s test?
 
@@ -4834,8 +4359,7 @@ A 36-year-old male patient presents with a history of ear discharge for 2 weeks.
 </details>
 
 ---
-
-### Q285 — Considering the findings on the given *(2024)*
+### Q274 — Considering the findings on the given *(2024)*
 
 Considering the findings on the given chest X-ray, which procedure is likely to be the most technically difficult to carry out?
 
@@ -4852,10 +4376,37 @@ Considering the findings on the given chest X-ray, which procedure is likely to 
 
 ---
 
-
 ## Ophthalmology
 
-### Q286 — A patient undergoing the Worth 4 *(2024)*
+### Q275 — Congenital cataract — timing
+
+A 2-month-old child with significant congenital cataract. Ideal management?
+
+- A. Medical management
+- B. Operate immediately
+- C. Surgery after 6 months
+- D. Surgery after 2 years
+
+<details><summary>Answer</summary>
+
+**B. Operate immediately** — To prevent stimulus deprivation amblyopia; critical period for visual development.
+</details>
+### Q276 — Night blindness + peripheral loss
+
+Patient with gradual night vision and peripheral vision loss; fundus shows bone-spicule pigmentation. Diagnosis?
+
+- A. Retinitis pigmentosa
+- B. Retinal haemorrhage
+- C. Diabetic retinopathy
+- D. Hypertensive retinopathy
+
+<details><summary>Answer</summary>
+
+**A. Retinitis pigmentosa** — Triad: bone-spicule pigmentation, attenuated arterioles, waxy disc pallor. ERG markedly reduced.
+</details>
+
+---
+### Q277 — A patient undergoing the Worth 4 *(2024)*
 
 A patient undergoing the Worth 4 Dot Test reports seeing only three green dots. What does this finding most likely indicate?
 
@@ -4871,8 +4422,7 @@ A patient undergoing the Worth 4 Dot Test reports seeing only three green dots. 
 </details>
 
 ---
-
-### Q287 — Clinical Question A 2-month-old infant is *(2024)*
+### Q278 — Clinical Question A 2-month-old infant is *(2024)*
 
 A 2-month-old infant is brought to the ophthalmology outpatient department with the condition shown. What is the most appropriate course of management in this case?
 
@@ -4888,8 +4438,7 @@ A 2-month-old infant is brought to the ophthalmology outpatient department with 
 </details>
 
 ---
-
-### Q288 — Clinical Question A patient reports progressive *(2024)*
+### Q279 — Clinical Question A patient reports progressive *(2024)*
 
 A patient reports progressive visual decline three years following ocular surgery and presents with the condition shown. What is the most probable diagnosis?
 
@@ -4906,10 +4455,37 @@ A patient reports progressive visual decline three years following ocular surger
 
 ---
 
-
 ## Dermatology
 
-### Q289 — A sexually active patient presents with *(2024)*
+### Q280 — Patchy alopecia + flat anal lesions
+
+A 30-year-old with flat lesions near the anal canal, body rashes, and patchy ("moth-eaten") hair loss. Diagnosis?
+
+- A. Trichotillomania
+- B. Alopecia areata
+- C. Secondary syphilis
+- D. Malassezia
+
+<details><summary>Answer</summary>
+
+**C. Secondary syphilis** — Condylomata lata (flat moist lesions), copper-coloured rash on palms/soles, moth-eaten alopecia.
+</details>
+### Q281 — Hypopigmented anesthetic nodules
+
+A 38-year-old with hypopigmented nodular lesions, anaesthesia, ulnar nerve involvement; biopsy with foamy macrophages and abundant bacilli. Most accurate statement?
+
+- A. Tuberculoid leprosy with positive antigen test
+- B. Lepromatous leprosy with positive antigen test
+- C. Erythema nodosum leprosum with negative antigen test
+- D. Lepromatous leprosy with negative antigen test
+
+<details><summary>Answer</summary>
+
+**D. Lepromatous leprosy with negative antigen test** — High bacillary load → negative lepromin (anergic). Tuberculoid → positive lepromin.
+</details>
+
+---
+### Q282 — A sexually active patient presents with *(2024)*
 
 A sexually active patient presents with painful lesions on the penis
 
@@ -4925,8 +4501,7 @@ A sexually active patient presents with painful lesions on the penis
 </details>
 
 ---
-
-### Q290 — A child presents with photosensitivity and *(2024)*
+### Q283 — A child presents with photosensitivity and *(2024)*
 
 A child presents with photosensitivity and multiple skin cancers. What is the likely diagnosis?
 
@@ -4942,8 +4517,7 @@ A child presents with photosensitivity and multiple skin cancers. What is the li
 </details>
 
 ---
-
-### Q291 — A farmer presents with foot swelling *(2024)*
+### Q284 — A farmer presents with foot swelling *(2024)*
 
 A farmer presents with foot swelling and discharging sinuses. Staining of the lesion shows Gram-positive filamentous structures.
 
@@ -4959,8 +4533,7 @@ A farmer presents with foot swelling and discharging sinuses. Staining of the le
 </details>
 
 ---
-
-### Q292 — A sexually active woman presents with *(2024)*
+### Q285 — A sexually active woman presents with *(2024)*
 
 A sexually active woman presents with foul-smelling, watery vaginal discharge. What is the most likely causative organism?
 
@@ -4977,10 +4550,37 @@ A sexually active woman presents with foul-smelling, watery vaginal discharge. W
 
 ---
 
-
 ## Psychiatry
 
-### Q293 — Which of the following is a *(2024)*
+### Q286 — Opioid maintenance
+
+Drug used in the maintenance phase of opioid withdrawal?
+
+- A. Buprenorphine
+- B. Disulfiram
+- C. Butorphanol
+- D. Clonidine
+
+<details><summary>Answer</summary>
+
+**A. Buprenorphine** — Partial μ-agonist; long-acting; ceiling effect on respiratory depression. Methadone is alternative.
+</details>
+### Q287 — Generalized anxiety disorder somatic symptoms
+
+A 45-year-old woman with long-standing "tense" feeling, upset stomach, diarrhoea, heartburn. Family members have similar symptoms. Most likely associated symptom?
+
+- A. Neologisms
+- B. Tingling at extremities
+- C. Hallucinations
+- D. Idea of reference
+
+<details><summary>Answer</summary>
+
+**B. Tingling at extremities** — GAD with autonomic hyperactivity → hyperventilation → paraesthesiae.
+</details>
+
+---
+### Q288 — Which of the following is a *(2024)*
 
 Which of the following is a selective norepinephrine reuptake inhibitor used to manage ADHD?
 
@@ -4996,8 +4596,7 @@ Which of the following is a selective norepinephrine reuptake inhibitor used to 
 </details>
 
 ---
-
-### Q294 — A mother brings her daughter to *(2024)*
+### Q289 — A mother brings her daughter to *(2024)*
 
 A mother brings her daughter to the emergency room after she ingested an unknown substance. The child presents with hypertension, tachycardia, hyperthermia, and mydriasis. Which of the following substances is most likely responsible for these symptoms?
 
@@ -5013,8 +4612,7 @@ A mother brings her daughter to the emergency room after she ingested an unknown
 </details>
 
 ---
-
-### Q295 — A 30-year-old male presents as calm *(2024)*
+### Q290 — A 30-year-old male presents as calm *(2024)*
 
 A 30-year-old male presents as calm and charming in front of a psychiatrist. However, he engages in aggressive behaviour towards friends, frequently skips classes, disregards traffic rules, and has been involved in a police interrogation. What is the most likely diagnosis?
 
@@ -5030,8 +4628,7 @@ A 30-year-old male presents as calm and charming in front of a psychiatrist. How
 </details>
 
 ---
-
-### Q296 — A 40-year-old woman has consulted multiple *(2024)*
+### Q291 — A 40-year-old woman has consulted multiple *(2024)*
 
 A 40-year-old woman has consulted multiple plastic surgeons to correct a perceived facial deformity. Despite reassurances from doctors and her family that no such defect exists, she remains convinced and frequently checks her appearance in the mirror. She insists on surgical intervention. What is the most appropriate management for her condition?
 
@@ -5047,8 +4644,7 @@ A 40-year-old woman has consulted multiple plastic surgeons to correct a perceiv
 </details>
 
 ---
-
-### Q297 — Which drug is commonly used in *(2024)*
+### Q292 — Which drug is commonly used in *(2024)*
 
 Which drug is commonly used in the maintenance phase of opioid withdrawal?
 
@@ -5064,8 +4660,7 @@ Which drug is commonly used in the maintenance phase of opioid withdrawal?
 </details>
 
 ---
-
-### Q298 — A man experiences sexual arousal from *(2024)*
+### Q293 — A man experiences sexual arousal from *(2024)*
 
 A man experiences sexual arousal from wearing female undergarments and high heels during sexual activity with women, but he is not attracted to men. What is the most likely diagnosis?
 
@@ -5081,8 +4676,7 @@ A man experiences sexual arousal from wearing female undergarments and high heel
 </details>
 
 ---
-
-### Q299 — A child presents to the OPD *(2024)*
+### Q294 — A child presents to the OPD *(2024)*
 
 A child presents to the OPD with intracranial diffuse calcifications, chorioretinitis, and hydrocephalus. Which of the following is the most likely diagnosis?
 
@@ -5098,8 +4692,7 @@ A child presents to the OPD with intracranial diffuse calcifications, chorioreti
 </details>
 
 ---
-
-### Q300 — A 45-year-old woman presents with a *(2024)*
+### Q295 — A 45-year-old woman presents with a *(2024)*
 
 A 45-year-old woman presents with a long-standing history of “feeling tensed” along with an upset stomach, diarrhea, and heartburn. She mentions that her family members also experience similar symptoms. Which of the following symptoms is most likely to be observed in this patient?
 
@@ -5116,10 +4709,37 @@ A 45-year-old woman presents with a long-standing history of “feeling tensed�
 
 ---
 
-
 ## Radiology
 
-### Q301 — Clinical Question A 25-year-old individual present *(2024)*
+### Q296 — Persistent headache + CT (SAH)
+
+A 40-year-old female with persistent headache; CT shown. Most accurate diagnosis?
+
+- A. Subarachnoid haemorrhage
+- B. Epidural haemorrhage
+- C. Subdural haemorrhage
+- D. Intraparenchymal haemorrhage
+
+<details><summary>Answer</summary>
+
+**A. Subarachnoid haemorrhage** — Hyperdense blood in basal cisterns / sulci. "Thunderclap headache."
+</details>
+### Q297 — Ptosis + fatigability + mediastinal mass
+
+A 45-year-old with ptosis, muscle weakness improving with rest, dysphagia, engorged thoracic veins. CT shows anterior mediastinal mass. Most likely?
+
+- A. Thymoma
+- B. Pancoast tumour
+- C. Adenocarcinoma
+- D. Small-cell lung cancer
+
+<details><summary>Answer</summary>
+
+**A. Thymoma** — Associated with myasthenia gravis; anterior mediastinum (one of "4 Ts": thymoma, thyroid, teratoma, terrible lymphoma).
+</details>
+
+---
+### Q298 — Clinical Question A 25-year-old individual present *(2024)*
 
 A 25-year-old individual presents with sudden-onset epigastric pain and an elevated serum lipase level. He is stabilised after three days. Based on the chest X-ray provided, what is the most likely pulmonary complication?
 
@@ -5135,8 +4755,7 @@ A 25-year-old individual presents with sudden-onset epigastric pain and an eleva
 </details>
 
 ---
-
-### Q302 — Clinical Question A 6-week-old infant is *(2024)*
+### Q299 — Clinical Question A 6-week-old infant is *(2024)*
 
 A 6-week-old infant is brought to the emergency department with repeated episodes of forceful, non-bilious vomiting. Based on the accompanying radiograph, what is the most likely diagnosis?
 
@@ -5153,10 +4772,37 @@ A 6-week-old infant is brought to the emergency department with repeated episode
 
 ---
 
-
 ## Anaesthesia
 
-### Q303 — What is the typical pressure setting *(2024)*
+### Q300 — EMLA cream
+
+Which statement is accurate regarding EMLA?
+
+- A. EMLA contains ropivacaine and lignocaine
+- B. EMLA can lead to methemoglobinemia
+- C. EMLA contains 5% lignocaine
+- D. EMLA acts within 15 minutes
+
+<details><summary>Answer</summary>
+
+**B. EMLA can lead to methemoglobinemia** — Prilocaine (a component) is metabolized to o-toluidine, which oxidizes Hb to metHb. EMLA = 2.5% lignocaine + 2.5% prilocaine; onset ~60 min.
+</details>
+### Q301 — Pulseless rhythm
+
+A patient presents with no pulse and a specific ECG rhythm (shockable). Next step?
+
+- A. Defibrillate, check pulse, then CPR
+- B. Cardioversion
+- C. Defibrillate, perform CPR, then check pulse
+- D. Administer epinephrine
+
+<details><summary>Answer</summary>
+
+**C. Defibrillate, perform CPR, then check pulse** — ACLS: immediately resume 2 min CPR after a shock before rhythm/pulse check.
+</details>
+
+---
+### Q302 — What is the typical pressure setting *(2024)*
 
 What is the typical pressure setting for the valve in a Mapleson circuit?
 
@@ -5172,8 +4818,7 @@ What is the typical pressure setting for the valve in a Mapleson circuit?
 </details>
 
 ---
-
-### Q304 — Which drug is used to reverse *(2024)*
+### Q303 — Which drug is used to reverse *(2024)*
 
 Which drug is used to reverse the muscle relaxant effects of vecuronium when renal function is normal?
 
@@ -5189,8 +4834,7 @@ Which drug is used to reverse the muscle relaxant effects of vecuronium when ren
 </details>
 
 ---
-
-### Q305 — What is the primary purpose of *(2024)*
+### Q304 — What is the primary purpose of *(2024)*
 
 What is the primary purpose of PEEP (Positive End-Expiratory Pressure) in mechanical ventilation?
 
@@ -5206,8 +4850,7 @@ What is the primary purpose of PEEP (Positive End-Expiratory Pressure) in mechan
 </details>
 
 ---
-
-### Q306 — A 25-year-old patient undergoing orthopedic surger *(2024)*
+### Q305 — A 25-year-old patient undergoing orthopedic surger *(2024)*
 
 A 25-year-old patient undergoing orthopedic surgery under general anaesthesia suddenly developed a rise in EtCO₂, temperature, and also muscle rigidity. Which of the following drugs leads to such complications?
 

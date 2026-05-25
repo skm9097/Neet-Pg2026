@@ -650,645 +650,9 @@ Bindi leukoderma is caused by which chemical?
 
 ---
 
-## Year 2019
-
-### Q40 — Identify the condition shown in the *(2019)*
-
-Identify the condition shown in the image below.
-
-- A. Intertrigo
-- B. Heat rash
-- C. Eczema
-- D. Impetigo
-
-<details><summary>Answer</summary>
-
-**A. Intertrigo**
-
-</details>
-
----
-
----
-
-### Q41 — Identify the condition This is child *(2019)*
-
-Identify the condition. This is child with asthmatic mother.
-
-- A. Atopic dermatitis
-- B. SLE
-- C. Erythema
-- D. TEN
-
-<details><summary>Answer</summary>
-
-**A. Atopic dermatitis**
-
-</details>
-
----
-
----
-
-### Q42 — Identify the condition shown in the *(2019)*
-
-Identify the condition shown in the image?
-
-- A. Sebaceous cyst
-- B. Alopecia areta
-- C. Trichotillomania
-- D. Tinea capitis
-
-<details><summary>Answer</summary>
-
-**B. Alopecia areta**
-
-</details>
-
----
-
----
-
-### Q43 — Identify the condition in the image *(2019)*
-
-Identify the condition in the image?
-
-- A. Leukoderma
-- B. Piebaldism
-- C. Vitiligo
-- D. DLE
-
-<details><summary>Answer</summary>
-
-**A. Leukoderma**
-
-</details>
-
----
-
----
-
-
-## Year 2020
-
-### Q44 — Amorolfine nail lacquer
-
-Nail-lacquer morpholine drug?
-
-- A. Oxiconazole
-- B. Ciclopirox olamine
-- C. Tioconazole
-- D. Amorolfine
-
-<details><summary>Answer</summary>
-
-**D. Amorolfine** — Morpholine antifungal. Nail lacquer for onychomycosis.
-</details>
-
----
-
-### Q45 — Newborn collodion baby — exclusion
-
-Newborn with membrane, ectropion, eclabium. **Unlikely** diagnosis?
-
-- A. Lamellar ichthyosis
-- B. Bathing-suit ichthyosis
-- C. Harlequin ichthyosis
-- D. Ichthyosis vulgaris
-
-<details><summary>Answer</summary>
-
-**D. Ichthyosis vulgaris** — Onset after infancy, mild; does not present as collodion baby.
-</details>
-
----
-
----
-
-### Q46 — Which of the following is water-related *(2020)*
-
-Which of the following is water-related disease
-
-- A. Yellow fever
-- B. Scabies
-- C. Cholera
-- D. Dysentery
-
-<details><summary>Answer</summary>
-
-**A. Yellow fever**
-
-</details>
-
----
-
----
-
-### Q47 — An elderly man with a long-standing *(2020)*
-
-An elderly man with a long-standing mole over the face which is increasing in size and showing irregular borders. What will be the diagnosis?
-
-- A. Superficial spreading melanoma
-- B. Lentigo maligna
-- C. Acral melanoma
-- D. Nodular melanoma
-
-<details><summary>Answer</summary>
-
-**A. Superficial spreading melanoma**
-
-</details>
-
----
-
----
-
-### Q48 — An 11-year boy presented with cough *(2020)*
-
-An 11-year boy presented with cough for 15 days on examination he was found to have cervical lymphadenopathy. lymph node examination showed below finding
-
-- A. Leprosy
-- B. Sarcoidosis
-- C. TB
-- D. Syphilis
-
-<details><summary>Answer</summary>
-
-**C. TB**
-
-</details>
-
----
-
----
-
-### Q49 — Identify the organism causing an infection *(2020)*
-
-Identify the organism causing an infection on the upper arm
-
-- A. Tinea corporis
-- B. Tinea capitis
-- C. Tinea cruris
-- D. Tinea manus
-
-<details><summary>Answer</summary>
-
-**A. Tinea corporis**
-
-</details>
-
----
-
----
-
-
-## Year 2021
-
-### Q50 — Suprabasal split
-
-A 30-year-old with flaccid easily-ruptured bullae; biopsy shows suprabasal split. Diagnosis?
-
-- A. Pemphigus vulgaris
-- B. Pemphigus foliaceus
-- C. Pemphigus vegetans
-- D. Erythema multiforme
-
-<details><summary>Answer</summary>
-
-**A. Pemphigus vulgaris** — Suprabasal acantholysis; tombstone appearance. Anti-desmoglein 3 antibodies.
-</details>
-
----
-
-### Q51 — Type 2 lepra reaction
-
-Patient on MDT presenting with worsening lesions and nerve involvement. Management?
-
-- A. Stop MDT, start steroids
-- B. Continue MDT + systemic steroids
-- C. Stop MDT + thalidomide
-- D. Continue MDT + thalidomide
-
-<details><summary>Answer</summary>
-
-**B. Continue MDT + systemic steroids** — Lepra reactions are treated without stopping MDT.
-</details>
-
----
-
----
-
-### Q52 — Nevus depigmentosus
-
-Non-progressive hypopigmented lesion since birth, enhanced under Wood's lamp — diagnosis?
-
-- A. Vitiligo
-- B. Nevus depigmentosus
-- C. Nevus anemicus
-- D. Indeterminate leprosy
-
-<details><summary>Answer</summary>
-
-**B. Nevus depigmentosus** — Congenital hypopigmented patch; stable (not progressive); normal melanocyte number but reduced melanin transfer. Enhanced (not ivory-white) under Wood's lamp unlike vitiligo.
-
-</details>
-
----
-
-### Q53 — Phrynoderma — next examination
-
-Phrynoderma (follicular hyperkeratosis) — which system to examine next?
-
-- A. Ocular examination
-- B. Vitamin D3 status
-- C. Deep tendon reflexes
-- D. Vitamin B12 levels
-
-<details><summary>Answer</summary>
-
-**A. Ocular examination** — Phrynoderma (vitamin A deficiency) → examine for Bitot's spots, xerophthalmia, corneal ulceration. Also check for night blindness.
-
-</details>
-
----
-
-### Q54 — Sarcoidosis skin — diagnosis method
-
-Face plaque with central clearing, apical calcification on CXR — best diagnostic method?
-
-- A. PCR
-- B. Mantoux test
-- C. Slit skin smear
-- D. Tissue biopsy / probe test
-
-<details><summary>Answer</summary>
-
-**A. PCR** — Lupus vulgaris (TB of skin) with pulmonary TB; PCR on skin biopsy is most sensitive and specific. Mantoux may be positive but not diagnostic alone.
-
-</details>
-
----
-
----
-
-
-## Year 2022
-
-### Q55 — High-risk HPV — anogenital warts
-
-Multiple anogenital warts; biopsy shows squamous atypia. High-risk HPV?
-
-- A. HPV 2
-- B. HPV 18
-- C. HPV 6
-- D. HPV 11
-
-<details><summary>Answer</summary>
-
-**B. HPV 18** — Along with HPV 16, cause most cervical/anogenital cancers. HPV 6 and 11 = low-risk (condyloma acuminatum).
-</details>
-
----
-
-### Q56 — Cauliflower foot mass — copper-penny bodies
-
-Farmer with cauliflower-shaped foot mass post-injury; microscopy shows copper-penny bodies.
-
-- A. Chromoblastomycosis
-- B. Blastomycosis
-- C. Sporotrichosis
-- D. Phaeohyphomycosis
-
-<details><summary>Answer</summary>
-
-**A. Chromoblastomycosis** — Sclerotic (Medlar/copper-penny) bodies are pathognomonic.
-</details>
-
----
-
----
-
-### Q57 — A patient presents to you with *(2022)*
-
-A patient presents to you with multiple anogenital warts. The biopsy of these lesions showed squamous atypia. Which of the following human papillomavirus types are considered high-risk?
-
-- A. HPV 2
-- B. HPV 18
-- C. HPV 6
-- D. HPV 11
-
-<details><summary>Answer</summary>
-
-**B. HPV 18**
-
-</details>
-
----
-
----
-
-### Q58 — A farmer presents you with a *(2022)*
-
-A farmer presents you with a cauliflower-shaped mass on foot, which developed after a minor injury. Microscopy shows copper penny bodies. What is the most likely diagnosis?
-
-- A. Chromoblastomycosis
-- B. Blastomycosis
-- C. Sporotrichosis
-- D. Phaeohyphomycosis
-
-<details><summary>Answer</summary>
-
-**A. Chromoblastomycosis**
-
-</details>
-
----
-
----
-
-### Q59 — A 35-year-old woman presents to you *(2022)*
-
-A 35-year-old woman presents to you with hair loss for the past three months. She tested positive for COVID-19 eight months ago. What is the most likely diagnosis?
-
-- A. Tinea capitis
-- B. Telogen effluvium
-- C. Trichotillomania
-- D. Female – pattern androgenic alopecia
-
-<details><summary>Answer</summary>
-
-**B. Telogen effluvium**
-
-</details>
-
----
-
----
-
-
-## Year 2023
-
-### Q60 — Resistant acne in female
-
-Female with acne not responding to isotretinoin and antibiotics. Next best investigation?
-
-- A. Dietary triggers
-- B. Evaluate for hyperandrogenism
-- C. Check for antibiotic resistance
-- D. Drug triggers
-
-<details><summary>Answer</summary>
-
-**B. Evaluate for hyperandrogenism** — PCOS, late-onset CAH; check testosterone, DHEAS, free androgen index.
-</details>
-
----
-
-### Q61 — Painless genital ulcer + non-tender lymphadenopathy
-
-A young woman with painless genital ulcer and non-tender inguinal lymphadenopathy.
-
-- A. Chancroid
-- B. Syphilis
-- C. Herpes genitalis
-- D. Granuloma inguinale
-
-<details><summary>Answer</summary>
-
-**B. Syphilis** — Primary chancre: painless, indurated ulcer + painless lymphadenopathy. Chancroid is painful with tender nodes.
-</details>
-
----
-
----
-
-
-## Year 2024
-
-### Q62 — Patchy alopecia + flat anal lesions
-
-A 30-year-old with flat lesions near the anal canal, body rashes, and patchy ("moth-eaten") hair loss. Diagnosis?
-
-- A. Trichotillomania
-- B. Alopecia areata
-- C. Secondary syphilis
-- D. Malassezia
-
-<details><summary>Answer</summary>
-
-**C. Secondary syphilis** — Condylomata lata (flat moist lesions), copper-coloured rash on palms/soles, moth-eaten alopecia.
-</details>
-
----
-
-### Q63 — Hypopigmented anesthetic nodules
-
-A 38-year-old with hypopigmented nodular lesions, anaesthesia, ulnar nerve involvement; biopsy with foamy macrophages and abundant bacilli. Most accurate statement?
-
-- A. Tuberculoid leprosy with positive antigen test
-- B. Lepromatous leprosy with positive antigen test
-- C. Erythema nodosum leprosum with negative antigen test
-- D. Lepromatous leprosy with negative antigen test
-
-<details><summary>Answer</summary>
-
-**D. Lepromatous leprosy with negative antigen test** — High bacillary load → negative lepromin (anergic). Tuberculoid → positive lepromin.
-</details>
-
----
-
----
-
-### Q64 — A sexually active patient presents with *(2024)*
-
-A sexually active patient presents with painful lesions on the penis
-
-- A. Herpes genitalis
-- B. Chancroid
-- C. Syphilis
-- D. Lymphogranuloma venereum
-
-<details><summary>Answer</summary>
-
-**A. Herpes genitalis**
-
-</details>
-
----
-
----
-
-### Q65 — A child presents with photosensitivity and *(2024)*
-
-A child presents with photosensitivity and multiple skin cancers. What is the likely diagnosis?
-
-- A. Xeroderma pigmentosum
-- B. Osteogenesis imperfecta
-- C. Hypervitaminosis A
-- D. Paget’s disease
-
-<details><summary>Answer</summary>
-
-**A. Xeroderma pigmentosum**
-
-</details>
-
----
-
----
-
-### Q66 — A farmer presents with foot swelling *(2024)*
-
-A farmer presents with foot swelling and discharging sinuses. Staining of the lesion shows Gram-positive filamentous structures.
-
-- A. Nocardia brasiliensis
-- B. Sporothrix schenckii
-- C. Staphylococcus aureus
-- D. Aspergillus
-
-<details><summary>Answer</summary>
-
-**A. Nocardia brasiliensis**
-
-</details>
-
----
-
----
-
-### Q67 — A sexually active woman presents with *(2024)*
-
-A sexually active woman presents with foul-smelling, watery vaginal discharge. What is the most likely causative organism?
-
-- A. Gardnerella vaginalis
-- B. Candida albicans
-- C. Trichomonas vaginalis
-- D. Lactobacillus
-
-<details><summary>Answer</summary>
-
-**C. Trichomonas vaginalis**
-
-</details>
-
----
-
----
-
-
-## Year 2025
-
-### Q68 — Tzanck smear: multinucleated giant cells
-
-A patient with facial pain and painful oral vesicular lesions has Tzanck smear showing multinucleated giant cells with intranuclear inclusions. Causative organism?
-
-- A. Adenovirus
-- B. Cytomegalovirus
-- C. EBV
-- D. HSV
-
-<details><summary>Answer</summary>
-
-**D. HSV** — Tzanck smear showing multinucleated giant cells with intranuclear inclusions (Cowdry type A) is characteristic of HSV (also VZV). Herpetic gingivostomatitis.
-</details>
-
----
-
----
-
-### Q69 — SCC at base of tongue: most common cause
-
-Most common cause of squamous cell carcinoma at the base of the tongue?
-
-- A. EBV
-- B. HPV
-- C. HCV
-- D. CMV
-
-<details><summary>Answer</summary>
-
-**B. HPV** — HPV-16 is the leading cause of oropharyngeal SCC (base of tongue, tonsils). EBV causes nasopharyngeal carcinoma.
-</details>
-
----
-
----
-
-### Q70 — Black granules, multiple sinuses on foot
-
-A patient has irregular foot swelling, multiple discharging sinuses with black granules. KOH mount will show:
-
-- A. Arthrospores
-- B. Slender dematiaceous fungi
-- C. Yeast
-- D. Septate hyphae
-
-<details><summary>Answer</summary>
-
-**D. Septate hyphae** — Eumycetoma (fungal mycetoma) with black granules caused by Madurella mycetomatis shows dark septate hyphae. Actinomycetoma (bacteria) shows filamentous bacteria.
-</details>
-
----
-
----
-
-### Q71 — Confirmatory test for chronic granulomatous skin lesion
-
-Most confirmatory test for a chronic granulomatous skin lesion (leprosy suspected)?
-
-- A. PCR
-- B. Slit skin smear
-- C. Mantoux test
-- D. Skin biopsy with histopathology
-
-<details><summary>Answer</summary>
-
-**A. PCR** — PCR for M. leprae is the most confirmatory test. Slit skin smear shows organisms but PCR confirms active disease especially in paucibacillary leprosy.
-</details>
-
----
-
----
-
-### Q72 — Non-progressive hypopigmented lesion, Wood's lamp white accentuation, diascopy negative
-
-A 20-year-old with non-progressive hypopigmented lesion on trunk; Wood's lamp shows white accentuation; diascopy negative. Diagnosis?
-
-- A. Vitiligo
-- B. Nevus depigmentosus
-- C. Nevus anemicus
-- D. Indeterminate leprosy
-
-<details><summary>Answer</summary>
-
-**B. Nevus depigmentosus** — Non-progressive; Wood's lamp enhances lesion (hypopigmented, not depigmented). Nevus anemicus: diascopy positive (blanches with pressure). Vitiligo: completely depigmented (chalk-white on Wood's).
-</details>
-
----
-
----
-
-### Q73 — Intensely itchy vesicular lesions on extensor surfaces with gluten sensitivity
-
-A patient with gluten sensitivity has intensely itchy vesicular lesions on extensor surfaces. Diagnosis?
-
-- A. Bullous pemphigoid
-- B. Pemphigus vulgaris
-- C. Dermatitis herpetiformis
-- D. Psoriasis
-
-<details><summary>Answer</summary>
-
-**C. Dermatitis herpetiformis** — Gluten-sensitive enteropathy with IgA deposits at dermal papillae → intensely pruritic vesicles on extensor surfaces (elbows, knees, buttocks).
-</details>
-
----
-
----
-
 ## Year 2015
 
-### Q74 — All of the following are premalignant
+### Q40 — All of the following are premalignant
 
 All of the following are premalignant conditions except -
 
@@ -1306,8 +670,7 @@ All of the following are premalignant conditions except -
 ---
 
 ---
-
-### Q75 — Which of the following organism has
+### Q41 — Which of the following organism has
 
 Which of the following organism has a role to play in Seborrhic dermatitis ?
 
@@ -1325,8 +688,7 @@ Which of the following organism has a role to play in Seborrhic dermatitis ?
 ---
 
 ---
-
-### Q76 — Pruritus is a feature of which
+### Q42 — Pruritus is a feature of which
 
 Pruritus is a feature of which of the following ?
 
@@ -1344,8 +706,7 @@ Pruritus is a feature of which of the following ?
 ---
 
 ---
-
-### Q77 — Maculae cerulea is seen in
+### Q43 — Maculae cerulea is seen in
 
 Maculae cerulea is seen in ?
 
@@ -1363,8 +724,7 @@ Maculae cerulea is seen in ?
 ---
 
 ---
-
-### Q78 — Most common site for atopic dermatitis
+### Q44 — Most common site for atopic dermatitis
 
 Most common site for atopic dermatitis -
 
@@ -1382,8 +742,7 @@ Most common site for atopic dermatitis -
 ---
 
 ---
-
-### Q79 — True regarding Bowens disease is
+### Q45 — True regarding Bowens disease is
 
 True regarding Bowen's disease is ?
 
@@ -1401,8 +760,7 @@ True regarding Bowen's disease is ?
 ---
 
 ---
-
-### Q80 — Lines of Blaschko represent
+### Q46 — Lines of Blaschko represent
 
 Lines of Blaschko represent:
 
@@ -1420,8 +778,7 @@ Lines of Blaschko represent:
 ---
 
 ---
-
-### Q81 — All are true about actinic lichen
+### Q47 — All are true about actinic lichen
 
 All are true about actinic lichen planus except ?
 
@@ -1439,8 +796,7 @@ All are true about actinic lichen planus except ?
 ---
 
 ---
-
-### Q82 — Muehrcke lines in nails are seen
+### Q48 — Muehrcke lines in nails are seen
 
 Muehrcke lines in nails are seen in
 
@@ -1458,8 +814,7 @@ Muehrcke lines in nails are seen in
 ---
 
 ---
-
-### Q83 — Which of the following drug can
+### Q49 — Which of the following drug can
 
 Which of the following drug can lead to pemphigus?
 
@@ -1477,8 +832,7 @@ Which of the following drug can lead to pemphigus?
 ---
 
 ---
-
-### Q84 — Periungual desquamation, which is a characteristic
+### Q50 — Periungual desquamation, which is a characteristic
 
 Periungual desquamation, which is a characteristic feature of Kawasaki syndrome, occurs at ?
 
@@ -1496,8 +850,7 @@ Periungual desquamation, which is a characteristic feature of Kawasaki syndrome,
 ---
 
 ---
-
-### Q85 — Arm tongue time is
+### Q51 — Arm tongue time is
 
 Arm tongue time is ?
 
@@ -1515,8 +868,7 @@ Arm tongue time is ?
 ---
 
 ---
-
-### Q86 — Post dural puncture headache usually presents
+### Q52 — Post dural puncture headache usually presents
 
 Post dural puncture headache usually presents with in ?
 
@@ -1534,8 +886,7 @@ Post dural puncture headache usually presents with in ?
 ---
 
 ---
-
-### Q87 — Contraindication to neruaxial block is
+### Q53 — Contraindication to neruaxial block is
 
 Contraindication to neruaxial block is ?
 
@@ -1553,8 +904,7 @@ Contraindication to neruaxial block is ?
 ---
 
 ---
-
-### Q88 — Long acting local anaesthetic
+### Q54 — Long acting local anaesthetic
 
 Long acting local anaesthetic ?
 
@@ -1572,8 +922,7 @@ Long acting local anaesthetic ?
 ---
 
 ---
-
-### Q89 — Composition of soda lime is NaOH
+### Q55 — Composition of soda lime is NaOH
 
 Composition of soda lime is: NaOH - Ca (OH)2 - KOH - Moisture
 
@@ -1591,8 +940,7 @@ Composition of soda lime is: NaOH - Ca (OH)2 - KOH - Moisture
 ---
 
 ---
-
-### Q90 — Suxamethonium acts through which channels
+### Q56 — Suxamethonium acts through which channels
 
 Suxamethonium acts through which channels ?
 
@@ -1610,8 +958,7 @@ Suxamethonium acts through which channels ?
 ---
 
 ---
-
-### Q91 — Only available depolarizing muscle relaxant is
+### Q57 — Only available depolarizing muscle relaxant is
 
 Only available depolarizing muscle relaxant is ?
 
@@ -1629,8 +976,7 @@ Only available depolarizing muscle relaxant is ?
 ---
 
 ---
-
-### Q92 — All of the following about MRI
+### Q58 — All of the following about MRI
 
 All of the following about MRI are correct except:
 
@@ -1648,8 +994,7 @@ All of the following about MRI are correct except:
 ---
 
 ---
-
-### Q93 — Amount of radiation exposure in 1
+### Q59 — Amount of radiation exposure in 1
 
 Amount of radiation exposure in 1 CT- scan of chest is
 
@@ -1667,8 +1012,7 @@ Amount of radiation exposure in 1 CT- scan of chest is
 ---
 
 ---
-
-### Q94 — Which of the following is a
+### Q60 — Which of the following is a
 
 Which of the following is a late severe adverse effect of radiation therapy
 
@@ -1686,8 +1030,7 @@ Which of the following is a late severe adverse effect of radiation therapy
 ---
 
 ---
-
-### Q95 — Which common tracer in PET is
+### Q61 — Which common tracer in PET is
 
 Which common tracer in PET is usually administered in the form of a glucose sugar
 
@@ -1705,8 +1048,7 @@ Which common tracer in PET is usually administered in the form of a glucose suga
 ---
 
 ---
-
-### Q96 — Intraoperative radiotherapy is used in
+### Q62 — Intraoperative radiotherapy is used in
 
 Intraoperative radiotherapy is used in
 
@@ -1724,8 +1066,7 @@ Intraoperative radiotherapy is used in
 ---
 
 ---
-
-### Q97 — Precisely directed high dose radiation is
+### Q63 — Precisely directed high dose radiation is
 
 Precisely directed high dose radiation is used in
 
@@ -1743,8 +1084,7 @@ Precisely directed high dose radiation is used in
 ---
 
 ---
-
-### Q98 — Not used for internal radiotherapy
+### Q64 — Not used for internal radiotherapy
 
 Not used for internal radiotherapy
 
@@ -1762,8 +1102,7 @@ Not used for internal radiotherapy
 ---
 
 ---
-
-### Q99 — Radioiodine generates which type of radiation
+### Q65 — Radioiodine generates which type of radiation
 
 Radioiodine generates which type of radiation
 
@@ -1781,8 +1120,7 @@ Radioiodine generates which type of radiation
 ---
 
 ---
-
-### Q100 — Ring enhancing lesion on CT is
+### Q66 — Ring enhancing lesion on CT is
 
 Ring enhancing lesion on CT is a feature of
 
@@ -1800,8 +1138,7 @@ Ring enhancing lesion on CT is a feature of
 ---
 
 ---
-
-### Q101 — About lipoma, radiologically true is -
+### Q67 — About lipoma, radiologically true is -
 
 About lipoma, radiologically true is -
 
@@ -1819,8 +1156,7 @@ About lipoma, radiologically true is -
 ---
 
 ---
-
-### Q102 — Ultrasonographic finding of autosomal recessive po
+### Q68 — Ultrasonographic finding of autosomal recessive po
 
 Ultrasonographic finding of autosomal recessive polycystic kidney disease [ARPKD] are all except
 
@@ -1838,8 +1174,7 @@ Ultrasonographic finding of autosomal recessive polycystic kidney disease [ARPKD
 ---
 
 ---
-
-### Q103 — Cobra head appearance on excretory urography
+### Q69 — Cobra head appearance on excretory urography
 
 Cobra head appearance on excretory urography is suggestive of:
 
@@ -1857,8 +1192,7 @@ Cobra head appearance on excretory urography is suggestive of:
 ---
 
 ---
-
-### Q104 — CT of gastric Volvulus shows -
+### Q70 — CT of gastric Volvulus shows -
 
 CT of gastric Volvulus shows -
 
@@ -1876,8 +1210,7 @@ CT of gastric Volvulus shows -
 ---
 
 ---
-
-### Q105 — Sausage finger appearance is seen in
+### Q71 — Sausage finger appearance is seen in
 
 Sausage finger appearance is seen in -
 
@@ -1895,8 +1228,7 @@ Sausage finger appearance is seen in -
 ---
 
 ---
-
-### Q106 — Skyline view X-ray is useful in
+### Q72 — Skyline view X-ray is useful in
 
 Skyline view X-ray is useful in diagnosing -
 
@@ -1914,8 +1246,7 @@ Skyline view X-ray is useful in diagnosing -
 ---
 
 ---
-
-### Q107 — Theory of human motivation was given
+### Q73 — Theory of human motivation was given
 
 Theory of human motivation was given by ?
 
@@ -1933,8 +1264,7 @@ Theory of human motivation was given by ?
 ---
 
 ---
-
-### Q108 — Illusion is
+### Q74 — Illusion is
 
 Illusion is:
 
@@ -1952,10 +1282,9 @@ Illusion is:
 ---
 
 ---
+### Q75 — year old male believes that his
 
-### Q109 — year old male believes that his
-
-year old male believes that his penis is decreasing in size everyday and one day it will disappear one day and he will die. Diagnosis is ?
+A patient (age not captured in source) who is a year old male believes that his penis is decreasing in size everyday and one day it will disappear one day and he will die. Diagnosis is ?
 
 - A. Obsession
 - B. Somatization
@@ -1971,8 +1300,7 @@ year old male believes that his penis is decreasing in size everyday and one day
 ---
 
 ---
-
-### Q110 — Most common substance of abuse in
+### Q76 — Most common substance of abuse in
 
 Most common substance of abuse in India ?
 
@@ -1990,8 +1318,7 @@ Most common substance of abuse in India ?
 ---
 
 ---
-
-### Q111 — In Neuroleptic malignant syndrome, cause of
+### Q77 — In Neuroleptic malignant syndrome, cause of
 
 In Neuroleptic malignant syndrome, cause of death is ?
 
@@ -2009,8 +1336,7 @@ In Neuroleptic malignant syndrome, cause of death is ?
 ---
 
 ---
-
-### Q112 — Trichophagia is characterized by
+### Q78 — Trichophagia is characterized by
 
 Trichophagia is characterized by?
 
@@ -2028,8 +1354,7 @@ Trichophagia is characterized by?
 ---
 
 ---
-
-### Q113 — Jamais vu is -
+### Q79 — Jamais vu is -
 
 Jamais vu is -
 
@@ -2047,8 +1372,7 @@ Jamais vu is -
 ---
 
 ---
-
-### Q114 — Which of the following is not
+### Q80 — Which of the following is not
 
 Which of the following is not true about sleep ?
 
@@ -2066,8 +1390,7 @@ Which of the following is not true about sleep ?
 ---
 
 ---
-
-### Q115 — Gamma waves of REM sleep in
+### Q81 — Gamma waves of REM sleep in
 
 Gamma waves of REM sleep in sleep cycle are associated with ?
 
@@ -2085,8 +1408,7 @@ Gamma waves of REM sleep in sleep cycle are associated with ?
 ---
 
 ---
-
-### Q116 — Main difference between anorexia nervosa and
+### Q82 — Main difference between anorexia nervosa and
 
 Main difference between anorexia nervosa and bulimia nervosa lies in:
 
@@ -2104,8 +1426,7 @@ Main difference between anorexia nervosa and bulimia nervosa lies in:
 ---
 
 ---
-
-### Q117 — Eating disorder with normal weight is
+### Q83 — Eating disorder with normal weight is
 
 Eating disorder with normal weight is?
 
@@ -2123,8 +1444,7 @@ Eating disorder with normal weight is?
 ---
 
 ---
-
-### Q118 — Binge eating disorder is characterized by
+### Q84 — Binge eating disorder is characterized by
 
 Binge eating disorder is characterized by ?
 
@@ -2142,8 +1462,7 @@ Binge eating disorder is characterized by ?
 ---
 
 ---
-
-### Q119 — Tricyclic antidepressants have all of the
+### Q85 — Tricyclic antidepressants have all of the
 
 Tricyclic antidepressants have all of the following actions except ?
 
@@ -2161,8 +1480,7 @@ Tricyclic antidepressants have all of the following actions except ?
 ---
 
 ---
-
-### Q120 — Drug not used in prophylaxis of
+### Q86 — Drug not used in prophylaxis of
 
 Drug not used in prophylaxis of MD P ?
 
@@ -2180,8 +1498,7 @@ Drug not used in prophylaxis of MD P ?
 ---
 
 ---
-
-### Q121 — Tourette syndrome is a type of
+### Q87 — Tourette syndrome is a type of
 
 Tourette syndrome is a type of ?
 
@@ -2199,8 +1516,7 @@ Tourette syndrome is a type of ?
 ---
 
 ---
-
-### Q122 — General paralysis of insane is associated
+### Q88 — General paralysis of insane is associated
 
 General paralysis of insane is associated with ?
 
@@ -2218,8 +1534,7 @@ General paralysis of insane is associated with ?
 ---
 
 ---
-
-### Q123 — Sign of oppositionalism in a young
+### Q89 — Sign of oppositionalism in a young
 
 Sign of oppositionalism in a young child is due to?
 
@@ -2237,8 +1552,7 @@ Sign of oppositionalism in a young child is due to?
 ---
 
 ---
-
-### Q124 — All of the following are associated
+### Q90 — All of the following are associated
 
 All of the following are associated increased REM latency, except ?
 
@@ -2256,8 +1570,7 @@ All of the following are associated increased REM latency, except ?
 ---
 
 ---
-
-### Q125 — Drug with no mood stabilizing property
+### Q91 — Drug with no mood stabilizing property
 
 Drug with no mood stabilizing property is -
 
@@ -2275,8 +1588,7 @@ Drug with no mood stabilizing property is -
 ---
 
 ---
-
-### Q126 — Haloperidol induced extarpyramidal side effects ar
+### Q92 — Haloperidol induced extarpyramidal side effects ar
 
 Haloperidol induced extarpyramidal side effects are treated by ?
 
@@ -2294,8 +1606,7 @@ Haloperidol induced extarpyramidal side effects are treated by ?
 ---
 
 ---
-
-### Q127 — Most common complication of modified ECT
+### Q93 — Most common complication of modified ECT
 
 Most common complication of modified ECT
 
@@ -2314,10 +1625,9 @@ Most common complication of modified ECT
 
 ---
 
-
 ## Year 2016
 
-### Q128 — Liposome drug delivery system is used *(2016)*
+### Q94 — Liposome drug delivery system is used *(2016)*
 
 Liposome drug delivery system is used for all except ?
 
@@ -2334,12 +1644,10 @@ Liposome drug delivery system is used for all except ?
 
 ---
 
-
 ---
 
 ---
-
-### Q129 — common tumor of oropharynx is *(2016)*
+### Q95 — common tumor of oropharynx is *(2016)*
 
 Most common tumor of oropharynx is
 
@@ -2356,12 +1664,10 @@ Most common tumor of oropharynx is
 
 ---
 
-
 ---
 
 ---
-
-### Q130 — Pseudogerontoxon is seen in *(2016)*
+### Q96 — Pseudogerontoxon is seen in *(2016)*
 
 Pseudogerontoxon is seen in
 
@@ -2378,12 +1684,10 @@ Pseudogerontoxon is seen in
 
 ---
 
-
 ---
 
 ---
-
-### Q131 — Visual examination is used as screening *(2016)*
+### Q97 — Visual examination is used as screening *(2016)*
 
 Visual examination is used as screening test for
 
@@ -2400,12 +1704,10 @@ Visual examination is used as screening test for
 
 ---
 
-
 ---
 
 ---
-
-### Q132 — Acral lentigines type of malignant melanoma *(2016)*
+### Q98 — Acral lentigines type of malignant melanoma *(2016)*
 
 Acral lentigines type of malignant melanoma occurs in -
 
@@ -2422,12 +1724,10 @@ Acral lentigines type of malignant melanoma occurs in -
 
 ---
 
-
 ---
 
 ---
-
-### Q133 — MENOPAUSE is diagnosed by *(2016)*
+### Q99 — MENOPAUSE is diagnosed by *(2016)*
 
 MENOPAUSE is diagnosed by ?
 
@@ -2444,12 +1744,10 @@ MENOPAUSE is diagnosed by ?
 
 ---
 
-
 ---
 
 ---
-
-### Q134 — velocity of sperm is *(2016)*
+### Q100 — velocity of sperm is *(2016)*
 
 The velocity of sperm is ?
 
@@ -2466,12 +1764,10 @@ The velocity of sperm is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q135 — After ejaculation semen liquefies in *(2016)*
+### Q101 — After ejaculation semen liquefies in *(2016)*
 
 After ejaculation semen liquefies in ?
 
@@ -2488,12 +1784,10 @@ After ejaculation semen liquefies in ?
 
 ---
 
-
 ---
 
 ---
-
-### Q136 — Alpha subunit of hCG is similar *(2016)*
+### Q102 — Alpha subunit of hCG is similar *(2016)*
 
 Alpha subunit of hCG is similar to ?
 
@@ -2510,12 +1804,10 @@ Alpha subunit of hCG is similar to ?
 
 ---
 
-
 ---
 
 ---
-
-### Q137 — pelvic inlet usually is considered to *(2016)*
+### Q103 — pelvic inlet usually is considered to *(2016)*
 
 The pelvic inlet usually is considered to be contracted if its shortest anteroposterior diameter is less than -
 
@@ -2532,12 +1824,10 @@ The pelvic inlet usually is considered to be contracted if its shortest anteropo
 
 ---
 
-
 ---
 
 ---
-
-### Q138 — Azoospermia with normal FSH would indicate *(2016)*
+### Q104 — Azoospermia with normal FSH would indicate *(2016)*
 
 Azoospermia with normal FSH would indicate ?
 
@@ -2554,12 +1844,10 @@ Azoospermia with normal FSH would indicate ?
 
 ---
 
-
 ---
 
 ---
-
-### Q139 — CRL when cardiac activity can be *(2016)*
+### Q105 — CRL when cardiac activity can be *(2016)*
 
 CRL when cardiac activity can be detected earliest by TVS -
 
@@ -2576,12 +1864,10 @@ CRL when cardiac activity can be detected earliest by TVS -
 
 ---
 
-
 ---
 
 ---
-
-### Q140 — Surgical excision of corpus luteum before *(2016)*
+### Q106 — Surgical excision of corpus luteum before *(2016)*
 
 Surgical excision of corpus luteum before weeks of gestation, results in miscarriage
 
@@ -2598,12 +1884,10 @@ Surgical excision of corpus luteum before weeks of gestation, results in miscarr
 
 ---
 
-
 ---
 
 ---
-
-### Q141 — MVA syringe is used for *(2016)*
+### Q107 — MVA syringe is used for *(2016)*
 
 MVA syringe is used for ?
 
@@ -2620,12 +1904,10 @@ MVA syringe is used for ?
 
 ---
 
-
 ---
 
 ---
-
-### Q142 — Woman has 100 ml blood loss *(2016)*
+### Q108 — Woman has 100 ml blood loss *(2016)*
 
 Woman has 100 ml blood loss every 30 days. This is called as ?
 
@@ -2642,12 +1924,10 @@ Woman has 100 ml blood loss every 30 days. This is called as ?
 
 ---
 
-
 ---
 
 ---
-
-### Q143 — In IVF embryos are transferred back *(2016)*
+### Q109 — In IVF embryos are transferred back *(2016)*
 
 In IVF, embryos are transferred back to uterine cavity at cells stage ?
 
@@ -2664,12 +1944,10 @@ In IVF, embryos are transferred back to uterine cavity at cells stage ?
 
 ---
 
-
 ---
 
 ---
-
-### Q144 — With which of the following events *(2016)*
+### Q110 — With which of the following events *(2016)*
 
 With which of the following events, the feto maternal haemorrhage risk is the least ?
 
@@ -2686,12 +1964,10 @@ With which of the following events, the feto maternal haemorrhage risk is the le
 
 ---
 
-
 ---
 
 ---
-
-### Q145 — Infertility is defined as *(2016)*
+### Q111 — Infertility is defined as *(2016)*
 
 Infertility is defined as ?
 
@@ -2708,12 +1984,10 @@ Infertility is defined as ?
 
 ---
 
-
 ---
 
 ---
-
-### Q146 — Cord prolapse is least likely with *(2016)*
+### Q112 — Cord prolapse is least likely with *(2016)*
 
 Cord prolapse is least likely with -
 
@@ -2730,12 +2004,10 @@ Cord prolapse is least likely with -
 
 ---
 
-
 ---
 
 ---
-
-### Q147 — After IUFD when does the mother *(2016)*
+### Q113 — After IUFD when does the mother *(2016)*
 
 After IUFD, when does the mother develop DIC -
 
@@ -2752,12 +2024,10 @@ After IUFD, when does the mother develop DIC -
 
 ---
 
-
 ---
 
 ---
-
-### Q148 — Earliest sign after IUFD is *(2016)*
+### Q114 — Earliest sign after IUFD is *(2016)*
 
 Earliest sign after IUFD is ?
 
@@ -2774,12 +2044,10 @@ Earliest sign after IUFD is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q149 — True about Gartners cyst is *(2016)*
+### Q115 — True about Gartners cyst is *(2016)*
 
 True about Gartners cyst is ?
 
@@ -2796,12 +2064,10 @@ True about Gartners cyst is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q150 — If the rectal mucosa is injured *(2016)*
+### Q116 — If the rectal mucosa is injured *(2016)*
 
 If the rectal mucosa is injured, it is which degree of Perineal Tear ?
 
@@ -2818,12 +2084,10 @@ If the rectal mucosa is injured, it is which degree of Perineal Tear ?
 
 ---
 
-
 ---
 
 ---
-
-### Q151 — HPL has activity similar to which *(2016)*
+### Q117 — HPL has activity similar to which *(2016)*
 
 HPL has activity similar to which hormone ?
 
@@ -2840,12 +2104,10 @@ HPL has activity similar to which hormone ?
 
 ---
 
-
 ---
 
 ---
-
-### Q152 — Dilatation & evacuation is done for *(2016)*
+### Q118 — Dilatation & evacuation is done for *(2016)*
 
 Dilatation & evacuation is done for all ecxept ?
 
@@ -2862,12 +2124,10 @@ Dilatation & evacuation is done for all ecxept ?
 
 ---
 
-
 ---
 
 ---
-
-### Q153 — WHO normal Hb value for a *(2016)*
+### Q119 — WHO normal Hb value for a *(2016)*
 
 WHO normal Hb value for a non pregnant adult female is ?
 
@@ -2884,12 +2144,10 @@ WHO normal Hb value for a non pregnant adult female is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q154 — of the following epidermal layer is *(2016)*
+### Q120 — of the following epidermal layer is *(2016)*
 
 Which of the following epidermal layer is dead layer?
 
@@ -2906,12 +2164,10 @@ Which of the following epidermal layer is dead layer?
 
 ---
 
-
 ---
 
 ---
-
-### Q155 — Langerhans cell are seen in which *(2016)*
+### Q121 — Langerhans cell are seen in which *(2016)*
 
 Langerhans cell are seen in which layer of skin?
 
@@ -2928,12 +2184,10 @@ Langerhans cell are seen in which layer of skin?
 
 ---
 
-
 ---
 
 ---
-
-### Q156 — Increase in the thickness of the *(2016)*
+### Q122 — Increase in the thickness of the *(2016)*
 
 Increase in the thickness of the prickle cell layer of the epidermis is called?
 
@@ -2950,12 +2204,10 @@ Increase in the thickness of the prickle cell layer of the epidermis is called?
 
 ---
 
-
 ---
 
 ---
-
-### Q157 — Substance common in skin and hair *(2016)*
+### Q123 — Substance common in skin and hair *(2016)*
 
 Substance common in skin and hair is?
 
@@ -2972,12 +2224,10 @@ Substance common in skin and hair is?
 
 ---
 
-
 ---
 
 ---
-
-### Q158 — of the following is a melanising *(2016)*
+### Q124 — of the following is a melanising *(2016)*
 
 Which of the following is a melanising agent?
 
@@ -2994,12 +2244,10 @@ Which of the following is a melanising agent?
 
 ---
 
-
 ---
 
 ---
-
-### Q159 — Fordyce spots involve *(2016)*
+### Q125 — Fordyce spots involve *(2016)*
 
 Fordyce spots involve?
 
@@ -3016,12 +2264,10 @@ Fordyce spots involve?
 
 ---
 
-
 ---
 
 ---
-
-### Q160 — common etiology of erythema multiforme is *(2016)*
+### Q126 — common etiology of erythema multiforme is *(2016)*
 
 Most common etiology of erythema multiforme is?
 
@@ -3038,12 +2284,10 @@ Most common etiology of erythema multiforme is?
 
 ---
 
-
 ---
 
 ---
-
-### Q161 — common pattern of onychomycosis is *(2016)*
+### Q127 — common pattern of onychomycosis is *(2016)*
 
 Most common pattern of onychomycosis is?
 
@@ -3060,12 +2304,10 @@ Most common pattern of onychomycosis is?
 
 ---
 
-
 ---
 
 ---
-
-### Q162 — of the following is not a *(2016)*
+### Q128 — of the following is not a *(2016)*
 
 Which of the following is not a feature of dermatomyositis?
 
@@ -3082,12 +2324,10 @@ Which of the following is not a feature of dermatomyositis?
 
 ---
 
-
 ---
 
 ---
-
-### Q163 — Not a feature of candidal intertrigo *(2016)*
+### Q129 — Not a feature of candidal intertrigo *(2016)*
 
 Not a feature of candidal intertrigo is?
 
@@ -3104,12 +2344,10 @@ Not a feature of candidal intertrigo is?
 
 ---
 
-
 ---
 
 ---
-
-### Q164 — Woronoffs ring is a feature of *(2016)*
+### Q130 — Woronoffs ring is a feature of *(2016)*
 
 Woronoff's ring is a feature of?
 
@@ -3126,12 +2364,10 @@ Woronoff's ring is a feature of?
 
 ---
 
-
 ---
 
 ---
-
-### Q165 — of the following is not a *(2016)*
+### Q131 — of the following is not a *(2016)*
 
 Which of the following is not a feature of lichen planus?
 
@@ -3148,12 +2384,10 @@ Which of the following is not a feature of lichen planus?
 
 ---
 
-
 ---
 
 ---
-
-### Q166 — First generation topical retinoid is *(2016)*
+### Q132 — First generation topical retinoid is *(2016)*
 
 First generation topical retinoid is?
 
@@ -3170,12 +2404,10 @@ First generation topical retinoid is?
 
 ---
 
-
 ---
 
 ---
-
-### Q167 — Jock itch is caused by *(2016)*
+### Q133 — Jock itch is caused by *(2016)*
 
 Jock itch is caused by?
 
@@ -3192,12 +2424,10 @@ Jock itch is caused by?
 
 ---
 
-
 ---
 
 ---
-
-### Q168 — Hertoghes sign is seen in *(2016)*
+### Q134 — Hertoghes sign is seen in *(2016)*
 
 Hertoghe's sign is seen in?
 
@@ -3214,12 +2444,10 @@ Hertoghe's sign is seen in?
 
 ---
 
-
 ---
 
 ---
-
-### Q169 — Preferred concentration of minoxidil for female *(2016)*
+### Q135 — Preferred concentration of minoxidil for female *(2016)*
 
 Preferred concentration of minoxidil for female androgenetic alopecia is?
 
@@ -3236,12 +2464,10 @@ Preferred concentration of minoxidil for female androgenetic alopecia is?
 
 ---
 
-
 ---
 
 ---
-
-### Q170 — Normal epidermal turnover time is *(2016)*
+### Q136 — Normal epidermal turnover time is *(2016)*
 
 Normal epidermal turnover time is?
 
@@ -3258,12 +2484,10 @@ Normal epidermal turnover time is?
 
 ---
 
-
 ---
 
 ---
-
-### Q171 — Pityriasis rosea clears with in *(2016)*
+### Q137 — Pityriasis rosea clears with in *(2016)*
 
 Pityriasis rosea clears with in?
 
@@ -3280,12 +2504,10 @@ Pityriasis rosea clears with in?
 
 ---
 
-
 ---
 
 ---
-
-### Q172 — Alopecia universalis is *(2016)*
+### Q138 — Alopecia universalis is *(2016)*
 
 Alopecia universalis is?
 
@@ -3302,12 +2524,10 @@ Alopecia universalis is?
 
 ---
 
-
 ---
 
 ---
-
-### Q173 — Multiple psoriatic lesions on hands *(2016)*
+### Q139 — Multiple psoriatic lesions on hands *(2016)*
 
 Multiple psoriatic lesions on hands.
 
@@ -3324,12 +2544,10 @@ Multiple psoriatic lesions on hands.
 
 ---
 
-
 ---
 
 ---
-
-### Q174 — False about Langers lines is *(2016)*
+### Q140 — False about Langers lines is *(2016)*
 
 False about Langer's lines is?
 
@@ -3346,12 +2564,10 @@ False about Langer's lines is?
 
 ---
 
-
 ---
 
 ---
-
-### Q175 — common type of cutaneous mastocytosis is *(2016)*
+### Q141 — common type of cutaneous mastocytosis is *(2016)*
 
 Most common type of cutaneous mastocytosis is?
 
@@ -3368,12 +2584,10 @@ Most common type of cutaneous mastocytosis is?
 
 ---
 
-
 ---
 
 ---
-
-### Q176 — Volcano sign is seen in *(2016)*
+### Q142 — Volcano sign is seen in *(2016)*
 
 Volcano sign is seen in?
 
@@ -3390,12 +2604,10 @@ Volcano sign is seen in?
 
 ---
 
-
 ---
 
 ---
-
-### Q177 — common metal responsible for contact dermatitis *(2016)*
+### Q143 — common metal responsible for contact dermatitis *(2016)*
 
 Most common metal responsible for contact dermatitis is ?
 
@@ -3412,12 +2624,10 @@ Most common metal responsible for contact dermatitis is ?
 
 ---
 
-
 ---
 
 ---
-
-### Q178 — of the following is true about *(2016)*
+### Q144 — of the following is true about *(2016)*
 
 Which of the following is true about xeroderma pigmentosa?
 
@@ -3434,12 +2644,10 @@ Which of the following is true about xeroderma pigmentosa?
 
 ---
 
-
 ---
 
 ---
-
-### Q179 — Nevus simplex commonly presents at *(2016)*
+### Q145 — Nevus simplex commonly presents at *(2016)*
 
 Nevus simplex commonly presents at ?
 
@@ -3456,12 +2664,10 @@ Nevus simplex commonly presents at ?
 
 ---
 
-
 ---
 
 ---
-
-### Q180 — In mechanical ventilation peak pressure in *(2016)*
+### Q146 — In mechanical ventilation peak pressure in *(2016)*
 
 In mechanical ventilation, peak pressure in inspiration denotes ?
 
@@ -3478,12 +2684,10 @@ In mechanical ventilation, peak pressure in inspiration denotes ?
 
 ---
 
-
 ---
 
 ---
-
-### Q181 — American anesthetic association says that clopidog *(2016)*
+### Q147 — American anesthetic association says that clopidog *(2016)*
 
 American anesthetic association says that clopidogrel should be withheld how many days before surgery?
 
@@ -3500,12 +2704,10 @@ American anesthetic association says that clopidogrel should be withheld how man
 
 ---
 
-
 ---
 
 ---
-
-### Q182 — Etomidate is not used for long *(2016)*
+### Q148 — Etomidate is not used for long *(2016)*
 
 Etomidate is not used for long term infusion because?
 
@@ -3522,12 +2724,10 @@ Etomidate is not used for long term infusion because?
 
 ---
 
-
 ---
 
 ---
-
-### Q183 — Succinylcholine is contraindicated in *(2016)*
+### Q149 — Succinylcholine is contraindicated in *(2016)*
 
 Succinylcholine is contraindicated in?
 
@@ -3544,12 +2744,10 @@ Succinylcholine is contraindicated in?
 
 ---
 
-
 ---
 
 ---
-
-### Q184 — Intra-arterial thiopentone injection leads to *(2016)*
+### Q150 — Intra-arterial thiopentone injection leads to *(2016)*
 
 Intra-arterial thiopentone injection leads to?
 
@@ -3566,12 +2764,10 @@ Intra-arterial thiopentone injection leads to?
 
 ---
 
-
 ---
 
 ---
-
-### Q185 — Size of LMA for a 15kg *(2016)*
+### Q151 — Size of LMA for a 15kg *(2016)*
 
 Size of LMA for a 15kg child is?
 
@@ -3588,12 +2784,10 @@ Size of LMA for a 15kg child is?
 
 ---
 
-
 ---
 
 ---
-
-### Q186 — Type E circuit is used for *(2016)*
+### Q152 — Type E circuit is used for *(2016)*
 
 Type E circuit is used for?
 
@@ -3610,12 +2804,10 @@ Type E circuit is used for?
 
 ---
 
-
 ---
 
 ---
-
-### Q187 — Radiation protection shields are made up *(2016)*
+### Q153 — Radiation protection shields are made up *(2016)*
 
 Radiation protection shields are made up of:
 
@@ -3632,12 +2824,10 @@ Radiation protection shields are made up of:
 
 ---
 
-
 ---
 
 ---
-
-### Q188 — Soap bubble appearance on MRI brain *(2016)*
+### Q154 — Soap bubble appearance on MRI brain *(2016)*
 
 Soap bubble appearance on MRI brain is characteristic of?
 
@@ -3654,12 +2844,10 @@ Soap bubble appearance on MRI brain is characteristic of?
 
 ---
 
-
 ---
 
 ---
-
-### Q189 — T2 image in MRI is - *(2016)*
+### Q155 — T2 image in MRI is - *(2016)*
 
 T2 image in MRI is -
 
@@ -3676,12 +2864,10 @@ T2 image in MRI is -
 
 ---
 
-
 ---
 
 ---
-
-### Q190 — CSF on MRI appears *(2016)*
+### Q156 — CSF on MRI appears *(2016)*
 
 CSF on MRI appears:
 
@@ -3698,12 +2884,10 @@ CSF on MRI appears:
 
 ---
 
-
 ---
 
 ---
-
-### Q191 — MIBG dose is - *(2016)*
+### Q157 — MIBG dose is - *(2016)*
 
 MIBG dose is -
 
@@ -3720,12 +2904,10 @@ MIBG dose is -
 
 ---
 
-
 ---
 
 ---
-
-### Q192 — maximum permissible level of occupational exposure *(2016)*
+### Q158 — maximum permissible level of occupational exposure *(2016)*
 
 The maximum permissible level of occupational exposure to radiation is...per year -
 
@@ -3742,12 +2924,10 @@ The maximum permissible level of occupational exposure to radiation is...per yea
 
 ---
 
-
 ---
 
 ---
-
-### Q193 — Radiographic sign characteristic of pulmonary edem *(2016)*
+### Q159 — Radiographic sign characteristic of pulmonary edem *(2016)*
 
 Radiographic sign characteristic of pulmonary edema is -
 
@@ -3764,12 +2944,10 @@ Radiographic sign characteristic of pulmonary edema is -
 
 ---
 
-
 ---
 
 ---
-
-### Q194 — Snow storm appearance on chest X-ray *(2016)*
+### Q160 — Snow storm appearance on chest X-ray *(2016)*
 
 Snow storm appearance on chest X-ray is seen in -
 
@@ -3786,12 +2964,10 @@ Snow storm appearance on chest X-ray is seen in -
 
 ---
 
-
 ---
 
 ---
-
-### Q195 — Droop lily sign is seen in *(2016)*
+### Q161 — Droop lily sign is seen in *(2016)*
 
 "Droop lily sign" is seen in -
 
@@ -3808,12 +2984,10 @@ Snow storm appearance on chest X-ray is seen in -
 
 ---
 
-
 ---
 
 ---
-
-### Q196 — Sonographic appearance of hydatid cyst is *(2016)*
+### Q162 — Sonographic appearance of hydatid cyst is *(2016)*
 
 Sonographic appearance of hydatid cyst is -
 
@@ -3830,12 +3004,10 @@ Sonographic appearance of hydatid cyst is -
 
 ---
 
-
 ---
 
 ---
-
-### Q197 — Roentgen is the unit of *(2016)*
+### Q163 — Roentgen is the unit of *(2016)*
 
 Roentgen is the unit of:
 
@@ -3852,12 +3024,10 @@ Roentgen is the unit of:
 
 ---
 
-
 ---
 
 ---
-
-### Q198 — SI unit of radioactivity is March *(2016)*
+### Q164 — SI unit of radioactivity is March *(2016)*
 
 SI unit of radioactivity is: March 2013 (c, f)
 
@@ -3874,12 +3044,10 @@ SI unit of radioactivity is: March 2013 (c, f)
 
 ---
 
-
 ---
 
 ---
-
-### Q199 — SI unit of absorbed dose is *(2016)*
+### Q165 — SI unit of absorbed dose is *(2016)*
 
 SI unit of absorbed dose is -
 
@@ -3896,12 +3064,10 @@ SI unit of absorbed dose is -
 
 ---
 
-
 ---
 
 ---
-
-### Q200 — Stenvers view is used for - *(2016)*
+### Q166 — Stenvers view is used for - *(2016)*
 
 Stenver's view is used for -
 
@@ -3918,12 +3084,10 @@ Stenver's view is used for -
 
 ---
 
-
 ---
 
 ---
-
-### Q201 — Acute myocarditis schintigraphy is done with *(2016)*
+### Q167 — Acute myocarditis schintigraphy is done with *(2016)*
 
 Acute myocarditis schintigraphy is done with -
 
@@ -3940,12 +3104,10 @@ Acute myocarditis schintigraphy is done with -
 
 ---
 
-
 ---
 
 ---
-
-### Q202 — Safe light in radiographic dark room *(2016)*
+### Q168 — Safe light in radiographic dark room *(2016)*
 
 Safe light in radiographic dark room is ideally should be of following color -
 
@@ -3962,12 +3124,10 @@ Safe light in radiographic dark room is ideally should be of following color -
 
 ---
 
-
 ---
 
 ---
-
-### Q203 — Commonly used type of radiation in *(2016)*
+### Q169 — Commonly used type of radiation in *(2016)*
 
 Commonly used type of radiation in radiotherapy is:
 
@@ -3984,12 +3144,10 @@ Commonly used type of radiation in radiotherapy is:
 
 ---
 
-
 ---
 
 ---
-
-### Q204 — photosensitive material used in X- rays *(2016)*
+### Q170 — photosensitive material used in X- rays *(2016)*
 
 The photosensitive material used in X- rays films consist of:
 
@@ -4006,12 +3164,10 @@ The photosensitive material used in X- rays films consist of:
 
 ---
 
-
 ---
 
 ---
-
-### Q205 — 40 year old married male thinks *(2016)*
+### Q171 — 40 year old married male thinks *(2016)*
 
 A 40 year old married male thinks that he is multitalented and is always overconfident. He never listens to his family or friends. Infact whenever anyone gives him any advice, he thinks
 
@@ -4028,12 +3184,10 @@ A 40 year old married male thinks that he is multitalented and is always overcon
 
 ---
 
-
 ---
 
 ---
-
-### Q206 — Characteristic of histrionic personality disorder  *(2016)*
+### Q172 — Characteristic of histrionic personality disorder  *(2016)*
 
 Characteristic of histrionic personality disorder is?
 
@@ -4050,12 +3204,10 @@ Characteristic of histrionic personality disorder is?
 
 ---
 
-
 ---
 
 ---
-
-### Q207 — Risk factor for suicide is *(2016)*
+### Q173 — Risk factor for suicide is *(2016)*
 
 Risk factor for suicide is?
 
@@ -4072,12 +3224,10 @@ Risk factor for suicide is?
 
 ---
 
-
 ---
 
 ---
-
-### Q208 — Functional somatic disorder is *(2016)*
+### Q174 — Functional somatic disorder is *(2016)*
 
 Functional somatic disorder is?
 
@@ -4094,12 +3244,10 @@ Functional somatic disorder is?
 
 ---
 
-
 ---
 
 ---
-
-### Q209 — DHAT syndrome is *(2016)*
+### Q175 — DHAT syndrome is *(2016)*
 
 DHAT syndrome is?
 
@@ -4116,12 +3264,10 @@ DHAT syndrome is?
 
 ---
 
-
 ---
 
 ---
-
-### Q210 — Suicide rate in India is *(2016)*
+### Q176 — Suicide rate in India is *(2016)*
 
 Suicide rate in India is?
 
@@ -4138,12 +3284,10 @@ Suicide rate in India is?
 
 ---
 
-
 ---
 
 ---
-
-### Q211 — of the following is not a *(2016)*
+### Q177 — of the following is not a *(2016)*
 
 Which of the following is not a culture bound syndrome?
 
@@ -4160,12 +3304,10 @@ Which of the following is not a culture bound syndrome?
 
 ---
 
-
 ---
 
 ---
-
-### Q212 — Scatologia is *(2016)*
+### Q178 — Scatologia is *(2016)*
 
 Scatologia is?
 
@@ -4182,12 +3324,10 @@ Scatologia is?
 
 ---
 
-
 ---
 
 ---
-
-### Q213 — Loading dose of diazepam for alcohol *(2016)*
+### Q179 — Loading dose of diazepam for alcohol *(2016)*
 
 Loading dose of diazepam for alcohol withdrawal is?
 
@@ -4204,12 +3344,10 @@ Loading dose of diazepam for alcohol withdrawal is?
 
 ---
 
-
 ---
 
 ---
-
-### Q214 — of the following is not a *(2016)*
+### Q180 — of the following is not a *(2016)*
 
 Which of the following is not a side effect of quetiapine?
 
@@ -4226,12 +3364,10 @@ Which of the following is not a side effect of quetiapine?
 
 ---
 
-
 ---
 
 ---
-
-### Q215 — Other 28 children developed chickenpox within *(2016)*
+### Q181 — Other 28 children developed chickenpox within *(2016)*
 
 Other 28 children developed chickenpox within next 2 week what is the SAR of chickenpox?
 
@@ -4248,9 +3384,555 @@ Other 28 children developed chickenpox within next 2 week what is the SAR of chi
 
 ---
 
+---
 
+---
+
+## Year 2019
+
+### Q182 — Identify the condition This is child *(2019)*
+
+Identify the condition. This is child with asthmatic mother.
+
+- A. Atopic dermatitis
+- B. SLE
+- C. Erythema
+- D. TEN
+
+<details><summary>Answer</summary>
+
+**A. Atopic dermatitis**
+
+</details>
 
 ---
 
 ---
 
+## Year 2020
+
+### Q183 — Amorolfine nail lacquer
+
+Nail-lacquer morpholine drug?
+
+- A. Oxiconazole
+- B. Ciclopirox olamine
+- C. Tioconazole
+- D. Amorolfine
+
+<details><summary>Answer</summary>
+
+**D. Amorolfine** — Morpholine antifungal. Nail lacquer for onychomycosis.
+</details>
+
+---
+### Q184 — Newborn collodion baby — exclusion
+
+Newborn with membrane, ectropion, eclabium. **Unlikely** diagnosis?
+
+- A. Lamellar ichthyosis
+- B. Bathing-suit ichthyosis
+- C. Harlequin ichthyosis
+- D. Ichthyosis vulgaris
+
+<details><summary>Answer</summary>
+
+**D. Ichthyosis vulgaris** — Onset after infancy, mild; does not present as collodion baby.
+</details>
+
+---
+
+---
+### Q185 — Which of the following is water-related *(2020)*
+
+Which of the following is water-related disease
+
+- A. Yellow fever
+- B. Scabies
+- C. Cholera
+- D. Dysentery
+
+<details><summary>Answer</summary>
+
+**A. Yellow fever**
+
+</details>
+
+---
+
+---
+### Q186 — An elderly man with a long-standing *(2020)*
+
+An elderly man with a long-standing mole over the face which is increasing in size and showing irregular borders. What will be the diagnosis?
+
+- A. Superficial spreading melanoma
+- B. Lentigo maligna
+- C. Acral melanoma
+- D. Nodular melanoma
+
+<details><summary>Answer</summary>
+
+**A. Superficial spreading melanoma**
+
+</details>
+
+---
+
+---
+### Q187 — An 11-year boy presented with cough *(2020)*
+
+An 11-year boy presented with cough for 15 days on examination he was found to have cervical lymphadenopathy. lymph node examination showed below finding
+
+- A. Leprosy
+- B. Sarcoidosis
+- C. TB
+- D. Syphilis
+
+<details><summary>Answer</summary>
+
+**C. TB**
+
+</details>
+
+---
+
+---
+### Q188 — Identify the organism causing an infection *(2020)*
+
+Identify the organism causing an infection on the upper arm
+
+- A. Tinea corporis
+- B. Tinea capitis
+- C. Tinea cruris
+- D. Tinea manus
+
+<details><summary>Answer</summary>
+
+**A. Tinea corporis**
+
+</details>
+
+---
+
+---
+
+## Year 2021
+
+### Q189 — Suprabasal split
+
+A 30-year-old with flaccid easily-ruptured bullae; biopsy shows suprabasal split. Diagnosis?
+
+- A. Pemphigus vulgaris
+- B. Pemphigus foliaceus
+- C. Pemphigus vegetans
+- D. Erythema multiforme
+
+<details><summary>Answer</summary>
+
+**A. Pemphigus vulgaris** — Suprabasal acantholysis; tombstone appearance. Anti-desmoglein 3 antibodies.
+</details>
+
+---
+### Q190 — Type 2 lepra reaction
+
+Patient on MDT presenting with worsening lesions and nerve involvement. Management?
+
+- A. Stop MDT, start steroids
+- B. Continue MDT + systemic steroids
+- C. Stop MDT + thalidomide
+- D. Continue MDT + thalidomide
+
+<details><summary>Answer</summary>
+
+**B. Continue MDT + systemic steroids** — Lepra reactions are treated without stopping MDT.
+</details>
+
+---
+
+---
+### Q191 — Nevus depigmentosus
+
+Non-progressive hypopigmented lesion since birth, enhanced under Wood's lamp — diagnosis?
+
+- A. Vitiligo
+- B. Nevus depigmentosus
+- C. Nevus anemicus
+- D. Indeterminate leprosy
+
+<details><summary>Answer</summary>
+
+**B. Nevus depigmentosus** — Congenital hypopigmented patch; stable (not progressive); normal melanocyte number but reduced melanin transfer. Enhanced (not ivory-white) under Wood's lamp unlike vitiligo.
+
+</details>
+
+---
+### Q192 — Phrynoderma — next examination
+
+Phrynoderma (follicular hyperkeratosis) — which system to examine next?
+
+- A. Ocular examination
+- B. Vitamin D3 status
+- C. Deep tendon reflexes
+- D. Vitamin B12 levels
+
+<details><summary>Answer</summary>
+
+**A. Ocular examination** — Phrynoderma (vitamin A deficiency) → examine for Bitot's spots, xerophthalmia, corneal ulceration. Also check for night blindness.
+
+</details>
+
+---
+### Q193 — Sarcoidosis skin — diagnosis method
+
+Face plaque with central clearing, apical calcification on CXR — best diagnostic method?
+
+- A. PCR
+- B. Mantoux test
+- C. Slit skin smear
+- D. Tissue biopsy / probe test
+
+<details><summary>Answer</summary>
+
+**A. PCR** — Lupus vulgaris (TB of skin) with pulmonary TB; PCR on skin biopsy is most sensitive and specific. Mantoux may be positive but not diagnostic alone.
+
+</details>
+
+---
+
+---
+
+## Year 2022
+
+### Q194 — High-risk HPV — anogenital warts
+
+Multiple anogenital warts; biopsy shows squamous atypia. High-risk HPV?
+
+- A. HPV 2
+- B. HPV 18
+- C. HPV 6
+- D. HPV 11
+
+<details><summary>Answer</summary>
+
+**B. HPV 18** — Along with HPV 16, cause most cervical/anogenital cancers. HPV 6 and 11 = low-risk (condyloma acuminatum).
+</details>
+
+---
+### Q195 — Cauliflower foot mass — copper-penny bodies
+
+Farmer with cauliflower-shaped foot mass post-injury; microscopy shows copper-penny bodies.
+
+- A. Chromoblastomycosis
+- B. Blastomycosis
+- C. Sporotrichosis
+- D. Phaeohyphomycosis
+
+<details><summary>Answer</summary>
+
+**A. Chromoblastomycosis** — Sclerotic (Medlar/copper-penny) bodies are pathognomonic.
+</details>
+
+---
+
+---
+### Q196 — A patient presents to you with *(2022)*
+
+A patient presents to you with multiple anogenital warts. The biopsy of these lesions showed squamous atypia. Which of the following human papillomavirus types are considered high-risk?
+
+- A. HPV 2
+- B. HPV 18
+- C. HPV 6
+- D. HPV 11
+
+<details><summary>Answer</summary>
+
+**B. HPV 18**
+
+</details>
+
+---
+
+---
+### Q197 — A farmer presents you with a *(2022)*
+
+A farmer presents you with a cauliflower-shaped mass on foot, which developed after a minor injury. Microscopy shows copper penny bodies. What is the most likely diagnosis?
+
+- A. Chromoblastomycosis
+- B. Blastomycosis
+- C. Sporotrichosis
+- D. Phaeohyphomycosis
+
+<details><summary>Answer</summary>
+
+**A. Chromoblastomycosis**
+
+</details>
+
+---
+
+---
+### Q198 — A 35-year-old woman presents to you *(2022)*
+
+A 35-year-old woman presents to you with hair loss for the past three months. She tested positive for COVID-19 eight months ago. What is the most likely diagnosis?
+
+- A. Tinea capitis
+- B. Telogen effluvium
+- C. Trichotillomania
+- D. Female – pattern androgenic alopecia
+
+<details><summary>Answer</summary>
+
+**B. Telogen effluvium**
+
+</details>
+
+---
+
+---
+
+## Year 2023
+
+### Q199 — Resistant acne in female
+
+Female with acne not responding to isotretinoin and antibiotics. Next best investigation?
+
+- A. Dietary triggers
+- B. Evaluate for hyperandrogenism
+- C. Check for antibiotic resistance
+- D. Drug triggers
+
+<details><summary>Answer</summary>
+
+**B. Evaluate for hyperandrogenism** — PCOS, late-onset CAH; check testosterone, DHEAS, free androgen index.
+</details>
+
+---
+### Q200 — Painless genital ulcer + non-tender lymphadenopathy
+
+A young woman with painless genital ulcer and non-tender inguinal lymphadenopathy.
+
+- A. Chancroid
+- B. Syphilis
+- C. Herpes genitalis
+- D. Granuloma inguinale
+
+<details><summary>Answer</summary>
+
+**B. Syphilis** — Primary chancre: painless, indurated ulcer + painless lymphadenopathy. Chancroid is painful with tender nodes.
+</details>
+
+---
+
+---
+
+## Year 2024
+
+### Q201 — Patchy alopecia + flat anal lesions
+
+A 30-year-old with flat lesions near the anal canal, body rashes, and patchy ("moth-eaten") hair loss. Diagnosis?
+
+- A. Trichotillomania
+- B. Alopecia areata
+- C. Secondary syphilis
+- D. Malassezia
+
+<details><summary>Answer</summary>
+
+**C. Secondary syphilis** — Condylomata lata (flat moist lesions), copper-coloured rash on palms/soles, moth-eaten alopecia.
+</details>
+
+---
+### Q202 — Hypopigmented anesthetic nodules
+
+A 38-year-old with hypopigmented nodular lesions, anaesthesia, ulnar nerve involvement; biopsy with foamy macrophages and abundant bacilli. Most accurate statement?
+
+- A. Tuberculoid leprosy with positive antigen test
+- B. Lepromatous leprosy with positive antigen test
+- C. Erythema nodosum leprosum with negative antigen test
+- D. Lepromatous leprosy with negative antigen test
+
+<details><summary>Answer</summary>
+
+**D. Lepromatous leprosy with negative antigen test** — High bacillary load → negative lepromin (anergic). Tuberculoid → positive lepromin.
+</details>
+
+---
+
+---
+### Q203 — A sexually active patient presents with *(2024)*
+
+A sexually active patient presents with painful lesions on the penis
+
+- A. Herpes genitalis
+- B. Chancroid
+- C. Syphilis
+- D. Lymphogranuloma venereum
+
+<details><summary>Answer</summary>
+
+**A. Herpes genitalis**
+
+</details>
+
+---
+
+---
+### Q204 — A child presents with photosensitivity and *(2024)*
+
+A child presents with photosensitivity and multiple skin cancers. What is the likely diagnosis?
+
+- A. Xeroderma pigmentosum
+- B. Osteogenesis imperfecta
+- C. Hypervitaminosis A
+- D. Paget’s disease
+
+<details><summary>Answer</summary>
+
+**A. Xeroderma pigmentosum**
+
+</details>
+
+---
+
+---
+### Q205 — A farmer presents with foot swelling *(2024)*
+
+A farmer presents with foot swelling and discharging sinuses. Staining of the lesion shows Gram-positive filamentous structures.
+
+- A. Nocardia brasiliensis
+- B. Sporothrix schenckii
+- C. Staphylococcus aureus
+- D. Aspergillus
+
+<details><summary>Answer</summary>
+
+**A. Nocardia brasiliensis**
+
+</details>
+
+---
+
+---
+### Q206 — A sexually active woman presents with *(2024)*
+
+A sexually active woman presents with foul-smelling, watery vaginal discharge. What is the most likely causative organism?
+
+- A. Gardnerella vaginalis
+- B. Candida albicans
+- C. Trichomonas vaginalis
+- D. Lactobacillus
+
+<details><summary>Answer</summary>
+
+**C. Trichomonas vaginalis**
+
+</details>
+
+---
+
+---
+
+## Year 2025
+
+### Q207 — Tzanck smear: multinucleated giant cells
+
+A patient with facial pain and painful oral vesicular lesions has Tzanck smear showing multinucleated giant cells with intranuclear inclusions. Causative organism?
+
+- A. Adenovirus
+- B. Cytomegalovirus
+- C. EBV
+- D. HSV
+
+<details><summary>Answer</summary>
+
+**D. HSV** — Tzanck smear showing multinucleated giant cells with intranuclear inclusions (Cowdry type A) is characteristic of HSV (also VZV). Herpetic gingivostomatitis.
+</details>
+
+---
+
+---
+### Q208 — SCC at base of tongue: most common cause
+
+Most common cause of squamous cell carcinoma at the base of the tongue?
+
+- A. EBV
+- B. HPV
+- C. HCV
+- D. CMV
+
+<details><summary>Answer</summary>
+
+**B. HPV** — HPV-16 is the leading cause of oropharyngeal SCC (base of tongue, tonsils). EBV causes nasopharyngeal carcinoma.
+</details>
+
+---
+
+---
+### Q209 — Black granules, multiple sinuses on foot
+
+A patient has irregular foot swelling, multiple discharging sinuses with black granules. KOH mount will show:
+
+- A. Arthrospores
+- B. Slender dematiaceous fungi
+- C. Yeast
+- D. Septate hyphae
+
+<details><summary>Answer</summary>
+
+**D. Septate hyphae** — Eumycetoma (fungal mycetoma) with black granules caused by Madurella mycetomatis shows dark septate hyphae. Actinomycetoma (bacteria) shows filamentous bacteria.
+</details>
+
+---
+
+---
+### Q210 — Confirmatory test for chronic granulomatous skin lesion
+
+Most confirmatory test for a chronic granulomatous skin lesion (leprosy suspected)?
+
+- A. PCR
+- B. Slit skin smear
+- C. Mantoux test
+- D. Skin biopsy with histopathology
+
+<details><summary>Answer</summary>
+
+**A. PCR** — PCR for M. leprae is the most confirmatory test. Slit skin smear shows organisms but PCR confirms active disease especially in paucibacillary leprosy.
+</details>
+
+---
+
+---
+### Q211 — Non-progressive hypopigmented lesion, Wood's lamp white accentuation, diascopy negative
+
+A 20-year-old with non-progressive hypopigmented lesion on trunk; Wood's lamp shows white accentuation; diascopy negative. Diagnosis?
+
+- A. Vitiligo
+- B. Nevus depigmentosus
+- C. Nevus anemicus
+- D. Indeterminate leprosy
+
+<details><summary>Answer</summary>
+
+**B. Nevus depigmentosus** — Non-progressive; Wood's lamp enhances lesion (hypopigmented, not depigmented). Nevus anemicus: diascopy positive (blanches with pressure). Vitiligo: completely depigmented (chalk-white on Wood's).
+</details>
+
+---
+
+---
+### Q212 — Intensely itchy vesicular lesions on extensor surfaces with gluten sensitivity
+
+A patient with gluten sensitivity has intensely itchy vesicular lesions on extensor surfaces. Diagnosis?
+
+- A. Bullous pemphigoid
+- B. Pemphigus vulgaris
+- C. Dermatitis herpetiformis
+- D. Psoriasis
+
+<details><summary>Answer</summary>
+
+**C. Dermatitis herpetiformis** — Gluten-sensitive enteropathy with IgA deposits at dermal papillae → intensely pruritic vesicles on extensor surfaces (elbows, knees, buttocks).
+</details>
+
+---
+
+---

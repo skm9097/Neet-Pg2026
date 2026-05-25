@@ -4218,7 +4218,6 @@ PSGN is an example of which type of hyper sensitivity
 ---
 
 ---
-
 ### Q262 — Randomization is done to reduce *(2015)*
 
 Randomization is done to reduce ?
@@ -4237,7 +4236,6 @@ Randomization is done to reduce ?
 ---
 
 ---
-
 ### Q263 — After taking MMR live vaccine conception *(2015)*
 
 After taking MMR live vaccine, conception should not occur within ?
@@ -4256,7 +4254,6 @@ After taking MMR live vaccine, conception should not occur within ?
 ---
 
 ---
-
 ### Q264 — Maximum relative risk attributed by obesity *(2015)*
 
 Maximum relative risk attributed by obesity to which condition ?
@@ -4275,7 +4272,6 @@ Maximum relative risk attributed by obesity to which condition ?
 ---
 
 ---
-
 ### Q265 — Limiting amino acid in cereals *(2015)*
 
 Limiting amino acid in cereals ?
@@ -4294,7 +4290,6 @@ Limiting amino acid in cereals ?
 ---
 
 ---
-
 ### Q266 — are incinerated except *(2015)*
 
 All are incinerated except ?
@@ -4313,7 +4308,6 @@ All are incinerated except ?
 ---
 
 ---
-
 ### Q267 — is the intensity in decibel of *(2015)*
 
 What is the intensity in decibel of normal conversation in humans?
@@ -4332,7 +4326,6 @@ What is the intensity in decibel of normal conversation in humans?
 ---
 
 ---
-
 ### Q268 — is the type of epithelium of *(2015)*
 
 What is the type of epithelium of the adenoid?
@@ -4351,11 +4344,2350 @@ What is the type of epithelium of the adenoid?
 ---
 
 ---
+### Q269 — All of the following are true
 
+All of the following are true about Down syndrome except
+
+- A. Incidence of Robertsonian translocation is 1:1000
+- B. Extra chromosome is of maternal origin
+- C. Most common cause is trisomy 21
+- D. Mosaicism 21 has no association with maternal age
+
+<details><summary>Answer</summary>
+
+**A. Incidence of Robertsonian translocation is 1:1000** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q270 — Post marketing surveillance included in which
+
+Post marketing surveillance included in which phase of drug clinical trial?
+
+- A. I
+- B. II
+- C. III
+- D. IV
+
+<details><summary>Answer</summary>
+
+**D. IV** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q271 — Aincreased 47-year-old woman presents with complai
+
+Aincreased 47-year-old woman presents with complaints of nervousness and sensitivity to hot weather. She is diagnosed with hyperthyroidism and prescribed propylthiouracil. What is the principal mechanism by which
+
+- A. Decreasing the efficacy of TSH binding to the thyroid TSH
+- B. Decreasing the rate of proteolysis of thyroglobulin
+- C. Increasing the amount of 3,3',5'-triiodothyronine (reverse T3;
+- D. Inhibiting deiodination of thyroxine (T4)
+
+<details><summary>Answer</summary>
+
+**D. Inhibiting deiodination of thyroxine (T4)** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q272 — Medium used for antibiotic sensitivity
+
+Medium used for antibiotic sensitivity:
+
+- A. CLED agar
+- B. Hektoen agar
+- C. Mueller-Hinton agar
+- D. Salt milk agar
+
+<details><summary>Answer</summary>
+
+**C. Mueller-Hinton agar** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q273 — Proteus isolated from a patient of
+
+Proteus isolated from a patient of UTI will show which boichemical reaction:
+
+- A. Phenylpyruvic acid reaction
+- B. Bile esculin reaction
+- C. Colchicine sensitivity
+- D. Bacitracin sensitivity
+
+<details><summary>Answer</summary>
+
+**A. Phenylpyruvic acid reaction** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q274 — Test to differentiate staphylococci from micrococc
+
+Test to differentiate staphylococci from micrococci:
+
+- A. Catalase test
+- B. Coagulase test
+- C. Novobiosin sensitivity
+- D. Oxidation fermentation
+
+<details><summary>Answer</summary>
+
+**D. Oxidation fermentation** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q275 — Prevention of catheter induced urinary tract
+
+Prevention of catheter induced urinary tract infection is by ?
+
+- A. Prophylactic antibiotics
+- B. Use of face mask
+- C. Closed drainage technique
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Closed drainage technique** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q276 — Bubus form is which stage of
+
+Bubus form is which stage of LGV:
+
+- A. Prmary
+- B. Secondary
+- C. Tertiary
+- D. Latent
+
+<details><summary>Answer</summary>
+
+**B. Secondary** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q277 — Nosocomial infection is most commonly caused
+
+Nosocomial infection is most commonly caused by:
+
+- A. Gram negative bacilli
+- B. Gram positive bacilli
+- C. Gram negative cocci
+- D. Mycoplasma
+
+<details><summary>Answer</summary>
+
+**A. Gram negative bacilli** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q278 — ABO non- secretors are more prone
+
+ABO non- secretors are more prone to ?
+
+- A. Infection
+- B. Autoimmunity
+- C. Heart disease
+- D. Carcinoma
+
+<details><summary>Answer</summary>
+
+**B. Autoimmunity** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q279 — CD3 is a marker for
+
+CD3 is a marker for?
+
+- A. B - cells
+- B. T - cells
+- C. NK - cells
+- D. Monocytes
+
+<details><summary>Answer</summary>
+
+**B. T - cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q280 — Performance of components of PQLI is
+
+Performance of components of PQLI is counted between
+
+- A. -1 to +1
+- B. 0 to 1
+- C. 0 to 100
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. 0 to 100** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q281 — Human, animal, fomite or objects from
+
+Human, animal, fomite or objects from which infective organism enters the host is called ?
+
+- A. Source
+- B. Reservoir
+- C. Carrier
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Source** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q282 — Not included in Bradford Hills criteria
+
+Not included in Bradford Hill's criteria ?
+
+- A. Strength of association
+- B. Consistency of association
+- C. Specificity of association
+- D. Lack of temporal association
+
+<details><summary>Answer</summary>
+
+**D. Lack of temporal association** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q283 — Most important criterian in causal relationship
+
+Most important criterian in causal relationship hypothesis ?
+
+- A. Temporal association
+- B. Coherence of association
+- C. Specificity of association
+- D. Strength of association
+
+<details><summary>Answer</summary>
+
+**A. Temporal association** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q284 — The weakest criterian in causal relatianship
+
+The weakest criterian in causal relatianship hypothesis?
+
+- A. Temporal association
+- B. Coherence of association
+- C. Specificity of association
+- D. Strength of association
+
+<details><summary>Answer</summary>
+
+**C. Specificity of association** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q285 — Benefit of RCT
+
+Benefit of RCT ?
+
+- A. Faster study
+- B. Cheaper study
+- C. No selection bias
+- D. Suitable for rare disease
+
+<details><summary>Answer</summary>
+
+**C. No selection bias** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q286 — Most commonly used blinding technique in
+
+Most commonly used blinding technique in epidemiological studies ?
+
+- A. Single blinding
+- B. Double blinding
+- C. Triple blinding
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. Triple blinding** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q287 — Which of one of the following
+
+Which of one of the following is NOT a utilization rate?
+
+- A. Population bed ratio
+- B. Bed occupancy rate
+- C. Bed turnover ratio
+- D. Average length of stay
+
+<details><summary>Answer</summary>
+
+**A. Population bed ratio** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q288 — Calculate IMR if in a population
+
+Calculate IMR if in a population of 100000 there are 3000 live births in a year and 150 infant deaths in the same year -
+
+- A. 75
+- B. 18
+- C. 5
+- D. 50
+
+<details><summary>Answer</summary>
+
+**D. 50** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q289 — True about combined prospective- retrospective stu
+
+True about combined prospective- retrospective study true is ?
+
+- A. Exposure (+) nt, disease (+) nt
+- B. Exposure (+) nt, disease (-) nt
+- C. Exposure (-) nt, disease (+) nt
+- D. Exposure (-) nt, disease (-) nt
+
+<details><summary>Answer</summary>
+
+**A. Exposure (+) nt, disease (+) nt** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q290 — Proportional mortality rate is
+
+Proportional mortality rate is ?
+
+- A. Number of death due to a particular cause
+- B. Number of death during that year
+- C. Number of death in one month
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Number of death due to a particular cause** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q291 — Population attributable risk is defined as
+
+Population attributable risk is defined as the difference between:
+
+- A. Incidence in exposed and incidence in non-exposed compared
+- B. Incidence in population and incidence in exposed compared
+- C. Incidence in population and incidence in non-exposed
+- D. Incidence in population and incidence in exposed compared
+
+<details><summary>Answer</summary>
+
+**C. Incidence in population and incidence in non-exposed** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q292 — Selection bias occurs mainly in
+
+Selection bias occurs mainly in
+
+- A. Cohort study
+- B. Case-control study
+- C. RCT
+- D. All have equal chances
+
+<details><summary>Answer</summary>
+
+**B. Case-control study** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q293 — Best study technique to study the
+
+Best study technique to study the occurence of rare adverse effects of drug ?
+
+- A. Case-control study
+- B. Cohort study
+- C. Clinical trial/experimental study
+- D. Cross-sectional study
+
+<details><summary>Answer</summary>
+
+**C. Clinical trial/experimental study** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q294 — Bladder cancer can occur in those
+
+Bladder cancer can occur in those who are working in chimney for 25 years. Which is the best study for this relationship ?
+
+- A. Meta-analysis
+- B. Cross-sectional study
+- C. Randomized control trial with double blinding
+- D. Cohort study
+
+<details><summary>Answer</summary>
+
+**A. Meta-analysis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q295 — Which is an example of case
+
+Which is an example of case control study ?
+
+- A. Thalidomide and teratogenicity
+- B. Framingham heart study
+- C. PVC and angiosarcoma of liver
+- D. Doll & Hill Study
+
+<details><summary>Answer</summary>
+
+**A. Thalidomide and teratogenicity** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q296 — Advantage of case-control over a cohort
+
+Advantage of case-control over a cohort study ?
+
+- A. Attributable risk can be calculated
+- B. Odd's ratio can be calculated
+- C. For rare disease
+- D. b and c
+
+<details><summary>Answer</summary>
+
+**D. b and c** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q297 — Immunity starts after how many days
+
+Immunity starts after how many days of yellow fever vaccination ?
+
+- A. 7-10 days
+- B. 2-3 weeks
+- C. 4-5 weeks
+- D. 2-3 months
+
+<details><summary>Answer</summary>
+
+**A. 7-10 days** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q298 — Which Dipheria vaccine is recommended in
+
+Which Dipheria vaccine is recommended in a 14 years old girl ?
+
+- A. DPT
+- B. DT
+- C. Tdap
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Tdap** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q299 — Droplet nuclei is a type of
+
+Droplet nuclei is a type of ?
+
+- A. Vertical transmission
+- B. Direct transmission
+- C. Indirect transmission
+- D. Biological transmission
+
+<details><summary>Answer</summary>
+
+**B. Direct transmission** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q300 — Which is not a direct transmission
+
+Which is not a direct transmission ?
+
+- A. Droplet infection
+- B. Vertical transmission
+- C. Transmission by mosquito
+- D. Soil contact
+
+<details><summary>Answer</summary>
+
+**C. Transmission by mosquito** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q301 — Not a freeze dried vaccine
+
+Not a freeze dried vaccine ?
+
+- A. OPV
+- B. Measles
+- C. DPT
+- D. Rubella
+
+<details><summary>Answer</summary>
+
+**C. DPT** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q302 — Most widely used vaccine, beside OPV
+
+Most widely used vaccine, beside OPV ?
+
+- A. BCG
+- B. TT
+- C. Influenza
+- D. Pneumococcal
+
+<details><summary>Answer</summary>
+
+**A. BCG** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q303 — Chickenpox rash does not involve
+
+Chickenpox rash does not involve ?
+
+- A. Trunk
+- B. Axilla
+- C. Palms & soles
+- D. Back
+
+<details><summary>Answer</summary>
+
+**C. Palms & soles** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q304 — 95 carrier and 5 cases are
+
+95% carrier and 5% cases are seen in ?
+
+- A. Measles
+- B. Diphtheria
+- C. Rabies
+- D. Hepatitis B
+
+<details><summary>Answer</summary>
+
+**B. Diphtheria** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q305 — Following is Hib conjugate vaccine
+
+Following is Hib conjugate vaccine ?
+
+- A. Capsular polysaccharide
+- B. Cell wall polysaccheride
+- C. Capsular polysaccheride with carrier
+- D. PRP with carrier
+
+<details><summary>Answer</summary>
+
+**C. Capsular polysaccheride with carrier** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q306 — True about influenza infectivity
+
+True about influenza infectivity ?
+
+- A. Communicable period is 5 days before to 5 days after the onset
+- B. Source of infection is clinical case
+- C. There are no subclinical cases
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**B. Source of infection is clinical case** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q307 — Capsular polysaccharide derived vaccine is availab
+
+Capsular polysaccharide derived vaccine is available for all meningocci except ?
+
+- A. Group A
+- B. Group B
+- C. Group C
+- D. Group Y
+
+<details><summary>Answer</summary>
+
+**B. Group B** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q308 — False regarding polio vaccination
+
+False regarding polio vaccination ?
+
+- A. Both killed and live vaccines are available
+- B. First OPV is given at 4 weeks
+- C. OPV induces both humoral and intestinal immunity
+- D. IPV is given intramuscularly
+
+<details><summary>Answer</summary>
+
+**B. First OPV is given at 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q309 — Reservoir of infection in enteric fever
+
+Reservoir of infection in enteric fever ?
+
+- A. Birds
+- B. Cow
+- C. Cattle
+- D. Man
+
+<details><summary>Answer</summary>
+
+**D. Man** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q310 — Most common route of nosocomial infection
+
+Most common route of nosocomial infection [Hospital-acquired infection] ?
+
+- A. Droplet transmission
+- B. Direct contact
+- C. Indirect contact
+- D. Vehicle transmission
+
+<details><summary>Answer</summary>
+
+**B. Direct contact** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q311 — Behavioral surveillance survey is done in
+
+Behavioral surveillance survey is done in ?
+
+- A. Malaria
+- B. Filaria
+- C. AIDS
+- D. TB
+
+<details><summary>Answer</summary>
+
+**C. AIDS** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q312 — Which of the following larvicide is
+
+Which of the following larvicide is used under urban Malaria Scheme ?
+
+- A. Malathion
+- B. Parathion
+- C. DDT
+- D. Abate
+
+<details><summary>Answer</summary>
+
+**D. Abate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q313 — Regular insectisidal spray is done when
+
+Regular insectisidal spray is done when API is ?
+
+- A. > 1
+- B. > 2
+- C. < 1
+- D. < 2
+
+<details><summary>Answer</summary>
+
+**B. > 2** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q314 — Main function of sodium citrate in
+
+Main function of sodium citrate in ORS ?
+
+- A. To increase absorption of glucose by cotransport
+- B. To correct electrolyte imbalance
+- C. To correct Acidosis
+- D. To correct dehydration
+
+<details><summary>Answer</summary>
+
+**C. To correct Acidosis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q315 — For post exposure prophylaxis for HIV
+
+For post exposure prophylaxis for HIV the regimen is ?
+
+- A. Zidovodin + lamivudin for 4 weeks
+- B. Lamivudin + ritonavir for 4 weeks
+- C. Zidovudin + lamivudin + Indinavir for 4 weeks
+- D. Single dose zidovudin + lamivudin + Indinavir
+
+<details><summary>Answer</summary>
+
+**C. Zidovudin + lamivudin + Indinavir for 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q316 — True about post-exposure prophylaxis in HIV
+
+True about post-exposure prophylaxis in HIV ?
+
+- A. Should be given in 5 days of exposure
+- B. Single dose nevirapine prevents mother to child transmission
+- C. Given for 2 weeks
+- D. Standard protocol is to use Any Two NRTIs with no other drugs
+
+<details><summary>Answer</summary>
+
+**B. Single dose nevirapine prevents mother to child transmission** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q317 — Rule of Halves is related to
+
+Rule of Halves is related to ?
+
+- A. Obesity
+- B. Burns
+- C. Blindness
+- D. Hypertension
+
+<details><summary>Answer</summary>
+
+**D. Hypertension** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q318 — Total communication means
+
+Total communication means ?
+
+- A. Use of all methods of communication for advertisment
+- B. Use of all methods of communication for school teaching
+- C. Use of all methods of communication for community
+- D. Using every communication option to teach deaf child
+
+<details><summary>Answer</summary>
+
+**D. Using every communication option to teach deaf child** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q319 — Smoking is preventive for
+
+Smoking is preventive for ?
+
+- A. Lung cancer
+- B. Chronic bronchitis
+- C. Ulcerative colitis
+- D. CHD
+
+<details><summary>Answer</summary>
+
+**C. Ulcerative colitis** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q320 — According female sterlization 2014 guidelines, eli
+
+According female sterlization 2014 guidelines, eligibility criteria for female sterilization are all except?
+
+- A. Age between 22-49 years
+- B. Should have at least 1 child
+- C. Unmarried woman
+- D. Partner is not sterilized
+
+<details><summary>Answer</summary>
+
+**C. Unmarried woman** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q321 — Which state has lowest IMR
+
+Which state has lowest IMR ?
+
+- A. Uttar Pradesh
+- B. Kerala
+- C. Maharashtra
+- D. Tamil Nadu
+
+<details><summary>Answer</summary>
+
+**B. Kerala** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q322 — Gross reproduction rate is
+
+Gross reproduction rate is ?
+
+- A. Number of girls born to a mother in her reproductive age
+- B. Number of boys born to a mother in her reproductive age
+- C. Number of total children born to a mother in her reproductive
+- D. Number of lives births per 1000 women
+
+<details><summary>Answer</summary>
+
+**A. Number of girls born to a mother in her reproductive age** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q323 — In a town there are 2500
+
+In a town there are 2500 live birth within six month. During same period 5 women died due to peripartum infection, 5 died due to electrocution, 2 died due to
+
+- A. 4 per 1000 live birth
+- B. 6 per 1000 live birth
+- C. 40 per 1000 live birth
+- D. 60 per 1000 live birth
+
+<details><summary>Answer</summary>
+
+**A. 4 per 1000 live birth** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q324 — Vital statistics in a population are
+
+Vital statistics in a population are ?
+
+- A. Sex ratio
+- B. Age composition
+- C. Birth rate
+- D. Dependency ratio
+
+<details><summary>Answer</summary>
+
+**C. Birth rate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q325 — What is exponential growth
+
+What is exponential growth ?
+
+- A. Rapid growth in population that leads to disbalance in birth and
+- B. Slow growth rate
+- C. Growth limited by limiting factors
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Rapid growth in population that leads to disbalance in birth and** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q326 — Sample registration system is done once
+
+Sample registration system is done once in ?
+
+- A. 6 months
+- B. 1 year
+- C. 2 years
+- D. 5 years
+
+<details><summary>Answer</summary>
+
+**A. 6 months** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q327 — In a community of 1000000 population
+
+In a community of 1000000 population 105 children were born in a year out of which 5 was still births, and 4 died within 6 months after birth. The IMR is ?
+
+- A. 40
+- B. 90
+- C. 120
+- D. 150
+
+<details><summary>Answer</summary>
+
+**A. 40** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q328 — Maternal mortality rate is defined as
+
+Maternal mortality rate is defined as ?
+
+- A. Maternal death per 1000 total births
+- B. Maternal death per 1000 live births
+- C. Maternal death per 1000 women
+- D. Maternal death per 1000 women of reproductive age
+
+<details><summary>Answer</summary>
+
+**D. Maternal death per 1000 women of reproductive age** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q329 — NPU for egg is
+
+NPU for egg is ?
+
+- A. 70
+- B. 80
+- C. 85
+- D. 100
+
+<details><summary>Answer</summary>
+
+**D. 100** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q330 — Skeletal fluorosis occurs with fluoride level
+
+Skeletal fluorosis occurs with fluoride level in water?
+
+- A. < 1.5 mg/L
+- B. 1.5-3 mg/L
+- C. 3-6 mg/L
+- D. > 10 mg/L
+
+<details><summary>Answer</summary>
+
+**C. 3-6 mg/L** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q331 — Mid-day meal provides
+
+Mid-day meal provides ?
+
+- A. 1/2 of energy
+- B. 1/3 of protein
+- C. 30 gm pulse/day
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**C. 30 gm pulse/day** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q332 — Maximum protein is found in
+
+Maximum protein is found in ?
+
+- A. Egg
+- B. Soyabean
+- C. Rice
+- D. Wheat
+
+<details><summary>Answer</summary>
+
+**B. Soyabean** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q333 — Tablet for supplementation of iron and
+
+Tablet for supplementation of iron and folic acid for adult contains ?
+
+- A. 20 mg iron, 5001,tg folic aci
+- B. 40 mg iron, 250 folic acid
+- C. 100 mg iron, 500 lig folic acid
+- D. 100 mg iron, 100 hg folic acid
+
+<details><summary>Answer</summary>
+
+**C. 100 mg iron, 500 lig folic acid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q334 — Vanaspati Ghee is fortified with
+
+Vanaspati Ghee is fortified with ?
+
+- A. Iodine
+- B. Vitamin A
+- C. Iron
+- D. Calcium
+
+<details><summary>Answer</summary>
+
+**B. Vitamin A** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q335 — Village Health and Nutrition Day (VHND)
+
+Village Health and Nutrition Day (VHND) is observed ?
+
+- A. Every week
+- B. Every month
+- C. Every 6 month
+- D. Every year
+
+<details><summary>Answer</summary>
+
+**B. Every month** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q336 — Phrynoderma is due to deficiency-
+
+Phrynoderma is due to ...deficiency-
+
+- A. Vitamin D
+- B. Niacin
+- C. Vitamin A
+- D. Essential fatty acid
+
+<details><summary>Answer</summary>
+
+**D. Essential fatty acid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q337 — Glycemic index is defined as
+
+Glycemic index is defined as:
+
+- A. Glucose control in last 3 months
+- B. Measure of the change in the blood glucose following ingestion
+- C. Measure of the change in the blood glucose following ingestion
+- D. Measure of the change in the blood glucose following ingestion
+
+<details><summary>Answer</summary>
+
+**C. Measure of the change in the blood glucose following ingestion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q338 — Low glycemic index is classified as
+
+Low glycemic index is classified as value less than:
+
+- A. 25
+- B. 45
+- C. 55
+- D. 65
+
+<details><summary>Answer</summary>
+
+**C. 55** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q339 — Differences between human milk and cow
+
+Differences between human milk and cow milk are all of the following except:
+
+- A. Cow milk has comparatively more fat
+- B. Cow milk has comparatively more protein
+- C. Cow milk has comparatively more calcium
+- D. Cow milk is iron deficient
+
+<details><summary>Answer</summary>
+
+**D. Cow milk is iron deficient** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q340 — Skin fold thickness is measured in
+
+Skin fold thickness is measured in all of the following places, EXCEPT:
+
+- A. Mid triceps
+- B. Biceps
+- C. Supra pubic
+- D. Supra iliac
+
+<details><summary>Answer</summary>
+
+**C. Supra pubic** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q341 — Which is true of pathogenic mosquitoes
+
+Which is true of pathogenic mosquitoes ?
+
+- A. Anopheles has spotted abdomen
+- B. Mansoni lays eggs singly
+- C. Culex cause yellow fever
+- D. Aedes has stripped yellow scales
+
+<details><summary>Answer</summary>
+
+**D. Aedes has stripped yellow scales** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q342 — Horrocks apparatus is used to measure
+
+Horrock's apparatus is used to measure ?
+
+- A. Wind velocity
+- B. Humidity
+- C. Chlorine demand
+- D. Cooling power
+
+<details><summary>Answer</summary>
+
+**C. Chlorine demand** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q343 — Indicator used in Horrochs apparatus
+
+Indicator used in Horroch's apparatus ?
+
+- A. Bleaching powder
+- B. Soda-lime
+- C. Potassium permagnate
+- D. Starch iodine
+
+<details><summary>Answer</summary>
+
+**D. Starch iodine** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q344 — In water testing from a well
+
+In water testing from a well [containing 75000 litres of water] by Horrock's apparatus, there is blue colour from 4th cup onwards. What is the amount of
+
+- A. 1000 gm
+- B. 1300 gm
+- C. 1600 gm
+- D. 2000 gm
+
+<details><summary>Answer</summary>
+
+**B. 1300 gm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q345 — Daylight factor in the kitchen should
+
+Daylight factor in the kitchen should be ?
+
+- A. 5%
+- B. 8%
+- C. 10%
+- D. 15%
+
+<details><summary>Answer</summary>
+
+**C. 10%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q346 — Anemometer measures
+
+Anemometer measures ?
+
+- A. Humidity
+- B. Air velocity
+- C. Room temperature
+- D. Radiant temperature
+
+<details><summary>Answer</summary>
+
+**B. Air velocity** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q347 — SI unit of luminal intesity is
+
+SI unit of luminal intesity is -
+
+- A. Candela
+- B. Lumen
+- C. Lux
+- D. Coulomb
+
+<details><summary>Answer</summary>
+
+**A. Candela** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q348 — Waste Sharps should be disposed in
+
+Waste Sharps should be disposed in ?
+
+- A. Black bag
+- B. Yellow bag
+- C. Blue bag
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**C. Blue bag** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q349 — Which category waste is disposed in
+
+Which category waste is disposed in red bags ?
+
+- A. Category 1
+- B. Category 2
+- C. Category 3
+- D. Category 10
+
+<details><summary>Answer</summary>
+
+**C. Category 3** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q350 — Incineration is used for which category
+
+Incineration is used for which category of waste ?
+
+- A. Category 1
+- B. Category 7
+- C. Category 4
+- D. Category 10
+
+<details><summary>Answer</summary>
+
+**A. Category 1** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q351 — Micropolysopora faeni causes
+
+Micropolysopora faeni causes ?
+
+- A. Baggasosis
+- B. Farmer's lung
+- C. Suberosis
+- D. Sequousis
+
+<details><summary>Answer</summary>
+
+**B. Farmer's lung** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q352 — True about Anganwadi worker is all
+
+True about Anganwadi worker is all except ?
+
+- A. Mostly female
+- B. Training for 4 months
+- C. Under ICDS scheme
+- D. Covers a population of 2000
+
+<details><summary>Answer</summary>
+
+**D. Covers a population of 2000** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q353 — As per ICDS scheme, there should
+
+As per ICDS scheme, there should be one Anganwadi centre for a population of ?
+
+- A. 1000-1500
+- B. 2000-25000
+- C. 400-800
+- D. 100-200
+
+<details><summary>Answer</summary>
+
+**C. 400-800** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q354 — True about ASHA are all except
+
+True about ASHA are all except
+
+- A. One per 1000 rural population
+- B. Mobiliser of antenatal care
+- C. Female voluntary worker
+- D. Skilled birth attendant
+
+<details><summary>Answer</summary>
+
+**D. Skilled birth attendant** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q355 — All of the following are duties
+
+All of the following are duties of an ASHA worker except:
+
+- A. Primary screening for prevalence of non-communica​ble
+- B. Administering zero dose of DPT and OPV
+- C. Assessing the success of national programs under ANM
+- D. All
+
+<details><summary>Answer</summary>
+
+**B. Administering zero dose of DPT and OPV** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q356 — ASHA gets remuneration on all except
+
+ASHA gets remuneration on all except ?
+
+- A. Institutional delivery
+- B. Zero dose of OPV and BCG
+- C. Recording birth weight
+- D. Birth registration
+
+<details><summary>Answer</summary>
+
+**B. Zero dose of OPV and BCG** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q357 — Swajaldhara programme is associated with
+
+Swajaldhara programme is associated with:
+
+- A. Provision of safe drinking water
+- B. Provision of food supplements for destitute women
+- C. Provision of relief for victim of sexual abuse
+- D. Provision of health care for sick tribals
+
+<details><summary>Answer</summary>
+
+**A. Provision of safe drinking water** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q358 — Group of 4-8 experts talking in
+
+Group of 4-8 experts talking in front of a large group of audience is known as:
+
+- A. Symposium
+- B. Workshop
+- C. Seminar
+- D. Panel discussion
+
+<details><summary>Answer</summary>
+
+**D. Panel discussion** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q359 — All are principles of primary health
+
+All are principles of primary health care except?
+
+- A. Intersectoral coordination
+- B. Community participation
+- C. Appropriate technology
+- D. Decentralised approach
+
+<details><summary>Answer</summary>
+
+**D. Decentralised approach** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q360 — Screening under RNTCP emphasizes on
+
+Screening under RNTCP emphasizes on:
+
+- A. Sputum microscopy
+- B. Chest X-ray
+- C. PCR
+- D. Sputum culture
+
+<details><summary>Answer</summary>
+
+**A. Sputum microscopy** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q361 — Which of the following screening methods
+
+Which of the following screening methods is used under RNTCP?
+
+- A. Active
+- B. Passive
+- C. Mass
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Passive** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q362 — Regarding PPV vaccine following is true
+
+Regarding PPV vaccine following is true ?
+
+- A. Given at birth
+- B. Obtained from cell wall polysaccharide
+- C. Indicated in sickle cell disease
+- D. Commonly used
+
+<details><summary>Answer</summary>
+
+**C. Indicated in sickle cell disease** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q363 — All are included in sleep hygiene
+
+All are included in sleep hygiene except ?
+
+- A. Healthy diet
+- B. Sleeping on time
+- C. Sleeping in dark room
+- D. Exercise before sleep
+
+<details><summary>Answer</summary>
+
+**D. Exercise before sleep** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q364 — A problem village is defined as
+
+A problem village is defined as if water source is ?
+
+- A. > 0.5 km
+- B. > 1 km
+- C. > 1.6 km
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**C. > 1.6 km** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q365 — Not true about strategic plan for
+
+Not true about strategic plan for malaria control 2012​2017 ?
+
+- A. Objective is API < 1 per 10,000
+- B. 50% reduction in mortality by 2017
+- C. Annual incidence < 10 per 1000 by 2017
+- D. Complete treatment to at least 80% of patients
+
+<details><summary>Answer</summary>
+
+**C. Annual incidence < 10 per 1000 by 2017** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q366 — Light house sign in seen in
+
+Light house sign in seen in ASOM in which stage?
+
+- A. Stage of suppuration
+- B. Stage of hyperaemia
+- C. Stage of resolution
+- D. Stage of pre-suppuration
+
+<details><summary>Answer</summary>
+
+**A. Stage of suppuration** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q367 — What is the role of Sodium
+
+What is the role of Sodium Fluoride in otosclerosis?
+
+- A. It restores the electrolyte equilibrium
+- B. It hastens recovery of the Overstimulated Cochlea
+- C. It quickens the maturity of the active focus and reduces
+- D. It repolarizes the cochlear cells
+
+<details><summary>Answer</summary>
+
+**C. It quickens the maturity of the active focus and reduces** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q368 — Which of the following tests is
+
+Which of the following tests is not used to differentiate between cochlear and retrocochlear hearing loss?
+
+- A. SISI TEST
+- B. Evoked response audiometry
+- C. Threshold tone decay test
+- D. Recruitment
+
+<details><summary>Answer</summary>
+
+**C. Threshold tone decay test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q369 — When does the rudimentary cochlea develop
+
+When does the rudimentary cochlea develop in the fetus?
+
+- A. First week
+- B. 4th to 8th week
+- C. 8th to 12th week
+- D. 16 to 20th week
+
+<details><summary>Answer</summary>
+
+**B. 4th to 8th week** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q370 — Otosclerosis affects which bone
+
+Otosclerosis affects which bone?
+
+- A. Stapes
+- B. Incus
+- C. Malleus
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Stapes** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q371 — External auditory canal is formed by
+
+External auditory canal is formed by:
+
+- A. 1s branchial groove
+- B. 1st visceral pouch
+- C. 2nd branchial groove
+- D. 2nd visceral pouch
+
+<details><summary>Answer</summary>
+
+**A. 1s branchial groove** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q372 — Which of the following is a
+
+Which of the following is a cause of objective tinnitus?
+
+- A. Impacted Wax
+- B. Carotid artery aneurysm
+- C. Meniere's disease
+- D. Ototoxic drugs
+
+<details><summary>Answer</summary>
+
+**B. Carotid artery aneurysm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q373 — Pulsatile tinnitus is a feature of
+
+Pulsatile tinnitus is a feature of ?
+
+- A. Glomus tumour
+- B. acoustic neuroma
+- C. malignant otits externa
+- D. meneire's disease
+
+<details><summary>Answer</summary>
+
+**A. Glomus tumour** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q374 — Ethmoidal infundibulum lies between
+
+Ethmoidal infundibulum lies between ?
+
+- A. Bulla ethmoidalis and uncinate process of ethmoid
+- B. Middle and inferior turbinate
+- C. Hiatus semilunaris and Inferior meatus
+- D. Wing of sphenoid and maxillary antrum
+
+<details><summary>Answer</summary>
+
+**A. Bulla ethmoidalis and uncinate process of ethmoid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q375 — What lies between the middle and
+
+What lies between the middle and inferior turbinate?
+
+- A. Middle meatus
+- B. Superior meatus
+- C. Hiatus semmilunaris
+- D. Inferior meatus
+
+<details><summary>Answer</summary>
+
+**A. Middle meatus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q376 — The narrowest part of the nasal
+
+The narrowest part of the nasal cavity is ?
+
+- A. Internal nasal valve
+- B. Antrochoanal region
+- C. 1st nasal turbinate
+- D. Region of inferior concha
+
+<details><summary>Answer</summary>
+
+**A. Internal nasal valve** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q377 — Narrowest part of the nasal cavity
+
+Narrowest part of the nasal cavity is ?
+
+- A. Vestibule
+- B. Choanae
+- C. Inferior turbinate
+- D. Middle turbinate
+
+<details><summary>Answer</summary>
+
+**C. Inferior turbinate** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q378 — In evaluation of a case of
+
+In evaluation of a case of immotile nasal cilia, which of the following investigations should prove useful?
+
+- A. Rhinogram
+- B. Xray nasal and paranasal sinuses
+- C. Sweat sodium levels
+- D. Nitric oxide test
+
+<details><summary>Answer</summary>
+
+**D. Nitric oxide test** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q379 — All of the following are features
+
+All of the following are features of ethmoidal polyp except ?
+
+- A. Common in adults
+- B. Commonly Singular
+- C. Commonly bilateral
+- D. Is usually allergic
+
+<details><summary>Answer</summary>
+
+**B. Commonly Singular** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q380 — All of the following are treatments
+
+All of the following are treatments of multiple bilateral ethmoidal polyps except?
+
+- A. Functional endoscopic sinus surgery
+- B. Intranasal ethmoidectomy
+- C. Extranasal ethmoidectomy
+- D. Caldwll Luc Surgery
+
+<details><summary>Answer</summary>
+
+**D. Caldwll Luc Surgery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q381 — The artery which leads to bleeding
+
+The artery which leads to bleeding in Woodruff's area is?
+
+- A. Anterior ethmoidal artery
+- B. Sphenopalatine artery
+- C. Greater palatine artery
+- D. Superior labial artery
+
+<details><summary>Answer</summary>
+
+**B. Sphenopalatine artery** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q382 — ETHMOIDAL BULLAE are seen in
+
+ETHMOIDAL BULLAE are seen in?
+
+- A. Posterior ethmoidal air cells
+- B. Middle ethmoid air cells
+- C. Superior ethmoidal air cells
+- D. Inferior ethmoidal air cells
+
+<details><summary>Answer</summary>
+
+**B. Middle ethmoid air cells** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q383 — Anterior tonsillar pillar is formed by
+
+Anterior tonsillar pillar is formed by?
+
+- A. Palatopharyngeal fold
+- B. Palatoglossal fold
+- C. Pterygopalatine arch
+- D. Valleculae
+
+<details><summary>Answer</summary>
+
+**B. Palatoglossal fold** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q384 — One of the following is true
+
+One of the following is true regarding Zenker diverticulum ?
+
+- A. It is a pulsion diverticulum
+- B. It projects anteriorly
+- C. Commonly seen in young males
+- D. It is between superior and middle constrictor
+
+<details><summary>Answer</summary>
+
+**A. It is a pulsion diverticulum** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q385 — Which is the narrowest portion of
+
+Which is the narrowest portion of the esophagus?
+
+- A. At the cricopharyngeal sphincter
+- B. At the crossing of the left main bronchus
+- C. At the level of the aortic arch
+- D. At the diagphragmatic aperture
+
+<details><summary>Answer</summary>
+
+**A. At the cricopharyngeal sphincter** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q386 — In Caldwell Luc operation, the approach
+
+In Caldwell Luc operation, the approach is through the?
+
+- A. Sublabial Approach leading to opening of mandibular antrum
+- B. Through the sphenopalatine recess
+- C. Opening of maxillary antrum through gingivolabial approach
+- D. Superior meatus
+
+<details><summary>Answer</summary>
+
+**C. Opening of maxillary antrum through gingivolabial approach** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q387 — Caldwell Luc Surgery has its approach
+
+Caldwell Luc Surgery has its approach to the maxillary antrum through ?
+
+- A. Gingivolabial sulcus
+- B. Inferior orbital rim
+- C. Nasal septum
+- D. Cribriform plate
+
+<details><summary>Answer</summary>
+
+**A. Gingivolabial sulcus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q388 — All of the following are removed
+
+All of the following are removed in vertical hemilaryngectomy except?
+
+- A. Half Glottis
+- B. Half Supraglottis
+- C. Half tongue
+- D. Half Subglottis
+
+<details><summary>Answer</summary>
+
+**C. Half tongue** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q389 — Miracle fruit is used to change
+
+Miracle fruit is used to change the taste from?
+
+- A. Sour to Bitter
+- B. Sour to Sweet
+- C. Bitter to sweet
+- D. Salty to sweet
+
+<details><summary>Answer</summary>
+
+**B. Sour to Sweet** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q390 — The main muscle affected in congenital
+
+The main muscle affected in congenital muscular torticollis is?
+
+- A. Sternocleidomastoid
+- B. Trapezius
+- C. Scalenus Anticus
+- D. Omohyoid
+
+<details><summary>Answer</summary>
+
+**A. Sternocleidomastoid** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q391 — Where is the auditory cortex located
+
+Where is the auditory cortex located inside the brain?
+
+- A. Superior temporal gyrus
+- B. Inferior temporal gyrus
+- C. Area 3,1,2
+- D. Cingulate gyrus
+
+<details><summary>Answer</summary>
+
+**A. Superior temporal gyrus** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q392 — Which eye muscle has radial, longitudinal
+
+Which eye muscle has radial, longitudinal and circular fibres?
+
+- A. Sphinctor Pupillae
+- B. Dilator Pupillae
+- C. Levator palpebrae Superioris
+- D. Ciliary muscle
+
+<details><summary>Answer</summary>
+
+**D. Ciliary muscle** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q393 — Axial length of eye ball is
+
+Axial length of eye ball is:
+
+- A. 16 mm
+- B. 20 mm
+- C. 24 mm
+- D. 28 mm
+
+<details><summary>Answer</summary>
+
+**C. 24 mm** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q394 — Sturms conoid refers to configuration of
+
+Sturm's conoid refers to configuration of the rays refracted through:
+
+- A. Concave spherical surface
+- B. Convex spherical surface
+- C. Toric surface
+- D. Irregular surface
+
+<details><summary>Answer</summary>
+
+**C. Toric surface** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q395 — Refractory error measured by all except
+
+Refractory error measured by all except ?
+
+- A. Keratometry
+- B. Retinoscopy
+- C. Refractometry
+- D. Spectrometry
+
+<details><summary>Answer</summary>
+
+**D. Spectrometry** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q396 — Anteroposterior change in length of eye
+
+Anteroposterior change in length of eye is called ?
+
+- A. Anisokonia
+- B. Curvatural anisotropia
+- C. Axial Ametropia
+- D. Emmetropia
+
+<details><summary>Answer</summary>
+
+**C. Axial Ametropia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q397 — Poikilocytosis and anisocytosis is seen in
+
+Poikilocytosis and anisocytosis is seen in
+
+- A. Megaloblastic anaemia
+- B. Iron deficiency anaemia
+- C. Nutritional deficiency anaemia
+- D. Thalassemia
+
+<details><summary>Answer</summary>
+
+**B. Iron deficiency anaemia** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
+### Q398 — Incidence of scar rupture in a
+
+Incidence of scar rupture in a subsequent preg​nancy in case of Lower Segment Cesarean Section (LSCS) is:
+
+- A. 2%
+- B. 4%
+- C. 5%
+- D. 8%
+
+<details><summary>Answer</summary>
+
+**A. 2%** — Source: Medicoholic 2015 PYQ compilation.
+
+</details>
+
+---
+
+---
 
 ## Year 2016
 
-### Q269 — Complement mediated hypersensitivity reaction is *(2016)*
+### Q399 — Complement mediated hypersensitivity reaction is *(2016)*
 
 Complement mediated hypersensitivity reaction is?
 
@@ -4373,8 +6705,7 @@ Complement mediated hypersensitivity reaction is?
 ---
 
 ---
-
-### Q270 — Recall bias is most commonly associated *(2016)*
+### Q400 — Recall bias is most commonly associated *(2016)*
 
 Recall bias is most commonly associated with which study design -
 
@@ -4392,8 +6723,7 @@ Recall bias is most commonly associated with which study design -
 ---
 
 ---
-
-### Q271 — Minimum accepted interval between two doses *(2016)*
+### Q401 — Minimum accepted interval between two doses *(2016)*
 
 Minimum accepted interval between two doses of DPT vaccine?
 
@@ -4411,8 +6741,7 @@ Minimum accepted interval between two doses of DPT vaccine?
 ---
 
 ---
-
-### Q272 — 70 kg farmer is consuming 56 *(2016)*
+### Q402 — 70 kg farmer is consuming 56 *(2016)*
 
 An 70 kg farmer is consuming 56 grams proteins, 275 grams carbohydrate and 60 grams lipids. He consuming?
 
@@ -4430,8 +6759,7 @@ An 70 kg farmer is consuming 56 grams proteins, 275 grams carbohydrate and 60 gr
 ---
 
 ---
-
-### Q273 — of the following has responsibility of *(2016)*
+### Q403 — of the following has responsibility of *(2016)*
 
 Which of the following has responsibility of data collection for active malaria surveillance at PHC level ?
 
@@ -4449,8 +6777,7 @@ Which of the following has responsibility of data collection for active malaria 
 ---
 
 ---
-
-### Q274 — Mac Ewans triangle is the landmark *(2016)*
+### Q404 — Mac Ewans triangle is the landmark *(2016)*
 
 Mac Ewan's triangle is the landmark for:
 
@@ -4468,8 +6795,7 @@ Mac Ewan's triangle is the landmark for:
 ---
 
 ---
-
-### Q275 — is a Rhinolith *(2016)*
+### Q405 — is a Rhinolith *(2016)*
 
 What is a Rhinolith:
 
@@ -4487,8 +6813,7 @@ What is a Rhinolith:
 ---
 
 ---
-
-### Q276 — In Snellens chart eye subtends an *(2016)*
+### Q406 — In Snellens chart eye subtends an *(2016)*
 
 In Snellen's chart, eye subtends an angle of how many minutes with letters on Snellen's chart?
 
@@ -4506,11 +6831,2230 @@ In Snellen's chart, eye subtends an angle of how many minutes with letters on Sn
 ---
 
 ---
+### Q407 — Why is clopidogrel preferred over ticlopidine *(2016)*
 
+Why is clopidogrel preferred over ticlopidine?
+
+- A. Lower incidence of neutropenia and thrombocytopenia
+- B. Lower incidence of dyslipidemia
+- C. Lower incidence of hyperglycemia
+- D. Lower incidence of postural hypotention
+
+<details><summary>Answer</summary>
+
+**A. Lower incidence of neutropenia and thrombocytopenia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q408 — Sewer swabs are taken to detect *(2016)*
+
+Sewer swabs are taken to detect
+
+- A. Typhoid cases in community
+- B. Cholera cases in community
+- C. Typhoid carriers in community
+- D. Cholera carriers in community
+
+<details><summary>Answer</summary>
+
+**C. Typhoid carriers in community** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q409 — Antibody specificity is due to *(2016)*
+
+Antibody specificity is due to ?
+
+- A. Amino acid sequence at H chain
+- B. Amino acid sequence at L chain
+- C. Amino acid at carboxy terminal
+- D. Amino acid sequence at the amino terminal
+
+<details><summary>Answer</summary>
+
+**D. Amino acid sequence at the amino terminal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q410 — Specificity of antibody is dependent on *(2016)*
+
+Specificity of antibody is dependent on ?
+
+- A. Fc portion
+- B. Fab region
+- C. Carboxy terminal
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Fab region** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q411 — Standpipe in rural oreas is an *(2016)*
+
+Standpipe in rural oreas is an example of which principle of primary health care?
+
+- A. Equitable distribution
+- B. Community porticipation
+- C. Intersectoral coordination
+- D. Appropriate technology
+
+<details><summary>Answer</summary>
+
+**C. Intersectoral coordination** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q412 — Denominator in under -5 proportional mortality *(2016)*
+
+Denominator in under -5 proportional mortality rate?
+
+- A. Number of death under 5 years of age
+- B. Mid-year under - 5 population
+- C. Total deaths
+- D. Mid- year population
+
+<details><summary>Answer</summary>
+
+**C. Total deaths** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q413 — HALE is used to measure *(2016)*
+
+HALE is used to measure
+
+- A. Disability adjusted life expectancy
+- B. Healthy life expectancy
+- C. Quality adjusted life expectancy
+- D. Expectancy free of disability
+
+<details><summary>Answer</summary>
+
+**B. Healthy life expectancy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q414 — Role of magnesium Mg in OPV *(2016)*
+
+Role of magnesium [Mg] in OPV?
+
+- A. Adjuvant
+- B. Preservative
+- C. Stabilizar
+- D. Antiinfective
+
+<details><summary>Answer</summary>
+
+**C. Stabilizar** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q415 — difference between descriptive and analytic studie *(2016)*
+
+The difference between descriptive and analytic studies?
+
+- A. Descriptive studies are used to test hypothesis
+- B. Analytic studies are used to formulate a hypothesis
+- C. Descriptive studies are first phase in epidemiology
+- D. Analytic studies observe distribution of disease
+
+<details><summary>Answer</summary>
+
+**C. Descriptive studies are first phase in epidemiology** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q416 — Strength of association of outcome and *(2016)*
+
+Strength of association of outcome and risk factor is measured by?
+
+- A. Relative risk
+- B. Attributable risk
+- C. Population attributable risk
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Relative risk** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q417 — Important measure for National health policy *(2016)*
+
+Important measure for National health policy?
+
+- A. Relative risk
+- B. Odds ratio
+- C. Incidence
+- D. Attributable risk
+
+<details><summary>Answer</summary>
+
+**D. Attributable risk** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q418 — study that gives the prevalence of *(2016)*
+
+A study that gives the prevalence of delusion in the elderly at a given point of time?
+
+- A. Case-control study
+- B. Cohort study
+- C. Cross-sectional study
+- D. Ecological study
+
+<details><summary>Answer</summary>
+
+**C. Cross-sectional study** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q419 — 100 individuals are diagnosed with lung *(2016)*
+
+100 individuals are diagnosed with lung cancer in a population of 100000. Out of 100 patients, 80 were smokers and 20000 were smokers in totals population. What is PAR?
+
+- A. 60
+- B. 75
+- C. 80
+- D. 90
+
+<details><summary>Answer</summary>
+
+**B. 75** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q420 — True about standardization are all except *(2016)*
+
+True about standardization are all except?
+
+- A. Most commonly used for age differences
+- B. Direct standardization is used when population is large
+- C. Age specific rates are required in indirect standardization
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**C. Age specific rates are required in indirect standardization** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q421 — Standardization is most important for *(2016)*
+
+Standardization is most important for?
+
+- A. Sex distribution
+- B. Age distribution
+- C. Disease distribution
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Age distribution** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q422 — True about cohort study *(2016)*
+
+True about cohort study
+
+- A. Descriptive study
+- B. Incidence study
+- C. Proceeds from effect to cause
+- D. All are correct
+
+<details><summary>Answer</summary>
+
+**B. Incidence study** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q423 — milk Passive immunity is also provided *(2016)*
+
+Which milk? Passive immunity is also provided through colostrum and breast
+
+- A. IgG
+- B. IgA
+- C. IgE
+- D. IgM
+
+<details><summary>Answer</summary>
+
+**B. IgA** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q424 — Mid year population is estimated on *(2016)*
+
+Mid year population is estimated on ?
+
+- A. 1st March
+- B. 1st July
+- C. 1st April
+- D. 15th August
+
+<details><summary>Answer</summary>
+
+**B. 1st July** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q425 — Meningococcal vaccine contains *(2016)*
+
+Meningococcal vaccine contains ?
+
+- A. 50 mcg of polysccharide of each strain
+- B. 100 mcg of polysccharide of each strain
+- C. 1000 mcg of polysccharide of each strain
+- D. 5000 mcg of polysccharide of each strain
+
+<details><summary>Answer</summary>
+
+**A. 50 mcg of polysccharide of each strain** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q426 — Secondary attack rate of mumps *(2016)*
+
+Secondary attack rate of mumps:?
+
+- A. 75%
+- B. 85%
+- C. 95%
+- D. < 50%
+
+<details><summary>Answer</summary>
+
+**B. 85%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q427 — Isolation period of TB *(2016)*
+
+Isolation period of TB ?
+
+- A. 2 days after treatment
+- B. 1 week after treatment
+- C. 2 weeks after treatment
+- D. 3 weeks after treatment
+
+<details><summary>Answer</summary>
+
+**D. 3 weeks after treatment** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q428 — Sensitivity of a screening test tells *(2016)*
+
+Sensitivity of a screening test tells about
+
+- A. Percentage of disease people among those with a positive test
+- B. Percentage of disease people among those with a negative test
+- C. Percentage of healthy people among those with a negative test
+- D. Percentage of healthy people among those with a positive test
+
+<details><summary>Answer</summary>
+
+**A. Percentage of disease people among those with a positive test** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q429 — If effective treatment for a disease *(2016)*
+
+If effective treatment for a disease is introduced in a community, what will be the effect on incidence [I] and prevalence [P] ?
+
+- A. No change in P & I
+- B. Both P & I will decrease
+- C. P will decrease & I will increase
+- D. P will decrease & I will remains the same
+
+<details><summary>Answer</summary>
+
+**D. P will decrease & I will remains the same** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q430 — screening test has sensitivity of 90 *(2016)*
+
+A screening test has sensitivity of 90% and specificity of 99%. The prevalence of disease under investigation is 5 per 1000 population. What is the PPV of the given screening test?
+
+- A. 10
+- B. 70
+- C. 33
+- D. 99
+
+<details><summary>Answer</summary>
+
+**C. 33** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q431 — Best indicator for spread of TB *(2016)*
+
+Best indicator for spread of TB in a community?
+
+- A. Annual infection rate
+- B. Prevalence of infection
+- C. Case rate
+- D. Incidence of new cases
+
+<details><summary>Answer</summary>
+
+**A. Annual infection rate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q432 — For diagnosis of TB Sputum microscopy *(2016)*
+
+For diagnosis of TB, Sputum microscopy has ?
+
+- A. High sensitivity & high specificity
+- B. High sensitivity & low specificity
+- C. Low sensitivity & high specificity
+- D. Low sensitivity & low specificity
+
+<details><summary>Answer</summary>
+
+**D. Low sensitivity & low specificity** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q433 — Mammalian reservoir for R prowazekii *(2016)*
+
+Mammalian reservoir for R. prowazekii ?
+
+- A. Rodents
+- B. Dog
+- C. Cattle
+- D. Humans
+
+<details><summary>Answer</summary>
+
+**D. Humans** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q434 — Post-exposure prophylaxis is indicated in *(2016)*
+
+Post-exposure prophylaxis is indicated in ?
+
+- A. HBV
+- B. Rabies
+- C. Diphtheria
+- D. All
+
+<details><summary>Answer</summary>
+
+**D. All** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q435 — Healthy carrier is seen in *(2016)*
+
+Healthy carrier is seen in?
+
+- A. Measles
+- B. Rubella
+- C. Meningococcal meningits
+- D. Influanza
+
+<details><summary>Answer</summary>
+
+**C. Meningococcal meningits** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q436 — Diagnosis of filariasis is confirmed most *(2016)*
+
+Diagnosis of filariasis is confirmed most commonly?
+
+- A. Clinical features
+- B. Detection of microfilariae
+- C. PCR
+- D. Seralogical test
+
+<details><summary>Answer</summary>
+
+**B. Detection of microfilariae** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q437 — Maximum spread of malaria occurs in *(2016)*
+
+Maximum spread of malaria occurs in which month?
+
+- A. March-April
+- B. January-February
+- C. April-May
+- D. September - October
+
+<details><summary>Answer</summary>
+
+**D. September - October** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q438 — Reconstituted measles vaccine should be used *(2016)*
+
+Reconstituted measles vaccine should be used with in -
+
+- A. 1 hour
+- B. 3 hour
+- C. 6 hour
+- D. 12 hour
+
+<details><summary>Answer</summary>
+
+**A. 1 hour** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q439 — Major reservoir of KFD *(2016)*
+
+Major reservoir of KFD ?
+
+- A. Human
+- B. Squirrels
+- C. Cattle
+- D. Monkey
+
+<details><summary>Answer</summary>
+
+**B. Squirrels** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q440 — Threshold level of herd immunity for *(2016)*
+
+Threshold level of herd immunity for Pertussis is?
+
+- A. 80%
+- B. 70%
+- C. 90%
+- D. 50%
+
+<details><summary>Answer</summary>
+
+**C. 90%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q441 — is the commonest form of plague *(2016)*
+
+What is the commonest form of plague?
+
+- A. Bubonic plague
+- B. Pneumonic plague
+- C. Septicaemic plague
+- D. Hemorrhagic plague
+
+<details><summary>Answer</summary>
+
+**A. Bubonic plague** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q442 — Prevalence of RHD in India in *(2016)*
+
+Prevalence of RHD in India in 5-15 years age group?
+
+- A. 1-2 per 1000
+- B. 5-7 per 1000
+- C. 10-12 per 1000
+- D. 13-15 per 1000
+
+<details><summary>Answer</summary>
+
+**B. 5-7 per 1000** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q443 — Jai Vigyan Mission mode project in *(2016)*
+
+Jai Vigyan Mission mode project in India is for?
+
+- A. Measles
+- B. TB
+- C. Rheumatic fever
+- D. STD
+
+<details><summary>Answer</summary>
+
+**C. Rheumatic fever** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q444 — does not have Live births as *(2016)*
+
+Which does not have Live births as denominator?
+
+- A. Infant mortality rate
+- B. Neonatal mortality rate
+- C. Child mortality rate
+- D. Child death rate
+
+<details><summary>Answer</summary>
+
+**D. Child death rate** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q445 — Dual record system is useful for *(2016)*
+
+Dual record system is useful for estimation of?
+
+- A. Literacy
+- B. Fertility
+- C. Population density
+- D. Sex ratio
+
+<details><summary>Answer</summary>
+
+**B. Fertility** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q446 — Perinatal mortality rate include which of *(2016)*
+
+Perinatal mortality rate include which of the following?
+
+- A. Abortions + Still birth early neonatal deaths
+- B. Still birth + early neonatal deaths
+- C. Abortions + early neonatal deaths
+- D. Deaths up to 42 dys after birth
+
+<details><summary>Answer</summary>
+
+**B. Still birth + early neonatal deaths** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q447 — Poor mans iron source is *(2016)*
+
+Poor man's iron source is?
+
+- A. Almond
+- B. Grapes
+- C. Soya
+- D. Jaggery
+
+<details><summary>Answer</summary>
+
+**D. Jaggery** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q448 — For every 100 kilocalories vitamin B *(2016)*
+
+For every 100 kilocalories, vitamin B, required is -
+
+- A. 0.05 mg
+- B. 0.5 mg
+- C. 5.0 mg
+- D. 1.0 gn
+
+<details><summary>Answer</summary>
+
+**A. 0.05 mg** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q449 — Gomez classification is based on *(2016)*
+
+Gomez classification is based on ?
+
+- A. Weight retardation
+- B. Height retardation
+- C. Mid arm circumference
+- D. Stunting
+
+<details><summary>Answer</summary>
+
+**A. Weight retardation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q450 — Kanawati index is used for *(2016)*
+
+Kanawati index is used for ?
+
+- A. Air population
+- B. PEM
+- C. Obesity definition
+- D. Infectivity
+
+<details><summary>Answer</summary>
+
+**B. PEM** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q451 — Human milk with respect to cow *(2016)*
+
+Human milk with respect to cow milk has -
+
+- A. Less fat
+- B. Less protein
+- C. Less carbohydrate
+- D. a and b
+
+<details><summary>Answer</summary>
+
+**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q452 — common nutritional problem in India *(2016)*
+
+Most common nutritional problem in India?
+
+- A. Low birth weight
+- B. Fluorosis
+- C. Iran deficiency anemia
+- D. Vitamin A deficiency
+
+<details><summary>Answer</summary>
+
+**C. Iran deficiency anemia** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q453 — Not a primary air pollutant *(2016)*
+
+Not a primary air pollutant?
+
+- A. SO2
+- B. CO,
+- C. Ozon
+- D. VOCs
+
+<details><summary>Answer</summary>
+
+**C. Ozon** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q454 — Number of holes in mosquito net *(2016)*
+
+Number of holes in mosquito net [per sq. inch] ?
+
+- A. 50
+- B. 150
+- C. 100
+- D. 200
+
+<details><summary>Answer</summary>
+
+**B. 150** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q455 — In malaria control insecticide used for *(2016)*
+
+In malaria control, insecticide used for insectiside treated bed nets (ITBN)-
+
+- A. Deltamethrin
+- B. Malathion
+- C. Lindone
+- D. Fenitrothion
+
+<details><summary>Answer</summary>
+
+**A. Deltamethrin** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q456 — Test for coliform count *(2016)*
+
+Test for coliform count ?
+
+- A. Eijkman test
+- B. Casoni's test
+- C. Nitrate test
+- D. Urease test
+
+<details><summary>Answer</summary>
+
+**A. Eijkman test** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q457 — source of endogenous radiation is *(2016)*
+
+The source of endogenous radiation is
+
+- A. Radon
+- B. Potassium
+- C. Thorium
+- D. Uranium
+
+<details><summary>Answer</summary>
+
+**B. Potassium** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q458 — Range of flight of Aedes mosquito *(2016)*
+
+Range of flight of Aedes mosquito is ?
+
+- A. 1 km
+- B. Less than 100 m
+- C. 400 m
+- D. 10 kms
+
+<details><summary>Answer</summary>
+
+**B. Less than 100 m** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q459 — In positively skewed deviation *(2016)*
+
+In positively skewed deviation ?
+
+- A. Mean = Median = Mode
+- B. Mean > Medians > Mode
+- C. Mode > Median > Mean
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Mean > Medians > Mode** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q460 — Chi-square test is for *(2016)*
+
+Chi-square test is for?
+
+- A. Standard error of Mean
+- B. Standard error of Proportion
+- C. Standard error of difference between 2 Means
+- D. Standard error of difference between Proportions
+
+<details><summary>Answer</summary>
+
+**D. Standard error of difference between Proportions** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q461 — number of Anganwadi workers supervised by *(2016)*
+
+The number of Anganwadi workers supervised by a Mukhyasevika is:
+
+- A. 10
+- B. 15
+- C. 25
+- D. 30
+
+<details><summary>Answer</summary>
+
+**C. 25** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q462 — of the following conditions must be *(2016)*
+
+Which of the following conditions must be fulfilled for a PHC to become a first referral unit ?
+
+- A. 4-6 beds
+- B. 15 workers
+- C. Emergency obsteric care
+- D. Basic laboratory services
+
+<details><summary>Answer</summary>
+
+**C. Emergency obsteric care** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q463 — Acculturation is *(2016)*
+
+Acculturation is?
+
+- A. Traige
+- B. Cultural changes due to socialisation
+- C. Attitude
+- D. Belief
+
+<details><summary>Answer</summary>
+
+**B. Cultural changes due to socialisation** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q464 — ICDS scheme is sponsored by *(2016)*
+
+The ICDS scheme is sponsored by
+
+- A. Ministry of health & family welfare
+- B. Ministry of Social welfare
+- C. Ministry of education
+- D. None
+
+<details><summary>Answer</summary>
+
+**B. Ministry of Social welfare** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q465 — International Red Cross was founded by *(2016)*
+
+International Red Cross was founded by:
+
+- A. Henry Dunant
+- B. John D Rockfeller
+- C. Marie Curie
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Henry Dunant** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q466 — In RNTCP microscopic center is recommended *(2016)*
+
+In RNTCP microscopic center is recommended for how much population ?
+
+- A. 5000
+- B. 10000
+- C. 50000
+- D. 100000
+
+<details><summary>Answer</summary>
+
+**D. 100000** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q467 — of the following is Socratic method *(2016)*
+
+Which of the following is Socratic method of communication?
+
+- A. Lectures
+- B. Group discussion
+- C. Group discussion
+- D. Mass media
+
+<details><summary>Answer</summary>
+
+**B. Group discussion** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q468 — World heart day is celebrated on *(2016)*
+
+World heart day is celebrated on ?
+
+- A. 29th September
+- B. 28th September
+- C. 8th September
+- D. 1st December
+
+<details><summary>Answer</summary>
+
+**A. 29th September** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q469 — Minimum floor space recommended for worker *(2016)*
+
+Minimum floor space recommended for worker according to Factories Act?
+
+- A. 1000 Cu ft
+- B. 500 Cu ft
+- C. 200 Cu ft
+- D. 100 Cu ft
+
+<details><summary>Answer</summary>
+
+**B. 500 Cu ft** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q470 — Safety officer is recommended where factory *(2016)*
+
+Safety officer is recommended where factory has how many workers [In factory Act] ?
+
+- A. 250 or more
+- B. 500 or more
+- C. 1000 or more
+- D. 2000 or more
+
+<details><summary>Answer</summary>
+
+**C. 1000 or more** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q471 — Category 4 biomedical waste include *(2016)*
+
+Category 4 biomedical waste include ?
+
+- A. Human anatomical waste
+- B. Animal waste
+- C. Cytotoxic drug
+- D. Waste sharps
+
+<details><summary>Answer</summary>
+
+**D. Waste sharps** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q472 — One of the following is not *(2016)*
+
+One of the following is not true of International Classification of Disease -
+
+- A. It is revised once in 10 years
+- B. It was devised by UNICEF
+- C. The 10th revision consists of 21 major chapters
+- D. It is accepted for National and International use
+
+<details><summary>Answer</summary>
+
+**B. It was devised by UNICEF** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q473 — maxillary sinus opens into middle meatus *(2016)*
+
+The maxillary sinus opens into middle meatus at the level of:
+
+- A. Hiatus semilunaris
+- B. Bulla ethmoidalis
+- C. Infundibulum
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Hiatus semilunaris** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q474 — fracture of the petrous bone will *(2016)*
+
+Which fracture of the petrous bone will cause facial nerve palsy:
+
+- A. Longitudinal fractures
+- B. Transverse fractures
+- C. Mastoid
+- D. Facial nerve injury is always complete
+
+<details><summary>Answer</summary>
+
+**B. Transverse fractures** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q475 — Ossicle MC involved in CSOM *(2016)*
+
+Ossicle M/C involved in CSOM:
+
+- A. Stapes
+- B. Long process of incus
+- C. Head of malleus
+- D. Handle of malleus
+
+<details><summary>Answer</summary>
+
+**B. Long process of incus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q476 — Cristae are seen in *(2016)*
+
+Cristae are seen in?
+
+- A. Utricle
+- B. Saccule
+- C. Semicircular canal
+- D. Otolith membrane
+
+<details><summary>Answer</summary>
+
+**C. Semicircular canal** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q477 — Function of saccule is *(2016)*
+
+Function of saccule is?
+
+- A. Linear acceleration
+- B. Angular acceleration
+- C. Senses position of head
+- D. Rotational movement
+
+<details><summary>Answer</summary>
+
+**B. Angular acceleration** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q478 — semicircular canal is most commonly involved *(2016)*
+
+Which semicircular canal is most commonly involved in BPPV?
+
+- A. Horizontal
+- B. Posterior
+- C. Superior
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**B. Posterior** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q479 — common ossicle affected due to trauma *(2016)*
+
+Most common ossicle affected due to trauma -
+
+- A. Malleus
+- B. Incus
+- C. Stapes
+- D. All affected similarly
+
+<details><summary>Answer</summary>
+
+**B. Incus** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q480 — Threshold of hearing in a young *(2016)*
+
+Threshold of hearing in a young normal adult is ?
+
+- A. 0 dB
+- B. 10 dB
+- C. 20 dB
+- D. 30 dB
+
+<details><summary>Answer</summary>
+
+**A. 0 dB** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q481 — of the following are true about *(2016)*
+
+All of the following are true about malignant otitis externa except:
+
+- A. ESR is used for follow up after treatment
+- B. Granulation tissues are seen on superior wall of the external
+- C. Severe hearing loss is the chief presenting complaint
+- D. Pseudomonas is the most common cause
+
+<details><summary>Answer</summary>
+
+**C. Severe hearing loss is the chief presenting complaint** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q482 — Topodiagnosis of facial nerve has all *(2016)*
+
+Topodiagnosis of facial nerve has all the tests except
+
+- A. Schirmer test
+- B. Bing test
+- C. Taste test
+- D. Salivary flow test
+
+<details><summary>Answer</summary>
+
+**B. Bing test** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q483 — Korners septum is seen in *(2016)*
+
+Korner's septum is seen in ?
+
+- A. Petrosquamous suture
+- B. Temporosquamous suture
+- C. Petromastoid suture
+- D. Frontozygomatic suture
+
+<details><summary>Answer</summary>
+
+**A. Petrosquamous suture** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q484 — Quadrungular septum is seen in which *(2016)*
+
+Quadrungular septum is seen in which of the following?
+
+- A. Larynx
+- B. Nose
+- C. Cranium
+- D. Palate
+
+<details><summary>Answer</summary>
+
+**B. Nose** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q485 — Nasal vestibule is *(2016)*
+
+Nasal vestibule is
+
+- A. Lateral part of nasal cavity
+- B. Antero - inferior part of nasal cavity
+- C. Supero - medial part of nose
+- D. Posterior aperture of nose
+
+<details><summary>Answer</summary>
+
+**B. Antero - inferior part of nasal cavity** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q486 — Killians polyp is aan *(2016)*
+
+Killian's polyp is a/an
+
+- A. Antrochoanal polyp
+- B. Ethmoidal polyp
+- C. Frontal polyp
+- D. Maxillary polyp
+
+<details><summary>Answer</summary>
+
+**A. Antrochoanal polyp** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q487 — of the following is the predisposing *(2016)*
+
+Which of the following is the predisposing factor for ethmoidal carcinoma
+
+- A. Smoking
+- B. Alcohol
+- C. Chronic infection
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Smoking** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q488 — common sinus predisposed to malignancy which *(2016)*
+
+Most common sinus predisposed to malignancy which of the following?
+
+- A. Ethmoid
+- B. Maxillary
+- C. Frontal
+- D. Sphenoid
+
+<details><summary>Answer</summary>
+
+**B. Maxillary** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q489 — common benign tumor of paranasal sinuses *(2016)*
+
+Most common benign tumor of paranasal sinuses?
+
+- A. Papilloma
+- B. Osteoma
+- C. Warts
+- D. Fibroma
+
+<details><summary>Answer</summary>
+
+**B. Osteoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q490 — of the following are true about *(2016)*
+
+All of the following are true about parapharyngeal abscess except?
+
+- A. Mastoid process divides the space into anterior and posterior
+- B. Also known as pharyngomaxillary space infection
+- C. Tonsil is pushed medially
+- D. Occurs after tooth extraction
+
+<details><summary>Answer</summary>
+
+**A. Mastoid process divides the space into anterior and posterior** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q491 — Trismus in parapharyngeal abscess is due *(2016)*
+
+Trismus in parapharyngeal abscess is due to spasm of:
+
+- A. Masseter muscle
+- B. Medial pterygoid
+- C. Lateral pterygoid
+- D. Temporalis
+
+<details><summary>Answer</summary>
+
+**B. Medial pterygoid** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q492 — Select correct statements about Ca larynx *(2016)*
+
+Select correct statements about Ca larynx:
+
+- A. Glottic Ca is the most common
+- B. Supraglottic ca has best prognosis
+- C. Lymphatic spread is the most common in subglottic Ca
+- D. All
+
+<details><summary>Answer</summary>
+
+**A. Glottic Ca is the most common** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q493 — of the following sites of Ca *(2016)*
+
+Which of the following sites of Ca larynx has the best prognosis?
+
+- A. Glottic
+- B. Supraglottis
+- C. Subgottis
+- D. All have poor prognosis
+
+<details><summary>Answer</summary>
+
+**A. Glottic** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q494 — common site of distant metastasis from *(2016)*
+
+Most common site of distant metastasis from Ca larynx
+
+- A. Lymph nodes
+- B. Lung
+- C. Brain
+- D. Bone
+
+<details><summary>Answer</summary>
+
+**B. Lung** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q495 — Esophagus is constricted at 4 anatomic *(2016)*
+
+Esophagus is constricted at 4 anatomic locations. Narrowest part of esophagus lies at which of the following constriction?
+
+- A. At the level of cricopharyngeal sphincter
+- B. At the crossing of aortic arch
+- C. At the crossing of left bronchus
+- D. At the level of opening in the diaphragm
+
+<details><summary>Answer</summary>
+
+**A. At the level of cricopharyngeal sphincter** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q496 — Food particles mostly get obstructed in *(2016)*
+
+Food particles mostly get obstructed in which part of esophagus -
+
+- A. Cricopharyngeal sphincter
+- B. Crossing of arch of aorta
+- C. Cardiac end
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**A. Cricopharyngeal sphincter** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q497 — True regarding traction diverticuli of esophagus *(2016)*
+
+True regarding traction diverticuli of esophagus is all except
+
+- A. Does not empty completely
+- B. Triangular appearance
+- C. Contains all layers
+- D. Maintains elastic recoil
+
+<details><summary>Answer</summary>
+
+**A. Does not empty completely** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q498 — Radical mastoidectomy is done for *(2016)*
+
+Radical mastoidectomy is done for:
+
+- A. ASOM
+- B. CSOM
+- C. Atticoantral cholesteotoma
+- D. Acute mastoiditis
+
+<details><summary>Answer</summary>
+
+**C. Atticoantral cholesteotoma** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q499 — Sluders neuralgia is also called as *(2016)*
+
+Sluder's neuralgia is also called as
+
+- A. Anterior ethmoidal syndrome
+- B. Posterior ethmoidal syndrome
+- C. Trotter syndrome
+- D. Lermoyez syndrome
+
+<details><summary>Answer</summary>
+
+**A. Anterior ethmoidal syndrome** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q500 — Styloid process is derived from *(2016)*
+
+Styloid process is derived from ?
+
+- A. 1st arch
+- B. 2nd arch
+- C. 3rd arch
+- D. 4th arch
+
+<details><summary>Answer</summary>
+
+**B. 2nd arch** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q501 — common cause of singers nodule is *(2016)*
+
+Most common cause of singer's nodule is ?
+
+- A. Infection
+- B. Allergy
+- C. Vocal abuse
+- D. None
+
+<details><summary>Answer</summary>
+
+**C. Vocal abuse** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q502 — Deafness in a case of Pagets *(2016)*
+
+Deafness in a case of Paget's disease is due to
+
+- A. Retraction pockets
+- B. Otitis
+- C. Eight nerve involvement
+- D. Endolymphatic hydrops
+
+<details><summary>Answer</summary>
+
+**C. Eight nerve involvement** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q503 — Snellens chart is used to test *(2016)*
+
+Snellen's chart is used to test:
+
+- A. Vision
+- B. Refraction
+- C. Presbyopia
+- D. Colour blindness
+
+<details><summary>Answer</summary>
+
+**A. Vision** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q504 — Listers perimeter is used for *(2016)*
+
+Listers perimeter is used for
+
+- A. Kinetic Visual field testing
+- B. Static Visual field testing
+- C. Both kinetic and static visual testing
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**A. Kinetic Visual field testing** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q505 — is the type of Goldman tonometry *(2016)*
+
+What is the type of Goldman tonometry?
+
+- A. Applanation Tonometry
+- B. Dynamic countour tonometry
+- C. Rebound tonometry
+- D. Impression tonometry
+
+<details><summary>Answer</summary>
+
+**A. Applanation Tonometry** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q506 — Conjunctival staining is done by all *(2016)*
+
+Conjunctival staining is done by all except
+
+- A. Fluoroscein
+- B. India ink
+- C. Rose Bengal
+- D. Lissamine
+
+<details><summary>Answer</summary>
+
+**B. India ink** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q507 — Gene for eye morphogenesis *(2016)*
+
+Gene for eye morphogenesis
+
+- A. Pax-6
+- B. BMP-4
+- C. HOX-D13
+- D. HOX-A13
+
+<details><summary>Answer</summary>
+
+**A. Pax-6** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q508 — Purkinje image test is used in *(2016)*
+
+Purkinje image test is used in
+
+- A. Keratomoter
+- B. Retinoscopy
+- C. Optical coherence tomography
+- D. Pachymeter
+
+<details><summary>Answer</summary>
+
+**D. Pachymeter** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q509 — Transport of Ascorbic acid to lens *(2016)*
+
+Transport of Ascorbic acid to lens is done by which of the following?
+
+- A. Myoinositol
+- B. Choline
+- C. Taurine
+- D. Na-K ATPase
+
+<details><summary>Answer</summary>
+
+**D. Na-K ATPase** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q510 — Phacoemulsification uses *(2016)*
+
+Phacoemulsification uses
+
+- A. High frequency sound waves
+- B. Infrared waves
+- C. Ultraviolet rays
+- D. None of these
+
+<details><summary>Answer</summary>
+
+**A. High frequency sound waves** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q511 — Keeth Wagner classification is for *(2016)*
+
+Keeth Wagner classification is for
+
+- A. Hypertensive retinopathy
+- B. Diabetic maculpathy
+- C. CRVO
+- D. CRAO
+
+<details><summary>Answer</summary>
+
+**A. Hypertensive retinopathy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q512 — are seen in non-proliferative diabetic retinopathy *(2016)*
+
+All are seen in non-proliferative diabetic retinopathy except ?
+
+- A. Microaneurysm
+- B. Neovascularization
+- C. Hard exudates
+- D. Macular edema
+
+<details><summary>Answer</summary>
+
+**B. Neovascularization** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q513 — one of the following statement is *(2016)*
+
+Which one of the following statement is true of undescended testis -
+
+- A. Usually descends spontaneously at puberty
+- B. Orchipexy to be done if no descent by puberty
+- C. Has a higher incidence of malignancy
+- D. Maintains normal sperm production
+
+<details><summary>Answer</summary>
+
+**C. Has a higher incidence of malignancy** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q514 — Prevalence of omphalocele at birth is *(2016)*
+
+Prevalence of omphalocele at birth is
+
+- A. 1 in 100 live births
+- B. 1 in 2000 live births
+- C. 1 in 4000 live births
+- D. 1 in 10,000 live births
+
+<details><summary>Answer</summary>
+
+**C. 1 in 4000 live births** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q515 — Prevalence of breech presentation at full *(2016)*
+
+Prevalence of breech presentation at full term is ?
+
+- A. 10%
+- B. 6-7%
+- C. 3-4%
+- D. 1-2%
+
+<details><summary>Answer</summary>
+
+**C. 3-4%** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q516 — important factor in causation of Ingrown *(2016)*
+
+Most important factor in causation of Ingrown toe nail is?
+
+- A. Fungal infection
+- B. Ill fitting shoes
+- C. Genetic predisposition
+- D. Nutritional deficiency
+
+<details><summary>Answer</summary>
+
+**B. Ill fitting shoes** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
+### Q517 — of the following is not true *(2016)*
+
+Which of the following is not true for scabies?
+
+- A. Wrist is common site in children
+- B. Burrows are intradermal lesions
+- C. Papules and pustules are due to hypersensitivity to mite
+- D. Itching generalized
+
+<details><summary>Answer</summary>
+
+**B. Burrows are intradermal lesions** — Source: Medicoholic 2016 PYQ compilation.
+
+</details>
+
+---
+
+---
+
+---
 
 ## Year 2017
 
-### Q277 — Incidence of a disease is 4 *(2017)*
+### Q518 — Incidence of a disease is 4 *(2017)*
 
 Incidence of a disease is 4 per 1000 of population with duration of 2 years. Calculate the prevalence?
 
@@ -4528,8 +9072,7 @@ Incidence of a disease is 4 per 1000 of population with duration of 2 years. Cal
 ---
 
 ---
-
-### Q278 — Cytotoxic and expired drug disposal is *(2017)*
+### Q519 — Cytotoxic and expired drug disposal is *(2017)*
 
 Cytotoxic and expired drug disposal is done by which method?
 
@@ -4547,8 +9090,7 @@ Cytotoxic and expired drug disposal is done by which method?
 ---
 
 ---
-
-### Q279 — For NRR to be 1 couple *(2017)*
+### Q520 — For NRR to be 1 couple *(2017)*
 
 For NRR to be 1 couple protection rate should be?
 
@@ -4566,8 +9108,7 @@ For NRR to be 1 couple protection rate should be?
 ---
 
 ---
-
-### Q280 — Study unit of ecological study is *(2017)*
+### Q521 — Study unit of ecological study is *(2017)*
 
 Study unit of ecological study is
 
@@ -4585,8 +9126,7 @@ Study unit of ecological study is
 ---
 
 ---
-
-### Q281 — In a screening test for DM *(2017)*
+### Q522 — In a screening test for DM *(2017)*
 
 In a screening test for DM out of 1000 population 90 Were positive.Then gold standard test was done in which 100 were positive. Calculate the sensitivity?
 
@@ -4604,8 +9144,7 @@ In a screening test for DM out of 1000 population 90 Were positive.Then gold sta
 ---
 
 ---
-
-### Q282 — What is the mass chemoprophylaxis for *(2017)*
+### Q523 — What is the mass chemoprophylaxis for *(2017)*
 
 What is the mass chemoprophylaxis for meningococcal meningitis ?
 
@@ -4623,8 +9162,7 @@ What is the mass chemoprophylaxis for meningococcal meningitis ?
 ---
 
 ---
-
-### Q283 — Which among the following is an *(2017)*
+### Q524 — Which among the following is an *(2017)*
 
 Which among the following is an active form of chlorination?
 
@@ -4642,8 +9180,7 @@ Which among the following is an active form of chlorination?
 ---
 
 ---
-
-### Q284 — Kala-Azar is found in all endemic *(2017)*
+### Q525 — Kala-Azar is found in all endemic *(2017)*
 
 Kala-Azar is found in all endemic areas except.
 
@@ -4661,8 +9198,7 @@ Kala-Azar is found in all endemic areas except.
 ---
 
 ---
-
-### Q285 — Risk among exposed by risk among *(2017)*
+### Q526 — Risk among exposed by risk among *(2017)*
 
 Risk among exposed by risk among non exposed is defined to be –
 
@@ -4680,8 +9216,7 @@ Risk among exposed by risk among non exposed is defined to be –
 ---
 
 ---
-
-### Q286 — Out of 100 women who were *(2017)*
+### Q527 — Out of 100 women who were *(2017)*
 
 Out of 100 women who were offered ocp for contraception 10 women got pregnant when followed for 24 months. What is Pearl's index?
 
@@ -4699,8 +9234,7 @@ Out of 100 women who were offered ocp for contraception 10 women got pregnant wh
 ---
 
 ---
-
-### Q287 — Which of the following do not *(2017)*
+### Q528 — Which of the following do not *(2017)*
 
 Which of the following do not cause hardness of water ?
 
@@ -4718,8 +9252,7 @@ Which of the following do not cause hardness of water ?
 ---
 
 ---
-
-### Q288 — Which of the following is not *(2017)*
+### Q529 — Which of the following is not *(2017)*
 
 Which of the following is not an example of direct transmission in communicable diseases ?
 
@@ -4737,11 +9270,64 @@ Which of the following is not an example of direct transmission in communicable 
 ---
 
 ---
+### Q530 — New RNTCP software online to monitor TB
 
+New RNTCP software online to monitor TB control programme is-
+
+- A. NIKSHAY
+- B. NICHAY
+- C. E- DOTS
+- D. NIRBHAI
+
+<details><summary>Answer</summary>
+
+**A. NIKSHAY** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#137 | OPTIONS_GENERATED: false -->
+
+---
+### Q531 — Pasteurization is done at
+
+Pasteurization is done at-
+
+- A. 73 oC For 20 min
+- B. 63 oC For 30 min
+- C. 72 oC For 30 seconds
+- D. 63oC For 30 seconds
+
+<details><summary>Answer</summary>
+
+**B. 63 oC For 30 min** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#144 | OPTIONS_GENERATED: false -->
+
+---
+### Q532 — Susceptible person developed disease within range of
+
+Susceptible person developed disease within range of IP after coming in contact with primary case -
+
+- A. Secondary attack rate
+- B. Case fatality rate
+- C. Primary attack rate
+- D. Tertiary attack rate
+
+<details><summary>Answer</summary>
+
+**A. Secondary attack rate** — Source: NEET-PG 2017 medicoholic.com
+
+</details>
+
+<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#146 | OPTIONS_GENERATED: false -->
+
+---
 
 ## Year 2018
 
-### Q289 — RNTCP most peripheral unit
+### Q533 — RNTCP most peripheral unit
 
 Which of the following is the most peripheral centre under the Revised National Tuberculosis Control Programme (RNTCP) organisational structure?
 
@@ -4759,8 +9345,7 @@ Which of the following is the most peripheral centre under the Revised National 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q290 — Factories Act: true statement
+### Q534 — Factories Act: true statement
 
 Which of the following is **true** about the Factories Act?
 
@@ -4778,8 +9363,7 @@ Which of the following is **true** about the Factories Act?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q291 — Iodine RDA for lactating women (NIN 2020)
+### Q535 — Iodine RDA for lactating women (NIN 2020)
 
 The dose of iodine for lactating women in India according to the National Institute of Nutrition (NIN) 2020 recommended dietary allowance is:
 
@@ -4797,8 +9381,7 @@ The dose of iodine for lactating women in India according to the National Instit
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q292 — Non-parametric tests: true statement
+### Q536 — Non-parametric tests: true statement
 
 Which of the following is **true** for non-parametric tests?
 
@@ -4816,8 +9399,7 @@ Which of the following is **true** for non-parametric tests?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q293 — Right to Life: Article of Indian Constitution
+### Q537 — Right to Life: Article of Indian Constitution
 
 Which article of the Indian Constitution confers the Right to Life to citizens of India?
 
@@ -4835,8 +9417,7 @@ Which article of the Indian Constitution confers the Right to Life to citizens o
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q294 — WHO immunization coverage for measles eradication
+### Q538 — WHO immunization coverage for measles eradication
 
 According to the WHO, what percentage of immunization coverage is needed for eradication of measles?
 
@@ -4854,8 +9435,7 @@ According to the WHO, what percentage of immunization coverage is needed for era
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q295 — Interpreting p-value in cancer remission study
+### Q539 — Interpreting p-value in cancer remission study
 
 A cancer study comparing a new treatment (33.2% remission) vs usual treatment (32.2% remission) reports a p-value of 0.04. Which statement is true?
 
@@ -4873,8 +9453,7 @@ A cancer study comparing a new treatment (33.2% remission) vs usual treatment (3
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q296 — ORS volume for dehydrated child (IMNCI Plan B)
+### Q540 — ORS volume for dehydrated child (IMNCI Plan B)
 
 A 9-month-old baby with diarrhoea is feeding well and is thirsty. Skin pinch returns in 2 seconds. What is the treatment?
 
@@ -4892,8 +9471,7 @@ A 9-month-old baby with diarrhoea is feeding well and is thirsty. Skin pinch ret
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q297 — Lethal BMI in men
+### Q541 — Lethal BMI in men
 
 What value of BMI is considered 'lethal' in men?
 
@@ -4911,8 +9489,7 @@ What value of BMI is considered 'lethal' in men?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q298 — Relative risk definition
+### Q542 — Relative risk definition
 
 What is the ratio of the incidence of disease in the exposed to that in the non-exposed called?
 
@@ -4930,8 +9507,7 @@ What is the ratio of the incidence of disease in the exposed to that in the non-
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q299 — Couple protection rate for NRR = 1
+### Q543 — Couple protection rate for NRR = 1
 
 To reach the demographic goal of NRR = 1, the couple protection rate (CPR) should exceed:
 
@@ -4949,8 +9525,7 @@ To reach the demographic goal of NRR = 1, the couple protection rate (CPR) shoul
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q300 — NIKSHAY: TB monitoring software
+### Q544 — NIKSHAY: TB monitoring software
 
 Which is the online software launched under the National Tuberculosis Elimination Programme (NTEP) to monitor TB patients?
 
@@ -4968,8 +9543,7 @@ Which is the online software launched under the National Tuberculosis Eliminatio
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q301 — Sensitivity of a screening test
+### Q545 — Sensitivity of a screening test
 
 In a screening test for diabetes mellitus, out of 1000 population, 90 tested positive. A gold standard test identified 100 true positives. Calculate the sensitivity of the screening test.
 
@@ -4987,8 +9561,7 @@ In a screening test for diabetes mellitus, out of 1000 population, 90 tested pos
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q302 — Prevalence using incidence and duration
+### Q546 — Prevalence using incidence and duration
 
 The incidence of a disease is 4 per 1000 population with an average duration of 2 years. What is the prevalence?
 
@@ -5006,8 +9579,7 @@ The incidence of a disease is 4 per 1000 population with an average duration of 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q303 — Secondary attack rate definition
+### Q547 — Secondary attack rate definition
 
 The probability that infection will occur among susceptible persons following contact with an infectious person within the incubation period is known as:
 
@@ -5025,8 +9597,7 @@ The probability that infection will occur among susceptible persons following co
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q304 — Water hardness: which does NOT cause it?
+### Q548 — Water hardness: which does NOT cause it?
 
 Which of the following does **not** cause hardness of water?
 
@@ -5044,8 +9615,7 @@ Which of the following does **not** cause hardness of water?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q305 — Direct vs indirect disease transmission
+### Q549 — Direct vs indirect disease transmission
 
 Which of the following is **not** a method of direct transmission of communicable diseases?
 
@@ -5063,8 +9633,7 @@ Which of the following is **not** a method of direct transmission of communicabl
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q306 — Minimum interval between two live vaccines
+### Q550 — Minimum interval between two live vaccines
 
 What should be the minimum interval between administration of two different live vaccines?
 
@@ -5082,8 +9651,7 @@ What should be the minimum interval between administration of two different live
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q307 — Kala-Azar: not endemic in which state?
+### Q551 — Kala-Azar: not endemic in which state?
 
 Kala-Azar is endemic in all of the following states **except**:
 
@@ -5101,8 +9669,7 @@ Kala-Azar is endemic in all of the following states **except**:
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q308 — Unit of observation in ecological studies
+### Q552 — Unit of observation in ecological studies
 
 What is the unit of observation in ecological studies?
 
@@ -5122,8 +9689,7 @@ What is the unit of observation in ecological studies?
 ---
 
 ---
-
-### Q309 — Which of the statement regarding Factory *(2018)*
+### Q553 — Which of the statement regarding Factory *(2018)*
 
 Which of the statement regarding Factory act is correct
 
@@ -5141,8 +9707,7 @@ Which of the statement regarding Factory act is correct
 ---
 
 ---
-
-### Q310 — Shingles Is caused by which of *(2018)*
+### Q554 — Shingles Is caused by which of *(2018)*
 
 Shingles Is caused by which of the following
 
@@ -5160,8 +9725,7 @@ Shingles Is caused by which of the following
 ---
 
 ---
-
-### Q311 — Urea breath test is used for *(2018)*
+### Q555 — Urea breath test is used for *(2018)*
 
 Urea breath test is used for diagnosis of
 
@@ -5179,8 +9743,7 @@ Urea breath test is used for diagnosis of
 ---
 
 ---
-
-### Q312 — Hyperacute graft rejection occurs after how *(2018)*
+### Q556 — Hyperacute graft rejection occurs after how *(2018)*
 
 Hyperacute graft rejection occurs after how much time
 
@@ -5198,8 +9761,7 @@ Hyperacute graft rejection occurs after how much time
 ---
 
 ---
-
-### Q313 — Which fungus is most commonly associated *(2018)*
+### Q557 — Which fungus is most commonly associated *(2018)*
 
 Which fungus is most commonly associated with orbital cellulitis in patients with diabetic ketoacidosis.
 
@@ -5217,8 +9779,7 @@ Which fungus is most commonly associated with orbital cellulitis in patients wit
 ---
 
 ---
-
-### Q314 — An anaerobe causing multiple abscess with *(2018)*
+### Q558 — An anaerobe causing multiple abscess with *(2018)*
 
 An anaerobe causing multiple abscess with discharging sinuses, demonstrating sulphur granules in pus is
 
@@ -5236,8 +9797,7 @@ An anaerobe causing multiple abscess with discharging sinuses, demonstrating sul
 ---
 
 ---
-
-### Q315 — Whole blood is used as a *(2018)*
+### Q559 — Whole blood is used as a *(2018)*
 
 Whole blood is used as a sample for which test
 
@@ -5255,8 +9815,7 @@ Whole blood is used as a sample for which test
 ---
 
 ---
-
-### Q316 — In a screening test for DM *(2018)*
+### Q560 — In a screening test for DM *(2018)*
 
 In a screening test for DM out of 1000 population, 90 were positive. Then the gold standard test was done in which 100 were positive. Calculate the sensitivity
 
@@ -5274,8 +9833,7 @@ In a screening test for DM out of 1000 population, 90 were positive. Then the go
 ---
 
 ---
-
-### Q317 — Risk among exposed to risk among *(2018)*
+### Q561 — Risk among exposed to risk among *(2018)*
 
 Risk among exposed to risk among non exposed is defined to be –
 
@@ -5293,8 +9851,7 @@ Risk among exposed to risk among non exposed is defined to be –
 ---
 
 ---
-
-### Q318 — Ideal time gap between 2 live *(2018)*
+### Q562 — Ideal time gap between 2 live *(2018)*
 
 Ideal time gap between 2 live vaccination
 
@@ -5312,8 +9869,7 @@ Ideal time gap between 2 live vaccination
 ---
 
 ---
-
-### Q319 — Which vaccine is not include in *(2018)*
+### Q563 — Which vaccine is not include in *(2018)*
 
 Which vaccine is not include in indradhanush mission
 
@@ -5331,8 +9887,7 @@ Which vaccine is not include in indradhanush mission
 ---
 
 ---
-
-### Q320 — Which of the following statement is *(2018)*
+### Q564 — Which of the following statement is *(2018)*
 
 Which of the following statement is false about MR vaccination campaign launched by WHO
 
@@ -5351,10 +9906,9 @@ Which of the following statement is false about MR vaccination campaign launched
 
 ---
 
-
 ## Year 2019
 
-### Q321 — DTwP vaccine: false statement
+### Q565 — DTwP vaccine: false statement
 
 A child presents with sore throat, difficulty swallowing, and mild fever. The clinical picture shows a grey membrane on the tonsils. Which of the following statements is **false** about the vaccine that could have prevented this condition (DTwP)?
 
@@ -5372,8 +9926,7 @@ A child presents with sore throat, difficulty swallowing, and mild fever. The cl
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q322 — Malaria surveillance: efficiency indicator
+### Q566 — Malaria surveillance: efficiency indicator
 
 Which of the following parameters is used to check the **efficiency** of the surveillance system for malaria under the National Vector Borne Disease Control Programme (NVBDCP)?
 
@@ -5391,8 +9944,7 @@ Which of the following parameters is used to check the **efficiency** of the sur
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q323 — Confounding factor: false statement
+### Q567 — Confounding factor: false statement
 
 Which of the following is **false** regarding a confounding factor?
 
@@ -5410,8 +9962,7 @@ Which of the following is **false** regarding a confounding factor?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q324 — Best level of prevention for breast cancer
+### Q568 — Best level of prevention for breast cancer
 
 Which of the following is the best level of prevention of breast cancer?
 
@@ -5429,8 +9980,7 @@ Which of the following is the best level of prevention of breast cancer?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q325 — Vitamin A dosage for 2-year-old with keratomalacia
+### Q569 — Vitamin A dosage for 2-year-old with keratomalacia
 
 What is the correct Vitamin A dosage for a 2-year-old child with keratomalacia?
 
@@ -5448,8 +9998,7 @@ What is the correct Vitamin A dosage for a 2-year-old child with keratomalacia?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q326 — Normal distribution: percentage within ±1 SD
+### Q570 — Normal distribution: percentage within ±1 SD
 
 In a normal distribution curve, what percentage of values lies within one standard deviation of the mean?
 
@@ -5467,8 +10016,7 @@ In a normal distribution curve, what percentage of values lies within one standa
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q327 — IMNCI: pneumonia threshold respiratory rate (6-month-old)
+### Q571 — IMNCI: pneumonia threshold respiratory rate (6-month-old)
 
 According to IMNCI, a 6-month-old child is classified as having pneumonia if the respiratory rate is more than:
 
@@ -5486,8 +10034,7 @@ According to IMNCI, a 6-month-old child is classified as having pneumonia if the
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q328 — Concurrent List of Indian Constitution
+### Q572 — Concurrent List of Indian Constitution
 
 Which of the following is part of the **Concurrent List** of the Indian Constitution?
 
@@ -5505,8 +10052,7 @@ Which of the following is part of the **Concurrent List** of the Indian Constitu
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q329 — Principal unit of administration in India
+### Q573 — Principal unit of administration in India
 
 The principal unit of administration in India is:
 
@@ -5524,8 +10070,7 @@ The principal unit of administration in India is:
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q330 — Odds ratio: obtained from which study design
+### Q574 — Odds ratio: obtained from which study design
 
 The cross-product ratio (odds ratio) can be obtained from which study design?
 
@@ -5543,8 +10088,7 @@ The cross-product ratio (odds ratio) can be obtained from which study design?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q331 — Land required for trench method (controlled tipping)
+### Q575 — Land required for trench method (controlled tipping)
 
 In controlled tipping, the amount of land required for the trench method for a population of 10,000 is:
 
@@ -5562,8 +10106,7 @@ In controlled tipping, the amount of land required for the trench method for a p
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q332 — Statistical test for difference in means between two groups
+### Q576 — Statistical test for difference in means between two groups
 
 The test of choice to measure the difference in means between two groups in a study, with one group being a control, is:
 
@@ -5581,8 +10124,7 @@ The test of choice to measure the difference in means between two groups in a st
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q333 — Test of significance for two or more proportions
+### Q577 — Test of significance for two or more proportions
 
 The test of significance used for two or more proportions is:
 
@@ -5600,8 +10142,7 @@ The test of significance used for two or more proportions is:
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q334 — Positive predictive value
+### Q578 — Positive predictive value
 
 If a patient tests positive for a disease, which of the following represents the probability that she actually has the disease?
 
@@ -5619,8 +10160,7 @@ If a patient tests positive for a disease, which of the following represents the
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q335 — Lead time in screening
+### Q579 — Lead time in screening
 
 In the natural history of disease, the period from the first possible time of detection (Point A) to the usual time of clinical diagnosis (Point C) is called:
 
@@ -5638,8 +10178,7 @@ In the natural history of disease, the period from the first possible time of de
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q336 — Statistical diagram for population change over years
+### Q580 — Statistical diagram for population change over years
 
 A diagram charts population change over years showing each year's total divided into components. What type of statistical diagram is this?
 
@@ -5657,8 +10196,7 @@ A diagram charts population change over years showing each year's total divided 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q337 — Triage: true statement
+### Q581 — Triage: true statement
 
 What is true about triage done at a disaster site?
 
@@ -5676,8 +10214,7 @@ What is true about triage done at a disaster site?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q338 — Genetic disease risk in consanguineous first-cousin marriage
+### Q582 — Genetic disease risk in consanguineous first-cousin marriage
 
 The risk of genetic diseases in a consanguineous marriage between first cousins is:
 
@@ -5695,8 +10232,7 @@ The risk of genetic diseases in a consanguineous marriage between first cousins 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q339 — Paradoxical carrier definition
+### Q583 — Paradoxical carrier definition
 
 A paradoxical carrier is defined as:
 
@@ -5714,8 +10250,7 @@ A paradoxical carrier is defined as:
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q340 — Vaccine contraindicated in pregnancy
+### Q584 — Vaccine contraindicated in pregnancy
 
 Which of the following vaccines is contraindicated in pregnancy?
 
@@ -5733,8 +10268,7 @@ Which of the following vaccines is contraindicated in pregnancy?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q341 — Personal protective equipment: NOT a PPE
+### Q585 — Personal protective equipment: NOT a PPE
 
 Which of the following is **not** a personal protective equipment (PPE)?
 
@@ -5752,8 +10286,7 @@ Which of the following is **not** a personal protective equipment (PPE)?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q342 — Best diagram to show changes in disease incidence over time
+### Q586 — Best diagram to show changes in disease incidence over time
 
 What is the best way to plot the changes in incidence of a disease in a given area over time?
 
@@ -5771,8 +10304,7 @@ What is the best way to plot the changes in incidence of a disease in a given ar
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q343 — Rubella infection: false statement
+### Q587 — Rubella infection: false statement
 
 Which of the following is **false** about Rubella infection?
 
@@ -5790,8 +10322,7 @@ Which of the following is **false** about Rubella infection?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q344 — HIV post-exposure prophylaxis (PEP) after needlestick
+### Q588 — HIV post-exposure prophylaxis (PEP) after needlestick
 
 A resident doctor sustains a needlestick injury while taking blood from an HIV-positive patient. Which is the best recommendation for post-exposure prophylaxis?
 
@@ -5809,8 +10340,7 @@ A resident doctor sustains a needlestick injury while taking blood from an HIV-p
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q345 — Sub-centre: role in the health system *(2019)*
+### Q589 — Sub-centre: role in the health system *(2019)*
 
 Which health facility is the most peripheral and first contact point between the primary health care system and the community?
 
@@ -5826,8 +10356,7 @@ Which health facility is the most peripheral and first contact point between the
 </details>
 
 ---
-
-### Q346 — A female patient of 26 years, *(2019)*
+### Q590 — A female patient of 26 years, *(2019)*
 
 A female patient of 26 years, presents with oral ulcers, photosensitivity and skin malar rash in face sparing the nasolabial folds of both side.
 
@@ -5845,8 +10374,7 @@ A female patient of 26 years, presents with oral ulcers, photosensitivity and sk
 ---
 
 ---
-
-### Q347 — Diagnostic power of a test to correctly *(2019)*
+### Q591 — Diagnostic power of a test to correctly *(2019)*
 
 Diagnostic power of a test to correctly diagnose a disease is:
 
@@ -5864,8 +10392,7 @@ Diagnostic power of a test to correctly diagnose a disease is:
 ---
 
 ---
-
-### Q348 — All of the following are examples of *(2019)*
+### Q592 — All of the following are examples of *(2019)*
 
 All of the following are examples of dietary fibre EXCEPT:
 
@@ -5883,8 +10410,7 @@ All of the following are examples of dietary fibre EXCEPT:
 ---
 
 ---
-
-### Q349 — In a normal distribution curve, the area *(2019)*
+### Q593 — In a normal distribution curve, the area *(2019)*
 
 In a normal distribution curve, the area that comes under 1 standard deviation is:
 
@@ -5902,8 +10428,7 @@ In a normal distribution curve, the area that comes under 1 standard deviation i
 ---
 
 ---
-
-### Q350 — The significance of difference between proportions *(2019)*
+### Q594 — The significance of difference between proportions *(2019)*
 
 The significance of difference between proportions can be tested by:
 
@@ -5921,8 +10446,7 @@ The significance of difference between proportions can be tested by:
 ---
 
 ---
-
-### Q351 — Dose of diphtheria antitoxin is *(2019)*
+### Q595 — Dose of diphtheria antitoxin is *(2019)*
 
 Dose of diphtheria antitoxin is:
 
@@ -5941,10 +10465,9 @@ Dose of diphtheria antitoxin is:
 
 ---
 
-
 ## Year 2020
 
-### Q352 — Cost-benefit analysis
+### Q596 — Cost-benefit analysis
 
 Monetary benefit measured in which analysis?
 
@@ -5959,8 +10482,7 @@ Monetary benefit measured in which analysis?
 </details>
 
 ---
-
-### Q353 — ESI TB sickness benefit
+### Q597 — ESI TB sickness benefit
 
 Extended sickness benefit duration for TB under ESI?
 
@@ -5977,8 +10499,7 @@ Extended sickness benefit duration for TB under ESI?
 ---
 
 ---
-
-### Q354 — Factories Act: maximum weekly hours including overtime
+### Q598 — Factories Act: maximum weekly hours including overtime
 
 According to the Factories Act 1948, what is the maximum work hours per week **including overtime**?
 
@@ -5996,8 +10517,7 @@ According to the Factories Act 1948, what is the maximum work hours per week **i
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q355 — Mission to ensure complete immunization of children
+### Q599 — Mission to ensure complete immunization of children
 
 Which of the following was launched to ensure complete immunization of children in India?
 
@@ -6015,8 +10535,7 @@ Which of the following was launched to ensure complete immunization of children 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q356 — Example of prospective screening
+### Q600 — Example of prospective screening
 
 Which of the following is an example of **prospective screening**?
 
@@ -6034,8 +10553,7 @@ Which of the following is an example of **prospective screening**?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q357 — Monetary benefit measured in which health analysis
+### Q601 — Monetary benefit measured in which health analysis
 
 Monetary benefit is measured in which of the following health programme analyses?
 
@@ -6053,8 +10571,7 @@ Monetary benefit is measured in which of the following health programme analyses
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q358 — IMNCI: management of pneumonia with chest indrawing in a 2-year-old
+### Q602 — IMNCI: management of pneumonia with chest indrawing in a 2-year-old
 
 A 24-month-old child weighing 11 kg presents with a respiratory rate of 38/min and chest indrawing. What is the next step of management?
 
@@ -6072,8 +10589,7 @@ A 24-month-old child weighing 11 kg presents with a respiratory rate of 38/min a
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q359 — ESI Act: extended sickness benefit duration for TB
+### Q603 — ESI Act: extended sickness benefit duration for TB
 
 Under the Employee State Insurance (ESI) Act, an employee diagnosed with tuberculosis gets extended sickness benefit for:
 
@@ -6091,8 +10607,7 @@ Under the Employee State Insurance (ESI) Act, an employee diagnosed with tubercu
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q360 — Management by objective: which science?
+### Q604 — Management by objective: which science?
 
 Which of the following management techniques is based on **behavioural sciences**?
 
@@ -6110,8 +10625,7 @@ Which of the following management techniques is based on **behavioural sciences*
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q361 — Statistical test for comparing proportions in two groups
+### Q605 — Statistical test for comparing proportions in two groups
 
 A study assesses nutritional status in rural (30 malnourished) and urban (20 malnourished) children from independent groups. Which test of significance is most appropriate?
 
@@ -6129,8 +10643,7 @@ A study assesses nutritional status in rural (30 malnourished) and urban (20 mal
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q362 — Metabolic syndrome (NCEP-ATP III): which criterion is NOT included?
+### Q606 — Metabolic syndrome (NCEP-ATP III): which criterion is NOT included?
 
 As per NCEP-ATP III, which of the following is **not** a criterion for metabolic syndrome?
 
@@ -6148,8 +10661,7 @@ As per NCEP-ATP III, which of the following is **not** a criterion for metabolic
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q363 — Normal distribution: range for 68% of population
+### Q607 — Normal distribution: range for 68% of population
 
 In a population study, the mean is 200 and standard deviation is 20. 68% of the population will lie between:
 
@@ -6167,8 +10679,7 @@ In a population study, the mean is 200 and standard deviation is 20. 68% of the 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q364 — Biomedical waste: blood bag disposal
+### Q608 — Biomedical waste: blood bag disposal
 
 Which coloured bag is used for disposal of blood bags?
 
@@ -6186,8 +10697,7 @@ Which coloured bag is used for disposal of blood bags?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q365 — Calculating one variable from another: which statistical measure?
+### Q609 — Calculating one variable from another: which statistical measure?
 
 Calculating one variable using another variable is done by:
 
@@ -6205,8 +10715,7 @@ Calculating one variable using another variable is done by:
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q366 — Best indicators for routine air pollution monitoring
+### Q610 — Best indicators for routine air pollution monitoring
 
 The best indicators for routine monitoring of air pollution are:
 
@@ -6224,8 +10733,7 @@ The best indicators for routine monitoring of air pollution are:
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q367 — Smoking and lung cancer: disease vs cigarette sales data — study type
+### Q611 — Smoking and lung cancer: disease vs cigarette sales data — study type
 
 A researcher collects data on lung cancer deaths from hospitals and cigarette packets sold at the same time period, to study the relationship between smoking and lung cancer. Which type of study is this?
 
@@ -6243,8 +10751,7 @@ A researcher collects data on lung cancer deaths from hospitals and cigarette pa
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q368 — Bleaching powder: compound responsible for disinfection
+### Q612 — Bleaching powder: compound responsible for disinfection
 
 Which compound is predominantly responsible for the disinfecting property of bleaching powder?
 
@@ -6262,8 +10769,7 @@ Which compound is predominantly responsible for the disinfecting property of ble
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q369 — Attributable risk definition
+### Q613 — Attributable risk definition
 
 The difference between the incidence of disease among exposed and incidence among non-exposed is:
 
@@ -6281,8 +10787,7 @@ The difference between the incidence of disease among exposed and incidence amon
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q370 — SDG 3.1: maternal mortality target by 2030
+### Q614 — SDG 3.1: maternal mortality target by 2030
 
 In Sustainable Development Goal 3, target 3.1 aims to reduce the Maternal Mortality Ratio by 2030 to ___ per 1 lakh live births:
 
@@ -6300,8 +10805,7 @@ In Sustainable Development Goal 3, target 3.1 aims to reduce the Maternal Mortal
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q371 — Tetanus prophylaxis: clean wound, last dose 10 years ago
+### Q615 — Tetanus prophylaxis: clean wound, last dose 10 years ago
 
 A patient presents with a clean-cut, non-lacerated wound. His last tetanus vaccination was 10 years ago. What should be given?
 
@@ -6319,8 +10823,7 @@ A patient presents with a clean-cut, non-lacerated wound. His last tetanus vacci
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q372 — Coefficient of variation: use case
+### Q616 — Coefficient of variation: use case
 
 The variation in one dataset is compared with that of another dataset using:
 
@@ -6338,8 +10841,7 @@ The variation in one dataset is compared with that of another dataset using:
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q373 — 2009 pandemic influenza virus
+### Q617 — 2009 pandemic influenza virus
 
 The pandemic that occurred in 2009 was due to which influenza virus?
 
@@ -6357,8 +10859,7 @@ The pandemic that occurred in 2009 was due to which influenza virus?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q374 — Vaccine after natural disaster *(2020)*
+### Q618 — Vaccine after natural disaster *(2020)*
 
 After a natural disaster, which vaccine should be prioritised?
 
@@ -6374,8 +10875,7 @@ After a natural disaster, which vaccine should be prioritised?
 </details>
 
 ---
-
-### Q375 — CA-125: NPV calculation *(2020)*
+### Q619 — CA-125: NPV calculation *(2020)*
 
 CA-125 screens for ovarian cancer. 60/100 women testing positive had ovarian cancer; 20/100 testing negative had ovarian cancer. What is the NPV?
 
@@ -6391,8 +10891,7 @@ CA-125 screens for ovarian cancer. 60/100 women testing positive had ovarian can
 </details>
 
 ---
-
-### Q376 — Berkesonian (admission rate) bias *(2020)*
+### Q620 — Berkesonian (admission rate) bias *(2020)*
 
 Admission rate bias (Berkesonian bias) occurs because:
 
@@ -6408,8 +10907,7 @@ Admission rate bias (Berkesonian bias) occurs because:
 </details>
 
 ---
-
-### Q377 — Maternal antibody NOT transferred transplacentally *(2020)*
+### Q621 — Maternal antibody NOT transferred transplacentally *(2020)*
 
 Which antibody is NOT transferred from mother to baby across the placenta?
 
@@ -6425,8 +10923,7 @@ Which antibody is NOT transferred from mother to baby across the placenta?
 </details>
 
 ---
-
-### Q378 — MHA 2017: voluntary admission maximum duration *(2020)*
+### Q622 — MHA 2017: voluntary admission maximum duration *(2020)*
 
 Under the Mental Healthcare Act 2017 (Section 90), the maximum period for voluntary admission is:
 
@@ -6442,8 +10939,7 @@ Under the Mental Healthcare Act 2017 (Section 90), the maximum period for volunt
 </details>
 
 ---
-
-### Q379 — IUD: which is NOT an absolute contraindication *(2020)*
+### Q623 — IUD: which is NOT an absolute contraindication *(2020)*
 
 All of the following are absolute contraindications to IUCD insertion EXCEPT:
 
@@ -6461,8 +10957,7 @@ All of the following are absolute contraindications to IUCD insertion EXCEPT:
 ---
 
 ---
-
-### Q380 — Mission Indradhanush is for *(2020)*
+### Q624 — Mission Indradhanush is for *(2020)*
 
 Mission Indradhanush is for:
 
@@ -6480,8 +10975,7 @@ Mission Indradhanush is for:
 ---
 
 ---
-
-### Q381 — The difference between the incidence in *(2020)*
+### Q625 — The difference between the incidence in *(2020)*
 
 The difference between the incidence in the exposed and non-exposed group is best given by:
 
@@ -6499,8 +10993,7 @@ The difference between the incidence in the exposed and non-exposed group is bes
 ---
 
 ---
-
-### Q382 — Cancer patient undergoes radiotherapy, pick the *(2020)*
+### Q626 — Cancer patient undergoes radiotherapy, pick the *(2020)*
 
 Cancer patient undergoes radiotherapy, pick the true statement for radiosensitivity of tissues?
 
@@ -6519,10 +11012,9 @@ Cancer patient undergoes radiotherapy, pick the true statement for radiosensitiv
 
 ---
 
-
 ## Year 2021
 
-### Q383 — Kata thermometer
+### Q627 — Kata thermometer
 
 Thermometer measuring low air velocity (cooling power)?
 
@@ -6537,8 +11029,7 @@ Thermometer measuring low air velocity (cooling power)?
 </details>
 
 ---
-
-### Q384 — Plague vector
+### Q628 — Plague vector
 
 Outbreak of buboes in a community. Vector?
 
@@ -6555,8 +11046,7 @@ Outbreak of buboes in a community. Vector?
 ---
 
 ---
-
-### Q385 — Dietary cholesterol recommendation
+### Q629 — Dietary cholesterol recommendation
 
 Population-level cardiovascular disease prevention — recommended dietary cholesterol limit?
 
@@ -6572,8 +11062,7 @@ Population-level cardiovascular disease prevention — recommended dietary chole
 </details>
 
 ---
-
-### Q386 — WIFS dose — adolescent girls
+### Q630 — WIFS dose — adolescent girls
 
 Weekly Iron Folic Acid Supplementation (WIFS) for girls 10–19 years — dose?
 
@@ -6589,8 +11078,7 @@ Weekly Iron Folic Acid Supplementation (WIFS) for girls 10–19 years — dose?
 </details>
 
 ---
-
-### Q387 — Infection to peak infectivity — term
+### Q631 — Infection to peak infectivity — term
 
 Interval from infection to time of maximum infectivity?
 
@@ -6606,8 +11094,7 @@ Interval from infection to time of maximum infectivity?
 </details>
 
 ---
-
-### Q388 — NUHM Urban PHCs
+### Q632 — NUHM Urban PHCs
 
 Population 70 lakh, 30% in slums — Urban PHCs required under NUHM?
 
@@ -6623,8 +11110,7 @@ Population 70 lakh, 30% in slums — Urban PHCs required under NUHM?
 </details>
 
 ---
-
-### Q389 — De facto census
+### Q633 — De facto census
 
 De facto method of census counting is based on?
 
@@ -6640,8 +11126,7 @@ De facto method of census counting is based on?
 </details>
 
 ---
-
-### Q390 — Hemoglobin comparison — statistical test
+### Q634 — Hemoglobin comparison — statistical test
 
 Comparing hemoglobin between two independent groups — appropriate test?
 
@@ -6657,8 +11142,7 @@ Comparing hemoglobin between two independent groups — appropriate test?
 </details>
 
 ---
-
-### Q391 — Lead time bias
+### Q635 — Lead time bias
 
 Breast cancer screening → 5-year survival improves but mortality unchanged — bias?
 
@@ -6674,8 +11158,7 @@ Breast cancer screening → 5-year survival improves but mortality unchanged —
 </details>
 
 ---
-
-### Q392 — Nalgonda technique
+### Q636 — Nalgonda technique
 
 Nalgonda technique for defluoridation — materials used?
 
@@ -6691,8 +11174,7 @@ Nalgonda technique for defluoridation — materials used?
 </details>
 
 ---
-
-### Q393 — ICDS program coverage
+### Q637 — ICDS program coverage
 
 Bowing legs (rickets) in 3-year-old — nutritional program covering <6 years?
 
@@ -6708,8 +11190,7 @@ Bowing legs (rickets) in 3-year-old — nutritional program covering <6 years?
 </details>
 
 ---
-
-### Q394 — Cluster RCT vs quasi-experimental
+### Q638 — Cluster RCT vs quasi-experimental
 
 Community intervention: 20 PHCs standard care, 20 PHCs new intervention (randomized by PHC) — study type?
 
@@ -6725,8 +11206,7 @@ Community intervention: 20 PHCs standard care, 20 PHCs new intervention (randomi
 </details>
 
 ---
-
-### Q395 — Passive surveillance
+### Q639 — Passive surveillance
 
 Fever, COVID-19 confirmed, hospital death, registered 7 days later — type of surveillance?
 
@@ -6742,8 +11222,7 @@ Fever, COVID-19 confirmed, hospital death, registered 7 days later — type of s
 </details>
 
 ---
-
-### Q396 — Anopheles mosquito larva
+### Q640 — Anopheles mosquito larva
 
 Mosquito larva: no siphon tube, palmate hairs, lies parallel to water surface — species?
 
@@ -6759,8 +11238,7 @@ Mosquito larva: no siphon tube, palmate hairs, lies parallel to water surface �
 </details>
 
 ---
-
-### Q397 — Complementary feeding — 7-month infant
+### Q641 — Complementary feeding — 7-month infant
 
 7-month infant complementary feeding — recommended frequency and amount?
 
@@ -6778,8 +11256,7 @@ Mosquito larva: no siphon tube, palmate hairs, lies parallel to water surface �
 ---
 
 ---
-
-### Q398 — Kata thermometer: current use
+### Q642 — Kata thermometer: current use
 
 Which thermometer is currently used to measure low air velocity rather than the cooling power of air?
 
@@ -6797,8 +11274,7 @@ Which thermometer is currently used to measure low air velocity rather than the 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q399 — Vector for bubonic plague
+### Q643 — Vector for bubonic plague
 
 There is an outbreak of buboes in a community. What is the vector responsible for this condition?
 
@@ -6816,8 +11292,7 @@ There is an outbreak of buboes in a community. What is the vector responsible fo
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q400 — Leptospirosis flood prophylaxis: chemical distributed with doxycycline
+### Q644 — Leptospirosis flood prophylaxis: chemical distributed with doxycycline
 
 The Pathanamthitta district of Kerala was affected by floods. Doxycycline was distributed for leptospirosis prophylaxis. Which other chemical will be distributed along with it?
 
@@ -6835,8 +11310,7 @@ The Pathanamthitta district of Kerala was affected by floods. Doxycycline was di
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q401 — Blood spillage on hospital floor: disinfectant of choice
+### Q645 — Blood spillage on hospital floor: disinfectant of choice
 
 Following a road traffic accident, there is spillage of blood on the hospital floor. Which disinfectant will you use to clean the floor?
 
@@ -6854,8 +11328,7 @@ Following a road traffic accident, there is spillage of blood on the hospital fl
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q402 — Air quality index classification (AQI ~394–407)
+### Q646 — Air quality index classification (AQI ~394–407)
 
 The air quality index of a particular day recorded at a monitoring station was approximately 394–407. According to the AQI classification, this is:
 
@@ -6873,8 +11346,7 @@ The air quality index of a particular day recorded at a monitoring station was a
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q403 — Japanese Encephalitis vaccine: type and route
+### Q647 — Japanese Encephalitis vaccine: type and route
 
 Which of the following is true about the Japanese Encephalitis (JE) vaccine used in a community outbreak vaccination drive?
 
@@ -6892,8 +11364,7 @@ Which of the following is true about the Japanese Encephalitis (JE) vaccine used
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q404 — Evaluation based on treatment and clinical management
+### Q648 — Evaluation based on treatment and clinical management
 
 The evaluation based on the treatment given to patients and their clinical management in a healthcare facility measures which of the following?
 
@@ -6911,8 +11382,7 @@ The evaluation based on the treatment given to patients and their clinical manag
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q405 — Vaccine contraindicated in immunocompromised child
+### Q649 — Vaccine contraindicated in immunocompromised child
 
 A girl child has had recurrent yeast infections and respiratory virus infections since 3 months of age. Which vaccine is contraindicated considering her immune status?
 
@@ -6930,8 +11400,7 @@ A girl child has had recurrent yeast infections and respiratory virus infections
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q406 — Conditioning influence for malnutrition
+### Q650 — Conditioning influence for malnutrition
 
 Which of the following is a **conditioning influence** for malnutrition?
 
@@ -6949,8 +11418,7 @@ Which of the following is a **conditioning influence** for malnutrition?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q407 — CRP and risk of myocardial infarction/stroke
+### Q651 — CRP and risk of myocardial infarction/stroke
 
 A study divides participants into CRP quintiles and records relative risk for MI/stroke. CRP values from 0.1 to higher quintiles show increasing relative risks of 1, 1.5, 2.1, 2.8, etc. Which statement is true?
 
@@ -6968,8 +11436,7 @@ A study divides participants into CRP quintiles and records relative risk for MI
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q408 — Throat swab disposal bin colour
+### Q652 — Throat swab disposal bin colour
 
 A throat swab used for culture is obtained from a child with pharyngitis. The used swab should be discarded in which coloured bin?
 
@@ -6987,8 +11454,7 @@ A throat swab used for culture is obtained from a child with pharyngitis. The us
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q409 — SI unit for luminous intensity (brightness from point source)
+### Q653 — SI unit for luminous intensity (brightness from point source)
 
 Which is the SI unit for the measurement of brightness of light from a point source?
 
@@ -7006,8 +11472,7 @@ Which is the SI unit for the measurement of brightness of light from a point sou
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q410 — Varicella serology in pregnancy: susceptibility
+### Q654 — Varicella serology in pregnancy: susceptibility
 
 A pregnant woman whose niece contracted varicella is tested and found to have negative serum antibodies against varicella. What does this imply?
 
@@ -7025,8 +11490,7 @@ A pregnant woman whose niece contracted varicella is tested and found to have ne
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q411 — School health programmes: managed by which facility?
+### Q655 — School health programmes: managed by which facility?
 
 School health programmes are managed by which of the following?
 
@@ -7044,8 +11508,7 @@ School health programmes are managed by which of the following?
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q412 — Progressive muscle weakness in Chhattisgarh: diet history
+### Q656 — Progressive muscle weakness in Chhattisgarh: diet history
 
 A man from Chhattisgarh presents with progressive muscle weakness and leg spasms. Pure motor paresis is seen on examination. What is the most appropriate history to elicit?
 
@@ -7063,8 +11526,7 @@ A man from Chhattisgarh presents with progressive muscle weakness and leg spasms
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q413 — Vaccine given to 10-year-old school child (National Immunisation Schedule)
+### Q657 — Vaccine given to 10-year-old school child (National Immunisation Schedule)
 
 In a 10-year-old school child, which vaccine is given as part of the immunisation programme?
 
@@ -7085,10 +11547,9 @@ In a 10-year-old school child, which vaccine is given as part of the immunisatio
 
 ---
 
-
 ## Year 2022
 
-### Q414 — QALY scenario
+### Q658 — QALY scenario
 
 Japan: life expectancy 87 yrs; screening adds 15 yrs; utility 0.8. Parameter being calculated?
 
@@ -7103,8 +11564,7 @@ Japan: life expectancy 87 yrs; screening adds 15 yrs; utility 0.8. Parameter bei
 </details>
 
 ---
-
-### Q415 — Cost-effective rabies control
+### Q659 — Cost-effective rabies control
 
 Most cost-effective rabies-reduction strategy in developing countries?
 
@@ -7121,8 +11581,7 @@ Most cost-effective rabies-reduction strategy in developing countries?
 ---
 
 ---
-
-### Q416 — QALY: disability-adjusted life measure
+### Q660 — QALY: disability-adjusted life measure
 
 The average life expectancy for a woman in Japan is 87 years. Due to recent advances in cervical cancer testing, there is an expected increase in life expectancy by 1.5 years. The healthcare utility value is 0.8. Which of the following can be calculated from these parameters?
 
@@ -7140,8 +11599,7 @@ The average life expectancy for a woman in Japan is 87 years. Due to recent adva
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q417 — Disaster preparedness in a high seismic zone PHC
+### Q661 — Disaster preparedness in a high seismic zone PHC
 
 A PHC in a high seismic zone plans for an emergency. Which of the following steps are part of disaster preparedness?
 1. Ensure financial and other resources are available
@@ -7163,8 +11621,7 @@ A PHC in a high seismic zone plans for an emergency. Which of the following step
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q418 — Most cost-effective strategy to reduce rabies incidence
+### Q662 — Most cost-effective strategy to reduce rabies incidence
 
 Knowing that dogs are the most common source of rabies and it mainly affects children in developing countries, what is the most cost-effective and logical way to reduce its incidence?
 
@@ -7182,8 +11639,7 @@ Knowing that dogs are the most common source of rabies and it mainly affects chi
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q419 — WHO STEPS approach: which assessment is NOT included?
+### Q663 — WHO STEPS approach: which assessment is NOT included?
 
 Which of the following steps is **not** included in the WHO STEP approach for NCD risk factor surveillance?
 
@@ -7201,8 +11657,7 @@ Which of the following steps is **not** included in the WHO STEP approach for NC
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q420 — TB treatment outcome: sputum negative at end of treatment
+### Q664 — TB treatment outcome: sputum negative at end of treatment
 
 A patient with TB completed the full intensive and continuation phases of treatment. Sputum examination at the end of treatment is negative. What is the treatment outcome?
 
@@ -7220,8 +11675,7 @@ A patient with TB completed the full intensive and continuation phases of treatm
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q421 — Cohort study: green tea and diabetes risk ratio 0.84
+### Q665 — Cohort study: green tea and diabetes risk ratio 0.84
 
 A cohort study of green tea drinkers vs non-drinkers for diabetes mellitus reports a risk ratio of 0.84. Which statement is correct?
 
@@ -7239,8 +11693,7 @@ A cohort study of green tea drinkers vs non-drinkers for diabetes mellitus repor
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q422 — Urban Community Health Centre (U-CHC): criterion
+### Q666 — Urban Community Health Centre (U-CHC): criterion
 
 Which of the following best describes the criteria for an Urban Community Health Centre (U-CHC)?
 
@@ -7258,8 +11711,7 @@ Which of the following best describes the criteria for an Urban Community Health
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q423 — Broken vaccine vial disposal per BMW rules
+### Q667 — Broken vaccine vial disposal per BMW rules
 
 How is a broken vaccine vial disposed of according to Biomedical Waste Management Rules?
 
@@ -7277,8 +11729,7 @@ How is a broken vaccine vial disposed of according to Biomedical Waste Managemen
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q424 — JSY (Janani Suraksha Yojana): urban benefit amounts in Madhya Pradesh
+### Q668 — JSY (Janani Suraksha Yojana): urban benefit amounts in Madhya Pradesh
 
 In an urban area of Madhya Pradesh, a primigravida delivers in a government institution after being motivated by an ASHA worker. What are the benefits under the Janani Suraksha Yojana (JSY)?
 
@@ -7296,8 +11747,7 @@ In an urban area of Madhya Pradesh, a primigravida delivers in a government inst
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q425 — Applied nutrition programme: UNICEF's contribution
+### Q669 — Applied nutrition programme: UNICEF's contribution
 
 Which agency provides seeds and manure in applied nutrition programmes in schools?
 
@@ -7315,8 +11765,7 @@ Which agency provides seeds and manure in applied nutrition programmes in school
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q426 — Case-control study control selection for ALL investigation
+### Q670 — Case-control study control selection for ALL investigation
 
 Many children from a community are detected to have acute lymphoblastic leukaemia (ALL), suspected to be due to a cytotoxic chemical in the water supply. If a case-control study is conducted, who will be taken as controls?
 
@@ -7334,8 +11783,7 @@ Many children from a community are detected to have acute lymphoblastic leukaemi
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q427 — Open vial policy: which vaccines can be reused?
+### Q671 — Open vial policy: which vaccines can be reused?
 
 An ANM conducts a vaccination camp and has 2 open vials — one pentavalent vaccine and one MR vaccine. What can she do regarding these open vials?
 
@@ -7355,8 +11803,7 @@ An ANM conducts a vaccination camp and has 2 open vials — one pentavalent vacc
 ---
 
 ---
-
-### Q428 — You are working in a primary *(2022)*
+### Q672 — You are working in a primary *(2022)*
 
 You are working in a primary health center (PHC) situated in a high seismic zone. Which of the following will you do as part of preparedness for an emergency? 1. Disaster preparedness by making sure all financial and other resources are available 2. Increase public awareness through campaigns and loudspeakers 3. Conduct a simulation for the disaster and assess the response 4. Follow instructions given over the phone or radio by higher officials
 
@@ -7374,8 +11821,7 @@ You are working in a primary health center (PHC) situated in a high seismic zone
 ---
 
 ---
-
-### Q429 — Although many animals are implicated in *(2022)*
+### Q673 — Although many animals are implicated in *(2022)*
 
 Although many animals are implicated in the spread of rabies, dogs are the most common ones. Also, it usually affects children in developing countries. Knowing this, what is the most cost-effective and logical way to reduce the incidence of rabies?
 
@@ -7393,8 +11839,7 @@ Although many animals are implicated in the spread of rabies, dogs are the most 
 ---
 
 ---
-
-### Q430 — Which of the following steps is *(2022)*
+### Q674 — Which of the following steps is *(2022)*
 
 Which of the following steps is not included in the STEP approach of WHO?
 
@@ -7412,8 +11857,7 @@ Which of the following steps is not included in the STEP approach of WHO?
 ---
 
 ---
-
-### Q431 — A male patient diagnosed with tuberculosis *(2022)*
+### Q675 — A male patient diagnosed with tuberculosis *(2022)*
 
 A male patient diagnosed with tuberculosis took complete treatment. Sputum examination was done after the completion of the intensive and the continuation phases. It was found to be negative. What is the status of the patient?
 
@@ -7431,8 +11875,7 @@ A male patient diagnosed with tuberculosis took complete treatment. Sputum exami
 ---
 
 ---
-
-### Q432 — A cohort study was conducted with *(2022)*
+### Q676 — A cohort study was conducted with *(2022)*
 
 A cohort study was conducted with drinkers and non-drinkers of green tea to study its effect on diabetes mellitus. The risk ratio was found to be 0.84. Which of the following statements is correct?
 
@@ -7450,8 +11893,7 @@ A cohort study was conducted with drinkers and non-drinkers of green tea to stud
 ---
 
 ---
-
-### Q433 — Which statement refers best to the *(2022)*
+### Q677 — Which statement refers best to the *(2022)*
 
 Which statement refers best to the criteria for starting an urban community health center?
 
@@ -7469,8 +11911,7 @@ Which statement refers best to the criteria for starting an urban community heal
 ---
 
 ---
-
-### Q434 — How is a broken vaccine vial *(2022)*
+### Q678 — How is a broken vaccine vial *(2022)*
 
 How is a broken vaccine vial disposed of, according to biomedical waste management?
 
@@ -7488,8 +11929,7 @@ How is a broken vaccine vial disposed of, according to biomedical waste manageme
 ---
 
 ---
-
-### Q435 — In an urban area in the *(2022)*
+### Q679 — In an urban area in the *(2022)*
 
 In an urban area in the state of Madhya Pradesh, a primigravida goes for institutional delivery after being motivated by an ASHA worker. What are the benefits they will receive (in terms of money in rupees) under the Janani Suraksha Yojana? ASHA-Accredited social health activist
 
@@ -7507,8 +11947,7 @@ In an urban area in the state of Madhya Pradesh, a primigravida goes for institu
 ---
 
 ---
-
-### Q436 — Which of the following agencies provides *(2022)*
+### Q680 — Which of the following agencies provides *(2022)*
 
 Which of the following agencies provides seed and manure in applied nutrition programs in schools?
 
@@ -7526,8 +11965,7 @@ Which of the following agencies provides seed and manure in applied nutrition pr
 ---
 
 ---
-
-### Q437 — Many children from a particular community *(2022)*
+### Q681 — Many children from a particular community *(2022)*
 
 Many children from a particular community coming to a hospital were detected to have acute lymphoblastic leukemia (ALL). It was assumed that it is due to the presence of cytotoxic waste in the water of that community. If a case-control study has to be done to find whether the chemical and ALL are associated, what will be taken as the control?
 
@@ -7545,8 +11983,7 @@ Many children from a particular community coming to a hospital were detected to 
 ---
 
 ---
-
-### Q438 — An auxiliary nurse midwife has to *(2022)*
+### Q682 — An auxiliary nurse midwife has to *(2022)*
 
 An auxiliary nurse midwife has to conduct a vaccination camp in a village. She received 2 open vials, one of which is a pentavalent vaccine and the other is an MR vaccine. What can she do regarding the utilization of these vials?
 
@@ -7565,10 +12002,9 @@ An auxiliary nurse midwife has to conduct a vaccination camp in a village. She r
 
 ---
 
-
 ## Year 2023
 
-### Q439 — Crossed gait in farmers (lathyrism)
+### Q683 — Crossed gait in farmers (lathyrism)
 
 Village farmers with crossed (scissor) gait using stick support; diet limited to rice and pulses. Which supplementation could prevent?
 
@@ -7583,8 +12019,7 @@ Village farmers with crossed (scissor) gait using stick support; diet limited to
 </details>
 
 ---
-
-### Q440 — Aniline dye + bladder cancer study
+### Q684 — Aniline dye + bladder cancer study
 
 Research on aniline-dye exposure and bladder cancer in workers employed >20 years; exposed handlers vs office clerks. Study type?
 
@@ -7601,8 +12036,7 @@ Research on aniline-dye exposure and bladder cancer in workers employed >20 year
 ---
 
 ---
-
-### Q441 — Neurolathyrism: vitamin supplement
+### Q685 — Neurolathyrism: vitamin supplement
 
 In a village, several farmers have a scissor gait and use a stick for support. Due to poor crop yields, they consume meals of rice and pulse. Supplementing their diet with which vitamin could have prevented this?
 
@@ -7620,8 +12054,7 @@ In a village, several farmers have a scissor gait and use a stick for support. D
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q442 — Smear-negative TB: next step per NTEP guidelines
+### Q686 — Smear-negative TB: next step per NTEP guidelines
 
 A 35-year-old homeless man has 1 month of fever, cough, and weight loss. Both sputum smears are negative but chest X-ray is suggestive of TB. According to recent NTEP guidelines, what is the next best step?
 
@@ -7639,8 +12072,7 @@ A 35-year-old homeless man has 1 month of fever, cough, and weight loss. Both sp
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q443 — Aniline dye and bladder cancer: study type
+### Q687 — Aniline dye and bladder cancer: study type
 
 Research is conducted on aniline dye exposure and bladder cancer in workers employed in the industry for >20 years. Two groups are formed — one with direct dye handling exposure, and office clerks with no dye exposure. Records of past years of employment are reviewed. What type of study is this?
 
@@ -7658,8 +12090,7 @@ Research is conducted on aniline dye exposure and bladder cancer in workers empl
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q444 — Blood pressure tracking from childhood to adulthood
+### Q688 — Blood pressure tracking from childhood to adulthood
 
 Blood pressure of a population was tracked from childhood to adulthood. Those with lower BP in childhood had lower BP in adulthood; those with higher BP in childhood had higher BP in adulthood. This is best described as:
 
@@ -7677,8 +12108,7 @@ Blood pressure of a population was tracked from childhood to adulthood. Those wi
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q445 — Night blindness in pregnant woman: whose duty to counsel?
+### Q689 — Night blindness in pregnant woman: whose duty to counsel?
 
 A 30-week primigravida reports reduced vision at night. She has been avoiding papaya, mango, and other fruits throughout pregnancy, believing they cause abortions. It is the primary duty of which worker to provide counselling?
 
@@ -7696,8 +12126,7 @@ A 30-week primigravida reports reduced vision at night. She has been avoiding pa
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q446 — STI syndromic management: kit for cervicitis
+### Q690 — STI syndromic management: kit for cervicitis
 
 A 22-year-old female comes to the STI clinic with minimal vaginal discharge. Speculum examination shows erosions on the cervix. Which kit should be given?
 
@@ -7715,8 +12144,7 @@ A 22-year-old female comes to the STI clinic with minimal vaginal discharge. Spe
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q447 — Years of potential life lost (YPLL)
+### Q691 — Years of potential life lost (YPLL)
 
 The years of potential life lost (YPLL) could be attributed to:
 
@@ -7734,8 +12162,7 @@ The years of potential life lost (YPLL) could be attributed to:
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q448 — Colombo Plan: assistance for cancer in India
+### Q692 — Colombo Plan: assistance for cancer in India
 
 Aid to set up which type of cancer treatment unit in Indian medical institutions was part of the Colombo Plan?
 
@@ -7753,8 +12180,7 @@ Aid to set up which type of cancer treatment unit in Indian medical institutions
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q449 — Neurolathyrism: responsible toxin
+### Q693 — Neurolathyrism: responsible toxin
 
 A poor farmer with successive crop failures develops progressive spastic paraparesis with upper motor neuron signs and gait instability. What is the toxin responsible?
 
@@ -7772,8 +12198,7 @@ A poor farmer with successive crop failures develops progressive spastic parapar
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q450 — Tetanus prophylaxis: clean wound, full course 10 years ago
+### Q694 — Tetanus prophylaxis: clean wound, full course 10 years ago
 
 A young male presents with a clean-cut wound without bleeding. He received a full course of tetanus vaccination 10 years ago. What is the best management?
 
@@ -7791,8 +12216,7 @@ A young male presents with a clean-cut wound without bleeding. He received a ful
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q451 — Water sample collection during outbreak: correct method
+### Q695 — Water sample collection during outbreak: correct method
 
 How should water be collected for bacteriological examination during a disease outbreak?
 
@@ -7810,8 +12234,7 @@ How should water be collected for bacteriological examination during a disease o
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q452 — Recommended Dietary Allowance (RDA) definition
+### Q696 — Recommended Dietary Allowance (RDA) definition
 
 The average daily dietary nutrient intake level sufficient to meet the nutrient requirements of nearly all (97–98%) healthy individuals in a particular life stage and gender group is known as:
 
@@ -7829,8 +12252,7 @@ The average daily dietary nutrient intake level sufficient to meet the nutrient 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q453 — Chickenpox outbreak in boys' hostel: management
+### Q697 — Chickenpox outbreak in boys' hostel: management
 
 A boys' hostel has an outbreak of fever, headache, and pleomorphic rashes sparing the palms and soles. What is the next best step in management of suspected cases?
 
@@ -7848,8 +12270,7 @@ A boys' hostel has an outbreak of fever, headache, and pleomorphic rashes sparin
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-
-### Q454 — IMR as sensitive indicator of healthcare
+### Q698 — IMR as sensitive indicator of healthcare
 
 Which of the following is the most sensitive indicator to assess the availability, utilisation, and effectiveness of healthcare in a community?
 
@@ -7869,8 +12290,7 @@ Which of the following is the most sensitive indicator to assess the availabilit
 ---
 
 ---
-
-### Q455 — In a village, it is observed *(2023)*
+### Q699 — In a village, it is observed *(2023)*
 
 In a village, it is observed that several farmers have crossed gait and use a stick for support to stand up and walk. Due to poor yield from farms, they consume meals containing rice and pulses only. Supplementing their diet with which of the following vitamins could have prevented this?
 
@@ -7888,8 +12308,7 @@ In a village, it is observed that several farmers have crossed gait and use a st
 ---
 
 ---
-
-### Q456 — The blood pressure of a population *(2023)*
+### Q700 — The blood pressure of a population *(2023)*
 
 The blood pressure of a population was tracked from childhood to adulthood. It was observed that those who had lower BP in childhood had low BP in adulthood, while those who had higher BP in childhood had high BP in adulthood. This can be best described as
 
@@ -7907,8 +12326,7 @@ The blood pressure of a population was tracked from childhood to adulthood. It w
 ---
 
 ---
-
-### Q457 — A 30-week primigravida complaints of reduced *(2023)*
+### Q701 — A 30-week primigravida complaints of reduced *(2023)*
 
 A 30-week primigravida complaints of reduced vision at night. She has been avoiding papaya, mango, and other fruits throughout her pregnancy as she thinks they could be abortifacients. It is the primary duty of which of the following workers to provide counseling and information to the patient?
 
@@ -7926,8 +12344,7 @@ A 30-week primigravida complaints of reduced vision at night. She has been avoid
 ---
 
 ---
-
-### Q458 — In a 10-year-old school child, which *(2023)*
+### Q702 — In a 10-year-old school child, which *(2023)*
 
 In a 10-year-old school child, which of the following vaccines is given as a part of the school immunization program?
 
@@ -7945,8 +12362,7 @@ In a 10-year-old school child, which of the following vaccines is given as a par
 ---
 
 ---
-
-### Q459 — A 10-year-old child presents with throat *(2023)*
+### Q703 — A 10-year-old child presents with throat *(2023)*
 
 A 10-year-old child presents with throat pain, fever, and ear pain. He is diagnosed with recurrent tonsillitis. Which nerve is responsible for the ear pain in this patient?
 
@@ -7964,8 +12380,7 @@ A 10-year-old child presents with throat pain, fever, and ear pain. He is diagno
 ---
 
 ---
-
-### Q460 — A poor farmer with a history *(2023)*
+### Q704 — A poor farmer with a history *(2023)*
 
 A poor farmer with a history of successive crop failure develops progressive spastic paraparesis, signs of upper motor neuron paralysis, and gait instability. Name the toxin responsible for this condition.
 
@@ -7983,8 +12398,7 @@ A poor farmer with a history of successive crop failure develops progressive spa
 ---
 
 ---
-
-### Q461 — A young male came to the *(2023)*
+### Q705 — A young male came to the *(2023)*
 
 A young male came to the hospital with a clean-cut wound without any bleeding. The patient received a full course of tetanus vaccination 10 years ago. What is the best management for this patient?
 
@@ -8002,8 +12416,7 @@ A young male came to the hospital with a clean-cut wound without any bleeding. T
 ---
 
 ---
-
-### Q462 — How is water collected for bacteriological *(2023)*
+### Q706 — How is water collected for bacteriological *(2023)*
 
 How is water collected for bacteriological examination during a disease outbreak?
 
@@ -8021,8 +12434,7 @@ How is water collected for bacteriological examination during a disease outbreak
 ---
 
 ---
-
-### Q463 — A boys hostel has an outbreak *(2023)*
+### Q707 — A boys hostel has an outbreak *(2023)*
 
 A boys' hostel has an outbreak of fever cases with headache, followed by the development of pleomorphic rashes sparing palms and soles. What is the next best step in the management of suspected cases? VZIG-Varicella zoster immunoglobulin
 
@@ -8040,8 +12452,7 @@ A boys' hostel has an outbreak of fever cases with headache, followed by the dev
 ---
 
 ---
-
-### Q464 — A 35-year-old homeless man presented with *(2023)*
+### Q708 — A 35-year-old homeless man presented with *(2023)*
 
 A 35-year-old homeless man presented with a 1-month history of fever, cough, and weight loss. Both sputum smears turned out to be negative, but the chest x-ray ordered was suggestive of tuberculosis. According to the recent NTEP guidelines, which is the next best line of management?
 
@@ -8059,8 +12470,7 @@ A 35-year-old homeless man presented with a 1-month history of fever, cough, and
 ---
 
 ---
-
-### Q465 — A chronic smoker who worked in *(2023)*
+### Q709 — A chronic smoker who worked in *(2023)*
 
 A chronic smoker who worked in a cement factory for 20 years developed mesothelioma. The association is likely to be due to ________.
 
@@ -8079,10 +12489,9 @@ A chronic smoker who worked in a cement factory for 20 years developed mesotheli
 
 ---
 
-
 ## Year 2024
 
-### Q466 — Fruit-farmer with neuro illness
+### Q710 — Fruit-farmer with neuro illness
 
 A fruit farmer with fever, respiratory difficulty, neurological complications. Most likely?
 
@@ -8097,8 +12506,7 @@ A fruit farmer with fever, respiratory difficulty, neurological complications. M
 </details>
 
 ---
-
-### Q467 — Vaccine stored at lowest temperature
+### Q711 — Vaccine stored at lowest temperature
 
 Which vaccine is kept at the lowest temperature?
 
@@ -8115,8 +12523,7 @@ Which vaccine is kept at the lowest temperature?
 ---
 
 ---
-
-### Q468 — Which of the following given diseases *(2024)*
+### Q712 — Which of the following given diseases *(2024)*
 
 Which of the following given diseases has the maximum portion of the iceberg submerged?
 
@@ -8134,8 +12541,7 @@ Which of the following given diseases has the maximum portion of the iceberg sub
 ---
 
 ---
-
-### Q469 — What is the term for the *(2024)*
+### Q713 — What is the term for the *(2024)*
 
 What is the term for the interval between the entry of a pathogen into the host and the point at which the host reaches peak infectivity?
 
@@ -8153,8 +12559,7 @@ What is the term for the interval between the entry of a pathogen into the host 
 ---
 
 ---
-
-### Q470 — Clinical Question A female presents with *(2024)*
+### Q714 — Clinical Question A female presents with *(2024)*
 
 A female presents with 22 weeks of pregnancy as a result of sexual assault. Which statement is true regarding medical termination of pregnancy (MTP)?
 
@@ -8172,8 +12577,7 @@ A female presents with 22 weeks of pregnancy as a result of sexual assault. Whic
 ---
 
 ---
-
-### Q471 — A 36-year-old fruit farmer presents with *(2024)*
+### Q715 — A 36-year-old fruit farmer presents with *(2024)*
 
 A 36-year-old fruit farmer presents with fever, breathing difficulties and neurological complications. He gives a history of spotting a few bats on his farm. What is the most likely diagnosis?
 
@@ -8191,8 +12595,7 @@ A 36-year-old fruit farmer presents with fever, breathing difficulties and neuro
 ---
 
 ---
-
-### Q472 — A group of 80 people was *(2024)*
+### Q716 — A group of 80 people was *(2024)*
 
 A group of 80 people was studied to assess the effect of diet modification on mean cholesterol levels before and after the intervention. Which statistical test is most appropriate to compare the mean cholesterol levels before and after the diet modification?
 
@@ -8210,8 +12613,7 @@ A group of 80 people was studied to assess the effect of diet modification on me
 ---
 
 ---
-
-### Q473 — A study is conducted on the *(2024)*
+### Q717 — A study is conducted on the *(2024)*
 
 A study is conducted on the association between the intake of vitamin C and the occurrence of respiratory illness. What is the order in which the following steps are conducted? A. Select a case and control. B. Matching C. Measure total exposure D. Analysis
 
@@ -8229,8 +12631,7 @@ A study is conducted on the association between the intake of vitamin C and the 
 ---
 
 ---
-
-### Q474 — Clinical Question A mother brings her *(2024)*
+### Q718 — Clinical Question A mother brings her *(2024)*
 
 A mother brings her child with complaints of papular lesions on the extensor surfaces of the skin. The lesions improve following supplementation with vitamins A and C along with essential amino acids. What is the most likely diagnosis?
 
@@ -8248,8 +12649,7 @@ A mother brings her child with complaints of papular lesions on the extensor sur
 ---
 
 ---
-
-### Q475 — Given 500 live births, 12 stillbirths, *(2024)*
+### Q719 — Given 500 live births, 12 stillbirths, *(2024)*
 
 Given 500 live births, 12 stillbirths, and 9 deaths within the first 7 days, calculate the Early Neonatal Mortality Rate (ENMR).
 
@@ -8267,10 +12667,9 @@ Given 500 live births, 12 stillbirths, and 9 deaths within the first 7 days, cal
 ---
 
 ---
+### Q720 — Calculate the maternal mortality ratio (MMR) *(2024)*
 
-### Q476 — Calculate the maternal mortality ratio (MMR) *(2024)*
-
-Calculate the maternal mortality ratio (MMR) for the year 2023, from the given data: ● Total women who died: 6 ● Total live births: 4000 Causes of death: ● 1 due to a road traffic accident (RTA) ● 1 due to sepsis ● 1 due to obstructed labour ● 1 due to eclampsia ● 1 due to ectopic pregnancy ● 1 due toa snake bite
+Calculate the maternal mortality ratio (MMR) for the year 2023, from the given data: Total women who died: 6 Total live births: 4000 Causes of death: 1 due to a road traffic accident (RTA) 1 due to sepsis 1 due to obstructed labour 1 due to eclampsia 1 due to ectopic pregnancy 1 due toa snake bite
 
 - A. 75
 - B. 150
@@ -8286,8 +12685,7 @@ Calculate the maternal mortality ratio (MMR) for the year 2023, from the given d
 ---
 
 ---
-
-### Q477 — What is the correct order of *(2024)*
+### Q721 — What is the correct order of *(2024)*
 
 What is the correct order of steps in disaster management?
 
@@ -8305,8 +12703,7 @@ What is the correct order of steps in disaster management?
 ---
 
 ---
-
-### Q478 — For a disease with incubation period *(2024)*
+### Q722 — For a disease with incubation period *(2024)*
 
 For a disease with incubation period of 5-14 days, what should be the recommended quarantine period?
 
@@ -8324,8 +12721,7 @@ For a disease with incubation period of 5-14 days, what should be the recommende
 ---
 
 ---
-
-### Q479 — Which one of the following is *(2024)*
+### Q723 — Which one of the following is *(2024)*
 
 Which one of the following is not included in the school health program under Ayushman Bharat?
 
@@ -8343,8 +12739,7 @@ Which one of the following is not included in the school health program under Ay
 ---
 
 ---
-
-### Q480 — In the health education model with *(2024)*
+### Q724 — In the health education model with *(2024)*
 
 In the health education model with first step as awareness and second step as motivation, what is the third step?
 
@@ -8362,8 +12757,7 @@ In the health education model with first step as awareness and second step as mo
 ---
 
 ---
-
-### Q481 — Which indicator is defined by a *(2024)*
+### Q725 — Which indicator is defined by a *(2024)*
 
 Which indicator is defined by a formula that uses the number of maternal deaths as the numerator and the total number of women of reproductive age as the denominator?
 
@@ -8381,8 +12775,7 @@ Which indicator is defined by a formula that uses the number of maternal deaths 
 ---
 
 ---
-
-### Q482 — Which of the following is not *(2024)*
+### Q726 — Which of the following is not *(2024)*
 
 Which of the following is not a component of PQLI?
 
@@ -8401,10 +12794,9 @@ Which of the following is not a component of PQLI?
 
 ---
 
-
 ## Year 2025
 
-### Q483 — Dietary cholesterol limit for CAD prevention
+### Q727 — Dietary cholesterol limit for CAD prevention
 
 For prevention of coronary artery disease, what is the recommended dietary cholesterol intake per day?
 
@@ -8421,8 +12813,7 @@ For prevention of coronary artery disease, what is the recommended dietary chole
 ---
 
 ---
-
-### Q484 — Toxic fumes after industrial explosion
+### Q728 — Toxic fumes after industrial explosion
 
 Toxic fumes are released after an industrial explosion. What should residents do?
 
@@ -8439,8 +12830,7 @@ Toxic fumes are released after an industrial explosion. What should residents do
 ---
 
 ---
-
-### Q485 — PHC cluster intervention study design
+### Q729 — PHC cluster intervention study design
 
 20 PHCs receive standard care and 20 PHCs receive a community-based intervention to reduce prenatal sepsis. What study design is this?
 
@@ -8457,8 +12847,7 @@ Toxic fumes are released after an industrial explosion. What should residents do
 ---
 
 ---
-
-### Q486 — Skeletal fluorosis intervention
+### Q730 — Skeletal fluorosis intervention
 
 A 20-year-old from Andhra Pradesh with bowing of lower limbs and osteoporosis; diet is rice and jowar. Which intervention will NOT help?
 
@@ -8475,8 +12864,7 @@ A 20-year-old from Andhra Pradesh with bowing of lower limbs and osteoporosis; d
 ---
 
 ---
-
-### Q487 — Nalgonda technique reagents
+### Q731 — Nalgonda technique reagents
 
 The Nalgonda technique for defluoridation of water uses which combination?
 
@@ -8493,8 +12881,7 @@ The Nalgonda technique for defluoridation of water uses which combination?
 ---
 
 ---
-
-### Q488 — Comparing haemoglobin between two groups
+### Q732 — Comparing haemoglobin between two groups
 
 Which statistical test is most appropriate to compare mean Hb levels between two independent groups?
 
@@ -8511,8 +12898,7 @@ Which statistical test is most appropriate to compare mean Hb levels between two
 ---
 
 ---
-
-### Q489 — UPHCs required for slum population
+### Q733 — UPHCs required for slum population
 
 An urban city of 70 lakh has 30% slum population. How many UPHCs are required?
 
@@ -8529,8 +12915,7 @@ An urban city of 70 lakh has 30% slum population. How many UPHCs are required?
 ---
 
 ---
-
-### Q490 — Mosquito without siphon tube
+### Q734 — Mosquito without siphon tube
 
 Which mosquito lacks a siphon tube and rests parallel to the water surface?
 
@@ -8547,8 +12932,7 @@ Which mosquito lacks a siphon tube and rests parallel to the water surface?
 ---
 
 ---
-
-### Q491 — COVID-19 hospital death surveillance type
+### Q735 — COVID-19 hospital death surveillance type
 
 A 60-year-old diabetic with COVID-19 died in hospital. The death is routinely reported to the health department. What type of surveillance is this?
 
@@ -8565,8 +12949,7 @@ A 60-year-old diabetic with COVID-19 died in hospital. The death is routinely re
 ---
 
 ---
-
-### Q492 — Increased 5-year survival rate but no change in mortality
+### Q736 — Increased 5-year survival rate but no change in mortality
 
 A new breast cancer screening method improves 5-year survival but autopsy data show no change in overall mortality. What bias?
 
@@ -8583,8 +12966,7 @@ A new breast cancer screening method improves 5-year survival but autopsy data s
 ---
 
 ---
-
-### Q493 — De facto census method
+### Q737 — De facto census method
 
 In the "de facto" method of census, data is collected based on:
 
@@ -8601,8 +12983,7 @@ In the "de facto" method of census, data is collected based on:
 ---
 
 ---
-
-### Q494 — Correct sequence in RCT
+### Q738 — Correct sequence in RCT
 
 Which is the correct sequence in a Randomised Controlled Trial?
 
@@ -8619,8 +13000,7 @@ Which is the correct sequence in a Randomised Controlled Trial?
 ---
 
 ---
-
-### Q495 — WIFS tablet composition for adolescents
+### Q739 — WIFS tablet composition for adolescents
 
 Under the Weekly Iron and Folic Acid Supplementation (WIFS) scheme, IFA tablets for 10–19-year-olds contain:
 
@@ -8637,8 +13017,7 @@ Under the Weekly Iron and Folic Acid Supplementation (WIFS) scheme, IFA tablets 
 ---
 
 ---
-
-### Q496 — Generation time definition
+### Q740 — Generation time definition
 
 The time interval between acquiring an infection and reaching maximum infectivity is:
 
@@ -8655,8 +13034,7 @@ The time interval between acquiring an infection and reaching maximum infectivit
 ---
 
 ---
-
-### Q497 — Measure of objective/target achievement
+### Q741 — Measure of objective/target achievement
 
 Which health programme activity measures the degree of target achievement and quality of results?
 
@@ -8673,8 +13051,7 @@ Which health programme activity measures the degree of target achievement and qu
 ---
 
 ---
-
-### Q498 — Government program for rickets
+### Q742 — Government program for rickets
 
 A child with clinical rickets is brought. Which government program specifically addresses this deficiency?
 
@@ -8691,8 +13068,7 @@ A child with clinical rickets is brought. Which government program specifically 
 ---
 
 ---
-
-### Q499 — HIV with active TB treatment sequence
+### Q743 — HIV with active TB treatment sequence
 
 HIV-positive patient (CD4 = 250 cells/mm³) with active TB, not yet on ART. Correct approach?
 
@@ -8709,8 +13085,7 @@ HIV-positive patient (CD4 = 250 cells/mm³) with active TB, not yet on ART. Corr
 ---
 
 ---
-
-### Q500 — Vaccines usable at clinic (open multi-dose vial)
+### Q744 — Vaccines usable at clinic (open multi-dose vial)
 
 Regarding the vaccine vial monitor, which vaccines can be used?
 
@@ -8727,4982 +13102,3 @@ Regarding the vaccine vial monitor, which vaccines can be used?
 ---
 
 ---
-
-## Year 2015
-
-### Q501 — All of the following are true
-
-All of the following are true about Down syndrome except
-
-- A. Incidence of Robertsonian translocation is 1:1000
-- B. Extra chromosome is of maternal origin
-- C. Most common cause is trisomy 21
-- D. Mosaicism 21 has no association with maternal age
-
-<details><summary>Answer</summary>
-
-**A. Incidence of Robertsonian translocation is 1:1000** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q502 — Post marketing surveillance included in which
-
-Post marketing surveillance included in which phase of drug clinical trial?
-
-- A. I
-- B. II
-- C. III
-- D. IV
-
-<details><summary>Answer</summary>
-
-**D. IV** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q503 — Aincreased 47-year-old woman presents with complai
-
-Aincreased 47-year-old woman presents with complaints of nervousness and sensitivity to hot weather. She is diagnosed with hyperthyroidism and prescribed propylthiouracil. What is the principal mechanism by which
-
-- A. Decreasing the efficacy of TSH binding to the thyroid TSH
-- B. Decreasing the rate of proteolysis of thyroglobulin
-- C. Increasing the amount of 3,3',5'-triiodothyronine (reverse T3;
-- D. Inhibiting deiodination of thyroxine (T4)
-
-<details><summary>Answer</summary>
-
-**D. Inhibiting deiodination of thyroxine (T4)** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q504 — Medium used for antibiotic sensitivity
-
-Medium used for antibiotic sensitivity:
-
-- A. CLED agar
-- B. Hektoen agar
-- C. Mueller-Hinton agar
-- D. Salt milk agar
-
-<details><summary>Answer</summary>
-
-**C. Mueller-Hinton agar** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q505 — Proteus isolated from a patient of
-
-Proteus isolated from a patient of UTI will show which boichemical reaction:
-
-- A. Phenylpyruvic acid reaction
-- B. Bile esculin reaction
-- C. Colchicine sensitivity
-- D. Bacitracin sensitivity
-
-<details><summary>Answer</summary>
-
-**A. Phenylpyruvic acid reaction** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q506 — Test to differentiate staphylococci from micrococc
-
-Test to differentiate staphylococci from micrococci:
-
-- A. Catalase test
-- B. Coagulase test
-- C. Novobiosin sensitivity
-- D. Oxidation fermentation
-
-<details><summary>Answer</summary>
-
-**D. Oxidation fermentation** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q507 — Prevention of catheter induced urinary tract
-
-Prevention of catheter induced urinary tract infection is by ?
-
-- A. Prophylactic antibiotics
-- B. Use of face mask
-- C. Closed drainage technique
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**C. Closed drainage technique** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q508 — Bubus form is which stage of
-
-Bubus form is which stage of LGV:
-
-- A. Prmary
-- B. Secondary
-- C. Tertiary
-- D. Latent
-
-<details><summary>Answer</summary>
-
-**B. Secondary** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q509 — Nosocomial infection is most commonly caused
-
-Nosocomial infection is most commonly caused by:
-
-- A. Gram negative bacilli
-- B. Gram positive bacilli
-- C. Gram negative cocci
-- D. Mycoplasma
-
-<details><summary>Answer</summary>
-
-**A. Gram negative bacilli** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q510 — ABO non- secretors are more prone
-
-ABO non- secretors are more prone to ?
-
-- A. Infection
-- B. Autoimmunity
-- C. Heart disease
-- D. Carcinoma
-
-<details><summary>Answer</summary>
-
-**B. Autoimmunity** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q511 — CD3 is a marker for
-
-CD3 is a marker for?
-
-- A. B - cells
-- B. T - cells
-- C. NK - cells
-- D. Monocytes
-
-<details><summary>Answer</summary>
-
-**B. T - cells** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q512 — Performance of components of PQLI is
-
-Performance of components of PQLI is counted between
-
-- A. -1 to +1
-- B. 0 to 1
-- C. 0 to 100
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. 0 to 100** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q513 — Human, animal, fomite or objects from
-
-Human, animal, fomite or objects from which infective organism enters the host is called ?
-
-- A. Source
-- B. Reservoir
-- C. Carrier
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Source** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q514 — Not included in Bradford Hills criteria
-
-Not included in Bradford Hill's criteria ?
-
-- A. Strength of association
-- B. Consistency of association
-- C. Specificity of association
-- D. Lack of temporal association
-
-<details><summary>Answer</summary>
-
-**D. Lack of temporal association** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q515 — Most important criterian in causal relationship
-
-Most important criterian in causal relationship hypothesis ?
-
-- A. Temporal association
-- B. Coherence of association
-- C. Specificity of association
-- D. Strength of association
-
-<details><summary>Answer</summary>
-
-**A. Temporal association** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q516 — The weakest criterian in causal relatianship
-
-The weakest criterian in causal relatianship hypothesis?
-
-- A. Temporal association
-- B. Coherence of association
-- C. Specificity of association
-- D. Strength of association
-
-<details><summary>Answer</summary>
-
-**C. Specificity of association** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q517 — Benefit of RCT
-
-Benefit of RCT ?
-
-- A. Faster study
-- B. Cheaper study
-- C. No selection bias
-- D. Suitable for rare disease
-
-<details><summary>Answer</summary>
-
-**C. No selection bias** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q518 — Most commonly used blinding technique in
-
-Most commonly used blinding technique in epidemiological studies ?
-
-- A. Single blinding
-- B. Double blinding
-- C. Triple blinding
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. Triple blinding** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q519 — Which of one of the following
-
-Which of one of the following is NOT a utilization rate?
-
-- A. Population bed ratio
-- B. Bed occupancy rate
-- C. Bed turnover ratio
-- D. Average length of stay
-
-<details><summary>Answer</summary>
-
-**A. Population bed ratio** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q520 — Calculate IMR if in a population
-
-Calculate IMR if in a population of 100000 there are 3000 live births in a year and 150 infant deaths in the same year -
-
-- A. 75
-- B. 18
-- C. 5
-- D. 50
-
-<details><summary>Answer</summary>
-
-**D. 50** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q521 — True about combined prospective- retrospective stu
-
-True about combined prospective- retrospective study true is ?
-
-- A. Exposure (+) nt, disease (+) nt
-- B. Exposure (+) nt, disease (-) nt
-- C. Exposure (-) nt, disease (+) nt
-- D. Exposure (-) nt, disease (-) nt
-
-<details><summary>Answer</summary>
-
-**A. Exposure (+) nt, disease (+) nt** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q522 — Proportional mortality rate is
-
-Proportional mortality rate is ?
-
-- A. Number of death due to a particular cause
-- B. Number of death during that year
-- C. Number of death in one month
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Number of death due to a particular cause** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q523 — Population attributable risk is defined as
-
-Population attributable risk is defined as the difference between:
-
-- A. Incidence in exposed and incidence in non-exposed compared
-- B. Incidence in population and incidence in exposed compared
-- C. Incidence in population and incidence in non-exposed
-- D. Incidence in population and incidence in exposed compared
-
-<details><summary>Answer</summary>
-
-**C. Incidence in population and incidence in non-exposed** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q524 — Selection bias occurs mainly in
-
-Selection bias occurs mainly in
-
-- A. Cohort study
-- B. Case-control study
-- C. RCT
-- D. All have equal chances
-
-<details><summary>Answer</summary>
-
-**B. Case-control study** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q525 — Best study technique to study the
-
-Best study technique to study the occurence of rare adverse effects of drug ?
-
-- A. Case-control study
-- B. Cohort study
-- C. Clinical trial/experimental study
-- D. Cross-sectional study
-
-<details><summary>Answer</summary>
-
-**C. Clinical trial/experimental study** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q526 — Bladder cancer can occur in those
-
-Bladder cancer can occur in those who are working in chimney for 25 years. Which is the best study for this relationship ?
-
-- A. Meta-analysis
-- B. Cross-sectional study
-- C. Randomized control trial with double blinding
-- D. Cohort study
-
-<details><summary>Answer</summary>
-
-**A. Meta-analysis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q527 — Which is an example of case
-
-Which is an example of case control study ?
-
-- A. Thalidomide and teratogenicity
-- B. Framingham heart study
-- C. PVC and angiosarcoma of liver
-- D. Doll & Hill Study
-
-<details><summary>Answer</summary>
-
-**A. Thalidomide and teratogenicity** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q528 — Advantage of case-control over a cohort
-
-Advantage of case-control over a cohort study ?
-
-- A. Attributable risk can be calculated
-- B. Odd's ratio can be calculated
-- C. For rare disease
-- D. b and c
-
-<details><summary>Answer</summary>
-
-**D. b and c** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q529 — Immunity starts after how many days
-
-Immunity starts after how many days of yellow fever vaccination ?
-
-- A. 7-10 days
-- B. 2-3 weeks
-- C. 4-5 weeks
-- D. 2-3 months
-
-<details><summary>Answer</summary>
-
-**A. 7-10 days** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q530 — Which Dipheria vaccine is recommended in
-
-Which Dipheria vaccine is recommended in a 14 years old girl ?
-
-- A. DPT
-- B. DT
-- C. Tdap
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Tdap** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q531 — Droplet nuclei is a type of
-
-Droplet nuclei is a type of ?
-
-- A. Vertical transmission
-- B. Direct transmission
-- C. Indirect transmission
-- D. Biological transmission
-
-<details><summary>Answer</summary>
-
-**B. Direct transmission** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q532 — Which is not a direct transmission
-
-Which is not a direct transmission ?
-
-- A. Droplet infection
-- B. Vertical transmission
-- C. Transmission by mosquito
-- D. Soil contact
-
-<details><summary>Answer</summary>
-
-**C. Transmission by mosquito** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q533 — Not a freeze dried vaccine
-
-Not a freeze dried vaccine ?
-
-- A. OPV
-- B. Measles
-- C. DPT
-- D. Rubella
-
-<details><summary>Answer</summary>
-
-**C. DPT** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q534 — Most widely used vaccine, beside OPV
-
-Most widely used vaccine, beside OPV ?
-
-- A. BCG
-- B. TT
-- C. Influenza
-- D. Pneumococcal
-
-<details><summary>Answer</summary>
-
-**A. BCG** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q535 — Chickenpox rash does not involve
-
-Chickenpox rash does not involve ?
-
-- A. Trunk
-- B. Axilla
-- C. Palms & soles
-- D. Back
-
-<details><summary>Answer</summary>
-
-**C. Palms & soles** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q536 — 95 carrier and 5 cases are
-
-95% carrier and 5% cases are seen in ?
-
-- A. Measles
-- B. Diphtheria
-- C. Rabies
-- D. Hepatitis B
-
-<details><summary>Answer</summary>
-
-**B. Diphtheria** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q537 — Following is Hib conjugate vaccine
-
-Following is Hib conjugate vaccine ?
-
-- A. Capsular polysaccharide
-- B. Cell wall polysaccheride
-- C. Capsular polysaccheride with carrier
-- D. PRP with carrier
-
-<details><summary>Answer</summary>
-
-**C. Capsular polysaccheride with carrier** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q538 — True about influenza infectivity
-
-True about influenza infectivity ?
-
-- A. Communicable period is 5 days before to 5 days after the onset
-- B. Source of infection is clinical case
-- C. There are no subclinical cases
-- D. All are correct
-
-<details><summary>Answer</summary>
-
-**B. Source of infection is clinical case** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q539 — Capsular polysaccharide derived vaccine is availab
-
-Capsular polysaccharide derived vaccine is available for all meningocci except ?
-
-- A. Group A
-- B. Group B
-- C. Group C
-- D. Group Y
-
-<details><summary>Answer</summary>
-
-**B. Group B** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q540 — False regarding polio vaccination
-
-False regarding polio vaccination ?
-
-- A. Both killed and live vaccines are available
-- B. First OPV is given at 4 weeks
-- C. OPV induces both humoral and intestinal immunity
-- D. IPV is given intramuscularly
-
-<details><summary>Answer</summary>
-
-**B. First OPV is given at 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q541 — Reservoir of infection in enteric fever
-
-Reservoir of infection in enteric fever ?
-
-- A. Birds
-- B. Cow
-- C. Cattle
-- D. Man
-
-<details><summary>Answer</summary>
-
-**D. Man** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q542 — Most common route of nosocomial infection
-
-Most common route of nosocomial infection [Hospital-acquired infection] ?
-
-- A. Droplet transmission
-- B. Direct contact
-- C. Indirect contact
-- D. Vehicle transmission
-
-<details><summary>Answer</summary>
-
-**B. Direct contact** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q543 — Behavioral surveillance survey is done in
-
-Behavioral surveillance survey is done in ?
-
-- A. Malaria
-- B. Filaria
-- C. AIDS
-- D. TB
-
-<details><summary>Answer</summary>
-
-**C. AIDS** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q544 — Which of the following larvicide is
-
-Which of the following larvicide is used under urban Malaria Scheme ?
-
-- A. Malathion
-- B. Parathion
-- C. DDT
-- D. Abate
-
-<details><summary>Answer</summary>
-
-**D. Abate** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q545 — Regular insectisidal spray is done when
-
-Regular insectisidal spray is done when API is ?
-
-- A. > 1
-- B. > 2
-- C. < 1
-- D. < 2
-
-<details><summary>Answer</summary>
-
-**B. > 2** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q546 — Main function of sodium citrate in
-
-Main function of sodium citrate in ORS ?
-
-- A. To increase absorption of glucose by cotransport
-- B. To correct electrolyte imbalance
-- C. To correct Acidosis
-- D. To correct dehydration
-
-<details><summary>Answer</summary>
-
-**C. To correct Acidosis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q547 — For post exposure prophylaxis for HIV
-
-For post exposure prophylaxis for HIV the regimen is ?
-
-- A. Zidovodin + lamivudin for 4 weeks
-- B. Lamivudin + ritonavir for 4 weeks
-- C. Zidovudin + lamivudin + Indinavir for 4 weeks
-- D. Single dose zidovudin + lamivudin + Indinavir
-
-<details><summary>Answer</summary>
-
-**C. Zidovudin + lamivudin + Indinavir for 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q548 — True about post-exposure prophylaxis in HIV
-
-True about post-exposure prophylaxis in HIV ?
-
-- A. Should be given in 5 days of exposure
-- B. Single dose nevirapine prevents mother to child transmission
-- C. Given for 2 weeks
-- D. Standard protocol is to use Any Two NRTIs with no other drugs
-
-<details><summary>Answer</summary>
-
-**B. Single dose nevirapine prevents mother to child transmission** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q549 — Rule of Halves is related to
-
-Rule of Halves is related to ?
-
-- A. Obesity
-- B. Burns
-- C. Blindness
-- D. Hypertension
-
-<details><summary>Answer</summary>
-
-**D. Hypertension** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q550 — Total communication means
-
-Total communication means ?
-
-- A. Use of all methods of communication for advertisment
-- B. Use of all methods of communication for school teaching
-- C. Use of all methods of communication for community
-- D. Using every communication option to teach deaf child
-
-<details><summary>Answer</summary>
-
-**D. Using every communication option to teach deaf child** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q551 — Smoking is preventive for
-
-Smoking is preventive for ?
-
-- A. Lung cancer
-- B. Chronic bronchitis
-- C. Ulcerative colitis
-- D. CHD
-
-<details><summary>Answer</summary>
-
-**C. Ulcerative colitis** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q552 — According female sterlization 2014 guidelines, eli
-
-According female sterlization 2014 guidelines, eligibility criteria for female sterilization are all except?
-
-- A. Age between 22-49 years
-- B. Should have at least 1 child
-- C. Unmarried woman
-- D. Partner is not sterilized
-
-<details><summary>Answer</summary>
-
-**C. Unmarried woman** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q553 — Which state has lowest IMR
-
-Which state has lowest IMR ?
-
-- A. Uttar Pradesh
-- B. Kerala
-- C. Maharashtra
-- D. Tamil Nadu
-
-<details><summary>Answer</summary>
-
-**B. Kerala** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q554 — Gross reproduction rate is
-
-Gross reproduction rate is ?
-
-- A. Number of girls born to a mother in her reproductive age
-- B. Number of boys born to a mother in her reproductive age
-- C. Number of total children born to a mother in her reproductive
-- D. Number of lives births per 1000 women
-
-<details><summary>Answer</summary>
-
-**A. Number of girls born to a mother in her reproductive age** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q555 — In a town there are 2500
-
-In a town there are 2500 live birth within six month. During same period 5 women died due to peripartum infection, 5 died due to electrocution, 2 died due to
-
-- A. 4 per 1000 live birth
-- B. 6 per 1000 live birth
-- C. 40 per 1000 live birth
-- D. 60 per 1000 live birth
-
-<details><summary>Answer</summary>
-
-**A. 4 per 1000 live birth** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q556 — Vital statistics in a population are
-
-Vital statistics in a population are ?
-
-- A. Sex ratio
-- B. Age composition
-- C. Birth rate
-- D. Dependency ratio
-
-<details><summary>Answer</summary>
-
-**C. Birth rate** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q557 — What is exponential growth
-
-What is exponential growth ?
-
-- A. Rapid growth in population that leads to disbalance in birth and
-- B. Slow growth rate
-- C. Growth limited by limiting factors
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Rapid growth in population that leads to disbalance in birth and** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q558 — Sample registration system is done once
-
-Sample registration system is done once in ?
-
-- A. 6 months
-- B. 1 year
-- C. 2 years
-- D. 5 years
-
-<details><summary>Answer</summary>
-
-**A. 6 months** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q559 — In a community of 1000000 population
-
-In a community of 1000000 population 105 children were born in a year out of which 5 was still births, and 4 died within 6 months after birth. The IMR is ?
-
-- A. 40
-- B. 90
-- C. 120
-- D. 150
-
-<details><summary>Answer</summary>
-
-**A. 40** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q560 — Maternal mortality rate is defined as
-
-Maternal mortality rate is defined as ?
-
-- A. Maternal death per 1000 total births
-- B. Maternal death per 1000 live births
-- C. Maternal death per 1000 women
-- D. Maternal death per 1000 women of reproductive age
-
-<details><summary>Answer</summary>
-
-**D. Maternal death per 1000 women of reproductive age** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q561 — NPU for egg is
-
-NPU for egg is ?
-
-- A. 70
-- B. 80
-- C. 85
-- D. 100
-
-<details><summary>Answer</summary>
-
-**D. 100** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q562 — Skeletal fluorosis occurs with fluoride level
-
-Skeletal fluorosis occurs with fluoride level in water?
-
-- A. < 1.5 mg/L
-- B. 1.5-3 mg/L
-- C. 3-6 mg/L
-- D. > 10 mg/L
-
-<details><summary>Answer</summary>
-
-**C. 3-6 mg/L** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q563 — Mid-day meal provides
-
-Mid-day meal provides ?
-
-- A. 1/2 of energy
-- B. 1/3 of protein
-- C. 30 gm pulse/day
-- D. All are correct
-
-<details><summary>Answer</summary>
-
-**C. 30 gm pulse/day** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q564 — Maximum protein is found in
-
-Maximum protein is found in ?
-
-- A. Egg
-- B. Soyabean
-- C. Rice
-- D. Wheat
-
-<details><summary>Answer</summary>
-
-**B. Soyabean** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q565 — Tablet for supplementation of iron and
-
-Tablet for supplementation of iron and folic acid for adult contains ?
-
-- A. 20 mg iron, 5001,tg folic aci
-- B. 40 mg iron, 250 folic acid
-- C. 100 mg iron, 500 lig folic acid
-- D. 100 mg iron, 100 hg folic acid
-
-<details><summary>Answer</summary>
-
-**C. 100 mg iron, 500 lig folic acid** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q566 — Vanaspati Ghee is fortified with
-
-Vanaspati Ghee is fortified with ?
-
-- A. Iodine
-- B. Vitamin A
-- C. Iron
-- D. Calcium
-
-<details><summary>Answer</summary>
-
-**B. Vitamin A** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q567 — Village Health and Nutrition Day (VHND)
-
-Village Health and Nutrition Day (VHND) is observed ?
-
-- A. Every week
-- B. Every month
-- C. Every 6 month
-- D. Every year
-
-<details><summary>Answer</summary>
-
-**B. Every month** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q568 — Phrynoderma is due to deficiency-
-
-Phrynoderma is due to ...deficiency-
-
-- A. Vitamin D
-- B. Niacin
-- C. Vitamin A
-- D. Essential fatty acid
-
-<details><summary>Answer</summary>
-
-**D. Essential fatty acid** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q569 — Glycemic index is defined as
-
-Glycemic index is defined as:
-
-- A. Glucose control in last 3 months
-- B. Measure of the change in the blood glucose following ingestion
-- C. Measure of the change in the blood glucose following ingestion
-- D. Measure of the change in the blood glucose following ingestion
-
-<details><summary>Answer</summary>
-
-**C. Measure of the change in the blood glucose following ingestion** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q570 — Low glycemic index is classified as
-
-Low glycemic index is classified as value less than:
-
-- A. 25
-- B. 45
-- C. 55
-- D. 65
-
-<details><summary>Answer</summary>
-
-**C. 55** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q571 — Differences between human milk and cow
-
-Differences between human milk and cow milk are all of the following except:
-
-- A. Cow milk has comparatively more fat
-- B. Cow milk has comparatively more protein
-- C. Cow milk has comparatively more calcium
-- D. Cow milk is iron deficient
-
-<details><summary>Answer</summary>
-
-**D. Cow milk is iron deficient** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q572 — Skin fold thickness is measured in
-
-Skin fold thickness is measured in all of the following places, EXCEPT:
-
-- A. Mid triceps
-- B. Biceps
-- C. Supra pubic
-- D. Supra iliac
-
-<details><summary>Answer</summary>
-
-**C. Supra pubic** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q573 — Which is true of pathogenic mosquitoes
-
-Which is true of pathogenic mosquitoes ?
-
-- A. Anopheles has spotted abdomen
-- B. Mansoni lays eggs singly
-- C. Culex cause yellow fever
-- D. Aedes has stripped yellow scales
-
-<details><summary>Answer</summary>
-
-**D. Aedes has stripped yellow scales** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q574 — Horrocks apparatus is used to measure
-
-Horrock's apparatus is used to measure ?
-
-- A. Wind velocity
-- B. Humidity
-- C. Chlorine demand
-- D. Cooling power
-
-<details><summary>Answer</summary>
-
-**C. Chlorine demand** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q575 — Indicator used in Horrochs apparatus
-
-Indicator used in Horroch's apparatus ?
-
-- A. Bleaching powder
-- B. Soda-lime
-- C. Potassium permagnate
-- D. Starch iodine
-
-<details><summary>Answer</summary>
-
-**D. Starch iodine** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q576 — In water testing from a well
-
-In water testing from a well [containing 75000 litres of water] by Horrock's apparatus, there is blue colour from 4th cup onwards. What is the amount of
-
-- A. 1000 gm
-- B. 1300 gm
-- C. 1600 gm
-- D. 2000 gm
-
-<details><summary>Answer</summary>
-
-**B. 1300 gm** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q577 — Daylight factor in the kitchen should
-
-Daylight factor in the kitchen should be ?
-
-- A. 5%
-- B. 8%
-- C. 10%
-- D. 15%
-
-<details><summary>Answer</summary>
-
-**C. 10%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q578 — Anemometer measures
-
-Anemometer measures ?
-
-- A. Humidity
-- B. Air velocity
-- C. Room temperature
-- D. Radiant temperature
-
-<details><summary>Answer</summary>
-
-**B. Air velocity** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q579 — SI unit of luminal intesity is
-
-SI unit of luminal intesity is -
-
-- A. Candela
-- B. Lumen
-- C. Lux
-- D. Coulomb
-
-<details><summary>Answer</summary>
-
-**A. Candela** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q580 — Waste Sharps should be disposed in
-
-Waste Sharps should be disposed in ?
-
-- A. Black bag
-- B. Yellow bag
-- C. Blue bag
-- D. None of these
-
-<details><summary>Answer</summary>
-
-**C. Blue bag** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q581 — Which category waste is disposed in
-
-Which category waste is disposed in red bags ?
-
-- A. Category 1
-- B. Category 2
-- C. Category 3
-- D. Category 10
-
-<details><summary>Answer</summary>
-
-**C. Category 3** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q582 — Incineration is used for which category
-
-Incineration is used for which category of waste ?
-
-- A. Category 1
-- B. Category 7
-- C. Category 4
-- D. Category 10
-
-<details><summary>Answer</summary>
-
-**A. Category 1** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q583 — Micropolysopora faeni causes
-
-Micropolysopora faeni causes ?
-
-- A. Baggasosis
-- B. Farmer's lung
-- C. Suberosis
-- D. Sequousis
-
-<details><summary>Answer</summary>
-
-**B. Farmer's lung** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q584 — True about Anganwadi worker is all
-
-True about Anganwadi worker is all except ?
-
-- A. Mostly female
-- B. Training for 4 months
-- C. Under ICDS scheme
-- D. Covers a population of 2000
-
-<details><summary>Answer</summary>
-
-**D. Covers a population of 2000** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q585 — As per ICDS scheme, there should
-
-As per ICDS scheme, there should be one Anganwadi centre for a population of ?
-
-- A. 1000-1500
-- B. 2000-25000
-- C. 400-800
-- D. 100-200
-
-<details><summary>Answer</summary>
-
-**C. 400-800** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q586 — True about ASHA are all except
-
-True about ASHA are all except
-
-- A. One per 1000 rural population
-- B. Mobiliser of antenatal care
-- C. Female voluntary worker
-- D. Skilled birth attendant
-
-<details><summary>Answer</summary>
-
-**D. Skilled birth attendant** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q587 — All of the following are duties
-
-All of the following are duties of an ASHA worker except:
-
-- A. Primary screening for prevalence of non-communica​ble
-- B. Administering zero dose of DPT and OPV
-- C. Assessing the success of national programs under ANM
-- D. All
-
-<details><summary>Answer</summary>
-
-**B. Administering zero dose of DPT and OPV** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q588 — ASHA gets remuneration on all except
-
-ASHA gets remuneration on all except ?
-
-- A. Institutional delivery
-- B. Zero dose of OPV and BCG
-- C. Recording birth weight
-- D. Birth registration
-
-<details><summary>Answer</summary>
-
-**B. Zero dose of OPV and BCG** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q589 — Swajaldhara programme is associated with
-
-Swajaldhara programme is associated with:
-
-- A. Provision of safe drinking water
-- B. Provision of food supplements for destitute women
-- C. Provision of relief for victim of sexual abuse
-- D. Provision of health care for sick tribals
-
-<details><summary>Answer</summary>
-
-**A. Provision of safe drinking water** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q590 — Group of 4-8 experts talking in
-
-Group of 4-8 experts talking in front of a large group of audience is known as:
-
-- A. Symposium
-- B. Workshop
-- C. Seminar
-- D. Panel discussion
-
-<details><summary>Answer</summary>
-
-**D. Panel discussion** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q591 — All are principles of primary health
-
-All are principles of primary health care except?
-
-- A. Intersectoral coordination
-- B. Community participation
-- C. Appropriate technology
-- D. Decentralised approach
-
-<details><summary>Answer</summary>
-
-**D. Decentralised approach** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q592 — Screening under RNTCP emphasizes on
-
-Screening under RNTCP emphasizes on:
-
-- A. Sputum microscopy
-- B. Chest X-ray
-- C. PCR
-- D. Sputum culture
-
-<details><summary>Answer</summary>
-
-**A. Sputum microscopy** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q593 — Which of the following screening methods
-
-Which of the following screening methods is used under RNTCP?
-
-- A. Active
-- B. Passive
-- C. Mass
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**B. Passive** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q594 — Regarding PPV vaccine following is true
-
-Regarding PPV vaccine following is true ?
-
-- A. Given at birth
-- B. Obtained from cell wall polysaccharide
-- C. Indicated in sickle cell disease
-- D. Commonly used
-
-<details><summary>Answer</summary>
-
-**C. Indicated in sickle cell disease** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q595 — All are included in sleep hygiene
-
-All are included in sleep hygiene except ?
-
-- A. Healthy diet
-- B. Sleeping on time
-- C. Sleeping in dark room
-- D. Exercise before sleep
-
-<details><summary>Answer</summary>
-
-**D. Exercise before sleep** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q596 — A problem village is defined as
-
-A problem village is defined as if water source is ?
-
-- A. > 0.5 km
-- B. > 1 km
-- C. > 1.6 km
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**C. > 1.6 km** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q597 — Not true about strategic plan for
-
-Not true about strategic plan for malaria control 2012​2017 ?
-
-- A. Objective is API < 1 per 10,000
-- B. 50% reduction in mortality by 2017
-- C. Annual incidence < 10 per 1000 by 2017
-- D. Complete treatment to at least 80% of patients
-
-<details><summary>Answer</summary>
-
-**C. Annual incidence < 10 per 1000 by 2017** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q598 — Light house sign in seen in
-
-Light house sign in seen in ASOM in which stage?
-
-- A. Stage of suppuration
-- B. Stage of hyperaemia
-- C. Stage of resolution
-- D. Stage of pre-suppuration
-
-<details><summary>Answer</summary>
-
-**A. Stage of suppuration** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q599 — What is the role of Sodium
-
-What is the role of Sodium Fluoride in otosclerosis?
-
-- A. It restores the electrolyte equilibrium
-- B. It hastens recovery of the Overstimulated Cochlea
-- C. It quickens the maturity of the active focus and reduces
-- D. It repolarizes the cochlear cells
-
-<details><summary>Answer</summary>
-
-**C. It quickens the maturity of the active focus and reduces** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q600 — Which of the following tests is
-
-Which of the following tests is not used to differentiate between cochlear and retrocochlear hearing loss?
-
-- A. SISI TEST
-- B. Evoked response audiometry
-- C. Threshold tone decay test
-- D. Recruitment
-
-<details><summary>Answer</summary>
-
-**C. Threshold tone decay test** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q601 — When does the rudimentary cochlea develop
-
-When does the rudimentary cochlea develop in the fetus?
-
-- A. First week
-- B. 4th to 8th week
-- C. 8th to 12th week
-- D. 16 to 20th week
-
-<details><summary>Answer</summary>
-
-**B. 4th to 8th week** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q602 — Otosclerosis affects which bone
-
-Otosclerosis affects which bone?
-
-- A. Stapes
-- B. Incus
-- C. Malleus
-- D. None
-
-<details><summary>Answer</summary>
-
-**A. Stapes** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q603 — External auditory canal is formed by
-
-External auditory canal is formed by:
-
-- A. 1s branchial groove
-- B. 1st visceral pouch
-- C. 2nd branchial groove
-- D. 2nd visceral pouch
-
-<details><summary>Answer</summary>
-
-**A. 1s branchial groove** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q604 — Which of the following is a
-
-Which of the following is a cause of objective tinnitus?
-
-- A. Impacted Wax
-- B. Carotid artery aneurysm
-- C. Meniere's disease
-- D. Ototoxic drugs
-
-<details><summary>Answer</summary>
-
-**B. Carotid artery aneurysm** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q605 — Pulsatile tinnitus is a feature of
-
-Pulsatile tinnitus is a feature of ?
-
-- A. Glomus tumour
-- B. acoustic neuroma
-- C. malignant otits externa
-- D. meneire's disease
-
-<details><summary>Answer</summary>
-
-**A. Glomus tumour** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q606 — Ethmoidal infundibulum lies between
-
-Ethmoidal infundibulum lies between ?
-
-- A. Bulla ethmoidalis and uncinate process of ethmoid
-- B. Middle and inferior turbinate
-- C. Hiatus semilunaris and Inferior meatus
-- D. Wing of sphenoid and maxillary antrum
-
-<details><summary>Answer</summary>
-
-**A. Bulla ethmoidalis and uncinate process of ethmoid** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q607 — What lies between the middle and
-
-What lies between the middle and inferior turbinate?
-
-- A. Middle meatus
-- B. Superior meatus
-- C. Hiatus semmilunaris
-- D. Inferior meatus
-
-<details><summary>Answer</summary>
-
-**A. Middle meatus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q608 — The narrowest part of the nasal
-
-The narrowest part of the nasal cavity is ?
-
-- A. Internal nasal valve
-- B. Antrochoanal region
-- C. 1st nasal turbinate
-- D. Region of inferior concha
-
-<details><summary>Answer</summary>
-
-**A. Internal nasal valve** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q609 — Narrowest part of the nasal cavity
-
-Narrowest part of the nasal cavity is ?
-
-- A. Vestibule
-- B. Choanae
-- C. Inferior turbinate
-- D. Middle turbinate
-
-<details><summary>Answer</summary>
-
-**C. Inferior turbinate** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q610 — In evaluation of a case of
-
-In evaluation of a case of immotile nasal cilia, which of the following investigations should prove useful?
-
-- A. Rhinogram
-- B. Xray nasal and paranasal sinuses
-- C. Sweat sodium levels
-- D. Nitric oxide test
-
-<details><summary>Answer</summary>
-
-**D. Nitric oxide test** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q611 — All of the following are features
-
-All of the following are features of ethmoidal polyp except ?
-
-- A. Common in adults
-- B. Commonly Singular
-- C. Commonly bilateral
-- D. Is usually allergic
-
-<details><summary>Answer</summary>
-
-**B. Commonly Singular** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q612 — All of the following are treatments
-
-All of the following are treatments of multiple bilateral ethmoidal polyps except?
-
-- A. Functional endoscopic sinus surgery
-- B. Intranasal ethmoidectomy
-- C. Extranasal ethmoidectomy
-- D. Caldwll Luc Surgery
-
-<details><summary>Answer</summary>
-
-**D. Caldwll Luc Surgery** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q613 — The artery which leads to bleeding
-
-The artery which leads to bleeding in Woodruff's area is?
-
-- A. Anterior ethmoidal artery
-- B. Sphenopalatine artery
-- C. Greater palatine artery
-- D. Superior labial artery
-
-<details><summary>Answer</summary>
-
-**B. Sphenopalatine artery** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q614 — ETHMOIDAL BULLAE are seen in
-
-ETHMOIDAL BULLAE are seen in?
-
-- A. Posterior ethmoidal air cells
-- B. Middle ethmoid air cells
-- C. Superior ethmoidal air cells
-- D. Inferior ethmoidal air cells
-
-<details><summary>Answer</summary>
-
-**B. Middle ethmoid air cells** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q615 — Anterior tonsillar pillar is formed by
-
-Anterior tonsillar pillar is formed by?
-
-- A. Palatopharyngeal fold
-- B. Palatoglossal fold
-- C. Pterygopalatine arch
-- D. Valleculae
-
-<details><summary>Answer</summary>
-
-**B. Palatoglossal fold** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q616 — One of the following is true
-
-One of the following is true regarding Zenker diverticulum ?
-
-- A. It is a pulsion diverticulum
-- B. It projects anteriorly
-- C. Commonly seen in young males
-- D. It is between superior and middle constrictor
-
-<details><summary>Answer</summary>
-
-**A. It is a pulsion diverticulum** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q617 — Which is the narrowest portion of
-
-Which is the narrowest portion of the esophagus?
-
-- A. At the cricopharyngeal sphincter
-- B. At the crossing of the left main bronchus
-- C. At the level of the aortic arch
-- D. At the diagphragmatic aperture
-
-<details><summary>Answer</summary>
-
-**A. At the cricopharyngeal sphincter** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q618 — In Caldwell Luc operation, the approach
-
-In Caldwell Luc operation, the approach is through the?
-
-- A. Sublabial Approach leading to opening of mandibular antrum
-- B. Through the sphenopalatine recess
-- C. Opening of maxillary antrum through gingivolabial approach
-- D. Superior meatus
-
-<details><summary>Answer</summary>
-
-**C. Opening of maxillary antrum through gingivolabial approach** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q619 — Caldwell Luc Surgery has its approach
-
-Caldwell Luc Surgery has its approach to the maxillary antrum through ?
-
-- A. Gingivolabial sulcus
-- B. Inferior orbital rim
-- C. Nasal septum
-- D. Cribriform plate
-
-<details><summary>Answer</summary>
-
-**A. Gingivolabial sulcus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q620 — All of the following are removed
-
-All of the following are removed in vertical hemilaryngectomy except?
-
-- A. Half Glottis
-- B. Half Supraglottis
-- C. Half tongue
-- D. Half Subglottis
-
-<details><summary>Answer</summary>
-
-**C. Half tongue** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q621 — Miracle fruit is used to change
-
-Miracle fruit is used to change the taste from?
-
-- A. Sour to Bitter
-- B. Sour to Sweet
-- C. Bitter to sweet
-- D. Salty to sweet
-
-<details><summary>Answer</summary>
-
-**B. Sour to Sweet** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q622 — The main muscle affected in congenital
-
-The main muscle affected in congenital muscular torticollis is?
-
-- A. Sternocleidomastoid
-- B. Trapezius
-- C. Scalenus Anticus
-- D. Omohyoid
-
-<details><summary>Answer</summary>
-
-**A. Sternocleidomastoid** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q623 — Where is the auditory cortex located
-
-Where is the auditory cortex located inside the brain?
-
-- A. Superior temporal gyrus
-- B. Inferior temporal gyrus
-- C. Area 3,1,2
-- D. Cingulate gyrus
-
-<details><summary>Answer</summary>
-
-**A. Superior temporal gyrus** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q624 — Which eye muscle has radial, longitudinal
-
-Which eye muscle has radial, longitudinal and circular fibres?
-
-- A. Sphinctor Pupillae
-- B. Dilator Pupillae
-- C. Levator palpebrae Superioris
-- D. Ciliary muscle
-
-<details><summary>Answer</summary>
-
-**D. Ciliary muscle** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q625 — Axial length of eye ball is
-
-Axial length of eye ball is:
-
-- A. 16 mm
-- B. 20 mm
-- C. 24 mm
-- D. 28 mm
-
-<details><summary>Answer</summary>
-
-**C. 24 mm** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q626 — Sturms conoid refers to configuration of
-
-Sturm's conoid refers to configuration of the rays refracted through:
-
-- A. Concave spherical surface
-- B. Convex spherical surface
-- C. Toric surface
-- D. Irregular surface
-
-<details><summary>Answer</summary>
-
-**C. Toric surface** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q627 — Refractory error measured by all except
-
-Refractory error measured by all except ?
-
-- A. Keratometry
-- B. Retinoscopy
-- C. Refractometry
-- D. Spectrometry
-
-<details><summary>Answer</summary>
-
-**D. Spectrometry** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q628 — Anteroposterior change in length of eye
-
-Anteroposterior change in length of eye is called ?
-
-- A. Anisokonia
-- B. Curvatural anisotropia
-- C. Axial Ametropia
-- D. Emmetropia
-
-<details><summary>Answer</summary>
-
-**C. Axial Ametropia** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q629 — Poikilocytosis and anisocytosis is seen in
-
-Poikilocytosis and anisocytosis is seen in
-
-- A. Megaloblastic anaemia
-- B. Iron deficiency anaemia
-- C. Nutritional deficiency anaemia
-- D. Thalassemia
-
-<details><summary>Answer</summary>
-
-**B. Iron deficiency anaemia** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-### Q630 — Incidence of scar rupture in a
-
-Incidence of scar rupture in a subsequent preg​nancy in case of Lower Segment Cesarean Section (LSCS) is:
-
-- A. 2%
-- B. 4%
-- C. 5%
-- D. 8%
-
-<details><summary>Answer</summary>
-
-**A. 2%** — Source: Medicoholic 2015 PYQ compilation.
-
-</details>
-
----
-
----
-
-
-## Year 2016
-
-### Q631 — Why is clopidogrel preferred over ticlopidine *(2016)*
-
-Why is clopidogrel preferred over ticlopidine?
-
-- A. Lower incidence of neutropenia and thrombocytopenia
-- B. Lower incidence of dyslipidemia
-- C. Lower incidence of hyperglycemia
-- D. Lower incidence of postural hypotention
-
-<details><summary>Answer</summary>
-
-**A. Lower incidence of neutropenia and thrombocytopenia** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q632 — Sewer swabs are taken to detect *(2016)*
-
-Sewer swabs are taken to detect
-
-- A. Typhoid cases in community
-- B. Cholera cases in community
-- C. Typhoid carriers in community
-- D. Cholera carriers in community
-
-<details><summary>Answer</summary>
-
-**C. Typhoid carriers in community** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q633 — Antibody specificity is due to *(2016)*
-
-Antibody specificity is due to ?
-
-- A. Amino acid sequence at H chain
-- B. Amino acid sequence at L chain
-- C. Amino acid at carboxy terminal
-- D. Amino acid sequence at the amino terminal
-
-<details><summary>Answer</summary>
-
-**D. Amino acid sequence at the amino terminal** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q634 — Specificity of antibody is dependent on *(2016)*
-
-Specificity of antibody is dependent on ?
-
-- A. Fc portion
-- B. Fab region
-- C. Carboxy terminal
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**B. Fab region** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q635 — Standpipe in rural oreas is an *(2016)*
-
-Standpipe in rural oreas is an example of which principle of primary health care?
-
-- A. Equitable distribution
-- B. Community porticipation
-- C. Intersectoral coordination
-- D. Appropriate technology
-
-<details><summary>Answer</summary>
-
-**C. Intersectoral coordination** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q636 — Denominator in under -5 proportional mortality *(2016)*
-
-Denominator in under -5 proportional mortality rate?
-
-- A. Number of death under 5 years of age
-- B. Mid-year under - 5 population
-- C. Total deaths
-- D. Mid- year population
-
-<details><summary>Answer</summary>
-
-**C. Total deaths** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q637 — HALE is used to measure *(2016)*
-
-HALE is used to measure
-
-- A. Disability adjusted life expectancy
-- B. Healthy life expectancy
-- C. Quality adjusted life expectancy
-- D. Expectancy free of disability
-
-<details><summary>Answer</summary>
-
-**B. Healthy life expectancy** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q638 — Role of magnesium Mg in OPV *(2016)*
-
-Role of magnesium [Mg] in OPV?
-
-- A. Adjuvant
-- B. Preservative
-- C. Stabilizar
-- D. Antiinfective
-
-<details><summary>Answer</summary>
-
-**C. Stabilizar** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q639 — difference between descriptive and analytic studie *(2016)*
-
-The difference between descriptive and analytic studies?
-
-- A. Descriptive studies are used to test hypothesis
-- B. Analytic studies are used to formulate a hypothesis
-- C. Descriptive studies are first phase in epidemiology
-- D. Analytic studies observe distribution of disease
-
-<details><summary>Answer</summary>
-
-**C. Descriptive studies are first phase in epidemiology** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q640 — Strength of association of outcome and *(2016)*
-
-Strength of association of outcome and risk factor is measured by?
-
-- A. Relative risk
-- B. Attributable risk
-- C. Population attributable risk
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**A. Relative risk** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q641 — Important measure for National health policy *(2016)*
-
-Important measure for National health policy?
-
-- A. Relative risk
-- B. Odds ratio
-- C. Incidence
-- D. Attributable risk
-
-<details><summary>Answer</summary>
-
-**D. Attributable risk** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q642 — study that gives the prevalence of *(2016)*
-
-A study that gives the prevalence of delusion in the elderly at a given point of time?
-
-- A. Case-control study
-- B. Cohort study
-- C. Cross-sectional study
-- D. Ecological study
-
-<details><summary>Answer</summary>
-
-**C. Cross-sectional study** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q643 — 100 individuals are diagnosed with lung *(2016)*
-
-100 individuals are diagnosed with lung cancer in a population of 100000. Out of 100 patients, 80 were smokers and 20000 were smokers in totals population. What is PAR?
-
-- A. 60
-- B. 75
-- C. 80
-- D. 90
-
-<details><summary>Answer</summary>
-
-**B. 75** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q644 — True about standardization are all except *(2016)*
-
-True about standardization are all except?
-
-- A. Most commonly used for age differences
-- B. Direct standardization is used when population is large
-- C. Age specific rates are required in indirect standardization
-- D. All are correct
-
-<details><summary>Answer</summary>
-
-**C. Age specific rates are required in indirect standardization** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q645 — Standardization is most important for *(2016)*
-
-Standardization is most important for?
-
-- A. Sex distribution
-- B. Age distribution
-- C. Disease distribution
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Age distribution** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q646 — True about cohort study *(2016)*
-
-True about cohort study
-
-- A. Descriptive study
-- B. Incidence study
-- C. Proceeds from effect to cause
-- D. All are correct
-
-<details><summary>Answer</summary>
-
-**B. Incidence study** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q647 — milk Passive immunity is also provided *(2016)*
-
-Which milk? Passive immunity is also provided through colostrum and breast
-
-- A. IgG
-- B. IgA
-- C. IgE
-- D. IgM
-
-<details><summary>Answer</summary>
-
-**B. IgA** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q648 — Mid year population is estimated on *(2016)*
-
-Mid year population is estimated on ?
-
-- A. 1st March
-- B. 1st July
-- C. 1st April
-- D. 15th August
-
-<details><summary>Answer</summary>
-
-**B. 1st July** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q649 — Meningococcal vaccine contains *(2016)*
-
-Meningococcal vaccine contains ?
-
-- A. 50 mcg of polysccharide of each strain
-- B. 100 mcg of polysccharide of each strain
-- C. 1000 mcg of polysccharide of each strain
-- D. 5000 mcg of polysccharide of each strain
-
-<details><summary>Answer</summary>
-
-**A. 50 mcg of polysccharide of each strain** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q650 — Secondary attack rate of mumps *(2016)*
-
-Secondary attack rate of mumps:?
-
-- A. 75%
-- B. 85%
-- C. 95%
-- D. < 50%
-
-<details><summary>Answer</summary>
-
-**B. 85%** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q651 — Isolation period of TB *(2016)*
-
-Isolation period of TB ?
-
-- A. 2 days after treatment
-- B. 1 week after treatment
-- C. 2 weeks after treatment
-- D. 3 weeks after treatment
-
-<details><summary>Answer</summary>
-
-**D. 3 weeks after treatment** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q652 — Sensitivity of a screening test tells *(2016)*
-
-Sensitivity of a screening test tells about
-
-- A. Percentage of disease people among those with a positive test
-- B. Percentage of disease people among those with a negative test
-- C. Percentage of healthy people among those with a negative test
-- D. Percentage of healthy people among those with a positive test
-
-<details><summary>Answer</summary>
-
-**A. Percentage of disease people among those with a positive test** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q653 — If effective treatment for a disease *(2016)*
-
-If effective treatment for a disease is introduced in a community, what will be the effect on incidence [I] and prevalence [P] ?
-
-- A. No change in P & I
-- B. Both P & I will decrease
-- C. P will decrease & I will increase
-- D. P will decrease & I will remains the same
-
-<details><summary>Answer</summary>
-
-**D. P will decrease & I will remains the same** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q654 — screening test has sensitivity of 90 *(2016)*
-
-A screening test has sensitivity of 90% and specificity of 99%. The prevalence of disease under investigation is 5 per 1000 population. What is the PPV of the given screening test?
-
-- A. 10
-- B. 70
-- C. 33
-- D. 99
-
-<details><summary>Answer</summary>
-
-**C. 33** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q655 — Best indicator for spread of TB *(2016)*
-
-Best indicator for spread of TB in a community?
-
-- A. Annual infection rate
-- B. Prevalence of infection
-- C. Case rate
-- D. Incidence of new cases
-
-<details><summary>Answer</summary>
-
-**A. Annual infection rate** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q656 — For diagnosis of TB Sputum microscopy *(2016)*
-
-For diagnosis of TB, Sputum microscopy has ?
-
-- A. High sensitivity & high specificity
-- B. High sensitivity & low specificity
-- C. Low sensitivity & high specificity
-- D. Low sensitivity & low specificity
-
-<details><summary>Answer</summary>
-
-**D. Low sensitivity & low specificity** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q657 — Mammalian reservoir for R prowazekii *(2016)*
-
-Mammalian reservoir for R. prowazekii ?
-
-- A. Rodents
-- B. Dog
-- C. Cattle
-- D. Humans
-
-<details><summary>Answer</summary>
-
-**D. Humans** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q658 — Post-exposure prophylaxis is indicated in *(2016)*
-
-Post-exposure prophylaxis is indicated in ?
-
-- A. HBV
-- B. Rabies
-- C. Diphtheria
-- D. All
-
-<details><summary>Answer</summary>
-
-**D. All** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q659 — Healthy carrier is seen in *(2016)*
-
-Healthy carrier is seen in?
-
-- A. Measles
-- B. Rubella
-- C. Meningococcal meningits
-- D. Influanza
-
-<details><summary>Answer</summary>
-
-**C. Meningococcal meningits** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q660 — Diagnosis of filariasis is confirmed most *(2016)*
-
-Diagnosis of filariasis is confirmed most commonly?
-
-- A. Clinical features
-- B. Detection of microfilariae
-- C. PCR
-- D. Seralogical test
-
-<details><summary>Answer</summary>
-
-**B. Detection of microfilariae** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q661 — Maximum spread of malaria occurs in *(2016)*
-
-Maximum spread of malaria occurs in which month?
-
-- A. March-April
-- B. January-February
-- C. April-May
-- D. September - October
-
-<details><summary>Answer</summary>
-
-**D. September - October** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q662 — Reconstituted measles vaccine should be used *(2016)*
-
-Reconstituted measles vaccine should be used with in -
-
-- A. 1 hour
-- B. 3 hour
-- C. 6 hour
-- D. 12 hour
-
-<details><summary>Answer</summary>
-
-**A. 1 hour** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q663 — Major reservoir of KFD *(2016)*
-
-Major reservoir of KFD ?
-
-- A. Human
-- B. Squirrels
-- C. Cattle
-- D. Monkey
-
-<details><summary>Answer</summary>
-
-**B. Squirrels** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q664 — Threshold level of herd immunity for *(2016)*
-
-Threshold level of herd immunity for Pertussis is?
-
-- A. 80%
-- B. 70%
-- C. 90%
-- D. 50%
-
-<details><summary>Answer</summary>
-
-**C. 90%** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q665 — is the commonest form of plague *(2016)*
-
-What is the commonest form of plague?
-
-- A. Bubonic plague
-- B. Pneumonic plague
-- C. Septicaemic plague
-- D. Hemorrhagic plague
-
-<details><summary>Answer</summary>
-
-**A. Bubonic plague** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q666 — Prevalence of RHD in India in *(2016)*
-
-Prevalence of RHD in India in 5-15 years age group?
-
-- A. 1-2 per 1000
-- B. 5-7 per 1000
-- C. 10-12 per 1000
-- D. 13-15 per 1000
-
-<details><summary>Answer</summary>
-
-**B. 5-7 per 1000** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q667 — Jai Vigyan Mission mode project in *(2016)*
-
-Jai Vigyan Mission mode project in India is for?
-
-- A. Measles
-- B. TB
-- C. Rheumatic fever
-- D. STD
-
-<details><summary>Answer</summary>
-
-**C. Rheumatic fever** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q668 — does not have Live births as *(2016)*
-
-Which does not have Live births as denominator?
-
-- A. Infant mortality rate
-- B. Neonatal mortality rate
-- C. Child mortality rate
-- D. Child death rate
-
-<details><summary>Answer</summary>
-
-**D. Child death rate** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q669 — Dual record system is useful for *(2016)*
-
-Dual record system is useful for estimation of?
-
-- A. Literacy
-- B. Fertility
-- C. Population density
-- D. Sex ratio
-
-<details><summary>Answer</summary>
-
-**B. Fertility** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q670 — Perinatal mortality rate include which of *(2016)*
-
-Perinatal mortality rate include which of the following?
-
-- A. Abortions + Still birth early neonatal deaths
-- B. Still birth + early neonatal deaths
-- C. Abortions + early neonatal deaths
-- D. Deaths up to 42 dys after birth
-
-<details><summary>Answer</summary>
-
-**B. Still birth + early neonatal deaths** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q671 — Poor mans iron source is *(2016)*
-
-Poor man's iron source is?
-
-- A. Almond
-- B. Grapes
-- C. Soya
-- D. Jaggery
-
-<details><summary>Answer</summary>
-
-**D. Jaggery** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q672 — For every 100 kilocalories vitamin B *(2016)*
-
-For every 100 kilocalories, vitamin B, required is -
-
-- A. 0.05 mg
-- B. 0.5 mg
-- C. 5.0 mg
-- D. 1.0 gn
-
-<details><summary>Answer</summary>
-
-**A. 0.05 mg** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q673 — Gomez classification is based on *(2016)*
-
-Gomez classification is based on ?
-
-- A. Weight retardation
-- B. Height retardation
-- C. Mid arm circumference
-- D. Stunting
-
-<details><summary>Answer</summary>
-
-**A. Weight retardation** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q674 — Kanawati index is used for *(2016)*
-
-Kanawati index is used for ?
-
-- A. Air population
-- B. PEM
-- C. Obesity definition
-- D. Infectivity
-
-<details><summary>Answer</summary>
-
-**B. PEM** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q675 — Human milk with respect to cow *(2016)*
-
-Human milk with respect to cow milk has -
-
-- A. Less fat
-- B. Less protein
-- C. Less carbohydrate
-- D. a and b
-
-<details><summary>Answer</summary>
-
-**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q676 — common nutritional problem in India *(2016)*
-
-Most common nutritional problem in India?
-
-- A. Low birth weight
-- B. Fluorosis
-- C. Iran deficiency anemia
-- D. Vitamin A deficiency
-
-<details><summary>Answer</summary>
-
-**C. Iran deficiency anemia** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q677 — Not a primary air pollutant *(2016)*
-
-Not a primary air pollutant?
-
-- A. SO2
-- B. CO,
-- C. Ozon
-- D. VOCs
-
-<details><summary>Answer</summary>
-
-**C. Ozon** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q678 — Number of holes in mosquito net *(2016)*
-
-Number of holes in mosquito net [per sq. inch] ?
-
-- A. 50
-- B. 150
-- C. 100
-- D. 200
-
-<details><summary>Answer</summary>
-
-**B. 150** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q679 — In malaria control insecticide used for *(2016)*
-
-In malaria control, insecticide used for insectiside treated bed nets (ITBN)-
-
-- A. Deltamethrin
-- B. Malathion
-- C. Lindone
-- D. Fenitrothion
-
-<details><summary>Answer</summary>
-
-**A. Deltamethrin** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q680 — Test for coliform count *(2016)*
-
-Test for coliform count ?
-
-- A. Eijkman test
-- B. Casoni's test
-- C. Nitrate test
-- D. Urease test
-
-<details><summary>Answer</summary>
-
-**A. Eijkman test** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q681 — source of endogenous radiation is *(2016)*
-
-The source of endogenous radiation is
-
-- A. Radon
-- B. Potassium
-- C. Thorium
-- D. Uranium
-
-<details><summary>Answer</summary>
-
-**B. Potassium** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q682 — Range of flight of Aedes mosquito *(2016)*
-
-Range of flight of Aedes mosquito is ?
-
-- A. 1 km
-- B. Less than 100 m
-- C. 400 m
-- D. 10 kms
-
-<details><summary>Answer</summary>
-
-**B. Less than 100 m** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q683 — In positively skewed deviation *(2016)*
-
-In positively skewed deviation ?
-
-- A. Mean = Median = Mode
-- B. Mean > Medians > Mode
-- C. Mode > Median > Mean
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**B. Mean > Medians > Mode** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q684 — Chi-square test is for *(2016)*
-
-Chi-square test is for?
-
-- A. Standard error of Mean
-- B. Standard error of Proportion
-- C. Standard error of difference between 2 Means
-- D. Standard error of difference between Proportions
-
-<details><summary>Answer</summary>
-
-**D. Standard error of difference between Proportions** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q685 — number of Anganwadi workers supervised by *(2016)*
-
-The number of Anganwadi workers supervised by a Mukhyasevika is:
-
-- A. 10
-- B. 15
-- C. 25
-- D. 30
-
-<details><summary>Answer</summary>
-
-**C. 25** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q686 — of the following conditions must be *(2016)*
-
-Which of the following conditions must be fulfilled for a PHC to become a first referral unit ?
-
-- A. 4-6 beds
-- B. 15 workers
-- C. Emergency obsteric care
-- D. Basic laboratory services
-
-<details><summary>Answer</summary>
-
-**C. Emergency obsteric care** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q687 — Acculturation is *(2016)*
-
-Acculturation is?
-
-- A. Traige
-- B. Cultural changes due to socialisation
-- C. Attitude
-- D. Belief
-
-<details><summary>Answer</summary>
-
-**B. Cultural changes due to socialisation** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q688 — ICDS scheme is sponsored by *(2016)*
-
-The ICDS scheme is sponsored by
-
-- A. Ministry of health & family welfare
-- B. Ministry of Social welfare
-- C. Ministry of education
-- D. None
-
-<details><summary>Answer</summary>
-
-**B. Ministry of Social welfare** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q689 — International Red Cross was founded by *(2016)*
-
-International Red Cross was founded by:
-
-- A. Henry Dunant
-- B. John D Rockfeller
-- C. Marie Curie
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**A. Henry Dunant** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q690 — In RNTCP microscopic center is recommended *(2016)*
-
-In RNTCP microscopic center is recommended for how much population ?
-
-- A. 5000
-- B. 10000
-- C. 50000
-- D. 100000
-
-<details><summary>Answer</summary>
-
-**D. 100000** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q691 — of the following is Socratic method *(2016)*
-
-Which of the following is Socratic method of communication?
-
-- A. Lectures
-- B. Group discussion
-- C. Group discussion
-- D. Mass media
-
-<details><summary>Answer</summary>
-
-**B. Group discussion** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q692 — World heart day is celebrated on *(2016)*
-
-World heart day is celebrated on ?
-
-- A. 29th September
-- B. 28th September
-- C. 8th September
-- D. 1st December
-
-<details><summary>Answer</summary>
-
-**A. 29th September** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q693 — Minimum floor space recommended for worker *(2016)*
-
-Minimum floor space recommended for worker according to Factories Act?
-
-- A. 1000 Cu ft
-- B. 500 Cu ft
-- C. 200 Cu ft
-- D. 100 Cu ft
-
-<details><summary>Answer</summary>
-
-**B. 500 Cu ft** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q694 — Safety officer is recommended where factory *(2016)*
-
-Safety officer is recommended where factory has how many workers [In factory Act] ?
-
-- A. 250 or more
-- B. 500 or more
-- C. 1000 or more
-- D. 2000 or more
-
-<details><summary>Answer</summary>
-
-**C. 1000 or more** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q695 — Category 4 biomedical waste include *(2016)*
-
-Category 4 biomedical waste include ?
-
-- A. Human anatomical waste
-- B. Animal waste
-- C. Cytotoxic drug
-- D. Waste sharps
-
-<details><summary>Answer</summary>
-
-**D. Waste sharps** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q696 — One of the following is not *(2016)*
-
-One of the following is not true of International Classification of Disease -
-
-- A. It is revised once in 10 years
-- B. It was devised by UNICEF
-- C. The 10th revision consists of 21 major chapters
-- D. It is accepted for National and International use
-
-<details><summary>Answer</summary>
-
-**B. It was devised by UNICEF** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q697 — maxillary sinus opens into middle meatus *(2016)*
-
-The maxillary sinus opens into middle meatus at the level of:
-
-- A. Hiatus semilunaris
-- B. Bulla ethmoidalis
-- C. Infundibulum
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**A. Hiatus semilunaris** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q698 — fracture of the petrous bone will *(2016)*
-
-Which fracture of the petrous bone will cause facial nerve palsy:
-
-- A. Longitudinal fractures
-- B. Transverse fractures
-- C. Mastoid
-- D. Facial nerve injury is always complete
-
-<details><summary>Answer</summary>
-
-**B. Transverse fractures** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q699 — Ossicle MC involved in CSOM *(2016)*
-
-Ossicle M/C involved in CSOM:
-
-- A. Stapes
-- B. Long process of incus
-- C. Head of malleus
-- D. Handle of malleus
-
-<details><summary>Answer</summary>
-
-**B. Long process of incus** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q700 — Cristae are seen in *(2016)*
-
-Cristae are seen in?
-
-- A. Utricle
-- B. Saccule
-- C. Semicircular canal
-- D. Otolith membrane
-
-<details><summary>Answer</summary>
-
-**C. Semicircular canal** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q701 — Function of saccule is *(2016)*
-
-Function of saccule is?
-
-- A. Linear acceleration
-- B. Angular acceleration
-- C. Senses position of head
-- D. Rotational movement
-
-<details><summary>Answer</summary>
-
-**B. Angular acceleration** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q702 — semicircular canal is most commonly involved *(2016)*
-
-Which semicircular canal is most commonly involved in BPPV?
-
-- A. Horizontal
-- B. Posterior
-- C. Superior
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**B. Posterior** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q703 — common ossicle affected due to trauma *(2016)*
-
-Most common ossicle affected due to trauma -
-
-- A. Malleus
-- B. Incus
-- C. Stapes
-- D. All affected similarly
-
-<details><summary>Answer</summary>
-
-**B. Incus** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q704 — Threshold of hearing in a young *(2016)*
-
-Threshold of hearing in a young normal adult is ?
-
-- A. 0 dB
-- B. 10 dB
-- C. 20 dB
-- D. 30 dB
-
-<details><summary>Answer</summary>
-
-**A. 0 dB** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q705 — of the following are true about *(2016)*
-
-All of the following are true about malignant otitis externa except:
-
-- A. ESR is used for follow up after treatment
-- B. Granulation tissues are seen on superior wall of the external
-- C. Severe hearing loss is the chief presenting complaint
-- D. Pseudomonas is the most common cause
-
-<details><summary>Answer</summary>
-
-**C. Severe hearing loss is the chief presenting complaint** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q706 — Topodiagnosis of facial nerve has all *(2016)*
-
-Topodiagnosis of facial nerve has all the tests except
-
-- A. Schirmer test
-- B. Bing test
-- C. Taste test
-- D. Salivary flow test
-
-<details><summary>Answer</summary>
-
-**B. Bing test** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q707 — Korners septum is seen in *(2016)*
-
-Korner's septum is seen in ?
-
-- A. Petrosquamous suture
-- B. Temporosquamous suture
-- C. Petromastoid suture
-- D. Frontozygomatic suture
-
-<details><summary>Answer</summary>
-
-**A. Petrosquamous suture** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q708 — Quadrungular septum is seen in which *(2016)*
-
-Quadrungular septum is seen in which of the following?
-
-- A. Larynx
-- B. Nose
-- C. Cranium
-- D. Palate
-
-<details><summary>Answer</summary>
-
-**B. Nose** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q709 — Nasal vestibule is *(2016)*
-
-Nasal vestibule is
-
-- A. Lateral part of nasal cavity
-- B. Antero - inferior part of nasal cavity
-- C. Supero - medial part of nose
-- D. Posterior aperture of nose
-
-<details><summary>Answer</summary>
-
-**B. Antero - inferior part of nasal cavity** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q710 — Killians polyp is aan *(2016)*
-
-Killian's polyp is a/an
-
-- A. Antrochoanal polyp
-- B. Ethmoidal polyp
-- C. Frontal polyp
-- D. Maxillary polyp
-
-<details><summary>Answer</summary>
-
-**A. Antrochoanal polyp** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q711 — of the following is the predisposing *(2016)*
-
-Which of the following is the predisposing factor for ethmoidal carcinoma
-
-- A. Smoking
-- B. Alcohol
-- C. Chronic infection
-- D. All of the above
-
-<details><summary>Answer</summary>
-
-**A. Smoking** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q712 — common sinus predisposed to malignancy which *(2016)*
-
-Most common sinus predisposed to malignancy which of the following?
-
-- A. Ethmoid
-- B. Maxillary
-- C. Frontal
-- D. Sphenoid
-
-<details><summary>Answer</summary>
-
-**B. Maxillary** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q713 — common benign tumor of paranasal sinuses *(2016)*
-
-Most common benign tumor of paranasal sinuses?
-
-- A. Papilloma
-- B. Osteoma
-- C. Warts
-- D. Fibroma
-
-<details><summary>Answer</summary>
-
-**B. Osteoma** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q714 — of the following are true about *(2016)*
-
-All of the following are true about parapharyngeal abscess except?
-
-- A. Mastoid process divides the space into anterior and posterior
-- B. Also known as pharyngomaxillary space infection
-- C. Tonsil is pushed medially
-- D. Occurs after tooth extraction
-
-<details><summary>Answer</summary>
-
-**A. Mastoid process divides the space into anterior and posterior** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q715 — Trismus in parapharyngeal abscess is due *(2016)*
-
-Trismus in parapharyngeal abscess is due to spasm of:
-
-- A. Masseter muscle
-- B. Medial pterygoid
-- C. Lateral pterygoid
-- D. Temporalis
-
-<details><summary>Answer</summary>
-
-**B. Medial pterygoid** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q716 — Select correct statements about Ca larynx *(2016)*
-
-Select correct statements about Ca larynx:
-
-- A. Glottic Ca is the most common
-- B. Supraglottic ca has best prognosis
-- C. Lymphatic spread is the most common in subglottic Ca
-- D. All
-
-<details><summary>Answer</summary>
-
-**A. Glottic Ca is the most common** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q717 — of the following sites of Ca *(2016)*
-
-Which of the following sites of Ca larynx has the best prognosis?
-
-- A. Glottic
-- B. Supraglottis
-- C. Subgottis
-- D. All have poor prognosis
-
-<details><summary>Answer</summary>
-
-**A. Glottic** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q718 — common site of distant metastasis from *(2016)*
-
-Most common site of distant metastasis from Ca larynx
-
-- A. Lymph nodes
-- B. Lung
-- C. Brain
-- D. Bone
-
-<details><summary>Answer</summary>
-
-**B. Lung** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q719 — Esophagus is constricted at 4 anatomic *(2016)*
-
-Esophagus is constricted at 4 anatomic locations. Narrowest part of esophagus lies at which of the following constriction?
-
-- A. At the level of cricopharyngeal sphincter
-- B. At the crossing of aortic arch
-- C. At the crossing of left bronchus
-- D. At the level of opening in the diaphragm
-
-<details><summary>Answer</summary>
-
-**A. At the level of cricopharyngeal sphincter** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q720 — Food particles mostly get obstructed in *(2016)*
-
-Food particles mostly get obstructed in which part of esophagus -
-
-- A. Cricopharyngeal sphincter
-- B. Crossing of arch of aorta
-- C. Cardiac end
-- D. None of the above
-
-<details><summary>Answer</summary>
-
-**A. Cricopharyngeal sphincter** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q721 — True regarding traction diverticuli of esophagus *(2016)*
-
-True regarding traction diverticuli of esophagus is all except
-
-- A. Does not empty completely
-- B. Triangular appearance
-- C. Contains all layers
-- D. Maintains elastic recoil
-
-<details><summary>Answer</summary>
-
-**A. Does not empty completely** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q722 — Radical mastoidectomy is done for *(2016)*
-
-Radical mastoidectomy is done for:
-
-- A. ASOM
-- B. CSOM
-- C. Atticoantral cholesteotoma
-- D. Acute mastoiditis
-
-<details><summary>Answer</summary>
-
-**C. Atticoantral cholesteotoma** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q723 — Sluders neuralgia is also called as *(2016)*
-
-Sluder's neuralgia is also called as
-
-- A. Anterior ethmoidal syndrome
-- B. Posterior ethmoidal syndrome
-- C. Trotter syndrome
-- D. Lermoyez syndrome
-
-<details><summary>Answer</summary>
-
-**A. Anterior ethmoidal syndrome** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q724 — Styloid process is derived from *(2016)*
-
-Styloid process is derived from ?
-
-- A. 1st arch
-- B. 2nd arch
-- C. 3rd arch
-- D. 4th arch
-
-<details><summary>Answer</summary>
-
-**B. 2nd arch** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q725 — common cause of singers nodule is *(2016)*
-
-Most common cause of singer's nodule is ?
-
-- A. Infection
-- B. Allergy
-- C. Vocal abuse
-- D. None
-
-<details><summary>Answer</summary>
-
-**C. Vocal abuse** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q726 — Deafness in a case of Pagets *(2016)*
-
-Deafness in a case of Paget's disease is due to
-
-- A. Retraction pockets
-- B. Otitis
-- C. Eight nerve involvement
-- D. Endolymphatic hydrops
-
-<details><summary>Answer</summary>
-
-**C. Eight nerve involvement** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q727 — Snellens chart is used to test *(2016)*
-
-Snellen's chart is used to test:
-
-- A. Vision
-- B. Refraction
-- C. Presbyopia
-- D. Colour blindness
-
-<details><summary>Answer</summary>
-
-**A. Vision** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q728 — Listers perimeter is used for *(2016)*
-
-Listers perimeter is used for
-
-- A. Kinetic Visual field testing
-- B. Static Visual field testing
-- C. Both kinetic and static visual testing
-- D. None of these
-
-<details><summary>Answer</summary>
-
-**A. Kinetic Visual field testing** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q729 — is the type of Goldman tonometry *(2016)*
-
-What is the type of Goldman tonometry?
-
-- A. Applanation Tonometry
-- B. Dynamic countour tonometry
-- C. Rebound tonometry
-- D. Impression tonometry
-
-<details><summary>Answer</summary>
-
-**A. Applanation Tonometry** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q730 — Conjunctival staining is done by all *(2016)*
-
-Conjunctival staining is done by all except
-
-- A. Fluoroscein
-- B. India ink
-- C. Rose Bengal
-- D. Lissamine
-
-<details><summary>Answer</summary>
-
-**B. India ink** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q731 — Gene for eye morphogenesis *(2016)*
-
-Gene for eye morphogenesis
-
-- A. Pax-6
-- B. BMP-4
-- C. HOX-D13
-- D. HOX-A13
-
-<details><summary>Answer</summary>
-
-**A. Pax-6** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q732 — Purkinje image test is used in *(2016)*
-
-Purkinje image test is used in
-
-- A. Keratomoter
-- B. Retinoscopy
-- C. Optical coherence tomography
-- D. Pachymeter
-
-<details><summary>Answer</summary>
-
-**D. Pachymeter** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q733 — Transport of Ascorbic acid to lens *(2016)*
-
-Transport of Ascorbic acid to lens is done by which of the following?
-
-- A. Myoinositol
-- B. Choline
-- C. Taurine
-- D. Na-K ATPase
-
-<details><summary>Answer</summary>
-
-**D. Na-K ATPase** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q734 — Phacoemulsification uses *(2016)*
-
-Phacoemulsification uses
-
-- A. High frequency sound waves
-- B. Infrared waves
-- C. Ultraviolet rays
-- D. None of these
-
-<details><summary>Answer</summary>
-
-**A. High frequency sound waves** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q735 — Keeth Wagner classification is for *(2016)*
-
-Keeth Wagner classification is for
-
-- A. Hypertensive retinopathy
-- B. Diabetic maculpathy
-- C. CRVO
-- D. CRAO
-
-<details><summary>Answer</summary>
-
-**A. Hypertensive retinopathy** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q736 — are seen in non-proliferative diabetic retinopathy *(2016)*
-
-All are seen in non-proliferative diabetic retinopathy except ?
-
-- A. Microaneurysm
-- B. Neovascularization
-- C. Hard exudates
-- D. Macular edema
-
-<details><summary>Answer</summary>
-
-**B. Neovascularization** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q737 — one of the following statement is *(2016)*
-
-Which one of the following statement is true of undescended testis -
-
-- A. Usually descends spontaneously at puberty
-- B. Orchipexy to be done if no descent by puberty
-- C. Has a higher incidence of malignancy
-- D. Maintains normal sperm production
-
-<details><summary>Answer</summary>
-
-**C. Has a higher incidence of malignancy** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q738 — Prevalence of omphalocele at birth is *(2016)*
-
-Prevalence of omphalocele at birth is
-
-- A. 1 in 100 live births
-- B. 1 in 2000 live births
-- C. 1 in 4000 live births
-- D. 1 in 10,000 live births
-
-<details><summary>Answer</summary>
-
-**C. 1 in 4000 live births** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q739 — Prevalence of breech presentation at full *(2016)*
-
-Prevalence of breech presentation at full term is ?
-
-- A. 10%
-- B. 6-7%
-- C. 3-4%
-- D. 1-2%
-
-<details><summary>Answer</summary>
-
-**C. 3-4%** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q740 — important factor in causation of Ingrown *(2016)*
-
-Most important factor in causation of Ingrown toe nail is?
-
-- A. Fungal infection
-- B. Ill fitting shoes
-- C. Genetic predisposition
-- D. Nutritional deficiency
-
-<details><summary>Answer</summary>
-
-**B. Ill fitting shoes** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
----
-
----
-
-### Q741 — of the following is not true *(2016)*
-
-Which of the following is not true for scabies?
-
-- A. Wrist is common site in children
-- B. Burrows are intradermal lesions
-- C. Papules and pustules are due to hypersensitivity to mite
-- D. Itching generalized
-
-<details><summary>Answer</summary>
-
-**B. Burrows are intradermal lesions** — Source: Medicoholic 2016 PYQ compilation.
-
-</details>
-
----
-
-
-
----
-
----
-
-
-## Year 2017
-
-### Q742 — New RNTCP software online to monitor TB
-
-New RNTCP software online to monitor TB control programme is-
-
-- A. NIKSHAY
-- B. NICHAY
-- C. E- DOTS
-- D. NIRBHAI
-
-<details><summary>Answer</summary>
-
-**A. NIKSHAY** — Source: NEET-PG 2017 medicoholic.com
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#137 | OPTIONS_GENERATED: false -->
-
----
-
-### Q743 — Pasteurization is done at
-
-Pasteurization is done at-
-
-- A. 73 oC For 20 min
-- B. 63 oC For 30 min
-- C. 72 oC For 30 seconds
-- D. 63oC For 30 seconds
-
-<details><summary>Answer</summary>
-
-**B. 63 oC For 30 min** — Source: NEET-PG 2017 medicoholic.com
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#144 | OPTIONS_GENERATED: false -->
-
----
-
-### Q744 — Susceptible person developed disease within range of
-
-Susceptible person developed disease within range of IP after coming in contact with primary case -
-
-- A. Secondary attack rate
-- B. Case fatality rate
-- C. Primary attack rate
-- D. Tertiary attack rate
-
-<details><summary>Answer</summary>
-
-**A. Secondary attack rate** — Source: NEET-PG 2017 medicoholic.com
-
-</details>
-
-<!-- SOURCE: NEET-PG-2017 medicoholic.com PDF | Original Q#146 | OPTIONS_GENERATED: false -->
-
----
-
