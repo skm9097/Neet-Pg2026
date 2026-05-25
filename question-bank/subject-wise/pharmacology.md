@@ -864,7 +864,7 @@ Volume of distribution depends upon all except ?
 
 <details><summary>Answer</summary>
 
-**D. Half life of drug** — Source: Medicoholic 2015 PYQ compilation.
+**D. Half life of drug** — Vd = dose/plasma concentration; depends on dose, absorption, plasma concentration, and tissue binding — NOT on elimination half-life.
 
 </details>
 
@@ -882,7 +882,7 @@ High volume of distribution depends on ?
 
 <details><summary>Answer</summary>
 
-**B. Lipid solubility** — Source: Medicoholic 2015 PYQ compilation.
+**B. Lipid solubility** — Lipid-soluble drugs cross membranes freely and sequester in fat/tissue compartments, producing very high apparent volume of distribution.
 
 </details>
 
@@ -900,7 +900,7 @@ Physiological antagonists are ?
 
 <details><summary>Answer</summary>
 
-**B. Histamine and adrenaline** — Source: Medicoholic 2015 PYQ compilation.
+**B. Histamine and adrenaline** — Physiological antagonists act on different receptors producing opposite effects; histamine vasodilates/bronchoconstricts while adrenaline does opposite via alpha/beta receptors.
 
 </details>
 
@@ -918,7 +918,7 @@ Which of the following is non-selective 3rd generation Beta blocker ?
 
 <details><summary>Answer</summary>
 
-**C. Carteolol** — Source: Medicoholic 2015 PYQ compilation.
+**C. Carteolol** — Carteolol is a non-selective third-generation beta blocker with additional intrinsic sympathomimetic activity and nitric-oxide-mediated vasodilation.
 
 </details>
 
@@ -936,7 +936,7 @@ Which of the following is non-selective 3rd generation Beta blocker ?
 
 <details><summary>Answer</summary>
 
-**A. Muscarinic** — Source: Medicoholic 2015 PYQ compilation.
+**A. Muscarinic** — Hyoscine (scopolamine) is a competitive muscarinic receptor antagonist crossing the blood-brain barrier; used for motion sickness and antisialagogue effect.
 
 </details>
 
@@ -954,7 +954,7 @@ Which among the following is renin antagonist?
 
 <details><summary>Answer</summary>
 
-**C. Remikiren** — Source: Medicoholic 2015 PYQ compilation.
+**C. Remikiren** — Remikiren is a direct renin inhibitor blocking conversion of angiotensinogen to angiotensin I; losartan/benazepril/imidapril act downstream on AT1/ACE.
 
 </details>
 
@@ -972,7 +972,7 @@ Antihypertensive drug causing erectile dysfunction?
 
 <details><summary>Answer</summary>
 
-**D. 13-blockers** — Source: Medicoholic 2015 PYQ compilation.
+**D. 13-blockers** — Beta-blockers reduce sympathetic outflow and lower nitric oxide availability in penile vasculature, classically producing erectile dysfunction as a side-effect.
 
 </details>
 
@@ -990,7 +990,7 @@ Which of the following adverse effect of ACE inhibitors is not due to bradykinin
 
 <details><summary>Answer</summary>
 
-**C. Hypotension** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hypotension** — Hypotension reflects reduced angiotensin-II vasoconstriction; cough and angioedema are bradykinin-mediated via inhibited kininase II degradation.
 
 </details>
 
@@ -1008,7 +1008,7 @@ Which ACE inhibitor in safe in renal failure ?
 
 <details><summary>Answer</summary>
 
-**C. Benazapril** — Source: Medicoholic 2015 PYQ compilation.
+**C. Benazapril** — Benazepril undergoes predominantly hepatobiliary excretion, making it the preferred ACE inhibitor when renal clearance is impaired.
 
 </details>
 
@@ -1026,7 +1026,7 @@ Spironolactone agent: should NOT be given with the following pharmacological
 
 <details><summary>Answer</summary>
 
-**C. ACE inhibitors** — Source: Medicoholic 2015 PYQ compilation.
+**C. ACE inhibitors** — Spironolactone (aldosterone antagonist) plus ACE inhibitors both reduce potassium excretion, producing dangerous hyperkalemia when combined.
 
 </details>
 
@@ -1044,7 +1044,7 @@ Mechanism of action of opioids ?
 
 <details><summary>Answer</summary>
 
-**D. Inhibition of opioid receptors at spinal and supraspinal level** — Source: Medicoholic 2015 PYQ compilation.
+**D. Inhibition of opioid receptors at spinal and supraspinal level** — Opioids activate mu, kappa, delta Gi-coupled receptors at both spinal dorsal horn and supraspinal sites, inhibiting nociceptive transmission.
 
 </details>
 
@@ -1062,7 +1062,7 @@ Beta blockers used in thyroid storm cause ?
 
 <details><summary>Answer</summary>
 
-**A. Quick relief of symptoms** — Source: Medicoholic 2015 PYQ compilation.
+**A. Quick relief of symptoms** — Beta-blockers (propranolol) rapidly antagonize sympathetic hyperactivity symptoms — tachycardia, tremor, anxiety — without altering thyroid hormone synthesis.
 
 </details>
 
@@ -1080,7 +1080,7 @@ Long acting 13-2 agonist is ?
 
 <details><summary>Answer</summary>
 
-**A. Formoterol** — Source: Medicoholic 2015 PYQ compilation.
+**A. Formoterol** — Formoterol is a long-acting beta-2 agonist (LABA) with 12-hour duration; salbutamol/isoprenaline/ephedrine are short-acting bronchodilators.
 
 </details>
 
@@ -1098,7 +1098,7 @@ Mechanism of action of ticagrelor ?
 
 <details><summary>Answer</summary>
 
-**D. P2Y12 receptor antagonist** — Source: Medicoholic 2015 PYQ compilation.
+**D. P2Y12 receptor antagonist** — Ticagrelor reversibly antagonizes the P2Y12 ADP receptor on platelets, blocking ADP-induced activation and aggregation without requiring hepatic activation.
 
 </details>
 
@@ -1116,7 +1116,7 @@ Mechanism of action of ticgrelor ?
 
 <details><summary>Answer</summary>
 
-**A. Reversible inhibition of ADP action** — Source: Medicoholic 2015 PYQ compilation.
+**A. Reversible inhibition of ADP action** — Ticagrelor reversibly inhibits ADP-mediated platelet activation at the P2Y12 receptor, unlike irreversible thienopyridines clopidogrel and prasugrel.
 
 </details>
 
@@ -1134,7 +1134,7 @@ Which of the following is a PAR antagonist ?
 
 <details><summary>Answer</summary>
 
-**D. Vorapaxar** — Source: Medicoholic 2015 PYQ compilation.
+**D. Vorapaxar** — Vorapaxar antagonizes the PAR-1 (protease-activated receptor-1) on platelets, blocking thrombin-induced platelet aggregation.
 
 </details>
 
@@ -1152,7 +1152,7 @@ Rebound increase in gastric acid secretion after stopping proton pump inhibitor 
 
 <details><summary>Answer</summary>
 
-**C. Hypergastrinemia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hypergastrinemia** — PPI-induced achlorhydria triggers compensatory gastrin release; on stopping, hypergastrinemia stimulates parietal cells producing rebound acid hypersecretion.
 
 </details>
 
@@ -1170,7 +1170,7 @@ Drug of choice for drug induced peptic ulcer ?
 
 <details><summary>Answer</summary>
 
-**C. Proton pump inhibitors** — Source: Medicoholic 2015 PYQ compilation.
+**C. Proton pump inhibitors** — Proton pump inhibitors irreversibly block H+/K+-ATPase, giving maximal acid suppression and fastest healing for NSAID-induced peptic ulcer.
 
 </details>
 
@@ -1188,7 +1188,7 @@ Statin having longest half life:
 
 <details><summary>Answer</summary>
 
-**A. Rosuvastatin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Rosuvastatin** — Rosuvastatin has the longest plasma half-life (~19 hours) among statins, allowing flexible once-daily dosing irrespective of time.
 
 </details>
 
@@ -1206,7 +1206,7 @@ Gametocidal antimalarial drug for all species of plasmodium ?
 
 <details><summary>Answer</summary>
 
-**C. Primaquine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Primaquine** — Primaquine is gametocidal against all Plasmodium species and the only drug killing hypnozoites of P. vivax/ovale (radical cure).
 
 </details>
 
@@ -1224,7 +1224,7 @@ Idoxuridine is used for treatment of ?
 
 <details><summary>Answer</summary>
 
-**C. HSV** — Source: Medicoholic 2015 PYQ compilation.
+**C. HSV** — Idoxuridine is a thymidine analog incorporated into viral DNA, used topically for herpes simplex virus keratitis (dendritic ulcer).
 
 </details>
 
@@ -1242,7 +1242,7 @@ Half life of Nicotine in blood ?
 
 <details><summary>Answer</summary>
 
-**B. 2 hours** — Source: Medicoholic 2015 PYQ compilation.
+**B. 2 hours** — Nicotine has a plasma half-life of approximately 2 hours, metabolized by CYP2A6 to cotinine, which is used as exposure marker.
 
 </details>
 
@@ -1260,7 +1260,7 @@ Sex with cadaver is called -
 
 <details><summary>Answer</summary>
 
-**A. Necrophilia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Necrophilia** — Necrophilia is paraphilic sexual gratification obtained from sexual contact with corpses — a forensic/psychiatric perversion.
 
 </details>
 
@@ -1278,7 +1278,7 @@ Sexual gratification by inflicting pain on partner -
 
 <details><summary>Answer</summary>
 
-**B. Sadism** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sadism** — Sadism is sexual gratification derived from inflicting physical or psychological pain on a partner — opposite of masochism.
 
 </details>
 
@@ -1296,7 +1296,7 @@ Masochism means: TN 09
 
 <details><summary>Answer</summary>
 
-**C. Sexual pleasure by suffering of pain** — Source: Medicoholic 2015 PYQ compilation.
+**C. Sexual pleasure by suffering of pain** — Masochism is achievement of sexual pleasure by suffering pain, humiliation, or beating from the partner — counterpart of sadism.
 
 </details>
 
@@ -1314,7 +1314,7 @@ Sexual gratification obtained by enema is called -
 
 <details><summary>Answer</summary>
 
-**C. Klismaphillia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Klismaphillia** — Klismaphilia is paraphilic sexual gratification derived from receiving enemas, classified among uncommon paraphilic disorders.
 
 </details>
 
@@ -1332,7 +1332,7 @@ Absorption elution technique is used for -
 
 <details><summary>Answer</summary>
 
-**A. Blood group detection** — Source: Medicoholic 2015 PYQ compilation.
+**A. Blood group detection** — Absorption-elution technique detects ABO blood group antigens from dried bloodstains by binding then eluting specific antibodies for grouping.
 
 </details>
 
@@ -1350,7 +1350,7 @@ Test to know the species from blood stain is -
 
 <details><summary>Answer</summary>
 
-**C. Precipitin test** — Source: Medicoholic 2015 PYQ compilation.
+**C. Precipitin test** — Precipitin test uses species-specific anti-human antibodies producing visible precipitin band, confirming human origin of a bloodstain.
 
 </details>
 
@@ -1368,7 +1368,7 @@ All of the following are true for ingestion of acid except -
 
 <details><summary>Answer</summary>
 
-**D. Systemic symptoms are severe** — Source: Medicoholic 2015 PYQ compilation.
+**D. Systemic symptoms are severe** — Acid ingestion causes coagulative necrosis with eschar limiting penetration; systemic symptoms are mild, unlike alkalis which cause liquefactive deep injury.
 
 </details>
 
@@ -1386,7 +1386,7 @@ Least toxic form of lead is -
 
 <details><summary>Answer</summary>
 
-**D. Lead sulphide** — Source: Medicoholic 2015 PYQ compilation.
+**D. Lead sulphide** — Lead sulphide (galena) is highly insoluble in gastric fluid, minimizing intestinal absorption, making it the least bioavailable and least toxic lead form.
 
 </details>
 

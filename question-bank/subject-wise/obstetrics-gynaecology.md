@@ -11493,7 +11493,7 @@ The uterine artery is a branch of which of the following?
 
 <details><summary>Answer</summary>
 
-**B. Internal iliac artery** — Source: Medicoholic 2015 PYQ compilation.
+**B. Internal iliac artery** — Uterine artery arises from anterior division of internal iliac artery; crosses ureter at level of cervix (water under bridge).
 
 </details>
 
@@ -11511,7 +11511,7 @@ Ovarian artery is a branch of:
 
 <details><summary>Answer</summary>
 
-**C. Abdominal part of the aorta** — Source: Medicoholic 2015 PYQ compilation.
+**C. Abdominal part of the aorta** — Ovarian arteries arise directly from abdominal aorta at L2 level, below renal arteries; reflects ovary's embryonic origin near kidney.
 
 </details>
 
@@ -11529,7 +11529,7 @@ Labour pain in uterus is carried by
 
 <details><summary>Answer</summary>
 
-**B. Sympathetic nerves** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sympathetic nerves** — Uterine body pain travels via sympathetic fibers through T10-L1 (Frankenhauser plexus); basis for lumbar epidural analgesia in first stage labour.
 
 </details>
 
@@ -11547,7 +11547,7 @@ True about fallopian tubes are all except :
 
 <details><summary>Answer</summary>
 
-**A. Lined by cuboidal epithelium** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lined by cuboidal epithelium** — Fallopian tubes are lined by ciliated columnar epithelium (not cuboidal); cilia propel ovum toward uterus; derived from Mullerian ducts.
 
 </details>
 
@@ -11565,7 +11565,7 @@ Lining epithelium of vagina is
 
 <details><summary>Answer</summary>
 
-**A. Squamous epithelium** — Source: Medicoholic 2015 PYQ compilation.
+**A. Squamous epithelium** — Vagina is lined by non-keratinized stratified squamous epithelium; estrogen-dependent glycogen accumulation feeds Lactobacilli maintaining acidic pH 3.5-4.5.
 
 </details>
 
@@ -11583,7 +11583,7 @@ CEA is increased in which non- neoplastic condition
 
 <details><summary>Answer</summary>
 
-**C. BPH** — Source: Medicoholic 2015 PYQ compilation.
+**C. BPH** — CEA elevates in benign prostatic hyperplasia, smoking, IBD, cirrhosis; non-specific marker, mainly used for colorectal cancer surveillance.
 
 </details>
 
@@ -11601,7 +11601,7 @@ What is true about sickle cell -
 
 <details><summary>Answer</summary>
 
-**C. Sickling is reversible with oxygenation** — Source: Medicoholic 2015 PYQ compilation.
+**C. Sickling is reversible with oxygenation** — HbS polymerization on deoxygenation is reversible upon reoxygenation; repeated cycles cause membrane damage and irreversible sickling over time.
 
 </details>
 
@@ -11619,7 +11619,7 @@ Which antithyroid drug crosses placenta ?
 
 <details><summary>Answer</summary>
 
-**C. Both** — Source: Medicoholic 2015 PYQ compilation.
+**C. Both** — Both carbimazole and PTU cross placenta; PTU preferred in first trimester (less teratogenic), carbimazole/methimazole used in second-third trimesters.
 
 </details>
 
@@ -11637,7 +11637,7 @@ Last organ to putrefy in females is: BHU 12
 
 <details><summary>Answer</summary>
 
-**B. Uterus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Uterus** — Non-gravid uterus is last to putrefy in females due to thick muscular wall and dense connective tissue; prostate is last in males.
 
 </details>
 
@@ -11655,7 +11655,7 @@ To examine the vaginal cells in of the rape victim test used is -
 
 <details><summary>Answer</summary>
 
-**A. Lugol's iodine test** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lugol's iodine test** — Lugol's iodine stains glycogen-rich vaginal squamous cells mahogany brown; identifies vaginal epithelial cells on penile/clothing swabs in sexual assault.
 
 </details>
 
@@ -11673,7 +11673,7 @@ Tennis racket cells is seen in -
 
 <details><summary>Answer</summary>
 
-**A. Sarcoma botyroides** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sarcoma botyroides** — Sarcoma botryoides (embryonal rhabdomyosarcoma) shows tennis-racket-shaped strap cells with cross-striations and cambium layer beneath vaginal epithelium in children.
 
 </details>
 
@@ -11691,7 +11691,7 @@ Most common site for staphylococcus carrier:
 
 <details><summary>Answer</summary>
 
-**B. Nose** — Source: Medicoholic 2015 PYQ compilation.
+**B. Nose** — Anterior nares are the primary reservoir of Staphylococcus aureus; 20-30% of population are persistent carriers, source of nosocomial infections.
 
 </details>
 
@@ -11709,7 +11709,7 @@ IgM appears in fetus at what gestational age -
 
 <details><summary>Answer</summary>
 
-**B. 20 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**B. 20 weeks** — Fetal IgM synthesis begins around 20 weeks gestation; elevated cord IgM at birth indicates intrauterine infection (TORCH) since IgM doesn't cross placenta.
 
 </details>
 
@@ -11727,7 +11727,7 @@ Which does not stimulate active immunity -
 
 <details><summary>Answer</summary>
 
-**D. Transplacental antibody in newborn** — Source: Medicoholic 2015 PYQ compilation.
+**D. Transplacental antibody in newborn** — Transplacental maternal IgG antibodies confer passive immunity to newborn; no antigen exposure or memory cell generation occurs in the infant.
 
 </details>
 
@@ -11745,7 +11745,7 @@ Newborn care corner is present in ?
 
 <details><summary>Answer</summary>
 
-**C. Labour room** — Source: Medicoholic 2015 PYQ compilation.
+**C. Labour room** — Newborn Care Corner is mandatory designated space within labour room for immediate essential newborn care; ensures resuscitation within golden minute.
 
 </details>
 
@@ -11763,7 +11763,7 @@ Hemoglobin with zeta 2 and gamma 2 chains are seen in which of the following
 
 <details><summary>Answer</summary>
 
-**C. Portland** — Source: Medicoholic 2015 PYQ compilation.
+**C. Portland** — Hb Portland = zeta2-gamma2; embryonic hemoglobin in yolk sac. Gower I = zeta2-epsilon2, Gower II = alpha2-epsilon2, HbF = alpha2-gamma2.
 
 </details>
 
@@ -11781,7 +11781,7 @@ Which of the following precancerous conditions if treated would not lead to canc
 
 <details><summary>Answer</summary>
 
-**A. Cervical intraepithelial Neoplasia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cervical intraepithelial Neoplasia** — CIN treated with LEEP/cryotherapy has near 100% cure; HPV-driven dysplasia is reversible if eradicated before invasion through basement membrane.
 
 </details>
 
@@ -11799,7 +11799,7 @@ The fetal circulation changes to normal circulation at birth with
 
 <details><summary>Answer</summary>
 
-**A. Closure of patent ductus arteriosus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Closure of patent ductus arteriosus** — Functional closure of ductus arteriosus within 24-48 hours via rising PaO2 and falling prostaglandins; anatomical closure forms ligamentum arteriosum.
 
 </details>
 
@@ -11817,7 +11817,7 @@ Which of the following is not a cause of neonatal anaemia?
 
 <details><summary>Answer</summary>
 
-**D. Wilson's Disease** — Source: Medicoholic 2015 PYQ compilation.
+**D. Wilson's Disease** — Wilson's disease (ATP7B copper transporter defect) causes hemolytic anemia later in childhood/adolescence, not neonatal period; copper accumulation takes years.
 
 </details>
 
@@ -11835,7 +11835,7 @@ Most common antigen involved in erythroblastosis fetalis is
 
 <details><summary>Answer</summary>
 
-**B. D antigen in Rh group** — Source: Medicoholic 2015 PYQ compilation.
+**B. D antigen in Rh group** — Rh D antigen is most immunogenic; D-negative mother sensitized by D-positive fetal RBCs produces IgG anti-D crossing placenta in subsequent pregnancy.
 
 </details>
 
@@ -11853,7 +11853,7 @@ Further investigation is essential in a newborn with which condition?
 
 <details><summary>Answer</summary>
 
-**D. Lens opacity** — Source: Medicoholic 2015 PYQ compilation.
+**D. Lens opacity** — Congenital cataract (leucocoria) indicates TORCH infection, galactosemia, or genetic syndrome; needs urgent workup to prevent amblyopia and identify systemic disease.
 
 </details>
 
@@ -11871,7 +11871,7 @@ Most common cause of ca4ral tunnel syndrome is ?
 
 <details><summary>Answer</summary>
 
-**B. Idiopathic** — Source: Medicoholic 2015 PYQ compilation.
+**B. Idiopathic** — Idiopathic carpal tunnel syndrome is most common; pregnancy causes transient compression via fluid retention. Median nerve compressed under flexor retinaculum.
 
 </details>
 
@@ -11889,7 +11889,7 @@ When fetus is at station +2 & fetal skull reaches pelvic floor, which of the fol
 
 <details><summary>Answer</summary>
 
-**A. Forceps can be applied** — Source: Medicoholic 2015 PYQ compilation.
+**A. Forceps can be applied** — Station +2 with skull on pelvic floor meets criteria for outlet forceps application; vertex visible, sagittal suture in AP diameter.
 
 </details>
 
@@ -11907,7 +11907,7 @@ In Medical termination of pregnancy, according to FDA, Misoprostol is given afte
 
 <details><summary>Answer</summary>
 
-**B. 48 hours** — Source: Medicoholic 2015 PYQ compilation.
+**B. 48 hours** — Mifepristone (antiprogestin) blocks progesterone receptors; misoprostol (PGE1) given 48 hours later induces uterine contractions and expulsion. 95% efficacy.
 
 </details>
 
@@ -11925,7 +11925,7 @@ Twin pregnancy of the same age and sex rules out ?
 
 <details><summary>Answer</summary>
 
-**A. Superfetation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Superfetation** — Superfetation requires fertilization weeks apart, producing twins of different gestational ages; same age/sex rules out superfetation but not superfecundation.
 
 </details>
 
@@ -11943,7 +11943,7 @@ Propulsive stage in labour in multipara
 
 <details><summary>Answer</summary>
 
-**B. 20 minutes** — Source: Medicoholic 2015 PYQ compilation.
+**B. 20 minutes** — Second stage (full dilatation to delivery) lasts ~20 minutes in multipara, ~50 minutes in primigravida; shortened by previous cervical/perineal stretching.
 
 </details>
 
@@ -11961,7 +11961,7 @@ During pregnancy increased size of pituitary is caused by increased size of cell
 
 <details><summary>Answer</summary>
 
-**B. Prolactin** — Source: Medicoholic 2015 PYQ compilation.
+**B. Prolactin** — Lactotroph (prolactin-secreting cell) hyperplasia under estrogen stimulation enlarges anterior pituitary up to 135%; predisposes to Sheehan syndrome with PPH.
 
 </details>
 
@@ -11979,7 +11979,7 @@ Therapeutic use of folic acid is
 
 <details><summary>Answer</summary>
 
-**B. Megaloblastic anaemia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Megaloblastic anaemia** — Folic acid 5 mg/day treats megaloblastic anemia from folate deficiency; prophylactic 400 mcg for NTD prevention is preventive, not therapeutic use.
 
 </details>
 
@@ -11997,7 +11997,7 @@ Cardiac output in pregnancy increases from which week of gestation
 
 <details><summary>Answer</summary>
 
-**A. 5 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**A. 5 weeks** — Cardiac output rises from 5 weeks gestation, peaks at 30-34 weeks at 40-50% above baseline; driven by increased stroke volume then heart rate.
 
 </details>
 
@@ -12015,7 +12015,7 @@ Stroke volume increases in pregnancy by
 
 <details><summary>Answer</summary>
 
-**B. 25%** — Source: Medicoholic 2015 PYQ compilation.
+**B. 25%** — Stroke volume rises ~25-30% in pregnancy, peaks at 20 weeks; combined with 15-20% heart rate increase produces overall 40-50% cardiac output rise.
 
 </details>
 

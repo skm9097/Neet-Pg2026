@@ -850,7 +850,7 @@ Common hepatic artery is a branch of -
 
 <details><summary>Answer</summary>
 
-**D. Coeliac trunk** — Source: Medicoholic 2015 PYQ compilation.
+**D. Coeliac trunk** — Coeliac trunk trifurcates into common hepatic, left gastric, and splenic arteries; supplies foregut derivatives at T12 level.
 
 </details>
 
@@ -868,7 +868,7 @@ Tail of pancrease develops from -
 
 <details><summary>Answer</summary>
 
-**B. Dorsal pancreatic duct** — Source: Medicoholic 2015 PYQ compilation.
+**B. Dorsal pancreatic duct** — Dorsal pancreatic bud forms body, tail, isthmus, and most of head; ventral bud forms uncinate process and inferior head.
 
 </details>
 
@@ -886,7 +886,7 @@ Structures passing through Calot's triangle are all EXCEPT:
 
 <details><summary>Answer</summary>
 
-**A. Portal vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Portal vein** — Calot's triangle (cystic duct, common hepatic duct, liver edge) contains cystic artery, right hepatic artery, Lund's node — not portal vein.
 
 </details>
 
@@ -904,7 +904,7 @@ Shrinking Lung Syndrome is seen in:
 
 <details><summary>Answer</summary>
 
-**A. SLE** — Source: Medicoholic 2015 PYQ compilation.
+**A. SLE** — SLE causes diaphragmatic dysfunction with elevated hemidiaphragms and restrictive lung volumes due to phrenic neuropathy or myopathy.
 
 </details>
 
@@ -922,7 +922,7 @@ Heart failure cells are
 
 <details><summary>Answer</summary>
 
-**B. Macrophages** — Source: Medicoholic 2015 PYQ compilation.
+**B. Macrophages** — Hemosiderin-laden alveolar macrophages engulfing RBCs that leak into alveoli during pulmonary venous congestion.
 
 </details>
 
@@ -940,7 +940,7 @@ Heart failure cells are seen in -
 
 <details><summary>Answer</summary>
 
-**A. Pulmonary edema** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pulmonary edema** — Chronic pulmonary edema from left heart failure causes RBC extravasation; macrophages phagocytose hemoglobin producing hemosiderin-laden cells.
 
 </details>
 
@@ -958,7 +958,7 @@ Most common nephropathy associated with malignaneN is:
 
 <details><summary>Answer</summary>
 
-**D. Membranous glomerulonephritis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Membranous glomerulonephritis** — Membranous glomerulonephritis is the classic paraneoplastic nephropathy in solid tumors (lung, colon, breast) via subepithelial immune deposits.
 
 </details>
 
@@ -976,7 +976,7 @@ Not true about Alport's syndrome -
 
 <details><summary>Answer</summary>
 
-**B. Autosomal dominant** — Source: Medicoholic 2015 PYQ compilation.
+**B. Autosomal dominant** — Alport syndrome is mostly X-linked (COL4A5 mutation) — autosomal recessive less common; autosomal dominant inheritance is not typical.
 
 </details>
 
@@ -994,7 +994,7 @@ Fenoldopam is used in the management of ?
 
 <details><summary>Answer</summary>
 
-**A. Hypertensive emergencies** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypertensive emergencies** — Fenoldopam is a selective peripheral D1 receptor agonist causing arteriolar vasodilation; used IV for hypertensive emergencies, preserves renal perfusion.
 
 </details>
 
@@ -1012,7 +1012,7 @@ Following are the side effects of thiazides except?
 
 <details><summary>Answer</summary>
 
-**B. Hypocalcemia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hypocalcemia** — Thiazides cause hyperCALCemia (enhance distal Ca reabsorption), hypokalemia, hyperuricemia, hyperglycemia, impotence — not hypocalcemia.
 
 </details>
 
@@ -1030,7 +1030,7 @@ Atypical side effect montelukast ?
 
 <details><summary>Answer</summary>
 
-**B. Churg - Strauss syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**B. Churg - Strauss syndrome** — Leukotriene antagonists like montelukast are associated with eosinophilic granulomatosis with polyangiitis (Churg-Strauss) unmasked on steroid withdrawal.
 
 </details>
 
@@ -1048,7 +1048,7 @@ Neuropathy caused by INH increases in all except?
 
 <details><summary>Answer</summary>
 
-**B. Hyperthyroidism** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hyperthyroidism** — INH inhibits pyridoxine causing peripheral neuropathy; worsened by uremia, diabetes, malnutrition, alcoholism — hyperthyroidism does not exacerbate it.
 
 </details>
 
@@ -1066,7 +1066,7 @@ Chlamydia pneumoniae causes causes:
 
 <details><summary>Answer</summary>
 
-**B. Atherosclerosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Atherosclerosis** — Chlamydia pneumoniae causes atypical pneumonia and is implicated in atherosclerosis via chronic vascular inflammation and foam cell formation.
 
 </details>
 
@@ -1084,7 +1084,7 @@ Streptococcal pneumoniae pneumonia present at -
 
 <details><summary>Answer</summary>
 
-**A. < 5 years** — Source: Medicoholic 2015 PYQ compilation.
+**A. < 5 years** — Streptococcus pneumoniae is the most common bacterial pneumonia in children under 5 years (post-viral, encapsulated organism susceptibility).
 
 </details>
 
@@ -1102,7 +1102,7 @@ Most common complication of diphtheria is -
 
 <details><summary>Answer</summary>
 
-**A. Myocarditis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Myocarditis** — Diphtheria exotoxin inhibits EF-2 via ADP-ribosylation; myocarditis is the most common and lethal complication causing arrhythmias and CHF.
 
 </details>
 
@@ -1120,7 +1120,7 @@ Scleritis is most commonly associated with:
 
 <details><summary>Answer</summary>
 
-**C. Rheumatoid arthritis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Rheumatoid arthritis** — Rheumatoid arthritis is the most common systemic disease associated with scleritis; immune complex-mediated vasculitis of scleral vessels.
 
 </details>
 
@@ -1138,7 +1138,7 @@ Prutchners retinopathy in associated with -
 
 <details><summary>Answer</summary>
 
-**C. Head trauma** — Source: Medicoholic 2015 PYQ compilation.
+**C. Head trauma** — Purtscher's retinopathy follows head trauma, chest compression, or acute pancreatitis; cotton-wool spots and retinal hemorrhages from microembolic occlusion.
 
 </details>
 
@@ -1156,7 +1156,7 @@ Which one of the following is not an early complication of acute myocardial infa
 
 <details><summary>Answer</summary>
 
-**D. Dressler's syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**D. Dressler's syndrome** — Dressler's syndrome (autoimmune post-MI pericarditis) appears 2-10 weeks later; papillary rupture, VSD, pericarditis are early complications.
 
 </details>
 
@@ -1174,7 +1174,7 @@ Hepatic Encephalopathy is predisposed by all, Except:
 
 <details><summary>Answer</summary>
 
-**A. Hyperkalemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hyperkalemia** — HypoKALemia (not hyperkalemia) precipitates hepatic encephalopathy by increasing renal ammonia production; GI bleed, constipation, dehydration also trigger.
 
 </details>
 
@@ -1192,7 +1192,7 @@ Rockall score is used for prognosis of patients of
 
 <details><summary>Answer</summary>
 
-**A. Upper GI bleeding** — Source: Medicoholic 2015 PYQ compilation.
+**A. Upper GI bleeding** — Rockall score predicts mortality and rebleeding risk in upper GI bleeding using age, shock, comorbidity, and endoscopic findings.
 
 </details>
 
@@ -1210,7 +1210,7 @@ Not associated with diabetes mellitus
 
 <details><summary>Answer</summary>
 
-**C. Hypothyroidism** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hypothyroidism** — Cushing, acromegaly, pheochromocytoma cause secondary diabetes via counter-regulatory hormones; hypothyroidism is not associated with diabetes.
 
 </details>
 
@@ -1228,7 +1228,7 @@ In long standing rheumatoid arthritis which will be seen -
 
 <details><summary>Answer</summary>
 
-**D. Secondary amylodosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Secondary amylodosis** — Chronic inflammation in RA causes serum amyloid A deposition (AA amyloidosis), commonly affecting kidneys causing nephrotic syndrome.
 
 </details>
 
@@ -1246,7 +1246,7 @@ Alzehiemer type II astrocyte are seen in -
 
 <details><summary>Answer</summary>
 
-**A. Hepatic encephalopathy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hepatic encephalopathy** — Alzheimer type II astrocytes (enlarged pale nuclei) develop in hepatic encephalopathy due to ammonia-induced glutamine accumulation in glia.
 
 </details>
 
@@ -1264,7 +1264,7 @@ Chvostek sign is seen in:
 
 <details><summary>Answer</summary>
 
-**B. Hypoparathyroidism** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hypoparathyroidism** — Chvostek sign (facial twitch on tapping facial nerve) indicates hypocalcemia from hypoparathyroidism due to increased neuromuscular excitability.
 
 </details>
 
@@ -1282,7 +1282,7 @@ Martel sign is seen in -
 
 <details><summary>Answer</summary>
 
-**A. Gout** — Source: Medicoholic 2015 PYQ compilation.
+**A. Gout** — Martel's sign — punched-out periarticular erosions with overhanging edges on X-ray — is pathognomonic of chronic tophaceous gout.
 
 </details>
 
@@ -1300,7 +1300,7 @@ In which of causes of oral ulcer, Auto- antibodies are not seen?
 
 <details><summary>Answer</summary>
 
-**A. Behcet disease** — Source: Medicoholic 2015 PYQ compilation.
+**A. Behcet disease** — Behcet disease is a neutrophilic vasculitis without specific autoantibodies; SLE (ANA), pemphigus (anti-desmoglein), celiac (anti-tTG) are autoimmune.
 
 </details>
 
@@ -1318,7 +1318,7 @@ Incorrect about LAMB syndrome -
 
 <details><summary>Answer</summary>
 
-**C. Myaesthenic syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**C. Myaesthenic syndrome** — LAMB syndrome (Carney complex variant): Lentigines, Atrial myxoma, Mucocutaneous myxomas, Blue nevi — no myasthenic component.
 
 </details>
 
@@ -1336,7 +1336,7 @@ The Vitamin which has inhibitory effect on wound healing is -
 
 <details><summary>Answer</summary>
 
-**B. Vitamin - E** — Source: Medicoholic 2015 PYQ compilation.
+**B. Vitamin - E** — Vitamin E impairs wound healing by inhibiting collagen synthesis and antagonizing vitamin A's beneficial effects on epithelialization.
 
 </details>
 
@@ -1354,7 +1354,7 @@ Number of barr bodies in klinfellter's syndrome is -
 
 <details><summary>Answer</summary>
 
-**B. 1** — Source: Medicoholic 2015 PYQ compilation.
+**B. 1** — Klinefelter (47,XXY) has one Barr body — number of Barr bodies equals X chromosomes minus one (lyonization inactivates extra X).
 
 </details>
 
@@ -1372,7 +1372,7 @@ Which of these is not a part of extracellular matrix:
 
 <details><summary>Answer</summary>
 
-**C. Integrins** — Source: Medicoholic 2015 PYQ compilation.
+**C. Integrins** — Integrins are transmembrane cell-surface receptors linking ECM to cytoskeleton; laminin, fibronectin, and collagen are true ECM components.
 
 </details>
 

@@ -850,7 +850,7 @@ Nigro Regimen is used for -
 
 <details><summary>Answer</summary>
 
-**A. Anal Carcinoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Anal Carcinoma** — Nigro regimen combines 5-FU, mitomycin-C, and pelvic radiotherapy for anal squamous cell carcinoma, sparing patients abdominoperineal resection.
 
 </details>
 
@@ -868,7 +868,7 @@ A patient (age not captured in source) who is a year old male came with jaundice
 
 <details><summary>Answer</summary>
 
-**A. Carcinoma Ampulla of Vater** — Source: Medicoholic 2015 PYQ compilation.
+**A. Carcinoma Ampulla of Vater** — Courvoisier's law: painless jaundice with palpable gallbladder indicates periampullary/pancreatic head tumor obstructing CBD distal to cystic duct insertion.
 
 </details>
 
@@ -886,7 +886,7 @@ year male presented with jaundice, pale stools, dark urine and mass in the epiga
 
 <details><summary>Answer</summary>
 
-**D. Chronic Cholecystitis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Chronic Cholecystitis** — Obstructive jaundice triad with epigastric mass indicates malignancy; chronic cholecystitis causes contracted, non-palpable gallbladder without obstructive jaundice features.
 
 </details>
 
@@ -904,7 +904,7 @@ Which of the following stoma is formed in Hartman's procedure ?
 
 <details><summary>Answer</summary>
 
-**A. End Colostomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. End Colostomy** — Hartmann's procedure: sigmoid resection with end colostomy and oversewn rectal stump, done for obstructed/perforated left colon when anastomosis is unsafe.
 
 </details>
 
@@ -922,7 +922,7 @@ Most common site of colorectal carcinoma is -
 
 <details><summary>Answer</summary>
 
-**A. Rectum** — Source: Medicoholic 2015 PYQ compilation.
+**A. Rectum** — Rectum is the commonest colorectal cancer site due to fecal stasis and prolonged mucosal exposure to carcinogens in stored stool.
 
 </details>
 
@@ -940,7 +940,7 @@ Rigler's sign is suggestive of -
 
 <details><summary>Answer</summary>
 
-**B. Pneumoperitoneum** — Source: Medicoholic 2015 PYQ compilation.
+**B. Pneumoperitoneum** — Rigler's (double-wall) sign: gas outlines both mucosal and serosal sides of bowel wall on X-ray, diagnostic of pneumoperitoneum.
 
 </details>
 
@@ -958,7 +958,7 @@ Bilateral parotid enlargement occurs in all, Except:
 
 <details><summary>Answer</summary>
 
-**B. SLE** — Source: Medicoholic 2015 PYQ compilation.
+**B. SLE** — Sjogren's, HIV (DILS), and chronic pancreatitis cause bilateral parotid enlargement; SLE typically causes lymphadenopathy/serositis, not parotidomegaly.
 
 </details>
 
@@ -976,7 +976,7 @@ A patient (age not captured in source) who is a year old male presenting with ac
 
 <details><summary>Answer</summary>
 
-**A. Bilateral infiltrates** — Source: Medicoholic 2015 PYQ compilation.
+**A. Bilateral infiltrates** — Acute pancreatitis triggers ARDS via systemic inflammatory cytokines causing diffuse alveolar damage, producing bilateral patchy infiltrates on chest radiograph.
 
 </details>
 
@@ -994,7 +994,7 @@ Medulloblatoma arises exclusively from the cells of
 
 <details><summary>Answer</summary>
 
-**A. Immature embryonal cells** — Source: Medicoholic 2015 PYQ compilation.
+**A. Immature embryonal cells** — Medulloblastoma is a PNET arising from primitive embryonal neuroectodermal cells of cerebellar external granular layer/roof of fourth ventricle.
 
 </details>
 
@@ -1012,7 +1012,7 @@ Hypoxic Ischemic encephalopathy true is ?
 
 <details><summary>Answer</summary>
 
-**C. Seizure** — Source: Medicoholic 2015 PYQ compilation.
+**C. Seizure** — Neonatal HIE causes cortical/subcortical necrosis triggering seizures within 24 hours; seizures are the hallmark clinical sign of moderate-severe HIE.
 
 </details>
 
@@ -1030,7 +1030,7 @@ Which of the following is not true about encephalocoele?
 
 <details><summary>Answer</summary>
 
-**A. It is a neural tube defect** — Source: Medicoholic 2015 PYQ compilation.
+**A. It is a neural tube defect** — Encephalocoele is a post-neurulation defect of skull mesoderm, not a primary neural tube closure defect; neural tissue herniates through cranial bony gap.
 
 </details>
 
@@ -1048,7 +1048,7 @@ Most common site for opening of TAPVC is -
 
 <details><summary>Answer</summary>
 
-**A. Supracardiac** — Source: Medicoholic 2015 PYQ compilation.
+**A. Supracardiac** — Supracardiac TAPVC (most common, ~50%): all pulmonary veins drain via vertical vein into left innominate vein then SVC, creating snowman silhouette.
 
 </details>
 
@@ -1066,7 +1066,7 @@ Autosomal recessive Polycystic kidneys - all are true except -
 
 <details><summary>Answer</summary>
 
-**A. Seen in adults** — Source: Medicoholic 2015 PYQ compilation.
+**A. Seen in adults** — ARPKD (PKHD1, fibrocystin) presents in infancy/childhood with bilateral salt-and-pepper kidneys; adult presentation is characteristic of ADPKD (PKD1/PKD2).
 
 </details>
 
@@ -1084,7 +1084,7 @@ Investigation of choice for CONFIRMING Henoch Schonlein purpura is -
 
 <details><summary>Answer</summary>
 
-**C. Renal Biopsy** — Source: Medicoholic 2015 PYQ compilation.
+**C. Renal Biopsy** — Renal biopsy showing IgA mesangial deposition with leukocytoclastic vasculitis is gold-standard confirmatory test for HSP nephritis diagnosis.
 
 </details>
 
@@ -1102,7 +1102,7 @@ Which of the following is correct about shock in child?
 
 <details><summary>Answer</summary>
 
-**A. Tachycardia is a very sensitive indicator of depletion of** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tachycardia is a very sensitive indicator of depletion of** — Children compensate shock by tachycardia first (sympathetic response); hypotension is late, making tachycardia the earliest sensitive sign of volume depletion.
 
 </details>
 
@@ -1120,7 +1120,7 @@ Inotropic support for severely dehydrated child with dopamine is done at what ra
 
 <details><summary>Answer</summary>
 
-**B. 1-5 microgram/kg/min** — Source: Medicoholic 2015 PYQ compilation.
+**B. 1-5 microgram/kg/min** — Dopamine inotropic dose 1-5 mcg/kg/min stimulates beta-1 receptors increasing cardiac contractility; higher doses cause vasoconstriction via alpha receptors.
 
 </details>
 
@@ -1138,7 +1138,7 @@ In acute diarrhea following is used to decrease duration and severity -
 
 <details><summary>Answer</summary>
 
-**A. Zn** — Source: Medicoholic 2015 PYQ compilation.
+**A. Zn** — WHO recommends zinc supplementation 10-20 mg/day for 14 days; zinc restores enterocyte integrity, reduces diarrhea duration, severity, and recurrence.
 
 </details>
 
@@ -1156,7 +1156,7 @@ Consanguinous marriages increase risk of diseases -
 
 <details><summary>Answer</summary>
 
-**B. Autosomal recessive disease** — Source: Medicoholic 2015 PYQ compilation.
+**B. Autosomal recessive disease** — Consanguinity increases homozygosity for rare recessive alleles shared from common ancestor, raising risk of autosomal recessive disorders in offspring.
 
 </details>
 
@@ -1174,7 +1174,7 @@ Floor of nasal cavity in children is made of -
 
 <details><summary>Answer</summary>
 
-**D. Palatine bone and maxilla** — Source: Medicoholic 2015 PYQ compilation.
+**D. Palatine bone and maxilla** — Nasal floor (hard palate) formed by palatine process of maxilla anteriorly and horizontal plate of palatine bone posteriorly in both children and adults.
 
 </details>
 
@@ -1192,7 +1192,7 @@ Reduced osmolarity ORS does not contain which of the following ion -
 
 <details><summary>Answer</summary>
 
-**C. Lactate** — Source: Medicoholic 2015 PYQ compilation.
+**C. Lactate** — WHO low-osmolarity ORS (245 mOsm/L) contains sodium, potassium, citrate, glucose, and chloride; lactate was replaced by citrate for stability.
 
 </details>
 
@@ -1210,7 +1210,7 @@ Osteoclasts have all of the following except -
 
 <details><summary>Answer</summary>
 
-**B. Receptor for parathormone** — Source: Medicoholic 2015 PYQ compilation.
+**B. Receptor for parathormone** — Osteoclasts have ruffled border and RANK receptor but lack PTH receptors; PTH acts indirectly via osteoblast RANKL to stimulate osteoclasts.
 
 </details>
 
@@ -1228,7 +1228,7 @@ PTH acts directly on which cells ?
 
 <details><summary>Answer</summary>
 
-**C. Osteoblasts** — Source: Medicoholic 2015 PYQ compilation.
+**C. Osteoblasts** — PTH receptors (PTHR1) reside on osteoblasts; activated osteoblasts secrete RANKL which then stimulates osteoclast differentiation and bone resorption.
 
 </details>
 
@@ -1246,7 +1246,7 @@ Tennis elbow is characterized by ?
 
 <details><summary>Answer</summary>
 
-**B. Tendinits of common extensor origin** — Source: Medicoholic 2015 PYQ compilation.
+**B. Tendinits of common extensor origin** — Lateral epicondylitis (tennis elbow): degenerative tendinosis of common extensor origin, especially ECRB, from repetitive wrist extension/supination.
 
 </details>
 
@@ -1264,7 +1264,7 @@ Flexor Digitorum Profundus tendon avulsion injury leads to -
 
 <details><summary>Answer</summary>
 
-**A. Jersey Finger** — Source: Medicoholic 2015 PYQ compilation.
+**A. Jersey Finger** — Jersey finger: avulsion of FDP insertion from distal phalanx base when forcefully extended during active flexion (gripping a jersey).
 
 </details>
 
@@ -1282,7 +1282,7 @@ Extensor Carpi Radialis Longus is -
 
 <details><summary>Answer</summary>
 
-**B. Extensor and radial Deviator of the wrist** — Source: Medicoholic 2015 PYQ compilation.
+**B. Extensor and radial Deviator of the wrist** — ECRL originates from lateral supracondylar ridge, inserts at base of 2nd metacarpal, producing wrist extension with radial deviation (abduction).
 
 </details>
 
@@ -1300,7 +1300,7 @@ Thomas test is used for testing?
 
 <details><summary>Answer</summary>
 
-**A. Hip flexion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hip flexion** — Thomas test detects fixed flexion deformity of hip: opposite hip is fully flexed to obliterate lumbar lordosis, exposing affected side's flexion contracture.
 
 </details>
 
@@ -1318,7 +1318,7 @@ A child presented to an orthopaedic clinic with a limp. The surgeon suspected hi
 
 <details><summary>Answer</summary>
 
-**A. Thomas test** — Source: Medicoholic 2015 PYQ compilation.
+**A. Thomas test** — Thomas test detects fixed flexion deformity at hip by eliminating compensatory lumbar lordosis through flexion of contralateral hip joint.
 
 </details>
 
@@ -1336,7 +1336,7 @@ Effect of hypoparathyroidisrn on bones include -
 
 <details><summary>Answer</summary>
 
-**D. NoneoftheAbove** — Source: Medicoholic 2015 PYQ compilation.
+**D. NoneoftheAbove** — Hypoparathyroidism causes low PTH and hypocalcemia but no characteristic bone lesions; brown tumors, subperiosteal resorption occur in hyperparathyroidism.
 
 </details>
 
@@ -1354,7 +1354,7 @@ AII of the following are true regarding application of POP Cast except -
 
 <details><summary>Answer</summary>
 
-**B. It is anhydrous Calcium phosphate** — Source: Medicoholic 2015 PYQ compilation.
+**B. It is anhydrous Calcium phosphate** — Plaster of Paris is calcium sulphate hemihydrate (CaSO4.1/2H2O), not calcium phosphate; it hardens by rehydration to gypsum (calcium sulphate dihydrate).
 
 </details>
 
@@ -1372,7 +1372,7 @@ In uncemented arthroplasty of the hip , the stem remains attached to the bone by
 
 <details><summary>Answer</summary>
 
-**A. Bone Ingrowth/ ongrowth over the surface of the stem** — Source: Medicoholic 2015 PYQ compilation.
+**A. Bone Ingrowth/ ongrowth over the surface of the stem** — Uncemented hip prostheses have porous/hydroxyapatite-coated surfaces allowing bone ingrowth (osseointegration) into pores, providing biological fixation over weeks.
 
 </details>
 

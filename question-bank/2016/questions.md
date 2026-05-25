@@ -2215,7 +2215,7 @@ Haustrations are present in:
 
 <details><summary>Answer</summary>
 
-**D. Colon** — Haustrations (sacculations) are a characteristic feature of the large intestine.
+**D. Colon** — Haustra are sacculations produced by shorter taeniae coli contracting the colonic wall — a defining external feature of the large intestine.
 
 </details>
 

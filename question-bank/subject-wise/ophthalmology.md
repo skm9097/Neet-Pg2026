@@ -1029,7 +1029,7 @@ Contraindication of antimuscarinic drug ?
 
 <details><summary>Answer</summary>
 
-**A. Glaucoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Glaucoma** — Antimuscarinics dilate pupil causing pupillary block and shallowing of anterior chamber, precipitating acute angle-closure glaucoma in predisposed eyes.
 
 </details>
 
@@ -1047,7 +1047,7 @@ Atropine plus diphenoxylate combination is used for?
 
 <details><summary>Answer</summary>
 
-**C. Diarrhea** — Source: Medicoholic 2015 PYQ compilation.
+**C. Diarrhea** — Diphenoxylate (opioid) slows gut motility treating diarrhea; subtherapeutic atropine added to deter abuse via anticholinergic side effects.
 
 </details>
 
@@ -1065,7 +1065,7 @@ Methanol attacks ?
 
 <details><summary>Answer</summary>
 
-**C. Ganglion cells of retina** — Source: Medicoholic 2015 PYQ compilation.
+**C. Ganglion cells of retina** — Methanol is metabolized to formic acid which selectively damages retinal ganglion cells and optic nerve, causing toxic optic neuropathy and blindness.
 
 </details>
 
@@ -1083,7 +1083,7 @@ In primary open-angle glaucoma pilocarpine eye drops lowers the intraocular pres
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — Pilocarpine (muscarinic agonist) contracts ciliary longitudinal fibres pulling scleral spur, opens trabecular meshwork, enhances aqueous outflow via ciliary epithelium action.
 
 </details>
 
@@ -1101,7 +1101,7 @@ Required for IOL power calculation ?
 
 <details><summary>Answer</summary>
 
-**D. Keratometry** — Source: Medicoholic 2015 PYQ compilation.
+**D. Keratometry** — Keratometry measures corneal curvature (K-values) and axial length via biometry feed into SRK formula (P = A - 2.5L - 0.9K) for IOL power.
 
 </details>
 
@@ -1119,7 +1119,7 @@ Most powerful refractory surface of eye is -
 
 <details><summary>Answer</summary>
 
-**B. Cornea** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cornea** — Cornea contributes approximately 43 diopters (two-thirds of total ~60D refractive power) due to large refractive index difference with air at anterior surface.
 
 </details>
 
@@ -1137,7 +1137,7 @@ What is regular astigmatism?
 
 <details><summary>Answer</summary>
 
-**B. Astigmatism in which the principal meridians are perpendicular** — Source: Medicoholic 2015 PYQ compilation.
+**B. Astigmatism in which the principal meridians are perpendicular** — Regular astigmatism has two principal meridians 90 degrees apart (perpendicular), correctable with cylindrical lenses; irregular astigmatism lacks orthogonal meridians.
 
 </details>
 
@@ -1155,7 +1155,7 @@ In a case of myopia, LASIK will provide correction upto ?
 
 <details><summary>Answer</summary>
 
-**B. 12D** — Source: Medicoholic 2015 PYQ compilation.
+**B. 12D** — LASIK safely corrects myopia up to -12D; beyond this, residual corneal stromal bed becomes inadequate (<250 microns), risking ectasia and keratoconus.
 
 </details>
 
@@ -1173,7 +1173,7 @@ What is reverse hypopyon?
 
 <details><summary>Answer</summary>
 
-**B. Collection of emulsified silicon oil in anterior chamber** — Source: Medicoholic 2015 PYQ compilation.
+**B. Collection of emulsified silicon oil in anterior chamber** — Emulsified silicone oil (lighter than aqueous) floats and settles superiorly in anterior chamber forming inverse fluid level, hence reverse hypopyon.
 
 </details>
 
@@ -1191,7 +1191,7 @@ Silk retina is seen in ?
 
 <details><summary>Answer</summary>
 
-**A. Hypermetropia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypermetropia** — Hypermetropic small eye shows crowded optic disc with shot-silk reflex from light reflecting off retinal internal limiting membrane in young hyperopes.
 
 </details>
 
@@ -1209,7 +1209,7 @@ Pseudopapilitis with silk shot appearance is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Hypermetropia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypermetropia** — High hypermetropia shows pseudopapillitis: hyperemic, blurred small disc mimicking optic neuritis, with shot-silk retinal reflex due to short axial length.
 
 </details>
 
@@ -1227,7 +1227,7 @@ Lensometer detects ?
 
 <details><summary>Answer</summary>
 
-**A. Correct power of a pair of glasses** — Source: Medicoholic 2015 PYQ compilation.
+**A. Correct power of a pair of glasses** — Lensometer (focimeter) measures back vertex power, cylinder axis, and prism of existing spectacle lenses, used to verify prescription glasses.
 
 </details>
 
@@ -1245,7 +1245,7 @@ All of the following are treatments of myopia except?
 
 <details><summary>Answer</summary>
 
-**D. Holmium laser thermoplasty** — Source: Medicoholic 2015 PYQ compilation.
+**D. Holmium laser thermoplasty** — Holmium laser thermokeratoplasty steepens cornea to treat hyperopia/presbyopia; LASIK, phakic IOL, and radial keratotomy flatten cornea for myopia.
 
 </details>
 
@@ -1263,7 +1263,7 @@ Sudden painless loss of vision- All are causes except?
 
 <details><summary>Answer</summary>
 
-**C. Acute congestive glaucoma** — Source: Medicoholic 2015 PYQ compilation.
+**C. Acute congestive glaucoma** — Acute congestive (angle-closure) glaucoma causes sudden PAINFUL loss with red eye, halos, nausea; CRAO, CSR, and vitreous hemorrhage are painless.
 
 </details>
 
@@ -1281,7 +1281,7 @@ All are true regarding cornea except:
 
 <details><summary>Answer</summary>
 
-**D. Corneal thickness is more at center than periphery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Corneal thickness is more at center than periphery** — Cornea is THINNER centrally (~520 microns) than periphery (~650 microns); endothelial pump maintains dehydration, epithelium absorbs atmospheric oxygen.
 
 </details>
 
@@ -1299,7 +1299,7 @@ Corneal tattooing may be done with:
 
 <details><summary>Answer</summary>
 
-**A. Gold chloride** — Source: Medicoholic 2015 PYQ compilation.
+**A. Gold chloride** — Gold chloride produces brown-black pigmentation in corneal stroma; used cosmetically to mask leukomatous opacities by reduction with tannic acid or hydrazine.
 
 </details>
 
@@ -1317,7 +1317,7 @@ Kayser Fleischer ring is found in which layer of cornea?
 
 <details><summary>Answer</summary>
 
-**C. Descemet’s membrane** — Source: Medicoholic 2015 PYQ compilation.
+**C. Descemet’s membrane** — Copper deposits in Descemet's membrane peripherally form golden-brown Kayser-Fleischer ring, pathognomonic of Wilson's disease (hepatolenticular degeneration).
 
 </details>
 
@@ -1335,7 +1335,7 @@ Posterior staphyloma is seen in:
 
 <details><summary>Answer</summary>
 
-**A. Myopia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Myopia** — Pathological (degenerative) myopia causes scleral thinning and bulging at posterior pole forming posterior staphyloma with retinal atrophy and Fuchs' spot.
 
 </details>
 
@@ -1353,7 +1353,7 @@ A patient (age not captured in source) who is a year old man presents to the cli
 
 <details><summary>Answer</summary>
 
-**B. Both Assertion and Reason are true, and Reason is not the** — Source: Medicoholic 2015 PYQ compilation.
+**B. Both Assertion and Reason are true, and Reason is not the** — Anterior uveitis (iridocyclitis) shows KPs as Arlt's triangle on inferior corneal endothelium due to convection currents of aqueous humor.
 
 </details>
 
@@ -1371,7 +1371,7 @@ All of the following are true about Keratoconus, except:
 
 <details><summary>Answer</summary>
 
-**D. Thick cornea** — Source: Medicoholic 2015 PYQ compilation.
+**D. Thick cornea** — Keratoconus features progressive central corneal THINNING (not thickening), conical protrusion, irregular astigmatism, Munson's sign, Fleischer ring, and Vogt's striae.
 
 </details>
 
@@ -1389,7 +1389,7 @@ Cataract is caused by ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — Hypoparathyroidism (low calcium), smoking (oxidative stress), and non-ionizing UV/infrared radiation all promote lens protein denaturation and opacification.
 
 </details>
 
@@ -1407,7 +1407,7 @@ All of the following are causes of posterior subcapsular cataract except -
 
 <details><summary>Answer</summary>
 
-**D. Congenital cataract** — Source: Medicoholic 2015 PYQ compilation.
+**D. Congenital cataract** — Congenital cataract is typically nuclear/lamellar/polar; PSC is acquired, caused by steroids, myotonic dystrophy, Wilson's, diabetes, and ionizing radiation.
 
 </details>
 
@@ -1425,7 +1425,7 @@ The intraocular lens in cataract surgery is placed in ?
 
 <details><summary>Answer</summary>
 
-**B. Capsular bag** — Source: Medicoholic 2015 PYQ compilation.
+**B. Capsular bag** — After phacoemulsification, foldable IOL is placed in-the-bag within preserved posterior capsule providing stable centration and minimizing posterior capsular opacification.
 
 </details>
 
@@ -1443,7 +1443,7 @@ Snowflake cataract is associated with:
 
 <details><summary>Answer</summary>
 
-**D. Juvenile diabetes** — Source: Medicoholic 2015 PYQ compilation.
+**D. Juvenile diabetes** — Juvenile (Type 1) diabetes mellitus produces bilateral snowflake/snowstorm cataract due to rapid sorbitol accumulation in lens via aldose reductase pathway.
 
 </details>
 
@@ -1461,7 +1461,7 @@ What is the type of Galactosemia cataract?
 
 <details><summary>Answer</summary>
 
-**B. Oil drop** — Source: Medicoholic 2015 PYQ compilation.
+**B. Oil drop** — Galactosemia (galactokinase or GALT deficiency) causes oil-droplet cataract from galactitol accumulation in lens via aldose reductase, reversible early.
 
 </details>
 
@@ -1479,7 +1479,7 @@ Rosette cataract is seen due to:
 
 <details><summary>Answer</summary>
 
-**A. Trauma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Trauma** — Concussion trauma disrupts lens fibres producing feathery rosette-shaped opacity at posterior cortex; early traumatic finding, may be transient or permanent.
 
 </details>
 
@@ -1497,7 +1497,7 @@ What is not true about congenital glaucoma of eye?
 
 <details><summary>Answer</summary>
 
-**A. Photophobia is most common symptom** — Source: Medicoholic 2015 PYQ compilation.
+**A. Photophobia is most common symptom** — Watering (epiphora) is the earliest and most common symptom; photophobia, blepharospasm, Haab's striae, blue sclera, deep anterior chamber occur later.
 
 </details>
 
@@ -1515,7 +1515,7 @@ Descemet membrane breach is seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Buphthalmos** — Source: Medicoholic 2015 PYQ compilation.
+**B. Buphthalmos** — Buphthalmos (infantile glaucoma) stretches young pliable cornea causing horizontal/curvilinear Descemet's membrane tears called Haab's striae with sudden corneal clouding.
 
 </details>
 
@@ -1533,7 +1533,7 @@ Earliest sign of primary congenital glaucoma ?
 
 <details><summary>Answer</summary>
 
-**A. Corneal edema with watering** — Source: Medicoholic 2015 PYQ compilation.
+**A. Corneal edema with watering** — Corneal edema with watering (epiphora) appears earliest due to raised IOP forcing aqueous into corneal stroma, before buphthalmos or Haab's striae develop.
 
 </details>
 
@@ -1551,7 +1551,7 @@ Selective alpha 2 agoinst used in glaucoma ?
 
 <details><summary>Answer</summary>
 
-**D. Brimonidine** — Source: Medicoholic 2015 PYQ compilation.
+**D. Brimonidine** — Brimonidine, selective alpha-2 agonist, decreases aqueous humor production and increases uveoscleral outflow; timolol is non-selective beta blocker.
 
 </details>
 

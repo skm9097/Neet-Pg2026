@@ -1885,7 +1885,7 @@ Upper limb deformity in Erb's palsy?
 
 <details><summary>Answer</summary>
 
-**B. Adduction and medial rotation of arm** — Source: Medicoholic 2015 PYQ compilation.
+**B. Adduction and medial rotation of arm** — C5-C6 injury paralyzes deltoid, supraspinatus, infraspinatus, biceps; unopposed pectoralis and subscapularis cause adduction and medial rotation (waiter's tip).
 
 </details>
 
@@ -1903,7 +1903,7 @@ Nerve roots involved in Erb's palsy:
 
 <details><summary>Answer</summary>
 
-**A. C5, C6** — Source: Medicoholic 2015 PYQ compilation.
+**A. C5, C6** — Erb's palsy involves upper trunk of brachial plexus (C5-C6) from excessive head-shoulder traction; Klumpke's involves lower trunk C8-T1.
 
 </details>
 
@@ -1939,7 +1939,7 @@ Root value of thoracodorsal nerve ?
 
 <details><summary>Answer</summary>
 
-**C. C6,C7,C8** — Source: Medicoholic 2015 PYQ compilation.
+**C. C6,C7,C8** — Thoracodorsal nerve (C6,C7,C8) arises from posterior cord of brachial plexus and supplies latissimus dorsi muscle.
 
 </details>
 
@@ -1957,7 +1957,7 @@ Teres minor is supplied by
 
 <details><summary>Answer</summary>
 
-**D. Axillary nerve** — Source: Medicoholic 2015 PYQ compilation.
+**D. Axillary nerve** — Axillary nerve (C5,C6) from posterior cord supplies teres minor and deltoid; also gives upper lateral cutaneous nerve of arm.
 
 </details>
 
@@ -1975,7 +1975,7 @@ Limb shortening
 
 <details><summary>Answer</summary>
 
-**D. All are true** — Source: Medicoholic 2015 PYQ compilation.
+**D. All are true** — Limb shortening can be true (bone loss), apparent (pelvic tilt/adduction), supratrochanteric (above greater trochanter), and infratrochanteric (below) - all causes are valid.
 
 </details>
 
@@ -1993,7 +1993,7 @@ Insertion of levator scapulae is ?
 
 <details><summary>Answer</summary>
 
-**C. Superior part of medial scapula border** — Source: Medicoholic 2015 PYQ compilation.
+**C. Superior part of medial scapula border** — Levator scapulae inserts on medial border of scapula above the root of the spine; elevates and rotates scapula downward.
 
 </details>
 
@@ -2011,7 +2011,7 @@ Number of lobes in breast
 
 <details><summary>Answer</summary>
 
-**C. 15** — Source: Medicoholic 2015 PYQ compilation.
+**C. 15** — Breast contains 15-20 lobes arranged radially, each drained by a lactiferous duct opening separately at the nipple.
 
 </details>
 
@@ -2029,7 +2029,7 @@ Which of the following arises from infraglenoid tubercle -
 
 <details><summary>Answer</summary>
 
-**B. Longheadoftriceps** — Source: Medicoholic 2015 PYQ compilation.
+**B. Longheadoftriceps** — Long head of triceps arises from infraglenoid tubercle of scapula; long head of biceps from supraglenoid tubercle.
 
 </details>
 
@@ -2047,7 +2047,7 @@ Not attached on medial border of scapula ?
 
 <details><summary>Answer</summary>
 
-**D. Teres major** — Source: Medicoholic 2015 PYQ compilation.
+**D. Teres major** — Teres major attaches to lateral border (lower part) of scapula; serratus anterior, levator scapulae, rhomboids attach to medial border.
 
 </details>
 
@@ -2065,7 +2065,7 @@ Medial boundry of Cubital fossa ?
 
 <details><summary>Answer</summary>
 
-**B. Pronator teres** — Source: Medicoholic 2015 PYQ compilation.
+**B. Pronator teres** — Cubital fossa medial boundary is pronator teres; lateral is brachioradialis; floor is brachialis and supinator; roof is bicipital aponeurosis.
 
 </details>
 
@@ -2083,7 +2083,7 @@ True about lumbricals is
 
 <details><summary>Answer</summary>
 
-**D. Origin from tendons of flexor digitorum profundus** — Source: Medicoholic 2015 PYQ compilation.
+**D. Origin from tendons of flexor digitorum profundus** — Lumbricals originate from flexor digitorum profundus tendons, insert on extensor expansion, flex MCP and extend IP joints.
 
 </details>
 
@@ -2101,7 +2101,7 @@ Lateral boundary of cubital fossa is formed by:
 
 <details><summary>Answer</summary>
 
-**A. Brachioradialis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Brachioradialis** — Brachioradialis (radial nerve, C5-C6) forms lateral boundary of cubital fossa; pronator teres forms medial boundary.
 
 </details>
 
@@ -2119,7 +2119,7 @@ Muscle of Arm with additional supinator action?
 
 <details><summary>Answer</summary>
 
-**B. Biceps** — Source: Medicoholic 2015 PYQ compilation.
+**B. Biceps** — Biceps brachii is the most powerful supinator of forearm (when elbow flexed), in addition to flexing elbow.
 
 </details>
 
@@ -2137,7 +2137,7 @@ The nerve supply of nail bed of index finger is ?
 
 <details><summary>Answer</summary>
 
-**C. Median nerve** — Source: Medicoholic 2015 PYQ compilation.
+**C. Median nerve** — Median nerve supplies palmar and dorsal nail bed skin of lateral 3.5 digits including index finger via digital branches.
 
 </details>
 
@@ -2155,7 +2155,7 @@ Which leaves the pelvis ?
 
 <details><summary>Answer</summary>
 
-**B. Sciatic nerve** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sciatic nerve** — Sciatic nerve leaves pelvis through greater sciatic foramen below piriformis to enter gluteal region; piriformis is the landmark.
 
 </details>
 
@@ -2173,7 +2173,7 @@ Abduction and adduction of foot occurs at which joints
 
 <details><summary>Answer</summary>
 
-**B. Subtalar** — Source: Medicoholic 2015 PYQ compilation.
+**B. Subtalar** — Subtalar (talocalcaneal) joint allows inversion-eversion; abduction-adduction of foot accompanies these movements at subtalar joint.
 
 </details>
 
@@ -2191,7 +2191,7 @@ All are true about femoral triangle, EXCEPT?
 
 <details><summary>Answer</summary>
 
-**D. None of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. None of the above** — Femoral triangle: lateral border sartorius, medial adductor longus, base inguinal ligament; floor iliopsoas/pectineus/adductor longus; contains femoral vessels.
 
 </details>
 
@@ -2209,7 +2209,7 @@ Content of femoral canal
 
 <details><summary>Answer</summary>
 
-**D. Lymph node** — Source: Medicoholic 2015 PYQ compilation.
+**D. Lymph node** — Femoral canal contains lymph node of Cloquet, lymphatics, and loose areolar tissue; allows venous distension and is the site of femoral hernia.
 
 </details>
 
@@ -2227,7 +2227,7 @@ A patient presents with defective adduction of the hip joint and pains in the hi
 
 <details><summary>Answer</summary>
 
-**A. Obturator nerve** — Source: Medicoholic 2015 PYQ compilation.
+**A. Obturator nerve** — Obturator nerve (L2-L4) supplies adductors of thigh; gives articular branches to hip and knee joints (Hilton's law - referred pain).
 
 </details>
 
@@ -2245,7 +2245,7 @@ Structure which lies outside the femoral sheath
 
 <details><summary>Answer</summary>
 
-**B. Femoral nerve** — Source: Medicoholic 2015 PYQ compilation.
+**B. Femoral nerve** — Femoral nerve lies lateral to and outside the femoral sheath; sheath contains femoral artery, vein, and canal (lymphatics).
 
 </details>
 
@@ -2263,7 +2263,7 @@ Which structure(s) passes behind the inguinal ligament:
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2015 PYQ compilation.
+**D. All** — Behind inguinal ligament: psoas major, iliacus, femoral nerve/artery/vein, lymphatics, femoral branch of genitofemoral nerve, lateral cutaneous nerve of thigh.
 
 </details>
 
@@ -2281,7 +2281,7 @@ Lateral border of ischeorectal fossa is formed by?
 
 <details><summary>Answer</summary>
 
-**D. Obturator internus** — Source: Medicoholic 2015 PYQ compilation.
+**D. Obturator internus** — Ischiorectal fossa lateral wall: obturator internus muscle with its fascia containing pudendal canal (Alcock's); medial wall is levator ani.
 
 </details>
 
@@ -2299,7 +2299,7 @@ Arterial branches which supply the head and neck of the femur is/are:
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2015 PYQ compilation.
+**D. All** — Head/neck of femur supplied by medial and lateral circumflex femoral arteries (branches of profunda femoris), artery of ligamentum teres.
 
 </details>
 
@@ -2317,7 +2317,7 @@ Femoral nerve supplies all except ?
 
 <details><summary>Answer</summary>
 
-**D. Obturator externus** — Source: Medicoholic 2015 PYQ compilation.
+**D. Obturator externus** — Femoral nerve (L2-L4) supplies anterior compartment thigh; obturator externus is supplied by obturator nerve (posterior division).
 
 </details>
 
@@ -2335,7 +2335,7 @@ Superior gluteal nerve does not supply ?
 
 <details><summary>Answer</summary>
 
-**D. Gluteus maximus** — Source: Medicoholic 2015 PYQ compilation.
+**D. Gluteus maximus** — Superior gluteal nerve (L4,L5,S1) supplies gluteus medius, minimus, tensor fasciae latae; gluteus maximus is supplied by inferior gluteal nerve.
 
 </details>
 
@@ -2353,7 +2353,7 @@ What is true about adductors of thigh –
 
 <details><summary>Answer</summary>
 
-**D. Adductor magnus is the largest muscle** — Source: Medicoholic 2015 PYQ compilation.
+**D. Adductor magnus is the largest muscle** — Adductor magnus is the largest muscle of medial compartment; has adductor (pubic) and hamstring (ischial) parts with dual nerve supply.
 
 </details>
 
@@ -2371,7 +2371,7 @@ A nerve injured in radical neck dissection leads to loss of sensation in medial 
 
 <details><summary>Answer</summary>
 
-**D. Medial cutaneous nerve of arm** — Source: Medicoholic 2015 PYQ compilation.
+**D. Medial cutaneous nerve of arm** — Medial cutaneous nerve of arm (T1) from medial cord supplies sensation to medial arm; vulnerable in radical neck/axillary dissection.
 
 </details>
 
@@ -2389,7 +2389,7 @@ Secondary ossification center for lower end of femur?
 
 <details><summary>Answer</summary>
 
-**A. Present at birth** — Source: Medicoholic 2015 PYQ compilation.
+**A. Present at birth** — Lower end of femur ossification center appears at 9th intrauterine month - present at birth; medicolegal evidence of full-term fetus.
 
 </details>
 
@@ -2407,7 +2407,7 @@ Lower limit of superior mediastinum is at which level -
 
 <details><summary>Answer</summary>
 
-**B. T1** — Source: Medicoholic 2015 PYQ compilation.
+**B. T1** — Superior mediastinum extends from thoracic inlet to sternal angle of Louis (T4-T5 disc level, plane of Ludwig); contains arch of aorta.
 
 </details>
 
@@ -2425,7 +2425,7 @@ Azygous vein drains into:
 
 <details><summary>Answer</summary>
 
-**B. Superior vena cava** — Source: Medicoholic 2015 PYQ compilation.
+**B. Superior vena cava** — Azygos vein arches over right lung root at T4 level and drains into superior vena cava; receives hemiazygos and accessory hemiazygos.
 
 </details>
 
@@ -9144,7 +9144,7 @@ Haustrations are present in:
 
 <details><summary>Answer</summary>
 
-**D. Colon** — Haustrations (sacculations) are a characteristic feature of the large intestine.
+**D. Colon** — Haustra are sacculations produced by shorter taeniae coli contracting the colonic wall — a defining external feature of the large intestine.
 
 </details>
 

@@ -1854,7 +1854,7 @@ Major central nucleus of sympathetic system is
 
 <details><summary>Answer</summary>
 
-**D. Hypothalamus** — Source: Medicoholic 2015 PYQ compilation.
+**D. Hypothalamus** — Hypothalamus (posterolateral nuclei) is the supreme central integrator of sympathetic outflow, projecting to intermediolateral column of spinal cord.
 
 </details>
 
@@ -1872,7 +1872,7 @@ What is attached to the superior nuchal line?
 
 <details><summary>Answer</summary>
 
-**A. Trapezius** — Source: Medicoholic 2015 PYQ compilation.
+**A. Trapezius** — Trapezius, sternocleidomastoid, splenius capitis, and occipitalis insert on the superior nuchal line of the occipital bone.
 
 </details>
 
@@ -1890,7 +1890,7 @@ Dangerous area of scalp is -
 
 <details><summary>Answer</summary>
 
-**C. Subaponeurotic tissue** — Source: Medicoholic 2015 PYQ compilation.
+**C. Subaponeurotic tissue** — Subaponeurotic loose areolar layer contains emissary veins connecting scalp to intracranial dural sinuses, allowing infection spread causing meningitis.
 
 </details>
 
@@ -1908,7 +1908,7 @@ Which nerve is preserved in dissecting the superficial and deep lobes of parotid
 
 <details><summary>Answer</summary>
 
-**D. Facial** — Source: Medicoholic 2015 PYQ compilation.
+**D. Facial** — Facial nerve traverses parotid between superficial and deep lobes, dividing it into lobes; preserved during superficial parotidectomy.
 
 </details>
 
@@ -1926,7 +1926,7 @@ Which intrinsic ocular muscle is supplied by parasympathetic innervation -
 
 <details><summary>Answer</summary>
 
-**C. Constrictor pupillae** — Source: Medicoholic 2015 PYQ compilation.
+**C. Constrictor pupillae** — Constrictor pupillae receives parasympathetic fibres via short ciliary nerves from Edinger-Westphal nucleus through oculomotor nerve, producing miosis.
 
 </details>
 
@@ -1944,7 +1944,7 @@ Lips does not drain into which group of lymph nodes?
 
 <details><summary>Answer</summary>
 
-**C. Preauricular parotid** — Source: Medicoholic 2015 PYQ compilation.
+**C. Preauricular parotid** — Lips drain to submental, submandibular, and sublingual nodes; preauricular (parotid) nodes drain scalp, auricle, eyelids, not lips.
 
 </details>
 
@@ -1962,7 +1962,7 @@ Postganglionic fibres to parotid gland is supplied by?
 
 <details><summary>Answer</summary>
 
-**B. Auriculotemporal nerve** — Source: Medicoholic 2015 PYQ compilation.
+**B. Auriculotemporal nerve** — Postganglionic parasympathetic fibres from otic ganglion reach parotid via auriculotemporal nerve (branch of mandibular V3) for secretion.
 
 </details>
 
@@ -1980,7 +1980,7 @@ Features of facial nerve palsy are all except -
 
 <details><summary>Answer</summary>
 
-**D. Loss of taste sensation from posterior tongue** — Source: Medicoholic 2015 PYQ compilation.
+**D. Loss of taste sensation from posterior tongue** — Facial nerve supplies taste from anterior two-thirds tongue via chorda tympani; posterior third taste is glossopharyngeal (CN IX) function.
 
 </details>
 
@@ -1998,7 +1998,7 @@ Nasopharynx is lined by which epithelium ?
 
 <details><summary>Answer</summary>
 
-**C. Ciliated columnar** — Source: Medicoholic 2015 PYQ compilation.
+**C. Ciliated columnar** — Nasopharynx (respiratory tract above soft palate) is lined by pseudostratified ciliated columnar epithelium with goblet cells for mucociliary clearance.
 
 </details>
 
@@ -2016,7 +2016,7 @@ Greater petrosal nerve is formed from ?
 
 <details><summary>Answer</summary>
 
-**A. Geniculate ganglion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Geniculate ganglion** — Greater petrosal nerve arises from geniculate ganglion of facial nerve, carrying preganglionic parasympathetic fibres to pterygopalatine ganglion for lacrimation.
 
 </details>
 
@@ -2034,7 +2034,7 @@ Nerve 3td ventricle is the cavity of -
 
 <details><summary>Answer</summary>
 
-**C. Diencephalon** — Source: Medicoholic 2015 PYQ compilation.
+**C. Diencephalon** — Third ventricle is the midline slit-like cavity of the diencephalon, lying between the two thalami and bounded by hypothalamus inferiorly.
 
 </details>
 
@@ -2052,7 +2052,7 @@ Occulomotor nucleus is located in -
 
 <details><summary>Answer</summary>
 
-**B. Midbrain** — Source: Medicoholic 2015 PYQ compilation.
+**B. Midbrain** — Oculomotor (CN III) nucleus lies in midbrain at level of superior colliculus, ventral to cerebral aqueduct in periaqueductal grey.
 
 </details>
 
@@ -2070,7 +2070,7 @@ Major supply of medial surface of cerebral hemisphere
 
 <details><summary>Answer</summary>
 
-**A. Anterior cerebral artery** — Source: Medicoholic 2015 PYQ compilation.
+**A. Anterior cerebral artery** — Anterior cerebral artery supplies medial surface of frontal and parietal lobes up to parieto-occipital sulcus, including paracentral lobule.
 
 </details>
 
@@ -2088,7 +2088,7 @@ Ventral tegmental decussation in cerebral peduncle is due to -
 
 <details><summary>Answer</summary>
 
-**D. Rubrospinal tract** — Source: Medicoholic 2015 PYQ compilation.
+**D. Rubrospinal tract** — Rubrospinal tract crosses immediately at ventral tegmental decussation of Forel after origin from red nucleus in midbrain.
 
 </details>
 
@@ -2106,7 +2106,7 @@ Incudomalleolar joint is a ?
 
 <details><summary>Answer</summary>
 
-**D. Saddle joint** — Source: Medicoholic 2015 PYQ compilation.
+**D. Saddle joint** — Incudomalleolar joint is a saddle (sellar) synovial joint between body of incus and head of malleus, transmitting vibrations.
 
 </details>
 
@@ -2124,7 +2124,7 @@ Hilton's law is related to -
 
 <details><summary>Answer</summary>
 
-**C. Nerve innervation** — Source: Medicoholic 2015 PYQ compilation.
+**C. Nerve innervation** — Hilton's law: nerve supplying a joint also supplies muscles moving that joint and skin overlying their insertions.
 
 </details>
 
@@ -2142,7 +2142,7 @@ Spermatogenesis begins at -
 
 <details><summary>Answer</summary>
 
-**C. Puberty** — Source: Medicoholic 2015 PYQ compilation.
+**C. Puberty** — Spermatogenesis begins at puberty when rising LH/FSH and testosterone activate Sertoli cells; spermatogonia were dormant since fetal life.
 
 </details>
 
@@ -2160,7 +2160,7 @@ Which is not a stage of prophase -
 
 <details><summary>Answer</summary>
 
-**D. Arachytene** — Source: Medicoholic 2015 PYQ compilation.
+**D. Arachytene** — Prophase-I stages are Leptotene, Zygotene, Pachytene, Diplotene, Diakinesis; 'Arachytene' is not a recognised meiotic stage.
 
 </details>
 
@@ -2178,7 +2178,7 @@ Fossa ovalis is a remnant of -
 
 <details><summary>Answer</summary>
 
-**A. Septum primum** — Source: Medicoholic 2015 PYQ compilation.
+**A. Septum primum** — Fossa ovalis is the remnant of septum primum (floor); its raised margin (limbus) is the lower edge of septum secundum.
 
 </details>
 
@@ -2196,7 +2196,7 @@ Nephron is derived from ?
 
 <details><summary>Answer</summary>
 
-**C. Metanephros** — Source: Medicoholic 2015 PYQ compilation.
+**C. Metanephros** — Nephron (glomerulus to DCT) develops from metanephric blastema (metanephros); ureteric bud forms collecting system from collecting duct to ureter.
 
 </details>
 
@@ -2214,7 +2214,7 @@ Fibrous stroma of liver is derived from -
 
 <details><summary>Answer</summary>
 
-**D. Septum transversum** — Source: Medicoholic 2015 PYQ compilation.
+**D. Septum transversum** — Septum transversum (mesoderm) gives rise to fibrous stroma, Kupffer cells, and hematopoietic tissue of liver; endoderm forms hepatocytes and ducts.
 
 </details>
 
@@ -2232,7 +2232,7 @@ True about Branchial cyst is:
 
 <details><summary>Answer</summary>
 
-**B. Mostly arises from 2nd branchial system** — Source: Medicoholic 2015 PYQ compilation.
+**B. Mostly arises from 2nd branchial system** — Branchial cysts most commonly arise from second branchial cleft remnants, presenting at anterior border of sternocleidomastoid in young adults.
 
 </details>
 
@@ -2250,7 +2250,7 @@ True about notochord are all except?
 
 <details><summary>Answer</summary>
 
-**C. Derived from hypoblast** — Source: Medicoholic 2015 PYQ compilation.
+**C. Derived from hypoblast** — Notochord is derived from epiblast (via primitive node), not hypoblast; it induces neural plate and persists as nucleus pulposus.
 
 </details>
 
@@ -2268,7 +2268,7 @@ Structures derived from the neural crest are?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — Neural crest derivatives include pia-arachnoid, dental papilla/odontoblasts, adrenal medulla chromaffin cells, melanocytes, Schwann cells, and dorsal root ganglia.
 
 </details>
 
@@ -2286,7 +2286,7 @@ Heart tube is formed at -
 
 <details><summary>Answer</summary>
 
-**A. 3 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**A. 3 weeks** — Primitive heart tube forms by fusion of paired endocardial tubes at around day 21-22 (3rd week) of embryonic development.
 
 </details>
 
@@ -2304,7 +2304,7 @@ Heart tube is formed in
 
 <details><summary>Answer</summary>
 
-**C. Hyaluronic acid secreted by myocardium** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hyaluronic acid secreted by myocardium** — Cardiac jelly (hyaluronic acid-rich ECM) secreted by myocardium separates it from endocardium, contributing to endocardial cushion formation.
 
 </details>
 
@@ -2322,7 +2322,7 @@ Which of the following is a derivative of paramesonephric duct in males ?
 
 <details><summary>Answer</summary>
 
-**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
+**C. Prostatic utricle** — Paramesonephric (Mullerian) duct regresses in males due to MIH from Sertoli cells, leaving prostatic utricle and appendix testis as remnants.
 
 </details>
 
@@ -2340,7 +2340,7 @@ Myelination in peripheral nervous system is done by
 
 <details><summary>Answer</summary>
 
-**D. Schwann cells** — Source: Medicoholic 2015 PYQ compilation.
+**D. Schwann cells** — Schwann cells (neurolemmocytes) myelinate peripheral axons, one cell per internode; oligodendrocytes perform this function in the CNS.
 
 </details>
 
@@ -2358,7 +2358,7 @@ False about limbus fossa ovalis -
 
 <details><summary>Answer</summary>
 
-**C. Derived from septum primum** — Source: Medicoholic 2015 PYQ compilation.
+**C. Derived from septum primum** — Limbus fossa ovalis (annulus ovalis) is the prominent margin derived from septum secundum, not septum primum; septum primum forms floor.
 
 </details>
 
@@ -2376,7 +2376,7 @@ Sertoli cells are derived from -
 
 <details><summary>Answer</summary>
 
-**D. Germinal epithelium** — Source: Medicoholic 2015 PYQ compilation.
+**D. Germinal epithelium** — Sertoli cells originate from coelomic (germinal) epithelium of gonadal ridge; they secrete MIH and support spermatogenesis via blood-testis barrier.
 
 </details>
 

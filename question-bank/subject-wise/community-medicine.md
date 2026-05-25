@@ -4355,7 +4355,7 @@ All of the following are true about Down syndrome except
 
 <details><summary>Answer</summary>
 
-**A. Incidence of Robertsonian translocation is 1:1000** — Source: Medicoholic 2015 PYQ compilation.
+**A. Incidence of Robertsonian translocation is 1:1000** — Robertsonian translocation incidence in Down syndrome is ~1:10,000 (not 1:1,000); 95% are trisomy 21 with maternal nondisjunction origin.
 
 </details>
 
@@ -4373,7 +4373,7 @@ Post marketing surveillance included in which phase of drug clinical trial?
 
 <details><summary>Answer</summary>
 
-**D. IV** — Source: Medicoholic 2015 PYQ compilation.
+**D. IV** — Phase IV trials are post-marketing surveillance studies detecting rare adverse drug reactions after regulatory approval in real-world large populations.
 
 </details>
 
@@ -4391,7 +4391,7 @@ Aincreased 47-year-old woman presents with complaints of nervousness and sensiti
 
 <details><summary>Answer</summary>
 
-**D. Inhibiting deiodination of thyroxine (T4)** — Source: Medicoholic 2015 PYQ compilation.
+**D. Inhibiting deiodination of thyroxine (T4)** — Propylthiouracil inhibits thyroid peroxidase blocking iodination plus inhibits peripheral 5'-deiodinase converting T4 to active T3.
 
 </details>
 
@@ -4409,7 +4409,7 @@ Medium used for antibiotic sensitivity:
 
 <details><summary>Answer</summary>
 
-**C. Mueller-Hinton agar** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mueller-Hinton agar** — Mueller-Hinton agar is the CLSI-standard medium for Kirby-Bauer disc diffusion antibiotic susceptibility testing due to low inhibitor content and reproducibility.
 
 </details>
 
@@ -4427,7 +4427,7 @@ Proteus isolated from a patient of UTI will show which boichemical reaction:
 
 <details><summary>Answer</summary>
 
-**A. Phenylpyruvic acid reaction** — Source: Medicoholic 2015 PYQ compilation.
+**A. Phenylpyruvic acid reaction** — Proteus is phenylalanine deaminase positive, converting phenylalanine to phenylpyruvic acid; also urease-positive causing struvite stones in UTI.
 
 </details>
 
@@ -4445,7 +4445,7 @@ Test to differentiate staphylococci from micrococci:
 
 <details><summary>Answer</summary>
 
-**D. Oxidation fermentation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Oxidation fermentation** — Oxidation-fermentation test: Staphylococci ferment glucose anaerobically while Micrococci only oxidize aerobically; also modified oxidase distinguishes them.
 
 </details>
 
@@ -4463,7 +4463,7 @@ Prevention of catheter induced urinary tract infection is by ?
 
 <details><summary>Answer</summary>
 
-**C. Closed drainage technique** — Source: Medicoholic 2015 PYQ compilation.
+**C. Closed drainage technique** — Closed drainage system prevents retrograde bacterial migration; prophylactic antibiotics promote resistance and are not recommended for CAUTI prevention.
 
 </details>
 
@@ -4481,7 +4481,7 @@ Bubus form is which stage of LGV:
 
 <details><summary>Answer</summary>
 
-**B. Secondary** — Source: Medicoholic 2015 PYQ compilation.
+**B. Secondary** — LGV secondary stage features painful inguinal buboes with groove sign 2-6 weeks after primary painless papule due to Chlamydia trachomatis L1-L3.
 
 </details>
 
@@ -4499,7 +4499,7 @@ Nosocomial infection is most commonly caused by:
 
 <details><summary>Answer</summary>
 
-**A. Gram negative bacilli** — Source: Medicoholic 2015 PYQ compilation.
+**A. Gram negative bacilli** — Gram-negative bacilli (E.coli, Klebsiella, Pseudomonas) cause most hospital-acquired infections, predominantly UTIs from catheters and ventilator-associated pneumonia.
 
 </details>
 
@@ -4517,7 +4517,7 @@ ABO non- secretors are more prone to ?
 
 <details><summary>Answer</summary>
 
-**B. Autoimmunity** — Source: Medicoholic 2015 PYQ compilation.
+**B. Autoimmunity** — ABO non-secretors lack ABH antigens in secretions, increasing susceptibility to autoimmune conditions like ankylosing spondylitis, Sjogren's, and type 1 diabetes.
 
 </details>
 
@@ -4535,7 +4535,7 @@ CD3 is a marker for?
 
 <details><summary>Answer</summary>
 
-**B. T - cells** — Source: Medicoholic 2015 PYQ compilation.
+**B. T - cells** — CD3 is the pan-T-cell marker associated with the T-cell receptor complex, essential for signal transduction in all mature T lymphocytes.
 
 </details>
 
@@ -4553,7 +4553,7 @@ Performance of components of PQLI is counted between
 
 <details><summary>Answer</summary>
 
-**C. 0 to 100** — Source: Medicoholic 2015 PYQ compilation.
+**C. 0 to 100** — PQLI scales IMR, life expectancy at age 1, and literacy rate each 0-100, then averages; higher score reflects better quality of life.
 
 </details>
 
@@ -4571,7 +4571,7 @@ Human, animal, fomite or objects from which infective organism enters the host i
 
 <details><summary>Answer</summary>
 
-**A. Source** — Source: Medicoholic 2015 PYQ compilation.
+**A. Source** — Source is the immediate person/object from which infection passes to host; reservoir is the natural habitat where pathogen lives and multiplies.
 
 </details>
 
@@ -4589,7 +4589,7 @@ Not included in Bradford Hill's criteria ?
 
 <details><summary>Answer</summary>
 
-**D. Lack of temporal association** — Source: Medicoholic 2015 PYQ compilation.
+**D. Lack of temporal association** — Bradford Hill requires temporal association (cause precedes effect), not lack of it; nine criteria include strength, consistency, specificity, biological gradient, plausibility.
 
 </details>
 
@@ -4607,7 +4607,7 @@ Most important criterian in causal relationship hypothesis ?
 
 <details><summary>Answer</summary>
 
-**A. Temporal association** — Source: Medicoholic 2015 PYQ compilation.
+**A. Temporal association** — Temporal association is the only mandatory Bradford Hill criterion - exposure must precede outcome; without it causation cannot be established.
 
 </details>
 
@@ -4625,7 +4625,7 @@ The weakest criterian in causal relatianship hypothesis?
 
 <details><summary>Answer</summary>
 
-**C. Specificity of association** — Source: Medicoholic 2015 PYQ compilation.
+**C. Specificity of association** — Specificity is weakest Bradford Hill criterion as one cause can produce multiple effects (smoking causes lung cancer, COPD, CVD) - rarely applies.
 
 </details>
 
@@ -4643,7 +4643,7 @@ Benefit of RCT ?
 
 <details><summary>Answer</summary>
 
-**C. No selection bias** — Source: Medicoholic 2015 PYQ compilation.
+**C. No selection bias** — Randomization in RCTs eliminates selection bias and balances known plus unknown confounders, making it the gold standard for causal inference.
 
 </details>
 
@@ -4661,7 +4661,7 @@ Most commonly used blinding technique in epidemiological studies ?
 
 <details><summary>Answer</summary>
 
-**C. Triple blinding** — Source: Medicoholic 2015 PYQ compilation.
+**C. Triple blinding** — Triple blinding (participant, investigator, data analyst all blinded) is most commonly used to eliminate observer, response, and analysis bias.
 
 </details>
 
@@ -4679,7 +4679,7 @@ Which of one of the following is NOT a utilization rate?
 
 <details><summary>Answer</summary>
 
-**A. Population bed ratio** — Source: Medicoholic 2015 PYQ compilation.
+**A. Population bed ratio** — Population-bed ratio is a provision/availability indicator; bed occupancy, turnover ratio, and average length of stay measure actual hospital utilization.
 
 </details>
 
@@ -4697,7 +4697,7 @@ Calculate IMR if in a population of 100000 there are 3000 live births in a year 
 
 <details><summary>Answer</summary>
 
-**D. 50** — Source: Medicoholic 2015 PYQ compilation.
+**D. 50** — IMR = (infant deaths under 1 year / live births) x 1000 = (150/3000) x 1000 = 50 per 1000 live births.
 
 </details>
 
@@ -4715,7 +4715,7 @@ True about combined prospective- retrospective study true is ?
 
 <details><summary>Answer</summary>
 
-**A. Exposure (+) nt, disease (+) nt** — Source: Medicoholic 2015 PYQ compilation.
+**A. Exposure (+) nt, disease (+) nt** — Ambispective (combined) cohort study starts with neither exposure nor disease present; tracks exposed individuals retrospectively then prospectively for outcome development.
 
 </details>
 
@@ -4733,7 +4733,7 @@ Proportional mortality rate is ?
 
 <details><summary>Answer</summary>
 
-**A. Number of death due to a particular cause** — Source: Medicoholic 2015 PYQ compilation.
+**A. Number of death due to a particular cause** — Proportional mortality rate = (deaths from specific cause / total deaths) x 100; measures relative contribution of disease to overall mortality.
 
 </details>
 
@@ -4751,7 +4751,7 @@ Population attributable risk is defined as the difference between:
 
 <details><summary>Answer</summary>
 
-**C. Incidence in population and incidence in non-exposed** — Source: Medicoholic 2015 PYQ compilation.
+**C. Incidence in population and incidence in non-exposed** — Population attributable risk = incidence in total population minus incidence in non-exposed; estimates disease burden preventable if exposure eliminated community-wide.
 
 </details>
 
@@ -4769,7 +4769,7 @@ Selection bias occurs mainly in
 
 <details><summary>Answer</summary>
 
-**B. Case-control study** — Source: Medicoholic 2015 PYQ compilation.
+**B. Case-control study** — Case-control studies have highest selection bias risk as cases and controls are selected after disease occurrence, with controls often non-representative.
 
 </details>
 
@@ -4787,7 +4787,7 @@ Best study technique to study the occurence of rare adverse effects of drug ?
 
 <details><summary>Answer</summary>
 
-**C. Clinical trial/experimental study** — Source: Medicoholic 2015 PYQ compilation.
+**C. Clinical trial/experimental study** — Clinical trials (Phase IV/post-marketing surveillance) systematically detect rare adverse drug events through large-scale monitoring after market approval.
 
 </details>
 
@@ -4805,7 +4805,7 @@ Bladder cancer can occur in those who are working in chimney for 25 years. Which
 
 <details><summary>Answer</summary>
 
-**A. Meta-analysis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Meta-analysis** — Meta-analysis pools multiple cohort studies on occupational PAH exposure and bladder cancer, providing highest-level evidence for long-latency exposure-outcome relationships.
 
 </details>
 
@@ -4823,7 +4823,7 @@ Which is an example of case control study ?
 
 <details><summary>Answer</summary>
 
-**A. Thalidomide and teratogenicity** — Source: Medicoholic 2015 PYQ compilation.
+**A. Thalidomide and teratogenicity** — Thalidomide-phocomelia was identified by case-control study comparing exposed mothers of malformed infants to controls; rare outcome ideal for retrospective design.
 
 </details>
 
@@ -4841,7 +4841,7 @@ Advantage of case-control over a cohort study ?
 
 <details><summary>Answer</summary>
 
-**D. b and c** — Source: Medicoholic 2015 PYQ compilation.
+**D. b and c** — Case-control studies calculate odds ratio, are ideal for rare diseases, need smaller sample size, are cheaper and faster than cohort studies.
 
 </details>
 
@@ -4859,7 +4859,7 @@ Immunity starts after how many days of yellow fever vaccination ?
 
 <details><summary>Answer</summary>
 
-**A. 7-10 days** — Source: Medicoholic 2015 PYQ compilation.
+**A. 7-10 days** — Yellow fever 17D live attenuated vaccine produces protective immunity within 7-10 days; IHR certificate valid lifelong after single dose.
 
 </details>
 
@@ -4877,7 +4877,7 @@ Which Dipheria vaccine is recommended in a 14 years old girl ?
 
 <details><summary>Answer</summary>
 
-**C. Tdap** — Source: Medicoholic 2015 PYQ compilation.
+**C. Tdap** — Tdap (tetanus, reduced diphtheria, acellular pertussis) is recommended at 10 and 16 years under India's National Immunization Schedule for adolescents.
 
 </details>
 

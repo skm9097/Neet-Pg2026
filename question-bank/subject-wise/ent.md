@@ -850,7 +850,7 @@ Content of anatomical snuffbox
 
 <details><summary>Answer</summary>
 
-**A. Radial artery** — Source: Medicoholic 2015 PYQ compilation.
+**A. Radial artery** — Radial artery traverses the snuffbox floor over the scaphoid, accompanied by superficial branch of radial nerve and cephalic vein origin.
 
 </details>
 
@@ -868,7 +868,7 @@ Content of anatomical snuffbox
 
 <details><summary>Answer</summary>
 
-**C. EPL** — Source: Medicoholic 2015 PYQ compilation.
+**C. EPL** — Third dorsal extensor compartment contains extensor pollicis longus, which hooks around Lister's tubercle of the distal radius.
 
 </details>
 
@@ -886,7 +886,7 @@ Which of the following represent the commonest variation in the arteries arising
 
 <details><summary>Answer</summary>
 
-**D. Left common carotid artery arising from brachiocephalic trunk** — Source: Medicoholic 2015 PYQ compilation.
+**D. Left common carotid artery arising from brachiocephalic trunk** — Bovine arch — left common carotid arising from brachiocephalic trunk — is commonest arch variant, present in ~13–27% population.
 
 </details>
 
@@ -904,7 +904,7 @@ Which structure does not pass through superior thoracic aperture -
 
 <details><summary>Answer</summary>
 
-**D. Right recurrent laryngeal nerve** — Source: Medicoholic 2015 PYQ compilation.
+**D. Right recurrent laryngeal nerve** — Right recurrent laryngeal nerve loops around right subclavian artery within the neck, never entering the thorax through superior aperture.
 
 </details>
 
@@ -922,7 +922,7 @@ True about anatomy of right ventricle:
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2015 PYQ compilation.
+**D. All** — Right ventricle shows coarse trabeculations, crista supraventricularis separating inflow-outflow, and tricuspid-pulmonary valves lacking fibrous continuity unlike left side.
 
 </details>
 
@@ -940,7 +940,7 @@ Haustrations are present in -
 
 <details><summary>Answer</summary>
 
-**D. Colon** — Source: Medicoholic 2015 PYQ compilation.
+**D. Colon** — Haustra are sacculations produced by shorter taeniae coli contracting the colonic wall — a defining external feature of the large intestine.
 
 </details>
 
@@ -958,7 +958,7 @@ Secretomotor fibers to parotid glands are through -
 
 <details><summary>Answer</summary>
 
-**A. Tympanic plexus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tympanic plexus** — Parotid parasympathetic secretomotor fibres arise from inferior salivatory nucleus via glossopharyngeal → tympanic plexus → lesser petrosal → otic ganglion → auriculotemporal.
 
 </details>
 
@@ -976,7 +976,7 @@ Which of the following is pure sensory nerve ?
 
 <details><summary>Answer</summary>
 
-**D. Olfactory** — Source: Medicoholic 2015 PYQ compilation.
+**D. Olfactory** — Olfactory (CN I) is purely sensory, carrying smell via bipolar neurons from olfactory epithelium through cribriform plate to olfactory bulb.
 
 </details>
 
@@ -994,7 +994,7 @@ Oxyntic cells are present in -
 
 <details><summary>Answer</summary>
 
-**C. Body** — Source: Medicoholic 2015 PYQ compilation.
+**C. Body** — Oxyntic (parietal) cells secrete HCl and intrinsic factor; located in oxyntic glands of gastric body and fundus, absent from pylorus.
 
 </details>
 
@@ -1012,7 +1012,7 @@ Seminal colliculus is present in ?
 
 <details><summary>Answer</summary>
 
-**C. Urethra** — Source: Medicoholic 2015 PYQ compilation.
+**C. Urethra** — Seminal colliculus (verumontanum) is an elevation on posterior wall of prostatic urethra where ejaculatory ducts and prostatic utricle open.
 
 </details>
 
@@ -1030,7 +1030,7 @@ Tronsport process which is against concentration gradient and carrier mediated i
 
 <details><summary>Answer</summary>
 
-**C. Active transport** — Source: Medicoholic 2015 PYQ compilation.
+**C. Active transport** — Active transport uses ATP-driven carrier proteins (e.g. Na-K ATPase) to move solutes uphill against their electrochemical gradient.
 
 </details>
 
@@ -1048,7 +1048,7 @@ Similarity between active transport and facilitated diffusion ?
 
 <details><summary>Answer</summary>
 
-**C. Carrier protein** — Source: Medicoholic 2015 PYQ compilation.
+**C. Carrier protein** — Both use specific carrier/transporter proteins; only active transport requires ATP and moves solute against gradient, facilitated diffusion is passive.
 
 </details>
 
@@ -1066,7 +1066,7 @@ True about ENaC are all except ?
 
 <details><summary>Answer</summary>
 
-**B. Composed of 2 homolous subunits** — Source: Medicoholic 2015 PYQ compilation.
+**B. Composed of 2 homolous subunits** — ENaC is amiloride-sensitive epithelial Na channel in kidney/colon, composed of three (not two) homologous subunits — alpha, beta, gamma.
 
 </details>
 
@@ -1084,7 +1084,7 @@ Most recent taste sensation is?
 
 <details><summary>Answer</summary>
 
-**D. Umami** — Source: Medicoholic 2015 PYQ compilation.
+**D. Umami** — Umami, discovered by Ikeda in 1908, is the fifth and most recently recognised taste, mediated by glutamate via T1R1/T1R3 receptors.
 
 </details>
 
@@ -1102,7 +1102,7 @@ In electromyograply [EMG] transient response at the time of insertion of eloctro
 
 <details><summary>Answer</summary>
 
-**D. Cell membrane damage** — Source: Medicoholic 2015 PYQ compilation.
+**D. Cell membrane damage** — Insertional activity in EMG reflects mechanical injury to muscle fibre membrane by the needle electrode, lasting briefly after insertion.
 
 </details>
 
@@ -1120,7 +1120,7 @@ Doll's eye reflex is used in?
 
 <details><summary>Answer</summary>
 
-**C. Unconscious patient** — Source: Medicoholic 2015 PYQ compilation.
+**C. Unconscious patient** — Oculocephalic (doll's eye) reflex tests brainstem integrity in unconscious/comatose patients — intact reflex indicates preserved pontine/midbrain function.
 
 </details>
 
@@ -1138,7 +1138,7 @@ Which of the following statement is TRUE about Bohr's effect?
 
 <details><summary>Answer</summary>
 
-**A. Decreased affinity of Hb to 02 is associated with decreased pH** — Source: Medicoholic 2015 PYQ compilation.
+**A. Decreased affinity of Hb to 02 is associated with decreased pH** — Bohr effect: increased CO2/H+ (lower pH) right-shifts oxygen dissociation curve, decreasing Hb–O2 affinity to release O2 to active tissues.
 
 </details>
 
@@ -1156,7 +1156,7 @@ ST Segment of ECG Corresponds to ?
 
 <details><summary>Answer</summary>
 
-**D. AV Conduction** — Source: Medicoholic 2015 PYQ compilation.
+**D. AV Conduction** — ST segment lies between ventricular depolarization (QRS) and repolarization (T wave); represents the plateau phase of ventricular action potential.
 
 </details>
 
@@ -1174,7 +1174,7 @@ In an ECG the cardiac event corresponding to the ST segment is:
 
 <details><summary>Answer</summary>
 
-**D. Ventricular repolarisation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ventricular repolarisation** — ST segment corresponds to phase 2 plateau — early ventricular repolarization — when entire ventricular myocardium is depolarized and isoelectric.
 
 </details>
 
@@ -1192,7 +1192,7 @@ GFR measurement help in determining ?
 
 <details><summary>Answer</summary>
 
-**C. Stage of kidney disease** — Source: Medicoholic 2015 PYQ compilation.
+**C. Stage of kidney disease** — GFR is the gold-standard marker for staging chronic kidney disease (CKD stages 1–5) per KDIGO classification based on filtration rate.
 
 </details>
 
@@ -1210,7 +1210,7 @@ Not a content of sperm ?
 
 <details><summary>Answer</summary>
 
-**D. Endoplasmic reticulum** — Source: Medicoholic 2015 PYQ compilation.
+**D. Endoplasmic reticulum** — Mature spermatozoa lack endoplasmic reticulum and ribosomes; retain mitochondria (midpiece), Golgi-derived acrosome, and centriole for fertilization.
 
 </details>
 
@@ -1228,7 +1228,7 @@ Respiratery quotient is the Ratio of -
 
 <details><summary>Answer</summary>
 
-**C. Co, released to 02 consumed** — Source: Medicoholic 2015 PYQ compilation.
+**C. Co, released to 02 consumed** — Respiratory quotient (RQ) = CO2 produced/O2 consumed at the tissue level, reflecting substrate oxidation type (carbs=1, fat=0.7, protein=0.8).
 
 </details>
 
@@ -1246,7 +1246,7 @@ Intercalated disc is present in:
 
 <details><summary>Answer</summary>
 
-**A. Cardiac muscle** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cardiac muscle** — Intercalated discs are specialized junctions (gap junctions + desmosomes + fascia adherens) connecting cardiac myocytes for electrical and mechanical coupling.
 
 </details>
 
@@ -1264,7 +1264,7 @@ Regarding Caisson's disease which statement among the following is CORRECT?
 
 <details><summary>Answer</summary>
 
-**B. Pain in the joints is due to nitrogen bubbles** — Source: Medicoholic 2015 PYQ compilation.
+**B. Pain in the joints is due to nitrogen bubbles** — Caisson's (decompression) disease: rapid ascent causes dissolved nitrogen to form bubbles in joints/tissues, producing bends — joint pain.
 
 </details>
 
@@ -1282,7 +1282,7 @@ Enzyme deficient in Hers disease -
 
 <details><summary>Answer</summary>
 
-**B. Liver phosphorylase** — Source: Medicoholic 2015 PYQ compilation.
+**B. Liver phosphorylase** — Hers disease (GSD VI) results from liver phosphorylase deficiency causing hepatomegaly and mild hypoglycemia; muscle phosphorylase is preserved.
 
 </details>
 
@@ -1300,7 +1300,7 @@ Which of the following enzyme is not a component of fatty acid synthase complex?
 
 <details><summary>Answer</summary>
 
-**A. Acetyl Co-A carboxylase** — Source: Medicoholic 2015 PYQ compilation.
+**A. Acetyl Co-A carboxylase** — Acetyl-CoA carboxylase (rate-limiting, biotin-dependent, converts acetyl-CoA to malonyl-CoA) is separate from the multifunctional fatty acid synthase complex.
 
 </details>
 
@@ -1318,7 +1318,7 @@ Amide group is present in which part of protein -
 
 <details><summary>Answer</summary>
 
-**C. Peptide bond** — Source: Medicoholic 2015 PYQ compilation.
+**C. Peptide bond** — Peptide bond linking amino acids is a covalent amide (-CO-NH-) bond formed between carboxyl and amino groups with water loss.
 
 </details>
 
@@ -1336,7 +1336,7 @@ Respiratory quotient of carbohydrate is:
 
 <details><summary>Answer</summary>
 
-**D. 1** — Source: Medicoholic 2015 PYQ compilation.
+**D. 1** — Carbohydrate oxidation: C6H12O6 + 6O2 → 6CO2 + 6H2O; RQ = 6CO2/6O2 = 1.0, highest among macronutrients.
 
 </details>
 
@@ -1354,7 +1354,7 @@ If content of A is 15%, what is the amount of G in DNA according to Chargaff s r
 
 <details><summary>Answer</summary>
 
-**C. 35%** — Source: Medicoholic 2015 PYQ compilation.
+**C. 35%** — Chargaff: A=T, G=C. If A=15%, T=15%, so G+C = 70%, hence G=35% — base pairing maintains equimolar purine-pyrimidine ratios.
 
 </details>
 
@@ -1372,7 +1372,7 @@ cDNA from RNA is synthesized by -
 
 <details><summary>Answer</summary>
 
-**D. Reverse transcriptase** — Source: Medicoholic 2015 PYQ compilation.
+**D. Reverse transcriptase** — Reverse transcriptase (RNA-dependent DNA polymerase) synthesizes complementary cDNA from an mRNA template; used in retroviruses and molecular cloning.
 
 </details>
 

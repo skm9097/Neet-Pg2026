@@ -850,7 +850,7 @@ Chymotrypsinogen is activated into chymotrypsin by:
 
 <details><summary>Answer</summary>
 
-**A. Trypsin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Trypsin** — Trypsin cleaves chymotrypsinogen (zymogen) into active chymotrypsin; trypsin itself is activated from trypsinogen by enteropeptidase (enterokinase) in duodenum.
 
 </details>
 
@@ -868,7 +868,7 @@ Example of exopeptidase is ?
 
 <details><summary>Answer</summary>
 
-**D. Carboxy peptidases** — Source: Medicoholic 2015 PYQ compilation.
+**D. Carboxy peptidases** — Carboxypeptidase A/B (pancreatic) cleaves terminal amino acids from C-end; trypsin, chymotrypsin, elastase are endopeptidases cleaving internal peptide bonds.
 
 </details>
 
@@ -886,7 +886,7 @@ Secretion of bile out of hepactocytes occurs via?
 
 <details><summary>Answer</summary>
 
-**D. Active transport** — Source: Medicoholic 2015 PYQ compilation.
+**D. Active transport** — Bile secretion into canaliculi uses ATP-dependent active transport via BSEP/MRP2 transporters; concentration gradient against canalicular lumen requires energy.
 
 </details>
 
@@ -904,7 +904,7 @@ Absorption of calcium ion is affected mostly by ?
 
 <details><summary>Answer</summary>
 
-**A. Calcitriol** — Source: Medicoholic 2015 PYQ compilation.
+**A. Calcitriol** — Calcitriol (1,25-dihydroxyvitamin D3) upregulates calbindin and TRPV6 in enterocytes, driving active transcellular calcium absorption in duodenum.
 
 </details>
 
@@ -922,7 +922,7 @@ Vitamin D absorption is decreased by ?
 
 <details><summary>Answer</summary>
 
-**D. Fat malabsorption** — Source: Medicoholic 2015 PYQ compilation.
+**D. Fat malabsorption** — Vitamin D is fat-soluble; requires bile salts and micelle formation. Fat malabsorption (steatorrhea, cholestasis, celiac) impairs its intestinal uptake.
 
 </details>
 
@@ -940,7 +940,7 @@ Effect of cholecystokinin on GIT ?
 
 <details><summary>Answer</summary>
 
-**B. Increases small intestinal peristlasis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Increases small intestinal peristlasis** — CCK contracts gallbladder, relaxes sphincter of Oddi, stimulates pancreatic enzyme secretion, and increases small intestinal peristalsis while delaying gastric emptying.
 
 </details>
 
@@ -958,7 +958,7 @@ Small intestinal peristalsis is controlled by :
 
 <details><summary>Answer</summary>
 
-**A. Myentric plexus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Myentric plexus** — Auerbach's (myenteric) plexus between longitudinal and circular muscle layers controls GI motility/peristalsis; Meissner's submucosal plexus regulates secretion.
 
 </details>
 
@@ -976,7 +976,7 @@ How is folic acid absorbed in proximal jejunum?
 
 <details><summary>Answer</summary>
 
-**D. Both active & passive transport** — Source: Medicoholic 2015 PYQ compilation.
+**D. Both active & passive transport** — Folate absorbed in proximal jejunum via PCFT (proton-coupled active transport) at low concentrations and passive diffusion at high concentrations.
 
 </details>
 
@@ -994,7 +994,7 @@ Colipase is:
 
 <details><summary>Answer</summary>
 
-**D. Encoded by the gene CLPS** — Source: Medicoholic 2015 PYQ compilation.
+**D. Encoded by the gene CLPS** — Colipase, encoded by CLPS gene, is secreted as procolipase by pancreas; trypsin activates it to anchor pancreatic lipase to bile-salt-coated lipid droplets.
 
 </details>
 
@@ -1012,7 +1012,7 @@ Cholecystokinin is produced from:
 
 <details><summary>Answer</summary>
 
-**C. Duodenal mucosa** — Source: Medicoholic 2015 PYQ compilation.
+**C. Duodenal mucosa** — CCK is secreted by I-cells of duodenal and jejunal mucosa in response to luminal fatty acids and amino acids.
 
 </details>
 
@@ -1030,7 +1030,7 @@ Somatomedin - C deficiency causes?
 
 <details><summary>Answer</summary>
 
-**C. Growth retardation** — Source: Medicoholic 2015 PYQ compilation.
+**C. Growth retardation** — Somatomedin-C (IGF-1) mediates GH's growth effects; its deficiency (Laron dwarfism, GH receptor defect) causes proportionate growth retardation.
 
 </details>
 
@@ -1048,7 +1048,7 @@ All are about adiponectin except ?
 
 <details><summary>Answer</summary>
 
-**D. Positive Correlation with BMI** — Source: Medicoholic 2015 PYQ compilation.
+**D. Positive Correlation with BMI** — Adiponectin is inversely correlated with BMI (decreased in obesity); it enhances insulin sensitivity, lowers glucose, and stimulates fatty acid oxidation via AMPK.
 
 </details>
 
@@ -1066,7 +1066,7 @@ Hormone responsible for galactopoiesis ?
 
 <details><summary>Answer</summary>
 
-**D. Prolactin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Prolactin** — Prolactin maintains established milk production (galactopoiesis); oxytocin causes milk ejection/letdown via myoepithelial contraction.
 
 </details>
 
@@ -1084,7 +1084,7 @@ Ionotropic effect of thyroid hormone is by ?
 
 <details><summary>Answer</summary>
 
-**C. Potentiation of Catecholamines** — Source: Medicoholic 2015 PYQ compilation.
+**C. Potentiation of Catecholamines** — T3 upregulates beta-adrenergic receptors on myocardium, potentiating catecholamine action; increases Na/K-ATPase and SERCA expression for positive inotropy.
 
 </details>
 
@@ -1102,7 +1102,7 @@ Ionotropic effect of thyroid hormone is by ?
 
 <details><summary>Answer</summary>
 
-**D. Tyrosine kinase** — Source: Medicoholic 2015 PYQ compilation.
+**D. Tyrosine kinase** — Insulin receptor beta-subunit has intrinsic tyrosine kinase activity; autophosphorylation upon insulin binding recruits IRS-1 and downstream PI3K/Akt signaling.
 
 </details>
 
@@ -1120,7 +1120,7 @@ Insulin mediated transport of glucose is ?
 
 <details><summary>Answer</summary>
 
-**A. Seen in adipose tissue** — Source: Medicoholic 2015 PYQ compilation.
+**A. Seen in adipose tissue** — Insulin-dependent GLUT-4 mediates glucose uptake in adipose tissue and skeletal muscle; GLUT-2 (liver/beta cells) and GLUT-1 (RBC) are insulin-independent.
 
 </details>
 
@@ -1138,7 +1138,7 @@ Acrosome reaction is seen in?
 
 <details><summary>Answer</summary>
 
-**C. Fertilization** — Source: Medicoholic 2015 PYQ compilation.
+**C. Fertilization** — Acrosome reaction occurs at fertilization when capacitated sperm contacts zona pellucida; releases hyaluronidase and acrosin to penetrate the oocyte.
 
 </details>
 
@@ -1156,7 +1156,7 @@ Iron is conserved by?
 
 <details><summary>Answer</summary>
 
-**A. Hemopexin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hemopexin** — Hemopexin binds free heme released from hemoglobin and delivers it to hepatocytes, conserving iron; haptoglobin binds free hemoglobin similarly.
 
 </details>
 
@@ -1174,7 +1174,7 @@ Primitive red cells first originates in the early embryonic life is in:
 
 <details><summary>Answer</summary>
 
-**B. Yolk sac** — Source: Medicoholic 2015 PYQ compilation.
+**B. Yolk sac** — Mesoblastic phase: primitive nucleated erythrocytes arise in yolk sac blood islands at 3rd week; later hepatic then medullary phases take over.
 
 </details>
 
@@ -1192,7 +1192,7 @@ Converging point of both pathway in coagulation is at:
 
 <details><summary>Answer</summary>
 
-**B. Stuart factor X** — Source: Medicoholic 2015 PYQ compilation.
+**B. Stuart factor X** — Factor X (Stuart-Prower) is activated by both intrinsic (IXa/VIIIa) and extrinsic (VIIa/TF) pathways, marking start of common pathway converting prothrombin to thrombin.
 
 </details>
 
@@ -1210,7 +1210,7 @@ Penile erection is mediated by?
 
 <details><summary>Answer</summary>
 
-**A. Parasympathetic system via muscarinic receptors** — Source: Medicoholic 2015 PYQ compilation.
+**A. Parasympathetic system via muscarinic receptors** — Parasympathetic S2-S4 nerves release ACh and NO; activates muscarinic receptors and guanylate cyclase, raising cGMP, relaxing cavernosal smooth muscle.
 
 </details>
 
@@ -1228,7 +1228,7 @@ Inhibition of heart by vagus is mediated by which receptors -
 
 <details><summary>Answer</summary>
 
-**B. M2** — Source: Medicoholic 2015 PYQ compilation.
+**B. M2** — Vagal ACh acts on cardiac M2 muscarinic receptors (SA/AV node) causing bradycardia via Gi-coupled inhibition of adenylyl cyclase and K+ channel opening.
 
 </details>
 
@@ -1246,7 +1246,7 @@ Inhibition of heart by vagus by M2 receptors is medicated by which mechanism?
 
 <details><summary>Answer</summary>
 
-**A. cAMP** — Source: Medicoholic 2015 PYQ compilation.
+**A. cAMP** — M2 receptor couples to Gi, inhibiting adenylyl cyclase, reducing cAMP; decreases pacemaker funny current (If) and slows SA node depolarization.
 
 </details>
 
@@ -1264,7 +1264,7 @@ Glucagon activates which enzyme ?
 
 <details><summary>Answer</summary>
 
-**C. Adenylyl cyclase** — Source: Medicoholic 2015 PYQ compilation.
+**C. Adenylyl cyclase** — Glucagon binds Gs-coupled hepatic receptor, activating adenylyl cyclase to raise cAMP, which activates PKA driving glycogenolysis and gluconeogenesis.
 
 </details>
 
@@ -1282,7 +1282,7 @@ Size of platelets is ?
 
 <details><summary>Answer</summary>
 
-**D. 2µm** — Source: Medicoholic 2015 PYQ compilation.
+**D. 2µm** — Platelets (thrombocytes) are anucleate fragments of megakaryocytes, measuring 2-4 micrometers in diameter; lifespan about 8-10 days.
 
 </details>
 
@@ -1300,7 +1300,7 @@ If HbAl C is 8%, What will be the value of blood glucose [mg/d1] ?
 
 <details><summary>Answer</summary>
 
-**C. 200** — Source: Medicoholic 2015 PYQ compilation.
+**C. 200** — By ADAG formula: mean glucose = 28.7 x HbA1c - 46.7; HbA1c of 8% corresponds to estimated average blood glucose around 180-200 mg/dL.
 
 </details>
 
@@ -1318,7 +1318,7 @@ Preaccelerin is ?
 
 <details><summary>Answer</summary>
 
-**C. Facter VII** — Source: Medicoholic 2015 PYQ compilation.
+**C. Facter VII** — Proaccelerin is Factor V (labile factor); proconvertin is Factor VII. Confusion in question, but proaccelerin classically refers to Factor V cofactor of Xa.
 
 </details>
 
@@ -1336,7 +1336,7 @@ Conversion of prekallikrein to kallikrein requires which clotting factor -
 
 <details><summary>Answer</summary>
 
-**B. XII** — Source: Medicoholic 2015 PYQ compilation.
+**B. XII** — Factor XIIa (Hageman factor, activated by contact with negatively charged surfaces) cleaves prekallikrein to kallikrein in intrinsic pathway initiation.
 
 </details>
 
@@ -1354,7 +1354,7 @@ Caisson's disease is associated with?
 
 <details><summary>Answer</summary>
 
-**C. Underwater construction workers** — Source: Medicoholic 2015 PYQ compilation.
+**C. Underwater construction workers** — Caisson disease (decompression sickness) affects underwater construction workers and divers ascending rapidly; dissolved nitrogen forms bubbles in tissues/joints.
 
 </details>
 
@@ -1372,7 +1372,7 @@ Following is true about oculocardiac reflex except ?
 
 <details><summary>Answer</summary>
 
-**B. It is mediated by occulomotor and vagus nerve** — Source: Medicoholic 2015 PYQ compilation.
+**B. It is mediated by occulomotor and vagus nerve** — Oculocardiac (Aschner) reflex: trigeminal (ophthalmic V1, afferent) to vagus (efferent) causes bradycardia on globe traction; oculomotor nerve not involved.
 
 </details>
 

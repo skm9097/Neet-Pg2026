@@ -684,7 +684,7 @@ Which is activated for nuclear fragmentation in apoptosis -
 
 <details><summary>Answer</summary>
 
-**A. Caspases** — Source: Medicoholic 2015 PYQ compilation.
+**A. Caspases** — Executioner caspases (3, 6, 7) activate CAD endonuclease, cleaving inhibitor ICAD, causing internucleosomal DNA fragmentation seen in apoptotic ladder.
 
 </details>
 
@@ -702,7 +702,7 @@ In apoptosis which is/are involved -
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2015 PYQ compilation.
+**D. All** — Apoptosis involves Apaf-1 (apoptosome formation), Bcl-2 family (mitochondrial regulation), and caspases (execution) — all converge on programmed cell death.
 
 </details>
 
@@ -720,7 +720,7 @@ Spread of infection causes
 
 <details><summary>Answer</summary>
 
-**C. Liquifactive necrosis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Liquifactive necrosis** — Bacterial infections release lysosomal hydrolases from neutrophils, digesting tissue into liquefied pus — classic abscess formation pattern.
 
 </details>
 
@@ -738,7 +738,7 @@ MI is a type of -
 
 <details><summary>Answer</summary>
 
-**A. Coagulative necrosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Coagulative necrosis** — Myocardial ischemia denatures structural proteins and enzymes, preserving cellular architecture as eosinophilic ghost cells — hallmark of coagulative necrosis.
 
 </details>
 
@@ -756,7 +756,7 @@ Not an example of excess tissue growth
 
 <details><summary>Answer</summary>
 
-**A. Granulation tissue** — Source: Medicoholic 2015 PYQ compilation.
+**A. Granulation tissue** — Granulation tissue is reparative tissue with neovascularization and fibroblasts during wound healing — not a disorder of excess cellular growth.
 
 </details>
 
@@ -774,7 +774,7 @@ Not an example of excess tissue growth
 
 <details><summary>Answer</summary>
 
-**C. Histamine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Histamine** — Histamine is preformed in mast cell granules, released within seconds via degranulation causing immediate vasodilation and increased vascular permeability.
 
 </details>
 
@@ -792,7 +792,7 @@ Which of the following is derived from fibroblast cells ?
 
 <details><summary>Answer</summary>
 
-**C. Collagen** — Source: Medicoholic 2015 PYQ compilation.
+**C. Collagen** — Fibroblasts synthesize and secrete collagen (types I, III) during wound healing and fibrosis — the principal structural extracellular matrix protein.
 
 </details>
 
@@ -810,7 +810,7 @@ Process of migration of leukocytes through the endothelium is through:
 
 <details><summary>Answer</summary>
 
-**C. Diapedesis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Diapedesis** — Diapedesis is transmigration of leukocytes through endothelial intercellular junctions, mediated by PECAM-1 (CD31) following firm adhesion via integrins.
 
 </details>
 
@@ -828,7 +828,7 @@ Serum amyloid associated protein, found in ?
 
 <details><summary>Answer</summary>
 
-**B. Chronic inflammatory states** — Source: Medicoholic 2015 PYQ compilation.
+**B. Chronic inflammatory states** — SAA is an acute-phase reactant from hepatocytes (IL-6 driven), deposited as AA amyloid in secondary amyloidosis from chronic inflammation.
 
 </details>
 
@@ -846,7 +846,7 @@ Reversible change from on cell type to other is known as -
 
 <details><summary>Answer</summary>
 
-**C. Metaplesia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Metaplesia** — Metaplasia is reversible replacement of one adult cell type by another (e.g., squamous metaplasia in bronchi from smoking) via stem cell reprogramming.
 
 </details>
 
@@ -864,7 +864,7 @@ Elastic fibers of tunica media are secreted by
 
 <details><summary>Answer</summary>
 
-**C. Smooth muscle** — Source: Medicoholic 2015 PYQ compilation.
+**C. Smooth muscle** — Vascular smooth muscle cells in tunica media synthesize elastin and collagen, forming concentric elastic laminae characteristic of large elastic arteries.
 
 </details>
 
@@ -882,7 +882,7 @@ Small vessel vasculitis are -
 
 <details><summary>Answer</summary>
 
-**B. Wegner's granulomatosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Wegner's granulomatosis** — Wegener's (GPA) is c-ANCA/PR3-positive small vessel vasculitis affecting upper airway, lung, kidney; PAN is medium-vessel, GCA large-vessel.
 
 </details>
 
@@ -900,7 +900,7 @@ Warm antibody in AIHA is -
 
 <details><summary>Answer</summary>
 
-**C. IgG** — Source: Medicoholic 2015 PYQ compilation.
+**C. IgG** — Warm AIHA features IgG autoantibodies binding RBCs at 37°C, causing extravascular hemolysis via splenic macrophage Fc-receptor uptake.
 
 </details>
 
@@ -918,7 +918,7 @@ Osmotic fragility test is commonly used for -
 
 <details><summary>Answer</summary>
 
-**C. Hereditary spherocYtosis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hereditary spherocYtosis** — Hereditary spherocytosis has spectrin/ankyrin defects producing spheroidal RBCs with low surface-to-volume ratio, lysing rapidly in hypotonic saline.
 
 </details>
 
@@ -936,7 +936,7 @@ Which of the following findings is diagnostic of iron deficiency anemia?
 
 <details><summary>Answer</summary>
 
-**A. Increased TIBC, decreased serum ferritin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Increased TIBC, decreased serum ferritin** — Iron deficiency depletes ferritin (storage) and upregulates transferrin synthesis, raising TIBC — hallmark biochemical profile of true iron deficiency.
 
 </details>
 
@@ -954,7 +954,7 @@ Ristocetin testing von Willebrand disease shows?
 
 <details><summary>Answer</summary>
 
-**B. Decreasedagglutination** — Source: Medicoholic 2015 PYQ compilation.
+**B. Decreasedagglutination** — vWF deficiency impairs ristocetin-induced platelet agglutination via GPIb receptor — confirmatory assay distinguishing vWD from other platelet disorders.
 
 </details>
 
@@ -972,7 +972,7 @@ Shelf life of platelets to blood bank is
 
 <details><summary>Answer</summary>
 
-**A. 5 days** — Source: Medicoholic 2015 PYQ compilation.
+**A. 5 days** — Platelets stored at 20–24°C with gentle agitation maintain function for 5 days; bacterial contamination risk limits longer storage.
 
 </details>
 
@@ -990,7 +990,7 @@ Which of the following does not predispose to leukemia?
 
 <details><summary>Answer</summary>
 
-**B. Alcohol** — Source: Medicoholic 2015 PYQ compilation.
+**B. Alcohol** — Smoking (benzene), ionizing radiation, chemotherapy alkylators, Down syndrome predispose to leukemia; alcohol is not an established leukemogen.
 
 </details>
 
@@ -1008,7 +1008,7 @@ Which of the following does not predispose to leukemia?
 
 <details><summary>Answer</summary>
 
-**B. B. cells** — Source: Medicoholic 2015 PYQ compilation.
+**B. B. cells** — Hairy cell leukemia is a mature B-cell neoplasm with BRAF V600E mutation, TRAP-positive, expressing CD11c, CD25, CD103, CD20.
 
 </details>
 
@@ -1026,7 +1026,7 @@ AML causing Gum hypertrophy ?
 
 <details><summary>Answer</summary>
 
-**D. M4** — Source: Medicoholic 2015 PYQ compilation.
+**D. M4** — AML-M4 (acute myelomonocytic) and M5 (monocytic) infiltrate gingiva and skin causing hypertrophy; monocytic component elevates serum/urine lysozyme.
 
 </details>
 
@@ -1044,7 +1044,7 @@ Radiotherapy induced radiation pneumonitis mediated by all of the following exce
 
 <details><summary>Answer</summary>
 
-**B. PAF** — Source: Medicoholic 2015 PYQ compilation.
+**B. PAF** — Radiation pneumonitis mediated by TNF-α, TGF-β (fibrosis), NF-κB inflammatory signaling; PAF is not a primary mediator in radiation lung injury.
 
 </details>
 
@@ -1062,7 +1062,7 @@ Most common lung cancer in non- smokers is:
 
 <details><summary>Answer</summary>
 
-**A. Adenocarcinoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Adenocarcinoma** — Adenocarcinoma arises peripherally from type II pneumocytes/Clara cells, commonest in non-smokers, women, Asians — driven by EGFR mutations, ALK rearrangements.
 
 </details>
 
@@ -1080,7 +1080,7 @@ Most common histological form of lung Ca that metastasizes is -
 
 <details><summary>Answer</summary>
 
-**A. Squamous cell CA** — Source: Medicoholic 2015 PYQ compilation.
+**A. Squamous cell CA** — Adenocarcinoma is most common overall lung cancer and metastasizes most frequently; small cell metastasizes earliest but adenocarcinoma exceeds it in volume.
 
 </details>
 
@@ -1098,7 +1098,7 @@ Most common tnre of renal carcinoma is -
 
 <details><summary>Answer</summary>
 
-**A. Clear cell type** — Source: Medicoholic 2015 PYQ compilation.
+**A. Clear cell type** — Clear cell RCC (75%) arises from proximal tubule with VHL gene loss on 3p25, accumulates HIF, causing glycogen/lipid-rich clear cytoplasm.
 
 </details>
 
@@ -1116,7 +1116,7 @@ Subepithelial deposits in kidney are seen in-
 
 <details><summary>Answer</summary>
 
-**C. PSGN** — Source: Medicoholic 2015 PYQ compilation.
+**C. PSGN** — PSGN shows subepithelial hump-like immune complex deposits (IgG, C3) on electron microscopy, 1–4 weeks post-streptococcal infection.
 
 </details>
 
@@ -1134,7 +1134,7 @@ NotafeatureofPSGN -
 
 <details><summary>Answer</summary>
 
-**D. Normal C3 level** — Source: Medicoholic 2015 PYQ compilation.
+**D. Normal C3 level** — PSGN consumes complement via classical pathway, causing low C3 with hypertension, azotemia, hematuria; C3 normalizes within 6–8 weeks.
 
 </details>
 
@@ -1152,7 +1152,7 @@ In follicular carcinoma chromosomal translocation is?
 
 <details><summary>Answer</summary>
 
-**A. PAXS - PPARTI** — Source: Medicoholic 2015 PYQ compilation.
+**A. PAXS - PPARTI** — Follicular thyroid carcinoma harbors t(2;3)(q13;p25) PAX8-PPARγ1 fusion; RET/PTC seen in papillary, BRAF in papillary/anaplastic thyroid cancer.
 
 </details>
 
@@ -1170,7 +1170,7 @@ All of the following are features of granulomatous thyroiditis except?
 
 <details><summary>Answer</summary>
 
-**C. Painless** — Source: Medicoholic 2015 PYQ compilation.
+**C. Painless** — De Quervain's (subacute granulomatous) thyroiditis is painful (tender goiter post-viral), with transient hyperthyroidism then hypothyroidism; histology shows giant cells.
 
 </details>
 
@@ -1188,7 +1188,7 @@ Sezary cells show which tlpe of nucleus -
 
 <details><summary>Answer</summary>
 
-**D. Cerebriform** — Source: Medicoholic 2015 PYQ compilation.
+**D. Cerebriform** — Sézary cells are CD4+ T-lymphocytes with cerebriform (convoluted, grooved) nuclei seen in cutaneous T-cell lymphoma/mycosis fungoides leukemic phase.
 
 </details>
 
@@ -1206,7 +1206,7 @@ Prusian blue detects?
 
 <details><summary>Answer</summary>
 
-**A. Ferric iron** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ferric iron** — Prussian blue (Perls') stain reacts with ferric iron (Fe3+) in hemosiderin forming insoluble blue ferric ferrocyanide — detects iron overload.
 
 </details>
 

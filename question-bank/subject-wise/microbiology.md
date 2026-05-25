@@ -850,7 +850,7 @@ Obliterative endarteritis in vasa vasorum is seen in -
 
 <details><summary>Answer</summary>
 
-**C. Syphilis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Syphilis** — Tertiary syphilis causes obliterative endarteritis of vasa vasorum (Heubner arteritis), leading to aortitis and gummatous tissue destruction.
 
 </details>
 
@@ -868,7 +868,7 @@ hL/h blood group-
 
 <details><summary>Answer</summary>
 
-**D. Alloftheabove** — Source: Medicoholic 2015 PYQ compilation.
+**D. Alloftheabove** — Bombay phenotype (hh) lacks H-antigen precursor, so A and B antigens cannot be formed; appears as group O on routine typing.
 
 </details>
 
@@ -886,7 +886,7 @@ Routine Rh typing includes testing?
 
 <details><summary>Answer</summary>
 
-**D. D antigen** — Source: Medicoholic 2015 PYQ compilation.
+**D. D antigen** — Routine Rh typing tests only for D antigen, the most immunogenic Rh antigen responsible for hemolytic disease of newborn.
 
 </details>
 
@@ -904,7 +904,7 @@ Irregular scarred kidney with pelvic dilatation is seen with -
 
 <details><summary>Answer</summary>
 
-**A. Chronicpyelonephritis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Chronicpyelonephritis** — Chronic pyelonephritis from recurrent bacterial infection (often vesicoureteric reflux) causes coarse cortical scarring with underlying calyceal blunting and pelvic dilatation.
 
 </details>
 
@@ -922,7 +922,7 @@ Ghon's focus reflects:
 
 <details><summary>Answer</summary>
 
-**B. Primary complex** — Source: Medicoholic 2015 PYQ compilation.
+**B. Primary complex** — Ghon's focus is the subpleural caseating granuloma of primary tuberculosis; with hilar lymphadenopathy it forms the Ghon (primary) complex.
 
 </details>
 
@@ -940,7 +940,7 @@ Bacteria most commonly involved in bowel decomposition after death is -
 
 <details><summary>Answer</summary>
 
-**B. Clostridium welchii** — Source: Medicoholic 2015 PYQ compilation.
+**B. Clostridium welchii** — Clostridium welchii (perfringens), an anaerobic gut commensal, produces gas-forming enzymes that drive postmortem putrefaction and bowel decomposition.
 
 </details>
 
@@ -958,7 +958,7 @@ Crystal violet blood agar is used for which bacteria?
 
 <details><summary>Answer</summary>
 
-**C. β-hemolytic streptococcus** — Source: Medicoholic 2015 PYQ compilation.
+**C. β-hemolytic streptococcus** — Crystal violet inhibits Staphylococci and other Gram-positives, selectively isolating beta-haemolytic Streptococcus pyogenes on blood agar.
 
 </details>
 
@@ -976,7 +976,7 @@ Modified Ziehl-neelsen staining is used for:
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — Modified ZN (with 1% H2SO4 decolouriser) detects weakly acid-fast organisms — Nocardia, Mycobacteria, Cryptosporidium, Isospora, and Legionella micdadei.
 
 </details>
 
@@ -994,7 +994,7 @@ Viral DNA is integrated into Bacterial DNA in:
 
 <details><summary>Answer</summary>
 
-**B. Lysogenic conversion** — Source: Medicoholic 2015 PYQ compilation.
+**B. Lysogenic conversion** — Lysogenic conversion involves integration of temperate phage DNA into bacterial chromosome as prophage, conferring new traits (e.g., diphtheria, cholera, botulinum toxin).
 
 </details>
 
@@ -1012,7 +1012,7 @@ Frozen phenomenon is used for -
 
 <details><summary>Answer</summary>
 
-**C. Preservation of microorganisms** — Source: Medicoholic 2015 PYQ compilation.
+**C. Preservation of microorganisms** — Lyophilisation (freeze-drying) preserves microorganisms by removing water under vacuum from frozen state, maintaining viability for years without metabolism.
 
 </details>
 
@@ -1030,7 +1030,7 @@ Nucleic acid is not found in -
 
 <details><summary>Answer</summary>
 
-**D. Prions** — Source: Medicoholic 2015 PYQ compilation.
+**D. Prions** — Prions are infectious proteinaceous particles devoid of nucleic acid; they propagate by conformational conversion of normal PrPc to PrPsc.
 
 </details>
 
@@ -1048,7 +1048,7 @@ Most common organism involved in nosocomial infection -
 
 <details><summary>Answer</summary>
 
-**A. Staph aureus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Staph aureus** — Staphylococcus aureus (including MRSA) is the leading nosocomial pathogen, causing surgical-site infections, bacteraemia, and ventilator-associated pneumonia.
 
 </details>
 
@@ -1066,7 +1066,7 @@ Oil paint appearance on nutrient agar is seen in -
 
 <details><summary>Answer</summary>
 
-**B. Staphylococcus aureus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Staphylococcus aureus** — Staphylococcus aureus forms golden-yellow, smooth, glistening, opaque colonies resembling oil paint on nutrient agar due to carotenoid staphyloxanthin pigment.
 
 </details>
 
@@ -1084,7 +1084,7 @@ Most common age group affected by streptococcus pyogenes -
 
 <details><summary>Answer</summary>
 
-**B. 5 - 15 years** — Source: Medicoholic 2015 PYQ compilation.
+**B. 5 - 15 years** — Group A Streptococcus most commonly causes pharyngitis and rheumatic fever in school-age children (5–15 years) due to crowded school exposure and waning maternal immunity.
 
 </details>
 
@@ -1102,7 +1102,7 @@ Bacteria that can grow even in the presence of antiseptic:
 
 <details><summary>Answer</summary>
 
-**D. Pseudomonas** — Source: Medicoholic 2015 PYQ compilation.
+**D. Pseudomonas** — Pseudomonas aeruginosa survives in disinfectants/antiseptics (chlorhexidine, savlon) via efflux pumps, biofilm formation, and minimal nutrient requirements.
 
 </details>
 
@@ -1120,7 +1120,7 @@ A chronic alcoholic is presenting with clinical features of meningitis. Most lik
 
 <details><summary>Answer</summary>
 
-**A. Streptococcus pneumoniae** — Source: Medicoholic 2015 PYQ compilation.
+**A. Streptococcus pneumoniae** — Streptococcus pneumoniae is the commonest meningitis pathogen in chronic alcoholics due to splenic hypofunction and impaired opsonisation of encapsulated organisms.
 
 </details>
 
@@ -1138,7 +1138,7 @@ Protein A of staphylococcus binds to
 
 <details><summary>Answer</summary>
 
-**B. IgG** — Source: Medicoholic 2015 PYQ compilation.
+**B. IgG** — Protein A on S. aureus cell wall binds Fc region of IgG, blocking opsonisation and phagocytosis — a key antiphagocytic virulence factor.
 
 </details>
 
@@ -1156,7 +1156,7 @@ Which streptodornase is most antigenic in human beings:
 
 <details><summary>Answer</summary>
 
-**B. B** — Source: Medicoholic 2015 PYQ compilation.
+**B. B** — Streptodornase B (DNase B) is the most antigenic streptococcal DNase; anti-DNase B titre is a key serological marker of recent Streptococcus pyogenes infection.
 
 </details>
 
@@ -1174,7 +1174,7 @@ Fresh water swimming leads to infection by -
 
 <details><summary>Answer</summary>
 
-**D. Pseudomonas** — Source: Medicoholic 2015 PYQ compilation.
+**D. Pseudomonas** — Pseudomonas aeruginosa thrives in moist environments (pools, hot tubs) causing swimmer's ear (otitis externa) and hot-tub folliculitis.
 
 </details>
 
@@ -1192,7 +1192,7 @@ Izumi fever is caused by:
 
 <details><summary>Answer</summary>
 
-**C. Yersinia pseudotuberculosis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Yersinia pseudotuberculosis** — Izumi fever, a scarlet-fever-like illness reported in Japan, is caused by Yersinia pseudotuberculosis via contaminated food/water transmission.
 
 </details>
 
@@ -1210,7 +1210,7 @@ True about widal test:
 
 <details><summary>Answer</summary>
 
-**C. H-antigen is most immunogenic** — Source: Medicoholic 2015 PYQ compilation.
+**C. H-antigen is most immunogenic** — In Widal test, H (flagellar) antigen is most immunogenic producing high persistent titres; O antibody rises first but falls early.
 
 </details>
 
@@ -1228,7 +1228,7 @@ Non-motile bacterium is -
 
 <details><summary>Answer</summary>
 
-**C. Clostridium perfringens** — Source: Medicoholic 2015 PYQ compilation.
+**C. Clostridium perfringens** — Clostridium perfringens is the only non-motile Clostridium species; it lacks flagella, distinguishing it from C. septicum, C. tetani, and C. botulinum.
 
 </details>
 
@@ -1246,7 +1246,7 @@ Phagocytosis of mycobacterium tuberculosis by macro​phages is mainly mediated 
 
 <details><summary>Answer</summary>
 
-**D. IFN Gamma** — Source: Medicoholic 2015 PYQ compilation.
+**D. IFN Gamma** — IFN-gamma from Th1 cells activates macrophages to phagocytose and kill M. tuberculosis via reactive nitrogen intermediates and phagolysosome fusion.
 
 </details>
 
@@ -1264,7 +1264,7 @@ Bile esculin agar is used for ?
 
 <details><summary>Answer</summary>
 
-**D. Enterococcus** — Source: Medicoholic 2015 PYQ compilation.
+**D. Enterococcus** — Enterococci and group D streptococci hydrolyse esculin in presence of 40% bile, producing black-brown colonies on bile esculin agar.
 
 </details>
 
@@ -1282,7 +1282,7 @@ Which of the following belongs to Herpesviridae:
 
 <details><summary>Answer</summary>
 
-**D. RK virus** — Source: Medicoholic 2015 PYQ compilation.
+**D. RK virus** — RK (Rabbit Kidney) virus / HHV-related is in Herpesviridae; Variola is Poxviridae, Adenovirus is Adenoviridae, HPV is Papillomaviridae.
 
 </details>
 
@@ -1300,7 +1300,7 @@ HIV envelop is formed by:
 
 <details><summary>Answer</summary>
 
-**C. Both** — Source: Medicoholic 2015 PYQ compilation.
+**C. Both** — HIV envelope is derived from host cell plasma membrane (lipid bilayer) studded with viral glycoproteins gp120 and gp41.
 
 </details>
 
@@ -1318,7 +1318,7 @@ Which HIV-virus is more dangerous:
 
 <details><summary>Answer</summary>
 
-**A. HIV-1** — Source: Medicoholic 2015 PYQ compilation.
+**A. HIV-1** — HIV-1 is more virulent and transmissible with faster CD4 decline and AIDS progression; HIV-2 is West African, slower and less infectious.
 
 </details>
 
@@ -1336,7 +1336,7 @@ Which of the following can infect ovary -
 
 <details><summary>Answer</summary>
 
-**A. Mumps virus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Mumps virus** — Mumps virus (Paramyxovirus) causes oophoritis in post-pubertal females and orchitis in males, occasionally leading to infertility.
 
 </details>
 
@@ -1354,7 +1354,7 @@ Which is not a poxvirus:
 
 <details><summary>Answer</summary>
 
-**D. Coxsackie virus** — Source: Medicoholic 2015 PYQ compilation.
+**D. Coxsackie virus** — Coxsackie virus is a Picornaviridae (enterovirus), not a poxvirus; Vaccinia, Molluscum contagiosum, and Tanapox are all Poxviridae.
 
 </details>
 
@@ -1372,7 +1372,7 @@ True about rotavirus vaccine:
 
 <details><summary>Answer</summary>
 
-**C. Pentavalent vaccine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Pentavalent vaccine** — RotaTeq is a live oral pentavalent vaccine containing 5 human-bovine reassortant rotavirus strains (G1, G2, G3, G4, P1A).
 
 </details>
 
