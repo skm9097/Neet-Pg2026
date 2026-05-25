@@ -17546,3 +17546,176 @@ First ANC, LMP 2 months ago. Most accurate USG parameter for dating?
 </details>
 
 ---
+### Q1055 — Pritchard regimen — MgSO4 loading dose *(2025)*
+
+28-year-old, 34 weeks, severe preeclampsia. Pritchard regimen MgSO4 loading dose?
+
+- A. 4 g IV
+- B. 6 g IV + 5 g IM each buttock
+- C. 14 g total (4 g IV + 5 g IM each buttock)
+- D. 20 g total
+
+<details><summary>Answer</summary>
+
+**C. 14 g total** — Pritchard regimen: 4 g IV (slow) + 5 g IM each buttock (10 g IM) = 14 g total loading dose. Maintenance: 5 g IM 4-hourly.
+
+</details>
+
+---
+
+---
+
+### Q1056 — Controlled cord traction (Brandt–Andrews) *(2025)*
+
+Resident applies counter-pressure above pubic symphysis while pulling the umbilical cord. Manoeuvre?
+
+- A. Controlled cord traction (Brandt–Andrews)
+- B. Replacement of prolapsed cord
+- C. Manual removal of placenta
+- D. Lovset manoeuvre
+
+<details><summary>Answer</summary>
+
+**A. Controlled cord traction (Brandt–Andrews)** — Active management of third stage: oxytocin + controlled cord traction + uterine counter-pressure to deliver placenta and reduce PPH.
+
+</details>
+
+---
+
+---
+
+## Year Unknown
+
+### Q1057 — Physiological changes in pregnancy: LEAST likely *(PG Blazer MCQ 26)*
+
+Which of the following is the LEAST likely physiological change during pregnancy?
+
+- A. Increase in intravascular volume
+- B. Increase in cardiac output
+- C. Increase in stroke volume
+- D. Increase in peripheral vascular resistance
+
+<details><summary>Answer</summary>
+
+**D. Increase in peripheral vascular resistance** — PVR decreases (~40%) in pregnancy due to progesterone-mediated vasodilatation and low-resistance uteroplacental circulation. All other listed parameters increase.
+
+</details>
+
+---
+
+---
+
+### Q1058 — Persistent occipito-posterior: pelvis type *(PrepLadder FMGE)*
+
+A woman in labour has a persistent occiput-posterior position; manual rotation was attempted but unsuccessful. What pelvic type is likely?
+
+- A. Gynaecoid
+- B. Anthropoid
+- C. Platypelloid
+- D. Osteomalacic pelvis
+
+<details><summary>Answer</summary>
+
+**B. Anthropoid pelvis** — AP diameter > transverse; occiput-posterior position favoured; direct OP delivery may be possible but rotation is difficult. Platypelloid: flat inlet, transverse oval, deepest transverse.
+
+</details>
+
+---
+
+---
+
+### Q1059 — Infertility: bilateral tubal block at cornua
+
+A woman with infertility has bilateral tubal block at the cornua on HSG. Best initial management?
+
+- A. Laparoscopy + hysteroscopy
+- B. Hydrotubation
+- C. IVF
+- D. Tuboplasty
+
+<details><summary>Answer</summary>
+
+**A. Laparoscopy + hysteroscopy** — Cornual blocks on HSG are often spasm artefacts; laparoscopy with chromopertubation and concurrent hysteroscopy confirms true occlusion before committing to IVF.
+
+</details>
+
+---
+
+---
+
+### Q1060 — Bethesda system: LSIL corresponds to
+
+Low-grade squamous intraepithelial lesion (LSIL) in the Bethesda system corresponds to:
+
+- A. CIN I
+- B. CIN II
+- C. CIN III
+- D. Squamous metaplasia
+
+<details><summary>Answer</summary>
+
+**A. CIN I** — Bethesda classification: LSIL = CIN I (also includes HPV cytopathic effect). HSIL = CIN II and CIN III. Squamous metaplasia is a normal finding at the transformation zone.
+
+</details>
+
+---
+
+---
+
+### Q1061 — Recurrent abortion: APLA management
+
+Most appropriate treatment for recurrent pregnancy loss due to antiphospholipid antibody syndrome (APAS):
+
+- A. Low-dose aspirin alone (from conception)
+- B. Low-dose aspirin + LMWH (from confirmed IUP)
+- C. Prednisolone alone
+- D. Intravenous immunoglobulin
+
+<details><summary>Answer</summary>
+
+**B. Low-dose aspirin + LMWH** — Standard evidence-based treatment for obstetric APAS. Start aspirin preconceptionally; add LMWH (prophylactic dose) once intrauterine pregnancy confirmed. Steroids are not routinely recommended.
+
+</details>
+
+---
+
+---
+
+### Q1062 — HIV vertical transmission: highest risk period
+
+During pregnancy, HIV transmission from mother to child occurs MOSTLY during:
+
+- A. First trimester
+- B. Second trimester
+- C. Third trimester
+- D. During labour and delivery
+
+<details><summary>Answer</summary>
+
+**D. During labour and delivery** — ~50–65% of vertical transmission occurs intrapartum (exposure to infected blood and secretions). ARV prophylaxis, elective LSCS, and avoidance of breastfeeding reduce MTCT to < 1%.
+
+</details>
+
+---
+
+---
+
+### Q1063 — Displaced IUCD management
+
+A woman with a copper IUD inserted 2 years ago has absent threads; ultrasound shows partial displacement into the abdominal cavity. Management is:
+
+- A. Hysteroscopy
+- B. No removal needed
+- C. IUCD hook removal
+- D. Laparoscopy
+
+<details><summary>Answer</summary>
+
+**D. Laparoscopy** — A partially or completely displaced IUD in the abdominal cavity should be removed laparoscopically to prevent adhesions and bowel injury.
+
+</details>
+
+---
+
+---
+
