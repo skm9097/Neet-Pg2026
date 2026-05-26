@@ -3688,7 +3688,7 @@ CKD child, bone pain, growth retardation, Ca 7.2, PO₄ 6.3, elevated PTH — tr
 
 <details><summary>Answer</summary>
 
-**C. Calcium + phosphate binders** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Calcium + phosphate binders** — **C. Calcium + phosphate binders** — CKD-MBD with hyperphosphataemia, hypocalcaemia, and secondary hyperparathyroidism: phosphate binders (calcium carbonate/acetate) bind dietary PO4 and supply calcium; active vitamin D added if PTH persistently high.
 
 </details>
 
@@ -3704,7 +3704,7 @@ Frothy sputum, hemoptysis, hemosiderin-laden macrophages — least likely condit
 
 <details><summary>Answer</summary>
 
-**B. Right ventricular failure** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Right ventricular failure** — **B. Right ventricular failure** — Hemosiderin-laden macrophages (heart-failure cells) reflect pulmonary venous hypertension/alveolar haemorrhage seen in LV failure, mitral stenosis, pulmonary vein obstruction; RV failure causes systemic congestion, not pulmonary.
 
 </details>
 
@@ -4282,7 +4282,7 @@ Regular 28-day cycle, days 21-25 hormonal profile?
 
 <details><summary>Answer</summary>
 
-**D. High estrogen, high progesterone, low FSH/LH** — Source: DocTutorials NEET-PG 2021 recall.
+**D. High estrogen, high progesterone, low FSH/LH** — **D. High estrogen, high progesterone, low FSH/LH** — Mid-luteal phase (days 21–25): corpus luteum secretes high progesterone with a secondary estrogen peak; both suppress GnRH/FSH/LH by negative feedback.
 
 </details>
 
@@ -4298,7 +4298,7 @@ Regular 28-day cycle, days 21-25 hormonal profile?
 
 <details><summary>Answer</summary>
 
-**B. Primary ovarian insufficiency** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Primary ovarian insufficiency** — **B. Primary ovarian insufficiency** — POI: women <40 years with amenorrhoea, high FSH (>25–40), high LH, and very low AMH (<0.1) indicating depleted ovarian reserve; estrogen low, menopausal symptoms.
 
 </details>
 
@@ -4314,7 +4314,7 @@ Labor with pulsating cord below presenting part?
 
 <details><summary>Answer</summary>
 
-**A. Elevate buttocks, push presenting part, fill bladder** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Elevate buttocks, push presenting part, fill bladder** — **A. Elevate buttocks, push presenting part, fill bladder** — Cord prolapse is obstetric emergency: knee-chest/Trendelenburg position, manually elevate presenting part, fill bladder with 500 mL saline to relieve compression, then emergency LSCS.
 
 </details>
 
@@ -4330,7 +4330,7 @@ G2P1L1 trial of labor, fetal bradycardia, maternal tachycardia, suprapubic pain,
 
 <details><summary>Answer</summary>
 
-**A. Emergency LSCS** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Emergency LSCS** — **A. Emergency LSCS** — Triad of fetal bradycardia, maternal tachycardia, and suprapubic/scar pain in VBAC suggests uterine rupture; immediate laparotomy/emergency caesarean to save fetus and repair uterus.
 
 </details>
 
@@ -4346,7 +4346,7 @@ Mediolateral episiotomy repair — tissue order?
 
 <details><summary>Answer</summary>
 
-**A. Mucosa → Muscle → Skin** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Mucosa → Muscle → Skin** — **A. Mucosa → Muscle → Skin** — Episiotomy repair sequence: vaginal mucosa (continuous from apex) → perineal muscles (interrupted/continuous) → subcutaneous tissue → skin (subcuticular continuous); ensures haemostasis and anatomical closure.
 
 </details>
 
@@ -4362,7 +4362,7 @@ Mediolateral episiotomy repair — tissue order?
 
 <details><summary>Answer</summary>
 
-**B. Probable signs** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Probable signs** — **B. Probable signs** — Chadwick's sign (bluish-purple vaginal/cervical discoloration from venous congestion at 6–8 weeks) is a probable sign of pregnancy; positive/definite signs require fetal heart, movement, or USG visualisation.
 
 </details>
 
@@ -4378,7 +4378,7 @@ Abdominal distension, ascites, CA-125↑, multicystic ovarian mass?
 
 <details><summary>Answer</summary>
 
-**A. Serous cystadenocarcinoma** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Serous cystadenocarcinoma** — **A. Serous cystadenocarcinoma** — Postmenopausal ascites, raised CA-125, and multicystic/solid ovarian mass suggest epithelial ovarian malignancy; serous cystadenocarcinoma is the most common (psammoma bodies on histology).
 
 </details>
 
@@ -4394,7 +4394,7 @@ Atonic postpartum hemorrhage not responding to measures — next step?
 
 <details><summary>Answer</summary>
 
-**A. Intrauterine balloon tamponade** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Intrauterine balloon tamponade** — **A. Intrauterine balloon tamponade** — Atonic PPH unresponsive to uterotonics: next step is intrauterine balloon tamponade (Bakri/condom catheter); if fails, proceed to compression sutures (B-Lynch), uterine artery ligation, then hysterectomy.
 
 </details>
 
@@ -4410,7 +4410,7 @@ Shoulder dystocia management sequence?
 
 <details><summary>Answer</summary>
 
-**A. McRoberts → Rubin → Gaskin → Zavanelli** — Source: DocTutorials NEET-PG 2021 recall.
+**A. McRoberts → Rubin → Gaskin → Zavanelli** — **A. McRoberts → Rubin → Gaskin → Zavanelli** — HELPERR mnemonic: McRoberts hyperflexion + suprapubic pressure first; then internal rotation (Rubin/Woodscrew), Gaskin all-fours, deliver posterior arm; Zavanelli (cephalic replacement) is last resort.
 
 </details>
 
@@ -4426,7 +4426,7 @@ P2L2, prolapse complaint — injured ligament?
 
 <details><summary>Answer</summary>
 
-**B. Mackenrodt's ligament** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Mackenrodt's ligament** — **B. Mackenrodt's ligament** — Mackenrodt's (cardinal/transverse cervical) ligament is the primary supporter of the uterus and upper vagina; its injury during childbirth leads to uterine and vault prolapse.
 
 </details>
 
@@ -4442,7 +4442,7 @@ Assisted breech delivery, scapular winging — maneuver?
 
 <details><summary>Answer</summary>
 
-**A. Lovset maneuver** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Lovset maneuver** — **A. Lovset maneuver** — When scapula becomes visible in assisted breech delivery, Lovset's manoeuvre (rotating fetal trunk 180° both ways while applying downward traction) delivers the extended arms.
 
 </details>
 
@@ -4458,7 +4458,7 @@ Assisted breech delivery, scapular winging — maneuver?
 
 <details><summary>Answer</summary>
 
-**C. Pelvic exam, TVS, Pap smear** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Pelvic exam, TVS, Pap smear** — **C. Pelvic exam, TVS, Pap smear** — Postmenopausal bleeding is endometrial cancer until proven otherwise; initial work-up = speculum exam, Pap smear, transvaginal ultrasound (endometrial thickness >4 mm → endometrial biopsy).
 
 </details>
 
@@ -4474,7 +4474,7 @@ Assisted breech delivery, scapular winging — maneuver?
 
 <details><summary>Answer</summary>
 
-**D. Endometrial biopsy** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Endometrial biopsy** — **D. Endometrial biopsy** — Perimenopausal woman with AUB and endometrial thickness >12 mm (here 18 mm) requires endometrial biopsy (Pipelle or hysteroscopic) to rule out hyperplasia/endometrial carcinoma.
 
 </details>
 
@@ -4490,7 +4490,7 @@ First antenatal visit, LMP 2 months ago — accurate dating parameter?
 
 <details><summary>Answer</summary>
 
-**B. CRL** — Source: DocTutorials NEET-PG 2021 recall.
+**B. CRL** — **B. CRL** — Crown-rump length measured between 7–13 weeks is the most accurate ultrasound parameter for gestational age dating (accuracy ±3–5 days); BPD/FL used in second/third trimester.
 
 </details>
 
@@ -4506,7 +4506,7 @@ Pregnant, toxoplasma IgG+, lymphadenopathy — management?
 
 <details><summary>Answer</summary>
 
-**A. Reassure, continue pregnancy** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Reassure, continue pregnancy** — **A. Reassure, continue pregnancy** — Toxoplasma IgG positive with IgM negative indicates past infection with immunity, no risk of congenital toxoplasmosis; reassure patient. Acute infection requires IgM+ with avidity testing.
 
 </details>
 
@@ -4597,7 +4597,7 @@ Congenital hypothyroidism, low T3/T4, low radioactive iodine uptake, normal thyr
 
 <details><summary>Answer</summary>
 
-**B. MRI sacroiliac joint** — Source: DocTutorials NEET-PG 2021 recall.
+**B. MRI sacroiliac joint** — **B. MRI sacroiliac joint** — Young patient with inflammatory back pain and anterior uveitis suggests axial spondyloarthritis (ankylosing spondylitis); MRI SI joint detects early bone marrow oedema/sacroiliitis before X-ray changes.
 
 </details>
 
@@ -4613,7 +4613,7 @@ Congenital hypothyroidism, low T3/T4, low radioactive iodine uptake, normal thyr
 
 <details><summary>Answer</summary>
 
-**C. Immediate fasciotomy** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Immediate fasciotomy** — **C. Immediate fasciotomy** — Pain disproportionate to injury, pain on passive stretch, paraesthesia (deep peroneal sensory loss in first web) are classic compartment syndrome; emergency 4-compartment fasciotomy required within 6 hours.
 
 </details>
 
@@ -4629,7 +4629,7 @@ Congenital hypothyroidism, low T3/T4, low radioactive iodine uptake, normal thyr
 
 <details><summary>Answer</summary>
 
-**C. Paget's disease** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Paget's disease** — **C. Paget's disease** — Paget's disease of bone: elderly, focal bone pain, markedly raised ALP with normal calcium/phosphate/PTH, thickened cortices and coarse trabeculae on X-ray due to disordered osteoclast/osteoblast activity.
 
 </details>
 
@@ -4645,7 +4645,7 @@ Pregnant HIV+ at 34 weeks, viral load 1200, ART started, term 2.5kg baby — pos
 
 <details><summary>Answer</summary>
 
-**A. Nevirapine + zidovudine 12 weeks, breastfeeding** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Nevirapine + zidovudine 12 weeks, breastfeeding** — **A. Nevirapine + zidovudine 12 weeks, breastfeeding** — High-risk infant (maternal VL >1000 at delivery): dual prophylaxis with nevirapine + zidovudine for 6–12 weeks; exclusive breastfeeding still recommended (with maternal ART) per WHO/NACO.
 
 </details>
 
@@ -4661,7 +4661,7 @@ Congenital hypothyroidism, low T3/T4, low radioactive iodine uptake, normal ultr
 
 <details><summary>Answer</summary>
 
-**D. Iodine transporter defect** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Iodine transporter defect** — **D. Iodine transporter defect** — Normal thyroid on USG (rules out agenesis) with low iodine uptake suggests sodium-iodide symporter (NIS) defect; iodine not transported into thyrocytes despite normal gland. Dyshormonogenesis shows raised uptake.
 
 </details>
 
@@ -4869,7 +4869,7 @@ Large central perforation with visible middle ear structures — surgery?
 
 <details><summary>Answer</summary>
 
-**D. Tympanoplasty** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Tympanoplasty** — **D. Tympanoplasty** — Large central perforation with ossicular chain visible/damaged requires tympanoplasty (TM repair + ossicular reconstruction); myringoplasty is for small central perforations with intact ossicles and good hearing.
 
 </details>
 
@@ -4885,7 +4885,7 @@ Adolescent with profuse epistaxis, nasal obstruction, globular vascular mass?
 
 <details><summary>Answer</summary>
 
-**A. Nasopharyngeal angiofibroma** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Nasopharyngeal angiofibroma** — **A. Nasopharyngeal angiofibroma** — Juvenile nasopharyngeal angiofibroma: adolescent boys with recurrent severe epistaxis, nasal obstruction, vascular mass; locally invasive benign tumour, biopsy contraindicated. CT/MRI shows Holman-Miller sign.
 
 </details>
 
@@ -4976,7 +4976,7 @@ Orbital cellulitis — most true statement?
 
 <details><summary>Answer</summary>
 
-**B. Dermoid cyst** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Dermoid cyst** — **B. Dermoid cyst** — Dermoid cyst is the most common congenital orbital cystic lesion in children; painless, slowly progressive supraorbital/lateral brow swelling at frontozygomatic suture (line of embryonic fusion).
 
 </details>
 
@@ -4992,7 +4992,7 @@ Orbital cellulitis — true statement?
 
 <details><summary>Answer</summary>
 
-**A. Ethmoidal sinusitis most common all ages** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Ethmoidal sinusitis most common all ages** — **A. Ethmoidal sinusitis most common all ages** — Ethmoidal sinusitis is the commonest cause of orbital cellulitis across all ages (lamina papyracea thin); inflammation is posterior to orbital septum with proptosis, ophthalmoplegia, and visual loss; needs IV antibiotics.
 
 </details>
 
@@ -5083,7 +5083,7 @@ Non-progressive hypopigmented lesion since birth, white under Wood's lamp?
 
 <details><summary>Answer</summary>
 
-**B. Nevus depigmentosus** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Nevus depigmentosus** — **B. Nevus depigmentosus** — Congenital, non-progressive hypopigmented patch with normal melanocytes (decreased melanosomes); appears off-white (not stark white) under Wood's lamp. Vitiligo is acquired and progressive.
 
 </details>
 
@@ -5099,7 +5099,7 @@ Phrynoderma with keratotic papules — next examination?
 
 <details><summary>Answer</summary>
 
-**A. Ocular examination** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Ocular examination** — **A. Ocular examination** — Phrynoderma (toad skin) is keratotic follicular papules from vitamin A deficiency; associated ocular findings include night blindness, Bitot's spots, xerophthalmia, and keratomalacia — must examine eyes.
 
 </details>
 
@@ -5115,7 +5115,7 @@ Face plaque with central clearing, apical calcification on CXR — diagnosis met
 
 <details><summary>Answer</summary>
 
-**A. PCR** — Source: DocTutorials NEET-PG 2021 recall.
+**A. PCR** — **A. PCR** — Lupus vulgaris (cutaneous TB) presents as 'apple-jelly' face plaque with central clearing; associated with pulmonary TB (apical calcification). PCR (TB-PCR) is the most sensitive method; AFB smear/culture often negative.
 
 </details>
 
@@ -5254,7 +5254,7 @@ Muscle relaxant causing erythema and hypotension?
 
 <details><summary>Answer</summary>
 
-**B. Atracurium** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Atracurium** — **B. Atracurium** — Atracurium releases histamine causing facial erythema/flushing, urticaria, and hypotension; metabolised by Hofmann elimination (organ-independent). Cisatracurium has minimal histamine release.
 
 </details>
 
@@ -5270,7 +5270,7 @@ Sevoflurane/succinylcholine causes muscle rigidity and fever — treatment?
 
 <details><summary>Answer</summary>
 
-**A. Dantrolene** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Dantrolene** — **A. Dantrolene** — Malignant hyperthermia triggered by volatile anaesthetics (sevoflurane/halothane) and succinylcholine: dantrolene (2.5 mg/kg IV) inhibits ryanodine-receptor-mediated calcium release from sarcoplasmic reticulum; also cooling, hyperventilation, bicarbonate.
 
 </details>
 

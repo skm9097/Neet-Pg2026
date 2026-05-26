@@ -8771,7 +8771,7 @@ Gitelman's syndrome resembles the effects of which of the following drugs?
 
 <details><summary>Answer</summary>
 
-**A. Thiazide** — Source: Medicoholic 2016 PYQ compilation.
+**A. Thiazide** — **A. Thiazide** — Gitelman syndrome is loss-of-function of NCC (Na-Cl cotransporter) in distal convoluted tubule, mimicking thiazide diuretic effect: hypokalemia, hypomagnesemia, hypocalciuria, metabolic alkalosis.
 
 </details>
 
@@ -8791,7 +8791,7 @@ Autosomal recessive polycystic kidney disease is characterised by the altered ex
 
 <details><summary>Answer</summary>
 
-**D. Fibrocystin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fibrocystin** — **D. Fibrocystin** — ARPKD is caused by PKHD1 gene mutations encoding fibrocystin/polyductin, expressed in collecting duct epithelium; ADPKD involves polycystin-1/-2 (PKD1/PKD2).
 
 </details>
 
@@ -8811,7 +8811,7 @@ Definition of complicated urinary tract infection is, the infection which fail t
 
 <details><summary>Answer</summary>
 
-**B. 2 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2 weeks** — **B. 2 weeks** — Complicated UTI = infection that fails to resolve or recurs within 2 weeks of standard antibiotic therapy; usually associated with structural/functional urinary tract abnormalities.
 
 </details>
 
@@ -8831,7 +8831,7 @@ Excellent predictor of mortality and morbidity in patients after hepatectomy is
 
 <details><summary>Answer</summary>
 
-**A. Serum lactate levels** — Source: Medicoholic 2016 PYQ compilation.
+**A. Serum lactate levels** — **A. Serum lactate levels** — Persistent or rising serum lactate (>3 mmol/L) post-hepatectomy indicates impaired hepatic clearance and tissue hypoperfusion, correlating strongly with mortality and morbidity.
 
 </details>
 
@@ -8851,7 +8851,7 @@ Portal hypertension is said to be present if portal venous pressure is more than
 
 <details><summary>Answer</summary>
 
-**C. 10-12 mm Hg** — Source: Medicoholic 2016 PYQ compilation.
+**C. 10-12 mm Hg** — **C. 10-12 mm Hg** — Portal hypertension is defined by HVPG >5 mmHg; clinically significant at >10-12 mmHg (varices, ascites form); normal portal pressure is 5-10 mmHg.
 
 </details>
 
@@ -8871,7 +8871,7 @@ All of the following drugs may be used in the treatment of ulcerative colitis Ex
 
 <details><summary>Answer</summary>
 
-**D. Methotrexate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Methotrexate** — **D. Methotrexate** — Methotrexate is effective in Crohn's disease but NOT in ulcerative colitis; UC treated with 5-ASA (sulfasalazine, mesalamine), corticosteroids, azathioprine, biologics.
 
 </details>
 
@@ -8891,7 +8891,7 @@ Which of the following is not true about amoebiasis?
 
 <details><summary>Answer</summary>
 
-**C. Abscess due to suppuration** — Source: Medicoholic 2016 PYQ compilation.
+**C. Abscess due to suppuration** — **C. Abscess due to suppuration** — Amoebic liver abscess is due to LIQUEFACTIVE NECROSIS (anchovy-sauce pus, sterile) not suppuration; wall is sterile and culture-negative for amoeba.
 
 </details>
 
@@ -8911,7 +8911,7 @@ Right hand dominant patient presents with normal comprehension but speaks with s
 
 <details><summary>Answer</summary>
 
-**A. Left inferior frontal gyrus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Left inferior frontal gyrus** — **A. Left inferior frontal gyrus** — Broca's (expressive) aphasia: non-fluent telegraphic speech with intact comprehension; lesion in left inferior frontal gyrus (Brodmann 44/45) in right-handed individuals.
 
 </details>
 
@@ -8931,7 +8931,7 @@ Which is not seen in Alzheimers disease
 
 <details><summary>Answer</summary>
 
-**D. Sequence of neurological abnormalities follows a described** — Source: Medicoholic 2016 PYQ compilation.
+**D. Sequence of neurological abnormalities follows a described** — **D. Sequence of neurological abnormalities follows a described pattern** — Alzheimer disease has VARIABLE clinical progression without a fixed sequence; gradual amnesia, visuospatial defects, and depression are common features.
 
 </details>
 
@@ -8951,7 +8951,7 @@ Violent abnormal flinging movements which are irregular and affecting one side a
 
 <details><summary>Answer</summary>
 
-**D. Hemiballismus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hemiballismus** — **D. Hemiballismus** — Hemiballismus is unilateral wild flinging/throwing limb movements due to contralateral subthalamic nucleus lesion (classically lacunar stroke); proximal large-amplitude movements distinguish from chorea.
 
 </details>
 
@@ -8971,7 +8971,7 @@ True about electrophoresis in patients of multiple myeloma
 
 <details><summary>Answer</summary>
 
-**D. M component is IgA in 25% of the patients** — Source: Medicoholic 2016 PYQ compilation.
+**D. M component is IgA in 25% of the patients** — **D. M component is IgA in 25% of the patients** — In multiple myeloma, IgG paraprotein is most common (~52%), IgA second (~25%), IgM is rare (Waldenström); M-spike in gamma globulin region.
 
 </details>
 
@@ -8991,7 +8991,7 @@ All but one is true for beta thalassemia major
 
 <details><summary>Answer</summary>
 
-**D. Bone marrow iron is depleted** — Source: Medicoholic 2016 PYQ compilation.
+**D. Bone marrow iron is depleted** — **D. Bone marrow iron is depleted** — Beta-thalassemia major has IRON OVERLOAD (not depletion) due to ineffective erythropoiesis, increased gut absorption, and repeated transfusions; bone marrow shows iron accumulation.
 
 </details>
 
@@ -9011,7 +9011,7 @@ Drug/s used in management relapsed multiple myeloma is
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Relapsed myeloma is managed with proteasome inhibitors (bortezomib), immunomodulators (lenalidomide, thalidomide), and cytotoxic agents (doxorubicin), often in combination regimens with dexamethasone.
 
 </details>
 
@@ -9031,7 +9031,7 @@ Treatment of chronic phase of CML in pregnant women is -
 
 <details><summary>Answer</summary>
 
-**B. Leukapheresis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Leukapheresis** — **B. Leukapheresis** — Imatinib and other TKIs are teratogenic (especially first trimester); leukapheresis safely reduces leukocyte count in pregnant CML patients; interferon-alpha is alternative if needed.
 
 </details>
 
@@ -9051,7 +9051,7 @@ A patient presents with icterus, but there is no evidence of bilirubin in urine.
 
 <details><summary>Answer</summary>
 
-**A. Hemolysis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hemolysis** — **A. Hemolysis** — Hemolytic jaundice produces UNCONJUGATED hyperbilirubinemia; unconjugated bilirubin is albumin-bound and water-insoluble, hence not excreted in urine ("acholuric jaundice").
 
 </details>
 
@@ -9071,7 +9071,7 @@ Multiagent chemotherapy induces remission in of the patients of acute myelogenou
 
 <details><summary>Answer</summary>
 
-**C. 85 - 90** — Source: Medicoholic 2016 PYQ compilation.
+**C. 85 - 90** — **C. 85 - 90** — Induction chemotherapy (cytarabine + anthracycline, "7+3" regimen) achieves complete remission in 60-80% in older adults and up to 85-90% in younger AML patients.
 
 </details>
 
@@ -9091,7 +9091,7 @@ Indication for giving liothyronine as therapeutic management is
 
 <details><summary>Answer</summary>
 
-**A. Resistant depression** — Source: Medicoholic 2016 PYQ compilation.
+**A. Resistant depression** — **A. Resistant depression** — Liothyronine (T3) is used as augmentation therapy in treatment-resistant depression, enhancing response to TCAs/SSRIs; also used in myxedema coma and thyroid cancer suppression.
 
 </details>
 
@@ -9111,7 +9111,7 @@ Medical management of hyperparathyroidism includes which of the following?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Hypercalcemia in hyperparathyroidism is treated with bisphosphonates (inhibit osteoclasts), calcitonin (rapid onset), and plicamycin (osteoclast cytotoxic); cinacalcet for parathyroid carcinoma.
 
 </details>
 
@@ -9131,7 +9131,7 @@ Diabetes insipidus is said to be present when
 
 <details><summary>Answer</summary>
 
-**C. > 50ml/hr urine output in 24 hrs and < 300 mosml/L osmolarity** — Source: Medicoholic 2016 PYQ compilation.
+**C. > 50ml/hr urine output in 24 hrs and < 300 mosml/L osmolarity** — **C. > 50ml/hr urine output in 24 hrs and < 300 mosml/L osmolarity** — Diabetes insipidus is defined by polyuria (>50 mL/kg/24h or >3L/day) with dilute urine (osmolality <300 mOsm/L) due to ADH deficiency/resistance.
 
 </details>
 
@@ -9151,7 +9151,7 @@ Acute adrenal insufficiency can present as
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Adrenal crisis (Addisonian crisis) presents with hypovolemic shock, acute abdominal pain mimicking surgical abdomen, and altered mentation; precipitated by stress in known/undiagnosed adrenal insufficiency.
 
 </details>
 
@@ -9171,7 +9171,7 @@ All of the following are causes of acute hyponatremia except
 
 <details><summary>Answer</summary>
 
-**D. Liquorice ingestion** — Source: Medicoholic 2016 PYQ compilation.
+**D. Liquorice ingestion** — **D. Liquorice ingestion** — Liquorice causes apparent mineralocorticoid excess with HYPERnatremia, hypokalemia, hypertension (inhibits 11β-HSD2); glycine TURP irrigation, thiazides, and MDMA cause acute hyponatremia.
 
 </details>
 
@@ -9191,7 +9191,7 @@ Dose of benzathaine penicillin G to be given in patients of latent syphilis in p
 
 <details><summary>Answer</summary>
 
-**C. 2.4mU IM / week for 3 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 2.4mU IM / week for 3 weeks** — **C. 2.4 mU IM/week for 3 weeks** — Late latent or syphilis of unknown duration is treated with benzathine penicillin G 2.4 million units IM weekly × 3 doses; early latent is single dose.
 
 </details>
 
@@ -9211,7 +9211,7 @@ According to the congenital rubella syndrome eradication program, the first prio
 
 <details><summary>Answer</summary>
 
-**C. All non pregnant women of age 15 to 34** — Source: Medicoholic 2016 PYQ compilation.
+**C. All non pregnant women of age 15 to 34** — **C. All non pregnant women of age 15 to 34** — Rubella vaccination of non-pregnant women of reproductive age (15-34) is the first priority to prevent congenital rubella syndrome (universal childhood MMR is parallel strategy).
 
 </details>
 
@@ -9231,7 +9231,7 @@ Which of the following is not true about the epididymo¬orchitis of mumps?
 
 <details><summary>Answer</summary>
 
-**A. It is the most common manifestation of mumps infection** — Source: Medicoholic 2016 PYQ compilation.
+**A. It is the most common manifestation of mumps infection** — **A. It is the most common manifestation of mumps infection** — Parotitis (not orchitis) is the most common manifestation of mumps; orchitis occurs in 15-30% of post-pubertal males, usually unilateral, bilateral in 10-30%.
 
 </details>
 
@@ -9251,7 +9251,7 @@ Factors contributing to the development of complications in measles are the foll
 
 <details><summary>Answer</summary>
 
-**A. Age group 5-20 years** — Source: Medicoholic 2016 PYQ compilation.
+**A. Age group 5-20 years** — **A. Age group 5-20 years** — Measles complications are more common in <5 years and >20 years (not 5-20); overcrowding, severe malnutrition, vitamin A deficiency (low retinol) all increase complications.
 
 </details>
 
@@ -9271,7 +9271,7 @@ Chronic manifestations of Aspergillosis are not evident in which of the followin
 
 <details><summary>Answer</summary>
 
-**D. Eye** — Source: Medicoholic 2016 PYQ compilation.
+**D. Eye** — **D. Eye** — Aspergillus causes acute ocular keratitis/endophthalmitis but rarely chronic ocular disease; chronic manifestations (aspergilloma, ABPA, chronic cavitary) typically involve lung, brain (abscess), and skin.
 
 </details>
 
@@ -9291,7 +9291,7 @@ All of the following are true about incontinentia pigmenti, except:
 
 <details><summary>Answer</summary>
 
-**A. Ocular involvement is seen in almost 100% cases and is** — Source: Medicoholic 2016 PYQ compilation.
+**A. Ocular involvement is seen in almost 100% cases and is** — **A. Ocular involvement is seen in almost 100% cases and is the most common** — Ocular involvement occurs in ~30-35% (not 100%); the skin abnormality (Blaschko-distributed vesicles/verrucous/pigmented stages) is primary in this X-linked dominant condition.
 
 </details>
 
@@ -9311,7 +9311,7 @@ Laproscopic procedure patient develops shoulder pain due to
 
 <details><summary>Answer</summary>
 
-**C. Subdiaphragmatic migration of gas** — Source: Medicoholic 2016 PYQ compilation.
+**C. Subdiaphragmatic migration of gas** — **C. Subdiaphragmatic migration of gas** — Residual CO2 in subdiaphragmatic space after laparoscopy irritates phrenic nerve (C3-C5) causing referred shoulder pain (Kehr sign-like); self-limiting.
 
 </details>
 
@@ -9331,7 +9331,7 @@ A patient comes with a complaint of shoulder pain after laparoscopic surgery. Wh
 
 <details><summary>Answer</summary>
 
-**A. Oral paracetamol for 2 - 3 days** — Source: Medicoholic 2016 PYQ compilation.
+**A. Oral paracetamol for 2 - 3 days** — **A. Oral paracetamol for 2 - 3 days** — Post-laparoscopic referred shoulder pain from CO2 irritation is benign and self-limiting; simple analgesia (paracetamol) for 2-3 days suffices.
 
 </details>
 
@@ -9351,7 +9351,7 @@ Following road traffic accident patient suffers polytrauma and is evaluated in t
 
 <details><summary>Answer</summary>
 
-**B. 750 - 1500 ml** — Source: Medicoholic 2016 PYQ compilation.
+**B. 750 - 1500 ml** — **B. 750 - 1500 ml** — Class II hemorrhagic shock (15-30% blood loss = 750-1500 mL): HR >100, RR 20-30, narrowed pulse pressure but BP still maintained — matches this patient's vitals.
 
 </details>
 
@@ -9371,7 +9371,7 @@ Surgical treatment of congenital hydrocele recommended if it fails to resolve by
 
 <details><summary>Answer</summary>
 
-**B. 2 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2 years** — **B. 2 years** — Congenital (communicating) hydrocele usually resolves spontaneously as the processus vaginalis obliterates; surgical herniotomy is indicated if it persists beyond 2 years of age.
 
 </details>
 
@@ -9391,7 +9391,7 @@ What is the order of disorientation, which a person goes through after an event 
 
 <details><summary>Answer</summary>
 
-**A. First time, then place followed by person** — Source: Medicoholic 2016 PYQ compilation.
+**A. First time, then place followed by person** — **A. First time, then place followed by person** — Disorientation in delirium/dementia progresses in order: TIME (earliest, most sensitive) → PLACE → PERSON (latest, most preserved as it is overlearned).
 
 </details>
 
@@ -9411,7 +9411,7 @@ Which of the following is the preferred route of access for total parenteral nut
 
 <details><summary>Answer</summary>
 
-**C. Periphaeral vein** — Source: Medicoholic 2016 PYQ compilation.
+**C. Periphaeral vein** — **C. Peripheral vein** — For short-term TPN (<14 days) without need for hyperosmolar solutions, peripheral vein access (PPN) is preferred to avoid central line infection/thrombosis risks.
 
 </details>
 
@@ -9431,7 +9431,7 @@ Which of the following is not true about use of graft in vascular surgery
 
 <details><summary>Answer</summary>
 
-**B. The patency of the PTFE grafts may be improved by** — Source: Medicoholic 2016 PYQ compilation.
+**B. The patency of the PTFE grafts may be improved by** — **B. The patency of the PTFE grafts may be improved by heparin bonding** — While heparin-bonded PTFE has been tried, no proven significant patency improvement; autologous saphenous vein remains superior to synthetic grafts in below-knee bypass.
 
 </details>
 
@@ -9451,7 +9451,7 @@ Which of the following is true about the management of venous ulcer of lower lim
 
 <details><summary>Answer</summary>
 
-**C. Antibiotics do not speed up the ulcer healing** — Source: Medicoholic 2016 PYQ compilation.
+**C. Antibiotics do not speed up the ulcer healing** — **C. Antibiotics do not speed up the ulcer healing** — Routine antibiotics do not accelerate venous ulcer healing unless overt infection present; mainstay is compression therapy with multilayer bandaging.
 
 </details>
 
@@ -9471,7 +9471,7 @@ Blunt trauma exploratory laparotomy done nonexpansile swelling found on mesenter
 
 <details><summary>Answer</summary>
 
-**D. None** — Source: Medicoholic 2016 PYQ compilation.
+**D. None** — **D. None** — A nonexpansile (stable) mesenteric hematoma in stable patients can be observed without intervention; only expanding or pulsatile hematomas require exploration/resection.
 
 </details>
 
@@ -9491,7 +9491,7 @@ In SVC syndrome for non small cell carcinoma of lung management done
 
 <details><summary>Answer</summary>
 
-**A. Radiotherapy** — Source: Medicoholic 2016 PYQ compilation.
+**A. Radiotherapy** — **A. Radiotherapy** — Radiotherapy is the treatment of choice for SVC syndrome from non-small cell lung cancer (NSCLC); SCLC responds better to chemotherapy; stenting for emergent symptom relief.
 
 </details>
 
@@ -9511,7 +9511,7 @@ Microdochotomy is treatment for
 
 <details><summary>Answer</summary>
 
-**C. Duct papilloma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Duct papilloma** — **C. Duct papilloma** — Microdochotomy (excision of single offending lactiferous duct) is the treatment for intraductal papilloma presenting with bloody nipple discharge; preserves surrounding breast tissue.
 
 </details>
 
@@ -9531,7 +9531,7 @@ Microdochotomy is treatment for
 
 <details><summary>Answer</summary>
 
-**D. IV** — Source: Medicoholic 2016 PYQ compilation.
+**D. IV** — **D. IV** — Contralateral supraclavicular lymphadenopathy in breast cancer is classified as M1 (distant metastasis), making this Stage IV disease per AJCC 8th edition TNM.
 
 </details>
 
@@ -9551,7 +9551,7 @@ Which of the following hormonal levels influence the development of benign breas
 
 <details><summary>Answer</summary>
 
-**A. Estrogen** — Source: Medicoholic 2016 PYQ compilation.
+**A. Estrogen** — **A. Estrogen** — Estrogen drives proliferation of breast ductal/lobular epithelium; estrogen excess relative to progesterone underlies cyclical mastalgia, fibrocystic disease, and other benign breast disorders.
 
 </details>
 
@@ -9571,7 +9571,7 @@ Treatment of large omphalocele defect can be done by
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Large omphalocele management options include primary closure (small defects), staged closure with silastic silo/PTFE mesh (medium-large), and paint-and-wait technique with antiseptic (giant/non-operable).
 
 </details>
 
@@ -9591,7 +9591,7 @@ Macroprolactinoma ideal treatment is
 
 <details><summary>Answer</summary>
 
-**B. Bromocriptine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bromocriptine** — **B. Bromocriptine** — Dopamine agonists (bromocriptine, cabergoline) are first-line for macroprolactinoma (>10 mm); shrink tumor and normalize prolactin in >80% cases; surgery reserved for refractory cases.
 
 </details>
 
@@ -9611,7 +9611,7 @@ What should be the plan of management for a patient for whom while undergoing si
 
 <details><summary>Answer</summary>
 
-**A. Resection of 4b-5 segement, dissection of the N1-2 nodes and** — Source: Medicoholic 2016 PYQ compilation.
+**A. Resection of 4b-5 segement, dissection of the N1-2 nodes and** — **A. Resection of 4b-5 segment, dissection of the N1-2 nodes** — T2 gallbladder cancer (invades muscularis/perimuscular tissue) requires extended cholecystectomy with liver segment IVb/V resection and regional (N1-N2) lymph node dissection.
 
 </details>
 
@@ -9631,7 +9631,7 @@ In which condition, medical treatment of gall stone is indicated -
 
 <details><summary>Answer</summary>
 
-**A. Stone is < 15 mm size** — Source: Medicoholic 2016 PYQ compilation.
+**A. Stone is < 15 mm size** — **A. Stone is < 15 mm size** — Oral ursodeoxycholic acid dissolution therapy is suitable for small (<15 mm), radiolucent (cholesterol) stones in a functioning gallbladder with patent cystic duct.
 
 </details>
 
@@ -9651,7 +9651,7 @@ Most prevalent symptom in patients of leiomyoma of esophagus is
 
 <details><summary>Answer</summary>
 
-**C. Dysphagia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Dysphagia** — **C. Dysphagia** — Esophageal leiomyoma (most common benign esophageal tumor) most commonly presents with dysphagia due to luminal narrowing; chest pain and reflux less common.
 
 </details>
 
@@ -9671,7 +9671,7 @@ Patient complains of intermittent dysphagia which is equal both for solids and l
 
 <details><summary>Answer</summary>
 
-**D. Diffuse esophageal spasm** — Source: Medicoholic 2016 PYQ compilation.
+**D. Diffuse esophageal spasm** — **D. Diffuse esophageal spasm** — Diffuse esophageal spasm causes INTERMITTENT non-progressive dysphagia to both solids and liquids with chest pain; achalasia causes more progressive dysphagia and regurgitation.
 
 </details>
 
@@ -9691,7 +9691,7 @@ Which of the following is not true about medical management of uncomplicated GER
 
 <details><summary>Answer</summary>
 
-**C. Long term PPI therapy increases risk of malignant changes** — Source: Medicoholic 2016 PYQ compilation.
+**C. Long term PPI therapy increases risk of malignant changes** — **C. Long term PPI therapy increases risk of malignant changes** — Long-term PPI use does NOT increase risk of gastric/esophageal malignancy; instead reduces Barrett's progression risk; other options are correct GERD management principles.
 
 </details>
 
@@ -9711,7 +9711,7 @@ An individual of age 40 yrs presents with dysphagia to both solids and liquids w
 
 <details><summary>Answer</summary>
 
-**B. Barium swallow X-ray with esophageal manometry** — Source: Medicoholic 2016 PYQ compilation.
+**B. Barium swallow X-ray with esophageal manometry** — **B. Barium swallow X-ray with esophageal manometry** — Achalasia is diagnosed by barium swallow ("bird-beak" appearance) plus manometry (incomplete LES relaxation, aperistalsis); endoscopy excludes pseudoachalasia.
 
 </details>
 
@@ -9731,7 +9731,7 @@ Critical diameter of caecum when perforation is considered eminent in pseudo-obs
 
 <details><summary>Answer</summary>
 
-**C. >9 cm** — Source: Medicoholic 2016 PYQ compilation.
+**C. >9 cm** — **C. >9 cm** — In Ogilvie's syndrome (acute colonic pseudo-obstruction), cecal diameter >9-12 cm carries high perforation risk per Laplace's law; urgent decompression (colonoscopic or neostigmine) indicated.
 
 </details>
 
@@ -9751,7 +9751,7 @@ Treatment of choice for low fistula in ano is -
 
 <details><summary>Answer</summary>
 
-**A. Fistulotomy** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fistulotomy** — **A. Fistulotomy** — Low (intersphincteric/low transsphincteric) anal fistulas involve minimal sphincter; fistulotomy (laying open the tract) is curative with low risk of incontinence — treatment of choice.
 
 </details>
 
@@ -9771,7 +9771,7 @@ Treatment of congenital hydrocephalus is -
 
 <details><summary>Answer</summary>
 
-**A. Ventriculoperitoneal shunt** — Source: Medicoholic 2016 PYQ compilation.
+**A. Ventriculoperitoneal shunt** — **A. Ventriculoperitoneal shunt** — VP shunt is the standard treatment for congenital hydrocephalus, diverting CSF from lateral ventricle to peritoneum; endoscopic third ventriculostomy is alternative for obstructive cases.
 
 </details>
 
@@ -9791,7 +9791,7 @@ True of umbilical hernia -
 
 <details><summary>Answer</summary>
 
-**B. Most of the umbilical hernias disappear spontaneously** — Source: Medicoholic 2016 PYQ compilation.
+**B. Most of the umbilical hernias disappear spontaneously** — **B. Most of the umbilical hernias disappear spontaneously** — Pediatric umbilical hernias close spontaneously in >80% by 4-5 years; female predominance; surgical repair only if persistent >5 years or symptomatic.
 
 </details>
 
@@ -9811,7 +9811,7 @@ Treatment of choice for bladder stone
 
 <details><summary>Answer</summary>
 
-**A. Transurethral litholapaxy** — Source: Medicoholic 2016 PYQ compilation.
+**A. Transurethral litholapaxy** — **A. Transurethral litholapaxy** — Transurethral litholapaxy (cystolitholapaxy) using mechanical, ultrasonic, or laser fragmentation is the gold-standard treatment for bladder stones in adults; minimally invasive.
 
 </details>
 
@@ -9831,7 +9831,7 @@ LAHSAL code is used to represent congenital malformation of -
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — LAHSHAL/LAHSAL code (Lip-Alveolus-Hard palate-Soft palate-Alveolus-Lip) is a documentation system for cleft lip and palate malformations indicating side and severity.
 
 </details>
 
@@ -9851,7 +9851,7 @@ Outcome of burns depends on -
 
 <details><summary>Answer</summary>
 
-**A. Extent of burns** — Source: Medicoholic 2016 PYQ compilation.
+**A. Extent of burns** — **A. Extent of burns** — Total body surface area (TBSA) burned is the single most important determinant of mortality and outcome in burns; depth, age, and inhalation injury are also critical.
 
 </details>
 
@@ -9871,7 +9871,7 @@ The best treatment for cystic hygroma is -
 
 <details><summary>Answer</summary>
 
-**A. Surgical excision** — Source: Medicoholic 2016 PYQ compilation.
+**A. Surgical excision** — **A. Surgical excision** — Complete surgical excision is the traditional treatment of choice for cystic hygroma (cervical lymphangioma); sclerotherapy with OK-432 (picibanil) or bleomycin is alternative for unresectable lesions.
 
 </details>
 
@@ -9891,7 +9891,7 @@ A patient after road traffic accident presented with tension pneumothorax. What 
 
 <details><summary>Answer</summary>
 
-**A. Insert wide bore needle in 2nd intercostal space** — Source: Medicoholic 2016 PYQ compilation.
+**A. Insert wide bore needle in 2nd intercostal space** — **A. Insert wide bore needle in 2nd intercostal space** — Tension pneumothorax is a clinical diagnosis requiring IMMEDIATE needle decompression in 2nd ICS midclavicular line (or 4-5th ICS anterior axillary in newer guidelines); X-ray delays treatment.
 
 </details>
 
@@ -9911,7 +9911,7 @@ Preferred treatment for oral tongue carcinoma which infiltrates the local cortic
 
 <details><summary>Answer</summary>
 
-**C. Subtotal glossectomy + selective neck dissection +** — Source: Medicoholic 2016 PYQ compilation.
+**C. Subtotal glossectomy + selective neck dissection +** — **C. Subtotal glossectomy + selective neck dissection + segmental mandibulectomy** — Oral tongue carcinoma with cortical bone invasion requires composite resection: subtotal glossectomy, ipsilateral selective neck dissection, and segmental mandibulectomy to clear bony involvement.
 
 </details>
 
@@ -9931,7 +9931,7 @@ For lower lip carcinoma of <1cm in size. The treatment of choice will be-
 
 <details><summary>Answer</summary>
 
-**C. Excision** — Source: Medicoholic 2016 PYQ compilation.
+**C. Excision** — **C. Excision** — Small (<1 cm, T1) lip carcinoma is best treated by surgical excision (wedge or V-excision) with primary closure; cosmetic outcome excellent; radiation reserved for larger lesions.
 
 </details>
 
@@ -9951,7 +9951,7 @@ Hoarseness of voice in lung carcinoma is due to invasion of which structure?
 
 <details><summary>Answer</summary>
 
-**A. Recurrent laryngeal nerve** — Source: Medicoholic 2016 PYQ compilation.
+**A. Recurrent laryngeal nerve** — **A. Recurrent laryngeal nerve** — Left RLN loops under aortic arch close to the aortopulmonary window; left hilar or mediastinal tumors invading this area cause vocal cord paralysis and hoarseness.
 
 </details>
 
