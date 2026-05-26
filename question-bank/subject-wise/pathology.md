@@ -3975,7 +3975,7 @@ Bridging necrosis is characteristically seen in:
 
 <details><summary>Answer</summary>
 
-**C. Both of the above** — Source: Medicoholic 2016 PYQ compilation.
+**C. Both of the above** — **C. Both of the above** — Bridging necrosis (necrosis linking portal tracts to central veins or portal to portal) occurs in both severe acute hepatitis and chronic active hepatitis, indicating severe parenchymal damage.
 
 </details>
 
@@ -3995,7 +3995,7 @@ Normally squamo-columnar junction is usually located at
 
 <details><summary>Answer</summary>
 
-**B. Proximal 2-3 cms of stomach** — Source: Medicoholic 2016 PYQ compilation.
+**B. Proximal 2-3 cms of stomach** — **B. Proximal 2-3 cms of stomach** — The normal squamocolumnar junction (Z-line/ora serrata) sits at the gastroesophageal junction, histologically 2-3 cm into the proximal gastric cardia; displacement proximal indicates Barrett's esophagus.
 
 </details>
 
@@ -4015,7 +4015,7 @@ Carcinoma associated most commonly with upper one third of esophagus is
 
 <details><summary>Answer</summary>
 
-**B. Squamous cell Carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squamous cell Carcinoma** — **B. Squamous cell Carcinoma** — Squamous cell carcinoma predominates in the upper and middle thirds of the esophagus (arising from squamous epithelium); adenocarcinoma arises from Barrett's epithelium in the lower third.
 
 </details>
 
@@ -4035,7 +4035,7 @@ Autoimmune gastritis is associated with deficiency of vitamin?
 
 <details><summary>Answer</summary>
 
-**B. B12** — Source: Medicoholic 2016 PYQ compilation.
+**B. B12** — **B. B12** — Autoimmune gastritis destroys parietal cells, causing loss of intrinsic factor; without IF, vitamin B12 cannot be absorbed in the terminal ileum, leading to pernicious anemia and subacute combined degeneration.
 
 </details>
 
@@ -4055,7 +4055,7 @@ Blood group most commonly associated with gastric carcinoma is?
 
 <details><summary>Answer</summary>
 
-**B. Blood group A** — Source: Medicoholic 2016 PYQ compilation.
+**B. Blood group A** — **B. Blood group A** — Blood group A individuals have a ~20% higher risk of gastric carcinoma; the mechanism involves mucin glycosylation differences affecting H. pylori adhesion and mucosal defense.
 
 </details>
 
@@ -4075,7 +4075,7 @@ Which disease is diagnosed by jejunal biopsy?
 
 <details><summary>Answer</summary>
 
-**B. Intestinal lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Intestinal lymphoma** — **B. Intestinal lymphoma** — While celiac disease is the classic indication for jejunal biopsy (villous atrophy), intestinal lymphoma diagnosis requires tissue biopsy demonstrating lymphomatous infiltration of the bowel wall.
 
 </details>
 
@@ -4095,7 +4095,7 @@ commonest benign tumor of the esophagus?
 
 <details><summary>Answer</summary>
 
-**A. Leiomyoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Leiomyoma** — **A. Leiomyoma** — Leiomyoma, arising from smooth muscle of the muscularis propria, is the most common benign esophageal tumor; it is intramural, submucosal, and typically occurs in the lower two-thirds.
 
 </details>
 
@@ -4115,7 +4115,7 @@ Total colonic aganglionosis is a variant of?
 
 <details><summary>Answer</summary>
 
-**C. Hirschsprung's disease** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hirschsprung's disease** — **C. Hirschsprung's disease** — Total colonic aganglionosis (Zuelzer-Wilson syndrome) is a severe variant of Hirschsprung's disease where aganglionosis extends through the entire colon due to failure of neural crest cell migration.
 
 </details>
 
@@ -4135,7 +4135,7 @@ APC gene is involved in?
 
 <details><summary>Answer</summary>
 
-**A. Colorectal carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Colorectal carcinoma** — **A. Colorectal carcinoma** — APC (adenomatous polyposis coli) tumor suppressor gene on chromosome 5q regulates β-catenin/Wnt signaling; germline APC mutations cause familial adenomatous polyposis with near-certain colorectal cancer development.
 
 </details>
 
@@ -4155,7 +4155,7 @@ False about Patterson-Kelly-Brown syndrome is?
 
 <details><summary>Answer</summary>
 
-**D. Risk factor for adenocarcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**D. Risk factor for adenocarcinoma** — **D. Risk factor for adenocarcinoma** — Plummer-Vinson/Paterson-Kelly syndrome (iron deficiency anemia, esophageal webs, glossitis, koilonychia) is a risk factor for squamous cell carcinoma of the post-cricoid region, NOT adenocarcinoma.
 
 </details>
 
@@ -4175,7 +4175,7 @@ Most common site for carcinoma pharynx in females suffering from plummer vinson 
 
 <details><summary>Answer</summary>
 
-**A. Post cricoid region** — Source: Medicoholic 2016 PYQ compilation.
+**A. Post cricoid region** — **A. Post cricoid region** — Plummer-Vinson syndrome causes post-cricoid esophageal/hypopharyngeal webs in iron-deficient women; chronic mucosal irritation from these webs predisposes specifically to post-cricoid squamous cell carcinoma.
 
 </details>
 
@@ -4195,7 +4195,7 @@ Commonest following? carcinoma that can cause splenic metastasis is which of the
 
 <details><summary>Answer</summary>
 
-**C. Ca. Ovary** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ca. Ovary** — **C. Ca. Ovary** — Ovarian carcinoma most commonly metastasizes to the spleen via transcoelomic spread (peritoneal seeding onto splenic surface); splenic parenchymal metastases are relatively rare and more commonly from lung/breast.
 
 </details>
 
@@ -4215,7 +4215,7 @@ Which of the following would be the best morphological feature to distinguish ul
 
 <details><summary>Answer</summary>
 
-**A. Diffuse distributions of pseudopolyps** — Source: Medicoholic 2016 PYQ compilation.
+**A. Diffuse distributions of pseudopolyps** — **A. Diffuse distributions of pseudopolyps** — Diffuse, continuous pseudopolyps (regenerating mucosa islands surrounded by ulceration) are characteristic of UC; Crohn's disease shows skip lesions, transmural inflammation, and non-caseating granulomas.
 
 </details>
 
@@ -4235,7 +4235,7 @@ Penile carcinoma is usually?
 
 <details><summary>Answer</summary>
 
-**A. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Squamous cell carcinoma** — **A. Squamous cell carcinoma** — Over 95% of penile carcinomas are squamous cell carcinomas arising from the squamous epithelium of the glans/prepuce; HPV (types 16, 18) and phimosis are major risk factors.
 
 </details>
 
@@ -4255,7 +4255,7 @@ Stain used for staining the nucleus is?
 
 <details><summary>Answer</summary>
 
-**C. Hematoxylin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hematoxylin** — **C. Hematoxylin** — Hematoxylin is a basic (cationic) dye that binds acidic nuclear components (DNA, RNA) producing a blue-purple color; eosin stains cytoplasm pink, making H&E the standard histological stain.
 
 </details>
 
@@ -4275,7 +4275,7 @@ Choroid metastasis is associated most commonly with?
 
 <details><summary>Answer</summary>
 
-**B. Renal carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Renal carcinoma** — **B. Renal carcinoma** — Renal cell carcinoma is the most common primary tumor metastasizing to the choroid (uveal tract); RCC has a characteristic tendency for highly vascular metastases to unusual sites including choroid, thyroid, and bone.
 
 </details>
 
@@ -4295,7 +4295,7 @@ Which of the following statements about the pathology in Alzheimer's disease is 
 
 <details><summary>Answer</summary>
 
-**C. NFTs appear extracellularly before intracellular appearance** — Source: Medicoholic 2016 PYQ compilation.
+**C. NFTs appear extracellularly before intracellular appearance** — **C. NFTs appear extracellularly before intracellular appearance** — Neurofibrillary tangles begin intracellularly (hyperphosphorylated tau filaments within neurons); only after neuronal death do ghost tangles appear extracellularly — the intracellular phase precedes the extracellular.
 
 </details>
 
@@ -4315,7 +4315,7 @@ Metastasis to thyroid comes from which primary site of malignancy?
 
 <details><summary>Answer</summary>
 
-**D. Kidney** — Source: Medicoholic 2016 PYQ compilation.
+**D. Kidney** — **D. Kidney** — Renal cell carcinoma is the most common primary tumor to metastasize to the thyroid gland, often presenting as a solitary thyroid mass years after nephrectomy; RCC metastases are highly vascular.
 
 </details>
 
@@ -4335,7 +4335,7 @@ Which of the following is the most common mutation in Ewing's sarcoma -
 
 <details><summary>Answer</summary>
 
-**B. Translocation 11; 22** — Source: Medicoholic 2016 PYQ compilation.
+**B. Translocation 11; 22** — **B. Translocation 11; 22** — Ewing's sarcoma is defined by t(11;22)(q24;q12) creating the EWS-FLI1 fusion oncogene in ~85% of cases; this aberrant transcription factor drives undifferentiated small round blue cell tumor morphology.
 
 </details>
 
@@ -4355,7 +4355,7 @@ Least desmoplastic breast carcinoma is
 
 <details><summary>Answer</summary>
 
-**B. Lobular** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lobular** — **B. Lobular** — Invasive lobular carcinoma shows the least desmoplastic stromal reaction; tumor cells infiltrate in single-file (Indian file) pattern through existing stroma without provoking significant fibrotic response, unlike ductal carcinoma.
 
 </details>
 
@@ -4375,7 +4375,7 @@ Marker for neuroblastoma among the following is?
 
 <details><summary>Answer</summary>
 
-**B. Chromogranin A** — Source: Medicoholic 2016 PYQ compilation.
+**B. Chromogranin A** — **B. Chromogranin A** — Chromogranin A is a secretory protein of neuroendocrine granules elevated in neuroblastoma (and other NETs); urinary catecholamines/VMA are also markers, but among the listed options, chromogranin A is the pathological marker.
 
 </details>
 
@@ -4395,7 +4395,7 @@ Thymic hyperplasia is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Myasthenia gravis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Myasthenia gravis** — **C. Myasthenia gravis** — Thymic hyperplasia (germinal center formation in medulla) occurs in ~70% of myasthenia gravis patients; the thymus drives anti-AChR antibody production, and thymectomy improves MG symptoms.
 
 </details>
 
@@ -4415,7 +4415,7 @@ In Endometrial carcinoma, which of the following tumor suppressor gene occurs?
 
 <details><summary>Answer</summary>
 
-**C. PTEN** — Source: Medicoholic 2016 PYQ compilation.
+**C. PTEN** — **C. PTEN** — PTEN mutation is the most common genetic alteration in Type I (endometrioid) endometrial carcinoma (~80%), causing PI3K/Akt pathway activation; it co-occurs with microsatellite instability in Lynch syndrome-associated cases.
 
 </details>
 
@@ -4435,7 +4435,7 @@ Stain used for tubulin is
 
 <details><summary>Answer</summary>
 
-**C. SiR stain** — Source: Medicoholic 2016 PYQ compilation.
+**C. SiR stain** — **C. SiR stain** — SiR-tubulin (silicon-rhodamine tubulin probe) is a cell-permeable fluorescent dye that specifically labels microtubules/tubulin in live cells for super-resolution microscopy; it binds taxane site of β-tubulin.
 
 </details>
 
@@ -4455,7 +4455,7 @@ X-linked adrenoleukodystrophy is
 
 <details><summary>Answer</summary>
 
-**A. Fatty acid disorder** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fatty acid disorder** — **A. Fatty acid disorder** — X-ALD is caused by ABCD1 gene mutation impairing peroxisomal very-long-chain fatty acid (VLCFA) oxidation, causing VLCFA accumulation in brain white matter and adrenal cortex.
 
 </details>
 
@@ -4475,7 +4475,7 @@ Chromosome for MEN2 gene is
 
 <details><summary>Answer</summary>
 
-**C. 10811.2** — Source: Medicoholic 2016 PYQ compilation.
+**C. 10811.2** — **C. 10811.2** — MEN2 (multiple endocrine neoplasia type 2) is caused by RET proto-oncogene mutations located on chromosome 10q11.2; RET encodes a receptor tyrosine kinase activated by gain-of-function point mutations.
 
 </details>
 
@@ -4495,7 +4495,7 @@ Hob nail appearance is seen in
 
 <details><summary>Answer</summary>
 
-**A. Clear cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Clear cell carcinoma** — **A. Clear cell carcinoma** — Hobnail cells (nuclei protruding beyond cell cytoplasm into glandular lumen like hobnails) are characteristic of clear cell carcinoma of ovary/endometrium/vagina (DES-related); also seen in mesonephric remnants.
 
 </details>
 
@@ -4515,7 +4515,7 @@ Sphenoid dysplasia is seen in?
 
 <details><summary>Answer</summary>
 
-**A. NF-1** — Source: Medicoholic 2016 PYQ compilation.
+**A. NF-1** — **A. NF-1** — Sphenoid wing dysplasia (absence/hypoplasia of the greater wing of sphenoid) is a pathognomonic skeletal feature of neurofibromatosis type 1 (NF1/chromosome 17q), causing pulsatile exophthalmos.
 
 </details>
 
@@ -4535,7 +4535,7 @@ In a case of Dysgerminoma of ovary one of the following tumor markers is likely 
 
 <details><summary>Answer</summary>
 
-**C. Serum lactic dehydrogenase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Serum lactic dehydrogenase** — **C. Serum lactic dehydrogenase** — Dysgerminoma (ovarian counterpart of testicular seminoma) characteristically elevates LDH and placental alkaline phosphatase; beta-HCG is elevated only in dysgerminomas with syncytiotrophoblastic giant cells.
 
 </details>
 
@@ -4555,7 +4555,7 @@ Most common site for ectopic thyroid tissue is?
 
 <details><summary>Answer</summary>
 
-**B. Lingual** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lingual** — **B. Lingual** — Lingual thyroid (at the base of tongue/foramen cecum) is the most common site of ectopic thyroid tissue, resulting from failure of thyroid to descend during embryological development from the foramen cecum.
 
 </details>
 
@@ -5175,7 +5175,7 @@ Which of the following is true about ziprasidone?
 
 <details><summary>Answer</summary>
 
-**C. Has anti - depressant properties** — Source: Medicoholic 2016 PYQ compilation.
+**C. Has anti - depressant properties** — **C. Has anti - depressant properties** — Ziprasidone blocks 5-HT2A and 5-HT1A receptors and inhibits serotonin/noradrenaline reuptake, conferring antidepressant properties; it has weight-neutral profile and carries QTc prolongation risk, making it unsafe in cardiac patients.
 
 </details>
 
@@ -5195,7 +5195,7 @@ Which of the following nephrotoxic drugs should be completely avoided in renal f
 
 <details><summary>Answer</summary>
 
-**C. Nitrofurantoin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nitrofurantoin** — **C. Nitrofurantoin** — Nitrofurantoin is completely contraindicated in renal failure (GFR <30 ml/min); it fails to achieve therapeutic urinary concentrations and its toxic metabolites accumulate, causing peripheral neuropathy and pulmonary toxicity.
 
 </details>
 
@@ -5215,7 +5215,7 @@ Which drug is given in the pain due to diabetic neuropathy?
 
 <details><summary>Answer</summary>
 
-**C. Gabapentin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gabapentin** — **C. Gabapentin** — Gabapentin binds voltage-gated calcium channel alpha-2-delta subunits, reducing neuronal excitability and ectopic discharge from damaged peripheral nociceptors; it is a first-line treatment for painful diabetic peripheral neuropathy.
 
 </details>
 
@@ -5235,7 +5235,7 @@ Which of the following increases Amphoterecin B induced nephrotoxicity?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Vancomycin, cyclosporin, and acyclovir are each independently nephrotoxic; co-administration with amphotericin B (which causes afferent arteriolar vasoconstriction and direct tubular toxicity) additively worsens nephrotoxicity.
 
 </details>
 
@@ -5255,7 +5255,7 @@ Which macrolide is active against Mycobaterium leprae?
 
 <details><summary>Answer</summary>
 
-**C. Clarithromycin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Clarithromycin** — **C. Clarithromycin** — Clarithromycin has demonstrated bactericidal activity against Mycobacterium leprae by inhibiting 50S ribosomal protein synthesis; it is used as an alternative in multidrug regimens for leprosy, especially in dapsone-resistant cases.
 
 </details>
 
@@ -5275,7 +5275,7 @@ Which of the following is not true about levamisole?
 
 <details><summary>Answer</summary>
 
-**C. It can kill strongyloides larvae and adult worms** — Source: Medicoholic 2016 PYQ compilation.
+**C. It can kill strongyloides larvae and adult worms** — **C. It can kill strongyloides larvae and adult worms** — Levamisole is active against Ascaris and Ancylostoma (hookworm) by causing spastic paralysis via nicotinic receptor agonism; it has no significant activity against Strongyloides, which requires ivermectin or albendazole.
 
 </details>
 
@@ -5295,7 +5295,7 @@ Which of the following is a side effect of clofazimine?
 
 <details><summary>Answer</summary>
 
-**A. Reddish black skin discoloration** — Source: Medicoholic 2016 PYQ compilation.
+**A. Reddish black skin discoloration** — **A. Reddish black skin discoloration** — Clofazimine (a riminophenazine dye) deposits in skin and causes reddish-brown to black pigmentation, particularly in leprosy lesions and sun-exposed areas; this is dose-dependent and reverses slowly after stopping treatment.
 
 </details>
 
@@ -5315,7 +5315,7 @@ For systemic mycosis fluconazole is preferred over ketoconazole because of -
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Fluconazole is preferred over ketoconazole for systemic mycoses due to greater CNS penetration and efficacy, longer half-life (~30 h vs ~8 h), and lesser hepatotoxicity and fewer endocrine side effects (less CYP450 inhibition).
 
 </details>
 
@@ -5335,7 +5335,7 @@ INH hepatotoxicity is due to which compound?
 
 <details><summary>Answer</summary>
 
-**A. INH acetylhydrazine** — Source: Medicoholic 2016 PYQ compilation.
+**A. INH acetylhydrazine** — **A. INH acetylhydrazine** — Isoniazid is metabolised by N-acetyltransferase to acetylhydrazine, which is further oxidised to a reactive hepatotoxic acylating intermediate; slow acetylators produce less but rapid acetylators convert more INH to acetylhydrazine, paradoxically increasing toxicity.
 
 </details>
 
@@ -5355,7 +5355,7 @@ What is the effect of co administration of rifampicin and ritonavir in patients 
 
 <details><summary>Answer</summary>
 
-**B. Area Under Curve decreased by 35%** — Source: Medicoholic 2016 PYQ compilation.
+**B. Area Under Curve decreased by 35%** — **B. Area Under Curve decreased by 35%** — Rifampicin is a potent CYP3A4 inducer; it markedly accelerates metabolism of ritonavir (a protease inhibitor/CYP3A4 substrate), reducing ritonavir AUC by approximately 35%, leading to subtherapeutic antiretroviral levels.
 
 </details>
 
@@ -5375,7 +5375,7 @@ Which of the following antilipidemic drug is a sterol absorption inhibitor?
 
 <details><summary>Answer</summary>
 
-**D. Ezetimibe** — Source: Medicoholic 2016 PYQ compilation.
+**D. Ezetimibe** — **D. Ezetimibe** — Ezetimibe selectively inhibits NPC1L1 (Niemann-Pick C1-Like 1) transporter at the brush border of small intestinal enterocytes, blocking cholesterol and phytosterol absorption without affecting bile acid or fat-soluble vitamin absorption.
 
 </details>
 
@@ -5395,7 +5395,7 @@ Not an adverse effect of cimetidine ?
 
 <details><summary>Answer</summary>
 
-**D. Decreased prolactin levels** — Source: Medicoholic 2016 PYQ compilation.
+**D. Decreased prolactin levels** — **D. Decreased prolactin levels** — Cimetidine (H2 blocker) actually INCREASES prolactin levels by blocking dopamine receptors and inhibiting CYP450; its anti-androgenic effects (CYP1A2 inhibition, androgen receptor blockade) cause gynecomastia and impotence.
 
 </details>
 
@@ -5415,7 +5415,7 @@ Use of metoclopramide beyond weeks increases the chances of tardive dyskinesia ?
 
 <details><summary>Answer</summary>
 
-**B. 12** — Source: Medicoholic 2016 PYQ compilation.
+**B. 12** — **B. 12** — Metoclopramide use beyond 12 weeks significantly increases the risk of tardive dyskinesia due to prolonged D2 receptor blockade in the nigrostriatal pathway; the FDA mandates a black-box warning for use beyond 12 weeks.
 
 </details>
 
@@ -5435,7 +5435,7 @@ The two molecules of Aminosalicylate coupled via azo bond form?
 
 <details><summary>Answer</summary>
 
-**B. Olsalazine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Olsalazine** — **B. Olsalazine** — Olsalazine consists of two 5-aminosalicylate (mesalazine) molecules linked by an azo bond; colonic bacteria cleave the azo bond to release two active mesalazine molecules, providing topical anti-inflammatory action in ulcerative colitis.
 
 </details>
 
@@ -5455,7 +5455,7 @@ Natural anticancer drug is ?
 
 <details><summary>Answer</summary>
 
-**A. Paclitaxel** — Source: Medicoholic 2016 PYQ compilation.
+**A. Paclitaxel** — **A. Paclitaxel** — Paclitaxel is derived from the bark of Taxus brevifolia (Pacific yew tree); it stabilises polymerised microtubules by binding beta-tubulin, preventing depolymerisation and arresting cells in metaphase (M-phase cell cycle arrest).
 
 </details>
 
@@ -5475,7 +5475,7 @@ Use of HAART is associated with hepatotoxicity approximately what percentage of 
 
 <details><summary>Answer</summary>
 
-**A. 10%** — Source: Medicoholic 2016 PYQ compilation.
+**A. 10%** — **A. 10%** — Approximately 10% of patients on HAART develop significant hepatotoxicity; risk is higher with NNRTIs (nevirapine) and NRTIs (stavudine, didanosine), particularly in co-infected HIV/HCV patients due to mitochondrial toxicity and immune reconstitution.
 
 </details>
 
@@ -5495,7 +5495,7 @@ Abraxane is a :?
 
 <details><summary>Answer</summary>
 
-**C. Albumin bound paclitaxel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Albumin bound paclitaxel** — **C. Albumin bound paclitaxel** — Abraxane (nab-paclitaxel) is paclitaxel bound to human serum albumin nanoparticles (~130 nm), allowing Cremophor EL-free formulation, reduced hypersensitivity risk, improved tumour delivery via SPARC-mediated albumin uptake.
 
 </details>
 
@@ -5515,7 +5515,7 @@ Abatacept binds to on T cell surface
 
 <details><summary>Answer</summary>
 
-**D. CD 28** — Source: Medicoholic 2016 PYQ compilation.
+**D. CD 28** — **D. CD 28** — Abatacept (CTLA-4-Ig fusion protein) binds CD80/CD86 on antigen-presenting cells and blocks their interaction with CD28 on T cells, preventing costimulatory signal required for T-cell activation; used in rheumatoid arthritis.
 
 </details>
 
@@ -5535,7 +5535,7 @@ Cardiotmdcity is the side effect of :?
 
 <details><summary>Answer</summary>
 
-**C. Rubidomycin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rubidomycin** — **C. Rubidomycin** — Rubidomycin (daunorubicin) is an anthracycline antibiotic that causes dose-dependent cardiotoxicity via free radical generation and topoisomerase II inhibition in cardiomyocytes, leading to dilated cardiomyopathy; cumulative dose >550 mg/m² is the threshold.
 
 </details>
 
@@ -5555,7 +5555,7 @@ Estramustine is a combination of ?
 
 <details><summary>Answer</summary>
 
-**A. Estradiol + normustine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Estradiol + normustine** — **A. Estradiol + normustine** — Estramustine is an estrogen-nitrogen mustard conjugate of estradiol and normustine (nor-mechlorethamine); it combines hormonal (oestrogen-receptor mediated uptake into prostate cancer cells) and alkylating cytotoxic mechanisms.
 
 </details>
 
@@ -5575,7 +5575,7 @@ Cetuximab is used to treat ?
 
 <details><summary>Answer</summary>
 
-**C. Colorectal Ca** — Source: Medicoholic 2016 PYQ compilation.
+**C. Colorectal Ca** — **C. Colorectal Ca** — Cetuximab is a chimeric IgG1 monoclonal antibody targeting epidermal growth factor receptor (EGFR); it is used in EGFR-expressing, KRAS wild-type metastatic colorectal carcinoma and head-and-neck squamous cell carcinoma.
 
 </details>
 
@@ -5595,7 +5595,7 @@ Which of the following is not an adverse effect of cyclophosphamide?
 
 <details><summary>Answer</summary>
 
-**D. Diabetes insipidus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Diabetes insipidus** — **D. Diabetes insipidus** — Cyclophosphamide causes SIADH (syndrome of inappropriate ADH — dilutional hyponatraemia), not diabetes insipidus; its classic toxicities include haemorrhagic cystitis (acrolein metabolite), bone marrow suppression, and infertility.
 
 </details>
 
@@ -5615,7 +5615,7 @@ Adverse effect of the imatinib are all except ?
 
 <details><summary>Answer</summary>
 
-**D. Arthralgia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Arthralgia** — **D. Arthralgia** — Imatinib (BCR-ABL tyrosine kinase inhibitor) commonly causes periorbital oedema, myalgia, pleural effusion, and fluid retention, but arthralgia is not a well-recognised side effect; myalgia/muscle cramps are far more characteristic.
 
 </details>
 
@@ -5635,7 +5635,7 @@ Defect in discriminating blue green vision is due to which drug :?
 
 <details><summary>Answer</summary>
 
-**C. Sildenafil** — Source: Medicoholic 2016 PYQ compilation.
+**C. Sildenafil** — **C. Sildenafil** — Sildenafil inhibits PDE-5 but also weakly inhibits PDE-6 in retinal photoreceptors; this causes transient blue-green colour vision disturbance (cyanopsia), altered light perception, and blurred vision at higher doses.
 
 </details>
 
@@ -5655,7 +5655,7 @@ Racecadotril is used for?
 
 <details><summary>Answer</summary>
 
-**B. Acute secretory diarrhea** — Source: Medicoholic 2016 PYQ compilation.
+**B. Acute secretory diarrhea** — **B. Acute secretory diarrhea** — Racecadotril (acetorphan) is an enkephalinase (neutral endopeptidase) inhibitor that prevents breakdown of enkephalins in the gut, reducing cAMP-mediated hypersecretion of chloride ions; it is antidiarrhoeal without causing constipation.
 
 </details>
 
@@ -5675,7 +5675,7 @@ Which of the following drugs is associated with priapism?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Hydralazine, prazosin (alpha-1 blocker causing penile arterial dilation), and risperidone (alpha-adrenergic blockade impairing venous outflow) all can cause priapism through excessive penile arterial inflow or impaired venous drainage.
 
 </details>
 
@@ -5695,7 +5695,7 @@ Which of the following is a Cl- channel activator?
 
 <details><summary>Answer</summary>
 
-**A. Lubriprostone** — Source: Medicoholic 2016 PYQ compilation.
+**A. Lubriprostone** — **A. Lubriprostone** — Lubiprostone activates ClC-2 chloride channels in intestinal epithelium, increasing chloride-rich fluid secretion into the intestinal lumen; this softens stool and accelerates transit, used in chronic constipation and IBS-C.
 
 </details>
 
@@ -5715,7 +5715,7 @@ Acamprostate is used for ?
 
 <details><summary>Answer</summary>
 
-**A. Alcohol abstinence** — Source: Medicoholic 2016 PYQ compilation.
+**A. Alcohol abstinence** — **A. Alcohol abstinence** — Acamprosate (calcium acetylhomotaurinate) modulates glutamate NMDA and GABA receptors to reduce protracted alcohol withdrawal excitability; it reduces craving and maintains abstinence in alcohol use disorder, often combined with naltrexone.
 
 </details>
 
@@ -5735,7 +5735,7 @@ If a woman is assaulted by her husband then he is charged under: FMGE 11
 
 <details><summary>Answer</summary>
 
-**A. Sec. 498-A IPC** — Source: Medicoholic 2016 PYQ compilation.
+**A. Sec. 498-A IPC** — **A. Sec. 498-A IPC** — Section 498-A IPC deals specifically with cruelty by husband or his relatives towards a wife, including physical or mental harassment; it is a cognisable, non-bailable, and non-compoundable offence under Indian law.
 
 </details>
 
@@ -5755,7 +5755,7 @@ Adultery is described under which section of IPC?
 
 <details><summary>Answer</summary>
 
-**C. 497** — Source: Medicoholic 2016 PYQ compilation.
+**C. 497** — **C. 497** — Section 497 IPC historically defined adultery (sexual intercourse with a married woman without her husband's consent); this section was struck down by the Supreme Court of India in 2018 (Joseph Shine v. Union of India) as unconstitutional.
 
 </details>
 

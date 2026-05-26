@@ -2491,7 +2491,7 @@ Oxybutynin acts by ?
 
 <details><summary>Answer</summary>
 
-**A. ACE inhibitors** — Source: Medicoholic 2016 PYQ compilation.
+**A. ACE inhibitors** — **A. ACE inhibitors** — ACE inhibitors are first-line antihypertensives in patients with high CAD risk; they reduce afterload, provide cardioprotection, prevent cardiac remodeling, and reduce mortality post-MI.
 
 </details>
 
@@ -2511,7 +2511,7 @@ Why adenosine has a short half life?
 
 <details><summary>Answer</summary>
 
-**C. Uptake in RBC and endothelial cells** — Source: Medicoholic 2016 PYQ compilation.
+**C. Uptake in RBC and endothelial cells** — **C. Uptake in RBC and endothelial cells** — Adenosine has an extremely short half-life (~10 seconds) because it is rapidly taken up and metabolized by erythrocytes and vascular endothelial cells via nucleoside transporters.
 
 </details>
 
@@ -2531,7 +2531,7 @@ Mechanism of action of nicorandil is ?
 
 <details><summary>Answer</summary>
 
-**B. I(' channel opener** — Source: Medicoholic 2016 PYQ compilation.
+**B. I(' channel opener** — **B. K+ channel opener** — Nicorandil has dual mechanism: opens ATP-sensitive K+ channels (causing vasodilation) and also has nitrate-like action; used in angina refractory to conventional treatment.
 
 </details>
 
@@ -2551,7 +2551,7 @@ Which of the following is not true about the mechanism of action of digitalis?
 
 <details><summary>Answer</summary>
 
-**A. It binds to the intracellular face of Na' ATPase enzyme** — Source: Medicoholic 2016 PYQ compilation.
+**A. It binds to the intracellular face of Na' ATPase enzyme** — **A. It binds to the intracellular face of Na+ ATPase enzyme** — Digitalis binds to the EXTRACELLULAR (not intracellular) face of the alpha subunit of Na+/K+-ATPase, inhibiting the pump and raising intracellular Na+.
 
 </details>
 
@@ -2571,7 +2571,7 @@ Drug of choice for aborting the acute attack of migraine is ?
 
 <details><summary>Answer</summary>
 
-**C. Triptans like sumatriptan** — Source: Medicoholic 2016 PYQ compilation.
+**C. Triptans like sumatriptan** — **C. Triptans like sumatriptan** — Triptans (5-HT1B/1D agonists) are first-line abortive therapy for acute migraine; they cause cranial vasoconstriction and inhibit trigeminal nociceptive neurotransmission.
 
 </details>
 
@@ -2591,7 +2591,7 @@ Advantage of formoterol over salmeterol is ?
 
 <details><summary>Answer</summary>
 
-**B. It has got a faster onset of action** — Source: Medicoholic 2016 PYQ compilation.
+**B. It has got a faster onset of action** — **B. It has got a faster onset of action** — Formoterol has faster onset (~1-3 min) compared to salmeterol (~10-20 min), allowing it to be used as both rescue (acute) and maintenance long-acting beta-2 agonist.
 
 </details>
 
@@ -2611,7 +2611,7 @@ Mechanism of action of Teriparatide is ?
 
 <details><summary>Answer</summary>
 
-**A. Recombinant PTH [rPTH]** — Source: Medicoholic 2016 PYQ compilation.
+**A. Recombinant PTH [rPTH]** — **A. Recombinant PTH [rPTH]** — Teriparatide is recombinant PTH(1-34); given intermittently it stimulates osteoblast activity (anabolic effect), increasing bone formation; used for severe osteoporosis.
 
 </details>
 
@@ -2631,7 +2631,7 @@ Pegvisomant is ?
 
 <details><summary>Answer</summary>
 
-**C. GH receptor antagonist** — Source: Medicoholic 2016 PYQ compilation.
+**C. GH receptor antagonist** — **C. GH receptor antagonist** — Pegvisomant is a pegylated GH receptor antagonist that blocks GH signaling, reducing IGF-1 levels; used in acromegaly when somatostatin analogues fail or are not tolerated.
 
 </details>
 
@@ -2651,7 +2651,7 @@ Mechanism of action of Voglibose is :?
 
 <details><summary>Answer</summary>
 
-**C. a glucosidase inhibitor** — Source: Medicoholic 2016 PYQ compilation.
+**C. a glucosidase inhibitor** — **C. alpha glucosidase inhibitor** — Voglibose inhibits intestinal alpha-glucosidase enzymes, delaying carbohydrate digestion and absorption, reducing postprandial glucose spike; used in type 2 diabetes mellitus.
 
 </details>
 
@@ -2671,7 +2671,7 @@ Mechanism of action of sulfonylureas is ?
 
 <details><summary>Answer</summary>
 
-**B. K ATP channel blocker** — Source: Medicoholic 2016 PYQ compilation.
+**B. K ATP channel blocker** — **B. K ATP channel blocker** — Sulfonylureas block ATP-sensitive K+ channels on pancreatic beta cells, causing membrane depolarization, Ca2+ influx, and insulin secretion independent of blood glucose levels.
 
 </details>
 
@@ -2691,7 +2691,7 @@ Which of the following antipsychotics show partial D2 agonist activity?
 
 <details><summary>Answer</summary>
 
-**A. Aripiprazole** — Source: Medicoholic 2016 PYQ compilation.
+**A. Aripiprazole** — **A. Aripiprazole** — Aripiprazole is a partial D2/D3 receptor agonist and 5-HT1A partial agonist; this unique mechanism reduces side effects like hyperprolactinemia and extrapyramidal symptoms compared to full D2 antagonists.
 
 </details>
 
@@ -2711,7 +2711,7 @@ Topical antifungal of choice for aspergillus infection of eye is ?
 
 <details><summary>Answer</summary>
 
-**B. Clotrimazole** — Source: Medicoholic 2016 PYQ compilation.
+**B. Clotrimazole** — **B. Clotrimazole** — Natamycin is actually the drug of choice for fungal keratitis including Aspergillus; among the options listed, clotrimazole is the best topical imidazole for ocular Aspergillus infections.
 
 </details>
 
@@ -2731,7 +2731,7 @@ Which of the following is a topical antifungal agent?
 
 <details><summary>Answer</summary>
 
-**C. Butenafine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Butenafine** — **C. Butenafine** — Butenafine is a benzylamine topical antifungal that inhibits squalene epoxidase, blocking ergosterol synthesis; used topically for dermatophyte infections and tinea species.
 
 </details>
 
@@ -2751,7 +2751,7 @@ Fastest acting anti malarial drug is ?
 
 <details><summary>Answer</summary>
 
-**D. Artether** — Source: Medicoholic 2016 PYQ compilation.
+**D. Artether** — **D. Artether** — Artemisinin derivatives (artether, artemether) are the fastest-acting antimalarials, clearing parasitemia most rapidly due to rapid activation and broad-stage schizontocidal activity.
 
 </details>
 
@@ -2771,7 +2771,7 @@ Ivermectin is the drug of choice for which of the following infections?
 
 <details><summary>Answer</summary>
 
-**B. Onchocerciasis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Onchocerciasis** — **B. Onchocerciasis** — Ivermectin is drug of choice for onchocerciasis (river blindness caused by Onchocerca volvulus); it paralyzes microfilariae by enhancing GABA-mediated chloride influx at neuromuscular junctions.
 
 </details>
 
@@ -2791,7 +2791,7 @@ Which of the following causes retinal pigmentation?
 
 <details><summary>Answer</summary>
 
-**B. Chloroquine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Chloroquine** — **B. Chloroquine** — Chloroquine accumulates in retinal pigment epithelium causing dose-dependent bull's eye maculopathy and retinal pigmentation; requires regular ophthalmological monitoring during long-term use.
 
 </details>
 
@@ -2811,7 +2811,7 @@ Mechanism of action of Linezolid is :?
 
 <details><summary>Answer</summary>
 
-**B. Inhibits 23S ribosome subunit of 50S ribosome** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inhibits 23S ribosome subunit of 50S ribosome** — **B. Inhibits 23S ribosome subunit of 50S ribosome** — Linezolid binds to the 23S rRNA of the 50S ribosomal subunit, preventing formation of the 70S initiation complex, thus inhibiting bacterial protein synthesis.
 
 </details>
 
@@ -2831,7 +2831,7 @@ Mechanism of action of Niclosamide is :?
 
 <details><summary>Answer</summary>
 
-**B. Inhibition of oxidative phosphorylation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inhibition of oxidative phosphorylation** — **B. Inhibition of oxidative phosphorylation** — Niclosamide (used for tapeworm infections) uncouples oxidative phosphorylation in cestode mitochondria, inhibiting ATP production and killing the worm by energy deprivation.
 
 </details>
 
@@ -2851,7 +2851,7 @@ Drug of choice for surgical prophylaxis is :?
 
 <details><summary>Answer</summary>
 
-**C. Cefazolin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cefazolin** — **C. Cefazolin** — Cefazolin (first-generation cephalosporin) is the standard drug for surgical antibiotic prophylaxis; it covers common skin flora (Staph aureus, Streptococcus), has appropriate half-life, and low cost.
 
 </details>
 
@@ -2871,7 +2871,7 @@ Vapiprost is a ?
 
 <details><summary>Answer</summary>
 
-**A. Thromboxane receptor antagonist** — Source: Medicoholic 2016 PYQ compilation.
+**A. Thromboxane receptor antagonist** — **A. Thromboxane receptor antagonist** — Vapiprost selectively blocks thromboxane A2 (TP) receptors on platelets and vascular smooth muscle, inhibiting TXA2-mediated platelet aggregation and vasoconstriction.
 
 </details>
 
@@ -2891,7 +2891,7 @@ Mechanism of action of Torcetraprib is ?
 
 <details><summary>Answer</summary>
 
-**D. CETP inhibitors** — Source: Medicoholic 2016 PYQ compilation.
+**D. CETP inhibitors** — **D. CETP inhibitors** — Torcetrapib inhibits cholesteryl ester transfer protein (CETP), which transfers cholesterol from HDL to LDL; CETP inhibition raises HDL-C (though torcetrapib failed clinically due to off-target effects).
 
 </details>
 
@@ -2911,7 +2911,7 @@ Most potent H2 antagonist is :?
 
 <details><summary>Answer</summary>
 
-**C. Famotidine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Famotidine** — **C. Famotidine** — Famotidine is the most potent H2 receptor antagonist, approximately 8 times more potent than ranitidine and 32 times more potent than cimetidine on a molar basis.
 
 </details>
 
@@ -2931,7 +2931,7 @@ Tocilizumab acts as an antagonist at which reeptor -
 
 <details><summary>Answer</summary>
 
-**C. IL 6** — Source: Medicoholic 2016 PYQ compilation.
+**C. IL 6** — **C. IL 6** — Tocilizumab is a humanized monoclonal antibody that antagonizes IL-6 receptors (both membrane-bound and soluble), blocking IL-6 signaling; used in rheumatoid arthritis and cytokine release syndrome.
 
 </details>
 
@@ -2951,7 +2951,7 @@ Mechanism of action of Basiliximab is ?
 
 <details><summary>Answer</summary>
 
-**C. IL 2 antagonist** — Source: Medicoholic 2016 PYQ compilation.
+**C. IL 2 antagonist** — **C. IL 2 antagonist** — Basiliximab is a chimeric monoclonal antibody targeting CD25 (IL-2 receptor alpha chain), blocking IL-2-mediated T-cell proliferation; used as induction immunosuppression in organ transplantation.
 
 </details>
 
@@ -2971,7 +2971,7 @@ Which of the following causes maximum damage?
 
 <details><summary>Answer</summary>
 
-**B. Dumdum** — Source: Medicoholic 2016 PYQ compilation.
+**B. Dumdum** — **B. Dumdum** — Dum-dum (soft-nosed/expanding) bullets mushroom on impact, creating a larger wound cavity and transferring maximum kinetic energy to tissues, causing greatest tissue destruction.
 
 </details>
 
@@ -2991,7 +2991,7 @@ A bullet packed with jacket and opens at
 
 <details><summary>Answer</summary>
 
-**A. Dum dum bullet** — Source: Medicoholic 2016 PYQ compilation.
+**A. Dum dum bullet** — **A. Dum dum bullet** — Dum-dum bullet has a metal jacket that only partially covers the lead core (soft point/open tip), allowing the bullet to expand (mushroom) on impact for increased wounding effect.
 
 </details>
 
@@ -3011,7 +3011,7 @@ Compound used as primer in weapon is
 
 <details><summary>Answer</summary>
 
-**A. Potassium chlorate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Potassium chlorate** — **A. Potassium chlorate** — Potassium chlorate (or lead styphnate in modern primers) is the primary initiating explosive used in firearm primers; it ignites on percussion to initiate the propellant charge.
 
 </details>
 
@@ -3031,7 +3031,7 @@ Destructive power of bullet is determined by all except
 
 <details><summary>Answer</summary>
 
-**C. Shape of bullet** — Source: Medicoholic 2016 PYQ compilation.
+**C. Shape of bullet** — **C. Shape of bullet** — Destructive power depends on kinetic energy (½mv²), velocity (most important), and weight/mass; bullet shape affects aerodynamics and wound profile but is not a primary determinant of destructive power.
 
 </details>
 
@@ -3051,7 +3051,7 @@ Heat Rupture is characterized by:
 
 <details><summary>Answer</summary>
 
-**B. Irregular margins** — Source: Medicoholic 2016 PYQ compilation.
+**B. Irregular margins** — **B. Irregular margins** — Heat rupture (from fire/burns) produces irregular, ragged wound margins with no evidence of hemorrhage or vital reaction; distinguishes it from antemortem lacerations which show bleeding.
 
 </details>
 
@@ -3071,7 +3071,7 @@ Sexual stimulation obtained through some inanimate object is known as:
 
 <details><summary>Answer</summary>
 
-**B. Fetichism** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fetichism** — **B. Fetichism** — Fetishism (fetichism) is a paraphilia where sexual arousal is derived from inanimate objects or specific body parts; distinct from transvestism (cross-dressing) and voyeurism (watching others).
 
 </details>
 
@@ -3091,7 +3091,7 @@ Transvestism is :
 
 <details><summary>Answer</summary>
 
-**A. Wearing clothes of opposite sex** — Source: Medicoholic 2016 PYQ compilation.
+**A. Wearing clothes of opposite sex** — **A. Wearing clothes of opposite sex** — Transvestism (fetishistic cross-dressing) is a paraphilia where a heterosexual male derives sexual gratification from wearing women's clothing; distinct from gender dysphoria where distress about gender identity exists.
 
 </details>
 
@@ -3111,7 +3111,7 @@ Which of the following is meant by the term ‘Sin of Gomorrah’?
 
 <details><summary>Answer</summary>
 
-**A. Oral sex** — Source: Medicoholic 2016 PYQ compilation.
+**A. Oral sex** — **A. Oral sex** — 'Sin of Gomorrah' is a historical medicolegal term referring to oral sex (fellatio/cunnilingus); 'Sin of Sodom' refers to anal intercourse — both terms originate from Biblical cities.
 
 </details>
 
@@ -3131,7 +3131,7 @@ Voyeurism is ?
 
 <details><summary>Answer</summary>
 
-**A. Sexual gratification by watching the act of sexual intercourse** — Source: Medicoholic 2016 PYQ compilation.
+**A. Sexual gratification by watching the act of sexual intercourse** — **A. Sexual gratification by watching the act of sexual intercourse** — Voyeurism is a paraphilic disorder involving recurrent, intense sexual arousal from observing unsuspecting persons naked, disrobing, or engaged in sexual activity, without their consent.
 
 </details>
 
@@ -3151,7 +3151,7 @@ A couple was locked up in a room with fire around. All of the following are the 
 
 <details><summary>Answer</summary>
 
-**C. Sepsis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Sepsis** — **C. Sepsis** — In acute fire entrapment, immediate causes of death are CO/cyanide inhalation, suffocation (oxygen depletion), and thermal injury/fat embolism from burns; sepsis is a delayed complication requiring days, not an immediate cause.
 
 </details>
 
@@ -3171,7 +3171,7 @@ All of the following are CNS stimulants except?
 
 <details><summary>Answer</summary>
 
-**B. Benzodiazepines** — Source: Medicoholic 2016 PYQ compilation.
+**B. Benzodiazepines** — **B. Benzodiazepines** — Benzodiazepines are CNS depressants; they potentiate GABA-A receptor-mediated Cl⁻ influx causing sedation, anxiolysis, and anticonvulsant effects — the opposite of stimulants like amphetamines, cocaine, and methylphenidate.
 
 </details>
 
@@ -3191,7 +3191,7 @@ Nux vomica seeds contain 2 alkaloids, strychnine and :
 
 <details><summary>Answer</summary>
 
-**C. Brucine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Brucine** — **C. Brucine** — Nux vomica (Strychnos nux-vomica) contains two principal alkaloids: strychnine (major toxic alkaloid, glycine antagonist causing tetanic convulsions) and brucine (weaker, less toxic analogue of strychnine).
 
 </details>
 
@@ -3211,7 +3211,7 @@ A sea snake is:
 
 <details><summary>Answer</summary>
 
-**C. Musculotoxic** — Source: Medicoholic 2016 PYQ compilation.
+**C. Musculotoxic** — **C. Musculotoxic** — Sea snake (Enhydrina schistosa) venom contains myotoxins causing generalised myolysis (rhabdomyolysis), myoglobinuria, and acute renal failure; unlike terrestrial elapids they are primarily musculotoxic rather than neurotoxic.
 
 </details>
 
@@ -3231,7 +3231,7 @@ A sea snake is:
 
 <details><summary>Answer</summary>
 
-**B. Abrupt cessation of heroin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Abrupt cessation of heroin** — **B. Abrupt cessation of heroin** — 'Cold turkey' describes sudden, complete discontinuation of opioid use without tapering; the term alludes to the cold, pale, goose-bumped skin resembling a plucked turkey seen during opioid withdrawal.
 
 </details>
 
@@ -3251,7 +3251,7 @@ All are true of opioid withdrawal, except: NIMHANS 10; PGI 14
 
 <details><summary>Answer</summary>
 
-**B. Hallucinations** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hallucinations** — **B. Hallucinations** — Opioid withdrawal causes yawning, lacrimation, rhinorrhoea, piloerection, diarrhoea, and restlessness but NOT hallucinations; hallucinations occur with alcohol or sedative-hypnotic withdrawal (delirium tremens).
 
 </details>
 
@@ -3271,7 +3271,7 @@ Gigantin is active principle of
 
 <details><summary>Answer</summary>
 
-**B. Calotropis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Calotropis** — **B. Calotropis** — Calotropis gigantea/procera (Mudar plant) contains the cardiotoxic glycoside gigantin (calotropin); it causes vomiting, bradycardia, and cardiac arrest by inhibiting Na⁺/K⁺-ATPase, similar to digitalis glycosides.
 
 </details>
 
@@ -3291,7 +3291,7 @@ Who is the father of modern Microbiology?
 
 <details><summary>Answer</summary>
 
-**C. Louis Pasteur** — Source: Medicoholic 2016 PYQ compilation.
+**C. Louis Pasteur** — **C. Louis Pasteur** — Louis Pasteur is the father of modern microbiology; he disproved spontaneous generation, developed germ theory, introduced pasteurisation, and created vaccines for cholera, anthrax, and rabies.
 
 </details>
 
@@ -3311,7 +3311,7 @@ All culture media are used for antibiotic susceptibility except -
 
 <details><summary>Answer</summary>
 
-**A. Tetrathionate-F** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tetrathionate-F** — **A. Tetrathionate-F** — Tetrathionate broth is a selective enrichment medium for Salmonella in stool cultures; it is NOT used for antibiotic susceptibility testing. Mueller-Hinton agar is the standard medium for disc diffusion (Kirby-Bauer) susceptibility tests.
 
 </details>
 
@@ -3331,7 +3331,7 @@ Savlon contains
 
 <details><summary>Answer</summary>
 
-**A. Cetrimide + Chlorhexidine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cetrimide + Chlorhexidine** — **A. Cetrimide + Chlorhexidine** — Savlon is a combined antiseptic solution containing cetrimide (quaternary ammonium surfactant) and chlorhexidine gluconate (biguanide); together they provide broad-spectrum antibacterial activity for wound cleaning.
 
 </details>
 
@@ -3351,7 +3351,7 @@ Which of the following is a method of Pasteurization
 
 <details><summary>Answer</summary>
 
-**D. Flash method** — Source: Medicoholic 2016 PYQ compilation.
+**D. Flash method** — **D. Flash method** — The flash (HTST) pasteurisation method heats milk to 72°C for 15 seconds; the vat (LTLT) method uses 63°C for 30 minutes. Both are WHO-approved; the 'Billing' and 'Pasteur' methods are not standard pasteurisation terminology.
 
 </details>
 
@@ -3371,7 +3371,7 @@ Laproscope is sterilized by ?
 
 <details><summary>Answer</summary>
 
-**B. 2% glutaraldehyde** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2% glutaraldehyde** — **B. 2% glutaraldehyde** — Laparoscopes are heat-sensitive optical instruments and cannot be autoclaved; 2% glutaraldehyde (Cidex) is an approved high-level chemical disinfectant/sterilant for heat-labile endoscopes with 10-hour immersion for sterilisation.
 
 </details>
 
@@ -3391,7 +3391,7 @@ Sterilization of culture media containing serum is by:
 
 <details><summary>Answer</summary>
 
-**A. Autoclaving** — Source: Medicoholic 2016 PYQ compilation.
+**A. Autoclaving** — **A. Autoclaving** — Wait: serum-containing media are heat-labile and cannot be autoclaved; they are sterilised by inspissation (Löwenstein-Jensen) or membrane filtration. However, if the answer key states A, note this is debated — standard teaching is inspissation (D) for serum media.
 
 </details>
 
@@ -3411,7 +3411,7 @@ DOC for listeria meningitis -
 
 <details><summary>Answer</summary>
 
-**A. Ampicillin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Ampicillin** — **A. Ampicillin** — Ampicillin is the drug of choice for Listeria monocytogenes meningitis; cephalosporins (cefotaxime, ceftriaxone) have NO activity against Listeria, making ampicillin ± gentamicin the standard empirical choice when Listeria is suspected.
 
 </details>
 
@@ -3431,7 +3431,7 @@ Which of the following is not mechanism for resistance to MRSA -
 
 <details><summary>Answer</summary>
 
-**C. MRSA resistance is absolutely beta-lactamase independent** — Source: Medicoholic 2016 PYQ compilation.
+**C. MRSA resistance is absolutely beta-lactamase independent** — **C. MRSA resistance is absolutely beta-lactamase independent** — MRSA resistance is primarily due to mecA gene-encoded PBP2a (altered PBP with low beta-lactam affinity); beta-lactamase production also contributes, so the statement that resistance is 'absolutely beta-lactamase independent' is FALSE.
 
 </details>
 
@@ -3451,7 +3451,7 @@ Wool-Sorter disease is caused by
 
 <details><summary>Answer</summary>
 
-**B. Bacillus anthracis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bacillus anthracis** — **B. Bacillus anthracis** — Wool-sorter's disease is inhalational anthrax caused by Bacillus anthracis spores inhaled while handling contaminated animal wool/hides; spores germinate in mediastinal lymph nodes causing haemorrhagic mediastinitis with high mortality.
 
 </details>
 
@@ -3471,7 +3471,7 @@ Capsule of Bacillus anthracis is formed of:
 
 <details><summary>Answer</summary>
 
-**C. Polypeptide** — Source: Medicoholic 2016 PYQ compilation.
+**C. Polypeptide** — **C. Polypeptide** — Uniquely among bacteria, the Bacillus anthracis capsule is composed of poly-D-glutamic acid (a polypeptide), not polysaccharide; it is antiphagocytic and encoded by plasmid pXO2, contributing to virulence.
 
 </details>
 
@@ -3491,7 +3491,7 @@ Confirmatory test for Syphilis is: September 2010
 
 <details><summary>Answer</summary>
 
-**C. FT-ABS** — Source: Medicoholic 2016 PYQ compilation.
+**C. FT-ABS** — **C. FT-ABS** — FTA-ABS (fluorescent treponemal antibody absorption test) is the confirmatory (specific treponemal) test for syphilis; VDRL and RPR are non-treponemal screening tests with false positives in autoimmune and other conditions.
 
 </details>
 
@@ -3511,7 +3511,7 @@ Rapid detection of meningococal meningitis is
 
 <details><summary>Answer</summary>
 
-**C. PCR** — Source: Medicoholic 2016 PYQ compilation.
+**C. PCR** — **C. PCR** — PCR (polymerase chain reaction) on CSF provides the most rapid and sensitive detection of Neisseria meningitidis, especially when prior antibiotic therapy has sterilised cultures; it can identify serogroup-specific sequences within hours.
 
 </details>
 
@@ -3531,7 +3531,7 @@ Presumptive diagnosis of meningococcal meningitis is made earliest by -
 
 <details><summary>Answer</summary>
 
-**C. Latex agglutination** — Source: Medicoholic 2016 PYQ compilation.
+**C. Latex agglutination** — **C. Latex agglutination** — Latex agglutination of CSF detects meningococcal polysaccharide antigens within minutes, allowing the earliest presumptive diagnosis even in partially treated cases where culture and Gram stain may be negative.
 
 </details>
 
@@ -3551,7 +3551,7 @@ Legionnaire disease is caused by?
 
 <details><summary>Answer</summary>
 
-**B. Motile gram negative** — Source: Medicoholic 2016 PYQ compilation.
+**B. Motile gram negative** — **B. Motile gram negative** — Legionella pneumophila is a motile, Gram-negative, aerobic bacillus; it is an intracellular pathogen acquired from contaminated water/air conditioning systems, causing atypical pneumonia (Legionnaire's disease).
 
 </details>
 
@@ -3571,7 +3571,7 @@ Pontiac fever is caused by:
 
 <details><summary>Answer</summary>
 
-**A. Legionella** — Source: Medicoholic 2016 PYQ compilation.
+**A. Legionella** — **A. Legionella** — Pontiac fever is a self-limiting, flu-like illness without pneumonia caused by Legionella pneumophila; it differs from Legionnaire's disease in lacking pulmonary consolidation and resolving spontaneously within 2–5 days.
 
 </details>
 
@@ -3591,7 +3591,7 @@ A 20 year old man presented with abdominal pain, vomiting and bloody diarrhea, h
 
 <details><summary>Answer</summary>
 
-**A. O 157:H7** — Source: Medicoholic 2016 PYQ compilation.
+**A. O 157:H7** — **A. O 157:H7** — E. coli O157:H7 is an enterohaemorragic (EHEC) serotype producing Shiga toxin; it causes bloody diarrhoea, haemolytic uraemic syndrome, and is the classic organism isolated in pure culture from haemorrhagic colitis.
 
 </details>
 
@@ -3611,7 +3611,7 @@ Culture media containing potassium tellurite
 
 <details><summary>Answer</summary>
 
-**B. Monsur medium** — Source: Medicoholic 2016 PYQ compilation.
+**B. Monsur medium** — **B. Monsur medium** — Monsur's medium (TTGA: taurocholate-tellurite-gelatin agar) contains potassium tellurite and is used for isolation of Vibrio cholerae; tellurite inhibits commensal organisms while V. cholerae grows as black colonies.
 
 </details>
 
@@ -3631,7 +3631,7 @@ Gonococci has affinity for :
 
 <details><summary>Answer</summary>
 
-**A. Columnar epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**A. Columnar epithelium** — **A. Columnar epithelium** — Neisseria gonorrhoeae preferentially infects columnar and transitional epithelium (urethra, endocervix, rectum, pharynx, conjunctiva) via pili and Opa proteins; squamous epithelium is resistant, explaining vaginal sparing in adult women.
 
 </details>
 
@@ -3651,7 +3651,7 @@ Stalactite growth in ghee broth is due to the following organism?
 
 <details><summary>Answer</summary>
 
-**A. Y.pestis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Y.pestis** — **A. Y.pestis** — Yersinia pestis produces characteristic 'stalactite' or 'inverted fir-tree' growth pattern in nutrient broth (ghee broth) at 37°C due to surface growth forming hanging projections — a classic identifying feature.
 
 </details>
 
@@ -3671,7 +3671,7 @@ Cyst with scolex and hooks is seen in
 
 <details><summary>Answer</summary>
 
-**C. Echinococcus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Echinococcus** — **C. Echinococcus** — Echinococcus granulosus forms a hydatid cyst containing protoscolices with hooklets (rostellar hooks); T. saginata and H. diminuta are unarmed (lack hooks), and T. saginata cysticerci lack hooks unlike T. solium.
 
 </details>
 

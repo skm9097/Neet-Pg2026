@@ -3523,7 +3523,7 @@ Granuloma inguinale is caused by:
 
 <details><summary>Answer</summary>
 
-**D. Calymmatobacterium** — Source: Medicoholic 2015 PYQ compilation.
+**D. Calymmatobacterium** — **D. Calymmatobacterium** — Granuloma inguinale (donovanosis) is caused by Klebsiella granulomatis (formerly Calymmatobacterium granulomatis); diagnosed by Donovan bodies (bipolar-staining intracellular rods) in tissue smear; treated with azithromycin.
 
 </details>
 
@@ -3541,7 +3541,7 @@ Sixth cranial nerve palsy causes of left eye causes?
 
 <details><summary>Answer</summary>
 
-**D. Diplopia in left gaze** — Source: Medicoholic 2015 PYQ compilation.
+**D. Diplopia in left gaze** — **D. Diplopia in left gaze** — CN VI (abducens) palsy paralyses the lateral rectus; the eye cannot abduct, causing uncrossed (homonymous) diplopia maximal in the direction of the paralysed muscle — left CN VI palsy causes diplopia on leftward gaze.
 
 </details>
 
@@ -3559,7 +3559,7 @@ Which of the following is the common cause of respiratory failure type 2 ?
 
 <details><summary>Answer</summary>
 
-**A. Chronic bronchitis exacerbation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Chronic bronchitis exacerbation** — **A. Chronic bronchitis exacerbation** — Type 2 (hypercapnic) respiratory failure involves elevated PaCO2 due to alveolar hypoventilation; COPD/chronic bronchitis with exacerbation is the classic cause, as opposed to Type 1 (hypoxaemic) seen in ARDS and pneumonia.
 
 </details>
 
@@ -3577,7 +3577,7 @@ Gastric carcinoma is associated with all EXCEPT ?
 
 <details><summary>Answer</summary>
 
-**D. Activation of RAS** — Source: Medicoholic 2015 PYQ compilation.
+**D. Activation of RAS** — **D. Activation of RAS** — Gastric carcinoma is associated with p53 inactivation, c-erb B2 overexpression, and c-met overexpression; RAS activation is associated with colorectal, pancreatic, and lung cancers, not typically gastric adenocarcinoma.
 
 </details>
 
@@ -3595,7 +3595,7 @@ Heller's myotomy is done for: September 2007, 2009, 2010
 
 <details><summary>Answer</summary>
 
-**C. Achalasia cardia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Achalasia cardia** — **C. Achalasia cardia** — Heller's cardiomyotomy involves dividing the lower oesophageal sphincter muscle fibres to relieve functional obstruction in achalasia cardia, where absent Auerbach's plexus ganglia cause failure of LOS relaxation.
 
 </details>
 
@@ -3613,7 +3613,7 @@ A patient (age not captured in source) who is a year old male is diagnosed with 
 
 <details><summary>Answer</summary>
 
-**D. Inguinal** — Source: Medicoholic 2015 PYQ compilation.
+**D. Inguinal** — **D. Inguinal** — Carcinoma of the penis drains primarily to superficial inguinal lymph nodes (first echelon), then deep inguinal, then external iliac nodes; sentinel node biopsy of inguinal nodes is standard for nodal staging.
 
 </details>
 
@@ -3631,7 +3631,7 @@ A patient (age not captured in source) who is a year old male presenting with pe
 
 <details><summary>Answer</summary>
 
-**A. Partial Penectomy with 2 cm margin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Partial Penectomy with 2 cm margin** — **A. Partial Penectomy with 2 cm margin** — Penile carcinoma limited to the glans is treated with partial penectomy with a 2 cm clear surgical margin; total penectomy is reserved for proximal shaft involvement where a 2 cm margin cannot be achieved.
 
 </details>
 
@@ -3649,7 +3649,7 @@ Most common site for bone marrow aspiration in neonates is -
 
 <details><summary>Answer</summary>
 
-**D. Anteromedial tibia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Anteromedial tibia** — **D. Anteromedial tibia** — In neonates and infants, the anteromedial surface of the proximal tibia is the preferred site for bone marrow aspiration/intraosseous access due to its flat, easily palpable surface and thin overlying cortex.
 
 </details>
 
@@ -3667,7 +3667,7 @@ Puff of smoke appearance on cerebral angiography is seen in:
 
 <details><summary>Answer</summary>
 
-**C. Moyamoya disease** — Source: Medicoholic 2015 PYQ compilation.
+**C. Moyamoya disease** — **C. Moyamoya disease** — Moyamoya disease shows bilateral progressive stenosis/occlusion of the terminal internal carotid arteries with extensive collateral network giving a 'puff of smoke' (moyamoya in Japanese) appearance on cerebral angiography.
 
 </details>
 
@@ -3685,7 +3685,7 @@ K nail can be used for all of the following fractures excePt -
 
 <details><summary>Answer</summary>
 
-**B. Intertrochanteric fractures** — Source: Medicoholic 2015 PYQ compilation.
+**B. Intertrochanteric fractures** — **B. Intertrochanteric fractures** — Küntscher (K) nail is an intramedullary nail for diaphyseal femur fractures (isthmic, subtrochanteric, distal shaft); intertrochanteric fractures require a sliding hip screw or cephalomedullary nail (e.g., PFN), not a standard K nail.
 
 </details>
 
@@ -3703,7 +3703,7 @@ Bone transport can be used in the management of -
 
 <details><summary>Answer</summary>
 
-**A. Gap non union** — Source: Medicoholic 2015 PYQ compilation.
+**A. Gap non union** — **A. Gap non union** — Bone transport (Ilizarov technique) uses distraction osteogenesis to gradually move a bone segment across a defect, filling gaps from non-union or after debridement of infected/comminuted bone, generating new bone in the regenerate zone.
 
 </details>
 
@@ -3721,7 +3721,7 @@ Aeroplane splint is used in ?
 
 <details><summary>Answer</summary>
 
-**C. Brachial plexus injury** — Source: Medicoholic 2015 PYQ compilation.
+**C. Brachial plexus injury** — **C. Brachial plexus injury** — Aeroplane (shoulder abduction) splint maintains the arm at 90° abduction and slight forward flexion to prevent shoulder contracture and protect repaired nerves during healing in brachial plexus injuries, especially upper trunk (Erb's palsy).
 
 </details>
 
@@ -3739,7 +3739,7 @@ Salter Harris classification is used for -
 
 <details><summary>Answer</summary>
 
-**C. Physeal injuries** — Source: Medicoholic 2015 PYQ compilation.
+**C. Physeal injuries** — **C. Physeal injuries** — Salter-Harris classification (Types I–V) categorises fractures involving the growth plate (physis) in children; higher grades indicate greater physeal involvement and higher risk of growth disturbance and premature physeal closure.
 
 </details>
 
@@ -3757,7 +3757,7 @@ Which of the following casts/splints is used for fracture shaft humerus ?
 
 <details><summary>Answer</summary>
 
-**A. Hanging casts** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hanging casts** — **A. Hanging casts** — A hanging arm cast uses gravity traction (the weight of the cast) to reduce and maintain alignment of humeral shaft fractures in ambulant patients; it is applied below the elbow with the patient upright or semi-recumbent.
 
 </details>
 
@@ -3775,7 +3775,7 @@ Lift off test is done to assess the function of:
 
 <details><summary>Answer</summary>
 
-**D. Subscapularis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Subscapularis** — **D. Subscapularis** — The lift-off test (Gerber's test): patient places dorsum of hand on lower back then lifts it off against resistance; inability to do so indicates subscapularis tear, as subscapularis is the primary internal rotator of the shoulder.
 
 </details>
 
@@ -3793,7 +3793,7 @@ All are true about menisci of knee joint except
 
 <details><summary>Answer</summary>
 
-**C. Lateral meniscus is more prone to injury** — Source: Medicoholic 2015 PYQ compilation.
+**C. Lateral meniscus is more prone to injury** — **C. Lateral meniscus is more prone to injury** — Medial meniscus is more prone to injury because it is firmly attached to the medial collateral ligament and joint capsule, limiting its mobility; lateral meniscus is more mobile and thus less frequently torn.
 
 </details>
 
@@ -3811,7 +3811,7 @@ Three point bony relationship of the elbow is disturbed in -
 
 <details><summary>Answer</summary>
 
-**B. Fracture lateral condyle of the humerus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Fracture lateral condyle of the humerus** — **B. Fracture lateral condyle of the humerus** — The triangle of Hueter (medial epicondyle, lateral epicondyle, olecranon) is disturbed only when the epicondyles are displaced; lateral condyle fracture displaces one point of this triangle, unlike supracondylar fractures where the triangle is preserved.
 
 </details>
 
@@ -3829,7 +3829,7 @@ Cubitus Valgus Deformity is commonly seen in which of the following conditions -
 
 <details><summary>Answer</summary>
 
-**A. Malunited Lateral Condylar fracture of Humerus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Malunited Lateral Condylar fracture of Humerus** — **A. Malunited Lateral Condylar fracture of Humerus** — Non-union or malunion of lateral condyle fractures in children leads to progressive cubitus valgus deformity, causing late tardy ulnar nerve palsy due to chronic traction on the nerve at the medial elbow.
 
 </details>
 
@@ -3847,7 +3847,7 @@ AVN following transcervical neck femur fractures occurs due to damage to which o
 
 <details><summary>Answer</summary>
 
-**A. Lateral retinacular branch of lateral circumflex femoral artery** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lateral retinacular branch of lateral circumflex femoral artery** — **A. Lateral retinacular branch of lateral circumflex femoral artery** — Wait — the dominant blood supply to the femoral head travels via retinacular vessels from the medial circumflex femoral artery (lateral retinacular branches); this is the vessel primarily damaged in transcervical fractures causing AVN.
 
 </details>
 
@@ -3865,7 +3865,7 @@ Lockingoftheknee involves -
 
 <details><summary>Answer</summary>
 
-**D. Internal rotation of femur with foot on the ground** — Source: Medicoholic 2015 PYQ compilation.
+**D. Internal rotation of femur with foot on the ground** — **D. Internal rotation of femur with foot on the ground** — Locking (full extension) of the knee occurs as the femur internally rotates on the fixed tibia in the closed kinetic chain (foot on ground), tightening cruciate and collateral ligaments to create a rigid locked joint.
 
 </details>
 
@@ -3883,7 +3883,7 @@ Foot drop occurs due to the involvement of: September 2006, March 2013 (b, f g, 
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Foot drop results from inability to dorsiflex the ankle; causes include common peroneal nerve palsy (most common), sciatic nerve injury, direct injury to dorsiflexors (tibialis anterior), or L4–L5 nerve root compression.
 
 </details>
 
@@ -3901,7 +3901,7 @@ Fracture neck of femur in 80 year old male sustained 1 weekback The treatment of
 
 <details><summary>Answer</summary>
 
-**A. Hemiarthroplasty** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hemiarthroplasty** — **A. Hemiarthroplasty** — In elderly patients (>70 years) with displaced intracapsular neck of femur fracture, hemiarthroplasty (replacing femoral head only) is preferred over internal fixation due to high AVN risk and poor bone quality precluding reliable screw fixation.
 
 </details>
 
@@ -3919,7 +3919,7 @@ Which of the following fractures of the neck of femur are associated with maxima
 
 <details><summary>Answer</summary>
 
-**D. Sub Capital fractures** — Source: Medicoholic 2015 PYQ compilation.
+**D. Sub Capital fractures** — **D. Sub Capital fractures** — Subcapital fractures occur immediately below the femoral head, disrupting the retinacular vessels (medial circumflex femoral artery branches) at their entry point, causing maximal compromise of blood supply and highest AVN risk.
 
 </details>
 
@@ -3937,7 +3937,7 @@ AVN is seen in which type of # of femur:
 
 <details><summary>Answer</summary>
 
-**D. B AND C** — Source: Medicoholic 2015 PYQ compilation.
+**D. B AND C** — **D. B AND C** — AVN of the femoral head follows both subcapital and transcervical (intracapsular) fractures, as both disrupt the retinacular blood supply from medial circumflex femoral artery; intertrochanteric fractures are extracapsular and AVN risk is much lower.
 
 </details>
 
@@ -3955,7 +3955,7 @@ Tinels sign is seen in -
 
 <details><summary>Answer</summary>
 
-**D. Carpal tunnel syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**D. Carpal tunnel syndrome** — **D. Carpal tunnel syndrome** — Tinel's sign is elicited by tapping over the carpal tunnel at the wrist, producing tingling/paraesthesia in the median nerve distribution (lateral 3.5 fingers); positive in median nerve compression (carpal tunnel syndrome).
 
 </details>
 
@@ -3973,7 +3973,7 @@ Which of the following is used as a substitute for wrist extensors in radial ner
 
 <details><summary>Answer</summary>
 
-**A. Pronator Teres** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pronator Teres** — **A. Pronator Teres** — In radial nerve palsy causing wrist drop, pronator teres (median nerve, C6) is transferred to extensor carpi radialis brevis as a tendon transfer to restore wrist extension, while preserving elbow and forearm function.
 
 </details>
 
@@ -3991,7 +3991,7 @@ A patient (age not captured in source) who is a year old carpenter with a blunt 
 
 <details><summary>Answer</summary>
 
-**C. Patient has injured the radial nerve in the spird groove** — Source: Medicoholic 2015 PYQ compilation.
+**C. Patient has injured the radial nerve in the spird groove** — **C. Patient has injured the radial nerve in the spiral groove** — Wrist drop with loss of finger extension but preserved elbow extension (triceps spared) indicates radial nerve injury at the spiral groove of the humerus, below the branch to triceps.
 
 </details>
 
@@ -4009,7 +4009,7 @@ Wrist drop is due to injury to ?
 
 <details><summary>Answer</summary>
 
-**A. Radial nerve** — Source: Medicoholic 2015 PYQ compilation.
+**A. Radial nerve** — **A. Radial nerve** — Wrist drop (inability to extend wrist) results from radial nerve injury (C6–C8), most commonly at the spiral groove of the humerus (e.g., midshaft humeral fracture or 'Saturday night palsy'); all wrist and finger extensors are paralysed.
 
 </details>
 
@@ -4027,7 +4027,7 @@ Blount's disease is associated with all of the following, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**D. External Tibial Torsion** — Source: Medicoholic 2015 PYQ compilation.
+**D. External Tibial Torsion** — **D. External Tibial Torsion** — Blount's disease (tibia vara) is characterised by genu varum (bow legs), internal tibial torsion, and medial tibial metaphyseal beaking due to disturbed growth at the posteromedial proximal tibial physis; external torsion does NOT occur.
 
 </details>
 
@@ -4045,7 +4045,7 @@ All of the following are true regarding Pagets Disease except -
 
 <details><summary>Answer</summary>
 
-**D. It may progress to a secondary chondrosarcoma** — Source: Medicoholic 2015 PYQ compilation.
+**D. It may progress to a secondary chondrosarcoma** — **D. It may progress to a secondary chondrosarcoma** — Paget's disease of bone undergoes sarcomatous transformation to osteosarcoma (most common, ~1%), fibrosarcoma, or rarely malignant fibrous histiocytoma; chondrosarcoma transformation does NOT occur in Paget's disease.
 
 </details>
 
@@ -5939,7 +5939,7 @@ Korner's septum is seen in:
 
 <details><summary>Answer</summary>
 
-**A. Petrosquamous suture** — Körner's septum is a bony plate at the petrosquamous suture in the mastoid; can mislead surgeons to think they're in the mastoid antrum when still lateral to the plate.
+**A. Petrosquamous suture** — **A. Petrosquamous suture** — Körner's septum is a bony plate at the petrosquamous suture line within the mastoid; it can mislead surgeons into thinking mastoidectomy is complete while disease persists in the deeper petrous portion; a surgical pitfall.
 
 </details>
 
@@ -7424,7 +7424,7 @@ Which muscle protects the brachial plexus in case of clavicle fractures?
 
 <details><summary>Answer</summary>
 
-**A. Subclavius** — Source: Medicoholic 2016 PYQ compilation.
+**A. Subclavius** — **A. Subclavius** — Subclavius muscle lies between the clavicle and first rib; it cushions the brachial plexus and subclavian vessels from injury during mid-shaft clavicle fractures.
 
 </details>
 
@@ -7444,7 +7444,7 @@ Which of the following is true about deep palmar arch?
 
 <details><summary>Answer</summary>
 
-**A. Mainly formed by the radial artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Mainly formed by the radial artery** — **A. Mainly formed by the radial artery** — The deep palmar arch is predominantly formed by the radial artery (enters palm via anatomical snuffbox) with a small contribution from the deep branch of the ulnar artery.
 
 </details>
 
@@ -7464,7 +7464,7 @@ Which part of scapula can be palpated in the infraclavicular fossa?
 
 <details><summary>Answer</summary>
 
-**A. Coracoid process** — Source: Medicoholic 2016 PYQ compilation.
+**A. Coracoid process** — **A. Coracoid process** — The coracoid process projects anterolaterally from the scapular neck and is palpable in the infraclavicular fossa, 1 inch below the clavicle at the deltopectoral groove.
 
 </details>
 
@@ -7484,7 +7484,7 @@ Flexor carpi radialis inserts into ?
 
 <details><summary>Answer</summary>
 
-**B. Base of 2nd and 3rd metacarpal** — Source: Medicoholic 2016 PYQ compilation.
+**B. Base of 2nd and 3rd metacarpal** — **B. Base of 2nd and 3rd metacarpal** — Flexor carpi radialis inserts primarily into the base of the 2nd metacarpal (and a slip to 3rd); it flexes and abducts the wrist, innervated by the median nerve.
 
 </details>
 
@@ -7504,7 +7504,7 @@ What is true about lateral tibial condyle ?
 
 <details><summary>Answer</summary>
 
-**A. Iliotibial tract is attached to the lateral condyle of tibia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Iliotibial tract is attached to the lateral condyle of tibia** — **A. Iliotibial tract is attached to the lateral condyle of tibia** — The iliotibial tract inserts on Gerdy's tubercle on the lateral tibial condyle; injury causes IT band syndrome in runners.
 
 </details>
 
@@ -7524,7 +7524,7 @@ Weakness of extensor Hallucis longus is due to which nerve root mainly?
 
 <details><summary>Answer</summary>
 
-**A. L5** — Source: Medicoholic 2016 PYQ compilation.
+**A. L5** — **A. L5** — Extensor hallucis longus is primarily innervated by the deep peroneal nerve (L4-L5); L5 root compression (e.g., disc prolapse at L4-L5) causes weakness of great toe extension.
 
 </details>
 
@@ -7544,7 +7544,7 @@ Which tendon is lodged in the groove on posterior surface of lateral malleolus?
 
 <details><summary>Answer</summary>
 
-**A. Peroneus longus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Peroneus longus** — **A. Peroneus longus** — The peroneus longus tendon (along with peroneus brevis) runs in the groove posterior to the lateral malleolus, held by the superior peroneal retinaculum.
 
 </details>
 
@@ -7564,7 +7564,7 @@ All of the following are true about tibialis anterior except ?
 
 <details><summary>Answer</summary>
 
-**A. It is supplied by the superficial peroneal nerve** — Source: Medicoholic 2016 PYQ compilation.
+**A. It is supplied by the superficial peroneal nerve** — **A. It is supplied by the superficial peroneal nerve** — Tibialis anterior is supplied by the deep peroneal nerve (not superficial); the superficial peroneal nerve supplies peroneus longus and brevis.
 
 </details>
 
@@ -7584,7 +7584,7 @@ Structures passing through sacral hiatus are ?
 
 <details><summary>Answer</summary>
 
-**D. S5 nerve root** — Source: Medicoholic 2016 PYQ compilation.
+**D. S5 nerve root** — **D. S5 nerve root** — The sacral hiatus (failed fusion of S4-S5 laminae) transmits the S5 nerve roots, coccygeal nerve, and filum terminale; used for caudal epidural anaesthesia.
 
 </details>
 
@@ -7604,7 +7604,7 @@ Lateral border of the foot receives its sensory supply from ?
 
 <details><summary>Answer</summary>
 
-**B. Sural nerve** — Source: Medicoholic 2016 PYQ compilation.
+**B. Sural nerve** — **B. Sural nerve** — The sural nerve (S1-S2), formed from branches of the tibial and common peroneal nerves, supplies the lateral border and heel of the foot; its autonomous zone is the lateral foot.
 
 </details>
 
@@ -7624,7 +7624,7 @@ All of the following is included in chest wall except?
 
 <details><summary>Answer</summary>
 
-**D. Lumbar vertebrae** — Source: Medicoholic 2016 PYQ compilation.
+**D. Lumbar vertebrae** — **D. Lumbar vertebrae** — The thoracic cage consists of 12 thoracic vertebrae, 12 pairs of ribs, and the sternum; lumbar vertebrae belong to the abdominal region, not the chest wall.
 
 </details>
 
@@ -7644,7 +7644,7 @@ Respiratory bronchioles are formed from ?
 
 <details><summary>Answer</summary>
 
-**B. Terminal bronchioles** — Source: Medicoholic 2016 PYQ compilation.
+**B. Terminal bronchioles** — **B. Terminal bronchioles** — Terminal bronchioles (non-respiratory) give rise to respiratory bronchioles, which are the first airways with alveoli in their walls marking the beginning of the respiratory zone.
 
 </details>
 
@@ -7664,7 +7664,7 @@ The cricopharyngeal sphincter is how far from the central incisor?
 
 <details><summary>Answer</summary>
 
-**A. 15cm** — Source: Medicoholic 2016 PYQ compilation.
+**A. 15cm** — **A. 15cm** — The cricopharyngeal sphincter (pharyngoesophageal junction, upper oesophageal sphincter) is approximately 15 cm from the central incisor teeth; a key landmark during endoscopy.
 
 </details>
 
@@ -7684,7 +7684,7 @@ Which of the following structures is related to the esophagus 22.5cm from the in
 
 <details><summary>Answer</summary>
 
-**A. Arch of aorta** — Source: Medicoholic 2016 PYQ compilation.
+**A. Arch of aorta** — **A. Arch of aorta** — The arch of aorta crosses the left side of the oesophagus at approximately 22.5 cm from the incisor teeth; this is a classic constriction point of the oesophagus.
 
 </details>
 
@@ -7704,7 +7704,7 @@ Thoracic duct opens into systemic circulation at?
 
 <details><summary>Answer</summary>
 
-**B. Junction of left internal jugular and left subclavian vein** — Source: Medicoholic 2016 PYQ compilation.
+**B. Junction of left internal jugular and left subclavian vein** — **B. Junction of left internal jugular and left subclavian vein** — The thoracic duct drains at the left venous angle (jugulosubclavian junction); injury here causes left chylothorax.
 
 </details>
 
@@ -7724,7 +7724,7 @@ Sympathetic supply of the heart is from ?
 
 <details><summary>Answer</summary>
 
-**B. Thoracic sympathetic fibres [T1 to T5]** — Source: Medicoholic 2016 PYQ compilation.
+**B. Thoracic sympathetic fibres [T1 to T5]** — **B. Thoracic sympathetic fibres [T1 to T5]** — Cardiac sympathetic innervation originates from T1-T5 lateral horn neurons; postganglionic fibres pass via cervical and thoracic cardiac nerves to the cardiac plexus.
 
 </details>
 
@@ -7744,7 +7744,7 @@ Which of the following are cusps of the aortic valves?
 
 <details><summary>Answer</summary>
 
-**C. Posterior, Left and Right** — Source: Medicoholic 2016 PYQ compilation.
+**C. Posterior, Left and Right** — **C. Posterior, Left and Right** — The aortic valve has three semilunar cusps: right (anterior), left, and posterior (non-coronary); right and left cusps have the coronary ostia above them.
 
 </details>
 
@@ -7764,7 +7764,7 @@ Which of the following passes posterior to the hilum of the lung?
 
 <details><summary>Answer</summary>
 
-**A. Vagus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vagus** — **A. Vagus** — The vagus nerve passes posterior to the lung hilum on both sides; the phrenic nerve passes anterior to the hilum — a key anatomical distinction for thoracic surgery.
 
 </details>
 
@@ -7784,7 +7784,7 @@ What is the level of the pulmonary valve?
 
 <details><summary>Answer</summary>
 
-**C. 3rd costal cartilage** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3rd costal cartilage** — **C. 3rd costal cartilage** — The pulmonary valve lies at the level of the 3rd left costal cartilage; best auscultated in the 2nd left intercostal space (pulmonary area).
 
 </details>
 
@@ -7804,7 +7804,7 @@ Lower limit of the inferior border of the lung in the midaxillary line is ?
 
 <details><summary>Answer</summary>
 
-**B. 8th rib** — Source: Medicoholic 2016 PYQ compilation.
+**B. 8th rib** — **B. 8th rib** — The inferior lung border crosses the 6th rib at the midclavicular line, 8th rib at the midaxillary line, and 10th rib at the paravertebral line; the pleural reflection is 2 ribs lower.
 
 </details>
 
@@ -7824,7 +7824,7 @@ Which is a typical intercostal nerve?
 
 <details><summary>Answer</summary>
 
-**C. Third** — Source: Medicoholic 2016 PYQ compilation.
+**C. Third** — **C. Third** — Intercostal nerves 3–6 are typical (run only in the intercostal space); the 1st, 2nd, 7th–11th, and 12th (subcostal) are atypical due to communications or unusual courses.
 
 </details>
 
@@ -7844,7 +7844,7 @@ Great cardiac vein lies in ?
 
 <details><summary>Answer</summary>
 
-**B. Anterior interventricular sulcus** — Source: Medicoholic 2016 PYQ compilation.
+**B. Anterior interventricular sulcus** — **B. Anterior interventricular sulcus** — The great cardiac vein ascends in the anterior interventricular groove alongside the left anterior descending artery, then drains into the coronary sinus.
 
 </details>
 
@@ -7864,7 +7864,7 @@ Diaphragm is supplied by ?
 
 <details><summary>Answer</summary>
 
-**A. Phrenic nerve** — Source: Medicoholic 2016 PYQ compilation.
+**A. Phrenic nerve** — **A. Phrenic nerve** — The phrenic nerve (C3, C4, C5 — 'keeps the diaphragm alive') provides both motor and sensory (central) supply; intercostal nerves supply only peripheral sensory fibers.
 
 </details>
 
@@ -7884,7 +7884,7 @@ Midpoint between suprasternal notch and pubic symphyses passes through which pla
 
 <details><summary>Answer</summary>
 
-**A. Transpyloric plane** — Source: Medicoholic 2016 PYQ compilation.
+**A. Transpyloric plane** — **A. Transpyloric plane** — The transpyloric plane (L1) lies at the midpoint between the suprasternal notch and pubic symphysis; it passes through the pylorus, L1 vertebra, and fundus of gallbladder.
 
 </details>
 
@@ -7904,7 +7904,7 @@ Muscle lying between anterior and middle layer of thoracolumbar fascia is ?
 
 <details><summary>Answer</summary>
 
-**B. Quadratus Lumborum** — Source: Medicoholic 2016 PYQ compilation.
+**B. Quadratus Lumborum** — **B. Quadratus Lumborum** — Quadratus lumborum lies between the anterior and middle layers of thoracolumbar fascia; psoas major lies anterior to the anterior layer.
 
 </details>
 
@@ -7924,7 +7924,7 @@ Anterior Rectus Sheath just above pubic symphysis is formed by ?
 
 <details><summary>Answer</summary>
 
-**B. The aponeurosis of three muscles including External Oblique,** — Source: Medicoholic 2016 PYQ compilation.
+**B. The aponeurosis of three muscles including External Oblique,** — **B. The aponeurosis of three muscles including External Oblique** — Below the arcuate line, all three flat muscle aponeuroses (external oblique, internal oblique, transversus) pass anterior to rectus abdominis, forming the anterior sheath.
 
 </details>
 
@@ -7944,7 +7944,7 @@ Right suprarenal vein drains into ?
 
 <details><summary>Answer</summary>
 
-**A. Inferior vena cava** — Source: Medicoholic 2016 PYQ compilation.
+**A. Inferior vena cava** — **A. Inferior vena cava** — The right suprarenal (adrenal) vein drains directly into the IVC; the left suprarenal vein drains into the left renal vein — an important surgical distinction during adrenalectomy.
 
 </details>
 
@@ -7964,7 +7964,7 @@ Which of the following is not derived from the external oblique aponeurosis?
 
 <details><summary>Answer</summary>
 
-**C. Line Semilunaris** — Source: Medicoholic 2016 PYQ compilation.
+**C. Line Semilunaris** — **C. Line Semilunaris** — Linea semilunaris (Spigelian line) is the lateral edge of the rectus sheath formed by all three flat muscle aponeuroses; the inguinal, lacunar, and pectineal ligaments derive from the external oblique aponeurosis.
 
 </details>
 
@@ -7984,7 +7984,7 @@ Stomach is supplied by ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Stomach receives blood from all branches of the coeliac trunk: left gastric (direct), right gastric and gastroduodenal (hepatic), left and right gastroepiploic, and short gastric (splenic) arteries.
 
 </details>
 
@@ -8004,7 +8004,7 @@ What is the number of layers in greater omentum?
 
 <details><summary>Answer</summary>
 
-**D. 4** — Source: Medicoholic 2016 PYQ compilation.
+**D. 4** — **D. 4** — The greater omentum consists of 4 peritoneal layers (two folds of peritoneum, each a double layer); it descends from the greater curvature of the stomach and reflects back to the transverse colon.
 
 </details>
 

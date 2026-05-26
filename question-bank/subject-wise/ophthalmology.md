@@ -1569,7 +1569,7 @@ Latanoprost used topically in glaucoma primarily acts by?
 
 <details><summary>Answer</summary>
 
-**B. Increasing uveoscleral outflow** — Source: Medicoholic 2015 PYQ compilation.
+**B. Increasing uveoscleral outflow** — **B. Increasing uveoscleral outflow** — Latanoprost is a prostaglandin F2α analogue; it primarily increases aqueous humor drainage via the uveoscleral (unconventional) pathway, reducing intraocular pressure by ~25–30%.
 
 </details>
 
@@ -1587,7 +1587,7 @@ What is the cause of glaucoma in retinoblastoma?
 
 <details><summary>Answer</summary>
 
-**B. Neovascularisation** — Source: Medicoholic 2015 PYQ compilation.
+**B. Neovascularisation** — **B. Neovascularisation** — In retinoblastoma, tumour-induced ischaemia drives retinal neovascularization (rubeosis iridis); new vessels in the angle obstruct aqueous outflow, causing neovascular (100-day) glaucoma.
 
 </details>
 
@@ -1605,7 +1605,7 @@ What is true about retinal hemorrhage in new born?
 
 <details><summary>Answer</summary>
 
-**A. More common in instrumented deliveries** — Source: Medicoholic 2015 PYQ compilation.
+**A. More common in instrumented deliveries** — **A. More common in instrumented deliveries** — Forceps and vacuum-assisted deliveries increase intracranial venous pressure and shearing forces on retinal vessels, making retinal haemorrhages significantly more frequent than in spontaneous vaginal births.
 
 </details>
 
@@ -1623,7 +1623,7 @@ All are true regarding optic neuritis except:
 
 <details><summary>Answer</summary>
 
-**C. Abnormal electroretinogram** — Source: Medicoholic 2015 PYQ compilation.
+**C. Abnormal electroretinogram** — **C. Abnormal electroretinogram** — Optic neuritis affects the optic nerve (retinal ganglion cell axons); the retina itself is intact, so ERG (which tests photoreceptor/bipolar function) remains normal; VEP is delayed.
 
 </details>
 
@@ -1641,7 +1641,7 @@ Macular sparing is associated with lesions in:
 
 <details><summary>Answer</summary>
 
-**C. Occipital cortex** — Source: Medicoholic 2015 PYQ compilation.
+**C. Occipital cortex** — **C. Occipital cortex** — The macula has dual blood supply (middle and posterior cerebral arteries) and a large cortical representation; occipital lobe infarcts spare macular fibres, producing homonymous hemianopia with macular sparing.
 
 </details>
 
@@ -1659,7 +1659,7 @@ Pupillary reflex pathway- All of the following are a part except ?
 
 <details><summary>Answer</summary>
 
-**C. Medial geniculate body** — Source: Medicoholic 2015 PYQ compilation.
+**C. Medial geniculate body** — **C. Medial geniculate body** — The pupillary light reflex arc runs: retinal ganglion cells → pretectal nucleus → bilateral Edinger-Westphal nuclei → ciliary ganglion. The medial geniculate body handles auditory relay, not pupillary reflex.
 
 </details>
 
@@ -1677,7 +1677,7 @@ Best method of detection of retained glass intraocular foreign body is:
 
 <details><summary>Answer</summary>
 
-**A. CT scan** — Source: Medicoholic 2015 PYQ compilation.
+**A. CT scan** — **A. CT scan** — Glass is radiolucent on plain X-ray and may be missed on ultrasound; CT detects glass fragments reliably due to its high density resolution, making it the investigation of choice for non-metallic intraocular foreign bodies.
 
 </details>
 
@@ -1695,7 +1695,7 @@ All of the following are complications of traumatic hyphema except?
 
 <details><summary>Answer</summary>
 
-**C. Corneal Ulcer** — Source: Medicoholic 2015 PYQ compilation.
+**C. Corneal Ulcer** — **C. Corneal Ulcer** — Traumatic hyphema complications include rebleeding (within 5 days), raised IOP causing pupillary block, corneal blood staining, and posterior synechiae; corneal ulceration is not a recognised complication.
 
 </details>
 
@@ -1713,7 +1713,7 @@ Pilocarpine is used in all of the following except:
 
 <details><summary>Answer</summary>
 
-**B. Malignant Glaucoma** — Source: Medicoholic 2015 PYQ compilation.
+**B. Malignant Glaucoma** — **B. Malignant Glaucoma** — Pilocarpine is contraindicated in malignant (ciliary block) glaucoma; its miotic action increases pupillary block and worsens aqueous misdirection, raising IOP further. It is used in open-angle and acute angle-closure glaucoma.
 
 </details>
 
@@ -1731,7 +1731,7 @@ Which of the following statements about atrial myxomas is true
 
 <details><summary>Answer</summary>
 
-**A. Most common in Left Atrium** — Source: Medicoholic 2015 PYQ compilation.
+**A. Most common in Left Atrium** — **A. Most common in Left Atrium** — Atrial myxomas arise from fossa ovalis region; ~75% occur in the left atrium, presenting with mitral valve obstruction symptoms, systemic emboli, and constitutional features.
 
 </details>
 
@@ -1749,7 +1749,7 @@ Duroziez's sign is seen in
 
 <details><summary>Answer</summary>
 
-**A. Aortic Regurgitation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Aortic Regurgitation** — **A. Aortic Regurgitation** — Duroziez's sign is a to-and-fro femoral bruit elicited by partial compression of the femoral artery; it reflects the wide pulse pressure and hyperdynamic circulation of significant aortic regurgitation.
 
 </details>
 
@@ -1767,7 +1767,7 @@ Becks triad is seen in
 
 <details><summary>Answer</summary>
 
-**C. Cardiac tamponade** — Source: Medicoholic 2015 PYQ compilation.
+**C. Cardiac tamponade** — **C. Cardiac tamponade** — Beck's triad comprises hypotension, raised JVP (muffled heart sounds in older descriptions), and muffled heart sounds; pericardial fluid compresses the heart, reducing cardiac output and venous return.
 
 </details>
 
@@ -1785,7 +1785,7 @@ The severity of mitral stenosis can be judged by-
 
 <details><summary>Answer</summary>
 
-**B. Duration of murmur** — Source: Medicoholic 2015 PYQ compilation.
+**B. Duration of murmur** — **B. Duration of murmur** — In mitral stenosis, longer duration of the mid-diastolic murmur (and shorter A2-OS interval) reflects greater severity; murmur intensity is unreliable due to low cardiac output states.
 
 </details>
 
@@ -1803,7 +1803,7 @@ Wide pulse pressure is seen in all except:
 
 <details><summary>Answer</summary>
 
-**B. Aortic stenosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Aortic stenosis** — **B. Aortic stenosis** — Aortic stenosis causes a narrow pulse pressure due to reduced stroke volume and reduced systolic pressure; PDA, aortic regurgitation, and AV malformations all increase pulse pressure via run-off or high stroke volume.
 
 </details>
 
@@ -1821,7 +1821,7 @@ All are true for transplanted kidney except
 
 <details><summary>Answer</summary>
 
-**D. HLA identity similarity seen in 1:100 people** — Source: Medicoholic 2015 PYQ compilation.
+**D. HLA identity similarity seen in 1:100 people** — **D. HLA identity similarity seen in 1:100 people** — Complete HLA matching occurs in approximately 1 in 100,000 unrelated individuals, not 1 in 100; both humoral (hyperacute) and cell-mediated (acute) rejection pathways are real.
 
 </details>
 
@@ -1839,7 +1839,7 @@ All are seen in Nephrotic syndrome except
 
 <details><summary>Answer</summary>
 
-**C. Increased protein C levels** — Source: Medicoholic 2015 PYQ compilation.
+**C. Increased protein C levels** — **C. Increased protein C levels** — Nephrotic syndrome causes urinary loss of anticoagulant proteins (protein C, protein S, antithrombin III), resulting in decreased protein C levels and a prothrombotic state, not increased levels.
 
 </details>
 
@@ -1857,7 +1857,7 @@ All of the following causes acute renal failure except
 
 <details><summary>Answer</summary>
 
-**D. Analgesic nephropathy** — Source: Medicoholic 2015 PYQ compilation.
+**D. Analgesic nephropathy** — **D. Analgesic nephropathy** — Analgesic nephropathy causes chronic interstitial nephritis and chronic renal failure from long-term NSAID/phenacetin use; it does not typically cause acute renal failure.
 
 </details>
 
@@ -1875,7 +1875,7 @@ Features of Hepatorenal syndrome are
 
 <details><summary>Answer</summary>
 
-**D. a and b** — Source: Medicoholic 2015 PYQ compilation.
+**D. a and b** — **D. a and b** — Hepatorenal syndrome features urine sodium <10 mEq/L (avid sodium retention) and structurally normal kidneys (normal histology); importantly, renal function recovers if liver function is restored, unlike intrinsic renal disease.
 
 </details>
 
@@ -1893,7 +1893,7 @@ Dialysis indications
 
 <details><summary>Answer</summary>
 
-**C. Pericarditis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Pericarditis** — **C. Pericarditis** — Uremic pericarditis is an absolute indication for dialysis; others include refractory hyperkalemia, pulmonary oedema, metabolic acidosis, and uremic encephalopathy. Hypokalemia and metabolic alkalosis are not dialysis indications.
 
 </details>
 
@@ -1911,7 +1911,7 @@ Which of the following microorganism is incriminated in infection after hemodial
 
 <details><summary>Answer</summary>
 
-**B. Gram positive organisms** — Source: Medicoholic 2015 PYQ compilation.
+**B. Gram positive organisms** — **B. Gram positive organisms** — Staphylococcus aureus and coagulase-negative staphylococci (gram-positive) are the leading causes of catheter-related bloodstream infections in haemodialysis patients, often from skin flora.
 
 </details>
 
@@ -1929,7 +1929,7 @@ Significant weight loss is defined as:
 
 <details><summary>Answer</summary>
 
-**A. 5% weight loss in 1-2 months** — Source: Medicoholic 2015 PYQ compilation.
+**A. 5% weight loss in 1-2 months** — **A. 5% weight loss in 1-2 months** — Clinically significant involuntary weight loss is defined as ≥5% of body weight over 1–2 months or ≥10% over 6 months; this threshold triggers evaluation for malignancy or chronic disease.
 
 </details>
 
@@ -1947,7 +1947,7 @@ Which is not true about alcoholic hepatitis :
 
 <details><summary>Answer</summary>
 
-**B. SGPT is raised > SGOT** — Source: Medicoholic 2015 PYQ compilation.
+**B. SGPT is raised > SGOT** — **B. SGPT is raised > SGOT** — Alcoholic hepatitis characteristically shows SGOT:SGPT ratio >2:1 (often >3:1), because alcohol preferentially depletes pyridoxal phosphate needed for ALT synthesis and causes mitochondrial injury elevating AST.
 
 </details>
 
@@ -1965,7 +1965,7 @@ Which of the following is not true regarding amoebic liver abscess
 
 <details><summary>Answer</summary>
 
-**A. Multiple abscesses is more common** — Source: Medicoholic 2015 PYQ compilation.
+**A. Multiple abscesses is more common** — **A. Multiple abscesses is more common** — Amoebic liver abscess is typically a single abscess in the right lobe; multiple abscesses are more characteristic of pyogenic (bacterial) liver abscess, not amoebic.
 
 </details>
 
@@ -1983,7 +1983,7 @@ Which of the following is not expected in a case of Microcytic Hypochromic anemi
 
 <details><summary>Answer</summary>
 
-**B. Reduced total RBC distribution width** — Source: Medicoholic 2015 PYQ compilation.
+**B. Reduced total RBC distribution width** — **B. Reduced total RBC distribution width** — Iron deficiency anaemia causes increased RDW (anisocytosis) due to variable microcytic cells; reduced serum iron, raised TIBC, and normal-to-low ferritin are expected findings.
 
 </details>
 
@@ -2001,7 +2001,7 @@ Zieve syndrome is characterized by all except
 
 <details><summary>Answer</summary>
 
-**D. Pancreatic lipase deficiency** — Source: Medicoholic 2015 PYQ compilation.
+**D. Pancreatic lipase deficiency** — **D. Pancreatic lipase deficiency** — Zieve syndrome is a triad of alcoholic fatty liver, haemolytic anaemia, and hypertriglyceridaemia; pancreatic lipase deficiency is not part of this syndrome.
 
 </details>
 
@@ -2019,7 +2019,7 @@ All of the following are major complications of massive transfusion, except:
 
 <details><summary>Answer</summary>
 
-**A. Hypokalemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypokalemia** — **A. Hypokalemia** — Massive transfusion causes hyperkalemia (stored blood leaks K+), not hypokalemia; other complications include hypothermia (cold blood), hypocalcaemia (citrate chelation), hypomagnesaemia, and dilutional coagulopathy.
 
 </details>
 
@@ -2037,7 +2037,7 @@ The tissue of origin of the Kaposi's sarcoma is ?
 
 <details><summary>Answer</summary>
 
-**B. Vascular** — Source: Medicoholic 2015 PYQ compilation.
+**B. Vascular** — **B. Vascular** — Kaposi's sarcoma originates from vascular endothelial cells (lymphatic endothelium); it is driven by HHV-8 (KSHV) infection, forming spindle cell vascular tumours seen in HIV/AIDS and immunosuppressed patients.
 
 </details>
 
@@ -2055,7 +2055,7 @@ Thrombocythemia is characterized by
 
 <details><summary>Answer</summary>
 
-**A. Platelets elevation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Platelets elevation** — **A. Platelets elevation** — Essential thrombocythaemia is a myeloproliferative neoplasm with platelet count >450,000/μL due to clonal megakaryocyte proliferation; it presents with thrombotic and haemorrhagic complications.
 
 </details>
 
@@ -2073,7 +2073,7 @@ Which of the following is required for proper effects of Insulin?
 
 <details><summary>Answer</summary>
 
-**D. Chromium** — Source: Medicoholic 2015 PYQ compilation.
+**D. Chromium** — **D. Chromium** — Chromium forms part of glucose tolerance factor (GTF) and potentiates insulin receptor signalling; chromium deficiency impairs insulin sensitivity and glucose metabolism.
 
 </details>
 
@@ -2091,7 +2091,7 @@ Glucose fever is related with -
 
 <details><summary>Answer</summary>
 
-**D. Aldosterone** — Source: Medicoholic 2015 PYQ compilation.
+**D. Aldosterone** — **D. Aldosterone** — 'Glucose fever' (also called salt fever or dehydration fever in neonates) relates to aldosterone-mediated water retention and sodium reabsorption imbalance; however this is an older/disputed concept in some curricula.
 
 </details>
 

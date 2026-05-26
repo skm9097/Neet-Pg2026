@@ -5365,7 +5365,7 @@ Which of the following electrolyte abnormalities can be seen after brain injury?
 
 <details><summary>Answer</summary>
 
-**A. Hyponatremia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hyponatremia** — **A. Hyponatremia** — Traumatic brain injury causes SIADH (excess ADH secretion) or cerebral salt wasting, both resulting in hyponatremia; the most common electrolyte disturbance post-TBI.
 
 </details>
 
@@ -5385,7 +5385,7 @@ Features of marasmus are all except :
 
 <details><summary>Answer</summary>
 
-**D. Uncompensated phase of PEM** — Source: Medicoholic 2016 PYQ compilation.
+**D. Uncompensated phase of PEM** — **D. Uncompensated phase of PEM** — Marasmus is the compensated phase of protein-energy malnutrition (preserved cortisol/catabolism); kwashiorkor represents the uncompensated decompensated phase with oedema.
 
 </details>
 
@@ -5405,7 +5405,7 @@ All of the following are features of Rett's syndrome except
 
 <details><summary>Answer</summary>
 
-**D. Focal Convulsions** — Source: Medicoholic 2016 PYQ compilation.
+**D. Focal Convulsions** — **D. Focal Convulsions** — Rett syndrome (MECP2 mutation) causes generalised seizures, not focal convulsions; characteristic features are hand-wringing stereotypies, regression, microcephaly, and autonomic dysfunction including cardiac arrhythmias.
 
 </details>
 
@@ -5425,7 +5425,7 @@ Infantile body proportion in adults is seen in all except-
 
 <details><summary>Answer</summary>
 
-**C. Klinefelter's syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**C. Klinefelter's syndrome** — **C. Klinefelter's syndrome** — Klinefelter's (47,XXY) causes tall stature with eunuchoid proportions (long limbs); achondroplasia, hypothyroidism, and cretinism all produce infantile body proportions.
 
 </details>
 
@@ -5445,7 +5445,7 @@ If chronological age > skeletal age with normal growth velocity, then the final 
 
 <details><summary>Answer</summary>
 
-**A. Normal** — Source: Medicoholic 2016 PYQ compilation.
+**A. Normal** — **A. Normal** — Bone age lagging behind chronological age with normal growth velocity indicates constitutional delay of growth; final height is ultimately normal as more growth years remain.
 
 </details>
 
@@ -5465,7 +5465,7 @@ Which of the following about hormone levels in a malnourished child is true?
 
 <details><summary>Answer</summary>
 
-**C. Increased growth hormone** — Source: Medicoholic 2016 PYQ compilation.
+**C. Increased growth hormone** — **C. Increased growth hormone** — Malnourished children have GH resistance with high GH but low IGF-1; cortisol is elevated (catabolism) and insulin is decreased; paradoxical GH elevation drives fat mobilisation.
 
 </details>
 
@@ -5485,7 +5485,7 @@ A 9 month old child with respiratory rate 53/min and presence of cough is classi
 
 <details><summary>Answer</summary>
 
-**C. Tachypnoea** — Source: Medicoholic 2016 PYQ compilation.
+**C. Tachypnoea** — **C. Tachypnoea** — WHO/IMCI defines tachypnoea in infants 2–11 months as RR ≥50/min; a 9-month-old with RR 53/min and cough meets criteria for fast breathing/tachypnoea indicating pneumonia.
 
 </details>
 
@@ -5505,7 +5505,7 @@ How are chest compressions given in a newborn?
 
 <details><summary>Answer</summary>
 
-**C. Using the two thumbs on the lower third of sternum** — Source: Medicoholic 2016 PYQ compilation.
+**C. Using the two thumbs on the lower third of sternum** — **C. Using the two thumbs on the lower third of sternum** — NRP guidelines recommend two-thumb encircling technique on lower third of sternum in neonates; provides more consistent depth and force than two-finger method.
 
 </details>
 
@@ -5525,7 +5525,7 @@ Grasp reflex develops by -
 
 <details><summary>Answer</summary>
 
-**C. 28 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 28 weeks** — **C. 28 weeks** — Palmar grasp reflex develops at 28 weeks gestation; used as a gestational maturity marker in neonatal assessment; disappears by 3–4 months as cortical control develops.
 
 </details>
 
@@ -5545,7 +5545,7 @@ Asymmetric tonic neck reflex disappears at what age?
 
 <details><summary>Answer</summary>
 
-**C. 6 months** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6 months** — **C. 6 months** — Asymmetric tonic neck reflex (fencing reflex) is present from birth and normally disappears by 6 months; persistence beyond this suggests upper motor neuron pathology.
 
 </details>
 
@@ -5565,7 +5565,7 @@ True about tonic neck reflex is
 
 <details><summary>Answer</summary>
 
-**A. Extension of arm on ipsilateral side, flexion on contralateral side** — Source: Medicoholic 2016 PYQ compilation.
+**A. Extension of arm on ipsilateral side, flexion on contralateral side** — **A. Extension of arm on ipsilateral side, flexion on contralateral side** — ATNR: turning head to one side causes extension of limbs on the face side and flexion on the skull side, resembling a fencing posture.
 
 </details>
 
@@ -5585,7 +5585,7 @@ Withdrawal reflex is an example of which of the following?
 
 <details><summary>Answer</summary>
 
-**B. Polysynaptic reflex** — Source: Medicoholic 2016 PYQ compilation.
+**B. Polysynaptic reflex** — **B. Polysynaptic reflex** — Withdrawal (flexor) reflex involves multiple interneurons across spinal segments; painful stimulus activates flexors ipsilaterally and extensors contralaterally (crossed extensor reflex) via polysynaptic pathways.
 
 </details>
 
@@ -5605,7 +5605,7 @@ False about PDA is
 
 <details><summary>Answer</summary>
 
-**B. Anatomical closure takes 21 hours after birth** — Source: Medicoholic 2016 PYQ compilation.
+**B. Anatomical closure takes 21 hours after birth** — **B. Anatomical closure takes 21 hours after birth** — PDA functional closure occurs within 10–15 hours of birth; anatomical/permanent closure by fibrous obliteration takes 2–3 weeks, not 21 hours.
 
 </details>
 
@@ -5625,7 +5625,7 @@ Which of the following congenital anomalies leads to heart failure at birth?
 
 <details><summary>Answer</summary>
 
-**C. Pulmonary atresia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Pulmonary atresia** — **C. Pulmonary atresia** — Pulmonary atresia with intact ventricular septum causes immediate critical obstruction to right heart outflow; duct-dependent circulation fails at birth when ductus arteriosus closes.
 
 </details>
 
@@ -5645,7 +5645,7 @@ The following features are true for tetralogy of Fallot, except -
 
 <details><summary>Answer</summary>
 
-**C. Atrial septal defect** — Source: Medicoholic 2016 PYQ compilation.
+**C. Atrial septal defect** — **C. Atrial septal defect** — Classic tetralogy of Fallot comprises VSD, pulmonary stenosis, overriding aorta, and RV hypertrophy; ASD is not a component (its presence constitutes Pentalogy of Fallot).
 
 </details>
 
@@ -5665,7 +5665,7 @@ Microcephaly is common in children of mothers with all except
 
 <details><summary>Answer</summary>
 
-**B. Warfarin intake** — Source: Medicoholic 2016 PYQ compilation.
+**B. Warfarin intake** — **B. Warfarin intake** — Warfarin embryopathy causes nasal hypoplasia, stippled epiphyses, and growth retardation but not microcephaly; alcohol, phenytoin (fetal hydantoin syndrome) and congenital varicella cause microcephaly.
 
 </details>
 
@@ -5685,7 +5685,7 @@ What is the capacity of stomach at birth
 
 <details><summary>Answer</summary>
 
-**C. 50 ml** — Source: Medicoholic 2016 PYQ compilation.
+**C. 50 ml** — **C. 50 ml** — Newborn stomach capacity is approximately 5–7 ml at day 1, expanding to ~20 ml by day 3 and ~50 ml by day 10; this supports exclusive breastfeeding on demand.
 
 </details>
 
@@ -5705,7 +5705,7 @@ Colour of stools in breastfed new born is -
 
 <details><summary>Answer</summary>
 
-**D. Golden** — Source: Medicoholic 2016 PYQ compilation.
+**D. Golden** — **D. Golden** — Breastfed newborn stools are characteristically golden-yellow due to bilirubin reduction products and absence of dietary iron; formula-fed infants have pale yellow/greenish stools.
 
 </details>
 
@@ -5725,7 +5725,7 @@ Trigonocephaly is due to premature closure of which suture?
 
 <details><summary>Answer</summary>
 
-**B. Metopic suture** — Source: Medicoholic 2016 PYQ compilation.
+**B. Metopic suture** — **B. Metopic suture** — Premature metopic suture fusion causes trigonocephaly (triangular forehead); sagittal fusion → scaphocephaly; coronal fusion → brachycephaly; lambdoid fusion → plagiocephaly.
 
 </details>
 
@@ -5745,7 +5745,7 @@ Which of the following is a marker for neural tube defects?
 
 <details><summary>Answer</summary>
 
-**C. ↑Acetylcholinesterase** — Source: Medicoholic 2016 PYQ compilation.
+**C. ↑Acetylcholinesterase** — **C. ↑Acetylcholinesterase** — Amniotic fluid acetylcholinesterase (AChE) is a specific marker for open neural tube defects; elevated alongside AFP, it distinguishes NTDs from other causes of raised AFP.
 
 </details>
 
@@ -5765,7 +5765,7 @@ RDA of zinc in a child ?
 
 <details><summary>Answer</summary>
 
-**C. 6-8 mg** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6-8 mg** — **C. 6-8 mg** — RDA of zinc for children is 6–8 mg/day; zinc is essential for growth, immunity, and wound healing; deficiency causes growth retardation, dermatitis, and impaired immune function.
 
 </details>
 
@@ -5785,7 +5785,7 @@ Which of the following is not a feature of Minimal change disease?
 
 <details><summary>Answer</summary>
 
-**A. Hypertension** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hypertension** — **A. Hypertension** — Minimal change disease causes nephrotic syndrome (massive proteinuria, oedema, hypoalbuminaemia); hypertension is typically absent as it is a non-inflammatory glomerular lesion without haematuria or RAAS activation.
 
 </details>
 
@@ -5805,7 +5805,7 @@ Which of the following drugs is useful in the prophylaxis of migraine?
 
 <details><summary>Answer</summary>
 
-**A. Propranolol** — Source: Medicoholic 2016 PYQ compilation.
+**A. Propranolol** — **A. Propranolol** — Propranolol (beta-blocker) is first-line migraine prophylaxis; reduces frequency by 50%; sumatriptan and ergotamine are acute abortive agents, not preventive; domperidone treats nausea only.
 
 </details>
 
@@ -5825,7 +5825,7 @@ What is the rate of CSF formation in children?
 
 <details><summary>Answer</summary>
 
-**A. 0.3 ml/min** — Source: Medicoholic 2016 PYQ compilation.
+**A. 0.3 ml/min** — **A. 0.3 ml/min** — CSF is produced at approximately 0.3–0.35 ml/min (about 450 ml/day) in children; total CSF volume is ~60–100 ml, turning over ~3 times daily.
 
 </details>
 
@@ -5845,7 +5845,7 @@ Most common cause of cranial irradiation in children is
 
 <details><summary>Answer</summary>
 
-**B. ALL** — Source: Medicoholic 2016 PYQ compilation.
+**B. ALL** — **B. ALL** — Acute lymphoblastic leukaemia is the most common childhood cancer and the leading indication for cranial irradiation (CNS prophylaxis) in paediatric oncology practice.
 
 </details>
 
@@ -5865,7 +5865,7 @@ Most common cause of severe hematemesis in a child is-
 
 <details><summary>Answer</summary>
 
-**A. Portal hypetension** — Source: Medicoholic 2016 PYQ compilation.
+**A. Portal hypetension** — **A. Portal hypetension** — Oesophageal varices from portal hypertension (secondary to biliary atresia or extrahepatic portal vein obstruction) are the most common cause of severe haematemesis in children.
 
 </details>
 
@@ -5885,7 +5885,7 @@ Which of the following is not a feature of physiological anaemia of infancy?
 
 <details><summary>Answer</summary>
 
-**A. Term infant hemoglobin 7 gm%** — Source: Medicoholic 2016 PYQ compilation.
+**A. Term infant hemoglobin 7 gm%** — **A. Term infant hemoglobin 7 gm%** — Physiological anaemia nadir in term infants is ~9–11 g/dL at 8–12 weeks; Hb of 7 g% is pathological; preterm infants may reach 7 g/dL (anaemia of prematurity).
 
 </details>
 
@@ -5905,7 +5905,7 @@ Mean hemoglobin in a 1 year old child is
 
 <details><summary>Answer</summary>
 
-**D. 12 g/dl** — Source: Medicoholic 2016 PYQ compilation.
+**D. 12 g/dl** — **D. 12 g/dl** — Mean Hb at 1 year of age is ~12 g/dL; WHO defines anaemia in children 6–59 months as Hb <11 g/dL; values recover from the physiological nadir at 2–3 months.
 
 </details>
 
@@ -5925,7 +5925,7 @@ Which of the following biochemical test is used to diagnose Dubin Johnson syndro
 
 <details><summary>Answer</summary>
 
-**B. Bromsulphalein test (BSP)** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bromsulphalein test (BSP)** — **B. Bromsulphalein test (BSP)** — Dubin-Johnson syndrome shows characteristic secondary rise in BSP at 90 min (>50% rise above 45-min value) due to defective MRP2-mediated canalicular transport of conjugated compounds.
 
 </details>
 
@@ -5945,7 +5945,7 @@ Albinism is due to deficiency of the following enzyme?
 
 <details><summary>Answer</summary>
 
-**C. Tyrosinase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Tyrosinase** — **C. Tyrosinase** — Oculocutaneous albinism (Type 1) results from tyrosinase deficiency, blocking conversion of tyrosine to DOPA/melanin; causes absent pigmentation in skin, hair, and eyes with photophobia and nystagmus.
 
 </details>
 

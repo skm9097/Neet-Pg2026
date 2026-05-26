@@ -663,7 +663,7 @@ All of the following are premalignant conditions except -
 
 <details><summary>Answer</summary>
 
-**D. Pyoderma Gangrenosum** — Source: Medicoholic 2015 PYQ compilation.
+**D. Pyoderma Gangrenosum** — **D. Pyoderma Gangrenosum** — Pyoderma gangrenosum is a neutrophilic dermatosis causing painful ulcers; it has no malignant potential, unlike Bowen's disease (SCC in situ), senile keratosis, and xeroderma pigmentosum.
 
 </details>
 
@@ -681,7 +681,7 @@ Which of the following organism has a role to play in Seborrhic dermatitis ?
 
 <details><summary>Answer</summary>
 
-**A. Pityrosporum ovale** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pityrosporum ovale** — **A. Pityrosporum ovale** — Malassezia (Pityrosporum) ovale, a lipophilic yeast colonizing sebaceous areas, triggers immune-mediated inflammation leading to the scaling and erythema of seborrhoeic dermatitis.
 
 </details>
 
@@ -699,7 +699,7 @@ Pruritus is a feature of which of the following ?
 
 <details><summary>Answer</summary>
 
-**C. Bullous Pemphigoid** — Source: Medicoholic 2015 PYQ compilation.
+**C. Bullous Pemphigoid** — **C. Bullous Pemphigoid** — BP causes intense pruritus due to IgG antibodies against BP180/BP230 at dermal-epidermal junction; pemphigus variants are characteristically non-pruritic due to intraepidermal blistering.
 
 </details>
 
@@ -717,7 +717,7 @@ Maculae cerulea is seen in ?
 
 <details><summary>Answer</summary>
 
-**A. Pediculosis hominis corporis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pediculosis hominis corporis** — **A. Pediculosis hominis corporis** — Maculae ceruleae (slate-blue macules) result from body louse saliva enzyme converting bilirubin to biliverdin in skin, characteristic of pediculosis corporis infestation.
 
 </details>
 
@@ -735,7 +735,7 @@ Most common site for atopic dermatitis -
 
 <details><summary>Answer</summary>
 
-**C. Popliteal fossa** — Source: Medicoholic 2015 PYQ compilation.
+**C. Popliteal fossa** — **C. Popliteal fossa** — In older children and adults, atopic dermatitis predominantly affects flexural areas (popliteal and antecubital fossae) due to occlusion, moisture, and increased local allergen exposure.
 
 </details>
 
@@ -753,7 +753,7 @@ True regarding Bowen's disease is ?
 
 <details><summary>Answer</summary>
 
-**D. Chronic sun damage plays a role** — Source: Medicoholic 2015 PYQ compilation.
+**D. Chronic sun damage plays a role** — **D. Chronic sun damage plays a role** — Bowen's disease is squamous cell carcinoma in situ; UV-induced DNA damage (pyrimidine dimers) is the primary etiological factor, occurring predominantly in sun-exposed skin of fair individuals.
 
 </details>
 
@@ -771,7 +771,7 @@ Lines of Blaschko represent:
 
 <details><summary>Answer</summary>
 
-**D. Lines of development** — Source: Medicoholic 2015 PYQ compilation.
+**D. Lines of development** — **D. Lines of development** — Blaschko's lines map the developmental migration and proliferation pathways of ectodermal cells during embryogenesis; they become visible in mosaic skin disorders like incontinentia pigmenti.
 
 </details>
 
@@ -789,7 +789,7 @@ All are true about actinic lichen planus except ?
 
 <details><summary>Answer</summary>
 
-**A. Associated with severe pruritus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Associated with severe pruritus** — **A. Associated with severe pruritus** — Actinic (summertime) lichen planus affects sun-exposed areas with violaceous-brown plaques; it is notably non-pruritic or mildly pruritic, distinguishing it from classic lichen planus.
 
 </details>
 
@@ -807,7 +807,7 @@ Muehrcke lines in nails are seen in
 
 <details><summary>Answer</summary>
 
-**A. Nephrotic syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**A. Nephrotic syndrome** — **A. Nephrotic syndrome** — Muehrcke lines are paired transverse white bands in nails caused by hypoalbuminaemia-induced oedema of the nail bed; they disappear when serum albumin normalises.
 
 </details>
 
@@ -825,7 +825,7 @@ Which of the following drug can lead to pemphigus?
 
 <details><summary>Answer</summary>
 
-**A. Penicillamine** — Source: Medicoholic 2015 PYQ compilation.
+**A. Penicillamine** — **A. Penicillamine** — Penicillamine contains a thiol group that biochemically modifies desmoglein 3, inducing drug-triggered pemphigus vulgaris; other thiols (captopril, thiomalic acid) carry the same risk.
 
 </details>
 
@@ -843,7 +843,7 @@ Periungual desquamation, which is a characteristic feature of Kawasaki syndrome,
 
 <details><summary>Answer</summary>
 
-**B. 2nd-3rd week** — Source: Medicoholic 2015 PYQ compilation.
+**B. 2nd-3rd week** — **B. 2nd-3rd week** — Periungual desquamation beginning at fingertips is a classic sub-acute phase finding of Kawasaki disease, typically appearing 2–3 weeks after fever onset along with coronary artery involvement risk.
 
 </details>
 
@@ -861,7 +861,7 @@ Arm tongue time is ?
 
 <details><summary>Answer</summary>
 
-**A. 13 secs** — Source: Medicoholic 2015 PYQ compilation.
+**A. 13 secs** — **A. 13 secs** — Arm-to-tongue circulation time (normal ~13 seconds) measures cardiac output; it is prolonged in heart failure and used to assess circulatory transit time from peripheral vein to oral mucosa.
 
 </details>
 
@@ -879,7 +879,7 @@ Post dural puncture headache usually presents with in ?
 
 <details><summary>Answer</summary>
 
-**C. 12-72 Hrs** — Source: Medicoholic 2015 PYQ compilation.
+**C. 12-72 Hrs** — **C. 12-72 Hrs** — Post-dural puncture headache results from CSF leakage lowering intracranial pressure; it characteristically presents within 12–72 hours of lumbar puncture and is positional (worse upright, relieved supine).
 
 </details>
 
@@ -897,7 +897,7 @@ Contraindication to neruaxial block is ?
 
 <details><summary>Answer</summary>
 
-**C. Clotting disorders** — Source: Medicoholic 2015 PYQ compilation.
+**C. Clotting disorders** — **C. Clotting disorders** — Neuraxial blockade (spinal/epidural) is absolutely contraindicated in coagulopathy because needle insertion into the epidural/subarachnoid space risks catastrophic epidural haematoma causing spinal cord compression.
 
 </details>
 
@@ -915,7 +915,7 @@ Long acting local anaesthetic ?
 
 <details><summary>Answer</summary>
 
-**D. Dibucaine** — Source: Medicoholic 2015 PYQ compilation.
+**D. Dibucaine** — **D. Dibucaine** — Dibucaine (cinchocaine) is the longest-acting local anaesthetic due to its high lipid solubility and protein binding; it is also used in the dibucaine number test for pseudocholinesterase activity.
 
 </details>
 
@@ -933,7 +933,7 @@ Composition of soda lime is: NaOH - Ca (OH)2 - KOH - Moisture
 
 <details><summary>Answer</summary>
 
-**B. 4% - 80% - 1% - 15%** — Source: Medicoholic 2015 PYQ compilation.
+**B. 4% - 80% - 1% - 15%** — **B. 4% - 80% - 1% - 15%** — Soda lime (CO2 absorbent in anaesthetic circuits) contains Ca(OH)2 80%, NaOH 4%, KOH 1%, and 15% water; moisture is essential for the exothermic CO2 absorption reaction.
 
 </details>
 
@@ -951,7 +951,7 @@ Suxamethonium acts through which channels ?
 
 <details><summary>Answer</summary>
 
-**A. Sodium channels** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sodium channels** — **A. Sodium channels** — Suxamethonium (succinylcholine) binds nicotinic acetylcholine receptors, causing persistent depolarisation and initial Na+ channel opening (fasciculations) followed by neuromuscular blockade.
 
 </details>
 
@@ -969,7 +969,7 @@ Only available depolarizing muscle relaxant is ?
 
 <details><summary>Answer</summary>
 
-**B. Suxamethonium** — Source: Medicoholic 2015 PYQ compilation.
+**B. Suxamethonium** — **B. Suxamethonium** — Suxamethonium (succinylcholine) is the only clinically available depolarising NMB agent; decamethonium was withdrawn from clinical use, and mivacurium is a non-depolarising agent.
 
 </details>
 
@@ -987,7 +987,7 @@ All of the following about MRI are correct except:
 
 <details><summary>Answer</summary>
 
-**C. MRI is better for calcified lesions** — Source: Medicoholic 2015 PYQ compilation.
+**C. MRI is better for calcified lesions** — **C. MRI is better for calcified lesions** — CT is superior for detecting calcification because calcium has no mobile protons and appears signal-void on MRI; CT directly images calcium density. MRI excels for soft tissue contrast.
 
 </details>
 
@@ -1005,7 +1005,7 @@ Amount of radiation exposure in 1 CT- scan of chest is
 
 <details><summary>Answer</summary>
 
-**D. 7 mSv** — Source: Medicoholic 2015 PYQ compilation.
+**D. 7 mSv** — **D. 7 mSv** — A chest CT delivers approximately 7 mSv of effective radiation dose, equivalent to about 3.5 years of background radiation, significantly more than a chest X-ray (~0.02 mSv).
 
 </details>
 
@@ -1023,7 +1023,7 @@ Which of the following is a late severe adverse effect of radiation therapy
 
 <details><summary>Answer</summary>
 
-**D. Osteoradionecrosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Osteoradionecrosis** — **D. Osteoradionecrosis** — Osteoradionecrosis is a severe late complication of radiotherapy caused by radiation-induced hypoxic-hypovascular-hypocellular tissue changes leading to bone death, most common in the mandible.
 
 </details>
 
@@ -1041,7 +1041,7 @@ Which common tracer in PET is usually administered in the form of a glucose suga
 
 <details><summary>Answer</summary>
 
-**B. Fluorine 18** — Source: Medicoholic 2015 PYQ compilation.
+**B. Fluorine 18** — **B. Fluorine 18** — F-18 labelled fluorodeoxyglucose (18F-FDG) is the standard PET tracer; glucose analogue is taken up by metabolically active cells (tumours, brain) but not phosphorylated further, trapping it intracellularly.
 
 </details>
 
@@ -1059,7 +1059,7 @@ Intraoperative radiotherapy is used in
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Intraoperative radiotherapy (IORT) delivers a concentrated radiation dose directly to the tumour bed during surgery for gastric, pancreatic, and colon cancers, sparing surrounding normal tissues.
 
 </details>
 
@@ -1077,7 +1077,7 @@ Precisely directed high dose radiation is used in
 
 <details><summary>Answer</summary>
 
-**A. IMRT** — Source: Medicoholic 2015 PYQ compilation.
+**A. IMRT** — **A. IMRT** — Intensity Modulated Radiation Therapy uses computer-controlled modulation of beam intensity to deliver precisely sculpted high-dose radiation to tumour volume while minimising exposure to adjacent critical structures.
 
 </details>
 
@@ -1095,7 +1095,7 @@ Not used for internal radiotherapy
 
 <details><summary>Answer</summary>
 
-**B. Iodine-131** — Source: Medicoholic 2015 PYQ compilation.
+**B. Iodine-131** — **B. Iodine-131** — Iodine-131 (half-life 8 days) is used for thyroid ablation via systemic administration, not for internal/brachytherapy implants; I-125, Ir-192, and Co-60 are used as sealed source brachytherapy implants.
 
 </details>
 
@@ -1113,7 +1113,7 @@ Radioiodine generates which type of radiation
 
 <details><summary>Answer</summary>
 
-**C. Beta and gamma rays** — Source: Medicoholic 2015 PYQ compilation.
+**C. Beta and gamma rays** — **C. Beta and gamma rays** — Iodine-131 decays by beta emission (therapeutic — kills thyroid tissue) and gamma emission (diagnostic imaging); the beta particles cause the local tissue destruction used in thyroid ablation.
 
 </details>
 
@@ -1131,7 +1131,7 @@ Ring enhancing lesion on CT is a feature of
 
 <details><summary>Answer</summary>
 
-**A. Toxoplasmsis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Toxoplasmsis** — **A. Toxoplasmosis** — Toxoplasma gondii abscesses in immunocompromised patients (especially HIV with CD4 <100) show ring-enhancing lesions on contrast CT due to central necrosis surrounded by inflammatory vasogenic oedema.
 
 </details>
 
@@ -1149,7 +1149,7 @@ About lipoma, radiologically true is -
 
 <details><summary>Answer</summary>
 
-**A. Low attenuation on CT** — Source: Medicoholic 2015 PYQ compilation.
+**A. Low attenuation on CT** — **A. Low attenuation on CT** — Lipomas contain adipose tissue with CT attenuation of −80 to −120 HU (negative Hounsfield units) due to fat density, appearing dark on CT, and hyperintense on T1-weighted MRI.
 
 </details>
 
@@ -1167,7 +1167,7 @@ Ultrasonographic finding of autosomal recessive polycystic kidney disease [ARPKD
 
 <details><summary>Answer</summary>
 
-**A. Cysts more than 2 cm** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cysts more than 2 cm** — **A. Cysts more than 2 cm** — In ARPKD, cysts are microscopic (1–2 mm) collecting duct ectasias, not macroscopic; ultrasound shows bilaterally enlarged echogenic kidneys without discrete large cysts, unlike ADPKD.
 
 </details>
 
@@ -1185,7 +1185,7 @@ Cobra head appearance on excretory urography is suggestive of:
 
 <details><summary>Answer</summary>
 
-**D. Ureterocele** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ureterocele** — **D. Ureterocele** — Ureterocele causes a round filling defect at the vesicoureteric junction surrounded by a radiolucent halo of the cyst wall, resembling a cobra's head on intravenous urography.
 
 </details>
 

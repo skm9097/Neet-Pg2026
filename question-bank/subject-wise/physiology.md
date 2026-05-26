@@ -4173,7 +4173,7 @@ Which of the following pass through the Hypoglossal canal?
 
 <details><summary>Answer</summary>
 
-**A. Hypoglossal nerve** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hypoglossal nerve** — **A. Hypoglossal nerve** — CN XII (hypoglossal nerve) passes through the hypoglossal canal in the occipital bone; innervates all intrinsic and extrinsic tongue muscles except palatoglossus (CN X); emissary veins also pass through.
 
 </details>
 
@@ -4193,7 +4193,7 @@ Extension of the retropharyngeal space is between ?
 
 <details><summary>Answer</summary>
 
-**A. Alar fascia and buccopharyngeal fascia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Alar fascia and buccopharyngeal fascia** — **A. Alar fascia and buccopharyngeal fascia** — Retropharyngeal space lies between buccopharyngeal fascia (anteriorly) and alar fascia (posteriorly); potential space extending from skull base to T1-T2; danger space lies posterior to alar fascia.
 
 </details>
 
@@ -4213,7 +4213,7 @@ Straight sinus is formed by?
 
 <details><summary>Answer</summary>
 
-**A. Inferior Sagittal Sinus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Inferior Sagittal Sinus** — **A. Inferior Sagittal Sinus** — Straight sinus is formed by junction of inferior sagittal sinus and great cerebral vein (of Galen) at the falcotentorial junction; drains into confluence of sinuses (torcular Herophili).
 
 </details>
 
@@ -4233,7 +4233,7 @@ Which artery supplies the paracentral lobule?
 
 <details><summary>Answer</summary>
 
-**B. Calloso Marginal artery** — Source: Medicoholic 2016 PYQ compilation.
+**B. Calloso Marginal artery** — **B. Calloso Marginal artery** — The paracentral lobule (containing motor cortex for lower limb) is supplied by the callosomarginal artery, a branch of anterior cerebral artery; occlusion causes contralateral lower limb weakness.
 
 </details>
 
@@ -4253,7 +4253,7 @@ Nucleus of basal ganglia
 
 <details><summary>Answer</summary>
 
-**C. Caudate** — Source: Medicoholic 2016 PYQ compilation.
+**C. Caudate** — **C. Caudate** — Basal ganglia nuclei include caudate nucleus, putamen (together = striatum), globus pallidus, subthalamic nucleus, and substantia nigra; dentate is cerebellar, thalamus is diencephalon, red nucleus is midbrain.
 
 </details>
 
@@ -4273,7 +4273,7 @@ Most lateral nucleus of cerebellum is ?
 
 <details><summary>Answer</summary>
 
-**A. Dentate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Dentate** — **A. Dentate** — Dentate nucleus is the most lateral deep cerebellar nucleus; from lateral to medial: dentate → emboliform → globose → fastigial; dentate projects via superior cerebellar peduncle to contralateral thalamus and motor cortex.
 
 </details>
 
@@ -4293,7 +4293,7 @@ Superior marginal gyrus is a part of?
 
 <details><summary>Answer</summary>
 
-**A. Parietal lobe** — Source: Medicoholic 2016 PYQ compilation.
+**A. Parietal lobe** — **A. Parietal lobe** — Supramarginal gyrus (part of inferior parietal lobule) is located in the parietal lobe at the upturned end of the lateral sulcus; along with angular gyrus forms Wernicke's area in dominant hemisphere.
 
 </details>
 
@@ -4313,7 +4313,7 @@ Arbor vitae are seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Cerebellum** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cerebellum** — **B. Cerebellum** — Arbor vitae (tree of life) is the branching white matter pattern seen on sagittal section of the cerebellum; the tree-like appearance results from cerebellar cortex folding over the central white core.
 
 </details>
 
@@ -4333,7 +4333,7 @@ Total volume of CSF is?
 
 <details><summary>Answer</summary>
 
-**A. 150 ml** — Source: Medicoholic 2016 PYQ compilation.
+**A. 150 ml** — **A. 150 ml** — Total CSF volume is approximately 150 ml (125–150 ml); produced at ~0.35 ml/min (500 ml/day) mainly by choroid plexus; circulates through ventricles and subarachnoid space; reabsorbed by arachnoid granulations.
 
 </details>
 
@@ -4353,7 +4353,7 @@ Lateral lemniscus terminates into ?
 
 <details><summary>Answer</summary>
 
-**C. Inferior colliculus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Inferior colliculus** — **C. Inferior colliculus** — Lateral lemniscus carries auditory fibers from cochlear nuclei and superior olive; terminates in inferior colliculus (midbrain); from there, fibers relay to medial geniculate body → auditory cortex (Heschl's gyrus).
 
 </details>
 
@@ -4373,7 +4373,7 @@ Internal capsule- All of the following are parts except ?
 
 <details><summary>Answer</summary>
 
-**D. Prelentiform** — Source: Medicoholic 2016 PYQ compilation.
+**D. Prelentiform** — **D. Prelentiform** — Internal capsule has anterior limb, genu, posterior limb, retrolentiform, and sublentiform parts; there is no 'prelentiform' part; retrolentiform contains optic radiations, sublentiform contains auditory radiations.
 
 </details>
 
@@ -4393,7 +4393,7 @@ Substantia ferruginea is found in -
 
 <details><summary>Answer</summary>
 
-**A. Fourth ventricle** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fourth ventricle** — **A. Fourth ventricle** — Substantia ferruginea (locus coeruleus) is found in the floor of the fourth ventricle in the pons; it is the principal noradrenergic nucleus; pigmented with neuromelanin; involved in arousal, attention, stress response.
 
 </details>
 
@@ -4413,7 +4413,7 @@ Infundibular diverticulum is an extention of ?
 
 <details><summary>Answer</summary>
 
-**B. 3rd ventricle** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3rd ventricle** — **B. 3rd ventricle** — Infundibular recess (diverticulum) is a downward extension of the 3rd ventricle into the pituitary stalk (infundibulum); the 3rd ventricle also has supraoptic, pineal, and suprapineal recesses.
 
 </details>
 
@@ -4433,7 +4433,7 @@ Which of the following is a complete sulcus in the brain?
 
 <details><summary>Answer</summary>
 
-**A. Calcarine sulcus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Calcarine sulcus** — **A. Calcarine sulcus** — Calcarine sulcus is a complete sulcus (extends through full thickness, visible on medial surface); it contains the primary visual cortex (V1, Brodmann area 17) along its banks.
 
 </details>
 
@@ -4453,7 +4453,7 @@ Cerebellovestibular fibres pass through ?
 
 <details><summary>Answer</summary>
 
-**C. Inferior cerebellar peduncle** — Source: Medicoholic 2016 PYQ compilation.
+**C. Inferior cerebellar peduncle** — **C. Inferior cerebellar peduncle** — Cerebellar vestibular fibers (vestibulocerebellar and cerebellovestibular) pass through the inferior cerebellar peduncle (restiform body); connects cerebellum with medulla and vestibular nuclei.
 
 </details>
 
@@ -4473,7 +4473,7 @@ Long spinous process is seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Thoracic Vertebrae** — Source: Medicoholic 2016 PYQ compilation.
+**B. Thoracic Vertebrae** — **B. Thoracic Vertebrae** — Thoracic vertebrae have long, slender, downward-pointing spinous processes (especially T5–T8); they overlap and limit thoracic extension; cervical processes are bifid, lumbar are short and horizontal.
 
 </details>
 
@@ -4493,7 +4493,7 @@ Spinal segmental artery is a branch of ?
 
 <details><summary>Answer</summary>
 
-**A. Ascending spinal artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Ascending spinal artery** — **A. Ascending spinal artery** — Spinal segmental (medullary) arteries arise from vertebral, intercostal, lumbar and sacral arteries; they enter via intervertebral foramina and branch into anterior and posterior radicular arteries supplying the cord.
 
 </details>
 
@@ -4513,7 +4513,7 @@ Lipid rafts are seen in?
 
 <details><summary>Answer</summary>
 
-**C. Plasma membrane** — Source: Medicoholic 2016 PYQ compilation.
+**C. Plasma membrane** — **C. Plasma membrane** — Lipid rafts are cholesterol- and sphingolipid-rich microdomains in the plasma membrane; they concentrate signaling proteins (GPI-anchored proteins, receptor tyrosine kinases), facilitate signal transduction and membrane trafficking.
 
 </details>
 
@@ -4533,7 +4533,7 @@ Marker of endoplasmic reticulum?
 
 <details><summary>Answer</summary>
 
-**B. Glucose-6-phosphatase** — Source: Medicoholic 2016 PYQ compilation.
+**B. Glucose-6-phosphatase** — **B. Glucose-6-phosphatase** — Glucose-6-phosphatase is the enzymatic marker for smooth endoplasmic reticulum (SER); it catalyzes the final step of gluconeogenesis/glycogenolysis; acid phosphatase marks lysosomes, catalase marks peroxisomes.
 
 </details>
 
@@ -4553,7 +4553,7 @@ Following is a feature of simple diffusion?
 
 <details><summary>Answer</summary>
 
-**B. Easy for non-polar substance** — Source: Medicoholic 2016 PYQ compilation.
+**B. Easy for non-polar substance** — **B. Easy for non-polar substance** — Simple diffusion is passive, driven by concentration gradient; non-polar (lipophilic) molecules cross lipid bilayer easily (O2, CO2, steroids); requires no carrier, no energy, faster in thin membranes.
 
 </details>
 
@@ -4573,7 +4573,7 @@ True about Nernst equation?
 
 <details><summary>Answer</summary>
 
-**A. Used to calculate equilibrium potential** — Source: Medicoholic 2016 PYQ compilation.
+**A. Used to calculate equilibrium potential** — **A. Used to calculate equilibrium potential** — Nernst equation calculates equilibrium (reversal) potential for a single ion: E = (RT/zF) × ln([ion]out/[ion]in); at equilibrium potential, electrical gradient exactly balances chemical gradient; no net ion movement.
 
 </details>
 
@@ -4613,7 +4613,7 @@ Nernnst equation related to equilibrium potential does not depend upon?
 
 <details><summary>Answer</summary>
 
-**C. Non-ionic solution** — Source: Medicoholic 2016 PYQ compilation.
+**C. Non-ionic solution** — **C. Non-ionic solution** — Nernst equation depends on concentration gradient (ratio of extracellular to intracellular ion concentration), charge (z), temperature, and Faraday constant; it is specifically for ionic solutions, not non-ionic.
 
 </details>
 
@@ -4633,7 +4633,7 @@ Due to Donnan-Gibbs effect?
 
 <details><summary>Answer</summary>
 
-**C. Total ions are more in ICF** — Source: Medicoholic 2016 PYQ compilation.
+**C. Total ions are more in ICF** — **C. Total ions are more in ICF** — Gibbs-Donnan effect: non-diffusible intracellular proteins (negatively charged) attract more cations into ICF; total ion concentration is higher in ICF; osmotic balance maintained by Na-K ATPase pump activity.
 
 </details>
 
@@ -4653,7 +4653,7 @@ ATPase is which type of pump?
 
 <details><summary>Answer</summary>
 
-**B. Electrogenic** — Source: Medicoholic 2016 PYQ compilation.
+**B. Electrogenic** — **B. Electrogenic** — Na+/K+ ATPase is electrogenic: pumps 3 Na+ out and 2 K+ in per cycle, creating net outward positive charge movement; contributes ~−3 mV to resting membrane potential; also a primary active transport pump.
 
 </details>
 
@@ -4673,7 +4673,7 @@ Diffusion related to 02 transport across respiratory membrane is an example of?
 
 <details><summary>Answer</summary>
 
-**A. Simple diffusion** — Source: Medicoholic 2016 PYQ compilation.
+**A. Simple diffusion** — **A. Simple diffusion** — O2 transport across the alveolar-capillary membrane occurs by simple diffusion; O2 is non-polar and lipid-soluble, moves down partial pressure gradient (PAO2 ~100 mmHg → capillary ~40 mmHg) without carriers.
 
 </details>
 
@@ -4693,7 +4693,7 @@ Calculation of interstitial fluid in a 50 years old is done by?
 
 <details><summary>Answer</summary>
 
-**B. ECF minus plasma volume** — Source: Medicoholic 2016 PYQ compilation.
+**B. ECF minus plasma volume** — **B. ECF minus plasma volume** — Interstitial fluid = ECF − plasma volume; ECF (~20% body weight) comprises plasma (~5%) + interstitial fluid (~15%); measured by subtracting plasma volume (measured by Evans blue/albumin) from total ECF.
 
 </details>
 
@@ -4713,7 +4713,7 @@ Excitability of cells is maximally affected by change in concentration of which 
 
 <details><summary>Answer</summary>
 
-**D. Ca+2** — Source: Medicoholic 2016 PYQ compilation.
+**D. Ca+2** — **D. Ca+2** — Extracellular Ca2+ stabilizes the membrane by binding to voltage-gated Na+ channel gates; hypocalcemia reduces threshold potential (increases excitability) → tetany; hypercalcemia raises threshold (decreases excitability).
 
 </details>
 
@@ -4733,7 +4733,7 @@ Dull visceral pain is carried by which type of neurons?
 
 <details><summary>Answer</summary>
 
-**C. C fibres** — Source: Medicoholic 2016 PYQ compilation.
+**C. C fibres** — **C. C fibres** — C fibers (unmyelinated, slow conduction 0.5–2 m/s) carry dull, burning, diffuse visceral pain (second pain); Aδ fibers carry sharp, localized first pain; C fibers also transmit temperature (warm) and itch sensations.
 
 </details>
 
@@ -4753,7 +4753,7 @@ Dull visceral pain is carried by which type of neurons?
 
 <details><summary>Answer</summary>
 
-**C. Lateral spinothalamic tract** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lateral spinothalamic tract** — **C. Lateral spinothalamic tract** — C fibers (pain and temperature) synapse in dorsal horn and cross to contralateral lateral spinothalamic tract; ascend to thalamus (VPL nucleus); Posterior column carries fine touch, vibration, proprioception.
 
 </details>
 

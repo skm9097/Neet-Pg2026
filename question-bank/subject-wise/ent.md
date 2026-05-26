@@ -1930,7 +1930,7 @@ Hebra nose is caused by:
 
 <details><summary>Answer</summary>
 
-**A. Frisch bacillus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Frisch bacillus** — **A. Frisch bacillus** — Klebsiella rhinoscleromatis (Frisch bacillus) causes rhinoscleroma; Hebra nose is the end-stage fibrotic deformity with nasal obstruction and characteristic Mikulicz cells on histology.
 
 </details>
 
@@ -1948,7 +1948,7 @@ Absence of Vi-antibody in a typhoid patient has:
 
 <details><summary>Answer</summary>
 
-**B. Bad prognosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Bad prognosis** — **B. Bad prognosis** — Vi antigen of Salmonella typhi inhibits complement activation and phagocytosis; absence of Vi antibody suggests failure to mount adequate immune response, indicating poor prognosis and potential carrier state.
 
 </details>
 
@@ -1966,7 +1966,7 @@ True about corynebacterium diphtheriae:
 
 <details><summary>Answer</summary>
 
-**B. Toxin production is dependent upon critical concentration of** — Source: Medicoholic 2015 PYQ compilation.
+**B. Toxin production is dependent upon critical concentration of** — **B. Toxin production is dependent upon critical concentration of** — Diphtheria toxin production (encoded by bacteriophage) is repressed at high iron concentrations; only strains lysogenized by β-phage produce toxin.
 
 </details>
 
@@ -1984,7 +1984,7 @@ Which of the following cell types are the most potent activator of T-cell ?
 
 <details><summary>Answer</summary>
 
-**C. Mature dendritic cells** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mature dendritic cells** — **C. Mature dendritic cells** — Mature dendritic cells express high levels of MHC II and co-stimulatory molecules (CD80/CD86), making them the most potent antigen-presenting cells for naive T-cell activation.
 
 </details>
 
@@ -2002,7 +2002,7 @@ Rose waaler test is -
 
 <details><summary>Answer</summary>
 
-**D. Passive hemagglutination test** — Source: Medicoholic 2015 PYQ compilation.
+**D. Passive hemagglutination test** — **D. Passive hemagglutination test** — Rose-Waaler test detects rheumatoid factor (anti-IgG antibody) using sheep RBCs coated with rabbit IgG; agglutination indicates positive result for RA.
 
 </details>
 
@@ -2020,7 +2020,7 @@ Complement Fixation test is:
 
 <details><summary>Answer</summary>
 
-**C. Wassermann reaction** — Source: Medicoholic 2015 PYQ compilation.
+**C. Wassermann reaction** — **C. Wassermann reaction** — Wassermann reaction is a complement fixation test for syphilis using cardiolipin antigen; complement is consumed by antigen-antibody complexes, preventing lysis of indicator RBCs.
 
 </details>
 
@@ -2038,7 +2038,7 @@ Which of the following complement factors is a marker of humoral rejection?
 
 <details><summary>Answer</summary>
 
-**C. C4d** — Source: Medicoholic 2015 PYQ compilation.
+**C. C4d** — **C. C4d** — C4d is a degradation product of the classical complement pathway; its deposition in peritubular capillaries is the hallmark of antibody-mediated (humoral) allograft rejection.
 
 </details>
 
@@ -2056,7 +2056,7 @@ Lattice phenomenon is seen in -
 
 <details><summary>Answer</summary>
 
-**C. Precipitation test** — Source: Medicoholic 2015 PYQ compilation.
+**C. Precipitation test** — **C. Precipitation test** — Lattice/network phenomenon occurs in precipitation reactions when antigen and antibody combine in optimal proportions forming a visible insoluble lattice precipitate (zone of equivalence).
 
 </details>
 
@@ -2074,7 +2074,7 @@ Complement deficiency has not been implicated in causing ?
 
 <details><summary>Answer</summary>
 
-**D. Membranous nephritis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Membranous nephritis** — **D. Membranous nephritis** — Membranous nephropathy is caused by immune complex deposition (anti-PLA2R antibodies), not complement deficiency; SLE, PNH, and hereditary angioedema are all linked to specific complement deficiencies.
 
 </details>
 
@@ -2092,7 +2092,7 @@ When transfer factor is given as treatment results in -
 
 <details><summary>Answer</summary>
 
-**D. Adoptive immunity** — Source: Medicoholic 2015 PYQ compilation.
+**D. Adoptive immunity** — **D. Adoptive immunity** — Transfer factor is a dialyzable leukocyte extract containing lymphokines that transfers cell-mediated immunity from a sensitized donor to a naive recipient, constituting adoptive transfer of immunity.
 
 </details>
 
@@ -2110,7 +2110,7 @@ Common variable deficiency is due to -
 
 <details><summary>Answer</summary>
 
-**C. Defective B cell differentiation** — Source: Medicoholic 2015 PYQ compilation.
+**C. Defective B cell differentiation** — **C. Defective B cell differentiation** — CVID involves normal or near-normal B cell numbers but failure of terminal differentiation into plasma cells, resulting in profound hypogammaglobulinemia and recurrent infections.
 
 </details>
 
@@ -2128,7 +2128,7 @@ Human development index includes all except ?
 
 <details><summary>Answer</summary>
 
-**D. Literacy rate** — Source: Medicoholic 2015 PYQ compilation.
+**D. Literacy rate** — **D. Literacy rate** — HDI comprises three dimensions: longevity (life expectancy), knowledge (mean and expected years of schooling), and income (GNI per capita); literacy rate is not a direct HDI component.
 
 </details>
 
@@ -2146,7 +2146,7 @@ Reservoir is defined as ?
 
 <details><summary>Answer</summary>
 
-**B. Person, animal or substance in which infectious agent lives and** — Source: Medicoholic 2015 PYQ compilation.
+**B. Person, animal or substance in which infectious agent lives and** — **B. Person, animal or substance in which infectious agent lives and** — A reservoir is the habitat where the infectious agent normally lives, multiplies, and from which transmission to a susceptible host occurs.
 
 </details>
 
@@ -2164,7 +2164,7 @@ Benefit of screening is ?
 
 <details><summary>Answer</summary>
 
-**B. Early treatment of disease** — Source: Medicoholic 2015 PYQ compilation.
+**B. Early treatment of disease** — **B. Early treatment of disease** — Screening detects disease in the pre-symptomatic phase, enabling early intervention that reduces morbidity and mortality; it does not prevent disease occurrence but improves outcomes.
 
 </details>
 
@@ -2182,7 +2182,7 @@ Multiphasic screening means-
 
 <details><summary>Answer</summary>
 
-**A. Application of the two or more screening tests in combination at** — Source: Medicoholic 2015 PYQ compilation.
+**A. Application of the two or more screening tests in combination at** — **A. Application of the two or more screening tests in combination at** — Multiphasic screening applies multiple tests simultaneously to the same population at one visit, increasing efficiency and detection of several conditions.
 
 </details>
 
@@ -2200,7 +2200,7 @@ Slection bias occurs during ?
 
 <details><summary>Answer</summary>
 
-**A. Recruitment** — Source: Medicoholic 2015 PYQ compilation.
+**A. Recruitment** — **A. Recruitment** — Selection bias occurs during recruitment when the study sample is not representative of the target population, leading to systematic errors in measuring associations.
 
 </details>
 
@@ -2218,7 +2218,7 @@ Disinfection of urine is which type of disinfection ?
 
 <details><summary>Answer</summary>
 
-**B. Concurrent** — Source: Medicoholic 2015 PYQ compilation.
+**B. Concurrent** — **B. Concurrent** — Concurrent disinfection is the immediate disinfection of excretions (urine, feces) and contaminated articles during the period of communicability of an infectious disease.
 
 </details>
 
@@ -2236,7 +2236,7 @@ Not used for treatment and/or prophylaxis of seasonal influenza -
 
 <details><summary>Answer</summary>
 
-**D. Acyclovir** — Source: Medicoholic 2015 PYQ compilation.
+**D. Acyclovir** — **D. Acyclovir** — Acyclovir is an antiviral active against herpesviruses (HSV, VZV) via thymidine kinase activation; it has no activity against influenza virus, which lacks the required kinase.
 
 </details>
 
@@ -2254,7 +2254,7 @@ Rideal-walker coefficient for disinfectant used for cholera stool should be ?
 
 <details><summary>Answer</summary>
 
-**D. 10** — Source: Medicoholic 2015 PYQ compilation.
+**D. 10** — **D. 10** — Rideal-Walker coefficient compares disinfectant efficacy to phenol; cholera stool requires a coefficient of at least 10 to ensure adequate destruction of Vibrio cholerae in excreta.
 
 </details>
 
@@ -2272,7 +2272,7 @@ Protein quality assessment is best done by ?
 
 <details><summary>Answer</summary>
 
-**A. NPU** — Source: Medicoholic 2015 PYQ compilation.
+**A. NPU** — **A. NPU** — Net Protein Utilization (NPU) combines both digestibility and biological value into a single measure, reflecting the proportion of dietary nitrogen retained; it is the most comprehensive index of protein quality.
 
 </details>
 
@@ -2290,7 +2290,7 @@ Nutrient which is lost maximum in polished rice?
 
 <details><summary>Answer</summary>
 
-**B. Thiamine** — Source: Medicoholic 2015 PYQ compilation.
+**B. Thiamine** — **B. Thiamine** — Thiamine (Vitamin B1) is concentrated in the bran and germ of rice; polishing removes these outer layers, causing up to 80% thiamine loss and predisposing to beriberi.
 
 </details>
 
@@ -2308,7 +2308,7 @@ Caloric requirement in an adult male for heavy work?
 
 <details><summary>Answer</summary>
 
-**D. 3500 k cal/d** — Source: Medicoholic 2015 PYQ compilation.
+**D. 3500 k cal/d** — **D. 3500 k cal/d** — ICMR guidelines recommend approximately 3500 kcal/day for adult males engaged in heavy physical labour (e.g., construction work, farming), reflecting high energy expenditure.
 
 </details>
 
@@ -2326,7 +2326,7 @@ True about culex larvae ?
 
 <details><summary>Answer</summary>
 
-**C. Siphon tube present** — Source: Medicoholic 2015 PYQ compilation.
+**C. Siphon tube present** — **C. Siphon tube present** — Culex larvae possess a long respiratory siphon tube and hang at an angle to the water surface; Anopheles larvae lack a siphon and lie parallel to the surface with palmate hairs.
 
 </details>
 
@@ -2344,7 +2344,7 @@ In disaster management all are true except
 
 <details><summary>Answer</summary>
 
-**B. Response in pre-disaster phase** — Source: Medicoholic 2015 PYQ compilation.
+**B. Response in pre-disaster phase** — **B. Response in pre-disaster phase** — Response is a post-disaster phase activity; the pre-disaster phase involves mitigation and preparedness, while response (rescue, relief) occurs after disaster strikes.
 
 </details>
 
@@ -2362,7 +2362,7 @@ In disaster management following are practiced except
 
 <details><summary>Answer</summary>
 
-**C. Mass vaccination** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mass vaccination** — **C. Mass vaccination** — Mass vaccination is not a standard disaster management component; triage, disaster response, and rehabilitation are core activities, while vaccination targets specific outbreak situations separately.
 
 </details>
 
@@ -2380,7 +2380,7 @@ All are true for ASHA worker EXCEPT:
 
 <details><summary>Answer</summary>
 
-**B. Education atleast till 4th class or higher** — Source: Medicoholic 2015 PYQ compilation.
+**B. Education atleast till 4th class or higher** — **B. Education atleast till 4th class or higher** — ASHA workers must have education up to Class 8 (not 4th class) and be local female residents aged 25-45 years, serving approximately 1000 population.
 
 </details>
 
@@ -2398,7 +2398,7 @@ Observation under nursing care for 24 hours in an hospital is defined as ?
 
 <details><summary>Answer</summary>
 
-**C. Observation status patient** — Source: Medicoholic 2015 PYQ compilation.
+**C. Observation status patient** — **C. Observation status patient** — Observation status is a specific hospital classification where patients receive monitoring and care for up to 24 hours without formal inpatient admission, affecting billing and Medicare coverage.
 
 </details>
 
@@ -2416,7 +2416,7 @@ Under RNTCP, DOTS provider gets how much honorarium after completion of treatmen
 
 <details><summary>Answer</summary>
 
-**B. 250 Rs** — Source: Medicoholic 2015 PYQ compilation.
+**B. 250 Rs** — **B. 250 Rs** — Under RNTCP (now NTEP), DOTS providers receive Rs. 250 as honorarium upon successful completion of tuberculosis treatment by the patient, incentivizing treatment supervision.
 
 </details>
 
@@ -2434,7 +2434,7 @@ All of the following are are a part of medial wall of the middle ear except?
 
 <details><summary>Answer</summary>
 
-**C. Pyramid** — Source: Medicoholic 2015 PYQ compilation.
+**C. Pyramid** — **C. Pyramid** — The pyramid (pyramidal eminence) is located on the posterior wall of the middle ear and contains the stapedius muscle; the medial wall contains the promontory, oval window, round window, and subiculum.
 
 </details>
 
@@ -2452,7 +2452,7 @@ Ceruminous glands present in the ear are:
 
 <details><summary>Answer</summary>
 
-**B. Modified apocrine glands** — Source: Medicoholic 2015 PYQ compilation.
+**B. Modified apocrine glands** — **B. Modified apocrine glands** — Ceruminous glands in the external auditory canal are modified apocrine sweat glands; they secrete the lipid component of cerumen, which mixes with sebaceous secretions to protect the ear canal.
 
 </details>
 
@@ -5170,7 +5170,7 @@ Modafinil is used for the treatment of ?
 
 <details><summary>Answer</summary>
 
-**A. Narcolepsy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Narcolepsy** — **A. Narcolepsy** — Modafinil is a wakefulness-promoting agent acting on hypothalamic orexin pathways; FDA-approved for narcolepsy, shift-work disorder, and sleep apnea-related sleepiness.
 
 </details>
 
@@ -5191,7 +5191,7 @@ All are derived from neural crest except ?
 
 <details><summary>Answer</summary>
 
-**D. Retinal pigmented epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**D. Retinal pigmented epithelium** — **D. Retinal pigmented epithelium** — RPE is derived from neuroectoderm (optic cup); neural crest cells give rise to adrenal medulla, melanocytes, and corneal stroma.
 
 </details>
 
@@ -5211,7 +5211,7 @@ Digeorge syndrome is characterized by all except ?
 
 <details><summary>Answer</summary>
 
-**C. Hypothyroidism** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hypothyroidism** — **C. Hypothyroidism** — DiGeorge results from 3rd/4th pharyngeal pouch failure causing thymic hypoplasia and parathyroid aplasia; hypoparathyroidism (not hypothyroidism) causes hypocalcemic tetany.
 
 </details>
 
@@ -5231,7 +5231,7 @@ Digeorge syndrome is characterized by all except ?
 
 <details><summary>Answer</summary>
 
-**C. Increase in 02 tension at birth** — Source: Medicoholic 2016 PYQ compilation.
+**C. Increase in 02 tension at birth** — **C. Increase in O2 tension at birth** — Rising PaO2 at first breath triggers smooth muscle contraction of ductus arteriosus via oxygen-sensitive potassium channels, leading to functional closure.
 
 </details>
 
@@ -5251,7 +5251,7 @@ All of the following help in formation of IVC except -
 
 <details><summary>Answer</summary>
 
-**D. Subcardinal sinus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Subcardinal sinus** — **D. Subcardinal sinus** — IVC is formed by posterior intercardinal anastomosis, right vitelline vein terminal portion, and right subcardinal vein; subcardinal sinus is not a recognized contributor.
 
 </details>
 
@@ -5271,7 +5271,7 @@ All of the following are true about the liver except ?
 
 <details><summary>Answer</summary>
 
-**D. The lobules in the liver are pentagonal** — Source: Medicoholic 2016 PYQ compilation.
+**D. The lobules in the liver are pentagonal** — **D. The lobules in the liver are pentagonal** — Hepatic lobules are hexagonal in cross-section, not pentagonal; each lobule has a central vein with portal triads at corners.
 
 </details>
 
@@ -5291,7 +5291,7 @@ Hering's canal is present in ?
 
 <details><summary>Answer</summary>
 
-**B. Liver** — Source: Medicoholic 2016 PYQ compilation.
+**B. Liver** — **B. Liver** — Hering's canal (canal of Hering) connects hepatic canaliculi to bile ductules at the periportal zone of the liver; contains hepatic progenitor cells.
 
 </details>
 
@@ -5311,7 +5311,7 @@ Herring's bodies are present in?
 
 <details><summary>Answer</summary>
 
-**C. Neurohypophysis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Neurohypophysis** — **C. Neurohypophysis** — Herring bodies are neurosecretory granule accumulations in axon terminals of the posterior pituitary (neurohypophysis) containing ADH and oxytocin.
 
 </details>
 
@@ -5331,7 +5331,7 @@ Which of the followinglayer is absent in the esophagusa -
 
 <details><summary>Answer</summary>
 
-**B. Serosa** — Source: Medicoholic 2016 PYQ compilation.
+**B. Serosa** — **B. Serosa** — Esophagus lacks a serosal layer (replaced by adventitia); this explains why esophageal carcinoma spreads rapidly to adjacent structures without serosal barrier.
 
 </details>
 
@@ -5351,7 +5351,7 @@ Four carpal bones are present at what age?
 
 <details><summary>Answer</summary>
 
-**B. 4 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 4 years** — **B. 4 years** — Carpal ossification proceeds in sequence: capitate and hamate (birth), triquetrum (3 yr), lunate (4 yr); four centers present by age 4.
 
 </details>
 
@@ -5371,7 +5371,7 @@ Attachment on posterior surface of sacrum?
 
 <details><summary>Answer</summary>
 
-**A. Multifidus Lumborum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Multifidus Lumborum** — **A. Multifidus Lumborum** — Multifidus attaches to the posterior sacral surface; it is the deepest spinal extensor and primary stabilizer of the lumbar and sacral spine.
 
 </details>
 
@@ -5391,7 +5391,7 @@ Segment of bronchi distal to primary bifurcation?
 
 <details><summary>Answer</summary>
 
-**A. Primary bronchi** — Source: Medicoholic 2016 PYQ compilation.
+**A. Primary bronchi** — **A. Primary bronchi** — The trachea bifurcates at the carina into right and left primary (main) bronchi; these are the segments immediately distal to the primary bifurcation.
 
 </details>
 
@@ -5411,7 +5411,7 @@ Gall bladder is realted to which segment of the liver?
 
 <details><summary>Answer</summary>
 
-**D. IV** — Source: Medicoholic 2016 PYQ compilation.
+**D. IV** — **D. IV** — The gallbladder fossa lies on the inferior surface of segment IV (quadrate lobe) of the liver; segment IV is demarcated by the falciform ligament and gallbladder fossa.
 
 </details>
 
@@ -5431,7 +5431,7 @@ Which segment of liver drains on both sides ?
 
 <details><summary>Answer</summary>
 
-**A. I** — Source: Medicoholic 2016 PYQ compilation.
+**A. I** — **A. I** — Segment I (caudate lobe) has unique dual venous drainage directly into both right and left hepatic veins as well as the inferior vena cava.
 
 </details>
 
@@ -5451,7 +5451,7 @@ Content of Alcock's canal is ?
 
 <details><summary>Answer</summary>
 
-**A. Internal pudendal artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Internal pudendal artery** — **A. Internal pudendal artery** — Alcock's canal (pudendal canal) in the lateral wall of the ischiorectal fossa transmits the internal pudendal artery, vein, and pudendal nerve.
 
 </details>
 
@@ -5471,7 +5471,7 @@ Larynx below the vocal cords drain into ?
 
 <details><summary>Answer</summary>
 
-**A. Pretracheal lymph nodes** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pretracheal lymph nodes** — **A. Pretracheal lymph nodes** — Infraglottic larynx drains to pretracheal (Delphian) and paratracheal nodes; supraglottic drains to upper deep cervical nodes via superior laryngeal vessels.
 
 </details>
 
@@ -5491,7 +5491,7 @@ Maxillary tubercle gives attachment to ?
 
 <details><summary>Answer</summary>
 
-**B. Medial pterygoid** — Source: Medicoholic 2016 PYQ compilation.
+**B. Medial pterygoid** — **B. Medial pterygoid** — The medial pterygoid muscle has its deep head origin at the medial surface of the lateral pterygoid plate and its superficial head at the maxillary tuberosity.
 
 </details>
 
@@ -5511,7 +5511,7 @@ Which of the following nuclei belong to the general visceral afferent column?
 
 <details><summary>Answer</summary>
 
-**C. Dorsal nucleus of vagus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Dorsal nucleus of vagus** — **C. Dorsal nucleus of vagus** — The dorsal motor nucleus of vagus is a general visceral efferent nucleus (preganglionic parasympathetic); it receives visceral afferent input making it part of the GVA processing circuit.
 
 </details>
 
@@ -5531,7 +5531,7 @@ Right Recurrent laryngeal nerve loops around?
 
 <details><summary>Answer</summary>
 
-**A. Right subclavian artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Right subclavian artery** — **A. Right subclavian artery** — Right RLN separates from vagus at the thoracic inlet, loops posteriorly under the right subclavian artery, then ascends in the tracheoesophageal groove to the larynx.
 
 </details>
 
@@ -5551,7 +5551,7 @@ Left recurrent laryngeal passes between ?
 
 <details><summary>Answer</summary>
 
-**B. Trachea & esophagus** — Source: Medicoholic 2016 PYQ compilation.
+**B. Trachea & esophagus** — **B. Trachea & esophagus** — After looping under the aortic arch, the left recurrent laryngeal nerve ascends in the tracheoesophageal groove between the trachea and esophagus to reach the larynx.
 
 </details>
 
@@ -5571,7 +5571,7 @@ Chorda tympani is a branch of ?
 
 <details><summary>Answer</summary>
 
-**A. Facial nerve** — Source: Medicoholic 2016 PYQ compilation.
+**A. Facial nerve** — **A. Facial nerve** — Chorda tympani is a branch of the facial nerve (CN VII) carrying taste from anterior 2/3 of tongue and preganglionic parasympathetic fibers to submandibular and sublingual glands.
 
 </details>
 
@@ -5591,7 +5591,7 @@ Delphian nodes are ?
 
 <details><summary>Answer</summary>
 
-**A. Prelaryngeal nodes** — Source: Medicoholic 2016 PYQ compilation.
+**A. Prelaryngeal nodes** — **A. Prelaryngeal nodes** — Delphian nodes are prelaryngeal/pretracheal lymph nodes near the cricothyroid membrane; their enlargement indicates thyroid or laryngeal malignancy.
 
 </details>
 
@@ -5611,7 +5611,7 @@ Movement occuring at atlanto-axial joint?
 
 <details><summary>Answer</summary>
 
-**C. Rotation** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rotation** — **C. Rotation** — The atlantoaxial joint is a pivot joint allowing approximately 50% of total cervical rotation; the dens of C2 acts as the pivot, stabilized by the transverse ligament.
 
 </details>
 
@@ -5631,7 +5631,7 @@ Which of the following is not a permanent mucosal fold?
 
 <details><summary>Answer</summary>
 
-**D. Gastric rugae** — Source: Medicoholic 2016 PYQ compilation.
+**D. Gastric rugae** — **D. Gastric rugae** — Gastric rugae are temporary folds that flatten when the stomach distends; Heister's valves, transverse rectal folds, and plicae circularis are permanent structural folds.
 
 </details>
 
@@ -5651,7 +5651,7 @@ Measurement of intracellular fluid in a 50 years old male is done by?
 
 <details><summary>Answer</summary>
 
-**D. Indirectly** — Source: Medicoholic 2016 PYQ compilation.
+**D. Indirectly** — **D. Indirectly** — ICF cannot be measured directly; it is calculated indirectly as Total Body Water (measured by D2O or tritium) minus Extracellular Fluid volume.
 
 </details>
 
@@ -5671,7 +5671,7 @@ In cardiac muscles, T-tubules are present at?
 
 <details><summary>Answer</summary>
 
-**A. Z lines** — Source: Medicoholic 2016 PYQ compilation.
+**A. Z lines** — **A. Z lines** — In cardiac muscle, T-tubules are located at Z lines (unlike skeletal muscle where they are at A-I junctions); they facilitate rapid calcium release during excitation-contraction coupling.
 
 </details>
 
@@ -5691,7 +5691,7 @@ White fibers are present in which muscle?
 
 <details><summary>Answer</summary>
 
-**D. Hand muscles** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hand muscles** — **D. Hand muscles** — Intrinsic hand muscles (lumbricals, interossei) are predominantly fast-twitch (Type II/white) fibers for rapid fine movements; postural muscles contain more slow-twitch (red) fibers.
 
 </details>
 
@@ -5711,7 +5711,7 @@ Function of muscle spindle is?
 
 <details><summary>Answer</summary>
 
-**B. Muscle tone maintenance** — Source: Medicoholic 2016 PYQ compilation.
+**B. Muscle tone maintenance** — **B. Muscle tone maintenance** — Muscle spindles (intrafusal fibers) detect muscle stretch and via gamma motor neurons maintain baseline muscle tone through the stretch reflex arc.
 
 </details>
 
@@ -5731,7 +5731,7 @@ Stereocilia are present in?
 
 <details><summary>Answer</summary>
 
-**B. Hair cells** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hair cells** — **B. Hair cells** — Stereocilia are mechanosensory microvilli on cochlear and vestibular hair cells; they deflect in response to sound/movement, opening mechanically gated ion channels for transduction.
 
 </details>
 
@@ -5751,7 +5751,7 @@ CSF is present in which space?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — CSF occupies the subarachnoid space, ventricular system (lateral, third, fourth ventricles), and central canal of the spinal cord, totaling approximately 150 mL.
 
 </details>
 
