@@ -28163,7 +28163,7 @@ Which of the following provides excellent details about the chemodectomas?
 
 <details><summary>Answer</summary>
 
-**C. MRI** — Source: Medicoholic 2016 PYQ compilation.
+**C. MRI** — **C. MRI** — MRI provides excellent soft-tissue detail of chemodectomas (paragangliomas/glomus tumors) showing characteristic "salt-and-pepper" appearance from flow voids; superior to CT for skull base extension.
 
 </details>
 
@@ -28181,7 +28181,7 @@ Indication for surgical compartment release in compartment Syndrome in any compa
 
 <details><summary>Answer</summary>
 
-**C. 30 mm Hg** — Source: Medicoholic 2016 PYQ compilation.
+**C. 30 mm Hg** — **C. 30 mm Hg** — Absolute compartment pressure >30 mmHg or delta pressure (DBP - compartment pressure) <30 mmHg indicates surgical fasciotomy for acute compartment syndrome to prevent muscle necrosis.
 
 </details>
 
@@ -28199,7 +28199,7 @@ Which of the following is not seen in patent ductus arteriosus?
 
 <details><summary>Answer</summary>
 
-**D. Attenuated SI** — Source: Medicoholic 2016 PYQ compilation.
+**D. Attenuated SI** — **D. Attenuated S1** — PDA causes loud (not attenuated) S1, machinery murmur (continuous), LA hypertrophy and LV enlargement from volume overload via L→R shunt; later S2 may be loud (pulmonary HTN).
 
 </details>
 
@@ -28217,7 +28217,7 @@ Which of the following statement is true for physiological jaundice in neonate?
 
 <details><summary>Answer</summary>
 
-**D. Starts on 2nd day of life** — Source: Medicoholic 2016 PYQ compilation.
+**D. Starts on 2nd day of life** — **D. Starts on 2nd day of life** — Physiological neonatal jaundice appears AFTER 24-48 hours (peaks day 3-5), resolves by 1-2 weeks; jaundice in first 24 hours is always pathological.
 
 </details>
 
@@ -28235,7 +28235,7 @@ Content of Na' in ringer lactate is meq/1-
 
 <details><summary>Answer</summary>
 
-**C. 130** — Source: Medicoholic 2016 PYQ compilation.
+**C. 130** — **C. 130** — Ringer lactate composition (mEq/L): Na 130, Cl 109, K 4, Ca 3, lactate 28; isotonic crystalloid; normal saline contains Na 154 mEq/L.
 
 </details>
 
@@ -28253,7 +28253,7 @@ Content of Na' in ringer lactate is meq/1-
 
 <details><summary>Answer</summary>
 
-**A. External genitalia** — Source: Medicoholic 2016 PYQ compilation.
+**A. External genitalia** — **A. External genitalia** — 5α-DHT (converted from testosterone by 5α-reductase) is essential for male external genitalia (penis, scrotum, prostate); testosterone itself drives Wolffian-derived internal genitalia.
 
 </details>
 
@@ -28271,7 +28271,7 @@ True about Asperger syndrome:
 
 <details><summary>Answer</summary>
 
-**B. Repetitive activity pattern** — Source: Medicoholic 2016 PYQ compilation.
+**B. Repetitive activity pattern** — **B. Repetitive activity pattern** — Asperger syndrome (high-functioning ASD): restricted/repetitive interests, impaired social interaction, BUT preserved language and normal intelligence; M:F ratio is high (more in boys).
 
 </details>
 
@@ -28289,7 +28289,7 @@ Pectus excavatum is
 
 <details><summary>Answer</summary>
 
-**B. Sternal depression** — Source: Medicoholic 2016 PYQ compilation.
+**B. Sternal depression** — **B. Sternal depression** — Pectus excavatum ("funnel chest") is inward depression of sternum/lower costal cartilages; pectus carinatum ("pigeon chest") is sternal protrusion.
 
 </details>
 
@@ -28307,7 +28307,7 @@ Arrange the following milestones in the correct order of their attainment I. Bui
 
 <details><summary>Answer</summary>
 
-**B. I → II → III → IV** — Source: Medicoholic 2016 PYQ compilation.
+**B. I → II → III → IV** — **B. I → II → III → IV** — Developmental order: tower of 4 cubes (18 mo) → simple sentences (24 mo) → draw circle (3 yr) → later milestones; matches normal milestone progression.
 
 </details>
 
@@ -28325,7 +28325,7 @@ Most dangerous type of odontoid fracture as per Anderson and D' Alonzo classific
 
 <details><summary>Answer</summary>
 
-**B. Type II - screw fixation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Type II - screw fixation** — **B. Type II - screw fixation** — Anderson-D'Alonzo Type II odontoid fracture (at base of dens) is most unstable with poor blood supply and high non-union risk; treated with anterior odontoid screw fixation.
 
 </details>
 
@@ -28343,7 +28343,7 @@ Treatment of scaphoid fracture
 
 <details><summary>Answer</summary>
 
-**A. Conservative** — Source: Medicoholic 2016 PYQ compilation.
+**A. Conservative** — **A. Conservative** — Undisplaced scaphoid fractures are treated conservatively in thumb spica cast for 6-12 weeks; displaced (>1 mm) or proximal pole fractures need screw fixation due to avascular necrosis risk.
 
 </details>
 
@@ -28361,7 +28361,7 @@ Which of the following is the management for neglected case of CTEV in a patient
 
 <details><summary>Answer</summary>
 
-**A. Triple arthrodesis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Triple arthrodesis** — **A. Triple arthrodesis** — In neglected/rigid CTEV beyond 10 years, soft tissue corrections fail; triple arthrodesis (talocalcaneal, talonavicular, calcaneocuboid fusion) corrects deformity and stabilizes the foot.
 
 </details>
 
@@ -28379,7 +28379,7 @@ Which of the following is not true about the management of potts paraplegia?
 
 <details><summary>Answer</summary>
 
-**C. Decompression via anterolateral approach is most preferred** — Source: Medicoholic 2016 PYQ compilation.
+**C. Decompression via anterolateral approach is most preferred** — **C. Decompression via anterolateral approach is most preferred** — Anterior approach (transthoracic/transpleural) is most preferred for thoracic Pott's disease as the disease is anterior (vertebral body); anterolateral approach has limited exposure.
 
 </details>
 
@@ -28397,7 +28397,7 @@ X-ray appearance of sequestrum is -
 
 <details><summary>Answer</summary>
 
-**A. Unnatural radiodense fragments** — Source: Medicoholic 2016 PYQ compilation.
+**A. Unnatural radiodense fragments** — **A. Unnatural radiodense fragments** — Sequestrum on X-ray appears as a dense (sclerotic) avascular bone fragment surrounded by radiolucent granulation tissue (involucrum); pathognomonic of chronic osteomyelitis.
 
 </details>
 
@@ -28415,7 +28415,7 @@ Most mobile segment of vertebral column is -
 
 <details><summary>Answer</summary>
 
-**A. Cervical** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cervical** — **A. Cervical** — Cervical spine is the most mobile region of vertebral column allowing flexion-extension, lateral bending, and rotation (especially C1-C2 axial rotation ~50% of total cervical rotation).
 
 </details>
 
@@ -28433,7 +28433,7 @@ Treatment of choice in Acute myositis ossificans is:
 
 <details><summary>Answer</summary>
 
-**A. Immobilization of elbow** — Source: Medicoholic 2016 PYQ compilation.
+**A. Immobilization of elbow** — **A. Immobilization of elbow** — Acute myositis ossificans treatment: rest, immobilization, and analgesics; passive movements and massage are CONTRAINDICATED as they aggravate heterotopic bone formation.
 
 </details>
 
@@ -28451,7 +28451,7 @@ What is the treatment for patient with hypertrophic nonunion with deformity at f
 
 <details><summary>Answer</summary>
 
-**B. Fixation only** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fixation only** — **B. Fixation only** — Hypertrophic nonunion has abundant callus but inadequate stability; rigid internal fixation with deformity correction alone suffices; bone grafting needed only for atrophic nonunion.
 
 </details>
 
@@ -28469,7 +28469,7 @@ An infertile woman has bilateral tubal block at cornua diagnosed on hysterosalpi
 
 <details><summary>Answer</summary>
 
-**B. Laparoscopy and hysteroscopy** — Source: Medicoholic 2016 PYQ compilation.
+**B. Laparoscopy and hysteroscopy** — **B. Laparoscopy and hysteroscopy** — Cornual block on HSG can be falsely positive due to tubal spasm; laparoscopy with chromopertubation plus hysteroscopic cornual cannulation confirms diagnosis and may correct block.
 
 </details>
 
@@ -28487,7 +28487,7 @@ What is monitored in a patient of pre eclamsia ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Pre-eclampsia monitoring (PIH/HELLP workup): uric acid (rises early), platelet count (HELLP), LFTs (hepatic involvement), creatinine, urine protein, and fetal surveillance.
 
 </details>
 
@@ -28505,7 +28505,7 @@ Patient with choriocarcinoma & jaundice, treatment of choice is ?
 
 <details><summary>Answer</summary>
 
-**B. Actinomycin D** — Source: Medicoholic 2016 PYQ compilation.
+**B. Actinomycin D** — **B. Actinomycin D** — In choriocarcinoma with hepatic involvement/jaundice, methotrexate is hepatotoxic; actinomycin D (dactinomycin) is preferred single-agent or as part of EMA-CO regimen.
 
 </details>
 
@@ -28523,7 +28523,7 @@ DOC for medical management of ectopic pegnancy ?
 
 <details><summary>Answer</summary>
 
-**B. Intramuscular Methotrexate** — Source: Medicoholic 2016 PYQ compilation.
+**B. Intramuscular Methotrexate** — **B. Intramuscular Methotrexate** — IM methotrexate (50 mg/m² single dose) is the drug of choice for medical management of unruptured ectopic pregnancy <3.5 cm, β-hCG <5000, no fetal cardiac activity.
 
 </details>
 
@@ -28541,7 +28541,7 @@ Choice of adjuvant treatment for endometrial carcinoma stage IA, grade I is?
 
 <details><summary>Answer</summary>
 
-**D. No treatment** — Source: Medicoholic 2016 PYQ compilation.
+**D. No treatment** — **D. No treatment** — Stage IA grade I endometrial carcinoma (low-risk) has excellent prognosis with total hysterectomy and BSO alone; adjuvant radiotherapy/chemotherapy not indicated.
 
 </details>
 
@@ -28559,7 +28559,7 @@ Nugent score includes all except -
 
 <details><summary>Answer</summary>
 
-**D. Gonococcus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Gonococcus** — **D. Gonococcus** — Nugent score for bacterial vaginosis grades Lactobacilli (large gram-positive rods), Gardnerella/Bacteroides (gram-variable rods), and Mobiluncus (curved gram-negative rods); gonococcus is not part of scoring.
 
 </details>
 
@@ -28577,7 +28577,7 @@ A pregnant lady presents with genital warts. The best management for her is ?
 
 <details><summary>Answer</summary>
 
-**D. Cryotherapy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cryotherapy** — **D. Cryotherapy** — Cryotherapy with liquid nitrogen is safe in pregnancy for genital warts; podophyllin/podofilox, imiquimod, and 5-FU are contraindicated due to teratogenicity; TCA also acceptable.
 
 </details>
 
@@ -28595,7 +28595,7 @@ LNG content of Mirena is -
 
 <details><summary>Answer</summary>
 
-**D. 52 mgs** — Source: Medicoholic 2016 PYQ compilation.
+**D. 52 mgs** — **D. 52 mgs** — Mirena IUS contains 52 mg of levonorgestrel in reservoir, releasing 20 µg/day initially; effective for 5-7 years for contraception and treatment of menorrhagia.
 
 </details>
 
@@ -28613,7 +28613,7 @@ Patient with 45 XO , what HRT to be given ?
 
 <details><summary>Answer</summary>
 
-**A. Growth hormone + E+P** — Source: Medicoholic 2016 PYQ compilation.
+**A. Growth hormone + E+P** — **A. Growth hormone + E+P** — Turner syndrome (45XO) management: growth hormone to optimize stature, then estrogen-progesterone replacement at puberty to induce secondary sexual characteristics and maintain bone density.
 
 </details>
 
@@ -28631,7 +28631,7 @@ Symptoms of menopause are all except ?
 
 <details><summary>Answer</summary>
 
-**D. Intermittent hypotension** — Source: Medicoholic 2016 PYQ compilation.
+**D. Intermittent hypotension** — **D. Intermittent hypotension** — Menopause vasomotor symptoms include hot flushes, night sweats, decreased libido, mood swings, vaginal dryness; hypotension is NOT a menopausal symptom.
 
 </details>
 
@@ -28649,7 +28649,7 @@ Factors responsible for development of OHSS include ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Ovarian hyperstimulation syndrome pathogenesis involves VEGF (vascular leak), histamine, prostaglandins, renin-angiotensin, and cytokines; hCG triggers VEGF release from granulosa cells.
 
 </details>
 
@@ -28667,7 +28667,7 @@ Azoospermic patient can be a father of
 
 <details><summary>Answer</summary>
 
-**C. ICSI** — Source: Medicoholic 2016 PYQ compilation.
+**C. ICSI** — **C. ICSI** — In non-obstructive azoospermia, sperm can be retrieved by TESA/TESE/micro-TESE and used for intracytoplasmic sperm injection (ICSI) to achieve biological fatherhood.
 
 </details>
 
@@ -28685,7 +28685,7 @@ Which of the following is not a soft tissue marker of Down syndrome on USG ?
 
 <details><summary>Answer</summary>
 
-**D. Polydactyly** — Source: Medicoholic 2016 PYQ compilation.
+**D. Polydactyly** — **D. Polydactyly** — Polydactyly is associated with Trisomy 13 (Patau) not Down syndrome (Trisomy 21); Down USG soft markers include increased NT, absent nasal bone, exomphalos, hyperechoic bowel, echogenic cardiac focus.
 
 </details>
 
@@ -28703,7 +28703,7 @@ In a case of recurrent spontaneous abortion the following investigation is unwan
 
 <details><summary>Answer</summary>
 
-**C. Testing for TORCH infections** — Source: Medicoholic 2016 PYQ compilation.
+**C. Testing for TORCH infections** — **C. Testing for TORCH infections** — TORCH infections typically cause sporadic (not recurrent) pregnancy loss; recurrent abortion workup includes APLA, thyroid function, karyotyping, hysteroscopy, thrombophilia — TORCH not recommended.
 
 </details>
 
@@ -28721,7 +28721,7 @@ Selenium sulphide is used in the treatment of?
 
 <details><summary>Answer</summary>
 
-**B. T. versicolor** — Source: Medicoholic 2016 PYQ compilation.
+**B. T. versicolor** — **B. T. versicolor** — Selenium sulfide 2.5% shampoo is effective antifungal for tinea (pityriasis) versicolor caused by Malassezia furfur; also used for seborrheic dermatitis and dandruff.
 
 </details>
 
@@ -28739,7 +28739,7 @@ Treatment for impetigo includes all except?
 
 <details><summary>Answer</summary>
 
-**C. Topical gentamycin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Topical gentamycin** — **C. Topical gentamycin** — Impetigo treatment: topical mupirocin/fusidic acid (localized), systemic flucloxacillin/erythromycin/cephalosporins (extensive); topical gentamicin causes resistance and is not recommended.
 
 </details>
 
@@ -28757,7 +28757,7 @@ Resorcinol is used in the treatment of?
 
 <details><summary>Answer</summary>
 
-**B. Acne** — Source: Medicoholic 2016 PYQ compilation.
+**B. Acne** — **B. Acne** — Resorcinol is a keratolytic agent used in topical acne preparations (often combined with sulfur); peels comedones and reduces hyperkeratosis.
 
 </details>
 
@@ -28775,7 +28775,7 @@ Treatment of choice for scabies in an infant < 6 months is?
 
 <details><summary>Answer</summary>
 
-**D. Crotomiton** — Source: Medicoholic 2016 PYQ compilation.
+**D. Crotomiton** — **D. Crotamiton** — Crotamiton 10% lotion is safe and treatment of choice for scabies in infants <2 months/6 months; permethrin approved for >2 months; lindane and ivermectin contraindicated in infants.
 
 </details>
 
@@ -28793,7 +28793,7 @@ Oral treatment of choice for scabies is?
 
 <details><summary>Answer</summary>
 
-**D. Ivermactin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Ivermactin** — **D. Ivermectin** — Oral ivermectin (200 µg/kg, two doses 1 week apart) is the drug of choice for oral scabies treatment, especially in epidemics, crusted (Norwegian) scabies, and immunocompromised patients.
 
 </details>
 
@@ -28811,7 +28811,7 @@ Treatment of choice for erytherodermic psoriasis is?
 
 <details><summary>Answer</summary>
 
-**C. Acitretin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Acitretin** — **C. Acitretin** — Acitretin (oral retinoid) is the treatment of choice for erythrodermic psoriasis; systemic steroids are AVOIDED due to rebound flare on withdrawal; cyclosporine alternative for severe cases.
 
 </details>
 
@@ -28829,7 +28829,7 @@ CNS affection of a local anesthetic agent leads to?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Local anesthetic CNS toxicity progresses: perioral numbness/tinnitus → lightheadedness → muscle twitching → convulsions → coma/depression; biphasic excitation then depression of CNS.
 
 </details>
 
@@ -28847,7 +28847,7 @@ Which of the following inhalational anesthetic agent most easily crosses blood b
 
 <details><summary>Answer</summary>
 
-**A. Methoxyflurane** — Source: Medicoholic 2016 PYQ compilation.
+**A. Methoxyflurane** — **A. Methoxyflurane** — Methoxyflurane has the highest lipid solubility (oil:gas coefficient = 970) of inhalational anesthetics, easily crossing the lipid blood-brain barrier; highest potency (lowest MAC).
 
 </details>
 
@@ -28865,7 +28865,7 @@ Which of the following anesthetic agent most is lipid soluble?
 
 <details><summary>Answer</summary>
 
-**B. Methoxyflurane** — Source: Medicoholic 2016 PYQ compilation.
+**B. Methoxyflurane** — **B. Methoxyflurane** — Methoxyflurane has the highest oil:gas partition coefficient (~970), making it the most lipid-soluble inhalational anesthetic; correlates with highest potency (lowest MAC 0.16%).
 
 </details>
 
@@ -28883,7 +28883,7 @@ A patient with normal succinylcholine metabolism will have Dibucaine number betw
 
 <details><summary>Answer</summary>
 
-**D. 70-80** — Source: Medicoholic 2016 PYQ compilation.
+**D. 70-80** — **D. 70-80** — Dibucaine number measures pseudocholinesterase activity by % inhibition by dibucaine: normal 70-80, heterozygous atypical ~50, homozygous atypical ~20 (prolonged paralysis after succinylcholine).
 
 </details>
 
@@ -28901,7 +28901,7 @@ Which of the following agent is associated with maximum histamine release?
 
 <details><summary>Answer</summary>
 
-**A. d-Tubocurarine** — Source: Medicoholic 2016 PYQ compilation.
+**A. d-Tubocurarine** — **A. d-Tubocurarine** — d-Tubocurarine causes the maximum histamine release among neuromuscular blockers leading to hypotension and bronchospasm; mivacurium and atracurium also release histamine; vecuronium/rocuronium minimal.
 
 </details>
 
@@ -28919,7 +28919,7 @@ Anesthetic agent leading to bradycardia is?
 
 <details><summary>Answer</summary>
 
-**D. Propofol** — Source: Medicoholic 2016 PYQ compilation.
+**D. Propofol** — **D. Propofol** — Propofol causes bradycardia and hypotension through vagal stimulation and direct myocardial depression; pancuronium has vagolytic effect (tachycardia); vecuronium and atracurium are cardiovascularly stable.
 
 </details>
 
@@ -28937,7 +28937,7 @@ Pin index system is a safety feature adopted in anesthesia machines to prevent?
 
 <details><summary>Answer</summary>
 
-**D. Incorrect gas cylinder attachment** — Source: Medicoholic 2016 PYQ compilation.
+**D. Incorrect gas cylinder attachment** — **D. Incorrect gas cylinder attachment** — Pin Index Safety System (PISS) uses unique pin configurations on cylinder yokes for different medical gases (O2, N2O, air) preventing wrong cylinder connection.
 
 </details>
 
@@ -28955,7 +28955,7 @@ Anesthetic agent of choice in asthma patient is?
 
 <details><summary>Answer</summary>
 
-**C. Ketamine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ketamine** — **C. Ketamine** — Ketamine is the induction agent of choice in asthma due to its potent bronchodilator effects via sympathomimetic activity and direct smooth muscle relaxation; ideal for status asthmaticus.
 
 </details>
 
@@ -28973,7 +28973,7 @@ Mallampatti's classification is for?
 
 <details><summary>Answer</summary>
 
-**D. Inspection of oral cavity before intubation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Inspection of oral cavity before intubation** — **D. Inspection of oral cavity before intubation** — Mallampati classification (I-IV) is based on visibility of soft palate, uvula, and pillars on mouth opening; predicts difficult laryngoscopy/intubation; assessed in seated position with tongue protruded.
 
 </details>
 
@@ -28991,7 +28991,7 @@ Thickness of lead apron to prevent radiation:
 
 <details><summary>Answer</summary>
 
-**C. 0.5 mm** — Source: Medicoholic 2016 PYQ compilation.
+**C. 0.5 mm** — **C. 0.5 mm** — Standard lead apron thickness is 0.25-0.5 mm lead equivalent; provides ~90% attenuation of scattered radiation at diagnostic energies; 0.5 mm recommended for prolonged fluoroscopy exposure.
 
 </details>
 
@@ -29009,7 +29009,7 @@ Radiation used most commonly for pain management due to bone metastasis is -
 
 <details><summary>Answer</summary>
 
-**A. Co60** — Source: Medicoholic 2016 PYQ compilation.
+**A. Co60** — **A. Co60** — Cobalt-60 external beam radiotherapy (gamma rays, 1.17/1.33 MeV) is most commonly used for palliative pain relief in bone metastases; bone-seeking radioisotopes (Sr-89, Sm-153) are alternatives.
 
 </details>
 
@@ -29027,7 +29027,7 @@ A Bone marrow transplant recipient patientdeveloped chest infection. On HRCT 'Tr
 
 <details><summary>Answer</summary>
 
-**B. Pneumocystis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pneumocystis** — **B. Pneumocystis** — In BMT recipient with tree-in-bud HRCT pattern, Pneumocystis jirovecii pneumonia is the likely diagnosis (immunocompromised); also seen in CMV, viral, and TB infections.
 
 </details>
 
@@ -29045,7 +29045,7 @@ Confabulation is?
 
 <details><summary>Answer</summary>
 
-**C. Filling up to gaps by fabrication to cover lapses in memory** — Source: Medicoholic 2016 PYQ compilation.
+**C. Filling up to gaps by fabrication to cover lapses in memory** — **C. Filling up gaps by fabrication to cover lapses in memory** — Confabulation is unconscious fabrication of false memories to fill gaps in amnesia; classic in Korsakoff syndrome (thiamine deficiency), Alzheimer disease.
 
 </details>
 
@@ -29063,7 +29063,7 @@ A 39 years old male patient presents with waxy flexibility, negativism and rigid
 
 <details><summary>Answer</summary>
 
-**B. Stuporous catatonia** — Source: Medicoholic 2016 PYQ compilation.
+**B. Stuporous catatonia** — **B. Stuporous catatonia** — Waxy flexibility (catalepsy), negativism, rigidity, mutism, posturing are classic features of stuporous (akinetic) catatonia; treated with lorazepam or ECT.
 
 </details>
 
@@ -29081,7 +29081,7 @@ Most appropriate test for child psychologist to evaluate the intellectual abilit
 
 <details><summary>Answer</summary>
 
-**A. Stanford Binet scale** — Source: Medicoholic 2016 PYQ compilation.
+**A. Stanford Binet scale** — **A. Stanford Binet scale** — Stanford-Binet Intelligence Scales (5th edition) is preferred for assessing IQ in young children (age 2+) and intellectual disability; Wechsler scales used for older children/adults.
 
 </details>
 
@@ -29099,7 +29099,7 @@ Treatment of choice for akathesia is?
 
 <details><summary>Answer</summary>
 
-**B. Propranolol** — Source: Medicoholic 2016 PYQ compilation.
+**B. Propranolol** — **B. Propranolol** — Propranolol (lipid-soluble beta blocker) is the treatment of choice for antipsychotic-induced akathisia; benzodiazepines and anticholinergics are alternatives.
 
 </details>
 
@@ -29117,7 +29117,7 @@ Cardinal element of behavior therapy is?
 
 <details><summary>Answer</summary>
 
-**B. Learning** — Source: Medicoholic 2016 PYQ compilation.
+**B. Learning** — **B. Learning** — Behavior therapy is based on learning theory (classical conditioning, operant conditioning, modeling); behavior is learned and can be unlearned through systematic conditioning techniques.
 
 </details>
 
@@ -29135,7 +29135,7 @@ Tolerance is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Alcohol dependent syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**A. Alcohol dependent syndrome** — **A. Alcohol dependent syndrome** — Tolerance (need for increasing doses to achieve same effect) is a core feature of substance dependence syndromes including alcohol, opioids, sedatives; not a feature of schizophrenia or OCD.
 
 </details>
 
@@ -29153,7 +29153,7 @@ A 25 years old male c/o recurrent abdominal pain but biochemical assays and ultr
 
 <details><summary>Answer</summary>
 
-**D. Factitious disorder** — Source: Medicoholic 2016 PYQ compilation.
+**D. Factitious disorder** — **D. Factitious disorder** — Recurrent unexplained somatic complaints (abdominal pain, headache, vision loss) with normal investigations and intentional symptom production for sick-role gain indicates factitious disorder (Munchausen).
 
 </details>
 
@@ -29171,7 +29171,7 @@ TCAs are contraindicated in all of the following except?
 
 <details><summary>Answer</summary>
 
-**D. Impaired renal function** — Source: Medicoholic 2016 PYQ compilation.
+**D. Impaired renal function** — **D. Impaired renal function** — TCAs are primarily hepatically metabolized and can be used cautiously in renal impairment; contraindicated in narrow-angle glaucoma (mydriasis), BPH (urinary retention), and with MAOIs (serotonin syndrome).
 
 </details>
 
@@ -29189,7 +29189,7 @@ DOC for schizophrenic patient with poor oral absorption is?
 
 <details><summary>Answer</summary>
 
-**B. Fluphenazine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fluphenazine** — **B. Fluphenazine** — Fluphenazine decanoate is a long-acting depot injectable antipsychotic (every 2-4 weeks IM) ideal for non-compliant or poor-oral-absorption schizophrenia patients; haloperidol decanoate is alternative.
 
 </details>
 

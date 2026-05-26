@@ -2481,7 +2481,7 @@ Freud’s theory of dream includes all except
 
 <details><summary>Answer</summary>
 
-**D. Correlation**
+**D. Correlation** — **D. Correlation** — Freud's dreamwork mechanisms include displacement (transferring emotional significance), condensation (merging multiple ideas), symbolisation, and secondary revision; correlation is not a Freudian dreamwork concept.
 
 </details>
 
