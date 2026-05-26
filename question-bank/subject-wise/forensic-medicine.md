@@ -1043,7 +1043,7 @@ Alkaline diuresis in acidic drug poisoning is not done in ?
 
 <details><summary>Answer</summary>
 
-**C. Morphine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Morphine** — **C. Morphine** — Morphine is a weak base, not an acid; alkaline diuresis (NaHCO3) ion-traps weak acids (salicylates, phenobarbitone, methotrexate). Morphine poisoning is treated with naloxone.
 
 </details>
 
@@ -1061,7 +1061,7 @@ Not a feature of postmortem staining -
 
 <details><summary>Answer</summary>
 
-**A. Occur immediate after death** — Source: Medicoholic 2015 PYQ compilation.
+**A. Occur immediate after death** — **A. Occur immediate after death** — Postmortem lividity (hypostasis) starts 30 min–2 hours after death, becomes fixed by 6–12 hours; appears in dependent parts, has sharp margins, and fades with putrefaction.
 
 </details>
 
@@ -1079,7 +1079,7 @@ Best temperature for putrefaction is -
 
 <details><summary>Answer</summary>
 
-**B. 10-45 C** — Source: Medicoholic 2015 PYQ compilation.
+**B. 10-45 C** — **B. 10-45 C** — Optimum temperature for bacterial putrefaction is 21–38°C (range 10–45°C); below 10°C or above 45°C, enzyme/bacterial activity is halted and decomposition is delayed.
 
 </details>
 
@@ -1097,7 +1097,7 @@ Best indicator of antemortem drowning is: Delhi 07; TN 11
 
 <details><summary>Answer</summary>
 
-**A. Froth in nostrils** — Source: Medicoholic 2015 PYQ compilation.
+**A. Froth in nostrils** — **A. Froth in nostrils** — Fine, leathery, tenacious white/blood-tinged froth at mouth/nostrils (Champignon de mousse) is the most reliable sign of antemortem drowning; produced by violent respiratory efforts mixing air, water, and mucus.
 
 </details>
 
@@ -1115,7 +1115,7 @@ Arsenic poisoning presents with symptoms mimicking
 
 <details><summary>Answer</summary>
 
-**A. Cholera** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cholera** — **A. Cholera** — Acute arsenic poisoning causes profuse rice-water diarrhoea, severe vomiting, dehydration, garlicky breath, and shock — clinically indistinguishable from cholera (called 'cholera nostras').
 
 </details>
 
@@ -1133,7 +1133,7 @@ Which of the following is most specific for arsenic poisoning ?
 
 <details><summary>Answer</summary>
 
-**A. Red velvety stomach mucosa** — Source: Medicoholic 2015 PYQ compilation.
+**A. Red velvety stomach mucosa** — **A. Red velvety stomach mucosa** — Acute arsenic poisoning produces characteristic red-velvety congestion of gastric mucosa with submucosal petechiae; blue gum line is lead, tremors are mercury.
 
 </details>
 
@@ -1151,7 +1151,7 @@ Arrow poison is ?
 
 <details><summary>Answer</summary>
 
-**B. Curare** — Source: Medicoholic 2015 PYQ compilation.
+**B. Curare** — **B. Curare** — d-Tubocurarine (from Chondrodendron) was the classic South American arrow poison; non-depolarising neuromuscular blocker causing flaccid paralysis and death by respiratory failure.
 
 </details>
 
@@ -1169,7 +1169,7 @@ Best method of treatment of Methyl alcohol poisoning is :
 
 <details><summary>Answer</summary>
 
-**B. Ethyl alcohol** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ethyl alcohol** — **B. Ethyl alcohol** — Ethanol (or fomepizole) competitively inhibits alcohol dehydrogenase (higher affinity), preventing methanol's conversion to toxic formaldehyde/formic acid; bicarbonate and folate are adjuncts.
 
 </details>
 
@@ -1187,7 +1187,7 @@ Miner's cramps are also called: NEET 13
 
 <details><summary>Answer</summary>
 
-**B. Heat cramps** — Source: Medicoholic 2015 PYQ compilation.
+**B. Heat cramps** — **B. Heat cramps** — Miner's/stoker's/fireman's cramps are painful muscle spasms due to excessive sweating with salt loss in hot environments; synonymous with heat cramps. Treated with oral/IV saline.
 
 </details>
 
@@ -1205,7 +1205,7 @@ Corona mortis is ?
 
 <details><summary>Answer</summary>
 
-**A. Is a vascular anastomosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Is a vascular anastomosis** — **A. Is a vascular anastomosis** — Corona mortis ('crown of death') is an anastomosis between the obturator and external iliac/inferior epigastric arteries crossing the superior pubic ramus; risk of catastrophic haemorrhage during pelvic surgery.
 
 </details>
 
@@ -1223,7 +1223,7 @@ Which of the following can be used for obtaining specimen for isolation of micro
 
 <details><summary>Answer</summary>
 
-**A. Meningococcal rash** — Source: Medicoholic 2015 PYQ compilation.
+**A. Meningococcal rash** — **A. Meningococcal rash** — Petechial/purpuric meningococcal skin lesions contain N. meningitidis and can be aspirated/scraped for culture; staphylococcal food poisoning is toxin-mediated (no bacteremia), Rh fever/PSGN are post-infectious.
 
 </details>
 
@@ -1241,7 +1241,7 @@ Which is not an aryl organophosphate ?
 
 <details><summary>Answer</summary>
 
-**A. Malathion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Malathion** — **A. Malathion** — Malathion is an alkyl (aliphatic) organophosphate; parathion, chlorthion, methyl-parathion, diazinon are aryl organophosphates. Alkyl OPs are hydrolysed faster and reactivated by oximes.
 
 </details>
 
@@ -1259,7 +1259,7 @@ MC cause of delirium ?
 
 <details><summary>Answer</summary>
 
-**A. Infection** — Source: Medicoholic 2015 PYQ compilation.
+**A. Infection** — **A. Infection** — Infection (especially UTI, pneumonia) is the most common cause of delirium, particularly in elderly; followed by metabolic disturbances, drugs, and electrolyte imbalance.
 
 </details>
 
@@ -1277,7 +1277,7 @@ True about flumazenil is ?
 
 <details><summary>Answer</summary>
 
-**C. Can be used in benzodiazepine overdose** — Source: Medicoholic 2015 PYQ compilation.
+**C. Can be used in benzodiazepine overdose** — **C. Can be used in benzodiazepine overdose** — Flumazenil is a competitive benzodiazepine receptor antagonist; reverses BZD-induced sedation/respiratory depression. No effect on barbiturates; naloxone is opioid antidote.
 
 </details>
 
@@ -1298,7 +1298,7 @@ Rigor mortis occurs due to:
 
 <details><summary>Answer</summary>
 
-**C. Muscle of the body began to stiffen** — Source: Medicoholic 2016 PYQ compilation.
+**C. Muscle of the body began to stiffen** — **C. Muscle of the body began to stiffen** — Rigor mortis is postmortem muscle stiffening due to ATP depletion preventing actin-myosin cross-bridge dissociation; starts 1–2 h, completes 12 h, passes off 24–36 h.
 
 </details>
 
@@ -1318,7 +1318,7 @@ Which is the best temperature for putrefaction?
 
 <details><summary>Answer</summary>
 
-**C. 30 degrees C** — Source: Medicoholic 2016 PYQ compilation.
+**C. 30 degrees C** — **C. 30 degrees C** — Optimum temperature for bacterial decomposition is around 21–38°C (best ~30°C, body warm and bacterial enzymes most active); cold (<10°C) and heat (>45°C) inhibit putrefaction.
 
 </details>
 
@@ -1338,7 +1338,7 @@ Bansdola is a form of strangulation by: NEET 14
 
 <details><summary>Answer</summary>
 
-**C. Wooden sticks** — Source: Medicoholic 2016 PYQ compilation.
+**C. Wooden sticks** — **C. Wooden sticks** — Bansdola is an Indian method of strangulation using two sticks/bamboos placed across the front and back of the neck, tied at ends and compressed; leaves wide horizontal abrasion marks.
 
 </details>
 
@@ -1358,7 +1358,7 @@ Pure motor palsy seen in poisoning of
 
 <details><summary>Answer</summary>
 
-**A. Lead poisoning** — Source: Medicoholic 2016 PYQ compilation.
+**A. Lead poisoning** — **A. Lead poisoning** — Chronic lead poisoning causes pure motor neuropathy with wrist drop (radial nerve) and foot drop; sensory fibres relatively spared. Other features: blue lining, basophilic stippling, anaemia.
 
 </details>
 
@@ -1378,7 +1378,7 @@ True about acid poisoning is
 
 <details><summary>Answer</summary>
 
-**A. Greatest damage is along the lesser curvature** — Source: Medicoholic 2016 PYQ compilation.
+**A. Greatest damage is along the lesser curvature** — **A. Greatest damage is along the lesser curvature** — Ingested acids cause coagulation necrosis along the gastric lesser curvature ('Magenstrasse'); perforation highest with sulphuric acid; vitriolage = throwing acid on face.
 
 </details>
 
@@ -1398,7 +1398,7 @@ Not a contact poison: MAHE 14
 
 <details><summary>Answer</summary>
 
-**A. Pyrethrum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pyrethrum** — **A. Pyrethrum** — As per the key; Paris green (copper acetoarsenite), rotenone, eucalyptus oil act on contact; pyrethrum acts as both stomach and contact insecticide but classed differently in this question.
 
 </details>
 
@@ -1418,7 +1418,7 @@ Flapping tremors are not seen in
 
 <details><summary>Answer</summary>
 
-**D. Carbolic acid poisoning** — Source: Medicoholic 2016 PYQ compilation.
+**D. Carbolic acid poisoning** — **D. Carbolic acid poisoning** — Asterixis (flapping tremor) occurs in hepatic, uraemic, CO2 narcosis encephalopathies and hypomagnesaemia; carbolic acid (phenol) causes corrosive injury and CNS depression without asterixis.
 
 </details>
 
@@ -1438,7 +1438,7 @@ Indicatons of liver transplant in PCM poisoning are all except
 
 <details><summary>Answer</summary>
 
-**A. SGPT increase** — Source: Medicoholic 2016 PYQ compilation.
+**A. SGPT increase** — **A. SGPT increase** — King's College criteria for liver transplant in paracetamol poisoning: pH<7.3 OR (INR>6.5 + creatinine>3.4 mg/dL + grade III/IV encephalopathy). Mere transaminase rise alone is not a criterion.
 
 </details>
 
@@ -1458,7 +1458,7 @@ In corrosive injury of esophagus correct statement is all except
 
 <details><summary>Answer</summary>
 
-**B. Alkalis cause more gastic damage than acids** — Source: Medicoholic 2016 PYQ compilation.
+**B. Alkalis cause more gastic damage than acids** — **B. Alkalis cause more gastic damage than acids** — Alkalis cause liquefactive necrosis with deeper oesophageal injury; acids cause coagulative necrosis with eschar that limits oesophageal damage but causes more gastric damage.
 
 </details>
 

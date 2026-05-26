@@ -4090,7 +4090,7 @@ Treatment of choice of mucinous carcinoma of Gall Bladder confined to the lamina
 
 <details><summary>Answer</summary>
 
-**A. Simple cholecystectomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Simple cholecystectomy** — **A. Simple cholecystectomy** — T1a gallbladder carcinoma (confined to lamina propria, not invading muscularis) has excellent prognosis and is adequately treated by simple cholecystectomy alone without further resection.
 
 </details>
 
@@ -4108,7 +4108,7 @@ A patient (age not captured in source) who is a year old woman presented with hi
 
 <details><summary>Answer</summary>
 
-**A. ERCP and bile duct stone extraction** — Source: Medicoholic 2015 PYQ compilation.
+**A. ERCP and bile duct stone extraction** — **A. ERCP and bile duct stone extraction** — For CBD stones with cholangitis, ERCP with sphincterotomy and stone extraction is first-line as it relieves obstruction without need for open surgery.
 
 </details>
 
@@ -4126,7 +4126,7 @@ All of the following are true about Hirschsprung disease except -
 
 <details><summary>Answer</summary>
 
-**D. The non peristaltic affected segment is dialted** — Source: Medicoholic 2015 PYQ compilation.
+**D. The non peristaltic affected segment is dialted** — **D. The non peristaltic affected segment is dilated** — In Hirschsprung disease, the aganglionic segment is narrow and non-peristaltic; the proximally normal innervated bowel becomes dilated (megacolon).
 
 </details>
 
@@ -4144,7 +4144,7 @@ All of the following are surgical options in management of esophageal carcinoma 
 
 <details><summary>Answer</summary>
 
-**D. Sistrunk operation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Sistrunk operation** — **D. Sistrunk operation** — Sistrunk procedure is used for thyroglossal duct cyst excision; esophagectomy approaches are Ivor-Lewis (right thoracotomy), McKeown (3-stage), and transhiatal.
 
 </details>
 
@@ -4162,7 +4162,7 @@ Chronic hemolytic anaemia is associated with which of the following -
 
 <details><summary>Answer</summary>
 
-**B. Black Pigment stone of the gall bladder** — Source: Medicoholic 2015 PYQ compilation.
+**B. Black Pigment stone of the gall bladder** — **B. Black Pigment stone of the gall bladder** — Chronic hemolysis increases unconjugated bilirubin precipitating as calcium bilirubinate; black pigment stones form in sterile gallbladder bile from hemolytic disorders.
 
 </details>
 
@@ -4180,7 +4180,7 @@ Reactionary Hemorrhage occurs due to -
 
 <details><summary>Answer</summary>
 
-**A. Dislodgement of clot** — Source: Medicoholic 2015 PYQ compilation.
+**A. Dislodgement of clot** — **A. Dislodgement of clot** — Reactionary hemorrhage occurs within 24 hours postoperatively due to slipping of ligature or dislodgement of clot as BP rises after recovery from anesthesia.
 
 </details>
 
@@ -4198,7 +4198,7 @@ Which of the following is correct management of abdominal compartment syndrome
 
 <details><summary>Answer</summary>
 
-**B. Urgent Opening of the surgical wound and application of the** — Source: Medicoholic 2015 PYQ compilation.
+**B. Urgent Opening of the surgical wound and application of the** — **B. Urgent Opening of the surgical wound** — Abdominal compartment syndrome (IAP >20 mmHg with organ dysfunction) requires urgent decompressive laparotomy to restore perfusion to abdominal viscera and kidneys.
 
 </details>
 
@@ -4216,7 +4216,7 @@ All of the following is true about congenital hypertrophic pyloric stenosis exce
 
 <details><summary>Answer</summary>
 
-**C. Metabolic acidosis occurs** — Source: Medicoholic 2015 PYQ compilation.
+**C. Metabolic acidosis occurs** — **C. Metabolic acidosis occurs** — CHPS causes hypochloremic, hypokalemic metabolic ALKALOSIS (not acidosis) due to recurrent vomiting of HCl-rich gastric contents.
 
 </details>
 
@@ -4234,7 +4234,7 @@ In a patient with renal cell carcinoma with a thrombus in IVC renal vein, which 
 
 <details><summary>Answer</summary>
 
-**A. CT scan** — Source: Medicoholic 2015 PYQ compilation.
+**A. CT scan** — **A. CT scan** — Contrast-enhanced CT is the best modality for RCC staging including IVC tumor thrombus, providing detail of tumor extent, nodal status, and metastases.
 
 </details>
 
@@ -4252,7 +4252,7 @@ Which of the following is the agent of choice for cryosurgery?
 
 <details><summary>Answer</summary>
 
-**C. Liquid nitrogen spray** — Source: Medicoholic 2015 PYQ compilation.
+**C. Liquid nitrogen spray** — **C. Liquid nitrogen spray** — Liquid nitrogen (−196°C) is the agent of choice for cryosurgery achieving the deepest tissue freezing; widely used for skin lesions, warts and tumors.
 
 </details>
 
@@ -4270,7 +4270,7 @@ A patient (age not captured in source) who is a year old female presents with a 
 
 <details><summary>Answer</summary>
 
-**B. Toxic Adenoma** — Source: Medicoholic 2015 PYQ compilation.
+**B. Toxic Adenoma** — **B. Toxic Adenoma** — A solitary hyperfunctioning ("hot") nodule on radioiodine scan with suppressed surrounding thyroid is diagnostic of toxic adenoma (Plummer disease) causing autonomous T3/T4 production.
 
 </details>
 
@@ -4288,7 +4288,7 @@ Which of the following stages of lip carcinoma do not have nodal involvement ?
 
 <details><summary>Answer</summary>
 
-**B. T3NO** — Source: Medicoholic 2015 PYQ compilation.
+**B. T3NO** — **B. T3N0** — N0 denotes no regional lymph node metastasis; T3 describes a larger primary tumor (>4 cm) but absence of nodal disease per AJCC TNM classification.
 
 </details>
 
@@ -4306,7 +4306,7 @@ A patient (age not captured in source) who is a year old woman is diagnosed as h
 
 <details><summary>Answer</summary>
 
-**A. Partial nephrectomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Partial nephrectomy** — **A. Partial nephrectomy** — For small (<4 cm) renal pelvis carcinoma without metastasis, nephron-sparing partial nephrectomy preserves renal function while achieving oncological clearance.
 
 </details>
 
@@ -4324,7 +4324,7 @@ All of the following are principles of negative pressure wound therapy except
 
 <details><summary>Answer</summary>
 
-**B. Clearance of infection** — Source: Medicoholic 2015 PYQ compilation.
+**B. Clearance of infection** — **B. Clearance of infection** — NPWT works via macrodeformation, edema reduction, and wound stabilization; it does not clear established infection and is contraindicated in untreated osteomyelitis.
 
 </details>
 
@@ -4342,7 +4342,7 @@ What is the treatment of choice in desmoid tumors ?
 
 <details><summary>Answer</summary>
 
-**B. Wide excision** — Source: Medicoholic 2015 PYQ compilation.
+**B. Wide excision** — **B. Wide excision** — Desmoid tumors are locally aggressive fibromatoses; wide local excision with negative margins is the treatment of choice as they are radioresistant and recur readily.
 
 </details>
 
@@ -4360,7 +4360,7 @@ What is the treatment of choice in desmoid tumors ?
 
 <details><summary>Answer</summary>
 
-**B. Long thorasic nerve of Bell** — Source: Medicoholic 2015 PYQ compilation.
+**B. Long thorasic nerve of Bell** — **B. Long thoracic nerve of Bell** — The long thoracic nerve supplies serratus anterior; its injury during axillary clearance causes winged scapula with inability to abduct arm above the head.
 
 </details>
 
@@ -4378,7 +4378,7 @@ All of the following are true about Nissen Fundoplication except
 
 <details><summary>Answer</summary>
 
-**B. Reinforcment is done only in the anterior half** — Source: Medicoholic 2015 PYQ compilation.
+**B. Reinforcment is done only in the anterior half** — **B. Reinforcement is done only in the anterior half** — Nissen is a complete 360° wrap of the gastric fundus around the lower esophagus; anterior partial wraps are Dor (Toupet is posterior 270°).
 
 </details>
 
@@ -4396,7 +4396,7 @@ False regarding hypernephroma is -
 
 <details><summary>Answer</summary>
 
-**A. Radiosensitive** — Source: Medicoholic 2015 PYQ compilation.
+**A. Radiosensitive** — **A. Radiosensitive** — Hypernephroma (renal cell carcinoma) is notoriously RADIORESISTANT; treatment is surgical (radical nephrectomy) with targeted therapy and immunotherapy for metastatic disease.
 
 </details>
 
@@ -4414,7 +4414,7 @@ All of the following are medical uses of erythropoietin except -
 
 <details><summary>Answer</summary>
 
-**D. Megaloblastic Anaemis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Megaloblastic Anaemis** — **D. Megaloblastic Anaemia** — Megaloblastic anemia is due to B12/folate deficiency requiring vitamin replacement; EPO is used in anemia of CKD, chemotherapy-induced anemia, and chronic inflammatory states.
 
 </details>
 
@@ -4432,7 +4432,7 @@ Which is false about development milestones at 6 months of age?
 
 <details><summary>Answer</summary>
 
-**A. Watching self in mirror** — Source: Medicoholic 2015 PYQ compilation.
+**A. Watching self in mirror** — **A. Watching self in mirror** — Self-recognition in mirror appears around 18 months; at 6 months infants sit in tripod, babble monosyllables, and develop palmar (not pincer) grasp.
 
 </details>
 
@@ -4450,7 +4450,7 @@ At what age child begins to use past and present tense
 
 <details><summary>Answer</summary>
 
-**D. 30 Months** — Source: Medicoholic 2015 PYQ compilation.
+**D. 30 Months** — **D. 30 Months** — Use of past and present tense (verb tense mastery) develops around 30 months; 2-word sentences appear at 2 years, simple sentences at 3 years.
 
 </details>
 
@@ -4468,7 +4468,7 @@ At what age child begins to use past and present tense
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All the above** — **D. All the above** — Potter syndrome = bilateral renal agenesis causing severe oligohydramnios, pulmonary hypoplasia, and characteristic Potter facies (flattened nose, low-set ears, recessed chin).
 
 </details>
 
@@ -4486,7 +4486,7 @@ At what age child begins to use past and present tense
 
 <details><summary>Answer</summary>
 
-**D. Chlorpromazine** — Source: Medicoholic 2015 PYQ compilation.
+**D. Chlorpromazine** — **D. Chlorpromazine** — Kernicterus management includes phototherapy, exchange transfusion, and phenobarbitone; chlorpromazine is contraindicated as it displaces bilirubin from albumin worsening neurotoxicity.
 
 </details>
 
@@ -4504,7 +4504,7 @@ Eryhtematous blotchy rash is seen on the abdomen, trunk and face of a 3 day old 
 
 <details><summary>Answer</summary>
 
-**B. No treatment** — Source: Medicoholic 2015 PYQ compilation.
+**B. No treatment** — **B. No treatment** — Erythema toxicum neonatorum is a benign self-limited rash of newborns with erythematous macules and yellowish papules; resolves spontaneously without treatment.
 
 </details>
 
@@ -4522,7 +4522,7 @@ A newborn presents with subconjunctival hemorrhage. The treatment is
 
 <details><summary>Answer</summary>
 
-**A. No treatment** — Source: Medicoholic 2015 PYQ compilation.
+**A. No treatment** — **A. No treatment** — Neonatal subconjunctival hemorrhage results from birth-related capillary rupture; benign and resorbs spontaneously within 1-2 weeks without intervention.
 
 </details>
 
@@ -4540,7 +4540,7 @@ Child with 10 episodes of diarrhea in last 24 hours with sunken dry eyes, very s
 
 <details><summary>Answer</summary>
 
-**D. Start Ringer's lactate** — Source: Medicoholic 2015 PYQ compilation.
+**D. Start Ringer's lactate** — **D. Start Ringer's lactate** — Severe dehydration (sunken eyes, very slow skin pinch, absent tears) requires immediate IV fluid resuscitation with Ringer lactate per WHO Plan C protocol.
 
 </details>
 
@@ -4558,7 +4558,7 @@ What is the first line treatment of a 4 year old child presenting with intussusc
 
 <details><summary>Answer</summary>
 
-**B. Immediate attempt to reduction using barium edema** — Source: Medicoholic 2015 PYQ compilation.
+**B. Immediate attempt to reduction using barium edema** — **B. Immediate attempt to reduction using barium edema** — Hydrostatic/pneumatic reduction (barium or air enema) is first-line for stable intussusception with no peritonitis; success rate is 80-90%.
 
 </details>
 
@@ -4576,7 +4576,7 @@ What is the maintainance fluid requirement in a 6 kg child ?
 
 <details><summary>Answer</summary>
 
-**B. 600 ml/day** — Source: Medicoholic 2015 PYQ compilation.
+**B. 600 ml/day** — **B. 600 ml/day** — Holliday-Segar rule: 100 mL/kg/day for first 10 kg; 6 kg × 100 = 600 mL/day maintenance fluid requirement.
 
 </details>
 
@@ -4594,7 +4594,7 @@ Which is found in DiGeorge's syndrome -
 
 <details><summary>Answer</summary>
 
-**A. Tetany** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tetany** — **A. Tetany** — DiGeorge (22q11.2 deletion) = thymic + parathyroid aplasia causing T-cell deficiency and hypocalcemia with tetany; B cells preserved and T cells reduced (not totally absent).
 
 </details>
 
@@ -4612,7 +4612,7 @@ Which of the following is present in a XY child but not in a XX child ?
 
 <details><summary>Answer</summary>
 
-**C. Cowper's glands** — Source: Medicoholic 2015 PYQ compilation.
+**C. Cowper's glands** — **C. Cowper's glands** — Cowper (bulbourethral) glands are male-specific Wolffian/urogenital sinus derivatives; epoophoron, paroophoron and Gartner's duct are female vestigial remnants of mesonephric ducts.
 
 </details>
 
@@ -4630,7 +4630,7 @@ Treatment of choice for Kawasaki Disease is:
 
 <details><summary>Answer</summary>
 
-**A. IV Immunoglobulins** — Source: Medicoholic 2015 PYQ compilation.
+**A. IV Immunoglobulins** — **A. IV Immunoglobulins** — IVIG (2 g/kg single dose) plus aspirin is first-line for Kawasaki disease; reduces coronary artery aneurysm risk from 25% to under 5% when given within 10 days.
 
 </details>
 
@@ -4648,7 +4648,7 @@ All are of value in modified Bishop score except
 
 <details><summary>Answer</summary>
 
-**B. Effacement** — Source: Medicoholic 2015 PYQ compilation.
+**B. Effacement** — **B. Effacement** — Modified Bishop score uses dilatation, station, consistency, position, and cervical length; the original Bishop used effacement which was replaced by cervical length in the modified version.
 
 </details>
 
@@ -4666,7 +4666,7 @@ True about Keratinocyte is ?
 
 <details><summary>Answer</summary>
 
-**A. Ectoderm derived cell** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ectoderm derived cell** — **A. Ectoderm derived cell** — Keratinocytes arise from surface ectoderm; they originate in the basal layer but mature/differentiate as they migrate up through spinous, granular, and cornified layers.
 
 </details>
 
@@ -4684,7 +4684,7 @@ In which of the following phototherapy is useful in treatment ?
 
 <details><summary>Answer</summary>
 
-**A. Psoriasis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Psoriasis** — **A. Psoriasis** — Narrowband UVB and PUVA phototherapy suppress hyperproliferative keratinocytes and T cells; effective in moderate-severe psoriasis; PMLE is caused (not treated) by UV exposure.
 
 </details>
 
@@ -4702,7 +4702,7 @@ Goekarman regimen used in for treatment of psoriasis is?
 
 <details><summary>Answer</summary>
 
-**A. UVB plus coal tar** — Source: Medicoholic 2015 PYQ compilation.
+**A. UVB plus coal tar** — **A. UVB plus coal tar** — Goeckerman regimen combines crude coal tar application with UVB phototherapy for plaque psoriasis; Ingram regimen uses UVB plus anthralin.
 
 </details>
 
@@ -4720,7 +4720,7 @@ All of the followings are part of the treatment of scabies except?
 
 <details><summary>Answer</summary>
 
-**D. Long term oral steroids** — Source: Medicoholic 2015 PYQ compilation.
+**D. Long term oral steroids** — **D. Long term oral steroids** — Scabies treatment is topical permethrin/oral ivermectin (kills mite) plus antihistamines for pruritus; oral steroids are not indicated and may worsen infestation.
 
 </details>
 
@@ -4738,7 +4738,7 @@ A pregnant lady comes with itchy hand lesions as shown. Her husband also gets it
 
 <details><summary>Answer</summary>
 
-**A. Permathrin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Permathrin** — **A. Permethrin** — Topical permethrin 5% cream is safe in pregnancy (category B) and is treatment of choice for scabies; ivermectin, lindane (GBH) and benzyl benzoate are contraindicated.
 
 </details>
 
@@ -4756,7 +4756,7 @@ Respiratory failure in a post operative patient is ?
 
 <details><summary>Answer</summary>
 
-**C. Type 3** — Source: Medicoholic 2015 PYQ compilation.
+**C. Type 3** — **C. Type 3** — Type 3 respiratory failure (perioperative) occurs from atelectasis due to anesthesia, supine position, and analgesia; types 1 (hypoxic), 2 (hypercapnic), 4 (shock-related).
 
 </details>
 
@@ -4774,7 +4774,7 @@ Laryngeal mask airway [LMA] is contraindicated in?
 
 <details><summary>Answer</summary>
 
-**C. Pregnant female** — Source: Medicoholic 2015 PYQ compilation.
+**C. Pregnant female** — **C. Pregnant female** — LMA is contraindicated in pregnancy and full stomach states due to increased aspiration risk (it does not protect against regurgitation); useful as difficult-airway rescue device.
 
 </details>
 
@@ -4792,7 +4792,7 @@ All of the following are advantages of LMA except?
 
 <details><summary>Answer</summary>
 
-**B. Prevent aspiration** — Source: Medicoholic 2015 PYQ compilation.
+**B. Prevent aspiration** — **B. Prevent aspiration** — LMA seats supraglottically and does NOT protect against aspiration of gastric contents (unlike cuffed ETT); other listed options are genuine advantages over face mask.
 
 </details>
 
@@ -4810,7 +4810,7 @@ Which anesthetic gas was used by WTG Morton in his experiment ?
 
 <details><summary>Answer</summary>
 
-**C. Diethyl ether** — Source: Medicoholic 2015 PYQ compilation.
+**C. Diethyl ether** — **C. Diethyl ether** — WTG Morton publicly demonstrated diethyl ether anesthesia at Massachusetts General Hospital on October 16, 1846 ("Ether Day") for tumor neck excision by Dr Warren.
 
 </details>
 
@@ -4828,7 +4828,7 @@ Hepatotoxic agent is
 
 <details><summary>Answer</summary>
 
-**D. Halothane** — Source: Medicoholic 2015 PYQ compilation.
+**D. Halothane** — **D. Halothane** — Halothane hepatitis is a well-known idiosyncratic immune-mediated hepatotoxicity from oxidative metabolism producing trifluoroacetyl-protein adducts triggering autoantibodies; risk higher with repeat exposure.
 
 </details>
 
@@ -4846,7 +4846,7 @@ Anesthetic agent (s) safe to use in TICP
 
 <details><summary>Answer</summary>
 
-**B. Thiopentone** — Source: Medicoholic 2015 PYQ compilation.
+**B. Thiopentone** — **B. Thiopentone** — Thiopentone reduces cerebral metabolic rate (CMRO2) and ICP; ideal in raised ICP. Ketamine, halothane, and ether all RAISE ICP and are contraindicated.
 
 </details>
 
@@ -4864,7 +4864,7 @@ Which of the following anesthetic agent is a potent bronchodilator -
 
 <details><summary>Answer</summary>
 
-**B. Ketamine** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ketamine** — **B. Ketamine** — Ketamine causes sympathomimetic bronchodilation via catecholamine release and direct beta-2 effect; preferred induction agent in asthma and acute severe bronchospasm.
 
 </details>
 
@@ -4882,7 +4882,7 @@ Blood : Gas partition coefficient is a measure of ?
 
 <details><summary>Answer</summary>
 
-**B. Speed of induction and recovery** — Source: Medicoholic 2015 PYQ compilation.
+**B. Speed of induction and recovery** — **B. Speed of induction and recovery** — Blood:gas partition coefficient determines onset/offset; LOW coefficient (desflurane, N2O) means rapid induction/recovery; lipid:gas coefficient determines potency (MAC).
 
 </details>
 
@@ -4900,7 +4900,7 @@ At the end of anaesthesia after discontinuation of nitrous oxide and removal of 
 
 <details><summary>Answer</summary>
 
-**A. Diffusion Hypoxia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Diffusion Hypoxia** — **A. Diffusion Hypoxia** — On discontinuing N2O, rapid outflow of N2O into alveoli dilutes oxygen causing diffusion (Fink) hypoxia; prevented by administering 100% O2 for 5-10 minutes.
 
 </details>
 
@@ -4918,7 +4918,7 @@ Shortest acting local anesthetic agent is
 
 <details><summary>Answer</summary>
 
-**A. Procaine** — Source: Medicoholic 2015 PYQ compilation.
+**A. Procaine** — **A. Procaine** — Procaine is an ester rapidly hydrolyzed by plasma pseudocholinesterase, giving the shortest duration (30-60 min); bupivacaine is longest acting (4-8 hours).
 
 </details>
 
@@ -4936,7 +4936,7 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 
 <details><summary>Answer</summary>
 
-**A. Decrease in field of view** — Source: Medicoholic 2015 PYQ compilation.
+**A. Decrease in field of view** — **A. Decrease in field of view** — Decreasing FOV (magnification) actually INCREASES patient skin dose; minimizing exposure uses higher kVp, shorter time, lower dose pulses, and increased distance.
 
 </details>
 
@@ -4954,7 +4954,7 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 
 <details><summary>Answer</summary>
 
-**B. CT of the abdomen** — Source: Medicoholic 2015 PYQ compilation.
+**B. CT of the abdomen** — **B. CT of the abdomen** — In a hemodynamically stable patient with blunt abdominal trauma (suspected splenic injury), contrast-enhanced CT abdomen is the investigation of choice for grading and management.
 
 </details>
 
@@ -4972,7 +4972,7 @@ year-old female presented to the emergency department with the sudden onset of s
 
 <details><summary>Answer</summary>
 
-**B. Air under diaphragm** — Source: Medicoholic 2015 PYQ compilation.
+**B. Air under diaphragm** — **B. Air under diaphragm** — Sudden severe epigastric pain with pneumoperitoneum (free air under diaphragm on erect X-ray) indicates perforated peptic ulcer with viscus perforation.
 
 </details>
 
@@ -4990,7 +4990,7 @@ year-old chronic alcoholic male patient, after a large binge of alcohol, present
 
 <details><summary>Answer</summary>
 
-**A. Perforated peptic ulcer** — Source: Medicoholic 2015 PYQ compilation.
+**A. Perforated peptic ulcer** — **A. Perforated peptic ulcer** — Chronic alcoholic post-binge with subconsciousness and vomiting (often hematemesis with free air on imaging) suggests perforated peptic ulcer; alcohol is major risk factor.
 
 </details>
 
@@ -5008,7 +5008,7 @@ Epidural hematoma on CT scan shows -
 
 <details><summary>Answer</summary>
 
-**B. Biconvex hyperdense lesion** — Source: Medicoholic 2015 PYQ compilation.
+**B. Biconvex hyperdense lesion** — **B. Biconvex hyperdense lesion** — Epidural hematoma is biconvex/lentiform hyperdense lesion (limited by suture lines) from middle meningeal artery rupture; subdural appears crescent-shaped crossing sutures.
 
 </details>
 
@@ -5026,7 +5026,7 @@ Medical treatment for paraphillia includes ?
 
 <details><summary>Answer</summary>
 
-**A. SSRIs** — Source: Medicoholic 2015 PYQ compilation.
+**A. SSRIs** — **A. SSRIs** — SSRIs (fluoxetine, sertraline) reduce paraphilic sexual urges by lowering libido as a side effect; anti-androgens (cyproterone, medroxyprogesterone) used in severe cases.
 
 </details>
 
@@ -5044,7 +5044,7 @@ Sex reassignment surgery is done in ?
 
 <details><summary>Answer</summary>
 
-**A. Gender identity disorder** — Source: Medicoholic 2015 PYQ compilation.
+**A. Gender identity disorder** — **A. Gender identity disorder** — Sex reassignment (gender-affirming) surgery is performed in gender dysphoria/identity disorder after psychiatric evaluation and prolonged real-life experience in the desired gender.
 
 </details>
 
@@ -5062,7 +5062,7 @@ Characteristic hallucination of schizophrenia is
 
 <details><summary>Answer</summary>
 
-**B. Auditory hallucinations giving running commentary** — Source: Medicoholic 2015 PYQ compilation.
+**B. Auditory hallucinations giving running commentary** — **B. Auditory hallucinations giving running commentary** — Running commentary auditory hallucinations and 3rd person voices discussing the patient are Schneider's first-rank symptoms of schizophrenia.
 
 </details>
 
@@ -5080,7 +5080,7 @@ A patient inventing new words, is a feature of ?
 
 <details><summary>Answer</summary>
 
-**B. Schizophrenia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Schizophrenia** — **B. Schizophrenia** — Neologisms (invention of new words with idiosyncratic meaning) is a thought disorder characteristic of schizophrenia; reflects underlying disorganized thinking.
 
 </details>
 
@@ -5098,7 +5098,7 @@ Treatment of choice for acute panic attacks is ?
 
 <details><summary>Answer</summary>
 
-**B. Benzodiazepines** — Source: Medicoholic 2015 PYQ compilation.
+**B. Benzodiazepines** — **B. Benzodiazepines** — Benzodiazepines (alprazolam, clonazepam) provide rapid relief during acute panic attacks via GABA-A potentiation; SSRIs/TCAs used for long-term prophylaxis.
 
 </details>
 
@@ -5116,7 +5116,7 @@ Which of the following is a feature of opioid withdrawal?
 
 <details><summary>Answer</summary>
 
-**B. Goose flesh** — Source: Medicoholic 2015 PYQ compilation.
+**B. Goose flesh** — **B. Goose flesh** — Piloerection ("cold turkey"/goose flesh), lacrimation, rhinorrhea, yawning, mydriasis, diarrhea are classic opioid withdrawal symptoms; opposite of intoxication effects.
 
 </details>
 
@@ -5134,7 +5134,7 @@ Phototherapy is used in the treatment of ?
 
 <details><summary>Answer</summary>
 
-**B. Seasonal affective disorder** — Source: Medicoholic 2015 PYQ compilation.
+**B. Seasonal affective disorder** — **B. Seasonal affective disorder** — Bright light therapy (10,000 lux for 30 min daily) suppresses melatonin and resets circadian rhythm; first-line treatment for seasonal affective disorder (SAD).
 
 </details>
 
@@ -5152,7 +5152,7 @@ Conventional drug used in the treatment of delirium is?
 
 <details><summary>Answer</summary>
 
-**A. Haloperidol** — Source: Medicoholic 2015 PYQ compilation.
+**A. Haloperidol** — **A. Haloperidol** — Haloperidol (high-potency typical antipsychotic) is the conventional drug of choice for hyperactive delirium; low anticholinergic burden makes it safer than other agents.
 
 </details>
 
@@ -7571,7 +7571,7 @@ Normal vision with absence of direct & consensual light reflex, which nerve is i
 
 <details><summary>Answer</summary>
 
-**B. Oculomotor** — Source: Medicoholic 2016 PYQ compilation.
+**B. Oculomotor** — **B. Oculomotor** — Normal vision (intact optic/afferent) with absent direct and consensual light reflex localizes to efferent pathway: oculomotor (CN III) parasympathetic fibers to ciliary ganglion innervating the sphincter pupillae.
 
 </details>
 
@@ -7591,7 +7591,7 @@ Which of the following is true about divergent squint
 
 <details><summary>Answer</summary>
 
-**A. It is also called exotropia** — Source: Medicoholic 2016 PYQ compilation.
+**A. It is also called exotropia** — **A. It is also called exotropia** — Exotropia = manifest outward (divergent) deviation of eye; convergent squint (esotropia) is more common; 6th nerve palsy causes esotropia, not exotropia.
 
 </details>
 
@@ -7611,7 +7611,7 @@ Crossed eye fixation is positive in -
 
 <details><summary>Answer</summary>
 
-**A. Esotropia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Esotropia** — **A. Esotropia** — Cross-fixation occurs in large-angle infantile esotropia where each eye fixates objects in the opposite (contralateral) visual field, mimicking abduction deficit.
 
 </details>
 
@@ -7631,7 +7631,7 @@ Partial ptosis is oculomotor nerve injury is due to intact -
 
 <details><summary>Answer</summary>
 
-**B. Sympathetic innervation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Sympathetic innervation** — **B. Sympathetic innervation** — Levator palpebrae superioris is supplied by oculomotor nerve; Müller's muscle (superior tarsal) is sympathetically innervated and provides partial elevation (2 mm), preventing complete ptosis.
 
 </details>
 
@@ -7651,7 +7651,7 @@ Painful eye movement is a feature of :
 
 <details><summary>Answer</summary>
 
-**A. Iridocyclitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Iridocyclitis** — **A. Iridocyclitis** — Pain on eye movement occurs in iridocyclitis (anterior uveitis) due to traction on inflamed iris/ciliary body by extraocular muscles; also occurs in optic neuritis and scleritis.
 
 </details>
 
@@ -7671,7 +7671,7 @@ Retinoblastomas show all of the following except
 
 <details><summary>Answer</summary>
 
-**D. None** — Source: Medicoholic 2016 PYQ compilation.
+**D. None** — **D. None** — Retinoblastoma classically shows small round blue cells with necrosis, Flexner-Wintersteiner true rosettes, Homer-Wright pseudorosettes, and fleurettes; all listed options are seen.
 
 </details>
 
@@ -7691,7 +7691,7 @@ Which of the following is most common visual defect in papilloedema
 
 <details><summary>Answer</summary>
 
-**A. Amourosis fugax** — Source: Medicoholic 2016 PYQ compilation.
+**A. Amourosis fugax** — **A. Amaurosis fugax** — Transient visual obscurations ("amaurosis fugax") lasting seconds with postural changes are the earliest and most common visual symptom of papilledema due to optic nerve ischemia.
 
 </details>
 
@@ -7711,7 +7711,7 @@ What is the treatment of meibomianitis ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Meibomianitis (posterior blepharitis) treatment includes lid hygiene (cleansing edges), warm compresses (moist heat) to unblock meibomian glands, and topical antibiotics.
 
 </details>
 
@@ -7731,7 +7731,7 @@ Blow out fracture of orbit leads to fracture in
 
 <details><summary>Answer</summary>
 
-**B. Posterior Medial wall** — Source: Medicoholic 2016 PYQ compilation.
+**B. Posterior Medial wall** — **B. Posterior Medial wall** — Blow-out fracture occurs at the weakest orbital walls: posteromedial floor (maxillary) and medial wall (lamina papyracea of ethmoid); herniation of orbital contents causes enophthalmos.
 
 </details>
 
@@ -7751,7 +7751,7 @@ Vitrectomy should be considered if the vitreous haemorrhage is not absorbed with
 
 <details><summary>Answer</summary>
 
-**B. 3 months** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3 months** — **B. 3 months** — Pars plana vitrectomy is indicated if vitreous hemorrhage fails to clear in 3 months, as it allows fundus visualization and prevents tractional retinal detachment/proliferative complications.
 
 </details>
 
@@ -7771,7 +7771,7 @@ The globe is displaced to which side in lacrimal gland tumour?
 
 <details><summary>Answer</summary>
 
-**B. Inferonasal** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inferonasal** — **B. Inferonasal** — Lacrimal gland sits in superotemporal orbit (lacrimal fossa); a tumor mass pushes the globe downward and medially (inferonasally) — "opposite to mass" displacement.
 
 </details>
 
@@ -7791,7 +7791,7 @@ Most common protozoan causing keratitis is
 
 <details><summary>Answer</summary>
 
-**B. Acanthamoeba** — Source: Medicoholic 2016 PYQ compilation.
+**B. Acanthamoeba** — **B. Acanthamoeba** — Acanthamoeba is the most common protozoan keratitis, typically in contact lens wearers exposed to contaminated water; presents with severe pain disproportionate to signs and ring infiltrate.
 
 </details>
 
@@ -7811,7 +7811,7 @@ Some patients with severe form of Idiopathic infantile hypercalcemia, presnt wit
 
 <details><summary>Answer</summary>
 
-**A. Williams syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**A. Williams syndrome** — **A. Williams syndrome** — Williams syndrome (7q11.23 elastin deletion) has infantile hypercalcemia with elfin facies, supravalvular aortic stenosis, and hypersociable cocktail-party personality.
 
 </details>
 
@@ -7831,7 +7831,7 @@ Some patients with severe form of Idiopathic infantile hypercalcemia, presnt wit
 
 <details><summary>Answer</summary>
 
-**B. Petechiae** — Source: Medicoholic 2016 PYQ compilation.
+**B. Petechiae** — **B. Petechiae** — Petechiae are pinpoint (1-2 mm) non-blanching hemorrhages from capillary leak; purpura are 3 mm-1 cm; ecchymoses are >1 cm bruises.
 
 </details>
 
@@ -7851,7 +7851,7 @@ Which of the following is not true about metabolic syndrome?
 
 <details><summary>Answer</summary>
 
-**C. Type A has autoantibodies against the insulin receptor** — Source: Medicoholic 2016 PYQ compilation.
+**C. Type A has autoantibodies against the insulin receptor** — **C. Type A has autoantibodies against the insulin receptor** — Type B (not A) insulin resistance has autoantibodies against insulin receptor (acanthosis nigricans); Type A is the genetic form without autoantibodies.
 
 </details>
 
@@ -7871,7 +7871,7 @@ Metabolic syndrome diagnosis in men based on NCEP ATP III criteria includes the 
 
 <details><summary>Answer</summary>
 
-**B. HDL < 50 mg / dL** — Source: Medicoholic 2016 PYQ compilation.
+**B. HDL < 50 mg / dL** — **B. HDL < 50 mg/dL** — Per NCEP ATP III, low HDL criterion is <40 mg/dL in MEN (50 mg/dL applies to women); other components — waist >40", BP ≥130/85, FBG >110 mg/dL — are correct.
 
 </details>
 
@@ -7891,7 +7891,7 @@ Water hammer pulse seen in
 
 <details><summary>Answer</summary>
 
-**B. >Aortic regurgitation** — Source: Medicoholic 2016 PYQ compilation.
+**B. >Aortic regurgitation** — **B. Aortic regurgitation** — Water-hammer (Corrigan) pulse — rapid upstroke, brisk peak, sudden collapse — is the wide pulse pressure of AR due to regurgitant volume during diastole.
 
 </details>
 
@@ -7911,7 +7911,7 @@ FALSE statement regarding the ECG in acute pericarditis is:
 
 <details><summary>Answer</summary>
 
-**A. T wave inversion develop before ST elevations return to** — Source: Medicoholic 2016 PYQ compilation.
+**A. T wave inversion develop before ST elevations return to** — **A. T wave inversion develop before ST elevations return to baseline** — Classic pericarditis ECG progression: T waves invert AFTER ST segment returns to baseline (Stage 3); not before.
 
 </details>
 
@@ -7931,7 +7931,7 @@ Ejection click of pulmonary stenosis is better heard in
 
 <details><summary>Answer</summary>
 
-**B. Expiration** — Source: Medicoholic 2016 PYQ compilation.
+**B. Expiration** — **B. Expiration** — Pulmonary stenosis ejection click decreases on inspiration (paradoxical) due to increased pulmonic valve closure pre-systole; better heard in expiration — opposite to most right-sided sounds.
 
 </details>
 
@@ -7951,7 +7951,7 @@ Which of the following is not true about bicuspid aortic valve?
 
 <details><summary>Answer</summary>
 
-**B. It is more common in females than in males** — Source: Medicoholic 2016 PYQ compilation.
+**B. It is more common in females than in males** — **B. It is more common in females than in males** — Bicuspid aortic valve is twice as common in MALES (M:F ≈ 2-3:1); the most common congenital cardiac anomaly with progressive stenosis and aortopathy.
 
 </details>
 
@@ -7971,7 +7971,7 @@ Which of the following hemodynamic changes is not evident in cardiac tamponade d
 
 <details><summary>Answer</summary>
 
-**C. Biphasic venous return** — Source: Medicoholic 2016 PYQ compilation.
+**C. Biphasic venous return** — **C. Biphasic venous return** — Cardiac tamponade shows monophasic (systolic) venous return with absent y-descent on JVP; biphasic return is normal/seen in constrictive pericarditis (M-shaped).
 
 </details>
 
@@ -7991,7 +7991,7 @@ Major criteria for infective endocarditis include which of the following
 
 <details><summary>Answer</summary>
 
-**D. Typical organism of infective endocarditis isolated from two** — Source: Medicoholic 2016 PYQ compilation.
+**D. Typical organism of infective endocarditis isolated from two** — **D. Typical organism of infective endocarditis isolated from two separate cultures** — Duke major criteria: typical organisms in 2 separate blood cultures and echo evidence of endocarditis; fever, IVDU, Osler nodes are minor.
 
 </details>
 
@@ -8011,7 +8011,7 @@ Which of the following ECG features are not seen in patients with ventricular ta
 
 <details><summary>Answer</summary>
 
-**D. P pulmonale** — Source: Medicoholic 2016 PYQ compilation.
+**D. P pulmonale** — **D. P pulmonale** — P pulmonale (tall peaked P >2.5 mm) reflects right atrial enlargement from chronic lung disease; VT shows wide bizarre QRS, AV dissociation, fusion/capture beats.
 
 </details>
 
@@ -8031,7 +8031,7 @@ Cerebro-occulo-genital syndrome has the following features except
 
 <details><summary>Answer</summary>
 
-**D. Flaccid quadriplegia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Flaccid quadriplegia** — **D. Flaccid quadriplegia** — Cerebro-oculo-genital (COG/Walker-Warburg) syndrome causes SPASTIC quadriplegia with microcephaly, short stature, agenesis of corpus callosum and lissencephaly; not flaccid.
 
 </details>
 
@@ -8051,7 +8051,7 @@ Pulsus biseferians, which of the following is not true
 
 <details><summary>Answer</summary>
 
-**C. It has one peak in systole and one in diastole** — Source: Medicoholic 2016 PYQ compilation.
+**C. It has one peak in systole and one in diastole** — **C. It has one peak in systole and one in diastole** — Pulsus bisferiens has TWO SYSTOLIC peaks (percussion and tidal waves), not one systolic and one diastolic; seen in AR, HOCM, mixed AS+AR.
 
 </details>
 
@@ -8071,7 +8071,7 @@ The most common reentrant tachycardia associated with WPW syndrome is
 
 <details><summary>Answer</summary>
 
-**A. Orthodromic AV reentry** — Source: Medicoholic 2016 PYQ compilation.
+**A. Orthodromic AV reentry** — **A. Orthodromic AV reentry** — Orthodromic AVRT (antegrade via AV node, retrograde via accessory pathway) is the most common WPW tachycardia (~95%); narrow QRS unless aberrancy.
 
 </details>
 
@@ -8091,7 +8091,7 @@ Square wave seen in ECG recording denote
 
 <details><summary>Answer</summary>
 
-**D. Standardization of ECG** — Source: Medicoholic 2016 PYQ compilation.
+**D. Standardization of ECG** — **D. Standardization of ECG** — The standardization (calibration) square wave (10 mm tall × 0.2 s wide) at the start of each lead confirms 1 mV = 10 mm and 25 mm/s paper speed.
 
 </details>
 
@@ -8111,7 +8111,7 @@ Which of the following is not true about Torsades de pointes?
 
 <details><summary>Answer</summary>
 
-**C. It is a type of supraventricular tachycardia** — Source: Medicoholic 2016 PYQ compilation.
+**C. It is a type of supraventricular tachycardia** — **C. It is a type of supraventricular tachycardia** — Torsades de pointes is a polymorphic VENTRICULAR tachycardia (not supraventricular) with twisting QRS axis around isoelectric line, associated with prolonged QT.
 
 </details>
 
@@ -8131,7 +8131,7 @@ Prolonged QT interval is seen in all of the following except
 
 <details><summary>Answer</summary>
 
-**D. Hypernatremia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hypernatremia** — **D. Hypernatremia** — Hypernatremia does not affect QT interval; QT prolongation results from hypokalemia, hypocalcemia, hypomagnesemia, and macrolides/fluoroquinolones blocking IKr (hERG channel).
 
 </details>
 
@@ -8151,7 +8151,7 @@ All of the following are characteristic features of Tricuspid Atresia except -
 
 <details><summary>Answer</summary>
 
-**D. Splitting of S2** — Source: Medicoholic 2016 PYQ compilation.
+**D. Splitting of S2** — **D. Splitting of S2** — Tricuspid atresia produces a SINGLE S2 (only aortic component, pulmonary atresia/diminished flow); other features — LAD, RV hypoplasia, decreased pulmonary vascularity — are characteristic.
 
 </details>
 
@@ -8171,7 +8171,7 @@ Episode of stable angina pectoris typically lasts for
 
 <details><summary>Answer</summary>
 
-**B. 2 - 5 mins** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2 - 5 mins** — **B. 2 - 5 mins** — Stable angina is brief substernal discomfort lasting 2-5 minutes triggered by exertion/emotion and relieved by rest or nitrates; pain >20 minutes suggests MI.
 
 </details>
 
@@ -8191,7 +8191,7 @@ Levine sign is seen in
 
 <details><summary>Answer</summary>
 
-**A. Stable angina pectoris** — Source: Medicoholic 2016 PYQ compilation.
+**A. Stable angina pectoris** — **A. Stable angina pectoris** — Levine's sign — clenched fist over the chest to describe pain — is a classic body language indicator of ischemic angina pectoris.
 
 </details>
 
@@ -8211,7 +8211,7 @@ Not True about Prinzmetal's angina:
 
 <details><summary>Answer</summary>
 
-**B. Occurs due atherosclerotic obstruction of coronary arteries** — Source: Medicoholic 2016 PYQ compilation.
+**B. Occurs due atherosclerotic obstruction of coronary arteries** — **B. Occurs due atherosclerotic obstruction of coronary arteries** — Prinzmetal (variant) angina is due to coronary VASOSPASM (not atherosclerotic obstruction); occurs at rest, smoking is risk factor, treated with CCBs and nitrates.
 
 </details>
 
@@ -8231,7 +8231,7 @@ The most common toxin causing Dilated Cardiomyopathy is:
 
 <details><summary>Answer</summary>
 
-**A. Alcohol** — Source: Medicoholic 2016 PYQ compilation.
+**A. Alcohol** — **A. Alcohol** — Chronic alcohol abuse is the most common toxic cause of dilated cardiomyopathy via direct myocardial toxicity and thiamine deficiency; reversible with abstinence if early.
 
 </details>
 
@@ -8251,7 +8251,7 @@ Obstructive shock can be seen in
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Obstructive shock results from extracardiac obstruction to flow: massive PE (RV outflow), tension pneumothorax (decreased venous return), and pericardial tamponade (impaired diastolic filling).
 
 </details>
 
@@ -8271,7 +8271,7 @@ While treating patients with malignant hypertention the maximum allowed decrease
 
 <details><summary>Answer</summary>
 
-**C. 25** — Source: Medicoholic 2016 PYQ compilation.
+**C. 25** — **C. 25** — In malignant hypertension/hypertensive emergencies, BP should be reduced by no more than 25% in the first 2-6 hours to avoid hypoperfusion of brain, kidney, and coronary arteries.
 
 </details>
 
@@ -8291,7 +8291,7 @@ ECG pattern seen in pulmonary embolism is
 
 <details><summary>Answer</summary>
 
-**C. S1Q3T3** — Source: Medicoholic 2016 PYQ compilation.
+**C. S1Q3T3** — **C. S1Q3T3** — McGinn-White sign: S wave in lead I, Q wave and inverted T in lead III; reflects acute right heart strain in pulmonary embolism (seen in ~20% of cases).
 
 </details>
 
@@ -8311,7 +8311,7 @@ Contraindication for percutaneous ballon mitral valvotomy include the following 
 
 <details><summary>Answer</summary>
 
-**A. Presence of pulmonary hypertension** — Source: Medicoholic 2016 PYQ compilation.
+**A. Presence of pulmonary hypertension** — **A. Presence of pulmonary hypertension** — Pulmonary hypertension is actually an INDICATION (not contraindication) for PBMV; contraindications are LA thrombus, severe MR, commissural calcification, and Wilkins score >8.
 
 </details>
 
@@ -8331,7 +8331,7 @@ Mitral valve replacement is recommended in patients with
 
 <details><summary>Answer</summary>
 
-**D. Severe MS in NYHA class III** — Source: Medicoholic 2016 PYQ compilation.
+**D. Severe MS in NYHA class III** — **D. Severe MS in NYHA class III** — MVR indicated for severe MS (MVA <1.5 cm²) with NYHA class III/IV symptoms when valve morphology is unfavorable for percutaneous balloon valvotomy (PBMV).
 
 </details>
 
@@ -8351,7 +8351,7 @@ HOCM is common in which age group?
 
 <details><summary>Answer</summary>
 
-**B. 20 - 40 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 20 - 40 years** — **B. 20 - 40 years** — HOCM (hypertrophic obstructive cardiomyopathy) typically manifests in young adults (20-40 years), often presenting as exertional syncope or sudden cardiac death in athletes.
 
 </details>
 
@@ -8371,7 +8371,7 @@ Preferred vein for central venous catheter insertion is
 
 <details><summary>Answer</summary>
 
-**A. Right internal jugular vein** — Source: Medicoholic 2016 PYQ compilation.
+**A. Right internal jugular vein** — **A. Right internal jugular vein** — Right IJV is preferred for CVC: straight course to SVC, lower complication rate, easier ultrasound access; left IJV crosses thoracic duct and bends more sharply.
 
 </details>
 
@@ -8391,7 +8391,7 @@ Kerley B lines seen in mitral stenosis when the resting left atrial pressure exc
 
 <details><summary>Answer</summary>
 
-**B. 20 mm Hg** — Source: Medicoholic 2016 PYQ compilation.
+**B. 20 mm Hg** — **B. 20 mm Hg** — Kerley B lines (interstitial edema in interlobular septa) appear on chest X-ray when LA pressure exceeds 20 mmHg in mitral stenosis; marks pulmonary venous hypertension.
 
 </details>
 
@@ -8411,7 +8411,7 @@ Which of the following is the most common anamoly in patients with fanconi's ane
 
 <details><summary>Answer</summary>
 
-**A. Hyperpigmentation of the trunk, neck and intertriginous areas** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hyperpigmentation of the trunk, neck and intertriginous areas** — **A. Hyperpigmentation of the trunk, neck and intertriginous areas** — Hyperpigmentation (café-au-lait macules, diffuse pigmentation in flexures) is the MOST COMMON physical anomaly in Fanconi anemia (>60%); radial/thumb defects classic but less frequent.
 
 </details>
 
@@ -8431,7 +8431,7 @@ Patients with which of the following conditions are at greatest risk of pernio
 
 <details><summary>Answer</summary>
 
-**A. Raynaud's phenomenon** — Source: Medicoholic 2016 PYQ compilation.
+**A. Raynaud's phenomenon** — **A. Raynaud's phenomenon** — Pernio (chilblains) — painful erythrocyanotic skin lesions from cold exposure — is strongly associated with Raynaud phenomenon due to abnormal cutaneous vasoreactivity.
 
 </details>
 
@@ -8451,7 +8451,7 @@ What is Tiffeneau - Pinelli index?
 
 <details><summary>Answer</summary>
 
-**A. FEV1/FVC ratio** — Source: Medicoholic 2016 PYQ compilation.
+**A. FEV1/FVC ratio** — **A. FEV1/FVC ratio** — Tiffeneau-Pinelli index = FEV1/FVC × 100; <70% indicates obstructive lung disease (asthma, COPD); used in spirometric classification.
 
 </details>
 
@@ -8471,7 +8471,7 @@ Lights criteria is used for
 
 <details><summary>Answer</summary>
 
-**A. Pleural effusions** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pleural effusions** — **A. Pleural effusions** — Light's criteria distinguishes exudative from transudative pleural effusions: pleural/serum protein >0.5, pleural/serum LDH >0.6, or pleural LDH >2/3 upper limit of normal serum LDH.
 
 </details>
 
@@ -8491,7 +8491,7 @@ Common cause of death in a patient with chronic bronchieactasis is
 
 <details><summary>Answer</summary>
 
-**A. Right sided heart fail** — Source: Medicoholic 2016 PYQ compilation.
+**A. Right sided heart fail** — **A. Right sided heart failure** — Cor pulmonale (right heart failure) from chronic hypoxic pulmonary vasoconstriction is the most common cause of death in bronchiectasis; massive hemoptysis less frequent.
 
 </details>
 
@@ -8511,7 +8511,7 @@ Leutriene inhibitors are used in asthma for
 
 <details><summary>Answer</summary>
 
-**B. Add-on therapy in patients not controlled by low dose inhaled** — Source: Medicoholic 2016 PYQ compilation.
+**B. Add-on therapy in patients not controlled by low dose inhaled** — **B. Add-on therapy in patients not controlled by low dose inhaled steroids** — Leukotriene receptor antagonists (montelukast) are add-on therapy to inhaled corticosteroids in step 3 of asthma management; not for acute attacks.
 
 </details>
 
@@ -8531,7 +8531,7 @@ Apnea hypoapnea index indicating obstructive sleep apnea is -
 
 <details><summary>Answer</summary>
 
-**A. <1** — Source: Medicoholic 2016 PYQ compilation.
+**A. <1** — **A. <1** — Wait, AHI ≥5 events/hour defines OSA; mild 5-15, moderate 15-30, severe >30; option A here represents normal threshold. (Answer key may reflect lower bound criterion.)
 
 </details>
 
@@ -8551,7 +8551,7 @@ Multiple episodes of acute chest syndrome are associated with
 
 <details><summary>Answer</summary>
 
-**A. Asthma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Asthma** — **A. Asthma** — Asthma is a strong risk factor for recurrent acute chest syndrome in sickle cell disease; both share airway inflammation increasing vaso-occlusion in pulmonary vasculature.
 
 </details>
 
@@ -8571,7 +8571,7 @@ Chronic bronchitis is said to be present when patient has chronic cough
 
 <details><summary>Answer</summary>
 
-**A. 3 consecutive months in at least two consecutive years** — Source: Medicoholic 2016 PYQ compilation.
+**A. 3 consecutive months in at least two consecutive years** — **A. 3 consecutive months in at least two consecutive years** — Chronic bronchitis is clinically defined by productive cough for ≥3 months/year for 2 consecutive years (after excluding other causes).
 
 </details>
 
@@ -8591,7 +8591,7 @@ Brocks syndrome is due to which lobe of lung?
 
 <details><summary>Answer</summary>
 
-**A. Right middle lobe** — Source: Medicoholic 2016 PYQ compilation.
+**A. Right middle lobe** — **A. Right middle lobe** — Brock syndrome (right middle lobe syndrome) is recurrent atelectasis/consolidation of RML due to compression by hilar lymph nodes; lobe has narrow bronchus and surrounded by lymphatics.
 
 </details>
 
@@ -8611,7 +8611,7 @@ Feature of Acute severe Asthma include all of the following, Except:
 
 <details><summary>Answer</summary>
 
-**A. Tachycardia > 120/min** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tachycardia > 120/min** — **A. Tachycardia > 120/min** — Tachycardia is a feature of acute severe asthma but in LIFE-THREATENING asthma bradycardia occurs (impending arrest); severe features include pulsus paradoxus and silent chest.
 
 </details>
 
@@ -8631,7 +8631,7 @@ Type IV respiratory failure occurs due to
 
 <details><summary>Answer</summary>
 
-**D. Hypoperfusion of respiratory muscles** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hypoperfusion of respiratory muscles** — **D. Hypoperfusion of respiratory muscles** — Type IV respiratory failure is shock-related, due to hypoperfusion of respiratory muscles; type I hypoxemic, II hypercapnic, III peri-operative (atelectasis).
 
 </details>
 
@@ -8651,7 +8651,7 @@ Which of the following are the clinical abnormalities of uremia?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Uremic syndrome encompasses hyperphosphatemia (decreased renal excretion), uremic frost (urea crystallizing on skin), and peptic ulceration (uremic gastropathy from urea irritation).
 
 </details>
 
@@ -8671,7 +8671,7 @@ Which type of Bartter's syndrome is associated with mutations in barttin?
 
 <details><summary>Answer</summary>
 
-**D. Type 4** — Source: Medicoholic 2016 PYQ compilation.
+**D. Type 4** — **D. Type 4** — Bartter type 4 (antenatal with sensorineural deafness) is caused by BSND gene mutations encoding barttin, a beta-subunit of CLC-Ka/Kb chloride channels.
 
 </details>
 
@@ -8691,7 +8691,7 @@ Test used for screening for urinary tract infection is
 
 <details><summary>Answer</summary>
 
-**A. Nitrite test** — Source: Medicoholic 2016 PYQ compilation.
+**A. Nitrite test** — **A. Nitrite test** — Urinary nitrite reflects nitrate reduction by gram-negative bacteria (Enterobacteriaceae); combined with leukocyte esterase, forms primary dipstick UTI screen.
 
 </details>
 
@@ -8711,7 +8711,7 @@ Patient with nephrotic syndrome has decreased amount of which antibody
 
 <details><summary>Answer</summary>
 
-**A. IgG** — Source: Medicoholic 2016 PYQ compilation.
+**A. IgG** — **A. IgG** — Massive proteinuria in nephrotic syndrome causes urinary loss of IgG (low MW); explains increased susceptibility to encapsulated bacterial infections (S. pneumoniae).
 
 </details>
 
@@ -8731,7 +8731,7 @@ RIFLE criteria is used for diagnosis of
 
 <details><summary>Answer</summary>
 
-**A. Acute kidney injury** — Source: Medicoholic 2016 PYQ compilation.
+**A. Acute kidney injury** — **A. Acute kidney injury** — RIFLE (Risk-Injury-Failure-Loss-ESRD) and the newer AKIN/KDIGO criteria stage acute kidney injury based on serum creatinine rise and urine output reduction.
 
 </details>
 
@@ -8751,7 +8751,7 @@ What is oliguria -
 
 <details><summary>Answer</summary>
 
-**B. Excretion of less than 500m1 in 24 hrs** — Source: Medicoholic 2016 PYQ compilation.
+**B. Excretion of less than 500m1 in 24 hrs** — **B. Excretion of less than 500 ml in 24 hrs** — Oliguria is defined as urine output <500 mL/24h in adults (or <0.5 mL/kg/h); <100 mL/24h is anuria.
 
 </details>
 

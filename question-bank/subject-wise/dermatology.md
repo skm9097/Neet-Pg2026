@@ -2358,7 +2358,7 @@ Woronoff's ring is a feature of?
 
 <details><summary>Answer</summary>
 
-**A. Psoriasis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Psoriasis** — **A. Psoriasis** — Woronoff's ring is a pale blanched halo surrounding resolving psoriatic plaques (especially after phototherapy); reflects altered prostaglandin response in surrounding skin.
 
 </details>
 
@@ -2378,7 +2378,7 @@ Which of the following is not a feature of lichen planus?
 
 <details><summary>Answer</summary>
 
-**D. Not premalignant** — Source: Medicoholic 2016 PYQ compilation.
+**D. Not premalignant** — **D. Not premalignant** — Lichen planus (especially oral/erosive type) carries a small but recognised risk of malignant transformation to squamous cell carcinoma (~1-5%), so it IS considered premalignant.
 
 </details>
 
@@ -2398,7 +2398,7 @@ First generation topical retinoid is?
 
 <details><summary>Answer</summary>
 
-**A. Retinoic acid** — Source: Medicoholic 2016 PYQ compilation.
+**A. Retinoic acid** — **A. Retinoic acid** — Tretinoin (all-trans retinoic acid) is the prototype first-generation retinoid; binds RAR receptors, normalises keratinisation, used in acne, photoaging, and ichthyosis.
 
 </details>
 
@@ -2418,7 +2418,7 @@ Jock itch is caused by?
 
 <details><summary>Answer</summary>
 
-**A. Epidermophyton floccosum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Epidermophyton floccosum** — **A. Epidermophyton floccosum** — Tinea cruris (jock itch) is most commonly caused by Epidermophyton floccosum (also Trichophyton rubrum); presents as pruritic annular plaque in groin; treated with topical/oral azoles or terbinafine.
 
 </details>
 
@@ -2438,7 +2438,7 @@ Hertoghe's sign is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Atopic dermatitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Atopic dermatitis** — **A. Atopic dermatitis** — Hertoghe sign is loss/thinning of the outer third of eyebrows; classically seen in atopic dermatitis (and hypothyroidism, leprosy); reflects chronic rubbing and inflammation.
 
 </details>
 
@@ -2458,7 +2458,7 @@ Preferred concentration of minoxidil for female androgenetic alopecia is?
 
 <details><summary>Answer</summary>
 
-**A. 2%** — Source: Medicoholic 2016 PYQ compilation.
+**A. 2%** — **A. 2%** — Topical minoxidil 2% is preferred in females (5% causes more facial hypertrichosis); opens potassium channels, prolongs anagen phase; used twice daily for androgenetic alopecia.
 
 </details>
 
@@ -2478,7 +2478,7 @@ Normal epidermal turnover time is?
 
 <details><summary>Answer</summary>
 
-**C. 3 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3 weeks** — **C. 3 weeks** — Normal epidermal transit time from basal layer to stratum corneum desquamation is approximately 28 days (3-4 weeks); shortened to 3-5 days in psoriasis.
 
 </details>
 
@@ -2498,7 +2498,7 @@ Pityriasis rosea clears with in?
 
 <details><summary>Answer</summary>
 
-**B. 2-4 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2-4 weeks** — **B. 2-4 weeks** — Pityriasis rosea (HHV-6/7 associated) presents with herald patch followed by Christmas-tree distribution; self-limiting and resolves spontaneously within 2-8 weeks (typically 2-4).
 
 </details>
 
@@ -2518,7 +2518,7 @@ Alopecia universalis is?
 
 <details><summary>Answer</summary>
 
-**B. Loss of all body hair** — Source: Medicoholic 2016 PYQ compilation.
+**B. Loss of all body hair** — **B. Loss of all body hair** — Alopecia universalis is the most severe form of alopecia areata with complete loss of scalp, eyebrow, eyelash, and body hair; autoimmune T-cell mediated against hair follicle antigens.
 
 </details>
 
@@ -2538,7 +2538,7 @@ Multiple psoriatic lesions on hands.
 
 <details><summary>Answer</summary>
 
-**C. Topical steroids and salicylic acid** — Source: Medicoholic 2016 PYQ compilation.
+**C. Topical steroids and salicylic acid** — **C. Topical steroids and salicylic acid** — Localised palmar psoriasis is treated with potent topical corticosteroids plus keratolytic salicylic acid; systemic therapy reserved for extensive or refractory disease.
 
 </details>
 
@@ -2558,7 +2558,7 @@ False about Langer's lines is?
 
 <details><summary>Answer</summary>
 
-**A. Remain constant throughout life time of a person** — Source: Medicoholic 2016 PYQ compilation.
+**A. Remain constant throughout life time of a person** — **A. Remain constant throughout life time of a person** — Langer's lines vary with age, body habitus, and posture (not constant); align with dermal collagen orientation; incisions along these lines yield optimal scars.
 
 </details>
 
@@ -2578,7 +2578,7 @@ Most common type of cutaneous mastocytosis is?
 
 <details><summary>Answer</summary>
 
-**B. Urticaria pigmentosa** — Source: Medicoholic 2016 PYQ compilation.
+**B. Urticaria pigmentosa** — **B. Urticaria pigmentosa** — Urticaria pigmentosa (maculopapular cutaneous mastocytosis) is the commonest form; multiple reddish-brown macules show Darier's sign (urtication on stroking); KIT D816V mutation.
 
 </details>
 
@@ -2598,7 +2598,7 @@ Volcano sign is seen in?
 
 <details><summary>Answer</summary>
 
-**B. Leishmaniasis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Leishmaniasis** — **B. Leishmaniasis** — Cutaneous leishmaniasis (oriental sore) heals with a central crater-like depression and raised edges resembling a volcano; caused by Leishmania tropica/major; treated with antimonials.
 
 </details>
 
@@ -2618,7 +2618,7 @@ Most common metal responsible for contact dermatitis is ?
 
 <details><summary>Answer</summary>
 
-**C. Nickel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nickel** — **C. Nickel** — Nickel is the commonest contact allergen worldwide (jewellery, belt buckles, coins); causes type IV delayed hypersensitivity; confirmed by patch testing; F>M due to ear piercing.
 
 </details>
 
@@ -2638,7 +2638,7 @@ Which of the following is true about xeroderma pigmentosa?
 
 <details><summary>Answer</summary>
 
-**D. DNA repair defect** — Source: Medicoholic 2016 PYQ compilation.
+**D. DNA repair defect** — **D. DNA repair defect** — Xeroderma pigmentosum is autosomal recessive defect in nucleotide excision repair (XPA-XPG genes) failing to repair UV-induced pyrimidine dimers; extreme photosensitivity, skin cancers.
 
 </details>
 
@@ -2658,7 +2658,7 @@ Nevus simplex commonly presents at ?
 
 <details><summary>Answer</summary>
 
-**A. Face** — Source: Medicoholic 2016 PYQ compilation.
+**A. Face** — **A. Face** — Nevus simplex (salmon patch, angel kiss, stork bite) is a capillary malformation on face (forehead, eyelids, nape); fades spontaneously in infancy unlike port-wine stain.
 
 </details>
 
@@ -2678,7 +2678,7 @@ In mechanical ventilation, peak pressure in inspiration denotes ?
 
 <details><summary>Answer</summary>
 
-**C. Airway resistance** — Source: Medicoholic 2016 PYQ compilation.
+**C. Airway resistance** — **C. Airway resistance** — Peak inspiratory pressure reflects both airway resistance and lung compliance; the difference between peak and plateau pressures specifically indicates airway resistance.
 
 </details>
 
@@ -2698,7 +2698,7 @@ American anesthetic association says that clopidogrel should be withheld how man
 
 <details><summary>Answer</summary>
 
-**B. 1 week** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1 week** — **B. 1 week** — ASA recommends withholding clopidogrel for 5-7 days before elective surgery due to irreversible P2Y12 platelet receptor inhibition; aspirin withheld 7 days, warfarin 5 days.
 
 </details>
 
@@ -2718,7 +2718,7 @@ Etomidate is not used for long term infusion because?
 
 <details><summary>Answer</summary>
 
-**A. Results in adrenal suppression** — Source: Medicoholic 2016 PYQ compilation.
+**A. Results in adrenal suppression** — **A. Results in adrenal suppression** — Etomidate inhibits 11-beta-hydroxylase causing adrenal cortical suppression; safe for single-dose induction but contraindicated for infusion (increased ICU mortality in sepsis).
 
 </details>
 
@@ -2738,7 +2738,7 @@ Succinylcholine is contraindicated in?
 
 <details><summary>Answer</summary>
 
-**A. Hyperkalemia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hyperkalemia** — **A. Hyperkalemia** — Succinylcholine (depolarising muscle relaxant) causes potassium efflux raising serum K+ by 0.5 mEq/L; contraindicated in burns, crush injury, denervation, and pre-existing hyperkalemia (risk of cardiac arrest).
 
 </details>
 
@@ -2758,7 +2758,7 @@ Intra-arterial thiopentone injection leads to?
 
 <details><summary>Answer</summary>
 
-**A. Ischemia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Ischemia** — **A. Ischemia** — Intra-arterial thiopentone crystallises at arterial pH causing endothelial damage, vasospasm, thrombosis, and distal limb ischemia/gangrene; treat with intra-arterial papaverine/heparin.
 
 </details>
 
@@ -2778,7 +2778,7 @@ Size of LMA for a 15kg child is?
 
 <details><summary>Answer</summary>
 
-**B. 2** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2** — **B. 2** — LMA size selection by weight: size 1 (<5 kg), 1.5 (5-10 kg), 2 (10-20 kg), 2.5 (20-30 kg), 3 (30-50 kg), 4 (50-70 kg); 15 kg child takes size 2.
 
 </details>
 
@@ -2798,7 +2798,7 @@ Type E circuit is used for?
 
 <details><summary>Answer</summary>
 
-**C. Children** — Source: Medicoholic 2016 PYQ compilation.
+**C. Children** — **C. Children** — Mapleson E (Ayre's T-piece) is a valveless, low-resistance, low-dead-space breathing circuit ideal for paediatric spontaneous ventilation; Jackson-Rees modification adds open bag for controlled ventilation.
 
 </details>
 
@@ -2818,7 +2818,7 @@ Radiation protection shields are made up of:
 
 <details><summary>Answer</summary>
 
-**C. Lead** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lead** — **C. Lead** — Lead has high atomic number (Z=82) and density making it highly effective at attenuating X-rays and gamma rays; standard 0.25-0.5 mm lead equivalent in aprons, shields, and walls.
 
 </details>
 
@@ -2838,7 +2838,7 @@ Soap bubble appearance on MRI brain is characteristic of?
 
 <details><summary>Answer</summary>
 
-**C. Cryptococcal cysts** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cryptococcal cysts** — **C. Cryptococcal cysts** — Cryptococcus neoformans causes gelatinous pseudocysts in basal ganglia and midbrain (Virchow-Robin spaces) appearing as 'soap bubble' lesions on T2 MRI in immunocompromised patients.
 
 </details>
 
@@ -2858,7 +2858,7 @@ T2 image in MRI is -
 
 <details><summary>Answer</summary>
 
-**A. Good to detect pathology** — Source: Medicoholic 2016 PYQ compilation.
+**A. Good to detect pathology** — **A. Good to detect pathology** — T2-weighted images show water/edema as hyperintense (bright); most pathologies (tumour, infarct, infection, edema) increase tissue water making T2 ideal for pathology detection; T1 better for anatomy.
 
 </details>
 
@@ -2878,7 +2878,7 @@ CSF on MRI appears:
 
 <details><summary>Answer</summary>
 
-**B. Hypointense on T1 weighed image and hyperintense on T2** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hypointense on T1 weighed image and hyperintense on T2** — **B. Hypointense on T1 weighed image and hyperintense on T2** — CSF (water) has long T1 (dark on T1) and long T2 (bright on T2); useful to identify ventricles and subarachnoid spaces; FLAIR suppresses CSF signal.
 
 </details>
 
@@ -2898,7 +2898,7 @@ MIBG dose is -
 
 <details><summary>Answer</summary>
 
-**A. 40-80MBq** — Source: Medicoholic 2016 PYQ compilation.
+**A. 40-80MBq** — **A. 40-80MBq** — I-123/I-131 MIBG (metaiodobenzylguanidine, norepinephrine analogue) scintigraphy diagnostic dose is 40-80 MBq; localises pheochromocytoma, neuroblastoma, and paraganglioma via NET uptake.
 
 </details>
 
@@ -2918,7 +2918,7 @@ The maximum permissible level of occupational exposure to radiation is...per yea
 
 <details><summary>Answer</summary>
 
-**A. 5 rad** — Source: Medicoholic 2016 PYQ compilation.
+**A. 5 rad** — **A. 5 rad** — ICRP occupational radiation dose limit is 50 mSv (5 rem/5 rad) per year, averaged 20 mSv/yr over 5 years; public limit is 1 mSv/year; pregnant workers 1 mSv to fetus.
 
 </details>
 
@@ -2938,7 +2938,7 @@ Radiographic sign characteristic of pulmonary edema is -
 
 <details><summary>Answer</summary>
 
-**D. Bat wing sign** — Source: Medicoholic 2016 PYQ compilation.
+**D. Bat wing sign** — **D. Bat wing sign** — Bilateral perihilar 'bat-wing' or 'butterfly' alveolar opacities sparing the periphery are classic for acute cardiogenic pulmonary edema; Westermark/Hampton/Palla signs indicate pulmonary embolism.
 
 </details>
 
@@ -2958,7 +2958,7 @@ Snow storm appearance on chest X-ray is seen in -
 
 <details><summary>Answer</summary>
 
-**C. Silicosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Silicosis** — **C. Silicosis** — Silicosis shows multiple small nodular opacities (egg-shell calcification of hilar nodes, snow-storm appearance) due to inhaled silica dust; high risk of TB and lung cancer.
 
 </details>
 
@@ -2978,7 +2978,7 @@ Snow storm appearance on chest X-ray is seen in -
 
 <details><summary>Answer</summary>
 
-**B. Duplicated collecting system** — Source: Medicoholic 2016 PYQ compilation.
+**B. Duplicated collecting system** — **B. Duplicated collecting system** — Drooping lily sign on IVU represents downward displacement of an opacified lower-pole moiety by a non-functioning hydronephrotic upper-pole moiety in duplex kidney with ectopic ureterocele.
 
 </details>
 
@@ -2998,7 +2998,7 @@ Sonographic appearance of hydatid cyst is -
 
 <details><summary>Answer</summary>
 
-**D. Hypoechoic septate lesion** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hypoechoic septate lesion** — **D. Hypoechoic septate lesion** — Hepatic hydatid cyst (Echinococcus granulosus) appears as hypoechoic cyst with internal septations (daughter cysts), water-lily sign, or wheel-spoke pattern (Gharbi classification).
 
 </details>
 
@@ -3018,7 +3018,7 @@ Roentgen is the unit of:
 
 <details><summary>Answer</summary>
 
-**B. Radiation exposure** — Source: Medicoholic 2016 PYQ compilation.
+**B. Radiation exposure** — **B. Radiation exposure** — Roentgen (R) measures radiation exposure (ionisation of air); SI unit is coulomb/kg; not to be confused with absorbed dose (Gray) or equivalent dose (Sievert).
 
 </details>
 
@@ -3038,7 +3038,7 @@ SI unit of radioactivity is: March 2013 (c, f)
 
 <details><summary>Answer</summary>
 
-**C. Becuerel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Becuerel** — **C. Becquerel** — Becquerel (Bq) = 1 disintegration/second is the SI unit of radioactivity; old unit Curie (1 Ci = 3.7×10^10 Bq); measures rate of nuclear decay.
 
 </details>
 
@@ -3058,7 +3058,7 @@ SI unit of absorbed dose is -
 
 <details><summary>Answer</summary>
 
-**C. Gray** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gray** — **C. Gray** — Gray (Gy) = 1 joule/kg is the SI unit of absorbed dose (energy deposited per unit mass); old unit rad (1 Gy = 100 rad); Sievert measures equivalent dose.
 
 </details>
 
@@ -3078,7 +3078,7 @@ Stenver's view is used for -
 
 <details><summary>Answer</summary>
 
-**C. Internal auditory canal** — Source: Medicoholic 2016 PYQ compilation.
+**C. Internal auditory canal** — **C. Internal auditory canal** — Stenver's view (postero-anterior 45° oblique projection of skull) demonstrates the internal auditory canal, petrous temporal bone, and mastoid; used in acoustic neuroma evaluation.
 
 </details>
 
@@ -3098,7 +3098,7 @@ Acute myocarditis schintigraphy is done with -
 
 <details><summary>Answer</summary>
 
-**C. Gallium** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gallium** — **C. Gallium** — Gallium-67 citrate accumulates in inflammatory cells and is used for diagnosing myocarditis, sarcoidosis, and lymphoma; binds transferrin receptors on activated leukocytes.
 
 </details>
 
@@ -3118,7 +3118,7 @@ Safe light in radiographic dark room is ideally should be of following color -
 
 <details><summary>Answer</summary>
 
-**A. Red** — Source: Medicoholic 2016 PYQ compilation.
+**A. Red** — **A. Red** — Red safelight (Wratten filter) emits long-wavelength light (>600 nm) to which silver bromide emulsions in X-ray film are insensitive, preventing fogging during darkroom processing.
 
 </details>
 
@@ -3138,7 +3138,7 @@ Commonly used type of radiation in radiotherapy is:
 
 <details><summary>Answer</summary>
 
-**C. Gamma rays** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gamma rays** — **C. Gamma rays** — Gamma rays from Cobalt-60 teletherapy and high-energy photons from linear accelerators are most commonly used in external beam radiotherapy; deeper penetration than alpha/beta particles.
 
 </details>
 
@@ -3158,7 +3158,7 @@ The photosensitive material used in X- rays films consist of:
 
 <details><summary>Answer</summary>
 
-**B. Silver bromide** — Source: Medicoholic 2016 PYQ compilation.
+**B. Silver bromide** — **B. Silver bromide** — X-ray film emulsion contains silver halide crystals (predominantly silver bromide with small silver iodide) suspended in gelatin; sensitised by X-rays/light to form latent image, developed to metallic silver.
 
 </details>
 
@@ -3178,7 +3178,7 @@ A 40 year old married male thinks that he is multitalented and is always overcon
 
 <details><summary>Answer</summary>
 
-**C. Paranoid personality disorder** — Source: Medicoholic 2016 PYQ compilation.
+**C. Paranoid personality disorder** — **C. Paranoid personality disorder** — Pervasive distrust, suspiciousness, refusal to accept advice, and grandiose self-perception characterise paranoid personality disorder (Cluster A); patient interprets benign actions as hostile.
 
 </details>
 
@@ -3198,7 +3198,7 @@ Characteristic of histrionic personality disorder is?
 
 <details><summary>Answer</summary>
 
-**B. Attention - seeking behavior** — Source: Medicoholic 2016 PYQ compilation.
+**B. Attention - seeking behavior** — **B. Attention - seeking behavior** — Histrionic personality disorder (Cluster B) features excessive emotionality, attention-seeking, theatrical/seductive behaviour, and shallow rapidly shifting emotions (DSM-5).
 
 </details>
 
@@ -3218,7 +3218,7 @@ Risk factor for suicide is?
 
 <details><summary>Answer</summary>
 
-**B. Drug abuse** — Source: Medicoholic 2016 PYQ compilation.
+**B. Drug abuse** — **B. Drug abuse** — Substance abuse increases suicide risk 6-fold by impulsivity, depression, and intoxication; SAD PERSONS scale: male sex, prior attempts, alcohol/drugs, depression, social isolation are major risk factors.
 
 </details>
 
@@ -3238,7 +3238,7 @@ Functional somatic disorder is?
 
 <details><summary>Answer</summary>
 
-**B. Chronic fatigue syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**B. Chronic fatigue syndrome** — **B. Chronic fatigue syndrome** — Chronic fatigue syndrome (myalgic encephalomyelitis) is a functional somatic syndrome with unexplained fatigue >6 months; overlaps with fibromyalgia and IBS; managed with CBT and graded exercise.
 
 </details>
 
@@ -3258,7 +3258,7 @@ DHAT syndrome is?
 
 <details><summary>Answer</summary>
 
-**B. Passage of semen in urine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Passage of semen in urine** — **B. Passage of semen in urine** — Dhat syndrome is a South Asian culture-bound illness characterised by anxiety, fatigue, and somatic complaints attributed to perceived loss of semen in urine; treated with SSRIs and CBT.
 
 </details>
 
@@ -3278,7 +3278,7 @@ Suicide rate in India is?
 
 <details><summary>Answer</summary>
 
-**A. 10.5 /100,000** — Source: Medicoholic 2016 PYQ compilation.
+**A. 10.5 /100,000** — **A. 10.5 /100,000** — India's suicide rate is approximately 10.5-12 per 100,000 (NCRB data); higher in southern states, students, farmers, and young adults; hanging and poisoning are commonest methods.
 
 </details>
 
@@ -3298,7 +3298,7 @@ Which of the following is not a culture bound syndrome?
 
 <details><summary>Answer</summary>
 
-**D. Von-Gogh** — Source: Medicoholic 2016 PYQ compilation.
+**D. Von-Gogh** — **D. Von-Gogh** — Van Gogh syndrome (auto-mutilation, ear amputation) is not a culture-bound syndrome; Amok (Malaysia), Latah (SE Asia), and Dhat (India) are recognised culture-bound syndromes in DSM.
 
 </details>
 
@@ -3318,7 +3318,7 @@ Scatologia is?
 
 <details><summary>Answer</summary>
 
-**C. Paraphilia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Paraphilia** — **C. Paraphilia** — Telephone scatologia is a paraphilic disorder involving sexual arousal from making obscene phone calls to non-consenting persons; paraphilias also include voyeurism, exhibitionism, and frotteurism.
 
 </details>
 
@@ -3338,7 +3338,7 @@ Loading dose of diazepam for alcohol withdrawal is?
 
 <details><summary>Answer</summary>
 
-**D. 20mg** — Source: Medicoholic 2016 PYQ compilation.
+**D. 20mg** — **D. 20mg** — Diazepam 20 mg orally every 1-2 hours until symptom control (CIWA score <10) is standard loading regimen for alcohol withdrawal; long half-life provides self-tapering benzodiazepine cover.
 
 </details>
 
@@ -3358,7 +3358,7 @@ Which of the following is not a side effect of quetiapine?
 
 <details><summary>Answer</summary>
 
-**B. Hair loss** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hair loss** — **B. Hair loss** — Quetiapine (atypical antipsychotic) causes sedation, dry mouth, weight gain, dyspepsia, postural hypotension, and QT prolongation; alopecia is not a recognised side effect.
 
 </details>
 
@@ -3378,7 +3378,7 @@ Other 28 children developed chickenpox within next 2 week what is the SAR of chi
 
 <details><summary>Answer</summary>
 
-**C. 80%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 80%** — **C. 80%** — Secondary attack rate of varicella among susceptible household contacts is approximately 80-90%, reflecting its high contagiousness via respiratory droplets and direct contact with vesicle fluid.
 
 </details>
 

@@ -12361,7 +12361,7 @@ Alkaline diuresis in acidic drug poisoning is not done in ?
 
 <details><summary>Answer</summary>
 
-**C. Morphine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Morphine** — **C. Morphine** — Morphine is a weak base, not an acid; alkaline diuresis (NaHCO3) ion-traps weak acids (salicylates, phenobarbitone, methotrexate). Morphine poisoning is treated with naloxone.
 
 </details>
 
@@ -12377,7 +12377,7 @@ Not a feature of postmortem staining -
 
 <details><summary>Answer</summary>
 
-**A. Occur immediate after death** — Source: Medicoholic 2015 PYQ compilation.
+**A. Occur immediate after death** — **A. Occur immediate after death** — Postmortem lividity (hypostasis) starts 30 min–2 hours after death, becomes fixed by 6–12 hours; appears in dependent parts, has sharp margins, and fades with putrefaction.
 
 </details>
 
@@ -12393,7 +12393,7 @@ Best temperature for putrefaction is -
 
 <details><summary>Answer</summary>
 
-**B. 10-45 C** — Source: Medicoholic 2015 PYQ compilation.
+**B. 10-45 C** — **B. 10-45 C** — Optimum temperature for bacterial putrefaction is 21–38°C (range 10–45°C); below 10°C or above 45°C, enzyme/bacterial activity is halted and decomposition is delayed.
 
 </details>
 
@@ -12409,7 +12409,7 @@ Best indicator of antemortem drowning is: Delhi 07; TN 11
 
 <details><summary>Answer</summary>
 
-**A. Froth in nostrils** — Source: Medicoholic 2015 PYQ compilation.
+**A. Froth in nostrils** — **A. Froth in nostrils** — Fine, leathery, tenacious white/blood-tinged froth at mouth/nostrils (Champignon de mousse) is the most reliable sign of antemortem drowning; produced by violent respiratory efforts mixing air, water, and mucus.
 
 </details>
 
@@ -12425,7 +12425,7 @@ Arsenic poisoning presents with symptoms mimicking
 
 <details><summary>Answer</summary>
 
-**A. Cholera** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cholera** — **A. Cholera** — Acute arsenic poisoning causes profuse rice-water diarrhoea, severe vomiting, dehydration, garlicky breath, and shock — clinically indistinguishable from cholera (called 'cholera nostras').
 
 </details>
 
@@ -12441,7 +12441,7 @@ Which of the following is most specific for arsenic poisoning ?
 
 <details><summary>Answer</summary>
 
-**A. Red velvety stomach mucosa** — Source: Medicoholic 2015 PYQ compilation.
+**A. Red velvety stomach mucosa** — **A. Red velvety stomach mucosa** — Acute arsenic poisoning produces characteristic red-velvety congestion of gastric mucosa with submucosal petechiae; blue gum line is lead, tremors are mercury.
 
 </details>
 
@@ -12457,7 +12457,7 @@ Arrow poison is ?
 
 <details><summary>Answer</summary>
 
-**B. Curare** — Source: Medicoholic 2015 PYQ compilation.
+**B. Curare** — **B. Curare** — d-Tubocurarine (from Chondrodendron) was the classic South American arrow poison; non-depolarising neuromuscular blocker causing flaccid paralysis and death by respiratory failure.
 
 </details>
 
@@ -12473,7 +12473,7 @@ Best method of treatment of Methyl alcohol poisoning is :
 
 <details><summary>Answer</summary>
 
-**B. Ethyl alcohol** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ethyl alcohol** — **B. Ethyl alcohol** — Ethanol (or fomepizole) competitively inhibits alcohol dehydrogenase (higher affinity), preventing methanol's conversion to toxic formaldehyde/formic acid; bicarbonate and folate are adjuncts.
 
 </details>
 
@@ -12489,7 +12489,7 @@ Miner's cramps are also called: NEET 13
 
 <details><summary>Answer</summary>
 
-**B. Heat cramps** — Source: Medicoholic 2015 PYQ compilation.
+**B. Heat cramps** — **B. Heat cramps** — Miner's/stoker's/fireman's cramps are painful muscle spasms due to excessive sweating with salt loss in hot environments; synonymous with heat cramps. Treated with oral/IV saline.
 
 </details>
 
@@ -12505,7 +12505,7 @@ Corona mortis is ?
 
 <details><summary>Answer</summary>
 
-**A. Is a vascular anastomosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Is a vascular anastomosis** — **A. Is a vascular anastomosis** — Corona mortis ('crown of death') is an anastomosis between the obturator and external iliac/inferior epigastric arteries crossing the superior pubic ramus; risk of catastrophic haemorrhage during pelvic surgery.
 
 </details>
 
@@ -12521,7 +12521,7 @@ Which of the following can be used for obtaining specimen for isolation of micro
 
 <details><summary>Answer</summary>
 
-**A. Meningococcal rash** — Source: Medicoholic 2015 PYQ compilation.
+**A. Meningococcal rash** — **A. Meningococcal rash** — Petechial/purpuric meningococcal skin lesions contain N. meningitidis and can be aspirated/scraped for culture; staphylococcal food poisoning is toxin-mediated (no bacteremia), Rh fever/PSGN are post-infectious.
 
 </details>
 
@@ -12537,7 +12537,7 @@ Which is not an aryl organophosphate ?
 
 <details><summary>Answer</summary>
 
-**A. Malathion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Malathion** — **A. Malathion** — Malathion is an alkyl (aliphatic) organophosphate; parathion, chlorthion, methyl-parathion, diazinon are aryl organophosphates. Alkyl OPs are hydrolysed faster and reactivated by oximes.
 
 </details>
 
@@ -12553,7 +12553,7 @@ MC cause of delirium ?
 
 <details><summary>Answer</summary>
 
-**A. Infection** — Source: Medicoholic 2015 PYQ compilation.
+**A. Infection** — **A. Infection** — Infection (especially UTI, pneumonia) is the most common cause of delirium, particularly in elderly; followed by metabolic disturbances, drugs, and electrolyte imbalance.
 
 </details>
 
@@ -12569,7 +12569,7 @@ True about flumazenil is ?
 
 <details><summary>Answer</summary>
 
-**C. Can be used in benzodiazepine overdose** — Source: Medicoholic 2015 PYQ compilation.
+**C. Can be used in benzodiazepine overdose** — **C. Can be used in benzodiazepine overdose** — Flumazenil is a competitive benzodiazepine receptor antagonist; reverses BZD-induced sedation/respiratory depression. No effect on barbiturates; naloxone is opioid antidote.
 
 </details>
 
@@ -21771,7 +21771,7 @@ Which of the following prevents hyperextension of thigh
 
 <details><summary>Answer</summary>
 
-**B. Iliofemoral ligament** — Source: Medicoholic 2015 PYQ compilation.
+**B. Iliofemoral ligament** — **B. Iliofemoral ligament** — Iliofemoral (Y-ligament of Bigelow) is the strongest ligament of the hip; resists hyperextension and maintains erect posture without muscular effort during standing.
 
 </details>
 
@@ -21787,7 +21787,7 @@ All are components of Spermatic cord except :
 
 <details><summary>Answer</summary>
 
-**A. Poupart's ligament** — Source: Medicoholic 2015 PYQ compilation.
+**A. Poupart's ligament** — **A. Poupart's ligament** — Poupart's (inguinal) ligament forms the floor of the inguinal canal, not part of the cord. Cord contains: vas deferens, testicular/cremasteric/vas arteries, pampiniform plexus, genitofemoral nerve.
 
 </details>
 
@@ -21803,7 +21803,7 @@ Which of the following is a derivative of ventral mesogastrium ?
 
 <details><summary>Answer</summary>
 
-**D. Lesser omentum** — Source: Medicoholic 2015 PYQ compilation.
+**D. Lesser omentum** — **D. Lesser omentum** — Ventral mesogastrium gives rise to lesser omentum and falciform ligament; greater omentum, gastrosplenic, and lienorenal ligaments are derivatives of dorsal mesogastrium.
 
 </details>
 
@@ -21819,7 +21819,7 @@ All of the following are extrinsic laryngeal membranes except?
 
 <details><summary>Answer</summary>
 
-**A. Quadrangular membrane** — Source: Medicoholic 2015 PYQ compilation.
+**A. Quadrangular membrane** — **A. Quadrangular membrane** — Quadrangular membrane is an intrinsic laryngeal membrane (extends from epiglottis to arytenoid); extrinsic membranes connect larynx to surrounding structures (thyrohyoid, cricotracheal, hyoepiglottic).
 
 </details>
 
@@ -21835,7 +21835,7 @@ Vacuum assisted closure is contraindicated in which of the following conditions 
 
 <details><summary>Answer</summary>
 
-**B. Large amount of necrotic tissue with eschar** — Source: Medicoholic 2015 PYQ compilation.
+**B. Large amount of necrotic tissue with eschar** — **B. Large amount of necrotic tissue with eschar** — VAC therapy contraindicated in necrotic wounds with eschar, malignancy in wound, untreated osteomyelitis, exposed vessels/nerves, and enteric fistulae; debridement must precede VAC application.
 
 </details>
 
@@ -21851,7 +21851,7 @@ Snapping knee syndrome is due to involvement of -
 
 <details><summary>Answer</summary>
 
-**A. Pes Anserinus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pes Anserinus** — **A. Pes Anserinus** — Snapping knee syndrome is due to snapping of the pes anserinus tendons (sartorius, gracilis, semitendinosus) over the medial tibial condyle during knee flexion/extension.
 
 </details>
 
@@ -21867,7 +21867,7 @@ Sudden dorsiflexion of foot may lead to which of the following injuries -
 
 <details><summary>Answer</summary>
 
-**B. Tendo Achilles avulsion injury** — Source: Medicoholic 2015 PYQ compilation.
+**B. Tendo Achilles avulsion injury** — **B. Tendo Achilles avulsion injury** — Sudden forced dorsiflexion stretches the gastrocnemius-soleus complex causing tendo-Achilles rupture/avulsion; presents with palpable gap, positive Thompson test, weak plantarflexion.
 
 </details>
 
@@ -21883,7 +21883,7 @@ Not seen in anorexia nervosa:
 
 <details><summary>Answer</summary>
 
-**D. Menorrhagia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Menorrhagia** — **D. Menorrhagia** — Anorexia nervosa causes hypothalamic amenorrhoea (low GnRH/FSH/LH/estrogen), not menorrhagia. Other features: weight <85% expected, food refusal, osteoporosis, lanugo, bradycardia.
 
 </details>
 
@@ -24910,7 +24910,7 @@ Treatment of choice of mucinous carcinoma of Gall Bladder confined to the lamina
 
 <details><summary>Answer</summary>
 
-**A. Simple cholecystectomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Simple cholecystectomy** — **A. Simple cholecystectomy** — T1a gallbladder carcinoma (confined to lamina propria, not invading muscularis) has excellent prognosis and is adequately treated by simple cholecystectomy alone without further resection.
 
 </details>
 
@@ -24926,7 +24926,7 @@ A patient (age not captured in source) who is a year old woman presented with hi
 
 <details><summary>Answer</summary>
 
-**A. ERCP and bile duct stone extraction** — Source: Medicoholic 2015 PYQ compilation.
+**A. ERCP and bile duct stone extraction** — **A. ERCP and bile duct stone extraction** — For CBD stones with cholangitis, ERCP with sphincterotomy and stone extraction is first-line as it relieves obstruction without need for open surgery.
 
 </details>
 
@@ -24942,7 +24942,7 @@ All of the following are true about Hirschsprung disease except -
 
 <details><summary>Answer</summary>
 
-**D. The non peristaltic affected segment is dialted** — Source: Medicoholic 2015 PYQ compilation.
+**D. The non peristaltic affected segment is dialted** — **D. The non peristaltic affected segment is dilated** — In Hirschsprung disease, the aganglionic segment is narrow and non-peristaltic; the proximally normal innervated bowel becomes dilated (megacolon).
 
 </details>
 
@@ -24958,7 +24958,7 @@ All of the following are surgical options in management of esophageal carcinoma 
 
 <details><summary>Answer</summary>
 
-**D. Sistrunk operation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Sistrunk operation** — **D. Sistrunk operation** — Sistrunk procedure is used for thyroglossal duct cyst excision; esophagectomy approaches are Ivor-Lewis (right thoracotomy), McKeown (3-stage), and transhiatal.
 
 </details>
 
@@ -24974,7 +24974,7 @@ Chronic hemolytic anaemia is associated with which of the following -
 
 <details><summary>Answer</summary>
 
-**B. Black Pigment stone of the gall bladder** — Source: Medicoholic 2015 PYQ compilation.
+**B. Black Pigment stone of the gall bladder** — **B. Black Pigment stone of the gall bladder** — Chronic hemolysis increases unconjugated bilirubin precipitating as calcium bilirubinate; black pigment stones form in sterile gallbladder bile from hemolytic disorders.
 
 </details>
 
@@ -24990,7 +24990,7 @@ Reactionary Hemorrhage occurs due to -
 
 <details><summary>Answer</summary>
 
-**A. Dislodgement of clot** — Source: Medicoholic 2015 PYQ compilation.
+**A. Dislodgement of clot** — **A. Dislodgement of clot** — Reactionary hemorrhage occurs within 24 hours postoperatively due to slipping of ligature or dislodgement of clot as BP rises after recovery from anesthesia.
 
 </details>
 
@@ -25006,7 +25006,7 @@ Which of the following is correct management of abdominal compartment syndrome
 
 <details><summary>Answer</summary>
 
-**B. Urgent Opening of the surgical wound and application of the** — Source: Medicoholic 2015 PYQ compilation.
+**B. Urgent Opening of the surgical wound and application of the** — **B. Urgent Opening of the surgical wound** — Abdominal compartment syndrome (IAP >20 mmHg with organ dysfunction) requires urgent decompressive laparotomy to restore perfusion to abdominal viscera and kidneys.
 
 </details>
 
@@ -25022,7 +25022,7 @@ All of the following is true about congenital hypertrophic pyloric stenosis exce
 
 <details><summary>Answer</summary>
 
-**C. Metabolic acidosis occurs** — Source: Medicoholic 2015 PYQ compilation.
+**C. Metabolic acidosis occurs** — **C. Metabolic acidosis occurs** — CHPS causes hypochloremic, hypokalemic metabolic ALKALOSIS (not acidosis) due to recurrent vomiting of HCl-rich gastric contents.
 
 </details>
 
@@ -25038,7 +25038,7 @@ In a patient with renal cell carcinoma with a thrombus in IVC renal vein, which 
 
 <details><summary>Answer</summary>
 
-**A. CT scan** — Source: Medicoholic 2015 PYQ compilation.
+**A. CT scan** — **A. CT scan** — Contrast-enhanced CT is the best modality for RCC staging including IVC tumor thrombus, providing detail of tumor extent, nodal status, and metastases.
 
 </details>
 
@@ -25054,7 +25054,7 @@ Which of the following is the agent of choice for cryosurgery?
 
 <details><summary>Answer</summary>
 
-**C. Liquid nitrogen spray** — Source: Medicoholic 2015 PYQ compilation.
+**C. Liquid nitrogen spray** — **C. Liquid nitrogen spray** — Liquid nitrogen (−196°C) is the agent of choice for cryosurgery achieving the deepest tissue freezing; widely used for skin lesions, warts and tumors.
 
 </details>
 
@@ -25070,7 +25070,7 @@ A patient (age not captured in source) who is a year old female presents with a 
 
 <details><summary>Answer</summary>
 
-**B. Toxic Adenoma** — Source: Medicoholic 2015 PYQ compilation.
+**B. Toxic Adenoma** — **B. Toxic Adenoma** — A solitary hyperfunctioning ("hot") nodule on radioiodine scan with suppressed surrounding thyroid is diagnostic of toxic adenoma (Plummer disease) causing autonomous T3/T4 production.
 
 </details>
 
@@ -25086,7 +25086,7 @@ Which of the following stages of lip carcinoma do not have nodal involvement ?
 
 <details><summary>Answer</summary>
 
-**B. T3NO** — Source: Medicoholic 2015 PYQ compilation.
+**B. T3NO** — **B. T3N0** — N0 denotes no regional lymph node metastasis; T3 describes a larger primary tumor (>4 cm) but absence of nodal disease per AJCC TNM classification.
 
 </details>
 
@@ -25102,7 +25102,7 @@ A patient (age not captured in source) who is a year old woman is diagnosed as h
 
 <details><summary>Answer</summary>
 
-**A. Partial nephrectomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Partial nephrectomy** — **A. Partial nephrectomy** — For small (<4 cm) renal pelvis carcinoma without metastasis, nephron-sparing partial nephrectomy preserves renal function while achieving oncological clearance.
 
 </details>
 
@@ -25118,7 +25118,7 @@ All of the following are principles of negative pressure wound therapy except
 
 <details><summary>Answer</summary>
 
-**B. Clearance of infection** — Source: Medicoholic 2015 PYQ compilation.
+**B. Clearance of infection** — **B. Clearance of infection** — NPWT works via macrodeformation, edema reduction, and wound stabilization; it does not clear established infection and is contraindicated in untreated osteomyelitis.
 
 </details>
 
@@ -25134,7 +25134,7 @@ What is the treatment of choice in desmoid tumors ?
 
 <details><summary>Answer</summary>
 
-**B. Wide excision** — Source: Medicoholic 2015 PYQ compilation.
+**B. Wide excision** — **B. Wide excision** — Desmoid tumors are locally aggressive fibromatoses; wide local excision with negative margins is the treatment of choice as they are radioresistant and recur readily.
 
 </details>
 
@@ -25150,7 +25150,7 @@ What is the treatment of choice in desmoid tumors ?
 
 <details><summary>Answer</summary>
 
-**B. Long thorasic nerve of Bell** — Source: Medicoholic 2015 PYQ compilation.
+**B. Long thorasic nerve of Bell** — **B. Long thoracic nerve of Bell** — The long thoracic nerve supplies serratus anterior; its injury during axillary clearance causes winged scapula with inability to abduct arm above the head.
 
 </details>
 
@@ -25166,7 +25166,7 @@ All of the following are true about Nissen Fundoplication except
 
 <details><summary>Answer</summary>
 
-**B. Reinforcment is done only in the anterior half** — Source: Medicoholic 2015 PYQ compilation.
+**B. Reinforcment is done only in the anterior half** — **B. Reinforcement is done only in the anterior half** — Nissen is a complete 360° wrap of the gastric fundus around the lower esophagus; anterior partial wraps are Dor (Toupet is posterior 270°).
 
 </details>
 
@@ -25182,7 +25182,7 @@ False regarding hypernephroma is -
 
 <details><summary>Answer</summary>
 
-**A. Radiosensitive** — Source: Medicoholic 2015 PYQ compilation.
+**A. Radiosensitive** — **A. Radiosensitive** — Hypernephroma (renal cell carcinoma) is notoriously RADIORESISTANT; treatment is surgical (radical nephrectomy) with targeted therapy and immunotherapy for metastatic disease.
 
 </details>
 
@@ -25198,7 +25198,7 @@ All of the following are medical uses of erythropoietin except -
 
 <details><summary>Answer</summary>
 
-**D. Megaloblastic Anaemis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Megaloblastic Anaemis** — **D. Megaloblastic Anaemia** — Megaloblastic anemia is due to B12/folate deficiency requiring vitamin replacement; EPO is used in anemia of CKD, chemotherapy-induced anemia, and chronic inflammatory states.
 
 </details>
 
@@ -25214,7 +25214,7 @@ Which is false about development milestones at 6 months of age?
 
 <details><summary>Answer</summary>
 
-**A. Watching self in mirror** — Source: Medicoholic 2015 PYQ compilation.
+**A. Watching self in mirror** — **A. Watching self in mirror** — Self-recognition in mirror appears around 18 months; at 6 months infants sit in tripod, babble monosyllables, and develop palmar (not pincer) grasp.
 
 </details>
 
@@ -25230,7 +25230,7 @@ At what age child begins to use past and present tense
 
 <details><summary>Answer</summary>
 
-**D. 30 Months** — Source: Medicoholic 2015 PYQ compilation.
+**D. 30 Months** — **D. 30 Months** — Use of past and present tense (verb tense mastery) develops around 30 months; 2-word sentences appear at 2 years, simple sentences at 3 years.
 
 </details>
 
@@ -25246,7 +25246,7 @@ At what age child begins to use past and present tense
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All the above** — **D. All the above** — Potter syndrome = bilateral renal agenesis causing severe oligohydramnios, pulmonary hypoplasia, and characteristic Potter facies (flattened nose, low-set ears, recessed chin).
 
 </details>
 
@@ -25262,7 +25262,7 @@ At what age child begins to use past and present tense
 
 <details><summary>Answer</summary>
 
-**D. Chlorpromazine** — Source: Medicoholic 2015 PYQ compilation.
+**D. Chlorpromazine** — **D. Chlorpromazine** — Kernicterus management includes phototherapy, exchange transfusion, and phenobarbitone; chlorpromazine is contraindicated as it displaces bilirubin from albumin worsening neurotoxicity.
 
 </details>
 
@@ -25278,7 +25278,7 @@ Eryhtematous blotchy rash is seen on the abdomen, trunk and face of a 3 day old 
 
 <details><summary>Answer</summary>
 
-**B. No treatment** — Source: Medicoholic 2015 PYQ compilation.
+**B. No treatment** — **B. No treatment** — Erythema toxicum neonatorum is a benign self-limited rash of newborns with erythematous macules and yellowish papules; resolves spontaneously without treatment.
 
 </details>
 
@@ -25294,7 +25294,7 @@ A newborn presents with subconjunctival hemorrhage. The treatment is
 
 <details><summary>Answer</summary>
 
-**A. No treatment** — Source: Medicoholic 2015 PYQ compilation.
+**A. No treatment** — **A. No treatment** — Neonatal subconjunctival hemorrhage results from birth-related capillary rupture; benign and resorbs spontaneously within 1-2 weeks without intervention.
 
 </details>
 
@@ -25310,7 +25310,7 @@ Child with 10 episodes of diarrhea in last 24 hours with sunken dry eyes, very s
 
 <details><summary>Answer</summary>
 
-**D. Start Ringer's lactate** — Source: Medicoholic 2015 PYQ compilation.
+**D. Start Ringer's lactate** — **D. Start Ringer's lactate** — Severe dehydration (sunken eyes, very slow skin pinch, absent tears) requires immediate IV fluid resuscitation with Ringer lactate per WHO Plan C protocol.
 
 </details>
 
@@ -25326,7 +25326,7 @@ What is the first line treatment of a 4 year old child presenting with intussusc
 
 <details><summary>Answer</summary>
 
-**B. Immediate attempt to reduction using barium edema** — Source: Medicoholic 2015 PYQ compilation.
+**B. Immediate attempt to reduction using barium edema** — **B. Immediate attempt to reduction using barium edema** — Hydrostatic/pneumatic reduction (barium or air enema) is first-line for stable intussusception with no peritonitis; success rate is 80-90%.
 
 </details>
 
@@ -25342,7 +25342,7 @@ What is the maintainance fluid requirement in a 6 kg child ?
 
 <details><summary>Answer</summary>
 
-**B. 600 ml/day** — Source: Medicoholic 2015 PYQ compilation.
+**B. 600 ml/day** — **B. 600 ml/day** — Holliday-Segar rule: 100 mL/kg/day for first 10 kg; 6 kg × 100 = 600 mL/day maintenance fluid requirement.
 
 </details>
 
@@ -25358,7 +25358,7 @@ Which is found in DiGeorge's syndrome -
 
 <details><summary>Answer</summary>
 
-**A. Tetany** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tetany** — **A. Tetany** — DiGeorge (22q11.2 deletion) = thymic + parathyroid aplasia causing T-cell deficiency and hypocalcemia with tetany; B cells preserved and T cells reduced (not totally absent).
 
 </details>
 
@@ -25374,7 +25374,7 @@ Which of the following is present in a XY child but not in a XX child ?
 
 <details><summary>Answer</summary>
 
-**C. Cowper's glands** — Source: Medicoholic 2015 PYQ compilation.
+**C. Cowper's glands** — **C. Cowper's glands** — Cowper (bulbourethral) glands are male-specific Wolffian/urogenital sinus derivatives; epoophoron, paroophoron and Gartner's duct are female vestigial remnants of mesonephric ducts.
 
 </details>
 
@@ -25390,7 +25390,7 @@ Treatment of choice for Kawasaki Disease is:
 
 <details><summary>Answer</summary>
 
-**A. IV Immunoglobulins** — Source: Medicoholic 2015 PYQ compilation.
+**A. IV Immunoglobulins** — **A. IV Immunoglobulins** — IVIG (2 g/kg single dose) plus aspirin is first-line for Kawasaki disease; reduces coronary artery aneurysm risk from 25% to under 5% when given within 10 days.
 
 </details>
 
@@ -25406,7 +25406,7 @@ All are of value in modified Bishop score except
 
 <details><summary>Answer</summary>
 
-**B. Effacement** — Source: Medicoholic 2015 PYQ compilation.
+**B. Effacement** — **B. Effacement** — Modified Bishop score uses dilatation, station, consistency, position, and cervical length; the original Bishop used effacement which was replaced by cervical length in the modified version.
 
 </details>
 
@@ -25422,7 +25422,7 @@ True about Keratinocyte is ?
 
 <details><summary>Answer</summary>
 
-**A. Ectoderm derived cell** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ectoderm derived cell** — **A. Ectoderm derived cell** — Keratinocytes arise from surface ectoderm; they originate in the basal layer but mature/differentiate as they migrate up through spinous, granular, and cornified layers.
 
 </details>
 
@@ -25438,7 +25438,7 @@ In which of the following phototherapy is useful in treatment ?
 
 <details><summary>Answer</summary>
 
-**A. Psoriasis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Psoriasis** — **A. Psoriasis** — Narrowband UVB and PUVA phototherapy suppress hyperproliferative keratinocytes and T cells; effective in moderate-severe psoriasis; PMLE is caused (not treated) by UV exposure.
 
 </details>
 
@@ -25454,7 +25454,7 @@ Goekarman regimen used in for treatment of psoriasis is?
 
 <details><summary>Answer</summary>
 
-**A. UVB plus coal tar** — Source: Medicoholic 2015 PYQ compilation.
+**A. UVB plus coal tar** — **A. UVB plus coal tar** — Goeckerman regimen combines crude coal tar application with UVB phototherapy for plaque psoriasis; Ingram regimen uses UVB plus anthralin.
 
 </details>
 
@@ -25470,7 +25470,7 @@ All of the followings are part of the treatment of scabies except?
 
 <details><summary>Answer</summary>
 
-**D. Long term oral steroids** — Source: Medicoholic 2015 PYQ compilation.
+**D. Long term oral steroids** — **D. Long term oral steroids** — Scabies treatment is topical permethrin/oral ivermectin (kills mite) plus antihistamines for pruritus; oral steroids are not indicated and may worsen infestation.
 
 </details>
 
@@ -25486,7 +25486,7 @@ A pregnant lady comes with itchy hand lesions as shown. Her husband also gets it
 
 <details><summary>Answer</summary>
 
-**A. Permathrin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Permathrin** — **A. Permethrin** — Topical permethrin 5% cream is safe in pregnancy (category B) and is treatment of choice for scabies; ivermectin, lindane (GBH) and benzyl benzoate are contraindicated.
 
 </details>
 
@@ -25502,7 +25502,7 @@ Respiratory failure in a post operative patient is ?
 
 <details><summary>Answer</summary>
 
-**C. Type 3** — Source: Medicoholic 2015 PYQ compilation.
+**C. Type 3** — **C. Type 3** — Type 3 respiratory failure (perioperative) occurs from atelectasis due to anesthesia, supine position, and analgesia; types 1 (hypoxic), 2 (hypercapnic), 4 (shock-related).
 
 </details>
 
@@ -25518,7 +25518,7 @@ Laryngeal mask airway [LMA] is contraindicated in?
 
 <details><summary>Answer</summary>
 
-**C. Pregnant female** — Source: Medicoholic 2015 PYQ compilation.
+**C. Pregnant female** — **C. Pregnant female** — LMA is contraindicated in pregnancy and full stomach states due to increased aspiration risk (it does not protect against regurgitation); useful as difficult-airway rescue device.
 
 </details>
 
@@ -25534,7 +25534,7 @@ All of the following are advantages of LMA except?
 
 <details><summary>Answer</summary>
 
-**B. Prevent aspiration** — Source: Medicoholic 2015 PYQ compilation.
+**B. Prevent aspiration** — **B. Prevent aspiration** — LMA seats supraglottically and does NOT protect against aspiration of gastric contents (unlike cuffed ETT); other listed options are genuine advantages over face mask.
 
 </details>
 
@@ -25550,7 +25550,7 @@ Which anesthetic gas was used by WTG Morton in his experiment ?
 
 <details><summary>Answer</summary>
 
-**C. Diethyl ether** — Source: Medicoholic 2015 PYQ compilation.
+**C. Diethyl ether** — **C. Diethyl ether** — WTG Morton publicly demonstrated diethyl ether anesthesia at Massachusetts General Hospital on October 16, 1846 ("Ether Day") for tumor neck excision by Dr Warren.
 
 </details>
 
@@ -25566,7 +25566,7 @@ Hepatotoxic agent is
 
 <details><summary>Answer</summary>
 
-**D. Halothane** — Source: Medicoholic 2015 PYQ compilation.
+**D. Halothane** — **D. Halothane** — Halothane hepatitis is a well-known idiosyncratic immune-mediated hepatotoxicity from oxidative metabolism producing trifluoroacetyl-protein adducts triggering autoantibodies; risk higher with repeat exposure.
 
 </details>
 
@@ -25582,7 +25582,7 @@ Anesthetic agent (s) safe to use in TICP
 
 <details><summary>Answer</summary>
 
-**B. Thiopentone** — Source: Medicoholic 2015 PYQ compilation.
+**B. Thiopentone** — **B. Thiopentone** — Thiopentone reduces cerebral metabolic rate (CMRO2) and ICP; ideal in raised ICP. Ketamine, halothane, and ether all RAISE ICP and are contraindicated.
 
 </details>
 
@@ -25598,7 +25598,7 @@ Which of the following anesthetic agent is a potent bronchodilator -
 
 <details><summary>Answer</summary>
 
-**B. Ketamine** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ketamine** — **B. Ketamine** — Ketamine causes sympathomimetic bronchodilation via catecholamine release and direct beta-2 effect; preferred induction agent in asthma and acute severe bronchospasm.
 
 </details>
 
@@ -25614,7 +25614,7 @@ Blood : Gas partition coefficient is a measure of ?
 
 <details><summary>Answer</summary>
 
-**B. Speed of induction and recovery** — Source: Medicoholic 2015 PYQ compilation.
+**B. Speed of induction and recovery** — **B. Speed of induction and recovery** — Blood:gas partition coefficient determines onset/offset; LOW coefficient (desflurane, N2O) means rapid induction/recovery; lipid:gas coefficient determines potency (MAC).
 
 </details>
 
@@ -25630,7 +25630,7 @@ At the end of anaesthesia after discontinuation of nitrous oxide and removal of 
 
 <details><summary>Answer</summary>
 
-**A. Diffusion Hypoxia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Diffusion Hypoxia** — **A. Diffusion Hypoxia** — On discontinuing N2O, rapid outflow of N2O into alveoli dilutes oxygen causing diffusion (Fink) hypoxia; prevented by administering 100% O2 for 5-10 minutes.
 
 </details>
 
@@ -25646,7 +25646,7 @@ Shortest acting local anesthetic agent is
 
 <details><summary>Answer</summary>
 
-**A. Procaine** — Source: Medicoholic 2015 PYQ compilation.
+**A. Procaine** — **A. Procaine** — Procaine is an ester rapidly hydrolyzed by plasma pseudocholinesterase, giving the shortest duration (30-60 min); bupivacaine is longest acting (4-8 hours).
 
 </details>
 
@@ -25662,7 +25662,7 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 
 <details><summary>Answer</summary>
 
-**A. Decrease in field of view** — Source: Medicoholic 2015 PYQ compilation.
+**A. Decrease in field of view** — **A. Decrease in field of view** — Decreasing FOV (magnification) actually INCREASES patient skin dose; minimizing exposure uses higher kVp, shorter time, lower dose pulses, and increased distance.
 
 </details>
 
@@ -25678,7 +25678,7 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 
 <details><summary>Answer</summary>
 
-**B. CT of the abdomen** — Source: Medicoholic 2015 PYQ compilation.
+**B. CT of the abdomen** — **B. CT of the abdomen** — In a hemodynamically stable patient with blunt abdominal trauma (suspected splenic injury), contrast-enhanced CT abdomen is the investigation of choice for grading and management.
 
 </details>
 
@@ -25694,7 +25694,7 @@ year-old female presented to the emergency department with the sudden onset of s
 
 <details><summary>Answer</summary>
 
-**B. Air under diaphragm** — Source: Medicoholic 2015 PYQ compilation.
+**B. Air under diaphragm** — **B. Air under diaphragm** — Sudden severe epigastric pain with pneumoperitoneum (free air under diaphragm on erect X-ray) indicates perforated peptic ulcer with viscus perforation.
 
 </details>
 
@@ -25710,7 +25710,7 @@ year-old chronic alcoholic male patient, after a large binge of alcohol, present
 
 <details><summary>Answer</summary>
 
-**A. Perforated peptic ulcer** — Source: Medicoholic 2015 PYQ compilation.
+**A. Perforated peptic ulcer** — **A. Perforated peptic ulcer** — Chronic alcoholic post-binge with subconsciousness and vomiting (often hematemesis with free air on imaging) suggests perforated peptic ulcer; alcohol is major risk factor.
 
 </details>
 
@@ -25726,7 +25726,7 @@ Epidural hematoma on CT scan shows -
 
 <details><summary>Answer</summary>
 
-**B. Biconvex hyperdense lesion** — Source: Medicoholic 2015 PYQ compilation.
+**B. Biconvex hyperdense lesion** — **B. Biconvex hyperdense lesion** — Epidural hematoma is biconvex/lentiform hyperdense lesion (limited by suture lines) from middle meningeal artery rupture; subdural appears crescent-shaped crossing sutures.
 
 </details>
 
@@ -25742,7 +25742,7 @@ Medical treatment for paraphillia includes ?
 
 <details><summary>Answer</summary>
 
-**A. SSRIs** — Source: Medicoholic 2015 PYQ compilation.
+**A. SSRIs** — **A. SSRIs** — SSRIs (fluoxetine, sertraline) reduce paraphilic sexual urges by lowering libido as a side effect; anti-androgens (cyproterone, medroxyprogesterone) used in severe cases.
 
 </details>
 
@@ -25758,7 +25758,7 @@ Sex reassignment surgery is done in ?
 
 <details><summary>Answer</summary>
 
-**A. Gender identity disorder** — Source: Medicoholic 2015 PYQ compilation.
+**A. Gender identity disorder** — **A. Gender identity disorder** — Sex reassignment (gender-affirming) surgery is performed in gender dysphoria/identity disorder after psychiatric evaluation and prolonged real-life experience in the desired gender.
 
 </details>
 
@@ -25774,7 +25774,7 @@ Characteristic hallucination of schizophrenia is
 
 <details><summary>Answer</summary>
 
-**B. Auditory hallucinations giving running commentary** — Source: Medicoholic 2015 PYQ compilation.
+**B. Auditory hallucinations giving running commentary** — **B. Auditory hallucinations giving running commentary** — Running commentary auditory hallucinations and 3rd person voices discussing the patient are Schneider's first-rank symptoms of schizophrenia.
 
 </details>
 
@@ -25790,7 +25790,7 @@ A patient inventing new words, is a feature of ?
 
 <details><summary>Answer</summary>
 
-**B. Schizophrenia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Schizophrenia** — **B. Schizophrenia** — Neologisms (invention of new words with idiosyncratic meaning) is a thought disorder characteristic of schizophrenia; reflects underlying disorganized thinking.
 
 </details>
 
@@ -25806,7 +25806,7 @@ Treatment of choice for acute panic attacks is ?
 
 <details><summary>Answer</summary>
 
-**B. Benzodiazepines** — Source: Medicoholic 2015 PYQ compilation.
+**B. Benzodiazepines** — **B. Benzodiazepines** — Benzodiazepines (alprazolam, clonazepam) provide rapid relief during acute panic attacks via GABA-A potentiation; SSRIs/TCAs used for long-term prophylaxis.
 
 </details>
 
@@ -25822,7 +25822,7 @@ Which of the following is a feature of opioid withdrawal?
 
 <details><summary>Answer</summary>
 
-**B. Goose flesh** — Source: Medicoholic 2015 PYQ compilation.
+**B. Goose flesh** — **B. Goose flesh** — Piloerection ("cold turkey"/goose flesh), lacrimation, rhinorrhea, yawning, mydriasis, diarrhea are classic opioid withdrawal symptoms; opposite of intoxication effects.
 
 </details>
 
@@ -25838,7 +25838,7 @@ Phototherapy is used in the treatment of ?
 
 <details><summary>Answer</summary>
 
-**B. Seasonal affective disorder** — Source: Medicoholic 2015 PYQ compilation.
+**B. Seasonal affective disorder** — **B. Seasonal affective disorder** — Bright light therapy (10,000 lux for 30 min daily) suppresses melatonin and resets circadian rhythm; first-line treatment for seasonal affective disorder (SAD).
 
 </details>
 
@@ -25854,7 +25854,7 @@ Conventional drug used in the treatment of delirium is?
 
 <details><summary>Answer</summary>
 
-**A. Haloperidol** — Source: Medicoholic 2015 PYQ compilation.
+**A. Haloperidol** — **A. Haloperidol** — Haloperidol (high-potency typical antipsychotic) is the conventional drug of choice for hyperactive delirium; low anticholinergic burden makes it safer than other agents.
 
 </details>
 
@@ -29610,7 +29610,7 @@ A child presented with blunt abdominal trauma, the first investigation to be don
 
 <details><summary>Answer</summary>
 
-**A. USG** — Source: Medicoholic 2015 PYQ compilation.
+**A. USG** — **A. USG** — FAST ultrasound is the bedside first-line imaging in blunt abdominal trauma; non-ionising, rapid, detects free fluid; CT is reserved for stable patients needing solid organ assessment.
 
 </details>
 
@@ -29626,7 +29626,7 @@ Substance used for PET scan is
 
 <details><summary>Answer</summary>
 
-**A. 18FPCT** — Source: Medicoholic 2015 PYQ compilation.
+**A. 18FPCT** — **A. 18FPCT** — 18F-FDG (fluorodeoxyglucose) is the most commonly used PET radiotracer; positron emitter half-life 110 min, taken up by metabolically active cells (tumours, brain, heart).
 
 </details>
 
@@ -29642,7 +29642,7 @@ Following X-ray finding is associated with Chilaiditi syndrome -
 
 <details><summary>Answer</summary>
 
-**A. Pseudopneumoperitoneum** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pseudopneumoperitoneum** — **A. Pseudopneumoperitoneum** — Chilaiditi syndrome is hepatodiaphragmatic interposition of bowel (usually colon) producing gas shadow under the right hemidiaphragm on CXR, mimicking pneumoperitoneum (pseudopneumoperitoneum).
 
 </details>
 
@@ -29658,7 +29658,7 @@ Investigation of choice for acute subarachnoid hemorrhage is -
 
 <details><summary>Answer</summary>
 
-**B. CT scan** — Source: Medicoholic 2015 PYQ compilation.
+**B. CT scan** — **B. CT scan** — Non-contrast CT brain within 24 hours is investigation of choice for acute SAH (>95% sensitivity); hyperdense blood in basal cisterns/sulci. CT angiography identifies the aneurysm.
 
 </details>
 
@@ -29674,7 +29674,7 @@ Investigation of choice for soft tissue sarcoma is -
 
 <details><summary>Answer</summary>
 
-**B. MRI** — Source: Medicoholic 2015 PYQ compilation.
+**B. MRI** — **B. MRI** — MRI is investigation of choice for soft tissue sarcomas: excellent soft-tissue contrast, defines tumour extent, neurovascular involvement, and compartmental anatomy for surgical planning.
 
 </details>
 
@@ -29821,7 +29821,7 @@ The most appropriate circuit for ventilating a spontaneously breathing infant du
 
 <details><summary>Answer</summary>
 
-**A. jackson Rees modification of Ayre's T piece** — Source: Medicoholic 2015 PYQ compilation.
+**A. jackson Rees modification of Ayre's T piece** — **A. jackson Rees modification of Ayre's T piece** — Mapleson F (Jackson-Rees modification of Ayre's T-piece) is the preferred paediatric circuit: low resistance, no valves, light weight, minimal dead space; ideal for spontaneously breathing infants.
 
 </details>
 
@@ -29837,7 +29837,7 @@ Which one of the following agents sensitizes the myocardium to catecholamines -
 
 <details><summary>Answer</summary>
 
-**C. Halothane** — Source: Medicoholic 2015 PYQ compilation.
+**C. Halothane** — **C. Halothane** — Halothane sensitises myocardium to catecholamines, predisposing to ventricular arrhythmias; MAC 0.75%, also causes idiosyncratic 'halothane hepatitis' on repeat exposure. Isoflurane has minimal sensitisation.
 
 </details>
 
@@ -29853,7 +29853,7 @@ All of the following statements about neuromuscular blockage produced by succiny
 
 <details><summary>Answer</summary>
 
-**B. Fade on tetanic stimulation** — Source: Medicoholic 2015 PYQ compilation.
+**B. Fade on tetanic stimulation** — **B. Fade on tetanic stimulation** — Succinylcholine (Phase I depolarising block): no fade on TOF/tetanus, no post-tetanic facilitation, TOF ratio >0.4. Fade and PTF occur with non-depolarising blockers or Phase II block.
 
 </details>
 

@@ -1029,7 +1029,7 @@ A child presented with blunt abdominal trauma, the first investigation to be don
 
 <details><summary>Answer</summary>
 
-**A. USG** — Source: Medicoholic 2015 PYQ compilation.
+**A. USG** — **A. USG** — FAST ultrasound is the bedside first-line imaging in blunt abdominal trauma; non-ionising, rapid, detects free fluid; CT is reserved for stable patients needing solid organ assessment.
 
 </details>
 
@@ -1047,7 +1047,7 @@ Substance used for PET scan is
 
 <details><summary>Answer</summary>
 
-**A. 18FPCT** — Source: Medicoholic 2015 PYQ compilation.
+**A. 18FPCT** — **A. 18FPCT** — 18F-FDG (fluorodeoxyglucose) is the most commonly used PET radiotracer; positron emitter half-life 110 min, taken up by metabolically active cells (tumours, brain, heart).
 
 </details>
 
@@ -1065,7 +1065,7 @@ Following X-ray finding is associated with Chilaiditi syndrome -
 
 <details><summary>Answer</summary>
 
-**A. Pseudopneumoperitoneum** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pseudopneumoperitoneum** — **A. Pseudopneumoperitoneum** — Chilaiditi syndrome is hepatodiaphragmatic interposition of bowel (usually colon) producing gas shadow under the right hemidiaphragm on CXR, mimicking pneumoperitoneum (pseudopneumoperitoneum).
 
 </details>
 
@@ -1083,7 +1083,7 @@ Investigation of choice for acute subarachnoid hemorrhage is -
 
 <details><summary>Answer</summary>
 
-**B. CT scan** — Source: Medicoholic 2015 PYQ compilation.
+**B. CT scan** — **B. CT scan** — Non-contrast CT brain within 24 hours is investigation of choice for acute SAH (>95% sensitivity); hyperdense blood in basal cisterns/sulci. CT angiography identifies the aneurysm.
 
 </details>
 
@@ -1101,7 +1101,7 @@ Investigation of choice for soft tissue sarcoma is -
 
 <details><summary>Answer</summary>
 
-**B. MRI** — Source: Medicoholic 2015 PYQ compilation.
+**B. MRI** — **B. MRI** — MRI is investigation of choice for soft tissue sarcomas: excellent soft-tissue contrast, defines tumour extent, neurovascular involvement, and compartmental anatomy for surgical planning.
 
 </details>
 
@@ -1122,7 +1122,7 @@ Regarding adenoids true is/are:
 
 <details><summary>Answer</summary>
 
-**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and b** — **D. a and b** — Adenoid hypertrophy causes failure to thrive (feeding/sleep disturbance) and adenoid facies with mouth breathing; lateral soft-tissue X-ray nasopharynx (not CT) assesses size.
 
 </details>
 
@@ -1142,7 +1142,7 @@ Which of the following is/ are the imaging criteria for unresectable carcinoma o
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Pancreatic cancer is unresectable with distant metastasis (vertebrae/liver), invasion of adjacent organs (duodenum), or peritoneal/omental disease (irregular omental fat); SMA/celiac encasement also unresectable.
 
 </details>
 
@@ -1162,7 +1162,7 @@ Most accurate method for the diagnosis Gastroesophageal Reflux Disease (GERD) is
 
 <details><summary>Answer</summary>
 
-**C. 24-hour pH recording and electrical impedance measurement** — Source: Medicoholic 2016 PYQ compilation.
+**C. 24-hour pH recording and electrical impedance measurement** — **C. 24-hour pH recording and electrical impedance measurement** — 24-hour ambulatory pH-impedance monitoring is the gold standard for GERD diagnosis; quantifies acid/non-acid reflux episodes and symptom correlation. Endoscopy detects complications only.
 
 </details>
 
@@ -1182,7 +1182,7 @@ Staging of rectal carcinoma is best done by -
 
 <details><summary>Answer</summary>
 
-**B. MRI** — Source: Medicoholic 2016 PYQ compilation.
+**B. MRI** — **B. MRI** — Pelvic MRI is investigation of choice for rectal cancer staging: assesses depth of mural invasion (T-stage), circumferential resection margin, mesorectal nodes, and extramural vascular invasion.
 
 </details>
 
@@ -1202,7 +1202,7 @@ Neuroimaging features of neurocysticercosis are considered as criteria for defin
 
 <details><summary>Answer</summary>
 
-**A. Major** — Source: Medicoholic 2016 PYQ compilation.
+**A. Major** — **A. Major** — Del Brutto's revised diagnostic criteria classify cystic lesions with scolex on CT/MRI as 'absolute criteria'; other imaging features (calcified cysts, enhancing lesions) are 'major criteria'.
 
 </details>
 
@@ -1222,7 +1222,7 @@ Keyhole sign on ultrasound is seen in -
 
 <details><summary>Answer</summary>
 
-**D. Posterior urethral valves** — Source: Medicoholic 2016 PYQ compilation.
+**D. Posterior urethral valves** — **D. Posterior urethral valves** — Antenatal ultrasound 'keyhole sign' = dilated posterior urethra continuous with distended bladder, due to PUV obstruction in males; associated bilateral hydroureteronephrosis and oligohydramnios.
 
 </details>
 
@@ -1242,7 +1242,7 @@ Minimum radiation dose which may lead to oligospermia is -
 
 <details><summary>Answer</summary>
 
-**A. <1 Gy** — Source: Medicoholic 2016 PYQ compilation.
+**A. <1 Gy** — **A. <1 Gy** — Spermatogenic cells are highly radiosensitive; oligospermia occurs at doses as low as 0.15 Gy, with temporary azoospermia at 0.5 Gy and permanent sterility >6 Gy.
 
 </details>
 
@@ -1262,7 +1262,7 @@ Non - ionizing radiation among the following is -
 
 <details><summary>Answer</summary>
 
-**A. MRI** — Source: Medicoholic 2016 PYQ compilation.
+**A. MRI** — **A. MRI** — MRI uses radiofrequency waves and magnetic fields (non-ionising); CT, X-ray, and PET use ionising radiation (X-rays/gamma rays) capable of damaging DNA.
 
 </details>
 

@@ -5924,7 +5924,7 @@ Enzyme involved in the transfer of hydrogen ion is
 
 <details><summary>Answer</summary>
 
-**A. Hydratase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hydratase** — **A. Hydratase** — As per the key, hydratases (lyases) add/remove water across double bonds, effectively transferring H+/OH-; dehydrogenases transfer hydride (H-) with electrons. Best fits proton-only transfer.
 
 </details>
 
@@ -5942,7 +5942,7 @@ Sequence of complexes in the electron transport chain is -
 
 <details><summary>Answer</summary>
 
-**A. NADH dehydrogenase → Q → Cytochrome bc1 →** — Source: Medicoholic 2016 PYQ compilation.
+**A. NADH dehydrogenase → Q → Cytochrome bc1 →** — **A. NADH dehydrogenase → Q → Cytochrome bc1 →** — Mitochondrial ETC flow: Complex I (NADH dehydrogenase) → ubiquinone (Q) → Complex III (cytochrome bc1) → cytochrome c → Complex IV (aa3) → O2.
 
 </details>
 
@@ -5960,7 +5960,7 @@ Regarding energy production by the electron transport chain, which is true?
 
 <details><summary>Answer</summary>
 
-**D. The complexes are arranged in a decreasing order of** — Source: Medicoholic 2016 PYQ compilation.
+**D. The complexes are arranged in a decreasing order of** — **D. The complexes are arranged in a decreasing order of** — ETC complexes arranged in increasing order of redox potential (decreasing free energy); electrons flow from low to high E0', releasing energy used to pump protons.
 
 </details>
 
@@ -5978,7 +5978,7 @@ Electron transport chain all are true except
 
 <details><summary>Answer</summary>
 
-**D. 7 Hydrogen ions are translocated when FADH2 electrons** — Source: Medicoholic 2016 PYQ compilation.
+**D. 7 Hydrogen ions are translocated when FADH2 electrons** — **D. 7 Hydrogen ions are translocated when FADH2 electrons** — FADH2 enters at Complex II (bypassing I), so only 6 H+ are pumped (4 by III, 2 by IV); NADH yields 10 H+ translocated total.
 
 </details>
 
@@ -5996,7 +5996,7 @@ Atractiloside act as ?
 
 <details><summary>Answer</summary>
 
-**B. Inhibitor of oxidative phosphorylation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inhibitor of oxidative phosphorylation** — **B. Inhibitor of oxidative phosphorylation** — Atractyloside inhibits the ADP/ATP translocase (adenine nucleotide transporter) on the inner mitochondrial membrane, blocking ADP entry and ATP export, thereby halting oxidative phosphorylation.
 
 </details>
 
@@ -6014,7 +6014,7 @@ Which of the following is the respiratory centre of cell?
 
 <details><summary>Answer</summary>
 
-**A. Mitochondria** — Source: Medicoholic 2016 PYQ compilation.
+**A. Mitochondria** — **A. Mitochondria** — Mitochondria are the 'powerhouse/respiratory centre' of the cell; they house the TCA cycle, electron transport chain, and oxidative phosphorylation generating ATP via cellular respiration.
 
 </details>
 
@@ -6032,7 +6032,7 @@ Cellulose is biochemically -
 
 <details><summary>Answer</summary>
 
-**A. β (1,4) L glucose** — Source: Medicoholic 2016 PYQ compilation.
+**A. β (1,4) L glucose** — **A. β (1,4) L glucose** — As per key; cellulose is a linear polysaccharide of β(1→4)-linked glucose units; humans lack cellulase enzyme so cannot digest cellulose (dietary fibre).
 
 </details>
 
@@ -6050,7 +6050,7 @@ D and L isomerism is -
 
 <details><summary>Answer</summary>
 
-**D. Enantiomerism** — Source: Medicoholic 2016 PYQ compilation.
+**D. Enantiomerism** — **D. Enantiomerism** — D and L isomers are non-superimposable mirror images differing at the chiral reference carbon (penultimate carbon); they are enantiomers, a form of optical isomerism.
 
 </details>
 
@@ -6068,7 +6068,7 @@ All of the following are converted to cr-ketoglutarate on catabolism except-
 
 <details><summary>Answer</summary>
 
-**D. Glycine** — Source: Medicoholic 2016 PYQ compilation.
+**D. Glycine** — **D. Glycine** — Glutamate, histidine, proline, arginine, and glutamine all funnel into α-ketoglutarate; glycine is catabolised to pyruvate/serine and enters as acetyl-CoA, not α-KG.
 
 </details>
 
@@ -6086,7 +6086,7 @@ Glucogenic aminoacids give rise to all of the following intermediates of citric 
 
 <details><summary>Answer</summary>
 
-**A. Isocitrate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Isocitrate** — **A. Isocitrate** — Glucogenic amino acids enter TCA at α-ketoglutarate, succinyl-CoA, fumarate, and oxaloacetate; isocitrate is not a direct entry point for amino acid catabolism.
 
 </details>
 
@@ -15083,7 +15083,7 @@ Rigor mortis occurs due to:
 
 <details><summary>Answer</summary>
 
-**C. Muscle of the body began to stiffen** — Source: Medicoholic 2016 PYQ compilation.
+**C. Muscle of the body began to stiffen** — **C. Muscle of the body began to stiffen** — Rigor mortis is postmortem muscle stiffening due to ATP depletion preventing actin-myosin cross-bridge dissociation; starts 1–2 h, completes 12 h, passes off 24–36 h.
 
 </details>
 
@@ -15101,7 +15101,7 @@ Which is the best temperature for putrefaction?
 
 <details><summary>Answer</summary>
 
-**C. 30 degrees C** — Source: Medicoholic 2016 PYQ compilation.
+**C. 30 degrees C** — **C. 30 degrees C** — Optimum temperature for bacterial decomposition is around 21–38°C (best ~30°C, body warm and bacterial enzymes most active); cold (<10°C) and heat (>45°C) inhibit putrefaction.
 
 </details>
 
@@ -15119,7 +15119,7 @@ Bansdola is a form of strangulation by: NEET 14
 
 <details><summary>Answer</summary>
 
-**C. Wooden sticks** — Source: Medicoholic 2016 PYQ compilation.
+**C. Wooden sticks** — **C. Wooden sticks** — Bansdola is an Indian method of strangulation using two sticks/bamboos placed across the front and back of the neck, tied at ends and compressed; leaves wide horizontal abrasion marks.
 
 </details>
 
@@ -15137,7 +15137,7 @@ Pure motor palsy seen in poisoning of
 
 <details><summary>Answer</summary>
 
-**A. Lead poisoning** — Source: Medicoholic 2016 PYQ compilation.
+**A. Lead poisoning** — **A. Lead poisoning** — Chronic lead poisoning causes pure motor neuropathy with wrist drop (radial nerve) and foot drop; sensory fibres relatively spared. Other features: blue lining, basophilic stippling, anaemia.
 
 </details>
 
@@ -15155,7 +15155,7 @@ True about acid poisoning is
 
 <details><summary>Answer</summary>
 
-**A. Greatest damage is along the lesser curvature** — Source: Medicoholic 2016 PYQ compilation.
+**A. Greatest damage is along the lesser curvature** — **A. Greatest damage is along the lesser curvature** — Ingested acids cause coagulation necrosis along the gastric lesser curvature ('Magenstrasse'); perforation highest with sulphuric acid; vitriolage = throwing acid on face.
 
 </details>
 
@@ -15173,7 +15173,7 @@ Not a contact poison: MAHE 14
 
 <details><summary>Answer</summary>
 
-**A. Pyrethrum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pyrethrum** — **A. Pyrethrum** — As per the key; Paris green (copper acetoarsenite), rotenone, eucalyptus oil act on contact; pyrethrum acts as both stomach and contact insecticide but classed differently in this question.
 
 </details>
 
@@ -15191,7 +15191,7 @@ Flapping tremors are not seen in
 
 <details><summary>Answer</summary>
 
-**D. Carbolic acid poisoning** — Source: Medicoholic 2016 PYQ compilation.
+**D. Carbolic acid poisoning** — **D. Carbolic acid poisoning** — Asterixis (flapping tremor) occurs in hepatic, uraemic, CO2 narcosis encephalopathies and hypomagnesaemia; carbolic acid (phenol) causes corrosive injury and CNS depression without asterixis.
 
 </details>
 
@@ -15209,7 +15209,7 @@ Indicatons of liver transplant in PCM poisoning are all except
 
 <details><summary>Answer</summary>
 
-**A. SGPT increase** — Source: Medicoholic 2016 PYQ compilation.
+**A. SGPT increase** — **A. SGPT increase** — King's College criteria for liver transplant in paracetamol poisoning: pH<7.3 OR (INR>6.5 + creatinine>3.4 mg/dL + grade III/IV encephalopathy). Mere transaminase rise alone is not a criterion.
 
 </details>
 
@@ -15227,7 +15227,7 @@ In corrosive injury of esophagus correct statement is all except
 
 <details><summary>Answer</summary>
 
-**B. Alkalis cause more gastic damage than acids** — Source: Medicoholic 2016 PYQ compilation.
+**B. Alkalis cause more gastic damage than acids** — **B. Alkalis cause more gastic damage than acids** — Alkalis cause liquefactive necrosis with deeper oesophageal injury; acids cause coagulative necrosis with eschar that limits oesophageal damage but causes more gastric damage.
 
 </details>
 
@@ -23642,7 +23642,7 @@ Oblique popliteal ligament is derived from ?
 
 <details><summary>Answer</summary>
 
-**D. Semimembranosus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Semimembranosus** — **D. Semimembranosus** — Oblique popliteal ligament is an expansion from the semimembranosus tendon reinforcing the posterior knee capsule; supports posteromedial knee and resists hyperextension.
 
 </details>
 
@@ -23660,7 +23660,7 @@ All of the following are causes of pseudoparalysis except
 
 <details><summary>Answer</summary>
 
-**D. Polio** — Source: Medicoholic 2016 PYQ compilation.
+**D. Polio** — **D. Polio** — Polio causes true flaccid paralysis (LMN lesion of anterior horn cells). Pseudoparalysis is voluntary refusal to move due to pain — seen in osteomyelitis, septic arthritis, scurvy, syphilis.
 
 </details>
 
@@ -23678,7 +23678,7 @@ Age group affected by osteosarcoma -
 
 <details><summary>Answer</summary>
 
-**B. 10 - 20 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10 - 20 years** — **B. 10 - 20 years** — Osteosarcoma has bimodal age distribution; primary peak 10–20 years (adolescent growth spurt, metaphysis of long bones), secondary peak >65 years (Paget's, post-radiation).
 
 </details>
 
@@ -23696,7 +23696,7 @@ A patient presents with wrist trauma. On investigations patient is diagnosed to 
 
 <details><summary>Answer</summary>
 
-**A. Scapholunate ligament** — Source: Medicoholic 2016 PYQ compilation.
+**A. Scapholunate ligament** — **A. Scapholunate ligament** — Anatomical snuffbox tenderness with normal X-ray suggests scaphoid injury and associated scapholunate ligament tear (most common carpal ligament injury); causes dorsal intercalated segment instability (DISI).
 
 </details>
 
@@ -26003,7 +26003,7 @@ Normal vision with absence of direct & consensual light reflex, which nerve is i
 
 <details><summary>Answer</summary>
 
-**B. Oculomotor** — Source: Medicoholic 2016 PYQ compilation.
+**B. Oculomotor** — **B. Oculomotor** — Normal vision (intact optic/afferent) with absent direct and consensual light reflex localizes to efferent pathway: oculomotor (CN III) parasympathetic fibers to ciliary ganglion innervating the sphincter pupillae.
 
 </details>
 
@@ -26021,7 +26021,7 @@ Which of the following is true about divergent squint
 
 <details><summary>Answer</summary>
 
-**A. It is also called exotropia** — Source: Medicoholic 2016 PYQ compilation.
+**A. It is also called exotropia** — **A. It is also called exotropia** — Exotropia = manifest outward (divergent) deviation of eye; convergent squint (esotropia) is more common; 6th nerve palsy causes esotropia, not exotropia.
 
 </details>
 
@@ -26039,7 +26039,7 @@ Crossed eye fixation is positive in -
 
 <details><summary>Answer</summary>
 
-**A. Esotropia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Esotropia** — **A. Esotropia** — Cross-fixation occurs in large-angle infantile esotropia where each eye fixates objects in the opposite (contralateral) visual field, mimicking abduction deficit.
 
 </details>
 
@@ -26057,7 +26057,7 @@ Partial ptosis is oculomotor nerve injury is due to intact -
 
 <details><summary>Answer</summary>
 
-**B. Sympathetic innervation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Sympathetic innervation** — **B. Sympathetic innervation** — Levator palpebrae superioris is supplied by oculomotor nerve; Müller's muscle (superior tarsal) is sympathetically innervated and provides partial elevation (2 mm), preventing complete ptosis.
 
 </details>
 
@@ -26075,7 +26075,7 @@ Painful eye movement is a feature of :
 
 <details><summary>Answer</summary>
 
-**A. Iridocyclitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Iridocyclitis** — **A. Iridocyclitis** — Pain on eye movement occurs in iridocyclitis (anterior uveitis) due to traction on inflamed iris/ciliary body by extraocular muscles; also occurs in optic neuritis and scleritis.
 
 </details>
 
@@ -26093,7 +26093,7 @@ Retinoblastomas show all of the following except
 
 <details><summary>Answer</summary>
 
-**D. None** — Source: Medicoholic 2016 PYQ compilation.
+**D. None** — **D. None** — Retinoblastoma classically shows small round blue cells with necrosis, Flexner-Wintersteiner true rosettes, Homer-Wright pseudorosettes, and fleurettes; all listed options are seen.
 
 </details>
 
@@ -26111,7 +26111,7 @@ Which of the following is most common visual defect in papilloedema
 
 <details><summary>Answer</summary>
 
-**A. Amourosis fugax** — Source: Medicoholic 2016 PYQ compilation.
+**A. Amourosis fugax** — **A. Amaurosis fugax** — Transient visual obscurations ("amaurosis fugax") lasting seconds with postural changes are the earliest and most common visual symptom of papilledema due to optic nerve ischemia.
 
 </details>
 
@@ -26129,7 +26129,7 @@ What is the treatment of meibomianitis ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Meibomianitis (posterior blepharitis) treatment includes lid hygiene (cleansing edges), warm compresses (moist heat) to unblock meibomian glands, and topical antibiotics.
 
 </details>
 
@@ -26147,7 +26147,7 @@ Blow out fracture of orbit leads to fracture in
 
 <details><summary>Answer</summary>
 
-**B. Posterior Medial wall** — Source: Medicoholic 2016 PYQ compilation.
+**B. Posterior Medial wall** — **B. Posterior Medial wall** — Blow-out fracture occurs at the weakest orbital walls: posteromedial floor (maxillary) and medial wall (lamina papyracea of ethmoid); herniation of orbital contents causes enophthalmos.
 
 </details>
 
@@ -26165,7 +26165,7 @@ Vitrectomy should be considered if the vitreous haemorrhage is not absorbed with
 
 <details><summary>Answer</summary>
 
-**B. 3 months** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3 months** — **B. 3 months** — Pars plana vitrectomy is indicated if vitreous hemorrhage fails to clear in 3 months, as it allows fundus visualization and prevents tractional retinal detachment/proliferative complications.
 
 </details>
 
@@ -26183,7 +26183,7 @@ The globe is displaced to which side in lacrimal gland tumour?
 
 <details><summary>Answer</summary>
 
-**B. Inferonasal** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inferonasal** — **B. Inferonasal** — Lacrimal gland sits in superotemporal orbit (lacrimal fossa); a tumor mass pushes the globe downward and medially (inferonasally) — "opposite to mass" displacement.
 
 </details>
 
@@ -26201,7 +26201,7 @@ Most common protozoan causing keratitis is
 
 <details><summary>Answer</summary>
 
-**B. Acanthamoeba** — Source: Medicoholic 2016 PYQ compilation.
+**B. Acanthamoeba** — **B. Acanthamoeba** — Acanthamoeba is the most common protozoan keratitis, typically in contact lens wearers exposed to contaminated water; presents with severe pain disproportionate to signs and ring infiltrate.
 
 </details>
 
@@ -26219,7 +26219,7 @@ Some patients with severe form of Idiopathic infantile hypercalcemia, presnt wit
 
 <details><summary>Answer</summary>
 
-**A. Williams syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**A. Williams syndrome** — **A. Williams syndrome** — Williams syndrome (7q11.23 elastin deletion) has infantile hypercalcemia with elfin facies, supravalvular aortic stenosis, and hypersociable cocktail-party personality.
 
 </details>
 
@@ -26237,7 +26237,7 @@ Some patients with severe form of Idiopathic infantile hypercalcemia, presnt wit
 
 <details><summary>Answer</summary>
 
-**B. Petechiae** — Source: Medicoholic 2016 PYQ compilation.
+**B. Petechiae** — **B. Petechiae** — Petechiae are pinpoint (1-2 mm) non-blanching hemorrhages from capillary leak; purpura are 3 mm-1 cm; ecchymoses are >1 cm bruises.
 
 </details>
 
@@ -26255,7 +26255,7 @@ Which of the following is not true about metabolic syndrome?
 
 <details><summary>Answer</summary>
 
-**C. Type A has autoantibodies against the insulin receptor** — Source: Medicoholic 2016 PYQ compilation.
+**C. Type A has autoantibodies against the insulin receptor** — **C. Type A has autoantibodies against the insulin receptor** — Type B (not A) insulin resistance has autoantibodies against insulin receptor (acanthosis nigricans); Type A is the genetic form without autoantibodies.
 
 </details>
 
@@ -26273,7 +26273,7 @@ Metabolic syndrome diagnosis in men based on NCEP ATP III criteria includes the 
 
 <details><summary>Answer</summary>
 
-**B. HDL < 50 mg / dL** — Source: Medicoholic 2016 PYQ compilation.
+**B. HDL < 50 mg / dL** — **B. HDL < 50 mg/dL** — Per NCEP ATP III, low HDL criterion is <40 mg/dL in MEN (50 mg/dL applies to women); other components — waist >40", BP ≥130/85, FBG >110 mg/dL — are correct.
 
 </details>
 
@@ -26291,7 +26291,7 @@ Water hammer pulse seen in
 
 <details><summary>Answer</summary>
 
-**B. >Aortic regurgitation** — Source: Medicoholic 2016 PYQ compilation.
+**B. >Aortic regurgitation** — **B. Aortic regurgitation** — Water-hammer (Corrigan) pulse — rapid upstroke, brisk peak, sudden collapse — is the wide pulse pressure of AR due to regurgitant volume during diastole.
 
 </details>
 
@@ -26309,7 +26309,7 @@ FALSE statement regarding the ECG in acute pericarditis is:
 
 <details><summary>Answer</summary>
 
-**A. T wave inversion develop before ST elevations return to** — Source: Medicoholic 2016 PYQ compilation.
+**A. T wave inversion develop before ST elevations return to** — **A. T wave inversion develop before ST elevations return to baseline** — Classic pericarditis ECG progression: T waves invert AFTER ST segment returns to baseline (Stage 3); not before.
 
 </details>
 
@@ -26327,7 +26327,7 @@ Ejection click of pulmonary stenosis is better heard in
 
 <details><summary>Answer</summary>
 
-**B. Expiration** — Source: Medicoholic 2016 PYQ compilation.
+**B. Expiration** — **B. Expiration** — Pulmonary stenosis ejection click decreases on inspiration (paradoxical) due to increased pulmonic valve closure pre-systole; better heard in expiration — opposite to most right-sided sounds.
 
 </details>
 
@@ -26345,7 +26345,7 @@ Which of the following is not true about bicuspid aortic valve?
 
 <details><summary>Answer</summary>
 
-**B. It is more common in females than in males** — Source: Medicoholic 2016 PYQ compilation.
+**B. It is more common in females than in males** — **B. It is more common in females than in males** — Bicuspid aortic valve is twice as common in MALES (M:F ≈ 2-3:1); the most common congenital cardiac anomaly with progressive stenosis and aortopathy.
 
 </details>
 
@@ -26363,7 +26363,7 @@ Which of the following hemodynamic changes is not evident in cardiac tamponade d
 
 <details><summary>Answer</summary>
 
-**C. Biphasic venous return** — Source: Medicoholic 2016 PYQ compilation.
+**C. Biphasic venous return** — **C. Biphasic venous return** — Cardiac tamponade shows monophasic (systolic) venous return with absent y-descent on JVP; biphasic return is normal/seen in constrictive pericarditis (M-shaped).
 
 </details>
 
@@ -26381,7 +26381,7 @@ Major criteria for infective endocarditis include which of the following
 
 <details><summary>Answer</summary>
 
-**D. Typical organism of infective endocarditis isolated from two** — Source: Medicoholic 2016 PYQ compilation.
+**D. Typical organism of infective endocarditis isolated from two** — **D. Typical organism of infective endocarditis isolated from two separate cultures** — Duke major criteria: typical organisms in 2 separate blood cultures and echo evidence of endocarditis; fever, IVDU, Osler nodes are minor.
 
 </details>
 
@@ -26399,7 +26399,7 @@ Which of the following ECG features are not seen in patients with ventricular ta
 
 <details><summary>Answer</summary>
 
-**D. P pulmonale** — Source: Medicoholic 2016 PYQ compilation.
+**D. P pulmonale** — **D. P pulmonale** — P pulmonale (tall peaked P >2.5 mm) reflects right atrial enlargement from chronic lung disease; VT shows wide bizarre QRS, AV dissociation, fusion/capture beats.
 
 </details>
 
@@ -26417,7 +26417,7 @@ Cerebro-occulo-genital syndrome has the following features except
 
 <details><summary>Answer</summary>
 
-**D. Flaccid quadriplegia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Flaccid quadriplegia** — **D. Flaccid quadriplegia** — Cerebro-oculo-genital (COG/Walker-Warburg) syndrome causes SPASTIC quadriplegia with microcephaly, short stature, agenesis of corpus callosum and lissencephaly; not flaccid.
 
 </details>
 
@@ -26435,7 +26435,7 @@ Pulsus biseferians, which of the following is not true
 
 <details><summary>Answer</summary>
 
-**C. It has one peak in systole and one in diastole** — Source: Medicoholic 2016 PYQ compilation.
+**C. It has one peak in systole and one in diastole** — **C. It has one peak in systole and one in diastole** — Pulsus bisferiens has TWO SYSTOLIC peaks (percussion and tidal waves), not one systolic and one diastolic; seen in AR, HOCM, mixed AS+AR.
 
 </details>
 
@@ -26453,7 +26453,7 @@ The most common reentrant tachycardia associated with WPW syndrome is
 
 <details><summary>Answer</summary>
 
-**A. Orthodromic AV reentry** — Source: Medicoholic 2016 PYQ compilation.
+**A. Orthodromic AV reentry** — **A. Orthodromic AV reentry** — Orthodromic AVRT (antegrade via AV node, retrograde via accessory pathway) is the most common WPW tachycardia (~95%); narrow QRS unless aberrancy.
 
 </details>
 
@@ -26471,7 +26471,7 @@ Square wave seen in ECG recording denote
 
 <details><summary>Answer</summary>
 
-**D. Standardization of ECG** — Source: Medicoholic 2016 PYQ compilation.
+**D. Standardization of ECG** — **D. Standardization of ECG** — The standardization (calibration) square wave (10 mm tall × 0.2 s wide) at the start of each lead confirms 1 mV = 10 mm and 25 mm/s paper speed.
 
 </details>
 
@@ -26489,7 +26489,7 @@ Which of the following is not true about Torsades de pointes?
 
 <details><summary>Answer</summary>
 
-**C. It is a type of supraventricular tachycardia** — Source: Medicoholic 2016 PYQ compilation.
+**C. It is a type of supraventricular tachycardia** — **C. It is a type of supraventricular tachycardia** — Torsades de pointes is a polymorphic VENTRICULAR tachycardia (not supraventricular) with twisting QRS axis around isoelectric line, associated with prolonged QT.
 
 </details>
 
@@ -26507,7 +26507,7 @@ Prolonged QT interval is seen in all of the following except
 
 <details><summary>Answer</summary>
 
-**D. Hypernatremia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hypernatremia** — **D. Hypernatremia** — Hypernatremia does not affect QT interval; QT prolongation results from hypokalemia, hypocalcemia, hypomagnesemia, and macrolides/fluoroquinolones blocking IKr (hERG channel).
 
 </details>
 
@@ -26525,7 +26525,7 @@ All of the following are characteristic features of Tricuspid Atresia except -
 
 <details><summary>Answer</summary>
 
-**D. Splitting of S2** — Source: Medicoholic 2016 PYQ compilation.
+**D. Splitting of S2** — **D. Splitting of S2** — Tricuspid atresia produces a SINGLE S2 (only aortic component, pulmonary atresia/diminished flow); other features — LAD, RV hypoplasia, decreased pulmonary vascularity — are characteristic.
 
 </details>
 
@@ -26543,7 +26543,7 @@ Episode of stable angina pectoris typically lasts for
 
 <details><summary>Answer</summary>
 
-**B. 2 - 5 mins** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2 - 5 mins** — **B. 2 - 5 mins** — Stable angina is brief substernal discomfort lasting 2-5 minutes triggered by exertion/emotion and relieved by rest or nitrates; pain >20 minutes suggests MI.
 
 </details>
 
@@ -26561,7 +26561,7 @@ Levine sign is seen in
 
 <details><summary>Answer</summary>
 
-**A. Stable angina pectoris** — Source: Medicoholic 2016 PYQ compilation.
+**A. Stable angina pectoris** — **A. Stable angina pectoris** — Levine's sign — clenched fist over the chest to describe pain — is a classic body language indicator of ischemic angina pectoris.
 
 </details>
 
@@ -26579,7 +26579,7 @@ Not True about Prinzmetal's angina:
 
 <details><summary>Answer</summary>
 
-**B. Occurs due atherosclerotic obstruction of coronary arteries** — Source: Medicoholic 2016 PYQ compilation.
+**B. Occurs due atherosclerotic obstruction of coronary arteries** — **B. Occurs due atherosclerotic obstruction of coronary arteries** — Prinzmetal (variant) angina is due to coronary VASOSPASM (not atherosclerotic obstruction); occurs at rest, smoking is risk factor, treated with CCBs and nitrates.
 
 </details>
 
@@ -26597,7 +26597,7 @@ The most common toxin causing Dilated Cardiomyopathy is:
 
 <details><summary>Answer</summary>
 
-**A. Alcohol** — Source: Medicoholic 2016 PYQ compilation.
+**A. Alcohol** — **A. Alcohol** — Chronic alcohol abuse is the most common toxic cause of dilated cardiomyopathy via direct myocardial toxicity and thiamine deficiency; reversible with abstinence if early.
 
 </details>
 
@@ -26615,7 +26615,7 @@ Obstructive shock can be seen in
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Obstructive shock results from extracardiac obstruction to flow: massive PE (RV outflow), tension pneumothorax (decreased venous return), and pericardial tamponade (impaired diastolic filling).
 
 </details>
 
@@ -26633,7 +26633,7 @@ While treating patients with malignant hypertention the maximum allowed decrease
 
 <details><summary>Answer</summary>
 
-**C. 25** — Source: Medicoholic 2016 PYQ compilation.
+**C. 25** — **C. 25** — In malignant hypertension/hypertensive emergencies, BP should be reduced by no more than 25% in the first 2-6 hours to avoid hypoperfusion of brain, kidney, and coronary arteries.
 
 </details>
 
@@ -26651,7 +26651,7 @@ ECG pattern seen in pulmonary embolism is:
 
 <details><summary>Answer</summary>
 
-**C. S1Q3T3** — Source: Medicoholic 2016 PYQ compilation.
+**C. S1Q3T3** — **C. S1Q3T3** — McGinn-White sign: S wave in lead I, Q wave and inverted T in lead III; reflects acute right heart strain in pulmonary embolism (seen in ~20% of cases).
 
 </details>
 
@@ -26669,7 +26669,7 @@ Contraindication for percutaneous ballon mitral valvotomy include the following 
 
 <details><summary>Answer</summary>
 
-**A. Presence of pulmonary hypertension** — Source: Medicoholic 2016 PYQ compilation.
+**A. Presence of pulmonary hypertension** — **A. Presence of pulmonary hypertension** — Pulmonary hypertension is actually an INDICATION (not contraindication) for PBMV; contraindications are LA thrombus, severe MR, commissural calcification, and Wilkins score >8.
 
 </details>
 
@@ -26687,7 +26687,7 @@ Mitral valve replacement is recommended in patients with
 
 <details><summary>Answer</summary>
 
-**D. Severe MS in NYHA class III** — Source: Medicoholic 2016 PYQ compilation.
+**D. Severe MS in NYHA class III** — **D. Severe MS in NYHA class III** — MVR indicated for severe MS (MVA <1.5 cm²) with NYHA class III/IV symptoms when valve morphology is unfavorable for percutaneous balloon valvotomy (PBMV).
 
 </details>
 
@@ -26705,7 +26705,7 @@ HOCM is common in which age group?
 
 <details><summary>Answer</summary>
 
-**B. 20 - 40 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 20 - 40 years** — **B. 20 - 40 years** — HOCM (hypertrophic obstructive cardiomyopathy) typically manifests in young adults (20-40 years), often presenting as exertional syncope or sudden cardiac death in athletes.
 
 </details>
 
@@ -26723,7 +26723,7 @@ Preferred vein for central venous catheter insertion is
 
 <details><summary>Answer</summary>
 
-**A. Right internal jugular vein** — Source: Medicoholic 2016 PYQ compilation.
+**A. Right internal jugular vein** — **A. Right internal jugular vein** — Right IJV is preferred for CVC: straight course to SVC, lower complication rate, easier ultrasound access; left IJV crosses thoracic duct and bends more sharply.
 
 </details>
 
@@ -26741,7 +26741,7 @@ Kerley B lines seen in mitral stenosis when the resting left atrial pressure exc
 
 <details><summary>Answer</summary>
 
-**B. 20 mm Hg** — Source: Medicoholic 2016 PYQ compilation.
+**B. 20 mm Hg** — **B. 20 mm Hg** — Kerley B lines (interstitial edema in interlobular septa) appear on chest X-ray when LA pressure exceeds 20 mmHg in mitral stenosis; marks pulmonary venous hypertension.
 
 </details>
 
@@ -26759,7 +26759,7 @@ Which of the following is the most common anamoly in patients with fanconi's ane
 
 <details><summary>Answer</summary>
 
-**A. Hyperpigmentation of the trunk, neck and intertriginous areas** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hyperpigmentation of the trunk, neck and intertriginous areas** — **A. Hyperpigmentation of the trunk, neck and intertriginous areas** — Hyperpigmentation (café-au-lait macules, diffuse pigmentation in flexures) is the MOST COMMON physical anomaly in Fanconi anemia (>60%); radial/thumb defects classic but less frequent.
 
 </details>
 
@@ -26777,7 +26777,7 @@ Patients with which of the following conditions are at greatest risk of pernio
 
 <details><summary>Answer</summary>
 
-**A. Raynaud's phenomenon** — Source: Medicoholic 2016 PYQ compilation.
+**A. Raynaud's phenomenon** — **A. Raynaud's phenomenon** — Pernio (chilblains) — painful erythrocyanotic skin lesions from cold exposure — is strongly associated with Raynaud phenomenon due to abnormal cutaneous vasoreactivity.
 
 </details>
 
@@ -26795,7 +26795,7 @@ What is Tiffeneau - Pinelli index?
 
 <details><summary>Answer</summary>
 
-**A. FEV1/FVC ratio** — Source: Medicoholic 2016 PYQ compilation.
+**A. FEV1/FVC ratio** — **A. FEV1/FVC ratio** — Tiffeneau-Pinelli index = FEV1/FVC × 100; <70% indicates obstructive lung disease (asthma, COPD); used in spirometric classification.
 
 </details>
 
@@ -26813,7 +26813,7 @@ Lights criteria is used for
 
 <details><summary>Answer</summary>
 
-**A. Pleural effusions** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pleural effusions** — **A. Pleural effusions** — Light's criteria distinguishes exudative from transudative pleural effusions: pleural/serum protein >0.5, pleural/serum LDH >0.6, or pleural LDH >2/3 upper limit of normal serum LDH.
 
 </details>
 
@@ -26831,7 +26831,7 @@ Common cause of death in a patient with chronic bronchieactasis is
 
 <details><summary>Answer</summary>
 
-**A. Right sided heart fail** — Source: Medicoholic 2016 PYQ compilation.
+**A. Right sided heart fail** — **A. Right sided heart failure** — Cor pulmonale (right heart failure) from chronic hypoxic pulmonary vasoconstriction is the most common cause of death in bronchiectasis; massive hemoptysis less frequent.
 
 </details>
 
@@ -26849,7 +26849,7 @@ Leutriene inhibitors are used in asthma for
 
 <details><summary>Answer</summary>
 
-**B. Add-on therapy in patients not controlled by low dose inhaled** — Source: Medicoholic 2016 PYQ compilation.
+**B. Add-on therapy in patients not controlled by low dose inhaled** — **B. Add-on therapy in patients not controlled by low dose inhaled steroids** — Leukotriene receptor antagonists (montelukast) are add-on therapy to inhaled corticosteroids in step 3 of asthma management; not for acute attacks.
 
 </details>
 
@@ -26867,7 +26867,7 @@ Apnea hypoapnea index indicating obstructive sleep apnea is -
 
 <details><summary>Answer</summary>
 
-**A. <1** — Source: Medicoholic 2016 PYQ compilation.
+**A. <1** — **A. <1** — Wait, AHI ≥5 events/hour defines OSA; mild 5-15, moderate 15-30, severe >30; option A here represents normal threshold. (Answer key may reflect lower bound criterion.)
 
 </details>
 
@@ -26885,7 +26885,7 @@ Multiple episodes of acute chest syndrome are associated with
 
 <details><summary>Answer</summary>
 
-**A. Asthma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Asthma** — **A. Asthma** — Asthma is a strong risk factor for recurrent acute chest syndrome in sickle cell disease; both share airway inflammation increasing vaso-occlusion in pulmonary vasculature.
 
 </details>
 
@@ -26903,7 +26903,7 @@ Chronic bronchitis is said to be present when patient has chronic cough
 
 <details><summary>Answer</summary>
 
-**A. 3 consecutive months in at least two consecutive years** — Source: Medicoholic 2016 PYQ compilation.
+**A. 3 consecutive months in at least two consecutive years** — **A. 3 consecutive months in at least two consecutive years** — Chronic bronchitis is clinically defined by productive cough for ≥3 months/year for 2 consecutive years (after excluding other causes).
 
 </details>
 
@@ -26921,7 +26921,7 @@ Brocks syndrome is due to which lobe of lung?
 
 <details><summary>Answer</summary>
 
-**A. Right middle lobe** — Source: Medicoholic 2016 PYQ compilation.
+**A. Right middle lobe** — **A. Right middle lobe** — Brock syndrome (right middle lobe syndrome) is recurrent atelectasis/consolidation of RML due to compression by hilar lymph nodes; lobe has narrow bronchus and surrounded by lymphatics.
 
 </details>
 
@@ -26939,7 +26939,7 @@ Feature of Acute severe Asthma include all of the following, Except:
 
 <details><summary>Answer</summary>
 
-**A. Tachycardia > 120/min** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tachycardia > 120/min** — **A. Tachycardia > 120/min** — Tachycardia is a feature of acute severe asthma but in LIFE-THREATENING asthma bradycardia occurs (impending arrest); severe features include pulsus paradoxus and silent chest.
 
 </details>
 
@@ -26957,7 +26957,7 @@ Type IV respiratory failure occurs due to
 
 <details><summary>Answer</summary>
 
-**D. Hypoperfusion of respiratory muscles** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hypoperfusion of respiratory muscles** — **D. Hypoperfusion of respiratory muscles** — Type IV respiratory failure is shock-related, due to hypoperfusion of respiratory muscles; type I hypoxemic, II hypercapnic, III peri-operative (atelectasis).
 
 </details>
 
@@ -26975,7 +26975,7 @@ Which of the following are the clinical abnormalities of uremia?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Uremic syndrome encompasses hyperphosphatemia (decreased renal excretion), uremic frost (urea crystallizing on skin), and peptic ulceration (uremic gastropathy from urea irritation).
 
 </details>
 
@@ -26993,7 +26993,7 @@ Which type of Bartter's syndrome is associated with mutations in barttin?
 
 <details><summary>Answer</summary>
 
-**D. Type 4** — Source: Medicoholic 2016 PYQ compilation.
+**D. Type 4** — **D. Type 4** — Bartter type 4 (antenatal with sensorineural deafness) is caused by BSND gene mutations encoding barttin, a beta-subunit of CLC-Ka/Kb chloride channels.
 
 </details>
 
@@ -27011,7 +27011,7 @@ Test used for screening for urinary tract infection is
 
 <details><summary>Answer</summary>
 
-**A. Nitrite test** — Source: Medicoholic 2016 PYQ compilation.
+**A. Nitrite test** — **A. Nitrite test** — Urinary nitrite reflects nitrate reduction by gram-negative bacteria (Enterobacteriaceae); combined with leukocyte esterase, forms primary dipstick UTI screen.
 
 </details>
 
@@ -27029,7 +27029,7 @@ Patient with nephrotic syndrome has decreased amount of which antibody
 
 <details><summary>Answer</summary>
 
-**A. IgG** — Source: Medicoholic 2016 PYQ compilation.
+**A. IgG** — **A. IgG** — Massive proteinuria in nephrotic syndrome causes urinary loss of IgG (low MW); explains increased susceptibility to encapsulated bacterial infections (S. pneumoniae).
 
 </details>
 
@@ -27047,7 +27047,7 @@ RIFLE criteria is used for diagnosis of
 
 <details><summary>Answer</summary>
 
-**A. Acute kidney injury** — Source: Medicoholic 2016 PYQ compilation.
+**A. Acute kidney injury** — **A. Acute kidney injury** — RIFLE (Risk-Injury-Failure-Loss-ESRD) and the newer AKIN/KDIGO criteria stage acute kidney injury based on serum creatinine rise and urine output reduction.
 
 </details>
 
@@ -27065,7 +27065,7 @@ What is oliguria -
 
 <details><summary>Answer</summary>
 
-**B. Excretion of less than 500m1 in 24 hrs** — Source: Medicoholic 2016 PYQ compilation.
+**B. Excretion of less than 500m1 in 24 hrs** — **B. Excretion of less than 500 ml in 24 hrs** — Oliguria is defined as urine output <500 mL/24h in adults (or <0.5 mL/kg/h); <100 mL/24h is anuria.
 
 </details>
 
@@ -29732,7 +29732,7 @@ Which of the following is a layer between choroid and retina?
 
 <details><summary>Answer</summary>
 
-**A. Bruch's membrane** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bruch's membrane** — **A. Bruch's membrane** — Pentalaminar membrane between choroidal capillaries and RPE; basement membrane of RPE; thickens with age, drusen deposition causes age-related macular degeneration.
 
 </details>
 
@@ -29750,7 +29750,7 @@ Which of the following is a layer between choroid and retina?
 
 <details><summary>Answer</summary>
 
-**A. CRVO** — Source: Medicoholic 2016 PYQ compilation.
+**A. CRVO** — **A. CRVO** — Ischemic central retinal vein occlusion causes retinal hypoxia, VEGF release, and rubeosis iridis with neovascular glaucoma developing approximately 90-100 days post-occlusion.
 
 </details>
 
@@ -29768,7 +29768,7 @@ Retinal tears seen most commonly seen in ?
 
 <details><summary>Answer</summary>
 
-**A. Primary retinal detachment** — Source: Medicoholic 2016 PYQ compilation.
+**A. Primary retinal detachment** — **A. Primary retinal detachment** — Rhegmatogenous (primary) retinal detachment is caused by a full-thickness retinal break/tear allowing vitreous fluid to enter the subretinal space; treated with scleral buckle or vitrectomy.
 
 </details>
 
@@ -29786,7 +29786,7 @@ An elderly male with heart disease presents with sudden loss of vision in one ey
 
 <details><summary>Answer</summary>
 
-**B. Central retinal artery occlusion** — Source: Medicoholic 2016 PYQ compilation.
+**B. Central retinal artery occlusion** — **B. Central retinal artery occlusion** — Embolic occlusion (often cardiac) causes sudden painless monocular vision loss; cherry-red spot reflects preserved choroidal perfusion of fovea against pale ischemic retina.
 
 </details>
 
@@ -29804,7 +29804,7 @@ Which of the following is true about signs of angle in closure glaucoma except
 
 <details><summary>Answer</summary>
 
-**C. Multiple iris nodules** — Source: Medicoholic 2016 PYQ compilation.
+**C. Multiple iris nodules** — **C. Multiple iris nodules** — Iris nodules are features of granulomatous uveitis/sarcoidosis, not acute angle-closure glaucoma which shows vertically oval mid-dilated pupil, corneal edema, and disc hyperemia.
 
 </details>
 
@@ -29822,7 +29822,7 @@ Most common site of basal cell carcinoma of the eye is
 
 <details><summary>Answer</summary>
 
-**A. Eyelid** — Source: Medicoholic 2016 PYQ compilation.
+**A. Eyelid** — **A. Eyelid** — BCC accounts for 90% of eyelid malignancies; lower eyelid is the commonest site due to maximal UV exposure; managed by Mohs micrographic surgery.
 
 </details>
 
@@ -29840,7 +29840,7 @@ Ocular findings in diabetes are all except -
 
 <details><summary>Answer</summary>
 
-**D. Blepharophimosis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Blepharophimosis** — **D. Blepharophimosis** — Blepharophimosis is a congenital narrowing of palpebral fissure unrelated to diabetes; diabetes causes retinopathy, snowflake cataracts, and rubeotic neovascular glaucoma.
 
 </details>
 
@@ -29858,7 +29858,7 @@ Mucin layer tear flilm deficiency occurs in:
 
 <details><summary>Answer</summary>
 
-**A. Keratoconjunctivitis sicca** — Source: Medicoholic 2016 PYQ compilation.
+**A. Keratoconjunctivitis sicca** — **A. Keratoconjunctivitis sicca** — Conjunctival goblet cell loss reduces mucin (MUC5AC) layer in dry eye disease; diagnosed by Schirmer test and TBUT; treated with artificial tears and cyclosporine.
 
 </details>
 
@@ -29876,7 +29876,7 @@ Pure word deafness is associated with
 
 <details><summary>Answer</summary>
 
-**A. Middle cerebral artery stroke** — Source: Medicoholic 2016 PYQ compilation.
+**A. Middle cerebral artery stroke** — **A. Middle cerebral artery stroke** — Bilateral lesions of superior temporal gyrus (Heschl's gyrus, supplied by MCA) cause auditory verbal agnosia with preserved hearing, reading, writing, and speech.
 
 </details>
 
@@ -29894,7 +29894,7 @@ Global aphasia is seen due to
 
 <details><summary>Answer</summary>
 
-**A. Strokes involving entire middle cerebral artery distribution in left** — Source: Medicoholic 2016 PYQ compilation.
+**A. Strokes involving entire middle cerebral artery distribution in left** — **A. Strokes involving entire middle cerebral artery distribution in left** — Large left MCA infarct damages both Broca's and Wernicke's areas, producing non-fluent speech with impaired comprehension, repetition, naming.
 
 </details>
 
@@ -29912,7 +29912,7 @@ Which lobe is affected in the early course of alzheimers disease
 
 <details><summary>Answer</summary>
 
-**C. Medial temporal lobe** — Source: Medicoholic 2016 PYQ compilation.
+**C. Medial temporal lobe** — **C. Medial temporal lobe** — Entorhinal cortex and hippocampus show earliest neurofibrillary tangles (Braak stages I-II), explaining the prominent anterograde amnesia in early Alzheimer's disease.
 
 </details>
 
@@ -29930,7 +29930,7 @@ Which is/are the usual first deformity/ies to be seen in CMT disease?
 
 <details><summary>Answer</summary>
 
-**A. Pes cavus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pes cavus** — **A. Pes cavus** — Charcot-Marie-Tooth (hereditary motor sensory neuropathy) causes intrinsic foot muscle weakness with peroneal atrophy; pes cavus and hammer toes are the earliest deformities.
 
 </details>
 
@@ -29948,7 +29948,7 @@ Huntingtons disease is commonly seen in age group between
 
 <details><summary>Answer</summary>
 
-**B. 25 - 45 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 25 - 45 years** — **B. 25 - 45 years** — Autosomal dominant CAG trinucleotide repeat expansion in HTT gene typically manifests with chorea, dementia, and psychiatric symptoms in the fourth decade.
 
 </details>
 
@@ -29966,7 +29966,7 @@ Wernickes encephalopathy develops secondary to accumulation of which substrate?
 
 <details><summary>Answer</summary>
 
-**A. Glutamate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glutamate** — **A. Glutamate** — Thiamine deficiency impairs alpha-ketoglutarate dehydrogenase causing glutamate accumulation and excitotoxicity in mammillary bodies and thalamus; classic triad: ophthalmoplegia, ataxia, confusion.
 
 </details>
 
@@ -29984,7 +29984,7 @@ Which of the following clinical test when positive suggests presence of sensory 
 
 <details><summary>Answer</summary>
 
-**A. Romberg test** — Source: Medicoholic 2016 PYQ compilation.
+**A. Romberg test** — **A. Romberg test** — Loss of balance on eye closure indicates impaired proprioception (dorsal column pathology); positive in tabes dorsalis, B12 deficiency, and peripheral sensory neuropathy.
 
 </details>
 
@@ -30002,7 +30002,7 @@ Todds paralysis is experience following episode of
 
 <details><summary>Answer</summary>
 
-**A. Focal seizure** — Source: Medicoholic 2016 PYQ compilation.
+**A. Focal seizure** — **A. Focal seizure** — Transient postictal hemiparesis lasting hours to days follows focal motor seizures; reflects neuronal exhaustion or cortical inhibition in the involved motor cortex.
 
 </details>
 
@@ -30020,7 +30020,7 @@ Frontal lobe syndrome consists
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Frontal lobe damage produces euphoria/disinhibition (orbitofrontal), indifference/apathy (medial frontal), and irritability/impaired executive function; classically described in Phineas Gage.
 
 </details>
 
@@ -30038,7 +30038,7 @@ Immune thrombocytopenic puprpura associated with
 
 <details><summary>Answer</summary>
 
-**C. Hepatitis C infection** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hepatitis C infection** — **C. Hepatitis C infection** — HCV is a well-established secondary cause of immune thrombocytopenic purpura via molecular mimicry and immune complex-mediated platelet destruction; treat underlying HCV.
 
 </details>
 
@@ -30056,7 +30056,7 @@ Which of the following drug/s can be used for immediate parenteral anticoagulati
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Unfractionated heparin, LMWH (enoxaparin), and fondaparinux all provide immediate parenteral anticoagulation by potentiating antithrombin III; used as bridge to warfarin in VTE.
 
 </details>
 
@@ -30074,7 +30074,7 @@ True about sideroblastic anemia
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Sideroblastic anemia results from defective ALA synthase activity, demonstrates ringed sideroblasts on Prussian blue stain, and responds to pyridoxine (B6) in hereditary forms.
 
 </details>
 
@@ -30092,7 +30092,7 @@ Massive transfusion is defined as transfusion of
 
 <details><summary>Answer</summary>
 
-**A. 10/ 24 or more red cell products in hours.** — Source: Medicoholic 2016 PYQ compilation.
+**A. 10/ 24 or more red cell products in hours.** — **A. 10/24 or more red cell products in hours** — Massive transfusion = >10 units PRBC in 24 hours, or >50% blood volume in 4 hours; activates massive transfusion protocol with 1:1:1 PRBC:FFP:platelet ratio.
 
 </details>
 
@@ -30110,7 +30110,7 @@ Which is the most common cause of thrombocytopenia in an ICU patient?
 
 <details><summary>Answer</summary>
 
-**A. Sepsis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Sepsis** — **A. Sepsis** — Sepsis is the leading cause of ICU thrombocytopenia via DIC, platelet consumption, marrow suppression, and immune-mediated destruction; correlates with higher mortality.
 
 </details>
 
@@ -30128,7 +30128,7 @@ What percentage of Multiple myeloma patients have vertebral involvement?
 
 <details><summary>Answer</summary>
 
-**C. 66%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 66%** — **C. 66%** — Around two-thirds of multiple myeloma patients have vertebral lytic lesions causing back pain, compression fractures, and cord compression; MRI is most sensitive for detection.
 
 </details>
 
@@ -30146,7 +30146,7 @@ In case of hypothyroidism which investigation is most informative and most commo
 
 <details><summary>Answer</summary>
 
-**A. Serum TSH Level** — Source: Medicoholic 2016 PYQ compilation.
+**A. Serum TSH Level** — **A. Serum TSH Level** — TSH is the most sensitive marker of primary hypothyroidism (elevated due to negative feedback loss); first-line screening and monitoring test for levothyroxine titration.
 
 </details>
 
@@ -30164,7 +30164,7 @@ HbA1c control for how much time
 
 <details><summary>Answer</summary>
 
-**C. 6 - 8 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6 - 8 weeks** — **C. 6 - 8 weeks** — HbA1c reflects average glycaemia over the lifespan of erythrocytes (~120 days), but most strongly weighted to glycaemia of the preceding 6-8 weeks.
 
 </details>
 
@@ -30182,7 +30182,7 @@ All are seen in MEN IIA syndrome except
 
 <details><summary>Answer</summary>
 
-**C. Caused by loss of function mutation in IIRT protooncogene** — Source: Medicoholic 2016 PYQ compilation.
+**C. Caused by loss of function mutation in IIRT protooncogene** — **C. Caused by loss of function mutation in IIRT protooncogene** — MEN 2A is caused by gain-of-function (activating) RET protooncogene mutation, not loss-of-function; features MTC, pheochromocytoma, and hyperparathyroidism.
 
 </details>
 
@@ -30200,7 +30200,7 @@ Tertiary hyperparathyroidism is-
 
 <details><summary>Answer</summary>
 
-**D. Secondary hyperparathyroidism with chief cell adenoma** — Source: Medicoholic 2016 PYQ compilation.
+**D. Secondary hyperparathyroidism with chief cell adenoma** — **D. Secondary hyperparathyroidism with chief cell adenoma** — Prolonged secondary hyperparathyroidism (CKD) leads to autonomous parathyroid hyperplasia/adenoma with persistent hypercalcemia despite correction of underlying cause.
 
 </details>
 
@@ -30218,7 +30218,7 @@ Chronic adrenal insufficiency is caused by the following organisms except
 
 <details><summary>Answer</summary>
 
-**D. Mycobacterium bovis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Mycobacterium bovis** — **D. Mycobacterium bovis** — Adrenal tuberculosis (Addison's disease) is caused by M. tuberculosis; histoplasma and coccidioides also infiltrate adrenals; M. bovis primarily causes intestinal/cervical TB.
 
 </details>
 
@@ -30236,7 +30236,7 @@ Which of the following is not a feature of myxedema coma?
 
 <details><summary>Answer</summary>
 
-**D. Levothyroxine should not be used in the management** — Source: Medicoholic 2016 PYQ compilation.
+**D. Levothyroxine should not be used in the management** — **D. Levothyroxine should not be used in the management** — Myxedema coma is a thyroid emergency requiring IV levothyroxine (with hydrocortisone to prevent adrenal crisis); features hypothermia, hypoventilation, hyponatremia.
 
 </details>
 
@@ -30254,7 +30254,7 @@ The gold standard test for diagnosis of Insulinoma is:
 
 <details><summary>Answer</summary>
 
-**A. '72 hour' fast test** — Source: Medicoholic 2016 PYQ compilation.
+**A. '72 hour' fast test** — **A. '72 hour' fast test** — Supervised 72-hour fast reproduces Whipple's triad: hypoglycemia, neuroglycopenic symptoms, relief with glucose; with inappropriately elevated insulin and C-peptide diagnostic of insulinoma.
 
 </details>
 
@@ -30272,7 +30272,7 @@ Hypotonic solution given to correct
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Hypotonic fluids (0.45% saline) correct hyperosmolar states like DKA, HHS, and diuretic-induced hypernatremic dehydration by replacing free water deficit and lowering serum osmolarity gradually.
 
 </details>
 
@@ -30290,7 +30290,7 @@ Acute hyponatremia becomes symptomatic at
 
 <details><summary>Answer</summary>
 
-**B. < 125 mEq** — Source: Medicoholic 2016 PYQ compilation.
+**B. < 125 mEq** — **B. < 125 mEq** — Acute hyponatremia below 125 mEq/L causes cerebral edema with headache, nausea, seizures, and coma; rapid correction risks osmotic demyelination syndrome (central pontine myelinolysis).
 
 </details>
 
@@ -30308,7 +30308,7 @@ Respiratory acidosis is recognized primarily by increase in
 
 <details><summary>Answer</summary>
 
-**B. PaCO2** — Source: Medicoholic 2016 PYQ compilation.
+**B. PaCO2** — **B. PaCO2** — Respiratory acidosis results from alveolar hypoventilation causing CO2 retention (PaCO2 >45 mmHg); compensation occurs through renal bicarbonate retention; lowers pH below 7.35.
 
 </details>
 
@@ -30326,7 +30326,7 @@ Which of the following drug administration is not associated with hypomagnesemia
 
 <details><summary>Answer</summary>
 
-**B. Valproate** — Source: Medicoholic 2016 PYQ compilation.
+**B. Valproate** — **B. Valproate** — Valproate is not associated with hypomagnesemia; cisplatin (tubular toxicity), foscarnet, and cetuximab all cause renal magnesium wasting via tubular damage or EGFR inhibition.
 
 </details>
 
@@ -30344,7 +30344,7 @@ SARS infection case fatality rate of >50% is observed in patients of which age g
 
 <details><summary>Answer</summary>
 
-**D. > 65 years** — Source: Medicoholic 2016 PYQ compilation.
+**D. > 65 years** — **D. > 65 years** — SARS-CoV-1 case fatality rate exceeded 50% in patients above 65 years due to immunosenescence, comorbidities, and severe ARDS; overall CFR around 10%.
 
 </details>
 
@@ -30362,7 +30362,7 @@ All are features of SIRS except-
 
 <details><summary>Answer</summary>
 
-**A. RR> 24 & Paco2 <22mm hg** — Source: Medicoholic 2016 PYQ compilation.
+**A. RR> 24 & Paco2 <22mm hg** — **A. RR> 24 & Paco2 <22mm hg** — SIRS criteria include RR >20 OR PaCO2 <32 mmHg (not 22), temperature >38 or <36, HR >90, WBC >12 or <4; two or more define SIRS.
 
 </details>
 
@@ -30380,7 +30380,7 @@ Dengue shock syndrome is characterized by the following except -
 
 <details><summary>Answer</summary>
 
-**D. Decreased haemoglobin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Decreased haemoglobin** — **D. Decreased haemoglobin** — Dengue shock syndrome shows hemoconcentration (raised hematocrit/Hb) due to plasma leakage; other features include thrombocytopenia, hepatomegaly, pleural effusion, and ascites.
 
 </details>
 
@@ -30398,7 +30398,7 @@ Tuberous sclerosis is caused by mutations in the following proteins
 
 <details><summary>Answer</summary>
 
-**A. Hamartin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hamartin** — **A. Hamartin** — Tuberous sclerosis complex is caused by mutations in TSC1 (hamartin) or TSC2 (tuberin) genes encoding mTOR pathway suppressors; treated with everolimus/sirolimus.
 
 </details>
 
@@ -30416,7 +30416,7 @@ Z track technique must be used for administration of
 
 <details><summary>Answer</summary>
 
-**D. Injection erythromycin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Injection erythromycin** — **D. Injection erythromycin** — Z-track technique displaces subcutaneous tissue to prevent leakage of irritant/staining drugs back along the needle tract; used for iron dextran, vitamin B12, and erythromycin IM.
 
 </details>
 
@@ -30434,7 +30434,7 @@ Pierre robin syndrome following is true except
 
 <details><summary>Answer</summary>
 
-**C. Airway obstruction particularly during expiration** — Source: Medicoholic 2016 PYQ compilation.
+**C. Airway obstruction particularly during expiration** — **C. Airway obstruction particularly during expiration** — Pierre Robin sequence (micrognathia, glossoptosis, cleft palate) causes inspiratory airway obstruction from posterior tongue displacement, not expiratory; treated with prone positioning, mandibular distraction.
 
 </details>
 
@@ -30452,7 +30452,7 @@ Alien limb syndrome seen in
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Alien limb syndrome (limb performing purposeful movements outside conscious control) occurs in corticobasal degeneration, Creutzfeldt-Jakob disease, Alzheimer's, and following corpus callosum/parietal surgery.
 
 </details>
 
@@ -30470,7 +30470,7 @@ Osmolarity of Milk F-100 is
 
 <details><summary>Answer</summary>
 
-**C. 419 mOsm/L** — Source: Medicoholic 2016 PYQ compilation.
+**C. 419 mOsm/L** — **C. 419 mOsm/L** — F-100 therapeutic milk (100 kcal/100 mL) used in WHO Phase 2 (rehabilitation) of severe acute malnutrition; osmolarity 419 mOsm/L; F-75 used in Phase 1 stabilization.
 
 </details>
 
@@ -30488,7 +30488,7 @@ Which of the following drugs can cause seizures except?
 
 <details><summary>Answer</summary>
 
-**D. Ketorolac** — Source: Medicoholic 2016 PYQ compilation.
+**D. Ketorolac** — **D. Ketorolac** — Ketorolac (NSAID) does not lower seizure threshold; lithium toxicity, phencyclidine, and INH (pyridoxine antagonism) all cause seizures; tramadol and bupropion are notable culprits too.
 
 </details>
 
@@ -30506,7 +30506,7 @@ Riboflavin deficiency causes
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Riboflavin (B2) deficiency (ariboflavinosis) causes angular stomatitis, glossitis, seborrheic dermatitis, corneal vascularization, normochromic-normocytic anemia, and personality changes.
 
 </details>
 
@@ -30524,7 +30524,7 @@ Soret band in which porphyrins absorb light lie at what wavelength of the spectr
 
 <details><summary>Answer</summary>
 
-**C. 400nm** — Source: Medicoholic 2016 PYQ compilation.
+**C. 400nm** — **C. 400nm** — Porphyrins exhibit intense Soret absorption band at approximately 400-410 nm (near-UV/violet), basis for photodynamic therapy and Wood's lamp fluorescence in porphyrias.
 
 </details>
 
@@ -30542,7 +30542,7 @@ Which of the following is not seen after nerve transection?
 
 <details><summary>Answer</summary>
 
-**D. Neuroma in continuity** — Source: Medicoholic 2016 PYQ compilation.
+**D. Neuroma in continuity** — **D. Neuroma in continuity** — Neuroma in continuity forms in partially injured but intact nerves, not transection; transection causes Wallerian degeneration, myelin ovoids, and traumatic (painful) neuroma at proximal stump.
 
 </details>
 
@@ -30560,7 +30560,7 @@ Reactive nitrogen species for killing of microbes are mainly derived from
 
 <details><summary>Answer</summary>
 
-**B. Nitric Oxide [NO]** — Source: Medicoholic 2016 PYQ compilation.
+**B. Nitric Oxide [NO]** — **B. Nitric Oxide [NO]** — Macrophage iNOS oxidizes L-arginine to NO; NO combines with superoxide to form peroxynitrite, the primary RNS mediating microbicidal activity against intracellular pathogens.
 
 </details>
 
@@ -30578,7 +30578,7 @@ Which of the following genes if affected will sporadically cause Juvenile myeloi
 
 <details><summary>Answer</summary>
 
-**A. NF1** — Source: Medicoholic 2016 PYQ compilation.
+**A. NF1** — **A. NF1** — Loss of NF1 (neurofibromin) leads to constitutive RAS activation; juvenile myelomonocytic leukemia (JMML) shows RAS-pathway mutations in NF1, PTPN11, KRAS, NRAS, CBL.
 
 </details>
 
@@ -30596,7 +30596,7 @@ Oculogyric crisis is known to be produced by all of the following drugs except
 
 <details><summary>Answer</summary>
 
-**B. Atropine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Atropine** — **B. Atropine** — Atropine (anticholinergic) treats acute dystonic reactions, not causes them; phenothiazines (trifluoperazine, perphenazine, prochlorperazine) cause oculogyric crisis by D2 blockade; treat with diphenhydramine.
 
 </details>
 
@@ -30614,7 +30614,7 @@ Which of the following primarily governs the uptake of Tc-99m MDP in body?
 
 <details><summary>Answer</summary>
 
-**A. Amount of osteogenic activity** — Source: Medicoholic 2016 PYQ compilation.
+**A. Amount of osteogenic activity** — **A. Amount of osteogenic activity** — Tc-99m methylene diphosphonate (MDP) chemisorbs onto hydroxyapatite crystals at sites of active bone turnover; uptake reflects osteoblastic activity in bone scintigraphy.
 
 </details>
 
@@ -30632,7 +30632,7 @@ Technitium-99m pertechnetate labelled methylene diphosphonate is structurally si
 
 <details><summary>Answer</summary>
 
-**A. Calcium phosphate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Calcium phosphate** — **A. Calcium phosphate** — MDP is a phosphate analogue structurally mimicking calcium phosphate (hydroxyapatite); incorporates into bone mineral matrix proportional to osteoblastic activity in bone scans.
 
 </details>
 
@@ -30650,7 +30650,7 @@ Which of the following should be done for an acute onset painful scrotal swellin
 
 <details><summary>Answer</summary>
 
-**A. Doppler stethoscope evaluation** — Source: Medicoholic 2016 PYQ compilation.
+**A. Doppler stethoscope evaluation** — **A. Doppler stethoscope evaluation** — Testicular torsion is the most urgent diagnosis in acute scrotum; Doppler USG showing absent/reduced testicular blood flow confirms torsion; surgical detorsion within 6 hours saves the testis.
 
 </details>
 
@@ -30668,7 +30668,7 @@ Earliest hematological change following spleenectomy is
 
 <details><summary>Answer</summary>
 
-**A. Leukocytosis and thrombocytosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Leukocytosis and thrombocytosis** — **A. Leukocytosis and thrombocytosis** — Loss of splenic pooling causes immediate post-splenectomy leukocytosis and thrombocytosis (within hours-days); Howell-Jolly bodies and Heinz bodies appear later.
 
 </details>
 
@@ -30686,7 +30686,7 @@ Sebaceous cyst occurs occur in all the following locations in body except
 
 <details><summary>Answer</summary>
 
-**A. Palms and soles** — Source: Medicoholic 2016 PYQ compilation.
+**A. Palms and soles** — **A. Palms and soles** — Sebaceous (epidermoid) cysts arise from sebaceous gland obstruction; palms and soles lack sebaceous glands so are spared; common on scalp, face, neck, trunk, scrotum.
 
 </details>
 
@@ -30704,7 +30704,7 @@ Cortisol levels remain elevated for how many week/s following hemorrhage?
 
 <details><summary>Answer</summary>
 
-**A. 1** — Source: Medicoholic 2016 PYQ compilation.
+**A. 1** — **A. 1** — Stress-induced cortisol elevation post-hemorrhage normally returns to baseline within one week; persistent elevation suggests ongoing stress, sepsis, or critical illness-related adrenal dysfunction.
 
 </details>
 
@@ -30722,7 +30722,7 @@ What percentage of gall stones are radio opaque?
 
 <details><summary>Answer</summary>
 
-**A. 10- 20** — Source: Medicoholic 2016 PYQ compilation.
+**A. 10- 20** — **A. 10-20** — Only 10-20% of gallstones are radio-opaque on plain X-ray (those containing calcium); pigment stones are more calcified than cholesterol stones; USG is investigation of choice.
 
 </details>
 
@@ -30740,7 +30740,7 @@ False about osteogenesis imperfecta is -
 
 <details><summary>Answer</summary>
 
-**B. Associated with cataract formation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Associated with cataract formation** — **B. Associated with cataract formation** — Osteogenesis imperfecta (defective type I collagen, autosomal dominant) features blue sclera, brittle bones, deafness, and dentinogenesis imperfecta; cataracts are NOT typical.
 
 </details>
 
@@ -31553,7 +31553,7 @@ Woronoff's ring is a feature of?
 
 <details><summary>Answer</summary>
 
-**A. Psoriasis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Psoriasis** — **A. Psoriasis** — Woronoff's ring is a pale blanched halo surrounding resolving psoriatic plaques (especially after phototherapy); reflects altered prostaglandin response in surrounding skin.
 
 </details>
 
@@ -31571,7 +31571,7 @@ Which of the following is not a feature of lichen planus?
 
 <details><summary>Answer</summary>
 
-**D. Not premalignant** — Source: Medicoholic 2016 PYQ compilation.
+**D. Not premalignant** — **D. Not premalignant** — Lichen planus (especially oral/erosive type) carries a small but recognised risk of malignant transformation to squamous cell carcinoma (~1-5%), so it IS considered premalignant.
 
 </details>
 
@@ -31589,7 +31589,7 @@ First generation topical retinoid is?
 
 <details><summary>Answer</summary>
 
-**A. Retinoic acid** — Source: Medicoholic 2016 PYQ compilation.
+**A. Retinoic acid** — **A. Retinoic acid** — Tretinoin (all-trans retinoic acid) is the prototype first-generation retinoid; binds RAR receptors, normalises keratinisation, used in acne, photoaging, and ichthyosis.
 
 </details>
 
@@ -31607,7 +31607,7 @@ Jock itch is caused by?
 
 <details><summary>Answer</summary>
 
-**A. Epidermophyton floccosum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Epidermophyton floccosum** — **A. Epidermophyton floccosum** — Tinea cruris (jock itch) is most commonly caused by Epidermophyton floccosum (also Trichophyton rubrum); presents as pruritic annular plaque in groin; treated with topical/oral azoles or terbinafine.
 
 </details>
 
@@ -31625,7 +31625,7 @@ Hertoghe's sign is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Atopic dermatitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Atopic dermatitis** — **A. Atopic dermatitis** — Hertoghe sign is loss/thinning of the outer third of eyebrows; classically seen in atopic dermatitis (and hypothyroidism, leprosy); reflects chronic rubbing and inflammation.
 
 </details>
 
@@ -31643,7 +31643,7 @@ Preferred concentration of minoxidil for female androgenetic alopecia is?
 
 <details><summary>Answer</summary>
 
-**A. 2%** — Source: Medicoholic 2016 PYQ compilation.
+**A. 2%** — **A. 2%** — Topical minoxidil 2% is preferred in females (5% causes more facial hypertrichosis); opens potassium channels, prolongs anagen phase; used twice daily for androgenetic alopecia.
 
 </details>
 
@@ -31661,7 +31661,7 @@ Normal epidermal turnover time is?
 
 <details><summary>Answer</summary>
 
-**C. 3 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3 weeks** — **C. 3 weeks** — Normal epidermal transit time from basal layer to stratum corneum desquamation is approximately 28 days (3-4 weeks); shortened to 3-5 days in psoriasis.
 
 </details>
 
@@ -31679,7 +31679,7 @@ Pityriasis rosea clears with in?
 
 <details><summary>Answer</summary>
 
-**B. 2-4 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2-4 weeks** — **B. 2-4 weeks** — Pityriasis rosea (HHV-6/7 associated) presents with herald patch followed by Christmas-tree distribution; self-limiting and resolves spontaneously within 2-8 weeks (typically 2-4).
 
 </details>
 
@@ -31697,7 +31697,7 @@ Alopecia universalis is?
 
 <details><summary>Answer</summary>
 
-**B. Loss of all body hair** — Source: Medicoholic 2016 PYQ compilation.
+**B. Loss of all body hair** — **B. Loss of all body hair** — Alopecia universalis is the most severe form of alopecia areata with complete loss of scalp, eyebrow, eyelash, and body hair; autoimmune T-cell mediated against hair follicle antigens.
 
 </details>
 
@@ -31715,7 +31715,7 @@ Multiple psoriatic lesions on hands.
 
 <details><summary>Answer</summary>
 
-**C. Topical steroids and salicylic acid** — Source: Medicoholic 2016 PYQ compilation.
+**C. Topical steroids and salicylic acid** — **C. Topical steroids and salicylic acid** — Localised palmar psoriasis is treated with potent topical corticosteroids plus keratolytic salicylic acid; systemic therapy reserved for extensive or refractory disease.
 
 </details>
 
@@ -31733,7 +31733,7 @@ False about Langer's lines is?
 
 <details><summary>Answer</summary>
 
-**A. Remain constant throughout life time of a person** — Source: Medicoholic 2016 PYQ compilation.
+**A. Remain constant throughout life time of a person** — **A. Remain constant throughout life time of a person** — Langer's lines vary with age, body habitus, and posture (not constant); align with dermal collagen orientation; incisions along these lines yield optimal scars.
 
 </details>
 
@@ -31751,7 +31751,7 @@ Most common type of cutaneous mastocytosis is?
 
 <details><summary>Answer</summary>
 
-**B. Urticaria pigmentosa** — Source: Medicoholic 2016 PYQ compilation.
+**B. Urticaria pigmentosa** — **B. Urticaria pigmentosa** — Urticaria pigmentosa (maculopapular cutaneous mastocytosis) is the commonest form; multiple reddish-brown macules show Darier's sign (urtication on stroking); KIT D816V mutation.
 
 </details>
 
@@ -31769,7 +31769,7 @@ Volcano sign is seen in?
 
 <details><summary>Answer</summary>
 
-**B. Leishmaniasis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Leishmaniasis** — **B. Leishmaniasis** — Cutaneous leishmaniasis (oriental sore) heals with a central crater-like depression and raised edges resembling a volcano; caused by Leishmania tropica/major; treated with antimonials.
 
 </details>
 
@@ -31787,7 +31787,7 @@ Most common metal responsible for contact dermatitis is ?
 
 <details><summary>Answer</summary>
 
-**C. Nickel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nickel** — **C. Nickel** — Nickel is the commonest contact allergen worldwide (jewellery, belt buckles, coins); causes type IV delayed hypersensitivity; confirmed by patch testing; F>M due to ear piercing.
 
 </details>
 
@@ -31805,7 +31805,7 @@ Which of the following is true about xeroderma pigmentosa?
 
 <details><summary>Answer</summary>
 
-**D. DNA repair defect** — Source: Medicoholic 2016 PYQ compilation.
+**D. DNA repair defect** — **D. DNA repair defect** — Xeroderma pigmentosum is autosomal recessive defect in nucleotide excision repair (XPA-XPG genes) failing to repair UV-induced pyrimidine dimers; extreme photosensitivity, skin cancers.
 
 </details>
 
@@ -31823,7 +31823,7 @@ Nevus simplex commonly presents at ?
 
 <details><summary>Answer</summary>
 
-**A. Face** — Source: Medicoholic 2016 PYQ compilation.
+**A. Face** — **A. Face** — Nevus simplex (salmon patch, angel kiss, stork bite) is a capillary malformation on face (forehead, eyelids, nape); fades spontaneously in infancy unlike port-wine stain.
 
 </details>
 
@@ -31841,7 +31841,7 @@ In mechanical ventilation, peak pressure in inspiration denotes ?
 
 <details><summary>Answer</summary>
 
-**C. Airway resistance** — Source: Medicoholic 2016 PYQ compilation.
+**C. Airway resistance** — **C. Airway resistance** — Peak inspiratory pressure reflects both airway resistance and lung compliance; the difference between peak and plateau pressures specifically indicates airway resistance.
 
 </details>
 
@@ -31859,7 +31859,7 @@ American anesthetic association says that clopidogrel should be withheld how man
 
 <details><summary>Answer</summary>
 
-**B. 1 week** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1 week** — **B. 1 week** — ASA recommends withholding clopidogrel for 5-7 days before elective surgery due to irreversible P2Y12 platelet receptor inhibition; aspirin withheld 7 days, warfarin 5 days.
 
 </details>
 
@@ -31877,7 +31877,7 @@ Etomidate is not used for long term infusion because?
 
 <details><summary>Answer</summary>
 
-**A. Results in adrenal suppression** — Source: Medicoholic 2016 PYQ compilation.
+**A. Results in adrenal suppression** — **A. Results in adrenal suppression** — Etomidate inhibits 11-beta-hydroxylase causing adrenal cortical suppression; safe for single-dose induction but contraindicated for infusion (increased ICU mortality in sepsis).
 
 </details>
 
@@ -31895,7 +31895,7 @@ Succinylcholine is contraindicated in?
 
 <details><summary>Answer</summary>
 
-**A. Hyperkalemia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hyperkalemia** — **A. Hyperkalemia** — Succinylcholine (depolarising muscle relaxant) causes potassium efflux raising serum K+ by 0.5 mEq/L; contraindicated in burns, crush injury, denervation, and pre-existing hyperkalemia (risk of cardiac arrest).
 
 </details>
 
@@ -31913,7 +31913,7 @@ Intra-arterial thiopentone injection leads to?
 
 <details><summary>Answer</summary>
 
-**A. Ischemia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Ischemia** — **A. Ischemia** — Intra-arterial thiopentone crystallises at arterial pH causing endothelial damage, vasospasm, thrombosis, and distal limb ischemia/gangrene; treat with intra-arterial papaverine/heparin.
 
 </details>
 
@@ -31931,7 +31931,7 @@ Size of LMA for a 15kg child is?
 
 <details><summary>Answer</summary>
 
-**B. 2** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2** — **B. 2** — LMA size selection by weight: size 1 (<5 kg), 1.5 (5-10 kg), 2 (10-20 kg), 2.5 (20-30 kg), 3 (30-50 kg), 4 (50-70 kg); 15 kg child takes size 2.
 
 </details>
 
@@ -31949,7 +31949,7 @@ Type E circuit is used for?
 
 <details><summary>Answer</summary>
 
-**C. Children** — Source: Medicoholic 2016 PYQ compilation.
+**C. Children** — **C. Children** — Mapleson E (Ayre's T-piece) is a valveless, low-resistance, low-dead-space breathing circuit ideal for paediatric spontaneous ventilation; Jackson-Rees modification adds open bag for controlled ventilation.
 
 </details>
 
@@ -31967,7 +31967,7 @@ Radiation protection shields are made up of:
 
 <details><summary>Answer</summary>
 
-**C. Lead** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lead** — **C. Lead** — Lead has high atomic number (Z=82) and density making it highly effective at attenuating X-rays and gamma rays; standard 0.25-0.5 mm lead equivalent in aprons, shields, and walls.
 
 </details>
 
@@ -31985,7 +31985,7 @@ Soap bubble appearance on MRI brain is characteristic of?
 
 <details><summary>Answer</summary>
 
-**C. Cryptococcal cysts** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cryptococcal cysts** — **C. Cryptococcal cysts** — Cryptococcus neoformans causes gelatinous pseudocysts in basal ganglia and midbrain (Virchow-Robin spaces) appearing as 'soap bubble' lesions on T2 MRI in immunocompromised patients.
 
 </details>
 
@@ -32003,7 +32003,7 @@ T2 image in MRI is -
 
 <details><summary>Answer</summary>
 
-**A. Good to detect pathology** — Source: Medicoholic 2016 PYQ compilation.
+**A. Good to detect pathology** — **A. Good to detect pathology** — T2-weighted images show water/edema as hyperintense (bright); most pathologies (tumour, infarct, infection, edema) increase tissue water making T2 ideal for pathology detection; T1 better for anatomy.
 
 </details>
 
@@ -32021,7 +32021,7 @@ CSF on MRI appears:
 
 <details><summary>Answer</summary>
 
-**B. Hypointense on T1 weighed image and hyperintense on T2** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hypointense on T1 weighed image and hyperintense on T2** — **B. Hypointense on T1 weighed image and hyperintense on T2** — CSF (water) has long T1 (dark on T1) and long T2 (bright on T2); useful to identify ventricles and subarachnoid spaces; FLAIR suppresses CSF signal.
 
 </details>
 
@@ -32039,7 +32039,7 @@ MIBG dose is -
 
 <details><summary>Answer</summary>
 
-**A. 40-80MBq** — Source: Medicoholic 2016 PYQ compilation.
+**A. 40-80MBq** — **A. 40-80MBq** — I-123/I-131 MIBG (metaiodobenzylguanidine, norepinephrine analogue) scintigraphy diagnostic dose is 40-80 MBq; localises pheochromocytoma, neuroblastoma, and paraganglioma via NET uptake.
 
 </details>
 
@@ -32057,7 +32057,7 @@ The maximum permissible level of occupational exposure to radiation is...per yea
 
 <details><summary>Answer</summary>
 
-**A. 5 rad** — Source: Medicoholic 2016 PYQ compilation.
+**A. 5 rad** — **A. 5 rad** — ICRP occupational radiation dose limit is 50 mSv (5 rem/5 rad) per year, averaged 20 mSv/yr over 5 years; public limit is 1 mSv/year; pregnant workers 1 mSv to fetus.
 
 </details>
 
@@ -32075,7 +32075,7 @@ Radiographic sign characteristic of pulmonary edema is -
 
 <details><summary>Answer</summary>
 
-**D. Bat wing sign** — Source: Medicoholic 2016 PYQ compilation.
+**D. Bat wing sign** — **D. Bat wing sign** — Bilateral perihilar 'bat-wing' or 'butterfly' alveolar opacities sparing the periphery are classic for acute cardiogenic pulmonary edema; Westermark/Hampton/Palla signs indicate pulmonary embolism.
 
 </details>
 
@@ -32093,7 +32093,7 @@ Snow storm appearance on chest X-ray is seen in -
 
 <details><summary>Answer</summary>
 
-**C. Silicosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Silicosis** — **C. Silicosis** — Silicosis shows multiple small nodular opacities (egg-shell calcification of hilar nodes, snow-storm appearance) due to inhaled silica dust; high risk of TB and lung cancer.
 
 </details>
 
@@ -32111,7 +32111,7 @@ Snow storm appearance on chest X-ray is seen in -
 
 <details><summary>Answer</summary>
 
-**B. Duplicated collecting system** — Source: Medicoholic 2016 PYQ compilation.
+**B. Duplicated collecting system** — **B. Duplicated collecting system** — Drooping lily sign on IVU represents downward displacement of an opacified lower-pole moiety by a non-functioning hydronephrotic upper-pole moiety in duplex kidney with ectopic ureterocele.
 
 </details>
 
@@ -32129,7 +32129,7 @@ Sonographic appearance of hydatid cyst is -
 
 <details><summary>Answer</summary>
 
-**D. Hypoechoic septate lesion** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hypoechoic septate lesion** — **D. Hypoechoic septate lesion** — Hepatic hydatid cyst (Echinococcus granulosus) appears as hypoechoic cyst with internal septations (daughter cysts), water-lily sign, or wheel-spoke pattern (Gharbi classification).
 
 </details>
 
@@ -32147,7 +32147,7 @@ Roentgen is the unit of:
 
 <details><summary>Answer</summary>
 
-**B. Radiation exposure** — Source: Medicoholic 2016 PYQ compilation.
+**B. Radiation exposure** — **B. Radiation exposure** — Roentgen (R) measures radiation exposure (ionisation of air); SI unit is coulomb/kg; not to be confused with absorbed dose (Gray) or equivalent dose (Sievert).
 
 </details>
 
@@ -32165,7 +32165,7 @@ SI unit of radioactivity is: March 2013 (c, f)
 
 <details><summary>Answer</summary>
 
-**C. Becuerel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Becuerel** — **C. Becquerel** — Becquerel (Bq) = 1 disintegration/second is the SI unit of radioactivity; old unit Curie (1 Ci = 3.7×10^10 Bq); measures rate of nuclear decay.
 
 </details>
 
@@ -32183,7 +32183,7 @@ SI unit of absorbed dose is -
 
 <details><summary>Answer</summary>
 
-**C. Gray** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gray** — **C. Gray** — Gray (Gy) = 1 joule/kg is the SI unit of absorbed dose (energy deposited per unit mass); old unit rad (1 Gy = 100 rad); Sievert measures equivalent dose.
 
 </details>
 
@@ -32201,7 +32201,7 @@ Stenver's view is used for -
 
 <details><summary>Answer</summary>
 
-**C. Internal auditory canal** — Source: Medicoholic 2016 PYQ compilation.
+**C. Internal auditory canal** — **C. Internal auditory canal** — Stenver's view (postero-anterior 45° oblique projection of skull) demonstrates the internal auditory canal, petrous temporal bone, and mastoid; used in acoustic neuroma evaluation.
 
 </details>
 
@@ -32219,7 +32219,7 @@ Acute myocarditis schintigraphy is done with -
 
 <details><summary>Answer</summary>
 
-**C. Gallium** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gallium** — **C. Gallium** — Gallium-67 citrate accumulates in inflammatory cells and is used for diagnosing myocarditis, sarcoidosis, and lymphoma; binds transferrin receptors on activated leukocytes.
 
 </details>
 
@@ -32237,7 +32237,7 @@ Safe light in radiographic dark room is ideally should be of following color -
 
 <details><summary>Answer</summary>
 
-**A. Red** — Source: Medicoholic 2016 PYQ compilation.
+**A. Red** — **A. Red** — Red safelight (Wratten filter) emits long-wavelength light (>600 nm) to which silver bromide emulsions in X-ray film are insensitive, preventing fogging during darkroom processing.
 
 </details>
 
@@ -32255,7 +32255,7 @@ Commonly used type of radiation in radiotherapy is:
 
 <details><summary>Answer</summary>
 
-**C. Gamma rays** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gamma rays** — **C. Gamma rays** — Gamma rays from Cobalt-60 teletherapy and high-energy photons from linear accelerators are most commonly used in external beam radiotherapy; deeper penetration than alpha/beta particles.
 
 </details>
 
@@ -32273,7 +32273,7 @@ The photosensitive material used in X- rays films consist of:
 
 <details><summary>Answer</summary>
 
-**B. Silver bromide** — Source: Medicoholic 2016 PYQ compilation.
+**B. Silver bromide** — **B. Silver bromide** — X-ray film emulsion contains silver halide crystals (predominantly silver bromide with small silver iodide) suspended in gelatin; sensitised by X-rays/light to form latent image, developed to metallic silver.
 
 </details>
 
@@ -32291,7 +32291,7 @@ A 40 year old married male thinks that he is multitalented and is always overcon
 
 <details><summary>Answer</summary>
 
-**C. Paranoid personality disorder** — Source: Medicoholic 2016 PYQ compilation.
+**C. Paranoid personality disorder** — **C. Paranoid personality disorder** — Pervasive distrust, suspiciousness, refusal to accept advice, and grandiose self-perception characterise paranoid personality disorder (Cluster A); patient interprets benign actions as hostile.
 
 </details>
 
@@ -32309,7 +32309,7 @@ Characteristic of histrionic personality disorder is?
 
 <details><summary>Answer</summary>
 
-**B. Attention - seeking behavior** — Source: Medicoholic 2016 PYQ compilation.
+**B. Attention - seeking behavior** — **B. Attention - seeking behavior** — Histrionic personality disorder (Cluster B) features excessive emotionality, attention-seeking, theatrical/seductive behaviour, and shallow rapidly shifting emotions (DSM-5).
 
 </details>
 
@@ -32327,7 +32327,7 @@ Risk factor for suicide is?
 
 <details><summary>Answer</summary>
 
-**B. Drug abuse** — Source: Medicoholic 2016 PYQ compilation.
+**B. Drug abuse** — **B. Drug abuse** — Substance abuse increases suicide risk 6-fold by impulsivity, depression, and intoxication; SAD PERSONS scale: male sex, prior attempts, alcohol/drugs, depression, social isolation are major risk factors.
 
 </details>
 
@@ -32345,7 +32345,7 @@ Functional somatic disorder is?
 
 <details><summary>Answer</summary>
 
-**B. Chronic fatigue syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**B. Chronic fatigue syndrome** — **B. Chronic fatigue syndrome** — Chronic fatigue syndrome (myalgic encephalomyelitis) is a functional somatic syndrome with unexplained fatigue >6 months; overlaps with fibromyalgia and IBS; managed with CBT and graded exercise.
 
 </details>
 
@@ -32363,7 +32363,7 @@ DHAT syndrome is?
 
 <details><summary>Answer</summary>
 
-**B. Passage of semen in urine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Passage of semen in urine** — **B. Passage of semen in urine** — Dhat syndrome is a South Asian culture-bound illness characterised by anxiety, fatigue, and somatic complaints attributed to perceived loss of semen in urine; treated with SSRIs and CBT.
 
 </details>
 
@@ -32381,7 +32381,7 @@ Suicide rate in India is?
 
 <details><summary>Answer</summary>
 
-**A. 10.5 /100,000** — Source: Medicoholic 2016 PYQ compilation.
+**A. 10.5 /100,000** — **A. 10.5 /100,000** — India's suicide rate is approximately 10.5-12 per 100,000 (NCRB data); higher in southern states, students, farmers, and young adults; hanging and poisoning are commonest methods.
 
 </details>
 
@@ -32399,7 +32399,7 @@ Which of the following is not a culture bound syndrome?
 
 <details><summary>Answer</summary>
 
-**D. Von-Gogh** — Source: Medicoholic 2016 PYQ compilation.
+**D. Von-Gogh** — **D. Von-Gogh** — Van Gogh syndrome (auto-mutilation, ear amputation) is not a culture-bound syndrome; Amok (Malaysia), Latah (SE Asia), and Dhat (India) are recognised culture-bound syndromes in DSM.
 
 </details>
 
@@ -32417,7 +32417,7 @@ Scatologia is?
 
 <details><summary>Answer</summary>
 
-**C. Paraphilia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Paraphilia** — **C. Paraphilia** — Telephone scatologia is a paraphilic disorder involving sexual arousal from making obscene phone calls to non-consenting persons; paraphilias also include voyeurism, exhibitionism, and frotteurism.
 
 </details>
 
@@ -32435,7 +32435,7 @@ Loading dose of diazepam for alcohol withdrawal is?
 
 <details><summary>Answer</summary>
 
-**D. 20mg** — Source: Medicoholic 2016 PYQ compilation.
+**D. 20mg** — **D. 20mg** — Diazepam 20 mg orally every 1-2 hours until symptom control (CIWA score <10) is standard loading regimen for alcohol withdrawal; long half-life provides self-tapering benzodiazepine cover.
 
 </details>
 
@@ -32453,7 +32453,7 @@ Which of the following is not a side effect of quetiapine?
 
 <details><summary>Answer</summary>
 
-**B. Hair loss** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hair loss** — **B. Hair loss** — Quetiapine (atypical antipsychotic) causes sedation, dry mouth, weight gain, dyspepsia, postural hypotension, and QT prolongation; alopecia is not a recognised side effect.
 
 </details>
 
@@ -32471,7 +32471,7 @@ Other 28 children developed chickenpox within next 2 week what is the SAR of chi
 
 <details><summary>Answer</summary>
 
-**C. 80%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 80%** — **C. 80%** — Secondary attack rate of varicella among susceptible household contacts is approximately 80-90%, reflecting its high contagiousness via respiratory droplets and direct contact with vesicle fluid.
 
 </details>
 
@@ -32870,7 +32870,7 @@ GARDASIL vaccine is for -
 
 <details><summary>Answer</summary>
 
-**C. HPV 6,11,16,18** — Source: Medicoholic 2016 PYQ compilation.
+**C. HPV 6,11,16,18** — **C. HPV 6,11,16,18** — Gardasil is the quadrivalent HPV vaccine covering oncogenic types 16, 18 (cervical/anal cancer) and non-oncogenic types 6, 11 (genital warts); Gardasil-9 adds 5 more high-risk strains.
 
 </details>
 
@@ -32888,7 +32888,7 @@ Raloxifene decreases the risk of which cancer?
 
 <details><summary>Answer</summary>
 
-**A. Breast** — Source: Medicoholic 2016 PYQ compilation.
+**A. Breast** — **A. Breast** — Raloxifene is a SERM that acts as estrogen antagonist in breast tissue (reducing ER-positive breast cancer) and agonist in bone (osteoporosis treatment); does not stimulate endometrium unlike tamoxifen.
 
 </details>
 
@@ -32906,7 +32906,7 @@ Least failure rate ?
 
 <details><summary>Answer</summary>
 
-**B. MIRENA** — Source: Medicoholic 2016 PYQ compilation.
+**B. MIRENA** — **B. MIRENA** — Mirena (levonorgestrel IUS) has the lowest contraceptive failure rate (0.1-0.2%/year) due to long-acting reversible nature; releases 20 mcg LNG/day for 5-8 years, also treats menorrhagia.
 
 </details>
 
@@ -32924,7 +32924,7 @@ Nuva ring contains ?
 
 <details><summary>Answer</summary>
 
-**A. EE+ etonogestrel** — Source: Medicoholic 2016 PYQ compilation.
+**A. EE+ etonogestrel** — **A. EE + etonogestrel** — NuvaRing is a vaginal contraceptive ring releasing ethinyl estradiol (15 mcg/day) and etonogestrel (120 mcg/day) for 3 weeks; convenient combined hormonal contraception.
 
 </details>
 
@@ -32942,7 +32942,7 @@ Norgestimate in OC pills has the following advantage ?
 
 <details><summary>Answer</summary>
 
-**C. Reduces acne and hirsutism** — Source: Medicoholic 2016 PYQ compilation.
+**C. Reduces acne and hirsutism** — **C. Reduces acne and hirsutism** — Norgestimate is a third-generation progestin with low androgenic activity; used in combined OCPs for treating acne, hirsutism, and PCOS-related hyperandrogenism.
 
 </details>
 
@@ -32960,7 +32960,7 @@ Which of the following is not an ideal candidate for IUCD insertion ?
 
 <details><summary>Answer</summary>
 
-**C. Acute PID** — Source: Medicoholic 2016 PYQ compilation.
+**C. Acute PID** — **C. Acute PID** — Acute pelvic inflammatory disease is an absolute contraindication to IUCD insertion (risk of worsening infection); treat PID first; previous LSCS and lactation are not contraindications.
 
 </details>
 
@@ -32978,7 +32978,7 @@ Outcomes of occipito posterior position?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All the above** — Occipitoposterior position may resolve by long anterior rotation (face-to-pubis delivery), arrest as deep transverse arrest, or persistent OP with prolonged labour; instrumental delivery often needed.
 
 </details>
 
@@ -32996,7 +32996,7 @@ RMP can perform MTP in first trimester if he has assisted in MTPs -
 
 <details><summary>Answer</summary>
 
-**C. 25** — Source: Medicoholic 2016 PYQ compilation.
+**C. 25** — **C. 25** — Under MTP Act 1971/2021, a registered medical practitioner can perform first-trimester MTP after assisting in at least 25 MTP cases under supervision at a recognised institution.
 
 </details>
 
@@ -33014,7 +33014,7 @@ Inner cell mass differentiates into ?
 
 <details><summary>Answer</summary>
 
-**C. Embryo** — Source: Medicoholic 2016 PYQ compilation.
+**C. Embryo** — **C. Embryo** — Inner cell mass (embryoblast) of blastocyst differentiates into the embryo proper (epiblast and hypoblast); trophoblast/trophectoderm forms placenta and chorion.
 
 </details>
 
@@ -33032,7 +33032,7 @@ Embryo is called "fetus" after how many weeks post fertilization/conception ?
 
 <details><summary>Answer</summary>
 
-**B. 8** — Source: Medicoholic 2016 PYQ compilation.
+**B. 8** — **B. 8** — The conceptus is called an embryo until 8 weeks post-fertilisation (10 weeks of gestation by LMP), after which all major organ systems are formed and it is termed a fetus.
 
 </details>
 
@@ -33050,7 +33050,7 @@ Endometrial biopsy to detect ovulation is done on which day of the menstual cycl
 
 <details><summary>Answer</summary>
 
-**C. Day 21-23** — Source: Medicoholic 2016 PYQ compilation.
+**C. Day 21-23** — **C. Day 21-23** — Mid-luteal phase endometrial biopsy (day 21-23) shows secretory endometrium with sub-nuclear glycogen vacuoles confirming ovulation; alternative is mid-luteal serum progesterone >5 ng/mL.
 
 </details>
 
@@ -33068,7 +33068,7 @@ Godell's sign is ?
 
 <details><summary>Answer</summary>
 
-**B. Softening of the cervix** — Source: Medicoholic 2016 PYQ compilation.
+**B. Softening of the cervix** — **B. Softening of the cervix** — Goodell's sign is softening of the cervix at 4-6 weeks of pregnancy due to increased vascularity and edema; presumptive sign of pregnancy alongside Hegar's and Chadwick's signs.
 
 </details>
 
@@ -33086,7 +33086,7 @@ In fetus, insulin production begin at weeks of gestation -
 
 <details><summary>Answer</summary>
 
-**B. 8-12** — Source: Medicoholic 2016 PYQ compilation.
+**B. 8-12** — **B. 8-12** — Fetal pancreatic beta cells begin producing insulin between 8-12 weeks of gestation; maternal insulin does not cross the placenta, but glucose does, driving fetal hyperinsulinemia in maternal diabetes.
 
 </details>
 
@@ -33104,7 +33104,7 @@ Limb bud appear at what weeks of gestation?
 
 <details><summary>Answer</summary>
 
-**B. 4** — Source: Medicoholic 2016 PYQ compilation.
+**B. 4** — **B. 4** — Upper limb buds appear at 4 weeks gestation (day 26) as lateral plate mesoderm thickenings; lower limb buds follow at 28 days; teratogen exposure during weeks 4-8 causes major limb malformations.
 
 </details>
 
@@ -33122,7 +33122,7 @@ Features of non severe/mild pre ecampsia are all ecxept​ -
 
 <details><summary>Answer</summary>
 
-**C. Mild IUGR** — Source: Medicoholic 2016 PYQ compilation.
+**C. Mild IUGR** — **C. Mild IUGR** — Mild/non-severe pre-eclampsia features BP 140/90-160/110 mmHg with proteinuria but no premonitory symptoms or IUGR; IUGR indicates severe pre-eclampsia with placental insufficiency.
 
 </details>
 
@@ -33140,7 +33140,7 @@ FERNING is due to ?
 
 <details><summary>Answer</summary>
 
-**A. Estogen & sodium chloride** — Source: Medicoholic 2016 PYQ compilation.
+**A. Estogen & sodium chloride** — **A. Estrogen & sodium chloride** — Cervical mucus shows fern-pattern crystallisation under estrogen influence due to high NaCl content (mid-cycle); progesterone abolishes ferning in luteal phase and pregnancy.
 
 </details>
 
@@ -33158,7 +33158,7 @@ Abstinence period before semen analysis is ?
 
 <details><summary>Answer</summary>
 
-**B. 3-5 days** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3-5 days** — **B. 3-5 days** — WHO recommends 2-7 days (ideally 3-5 days) of sexual abstinence before semen analysis to standardise volume, concentration, and motility parameters; shorter/longer periods skew results.
 
 </details>
 
@@ -33176,7 +33176,7 @@ Engaging diameter in face presentation is -
 
 <details><summary>Answer</summary>
 
-**C. Submentobregmatic** — Source: Medicoholic 2016 PYQ compilation.
+**C. Submentobregmatic** — **C. Submentobregmatic** — In fully extended face presentation, the submentobregmatic diameter (9.5 cm) engages; mento-anterior position allows vaginal delivery, mento-posterior requires caesarean section.
 
 </details>
 
@@ -33194,7 +33194,7 @@ Least likely to cause dysmenorrhea -
 
 <details><summary>Answer</summary>
 
-**D. Cervical polyp** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cervical polyp** — **D. Cervical polyp** — Cervical polyps typically cause intermenstrual or post-coital bleeding rather than dysmenorrhea; endometriosis, adenomyosis, and uterine polyps cause secondary dysmenorrhea via prostaglandin/distension.
 
 </details>
 
@@ -33212,7 +33212,7 @@ LH surge is due to ?
 
 <details><summary>Answer</summary>
 
-**B. Estrogen** — Source: Medicoholic 2016 PYQ compilation.
+**B. Estrogen** — **B. Estrogen** — Sustained high estradiol (>200 pg/mL for 48 hours) from dominant follicle switches hypothalamic feedback from negative to positive, triggering mid-cycle LH surge and ovulation 36 hours later.
 
 </details>
 
@@ -33230,7 +33230,7 @@ Menopause is defined as ?
 
 <details><summary>Answer</summary>
 
-**B. Cessation of menses for 1 year** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cessation of menses for 1 year** — **B. Cessation of menses for 1 year** — WHO defines menopause as 12 consecutive months of amenorrhea due to ovarian follicular depletion; average age 51 years; confirmed by elevated FSH (>40 IU/L).
 
 </details>
 
@@ -33248,7 +33248,7 @@ Propofol shows following effect on EEG?
 
 <details><summary>Answer</summary>
 
-**B. Depression** — Source: Medicoholic 2016 PYQ compilation.
+**B. Depression** — **B. Depression** — Propofol causes dose-dependent EEG depression progressing from alpha/beta activity to burst suppression and isoelectric pattern; used for status epilepticus and refractory seizure control.
 
 </details>
 
@@ -33266,7 +33266,7 @@ Alcohol withdrawal is not associated with?
 
 <details><summary>Answer</summary>
 
-**B. Amnesia** — Source: Medicoholic 2016 PYQ compilation.
+**B. Amnesia** — **B. Amnesia** — Alcohol withdrawal features tremors, seizures, hallucinations, delirium tremens, and autonomic hyperactivity; amnesia is feature of intoxication (blackouts) or Wernicke-Korsakoff syndrome, not withdrawal.
 
 </details>
 
@@ -33284,7 +33284,7 @@ Personality type seen in schizophrenia is?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Schizoid (premorbid), paranoid, and schizotypal personality traits are commonly observed in schizophrenia spectrum; share genetic vulnerability and neurodevelopmental origins.
 
 </details>
 
@@ -33302,7 +33302,7 @@ Irresistible urge to drink alcohol is called?
 
 <details><summary>Answer</summary>
 
-**C. Dipsomania** — Source: Medicoholic 2016 PYQ compilation.
+**C. Dipsomania** — **C. Dipsomania** — Dipsomania is an episodic, irresistible craving for alcohol consumption; kleptomania (stealing), pyromania (fire-setting), and trichotillomania (hair-pulling) are other impulse control disorders.
 
 </details>
 
@@ -33320,7 +33320,7 @@ Generalized anxiety disorder is diagnosed when anxiety and worry continues for a
 
 <details><summary>Answer</summary>
 
-**C. 6 months** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6 months** — **C. 6 months** — DSM-5 requires excessive anxiety and worry on most days for at least 6 months with ≥3 associated symptoms (restlessness, fatigue, concentration difficulty, irritability, muscle tension, sleep disturbance).
 
 </details>
 
@@ -33338,7 +33338,7 @@ Most important receptors involved with schizophrenia are?
 
 <details><summary>Answer</summary>
 
-**C. DZd** — Source: Medicoholic 2016 PYQ compilation.
+**C. DZd** — **C. D2** — Mesolimbic dopamine D2 receptor hyperactivity underlies positive symptoms of schizophrenia (delusions, hallucinations); all antipsychotics are D2 blockers; 5-HT2A blockade adds efficacy for negative symptoms.
 
 </details>
 
@@ -33503,7 +33503,7 @@ Regarding adenoids true is/are:
 
 <details><summary>Answer</summary>
 
-**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and b** — **D. a and b** — Adenoid hypertrophy causes failure to thrive (feeding/sleep disturbance) and adenoid facies with mouth breathing; lateral soft-tissue X-ray nasopharynx (not CT) assesses size.
 
 </details>
 
@@ -33521,7 +33521,7 @@ Which of the following is/ are the imaging criteria for unresectable carcinoma o
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Pancreatic cancer is unresectable with distant metastasis (vertebrae/liver), invasion of adjacent organs (duodenum), or peritoneal/omental disease (irregular omental fat); SMA/celiac encasement also unresectable.
 
 </details>
 
@@ -33539,7 +33539,7 @@ Most accurate method for the diagnosis Gastroesophageal Reflux Disease (GERD) is
 
 <details><summary>Answer</summary>
 
-**C. 24-hour pH recording and electrical impedance measurement** — Source: Medicoholic 2016 PYQ compilation.
+**C. 24-hour pH recording and electrical impedance measurement** — **C. 24-hour pH recording and electrical impedance measurement** — 24-hour ambulatory pH-impedance monitoring is the gold standard for GERD diagnosis; quantifies acid/non-acid reflux episodes and symptom correlation. Endoscopy detects complications only.
 
 </details>
 
@@ -33557,7 +33557,7 @@ Staging of rectal carcinoma is best done by -
 
 <details><summary>Answer</summary>
 
-**B. MRI** — Source: Medicoholic 2016 PYQ compilation.
+**B. MRI** — **B. MRI** — Pelvic MRI is investigation of choice for rectal cancer staging: assesses depth of mural invasion (T-stage), circumferential resection margin, mesorectal nodes, and extramural vascular invasion.
 
 </details>
 
@@ -33575,7 +33575,7 @@ Neuroimaging features of neurocysticercosis are considered as criteria for defin
 
 <details><summary>Answer</summary>
 
-**A. Major** — Source: Medicoholic 2016 PYQ compilation.
+**A. Major** — **A. Major** — Del Brutto's revised diagnostic criteria classify cystic lesions with scolex on CT/MRI as 'absolute criteria'; other imaging features (calcified cysts, enhancing lesions) are 'major criteria'.
 
 </details>
 
@@ -33593,7 +33593,7 @@ Keyhole sign on ultrasound is seen in -
 
 <details><summary>Answer</summary>
 
-**D. Posterior urethral valves** — Source: Medicoholic 2016 PYQ compilation.
+**D. Posterior urethral valves** — **D. Posterior urethral valves** — Antenatal ultrasound 'keyhole sign' = dilated posterior urethra continuous with distended bladder, due to PUV obstruction in males; associated bilateral hydroureteronephrosis and oligohydramnios.
 
 </details>
 
@@ -33611,7 +33611,7 @@ Minimum radiation dose which may lead to oligospermia is -
 
 <details><summary>Answer</summary>
 
-**A. <1 Gy** — Source: Medicoholic 2016 PYQ compilation.
+**A. <1 Gy** — **A. <1 Gy** — Spermatogenic cells are highly radiosensitive; oligospermia occurs at doses as low as 0.15 Gy, with temporary azoospermia at 0.5 Gy and permanent sterility >6 Gy.
 
 </details>
 
@@ -33629,7 +33629,7 @@ Non - ionizing radiation among the following is -
 
 <details><summary>Answer</summary>
 
-**A. MRI** — Source: Medicoholic 2016 PYQ compilation.
+**A. MRI** — **A. MRI** — MRI uses radiofrequency waves and magnetic fields (non-ionising); CT, X-ray, and PET use ionising radiation (X-rays/gamma rays) capable of damaging DNA.
 
 </details>
 

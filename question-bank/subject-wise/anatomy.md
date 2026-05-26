@@ -11588,7 +11588,7 @@ When Va / Q is infinity
 
 <details><summary>Answer</summary>
 
-**B. No exchange of O2 & CO2**
+**B. No exchange of O2 & CO2** — **B. No exchange of O2 & CO2** — V/Q = infinity means ventilation without perfusion (alveolar dead space, e.g., pulmonary embolism); no gas exchange occurs and alveolar gas resembles inspired air.
 
 </details>
 

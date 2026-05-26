@@ -5973,7 +5973,7 @@ Enzyme involved in the transfer of hydrogen ion is
 
 <details><summary>Answer</summary>
 
-**A. Hydratase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hydratase** — **A. Hydratase** — As per the key, hydratases (lyases) add/remove water across double bonds, effectively transferring H+/OH-; dehydrogenases transfer hydride (H-) with electrons. Best fits proton-only transfer.
 
 </details>
 
@@ -5993,7 +5993,7 @@ Sequence of complexes in the electron transport chain is -
 
 <details><summary>Answer</summary>
 
-**A. NADH dehydrogenase → Q → Cytochrome bc1 →** — Source: Medicoholic 2016 PYQ compilation.
+**A. NADH dehydrogenase → Q → Cytochrome bc1 →** — **A. NADH dehydrogenase → Q → Cytochrome bc1 →** — Mitochondrial ETC flow: Complex I (NADH dehydrogenase) → ubiquinone (Q) → Complex III (cytochrome bc1) → cytochrome c → Complex IV (aa3) → O2.
 
 </details>
 
@@ -6013,7 +6013,7 @@ Regarding energy production by the electron transport chain, which is true?
 
 <details><summary>Answer</summary>
 
-**D. The complexes are arranged in a decreasing order of** — Source: Medicoholic 2016 PYQ compilation.
+**D. The complexes are arranged in a decreasing order of** — **D. The complexes are arranged in a decreasing order of** — ETC complexes arranged in increasing order of redox potential (decreasing free energy); electrons flow from low to high E0', releasing energy used to pump protons.
 
 </details>
 
@@ -6033,7 +6033,7 @@ Electron transport chain all are true except
 
 <details><summary>Answer</summary>
 
-**D. 7 Hydrogen ions are translocated when FADH2 electrons** — Source: Medicoholic 2016 PYQ compilation.
+**D. 7 Hydrogen ions are translocated when FADH2 electrons** — **D. 7 Hydrogen ions are translocated when FADH2 electrons** — FADH2 enters at Complex II (bypassing I), so only 6 H+ are pumped (4 by III, 2 by IV); NADH yields 10 H+ translocated total.
 
 </details>
 
@@ -6053,7 +6053,7 @@ Atractiloside act as ?
 
 <details><summary>Answer</summary>
 
-**B. Inhibitor of oxidative phosphorylation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inhibitor of oxidative phosphorylation** — **B. Inhibitor of oxidative phosphorylation** — Atractyloside inhibits the ADP/ATP translocase (adenine nucleotide transporter) on the inner mitochondrial membrane, blocking ADP entry and ATP export, thereby halting oxidative phosphorylation.
 
 </details>
 
@@ -6073,7 +6073,7 @@ Which of the following is the respiratory centre of cell?
 
 <details><summary>Answer</summary>
 
-**A. Mitochondria** — Source: Medicoholic 2016 PYQ compilation.
+**A. Mitochondria** — **A. Mitochondria** — Mitochondria are the 'powerhouse/respiratory centre' of the cell; they house the TCA cycle, electron transport chain, and oxidative phosphorylation generating ATP via cellular respiration.
 
 </details>
 
@@ -6093,7 +6093,7 @@ Cellulose is biochemically -
 
 <details><summary>Answer</summary>
 
-**A. β (1,4) L glucose** — Source: Medicoholic 2016 PYQ compilation.
+**A. β (1,4) L glucose** — **A. β (1,4) L glucose** — As per key; cellulose is a linear polysaccharide of β(1→4)-linked glucose units; humans lack cellulase enzyme so cannot digest cellulose (dietary fibre).
 
 </details>
 
@@ -6113,7 +6113,7 @@ D and L isomerism is -
 
 <details><summary>Answer</summary>
 
-**D. Enantiomerism** — Source: Medicoholic 2016 PYQ compilation.
+**D. Enantiomerism** — **D. Enantiomerism** — D and L isomers are non-superimposable mirror images differing at the chiral reference carbon (penultimate carbon); they are enantiomers, a form of optical isomerism.
 
 </details>
 
@@ -6133,7 +6133,7 @@ All of the following are converted to cr-ketoglutarate on catabolism except-
 
 <details><summary>Answer</summary>
 
-**D. Glycine** — Source: Medicoholic 2016 PYQ compilation.
+**D. Glycine** — **D. Glycine** — Glutamate, histidine, proline, arginine, and glutamine all funnel into α-ketoglutarate; glycine is catabolised to pyruvate/serine and enters as acetyl-CoA, not α-KG.
 
 </details>
 
@@ -6153,7 +6153,7 @@ Glucogenic aminoacids give rise to all of the following intermediates of citric 
 
 <details><summary>Answer</summary>
 
-**A. Isocitrate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Isocitrate** — **A. Isocitrate** — Glucogenic amino acids enter TCA at α-ketoglutarate, succinyl-CoA, fumarate, and oxaloacetate; isocitrate is not a direct entry point for amino acid catabolism.
 
 </details>
 
@@ -6322,7 +6322,7 @@ When Va / Q is infinity?
 
 <details><summary>Answer</summary>
 
-**B. No exchange of O2 & CO2** — Source: NEET-PG 2017 medicoholic.com
+**B. No exchange of O2 & CO2** — **B. No exchange of O2 & CO2** — V/Q = infinity means ventilation without perfusion (alveolar dead space, e.g., pulmonary embolism); no gas exchange occurs and alveolar gas resembles inspired air.
 
 </details>
 

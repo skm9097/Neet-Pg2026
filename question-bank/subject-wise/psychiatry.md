@@ -1791,7 +1791,7 @@ GARDASIL vaccine is for -
 
 <details><summary>Answer</summary>
 
-**C. HPV 6,11,16,18** — Source: Medicoholic 2016 PYQ compilation.
+**C. HPV 6,11,16,18** — **C. HPV 6,11,16,18** — Gardasil is the quadrivalent HPV vaccine covering oncogenic types 16, 18 (cervical/anal cancer) and non-oncogenic types 6, 11 (genital warts); Gardasil-9 adds 5 more high-risk strains.
 
 </details>
 
@@ -1811,7 +1811,7 @@ Raloxifene decreases the risk of which cancer?
 
 <details><summary>Answer</summary>
 
-**A. Breast** — Source: Medicoholic 2016 PYQ compilation.
+**A. Breast** — **A. Breast** — Raloxifene is a SERM that acts as estrogen antagonist in breast tissue (reducing ER-positive breast cancer) and agonist in bone (osteoporosis treatment); does not stimulate endometrium unlike tamoxifen.
 
 </details>
 
@@ -1831,7 +1831,7 @@ Least failure rate ?
 
 <details><summary>Answer</summary>
 
-**B. MIRENA** — Source: Medicoholic 2016 PYQ compilation.
+**B. MIRENA** — **B. MIRENA** — Mirena (levonorgestrel IUS) has the lowest contraceptive failure rate (0.1-0.2%/year) due to long-acting reversible nature; releases 20 mcg LNG/day for 5-8 years, also treats menorrhagia.
 
 </details>
 
@@ -1851,7 +1851,7 @@ Nuva ring contains ?
 
 <details><summary>Answer</summary>
 
-**A. EE+ etonogestrel** — Source: Medicoholic 2016 PYQ compilation.
+**A. EE+ etonogestrel** — **A. EE + etonogestrel** — NuvaRing is a vaginal contraceptive ring releasing ethinyl estradiol (15 mcg/day) and etonogestrel (120 mcg/day) for 3 weeks; convenient combined hormonal contraception.
 
 </details>
 
@@ -1871,7 +1871,7 @@ Norgestimate in OC pills has the following advantage ?
 
 <details><summary>Answer</summary>
 
-**C. Reduces acne and hirsutism** — Source: Medicoholic 2016 PYQ compilation.
+**C. Reduces acne and hirsutism** — **C. Reduces acne and hirsutism** — Norgestimate is a third-generation progestin with low androgenic activity; used in combined OCPs for treating acne, hirsutism, and PCOS-related hyperandrogenism.
 
 </details>
 
@@ -1891,7 +1891,7 @@ Which of the following is not an ideal candidate for IUCD insertion ?
 
 <details><summary>Answer</summary>
 
-**C. Acute PID** — Source: Medicoholic 2016 PYQ compilation.
+**C. Acute PID** — **C. Acute PID** — Acute pelvic inflammatory disease is an absolute contraindication to IUCD insertion (risk of worsening infection); treat PID first; previous LSCS and lactation are not contraindications.
 
 </details>
 
@@ -1911,7 +1911,7 @@ Outcomes of occipito posterior position?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All the above** — Occipitoposterior position may resolve by long anterior rotation (face-to-pubis delivery), arrest as deep transverse arrest, or persistent OP with prolonged labour; instrumental delivery often needed.
 
 </details>
 
@@ -1931,7 +1931,7 @@ RMP can perform MTP in first trimester if he has assisted in MTPs -
 
 <details><summary>Answer</summary>
 
-**C. 25** — Source: Medicoholic 2016 PYQ compilation.
+**C. 25** — **C. 25** — Under MTP Act 1971/2021, a registered medical practitioner can perform first-trimester MTP after assisting in at least 25 MTP cases under supervision at a recognised institution.
 
 </details>
 
@@ -1951,7 +1951,7 @@ Inner cell mass differentiates into ?
 
 <details><summary>Answer</summary>
 
-**C. Embryo** — Source: Medicoholic 2016 PYQ compilation.
+**C. Embryo** — **C. Embryo** — Inner cell mass (embryoblast) of blastocyst differentiates into the embryo proper (epiblast and hypoblast); trophoblast/trophectoderm forms placenta and chorion.
 
 </details>
 
@@ -1971,7 +1971,7 @@ Embryo is called "fetus" after how many weeks post fertilization/conception ?
 
 <details><summary>Answer</summary>
 
-**B. 8** — Source: Medicoholic 2016 PYQ compilation.
+**B. 8** — **B. 8** — The conceptus is called an embryo until 8 weeks post-fertilisation (10 weeks of gestation by LMP), after which all major organ systems are formed and it is termed a fetus.
 
 </details>
 
@@ -1991,7 +1991,7 @@ Endometrial biopsy to detect ovulation is done on which day of the menstual cycl
 
 <details><summary>Answer</summary>
 
-**C. Day 21-23** — Source: Medicoholic 2016 PYQ compilation.
+**C. Day 21-23** — **C. Day 21-23** — Mid-luteal phase endometrial biopsy (day 21-23) shows secretory endometrium with sub-nuclear glycogen vacuoles confirming ovulation; alternative is mid-luteal serum progesterone >5 ng/mL.
 
 </details>
 
@@ -2011,7 +2011,7 @@ Godell's sign is ?
 
 <details><summary>Answer</summary>
 
-**B. Softening of the cervix** — Source: Medicoholic 2016 PYQ compilation.
+**B. Softening of the cervix** — **B. Softening of the cervix** — Goodell's sign is softening of the cervix at 4-6 weeks of pregnancy due to increased vascularity and edema; presumptive sign of pregnancy alongside Hegar's and Chadwick's signs.
 
 </details>
 
@@ -2031,7 +2031,7 @@ In fetus, insulin production begin at weeks of gestation -
 
 <details><summary>Answer</summary>
 
-**B. 8-12** — Source: Medicoholic 2016 PYQ compilation.
+**B. 8-12** — **B. 8-12** — Fetal pancreatic beta cells begin producing insulin between 8-12 weeks of gestation; maternal insulin does not cross the placenta, but glucose does, driving fetal hyperinsulinemia in maternal diabetes.
 
 </details>
 
@@ -2051,7 +2051,7 @@ Limb bud appear at what weeks of gestation?
 
 <details><summary>Answer</summary>
 
-**B. 4** — Source: Medicoholic 2016 PYQ compilation.
+**B. 4** — **B. 4** — Upper limb buds appear at 4 weeks gestation (day 26) as lateral plate mesoderm thickenings; lower limb buds follow at 28 days; teratogen exposure during weeks 4-8 causes major limb malformations.
 
 </details>
 
@@ -2071,7 +2071,7 @@ Features of non severe/mild pre ecampsia are all ecxept​ -
 
 <details><summary>Answer</summary>
 
-**C. Mild IUGR** — Source: Medicoholic 2016 PYQ compilation.
+**C. Mild IUGR** — **C. Mild IUGR** — Mild/non-severe pre-eclampsia features BP 140/90-160/110 mmHg with proteinuria but no premonitory symptoms or IUGR; IUGR indicates severe pre-eclampsia with placental insufficiency.
 
 </details>
 
@@ -2091,7 +2091,7 @@ FERNING is due to ?
 
 <details><summary>Answer</summary>
 
-**A. Estogen & sodium chloride** — Source: Medicoholic 2016 PYQ compilation.
+**A. Estogen & sodium chloride** — **A. Estrogen & sodium chloride** — Cervical mucus shows fern-pattern crystallisation under estrogen influence due to high NaCl content (mid-cycle); progesterone abolishes ferning in luteal phase and pregnancy.
 
 </details>
 
@@ -2111,7 +2111,7 @@ Abstinence period before semen analysis is ?
 
 <details><summary>Answer</summary>
 
-**B. 3-5 days** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3-5 days** — **B. 3-5 days** — WHO recommends 2-7 days (ideally 3-5 days) of sexual abstinence before semen analysis to standardise volume, concentration, and motility parameters; shorter/longer periods skew results.
 
 </details>
 
@@ -2131,7 +2131,7 @@ Engaging diameter in face presentation is -
 
 <details><summary>Answer</summary>
 
-**C. Submentobregmatic** — Source: Medicoholic 2016 PYQ compilation.
+**C. Submentobregmatic** — **C. Submentobregmatic** — In fully extended face presentation, the submentobregmatic diameter (9.5 cm) engages; mento-anterior position allows vaginal delivery, mento-posterior requires caesarean section.
 
 </details>
 
@@ -2151,7 +2151,7 @@ Least likely to cause dysmenorrhea -
 
 <details><summary>Answer</summary>
 
-**D. Cervical polyp** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cervical polyp** — **D. Cervical polyp** — Cervical polyps typically cause intermenstrual or post-coital bleeding rather than dysmenorrhea; endometriosis, adenomyosis, and uterine polyps cause secondary dysmenorrhea via prostaglandin/distension.
 
 </details>
 
@@ -2171,7 +2171,7 @@ LH surge is due to ?
 
 <details><summary>Answer</summary>
 
-**B. Estrogen** — Source: Medicoholic 2016 PYQ compilation.
+**B. Estrogen** — **B. Estrogen** — Sustained high estradiol (>200 pg/mL for 48 hours) from dominant follicle switches hypothalamic feedback from negative to positive, triggering mid-cycle LH surge and ovulation 36 hours later.
 
 </details>
 
@@ -2191,7 +2191,7 @@ Menopause is defined as ?
 
 <details><summary>Answer</summary>
 
-**B. Cessation of menses for 1 year** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cessation of menses for 1 year** — **B. Cessation of menses for 1 year** — WHO defines menopause as 12 consecutive months of amenorrhea due to ovarian follicular depletion; average age 51 years; confirmed by elevated FSH (>40 IU/L).
 
 </details>
 
@@ -2211,7 +2211,7 @@ Propofol shows following effect on EEG?
 
 <details><summary>Answer</summary>
 
-**B. Depression** — Source: Medicoholic 2016 PYQ compilation.
+**B. Depression** — **B. Depression** — Propofol causes dose-dependent EEG depression progressing from alpha/beta activity to burst suppression and isoelectric pattern; used for status epilepticus and refractory seizure control.
 
 </details>
 
@@ -2231,7 +2231,7 @@ Alcohol withdrawal is not associated with?
 
 <details><summary>Answer</summary>
 
-**B. Amnesia** — Source: Medicoholic 2016 PYQ compilation.
+**B. Amnesia** — **B. Amnesia** — Alcohol withdrawal features tremors, seizures, hallucinations, delirium tremens, and autonomic hyperactivity; amnesia is feature of intoxication (blackouts) or Wernicke-Korsakoff syndrome, not withdrawal.
 
 </details>
 
@@ -2251,7 +2251,7 @@ Personality type seen in schizophrenia is?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Schizoid (premorbid), paranoid, and schizotypal personality traits are commonly observed in schizophrenia spectrum; share genetic vulnerability and neurodevelopmental origins.
 
 </details>
 
@@ -2271,7 +2271,7 @@ Irresistible urge to drink alcohol is called?
 
 <details><summary>Answer</summary>
 
-**C. Dipsomania** — Source: Medicoholic 2016 PYQ compilation.
+**C. Dipsomania** — **C. Dipsomania** — Dipsomania is an episodic, irresistible craving for alcohol consumption; kleptomania (stealing), pyromania (fire-setting), and trichotillomania (hair-pulling) are other impulse control disorders.
 
 </details>
 
@@ -2291,7 +2291,7 @@ Generalized anxiety disorder is diagnosed when anxiety and worry continues for a
 
 <details><summary>Answer</summary>
 
-**C. 6 months** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6 months** — **C. 6 months** — DSM-5 requires excessive anxiety and worry on most days for at least 6 months with ≥3 associated symptoms (restlessness, fatigue, concentration difficulty, irritability, muscle tension, sleep disturbance).
 
 </details>
 
@@ -2311,7 +2311,7 @@ Most important receptors involved with schizophrenia are?
 
 <details><summary>Answer</summary>
 
-**C. DZd** — Source: Medicoholic 2016 PYQ compilation.
+**C. DZd** — **C. D2** — Mesolimbic dopamine D2 receptor hyperactivity underlies positive symptoms of schizophrenia (delusions, hallucinations); all antipsychotics are D2 blockers; 5-HT2A blockade adds efficacy for negative symptoms.
 
 </details>
 

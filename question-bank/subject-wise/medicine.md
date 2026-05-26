@@ -6737,7 +6737,7 @@ When can one diagnose acute respiratory distress in a child
 
 <details><summary>Answer</summary>
 
-**D. All of the above**
+**D. All of the above** — **D. All of the above** — PALICC pediatric ARDS criteria require onset within 7 days of known clinical insult, respiratory failure not fully explained by cardiac failure/fluid overload, and exclusion of left ventricular dysfunction.
 
 </details>
 

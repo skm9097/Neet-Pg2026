@@ -6568,7 +6568,7 @@ When can one diagnose acute respiratory distress in a child ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: NEET-PG 2017 medicoholic.com
+**D. All of the above** — **D. All of the above** — PALICC pediatric ARDS criteria require onset within 7 days of known clinical insult, respiratory failure not fully explained by cardiac failure/fluid overload, and exclusion of left ventricular dysfunction.
 
 </details>
 
@@ -6586,7 +6586,7 @@ A 6-year-old boy experienced life threatening shock ,his CT scan showed large am
 
 <details><summary>Answer</summary>
 
-**C. Should be Done by single layer seromuscular lembert sutures** — Source: NEET-PG 2017 medicoholic.com
+**C. Should be Done by single layer seromuscular lembert sutures** — **C. Should be Done by single layer seromuscular lembert sutures** — Single-layer interrupted seromuscular Lembert (extramucosal) sutures cause less inversion, preserve blood supply, and have lower leak/stricture rates than double-layer continuous techniques in pediatric bowel anastomosis.
 
 </details>
 

@@ -642,7 +642,7 @@ The most appropriate circuit for ventilating a spontaneously breathing infant du
 
 <details><summary>Answer</summary>
 
-**A. jackson Rees modification of Ayre's T piece** — Source: Medicoholic 2015 PYQ compilation.
+**A. jackson Rees modification of Ayre's T piece** — **A. jackson Rees modification of Ayre's T piece** — Mapleson F (Jackson-Rees modification of Ayre's T-piece) is the preferred paediatric circuit: low resistance, no valves, light weight, minimal dead space; ideal for spontaneously breathing infants.
 
 </details>
 
@@ -660,7 +660,7 @@ Which one of the following agents sensitizes the myocardium to catecholamines -
 
 <details><summary>Answer</summary>
 
-**C. Halothane** — Source: Medicoholic 2015 PYQ compilation.
+**C. Halothane** — **C. Halothane** — Halothane sensitises myocardium to catecholamines, predisposing to ventricular arrhythmias; MAC 0.75%, also causes idiosyncratic 'halothane hepatitis' on repeat exposure. Isoflurane has minimal sensitisation.
 
 </details>
 
@@ -678,7 +678,7 @@ All of the following statements about neuromuscular blockage produced by succiny
 
 <details><summary>Answer</summary>
 
-**B. Fade on tetanic stimulation** — Source: Medicoholic 2015 PYQ compilation.
+**B. Fade on tetanic stimulation** — **B. Fade on tetanic stimulation** — Succinylcholine (Phase I depolarising block): no fade on TOF/tetanus, no post-tetanic facilitation, TOF ratio >0.4. Fade and PTF occur with non-depolarising blockers or Phase II block.
 
 </details>
 

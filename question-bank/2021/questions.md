@@ -2331,7 +2331,7 @@ HIV+ CD4 150, RR TB diagnosis — treatment regimen?
 
 <details><summary>Answer</summary>
 
-**D. BPaLM** — Source: DocTutorials NEET-PG 2021 recall.
+**D. BPaLM** — **D. BPaLM** — BPaLM (Bedaquiline + Pretomanid + Linezolid + Moxifloxacin) is the WHO-recommended 6-month oral regimen for rifampicin-resistant/MDR-TB; replaces previous 9–24 month injectable-containing regimens.
 
 </details>
 
@@ -2438,7 +2438,7 @@ Multiple crescentic abrasions, neck bruising, intact hyoid — cause?
 
 <details><summary>Answer</summary>
 
-**C. Throttling** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Throttling** — **C. Throttling** — Throttling (manual strangulation) leaves multiple crescentic nail abrasions and finger-tip bruising on neck; hyoid often intact in young, fractured in elderly. Ligature leaves a linear mark.
 
 </details>
 
@@ -2454,7 +2454,7 @@ POCSO Act — child age definition?
 
 <details><summary>Answer</summary>
 
-**C. All children under 18** — Source: DocTutorials NEET-PG 2021 recall.
+**C. All children under 18** — **C. All children under 18** — Protection of Children from Sexual Offences (POCSO) Act 2012 defines a child as any person below 18 years of age, regardless of sex; gender-neutral law.
 
 </details>
 
@@ -2470,7 +2470,7 @@ Garlic odor stomach, red-velvet mucosa, grey granular material — poison?
 
 <details><summary>Answer</summary>
 
-**B. Acute arsenic** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Acute arsenic** — **B. Acute arsenic** — Acute arsenic poisoning: garlicky breath/stomach, red-velvety gastric mucosa with petechiae, grey granular material (As2O3 powder); causes rice-water diarrhoea mimicking cholera.
 
 </details>
 
@@ -2959,7 +2959,7 @@ Population cardiovascular disease prevention — recommended cholesterol?
 
 <details><summary>Answer</summary>
 
-**A. 100mg/1000 kcal** — Source: DocTutorials NEET-PG 2021 recall.
+**A. 100mg/1000 kcal** — **A. 100mg/1000 kcal** — WHO/AHA population-level CVD prevention recommends dietary cholesterol intake <100 mg/1000 kcal (300 mg/day for 2000-kcal diet) to reduce coronary disease risk.
 
 </details>
 
@@ -2975,7 +2975,7 @@ Weekly Iron/Folic Acid girls 10-19 years — dose?
 
 <details><summary>Answer</summary>
 
-**C. 100mg Fe + 500mcg FA** — Source: DocTutorials NEET-PG 2021 recall.
+**C. 100mg Fe + 500mcg FA** — **C. 100mg Fe + 500mcg FA** — WIFS (Weekly Iron Folic Acid Supplementation) programme: adolescents 10–19 years receive 100 mg elemental iron + 500 µg folic acid weekly under Anaemia Mukt Bharat.
 
 </details>
 
@@ -2991,7 +2991,7 @@ Infection to maximum infectivity interval — term?
 
 <details><summary>Answer</summary>
 
-**C. Generation time** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Generation time** — **C. Generation time** — Generation time = interval from infection to maximum infectivity in the host. Incubation period = infection to symptom onset; serial interval = symptom onset between primary and secondary cases.
 
 </details>
 
@@ -3007,7 +3007,7 @@ Population 70 lakh, 30% slum — Urban PHCs required NUHM?
 
 <details><summary>Answer</summary>
 
-**B. 42** — Source: DocTutorials NEET-PG 2021 recall.
+**B. 42** — **B. 42** — NUHM norm: 1 Urban PHC per 50,000 slum/vulnerable population. 30% of 70 lakh = 21 lakh slum population; 2,100,000 ÷ 50,000 = 42 Urban PHCs required.
 
 </details>
 
@@ -3023,7 +3023,7 @@ De facto census counting based on?
 
 <details><summary>Answer</summary>
 
-**B. Enumeration date place** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Enumeration date place** — **B. Enumeration date place** — De facto census counts persons where they are physically present on the night of enumeration; de jure census counts persons at their usual place of residence.
 
 </details>
 
@@ -3039,7 +3039,7 @@ Hemoglobin comparison two independent groups — statistical test?
 
 <details><summary>Answer</summary>
 
-**B. Unpaired T-test** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Unpaired T-test** — **B. Unpaired T-test** — Comparison of mean haemoglobin (continuous, normally distributed) between two independent groups uses unpaired (independent-samples) t-test. Paired t-test is for related samples; ANOVA for >2 groups.
 
 </details>
 
@@ -3055,7 +3055,7 @@ Breast cancer screening 5-year survival↑, mortality unchanged — bias?
 
 <details><summary>Answer</summary>
 
-**C. Lead time bias** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Lead time bias** — **C. Lead time bias** — Lead-time bias = apparent increase in survival due to earlier detection without actually delaying death; mortality unchanged. Common pitfall in evaluating cancer screening programmes.
 
 </details>
 
@@ -3071,7 +3071,7 @@ Nalgonda technique materials?
 
 <details><summary>Answer</summary>
 
-**A. Alum, Lime** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Alum, Lime** — **A. Alum, Lime** — Nalgonda technique for defluoridation of water (developed by NEERI) uses alum (aluminium sulphate) + lime (calcium hydroxide) + bleaching powder for flocculation and removal of fluoride.
 
 </details>
 
@@ -3087,7 +3087,7 @@ Bowing legs 3-year-old — nutritional program covering <6 years?
 
 <details><summary>Answer</summary>
 
-**A. ICDS** — Source: DocTutorials NEET-PG 2021 recall.
+**A. ICDS** — **A. ICDS** — Integrated Child Development Services covers children <6 years, pregnant/lactating women, adolescent girls; provides supplementary nutrition, immunisation, health check-up, referral, and pre-school education through anganwadis.
 
 </details>
 
@@ -3103,7 +3103,7 @@ Community intervention, 20 PHCs standard, 20 new intervention — study classifi
 
 <details><summary>Answer</summary>
 
-**B. Cluster RCT** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Cluster RCT** — **B. Cluster RCT** — Allocation of intact groups (PHCs) — not individuals — to standard vs. intervention arms is a cluster randomised controlled trial; appropriate when intervention is administered at community/facility level.
 
 </details>
 
@@ -3119,7 +3119,7 @@ Fever, COVID-19 confirmed, hospital death, registration 7 days later — surveil
 
 <details><summary>Answer</summary>
 
-**B. Passive surveillance** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Passive surveillance** — **B. Passive surveillance** — Routine reporting of confirmed cases/deaths by hospitals/health facilities to authorities is passive surveillance; active surveillance involves field workers actively seeking cases (e.g., AFP in polio).
 
 </details>
 
@@ -3135,7 +3135,7 @@ Mosquito larva — no siphon tube, palmate hairs, parallel surface rest — spec
 
 <details><summary>Answer</summary>
 
-**B. Anopheles** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Anopheles** — **B. Anopheles** — Anopheles larvae lack a siphon tube, possess palmate (float) hairs, and rest parallel to water surface; adults rest at 45° angle. Culex/Aedes larvae have siphon and hang at angle to surface.
 
 </details>
 
@@ -3151,7 +3151,7 @@ Mosquito larva — no siphon tube, palmate hairs, parallel surface rest — spec
 
 <details><summary>Answer</summary>
 
-**A. ½-1 khatori, 3x daily** — Source: DocTutorials NEET-PG 2021 recall.
+**A. ½-1 khatori, 3x daily** — **A. ½-1 khatori, 3x daily** — IYCF/WHO complementary feeding 6–8 months: thick semi-solid foods, ½–1 katori (125–200 mL) 2–3 times per day plus breastfeeding; frequency increases with age.
 
 </details>
 
@@ -3480,7 +3480,7 @@ Salt craving, hyperpigmentation, hyperkalemia, metabolic acidosis?
 
 <details><summary>Answer</summary>
 
-**A. Addison's disease** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Addison's disease** — **A. Addison's disease** — Primary adrenal insufficiency: cortisol/aldosterone deficiency causes salt craving, hyperpigmentation (high ACTH/MSH), hyperkalaemia, hyponatraemia, metabolic acidosis, and postural hypotension.
 
 </details>
 
@@ -3496,7 +3496,7 @@ Severe ARDS, PaO₂/FiO₂ 100 — ventilatory strategy?
 
 <details><summary>Answer</summary>
 
-**D. High PEEP, low tidal volume** — Source: DocTutorials NEET-PG 2021 recall.
+**D. High PEEP, low tidal volume** — **D. High PEEP, low tidal volume** — ARDSnet protective ventilation: low tidal volume 4–6 mL/kg predicted body weight + high PEEP + plateau pressure <30 cmH2O; reduces volutrauma and improves oxygenation.
 
 </details>
 
@@ -3512,7 +3512,7 @@ Meningococcal meningitis prophylaxis for contacts?
 
 <details><summary>Answer</summary>
 
-**A. Rifampicin** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Rifampicin** — **A. Rifampicin** — Chemoprophylaxis for close contacts of meningococcal disease: rifampicin 600 mg BD ×2 days (adults), or single-dose ciprofloxacin 500 mg or ceftriaxone 250 mg IM.
 
 </details>
 
@@ -3528,7 +3528,7 @@ Rhomboid positively birefringent crystals in synovial fluid?
 
 <details><summary>Answer</summary>
 
-**B. Pseudogout** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Pseudogout** — **B. Pseudogout** — CPPD (pseudogout): rhomboid/rod-shaped, weakly positively birefringent calcium pyrophosphate crystals in synovial fluid. Gout: needle-shaped, strongly negatively birefringent monosodium urate.
 
 </details>
 
@@ -3544,7 +3544,7 @@ ANA+, anti-Scl-70 antibodies — associated manifestation?
 
 <details><summary>Answer</summary>
 
-**C. Interstitial lung disease** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Interstitial lung disease** — **C. Interstitial lung disease** — Anti-Scl-70 (anti-topoisomerase I) is specific for diffuse cutaneous systemic sclerosis; strongly associated with interstitial lung disease and pulmonary fibrosis, the leading cause of death.
 
 </details>
 
@@ -3560,7 +3560,7 @@ Paroxysmal nocturnal dyspnea, irregular pulse, elevated JVP, mid-diastolic murmu
 
 <details><summary>Answer</summary>
 
-**D. Pre-systolic accentuation hallmark** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Pre-systolic accentuation hallmark** — **D. Pre-systolic accentuation hallmark** — Mitral stenosis with atrial fibrillation: loss of atrial contraction abolishes the presystolic accentuation; other features (stroke risk, absent 'a' wave, RHF) remain. Mid-diastolic rumble persists.
 
 </details>
 
@@ -3576,7 +3576,7 @@ Morning stiffness, anti-CCP+ — characteristic histology?
 
 <details><summary>Answer</summary>
 
-**A. Synovial inflammation with pannus** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Synovial inflammation with pannus** — **A. Synovial inflammation with pannus** — Rheumatoid arthritis: anti-CCP+ with synovial lymphoplasmacytic infiltration, hypertrophy, neovascularisation, and pannus formation (granulation tissue eroding cartilage/bone).
 
 </details>
 
@@ -3592,7 +3592,7 @@ Acute weakness, aphasia, 2 hours onset, atrial fibrillation — management?
 
 <details><summary>Answer</summary>
 
-**A. IV rTPA** — Source: DocTutorials NEET-PG 2021 recall.
+**A. IV rTPA** — **A. IV rTPA** — Acute ischaemic stroke <4.5 hours from onset: IV alteplase (tPA) 0.9 mg/kg after exclusion of haemorrhage on NCCT; AF source can be managed with anticoagulation later (after 24 hours).
 
 </details>
 
@@ -3608,7 +3608,7 @@ HIV+ with TB, CD4 150 — timing ART?
 
 <details><summary>Answer</summary>
 
-**A. 2 weeks after ATT** — Source: DocTutorials NEET-PG 2021 recall.
+**A. 2 weeks after ATT** — **A. 2 weeks after ATT** — In HIV-TB coinfection with CD4 <50, ART started within 2 weeks of ATT; CD4 >50 (this case 150), ART started within 8 weeks; reduces mortality, balances IRIS risk.
 
 </details>
 
@@ -3624,7 +3624,7 @@ Diabetes, numbness/tingling feet, reduced reflexes — cause?
 
 <details><summary>Answer</summary>
 
-**A. Bilateral distal symmetric polyneuropathy** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Bilateral distal symmetric polyneuropathy** — **A. Bilateral distal symmetric polyneuropathy** — Most common diabetic neuropathy: bilateral, symmetric, length-dependent distal sensory polyneuropathy (stocking-glove); loss of vibration/proprioception, reduced ankle reflexes, paraesthesia.
 
 </details>
 
@@ -3640,7 +3640,7 @@ Day 7 post-knee surgery, hemoptysis, RR 28, HR 120 — investigation?
 
 <details><summary>Answer</summary>
 
-**C. CTPA** — Source: DocTutorials NEET-PG 2021 recall.
+**C. CTPA** — **C. CTPA** — Post-operative haemoptysis, tachypnoea, and tachycardia in immobilised patient suggest pulmonary embolism; CT pulmonary angiography is gold standard (visualises filling defects in pulmonary arteries).
 
 </details>
 
@@ -3656,7 +3656,7 @@ Altered sensorium, Na 95 corrected to 111, neurological deterioration — next s
 
 <details><summary>Answer</summary>
 
-**C. MRI brain** — Source: DocTutorials NEET-PG 2021 recall.
+**C. MRI brain** — **C. MRI brain** — Rapid correction of hyponatraemia (>10–12 mEq/L/24 h, here 16 mEq) causes osmotic demyelination syndrome (central pontine myelinolysis); MRI brain shows characteristic 'trident' pontine lesion.
 
 </details>
 
@@ -3672,7 +3672,7 @@ Atrial fibrillation hemodynamically stable — management?
 
 <details><summary>Answer</summary>
 
-**B. Control ventricular rate** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Control ventricular rate** — **B. Control ventricular rate** — Haemodynamically stable AF: rate control with beta-blockers/CCBs is first-line; rhythm control (cardioversion) for unstable patients or AF <48 h. Anticoagulation per CHA2DS2-VASc.
 
 </details>
 

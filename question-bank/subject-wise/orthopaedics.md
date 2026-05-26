@@ -964,7 +964,7 @@ Which of the following prevents hyperextension of thigh
 
 <details><summary>Answer</summary>
 
-**B. Iliofemoral ligament** — Source: Medicoholic 2015 PYQ compilation.
+**B. Iliofemoral ligament** — **B. Iliofemoral ligament** — Iliofemoral (Y-ligament of Bigelow) is the strongest ligament of the hip; resists hyperextension and maintains erect posture without muscular effort during standing.
 
 </details>
 
@@ -982,7 +982,7 @@ All are components of Spermatic cord except :
 
 <details><summary>Answer</summary>
 
-**A. Poupart's ligament** — Source: Medicoholic 2015 PYQ compilation.
+**A. Poupart's ligament** — **A. Poupart's ligament** — Poupart's (inguinal) ligament forms the floor of the inguinal canal, not part of the cord. Cord contains: vas deferens, testicular/cremasteric/vas arteries, pampiniform plexus, genitofemoral nerve.
 
 </details>
 
@@ -1000,7 +1000,7 @@ Which of the following is a derivative of ventral mesogastrium ?
 
 <details><summary>Answer</summary>
 
-**D. Lesser omentum** — Source: Medicoholic 2015 PYQ compilation.
+**D. Lesser omentum** — **D. Lesser omentum** — Ventral mesogastrium gives rise to lesser omentum and falciform ligament; greater omentum, gastrosplenic, and lienorenal ligaments are derivatives of dorsal mesogastrium.
 
 </details>
 
@@ -1018,7 +1018,7 @@ All of the following are extrinsic laryngeal membranes except?
 
 <details><summary>Answer</summary>
 
-**A. Quadrangular membrane** — Source: Medicoholic 2015 PYQ compilation.
+**A. Quadrangular membrane** — **A. Quadrangular membrane** — Quadrangular membrane is an intrinsic laryngeal membrane (extends from epiglottis to arytenoid); extrinsic membranes connect larynx to surrounding structures (thyrohyoid, cricotracheal, hyoepiglottic).
 
 </details>
 
@@ -1036,7 +1036,7 @@ Vacuum assisted closure is contraindicated in which of the following conditions 
 
 <details><summary>Answer</summary>
 
-**B. Large amount of necrotic tissue with eschar** — Source: Medicoholic 2015 PYQ compilation.
+**B. Large amount of necrotic tissue with eschar** — **B. Large amount of necrotic tissue with eschar** — VAC therapy contraindicated in necrotic wounds with eschar, malignancy in wound, untreated osteomyelitis, exposed vessels/nerves, and enteric fistulae; debridement must precede VAC application.
 
 </details>
 
@@ -1054,7 +1054,7 @@ Snapping knee syndrome is due to involvement of -
 
 <details><summary>Answer</summary>
 
-**A. Pes Anserinus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pes Anserinus** — **A. Pes Anserinus** — Snapping knee syndrome is due to snapping of the pes anserinus tendons (sartorius, gracilis, semitendinosus) over the medial tibial condyle during knee flexion/extension.
 
 </details>
 
@@ -1072,7 +1072,7 @@ Sudden dorsiflexion of foot may lead to which of the following injuries -
 
 <details><summary>Answer</summary>
 
-**B. Tendo Achilles avulsion injury** — Source: Medicoholic 2015 PYQ compilation.
+**B. Tendo Achilles avulsion injury** — **B. Tendo Achilles avulsion injury** — Sudden forced dorsiflexion stretches the gastrocnemius-soleus complex causing tendo-Achilles rupture/avulsion; presents with palpable gap, positive Thompson test, weak plantarflexion.
 
 </details>
 
@@ -1090,7 +1090,7 @@ Not seen in anorexia nervosa:
 
 <details><summary>Answer</summary>
 
-**D. Menorrhagia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Menorrhagia** — **D. Menorrhagia** — Anorexia nervosa causes hypothalamic amenorrhoea (low GnRH/FSH/LH/estrogen), not menorrhagia. Other features: weight <85% expected, food refusal, osteoporosis, lanugo, bradycardia.
 
 </details>
 
@@ -1111,7 +1111,7 @@ Oblique popliteal ligament is derived from ?
 
 <details><summary>Answer</summary>
 
-**D. Semimembranosus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Semimembranosus** — **D. Semimembranosus** — Oblique popliteal ligament is an expansion from the semimembranosus tendon reinforcing the posterior knee capsule; supports posteromedial knee and resists hyperextension.
 
 </details>
 
@@ -1131,7 +1131,7 @@ All of the following are causes of pseudoparalysis except
 
 <details><summary>Answer</summary>
 
-**D. Polio** — Source: Medicoholic 2016 PYQ compilation.
+**D. Polio** — **D. Polio** — Polio causes true flaccid paralysis (LMN lesion of anterior horn cells). Pseudoparalysis is voluntary refusal to move due to pain — seen in osteomyelitis, septic arthritis, scurvy, syphilis.
 
 </details>
 
@@ -1151,7 +1151,7 @@ Age group affected by osteosarcoma -
 
 <details><summary>Answer</summary>
 
-**B. 10 - 20 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10 - 20 years** — **B. 10 - 20 years** — Osteosarcoma has bimodal age distribution; primary peak 10–20 years (adolescent growth spurt, metaphysis of long bones), secondary peak >65 years (Paget's, post-radiation).
 
 </details>
 
@@ -1171,7 +1171,7 @@ A patient presents with wrist trauma. On investigations patient is diagnosed to 
 
 <details><summary>Answer</summary>
 
-**A. Scapholunate ligament** — Source: Medicoholic 2016 PYQ compilation.
+**A. Scapholunate ligament** — **A. Scapholunate ligament** — Anatomical snuffbox tenderness with normal X-ray suggests scaphoid injury and associated scapholunate ligament tear (most common carpal ligament injury); causes dorsal intercalated segment instability (DISI).
 
 </details>
 
@@ -1194,7 +1194,7 @@ Tom smith septic arthritis is-
 
 <details><summary>Answer</summary>
 
-**C. Septic arthritis of infancy** — Source: NEET-PG 2017 medicoholic.com
+**C. Septic arthritis of infancy** — **C. Septic arthritis of infancy** — Tom Smith arthritis is acute haematogenous septic arthritis of the hip in infants, usually staphylococcal; rapid cartilage destruction, femoral head dislocation/destruction causing severe long-term deformity.
 
 </details>
 

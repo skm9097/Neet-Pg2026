@@ -3234,7 +3234,7 @@ Which of the following is a layer between choroid and retina?
 
 <details><summary>Answer</summary>
 
-**A. Bruch's membrane** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bruch's membrane** — **A. Bruch's membrane** — Pentalaminar membrane between choroidal capillaries and RPE; basement membrane of RPE; thickens with age, drusen deposition causes age-related macular degeneration.
 
 </details>
 
@@ -3254,7 +3254,7 @@ Which of the following is a layer between choroid and retina?
 
 <details><summary>Answer</summary>
 
-**A. CRVO** — Source: Medicoholic 2016 PYQ compilation.
+**A. CRVO** — **A. CRVO** — Ischemic central retinal vein occlusion causes retinal hypoxia, VEGF release, and rubeosis iridis with neovascular glaucoma developing approximately 90-100 days post-occlusion.
 
 </details>
 
@@ -3274,7 +3274,7 @@ Retinal tears seen most commonly seen in ?
 
 <details><summary>Answer</summary>
 
-**A. Primary retinal detachment** — Source: Medicoholic 2016 PYQ compilation.
+**A. Primary retinal detachment** — **A. Primary retinal detachment** — Rhegmatogenous (primary) retinal detachment is caused by a full-thickness retinal break/tear allowing vitreous fluid to enter the subretinal space; treated with scleral buckle or vitrectomy.
 
 </details>
 
@@ -3294,7 +3294,7 @@ An elderly male with heart disease presents with sudden loss of vision in one ey
 
 <details><summary>Answer</summary>
 
-**B. Central retinal artery occlusion** — Source: Medicoholic 2016 PYQ compilation.
+**B. Central retinal artery occlusion** — **B. Central retinal artery occlusion** — Embolic occlusion (often cardiac) causes sudden painless monocular vision loss; cherry-red spot reflects preserved choroidal perfusion of fovea against pale ischemic retina.
 
 </details>
 
@@ -3314,7 +3314,7 @@ Which of the following is true about signs of angle in closure glaucoma except
 
 <details><summary>Answer</summary>
 
-**C. Multiple iris nodules** — Source: Medicoholic 2016 PYQ compilation.
+**C. Multiple iris nodules** — **C. Multiple iris nodules** — Iris nodules are features of granulomatous uveitis/sarcoidosis, not acute angle-closure glaucoma which shows vertically oval mid-dilated pupil, corneal edema, and disc hyperemia.
 
 </details>
 
@@ -3334,7 +3334,7 @@ Most common site of basal cell carcinoma of the eye is
 
 <details><summary>Answer</summary>
 
-**A. Eyelid** — Source: Medicoholic 2016 PYQ compilation.
+**A. Eyelid** — **A. Eyelid** — BCC accounts for 90% of eyelid malignancies; lower eyelid is the commonest site due to maximal UV exposure; managed by Mohs micrographic surgery.
 
 </details>
 
@@ -3354,7 +3354,7 @@ Ocular findings in diabetes are all except -
 
 <details><summary>Answer</summary>
 
-**D. Blepharophimosis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Blepharophimosis** — **D. Blepharophimosis** — Blepharophimosis is a congenital narrowing of palpebral fissure unrelated to diabetes; diabetes causes retinopathy, snowflake cataracts, and rubeotic neovascular glaucoma.
 
 </details>
 
@@ -3374,7 +3374,7 @@ Mucin layer tear flilm deficiency occurs in:
 
 <details><summary>Answer</summary>
 
-**A. Keratoconjunctivitis sicca** — Source: Medicoholic 2016 PYQ compilation.
+**A. Keratoconjunctivitis sicca** — **A. Keratoconjunctivitis sicca** — Conjunctival goblet cell loss reduces mucin (MUC5AC) layer in dry eye disease; diagnosed by Schirmer test and TBUT; treated with artificial tears and cyclosporine.
 
 </details>
 
@@ -3394,7 +3394,7 @@ Pure word deafness is associated with
 
 <details><summary>Answer</summary>
 
-**A. Middle cerebral artery stroke** — Source: Medicoholic 2016 PYQ compilation.
+**A. Middle cerebral artery stroke** — **A. Middle cerebral artery stroke** — Bilateral lesions of superior temporal gyrus (Heschl's gyrus, supplied by MCA) cause auditory verbal agnosia with preserved hearing, reading, writing, and speech.
 
 </details>
 
@@ -3414,7 +3414,7 @@ Global aphasia is seen due to
 
 <details><summary>Answer</summary>
 
-**A. Strokes involving entire middle cerebral artery distribution in left** — Source: Medicoholic 2016 PYQ compilation.
+**A. Strokes involving entire middle cerebral artery distribution in left** — **A. Strokes involving entire middle cerebral artery distribution in left** — Large left MCA infarct damages both Broca's and Wernicke's areas, producing non-fluent speech with impaired comprehension, repetition, naming.
 
 </details>
 
@@ -3434,7 +3434,7 @@ Which lobe is affected in the early course of alzheimers disease
 
 <details><summary>Answer</summary>
 
-**C. Medial temporal lobe** — Source: Medicoholic 2016 PYQ compilation.
+**C. Medial temporal lobe** — **C. Medial temporal lobe** — Entorhinal cortex and hippocampus show earliest neurofibrillary tangles (Braak stages I-II), explaining the prominent anterograde amnesia in early Alzheimer's disease.
 
 </details>
 
@@ -3454,7 +3454,7 @@ Which is/are the usual first deformity/ies to be seen in CMT disease?
 
 <details><summary>Answer</summary>
 
-**A. Pes cavus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pes cavus** — **A. Pes cavus** — Charcot-Marie-Tooth (hereditary motor sensory neuropathy) causes intrinsic foot muscle weakness with peroneal atrophy; pes cavus and hammer toes are the earliest deformities.
 
 </details>
 
@@ -3474,7 +3474,7 @@ Huntingtons disease is commonly seen in age group between
 
 <details><summary>Answer</summary>
 
-**B. 25 - 45 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 25 - 45 years** — **B. 25 - 45 years** — Autosomal dominant CAG trinucleotide repeat expansion in HTT gene typically manifests with chorea, dementia, and psychiatric symptoms in the fourth decade.
 
 </details>
 
@@ -3494,7 +3494,7 @@ Wernickes encephalopathy develops secondary to accumulation of which substrate?
 
 <details><summary>Answer</summary>
 
-**A. Glutamate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glutamate** — **A. Glutamate** — Thiamine deficiency impairs alpha-ketoglutarate dehydrogenase causing glutamate accumulation and excitotoxicity in mammillary bodies and thalamus; classic triad: ophthalmoplegia, ataxia, confusion.
 
 </details>
 
@@ -3514,7 +3514,7 @@ Which of the following clinical test when positive suggests presence of sensory 
 
 <details><summary>Answer</summary>
 
-**A. Romberg test** — Source: Medicoholic 2016 PYQ compilation.
+**A. Romberg test** — **A. Romberg test** — Loss of balance on eye closure indicates impaired proprioception (dorsal column pathology); positive in tabes dorsalis, B12 deficiency, and peripheral sensory neuropathy.
 
 </details>
 
@@ -3534,7 +3534,7 @@ Todds paralysis is experience following episode of
 
 <details><summary>Answer</summary>
 
-**A. Focal seizure** — Source: Medicoholic 2016 PYQ compilation.
+**A. Focal seizure** — **A. Focal seizure** — Transient postictal hemiparesis lasting hours to days follows focal motor seizures; reflects neuronal exhaustion or cortical inhibition in the involved motor cortex.
 
 </details>
 
@@ -3554,7 +3554,7 @@ Frontal lobe syndrome consists
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Frontal lobe damage produces euphoria/disinhibition (orbitofrontal), indifference/apathy (medial frontal), and irritability/impaired executive function; classically described in Phineas Gage.
 
 </details>
 
@@ -3574,7 +3574,7 @@ Immune thrombocytopenic puprpura associated with
 
 <details><summary>Answer</summary>
 
-**C. Hepatitis C infection** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hepatitis C infection** — **C. Hepatitis C infection** — HCV is a well-established secondary cause of immune thrombocytopenic purpura via molecular mimicry and immune complex-mediated platelet destruction; treat underlying HCV.
 
 </details>
 
@@ -3594,7 +3594,7 @@ Which of the following drug/s can be used for immediate parenteral anticoagulati
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Unfractionated heparin, LMWH (enoxaparin), and fondaparinux all provide immediate parenteral anticoagulation by potentiating antithrombin III; used as bridge to warfarin in VTE.
 
 </details>
 
@@ -3614,7 +3614,7 @@ True about sideroblastic anemia
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Sideroblastic anemia results from defective ALA synthase activity, demonstrates ringed sideroblasts on Prussian blue stain, and responds to pyridoxine (B6) in hereditary forms.
 
 </details>
 
@@ -3634,7 +3634,7 @@ Massive transfusion is defined as transfusion of
 
 <details><summary>Answer</summary>
 
-**A. 10/ 24 or more red cell products in hours.** — Source: Medicoholic 2016 PYQ compilation.
+**A. 10/ 24 or more red cell products in hours.** — **A. 10/24 or more red cell products in hours** — Massive transfusion = >10 units PRBC in 24 hours, or >50% blood volume in 4 hours; activates massive transfusion protocol with 1:1:1 PRBC:FFP:platelet ratio.
 
 </details>
 
@@ -3654,7 +3654,7 @@ Which is the most common cause of thrombocytopenia in an ICU patient?
 
 <details><summary>Answer</summary>
 
-**A. Sepsis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Sepsis** — **A. Sepsis** — Sepsis is the leading cause of ICU thrombocytopenia via DIC, platelet consumption, marrow suppression, and immune-mediated destruction; correlates with higher mortality.
 
 </details>
 
@@ -3674,7 +3674,7 @@ What percentage of Multiple myeloma patients have vertebral involvement?
 
 <details><summary>Answer</summary>
 
-**C. 66%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 66%** — **C. 66%** — Around two-thirds of multiple myeloma patients have vertebral lytic lesions causing back pain, compression fractures, and cord compression; MRI is most sensitive for detection.
 
 </details>
 
@@ -3694,7 +3694,7 @@ In case of hypothyroidism which investigation is most informative and most commo
 
 <details><summary>Answer</summary>
 
-**A. Serum TSH Level** — Source: Medicoholic 2016 PYQ compilation.
+**A. Serum TSH Level** — **A. Serum TSH Level** — TSH is the most sensitive marker of primary hypothyroidism (elevated due to negative feedback loss); first-line screening and monitoring test for levothyroxine titration.
 
 </details>
 
@@ -3714,7 +3714,7 @@ HbA1c control for how much time
 
 <details><summary>Answer</summary>
 
-**C. 6 - 8 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6 - 8 weeks** — **C. 6 - 8 weeks** — HbA1c reflects average glycaemia over the lifespan of erythrocytes (~120 days), but most strongly weighted to glycaemia of the preceding 6-8 weeks.
 
 </details>
 
@@ -3734,7 +3734,7 @@ All are seen in MEN IIA syndrome except
 
 <details><summary>Answer</summary>
 
-**C. Caused by loss of function mutation in IIRT protooncogene** — Source: Medicoholic 2016 PYQ compilation.
+**C. Caused by loss of function mutation in IIRT protooncogene** — **C. Caused by loss of function mutation in IIRT protooncogene** — MEN 2A is caused by gain-of-function (activating) RET protooncogene mutation, not loss-of-function; features MTC, pheochromocytoma, and hyperparathyroidism.
 
 </details>
 
@@ -3754,7 +3754,7 @@ Tertiary hyperparathyroidism is-
 
 <details><summary>Answer</summary>
 
-**D. Secondary hyperparathyroidism with chief cell adenoma** — Source: Medicoholic 2016 PYQ compilation.
+**D. Secondary hyperparathyroidism with chief cell adenoma** — **D. Secondary hyperparathyroidism with chief cell adenoma** — Prolonged secondary hyperparathyroidism (CKD) leads to autonomous parathyroid hyperplasia/adenoma with persistent hypercalcemia despite correction of underlying cause.
 
 </details>
 
@@ -3774,7 +3774,7 @@ Chronic adrenal insufficiency is caused by the following organisms except
 
 <details><summary>Answer</summary>
 
-**D. Mycobacterium bovis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Mycobacterium bovis** — **D. Mycobacterium bovis** — Adrenal tuberculosis (Addison's disease) is caused by M. tuberculosis; histoplasma and coccidioides also infiltrate adrenals; M. bovis primarily causes intestinal/cervical TB.
 
 </details>
 
@@ -3794,7 +3794,7 @@ Which of the following is not a feature of myxedema coma?
 
 <details><summary>Answer</summary>
 
-**D. Levothyroxine should not be used in the management** — Source: Medicoholic 2016 PYQ compilation.
+**D. Levothyroxine should not be used in the management** — **D. Levothyroxine should not be used in the management** — Myxedema coma is a thyroid emergency requiring IV levothyroxine (with hydrocortisone to prevent adrenal crisis); features hypothermia, hypoventilation, hyponatremia.
 
 </details>
 
@@ -3814,7 +3814,7 @@ The gold standard test for diagnosis of Insulinoma is:
 
 <details><summary>Answer</summary>
 
-**A. '72 hour' fast test** — Source: Medicoholic 2016 PYQ compilation.
+**A. '72 hour' fast test** — **A. '72 hour' fast test** — Supervised 72-hour fast reproduces Whipple's triad: hypoglycemia, neuroglycopenic symptoms, relief with glucose; with inappropriately elevated insulin and C-peptide diagnostic of insulinoma.
 
 </details>
 
@@ -3834,7 +3834,7 @@ Hypotonic solution given to correct
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Hypotonic fluids (0.45% saline) correct hyperosmolar states like DKA, HHS, and diuretic-induced hypernatremic dehydration by replacing free water deficit and lowering serum osmolarity gradually.
 
 </details>
 
@@ -3854,7 +3854,7 @@ Acute hyponatremia becomes symptomatic at
 
 <details><summary>Answer</summary>
 
-**B. < 125 mEq** — Source: Medicoholic 2016 PYQ compilation.
+**B. < 125 mEq** — **B. < 125 mEq** — Acute hyponatremia below 125 mEq/L causes cerebral edema with headache, nausea, seizures, and coma; rapid correction risks osmotic demyelination syndrome (central pontine myelinolysis).
 
 </details>
 
@@ -3874,7 +3874,7 @@ Respiratory acidosis is recognized primarily by increase in
 
 <details><summary>Answer</summary>
 
-**B. PaCO2** — Source: Medicoholic 2016 PYQ compilation.
+**B. PaCO2** — **B. PaCO2** — Respiratory acidosis results from alveolar hypoventilation causing CO2 retention (PaCO2 >45 mmHg); compensation occurs through renal bicarbonate retention; lowers pH below 7.35.
 
 </details>
 
@@ -3894,7 +3894,7 @@ Which of the following drug administration is not associated with hypomagnesemia
 
 <details><summary>Answer</summary>
 
-**B. Valproate** — Source: Medicoholic 2016 PYQ compilation.
+**B. Valproate** — **B. Valproate** — Valproate is not associated with hypomagnesemia; cisplatin (tubular toxicity), foscarnet, and cetuximab all cause renal magnesium wasting via tubular damage or EGFR inhibition.
 
 </details>
 
@@ -3914,7 +3914,7 @@ SARS infection case fatality rate of >50% is observed in patients of which age g
 
 <details><summary>Answer</summary>
 
-**D. > 65 years** — Source: Medicoholic 2016 PYQ compilation.
+**D. > 65 years** — **D. > 65 years** — SARS-CoV-1 case fatality rate exceeded 50% in patients above 65 years due to immunosenescence, comorbidities, and severe ARDS; overall CFR around 10%.
 
 </details>
 
@@ -3934,7 +3934,7 @@ All are features of SIRS except-
 
 <details><summary>Answer</summary>
 
-**A. RR> 24 & Paco2 <22mm hg** — Source: Medicoholic 2016 PYQ compilation.
+**A. RR> 24 & Paco2 <22mm hg** — **A. RR> 24 & Paco2 <22mm hg** — SIRS criteria include RR >20 OR PaCO2 <32 mmHg (not 22), temperature >38 or <36, HR >90, WBC >12 or <4; two or more define SIRS.
 
 </details>
 
@@ -3954,7 +3954,7 @@ Dengue shock syndrome is characterized by the following except -
 
 <details><summary>Answer</summary>
 
-**D. Decreased haemoglobin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Decreased haemoglobin** — **D. Decreased haemoglobin** — Dengue shock syndrome shows hemoconcentration (raised hematocrit/Hb) due to plasma leakage; other features include thrombocytopenia, hepatomegaly, pleural effusion, and ascites.
 
 </details>
 
@@ -3974,7 +3974,7 @@ Tuberous sclerosis is caused by mutations in the following proteins
 
 <details><summary>Answer</summary>
 
-**A. Hamartin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hamartin** — **A. Hamartin** — Tuberous sclerosis complex is caused by mutations in TSC1 (hamartin) or TSC2 (tuberin) genes encoding mTOR pathway suppressors; treated with everolimus/sirolimus.
 
 </details>
 
@@ -3994,7 +3994,7 @@ Z track technique must be used for administration of
 
 <details><summary>Answer</summary>
 
-**D. Injection erythromycin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Injection erythromycin** — **D. Injection erythromycin** — Z-track technique displaces subcutaneous tissue to prevent leakage of irritant/staining drugs back along the needle tract; used for iron dextran, vitamin B12, and erythromycin IM.
 
 </details>
 
@@ -4014,7 +4014,7 @@ Pierre robin syndrome following is true except
 
 <details><summary>Answer</summary>
 
-**C. Airway obstruction particularly during expiration** — Source: Medicoholic 2016 PYQ compilation.
+**C. Airway obstruction particularly during expiration** — **C. Airway obstruction particularly during expiration** — Pierre Robin sequence (micrognathia, glossoptosis, cleft palate) causes inspiratory airway obstruction from posterior tongue displacement, not expiratory; treated with prone positioning, mandibular distraction.
 
 </details>
 
@@ -4034,7 +4034,7 @@ Alien limb syndrome seen in
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Alien limb syndrome (limb performing purposeful movements outside conscious control) occurs in corticobasal degeneration, Creutzfeldt-Jakob disease, Alzheimer's, and following corpus callosum/parietal surgery.
 
 </details>
 
@@ -4054,7 +4054,7 @@ Osmolarity of Milk F-100 is
 
 <details><summary>Answer</summary>
 
-**C. 419 mOsm/L** — Source: Medicoholic 2016 PYQ compilation.
+**C. 419 mOsm/L** — **C. 419 mOsm/L** — F-100 therapeutic milk (100 kcal/100 mL) used in WHO Phase 2 (rehabilitation) of severe acute malnutrition; osmolarity 419 mOsm/L; F-75 used in Phase 1 stabilization.
 
 </details>
 
@@ -4074,7 +4074,7 @@ Which of the following drugs can cause seizures except?
 
 <details><summary>Answer</summary>
 
-**D. Ketorolac** — Source: Medicoholic 2016 PYQ compilation.
+**D. Ketorolac** — **D. Ketorolac** — Ketorolac (NSAID) does not lower seizure threshold; lithium toxicity, phencyclidine, and INH (pyridoxine antagonism) all cause seizures; tramadol and bupropion are notable culprits too.
 
 </details>
 
@@ -4094,7 +4094,7 @@ Riboflavin deficiency causes
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Riboflavin (B2) deficiency (ariboflavinosis) causes angular stomatitis, glossitis, seborrheic dermatitis, corneal vascularization, normochromic-normocytic anemia, and personality changes.
 
 </details>
 
@@ -4114,7 +4114,7 @@ Soret band in which porphyrins absorb light lie at what wavelength of the spectr
 
 <details><summary>Answer</summary>
 
-**C. 400nm** — Source: Medicoholic 2016 PYQ compilation.
+**C. 400nm** — **C. 400nm** — Porphyrins exhibit intense Soret absorption band at approximately 400-410 nm (near-UV/violet), basis for photodynamic therapy and Wood's lamp fluorescence in porphyrias.
 
 </details>
 
@@ -4134,7 +4134,7 @@ Which of the following is not seen after nerve transection?
 
 <details><summary>Answer</summary>
 
-**D. Neuroma in continuity** — Source: Medicoholic 2016 PYQ compilation.
+**D. Neuroma in continuity** — **D. Neuroma in continuity** — Neuroma in continuity forms in partially injured but intact nerves, not transection; transection causes Wallerian degeneration, myelin ovoids, and traumatic (painful) neuroma at proximal stump.
 
 </details>
 
@@ -4154,7 +4154,7 @@ Reactive nitrogen species for killing of microbes are mainly derived from
 
 <details><summary>Answer</summary>
 
-**B. Nitric Oxide [NO]** — Source: Medicoholic 2016 PYQ compilation.
+**B. Nitric Oxide [NO]** — **B. Nitric Oxide [NO]** — Macrophage iNOS oxidizes L-arginine to NO; NO combines with superoxide to form peroxynitrite, the primary RNS mediating microbicidal activity against intracellular pathogens.
 
 </details>
 
@@ -4174,7 +4174,7 @@ Which of the following genes if affected will sporadically cause Juvenile myeloi
 
 <details><summary>Answer</summary>
 
-**A. NF1** — Source: Medicoholic 2016 PYQ compilation.
+**A. NF1** — **A. NF1** — Loss of NF1 (neurofibromin) leads to constitutive RAS activation; juvenile myelomonocytic leukemia (JMML) shows RAS-pathway mutations in NF1, PTPN11, KRAS, NRAS, CBL.
 
 </details>
 
@@ -4194,7 +4194,7 @@ Oculogyric crisis is known to be produced by all of the following drugs except
 
 <details><summary>Answer</summary>
 
-**B. Atropine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Atropine** — **B. Atropine** — Atropine (anticholinergic) treats acute dystonic reactions, not causes them; phenothiazines (trifluoperazine, perphenazine, prochlorperazine) cause oculogyric crisis by D2 blockade; treat with diphenhydramine.
 
 </details>
 
@@ -4214,7 +4214,7 @@ Which of the following primarily governs the uptake of Tc-99m MDP in body?
 
 <details><summary>Answer</summary>
 
-**A. Amount of osteogenic activity** — Source: Medicoholic 2016 PYQ compilation.
+**A. Amount of osteogenic activity** — **A. Amount of osteogenic activity** — Tc-99m methylene diphosphonate (MDP) chemisorbs onto hydroxyapatite crystals at sites of active bone turnover; uptake reflects osteoblastic activity in bone scintigraphy.
 
 </details>
 
@@ -4234,7 +4234,7 @@ Technitium-99m pertechnetate labelled methylene diphosphonate is structurally si
 
 <details><summary>Answer</summary>
 
-**A. Calcium phosphate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Calcium phosphate** — **A. Calcium phosphate** — MDP is a phosphate analogue structurally mimicking calcium phosphate (hydroxyapatite); incorporates into bone mineral matrix proportional to osteoblastic activity in bone scans.
 
 </details>
 
@@ -4254,7 +4254,7 @@ Which of the following should be done for an acute onset painful scrotal swellin
 
 <details><summary>Answer</summary>
 
-**A. Doppler stethoscope evaluation** — Source: Medicoholic 2016 PYQ compilation.
+**A. Doppler stethoscope evaluation** — **A. Doppler stethoscope evaluation** — Testicular torsion is the most urgent diagnosis in acute scrotum; Doppler USG showing absent/reduced testicular blood flow confirms torsion; surgical detorsion within 6 hours saves the testis.
 
 </details>
 
@@ -4274,7 +4274,7 @@ Earliest hematological change following spleenectomy is
 
 <details><summary>Answer</summary>
 
-**A. Leukocytosis and thrombocytosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Leukocytosis and thrombocytosis** — **A. Leukocytosis and thrombocytosis** — Loss of splenic pooling causes immediate post-splenectomy leukocytosis and thrombocytosis (within hours-days); Howell-Jolly bodies and Heinz bodies appear later.
 
 </details>
 
@@ -4294,7 +4294,7 @@ Sebaceous cyst occurs occur in all the following locations in body except
 
 <details><summary>Answer</summary>
 
-**A. Palms and soles** — Source: Medicoholic 2016 PYQ compilation.
+**A. Palms and soles** — **A. Palms and soles** — Sebaceous (epidermoid) cysts arise from sebaceous gland obstruction; palms and soles lack sebaceous glands so are spared; common on scalp, face, neck, trunk, scrotum.
 
 </details>
 
@@ -4314,7 +4314,7 @@ Cortisol levels remain elevated for how many week/s following hemorrhage?
 
 <details><summary>Answer</summary>
 
-**A. 1** — Source: Medicoholic 2016 PYQ compilation.
+**A. 1** — **A. 1** — Stress-induced cortisol elevation post-hemorrhage normally returns to baseline within one week; persistent elevation suggests ongoing stress, sepsis, or critical illness-related adrenal dysfunction.
 
 </details>
 
@@ -4334,7 +4334,7 @@ What percentage of gall stones are radio opaque?
 
 <details><summary>Answer</summary>
 
-**A. 10- 20** — Source: Medicoholic 2016 PYQ compilation.
+**A. 10- 20** — **A. 10-20** — Only 10-20% of gallstones are radio-opaque on plain X-ray (those containing calcium); pigment stones are more calcified than cholesterol stones; USG is investigation of choice.
 
 </details>
 
@@ -4354,7 +4354,7 @@ False about osteogenesis imperfecta is -
 
 <details><summary>Answer</summary>
 
-**B. Associated with cataract formation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Associated with cataract formation** — **B. Associated with cataract formation** — Osteogenesis imperfecta (defective type I collagen, autosomal dominant) features blue sclera, brittle bones, deafness, and dentinogenesis imperfecta; cataracts are NOT typical.
 
 </details>
 
