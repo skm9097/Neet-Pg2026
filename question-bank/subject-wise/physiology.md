@@ -5373,7 +5373,7 @@ Distending capacity of lung is maximum at?
 
 <details><summary>Answer</summary>
 
-**A. Apex** — Source: Medicoholic 2016 PYQ compilation.
+**A. Apex** — **A. Apex** — Lung apex has greater resting distension (more negative intrapleural pressure ~−10 cmH2O vs base ~−2.5 cmH2O) but is already near the flat part of compliance curve; therefore, for a given pressure change, BASE has greater ventilation; apical alveoli are less compliant at rest.
 
 </details>
 
@@ -5393,7 +5393,7 @@ Action potential in cardiac muscles is due to which ions?
 
 <details><summary>Answer</summary>
 
-**D. CI?** — Source: Medicoholic 2016 PYQ compilation.
+**D. CI?** — **D. CI?** — Note: The question options contain a typo; cardiac action potential plateau (Phase 2) is maintained by slow Ca2+ influx via L-type (slow) calcium channels balanced by K+ outflow; fast depolarization (Phase 0) is due to Na+ influx.
 
 </details>
 
@@ -5413,7 +5413,7 @@ Baroreceptors are related to which vessels?
 
 <details><summary>Answer</summary>
 
-**A. Internal carotid artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Internal carotid artery** — **A. Internal carotid artery** — Carotid sinus baroreceptors are located at the base of the internal carotid artery (at bifurcation of common carotid); they are high-pressure receptors responding to arterial stretch; afferents via Hering's nerve (branch of CN IX).
 
 </details>
 
@@ -5433,7 +5433,7 @@ Effect of positive G?
 
 <details><summary>Answer</summary>
 
-**C. Decreased cardiac output** — Source: Medicoholic 2016 PYQ compilation.
+**C. Decreased cardiac output** — **C. Decreased cardiac output** — Positive G-force (head-to-foot) shifts blood to lower extremities; reduces venous return to heart; decreases preload → decreased stroke volume and cardiac output (Frank-Starling mechanism); can cause G-LOC (G-force loss of consciousness).
 
 </details>
 
@@ -5453,7 +5453,7 @@ Which of the following cause increase in pulmonary arterial pressure?
 
 <details><summary>Answer</summary>
 
-**B. Hypoxia** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hypoxia** — **B. Hypoxia** — Hypoxic pulmonary vasoconstriction (HPV/Euler-Liljestrand reflex): alveolar hypoxia causes pulmonary arteriolar constriction via K+ channel inhibition → smooth muscle depolarization → Ca2+ influx; opposite to systemic vasodilation response.
 
 </details>
 
@@ -5473,7 +5473,7 @@ Most important cerebral vasodilator?
 
 <details><summary>Answer</summary>
 
-**A. H+** — Source: Medicoholic 2016 PYQ compilation.
+**A. H+** — **A. H+** — H+ ions (from CO2 + H2O ↔ H2CO3 ↔ H+ + HCO3-) are the most potent local cerebral vasodilators; increased PaCO2 → increased [H+] in brain interstitium → smooth muscle relaxation → increased cerebral blood flow.
 
 </details>
 
@@ -5493,7 +5493,7 @@ Renin secretion is decreased by?
 
 <details><summary>Answer</summary>
 
-**C. Nacl in distal tubules** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nacl in distal tubules** — **C. NaCl in distal tubules** — Increased NaCl delivery to macula densa cells stimulates tubuloglomerular feedback, decreasing renin secretion from juxtaglomerular cells via adenosine and ATP; also decreased by hypertension, increased sympathetic activity (β1 stimulates renin).
 
 </details>
 
@@ -5513,7 +5513,7 @@ True about function of distal convoluted tubule?
 
 <details><summary>Answer</summary>
 
-**C. Water reabsorption by ADH** — Source: Medicoholic 2016 PYQ compilation.
+**C. Water reabsorption by ADH** — **C. Water reabsorption by ADH** — DCT and collecting duct reabsorb water in response to ADH (vasopressin) via V2 receptors → cAMP → insertion of aquaporin-2 (AQP-2) channels; DCT also reabsorbs Na+ via NCC (thiazide-sensitive), not NKCC2.
 
 </details>
 
@@ -5533,7 +5533,7 @@ Function of Lacis cells in nephron?
 
 <details><summary>Answer</summary>
 
-**D. Regulation of vasoconstriction / vasodilatation of arterioles** — Source: Medicoholic 2016 PYQ compilation.
+**D. Regulation of vasoconstriction / vasodilatation of arterioles** — **D. Regulation of vasoconstriction / vasodilatation of arterioles** — Lacis cells (extraglomerular mesangial cells / Goormaghtigh cells) are located at the vascular pole of the glomerulus; they regulate afferent and efferent arteriolar tone and participate in tubuloglomerular feedback signaling.
 
 </details>
 
@@ -5553,7 +5553,7 @@ Plasma inulin of a person is 4 mg/ml and urine flow rate is 20 ml/min. What will
 
 <details><summary>Answer</summary>
 
-**B. 250 ml/min** — Source: Medicoholic 2016 PYQ compilation.
+**B. 250 ml/min** — **B. 250 ml/min** — GFR = (Urine inulin × Urine flow) / Plasma inulin = (50 mg/ml × 20 ml/min) / 4 mg/ml = 1000/4 = 250 ml/min; inulin clearance formula measures GFR as it is freely filtered without secretion or reabsorption.
 
 </details>
 
@@ -5573,7 +5573,7 @@ True about aquaporins are all except ?
 
 <details><summary>Answer</summary>
 
-**C. Aquaporin-2 in loop of Henle** — Source: Medicoholic 2016 PYQ compilation.
+**C. Aquaporin-2 in loop of Henle** — **C. Aquaporin-2 in loop of Henle** — AQP-1 is in PCT and thin descending limb of loop of Henle; AQP-2 is in collecting duct (ADH-regulated); AQP-3 and AQP-4 are in basolateral membrane of collecting duct; AQP-2 is NOT in loop of Henle.
 
 </details>
 
@@ -5593,7 +5593,7 @@ Maximum fat absorption in GI tract occurs in?
 
 <details><summary>Answer</summary>
 
-**B. Jejunum** — Source: Medicoholic 2016 PYQ compilation.
+**B. Jejunum** — **B. Jejunum** — Maximum fat absorption occurs in the jejunum; dietary fat is emulsified by bile salts, digested by pancreatic lipase to monoglycerides and fatty acids, incorporated into micelles, then absorbed across jejunal brush border; long-chain FAs enter lymphatics via chylomicrons.
 
 </details>
 
@@ -5613,7 +5613,7 @@ If the ileum is excised, what will increase in stool?
 
 <details><summary>Answer</summary>
 
-**A. Bile salts** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bile salts** — **A. Bile salts** — Ileum is the exclusive site of active bile salt reabsorption (enterohepatic circulation); ileal resection → bile salt malabsorption → excess bile salts in colon → secretory diarrhea; also causes fat malabsorption (steatorrhea) and fat-soluble vitamin deficiency.
 
 </details>
 
@@ -5633,7 +5633,7 @@ Daily fecal urobilinogen excretion in healthy adults?
 
 <details><summary>Answer</summary>
 
-**D. 40-280 mg** — Source: Medicoholic 2016 PYQ compilation.
+**D. 40-280 mg** — **D. 40-280 mg** — Normal daily fecal urobilinogen (stercobilinogen) excretion is 40–280 mg/day; it is formed by bacterial reduction of bilirubin in the colon; gives stool its brown color; absent in obstructive jaundice (clay-colored stools).
 
 </details>
 
@@ -5653,7 +5653,7 @@ Maximum daily degradation of hemoglobin in normal adults?
 
 <details><summary>Answer</summary>
 
-**D. 8 gm** — Source: Medicoholic 2016 PYQ compilation.
+**D. 8 gm** — **D. 8 gm** — Normal RBC lifespan is 120 days; with ~800 g total Hb and 120-day lifespan, approximately 6–8 g Hb is degraded daily; each gram yields ~34 mg bilirubin; total daily bilirubin production ~250–300 mg.
 
 </details>
 
@@ -5673,7 +5673,7 @@ cAMP activates?
 
 <details><summary>Answer</summary>
 
-**A. Protein kinase 'A'** — Source: Medicoholic 2016 PYQ compilation.
+**A. Protein kinase 'A'** — **A. Protein kinase 'A'** — cAMP is the second messenger for Gs-coupled receptors (β-adrenergic, glucagon, PTH); cAMP activates Protein Kinase A (PKA) by releasing its regulatory subunits; PKA phosphorylates numerous target proteins, altering cell function.
 
 </details>
 
@@ -5693,7 +5693,7 @@ Gene for insulin responsive glucose transporter is located on chromosome?
 
 <details><summary>Answer</summary>
 
-**C. 17** — Source: Medicoholic 2016 PYQ compilation.
+**C. 17** — **C. 17** — GLUT4 (insulin-responsive glucose transporter) gene is located on chromosome 17q25; expressed in skeletal muscle, cardiac muscle, and adipose tissue; insulin triggers GLUT4 vesicle translocation to plasma membrane via PI3K-Akt-AS160 pathway.
 
 </details>
 
@@ -5713,7 +5713,7 @@ True about ACTH and cortisol [corticosteroid] secretion?
 
 <details><summary>Answer</summary>
 
-**B. ACTH has negative feed-back control** — Source: Medicoholic 2016 PYQ compilation.
+**B. ACTH has negative feed-back control** — **B. ACTH has negative feed-back control** — Cortisol exerts negative feedback on both pituitary (suppresses ACTH secretion) and hypothalamus (suppresses CRH); maximum ACTH/cortisol secretion is in the early morning (6–8 AM), not evening; this circadian rhythm follows the HPA axis.
 
 </details>
 
@@ -5733,7 +5733,7 @@ All are true regarding intracellular receptors, except?
 
 <details><summary>Answer</summary>
 
-**B. Fastest acting receptors** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fastest acting receptors** — **B. Fastest acting receptors** — Intracellular (nuclear) receptors (glucocorticoids, thyroid hormones, sex steroids) act by regulating gene transcription; they are the SLOWEST acting receptors (hours to days); fastest are ion channel-linked receptors (milliseconds).
 
 </details>
 
@@ -5753,7 +5753,7 @@ Hormone which affects IC* ion concentration?
 
 <details><summary>Answer</summary>
 
-**C. Insulin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Insulin** — **C. Insulin** — Insulin drives K+ into cells (via Na-K-ATPase stimulation and direct membrane effects); used to treat hyperkalemia; also drives glucose and amino acids intracellularly; its absence in DKA leads to dangerous hyperkalemia.
 
 </details>
 
@@ -5773,7 +5773,7 @@ Tissue factor activates?
 
 <details><summary>Answer</summary>
 
-**D. In vivo pathway** — Source: Medicoholic 2016 PYQ compilation.
+**D. In vivo pathway** — **D. In vivo pathway** — Tissue factor (TF/Factor III) activates the extrinsic (in vivo) coagulation pathway; TF-Factor VIIa complex activates Factors X and IX; this is the primary in vivo mechanism of coagulation initiation after vascular injury.
 
 </details>
 
@@ -5793,7 +5793,7 @@ Tisse factor activates?
 
 <details><summary>Answer</summary>
 
-**A. Preaccelerin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Preaccelerin** — **A. Preaccelerin** — Tissue factor (extrinsic pathway) ultimately leads to activation of the common pathway; however, in context, tissue factor-VIIa complex activates Factor X (Stuart factor) which then activates Factor V (preaccelerin/labile factor) in prothrombinase complex.
 
 </details>
 
@@ -5813,7 +5813,7 @@ Maximum storage of magnesium occurs in which part of body?
 
 <details><summary>Answer</summary>
 
-**D. Bone** — Source: Medicoholic 2016 PYQ compilation.
+**D. Bone** — **D. Bone** — Approximately 60–65% of total body magnesium is stored in bone; 27% in muscle; only 1% in serum; normal serum Mg2+ is 1.5–2.5 mEq/L; Mg2+ is a cofactor for all ATP-requiring reactions and DNA/RNA synthesis.
 
 </details>
 
@@ -5853,7 +5853,7 @@ Inhibition of Na* ATPase leads to?
 
 <details><summary>Answer</summary>
 
-**B. Increased Ca' in the cell** — Source: Medicoholic 2016 PYQ compilation.
+**B. Increased Ca' in the cell** — **B. Increased Ca' in the cell** — Na-K-ATPase inhibition (by digoxin/cardiac glycosides) → intracellular Na+ accumulates → Na+/Ca2+ exchanger (NCX) reverses → intracellular Ca2+ increases → enhanced cardiac contractility (positive inotropy).
 
 </details>
 
@@ -5873,7 +5873,7 @@ Hypercoagulable factor is?
 
 <details><summary>Answer</summary>
 
-**C. Factor V Leiden** — Source: Medicoholic 2016 PYQ compilation.
+**C. Factor V Leiden** — **C. Factor V Leiden** — Factor V Leiden (G1691A mutation) makes Factor Va resistant to inactivation by Protein C; causes the most common inherited thrombophilia; Protein C, Protein S, and Antithrombin III are anticoagulant factors — their deficiency causes hypercoagulability.
 
 </details>
 
@@ -5893,7 +5893,7 @@ True about heterophilic receptors?
 
 <details><summary>Answer</summary>
 
-**C. Involved in cell adhesion** — Source: Medicoholic 2016 PYQ compilation.
+**C. Involved in cell adhesion** — **C. Involved in cell adhesion** — Heterophilic receptors bind to different ligands on adjacent cells (cell-cell adhesion molecules); examples include cadherins and integrins mediating heterophilic adhesion; distinct from homophilic receptors that bind identical molecules.
 
 </details>
 
@@ -5913,7 +5913,7 @@ Third order neurons of sensations from face arise in?
 
 <details><summary>Answer</summary>
 
-**C. Thalamus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Thalamus** — **C. Thalamus** — Third-order neurons for facial sensation arise in the thalamus (VPM — ventral posteromedial nucleus); first-order neurons: trigeminal ganglia; second-order: trigeminal sensory nuclei in brainstem; relay to somatosensory cortex (postcentral gyrus).
 
 </details>
 
@@ -5933,7 +5933,7 @@ Actin is which type of protein?
 
 <details><summary>Answer</summary>
 
-**C. Both** — Source: Medicoholic 2016 PYQ compilation.
+**C. Both** — **C. Both** — Actin exists as both G-actin (globular monomer, ~42 kDa) and F-actin (fibrous polymer formed by polymerization of G-actin); F-actin forms the thin filaments of sarcomere; regulated by troponin-tropomyosin complex.
 
 </details>
 
@@ -5953,7 +5953,7 @@ NAD+ Acts as a coenzyme for ?
 
 <details><summary>Answer</summary>
 
-**D. Malate dehydrogenase** — Source: Medicoholic 2016 PYQ compilation.
+**D. Malate dehydrogenase** — **D. Malate dehydrogenase** — NAD+ is the coenzyme for malate dehydrogenase (TCA cycle: malate → oxaloacetate); also coenzyme for lactate dehydrogenase, pyruvate dehydrogenase, and isocitrate dehydrogenase; FAD is coenzyme for succinate dehydrogenase.
 
 </details>
 

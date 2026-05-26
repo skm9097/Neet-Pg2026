@@ -6539,7 +6539,7 @@ Chordoma arises from
 
 <details><summary>Answer</summary>
 
-**B. Notochord**
+**B. Notochord** — **B. Notochord** — Chordoma is a low-grade malignant tumour arising from notochordal remnants; it occurs at the ends of the axial skeleton — sacrococcygeal region (50%) and skull base/clivus (35%); characterised by physaliphorous cells.
 
 </details>
 
@@ -6701,7 +6701,7 @@ New born baby with heart rate less than 60 beats per minute can be resuscitated 
 
 <details><summary>Answer</summary>
 
-**D. slapping the back**
+**D. slapping the back** — **D. Slapping the back** — Slapping a newborn's back is never recommended in neonatal resuscitation; acceptable tactile stimulation includes drying, rubbing the back gently, and flicking the soles; chest compressions are needed for HR <60 bpm.
 
 </details>
 
@@ -6719,7 +6719,7 @@ Mobitz type 2 second degree AV block is seen in all except
 
 <details><summary>Answer</summary>
 
-**D. Cushing syndrome**
+**D. Cushing syndrome** — **D. Cushing syndrome** — Mobitz type II AV block is associated with structural disease: CAD, sarcoidosis, hypothyroidism, Lyme disease, and aortic valve disease; Cushing syndrome (hypercortisolism) does not classically cause Mobitz type II block.
 
 </details>
 

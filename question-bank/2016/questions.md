@@ -1747,7 +1747,7 @@ Palpable femur head on per rectal exam is a feature of which of the following co
 
 <details><summary>Answer</summary>
 
-**C. Central hip dislocation** — Source: Medicoholic 2016 PYQ compilation.
+**C. Central hip dislocation** — **C. Central hip dislocation** — In central (acetabular) dislocation, the femoral head is driven medially through the acetabular floor into the pelvis, making it palpable on per-rectal examination.
 
 </details>
 
@@ -1765,7 +1765,7 @@ The most common complication of intracapsular fracture neck of femur is
 
 <details><summary>Answer</summary>
 
-**C. Non-Union** — Source: Medicoholic 2016 PYQ compilation.
+**C. Non-Union** — **C. Non-Union** — Intracapsular femoral neck fractures disrupt the blood supply (retinacular vessels from medial femoral circumflex artery), leading to high rates of avascular necrosis and non-union.
 
 </details>
 
@@ -1783,7 +1783,7 @@ All of the following are true regarding fracture of lateral condyle of humerus e
 
 <details><summary>Answer</summary>
 
-**B. Results in Gun stock deformity** — Source: Medicoholic 2016 PYQ compilation.
+**B. Results in Gun stock deformity** — **B. Results in Gun stock deformity** — Gunstock (cubitus varus) deformity results from malunion of supracondylar fractures, not lateral condyle fractures; lateral condyle fractures heal with cubitus valgus (increased carrying angle).
 
 </details>
 
@@ -1801,7 +1801,7 @@ Most common complication of fracture of tibia
 
 <details><summary>Answer</summary>
 
-**C. Delayed union** — Source: Medicoholic 2016 PYQ compilation.
+**C. Delayed union** — **C. Delayed union** — The tibia has the highest rate of delayed/non-union among long bones due to poor blood supply (no muscle in the distal third) and high incidence of open fractures.
 
 </details>
 
@@ -1819,7 +1819,7 @@ Dunlop traction is a type of traction used in management of
 
 <details><summary>Answer</summary>
 
-**A. Fracture humerus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fracture humerus** — **A. Fracture humerus** — Dunlop (side-arm) traction is used in the management of supracondylar humerus fractures in children when swelling prevents immediate surgery; maintains alignment and monitors neurovascular status.
 
 </details>
 
@@ -1837,7 +1837,7 @@ Which of the following is true about CTEV
 
 <details><summary>Answer</summary>
 
-**C. Talus is displaced medial and plantarwards** — Source: Medicoholic 2016 PYQ compilation.
+**C. Talus is displaced medial and plantarwards** — **C. Talus is displaced medial and plantarwards** — In CTEV (clubfoot), the talus is displaced medially and plantarflexed; the foot shows equinus, varus, adductus, and cavus (CAVE mnemonic).
 
 </details>
 
@@ -1855,7 +1855,7 @@ Which of the following is/are feature/s of sprengels deformity?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Sprengel's deformity (congenital undescended scapula) presents with elevated shoulder, smaller/rotated scapula, short neck, and restricted shoulder abduction; may have an omovertebral bone.
 
 </details>
 
@@ -1873,7 +1873,7 @@ Which of the following is/are feature/s of sprengels deformity?
 
 <details><summary>Answer</summary>
 
-**A. Local resection** — Source: Medicoholic 2016 PYQ compilation.
+**A. Local resection** — **A. Local resection** — The description (slow-growing, distal femur metaphysis, gap between cortex and tumour, no cortical destruction) is classic for parosteal osteosarcoma, which is low-grade and treated by wide local resection.
 
 </details>
 
@@ -1891,7 +1891,7 @@ Proximal tibial epiphysis fuses at -
 
 <details><summary>Answer</summary>
 
-**C. 16 - 18 years** — Source: Medicoholic 2016 PYQ compilation.
+**C. 16 - 18 years** — **C. 16 - 18 years** — The proximal tibial epiphysis fuses at 16-18 years; the distal femoral epiphysis (last to appear, first to fuse) is a key landmark in forensic age estimation.
 
 </details>
 
@@ -1909,7 +1909,7 @@ Management of displaced non comminuted intercondylar humerus fracture is -
 
 <details><summary>Answer</summary>
 
-**A. Open reduction internal fixation** — Source: Medicoholic 2016 PYQ compilation.
+**A. Open reduction internal fixation** — **A. Open reduction internal fixation** — Displaced non-comminuted intercondylar (T/Y) humerus fractures in adults require ORIF with dual plating (parallel or perpendicular) for anatomical reduction and early mobilisation.
 
 </details>
 
@@ -1927,7 +1927,7 @@ Nerve injured in McRoberts maneuver is ?
 
 <details><summary>Answer</summary>
 
-**C. Femoral nerve** — Source: Medicoholic 2016 PYQ compilation.
+**C. Femoral nerve** — **C. Femoral nerve** — McRoberts maneuver (extreme hip flexion for shoulder dystocia) can stretch the femoral nerve (L2-L4) against the inguinal ligament, causing transient femoral neuropathy postpartum.
 
 </details>
 
@@ -1945,7 +1945,7 @@ Shortest transverse diameter is ?
 
 <details><summary>Answer</summary>
 
-**C. Bimastoid diameter** — Source: Medicoholic 2016 PYQ compilation.
+**C. Bimastoid diameter** — **C. Bimastoid diameter** — The bimastoid diameter (~7.5 cm) is the shortest transverse diameter of the fetal skull; the bitemporal (~8 cm) and biparietal (~9.5 cm) are successively larger.
 
 </details>
 
@@ -1963,7 +1963,7 @@ Treatment of choice for oral candidiasis is?
 
 <details><summary>Answer</summary>
 
-**B. Nystatin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Nystatin** — **B. Nystatin** — Nystatin oral suspension (swish and swallow) is the first-line treatment for oral candidiasis (thrush); it acts by binding ergosterol in the fungal cell membrane causing pore formation.
 
 </details>
 
@@ -5384,7 +5384,7 @@ Distending capacity of lung is maximum at?
 
 <details><summary>Answer</summary>
 
-**A. Apex** — Source: Medicoholic 2016 PYQ compilation.
+**A. Apex** — **A. Apex** — Lung apex has greater resting distension (more negative intrapleural pressure ~−10 cmH2O vs base ~−2.5 cmH2O) but is already near the flat part of compliance curve; therefore, for a given pressure change, BASE has greater ventilation; apical alveoli are less compliant at rest.
 
 </details>
 
@@ -5402,7 +5402,7 @@ Action potential in cardiac muscles is due to which ions?
 
 <details><summary>Answer</summary>
 
-**D. CI?** — Source: Medicoholic 2016 PYQ compilation.
+**D. CI?** — **D. CI?** — Note: The question options contain a typo; cardiac action potential plateau (Phase 2) is maintained by slow Ca2+ influx via L-type (slow) calcium channels balanced by K+ outflow; fast depolarization (Phase 0) is due to Na+ influx.
 
 </details>
 
@@ -5420,7 +5420,7 @@ Baroreceptors are related to which vessels?
 
 <details><summary>Answer</summary>
 
-**A. Internal carotid artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Internal carotid artery** — **A. Internal carotid artery** — Carotid sinus baroreceptors are located at the base of the internal carotid artery (at bifurcation of common carotid); they are high-pressure receptors responding to arterial stretch; afferents via Hering's nerve (branch of CN IX).
 
 </details>
 
@@ -5438,7 +5438,7 @@ Effect of positive G?
 
 <details><summary>Answer</summary>
 
-**C. Decreased cardiac output** — Source: Medicoholic 2016 PYQ compilation.
+**C. Decreased cardiac output** — **C. Decreased cardiac output** — Positive G-force (head-to-foot) shifts blood to lower extremities; reduces venous return to heart; decreases preload → decreased stroke volume and cardiac output (Frank-Starling mechanism); can cause G-LOC (G-force loss of consciousness).
 
 </details>
 
@@ -5456,7 +5456,7 @@ Which of the following cause increase in pulmonary arterial pressure?
 
 <details><summary>Answer</summary>
 
-**B. Hypoxia** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hypoxia** — **B. Hypoxia** — Hypoxic pulmonary vasoconstriction (HPV/Euler-Liljestrand reflex): alveolar hypoxia causes pulmonary arteriolar constriction via K+ channel inhibition → smooth muscle depolarization → Ca2+ influx; opposite to systemic vasodilation response.
 
 </details>
 
@@ -5474,7 +5474,7 @@ Most important cerebral vasodilator?
 
 <details><summary>Answer</summary>
 
-**A. H+** — Source: Medicoholic 2016 PYQ compilation.
+**A. H+** — **A. H+** — H+ ions (from CO2 + H2O ↔ H2CO3 ↔ H+ + HCO3-) are the most potent local cerebral vasodilators; increased PaCO2 → increased [H+] in brain interstitium → smooth muscle relaxation → increased cerebral blood flow.
 
 </details>
 
@@ -5492,7 +5492,7 @@ Renin secretion is decreased by?
 
 <details><summary>Answer</summary>
 
-**C. Nacl in distal tubules** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nacl in distal tubules** — **C. NaCl in distal tubules** — Increased NaCl delivery to macula densa cells stimulates tubuloglomerular feedback, decreasing renin secretion from juxtaglomerular cells via adenosine and ATP; also decreased by hypertension, increased sympathetic activity (β1 stimulates renin).
 
 </details>
 
@@ -5510,7 +5510,7 @@ True about function of distal convoluted tubule?
 
 <details><summary>Answer</summary>
 
-**C. Water reabsorption by ADH** — Source: Medicoholic 2016 PYQ compilation.
+**C. Water reabsorption by ADH** — **C. Water reabsorption by ADH** — DCT and collecting duct reabsorb water in response to ADH (vasopressin) via V2 receptors → cAMP → insertion of aquaporin-2 (AQP-2) channels; DCT also reabsorbs Na+ via NCC (thiazide-sensitive), not NKCC2.
 
 </details>
 
@@ -5528,7 +5528,7 @@ Function of Lacis cells in nephron?
 
 <details><summary>Answer</summary>
 
-**D. Regulation of vasoconstriction / vasodilatation of arterioles** — Source: Medicoholic 2016 PYQ compilation.
+**D. Regulation of vasoconstriction / vasodilatation of arterioles** — **D. Regulation of vasoconstriction / vasodilatation of arterioles** — Lacis cells (extraglomerular mesangial cells / Goormaghtigh cells) are located at the vascular pole of the glomerulus; they regulate afferent and efferent arteriolar tone and participate in tubuloglomerular feedback signaling.
 
 </details>
 
@@ -5546,7 +5546,7 @@ Plasma inulin of a person is 4 mg/ml and urine flow rate is 20 ml/min. What will
 
 <details><summary>Answer</summary>
 
-**B. 250 ml/min** — Source: Medicoholic 2016 PYQ compilation.
+**B. 250 ml/min** — **B. 250 ml/min** — GFR = (Urine inulin × Urine flow) / Plasma inulin = (50 mg/ml × 20 ml/min) / 4 mg/ml = 1000/4 = 250 ml/min; inulin clearance formula measures GFR as it is freely filtered without secretion or reabsorption.
 
 </details>
 
@@ -5564,7 +5564,7 @@ True about aquaporins are all except ?
 
 <details><summary>Answer</summary>
 
-**C. Aquaporin-2 in loop of Henle** — Source: Medicoholic 2016 PYQ compilation.
+**C. Aquaporin-2 in loop of Henle** — **C. Aquaporin-2 in loop of Henle** — AQP-1 is in PCT and thin descending limb of loop of Henle; AQP-2 is in collecting duct (ADH-regulated); AQP-3 and AQP-4 are in basolateral membrane of collecting duct; AQP-2 is NOT in loop of Henle.
 
 </details>
 
@@ -5582,7 +5582,7 @@ Maximum fat absorption in GI tract occurs in?
 
 <details><summary>Answer</summary>
 
-**B. Jejunum** — Source: Medicoholic 2016 PYQ compilation.
+**B. Jejunum** — **B. Jejunum** — Maximum fat absorption occurs in the jejunum; dietary fat is emulsified by bile salts, digested by pancreatic lipase to monoglycerides and fatty acids, incorporated into micelles, then absorbed across jejunal brush border; long-chain FAs enter lymphatics via chylomicrons.
 
 </details>
 
@@ -5600,7 +5600,7 @@ If the ileum is excised, what will increase in stool?
 
 <details><summary>Answer</summary>
 
-**A. Bile salts** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bile salts** — **A. Bile salts** — Ileum is the exclusive site of active bile salt reabsorption (enterohepatic circulation); ileal resection → bile salt malabsorption → excess bile salts in colon → secretory diarrhea; also causes fat malabsorption (steatorrhea) and fat-soluble vitamin deficiency.
 
 </details>
 
@@ -5618,7 +5618,7 @@ Daily fecal urobilinogen excretion in healthy adults?
 
 <details><summary>Answer</summary>
 
-**D. 40-280 mg** — Source: Medicoholic 2016 PYQ compilation.
+**D. 40-280 mg** — **D. 40-280 mg** — Normal daily fecal urobilinogen (stercobilinogen) excretion is 40–280 mg/day; it is formed by bacterial reduction of bilirubin in the colon; gives stool its brown color; absent in obstructive jaundice (clay-colored stools).
 
 </details>
 
@@ -5636,7 +5636,7 @@ Maximum daily degradation of hemoglobin in normal adults?
 
 <details><summary>Answer</summary>
 
-**D. 8 gm** — Source: Medicoholic 2016 PYQ compilation.
+**D. 8 gm** — **D. 8 gm** — Normal RBC lifespan is 120 days; with ~800 g total Hb and 120-day lifespan, approximately 6–8 g Hb is degraded daily; each gram yields ~34 mg bilirubin; total daily bilirubin production ~250–300 mg.
 
 </details>
 
@@ -5654,7 +5654,7 @@ cAMP activates?
 
 <details><summary>Answer</summary>
 
-**A. Protein kinase 'A'** — Source: Medicoholic 2016 PYQ compilation.
+**A. Protein kinase 'A'** — **A. Protein kinase 'A'** — cAMP is the second messenger for Gs-coupled receptors (β-adrenergic, glucagon, PTH); cAMP activates Protein Kinase A (PKA) by releasing its regulatory subunits; PKA phosphorylates numerous target proteins, altering cell function.
 
 </details>
 
@@ -5672,7 +5672,7 @@ Gene for insulin responsive glucose transporter is located on chromosome?
 
 <details><summary>Answer</summary>
 
-**C. 17** — Source: Medicoholic 2016 PYQ compilation.
+**C. 17** — **C. 17** — GLUT4 (insulin-responsive glucose transporter) gene is located on chromosome 17q25; expressed in skeletal muscle, cardiac muscle, and adipose tissue; insulin triggers GLUT4 vesicle translocation to plasma membrane via PI3K-Akt-AS160 pathway.
 
 </details>
 
@@ -5690,7 +5690,7 @@ True about ACTH and cortisol [corticosteroid] secretion?
 
 <details><summary>Answer</summary>
 
-**B. ACTH has negative feed-back control** — Source: Medicoholic 2016 PYQ compilation.
+**B. ACTH has negative feed-back control** — **B. ACTH has negative feed-back control** — Cortisol exerts negative feedback on both pituitary (suppresses ACTH secretion) and hypothalamus (suppresses CRH); maximum ACTH/cortisol secretion is in the early morning (6–8 AM), not evening; this circadian rhythm follows the HPA axis.
 
 </details>
 
@@ -5708,7 +5708,7 @@ All are true regarding intracellular receptors, except?
 
 <details><summary>Answer</summary>
 
-**B. Fastest acting receptors** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fastest acting receptors** — **B. Fastest acting receptors** — Intracellular (nuclear) receptors (glucocorticoids, thyroid hormones, sex steroids) act by regulating gene transcription; they are the SLOWEST acting receptors (hours to days); fastest are ion channel-linked receptors (milliseconds).
 
 </details>
 
@@ -5726,7 +5726,7 @@ Hormone which affects IC* ion concentration?
 
 <details><summary>Answer</summary>
 
-**C. Insulin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Insulin** — **C. Insulin** — Insulin drives K+ into cells (via Na-K-ATPase stimulation and direct membrane effects); used to treat hyperkalemia; also drives glucose and amino acids intracellularly; its absence in DKA leads to dangerous hyperkalemia.
 
 </details>
 
@@ -5744,7 +5744,7 @@ Tissue factor activates?
 
 <details><summary>Answer</summary>
 
-**D. In vivo pathway** — Source: Medicoholic 2016 PYQ compilation.
+**D. In vivo pathway** — **D. In vivo pathway** — Tissue factor (TF/Factor III) activates the extrinsic (in vivo) coagulation pathway; TF-Factor VIIa complex activates Factors X and IX; this is the primary in vivo mechanism of coagulation initiation after vascular injury.
 
 </details>
 
@@ -5762,7 +5762,7 @@ Tisse factor activates?
 
 <details><summary>Answer</summary>
 
-**A. Preaccelerin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Preaccelerin** — **A. Preaccelerin** — Tissue factor (extrinsic pathway) ultimately leads to activation of the common pathway; however, in context, tissue factor-VIIa complex activates Factor X (Stuart factor) which then activates Factor V (preaccelerin/labile factor) in prothrombinase complex.
 
 </details>
 
@@ -5780,7 +5780,7 @@ Maximum storage of magnesium occurs in which part of body?
 
 <details><summary>Answer</summary>
 
-**D. Bone** — Source: Medicoholic 2016 PYQ compilation.
+**D. Bone** — **D. Bone** — Approximately 60–65% of total body magnesium is stored in bone; 27% in muscle; only 1% in serum; normal serum Mg2+ is 1.5–2.5 mEq/L; Mg2+ is a cofactor for all ATP-requiring reactions and DNA/RNA synthesis.
 
 </details>
 
@@ -5816,7 +5816,7 @@ Inhibition of Na* ATPase leads to?
 
 <details><summary>Answer</summary>
 
-**B. Increased Ca' in the cell** — Source: Medicoholic 2016 PYQ compilation.
+**B. Increased Ca' in the cell** — **B. Increased Ca' in the cell** — Na-K-ATPase inhibition (by digoxin/cardiac glycosides) → intracellular Na+ accumulates → Na+/Ca2+ exchanger (NCX) reverses → intracellular Ca2+ increases → enhanced cardiac contractility (positive inotropy).
 
 </details>
 
@@ -5834,7 +5834,7 @@ Hypercoagulable factor is?
 
 <details><summary>Answer</summary>
 
-**C. Factor V Leiden** — Source: Medicoholic 2016 PYQ compilation.
+**C. Factor V Leiden** — **C. Factor V Leiden** — Factor V Leiden (G1691A mutation) makes Factor Va resistant to inactivation by Protein C; causes the most common inherited thrombophilia; Protein C, Protein S, and Antithrombin III are anticoagulant factors — their deficiency causes hypercoagulability.
 
 </details>
 
@@ -5852,7 +5852,7 @@ True about heterophilic receptors?
 
 <details><summary>Answer</summary>
 
-**C. Involved in cell adhesion** — Source: Medicoholic 2016 PYQ compilation.
+**C. Involved in cell adhesion** — **C. Involved in cell adhesion** — Heterophilic receptors bind to different ligands on adjacent cells (cell-cell adhesion molecules); examples include cadherins and integrins mediating heterophilic adhesion; distinct from homophilic receptors that bind identical molecules.
 
 </details>
 
@@ -5870,7 +5870,7 @@ Third order neurons of sensations from face arise in?
 
 <details><summary>Answer</summary>
 
-**C. Thalamus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Thalamus** — **C. Thalamus** — Third-order neurons for facial sensation arise in the thalamus (VPM — ventral posteromedial nucleus); first-order neurons: trigeminal ganglia; second-order: trigeminal sensory nuclei in brainstem; relay to somatosensory cortex (postcentral gyrus).
 
 </details>
 
@@ -5888,7 +5888,7 @@ Actin is which type of protein?
 
 <details><summary>Answer</summary>
 
-**C. Both** — Source: Medicoholic 2016 PYQ compilation.
+**C. Both** — **C. Both** — Actin exists as both G-actin (globular monomer, ~42 kDa) and F-actin (fibrous polymer formed by polymerization of G-actin); F-actin forms the thin filaments of sarcomere; regulated by troponin-tropomyosin complex.
 
 </details>
 
@@ -5906,7 +5906,7 @@ NAD+ Acts as a coenzyme for ?
 
 <details><summary>Answer</summary>
 
-**D. Malate dehydrogenase** — Source: Medicoholic 2016 PYQ compilation.
+**D. Malate dehydrogenase** — **D. Malate dehydrogenase** — NAD+ is the coenzyme for malate dehydrogenase (TCA cycle: malate → oxaloacetate); also coenzyme for lactate dehydrogenase, pyruvate dehydrogenase, and isocitrate dehydrogenase; FAD is coenzyme for succinate dehydrogenase.
 
 </details>
 
@@ -8465,7 +8465,7 @@ Prosthetic valves are predisposed to -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Prosthetic heart valves are complicated by thromboembolism (non-endothelialised surface activates coagulation), infective endocarditis (implant biofilm), and mechanical haemolysis (shear stress fragmenting RBCs).
 
 </details>
 
@@ -8483,7 +8483,7 @@ Infarcts involving which portion of the myocardium cause aneurysm as a post- MI 
 
 <details><summary>Answer</summary>
 
-**D. Inferior wall** — Source: Medicoholic 2016 PYQ compilation.
+**D. Inferior wall** — **D. Inferior wall** — Wait: The standard teaching is that anterior transmural MI (LAD territory) most commonly causes ventricular aneurysm. However, the answer key states D (inferior wall). Anterior wall aneurysm is classically more common.
 
 </details>
 
@@ -8501,7 +8501,7 @@ In patients with hypertrophic cardiomyopathy maximum mutations are found in whic
 
 <details><summary>Answer</summary>
 
-**A. . β - myosin heavy chain** — Source: Medicoholic 2016 PYQ compilation.
+**A. . β - myosin heavy chain** — **A. β-myosin heavy chain** — The most common genetic mutations in hypertrophic cardiomyopathy (HCM) occur in MYH7 (β-myosin heavy chain), accounting for ~35–40% of cases; MYBPC3 (myosin binding protein C) is second most common.
 
 </details>
 
@@ -8519,7 +8519,7 @@ Mutation in protein associated with restrictive cardiomyopathy?
 
 <details><summary>Answer</summary>
 
-**C. Troponin I** — Source: Medicoholic 2016 PYQ compilation.
+**C. Troponin I** — **C. Troponin I** — Mutations in cardiac troponin I (TNNI3) are associated with restrictive cardiomyopathy, causing impaired cardiac relaxation and diastolic dysfunction; troponin I normally inhibits actin-myosin interaction during relaxation.
 
 </details>
 
@@ -8537,7 +8537,7 @@ Takayasu arteritis mainly affects?
 
 <details><summary>Answer</summary>
 
-**C. Subclavian artery** — Source: Medicoholic 2016 PYQ compilation.
+**C. Subclavian artery** — **C. Subclavian artery** — Takayasu arteritis (pulseless disease) is a granulomatous large vessel vasculitis predominantly affecting the aorta and its proximal branches, especially subclavian arteries, causing upper limb claudication and absent pulses.
 
 </details>
 
@@ -8555,7 +8555,7 @@ Gall stones in hemolytic anaemia are -
 
 <details><summary>Answer</summary>
 
-**A. Pigment** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pigment** — **A. Pigment** — Chronic haemolytic anaemias (e.g., sickle cell, spherocytosis, thalassaemia) cause excess bilirubin production from RBC destruction; unconjugated bilirubin precipitates with calcium in bile forming black pigment stones (calcium bilirubinate).
 
 </details>
 
@@ -8573,7 +8573,7 @@ Hypercoagulability due to defective factor V gene is called :
 
 <details><summary>Answer</summary>
 
-**B. Leiden mutation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Leiden mutation** — **B. Leiden mutation** — Factor V Leiden is a point mutation (R506Q) in the factor V gene that makes factor Va resistant to inactivation by activated protein C, causing the most common inherited hypercoagulable state.
 
 </details>
 
@@ -8591,7 +8591,7 @@ Cryoprecipitate contains:
 
 <details><summary>Answer</summary>
 
-**C. Factor VIII** — Source: Medicoholic 2016 PYQ compilation.
+**C. Factor VIII** — **C. Factor VIII** — Cryoprecipitate (cold-precipitated fraction of FFP) is rich in factor VIII, von Willebrand factor, fibrinogen, factor XIII, and fibronectin; it is used for haemophilia A, von Willebrand disease, and hypofibrinogenaemia.
 
 </details>
 
@@ -8609,7 +8609,7 @@ Which of the following is a pro- coagulant?
 
 <details><summary>Answer</summary>
 
-**D. Thrombin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Thrombin** — **D. Thrombin** — Thrombin (factor IIa) is the central procoagulant: it converts fibrinogen to fibrin, activates platelets, amplifies coagulation by activating factors V, VIII, XI, and XIII, and stimulates endothelium.
 
 </details>
 
@@ -8627,7 +8627,7 @@ Which test is used for both intrinsic and common clotting pathways?
 
 <details><summary>Answer</summary>
 
-**B. Partial thromboplastin time** — Source: Medicoholic 2016 PYQ compilation.
+**B. Partial thromboplastin time** — **B. Partial thromboplastin time** — aPTT (activated partial thromboplastin time) evaluates the intrinsic pathway (factors XII, XI, IX, VIII) and common pathway (X, V, II, I); PT/INR evaluates extrinsic and common pathway.
 
 </details>
 
@@ -8645,7 +8645,7 @@ Maximum life of transfused RBCs is
 
 <details><summary>Answer</summary>
 
-**B. 80-100 days** — Source: Medicoholic 2016 PYQ compilation.
+**B. 80-100 days** — **B. 80-100 days** — Transfused RBCs have a shortened lifespan compared to normal 120 days; storage-damaged cells are cleared faster, giving an effective survival of approximately 80–100 days post-transfusion.
 
 </details>
 
@@ -8663,7 +8663,7 @@ Hemolytic Uremic Syndrome is characterized by ?
 
 <details><summary>Answer</summary>
 
-**D. a and c** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and c** — **D. a and c** — Haemolytic uraemic syndrome (HUS) is characterised by microangiopathic haemolytic anaemia (MAHA), thrombocytopenia, and acute kidney injury; Coombs test is negative (mechanical/non-immune haemolysis).
 
 </details>
 
@@ -8681,7 +8681,7 @@ Left side shift in Arneth's count is seen in?
 
 <details><summary>Answer</summary>
 
-**C. TB** — Source: Medicoholic 2016 PYQ compilation.
+**C. TB** — **C. TB** — Left shift in Arneth count means increase in young neutrophils (fewer nuclear lobes); this occurs in acute bacterial infections including tuberculosis, reflecting accelerated granulopoiesis to meet increased demand.
 
 </details>
 
@@ -8699,7 +8699,7 @@ Most common heavy chain disease is
 
 <details><summary>Answer</summary>
 
-**B. Seligmann disease** — Source: Medicoholic 2016 PYQ compilation.
+**B. Seligmann disease** — **B. Seligmann disease** — Seligmann disease (α heavy chain disease / IPSID) is the most common heavy chain disease, involving IgA α-chain, predominantly affecting the small intestinal mucosa in Mediterranean/Middle Eastern populations.
 
 </details>
 
@@ -8717,7 +8717,7 @@ Dutcher bodies are seen in?
 
 <details><summary>Answer</summary>
 
-**D. Bone marrow** — Source: Medicoholic 2016 PYQ compilation.
+**D. Bone marrow** — **D. Bone marrow** — Dutcher bodies are intranuclear pseudoinclusions of PAS-positive immunoglobulin seen in plasma cells/lymphoplasmacytic cells in the bone marrow, characteristic of Waldenström macroglobulinaemia and multiple myeloma.
 
 </details>
 
@@ -8735,7 +8735,7 @@ Basophillic leucocytosis occurs in -
 
 <details><summary>Answer</summary>
 
-**C. CML** — Source: Medicoholic 2016 PYQ compilation.
+**C. CML** — **C. CML** — Basophilia (basophilic leucocytosis) is a hallmark of chronic myeloid leukaemia (CML); >1% basophils on peripheral smear is characteristic, and basophilia may increase during blast crisis.
 
 </details>
 
@@ -8753,7 +8753,7 @@ TEL-AML 1 fusion is associated with?
 
 <details><summary>Answer</summary>
 
-**C. ALL** — Source: Medicoholic 2016 PYQ compilation.
+**C. ALL** — **C. ALL** — TEL-AML1 fusion gene (ETV6-RUNX1), resulting from t(12;21), is the most common chromosomal translocation in childhood B-cell ALL (~25% of cases), associated with favourable prognosis.
 
 </details>
 
@@ -8771,7 +8771,7 @@ Most common cancer found in coal mine workers
 
 <details><summary>Answer</summary>
 
-**C. Lung** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lung** — **C. Lung** — Coal mine workers are exposed to coal dust and silica particles, causing pneumoconiosis; prolonged occupational dust and carcinogen exposure (including radon and polycyclic hydrocarbons) markedly increases lung cancer risk.
 
 </details>
 
@@ -8789,7 +8789,7 @@ In allergic bronchopulmonary aspergillosis, the location of lesions is
 
 <details><summary>Answer</summary>
 
-**B. Bronchi and bronchioles** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bronchi and bronchioles** — **B. Bronchi and bronchioles** — Allergic bronchopulmonary aspergillosis (ABPA) is a hypersensitivity reaction to Aspergillus colonising the bronchi and bronchioles, causing mucoid impaction, central bronchiectasis, and eosinophilic infiltration.
 
 </details>
 
@@ -8807,7 +8807,7 @@ Vitamin deficiency associated with cystic fibrosis is
 
 <details><summary>Answer</summary>
 
-**D. B12** — Source: Medicoholic 2016 PYQ compilation.
+**D. B12** — **D. B12** — Wait: Cystic fibrosis causes exocrine pancreatic insufficiency leading to malabsorption of fat-soluble vitamins (A, D, E, K). The answer key states D (B12), likely due to pancreatic enzyme deficiency impairing B12 release. Fat-soluble vitamins are classically affected.
 
 </details>
 
@@ -8825,7 +8825,7 @@ Folding defect is associated with which disease
 
 <details><summary>Answer</summary>
 
-**A. Parkinson's disease** — Source: Medicoholic 2016 PYQ compilation.
+**A. Parkinson's disease** — **A. Parkinson's disease** — Parkinson's disease is a protein misfolding/aggregation disorder; α-synuclein misfolds and accumulates as Lewy bodies in dopaminergic neurons; prion, Alzheimer's, and Huntington's diseases also involve pathological protein misfolding.
 
 </details>
 
@@ -8843,7 +8843,7 @@ Diphtheria toxin's mechanism of action is:
 
 <details><summary>Answer</summary>
 
-**B. Inhibiting protein synthesis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inhibiting protein synthesis** — **B. Inhibiting protein synthesis** — Diphtheria toxin ADP-ribosylates and inactivates Elongation Factor-2 (EF-2/translocase), halting translocation of the peptidyl-tRNA on the ribosome and completely blocking eukaryotic protein synthesis.
 
 </details>
 
@@ -8861,7 +8861,7 @@ Amino acid metabolism is implicated in which disease?
 
 <details><summary>Answer</summary>
 
-**A. Maple syrup urine disease** — Source: Medicoholic 2016 PYQ compilation.
+**A. Maple syrup urine disease** — **A. Maple syrup urine disease** — MSUD results from deficiency of branched-chain α-keto acid dehydrogenase, impairing catabolism of branched-chain amino acids (leucine, isoleucine, valine); toxic accumulation causes neurotoxicity, metabolic acidosis, and ketosis.
 
 </details>
 
@@ -8879,7 +8879,7 @@ Hypopigmented macules are found in?
 
 <details><summary>Answer</summary>
 
-**D. Tuberous sclerosis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Tuberous sclerosis** — **D. Tuberous sclerosis** — Tuberous sclerosis (TSC1/TSC2 mutations) presents with hypopigmented ash-leaf macules (earliest cutaneous sign), shagreen patches, facial angiofibromas, and hamartomas in multiple organs.
 
 </details>
 
@@ -11636,7 +11636,7 @@ Lambert Eaton syndrome true is
 
 <details><summary>Answer</summary>
 
-**D. With continuous stimulation there is marked increase in** — Source: Medicoholic 2016 PYQ compilation.
+**D. With continuous stimulation there is marked increase in** — **D. With continuous stimulation there is marked increase in** — In Lambert-Eaton syndrome, repetitive high-frequency nerve stimulation causes an INCREMENTAL (facilitating) response on EMG, unlike myasthenia gravis which shows decrement; this reflects progressive calcium accumulation improving acetylcholine release from defective presynaptic terminals.
 
 </details>
 
@@ -11654,7 +11654,7 @@ Which of the following is not true about the development of thyroid tumors in no
 
 <details><summary>Answer</summary>
 
-**D. The risk of development of carcinoma is not correlated with the** — Source: Medicoholic 2016 PYQ compilation.
+**D. The risk of development of carcinoma is not correlated with the** — **D. The risk of development of carcinoma is not correlated with the** — The risk of thyroid carcinoma in nodular goitre IS correlated with nodule size (>4 cm), rapid growth, firmness, and other suspicious features; stating there is no correlation is false.
 
 </details>
 
@@ -11672,7 +11672,7 @@ Which of the following antineoplastic agents is used in the management of Hodgki
 
 <details><summary>Answer</summary>
 
-**A. Cisplatin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cisplatin** — **A. Cisplatin** — Cisplatin is used in salvage regimens for Hodgkin lymphoma (DHAP, GDP), relapsed non-Hodgkin lymphoma, and in combination for small cell lung carcinoma (BEP/EP regimens); it cross-links DNA strands causing cell death.
 
 </details>
 
@@ -11690,7 +11690,7 @@ Mantle field radiation was used for management of -
 
 <details><summary>Answer</summary>
 
-**A. Hodgkins lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hodgkins lymphoma** — **A. Hodgkins lymphoma** — Mantle field radiation historically treated Hodgkin lymphoma by irradiating bilateral cervical, supraclavicular, infraclavicular, axillary, mediastinal, and hilar nodes in a single field; largely abandoned due to long-term cardiopulmonary and secondary malignancy risks.
 
 </details>
 
@@ -11708,7 +11708,7 @@ Hadfields operation is performed for which of the following pathology?
 
 <details><summary>Answer</summary>
 
-**A. Duct ectasia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Duct ectasia** — **A. Duct ectasia** — Hadfield's operation (total duct excision) involves excision of all major subareolar lactiferous ducts; it is the definitive surgical treatment for mammary duct ectasia (periductal mastitis) presenting with nipple discharge, retraction, or recurrent retroareolar abscess.
 
 </details>
 
@@ -11726,7 +11726,7 @@ Previous radition therapy for which disease particulary increases the risk of br
 
 <details><summary>Answer</summary>
 
-**A. Hodgkins lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hodgkins lymphoma** — **A. Hodgkins lymphoma** — Chest/mantle field radiation for Hodgkin lymphoma (especially before age 30) significantly increases breast carcinoma risk 15–20 years later; relative risk is 3–7 fold higher, particularly for women irradiated between ages 10–30 years.
 
 </details>
 
@@ -11744,7 +11744,7 @@ True about small intestinal tumor is -
 
 <details><summary>Answer</summary>
 
-**D. Risk of developing small bowel tumor correlates positively with** — Source: Medicoholic 2016 PYQ compilation.
+**D. Risk of developing small bowel tumor correlates positively with** — **D. Risk of developing small bowel tumor correlates positively with** — The risk of small intestinal tumours correlates positively with conditions like Crohn's disease, coeliac disease, familial adenomatous polyposis (FAP), and Peutz-Jeghers syndrome; carcinoids are most common in the appendix and ileum, not duodenum.
 
 </details>
 
@@ -11762,7 +11762,7 @@ Meconium ileus is associated with:
 
 <details><summary>Answer</summary>
 
-**A. Cystic fibrosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cystic fibrosis** — **A. Cystic fibrosis** — Meconium ileus (obstruction by abnormally thick, inspissated meconium in the terminal ileum of neonates) occurs in ~15–20% of cystic fibrosis patients; CFTR mutation causes defective chloride transport, producing abnormally viscid intestinal secretions.
 
 </details>
 
@@ -11780,7 +11780,7 @@ Which of the following is not true about impingement syndrome?
 
 <details><summary>Answer</summary>
 
-**D. Surgical decompression of the subacromial space is frequently** — Source: Medicoholic 2016 PYQ compilation.
+**D. Surgical decompression of the subacromial space is frequently** — **D. Surgical decompression of the subacromial space is frequently** — Surgical decompression (acromioplasty) is NOT the primary treatment; conservative management (physiotherapy, NSAIDs, corticosteroid injections) is the first-line treatment, and surgery is reserved only for refractory cases failing 3–6 months of conservative therapy.
 
 </details>
 
@@ -11798,7 +11798,7 @@ All are features of inflammatory arthritis except?
 
 <details><summary>Answer</summary>
 
-**B. X-ray showing sclerosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. X-ray showing sclerosis** — **B. X-ray showing sclerosis** — Subchondral sclerosis on X-ray is a feature of degenerative (osteoarthritis), not inflammatory arthritis; inflammatory arthritis (RA, seronegative spondyloarthropathies) characteristically shows periarticular osteopenia, joint space narrowing, erosions, and soft tissue swelling.
 
 </details>
 
@@ -11816,7 +11816,7 @@ False about osteoarthritis is ?
 
 <details><summary>Answer</summary>
 
-**C. It is an inflammatory arthritis** — Source: Medicoholic 2016 PYQ compilation.
+**C. It is an inflammatory arthritis** — **C. It is an inflammatory arthritis** — Osteoarthritis is a NON-inflammatory (degenerative) arthritis characterised by progressive cartilage loss, subchondral sclerosis, osteophyte formation, and synovial fluid with low white cell count (<2000 cells/mm³); low ESR/CRP distinguishes it from inflammatory arthropathies.
 
 </details>
 
@@ -11834,7 +11834,7 @@ Therapeutic conization is indicated in?
 
 <details><summary>Answer</summary>
 
-**A. Microinvasive carcinoma cervix stage lal** — Source: Medicoholic 2016 PYQ compilation.
+**A. Microinvasive carcinoma cervix stage lal** — **A. Microinvasive carcinoma cervix stage Ia1** — Therapeutic cervical conisation (cone biopsy) is curative for FIGO Stage Ia1 cervical carcinoma (invasion ≤3 mm depth, ≤7 mm horizontal spread) with negative margins, preserving fertility; radical hysterectomy is required for Ia2 and above.
 
 </details>
 
@@ -11852,7 +11852,7 @@ Samson's theory for Development of Endometriosis is ?
 
 <details><summary>Answer</summary>
 
-**D. Retrograde menstruation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Retrograde menstruation** — **D. Retrograde menstruation** — Sampson's implantation theory proposes that viable endometrial cells travel retrograde through the fallopian tubes during menstruation, implant on peritoneal surfaces, and proliferate under oestrogen stimulation; it is the most widely accepted theory of endometriosis.
 
 </details>
 
@@ -11870,7 +11870,7 @@ Residual Hypopigmentation following a drug reaction, is best known as?
 
 <details><summary>Answer</summary>
 
-**C. Post inflammatory hypomelanosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Post inflammatory hypomelanosis** — **C. Post inflammatory hypomelanosis** — Post-inflammatory hypomelanosis (post-inflammatory hypopigmentation) is residual decreased pigmentation following any inflammatory skin reaction (including drug reactions, eczema, or infections) due to temporary melanocyte dysfunction or melanin transfer impairment; distinct from vitiligo or chemical leukoderma.
 
 </details>
 
@@ -17372,7 +17372,7 @@ Which of the following is not true for scabies?
 
 <details><summary>Answer</summary>
 
-**B. Burrows are intradermal lesions** — Source: Medicoholic 2016 PYQ compilation.
+**B. Burrows are intradermal lesions** — **B. Burrows are intradermal lesions** — Scabies burrows are intraepidermal (within the stratum corneum), not intradermal; the mite Sarcoptes scabiei var. hominis tunnels into the epidermis to lay eggs; burrows are the pathognomonic lesion seen in web spaces, wrists, and genitalia.
 
 </details>
 
@@ -25463,7 +25463,7 @@ Cauliflower ear seen in:
 
 <details><summary>Answer</summary>
 
-**A. Hematoma of the auricle** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hematoma of the auricle** — **A. Hematoma of the auricle** — Repeated auricular hematoma (trauma to pinna) causes organization and fibrosis of clotted blood between perichondrium and cartilage, resulting in the cauliflower-shaped deformity.
 
 </details>
 
@@ -25481,7 +25481,7 @@ In electrocochleography:
 
 <details><summary>Answer</summary>
 
-**B. Outer hair cells are mainly responsible for cochlear mi​‐** — Source: Medicoholic 2016 PYQ compilation.
+**B. Outer hair cells are mainly responsible for cochlear mi​‐** — **B. Outer hair cells are mainly responsible for cochlear microphonic** — Cochlear microphonics (CM) primarily reflect OHC electromotility; they mimic the acoustic stimulus waveform. Inner hair cells generate the compound action potential.
 
 </details>
 
@@ -25499,7 +25499,7 @@ Most common malignancy of middle ear is
 
 <details><summary>Answer</summary>
 
-**B. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squamous cell carcinoma** — **B. Squamous cell carcinoma** — SCC is the most common malignancy of the middle ear/temporal bone; arises from chronically infected mucosa (CSOM), presenting with blood-stained discharge, pain, and facial palsy.
 
 </details>
 
@@ -25517,7 +25517,7 @@ Most common benign tumor of ear canal is
 
 <details><summary>Answer</summary>
 
-**A. Osteomas** — Source: Medicoholic 2016 PYQ compilation.
+**A. Osteomas** — **A. Osteomas** — Osteomas are the most common benign bony outgrowths of the external auditory canal, typically unilateral, pedunculated, and arising near the bony-cartilaginous junction; associated with cold water swimming.
 
 </details>
 
@@ -25535,7 +25535,7 @@ Diplacusis is
 
 <details><summary>Answer</summary>
 
-**B. Hearing sounds of two different tones** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hearing sounds of two different tones** — **B. Hearing sounds of two different tones** — Diplacusis is a hearing distortion where the same sound is perceived as two different pitches in the two ears (binaural diplacusis); indicates cochlear damage, e.g., in Meniere's disease.
 
 </details>
 
@@ -25553,7 +25553,7 @@ Singapore ear is
 
 <details><summary>Answer</summary>
 
-**C. Otitis externa** — Source: Medicoholic 2016 PYQ compilation.
+**C. Otitis externa** — **C. Otitis externa** — Singapore ear refers to tropical otitis externa (diffuse external otitis), common in humid tropical climates; caused by Pseudomonas or fungi with macerated, infected external canal skin.
 
 </details>
 
@@ -25571,7 +25571,7 @@ A diabetic patient presents with foul smelling ear discharge, fever and severe p
 
 <details><summary>Answer</summary>
 
-**B. Antibiotic therapy** — Source: Medicoholic 2016 PYQ compilation.
+**B. Antibiotic therapy** — **B. Antibiotic therapy** — Malignant (necrotizing) otitis externa in diabetics is caused by Pseudomonas aeruginosa; treatment is prolonged systemic anti-pseudomonal antibiotics (ciprofloxacin); surgery reserved for complications.
 
 </details>
 
@@ -25589,7 +25589,7 @@ Which of the following is the function of tensor tympani muscle?
 
 <details><summary>Answer</summary>
 
-**B. Tenses tympanic membrane** — Source: Medicoholic 2016 PYQ compilation.
+**B. Tenses tympanic membrane** — **B. Tenses tympanic membrane** — Tensor tympani pulls the manubrium of malleus medially, increasing tympanic membrane tension; this reduces its vibration amplitude rather than specifically dampening loud sounds (stapedius reflex does that).
 
 </details>
 
@@ -25607,7 +25607,7 @@ True about serous otitis media are all except ?
 
 <details><summary>Answer</summary>
 
-**C. Type C tympanogram** — Source: Medicoholic 2016 PYQ compilation.
+**C. Type C tympanogram** — **C. Type C tympanogram** — Serous otitis media (glue ear) produces Type B tympanogram (flat, no compliance peak due to middle ear fluid); Type C indicates negative middle ear pressure without effusion.
 
 </details>
 
@@ -25625,7 +25625,7 @@ Pink reflex through intact tympanic membrane in active otosclerosis is known as
 
 <details><summary>Answer</summary>
 
-**B. Schwartz sign** — Source: Medicoholic 2016 PYQ compilation.
+**B. Schwartz sign** — **B. Schwartz sign** — Schwartz sign (flamingo pink reflex) is seen through the intact tympanic membrane in active otosclerosis; indicates hypervascular otospongiotic foci in the promontory mucosa.
 
 </details>
 
@@ -25643,7 +25643,7 @@ A 10 year old child presents with non foul purulent smelling discharge, which is
 
 <details><summary>Answer</summary>
 
-**A. CSOM** — Source: Medicoholic 2016 PYQ compilation.
+**A. CSOM** — **A. CSOM** — Non-foul, non-offensive mucopurulent discharge with central perforation and paracusis Willisii (hearing better with discharge) is classic tubotympanic CSOM; discharge acts as a medium improving sound conduction.
 
 </details>
 
@@ -25661,7 +25661,7 @@ Treatment of central safe perforation of tympanic membrane includes all except
 
 <details><summary>Answer</summary>
 
-**C. Avulsion of aural polyp** — Source: Medicoholic 2016 PYQ compilation.
+**C. Avulsion of aural polyp** — **C. Avulsion of aural polyp** — Aural polyps in CSOM should NOT be avulsed as they may be attached to the ossicular chain; avulsion risks ossicular damage and worsening hearing loss. Gentle removal only after controlling infection.
 
 </details>
 
@@ -25679,7 +25679,7 @@ Which of the following terms is used to describe the most prominent point of nas
 
 <details><summary>Answer</summary>
 
-**A. Pronasale** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pronasale** — **A. Pronasale** — Pronasale (tip-defining point) is the most anteriorly projecting point of the nasal tip; nasion is the nasal bridge, alare is the widest nasal alar point, and columella apex is the columellar base.
 
 </details>
 
@@ -25697,7 +25697,7 @@ Epistaxis after ligating external carotid artery is due to which vessel?
 
 <details><summary>Answer</summary>
 
-**A. Anterior ethmoidal artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Anterior ethmoidal artery** — **A. Anterior ethmoidal artery** — Anterior ethmoidal artery (branch of ophthalmic artery from internal carotid) is not ligated when external carotid is ligated; it continues to supply the anterosuperior nasal septum, causing persistent epistaxis.
 
 </details>
 
@@ -25715,7 +25715,7 @@ Rhinolith can cause
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Rhinolith (calcified nasal foreign body) can cause nasal obstruction (mechanical blockage), epistaxis (mucosal erosion), and epiphora (nasolacrimal duct obstruction causing overflow of tears).
 
 </details>
 
@@ -25733,7 +25733,7 @@ Treatment of nasal bone fracture includes all except
 
 <details><summary>Answer</summary>
 
-**D. Immediate rhinoplasty** — Source: Medicoholic 2016 PYQ compilation.
+**D. Immediate rhinoplasty** — **D. Immediate rhinoplasty** — Nasal bone fractures are managed by hematoma drainage, decongestants, and closed reduction within 10-14 days; immediate rhinoplasty is contraindicated due to edema and infection risk.
 
 </details>
 
@@ -25751,7 +25751,7 @@ Lining epithelium of vocal cord is
 
 <details><summary>Answer</summary>
 
-**A. Stratified squamous epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**A. Stratified squamous epithelium** — **A. Stratified squamous epithelium** — The true vocal cords (free margin) are lined by non-keratinizing stratified squamous epithelium, adapted to withstand vibratory stress; rest of larynx has respiratory (ciliated columnar) epithelium.
 
 </details>
 
@@ -25769,7 +25769,7 @@ All the following are true about Laryngeal carcinoma except:
 
 <details><summary>Answer</summary>
 
-**A. More common in females** — Source: Medicoholic 2016 PYQ compilation.
+**A. More common in females** — **A. More common in females** — Laryngeal carcinoma is strongly male-predominant (M:F ~7:1); associated with smoking and alcohol. Age >40 is correct, and esophageal voice post-laryngectomy is a true rehabilitation option.
 
 </details>
 
@@ -25787,7 +25787,7 @@ A patient presents with Ca larynx involving left false cord, left arytenoid and 
 
 <details><summary>Answer</summary>
 
-**B. Horizontal partial hemilaryngectomy** — Source: Medicoholic 2016 PYQ compilation.
+**B. Horizontal partial hemilaryngectomy** — **B. Horizontal partial hemilaryngectomy** — Supraglottic (horizontal) partial laryngectomy removes epiglottis, false cords, and aryepiglottic folds with preservation of bilateral mobile true cords; spares voice and swallowing function.
 
 </details>
 
@@ -25805,7 +25805,7 @@ In recurrent laryngeal nerve palsy which muscle keeps vocal cord in median posit
 
 <details><summary>Answer</summary>
 
-**B. Cricothyroid** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cricothyroid** — **B. Cricothyroid** — Cricothyroid (supplied by external superior laryngeal nerve, not RLN) remains intact in RLN palsy; it tenses and elongates the vocal cord, keeping it in the paramedian/median position (cadaveric position).
 
 </details>
 
@@ -25823,7 +25823,7 @@ Simple mastoidectomy is done in:
 
 <details><summary>Answer</summary>
 
-**C. Coalescent mastoiditis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Coalescent mastoiditis** — **C. Coalescent mastoiditis** — Simple (cortical) mastoidectomy removes infected mastoid air cells to drain pus in coalescent mastoiditis; it preserves the canal wall and is distinct from modified radical or radical mastoidectomy for cholesteatoma.
 
 </details>
 
@@ -25841,7 +25841,7 @@ Membrane incised during hemilaryngectomy is
 
 <details><summary>Answer</summary>
 
-**B. Cricothyroid** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cricothyroid** — **B. Cricothyroid** — During vertical hemilaryngectomy, the cricothyroid membrane is incised to enter the larynx; this approach allows access to the glottis while preserving contralateral vocal cord function.
 
 </details>
 
@@ -25859,7 +25859,7 @@ Treatment of mooren's ulcer is?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Mooren's ulcer (idiopathic autoimmune peripheral corneal ulcer) is treated with topical steroids (for mild cases), systemic immunosuppressives (methotrexate/cyclosporine), and corneal grafting for severe disease.
 
 </details>
 
@@ -25877,7 +25877,7 @@ Which of the following Glycosaminoglycans are not present in cornea
 
 <details><summary>Answer</summary>
 
-**D. Heparin sulfate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Heparin sulfate** — **D. Heparin sulfate** — Corneal stroma contains keratan sulfate (most abundant) and chondroitin sulfate as principal GAGs providing hydration and transparency; heparan sulfate is not a normal corneal component.
 
 </details>
 
@@ -25895,7 +25895,7 @@ The percentage of atropine present in atropine drops as cycloplegic is:
 
 <details><summary>Answer</summary>
 
-**B. 1%** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1%** — **B. 1%** — Atropine 1% eye drops are the standard cycloplegic concentration used in children for refraction and amblyopia treatment; 0.5% is used in infants to reduce systemic toxicity risk.
 
 </details>
 
@@ -25913,7 +25913,7 @@ False about treatment of cataract in children is
 
 <details><summary>Answer</summary>
 
-**C. Lensectomy is not one of the methods of extracapsular** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lensectomy is not one of the methods of extracapsular** — **C. Lensectomy is not one of the methods of extracapsular** — Lensectomy IS an extracapsular technique used in pediatric cataracts; it removes lens material through a small incision, making this statement false.
 
 </details>
 
@@ -25931,7 +25931,7 @@ Cell bodies of Muller's Cells are present in which layer of retina?
 
 <details><summary>Answer</summary>
 
-**A. Inner limiting membrane** — Source: Medicoholic 2016 PYQ compilation.
+**A. Inner limiting membrane** — **A. Inner limiting membrane** — Muller cells are radial glial cells spanning the full retinal thickness; their cell bodies lie in the inner nuclear layer, but their end-feet form the inner limiting membrane at the vitreal surface.
 
 </details>
 
@@ -25949,7 +25949,7 @@ Which of the following is false statement about vitreous?
 
 <details><summary>Answer</summary>
 
-**A. Anatomically, vitreous is present in anterior segment** — Source: Medicoholic 2016 PYQ compilation.
+**A. Anatomically, vitreous is present in anterior segment** — **A. Anatomically, vitreous is present in anterior segment** — The vitreous occupies the posterior segment (posterior to the lens); the anterior segment contains aqueous humor. This statement is anatomically false.
 
 </details>
 
@@ -25967,7 +25967,7 @@ Onset of stereopsis occurs at the age of:
 
 <details><summary>Answer</summary>
 
-**A. 3 to 5 months** — Source: Medicoholic 2016 PYQ compilation.
+**A. 3 to 5 months** — **A. 3 to 5 months** — Stereopsis (binocular depth perception) develops between 3-5 months of age as cortical binocular vision matures; its critical period ends by age 7-8; Randot stereotest can assess it by age 3.
 
 </details>
 
@@ -25985,7 +25985,7 @@ Homonymous hemianopia type of visual field defect is seen in all except ?
 
 <details><summary>Answer</summary>
 
-**D. Optic chaisma** — Source: Medicoholic 2016 PYQ compilation.
+**D. Optic chaisma** — **D. Optic chiasma** — Optic chiasma lesions cause bitemporal hemianopia (heteronymous) due to decussating nasal fibers; homonymous hemianopia occurs with optic tract, LGB, optic radiation, or occipital cortex lesions.
 
 </details>
 
@@ -29354,7 +29354,7 @@ Use of PGF 2 a analogues is contraindicated in ?
 
 <details><summary>Answer</summary>
 
-**C. Bronchial asthma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Bronchial asthma** — **C. Bronchial asthma** — PGF2α analogues (carboprost, dinoprostone) cause bronchoconstriction via prostaglandin receptors in airway smooth muscle; they are absolutely contraindicated in asthma due to risk of severe bronchospasm.
 
 </details>
 
@@ -29372,7 +29372,7 @@ WHO VISION 2020 initiative includes ?
 
 <details><summary>Answer</summary>
 
-**B. Trachoma blindness** — Source: Medicoholic 2016 PYQ compilation.
+**B. Trachoma blindness** — **B. Trachoma blindness** — WHO VISION 2020 'Right to Sight' targets include trachoma, cataract, onchocerciasis, childhood blindness, refractive errors, and low vision; trachoma is a leading infectious cause of preventable blindness globally.
 
 </details>
 
@@ -29390,7 +29390,7 @@ Placido disc is used for diagnosing which of the following condition?
 
 <details><summary>Answer</summary>
 
-**B. Keratoconus** — Source: Medicoholic 2016 PYQ compilation.
+**B. Keratoconus** — **B. Keratoconus** — Placido's disc projects concentric rings onto the cornea to assess corneal curvature regularity; irregular, distorted mires indicate irregular astigmatism or keratoconus, confirming corneal ectasia.
 
 </details>
 
@@ -29408,7 +29408,7 @@ Spasm of accommodation mimics
 
 <details><summary>Answer</summary>
 
-**A. Myopia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Myopia** — **A. Myopia** — Ciliary muscle spasm causes excessive accommodation, leading to pseudo-myopia; the lens remains in a hyperconvergent state, shifting the focal point anterior to the retina mimicking axial myopia, correctable with cycloplegic refraction.
 
 </details>
 
@@ -29426,7 +29426,7 @@ Subretinal haemorrhage at the macula in myopia is known as?
 
 <details><summary>Answer</summary>
 
-**B. Foster Fuchs spot** — Source: Medicoholic 2016 PYQ compilation.
+**B. Foster Fuchs spot** — **B. Foster Fuchs spot** — In pathological myopia, choroidal neovascularisation leads to subretinal haemorrhage at the macula; the resulting dark pigmented scar is called a Foster-Fuchs spot (Fuchs' fleck), indicating severe macular damage.
 
 </details>
 
@@ -29444,7 +29444,7 @@ Goblet cells are seen in -
 
 <details><summary>Answer</summary>
 
-**B. Conjunctiva** — Source: Medicoholic 2016 PYQ compilation.
+**B. Conjunctiva** — **B. Conjunctiva** — Goblet cells (mucin-secreting unicellular glands) are found in the conjunctival epithelium, concentrated in the inferior fornix and palpebral conjunctiva; they produce mucin layer of the tear film for ocular surface lubrication.
 
 </details>
 
@@ -29462,7 +29462,7 @@ Schwalbe's ring corresponds to:
 
 <details><summary>Answer</summary>
 
-**B. Descemet's membrane** — Source: Medicoholic 2016 PYQ compilation.
+**B. Descemet's membrane** — **B. Descemet's membrane** — Schwalbe's ring (line) is the peripheral termination of Descemet's membrane at the corneoscleral junction; it is a gonioscopic landmark and is anteriorly displaced in Axenfeld-Rieger syndrome (posterior embryotoxon).
 
 </details>
 
@@ -29480,7 +29480,7 @@ Corneal epithelial repair includes all of the following phases except
 
 <details><summary>Answer</summary>
 
-**D. Cell fusion** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cell fusion** — **D. Cell fusion** — Corneal epithelial wound healing involves cell migration (sliding), cell proliferation (mitosis), and cell adhesion (hemidesmosome reformation); cell fusion is not a physiological mechanism of epithelial repair.
 
 </details>
 
@@ -29498,7 +29498,7 @@ A 50 year old male presents with cicatricial entopion of upper and lower eyelid.
 
 <details><summary>Answer</summary>
 
-**A. Trachoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Trachoma** — **A. Trachoma** — Arlt's line (linear conjunctival scar on upper tarsal conjunctiva) is pathognomonic of trachoma (Chlamydia trachomatis); cicatricial changes lead to entropion, trichiasis, and ultimately corneal blindness.
 
 </details>
 
@@ -29516,7 +29516,7 @@ Which of the following is not a feature of fungal corneal ulcer?
 
 <details><summary>Answer</summary>
 
-**C. Symptoms are more pronounced than signs** — Source: Medicoholic 2016 PYQ compilation.
+**C. Symptoms are more pronounced than signs** — **C. Symptoms are more pronounced than signs** — In fungal keratitis, signs (satellite lesions, fixed hypopyon, feathery margins, endothelial plaques) are often more pronounced than symptoms; bacterial ulcers are the ones with prominent pain relative to signs.
 
 </details>
 
@@ -29534,7 +29534,7 @@ Iron deposition line at edge of pterygium on corneal epithelium is known as?
 
 <details><summary>Answer</summary>
 
-**A. Stocker's line** — Source: Medicoholic 2016 PYQ compilation.
+**A. Stocker's line** — **A. Stocker's line** — Stocker's line is an iron deposit (haemosiderin) in the corneal epithelium at the advancing head of a pterygium; similar iron lines include Ferry's (filtering bleb), Hudson-Stähli (normal aging), and Fleischer's (keratoconus).
 
 </details>
 
@@ -29552,7 +29552,7 @@ Which order neuron is optic nerve in the visual pathway?
 
 <details><summary>Answer</summary>
 
-**B. Second order** — Source: Medicoholic 2016 PYQ compilation.
+**B. Second order** — **B. Second order** — Visual pathway: 1st order = photoreceptors (rods/cones); 2nd order = bipolar cells → ganglion cells → optic nerve; 3rd order = lateral geniculate nucleus neurons projecting to visual cortex.
 
 </details>
 
@@ -29570,7 +29570,7 @@ Which of the following is not a part of uveal
 
 <details><summary>Answer</summary>
 
-**D. Retina** — Source: Medicoholic 2016 PYQ compilation.
+**D. Retina** — **D. Retina** — The uveal tract consists of iris, ciliary body, and choroid (all pigmented vascular structures); the retina is a separate neuroepithelial layer derived from neuroectoderm, not part of the uvea.
 
 </details>
 
@@ -29588,7 +29588,7 @@ Blue dot cataract is caused by
 
 <details><summary>Answer</summary>
 
-**C. Atopic dermatitis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Atopic dermatitis** — **C. Atopic dermatitis** — Blue dot (cerulean) cataracts are associated with atopic dermatitis; they present as anterior subcapsular shield-like opacities. Wilson's disease causes sunflower cataract; chalcosis causes sunflower cataract too.
 
 </details>
 
@@ -29606,7 +29606,7 @@ Which of the following is complication of prolonged use of corticosteroid eye dr
 
 <details><summary>Answer</summary>
 
-**A. Posterior Subcapsular cataract** — Source: Medicoholic 2016 PYQ compilation.
+**A. Posterior Subcapsular cataract** — **A. Posterior Subcapsular cataract** — Prolonged topical or systemic corticosteroid use causes posterior subcapsular cataract (PSC) by inhibiting lens epithelial cell migration and promoting aberrant fibre formation in the posterior capsule region.
 
 </details>
 
@@ -29624,7 +29624,7 @@ What is the new advance in cataract surgery?
 
 <details><summary>Answer</summary>
 
-**A. Femtosecond Laser** — Source: Medicoholic 2016 PYQ compilation.
+**A. Femtosecond Laser** — **A. Femtosecond Laser** — Femtosecond laser-assisted cataract surgery (FLACS) provides precise automated capsulorrhexis, corneal incisions, and lens fragmentation; it improves accuracy over manual phacoemulsification, reducing surgically-induced astigmatism.
 
 </details>
 
@@ -29642,7 +29642,7 @@ Which of the following step is not done during phacoemulsification surgery for c
 
 <details><summary>Answer</summary>
 
-**D. Sclerocorneal tunnel** — Source: Medicoholic 2016 PYQ compilation.
+**D. Sclerocorneal tunnel** — **D. Sclerocorneal tunnel** — Phacoemulsification uses a clear corneal tunnel incision (1.8–2.8 mm), not a sclerocorneal tunnel (which is used in SICS/ECCE); steps include CCC, hydrodissection, phaco, cortex irrigation, and foldable IOL implantation.
 
 </details>
 
@@ -29660,7 +29660,7 @@ Post operative complications of cataract are all except?
 
 <details><summary>Answer</summary>
 
-**D. Scleritis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Scleritis** — **D. Scleritis** — Scleritis is an inflammatory condition of the sclera not typically caused by cataract surgery; recognised post-cataract complications include posterior capsule opacification (after-cataract), endophthalmitis, and secondary glaucoma.
 
 </details>
 
@@ -29678,7 +29678,7 @@ Which of the following is the most important factor in the prevention of the end
 
 <details><summary>Answer</summary>
 
-**A. Preoperative preparation with povidone iodine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Preoperative preparation with povidone iodine** — **A. Preoperative preparation with povidone iodine** — 5% povidone-iodine conjunctival instillation before cataract surgery is the single most evidence-based intervention for preventing post-operative endophthalmitis, reducing risk by ~60%.
 
 </details>
 
@@ -29696,7 +29696,7 @@ Hemeralopia is seen in
 
 <details><summary>Answer</summary>
 
-**D. Subcapsular cataract** — Source: Medicoholic 2016 PYQ compilation.
+**D. Subcapsular cataract** — **D. Subcapsular cataract** — Hemeralopia (day blindness/reduced vision in bright light) occurs with posterior subcapsular cataract because central opacities scatter bright light, reducing contrast sensitivity; nyctalopia (night blindness) occurs with retinitis pigmentosa.
 
 </details>
 
@@ -29714,7 +29714,7 @@ Which of the following is a good dye is used for lens in cataract surgery?
 
 <details><summary>Answer</summary>
 
-**A. Trypan Blue** — Source: Medicoholic 2016 PYQ compilation.
+**A. Trypan Blue** — **A. Trypan Blue** — Trypan blue 0.1% is used to stain the anterior lens capsule (capsule staining) during capsulorhexis in dense cataracts with poor red reflex; it enhances visibility of the anterior capsule for safer capsulorhexis.
 
 </details>
 
@@ -31013,7 +31013,7 @@ The velocity of sperm is ?
 
 <details><summary>Answer</summary>
 
-**C. 1-4 mm/min** — Source: Medicoholic 2016 PYQ compilation.
+**C. 1-4 mm/min** — **C. 1-4 mm/min** — Spermatozoa propel themselves through cervical mucus and the female reproductive tract at approximately 1–4 mm/minute using flagellar motion, eventually traversing the uterus and fallopian tube.
 
 </details>
 
@@ -31031,7 +31031,7 @@ After ejaculation semen liquefies in ?
 
 <details><summary>Answer</summary>
 
-**B. 30 minutes** — Source: Medicoholic 2016 PYQ compilation.
+**B. 30 minutes** — **B. 30 minutes** — Semen initially coagulates due to seminal vesicle proteins (semenogelin) then liquefies within 15–30 minutes via PSA (prostate-specific antigen) proteolytic activity, enabling sperm motility.
 
 </details>
 
@@ -31049,7 +31049,7 @@ Alpha subunit of hCG is similar to ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — The alpha subunit of hCG, LH, FSH, and TSH are identical (92 amino acids); biological specificity is conferred by the unique beta subunit of each glycoprotein hormone.
 
 </details>
 
@@ -31067,7 +31067,7 @@ The pelvic inlet usually is considered to be contracted if its shortest anteropo
 
 <details><summary>Answer</summary>
 
-**B. 10 cm** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10 cm** — **B. 10 cm** — A pelvic inlet is contracted if the obstetric conjugate (anteroposterior diameter) is less than 10 cm; below this threshold, engagement and descent of the fetal head is impeded, risking cephalopelvic disproportion.
 
 </details>
 
@@ -31085,7 +31085,7 @@ Azoospermia with normal FSH would indicate ?
 
 <details><summary>Answer</summary>
 
-**C. Obstruction of vas defrens** — Source: Medicoholic 2016 PYQ compilation.
+**C. Obstruction of vas defrens** — **C. Obstruction of vas deferens** — Normal FSH indicates intact spermatogenesis in the testes; azoospermia with normal FSH points to obstructive azoospermia (vas deferens, epididymis, ejaculatory duct blockage) rather than testicular failure.
 
 </details>
 
@@ -31103,7 +31103,7 @@ CRL when cardiac activity can be detected earliest by TVS -
 
 <details><summary>Answer</summary>
 
-**A. 1-4mm** — Source: Medicoholic 2016 PYQ compilation.
+**A. 1-4mm** — **A. 1-4mm** — Cardiac activity by transvaginal ultrasound can first be detected at CRL 1–4 mm (approximately 5–6 weeks gestational age), appearing as flickering motion at the embryonic cardiac pole.
 
 </details>
 
@@ -31121,7 +31121,7 @@ Surgical excision of corpus luteum before weeks of gestation, results in miscarr
 
 <details><summary>Answer</summary>
 
-**A. 6-7** — Source: Medicoholic 2016 PYQ compilation.
+**A. 6-7** — **A. 6-7** — The corpus luteum produces progesterone essential for endometrial support and uterine quiescence until 6–7 weeks; before luteoplacental shift (~8–10 weeks), its removal causes progesterone withdrawal and miscarriage.
 
 </details>
 
@@ -31139,7 +31139,7 @@ MVA syringe is used for ?
 
 <details><summary>Answer</summary>
 
-**A. First trimester MTP** — Source: Medicoholic 2016 PYQ compilation.
+**A. First trimester MTP** — **A. First trimester MTP** — The Manual Vacuum Aspiration (MVA) syringe creates negative pressure to evacuate products of conception up to 12 weeks gestation; it is a safe, effective method for early MTP without general anaesthesia.
 
 </details>
 
@@ -31157,7 +31157,7 @@ Woman has 100 ml blood loss every 30 days. This is called as ?
 
 <details><summary>Answer</summary>
 
-**A. Menorrhagia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Menorrhagia** — **A. Menorrhagia** — Menorrhagia is defined as cyclical menstrual blood loss exceeding 80 mL per cycle; 100 mL loss with normal 30-day cycle interval constitutes menorrhagia (heavy menstrual bleeding at regular intervals).
 
 </details>
 
@@ -31175,7 +31175,7 @@ In IVF, embryos are transferred back to uterine cavity at cells stage ?
 
 <details><summary>Answer</summary>
 
-**C. 4-8** — Source: Medicoholic 2016 PYQ compilation.
+**C. 4-8** — **C. 4-8** — In IVF, embryos are transferred at the 4–8 cell stage (Day 2–3) or blastocyst stage (Day 5); the 4–8 cell cleavage stage allows adequate embryo development in vitro before uterine transfer.
 
 </details>
 
@@ -31193,7 +31193,7 @@ With which of the following events, the feto maternal haemorrhage risk is the le
 
 <details><summary>Answer</summary>
 
-**D. Abruption** — Source: Medicoholic 2016 PYQ compilation.
+**D. Abruption** — **D. Abruption** — Placental abruption causes retroplacental haematoma but the main bleeding is into the retro-placental clot; invasive procedures (amniocentesis, cordocentesis, CVS) directly breach placental vessels causing FMH.
 
 </details>
 
@@ -31211,7 +31211,7 @@ Infertility is defined as ?
 
 <details><summary>Answer</summary>
 
-**A. Inability to conceive after 1 year of regular unprotected** — Source: Medicoholic 2016 PYQ compilation.
+**A. Inability to conceive after 1 year of regular unprotected** — **A. Inability to conceive after 1 year of regular unprotected** — WHO defines infertility as failure to achieve clinical pregnancy after 12 months of regular unprotected sexual intercourse; women >35 years are evaluated after 6 months.
 
 </details>
 
@@ -31229,7 +31229,7 @@ Cord prolapse is least likely with -
 
 <details><summary>Answer</summary>
 
-**C. Oligohydroamnios** — Source: Medicoholic 2016 PYQ compilation.
+**C. Oligohydroamnios** — **C. Oligohydroamnios** — Oligohydramnios causes the cord to be tightly pressed between the fetus and uterus with no fluid space for prolapse; cord prolapse requires a poorly fitting presenting part leaving a gap for cord descent.
 
 </details>
 
@@ -31247,7 +31247,7 @@ After IUFD, when does the mother develop DIC -
 
 <details><summary>Answer</summary>
 
-**C. 3-4 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3-4 weeks** — **C. 3-4 weeks** — After intrauterine fetal death, retained products release thromboplastins that gradually deplete clotting factors; DIC typically develops after 3–4 weeks of retention as coagulation cascade is progressively consumed.
 
 </details>
 
@@ -31265,7 +31265,7 @@ Earliest sign after IUFD is ?
 
 <details><summary>Answer</summary>
 
-**C. Gas in great vessel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gas in great vessel** — **C. Gas in great vessel** — Robert's sign (gas in great vessels/heart) is the earliest radiological sign of IUFD appearing within hours of death due to gas-forming bacteria; Spalding's sign (skull bone overlap) takes 1–2 weeks.
 
 </details>
 
@@ -31283,7 +31283,7 @@ True about Gartners cyst is ?
 
 <details><summary>Answer</summary>
 
-**A. Retention cyst in remnants of Wolffian duct** — Source: Medicoholic 2016 PYQ compilation.
+**A. Retention cyst in remnants of Wolffian duct** — **A. Retention cyst in remnants of Wolffian duct** — Gartner's duct cyst arises from mesonephric (Wolffian) duct remnants along the anterolateral vaginal wall; it is lined by cuboidal non-mucinous epithelium, located in vagina not cervix.
 
 </details>
 
@@ -31301,7 +31301,7 @@ If the rectal mucosa is injured, it is which degree of Perineal Tear ?
 
 <details><summary>Answer</summary>
 
-**D. Fourth** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fourth** — **D. Fourth** — Fourth-degree perineal tear extends through the anal sphincter complex AND rectal mucosa; 3rd degree involves the anal sphincter only; rectal mucosa involvement upgrades the tear to 4th degree.
 
 </details>
 
@@ -31319,7 +31319,7 @@ HPL has activity similar to which hormone ?
 
 <details><summary>Answer</summary>
 
-**B. Growth hormone** — Source: Medicoholic 2016 PYQ compilation.
+**B. Growth hormone** — **B. Growth hormone** — Human placental lactogen (hPL/hCS) has structural and functional homology with growth hormone; it promotes maternal lipolysis and gluconeogenesis (insulin antagonism), ensuring fetal glucose supply.
 
 </details>
 
@@ -31337,7 +31337,7 @@ Dilatation & evacuation is done for all ecxept ?
 
 <details><summary>Answer</summary>
 
-**C. Threatened abortion** — Source: Medicoholic 2016 PYQ compilation.
+**C. Threatened abortion** — **C. Threatened abortion** — Threatened abortion (closed os, viable pregnancy) is managed conservatively with bed rest and progesterone; D&E is appropriate for inevitable (open os) and incomplete abortion (retained products).
 
 </details>
 
@@ -31355,7 +31355,7 @@ WHO normal Hb value for a non pregnant adult female is ?
 
 <details><summary>Answer</summary>
 
-**C. 12 gm/dl** — Source: Medicoholic 2016 PYQ compilation.
+**C. 12 gm/dl** — **C. 12 gm/dl** — WHO defines anaemia in non-pregnant adult women as Hb <12 g/dL; for pregnant women the threshold is 11 g/dL; this lower cut-off in pregnancy reflects physiological haemodilution.
 
 </details>
 
@@ -31373,7 +31373,7 @@ Which of the following epidermal layer is dead layer?
 
 <details><summary>Answer</summary>
 
-**C. Stratum corneum** — Source: Medicoholic 2016 PYQ compilation.
+**C. Stratum corneum** — **C. Stratum corneum** — Stratum corneum consists of anucleate, keratin-filled corneocytes (dead cells) embedded in a lipid bilayer matrix; it forms the primary epidermal barrier against water loss and external pathogens.
 
 </details>
 
@@ -31391,7 +31391,7 @@ Langerhans cell are seen in which layer of skin?
 
 <details><summary>Answer</summary>
 
-**D. Stratum spinosum** — Source: Medicoholic 2016 PYQ compilation.
+**D. Stratum spinosum** — **D. Stratum spinosum** — Langerhans cells (bone marrow-derived dendritic antigen-presenting cells) reside predominantly in the stratum spinosum where they process antigens via CD1a-mediated presentation to T lymphocytes.
 
 </details>
 
@@ -31409,7 +31409,7 @@ Increase in the thickness of the prickle cell layer of the epidermis is called?
 
 <details><summary>Answer</summary>
 
-**B. Acanthosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Acanthosis** — **B. Acanthosis** — Acanthosis is thickening of the stratum spinosum (prickle cell layer), seen in psoriasis and chronic eczema; spongiosis is intercellular oedema; hyperkeratosis is stratum corneum thickening.
 
 </details>
 
@@ -31427,7 +31427,7 @@ Substance common in skin and hair is?
 
 <details><summary>Answer</summary>
 
-**A. Keratin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Keratin** — **A. Keratin** — Keratin is the structural fibrous protein forming the cytoskeleton of keratinocytes in the epidermis, and the major structural component of hair shafts and nail plates.
 
 </details>
 
@@ -31445,7 +31445,7 @@ Which of the following is a melanising agent?
 
 <details><summary>Answer</summary>
 
-**A. Methoxsalen** — Source: Medicoholic 2016 PYQ compilation.
+**A. Methoxsalen** — **A. Methoxsalen** — Methoxsalen (8-MOP) is a psoralen that intercalates with DNA on UVA exposure (PUVA therapy), stimulating melanocyte proliferation and melanin synthesis; used in vitiligo, psoriasis, and mycosis fungoides.
 
 </details>
 
@@ -31463,7 +31463,7 @@ Fordyce spots involve?
 
 <details><summary>Answer</summary>
 
-**A. Penis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Penis** — **A. Penis** — Fordyce spots are ectopic sebaceous glands without hair follicles appearing as 1–5 mm yellowish papules on the penile shaft, glans, scrotum, labia minora, and lip vermillion; a normal anatomical variant.
 
 </details>
 
@@ -31481,7 +31481,7 @@ Most common etiology of erythema multiforme is?
 
 <details><summary>Answer</summary>
 
-**A. Idiopathic** — Source: Medicoholic 2016 PYQ compilation.
+**A. Idiopathic** — **A. Idiopathic** — Erythema multiforme is most commonly idiopathic (50%); among identifiable causes, HSV is the most frequent infectious trigger; drugs are more commonly implicated in severe Stevens-Johnson syndrome.
 
 </details>
 
@@ -31499,7 +31499,7 @@ Most common pattern of onychomycosis is?
 
 <details><summary>Answer</summary>
 
-**A. Distal and lateral subungual** — Source: Medicoholic 2016 PYQ compilation.
+**A. Distal and lateral subungual** — **A. Distal and lateral subungual** — Distal lateral subungual onychomycosis (DLSO) is the most common pattern, caused by dermatophytes invading the nail from the hyponychium, causing subungual hyperkeratosis and onycholysis.
 
 </details>
 
@@ -31535,7 +31535,7 @@ Not a feature of candidal intertrigo is?
 
 <details><summary>Answer</summary>
 
-**C. Central scaling** — Source: Medicoholic 2016 PYQ compilation.
+**C. Central scaling** — **C. Central scaling** — Candidal intertrigo features erythematous moist patches with satellite papulopustules at skin folds; central scaling is not a feature — it is characteristic of tinea corporis (ringworm) where scaling occurs at the active border.
 
 </details>
 
@@ -32618,7 +32618,7 @@ Promastigote form of Leishmania is found in which part of sandfly:
 
 <details><summary>Answer</summary>
 
-**B. GIT** — Source: Medicoholic 2016 PYQ compilation.
+**B. GIT** — **B. GIT** — Leishmania promastigotes (flagellated forms) develop and multiply in the gut (GIT) of the sandfly vector (Phlebotomus); they migrate to the proboscis and are inoculated during the next blood meal.
 
 </details>
 
@@ -32636,7 +32636,7 @@ Agger nasi is
 
 <details><summary>Answer</summary>
 
-**D. Elevation anterior to middle turbinate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Elevation anterior to middle turbinate** — **D. Elevation anterior to middle turbinate** — Agger nasi (Latin: mound of the nose) is a ridge/elevation anterior to the middle turbinate; it is the most anterior ethmoid air cell and is relevant in endoscopic sinus surgery.
 
 </details>
 
@@ -32654,7 +32654,7 @@ Not a feature of Wernicke's Korsakoff Syndrome
 
 <details><summary>Answer</summary>
 
-**C. Normal pupillary response** — Source: Medicoholic 2016 PYQ compilation.
+**C. Normal pupillary response** — **C. Normal pupillary response** — Wernicke's encephalopathy triad: ophthalmoplegia (CN VI palsy, nystagmus), ataxia, and confusion; pupillary abnormalities (Argyll Robertson-like or small sluggish pupils) can occur due to midbrain involvement.
 
 </details>
 
@@ -32672,7 +32672,7 @@ Complete vesicular mole is associated Theca leutin csyts in what percentage of c
 
 <details><summary>Answer</summary>
 
-**C. 20-40** — Source: Medicoholic 2016 PYQ compilation.
+**C. 20-40** — **C. 20-40** — Theca lutein cysts occur in 20-40% of complete molar pregnancies due to overstimulation by markedly elevated hCG levels; they regress spontaneously after mole evacuation.
 
 </details>
 
@@ -32690,7 +32690,7 @@ Radio isotope used in Ca cervix Brachytherapy ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Cervical cancer brachytherapy uses Cesium-137 (LDR), Iridium-192 (HDR), and historically Cobalt-60; Iridium-192 is now most widely used for HDR intracavitary brachytherapy.
 
 </details>
 
@@ -32708,7 +32708,7 @@ What is not used in PCOS ?
 
 <details><summary>Answer</summary>
 
-**D. Danazol** — Source: Medicoholic 2016 PYQ compilation.
+**D. Danazol** — **D. Danazol** — Danazol (androgen-like steroid) is used for endometriosis and hereditary angioedema; it is not used in PCOS and would worsen androgenic symptoms (hirsutism, acne) by its androgenic action.
 
 </details>
 
@@ -32726,7 +32726,7 @@ Triad of symptoms of endometriosis are all except ?
 
 <details><summary>Answer</summary>
 
-**D. Cyclical hematuria** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cyclical hematuria** — **D. Cyclical hematuria** — The classic triad of endometriosis is dysmenorrhea, dyspareunia, and infertility; cyclical hematuria would suggest bladder endometriosis, an uncommon site-specific symptom, not part of the primary triad.
 
 </details>
 
@@ -32744,7 +32744,7 @@ Investigation of choice for endometriosis ?
 
 <details><summary>Answer</summary>
 
-**D. Laparoscopy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Laparoscopy** — **D. Laparoscopy** — Diagnostic laparoscopy with biopsy is the gold standard for endometriosis, allowing direct visualization of powder-burn/chocolate-colored lesions and histological confirmation; MRI and USG are adjunctive.
 
 </details>
 
@@ -32762,7 +32762,7 @@ Powder burnt lesion seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Endometriosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Endometriosis** — **C. Endometriosis** — Powder-burn (gunshot) lesions are black/dark brown peritoneal implants of endometriosis seen laparoscopically; they represent hemosiderin-laden macrophages from old hemorrhage in ectopic endometrial tissue.
 
 </details>
 
@@ -32780,7 +32780,7 @@ Triad for clinical diagnosis PID includes all except ?
 
 <details><summary>Answer</summary>
 
-**A. Fever** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fever** — **A. Fever** — CDC minimum criteria for PID diagnosis: lower abdominal tenderness, cervical motion tenderness (chandelier sign), and adnexal tenderness; fever is an additional supportive criterion but not part of the minimum diagnostic triad.
 
 </details>
 
@@ -32798,7 +32798,7 @@ Tumor marker for germ cell malignancy are all except?
 
 <details><summary>Answer</summary>
 
-**D. CA-125** — Source: Medicoholic 2016 PYQ compilation.
+**D. CA-125** — **D. CA-125** — CA-125 is a marker for epithelial ovarian carcinoma; germ cell tumor markers include AFP (yolk sac tumor), beta-hCG (choriocarcinoma), LDH (dysgerminoma), and PLAP/alkaline phosphatase (dysgerminoma).
 
 </details>
 
@@ -32816,7 +32816,7 @@ Tumor marker for germ cell malignancy are all except?
 
 <details><summary>Answer</summary>
 
-**C. Gonococcal urethritis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gonococcal urethritis** — **C. Gonococcal urethritis** — Purulent/yellowish urethral discharge with dysuria following sexual exposure is classic for Neisseria gonorrhoeae; gram-negative intracellular diplococci on smear confirm diagnosis; incubation 2-5 days.
 
 </details>
 
@@ -32834,7 +32834,7 @@ Twin-peak sign is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Dichorionic twins** — Source: Medicoholic 2016 PYQ compilation.
+**C. Dichorionic twins** — **C. Dichorionic twins** — The twin-peak (lambda) sign on ultrasound is a triangular tongue of placental tissue projecting into the inter-twin membrane at its chorionic origin, confirming dichorionic placentation; absent in monochorionic (T-sign seen instead).
 
 </details>
 
@@ -32852,7 +32852,7 @@ In ca Cervix treatment, point A receives ?
 
 <details><summary>Answer</summary>
 
-**C. 7000 cGy** — Source: Medicoholic 2016 PYQ compilation.
+**C. 7000 cGy** — **C. 7000 cGy** — In cervical cancer radiotherapy, Point A (2 cm lateral and 2 cm superior to external cervical os) receives a total dose of 7000-8000 cGy (70-80 Gy) combining external beam (45-50 Gy) and brachytherapy boost.
 
 </details>
 

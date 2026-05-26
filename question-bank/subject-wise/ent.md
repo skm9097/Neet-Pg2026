@@ -3550,7 +3550,7 @@ Most common mechanism of arrhythmia
 
 <details><summary>Answer</summary>
 
-**A. Re-entry** — Source: Medicoholic 2015 PYQ compilation.
+**A. Re-entry** — **A. Re-entry** — Re-entry is the most common arrhythmia mechanism; requires two pathways with different conduction velocities and refractory periods; responsible for AF, atrial flutter, AVNRT, and most VT/VF.
 
 </details>
 
@@ -3568,7 +3568,7 @@ Not recommended in coronary artery disease patients
 
 <details><summary>Answer</summary>
 
-**C. Vitamin-E** — Source: Medicoholic 2015 PYQ compilation.
+**C. Vitamin-E** — **C. Vitamin-E** — Large randomized trials (HOPE, GISSI) showed Vitamin E supplementation does not reduce cardiovascular events and may increase heart failure risk in CAD patients; statins, exercise, and potassium have beneficial roles.
 
 </details>
 
@@ -3586,7 +3586,7 @@ Digitalis is used in mitral stenosis when patient develops
 
 <details><summary>Answer</summary>
 
-**A. Atrial fibrillation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Atrial fibrillation** — **A. Atrial fibrillation** — Digitalis slows ventricular rate in AF by enhancing vagal tone and slowing AV nodal conduction; in pure MS with sinus rhythm, digitalis provides little benefit but is indicated when AF develops.
 
 </details>
 
@@ -3604,7 +3604,7 @@ Which is the best way to differentiate between stable angina and NSTEMI?
 
 <details><summary>Answer</summary>
 
-**B. Cardiac-biomarker** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cardiac-biomarker** — **B. Cardiac-biomarker** — Troponin I/T elevation distinguishes NSTEMI (myocardial necrosis) from stable angina (no necrosis); ECG changes (ST depression, T-wave inversion) occur in both; troponin is the gold standard biomarker.
 
 </details>
 
@@ -3622,7 +3622,7 @@ Aetiology of Dressler Syndrome is
 
 <details><summary>Answer</summary>
 
-**B. Autoimmune** — Source: Medicoholic 2015 PYQ compilation.
+**B. Autoimmune** — **B. Autoimmune** — Dressler syndrome (post-MI pericarditis) occurs weeks after MI due to autoimmune reaction against cardiac antigens released during necrosis; anti-myocardial antibodies trigger pericarditis, pleuritis, and fever.
 
 </details>
 
@@ -3640,7 +3640,7 @@ Predisposing factors for coronary artery disease include, all Except:
 
 <details><summary>Answer</summary>
 
-**B. ↑ Lipoprotein B** — Source: Medicoholic 2015 PYQ compilation.
+**B. ↑ Lipoprotein B** — **B. ↑ Lipoprotein B** — Increased Lipoprotein(a), not Lipoprotein B (apoB-100), is a CAD risk factor; apoB-100 IS atherogenic but the question likely means Lp(a); homocysteinemia, fibrinogen, and PAI-1 are all established CAD risk factors.
 
 </details>
 
@@ -3658,7 +3658,7 @@ Murmur heard in aortic stenosis
 
 <details><summary>Answer</summary>
 
-**A. Right 2nd intercistal, low pitch murmur** — Source: Medicoholic 2015 PYQ compilation.
+**A. Right 2nd intercistal, low pitch murmur** — **A. Right 2nd intercistal, low pitch murmur** — Aortic stenosis produces a harsh ejection systolic murmur best heard at the right 2nd intercostal space (aortic area), radiating to carotids; low pitch with crescendo-decrescendo pattern.
 
 </details>
 
@@ -3676,7 +3676,7 @@ Basket weave appearance of glomerular basement membrane on electron microscopy i
 
 <details><summary>Answer</summary>
 
-**A. Alport syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**A. Alport syndrome** — **A. Alport syndrome** — Alport syndrome (COL4A3/4/5 mutations) shows irregular GBM with alternating thick and thin lamellation creating a "basket-weave" or "split" lamina densa pattern on EM; causes SNHL, hematuria, and renal failure.
 
 </details>
 
@@ -3694,7 +3694,7 @@ All are true about GFR except
 
 <details><summary>Answer</summary>
 
-**C. C.K.D is defied as GFR < 30 ml/min/1.732 for 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**C. C.K.D is defied as GFR < 30 ml/min/1.732 for 4 weeks** — **C. C.K.D is defied as GFR < 30 ml/min/1.732 for 4 weeks** — CKD is defined as GFR <60 ml/min/1.73m² (not <30) persisting for ≥3 months (not 4 weeks); GFR declines ~1 ml/min/year after age 40.
 
 </details>
 
@@ -3712,7 +3712,7 @@ Which is a hormone dependent liver tumor ?
 
 <details><summary>Answer</summary>
 
-**A. Adenoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Adenoma** — **A. Adenoma** — Hepatic adenoma is strongly associated with oral contraceptive pill use (estrogen-dependent); risk increases with duration of use; may regress on stopping OCP; risk of rupture and hemorrhage.
 
 </details>
 
@@ -3730,7 +3730,7 @@ HAM test is based upon :
 
 <details><summary>Answer</summary>
 
-**B. Complement** — Source: Medicoholic 2015 PYQ compilation.
+**B. Complement** — **B. Complement** — Ham's acid serum test detects PNH by showing lysis of patient's RBCs in acidified serum; low pH activates the alternative complement pathway, lysing PNH cells that lack GPI-anchored complement regulatory proteins (CD55, CD59).
 
 </details>
 
@@ -3748,7 +3748,7 @@ All are true about CNS leukemia except
 
 <details><summary>Answer</summary>
 
-**C. Seen with acute myeloid leukemia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Seen with acute myeloid leukemia** — **C. Seen with acute myeloid leukemia** — CNS leukemia is primarily a complication of ALL (acute lymphoblastic leukemia), especially T-cell and B-cell precursor ALL; AML rarely causes CNS involvement; prophylaxis with intrathecal MTX and cranial radiation is for ALL.
 
 </details>
 
@@ -3766,7 +3766,7 @@ Patient on insulin in CKD stage 4. What is the dose adjustment of insulin requir
 
 <details><summary>Answer</summary>
 
-**B. Decreased insulin** — Source: Medicoholic 2015 PYQ compilation.
+**B. Decreased insulin** — **B. Decreased insulin** — In CKD stage 4, reduced renal insulin clearance (kidneys metabolize ~30-40% of insulin) and impaired renal gluconeogenesis prolong insulin action; dose reduction is necessary to prevent hypoglycemia.
 
 </details>
 
@@ -3784,7 +3784,7 @@ A patient after an accident was unconscious. On physical examination there was u
 
 <details><summary>Answer</summary>
 
-**A. Uncal herniation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Uncal herniation** — **A. Uncal herniation** — Uncal (transtentorial) herniation compresses ipsilateral CN III against the tentorium, causing ipsilateral fixed dilated pupil; progressive herniation affects the contralateral hemisphere and brainstem.
 
 </details>
 
@@ -3802,7 +3802,7 @@ Commonest cause of cerebro vascular accident
 
 <details><summary>Answer</summary>
 
-**A. Infarction** — Source: Medicoholic 2015 PYQ compilation.
+**A. Infarction** — **A. Infarction** — Ischemic stroke (thrombotic or embolic infarction) accounts for ~85% of all CVA cases; hemorrhagic stroke (intracerebral or subarachnoid) accounts for the remaining ~15%; atherosclerosis is the leading cause.
 
 </details>
 
@@ -3820,7 +3820,7 @@ Criteria for Brainstem death includes:
 
 <details><summary>Answer</summary>
 
-**B. Absent pupillary light reflex and delated pupils** — Source: Medicoholic 2015 PYQ compilation.
+**B. Absent pupillary light reflex and delated pupils** — **B. Absent pupillary light reflex and delated pupils** — Brainstem death criteria include fixed dilated pupils (CN III/midbrain), absent corneal, gag, cough, and vestibulo-ocular reflexes, and apnea; positive doll's eye (intact brainstem) excludes brainstem death.
 
 </details>
 
@@ -3838,7 +3838,7 @@ The following are components of Brown Sequard syndrome except :
 
 <details><summary>Answer</summary>
 
-**D. Contralateral posterior column involvement** — Source: Medicoholic 2015 PYQ compilation.
+**D. Contralateral posterior column involvement** — **D. Contralateral posterior column involvement** — Brown-Séquard (cord hemisection) causes ipsilateral loss of posterior column (proprioception/vibration), ipsilateral UMN signs, and contralateral spinothalamic loss (pain/temperature); posterior column loss is ipsilateral, not contralateral.
 
 </details>
 
@@ -3856,7 +3856,7 @@ DOC for treatment of SSPE -
 
 <details><summary>Answer</summary>
 
-**B. Inosine pranobex** — Source: Medicoholic 2015 PYQ compilation.
+**B. Inosine pranobex** — **B. Inosine pranobex** — Inosine pranobex (isoprinosine) is the drug of choice for SSPE (subacute sclerosing panencephalitis); it has immunomodulatory and antiviral properties, slowing disease progression though not curative.
 
 </details>
 
@@ -3874,7 +3874,7 @@ Aspirin decreases the risk of development of which of the following -
 
 <details><summary>Answer</summary>
 
-**A. Colorectal cancer** — Source: Medicoholic 2015 PYQ compilation.
+**A. Colorectal cancer** — **A. Colorectal cancer** — Regular aspirin use reduces colorectal cancer risk by 40-50% through COX-2 inhibition (reducing PGE2-driven proliferation), inhibition of NF-κB signaling, and induction of apoptosis in colonic epithelial cells.
 
 </details>
 
@@ -3892,7 +3892,7 @@ Mosaic pattern of coment line is characteristically seen in -
 
 <details><summary>Answer</summary>
 
-**B. Paget's disease of bone** — Source: Medicoholic 2015 PYQ compilation.
+**B. Paget's disease of bone** — **B. Paget's disease of bone** — Mosaic (jigsaw/cement line) pattern on histology is pathognomonic of Paget's disease; irregular cement lines reflect alternating phases of disordered bone resorption and deposition by abnormal osteoclasts/osteoblasts.
 
 </details>
 
@@ -3910,7 +3910,7 @@ All of the following are true about Gout, except:-
 
 <details><summary>Answer</summary>
 
-**D. Occurs more in females** — Source: Medicoholic 2015 PYQ compilation.
+**D. Occurs more in females** — **D. Occurs more in females** — Gout predominantly affects males (9:1 male:female ratio); estrogen promotes renal uric acid excretion, protecting premenopausal women; postmenopausal women lose this protection and incidence approaches that of men.
 
 </details>
 
@@ -3928,7 +3928,7 @@ All are true about cross-matching of blood except -
 
 <details><summary>Answer</summary>
 
-**C. Donor serum is tested against recipient packed cells** — Source: Medicoholic 2015 PYQ compilation.
+**C. Donor serum is tested against recipient packed cells** — **C. Donor serum is tested against recipient packed cells** — In crossmatching, recipient serum is tested against donor cells (major crossmatch) to detect recipient antibodies against donor antigens; the minor crossmatch tests donor serum against recipient cells.
 
 </details>
 
@@ -3946,7 +3946,7 @@ Best management after human bite -
 
 <details><summary>Answer</summary>
 
-**A. Ampicillin plus sulbactam** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ampicillin plus sulbactam** — **A. Ampicillin plus sulbactam** — Human bite wounds contain Eikenella corrodens plus oral anaerobes and streptococci; amoxicillin-clavulanate (or ampicillin-sulbactam IV) covers this polymicrobial flora including beta-lactamase producers.
 
 </details>
 
@@ -3964,7 +3964,7 @@ In a patient who was brought to casualty after RTA with pulse rate 108, SBP 80. 
 
 <details><summary>Answer</summary>
 
-**B. Normal Saline** — Source: Medicoholic 2015 PYQ compilation.
+**B. Normal Saline** — **B. Normal Saline** — Isotonic crystalloid (Normal Saline or Ringer's Lactate) is the initial fluid resuscitation of choice in hemorrhagic shock (class III here); blood products are added if crystalloid resuscitation is insufficient.
 
 </details>
 
@@ -3982,7 +3982,7 @@ True abour drug induced SLE is except ?
 
 <details><summary>Answer</summary>
 
-**A. Female: Male ratio=9:1** — Source: Medicoholic 2015 PYQ compilation.
+**A. Female: Male ratio=9:1** — **A. Female: Male ratio=9:1** — Drug-induced lupus (DIL) has an equal male:female ratio (unlike idiopathic SLE with 9:1 female predominance); DIL features anti-histone antibodies, no renal/CNS involvement, and resolves on drug withdrawal.
 
 </details>
 
@@ -4000,7 +4000,7 @@ After Road traffic accident a patient presented to casualty with vitals showing 
 
 <details><summary>Answer</summary>
 
-**B. Neurogenic** — Source: Medicoholic 2015 PYQ compilation.
+**B. Neurogenic** — **B. Neurogenic** — BP 90/60 with bradycardia (HR 56) after spinal trauma indicates neurogenic shock; loss of sympathetic tone below injury level causes vasodilation and bradycardia; distinguishes from hypovolemic shock where tachycardia is expected.
 
 </details>
 
@@ -4018,7 +4018,7 @@ Chimeric chemotherapy is being investigated for the treatment of which malignanc
 
 <details><summary>Answer</summary>
 
-**A. Leukemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Leukemia** — **A. Leukemia** — CAR-T (Chimeric Antigen Receptor T-cell) therapy targets CD19 on B-cell leukemia/lymphoma cells; tisagenlecleucel is FDA-approved for relapsed/refractory ALL, representing a breakthrough in chimeric immunotherapy.
 
 </details>
 
@@ -4036,7 +4036,7 @@ A patient (age not captured in source) who is a year old male presents with CA p
 
 <details><summary>Answer</summary>
 
-**A. Radical prostatectomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Radical prostatectomy** — **A. Radical prostatectomy** — Organ-confined prostate cancer (T2, no metastasis, palpable on DRE) is amenable to curative radical prostatectomy; this removes the entire prostate, seminal vesicles, and regional lymph nodes.
 
 </details>
 
@@ -4054,7 +4054,7 @@ A patient (age not captured in source) who is a year old male is receiving conse
 
 <details><summary>Answer</summary>
 
-**C. Proceed to laparotomy and appendicectomy** — Source: Medicoholic 2015 PYQ compilation.
+**C. Proceed to laparotomy and appendicectomy** — **C. Proceed to laparotomy and appendicectomy** — Rising pulse during conservative management of appendicular mass (Ochsner-Sherren regimen) signals failure with sepsis/abscess formation; this mandates urgent surgical intervention.
 
 </details>
 
@@ -4072,7 +4072,7 @@ Under what guidelines is treatment started for a patient presenting with appendi
 
 <details><summary>Answer</summary>
 
-**A. Ochsner Sherren Regimen** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ochsner Sherren Regimen** — **A. Ochsner Sherren Regimen** — Ochsner-Sherren regimen is conservative management for appendicular mass: NPO, IV fluids, antibiotics, vital monitoring, and interval appendicectomy after 6-8 weeks once mass resolves.
 
 </details>
 
@@ -6971,7 +6971,7 @@ Cauliflower ear seen in:
 
 <details><summary>Answer</summary>
 
-**A. Hematoma of the auricle** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hematoma of the auricle** — **A. Hematoma of the auricle** — Repeated auricular hematoma (trauma to pinna) causes organization and fibrosis of clotted blood between perichondrium and cartilage, resulting in the cauliflower-shaped deformity.
 
 </details>
 
@@ -6991,7 +6991,7 @@ In electrocochleography:
 
 <details><summary>Answer</summary>
 
-**B. Outer hair cells are mainly responsible for cochlear mi​‐** — Source: Medicoholic 2016 PYQ compilation.
+**B. Outer hair cells are mainly responsible for cochlear mi​‐** — **B. Outer hair cells are mainly responsible for cochlear microphonic** — Cochlear microphonics (CM) primarily reflect OHC electromotility; they mimic the acoustic stimulus waveform. Inner hair cells generate the compound action potential.
 
 </details>
 
@@ -7011,7 +7011,7 @@ Most common malignancy of middle ear is
 
 <details><summary>Answer</summary>
 
-**B. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squamous cell carcinoma** — **B. Squamous cell carcinoma** — SCC is the most common malignancy of the middle ear/temporal bone; arises from chronically infected mucosa (CSOM), presenting with blood-stained discharge, pain, and facial palsy.
 
 </details>
 
@@ -7031,7 +7031,7 @@ Most common benign tumor of ear canal is
 
 <details><summary>Answer</summary>
 
-**A. Osteomas** — Source: Medicoholic 2016 PYQ compilation.
+**A. Osteomas** — **A. Osteomas** — Osteomas are the most common benign bony outgrowths of the external auditory canal, typically unilateral, pedunculated, and arising near the bony-cartilaginous junction; associated with cold water swimming.
 
 </details>
 
@@ -7051,7 +7051,7 @@ Diplacusis is
 
 <details><summary>Answer</summary>
 
-**B. Hearing sounds of two different tones** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hearing sounds of two different tones** — **B. Hearing sounds of two different tones** — Diplacusis is a hearing distortion where the same sound is perceived as two different pitches in the two ears (binaural diplacusis); indicates cochlear damage, e.g., in Meniere's disease.
 
 </details>
 
@@ -7071,7 +7071,7 @@ Singapore ear is
 
 <details><summary>Answer</summary>
 
-**C. Otitis externa** — Source: Medicoholic 2016 PYQ compilation.
+**C. Otitis externa** — **C. Otitis externa** — Singapore ear refers to tropical otitis externa (diffuse external otitis), common in humid tropical climates; caused by Pseudomonas or fungi with macerated, infected external canal skin.
 
 </details>
 
@@ -7091,7 +7091,7 @@ A diabetic patient presents with foul smelling ear discharge, fever and severe p
 
 <details><summary>Answer</summary>
 
-**B. Antibiotic therapy** — Source: Medicoholic 2016 PYQ compilation.
+**B. Antibiotic therapy** — **B. Antibiotic therapy** — Malignant (necrotizing) otitis externa in diabetics is caused by Pseudomonas aeruginosa; treatment is prolonged systemic anti-pseudomonal antibiotics (ciprofloxacin); surgery reserved for complications.
 
 </details>
 
@@ -7111,7 +7111,7 @@ Which of the following is the function of tensor tympani muscle?
 
 <details><summary>Answer</summary>
 
-**B. Tenses tympanic membrane** — Source: Medicoholic 2016 PYQ compilation.
+**B. Tenses tympanic membrane** — **B. Tenses tympanic membrane** — Tensor tympani pulls the manubrium of malleus medially, increasing tympanic membrane tension; this reduces its vibration amplitude rather than specifically dampening loud sounds (stapedius reflex does that).
 
 </details>
 
@@ -7131,7 +7131,7 @@ True about serous otitis media are all except ?
 
 <details><summary>Answer</summary>
 
-**C. Type C tympanogram** — Source: Medicoholic 2016 PYQ compilation.
+**C. Type C tympanogram** — **C. Type C tympanogram** — Serous otitis media (glue ear) produces Type B tympanogram (flat, no compliance peak due to middle ear fluid); Type C indicates negative middle ear pressure without effusion.
 
 </details>
 
@@ -7151,7 +7151,7 @@ Pink reflex through intact tympanic membrane in active otosclerosis is known as
 
 <details><summary>Answer</summary>
 
-**B. Schwartz sign** — Source: Medicoholic 2016 PYQ compilation.
+**B. Schwartz sign** — **B. Schwartz sign** — Schwartz sign (flamingo pink reflex) is seen through the intact tympanic membrane in active otosclerosis; indicates hypervascular otospongiotic foci in the promontory mucosa.
 
 </details>
 
@@ -7171,7 +7171,7 @@ A 10 year old child presents with non foul purulent smelling discharge, which is
 
 <details><summary>Answer</summary>
 
-**A. CSOM** — Source: Medicoholic 2016 PYQ compilation.
+**A. CSOM** — **A. CSOM** — Non-foul, non-offensive mucopurulent discharge with central perforation and paracusis Willisii (hearing better with discharge) is classic tubotympanic CSOM; discharge acts as a medium improving sound conduction.
 
 </details>
 
@@ -7191,7 +7191,7 @@ Treatment of central safe perforation of tympanic membrane includes all except
 
 <details><summary>Answer</summary>
 
-**C. Avulsion of aural polyp** — Source: Medicoholic 2016 PYQ compilation.
+**C. Avulsion of aural polyp** — **C. Avulsion of aural polyp** — Aural polyps in CSOM should NOT be avulsed as they may be attached to the ossicular chain; avulsion risks ossicular damage and worsening hearing loss. Gentle removal only after controlling infection.
 
 </details>
 
@@ -7211,7 +7211,7 @@ Which of the following terms is used to describe the most prominent point of nas
 
 <details><summary>Answer</summary>
 
-**A. Pronasale** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pronasale** — **A. Pronasale** — Pronasale (tip-defining point) is the most anteriorly projecting point of the nasal tip; nasion is the nasal bridge, alare is the widest nasal alar point, and columella apex is the columellar base.
 
 </details>
 
@@ -7231,7 +7231,7 @@ Epistaxis after ligating external carotid artery is due to which vessel?
 
 <details><summary>Answer</summary>
 
-**A. Anterior ethmoidal artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Anterior ethmoidal artery** — **A. Anterior ethmoidal artery** — Anterior ethmoidal artery (branch of ophthalmic artery from internal carotid) is not ligated when external carotid is ligated; it continues to supply the anterosuperior nasal septum, causing persistent epistaxis.
 
 </details>
 
@@ -7251,7 +7251,7 @@ Rhinolith can cause
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Rhinolith (calcified nasal foreign body) can cause nasal obstruction (mechanical blockage), epistaxis (mucosal erosion), and epiphora (nasolacrimal duct obstruction causing overflow of tears).
 
 </details>
 
@@ -7271,7 +7271,7 @@ Treatment of nasal bone fracture includes all except
 
 <details><summary>Answer</summary>
 
-**D. Immediate rhinoplasty** — Source: Medicoholic 2016 PYQ compilation.
+**D. Immediate rhinoplasty** — **D. Immediate rhinoplasty** — Nasal bone fractures are managed by hematoma drainage, decongestants, and closed reduction within 10-14 days; immediate rhinoplasty is contraindicated due to edema and infection risk.
 
 </details>
 
@@ -7291,7 +7291,7 @@ Lining epithelium of vocal cord is
 
 <details><summary>Answer</summary>
 
-**A. Stratified squamous epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**A. Stratified squamous epithelium** — **A. Stratified squamous epithelium** — The true vocal cords (free margin) are lined by non-keratinizing stratified squamous epithelium, adapted to withstand vibratory stress; rest of larynx has respiratory (ciliated columnar) epithelium.
 
 </details>
 
@@ -7311,7 +7311,7 @@ All the following are true about Laryngeal carcinoma except:
 
 <details><summary>Answer</summary>
 
-**A. More common in females** — Source: Medicoholic 2016 PYQ compilation.
+**A. More common in females** — **A. More common in females** — Laryngeal carcinoma is strongly male-predominant (M:F ~7:1); associated with smoking and alcohol. Age >40 is correct, and esophageal voice post-laryngectomy is a true rehabilitation option.
 
 </details>
 
@@ -7331,7 +7331,7 @@ A patient presents with Ca larynx involving left false cord, left arytenoid and 
 
 <details><summary>Answer</summary>
 
-**B. Horizontal partial hemilaryngectomy** — Source: Medicoholic 2016 PYQ compilation.
+**B. Horizontal partial hemilaryngectomy** — **B. Horizontal partial hemilaryngectomy** — Supraglottic (horizontal) partial laryngectomy removes epiglottis, false cords, and aryepiglottic folds with preservation of bilateral mobile true cords; spares voice and swallowing function.
 
 </details>
 
@@ -7351,7 +7351,7 @@ In recurrent laryngeal nerve palsy which muscle keeps vocal cord in median posit
 
 <details><summary>Answer</summary>
 
-**B. Cricothyroid** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cricothyroid** — **B. Cricothyroid** — Cricothyroid (supplied by external superior laryngeal nerve, not RLN) remains intact in RLN palsy; it tenses and elongates the vocal cord, keeping it in the paramedian/median position (cadaveric position).
 
 </details>
 
@@ -7371,7 +7371,7 @@ Simple mastoidectomy is done in:
 
 <details><summary>Answer</summary>
 
-**C. Coalescent mastoiditis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Coalescent mastoiditis** — **C. Coalescent mastoiditis** — Simple (cortical) mastoidectomy removes infected mastoid air cells to drain pus in coalescent mastoiditis; it preserves the canal wall and is distinct from modified radical or radical mastoidectomy for cholesteatoma.
 
 </details>
 
@@ -7391,7 +7391,7 @@ Membrane incised during hemilaryngectomy is
 
 <details><summary>Answer</summary>
 
-**B. Cricothyroid** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cricothyroid** — **B. Cricothyroid** — During vertical hemilaryngectomy, the cricothyroid membrane is incised to enter the larynx; this approach allows access to the glottis while preserving contralateral vocal cord function.
 
 </details>
 
@@ -7411,7 +7411,7 @@ Treatment of mooren's ulcer is?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Mooren's ulcer (idiopathic autoimmune peripheral corneal ulcer) is treated with topical steroids (for mild cases), systemic immunosuppressives (methotrexate/cyclosporine), and corneal grafting for severe disease.
 
 </details>
 
@@ -7431,7 +7431,7 @@ Which of the following Glycosaminoglycans are not present in cornea
 
 <details><summary>Answer</summary>
 
-**D. Heparin sulfate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Heparin sulfate** — **D. Heparin sulfate** — Corneal stroma contains keratan sulfate (most abundant) and chondroitin sulfate as principal GAGs providing hydration and transparency; heparan sulfate is not a normal corneal component.
 
 </details>
 
@@ -7451,7 +7451,7 @@ The percentage of atropine present in atropine drops as cycloplegic is:
 
 <details><summary>Answer</summary>
 
-**B. 1%** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1%** — **B. 1%** — Atropine 1% eye drops are the standard cycloplegic concentration used in children for refraction and amblyopia treatment; 0.5% is used in infants to reduce systemic toxicity risk.
 
 </details>
 
@@ -7471,7 +7471,7 @@ False about treatment of cataract in children is
 
 <details><summary>Answer</summary>
 
-**C. Lensectomy is not one of the methods of extracapsular** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lensectomy is not one of the methods of extracapsular** — **C. Lensectomy is not one of the methods of extracapsular** — Lensectomy IS an extracapsular technique used in pediatric cataracts; it removes lens material through a small incision, making this statement false.
 
 </details>
 
@@ -7491,7 +7491,7 @@ Cell bodies of Muller's Cells are present in which layer of retina?
 
 <details><summary>Answer</summary>
 
-**A. Inner limiting membrane** — Source: Medicoholic 2016 PYQ compilation.
+**A. Inner limiting membrane** — **A. Inner limiting membrane** — Muller cells are radial glial cells spanning the full retinal thickness; their cell bodies lie in the inner nuclear layer, but their end-feet form the inner limiting membrane at the vitreal surface.
 
 </details>
 
@@ -7511,7 +7511,7 @@ Which of the following is false statement about vitreous?
 
 <details><summary>Answer</summary>
 
-**A. Anatomically, vitreous is present in anterior segment** — Source: Medicoholic 2016 PYQ compilation.
+**A. Anatomically, vitreous is present in anterior segment** — **A. Anatomically, vitreous is present in anterior segment** — The vitreous occupies the posterior segment (posterior to the lens); the anterior segment contains aqueous humor. This statement is anatomically false.
 
 </details>
 
@@ -7531,7 +7531,7 @@ Onset of stereopsis occurs at the age of:
 
 <details><summary>Answer</summary>
 
-**A. 3 to 5 months** — Source: Medicoholic 2016 PYQ compilation.
+**A. 3 to 5 months** — **A. 3 to 5 months** — Stereopsis (binocular depth perception) develops between 3-5 months of age as cortical binocular vision matures; its critical period ends by age 7-8; Randot stereotest can assess it by age 3.
 
 </details>
 
@@ -7551,7 +7551,7 @@ Homonymous hemianopia type of visual field defect is seen in all except ?
 
 <details><summary>Answer</summary>
 
-**D. Optic chaisma** — Source: Medicoholic 2016 PYQ compilation.
+**D. Optic chaisma** — **D. Optic chiasma** — Optic chiasma lesions cause bitemporal hemianopia (heteronymous) due to decussating nasal fibers; homonymous hemianopia occurs with optic tract, LGB, optic radiation, or occipital cortex lesions.
 
 </details>
 

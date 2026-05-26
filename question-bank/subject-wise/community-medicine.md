@@ -9042,7 +9042,7 @@ Which of the following is not true for scabies?
 
 <details><summary>Answer</summary>
 
-**B. Burrows are intradermal lesions** — Source: Medicoholic 2016 PYQ compilation.
+**B. Burrows are intradermal lesions** — **B. Burrows are intradermal lesions** — Scabies burrows are intraepidermal (within the stratum corneum), not intradermal; the mite Sarcoptes scabiei var. hominis tunnels into the epidermis to lay eggs; burrows are the pathognomonic lesion seen in web spaces, wrists, and genitalia.
 
 </details>
 
@@ -9281,7 +9281,7 @@ New RNTCP software online to monitor TB control programme is-
 
 <details><summary>Answer</summary>
 
-**A. NIKSHAY** — Source: NEET-PG 2017 medicoholic.com
+**A. NIKSHAY** — **A. NIKSHAY** — NIKSHAY is the web-based case-based online tracking system developed under NTEP (formerly RNTCP) to monitor TB patients from diagnosis to treatment completion; it enables real-time surveillance, directly observed therapy tracking, and drug supply management across India.
 
 </details>
 
@@ -9299,7 +9299,7 @@ Pasteurization is done at-
 
 <details><summary>Answer</summary>
 
-**B. 63 oC For 30 min** — Source: NEET-PG 2017 medicoholic.com
+**B. 63 oC For 30 min** — **B. 63°C For 30 min** — Holder pasteurization (LTLT method) heats milk to 63°C for 30 minutes; HTST method uses 72°C for 15 seconds; pasteurization destroys all non-sporing pathogens (Mycobacterium tuberculosis, Brucella, Salmonella) without altering milk nutritive quality.
 
 </details>
 
@@ -9317,7 +9317,7 @@ Susceptible person developed disease within range of IP after coming in contact 
 
 <details><summary>Answer</summary>
 
-**A. Secondary attack rate** — Source: NEET-PG 2017 medicoholic.com
+**A. Secondary attack rate** — **A. Secondary attack rate** — Secondary Attack Rate (SAR) measures the proportion of susceptible contacts who develop disease within one incubation period after exposure to a primary case; it reflects infectivity/transmissibility of a pathogen within a defined exposure group.
 
 </details>
 

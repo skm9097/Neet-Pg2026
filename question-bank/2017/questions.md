@@ -629,7 +629,7 @@ Opsonin is
 
 <details><summary>Answer</summary>
 
-**B. C3b**
+**B. C3b** — **B. C3b** — C3b is the principal opsonin of the complement system; it covalently binds to microbial surfaces and is recognised by complement receptor CR1 (CD35) on phagocytes, dramatically enhancing phagocytosis.
 
 </details>
 

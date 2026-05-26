@@ -1758,7 +1758,7 @@ The velocity of sperm is ?
 
 <details><summary>Answer</summary>
 
-**C. 1-4 mm/min** — Source: Medicoholic 2016 PYQ compilation.
+**C. 1-4 mm/min** — **C. 1-4 mm/min** — Spermatozoa propel themselves through cervical mucus and the female reproductive tract at approximately 1–4 mm/minute using flagellar motion, eventually traversing the uterus and fallopian tube.
 
 </details>
 
@@ -1778,7 +1778,7 @@ After ejaculation semen liquefies in ?
 
 <details><summary>Answer</summary>
 
-**B. 30 minutes** — Source: Medicoholic 2016 PYQ compilation.
+**B. 30 minutes** — **B. 30 minutes** — Semen initially coagulates due to seminal vesicle proteins (semenogelin) then liquefies within 15–30 minutes via PSA (prostate-specific antigen) proteolytic activity, enabling sperm motility.
 
 </details>
 
@@ -1798,7 +1798,7 @@ Alpha subunit of hCG is similar to ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — The alpha subunit of hCG, LH, FSH, and TSH are identical (92 amino acids); biological specificity is conferred by the unique beta subunit of each glycoprotein hormone.
 
 </details>
 
@@ -1818,7 +1818,7 @@ The pelvic inlet usually is considered to be contracted if its shortest anteropo
 
 <details><summary>Answer</summary>
 
-**B. 10 cm** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10 cm** — **B. 10 cm** — A pelvic inlet is contracted if the obstetric conjugate (anteroposterior diameter) is less than 10 cm; below this threshold, engagement and descent of the fetal head is impeded, risking cephalopelvic disproportion.
 
 </details>
 
@@ -1838,7 +1838,7 @@ Azoospermia with normal FSH would indicate ?
 
 <details><summary>Answer</summary>
 
-**C. Obstruction of vas defrens** — Source: Medicoholic 2016 PYQ compilation.
+**C. Obstruction of vas defrens** — **C. Obstruction of vas deferens** — Normal FSH indicates intact spermatogenesis in the testes; azoospermia with normal FSH points to obstructive azoospermia (vas deferens, epididymis, ejaculatory duct blockage) rather than testicular failure.
 
 </details>
 
@@ -1858,7 +1858,7 @@ CRL when cardiac activity can be detected earliest by TVS -
 
 <details><summary>Answer</summary>
 
-**A. 1-4mm** — Source: Medicoholic 2016 PYQ compilation.
+**A. 1-4mm** — **A. 1-4mm** — Cardiac activity by transvaginal ultrasound can first be detected at CRL 1–4 mm (approximately 5–6 weeks gestational age), appearing as flickering motion at the embryonic cardiac pole.
 
 </details>
 
@@ -1878,7 +1878,7 @@ Surgical excision of corpus luteum before weeks of gestation, results in miscarr
 
 <details><summary>Answer</summary>
 
-**A. 6-7** — Source: Medicoholic 2016 PYQ compilation.
+**A. 6-7** — **A. 6-7** — The corpus luteum produces progesterone essential for endometrial support and uterine quiescence until 6–7 weeks; before luteoplacental shift (~8–10 weeks), its removal causes progesterone withdrawal and miscarriage.
 
 </details>
 
@@ -1898,7 +1898,7 @@ MVA syringe is used for ?
 
 <details><summary>Answer</summary>
 
-**A. First trimester MTP** — Source: Medicoholic 2016 PYQ compilation.
+**A. First trimester MTP** — **A. First trimester MTP** — The Manual Vacuum Aspiration (MVA) syringe creates negative pressure to evacuate products of conception up to 12 weeks gestation; it is a safe, effective method for early MTP without general anaesthesia.
 
 </details>
 
@@ -1918,7 +1918,7 @@ Woman has 100 ml blood loss every 30 days. This is called as ?
 
 <details><summary>Answer</summary>
 
-**A. Menorrhagia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Menorrhagia** — **A. Menorrhagia** — Menorrhagia is defined as cyclical menstrual blood loss exceeding 80 mL per cycle; 100 mL loss with normal 30-day cycle interval constitutes menorrhagia (heavy menstrual bleeding at regular intervals).
 
 </details>
 
@@ -1938,7 +1938,7 @@ In IVF, embryos are transferred back to uterine cavity at cells stage ?
 
 <details><summary>Answer</summary>
 
-**C. 4-8** — Source: Medicoholic 2016 PYQ compilation.
+**C. 4-8** — **C. 4-8** — In IVF, embryos are transferred at the 4–8 cell stage (Day 2–3) or blastocyst stage (Day 5); the 4–8 cell cleavage stage allows adequate embryo development in vitro before uterine transfer.
 
 </details>
 
@@ -1958,7 +1958,7 @@ With which of the following events, the feto maternal haemorrhage risk is the le
 
 <details><summary>Answer</summary>
 
-**D. Abruption** — Source: Medicoholic 2016 PYQ compilation.
+**D. Abruption** — **D. Abruption** — Placental abruption causes retroplacental haematoma but the main bleeding is into the retro-placental clot; invasive procedures (amniocentesis, cordocentesis, CVS) directly breach placental vessels causing FMH.
 
 </details>
 
@@ -1978,7 +1978,7 @@ Infertility is defined as ?
 
 <details><summary>Answer</summary>
 
-**A. Inability to conceive after 1 year of regular unprotected** — Source: Medicoholic 2016 PYQ compilation.
+**A. Inability to conceive after 1 year of regular unprotected** — **A. Inability to conceive after 1 year of regular unprotected** — WHO defines infertility as failure to achieve clinical pregnancy after 12 months of regular unprotected sexual intercourse; women >35 years are evaluated after 6 months.
 
 </details>
 
@@ -1998,7 +1998,7 @@ Cord prolapse is least likely with -
 
 <details><summary>Answer</summary>
 
-**C. Oligohydroamnios** — Source: Medicoholic 2016 PYQ compilation.
+**C. Oligohydroamnios** — **C. Oligohydroamnios** — Oligohydramnios causes the cord to be tightly pressed between the fetus and uterus with no fluid space for prolapse; cord prolapse requires a poorly fitting presenting part leaving a gap for cord descent.
 
 </details>
 
@@ -2018,7 +2018,7 @@ After IUFD, when does the mother develop DIC -
 
 <details><summary>Answer</summary>
 
-**C. 3-4 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3-4 weeks** — **C. 3-4 weeks** — After intrauterine fetal death, retained products release thromboplastins that gradually deplete clotting factors; DIC typically develops after 3–4 weeks of retention as coagulation cascade is progressively consumed.
 
 </details>
 
@@ -2038,7 +2038,7 @@ Earliest sign after IUFD is ?
 
 <details><summary>Answer</summary>
 
-**C. Gas in great vessel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gas in great vessel** — **C. Gas in great vessel** — Robert's sign (gas in great vessels/heart) is the earliest radiological sign of IUFD appearing within hours of death due to gas-forming bacteria; Spalding's sign (skull bone overlap) takes 1–2 weeks.
 
 </details>
 
@@ -2058,7 +2058,7 @@ True about Gartners cyst is ?
 
 <details><summary>Answer</summary>
 
-**A. Retention cyst in remnants of Wolffian duct** — Source: Medicoholic 2016 PYQ compilation.
+**A. Retention cyst in remnants of Wolffian duct** — **A. Retention cyst in remnants of Wolffian duct** — Gartner's duct cyst arises from mesonephric (Wolffian) duct remnants along the anterolateral vaginal wall; it is lined by cuboidal non-mucinous epithelium, located in vagina not cervix.
 
 </details>
 
@@ -2078,7 +2078,7 @@ If the rectal mucosa is injured, it is which degree of Perineal Tear ?
 
 <details><summary>Answer</summary>
 
-**D. Fourth** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fourth** — **D. Fourth** — Fourth-degree perineal tear extends through the anal sphincter complex AND rectal mucosa; 3rd degree involves the anal sphincter only; rectal mucosa involvement upgrades the tear to 4th degree.
 
 </details>
 
@@ -2098,7 +2098,7 @@ HPL has activity similar to which hormone ?
 
 <details><summary>Answer</summary>
 
-**B. Growth hormone** — Source: Medicoholic 2016 PYQ compilation.
+**B. Growth hormone** — **B. Growth hormone** — Human placental lactogen (hPL/hCS) has structural and functional homology with growth hormone; it promotes maternal lipolysis and gluconeogenesis (insulin antagonism), ensuring fetal glucose supply.
 
 </details>
 
@@ -2118,7 +2118,7 @@ Dilatation & evacuation is done for all ecxept ?
 
 <details><summary>Answer</summary>
 
-**C. Threatened abortion** — Source: Medicoholic 2016 PYQ compilation.
+**C. Threatened abortion** — **C. Threatened abortion** — Threatened abortion (closed os, viable pregnancy) is managed conservatively with bed rest and progesterone; D&E is appropriate for inevitable (open os) and incomplete abortion (retained products).
 
 </details>
 
@@ -2138,7 +2138,7 @@ WHO normal Hb value for a non pregnant adult female is ?
 
 <details><summary>Answer</summary>
 
-**C. 12 gm/dl** — Source: Medicoholic 2016 PYQ compilation.
+**C. 12 gm/dl** — **C. 12 gm/dl** — WHO defines anaemia in non-pregnant adult women as Hb <12 g/dL; for pregnant women the threshold is 11 g/dL; this lower cut-off in pregnancy reflects physiological haemodilution.
 
 </details>
 
@@ -2158,7 +2158,7 @@ Which of the following epidermal layer is dead layer?
 
 <details><summary>Answer</summary>
 
-**C. Stratum corneum** — Source: Medicoholic 2016 PYQ compilation.
+**C. Stratum corneum** — **C. Stratum corneum** — Stratum corneum consists of anucleate, keratin-filled corneocytes (dead cells) embedded in a lipid bilayer matrix; it forms the primary epidermal barrier against water loss and external pathogens.
 
 </details>
 
@@ -2178,7 +2178,7 @@ Langerhans cell are seen in which layer of skin?
 
 <details><summary>Answer</summary>
 
-**D. Stratum spinosum** — Source: Medicoholic 2016 PYQ compilation.
+**D. Stratum spinosum** — **D. Stratum spinosum** — Langerhans cells (bone marrow-derived dendritic antigen-presenting cells) reside predominantly in the stratum spinosum where they process antigens via CD1a-mediated presentation to T lymphocytes.
 
 </details>
 
@@ -2198,7 +2198,7 @@ Increase in the thickness of the prickle cell layer of the epidermis is called?
 
 <details><summary>Answer</summary>
 
-**B. Acanthosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Acanthosis** — **B. Acanthosis** — Acanthosis is thickening of the stratum spinosum (prickle cell layer), seen in psoriasis and chronic eczema; spongiosis is intercellular oedema; hyperkeratosis is stratum corneum thickening.
 
 </details>
 
@@ -2218,7 +2218,7 @@ Substance common in skin and hair is?
 
 <details><summary>Answer</summary>
 
-**A. Keratin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Keratin** — **A. Keratin** — Keratin is the structural fibrous protein forming the cytoskeleton of keratinocytes in the epidermis, and the major structural component of hair shafts and nail plates.
 
 </details>
 
@@ -2238,7 +2238,7 @@ Which of the following is a melanising agent?
 
 <details><summary>Answer</summary>
 
-**A. Methoxsalen** — Source: Medicoholic 2016 PYQ compilation.
+**A. Methoxsalen** — **A. Methoxsalen** — Methoxsalen (8-MOP) is a psoralen that intercalates with DNA on UVA exposure (PUVA therapy), stimulating melanocyte proliferation and melanin synthesis; used in vitiligo, psoriasis, and mycosis fungoides.
 
 </details>
 
@@ -2258,7 +2258,7 @@ Fordyce spots involve?
 
 <details><summary>Answer</summary>
 
-**A. Penis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Penis** — **A. Penis** — Fordyce spots are ectopic sebaceous glands without hair follicles appearing as 1–5 mm yellowish papules on the penile shaft, glans, scrotum, labia minora, and lip vermillion; a normal anatomical variant.
 
 </details>
 
@@ -2278,7 +2278,7 @@ Most common etiology of erythema multiforme is?
 
 <details><summary>Answer</summary>
 
-**A. Idiopathic** — Source: Medicoholic 2016 PYQ compilation.
+**A. Idiopathic** — **A. Idiopathic** — Erythema multiforme is most commonly idiopathic (50%); among identifiable causes, HSV is the most frequent infectious trigger; drugs are more commonly implicated in severe Stevens-Johnson syndrome.
 
 </details>
 
@@ -2298,7 +2298,7 @@ Most common pattern of onychomycosis is?
 
 <details><summary>Answer</summary>
 
-**A. Distal and lateral subungual** — Source: Medicoholic 2016 PYQ compilation.
+**A. Distal and lateral subungual** — **A. Distal and lateral subungual** — Distal lateral subungual onychomycosis (DLSO) is the most common pattern, caused by dermatophytes invading the nail from the hyponychium, causing subungual hyperkeratosis and onycholysis.
 
 </details>
 
@@ -2338,7 +2338,7 @@ Not a feature of candidal intertrigo is?
 
 <details><summary>Answer</summary>
 
-**C. Central scaling** — Source: Medicoholic 2016 PYQ compilation.
+**C. Central scaling** — **C. Central scaling** — Candidal intertrigo features erythematous moist patches with satellite papulopustules at skin folds; central scaling is not a feature — it is characteristic of tinea corporis (ringworm) where scaling occurs at the active border.
 
 </details>
 

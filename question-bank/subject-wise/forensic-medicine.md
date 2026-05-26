@@ -992,7 +992,7 @@ Which metal results in “Saturnine gout” formation
 
 <details><summary>Answer</summary>
 
-**B. Lead**
+**B. Lead** — **B. Lead** — Saturnine gout is caused by chronic lead poisoning; lead inhibits urate excretion in renal tubules, raising serum uric acid levels and precipitating gout; historically associated with lead-glazed vessel use.
 
 </details>
 

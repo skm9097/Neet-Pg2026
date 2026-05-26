@@ -1140,7 +1140,7 @@ Opsonin is
 
 <details><summary>Answer</summary>
 
-**B. C3b**
+**B. C3b** — **B. C3b** — C3b is the principal opsonin of the complement system; it covalently binds to microbial surfaces and is recognised by complement receptor CR1 (CD35) on phagocytes, dramatically enhancing phagocytosis.
 
 </details>
 
@@ -1981,7 +1981,7 @@ Which metal results in “Saturnine gout” formation
 
 <details><summary>Answer</summary>
 
-**B. Lead**
+**B. Lead** — **B. Lead** — Saturnine gout is caused by chronic lead poisoning; lead inhibits urate excretion in renal tubules, raising serum uric acid levels and precipitating gout; historically associated with lead-glazed vessel use.
 
 </details>
 
@@ -2991,7 +2991,7 @@ Chordoma arises from
 
 <details><summary>Answer</summary>
 
-**B. Notochord**
+**B. Notochord** — **B. Notochord** — Chordoma is a low-grade malignant tumour arising from notochordal remnants; it occurs at the ends of the axial skeleton — sacrococcygeal region (50%) and skull base/clivus (35%); characterised by physaliphorous cells.
 
 </details>
 
@@ -3135,7 +3135,7 @@ New born baby with heart rate less than 60 beats per minute can be resuscitated 
 
 <details><summary>Answer</summary>
 
-**D. slapping the back**
+**D. slapping the back** — **D. Slapping the back** — Slapping a newborn's back is never recommended in neonatal resuscitation; acceptable tactile stimulation includes drying, rubbing the back gently, and flicking the soles; chest compressions are needed for HR <60 bpm.
 
 </details>
 
@@ -3151,7 +3151,7 @@ Mobitz type 2 second degree AV block is seen in all except
 
 <details><summary>Answer</summary>
 
-**D. Cushing syndrome**
+**D. Cushing syndrome** — **D. Cushing syndrome** — Mobitz type II AV block is associated with structural disease: CAD, sarcoidosis, hypothyroidism, Lyme disease, and aortic valve disease; Cushing syndrome (hypercortisolism) does not classically cause Mobitz type II block.
 
 </details>
 
@@ -4444,7 +4444,7 @@ A boy presented with multiple non suppurative osteomyelitis with sickle cell ana
 
 <details><summary>Answer</summary>
 
-**A. Salmonella**
+**A. Salmonella** — **A. Salmonella** — In sickle cell anaemia, Salmonella species (especially Salmonella typhimurium) are the most common cause of osteomyelitis, unlike the general population where Staphylococcus aureus predominates; infarctive gut mucosa allows Salmonella entry.
 
 </details>
 

@@ -24430,7 +24430,7 @@ Most common mechanism of arrhythmia
 
 <details><summary>Answer</summary>
 
-**A. Re-entry** — Source: Medicoholic 2015 PYQ compilation.
+**A. Re-entry** — **A. Re-entry** — Re-entry is the most common arrhythmia mechanism; requires two pathways with different conduction velocities and refractory periods; responsible for AF, atrial flutter, AVNRT, and most VT/VF.
 
 </details>
 
@@ -24446,7 +24446,7 @@ Not recommended in coronary artery disease patients
 
 <details><summary>Answer</summary>
 
-**C. Vitamin-E** — Source: Medicoholic 2015 PYQ compilation.
+**C. Vitamin-E** — **C. Vitamin-E** — Large randomized trials (HOPE, GISSI) showed Vitamin E supplementation does not reduce cardiovascular events and may increase heart failure risk in CAD patients; statins, exercise, and potassium have beneficial roles.
 
 </details>
 
@@ -24462,7 +24462,7 @@ Digitalis is used in mitral stenosis when patient develops
 
 <details><summary>Answer</summary>
 
-**A. Atrial fibrillation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Atrial fibrillation** — **A. Atrial fibrillation** — Digitalis slows ventricular rate in AF by enhancing vagal tone and slowing AV nodal conduction; in pure MS with sinus rhythm, digitalis provides little benefit but is indicated when AF develops.
 
 </details>
 
@@ -24478,7 +24478,7 @@ Which is the best way to differentiate between stable angina and NSTEMI?
 
 <details><summary>Answer</summary>
 
-**B. Cardiac-biomarker** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cardiac-biomarker** — **B. Cardiac-biomarker** — Troponin I/T elevation distinguishes NSTEMI (myocardial necrosis) from stable angina (no necrosis); ECG changes (ST depression, T-wave inversion) occur in both; troponin is the gold standard biomarker.
 
 </details>
 
@@ -24494,7 +24494,7 @@ Aetiology of Dressler Syndrome is
 
 <details><summary>Answer</summary>
 
-**B. Autoimmune** — Source: Medicoholic 2015 PYQ compilation.
+**B. Autoimmune** — **B. Autoimmune** — Dressler syndrome (post-MI pericarditis) occurs weeks after MI due to autoimmune reaction against cardiac antigens released during necrosis; anti-myocardial antibodies trigger pericarditis, pleuritis, and fever.
 
 </details>
 
@@ -24510,7 +24510,7 @@ Predisposing factors for coronary artery disease include, all Except:
 
 <details><summary>Answer</summary>
 
-**B. ↑ Lipoprotein B** — Source: Medicoholic 2015 PYQ compilation.
+**B. ↑ Lipoprotein B** — **B. ↑ Lipoprotein B** — Increased Lipoprotein(a), not Lipoprotein B (apoB-100), is a CAD risk factor; apoB-100 IS atherogenic but the question likely means Lp(a); homocysteinemia, fibrinogen, and PAI-1 are all established CAD risk factors.
 
 </details>
 
@@ -24526,7 +24526,7 @@ Murmur heard in aortic stenosis
 
 <details><summary>Answer</summary>
 
-**A. Right 2nd intercistal, low pitch murmur** — Source: Medicoholic 2015 PYQ compilation.
+**A. Right 2nd intercistal, low pitch murmur** — **A. Right 2nd intercistal, low pitch murmur** — Aortic stenosis produces a harsh ejection systolic murmur best heard at the right 2nd intercostal space (aortic area), radiating to carotids; low pitch with crescendo-decrescendo pattern.
 
 </details>
 
@@ -24542,7 +24542,7 @@ Basket weave appearance of glomerular basement membrane on electron microscopy i
 
 <details><summary>Answer</summary>
 
-**A. Alport syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**A. Alport syndrome** — **A. Alport syndrome** — Alport syndrome (COL4A3/4/5 mutations) shows irregular GBM with alternating thick and thin lamellation creating a "basket-weave" or "split" lamina densa pattern on EM; causes SNHL, hematuria, and renal failure.
 
 </details>
 
@@ -24558,7 +24558,7 @@ All are true about GFR except
 
 <details><summary>Answer</summary>
 
-**C. C.K.D is defied as GFR < 30 ml/min/1.732 for 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**C. C.K.D is defied as GFR < 30 ml/min/1.732 for 4 weeks** — **C. C.K.D is defied as GFR < 30 ml/min/1.732 for 4 weeks** — CKD is defined as GFR <60 ml/min/1.73m² (not <30) persisting for ≥3 months (not 4 weeks); GFR declines ~1 ml/min/year after age 40.
 
 </details>
 
@@ -24574,7 +24574,7 @@ Which is a hormone dependent liver tumor ?
 
 <details><summary>Answer</summary>
 
-**A. Adenoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Adenoma** — **A. Adenoma** — Hepatic adenoma is strongly associated with oral contraceptive pill use (estrogen-dependent); risk increases with duration of use; may regress on stopping OCP; risk of rupture and hemorrhage.
 
 </details>
 
@@ -24590,7 +24590,7 @@ HAM test is based upon :
 
 <details><summary>Answer</summary>
 
-**B. Complement** — Source: Medicoholic 2015 PYQ compilation.
+**B. Complement** — **B. Complement** — Ham's acid serum test detects PNH by showing lysis of patient's RBCs in acidified serum; low pH activates the alternative complement pathway, lysing PNH cells that lack GPI-anchored complement regulatory proteins (CD55, CD59).
 
 </details>
 
@@ -24606,7 +24606,7 @@ All are true about CNS leukemia except
 
 <details><summary>Answer</summary>
 
-**C. Seen with acute myeloid leukemia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Seen with acute myeloid leukemia** — **C. Seen with acute myeloid leukemia** — CNS leukemia is primarily a complication of ALL (acute lymphoblastic leukemia), especially T-cell and B-cell precursor ALL; AML rarely causes CNS involvement; prophylaxis with intrathecal MTX and cranial radiation is for ALL.
 
 </details>
 
@@ -24622,7 +24622,7 @@ Patient on insulin in CKD stage 4. What is the dose adjustment of insulin requir
 
 <details><summary>Answer</summary>
 
-**B. Decreased insulin** — Source: Medicoholic 2015 PYQ compilation.
+**B. Decreased insulin** — **B. Decreased insulin** — In CKD stage 4, reduced renal insulin clearance (kidneys metabolize ~30-40% of insulin) and impaired renal gluconeogenesis prolong insulin action; dose reduction is necessary to prevent hypoglycemia.
 
 </details>
 
@@ -24638,7 +24638,7 @@ A patient after an accident was unconscious. On physical examination there was u
 
 <details><summary>Answer</summary>
 
-**A. Uncal herniation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Uncal herniation** — **A. Uncal herniation** — Uncal (transtentorial) herniation compresses ipsilateral CN III against the tentorium, causing ipsilateral fixed dilated pupil; progressive herniation affects the contralateral hemisphere and brainstem.
 
 </details>
 
@@ -24654,7 +24654,7 @@ Commonest cause of cerebro vascular accident
 
 <details><summary>Answer</summary>
 
-**A. Infarction** — Source: Medicoholic 2015 PYQ compilation.
+**A. Infarction** — **A. Infarction** — Ischemic stroke (thrombotic or embolic infarction) accounts for ~85% of all CVA cases; hemorrhagic stroke (intracerebral or subarachnoid) accounts for the remaining ~15%; atherosclerosis is the leading cause.
 
 </details>
 
@@ -24670,7 +24670,7 @@ Criteria for Brainstem death includes:
 
 <details><summary>Answer</summary>
 
-**B. Absent pupillary light reflex and delated pupils** — Source: Medicoholic 2015 PYQ compilation.
+**B. Absent pupillary light reflex and delated pupils** — **B. Absent pupillary light reflex and delated pupils** — Brainstem death criteria include fixed dilated pupils (CN III/midbrain), absent corneal, gag, cough, and vestibulo-ocular reflexes, and apnea; positive doll's eye (intact brainstem) excludes brainstem death.
 
 </details>
 
@@ -24686,7 +24686,7 @@ The following are components of Brown Sequard syndrome except :
 
 <details><summary>Answer</summary>
 
-**D. Contralateral posterior column involvement** — Source: Medicoholic 2015 PYQ compilation.
+**D. Contralateral posterior column involvement** — **D. Contralateral posterior column involvement** — Brown-Séquard (cord hemisection) causes ipsilateral loss of posterior column (proprioception/vibration), ipsilateral UMN signs, and contralateral spinothalamic loss (pain/temperature); posterior column loss is ipsilateral, not contralateral.
 
 </details>
 
@@ -24702,7 +24702,7 @@ DOC for treatment of SSPE -
 
 <details><summary>Answer</summary>
 
-**B. Inosine pranobex** — Source: Medicoholic 2015 PYQ compilation.
+**B. Inosine pranobex** — **B. Inosine pranobex** — Inosine pranobex (isoprinosine) is the drug of choice for SSPE (subacute sclerosing panencephalitis); it has immunomodulatory and antiviral properties, slowing disease progression though not curative.
 
 </details>
 
@@ -24718,7 +24718,7 @@ Aspirin decreases the risk of development of which of the following -
 
 <details><summary>Answer</summary>
 
-**A. Colorectal cancer** — Source: Medicoholic 2015 PYQ compilation.
+**A. Colorectal cancer** — **A. Colorectal cancer** — Regular aspirin use reduces colorectal cancer risk by 40-50% through COX-2 inhibition (reducing PGE2-driven proliferation), inhibition of NF-κB signaling, and induction of apoptosis in colonic epithelial cells.
 
 </details>
 
@@ -24734,7 +24734,7 @@ Mosaic pattern of coment line is characteristically seen in -
 
 <details><summary>Answer</summary>
 
-**B. Paget's disease of bone** — Source: Medicoholic 2015 PYQ compilation.
+**B. Paget's disease of bone** — **B. Paget's disease of bone** — Mosaic (jigsaw/cement line) pattern on histology is pathognomonic of Paget's disease; irregular cement lines reflect alternating phases of disordered bone resorption and deposition by abnormal osteoclasts/osteoblasts.
 
 </details>
 
@@ -24750,7 +24750,7 @@ All of the following are true about Gout, except:-
 
 <details><summary>Answer</summary>
 
-**D. Occurs more in females** — Source: Medicoholic 2015 PYQ compilation.
+**D. Occurs more in females** — **D. Occurs more in females** — Gout predominantly affects males (9:1 male:female ratio); estrogen promotes renal uric acid excretion, protecting premenopausal women; postmenopausal women lose this protection and incidence approaches that of men.
 
 </details>
 
@@ -24766,7 +24766,7 @@ All are true about cross-matching of blood except -
 
 <details><summary>Answer</summary>
 
-**C. Donor serum is tested against recipient packed cells** — Source: Medicoholic 2015 PYQ compilation.
+**C. Donor serum is tested against recipient packed cells** — **C. Donor serum is tested against recipient packed cells** — In crossmatching, recipient serum is tested against donor cells (major crossmatch) to detect recipient antibodies against donor antigens; the minor crossmatch tests donor serum against recipient cells.
 
 </details>
 
@@ -24782,7 +24782,7 @@ Best management after human bite -
 
 <details><summary>Answer</summary>
 
-**A. Ampicillin plus sulbactam** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ampicillin plus sulbactam** — **A. Ampicillin plus sulbactam** — Human bite wounds contain Eikenella corrodens plus oral anaerobes and streptococci; amoxicillin-clavulanate (or ampicillin-sulbactam IV) covers this polymicrobial flora including beta-lactamase producers.
 
 </details>
 
@@ -24798,7 +24798,7 @@ In a patient who was brought to casualty after RTA with pulse rate 108, SBP 80. 
 
 <details><summary>Answer</summary>
 
-**B. Normal Saline** — Source: Medicoholic 2015 PYQ compilation.
+**B. Normal Saline** — **B. Normal Saline** — Isotonic crystalloid (Normal Saline or Ringer's Lactate) is the initial fluid resuscitation of choice in hemorrhagic shock (class III here); blood products are added if crystalloid resuscitation is insufficient.
 
 </details>
 
@@ -24814,7 +24814,7 @@ True abour drug induced SLE is except ?
 
 <details><summary>Answer</summary>
 
-**A. Female: Male ratio=9:1** — Source: Medicoholic 2015 PYQ compilation.
+**A. Female: Male ratio=9:1** — **A. Female: Male ratio=9:1** — Drug-induced lupus (DIL) has an equal male:female ratio (unlike idiopathic SLE with 9:1 female predominance); DIL features anti-histone antibodies, no renal/CNS involvement, and resolves on drug withdrawal.
 
 </details>
 
@@ -24830,7 +24830,7 @@ After Road traffic accident a patient presented to casualty with vitals showing 
 
 <details><summary>Answer</summary>
 
-**B. Neurogenic** — Source: Medicoholic 2015 PYQ compilation.
+**B. Neurogenic** — **B. Neurogenic** — BP 90/60 with bradycardia (HR 56) after spinal trauma indicates neurogenic shock; loss of sympathetic tone below injury level causes vasodilation and bradycardia; distinguishes from hypovolemic shock where tachycardia is expected.
 
 </details>
 
@@ -24846,7 +24846,7 @@ Chimeric chemotherapy is being investigated for the treatment of which malignanc
 
 <details><summary>Answer</summary>
 
-**A. Leukemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Leukemia** — **A. Leukemia** — CAR-T (Chimeric Antigen Receptor T-cell) therapy targets CD19 on B-cell leukemia/lymphoma cells; tisagenlecleucel is FDA-approved for relapsed/refractory ALL, representing a breakthrough in chimeric immunotherapy.
 
 </details>
 
@@ -24862,7 +24862,7 @@ A patient (age not captured in source) who is a year old male presents with CA p
 
 <details><summary>Answer</summary>
 
-**A. Radical prostatectomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Radical prostatectomy** — **A. Radical prostatectomy** — Organ-confined prostate cancer (T2, no metastasis, palpable on DRE) is amenable to curative radical prostatectomy; this removes the entire prostate, seminal vesicles, and regional lymph nodes.
 
 </details>
 
@@ -24878,7 +24878,7 @@ A patient (age not captured in source) who is a year old male is receiving conse
 
 <details><summary>Answer</summary>
 
-**C. Proceed to laparotomy and appendicectomy** — Source: Medicoholic 2015 PYQ compilation.
+**C. Proceed to laparotomy and appendicectomy** — **C. Proceed to laparotomy and appendicectomy** — Rising pulse during conservative management of appendicular mass (Ochsner-Sherren regimen) signals failure with sepsis/abscess formation; this mandates urgent surgical intervention.
 
 </details>
 
@@ -24894,7 +24894,7 @@ Under what guidelines is treatment started for a patient presenting with appendi
 
 <details><summary>Answer</summary>
 
-**A. Ochsner Sherren Regimen** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ochsner Sherren Regimen** — **A. Ochsner Sherren Regimen** — Ochsner-Sherren regimen is conservative management for appendicular mass: NPO, IV fluids, antibiotics, vital monitoring, and interval appendicectomy after 6-8 weeks once mass resolves.
 
 </details>
 
@@ -27473,7 +27473,7 @@ Gaisbock syndrome is known as
 
 <details><summary>Answer</summary>
 
-**C. Spurious Polycythemia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Spurious Polycythemia** — **C. Spurious Polycythemia** — Gaisbock syndrome (stress/relative polycythemia) is pseudopolycythemia due to reduced plasma volume without true red cell mass increase; associated with obesity, hypertension, smoking, and stress.
 
 </details>
 
@@ -27489,7 +27489,7 @@ Polyarticular onset JRA involves more than how many joints -
 
 <details><summary>Answer</summary>
 
-**C. 5** — Source: Medicoholic 2015 PYQ compilation.
+**C. 5** — **C. 5** — Polyarticular JIA (juvenile idiopathic arthritis) is defined by involvement of 5 or more joints within the first 6 months of disease onset; pauciarticular involves ≤4 joints.
 
 </details>
 
@@ -27505,7 +27505,7 @@ Which of the following is given to decrease Serum Triglycerides?
 
 <details><summary>Answer</summary>
 
-**A. Fibrates** — Source: Medicoholic 2015 PYQ compilation.
+**A. Fibrates** — **A. Fibrates** — Fibrates (fenofibrate, gemfibrozil) activate PPARα, increasing lipoprotein lipase activity and reducing hepatic VLDL synthesis; they are the most effective drugs for lowering serum triglycerides (by 30–50%).
 
 </details>
 
@@ -27521,7 +27521,7 @@ Blood transfusion associated acute lung injury occurs due to -
 
 <details><summary>Answer</summary>
 
-**B. HLA mediated** — Source: Medicoholic 2015 PYQ compilation.
+**B. HLA mediated** — **B. HLA mediated** — TRALI is primarily caused by donor anti-HLA or anti-neutrophil antibodies reacting with recipient leucocytes, activating neutrophils in pulmonary vasculature and causing non-cardiogenic pulmonary oedema within 6 hours.
 
 </details>
 
@@ -27537,7 +27537,7 @@ Dietary deficiency of which vitamin usually does not exist -
 
 <details><summary>Answer</summary>
 
-**C. Vitamin-E** — Source: Medicoholic 2015 PYQ compilation.
+**C. Vitamin-E** — **C. Vitamin-E** — Vitamin E is ubiquitous in plant oils, nuts, and seeds; dietary deficiency is extremely rare in healthy adults. Deficiency occurs in fat malabsorption syndromes (cystic fibrosis, abetalipoproteinaemia) not from diet alone.
 
 </details>
 
@@ -27553,7 +27553,7 @@ Manifestations of vitamin E.deficiency are all except -
 
 <details><summary>Answer</summary>
 
-**D. Autonomic dysfunction** — Source: Medicoholic 2015 PYQ compilation.
+**D. Autonomic dysfunction** — **D. Autonomic dysfunction** — Vitamin E deficiency causes haemolytic anaemia (oxidative RBC damage), posterior column degeneration (proprioception/vibration loss), and cerebellar ataxia; autonomic dysfunction is not a recognised feature.
 
 </details>
 
@@ -27569,7 +27569,7 @@ HIV RNA by PCR can detect as low as
 
 <details><summary>Answer</summary>
 
-**B. 40 copies viral RNA/ml of blood** — Source: Medicoholic 2015 PYQ compilation.
+**B. 40 copies viral RNA/ml of blood** — **B. 40 copies viral RNA/ml of blood** — Modern quantitative HIV RNA PCR assays have detection limits of 40–50 copies/mL; ultra-sensitive assays can reach 20 copies/mL; this threshold is used to define virological suppression on ART.
 
 </details>
 
@@ -27585,7 +27585,7 @@ Smoking may be associated with all of the following cancers, except:
 
 <details><summary>Answer</summary>
 
-**D. None** — Source: Medicoholic 2015 PYQ compilation.
+**D. None** — **D. None** — Smoking is carcinogenic for all listed cancers: laryngeal (strong), nasopharyngeal (moderate, though EBV is primary), and bladder (tobacco carcinogens excreted in urine); therefore none is an exception — all are smoking-associated.
 
 </details>
 
@@ -27601,7 +27601,7 @@ Traumatic optic neuropathy due to closed head trauma commonly affects which part
 
 <details><summary>Answer</summary>
 
-**A. Optic canal** — Source: Medicoholic 2015 PYQ compilation.
+**A. Optic canal** — **A. Optic canal** — The intracanalicular segment of the optic nerve is tethered within the rigid bony optic canal; shear forces from closed head trauma (especially fronto-temporal blows) concentrate here, causing traumatic optic neuropathy.
 
 </details>
 
@@ -29223,7 +29223,7 @@ Incontinentia pigmenti involves all exept ?
 
 <details><summary>Answer</summary>
 
-**D. Heart** — Source: Medicoholic 2015 PYQ compilation.
+**D. Heart** — **D. Heart** — Incontinentia pigmenti (X-linked dominant) involves skin (4 stages of blistering to hyperpigmentation), teeth (hypodontia), bones, eyes, and CNS; cardiac involvement is not a recognized feature.
 
 </details>
 
@@ -29239,7 +29239,7 @@ Bull's eye lesions are found in ?
 
 <details><summary>Answer</summary>
 
-**C. Erythema multiforme** — Source: Medicoholic 2015 PYQ compilation.
+**C. Erythema multiforme** — **C. Erythema multiforme** — Target (bull's eye) lesions of erythema multiforme have three zones: central dusky/necrotic area, middle pale edematous ring, and outer erythematous ring; triggered by HSV or drug hypersensitivity.
 
 </details>
 
@@ -29255,7 +29255,7 @@ Husband having suspicion that his wife is having affair with another man, diagno
 
 <details><summary>Answer</summary>
 
-**B. Delusion** — Source: Medicoholic 2015 PYQ compilation.
+**B. Delusion** — **B. Delusion** — This describes delusional jealousy (Othello syndrome), a fixed false unshakeable belief not amenable to logic; it is a DSM-5 delusional disorder (jealous type) persisting ≥1 month.
 
 </details>
 
@@ -29271,7 +29271,7 @@ The site of lesion in Korsakoff's psychosis is
 
 <details><summary>Answer</summary>
 
-**C. Mammilary Body** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mammilary Body** — **C. Mammilary Body** — Korsakoff's psychosis results from thiamine (B1) deficiency causing bilateral mammillary body hemorrhage and necrosis, leading to anterograde amnesia, confabulation, and disorientation.
 
 </details>
 
@@ -29287,7 +29287,7 @@ Which of the following is not associated with dementia:
 
 <details><summary>Answer</summary>
 
-**B. Alteration of consciousness** — Source: Medicoholic 2015 PYQ compilation.
+**B. Alteration of consciousness** — **B. Alteration of consciousness** — DSM-5 distinguishes dementia (neurocognitive disorder) from delirium by the absence of consciousness alteration; dementia features memory loss, personality change, and functional decline with clear sensorium.
 
 </details>
 
@@ -29303,7 +29303,7 @@ A girl with bad behavior like smashing and throwing objects was admitted in the 
 
 <details><summary>Answer</summary>
 
-**D. Antisocial personality** — Source: Medicoholic 2015 PYQ compilation.
+**D. Antisocial personality** — **D. Antisocial personality** — DSM-5 antisocial personality disorder is characterized by pervasive disregard for rules and others' rights, aggression, deceitfulness, and impulsivity; behavior persists across settings including hospitals.
 
 </details>
 
@@ -29319,7 +29319,7 @@ All of the following are essential features of attention deficit hyperactive dis
 
 <details><summary>Answer</summary>
 
-**C. Mental retardation** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mental retardation** — **C. Mental retardation** — DSM-5 ADHD requires inattention, hyperactivity, and impulsivity present before age 12; intellectual disability (mental retardation) is a separate diagnosis and is not a criterion for ADHD.
 
 </details>
 
@@ -29335,7 +29335,7 @@ Capgras syndrome is ?
 
 <details><summary>Answer</summary>
 
-**B. Delusion of double** — Source: Medicoholic 2015 PYQ compilation.
+**B. Delusion of double** — **B. Delusion of double** — Capgras syndrome is a misidentification delusion where the patient believes a close person has been replaced by an identical imposter; associated with right hemisphere lesions and schizophrenia.
 
 </details>
 
@@ -29351,7 +29351,7 @@ Features like increased psychomotor acitivity, waxy flexinbility at time are see
 
 <details><summary>Answer</summary>
 
-**C. Catatonic schizophrenia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Catatonic schizophrenia** — **C. Catatonic schizophrenia** — Catatonic schizophrenia features waxy flexibility (cerea flexibilitas), posturing, negativism, stereotypies, and alternating stupor with excitement; waxy flexibility is pathognomonic of catatonia.
 
 </details>
 
@@ -29367,7 +29367,7 @@ Good prognostic factor for schizophrenia is ?
 
 <details><summary>Answer</summary>
 
-**C. Presence of depression** — Source: Medicoholic 2015 PYQ compilation.
+**C. Presence of depression** — **C. Presence of depression** — Depressive symptoms in schizophrenia indicate preserved insight and affective reactivity, which correlates with better outcome; negative symptoms (blunted affect), early onset, and male sex are poor prognostic factors.
 
 </details>
 
@@ -29383,7 +29383,7 @@ Increased dopamine levels are associated ?
 
 <details><summary>Answer</summary>
 
-**D. Schizophrenia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Schizophrenia** — **D. Schizophrenia** — The dopamine hypothesis of schizophrenia posits excess mesolimbic dopamine (D2) activity causing positive symptoms; all effective antipsychotics block D2 receptors, validating this pathway.
 
 </details>
 
@@ -29399,7 +29399,7 @@ Visual hallucinations is seen in :
 
 <details><summary>Answer</summary>
 
-**A. Alcoholism** — Source: Medicoholic 2015 PYQ compilation.
+**A. Alcoholism** — **A. Alcoholism** — Alcoholic hallucinosis presents with vivid visual (and auditory) hallucinations during intoxication or withdrawal; delirium tremens (72-96 hours post cessation) characteristically features zooptic (animal) visual hallucinations.
 
 </details>
 
@@ -29415,7 +29415,7 @@ Behavioral therapy is done in ?
 
 <details><summary>Answer</summary>
 
-**B. Agoraphobia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Agoraphobia** — **B. Agoraphobia** — Behavioral therapies (systematic desensitization, flooding, in-vivo exposure) are first-line for phobic disorders including agoraphobia; they work by extinction of conditioned fear responses.
 
 </details>
 
@@ -29431,7 +29431,7 @@ Feature associated with mania is ?
 
 <details><summary>Answer</summary>
 
-**D. Flights of ideas** — Source: Medicoholic 2015 PYQ compilation.
+**D. Flights of ideas** — **D. Flights of ideas** — DSM-5 mania includes flight of ideas (rapidly shifting thoughts with loose associations), grandiosity, decreased sleep need, pressured speech, and goal-directed hyperactivity; neologism and perseveration are features of schizophrenia.
 
 </details>
 
@@ -29447,7 +29447,7 @@ Which of the following typical antipsychotic drug is not available in depot form
 
 <details><summary>Answer</summary>
 
-**D. Chlorpromazine** — Source: Medicoholic 2015 PYQ compilation.
+**D. Chlorpromazine** — **D. Chlorpromazine** — Chlorpromazine has no approved depot (long-acting injectable) formulation; depot antipsychotics include haloperidol decanoate, fluphenazine decanoate, and newer LAIs like risperidone and olanzapine pamoate.
 
 </details>
 
@@ -29463,7 +29463,7 @@ Causes of neuroregression in a child can be all except ?
 
 <details><summary>Answer</summary>
 
-**C. ADHD** — Source: Medicoholic 2015 PYQ compilation.
+**C. ADHD** — **C. ADHD** — ADHD involves neurodevelopmental inattention and hyperactivity without neurodegeneration; Wilson's disease, B12 deficiency, and ataxia-telangiectasia all cause progressive neurological deterioration and neuroregression.
 
 </details>
 

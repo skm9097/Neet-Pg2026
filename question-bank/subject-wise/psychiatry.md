@@ -1220,7 +1220,7 @@ Incontinentia pigmenti involves all exept ?
 
 <details><summary>Answer</summary>
 
-**D. Heart** — Source: Medicoholic 2015 PYQ compilation.
+**D. Heart** — **D. Heart** — Incontinentia pigmenti (X-linked dominant) involves skin (4 stages of blistering to hyperpigmentation), teeth (hypodontia), bones, eyes, and CNS; cardiac involvement is not a recognized feature.
 
 </details>
 
@@ -1238,7 +1238,7 @@ Bull's eye lesions are found in ?
 
 <details><summary>Answer</summary>
 
-**C. Erythema multiforme** — Source: Medicoholic 2015 PYQ compilation.
+**C. Erythema multiforme** — **C. Erythema multiforme** — Target (bull's eye) lesions of erythema multiforme have three zones: central dusky/necrotic area, middle pale edematous ring, and outer erythematous ring; triggered by HSV or drug hypersensitivity.
 
 </details>
 
@@ -1256,7 +1256,7 @@ Husband having suspicion that his wife is having affair with another man, diagno
 
 <details><summary>Answer</summary>
 
-**B. Delusion** — Source: Medicoholic 2015 PYQ compilation.
+**B. Delusion** — **B. Delusion** — This describes delusional jealousy (Othello syndrome), a fixed false unshakeable belief not amenable to logic; it is a DSM-5 delusional disorder (jealous type) persisting ≥1 month.
 
 </details>
 
@@ -1274,7 +1274,7 @@ The site of lesion in Korsakoff's psychosis is
 
 <details><summary>Answer</summary>
 
-**C. Mammilary Body** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mammilary Body** — **C. Mammilary Body** — Korsakoff's psychosis results from thiamine (B1) deficiency causing bilateral mammillary body hemorrhage and necrosis, leading to anterograde amnesia, confabulation, and disorientation.
 
 </details>
 
@@ -1292,7 +1292,7 @@ Which of the following is not associated with dementia:
 
 <details><summary>Answer</summary>
 
-**B. Alteration of consciousness** — Source: Medicoholic 2015 PYQ compilation.
+**B. Alteration of consciousness** — **B. Alteration of consciousness** — DSM-5 distinguishes dementia (neurocognitive disorder) from delirium by the absence of consciousness alteration; dementia features memory loss, personality change, and functional decline with clear sensorium.
 
 </details>
 
@@ -1310,7 +1310,7 @@ A girl with bad behavior like smashing and throwing objects was admitted in the 
 
 <details><summary>Answer</summary>
 
-**D. Antisocial personality** — Source: Medicoholic 2015 PYQ compilation.
+**D. Antisocial personality** — **D. Antisocial personality** — DSM-5 antisocial personality disorder is characterized by pervasive disregard for rules and others' rights, aggression, deceitfulness, and impulsivity; behavior persists across settings including hospitals.
 
 </details>
 
@@ -1328,7 +1328,7 @@ All of the following are essential features of attention deficit hyperactive dis
 
 <details><summary>Answer</summary>
 
-**C. Mental retardation** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mental retardation** — **C. Mental retardation** — DSM-5 ADHD requires inattention, hyperactivity, and impulsivity present before age 12; intellectual disability (mental retardation) is a separate diagnosis and is not a criterion for ADHD.
 
 </details>
 
@@ -1346,7 +1346,7 @@ Capgras syndrome is ?
 
 <details><summary>Answer</summary>
 
-**B. Delusion of double** — Source: Medicoholic 2015 PYQ compilation.
+**B. Delusion of double** — **B. Delusion of double** — Capgras syndrome is a misidentification delusion where the patient believes a close person has been replaced by an identical imposter; associated with right hemisphere lesions and schizophrenia.
 
 </details>
 
@@ -1364,7 +1364,7 @@ Features like increased psychomotor acitivity, waxy flexinbility at time are see
 
 <details><summary>Answer</summary>
 
-**C. Catatonic schizophrenia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Catatonic schizophrenia** — **C. Catatonic schizophrenia** — Catatonic schizophrenia features waxy flexibility (cerea flexibilitas), posturing, negativism, stereotypies, and alternating stupor with excitement; waxy flexibility is pathognomonic of catatonia.
 
 </details>
 
@@ -1382,7 +1382,7 @@ Good prognostic factor for schizophrenia is ?
 
 <details><summary>Answer</summary>
 
-**C. Presence of depression** — Source: Medicoholic 2015 PYQ compilation.
+**C. Presence of depression** — **C. Presence of depression** — Depressive symptoms in schizophrenia indicate preserved insight and affective reactivity, which correlates with better outcome; negative symptoms (blunted affect), early onset, and male sex are poor prognostic factors.
 
 </details>
 
@@ -1400,7 +1400,7 @@ Increased dopamine levels are associated ?
 
 <details><summary>Answer</summary>
 
-**D. Schizophrenia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Schizophrenia** — **D. Schizophrenia** — The dopamine hypothesis of schizophrenia posits excess mesolimbic dopamine (D2) activity causing positive symptoms; all effective antipsychotics block D2 receptors, validating this pathway.
 
 </details>
 
@@ -1418,7 +1418,7 @@ Visual hallucinations is seen in :
 
 <details><summary>Answer</summary>
 
-**A. Alcoholism** — Source: Medicoholic 2015 PYQ compilation.
+**A. Alcoholism** — **A. Alcoholism** — Alcoholic hallucinosis presents with vivid visual (and auditory) hallucinations during intoxication or withdrawal; delirium tremens (72-96 hours post cessation) characteristically features zooptic (animal) visual hallucinations.
 
 </details>
 
@@ -1436,7 +1436,7 @@ Behavioral therapy is done in ?
 
 <details><summary>Answer</summary>
 
-**B. Agoraphobia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Agoraphobia** — **B. Agoraphobia** — Behavioral therapies (systematic desensitization, flooding, in-vivo exposure) are first-line for phobic disorders including agoraphobia; they work by extinction of conditioned fear responses.
 
 </details>
 
@@ -1454,7 +1454,7 @@ Feature associated with mania is ?
 
 <details><summary>Answer</summary>
 
-**D. Flights of ideas** — Source: Medicoholic 2015 PYQ compilation.
+**D. Flights of ideas** — **D. Flights of ideas** — DSM-5 mania includes flight of ideas (rapidly shifting thoughts with loose associations), grandiosity, decreased sleep need, pressured speech, and goal-directed hyperactivity; neologism and perseveration are features of schizophrenia.
 
 </details>
 
@@ -1472,7 +1472,7 @@ Which of the following typical antipsychotic drug is not available in depot form
 
 <details><summary>Answer</summary>
 
-**D. Chlorpromazine** — Source: Medicoholic 2015 PYQ compilation.
+**D. Chlorpromazine** — **D. Chlorpromazine** — Chlorpromazine has no approved depot (long-acting injectable) formulation; depot antipsychotics include haloperidol decanoate, fluphenazine decanoate, and newer LAIs like risperidone and olanzapine pamoate.
 
 </details>
 
@@ -1490,7 +1490,7 @@ Causes of neuroregression in a child can be all except ?
 
 <details><summary>Answer</summary>
 
-**C. ADHD** — Source: Medicoholic 2015 PYQ compilation.
+**C. ADHD** — **C. ADHD** — ADHD involves neurodevelopmental inattention and hyperactivity without neurodegeneration; Wilson's disease, B12 deficiency, and ataxia-telangiectasia all cause progressive neurological deterioration and neuroregression.
 
 </details>
 
@@ -1511,7 +1511,7 @@ Promastigote form of Leishmania is found in which part of sandfly:
 
 <details><summary>Answer</summary>
 
-**B. GIT** — Source: Medicoholic 2016 PYQ compilation.
+**B. GIT** — **B. GIT** — Leishmania promastigotes (flagellated forms) develop and multiply in the gut (GIT) of the sandfly vector (Phlebotomus); they migrate to the proboscis and are inoculated during the next blood meal.
 
 </details>
 
@@ -1531,7 +1531,7 @@ Agger nasi is
 
 <details><summary>Answer</summary>
 
-**D. Elevation anterior to middle turbinate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Elevation anterior to middle turbinate** — **D. Elevation anterior to middle turbinate** — Agger nasi (Latin: mound of the nose) is a ridge/elevation anterior to the middle turbinate; it is the most anterior ethmoid air cell and is relevant in endoscopic sinus surgery.
 
 </details>
 
@@ -1551,7 +1551,7 @@ Not a feature of Wernicke's Korsakoff Syndrome
 
 <details><summary>Answer</summary>
 
-**C. Normal pupillary response** — Source: Medicoholic 2016 PYQ compilation.
+**C. Normal pupillary response** — **C. Normal pupillary response** — Wernicke's encephalopathy triad: ophthalmoplegia (CN VI palsy, nystagmus), ataxia, and confusion; pupillary abnormalities (Argyll Robertson-like or small sluggish pupils) can occur due to midbrain involvement.
 
 </details>
 
@@ -1571,7 +1571,7 @@ Complete vesicular mole is associated Theca leutin csyts in what percentage of c
 
 <details><summary>Answer</summary>
 
-**C. 20-40** — Source: Medicoholic 2016 PYQ compilation.
+**C. 20-40** — **C. 20-40** — Theca lutein cysts occur in 20-40% of complete molar pregnancies due to overstimulation by markedly elevated hCG levels; they regress spontaneously after mole evacuation.
 
 </details>
 
@@ -1591,7 +1591,7 @@ Radio isotope used in Ca cervix Brachytherapy ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Cervical cancer brachytherapy uses Cesium-137 (LDR), Iridium-192 (HDR), and historically Cobalt-60; Iridium-192 is now most widely used for HDR intracavitary brachytherapy.
 
 </details>
 
@@ -1611,7 +1611,7 @@ What is not used in PCOS ?
 
 <details><summary>Answer</summary>
 
-**D. Danazol** — Source: Medicoholic 2016 PYQ compilation.
+**D. Danazol** — **D. Danazol** — Danazol (androgen-like steroid) is used for endometriosis and hereditary angioedema; it is not used in PCOS and would worsen androgenic symptoms (hirsutism, acne) by its androgenic action.
 
 </details>
 
@@ -1631,7 +1631,7 @@ Triad of symptoms of endometriosis are all except ?
 
 <details><summary>Answer</summary>
 
-**D. Cyclical hematuria** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cyclical hematuria** — **D. Cyclical hematuria** — The classic triad of endometriosis is dysmenorrhea, dyspareunia, and infertility; cyclical hematuria would suggest bladder endometriosis, an uncommon site-specific symptom, not part of the primary triad.
 
 </details>
 
@@ -1651,7 +1651,7 @@ Investigation of choice for endometriosis ?
 
 <details><summary>Answer</summary>
 
-**D. Laparoscopy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Laparoscopy** — **D. Laparoscopy** — Diagnostic laparoscopy with biopsy is the gold standard for endometriosis, allowing direct visualization of powder-burn/chocolate-colored lesions and histological confirmation; MRI and USG are adjunctive.
 
 </details>
 
@@ -1671,7 +1671,7 @@ Powder burnt lesion seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Endometriosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Endometriosis** — **C. Endometriosis** — Powder-burn (gunshot) lesions are black/dark brown peritoneal implants of endometriosis seen laparoscopically; they represent hemosiderin-laden macrophages from old hemorrhage in ectopic endometrial tissue.
 
 </details>
 
@@ -1691,7 +1691,7 @@ Triad for clinical diagnosis PID includes all except ?
 
 <details><summary>Answer</summary>
 
-**A. Fever** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fever** — **A. Fever** — CDC minimum criteria for PID diagnosis: lower abdominal tenderness, cervical motion tenderness (chandelier sign), and adnexal tenderness; fever is an additional supportive criterion but not part of the minimum diagnostic triad.
 
 </details>
 
@@ -1711,7 +1711,7 @@ Tumor marker for germ cell malignancy are all except?
 
 <details><summary>Answer</summary>
 
-**D. CA-125** — Source: Medicoholic 2016 PYQ compilation.
+**D. CA-125** — **D. CA-125** — CA-125 is a marker for epithelial ovarian carcinoma; germ cell tumor markers include AFP (yolk sac tumor), beta-hCG (choriocarcinoma), LDH (dysgerminoma), and PLAP/alkaline phosphatase (dysgerminoma).
 
 </details>
 
@@ -1731,7 +1731,7 @@ Tumor marker for germ cell malignancy are all except?
 
 <details><summary>Answer</summary>
 
-**C. Gonococcal urethritis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gonococcal urethritis** — **C. Gonococcal urethritis** — Purulent/yellowish urethral discharge with dysuria following sexual exposure is classic for Neisseria gonorrhoeae; gram-negative intracellular diplococci on smear confirm diagnosis; incubation 2-5 days.
 
 </details>
 
@@ -1751,7 +1751,7 @@ Twin-peak sign is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Dichorionic twins** — Source: Medicoholic 2016 PYQ compilation.
+**C. Dichorionic twins** — **C. Dichorionic twins** — The twin-peak (lambda) sign on ultrasound is a triangular tongue of placental tissue projecting into the inter-twin membrane at its chorionic origin, confirming dichorionic placentation; absent in monochorionic (T-sign seen instead).
 
 </details>
 
@@ -1771,7 +1771,7 @@ In ca Cervix treatment, point A receives ?
 
 <details><summary>Answer</summary>
 
-**C. 7000 cGy** — Source: Medicoholic 2016 PYQ compilation.
+**C. 7000 cGy** — **C. 7000 cGy** — In cervical cancer radiotherapy, Point A (2 cm lateral and 2 cm superior to external cervical os) receives a total dose of 7000-8000 cGy (70-80 Gy) combining external beam (45-50 Gy) and brachytherapy boost.
 
 </details>
 

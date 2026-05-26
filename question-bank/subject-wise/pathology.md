@@ -6375,7 +6375,7 @@ Lambert Eaton syndrome true is
 
 <details><summary>Answer</summary>
 
-**D. With continuous stimulation there is marked increase in** — Source: Medicoholic 2016 PYQ compilation.
+**D. With continuous stimulation there is marked increase in** — **D. With continuous stimulation there is marked increase in** — In Lambert-Eaton syndrome, repetitive high-frequency nerve stimulation causes an INCREMENTAL (facilitating) response on EMG, unlike myasthenia gravis which shows decrement; this reflects progressive calcium accumulation improving acetylcholine release from defective presynaptic terminals.
 
 </details>
 
@@ -6395,7 +6395,7 @@ Which of the following is not true about the development of thyroid tumors in no
 
 <details><summary>Answer</summary>
 
-**D. The risk of development of carcinoma is not correlated with the** — Source: Medicoholic 2016 PYQ compilation.
+**D. The risk of development of carcinoma is not correlated with the** — **D. The risk of development of carcinoma is not correlated with the** — The risk of thyroid carcinoma in nodular goitre IS correlated with nodule size (>4 cm), rapid growth, firmness, and other suspicious features; stating there is no correlation is false.
 
 </details>
 
@@ -6415,7 +6415,7 @@ Which of the following antineoplastic agents is used in the management of Hodgki
 
 <details><summary>Answer</summary>
 
-**A. Cisplatin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cisplatin** — **A. Cisplatin** — Cisplatin is used in salvage regimens for Hodgkin lymphoma (DHAP, GDP), relapsed non-Hodgkin lymphoma, and in combination for small cell lung carcinoma (BEP/EP regimens); it cross-links DNA strands causing cell death.
 
 </details>
 
@@ -6435,7 +6435,7 @@ Mantle field radiation was used for management of -
 
 <details><summary>Answer</summary>
 
-**A. Hodgkins lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hodgkins lymphoma** — **A. Hodgkins lymphoma** — Mantle field radiation historically treated Hodgkin lymphoma by irradiating bilateral cervical, supraclavicular, infraclavicular, axillary, mediastinal, and hilar nodes in a single field; largely abandoned due to long-term cardiopulmonary and secondary malignancy risks.
 
 </details>
 
@@ -6455,7 +6455,7 @@ Hadfields operation is performed for which of the following pathology?
 
 <details><summary>Answer</summary>
 
-**A. Duct ectasia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Duct ectasia** — **A. Duct ectasia** — Hadfield's operation (total duct excision) involves excision of all major subareolar lactiferous ducts; it is the definitive surgical treatment for mammary duct ectasia (periductal mastitis) presenting with nipple discharge, retraction, or recurrent retroareolar abscess.
 
 </details>
 
@@ -6475,7 +6475,7 @@ Previous radition therapy for which disease particulary increases the risk of br
 
 <details><summary>Answer</summary>
 
-**A. Hodgkins lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hodgkins lymphoma** — **A. Hodgkins lymphoma** — Chest/mantle field radiation for Hodgkin lymphoma (especially before age 30) significantly increases breast carcinoma risk 15–20 years later; relative risk is 3–7 fold higher, particularly for women irradiated between ages 10–30 years.
 
 </details>
 
@@ -6495,7 +6495,7 @@ True about small intestinal tumor is -
 
 <details><summary>Answer</summary>
 
-**D. Risk of developing small bowel tumor correlates positively with** — Source: Medicoholic 2016 PYQ compilation.
+**D. Risk of developing small bowel tumor correlates positively with** — **D. Risk of developing small bowel tumor correlates positively with** — The risk of small intestinal tumours correlates positively with conditions like Crohn's disease, coeliac disease, familial adenomatous polyposis (FAP), and Peutz-Jeghers syndrome; carcinoids are most common in the appendix and ileum, not duodenum.
 
 </details>
 
@@ -6515,7 +6515,7 @@ Meconium ileus is associated with:
 
 <details><summary>Answer</summary>
 
-**A. Cystic fibrosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cystic fibrosis** — **A. Cystic fibrosis** — Meconium ileus (obstruction by abnormally thick, inspissated meconium in the terminal ileum of neonates) occurs in ~15–20% of cystic fibrosis patients; CFTR mutation causes defective chloride transport, producing abnormally viscid intestinal secretions.
 
 </details>
 
@@ -6535,7 +6535,7 @@ Which of the following is not true about impingement syndrome?
 
 <details><summary>Answer</summary>
 
-**D. Surgical decompression of the subacromial space is frequently** — Source: Medicoholic 2016 PYQ compilation.
+**D. Surgical decompression of the subacromial space is frequently** — **D. Surgical decompression of the subacromial space is frequently** — Surgical decompression (acromioplasty) is NOT the primary treatment; conservative management (physiotherapy, NSAIDs, corticosteroid injections) is the first-line treatment, and surgery is reserved only for refractory cases failing 3–6 months of conservative therapy.
 
 </details>
 
@@ -6555,7 +6555,7 @@ All are features of inflammatory arthritis except?
 
 <details><summary>Answer</summary>
 
-**B. X-ray showing sclerosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. X-ray showing sclerosis** — **B. X-ray showing sclerosis** — Subchondral sclerosis on X-ray is a feature of degenerative (osteoarthritis), not inflammatory arthritis; inflammatory arthritis (RA, seronegative spondyloarthropathies) characteristically shows periarticular osteopenia, joint space narrowing, erosions, and soft tissue swelling.
 
 </details>
 
@@ -6575,7 +6575,7 @@ False about osteoarthritis is ?
 
 <details><summary>Answer</summary>
 
-**C. It is an inflammatory arthritis** — Source: Medicoholic 2016 PYQ compilation.
+**C. It is an inflammatory arthritis** — **C. It is an inflammatory arthritis** — Osteoarthritis is a NON-inflammatory (degenerative) arthritis characterised by progressive cartilage loss, subchondral sclerosis, osteophyte formation, and synovial fluid with low white cell count (<2000 cells/mm³); low ESR/CRP distinguishes it from inflammatory arthropathies.
 
 </details>
 
@@ -6595,7 +6595,7 @@ Therapeutic conization is indicated in?
 
 <details><summary>Answer</summary>
 
-**A. Microinvasive carcinoma cervix stage lal** — Source: Medicoholic 2016 PYQ compilation.
+**A. Microinvasive carcinoma cervix stage lal** — **A. Microinvasive carcinoma cervix stage Ia1** — Therapeutic cervical conisation (cone biopsy) is curative for FIGO Stage Ia1 cervical carcinoma (invasion ≤3 mm depth, ≤7 mm horizontal spread) with negative margins, preserving fertility; radical hysterectomy is required for Ia2 and above.
 
 </details>
 
@@ -6615,7 +6615,7 @@ Samson's theory for Development of Endometriosis is ?
 
 <details><summary>Answer</summary>
 
-**D. Retrograde menstruation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Retrograde menstruation** — **D. Retrograde menstruation** — Sampson's implantation theory proposes that viable endometrial cells travel retrograde through the fallopian tubes during menstruation, implant on peritoneal surfaces, and proliferate under oestrogen stimulation; it is the most widely accepted theory of endometriosis.
 
 </details>
 
@@ -6635,7 +6635,7 @@ Residual Hypopigmentation following a drug reaction, is best known as?
 
 <details><summary>Answer</summary>
 
-**C. Post inflammatory hypomelanosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Post inflammatory hypomelanosis** — **C. Post inflammatory hypomelanosis** — Post-inflammatory hypomelanosis (post-inflammatory hypopigmentation) is residual decreased pigmentation following any inflammatory skin reaction (including drug reactions, eczema, or infections) due to temporary melanocyte dysfunction or melanin transfer impairment; distinct from vitiligo or chemical leukoderma.
 
 </details>
 
@@ -6676,7 +6676,7 @@ Opsonin is
 
 <details><summary>Answer</summary>
 
-**B. C3b**
+**B. C3b** — **B. C3b** — C3b is the principal opsonin of the complement system; it covalently binds to microbial surfaces and is recognised by complement receptor CR1 (CD35) on phagocytes, dramatically enhancing phagocytosis.
 
 </details>
 

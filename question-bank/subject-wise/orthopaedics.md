@@ -1233,7 +1233,7 @@ A boy presented with multiple non suppurative osteomyelitis with sickle cell ana
 
 <details><summary>Answer</summary>
 
-**A. Salmonella**
+**A. Salmonella** — **A. Salmonella** — In sickle cell anaemia, Salmonella species (especially Salmonella typhimurium) are the most common cause of osteomyelitis, unlike the general population where Staphylococcus aureus predominates; infarctive gut mucosa allows Salmonella entry.
 
 </details>
 

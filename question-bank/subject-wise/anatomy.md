@@ -1921,7 +1921,7 @@ Superior to inferior -vein,
 
 <details><summary>Answer</summary>
 
-**D. Paraaortic** — Source: Medicoholic 2015 PYQ compilation.
+**D. Paraaortic** — **D. Paraaortic** — Para-aortic lymph nodes are the final common drainage pathway for gonadal, renal, and pelvic lymphatics, draining superiorly to the cisterna chyli; relevant in testicular and ovarian cancer staging.
 
 </details>
 
@@ -8624,7 +8624,7 @@ Palpable femur head on per rectal exam is a feature of which of the following co
 
 <details><summary>Answer</summary>
 
-**C. Central hip dislocation** — Source: Medicoholic 2016 PYQ compilation.
+**C. Central hip dislocation** — **C. Central hip dislocation** — In central (acetabular) dislocation, the femoral head is driven medially through the acetabular floor into the pelvis, making it palpable on per-rectal examination.
 
 </details>
 
@@ -8644,7 +8644,7 @@ The most common complication of intracapsular fracture neck of femur is
 
 <details><summary>Answer</summary>
 
-**C. Non-Union** — Source: Medicoholic 2016 PYQ compilation.
+**C. Non-Union** — **C. Non-Union** — Intracapsular femoral neck fractures disrupt the blood supply (retinacular vessels from medial femoral circumflex artery), leading to high rates of avascular necrosis and non-union.
 
 </details>
 
@@ -8664,7 +8664,7 @@ All of the following are true regarding fracture of lateral condyle of humerus e
 
 <details><summary>Answer</summary>
 
-**B. Results in Gun stock deformity** — Source: Medicoholic 2016 PYQ compilation.
+**B. Results in Gun stock deformity** — **B. Results in Gun stock deformity** — Gunstock (cubitus varus) deformity results from malunion of supracondylar fractures, not lateral condyle fractures; lateral condyle fractures heal with cubitus valgus (increased carrying angle).
 
 </details>
 
@@ -8684,7 +8684,7 @@ Most common complication of fracture of tibia
 
 <details><summary>Answer</summary>
 
-**C. Delayed union** — Source: Medicoholic 2016 PYQ compilation.
+**C. Delayed union** — **C. Delayed union** — The tibia has the highest rate of delayed/non-union among long bones due to poor blood supply (no muscle in the distal third) and high incidence of open fractures.
 
 </details>
 
@@ -8704,7 +8704,7 @@ Dunlop traction is a type of traction used in management of
 
 <details><summary>Answer</summary>
 
-**A. Fracture humerus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fracture humerus** — **A. Fracture humerus** — Dunlop (side-arm) traction is used in the management of supracondylar humerus fractures in children when swelling prevents immediate surgery; maintains alignment and monitors neurovascular status.
 
 </details>
 
@@ -8724,7 +8724,7 @@ Which of the following is true about CTEV
 
 <details><summary>Answer</summary>
 
-**C. Talus is displaced medial and plantarwards** — Source: Medicoholic 2016 PYQ compilation.
+**C. Talus is displaced medial and plantarwards** — **C. Talus is displaced medial and plantarwards** — In CTEV (clubfoot), the talus is displaced medially and plantarflexed; the foot shows equinus, varus, adductus, and cavus (CAVE mnemonic).
 
 </details>
 
@@ -8744,7 +8744,7 @@ Which of the following is/are feature/s of sprengels deformity?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Sprengel's deformity (congenital undescended scapula) presents with elevated shoulder, smaller/rotated scapula, short neck, and restricted shoulder abduction; may have an omovertebral bone.
 
 </details>
 
@@ -8764,7 +8764,7 @@ Which of the following is/are feature/s of sprengels deformity?
 
 <details><summary>Answer</summary>
 
-**A. Local resection** — Source: Medicoholic 2016 PYQ compilation.
+**A. Local resection** — **A. Local resection** — The description (slow-growing, distal femur metaphysis, gap between cortex and tumour, no cortical destruction) is classic for parosteal osteosarcoma, which is low-grade and treated by wide local resection.
 
 </details>
 
@@ -8784,7 +8784,7 @@ Proximal tibial epiphysis fuses at -
 
 <details><summary>Answer</summary>
 
-**C. 16 - 18 years** — Source: Medicoholic 2016 PYQ compilation.
+**C. 16 - 18 years** — **C. 16 - 18 years** — The proximal tibial epiphysis fuses at 16-18 years; the distal femoral epiphysis (last to appear, first to fuse) is a key landmark in forensic age estimation.
 
 </details>
 
@@ -8804,7 +8804,7 @@ Management of displaced non comminuted intercondylar humerus fracture is -
 
 <details><summary>Answer</summary>
 
-**A. Open reduction internal fixation** — Source: Medicoholic 2016 PYQ compilation.
+**A. Open reduction internal fixation** — **A. Open reduction internal fixation** — Displaced non-comminuted intercondylar (T/Y) humerus fractures in adults require ORIF with dual plating (parallel or perpendicular) for anatomical reduction and early mobilisation.
 
 </details>
 
@@ -8824,7 +8824,7 @@ Nerve injured in McRoberts maneuver is ?
 
 <details><summary>Answer</summary>
 
-**C. Femoral nerve** — Source: Medicoholic 2016 PYQ compilation.
+**C. Femoral nerve** — **C. Femoral nerve** — McRoberts maneuver (extreme hip flexion for shoulder dystocia) can stretch the femoral nerve (L2-L4) against the inguinal ligament, causing transient femoral neuropathy postpartum.
 
 </details>
 
@@ -8844,7 +8844,7 @@ Shortest transverse diameter is ?
 
 <details><summary>Answer</summary>
 
-**C. Bimastoid diameter** — Source: Medicoholic 2016 PYQ compilation.
+**C. Bimastoid diameter** — **C. Bimastoid diameter** — The bimastoid diameter (~7.5 cm) is the shortest transverse diameter of the fetal skull; the bitemporal (~8 cm) and biparietal (~9.5 cm) are successively larger.
 
 </details>
 
@@ -8864,7 +8864,7 @@ Treatment of choice for oral candidiasis is?
 
 <details><summary>Answer</summary>
 
-**B. Nystatin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Nystatin** — **B. Nystatin** — Nystatin oral suspension (swish and swallow) is the first-line treatment for oral candidiasis (thrush); it acts by binding ergosterol in the fungal cell membrane causing pore formation.
 
 </details>
 

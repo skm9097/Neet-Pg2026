@@ -1449,7 +1449,7 @@ Elderly male, cervical lymphadenopathy, bleeding tendency, >25% blasts — cytog
 
 <details><summary>Answer</summary>
 
-**B. t(15;17)** — Source: DocTutorials NEET-PG 2021 recall.
+**B. t(15;17)** — **B. t(15;17)** — Translocation t(15;17) produces PML-RARA fusion gene in acute promyelocytic leukemia (AML-M3); presents with coagulopathy/DIC due to granule release; bleeding tendency is the hallmark.
 
 </details>
 
@@ -1465,7 +1465,7 @@ Elderly male, painless testicular swelling, multinodular gray-white mass?
 
 <details><summary>Answer</summary>
 
-**B. Seminoma** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Seminoma** — **B. Seminoma** — Most common testicular germ cell tumor in older men (30-50 years); grossly presents as homogeneous, lobulated, gray-white mass; highly radiosensitive with excellent prognosis.
 
 </details>
 
@@ -1481,7 +1481,7 @@ Midline neck swelling, amyloid deposition, synaptophysin+, chromogranin+, TTF-1+
 
 <details><summary>Answer</summary>
 
-**B. Medullary thyroid cancer** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Medullary thyroid cancer** — **B. Medullary thyroid cancer** — Originates from calcitonin-secreting parafollicular C-cells; stains positive for neuroendocrine markers (synaptophysin, chromogranin) and TTF-1; amyloid deposits from calcitonin fibrils are pathognomonic.
 
 </details>
 
@@ -1497,7 +1497,7 @@ Liver gross specimen well-circumscribed lesion — focal nodular hyperplasia?
 
 <details><summary>Answer</summary>
 
-**C. Focal nodular hyperplasia** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Focal nodular hyperplasia** — **C. Focal nodular hyperplasia** — FNH is a well-circumscribed benign hepatic lesion with a central fibrous stellate scar and radiating septa; associated with vascular anomalies, not OCP use; no malignant potential.
 
 </details>
 
@@ -1513,7 +1513,7 @@ Caspase-mediated cell death forms?
 
 <details><summary>Answer</summary>
 
-**C. Apoptosis, pyroptosis** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Apoptosis, pyroptosis** — **C. Apoptosis, pyroptosis** — Both apoptosis (caspase-3/7) and pyroptosis (caspase-1/4/5/11) are caspase-mediated; pyroptosis involves gasdermin-D pore formation causing inflammatory lytic cell death distinct from necroptosis.
 
 </details>
 
@@ -1529,7 +1529,7 @@ Mild anemia, jaundice, splenomegaly, elevated MCHC, family history?
 
 <details><summary>Answer</summary>
 
-**A. Hereditary spherocytosis** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Hereditary spherocytosis** — **A. Hereditary spherocytosis** — Spectrin/ankyrin defects cause spherocytic RBCs with elevated MCHC; autosomal dominant inheritance; splenomegaly from splenic trapping; osmotic fragility test confirms diagnosis.
 
 </details>
 
@@ -1545,7 +1545,7 @@ Mild anemia, jaundice, splenomegaly, elevated MCHC, family history?
 
 <details><summary>Answer</summary>
 
-**A. Craniopharyngioma** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Craniopharyngioma** — **A. Craniopharyngioma** — Benign tumor derived from Rathke's pouch remnants; adamantinomatous type shows palisading epithelium, wet keratin (ghost cells), and calcification; causes bitemporal hemianopia in children.
 
 </details>
 
@@ -1561,7 +1561,7 @@ CLL diagnosis — useful quantification technique?
 
 <details><summary>Answer</summary>
 
-**C. Flow cytometry** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Flow cytometry** — **C. Flow cytometry** — CLL diagnosis requires immunophenotyping by flow cytometry to confirm CD5+/CD19+/CD23+ co-expression and clonal B-cell lymphocytosis with characteristic dim surface immunoglobulin.
 
 </details>
 
@@ -1577,7 +1577,7 @@ AMA positivity most associated with?
 
 <details><summary>Answer</summary>
 
-**A. Primary biliary cholangitis** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Primary biliary cholangitis** — **A. Primary biliary cholangitis** — Anti-mitochondrial antibodies (AMA), especially anti-M2 against pyruvate dehydrogenase complex, are present in >95% of PBC cases and are highly specific diagnostic markers.
 
 </details>
 
@@ -1593,7 +1593,7 @@ Middle-aged woman, dry eyes/mouth, anti-Ro+, anti-La+ — pathological mechanism
 
 <details><summary>Answer</summary>
 
-**C. Lymphocytic infiltration/destruction of glands** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Lymphocytic infiltration/destruction of glands** — **C. Lymphocytic infiltration/destruction of glands** — Sjögren's syndrome involves autoimmune CD4+ T-cell and B-cell infiltration of exocrine glands (salivary and lacrimal), causing destruction and sicca symptoms.
 
 </details>
 
@@ -1609,7 +1609,7 @@ Middle-aged woman, dry eyes/mouth, anti-Ro+, anti-La+ — pathological mechanism
 
 <details><summary>Answer</summary>
 
-**C. Dermatitis herpetiformis** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Dermatitis herpetiformis** — **C. Dermatitis herpetiformis** — Gluten-sensitive enteropathy triggers IgA anti-endomysial antibodies; IgA deposits in dermal papillae cause intensely pruritic grouped vesicles on extensor surfaces; treated with dapsone and gluten-free diet.
 
 </details>
 
@@ -1625,7 +1625,7 @@ Persistent lateral tongue lesion, SCC — strongly associated virus?
 
 <details><summary>Answer</summary>
 
-**D. Human papillomavirus** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Human papillomavirus** — **D. Human papillomavirus** — HPV-16/18 are strongly associated with oropharyngeal and oral tongue squamous cell carcinoma via E6/E7 oncoproteins inactivating p53 and Rb tumor suppressors.
 
 </details>
 
@@ -1828,7 +1828,7 @@ Farmer with ulcerative lesion, capsulated bacilli, M'Fadyean reaction?
 
 <details><summary>Answer</summary>
 
-**A. Bacillus anthracis** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Bacillus anthracis** — **A. Bacillus anthracis** — Cutaneous anthrax from animal contact forms painless ulcer with black eschar; M'Fadyean reaction (polychrome methylene blue shows capsule with 'comet' appearance) is characteristic.
 
 </details>
 
@@ -1844,7 +1844,7 @@ Farmer with fever, myalgia, eye redness, elevated bilirubin?
 
 <details><summary>Answer</summary>
 
-**B. Weil's syndrome** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Weil's syndrome** — **B. Weil's syndrome** — Severe leptospirosis (Weil's disease) from animal contact presents with fever, myalgia, conjunctival suffusion (eye redness), jaundice, and renal failure due to Leptospira interrogans infection.
 
 </details>
 
@@ -1860,7 +1860,7 @@ Farmer with fever, myalgia, eye redness, elevated bilirubin?
 
 <details><summary>Answer</summary>
 
-**B. Histoplasmosis** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Histoplasmosis** — **B. Histoplasmosis** — Histoplasma capsulatum infection mimics TB with hilar adenopathy and pulmonary infiltrates; lactophenol cotton blue mount of culture shows tuberculate (spiked) macroconidia pathognomonic for identification.
 
 </details>
 
@@ -1876,7 +1876,7 @@ GAS pharyngitis — bacterial component responsible for fibronectin attachment?
 
 <details><summary>Answer</summary>
 
-**A. Lipoteichoic acid** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Lipoteichoic acid** — **A. Lipoteichoic acid** — Group A Streptococcus uses lipoteichoic acid (LTA) and M-protein complexes to bind fibronectin on pharyngeal epithelial cells, mediating initial colonization and adherence.
 
 </details>
 
@@ -1892,7 +1892,7 @@ Child with perianal itching, thread-like worms, microscopy shown?
 
 <details><summary>Answer</summary>
 
-**A. Enterobius vermicularis** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Enterobius vermicularis** — **A. Enterobius vermicularis** — Pinworm infection causes nocturnal perianal pruritus; tiny thread-like white worms visible around anus; diagnosis by Scotch tape test showing D-shaped eggs.
 
 </details>
 
@@ -1908,7 +1908,7 @@ Fever, cough, hemoptysis, BAL shows septate hyphae, acute-angle branching?
 
 <details><summary>Answer</summary>
 
-**C. Aspergillosis** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Aspergillosis** — **C. Aspergillosis** — Aspergillus fumigatus shows septate hyphae with 45° acute-angle (dichotomous) branching on BAL microscopy; causes invasive pulmonary aspergillosis in immunocompromised hosts with hemoptysis.
 
 </details>
 
@@ -1924,7 +1924,7 @@ Village dysentery from raw milk, Gram-negative curved rods, PMN infiltration?
 
 <details><summary>Answer</summary>
 
-**D. Campylobacter jejuni** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Campylobacter jejuni** — **D. Campylobacter jejuni** — Gram-negative curved/comma-shaped rods from raw milk/poultry; causes bloody dysentery with PMN-infiltrated mucosa; leading bacterial cause of foodborne diarrhea worldwide.
 
 </details>
 
@@ -2155,7 +2155,7 @@ Pheochromocytoma — pre/intraoperative drug?
 
 <details><summary>Answer</summary>
 
-**B. Phenoxybenzamine** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Phenoxybenzamine** — **B. Phenoxybenzamine** — Non-selective irreversible alpha-blocker given 10-14 days preoperatively for pheochromocytoma to prevent hypertensive crisis; beta-blockers only added after alpha-blockade to avoid unopposed vasoconstriction.
 
 </details>
 
@@ -2171,7 +2171,7 @@ Cardiac action potential — amiodarone acts in phase?
 
 <details><summary>Answer</summary>
 
-**D. 3** — Source: DocTutorials NEET-PG 2021 recall.
+**D. 3** — **D. 3** — Amiodarone primarily blocks K⁺ channels (class III action), prolonging phase 3 repolarization and effective refractory period; also has class I, II, and IV effects making it a broad-spectrum antiarrhythmic.
 
 </details>
 
@@ -2187,7 +2187,7 @@ Tumor lysis syndrome, elevated uric acid — pegloticase mechanism?
 
 <details><summary>Answer</summary>
 
-**A. Oxidizes uric acid** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Oxidizes uric acid** — **A. Oxidizes uric acid** — Pegloticase is PEGylated recombinant uricase that oxidizes uric acid to allantoin (more soluble, renally excreted); used for refractory gout/TLS when allopurinol fails.
 
 </details>
 
@@ -2203,7 +2203,7 @@ Diabetic HbA1c 8.8, heart failure, on metformin/glargine — add?
 
 <details><summary>Answer</summary>
 
-**B. Empagliflozin** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Empagliflozin** — **B. Empagliflozin** — SGLT2 inhibitors (empagliflozin, dapagliflozin) have proven cardioprotective benefit in heart failure with reduced ejection fraction and T2DM; pioglitazone worsens heart failure (contraindicated).
 
 </details>
 
@@ -2219,7 +2219,7 @@ DVT prophylaxis post-LSCS at 35 weeks preeclampsia?
 
 <details><summary>Answer</summary>
 
-**D. LMWH** — Source: DocTutorials NEET-PG 2021 recall.
+**D. LMWH** — **D. LMWH** — Low molecular weight heparin is the preferred VTE prophylaxis post-cesarean section; safe in breastfeeding, does not cross placenta, predictable pharmacokinetics; warfarin avoided postpartum in nursing mothers.
 
 </details>
 
@@ -2235,7 +2235,7 @@ Hydrochlorothiazide renal calculi mechanism?
 
 <details><summary>Answer</summary>
 
-**D. Decreased citrate excretion** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Decreased citrate excretion** — **D. Decreased citrate excretion** — Thiazide diuretics cause mild hypokalemia and intracellular acidosis, reducing urinary citrate excretion; low citrate reduces calcium chelation, promoting calcium oxalate stone formation paradoxically.
 
 </details>
 
@@ -2251,7 +2251,7 @@ Pritchard regimen eclampsia — magnesium sulfate loading dose (grams)?
 
 <details><summary>Answer</summary>
 
-**B. 14** — Source: DocTutorials NEET-PG 2021 recall.
+**B. 14** — **B. 14** — Pritchard regimen: 4g IV + 10g IM (5g each buttock) = 14g total loading dose of magnesium sulfate; maintenance 5g IM 4-hourly; prevents and treats eclamptic seizures.
 
 </details>
 
@@ -2267,7 +2267,7 @@ PSVT requiring prophylaxis — drug?
 
 <details><summary>Answer</summary>
 
-**D. Oral verapamil** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Oral verapamil** — **D. Oral verapamil** — Oral verapamil (calcium channel blocker) is used for long-term prophylaxis of PSVT/AV nodal re-entrant tachycardia; IV adenosine is for acute termination, not chronic prophylaxis.
 
 </details>
 
@@ -2283,7 +2283,7 @@ Migraine 4-5 episodes/month, sumatriptan caused chest tightness, family CAD — 
 
 <details><summary>Answer</summary>
 
-**B. Propranolol** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Propranolol** — **B. Propranolol** — Beta-blocker propranolol is first-line migraine prophylaxis with established efficacy; sumatriptan chest tightness with family CAD history contraindicates triptans; propranolol is safe and effective for prevention.
 
 </details>
 
@@ -2299,7 +2299,7 @@ Migraine 4-5 episodes/month, sumatriptan caused chest tightness, family CAD — 
 
 <details><summary>Answer</summary>
 
-**D. Darbepoietin-alpha** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Darbepoietin-alpha** — **D. Darbepoietin-alpha** — Erythropoiesis-stimulating agent (ESA) darbepoietin-alpha treats anemia of CKD by stimulating RBC production; longer half-life than EPO; target Hb 10-11.5 g/dL to avoid cardiovascular events.
 
 </details>
 
@@ -2315,7 +2315,7 @@ GERD — drug increasing LES tone and gastric emptying?
 
 <details><summary>Answer</summary>
 
-**C. Metoclopramide** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Metoclopramide** — **C. Metoclopramide** — Dopamine antagonist prokinetic metoclopramide increases lower esophageal sphincter pressure and accelerates gastric emptying; used in GERD with gastroparesis; central dopamine blockade causes extrapyramidal side effects.
 
 </details>
 

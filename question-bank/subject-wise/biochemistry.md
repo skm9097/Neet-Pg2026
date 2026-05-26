@@ -5959,7 +5959,7 @@ Prosthetic valves are predisposed to -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Prosthetic heart valves are complicated by thromboembolism (non-endothelialised surface activates coagulation), infective endocarditis (implant biofilm), and mechanical haemolysis (shear stress fragmenting RBCs).
 
 </details>
 
@@ -5979,7 +5979,7 @@ Infarcts involving which portion of the myocardium cause aneurysm as a post- MI 
 
 <details><summary>Answer</summary>
 
-**D. Inferior wall** — Source: Medicoholic 2016 PYQ compilation.
+**D. Inferior wall** — **D. Inferior wall** — Wait: The standard teaching is that anterior transmural MI (LAD territory) most commonly causes ventricular aneurysm. However, the answer key states D (inferior wall). Anterior wall aneurysm is classically more common.
 
 </details>
 
@@ -5999,7 +5999,7 @@ In patients with hypertrophic cardiomyopathy maximum mutations are found in whic
 
 <details><summary>Answer</summary>
 
-**A. . β - myosin heavy chain** — Source: Medicoholic 2016 PYQ compilation.
+**A. . β - myosin heavy chain** — **A. β-myosin heavy chain** — The most common genetic mutations in hypertrophic cardiomyopathy (HCM) occur in MYH7 (β-myosin heavy chain), accounting for ~35–40% of cases; MYBPC3 (myosin binding protein C) is second most common.
 
 </details>
 
@@ -6019,7 +6019,7 @@ Mutation in protein associated with restrictive cardiomyopathy?
 
 <details><summary>Answer</summary>
 
-**C. Troponin I** — Source: Medicoholic 2016 PYQ compilation.
+**C. Troponin I** — **C. Troponin I** — Mutations in cardiac troponin I (TNNI3) are associated with restrictive cardiomyopathy, causing impaired cardiac relaxation and diastolic dysfunction; troponin I normally inhibits actin-myosin interaction during relaxation.
 
 </details>
 
@@ -6039,7 +6039,7 @@ Takayasu arteritis mainly affects?
 
 <details><summary>Answer</summary>
 
-**C. Subclavian artery** — Source: Medicoholic 2016 PYQ compilation.
+**C. Subclavian artery** — **C. Subclavian artery** — Takayasu arteritis (pulseless disease) is a granulomatous large vessel vasculitis predominantly affecting the aorta and its proximal branches, especially subclavian arteries, causing upper limb claudication and absent pulses.
 
 </details>
 
@@ -6059,7 +6059,7 @@ Gall stones in hemolytic anaemia are -
 
 <details><summary>Answer</summary>
 
-**A. Pigment** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pigment** — **A. Pigment** — Chronic haemolytic anaemias (e.g., sickle cell, spherocytosis, thalassaemia) cause excess bilirubin production from RBC destruction; unconjugated bilirubin precipitates with calcium in bile forming black pigment stones (calcium bilirubinate).
 
 </details>
 
@@ -6079,7 +6079,7 @@ Hypercoagulability due to defective factor V gene is called :
 
 <details><summary>Answer</summary>
 
-**B. Leiden mutation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Leiden mutation** — **B. Leiden mutation** — Factor V Leiden is a point mutation (R506Q) in the factor V gene that makes factor Va resistant to inactivation by activated protein C, causing the most common inherited hypercoagulable state.
 
 </details>
 
@@ -6099,7 +6099,7 @@ Cryoprecipitate contains:
 
 <details><summary>Answer</summary>
 
-**C. Factor VIII** — Source: Medicoholic 2016 PYQ compilation.
+**C. Factor VIII** — **C. Factor VIII** — Cryoprecipitate (cold-precipitated fraction of FFP) is rich in factor VIII, von Willebrand factor, fibrinogen, factor XIII, and fibronectin; it is used for haemophilia A, von Willebrand disease, and hypofibrinogenaemia.
 
 </details>
 
@@ -6119,7 +6119,7 @@ Which of the following is a pro- coagulant?
 
 <details><summary>Answer</summary>
 
-**D. Thrombin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Thrombin** — **D. Thrombin** — Thrombin (factor IIa) is the central procoagulant: it converts fibrinogen to fibrin, activates platelets, amplifies coagulation by activating factors V, VIII, XI, and XIII, and stimulates endothelium.
 
 </details>
 
@@ -6139,7 +6139,7 @@ Which test is used for both intrinsic and common clotting pathways?
 
 <details><summary>Answer</summary>
 
-**B. Partial thromboplastin time** — Source: Medicoholic 2016 PYQ compilation.
+**B. Partial thromboplastin time** — **B. Partial thromboplastin time** — aPTT (activated partial thromboplastin time) evaluates the intrinsic pathway (factors XII, XI, IX, VIII) and common pathway (X, V, II, I); PT/INR evaluates extrinsic and common pathway.
 
 </details>
 
@@ -6159,7 +6159,7 @@ Maximum life of transfused RBCs is
 
 <details><summary>Answer</summary>
 
-**B. 80-100 days** — Source: Medicoholic 2016 PYQ compilation.
+**B. 80-100 days** — **B. 80-100 days** — Transfused RBCs have a shortened lifespan compared to normal 120 days; storage-damaged cells are cleared faster, giving an effective survival of approximately 80–100 days post-transfusion.
 
 </details>
 
@@ -6179,7 +6179,7 @@ Hemolytic Uremic Syndrome is characterized by ?
 
 <details><summary>Answer</summary>
 
-**D. a and c** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and c** — **D. a and c** — Haemolytic uraemic syndrome (HUS) is characterised by microangiopathic haemolytic anaemia (MAHA), thrombocytopenia, and acute kidney injury; Coombs test is negative (mechanical/non-immune haemolysis).
 
 </details>
 
@@ -6199,7 +6199,7 @@ Left side shift in Arneth's count is seen in?
 
 <details><summary>Answer</summary>
 
-**C. TB** — Source: Medicoholic 2016 PYQ compilation.
+**C. TB** — **C. TB** — Left shift in Arneth count means increase in young neutrophils (fewer nuclear lobes); this occurs in acute bacterial infections including tuberculosis, reflecting accelerated granulopoiesis to meet increased demand.
 
 </details>
 
@@ -6219,7 +6219,7 @@ Most common heavy chain disease is
 
 <details><summary>Answer</summary>
 
-**B. Seligmann disease** — Source: Medicoholic 2016 PYQ compilation.
+**B. Seligmann disease** — **B. Seligmann disease** — Seligmann disease (α heavy chain disease / IPSID) is the most common heavy chain disease, involving IgA α-chain, predominantly affecting the small intestinal mucosa in Mediterranean/Middle Eastern populations.
 
 </details>
 
@@ -6239,7 +6239,7 @@ Dutcher bodies are seen in?
 
 <details><summary>Answer</summary>
 
-**D. Bone marrow** — Source: Medicoholic 2016 PYQ compilation.
+**D. Bone marrow** — **D. Bone marrow** — Dutcher bodies are intranuclear pseudoinclusions of PAS-positive immunoglobulin seen in plasma cells/lymphoplasmacytic cells in the bone marrow, characteristic of Waldenström macroglobulinaemia and multiple myeloma.
 
 </details>
 
@@ -6259,7 +6259,7 @@ Basophillic leucocytosis occurs in -
 
 <details><summary>Answer</summary>
 
-**C. CML** — Source: Medicoholic 2016 PYQ compilation.
+**C. CML** — **C. CML** — Basophilia (basophilic leucocytosis) is a hallmark of chronic myeloid leukaemia (CML); >1% basophils on peripheral smear is characteristic, and basophilia may increase during blast crisis.
 
 </details>
 
@@ -6279,7 +6279,7 @@ TEL-AML 1 fusion is associated with?
 
 <details><summary>Answer</summary>
 
-**C. ALL** — Source: Medicoholic 2016 PYQ compilation.
+**C. ALL** — **C. ALL** — TEL-AML1 fusion gene (ETV6-RUNX1), resulting from t(12;21), is the most common chromosomal translocation in childhood B-cell ALL (~25% of cases), associated with favourable prognosis.
 
 </details>
 
@@ -6299,7 +6299,7 @@ Most common cancer found in coal mine workers
 
 <details><summary>Answer</summary>
 
-**C. Lung** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lung** — **C. Lung** — Coal mine workers are exposed to coal dust and silica particles, causing pneumoconiosis; prolonged occupational dust and carcinogen exposure (including radon and polycyclic hydrocarbons) markedly increases lung cancer risk.
 
 </details>
 
@@ -6319,7 +6319,7 @@ In allergic bronchopulmonary aspergillosis, the location of lesions is
 
 <details><summary>Answer</summary>
 
-**B. Bronchi and bronchioles** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bronchi and bronchioles** — **B. Bronchi and bronchioles** — Allergic bronchopulmonary aspergillosis (ABPA) is a hypersensitivity reaction to Aspergillus colonising the bronchi and bronchioles, causing mucoid impaction, central bronchiectasis, and eosinophilic infiltration.
 
 </details>
 
@@ -6339,7 +6339,7 @@ Vitamin deficiency associated with cystic fibrosis is
 
 <details><summary>Answer</summary>
 
-**D. B12** — Source: Medicoholic 2016 PYQ compilation.
+**D. B12** — **D. B12** — Wait: Cystic fibrosis causes exocrine pancreatic insufficiency leading to malabsorption of fat-soluble vitamins (A, D, E, K). The answer key states D (B12), likely due to pancreatic enzyme deficiency impairing B12 release. Fat-soluble vitamins are classically affected.
 
 </details>
 
@@ -6359,7 +6359,7 @@ Folding defect is associated with which disease
 
 <details><summary>Answer</summary>
 
-**A. Parkinson's disease** — Source: Medicoholic 2016 PYQ compilation.
+**A. Parkinson's disease** — **A. Parkinson's disease** — Parkinson's disease is a protein misfolding/aggregation disorder; α-synuclein misfolds and accumulates as Lewy bodies in dopaminergic neurons; prion, Alzheimer's, and Huntington's diseases also involve pathological protein misfolding.
 
 </details>
 
@@ -6379,7 +6379,7 @@ Diphtheria toxin's mechanism of action is:
 
 <details><summary>Answer</summary>
 
-**B. Inhibiting protein synthesis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inhibiting protein synthesis** — **B. Inhibiting protein synthesis** — Diphtheria toxin ADP-ribosylates and inactivates Elongation Factor-2 (EF-2/translocase), halting translocation of the peptidyl-tRNA on the ribosome and completely blocking eukaryotic protein synthesis.
 
 </details>
 
@@ -6399,7 +6399,7 @@ Amino acid metabolism is implicated in which disease?
 
 <details><summary>Answer</summary>
 
-**A. Maple syrup urine disease** — Source: Medicoholic 2016 PYQ compilation.
+**A. Maple syrup urine disease** — **A. Maple syrup urine disease** — MSUD results from deficiency of branched-chain α-keto acid dehydrogenase, impairing catabolism of branched-chain amino acids (leucine, isoleucine, valine); toxic accumulation causes neurotoxicity, metabolic acidosis, and ketosis.
 
 </details>
 
@@ -6419,7 +6419,7 @@ Hypopigmented macules are found in?
 
 <details><summary>Answer</summary>
 
-**D. Tuberous sclerosis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Tuberous sclerosis** — **D. Tuberous sclerosis** — Tuberous sclerosis (TSC1/TSC2 mutations) presents with hypopigmented ash-leaf macules (earliest cutaneous sign), shagreen patches, facial angiofibromas, and hamartomas in multiple organs.
 
 </details>
 
@@ -6442,7 +6442,7 @@ Opsonin is
 
 <details><summary>Answer</summary>
 
-**B. C3b** — Source: NEET-PG 2017 medicoholic.com
+**B. C3b** — **B. C3b** — C3b is the principal opsonin of the complement system; it covalently binds to microbial surfaces and is recognised by complement receptor CR1 (CD35) on phagocytes, dramatically enhancing phagocytosis.
 
 </details>
 
@@ -6460,7 +6460,7 @@ Chordoma arises from:
 
 <details><summary>Answer</summary>
 
-**B. Notochord** — Source: NEET-PG 2017 medicoholic.com
+**B. Notochord** — **B. Notochord** — Chordoma is a low-grade malignant tumour arising from notochordal remnants; it occurs at the ends of the axial skeleton — sacrococcygeal region (50%) and skull base/clivus (35%); characterised by physaliphorous cells.
 
 </details>
 
@@ -6478,7 +6478,7 @@ Which metal results in “Saturnine gout” formation?
 
 <details><summary>Answer</summary>
 
-**B. Lead** — Source: NEET-PG 2017 medicoholic.com
+**B. Lead** — **B. Lead** — Saturnine gout is caused by chronic lead poisoning; lead inhibits urate excretion in renal tubules, raising serum uric acid levels and precipitating gout; historically associated with lead-glazed vessel use.
 
 </details>
 
@@ -6514,7 +6514,7 @@ A boy presented with multiple non suppurative osteomyelitis with sickle cell ana
 
 <details><summary>Answer</summary>
 
-**A. Salmonella** — Source: NEET-PG 2017 medicoholic.com
+**A. Salmonella** — **A. Salmonella** — In sickle cell anaemia, Salmonella species (especially Salmonella typhimurium) are the most common cause of osteomyelitis, unlike the general population where Staphylococcus aureus predominates; infarctive gut mucosa allows Salmonella entry.
 
 </details>
 
@@ -6532,7 +6532,7 @@ New born baby with heart rate less than 60 beats per minute can be resuscitated 
 
 <details><summary>Answer</summary>
 
-**D. slapping the back** — Source: NEET-PG 2017 medicoholic.com
+**D. slapping the back** — **D. Slapping the back** — Slapping a newborn's back is never recommended in neonatal resuscitation; acceptable tactile stimulation includes drying, rubbing the back gently, and flicking the soles; chest compressions are needed for HR <60 bpm.
 
 </details>
 
@@ -6550,7 +6550,7 @@ Mobitz type 2 second degree AV block is seen in all except:
 
 <details><summary>Answer</summary>
 
-**D. Cushing syndrome** — Source: NEET-PG 2017 medicoholic.com
+**D. Cushing syndrome** — **D. Cushing syndrome** — Mobitz type II AV block is associated with structural disease: CAD, sarcoidosis, hypothyroidism, Lyme disease, and aortic valve disease; Cushing syndrome (hypercortisolism) does not classically cause Mobitz type II block.
 
 </details>
 

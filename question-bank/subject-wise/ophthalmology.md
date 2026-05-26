@@ -2649,7 +2649,7 @@ Gaisbock syndrome is known as
 
 <details><summary>Answer</summary>
 
-**C. Spurious Polycythemia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Spurious Polycythemia** — **C. Spurious Polycythemia** — Gaisbock syndrome (stress/relative polycythemia) is pseudopolycythemia due to reduced plasma volume without true red cell mass increase; associated with obesity, hypertension, smoking, and stress.
 
 </details>
 
@@ -2667,7 +2667,7 @@ Polyarticular onset JRA involves more than how many joints -
 
 <details><summary>Answer</summary>
 
-**C. 5** — Source: Medicoholic 2015 PYQ compilation.
+**C. 5** — **C. 5** — Polyarticular JIA (juvenile idiopathic arthritis) is defined by involvement of 5 or more joints within the first 6 months of disease onset; pauciarticular involves ≤4 joints.
 
 </details>
 
@@ -2685,7 +2685,7 @@ Which of the following is given to decrease Serum Triglycerides?
 
 <details><summary>Answer</summary>
 
-**A. Fibrates** — Source: Medicoholic 2015 PYQ compilation.
+**A. Fibrates** — **A. Fibrates** — Fibrates (fenofibrate, gemfibrozil) activate PPARα, increasing lipoprotein lipase activity and reducing hepatic VLDL synthesis; they are the most effective drugs for lowering serum triglycerides (by 30–50%).
 
 </details>
 
@@ -2703,7 +2703,7 @@ Blood transfusion associated acute lung injury occurs due to -
 
 <details><summary>Answer</summary>
 
-**B. HLA mediated** — Source: Medicoholic 2015 PYQ compilation.
+**B. HLA mediated** — **B. HLA mediated** — TRALI is primarily caused by donor anti-HLA or anti-neutrophil antibodies reacting with recipient leucocytes, activating neutrophils in pulmonary vasculature and causing non-cardiogenic pulmonary oedema within 6 hours.
 
 </details>
 
@@ -2721,7 +2721,7 @@ Dietary deficiency of which vitamin usually does not exist -
 
 <details><summary>Answer</summary>
 
-**C. Vitamin-E** — Source: Medicoholic 2015 PYQ compilation.
+**C. Vitamin-E** — **C. Vitamin-E** — Vitamin E is ubiquitous in plant oils, nuts, and seeds; dietary deficiency is extremely rare in healthy adults. Deficiency occurs in fat malabsorption syndromes (cystic fibrosis, abetalipoproteinaemia) not from diet alone.
 
 </details>
 
@@ -2739,7 +2739,7 @@ Manifestations of vitamin E.deficiency are all except -
 
 <details><summary>Answer</summary>
 
-**D. Autonomic dysfunction** — Source: Medicoholic 2015 PYQ compilation.
+**D. Autonomic dysfunction** — **D. Autonomic dysfunction** — Vitamin E deficiency causes haemolytic anaemia (oxidative RBC damage), posterior column degeneration (proprioception/vibration loss), and cerebellar ataxia; autonomic dysfunction is not a recognised feature.
 
 </details>
 
@@ -2757,7 +2757,7 @@ HIV RNA by PCR can detect as low as
 
 <details><summary>Answer</summary>
 
-**B. 40 copies viral RNA/ml of blood** — Source: Medicoholic 2015 PYQ compilation.
+**B. 40 copies viral RNA/ml of blood** — **B. 40 copies viral RNA/ml of blood** — Modern quantitative HIV RNA PCR assays have detection limits of 40–50 copies/mL; ultra-sensitive assays can reach 20 copies/mL; this threshold is used to define virological suppression on ART.
 
 </details>
 
@@ -2775,7 +2775,7 @@ Smoking may be associated with all of the following cancers, except:
 
 <details><summary>Answer</summary>
 
-**D. None** — Source: Medicoholic 2015 PYQ compilation.
+**D. None** — **D. None** — Smoking is carcinogenic for all listed cancers: laryngeal (strong), nasopharyngeal (moderate, though EBV is primary), and bladder (tobacco carcinogens excreted in urine); therefore none is an exception — all are smoking-associated.
 
 </details>
 
@@ -2793,7 +2793,7 @@ Traumatic optic neuropathy due to closed head trauma commonly affects which part
 
 <details><summary>Answer</summary>
 
-**A. Optic canal** — Source: Medicoholic 2015 PYQ compilation.
+**A. Optic canal** — **A. Optic canal** — The intracanalicular segment of the optic nerve is tethered within the rigid bony optic canal; shear forces from closed head trauma (especially fronto-temporal blows) concentrate here, causing traumatic optic neuropathy.
 
 </details>
 
@@ -2814,7 +2814,7 @@ Use of PGF 2 a analogues is contraindicated in ?
 
 <details><summary>Answer</summary>
 
-**C. Bronchial asthma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Bronchial asthma** — **C. Bronchial asthma** — PGF2α analogues (carboprost, dinoprostone) cause bronchoconstriction via prostaglandin receptors in airway smooth muscle; they are absolutely contraindicated in asthma due to risk of severe bronchospasm.
 
 </details>
 
@@ -2834,7 +2834,7 @@ WHO VISION 2020 initiative includes ?
 
 <details><summary>Answer</summary>
 
-**B. Trachoma blindness** — Source: Medicoholic 2016 PYQ compilation.
+**B. Trachoma blindness** — **B. Trachoma blindness** — WHO VISION 2020 'Right to Sight' targets include trachoma, cataract, onchocerciasis, childhood blindness, refractive errors, and low vision; trachoma is a leading infectious cause of preventable blindness globally.
 
 </details>
 
@@ -2854,7 +2854,7 @@ Placido disc is used for diagnosing which of the following condition?
 
 <details><summary>Answer</summary>
 
-**B. Keratoconus** — Source: Medicoholic 2016 PYQ compilation.
+**B. Keratoconus** — **B. Keratoconus** — Placido's disc projects concentric rings onto the cornea to assess corneal curvature regularity; irregular, distorted mires indicate irregular astigmatism or keratoconus, confirming corneal ectasia.
 
 </details>
 
@@ -2874,7 +2874,7 @@ Spasm of accommodation mimics
 
 <details><summary>Answer</summary>
 
-**A. Myopia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Myopia** — **A. Myopia** — Ciliary muscle spasm causes excessive accommodation, leading to pseudo-myopia; the lens remains in a hyperconvergent state, shifting the focal point anterior to the retina mimicking axial myopia, correctable with cycloplegic refraction.
 
 </details>
 
@@ -2894,7 +2894,7 @@ Subretinal haemorrhage at the macula in myopia is known as?
 
 <details><summary>Answer</summary>
 
-**B. Foster Fuchs spot** — Source: Medicoholic 2016 PYQ compilation.
+**B. Foster Fuchs spot** — **B. Foster Fuchs spot** — In pathological myopia, choroidal neovascularisation leads to subretinal haemorrhage at the macula; the resulting dark pigmented scar is called a Foster-Fuchs spot (Fuchs' fleck), indicating severe macular damage.
 
 </details>
 
@@ -2914,7 +2914,7 @@ Goblet cells are seen in -
 
 <details><summary>Answer</summary>
 
-**B. Conjunctiva** — Source: Medicoholic 2016 PYQ compilation.
+**B. Conjunctiva** — **B. Conjunctiva** — Goblet cells (mucin-secreting unicellular glands) are found in the conjunctival epithelium, concentrated in the inferior fornix and palpebral conjunctiva; they produce mucin layer of the tear film for ocular surface lubrication.
 
 </details>
 
@@ -2934,7 +2934,7 @@ Schwalbe's ring corresponds to:
 
 <details><summary>Answer</summary>
 
-**B. Descemet's membrane** — Source: Medicoholic 2016 PYQ compilation.
+**B. Descemet's membrane** — **B. Descemet's membrane** — Schwalbe's ring (line) is the peripheral termination of Descemet's membrane at the corneoscleral junction; it is a gonioscopic landmark and is anteriorly displaced in Axenfeld-Rieger syndrome (posterior embryotoxon).
 
 </details>
 
@@ -2954,7 +2954,7 @@ Corneal epithelial repair includes all of the following phases except
 
 <details><summary>Answer</summary>
 
-**D. Cell fusion** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cell fusion** — **D. Cell fusion** — Corneal epithelial wound healing involves cell migration (sliding), cell proliferation (mitosis), and cell adhesion (hemidesmosome reformation); cell fusion is not a physiological mechanism of epithelial repair.
 
 </details>
 
@@ -2974,7 +2974,7 @@ A 50 year old male presents with cicatricial entopion of upper and lower eyelid.
 
 <details><summary>Answer</summary>
 
-**A. Trachoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Trachoma** — **A. Trachoma** — Arlt's line (linear conjunctival scar on upper tarsal conjunctiva) is pathognomonic of trachoma (Chlamydia trachomatis); cicatricial changes lead to entropion, trichiasis, and ultimately corneal blindness.
 
 </details>
 
@@ -2994,7 +2994,7 @@ Which of the following is not a feature of fungal corneal ulcer?
 
 <details><summary>Answer</summary>
 
-**C. Symptoms are more pronounced than signs** — Source: Medicoholic 2016 PYQ compilation.
+**C. Symptoms are more pronounced than signs** — **C. Symptoms are more pronounced than signs** — In fungal keratitis, signs (satellite lesions, fixed hypopyon, feathery margins, endothelial plaques) are often more pronounced than symptoms; bacterial ulcers are the ones with prominent pain relative to signs.
 
 </details>
 
@@ -3014,7 +3014,7 @@ Iron deposition line at edge of pterygium on corneal epithelium is known as?
 
 <details><summary>Answer</summary>
 
-**A. Stocker's line** — Source: Medicoholic 2016 PYQ compilation.
+**A. Stocker's line** — **A. Stocker's line** — Stocker's line is an iron deposit (haemosiderin) in the corneal epithelium at the advancing head of a pterygium; similar iron lines include Ferry's (filtering bleb), Hudson-Stähli (normal aging), and Fleischer's (keratoconus).
 
 </details>
 
@@ -3034,7 +3034,7 @@ Which order neuron is optic nerve in the visual pathway?
 
 <details><summary>Answer</summary>
 
-**B. Second order** — Source: Medicoholic 2016 PYQ compilation.
+**B. Second order** — **B. Second order** — Visual pathway: 1st order = photoreceptors (rods/cones); 2nd order = bipolar cells → ganglion cells → optic nerve; 3rd order = lateral geniculate nucleus neurons projecting to visual cortex.
 
 </details>
 
@@ -3054,7 +3054,7 @@ Which of the following is not a part of uveal
 
 <details><summary>Answer</summary>
 
-**D. Retina** — Source: Medicoholic 2016 PYQ compilation.
+**D. Retina** — **D. Retina** — The uveal tract consists of iris, ciliary body, and choroid (all pigmented vascular structures); the retina is a separate neuroepithelial layer derived from neuroectoderm, not part of the uvea.
 
 </details>
 
@@ -3074,7 +3074,7 @@ Blue dot cataract is caused by
 
 <details><summary>Answer</summary>
 
-**C. Atopic dermatitis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Atopic dermatitis** — **C. Atopic dermatitis** — Blue dot (cerulean) cataracts are associated with atopic dermatitis; they present as anterior subcapsular shield-like opacities. Wilson's disease causes sunflower cataract; chalcosis causes sunflower cataract too.
 
 </details>
 
@@ -3094,7 +3094,7 @@ Which of the following is complication of prolonged use of corticosteroid eye dr
 
 <details><summary>Answer</summary>
 
-**A. Posterior Subcapsular cataract** — Source: Medicoholic 2016 PYQ compilation.
+**A. Posterior Subcapsular cataract** — **A. Posterior Subcapsular cataract** — Prolonged topical or systemic corticosteroid use causes posterior subcapsular cataract (PSC) by inhibiting lens epithelial cell migration and promoting aberrant fibre formation in the posterior capsule region.
 
 </details>
 
@@ -3114,7 +3114,7 @@ What is the new advance in cataract surgery?
 
 <details><summary>Answer</summary>
 
-**A. Femtosecond Laser** — Source: Medicoholic 2016 PYQ compilation.
+**A. Femtosecond Laser** — **A. Femtosecond Laser** — Femtosecond laser-assisted cataract surgery (FLACS) provides precise automated capsulorrhexis, corneal incisions, and lens fragmentation; it improves accuracy over manual phacoemulsification, reducing surgically-induced astigmatism.
 
 </details>
 
@@ -3134,7 +3134,7 @@ Which of the following step is not done during phacoemulsification surgery for c
 
 <details><summary>Answer</summary>
 
-**D. Sclerocorneal tunnel** — Source: Medicoholic 2016 PYQ compilation.
+**D. Sclerocorneal tunnel** — **D. Sclerocorneal tunnel** — Phacoemulsification uses a clear corneal tunnel incision (1.8–2.8 mm), not a sclerocorneal tunnel (which is used in SICS/ECCE); steps include CCC, hydrodissection, phaco, cortex irrigation, and foldable IOL implantation.
 
 </details>
 
@@ -3154,7 +3154,7 @@ Post operative complications of cataract are all except?
 
 <details><summary>Answer</summary>
 
-**D. Scleritis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Scleritis** — **D. Scleritis** — Scleritis is an inflammatory condition of the sclera not typically caused by cataract surgery; recognised post-cataract complications include posterior capsule opacification (after-cataract), endophthalmitis, and secondary glaucoma.
 
 </details>
 
@@ -3174,7 +3174,7 @@ Which of the following is the most important factor in the prevention of the end
 
 <details><summary>Answer</summary>
 
-**A. Preoperative preparation with povidone iodine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Preoperative preparation with povidone iodine** — **A. Preoperative preparation with povidone iodine** — 5% povidone-iodine conjunctival instillation before cataract surgery is the single most evidence-based intervention for preventing post-operative endophthalmitis, reducing risk by ~60%.
 
 </details>
 
@@ -3194,7 +3194,7 @@ Hemeralopia is seen in
 
 <details><summary>Answer</summary>
 
-**D. Subcapsular cataract** — Source: Medicoholic 2016 PYQ compilation.
+**D. Subcapsular cataract** — **D. Subcapsular cataract** — Hemeralopia (day blindness/reduced vision in bright light) occurs with posterior subcapsular cataract because central opacities scatter bright light, reducing contrast sensitivity; nyctalopia (night blindness) occurs with retinitis pigmentosa.
 
 </details>
 
@@ -3214,7 +3214,7 @@ Which of the following is a good dye is used for lens in cataract surgery?
 
 <details><summary>Answer</summary>
 
-**A. Trypan Blue** — Source: Medicoholic 2016 PYQ compilation.
+**A. Trypan Blue** — **A. Trypan Blue** — Trypan blue 0.1% is used to stain the anterior lens capsule (capsule staining) during capsulorhexis in dense cataracts with poor red reflex; it enhances visibility of the anterior capsule for safer capsulorhexis.
 
 </details>
 
