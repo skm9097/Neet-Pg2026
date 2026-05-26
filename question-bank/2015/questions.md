@@ -4362,7 +4362,7 @@ Styloid process is derived from:
 
 <details><summary>Answer</summary>
 
-**B. 2nd arch** — 2nd arch (Reichert's cartilage): stapes, styloid process, lesser cornu of hyoid, upper body of hyoid.
+**B. 2nd arch** — **B. 2nd arch** — The styloid process is derived from Reichert's cartilage (2nd pharyngeal/hyoid arch); the 2nd arch also gives rise to stapes, stylohyoid ligament, lesser horn and upper body of hyoid bone (mnemonic: Stapedius-Styloid-Superior hyoid).
 
 </details>
 
@@ -14636,7 +14636,7 @@ Miracle fruit is used to change the taste from?
 
 <details><summary>Answer</summary>
 
-**B. Sour to Sweet** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sour to Sweet** — **B. Sour to Sweet** — Miracle fruit (Synsepalum dulcificum) contains miraculin glycoprotein that binds sweet taste receptors and activates them at low pH, converting sour/acidic taste perception to sweet.
 
 </details>
 
@@ -14652,7 +14652,7 @@ The main muscle affected in congenital muscular torticollis is?
 
 <details><summary>Answer</summary>
 
-**A. Sternocleidomastoid** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sternocleidomastoid** — **A. Sternocleidomastoid** — Congenital muscular torticollis results from fibrosis of the sternocleidomastoid muscle (SCM), causing ipsilateral head tilt and contralateral chin rotation; SCM mass/tumor palpable in infancy.
 
 </details>
 
@@ -14668,7 +14668,7 @@ Where is the auditory cortex located inside the brain?
 
 <details><summary>Answer</summary>
 
-**A. Superior temporal gyrus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Superior temporal gyrus** — **A. Superior temporal gyrus** — The primary auditory cortex (Brodmann areas 41, 42) is located in the superior temporal gyrus (Heschl's gyri), on the superior surface of the temporal lobe within the lateral sulcus.
 
 </details>
 
@@ -14684,7 +14684,7 @@ Which eye muscle has radial, longitudinal and circular fibres?
 
 <details><summary>Answer</summary>
 
-**D. Ciliary muscle** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ciliary muscle** — **D. Ciliary muscle** — The ciliary muscle contains three fibre types: longitudinal (Brücke's), radial (Ivanov's), and circular (Müller's); all act together during accommodation to change lens curvature via zonular relaxation.
 
 </details>
 
@@ -14700,7 +14700,7 @@ Axial length of eye ball is:
 
 <details><summary>Answer</summary>
 
-**C. 24 mm** — Source: Medicoholic 2015 PYQ compilation.
+**C. 24 mm** — **C. 24 mm** — The normal adult axial length of the eyeball is approximately 24 mm (range 22–26 mm); axial length >24 mm causes myopia and <22 mm causes hyperopia; measured by A-scan ultrasonography.
 
 </details>
 
@@ -14716,7 +14716,7 @@ Sturm's conoid refers to configuration of the rays refracted through:
 
 <details><summary>Answer</summary>
 
-**C. Toric surface** — Source: Medicoholic 2015 PYQ compilation.
+**C. Toric surface** — **C. Toric surface** — Sturm's conoid is the hour-glass shaped configuration of refracted rays produced by a toric (astigmatic) lens; the two focal lines (Sturm's focal lines) are separated by the interval of Sturm.
 
 </details>
 
@@ -14732,7 +14732,7 @@ Refractory error measured by all except ?
 
 <details><summary>Answer</summary>
 
-**D. Spectrometry** — Source: Medicoholic 2015 PYQ compilation.
+**D. Spectrometry** — **D. Spectrometry** — Spectrometry measures light spectra/wavelengths and has no role in refraction assessment; refractive error is measured by keratometry (corneal curvature), retinoscopy, and autorefractometry.
 
 </details>
 
@@ -14748,7 +14748,7 @@ Anteroposterior change in length of eye is called ?
 
 <details><summary>Answer</summary>
 
-**C. Axial Ametropia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Axial Ametropia** — **C. Axial Ametropia** — Axial ametropia refers to refractive error caused by abnormal anteroposterior axial length of the eyeball; myopia (too long) and hyperopia (too short) are the most common forms.
 
 </details>
 
@@ -14764,7 +14764,7 @@ Poikilocytosis and anisocytosis is seen in
 
 <details><summary>Answer</summary>
 
-**B. Iron deficiency anaemia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Iron deficiency anaemia** — **B. Iron deficiency anaemia** — IDA characteristically shows hypochromic microcytic RBCs with significant anisocytosis (variable size) and poikilocytosis (pencil cells, target cells, tear drops) on peripheral smear due to defective Hb synthesis.
 
 </details>
 
@@ -14780,7 +14780,7 @@ Incidence of scar rupture in a subsequent preg​nancy in case of Lower Segment 
 
 <details><summary>Answer</summary>
 
-**A. 2%** — Source: Medicoholic 2015 PYQ compilation.
+**A. 2%** — **A. 2%** — The incidence of uterine scar rupture in subsequent pregnancy after lower segment cesarean section (LSCS) is approximately 0.5–2%; lower segment scars are safer than classical (upper segment) incisions (~4–9% rupture).
 
 </details>
 
@@ -23950,7 +23950,7 @@ Vossius ring occurs in
 
 <details><summary>Answer</summary>
 
-**B. Concussion injury** — Source: Medicoholic 2015 PYQ compilation.
+**B. Concussion injury** — **B. Concussion injury** — Vossius ring is a circular pigmented ring on the anterior lens capsule caused by iris pigment imprinting after blunt trauma (concussion injury) when the iris contacts the lens; it indicates significant impact.
 
 </details>
 
@@ -23966,7 +23966,7 @@ Feature (s) of Infantile glaucoma is/are except:
 
 <details><summary>Answer</summary>
 
-**D. Cornea is thin & clear** — Source: Medicoholic 2015 PYQ compilation.
+**D. Cornea is thin & clear** — **D. Cornea is thin & clear** — Infantile (congenital) glaucoma causes corneal enlargement (buphthalmos), cloudy/edematous cornea with Haab's striae, photophobia, and tearing; the cornea is NOT thin and clear.
 
 </details>
 
@@ -23982,7 +23982,7 @@ Mioitcs are treatment of choice for ?
 
 <details><summary>Answer</summary>
 
-**A. Angle closure glaucoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Angle closure glaucoma** — **A. Angle closure glaucoma** — Miotics (pilocarpine) contract the sphincter pupillae, pulling the iris away from the trabecular meshwork and opening the drainage angle, making them the treatment of choice for angle-closure glaucoma.
 
 </details>
 
@@ -23998,7 +23998,7 @@ Glaucoma drainage devices ?
 
 <details><summary>Answer</summary>
 
-**B. Drain aqueous humour to an external device** — Source: Medicoholic 2015 PYQ compilation.
+**B. Drain aqueous humour to an external device** — **B. Drain aqueous humour to an external device** — Glaucoma drainage devices (Ahmed, Baerveldt, Molteno implants) shunt aqueous humor from the anterior chamber to an external plate beneath the conjunctiva, bypassing blocked trabecular outflow.
 
 </details>
 
@@ -24014,7 +24014,7 @@ A patient (age not captured in source) who is a year old woman presents Sudden p
 
 <details><summary>Answer</summary>
 
-**A. Vitreous Hemorrhage** — Source: Medicoholic 2015 PYQ compilation.
+**A. Vitreous Hemorrhage** — **A. Vitreous Hemorrhage** — Sudden painless visual loss with no fundal glow (absent red reflex) indicates vitreous hemorrhage obscuring the retina; recurrent episodes suggest underlying retinal breaks, proliferative diabetic retinopathy, or Eales disease.
 
 </details>
 
@@ -24030,7 +24030,7 @@ Retinopathy of prematurity is commonly predisposed by-
 
 <details><summary>Answer</summary>
 
-**A. Less gestation age** — Source: Medicoholic 2015 PYQ compilation.
+**A. Less gestation age** — **A. Less gestation age** — Earlier gestational age is the strongest risk factor for ROP; immature retinal vasculature is susceptible to oxygen-induced vasoconstriction and subsequent pathological neovascularization (VEGF-driven).
 
 </details>
 
@@ -24046,7 +24046,7 @@ Eales disease is:
 
 <details><summary>Answer</summary>
 
-**C. Recurrent periphelbitis retinae** — Source: Medicoholic 2015 PYQ compilation.
+**C. Recurrent periphelbitis retinae** — **C. Recurrent periphelbitis retinae** — Eales disease is idiopathic obliterative periphlebitis of retinal veins in young males, associated with TB hypersensitivity; causes recurrent vitreous hemorrhage and may lead to retinal detachment.
 
 </details>
 
@@ -24062,7 +24062,7 @@ What is false about Eale's disease amongst the followwing?
 
 <details><summary>Answer</summary>
 
-**C. Optic neuritis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Optic neuritis** — **C. Optic neuritis** — Eales disease affects peripheral retinal veins (periphlebitis retinae), not the optic nerve; features include vitreous hemorrhage, retinal detachment, and AKT is given due to TB association.
 
 </details>
 
@@ -24078,7 +24078,7 @@ Snowball appearance is seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Sarcoidosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sarcoidosis** — **B. Sarcoidosis** — Snowball opacities are large whitish-grey vitreous infiltrates (aggregated inflammatory cells) seen in the inferior vitreous in sarcoid uveitis; they are pathognomonic of sarcoid-associated pars planitis.
 
 </details>
 
@@ -24094,7 +24094,7 @@ Subhyaloid hemorrhage is ?
 
 <details><summary>Answer</summary>
 
-**A. Boat shaped** — Source: Medicoholic 2015 PYQ compilation.
+**A. Boat shaped** — **A. Boat shaped** — Subhyaloid (preretinal) hemorrhage collects between the retina and vitreous face; gravity causes the blood to settle inferiorly, forming a horizontal fluid-blood level giving the characteristic boat/D-shaped appearance.
 
 </details>
 
@@ -24110,7 +24110,7 @@ Most common age related change in vitreous ?
 
 <details><summary>Answer</summary>
 
-**B. Posterior vitreous detachment** — Source: Medicoholic 2015 PYQ compilation.
+**B. Posterior vitreous detachment** — **B. Posterior vitreous detachment** — With aging, vitreous liquefaction (syneresis) occurs and the cortical vitreous separates from the retina; PVD causes floaters/photopsia and can precipitate retinal tears if adhesions are present.
 
 </details>
 
@@ -24126,7 +24126,7 @@ Muscae volitantes is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Remains of primitive hyaloid vasculatur** — Source: Medicoholic 2015 PYQ compilation.
+**C. Remains of primitive hyaloid vasculatur** — **C. Remains of primitive hyaloid vasculatur** — Muscae volitantes (floaters) in young people represent persistent remnants of the embryonic hyaloid vascular system; they appear as moving transparent spots and are usually benign.
 
 </details>
 
@@ -24142,7 +24142,7 @@ Anisocoria in Horner's syndrome is due to
 
 <details><summary>Answer</summary>
 
-**A. Oculo sympathetic palsy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Oculo sympathetic palsy** — **A. Oculo sympathetic palsy** — Horner's syndrome results from interruption of the oculosympathetic pathway (hypothalamus→ciliospinal centre→superior cervical ganglion→iris dilator); loss of sympathetic innervation causes miosis and anisocoria.
 
 </details>
 
@@ -24158,7 +24158,7 @@ The most common type of strabismus seen in myopes is?
 
 <details><summary>Answer</summary>
 
-**A. Intermittent Exotropia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Intermittent Exotropia** — **A. Intermittent Exotropia** — Myopes have convergence excess at near (aided by accommodation); at distance, reduced accommodative drive leads to exophoria/intermittent exotropia, making it the most common strabismus type in myopia.
 
 </details>
 
@@ -24174,7 +24174,7 @@ Dalrymple's sign of ocular Graves' disease refers to:
 
 <details><summary>Answer</summary>
 
-**A. Retraction of the upper lid** — Source: Medicoholic 2015 PYQ compilation.
+**A. Retraction of the upper lid** — **A. Retraction of the upper lid** — Dalrymple's sign is upper eyelid retraction in Graves' orbitopathy due to sympathetic overstimulation of Müller's muscle and fibrosis of the levator; this exposes the superior sclera (scleral show).
 
 </details>
 
@@ -24190,7 +24190,7 @@ D Shaped pupil is seen in ?
 
 <details><summary>Answer</summary>
 
-**A. Iridodialysis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Iridodialysis** — **A. Iridodialysis** — Iridodialysis is traumatic separation of the iris root from the ciliary body; the remaining iris retracts to the opposite side, creating a D-shaped or colobomatous pupil with a dark crescentic gap at the periphery.
 
 </details>
 
@@ -24206,7 +24206,7 @@ Pulsatile proptosis is a feature of ?
 
 <details><summary>Answer</summary>
 
-**C. Cortico-cavernous fistula** — Source: Medicoholic 2015 PYQ compilation.
+**C. Cortico-cavernous fistula** — **C. Cortico-cavernous fistula** — Carotid-cavernous fistula transmits arterial pulsations through the cavernous sinus to orbital veins; this causes pulsatile proptosis, orbital bruit, chemosis, and dilated episcleral vessels (arterialized).
 
 </details>
 
@@ -24222,7 +24222,7 @@ What is the most common eye lesion in HIV?
 
 <details><summary>Answer</summary>
 
-**C. Cotton wool spots** — Source: Medicoholic 2015 PYQ compilation.
+**C. Cotton wool spots** — **C. Cotton wool spots** — Cotton wool spots (nerve fiber layer microinfarcts due to HIV microvasculopathy) are the most common ophthalmic manifestation of HIV itself; CMV retinitis is the most common opportunistic ocular infection in AIDS.
 
 </details>
 
@@ -24238,7 +24238,7 @@ Parasitosis of extraocular eye muscles is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Trichinosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Trichinosis** — **A. Trichinosis** — Trichinella spiralis larvae migrate to striated muscle including extraocular muscles, causing periorbital edema, myositis, and restricted eye movements; this is the classic parasitic cause of extraocular muscle involvement.
 
 </details>
 
@@ -24254,7 +24254,7 @@ The principle of total internal reflection is used by?
 
 <details><summary>Answer</summary>
 
-**A. Gonioscope** — Source: Medicoholic 2015 PYQ compilation.
+**A. Gonioscope** — **A. Gonioscope** — The anterior chamber angle cannot be viewed directly due to total internal reflection at the cornea-air interface; gonioscopy uses a contact lens that eliminates this interface, allowing visualization of the trabecular meshwork.
 
 </details>
 
@@ -24270,7 +24270,7 @@ Immediate treatment of acute dacryocystitis is?
 
 <details><summary>Answer</summary>
 
-**A. Antibiotics and drainage of abscesss if present** — Source: Medicoholic 2015 PYQ compilation.
+**A. Antibiotics and drainage of abscesss if present** — **A. Antibiotics and drainage of abscesss if present** — Acute dacryocystitis is managed urgently with systemic antibiotics (S. aureus/Strep. coverage); fluctuant abscess requires incision and drainage; DCR is done electively after acute infection resolves.
 
 </details>
 
@@ -24286,7 +24286,7 @@ Aspirin-sensitive asthma is associated with:
 
 <details><summary>Answer</summary>
 
-**C. Nasal polyp** — Source: Medicoholic 2015 PYQ compilation.
+**C. Nasal polyp** — **C. Nasal polyp** — Samter's triad combines aspirin sensitivity, bronchial asthma, and nasal polyposis; aspirin inhibits COX-1, shunting arachidonic acid to the 5-lipoxygenase pathway, generating excess leukotrienes causing bronchoconstriction.
 
 </details>
 
@@ -24302,7 +24302,7 @@ Which of the following is seen in sarcoidosis
 
 <details><summary>Answer</summary>
 
-**A. Hypercalcemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypercalcemia** — **A. Hypercalcemia** — Sarcoid granulomas contain activated macrophages that produce 1-alpha-hydroxylase, converting 25-OH vitamin D to calcitriol; excess calcitriol increases intestinal calcium absorption causing hypercalcemia and hypercalciuria.
 
 </details>
 
@@ -24318,7 +24318,7 @@ In a patient with COPD, best management option is
 
 <details><summary>Answer</summary>
 
-**C. Low flow oxygen** — Source: Medicoholic 2015 PYQ compilation.
+**C. Low flow oxygen** — **C. Low flow oxygen** — In COPD patients with chronic hypercapnia, hypoxic drive maintains respiration; high-flow oxygen removes this hypoxic stimulus causing respiratory depression; controlled low-flow oxygen (SaO2 88-92%) is safest.
 
 </details>
 
@@ -24334,7 +24334,7 @@ In a patient there is dyspnea in upright position which is relieved in supine po
 
 <details><summary>Answer</summary>
 
-**D. Platypnea** — Source: Medicoholic 2015 PYQ compilation.
+**D. Platypnea** — **D. Platypnea** — Platypnea is dyspnea that worsens in the upright position and improves when supine; associated with orthodeoxia (oxygen desaturation upright); seen in hepatopulmonary syndrome and intracardiac shunts.
 
 </details>
 
@@ -24350,7 +24350,7 @@ Clicking noise in Pneumomediastinum is known as
 
 <details><summary>Answer</summary>
 
-**A. Hamman sign** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hamman sign** — **A. Hamman sign** — Hamman's sign (Hamman's crunch) is a crunching/clicking noise synchronous with the heartbeat heard on auscultation over the precordium in pneumomediastinum, caused by air crackling around the heart.
 
 </details>
 
@@ -24366,7 +24366,7 @@ Emphysema presents with all except
 
 <details><summary>Answer</summary>
 
-**A. Cyanosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cyanosis** — **A. Cyanosis** — Emphysema (pink puffer) patients maintain near-normal oxygenation through hyperventilation; cyanosis is uncommon until very late stages; they characteristically have barrel chest, pursed-lip breathing, and type I respiratory failure.
 
 </details>
 
@@ -24382,7 +24382,7 @@ Most common cause of pleural effusion in AIDS patients
 
 <details><summary>Answer</summary>
 
-**A. Kaposi sarcoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Kaposi sarcoma** — **A. Kaposi sarcoma** — Kaposi's sarcoma is the most common cause of pleural effusion in AIDS patients, typically producing an exudative, often hemorrhagic effusion; TB is second most common in high-prevalence regions.
 
 </details>
 
@@ -24398,7 +24398,7 @@ If a person is having ventriular tachycardia, extra systoles appears to
 
 <details><summary>Answer</summary>
 
-**B. QRS complex** — Source: Medicoholic 2015 PYQ compilation.
+**B. QRS complex** — **B. QRS complex** — In ventricular tachycardia, the ectopic impulse originates in ventricular muscle; extra systoles manifest as wide bizarre QRS complexes (no preceding P wave) reflecting abnormal ventricular depolarization.
 
 </details>
 
@@ -24414,7 +24414,7 @@ Most common arrhythmia in ICU patients -
 
 <details><summary>Answer</summary>
 
-**B. Atrial fibrillation** — Source: Medicoholic 2015 PYQ compilation.
+**B. Atrial fibrillation** — **B. Atrial fibrillation** — Atrial fibrillation is the most common arrhythmia in ICU patients, precipitated by critical illness, electrolyte imbalances, catecholamine surge, and inflammatory mediators; associated with increased morbidity and stroke risk.
 
 </details>
 

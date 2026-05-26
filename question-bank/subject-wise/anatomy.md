@@ -6539,7 +6539,7 @@ Styloid process is derived from:
 
 <details><summary>Answer</summary>
 
-**B. 2nd arch** — 2nd arch (Reichert's cartilage): stapes, styloid process, lesser cornu of hyoid, upper body of hyoid.
+**B. 2nd arch** — **B. 2nd arch** — The styloid process is derived from Reichert's cartilage (2nd pharyngeal/hyoid arch); the 2nd arch also gives rise to stapes, stylohyoid ligament, lesser horn and upper body of hyoid bone (mnemonic: Stapedius-Styloid-Superior hyoid).
 
 </details>
 

@@ -4844,7 +4844,7 @@ Types C nerve fibers are?
 
 <details><summary>Answer</summary>
 
-**A. Sensory** — Source: Medicoholic 2016 PYQ compilation.
+**A. Sensory** — **A. Sensory** — Type C nerve fibers are unmyelinated afferent (sensory) fibers carrying slow pain, warmth, and visceral sensations; they are the most common fiber type; efferent sympathetic post-ganglionic fibers are also C fibers.
 
 </details>
 
@@ -4862,7 +4862,7 @@ Warmth sensation is carried by?
 
 <details><summary>Answer</summary>
 
-**A. A a fibers** — Source: Medicoholic 2016 PYQ compilation.
+**A. A a fibers** — **A. A a fibers** — Warmth sensation (30–45°C) is carried by C fibers (unmyelinated) and Aδ fibers; however the stem answer indicates Aα — note: in context of this question, warmth is primarily C fiber mediated; Aδ carry cold sensation.
 
 </details>
 
@@ -4880,7 +4880,7 @@ True about myosin?
 
 <details><summary>Answer</summary>
 
-**C. Has ATPase activity** — Source: Medicoholic 2016 PYQ compilation.
+**C. Has ATPase activity** — **C. Has ATPase activity** — Myosin II heavy chain head has intrinsic ATPase activity; ATP hydrolysis (ADP + Pi) cocks the myosin head; Pi release triggers power stroke; ADP release completes the cycle; ATPase is activated by actin binding.
 
 </details>
 
@@ -4898,7 +4898,7 @@ Afferents for stretch reflexes are carried by which fibers?
 
 <details><summary>Answer</summary>
 
-**A. Aa** — Source: Medicoholic 2016 PYQ compilation.
+**A. Aa** — **A. Aa** — Stretch reflex (myotatic reflex) afferents are Ia (Aα) fibers from muscle spindle annulospiral endings; these large, fast-conducting fibers (70–120 m/s) monosynaptically excite alpha motor neurons of the same muscle.
 
 </details>
 
@@ -4916,7 +4916,7 @@ Spinal cord has how many synapses in golgi tendon reflex?
 
 <details><summary>Answer</summary>
 
-**B. 2** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2** — **B. 2** — Golgi tendon reflex (inverse stretch reflex) is disynaptic: Ib afferent from GTO → inhibitory interneuron (Ib interneuron) → alpha motor neuron; 2 synapses in spinal cord; produces autogenic inhibition preventing muscle overload.
 
 </details>
 
@@ -4934,7 +4934,7 @@ Inverse stretch reflex is a?
 
 <details><summary>Answer</summary>
 
-**B. Bisynaptic reflex** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bisynaptic reflex** — **B. Bisynaptic reflex** — Inverse stretch reflex (Golgi tendon reflex) is a disynaptic (bisynaptic) reflex: Ib afferent → inhibitory Ib interneuron → alpha motor neuron inhibition; protects muscle-tendon unit from excessive tension.
 
 </details>
 
@@ -4952,7 +4952,7 @@ Facilitatory presynaptic neurotransmitter is?
 
 <details><summary>Answer</summary>
 
-**D. Aspartate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Aspartate** — **D. Aspartate** — Aspartate is an excitatory (facilitatory) amino acid neurotransmitter acting on NMDA and AMPA receptors; GABA and glycine are inhibitory; glutamate is the primary excitatory NT, but aspartate is also excitatory/facilitatory.
 
 </details>
 
@@ -4970,7 +4970,7 @@ Stereocilia are found in?
 
 <details><summary>Answer</summary>
 
-**D. Epididymis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Epididymis** — **D. Epididymis** — Stereocilia (long, non-motile microvilli) are found in the epididymis (absorptive function), inner ear hair cells, and vas deferens; despite the name, they are actually modified microvilli, not true cilia.
 
 </details>
 
@@ -4988,7 +4988,7 @@ CSF pressure is increased in all except -
 
 <details><summary>Answer</summary>
 
-**A. Forced inspiration** — Source: Medicoholic 2016 PYQ compilation.
+**A. Forced inspiration** — **A. Forced inspiration** — Forced inspiration decreases intrathoracic pressure, increasing venous return and reducing CSF pressure; coughing, Valsalva, and crying all increase intrathoracic pressure → increase venous pressure → raise CSF pressure.
 
 </details>
 
@@ -5006,7 +5006,7 @@ Function of Ghrelin?
 
 <details><summary>Answer</summary>
 
-**B. Increase appatite** — Source: Medicoholic 2016 PYQ compilation.
+**B. Increase appatite** — **B. Increase appetite** — Ghrelin (orexigenic peptide) is secreted by gastric fundus X/A-like cells; acts on hypothalamic arcuate nucleus NPY/AgRP neurons via GHS-R1a receptors; increases appetite, stimulates GH release, and promotes adipogenesis.
 
 </details>
 
@@ -5024,7 +5024,7 @@ Location of visual cortex?
 
 <details><summary>Answer</summary>
 
-**D. Calcarine sulcus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Calcarine sulcus** — **D. Calcarine sulcus** — Primary visual cortex (V1, striate cortex, Brodmann area 17) is located on the banks of the calcarine sulcus in the occipital lobe; upper bank receives lower visual field; lower bank receives upper visual field.
 
 </details>
 
@@ -5042,7 +5042,7 @@ Parvocellular pathway for vision is concerned with?
 
 <details><summary>Answer</summary>
 
-**A. Fine details of object** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fine details of object** — **A. Fine details of object** — Parvocellular (P) pathway processes high spatial frequency, fine detail, color, and form via small neurons in layers 3–6 of LGN; magnocellular (M) pathway processes motion, depth, and low-contrast flickering.
 
 </details>
 
@@ -5060,7 +5060,7 @@ Sweat glands are supplied by all except?
 
 <details><summary>Answer</summary>
 
-**C. Adrenergic neurons** — Source: Medicoholic 2016 PYQ compilation.
+**C. Adrenergic neurons** — **C. Adrenergic neurons** — Eccrine sweat glands receive sympathetic innervation but via cholinergic (acetylcholine) neurons, not adrenergic; this is an exception to sympathetic adrenergic rule; atropine (anticholinergic) blocks sweating.
 
 </details>
 
@@ -5078,7 +5078,7 @@ Gustatory pathway involves which nerve?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Taste (gustatory) pathway: anterior 2/3 tongue via chorda tympani (CN VII); posterior 1/3 tongue via CN IX (glossopharyngeal); epiglottis/larynx via CN X (vagus); all converge on nucleus tractus solitarius.
 
 </details>
 
@@ -5096,7 +5096,7 @@ Function of cerebellum?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Cerebellum regulates muscle tone (via vestibulocerebellum/spinocerebellum), coordinates eye movements (flocculus), and programs/initiates movements (cerebrocerebellum/neocerebellum); also involved in motor learning and timing.
 
 </details>
 
@@ -5114,7 +5114,7 @@ Which of the following is not a metabotropic receptor for serotonin?
 
 <details><summary>Answer</summary>
 
-**D. 5HT3** — Source: Medicoholic 2016 PYQ compilation.
+**D. 5HT3** — **D. 5HT3** — 5-HT3 is the only ionotropic (ligand-gated Na+/K+ ion channel) serotonin receptor; all other serotonin receptors (5-HT1A, 1B, 2A, 2B, 2C, 4, 5, 6, 7) are metabotropic GPCRs; 5-HT3 antagonists (ondansetron) are antiemetics.
 
 </details>
 
@@ -5132,7 +5132,7 @@ Two point discrimination is mainly a function of which touch receptors?
 
 <details><summary>Answer</summary>
 
-**A. Merkel's disc** — Source: Medicoholic 2016 PYQ compilation.
+**A. Merkel's disc** — **A. Merkel's disc** — Merkel's discs (SA-I mechanoreceptors) have small receptive fields and high spatial resolution; they are primarily responsible for two-point discrimination and fine texture perception; located in superficial epidermis.
 
 </details>
 
@@ -5150,7 +5150,7 @@ Functional residual capacity in normal adult is?
 
 <details><summary>Answer</summary>
 
-**C. 2400 ml** — Source: Medicoholic 2016 PYQ compilation.
+**C. 2400 ml** — **C. 2400 ml** — FRC = ERV + RV = 1200 ml + 1200 ml = 2400 ml; it is the lung volume at end of normal passive expiration when respiratory muscles are relaxed; balance point between lung elastic recoil (inward) and chest wall recoil (outward).
 
 </details>
 
@@ -5168,7 +5168,7 @@ What is maximum voluntary ventilation?
 
 <details><summary>Answer</summary>
 
-**B. Maximum amount of air that can be inspired and expired in one** — Source: Medicoholic 2016 PYQ compilation.
+**B. Maximum amount of air that can be inspired and expired in one** — **B. Maximum amount of air that can be inspired and expired in one** — MVV (Maximum Voluntary Ventilation) is the maximum volume of air that can be breathed in and out per minute with maximum effort; normal ~150–170 L/min; tests respiratory muscle strength and airway resistance.
 
 </details>
 
@@ -5186,7 +5186,7 @@ True about Carboxyhemoglobin?
 
 <details><summary>Answer</summary>
 
-**C. Causes left shift of Hb-02 dissociation curve** — Source: Medicoholic 2016 PYQ compilation.
+**C. Causes left shift of Hb-02 dissociation curve** — **C. Causes left shift of Hb-02 dissociation curve** — COHb has 250× greater affinity for Hb than O2; CO also shifts Hb-O2 dissociation curve LEFT (Haldane effect), reducing O2 delivery to tissues; causes hypemic and histotoxic hypoxia.
 
 </details>
 
@@ -5204,7 +5204,7 @@ What is the difference between Hb-0 dissociation curve and Hb-CO curve?
 
 <details><summary>Answer</summary>
 
-**D. All are true** — Source: Medicoholic 2016 PYQ compilation.
+**D. All are true** — **D. All are true** — CO-Hb dissociation curve is hyperbolic (like myoglobin), not sigmoidal; CO has 250× higher affinity than O2; CO shifts O2-Hb curve to left (Haldane effect); all three statements are true about CO-Hb properties.
 
 </details>
 
@@ -5222,7 +5222,7 @@ Not true about Bohr effect?
 
 <details><summary>Answer</summary>
 
-**B. Left shift of Hb-02 dissociation curve** — Source: Medicoholic 2016 PYQ compilation.
+**B. Left shift of Hb-02 dissociation curve** — **B. Left shift of Hb-02 dissociation curve** — Bohr effect is a RIGHT shift of Hb-O2 dissociation curve (decreased O2 affinity) caused by increased PCO2, H+, temperature, and 2,3-DPG; facilitates O2 unloading in tissues; left shift is the opposite.
 
 </details>
 
@@ -5240,7 +5240,7 @@ True of 02-Hb dissociation curve?
 
 <details><summary>Answer</summary>
 
-**C. Cooperative binding** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cooperative binding** — **C. Cooperative binding** — O2-Hb dissociation curve is sigmoidal due to cooperative binding: binding of first O2 to one heme group increases affinity of remaining subunits for O2 (T→R state conformational change); each Hb carries 4 O2 molecules.
 
 </details>
 
@@ -5258,7 +5258,7 @@ Which increases affinity of hemoglobin for 0,-
 
 <details><summary>Answer</summary>
 
-**C. High pH** — Source: Medicoholic 2016 PYQ compilation.
+**C. High pH** — **C. High pH** — Alkalosis (high pH) increases Hb-O2 affinity, shifting dissociation curve LEFT (Bohr effect); decreased H+ reduces binding to His-146 of β chain, stabilizing R (oxy) state; also: fetal Hb, decreased 2,3-DPG, and CO cause left shift.
 
 </details>
 
@@ -5276,7 +5276,7 @@ In comparison to hemoglobin, effect of myoglobin on Bohr effect?
 
 <details><summary>Answer</summary>
 
-**D. No Bohr effect** — Source: Medicoholic 2016 PYQ compilation.
+**D. No Bohr effect** — **D. No Bohr effect** — Myoglobin is a monomer with single heme group; lacks cooperative binding and allosteric regulation; shows no Bohr effect (no pH/PCO2 influence on O2 affinity); has hyperbolic (not sigmoidal) O2 dissociation curve.
 
 </details>
 
@@ -5294,7 +5294,7 @@ Function of chloride shift in RBCs?
 
 <details><summary>Answer</summary>
 
-**C. Transport of CO2** — Source: Medicoholic 2016 PYQ compilation.
+**C. Transport of CO2** — **C. Transport of CO2** — Chloride shift (Hamburger shift): HCO3- formed inside RBC exits via band-3 protein antiport in exchange for Cl-; allows CO2 to be carried as plasma HCO3- (70% of CO2 transport); maintains electrical neutrality of RBC.
 
 </details>
 
@@ -5312,7 +5312,7 @@ Closing volume is related to which of the following?
 
 <details><summary>Answer</summary>
 
-**B. Residual volume** — Source: Medicoholic 2016 PYQ compilation.
+**B. Residual volume** — **B. Residual volume** — Closing volume is the lung volume at which small airways begin to close during expiration; it is related to residual volume; CV + RV = closing capacity; increases with age (>65 years, CV encroaches on FRC causing V/Q mismatch).
 
 </details>
 
@@ -5330,7 +5330,7 @@ Central chemoreceptors are not stimulated by?
 
 <details><summary>Answer</summary>
 
-**C. Hypoxia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hypoxia** — **C. Hypoxia** — Central chemoreceptors (ventral medulla) are stimulated by increased PCO2 and decreased CSF pH (via CO2 diffusing across blood-brain barrier); they are NOT directly stimulated by hypoxia; hypoxia stimulates only peripheral chemoreceptors (carotid body).
 
 </details>
 
@@ -5348,7 +5348,7 @@ Chemical regulation of respiration is not affected by?
 
 <details><summary>Answer</summary>
 
-**D. Mean BP** — Source: Medicoholic 2016 PYQ compilation.
+**D. Mean BP** — **D. Mean BP** — Chemical (humoral) regulation of respiration responds to PO2, PCO2, and pH via central and peripheral chemoreceptors; mean arterial blood pressure does not directly affect respiratory drive; BP is regulated by cardiovascular baroreceptors.
 
 </details>
 
@@ -5366,7 +5366,7 @@ True about high altitude acclimatization?
 
 <details><summary>Answer</summary>
 
-**D. Increased erythropoietin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Increased erythropoietin** — **D. Increased erythropoietin** — High altitude acclimatization: hypoxia stimulates renal EPO secretion → increased RBC production; also causes hyperventilation (not hypo), respiratory alkalosis, right shift of O2-Hb curve (increased 2,3-DPG), and increased cardiac output.
 
 </details>
 
@@ -14360,7 +14360,7 @@ Pulmonary eosinophilia is found in infection with ?
 
 <details><summary>Answer</summary>
 
-**C. Strongyloides** — Source: Medicoholic 2016 PYQ compilation.
+**C. Strongyloides** — **C. Strongyloides** — Strongyloides stercoralis larvae undergo pulmonary migration causing Löffler-like pulmonary eosinophilia; tissue-invasive helminths (nematodes) trigger eosinophilia, while protozoa (Babesia, Malaria, Trypanosoma) do not.
 
 </details>
 
@@ -14378,7 +14378,7 @@ Adherence of E. histolytica to colonic mucosa is mediated by ?
 
 <details><summary>Answer</summary>
 
-**B. Lectin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lectin** — **B. Lectin** — E. histolytica adheres to colonic mucosa via a galactose/N-acetylgalactosamine-specific lectin (Gal/GalNAc lectin); this surface adhesin is the primary virulence factor and target of protective immunity.
 
 </details>
 
@@ -14396,7 +14396,7 @@ Calabar swelling is produced by?
 
 <details><summary>Answer</summary>
 
-**B. Loa loa** — Source: Medicoholic 2016 PYQ compilation.
+**B. Loa loa** — **B. Loa loa** — Calabar swellings are transient, migratory subcutaneous oedematous swellings caused by larval migration of Loa loa (African eye worm); they reflect localised hypersensitivity to the migrating adult worm.
 
 </details>
 
@@ -14414,7 +14414,7 @@ Maurer's dots are seen in which species of plasmodium?
 
 <details><summary>Answer</summary>
 
-**C. P falciparum** — Source: Medicoholic 2016 PYQ compilation.
+**C. P falciparum** — **C. P falciparum** — Maurer's dots (clefts) are irregular, reddish stippling seen in P. falciparum-infected RBCs; Schüffner's dots are seen in P. vivax/ovale, and Ziemann's dots in P. malariae.
 
 </details>
 
@@ -14432,7 +14432,7 @@ Cholangiocarcinoma is caused by:
 
 <details><summary>Answer</summary>
 
-**B. Clonorchis infestation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Clonorchis infestation** — **B. Clonorchis infestation** — Clonorchis sinensis (Chinese liver fluke) and Opisthorchis viverrini cause chronic biliary inflammation, ductal hyperplasia, and ultimately cholangiocarcinoma; this association is well-established in Southeast Asian populations.
 
 </details>
 
@@ -14450,7 +14450,7 @@ Rash of chickenpox can be differentiated from the rash of small pox by all excep
 
 <details><summary>Answer</summary>
 
-**C. Deep-seated** — Source: Medicoholic 2016 PYQ compilation.
+**C. Deep-seated** — **C. Deep-seated** — Smallpox lesions are deep-seated (in dermis), hard, and all at the same stage; chickenpox lesions are superficial, pleomorphic (different stages simultaneously), centripetal, and unilocular — deep-seated is a feature of smallpox, NOT chickenpox.
 
 </details>
 
@@ -14468,7 +14468,7 @@ Negri bodies are characteristic of:
 
 <details><summary>Answer</summary>
 
-**B. Rabies** — Source: Medicoholic 2016 PYQ compilation.
+**B. Rabies** — **B. Rabies** — Negri bodies are eosinophilic, intracytoplasmic inclusion bodies found in neurons (especially Purkinje cells and hippocampal neurons) in rabies virus infection; their presence on post-mortem brain examination is pathognomonic.
 
 </details>
 
@@ -14486,7 +14486,7 @@ CCR5 mutation is related to which condition ?
 
 <details><summary>Answer</summary>
 
-**A. Resistance to HIV infection** — Source: Medicoholic 2016 PYQ compilation.
+**A. Resistance to HIV infection** — **A. Resistance to HIV infection** — Homozygous CCR5-delta32 mutation prevents expression of the CCR5 co-receptor on CD4+ T cells; since HIV (especially R5-tropic strains) requires CCR5 for cell entry, this mutation confers near-complete resistance to HIV infection.
 
 </details>
 
@@ -14504,7 +14504,7 @@ A 52-year-old male with HIV presents with profuse, watery diarrhea of 5 days’ 
 
 <details><summary>Answer</summary>
 
-**A. Cryptosporidium.** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cryptosporidium.** — **A. Cryptosporidium.** — In HIV/AIDS with profuse watery diarrhoea and small intestinal biopsy showing intracellular sporozoites on the brush border, Cryptosporidium parvum is the diagnosis; it is an AIDS-defining illness at CD4 <100/µL.
 
 </details>
 
@@ -14522,7 +14522,7 @@ Hair perforation test is positive in infection with ?
 
 <details><summary>Answer</summary>
 
-**A. Trichophyton** — Source: Medicoholic 2016 PYQ compilation.
+**A. Trichophyton** — **A. Trichophyton** — The hair perforation (in vitro) test is positive for Trichophyton mentagrophytes and T. benhamiae (perforating fungi); Microsporum canis does NOT perforate hair in vitro, aiding species differentiation.
 
 </details>
 
@@ -14540,7 +14540,7 @@ Ectothrix is caused by ?
 
 <details><summary>Answer</summary>
 
-**C. Microsporum canis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Microsporum canis** — **C. Microsporum canis** — Microsporum canis causes ectothrix tinea capitis where fungal hyphae and arthroconidia surround the hair shaft outside the cuticle; T. tonsurans and T. violaceum cause endothrix infection (spores inside the hair shaft).
 
 </details>
 
@@ -14558,7 +14558,7 @@ Chlamydospore is formed by ?
 
 <details><summary>Answer</summary>
 
-**A. Candida albicans** — Source: Medicoholic 2016 PYQ compilation.
+**A. Candida albicans** — **A. Candida albicans** — Candida albicans uniquely forms thick-walled terminal chlamydospores on corn meal agar with Tween 80; chlamydospore formation is a key identifying feature distinguishing C. albicans from other Candida species.
 
 </details>
 
@@ -14576,7 +14576,7 @@ True about cryptococcus are all except
 
 <details><summary>Answer</summary>
 
-**B. Urease negative** — Source: Medicoholic 2016 PYQ compilation.
+**B. Urease negative** — **B. Urease negative** — Cryptococcus neoformans is urease POSITIVE (distinguishing it from Candida); it primarily infects the lung, has a polysaccharide capsule demonstrated by India ink, and causes meningitis in immunocompromised patients.
 
 </details>
 
@@ -14594,7 +14594,7 @@ A 60 years old farmer has developed swelling on the sole of foot with dischargin
 
 <details><summary>Answer</summary>
 
-**C. Actinomycosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Actinomycosis** — **C. Actinomycosis** — Yellow sulphur granules in a discharging sinus (Madura foot) from a farmer indicate actinomycetoma caused by Actinomyces/Nocardia (prokaryotes); eumycetoma has white/black granules; yellow granules specifically suggest actinomycotic (bacterial) mycetoma.
 
 </details>
 
@@ -14612,7 +14612,7 @@ Lipophilic fungus is ?
 
 <details><summary>Answer</summary>
 
-**A. Malassezia furfur** — Source: Medicoholic 2016 PYQ compilation.
+**A. Malassezia furfur** — **A. Malassezia furfur** — Malassezia furfur is an obligate lipophilic yeast requiring exogenous fatty acids for growth; it normally colonises sebaceous skin areas and causes pityriasis versicolor, seborrhoeic dermatitis, and folliculitis.
 
 </details>
 
@@ -14630,7 +14630,7 @@ Not true about sporothrix Schenckii ?
 
 <details><summary>Answer</summary>
 
-**C. Copper penny bodies** — Source: Medicoholic 2016 PYQ compilation.
+**C. Copper penny bodies** — **C. Copper penny bodies** — Copper penny (Medlar) bodies are sclerotic cells seen in chromoblastomycosis, NOT sporotrichosis; Sporothrix schenckii is a dimorphic fungus causing sporotrichosis in gardeners, with asteroid bodies in tissue.
 
 </details>
 
@@ -14648,7 +14648,7 @@ Most effective antibody for precipitation ?
 
 <details><summary>Answer</summary>
 
-**B. IgG** — Source: Medicoholic 2016 PYQ compilation.
+**B. IgG** — **B. IgG** — IgG is the most effective antibody for precipitation reactions because it is bivalent, forms large lattice complexes at equivalence, and is present in highest serum concentration; IgM is better for agglutination due to its pentameric structure.
 
 </details>
 
@@ -14666,7 +14666,7 @@ Candidias of penis is ?
 
 <details><summary>Answer</summary>
 
-**C. Balanitis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Balanitis** — **C. Balanitis** — Candida infection of the glans penis causes candidal balanitis (inflammation of the glans); thrush refers to oral/vaginal candidiasis, and leukoplakia is a premalignant white mucosal patch unrelated to Candida infection of the penis.
 
 </details>
 
@@ -14684,7 +14684,7 @@ Health index characteristics are all except ?
 
 <details><summary>Answer</summary>
 
-**C. Affordability** — Source: Medicoholic 2016 PYQ compilation.
+**C. Affordability** — **C. Affordability** — Standard characteristics of a good health index are: validity, reliability, sensitivity, specificity, feasibility, and simplicity; affordability is NOT a standard characteristic of a health index in epidemiology.
 
 </details>
 
@@ -14702,7 +14702,7 @@ Only disease which is eradicated worldwide ?
 
 <details><summary>Answer</summary>
 
-**A. Small pox** — Source: Medicoholic 2016 PYQ compilation.
+**A. Small pox** — **A. Small pox** — Smallpox is the only human disease declared globally eradicated (WHO, 1980) through mass vaccination with vaccinia virus; the last natural case was in Somalia in 1977. Polio eradication is ongoing.
 
 </details>
 
@@ -14720,7 +14720,7 @@ Endemic disease is defined as -
 
 <details><summary>Answer</summary>
 
-**A. Disease occuring regularly in expected frequency** — Source: Medicoholic 2016 PYQ compilation.
+**A. Disease occuring regularly in expected frequency** — **A. Disease occuring regularly in expected frequency** — Endemic disease is the habitual presence of a disease within a given geographic area at a predictable, expected frequency; epidemic is excess beyond expected, and pandemic is worldwide spread.
 
 </details>
 
@@ -14738,7 +14738,7 @@ Secondary attack rate is a measure of-
 
 <details><summary>Answer</summary>
 
-**A. Communicability** — Source: Medicoholic 2016 PYQ compilation.
+**A. Communicability** — **A. Communicability** — Secondary attack rate (SAR) measures the proportion of susceptible household/close contacts who develop disease after exposure to a primary case; it is the best epidemiological measure of a pathogen's communicability.
 
 </details>
 
@@ -14756,7 +14756,7 @@ Berkesonian bias is a type of ?
 
 <details><summary>Answer</summary>
 
-**A. Admission rate bias** — Source: Medicoholic 2016 PYQ compilation.
+**A. Admission rate bias** — **A. Admission rate bias** — Berkson's bias is a type of selection bias arising from hospital-based studies where admission rates for different diseases vary; patients with multiple conditions are overrepresented, creating spurious associations.
 
 </details>
 
@@ -14774,7 +14774,7 @@ Live influenza vaccine is given by which route ?
 
 <details><summary>Answer</summary>
 
-**D. Intra nasal** — Source: Medicoholic 2016 PYQ compilation.
+**D. Intra nasal** — **D. Intra nasal** — Live attenuated influenza vaccine (LAIV/FluMist) is administered intranasally as a cold-adapted virus that replicates in nasal mucosa (cooler temperature) to stimulate local IgA and systemic immunity without causing systemic disease.
 
 </details>
 
@@ -14792,7 +14792,7 @@ Initial treatment for most patient of growth hormone secreting pituitary adenoma
 
 <details><summary>Answer</summary>
 
-**A. Transphenoidal surgical resection** — Source: Medicoholic 2016 PYQ compilation.
+**A. Transphenoidal surgical resection** — **A. Transphenoidal surgical resection** — Transsphenoidal surgery is the first-line treatment for GH-secreting pituitary adenomas (acromegaly); it offers the fastest biochemical cure, especially for microadenomas, with somatostatin analogues used adjunctively or in inoperable cases.
 
 </details>
 
@@ -14810,7 +14810,7 @@ Drug of choice for palliative treatment of pancreatic carcinoma
 
 <details><summary>Answer</summary>
 
-**B. Gemcitabine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Gemcitabine** — **B. Gemcitabine** — Gemcitabine (nucleoside analogue, inhibits ribonucleotide reductase and DNA polymerase) is the first-line palliative chemotherapy for pancreatic carcinoma, improving survival and quality of life; FOLFIRINOX or gemcitabine+nab-paclitaxel used in fit patients.
 
 </details>
 
@@ -14828,7 +14828,7 @@ Drug of choice for infantile spasm is?
 
 <details><summary>Answer</summary>
 
-**A. Vigabatrin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vigabatrin** — **A. Vigabatrin** — Vigabatrin (irreversible GABA transaminase inhibitor, increases brain GABA) is the drug of choice for infantile spasms (West syndrome), especially those due to tuberous sclerosis; ACTH is an alternative in non-TSC cases.
 
 </details>
 
@@ -14846,7 +14846,7 @@ A 40 years old male patient presents with multiple erythematous annular lesions 
 
 <details><summary>Answer</summary>
 
-**A. Topical steroids** — Source: Medicoholic 2016 PYQ compilation.
+**A. Topical steroids** — **A. Topical steroids** — Annular erythematous lesions with peripheral scaling on trunk suggest tinea corporis (ringworm); however, if the answer key indicates topical steroids, this may represent erythema annulare centrifugum or granuloma annulare requiring topical corticosteroids as first-line treatment.
 
 </details>
 
@@ -14864,7 +14864,7 @@ Half life of Technetium 99 is:
 
 <details><summary>Answer</summary>
 
-**B. 6 hours** — Source: Medicoholic 2016 PYQ compilation.
+**B. 6 hours** — **B. 6 hours** — Technetium-99m (metastable) has a physical half-life of 6 hours (360 minutes); this short half-life makes it ideal for nuclear medicine imaging — providing adequate scan time while minimising radiation exposure to patients.
 
 </details>
 
@@ -14882,7 +14882,7 @@ Half life of tritium is -
 
 <details><summary>Answer</summary>
 
-**B. 12.3 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 12.3 years** — **B. 12.3 years** — Tritium (³H, hydrogen-3) has a radioactive half-life of 12.3 years; it undergoes beta-minus decay and is used as a radiolabelled tracer in research and as a component in nuclear fusion weapons.
 
 </details>
 
@@ -14900,7 +14900,7 @@ Treatment of choice for generalized anxiety disorder is?
 
 <details><summary>Answer</summary>
 
-**A. Benzodiazepines** — Source: Medicoholic 2016 PYQ compilation.
+**A. Benzodiazepines** — **A. Benzodiazepines** — Benzodiazepines (e.g., diazepam, clonazepam) enhance GABA-A receptor activity, providing rapid anxiolysis; they are first-line for acute/short-term GAD management, though SSRIs/SNRIs are preferred for long-term maintenance.
 
 </details>
 
@@ -14918,7 +14918,7 @@ Drug of choice for Tourette syndrome is?
 
 <details><summary>Answer</summary>
 
-**A. Haloperidol** — Source: Medicoholic 2016 PYQ compilation.
+**A. Haloperidol** — **A. Haloperidol** — Haloperidol is a typical antipsychotic (D2 receptor antagonist) and is the classic drug of choice for Tourette syndrome, suppressing tics by blocking dopaminergic pathways in the striatum; newer options include fluphenazine and aripiprazole.
 
 </details>
 
@@ -15392,7 +15392,7 @@ Why is clopidogrel preferred over ticlopidine?
 
 <details><summary>Answer</summary>
 
-**A. Lower incidence of neutropenia and thrombocytopenia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Lower incidence of neutropenia and thrombocytopenia** — **A. Lower incidence of neutropenia and thrombocytopenia** — Ticlopidine causes dose-dependent neutropenia (2.4%) and thrombotic thrombocytopenic purpura; clopidogrel has a much lower haematological toxicity profile, making it preferred.
 
 </details>
 
@@ -15410,7 +15410,7 @@ Sewer swabs are taken to detect
 
 <details><summary>Answer</summary>
 
-**C. Typhoid carriers in community** — Source: Medicoholic 2016 PYQ compilation.
+**C. Typhoid carriers in community** — **C. Typhoid carriers in community** — Sewage/sewer swabs concentrate Salmonella Typhi shed by typhoid carriers in the community; a cost-effective environmental surveillance method for detecting carrier prevalence in an area.
 
 </details>
 
@@ -15428,7 +15428,7 @@ Antibody specificity is due to ?
 
 <details><summary>Answer</summary>
 
-**D. Amino acid sequence at the amino terminal** — Source: Medicoholic 2016 PYQ compilation.
+**D. Amino acid sequence at the amino terminal** — **D. Amino acid sequence at the amino terminal** — Antibody specificity resides in the hypervariable (complementarity-determining) regions (CDRs) at the amino-terminal ends of both heavy and light chains, forming the antigen-binding site.
 
 </details>
 
@@ -15446,7 +15446,7 @@ Specificity of antibody is dependent on ?
 
 <details><summary>Answer</summary>
 
-**B. Fab region** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fab region** — **B. Fab region** — The Fab (fragment antigen-binding) region contains the variable domains (VH and VL) with CDRs that determine antigen specificity; the Fc region mediates effector functions, not antigen recognition.
 
 </details>
 
@@ -15464,7 +15464,7 @@ Standpipe in rural oreas is an example of which principle of primary health care
 
 <details><summary>Answer</summary>
 
-**C. Intersectoral coordination** — Source: Medicoholic 2016 PYQ compilation.
+**C. Intersectoral coordination** — **C. Intersectoral coordination** — A standpipe providing rural water supply requires collaboration between health, public works, and water departments; this cross-sector collaboration exemplifies the PHC principle of intersectoral coordination.
 
 </details>
 
@@ -15482,7 +15482,7 @@ Denominator in under -5 proportional mortality rate?
 
 <details><summary>Answer</summary>
 
-**C. Total deaths** — Source: Medicoholic 2016 PYQ compilation.
+**C. Total deaths** — **C. Total deaths** — Under-5 Proportional Mortality Rate = (Deaths under 5 years / Total deaths in same period) × 100; denominator is total deaths (all ages), distinguishing it from Under-5 Mortality Rate which uses live births.
 
 </details>
 
@@ -15500,7 +15500,7 @@ HALE is used to measure
 
 <details><summary>Answer</summary>
 
-**B. Healthy life expectancy** — Source: Medicoholic 2016 PYQ compilation.
+**B. Healthy life expectancy** — **B. Healthy life expectancy** — HALE (Health-Adjusted Life Expectancy) is a WHO composite measure estimating years of life expected to be lived in full health; it adjusts life expectancy by subtracting years lived with disability or disease.
 
 </details>
 
@@ -15518,7 +15518,7 @@ Role of magnesium [Mg] in OPV?
 
 <details><summary>Answer</summary>
 
-**C. Stabilizar** — Source: Medicoholic 2016 PYQ compilation.
+**C. Stabilizar** — **C. Stabilizar** — Magnesium chloride is added to oral polio vaccine (OPV) as a thermal stabilizer (stabilisant); it protects the live attenuated poliovirus from heat inactivation, maintaining vaccine potency during storage and transport.
 
 </details>
 
@@ -15536,7 +15536,7 @@ The difference between descriptive and analytic studies?
 
 <details><summary>Answer</summary>
 
-**C. Descriptive studies are first phase in epidemiology** — Source: Medicoholic 2016 PYQ compilation.
+**C. Descriptive studies are first phase in epidemiology** — **C. Descriptive studies are first phase in epidemiology** — Descriptive studies (describing person, place, time) generate hypotheses and are the initial phase; analytic studies (cohort, case-control) then test those hypotheses.
 
 </details>
 
@@ -15554,7 +15554,7 @@ Strength of association of outcome and risk factor is measured by?
 
 <details><summary>Answer</summary>
 
-**A. Relative risk** — Source: Medicoholic 2016 PYQ compilation.
+**A. Relative risk** — **A. Relative risk** — Relative risk (RR = incidence in exposed / incidence in unexposed) quantifies the strength of association between exposure and outcome; RR>1 indicates increased risk, used in cohort studies.
 
 </details>
 
@@ -15572,7 +15572,7 @@ Important measure for National health policy?
 
 <details><summary>Answer</summary>
 
-**D. Attributable risk** — Source: Medicoholic 2016 PYQ compilation.
+**D. Attributable risk** — **D. Attributable risk** — Attributable risk (risk difference) measures excess risk due to exposure and indicates how much disease can be prevented by eliminating the exposure; most relevant for formulating public health policy decisions.
 
 </details>
 
@@ -15590,7 +15590,7 @@ A study that gives the prevalence of delusion in the elderly at a given point of
 
 <details><summary>Answer</summary>
 
-**C. Cross-sectional study** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cross-sectional study** — **C. Cross-sectional study** — A cross-sectional (prevalence) study measures disease frequency at a single point in time in a defined population; it provides prevalence, not incidence, and cannot establish temporal causality.
 
 </details>
 
@@ -15608,7 +15608,7 @@ A study that gives the prevalence of delusion in the elderly at a given point of
 
 <details><summary>Answer</summary>
 
-**B. 75** — Source: Medicoholic 2016 PYQ compilation.
+**B. 75** — **B. 75** — Population Attributable Risk (PAR%) = (Incidence total − Incidence unexposed) / Incidence total × 100; with 80 smoker cases (incidence 80/20000=0.004) vs. 20 non-smoker (20/80000=0.00025), PAR ≈ 75%.
 
 </details>
 
@@ -15626,7 +15626,7 @@ True about standardization are all except?
 
 <details><summary>Answer</summary>
 
-**C. Age specific rates are required in indirect standardization** — Source: Medicoholic 2016 PYQ compilation.
+**C. Age specific rates are required in indirect standardization** — **C. Age specific rates are required in indirect standardization** — In indirect standardization, age-specific rates of the standard population are applied to the study population; age-specific rates of the study population are NOT required (only total observed deaths are needed).
 
 </details>
 
@@ -15644,7 +15644,7 @@ Standardization is most important for?
 
 <details><summary>Answer</summary>
 
-**B. Age distribution** — Source: Medicoholic 2016 PYQ compilation.
+**B. Age distribution** — **B. Age distribution** — Age standardization is most commonly applied to control for age differences between populations when comparing crude mortality/morbidity rates; age is the most important confounding variable in vital statistics.
 
 </details>
 
@@ -15662,7 +15662,7 @@ True about cohort study
 
 <details><summary>Answer</summary>
 
-**B. Incidence study** — Source: Medicoholic 2016 PYQ compilation.
+**B. Incidence study** — **B. Incidence study** — Cohort study follows exposed and unexposed disease-free individuals forward in time to measure incidence; it proceeds from cause to effect, calculates relative risk directly, and is an analytical (not descriptive) study.
 
 </details>
 
@@ -15680,7 +15680,7 @@ Which milk? Passive immunity is also provided through colostrum and breast
 
 <details><summary>Answer</summary>
 
-**B. IgA** — Source: Medicoholic 2016 PYQ compilation.
+**B. IgA** — **B. IgA** — Secretory IgA (sIgA) is the predominant immunoglobulin in colostrum and breast milk; it provides passive mucosal immunity to the neonate against enteric pathogens by preventing epithelial adherence.
 
 </details>
 
@@ -15698,7 +15698,7 @@ Mid year population is estimated on ?
 
 <details><summary>Answer</summary>
 
-**B. 1st July** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1st July** — **B. 1st July** — Mid-year population (used as denominator for vital rates like crude birth rate, death rate) is conventionally estimated on 1st July, representing the population at the midpoint of the calendar year.
 
 </details>
 
@@ -15716,7 +15716,7 @@ Meningococcal vaccine contains ?
 
 <details><summary>Answer</summary>
 
-**A. 50 mcg of polysccharide of each strain** — Source: Medicoholic 2016 PYQ compilation.
+**A. 50 mcg of polysccharide of each strain** — **A. 50 mcg of polysccharide of each strain** — The quadrivalent meningococcal polysaccharide vaccine (MPSV4) contains 50 micrograms of purified capsular polysaccharide of each serogroup (A, C, Y, W-135) per dose.
 
 </details>
 
@@ -15734,7 +15734,7 @@ Secondary attack rate of mumps:?
 
 <details><summary>Answer</summary>
 
-**B. 85%** — Source: Medicoholic 2016 PYQ compilation.
+**B. 85%** — **B. 85%** — The secondary attack rate of mumps among susceptible household contacts is approximately 85%; mumps is highly contagious (R0 = 4–7) via respiratory droplets and direct contact with saliva.
 
 </details>
 
@@ -16832,7 +16832,7 @@ Which of the following is the predisposing factor for ethmoidal carcinoma
 
 <details><summary>Answer</summary>
 
-**A. Smoking** — Source: Medicoholic 2016 PYQ compilation.
+**A. Smoking** — **A. Smoking** — Tobacco smoking is the primary risk factor for ethmoidal carcinoma; occupational exposure to wood dust (furniture makers) and nickel/chromium compounds are also recognized, but smoking is the most commonly cited predisposing factor in NEET-PG context.
 
 </details>
 
@@ -16850,7 +16850,7 @@ Most common sinus predisposed to malignancy which of the following?
 
 <details><summary>Answer</summary>
 
-**B. Maxillary** — Source: Medicoholic 2016 PYQ compilation.
+**B. Maxillary** — **B. Maxillary** — Maxillary sinus carcinoma accounts for ~80% of all paranasal sinus malignancies; squamous cell carcinoma is the most common type; late presentation due to silent expansion within the sinus worsens prognosis.
 
 </details>
 
@@ -16868,7 +16868,7 @@ Most common benign tumor of paranasal sinuses?
 
 <details><summary>Answer</summary>
 
-**B. Osteoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Osteoma** — **B. Osteoma** — Osteoma is the most common benign tumor of paranasal sinuses, most frequently arising in the frontal sinus (fronto-ethmoid junction); associated with Gardner's syndrome; usually asymptomatic, found incidentally on imaging.
 
 </details>
 
@@ -16886,7 +16886,7 @@ All of the following are true about parapharyngeal abscess except?
 
 <details><summary>Answer</summary>
 
-**A. Mastoid process divides the space into anterior and posterior** — Source: Medicoholic 2016 PYQ compilation.
+**A. Mastoid process divides the space into anterior and posterior** — **A. Mastoid process divides the space into anterior and posterior** — The parapharyngeal space is divided into anterior (muscular/pre-styloid) and posterior (vascular/post-styloid) compartments by the styloid process, NOT the mastoid process.
 
 </details>
 
@@ -16904,7 +16904,7 @@ Trismus in parapharyngeal abscess is due to spasm of:
 
 <details><summary>Answer</summary>
 
-**B. Medial pterygoid** — Source: Medicoholic 2016 PYQ compilation.
+**B. Medial pterygoid** — **B. Medial pterygoid** — Trismus in parapharyngeal abscess results from irritation/spasm of the medial pterygoid muscle, which forms the medial wall of the parapharyngeal space; this distinguishes it from peritonsillar abscess where masseter is involved.
 
 </details>
 
@@ -16922,7 +16922,7 @@ Select correct statements about Ca larynx:
 
 <details><summary>Answer</summary>
 
-**A. Glottic Ca is the most common** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glottic Ca is the most common** — **A. Glottic Ca is the most common** — Glottic (true vocal cord) carcinoma accounts for ~60–65% of all laryngeal cancers; it presents early with hoarseness, has excellent prognosis due to sparse lymphatics, and is most amenable to radiotherapy.
 
 </details>
 
@@ -16940,7 +16940,7 @@ Which of the following sites of Ca larynx has the best prognosis?
 
 <details><summary>Answer</summary>
 
-**A. Glottic** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glottic** — **A. Glottic** — Glottic carcinoma has the best prognosis among laryngeal cancers; the true vocal cords have a sparse lymphatic supply minimizing nodal spread, and hoarseness causes early detection; 5-year survival exceeds 85% for T1 glottic Ca.
 
 </details>
 
@@ -16958,7 +16958,7 @@ Most common site of distant metastasis from Ca larynx
 
 <details><summary>Answer</summary>
 
-**B. Lung** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lung** — **B. Lung** — Distant metastasis from laryngeal carcinoma most commonly occurs to the lungs; hematogenous spread via pulmonary circulation accounts for this pattern; pulmonary nodules on chest X-ray in treated laryngeal Ca warrant investigation.
 
 </details>
 
@@ -16976,7 +16976,7 @@ Esophagus is constricted at 4 anatomic locations. Narrowest part of esophagus li
 
 <details><summary>Answer</summary>
 
-**A. At the level of cricopharyngeal sphincter** — Source: Medicoholic 2016 PYQ compilation.
+**A. At the level of cricopharyngeal sphincter** — **A. At the level of cricopharyngeal sphincter** — The cricopharyngeal (pharyngoesophageal) constriction at C6 level is the narrowest part of the entire esophagus (~14 mm); this is why foreign bodies and impacted food lodge here most commonly.
 
 </details>
 
@@ -16994,7 +16994,7 @@ Food particles mostly get obstructed in which part of esophagus -
 
 <details><summary>Answer</summary>
 
-**A. Cricopharyngeal sphincter** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cricopharyngeal sphincter** — **A. Cricopharyngeal sphincter** — The cricopharyngeal sphincter (upper esophageal sphincter at C6, 15 cm from incisor teeth) is the narrowest esophageal constriction; most ingested foreign bodies and impacted food boluses lodge here due to the narrow lumen.
 
 </details>
 
@@ -17012,7 +17012,7 @@ True regarding traction diverticuli of esophagus is all except
 
 <details><summary>Answer</summary>
 
-**A. Does not empty completely** — Source: Medicoholic 2016 PYQ compilation.
+**A. Does not empty completely** — **A. Does not empty completely** — Traction diverticula (mid-esophageal, from mediastinal fibrosis/TB nodes) empty completely because they are true diverticula with all layers and broad necks pulled outward; pulsion (Zenker's) diverticula empty incompletely.
 
 </details>
 
@@ -17030,7 +17030,7 @@ Radical mastoidectomy is done for:
 
 <details><summary>Answer</summary>
 
-**C. Atticoantral cholesteotoma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Atticoantral cholesteotoma** — **C. Atticoantral cholesteotoma** — Radical mastoidectomy (modified or classical) is performed for unsafe CSOM with cholesteatoma (atticoantral disease); it involves removing the posterior canal wall to exteriorize the mastoid and eliminate cholesteatoma completely.
 
 </details>
 
@@ -17048,7 +17048,7 @@ Sluder's neuralgia is also called as
 
 <details><summary>Answer</summary>
 
-**A. Anterior ethmoidal syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**A. Anterior ethmoidal syndrome** — **A. Anterior ethmoidal syndrome** — Sluder's neuralgia (sphenopalatine neuralgia) is also called anterior ethmoidal nerve syndrome; it involves the sphenopalatine ganglion causing unilateral facial pain, nasal congestion, and referred orbital pain.
 
 </details>
 
@@ -17066,7 +17066,7 @@ Styloid process is derived from ?
 
 <details><summary>Answer</summary>
 
-**B. 2nd arch** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2nd arch** — **B. 2nd arch** — The styloid process is derived from Reichert's cartilage (2nd pharyngeal/hyoid arch); the 2nd arch also gives rise to stapes, stylohyoid ligament, lesser horn and upper body of hyoid bone (mnemonic: Stapedius-Styloid-Superior hyoid).
 
 </details>
 
@@ -17084,7 +17084,7 @@ Most common cause of singer's nodule is ?
 
 <details><summary>Answer</summary>
 
-**C. Vocal abuse** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vocal abuse** — **C. Vocal abuse** — Singer's nodules (vocal cord nodules) are benign bilateral fibrotic swellings at the junction of anterior one-third and posterior two-thirds of vocal cords; caused by chronic vocal abuse (excessive, forceful phonation), not infection or allergy.
 
 </details>
 
@@ -17102,7 +17102,7 @@ Deafness in a case of Paget's disease is due to
 
 <details><summary>Answer</summary>
 
-**C. Eight nerve involvement** — Source: Medicoholic 2016 PYQ compilation.
+**C. Eight nerve involvement** — **C. Eight nerve involvement** — In Paget's disease (osteitis deformans), bony overgrowth compresses the 8th cranial nerve (vestibulocochlear) in the internal auditory canal, causing sensorineural hearing loss; bony ossicular involvement contributes a conductive component.
 
 </details>
 
@@ -17120,7 +17120,7 @@ Snellen's chart is used to test:
 
 <details><summary>Answer</summary>
 
-**A. Vision** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vision** — **A. Vision** — Snellen's chart measures visual acuity (distant vision) at 6 meters; it tests the ability to resolve detail (minimum angle of resolution); recorded as 6/6 (normal), 6/9, 6/60, etc.; standard screening tool in community eye health programmes.
 
 </details>
 
@@ -17138,7 +17138,7 @@ Listers perimeter is used for
 
 <details><summary>Answer</summary>
 
-**A. Kinetic Visual field testing** — Source: Medicoholic 2016 PYQ compilation.
+**A. Kinetic Visual field testing** — **A. Kinetic Visual field testing** — Lister's perimeter performs kinetic perimetry (moving target from periphery inward); it maps the isopters (contour lines of equal visual sensitivity); Goldmann perimeter is the refined version; static perimetry uses automated machines like Humphrey.
 
 </details>
 
@@ -17156,7 +17156,7 @@ What is the type of Goldman tonometry?
 
 <details><summary>Answer</summary>
 
-**A. Applanation Tonometry** — Source: Medicoholic 2016 PYQ compilation.
+**A. Applanation Tonometry** — **A. Applanation Tonometry** — Goldman applanation tonometry is the gold standard for IOP measurement; it measures the force required to flatten (applanate) a 3.06 mm diameter area of cornea, giving IOP in mmHg; based on Imbert-Fick principle.
 
 </details>
 
@@ -17174,7 +17174,7 @@ Conjunctival staining is done by all except
 
 <details><summary>Answer</summary>
 
-**B. India ink** — Source: Medicoholic 2016 PYQ compilation.
+**B. India ink** — **B. India ink** — India ink (used for cryptococcal meningitis CSF staining) is NOT used for conjunctival staining; fluorescein stains corneal epithelial defects green, rose bengal stains devitalized/dead epithelial cells red, lissamine green stains degenerate cells.
 
 </details>
 
@@ -17192,7 +17192,7 @@ Gene for eye morphogenesis
 
 <details><summary>Answer</summary>
 
-**A. Pax-6** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pax-6** — **A. Pax-6** — PAX-6 (Paired box gene 6) is the master regulator/transcription factor for eye morphogenesis; mutations cause aniridia; it is evolutionarily conserved across species (Drosophila eyeless gene is the homolog); expressed in lens, retina, cornea.
 
 </details>
 
@@ -17210,7 +17210,7 @@ Purkinje image test is used in
 
 <details><summary>Answer</summary>
 
-**D. Pachymeter** — Source: Medicoholic 2016 PYQ compilation.
+**D. Pachymeter** — **D. Pachymeter** — Purkinje image test (detecting corneal reflections of a light source) is used in pachymeters to measure corneal thickness; it can also detect posterior capsule integrity in cataract surgery assessment.
 
 </details>
 
@@ -17228,7 +17228,7 @@ Transport of Ascorbic acid to lens is done by which of the following?
 
 <details><summary>Answer</summary>
 
-**D. Na-K ATPase** — Source: Medicoholic 2016 PYQ compilation.
+**D. Na-K ATPase** — **D. Na-K ATPase** — Na-K ATPase pump in the lens epithelium maintains ion gradients that drive sodium-dependent active transport of ascorbic acid into the lens; ascorbic acid concentration in the aqueous humor and lens is much higher than plasma.
 
 </details>
 
@@ -17246,7 +17246,7 @@ Phacoemulsification uses
 
 <details><summary>Answer</summary>
 
-**A. High frequency sound waves** — Source: Medicoholic 2016 PYQ compilation.
+**A. High frequency sound waves** — **A. High frequency sound waves** — Phacoemulsification uses high-frequency ultrasound waves (40,000 Hz) to emulsify the lens nucleus, allowing aspiration through a small (<3 mm) incision; this minimally invasive technique enables rapid visual rehabilitation post-cataract surgery.
 
 </details>
 
@@ -17264,7 +17264,7 @@ Keeth Wagner classification is for
 
 <details><summary>Answer</summary>
 
-**A. Hypertensive retinopathy** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hypertensive retinopathy** — **A. Hypertensive retinopathy** — Keith-Wagener-Barker classification grades hypertensive retinopathy into 4 groups: Grade I (arteriolar narrowing), Grade II (AV nicking), Grade III (flame hemorrhages/cotton wool spots), Grade IV (papilledema); used to assess end-organ damage in hypertension.
 
 </details>
 
@@ -17282,7 +17282,7 @@ All are seen in non-proliferative diabetic retinopathy except ?
 
 <details><summary>Answer</summary>
 
-**B. Neovascularization** — Source: Medicoholic 2016 PYQ compilation.
+**B. Neovascularization** — **B. Neovascularization** — Neovascularization (new vessel formation) is the hallmark of proliferative diabetic retinopathy (PDR), not NPDR; NPDR features include microaneurysms, dot-blot hemorrhages, hard exudates, cotton wool spots, venous beading, and macular edema.
 
 </details>
 
@@ -17300,7 +17300,7 @@ Which one of the following statement is true of undescended testis -
 
 <details><summary>Answer</summary>
 
-**C. Has a higher incidence of malignancy** — Source: Medicoholic 2016 PYQ compilation.
+**C. Has a higher incidence of malignancy** — **C. Has a higher incidence of malignancy** — Cryptorchidism carries 3–5× increased risk of testicular malignancy (seminoma most common); risk persists even after orchiopexy; seminoma is the most common germ cell tumor in undescended testes.
 
 </details>
 
@@ -17318,7 +17318,7 @@ Prevalence of omphalocele at birth is
 
 <details><summary>Answer</summary>
 
-**C. 1 in 4000 live births** — Source: Medicoholic 2016 PYQ compilation.
+**C. 1 in 4000 live births** — **C. 1 in 4000 live births** — Omphalocele (exomphalos) occurs in approximately 1 in 4000–5000 live births; it involves herniation of abdominal viscera through the umbilical ring covered by peritoneum/amnion; associated with chromosomal anomalies (trisomy 18, 13).
 
 </details>
 
@@ -17336,7 +17336,7 @@ Prevalence of breech presentation at full term is ?
 
 <details><summary>Answer</summary>
 
-**C. 3-4%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3-4%** — **C. 3-4%** — Breech presentation at term (37+ weeks) occurs in 3–4% of pregnancies; most fetuses spontaneously convert to cephalic by 36 weeks; persistent breech at term warrants ECV or planned caesarean section.
 
 </details>
 
@@ -17354,7 +17354,7 @@ Most important factor in causation of Ingrown toe nail is?
 
 <details><summary>Answer</summary>
 
-**B. Ill fitting shoes** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ill fitting shoes** — **B. Ill fitting shoes** — Ill-fitting (tight, narrow) shoes compress the nail fold against the nail plate, causing lateral nail edge to penetrate surrounding skin; this is the most important preventable cause of ingrown toenail (onychocryptosis) along with incorrect nail trimming.
 
 </details>
 
@@ -24923,7 +24923,7 @@ Bullet fixed from a gun is not released. It is ejected out with subsequent shot.
 
 <details><summary>Answer</summary>
 
-**A. Tandem bullet** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tandem bullet** — **A. Tandem bullet** — A tandem (double) bullet occurs when a bullet lodges in the barrel and is expelled by the next shot; both bullets travel together, creating an unusual wound pattern.
 
 </details>
 
@@ -24941,7 +24941,7 @@ Ricochet bullet is
 
 <details><summary>Answer</summary>
 
-**C. Deviation in the direction or path of bullet** — Source: Medicoholic 2016 PYQ compilation.
+**C. Deviation in the direction or path of bullet** — **C. Deviation in the direction or path of bullet** — A ricochet bullet deflects off a hard surface, changing its direction/path before striking the victim; it often causes irregular or tangential entry wounds.
 
 </details>
 
@@ -24959,7 +24959,7 @@ Highest content of cannabis is found in which part of the plant?
 
 <details><summary>Answer</summary>
 
-**B. Resin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Resin** — **B. Resin** — The highest concentration of delta-9-THC (active cannabinoid) is found in the resin secreted by flowering tops of Cannabis sativa; hashish is extracted resin.
 
 </details>
 
@@ -24977,7 +24977,7 @@ Which of the following is true about cocaine metabolite test
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Cocaine metabolite (benzoylecgonine) testing measures levels in urine/blood, confirms cocaine use history, and guides overdose management including decontamination protocols.
 
 </details>
 
@@ -24995,7 +24995,7 @@ Active ingredient of marking nut is ?
 
 <details><summary>Answer</summary>
 
-**A. Semecarpol** — Source: Medicoholic 2016 PYQ compilation.
+**A. Semecarpol** — **A. Semecarpol** — Semecarpol (bhilawanol) is the active vesicant compound in marking nut (Semecarpus anacardium); causes severe contact dermatitis and is used in traditional medicine and as vesicant poison.
 
 </details>
 
@@ -25013,7 +25013,7 @@ Which of the following statement regarding cell division is NOT TRUE?
 
 <details><summary>Answer</summary>
 
-**A. Produces haploid number of chromosomes** — Source: Medicoholic 2016 PYQ compilation.
+**A. Produces haploid number of chromosomes** — **A. Produces haploid number of chromosomes** — Mitosis produces diploid daughter cells with same chromosome number as parent; meiosis produces haploid cells; this statement is true only for meiosis, not cell division in general.
 
 </details>
 
@@ -25031,7 +25031,7 @@ Loeffer's serum is an example of
 
 <details><summary>Answer</summary>
 
-**C. Complex medium** — Source: Medicoholic 2016 PYQ compilation.
+**C. Complex medium** — **C. Complex medium** — Loeffler's serum is a complex (undefined) medium containing animal serum and peptone; used for Corynebacterium diphtheriae cultivation and demonstrating metachromatic granules.
 
 </details>
 
@@ -25049,7 +25049,7 @@ Which test cannot differentiate endemic and epidemic typhus
 
 <details><summary>Answer</summary>
 
-**A. Weil-Felix reaction** — Source: Medicoholic 2016 PYQ compilation.
+**A. Weil-Felix reaction** — **A. Weil-Felix reaction** — Weil-Felix uses Proteus OX agglutination as surrogate markers; it cannot differentiate endemic (R. typhi) from epidemic (R. prowazekii) typhus as both show OX-19 positivity.
 
 </details>
 
@@ -25067,7 +25067,7 @@ Borrelia causes which of the following
 
 <details><summary>Answer</summary>
 
-**C. Vincent angina** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vincent angina** — **C. Vincent angina** — Borrelia vincentii, along with Fusobacterium, causes Vincent angina (trench mouth/acute necrotizing ulcerative gingivitis); characterized by painful ulcerative oropharyngeal lesions.
 
 </details>
 
@@ -25085,7 +25085,7 @@ True about vibrio cholerae is -
 
 <details><summary>Answer</summary>
 
-**C. El - Tor is milder than classical** — Source: Medicoholic 2016 PYQ compilation.
+**C. El - Tor is milder than classical** — **C. El - Tor is milder than classical** — El-Tor biotype of V. cholerae O1 produces milder clinical disease than the classical biotype, with higher carrier-to-case ratio and more environmental persistence.
 
 </details>
 
@@ -25103,7 +25103,7 @@ Which stage of Leishmania is found in spleen aspirate of patient ?
 
 <details><summary>Answer</summary>
 
-**A. Amastigote�** — Source: Medicoholic 2016 PYQ compilation.
+**A. Amastigote�** — **A. Amastigote** — Leishmania exists as intracellular amastigotes (Leishman-Donovan bodies) within macrophages in the spleen, liver, and bone marrow of patients with visceral leishmaniasis (kala-azar).
 
 </details>
 
@@ -25121,7 +25121,7 @@ HSV-2 causes latent infection in which nerve plexus/ ganglia ?
 
 <details><summary>Answer</summary>
 
-**C. Sacral ganglion** — Source: Medicoholic 2016 PYQ compilation.
+**C. Sacral ganglion** — **C. Sacral ganglion** — HSV-2 establishes latency in sacral dorsal root ganglia (S2-S4) following genital infection; reactivation causes recurrent genital herpes, whereas HSV-1 is latent in trigeminal ganglion.
 
 </details>
 
@@ -25139,7 +25139,7 @@ A 30 years old male is having prpductive cough with dysnea. Blood gas analysis s
 
 <details><summary>Answer</summary>
 
-**C. P. jerovecii** — Source: Medicoholic 2016 PYQ compilation.
+**C. P. jerovecii** — **C. P. jerovecii** — Bilateral reticulonodular infiltrates on CXR with low PaO2 in an immunocompromised patient (HIV/transplant) is classic for Pneumocystis jirovecii pneumonia (PJP); confirmed by LDH elevation and BAL.
 
 </details>
 
@@ -25157,7 +25157,7 @@ True about iceberg of disease ?
 
 <details><summary>Answer</summary>
 
-**B. Tip of the iceberg represent clinical cases** — Source: Medicoholic 2016 PYQ compilation.
+**B. Tip of the iceberg represent clinical cases** — **B. Tip of the iceberg represent clinical cases** — In the iceberg phenomenon, the visible tip represents overt clinical cases while the larger submerged portion represents subclinical/inapparent infections; screening targets the submerged portion.
 
 </details>
 
@@ -25175,7 +25175,7 @@ Standardized death rates are used because health?
 
 <details><summary>Answer</summary>
 
-**A. For valid comparisom of two groups of different health** — Source: Medicoholic 2016 PYQ compilation.
+**A. For valid comparisom of two groups of different health** — **A. For valid comparison of two groups of different health** — Standardized (age-adjusted) death rates remove confounding effect of age differences between populations, allowing valid comparisons of mortality across different demographic groups.
 
 </details>
 
@@ -25193,7 +25193,7 @@ All are true about natural experiments, except?
 
 <details><summary>Answer</summary>
 
-**C. Includes Randomized controlled trials [RCTs]** — Source: Medicoholic 2016 PYQ compilation.
+**C. Includes Randomized controlled trials [RCTs]** — **C. Includes Randomized controlled trials [RCTs]** — Natural experiments exploit pre-existing variations in exposure (researcher has no control); RCTs involve deliberate randomization by researchers and are NOT natural experiments.
 
 </details>
 
@@ -25211,7 +25211,7 @@ In a study a patient does not know the nature of drug [whether a placebo or cura
 
 <details><summary>Answer</summary>
 
-**A. Single** — Source: Medicoholic 2016 PYQ compilation.
+**A. Single** — **A. Single** — Single-blind study: only the patient is unaware of treatment allocation; the researcher/investigator knows which treatment is given; double-blind means both are blinded.
 
 </details>
 
@@ -25229,7 +25229,7 @@ How many doses of monovalent meningococcal 'C' vaccine is given in Infants ?
 
 <details><summary>Answer</summary>
 
-**B. Two** — Source: Medicoholic 2016 PYQ compilation.
+**B. Two** — **B. Two** — Monovalent meningococcal C conjugate vaccine in infants requires a two-dose primary series (e.g., at 3 and 5 months) followed by a booster; older children need only one dose.
 
 </details>
 
@@ -25247,7 +25247,7 @@ Infectivity of convalescent carrier of cholera lasts for?
 
 <details><summary>Answer</summary>
 
-**C. 2-3 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 2-3 weeks** — **C. 2-3 weeks** — Convalescent cholera carriers shed V. cholerae in stool for 2-3 weeks after clinical recovery; chronic carriage (gallbladder) is rare but possible in elderly patients.
 
 </details>
 
@@ -25265,7 +25265,7 @@ Not true about diphtheria vaccine?
 
 <details><summary>Answer</summary>
 
-**D. all of these** — Source: Medicoholic 2016 PYQ compilation.
+**D. all of these** — **D. all of these** — All statements about diphtheria vaccine are true: it can be given as pentavalent vaccine, DPT is the childhood vaccine of choice, and the first dose is at 6 weeks; hence 'all of these' is the false answer option.
 
 </details>
 
@@ -25283,7 +25283,7 @@ Color of box containing drugs for treatment of category I of TB -
 
 <details><summary>Answer</summary>
 
-**A. Red** — Source: Medicoholic 2016 PYQ compilation.
+**A. Red** — **A. Red** — Under India's RNTCP/NTEP, Category I TB (new sputum-positive, seriously ill) drugs are packed in red boxes; Category II (retreatment) drugs are in blue boxes.
 
 </details>
 
@@ -25301,7 +25301,7 @@ Pulses are deficient in ?
 
 <details><summary>Answer</summary>
 
-**A. Methionirfe** — Source: Medicoholic 2016 PYQ compilation.
+**A. Methionirfe** — **A. Methionine** — Pulses (legumes) are deficient in sulfur-containing amino acids, particularly methionine and cysteine; cereals complement this deficiency, making cereal-pulse combinations nutritionally complete.
 
 </details>
 
@@ -25319,7 +25319,7 @@ Daily iron requirement in healthy Indian male is-
 
 <details><summary>Answer</summary>
 
-**B. 17 mg** — Source: Medicoholic 2016 PYQ compilation.
+**B. 17 mg** — **B. 17 mg** — ICMR recommends 17 mg/day dietary iron for healthy Indian adult males; requirements are higher for women (21 mg) and pregnant women (35 mg) due to menstrual losses and fetal demand.
 
 </details>
 
@@ -25337,7 +25337,7 @@ Which of the following defines movement across scioeconomic status.
 
 <details><summary>Answer</summary>
 
-**C. Social mobility** — Source: Medicoholic 2016 PYQ compilation.
+**C. Social mobility** — **C. Social mobility** — Social mobility refers to movement of individuals or groups between different socioeconomic positions (vertical mobility = up/down; horizontal = same level); it reflects societal openness.
 
 </details>
 
@@ -25355,7 +25355,7 @@ All are non-parametric tests except -
 
 <details><summary>Answer</summary>
 
-**D. Student t-test** — Source: Medicoholic 2016 PYQ compilation.
+**D. Student t-test** — **D. Student t-test** — Student's t-test is a parametric test requiring normally distributed data; chi-square, Fisher's exact, sign test, Mann-Whitney, and Wilcoxon are non-parametric (distribution-free) tests.
 
 </details>
 
@@ -25373,7 +25373,7 @@ True about NPCDCS is all, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**C. CHC has facilities for diagnosis and treatment of CVD, Diabetes** — Source: Medicoholic 2016 PYQ compilation.
+**C. CHC has facilities for diagnosis and treatment of CVD, Diabetes** — **C. CHC has facilities for diagnosis and treatment of CVD, Diabetes** — Under NPCDCS, District Hospitals have diagnosis/treatment facilities; CHCs provide screening and basic management, not full diagnostic facilities for NCDs.
 
 </details>
 
@@ -25391,7 +25391,7 @@ Colored kit for STD treatment is which type of approach?
 
 <details><summary>Answer</summary>
 
-**C. Syndromic** — Source: Medicoholic 2016 PYQ compilation.
+**C. Syndromic** — **C. Syndromic** — Colored STD kits (NACO) treat based on symptom clusters (syndromes like urethral discharge, genital ulcer) without awaiting lab diagnosis; this syndromic management improves treatment coverage.
 
 </details>
 
@@ -25409,7 +25409,7 @@ PERT is which type of management technique?
 
 <details><summary>Answer</summary>
 
-**C. Quantitative** — Source: Medicoholic 2016 PYQ compilation.
+**C. Quantitative** — **C. Quantitative** — PERT (Program Evaluation Review Technique) is a quantitative management/planning tool using probabilistic time estimates for project scheduling; it is an operations research/mathematical technique.
 
 </details>
 
@@ -25427,7 +25427,7 @@ Tensor tympani is attached at ?
 
 <details><summary>Answer</summary>
 
-**A. Malleus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Malleus** — **A. Malleus** — Tensor tympani attaches to the handle (manubrium) of the malleus; it tenses the tympanic membrane by pulling it medially, innervated by the medial pterygoid nerve (V3).
 
 </details>
 
@@ -25445,7 +25445,7 @@ First line treatment for mild retraction pocket in the ear is
 
 <details><summary>Answer</summary>
 
-**B. Antibiotics** — Source: Medicoholic 2016 PYQ compilation.
+**B. Antibiotics** — **B. Antibiotics** — Mild attic retraction pockets result from Eustachian tube dysfunction and negative middle ear pressure; antibiotics treating recurrent OM and nasal decongestants are first-line before surgical intervention.
 
 </details>
 

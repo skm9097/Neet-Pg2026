@@ -6515,7 +6515,7 @@ Miracle fruit is used to change the taste from?
 
 <details><summary>Answer</summary>
 
-**B. Sour to Sweet** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sour to Sweet** — **B. Sour to Sweet** — Miracle fruit (Synsepalum dulcificum) contains miraculin glycoprotein that binds sweet taste receptors and activates them at low pH, converting sour/acidic taste perception to sweet.
 
 </details>
 
@@ -6533,7 +6533,7 @@ The main muscle affected in congenital muscular torticollis is?
 
 <details><summary>Answer</summary>
 
-**A. Sternocleidomastoid** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sternocleidomastoid** — **A. Sternocleidomastoid** — Congenital muscular torticollis results from fibrosis of the sternocleidomastoid muscle (SCM), causing ipsilateral head tilt and contralateral chin rotation; SCM mass/tumor palpable in infancy.
 
 </details>
 
@@ -6551,7 +6551,7 @@ Where is the auditory cortex located inside the brain?
 
 <details><summary>Answer</summary>
 
-**A. Superior temporal gyrus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Superior temporal gyrus** — **A. Superior temporal gyrus** — The primary auditory cortex (Brodmann areas 41, 42) is located in the superior temporal gyrus (Heschl's gyri), on the superior surface of the temporal lobe within the lateral sulcus.
 
 </details>
 
@@ -6569,7 +6569,7 @@ Which eye muscle has radial, longitudinal and circular fibres?
 
 <details><summary>Answer</summary>
 
-**D. Ciliary muscle** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ciliary muscle** — **D. Ciliary muscle** — The ciliary muscle contains three fibre types: longitudinal (Brücke's), radial (Ivanov's), and circular (Müller's); all act together during accommodation to change lens curvature via zonular relaxation.
 
 </details>
 
@@ -6587,7 +6587,7 @@ Axial length of eye ball is:
 
 <details><summary>Answer</summary>
 
-**C. 24 mm** — Source: Medicoholic 2015 PYQ compilation.
+**C. 24 mm** — **C. 24 mm** — The normal adult axial length of the eyeball is approximately 24 mm (range 22–26 mm); axial length >24 mm causes myopia and <22 mm causes hyperopia; measured by A-scan ultrasonography.
 
 </details>
 
@@ -6605,7 +6605,7 @@ Sturm's conoid refers to configuration of the rays refracted through:
 
 <details><summary>Answer</summary>
 
-**C. Toric surface** — Source: Medicoholic 2015 PYQ compilation.
+**C. Toric surface** — **C. Toric surface** — Sturm's conoid is the hour-glass shaped configuration of refracted rays produced by a toric (astigmatic) lens; the two focal lines (Sturm's focal lines) are separated by the interval of Sturm.
 
 </details>
 
@@ -6623,7 +6623,7 @@ Refractory error measured by all except ?
 
 <details><summary>Answer</summary>
 
-**D. Spectrometry** — Source: Medicoholic 2015 PYQ compilation.
+**D. Spectrometry** — **D. Spectrometry** — Spectrometry measures light spectra/wavelengths and has no role in refraction assessment; refractive error is measured by keratometry (corneal curvature), retinoscopy, and autorefractometry.
 
 </details>
 
@@ -6641,7 +6641,7 @@ Anteroposterior change in length of eye is called ?
 
 <details><summary>Answer</summary>
 
-**C. Axial Ametropia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Axial Ametropia** — **C. Axial Ametropia** — Axial ametropia refers to refractive error caused by abnormal anteroposterior axial length of the eyeball; myopia (too long) and hyperopia (too short) are the most common forms.
 
 </details>
 
@@ -6659,7 +6659,7 @@ Poikilocytosis and anisocytosis is seen in
 
 <details><summary>Answer</summary>
 
-**B. Iron deficiency anaemia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Iron deficiency anaemia** — **B. Iron deficiency anaemia** — IDA characteristically shows hypochromic microcytic RBCs with significant anisocytosis (variable size) and poikilocytosis (pencil cells, target cells, tear drops) on peripheral smear due to defective Hb synthesis.
 
 </details>
 
@@ -6677,7 +6677,7 @@ Incidence of scar rupture in a subsequent preg​nancy in case of Lower Segment 
 
 <details><summary>Answer</summary>
 
-**A. 2%** — Source: Medicoholic 2015 PYQ compilation.
+**A. 2%** — **A. 2%** — The incidence of uterine scar rupture in subsequent pregnancy after lower segment cesarean section (LSCS) is approximately 0.5–2%; lower segment scars are safer than classical (upper segment) incisions (~4–9% rupture).
 
 </details>
 
@@ -6842,7 +6842,7 @@ Why is clopidogrel preferred over ticlopidine?
 
 <details><summary>Answer</summary>
 
-**A. Lower incidence of neutropenia and thrombocytopenia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Lower incidence of neutropenia and thrombocytopenia** — **A. Lower incidence of neutropenia and thrombocytopenia** — Ticlopidine causes dose-dependent neutropenia (2.4%) and thrombotic thrombocytopenic purpura; clopidogrel has a much lower haematological toxicity profile, making it preferred.
 
 </details>
 
@@ -6862,7 +6862,7 @@ Sewer swabs are taken to detect
 
 <details><summary>Answer</summary>
 
-**C. Typhoid carriers in community** — Source: Medicoholic 2016 PYQ compilation.
+**C. Typhoid carriers in community** — **C. Typhoid carriers in community** — Sewage/sewer swabs concentrate Salmonella Typhi shed by typhoid carriers in the community; a cost-effective environmental surveillance method for detecting carrier prevalence in an area.
 
 </details>
 
@@ -6882,7 +6882,7 @@ Antibody specificity is due to ?
 
 <details><summary>Answer</summary>
 
-**D. Amino acid sequence at the amino terminal** — Source: Medicoholic 2016 PYQ compilation.
+**D. Amino acid sequence at the amino terminal** — **D. Amino acid sequence at the amino terminal** — Antibody specificity resides in the hypervariable (complementarity-determining) regions (CDRs) at the amino-terminal ends of both heavy and light chains, forming the antigen-binding site.
 
 </details>
 
@@ -6902,7 +6902,7 @@ Specificity of antibody is dependent on ?
 
 <details><summary>Answer</summary>
 
-**B. Fab region** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fab region** — **B. Fab region** — The Fab (fragment antigen-binding) region contains the variable domains (VH and VL) with CDRs that determine antigen specificity; the Fc region mediates effector functions, not antigen recognition.
 
 </details>
 
@@ -6922,7 +6922,7 @@ Standpipe in rural oreas is an example of which principle of primary health care
 
 <details><summary>Answer</summary>
 
-**C. Intersectoral coordination** — Source: Medicoholic 2016 PYQ compilation.
+**C. Intersectoral coordination** — **C. Intersectoral coordination** — A standpipe providing rural water supply requires collaboration between health, public works, and water departments; this cross-sector collaboration exemplifies the PHC principle of intersectoral coordination.
 
 </details>
 
@@ -6942,7 +6942,7 @@ Denominator in under -5 proportional mortality rate?
 
 <details><summary>Answer</summary>
 
-**C. Total deaths** — Source: Medicoholic 2016 PYQ compilation.
+**C. Total deaths** — **C. Total deaths** — Under-5 Proportional Mortality Rate = (Deaths under 5 years / Total deaths in same period) × 100; denominator is total deaths (all ages), distinguishing it from Under-5 Mortality Rate which uses live births.
 
 </details>
 
@@ -6962,7 +6962,7 @@ HALE is used to measure
 
 <details><summary>Answer</summary>
 
-**B. Healthy life expectancy** — Source: Medicoholic 2016 PYQ compilation.
+**B. Healthy life expectancy** — **B. Healthy life expectancy** — HALE (Health-Adjusted Life Expectancy) is a WHO composite measure estimating years of life expected to be lived in full health; it adjusts life expectancy by subtracting years lived with disability or disease.
 
 </details>
 
@@ -6982,7 +6982,7 @@ Role of magnesium [Mg] in OPV?
 
 <details><summary>Answer</summary>
 
-**C. Stabilizar** — Source: Medicoholic 2016 PYQ compilation.
+**C. Stabilizar** — **C. Stabilizar** — Magnesium chloride is added to oral polio vaccine (OPV) as a thermal stabilizer (stabilisant); it protects the live attenuated poliovirus from heat inactivation, maintaining vaccine potency during storage and transport.
 
 </details>
 
@@ -7002,7 +7002,7 @@ The difference between descriptive and analytic studies?
 
 <details><summary>Answer</summary>
 
-**C. Descriptive studies are first phase in epidemiology** — Source: Medicoholic 2016 PYQ compilation.
+**C. Descriptive studies are first phase in epidemiology** — **C. Descriptive studies are first phase in epidemiology** — Descriptive studies (describing person, place, time) generate hypotheses and are the initial phase; analytic studies (cohort, case-control) then test those hypotheses.
 
 </details>
 
@@ -7022,7 +7022,7 @@ Strength of association of outcome and risk factor is measured by?
 
 <details><summary>Answer</summary>
 
-**A. Relative risk** — Source: Medicoholic 2016 PYQ compilation.
+**A. Relative risk** — **A. Relative risk** — Relative risk (RR = incidence in exposed / incidence in unexposed) quantifies the strength of association between exposure and outcome; RR>1 indicates increased risk, used in cohort studies.
 
 </details>
 
@@ -7042,7 +7042,7 @@ Important measure for National health policy?
 
 <details><summary>Answer</summary>
 
-**D. Attributable risk** — Source: Medicoholic 2016 PYQ compilation.
+**D. Attributable risk** — **D. Attributable risk** — Attributable risk (risk difference) measures excess risk due to exposure and indicates how much disease can be prevented by eliminating the exposure; most relevant for formulating public health policy decisions.
 
 </details>
 
@@ -7062,7 +7062,7 @@ A study that gives the prevalence of delusion in the elderly at a given point of
 
 <details><summary>Answer</summary>
 
-**C. Cross-sectional study** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cross-sectional study** — **C. Cross-sectional study** — A cross-sectional (prevalence) study measures disease frequency at a single point in time in a defined population; it provides prevalence, not incidence, and cannot establish temporal causality.
 
 </details>
 
@@ -7082,7 +7082,7 @@ A study that gives the prevalence of delusion in the elderly at a given point of
 
 <details><summary>Answer</summary>
 
-**B. 75** — Source: Medicoholic 2016 PYQ compilation.
+**B. 75** — **B. 75** — Population Attributable Risk (PAR%) = (Incidence total − Incidence unexposed) / Incidence total × 100; with 80 smoker cases (incidence 80/20000=0.004) vs. 20 non-smoker (20/80000=0.00025), PAR ≈ 75%.
 
 </details>
 
@@ -7102,7 +7102,7 @@ True about standardization are all except?
 
 <details><summary>Answer</summary>
 
-**C. Age specific rates are required in indirect standardization** — Source: Medicoholic 2016 PYQ compilation.
+**C. Age specific rates are required in indirect standardization** — **C. Age specific rates are required in indirect standardization** — In indirect standardization, age-specific rates of the standard population are applied to the study population; age-specific rates of the study population are NOT required (only total observed deaths are needed).
 
 </details>
 
@@ -7122,7 +7122,7 @@ Standardization is most important for?
 
 <details><summary>Answer</summary>
 
-**B. Age distribution** — Source: Medicoholic 2016 PYQ compilation.
+**B. Age distribution** — **B. Age distribution** — Age standardization is most commonly applied to control for age differences between populations when comparing crude mortality/morbidity rates; age is the most important confounding variable in vital statistics.
 
 </details>
 
@@ -7142,7 +7142,7 @@ True about cohort study
 
 <details><summary>Answer</summary>
 
-**B. Incidence study** — Source: Medicoholic 2016 PYQ compilation.
+**B. Incidence study** — **B. Incidence study** — Cohort study follows exposed and unexposed disease-free individuals forward in time to measure incidence; it proceeds from cause to effect, calculates relative risk directly, and is an analytical (not descriptive) study.
 
 </details>
 
@@ -7162,7 +7162,7 @@ Which milk? Passive immunity is also provided through colostrum and breast
 
 <details><summary>Answer</summary>
 
-**B. IgA** — Source: Medicoholic 2016 PYQ compilation.
+**B. IgA** — **B. IgA** — Secretory IgA (sIgA) is the predominant immunoglobulin in colostrum and breast milk; it provides passive mucosal immunity to the neonate against enteric pathogens by preventing epithelial adherence.
 
 </details>
 
@@ -7182,7 +7182,7 @@ Mid year population is estimated on ?
 
 <details><summary>Answer</summary>
 
-**B. 1st July** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1st July** — **B. 1st July** — Mid-year population (used as denominator for vital rates like crude birth rate, death rate) is conventionally estimated on 1st July, representing the population at the midpoint of the calendar year.
 
 </details>
 
@@ -7202,7 +7202,7 @@ Meningococcal vaccine contains ?
 
 <details><summary>Answer</summary>
 
-**A. 50 mcg of polysccharide of each strain** — Source: Medicoholic 2016 PYQ compilation.
+**A. 50 mcg of polysccharide of each strain** — **A. 50 mcg of polysccharide of each strain** — The quadrivalent meningococcal polysaccharide vaccine (MPSV4) contains 50 micrograms of purified capsular polysaccharide of each serogroup (A, C, Y, W-135) per dose.
 
 </details>
 
@@ -7222,7 +7222,7 @@ Secondary attack rate of mumps:?
 
 <details><summary>Answer</summary>
 
-**B. 85%** — Source: Medicoholic 2016 PYQ compilation.
+**B. 85%** — **B. 85%** — The secondary attack rate of mumps among susceptible household contacts is approximately 85%; mumps is highly contagious (R0 = 4–7) via respiratory droplets and direct contact with saliva.
 
 </details>
 
@@ -8442,7 +8442,7 @@ Which of the following is the predisposing factor for ethmoidal carcinoma
 
 <details><summary>Answer</summary>
 
-**A. Smoking** — Source: Medicoholic 2016 PYQ compilation.
+**A. Smoking** — **A. Smoking** — Tobacco smoking is the primary risk factor for ethmoidal carcinoma; occupational exposure to wood dust (furniture makers) and nickel/chromium compounds are also recognized, but smoking is the most commonly cited predisposing factor in NEET-PG context.
 
 </details>
 
@@ -8462,7 +8462,7 @@ Most common sinus predisposed to malignancy which of the following?
 
 <details><summary>Answer</summary>
 
-**B. Maxillary** — Source: Medicoholic 2016 PYQ compilation.
+**B. Maxillary** — **B. Maxillary** — Maxillary sinus carcinoma accounts for ~80% of all paranasal sinus malignancies; squamous cell carcinoma is the most common type; late presentation due to silent expansion within the sinus worsens prognosis.
 
 </details>
 
@@ -8482,7 +8482,7 @@ Most common benign tumor of paranasal sinuses?
 
 <details><summary>Answer</summary>
 
-**B. Osteoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Osteoma** — **B. Osteoma** — Osteoma is the most common benign tumor of paranasal sinuses, most frequently arising in the frontal sinus (fronto-ethmoid junction); associated with Gardner's syndrome; usually asymptomatic, found incidentally on imaging.
 
 </details>
 
@@ -8502,7 +8502,7 @@ All of the following are true about parapharyngeal abscess except?
 
 <details><summary>Answer</summary>
 
-**A. Mastoid process divides the space into anterior and posterior** — Source: Medicoholic 2016 PYQ compilation.
+**A. Mastoid process divides the space into anterior and posterior** — **A. Mastoid process divides the space into anterior and posterior** — The parapharyngeal space is divided into anterior (muscular/pre-styloid) and posterior (vascular/post-styloid) compartments by the styloid process, NOT the mastoid process.
 
 </details>
 
@@ -8522,7 +8522,7 @@ Trismus in parapharyngeal abscess is due to spasm of:
 
 <details><summary>Answer</summary>
 
-**B. Medial pterygoid** — Source: Medicoholic 2016 PYQ compilation.
+**B. Medial pterygoid** — **B. Medial pterygoid** — Trismus in parapharyngeal abscess results from irritation/spasm of the medial pterygoid muscle, which forms the medial wall of the parapharyngeal space; this distinguishes it from peritonsillar abscess where masseter is involved.
 
 </details>
 
@@ -8542,7 +8542,7 @@ Select correct statements about Ca larynx:
 
 <details><summary>Answer</summary>
 
-**A. Glottic Ca is the most common** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glottic Ca is the most common** — **A. Glottic Ca is the most common** — Glottic (true vocal cord) carcinoma accounts for ~60–65% of all laryngeal cancers; it presents early with hoarseness, has excellent prognosis due to sparse lymphatics, and is most amenable to radiotherapy.
 
 </details>
 
@@ -8562,7 +8562,7 @@ Which of the following sites of Ca larynx has the best prognosis?
 
 <details><summary>Answer</summary>
 
-**A. Glottic** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glottic** — **A. Glottic** — Glottic carcinoma has the best prognosis among laryngeal cancers; the true vocal cords have a sparse lymphatic supply minimizing nodal spread, and hoarseness causes early detection; 5-year survival exceeds 85% for T1 glottic Ca.
 
 </details>
 
@@ -8582,7 +8582,7 @@ Most common site of distant metastasis from Ca larynx
 
 <details><summary>Answer</summary>
 
-**B. Lung** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lung** — **B. Lung** — Distant metastasis from laryngeal carcinoma most commonly occurs to the lungs; hematogenous spread via pulmonary circulation accounts for this pattern; pulmonary nodules on chest X-ray in treated laryngeal Ca warrant investigation.
 
 </details>
 
@@ -8602,7 +8602,7 @@ Esophagus is constricted at 4 anatomic locations. Narrowest part of esophagus li
 
 <details><summary>Answer</summary>
 
-**A. At the level of cricopharyngeal sphincter** — Source: Medicoholic 2016 PYQ compilation.
+**A. At the level of cricopharyngeal sphincter** — **A. At the level of cricopharyngeal sphincter** — The cricopharyngeal (pharyngoesophageal) constriction at C6 level is the narrowest part of the entire esophagus (~14 mm); this is why foreign bodies and impacted food lodge here most commonly.
 
 </details>
 
@@ -8622,7 +8622,7 @@ Food particles mostly get obstructed in which part of esophagus -
 
 <details><summary>Answer</summary>
 
-**A. Cricopharyngeal sphincter** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cricopharyngeal sphincter** — **A. Cricopharyngeal sphincter** — The cricopharyngeal sphincter (upper esophageal sphincter at C6, 15 cm from incisor teeth) is the narrowest esophageal constriction; most ingested foreign bodies and impacted food boluses lodge here due to the narrow lumen.
 
 </details>
 
@@ -8642,7 +8642,7 @@ True regarding traction diverticuli of esophagus is all except
 
 <details><summary>Answer</summary>
 
-**A. Does not empty completely** — Source: Medicoholic 2016 PYQ compilation.
+**A. Does not empty completely** — **A. Does not empty completely** — Traction diverticula (mid-esophageal, from mediastinal fibrosis/TB nodes) empty completely because they are true diverticula with all layers and broad necks pulled outward; pulsion (Zenker's) diverticula empty incompletely.
 
 </details>
 
@@ -8662,7 +8662,7 @@ Radical mastoidectomy is done for:
 
 <details><summary>Answer</summary>
 
-**C. Atticoantral cholesteotoma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Atticoantral cholesteotoma** — **C. Atticoantral cholesteotoma** — Radical mastoidectomy (modified or classical) is performed for unsafe CSOM with cholesteatoma (atticoantral disease); it involves removing the posterior canal wall to exteriorize the mastoid and eliminate cholesteatoma completely.
 
 </details>
 
@@ -8682,7 +8682,7 @@ Sluder's neuralgia is also called as
 
 <details><summary>Answer</summary>
 
-**A. Anterior ethmoidal syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**A. Anterior ethmoidal syndrome** — **A. Anterior ethmoidal syndrome** — Sluder's neuralgia (sphenopalatine neuralgia) is also called anterior ethmoidal nerve syndrome; it involves the sphenopalatine ganglion causing unilateral facial pain, nasal congestion, and referred orbital pain.
 
 </details>
 
@@ -8702,7 +8702,7 @@ Styloid process is derived from ?
 
 <details><summary>Answer</summary>
 
-**B. 2nd arch** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2nd arch** — **B. 2nd arch** — The styloid process is derived from Reichert's cartilage (2nd pharyngeal/hyoid arch); the 2nd arch also gives rise to stapes, stylohyoid ligament, lesser horn and upper body of hyoid bone (mnemonic: Stapedius-Styloid-Superior hyoid).
 
 </details>
 
@@ -8722,7 +8722,7 @@ Most common cause of singer's nodule is ?
 
 <details><summary>Answer</summary>
 
-**C. Vocal abuse** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vocal abuse** — **C. Vocal abuse** — Singer's nodules (vocal cord nodules) are benign bilateral fibrotic swellings at the junction of anterior one-third and posterior two-thirds of vocal cords; caused by chronic vocal abuse (excessive, forceful phonation), not infection or allergy.
 
 </details>
 
@@ -8742,7 +8742,7 @@ Deafness in a case of Paget's disease is due to
 
 <details><summary>Answer</summary>
 
-**C. Eight nerve involvement** — Source: Medicoholic 2016 PYQ compilation.
+**C. Eight nerve involvement** — **C. Eight nerve involvement** — In Paget's disease (osteitis deformans), bony overgrowth compresses the 8th cranial nerve (vestibulocochlear) in the internal auditory canal, causing sensorineural hearing loss; bony ossicular involvement contributes a conductive component.
 
 </details>
 
@@ -8762,7 +8762,7 @@ Snellen's chart is used to test:
 
 <details><summary>Answer</summary>
 
-**A. Vision** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vision** — **A. Vision** — Snellen's chart measures visual acuity (distant vision) at 6 meters; it tests the ability to resolve detail (minimum angle of resolution); recorded as 6/6 (normal), 6/9, 6/60, etc.; standard screening tool in community eye health programmes.
 
 </details>
 
@@ -8782,7 +8782,7 @@ Listers perimeter is used for
 
 <details><summary>Answer</summary>
 
-**A. Kinetic Visual field testing** — Source: Medicoholic 2016 PYQ compilation.
+**A. Kinetic Visual field testing** — **A. Kinetic Visual field testing** — Lister's perimeter performs kinetic perimetry (moving target from periphery inward); it maps the isopters (contour lines of equal visual sensitivity); Goldmann perimeter is the refined version; static perimetry uses automated machines like Humphrey.
 
 </details>
 
@@ -8802,7 +8802,7 @@ What is the type of Goldman tonometry?
 
 <details><summary>Answer</summary>
 
-**A. Applanation Tonometry** — Source: Medicoholic 2016 PYQ compilation.
+**A. Applanation Tonometry** — **A. Applanation Tonometry** — Goldman applanation tonometry is the gold standard for IOP measurement; it measures the force required to flatten (applanate) a 3.06 mm diameter area of cornea, giving IOP in mmHg; based on Imbert-Fick principle.
 
 </details>
 
@@ -8822,7 +8822,7 @@ Conjunctival staining is done by all except
 
 <details><summary>Answer</summary>
 
-**B. India ink** — Source: Medicoholic 2016 PYQ compilation.
+**B. India ink** — **B. India ink** — India ink (used for cryptococcal meningitis CSF staining) is NOT used for conjunctival staining; fluorescein stains corneal epithelial defects green, rose bengal stains devitalized/dead epithelial cells red, lissamine green stains degenerate cells.
 
 </details>
 
@@ -8842,7 +8842,7 @@ Gene for eye morphogenesis
 
 <details><summary>Answer</summary>
 
-**A. Pax-6** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pax-6** — **A. Pax-6** — PAX-6 (Paired box gene 6) is the master regulator/transcription factor for eye morphogenesis; mutations cause aniridia; it is evolutionarily conserved across species (Drosophila eyeless gene is the homolog); expressed in lens, retina, cornea.
 
 </details>
 
@@ -8862,7 +8862,7 @@ Purkinje image test is used in
 
 <details><summary>Answer</summary>
 
-**D. Pachymeter** — Source: Medicoholic 2016 PYQ compilation.
+**D. Pachymeter** — **D. Pachymeter** — Purkinje image test (detecting corneal reflections of a light source) is used in pachymeters to measure corneal thickness; it can also detect posterior capsule integrity in cataract surgery assessment.
 
 </details>
 
@@ -8882,7 +8882,7 @@ Transport of Ascorbic acid to lens is done by which of the following?
 
 <details><summary>Answer</summary>
 
-**D. Na-K ATPase** — Source: Medicoholic 2016 PYQ compilation.
+**D. Na-K ATPase** — **D. Na-K ATPase** — Na-K ATPase pump in the lens epithelium maintains ion gradients that drive sodium-dependent active transport of ascorbic acid into the lens; ascorbic acid concentration in the aqueous humor and lens is much higher than plasma.
 
 </details>
 
@@ -8902,7 +8902,7 @@ Phacoemulsification uses
 
 <details><summary>Answer</summary>
 
-**A. High frequency sound waves** — Source: Medicoholic 2016 PYQ compilation.
+**A. High frequency sound waves** — **A. High frequency sound waves** — Phacoemulsification uses high-frequency ultrasound waves (40,000 Hz) to emulsify the lens nucleus, allowing aspiration through a small (<3 mm) incision; this minimally invasive technique enables rapid visual rehabilitation post-cataract surgery.
 
 </details>
 
@@ -8922,7 +8922,7 @@ Keeth Wagner classification is for
 
 <details><summary>Answer</summary>
 
-**A. Hypertensive retinopathy** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hypertensive retinopathy** — **A. Hypertensive retinopathy** — Keith-Wagener-Barker classification grades hypertensive retinopathy into 4 groups: Grade I (arteriolar narrowing), Grade II (AV nicking), Grade III (flame hemorrhages/cotton wool spots), Grade IV (papilledema); used to assess end-organ damage in hypertension.
 
 </details>
 
@@ -8942,7 +8942,7 @@ All are seen in non-proliferative diabetic retinopathy except ?
 
 <details><summary>Answer</summary>
 
-**B. Neovascularization** — Source: Medicoholic 2016 PYQ compilation.
+**B. Neovascularization** — **B. Neovascularization** — Neovascularization (new vessel formation) is the hallmark of proliferative diabetic retinopathy (PDR), not NPDR; NPDR features include microaneurysms, dot-blot hemorrhages, hard exudates, cotton wool spots, venous beading, and macular edema.
 
 </details>
 
@@ -8962,7 +8962,7 @@ Which one of the following statement is true of undescended testis -
 
 <details><summary>Answer</summary>
 
-**C. Has a higher incidence of malignancy** — Source: Medicoholic 2016 PYQ compilation.
+**C. Has a higher incidence of malignancy** — **C. Has a higher incidence of malignancy** — Cryptorchidism carries 3–5× increased risk of testicular malignancy (seminoma most common); risk persists even after orchiopexy; seminoma is the most common germ cell tumor in undescended testes.
 
 </details>
 
@@ -8982,7 +8982,7 @@ Prevalence of omphalocele at birth is
 
 <details><summary>Answer</summary>
 
-**C. 1 in 4000 live births** — Source: Medicoholic 2016 PYQ compilation.
+**C. 1 in 4000 live births** — **C. 1 in 4000 live births** — Omphalocele (exomphalos) occurs in approximately 1 in 4000–5000 live births; it involves herniation of abdominal viscera through the umbilical ring covered by peritoneum/amnion; associated with chromosomal anomalies (trisomy 18, 13).
 
 </details>
 
@@ -9002,7 +9002,7 @@ Prevalence of breech presentation at full term is ?
 
 <details><summary>Answer</summary>
 
-**C. 3-4%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3-4%** — **C. 3-4%** — Breech presentation at term (37+ weeks) occurs in 3–4% of pregnancies; most fetuses spontaneously convert to cephalic by 36 weeks; persistent breech at term warrants ECV or planned caesarean section.
 
 </details>
 
@@ -9022,7 +9022,7 @@ Most important factor in causation of Ingrown toe nail is?
 
 <details><summary>Answer</summary>
 
-**B. Ill fitting shoes** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ill fitting shoes** — **B. Ill fitting shoes** — Ill-fitting (tight, narrow) shoes compress the nail fold against the nail plate, causing lateral nail edge to penetrate surrounding skin; this is the most important preventable cause of ingrown toenail (onychocryptosis) along with incorrect nail trimming.
 
 </details>
 

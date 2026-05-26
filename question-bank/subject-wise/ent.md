@@ -3010,7 +3010,7 @@ Vossius ring occurs in
 
 <details><summary>Answer</summary>
 
-**B. Concussion injury** — Source: Medicoholic 2015 PYQ compilation.
+**B. Concussion injury** — **B. Concussion injury** — Vossius ring is a circular pigmented ring on the anterior lens capsule caused by iris pigment imprinting after blunt trauma (concussion injury) when the iris contacts the lens; it indicates significant impact.
 
 </details>
 
@@ -3028,7 +3028,7 @@ Feature (s) of Infantile glaucoma is/are except:
 
 <details><summary>Answer</summary>
 
-**D. Cornea is thin & clear** — Source: Medicoholic 2015 PYQ compilation.
+**D. Cornea is thin & clear** — **D. Cornea is thin & clear** — Infantile (congenital) glaucoma causes corneal enlargement (buphthalmos), cloudy/edematous cornea with Haab's striae, photophobia, and tearing; the cornea is NOT thin and clear.
 
 </details>
 
@@ -3046,7 +3046,7 @@ Mioitcs are treatment of choice for ?
 
 <details><summary>Answer</summary>
 
-**A. Angle closure glaucoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Angle closure glaucoma** — **A. Angle closure glaucoma** — Miotics (pilocarpine) contract the sphincter pupillae, pulling the iris away from the trabecular meshwork and opening the drainage angle, making them the treatment of choice for angle-closure glaucoma.
 
 </details>
 
@@ -3064,7 +3064,7 @@ Glaucoma drainage devices ?
 
 <details><summary>Answer</summary>
 
-**B. Drain aqueous humour to an external device** — Source: Medicoholic 2015 PYQ compilation.
+**B. Drain aqueous humour to an external device** — **B. Drain aqueous humour to an external device** — Glaucoma drainage devices (Ahmed, Baerveldt, Molteno implants) shunt aqueous humor from the anterior chamber to an external plate beneath the conjunctiva, bypassing blocked trabecular outflow.
 
 </details>
 
@@ -3082,7 +3082,7 @@ A patient (age not captured in source) who is a year old woman presents Sudden p
 
 <details><summary>Answer</summary>
 
-**A. Vitreous Hemorrhage** — Source: Medicoholic 2015 PYQ compilation.
+**A. Vitreous Hemorrhage** — **A. Vitreous Hemorrhage** — Sudden painless visual loss with no fundal glow (absent red reflex) indicates vitreous hemorrhage obscuring the retina; recurrent episodes suggest underlying retinal breaks, proliferative diabetic retinopathy, or Eales disease.
 
 </details>
 
@@ -3100,7 +3100,7 @@ Retinopathy of prematurity is commonly predisposed by-
 
 <details><summary>Answer</summary>
 
-**A. Less gestation age** — Source: Medicoholic 2015 PYQ compilation.
+**A. Less gestation age** — **A. Less gestation age** — Earlier gestational age is the strongest risk factor for ROP; immature retinal vasculature is susceptible to oxygen-induced vasoconstriction and subsequent pathological neovascularization (VEGF-driven).
 
 </details>
 
@@ -3118,7 +3118,7 @@ Eales disease is:
 
 <details><summary>Answer</summary>
 
-**C. Recurrent periphelbitis retinae** — Source: Medicoholic 2015 PYQ compilation.
+**C. Recurrent periphelbitis retinae** — **C. Recurrent periphelbitis retinae** — Eales disease is idiopathic obliterative periphlebitis of retinal veins in young males, associated with TB hypersensitivity; causes recurrent vitreous hemorrhage and may lead to retinal detachment.
 
 </details>
 
@@ -3136,7 +3136,7 @@ What is false about Eale's disease amongst the followwing?
 
 <details><summary>Answer</summary>
 
-**C. Optic neuritis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Optic neuritis** — **C. Optic neuritis** — Eales disease affects peripheral retinal veins (periphlebitis retinae), not the optic nerve; features include vitreous hemorrhage, retinal detachment, and AKT is given due to TB association.
 
 </details>
 
@@ -3154,7 +3154,7 @@ Snowball appearance is seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Sarcoidosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sarcoidosis** — **B. Sarcoidosis** — Snowball opacities are large whitish-grey vitreous infiltrates (aggregated inflammatory cells) seen in the inferior vitreous in sarcoid uveitis; they are pathognomonic of sarcoid-associated pars planitis.
 
 </details>
 
@@ -3172,7 +3172,7 @@ Subhyaloid hemorrhage is ?
 
 <details><summary>Answer</summary>
 
-**A. Boat shaped** — Source: Medicoholic 2015 PYQ compilation.
+**A. Boat shaped** — **A. Boat shaped** — Subhyaloid (preretinal) hemorrhage collects between the retina and vitreous face; gravity causes the blood to settle inferiorly, forming a horizontal fluid-blood level giving the characteristic boat/D-shaped appearance.
 
 </details>
 
@@ -3190,7 +3190,7 @@ Most common age related change in vitreous ?
 
 <details><summary>Answer</summary>
 
-**B. Posterior vitreous detachment** — Source: Medicoholic 2015 PYQ compilation.
+**B. Posterior vitreous detachment** — **B. Posterior vitreous detachment** — With aging, vitreous liquefaction (syneresis) occurs and the cortical vitreous separates from the retina; PVD causes floaters/photopsia and can precipitate retinal tears if adhesions are present.
 
 </details>
 
@@ -3208,7 +3208,7 @@ Muscae volitantes is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Remains of primitive hyaloid vasculatur** — Source: Medicoholic 2015 PYQ compilation.
+**C. Remains of primitive hyaloid vasculatur** — **C. Remains of primitive hyaloid vasculatur** — Muscae volitantes (floaters) in young people represent persistent remnants of the embryonic hyaloid vascular system; they appear as moving transparent spots and are usually benign.
 
 </details>
 
@@ -3226,7 +3226,7 @@ Anisocoria in Horner's syndrome is due to
 
 <details><summary>Answer</summary>
 
-**A. Oculo sympathetic palsy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Oculo sympathetic palsy** — **A. Oculo sympathetic palsy** — Horner's syndrome results from interruption of the oculosympathetic pathway (hypothalamus→ciliospinal centre→superior cervical ganglion→iris dilator); loss of sympathetic innervation causes miosis and anisocoria.
 
 </details>
 
@@ -3244,7 +3244,7 @@ The most common type of strabismus seen in myopes is?
 
 <details><summary>Answer</summary>
 
-**A. Intermittent Exotropia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Intermittent Exotropia** — **A. Intermittent Exotropia** — Myopes have convergence excess at near (aided by accommodation); at distance, reduced accommodative drive leads to exophoria/intermittent exotropia, making it the most common strabismus type in myopia.
 
 </details>
 
@@ -3262,7 +3262,7 @@ Dalrymple's sign of ocular Graves' disease refers to:
 
 <details><summary>Answer</summary>
 
-**A. Retraction of the upper lid** — Source: Medicoholic 2015 PYQ compilation.
+**A. Retraction of the upper lid** — **A. Retraction of the upper lid** — Dalrymple's sign is upper eyelid retraction in Graves' orbitopathy due to sympathetic overstimulation of Müller's muscle and fibrosis of the levator; this exposes the superior sclera (scleral show).
 
 </details>
 
@@ -3280,7 +3280,7 @@ D Shaped pupil is seen in ?
 
 <details><summary>Answer</summary>
 
-**A. Iridodialysis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Iridodialysis** — **A. Iridodialysis** — Iridodialysis is traumatic separation of the iris root from the ciliary body; the remaining iris retracts to the opposite side, creating a D-shaped or colobomatous pupil with a dark crescentic gap at the periphery.
 
 </details>
 
@@ -3298,7 +3298,7 @@ Pulsatile proptosis is a feature of ?
 
 <details><summary>Answer</summary>
 
-**C. Cortico-cavernous fistula** — Source: Medicoholic 2015 PYQ compilation.
+**C. Cortico-cavernous fistula** — **C. Cortico-cavernous fistula** — Carotid-cavernous fistula transmits arterial pulsations through the cavernous sinus to orbital veins; this causes pulsatile proptosis, orbital bruit, chemosis, and dilated episcleral vessels (arterialized).
 
 </details>
 
@@ -3316,7 +3316,7 @@ What is the most common eye lesion in HIV?
 
 <details><summary>Answer</summary>
 
-**C. Cotton wool spots** — Source: Medicoholic 2015 PYQ compilation.
+**C. Cotton wool spots** — **C. Cotton wool spots** — Cotton wool spots (nerve fiber layer microinfarcts due to HIV microvasculopathy) are the most common ophthalmic manifestation of HIV itself; CMV retinitis is the most common opportunistic ocular infection in AIDS.
 
 </details>
 
@@ -3334,7 +3334,7 @@ Parasitosis of extraocular eye muscles is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Trichinosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Trichinosis** — **A. Trichinosis** — Trichinella spiralis larvae migrate to striated muscle including extraocular muscles, causing periorbital edema, myositis, and restricted eye movements; this is the classic parasitic cause of extraocular muscle involvement.
 
 </details>
 
@@ -3352,7 +3352,7 @@ The principle of total internal reflection is used by?
 
 <details><summary>Answer</summary>
 
-**A. Gonioscope** — Source: Medicoholic 2015 PYQ compilation.
+**A. Gonioscope** — **A. Gonioscope** — The anterior chamber angle cannot be viewed directly due to total internal reflection at the cornea-air interface; gonioscopy uses a contact lens that eliminates this interface, allowing visualization of the trabecular meshwork.
 
 </details>
 
@@ -3370,7 +3370,7 @@ Immediate treatment of acute dacryocystitis is?
 
 <details><summary>Answer</summary>
 
-**A. Antibiotics and drainage of abscesss if present** — Source: Medicoholic 2015 PYQ compilation.
+**A. Antibiotics and drainage of abscesss if present** — **A. Antibiotics and drainage of abscesss if present** — Acute dacryocystitis is managed urgently with systemic antibiotics (S. aureus/Strep. coverage); fluctuant abscess requires incision and drainage; DCR is done electively after acute infection resolves.
 
 </details>
 
@@ -3388,7 +3388,7 @@ Aspirin-sensitive asthma is associated with:
 
 <details><summary>Answer</summary>
 
-**C. Nasal polyp** — Source: Medicoholic 2015 PYQ compilation.
+**C. Nasal polyp** — **C. Nasal polyp** — Samter's triad combines aspirin sensitivity, bronchial asthma, and nasal polyposis; aspirin inhibits COX-1, shunting arachidonic acid to the 5-lipoxygenase pathway, generating excess leukotrienes causing bronchoconstriction.
 
 </details>
 
@@ -3406,7 +3406,7 @@ Which of the following is seen in sarcoidosis
 
 <details><summary>Answer</summary>
 
-**A. Hypercalcemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypercalcemia** — **A. Hypercalcemia** — Sarcoid granulomas contain activated macrophages that produce 1-alpha-hydroxylase, converting 25-OH vitamin D to calcitriol; excess calcitriol increases intestinal calcium absorption causing hypercalcemia and hypercalciuria.
 
 </details>
 
@@ -3424,7 +3424,7 @@ In a patient with COPD, best management option is
 
 <details><summary>Answer</summary>
 
-**C. Low flow oxygen** — Source: Medicoholic 2015 PYQ compilation.
+**C. Low flow oxygen** — **C. Low flow oxygen** — In COPD patients with chronic hypercapnia, hypoxic drive maintains respiration; high-flow oxygen removes this hypoxic stimulus causing respiratory depression; controlled low-flow oxygen (SaO2 88-92%) is safest.
 
 </details>
 
@@ -3442,7 +3442,7 @@ In a patient there is dyspnea in upright position which is relieved in supine po
 
 <details><summary>Answer</summary>
 
-**D. Platypnea** — Source: Medicoholic 2015 PYQ compilation.
+**D. Platypnea** — **D. Platypnea** — Platypnea is dyspnea that worsens in the upright position and improves when supine; associated with orthodeoxia (oxygen desaturation upright); seen in hepatopulmonary syndrome and intracardiac shunts.
 
 </details>
 
@@ -3460,7 +3460,7 @@ Clicking noise in Pneumomediastinum is known as
 
 <details><summary>Answer</summary>
 
-**A. Hamman sign** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hamman sign** — **A. Hamman sign** — Hamman's sign (Hamman's crunch) is a crunching/clicking noise synchronous with the heartbeat heard on auscultation over the precordium in pneumomediastinum, caused by air crackling around the heart.
 
 </details>
 
@@ -3478,7 +3478,7 @@ Emphysema presents with all except
 
 <details><summary>Answer</summary>
 
-**A. Cyanosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cyanosis** — **A. Cyanosis** — Emphysema (pink puffer) patients maintain near-normal oxygenation through hyperventilation; cyanosis is uncommon until very late stages; they characteristically have barrel chest, pursed-lip breathing, and type I respiratory failure.
 
 </details>
 
@@ -3496,7 +3496,7 @@ Most common cause of pleural effusion in AIDS patients
 
 <details><summary>Answer</summary>
 
-**A. Kaposi sarcoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Kaposi sarcoma** — **A. Kaposi sarcoma** — Kaposi's sarcoma is the most common cause of pleural effusion in AIDS patients, typically producing an exudative, often hemorrhagic effusion; TB is second most common in high-prevalence regions.
 
 </details>
 
@@ -3514,7 +3514,7 @@ If a person is having ventriular tachycardia, extra systoles appears to
 
 <details><summary>Answer</summary>
 
-**B. QRS complex** — Source: Medicoholic 2015 PYQ compilation.
+**B. QRS complex** — **B. QRS complex** — In ventricular tachycardia, the ectopic impulse originates in ventricular muscle; extra systoles manifest as wide bizarre QRS complexes (no preceding P wave) reflecting abnormal ventricular depolarization.
 
 </details>
 
@@ -3532,7 +3532,7 @@ Most common arrhythmia in ICU patients -
 
 <details><summary>Answer</summary>
 
-**B. Atrial fibrillation** — Source: Medicoholic 2015 PYQ compilation.
+**B. Atrial fibrillation** — **B. Atrial fibrillation** — Atrial fibrillation is the most common arrhythmia in ICU patients, precipitated by critical illness, electrolyte imbalances, catecholamine surge, and inflammatory mediators; associated with increased morbidity and stroke risk.
 
 </details>
 
@@ -6371,7 +6371,7 @@ Bullet fixed from a gun is not released. It is ejected out with subsequent shot.
 
 <details><summary>Answer</summary>
 
-**A. Tandem bullet** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tandem bullet** — **A. Tandem bullet** — A tandem (double) bullet occurs when a bullet lodges in the barrel and is expelled by the next shot; both bullets travel together, creating an unusual wound pattern.
 
 </details>
 
@@ -6391,7 +6391,7 @@ Ricochet bullet is
 
 <details><summary>Answer</summary>
 
-**C. Deviation in the direction or path of bullet** — Source: Medicoholic 2016 PYQ compilation.
+**C. Deviation in the direction or path of bullet** — **C. Deviation in the direction or path of bullet** — A ricochet bullet deflects off a hard surface, changing its direction/path before striking the victim; it often causes irregular or tangential entry wounds.
 
 </details>
 
@@ -6411,7 +6411,7 @@ Highest content of cannabis is found in which part of the plant?
 
 <details><summary>Answer</summary>
 
-**B. Resin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Resin** — **B. Resin** — The highest concentration of delta-9-THC (active cannabinoid) is found in the resin secreted by flowering tops of Cannabis sativa; hashish is extracted resin.
 
 </details>
 
@@ -6431,7 +6431,7 @@ Which of the following is true about cocaine metabolite test
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Cocaine metabolite (benzoylecgonine) testing measures levels in urine/blood, confirms cocaine use history, and guides overdose management including decontamination protocols.
 
 </details>
 
@@ -6451,7 +6451,7 @@ Active ingredient of marking nut is ?
 
 <details><summary>Answer</summary>
 
-**A. Semecarpol** — Source: Medicoholic 2016 PYQ compilation.
+**A. Semecarpol** — **A. Semecarpol** — Semecarpol (bhilawanol) is the active vesicant compound in marking nut (Semecarpus anacardium); causes severe contact dermatitis and is used in traditional medicine and as vesicant poison.
 
 </details>
 
@@ -6471,7 +6471,7 @@ Which of the following statement regarding cell division is NOT TRUE?
 
 <details><summary>Answer</summary>
 
-**A. Produces haploid number of chromosomes** — Source: Medicoholic 2016 PYQ compilation.
+**A. Produces haploid number of chromosomes** — **A. Produces haploid number of chromosomes** — Mitosis produces diploid daughter cells with same chromosome number as parent; meiosis produces haploid cells; this statement is true only for meiosis, not cell division in general.
 
 </details>
 
@@ -6491,7 +6491,7 @@ Loeffer's serum is an example of
 
 <details><summary>Answer</summary>
 
-**C. Complex medium** — Source: Medicoholic 2016 PYQ compilation.
+**C. Complex medium** — **C. Complex medium** — Loeffler's serum is a complex (undefined) medium containing animal serum and peptone; used for Corynebacterium diphtheriae cultivation and demonstrating metachromatic granules.
 
 </details>
 
@@ -6511,7 +6511,7 @@ Which test cannot differentiate endemic and epidemic typhus
 
 <details><summary>Answer</summary>
 
-**A. Weil-Felix reaction** — Source: Medicoholic 2016 PYQ compilation.
+**A. Weil-Felix reaction** — **A. Weil-Felix reaction** — Weil-Felix uses Proteus OX agglutination as surrogate markers; it cannot differentiate endemic (R. typhi) from epidemic (R. prowazekii) typhus as both show OX-19 positivity.
 
 </details>
 
@@ -6531,7 +6531,7 @@ Borrelia causes which of the following
 
 <details><summary>Answer</summary>
 
-**C. Vincent angina** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vincent angina** — **C. Vincent angina** — Borrelia vincentii, along with Fusobacterium, causes Vincent angina (trench mouth/acute necrotizing ulcerative gingivitis); characterized by painful ulcerative oropharyngeal lesions.
 
 </details>
 
@@ -6551,7 +6551,7 @@ True about vibrio cholerae is -
 
 <details><summary>Answer</summary>
 
-**C. El - Tor is milder than classical** — Source: Medicoholic 2016 PYQ compilation.
+**C. El - Tor is milder than classical** — **C. El - Tor is milder than classical** — El-Tor biotype of V. cholerae O1 produces milder clinical disease than the classical biotype, with higher carrier-to-case ratio and more environmental persistence.
 
 </details>
 
@@ -6571,7 +6571,7 @@ Which stage of Leishmania is found in spleen aspirate of patient ?
 
 <details><summary>Answer</summary>
 
-**A. Amastigote�** — Source: Medicoholic 2016 PYQ compilation.
+**A. Amastigote�** — **A. Amastigote** — Leishmania exists as intracellular amastigotes (Leishman-Donovan bodies) within macrophages in the spleen, liver, and bone marrow of patients with visceral leishmaniasis (kala-azar).
 
 </details>
 
@@ -6591,7 +6591,7 @@ HSV-2 causes latent infection in which nerve plexus/ ganglia ?
 
 <details><summary>Answer</summary>
 
-**C. Sacral ganglion** — Source: Medicoholic 2016 PYQ compilation.
+**C. Sacral ganglion** — **C. Sacral ganglion** — HSV-2 establishes latency in sacral dorsal root ganglia (S2-S4) following genital infection; reactivation causes recurrent genital herpes, whereas HSV-1 is latent in trigeminal ganglion.
 
 </details>
 
@@ -6611,7 +6611,7 @@ A 30 years old male is having prpductive cough with dysnea. Blood gas analysis s
 
 <details><summary>Answer</summary>
 
-**C. P. jerovecii** — Source: Medicoholic 2016 PYQ compilation.
+**C. P. jerovecii** — **C. P. jerovecii** — Bilateral reticulonodular infiltrates on CXR with low PaO2 in an immunocompromised patient (HIV/transplant) is classic for Pneumocystis jirovecii pneumonia (PJP); confirmed by LDH elevation and BAL.
 
 </details>
 
@@ -6631,7 +6631,7 @@ True about iceberg of disease ?
 
 <details><summary>Answer</summary>
 
-**B. Tip of the iceberg represent clinical cases** — Source: Medicoholic 2016 PYQ compilation.
+**B. Tip of the iceberg represent clinical cases** — **B. Tip of the iceberg represent clinical cases** — In the iceberg phenomenon, the visible tip represents overt clinical cases while the larger submerged portion represents subclinical/inapparent infections; screening targets the submerged portion.
 
 </details>
 
@@ -6651,7 +6651,7 @@ Standardized death rates are used because health?
 
 <details><summary>Answer</summary>
 
-**A. For valid comparisom of two groups of different health** — Source: Medicoholic 2016 PYQ compilation.
+**A. For valid comparisom of two groups of different health** — **A. For valid comparison of two groups of different health** — Standardized (age-adjusted) death rates remove confounding effect of age differences between populations, allowing valid comparisons of mortality across different demographic groups.
 
 </details>
 
@@ -6671,7 +6671,7 @@ All are true about natural experiments, except?
 
 <details><summary>Answer</summary>
 
-**C. Includes Randomized controlled trials [RCTs]** — Source: Medicoholic 2016 PYQ compilation.
+**C. Includes Randomized controlled trials [RCTs]** — **C. Includes Randomized controlled trials [RCTs]** — Natural experiments exploit pre-existing variations in exposure (researcher has no control); RCTs involve deliberate randomization by researchers and are NOT natural experiments.
 
 </details>
 
@@ -6691,7 +6691,7 @@ In a study a patient does not know the nature of drug [whether a placebo or cura
 
 <details><summary>Answer</summary>
 
-**A. Single** — Source: Medicoholic 2016 PYQ compilation.
+**A. Single** — **A. Single** — Single-blind study: only the patient is unaware of treatment allocation; the researcher/investigator knows which treatment is given; double-blind means both are blinded.
 
 </details>
 
@@ -6711,7 +6711,7 @@ How many doses of monovalent meningococcal 'C' vaccine is given in Infants ?
 
 <details><summary>Answer</summary>
 
-**B. Two** — Source: Medicoholic 2016 PYQ compilation.
+**B. Two** — **B. Two** — Monovalent meningococcal C conjugate vaccine in infants requires a two-dose primary series (e.g., at 3 and 5 months) followed by a booster; older children need only one dose.
 
 </details>
 
@@ -6731,7 +6731,7 @@ Infectivity of convalescent carrier of cholera lasts for?
 
 <details><summary>Answer</summary>
 
-**C. 2-3 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 2-3 weeks** — **C. 2-3 weeks** — Convalescent cholera carriers shed V. cholerae in stool for 2-3 weeks after clinical recovery; chronic carriage (gallbladder) is rare but possible in elderly patients.
 
 </details>
 
@@ -6751,7 +6751,7 @@ Not true about diphtheria vaccine?
 
 <details><summary>Answer</summary>
 
-**D. all of these** — Source: Medicoholic 2016 PYQ compilation.
+**D. all of these** — **D. all of these** — All statements about diphtheria vaccine are true: it can be given as pentavalent vaccine, DPT is the childhood vaccine of choice, and the first dose is at 6 weeks; hence 'all of these' is the false answer option.
 
 </details>
 
@@ -6771,7 +6771,7 @@ Color of box containing drugs for treatment of category I of TB -
 
 <details><summary>Answer</summary>
 
-**A. Red** — Source: Medicoholic 2016 PYQ compilation.
+**A. Red** — **A. Red** — Under India's RNTCP/NTEP, Category I TB (new sputum-positive, seriously ill) drugs are packed in red boxes; Category II (retreatment) drugs are in blue boxes.
 
 </details>
 
@@ -6791,7 +6791,7 @@ Pulses are deficient in ?
 
 <details><summary>Answer</summary>
 
-**A. Methionirfe** — Source: Medicoholic 2016 PYQ compilation.
+**A. Methionirfe** — **A. Methionine** — Pulses (legumes) are deficient in sulfur-containing amino acids, particularly methionine and cysteine; cereals complement this deficiency, making cereal-pulse combinations nutritionally complete.
 
 </details>
 
@@ -6811,7 +6811,7 @@ Daily iron requirement in healthy Indian male is-
 
 <details><summary>Answer</summary>
 
-**B. 17 mg** — Source: Medicoholic 2016 PYQ compilation.
+**B. 17 mg** — **B. 17 mg** — ICMR recommends 17 mg/day dietary iron for healthy Indian adult males; requirements are higher for women (21 mg) and pregnant women (35 mg) due to menstrual losses and fetal demand.
 
 </details>
 
@@ -6831,7 +6831,7 @@ Which of the following defines movement across scioeconomic status.
 
 <details><summary>Answer</summary>
 
-**C. Social mobility** — Source: Medicoholic 2016 PYQ compilation.
+**C. Social mobility** — **C. Social mobility** — Social mobility refers to movement of individuals or groups between different socioeconomic positions (vertical mobility = up/down; horizontal = same level); it reflects societal openness.
 
 </details>
 
@@ -6851,7 +6851,7 @@ All are non-parametric tests except -
 
 <details><summary>Answer</summary>
 
-**D. Student t-test** — Source: Medicoholic 2016 PYQ compilation.
+**D. Student t-test** — **D. Student t-test** — Student's t-test is a parametric test requiring normally distributed data; chi-square, Fisher's exact, sign test, Mann-Whitney, and Wilcoxon are non-parametric (distribution-free) tests.
 
 </details>
 
@@ -6871,7 +6871,7 @@ True about NPCDCS is all, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**C. CHC has facilities for diagnosis and treatment of CVD, Diabetes** — Source: Medicoholic 2016 PYQ compilation.
+**C. CHC has facilities for diagnosis and treatment of CVD, Diabetes** — **C. CHC has facilities for diagnosis and treatment of CVD, Diabetes** — Under NPCDCS, District Hospitals have diagnosis/treatment facilities; CHCs provide screening and basic management, not full diagnostic facilities for NCDs.
 
 </details>
 
@@ -6891,7 +6891,7 @@ Colored kit for STD treatment is which type of approach?
 
 <details><summary>Answer</summary>
 
-**C. Syndromic** — Source: Medicoholic 2016 PYQ compilation.
+**C. Syndromic** — **C. Syndromic** — Colored STD kits (NACO) treat based on symptom clusters (syndromes like urethral discharge, genital ulcer) without awaiting lab diagnosis; this syndromic management improves treatment coverage.
 
 </details>
 
@@ -6911,7 +6911,7 @@ PERT is which type of management technique?
 
 <details><summary>Answer</summary>
 
-**C. Quantitative** — Source: Medicoholic 2016 PYQ compilation.
+**C. Quantitative** — **C. Quantitative** — PERT (Program Evaluation Review Technique) is a quantitative management/planning tool using probabilistic time estimates for project scheduling; it is an operations research/mathematical technique.
 
 </details>
 
@@ -6931,7 +6931,7 @@ Tensor tympani is attached at ?
 
 <details><summary>Answer</summary>
 
-**A. Malleus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Malleus** — **A. Malleus** — Tensor tympani attaches to the handle (manubrium) of the malleus; it tenses the tympanic membrane by pulling it medially, innervated by the medial pterygoid nerve (V3).
 
 </details>
 
@@ -6951,7 +6951,7 @@ First line treatment for mild retraction pocket in the ear is
 
 <details><summary>Answer</summary>
 
-**B. Antibiotics** — Source: Medicoholic 2016 PYQ compilation.
+**B. Antibiotics** — **B. Antibiotics** — Mild attic retraction pockets result from Eustachian tube dysfunction and negative middle ear pressure; antibiotics treating recurrent OM and nasal decongestants are first-line before surgical intervention.
 
 </details>
 

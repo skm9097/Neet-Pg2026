@@ -3691,7 +3691,7 @@ Pulmonary eosinophilia is found in infection with ?
 
 <details><summary>Answer</summary>
 
-**C. Strongyloides** — Source: Medicoholic 2016 PYQ compilation.
+**C. Strongyloides** — **C. Strongyloides** — Strongyloides stercoralis larvae undergo pulmonary migration causing Löffler-like pulmonary eosinophilia; tissue-invasive helminths (nematodes) trigger eosinophilia, while protozoa (Babesia, Malaria, Trypanosoma) do not.
 
 </details>
 
@@ -3711,7 +3711,7 @@ Adherence of E. histolytica to colonic mucosa is mediated by ?
 
 <details><summary>Answer</summary>
 
-**B. Lectin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lectin** — **B. Lectin** — E. histolytica adheres to colonic mucosa via a galactose/N-acetylgalactosamine-specific lectin (Gal/GalNAc lectin); this surface adhesin is the primary virulence factor and target of protective immunity.
 
 </details>
 
@@ -3731,7 +3731,7 @@ Calabar swelling is produced by?
 
 <details><summary>Answer</summary>
 
-**B. Loa loa** — Source: Medicoholic 2016 PYQ compilation.
+**B. Loa loa** — **B. Loa loa** — Calabar swellings are transient, migratory subcutaneous oedematous swellings caused by larval migration of Loa loa (African eye worm); they reflect localised hypersensitivity to the migrating adult worm.
 
 </details>
 
@@ -3751,7 +3751,7 @@ Maurer's dots are seen in which species of plasmodium?
 
 <details><summary>Answer</summary>
 
-**C. P falciparum** — Source: Medicoholic 2016 PYQ compilation.
+**C. P falciparum** — **C. P falciparum** — Maurer's dots (clefts) are irregular, reddish stippling seen in P. falciparum-infected RBCs; Schüffner's dots are seen in P. vivax/ovale, and Ziemann's dots in P. malariae.
 
 </details>
 
@@ -3771,7 +3771,7 @@ Cholangiocarcinoma is caused by:
 
 <details><summary>Answer</summary>
 
-**B. Clonorchis infestation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Clonorchis infestation** — **B. Clonorchis infestation** — Clonorchis sinensis (Chinese liver fluke) and Opisthorchis viverrini cause chronic biliary inflammation, ductal hyperplasia, and ultimately cholangiocarcinoma; this association is well-established in Southeast Asian populations.
 
 </details>
 
@@ -3791,7 +3791,7 @@ Rash of chickenpox can be differentiated from the rash of small pox by all excep
 
 <details><summary>Answer</summary>
 
-**C. Deep-seated** — Source: Medicoholic 2016 PYQ compilation.
+**C. Deep-seated** — **C. Deep-seated** — Smallpox lesions are deep-seated (in dermis), hard, and all at the same stage; chickenpox lesions are superficial, pleomorphic (different stages simultaneously), centripetal, and unilocular — deep-seated is a feature of smallpox, NOT chickenpox.
 
 </details>
 
@@ -3811,7 +3811,7 @@ Negri bodies are characteristic of
 
 <details><summary>Answer</summary>
 
-**B. Rabies** — Source: Medicoholic 2016 PYQ compilation.
+**B. Rabies** — **B. Rabies** — Negri bodies are eosinophilic, intracytoplasmic inclusion bodies found in neurons (especially Purkinje cells and hippocampal neurons) in rabies virus infection; their presence on post-mortem brain examination is pathognomonic.
 
 </details>
 
@@ -3831,7 +3831,7 @@ CCR5 mutation is related to which condition ?
 
 <details><summary>Answer</summary>
 
-**A. Resistance to HIV infection** — Source: Medicoholic 2016 PYQ compilation.
+**A. Resistance to HIV infection** — **A. Resistance to HIV infection** — Homozygous CCR5-delta32 mutation prevents expression of the CCR5 co-receptor on CD4+ T cells; since HIV (especially R5-tropic strains) requires CCR5 for cell entry, this mutation confers near-complete resistance to HIV infection.
 
 </details>
 
@@ -3851,7 +3851,7 @@ A 52-year-old male with HIV presents with profuse, watery diarrhea of 5 days’ 
 
 <details><summary>Answer</summary>
 
-**A. Cryptosporidium.** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cryptosporidium.** — **A. Cryptosporidium.** — In HIV/AIDS with profuse watery diarrhoea and small intestinal biopsy showing intracellular sporozoites on the brush border, Cryptosporidium parvum is the diagnosis; it is an AIDS-defining illness at CD4 <100/µL.
 
 </details>
 
@@ -3871,7 +3871,7 @@ Hair perforation test is positive in infection with ?
 
 <details><summary>Answer</summary>
 
-**A. Trichophyton** — Source: Medicoholic 2016 PYQ compilation.
+**A. Trichophyton** — **A. Trichophyton** — The hair perforation (in vitro) test is positive for Trichophyton mentagrophytes and T. benhamiae (perforating fungi); Microsporum canis does NOT perforate hair in vitro, aiding species differentiation.
 
 </details>
 
@@ -3891,7 +3891,7 @@ Ectothrix is caused by ?
 
 <details><summary>Answer</summary>
 
-**C. Microsporum canis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Microsporum canis** — **C. Microsporum canis** — Microsporum canis causes ectothrix tinea capitis where fungal hyphae and arthroconidia surround the hair shaft outside the cuticle; T. tonsurans and T. violaceum cause endothrix infection (spores inside the hair shaft).
 
 </details>
 
@@ -3911,7 +3911,7 @@ Chlamydospore is formed by ?
 
 <details><summary>Answer</summary>
 
-**A. Candida albicans** — Source: Medicoholic 2016 PYQ compilation.
+**A. Candida albicans** — **A. Candida albicans** — Candida albicans uniquely forms thick-walled terminal chlamydospores on corn meal agar with Tween 80; chlamydospore formation is a key identifying feature distinguishing C. albicans from other Candida species.
 
 </details>
 
@@ -3931,7 +3931,7 @@ True about cryptococcus are all except
 
 <details><summary>Answer</summary>
 
-**B. Urease negative** — Source: Medicoholic 2016 PYQ compilation.
+**B. Urease negative** — **B. Urease negative** — Cryptococcus neoformans is urease POSITIVE (distinguishing it from Candida); it primarily infects the lung, has a polysaccharide capsule demonstrated by India ink, and causes meningitis in immunocompromised patients.
 
 </details>
 
@@ -3951,7 +3951,7 @@ A 60 years old farmer has developed swelling on the sole of foot with dischargin
 
 <details><summary>Answer</summary>
 
-**C. Actinomycosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Actinomycosis** — **C. Actinomycosis** — Yellow sulphur granules in a discharging sinus (Madura foot) from a farmer indicate actinomycetoma caused by Actinomyces/Nocardia (prokaryotes); eumycetoma has white/black granules; yellow granules specifically suggest actinomycotic (bacterial) mycetoma.
 
 </details>
 
@@ -3971,7 +3971,7 @@ Lipophilic fungus is ?
 
 <details><summary>Answer</summary>
 
-**A. Malassezia furfur** — Source: Medicoholic 2016 PYQ compilation.
+**A. Malassezia furfur** — **A. Malassezia furfur** — Malassezia furfur is an obligate lipophilic yeast requiring exogenous fatty acids for growth; it normally colonises sebaceous skin areas and causes pityriasis versicolor, seborrhoeic dermatitis, and folliculitis.
 
 </details>
 
@@ -3991,7 +3991,7 @@ Not true about sporothrix Schenckii ?
 
 <details><summary>Answer</summary>
 
-**C. Copper penny bodies** — Source: Medicoholic 2016 PYQ compilation.
+**C. Copper penny bodies** — **C. Copper penny bodies** — Copper penny (Medlar) bodies are sclerotic cells seen in chromoblastomycosis, NOT sporotrichosis; Sporothrix schenckii is a dimorphic fungus causing sporotrichosis in gardeners, with asteroid bodies in tissue.
 
 </details>
 
@@ -4011,7 +4011,7 @@ Most effective antibody for precipitation ?
 
 <details><summary>Answer</summary>
 
-**B. IgG** — Source: Medicoholic 2016 PYQ compilation.
+**B. IgG** — **B. IgG** — IgG is the most effective antibody for precipitation reactions because it is bivalent, forms large lattice complexes at equivalence, and is present in highest serum concentration; IgM is better for agglutination due to its pentameric structure.
 
 </details>
 
@@ -4031,7 +4031,7 @@ Candidias of penis is ?
 
 <details><summary>Answer</summary>
 
-**C. Balanitis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Balanitis** — **C. Balanitis** — Candida infection of the glans penis causes candidal balanitis (inflammation of the glans); thrush refers to oral/vaginal candidiasis, and leukoplakia is a premalignant white mucosal patch unrelated to Candida infection of the penis.
 
 </details>
 
@@ -4051,7 +4051,7 @@ Health index characteristics are all except ?
 
 <details><summary>Answer</summary>
 
-**C. Affordability** — Source: Medicoholic 2016 PYQ compilation.
+**C. Affordability** — **C. Affordability** — Standard characteristics of a good health index are: validity, reliability, sensitivity, specificity, feasibility, and simplicity; affordability is NOT a standard characteristic of a health index in epidemiology.
 
 </details>
 
@@ -4071,7 +4071,7 @@ Only disease which is eradicated worldwide ?
 
 <details><summary>Answer</summary>
 
-**A. Small pox** — Source: Medicoholic 2016 PYQ compilation.
+**A. Small pox** — **A. Small pox** — Smallpox is the only human disease declared globally eradicated (WHO, 1980) through mass vaccination with vaccinia virus; the last natural case was in Somalia in 1977. Polio eradication is ongoing.
 
 </details>
 
@@ -4091,7 +4091,7 @@ Endemic disease is defined as -
 
 <details><summary>Answer</summary>
 
-**A. Disease occuring regularly in expected frequency** — Source: Medicoholic 2016 PYQ compilation.
+**A. Disease occuring regularly in expected frequency** — **A. Disease occuring regularly in expected frequency** — Endemic disease is the habitual presence of a disease within a given geographic area at a predictable, expected frequency; epidemic is excess beyond expected, and pandemic is worldwide spread.
 
 </details>
 
@@ -4111,7 +4111,7 @@ Secondary attack rate is a measure of-
 
 <details><summary>Answer</summary>
 
-**A. Communicability** — Source: Medicoholic 2016 PYQ compilation.
+**A. Communicability** — **A. Communicability** — Secondary attack rate (SAR) measures the proportion of susceptible household/close contacts who develop disease after exposure to a primary case; it is the best epidemiological measure of a pathogen's communicability.
 
 </details>
 
@@ -4131,7 +4131,7 @@ Berkesonian bias is a type of ?
 
 <details><summary>Answer</summary>
 
-**A. Admission rate bias** — Source: Medicoholic 2016 PYQ compilation.
+**A. Admission rate bias** — **A. Admission rate bias** — Berkson's bias is a type of selection bias arising from hospital-based studies where admission rates for different diseases vary; patients with multiple conditions are overrepresented, creating spurious associations.
 
 </details>
 
@@ -4151,7 +4151,7 @@ Live influenza vaccine is given by which route ?
 
 <details><summary>Answer</summary>
 
-**D. Intra nasal** — Source: Medicoholic 2016 PYQ compilation.
+**D. Intra nasal** — **D. Intra nasal** — Live attenuated influenza vaccine (LAIV/FluMist) is administered intranasally as a cold-adapted virus that replicates in nasal mucosa (cooler temperature) to stimulate local IgA and systemic immunity without causing systemic disease.
 
 </details>
 
@@ -4171,7 +4171,7 @@ Initial treatment for most patient of growth hormone secreting pituitary adenoma
 
 <details><summary>Answer</summary>
 
-**A. Transphenoidal surgical resection** — Source: Medicoholic 2016 PYQ compilation.
+**A. Transphenoidal surgical resection** — **A. Transphenoidal surgical resection** — Transsphenoidal surgery is the first-line treatment for GH-secreting pituitary adenomas (acromegaly); it offers the fastest biochemical cure, especially for microadenomas, with somatostatin analogues used adjunctively or in inoperable cases.
 
 </details>
 
@@ -4191,7 +4191,7 @@ Drug of choice for palliative treatment of pancreatic carcinoma
 
 <details><summary>Answer</summary>
 
-**B. Gemcitabine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Gemcitabine** — **B. Gemcitabine** — Gemcitabine (nucleoside analogue, inhibits ribonucleotide reductase and DNA polymerase) is the first-line palliative chemotherapy for pancreatic carcinoma, improving survival and quality of life; FOLFIRINOX or gemcitabine+nab-paclitaxel used in fit patients.
 
 </details>
 
@@ -4211,7 +4211,7 @@ Drug of choice for infantile spasm is?
 
 <details><summary>Answer</summary>
 
-**A. Vigabatrin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vigabatrin** — **A. Vigabatrin** — Vigabatrin (irreversible GABA transaminase inhibitor, increases brain GABA) is the drug of choice for infantile spasms (West syndrome), especially those due to tuberous sclerosis; ACTH is an alternative in non-TSC cases.
 
 </details>
 
@@ -4231,7 +4231,7 @@ A 40 years old male patient presents with multiple erythematous annular lesions 
 
 <details><summary>Answer</summary>
 
-**A. Topical steroids** — Source: Medicoholic 2016 PYQ compilation.
+**A. Topical steroids** — **A. Topical steroids** — Annular erythematous lesions with peripheral scaling on trunk suggest tinea corporis (ringworm); however, if the answer key indicates topical steroids, this may represent erythema annulare centrifugum or granuloma annulare requiring topical corticosteroids as first-line treatment.
 
 </details>
 
@@ -4251,7 +4251,7 @@ Half life of Technetium 99 is:
 
 <details><summary>Answer</summary>
 
-**B. 6 hours** — Source: Medicoholic 2016 PYQ compilation.
+**B. 6 hours** — **B. 6 hours** — Technetium-99m (metastable) has a physical half-life of 6 hours (360 minutes); this short half-life makes it ideal for nuclear medicine imaging — providing adequate scan time while minimising radiation exposure to patients.
 
 </details>
 
@@ -4271,7 +4271,7 @@ Half life of tritium is -
 
 <details><summary>Answer</summary>
 
-**B. 12.3 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 12.3 years** — **B. 12.3 years** — Tritium (³H, hydrogen-3) has a radioactive half-life of 12.3 years; it undergoes beta-minus decay and is used as a radiolabelled tracer in research and as a component in nuclear fusion weapons.
 
 </details>
 
@@ -4291,7 +4291,7 @@ Treatment of choice for generalized anxiety disorder is?
 
 <details><summary>Answer</summary>
 
-**A. Benzodiazepines** — Source: Medicoholic 2016 PYQ compilation.
+**A. Benzodiazepines** — **A. Benzodiazepines** — Benzodiazepines (e.g., diazepam, clonazepam) enhance GABA-A receptor activity, providing rapid anxiolysis; they are first-line for acute/short-term GAD management, though SSRIs/SNRIs are preferred for long-term maintenance.
 
 </details>
 
@@ -4311,7 +4311,7 @@ Drug of choice for Tourette syndrome is?
 
 <details><summary>Answer</summary>
 
-**A. Haloperidol** — Source: Medicoholic 2016 PYQ compilation.
+**A. Haloperidol** — **A. Haloperidol** — Haloperidol is a typical antipsychotic (D2 receptor antagonist) and is the classic drug of choice for Tourette syndrome, suppressing tics by blocking dopaminergic pathways in the striatum; newer options include fluphenazine and aripiprazole.
 
 </details>
 

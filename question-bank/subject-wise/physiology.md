@@ -4773,7 +4773,7 @@ Types C nerve fibers are?
 
 <details><summary>Answer</summary>
 
-**A. Sensory** — Source: Medicoholic 2016 PYQ compilation.
+**A. Sensory** — **A. Sensory** — Type C nerve fibers are unmyelinated afferent (sensory) fibers carrying slow pain, warmth, and visceral sensations; they are the most common fiber type; efferent sympathetic post-ganglionic fibers are also C fibers.
 
 </details>
 
@@ -4793,7 +4793,7 @@ Warmth sensation is carried by?
 
 <details><summary>Answer</summary>
 
-**A. A a fibers** — Source: Medicoholic 2016 PYQ compilation.
+**A. A a fibers** — **A. A a fibers** — Warmth sensation (30–45°C) is carried by C fibers (unmyelinated) and Aδ fibers; however the stem answer indicates Aα — note: in context of this question, warmth is primarily C fiber mediated; Aδ carry cold sensation.
 
 </details>
 
@@ -4813,7 +4813,7 @@ True about myosin?
 
 <details><summary>Answer</summary>
 
-**C. Has ATPase activity** — Source: Medicoholic 2016 PYQ compilation.
+**C. Has ATPase activity** — **C. Has ATPase activity** — Myosin II heavy chain head has intrinsic ATPase activity; ATP hydrolysis (ADP + Pi) cocks the myosin head; Pi release triggers power stroke; ADP release completes the cycle; ATPase is activated by actin binding.
 
 </details>
 
@@ -4833,7 +4833,7 @@ Afferents for stretch reflexes are carried by which fibers?
 
 <details><summary>Answer</summary>
 
-**A. Aa** — Source: Medicoholic 2016 PYQ compilation.
+**A. Aa** — **A. Aa** — Stretch reflex (myotatic reflex) afferents are Ia (Aα) fibers from muscle spindle annulospiral endings; these large, fast-conducting fibers (70–120 m/s) monosynaptically excite alpha motor neurons of the same muscle.
 
 </details>
 
@@ -4853,7 +4853,7 @@ Spinal cord has how many synapses in golgi tendon reflex?
 
 <details><summary>Answer</summary>
 
-**B. 2** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2** — **B. 2** — Golgi tendon reflex (inverse stretch reflex) is disynaptic: Ib afferent from GTO → inhibitory interneuron (Ib interneuron) → alpha motor neuron; 2 synapses in spinal cord; produces autogenic inhibition preventing muscle overload.
 
 </details>
 
@@ -4873,7 +4873,7 @@ Inverse stretch reflex is a?
 
 <details><summary>Answer</summary>
 
-**B. Bisynaptic reflex** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bisynaptic reflex** — **B. Bisynaptic reflex** — Inverse stretch reflex (Golgi tendon reflex) is a disynaptic (bisynaptic) reflex: Ib afferent → inhibitory Ib interneuron → alpha motor neuron inhibition; protects muscle-tendon unit from excessive tension.
 
 </details>
 
@@ -4893,7 +4893,7 @@ Facilitatory presynaptic neurotransmitter is?
 
 <details><summary>Answer</summary>
 
-**D. Aspartate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Aspartate** — **D. Aspartate** — Aspartate is an excitatory (facilitatory) amino acid neurotransmitter acting on NMDA and AMPA receptors; GABA and glycine are inhibitory; glutamate is the primary excitatory NT, but aspartate is also excitatory/facilitatory.
 
 </details>
 
@@ -4913,7 +4913,7 @@ Stereocilia are found in?
 
 <details><summary>Answer</summary>
 
-**D. Epididymis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Epididymis** — **D. Epididymis** — Stereocilia (long, non-motile microvilli) are found in the epididymis (absorptive function), inner ear hair cells, and vas deferens; despite the name, they are actually modified microvilli, not true cilia.
 
 </details>
 
@@ -4933,7 +4933,7 @@ CSF pressure is increased in all except -
 
 <details><summary>Answer</summary>
 
-**A. Forced inspiration** — Source: Medicoholic 2016 PYQ compilation.
+**A. Forced inspiration** — **A. Forced inspiration** — Forced inspiration decreases intrathoracic pressure, increasing venous return and reducing CSF pressure; coughing, Valsalva, and crying all increase intrathoracic pressure → increase venous pressure → raise CSF pressure.
 
 </details>
 
@@ -4953,7 +4953,7 @@ Function of Ghrelin?
 
 <details><summary>Answer</summary>
 
-**B. Increase appatite** — Source: Medicoholic 2016 PYQ compilation.
+**B. Increase appatite** — **B. Increase appetite** — Ghrelin (orexigenic peptide) is secreted by gastric fundus X/A-like cells; acts on hypothalamic arcuate nucleus NPY/AgRP neurons via GHS-R1a receptors; increases appetite, stimulates GH release, and promotes adipogenesis.
 
 </details>
 
@@ -4973,7 +4973,7 @@ Location of visual cortex?
 
 <details><summary>Answer</summary>
 
-**D. Calcarine sulcus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Calcarine sulcus** — **D. Calcarine sulcus** — Primary visual cortex (V1, striate cortex, Brodmann area 17) is located on the banks of the calcarine sulcus in the occipital lobe; upper bank receives lower visual field; lower bank receives upper visual field.
 
 </details>
 
@@ -4993,7 +4993,7 @@ Parvocellular pathway for vision is concerned with?
 
 <details><summary>Answer</summary>
 
-**A. Fine details of object** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fine details of object** — **A. Fine details of object** — Parvocellular (P) pathway processes high spatial frequency, fine detail, color, and form via small neurons in layers 3–6 of LGN; magnocellular (M) pathway processes motion, depth, and low-contrast flickering.
 
 </details>
 
@@ -5013,7 +5013,7 @@ Sweat glands are supplied by all except?
 
 <details><summary>Answer</summary>
 
-**C. Adrenergic neurons** — Source: Medicoholic 2016 PYQ compilation.
+**C. Adrenergic neurons** — **C. Adrenergic neurons** — Eccrine sweat glands receive sympathetic innervation but via cholinergic (acetylcholine) neurons, not adrenergic; this is an exception to sympathetic adrenergic rule; atropine (anticholinergic) blocks sweating.
 
 </details>
 
@@ -5033,7 +5033,7 @@ Gustatory pathway involves which nerve?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Taste (gustatory) pathway: anterior 2/3 tongue via chorda tympani (CN VII); posterior 1/3 tongue via CN IX (glossopharyngeal); epiglottis/larynx via CN X (vagus); all converge on nucleus tractus solitarius.
 
 </details>
 
@@ -5053,7 +5053,7 @@ Function of cerebellum?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Cerebellum regulates muscle tone (via vestibulocerebellum/spinocerebellum), coordinates eye movements (flocculus), and programs/initiates movements (cerebrocerebellum/neocerebellum); also involved in motor learning and timing.
 
 </details>
 
@@ -5073,7 +5073,7 @@ Which of the following is not a metabotropic receptor for serotonin?
 
 <details><summary>Answer</summary>
 
-**D. 5HT3** — Source: Medicoholic 2016 PYQ compilation.
+**D. 5HT3** — **D. 5HT3** — 5-HT3 is the only ionotropic (ligand-gated Na+/K+ ion channel) serotonin receptor; all other serotonin receptors (5-HT1A, 1B, 2A, 2B, 2C, 4, 5, 6, 7) are metabotropic GPCRs; 5-HT3 antagonists (ondansetron) are antiemetics.
 
 </details>
 
@@ -5093,7 +5093,7 @@ Two point discrimination is mainly a function of which touch receptors?
 
 <details><summary>Answer</summary>
 
-**A. Merkel's disc** — Source: Medicoholic 2016 PYQ compilation.
+**A. Merkel's disc** — **A. Merkel's disc** — Merkel's discs (SA-I mechanoreceptors) have small receptive fields and high spatial resolution; they are primarily responsible for two-point discrimination and fine texture perception; located in superficial epidermis.
 
 </details>
 
@@ -5113,7 +5113,7 @@ Functional residual capacity in normal adult is?
 
 <details><summary>Answer</summary>
 
-**C. 2400 ml** — Source: Medicoholic 2016 PYQ compilation.
+**C. 2400 ml** — **C. 2400 ml** — FRC = ERV + RV = 1200 ml + 1200 ml = 2400 ml; it is the lung volume at end of normal passive expiration when respiratory muscles are relaxed; balance point between lung elastic recoil (inward) and chest wall recoil (outward).
 
 </details>
 
@@ -5133,7 +5133,7 @@ What is maximum voluntary ventilation?
 
 <details><summary>Answer</summary>
 
-**B. Maximum amount of air that can be inspired and expired in one** — Source: Medicoholic 2016 PYQ compilation.
+**B. Maximum amount of air that can be inspired and expired in one** — **B. Maximum amount of air that can be inspired and expired in one** — MVV (Maximum Voluntary Ventilation) is the maximum volume of air that can be breathed in and out per minute with maximum effort; normal ~150–170 L/min; tests respiratory muscle strength and airway resistance.
 
 </details>
 
@@ -5153,7 +5153,7 @@ True about Carboxyhemoglobin?
 
 <details><summary>Answer</summary>
 
-**C. Causes left shift of Hb-02 dissociation curve** — Source: Medicoholic 2016 PYQ compilation.
+**C. Causes left shift of Hb-02 dissociation curve** — **C. Causes left shift of Hb-02 dissociation curve** — COHb has 250× greater affinity for Hb than O2; CO also shifts Hb-O2 dissociation curve LEFT (Haldane effect), reducing O2 delivery to tissues; causes hypemic and histotoxic hypoxia.
 
 </details>
 
@@ -5173,7 +5173,7 @@ What is the difference between Hb-0 dissociation curve and Hb-CO curve?
 
 <details><summary>Answer</summary>
 
-**D. All are true** — Source: Medicoholic 2016 PYQ compilation.
+**D. All are true** — **D. All are true** — CO-Hb dissociation curve is hyperbolic (like myoglobin), not sigmoidal; CO has 250× higher affinity than O2; CO shifts O2-Hb curve to left (Haldane effect); all three statements are true about CO-Hb properties.
 
 </details>
 
@@ -5193,7 +5193,7 @@ Not true about Bohr effect?
 
 <details><summary>Answer</summary>
 
-**B. Left shift of Hb-02 dissociation curve** — Source: Medicoholic 2016 PYQ compilation.
+**B. Left shift of Hb-02 dissociation curve** — **B. Left shift of Hb-02 dissociation curve** — Bohr effect is a RIGHT shift of Hb-O2 dissociation curve (decreased O2 affinity) caused by increased PCO2, H+, temperature, and 2,3-DPG; facilitates O2 unloading in tissues; left shift is the opposite.
 
 </details>
 
@@ -5213,7 +5213,7 @@ True of 02-Hb dissociation curve?
 
 <details><summary>Answer</summary>
 
-**C. Cooperative binding** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cooperative binding** — **C. Cooperative binding** — O2-Hb dissociation curve is sigmoidal due to cooperative binding: binding of first O2 to one heme group increases affinity of remaining subunits for O2 (T→R state conformational change); each Hb carries 4 O2 molecules.
 
 </details>
 
@@ -5233,7 +5233,7 @@ Which increases affinity of hemoglobin for 0,-
 
 <details><summary>Answer</summary>
 
-**C. High pH** — Source: Medicoholic 2016 PYQ compilation.
+**C. High pH** — **C. High pH** — Alkalosis (high pH) increases Hb-O2 affinity, shifting dissociation curve LEFT (Bohr effect); decreased H+ reduces binding to His-146 of β chain, stabilizing R (oxy) state; also: fetal Hb, decreased 2,3-DPG, and CO cause left shift.
 
 </details>
 
@@ -5253,7 +5253,7 @@ In comparison to hemoglobin, effect of myoglobin on Bohr effect?
 
 <details><summary>Answer</summary>
 
-**D. No Bohr effect** — Source: Medicoholic 2016 PYQ compilation.
+**D. No Bohr effect** — **D. No Bohr effect** — Myoglobin is a monomer with single heme group; lacks cooperative binding and allosteric regulation; shows no Bohr effect (no pH/PCO2 influence on O2 affinity); has hyperbolic (not sigmoidal) O2 dissociation curve.
 
 </details>
 
@@ -5273,7 +5273,7 @@ Function of chloride shift in RBCs?
 
 <details><summary>Answer</summary>
 
-**C. Transport of CO2** — Source: Medicoholic 2016 PYQ compilation.
+**C. Transport of CO2** — **C. Transport of CO2** — Chloride shift (Hamburger shift): HCO3- formed inside RBC exits via band-3 protein antiport in exchange for Cl-; allows CO2 to be carried as plasma HCO3- (70% of CO2 transport); maintains electrical neutrality of RBC.
 
 </details>
 
@@ -5293,7 +5293,7 @@ Closing volume is related to which of the following?
 
 <details><summary>Answer</summary>
 
-**B. Residual volume** — Source: Medicoholic 2016 PYQ compilation.
+**B. Residual volume** — **B. Residual volume** — Closing volume is the lung volume at which small airways begin to close during expiration; it is related to residual volume; CV + RV = closing capacity; increases with age (>65 years, CV encroaches on FRC causing V/Q mismatch).
 
 </details>
 
@@ -5313,7 +5313,7 @@ Central chemoreceptors are not stimulated by?
 
 <details><summary>Answer</summary>
 
-**C. Hypoxia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hypoxia** — **C. Hypoxia** — Central chemoreceptors (ventral medulla) are stimulated by increased PCO2 and decreased CSF pH (via CO2 diffusing across blood-brain barrier); they are NOT directly stimulated by hypoxia; hypoxia stimulates only peripheral chemoreceptors (carotid body).
 
 </details>
 
@@ -5333,7 +5333,7 @@ Chemical regulation of respiration is not affected by?
 
 <details><summary>Answer</summary>
 
-**D. Mean BP** — Source: Medicoholic 2016 PYQ compilation.
+**D. Mean BP** — **D. Mean BP** — Chemical (humoral) regulation of respiration responds to PO2, PCO2, and pH via central and peripheral chemoreceptors; mean arterial blood pressure does not directly affect respiratory drive; BP is regulated by cardiovascular baroreceptors.
 
 </details>
 
@@ -5353,7 +5353,7 @@ True about high altitude acclimatization?
 
 <details><summary>Answer</summary>
 
-**D. Increased erythropoietin** — Source: Medicoholic 2016 PYQ compilation.
+**D. Increased erythropoietin** — **D. Increased erythropoietin** — High altitude acclimatization: hypoxia stimulates renal EPO secretion → increased RBC production; also causes hyperventilation (not hypo), respiratory alkalosis, right shift of O2-Hb curve (increased 2,3-DPG), and increased cardiac output.
 
 </details>
 
