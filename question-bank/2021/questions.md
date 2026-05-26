@@ -358,7 +358,7 @@ Healthy umbilical cord components?
 
 <details><summary>Answer</summary>
 
-**A. 2 arteries and 1 vein** — Source: DocTutorials NEET-PG 2021 recall.
+**A. 2 arteries and 1 vein** — **A. 2 arteries and 1 vein** — Normal umbilical cord contains two umbilical arteries (carrying deoxygenated blood) and one umbilical vein (carrying oxygenated blood) embedded in Wharton's jelly.
 
 </details>
 
@@ -374,7 +374,7 @@ Long head triceps avulsion site?
 
 <details><summary>Answer</summary>
 
-**C. Infraglenoid tubercle** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Infraglenoid tubercle** — **C. Infraglenoid tubercle** — The long head of triceps brachii originates from the infraglenoid tubercle of the scapula, just below the glenoid fossa.
 
 </details>
 
@@ -390,7 +390,7 @@ Epistaxis management — artery for ligation?
 
 <details><summary>Answer</summary>
 
-**C. Sphenopalatine artery** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Sphenopalatine artery** — **C. Sphenopalatine artery** — The sphenopalatine artery (terminal branch of maxillary artery) supplies most of the posterior nasal cavity and is the preferred vessel for endoscopic ligation in refractory posterior epistaxis.
 
 </details>
 
@@ -406,7 +406,7 @@ Structure lacking which fiber component?
 
 <details><summary>Answer</summary>
 
-**D. GSE** — Source: DocTutorials NEET-PG 2021 recall.
+**D. GSE** — **D. GSE** — General Somatic Efferent (GSE) fibers supply striated muscles derived from somites; the vagus nerve lacks GSE but carries GVE, GVA, and GSA components.
 
 </details>
 
@@ -422,7 +422,7 @@ Foot eversion injury — affected ligament?
 
 <details><summary>Answer</summary>
 
-**B. Deltoid ligament** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Deltoid ligament** — **B. Deltoid ligament** — Forced eversion of the foot stresses the medial (deltoid) ligament complex; deltoid ligament injury occurs with eversion while lateral ligaments are injured with inversion.
 
 </details>
 
@@ -438,7 +438,7 @@ Structure behind epiploic foramen causing bleeding?
 
 <details><summary>Answer</summary>
 
-**C. IVC** — Source: DocTutorials NEET-PG 2021 recall.
+**C. IVC** — **C. IVC** — The inferior vena cava forms the posterior boundary of the epiploic (Winslow's) foramen; injury during surgery causes life-threatening retroperitoneal hemorrhage.
 
 </details>
 
@@ -454,7 +454,7 @@ Structure passing inferior to posterior belly of digastric?
 
 <details><summary>Answer</summary>
 
-**B. Hypoglossal nerve** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Hypoglossal nerve** — **B. Hypoglossal nerve** — The hypoglossal nerve (CN XII) passes inferior to the posterior belly of the digastric muscle as it courses anteriorly to supply intrinsic and extrinsic tongue muscles.
 
 </details>
 
@@ -470,7 +470,7 @@ Cancer near anus — involved lymph nodes?
 
 <details><summary>Answer</summary>
 
-**A. Superficial inguinal** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Superficial inguinal** — **A. Superficial inguinal** — Anal canal below the dentate line and perianal skin drain to superficial inguinal lymph nodes via cutaneous lymphatics, unlike the upper anal canal which drains to internal iliac nodes.
 
 </details>
 
@@ -486,7 +486,7 @@ Hand weakness/wasting affecting fine movements indicates impairment of?
 
 <details><summary>Answer</summary>
 
-**A. Anterior grey horn, cervical region** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Anterior grey horn, cervical region** — **A. Anterior grey horn, cervical region** — Lower motor neuron signs (wasting, fasciculations, flaccidity) with hand intrinsic muscle involvement indicate anterior horn cell disease at cervical levels (C8-T1).
 
 </details>
 
@@ -659,7 +659,7 @@ ORS facilitates glucose absorption through which transporter?
 
 <details><summary>Answer</summary>
 
-**C. PaO₂↓ causing vasodilation, transudation** — Source: DocTutorials NEET-PG 2021 recall.
+**C. PaO₂↓ causing vasodilation, transudation** — **C. PaO₂↓ causing vasodilation, transudation** — High-altitude cerebral edema results from hypoxia-induced cerebral vasodilation and increased vascular permeability, causing fluid transudation and raised ICP.
 
 </details>
 
@@ -675,7 +675,7 @@ Secondary amenorrhea, pituitary microadenoma, hyperprolactinemia — mechanism?
 
 <details><summary>Answer</summary>
 
-**B. Decreased hypothalamic GnRH** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Decreased hypothalamic GnRH** — **B. Decreased hypothalamic GnRH** — Hyperprolactinemia suppresses hypothalamic GnRH pulsatility, leading to reduced FSH/LH, anovulation, and secondary amenorrhea.
 
 </details>
 
@@ -920,7 +920,7 @@ Alpha-L-iduronidase deficiency — accumulated substance?
 
 <details><summary>Answer</summary>
 
-**A. Dermatan sulfate and heparan sulfate** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Dermatan sulfate and heparan sulfate** — **A. Dermatan sulfate and heparan sulfate** — Alpha-L-iduronidase deficiency (Hurler/Scheie syndrome, MPS I) causes accumulation of both dermatan sulfate and heparan sulfate in lysosomes.
 
 </details>
 
@@ -936,7 +936,7 @@ Multiple freckles, hyperpigmentation, basal cell carcinomas — defective repair
 
 <details><summary>Answer</summary>
 
-**B. Nucleotide excision repair** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Nucleotide excision repair** — **B. Nucleotide excision repair** — Xeroderma pigmentosum results from defective nucleotide excision repair of UV-induced pyrimidine dimers, causing extreme photosensitivity and multiple skin cancers.
 
 </details>
 
@@ -952,7 +952,7 @@ Oral lesions, respiratory infections, low B/T/NK cells, low adenosine deaminase?
 
 <details><summary>Answer</summary>
 
-**D. Severe combined immunodeficiency** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Severe combined immunodeficiency** — **D. Severe combined immunodeficiency** — ADA deficiency causes toxic deoxyadenosine accumulation in lymphocytes, destroying B, T, and NK cells, producing SCID with recurrent infections from birth.
 
 </details>
 
@@ -968,7 +968,7 @@ Frameshift mutation at position 4 in 900-nucleotide mRNA?
 
 <details><summary>Answer</summary>
 
-**C. Complete protein loss** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Complete protein loss** — **C. Complete protein loss** — A frameshift at position 4 (very near the start codon) disrupts the entire reading frame from the beginning, generating a premature stop codon and completely non-functional protein.
 
 </details>
 
@@ -984,7 +984,7 @@ Ileal resection with anemia, RBC 2.8M, serum iron 164 — likely diagnosis?
 
 <details><summary>Answer</summary>
 
-**B. Megaloblastic anemia** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Megaloblastic anemia** — **B. Megaloblastic anemia** — Terminal ileum resection causes vitamin B12 malabsorption (intrinsic factor complex absorption site), leading to megaloblastic anemia with normal/elevated serum iron.
 
 </details>
 
@@ -1000,7 +1000,7 @@ Large fluid volumes causing hyperchloremic metabolic acidosis?
 
 <details><summary>Answer</summary>
 
-**B. Normal saline** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Normal saline** — **B. Normal saline** — Normal saline (0.9% NaCl) contains 154 mEq/L chloride; large volumes cause dilutional hyperchloremic non-anion-gap metabolic acidosis by bicarbonate dilution and excess Cl⁻.
 
 </details>
 
@@ -1016,7 +1016,7 @@ Elevated phenylalanine, normal enzyme activity — deficient coenzyme?
 
 <details><summary>Answer</summary>
 
-**A. Biopterin** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Biopterin** — **A. Biopterin** — Tetrahydrobiopterin (BH4) is the essential cofactor for phenylalanine hydroxylase; BH4 deficiency causes hyperphenylalaninemia with normal PAH enzyme protein — a malignant PKU variant.
 
 </details>
 
@@ -1032,7 +1032,7 @@ Xanthoma, cholesterol 480, LDL 300, family history — hyperlipoproteinemia type
 
 <details><summary>Answer</summary>
 
-**B. Type IIa** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Type IIa** — **B. Type IIa** — Familial hypercholesterolemia (Type IIa) features markedly elevated LDL-C (isolated), tendinous xanthomas, corneal arcus, and strong family history due to LDL receptor defects.
 
 </details>
 
@@ -1048,7 +1048,7 @@ Fracture, perifollicular hemorrhages, lusterless hair — affected enzyme?
 
 <details><summary>Answer</summary>
 
-**A. Prolyl hydroxylase** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Prolyl hydroxylase** — **A. Prolyl hydroxylase** — Vitamin C is essential cofactor for prolyl hydroxylase in collagen synthesis; scurvy presents with perifollicular hemorrhages, corkscrew hairs, bone fragility, and impaired wound healing.
 
 </details>
 
@@ -1064,7 +1064,7 @@ Developmental delay, seizures, cherry-red spot, hexosaminidase A deficiency?
 
 <details><summary>Answer</summary>
 
-**B. GM2 ganglioside** — Source: DocTutorials NEET-PG 2021 recall.
+**B. GM2 ganglioside** — **B. GM2 ganglioside** — Hexosaminidase A deficiency (Tay-Sachs disease) causes GM2 ganglioside accumulation in neurons, producing progressive neurodegeneration, cherry-red macula, and early childhood death.
 
 </details>
 
@@ -1080,7 +1080,7 @@ Orange tonsils, cholesterol 80, triglycerides 146, HDL <5?
 
 <details><summary>Answer</summary>
 
-**B. Tangier disease** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Tangier disease** — **B. Tangier disease** — ABCA1 transporter mutation causes cholesterol efflux failure; hallmark is orange-yellow tonsils from cholesterol ester deposition, near-absent HDL, and very low total cholesterol.
 
 </details>
 
@@ -1096,7 +1096,7 @@ Ataxia, anemia, neuropathy with elevated homocysteine/methylmalonic acid?
 
 <details><summary>Answer</summary>
 
-**D. Methionine** — Source: DocTutorials NEET-PG 2021 recall.
+**D. Methionine** — **D. Methionine** — Vitamin B12 deficiency impairs methionine synthase and methylmalonyl-CoA mutase, elevating both homocysteine and methylmalonic acid; methionine synthesis is the relevant metabolic pathway.
 
 </details>
 
@@ -1112,7 +1112,7 @@ Heart failure, nystagmus, neuropathy without alcohol history — deficiency?
 
 <details><summary>Answer</summary>
 
-**A. Thiamine** — Source: DocTutorials NEET-PG 2021 recall.
+**A. Thiamine** — **A. Thiamine** — Thiamine (B1) deficiency causes wet beriberi (high-output cardiac failure), Wernicke's encephalopathy (nystagmus, ataxia), and peripheral neuropathy; can occur without alcoholism (e.g., dietary deficiency).
 
 </details>
 
@@ -1385,7 +1385,7 @@ Pedigree inheritance — mitochondrial — Kearns-Sayre syndrome?
 
 <details><summary>Answer</summary>
 
-**B. Kearns-Sayre syndrome** — Source: DocTutorials NEET-PG 2021 recall.
+**B. Kearns-Sayre syndrome** — **B. Kearns-Sayre syndrome** — Caused by large mitochondrial DNA deletions (mtDNA); shows maternal (mitochondrial) inheritance pattern with triad of progressive external ophthalmoplegia, pigmentary retinopathy, and cardiac conduction defects.
 
 </details>
 
@@ -1401,7 +1401,7 @@ Recurrent disseminated gonococcal infection — mechanism?
 
 <details><summary>Answer</summary>
 
-**C. Terminal complement deficiency** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Terminal complement deficiency** — **C. Terminal complement deficiency** — Deficiency of terminal complement components (C5-C9/MAC) impairs bactericidal killing of encapsulated gram-negative bacteria, predisposing to recurrent Neisseria (meningococcal/gonococcal) infections.
 
 </details>
 
@@ -1417,7 +1417,7 @@ Long limbs, ectopia lentis, arm span > height — gene defect?
 
 <details><summary>Answer</summary>
 
-**C. Fibrillin** — Source: DocTutorials NEET-PG 2021 recall.
+**C. Fibrillin** — **C. Fibrillin** — Marfan syndrome results from FBN1 (fibrillin-1) gene mutation; fibrillin-1 deficiency weakens elastic tissue microfibrils, causing tall stature, arachnodactyly, ectopia lentis, and aortic root dilation.
 
 </details>
 

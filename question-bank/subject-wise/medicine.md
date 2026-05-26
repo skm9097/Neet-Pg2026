@@ -5965,7 +5965,7 @@ A 3 months old child was started on supplemental foods alongwith breastmilk. The
 
 <details><summary>Answer</summary>
 
-**B. Aldolase B** — Source: Medicoholic 2016 PYQ compilation.
+**B. Aldolase B** — **B. Aldolase B** — Hereditary fructose intolerance is caused by aldolase B deficiency; fructose-1-phosphate accumulates in liver/intestine causing bloating, hypoglycaemia, and liver damage when fructose/sucrose is ingested.
 
 </details>
 
@@ -5985,7 +5985,7 @@ Earliest symptom of Tay sach disease
 
 <details><summary>Answer</summary>
 
-**A. Exaggerated startle response** — Source: Medicoholic 2016 PYQ compilation.
+**A. Exaggerated startle response** — **A. Exaggerated startle response** — The earliest sign of Tay-Sachs disease (GM2 gangliosidosis, hex-A deficiency) is hyperacusis with exaggerated startle to sound, appearing at 3–6 months before motor regression.
 
 </details>
 
@@ -6005,7 +6005,7 @@ All are true about sacrococcygeal teratoma except
 
 <details><summary>Answer</summary>
 
-**B. In most cases is not visible externally** — Source: Medicoholic 2016 PYQ compilation.
+**B. In most cases is not visible externally** — **B. In most cases is not visible externally** — Sacrococcygeal teratoma is externally visible in the majority (>75%) of cases; it is the most common neonatal tumour and most are visible as sacral masses at birth.
 
 </details>
 
@@ -6025,7 +6025,7 @@ Most common sign of LRTI [Lower respiratory tract infection] in children is
 
 <details><summary>Answer</summary>
 
-**B. Tachypnea** — Source: Medicoholic 2016 PYQ compilation.
+**B. Tachypnea** — **B. Tachypnea** — WHO/IMCI criteria: tachypnoea is the earliest and most sensitive sign of LRTI/pneumonia in children; chest indrawing indicates severe disease, while tachypnoea alone indicates non-severe pneumonia.
 
 </details>
 
@@ -6045,7 +6045,7 @@ Which of the following is not a sign of severe dehydration?
 
 <details><summary>Answer</summary>
 
-**C. Increased thirst** — Source: Medicoholic 2016 PYQ compilation.
+**C. Increased thirst** — **C. Increased thirst** — Increased thirst is a feature of mild-moderate dehydration (<5–9% fluid deficit); severe dehydration presents with lethargy, sunken eyes, absent tears, delayed capillary refill, and anuria.
 
 </details>
 
@@ -6065,7 +6065,7 @@ What is the grade of dehydration if a child demonstrates excessive thirst and de
 
 <details><summary>Answer</summary>
 
-**B. Mild dehydration** — Source: Medicoholic 2016 PYQ compilation.
+**B. Mild dehydration** — **B. Mild dehydration** — Excessive thirst with decreased urine output without haemodynamic compromise corresponds to mild dehydration (<5% body weight fluid loss); no clinical signs of circulatory compromise are present.
 
 </details>
 
@@ -6085,7 +6085,7 @@ Russell silver syndrome is associated with which of the following?
 
 <details><summary>Answer</summary>
 
-**D. Uniparental disomy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Uniparental disomy** — **D. Uniparental disomy** — Russell-Silver syndrome is caused by maternal uniparental disomy of chromosome 7 (~10%) or loss of paternal imprinting on chromosome 11p15; causes IUGR, asymmetry, and short stature.
 
 </details>
 
@@ -6105,7 +6105,7 @@ Which of the following is not a feature of Down's syndrome?
 
 <details><summary>Answer</summary>
 
-**C. Female infertility** — Source: Medicoholic 2016 PYQ compilation.
+**C. Female infertility** — **C. Female infertility** — Males with Down syndrome are infertile; females are sub-fertile but not universally infertile and can conceive; hypotonia, infections (immune deficiency), and early Alzheimer's are all established features.
 
 </details>
 
@@ -6125,7 +6125,7 @@ Which of the following is not a feature of Turner's syndrome?
 
 <details><summary>Answer</summary>
 
-**B. Cryptorchidism** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cryptorchidism** — **B. Cryptorchidism** — Turner syndrome (45,X0) affects females only; cryptorchidism is a male feature; Turner's features include cubitus valgus, shield chest, webbed neck, and short fourth metacarpal.
 
 </details>
 
@@ -6145,7 +6145,7 @@ In Turner's syndrome which of the following is NOT seen :
 
 <details><summary>Answer</summary>
 
-**D. Mental retardation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Mental retardation** — **D. Mental retardation** — Turner syndrome (45,X0) is characterised by normal intelligence; short stature, widely spaced nipples, and webbed neck are typical; intelligence is unaffected distinguishing it from other chromosomal disorders.
 
 </details>
 
@@ -6165,7 +6165,7 @@ Which of the following is true regarding Turner's syndrome?
 
 <details><summary>Answer</summary>
 
-**A. Cubitus valgus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cubitus valgus** — **A. Cubitus valgus** — Turner syndrome (45,X0 monosomy) causes cubitus valgus (increased carrying angle) due to dysplastic bone formation; it is sporadic, affects only females, and Hb sensorineural hearing loss is also seen.
 
 </details>
 
@@ -6185,7 +6185,7 @@ Single gene disorder which does not follow mendelian inheritance -
 
 <details><summary>Answer</summary>
 
-**C. Fragile X-syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**C. Fragile X-syndrome** — **C. Fragile X-syndrome** — Fragile X follows trinucleotide repeat (CGG) anticipation and X-linked inheritance with incomplete penetrance and methylation-dependent expression; classic Mendelian rules do not apply due to dynamic mutation.
 
 </details>
 
@@ -6205,7 +6205,7 @@ Most common cause of shock in child
 
 <details><summary>Answer</summary>
 
-**B. Hypovolemic shock** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hypovolemic shock** — **B. Hypovolemic shock** — Hypovolaemic shock (from gastroenteritis/dehydration/haemorrhage) is the most common cause of shock in paediatric patients globally; septic shock is second in hospital settings.
 
 </details>
 
@@ -6225,7 +6225,7 @@ Which is the prognostic scoring system for head injury in children?
 
 <details><summary>Answer</summary>
 
-**A. CCS** — Source: Medicoholic 2016 PYQ compilation.
+**A. CCS** — **A. CCS** — The Children's Coma Scale (CCS) is the paediatric adaptation of GCS used for prognostic scoring of head injury in children; modified criteria account for developmental age-related responses.
 
 </details>
 
@@ -6245,7 +6245,7 @@ Which of the following is a criteria for clinical Stage II of AIDS in children?
 
 <details><summary>Answer</summary>
 
-**C. Hepatosplenomegaly** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hepatosplenomegaly** — **C. Hepatosplenomegaly** — WHO paediatric HIV Clinical Stage II includes persistent lymphadenopathy, hepatosplenomegaly, and recurrent URTI; Stage III/IV includes oesophageal candidiasis and opportunistic infections.
 
 </details>
 
@@ -6265,7 +6265,7 @@ Which of the following is closed at birth?
 
 <details><summary>Answer</summary>
 
-**B. Posterior fontanelle** — Source: Medicoholic 2016 PYQ compilation.
+**B. Posterior fontanelle** — **B. Posterior fontanelle** — Posterior fontanelle closes at birth or within 6–8 weeks; anterior fontanelle closes at 9–18 months; foramen ovale and ductus venosus functionally close after birth but take weeks for anatomical sealing.
 
 </details>
 
@@ -6285,7 +6285,7 @@ Harlequin skin change is seen due to mutation of which gene?
 
 <details><summary>Answer</summary>
 
-**A. ABCA 12** — Source: Medicoholic 2016 PYQ compilation.
+**A. ABCA 12** — **A. ABCA 12** — Harlequin ichthyosis is caused by mutations in ABCA12 (ATP-binding cassette transporter A12) gene; impairs lamellar body lipid secretion causing thick armour-like skin plates at birth.
 
 </details>
 
@@ -6305,7 +6305,7 @@ Ritter disease is a disease caused by -
 
 <details><summary>Answer</summary>
 
-**A. Infection** — Source: Medicoholic 2016 PYQ compilation.
+**A. Infection** — **A. Infection** — Ritter disease (staphylococcal scalded skin syndrome) is caused by Staphylococcus aureus exfoliative toxin (ET-A/ET-B) cleaving desmoglein-1; presents as generalised exfoliation in neonates.
 
 </details>
 
@@ -6325,7 +6325,7 @@ Pink color in the IMNCI chart is suggestive of
 
 <details><summary>Answer</summary>
 
-**C. Severely underweight zone (Upto - 3SD)** — Source: Medicoholic 2016 PYQ compilation.
+**C. Severely underweight zone (Upto - 3SD)** — **C. Severely underweight zone (Upto - 3SD)** — In the IMNCI/IAP growth chart colour coding: pink zone indicates severe undernutrition (weight-for-age below -3SD); red zone indicates very severe malnutrition.
 
 </details>
 
@@ -6345,7 +6345,7 @@ Osteoporosis is seen in all the following except
 
 <details><summary>Answer</summary>
 
-**C. Hypoparathyroidism** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hypoparathyroidism** — **C. Hypoparathyroidism** — Hypoparathyroidism causes hypocalcaemia and increased bone density (osteosclerosis), not osteoporosis; thyrotoxicosis, RA (inflammation + steroids), and glucocorticoid therapy all cause osteoporosis.
 
 </details>
 
@@ -6365,7 +6365,7 @@ Genu recurvatum is seen in -
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Genu recurvatum (knee hyperextension deformity) occurs in rheumatoid arthritis (ligamentous laxity), poliomyelitis (quadriceps weakness), and rickets (soft bone deformity); all three are recognised causes.
 
 </details>
 
@@ -6385,7 +6385,7 @@ Which drug used for endometriosis can cause increase in hepatic enzyme & adverse
 
 <details><summary>Answer</summary>
 
-**A. 0. C. pills** — Source: Medicoholic 2016 PYQ compilation.
+**A. 0. C. pills** — **A. 0. C. pills** — Combined oral contraceptive pills used for endometriosis cause hepatic enzyme induction and adverse lipid profile (decreased HDL, increased LDL/triglycerides); GnRH analogues cause lipid changes but not hepatotoxicity.
 
 </details>
 
@@ -6405,7 +6405,7 @@ A 30-year-old is 14 weeks pregnant. She had two painless deliveries at 16 weeks 
 
 <details><summary>Answer</summary>
 
-**C. Cervical length assessment** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cervical length assessment** — **C. Cervical length assessment** — History of two painless mid-trimester losses suggests cervical incompetence; transvaginal ultrasound cervical length measurement at 14–16 weeks guides decision for prophylactic cerclage.
 
 </details>
 
@@ -6428,7 +6428,7 @@ Which of the following is endogenous pyrogen
 
 <details><summary>Answer</summary>
 
-**A. PG E2** — Source: NEET-PG 2017 medicoholic.com
+**A. PG E2** — **A. PG E2** — Prostaglandin E2 (PGE2) is the key endogenous pyrogen acting on the hypothalamic preoptic area to raise the thermoregulatory set-point; produced from arachidonic acid via COX-2 in response to cytokines (IL-1, IL-6, TNF).
 
 </details>
 
@@ -6464,7 +6464,7 @@ The following statement about Keloid is true
 
 <details><summary>Answer</summary>
 
-**A. It contain growth factor** — Source: NEET-PG 2017 medicoholic.com
+**A. It contain growth factor** — **A. It contain growth factor** — Keloids contain elevated TGF-β and other growth factors driving excessive collagen deposition; they extend beyond wound margins (unlike hypertrophic scars) and simple excision risks recurrence.
 
 </details>
 

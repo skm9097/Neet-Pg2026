@@ -581,7 +581,7 @@ Which drugs needs continuous monitoring of prothrombin time? A.Aspirin B.Lepirud
 
 <details><summary>Answer</summary>
 
-**A. Metastasis from PE** — Source: Medicoholic 2017 NEET-PG.
+**A. Metastasis from PE** — **A. Metastasis from PE** — Cutaneous metastases from primary visceral malignancies (e.g., pulmonary embolism-associated lung cancers) can involve skin; hematogenous spread to dermis is the mechanism.
 
 </details>
 

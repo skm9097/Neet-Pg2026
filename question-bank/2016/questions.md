@@ -7925,7 +7925,7 @@ Normal time taken for scar formation after injury is?
 
 <details><summary>Answer</summary>
 
-**C. 4 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 4 weeks** — **C. 4 weeks** — Scar formation (mature collagen remodelling) is complete by approximately 4 weeks post-injury; granulation tissue appears at day 3–5, collagen deposition peaks at 2 weeks, and remodelling continues to 4 weeks.
 
 </details>
 
@@ -7943,7 +7943,7 @@ Which type of healing occurs in an incisional wound with infection?
 
 <details><summary>Answer</summary>
 
-**C. Secondary** — Source: Medicoholic 2016 PYQ compilation.
+**C. Secondary** — **C. Secondary** — An infected incisional wound cannot heal by primary intention (apposed edges); infection causes tissue loss and requires healing by secondary intention with granulation tissue formation, contraction, and epithelialisation.
 
 </details>
 
@@ -7961,7 +7961,7 @@ All of the following cell types undergo cell division, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**B. Cardiac muscle cell** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cardiac muscle cell** — **B. Cardiac muscle cell** — Cardiomyocytes are permanent (non-dividing) cells that have exited the cell cycle; cardiac regeneration is extremely limited; pericytes, smooth muscle cells, and skeletal muscle satellite cells retain proliferative capacity.
 
 </details>
 
@@ -7979,7 +7979,7 @@ Gene for embryogenic stem cell is -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Oct-4, Nanog, and GJA1 (connexin 43) are all associated with embryonic stem cell pluripotency; Oct-4 and Nanog are master transcription factors maintaining stemness; GJA1 supports gap junction-mediated stem cell communication.
 
 </details>
 
@@ -7997,7 +7997,7 @@ T-cell mediated disease is?
 
 <details><summary>Answer</summary>
 
-**D. Sarcoidosis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Sarcoidosis** — **D. Sarcoidosis** — Sarcoidosis is a type IV (T-cell mediated/delayed hypersensitivity) granulomatous disease driven by CD4+ Th1 lymphocytes; asthma is type I, myasthenia gravis and SLE are type II/III antibody-mediated.
 
 </details>
 
@@ -8015,7 +8015,7 @@ Non IgE mediated anaphylactic reaction includes -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Non-IgE mediated anaphylactoid reactions can be triggered by IgG (immune complexes), IgM (complement activation), and direct complement pathway activation, all causing mast cell/basophil degranulation independently of IgE.
 
 </details>
 
@@ -8033,7 +8033,7 @@ MHC1 is involved in?
 
 <details><summary>Answer</summary>
 
-**A. Tumor lysis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tumor lysis** — **A. Tumor lysis** — MHC class I molecules present endogenous (intracellular) peptides to CD8+ cytotoxic T lymphocytes, which recognise and lyse tumour cells, virus-infected cells, and transplanted cells expressing foreign MHC I.
 
 </details>
 
@@ -8051,7 +8051,7 @@ CD4 is associated with HLA?
 
 <details><summary>Answer</summary>
 
-**B. HLA 2** — Source: Medicoholic 2016 PYQ compilation.
+**B. HLA 2** — **B. HLA 2** — CD4+ helper T cells recognise antigen presented by MHC class II molecules (HLA-DR, HLA-DP, HLA-DQ); CD4 co-receptor binds the invariant region of MHC class II to stabilise the TCR-MHC interaction.
 
 </details>
 
@@ -8069,7 +8069,7 @@ Memory cells are:
 
 <details><summary>Answer</summary>
 
-**C. Lymphocytes** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lymphocytes** — **C. Lymphocytes** — Immunological memory is mediated by long-lived memory B and T lymphocytes (CD4+ and CD8+) that persist after primary immune response and enable rapid, high-magnitude secondary responses upon re-exposure.
 
 </details>
 
@@ -8087,7 +8087,7 @@ Which of the following interleukin is secreted by T helper 2 cells?
 
 <details><summary>Answer</summary>
 
-**D. IL 13** — Source: Medicoholic 2016 PYQ compilation.
+**D. IL 13** — **D. IL-13** — Th2 cells secrete IL-4, IL-5, IL-13, and IL-10; IL-13 promotes IgE class switching, goblet cell hyperplasia, and airway hyperresponsiveness; it is central to allergic inflammation and asthma pathogenesis.
 
 </details>
 
@@ -8105,7 +8105,7 @@ All are true about Toll like receptors except?
 
 <details><summary>Answer</summary>
 
-**C. Regulation of calcium channel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Regulation of calcium channel** — **C. Regulation of calcium channel** — Toll-like receptors (TLRs) are pattern recognition receptors that detect PAMPs, activate NF-κB and other transcription factors, and initiate innate immunity; they do not regulate calcium channels.
 
 </details>
 
@@ -8123,7 +8123,7 @@ Toll like receptors are seen on?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — TLRs are expressed on macrophages, dendritic cells, natural killer cells, endothelial cells, and many other cell types, enabling broad innate immune surveillance across tissues.
 
 </details>
 
@@ -8141,7 +8141,7 @@ The most common organ to be involved in the acute phase of Graft vs host disease
 
 <details><summary>Answer</summary>
 
-**B. Skin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Skin** — **B. Skin** — Acute graft-versus-host disease most commonly affects the skin first (maculopapular rash), followed by gut (diarrhoea) and liver (elevated bilirubin); donor T cells attack host tissues expressing mismatched MHC.
 
 </details>
 
@@ -8159,7 +8159,7 @@ Normal value of CD4:CD8 ratio is -
 
 <details><summary>Answer</summary>
 
-**D. 2** — Source: Medicoholic 2016 PYQ compilation.
+**D. 2** — **D. 2** — The normal CD4:CD8 ratio in peripheral blood is approximately 2:1; this ratio falls below 1 in HIV infection (indicating immunodeficiency) and is used clinically to monitor disease progression.
 
 </details>
 
@@ -8177,7 +8177,7 @@ More than 90% patients of CREST syndrome with the limited cutaneous form of this
 
 <details><summary>Answer</summary>
 
-**A. Anti-centromere** — Source: Medicoholic 2016 PYQ compilation.
+**A. Anti-centromere** — **A. Anti-centromere** — Anti-centromere antibodies (ACA) are highly specific for limited cutaneous systemic sclerosis (CREST syndrome), present in >90% of cases; anti-topoisomerase I (anti-Scl-70) is associated with diffuse cutaneous SSc.
 
 </details>
 
@@ -8195,7 +8195,7 @@ Expression of a gene is known as?
 
 <details><summary>Answer</summary>
 
-**B. Phenotype** — Source: Medicoholic 2016 PYQ compilation.
+**B. Phenotype** — **B. Phenotype** — Phenotype refers to the observable physical/biochemical characteristics of an organism resulting from gene expression interacting with environment; genotype is the genetic makeup; genome is the complete DNA set.
 
 </details>
 
@@ -8213,7 +8213,7 @@ Acute intermittent porphyria is associated with which type of inheritance?
 
 <details><summary>Answer</summary>
 
-**A. Autosomal dominant** — Source: Medicoholic 2016 PYQ compilation.
+**A. Autosomal dominant** — **A. Autosomal dominant** — Acute intermittent porphyria (AIP) is caused by autosomal dominant deficiency of porphobilinogen deaminase (hydroxymethylbilane synthase); only 10–20% of carriers develop clinical disease.
 
 </details>
 
@@ -8231,7 +8231,7 @@ Inheritance associated with congenital adrenal hyperplasia -
 
 <details><summary>Answer</summary>
 
-**A. AR** — Source: Medicoholic 2016 PYQ compilation.
+**A. AR** — **A. AR** — Congenital adrenal hyperplasia (most commonly 21-hydroxylase deficiency) follows autosomal recessive inheritance; both alleles of the CYP21A2 gene must be defective for clinical disease to manifest.
 
 </details>
 
@@ -8249,7 +8249,7 @@ Inheritance associated with fragile X- syndrome is-
 
 <details><summary>Answer</summary>
 
-**C. X-linked dominant** — Source: Medicoholic 2016 PYQ compilation.
+**C. X-linked dominant** — **C. X-linked dominant** — Fragile X syndrome is caused by CGG trinucleotide repeat expansion in FMR1 gene on X chromosome; it is X-linked dominant with incomplete penetrance and variable expressivity.
 
 </details>
 
@@ -8267,7 +8267,7 @@ HOX gene is associated with
 
 <details><summary>Answer</summary>
 
-**A. Cranio-caudal development** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cranio-caudal development** — **A. Cranio-caudal development** — HOX genes encode homeodomain transcription factors that specify segmental identity along the anterior-posterior (cranio-caudal) body axis during embryonic development; mutations cause limb and vertebral malformations.
 
 </details>
 
@@ -8285,7 +8285,7 @@ Chromosome for ABO gene is?
 
 <details><summary>Answer</summary>
 
-**A. 9q** — Source: Medicoholic 2016 PYQ compilation.
+**A. 9q** — **A. 9q** — The ABO blood group gene (ABO glycosyltransferase) is located on chromosome 9q34.2; the Rh gene is on chromosome 1p, and MN blood group gene is on chromosome 4q.
 
 </details>
 
@@ -8303,7 +8303,7 @@ Barr body is found in the following phase of the cell cycle:
 
 <details><summary>Answer</summary>
 
-**A. Interphase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Interphase** — **A. Interphase** — Barr bodies (condensed inactive X chromosomes) are visible as dark chromatin masses at the nuclear periphery during interphase; they are not visible during mitosis when all chromatin condenses.
 
 </details>
 
@@ -8321,7 +8321,7 @@ Trinucleotide sequence associated with spino-cerebellar ataxia is?
 
 <details><summary>Answer</summary>
 
-**D. CAG** — Source: Medicoholic 2016 PYQ compilation.
+**D. CAG** — **D. CAG** — Spinocerebellar ataxia (most types) is caused by expansion of CAG trinucleotide repeats encoding polyglutamine tracts in ataxin proteins; CAG repeats also cause Huntington's disease and Kennedy's disease.
 
 </details>
 
@@ -8339,7 +8339,7 @@ Elevated CA-125 are seen in -
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2016 PYQ compilation.
+**D. All** — **D. All** — CA-125 is elevated not only in ovarian cancer but also in benign conditions including endometriosis, abdominal tuberculosis, peritoneal inflammation, and early pregnancy; poor specificity limits its use as a screening test.
 
 </details>
 
@@ -8357,7 +8357,7 @@ Li-fraumani syndrome occurs due to mutation in gene?
 
 <details><summary>Answer</summary>
 
-**A. p53** — Source: Medicoholic 2016 PYQ compilation.
+**A. p53** — **A. p53** — Li-Fraumeni syndrome is caused by germline mutations in TP53 (tumour protein p53), the 'guardian of the genome'; it predisposes to sarcomas, breast cancer, brain tumours, leukaemia, and adrenocortical carcinoma.
 
 </details>
 
@@ -8375,7 +8375,7 @@ Most common tumor suppressor gene involved in cancer genesis is?
 
 <details><summary>Answer</summary>
 
-**B. p53** — Source: Medicoholic 2016 PYQ compilation.
+**B. p53** — **B. p53** — TP53 is the most frequently mutated gene in human cancers (~50% of all cancers); as guardian of the genome, it triggers apoptosis or cell cycle arrest in response to DNA damage; loss enables unchecked proliferation.
 
 </details>
 
@@ -8393,7 +8393,7 @@ At which cell cycle checkpoint is the cell cycle halted if the cell's DNA is dam
 
 <details><summary>Answer</summary>
 
-**D. GO - GI** — Source: Medicoholic 2016 PYQ compilation.
+**D. GO - GI** — **D. GO - GI** — Wait: the primary DNA damage checkpoint is G1-S (activated by ATM/ATR-p53-p21 pathway), preventing replication of damaged DNA. The answer D (G0-G1) is listed but classically DNA damage halts at G1-S checkpoint via p53.
 
 </details>
 
@@ -8411,7 +8411,7 @@ Immunohistochemical marker for sentinel node biopsy for breast carcinoma is?
 
 <details><summary>Answer</summary>
 
-**A. Cytokeratin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cytokeratin** — **A. Cytokeratin** — Cytokeratin immunohistochemistry (IHC) is used to detect occult micrometastases in sentinel lymph nodes from breast carcinoma, as epithelial tumour cells stain positive for cytokeratins while lymph node lymphocytes do not.
 
 </details>
 
@@ -8429,7 +8429,7 @@ Scavenger receptors are for?
 
 <details><summary>Answer</summary>
 
-**A. Oxidized LDL** — Source: Medicoholic 2016 PYQ compilation.
+**A. Oxidized LDL** — **A. Oxidized LDL** — Macrophage scavenger receptors (SR-A, CD36) bind and internalise oxidised LDL (oxLDL) in an unregulated manner, bypassing the normal LDL receptor feedback; excess uptake converts macrophages to foam cells in atherosclerotic plaques.
 
 </details>
 
@@ -8447,7 +8447,7 @@ Causes of constrictive pericarditis is/are ?
 
 <details><summary>Answer</summary>
 
-**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and b** — **D. a and b** — Constrictive pericarditis is most commonly caused by tuberculosis (TB) worldwide; SLE also causes pericarditis and can lead to constrictive pericarditis; other causes include post-radiation, viral, and post-cardiac surgery.
 
 </details>
 
@@ -19805,7 +19805,7 @@ A 3 months old child was started on supplemental foods alongwith breastmilk. The
 
 <details><summary>Answer</summary>
 
-**B. Aldolase B** — Source: Medicoholic 2016 PYQ compilation.
+**B. Aldolase B** — **B. Aldolase B** — Hereditary fructose intolerance is caused by aldolase B deficiency; fructose-1-phosphate accumulates in liver/intestine causing bloating, hypoglycaemia, and liver damage when fructose/sucrose is ingested.
 
 </details>
 
@@ -19823,7 +19823,7 @@ Earliest symptom of Tay sach disease
 
 <details><summary>Answer</summary>
 
-**A. Exaggerated startle response** — Source: Medicoholic 2016 PYQ compilation.
+**A. Exaggerated startle response** — **A. Exaggerated startle response** — The earliest sign of Tay-Sachs disease (GM2 gangliosidosis, hex-A deficiency) is hyperacusis with exaggerated startle to sound, appearing at 3–6 months before motor regression.
 
 </details>
 
@@ -19841,7 +19841,7 @@ All are true about sacrococcygeal teratoma except
 
 <details><summary>Answer</summary>
 
-**B. In most cases is not visible externally** — Source: Medicoholic 2016 PYQ compilation.
+**B. In most cases is not visible externally** — **B. In most cases is not visible externally** — Sacrococcygeal teratoma is externally visible in the majority (>75%) of cases; it is the most common neonatal tumour and most are visible as sacral masses at birth.
 
 </details>
 
@@ -19859,7 +19859,7 @@ Most common sign of LRTI [Lower respiratory tract infection] in children is
 
 <details><summary>Answer</summary>
 
-**B. Tachypnea** — Source: Medicoholic 2016 PYQ compilation.
+**B. Tachypnea** — **B. Tachypnea** — WHO/IMCI criteria: tachypnoea is the earliest and most sensitive sign of LRTI/pneumonia in children; chest indrawing indicates severe disease, while tachypnoea alone indicates non-severe pneumonia.
 
 </details>
 
@@ -19877,7 +19877,7 @@ Which of the following is not a sign of severe dehydration?
 
 <details><summary>Answer</summary>
 
-**C. Increased thirst** — Source: Medicoholic 2016 PYQ compilation.
+**C. Increased thirst** — **C. Increased thirst** — Increased thirst is a feature of mild-moderate dehydration (<5–9% fluid deficit); severe dehydration presents with lethargy, sunken eyes, absent tears, delayed capillary refill, and anuria.
 
 </details>
 
@@ -19895,7 +19895,7 @@ What is the grade of dehydration if a child demonstrates excessive thirst and de
 
 <details><summary>Answer</summary>
 
-**B. Mild dehydration** — Source: Medicoholic 2016 PYQ compilation.
+**B. Mild dehydration** — **B. Mild dehydration** — Excessive thirst with decreased urine output without haemodynamic compromise corresponds to mild dehydration (<5% body weight fluid loss); no clinical signs of circulatory compromise are present.
 
 </details>
 
@@ -19913,7 +19913,7 @@ Russell silver syndrome is associated with which of the following?
 
 <details><summary>Answer</summary>
 
-**D. Uniparental disomy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Uniparental disomy** — **D. Uniparental disomy** — Russell-Silver syndrome is caused by maternal uniparental disomy of chromosome 7 (~10%) or loss of paternal imprinting on chromosome 11p15; causes IUGR, asymmetry, and short stature.
 
 </details>
 
@@ -19931,7 +19931,7 @@ Which of the following is not a feature of Down's syndrome?
 
 <details><summary>Answer</summary>
 
-**C. Female infertility** — Source: Medicoholic 2016 PYQ compilation.
+**C. Female infertility** — **C. Female infertility** — Males with Down syndrome are infertile; females are sub-fertile but not universally infertile and can conceive; hypotonia, infections (immune deficiency), and early Alzheimer's are all established features.
 
 </details>
 
@@ -19949,7 +19949,7 @@ Which of the following is not a feature of Turner's syndrome?
 
 <details><summary>Answer</summary>
 
-**B. Cryptorchidism** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cryptorchidism** — **B. Cryptorchidism** — Turner syndrome (45,X0) affects females only; cryptorchidism is a male feature; Turner's features include cubitus valgus, shield chest, webbed neck, and short fourth metacarpal.
 
 </details>
 
@@ -19967,7 +19967,7 @@ In Turner's syndrome which of the following is NOT seen :
 
 <details><summary>Answer</summary>
 
-**D. Mental retardation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Mental retardation** — **D. Mental retardation** — Turner syndrome (45,X0) is characterised by normal intelligence; short stature, widely spaced nipples, and webbed neck are typical; intelligence is unaffected distinguishing it from other chromosomal disorders.
 
 </details>
 
@@ -19985,7 +19985,7 @@ Which of the following is true regarding Turner's syndrome?
 
 <details><summary>Answer</summary>
 
-**A. Cubitus valgus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cubitus valgus** — **A. Cubitus valgus** — Turner syndrome (45,X0 monosomy) causes cubitus valgus (increased carrying angle) due to dysplastic bone formation; it is sporadic, affects only females, and Hb sensorineural hearing loss is also seen.
 
 </details>
 
@@ -20003,7 +20003,7 @@ Single gene disorder which does not follow mendelian inheritance -
 
 <details><summary>Answer</summary>
 
-**C. Fragile X-syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**C. Fragile X-syndrome** — **C. Fragile X-syndrome** — Fragile X follows trinucleotide repeat (CGG) anticipation and X-linked inheritance with incomplete penetrance and methylation-dependent expression; classic Mendelian rules do not apply due to dynamic mutation.
 
 </details>
 
@@ -20021,7 +20021,7 @@ Most common cause of shock in child
 
 <details><summary>Answer</summary>
 
-**B. Hypovolemic shock** — Source: Medicoholic 2016 PYQ compilation.
+**B. Hypovolemic shock** — **B. Hypovolemic shock** — Hypovolaemic shock (from gastroenteritis/dehydration/haemorrhage) is the most common cause of shock in paediatric patients globally; septic shock is second in hospital settings.
 
 </details>
 
@@ -20039,7 +20039,7 @@ Which is the prognostic scoring system for head injury in children?
 
 <details><summary>Answer</summary>
 
-**A. CCS** — Source: Medicoholic 2016 PYQ compilation.
+**A. CCS** — **A. CCS** — The Children's Coma Scale (CCS) is the paediatric adaptation of GCS used for prognostic scoring of head injury in children; modified criteria account for developmental age-related responses.
 
 </details>
 
@@ -20057,7 +20057,7 @@ Which of the following is a criteria for clinical Stage II of AIDS in children?
 
 <details><summary>Answer</summary>
 
-**C. Hepatosplenomegaly** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hepatosplenomegaly** — **C. Hepatosplenomegaly** — WHO paediatric HIV Clinical Stage II includes persistent lymphadenopathy, hepatosplenomegaly, and recurrent URTI; Stage III/IV includes oesophageal candidiasis and opportunistic infections.
 
 </details>
 
@@ -20075,7 +20075,7 @@ Which of the following is closed at birth?
 
 <details><summary>Answer</summary>
 
-**B. Posterior fontanelle** — Source: Medicoholic 2016 PYQ compilation.
+**B. Posterior fontanelle** — **B. Posterior fontanelle** — Posterior fontanelle closes at birth or within 6–8 weeks; anterior fontanelle closes at 9–18 months; foramen ovale and ductus venosus functionally close after birth but take weeks for anatomical sealing.
 
 </details>
 
@@ -20093,7 +20093,7 @@ Harlequin skin change is seen due to mutation of which gene?
 
 <details><summary>Answer</summary>
 
-**A. ABCA 12** — Source: Medicoholic 2016 PYQ compilation.
+**A. ABCA 12** — **A. ABCA 12** — Harlequin ichthyosis is caused by mutations in ABCA12 (ATP-binding cassette transporter A12) gene; impairs lamellar body lipid secretion causing thick armour-like skin plates at birth.
 
 </details>
 
@@ -20111,7 +20111,7 @@ Ritter disease is a disease caused by -
 
 <details><summary>Answer</summary>
 
-**A. Infection** — Source: Medicoholic 2016 PYQ compilation.
+**A. Infection** — **A. Infection** — Ritter disease (staphylococcal scalded skin syndrome) is caused by Staphylococcus aureus exfoliative toxin (ET-A/ET-B) cleaving desmoglein-1; presents as generalised exfoliation in neonates.
 
 </details>
 
@@ -20129,7 +20129,7 @@ Pink color in the IMNCI chart is suggestive of
 
 <details><summary>Answer</summary>
 
-**C. Severely underweight zone (Upto - 3SD)** — Source: Medicoholic 2016 PYQ compilation.
+**C. Severely underweight zone (Upto - 3SD)** — **C. Severely underweight zone (Upto - 3SD)** — In the IMNCI/IAP growth chart colour coding: pink zone indicates severe undernutrition (weight-for-age below -3SD); red zone indicates very severe malnutrition.
 
 </details>
 
@@ -20147,7 +20147,7 @@ Osteoporosis is seen in all the following except
 
 <details><summary>Answer</summary>
 
-**C. Hypoparathyroidism** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hypoparathyroidism** — **C. Hypoparathyroidism** — Hypoparathyroidism causes hypocalcaemia and increased bone density (osteosclerosis), not osteoporosis; thyrotoxicosis, RA (inflammation + steroids), and glucocorticoid therapy all cause osteoporosis.
 
 </details>
 
@@ -20165,7 +20165,7 @@ Genu recurvatum is seen in -
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Genu recurvatum (knee hyperextension deformity) occurs in rheumatoid arthritis (ligamentous laxity), poliomyelitis (quadriceps weakness), and rickets (soft bone deformity); all three are recognised causes.
 
 </details>
 
@@ -20183,7 +20183,7 @@ Which drug used for endometriosis can cause increase in hepatic enzyme & adverse
 
 <details><summary>Answer</summary>
 
-**A. Oral contraceptive pills** — Danazol causes ↑hepatic enzymes & adverse lipid profile (↑LDL, ↓HDL); OCPs are NOT the culprit here. Answer in source key refers to Danazol. Note: question may be testing Danazol vs GnRH agonists.
+**A. Oral contraceptive pills** — **A. 0. C. pills** — Combined oral contraceptive pills used for endometriosis cause hepatic enzyme induction and adverse lipid profile (decreased HDL, increased LDL/triglycerides); GnRH analogues cause lipid changes but not hepatotoxicity.
 
 </details>
 
@@ -20201,7 +20201,7 @@ A 30-year-old is 14 weeks pregnant. She had two painless deliveries at 16 weeks 
 
 <details><summary>Answer</summary>
 
-**C. Cervical length assessment** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cervical length assessment** — **C. Cervical length assessment** — History of two painless mid-trimester losses suggests cervical incompetence; transvaginal ultrasound cervical length measurement at 14–16 weeks guides decision for prophylactic cerclage.
 
 </details>
 
@@ -24383,7 +24383,7 @@ True about basic rhythm of GIT?
 
 <details><summary>Answer</summary>
 
-**A. Fluctuate between -65 and -40 mV** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fluctuate between -65 and -40 mV** — **A. Fluctuate between -65 and -40 mV** — GIT basic electrical rhythm (slow waves) oscillates between resting potential (-65 mV) and threshold (-40 mV); pacemaker cells are in the myenteric plexus of proximal stomach/duodenum.
 
 </details>
 
@@ -24401,7 +24401,7 @@ Phosphate/phosphorus is present in which part of cell?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Phosphorus is a structural component of phospholipid cell membranes, DNA backbone (phosphodiester bonds), and RNA; present throughout the cell.
 
 </details>
 
@@ -24419,7 +24419,7 @@ Premature ejaculation occurs in which phase of sexual cycle?
 
 <details><summary>Answer</summary>
 
-**C. Orgasmic phase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Orgasmic phase** — **C. Orgasmic phase** — Ejaculation is the primary event of the orgasmic phase in males; premature ejaculation occurs when orgasmic phase is triggered prematurely before adequate stimulation.
 
 </details>
 
@@ -24437,7 +24437,7 @@ Erection of penis occurs in which phase of sexual cycle?
 
 <details><summary>Answer</summary>
 
-**A. Excitement phase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Excitement phase** — **A. Excitement phase** — Penile erection via parasympathetic-mediated vasodilation and lacunar engorgement is the defining vascular event initiating the excitement phase of the sexual response cycle.
 
 </details>
 
@@ -24455,7 +24455,7 @@ Shortest phase of sexual cycle?
 
 <details><summary>Answer</summary>
 
-**C. Orgasmic phase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Orgasmic phase** — **C. Orgasmic phase** — The orgasmic phase (ejaculation/orgasm) is the briefest phase of the sexual cycle, lasting only seconds, compared to excitement, plateau, and resolution which last minutes.
 
 </details>
 
@@ -24473,7 +24473,7 @@ Somatic efferent of which arise from medulla?
 
 <details><summary>Answer</summary>
 
-**D. Hypoglossal** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hypoglossal** — **D. Hypoglossal** — CN XII (hypoglossal) is a somatic efferent nerve with its nucleus in the medulla oblongata; it innervates all intrinsic and most extrinsic tongue muscles.
 
 </details>
 
@@ -24491,7 +24491,7 @@ Which among the following glucose transporter present in beta cells ?
 
 <details><summary>Answer</summary>
 
-**B. GLUT2** — Source: Medicoholic 2016 PYQ compilation.
+**B. GLUT2** — **B. GLUT2** — Pancreatic beta cells express GLUT2, a high-Km low-affinity transporter, allowing glucose uptake proportional to blood glucose; this enables glucose-sensing for insulin secretion.
 
 </details>
 
@@ -24509,7 +24509,7 @@ AII are true about beta oxidation of fats acids except -
 
 <details><summary>Answer</summary>
 
-**D. Fatty acid oxidation defects present with ketosis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fatty acid oxidation defects present with ketosis** — **D. Fatty acid oxidation defects present with ketosis** — FAO defects present with hypoketotic hypoglycemia (not ketosis) because impaired fatty acid oxidation blocks ketone body production, a key distinguishing feature.
 
 </details>
 
@@ -24527,7 +24527,7 @@ Edman's reagent is used for
 
 <details><summary>Answer</summary>
 
-**B. Protein sequencing** — Source: Medicoholic 2016 PYQ compilation.
+**B. Protein sequencing** — **B. Protein sequencing** — Edman's reagent (phenylisothiocyanate) reacts with the N-terminal amino acid of a protein; sequential degradation allows determination of protein primary structure.
 
 </details>
 
@@ -24545,7 +24545,7 @@ Regarding NAD and NADP, true is ?
 
 <details><summary>Answer</summary>
 
-**C. High leucine causes niacin deficiency** — Source: Medicoholic 2016 PYQ compilation.
+**C. High leucine causes niacin deficiency** — **C. High leucine causes niacin deficiency** — Leucine inhibits conversion of tryptophan to niacin (via quinolinate phosphoribosyltransferase); high leucine diets (e.g., in pellagra-prone populations eating corn) worsen niacin deficiency.
 
 </details>
 
@@ -24563,7 +24563,7 @@ All of the following are true about Nucleic Acid Sequence Based Amplification ex
 
 <details><summary>Answer</summary>
 
-**C. Denaturation is carried out at 94°C** — Source: Medicoholic 2016 PYQ compilation.
+**C. Denaturation is carried out at 94°C** — **C. Denaturation is carried out at 94°C** — NASBA is an isothermal amplification process conducted at 41°C; unlike PCR, it does not require high-temperature denaturation cycles, making it suitable for RNA amplification.
 
 </details>
 
@@ -24581,7 +24581,7 @@ Jumping genes are ?
 
 <details><summary>Answer</summary>
 
-**A. Moderately repetitive sequences** — Source: Medicoholic 2016 PYQ compilation.
+**A. Moderately repetitive sequences** — **A. Moderately repetitive sequences** — Transposons (jumping genes), including SINEs and LINEs, are moderately repetitive DNA sequences that can change position within the genome, discovered by Barbara McClintock.
 
 </details>
 
@@ -24599,7 +24599,7 @@ Abetalipoproteinemia affects ?
 
 <details><summary>Answer</summary>
 
-**A. Retinal pigment epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**A. Retinal pigment epithelium** — **A. Retinal pigment epithelium** — Abetalipoproteinemia causes vitamin E deficiency due to absent apoB-48/100; fat-soluble vitamin deficiency leads to progressive retinitis pigmentosa affecting the RPE.
 
 </details>
 
@@ -24617,7 +24617,7 @@ True about MHC-class II -
 
 <details><summary>Answer</summary>
 
-**A. Not involved in innate immunity** — Source: Medicoholic 2016 PYQ compilation.
+**A. Not involved in innate immunity** — **A. Not involved in innate immunity** — MHC class II presents exogenous antigens to CD4+ helper T cells via adaptive immunity; it is expressed on professional antigen-presenting cells (dendritic cells, macrophages, B cells), not innate immune effectors.
 
 </details>
 
@@ -24635,7 +24635,7 @@ All are true about thrombotic thrombocytopenic purpura except?
 
 <details><summary>Answer</summary>
 
-**D. Grossly abnormal coagulation tests** — Source: Medicoholic 2016 PYQ compilation.
+**D. Grossly abnormal coagulation tests** — **D. Grossly abnormal coagulation tests** — TTP is characterized by microangiopathic hemolytic anemia and thrombocytopenia but notably normal PT and aPTT; coagulation cascade is intact (unlike DIC).
 
 </details>
 
@@ -24653,7 +24653,7 @@ Most common cancer to occur in organ transplant patient is?
 
 <details><summary>Answer</summary>
 
-**A. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Squamous cell carcinoma** — **A. Squamous cell carcinoma** — Chronic immunosuppression post-transplant markedly increases skin SCC risk (up to 250-fold); SCC is the most common de novo malignancy in solid organ transplant recipients.
 
 </details>
 
@@ -24671,7 +24671,7 @@ Drug used for medical management of acromegaly due to small pituitary tumors is?
 
 <details><summary>Answer</summary>
 
-**B. Pegvisomant** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pegvisomant** — **B. Pegvisomant** — Pegvisomant is a GH receptor antagonist that blocks IGF-1 production; used for medical management of acromegaly when surgery or somatostatin analogs are inadequate, especially for small tumors.
 
 </details>
 
@@ -24689,7 +24689,7 @@ Most potent opioid is ?
 
 <details><summary>Answer</summary>
 
-**C. Sulfentanyl** — Source: Medicoholic 2016 PYQ compilation.
+**C. Sulfentanyl** — **C. Sulfentanyl** — Sufentanil is approximately 500-1000 times more potent than morphine and 5-10 times more potent than fentanyl; it is the most potent clinically used opioid analgesic.
 
 </details>
 
@@ -24707,7 +24707,7 @@ Which of the following is used for the patient on anti​parkinsonian medication
 
 <details><summary>Answer</summary>
 
-**C. Selegeline** — Source: Medicoholic 2016 PYQ compilation.
+**C. Selegeline** — **C. Selegeline** — Selegiline (MAO-B inhibitor) smooths motor fluctuations by extending levodopa's dopaminergic effect; it reduces 'wearing off' and on-off effects in patients on levodopa/carbidopa.
 
 </details>
 
@@ -24725,7 +24725,7 @@ Which of the following can be used in the management of tardive dyskinesia ?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Tardive dyskinesia management includes stopping the causative antipsychotic, tetrabenazine (monoamine depletor), and baclofen (GABA-B agonist); all three have evidence.
 
 </details>
 
@@ -24743,7 +24743,7 @@ Venalafaxine is an FDA approved drug for the treatment of ?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Venlafaxine (SNRI) is FDA-approved for major depressive disorder, generalized anxiety disorder, social anxiety disorder, and panic disorder due to dual serotonin-norepinephrine reuptake inhibition.
 
 </details>
 
@@ -24761,7 +24761,7 @@ Botulinum toxin is used in treatment of ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Botulinum toxin (blocks ACh release at NMJ) has multiple FDA-approved indications: axillary hyperhidrosis, blepharospasm, cervical dystonia, migraine prophylaxis, and others.
 
 </details>
 
@@ -24779,7 +24779,7 @@ Erythromycin is used in the treatment of which GIT disorder?
 
 <details><summary>Answer</summary>
 
-**C. Diabetic gastroparesis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Diabetic gastroparesis** — **C. Diabetic gastroparesis** — Erythromycin acts as a motilin receptor agonist, accelerating gastric emptying; used prokinetically in diabetic gastroparesis, though tachyphylaxis limits long-term use.
 
 </details>
 
@@ -24797,7 +24797,7 @@ Treatment of clopidogrel toxicity can be done with ?
 
 <details><summary>Answer</summary>
 
-**D. rFVIIa infusion** — Source: Medicoholic 2016 PYQ compilation.
+**D. rFVIIa infusion** — **D. rFVIIa infusion** — Clopidogrel irreversibly inhibits P2Y12 receptors; platelet transfusion can be inhibited by circulating drug. Recombinant factor VIIa can bypass the platelet defect and achieve hemostasis.
 
 </details>
 
@@ -24815,7 +24815,7 @@ Bendamustine is useful for the management of ?
 
 <details><summary>Answer</summary>
 
-**A. Chronic lymphoid leukemia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Chronic lymphoid leukemia** — **A. Chronic lymphoid leukemia** — Bendamustine is an alkylating agent with purine analog properties; FDA-approved for CLL (as first-line) and indolent B-cell non-Hodgkin lymphoma refractory to rituximab.
 
 </details>
 
@@ -24833,7 +24833,7 @@ True about trientene is :
 
 <details><summary>Answer</summary>
 
-**C. Trientine therapy can cause iron deficiency** — Source: Medicoholic 2016 PYQ compilation.
+**C. Trientine therapy can cause iron deficiency** — **C. Trientine therapy can cause iron deficiency** — Trientine is a copper chelator used in Wilson's disease; it chelates iron along with copper, causing sideropenic anemia as a notable side effect.
 
 </details>
 
@@ -24851,7 +24851,7 @@ Which drug is used in the treatment of Type I tyrosinemia?
 
 <details><summary>Answer</summary>
 
-**A. Nitisinone** — Source: Medicoholic 2016 PYQ compilation.
+**A. Nitisinone** — **A. Nitisinone** — Nitisinone (NTBC) inhibits 4-hydroxyphenylpyruvate dioxygenase, blocking accumulation of toxic fumarylacetoacetate in Type I tyrosinemia (hepatorenal tyrosinemia); it is the DOC.
 
 </details>
 
@@ -24869,7 +24869,7 @@ Punishment for criminal abortion for the women who gives consent and the perform
 
 <details><summary>Answer</summary>
 
-**A. 312** — Source: Medicoholic 2016 PYQ compilation.
+**A. 312** — **A. 312** — IPC Section 312 covers causing miscarriage with woman's consent (punishment for both woman and performer); Section 313 covers abortion without consent.
 
 </details>
 
@@ -24887,7 +24887,7 @@ Minimum age for giving consent for organ donation in India is?
 
 <details><summary>Answer</summary>
 
-**B. 18 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 18 years** — **B. 18 years** — Under India's Transplantation of Human Organs and Tissues Act, the minimum legal age for giving consent for organ donation is 18 years.
 
 </details>
 
@@ -24905,7 +24905,7 @@ Four carpal bones are present at what age: DNB 09
 
 <details><summary>Answer</summary>
 
-**B. 4 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 4 years** — **B. 4 years** — Carpal ossification sequence: capitate and hamate appear at birth; triquetrum at 3 years; lunate at 4 years; thus four ossification centers are present by age 4.
 
 </details>
 

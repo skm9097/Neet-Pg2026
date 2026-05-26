@@ -5359,7 +5359,7 @@ Normal time taken for scar formation after injury is?
 
 <details><summary>Answer</summary>
 
-**C. 4 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 4 weeks** — **C. 4 weeks** — Scar formation (mature collagen remodelling) is complete by approximately 4 weeks post-injury; granulation tissue appears at day 3–5, collagen deposition peaks at 2 weeks, and remodelling continues to 4 weeks.
 
 </details>
 
@@ -5379,7 +5379,7 @@ Which type of healing occurs in an incisional wound with infection?
 
 <details><summary>Answer</summary>
 
-**C. Secondary** — Source: Medicoholic 2016 PYQ compilation.
+**C. Secondary** — **C. Secondary** — An infected incisional wound cannot heal by primary intention (apposed edges); infection causes tissue loss and requires healing by secondary intention with granulation tissue formation, contraction, and epithelialisation.
 
 </details>
 
@@ -5399,7 +5399,7 @@ All of the following cell types undergo cell division, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**B. Cardiac muscle cell** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cardiac muscle cell** — **B. Cardiac muscle cell** — Cardiomyocytes are permanent (non-dividing) cells that have exited the cell cycle; cardiac regeneration is extremely limited; pericytes, smooth muscle cells, and skeletal muscle satellite cells retain proliferative capacity.
 
 </details>
 
@@ -5419,7 +5419,7 @@ Gene for embryogenic stem cell is -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Oct-4, Nanog, and GJA1 (connexin 43) are all associated with embryonic stem cell pluripotency; Oct-4 and Nanog are master transcription factors maintaining stemness; GJA1 supports gap junction-mediated stem cell communication.
 
 </details>
 
@@ -5439,7 +5439,7 @@ T-cell mediated disease is?
 
 <details><summary>Answer</summary>
 
-**D. Sarcoidosis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Sarcoidosis** — **D. Sarcoidosis** — Sarcoidosis is a type IV (T-cell mediated/delayed hypersensitivity) granulomatous disease driven by CD4+ Th1 lymphocytes; asthma is type I, myasthenia gravis and SLE are type II/III antibody-mediated.
 
 </details>
 
@@ -5459,7 +5459,7 @@ Non IgE mediated anaphylactic reaction includes -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Non-IgE mediated anaphylactoid reactions can be triggered by IgG (immune complexes), IgM (complement activation), and direct complement pathway activation, all causing mast cell/basophil degranulation independently of IgE.
 
 </details>
 
@@ -5479,7 +5479,7 @@ MHC1 is involved in?
 
 <details><summary>Answer</summary>
 
-**A. Tumor lysis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tumor lysis** — **A. Tumor lysis** — MHC class I molecules present endogenous (intracellular) peptides to CD8+ cytotoxic T lymphocytes, which recognise and lyse tumour cells, virus-infected cells, and transplanted cells expressing foreign MHC I.
 
 </details>
 
@@ -5499,7 +5499,7 @@ CD4 is associated with HLA?
 
 <details><summary>Answer</summary>
 
-**B. HLA 2** — Source: Medicoholic 2016 PYQ compilation.
+**B. HLA 2** — **B. HLA 2** — CD4+ helper T cells recognise antigen presented by MHC class II molecules (HLA-DR, HLA-DP, HLA-DQ); CD4 co-receptor binds the invariant region of MHC class II to stabilise the TCR-MHC interaction.
 
 </details>
 
@@ -5519,7 +5519,7 @@ Memory cells are:
 
 <details><summary>Answer</summary>
 
-**C. Lymphocytes** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lymphocytes** — **C. Lymphocytes** — Immunological memory is mediated by long-lived memory B and T lymphocytes (CD4+ and CD8+) that persist after primary immune response and enable rapid, high-magnitude secondary responses upon re-exposure.
 
 </details>
 
@@ -5539,7 +5539,7 @@ Which of the following interleukin is secreted by T helper 2 cells?
 
 <details><summary>Answer</summary>
 
-**D. IL 13** — Source: Medicoholic 2016 PYQ compilation.
+**D. IL 13** — **D. IL-13** — Th2 cells secrete IL-4, IL-5, IL-13, and IL-10; IL-13 promotes IgE class switching, goblet cell hyperplasia, and airway hyperresponsiveness; it is central to allergic inflammation and asthma pathogenesis.
 
 </details>
 
@@ -5559,7 +5559,7 @@ All are true about Toll like receptors except?
 
 <details><summary>Answer</summary>
 
-**C. Regulation of calcium channel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Regulation of calcium channel** — **C. Regulation of calcium channel** — Toll-like receptors (TLRs) are pattern recognition receptors that detect PAMPs, activate NF-κB and other transcription factors, and initiate innate immunity; they do not regulate calcium channels.
 
 </details>
 
@@ -5579,7 +5579,7 @@ Toll like receptors are seen on?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — TLRs are expressed on macrophages, dendritic cells, natural killer cells, endothelial cells, and many other cell types, enabling broad innate immune surveillance across tissues.
 
 </details>
 
@@ -5599,7 +5599,7 @@ The most common organ to be involved in the acute phase of Graft vs host disease
 
 <details><summary>Answer</summary>
 
-**B. Skin** — Source: Medicoholic 2016 PYQ compilation.
+**B. Skin** — **B. Skin** — Acute graft-versus-host disease most commonly affects the skin first (maculopapular rash), followed by gut (diarrhoea) and liver (elevated bilirubin); donor T cells attack host tissues expressing mismatched MHC.
 
 </details>
 
@@ -5619,7 +5619,7 @@ Normal value of CD4:CD8 ratio is -
 
 <details><summary>Answer</summary>
 
-**D. 2** — Source: Medicoholic 2016 PYQ compilation.
+**D. 2** — **D. 2** — The normal CD4:CD8 ratio in peripheral blood is approximately 2:1; this ratio falls below 1 in HIV infection (indicating immunodeficiency) and is used clinically to monitor disease progression.
 
 </details>
 
@@ -5639,7 +5639,7 @@ More than 90% patients of CREST syndrome with the limited cutaneous form of this
 
 <details><summary>Answer</summary>
 
-**A. Anti-centromere** — Source: Medicoholic 2016 PYQ compilation.
+**A. Anti-centromere** — **A. Anti-centromere** — Anti-centromere antibodies (ACA) are highly specific for limited cutaneous systemic sclerosis (CREST syndrome), present in >90% of cases; anti-topoisomerase I (anti-Scl-70) is associated with diffuse cutaneous SSc.
 
 </details>
 
@@ -5659,7 +5659,7 @@ Expression of a gene is known as?
 
 <details><summary>Answer</summary>
 
-**B. Phenotype** — Source: Medicoholic 2016 PYQ compilation.
+**B. Phenotype** — **B. Phenotype** — Phenotype refers to the observable physical/biochemical characteristics of an organism resulting from gene expression interacting with environment; genotype is the genetic makeup; genome is the complete DNA set.
 
 </details>
 
@@ -5679,7 +5679,7 @@ Acute intermittent porphyria is associated with which type of inheritance?
 
 <details><summary>Answer</summary>
 
-**A. Autosomal dominant** — Source: Medicoholic 2016 PYQ compilation.
+**A. Autosomal dominant** — **A. Autosomal dominant** — Acute intermittent porphyria (AIP) is caused by autosomal dominant deficiency of porphobilinogen deaminase (hydroxymethylbilane synthase); only 10–20% of carriers develop clinical disease.
 
 </details>
 
@@ -5699,7 +5699,7 @@ Inheritance associated with congenital adrenal hyperplasia -
 
 <details><summary>Answer</summary>
 
-**A. AR** — Source: Medicoholic 2016 PYQ compilation.
+**A. AR** — **A. AR** — Congenital adrenal hyperplasia (most commonly 21-hydroxylase deficiency) follows autosomal recessive inheritance; both alleles of the CYP21A2 gene must be defective for clinical disease to manifest.
 
 </details>
 
@@ -5719,7 +5719,7 @@ Inheritance associated with fragile X- syndrome is-
 
 <details><summary>Answer</summary>
 
-**C. X-linked dominant** — Source: Medicoholic 2016 PYQ compilation.
+**C. X-linked dominant** — **C. X-linked dominant** — Fragile X syndrome is caused by CGG trinucleotide repeat expansion in FMR1 gene on X chromosome; it is X-linked dominant with incomplete penetrance and variable expressivity.
 
 </details>
 
@@ -5739,7 +5739,7 @@ HOX gene is associated with
 
 <details><summary>Answer</summary>
 
-**A. Cranio-caudal development** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cranio-caudal development** — **A. Cranio-caudal development** — HOX genes encode homeodomain transcription factors that specify segmental identity along the anterior-posterior (cranio-caudal) body axis during embryonic development; mutations cause limb and vertebral malformations.
 
 </details>
 
@@ -5759,7 +5759,7 @@ Chromosome for ABO gene is?
 
 <details><summary>Answer</summary>
 
-**A. 9q** — Source: Medicoholic 2016 PYQ compilation.
+**A. 9q** — **A. 9q** — The ABO blood group gene (ABO glycosyltransferase) is located on chromosome 9q34.2; the Rh gene is on chromosome 1p, and MN blood group gene is on chromosome 4q.
 
 </details>
 
@@ -5779,7 +5779,7 @@ Barr body is found in the following phase of the cell cycle:
 
 <details><summary>Answer</summary>
 
-**A. Interphase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Interphase** — **A. Interphase** — Barr bodies (condensed inactive X chromosomes) are visible as dark chromatin masses at the nuclear periphery during interphase; they are not visible during mitosis when all chromatin condenses.
 
 </details>
 
@@ -5799,7 +5799,7 @@ Trinucleotide sequence associated with spino-cerebellar ataxia is?
 
 <details><summary>Answer</summary>
 
-**D. CAG** — Source: Medicoholic 2016 PYQ compilation.
+**D. CAG** — **D. CAG** — Spinocerebellar ataxia (most types) is caused by expansion of CAG trinucleotide repeats encoding polyglutamine tracts in ataxin proteins; CAG repeats also cause Huntington's disease and Kennedy's disease.
 
 </details>
 
@@ -5819,7 +5819,7 @@ Elevated CA-125 are seen in -
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2016 PYQ compilation.
+**D. All** — **D. All** — CA-125 is elevated not only in ovarian cancer but also in benign conditions including endometriosis, abdominal tuberculosis, peritoneal inflammation, and early pregnancy; poor specificity limits its use as a screening test.
 
 </details>
 
@@ -5839,7 +5839,7 @@ Li-fraumani syndrome occurs due to mutation in gene?
 
 <details><summary>Answer</summary>
 
-**A. p53** — Source: Medicoholic 2016 PYQ compilation.
+**A. p53** — **A. p53** — Li-Fraumeni syndrome is caused by germline mutations in TP53 (tumour protein p53), the 'guardian of the genome'; it predisposes to sarcomas, breast cancer, brain tumours, leukaemia, and adrenocortical carcinoma.
 
 </details>
 
@@ -5859,7 +5859,7 @@ Most common tumor suppressor gene involved in cancer genesis is?
 
 <details><summary>Answer</summary>
 
-**B. p53** — Source: Medicoholic 2016 PYQ compilation.
+**B. p53** — **B. p53** — TP53 is the most frequently mutated gene in human cancers (~50% of all cancers); as guardian of the genome, it triggers apoptosis or cell cycle arrest in response to DNA damage; loss enables unchecked proliferation.
 
 </details>
 
@@ -5879,7 +5879,7 @@ At which cell cycle checkpoint is the cell cycle halted if the cell's DNA is dam
 
 <details><summary>Answer</summary>
 
-**D. GO - GI** — Source: Medicoholic 2016 PYQ compilation.
+**D. GO - GI** — **D. GO - GI** — Wait: the primary DNA damage checkpoint is G1-S (activated by ATM/ATR-p53-p21 pathway), preventing replication of damaged DNA. The answer D (G0-G1) is listed but classically DNA damage halts at G1-S checkpoint via p53.
 
 </details>
 
@@ -5899,7 +5899,7 @@ Immunohistochemical marker for sentinel node biopsy for breast carcinoma is?
 
 <details><summary>Answer</summary>
 
-**A. Cytokeratin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cytokeratin** — **A. Cytokeratin** — Cytokeratin immunohistochemistry (IHC) is used to detect occult micrometastases in sentinel lymph nodes from breast carcinoma, as epithelial tumour cells stain positive for cytokeratins while lymph node lymphocytes do not.
 
 </details>
 
@@ -5919,7 +5919,7 @@ Scavenger receptors are for?
 
 <details><summary>Answer</summary>
 
-**A. Oxidized LDL** — Source: Medicoholic 2016 PYQ compilation.
+**A. Oxidized LDL** — **A. Oxidized LDL** — Macrophage scavenger receptors (SR-A, CD36) bind and internalise oxidised LDL (oxLDL) in an unregulated manner, bypassing the normal LDL receptor feedback; excess uptake converts macrophages to foam cells in atherosclerotic plaques.
 
 </details>
 
@@ -5939,7 +5939,7 @@ Causes of constrictive pericarditis is/are ?
 
 <details><summary>Answer</summary>
 
-**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and b** — **D. a and b** — Constrictive pericarditis is most commonly caused by tuberculosis (TB) worldwide; SLE also causes pericarditis and can lead to constrictive pericarditis; other causes include post-radiation, viral, and post-cardiac surgery.
 
 </details>
 

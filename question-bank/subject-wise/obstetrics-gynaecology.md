@@ -4662,7 +4662,7 @@ Human placenta is:
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Discoid (shape), haemochorial (chorion in direct contact with maternal blood), deciduate (decidua shed at delivery).
+**D. All of the above** — **D. All the above** — Human placenta is discoid in shape, hemochorial (maternal blood contacts trophoblast directly), and deciduate (maternal decidua shed at delivery).
 </details>
 
 ---

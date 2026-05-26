@@ -2470,7 +2470,7 @@ Afollowing patient with ear complaints showed positive Hennebert sign. Which of 
 
 <details><summary>Answer</summary>
 
-**A. Meniere's disease** — Source: Medicoholic 2015 PYQ compilation.
+**A. Meniere's disease** — **A. Meniere's disease** — Hennebert sign is false positive fistula test (nystagmus/vertigo on pneumatic pressure without an actual fistula); seen in Meniere's disease due to distended saccule adhering to the stapes footplate.
 
 </details>
 
@@ -2488,7 +2488,7 @@ Chemical labyrinthectomy by transtympanic route is done in Meniere's disease usi
 
 <details><summary>Answer</summary>
 
-**B. Gentamicin** — Source: Medicoholic 2015 PYQ compilation.
+**B. Gentamicin** — **B. Gentamicin** — Intratympanic gentamicin selectively destroys vestibular hair cells (more than cochlear), reducing vertigo in Meniere's disease; it is the preferred ototoxic agent for chemical labyrinthectomy via transtympanic route.
 
 </details>
 
@@ -2506,7 +2506,7 @@ Which perforation of the tympanic membrane is most commonly seen with tubotympan
 
 <details><summary>Answer</summary>
 
-**A. Central** — Source: Medicoholic 2015 PYQ compilation.
+**A. Central** — **A. Central** — Tubotympanic (safe) CSOM classically shows central perforation in the pars tensa, sparing the annulus; discharge is mucopurulent and non-offensive, without cholesteatoma formation.
 
 </details>
 
@@ -2524,7 +2524,7 @@ Histelberger's sign is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Acoustic neurom** — Source: Medicoholic 2015 PYQ compilation.
+**A. Acoustic neurom** — **A. Acoustic neuroma** — Hitselberger sign is decreased sensation in the posterosuperior external auditory canal due to compression of the facial nerve's sensory branch (Arnold's nerve) by an acoustic neuroma in the CPA.
 
 </details>
 
@@ -2542,7 +2542,7 @@ Saddle nose deformity is seen in?
 
 <details><summary>Answer</summary>
 
-**C. Tertiary syphilis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Tertiary syphilis** — **C. Tertiary syphilis** — Saddle nose deformity results from destruction of the nasal septal cartilage and bone by gummas in tertiary syphilis; similar deformity also occurs in Wegener's granulomatosis and relapsing polychondritis.
 
 </details>
 
@@ -2560,7 +2560,7 @@ What is the treatment of choice for ethmoidal polyps?
 
 <details><summary>Answer</summary>
 
-**A. Functional Endoscopic sinus surgery with polypectomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Functional Endoscopic sinus surgery with polypectomy** — **A. Functional Endoscopic sinus surgery with polypectomy** — FESS addresses the underlying sinus pathology and removes polyps under direct visualization; it has lower recurrence and better functional outcomes than older open approaches.
 
 </details>
 
@@ -2578,7 +2578,7 @@ Intrathecal fluorescein with endoscopic visualization is useful in diagnosis of?
 
 <details><summary>Answer</summary>
 
-**D. CSF Rhinorrhoea** — Source: Medicoholic 2015 PYQ compilation.
+**D. CSF Rhinorrhoea** — **D. CSF Rhinorrhoea** — Intrathecal fluorescein dye, when visualized endoscopically as yellow-green fluid in the nasal cavity, precisely localizes the CSF leak site (cribriform plate, sphenoid, or frontal sinus) for surgical repair.
 
 </details>
 
@@ -2596,7 +2596,7 @@ All of the following are features of a nasal foreign body except?
 
 <details><summary>Answer</summary>
 
-**D. Septal perforation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Septal perforation** — **D. Septal perforation** — Nasal foreign bodies cause unilateral foul-smelling discharge, epistaxis, and nasal obstruction; septal perforation is not a typical feature and suggests other pathology (trauma, granulomatosis, cocaine use).
 
 </details>
 
@@ -2614,7 +2614,7 @@ All of the following are true about nasal myiasis except?
 
 <details><summary>Answer</summary>
 
-**A. Common in vasomotor rhinitis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Common in vasomotor rhinitis** — **A. Common in vasomotor rhinitis** — Nasal myiasis (maggot infestation) occurs in neglected wounds, atrophic rhinitis, or immunocompromised patients, not vasomotor rhinitis; it causes intense irritation and can cause meningitis if severe.
 
 </details>
 
@@ -2632,7 +2632,7 @@ All of the following are features of enlarged adenoids except?
 
 <details><summary>Answer</summary>
 
-**D. Esophagitis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Esophagitis** — **D. Esophagitis** — Enlarged adenoids cause nasal obstruction, mouth breathing, otitis media with effusion, and failure to thrive; esophagitis is not a recognized complication of adenoid hypertrophy.
 
 </details>
 
@@ -2650,7 +2650,7 @@ All of the following are true about Spasmoidic Dysphonia except ?
 
 <details><summary>Answer</summary>
 
-**C. Adductor type is characterized by Breathlessness** — Source: Medicoholic 2015 PYQ compilation.
+**C. Adductor type is characterized by Breathlessness** — **C. Adductor type is characterized by Breathlessness** — Adductor spasmodic dysphonia causes strained, strangled voice quality; abductor type causes breathy/whispering voice; breathlessness is a feature of abductor, not adductor type.
 
 </details>
 
@@ -2668,7 +2668,7 @@ Which of the following cancers do not present with cervical lymphnode involvemen
 
 <details><summary>Answer</summary>
 
-**A. Glottic Cancer** — Source: Medicoholic 2015 PYQ compilation.
+**A. Glottic Cancer** — **A. Glottic Cancer** — True vocal cord (glottis) has sparse lymphatic supply; glottic cancers rarely present with cervical nodal metastasis, which is why early-stage glottic carcinoma has excellent prognosis with radiotherapy alone.
 
 </details>
 
@@ -2686,7 +2686,7 @@ All of the following are indications for tracheostomy except ?
 
 <details><summary>Answer</summary>
 
-**D. Superior laryngeal nerve palsy** — Source: Medicoholic 2015 PYQ compilation.
+**D. Superior laryngeal nerve palsy** — **D. Superior laryngeal nerve palsy** — Superior laryngeal nerve palsy causes loss of pitch and minor aspiration but does NOT cause significant airway obstruction; bilateral abductor (RLN) palsy, coma, and facial trauma are genuine indications.
 
 </details>
 
@@ -2704,7 +2704,7 @@ Submucosal resection is the treatment of choice of?
 
 <details><summary>Answer</summary>
 
-**A. DNS in adults** — Source: Medicoholic 2015 PYQ compilation.
+**A. DNS in adults** — **A. DNS in adults** — Submucosal resection (Killian's SMR) or septoplasty is the definitive treatment for symptomatic deviated nasal septum in adults; not done in children as it may interfere with nasal skeletal growth.
 
 </details>
 
@@ -2722,7 +2722,7 @@ All of the following are complications of maxillary sinus lavage and insufflatio
 
 <details><summary>Answer</summary>
 
-**D. Facial nerve injury** — Source: Medicoholic 2015 PYQ compilation.
+**D. Facial nerve injury** — **D. Facial nerve injury** — The facial nerve does not course through the maxillary sinus; complications of antral lavage include air embolism (via venous channels), orbital injury (through medial wall), and epistaxis.
 
 </details>
 
@@ -2740,7 +2740,7 @@ All of the following are features of Tubotympanic CSOM except ?
 
 <details><summary>Answer</summary>
 
-**C. Extreme pain** — Source: Medicoholic 2015 PYQ compilation.
+**C. Extreme pain** — **C. Extreme pain** — Tubotympanic (safe) CSOM is typically painless or mildly uncomfortable; severe/extreme pain suggests acute exacerbation, complication (mastoiditis, intracranial extension), or atticoantral (unsafe) disease.
 
 </details>
 
@@ -2758,7 +2758,7 @@ Features of Usher's Syndrome include all except ?
 
 <details><summary>Answer</summary>
 
-**C. Multiple Neurofibromas** — Source: Medicoholic 2015 PYQ compilation.
+**C. Multiple Neurofibromas** — **C. Multiple Neurofibromas** — Usher's syndrome (autosomal recessive) combines sensorineural hearing loss with retinitis pigmentosa (night blindness, visual field loss); neurofibromas are features of NF-2, not Usher's syndrome.
 
 </details>
 
@@ -2776,7 +2776,7 @@ Ansiokonia is ?
 
 <details><summary>Answer</summary>
 
-**B. Projection of different shaped images into visual cortex of two** — Source: Medicoholic 2015 PYQ compilation.
+**B. Projection of different shaped images into visual cortex of two** — **B. Projection of different shaped images into visual cortex of two** — Aniseikonia occurs when the two eyes perceive images of different sizes/shapes, commonly after unilateral lens implantation or high anisometropia, causing visual discomfort.
 
 </details>
 
@@ -2794,7 +2794,7 @@ Strabismic amblyopia is more common in patients with:
 
 <details><summary>Answer</summary>
 
-**C. Constant squint** — Source: Medicoholic 2015 PYQ compilation.
+**C. Constant squint** — **C. Constant squint** — Constant unilateral strabismus causes persistent suppression of the deviating eye's image by the cortex; continuous suppression leads to amblyopia, unlike intermittent or alternating squint where both eyes receive visual input.
 
 </details>
 
@@ -2812,7 +2812,7 @@ Astigmatism is defined as ?
 
 <details><summary>Answer</summary>
 
-**A. Refractory error wherein refraction varies along different** — Source: Medicoholic 2015 PYQ compilation.
+**A. Refractory error wherein refraction varies along different** — **A. Refractory error wherein refraction varies along different** — Astigmatism results from unequal curvature of the cornea (or lens) in different meridians, preventing a single point of focus and causing blurred vision at all distances.
 
 </details>
 
@@ -2830,7 +2830,7 @@ Pterygium all are true except:
 
 <details><summary>Answer</summary>
 
-**A. Arise from any part of conjunctiva** — Source: Medicoholic 2015 PYQ compilation.
+**A. Arise from any part of conjunctiva** — **A. Arise from any part of conjunctiva** — Pterygium arises specifically from the interpalpebral bulbar conjunctiva at the limbus (3 o'clock and 9 o'clock positions); UV exposure and dust are risk factors; it can cause astigmatism.
 
 </details>
 
@@ -2848,7 +2848,7 @@ Pterygium all are true except:
 
 <details><summary>Answer</summary>
 
-**C. 3D** — Source: Medicoholic 2015 PYQ compilation.
+**C. 3D** — **C. 3D** — A 1 mm change in axial length alters refractive power by approximately 3 diopters; this is clinically important in biometry for IOL power calculation before cataract surgery.
 
 </details>
 
@@ -2866,7 +2866,7 @@ Subconjunctival hemorrhages are evident in the following cases except ?
 
 <details><summary>Answer</summary>
 
-**D. Pellagra** — Source: Medicoholic 2015 PYQ compilation.
+**D. Pellagra** — **D. Pellagra** — Pellagra (niacin deficiency) presents with dermatitis, diarrhea, and dementia; subconjunctival hemorrhage is seen in whooping cough (valsalva), scurvy (vessel fragility), and purpura (platelet disorders), not pellagra.
 
 </details>
 
@@ -2884,7 +2884,7 @@ Kayser- Fleischer rings (KF rings) are seen in:
 
 <details><summary>Answer</summary>
 
-**C. Wilson's disease** — Source: Medicoholic 2015 PYQ compilation.
+**C. Wilson's disease** — **C. Wilson's disease** — KF rings are golden-brown copper deposits in Descemet's membrane of the peripheral cornea; pathognomonic of Wilson's disease (copper metabolism disorder) due to ceruloplasmin deficiency, best seen on slit-lamp.
 
 </details>
 
@@ -2902,7 +2902,7 @@ All of the following are true for sympathetic ophthalmitis except:
 
 <details><summary>Answer</summary>
 
-**A. Affects the injured eye** — Source: Medicoholic 2015 PYQ compilation.
+**A. Affects the injured eye** — **A. Affects the injured eye** — Sympathetic ophthalmia is a bilateral granulomatous uveitis where the exciting (injured) eye triggers autoimmune reaction affecting the sympathizing (uninjured) eye; the injured eye itself is primarily affected by trauma.
 
 </details>
 
@@ -2920,7 +2920,7 @@ The zonules suspending the lens are attached to the?
 
 <details><summary>Answer</summary>
 
-**B. Ciliary body** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ciliary body** — **B. Ciliary body** — Zonules of Zinn (suspensory ligaments) extend from the pars plana and pars ciliaris of the ciliary body to the lens equator; ciliary muscle contraction relaxes zonules, allowing lens to round up for accommodation.
 
 </details>
 
@@ -2938,7 +2938,7 @@ Lens attached to ciliary body via ?
 
 <details><summary>Answer</summary>
 
-**B. Zonules** — Source: Medicoholic 2015 PYQ compilation.
+**B. Zonules** — **B. Zonules** — The crystalline lens is suspended in place by zonular fibers (zonules of Zinn) which attach from the ciliary body to the lens equatorial capsule; these enable accommodation via ciliary muscle action.
 
 </details>
 
@@ -2956,7 +2956,7 @@ Non foldable lens is made of -
 
 <details><summary>Answer</summary>
 
-**C. PMMA** — Source: Medicoholic 2015 PYQ compilation.
+**C. PMMA** — **C. PMMA** — Polymethylmethacrylate (PMMA) is rigid and non-foldable, requiring a larger incision for IOL implantation; foldable IOLs are made of silicone, acrylic, or hydrogel, allowing insertion through smaller incisions.
 
 </details>
 
@@ -2974,7 +2974,7 @@ Rigid gas permeable lens are made of-
 
 <details><summary>Answer</summary>
 
-**C. Co polymer of PMMA, Silicon containing monomer & cellulose** — Source: Medicoholic 2015 PYQ compilation.
+**C. Co polymer of PMMA, Silicon containing monomer & cellulose** — **C. Co polymer of PMMA, Silicon containing monomer & cellulose** — Rigid gas-permeable (RGP) contact lenses are made of PMMA-silicone-cellulose acetate butyrate copolymers, allowing oxygen permeability while maintaining optical clarity and shape.
 
 </details>
 
@@ -2992,7 +2992,7 @@ Axial length of eye ball is measured by ?
 
 <details><summary>Answer</summary>
 
-**A. A mode Ultrasonography** — Source: Medicoholic 2015 PYQ compilation.
+**A. A mode Ultrasonography** — **A. A mode Ultrasonography** — A-scan (amplitude mode) ultrasound provides precise one-dimensional measurements of axial length needed for IOL power calculation (using SRK or Haigis formula) before cataract surgery.
 
 </details>
 
@@ -5771,7 +5771,7 @@ True about basic rhythm of GIT?
 
 <details><summary>Answer</summary>
 
-**A. Fluctuate between -65 and -40 mV** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fluctuate between -65 and -40 mV** — **A. Fluctuate between -65 and -40 mV** — GIT basic electrical rhythm (slow waves) oscillates between resting potential (-65 mV) and threshold (-40 mV); pacemaker cells are in the myenteric plexus of proximal stomach/duodenum.
 
 </details>
 
@@ -5791,7 +5791,7 @@ Phosphate/phosphorus is present in which part of cell?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Phosphorus is a structural component of phospholipid cell membranes, DNA backbone (phosphodiester bonds), and RNA; present throughout the cell.
 
 </details>
 
@@ -5811,7 +5811,7 @@ Premature ejaculation occurs in which phase of sexual cycle?
 
 <details><summary>Answer</summary>
 
-**C. Orgasmic phase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Orgasmic phase** — **C. Orgasmic phase** — Ejaculation is the primary event of the orgasmic phase in males; premature ejaculation occurs when orgasmic phase is triggered prematurely before adequate stimulation.
 
 </details>
 
@@ -5831,7 +5831,7 @@ Erection of penis occurs in which phase of sexual cycle?
 
 <details><summary>Answer</summary>
 
-**A. Excitement phase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Excitement phase** — **A. Excitement phase** — Penile erection via parasympathetic-mediated vasodilation and lacunar engorgement is the defining vascular event initiating the excitement phase of the sexual response cycle.
 
 </details>
 
@@ -5851,7 +5851,7 @@ Shortest phase of sexual cycle?
 
 <details><summary>Answer</summary>
 
-**C. Orgasmic phase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Orgasmic phase** — **C. Orgasmic phase** — The orgasmic phase (ejaculation/orgasm) is the briefest phase of the sexual cycle, lasting only seconds, compared to excitement, plateau, and resolution which last minutes.
 
 </details>
 
@@ -5871,7 +5871,7 @@ Somatic efferent of which arise from medulla?
 
 <details><summary>Answer</summary>
 
-**D. Hypoglossal** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hypoglossal** — **D. Hypoglossal** — CN XII (hypoglossal) is a somatic efferent nerve with its nucleus in the medulla oblongata; it innervates all intrinsic and most extrinsic tongue muscles.
 
 </details>
 
@@ -5891,7 +5891,7 @@ Which among the following glucose transporter present in beta cells ?
 
 <details><summary>Answer</summary>
 
-**B. GLUT2** — Source: Medicoholic 2016 PYQ compilation.
+**B. GLUT2** — **B. GLUT2** — Pancreatic beta cells express GLUT2, a high-Km low-affinity transporter, allowing glucose uptake proportional to blood glucose; this enables glucose-sensing for insulin secretion.
 
 </details>
 
@@ -5911,7 +5911,7 @@ AII are true about beta oxidation of fats acids except -
 
 <details><summary>Answer</summary>
 
-**D. Fatty acid oxidation defects present with ketosis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fatty acid oxidation defects present with ketosis** — **D. Fatty acid oxidation defects present with ketosis** — FAO defects present with hypoketotic hypoglycemia (not ketosis) because impaired fatty acid oxidation blocks ketone body production, a key distinguishing feature.
 
 </details>
 
@@ -5931,7 +5931,7 @@ Edman's reagent is used for
 
 <details><summary>Answer</summary>
 
-**B. Protein sequencing** — Source: Medicoholic 2016 PYQ compilation.
+**B. Protein sequencing** — **B. Protein sequencing** — Edman's reagent (phenylisothiocyanate) reacts with the N-terminal amino acid of a protein; sequential degradation allows determination of protein primary structure.
 
 </details>
 
@@ -5951,7 +5951,7 @@ Regarding NAD and NADP, true is ?
 
 <details><summary>Answer</summary>
 
-**C. High leucine causes niacin deficiency** — Source: Medicoholic 2016 PYQ compilation.
+**C. High leucine causes niacin deficiency** — **C. High leucine causes niacin deficiency** — Leucine inhibits conversion of tryptophan to niacin (via quinolinate phosphoribosyltransferase); high leucine diets (e.g., in pellagra-prone populations eating corn) worsen niacin deficiency.
 
 </details>
 
@@ -5971,7 +5971,7 @@ All of the following are true about Nucleic Acid Sequence Based Amplification ex
 
 <details><summary>Answer</summary>
 
-**C. Denaturation is carried out at 94°C** — Source: Medicoholic 2016 PYQ compilation.
+**C. Denaturation is carried out at 94°C** — **C. Denaturation is carried out at 94°C** — NASBA is an isothermal amplification process conducted at 41°C; unlike PCR, it does not require high-temperature denaturation cycles, making it suitable for RNA amplification.
 
 </details>
 
@@ -5991,7 +5991,7 @@ Jumping genes are ?
 
 <details><summary>Answer</summary>
 
-**A. Moderately repetitive sequences** — Source: Medicoholic 2016 PYQ compilation.
+**A. Moderately repetitive sequences** — **A. Moderately repetitive sequences** — Transposons (jumping genes), including SINEs and LINEs, are moderately repetitive DNA sequences that can change position within the genome, discovered by Barbara McClintock.
 
 </details>
 
@@ -6011,7 +6011,7 @@ Abetalipoproteinemia affects ?
 
 <details><summary>Answer</summary>
 
-**A. Retinal pigment epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**A. Retinal pigment epithelium** — **A. Retinal pigment epithelium** — Abetalipoproteinemia causes vitamin E deficiency due to absent apoB-48/100; fat-soluble vitamin deficiency leads to progressive retinitis pigmentosa affecting the RPE.
 
 </details>
 
@@ -6031,7 +6031,7 @@ True about MHC-class II -
 
 <details><summary>Answer</summary>
 
-**A. Not involved in innate immunity** — Source: Medicoholic 2016 PYQ compilation.
+**A. Not involved in innate immunity** — **A. Not involved in innate immunity** — MHC class II presents exogenous antigens to CD4+ helper T cells via adaptive immunity; it is expressed on professional antigen-presenting cells (dendritic cells, macrophages, B cells), not innate immune effectors.
 
 </details>
 
@@ -6051,7 +6051,7 @@ All are true about thrombotic thrombocytopenic purpura except?
 
 <details><summary>Answer</summary>
 
-**D. Grossly abnormal coagulation tests** — Source: Medicoholic 2016 PYQ compilation.
+**D. Grossly abnormal coagulation tests** — **D. Grossly abnormal coagulation tests** — TTP is characterized by microangiopathic hemolytic anemia and thrombocytopenia but notably normal PT and aPTT; coagulation cascade is intact (unlike DIC).
 
 </details>
 
@@ -6071,7 +6071,7 @@ Most common cancer to occur in organ transplant patient is?
 
 <details><summary>Answer</summary>
 
-**A. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Squamous cell carcinoma** — **A. Squamous cell carcinoma** — Chronic immunosuppression post-transplant markedly increases skin SCC risk (up to 250-fold); SCC is the most common de novo malignancy in solid organ transplant recipients.
 
 </details>
 
@@ -6091,7 +6091,7 @@ Drug used for medical management of acromegaly due to small pituitary tumors is?
 
 <details><summary>Answer</summary>
 
-**B. Pegvisomant** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pegvisomant** — **B. Pegvisomant** — Pegvisomant is a GH receptor antagonist that blocks IGF-1 production; used for medical management of acromegaly when surgery or somatostatin analogs are inadequate, especially for small tumors.
 
 </details>
 
@@ -6111,7 +6111,7 @@ Most potent opioid is ?
 
 <details><summary>Answer</summary>
 
-**C. Sulfentanyl** — Source: Medicoholic 2016 PYQ compilation.
+**C. Sulfentanyl** — **C. Sulfentanyl** — Sufentanil is approximately 500-1000 times more potent than morphine and 5-10 times more potent than fentanyl; it is the most potent clinically used opioid analgesic.
 
 </details>
 
@@ -6131,7 +6131,7 @@ Which of the following is used for the patient on anti​parkinsonian medication
 
 <details><summary>Answer</summary>
 
-**C. Selegeline** — Source: Medicoholic 2016 PYQ compilation.
+**C. Selegeline** — **C. Selegeline** — Selegiline (MAO-B inhibitor) smooths motor fluctuations by extending levodopa's dopaminergic effect; it reduces 'wearing off' and on-off effects in patients on levodopa/carbidopa.
 
 </details>
 
@@ -6151,7 +6151,7 @@ Which of the following can be used in the management of tardive dyskinesia ?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Tardive dyskinesia management includes stopping the causative antipsychotic, tetrabenazine (monoamine depletor), and baclofen (GABA-B agonist); all three have evidence.
 
 </details>
 
@@ -6171,7 +6171,7 @@ Venalafaxine is an FDA approved drug for the treatment of ?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Venlafaxine (SNRI) is FDA-approved for major depressive disorder, generalized anxiety disorder, social anxiety disorder, and panic disorder due to dual serotonin-norepinephrine reuptake inhibition.
 
 </details>
 
@@ -6191,7 +6191,7 @@ Botulinum toxin is used in treatment of ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Botulinum toxin (blocks ACh release at NMJ) has multiple FDA-approved indications: axillary hyperhidrosis, blepharospasm, cervical dystonia, migraine prophylaxis, and others.
 
 </details>
 
@@ -6211,7 +6211,7 @@ Erythromycin is used in the treatment of which GIT disorder?
 
 <details><summary>Answer</summary>
 
-**C. Diabetic gastroparesis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Diabetic gastroparesis** — **C. Diabetic gastroparesis** — Erythromycin acts as a motilin receptor agonist, accelerating gastric emptying; used prokinetically in diabetic gastroparesis, though tachyphylaxis limits long-term use.
 
 </details>
 
@@ -6231,7 +6231,7 @@ Treatment of clopidogrel toxicity can be done with ?
 
 <details><summary>Answer</summary>
 
-**D. rFVIIa infusion** — Source: Medicoholic 2016 PYQ compilation.
+**D. rFVIIa infusion** — **D. rFVIIa infusion** — Clopidogrel irreversibly inhibits P2Y12 receptors; platelet transfusion can be inhibited by circulating drug. Recombinant factor VIIa can bypass the platelet defect and achieve hemostasis.
 
 </details>
 
@@ -6251,7 +6251,7 @@ Bendamustine is useful for the management of ?
 
 <details><summary>Answer</summary>
 
-**A. Chronic lymphoid leukemia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Chronic lymphoid leukemia** — **A. Chronic lymphoid leukemia** — Bendamustine is an alkylating agent with purine analog properties; FDA-approved for CLL (as first-line) and indolent B-cell non-Hodgkin lymphoma refractory to rituximab.
 
 </details>
 
@@ -6271,7 +6271,7 @@ True about trientene is :
 
 <details><summary>Answer</summary>
 
-**C. Trientine therapy can cause iron deficiency** — Source: Medicoholic 2016 PYQ compilation.
+**C. Trientine therapy can cause iron deficiency** — **C. Trientine therapy can cause iron deficiency** — Trientine is a copper chelator used in Wilson's disease; it chelates iron along with copper, causing sideropenic anemia as a notable side effect.
 
 </details>
 
@@ -6291,7 +6291,7 @@ Which drug is used in the treatment of Type I tyrosinemia?
 
 <details><summary>Answer</summary>
 
-**A. Nitisinone** — Source: Medicoholic 2016 PYQ compilation.
+**A. Nitisinone** — **A. Nitisinone** — Nitisinone (NTBC) inhibits 4-hydroxyphenylpyruvate dioxygenase, blocking accumulation of toxic fumarylacetoacetate in Type I tyrosinemia (hepatorenal tyrosinemia); it is the DOC.
 
 </details>
 
@@ -6311,7 +6311,7 @@ Punishment for criminal abortion for the women who gives consent and the perform
 
 <details><summary>Answer</summary>
 
-**A. 312** — Source: Medicoholic 2016 PYQ compilation.
+**A. 312** — **A. 312** — IPC Section 312 covers causing miscarriage with woman's consent (punishment for both woman and performer); Section 313 covers abortion without consent.
 
 </details>
 
@@ -6331,7 +6331,7 @@ Minimum age for giving consent for organ donation in India is?
 
 <details><summary>Answer</summary>
 
-**B. 18 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 18 years** — **B. 18 years** — Under India's Transplantation of Human Organs and Tissues Act, the minimum legal age for giving consent for organ donation is 18 years.
 
 </details>
 
@@ -6351,7 +6351,7 @@ Four carpal bones are present at what age: DNB 09
 
 <details><summary>Answer</summary>
 
-**B. 4 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 4 years** — **B. 4 years** — Carpal ossification sequence: capitate and hamate appear at birth; triquetrum at 3 years; lunate at 4 years; thus four ossification centers are present by age 4.
 
 </details>
 

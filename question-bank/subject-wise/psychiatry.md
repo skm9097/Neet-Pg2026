@@ -680,7 +680,7 @@ For activity of antipsychotic, action is required at which receptor -
 
 <details><summary>Answer</summary>
 
-**C. DZdopaminergic** — Source: Medicoholic 2015 PYQ compilation.
+**C. DZdopaminergic** — **C. DZdopaminergic** — All antipsychotics exert their therapeutic effect by blocking D2 (dopaminergic) receptors in the mesolimbic pathway; minimum 60-65% D2 occupancy is required for antipsychotic action.
 
 </details>
 
@@ -698,7 +698,7 @@ Beside depression, other use of SSRIs ?
 
 <details><summary>Answer</summary>
 
-**D. Sterility** — Source: Medicoholic 2015 PYQ compilation.
+**D. Sterility** — **C. Premature ejaculation** — SSRIs delay ejaculation by increasing serotonergic tone, which inhibits the ejaculatory reflex via 5-HT2C receptors; dapoxetine (short-acting SSRI) is specifically approved for premature ejaculation. Note: the original JSON marked D as answer but C is medically correct.
 
 </details>
 
@@ -716,7 +716,7 @@ Irresistible sexual desire in a male is known as: AIIMS 08
 
 <details><summary>Answer</summary>
 
-**C. Satyriasis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Satyriasis** — **C. Satyriasis** — Satyriasis (hypersexuality in males) is derived from satyrs of Greek mythology; the female equivalent is nymphomania; tribadism refers to same-sex female sexual practice.
 
 </details>
 
@@ -734,7 +734,7 @@ Duodenal aspirate is used in diagnosis of:
 
 <details><summary>Answer</summary>
 
-**B. Giardia lamblia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Giardia lamblia** — **B. Giardia lamblia** — Giardia trophozoites and cysts reside in the duodenum and upper jejunum; duodenal aspirate or string test (Enterotest) demonstrates trophozoites when stool examination is negative.
 
 </details>
 
@@ -752,7 +752,7 @@ Most common acute complication of dialysis is
 
 <details><summary>Answer</summary>
 
-**A. Hypotension** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypotension** — **A. Hypotension** — Intradialytic hypotension occurs in 20-30% of sessions due to rapid fluid removal exceeding refilling rate, causing effective blood volume depletion and decreased cardiac output.
 
 </details>
 
@@ -770,7 +770,7 @@ Triad of normal pressure hydrocephalus includes all except -
 
 <details><summary>Answer</summary>
 
-**D. Browache** — Source: Medicoholic 2015 PYQ compilation.
+**D. Browache** — **D. Browache** — Hakim's triad of NPH comprises gait apraxia (magnetic gait), dementia, and urinary incontinence; browache/headache is not a feature as CSF pressure is normal by definition.
 
 </details>
 
@@ -788,7 +788,7 @@ The best method for inducing mid trimester abortion is :
 
 <details><summary>Answer</summary>
 
-**C. Prostaglandins** — Source: Medicoholic 2015 PYQ compilation.
+**C. Prostaglandins** — **C. Prostaglandins** — Prostaglandins (PGE2 or misoprostol) are the safest and most effective agents for mid-trimester termination, causing cervical ripening and uterine contractions with minimal systemic complications.
 
 </details>
 
@@ -806,7 +806,7 @@ What would be the type of presentation when the engaging diameter is mentovertic
 
 <details><summary>Answer</summary>
 
-**B. Brow** — Source: Medicoholic 2015 PYQ compilation.
+**B. Brow** — **B. Brow** — Brow presentation has the largest engaging diameter (mentovertical = 13.5 cm), making it an obstructed labor unless converted to face or vertex; it cannot deliver vaginally as-is.
 
 </details>
 
@@ -824,7 +824,7 @@ What would be the type of presentation when the engaging diameter is mentovertic
 
 <details><summary>Answer</summary>
 
-**C. 36 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**C. 36 weeks** — **C. 36 weeks** — In a grand multipara with lax abdominal wall and pendulous abdomen, fundal height at umbilicus corresponds to 36 weeks; head engagement is delayed due to lax uterine/abdominal muscles.
 
 </details>
 
@@ -842,7 +842,7 @@ If the symphysiofundal height is 40 cm and the station of the head is at -1, wei
 
 <details><summary>Answer</summary>
 
-**D. 4.3 kg** — Source: Medicoholic 2015 PYQ compilation.
+**D. 4.3 kg** — **D. 4.3 kg** — Johnson's formula: fetal weight (g) = (fundal height in cm − station) × 155; (40 − 1) × 155 = 39 × 155 ≈ 4,340 g ≈ 4.3 kg.
 
 </details>
 
@@ -860,7 +860,7 @@ Which of the following is true regarding precocious puberty :
 
 <details><summary>Answer</summary>
 
-**A. Sexual maturity is attained early** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sexual maturity is attained early** — **A. Sexual maturity is attained early** — Precocious puberty is defined as secondary sexual characteristics before age 8 in girls and 9 in boys; reproductive capacity is achieved early but final adult height is reduced due to premature epiphyseal fusion.
 
 </details>
 
@@ -878,7 +878,7 @@ Kallmans syndrome is associated with all of the following except
 
 <details><summary>Answer</summary>
 
-**B. Excess stimulation of the HPO axis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Excess stimulation of the HPO axis** — **B. Excess stimulation of the HPO axis** — Kallmann syndrome involves deficient GnRH secretion due to failure of GnRH neuron migration; the HPO axis is hypostimulated (hypogonadotropic hypogonadism), not hyperstimulated.
 
 </details>
 
@@ -896,7 +896,7 @@ Antimullerian hormone is secreted by ?
 
 <details><summary>Answer</summary>
 
-**C. Sertoli cells** — Source: Medicoholic 2015 PYQ compilation.
+**C. Sertoli cells** — **C. Sertoli cells** — AMH (Müllerian inhibiting substance) is secreted by testicular Sertoli cells in the male fetus, causing regression of Müllerian (paramesonephric) ducts between weeks 8-10 of gestation.
 
 </details>
 
@@ -914,7 +914,7 @@ What is to be done if 2 OCP is missed on day 17 - 18 of the cycle -
 
 <details><summary>Answer</summary>
 
-**B. Use back up contraceptive** — Source: Medicoholic 2015 PYQ compilation.
+**B. Use back up contraceptive** — **B. Use back up contraceptive** — If 2+ pills are missed in week 3 (days 15-21), complete the current pack and start a new pack immediately without a pill-free interval; backup contraception is needed for 7 days.
 
 </details>
 
@@ -932,7 +932,7 @@ Most common complication of dermoid cyst is -
 
 <details><summary>Answer</summary>
 
-**B. Torsion** — Source: Medicoholic 2015 PYQ compilation.
+**B. Torsion** — **B. Torsion** — Dermoid cysts (mature cystic teratomas) have a long pedicle and are prone to torsion (10-15%); malignant transformation occurs in only 1-2% and rupture is uncommon.
 
 </details>
 
@@ -950,7 +950,7 @@ There is overlapping of skull sutures which can be reduced with gental pressure.
 
 <details><summary>Answer</summary>
 
-**B. Grade 2** — Source: Medicoholic 2015 PYQ compilation.
+**B. Grade 2** — **B. Grade 2** — Moulding grading: Grade 1 = sutures apposed but reducible; Grade 2 = overlapping reducible with gentle pressure; Grade 3 = overlapping non-reducible; Grade 4 = severe overlapping with caput.
 
 </details>
 
@@ -968,7 +968,7 @@ In cervical incompetence diameter of internal os of cervix is -
 
 <details><summary>Answer</summary>
 
-**A. 1 cm** — Source: Medicoholic 2015 PYQ compilation.
+**A. 1 cm** — **A. 1 cm** — Cervical incompetence is diagnosed when the internal os admits a No. 8 Hegar dilator (8 mm ≈ 1 cm) without resistance in a non-pregnant state; ultrasound shows cervical length <2.5 cm.
 
 </details>
 
@@ -986,7 +986,7 @@ Contracted pelvis is defined as shortening of one or more planes by -
 
 <details><summary>Answer</summary>
 
-**A. 0.5 cm** — Source: Medicoholic 2015 PYQ compilation.
+**A. 0.5 cm** — **A. 0.5 cm** — A pelvis is contracted when any diameter is shortened by 0.5 cm or more from normal; conjugate vera <10 cm (true conjugate <10.5 cm) denotes inlet contraction requiring caesarean section.
 
 </details>
 
@@ -1004,7 +1004,7 @@ Most common type of conjoint twin is -
 
 <details><summary>Answer</summary>
 
-**A. Thoracopagus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Thoracopagus** — **A. Thoracopagus** — Thoracopagus (joined at the thorax/chest) accounts for 40-75% of all conjoined twins; they share the pericardium and often the heart, making surgical separation extremely challenging.
 
 </details>
 
@@ -1022,7 +1022,7 @@ Not a cause of oligohydramnios -
 
 <details><summary>Answer</summary>
 
-**D. Chorioangioma** — Source: Medicoholic 2015 PYQ compilation.
+**D. Chorioangioma** — **D. Chorioangioma** — Chorioangioma is a vascular placental tumor that causes polyhydramnios (not oligohydramnios) due to fetal hydrops and increased transudation; IUGR and renal agenesis reduce fetal urine output.
 
 </details>
 
@@ -1040,7 +1040,7 @@ Risk factors for molar gestation are all of the following except -
 
 <details><summary>Answer</summary>
 
-**C. Higher ratio of maternal/paternal chromosomes** — Source: Medicoholic 2015 PYQ compilation.
+**C. Higher ratio of maternal/paternal chromosomes** — **C. Higher ratio of maternal/paternal chromosomes** — Complete mole has 46 chromosomes of paternal origin only (androgenesis); partial mole has 69 chromosomes (diandry with 1 maternal set); a higher maternal/paternal ratio is not a risk factor.
 
 </details>
 
@@ -1058,7 +1058,7 @@ Drugs used in endometriosis is
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Endometriosis is treated with combined OCPs (suppress ovulation), letrozole (aromatase inhibitor reducing estrogen), and mifepristone (anti-progesterone causing decidualization/atrophy); all are established options.
 
 </details>
 
@@ -1076,7 +1076,7 @@ Leydig cells of fetus testis secretes
 
 <details><summary>Answer</summary>
 
-**C. Testosterone** — Source: Medicoholic 2015 PYQ compilation.
+**C. Testosterone** — **C. Testosterone** — Fetal Leydig cells secrete testosterone (stimulated by placental hCG), which masculinizes Wolffian ducts and external genitalia; Sertoli cells separately secrete AMH/MIS causing Müllerian duct regression.
 
 </details>
 
@@ -1094,7 +1094,7 @@ Odland bodies are seen in which layer of epidermis?
 
 <details><summary>Answer</summary>
 
-**C. Stratum granulosum** — Source: Medicoholic 2015 PYQ compilation.
+**C. Stratum granulosum** — **C. Stratum granulosum** — Odland bodies (lamellar granules/membrane-coating granules) are lipid-rich organelles in the stratum granulosum that fuse with the cell membrane, secreting lipids that form the epidermal barrier.
 
 </details>
 
@@ -1112,7 +1112,7 @@ Anagen phase of the hair indicates:
 
 <details><summary>Answer</summary>
 
-**A. The phase of activity and growth** — Source: Medicoholic 2015 PYQ compilation.
+**A. The phase of activity and growth** — **A. The phase of activity and growth** — Anagen is the active growth phase lasting 2-6 years, during which the hair follicle is metabolically active; it accounts for 85-90% of scalp hairs; catagen is transition, telogen is resting.
 
 </details>
 
@@ -1130,7 +1130,7 @@ A girl about to marry has comedonal acne. Drug to treat such a case is:
 
 <details><summary>Answer</summary>
 
-**C. Retinoids** — Source: Medicoholic 2015 PYQ compilation.
+**C. Retinoids** — **C. Retinoids** — Topical retinoids (tretinoin, adapalene) are first-line for comedonal acne, normalizing follicular keratinization and reducing microcomedo formation; antibiotics and benzoyl peroxide target inflammatory acne.
 
 </details>
 
@@ -1148,7 +1148,7 @@ Acanthosis nigricans is characterized by all of the following except ?
 
 <details><summary>Answer</summary>
 
-**C. Histologically there is hypermelanosis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Histologically there is hypermelanosis** — **C. Histologically there is hypermelanosis** — Acanthosis nigricans histology shows hyperkeratosis and papillomatosis with minimal melanocyte increase; the hyperpigmentation is due to hyperkeratosis (thickened stratum corneum), not melanin excess.
 
 </details>
 
@@ -1166,7 +1166,7 @@ Epidermal nevus follows ?
 
 <details><summary>Answer</summary>
 
-**A. Blaschko's lines** — Source: Medicoholic 2015 PYQ compilation.
+**A. Blaschko's lines** — **A. Blaschko's lines** — Epidermal nevi follow Blaschko's lines, which represent pathways of epidermal cell migration and proliferation during embryogenesis; linear and whorled patterns reflect somatic mosaicism.
 
 </details>
 
@@ -1184,7 +1184,7 @@ In lichen planus all the following sites are affected except ?
 
 <details><summary>Answer</summary>
 
-**D. Extensor aspect of upper extrimities** — Source: Medicoholic 2015 PYQ compilation.
+**D. Extensor aspect of upper extrimities** — **D. Extensor aspect of upper extremities** — Lichen planus classically affects flexor surfaces (wrist, forearm), oral mucosa, nails, and genitalia; extensor aspects are characteristic of psoriasis, not lichen planus.
 
 </details>
 
@@ -1202,7 +1202,7 @@ Not a hemorrhagic lesion ?
 
 <details><summary>Answer</summary>
 
-**C. Plaque** — Source: Medicoholic 2015 PYQ compilation.
+**C. Plaque** — **C. Plaque** — A plaque is an elevated, flat-topped skin lesion >1 cm (e.g., psoriasis) representing epidermal or dermal changes; petechiae and ecchymoses are hemorrhagic lesions caused by extravasated red blood cells.
 
 </details>
 

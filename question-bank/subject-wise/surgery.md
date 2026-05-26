@@ -2843,7 +2843,7 @@ The following statement about Keloid is true
 
 <details><summary>Answer</summary>
 
-**A. It contain growth factor**
+**A. It contain growth factor** — **A. It contain growth factor** — Keloids contain elevated TGF-β and other growth factors driving excessive collagen deposition; they extend beyond wound margins (unlike hypertrophic scars) and simple excision risks recurrence.
 
 </details>
 

@@ -830,7 +830,7 @@ Which of the following is endogenous pyrogen
 
 <details><summary>Answer</summary>
 
-**A. PG E2**
+**A. PG E2** — **A. PG E2** — Prostaglandin E2 (PGE2) is the key endogenous pyrogen acting on the hypothalamic preoptic area to raise the thermoregulatory set-point; produced from arachidonic acid via COX-2 in response to cytokines (IL-1, IL-6, TNF).
 
 </details>
 
@@ -3554,7 +3554,7 @@ The following statement about Keloid is true
 
 <details><summary>Answer</summary>
 
-**A. It contain growth factor**
+**A. It contain growth factor** — **A. It contain growth factor** — Keloids contain elevated TGF-β and other growth factors driving excessive collagen deposition; they extend beyond wound margins (unlike hypertrophic scars) and simple excision risks recurrence.
 
 </details>
 
