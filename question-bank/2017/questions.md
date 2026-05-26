@@ -1301,7 +1301,7 @@ Apixaban is
 
 <details><summary>Answer</summary>
 
-**B. Direct X2 inhibitor**
+**B. Direct X2 inhibitor** — **B. Direct X2 inhibitor** — Apixaban is a direct oral anticoagulant (DOAC) that selectively and reversibly inhibits Factor Xa, preventing conversion of prothrombin to thrombin; no need for routine INR monitoring.
 
 </details>
 

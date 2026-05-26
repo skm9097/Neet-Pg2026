@@ -1390,7 +1390,7 @@ Von Magnus phenomenon -
 
 <details><summary>Answer</summary>
 
-**D. Virus yields has high hemagglutination titre but low infectivity** — Source: Medicoholic 2015 PYQ compilation.
+**D. Virus yields has high hemagglutination titre but low infectivity** — **D. Virus yields has high hemagglutination titre but low infectivity** — Von Magnus phenomenon: serial undiluted influenza passages produce defective interfering particles with high HA titres but non-infectious/incomplete viral genomes.
 
 </details>
 
@@ -1408,7 +1408,7 @@ Precipitation in comparison to agglutination requires -
 
 <details><summary>Answer</summary>
 
-**D. Soluble antigen** — Source: Medicoholic 2015 PYQ compilation.
+**D. Soluble antigen** — **D. Soluble antigen** — Precipitation requires soluble antigen + antibody forming insoluble lattice complexes; agglutination requires particulate antigens (cells/bacteria) cross-linked by antibody.
 
 </details>
 
@@ -1426,7 +1426,7 @@ Example of precipitation test is
 
 <details><summary>Answer</summary>
 
-**D. Kahn test** — Source: Medicoholic 2015 PYQ compilation.
+**D. Kahn test** — **D. Kahn test** — Kahn test is a precipitation-based flocculation test for syphilis; VDRL is also flocculation; Rose-Waaler and Widal are agglutination; latex agglutination is agglutination.
 
 </details>
 
@@ -1444,7 +1444,7 @@ Example of neutrilization reaction -
 
 <details><summary>Answer</summary>
 
-**D. Nagler reaction** — Source: Medicoholic 2015 PYQ compilation.
+**D. Nagler reaction** — **D. Nagler reaction** — Nagler reaction is a neutralization test where alpha-toxin of Clostridium perfringens is neutralized by specific antitoxin, demonstrated on egg-yolk agar as opacity inhibition.
 
 </details>
 
@@ -1462,7 +1462,7 @@ Which is specific for acquired immunity ?
 
 <details><summary>Answer</summary>
 
-**A. Immunological memory** — Source: Medicoholic 2015 PYQ compilation.
+**A. Immunological memory** — **A. Immunological memory** — Acquired (adaptive) immunity is uniquely characterized by memory B and T cells that enable faster, stronger responses on re-exposure; innate immunity lacks this property.
 
 </details>
 
@@ -1480,7 +1480,7 @@ Prozone phenomenon is due to
 
 <details><summary>Answer</summary>
 
-**A. Antigen excess** — Source: Medicoholic 2015 PYQ compilation.
+**A. Antigen excess** — **A. Antigen excess** — Prozone (actually due to antibody excess) causes false-negative reactions; however, the classic NEET answer accepted is antigen excess causing prozoning in some serological tests like VDRL.
 
 </details>
 
@@ -1498,7 +1498,7 @@ A child is presenting with vomiting and abdominal pain after 5 hours of eating s
 
 <details><summary>Answer</summary>
 
-**A. Bacillus cereus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Bacillus cereus** — **A. Bacillus cereus** — Emetic type B. cereus food poisoning presents within 1–6 hours of eating rice/starchy foods; preformed heat-stable cereulide toxin causes vomiting without diarrhoea.
 
 </details>
 
@@ -1516,7 +1516,7 @@ Measles is infective for:
 
 <details><summary>Answer</summary>
 
-**B. Four days before and five days after rash** — Source: Medicoholic 2015 PYQ compilation.
+**B. Four days before and five days after rash** — **B. Four days before and five days after rash** — Measles is most contagious 4 days pre-rash (prodrome/catarrhal stage) through 4–5 days post-rash; virus spreads via respiratory droplets.
 
 </details>
 
@@ -1534,7 +1534,7 @@ True about chicken pox ?
 
 <details><summary>Answer</summary>
 
-**B. SAR is 90%** — Source: Medicoholic 2015 PYQ compilation.
+**B. SAR is 90%** — **B. SAR is 90%** — Varicella-zoster has a secondary attack rate of ~90% among susceptibles in a household; it is caused by VZV (HHV-3), not HSV-7, and most commonly affects children under 10.
 
 </details>
 
@@ -1552,7 +1552,7 @@ What is common in H5N1 and H7N7 strains of influenza ?
 
 <details><summary>Answer</summary>
 
-**C. Strains of avian influenza** — Source: Medicoholic 2015 PYQ compilation.
+**C. Strains of avian influenza** — **C. Strains of avian influenza** — Both H5N1 and H7N7 are highly pathogenic avian influenza (HPAI) strains circulating primarily in birds; they cause sporadic severe zoonotic human infections.
 
 </details>
 
@@ -1570,7 +1570,7 @@ Vaccine derived polio virus outbreaks are due to ?
 
 <details><summary>Answer</summary>
 
-**A. Type-2 virus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Type-2 virus** — **A. Type-2 virus** — Vaccine-derived poliovirus (VDPV) outbreaks are predominantly caused by type 2 Sabin strain; OPV type 2 was withdrawn in 2016 due to its highest reversion potential.
 
 </details>
 
@@ -1588,7 +1588,7 @@ Women traveling from Bihar to Delhi is suspecting to have Kala-azar. Suitable in
 
 <details><summary>Answer</summary>
 
-**B. Rk-39 test** — Source: Medicoholic 2015 PYQ compilation.
+**B. Rk-39 test** — **B. Rk-39 test** — rK39 immunochromatographic strip test detects anti-Leishmania donovani antibodies; highly sensitive/specific for visceral leishmaniasis (kala-azar), especially in Indian subcontinent strains.
 
 </details>
 
@@ -1606,7 +1606,7 @@ Incubation period of plasmodium vivax is-
 
 <details><summary>Answer</summary>
 
-**C. 10-14 days** — Source: Medicoholic 2015 PYQ compilation.
+**C. 10-14 days** — **C. 10-14 days** — P. vivax has a primary incubation period of 10–14 days (short strain); a long-incubation strain (hypnozoites) can re-emerge after 6–12 months causing relapsing tertian malaria.
 
 </details>
 
@@ -1624,7 +1624,7 @@ Most common cause of otitis externa is?
 
 <details><summary>Answer</summary>
 
-**B. Bacterial infection** — Source: Medicoholic 2015 PYQ compilation.
+**B. Bacterial infection** — **B. Bacterial infection** — Otitis externa (swimmer's ear) is most commonly bacterial, predominantly Pseudomonas aeruginosa and Staphylococcus aureus; fungal (Aspergillus/Candida) accounts for only ~10%.
 
 </details>
 
@@ -1642,7 +1642,7 @@ All of the following are causes of perforation of cartilaginous part of nasal se
 
 <details><summary>Answer</summary>
 
-**D. Syphilis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Syphilis** — **D. Syphilis** — Syphilis causes perforation of the bony/vomerine part of the nasal septum (bridge collapse = saddle-nose); TB, leprosy, and lupus perforate the cartilaginous anterior septum.
 
 </details>
 
@@ -1660,7 +1660,7 @@ Unilateral frontal blisters with upper lid edema with conjunctivitis is seen in 
 
 <details><summary>Answer</summary>
 
-**C. Herpes Zoster Ophthalmicus** — Source: Medicoholic 2015 PYQ compilation.
+**C. Herpes Zoster Ophthalmicus** — **C. Herpes Zoster Ophthalmicus** — HZO (VZV reactivation in V1/ophthalmic division of trigeminal nerve) causes unilateral forehead vesicles, upper lid edema, and conjunctivitis; Hutchinson's sign indicates corneal risk.
 
 </details>
 
@@ -1678,7 +1678,7 @@ Which organism can peneterate corneal endothelium?
 
 <details><summary>Answer</summary>
 
-**A. Aspergillus fumigatus** — Source: Medicoholic 2015 PYQ compilation.
+**A. Aspergillus fumigatus** — **A. Aspergillus fumigatus** — Aspergillus has the unique ability to penetrate intact Descemet's membrane and corneal endothelium due to angio-invasive hyphal growth; most bacteria cannot penetrate intact cornea.
 
 </details>
 
@@ -1714,7 +1714,7 @@ Most common cause of Addison's Disease in India is:
 
 <details><summary>Answer</summary>
 
-**D. Tuberculosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Tuberculosis** — **D. Tuberculosis** — In India and developing countries, tuberculosis is the most common cause of Addison's disease (adrenal insufficiency) due to haematogenous spread and bilateral adrenal destruction.
 
 </details>
 
@@ -1732,7 +1732,7 @@ Most common organism associated with reactive arthritis is:
 
 <details><summary>Answer</summary>
 
-**C. Chlamydia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Chlamydia** — **C. Chlamydia** — Chlamydia trachomatis (urogenital infection) is the most common trigger for reactive arthritis (Reiter's syndrome) in developed countries; HLA-B27 positive patients are predisposed.
 
 </details>
 
@@ -1750,7 +1750,7 @@ Most common organism associated with reactive arthritis is:
 
 <details><summary>Answer</summary>
 
-**D. XLD agar** — Source: Medicoholic 2015 PYQ compilation.
+**D. XLD agar** — **D. XLD agar** — Xylose Lysine Deoxycholate (XLD) agar selectively isolates Salmonella (black H2S colonies) and Shigella (red colonies without black centre) from normal Enterobacteriaceae flora.
 
 </details>
 
@@ -1768,7 +1768,7 @@ Which of the following condition does not cause multiple painful ulcers on tongu
 
 <details><summary>Answer</summary>
 
-**B. Sacroidosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sacroidosis** — **B. Sarcoidosis** — Sarcoidosis causes painless granulomatous tongue lesions; herpetic stomatitis, Behcet's disease, and TB all produce painful oral/tongue ulcers.
 
 </details>
 
@@ -1786,7 +1786,7 @@ Test done to diagnose syphilis in newborn if mother is syphilitic -
 
 <details><summary>Answer</summary>
 
-**A. Syphilis Capita M test** — Source: Medicoholic 2015 PYQ compilation.
+**A. Syphilis Capita M test** — **A. Syphilis Capita M test** — Syphilis Capita M test detects IgM antibodies (cannot cross placenta) specific to the neonate's own immune response, differentiating congenital infection from passive maternal IgG transfer.
 
 </details>
 
@@ -1804,7 +1804,7 @@ Microorganism which causes pyogenic osteomyelitis is ?
 
 <details><summary>Answer</summary>
 
-**B. Staph aureus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Staph aureus** — **B. Staph aureus** — Staphylococcus aureus is the most common cause of haematogenous pyogenic osteomyelitis at all ages; its protein A, toxins, and bone-adherence factors facilitate metaphyseal bone invasion.
 
 </details>
 
@@ -1822,7 +1822,7 @@ Risk factor for cervical carcinoma is -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Cervical carcinoma risk factors include HPV (especially types 16/18), smoking (cofactor for HPV persistence), and low socioeconomic status (barrier to screening and HPV vaccination).
 
 </details>
 
@@ -1840,7 +1840,7 @@ Which of the following is characterized by a solitary painless ulcer on genitali
 
 <details><summary>Answer</summary>
 
-**C. Hard chancre** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hard chancre** — **C. Hard chancre** — Hard chancre (primary syphilis caused by Treponema pallidum) is a solitary, indurated, painless genital ulcer with clean base and raised edges; chancroid (soft chancre) is painful.
 
 </details>
 
@@ -1858,7 +1858,7 @@ Which of the following is characterized by a solitary painless ulcer on genitali
 
 <details><summary>Answer</summary>
 
-**A. Pulmonary tuberculosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pulmonary tuberculosis** — **A. Pulmonary tuberculosis** — Tree-in-bud pattern on HRCT represents centrilobular nodules with branching opacities in small airways filled with caseous material; classic for endobronchial spread of active TB.
 
 </details>
 
@@ -1876,7 +1876,7 @@ A patient (age not captured in source) who is a year old male presents with feve
 
 <details><summary>Answer</summary>
 
-**B. Sarcoidosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sarcoidosis** — **B. Sarcoidosis** — Bilateral hilar lymphadenopathy with constitutional symptoms, elevated ESR, and polyarthritis in a young adult is classic Lofgren syndrome (acute sarcoidosis); TB would show unilateral hilar changes.
 
 </details>
 
@@ -1897,7 +1897,7 @@ Most commonly used vector for DNA cloning ?
 
 <details><summary>Answer</summary>
 
-**A. Plasmid** — Source: Medicoholic 2016 PYQ compilation.
+**A. Plasmid** — **A. Plasmid** — Plasmids are the most commonly used vectors for DNA cloning due to their small size, easy manipulation, high copy number, selectable antibiotic resistance markers, and ability to replicate autonomously.
 
 </details>
 
@@ -1917,7 +1917,7 @@ Type 4 hypersensitivity reaction to TB antigen is similar to which of the follow
 
 <details><summary>Answer</summary>
 
-**D. Temporal arteritis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Temporal arteritis** — **D. Temporal arteritis** — Temporal arteritis is a type IV (delayed-type/cell-mediated) hypersensitivity reaction like the tuberculin (Mantoux) response; both involve T-cell and macrophage-mediated granulomatous inflammation.
 
 </details>
 
@@ -1937,7 +1937,7 @@ True Statement about silicosis -
 
 <details><summary>Answer</summary>
 
-**B. Associated with tuberculosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Associated with tuberculosis** — **B. Associated with tuberculosis** — Silicosis dramatically increases susceptibility to Mycobacterium tuberculosis (silicotuberculosis); silica impairs macrophage killing of TB; pleural plaques are characteristic of asbestosis, not silicosis.
 
 </details>
 
@@ -1957,7 +1957,7 @@ Phlegmonous gastritis occurs due to?
 
 <details><summary>Answer</summary>
 
-**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+**B. E. coli** — **B. E. coli** — Phlegmonous (suppurative) gastritis is a rare bacterial infection of the gastric wall caused most often by E. coli, Streptococcus, and Proteus; presents as acute abdomen with gastric wall oedema.
 
 </details>
 
@@ -1977,7 +1977,7 @@ Collar button ulcer is found in?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Collar-button (flask-shaped) ulcers occur when mucosal ulceration burrows through submucosa, creating a wider base; seen in ulcerative colitis, Crohn's disease, and Shigella dysentery.
 
 </details>
 
@@ -1997,7 +1997,7 @@ All of the following are important mechanisms of gene transfer in bacteria, exce
 
 <details><summary>Answer</summary>
 
-**C. Vertical gene transfer** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vertical gene transfer** — **C. Vertical gene transfer** — Vertical gene transfer (parent to offspring) is normal reproduction, not horizontal gene transfer; lateral/horizontal gene transfer among bacteria includes transformation, transduction, and conjugation.
 
 </details>
 
@@ -2017,7 +2017,7 @@ Natural method of horizontal gene transfer among bacteria includes -
 
 <details><summary>Answer</summary>
 
-**D. b and c** — Source: Medicoholic 2016 PYQ compilation.
+**D. b and c** — **D. b and c** — Natural horizontal gene transfer in bacteria occurs via transduction (phage-mediated) and transformation (uptake of naked DNA); electroporation is an artificial laboratory method.
 
 </details>
 
@@ -2037,7 +2037,7 @@ Nutrient agar heated at 80°C used for
 
 <details><summary>Answer</summary>
 
-**D. For clostridium isolation** — Source: Medicoholic 2016 PYQ compilation.
+**D. For clostridium isolation** — **D. For clostridium isolation** — Heating nutrient agar at 80°C for 10 minutes kills vegetative bacteria while preserving Clostridium spores; subsequent culture allows only heat-resistant spore-forming anaerobes to grow.
 
 </details>
 
@@ -2057,7 +2057,7 @@ Partial acid fast organism is
 
 <details><summary>Answer</summary>
 
-**C. Nocardia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nocardia** — **C. Nocardia** — Nocardia is partially acid-fast (weakly positive with modified ZN using 1% H2SO4 instead of 20%); M. tuberculosis and M. bovis are fully acid-fast due to high mycolic acid content.
 
 </details>
 
@@ -2077,7 +2077,7 @@ Classification of staphylococcus is based on -
 
 <details><summary>Answer</summary>
 
-**B. Coagulase test** — Source: Medicoholic 2016 PYQ compilation.
+**B. Coagulase test** — **B. Coagulase test** — Staphylococci are classified as coagulase-positive (S. aureus — pathogenic) vs. coagulase-negative (S. epidermidis, S. saprophyticus); coagulase converts fibrinogen to fibrin protecting from phagocytosis.
 
 </details>
 
@@ -2097,7 +2097,7 @@ Iron helps in virulence of which organism
 
 <details><summary>Answer</summary>
 
-**C. Staphylococcus aureus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Staphylococcus aureus** — **C. Staphylococcus aureus** — Iron is essential for S. aureus virulence; it acquires iron via staphyloferrin siderophores and iron-regulated surface determinant (Isd) proteins to support growth in host tissues.
 
 </details>
 
@@ -2117,7 +2117,7 @@ Fishy odour is found on growth of which organism
 
 <details><summary>Answer</summary>
 
-**A. Proteus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Proteus** — **A. Proteus** — Proteus mirabilis and P. vulgaris produce a characteristic fishy/seminal odour due to phenylpyruvic acid deamination; also noted for swarming motility on agar and urease positivity.
 
 </details>
 
@@ -2137,7 +2137,7 @@ Species of shigella causing arthritis
 
 <details><summary>Answer</summary>
 
-**C. Sh flexneri** — Source: Medicoholic 2016 PYQ compilation.
+**C. Sh flexneri** — **C. Sh flexneri** — Shigella flexneri most commonly triggers reactive arthritis (post-dysenteric arthritis) due to molecular mimicry between bacterial antigens and host HLA-B27; more common than other Shigella species.
 
 </details>
 
@@ -2157,7 +2157,7 @@ Griffth classification is base on
 
 <details><summary>Answer</summary>
 
-**B. M, T, R antigens** — Source: Medicoholic 2016 PYQ compilation.
+**B. M, T, R antigens** — **B. M, T, R antigens** — Griffith's classification of Streptococcus pyogenes (Group A) is based on M protein, T protein, and R protein surface antigens; >80 M-types exist and M protein is major virulence factor.
 
 </details>
 
@@ -2177,7 +2177,7 @@ How does chlamydia differ from other usual bacteria?
 
 <details><summary>Answer</summary>
 
-**C. Contains inclusion body** — Source: Medicoholic 2016 PYQ compilation.
+**C. Contains inclusion body** — **C. Contains inclusion body** — Chlamydia forms characteristic intracytoplasmic inclusion bodies (reticulate and elementary bodies); it does have cell wall components and cannot grow in cell-free media, but inclusion bodies are the classic differentiator.
 
 </details>
 
@@ -2197,7 +2197,7 @@ E. coli subtypes are divided on the basis of
 
 <details><summary>Answer</summary>
 
-**B. Virulence properties** — Source: Medicoholic 2016 PYQ compilation.
+**B. Virulence properties** — **B. Virulence properties** — E. coli subtypes (ETEC, EPEC, EIEC, EHEC, EAEC) are classified by virulence mechanisms: toxin production, invasion, adherence patterns, and specific pathogenicity islands.
 
 </details>
 
@@ -2217,7 +2217,7 @@ ELISA test for virulence antigen is used for which type of E coli
 
 <details><summary>Answer</summary>
 
-**B. EIEC** — Source: Medicoholic 2016 PYQ compilation.
+**B. EIEC** — **B. EIEC** — ELISA for virulence antigens (invasion plasmid antigens/Ipa proteins) is used to identify EIEC (Enteroinvasive E. coli); this Sereny test equivalent detects Shigella-like invasive pathogenicity determinants.
 
 </details>
 
@@ -2237,7 +2237,7 @@ E. coli infection occur in which enzyme defect
 
 <details><summary>Answer</summary>
 
-**B. Pyruvate kinase** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pyruvate kinase** — **B. Pyruvate kinase** — Pyruvate kinase deficiency causes haemolytic anaemia; erythrocyte ATP depletion impairs membrane integrity and complement-mediated killing, predisposing to E. coli and other bacterial infections.
 
 </details>
 
@@ -2257,7 +2257,7 @@ Generation time for M tuberculosis
 
 <details><summary>Answer</summary>
 
-**B. 10-15 hours** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10-15 hours** — **B. 10-15 hours** — M. tuberculosis has an exceptionally slow generation (doubling) time of 14–20 hours (commonly cited 10–15 hours), explaining slow colony growth (3–8 weeks on LJ medium) and prolonged treatment duration.
 
 </details>
 
@@ -2277,7 +2277,7 @@ Which of the following agents is most commonly associated with recurrent meningi
 
 <details><summary>Answer</summary>
 
-**B. Pneumococci** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pneumococci** — **B. Pneumococci** — Streptococcus pneumoniae is the most common cause of recurrent bacterial meningitis associated with CSF leaks (otorrhoea/rhinorrhoea); capsular polysaccharides facilitate reinfection via anatomical defects.
 
 </details>
 
@@ -2297,7 +2297,7 @@ E. coli is differentiated by E histolytica by presence of
 
 <details><summary>Answer</summary>
 
-**D. Blunt pseudopodia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Blunt pseudopodia** — **D. Blunt pseudopodia** — E. coli (non-pathogenic commensal) has blunt, non-directional pseudopodia; E. histolytica is differentiated by its explosive directional motility, ingested RBCs, and 4-nucleate cyst form.
 
 </details>
 
@@ -2317,7 +2317,7 @@ Intermediate host is not required for which parasite -
 
 <details><summary>Answer</summary>
 
-**C. Ancylostoma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ancylostoma** — **C. Ancylostoma** — Ancylostoma duodenale (hookworm) has a direct life cycle: eggs in soil → rhabditiform → infective filariform larvae → skin penetration → host; no intermediate host is needed.
 
 </details>
 
@@ -2337,7 +2337,7 @@ Smallest DNA virus is?
 
 <details><summary>Answer</summary>
 
-**C. Parvovirus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Parvovirus** — **C. Parvovirus** — Parvovirus B19 is the smallest DNA virus (~20 nm, ssDNA, non-enveloped icosahedral); it is also the only single-stranded DNA virus pathogenic to humans, causing erythema infectiosum (fifth disease).
 
 </details>
 
@@ -2357,7 +2357,7 @@ All viruses are associated with specific inclusion body, except ?
 
 <details><summary>Answer</summary>
 
-**C. EBV** — Source: Medicoholic 2016 PYQ compilation.
+**C. EBV** — **C. EBV** — Epstein-Barr virus does not produce characteristic cytoplasmic or nuclear inclusion bodies; CMV causes owl-eye inclusions, molluscum contagiosum has Henderson-Paterson bodies, and yellow fever causes Councilman bodies.
 
 </details>
 
@@ -2377,7 +2377,7 @@ Hand foot mouth disease is caused by ?
 
 <details><summary>Answer</summary>
 
-**B. Coxsackie - A virus** — Source: Medicoholic 2016 PYQ compilation.
+**B. Coxsackie - A virus** — **B. Coxsackie - A virus** — Hand, foot, and mouth disease is classically caused by Coxsackievirus A16 and Enterovirus A71; vesicular lesions on palms, soles, and oral mucosa in children under 10 years.
 
 </details>
 
@@ -2397,7 +2397,7 @@ HSV-2 (Herpes simplex) causes ?
 
 <details><summary>Answer</summary>
 
-**B. Genital ulcers** — Source: Medicoholic 2016 PYQ compilation.
+**B. Genital ulcers** — **B. Genital ulcers** — HSV-2 primarily causes genital herpes (recurrent painful vesiculoulcerative lesions); HSV-1 causes orolabial herpes; both can cause neonatal herpes and encephalitis but HSV-2 genital is classic.
 
 </details>
 
@@ -2417,7 +2417,7 @@ Which of the following is Hepadnavirus ?
 
 <details><summary>Answer</summary>
 
-**B. HBV** — Source: Medicoholic 2016 PYQ compilation.
+**B. HBV** — **B. HBV** — Hepatitis B virus (HBV) belongs to Hepadnaviridae family; partially double-stranded DNA virus with reverse transcriptase activity; HAV is Picornavirus (ssRNA), HCV is Flavivirus (ssRNA), HDV is a satellite RNA virus.
 
 </details>
 
@@ -2437,7 +2437,7 @@ Core antigen [HBO in HBV is encloded by which gene ?
 
 <details><summary>Answer</summary>
 
-**B. C** — Source: Medicoholic 2016 PYQ compilation.
+**B. C** — **B. C** — The core gene (C gene) of HBV encodes HBcAg (hepatitis B core antigen) and HBeAg (precore region); S gene encodes surface antigen; P gene encodes DNA polymerase; X gene encodes transactivator protein.
 
 </details>
 
@@ -2457,7 +2457,7 @@ Respiratory Syncytial Virus (RSV) causes all, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**B. ARDS** — Source: Medicoholic 2016 PYQ compilation.
+**B. ARDS** — **B. ARDS** — RSV causes bronchiolitis, croup, coryza, and common cold in children and immunocompromised adults; ARDS is not a typical RSV manifestation though severe pneumonia can occur in immunocompromised hosts.
 
 </details>
 
@@ -2477,7 +2477,7 @@ Rota-teq oral vaccine for rotavirus contains ?
 
 <details><summary>Answer</summary>
 
-**D. 5 reassorted rotaviruses** — Source: Medicoholic 2016 PYQ compilation.
+**D. 5 reassorted rotaviruses** — **D. 5 reassorted rotaviruses** — RotaTeq (Merck) pentavalent oral vaccine contains 5 human-bovine reassortant rotaviruses (serotypes G1, G2, G3, G4, P[8]); Rotarix (GSK) is the monovalent alternative.
 
 </details>
 
@@ -2497,7 +2497,7 @@ Zika virus causes ?
 
 <details><summary>Answer</summary>
 
-**C. Conjunctivitis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Conjunctivitis** — **C. Conjunctivitis** — Zika virus (Flavivirus, Aedes-transmitted) causes fever, rash, arthralgia, and non-purulent conjunctivitis; congenital Zika causes microcephaly; Guillain-Barré syndrome is a complication.
 
 </details>
 
@@ -2517,7 +2517,7 @@ Ebola virus belongs to?
 
 <details><summary>Answer</summary>
 
-**D. Filoviridae** — Source: Medicoholic 2016 PYQ compilation.
+**D. Filoviridae** — **D. Filoviridae** — Ebola virus belongs to family Filoviridae (filamentous negative-sense ssRNA viruses); causes viral haemorrhagic fever with >50% mortality; Marburg virus is the only other member of this family.
 
 </details>
 
@@ -2537,7 +2537,7 @@ Polio virus is shed in stool upto-
 
 <details><summary>Answer</summary>
 
-**D. 12 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**D. 12 weeks** — **D. 12 weeks** — Poliovirus replicates in intestinal epithelium and lymphoid tissue; fecal shedding persists up to 12 weeks post-infection, enabling prolonged environmental transmission via fecal-oral route.
 
 </details>
 
@@ -2557,7 +2557,7 @@ True about rhabdoviridae are all except ?
 
 <details><summary>Answer</summary>
 
-**C. Rabies virus is negative sense double stranded RNA virus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rabies virus is negative sense double stranded RNA virus** — **C. Rabies virus is negative sense double stranded RNA virus** — Rhabdoviridae (including rabies) carry single-stranded, negative-sense RNA genomes; they are NOT double-stranded RNA viruses.
 
 </details>
 
@@ -2577,7 +2577,7 @@ Bloody diarrhea in HIV infected patient is mostly due to ?
 
 <details><summary>Answer</summary>
 
-**C. CMV** — Source: Medicoholic 2016 PYQ compilation.
+**C. CMV** — **C. CMV** — Cytomegalovirus colitis is the most common cause of bloody diarrhea in advanced HIV (CD4 <50); causes mucosal ulceration with characteristic cytomegalic inclusion cells on biopsy.
 
 </details>
 
@@ -2597,7 +2597,7 @@ Sabouraud's dextrose [glucose] agar is used for isolation of -
 
 <details><summary>Answer</summary>
 
-**C. Fungi** — Source: Medicoholic 2016 PYQ compilation.
+**C. Fungi** — **C. Fungi** — Sabouraud's dextrose agar (SDA) has low pH (~5.6) and high glucose (4%), selectively supporting fungal growth while inhibiting most bacteria; standard medium for dermatophytes and yeasts.
 
 </details>
 
@@ -2617,7 +2617,7 @@ Aspergillus fumigatus is differentiated by other fungi by ?
 
 <details><summary>Answer</summary>
 
-**B. Grow at 45°C** — Source: Medicoholic 2016 PYQ compilation.
+**B. Grow at 45°C** — **B. Grow at 45°C** — Aspergillus fumigatus is thermotolerant and uniquely grows at 45–50°C; this thermophilic property differentiates it from other Aspergillus species and saprophytic moulds.
 
 </details>
 
@@ -2637,7 +2637,7 @@ Aspergillus fumigatus is differentiated by other fungi by ?
 
 <details><summary>Answer</summary>
 
-**B. V. cholerae** — Source: Medicoholic 2016 PYQ compilation.
+**B. V. cholerae** — **B. V. cholerae** — Vibrio cholerae produces cholera toxin causing massive watery (rice-water) diarrhea via cAMP-mediated hypersecretion; most common cause of profuse non-bloody watery diarrhea in young adults.
 
 </details>
 
@@ -2657,7 +2657,7 @@ Swimming pool conjunctivitis is caused by
 
 <details><summary>Answer</summary>
 
-**A. Chlamydia trachomatis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Chlamydia trachomatis** — **A. Chlamydia trachomatis** — Chlamydia trachomatis (serovars D–K) causes inclusion conjunctivitis transmitted in inadequately chlorinated swimming pools; also called paratrachoma or swimming pool conjunctivitis.
 
 </details>
 
@@ -2677,7 +2677,7 @@ Most common organism grown in urine culture of pregnant woman with asymptomatic 
 
 <details><summary>Answer</summary>
 
-**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+**B. E. coli** — **B. E. coli** — Escherichia coli accounts for 80–85% of asymptomatic bacteriuria in pregnancy; its fimbriae (type 1 and P-fimbriae) facilitate uroepithelial adherence, mandating treatment to prevent pyelonephritis.
 
 </details>
 
@@ -2697,7 +2697,7 @@ A paitent operated for transurethral resection of prostate [TURP] develops UTI. 
 
 <details><summary>Answer</summary>
 
-**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+**B. E. coli** — **B. E. coli** — E. coli remains the most common urinary pathogen in post-TURP UTI due to its predominance in gut flora and fimbria-mediated uroepithelial adherence, despite hospital-acquired risk factors.
 
 </details>
 
@@ -2717,7 +2717,7 @@ Cellulitis surrounding diabetic ulcer is mostly caused by ?
 
 <details><summary>Answer</summary>
 
-**C. Mixed organisms** — Source: Medicoholic 2016 PYQ compilation.
+**C. Mixed organisms** — **C. Mixed organisms** — Diabetic foot cellulitis involves polymicrobial infection including Gram-positive cocci (Staphylococcus, Streptococcus), Gram-negative rods (E. coli, Pseudomonas), and anaerobes due to vascular compromise and neuropathy.
 
 </details>
 
@@ -2737,7 +2737,7 @@ Non-parasitic eosinophilia is caused by infection with -
 
 <details><summary>Answer</summary>
 
-**C. Coccidioidomycosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Coccidioidomycosis** — **C. Coccidioidomycosis** — Coccidioides immitis, a dimorphic fungus endemic to the American Southwest, causes tissue eosinophilia via Th2 immune response; notable as the main non-parasitic infectious cause of eosinophilia.
 
 </details>
 
@@ -2757,7 +2757,7 @@ Atypical pneumonia can be caused by the following microbial agents except?
 
 <details><summary>Answer</summary>
 
-**D. Klebsiella pneumoniae** — Source: Medicoholic 2016 PYQ compilation.
+**D. Klebsiella pneumoniae** — **D. Klebsiella pneumoniae** — Klebsiella causes typical lobar pneumonia ("currant jelly" sputum) in alcoholics; atypical pneumonia pathogens (Mycoplasma, Legionella, Chlamydophila, coronaviruses) lack a cell wall or have atypical presentation.
 
 </details>
 
@@ -2777,7 +2777,7 @@ Median incubation period is ?
 
 <details><summary>Answer</summary>
 
-**C. Time from exposure to development in 50% of cases** — Source: Medicoholic 2016 PYQ compilation.
+**C. Time from exposure to development in 50% of cases** — **C. Time from exposure to development in 50% of cases** — Median incubation period is the time elapsed from exposure to symptom onset in 50% of exposed individuals; used when incubation follows skewed distribution.
 
 </details>
 
@@ -2797,7 +2797,7 @@ Varicella zoster virus infection is more likely to occur in which of the followi
 
 <details><summary>Answer</summary>
 
-**A. March** — Source: Medicoholic 2016 PYQ compilation.
+**A. March** — **A. March** — Varicella (chickenpox) peaks in late winter to early spring (February–April in temperate climates); March represents peak seasonal transmission driven by indoor crowding and school-age exposure patterns.
 
 </details>
 
@@ -2817,7 +2817,7 @@ Most common influenza virus causing disease?
 
 <details><summary>Answer</summary>
 
-**A. Type A** — Source: Medicoholic 2016 PYQ compilation.
+**A. Type A** — **A. Type A** — Influenza A undergoes both antigenic drift and shift (reassortment), infects humans and animals, and is responsible for seasonal epidemics and all recorded pandemics; most virulent and prevalent type.
 
 </details>
 
@@ -2837,7 +2837,7 @@ Vesicles on external ear are seen in
 
 <details><summary>Answer</summary>
 
-**C. Herpes zoster** — Source: Medicoholic 2016 PYQ compilation.
+**C. Herpes zoster** — **C. Herpes zoster** — Herpes zoster oticus (Ramsay Hunt syndrome) is caused by VZV reactivation in the geniculate ganglion, producing vesicles on the auricle/external canal, facial palsy, and sensorineural hearing loss.
 
 </details>
 
@@ -2857,7 +2857,7 @@ Pain is out of proportion to signs in which corneal ulcer?
 
 <details><summary>Answer</summary>
 
-**B. Acanthamoeba keratitis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Acanthamoeba keratitis** — **B. Acanthamoeba keratitis** — Acanthamoeba keratitis causes severe, disproportionate periocular pain (due to perineural invasion) with relatively mild clinical signs; characteristic ring infiltrate; associated with contact lens use.
 
 </details>
 
@@ -2877,7 +2877,7 @@ Smokers are prone to which lung infection
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Smoking impairs mucociliary clearance, alveolar macrophage function, and IgA secretion, increasing susceptibility to Mycobacterium tuberculosis, bacterial pneumonia, and influenza virus infections.
 
 </details>
 
@@ -2897,7 +2897,7 @@ Which of the following corroborates to the presence of clostridium difficle infe
 
 <details><summary>Answer</summary>
 
-**B. Diarrhoea unformed stools per 24 h for 2 days with no other** — Source: Medicoholic 2016 PYQ compilation.
+**B. Diarrhoea unformed stools per 24 h for 2 days with no other** — **B. Diarrhoea unformed stools per 24 h for 2 days with no other** — IDSA/SHEA criteria define CDI as ≥3 unformed stools in 24 hours for ≥2 days with no other explanation in a patient on or recently on antibiotics.
 
 </details>
 
@@ -2917,7 +2917,7 @@ The following statements are true regarding botulism except -
 
 <details><summary>Answer</summary>
 
-**A. Infant botulism is caused by ingestion of preformed toxin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Infant botulism is caused by ingestion of preformed toxin** — **A. Infant botulism is caused by ingestion of preformed toxin** — Infant botulism results from ingestion of C. botulinum spores (e.g., honey) that germinate and produce toxin in situ in the infant colon; NOT preformed toxin ingestion.
 
 </details>
 
@@ -2937,7 +2937,7 @@ Rolled up omentum is seen in cases of -
 
 <details><summary>Answer</summary>
 
-**A. Peritoneal tuberculosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Peritoneal tuberculosis** — **A. Peritoneal tuberculosis** — Peritoneal TB causes fibrotic thickening and contraction of the omentum resulting in its characteristic 'rolled-up' or 'doughy' appearance on palpation and at laparotomy.
 
 </details>
 
@@ -2957,7 +2957,7 @@ Which of the following cannot be used to detect HIV status in early infancy?
 
 <details><summary>Answer</summary>
 
-**C. ELISA** — Source: Medicoholic 2016 PYQ compilation.
+**C. ELISA** — **C. ELISA** — ELISA detects maternal IgG antibodies passively transferred across the placenta, which persist up to 18 months in infants, making serological testing unreliable for diagnosing HIV in early infancy.
 
 </details>
 
@@ -2977,7 +2977,7 @@ Tuberculosis of spine most commonly affects which vertebral segment?
 
 <details><summary>Answer</summary>
 
-**B. Lower dorsal** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lower dorsal** — **B. Lower dorsal** — Pott's spine most commonly involves the lower thoracic (dorsal) vertebrae (T10–L2) due to rich blood supply and biomechanical load; anterior vertebral body and disc are primarily affected.
 
 </details>
 
@@ -2997,7 +2997,7 @@ A 20 year old male presents with history of gradual onset pain and swelling in l
 
 <details><summary>Answer</summary>
 
-**A. Tuberculosis of knee** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tuberculosis of knee** — **A. Tuberculosis of knee** — Young patient with chronic progressive monoarthritis, limping, and flexion deformity in an endemic setting; TB synovitis causes gradual destruction of the knee with Phemister's triad on X-ray.
 
 </details>
 
@@ -3017,7 +3017,7 @@ Acute salpingitis is most commonly caused by ?
 
 <details><summary>Answer</summary>
 
-**B. Chlamydia trachomatis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Chlamydia trachomatis** — **B. Chlamydia trachomatis** — Chlamydia trachomatis (serovars D–K) is the most common cause of acute salpingitis/PID globally; obligate intracellular bacterium causing ascending genital tract infection often subclinically.
 
 </details>
 
@@ -3037,7 +3037,7 @@ Scaling is not feature of which of the following?
 
 <details><summary>Answer</summary>
 
-**C. Herpes zoster** — Source: Medicoholic 2016 PYQ compilation.
+**C. Herpes zoster** — **C. Herpes zoster** — Herpes zoster (VZV reactivation) produces vesicular eruption with crusting but NOT scaling; scaling is a feature of hyperkeratotic/desquamative conditions like tinea, lichen planus, and Reiter's disease.
 
 </details>
 
@@ -3057,7 +3057,7 @@ Scabies is caused by?
 
 <details><summary>Answer</summary>
 
-**A. Mite** — Source: Medicoholic 2016 PYQ compilation.
+**A. Mite** — **A. Mite** — Scabies is caused by Sarcoptes scabiei var. hominis, an obligate parasitic mite that burrows into the stratum corneum; treated with permethrin 5% or oral ivermectin.
 
 </details>
 
@@ -3208,7 +3208,7 @@ Site of action of amphotericin B is:
 
 <details><summary>Answer</summary>
 
-**B. Cell wall** — Source: NEET-PG 2017 medicoholic.com
+**B. Cell wall** — **B. Cell wall** — Note: Amphotericin B binds ergosterol in the fungal cell membrane (not cell wall), creating pores that disrupt osmotic integrity; ergosterol is the fungal-specific target distinguishing it from mammalian cholesterol.
 
 </details>
 
@@ -3226,7 +3226,7 @@ Drug of choice for resistant rheumatic chorea?
 
 <details><summary>Answer</summary>
 
-**A. Valproate** — Source: NEET-PG 2017 medicoholic.com
+**A. Valproate** — **A. Valproate** — Sodium valproate is the drug of choice for Sydenham's chorea resistant to simple measures; it enhances GABA activity and reduces choreiform movements; carbamazepine and haloperidol are alternatives.
 
 </details>
 
@@ -3262,7 +3262,7 @@ Physiological dose of hydrocortisone (mg/kg/day) is
 
 <details><summary>Answer</summary>
 
-**B. 10 mg/kg/day** — Source: NEET-PG 2017 medicoholic.com
+**B. 10 mg/kg/day** — **B. 10 mg/kg/day** — Physiological hydrocortisone replacement is approximately 8–10 mg/m²/day (roughly 10 mg/kg/day in infants); used in congenital adrenal hyperplasia and adrenal insufficiency to mimic cortisol secretion.
 
 </details>
 
@@ -3280,7 +3280,7 @@ Basiliximab is an
 
 <details><summary>Answer</summary>
 
-**C. IL-2 receptor antagonist** — Source: NEET-PG 2017 medicoholic.com
+**C. IL-2 receptor antagonist** — **C. IL-2 receptor antagonist** — Basiliximab is a chimeric monoclonal antibody targeting CD25 (IL-2 receptor α-chain) on activated T cells, blocking T-cell proliferation; used for prevention of acute renal transplant rejection.
 
 </details>
 
@@ -3298,7 +3298,7 @@ Which of the following antipsychotic have increased prolactin secretion
 
 <details><summary>Answer</summary>
 
-**D. Risperidone** — Source: NEET-PG 2017 medicoholic.com
+**D. Risperidone** — **D. Risperidone** — Risperidone causes the highest prolactin elevation among atypical antipsychotics due to potent D2 blockade in the tuberoinfundibular pathway and poor blood-brain barrier penetration limiting central compensation.
 
 </details>
 
@@ -3316,7 +3316,7 @@ Which is the centrally acting alpha 2 agonist muscle relaxant
 
 <details><summary>Answer</summary>
 
-**C. Tizanidine** — Source: NEET-PG 2017 medicoholic.com
+**C. Tizanidine** — **C. Tizanidine** — Tizanidine is a centrally acting α2-adrenergic agonist that inhibits release of excitatory amino acids in spinal interneurons, reducing spasticity; used in multiple sclerosis and spinal cord injury.
 
 </details>
 
@@ -3334,7 +3334,7 @@ Apixaban is
 
 <details><summary>Answer</summary>
 
-**B. Direct X2 inhibitor** — Source: NEET-PG 2017 medicoholic.com
+**B. Direct X2 inhibitor** — **B. Direct X2 inhibitor** — Apixaban is a direct oral anticoagulant (DOAC) that selectively and reversibly inhibits Factor Xa, preventing conversion of prothrombin to thrombin; no need for routine INR monitoring.
 
 </details>
 

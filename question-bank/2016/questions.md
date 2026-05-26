@@ -163,7 +163,7 @@ Tongue muscles are derived from
 
 <details><summary>Answer</summary>
 
-**B. Occipital myotome** — Source: Medicoholic 2016 PYQ compilation.
+**B. Occipital myotome** — **B. Occipital myotome** — Tongue musculature (intrinsic and extrinsic) migrates from occipital somites/myotomes into the pharyngeal floor; hence innervated by CN XII (hypoglossal).
 
 </details>
 
@@ -181,7 +181,7 @@ Sensory loss in first web space (on dorsal side). If lesion is low
 
 <details><summary>Answer</summary>
 
-**B. Type 2** — Source: Medicoholic 2016 PYQ compilation.
+**B. Type 2** — **B. Type 2** — Dorsal first web space sensation is supplied by the deep peroneal nerve (L4-L5); Type 2 low peroneal lesion affects the deep branch causing this sensory loss without foot drop.
 
 </details>
 
@@ -199,7 +199,7 @@ Optic vesicle is derived from -
 
 <details><summary>Answer</summary>
 
-**C. Neuroectoderm** — Source: Medicoholic 2016 PYQ compilation.
+**C. Neuroectoderm** — **C. Neuroectoderm** — Optic vesicle is an evagination of the diencephalon (forebrain neuroectoderm); it induces the overlying surface ectoderm to form the lens placode.
 
 </details>
 
@@ -217,7 +217,7 @@ Part of neural tube from which corpus callosum develops
 
 <details><summary>Answer</summary>
 
-**C. Lamina terminalis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lamina terminalis** — **C. Lamina terminalis** — Corpus callosum develops from the commissural plate within the lamina terminalis (rostral wall of the third ventricle); agenesis results in Probst bundles.
 
 </details>
 
@@ -235,7 +235,7 @@ Epithelial lining of urinary bladder ?
 
 <details><summary>Answer</summary>
 
-**B. Transitional** — Source: Medicoholic 2016 PYQ compilation.
+**B. Transitional** — **B. Transitional** — Urinary bladder is lined by transitional epithelium (urothelium), which allows distension; extends from renal pelvis to urethra proximally.
 
 </details>
 
@@ -253,7 +253,7 @@ Female urethra develops from -
 
 <details><summary>Answer</summary>
 
-**A. Urogenital sinus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Urogenital sinus** — **A. Urogenital sinus** — The entire female urethra (shorter, ~4 cm) develops from the vesical part of the urogenital sinus; homologous to the prostatic and membranous urethra in males.
 
 </details>
 
@@ -271,7 +271,7 @@ Kidney parenchyma is derived from -
 
 <details><summary>Answer</summary>
 
-**C. Metanephros** — Source: Medicoholic 2016 PYQ compilation.
+**C. Metanephros** — **C. Metanephros** — Metanephric mesoderm (metanephric blastema) differentiates into the secretory units (nephrons) of the permanent kidney; the ureteric bud forms the collecting system.
 
 </details>
 
@@ -289,7 +289,7 @@ Facial nerve is a derivative of which of the following branchial arch?
 
 <details><summary>Answer</summary>
 
-**B. Second arch** — Source: Medicoholic 2016 PYQ compilation.
+**B. Second arch** — **B. Second arch** — CN VII (facial nerve) is the nerve of the 2nd pharyngeal (Reichert's) arch; supplies all muscles of facial expression derived from this arch.
 
 </details>
 
@@ -307,7 +307,7 @@ Leptotene and pachytene are stages ofwhich phases of meiosis -
 
 <details><summary>Answer</summary>
 
-**A. Prophase I** — Source: Medicoholic 2016 PYQ compilation.
+**A. Prophase I** — **A. Prophase I** — Prophase I of meiosis has five substages: leptotene, zygotene, pachytene, diplotene, and diakinesis; synapsis and crossing-over occur during pachytene.
 
 </details>
 
@@ -325,7 +325,7 @@ Crypta magna develops from which pouch?
 
 <details><summary>Answer</summary>
 
-**B. 2nd** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2nd** — **B. 2nd** — Crypta magna (tonsillar fossa) develops from the 2nd pharyngeal pouch; the palatine tonsil forms from lymphoid tissue proliferating into this cleft.
 
 </details>
 
@@ -343,7 +343,7 @@ Which of the following is a traction epiphysis?
 
 <details><summary>Answer</summary>
 
-**B. Mastoid process** — Source: Medicoholic 2016 PYQ compilation.
+**B. Mastoid process** — **B. Mastoid process** — Traction epiphyses (apophyses) develop at tendon/ligament insertions; the mastoid process is pulled by the sternocleidomastoid, making it a traction epiphysis.
 
 </details>
 
@@ -361,7 +361,7 @@ All of the following are true about thymus except?
 
 <details><summary>Answer</summary>
 
-**C. It is derived from the fourth Pharyngeal pouch** — Source: Medicoholic 2016 PYQ compilation.
+**C. It is derived from the fourth Pharyngeal pouch** — **C. It is derived from the fourth Pharyngeal pouch** — Thymus derives from the 3rd pharyngeal pouch (not 4th); the 4th pouch gives rise to the superior parathyroid glands.
 
 </details>
 
@@ -379,7 +379,7 @@ Which is the most abundant cartilage-
 
 <details><summary>Answer</summary>
 
-**A. Hyaline cartilage** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hyaline cartilage** — **A. Hyaline cartilage** — Hyaline cartilage is the most abundant type; found in articular surfaces, costal cartilages, tracheal rings, and forms the embryonic skeleton.
 
 </details>
 
@@ -397,7 +397,7 @@ What is the lining of the lacrimal gland alveoli?
 
 <details><summary>Answer</summary>
 
-**B. Pyramidal cells** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pyramidal cells** — **B. Pyramidal cells** — Lacrimal gland alveoli are lined by pyramidal (columnar) secretory cells with surrounding myoepithelial cells; structure similar to other serous exocrine glands.
 
 </details>
 
@@ -415,7 +415,7 @@ What type of muscles are medial two lumbricals?
 
 <details><summary>Answer</summary>
 
-**B. Bipennate** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bipennate** — **B. Bipennate** — Medial two (3rd and 4th) lumbricals arise from two adjacent FDP tendons (bipennate); lateral two arise from a single tendon (unipennate); all are innervated by the ulnar nerve.
 
 </details>
 
@@ -433,7 +433,7 @@ Ansa nephroni is lined by ?
 
 <details><summary>Answer</summary>
 
-**B. Squamous epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squamous epithelium** — **B. Squamous epithelium** — The loop of Henle (ansa nephroni), especially the thin descending and thin ascending limbs, is lined by flat squamous epithelium facilitating passive water/solute exchange.
 
 </details>
 
@@ -451,7 +451,7 @@ What is the level of the spine of scapula?
 
 <details><summary>Answer</summary>
 
-**C. T4** — Source: Medicoholic 2016 PYQ compilation.
+**C. T4** — **C. T4** — The spine of scapula lies at the level of T4 vertebral spine (T3 spinous process at the medial end); the inferior angle of scapula corresponds to T7.
 
 </details>
 
@@ -469,7 +469,7 @@ Which of the following muscles carries out shoulder abduction from 15 to 90 degr
 
 <details><summary>Answer</summary>
 
-**C. Deltoid** — Source: Medicoholic 2016 PYQ compilation.
+**C. Deltoid** — **C. Deltoid** — Deltoid is the prime mover of shoulder abduction from 15–90°; supraspinatus initiates first 15° and stabilizes the joint; beyond 90° trapezius and serratus anterior rotate scapula.
 
 </details>
 
@@ -487,7 +487,7 @@ Which muscle acting on the thumb has dual nerve supply?
 
 <details><summary>Answer</summary>
 
-**B. Flexor Pollicis brevis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Flexor Pollicis brevis** — **B. Flexor Pollicis brevis** — Flexor pollicis brevis has a superficial head (median nerve) and deep head (ulnar nerve/deep branch); only thumb muscle with consistent dual nerve supply.
 
 </details>
 
@@ -505,7 +505,7 @@ What is Wartenberg's sign?
 
 <details><summary>Answer</summary>
 
-**B. Inability to adduct small finger against the ring finger** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inability to adduct small finger against the ring finger** — **B. Inability to adduct small finger against the ring finger** — Wartenberg's sign indicates ulnar nerve palsy; interossei (ulnar) adduct fingers; loss leaves the little finger abducted at rest.
 
 </details>
 
@@ -523,7 +523,7 @@ Sensory region of the ulnar nerve is?
 
 <details><summary>Answer</summary>
 
-**A. Tip of little finger** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tip of little finger** — **A. Tip of little finger** — Ulnar nerve (C8-T1) provides cutaneous sensation to the little finger and medial half of ring finger; tip of little finger is the classic autonomous zone for testing.
 
 </details>
 
@@ -541,7 +541,7 @@ Pulp of the index finger is supplied by
 
 <details><summary>Answer</summary>
 
-**A. Median nerve** — Source: Medicoholic 2016 PYQ compilation.
+**A. Median nerve** — **A. Median nerve** — The median nerve (C6-C8) supplies the palmar surface and pulp of the lateral 3.5 fingers (thumb, index, middle, lateral half of ring); index fingertip is its autonomous zone.
 
 </details>
 
@@ -559,7 +559,7 @@ Low radial nerve [just after spiral groove] palsy does not produce ?
 
 <details><summary>Answer</summary>
 
-**B. Loss of elbow extention** — Source: Medicoholic 2016 PYQ compilation.
+**B. Loss of elbow extention** — **B. Loss of elbow extension** — Triceps (elbow extension) is innervated proximal to the spiral groove; a low radial nerve lesion after the groove spares triceps but paralyzes wrist and finger extensors.
 
 </details>
 
@@ -577,7 +577,7 @@ Structure passing deep to flexor retinaculum at wrist:
 
 <details><summary>Answer</summary>
 
-**B. Median nerve** — Source: Medicoholic 2016 PYQ compilation.
+**B. Median nerve** — **B. Median nerve** — The carpal tunnel (deep to flexor retinaculum) transmits the median nerve and 9 flexor tendons; ulnar nerve and artery pass superficial in Guyon's canal.
 
 </details>
 
@@ -595,7 +595,7 @@ Coracoacromial ligament resists which movements?
 
 <details><summary>Answer</summary>
 
-**A. Upward displacement of humeral head** — Source: Medicoholic 2016 PYQ compilation.
+**A. Upward displacement of humeral head** — **A. Upward displacement of humeral head** — The coracoacromial arch (coracoacromial ligament + acromion) prevents superior displacement of the humeral head during deltoid contraction and arm elevation.
 
 </details>
 
@@ -613,7 +613,7 @@ What is the action of anconeus?
 
 <details><summary>Answer</summary>
 
-**B. Assists Extension of elbow** — Source: Medicoholic 2016 PYQ compilation.
+**B. Assists Extension of elbow** — **B. Assists Extension of elbow** — Anconeus is a small triangular muscle on the posterior lateral elbow that assists triceps in elbow extension and abducts the ulna during pronation.
 
 </details>
 
@@ -631,7 +631,7 @@ Which muscle helps in climbing a tree ?
 
 <details><summary>Answer</summary>
 
-**A. Latissimus Dorsi** — Source: Medicoholic 2016 PYQ compilation.
+**A. Latissimus Dorsi** — **A. Latissimus Dorsi** — Latissimus dorsi (thoracodorsal nerve) adducts, extends, and medially rotates the humerus; climbing requires pulling the trunk upward toward the fixed upper limb.
 
 </details>
 
@@ -649,7 +649,7 @@ Posterior interosseus artery is a branch of ?
 
 <details><summary>Answer</summary>
 
-**A. Common interosseus artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Common interosseus artery** — **A. Common interosseus artery** — The common interosseous artery arises from the ulnar artery and immediately divides into anterior and posterior interosseous arteries supplying the deep forearm compartments.
 
 </details>
 
@@ -4196,7 +4196,7 @@ Which muscle is attached to the disc of the temporomandibular joint?
 
 <details><summary>Answer</summary>
 
-**B. Lateral pterygoid** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lateral pterygoid** — **B. Lateral pterygoid** — The lateral pterygoid muscle (upper head) inserts into the articular disc and capsule of the TMJ; it pulls the disc and condyle forward during mouth opening and protrusion.
 
 </details>
 
@@ -4214,7 +4214,7 @@ Vidian nerve is also known as?
 
 <details><summary>Answer</summary>
 
-**A. Nerve of Pterygoid canal** — Source: Medicoholic 2016 PYQ compilation.
+**A. Nerve of Pterygoid canal** — **A. Nerve of Pterygoid canal** — Vidian nerve (nerve of pterygoid canal) is formed by union of greater petrosal nerve (parasympathetic, CN VII) and deep petrosal nerve (sympathetic); passes through pterygoid canal to pterygopalatine ganglion.
 
 </details>
 
@@ -4232,7 +4232,7 @@ Structures pierced by the parotid duct are all except?
 
 <details><summary>Answer</summary>
 
-**D. Investing layer of deep cervical fascia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Investing layer of deep cervical fascia** — **D. Investing layer of deep cervical fascia** — Parotid (Stensen's) duct pierces buccal fat pad, buccinator muscle, and buccopharyngeal fascia before opening into oral cavity opposite upper 2nd molar; it does NOT pierce investing layer of deep cervical fascia.
 
 </details>
 
@@ -4250,7 +4250,7 @@ Which layer of the scalp is vascular?
 
 <details><summary>Answer</summary>
 
-**B. Superficial fascia** — Source: Medicoholic 2016 PYQ compilation.
+**B. Superficial fascia** — **B. Superficial fascia** — The connective tissue layer (superficial fascia/subcutaneous layer) of the scalp is highly vascular with densely packed fibrous septa containing arteries, veins, and nerves; vessels cannot contract → profuse bleeding in scalp injuries.
 
 </details>
 
@@ -4268,7 +4268,7 @@ All of the following pass through the Sinus of morgagni except -
 
 <details><summary>Answer</summary>
 
-**D. Stylopharyngeus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Stylopharyngeus** — **D. Stylopharyngeus** — Sinus of Morgagni (pharyngeal hiatus) transmits auditory tube, levator veli palatini, and ascending palatine artery; stylopharyngeus passes through Killian's dehiscence/posterior to stylohyoid ligament, not sinus of Morgagni.
 
 </details>
 
@@ -4286,7 +4286,7 @@ Chorda-tympani does not carry which fibers?
 
 <details><summary>Answer</summary>
 
-**C. Preganglionic parasympathetic fibers for parotid gland** — Source: Medicoholic 2016 PYQ compilation.
+**C. Preganglionic parasympathetic fibers for parotid gland** — **C. Preganglionic parasympathetic fibers for parotid gland** — Chorda tympani (branch of CN VII) carries taste from anterior 2/3 tongue and preganglionic parasympathetic fibers to submandibular and sublingual glands; parotid is supplied by CN IX via lesser petrosal nerve to otic ganglion.
 
 </details>
 
@@ -6251,7 +6251,7 @@ used in citric acid cycle are all except-
 
 <details><summary>Answer</summary>
 
-**C. NADP** — Source: Medicoholic 2016 PYQ compilation.
+**C. NADP** — **C. NADP** — The TCA cycle uses NAD⁺ (at isocitrate, α-ketoglutarate, and malate dehydrogenase steps), FAD (at succinate dehydrogenase), and GDP (at succinyl-CoA synthetase); NADP⁺ is used in the HMP shunt, not TCA.
 
 </details>
 
@@ -6269,7 +6269,7 @@ All of the following steps act as sources of energy in citric acid cycle except 
 
 <details><summary>Answer</summary>
 
-**A. Citrate synthase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Citrate synthase** — **A. Citrate synthase** — Citrate synthase catalyses the condensation of acetyl-CoA with oxaloacetate to form citrate; this step consumes energy (cleaves the thioester bond) rather than generating ATP, NADH, or FADH₂.
 
 </details>
 
@@ -6287,7 +6287,7 @@ All of the following are true about lactate utilisation in liver except -
 
 <details><summary>Answer</summary>
 
-**A. Total net number of ATP formed because of cori's cycle is** — Source: Medicoholic 2016 PYQ compilation.
+**A. Total net number of ATP formed because of cori's cycle is** — **A. Total net number of ATP formed because of Cori's cycle is zero** — The Cori cycle has a net negative ATP balance (muscle produces 2 ATP from glucose via glycolysis; liver consumes 6 ATP to regenerate glucose via gluconeogenesis).
 
 </details>
 
@@ -6845,7 +6845,7 @@ Carbamoyl phosphate synthetase I is:
 
 <details><summary>Answer</summary>
 
-**C. Mitochondrial enzyme** — Source: Medicoholic 2016 PYQ compilation.
+**C. Mitochondrial enzyme** — **C. Mitochondrial enzyme** — Carbamoyl phosphate synthetase I (CPS-I) is located in the mitochondrial matrix, initiating the urea cycle; CPS-II (pyrimidine synthesis) is cytosolic.
 
 </details>
 
@@ -6863,7 +6863,7 @@ All of the following can determine protein structure except
 
 <details><summary>Answer</summary>
 
-**D. Spectrophotometry** — Source: Medicoholic 2016 PYQ compilation.
+**D. Spectrophotometry** — **D. Spectrophotometry** — Spectrophotometry measures absorbance/concentration, not 3D structural conformation; Edman sequencing, X-ray crystallography, and optical rotatory dispersion all yield structural information.
 
 </details>
 
@@ -6881,7 +6881,7 @@ Most abundant aminoacid in brain is
 
 <details><summary>Answer</summary>
 
-**A. Glutamate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glutamate** — **A. Glutamate** — Glutamate is the most abundant amino acid in brain tissue and serves as the principal excitatory neurotransmitter; it is also the precursor to GABA and glutamine.
 
 </details>
 
@@ -6899,7 +6899,7 @@ Vitamin given in homocysteinuria are all except
 
 <details><summary>Answer</summary>
 
-**D. Thiamine** — Source: Medicoholic 2016 PYQ compilation.
+**D. Thiamine** — **D. Thiamine** — Homocystinuria is treated with pyridoxine (B6, cofactor for cystathionine synthase), B12, and folate (remethylation pathway); thiamine plays no role in homocysteine metabolism.
 
 </details>
 
@@ -6917,7 +6917,7 @@ Glutathione is used to detoxify which free radical?
 
 <details><summary>Answer</summary>
 
-**A. Hydrogen peroxide** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hydrogen peroxide** — **A. Hydrogen peroxide** — Glutathione peroxidase uses reduced glutathione (GSH) to reduce H₂O₂ to water, oxidising GSH to GSSG; GSSG is then regenerated by glutathione reductase using NADPH.
 
 </details>
 
@@ -6935,7 +6935,7 @@ Match enzyme with the disease caused due to its deficiency - Enzyme Disease A. T
 
 <details><summary>Answer</summary>
 
-**D. l→ C, 2→ A, 3→ D, 4→ B** — Source: Medicoholic 2016 PYQ compilation.
+**D. l→ C, 2→ A, 3→ D, 4→ B** — **D. l→C, 2→A, 3→D, 4→B** — Tyrosinase deficiency causes albinism; fumarylacetoacetase deficiency causes tyrosinemia type I; 4-hydroxyphenylpyruvate dioxygenase deficiency causes tyrosinemia type III; homogentisate oxidase deficiency causes alkaptonuria.
 
 </details>
 
@@ -6953,7 +6953,7 @@ Which of the following has two amino groups-
 
 <details><summary>Answer</summary>
 
-**B. Arginine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Arginine** — **B. Arginine** — Arginine has two amino groups: the α-amino group and the guanidinium group on the side chain; it is the most basic amino acid and serves as the substrate for nitric oxide synthase.
 
 </details>
 
@@ -6971,7 +6971,7 @@ Alternate fuel for brain is
 
 <details><summary>Answer</summary>
 
-**B. Ketone bodies** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ketone bodies** — **B. Ketone bodies** — During prolonged fasting, the brain shifts to utilising ketone bodies (acetoacetate, β-hydroxybutyrate) produced by hepatic fatty acid β-oxidation; fatty acids themselves cannot cross the blood–brain barrier.
 
 </details>
 
@@ -6989,7 +6989,7 @@ Pyruvate can be a substrate of all except
 
 <details><summary>Answer</summary>
 
-**C. Aspartate transaminase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Aspartate transaminase** — **C. Aspartate transaminase** — Aspartate transaminase (AST) catalyses interconversion of oxaloacetate and aspartate; its substrates are oxaloacetate and glutamate, not pyruvate directly.
 
 </details>
 
@@ -7007,7 +7007,7 @@ Which vitamin is required for conversion of serine to glycine?
 
 <details><summary>Answer</summary>
 
-**C. Pyridoxine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Pyridoxine** — **C. Pyridoxine** — Pyridoxal phosphate (PLP, active form of B6) is the cofactor for serine hydroxymethyltransferase, which transfers the hydroxymethyl group from serine to tetrahydrofolate, yielding glycine.
 
 </details>
 
@@ -7025,7 +7025,7 @@ Headache and papilledema are features of toxicity of which vitamin?
 
 <details><summary>Answer</summary>
 
-**A. Vitamin A** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vitamin A** — **A. Vitamin A** — Hypervitaminosis A causes pseudotumour cerebri (raised intracranial pressure), manifesting as headache and papilledema; it also causes hepatotoxicity, skin desquamation, and teratogenicity.
 
 </details>
 
@@ -7043,7 +7043,7 @@ Which of the following is teratogenic:
 
 <details><summary>Answer</summary>
 
-**C. Vitamin A** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vitamin A** — **C. Vitamin A** — Excess retinoic acid (active form of vitamin A) is potently teratogenic, causing craniofacial, cardiac, and neural crest abnormalities by disrupting HOX gene expression during organogenesis.
 
 </details>
 
@@ -7061,7 +7061,7 @@ Alcoholism leads to deficiency of which vitamin ?
 
 <details><summary>Answer</summary>
 
-**B. Vitamin B1** — Source: Medicoholic 2016 PYQ compilation.
+**B. Vitamin B1** — **B. Vitamin B1** — Chronic alcohol use impairs thiamine (B1) absorption, storage, and phosphorylation; deficiency causes Wernicke's encephalopathy and Korsakoff psychosis due to failure of TPP-dependent enzymes.
 
 </details>
 
@@ -7079,7 +7079,7 @@ Vitamin B12 is required for all of the following except ?
 
 <details><summary>Answer</summary>
 
-**B. Conversion of homocysteine to cysteine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Conversion of homocysteine to cysteine** — **B. Conversion of homocysteine to cysteine** — This transsulfuration reaction requires pyridoxal phosphate (B6) via cystathionine synthase; B12 is required for remethylation of homocysteine to methionine and conversion of methylmalonyl CoA to succinyl CoA.
 
 </details>
 
@@ -7097,7 +7097,7 @@ Which of the following vitamins is significantly synthesised in gut by intestina
 
 <details><summary>Answer</summary>
 
-**D. B6** — Source: Medicoholic 2016 PYQ compilation.
+**D. B6** — **D. B6** — Intestinal bacteria significantly synthesise pyridoxine (B6); biotin is also produced but B6 is the classical textbook answer; B12 gut synthesis is inadequate for absorption in the terminal ileum.
 
 </details>
 
@@ -7115,7 +7115,7 @@ Which of the following elements is known to influence the body's ability to hand
 
 <details><summary>Answer</summary>
 
-**D. Selenium** — Source: Medicoholic 2016 PYQ compilation.
+**D. Selenium** — **D. Selenium** — Selenium is an essential component of glutathione peroxidase (as selenocysteine at the active site), the key enzyme neutralising reactive oxygen species and protecting cells from oxidative damage.
 
 </details>
 
@@ -7133,7 +7133,7 @@ Vitamin B12 deficiency causes all except ?
 
 <details><summary>Answer</summary>
 
-**D. Epinephrine excess** — Source: Medicoholic 2016 PYQ compilation.
+**D. Epinephrine excess** — **D. Epinephrine excess** — B12 deficiency causes homocysteinuria, methylmalonic aciduria, and subacute combined degeneration of spinal cord; epinephrine metabolism involves COMT (requiring SAM) but excess is not a recognised B12-deficiency feature.
 
 </details>
 
@@ -7151,7 +7151,7 @@ Richest source of vitamin B12 ?
 
 <details><summary>Answer</summary>
 
-**A. Meat** — Source: Medicoholic 2016 PYQ compilation.
+**A. Meat** — **A. Meat** — Vitamin B12 (cobalamin) is found exclusively in animal products; meat (especially liver) is the richest dietary source; plant foods contain no B12, making strict vegetarians at risk of deficiency.
 
 </details>
 
@@ -7169,7 +7169,7 @@ Antistress Vitamin is?
 
 <details><summary>Answer</summary>
 
-**D. Vitamin B5** — Source: Medicoholic 2016 PYQ compilation.
+**D. Vitamin B5** — **D. Vitamin B5** — Pantothenic acid (B5) is called the antistress vitamin because it is essential for coenzyme A synthesis, which drives adrenocortical steroid hormone production needed during stress responses.
 
 </details>
 
@@ -7187,7 +7187,7 @@ True about Purine synthesis ?
 
 <details><summary>Answer</summary>
 
-**A. Glutamine is the amino group donor for N9** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glutamine is the amino group donor for N9** — **A. Glutamine is the amino group donor for N9** — In de novo purine synthesis, glutamine donates the amino group for positions N3, N9; PRPP provides the ribose backbone; THFA donates C2 and C8 carbons.
 
 </details>
 
@@ -7205,7 +7205,7 @@ True about pyrimidine catabolism is ?
 
 <details><summary>Answer</summary>
 
-**B. β aminoisobutyrate is generated** — Source: Medicoholic 2016 PYQ compilation.
+**B. β aminoisobutyrate is generated** — **B. β-aminoisobutyrate is generated** — Thymine catabolism yields β-aminoisobutyrate, which is excreted in urine; pyrimidine catabolism does not produce uric acid (that is exclusive to purine degradation).
 
 </details>
 
@@ -7223,7 +7223,7 @@ The linkage which links individual nucleotides in a polynucleotide chain is -
 
 <details><summary>Answer</summary>
 
-**C. 3'5' Phosphodiester linkage** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3'5' Phosphodiester linkage** — **C. 3'5' Phosphodiester linkage** — Each nucleotide in a polynucleotide chain is joined by a phosphodiester bond between the 3'-OH of one sugar and the 5'-phosphate of the next, creating a 3'→5' backbone directionality.
 
 </details>
 
@@ -7241,7 +7241,7 @@ Bond formation between ribose sugar and nitrogen is ?
 
 <details><summary>Answer</summary>
 
-**D. Glycosidic linkage** — Source: Medicoholic 2016 PYQ compilation.
+**D. Glycosidic linkage** — **D. Glycosidic linkage** — The N-glycosidic bond connects the anomeric carbon (C1') of ribose (or deoxyribose) to nitrogen N1 of pyrimidines or N9 of purines, forming the nucleoside.
 
 </details>
 
@@ -7259,7 +7259,7 @@ Ataxia telangiectasia is caused by a defect of ?
 
 <details><summary>Answer</summary>
 
-**D. ds DNA break repair** — Source: Medicoholic 2016 PYQ compilation.
+**D. ds DNA break repair** — **D. ds DNA break repair** — Ataxia-telangiectasia results from mutation in ATM kinase, which senses and signals repair of double-strand DNA breaks; defect causes cerebellar ataxia, telangiectasias, immunodeficiency, and increased cancer risk.
 
 </details>
 
@@ -7277,7 +7277,7 @@ Molecular mimicry is established in the presence of ?
 
 <details><summary>Answer</summary>
 
-**A. Cysteine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cysteine** — **A. Cysteine** — Molecular mimicry in biochemistry refers to isosteric mimicry; cysteine's thiol group mimics serine's hydroxyl group structurally, enabling substitution at active sites and forming the basis of mechanism-based inhibitors.
 
 </details>
 
@@ -7295,7 +7295,7 @@ DNA fragments are separated by ?
 
 <details><summary>Answer</summary>
 
-**B. Agarose gel electrophoresis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Agarose gel electrophoresis** — **B. Agarose gel electrophoresis** — Negatively charged DNA fragments migrate through agarose gel under electric current; smaller fragments travel faster, separating DNA by size for analysis, restriction mapping, or Southern blotting.
 
 </details>
 
@@ -7313,7 +7313,7 @@ Left handed helix is seen in -
 
 <details><summary>Answer</summary>
 
-**C. Z DNA** — Source: Medicoholic 2016 PYQ compilation.
+**C. Z DNA** — **C. Z DNA** — Z-DNA has a left-handed double helix with a zigzag backbone arising from alternating syn-anti base conformations, typically found in GC-rich sequences under high salt or superhelical stress conditions.
 
 </details>
 
@@ -7331,7 +7331,7 @@ Aminoacyl tRNA gets attached to which site of ribosome?
 
 <details><summary>Answer</summary>
 
-**B. A site of 60s ribosome** — Source: Medicoholic 2016 PYQ compilation.
+**B. A site of 60s ribosome** — **B. A site of 60s ribosome** — The aminoacyl-tRNA (carrying the incoming amino acid) enters the acceptor (A) site of the large 60S (eukaryotic) subunit during elongation of translation.
 
 </details>
 
@@ -7349,7 +7349,7 @@ Okazaki fragments are formed during ?
 
 <details><summary>Answer</summary>
 
-**C. DNA replication** — Source: Medicoholic 2016 PYQ compilation.
+**C. DNA replication** — **C. DNA replication** — Okazaki fragments are short (100–200 nt in eukaryotes) discontinuous DNA segments synthesised on the lagging strand template in the 5'→3' direction during semi-conservative DNA replication.
 
 </details>
 
@@ -7367,7 +7367,7 @@ Splicing is a process of ?
 
 <details><summary>Answer</summary>
 
-**B. Removal of introns** — Source: Medicoholic 2016 PYQ compilation.
+**B. Removal of introns** — **B. Removal of introns** — RNA splicing is post-transcriptional processing of pre-mRNA in the spliceosome, excising non-coding introns and ligating exons to produce mature mRNA ready for nuclear export and translation.
 
 </details>
 
@@ -9044,7 +9044,7 @@ All of the following are true about collagen structure except -
 
 <details><summary>Answer</summary>
 
-**B. Lysyl oxidase is dependent on Vitamin C** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lysyl oxidase is dependent on Vitamin C** — **B. Lysyl oxidase is dependent on Vitamin C** — Lysyl oxidase requires copper (not Vitamin C) for cross-linking collagen and elastin; Vitamin C is required for prolyl and lysyl hydroxylase activity during collagen synthesis.
 
 </details>
 
@@ -9062,7 +9062,7 @@ Vitamin A deficiency leads to metaplasia of?
 
 <details><summary>Answer</summary>
 
-**A. Squamous epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**A. Squamous epithelium** — **A. Squamous epithelium** — Vitamin A deficiency causes squamous metaplasia of columnar/transitional epithelia (respiratory, urinary, GI tracts); glandular columnar epithelium is replaced by stratified squamous epithelium.
 
 </details>
 
@@ -9080,7 +9080,7 @@ Example of coagulative necrosis is -
 
 <details><summary>Answer</summary>
 
-**A. Acute tubular necrosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Acute tubular necrosis** — **A. Acute tubular necrosis** — Renal tubular cells undergo coagulative necrosis in ischemia, preserving cell outlines (ghost cells); brain infarcts show liquefactive necrosis and pancreatitis shows fat necrosis.
 
 </details>
 
@@ -9098,7 +9098,7 @@ Which one of the following statements is correct regarding chronic granulomatous
 
 <details><summary>Answer</summary>
 
-**D. Nitrobluetetrazolium test is useful for screening** — Source: Medicoholic 2016 PYQ compilation.
+**D. Nitrobluetetrazolium test is useful for screening** — **D. Nitrobluetetrazolium test is useful for screening** — CGD is diagnosed by NBT test (failure to reduce yellow NBT to blue formazan) or DHR flow cytometry, confirming defective NADPH oxidase and absent respiratory burst.
 
 </details>
 
@@ -9116,7 +9116,7 @@ Most common cause of chronic granulomatous disease in children is:
 
 <details><summary>Answer</summary>
 
-**C. Defective H2O2 production** — Source: Medicoholic 2016 PYQ compilation.
+**C. Defective H2O2 production** — **C. Defective H2O2 production** — CGD results from NADPH oxidase deficiency causing failure to generate superoxide and H2O2; the most common form is X-linked (gp91phox mutation), causing absent oxidative burst and recurrent catalase-positive infections.
 
 </details>
 
@@ -9134,7 +9134,7 @@ Delayed umbilical cord detachment leukocytosis is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Leukocyte adhesion deficiency** — Source: Medicoholic 2016 PYQ compilation.
+**A. Leukocyte adhesion deficiency** — **A. Leukocyte adhesion deficiency** — LAD (CD18/CD11 integrin deficiency) impairs neutrophil migration to wound sites; the umbilical stump relies on neutrophil-mediated inflammation for separation, hence delayed cord detachment with peripheral neutrophilia.
 
 </details>
 
@@ -9152,7 +9152,7 @@ All are pre-malignant conditions except -
 
 <details><summary>Answer</summary>
 
-**C. Hamartoma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hamartoma** — **C. Hamartoma** — Hamartoma is a disorganized but normal tissue overgrowth (not neoplastic); dysplasia and certain metaplasias carry malignant potential, while anaplasia is dedifferentiation within established cancer, not premalignant per se.
 
 </details>
 
@@ -9170,7 +9170,7 @@ Strawberry gums are seen in
 
 <details><summary>Answer</summary>
 
-**C. Wegener's granulomatosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Wegener's granulomatosis** — **C. Wegener's granulomatosis** — Strawberry (cobblestone-red, hyperplastic, friable) gingival lesions are a characteristic oral manifestation of granulomatosis with polyangiitis (Wegener's), caused by granulomatous vasculitis of gingival vessels.
 
 </details>
 
@@ -9188,7 +9188,7 @@ Strawberry gingivitis seen in
 
 <details><summary>Answer</summary>
 
-**C. Wegner granulomatosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Wegner granulomatosis** — **C. Wegner granulomatosis** — Strawberry gingivitis (erythematous, granular, hyperplastic gums resembling a strawberry) is a hallmark oral finding of Wegener's granulomatosis (GPA) due to necrotizing granulomatous inflammation.
 
 </details>
 
@@ -9206,7 +9206,7 @@ Heinz bodies are removed by?
 
 <details><summary>Answer</summary>
 
-**A. Macrophages** — Source: Medicoholic 2016 PYQ compilation.
+**A. Macrophages** — **A. Macrophages** — Heinz bodies (denatured hemoglobin precipitates in G6PD deficiency/unstable hemoglobins) are pitted out from RBCs by splenic macrophages via a process called pitting, leaving bite cells.
 
 </details>
 
@@ -9224,7 +9224,7 @@ All of the following statements about Burkitt's lymphoma are true, Except:
 
 <details><summary>Answer</summary>
 
-**D. Radiotherapy is the treatment of choice** — Source: Medicoholic 2016 PYQ compilation.
+**D. Radiotherapy is the treatment of choice** — **D. Radiotherapy is the treatment of choice** — Burkitt's lymphoma is treated with intensive short-course chemotherapy (cyclophosphamide-based, e.g., CODOX-M/IVAC); radiotherapy is NOT the treatment of choice due to rapid proliferation and systemic disease.
 
 </details>
 
@@ -9242,7 +9242,7 @@ Oncogene associated with burkitt's lymphoma is:
 
 <details><summary>Answer</summary>
 
-**C. C-MYC** — Source: Medicoholic 2016 PYQ compilation.
+**C. C-MYC** — **C. C-MYC** — Burkitt's lymphoma is driven by c-MYC proto-oncogene translocation (t[8;14]) juxtaposing c-MYC with IgH enhancer, causing uncontrolled B-cell proliferation; c-MYC upregulates ribosome biogenesis and cell cycle.
 
 </details>
 
@@ -9260,7 +9260,7 @@ Cag A gene is associated with
 
 <details><summary>Answer</summary>
 
-**C. MALT lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**C. MALT lymphoma** — **C. MALT lymphoma** — H. pylori CagA (cytotoxin-associated gene A) virulence factor activates oncogenic signaling (SHP-2, NF-κB) in gastric epithelium and B cells, promoting gastric MALToma development.
 
 </details>
 
@@ -9278,7 +9278,7 @@ Richter’s syndrome refers to which of the following malignant transformation?
 
 <details><summary>Answer</summary>
 
-**A. CLL evolving into aggressive lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. CLL evolving into aggressive lymphoma** — **A. CLL evolving into aggressive lymphoma** — Richter's transformation is the clonal evolution of CLL into a high-grade lymphoma (usually diffuse large B-cell lymphoma), with sudden worsening, B symptoms, and markedly elevated LDH.
 
 </details>
 
@@ -9296,7 +9296,7 @@ Granulomatous lung disease is caused by?
 
 <details><summary>Answer</summary>
 
-**A. Hypersensitivity pneumonitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hypersensitivity pneumonitis** — **A. Hypersensitivity pneumonitis** — Extrinsic allergic alveolitis (HP) causes non-caseating granulomatous inflammation in lung parenchyma from type III/IV hypersensitivity to inhaled organic antigens; sarcoidosis also causes lung granulomas but is not listed.
 
 </details>
 
@@ -9314,7 +9314,7 @@ Deficiency of p53 mutation is maximum in which lung carcinoma?
 
 <details><summary>Answer</summary>
 
-**B. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squamous cell carcinoma** — **B. Squamous cell carcinoma** — p53 mutation is most common in squamous cell carcinoma of the lung (>80%); small cell carcinoma also has near-universal p53 loss, but the question specifically asks where its deficiency (absence of mutation) is maximum, indicating SCC has most p53 mutations.
 
 </details>
 
@@ -9332,7 +9332,7 @@ Which type of paraneoplastic syndrome is most commonly associated with lung carc
 
 <details><summary>Answer</summary>
 
-**A. SIADH** — Source: Medicoholic 2016 PYQ compilation.
+**A. SIADH** — **A. SIADH** — Small cell lung carcinoma secretes ADH (ectopic ADH production) causing SIADH with hyponatremia; SCLC is also associated with ACTH (Cushing's), anti-Hu antibodies, and Lambert-Eaton syndrome.
 
 </details>
 
@@ -9350,7 +9350,7 @@ Most common cause of chylothorax is?
 
 <details><summary>Answer</summary>
 
-**B. Lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lymphoma** — **B. Lymphoma** — Lymphoma (especially mediastinal NHL) is the most common non-traumatic cause of chylothorax by compressing or invading the thoracic duct; trauma is the most common overall cause but lymphoma leads non-traumatic cases.
 
 </details>
 
@@ -9368,7 +9368,7 @@ Most common type of pneumoconiosis, associated with TB is?
 
 <details><summary>Answer</summary>
 
-**A. Silicosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Silicosis** — **A. Silicosis** — Silica particles impair macrophage function and promote Mycobacterium tuberculosis survival, making silicosis the pneumoconiosis with highest TB association (silicotuberculosis); silica is directly immunosuppressive to alveolar macrophages.
 
 </details>
 
@@ -9386,7 +9386,7 @@ Anthracosis is due to inhalation of-
 
 <details><summary>Answer</summary>
 
-**A. Coal dust** — Source: Medicoholic 2016 PYQ compilation.
+**A. Coal dust** — **A. Coal dust** — Anthracosis is black pigmentation of lung tissue from inhalation of coal dust (carbon particles) accumulated in alveolar macrophages; it is the mildest form of coal worker's pneumoconiosis.
 
 </details>
 
@@ -9404,7 +9404,7 @@ Chronic bronchitis is associated with?
 
 <details><summary>Answer</summary>
 
-**B. Bronchiolitis obliterans** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bronchiolitis obliterans** — **B. Bronchiolitis obliterans** — Chronic bronchitis is associated with obliterative bronchiolitis (small airway inflammation and fibrosis); Reid index is increased (not decreased), and both large and small airways are involved.
 
 </details>
 
@@ -9422,7 +9422,7 @@ Histopathology showing large cells with plant like apperance with perinuclear ha
 
 <details><summary>Answer</summary>
 
-**D. Chromophobic** — Source: Medicoholic 2016 PYQ compilation.
+**D. Chromophobic** — **D. Chromophobic** — Chromophobe renal cell carcinoma shows large cells with pale, reticular cytoplasm and perinuclear halos (plant cell appearance) on H&E; these cells stain positively with Hale's colloidal iron for mucopolysaccharides.
 
 </details>
 
@@ -9440,7 +9440,7 @@ True about RCC is?
 
 <details><summary>Answer</summary>
 
-**C. Invasion of renal vein is more common than renal artery** — Source: Medicoholic 2016 PYQ compilation.
+**C. Invasion of renal vein is more common than renal artery** — **C. Invasion of renal vein is more common than renal artery** — RCC has a striking tendency for venous invasion (renal vein and IVC extension) due to its rich venous drainage; arterial invasion is far less common.
 
 </details>
 
@@ -9458,7 +9458,7 @@ What is responsible for regeneration of liver cells?
 
 <details><summary>Answer</summary>
 
-**A. HGF** — Source: Medicoholic 2016 PYQ compilation.
+**A. HGF** — **A. HGF** — Hepatocyte Growth Factor (HGF), acting via c-Met receptor, is the primary mitogen driving hepatocyte proliferation and liver regeneration after partial hepatectomy or injury; TGF-β inhibits regeneration.
 
 </details>
 
@@ -10016,7 +10016,7 @@ Salivary schintigraphy is useful in?
 
 <details><summary>Answer</summary>
 
-**D. Sjogren syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**D. Sjogren syndrome** — **D. Sjogren syndrome** — Salivary scintigraphy with Tc-99m pertechnetate assesses salivary gland uptake and secretion; reduced uptake and excretion is characteristic of autoimmune exocrine gland destruction in Sjögren syndrome.
 
 </details>
 
@@ -10034,7 +10034,7 @@ Trilateral retinoblastoma is?
 
 <details><summary>Answer</summary>
 
-**B. Bilateral retinoblastoma plus pineoblastoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bilateral retinoblastoma plus pineoblastoma** — **B. Bilateral retinoblastoma plus pineoblastoma** — Trilateral retinoblastoma = bilateral ocular retinoblastoma + midline intracranial primitive neuroectodermal tumour (pineoblastoma), due to shared RB1 germline mutation affecting pineocytes and retinoblasts.
 
 </details>
 
@@ -10052,7 +10052,7 @@ Hydroxyl ions are destroyed in the body by?
 
 <details><summary>Answer</summary>
 
-**A. Vitamin C** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vitamin C** — **A. Vitamin C** — Ascorbic acid (Vitamin C) is a powerful water-soluble antioxidant that directly scavenges hydroxyl radicals and other reactive oxygen species, preventing oxidative cellular damage.
 
 </details>
 
@@ -10070,7 +10070,7 @@ Which of the following drugs is not an inhibitor of P - glycoprotein?
 
 <details><summary>Answer</summary>
 
-**D. Phenobarbitone** — Source: Medicoholic 2016 PYQ compilation.
+**D. Phenobarbitone** — **D. Phenobarbitone** — Phenobarbitone is a potent inducer (not inhibitor) of P-glycoprotein and CYP450 enzymes; quinidine, verapamil, and erythromycin are classic P-glycoprotein inhibitors that increase drug bioavailability.
 
 </details>
 
@@ -10088,7 +10088,7 @@ Tachyphylaxis is seen with which of the following drugs?
 
 <details><summary>Answer</summary>
 
-**B. Ephedrine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ephedrine** — **B. Ephedrine** — Ephedrine acts indirectly by releasing noradrenaline from presynaptic vesicles; repeated doses deplete intraneuronal catecholamine stores rapidly, causing progressive attenuation of response (tachyphylaxis).
 
 </details>
 
@@ -10106,7 +10106,7 @@ Oxidation in biotransformation is ?
 
 <details><summary>Answer</summary>
 
-**A. Functionalization reaction** — Source: Medicoholic 2016 PYQ compilation.
+**A. Functionalization reaction** — **A. Functionalization reaction** — Phase I biotransformation (oxidation, reduction, hydrolysis) introduces or unmasks a functional group, increasing polarity; these are called functionalization reactions, distinct from Phase II conjugation reactions.
 
 </details>
 
@@ -10124,7 +10124,7 @@ Which of the following drug crosses BBB?
 
 <details><summary>Answer</summary>
 
-**C. Physostigmine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Physostigmine** — **C. Physostigmine** — Physostigmine is a tertiary amine anticholinesterase that is lipid-soluble and crosses the blood-brain barrier; neostigmine and glycopyrrolate are quaternary ammonium compounds excluded from the CNS.
 
 </details>
 
@@ -10142,7 +10142,7 @@ Which of the following is not true about the action of anticholinergic drugs?
 
 <details><summary>Answer</summary>
 
-**B. Atropine causes mydriasis, abolition of light reflex and** — Source: Medicoholic 2016 PYQ compilation.
+**B. Atropine causes mydriasis, abolition of light reflex and** — **B. Atropine causes mydriasis, abolition of light reflex and** — This statement is actually TRUE; however, atropine causes BRONCHODILATION not bronchoconstriction; the key false statement among all options relates to the incomplete listed action, but the correct answer here is C which describes bronchoconstriction as false — Atropine blocks M3 receptors in bronchial smooth muscle, causing bronchodilation, not bronchoconstriction.
 
 </details>
 
@@ -10160,7 +10160,7 @@ Which of the following is an example of irreversible carbamate?
 
 <details><summary>Answer</summary>
 
-**C. Propoxur** — Source: Medicoholic 2016 PYQ compilation.
+**C. Propoxur** — **C. Propoxur** — Propoxur is an insecticidal carbamate that causes irreversible (pseudo-irreversible, very slow reversibility) cholinesterase inhibition; rivastigmine and galantamine are reversible therapeutic carbamylating agents.
 
 </details>
 
@@ -10178,7 +10178,7 @@ Which of the following is NOT a side effect of amiodarone?
 
 <details><summary>Answer</summary>
 
-**D. Tachycardia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Tachycardia** — **D. Tachycardia** — Amiodarone is a Class III antiarrhythmic that causes bradycardia and QT prolongation, not tachycardia; its well-known toxicities include pulmonary fibrosis, corneal microdeposits, photosensitivity, thyroid dysfunction, and hepatotoxicity.
 
 </details>
 
@@ -10196,7 +10196,7 @@ A side effect of loop diuretics is used in ?
 
 <details><summary>Answer</summary>
 
-**D. Oncology/cancer** — Source: Medicoholic 2016 PYQ compilation.
+**D. Oncology/cancer** — **D. Oncology/cancer** — Loop diuretics cause hyperuricaemia as a side effect by reducing uric acid excretion; this property is exploited therapeutically to prevent tumour lysis syndrome hypouricaemia and in managing uric acid levels in oncology patients.
 
 </details>
 
@@ -10214,7 +10214,7 @@ Which of the following antiarrhythmic drugs can develop Long QT syndrome?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Ibutilide, dofetilide, and sotalol are all Class III antiarrhythmics that block the rapid delayed rectifier potassium channel (IKr), prolonging repolarisation and QT interval, risking torsades de pointes.
 
 </details>
 
@@ -10232,7 +10232,7 @@ Which drug inhibits both cyclooxygenase and lipooxygenase?
 
 <details><summary>Answer</summary>
 
-**D. BW755** — Source: Medicoholic 2016 PYQ compilation.
+**D. BW755** — **D. BW755** — BW755C is a dual inhibitor of both cyclooxygenase and lipoxygenase pathways, blocking synthesis of both prostaglandins and leukotrienes; aspirin and indomethacin inhibit COX only.
 
 </details>
 
@@ -10250,7 +10250,7 @@ Drug acting on 5HT4 receptor is ?
 
 <details><summary>Answer</summary>
 
-**B. Renzapride** — Source: Medicoholic 2016 PYQ compilation.
+**B. Renzapride** — **B. Renzapride** — Renzapride is a full 5-HT4 receptor agonist and 5-HT3 antagonist used as a prokinetic agent; 5-HT4 activation in the gut enhances acetylcholine release and accelerates gastrointestinal motility.
 
 </details>
 
@@ -10268,7 +10268,7 @@ Rasburicase is an analogue of ?
 
 <details><summary>Answer</summary>
 
-**D. Urate Oxidase** — Source: Medicoholic 2016 PYQ compilation.
+**D. Urate Oxidase** — **D. Urate Oxidase** — Rasburicase is a recombinant urate oxidase that converts insoluble uric acid to soluble allantoin, used to prevent and treat hyperuricaemia in tumour lysis syndrome; humans lack endogenous urate oxidase.
 
 </details>
 
@@ -10286,7 +10286,7 @@ Adverse effect of methysergide is ?
 
 <details><summary>Answer</summary>
 
-**B. Endocardial fibrosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Endocardial fibrosis** — **B. Endocardial fibrosis** — Methysergide (5-HT2 antagonist used for migraine prophylaxis) causes retroperitoneal, pleural, and endocardial/cardiac valvular fibrosis with prolonged use, attributed to its fibrogenic 5-HT-like partial agonism.
 
 </details>
 
@@ -10304,7 +10304,7 @@ Anti-inflammatory actions of corticosteroids are mediated by ?
 
 <details><summary>Answer</summary>
 
-**B. By inhibiting breakdown of phospholipids** — Source: Medicoholic 2016 PYQ compilation.
+**B. By inhibiting breakdown of phospholipids** — **B. By inhibiting breakdown of phospholipids** — Corticosteroids induce lipocortin (annexin-1) synthesis, which inhibits phospholipase A2, thereby blocking release of arachidonic acid from membrane phospholipids and preventing prostaglandin and leukotriene synthesis.
 
 </details>
 
@@ -10322,7 +10322,7 @@ Which of the following is not an inhalational steroids?
 
 <details><summary>Answer</summary>
 
-**B. Betamethasone** — Source: Medicoholic 2016 PYQ compilation.
+**B. Betamethasone** — **B. Betamethasone** — Betamethasone is a systemic corticosteroid used parenterally (e.g., fetal lung maturation); beclomethasone, budesonide, and fluticasone are approved inhaled steroids for asthma/COPD with minimal systemic absorption.
 
 </details>
 
@@ -10340,7 +10340,7 @@ Which of the following antithyroid medications had the maximum chances of causin
 
 <details><summary>Answer</summary>
 
-**C. Propylthiouracil** — Source: Medicoholic 2016 PYQ compilation.
+**C. Propylthiouracil** — **C. Propylthiouracil** — PTU carries the highest risk of agranulocytosis (0.3–0.6%) among antithyroid drugs; it inhibits thyroid peroxidase and peripheral T4→T3 conversion; methimazole/carbimazole have lower agranulocytosis incidence.
 
 </details>
 
@@ -10358,7 +10358,7 @@ Mifepristone acts on which receptor?
 
 <details><summary>Answer</summary>
 
-**A. Type A progesterone receptor** — Source: Medicoholic 2016 PYQ compilation.
+**A. Type A progesterone receptor** — **A. Type A progesterone receptor** — Mifepristone (RU-486) is a competitive antagonist at progesterone receptor type A (PR-A) and glucocorticoid receptors, blocking progesterone's decidual maintenance action, leading to endometrial shedding and cervical ripening.
 
 </details>
 
@@ -10376,7 +10376,7 @@ Tibolone is a ?
 
 <details><summary>Answer</summary>
 
-**C. Synthetic steroidal estrogen** — Source: Medicoholic 2016 PYQ compilation.
+**C. Synthetic steroidal estrogen** — **C. Synthetic steroidal estrogen** — Tibolone is a synthetic steroidal compound with combined estrogenic, progestogenic, and weak androgenic activity; it is metabolised to tissue-selective active metabolites used in postmenopausal hormone therapy.
 
 </details>
 
@@ -10394,7 +10394,7 @@ Danazol acts through :?
 
 <details><summary>Answer</summary>
 
-**C. Inhibition of release of Gn** — Source: Medicoholic 2016 PYQ compilation.
+**C. Inhibition of release of Gn** — **C. Inhibition of release of Gn** — Danazol inhibits gonadotropin (FSH and LH) release from the pituitary, thereby suppressing ovarian steroidogenesis; it also binds androgen and progesterone receptors and inhibits ovarian enzymes, used in endometriosis.
 
 </details>
 
@@ -10412,7 +10412,7 @@ Metyrosine acts by inhibiting ?
 
 <details><summary>Answer</summary>
 
-**C. Tyrosine Hydroxylase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Tyrosine Hydroxylase** — **C. Tyrosine Hydroxylase** — Metyrosine (alpha-methyltyrosine) competitively inhibits tyrosine hydroxylase, the rate-limiting enzyme in catecholamine biosynthesis, reducing noradrenaline/adrenaline production; used in phaeochromocytoma management.
 
 </details>
 
@@ -10430,7 +10430,7 @@ Which of the following oral hypoglycaemic drugs has the longest t 1/2 ?
 
 <details><summary>Answer</summary>
 
-**C. Chlorpropamide** — Source: Medicoholic 2016 PYQ compilation.
+**C. Chlorpropamide** — **C. Chlorpropamide** — Chlorpropamide has the longest half-life (~36 hours) among sulphonylureas, lasting up to 72 hours; tolbutamide is shortest (~6 h), gliclazide ~12 h, and glimepiride ~5–9 h; its prolonged action increases hypoglycaemia risk.
 
 </details>
 
@@ -10448,7 +10448,7 @@ Nasally acting GnRH analogue is ?
 
 <details><summary>Answer</summary>
 
-**C. Nafarelin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nafarelin** — **C. Nafarelin** — Nafarelin is the only GnRH analogue formulated for intranasal delivery; goserelin is a subcutaneous implant, triptorelin is intramuscular, and leuprolide is subcutaneous/IM; nasal bioavailability avoids hepatic first-pass metabolism.
 
 </details>
 
@@ -10466,7 +10466,7 @@ Which of the following drugs halts macrovascular as well as microvascular effect
 
 <details><summary>Answer</summary>
 
-**B. Biguanides** — Source: Medicoholic 2016 PYQ compilation.
+**B. Biguanides** — **B. Biguanides** — Metformin (biguanide) is the only oral antidiabetic shown to reduce both microvascular complications (by glycaemic control) and macrovascular events (CV mortality reduction in UKPDS), independent of glucose-lowering alone.
 
 </details>
 
@@ -10484,7 +10484,7 @@ Which of the following are naturally occurring opioid?
 
 <details><summary>Answer</summary>
 
-**C. Morphine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Morphine** — **C. Morphine** — Morphine is a naturally occurring phenanthrene alkaloid extracted directly from Papaver somniferum; diacetylmorphine (heroin) and ethylmorphine are semisynthetic derivatives, while pholcodeine is also semisynthetic.
 
 </details>
 
@@ -10502,7 +10502,7 @@ All of the following pairs are correct except ?
 
 <details><summary>Answer</summary>
 
-**B. MAO - B inhibitor - Clorgyline** — Source: Medicoholic 2016 PYQ compilation.
+**B. MAO - B inhibitor - Clorgyline** — **B. MAO - B inhibitor - Clorgyline** — Clorgyline is a selective MAO-A inhibitor, not MAO-B; MAO-B inhibitors used in Parkinson's disease are selegiline and rasagiline; the other pairs (benserazide-DDC inhibitor, entacapone-COMT, amantadine-DA facilitation) are correct.
 
 </details>
 
@@ -10520,7 +10520,7 @@ Which of the following is not true about benzodiazepines?
 
 <details><summary>Answer</summary>
 
-**C. REM, and Stage 3 and 4 sleep is increased** — Source: Medicoholic 2016 PYQ compilation.
+**C. REM, and Stage 3 and 4 sleep is increased** — **C. REM, and Stage 3 and 4 sleep is increased** — Benzodiazepines REDUCE REM sleep and suppress Stage 3 and 4 (slow-wave) sleep; they primarily increase Stage 2 NREM sleep; this is clinically important as suppression of restorative sleep stages is a disadvantage.
 
 </details>
 
@@ -10538,7 +10538,7 @@ Which of the following is not true about barbiturate?
 
 <details><summary>Answer</summary>
 
-**D. Limbic system is most sensitive to the depressive action of** — Source: Medicoholic 2016 PYQ compilation.
+**D. Limbic system is most sensitive to the depressive action of** — **D. Limbic system is most sensitive to the depressive action of** — The reticular activating system (RAS), not the limbic system, is most sensitive to barbiturate depression; RAS suppression underlies the sedative-hypnotic and anaesthetic effects of barbiturates.
 
 </details>
 
@@ -12035,7 +12035,7 @@ Most commonly used vector for DNA cloning ?
 
 <details><summary>Answer</summary>
 
-**A. Plasmid** — Source: Medicoholic 2016 PYQ compilation.
+**A. Plasmid** — **A. Plasmid** — Plasmids are the most commonly used vectors for DNA cloning due to their small size, easy manipulation, high copy number, selectable antibiotic resistance markers, and ability to replicate autonomously.
 
 </details>
 
@@ -12053,7 +12053,7 @@ Type 4 hypersensitivity reaction to TB antigen is similar to which of the follow
 
 <details><summary>Answer</summary>
 
-**D. Temporal arteritis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Temporal arteritis** — **D. Temporal arteritis** — Temporal arteritis is a type IV (delayed-type/cell-mediated) hypersensitivity reaction like the tuberculin (Mantoux) response; both involve T-cell and macrophage-mediated granulomatous inflammation.
 
 </details>
 
@@ -12071,7 +12071,7 @@ True Statement about silicosis -
 
 <details><summary>Answer</summary>
 
-**B. Associated with tuberculosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Associated with tuberculosis** — **B. Associated with tuberculosis** — Silicosis dramatically increases susceptibility to Mycobacterium tuberculosis (silicotuberculosis); silica impairs macrophage killing of TB; pleural plaques are characteristic of asbestosis, not silicosis.
 
 </details>
 
@@ -12089,7 +12089,7 @@ Phlegmonous gastritis occurs due to?
 
 <details><summary>Answer</summary>
 
-**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+**B. E. coli** — **B. E. coli** — Phlegmonous (suppurative) gastritis is a rare bacterial infection of the gastric wall caused most often by E. coli, Streptococcus, and Proteus; presents as acute abdomen with gastric wall oedema.
 
 </details>
 
@@ -12107,7 +12107,7 @@ Collar button ulcer is found in?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Collar-button (flask-shaped) ulcers occur when mucosal ulceration burrows through submucosa, creating a wider base; seen in ulcerative colitis, Crohn's disease, and Shigella dysentery.
 
 </details>
 
@@ -12125,7 +12125,7 @@ All of the following are important mechanisms of gene transfer in bacteria, exce
 
 <details><summary>Answer</summary>
 
-**C. Vertical gene transfer** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vertical gene transfer** — **C. Vertical gene transfer** — Vertical gene transfer (parent to offspring) is normal reproduction, not horizontal gene transfer; lateral/horizontal gene transfer among bacteria includes transformation, transduction, and conjugation.
 
 </details>
 
@@ -12143,7 +12143,7 @@ Natural method of horizontal gene transfer among bacteria includes -
 
 <details><summary>Answer</summary>
 
-**D. b and c** — Source: Medicoholic 2016 PYQ compilation.
+**D. b and c** — **D. b and c** — Natural horizontal gene transfer in bacteria occurs via transduction (phage-mediated) and transformation (uptake of naked DNA); electroporation is an artificial laboratory method.
 
 </details>
 
@@ -12161,7 +12161,7 @@ Nutrient agar heated at 80°C used for
 
 <details><summary>Answer</summary>
 
-**D. For clostridium isolation** — Source: Medicoholic 2016 PYQ compilation.
+**D. For clostridium isolation** — **D. For clostridium isolation** — Heating nutrient agar at 80°C for 10 minutes kills vegetative bacteria while preserving Clostridium spores; subsequent culture allows only heat-resistant spore-forming anaerobes to grow.
 
 </details>
 
@@ -12179,7 +12179,7 @@ Partial acid fast organism is
 
 <details><summary>Answer</summary>
 
-**C. Nocardia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nocardia** — **C. Nocardia** — Nocardia is partially acid-fast (weakly positive with modified ZN using 1% H2SO4 instead of 20%); M. tuberculosis and M. bovis are fully acid-fast due to high mycolic acid content.
 
 </details>
 
@@ -12197,7 +12197,7 @@ Classification of staphylococcus is based on -
 
 <details><summary>Answer</summary>
 
-**B. Coagulase test** — Source: Medicoholic 2016 PYQ compilation.
+**B. Coagulase test** — **B. Coagulase test** — Staphylococci are classified as coagulase-positive (S. aureus — pathogenic) vs. coagulase-negative (S. epidermidis, S. saprophyticus); coagulase converts fibrinogen to fibrin protecting from phagocytosis.
 
 </details>
 
@@ -12215,7 +12215,7 @@ Iron helps in virulence of which organism
 
 <details><summary>Answer</summary>
 
-**C. Staphylococcus aureus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Staphylococcus aureus** — **C. Staphylococcus aureus** — Iron is essential for S. aureus virulence; it acquires iron via staphyloferrin siderophores and iron-regulated surface determinant (Isd) proteins to support growth in host tissues.
 
 </details>
 
@@ -12233,7 +12233,7 @@ Fishy odour is found on growth of which organism
 
 <details><summary>Answer</summary>
 
-**A. Proteus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Proteus** — **A. Proteus** — Proteus mirabilis and P. vulgaris produce a characteristic fishy/seminal odour due to phenylpyruvic acid deamination; also noted for swarming motility on agar and urease positivity.
 
 </details>
 
@@ -12251,7 +12251,7 @@ Species of shigella causing arthritis
 
 <details><summary>Answer</summary>
 
-**C. Sh flexneri** — Source: Medicoholic 2016 PYQ compilation.
+**C. Sh flexneri** — **C. Sh flexneri** — Shigella flexneri most commonly triggers reactive arthritis (post-dysenteric arthritis) due to molecular mimicry between bacterial antigens and host HLA-B27; more common than other Shigella species.
 
 </details>
 
@@ -12269,7 +12269,7 @@ Griffth classification is base on
 
 <details><summary>Answer</summary>
 
-**B. M, T, R antigens** — Source: Medicoholic 2016 PYQ compilation.
+**B. M, T, R antigens** — **B. M, T, R antigens** — Griffith's classification of Streptococcus pyogenes (Group A) is based on M protein, T protein, and R protein surface antigens; >80 M-types exist and M protein is major virulence factor.
 
 </details>
 
@@ -12287,7 +12287,7 @@ How does chlamydia differ from other usual bacteria?
 
 <details><summary>Answer</summary>
 
-**C. Contains inclusion body** — Source: Medicoholic 2016 PYQ compilation.
+**C. Contains inclusion body** — **C. Contains inclusion body** — Chlamydia forms characteristic intracytoplasmic inclusion bodies (reticulate and elementary bodies); it does have cell wall components and cannot grow in cell-free media, but inclusion bodies are the classic differentiator.
 
 </details>
 
@@ -12305,7 +12305,7 @@ E. coli subtypes are divided on the basis of
 
 <details><summary>Answer</summary>
 
-**B. Virulence properties** — Source: Medicoholic 2016 PYQ compilation.
+**B. Virulence properties** — **B. Virulence properties** — E. coli subtypes (ETEC, EPEC, EIEC, EHEC, EAEC) are classified by virulence mechanisms: toxin production, invasion, adherence patterns, and specific pathogenicity islands.
 
 </details>
 
@@ -12323,7 +12323,7 @@ ELISA test for virulence antigen is used for which type of E coli
 
 <details><summary>Answer</summary>
 
-**B. EIEC** — Source: Medicoholic 2016 PYQ compilation.
+**B. EIEC** — **B. EIEC** — ELISA for virulence antigens (invasion plasmid antigens/Ipa proteins) is used to identify EIEC (Enteroinvasive E. coli); this Sereny test equivalent detects Shigella-like invasive pathogenicity determinants.
 
 </details>
 
@@ -12341,7 +12341,7 @@ E. coli infection occur in which enzyme defect
 
 <details><summary>Answer</summary>
 
-**B. Pyruvate kinase** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pyruvate kinase** — **B. Pyruvate kinase** — Pyruvate kinase deficiency causes haemolytic anaemia; erythrocyte ATP depletion impairs membrane integrity and complement-mediated killing, predisposing to E. coli and other bacterial infections.
 
 </details>
 
@@ -12359,7 +12359,7 @@ Generation time for M tuberculosis
 
 <details><summary>Answer</summary>
 
-**B. 10-15 hours** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10-15 hours** — **B. 10-15 hours** — M. tuberculosis has an exceptionally slow generation (doubling) time of 14–20 hours (commonly cited 10–15 hours), explaining slow colony growth (3–8 weeks on LJ medium) and prolonged treatment duration.
 
 </details>
 
@@ -12377,7 +12377,7 @@ Which of the following agents is most commonly associated with recurrent meningi
 
 <details><summary>Answer</summary>
 
-**B. Pneumococci** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pneumococci** — **B. Pneumococci** — Streptococcus pneumoniae is the most common cause of recurrent bacterial meningitis associated with CSF leaks (otorrhoea/rhinorrhoea); capsular polysaccharides facilitate reinfection via anatomical defects.
 
 </details>
 
@@ -12395,7 +12395,7 @@ E. coli is differentiated by E histolytica by presence of
 
 <details><summary>Answer</summary>
 
-**D. Blunt pseudopodia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Blunt pseudopodia** — **D. Blunt pseudopodia** — E. coli (non-pathogenic commensal) has blunt, non-directional pseudopodia; E. histolytica is differentiated by its explosive directional motility, ingested RBCs, and 4-nucleate cyst form.
 
 </details>
 
@@ -12413,7 +12413,7 @@ Intermediate host is not required for which parasite -
 
 <details><summary>Answer</summary>
 
-**C. Ancylostoma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ancylostoma** — **C. Ancylostoma** — Ancylostoma duodenale (hookworm) has a direct life cycle: eggs in soil → rhabditiform → infective filariform larvae → skin penetration → host; no intermediate host is needed.
 
 </details>
 
@@ -12431,7 +12431,7 @@ Smallest DNA virus is?
 
 <details><summary>Answer</summary>
 
-**C. Parvovirus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Parvovirus** — **C. Parvovirus** — Parvovirus B19 is the smallest DNA virus (~20 nm, ssDNA, non-enveloped icosahedral); it is also the only single-stranded DNA virus pathogenic to humans, causing erythema infectiosum (fifth disease).
 
 </details>
 
@@ -12449,7 +12449,7 @@ All viruses are associated with specific inclusion body, except ?
 
 <details><summary>Answer</summary>
 
-**C. EBV** — Source: Medicoholic 2016 PYQ compilation.
+**C. EBV** — **C. EBV** — Epstein-Barr virus does not produce characteristic cytoplasmic or nuclear inclusion bodies; CMV causes owl-eye inclusions, molluscum contagiosum has Henderson-Paterson bodies, and yellow fever causes Councilman bodies.
 
 </details>
 
@@ -12467,7 +12467,7 @@ Hand foot mouth disease is caused by ?
 
 <details><summary>Answer</summary>
 
-**B. Coxsackie - A virus** — Source: Medicoholic 2016 PYQ compilation.
+**B. Coxsackie - A virus** — **B. Coxsackie - A virus** — Hand, foot, and mouth disease is classically caused by Coxsackievirus A16 and Enterovirus A71; vesicular lesions on palms, soles, and oral mucosa in children under 10 years.
 
 </details>
 
@@ -12485,7 +12485,7 @@ HSV-2 (Herpes simplex) causes ?
 
 <details><summary>Answer</summary>
 
-**B. Genital ulcers** — Source: Medicoholic 2016 PYQ compilation.
+**B. Genital ulcers** — **B. Genital ulcers** — HSV-2 primarily causes genital herpes (recurrent painful vesiculoulcerative lesions); HSV-1 causes orolabial herpes; both can cause neonatal herpes and encephalitis but HSV-2 genital is classic.
 
 </details>
 
@@ -12503,7 +12503,7 @@ Which of the following is Hepadnavirus ?
 
 <details><summary>Answer</summary>
 
-**B. HBV** — Source: Medicoholic 2016 PYQ compilation.
+**B. HBV** — **B. HBV** — Hepatitis B virus (HBV) belongs to Hepadnaviridae family; partially double-stranded DNA virus with reverse transcriptase activity; HAV is Picornavirus (ssRNA), HCV is Flavivirus (ssRNA), HDV is a satellite RNA virus.
 
 </details>
 
@@ -12521,7 +12521,7 @@ Core antigen [HBO in HBV is encloded by which gene ?
 
 <details><summary>Answer</summary>
 
-**B. C** — Source: Medicoholic 2016 PYQ compilation.
+**B. C** — **B. C** — The core gene (C gene) of HBV encodes HBcAg (hepatitis B core antigen) and HBeAg (precore region); S gene encodes surface antigen; P gene encodes DNA polymerase; X gene encodes transactivator protein.
 
 </details>
 
@@ -12539,7 +12539,7 @@ Respiratory Syncytial Virus (RSV) causes all, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**B. ARDS** — Source: Medicoholic 2016 PYQ compilation.
+**B. ARDS** — **B. ARDS** — RSV causes bronchiolitis, croup, coryza, and common cold in children and immunocompromised adults; ARDS is not a typical RSV manifestation though severe pneumonia can occur in immunocompromised hosts.
 
 </details>
 
@@ -12557,7 +12557,7 @@ Rota-teq oral vaccine for rotavirus contains ?
 
 <details><summary>Answer</summary>
 
-**D. 5 reassorted rotaviruses** — Source: Medicoholic 2016 PYQ compilation.
+**D. 5 reassorted rotaviruses** — **D. 5 reassorted rotaviruses** — RotaTeq (Merck) pentavalent oral vaccine contains 5 human-bovine reassortant rotaviruses (serotypes G1, G2, G3, G4, P[8]); Rotarix (GSK) is the monovalent alternative.
 
 </details>
 
@@ -12575,7 +12575,7 @@ Zika virus causes ?
 
 <details><summary>Answer</summary>
 
-**C. Conjunctivitis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Conjunctivitis** — **C. Conjunctivitis** — Zika virus (Flavivirus, Aedes-transmitted) causes fever, rash, arthralgia, and non-purulent conjunctivitis; congenital Zika causes microcephaly; Guillain-Barré syndrome is a complication.
 
 </details>
 
@@ -12593,7 +12593,7 @@ Ebola virus belongs to?
 
 <details><summary>Answer</summary>
 
-**D. Filoviridae** — Source: Medicoholic 2016 PYQ compilation.
+**D. Filoviridae** — **D. Filoviridae** — Ebola virus belongs to family Filoviridae (filamentous negative-sense ssRNA viruses); causes viral haemorrhagic fever with >50% mortality; Marburg virus is the only other member of this family.
 
 </details>
 
@@ -12611,7 +12611,7 @@ Polio virus is shed in stool upto-
 
 <details><summary>Answer</summary>
 
-**D. 12 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**D. 12 weeks** — **D. 12 weeks** — Poliovirus replicates in intestinal epithelium and lymphoid tissue; fecal shedding persists up to 12 weeks post-infection, enabling prolonged environmental transmission via fecal-oral route.
 
 </details>
 
@@ -12629,7 +12629,7 @@ True about rhabdoviridae are all except ?
 
 <details><summary>Answer</summary>
 
-**C. Rabies virus is negative sense double stranded RNA virus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rabies virus is negative sense double stranded RNA virus** — **C. Rabies virus is negative sense double stranded RNA virus** — Rhabdoviridae (including rabies) carry single-stranded, negative-sense RNA genomes; they are NOT double-stranded RNA viruses.
 
 </details>
 
@@ -12647,7 +12647,7 @@ Bloody diarrhea in HIV infected patient is mostly due to ?
 
 <details><summary>Answer</summary>
 
-**C. CMV** — Source: Medicoholic 2016 PYQ compilation.
+**C. CMV** — **C. CMV** — Cytomegalovirus colitis is the most common cause of bloody diarrhea in advanced HIV (CD4 <50); causes mucosal ulceration with characteristic cytomegalic inclusion cells on biopsy.
 
 </details>
 
@@ -12665,7 +12665,7 @@ Sabouraud's dextrose [glucose] agar is used for isolation of -
 
 <details><summary>Answer</summary>
 
-**C. Fungi** — Source: Medicoholic 2016 PYQ compilation.
+**C. Fungi** — **C. Fungi** — Sabouraud's dextrose agar (SDA) has low pH (~5.6) and high glucose (4%), selectively supporting fungal growth while inhibiting most bacteria; standard medium for dermatophytes and yeasts.
 
 </details>
 
@@ -12683,7 +12683,7 @@ Aspergillus fumigatus is differentiated by other fungi by ?
 
 <details><summary>Answer</summary>
 
-**B. Grow at 45°C** — Source: Medicoholic 2016 PYQ compilation.
+**B. Grow at 45°C** — **B. Grow at 45°C** — Aspergillus fumigatus is thermotolerant and uniquely grows at 45–50°C; this thermophilic property differentiates it from other Aspergillus species and saprophytic moulds.
 
 </details>
 
@@ -12701,7 +12701,7 @@ Aspergillus fumigatus is differentiated by other fungi by ?
 
 <details><summary>Answer</summary>
 
-**B. V. cholerae** — Source: Medicoholic 2016 PYQ compilation.
+**B. V. cholerae** — **B. V. cholerae** — Vibrio cholerae produces cholera toxin causing massive watery (rice-water) diarrhea via cAMP-mediated hypersecretion; most common cause of profuse non-bloody watery diarrhea in young adults.
 
 </details>
 
@@ -12719,7 +12719,7 @@ Swimming pool conjunctivitis is caused by
 
 <details><summary>Answer</summary>
 
-**A. Chlamydia trachomatis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Chlamydia trachomatis** — **A. Chlamydia trachomatis** — Chlamydia trachomatis (serovars D–K) causes inclusion conjunctivitis transmitted in inadequately chlorinated swimming pools; also called paratrachoma or swimming pool conjunctivitis.
 
 </details>
 
@@ -12737,7 +12737,7 @@ Most common organism grown in urine culture of pregnant woman with asymptomatic 
 
 <details><summary>Answer</summary>
 
-**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+**B. E. coli** — **B. E. coli** — Escherichia coli accounts for 80–85% of asymptomatic bacteriuria in pregnancy; its fimbriae (type 1 and P-fimbriae) facilitate uroepithelial adherence, mandating treatment to prevent pyelonephritis.
 
 </details>
 
@@ -12755,7 +12755,7 @@ A paitent operated for transurethral resection of prostate [TURP] develops UTI. 
 
 <details><summary>Answer</summary>
 
-**B. E. coli** — Source: Medicoholic 2016 PYQ compilation.
+**B. E. coli** — **B. E. coli** — E. coli remains the most common urinary pathogen in post-TURP UTI due to its predominance in gut flora and fimbria-mediated uroepithelial adherence, despite hospital-acquired risk factors.
 
 </details>
 
@@ -12773,7 +12773,7 @@ Cellulitis surrounding diabetic ulcer is mostly caused by ?
 
 <details><summary>Answer</summary>
 
-**C. Mixed organisms** — Source: Medicoholic 2016 PYQ compilation.
+**C. Mixed organisms** — **C. Mixed organisms** — Diabetic foot cellulitis involves polymicrobial infection including Gram-positive cocci (Staphylococcus, Streptococcus), Gram-negative rods (E. coli, Pseudomonas), and anaerobes due to vascular compromise and neuropathy.
 
 </details>
 
@@ -12791,7 +12791,7 @@ Non-parasitic eosinophilia is caused by infection with -
 
 <details><summary>Answer</summary>
 
-**C. Coccidioidomycosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Coccidioidomycosis** — **C. Coccidioidomycosis** — Coccidioides immitis, a dimorphic fungus endemic to the American Southwest, causes tissue eosinophilia via Th2 immune response; notable as the main non-parasitic infectious cause of eosinophilia.
 
 </details>
 
@@ -12809,7 +12809,7 @@ Atypical pneumonia can be caused by the following microbial agents except?
 
 <details><summary>Answer</summary>
 
-**D. Klebsiella pneumoniae** — Source: Medicoholic 2016 PYQ compilation.
+**D. Klebsiella pneumoniae** — **D. Klebsiella pneumoniae** — Klebsiella causes typical lobar pneumonia ("currant jelly" sputum) in alcoholics; atypical pneumonia pathogens (Mycoplasma, Legionella, Chlamydophila, coronaviruses) lack a cell wall or have atypical presentation.
 
 </details>
 
@@ -12827,7 +12827,7 @@ Median incubation period is ?
 
 <details><summary>Answer</summary>
 
-**C. Time from exposure to development in 50% of cases** — Source: Medicoholic 2016 PYQ compilation.
+**C. Time from exposure to development in 50% of cases** — **C. Time from exposure to development in 50% of cases** — Median incubation period is the time elapsed from exposure to symptom onset in 50% of exposed individuals; used when incubation follows skewed distribution.
 
 </details>
 
@@ -12845,7 +12845,7 @@ Varicella zoster virus infection is more likely to occur in which of the followi
 
 <details><summary>Answer</summary>
 
-**A. March** — Source: Medicoholic 2016 PYQ compilation.
+**A. March** — **A. March** — Varicella (chickenpox) peaks in late winter to early spring (February–April in temperate climates); March represents peak seasonal transmission driven by indoor crowding and school-age exposure patterns.
 
 </details>
 
@@ -12863,7 +12863,7 @@ Most common influenza virus causing disease?
 
 <details><summary>Answer</summary>
 
-**A. Type A** — Source: Medicoholic 2016 PYQ compilation.
+**A. Type A** — **A. Type A** — Influenza A undergoes both antigenic drift and shift (reassortment), infects humans and animals, and is responsible for seasonal epidemics and all recorded pandemics; most virulent and prevalent type.
 
 </details>
 
@@ -12881,7 +12881,7 @@ Vesicles on external ear are seen in
 
 <details><summary>Answer</summary>
 
-**C. Herpes zoster** — Source: Medicoholic 2016 PYQ compilation.
+**C. Herpes zoster** — **C. Herpes zoster** — Herpes zoster oticus (Ramsay Hunt syndrome) is caused by VZV reactivation in the geniculate ganglion, producing vesicles on the auricle/external canal, facial palsy, and sensorineural hearing loss.
 
 </details>
 
@@ -12899,7 +12899,7 @@ Pain is out of proportion to signs in which corneal ulcer?
 
 <details><summary>Answer</summary>
 
-**B. Acanthamoeba keratitis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Acanthamoeba keratitis** — **B. Acanthamoeba keratitis** — Acanthamoeba keratitis causes severe, disproportionate periocular pain (due to perineural invasion) with relatively mild clinical signs; characteristic ring infiltrate; associated with contact lens use.
 
 </details>
 
@@ -12917,7 +12917,7 @@ Smokers are prone to which lung infection
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Smoking impairs mucociliary clearance, alveolar macrophage function, and IgA secretion, increasing susceptibility to Mycobacterium tuberculosis, bacterial pneumonia, and influenza virus infections.
 
 </details>
 
@@ -12935,7 +12935,7 @@ Which of the following corroborates to the presence of clostridium difficle infe
 
 <details><summary>Answer</summary>
 
-**B. Diarrhoea unformed stools per 24 h for 2 days with no other** — Source: Medicoholic 2016 PYQ compilation.
+**B. Diarrhoea unformed stools per 24 h for 2 days with no other** — **B. Diarrhoea unformed stools per 24 h for 2 days with no other** — IDSA/SHEA criteria define CDI as ≥3 unformed stools in 24 hours for ≥2 days with no other explanation in a patient on or recently on antibiotics.
 
 </details>
 
@@ -12953,7 +12953,7 @@ The following statements are true regarding botulism except -
 
 <details><summary>Answer</summary>
 
-**A. Infant botulism is caused by ingestion of preformed toxin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Infant botulism is caused by ingestion of preformed toxin** — **A. Infant botulism is caused by ingestion of preformed toxin** — Infant botulism results from ingestion of C. botulinum spores (e.g., honey) that germinate and produce toxin in situ in the infant colon; NOT preformed toxin ingestion.
 
 </details>
 
@@ -12971,7 +12971,7 @@ Rolled up omentum is seen in cases of -
 
 <details><summary>Answer</summary>
 
-**A. Peritoneal tuberculosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Peritoneal tuberculosis** — **A. Peritoneal tuberculosis** — Peritoneal TB causes fibrotic thickening and contraction of the omentum resulting in its characteristic 'rolled-up' or 'doughy' appearance on palpation and at laparotomy.
 
 </details>
 
@@ -12989,7 +12989,7 @@ Which of the following cannot be used to detect HIV status in early infancy?
 
 <details><summary>Answer</summary>
 
-**C. ELISA** — Source: Medicoholic 2016 PYQ compilation.
+**C. ELISA** — **C. ELISA** — ELISA detects maternal IgG antibodies passively transferred across the placenta, which persist up to 18 months in infants, making serological testing unreliable for diagnosing HIV in early infancy.
 
 </details>
 
@@ -13007,7 +13007,7 @@ Tuberculosis of spine most commonly affects which vertebral segment?
 
 <details><summary>Answer</summary>
 
-**B. Lower dorsal** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lower dorsal** — **B. Lower dorsal** — Pott's spine most commonly involves the lower thoracic (dorsal) vertebrae (T10–L2) due to rich blood supply and biomechanical load; anterior vertebral body and disc are primarily affected.
 
 </details>
 
@@ -13025,7 +13025,7 @@ A 20 year old male presents with history of gradual onset pain and swelling in l
 
 <details><summary>Answer</summary>
 
-**A. Tuberculosis of knee** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tuberculosis of knee** — **A. Tuberculosis of knee** — Young patient with chronic progressive monoarthritis, limping, and flexion deformity in an endemic setting; TB synovitis causes gradual destruction of the knee with Phemister's triad on X-ray.
 
 </details>
 
@@ -13043,7 +13043,7 @@ Acute salpingitis is most commonly caused by ?
 
 <details><summary>Answer</summary>
 
-**B. Chlamydia trachomatis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Chlamydia trachomatis** — **B. Chlamydia trachomatis** — Chlamydia trachomatis (serovars D–K) is the most common cause of acute salpingitis/PID globally; obligate intracellular bacterium causing ascending genital tract infection often subclinically.
 
 </details>
 
@@ -13061,7 +13061,7 @@ Scaling is not feature of which of the following?
 
 <details><summary>Answer</summary>
 
-**C. Herpes zoster** — Source: Medicoholic 2016 PYQ compilation.
+**C. Herpes zoster** — **C. Herpes zoster** — Herpes zoster (VZV reactivation) produces vesicular eruption with crusting but NOT scaling; scaling is a feature of hyperkeratotic/desquamative conditions like tinea, lichen planus, and Reiter's disease.
 
 </details>
 
@@ -13079,7 +13079,7 @@ Scabies is caused by?
 
 <details><summary>Answer</summary>
 
-**A. Mite** — Source: Medicoholic 2016 PYQ compilation.
+**A. Mite** — **A. Mite** — Scabies is caused by Sarcoptes scabiei var. hominis, an obligate parasitic mite that burrows into the stratum corneum; treated with permethrin 5% or oral ivermectin.
 
 </details>
 
@@ -15752,7 +15752,7 @@ Isolation period of TB ?
 
 <details><summary>Answer</summary>
 
-**D. 3 weeks after treatment** — Source: Medicoholic 2016 PYQ compilation.
+**D. 3 weeks after treatment** — **D. 3 weeks after treatment** — TB patient is considered non-infectious after 3 consecutive negative sputum smears or 3 weeks of effective anti-TB therapy, as sputum bacillary load falls to non-transmissible levels.
 
 </details>
 
@@ -15770,7 +15770,7 @@ Sensitivity of a screening test tells about
 
 <details><summary>Answer</summary>
 
-**A. Percentage of disease people among those with a positive test** — Source: Medicoholic 2016 PYQ compilation.
+**A. Percentage of disease people among those with a positive test** — **A. Percentage of disease people among those with a positive test** — Sensitivity = TP/(TP+FN); it measures the test's ability to correctly identify truly diseased individuals, i.e., proportion of actual disease cases that test positive.
 
 </details>
 
@@ -15788,7 +15788,7 @@ If effective treatment for a disease is introduced in a community, what will be 
 
 <details><summary>Answer</summary>
 
-**D. P will decrease & I will remains the same** — Source: Medicoholic 2016 PYQ compilation.
+**D. P will decrease & I will remains the same** — **D. P will decrease & I will remains the same** — Effective treatment shortens disease duration, reducing prevalence (P = I × D). Incidence depends on new exposures/transmission, which treatment alone does not alter, so incidence stays the same.
 
 </details>
 
@@ -15806,7 +15806,7 @@ A screening test has sensitivity of 90% and specificity of 99%. The prevalence o
 
 <details><summary>Answer</summary>
 
-**C. 33** — Source: Medicoholic 2016 PYQ compilation.
+**C. 33** — **C. 33** — PPV = (Sensitivity × Prevalence) / [(Sensitivity × Prevalence) + (1−Specificity)(1−Prevalence)]; with prevalence 5/1000, sensitivity 90%, specificity 99%: PPV ≈ (0.9×0.005)/[(0.9×0.005)+(0.01×0.995)] ≈ 33%.
 
 </details>
 
@@ -15824,7 +15824,7 @@ Best indicator for spread of TB in a community?
 
 <details><summary>Answer</summary>
 
-**A. Annual infection rate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Annual infection rate** — **A. Annual infection rate** — Annual Risk of Tuberculosis Infection (ARTI) measures the proportion of the population newly infected each year via tuberculin surveys; it best reflects ongoing transmission and is the standard WHO epidemiological indicator.
 
 </details>
 
@@ -15842,7 +15842,7 @@ For diagnosis of TB, Sputum microscopy has ?
 
 <details><summary>Answer</summary>
 
-**D. Low sensitivity & low specificity** — Source: Medicoholic 2016 PYQ compilation.
+**D. Low sensitivity & low specificity** — **D. Low sensitivity & low specificity** — Sputum ZN smear microscopy has low sensitivity (~45–80% in smear-positive TB) and low specificity (cannot distinguish MTB from NTM); culture or CBNAAT is needed for definitive diagnosis.
 
 </details>
 
@@ -15860,7 +15860,7 @@ Mammalian reservoir for R. prowazekii ?
 
 <details><summary>Answer</summary>
 
-**D. Humans** — Source: Medicoholic 2016 PYQ compilation.
+**D. Humans** — **D. Humans** — Rickettsia prowazekii (epidemic typhus) has humans as the only mammalian reservoir; the louse Pediculus humanus corporis is the vector, with no animal reservoir unlike other rickettsial diseases.
 
 </details>
 
@@ -15878,7 +15878,7 @@ Post-exposure prophylaxis is indicated in ?
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2016 PYQ compilation.
+**D. All** — **D. All** — PEP is indicated for HBV (HBIG + vaccine within 24 hours), rabies (HRIG + vaccine series within 72 hours), and diphtheria (erythromycin/benzathine penicillin for close contacts); all three have established PEP protocols.
 
 </details>
 
@@ -15896,7 +15896,7 @@ Healthy carrier is seen in?
 
 <details><summary>Answer</summary>
 
-**C. Meningococcal meningits** — Source: Medicoholic 2016 PYQ compilation.
+**C. Meningococcal meningits** — **C. Meningococcal meningitis** — Neisseria meningitidis colonizes the nasopharynx asymptomatically in ~10–20% of the population (healthy/contact carriers), whereas measles, rubella, and influenza do not produce true healthy carrier states.
 
 </details>
 
@@ -15914,7 +15914,7 @@ Diagnosis of filariasis is confirmed most commonly?
 
 <details><summary>Answer</summary>
 
-**B. Detection of microfilariae** — Source: Medicoholic 2016 PYQ compilation.
+**B. Detection of microfilariae** — **B. Detection of microfilariae** — Lymphatic filariasis (Wuchereria bancrofti) is confirmed by microscopic detection of microfilariae in nocturnal peripheral blood smear (10 pm–2 am), which is the WHO-recommended standard diagnostic method.
 
 </details>
 
@@ -15932,7 +15932,7 @@ Maximum spread of malaria occurs in which month?
 
 <details><summary>Answer</summary>
 
-**D. September - October** — Source: Medicoholic 2016 PYQ compilation.
+**D. September - October** — **D. September - October** — Post-monsoon (September–October) sees peak malaria transmission in India as stagnant water from rains provides optimal Anopheles breeding, and parasite development is complete after the warm monsoon period.
 
 </details>
 
@@ -15950,7 +15950,7 @@ Reconstituted measles vaccine should be used with in -
 
 <details><summary>Answer</summary>
 
-**A. 1 hour** — Source: Medicoholic 2016 PYQ compilation.
+**A. 1 hour** — **A. 1 hour** — Reconstituted measles vaccine (live attenuated) is heat-labile and must be used within 1 hour of reconstitution; beyond this, viral potency drops below the minimum infectious dose required for immunization, per NVBDCP/WHO cold chain guidelines.
 
 </details>
 
@@ -15968,7 +15968,7 @@ Major reservoir of KFD ?
 
 <details><summary>Answer</summary>
 
-**B. Squirrels** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squirrels** — **B. Squirrels** — Kyasanur Forest Disease (KFD) virus: hard ticks (Haemaphysalis spinigera) are the primary vector; small forest rodents especially porcupines and squirrels (three-striped palm squirrel) are the amplifying vertebrate reservoir.
 
 </details>
 
@@ -15986,7 +15986,7 @@ Threshold level of herd immunity for Pertussis is?
 
 <details><summary>Answer</summary>
 
-**C. 90%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 90%** — **C. 90%** — Pertussis has a high basic reproduction number (R₀ ≈ 12–17), requiring ≥90% population immunity to interrupt transmission; lower coverage levels leave susceptible pockets for outbreak potential, as seen in unvaccinated clusters.
 
 </details>
 
@@ -16004,7 +16004,7 @@ What is the commonest form of plague?
 
 <details><summary>Answer</summary>
 
-**A. Bubonic plague** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bubonic plague** — **A. Bubonic plague** — Bubonic plague accounts for ~80–90% of all plague cases; Yersinia pestis is inoculated via flea bite (Xenopsylla cheopis), spreads to regional lymph nodes causing characteristic buboes in inguinal/axillary regions.
 
 </details>
 
@@ -16022,7 +16022,7 @@ Prevalence of RHD in India in 5-15 years age group?
 
 <details><summary>Answer</summary>
 
-**B. 5-7 per 1000** — Source: Medicoholic 2016 PYQ compilation.
+**B. 5-7 per 1000** — **B. 5-7 per 1000** — Indian studies report RHD prevalence of 5–7 per 1000 children aged 5–15 years in school surveys; this is the standard NEET-PG cited figure for Jai Vigyan Mission and WHO rheumatic fever control targets.
 
 </details>
 
@@ -16040,7 +16040,7 @@ Jai Vigyan Mission mode project in India is for?
 
 <details><summary>Answer</summary>
 
-**C. Rheumatic fever** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rheumatic fever** — **C. Rheumatic fever** — Jai Vigyan Mission Mode Project on Rheumatic Fever/Rheumatic Heart Disease focuses on primary prevention (sore throat treatment), secondary prophylaxis with benzathine penicillin, and echocardiographic screening in India.
 
 </details>
 
@@ -16058,7 +16058,7 @@ Which does not have Live births as denominator?
 
 <details><summary>Answer</summary>
 
-**D. Child death rate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Child death rate** — **D. Child death rate** — Child death rate uses mid-year child population (1–4 years) as the denominator, not live births. IMR, NMR, and child mortality rate all use live births per 1000 as the denominator per WHO standard definitions.
 
 </details>
 
@@ -16076,7 +16076,7 @@ Dual record system is useful for estimation of?
 
 <details><summary>Answer</summary>
 
-**B. Fertility** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fertility** — **B. Fertility** — Dual Record System (DRS) cross-checks civil registration data against independent survey records to estimate birth and death completeness; it is primarily used to assess fertility (birth rates) and mortality registration accuracy in India.
 
 </details>
 
@@ -16094,7 +16094,7 @@ Perinatal mortality rate include which of the following?
 
 <details><summary>Answer</summary>
 
-**B. Still birth + early neonatal deaths** — Source: Medicoholic 2016 PYQ compilation.
+**B. Still birth + early neonatal deaths** — **B. Still birth + early neonatal deaths** — Perinatal mortality = stillbirths (≥28 weeks gestation) + early neonatal deaths (0–7 days), expressed per 1000 total births; it reflects obstetric and immediate neonatal care quality.
 
 </details>
 
@@ -16112,7 +16112,7 @@ Poor man's iron source is?
 
 <details><summary>Answer</summary>
 
-**D. Jaggery** — Source: Medicoholic 2016 PYQ compilation.
+**D. Jaggery** — **D. Jaggery** — Jaggery (gur) contains 10–13 mg iron per 100 g and is the cheapest widely available iron source in India; termed 'poor man's iron' because it is affordable and consumed across all socioeconomic groups, especially rural populations.
 
 </details>
 
@@ -16130,7 +16130,7 @@ For every 100 kilocalories, vitamin B, required is -
 
 <details><summary>Answer</summary>
 
-**A. 0.05 mg** — Source: Medicoholic 2016 PYQ compilation.
+**A. 0.05 mg** — **A. 0.05 mg** — Thiamine (Vitamin B₁) requirement is 0.5 mg/1000 kcal = 0.05 mg per 100 kcal; ICMR recommends this ratio to prevent beriberi; higher carbohydrate intake increases thiamine requirement proportionally.
 
 </details>
 
@@ -16148,7 +16148,7 @@ Gomez classification is based on ?
 
 <details><summary>Answer</summary>
 
-**A. Weight retardation** — Source: Medicoholic 2016 PYQ compilation.
+**A. Weight retardation** — **A. Weight retardation** — Gomez classification (1956) grades protein-energy malnutrition by percentage of expected weight-for-age: Grade I (75–90%), Grade II (60–75%), Grade III (<60%); purely weight-based, does not assess height or wasting.
 
 </details>
 
@@ -16166,7 +16166,7 @@ Kanawati index is used for ?
 
 <details><summary>Answer</summary>
 
-**B. PEM** — Source: Medicoholic 2016 PYQ compilation.
+**B. PEM** — **B. PEM** — Kanawati index = mid-arm circumference (cm) / head circumference (cm); values <0.28 indicate severe PEM; it is a simple field tool to identify protein-energy malnutrition in children under 5 without weighing equipment.
 
 </details>
 
@@ -16184,7 +16184,7 @@ Human milk with respect to cow milk has -
 
 <details><summary>Answer</summary>
 
-**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and b** — **D. a and b** — Human breast milk contains less total protein (0.9 vs 3.4 g/100 ml) and less fat than cow milk; however, human milk has more lactose (carbohydrate) and contains IgA, lactoferrin, lysozyme not present in cow milk.
 
 </details>
 
@@ -16202,7 +16202,7 @@ Most common nutritional problem in India?
 
 <details><summary>Answer</summary>
 
-**C. Iran deficiency anemia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Iran deficiency anemia** — **C. Iron deficiency anemia** — IDA is the most prevalent nutritional deficiency in India, affecting ~50% of children and ~58% of pregnant women per NFHS-5; National Nutritional Anaemia Prophylaxis Programme targets this with weekly iron-folic acid supplementation.
 
 </details>
 
@@ -16220,7 +16220,7 @@ Not a primary air pollutant?
 
 <details><summary>Answer</summary>
 
-**C. Ozon** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ozon** — **C. Ozone** — Ozone (O₃) is a secondary air pollutant formed by photochemical reactions between primary pollutants (NOx, VOCs) and sunlight; SO₂, CO, and VOCs are directly emitted from combustion sources as primary pollutants.
 
 </details>
 
@@ -16238,7 +16238,7 @@ Number of holes in mosquito net [per sq. inch] ?
 
 <details><summary>Answer</summary>
 
-**B. 150** — Source: Medicoholic 2016 PYQ compilation.
+**B. 150** — **B. 150** — Standard mosquito nets should have 150 holes per square inch (approximately 1.2 mm mesh size); this prevents Anopheles entry while allowing adequate air circulation; finer meshes impair ventilation in tropical settings.
 
 </details>
 
@@ -16256,7 +16256,7 @@ In malaria control, insecticide used for insectiside treated bed nets (ITBN)-
 
 <details><summary>Answer</summary>
 
-**A. Deltamethrin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Deltamethrin** — **A. Deltamethrin** — Deltamethrin (pyrethroid) is the WHO-recommended insecticide for insecticide-treated bed nets (ITBNs/LLINs) in NVBDCP India's malaria control; it is safe for skin contact, has low mammalian toxicity, and retains efficacy after multiple washes.
 
 </details>
 
@@ -16274,7 +16274,7 @@ Test for coliform count ?
 
 <details><summary>Answer</summary>
 
-**A. Eijkman test** — Source: Medicoholic 2016 PYQ compilation.
+**A. Eijkman test** — **A. Eijkman test** — Eijkman test (incubation at 44°C in lactose broth with gas production) confirms thermotolerant fecal coliforms (E. coli) in water; it differentiates fecal from non-fecal coliforms as the standard confirmatory water quality test.
 
 </details>
 
@@ -17537,7 +17537,7 @@ Caudate lobe of the liver - True is?
 
 <details><summary>Answer</summary>
 
-**A. It receives blood supply from both right and left hepatic arteries** — Source: Medicoholic 2016 PYQ compilation.
+**A. It receives blood supply from both right and left hepatic arteries** — **A. It receives blood supply from both right and left hepatic arteries** — The caudate lobe (Segment I) is unique in receiving dual hepatic arterial supply from both right and left branches and drains independently into the IVC via short hepatic veins.
 
 </details>
 
@@ -17555,7 +17555,7 @@ Superior border of epiploic foramen formed by -
 
 <details><summary>Answer</summary>
 
-**A. Caudate lobe** — Source: Medicoholic 2016 PYQ compilation.
+**A. Caudate lobe** — **A. Caudate lobe** — The epiploic foramen of Winslow (opening to lesser sac) has the caudate lobe of the liver as its superior boundary, hepatoduodenal ligament anteriorly, IVC posteriorly, and duodenum inferiorly.
 
 </details>
 
@@ -17573,7 +17573,7 @@ Posterior perforation of stomach, collection of contents occurs in which pouch ?
 
 <details><summary>Answer</summary>
 
-**C. Omental bursa** — Source: Medicoholic 2016 PYQ compilation.
+**C. Omental bursa** — **C. Omental bursa** — The posterior wall of the stomach is directly related to the lesser sac (omental bursa); perforation of a posterior gastric ulcer releases contents into this compartment, potentially causing lesser sac abscess.
 
 </details>
 
@@ -17591,7 +17591,7 @@ Glucose transporter affected in diabetes mellitus?
 
 <details><summary>Answer</summary>
 
-**C. GLUT-4** — Source: Medicoholic 2016 PYQ compilation.
+**C. GLUT-4** — **C. GLUT-4** — GLUT-4 is the insulin-sensitive glucose transporter in muscle and adipose tissue; in type 2 diabetes, insulin resistance impairs GLUT-4 translocation to the cell surface, reducing glucose uptake.
 
 </details>
 
@@ -17609,7 +17609,7 @@ Which of the following is true about properties of VLDL/LDL-
 
 <details><summary>Answer</summary>
 
-**B. LDL is formed from liver** — Source: Medicoholic 2016 PYQ compilation.
+**B. LDL is formed from liver** — **B. LDL is formed from liver** — LDL is formed from VLDL after triglyceride removal by lipoprotein lipase (via IDL); however, the liver is the primary source as it synthesises VLDL which is the LDL precursor.
 
 </details>
 
@@ -17627,7 +17627,7 @@ Anti Jo-1 antibodies are a feature associated with?
 
 <details><summary>Answer</summary>
 
-**C. Polymyositis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Polymyositis** — **C. Polymyositis** — Anti-Jo-1 (anti-histidyl tRNA synthetase) antibodies are the most common antisynthetase antibodies in inflammatory myopathies, found in ~25% of polymyositis/dermatomyositis cases and associated with interstitial lung disease.
 
 </details>
 
@@ -17645,7 +17645,7 @@ HLA marker associated with diabetes mellitus type 1 is -
 
 <details><summary>Answer</summary>
 
-**B. DR 4** — Source: Medicoholic 2016 PYQ compilation.
+**B. DR 4** — **B. DR 4** — HLA-DR3 and HLA-DR4 are strongly associated with Type 1 DM; DR4 confers highest risk by presenting islet cell autoantigens to T-cells, triggering autoimmune beta-cell destruction.
 
 </details>
 
@@ -17663,7 +17663,7 @@ Characteristic histopathological feature of rheumatic heart failure is -
 
 <details><summary>Answer</summary>
 
-**A. Aschoff's nodule** — Source: Medicoholic 2016 PYQ compilation.
+**A. Aschoff's nodule** — **A. Aschoff's nodule** — Pathognomonic granuloma of rheumatic fever consisting of central fibrinoid necrosis surrounded by Aschoff giant cells and Anitschkow myocytes, found in myocardial interstitium.
 
 </details>
 
@@ -17681,7 +17681,7 @@ Most frequent time period between myocardial infarction and subsequent myocardia
 
 <details><summary>Answer</summary>
 
-**A. 3-4 days** — Source: Medicoholic 2016 PYQ compilation.
+**A. 3-4 days** — **A. 3-4 days** — Myocardial free wall rupture peaks at 3–5 days post-MI when coagulative necrosis weakens the wall maximally before fibrotic repair is established.
 
 </details>
 
@@ -17699,7 +17699,7 @@ Gamma gandy bodies are seen in all except ?
 
 <details><summary>Answer</summary>
 
-**D. Thalassemia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Thalassemia** — **D. Thalassemia** — Gamma-Gandy bodies (hemosiderin-laden foci of old hemorrhage) are seen in congestive splenomegaly states like cirrhosis, CML, and sickle cell disease, but not typically in thalassemia.
 
 </details>
 
@@ -17717,7 +17717,7 @@ Terminal stage of pneumonia is
 
 <details><summary>Answer</summary>
 
-**D. Resolution** — Source: Medicoholic 2016 PYQ compilation.
+**D. Resolution** — **D. Resolution** — Lobar pneumonia progresses through congestion → red hepatization → grey hepatization → resolution; resolution (enzymatic lysis and macrophage clearance) is the final and normal outcome.
 
 </details>
 
@@ -17735,7 +17735,7 @@ Pink puffers are associated with?
 
 <details><summary>Answer</summary>
 
-**A. Emphysema** — Source: Medicoholic 2016 PYQ compilation.
+**A. Emphysema** — **A. Emphysema** — Pink puffers (tachypneic, non-cyanotic, barrel-chested) have pure emphysema with loss of alveolar walls, maintained oxygenation via increased work of breathing, contrasting with blue bloaters of chronic bronchitis.
 
 </details>
 
@@ -17753,7 +17753,7 @@ The zonal necrosis most commonly affected in chronic passive hepatic congestion 
 
 <details><summary>Answer</summary>
 
-**A. Central** — Source: Medicoholic 2016 PYQ compilation.
+**A. Central** — **A. Central** — Centrilobular (zone 3) necrosis occurs in chronic passive hepatic congestion because zone 3 hepatocytes are farthest from the portal triad and most vulnerable to hypoxia from venous congestion.
 
 </details>
 
@@ -17771,7 +17771,7 @@ Contraindication for the triptans is which of the following?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Triptans are 5-HT1B/1D agonists causing vasoconstriction; contraindicated in ischemic heart disease (vasospasm risk), epilepsy (lowered seizure threshold), and hepatic failure (impaired metabolism).
 
 </details>
 
@@ -17789,7 +17789,7 @@ All of the following are uses of octreotide except :?
 
 <details><summary>Answer</summary>
 
-**C. Hepatic encephalopathy** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hepatic encephalopathy** — **C. Hepatic encephalopathy** — Octreotide (somatostatin analogue) treats secretory diarrhea, acromegaly, and bleeding varices by reducing portal pressure; it has no established role in hepatic encephalopathy management.
 
 </details>
 
@@ -17807,7 +17807,7 @@ Temazepam is superior to diazepam in ?
 
 <details><summary>Answer</summary>
 
-**C. No active metabolite required.** — Source: Medicoholic 2016 PYQ compilation.
+**C. No active metabolite required.** — **C. No active metabolite required** — Temazepam undergoes direct glucuronide conjugation without forming active metabolites (unlike diazepam → desmethyldiazepam), making it safer in elderly and hepatic impairment.
 
 </details>
 
@@ -17825,7 +17825,7 @@ True about anti - Parkinson drug levodopa is :?
 
 <details><summary>Answer</summary>
 
-**C. About 2% of the administered levodopa crosses blood brain** — Source: Medicoholic 2016 PYQ compilation.
+**C. About 2% of the administered levodopa crosses blood brain** — **C. About 2% of the administered levodopa crosses blood brain** — Only ~1–3% of oral levodopa reaches the brain (crosses BBB via large neutral amino acid transporter); the rest is peripherally decarboxylated to dopamine, hence carbidopa is co-administered.
 
 </details>
 
@@ -17843,7 +17843,7 @@ Antiboiotic of choice for severe pneumonia in 1 year all child?
 
 <details><summary>Answer</summary>
 
-**C. Benzyl penicillin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Benzyl penicillin** — **C. Benzyl penicillin** — WHO guidelines recommend IV benzyl penicillin (ampicillin) as first-line for severe pneumonia in children under 5 years, covering the most common pathogen Streptococcus pneumoniae.
 
 </details>
 
@@ -17861,7 +17861,7 @@ Phacodonesis is seen in all except
 
 <details><summary>Answer</summary>
 
-**D. Diabetes mellitus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Diabetes mellitus** — **D. Diabetes mellitus** — Phacodonesis (lens trembling due to weak zonules) occurs with trauma, hypermature cataract (liquefied cortex weakens zonules), and pseudoexfoliation; diabetes does not weaken zonular fibers.
 
 </details>
 
@@ -17879,7 +17879,7 @@ Enophthalmos is seen in ?
 
 <details><summary>Answer</summary>
 
-**A. Blow out fracture of orbit wall** — Source: Medicoholic 2016 PYQ compilation.
+**A. Blow out fracture of orbit wall** — **A. Blow out fracture of orbit wall** — Blowout fracture of the orbital floor allows herniation of orbital fat and inferior rectus into the maxillary sinus, reducing orbital volume and causing posterior displacement (enophthalmos) of the globe.
 
 </details>
 
@@ -17897,7 +17897,7 @@ Reciprocal changes in ECG in patients with inferior wall myocardial infarction a
 
 <details><summary>Answer</summary>
 
-**A. I** — Source: Medicoholic 2016 PYQ compilation.
+**A. I** — **A. I** — Inferior wall MI (ST elevation in II, III, aVF) produces reciprocal ST depression in leads I and aVL, which face the opposite wall and record mirror-image electrical changes.
 
 </details>
 
@@ -17915,7 +17915,7 @@ All are features of aortic stenosis except
 
 <details><summary>Answer</summary>
 
-**D. Pressure in the aorta is the same as in left ventricle** — Source: Medicoholic 2016 PYQ compilation.
+**D. Pressure in the aorta is the same as in left ventricle** — **D. Pressure in the aorta is the same as in left ventricle** — In aortic stenosis there is a pressure gradient across the stenotic valve; LV pressure is significantly higher than aortic pressure — they are never equal.
 
 </details>
 
@@ -17933,7 +17933,7 @@ Pharmacological stress during stress myocardial radionucleotide perfusion imagin
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Dipyridamole and adenosine cause coronary vasodilation (revealing flow heterogeneity), while dobutamine increases heart rate and contractility; all three are validated pharmacological stressors for nuclear perfusion imaging.
 
 </details>
 
@@ -17951,7 +17951,7 @@ Tool/s which objectively asses the risk of adverse outcomes in a patient with pn
 
 <details><summary>Answer</summary>
 
-**D. Glasgow scale** — Source: Medicoholic 2016 PYQ compilation.
+**D. Glasgow scale** — **D. Glasgow scale** — PSI, CURB-65, and APACHE II are validated pneumonia severity scoring tools; the Glasgow Coma Scale assesses neurological status/consciousness and is not a pneumonia-specific severity index.
 
 </details>
 
@@ -17969,7 +17969,7 @@ In ICU setting patients suffering from which respiratory pathology are at risk o
 
 <details><summary>Answer</summary>
 
-**C. Emphysema** — Source: Medicoholic 2016 PYQ compilation.
+**C. Emphysema** — **C. Emphysema** — COPD/emphysema patients with chronic CO2 retention depend on hypoxic drive for ventilation; supplemental O2 in ICU can abolish this drive, causing hypoventilation and CO2 narcosis.
 
 </details>
 
@@ -17987,7 +17987,7 @@ Inspiratory squeaks are the physical examination finding of
 
 <details><summary>Answer</summary>
 
-**A. Bronchiolitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bronchiolitis** — **A. Bronchiolitis** — Inspiratory squeaks are high-pitched squeaking sounds heard over the lung bases in bronchiolitis and obliterative bronchiolitis, caused by air moving through partially obstructed, inflamed small airways.
 
 </details>
 
@@ -18005,7 +18005,7 @@ A patient presents with blunt trauma to abdomen. On investigations patient is fo
 
 <details><summary>Answer</summary>
 
-**C. Grade III** — Source: Medicoholic 2016 PYQ compilation.
+**C. Grade III** — **C. Grade III** — AAST Grade III hepatic injury involves laceration >3 cm parenchymal depth or >10 cm length, or >3 cm subcapsular hematoma, generally managed non-operatively in hemodynamically stable patients.
 
 </details>
 
@@ -18023,7 +18023,7 @@ Specific antibody associated with primary biliary cirrhosis is:
 
 <details><summary>Answer</summary>
 
-**C. Anti-mitochondrial** — Source: Medicoholic 2016 PYQ compilation.
+**C. Anti-mitochondrial** — **C. Anti-mitochondrial** — Anti-mitochondrial antibodies (AMA), especially anti-M2 (against pyruvate dehydrogenase complex), are present in >95% of primary biliary cholangitis cases and are virtually diagnostic.
 
 </details>
 
@@ -18041,7 +18041,7 @@ Which of the following is not a cause of secondary Idiopathic thrombocytopenic p
 
 <details><summary>Answer</summary>
 
-**C. Rheumatoid arthritis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rheumatoid arthritis** — **C. Rheumatoid arthritis** — Secondary ITP is associated with SLE, HIV, and hepatitis C infection; rheumatoid arthritis is not a recognized cause of secondary immune thrombocytopenic purpura.
 
 </details>
 
@@ -18059,7 +18059,7 @@ HbA1C criteria for a patient to be diagnosed with diabetes mellitus is
 
 <details><summary>Answer</summary>
 
-**C. >6.5%** — Source: Medicoholic 2016 PYQ compilation.
+**C. >6.5%** — **C. >6.5%** — ADA/WHO diagnostic criteria: HbA1c ≥6.5% on two occasions confirms diabetes mellitus; HbA1c 5.7–6.4% indicates prediabetes (impaired glucose regulation).
 
 </details>
 
@@ -18077,7 +18077,7 @@ Extrahepatic Manifestations of Hepatitis C include all of the following Except:
 
 <details><summary>Answer</summary>
 
-**B. Celiac Disease** — Source: Medicoholic 2016 PYQ compilation.
+**B. Celiac Disease** — **B. Celiac Disease** — Hepatitis C extrahepatic manifestations include cryoglobulinemia, glomerulonephritis, lichen planus, porphyria cutanea tarda, and lymphoma; celiac disease is associated with hepatitis A/autoimmune hepatitis, not HCV.
 
 </details>
 
@@ -18095,7 +18095,7 @@ Following is not true about epinephrine
 
 <details><summary>Answer</summary>
 
-**D. Routine use of high dose epinephrine during resuscitation is** — Source: Medicoholic 2016 PYQ compilation.
+**D. Routine use of high dose epinephrine during resuscitation is** — **D. Routine use of high dose epinephrine during resuscitation is** — High-dose epinephrine (>1 mg) during CPR has not been shown to improve survival to discharge and may worsen neurological outcomes; standard dose (1 mg) is recommended.
 
 </details>
 
@@ -18113,7 +18113,7 @@ Percentage of renal stones that are radio-opaque
 
 <details><summary>Answer</summary>
 
-**D. 80** — Source: Medicoholic 2016 PYQ compilation.
+**D. 80** — **D. 80** — Approximately 80% of renal calculi are radio-opaque on plain X-ray; calcium oxalate and calcium phosphate stones are most common and opaque; uric acid and cystine stones are radiolucent.
 
 </details>
 
@@ -18131,7 +18131,7 @@ Indications of thoracotomy in blunt chest trauma include all except
 
 <details><summary>Answer</summary>
 
-**A. Initial drainage of > 500 ml of fresh blood** — Source: Medicoholic 2016 PYQ compilation.
+**A. Initial drainage of > 500 ml of fresh blood** — **A. Initial drainage of > 500 ml of fresh blood** — The threshold for emergency thoracotomy after chest drain insertion is initial output >1500 ml (not 500 ml) of blood; 500 ml alone does not mandate thoracotomy.
 
 </details>
 
@@ -18149,7 +18149,7 @@ Embolisation of tumors is done using
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Tumor embolization uses polyvinyl alcohol particles (permanent embolic agent), autologous blood clots (temporary), and absolute ethanol (chemical ablation/sclerosis); all are employed depending on vessel size and clinical goal.
 
 </details>
 
@@ -18185,7 +18185,7 @@ Intracranial pressure is not raised during
 
 <details><summary>Answer</summary>
 
-**A. Hyperventilation** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hyperventilation** — **A. Hyperventilation** — Hyperventilation causes hypocapnia-induced cerebral vasoconstriction, reducing cerebral blood volume and lowering ICP; it is a temporary measure used to treat raised ICP in acute herniation.
 
 </details>
 
@@ -18203,7 +18203,7 @@ Immediate physiological response to sudden decrease in blood volume is
 
 <details><summary>Answer</summary>
 
-**A. Release of epinephrine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Release of epinephrine** — **A. Release of epinephrine** — Baroreceptor unloading following acute blood volume loss immediately triggers sympathoadrenal activation with epinephrine release, causing tachycardia and vasoconstriction to maintain perfusion pressure.
 
 </details>
 
@@ -18221,7 +18221,7 @@ All of the following are indications for bariatric surgery except -
 
 <details><summary>Answer</summary>
 
-**C. BMI>30 with long standing diabetes** — Source: Medicoholic 2016 PYQ compilation.
+**C. BMI>30 with long standing diabetes** — **C. BMI>30 with long standing diabetes** — Standard bariatric surgery criteria require BMI ≥40 or BMI ≥35 with comorbidities; BMI >30 alone (even with diabetes) does not meet accepted international criteria unless under specific metabolic surgery protocols.
 
 </details>
 
@@ -18239,7 +18239,7 @@ Slip sign is seen in
 
 <details><summary>Answer</summary>
 
-**A. Lipoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Lipoma** — **A. Lipoma** — Slip sign (Farabeuf sign): a lipoma slips away from under the examining finger when pressure is applied at its edge, because the soft encapsulated fat slides easily in the subcutaneous plane.
 
 </details>
 
@@ -18257,7 +18257,7 @@ For reimplantation digits are stored in
 
 <details><summary>Answer</summary>
 
-**D. Plastic bags with ice** — Source: Medicoholic 2016 PYQ compilation.
+**D. Plastic bags with ice** — **D. Plastic bags with ice** — Amputated digits should be wrapped in moist gauze, placed in a sealed plastic bag, then kept in iced water (4°C); direct contact with ice or freezing damages tissue and makes reimplantation impossible.
 
 </details>
 
@@ -18275,7 +18275,7 @@ Which of the following suture has max tensile strength and minimum tissue reacti
 
 <details><summary>Answer</summary>
 
-**B. Polypropylene** — Source: Medicoholic 2016 PYQ compilation.
+**B. Polypropylene** — **B. Polypropylene** — Polypropylene (Prolene) is a non-absorbable monofilament suture with the highest tensile strength among listed options, minimal tissue reactivity, and no degradation — ideal for vascular anastomoses.
 
 </details>
 
@@ -18293,7 +18293,7 @@ Which of the following histological type of breast carcinoma worst prognosis?
 
 <details><summary>Answer</summary>
 
-**D. Scirrhous** — Source: Medicoholic 2016 PYQ compilation.
+**D. Scirrhous** — **D. Scirrhous** — Scirrhous (invasive ductal, NOS with dense fibrous stroma) carcinoma has the worst prognosis among special types; tubular, colloid, and papillary carcinomas are special types with favorable prognosis.
 
 </details>
 
@@ -18311,7 +18311,7 @@ Best prognosis for carcinoma breast is seen with which of the following?
 
 <details><summary>Answer</summary>
 
-**A. <1cm size, nodes -ye , ER/ PR +ve, her 2/ neu -ye** — Source: Medicoholic 2016 PYQ compilation.
+**A. <1cm size, nodes -ye , ER/ PR +ve, her 2/ neu -ye** — **A. <1cm size, nodes -ye , ER/ PR +ve, her 2/ neu -ye** — Smallest tumor (<1 cm), node-negative, hormone receptor-positive, and HER2-negative is the most favorable combination with >95% 5-year survival.
 
 </details>
 
@@ -18329,7 +18329,7 @@ Favorable prognosis with > 90% 5 year survival rate for carcinoma breast is seen
 
 <details><summary>Answer</summary>
 
-**A. Screen detected ductal carcinoma in situ** — Source: Medicoholic 2016 PYQ compilation.
+**A. Screen detected ductal carcinoma in situ** — **A. Screen detected ductal carcinoma in situ** — DCIS detected on screening mammography is pre-invasive and has >98% 5-year survival with appropriate local treatment; it has the best prognosis among breast malignancies.
 
 </details>
 
@@ -18347,7 +18347,7 @@ A female undergone surgery for left breast cancer 3 yrs back now developed blue 
 
 <details><summary>Answer</summary>
 
-**A. Lymphangiosarcoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Lymphangiosarcoma** — **A. Lymphangiosarcoma** — Post-mastectomy chronic lymphedema predisposes to Stewart-Treves syndrome (angiosarcoma/lymphangiosarcoma); a blue-purple nodule appearing in a lymphedematous arm years after mastectomy is pathognomonic.
 
 </details>
 
@@ -18365,7 +18365,7 @@ What percentage of reduction in dying from breast cancer can be achieved with an
 
 <details><summary>Answer</summary>
 
-**C. 25- 30 %** — Source: Medicoholic 2016 PYQ compilation.
+**C. 25- 30 %** — **C. 25- 30 %** — Annual mammography screening after age 50 reduces breast cancer mortality by approximately 25–30% through early detection of non-palpable lesions at a more treatable stage.
 
 </details>
 
@@ -18383,7 +18383,7 @@ Which of the following is not true about Pateys mastectomy
 
 <details><summary>Answer</summary>
 
-**B. Intercosto brachial nerves are usually preserved** — Source: Medicoholic 2016 PYQ compilation.
+**B. Intercosto brachial nerves are usually preserved** — **B. Intercosto brachial nerves are usually preserved** — In Patey's modified radical mastectomy, the intercostobrachial nerve (T2) is routinely sacrificed, causing numbness of the medial upper arm; pectoralis minor is removed, pectoralis major preserved.
 
 </details>
 
@@ -18401,7 +18401,7 @@ Parathyroid adenomas account for how much percentage of patients with primary hy
 
 <details><summary>Answer</summary>
 
-**D. 80%** — Source: Medicoholic 2016 PYQ compilation.
+**D. 80%** — **D. 80%** — Single parathyroid adenoma is the cause of primary hyperparathyroidism in ~80–85% of cases; multiglandular hyperplasia accounts for ~15%, and carcinoma for <1%.
 
 </details>
 
@@ -18419,7 +18419,7 @@ MC site for thyroglossal cyst is:
 
 <details><summary>Answer</summary>
 
-**D. Subhyoid** — Source: Medicoholic 2016 PYQ compilation.
+**D. Subhyoid** — **D. Subhyoid** — The thyroglossal duct descends through the hyoid bone; the most common site for thyroglossal cyst is the subhyoid region (infrahyoid/anterior neck), accounting for ~60–65% of cases.
 
 </details>
 
@@ -18437,7 +18437,7 @@ Investigation of choice for hepatic metastasis form stomach cancer is
 
 <details><summary>Answer</summary>
 
-**B. CECT** — Source: Medicoholic 2016 PYQ compilation.
+**B. CECT** — **B. CECT** — Contrast-enhanced CT abdomen is the investigation of choice for staging and detecting hepatic metastases from gastric cancer, offering excellent characterization, vascular involvement, and surgical planning information.
 
 </details>
 
@@ -18455,7 +18455,7 @@ Prognosis of surgery for liver secondaries is best for which cancer?
 
 <details><summary>Answer</summary>
 
-**C. Genitourinary** — Source: Medicoholic 2016 PYQ compilation.
+**C. Genitourinary** — **C. Genitourinary** — Surgical resection of liver metastases from genitourinary (especially renal cell) cancers yields the best long-term survival compared to colorectal, esophageal, and other primary sites due to favorable tumor biology.
 
 </details>
 
@@ -18473,7 +18473,7 @@ Milan criteria is for
 
 <details><summary>Answer</summary>
 
-**A. Selecting patients for Liver transplantation** — Source: Medicoholic 2016 PYQ compilation.
+**A. Selecting patients for Liver transplantation** — **A. Selecting patients for Liver transplantation** — Milan criteria (single HCC ≤5 cm or ≤3 nodules each ≤3 cm, no vascular invasion/extrahepatic spread) define acceptable tumor burden for liver transplantation in hepatocellular carcinoma.
 
 </details>
 
@@ -18491,7 +18491,7 @@ The Gall stone pain is referred to the shoulder through which of the following n
 
 <details><summary>Answer</summary>
 
-**D. C3-05** — Source: Medicoholic 2016 PYQ compilation.
+**D. C3-05** — **D. C3-C5** — Gallstone-induced diaphragmatic irritation refers pain to the right shoulder via phrenic nerve (C3-C5 roots); shared dermatomal representation explains referred shoulder tip pain in biliary colic.
 
 </details>
 
@@ -18509,7 +18509,7 @@ The Gall stone pain is referred to the shoulder through which of the following n
 
 <details><summary>Answer</summary>
 
-**A. Transduodenal approach** — Source: Medicoholic 2016 PYQ compilation.
+**A. Transduodenal approach** — **A. Transduodenal approach** — A large stone near the ampulla of Vater is best approached transduodenally (sphincterotomy/sphincteroplasty), allowing direct access and stone extraction without damaging the common bile duct.
 
 </details>
 
@@ -18527,7 +18527,7 @@ How much percentage of the blunt trauma injuries to spleen in adults are current
 
 <details><summary>Answer</summary>
 
-**C. 80%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 80%** — **C. 80%** — With improved CT grading (AAST) and angioembolization, approximately 80% of blunt splenic injuries in hemodynamically stable adults are now successfully managed non-operatively, preserving immunological function.
 
 </details>
 
@@ -18545,7 +18545,7 @@ Following is not true about traction diverticulum of esophagus -
 
 <details><summary>Answer</summary>
 
-**B. It is not a true diverticulum** — Source: Medicoholic 2016 PYQ compilation.
+**B. It is not a true diverticulum** — **B. It is not a true diverticulum** — Traction diverticulum IS a true diverticulum (all wall layers involved) caused by external traction from mediastinal lymphadenopathy (e.g., TB); pulsion diverticula (like Zenker's) are false diverticula.
 
 </details>
 
@@ -18563,7 +18563,7 @@ Which of the following is false about zenkers diverticulum
 
 <details><summary>Answer</summary>
 
-**D. Cervical webs can be associated with zenkers diverticulum in** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cervical webs can be associated with zenkers diverticulum in** — **D. Cervical webs can be associated with zenkers diverticulum** — Cervical esophageal webs are associated with Plummer-Vinson syndrome, not Zenker's diverticulum; Zenker's arises from Killian's dehiscence and is unrelated to webs.
 
 </details>
 
@@ -18581,7 +18581,7 @@ Dohlman procedure for-
 
 <details><summary>Answer</summary>
 
-**B. Zenker’s diverticulum** — Source: Medicoholic 2016 PYQ compilation.
+**B. Zenker’s diverticulum** — **B. Zenker's diverticulum** — Dohlman procedure is endoscopic division of the cricopharyngeal bar (party wall) between the Zenker's diverticulum and esophagus using rigid endoscope and diathermy or stapler, providing symptom relief without open surgery.
 
 </details>
 
@@ -18599,7 +18599,7 @@ True about esophageal carcinoma is
 
 <details><summary>Answer</summary>
 
-**A. More lethal than the colorectal cancers** — Source: Medicoholic 2016 PYQ compilation.
+**A. More lethal than the colorectal cancers** — **A. More lethal than the colorectal cancers** — Esophageal cancer has an overall 5-year survival of <20% vs. ~65% for colorectal cancer; late presentation (dysphagia occurs at >60% luminal occlusion) and lack of effective early screening account for its high lethality.
 
 </details>
 
@@ -18617,7 +18617,7 @@ Downhill esophagus varices develop as
 
 <details><summary>Answer</summary>
 
-**C. Superior vena cava** — Source: Medicoholic 2016 PYQ compilation.
+**C. Superior vena cava** — **C. Superior vena cava** — Downhill esophageal varices develop in the upper esophagus due to SVC obstruction, causing collateral flow downward through esophageal veins into the azygos system to bypass the SVC blockage.
 
 </details>
 
@@ -18635,7 +18635,7 @@ Most common impacted foreign body in esophagus in children is
 
 <details><summary>Answer</summary>
 
-**A. Coin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Coin** — **A. Coin** — Coins are the most common impacted esophageal foreign body in children, typically lodging at the cricopharyngeus (C6), aortic arch, or lower esophageal sphincter; AP X-ray shows coin face-on (vs. trachea — edge-on).
 
 </details>
 
@@ -18653,7 +18653,7 @@ Single drug regimen for carcinoma esophagus which shows significant decrease in 
 
 <details><summary>Answer</summary>
 
-**A. Cisplatin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cisplatin** — **A. Cisplatin** — Cisplatin as single-agent chemotherapy for esophageal carcinoma produces objective tumor response (>15–20% size reduction) in 15–20% of patients; it remains the backbone of combination regimens with 5-FU.
 
 </details>
 
@@ -18671,7 +18671,7 @@ Most common type of Hiatal hernia is
 
 <details><summary>Answer</summary>
 
-**A. Sliding** — Source: Medicoholic 2016 PYQ compilation.
+**A. Sliding** — **A. Sliding** — Type I (sliding) hiatal hernia accounts for ~95% of all hiatal hernias; the gastroesophageal junction slides through the hiatus into the thorax, predisposing to GERD due to LES displacement above the diaphragm.
 
 </details>
 
@@ -18689,7 +18689,7 @@ Which of the following tumors most commonly presents with upper gastrointestinal
 
 <details><summary>Answer</summary>
 
-**A. Primary gastric cancer** — Source: Medicoholic 2016 PYQ compilation.
+**A. Primary gastric cancer** — **A. Primary gastric cancer** — Gastric adenocarcinoma most commonly causes upper GI bleeding (hematemesis/melena) from tumor ulceration; it is the most frequent malignant cause of upper GI hemorrhage.
 
 </details>
 
@@ -18707,7 +18707,7 @@ Which of the following is true about gastric ulcer but not the duodenal ulcer?
 
 <details><summary>Answer</summary>
 
-**A. Pain rarely occurs at night** — Source: Medicoholic 2016 PYQ compilation.
+**A. Pain rarely occurs at night** — **A. Pain rarely occurs at night** — Gastric ulcer pain characteristically occurs 30–60 minutes after meals (food aggravates) and rarely at night; duodenal ulcer pain classically wakes patients at night (2–3 AM) and is relieved by food.
 
 </details>
 
@@ -18725,7 +18725,7 @@ The most commonly practiced operative procedure for a perforated duodenal ulcer 
 
 <details><summary>Answer</summary>
 
-**D. Graham's omentum patch repair** — Source: Medicoholic 2016 PYQ compilation.
+**D. Graham's omentum patch repair** — **D. Graham's omentum patch repair** — Emergency treatment of choice for perforated duodenal ulcer; omental patch plugs perforation without altering gastric physiology, low operative time, suitable even in unstable patients.
 
 </details>
 
@@ -18743,7 +18743,7 @@ Not true about highly selective vagotomy -
 
 <details><summary>Answer</summary>
 
-**B. Nerves of Latarjet are sacrifised** — Source: Medicoholic 2016 PYQ compilation.
+**B. Nerves of Latarjet are sacrifised** — **B. Nerves of Latarjet are sacrifised** — In highly selective (parietal cell) vagotomy, Nerves of Latarjet are preserved to maintain antral motility and pyloric function; only fundic branches are divided.
 
 </details>
 
@@ -18761,7 +18761,7 @@ The features of crohns disease are all except ?
 
 <details><summary>Answer</summary>
 
-**A. Lymphoid hyperplasia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Lymphoid hyperplasia** — **A. Lymphoid hyperplasia** — Lymphoid hyperplasia is characteristic of terminal ileum in infections/appendicitis; Crohn's hallmark is transmural granulomatous inflammation, not lymphoid follicular hyperplasia.
 
 </details>
 
@@ -18779,7 +18779,7 @@ Colonoscopy is are not indicated in -
 
 <details><summary>Answer</summary>
 
-**A. MEN 2B** — Source: Medicoholic 2016 PYQ compilation.
+**A. MEN 2B** — **A. MEN 2B** — MEN 2B (RET mutation) presents with medullary thyroid carcinoma, phaeochromocytoma and mucosal neuromas; colonic polyposis screening is not required unlike FAP, HNPCC, or Cronkhite-Canada.
 
 </details>
 
@@ -18797,7 +18797,7 @@ Exception to Goodsals rule is considered when the anterior external opening is m
 
 <details><summary>Answer</summary>
 
-**B. 3** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3** — **B. 3** — Goodsall's rule exception: anterior external openings >3 cm from the anal verge may follow a curved track like posterior fistulas, deviating from the typical straight radial path.
 
 </details>
 
@@ -18815,7 +18815,7 @@ Pantaloon hernia is also called as -
 
 <details><summary>Answer</summary>
 
-**B. Saddle bag hernia** — Source: Medicoholic 2016 PYQ compilation.
+**B. Saddle bag hernia** — **B. Saddle bag hernia** — Pantaloon (saddle bag) hernia has both direct and indirect components straddling the inferior epigastric vessels, resembling a pair of trousers over the vessel.
 
 </details>
 
@@ -18833,7 +18833,7 @@ Which of the following famous personalities had hydrocele associated with hernia
 
 <details><summary>Answer</summary>
 
-**A. Edward Gibbon** — Source: Medicoholic 2016 PYQ compilation.
+**A. Edward Gibbon** — **A. Edward Gibbon** — The historian Edward Gibbon died from a scrotal hydrocele complicated by peritonitis; historically cited in surgical texts as a case of fatal hydrocele associated with hernia.
 
 </details>
 
@@ -18851,7 +18851,7 @@ Physiological adhesions between foreskin and glans penis persist until years of 
 
 <details><summary>Answer</summary>
 
-**C. 6** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6** — **C. 6** — Physiological preputial adhesions are normal until age 6; natural separation occurs progressively and circumcision is not indicated unless adhesions persist beyond this age causing symptoms.
 
 </details>
 
@@ -18869,7 +18869,7 @@ Most common site of penile carcinoma is -
 
 <details><summary>Answer</summary>
 
-**A. Glans** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glans** — **A. Glans** — Glans penis is the most common site (~48%) of squamous cell carcinoma of penis; poor hygiene, HPV 16/18, and phimosis are major risk factors.
 
 </details>
 
@@ -18887,7 +18887,7 @@ Traditionally scrotal carcinoma is associated with which of the following occupa
 
 <details><summary>Answer</summary>
 
-**A. Chimney sweeps** — Source: Medicoholic 2016 PYQ compilation.
+**A. Chimney sweeps** — **A. Chimney sweeps** — Percival Pott (1775) first described scrotal carcinoma in chimney sweeps from chronic exposure to soot (polycyclic aromatic hydrocarbons); landmark occupational cancer description.
 
 </details>
 
@@ -18905,7 +18905,7 @@ What is the main hazard of ectopic testis -
 
 <details><summary>Answer</summary>
 
-**C. Liable to injury** — Source: Medicoholic 2016 PYQ compilation.
+**C. Liable to injury** — **C. Liable to injury** — Ectopic testis is situated in an abnormal site (perineum, femoral triangle) outside the normal inguinoscrotal path, making it uniquely vulnerable to external trauma.
 
 </details>
 
@@ -18923,7 +18923,7 @@ What is the main hazard of ectopic testis -
 
 <details><summary>Answer</summary>
 
-**B. Ureteric calculus** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ureteric calculus** — **B. Ureteric calculus** — Loin-to-groin radiation with severe colicky pain is classic for ureteric calculus; ureteric peristalsis against obstruction produces the characteristic radiation to groin and inner thigh.
 
 </details>
 
@@ -18941,7 +18941,7 @@ Harder renal stone having less satisfactory results with ECWL is -
 
 <details><summary>Answer</summary>
 
-**D. Cystine stone** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cystine stone** — **D. Cystine stone** — Cystine stones are extremely hard (Mohs hardness ~3) and poorly fragmented by ESWL due to their waxy, homogeneous crystalline structure; PCNL is preferred.
 
 </details>
 
@@ -18959,7 +18959,7 @@ Radical nephrectomy involves resection of the following except -
 
 <details><summary>Answer</summary>
 
-**D. Proximal para-aortic lymph nodes** — Source: Medicoholic 2016 PYQ compilation.
+**D. Proximal para-aortic lymph nodes** — **D. Proximal para-aortic lymph nodes** — Standard radical nephrectomy removes Gerota's fascia, ipsilateral adrenal, and hilar nodes; extended para-aortic lymphadenectomy is not part of the standard procedure.
 
 </details>
 
@@ -18977,7 +18977,7 @@ Normal urine flow rate in healthy adults in urodynamic study is -
 
 <details><summary>Answer</summary>
 
-**B. 20 ml/sec** — Source: Medicoholic 2016 PYQ compilation.
+**B. 20 ml/sec** — **B. 20 ml/sec** — Normal maximum urinary flow rate (Qmax) in healthy adult males is ≥15–20 ml/sec; values <10 ml/sec suggest bladder outlet obstruction or detrusor underactivity.
 
 </details>
 
@@ -18995,7 +18995,7 @@ Dermoepidermal burn is what degree of burn -
 
 <details><summary>Answer</summary>
 
-**B. II** — Source: Medicoholic 2016 PYQ compilation.
+**B. II** — **B. II** — Second-degree (partial thickness) burns involve epidermis and dermis; subdivided into superficial (blistering, painful) and deep dermal; dermo-epidermal junction is disrupted.
 
 </details>
 
@@ -19013,7 +19013,7 @@ Revascularization and angiogenesis process after skin grafting is seen after how
 
 <details><summary>Answer</summary>
 
-**B. 5** — Source: Medicoholic 2016 PYQ compilation.
+**B. 5** — **B. 5** — Skin graft survival: days 1–2 plasmatic imbibition, day 3–4 inosculation, day 5 onwards active neovascularization/angiogenesis establishes permanent blood supply to the graft.
 
 </details>
 
@@ -19031,7 +19031,7 @@ The most commonly used myocutaneous pedicle graft for pelvis surgeries contains 
 
 <details><summary>Answer</summary>
 
-**A. Rectus abdominis muscle** — Source: Medicoholic 2016 PYQ compilation.
+**A. Rectus abdominis muscle** — **A. Rectus abdominis muscle** — TRAM/VRAM flap based on deep inferior epigastric artery provides reliable bulk and vascularisation for pelvic reconstruction after APR, exenteration, or radical gynaecological surgery.
 
 </details>
 
@@ -19049,7 +19049,7 @@ Kernahen's striped 'Y' classification, Main reference point is -
 
 <details><summary>Answer</summary>
 
-**A. Incisive foramen** — Source: Medicoholic 2016 PYQ compilation.
+**A. Incisive foramen** — **A. Incisive foramen** — Kernahan's striped-Y classification for cleft lip/palate uses incisive foramen as the central reference point dividing primary (anterior) from secondary (posterior) palate.
 
 </details>
 
@@ -19067,7 +19067,7 @@ What is the meaning of the French word "Debridement"
 
 <details><summary>Answer</summary>
 
-**A. Unleash or Cut Open** — Source: Medicoholic 2016 PYQ compilation.
+**A. Unleash or Cut Open** — **A. Unleash or Cut Open** — 'Débridement' derives from French 'débrider' meaning to unbridle/cut open; surgically refers to excision of devitalised tissue to promote wound healing.
 
 </details>
 
@@ -19085,7 +19085,7 @@ Cardinal rule for dressing of pressure ulcer is to -
 
 <details><summary>Answer</summary>
 
-**C. Keep ulcer tissue moist and surrounding intact tissue dry** — Source: Medicoholic 2016 PYQ compilation.
+**C. Keep ulcer tissue moist and surrounding intact tissue dry** — **C. Keep ulcer tissue moist and surrounding intact tissue dry** — Moist wound environment promotes granulation and epithelialisation; surrounding intact skin must remain dry to prevent maceration and extension of ulcer.
 
 </details>
 
@@ -19103,7 +19103,7 @@ All of the following are true regarding fluid resuscitation in burn patients exc
 
 <details><summary>Answer</summary>
 
-**A. Consider intravenous resuscitation in children with burns** — Source: Medicoholic 2016 PYQ compilation.
+**A. Consider intravenous resuscitation in children with burns** — **A. Consider intravenous resuscitation in children with burns** — IV resuscitation is mandatory (not merely 'considered') in children with significant burns; oral rehydration alone is insufficient for major burns in paediatric patients.
 
 </details>
 
@@ -19121,7 +19121,7 @@ Upto Level III lymph node dissection is done for which nodal status of oropharyn
 
 <details><summary>Answer</summary>
 
-**A. N1** — Source: Medicoholic 2016 PYQ compilation.
+**A. N1** — **A. N1** — For N1 oropharyngeal carcinoma (single ipsilateral node ≤3 cm), selective neck dissection up to Level III suffices; higher N-stages require more extensive Level I–V dissection.
 
 </details>
 
@@ -19139,7 +19139,7 @@ Hemorrhage commonly seen with trivial trauma in elderly -
 
 <details><summary>Answer</summary>
 
-**A. Subdural hemorrhage** — Source: Medicoholic 2016 PYQ compilation.
+**A. Subdural hemorrhage** — **A. Subdural hemorrhage** — Elderly patients have cerebral atrophy causing stretched bridging veins; even trivial trauma tears these veins causing chronic subdural hematoma, often with lucid interval.
 
 </details>
 
@@ -19157,7 +19157,7 @@ Most common organ injured in penetrating injury of the abdomen:
 
 <details><summary>Answer</summary>
 
-**C. Small bowel** — Source: Medicoholic 2016 PYQ compilation.
+**C. Small bowel** — **C. Small bowel** — Small bowel occupies most of the abdominal cavity; in penetrating (stab/gunshot) abdominal trauma it is the most frequently injured organ due to its large surface area.
 
 </details>
 
@@ -19175,7 +19175,7 @@ A child swallowed a watch battery containing alkaline content. What next -
 
 <details><summary>Answer</summary>
 
-**A. Immediate X-ray measurements** — Source: Medicoholic 2016 PYQ compilation.
+**A. Immediate X-ray measurements** — **A. Immediate X-ray measurements** — First step is X-ray to localise the battery and measure its diameter; oesophageal impaction (>20 mm) requires urgent endoscopic removal to prevent liquefactive necrosis.
 
 </details>
 
@@ -19193,7 +19193,7 @@ Typical of rectus sheath hematoma is -
 
 <details><summary>Answer</summary>
 
-**C. Firm painful mass** — Source: Medicoholic 2016 PYQ compilation.
+**C. Firm painful mass** — **C. Firm painful mass** — Rectus sheath hematoma presents as a tender, firm, non-mobile mass that does not cross midline; Carnett's sign positive (pain increases on tensing abdominal muscles).
 
 </details>
 
@@ -19211,7 +19211,7 @@ Percuteneous chemical lumbar sympathectomy is practised using -
 
 <details><summary>Answer</summary>
 
-**A. Phenol** — Source: Medicoholic 2016 PYQ compilation.
+**A. Phenol** — **A. Phenol** — Percutaneous chemical lumbar sympathectomy uses 6% phenol under image guidance; produces neurolysis of sympathetic ganglia (L2–L4) for peripheral vascular disease and hyperhidrosis.
 
 </details>
 
@@ -19229,7 +19229,7 @@ Which of the following is spared in lumbar sympathectomy:
 
 <details><summary>Answer</summary>
 
-**A. L1** — Source: Medicoholic 2016 PYQ compilation.
+**A. L1** — **A. L1** — L1 ganglion is preserved in lumbar sympathectomy to avoid ejaculatory dysfunction; L2, L3, L4 ganglia are ablated to achieve vasodilation and pain relief in lower limbs.
 
 </details>
 
@@ -19247,7 +19247,7 @@ Most commonly performed and acceptable method of bariatric surgery is:
 
 <details><summary>Answer</summary>
 
-**D. Roux-en-Y gastric bypass.** — Source: Medicoholic 2016 PYQ compilation.
+**D. Roux-en-Y gastric bypass.** — **D. Roux-en-Y gastric bypass** — RYGB combines gastric restriction with malabsorption; provides durable weight loss, remission of T2DM, and is the gold standard bariatric procedure worldwide.
 
 </details>
 
@@ -20672,7 +20672,7 @@ Vocabulary of 1.5 year old child is -
 
 <details><summary>Answer</summary>
 
-**B. 10-20 words** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10-20 words** — **B. 10-20 words** — At 18 months, a child typically has a vocabulary of 10–20 meaningful words; single-word stage transitions to two-word phrases around this age.
 
 </details>
 
@@ -20690,7 +20690,7 @@ A child of 5 years can use sentences of around how many words?
 
 <details><summary>Answer</summary>
 
-**B. 10 words** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10 words** — **B. 10 words** — By age 5, children can construct sentences of up to 10 words with correct grammar; language development follows a predictable milestone progression.
 
 </details>
 
@@ -20708,7 +20708,7 @@ Milestones achieved by a 10 months old child are all except -
 
 <details><summary>Answer</summary>
 
-**C. Standing without support** — Source: Medicoholic 2016 PYQ compilation.
+**C. Standing without support** — **C. Standing without support** — Standing without support is achieved at ~12 months; at 10 months, pincer grasp, peek-a-boo, and waving bye-bye are established milestones.
 
 </details>
 
@@ -20726,7 +20726,7 @@ What is the age of a child who can identify 4 colours and draw a triangle?
 
 <details><summary>Answer</summary>
 
-**D. 5 years** — Source: Medicoholic 2016 PYQ compilation.
+**D. 5 years** — **D. 5 years** — At 5 years, a child can identify 4 colours, draw a triangle, and copy complex shapes; 4 years is for squares, 3 years for circles.
 
 </details>
 
@@ -20744,7 +20744,7 @@ Growth of head circumference in 1st 3 months of life is by
 
 <details><summary>Answer</summary>
 
-**C. 5 cm** — Source: Medicoholic 2016 PYQ compilation.
+**C. 5 cm** — **C. 5 cm** — Head circumference grows ~2 cm/month in the first 3 months (totalling ~6 cm); approximately 5 cm gain reflects rapid brain growth in this period.
 
 </details>
 
@@ -20762,7 +20762,7 @@ Delayed eruption is failure of teeth to appear by
 
 <details><summary>Answer</summary>
 
-**B. 13 months** — Source: Medicoholic 2016 PYQ compilation.
+**B. 13 months** — **B. 13 months** — Delayed dentition is defined as failure of the first deciduous tooth to erupt by 13 months of age; normally first tooth appears by 6–8 months.
 
 </details>
 
@@ -20780,7 +20780,7 @@ Breast milk protects from infections as it contains all of the following except:
 
 <details><summary>Answer</summary>
 
-**A. IgE** — Source: Medicoholic 2016 PYQ compilation.
+**A. IgE** — **A. IgE** — Breast milk contains secretory IgA (not IgE), lactoferrin, bifidus factor, and lysozyme; IgE is an allergic antibody not secreted in breast milk.
 
 </details>
 
@@ -20798,7 +20798,7 @@ Which of the following is true regarding premature milk as compared to mature mi
 
 <details><summary>Answer</summary>
 
-**A. Less lactose** — Source: Medicoholic 2016 PYQ compilation.
+**A. Less lactose** — **A. Less lactose** — Premature breast milk has less lactose but more protein, sodium, and immunoglobulins compared to mature milk, meeting preterm infant metabolic needs.
 
 </details>
 
@@ -20816,7 +20816,7 @@ All of the following are true regarding breast milk as compared to cow's milk ex
 
 <details><summary>Answer</summary>
 
-**B. More amount of proteins** — Source: Medicoholic 2016 PYQ compilation.
+**B. More amount of proteins** — **B. More amount of proteins** — Cow's milk has more total protein than breast milk; breast milk has more lactose, less minerals, and similar fat — protein content is higher in cow's milk.
 
 </details>
 
@@ -20834,7 +20834,7 @@ Which of the following is the best reference for growth monitoring in children?
 
 <details><summary>Answer</summary>
 
-**B. NCHS** — Source: Medicoholic 2016 PYQ compilation.
+**B. NCHS** — **B. NCHS** — The National Centre for Health Statistics (NCHS) reference is the internationally accepted standard for growth monitoring used by WHO and most paediatric guidelines.
 
 </details>
 
@@ -20852,7 +20852,7 @@ Kwashiorkar is due to deficiency of
 
 <details><summary>Answer</summary>
 
-**A. Calories** — Source: Medicoholic 2016 PYQ compilation.
+**A. Calories** — **A. Calories** — Kwashiorkor is caused by protein-energy malnutrition with relative protein deficiency; inadequate caloric intake leads to hypoalbuminaemia, oedema, and fatty liver.
 
 </details>
 
@@ -20870,7 +20870,7 @@ Which of the following is not true about Galeazzi fracture dislocation?
 
 <details><summary>Answer</summary>
 
-**C. The distal end of ulna dislocates volarly after disruption of distal** — Source: Medicoholic 2016 PYQ compilation.
+**C. The distal end of ulna dislocates volarly after disruption of distal** — **C. The distal end of ulna dislocates volarly after disruption of distal** — In Galeazzi fracture-dislocation, the distal ulna typically dislocates dorsally (not volarly); the DRUJ is disrupted with volar angulation of the radius.
 
 </details>
 
@@ -20888,7 +20888,7 @@ In Monteggia fracture, which is true about ulnar fracture and head of radius
 
 <details><summary>Answer</summary>
 
-**B. Both ulnar fracture and head of radius is displaced anteriorly** — Source: Medicoholic 2016 PYQ compilation.
+**B. Both ulnar fracture and head of radius is displaced anteriorly** — **B. Both ulnar fracture and head of radius is displaced anteriorly** — In Bado Type I Monteggia (most common), ulnar fracture angulates anteriorly and the radial head dislocates anteriorly.
 
 </details>
 
@@ -20906,7 +20906,7 @@ Which of the following shoulder movements is/ are weak in patients of supraspina
 
 <details><summary>Answer</summary>
 
-**A. Abduction** — Source: Medicoholic 2016 PYQ compilation.
+**A. Abduction** — **A. Abduction** — Supraspinatus initiates the first 15° of glenohumeral abduction; a tear causes a painful arc with weakness in abduction, tested by the empty can test.
 
 </details>
 
@@ -20924,7 +20924,7 @@ Increased Q angle predisposes to
 
 <details><summary>Answer</summary>
 
-**B. Lateral patellar subluxation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lateral patellar subluxation** — **B. Lateral patellar subluxation** — Increased Q angle (>20° in females) increases lateral vector force on the patella, predisposing to lateral subluxation and patellofemoral pain syndrome.
 
 </details>
 
@@ -20942,7 +20942,7 @@ Seat belt injury is
 
 <details><summary>Answer</summary>
 
-**C. Chance fracture** — Source: Medicoholic 2016 PYQ compilation.
+**C. Chance fracture** — **C. Chance fracture** — Chance fracture is a horizontal splitting fracture of a lumbar vertebra caused by flexion-distraction force, classically seen with lap-belt restraint injuries.
 
 </details>
 
@@ -20960,7 +20960,7 @@ Popliteal artery injury is commonly seen in which type of traumatic knee disloca
 
 <details><summary>Answer</summary>
 
-**B. Posterior** — Source: Medicoholic 2016 PYQ compilation.
+**B. Posterior** — **B. Posterior** — In posterior knee dislocation, the tibia is displaced posteriorly, directly stretching and injuring the popliteal artery, which is tethered in the popliteal fossa.
 
 </details>
 
@@ -20978,7 +20978,7 @@ Kocher manoeuver is used for
 
 <details><summary>Answer</summary>
 
-**A. Shoulder reduction** — Source: Medicoholic 2016 PYQ compilation.
+**A. Shoulder reduction** — **A. Shoulder reduction** — Kocher's manoeuvre reduces anterior shoulder dislocation by external rotation then adduction and internal rotation, leveraging the humeral head back into the glenoid.
 
 </details>
 
@@ -20996,7 +20996,7 @@ Cobra head plate is used for
 
 <details><summary>Answer</summary>
 
-**A. Hip arthrodesis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hip arthrodesis** — **A. Hip arthrodesis** — The cobra head plate (cobra plate) is specifically designed for hip arthrodesis, providing stable fixation across the hip joint for fusion procedures.
 
 </details>
 
@@ -21014,7 +21014,7 @@ Locking compression plating for is commonly indicated in the following fracture 
 
 <details><summary>Answer</summary>
 
-**A. Periarticular fractures** — Source: Medicoholic 2016 PYQ compilation.
+**A. Periarticular fractures** — **A. Periarticular fractures** — Locking compression plates (LCP) provide angular stability without requiring cortical contact, making them ideal for periarticular, osteoporotic, and comminuted fractures.
 
 </details>
 
@@ -21032,7 +21032,7 @@ Ankle reflex is affected in prolapsed intervertebral disc at what level?
 
 <details><summary>Answer</summary>
 
-**C. L5 - S1** — Source: Medicoholic 2016 PYQ compilation.
+**C. L5 - S1** — **C. L5-S1** — The ankle (Achilles) reflex is mediated by the S1 nerve root; a disc prolapse at L5-S1 compresses S1, abolishing the ankle jerk reflex.
 
 </details>
 
@@ -21050,7 +21050,7 @@ CTEV shoe true is
 
 <details><summary>Answer</summary>
 
-**B. It has straight medial border** — Source: Medicoholic 2016 PYQ compilation.
+**B. It has straight medial border** — **B. It has straight medial border** — CTEV (club foot) shoe has a straight medial border (reverse last shoe) to correct the adduction deformity and maintain corrected foot position after casting.
 
 </details>
 
@@ -21068,7 +21068,7 @@ Which of the following is not true about the tests for hip instability in neonat
 
 <details><summary>Answer</summary>
 
-**A. Ortolanis test has two parts** — Source: Medicoholic 2016 PYQ compilation.
+**A. Ortolanis test has two parts** — **A. Ortolanis test has two parts** — Ortolani test is a single manoeuvre (abduction with anterior lift) that produces a clunk of entry; it is Barlow's test that has the push-back component.
 
 </details>
 
@@ -21086,7 +21086,7 @@ Ortolani test is positive when the examiner hears the ?
 
 <details><summary>Answer</summary>
 
-**A. Clunk of entry on abduction and flexion of hip** — Source: Medicoholic 2016 PYQ compilation.
+**A. Clunk of entry on abduction and flexion of hip** — **A. Clunk of entry on abduction and flexion of hip** — Ortolani test abducts and lifts the flexed hip; a positive result is a palpable/audible clunk as the dislocated femoral head reduces into the acetabulum.
 
 </details>
 
@@ -21104,7 +21104,7 @@ Oncogenic osteomalacia is mediated by
 
 <details><summary>Answer</summary>
 
-**A. Phosphatonin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Phosphatonin** — **A. Phosphatonin** — Oncogenic (tumour-induced) osteomalacia is caused by phosphatonins (mainly FGF-23) secreted by mesenchymal tumours, causing renal phosphate wasting and defective mineralisation.
 
 </details>
 
@@ -21122,7 +21122,7 @@ Which of the following is not true about the manipulation methods to correct CTE
 
 <details><summary>Answer</summary>
 
-**A. Involves serial casting and below knee plaster casting** — Source: Medicoholic 2016 PYQ compilation.
+**A. Involves serial casting and below knee plaster casting** — **A. Involves serial casting and below knee plaster casting** — Ponseti method uses above-knee (long leg) plaster casts, not below-knee; below-knee casting does not adequately control the hindfoot.
 
 </details>
 
@@ -21140,7 +21140,7 @@ Which of the following is not true about SCFE?
 
 <details><summary>Answer</summary>
 
-**B. Extension is restricted** — Source: Medicoholic 2016 PYQ compilation.
+**B. Extension is restricted** — **B. Extension is restricted** — In SCFE, internal rotation and flexion are restricted (not extension); the hip lies in external rotation with limited internal rotation due to posterior slippage of the epiphysis.
 
 </details>
 
@@ -21158,7 +21158,7 @@ Tinel sign is seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Nerve regeneration** — Source: Medicoholic 2016 PYQ compilation.
+**B. Nerve regeneration** — **B. Nerve regeneration** — Tinel's sign (tingling on percussion over a nerve) indicates active axonal regeneration; it advances distally as regenerating fibres grow, marking the front of regeneration.
 
 </details>
 
@@ -21176,7 +21176,7 @@ All are true about Marie - strumpell disease except :
 
 <details><summary>Answer</summary>
 
-**D. Roentgenogram is the most sensitive investigation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Roentgenogram is the most sensitive investigation** — **D. Roentgenogram is the most sensitive investigation** — MRI is the most sensitive investigation for early ankylosing spondylitis (Marie-Strümpell disease); plain X-ray shows sacroiliitis only in later stages.
 
 </details>
 
@@ -21194,7 +21194,7 @@ Most commonly lesion associated with pathological fracture in hand is -
 
 <details><summary>Answer</summary>
 
-**A. Enchondroma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Enchondroma** — **A. Enchondroma** — Enchondroma is the most common primary bone tumour of the hand (phalanges and metacarpals), frequently presenting as a pathological fracture due to cortical thinning.
 
 </details>
 
@@ -21212,7 +21212,7 @@ Most common primary bone tumour of hand is:
 
 <details><summary>Answer</summary>
 
-**C. Enchondroma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Enchondroma** — **C. Enchondroma** — Enchondroma arises from cartilaginous rests in medullary bone; it is the most common primary bone tumour of the hand, commonly affecting phalanges.
 
 </details>
 
@@ -21230,7 +21230,7 @@ Most common malignant bone tumor-
 
 <details><summary>Answer</summary>
 
-**B. Secondaries** — Source: Medicoholic 2016 PYQ compilation.
+**B. Secondaries** — **B. Secondaries** — Metastatic (secondary) bone tumours are far more common than primary malignancies; common primaries include breast, lung, prostate, thyroid, and kidney (mnemonic: BLasT Kills).
 
 </details>
 
@@ -21248,7 +21248,7 @@ Most common site for the osteoporotic vertebral fracture is ?
 
 <details><summary>Answer</summary>
 
-**A. Dorsolumbar spine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Dorsolumbar spine** — **A. Dorsolumbar spine** — The dorsolumbar junction (T12-L1) bears the greatest mechanical stress and is the most common site for osteoporotic vertebral compression fractures.
 
 </details>
 
@@ -21266,7 +21266,7 @@ Trendelenburg test is positive due to injury to which of the following nerve?
 
 <details><summary>Answer</summary>
 
-**C. Superior Gluteal** — Source: Medicoholic 2016 PYQ compilation.
+**C. Superior Gluteal** — **C. Superior Gluteal** — The superior gluteal nerve innervates gluteus medius and minimus; injury causes Trendelenburg gait (pelvis drops to opposite side) as these hip abductors are paralysed.
 
 </details>
 
@@ -21284,7 +21284,7 @@ Shentons line is seen in X ray of -
 
 <details><summary>Answer</summary>
 
-**A. Antero-posterior pelvis with both hips** — Source: Medicoholic 2016 PYQ compilation.
+**A. Antero-posterior pelvis with both hips** — **A. Antero-posterior pelvis with both hips** — Shenton's line is a smooth arc drawn from the inferior femoral neck to the superior obturator foramen on AP pelvis X-ray; disruption indicates hip dislocation or fracture.
 
 </details>
 
@@ -21302,7 +21302,7 @@ Chauffeur fracture is -
 
 <details><summary>Answer</summary>
 
-**B. Intra - articular fracture of styloid process** — Source: Medicoholic 2016 PYQ compilation.
+**B. Intra - articular fracture of styloid process** — **B. Intra-articular fracture of styloid process** — Chauffeur's (Hutchinson's) fracture is an intra-articular fracture of the radial styloid process, caused by forced radial deviation (originally from hand-crank backfires).
 
 </details>
 
@@ -21320,7 +21320,7 @@ Which of the following is used in quantifying hirsutism?
 
 <details><summary>Answer</summary>
 
-**C. Ferriman-Gallwey score** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ferriman-Gallwey score** — **C. Ferriman-Gallwey score** — The modified Ferriman-Gallwey score assesses androgen-dependent hair growth in 9 body areas (scored 0–4 each); total ≥8 defines hirsutism.
 
 </details>
 
@@ -21338,7 +21338,7 @@ Rate of cervical dilatation in primigravida is ?
 
 <details><summary>Answer</summary>
 
-**A. 0.8 cm/hour** — Source: Medicoholic 2016 PYQ compilation.
+**A. 0.8 cm/hour** — **A. 0.8 cm/hour** — Friedman's curve defines normal active-phase cervical dilatation as ≥1.2 cm/hour in primigravidas (minimum normal); arrest is defined below 0.8–1.2 cm/hour depending on the reference.
 
 </details>
 
@@ -21356,7 +21356,7 @@ Chain of lakes appearance is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Chronic pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Chronic pancreatitis** — **A. Chronic pancreatitis** — Chain-of-lakes appearance on ERCP/MRCP describes alternating strictures and dilations of the main pancreatic duct, pathognomonic of chronic pancreatitis.
 
 </details>
 
@@ -21962,7 +21962,7 @@ Radioiodine preferred in treatment in
 
 <details><summary>Answer</summary>
 
-**C. Recent onset of toxic goiter** — Source: Medicoholic 2016 PYQ compilation.
+**C. Recent onset of toxic goiter** — **C. Recent onset of toxic goiter** — Radioiodine (I-131) is preferred for recently diagnosed toxic goiter in non-pregnant adults; contraindicated in pregnancy and young patients due to radiation risk.
 
 </details>
 
@@ -21980,7 +21980,7 @@ Commonest site of hypospadias is -
 
 <details><summary>Answer</summary>
 
-**A. Just proximal to glans** — Source: Medicoholic 2016 PYQ compilation.
+**A. Just proximal to glans** — **A. Just proximal to glans** — Glanular/coronal hypospadias (just proximal to glans) is the most common type, accounting for ~50-70% of all hypospadias cases.
 
 </details>
 
@@ -21998,7 +21998,7 @@ Which of the following are the treatment options for cystocele?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Cystocele is treated by anterior colporrhaphy (surgical repair), transvaginal tape (TVT), or transobturator tape (TOT) depending on associated stress urinary incontinence.
 
 </details>
 
@@ -22016,7 +22016,7 @@ A newborn after prolonged labour is not breathing well and after 30 seconds of r
 
 <details><summary>Answer</summary>
 
-**C. Continue oxygen and ventilation** — Source: Medicoholic 2016 PYQ compilation.
+**C. Continue oxygen and ventilation** — **C. Continue oxygen and ventilation** — Heart rate 60-100 bpm after 30 seconds of PPV requires continued oxygen and ventilation; chest compressions indicated only if HR <60 bpm.
 
 </details>
 
@@ -22034,7 +22034,7 @@ Contraindication of bag and mask ventilation are all of the following except:
 
 <details><summary>Answer</summary>
 
-**D. Empty stomach** — Source: Medicoholic 2016 PYQ compilation.
+**D. Empty stomach** — **D. Empty stomach** — Empty stomach is not a contraindication; bag-mask ventilation is contraindicated with tracheoesophageal fistula, hiatus hernia, and pregnancy due to aspiration risk.
 
 </details>
 
@@ -22052,7 +22052,7 @@ MC cause of Primary Amenorrhea is ?
 
 <details><summary>Answer</summary>
 
-**C. Ovarian dysgenesis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ovarian dysgenesis** — **C. Ovarian dysgenesis** — Gonadal dysgenesis (Turner syndrome 45,X) is the most common cause of primary amenorrhea (~43%), followed by Mullerian agenesis (RMKH).
 
 </details>
 
@@ -22070,7 +22070,7 @@ Fetal karyotyping can be done by all, EXCEPT?
 
 <details><summary>Answer</summary>
 
-**D. Fetal skin biopsy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fetal skin biopsy** — **D. Fetal skin biopsy** — Fetal skin biopsy is used for skin disorders (epidermolysis bullosa), not karyotyping; amniocentesis, CVS, and cordocentesis all provide cells for chromosomal analysis.
 
 </details>
 
@@ -22088,7 +22088,7 @@ Fetal karyotyping can be done by all, EXCEPT?
 
 <details><summary>Answer</summary>
 
-**B. Uterine prolapse** — Source: Medicoholic 2016 PYQ compilation.
+**B. Uterine prolapse** — **B. Uterine prolapse** — Reducible vaginal mass worsening with straining/defecation in a postmenopausal multiparous woman is classic uterine prolapse due to pelvic floor laxity.
 
 </details>
 
@@ -22106,7 +22106,7 @@ Moschowit's surgery is done for -
 
 <details><summary>Answer</summary>
 
-**D. Enterocele prevention** — Source: Medicoholic 2016 PYQ compilation.
+**D. Enterocele prevention** — **D. Enterocele prevention** — Moschowitz operation obliterates the pouch of Douglas by purse-string sutures, preventing/repairing enterocele (herniation of small bowel into rectovaginal space).
 
 </details>
 
@@ -22124,7 +22124,7 @@ MC heart disease in pregnancy is ?
 
 <details><summary>Answer</summary>
 
-**A. MS** — Source: Medicoholic 2016 PYQ compilation.
+**A. MS** — **A. MS** — Mitral stenosis (rheumatic) is the most common cardiac complication in pregnancy in developing countries, causing heart failure due to increased blood volume and heart rate.
 
 </details>
 
@@ -22142,7 +22142,7 @@ Not an absolute contraindication for methylergometrine use is ?
 
 <details><summary>Answer</summary>
 
-**C. Rh incompatibility** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rh incompatibility** — **C. Rh incompatibility** — Rh incompatibility is NOT a contraindication to methylergometrine; absolute contraindications include hypertension, eclampsia, heart disease, and multiple pregnancy (before delivery of all fetuses).
 
 </details>
 
@@ -22160,7 +22160,7 @@ A lady with 35 weeks of pregnancy is admitted in view of first episode of painle
 
 <details><summary>Answer</summary>
 
-**C. Wait and watch** — Source: Medicoholic 2016 PYQ compilation.
+**C. Wait and watch** — **C. Wait and watch** — At 35 weeks with first episode of painless antepartum hemorrhage (placenta previa), stable hemodynamics, and normal Hb, conservative expectant management is appropriate until 37+ weeks.
 
 </details>
 
@@ -22178,7 +22178,7 @@ G3P2L2 with previous 2 LSCS with anterior placenta previa has got a very high ri
 
 <details><summary>Answer</summary>
 
-**A. Placenta acreta** — Source: Medicoholic 2016 PYQ compilation.
+**A. Placenta acreta** — **A. Placenta acreta** — Prior LSCS scars with anterior placenta previa markedly increases risk of placenta accreta spectrum; two previous scars confer ~40% risk of morbidly adherent placenta.
 
 </details>
 
@@ -22196,7 +22196,7 @@ A 28-year-old primigravida with 33 weeks of pregnancy suddenly complains of head
 
 <details><summary>Answer</summary>
 
-**D. Anticonvulsant + antihypertensive therapy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Anticonvulsant + antihypertensive therapy** — **D. Anticonvulsant + antihypertensive therapy** — Severe preeclampsia at 33 weeks with impending eclampsia features (headache, oliguria, visual changes, BP 180/110) requires magnesium sulfate + antihypertensives before delivery planning.
 
 </details>
 
@@ -22214,7 +22214,7 @@ Which of the following statements concerning abdominal pregnancy is correct?
 
 <details><summary>Answer</summary>
 
-**D. Placenta can be left in situ at the time of surgery** — Source: Medicoholic 2016 PYQ compilation.
+**D. Placenta can be left in situ at the time of surgery** — **D. Placenta can be left in situ at the time of surgery** — In abdominal pregnancy, placenta is left in situ if its blood supply cannot be safely controlled, as removal risks fatal hemorrhage; it resorbs gradually.
 
 </details>
 
@@ -22232,7 +22232,7 @@ Patient with 3 months amenorrhoea, c/o hyperemesis and vaginal bleeding since on
 
 <details><summary>Answer</summary>
 
-**A. Vesicular mole** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vesicular mole** — **A. Vesicular mole** — Uterus larger than dates (16 weeks at 3 months amenorrhea), hyperemesis, vaginal bleeding, and absent fetal heart sounds are classic features of hydatidiform mole.
 
 </details>
 
@@ -22250,7 +22250,7 @@ EMACO regime is for ?
 
 <details><summary>Answer</summary>
 
-**D. Chorio carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**D. Chorio carcinoma** — **D. Chorio carcinoma** — EMA-CO (Etoposide, Methotrexate, Actinomycin-D, Cyclophosphamide, Oncovin) is the standard chemotherapy regimen for high-risk gestational trophoblastic neoplasia including choriocarcinoma.
 
 </details>
 
@@ -22268,7 +22268,7 @@ Stage lb cervical cancer is diagnosed in
 
 <details><summary>Answer</summary>
 
-**D. Both ovaries** — Source: Medicoholic 2016 PYQ compilation.
+**D. Both ovaries** — **D. Both ovaries** — This question is likely testing ovarian spread; however, Stage IB cervical cancer is clinically visible lesion confined to the cervix. Ovarian involvement occurs with advanced/metastatic disease.
 
 </details>
 
@@ -22286,7 +22286,7 @@ In vaginal hysterectomy, the first clamp includes:
 
 <details><summary>Answer</summary>
 
-**C. Uterosacral ligament** — Source: Medicoholic 2016 PYQ compilation.
+**C. Uterosacral ligament** — **C. Uterosacral ligament** — In vaginal hysterectomy, the uterosacral ligaments are clamped, cut, and ligated first (posteriorly), providing initial uterine descent and defining the surgical plane.
 
 </details>
 
@@ -22304,7 +22304,7 @@ Cervical cancer III B treatment is ?
 
 <details><summary>Answer</summary>
 
-**D. Chemoradiation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Chemoradiation** — **D. Chemoradiation** — Cervical cancer Stage IIIB (pelvic wall extension/hydronephrosis) is treated with concurrent platinum-based chemoradiation; surgery is not feasible at this advanced stage.
 
 </details>
 
@@ -22322,7 +22322,7 @@ Wertheim's hysterectomy is done for ?
 
 <details><summary>Answer</summary>
 
-**B. IB cervical cancer** — Source: Medicoholic 2016 PYQ compilation.
+**B. IB cervical cancer** — **B. IB cervical cancer** — Wertheim's radical hysterectomy (type III) removes uterus, parametrium, upper vagina, and pelvic nodes; standard surgical treatment for Stage IA2-IIA cervical cancer.
 
 </details>
 
@@ -22340,7 +22340,7 @@ Ca vulva spreads to all except ?
 
 <details><summary>Answer</summary>
 
-**D. Paraaortic nodes** — Source: Medicoholic 2016 PYQ compilation.
+**D. Paraaortic nodes** — **D. Paraaortic nodes** — Vulvar cancer spreads locally to urethra and vagina, then to superficial and deep inguinal nodes, then pelvic nodes; paraaortic nodal spread is extremely rare and not a typical route.
 
 </details>
 
@@ -22358,7 +22358,7 @@ Which ovarian tumour can present with menorrhagia ?
 
 <details><summary>Answer</summary>
 
-**C. Granulosa cell tumour** — Source: Medicoholic 2016 PYQ compilation.
+**C. Granulosa cell tumour** — **C. Granulosa cell tumour** — Granulosa cell tumour is an estrogen-secreting sex-cord stromal tumour causing menorrhagia (or postmenopausal bleeding) due to excess estrogen stimulating the endometrium.
 
 </details>
 
@@ -22376,7 +22376,7 @@ All are risk factors for ectopic pregnancy except ?
 
 <details><summary>Answer</summary>
 
-**D. LNG IUCD** — Source: Medicoholic 2016 PYQ compilation.
+**D. LNG IUCD** — **D. LNG IUCD** — Levonorgestrel IUCD markedly reduces overall ectopic risk by preventing pregnancy; while IVF, tubal ligation failure, and prior ectopic are established risk factors.
 
 </details>
 
@@ -22412,7 +22412,7 @@ Pearl necklace appearance is characteristic of ?
 
 <details><summary>Answer</summary>
 
-**B. PCOS** — Source: Medicoholic 2016 PYQ compilation.
+**B. PCOS** — **B. PCOS** — Pearl necklace appearance on ultrasound describes multiple small peripheral follicles (≥12 follicles, 2-9mm) arranged around the ovarian stroma in polycystic ovarian syndrome.
 
 </details>
 
@@ -22430,7 +22430,7 @@ Violin string adhesion [violent string sign] is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Fitz - high -curtis syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**C. Fitz - high -curtis syndrome** — **C. Fitz - high -curtis syndrome** — Violin string (or piano string) adhesions between liver and anterior abdominal wall are pathognomonic of Fitz-Hugh-Curtis syndrome (perihepatitis due to chlamydial/gonococcal PID).
 
 </details>
 
@@ -22448,7 +22448,7 @@ Complication of Benign Ovarian Cysts is ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Benign ovarian cysts can undergo torsion (commonest), intracystic hemorrhage, and mucinous cysts can rupture causing pseudomyxoma peritonei from mucin spillage.
 
 </details>
 
@@ -22466,7 +22466,7 @@ Level 1 support of uterus & vagina is ?
 
 <details><summary>Answer</summary>
 
-**C. Uterosacral ligaments** — Source: Medicoholic 2016 PYQ compilation.
+**C. Uterosacral ligaments** — **C. Uterosacral ligaments** — DeLancey Level 1 support consists of uterosacral and cardinal ligaments suspending the uterus and upper vagina; Level 2 is paravaginal, Level 3 is perineal body.
 
 </details>
 
@@ -22484,7 +22484,7 @@ MC presenting symptom of fibroid is ?
 
 <details><summary>Answer</summary>
 
-**A. Menorrhagia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Menorrhagia** — **A. Menorrhagia** — Menorrhagia is the most common presenting symptom of uterine fibroids, caused by increased endometrial surface area, venous engorgement, and impaired uterine contractility.
 
 </details>
 
@@ -22502,7 +22502,7 @@ Medical management of fibroids is with all except -
 
 <details><summary>Answer</summary>
 
-**D. Misoprostol** — Source: Medicoholic 2016 PYQ compilation.
+**D. Misoprostol** — **D. Misoprostol** — Misoprostol (PGE1 analogue) is used for cervical ripening and PPH, not fibroid management; GnRH analogues, mifepristone, and ulipristal acetate all reduce fibroid size.
 
 </details>
 
@@ -22520,7 +22520,7 @@ Examination of a 26 years old obese infertile female reveals. Fixed retroverted 
 
 <details><summary>Answer</summary>
 
-**B. Endometriosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Endometriosis** — **B. Endometriosis** — Fixed retroverted uterus with nodular uterosacral ligaments in an infertile woman is pathognomonic of endometriosis causing adhesions and obliteration of the pouch of Douglas.
 
 </details>
 
@@ -22538,7 +22538,7 @@ Surgery of choice in 42 year old P3L3 with diffuse endometriosis is ?
 
 <details><summary>Answer</summary>
 
-**C. Hysterectomy with BSO with resection of endometrial implants** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hysterectomy with BSO with resection of endometrial implants** — **C. Hysterectomy with BSO with resection of endometrial implants** — In a completed-family perimenopausal woman with severe endometriosis, TAH+BSO with excision of all implants is definitive curative surgery.
 
 </details>
 
@@ -22556,7 +22556,7 @@ The most common Mullerian anomaly is?
 
 <details><summary>Answer</summary>
 
-**D. Septate uterus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Septate uterus** — **D. Septate uterus** — Septate uterus (failure of resorption of the midline septum) is the most common Mullerian anomaly (~35%), associated with highest rates of miscarriage among uterine anomalies.
 
 </details>
 
@@ -22574,7 +22574,7 @@ A 46-year-old P3L3 complains of menorrhagia since 3 months. Next line of managem
 
 <details><summary>Answer</summary>
 
-**A. D & C** — Source: Medicoholic 2016 PYQ compilation.
+**A. D & C** — **A. D & C** — In a perimenopausal woman with menorrhagia, D&C (dilatation and curettage) is performed first to exclude endometrial pathology (hyperplasia/carcinoma) before medical therapy.
 
 </details>
 
@@ -22592,7 +22592,7 @@ Simple hyperplasia with atypia will progress to ca endometrium in % of cases ?
 
 <details><summary>Answer</summary>
 
-**C. 8-9** — Source: Medicoholic 2016 PYQ compilation.
+**C. 8-9** — **C. 8-9** — Simple atypical hyperplasia progresses to endometrial carcinoma in ~8% of cases; complex atypical hyperplasia has ~29% progression risk and requires hysterectomy.
 
 </details>
 
@@ -22610,7 +22610,7 @@ Grade 1 Ca endometrium, there is presence of % non sqoumaous growth ?
 
 <details><summary>Answer</summary>
 
-**A. <5** — Source: Medicoholic 2016 PYQ compilation.
+**A. <5** — **A. <5** — FIGO Grade 1 endometrial carcinoma has ≤5% non-squamous solid growth pattern; Grade 2 is 6-50%, Grade 3 is >50%, indicating increasing dedifferentiation and worse prognosis.
 
 </details>
 
@@ -22628,7 +22628,7 @@ Definitive treatment of adenomyosis is ?
 
 <details><summary>Answer</summary>
 
-**D. Hysterectomy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hysterectomy** — **D. Hysterectomy** — Hysterectomy is the only definitive cure for adenomyosis (ectopic endometrial glands within myometrium); medical treatments (OCP, NSAIDs) only provide symptom relief temporarily.
 
 </details>
 
@@ -22646,7 +22646,7 @@ MC cause for hysterectomy is ?
 
 <details><summary>Answer</summary>
 
-**B. Fibroids** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fibroids** — **B. Fibroids** — Uterine fibroids (leiomyomata) are the most common indication for hysterectomy worldwide, accounting for approximately 30-40% of all hysterectomies performed.
 
 </details>
 
@@ -22664,7 +22664,7 @@ Prolonged surgery time of vaginal hysterectomy would lead to damage to which ner
 
 <details><summary>Answer</summary>
 
-**C. Peroneal** — Source: Medicoholic 2016 PYQ compilation.
+**C. Peroneal** — **C. Peroneal** — Prolonged lithotomy position during vaginal hysterectomy causes common peroneal nerve compression at the fibular head, leading to foot drop (commonest positioning injury).
 
 </details>
 
@@ -22682,7 +22682,7 @@ Which of the following is not a part of PID -
 
 <details><summary>Answer</summary>
 
-**B. Cervicitis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cervicitis** — **B. Cervicitis** — Cervicitis (inflammation limited to endocervix) is a lower genital tract infection; PID specifically refers to upper genital tract infection: endometritis, salpingitis, tubo-ovarian abscess, and peritonitis.
 
 </details>
 
@@ -22700,7 +22700,7 @@ Acute pelvic pain could be due to ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Acute pelvic pain in reproductive-age women has gynecological causes including ectopic pregnancy (life-threatening), PID (infection), and corpus luteum hematoma (follicular rupture).
 
 </details>
 
@@ -22718,7 +22718,7 @@ HSG findings suggestive of genital koch ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Genital tuberculosis on HSG shows beaded/pipestem tubes (TB salpingitis), honeycomb/golf-club shaped uterine cavity (intrauterine synechiae), all pathognomonic features.
 
 </details>
 
@@ -22736,7 +22736,7 @@ Which of the following decreases the risk of Pelvic Inflammatory Disease ?
 
 <details><summary>Answer</summary>
 
-**C. O.C. pills** — Source: Medicoholic 2016 PYQ compilation.
+**C. O.C. pills** — **C. O.C. pills** — Combined oral contraceptives decrease PID risk by thickening cervical mucus (barrier to ascending infection) and reducing retrograde menstrual flow; Cu-IUCD increases PID risk.
 
 </details>
 
@@ -22754,7 +22754,7 @@ Tamoxifen decreases the risk of which cancer?
 
 <details><summary>Answer</summary>
 
-**A. Breast** — Source: Medicoholic 2016 PYQ compilation.
+**A. Breast** — **A. Breast** — Tamoxifen (selective estrogen receptor modulator) decreases breast cancer risk by ~50% in high-risk women; paradoxically it acts as estrogen agonist on endometrium, increasing endometrial cancer risk.
 
 </details>
 
@@ -22772,7 +22772,7 @@ Betamethasone given to preterm patient for all except ?
 
 <details><summary>Answer</summary>
 
-**D. Prevent PPH** — Source: Medicoholic 2016 PYQ compilation.
+**D. Prevent PPH** — **D. Prevent PPH** — Antenatal betamethasone accelerates fetal lung maturity, reduces intraventricular hemorrhage and periventricular leukomalacia; it has no role in preventing postpartum hemorrhage.
 
 </details>
 
@@ -22790,7 +22790,7 @@ A 32-year-old female with mild hypertension. Two days after normal delivery, she
 
 <details><summary>Answer</summary>
 
-**B. Superior sagittal sinus thrombosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Superior sagittal sinus thrombosis** — **B. Superior sagittal sinus thrombosis** — Postpartum seizures with headache, no proteinuria, and imaging findings indicate cerebral venous sinus thrombosis, a hypercoagulable postpartum complication distinct from eclampsia.
 
 </details>
 
@@ -22808,7 +22808,7 @@ Penicillamine use in pregnancy is associated with this fetal complication ?
 
 <details><summary>Answer</summary>
 
-**D. Cutis laxa** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cutis laxa** — **D. Cutis laxa** — Penicillamine (used in Wilson's disease/rheumatoid arthritis) inhibits collagen cross-linking, causing cutis laxa (loose, inelastic skin) and connective tissue defects in the fetus.
 
 </details>
 
@@ -22826,7 +22826,7 @@ HCG levels at which Expectant management of Ectopic pregnancy can be done :
 
 <details><summary>Answer</summary>
 
-**B. 1000 IU/L** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1000 IU/L** — **B. 1000 IU/L** — Expectant management of ectopic pregnancy is appropriate when beta-hCG is low (<1000-1500 IU/L) and declining, indicating spontaneous resolution without intervention needed.
 
 </details>
 
@@ -22844,7 +22844,7 @@ Crying of fetus in utero is called as ?
 
 <details><summary>Answer</summary>
 
-**A. Vagitus uterinus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vagitus uterinus** — **A. Vagitus uterinus** — Vagitus uterinus refers to the rare phenomenon of fetal crying within the intact uterus, caused by air entering the uterine cavity; vagitus vaginalis occurs in the vaginal canal.
 
 </details>
 
@@ -22862,7 +22862,7 @@ Utero-placental circulation is established days after fertilization ?
 
 <details><summary>Answer</summary>
 
-**B. 10** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10** — **B. 10** — Uteroplacental circulation is established by day 10 after fertilization when the trophoblast invades maternal decidual spiral arteries, establishing intervillous blood flow.
 
 </details>
 
@@ -22880,7 +22880,7 @@ Pregnancy is contraindicated in all of the following except -
 
 <details><summary>Answer</summary>
 
-**D. WPW syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**D. WPW syndrome** — **D. WPW syndrome** — WPW syndrome is manageable in pregnancy with antiarrhythmics or ablation; absolute cardiac contraindications to pregnancy include primary pulmonary hypertension, Eisenmenger's, and Marfan's with aortic dilation (mortality >25%).
 
 </details>
 
@@ -22898,7 +22898,7 @@ Which heart disease has the worst prognosis/maximum mortality in pregnancy?
 
 <details><summary>Answer</summary>
 
-**D. Eisenmenger's syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**D. Eisenmenger's syndrome** — **D. Eisenmenger's syndrome** — Eisenmenger's syndrome carries 30-50% maternal mortality in pregnancy due to fixed pulmonary hypertension and inability to accommodate the increased cardiac output of pregnancy.
 
 </details>
 
@@ -22916,7 +22916,7 @@ Ovarian cycle can be correlated with all except ?
 
 <details><summary>Answer</summary>
 
-**D. Estrous cycle** — Source: Medicoholic 2016 PYQ compilation.
+**D. Estrous cycle** — **D. Estrous cycle** — Estrous cycle is the animal equivalent of the human menstrual cycle and cannot correlate with the human ovarian cycle; endometrial sampling, vaginal cytology, and blood hormone levels directly reflect ovarian function.
 
 </details>
 
@@ -22934,7 +22934,7 @@ During pregnancy, true statement about CVS is ?
 
 <details><summary>Answer</summary>
 
-**C. Increase in left ventricular end diastolic diameter** — Source: Medicoholic 2016 PYQ compilation.
+**C. Increase in left ventricular end diastolic diameter** — **C. Increase in left ventricular end diastolic diameter** — Pregnancy causes increased plasma volume and preload, leading to increased LVEDD (physiological cardiac dilatation); cardiac output increases and axis shifts left, not right.
 
 </details>
 
@@ -22952,7 +22952,7 @@ MC site of implantation is ?
 
 <details><summary>Answer</summary>
 
-**C. Fundus of uterus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Fundus of uterus** — **C. Fundus of uterus** — Normal implantation occurs most commonly on the posterior wall of the uterine fundus; implantation here is optimal for placental development and fetal growth.
 
 </details>
 
@@ -22970,7 +22970,7 @@ Placental hormone with highest carbohydrate content is -
 
 <details><summary>Answer</summary>
 
-**A. HCG** — Source: Medicoholic 2016 PYQ compilation.
+**A. HCG** — **A. HCG** — Human chorionic gonadotropin (hCG) has the highest carbohydrate content (~30%) among placental hormones, as a heavily glycosylated glycoprotein with alpha and beta subunits.
 
 </details>
 
@@ -22988,7 +22988,7 @@ Fetal thyroid gland is able to synthesize hormones by weeks of gestation ?
 
 <details><summary>Answer</summary>
 
-**C. 10-12** — Source: Medicoholic 2016 PYQ compilation.
+**C. 10-12** — **C. 10-12** — Fetal thyroid gland begins synthesizing thyroid hormones independently by 10-12 weeks gestation; before this, the fetus relies on maternal thyroid hormones crossing the placenta.
 
 </details>
 
@@ -23006,7 +23006,7 @@ Poor prognosis in first trimester USG is ?
 
 <details><summary>Answer</summary>
 
-**D. No cardiac activity at 8 weeks of gestation** — Source: Medicoholic 2016 PYQ compilation.
+**D. No cardiac activity at 8 weeks of gestation** — **D. No cardiac activity at 8 weeks of gestation** — Absence of fetal cardiac activity at ≥7-8 weeks (CRL ≥7mm) is definitive criterion for missed abortion; earlier absence (5-6 weeks) may be normal.
 
 </details>
 
@@ -23024,7 +23024,7 @@ Most conclusive clinical sign of pregnancy is ?
 
 <details><summary>Answer</summary>
 
-**D. Fetal heat sound auscultation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fetal heat sound auscultation** — **D. Fetal heat sound auscultation** — Auscultation of fetal heart sounds is the most conclusive clinical sign of pregnancy, as it confirms a living fetus; other signs are presumptive or probable only.
 
 </details>
 
@@ -23042,7 +23042,7 @@ Kamla, 30 years old, P2L2 with 3.2 x 4.1 cm fibroid uterus, complains of menorrh
 
 <details><summary>Answer</summary>
 
-**D. Uterine artery embolization** — Source: Medicoholic 2016 PYQ compilation.
+**D. Uterine artery embolization** — **D. Uterine artery embolization** — UAE is a minimally invasive, fertility-sparing, non-surgical option for symptomatic fibroids in women refusing surgery; occludes uterine blood supply causing fibroid infarction and shrinkage.
 
 </details>
 
@@ -23060,7 +23060,7 @@ Living ligature of the uterus is ?
 
 <details><summary>Answer</summary>
 
-**B. Middle layer of myometrium** — Source: Medicoholic 2016 PYQ compilation.
+**B. Middle layer of myometrium** — **B. Middle layer of myometrium** — The interlacing figure-of-8 smooth muscle fibres of the middle myometrial layer compress and occlude blood vessels after placental separation, acting as 'living ligatures' to control postpartum haemorrhage.
 
 </details>
 
@@ -23078,7 +23078,7 @@ In partograms recommended by 'WHO' the distance between the alert and action lin
 
 <details><summary>Answer</summary>
 
-**C. 4 hours** — Source: Medicoholic 2016 PYQ compilation.
+**C. 4 hours** — **C. 4 hours** — The WHO partogram places the action line 4 hours to the right of the alert line; labour crossing the action line mandates intervention, allowing adequate response time while preventing unnecessary early intervention.
 
 </details>
 
@@ -23096,7 +23096,7 @@ Diihrssen incision is taken on -
 
 <details><summary>Answer</summary>
 
-**C. Incompletely dilated cervix** — Source: Medicoholic 2016 PYQ compilation.
+**C. Incompletely dilated cervix** — **C. Incompletely dilated cervix** — Duhrssen's incisions are radial cuts (at 2, 6, and 10 o'clock) made on an incompletely dilated cervix in emergencies (e.g., obstructed labour with head trap after breech) to rapidly achieve full dilatation.
 
 </details>
 
@@ -23114,7 +23114,7 @@ A 27-year-old female with placenta previa had severe bleeding. What is the most 
 
 <details><summary>Answer</summary>
 
-**C. Absence of menstrual cycle** — Source: Medicoholic 2016 PYQ compilation.
+**C. Absence of menstrual cycle** — **C. Absence of menstrual cycle** — Severe postpartum haemorrhage (as from placenta praevia) causes ischaemic necrosis of the anterior pituitary (Sheehan's syndrome), leading to panhypopituitarism with amenorrhoea as the hallmark feature.
 
 </details>
 
@@ -23132,7 +23132,7 @@ Menometrorrhagia is ?
 
 <details><summary>Answer</summary>
 
-**C. Heavy & irregular bleeding** — Source: Medicoholic 2016 PYQ compilation.
+**C. Heavy & irregular bleeding** — **C. Heavy & irregular bleeding** — Menometrorrhagia combines menorrhagia (heavy flow) and metrorrhagia (irregular, intermenstrual bleeding), thus describing heavy uterine bleeding occurring at irregular, unpredictable intervals.
 
 </details>
 
@@ -23150,7 +23150,7 @@ The shortest conjugate is ?
 
 <details><summary>Answer</summary>
 
-**B. Obstetric conjugate** — Source: Medicoholic 2016 PYQ compilation.
+**B. Obstetric conjugate** — **B. Obstetric conjugate** — The obstetric conjugate (from sacral promontory to the most prominent point on the posterior surface of the pubic symphysis, ~10 cm) is the narrowest fixed AP diameter the fetal head must traverse; shorter than the anatomical true conjugate.
 
 </details>
 
@@ -23168,7 +23168,7 @@ With reference to fetal heart rate, a nonstress test is considered reactive when
 
 <details><summary>Answer</summary>
 
-**A. Two fetal heart rate accelerations are noted in 20 minutes** — Source: Medicoholic 2016 PYQ compilation.
+**A. Two fetal heart rate accelerations are noted in 20 minutes** — **A. Two fetal heart rate accelerations are noted in 20 minutes** — NST is reactive (reassuring) when ≥2 accelerations of ≥15 bpm lasting ≥15 seconds occur within 20 minutes, indicating intact fetal autonomic function and adequate oxygenation.
 
 </details>
 
@@ -23186,7 +23186,7 @@ Variable deceleration is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Cord compression** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cord compression** — **C. Cord compression** — Variable decelerations have an abrupt onset and variable timing/shape, caused by umbilical cord compression triggering a vagal reflex; they are the most common FHR deceleration pattern in labour.
 
 </details>
 
@@ -23204,7 +23204,7 @@ Modified BIOPHYSICAL PROFILE is ?
 
 <details><summary>Answer</summary>
 
-**C. NST + AFI** — Source: Medicoholic 2016 PYQ compilation.
+**C. NST + AFI** — **C. NST + AFI** — The modified BPP combines the NST (acute marker of fetal CNS/oxygenation status) and amniotic fluid index (chronic marker of uteroplacental function), providing rapid fetal surveillance with fewer parameters.
 
 </details>
 
@@ -23222,7 +23222,7 @@ If fetus is having hypoxia, which of the BPP parameter will be affected last ?
 
 <details><summary>Answer</summary>
 
-**A. Fetal tone** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fetal tone** — **A. Fetal tone** — In chronic fetal hypoxia, BPP parameters are lost in reverse order of phylogenetic development: NST first, then breathing movements, then gross movements, and fetal tone (earliest CNS function) is lost last.
 
 </details>
 
@@ -23240,7 +23240,7 @@ Test used to detect genetic abnormality in embryo,before transferring it to the 
 
 <details><summary>Answer</summary>
 
-**A. Embryo cell biopsy** — Source: Medicoholic 2016 PYQ compilation.
+**A. Embryo cell biopsy** — **A. Embryo cell biopsy** — Preimplantation genetic testing (PGT) involves biopsy of a single blastomere (day 3) or trophectoderm cells (day 5 blastocyst) to detect chromosomal or monogenic disorders before IVF embryo transfer.
 
 </details>
 
@@ -23258,7 +23258,7 @@ A primigravida with 36 weeks of pregnancy is in labor with 3 cm dilatation and m
 
 <details><summary>Answer</summary>
 
-**D. Vasa previa** — Source: Medicoholic 2016 PYQ compilation.
+**D. Vasa previa** — **D. Vasa previa** — Vasa praevia causes fresh painless bleeding at membrane rupture with immediate fetal bradycardia/late decelerations, because fetal vessels overlie the internal os and rupture with the membranes.
 
 </details>
 
@@ -23276,7 +23276,7 @@ All are components of Active Management of the Third Stage of Labor except ?
 
 <details><summary>Answer</summary>
 
-**B. Massage of uterus before control cord traction** — Source: Medicoholic 2016 PYQ compilation.
+**B. Massage of uterus before control cord traction** — **B. Massage of uterus before control cord traction** — AMTSL components are: uterotonic (oxytocin) within 1 min of birth, controlled cord traction, and uterine massage AFTER placental delivery; pre-delivery massage is NOT part of AMTSL.
 
 </details>
 
@@ -23294,7 +23294,7 @@ Ideal time to do Glucose challenge test in pregnancy is ?
 
 <details><summary>Answer</summary>
 
-**C. 24-28 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 24-28 weeks** — **C. 24-28 weeks** — The 50 g glucose challenge test (GCT) is performed at 24–28 weeks, when gestational insulin resistance is maximal; this window detects GDM before fetal macrosomia or complications develop.
 
 </details>
 
@@ -23312,7 +23312,7 @@ Folic acid required in first trimester of normal pregnancy -
 
 <details><summary>Answer</summary>
 
-**B. 400-500 microgram** — Source: Medicoholic 2016 PYQ compilation.
+**B. 400-500 microgram** — **B. 400-500 microgram** — Low-risk pregnancies require 400–500 mcg/day periconceptionally and through the first trimester for neural tube defect prevention; 4–5 mg is reserved for high-risk women (prior NTD, anti-epileptics, diabetes).
 
 </details>
 
@@ -23330,7 +23330,7 @@ Upper two -third anterior vaginal wall prolapse is ?
 
 <details><summary>Answer</summary>
 
-**A. Cystocele** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cystocele** — **A. Cystocele** — The upper two-thirds of the anterior vaginal wall is supported by the pubocervical fascia overlying the bladder base; weakness here allows the bladder to herniate, forming a cystocele.
 
 </details>
 
@@ -23348,7 +23348,7 @@ Cryptomenorrhea occurs in ?
 
 <details><summary>Answer</summary>
 
-**C. Imperforate hymen** — Source: Medicoholic 2016 PYQ compilation.
+**C. Imperforate hymen** — **C. Imperforate hymen** — Cryptomenorrhoea (concealed menstruation/haematocolpos) results from outflow obstruction; imperforate hymen is the classic cause, preventing menstrual blood from escaping and causing cyclic abdominal pain in adolescents.
 
 </details>
 
@@ -23366,7 +23366,7 @@ Best indicator for ovarian reserve is ?
 
 <details><summary>Answer</summary>
 
-**A. AMH** — Source: Medicoholic 2016 PYQ compilation.
+**A. AMH** — **A. AMH** — Anti-Müllerian hormone, produced by granulosa cells of small antral follicles, is the most reliable ovarian reserve marker; it is cycle-independent, does not fluctuate with menstrual phase, and reflects the primordial follicle pool accurately.
 
 </details>
 
@@ -23384,7 +23384,7 @@ Banana and lemon sign seen in which fetal nomalies :
 
 <details><summary>Answer</summary>
 
-**A. Neural tube defect** — Source: Medicoholic 2016 PYQ compilation.
+**A. Neural tube defect** — **A. Neural tube defect** — On USG in open spina bifida: the cerebellum is dragged into the foramen magnum producing a 'banana sign' (curved cerebellum), and frontal bone scalloping produces a 'lemon sign' due to Chiari II malformation.
 
 </details>
 
@@ -23402,7 +23402,7 @@ A 25 years old male is not happy with its gender and is always in distress due t
 
 <details><summary>Answer</summary>
 
-**C. Gender dysphoria** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gender dysphoria** — **C. Gender dysphoria** — Gender dysphoria (DSM-5) is a marked incongruence between experienced/expressed gender and assigned gender causing significant distress; the person desires to be of a different gender and seeks sex reassignment.
 
 </details>
 

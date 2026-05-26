@@ -1610,7 +1610,7 @@ Site of action of amphotericin B is
 
 <details><summary>Answer</summary>
 
-**B. Cell wall**
+**B. Cell wall** — **B. Cell wall** — Note: Amphotericin B binds ergosterol in the fungal cell membrane (not cell wall), creating pores that disrupt osmotic integrity; ergosterol is the fungal-specific target distinguishing it from mammalian cholesterol.
 
 </details>
 
@@ -1642,7 +1642,7 @@ Drug of choice for resistant rheumatic chorea
 
 <details><summary>Answer</summary>
 
-**A. Valproate**
+**A. Valproate** — **A. Valproate** — Sodium valproate is the drug of choice for Sydenham's chorea resistant to simple measures; it enhances GABA activity and reduces choreiform movements; carbamazepine and haloperidol are alternatives.
 
 </details>
 

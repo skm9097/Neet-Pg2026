@@ -2470,7 +2470,7 @@ The gaps between segments of DNA on the lagging strand produced by restriction e
 
 <details><summary>Answer</summary>
 
-**A. DNA Ligases** — Source: Medicoholic 2015 PYQ compilation.
+**A. DNA Ligases** — **A. DNA Ligases** — DNA ligase seals the phosphodiester bond gaps between Okazaki fragments on the lagging strand by catalysing nick ligation using NAD+ or ATP as cofactor.
 
 </details>
 
@@ -2488,7 +2488,7 @@ Which is not a chaperon protein -
 
 <details><summary>Answer</summary>
 
-**D. Calbindin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Calbindin** — **D. Calbindin** — Calbindin is a calcium-binding protein; calnexin, calreticulin, and protein disulfide isomerase are ER-resident chaperones assisting in glycoprotein folding and quality control.
 
 </details>
 
@@ -2506,7 +2506,7 @@ All are functions of glycosaminglycans except -
 
 <details><summary>Answer</summary>
 
-**D. Transport of lipids** — Source: Medicoholic 2015 PYQ compilation.
+**D. Transport of lipids** — **D. Transport of lipids** — Glycosaminoglycans (GAGs) function in lubrication (hyaluronic acid), wound healing (heparan sulfate), and anticoagulation (heparin); lipid transport is performed by lipoproteins, not GAGs.
 
 </details>
 
@@ -2524,7 +2524,7 @@ a-aminolevulinic acid is a metabolic product in synthesis of -
 
 <details><summary>Answer</summary>
 
-**D. Heme** — Source: Medicoholic 2015 PYQ compilation.
+**D. Heme** — **D. Heme** — δ-Aminolevulinic acid (ALA) is the first committed intermediate in heme biosynthesis, formed from succinyl-CoA and glycine by ALA synthase in mitochondria.
 
 </details>
 
@@ -2542,7 +2542,7 @@ Which is an inhibitor of ferrochelatase ?
 
 <details><summary>Answer</summary>
 
-**A. Lead** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lead** — **A. Lead** — Lead (Pb) inhibits ferrochelatase (the enzyme that inserts Fe²⁺ into protoporphyrin IX to form heme), causing accumulation of zinc protoporphyrin and producing microcytic anaemia.
 
 </details>
 
@@ -2560,7 +2560,7 @@ Bile acids consist of all except -
 
 <details><summary>Answer</summary>
 
-**B. Taurocholic acid** — Source: Medicoholic 2015 PYQ compilation.
+**B. Taurocholic acid** — **B. Taurocholic acid** — Taurocholic acid is a conjugated bile salt (bile acid + taurine), not a free bile acid; lithocholic, deoxycholic, and chenodeoxycholic acids are the primary free bile acids.
 
 </details>
 
@@ -2578,7 +2578,7 @@ True about cAMP and cGMP -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — cAMP and cGMP are second messengers that bind intracellular receptors, act via post-translational phosphorylation through PKA/PKG, and are generated downstream of membrane receptor activation.
 
 </details>
 
@@ -2596,7 +2596,7 @@ Spectroscopy is used for interaction of -
 
 <details><summary>Answer</summary>
 
-**A. Electromagnetic radiation** — Source: Medicoholic 2015 PYQ compilation.
+**A. Electromagnetic radiation** — **A. Electromagnetic radiation** — Spectroscopy studies the interaction of electromagnetic radiation (UV, visible, IR, NMR) with matter to determine molecular structure, concentration, and bonding characteristics.
 
 </details>
 
@@ -2614,7 +2614,7 @@ Abnormal proteins which are bound to ubiquitin are degraded in -
 
 <details><summary>Answer</summary>
 
-**A. Proteosomes** — Source: Medicoholic 2015 PYQ compilation.
+**A. Proteosomes** — **A. Proteosomes** — Poly-ubiquitinated abnormal proteins are recognised and degraded by the 26S proteasome (ATP-dependent multicatalytic protease complex) in the cytoplasm and nucleus.
 
 </details>
 
@@ -2632,7 +2632,7 @@ Enzyme degradation is caused by -
 
 <details><summary>Answer</summary>
 
-**A. Ubiquitin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ubiquitin** — **A. Ubiquitin** — Ubiquitin tags misfolded or damaged enzymes for proteolytic degradation via the 26S proteasome; multiple ubiquitin molecules form a poly-ubiquitin chain that serves as the degradation signal.
 
 </details>
 
@@ -2650,7 +2650,7 @@ G1cNAc-P-P- oligosacharride is -
 
 <details><summary>Answer</summary>
 
-**B. Glycoprotein** — Source: Medicoholic 2015 PYQ compilation.
+**B. Glycoprotein** — **B. Glycoprotein** — GlcNAc-P-P-dolichol (dolichol pyrophosphate-oligosaccharide) is the lipid-linked precursor used in N-linked glycosylation of glycoproteins in the ER.
 
 </details>
 
@@ -2668,7 +2668,7 @@ Prolyl hydroxylase require which cofactor -
 
 <details><summary>Answer</summary>
 
-**B. Vitamin C** — Source: Medicoholic 2015 PYQ compilation.
+**B. Vitamin C** — **B. Vitamin C** — Prolyl hydroxylase (and lysyl hydroxylase) require ascorbic acid (Vitamin C) as a cofactor to hydroxylate proline residues, essential for stable triple-helix collagen formation; deficiency causes scurvy.
 
 </details>
 
@@ -2686,7 +2686,7 @@ Which of following is not a free radical -
 
 <details><summary>Answer</summary>
 
-**D. HOC1-** — Source: Medicoholic 2015 PYQ compilation.
+**D. HOC1-** — **D. HOCl⁻** — Hypochlorite (HOCl) is a reactive oxygen species but not a free radical as it has no unpaired electrons; H₂O₂ and superoxide anion are also ROS, but only superoxide is a true radical.
 
 </details>
 
@@ -2704,7 +2704,7 @@ Not an irreversible injury-
 
 <details><summary>Answer</summary>
 
-**D. Bleb formation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Bleb formation** — **D. Bleb formation** — Cell membrane blebbing is a reversible early injury change; pyknosis (nuclear condensation), karyorrhexis (nuclear fragmentation), and karyolysis (nuclear dissolution) all indicate irreversible cell death.
 
 </details>
 
@@ -2722,7 +2722,7 @@ Hypertrophy is -
 
 <details><summary>Answer</summary>
 
-**B. Increase in cell size** — Source: Medicoholic 2015 PYQ compilation.
+**B. Increase in cell size** — **B. Increase in cell size** — Hypertrophy is an increase in cell size (not number) due to increased synthesis of structural proteins, seen in cardiac muscle and skeletal muscle under increased workload.
 
 </details>
 
@@ -2740,7 +2740,7 @@ Hyaline degeneration is found in -
 
 <details><summary>Answer</summary>
 
-**C. Yellow fever hepatitis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Yellow fever hepatitis** — **C. Yellow fever hepatitis** — Yellow fever causes Councilman (acidophil) bodies representing hyaline degeneration of hepatocytes from apoptosis; Mallory bodies (alcoholic hepatitis) and Lewy bodies (Parkinson's) are other hyaline examples.
 
 </details>
 
@@ -2758,7 +2758,7 @@ In cell death, myelin figures, are derived from-
 
 <details><summary>Answer</summary>
 
-**B. Cell membrane** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cell membrane** — **B. Cell membrane** — Myelin figures (phospholipid whorls) seen in injured cells are derived from damaged cell membranes and organelle membranes undergoing phospholipid rearrangement during cell injury.
 
 </details>
 
@@ -2776,7 +2776,7 @@ Antiapoptotic gene
 
 <details><summary>Answer</summary>
 
-**A. FLIP** — Source: Medicoholic 2015 PYQ compilation.
+**A. FLIP** — **A. FLIP** — FLIP (FLICE-inhibitory protein) is an anti-apoptotic protein that inhibits caspase-8 activation at the DISC; p53, BAX, and BIM are all pro-apoptotic molecules.
 
 </details>
 
@@ -2794,7 +2794,7 @@ Not a apoptotic gene
 
 <details><summary>Answer</summary>
 
-**D. n-myc** — Source: Medicoholic 2015 PYQ compilation.
+**D. n-myc** — **D. n-myc** — N-MYC is an oncogene (proto-oncogene) involved in cell proliferation, not apoptosis; p53 triggers apoptosis, BAX promotes mitochondrial cytochrome c release, and MCL-1 is anti-apoptotic (BCL-2 family).
 
 </details>
 
@@ -2812,7 +2812,7 @@ Fat necrosis is common in -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Fat necrosis due to enzymatic lipolysis (lipase release from pancreas or trauma) commonly affects the omentum, breast, and retroperitoneal adipose tissue, producing saponification with calcium soaps.
 
 </details>
 
@@ -2830,7 +2830,7 @@ Liquefactive necrosis is seen in:
 
 <details><summary>Answer</summary>
 
-**B. Brain** — Source: Medicoholic 2015 PYQ compilation.
+**B. Brain** — **B. Brain** — Liquefactive necrosis occurs in the brain because of its high lipid content and abundant hydrolytic enzymes from microglia; the tissue dissolves into liquid, unlike other organs that undergo coagulative necrosis.
 
 </details>
 
@@ -2848,7 +2848,7 @@ Diabetic foot is associated with following type of gangrene -
 
 <details><summary>Answer</summary>
 
-**B. Wet gangrene** — Source: Medicoholic 2015 PYQ compilation.
+**B. Wet gangrene** — **B. Wet gangrene** — Diabetic foot develops wet gangrene because superimposed bacterial infection on ischaemic tissue causes putrefaction with oedema, foul odour, and tissue liquefaction due to impaired immunity.
 
 </details>
 
@@ -2866,7 +2866,7 @@ Unfolded protein metabolism is associated with
 
 <details><summary>Answer</summary>
 
-**A. Endoplasmic reticulum** — Source: Medicoholic 2015 PYQ compilation.
+**A. Endoplasmic reticulum** — **A. Endoplasmic reticulum** — The unfolded protein response (UPR) is triggered in the ER when misfolded proteins accumulate; sensors IRE1, PERK, and ATF6 activate chaperone induction and reduce protein synthesis.
 
 </details>
 
@@ -2884,7 +2884,7 @@ Most reactive free radical is:
 
 <details><summary>Answer</summary>
 
-**C. Hydroxyl** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hydroxyl** — **C. Hydroxyl** — The hydroxyl radical (•OH) is the most reactive and damaging free radical in biology; it attacks DNA, proteins, and lipids indiscriminately and has no enzymatic scavenging system.
 
 </details>
 
@@ -2902,7 +2902,7 @@ Rolling of leucocytes on endothelial cells is mediated by
 
 <details><summary>Answer</summary>
 
-**D. P- selectin** — Source: Medicoholic 2015 PYQ compilation.
+**D. P- selectin** — **D. P-selectin** — P-selectin (stored in Weibel-Palade bodies, rapidly expressed on activated endothelium) mediates the initial tethering and rolling of leucocytes via interaction with PSGL-1 on leucocytes.
 
 </details>
 
@@ -2920,7 +2920,7 @@ Perioperative shock is an example of
 
 <details><summary>Answer</summary>
 
-**A. Hypovolemic shock** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypovolemic shock** — **A. Hypovolemic shock** — Perioperative shock results from blood/fluid loss during surgery, reducing circulating volume and causing decreased venous return, cardiac output, and tissue perfusion — classic hypovolaemic shock.
 
 </details>
 
@@ -2938,7 +2938,7 @@ Substance playing a role in tumor metastasis cascade is
 
 <details><summary>Answer</summary>
 
-**A. Collagenase IV** — Source: Medicoholic 2015 PYQ compilation.
+**A. Collagenase IV** — **A. Collagenase IV** — Type IV collagenase (MMP-2/MMP-9) degrades basement membrane collagen IV, enabling tumour cell invasion into surrounding stroma and lymphovascular channels, facilitating metastasis.
 
 </details>
 
@@ -2956,7 +2956,7 @@ Which of the following is not a part of ECM ?
 
 <details><summary>Answer</summary>
 
-**A. Lectin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lectin** — **A. Lectin** — Lectin is a carbohydrate-binding protein, not an ECM structural component; fibronectin, laminin, and proteoglycans are integral ECM components forming the extracellular scaffold.
 
 </details>
 
@@ -2974,7 +2974,7 @@ Chemotaxis is mediated by-
 
 <details><summary>Answer</summary>
 
-**B. Leukotriene B4 and C5a** — Source: Medicoholic 2015 PYQ compilation.
+**B. Leukotriene B4 and C5a** — **B. Leukotriene B4 and C5a** — LTB4 (from arachidonic acid via 5-lipoxygenase) and complement fragment C5a are potent chemotactic agents directing neutrophil migration toward sites of inflammation.
 
 </details>
 
@@ -2992,7 +2992,7 @@ Interleukin 2 is produced by
 
 <details><summary>Answer</summary>
 
-**A. T helper cells 1** — Source: Medicoholic 2015 PYQ compilation.
+**A. T helper cells 1** — **A. T helper cells 1** — IL-2 is produced predominantly by Th1 cells and acts as an autocrine growth factor for T-cell proliferation and clonal expansion; it also activates NK cells and cytotoxic T lymphocytes.
 
 </details>
 
@@ -3010,7 +3010,7 @@ IFN-gamma is produced by
 
 <details><summary>Answer</summary>
 
-**C. T - cells** — Source: Medicoholic 2015 PYQ compilation.
+**C. T - cells** — **C. T-cells** — IFN-γ is produced mainly by activated CD4+ Th1 cells and CD8+ cytotoxic T cells (and NK cells); it is the principal macrophage-activating cytokine driving cell-mediated immunity.
 
 </details>
 
@@ -3028,7 +3028,7 @@ Extremities are warm in which type of shock
 
 <details><summary>Answer</summary>
 
-**B. Neurogenic shock** — Source: Medicoholic 2015 PYQ compilation.
+**B. Neurogenic shock** — **B. Neurogenic shock** — In neurogenic shock, loss of sympathetic vascular tone causes peripheral vasodilation and warm, pink extremities; distributive shock (unlike hypovolaemic/cardiogenic) presents with warm skin.
 
 </details>
 
@@ -3046,7 +3046,7 @@ Following injection of lymphokines, the same class of immunoglobulin are produce
 
 <details><summary>Answer</summary>
 
-**B. Clonal selection** — Source: Medicoholic 2015 PYQ compilation.
+**B. Clonal selection** — **B. Clonal selection** — When lymphokines are injected, B cells of the same pre-existing clone are selectively stimulated to proliferate and produce the same immunoglobulin class, demonstrating clonal selection theory.
 
 </details>
 
@@ -3064,7 +3064,7 @@ B cells are located in which region of lymph nodes
 
 <details><summary>Answer</summary>
 
-**B. Cortical follicles** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cortical follicles** — **B. Cortical follicles** — B cells reside in the primary and secondary follicles of the cortex of lymph nodes; T cells occupy the paracortical (deep cortical) region between follicles and medulla.
 
 </details>
 
@@ -3082,7 +3082,7 @@ Number of criteria for HLA matching are
 
 <details><summary>Answer</summary>
 
-**A. 10** — Source: Medicoholic 2015 PYQ compilation.
+**A. 10** — **A. 10** — HLA matching for transplantation evaluates 10 alleles across 5 key loci (HLA-A, B, C, DR, DQ), with two alleles per locus; a 10/10 match represents full compatibility.
 
 </details>
 
@@ -3100,7 +3100,7 @@ Organ with least chance of rejection
 
 <details><summary>Answer</summary>
 
-**D. Liver** — Source: Medicoholic 2015 PYQ compilation.
+**D. Liver** — **D. Liver** — The liver is the most immunologically tolerant solid organ; it expresses low MHC antigens on hepatocytes, produces immunosuppressive cytokines, and has unique vascular architecture, making rejection less frequent.
 
 </details>
 
@@ -3118,7 +3118,7 @@ Mc type of graft rejection is
 
 <details><summary>Answer</summary>
 
-**C. Chronic** — Source: Medicoholic 2015 PYQ compilation.
+**C. Chronic** — **C. Chronic** — Chronic rejection is the most common cause of late graft failure; it results from cumulative immune-mediated endothelial injury causing progressive fibrosis and vasculopathy over months to years.
 
 </details>
 
@@ -3136,7 +3136,7 @@ Most lethal combination is
 
 <details><summary>Answer</summary>
 
-**A. Autosomal monosomy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Autosomal monosomy** — **A. Autosomal monosomy** — Autosomal monosomy (loss of one autosome) is nearly always lethal in utero due to haploinsufficiency of critical housekeeping genes; sex chromosome monosomy (45,X) is the only viable monosomy.
 
 </details>
 
@@ -3154,7 +3154,7 @@ Chromosomal instability syndrome is
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Fanconi anaemia, Ataxia-Telangiectasia, and Bloom syndrome are all chromosomal instability syndromes caused by defective DNA repair genes, predisposing to haematologic and solid malignancies.
 
 </details>
 
@@ -3172,7 +3172,7 @@ Structure of chromosomes is studied by?
 
 <details><summary>Answer</summary>
 
-**B. G-banding** — Source: Medicoholic 2015 PYQ compilation.
+**B. G-banding** — **B. G-banding** — G-banding (Giemsa staining after trypsin treatment) produces characteristic light and dark bands for each chromosome, enabling identification of chromosome structure, morphology, and numerical abnormalities.
 
 </details>
 
@@ -3190,7 +3190,7 @@ Location of gene on chromosome is identified by
 
 <details><summary>Answer</summary>
 
-**B. Genetic mapping** — Source: Medicoholic 2015 PYQ compilation.
+**B. Genetic mapping** — **B. Genetic mapping** — Genetic mapping (linkage analysis, FISH, or physical mapping) determines the precise chromosomal location of a gene; karyotyping identifies gross chromosome number and structure abnormalities.
 
 </details>
 
@@ -3208,7 +3208,7 @@ Tyrosine kinase receptor is associated with proto¬oncogene -
 
 <details><summary>Answer</summary>
 
-**C. RET** — Source: Medicoholic 2015 PYQ compilation.
+**C. RET** — **C. RET** — RET proto-oncogene encodes a receptor tyrosine kinase; gain-of-function mutations cause MEN2A and MEN2B (medullary thyroid carcinoma); RAS is a GTPase and MYC is a transcription factor.
 
 </details>
 
@@ -3226,7 +3226,7 @@ Which is not a tumor suppressor gene ?
 
 <details><summary>Answer</summary>
 
-**D. RAS** — Source: Medicoholic 2015 PYQ compilation.
+**D. RAS** — **D. RAS** — RAS is a proto-oncogene (GTPase signalling protein); when mutated it becomes an oncogene driving proliferation; WT-1, RB, and p53 are all classic tumour suppressor genes.
 
 </details>
 
@@ -3244,7 +3244,7 @@ Which of the following has tumor promoting effect?
 
 <details><summary>Answer</summary>
 
-**C. MYC** — Source: Medicoholic 2015 PYQ compilation.
+**C. MYC** — **C. MYC** — MYC is a proto-oncogene and transcription factor that promotes cell cycle entry, ribosome biogenesis, and metabolism; overexpression or amplification drives tumour promotion in lymphoma, neuroblastoma, and others.
 
 </details>
 
@@ -3262,7 +3262,7 @@ Hematological carcinoma is commonly linked to
 
 <details><summary>Answer</summary>
 
-**B. Benzene** — Source: Medicoholic 2015 PYQ compilation.
+**B. Benzene** — **B. Benzene** — Chronic benzene exposure is the classic occupational carcinogen linked to aplastic anaemia and acute myeloid leukaemia (AML); benzene is metabolised to reactive quinone intermediates that damage bone marrow DNA.
 
 </details>
 
@@ -3280,7 +3280,7 @@ Major contribution to cachexia with advanced cancer?
 
 <details><summary>Answer</summary>
 
-**D. Tumor-necrosis-factor (TNF)** — Source: Medicoholic 2015 PYQ compilation.
+**D. Tumor-necrosis-factor (TNF)** — **D. Tumor-necrosis-factor (TNF)** — TNF-α (cachectin) is the principal mediator of cancer cachexia; it suppresses lipoprotein lipase, promotes lipolysis, induces muscle proteolysis, and causes anorexia via hypothalamic action.
 
 </details>
 
@@ -3298,7 +3298,7 @@ Level of which of the following is not elevated in heart disease
 
 <details><summary>Answer</summary>
 
-**B. 5-nucleotidase** — Source: Medicoholic 2015 PYQ compilation.
+**B. 5-nucleotidase** — **B. 5-nucleotidase** — 5'-Nucleotidase is a hepatic enzyme elevated in liver/biliary disease; LDH, SGOT (AST), and ALP can rise in myocardial infarction, but 5'-nucleotidase is not cardiac-specific.
 
 </details>
 
@@ -3316,7 +3316,7 @@ Which protein is defective in dialated cardiomyopathy?
 
 <details><summary>Answer</summary>
 
-**D. Dystrophin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Dystrophin** — **D. Dystrophin** — Mutations in dystrophin (X-linked, Xp21) cause Duchenne and Becker muscular dystrophy and dilated cardiomyopathy; dystrophin links the intracellular cytoskeleton to the extracellular matrix in muscle cells.
 
 </details>
 
@@ -3334,7 +3334,7 @@ Lines of Zahn are seen in -
 
 <details><summary>Answer</summary>
 
-**A. Heart** — Source: Medicoholic 2015 PYQ compilation.
+**A. Heart** — **A. Heart** — Lines of Zahn are alternating pale (platelet-fibrin) and dark (RBC) layers seen in ante-mortem thrombi, most classically in cardiac thrombi and large vessel thrombi, distinguishing them from post-mortem clots.
 
 </details>
 
@@ -3352,7 +3352,7 @@ Concentric hypertrophy of left ventricle is seen in -
 
 <details><summary>Answer</summary>
 
-**A. Cong. bicuspid aortic valve** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cong. bicuspid aortic valve** — **A. Congenital bicuspid aortic valve** — Bicuspid aortic valve leads to aortic stenosis causing chronic pressure overload, driving concentric LV hypertrophy (parallel sarcomere addition, increased wall thickness without chamber dilation).
 
 </details>
 
@@ -3370,7 +3370,7 @@ Which type of artery is most commonly involved in PAN?
 
 <details><summary>Answer</summary>
 
-**A. Muscular** — Source: Medicoholic 2015 PYQ compilation.
+**A. Muscular** — **A. Muscular** — Polyarteritis nodosa (PAN) predominantly affects medium-sized muscular arteries (renal, hepatic, mesenteric, coronary); it spares pulmonary vessels and the aorta, distinguishing it from other vasculitides.
 
 </details>
 
@@ -3388,7 +3388,7 @@ Amount of blood loss in Stage I of hemorrhagic shock is -
 
 <details><summary>Answer</summary>
 
-**B. <20%** — Source: Medicoholic 2015 PYQ compilation.
+**B. <20%** — **B. <20%** — Stage I (Class I/II) hemorrhagic shock involves up to 15–20% blood loss (<1000 mL); compensatory mechanisms maintain blood pressure and mental status with mild tachycardia.
 
 </details>
 
@@ -3406,7 +3406,7 @@ Normal Myeloid - erythroid ratio is -
 
 <details><summary>Answer</summary>
 
-**C. 3:l** — Source: Medicoholic 2015 PYQ compilation.
+**C. 3:l** — **C. 3:1** — Normal bone marrow myeloid:erythroid (M:E) ratio is 3:1 (range 2:1–4:1); this ratio shifts in haematological disorders — e.g., erythroid hyperplasia (anaemia) decreases it, myeloproliferative disorders increase it.
 
 </details>
 
@@ -3424,7 +3424,7 @@ Distinguishing feature of reticulocyte is -
 
 <details><summary>Answer</summary>
 
-**B. No nucleus** — Source: Medicoholic 2015 PYQ compilation.
+**B. No nucleus** — **B. No nucleus** — Reticulocytes are anucleate immature red cells that still contain residual ribosomal RNA (stained by brilliant cresyl blue); they constitute 0.5–2% of circulating RBCs in normal adults.
 
 </details>
 
@@ -3442,7 +3442,7 @@ True about anthrax toxin are all except:
 
 <details><summary>Answer</summary>
 
-**D. Inhibits protein synthesis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Inhibits protein synthesis** — **D. Inhibits protein synthesis** — Anthrax toxin does NOT inhibit protein synthesis; it has three components (PA, EF, LF), is plasmid-encoded, and EF (oedema factor) increases cAMP; LF is a metalloprotease.
 
 </details>
 
@@ -3460,7 +3460,7 @@ Which of the following Vitamin deficiency is seen in short bowel syndrome with i
 
 <details><summary>Answer</summary>
 
-**B. Vitamin B 12** — Source: Medicoholic 2015 PYQ compilation.
+**B. Vitamin B 12** — **B. Vitamin B12** — Vitamin B12 is exclusively absorbed in the terminal ileum via intrinsic factor-receptor complex (cubam receptor); ileal resection abolishes this absorption site, causing B12 deficiency and megaloblastic anaemia.
 
 </details>
 
@@ -3478,7 +3478,7 @@ Therepeutic phlebotomy is not done in which of the following conditions ?
 
 <details><summary>Answer</summary>
 
-**A. CML** — Source: Medicoholic 2015 PYQ compilation.
+**A. CML** — **A. CML** — Therapeutic phlebotomy is not indicated in CML (treated with imatinib/TKIs); it IS used in polycythaemia vera (reduce RBC mass), haemochromatosis (remove iron), and porphyria cutanea tarda (reduce iron overload).
 
 </details>
 
@@ -3499,7 +3499,7 @@ used in citric acid cycle are all except-
 
 <details><summary>Answer</summary>
 
-**C. NADP** — Source: Medicoholic 2016 PYQ compilation.
+**C. NADP** — **C. NADP** — The TCA cycle uses NAD⁺ (at isocitrate, α-ketoglutarate, and malate dehydrogenase steps), FAD (at succinate dehydrogenase), and GDP (at succinyl-CoA synthetase); NADP⁺ is used in the HMP shunt, not TCA.
 
 </details>
 
@@ -3519,7 +3519,7 @@ All of the following steps act as sources of energy in citric acid cycle except 
 
 <details><summary>Answer</summary>
 
-**A. Citrate synthase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Citrate synthase** — **A. Citrate synthase** — Citrate synthase catalyses the condensation of acetyl-CoA with oxaloacetate to form citrate; this step consumes energy (cleaves the thioester bond) rather than generating ATP, NADH, or FADH₂.
 
 </details>
 
@@ -3539,7 +3539,7 @@ All of the following are true about lactate utilisation in liver except -
 
 <details><summary>Answer</summary>
 
-**A. Total net number of ATP formed because of cori's cycle is** — Source: Medicoholic 2016 PYQ compilation.
+**A. Total net number of ATP formed because of cori's cycle is** — **A. Total net number of ATP formed because of Cori's cycle is zero** — The Cori cycle has a net negative ATP balance (muscle produces 2 ATP from glucose via glycolysis; liver consumes 6 ATP to regenerate glucose via gluconeogenesis).
 
 </details>
 
@@ -4159,7 +4159,7 @@ Carbamoyl phosphate synthetase I is:
 
 <details><summary>Answer</summary>
 
-**C. Mitochondrial enzyme** — Source: Medicoholic 2016 PYQ compilation.
+**C. Mitochondrial enzyme** — **C. Mitochondrial enzyme** — Carbamoyl phosphate synthetase I (CPS-I) is located in the mitochondrial matrix, initiating the urea cycle; CPS-II (pyrimidine synthesis) is cytosolic.
 
 </details>
 
@@ -4179,7 +4179,7 @@ All of the following can determine protein structure except
 
 <details><summary>Answer</summary>
 
-**D. Spectrophotometry** — Source: Medicoholic 2016 PYQ compilation.
+**D. Spectrophotometry** — **D. Spectrophotometry** — Spectrophotometry measures absorbance/concentration, not 3D structural conformation; Edman sequencing, X-ray crystallography, and optical rotatory dispersion all yield structural information.
 
 </details>
 
@@ -4199,7 +4199,7 @@ Most abundant aminoacid in brain is
 
 <details><summary>Answer</summary>
 
-**A. Glutamate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glutamate** — **A. Glutamate** — Glutamate is the most abundant amino acid in brain tissue and serves as the principal excitatory neurotransmitter; it is also the precursor to GABA and glutamine.
 
 </details>
 
@@ -4219,7 +4219,7 @@ Vitamin given in homocysteinuria are all except
 
 <details><summary>Answer</summary>
 
-**D. Thiamine** — Source: Medicoholic 2016 PYQ compilation.
+**D. Thiamine** — **D. Thiamine** — Homocystinuria is treated with pyridoxine (B6, cofactor for cystathionine synthase), B12, and folate (remethylation pathway); thiamine plays no role in homocysteine metabolism.
 
 </details>
 
@@ -4239,7 +4239,7 @@ Glutathione is used to detoxify which free radical?
 
 <details><summary>Answer</summary>
 
-**A. Hydrogen peroxide** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hydrogen peroxide** — **A. Hydrogen peroxide** — Glutathione peroxidase uses reduced glutathione (GSH) to reduce H₂O₂ to water, oxidising GSH to GSSG; GSSG is then regenerated by glutathione reductase using NADPH.
 
 </details>
 
@@ -4259,7 +4259,7 @@ Match enzyme with the disease caused due to its deficiency - Enzyme Disease A. T
 
 <details><summary>Answer</summary>
 
-**D. l→ C, 2→ A, 3→ D, 4→ B** — Source: Medicoholic 2016 PYQ compilation.
+**D. l→ C, 2→ A, 3→ D, 4→ B** — **D. l→C, 2→A, 3→D, 4→B** — Tyrosinase deficiency causes albinism; fumarylacetoacetase deficiency causes tyrosinemia type I; 4-hydroxyphenylpyruvate dioxygenase deficiency causes tyrosinemia type III; homogentisate oxidase deficiency causes alkaptonuria.
 
 </details>
 
@@ -4279,7 +4279,7 @@ Which of the following has two amino groups-
 
 <details><summary>Answer</summary>
 
-**B. Arginine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Arginine** — **B. Arginine** — Arginine has two amino groups: the α-amino group and the guanidinium group on the side chain; it is the most basic amino acid and serves as the substrate for nitric oxide synthase.
 
 </details>
 
@@ -4299,7 +4299,7 @@ Alternate fuel for brain is
 
 <details><summary>Answer</summary>
 
-**B. Ketone bodies** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ketone bodies** — **B. Ketone bodies** — During prolonged fasting, the brain shifts to utilising ketone bodies (acetoacetate, β-hydroxybutyrate) produced by hepatic fatty acid β-oxidation; fatty acids themselves cannot cross the blood–brain barrier.
 
 </details>
 
@@ -4319,7 +4319,7 @@ Pyruvate can be a substrate of all except
 
 <details><summary>Answer</summary>
 
-**C. Aspartate transaminase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Aspartate transaminase** — **C. Aspartate transaminase** — Aspartate transaminase (AST) catalyses interconversion of oxaloacetate and aspartate; its substrates are oxaloacetate and glutamate, not pyruvate directly.
 
 </details>
 
@@ -4339,7 +4339,7 @@ Which vitamin is required for conversion of serine to glycine?
 
 <details><summary>Answer</summary>
 
-**C. Pyridoxine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Pyridoxine** — **C. Pyridoxine** — Pyridoxal phosphate (PLP, active form of B6) is the cofactor for serine hydroxymethyltransferase, which transfers the hydroxymethyl group from serine to tetrahydrofolate, yielding glycine.
 
 </details>
 
@@ -4359,7 +4359,7 @@ Headache and papilledema are features of toxicity of which vitamin?
 
 <details><summary>Answer</summary>
 
-**A. Vitamin A** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vitamin A** — **A. Vitamin A** — Hypervitaminosis A causes pseudotumour cerebri (raised intracranial pressure), manifesting as headache and papilledema; it also causes hepatotoxicity, skin desquamation, and teratogenicity.
 
 </details>
 
@@ -4379,7 +4379,7 @@ Which of the following is teratogenic:
 
 <details><summary>Answer</summary>
 
-**C. Vitamin A** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vitamin A** — **C. Vitamin A** — Excess retinoic acid (active form of vitamin A) is potently teratogenic, causing craniofacial, cardiac, and neural crest abnormalities by disrupting HOX gene expression during organogenesis.
 
 </details>
 
@@ -4399,7 +4399,7 @@ Alcoholism leads to deficiency of which vitamin ?
 
 <details><summary>Answer</summary>
 
-**B. Vitamin B1** — Source: Medicoholic 2016 PYQ compilation.
+**B. Vitamin B1** — **B. Vitamin B1** — Chronic alcohol use impairs thiamine (B1) absorption, storage, and phosphorylation; deficiency causes Wernicke's encephalopathy and Korsakoff psychosis due to failure of TPP-dependent enzymes.
 
 </details>
 
@@ -4419,7 +4419,7 @@ Vitamin B12 is required for all of the following except ?
 
 <details><summary>Answer</summary>
 
-**B. Conversion of homocysteine to cysteine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Conversion of homocysteine to cysteine** — **B. Conversion of homocysteine to cysteine** — This transsulfuration reaction requires pyridoxal phosphate (B6) via cystathionine synthase; B12 is required for remethylation of homocysteine to methionine and conversion of methylmalonyl CoA to succinyl CoA.
 
 </details>
 
@@ -4439,7 +4439,7 @@ Which of the following vitamins is significantly synthesised in gut by intestina
 
 <details><summary>Answer</summary>
 
-**D. B6** — Source: Medicoholic 2016 PYQ compilation.
+**D. B6** — **D. B6** — Intestinal bacteria significantly synthesise pyridoxine (B6); biotin is also produced but B6 is the classical textbook answer; B12 gut synthesis is inadequate for absorption in the terminal ileum.
 
 </details>
 
@@ -4459,7 +4459,7 @@ Which of the following elements is known to influence the body's ability to hand
 
 <details><summary>Answer</summary>
 
-**D. Selenium** — Source: Medicoholic 2016 PYQ compilation.
+**D. Selenium** — **D. Selenium** — Selenium is an essential component of glutathione peroxidase (as selenocysteine at the active site), the key enzyme neutralising reactive oxygen species and protecting cells from oxidative damage.
 
 </details>
 
@@ -4479,7 +4479,7 @@ Vitamin B12 deficiency causes all except ?
 
 <details><summary>Answer</summary>
 
-**D. Epinephrine excess** — Source: Medicoholic 2016 PYQ compilation.
+**D. Epinephrine excess** — **D. Epinephrine excess** — B12 deficiency causes homocysteinuria, methylmalonic aciduria, and subacute combined degeneration of spinal cord; epinephrine metabolism involves COMT (requiring SAM) but excess is not a recognised B12-deficiency feature.
 
 </details>
 
@@ -4499,7 +4499,7 @@ Richest source of vitamin B12 ?
 
 <details><summary>Answer</summary>
 
-**A. Meat** — Source: Medicoholic 2016 PYQ compilation.
+**A. Meat** — **A. Meat** — Vitamin B12 (cobalamin) is found exclusively in animal products; meat (especially liver) is the richest dietary source; plant foods contain no B12, making strict vegetarians at risk of deficiency.
 
 </details>
 
@@ -4519,7 +4519,7 @@ Antistress Vitamin is?
 
 <details><summary>Answer</summary>
 
-**D. Vitamin B5** — Source: Medicoholic 2016 PYQ compilation.
+**D. Vitamin B5** — **D. Vitamin B5** — Pantothenic acid (B5) is called the antistress vitamin because it is essential for coenzyme A synthesis, which drives adrenocortical steroid hormone production needed during stress responses.
 
 </details>
 
@@ -4539,7 +4539,7 @@ True about Purine synthesis ?
 
 <details><summary>Answer</summary>
 
-**A. Glutamine is the amino group donor for N9** — Source: Medicoholic 2016 PYQ compilation.
+**A. Glutamine is the amino group donor for N9** — **A. Glutamine is the amino group donor for N9** — In de novo purine synthesis, glutamine donates the amino group for positions N3, N9; PRPP provides the ribose backbone; THFA donates C2 and C8 carbons.
 
 </details>
 
@@ -4559,7 +4559,7 @@ True about pyrimidine catabolism is ?
 
 <details><summary>Answer</summary>
 
-**B. β aminoisobutyrate is generated** — Source: Medicoholic 2016 PYQ compilation.
+**B. β aminoisobutyrate is generated** — **B. β-aminoisobutyrate is generated** — Thymine catabolism yields β-aminoisobutyrate, which is excreted in urine; pyrimidine catabolism does not produce uric acid (that is exclusive to purine degradation).
 
 </details>
 
@@ -4579,7 +4579,7 @@ The linkage which links individual nucleotides in a polynucleotide chain is -
 
 <details><summary>Answer</summary>
 
-**C. 3'5' Phosphodiester linkage** — Source: Medicoholic 2016 PYQ compilation.
+**C. 3'5' Phosphodiester linkage** — **C. 3'5' Phosphodiester linkage** — Each nucleotide in a polynucleotide chain is joined by a phosphodiester bond between the 3'-OH of one sugar and the 5'-phosphate of the next, creating a 3'→5' backbone directionality.
 
 </details>
 
@@ -4599,7 +4599,7 @@ Bond formation between ribose sugar and nitrogen is ?
 
 <details><summary>Answer</summary>
 
-**D. Glycosidic linkage** — Source: Medicoholic 2016 PYQ compilation.
+**D. Glycosidic linkage** — **D. Glycosidic linkage** — The N-glycosidic bond connects the anomeric carbon (C1') of ribose (or deoxyribose) to nitrogen N1 of pyrimidines or N9 of purines, forming the nucleoside.
 
 </details>
 
@@ -4619,7 +4619,7 @@ Ataxia telangiectasia is caused by a defect of ?
 
 <details><summary>Answer</summary>
 
-**D. ds DNA break repair** — Source: Medicoholic 2016 PYQ compilation.
+**D. ds DNA break repair** — **D. ds DNA break repair** — Ataxia-telangiectasia results from mutation in ATM kinase, which senses and signals repair of double-strand DNA breaks; defect causes cerebellar ataxia, telangiectasias, immunodeficiency, and increased cancer risk.
 
 </details>
 
@@ -4639,7 +4639,7 @@ Molecular mimicry is established in the presence of ?
 
 <details><summary>Answer</summary>
 
-**A. Cysteine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cysteine** — **A. Cysteine** — Molecular mimicry in biochemistry refers to isosteric mimicry; cysteine's thiol group mimics serine's hydroxyl group structurally, enabling substitution at active sites and forming the basis of mechanism-based inhibitors.
 
 </details>
 
@@ -4659,7 +4659,7 @@ DNA fragments are separated by ?
 
 <details><summary>Answer</summary>
 
-**B. Agarose gel electrophoresis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Agarose gel electrophoresis** — **B. Agarose gel electrophoresis** — Negatively charged DNA fragments migrate through agarose gel under electric current; smaller fragments travel faster, separating DNA by size for analysis, restriction mapping, or Southern blotting.
 
 </details>
 
@@ -4679,7 +4679,7 @@ Left handed helix is seen in -
 
 <details><summary>Answer</summary>
 
-**C. Z DNA** — Source: Medicoholic 2016 PYQ compilation.
+**C. Z DNA** — **C. Z DNA** — Z-DNA has a left-handed double helix with a zigzag backbone arising from alternating syn-anti base conformations, typically found in GC-rich sequences under high salt or superhelical stress conditions.
 
 </details>
 
@@ -4699,7 +4699,7 @@ Aminoacyl tRNA gets attached to which site of ribosome?
 
 <details><summary>Answer</summary>
 
-**B. A site of 60s ribosome** — Source: Medicoholic 2016 PYQ compilation.
+**B. A site of 60s ribosome** — **B. A site of 60s ribosome** — The aminoacyl-tRNA (carrying the incoming amino acid) enters the acceptor (A) site of the large 60S (eukaryotic) subunit during elongation of translation.
 
 </details>
 
@@ -4719,7 +4719,7 @@ Okazaki fragments are formed during ?
 
 <details><summary>Answer</summary>
 
-**C. DNA replication** — Source: Medicoholic 2016 PYQ compilation.
+**C. DNA replication** — **C. DNA replication** — Okazaki fragments are short (100–200 nt in eukaryotes) discontinuous DNA segments synthesised on the lagging strand template in the 5'→3' direction during semi-conservative DNA replication.
 
 </details>
 
@@ -4739,7 +4739,7 @@ Splicing is a process of ?
 
 <details><summary>Answer</summary>
 
-**B. Removal of introns** — Source: Medicoholic 2016 PYQ compilation.
+**B. Removal of introns** — **B. Removal of introns** — RNA splicing is post-transcriptional processing of pre-mRNA in the spliceosome, excising non-coding introns and ligating exons to produce mature mRNA ready for nuclear export and translation.
 
 </details>
 

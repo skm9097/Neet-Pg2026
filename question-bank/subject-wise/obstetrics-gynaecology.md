@@ -13166,7 +13166,7 @@ Radioiodine preferred in treatment in
 
 <details><summary>Answer</summary>
 
-**C. Recent onset of toxic goiter** — Source: Medicoholic 2016 PYQ compilation.
+**C. Recent onset of toxic goiter** — **C. Recent onset of toxic goiter** — Radioiodine (I-131) is preferred for recently diagnosed toxic goiter in non-pregnant adults; contraindicated in pregnancy and young patients due to radiation risk.
 
 </details>
 
@@ -13186,7 +13186,7 @@ Commonest site of hypospadias is -
 
 <details><summary>Answer</summary>
 
-**A. Just proximal to glans** — Source: Medicoholic 2016 PYQ compilation.
+**A. Just proximal to glans** — **A. Just proximal to glans** — Glanular/coronal hypospadias (just proximal to glans) is the most common type, accounting for ~50-70% of all hypospadias cases.
 
 </details>
 
@@ -13206,7 +13206,7 @@ Which of the following are the treatment options for cystocele?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Cystocele is treated by anterior colporrhaphy (surgical repair), transvaginal tape (TVT), or transobturator tape (TOT) depending on associated stress urinary incontinence.
 
 </details>
 
@@ -13226,7 +13226,7 @@ A newborn after prolonged labour is not breathing well and after 30 seconds of r
 
 <details><summary>Answer</summary>
 
-**C. Continue oxygen and ventilation** — Source: Medicoholic 2016 PYQ compilation.
+**C. Continue oxygen and ventilation** — **C. Continue oxygen and ventilation** — Heart rate 60-100 bpm after 30 seconds of PPV requires continued oxygen and ventilation; chest compressions indicated only if HR <60 bpm.
 
 </details>
 
@@ -13246,7 +13246,7 @@ Contraindication of bag and mask ventilation are all of the following except:
 
 <details><summary>Answer</summary>
 
-**D. Empty stomach** — Source: Medicoholic 2016 PYQ compilation.
+**D. Empty stomach** — **D. Empty stomach** — Empty stomach is not a contraindication; bag-mask ventilation is contraindicated with tracheoesophageal fistula, hiatus hernia, and pregnancy due to aspiration risk.
 
 </details>
 
@@ -13266,7 +13266,7 @@ MC cause of Primary Amenorrhea is ?
 
 <details><summary>Answer</summary>
 
-**C. Ovarian dysgenesis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ovarian dysgenesis** — **C. Ovarian dysgenesis** — Gonadal dysgenesis (Turner syndrome 45,X) is the most common cause of primary amenorrhea (~43%), followed by Mullerian agenesis (RMKH).
 
 </details>
 
@@ -13286,7 +13286,7 @@ Fetal karyotyping can be done by all, EXCEPT?
 
 <details><summary>Answer</summary>
 
-**D. Fetal skin biopsy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fetal skin biopsy** — **D. Fetal skin biopsy** — Fetal skin biopsy is used for skin disorders (epidermolysis bullosa), not karyotyping; amniocentesis, CVS, and cordocentesis all provide cells for chromosomal analysis.
 
 </details>
 
@@ -13306,7 +13306,7 @@ Fetal karyotyping can be done by all, EXCEPT?
 
 <details><summary>Answer</summary>
 
-**B. Uterine prolapse** — Source: Medicoholic 2016 PYQ compilation.
+**B. Uterine prolapse** — **B. Uterine prolapse** — Reducible vaginal mass worsening with straining/defecation in a postmenopausal multiparous woman is classic uterine prolapse due to pelvic floor laxity.
 
 </details>
 
@@ -13326,7 +13326,7 @@ Moschowit's surgery is done for -
 
 <details><summary>Answer</summary>
 
-**D. Enterocele prevention** — Source: Medicoholic 2016 PYQ compilation.
+**D. Enterocele prevention** — **D. Enterocele prevention** — Moschowitz operation obliterates the pouch of Douglas by purse-string sutures, preventing/repairing enterocele (herniation of small bowel into rectovaginal space).
 
 </details>
 
@@ -13346,7 +13346,7 @@ MC heart disease in pregnancy is ?
 
 <details><summary>Answer</summary>
 
-**A. MS** — Source: Medicoholic 2016 PYQ compilation.
+**A. MS** — **A. MS** — Mitral stenosis (rheumatic) is the most common cardiac complication in pregnancy in developing countries, causing heart failure due to increased blood volume and heart rate.
 
 </details>
 
@@ -13366,7 +13366,7 @@ Not an absolute contraindication for methylergometrine use is ?
 
 <details><summary>Answer</summary>
 
-**C. Rh incompatibility** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rh incompatibility** — **C. Rh incompatibility** — Rh incompatibility is NOT a contraindication to methylergometrine; absolute contraindications include hypertension, eclampsia, heart disease, and multiple pregnancy (before delivery of all fetuses).
 
 </details>
 
@@ -13386,7 +13386,7 @@ A lady with 35 weeks of pregnancy is admitted in view of first episode of painle
 
 <details><summary>Answer</summary>
 
-**C. Wait and watch** — Source: Medicoholic 2016 PYQ compilation.
+**C. Wait and watch** — **C. Wait and watch** — At 35 weeks with first episode of painless antepartum hemorrhage (placenta previa), stable hemodynamics, and normal Hb, conservative expectant management is appropriate until 37+ weeks.
 
 </details>
 
@@ -13406,7 +13406,7 @@ G3P2L2 with previous 2 LSCS with anterior placenta previa has got a very high ri
 
 <details><summary>Answer</summary>
 
-**A. Placenta acreta** — Source: Medicoholic 2016 PYQ compilation.
+**A. Placenta acreta** — **A. Placenta acreta** — Prior LSCS scars with anterior placenta previa markedly increases risk of placenta accreta spectrum; two previous scars confer ~40% risk of morbidly adherent placenta.
 
 </details>
 
@@ -13426,7 +13426,7 @@ A 28-year-old primigravida with 33 weeks of pregnancy suddenly complains of head
 
 <details><summary>Answer</summary>
 
-**D. Anticonvulsant + antihypertensive therapy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Anticonvulsant + antihypertensive therapy** — **D. Anticonvulsant + antihypertensive therapy** — Severe preeclampsia at 33 weeks with impending eclampsia features (headache, oliguria, visual changes, BP 180/110) requires magnesium sulfate + antihypertensives before delivery planning.
 
 </details>
 
@@ -13446,7 +13446,7 @@ Which of the following statements concerning abdominal pregnancy is correct?
 
 <details><summary>Answer</summary>
 
-**D. Placenta can be left in situ at the time of surgery** — Source: Medicoholic 2016 PYQ compilation.
+**D. Placenta can be left in situ at the time of surgery** — **D. Placenta can be left in situ at the time of surgery** — In abdominal pregnancy, placenta is left in situ if its blood supply cannot be safely controlled, as removal risks fatal hemorrhage; it resorbs gradually.
 
 </details>
 
@@ -13466,7 +13466,7 @@ Patient with 3 months amenorrhoea, c/o hyperemesis and vaginal bleeding since on
 
 <details><summary>Answer</summary>
 
-**A. Vesicular mole** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vesicular mole** — **A. Vesicular mole** — Uterus larger than dates (16 weeks at 3 months amenorrhea), hyperemesis, vaginal bleeding, and absent fetal heart sounds are classic features of hydatidiform mole.
 
 </details>
 
@@ -13486,7 +13486,7 @@ EMACO regime is for ?
 
 <details><summary>Answer</summary>
 
-**D. Chorio carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**D. Chorio carcinoma** — **D. Chorio carcinoma** — EMA-CO (Etoposide, Methotrexate, Actinomycin-D, Cyclophosphamide, Oncovin) is the standard chemotherapy regimen for high-risk gestational trophoblastic neoplasia including choriocarcinoma.
 
 </details>
 
@@ -13506,7 +13506,7 @@ Stage lb cervical cancer is diagnosed in
 
 <details><summary>Answer</summary>
 
-**D. Both ovaries** — Source: Medicoholic 2016 PYQ compilation.
+**D. Both ovaries** — **D. Both ovaries** — This question is likely testing ovarian spread; however, Stage IB cervical cancer is clinically visible lesion confined to the cervix. Ovarian involvement occurs with advanced/metastatic disease.
 
 </details>
 
@@ -13526,7 +13526,7 @@ In vaginal hysterectomy, the first clamp includes:
 
 <details><summary>Answer</summary>
 
-**C. Uterosacral ligament** — Source: Medicoholic 2016 PYQ compilation.
+**C. Uterosacral ligament** — **C. Uterosacral ligament** — In vaginal hysterectomy, the uterosacral ligaments are clamped, cut, and ligated first (posteriorly), providing initial uterine descent and defining the surgical plane.
 
 </details>
 
@@ -13546,7 +13546,7 @@ Cervical cancer III B treatment is ?
 
 <details><summary>Answer</summary>
 
-**D. Chemoradiation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Chemoradiation** — **D. Chemoradiation** — Cervical cancer Stage IIIB (pelvic wall extension/hydronephrosis) is treated with concurrent platinum-based chemoradiation; surgery is not feasible at this advanced stage.
 
 </details>
 
@@ -13566,7 +13566,7 @@ Wertheim's hysterectomy is done for ?
 
 <details><summary>Answer</summary>
 
-**B. IB cervical cancer** — Source: Medicoholic 2016 PYQ compilation.
+**B. IB cervical cancer** — **B. IB cervical cancer** — Wertheim's radical hysterectomy (type III) removes uterus, parametrium, upper vagina, and pelvic nodes; standard surgical treatment for Stage IA2-IIA cervical cancer.
 
 </details>
 
@@ -13586,7 +13586,7 @@ Ca vulva spreads to all except ?
 
 <details><summary>Answer</summary>
 
-**D. Paraaortic nodes** — Source: Medicoholic 2016 PYQ compilation.
+**D. Paraaortic nodes** — **D. Paraaortic nodes** — Vulvar cancer spreads locally to urethra and vagina, then to superficial and deep inguinal nodes, then pelvic nodes; paraaortic nodal spread is extremely rare and not a typical route.
 
 </details>
 
@@ -13606,7 +13606,7 @@ Which ovarian tumour can present with menorrhagia ?
 
 <details><summary>Answer</summary>
 
-**C. Granulosa cell tumour** — Source: Medicoholic 2016 PYQ compilation.
+**C. Granulosa cell tumour** — **C. Granulosa cell tumour** — Granulosa cell tumour is an estrogen-secreting sex-cord stromal tumour causing menorrhagia (or postmenopausal bleeding) due to excess estrogen stimulating the endometrium.
 
 </details>
 
@@ -13626,7 +13626,7 @@ All are risk factors for ectopic pregnancy except ?
 
 <details><summary>Answer</summary>
 
-**D. LNG IUCD** — Source: Medicoholic 2016 PYQ compilation.
+**D. LNG IUCD** — **D. LNG IUCD** — Levonorgestrel IUCD markedly reduces overall ectopic risk by preventing pregnancy; while IVF, tubal ligation failure, and prior ectopic are established risk factors.
 
 </details>
 
@@ -13666,7 +13666,7 @@ Pearl necklace appearance is characteristic of ?
 
 <details><summary>Answer</summary>
 
-**B. PCOS** — Source: Medicoholic 2016 PYQ compilation.
+**B. PCOS** — **B. PCOS** — Pearl necklace appearance on ultrasound describes multiple small peripheral follicles (≥12 follicles, 2-9mm) arranged around the ovarian stroma in polycystic ovarian syndrome.
 
 </details>
 
@@ -13686,7 +13686,7 @@ Violin string adhesion [violent string sign] is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Fitz - high -curtis syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**C. Fitz - high -curtis syndrome** — **C. Fitz - high -curtis syndrome** — Violin string (or piano string) adhesions between liver and anterior abdominal wall are pathognomonic of Fitz-Hugh-Curtis syndrome (perihepatitis due to chlamydial/gonococcal PID).
 
 </details>
 
@@ -13706,7 +13706,7 @@ Complication of Benign Ovarian Cysts is ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Benign ovarian cysts can undergo torsion (commonest), intracystic hemorrhage, and mucinous cysts can rupture causing pseudomyxoma peritonei from mucin spillage.
 
 </details>
 
@@ -13726,7 +13726,7 @@ Level 1 support of uterus & vagina is ?
 
 <details><summary>Answer</summary>
 
-**C. Uterosacral ligaments** — Source: Medicoholic 2016 PYQ compilation.
+**C. Uterosacral ligaments** — **C. Uterosacral ligaments** — DeLancey Level 1 support consists of uterosacral and cardinal ligaments suspending the uterus and upper vagina; Level 2 is paravaginal, Level 3 is perineal body.
 
 </details>
 
@@ -13746,7 +13746,7 @@ MC presenting symptom of fibroid is ?
 
 <details><summary>Answer</summary>
 
-**A. Menorrhagia** — Source: Medicoholic 2016 PYQ compilation.
+**A. Menorrhagia** — **A. Menorrhagia** — Menorrhagia is the most common presenting symptom of uterine fibroids, caused by increased endometrial surface area, venous engorgement, and impaired uterine contractility.
 
 </details>
 
@@ -13766,7 +13766,7 @@ Medical management of fibroids is with all except -
 
 <details><summary>Answer</summary>
 
-**D. Misoprostol** — Source: Medicoholic 2016 PYQ compilation.
+**D. Misoprostol** — **D. Misoprostol** — Misoprostol (PGE1 analogue) is used for cervical ripening and PPH, not fibroid management; GnRH analogues, mifepristone, and ulipristal acetate all reduce fibroid size.
 
 </details>
 
@@ -13786,7 +13786,7 @@ Examination of a 26 years old obese infertile female reveals. Fixed retroverted 
 
 <details><summary>Answer</summary>
 
-**B. Endometriosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Endometriosis** — **B. Endometriosis** — Fixed retroverted uterus with nodular uterosacral ligaments in an infertile woman is pathognomonic of endometriosis causing adhesions and obliteration of the pouch of Douglas.
 
 </details>
 
@@ -13806,7 +13806,7 @@ Surgery of choice in 42 year old P3L3 with diffuse endometriosis is ?
 
 <details><summary>Answer</summary>
 
-**C. Hysterectomy with BSO with resection of endometrial implants** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hysterectomy with BSO with resection of endometrial implants** — **C. Hysterectomy with BSO with resection of endometrial implants** — In a completed-family perimenopausal woman with severe endometriosis, TAH+BSO with excision of all implants is definitive curative surgery.
 
 </details>
 
@@ -13826,7 +13826,7 @@ The most common Mullerian anomaly is?
 
 <details><summary>Answer</summary>
 
-**D. Septate uterus** — Source: Medicoholic 2016 PYQ compilation.
+**D. Septate uterus** — **D. Septate uterus** — Septate uterus (failure of resorption of the midline septum) is the most common Mullerian anomaly (~35%), associated with highest rates of miscarriage among uterine anomalies.
 
 </details>
 
@@ -13846,7 +13846,7 @@ A 46-year-old P3L3 complains of menorrhagia since 3 months. Next line of managem
 
 <details><summary>Answer</summary>
 
-**A. D & C** — Source: Medicoholic 2016 PYQ compilation.
+**A. D & C** — **A. D & C** — In a perimenopausal woman with menorrhagia, D&C (dilatation and curettage) is performed first to exclude endometrial pathology (hyperplasia/carcinoma) before medical therapy.
 
 </details>
 
@@ -13866,7 +13866,7 @@ Simple hyperplasia with atypia will progress to ca endometrium in % of cases ?
 
 <details><summary>Answer</summary>
 
-**C. 8-9** — Source: Medicoholic 2016 PYQ compilation.
+**C. 8-9** — **C. 8-9** — Simple atypical hyperplasia progresses to endometrial carcinoma in ~8% of cases; complex atypical hyperplasia has ~29% progression risk and requires hysterectomy.
 
 </details>
 
@@ -13886,7 +13886,7 @@ Grade 1 Ca endometrium, there is presence of % non sqoumaous growth ?
 
 <details><summary>Answer</summary>
 
-**A. <5** — Source: Medicoholic 2016 PYQ compilation.
+**A. <5** — **A. <5** — FIGO Grade 1 endometrial carcinoma has ≤5% non-squamous solid growth pattern; Grade 2 is 6-50%, Grade 3 is >50%, indicating increasing dedifferentiation and worse prognosis.
 
 </details>
 
@@ -13906,7 +13906,7 @@ Definitive treatment of adenomyosis is ?
 
 <details><summary>Answer</summary>
 
-**D. Hysterectomy** — Source: Medicoholic 2016 PYQ compilation.
+**D. Hysterectomy** — **D. Hysterectomy** — Hysterectomy is the only definitive cure for adenomyosis (ectopic endometrial glands within myometrium); medical treatments (OCP, NSAIDs) only provide symptom relief temporarily.
 
 </details>
 
@@ -13926,7 +13926,7 @@ MC cause for hysterectomy is ?
 
 <details><summary>Answer</summary>
 
-**B. Fibroids** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fibroids** — **B. Fibroids** — Uterine fibroids (leiomyomata) are the most common indication for hysterectomy worldwide, accounting for approximately 30-40% of all hysterectomies performed.
 
 </details>
 
@@ -13946,7 +13946,7 @@ Prolonged surgery time of vaginal hysterectomy would lead to damage to which ner
 
 <details><summary>Answer</summary>
 
-**C. Peroneal** — Source: Medicoholic 2016 PYQ compilation.
+**C. Peroneal** — **C. Peroneal** — Prolonged lithotomy position during vaginal hysterectomy causes common peroneal nerve compression at the fibular head, leading to foot drop (commonest positioning injury).
 
 </details>
 
@@ -13966,7 +13966,7 @@ Which of the following is not a part of PID -
 
 <details><summary>Answer</summary>
 
-**B. Cervicitis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Cervicitis** — **B. Cervicitis** — Cervicitis (inflammation limited to endocervix) is a lower genital tract infection; PID specifically refers to upper genital tract infection: endometritis, salpingitis, tubo-ovarian abscess, and peritonitis.
 
 </details>
 
@@ -13986,7 +13986,7 @@ Acute pelvic pain could be due to ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Acute pelvic pain in reproductive-age women has gynecological causes including ectopic pregnancy (life-threatening), PID (infection), and corpus luteum hematoma (follicular rupture).
 
 </details>
 
@@ -14006,7 +14006,7 @@ HSG findings suggestive of genital koch ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Genital tuberculosis on HSG shows beaded/pipestem tubes (TB salpingitis), honeycomb/golf-club shaped uterine cavity (intrauterine synechiae), all pathognomonic features.
 
 </details>
 
@@ -14026,7 +14026,7 @@ Which of the following decreases the risk of Pelvic Inflammatory Disease ?
 
 <details><summary>Answer</summary>
 
-**C. O.C. pills** — Source: Medicoholic 2016 PYQ compilation.
+**C. O.C. pills** — **C. O.C. pills** — Combined oral contraceptives decrease PID risk by thickening cervical mucus (barrier to ascending infection) and reducing retrograde menstrual flow; Cu-IUCD increases PID risk.
 
 </details>
 
@@ -14046,7 +14046,7 @@ Tamoxifen decreases the risk of which cancer?
 
 <details><summary>Answer</summary>
 
-**A. Breast** — Source: Medicoholic 2016 PYQ compilation.
+**A. Breast** — **A. Breast** — Tamoxifen (selective estrogen receptor modulator) decreases breast cancer risk by ~50% in high-risk women; paradoxically it acts as estrogen agonist on endometrium, increasing endometrial cancer risk.
 
 </details>
 
@@ -14066,7 +14066,7 @@ Betamethasone given to preterm patient for all except ?
 
 <details><summary>Answer</summary>
 
-**D. Prevent PPH** — Source: Medicoholic 2016 PYQ compilation.
+**D. Prevent PPH** — **D. Prevent PPH** — Antenatal betamethasone accelerates fetal lung maturity, reduces intraventricular hemorrhage and periventricular leukomalacia; it has no role in preventing postpartum hemorrhage.
 
 </details>
 
@@ -14086,7 +14086,7 @@ A 32-year-old female with mild hypertension. Two days after normal delivery, she
 
 <details><summary>Answer</summary>
 
-**B. Superior sagittal sinus thrombosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Superior sagittal sinus thrombosis** — **B. Superior sagittal sinus thrombosis** — Postpartum seizures with headache, no proteinuria, and imaging findings indicate cerebral venous sinus thrombosis, a hypercoagulable postpartum complication distinct from eclampsia.
 
 </details>
 
@@ -14106,7 +14106,7 @@ Penicillamine use in pregnancy is associated with this fetal complication ?
 
 <details><summary>Answer</summary>
 
-**D. Cutis laxa** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cutis laxa** — **D. Cutis laxa** — Penicillamine (used in Wilson's disease/rheumatoid arthritis) inhibits collagen cross-linking, causing cutis laxa (loose, inelastic skin) and connective tissue defects in the fetus.
 
 </details>
 
@@ -14126,7 +14126,7 @@ HCG levels at which Expectant management of Ectopic pregnancy can be done :
 
 <details><summary>Answer</summary>
 
-**B. 1000 IU/L** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1000 IU/L** — **B. 1000 IU/L** — Expectant management of ectopic pregnancy is appropriate when beta-hCG is low (<1000-1500 IU/L) and declining, indicating spontaneous resolution without intervention needed.
 
 </details>
 
@@ -14146,7 +14146,7 @@ Crying of fetus in utero is called as ?
 
 <details><summary>Answer</summary>
 
-**A. Vagitus uterinus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vagitus uterinus** — **A. Vagitus uterinus** — Vagitus uterinus refers to the rare phenomenon of fetal crying within the intact uterus, caused by air entering the uterine cavity; vagitus vaginalis occurs in the vaginal canal.
 
 </details>
 
@@ -14166,7 +14166,7 @@ Utero-placental circulation is established days after fertilization ?
 
 <details><summary>Answer</summary>
 
-**B. 10** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10** — **B. 10** — Uteroplacental circulation is established by day 10 after fertilization when the trophoblast invades maternal decidual spiral arteries, establishing intervillous blood flow.
 
 </details>
 
@@ -14186,7 +14186,7 @@ Pregnancy is contraindicated in all of the following except -
 
 <details><summary>Answer</summary>
 
-**D. WPW syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**D. WPW syndrome** — **D. WPW syndrome** — WPW syndrome is manageable in pregnancy with antiarrhythmics or ablation; absolute cardiac contraindications to pregnancy include primary pulmonary hypertension, Eisenmenger's, and Marfan's with aortic dilation (mortality >25%).
 
 </details>
 
@@ -14206,7 +14206,7 @@ Which heart disease has the worst prognosis/maximum mortality in pregnancy?
 
 <details><summary>Answer</summary>
 
-**D. Eisenmenger's syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**D. Eisenmenger's syndrome** — **D. Eisenmenger's syndrome** — Eisenmenger's syndrome carries 30-50% maternal mortality in pregnancy due to fixed pulmonary hypertension and inability to accommodate the increased cardiac output of pregnancy.
 
 </details>
 
@@ -14226,7 +14226,7 @@ Ovarian cycle can be correlated with all except ?
 
 <details><summary>Answer</summary>
 
-**D. Estrous cycle** — Source: Medicoholic 2016 PYQ compilation.
+**D. Estrous cycle** — **D. Estrous cycle** — Estrous cycle is the animal equivalent of the human menstrual cycle and cannot correlate with the human ovarian cycle; endometrial sampling, vaginal cytology, and blood hormone levels directly reflect ovarian function.
 
 </details>
 
@@ -14246,7 +14246,7 @@ During pregnancy, true statement about CVS is ?
 
 <details><summary>Answer</summary>
 
-**C. Increase in left ventricular end diastolic diameter** — Source: Medicoholic 2016 PYQ compilation.
+**C. Increase in left ventricular end diastolic diameter** — **C. Increase in left ventricular end diastolic diameter** — Pregnancy causes increased plasma volume and preload, leading to increased LVEDD (physiological cardiac dilatation); cardiac output increases and axis shifts left, not right.
 
 </details>
 
@@ -14266,7 +14266,7 @@ MC site of implantation is ?
 
 <details><summary>Answer</summary>
 
-**C. Fundus of uterus** — Source: Medicoholic 2016 PYQ compilation.
+**C. Fundus of uterus** — **C. Fundus of uterus** — Normal implantation occurs most commonly on the posterior wall of the uterine fundus; implantation here is optimal for placental development and fetal growth.
 
 </details>
 
@@ -14286,7 +14286,7 @@ Placental hormone with highest carbohydrate content is -
 
 <details><summary>Answer</summary>
 
-**A. HCG** — Source: Medicoholic 2016 PYQ compilation.
+**A. HCG** — **A. HCG** — Human chorionic gonadotropin (hCG) has the highest carbohydrate content (~30%) among placental hormones, as a heavily glycosylated glycoprotein with alpha and beta subunits.
 
 </details>
 
@@ -14306,7 +14306,7 @@ Fetal thyroid gland is able to synthesize hormones by weeks of gestation ?
 
 <details><summary>Answer</summary>
 
-**C. 10-12** — Source: Medicoholic 2016 PYQ compilation.
+**C. 10-12** — **C. 10-12** — Fetal thyroid gland begins synthesizing thyroid hormones independently by 10-12 weeks gestation; before this, the fetus relies on maternal thyroid hormones crossing the placenta.
 
 </details>
 
@@ -14326,7 +14326,7 @@ Poor prognosis in first trimester USG is ?
 
 <details><summary>Answer</summary>
 
-**D. No cardiac activity at 8 weeks of gestation** — Source: Medicoholic 2016 PYQ compilation.
+**D. No cardiac activity at 8 weeks of gestation** — **D. No cardiac activity at 8 weeks of gestation** — Absence of fetal cardiac activity at ≥7-8 weeks (CRL ≥7mm) is definitive criterion for missed abortion; earlier absence (5-6 weeks) may be normal.
 
 </details>
 
@@ -14346,7 +14346,7 @@ Most conclusive clinical sign of pregnancy is ?
 
 <details><summary>Answer</summary>
 
-**D. Fetal heat sound auscultation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Fetal heat sound auscultation** — **D. Fetal heat sound auscultation** — Auscultation of fetal heart sounds is the most conclusive clinical sign of pregnancy, as it confirms a living fetus; other signs are presumptive or probable only.
 
 </details>
 
@@ -14366,7 +14366,7 @@ Kamla, 30 years old, P2L2 with 3.2 x 4.1 cm fibroid uterus, complains of menorrh
 
 <details><summary>Answer</summary>
 
-**D. Uterine artery embolization** — Source: Medicoholic 2016 PYQ compilation.
+**D. Uterine artery embolization** — **D. Uterine artery embolization** — UAE is a minimally invasive, fertility-sparing, non-surgical option for symptomatic fibroids in women refusing surgery; occludes uterine blood supply causing fibroid infarction and shrinkage.
 
 </details>
 
@@ -14386,7 +14386,7 @@ Living ligature of the uterus is ?
 
 <details><summary>Answer</summary>
 
-**B. Middle layer of myometrium** — Source: Medicoholic 2016 PYQ compilation.
+**B. Middle layer of myometrium** — **B. Middle layer of myometrium** — The interlacing figure-of-8 smooth muscle fibres of the middle myometrial layer compress and occlude blood vessels after placental separation, acting as 'living ligatures' to control postpartum haemorrhage.
 
 </details>
 
@@ -14406,7 +14406,7 @@ In partograms recommended by 'WHO' the distance between the alert and action lin
 
 <details><summary>Answer</summary>
 
-**C. 4 hours** — Source: Medicoholic 2016 PYQ compilation.
+**C. 4 hours** — **C. 4 hours** — The WHO partogram places the action line 4 hours to the right of the alert line; labour crossing the action line mandates intervention, allowing adequate response time while preventing unnecessary early intervention.
 
 </details>
 
@@ -14426,7 +14426,7 @@ Diihrssen incision is taken on -
 
 <details><summary>Answer</summary>
 
-**C. Incompletely dilated cervix** — Source: Medicoholic 2016 PYQ compilation.
+**C. Incompletely dilated cervix** — **C. Incompletely dilated cervix** — Duhrssen's incisions are radial cuts (at 2, 6, and 10 o'clock) made on an incompletely dilated cervix in emergencies (e.g., obstructed labour with head trap after breech) to rapidly achieve full dilatation.
 
 </details>
 
@@ -14446,7 +14446,7 @@ A 27-year-old female with placenta previa had severe bleeding. What is the most 
 
 <details><summary>Answer</summary>
 
-**C. Absence of menstrual cycle** — Source: Medicoholic 2016 PYQ compilation.
+**C. Absence of menstrual cycle** — **C. Absence of menstrual cycle** — Severe postpartum haemorrhage (as from placenta praevia) causes ischaemic necrosis of the anterior pituitary (Sheehan's syndrome), leading to panhypopituitarism with amenorrhoea as the hallmark feature.
 
 </details>
 
@@ -14466,7 +14466,7 @@ Menometrorrhagia is ?
 
 <details><summary>Answer</summary>
 
-**C. Heavy & irregular bleeding** — Source: Medicoholic 2016 PYQ compilation.
+**C. Heavy & irregular bleeding** — **C. Heavy & irregular bleeding** — Menometrorrhagia combines menorrhagia (heavy flow) and metrorrhagia (irregular, intermenstrual bleeding), thus describing heavy uterine bleeding occurring at irregular, unpredictable intervals.
 
 </details>
 
@@ -14486,7 +14486,7 @@ The shortest conjugate is ?
 
 <details><summary>Answer</summary>
 
-**B. Obstetric conjugate** — Source: Medicoholic 2016 PYQ compilation.
+**B. Obstetric conjugate** — **B. Obstetric conjugate** — The obstetric conjugate (from sacral promontory to the most prominent point on the posterior surface of the pubic symphysis, ~10 cm) is the narrowest fixed AP diameter the fetal head must traverse; shorter than the anatomical true conjugate.
 
 </details>
 
@@ -14506,7 +14506,7 @@ With reference to fetal heart rate, a nonstress test is considered reactive when
 
 <details><summary>Answer</summary>
 
-**A. Two fetal heart rate accelerations are noted in 20 minutes** — Source: Medicoholic 2016 PYQ compilation.
+**A. Two fetal heart rate accelerations are noted in 20 minutes** — **A. Two fetal heart rate accelerations are noted in 20 minutes** — NST is reactive (reassuring) when ≥2 accelerations of ≥15 bpm lasting ≥15 seconds occur within 20 minutes, indicating intact fetal autonomic function and adequate oxygenation.
 
 </details>
 
@@ -14526,7 +14526,7 @@ Variable deceleration is seen in ?
 
 <details><summary>Answer</summary>
 
-**C. Cord compression** — Source: Medicoholic 2016 PYQ compilation.
+**C. Cord compression** — **C. Cord compression** — Variable decelerations have an abrupt onset and variable timing/shape, caused by umbilical cord compression triggering a vagal reflex; they are the most common FHR deceleration pattern in labour.
 
 </details>
 
@@ -14546,7 +14546,7 @@ Modified BIOPHYSICAL PROFILE is ?
 
 <details><summary>Answer</summary>
 
-**C. NST + AFI** — Source: Medicoholic 2016 PYQ compilation.
+**C. NST + AFI** — **C. NST + AFI** — The modified BPP combines the NST (acute marker of fetal CNS/oxygenation status) and amniotic fluid index (chronic marker of uteroplacental function), providing rapid fetal surveillance with fewer parameters.
 
 </details>
 
@@ -14566,7 +14566,7 @@ If fetus is having hypoxia, which of the BPP parameter will be affected last ?
 
 <details><summary>Answer</summary>
 
-**A. Fetal tone** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fetal tone** — **A. Fetal tone** — In chronic fetal hypoxia, BPP parameters are lost in reverse order of phylogenetic development: NST first, then breathing movements, then gross movements, and fetal tone (earliest CNS function) is lost last.
 
 </details>
 
@@ -14586,7 +14586,7 @@ Test used to detect genetic abnormality in embryo,before transferring it to the 
 
 <details><summary>Answer</summary>
 
-**A. Embryo cell biopsy** — Source: Medicoholic 2016 PYQ compilation.
+**A. Embryo cell biopsy** — **A. Embryo cell biopsy** — Preimplantation genetic testing (PGT) involves biopsy of a single blastomere (day 3) or trophectoderm cells (day 5 blastocyst) to detect chromosomal or monogenic disorders before IVF embryo transfer.
 
 </details>
 
@@ -14606,7 +14606,7 @@ A primigravida with 36 weeks of pregnancy is in labor with 3 cm dilatation and m
 
 <details><summary>Answer</summary>
 
-**D. Vasa previa** — Source: Medicoholic 2016 PYQ compilation.
+**D. Vasa previa** — **D. Vasa previa** — Vasa praevia causes fresh painless bleeding at membrane rupture with immediate fetal bradycardia/late decelerations, because fetal vessels overlie the internal os and rupture with the membranes.
 
 </details>
 
@@ -14626,7 +14626,7 @@ All are components of Active Management of the Third Stage of Labor except ?
 
 <details><summary>Answer</summary>
 
-**B. Massage of uterus before control cord traction** — Source: Medicoholic 2016 PYQ compilation.
+**B. Massage of uterus before control cord traction** — **B. Massage of uterus before control cord traction** — AMTSL components are: uterotonic (oxytocin) within 1 min of birth, controlled cord traction, and uterine massage AFTER placental delivery; pre-delivery massage is NOT part of AMTSL.
 
 </details>
 
@@ -14646,7 +14646,7 @@ Ideal time to do Glucose challenge test in pregnancy is ?
 
 <details><summary>Answer</summary>
 
-**C. 24-28 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 24-28 weeks** — **C. 24-28 weeks** — The 50 g glucose challenge test (GCT) is performed at 24–28 weeks, when gestational insulin resistance is maximal; this window detects GDM before fetal macrosomia or complications develop.
 
 </details>
 
@@ -14666,7 +14666,7 @@ Folic acid required in first trimester of normal pregnancy -
 
 <details><summary>Answer</summary>
 
-**B. 400-500 microgram** — Source: Medicoholic 2016 PYQ compilation.
+**B. 400-500 microgram** — **B. 400-500 microgram** — Low-risk pregnancies require 400–500 mcg/day periconceptionally and through the first trimester for neural tube defect prevention; 4–5 mg is reserved for high-risk women (prior NTD, anti-epileptics, diabetes).
 
 </details>
 
@@ -14686,7 +14686,7 @@ Upper two -third anterior vaginal wall prolapse is ?
 
 <details><summary>Answer</summary>
 
-**A. Cystocele** — Source: Medicoholic 2016 PYQ compilation.
+**A. Cystocele** — **A. Cystocele** — The upper two-thirds of the anterior vaginal wall is supported by the pubocervical fascia overlying the bladder base; weakness here allows the bladder to herniate, forming a cystocele.
 
 </details>
 
@@ -14706,7 +14706,7 @@ Cryptomenorrhea occurs in ?
 
 <details><summary>Answer</summary>
 
-**C. Imperforate hymen** — Source: Medicoholic 2016 PYQ compilation.
+**C. Imperforate hymen** — **C. Imperforate hymen** — Cryptomenorrhoea (concealed menstruation/haematocolpos) results from outflow obstruction; imperforate hymen is the classic cause, preventing menstrual blood from escaping and causing cyclic abdominal pain in adolescents.
 
 </details>
 
@@ -14726,7 +14726,7 @@ Best indicator for ovarian reserve is ?
 
 <details><summary>Answer</summary>
 
-**A. AMH** — Source: Medicoholic 2016 PYQ compilation.
+**A. AMH** — **A. AMH** — Anti-Müllerian hormone, produced by granulosa cells of small antral follicles, is the most reliable ovarian reserve marker; it is cycle-independent, does not fluctuate with menstrual phase, and reflects the primordial follicle pool accurately.
 
 </details>
 
@@ -14746,7 +14746,7 @@ Banana and lemon sign seen in which fetal nomalies :
 
 <details><summary>Answer</summary>
 
-**A. Neural tube defect** — Source: Medicoholic 2016 PYQ compilation.
+**A. Neural tube defect** — **A. Neural tube defect** — On USG in open spina bifida: the cerebellum is dragged into the foramen magnum producing a 'banana sign' (curved cerebellum), and frontal bone scalloping produces a 'lemon sign' due to Chiari II malformation.
 
 </details>
 
@@ -14766,7 +14766,7 @@ A 25 years old male is not happy with its gender and is always in distress due t
 
 <details><summary>Answer</summary>
 
-**C. Gender dysphoria** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gender dysphoria** — **C. Gender dysphoria** — Gender dysphoria (DSM-5) is a marked incongruence between experienced/expressed gender and assigned gender causing significant distress; the person desires to be of a different gender and seeks sex reassignment.
 
 </details>
 
@@ -14933,7 +14933,7 @@ Identify the X ray HSG Shown below :
 
 <details><summary>Answer</summary>
 
-**C. Unicornuate uterus** — Source: NEET-PG 2017 medicoholic.com
+**C. Unicornuate uterus** — **C. Unicornuate uterus** — HSG of a unicornuate uterus shows a single banana-shaped uterine cavity with only one fallopian tube, resulting from development of only one Müllerian duct; associated with 40–50% pregnancy loss.
 
 </details>
 
@@ -14951,7 +14951,7 @@ Peripartum cardiomyopathy occurs at-
 
 <details><summary>Answer</summary>
 
-**D. Within 5 months** — Source: NEET-PG 2017 medicoholic.com
+**D. Within 5 months** — **D. Within 5 months** — PPCM is defined as heart failure developing in the last month of pregnancy or within 5 months postpartum, with no prior cardiac disease; current ESSC/AHA definition uses 'last month to 5 months postpartum'.
 
 </details>
 
@@ -14969,7 +14969,7 @@ Fetal heart starts contracting at-
 
 <details><summary>Answer</summary>
 
-**C. 3-5 weeks** — Source: NEET-PG 2017 medicoholic.com
+**C. 3-5 weeks** — **C. 3-5 weeks** — Cardiac contractions begin at approximately 3–5 weeks of gestation (22–23 days post-fertilisation) when the primitive heart tube starts beating; fetal cardiac activity is detectable on TVS by 6 weeks.
 
 </details>
 
@@ -14987,7 +14987,7 @@ Dilatation & curettage (D&C) is contraindicated in-
 
 <details><summary>Answer</summary>
 
-**A. Pelvic inflammatory disease (PID)** — Source: NEET-PG 2017 medicoholic.com
+**A. Pelvic inflammatory disease (PID)** — **A. Pelvic inflammatory disease (PID)** — D&C is absolutely contraindicated in active PID because instrumentation of the uterus risks ascending infection, spreading organisms into the peritoneum causing peritonitis or tubo-ovarian abscess.
 
 </details>
 
@@ -15005,7 +15005,7 @@ Acute fatty liver common seen in pregnancy at-
 
 <details><summary>Answer</summary>
 
-**A. 3rd trimester** — Source: NEET-PG 2017 medicoholic.com
+**A. 3rd trimester** — **A. 3rd trimester** — Acute fatty liver of pregnancy (AFLP) characteristically presents in the third trimester (typically 30–38 weeks); it is caused by mitochondrial fatty acid oxidation defects and carries high maternal and fetal mortality.
 
 </details>
 
@@ -15023,7 +15023,7 @@ Establishment of fetoplacental circulation seen at-
 
 <details><summary>Answer</summary>
 
-**B. 20 to 22 days** — Source: NEET-PG 2017 medicoholic.com
+**B. 20 to 22 days** — **B. 20 to 22 days** — Fetoplacental circulation is established at approximately 20–22 days of gestation when the developing heart begins pumping blood through the chorionic villi, establishing a functional uteroplacental blood flow.
 
 </details>
 
@@ -15041,7 +15041,7 @@ RDA of iodine in lactation in microgram-
 
 <details><summary>Answer</summary>
 
-**D. 250** — Source: NEET-PG 2017 medicoholic.com
+**D. 250** — **D. 250** — Lactating women require 250 mcg/day iodine (RDA) to maintain adequate thyroid hormone synthesis and ensure sufficient iodine in breast milk for neonatal neurodevelopment; non-pregnant adults need only 150 mcg/day.
 
 </details>
 
@@ -15059,7 +15059,7 @@ In a woman complaining of AUB following image was seen in endoscopic examination
 
 <details><summary>Answer</summary>
 
-**A. Leiomyoma** — Source: NEET-PG 2017 medicoholic.com
+**A. Leiomyoma** — **A. Leiomyoma** — Hysteroscopy in AUB revealing a smooth, rounded, well-circumscribed intracavitary or submucosal mass is diagnostic of a leiomyoma (fibroid); submucosal fibroids are the most common cause of AUB on hysteroscopy.
 
 </details>
 
@@ -15077,7 +15077,7 @@ What is the Thinnest part of neuro-retinal rim according to ISNT rule? A. Inferi
 
 <details><summary>Answer</summary>
 
-**D. Referred as Toxic diffuse goitre** — Source: Medicoholic 2017 NEET-PG.
+**D. Referred as Toxic diffuse goitre** — **D. Referred as Toxic diffuse goitre** — Graves' disease is an autoimmune hyperthyroidism caused by TSH-receptor stimulating antibodies; it is characterised by diffuse toxic goitre, exophthalmos, and pretibial myxoedema, hence termed toxic diffuse goitre.
 
 </details>
 

@@ -7242,7 +7242,7 @@ Isolation period of TB ?
 
 <details><summary>Answer</summary>
 
-**D. 3 weeks after treatment** — Source: Medicoholic 2016 PYQ compilation.
+**D. 3 weeks after treatment** — **D. 3 weeks after treatment** — TB patient is considered non-infectious after 3 consecutive negative sputum smears or 3 weeks of effective anti-TB therapy, as sputum bacillary load falls to non-transmissible levels.
 
 </details>
 
@@ -7262,7 +7262,7 @@ Sensitivity of a screening test tells about
 
 <details><summary>Answer</summary>
 
-**A. Percentage of disease people among those with a positive test** — Source: Medicoholic 2016 PYQ compilation.
+**A. Percentage of disease people among those with a positive test** — **A. Percentage of disease people among those with a positive test** — Sensitivity = TP/(TP+FN); it measures the test's ability to correctly identify truly diseased individuals, i.e., proportion of actual disease cases that test positive.
 
 </details>
 
@@ -7282,7 +7282,7 @@ If effective treatment for a disease is introduced in a community, what will be 
 
 <details><summary>Answer</summary>
 
-**D. P will decrease & I will remains the same** — Source: Medicoholic 2016 PYQ compilation.
+**D. P will decrease & I will remains the same** — **D. P will decrease & I will remains the same** — Effective treatment shortens disease duration, reducing prevalence (P = I × D). Incidence depends on new exposures/transmission, which treatment alone does not alter, so incidence stays the same.
 
 </details>
 
@@ -7302,7 +7302,7 @@ A screening test has sensitivity of 90% and specificity of 99%. The prevalence o
 
 <details><summary>Answer</summary>
 
-**C. 33** — Source: Medicoholic 2016 PYQ compilation.
+**C. 33** — **C. 33** — PPV = (Sensitivity × Prevalence) / [(Sensitivity × Prevalence) + (1−Specificity)(1−Prevalence)]; with prevalence 5/1000, sensitivity 90%, specificity 99%: PPV ≈ (0.9×0.005)/[(0.9×0.005)+(0.01×0.995)] ≈ 33%.
 
 </details>
 
@@ -7322,7 +7322,7 @@ Best indicator for spread of TB in a community?
 
 <details><summary>Answer</summary>
 
-**A. Annual infection rate** — Source: Medicoholic 2016 PYQ compilation.
+**A. Annual infection rate** — **A. Annual infection rate** — Annual Risk of Tuberculosis Infection (ARTI) measures the proportion of the population newly infected each year via tuberculin surveys; it best reflects ongoing transmission and is the standard WHO epidemiological indicator.
 
 </details>
 
@@ -7342,7 +7342,7 @@ For diagnosis of TB, Sputum microscopy has ?
 
 <details><summary>Answer</summary>
 
-**D. Low sensitivity & low specificity** — Source: Medicoholic 2016 PYQ compilation.
+**D. Low sensitivity & low specificity** — **D. Low sensitivity & low specificity** — Sputum ZN smear microscopy has low sensitivity (~45–80% in smear-positive TB) and low specificity (cannot distinguish MTB from NTM); culture or CBNAAT is needed for definitive diagnosis.
 
 </details>
 
@@ -7362,7 +7362,7 @@ Mammalian reservoir for R. prowazekii ?
 
 <details><summary>Answer</summary>
 
-**D. Humans** — Source: Medicoholic 2016 PYQ compilation.
+**D. Humans** — **D. Humans** — Rickettsia prowazekii (epidemic typhus) has humans as the only mammalian reservoir; the louse Pediculus humanus corporis is the vector, with no animal reservoir unlike other rickettsial diseases.
 
 </details>
 
@@ -7382,7 +7382,7 @@ Post-exposure prophylaxis is indicated in ?
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2016 PYQ compilation.
+**D. All** — **D. All** — PEP is indicated for HBV (HBIG + vaccine within 24 hours), rabies (HRIG + vaccine series within 72 hours), and diphtheria (erythromycin/benzathine penicillin for close contacts); all three have established PEP protocols.
 
 </details>
 
@@ -7402,7 +7402,7 @@ Healthy carrier is seen in?
 
 <details><summary>Answer</summary>
 
-**C. Meningococcal meningits** — Source: Medicoholic 2016 PYQ compilation.
+**C. Meningococcal meningits** — **C. Meningococcal meningitis** — Neisseria meningitidis colonizes the nasopharynx asymptomatically in ~10–20% of the population (healthy/contact carriers), whereas measles, rubella, and influenza do not produce true healthy carrier states.
 
 </details>
 
@@ -7422,7 +7422,7 @@ Diagnosis of filariasis is confirmed most commonly?
 
 <details><summary>Answer</summary>
 
-**B. Detection of microfilariae** — Source: Medicoholic 2016 PYQ compilation.
+**B. Detection of microfilariae** — **B. Detection of microfilariae** — Lymphatic filariasis (Wuchereria bancrofti) is confirmed by microscopic detection of microfilariae in nocturnal peripheral blood smear (10 pm–2 am), which is the WHO-recommended standard diagnostic method.
 
 </details>
 
@@ -7442,7 +7442,7 @@ Maximum spread of malaria occurs in which month?
 
 <details><summary>Answer</summary>
 
-**D. September - October** — Source: Medicoholic 2016 PYQ compilation.
+**D. September - October** — **D. September - October** — Post-monsoon (September–October) sees peak malaria transmission in India as stagnant water from rains provides optimal Anopheles breeding, and parasite development is complete after the warm monsoon period.
 
 </details>
 
@@ -7462,7 +7462,7 @@ Reconstituted measles vaccine should be used with in -
 
 <details><summary>Answer</summary>
 
-**A. 1 hour** — Source: Medicoholic 2016 PYQ compilation.
+**A. 1 hour** — **A. 1 hour** — Reconstituted measles vaccine (live attenuated) is heat-labile and must be used within 1 hour of reconstitution; beyond this, viral potency drops below the minimum infectious dose required for immunization, per NVBDCP/WHO cold chain guidelines.
 
 </details>
 
@@ -7482,7 +7482,7 @@ Major reservoir of KFD ?
 
 <details><summary>Answer</summary>
 
-**B. Squirrels** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squirrels** — **B. Squirrels** — Kyasanur Forest Disease (KFD) virus: hard ticks (Haemaphysalis spinigera) are the primary vector; small forest rodents especially porcupines and squirrels (three-striped palm squirrel) are the amplifying vertebrate reservoir.
 
 </details>
 
@@ -7502,7 +7502,7 @@ Threshold level of herd immunity for Pertussis is?
 
 <details><summary>Answer</summary>
 
-**C. 90%** — Source: Medicoholic 2016 PYQ compilation.
+**C. 90%** — **C. 90%** — Pertussis has a high basic reproduction number (R₀ ≈ 12–17), requiring ≥90% population immunity to interrupt transmission; lower coverage levels leave susceptible pockets for outbreak potential, as seen in unvaccinated clusters.
 
 </details>
 
@@ -7522,7 +7522,7 @@ What is the commonest form of plague?
 
 <details><summary>Answer</summary>
 
-**A. Bubonic plague** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bubonic plague** — **A. Bubonic plague** — Bubonic plague accounts for ~80–90% of all plague cases; Yersinia pestis is inoculated via flea bite (Xenopsylla cheopis), spreads to regional lymph nodes causing characteristic buboes in inguinal/axillary regions.
 
 </details>
 
@@ -7542,7 +7542,7 @@ Prevalence of RHD in India in 5-15 years age group?
 
 <details><summary>Answer</summary>
 
-**B. 5-7 per 1000** — Source: Medicoholic 2016 PYQ compilation.
+**B. 5-7 per 1000** — **B. 5-7 per 1000** — Indian studies report RHD prevalence of 5–7 per 1000 children aged 5–15 years in school surveys; this is the standard NEET-PG cited figure for Jai Vigyan Mission and WHO rheumatic fever control targets.
 
 </details>
 
@@ -7562,7 +7562,7 @@ Jai Vigyan Mission mode project in India is for?
 
 <details><summary>Answer</summary>
 
-**C. Rheumatic fever** — Source: Medicoholic 2016 PYQ compilation.
+**C. Rheumatic fever** — **C. Rheumatic fever** — Jai Vigyan Mission Mode Project on Rheumatic Fever/Rheumatic Heart Disease focuses on primary prevention (sore throat treatment), secondary prophylaxis with benzathine penicillin, and echocardiographic screening in India.
 
 </details>
 
@@ -7582,7 +7582,7 @@ Which does not have Live births as denominator?
 
 <details><summary>Answer</summary>
 
-**D. Child death rate** — Source: Medicoholic 2016 PYQ compilation.
+**D. Child death rate** — **D. Child death rate** — Child death rate uses mid-year child population (1–4 years) as the denominator, not live births. IMR, NMR, and child mortality rate all use live births per 1000 as the denominator per WHO standard definitions.
 
 </details>
 
@@ -7602,7 +7602,7 @@ Dual record system is useful for estimation of?
 
 <details><summary>Answer</summary>
 
-**B. Fertility** — Source: Medicoholic 2016 PYQ compilation.
+**B. Fertility** — **B. Fertility** — Dual Record System (DRS) cross-checks civil registration data against independent survey records to estimate birth and death completeness; it is primarily used to assess fertility (birth rates) and mortality registration accuracy in India.
 
 </details>
 
@@ -7622,7 +7622,7 @@ Perinatal mortality rate include which of the following?
 
 <details><summary>Answer</summary>
 
-**B. Still birth + early neonatal deaths** — Source: Medicoholic 2016 PYQ compilation.
+**B. Still birth + early neonatal deaths** — **B. Still birth + early neonatal deaths** — Perinatal mortality = stillbirths (≥28 weeks gestation) + early neonatal deaths (0–7 days), expressed per 1000 total births; it reflects obstetric and immediate neonatal care quality.
 
 </details>
 
@@ -7642,7 +7642,7 @@ Poor man's iron source is?
 
 <details><summary>Answer</summary>
 
-**D. Jaggery** — Source: Medicoholic 2016 PYQ compilation.
+**D. Jaggery** — **D. Jaggery** — Jaggery (gur) contains 10–13 mg iron per 100 g and is the cheapest widely available iron source in India; termed 'poor man's iron' because it is affordable and consumed across all socioeconomic groups, especially rural populations.
 
 </details>
 
@@ -7662,7 +7662,7 @@ For every 100 kilocalories, vitamin B, required is -
 
 <details><summary>Answer</summary>
 
-**A. 0.05 mg** — Source: Medicoholic 2016 PYQ compilation.
+**A. 0.05 mg** — **A. 0.05 mg** — Thiamine (Vitamin B₁) requirement is 0.5 mg/1000 kcal = 0.05 mg per 100 kcal; ICMR recommends this ratio to prevent beriberi; higher carbohydrate intake increases thiamine requirement proportionally.
 
 </details>
 
@@ -7682,7 +7682,7 @@ Gomez classification is based on ?
 
 <details><summary>Answer</summary>
 
-**A. Weight retardation** — Source: Medicoholic 2016 PYQ compilation.
+**A. Weight retardation** — **A. Weight retardation** — Gomez classification (1956) grades protein-energy malnutrition by percentage of expected weight-for-age: Grade I (75–90%), Grade II (60–75%), Grade III (<60%); purely weight-based, does not assess height or wasting.
 
 </details>
 
@@ -7702,7 +7702,7 @@ Kanawati index is used for ?
 
 <details><summary>Answer</summary>
 
-**B. PEM** — Source: Medicoholic 2016 PYQ compilation.
+**B. PEM** — **B. PEM** — Kanawati index = mid-arm circumference (cm) / head circumference (cm); values <0.28 indicate severe PEM; it is a simple field tool to identify protein-energy malnutrition in children under 5 without weighing equipment.
 
 </details>
 
@@ -7722,7 +7722,7 @@ Human milk with respect to cow milk has -
 
 <details><summary>Answer</summary>
 
-**D. a and b** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and b** — **D. a and b** — Human breast milk contains less total protein (0.9 vs 3.4 g/100 ml) and less fat than cow milk; however, human milk has more lactose (carbohydrate) and contains IgA, lactoferrin, lysozyme not present in cow milk.
 
 </details>
 
@@ -7742,7 +7742,7 @@ Most common nutritional problem in India?
 
 <details><summary>Answer</summary>
 
-**C. Iran deficiency anemia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Iran deficiency anemia** — **C. Iron deficiency anemia** — IDA is the most prevalent nutritional deficiency in India, affecting ~50% of children and ~58% of pregnant women per NFHS-5; National Nutritional Anaemia Prophylaxis Programme targets this with weekly iron-folic acid supplementation.
 
 </details>
 
@@ -7762,7 +7762,7 @@ Not a primary air pollutant?
 
 <details><summary>Answer</summary>
 
-**C. Ozon** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ozon** — **C. Ozone** — Ozone (O₃) is a secondary air pollutant formed by photochemical reactions between primary pollutants (NOx, VOCs) and sunlight; SO₂, CO, and VOCs are directly emitted from combustion sources as primary pollutants.
 
 </details>
 
@@ -7782,7 +7782,7 @@ Number of holes in mosquito net [per sq. inch] ?
 
 <details><summary>Answer</summary>
 
-**B. 150** — Source: Medicoholic 2016 PYQ compilation.
+**B. 150** — **B. 150** — Standard mosquito nets should have 150 holes per square inch (approximately 1.2 mm mesh size); this prevents Anopheles entry while allowing adequate air circulation; finer meshes impair ventilation in tropical settings.
 
 </details>
 
@@ -7802,7 +7802,7 @@ In malaria control, insecticide used for insectiside treated bed nets (ITBN)-
 
 <details><summary>Answer</summary>
 
-**A. Deltamethrin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Deltamethrin** — **A. Deltamethrin** — Deltamethrin (pyrethroid) is the WHO-recommended insecticide for insecticide-treated bed nets (ITBNs/LLINs) in NVBDCP India's malaria control; it is safe for skin contact, has low mammalian toxicity, and retains efficacy after multiple washes.
 
 </details>
 
@@ -7822,7 +7822,7 @@ Test for coliform count ?
 
 <details><summary>Answer</summary>
 
-**A. Eijkman test** — Source: Medicoholic 2016 PYQ compilation.
+**A. Eijkman test** — **A. Eijkman test** — Eijkman test (incubation at 44°C in lactose broth with gas production) confirms thermotolerant fecal coliforms (E. coli) in water; it differentiates fecal from non-fecal coliforms as the standard confirmatory water quality test.
 
 </details>
 

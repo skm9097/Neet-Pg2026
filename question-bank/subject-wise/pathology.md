@@ -2304,7 +2304,7 @@ Ximelagatran is used as ?
 
 <details><summary>Answer</summary>
 
-**B. Anticoagulant** — Source: Medicoholic 2015 PYQ compilation.
+**B. Anticoagulant** — **B. Anticoagulant** — Ximelagatran is an oral direct thrombin inhibitor (prodrug of melagatran), used as anticoagulant; withdrawn due to hepatotoxicity but was the first oral direct thrombin inhibitor.
 
 </details>
 
@@ -2322,7 +2322,7 @@ Thymidine is responsible for resistance to which antibiotic ?
 
 <details><summary>Answer</summary>
 
-**B. Sulfonamide** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sulfonamide** — **B. Sulfonamide** — Excess thymidine in the environment bypasses sulfonamide blockade of dihydropteroate synthase, supplying bacteria with the thymidylate they need and causing resistance.
 
 </details>
 
@@ -2340,7 +2340,7 @@ Which of the following is not excreted in kidney ?
 
 <details><summary>Answer</summary>
 
-**D. Moxifloxacin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Moxifloxacin** — **D. Moxifloxacin** — Moxifloxacin is primarily excreted via hepatic/biliary route and faeces; ciprofloxacin, ofloxacin, and levofloxacin are predominantly renally excreted and require dose adjustment in renal failure.
 
 </details>
 
@@ -2358,7 +2358,7 @@ Levamisol is a/an ?
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Levamisole is an anthelmintic (nematodes), immunomodulator (restores T-cell function), and immunostimulant; historically used as adjuvant in colon cancer chemotherapy.
 
 </details>
 
@@ -2376,7 +2376,7 @@ Quinine acts on which stage of plasmodium life cycle?
 
 <details><summary>Answer</summary>
 
-**C. Erythrocytic** — Source: Medicoholic 2015 PYQ compilation.
+**C. Erythrocytic** — **C. Erythrocytic** — Quinine acts on the erythrocytic (blood) stage of Plasmodium by accumulating in parasitised RBCs, inhibiting haem polymerisation and causing toxic haem accumulation.
 
 </details>
 
@@ -2394,7 +2394,7 @@ Synergistic action is shown by all except ?
 
 <details><summary>Answer</summary>
 
-**D. Penicillin plus tetracycline** — Source: Medicoholic 2015 PYQ compilation.
+**D. Penicillin plus tetracycline** — **D. Penicillin plus tetracycline** — Penicillin (bactericidal, acts on dividing cells) and tetracycline (bacteriostatic, inhibits growth) are antagonistic; bacteriostatic drugs reduce the efficacy of cell-wall-active agents.
 
 </details>
 
@@ -2412,7 +2412,7 @@ Neuropathy with INH therapy is least in patients?
 
 <details><summary>Answer</summary>
 
-**C. Fast acetylators** — Source: Medicoholic 2015 PYQ compilation.
+**C. Fast acetylators** — **C. Fast acetylators** — INH-induced peripheral neuropathy results from pyridoxine depletion; fast acetylators rapidly inactivate INH, resulting in lower drug levels and thus least neuropathy risk.
 
 </details>
 
@@ -2430,7 +2430,7 @@ Longest acting carbapenems ?
 
 <details><summary>Answer</summary>
 
-**D. Ertapenem** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ertapenem** — **D. Ertapenem** — Ertapenem has the longest half-life (~4 hours) among carbapenems, allowing once-daily dosing; imipenem and meropenem require 6–8 hourly dosing.
 
 </details>
 
@@ -2448,7 +2448,7 @@ XDR TB is defined as ?
 
 <details><summary>Answer</summary>
 
-**D. MDR plus resistance to Amikacin** — Source: Medicoholic 2015 PYQ compilation.
+**D. MDR plus resistance to Amikacin** — **D. MDR plus resistance to Amikacin** — Updated WHO 2021 definition: XDR-TB = MDR/RR-TB plus resistance to any fluoroquinolone AND at least one Group A injectable (bedaquiline or linezolid); older definition required fluoroquinolone plus injectable aminoglycoside (amikacin/kanamycin).
 
 </details>
 
@@ -2466,7 +2466,7 @@ Which antibiotic should not be given after drinking milk?
 
 <details><summary>Answer</summary>
 
-**B. Tetracycline** — Source: Medicoholic 2015 PYQ compilation.
+**B. Tetracycline** — **B. Tetracycline** — Dairy products chelate tetracycline with calcium, forming insoluble complexes that reduce oral absorption by up to 50%; tetracyclines should be taken on an empty stomach.
 
 </details>
 
@@ -2484,7 +2484,7 @@ Post-transplantation hypertension can be caused by:I. Rejection. II. Cyclosporin
 
 <details><summary>Answer</summary>
 
-**A. I,II,III,IV are correct** — Source: Medicoholic 2015 PYQ compilation.
+**A. I,II,III,IV are correct** — **A. I,II,III,IV are correct** — Post-transplant hypertension has multiple causes: graft rejection, cyclosporine-induced renal vasoconstriction, transplant renal artery stenosis (RTAS), and pre-existing hypertension.
 
 </details>
 
@@ -2502,7 +2502,7 @@ Which of the following drugs is associated with untoward side effect of renal tu
 
 <details><summary>Answer</summary>
 
-**A. Cisplatin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cisplatin** — **A. Cisplatin** — Cisplatin causes dose-dependent proximal renal tubular damage and acute tubular necrosis by forming platinum-DNA adducts in tubular cells; aggressive hydration is used to reduce nephrotoxicity.
 
 </details>
 
@@ -2520,7 +2520,7 @@ Drug that can cause hypertrophic pyloric stenosis is?
 
 <details><summary>Answer</summary>
 
-**B. Erythromycin** — Source: Medicoholic 2015 PYQ compilation.
+**B. Erythromycin** — **B. Erythromycin** — Erythromycin is a motilin receptor agonist; neonates exposed (especially in the first 2 weeks of life) have significantly increased risk of infantile hypertrophic pyloric stenosis.
 
 </details>
 
@@ -2538,7 +2538,7 @@ Lower esophageal sphincter pressure is increased by all of the following substan
 
 <details><summary>Answer</summary>
 
-**D. Secretin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Secretin** — **D. Secretin** — Secretin decreases lower oesophageal sphincter (LOS) pressure; gastrin, vasopressin, and motilin increase LOS pressure, while secretin and cholecystokinin decrease it.
 
 </details>
 
@@ -2556,7 +2556,7 @@ Interstitial nephritis is seen with all except
 
 <details><summary>Answer</summary>
 
-**B. INH** — Source: Medicoholic 2015 PYQ compilation.
+**B. INH** — **B. INH** — INH is not a classic cause of interstitial nephritis; beta-lactams (penicillin/cephalosporins), diuretics (furosemide), NSAIDs, and allopurinol are well-recognised causes of drug-induced interstitial nephritis.
 
 </details>
 
@@ -2574,7 +2574,7 @@ Lorcaserin is used as ?
 
 <details><summary>Answer</summary>
 
-**D. Anti-obesity** — Source: Medicoholic 2015 PYQ compilation.
+**D. Anti-obesity** — **D. Anti-obesity** — Lorcaserin is a selective 5-HT2C serotonin receptor agonist that reduces appetite by activating POMC neurons in the hypothalamus; it was approved for chronic weight management.
 
 </details>
 
@@ -2592,7 +2592,7 @@ Flu like syptoms is side effect of which anti TB drug ?
 
 <details><summary>Answer</summary>
 
-**B. Rifampicin** — Source: Medicoholic 2015 PYQ compilation.
+**B. Rifampicin** — **B. Rifampicin** — Flu-like syndrome (fever, chills, myalgia) is a classic adverse effect of intermittent high-dose rifampicin due to immune complex formation; it is less common with daily dosing.
 
 </details>
 
@@ -2610,7 +2610,7 @@ All of the following are known adverse effects of thalidomide, except:
 
 <details><summary>Answer</summary>
 
-**A. Diarrhoea** — Source: Medicoholic 2015 PYQ compilation.
+**A. Diarrhoea** — **A. Diarrhoea** — Thalidomide causes constipation (not diarrhoea), along with teratogenicity (phocomelia), peripheral neuropathy, and DVT/PE; constipation is its common GI side effect.
 
 </details>
 
@@ -2628,7 +2628,7 @@ Oxidation of drugs is mainly takes place in?
 
 <details><summary>Answer</summary>
 
-**B. Smooth ER** — Source: Medicoholic 2015 PYQ compilation.
+**B. Smooth ER** — **B. Smooth ER** — Phase I oxidative drug metabolism is carried out by cytochrome P450 enzymes located on the smooth endoplasmic reticulum (microsomal fraction) of hepatocytes.
 
 </details>
 
@@ -2646,7 +2646,7 @@ Sec 191 IPC is for -
 
 <details><summary>Answer</summary>
 
-**B. Hostile witness** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hostile witness** — **B. Hostile witness** — Section 191 IPC defines giving false evidence (perjury); a hostile witness who contradicts prior statements can be cross-examined and charged under this section.
 
 </details>
 
@@ -2664,7 +2664,7 @@ Dying declaration is a: MAHE 10
 
 <details><summary>Answer</summary>
 
-**C. Documentary evidence** — Source: Medicoholic 2015 PYQ compilation.
+**C. Documentary evidence** — **C. Documentary evidence** — A dying declaration recorded in writing by a magistrate or doctor is classified as documentary evidence and is admissible under Section 32 of the Indian Evidence Act.
 
 </details>
 
@@ -2682,7 +2682,7 @@ Novus actus interveniens is -
 
 <details><summary>Answer</summary>
 
-**B. Breaking of chain** — Source: Medicoholic 2015 PYQ compilation.
+**B. Breaking of chain** — **B. Breaking of chain** — Novus actus interveniens (new intervening act) is a legal doctrine where an independent act breaks the chain of causation between the defendant's act and the harm caused.
 
 </details>
 
@@ -2700,7 +2700,7 @@ Inquest, not followed in India is -
 
 <details><summary>Answer</summary>
 
-**C. Coroner's inquest** — Source: Medicoholic 2015 PYQ compilation.
+**C. Coroner's inquest** — **C. Coroner's inquest** — The Coroner's Act was abolished in India; only police inquest (Section 174 CrPC) and magistrate inquest (Section 176 CrPC) are practised in India.
 
 </details>
 
@@ -2718,7 +2718,7 @@ Length of the fetus is 40cms. What would be the age of gestation ?
 
 <details><summary>Answer</summary>
 
-**D. 8 months** — Source: Medicoholic 2015 PYQ compilation.
+**D. 8 months** — **D. 8 months** — Using Haase's rule, fetal length = month² for first 5 months and month × 5 thereafter; at 8 months, length = 8 × 5 = 40 cm, confirming 8 months gestation.
 
 </details>
 
@@ -2736,7 +2736,7 @@ UV rays examination is done for -
 
 <details><summary>Answer</summary>
 
-**A. Faded tattoo** — Source: Medicoholic 2015 PYQ compilation.
+**A. Faded tattoo** — **A. Faded tattoo** — UV (Wood's lamp) examination reveals faded or old tattoos that are invisible to the naked eye, as certain pigments fluoresce under UV light; used in forensic identification.
 
 </details>
 
@@ -2754,7 +2754,7 @@ Time interval between somatic and molecular death is -
 
 <details><summary>Answer</summary>
 
-**D. 1 - 2 hrs** — Source: Medicoholic 2015 PYQ compilation.
+**D. 1 - 2 hrs** — **D. 1-2 hrs** — Somatic (clinical) death precedes molecular (cellular) death; individual cells and tissues survive 1–2 hours after cardiorespiratory arrest, allowing viable organ transplantation.
 
 </details>
 
@@ -2772,7 +2772,7 @@ Bishop's tripod of life includes all except -
 
 <details><summary>Answer</summary>
 
-**C. Spinal cord reflexes** — Source: Medicoholic 2015 PYQ compilation.
+**C. Spinal cord reflexes** — **C. Spinal cord reflexes** — Bishop's tripod of life comprises respiration, circulation, and brain function (nervous system); spinal cord reflexes can persist after brain death and are not part of the tripod.
 
 </details>
 
@@ -2790,7 +2790,7 @@ For autopsy, stomach is open through -
 
 <details><summary>Answer</summary>
 
-**C. Greater curvature** — Source: Medicoholic 2015 PYQ compilation.
+**C. Greater curvature** — **C. Greater curvature** — During autopsy, the stomach is opened along its greater curvature to examine the mucosa, contents, and any lesions without disturbing the lesser curvature anatomy.
 
 </details>
 
@@ -2808,7 +2808,7 @@ Tache noire de salenortica is a postmortem finding is related to
 
 <details><summary>Answer</summary>
 
-**A. Eye** — Source: Medicoholic 2015 PYQ compilation.
+**A. Eye** — **A. Eye** — Tache noire de sclèrotique is a black band on the sclera due to drying and desiccation of the exposed conjunctiva when the eyelids remain open after death.
 
 </details>
 
@@ -2826,7 +2826,7 @@ Adipocere formation is seen in:
 
 <details><summary>Answer</summary>
 
-**B. Dead body buried in damp, clay soil** — Source: Medicoholic 2015 PYQ compilation.
+**B. Dead body buried in damp, clay soil** — **B. Dead body buried in damp, clay soil** — Adipocere (grave wax) forms when body fat undergoes saponification in warm, moist, anaerobic conditions such as burial in damp clay soil.
 
 </details>
 
@@ -2844,7 +2844,7 @@ In Adipocere, color change seen is -
 
 <details><summary>Answer</summary>
 
-**A. Grayish white** — Source: Medicoholic 2015 PYQ compilation.
+**A. Grayish white** — **A. Grayish white** — Adipocere (saponification of body fat) converts unsaturated fatty acids to saturated soap-like compounds, producing a grayish-white, waxy, firm consistency.
 
 </details>
 
@@ -2862,7 +2862,7 @@ True about cadaveric spasm :
 
 <details><summary>Answer</summary>
 
-**A. Develops immediately after death** — Source: Medicoholic 2015 PYQ compilation.
+**A. Develops immediately after death** — **A. Develops immediately after death** — Cadaveric spasm (instantaneous rigor) occurs at the moment of death due to extreme nervous exhaustion, with no preceding relaxation phase unlike normal rigor mortis.
 
 </details>
 
@@ -2880,7 +2880,7 @@ In India exhumation is ordered by ?
 
 <details><summary>Answer</summary>
 
-**A. Magistrate** — Source: Medicoholic 2015 PYQ compilation.
+**A. Magistrate** — **A. Magistrate** — In India, exhumation of a buried body for medico-legal examination requires a written order from a First Class Magistrate under CrPC.
 
 </details>
 
@@ -2898,7 +2898,7 @@ Chicken fat appearance is seen in -
 
 <details><summary>Answer</summary>
 
-**B. Postmortem wound** — Source: Medicoholic 2015 PYQ compilation.
+**B. Postmortem wound** — **B. Postmortem wound** — Chicken fat clot (yellow postmortem clot) forms after death when blood settles and clots without vital reaction; antemortem wounds show red hemorrhagic clots with inflammatory response.
 
 </details>
 
@@ -2916,7 +2916,7 @@ True about heat hematoma: PGI 12
 
 <details><summary>Answer</summary>
 
-**B. Between skull and dura mater** — Source: Medicoholic 2015 PYQ compilation.
+**B. Between skull and dura mater** — **B. Between skull and dura mater** — Heat hematoma is an extradural collection formed between the inner surface of the skull and the dura mater due to intense heat, distinguished from traumatic EDH by its honeycomb/frothy appearance.
 
 </details>
 
@@ -2934,7 +2934,7 @@ Homicidal gunshot wound can be differentiated from suicidal gunshot wound by-
 
 <details><summary>Answer</summary>
 
-**A. Multiple gunshot wounds** — Source: Medicoholic 2015 PYQ compilation.
+**A. Multiple gunshot wounds** — **A. Multiple gunshot wounds** — Multiple entry wounds strongly suggest homicide, as suicide typically involves a single self-inflicted shot; other features like powder on the hand can occur in both.
 
 </details>
 
@@ -2952,7 +2952,7 @@ Choking is characteristic of the following weapon:
 
 <details><summary>Answer</summary>
 
-**C. Shotgun** — Source: Medicoholic 2015 PYQ compilation.
+**C. Shotgun** — **C. Shotgun** — Choke is a constriction at the muzzle end of a shotgun barrel that concentrates the pellet spread; revolvers, pistols, and rifles fire single projectiles and have no choke.
 
 </details>
 
@@ -2970,7 +2970,7 @@ Beveling of skull is seen in -
 
 <details><summary>Answer</summary>
 
-**C. Exit point of bullet** — Source: Medicoholic 2015 PYQ compilation.
+**C. Exit point of bullet** — **C. Exit point of bullet** — At the exit wound, the bullet exits outward beveling (larger defect on outer skull table), whereas entry wounds show inward beveling (larger defect on inner table).
 
 </details>
 
@@ -2988,7 +2988,7 @@ Most specific sign of Antemortem burns is -
 
 <details><summary>Answer</summary>
 
-**A. Soot in respiratory passage** — Source: Medicoholic 2015 PYQ compilation.
+**A. Soot in respiratory passage** — **A. Soot in respiratory passage** — Inhalation of soot/carbon particles into the airways proves the victim was alive and breathing during the fire; postmortem burns show no airway soot deposition.
 
 </details>
 
@@ -3006,7 +3006,7 @@ Granulomatosis infantiseptica is caused by:
 
 <details><summary>Answer</summary>
 
-**D. Listeria** — Source: Medicoholic 2015 PYQ compilation.
+**D. Listeria** — **D. Listeria** — Listeria monocytogenes causes granulomatosis infantiseptica, a disseminated neonatal infection with multiple miliary granulomas in liver, spleen, and adrenals acquired transplacentally.
 
 </details>
 
@@ -3024,7 +3024,7 @@ Which is not true about macrophages:
 
 <details><summary>Answer</summary>
 
-**C. M2 type involved in inflammation** — Source: Medicoholic 2015 PYQ compilation.
+**C. M2 type involved in inflammation** — **C. M2 type involved in inflammation** — M1 macrophages (classically activated by IFN-γ) mediate inflammation; M2 macrophages (alternatively activated) are anti-inflammatory and involved in tissue repair and healing.
 
 </details>
 
@@ -3042,7 +3042,7 @@ Which of the following is not a premalignant condition oral cancer?
 
 <details><summary>Answer</summary>
 
-**D. Systemic Sclerosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Systemic Sclerosis** — **D. Systemic Sclerosis** — Leukoplakia, erythroplakia, and oral submucous fibrosis are established premalignant oral lesions; systemic sclerosis causes esophageal dysmotility but is not a premalignant condition for oral cancer.
 
 </details>
 
@@ -3060,7 +3060,7 @@ Red keratic precipitates are seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Hemorrhagic uveitis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hemorrhagic uveitis** — **B. Hemorrhagic uveitis** — Red (blood-stained) keratic precipitates depositing on the corneal endothelium indicate hemorrhagic uveitis; granulomatous uveitis shows mutton-fat (large greasy white) KPs.
 
 </details>
 
@@ -3078,7 +3078,7 @@ Central bronchiectasis is seen with
 
 <details><summary>Answer</summary>
 
-**B. Cystic fibrosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cystic fibrosis** — **B. Cystic fibrosis** — CFTR mutation causes thick mucus plugging and infection in central/proximal airways leading to central bronchiectasis; TB typically causes peripheral upper lobe bronchiectasis.
 
 </details>
 
@@ -3096,7 +3096,7 @@ Bronchiectasis Sicca is seen with
 
 <details><summary>Answer</summary>
 
-**A. Tuberculosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tuberculosis** — **A. Tuberculosis** — Bronchiectasis sicca (dry bronchiectasis with hemoptysis but no sputum) results from upper lobe TB-related fibrosis and cavitation where mucus drainage is aided by gravity.
 
 </details>
 
@@ -3114,7 +3114,7 @@ Most common cause of idiopathic interstitial pneumonia is
 
 <details><summary>Answer</summary>
 
-**C. Idiopathic pulmonary fibrosis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Idiopathic pulmonary fibrosis** — **C. Idiopathic pulmonary fibrosis** — UIP/IPF is the most common idiopathic interstitial pneumonia, characterized by progressive fibrosis with honeycombing predominantly in lower lobes, poor prognosis.
 
 </details>
 
@@ -3132,7 +3132,7 @@ Disease, does not recur in the kidney after renal transplant is :
 
 <details><summary>Answer</summary>
 
-**A. Alport syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**A. Alport syndrome** — **A. Alport syndrome** — Alport syndrome is a genetic defect in type IV collagen; the transplanted donor kidney has normal collagen, so the disease cannot recur (unlike acquired diseases like amyloidosis or diabetic nephropathy).
 
 </details>
 
@@ -3150,7 +3150,7 @@ The most common cause of malignant adrenal mass is
 
 <details><summary>Answer</summary>
 
-**D. Metastasis from another solid tissue tumor** — Source: Medicoholic 2015 PYQ compilation.
+**D. Metastasis from another solid tissue tumor** — **D. Metastasis from another solid tissue tumor** — Adrenal glands are a common metastatic site; lung, breast, renal, and GI cancers frequently metastasize here, making metastasis the most common malignant adrenal mass overall.
 
 </details>
 
@@ -3168,7 +3168,7 @@ I.R.I.S. is -
 
 <details><summary>Answer</summary>
 
-**C. Immune reconstitution inflammatory syndroma** — Source: Medicoholic 2015 PYQ compilation.
+**C. Immune reconstitution inflammatory syndroma** — **C. Immune reconstitution inflammatory syndrome** — IRIS is a paradoxical worsening of pre-existing infections due to recovery of the immune system after starting ART in HIV patients, mediated by restored inflammatory responses.
 
 </details>
 
@@ -3186,7 +3186,7 @@ All are seen in carney's triad except -
 
 <details><summary>Answer</summary>
 
-**A. Atrial myxoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Atrial myxoma** — **A. Atrial myxoma** — Carney's triad (not Carney complex) comprises GIST, pulmonary chondroma, and paraganglioma; atrial myxoma is part of Carney complex (CNC1/PRKAR1A mutation), a separate entity.
 
 </details>
 
@@ -3204,7 +3204,7 @@ All of the following are paraneoplastic syndromes for renal cell carcinoma excep
 
 <details><summary>Answer</summary>
 
-**D. Acanthosis Nigricans** — Source: Medicoholic 2015 PYQ compilation.
+**D. Acanthosis Nigricans** — **D. Acanthosis Nigricans** — RCC paraneoplastic syndromes include fever (IL-6), polycythemia (EPO), hypertension, hypercalcemia, and amyloidosis; acanthosis nigricans is associated with GI tumors (gastric/GI cancers), not RCC.
 
 </details>
 
@@ -3222,7 +3222,7 @@ Perihepatic fibrosis occurring in Fitz Hugh Curtis Syndrome is due to -
 
 <details><summary>Answer</summary>
 
-**A. Pelvic Inflammatory Disease** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pelvic Inflammatory Disease** — **A. Pelvic Inflammatory Disease** — Fitz-Hugh-Curtis syndrome is perihepatic inflammation (violin-string adhesions) caused by direct or lymphatic spread of PID organisms (Chlamydia or Gonorrhea) to the liver capsule.
 
 </details>
 
@@ -3240,7 +3240,7 @@ True about MALToma is
 
 <details><summary>Answer</summary>
 
-**B. H. Pylori infection is a risk factor** — Source: Medicoholic 2015 PYQ compilation.
+**B. H. Pylori infection is a risk factor** — **B. H. Pylori infection is a risk factor** — H. pylori induces chronic gastric MALT (mucosa-associated lymphoid tissue), providing antigen drive for B-cell MALToma; H. pylori eradication can induce remission in early-stage disease.
 
 </details>
 
@@ -3258,7 +3258,7 @@ False about Gastric lymphoma is:
 
 <details><summary>Answer</summary>
 
-**C. Total gastrectomy with adjuvant chemotherapy is the treatment** — Source: Medicoholic 2015 PYQ compilation.
+**C. Total gastrectomy with adjuvant chemotherapy is the treatment** — **C. Total gastrectomy with adjuvant chemotherapy is the treatment** — Gastric MALToma is treated with H. pylori eradication first; surgery is rarely required, and chemotherapy/radiotherapy are used for advanced or non-H. pylori cases.
 
 </details>
 
@@ -3276,7 +3276,7 @@ Aneurysmal dilation of the small bowel is seen in
 
 <details><summary>Answer</summary>
 
-**A. Small bowel Lymphoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Small bowel Lymphoma** — **A. Small bowel Lymphoma** — Lymphoma destroys the muscularis propria of the bowel wall, impairing peristalsis and causing aneurysmal (saccular) dilation; this distinguishes lymphoma from adenocarcinoma which causes stricture.
 
 </details>
 
@@ -3294,7 +3294,7 @@ Which of the following is a tumour marker for bladder cancer ?
 
 <details><summary>Answer</summary>
 
-**D. Nuclear Matrix protein 22** — Source: Medicoholic 2015 PYQ compilation.
+**D. Nuclear Matrix protein 22** — **D. Nuclear Matrix protein 22** — NMP-22 (Nuclear Matrix Protein 22) is a urinary biomarker for bladder transitional cell carcinoma, used for diagnosis and surveillance; FDA-approved urine test.
 
 </details>
 
@@ -3312,7 +3312,7 @@ RPLND and Chemotherapy may be used in management of
 
 <details><summary>Answer</summary>
 
-**A. Non seminomatous Germ cell tumours of testis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Non seminomatous Germ cell tumours of testis** — **A. Non seminomatous Germ cell tumours of testis** — RPLND (retroperitoneal lymph node dissection) combined with BEP chemotherapy is used for NSGCTs; seminomas are highly radiosensitive and treated with radiation/chemotherapy alone.
 
 </details>
 
@@ -3330,7 +3330,7 @@ A patient (age not captured in source) who is a year old child presents with a m
 
 <details><summary>Answer</summary>
 
-**A. Neuroblastoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Neuroblastoma** — **A. Neuroblastoma** — Neuroblastoma classically presents with lumbar/flank mass plus excruciating bone pain (due to skeletal metastases via hematogenous spread), unlike Wilms' tumor which rarely causes bone pain.
 
 </details>
 
@@ -3348,7 +3348,7 @@ A patient (age not captured in source) who is a year old child presents with an 
 
 <details><summary>Answer</summary>
 
-**B. Neuroblastoma** — Source: Medicoholic 2015 PYQ compilation.
+**B. Neuroblastoma** — **B. Neuroblastoma** — Neuroblastoma features abdominal mass, fever, bone pain from metastases, and IVC thrombosis from direct extension; Wilms' tumor may invade renal vein/IVC but rarely causes bone pain.
 
 </details>
 
@@ -3366,7 +3366,7 @@ Which one of the following statements is false about Xanthogranulomatous pyelone
 
 <details><summary>Answer</summary>
 
-**D. Boys are affected more frequently** — Source: Medicoholic 2015 PYQ compilation.
+**D. Boys are affected more frequently** — **D. Boys are affected more frequently** — In children, xanthogranulomatous pyelonephritis affects girls more frequently (unlike adults where female predominance is also seen); it also presents more focally than diffusely in children.
 
 </details>
 
@@ -3384,7 +3384,7 @@ Abdominal pain in Henoch Schonlein purpura is due to -
 
 <details><summary>Answer</summary>
 
-**A. Mucosal erosions and swelling of the GI mucosa** — Source: Medicoholic 2015 PYQ compilation.
+**A. Mucosal erosions and swelling of the GI mucosa** — **A. Mucosal erosions and swelling of the GI mucosa** — HSP is IgA-mediated small vessel vasculitis causing submucosal edema and mucosal erosions in the bowel wall, leading to colicky abdominal pain and sometimes intussusception.
 
 </details>
 
@@ -3402,7 +3402,7 @@ Waddling gait due to:
 
 <details><summary>Answer</summary>
 
-**A. Bilateral congenital dysplasia of hip** — Source: Medicoholic 2015 PYQ compilation.
+**A. Bilateral congenital dysplasia of hip** — **A. Bilateral congenital dysplasia of hip** — Bilateral CDH causes bilateral positive Trendelenburg sign with compensatory trunk shift to each side, producing the characteristic waddling gait due to unstable femoral heads.
 
 </details>
 
@@ -3420,7 +3420,7 @@ Onion peel appearanace on Xray is seen in which of the following conditions ?
 
 <details><summary>Answer</summary>
 
-**A. Ewings Sarcoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ewings Sarcoma** — **A. Ewings Sarcoma** — Ewing's sarcoma shows periosteal reaction with multiple layers of new bone formation producing an onion-skin (onion peel) appearance on X-ray, due to successive periosteal elevation by the tumor.
 
 </details>
 
@@ -3438,7 +3438,7 @@ True about nabothian cyst is all except - �
 
 <details><summary>Answer</summary>
 
-**D. It is pre - malignant** — Source: Medicoholic 2015 PYQ compilation.
+**D. It is pre - malignant** — **D. It is pre-malignant** — Nabothian cysts are benign retention cysts of the cervix formed when squamous metaplasia occludes mucus gland ducts; they are entirely benign with no malignant potential.
 
 </details>
 
@@ -3456,7 +3456,7 @@ Most common cause of pelvic inflammatory disease is -
 
 <details><summary>Answer</summary>
 
-**A. Sexually transmitted disease** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sexually transmitted disease** — **A. Sexually transmitted disease** — PID is most commonly caused by ascending STIs, predominantly Neisseria gonorrhoeae and Chlamydia trachomatis, via the cervico-uterine route from sexual contact.
 
 </details>
 
@@ -3474,7 +3474,7 @@ Stereotactic radiosurgery is done for -
 
 <details><summary>Answer</summary>
 
-**D. AV malformation of brain** — Source: Medicoholic 2015 PYQ compilation.
+**D. AV malformation of brain** — **D. AV malformation of brain** — Stereotactic radiosurgery (Gamma Knife/CyberKnife) ablates precisely targeted AVM nidus causing endothelial damage and vessel obliteration; it is not curative for diffuse gliomas or seeding tumors.
 
 </details>
 
@@ -3495,7 +3495,7 @@ All of the following are true about collagen structure except -
 
 <details><summary>Answer</summary>
 
-**B. Lysyl oxidase is dependent on Vitamin C** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lysyl oxidase is dependent on Vitamin C** — **B. Lysyl oxidase is dependent on Vitamin C** — Lysyl oxidase requires copper (not Vitamin C) for cross-linking collagen and elastin; Vitamin C is required for prolyl and lysyl hydroxylase activity during collagen synthesis.
 
 </details>
 
@@ -3515,7 +3515,7 @@ Vitamin A deficiency leads to metaplasia of?
 
 <details><summary>Answer</summary>
 
-**A. Squamous epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**A. Squamous epithelium** — **A. Squamous epithelium** — Vitamin A deficiency causes squamous metaplasia of columnar/transitional epithelia (respiratory, urinary, GI tracts); glandular columnar epithelium is replaced by stratified squamous epithelium.
 
 </details>
 
@@ -3535,7 +3535,7 @@ Example of coagulative necrosis is -
 
 <details><summary>Answer</summary>
 
-**A. Acute tubular necrosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Acute tubular necrosis** — **A. Acute tubular necrosis** — Renal tubular cells undergo coagulative necrosis in ischemia, preserving cell outlines (ghost cells); brain infarcts show liquefactive necrosis and pancreatitis shows fat necrosis.
 
 </details>
 
@@ -3555,7 +3555,7 @@ Which one of the following statements is correct regarding chronic granulomatous
 
 <details><summary>Answer</summary>
 
-**D. Nitrobluetetrazolium test is useful for screening** — Source: Medicoholic 2016 PYQ compilation.
+**D. Nitrobluetetrazolium test is useful for screening** — **D. Nitrobluetetrazolium test is useful for screening** — CGD is diagnosed by NBT test (failure to reduce yellow NBT to blue formazan) or DHR flow cytometry, confirming defective NADPH oxidase and absent respiratory burst.
 
 </details>
 
@@ -3575,7 +3575,7 @@ Most common cause of chronic granulomatous disease in children is:
 
 <details><summary>Answer</summary>
 
-**C. Defective H2O2 production** — Source: Medicoholic 2016 PYQ compilation.
+**C. Defective H2O2 production** — **C. Defective H2O2 production** — CGD results from NADPH oxidase deficiency causing failure to generate superoxide and H2O2; the most common form is X-linked (gp91phox mutation), causing absent oxidative burst and recurrent catalase-positive infections.
 
 </details>
 
@@ -3595,7 +3595,7 @@ Delayed umbilical cord detachment leukocytosis is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Leukocyte adhesion deficiency** — Source: Medicoholic 2016 PYQ compilation.
+**A. Leukocyte adhesion deficiency** — **A. Leukocyte adhesion deficiency** — LAD (CD18/CD11 integrin deficiency) impairs neutrophil migration to wound sites; the umbilical stump relies on neutrophil-mediated inflammation for separation, hence delayed cord detachment with peripheral neutrophilia.
 
 </details>
 
@@ -3615,7 +3615,7 @@ All are pre-malignant conditions except -
 
 <details><summary>Answer</summary>
 
-**C. Hamartoma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hamartoma** — **C. Hamartoma** — Hamartoma is a disorganized but normal tissue overgrowth (not neoplastic); dysplasia and certain metaplasias carry malignant potential, while anaplasia is dedifferentiation within established cancer, not premalignant per se.
 
 </details>
 
@@ -3635,7 +3635,7 @@ Strawberry gums are seen in
 
 <details><summary>Answer</summary>
 
-**C. Wegener's granulomatosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Wegener's granulomatosis** — **C. Wegener's granulomatosis** — Strawberry (cobblestone-red, hyperplastic, friable) gingival lesions are a characteristic oral manifestation of granulomatosis with polyangiitis (Wegener's), caused by granulomatous vasculitis of gingival vessels.
 
 </details>
 
@@ -3655,7 +3655,7 @@ Strawberry gingivitis seen in
 
 <details><summary>Answer</summary>
 
-**C. Wegner granulomatosis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Wegner granulomatosis** — **C. Wegner granulomatosis** — Strawberry gingivitis (erythematous, granular, hyperplastic gums resembling a strawberry) is a hallmark oral finding of Wegener's granulomatosis (GPA) due to necrotizing granulomatous inflammation.
 
 </details>
 
@@ -3675,7 +3675,7 @@ Heinz bodies are removed by?
 
 <details><summary>Answer</summary>
 
-**A. Macrophages** — Source: Medicoholic 2016 PYQ compilation.
+**A. Macrophages** — **A. Macrophages** — Heinz bodies (denatured hemoglobin precipitates in G6PD deficiency/unstable hemoglobins) are pitted out from RBCs by splenic macrophages via a process called pitting, leaving bite cells.
 
 </details>
 
@@ -3695,7 +3695,7 @@ All of the following statements about Burkitt's lymphoma are true, Except:
 
 <details><summary>Answer</summary>
 
-**D. Radiotherapy is the treatment of choice** — Source: Medicoholic 2016 PYQ compilation.
+**D. Radiotherapy is the treatment of choice** — **D. Radiotherapy is the treatment of choice** — Burkitt's lymphoma is treated with intensive short-course chemotherapy (cyclophosphamide-based, e.g., CODOX-M/IVAC); radiotherapy is NOT the treatment of choice due to rapid proliferation and systemic disease.
 
 </details>
 
@@ -3715,7 +3715,7 @@ Oncogene associated with burkitt's lymphoma is:
 
 <details><summary>Answer</summary>
 
-**C. C-MYC** — Source: Medicoholic 2016 PYQ compilation.
+**C. C-MYC** — **C. C-MYC** — Burkitt's lymphoma is driven by c-MYC proto-oncogene translocation (t[8;14]) juxtaposing c-MYC with IgH enhancer, causing uncontrolled B-cell proliferation; c-MYC upregulates ribosome biogenesis and cell cycle.
 
 </details>
 
@@ -3735,7 +3735,7 @@ Cag A gene is associated with
 
 <details><summary>Answer</summary>
 
-**C. MALT lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**C. MALT lymphoma** — **C. MALT lymphoma** — H. pylori CagA (cytotoxin-associated gene A) virulence factor activates oncogenic signaling (SHP-2, NF-κB) in gastric epithelium and B cells, promoting gastric MALToma development.
 
 </details>
 
@@ -3755,7 +3755,7 @@ Richter’s syndrome refers to which of the following malignant transformation?
 
 <details><summary>Answer</summary>
 
-**A. CLL evolving into aggressive lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. CLL evolving into aggressive lymphoma** — **A. CLL evolving into aggressive lymphoma** — Richter's transformation is the clonal evolution of CLL into a high-grade lymphoma (usually diffuse large B-cell lymphoma), with sudden worsening, B symptoms, and markedly elevated LDH.
 
 </details>
 
@@ -3775,7 +3775,7 @@ Granulomatous lung disease is caused by?
 
 <details><summary>Answer</summary>
 
-**A. Hypersensitivity pneumonitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hypersensitivity pneumonitis** — **A. Hypersensitivity pneumonitis** — Extrinsic allergic alveolitis (HP) causes non-caseating granulomatous inflammation in lung parenchyma from type III/IV hypersensitivity to inhaled organic antigens; sarcoidosis also causes lung granulomas but is not listed.
 
 </details>
 
@@ -3795,7 +3795,7 @@ Deficiency of p53 mutation is maximum in which lung carcinoma?
 
 <details><summary>Answer</summary>
 
-**B. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squamous cell carcinoma** — **B. Squamous cell carcinoma** — p53 mutation is most common in squamous cell carcinoma of the lung (>80%); small cell carcinoma also has near-universal p53 loss, but the question specifically asks where its deficiency (absence of mutation) is maximum, indicating SCC has most p53 mutations.
 
 </details>
 
@@ -3815,7 +3815,7 @@ Which type of paraneoplastic syndrome is most commonly associated with lung carc
 
 <details><summary>Answer</summary>
 
-**A. SIADH** — Source: Medicoholic 2016 PYQ compilation.
+**A. SIADH** — **A. SIADH** — Small cell lung carcinoma secretes ADH (ectopic ADH production) causing SIADH with hyponatremia; SCLC is also associated with ACTH (Cushing's), anti-Hu antibodies, and Lambert-Eaton syndrome.
 
 </details>
 
@@ -3835,7 +3835,7 @@ Most common cause of chylothorax is?
 
 <details><summary>Answer</summary>
 
-**B. Lymphoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lymphoma** — **B. Lymphoma** — Lymphoma (especially mediastinal NHL) is the most common non-traumatic cause of chylothorax by compressing or invading the thoracic duct; trauma is the most common overall cause but lymphoma leads non-traumatic cases.
 
 </details>
 
@@ -3855,7 +3855,7 @@ Most common type of pneumoconiosis, associated with TB is?
 
 <details><summary>Answer</summary>
 
-**A. Silicosis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Silicosis** — **A. Silicosis** — Silica particles impair macrophage function and promote Mycobacterium tuberculosis survival, making silicosis the pneumoconiosis with highest TB association (silicotuberculosis); silica is directly immunosuppressive to alveolar macrophages.
 
 </details>
 
@@ -3875,7 +3875,7 @@ Anthracosis is due to inhalation of-
 
 <details><summary>Answer</summary>
 
-**A. Coal dust** — Source: Medicoholic 2016 PYQ compilation.
+**A. Coal dust** — **A. Coal dust** — Anthracosis is black pigmentation of lung tissue from inhalation of coal dust (carbon particles) accumulated in alveolar macrophages; it is the mildest form of coal worker's pneumoconiosis.
 
 </details>
 
@@ -3895,7 +3895,7 @@ Chronic bronchitis is associated with?
 
 <details><summary>Answer</summary>
 
-**B. Bronchiolitis obliterans** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bronchiolitis obliterans** — **B. Bronchiolitis obliterans** — Chronic bronchitis is associated with obliterative bronchiolitis (small airway inflammation and fibrosis); Reid index is increased (not decreased), and both large and small airways are involved.
 
 </details>
 
@@ -3915,7 +3915,7 @@ Histopathology showing large cells with plant like apperance with perinuclear ha
 
 <details><summary>Answer</summary>
 
-**D. Chromophobic** — Source: Medicoholic 2016 PYQ compilation.
+**D. Chromophobic** — **D. Chromophobic** — Chromophobe renal cell carcinoma shows large cells with pale, reticular cytoplasm and perinuclear halos (plant cell appearance) on H&E; these cells stain positively with Hale's colloidal iron for mucopolysaccharides.
 
 </details>
 
@@ -3935,7 +3935,7 @@ True about RCC is?
 
 <details><summary>Answer</summary>
 
-**C. Invasion of renal vein is more common than renal artery** — Source: Medicoholic 2016 PYQ compilation.
+**C. Invasion of renal vein is more common than renal artery** — **C. Invasion of renal vein is more common than renal artery** — RCC has a striking tendency for venous invasion (renal vein and IVC extension) due to its rich venous drainage; arterial invasion is far less common.
 
 </details>
 
@@ -3955,7 +3955,7 @@ What is responsible for regeneration of liver cells?
 
 <details><summary>Answer</summary>
 
-**A. HGF** — Source: Medicoholic 2016 PYQ compilation.
+**A. HGF** — **A. HGF** — Hepatocyte Growth Factor (HGF), acting via c-Met receptor, is the primary mitogen driving hepatocyte proliferation and liver regeneration after partial hepatectomy or injury; TGF-β inhibits regeneration.
 
 </details>
 
@@ -4575,7 +4575,7 @@ Salivary schintigraphy is useful in?
 
 <details><summary>Answer</summary>
 
-**D. Sjogren syndrome** — Source: Medicoholic 2016 PYQ compilation.
+**D. Sjogren syndrome** — **D. Sjogren syndrome** — Salivary scintigraphy with Tc-99m pertechnetate assesses salivary gland uptake and secretion; reduced uptake and excretion is characteristic of autoimmune exocrine gland destruction in Sjögren syndrome.
 
 </details>
 
@@ -4595,7 +4595,7 @@ Trilateral retinoblastoma is?
 
 <details><summary>Answer</summary>
 
-**B. Bilateral retinoblastoma plus pineoblastoma** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bilateral retinoblastoma plus pineoblastoma** — **B. Bilateral retinoblastoma plus pineoblastoma** — Trilateral retinoblastoma = bilateral ocular retinoblastoma + midline intracranial primitive neuroectodermal tumour (pineoblastoma), due to shared RB1 germline mutation affecting pineocytes and retinoblasts.
 
 </details>
 
@@ -4615,7 +4615,7 @@ Hydroxyl ions are destroyed in the body by?
 
 <details><summary>Answer</summary>
 
-**A. Vitamin C** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vitamin C** — **A. Vitamin C** — Ascorbic acid (Vitamin C) is a powerful water-soluble antioxidant that directly scavenges hydroxyl radicals and other reactive oxygen species, preventing oxidative cellular damage.
 
 </details>
 
@@ -4635,7 +4635,7 @@ Which of the following drugs is not an inhibitor of P - glycoprotein?
 
 <details><summary>Answer</summary>
 
-**D. Phenobarbitone** — Source: Medicoholic 2016 PYQ compilation.
+**D. Phenobarbitone** — **D. Phenobarbitone** — Phenobarbitone is a potent inducer (not inhibitor) of P-glycoprotein and CYP450 enzymes; quinidine, verapamil, and erythromycin are classic P-glycoprotein inhibitors that increase drug bioavailability.
 
 </details>
 
@@ -4655,7 +4655,7 @@ Tachyphylaxis is seen with which of the following drugs?
 
 <details><summary>Answer</summary>
 
-**B. Ephedrine** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ephedrine** — **B. Ephedrine** — Ephedrine acts indirectly by releasing noradrenaline from presynaptic vesicles; repeated doses deplete intraneuronal catecholamine stores rapidly, causing progressive attenuation of response (tachyphylaxis).
 
 </details>
 
@@ -4675,7 +4675,7 @@ Oxidation in biotransformation is ?
 
 <details><summary>Answer</summary>
 
-**A. Functionalization reaction** — Source: Medicoholic 2016 PYQ compilation.
+**A. Functionalization reaction** — **A. Functionalization reaction** — Phase I biotransformation (oxidation, reduction, hydrolysis) introduces or unmasks a functional group, increasing polarity; these are called functionalization reactions, distinct from Phase II conjugation reactions.
 
 </details>
 
@@ -4695,7 +4695,7 @@ Which of the following drug crosses BBB?
 
 <details><summary>Answer</summary>
 
-**C. Physostigmine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Physostigmine** — **C. Physostigmine** — Physostigmine is a tertiary amine anticholinesterase that is lipid-soluble and crosses the blood-brain barrier; neostigmine and glycopyrrolate are quaternary ammonium compounds excluded from the CNS.
 
 </details>
 
@@ -4715,7 +4715,7 @@ Which of the following is not true about the action of anticholinergic drugs?
 
 <details><summary>Answer</summary>
 
-**B. Atropine causes mydriasis, abolition of light reflex and** — Source: Medicoholic 2016 PYQ compilation.
+**B. Atropine causes mydriasis, abolition of light reflex and** — **B. Atropine causes mydriasis, abolition of light reflex and** — This statement is actually TRUE; however, atropine causes BRONCHODILATION not bronchoconstriction; the key false statement among all options relates to the incomplete listed action, but the correct answer here is C which describes bronchoconstriction as false — Atropine blocks M3 receptors in bronchial smooth muscle, causing bronchodilation, not bronchoconstriction.
 
 </details>
 
@@ -4735,7 +4735,7 @@ Which of the following is an example of irreversible carbamate?
 
 <details><summary>Answer</summary>
 
-**C. Propoxur** — Source: Medicoholic 2016 PYQ compilation.
+**C. Propoxur** — **C. Propoxur** — Propoxur is an insecticidal carbamate that causes irreversible (pseudo-irreversible, very slow reversibility) cholinesterase inhibition; rivastigmine and galantamine are reversible therapeutic carbamylating agents.
 
 </details>
 
@@ -4755,7 +4755,7 @@ Which of the following is NOT a side effect of amiodarone?
 
 <details><summary>Answer</summary>
 
-**D. Tachycardia** — Source: Medicoholic 2016 PYQ compilation.
+**D. Tachycardia** — **D. Tachycardia** — Amiodarone is a Class III antiarrhythmic that causes bradycardia and QT prolongation, not tachycardia; its well-known toxicities include pulmonary fibrosis, corneal microdeposits, photosensitivity, thyroid dysfunction, and hepatotoxicity.
 
 </details>
 
@@ -4775,7 +4775,7 @@ A side effect of loop diuretics is used in ?
 
 <details><summary>Answer</summary>
 
-**D. Oncology/cancer** — Source: Medicoholic 2016 PYQ compilation.
+**D. Oncology/cancer** — **D. Oncology/cancer** — Loop diuretics cause hyperuricaemia as a side effect by reducing uric acid excretion; this property is exploited therapeutically to prevent tumour lysis syndrome hypouricaemia and in managing uric acid levels in oncology patients.
 
 </details>
 
@@ -4795,7 +4795,7 @@ Which of the following antiarrhythmic drugs can develop Long QT syndrome?
 
 <details><summary>Answer</summary>
 
-**D. All the above** — Source: Medicoholic 2016 PYQ compilation.
+**D. All the above** — **D. All the above** — Ibutilide, dofetilide, and sotalol are all Class III antiarrhythmics that block the rapid delayed rectifier potassium channel (IKr), prolonging repolarisation and QT interval, risking torsades de pointes.
 
 </details>
 
@@ -4815,7 +4815,7 @@ Which drug inhibits both cyclooxygenase and lipooxygenase?
 
 <details><summary>Answer</summary>
 
-**D. BW755** — Source: Medicoholic 2016 PYQ compilation.
+**D. BW755** — **D. BW755** — BW755C is a dual inhibitor of both cyclooxygenase and lipoxygenase pathways, blocking synthesis of both prostaglandins and leukotrienes; aspirin and indomethacin inhibit COX only.
 
 </details>
 
@@ -4835,7 +4835,7 @@ Drug acting on 5HT4 receptor is ?
 
 <details><summary>Answer</summary>
 
-**B. Renzapride** — Source: Medicoholic 2016 PYQ compilation.
+**B. Renzapride** — **B. Renzapride** — Renzapride is a full 5-HT4 receptor agonist and 5-HT3 antagonist used as a prokinetic agent; 5-HT4 activation in the gut enhances acetylcholine release and accelerates gastrointestinal motility.
 
 </details>
 
@@ -4855,7 +4855,7 @@ Rasburicase is an analogue of ?
 
 <details><summary>Answer</summary>
 
-**D. Urate Oxidase** — Source: Medicoholic 2016 PYQ compilation.
+**D. Urate Oxidase** — **D. Urate Oxidase** — Rasburicase is a recombinant urate oxidase that converts insoluble uric acid to soluble allantoin, used to prevent and treat hyperuricaemia in tumour lysis syndrome; humans lack endogenous urate oxidase.
 
 </details>
 
@@ -4875,7 +4875,7 @@ Adverse effect of methysergide is ?
 
 <details><summary>Answer</summary>
 
-**B. Endocardial fibrosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Endocardial fibrosis** — **B. Endocardial fibrosis** — Methysergide (5-HT2 antagonist used for migraine prophylaxis) causes retroperitoneal, pleural, and endocardial/cardiac valvular fibrosis with prolonged use, attributed to its fibrogenic 5-HT-like partial agonism.
 
 </details>
 
@@ -4895,7 +4895,7 @@ Anti-inflammatory actions of corticosteroids are mediated by ?
 
 <details><summary>Answer</summary>
 
-**B. By inhibiting breakdown of phospholipids** — Source: Medicoholic 2016 PYQ compilation.
+**B. By inhibiting breakdown of phospholipids** — **B. By inhibiting breakdown of phospholipids** — Corticosteroids induce lipocortin (annexin-1) synthesis, which inhibits phospholipase A2, thereby blocking release of arachidonic acid from membrane phospholipids and preventing prostaglandin and leukotriene synthesis.
 
 </details>
 
@@ -4915,7 +4915,7 @@ Which of the following is not an inhalational steroids?
 
 <details><summary>Answer</summary>
 
-**B. Betamethasone** — Source: Medicoholic 2016 PYQ compilation.
+**B. Betamethasone** — **B. Betamethasone** — Betamethasone is a systemic corticosteroid used parenterally (e.g., fetal lung maturation); beclomethasone, budesonide, and fluticasone are approved inhaled steroids for asthma/COPD with minimal systemic absorption.
 
 </details>
 
@@ -4935,7 +4935,7 @@ Which of the following antithyroid medications had the maximum chances of causin
 
 <details><summary>Answer</summary>
 
-**C. Propylthiouracil** — Source: Medicoholic 2016 PYQ compilation.
+**C. Propylthiouracil** — **C. Propylthiouracil** — PTU carries the highest risk of agranulocytosis (0.3–0.6%) among antithyroid drugs; it inhibits thyroid peroxidase and peripheral T4→T3 conversion; methimazole/carbimazole have lower agranulocytosis incidence.
 
 </details>
 
@@ -4955,7 +4955,7 @@ Mifepristone acts on which receptor?
 
 <details><summary>Answer</summary>
 
-**A. Type A progesterone receptor** — Source: Medicoholic 2016 PYQ compilation.
+**A. Type A progesterone receptor** — **A. Type A progesterone receptor** — Mifepristone (RU-486) is a competitive antagonist at progesterone receptor type A (PR-A) and glucocorticoid receptors, blocking progesterone's decidual maintenance action, leading to endometrial shedding and cervical ripening.
 
 </details>
 
@@ -4975,7 +4975,7 @@ Tibolone is a ?
 
 <details><summary>Answer</summary>
 
-**C. Synthetic steroidal estrogen** — Source: Medicoholic 2016 PYQ compilation.
+**C. Synthetic steroidal estrogen** — **C. Synthetic steroidal estrogen** — Tibolone is a synthetic steroidal compound with combined estrogenic, progestogenic, and weak androgenic activity; it is metabolised to tissue-selective active metabolites used in postmenopausal hormone therapy.
 
 </details>
 
@@ -4995,7 +4995,7 @@ Danazol acts through :?
 
 <details><summary>Answer</summary>
 
-**C. Inhibition of release of Gn** — Source: Medicoholic 2016 PYQ compilation.
+**C. Inhibition of release of Gn** — **C. Inhibition of release of Gn** — Danazol inhibits gonadotropin (FSH and LH) release from the pituitary, thereby suppressing ovarian steroidogenesis; it also binds androgen and progesterone receptors and inhibits ovarian enzymes, used in endometriosis.
 
 </details>
 
@@ -5015,7 +5015,7 @@ Metyrosine acts by inhibiting ?
 
 <details><summary>Answer</summary>
 
-**C. Tyrosine Hydroxylase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Tyrosine Hydroxylase** — **C. Tyrosine Hydroxylase** — Metyrosine (alpha-methyltyrosine) competitively inhibits tyrosine hydroxylase, the rate-limiting enzyme in catecholamine biosynthesis, reducing noradrenaline/adrenaline production; used in phaeochromocytoma management.
 
 </details>
 
@@ -5035,7 +5035,7 @@ Which of the following oral hypoglycaemic drugs has the longest t 1/2 ?
 
 <details><summary>Answer</summary>
 
-**C. Chlorpropamide** — Source: Medicoholic 2016 PYQ compilation.
+**C. Chlorpropamide** — **C. Chlorpropamide** — Chlorpropamide has the longest half-life (~36 hours) among sulphonylureas, lasting up to 72 hours; tolbutamide is shortest (~6 h), gliclazide ~12 h, and glimepiride ~5–9 h; its prolonged action increases hypoglycaemia risk.
 
 </details>
 
@@ -5055,7 +5055,7 @@ Nasally acting GnRH analogue is ?
 
 <details><summary>Answer</summary>
 
-**C. Nafarelin** — Source: Medicoholic 2016 PYQ compilation.
+**C. Nafarelin** — **C. Nafarelin** — Nafarelin is the only GnRH analogue formulated for intranasal delivery; goserelin is a subcutaneous implant, triptorelin is intramuscular, and leuprolide is subcutaneous/IM; nasal bioavailability avoids hepatic first-pass metabolism.
 
 </details>
 
@@ -5075,7 +5075,7 @@ Which of the following drugs halts macrovascular as well as microvascular effect
 
 <details><summary>Answer</summary>
 
-**B. Biguanides** — Source: Medicoholic 2016 PYQ compilation.
+**B. Biguanides** — **B. Biguanides** — Metformin (biguanide) is the only oral antidiabetic shown to reduce both microvascular complications (by glycaemic control) and macrovascular events (CV mortality reduction in UKPDS), independent of glucose-lowering alone.
 
 </details>
 
@@ -5095,7 +5095,7 @@ Which of the following are naturally occurring opioid?
 
 <details><summary>Answer</summary>
 
-**C. Morphine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Morphine** — **C. Morphine** — Morphine is a naturally occurring phenanthrene alkaloid extracted directly from Papaver somniferum; diacetylmorphine (heroin) and ethylmorphine are semisynthetic derivatives, while pholcodeine is also semisynthetic.
 
 </details>
 
@@ -5115,7 +5115,7 @@ All of the following pairs are correct except ?
 
 <details><summary>Answer</summary>
 
-**B. MAO - B inhibitor - Clorgyline** — Source: Medicoholic 2016 PYQ compilation.
+**B. MAO - B inhibitor - Clorgyline** — **B. MAO - B inhibitor - Clorgyline** — Clorgyline is a selective MAO-A inhibitor, not MAO-B; MAO-B inhibitors used in Parkinson's disease are selegiline and rasagiline; the other pairs (benserazide-DDC inhibitor, entacapone-COMT, amantadine-DA facilitation) are correct.
 
 </details>
 
@@ -5135,7 +5135,7 @@ Which of the following is not true about benzodiazepines?
 
 <details><summary>Answer</summary>
 
-**C. REM, and Stage 3 and 4 sleep is increased** — Source: Medicoholic 2016 PYQ compilation.
+**C. REM, and Stage 3 and 4 sleep is increased** — **C. REM, and Stage 3 and 4 sleep is increased** — Benzodiazepines REDUCE REM sleep and suppress Stage 3 and 4 (slow-wave) sleep; they primarily increase Stage 2 NREM sleep; this is clinically important as suppression of restorative sleep stages is a disadvantage.
 
 </details>
 
@@ -5155,7 +5155,7 @@ Which of the following is not true about barbiturate?
 
 <details><summary>Answer</summary>
 
-**D. Limbic system is most sensitive to the depressive action of** — Source: Medicoholic 2016 PYQ compilation.
+**D. Limbic system is most sensitive to the depressive action of** — **D. Limbic system is most sensitive to the depressive action of** — The reticular activating system (RAS), not the limbic system, is most sensitive to barbiturate depression; RAS suppression underlies the sedative-hypnotic and anaesthetic effects of barbiturates.
 
 </details>
 

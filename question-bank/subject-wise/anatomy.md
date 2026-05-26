@@ -2983,7 +2983,7 @@ The muscles attached to perineal body are A/E
 
 <details><summary>Answer</summary>
 
-**A. Ischiocavernosum** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ischiocavernosum** — **A. Ischiocavernosum** — Ischiocavernosus attaches to the ischial ramus and crus, NOT the perineal body; perineal body receives bulbospongiosus, superficial and deep transverse perinei, external anal sphincter, and levator ani.
 
 </details>
 
@@ -3001,7 +3001,7 @@ Anterior relation to upper part of rectum in male is-
 
 <details><summary>Answer</summary>
 
-**A. Rectovesical pouch** — Source: Medicoholic 2015 PYQ compilation.
+**A. Rectovesical pouch** — **A. Rectovesical pouch** — Upper third of rectum is covered by peritoneum anteriorly, forming the rectovesical pouch (between rectum and bladder) in males; seminal vesicles and ductus deferens relate to the middle third.
 
 </details>
 
@@ -3019,7 +3019,7 @@ FALSE for seminal vesicles:
 
 <details><summary>Answer</summary>
 
-**B. Stores sperms** — Source: Medicoholic 2015 PYQ compilation.
+**B. Stores sperms** — **B. Stores sperms** — Seminal vesicles are secretory glands producing fructose-rich fluid (60% of semen volume); spermatozoa are stored in the epididymis and ductus deferens, not the seminal vesicles.
 
 </details>
 
@@ -3037,7 +3037,7 @@ Sensory nerve supply of gall bladder is through -
 
 <details><summary>Answer</summary>
 
-**A. Vagus nerve** — Source: Medicoholic 2015 PYQ compilation.
+**A. Vagus nerve** — **A. Vagus nerve** — Gallbladder receives parasympathetic (motor) and visceral sensory supply via the vagus nerve (CN X), with sympathetic supply from T7–T9 via the celiac plexus; referred pain goes to right shoulder tip via phrenic nerve.
 
 </details>
 
@@ -3055,7 +3055,7 @@ Uvula vesicae seen in bladder is formed from the following structure ?
 
 <details><summary>Answer</summary>
 
-**A. Median lobe of prostate** — Source: Medicoholic 2015 PYQ compilation.
+**A. Median lobe of prostate** — **A. Median lobe of prostate** — Uvula vesicae is an elevation at the internal urethral orifice formed by the median lobe of the prostate projecting into the bladder base, often enlarged in BPH causing urinary obstruction.
 
 </details>
 
@@ -3073,7 +3073,7 @@ Floor of Petit triangle is formed by?
 
 <details><summary>Answer</summary>
 
-**B. Internal oblique** — Source: Medicoholic 2015 PYQ compilation.
+**B. Internal oblique** — **B. Internal oblique** — Petit's (lumbar) triangle has the floor formed by the internal oblique muscle; its boundaries are the iliac crest inferiorly, latissimus dorsi posteriorly, and external oblique anteriorly — a site for lumbar hernia.
 
 </details>
 
@@ -3091,7 +3091,7 @@ In which of the following vessels transverse mesocolon seen ?
 
 <details><summary>Answer</summary>
 
-**C. Middle colic artery** — Source: Medicoholic 2015 PYQ compilation.
+**C. Middle colic artery** — **C. Middle colic artery** — The transverse mesocolon contains the middle colic artery (branch of superior mesenteric artery), which runs within its two peritoneal layers to supply the transverse colon.
 
 </details>
 
@@ -3109,7 +3109,7 @@ Nerve suply of cremastric muscle ?
 
 <details><summary>Answer</summary>
 
-**C. Genital branch of genitofemoral nerve** — Source: Medicoholic 2015 PYQ compilation.
+**C. Genital branch of genitofemoral nerve** — **C. Genital branch of genitofemoral nerve** — The cremaster muscle (derived from internal oblique) is supplied by the genital branch of the genitofemoral nerve (L1–L2); this reflex arc mediates the cremasteric reflex.
 
 </details>
 
@@ -3127,7 +3127,7 @@ True about the anatomy of great saphenous vein:
 
 <details><summary>Answer</summary>
 
-**A. Starts as a continuation of medial marginal vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Starts as a continuation of medial marginal vein** — **A. Starts as a continuation of medial marginal vein** — The great saphenous vein begins at the medial end of the dorsal venous arch (medial marginal vein) at the foot, ascends anterior to the medial malleolus, and drains into the femoral vein.
 
 </details>
 
@@ -3145,7 +3145,7 @@ Posterior relation of right kidney are all except -
 
 <details><summary>Answer</summary>
 
-**C. 11th rib** — Source: Medicoholic 2015 PYQ compilation.
+**C. 11th rib** — **C. 11th rib** — The right kidney is related posteriorly to the 12th rib (not 11th); both kidneys are related to the diaphragm, subcostal nerve, and iliohypogastric and ilioinguinal nerves; the 11th rib relates to the left kidney.
 
 </details>
 
@@ -3163,7 +3163,7 @@ Not True about blood supply of kidney -
 
 <details><summary>Answer</summary>
 
-**B. Renal artery is a branch of common iliac artery** — Source: Medicoholic 2015 PYQ compilation.
+**B. Renal artery is a branch of common iliac artery** — **B. Renal artery is a branch of common iliac artery** — The renal artery is a direct lateral branch of the abdominal aorta at L1–L2, not the common iliac; the right renal artery passes posterior to the IVC to reach the right kidney.
 
 </details>
 
@@ -3181,7 +3181,7 @@ All pass through deep inguinal ring, EXCEPT?
 
 <details><summary>Answer</summary>
 
-**D. Ilioinguinal nerve** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ilioinguinal nerve** — **D. Ilioinguinal nerve** — The ilioinguinal nerve (L1) enters the inguinal canal through a slit in the internal oblique muscle medial to the deep ring, traverses the canal, and exits through the superficial ring; it does NOT pass through the deep inguinal ring.
 
 </details>
 
@@ -3199,7 +3199,7 @@ Superficial inguinal ring is a defect in the:
 
 <details><summary>Answer</summary>
 
-**B. External oblique aponeurosis** — Source: Medicoholic 2015 PYQ compilation.
+**B. External oblique aponeurosis** — **B. External oblique aponeurosis** — The superficial inguinal ring is a triangular gap in the external oblique aponeurosis just above and lateral to the pubic tubercle, through which the spermatic cord (male) or round ligament (female) exits.
 
 </details>
 
@@ -3217,7 +3217,7 @@ Superficial perineal space contains ?
 
 <details><summary>Answer</summary>
 
-**B. Ischiocavernosus muscle** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ischiocavernosus muscle** — **B. Ischiocavernosus muscle** — The superficial perineal pouch (between perineal membrane and superficial perineal fascia) contains ischiocavernosus, bulbospongiosus, superficial transverse perinei muscles, and roots of the penis/clitoris.
 
 </details>
 
@@ -3235,7 +3235,7 @@ Superficial perineal space contains ?
 
 <details><summary>Answer</summary>
 
-**D. Quadrate lobe of liver** — Source: Medicoholic 2015 PYQ compilation.
+**D. Quadrate lobe of liver** — **D. Quadrate lobe of liver** — The 3rd (horizontal) part of the duodenum crosses anterior to the aorta/IVC and right ureter, and is crossed anteriorly by the superior mesenteric vessels; the quadrate lobe of liver relates to the 1st part of duodenum.
 
 </details>
 
@@ -3253,7 +3253,7 @@ Correct sequence of uterine blood flow -
 
 <details><summary>Answer</summary>
 
-**A. Uterine A - Arcuate A Radial A Spiral A** — Source: Medicoholic 2015 PYQ compilation.
+**A. Uterine A - Arcuate A Radial A Spiral A** — **A. Uterine A → Arcuate A → Radial A → Spiral A** — Uterine artery (branch of internal iliac) gives arcuate arteries in the myometrium, which give radial arteries penetrating inward, then spiral arteries supplying the endometrium and lost during menstruation.
 
 </details>
 
@@ -3271,7 +3271,7 @@ Nerve supply of stapedius is:
 
 <details><summary>Answer</summary>
 
-**D. 7th nerve** — Source: Medicoholic 2015 PYQ compilation.
+**D. 7th nerve** — **D. 7th nerve** — Stapedius muscle is supplied by the nerve to stapedius, a branch of the facial nerve (CN VII) within the facial canal; its paralysis causes hyperacusis (abnormal sensitivity to loud sounds) in Bell's palsy.
 
 </details>
 
@@ -3289,7 +3289,7 @@ Stapedius pulls stapes in which direction -
 
 <details><summary>Answer</summary>
 
-**D. Posterior** — Source: Medicoholic 2015 PYQ compilation.
+**D. Posterior** — **D. Posterior** — Stapedius pulls the neck of the stapes posteriorly, tilting the footplate and reducing oscillation amplitude; this acoustic reflex (CN VII arc) protects the inner ear from loud sounds and is lost in facial nerve palsy causing hyperacusis.
 
 </details>
 
@@ -3307,7 +3307,7 @@ Sternocleidomastoid muscle is examined by
 
 <details><summary>Answer</summary>
 
-**B. Turning the head towards opposite side** — Source: Medicoholic 2015 PYQ compilation.
+**B. Turning the head towards opposite side** — **B. Turning the head towards opposite side** — SCM rotates the head to the contralateral side and flexes it ipsilaterally; to test, patient turns head against resistance toward the opposite side, making the contracting SCM prominent — tests CN XI (accessory nerve).
 
 </details>
 
@@ -3325,7 +3325,7 @@ The nerve which has the longest intracranial course is:
 
 <details><summary>Answer</summary>
 
-**A. Fourth cranial nerve** — Source: Medicoholic 2015 PYQ compilation.
+**A. Fourth cranial nerve** — **A. Fourth cranial nerve** — The trochlear nerve (CN IV) has the longest intracranial course (~75 mm), exits dorsally from the midbrain, winds around the brainstem, and enters the orbit through the superior orbital fissure to supply superior oblique.
 
 </details>
 
@@ -3343,7 +3343,7 @@ Largest cranial nerve is:
 
 <details><summary>Answer</summary>
 
-**B. Trigeminal** — Source: Medicoholic 2015 PYQ compilation.
+**B. Trigeminal** — **B. Trigeminal** — CN V (trigeminal) is the largest cranial nerve, with the thickest sensory root (portio major) carrying general sensation from the face, scalp, cornea, and meninges, plus a smaller motor root supplying muscles of mastication.
 
 </details>
 
@@ -3361,7 +3361,7 @@ Olfactory Great cerebral vein of Galen drains into -
 
 <details><summary>Answer</summary>
 
-**D. Straight sinus** — Source: Medicoholic 2015 PYQ compilation.
+**D. Straight sinus** — **D. Straight sinus** — The great cerebral vein of Galen (formed by union of two internal cerebral veins) drains into the straight sinus at the junction with the inferior sagittal sinus; the straight sinus then drains into the confluence of sinuses.
 
 </details>
 
@@ -3379,7 +3379,7 @@ Superficial middle cerebral vein drains into -
 
 <details><summary>Answer</summary>
 
-**B. Cavernous sinus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cavernous sinus** — **B. Cavernous sinus** — The superficial middle cerebral vein runs along the lateral sulcus and drains into the cavernous sinus anteriorly; it connects superiorly to the superior sagittal sinus via the vein of Trolard and inferiorly via the vein of Labbé.
 
 </details>
 
@@ -3397,7 +3397,7 @@ Which of the following structures seen in the cavernous sinus?
 
 <details><summary>Answer</summary>
 
-**C. Internal carotid artery** — Source: Medicoholic 2015 PYQ compilation.
+**C. Internal carotid artery** — **C. Internal carotid artery** — The internal carotid artery (with its sympathetic plexus) passes through the cavernous sinus; CN III, IV, V1, V2, and VI run in its walls or within it, making it a critical anatomical crossroads for clinical pathology.
 
 </details>
 
@@ -3415,7 +3415,7 @@ First bone to start ossifying -
 
 <details><summary>Answer</summary>
 
-**D. Mandible** — Source: Medicoholic 2015 PYQ compilation.
+**D. Mandible** — **D. Mandible** — The mandible is the first bone to ossify, beginning in the 6th week of intrauterine life via intramembranous ossification from the membrane overlying Meckel's cartilage; clavicle ossifies simultaneously and is sometimes cited first.
 
 </details>
 
@@ -3433,7 +3433,7 @@ What structure passes through the quandrangular space ?
 
 <details><summary>Answer</summary>
 
-**A. Axillary nerve** — Source: Medicoholic 2015 PYQ compilation.
+**A. Axillary nerve** — **A. Axillary nerve** — The quadrangular space (bounded by teres major, teres minor, long head of triceps, and surgical neck of humerus) transmits the axillary nerve and posterior circumflex humeral vessels; damage causes deltoid paralysis and loss of shoulder abduction.
 
 </details>
 
@@ -3451,7 +3451,7 @@ Inner plexus in GIT is ?
 
 <details><summary>Answer</summary>
 
-**B. Submucosal plexus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Submucosal plexus** — **B. Submucosal plexus** — Meissner's (submucosal) plexus is the inner enteric plexus lying in the submucosa, controlling secretion and blood flow; Auerbach's (myenteric) plexus lies between circular and longitudinal muscle layers controlling motility.
 
 </details>
 
@@ -3469,7 +3469,7 @@ Relationship between insulin and glucose concentration?
 
 <details><summary>Answer</summary>
 
-**C. Sigmoidal** — Source: Medicoholic 2015 PYQ compilation.
+**C. Sigmoidal** — **C. Sigmoidal** — The insulin secretion vs. blood glucose concentration relationship follows a sigmoidal (S-shaped) curve: minimal response at low glucose, steep rise through the physiological range (4–10 mmol/L), then plateau at maximal secretion.
 
 </details>
 
@@ -3487,7 +3487,7 @@ Drugs which are used in acute asthma include?
 
 <details><summary>Answer</summary>
 
-**D. Theophylline** — Source: Medicoholic 2015 PYQ compilation.
+**D. Theophylline** — **D. Theophylline** — IV aminophylline/theophylline (phosphodiesterase inhibitor causing bronchodilation via increased cAMP) is used in acute severe asthma unresponsive to beta-2 agonists; budesonide is inhaled preventer, not acute reliever.
 
 </details>
 
@@ -3505,7 +3505,7 @@ Just before the birth which epiphysis appears?
 
 <details><summary>Answer</summary>
 
-**A. Lower end of femur** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lower end of femur** — **A. Lower end of femur** — The distal femoral epiphysis (Béclard's epiphysis) appears at 36 weeks gestation, just before birth, and is used in forensic medicine to estimate gestational age; its presence indicates a mature, near-term fetus.
 
 </details>
 
@@ -4063,7 +4063,7 @@ Commonest site of occurrence of chondrosarcoma is -
 
 <details><summary>Answer</summary>
 
-**A. Pelvis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pelvis** — **A. Pelvis** — Chondrosarcoma most commonly arises in the pelvis (ilium), followed by proximal femur and ribs; slow-growing cartilaginous malignancy, radioresistant, treated by wide resection.
 
 </details>
 
@@ -4081,7 +4081,7 @@ Nerve damaged due to lunate dislocation (in carpal tunnel):
 
 <details><summary>Answer</summary>
 
-**B. Median** — Source: Medicoholic 2015 PYQ compilation.
+**B. Median** — **B. Median** — Lunate dislocates anteriorly into the carpal tunnel compressing the median nerve; presents with thenar weakness and sensory loss over lateral 3.5 fingers.
 
 </details>
 
@@ -6864,7 +6864,7 @@ Tongue muscles are derived from
 
 <details><summary>Answer</summary>
 
-**B. Occipital myotome** — Source: Medicoholic 2016 PYQ compilation.
+**B. Occipital myotome** — **B. Occipital myotome** — Tongue musculature (intrinsic and extrinsic) migrates from occipital somites/myotomes into the pharyngeal floor; hence innervated by CN XII (hypoglossal).
 
 </details>
 
@@ -6884,7 +6884,7 @@ Sensory loss in first web space (on dorsal side). If lesion is low
 
 <details><summary>Answer</summary>
 
-**B. Type 2** — Source: Medicoholic 2016 PYQ compilation.
+**B. Type 2** — **B. Type 2** — Dorsal first web space sensation is supplied by the deep peroneal nerve (L4-L5); Type 2 low peroneal lesion affects the deep branch causing this sensory loss without foot drop.
 
 </details>
 
@@ -6904,7 +6904,7 @@ Optic vesicle is derived from -
 
 <details><summary>Answer</summary>
 
-**C. Neuroectoderm** — Source: Medicoholic 2016 PYQ compilation.
+**C. Neuroectoderm** — **C. Neuroectoderm** — Optic vesicle is an evagination of the diencephalon (forebrain neuroectoderm); it induces the overlying surface ectoderm to form the lens placode.
 
 </details>
 
@@ -6924,7 +6924,7 @@ Part of neural tube from which corpus callosum develops
 
 <details><summary>Answer</summary>
 
-**C. Lamina terminalis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lamina terminalis** — **C. Lamina terminalis** — Corpus callosum develops from the commissural plate within the lamina terminalis (rostral wall of the third ventricle); agenesis results in Probst bundles.
 
 </details>
 
@@ -6944,7 +6944,7 @@ Epithelial lining of urinary bladder ?
 
 <details><summary>Answer</summary>
 
-**B. Transitional** — Source: Medicoholic 2016 PYQ compilation.
+**B. Transitional** — **B. Transitional** — Urinary bladder is lined by transitional epithelium (urothelium), which allows distension; extends from renal pelvis to urethra proximally.
 
 </details>
 
@@ -6964,7 +6964,7 @@ Female urethra develops from -
 
 <details><summary>Answer</summary>
 
-**A. Urogenital sinus** — Source: Medicoholic 2016 PYQ compilation.
+**A. Urogenital sinus** — **A. Urogenital sinus** — The entire female urethra (shorter, ~4 cm) develops from the vesical part of the urogenital sinus; homologous to the prostatic and membranous urethra in males.
 
 </details>
 
@@ -6984,7 +6984,7 @@ Kidney parenchyma is derived from -
 
 <details><summary>Answer</summary>
 
-**C. Metanephros** — Source: Medicoholic 2016 PYQ compilation.
+**C. Metanephros** — **C. Metanephros** — Metanephric mesoderm (metanephric blastema) differentiates into the secretory units (nephrons) of the permanent kidney; the ureteric bud forms the collecting system.
 
 </details>
 
@@ -7004,7 +7004,7 @@ Facial nerve is a derivative of which of the following branchial arch?
 
 <details><summary>Answer</summary>
 
-**B. Second arch** — Source: Medicoholic 2016 PYQ compilation.
+**B. Second arch** — **B. Second arch** — CN VII (facial nerve) is the nerve of the 2nd pharyngeal (Reichert's) arch; supplies all muscles of facial expression derived from this arch.
 
 </details>
 
@@ -7024,7 +7024,7 @@ Leptotene and pachytene are stages ofwhich phases of meiosis -
 
 <details><summary>Answer</summary>
 
-**A. Prophase I** — Source: Medicoholic 2016 PYQ compilation.
+**A. Prophase I** — **A. Prophase I** — Prophase I of meiosis has five substages: leptotene, zygotene, pachytene, diplotene, and diakinesis; synapsis and crossing-over occur during pachytene.
 
 </details>
 
@@ -7044,7 +7044,7 @@ Crypta magna develops from which pouch?
 
 <details><summary>Answer</summary>
 
-**B. 2nd** — Source: Medicoholic 2016 PYQ compilation.
+**B. 2nd** — **B. 2nd** — Crypta magna (tonsillar fossa) develops from the 2nd pharyngeal pouch; the palatine tonsil forms from lymphoid tissue proliferating into this cleft.
 
 </details>
 
@@ -7064,7 +7064,7 @@ Which of the following is a traction epiphysis?
 
 <details><summary>Answer</summary>
 
-**B. Mastoid process** — Source: Medicoholic 2016 PYQ compilation.
+**B. Mastoid process** — **B. Mastoid process** — Traction epiphyses (apophyses) develop at tendon/ligament insertions; the mastoid process is pulled by the sternocleidomastoid, making it a traction epiphysis.
 
 </details>
 
@@ -7084,7 +7084,7 @@ All of the following are true about thymus except?
 
 <details><summary>Answer</summary>
 
-**C. It is derived from the fourth Pharyngeal pouch** — Source: Medicoholic 2016 PYQ compilation.
+**C. It is derived from the fourth Pharyngeal pouch** — **C. It is derived from the fourth Pharyngeal pouch** — Thymus derives from the 3rd pharyngeal pouch (not 4th); the 4th pouch gives rise to the superior parathyroid glands.
 
 </details>
 
@@ -7104,7 +7104,7 @@ Which is the most abundant cartilage-
 
 <details><summary>Answer</summary>
 
-**A. Hyaline cartilage** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hyaline cartilage** — **A. Hyaline cartilage** — Hyaline cartilage is the most abundant type; found in articular surfaces, costal cartilages, tracheal rings, and forms the embryonic skeleton.
 
 </details>
 
@@ -7124,7 +7124,7 @@ What is the lining of the lacrimal gland alveoli?
 
 <details><summary>Answer</summary>
 
-**B. Pyramidal cells** — Source: Medicoholic 2016 PYQ compilation.
+**B. Pyramidal cells** — **B. Pyramidal cells** — Lacrimal gland alveoli are lined by pyramidal (columnar) secretory cells with surrounding myoepithelial cells; structure similar to other serous exocrine glands.
 
 </details>
 
@@ -7144,7 +7144,7 @@ What type of muscles are medial two lumbricals?
 
 <details><summary>Answer</summary>
 
-**B. Bipennate** — Source: Medicoholic 2016 PYQ compilation.
+**B. Bipennate** — **B. Bipennate** — Medial two (3rd and 4th) lumbricals arise from two adjacent FDP tendons (bipennate); lateral two arise from a single tendon (unipennate); all are innervated by the ulnar nerve.
 
 </details>
 
@@ -7164,7 +7164,7 @@ Ansa nephroni is lined by ?
 
 <details><summary>Answer</summary>
 
-**B. Squamous epithelium** — Source: Medicoholic 2016 PYQ compilation.
+**B. Squamous epithelium** — **B. Squamous epithelium** — The loop of Henle (ansa nephroni), especially the thin descending and thin ascending limbs, is lined by flat squamous epithelium facilitating passive water/solute exchange.
 
 </details>
 
@@ -7184,7 +7184,7 @@ What is the level of the spine of scapula?
 
 <details><summary>Answer</summary>
 
-**C. T4** — Source: Medicoholic 2016 PYQ compilation.
+**C. T4** — **C. T4** — The spine of scapula lies at the level of T4 vertebral spine (T3 spinous process at the medial end); the inferior angle of scapula corresponds to T7.
 
 </details>
 
@@ -7204,7 +7204,7 @@ Which of the following muscles carries out shoulder abduction from 15 to 90 degr
 
 <details><summary>Answer</summary>
 
-**C. Deltoid** — Source: Medicoholic 2016 PYQ compilation.
+**C. Deltoid** — **C. Deltoid** — Deltoid is the prime mover of shoulder abduction from 15–90°; supraspinatus initiates first 15° and stabilizes the joint; beyond 90° trapezius and serratus anterior rotate scapula.
 
 </details>
 
@@ -7224,7 +7224,7 @@ Which muscle acting on the thumb has dual nerve supply?
 
 <details><summary>Answer</summary>
 
-**B. Flexor Pollicis brevis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Flexor Pollicis brevis** — **B. Flexor Pollicis brevis** — Flexor pollicis brevis has a superficial head (median nerve) and deep head (ulnar nerve/deep branch); only thumb muscle with consistent dual nerve supply.
 
 </details>
 
@@ -7244,7 +7244,7 @@ What is Wartenberg's sign?
 
 <details><summary>Answer</summary>
 
-**B. Inability to adduct small finger against the ring finger** — Source: Medicoholic 2016 PYQ compilation.
+**B. Inability to adduct small finger against the ring finger** — **B. Inability to adduct small finger against the ring finger** — Wartenberg's sign indicates ulnar nerve palsy; interossei (ulnar) adduct fingers; loss leaves the little finger abducted at rest.
 
 </details>
 
@@ -7264,7 +7264,7 @@ Sensory region of the ulnar nerve is?
 
 <details><summary>Answer</summary>
 
-**A. Tip of little finger** — Source: Medicoholic 2016 PYQ compilation.
+**A. Tip of little finger** — **A. Tip of little finger** — Ulnar nerve (C8-T1) provides cutaneous sensation to the little finger and medial half of ring finger; tip of little finger is the classic autonomous zone for testing.
 
 </details>
 
@@ -7284,7 +7284,7 @@ Pulp of the index finger is supplied by
 
 <details><summary>Answer</summary>
 
-**A. Median nerve** — Source: Medicoholic 2016 PYQ compilation.
+**A. Median nerve** — **A. Median nerve** — The median nerve (C6-C8) supplies the palmar surface and pulp of the lateral 3.5 fingers (thumb, index, middle, lateral half of ring); index fingertip is its autonomous zone.
 
 </details>
 
@@ -7304,7 +7304,7 @@ Low radial nerve [just after spiral groove] palsy does not produce ?
 
 <details><summary>Answer</summary>
 
-**B. Loss of elbow extention** — Source: Medicoholic 2016 PYQ compilation.
+**B. Loss of elbow extention** — **B. Loss of elbow extension** — Triceps (elbow extension) is innervated proximal to the spiral groove; a low radial nerve lesion after the groove spares triceps but paralyzes wrist and finger extensors.
 
 </details>
 
@@ -7324,7 +7324,7 @@ Structure passing deep to flexor retinaculum at wrist:
 
 <details><summary>Answer</summary>
 
-**B. Median nerve** — Source: Medicoholic 2016 PYQ compilation.
+**B. Median nerve** — **B. Median nerve** — The carpal tunnel (deep to flexor retinaculum) transmits the median nerve and 9 flexor tendons; ulnar nerve and artery pass superficial in Guyon's canal.
 
 </details>
 
@@ -7344,7 +7344,7 @@ Coracoacromial ligament resists which movements?
 
 <details><summary>Answer</summary>
 
-**A. Upward displacement of humeral head** — Source: Medicoholic 2016 PYQ compilation.
+**A. Upward displacement of humeral head** — **A. Upward displacement of humeral head** — The coracoacromial arch (coracoacromial ligament + acromion) prevents superior displacement of the humeral head during deltoid contraction and arm elevation.
 
 </details>
 
@@ -7364,7 +7364,7 @@ What is the action of anconeus?
 
 <details><summary>Answer</summary>
 
-**B. Assists Extension of elbow** — Source: Medicoholic 2016 PYQ compilation.
+**B. Assists Extension of elbow** — **B. Assists Extension of elbow** — Anconeus is a small triangular muscle on the posterior lateral elbow that assists triceps in elbow extension and abducts the ulna during pronation.
 
 </details>
 
@@ -7384,7 +7384,7 @@ Which muscle helps in climbing a tree ?
 
 <details><summary>Answer</summary>
 
-**A. Latissimus Dorsi** — Source: Medicoholic 2016 PYQ compilation.
+**A. Latissimus Dorsi** — **A. Latissimus Dorsi** — Latissimus dorsi (thoracodorsal nerve) adducts, extends, and medially rotates the humerus; climbing requires pulling the trunk upward toward the fixed upper limb.
 
 </details>
 
@@ -7404,7 +7404,7 @@ Posterior interosseus artery is a branch of ?
 
 <details><summary>Answer</summary>
 
-**A. Common interosseus artery** — Source: Medicoholic 2016 PYQ compilation.
+**A. Common interosseus artery** — **A. Common interosseus artery** — The common interosseous artery arises from the ulnar artery and immediately divides into anterior and posterior interosseous arteries supplying the deep forearm compartments.
 
 </details>
 

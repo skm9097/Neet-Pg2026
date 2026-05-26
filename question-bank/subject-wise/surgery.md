@@ -1967,7 +1967,7 @@ Vocabulary of 1.5 year old child is -
 
 <details><summary>Answer</summary>
 
-**B. 10-20 words** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10-20 words** — **B. 10-20 words** — At 18 months, a child typically has a vocabulary of 10–20 meaningful words; single-word stage transitions to two-word phrases around this age.
 
 </details>
 
@@ -1987,7 +1987,7 @@ A child of 5 years can use sentences of around how many words?
 
 <details><summary>Answer</summary>
 
-**B. 10 words** — Source: Medicoholic 2016 PYQ compilation.
+**B. 10 words** — **B. 10 words** — By age 5, children can construct sentences of up to 10 words with correct grammar; language development follows a predictable milestone progression.
 
 </details>
 
@@ -2007,7 +2007,7 @@ Milestones achieved by a 10 months old child are all except -
 
 <details><summary>Answer</summary>
 
-**C. Standing without support** — Source: Medicoholic 2016 PYQ compilation.
+**C. Standing without support** — **C. Standing without support** — Standing without support is achieved at ~12 months; at 10 months, pincer grasp, peek-a-boo, and waving bye-bye are established milestones.
 
 </details>
 
@@ -2027,7 +2027,7 @@ What is the age of a child who can identify 4 colours and draw a triangle?
 
 <details><summary>Answer</summary>
 
-**D. 5 years** — Source: Medicoholic 2016 PYQ compilation.
+**D. 5 years** — **D. 5 years** — At 5 years, a child can identify 4 colours, draw a triangle, and copy complex shapes; 4 years is for squares, 3 years for circles.
 
 </details>
 
@@ -2047,7 +2047,7 @@ Growth of head circumference in 1st 3 months of life is by
 
 <details><summary>Answer</summary>
 
-**C. 5 cm** — Source: Medicoholic 2016 PYQ compilation.
+**C. 5 cm** — **C. 5 cm** — Head circumference grows ~2 cm/month in the first 3 months (totalling ~6 cm); approximately 5 cm gain reflects rapid brain growth in this period.
 
 </details>
 
@@ -2067,7 +2067,7 @@ Delayed eruption is failure of teeth to appear by
 
 <details><summary>Answer</summary>
 
-**B. 13 months** — Source: Medicoholic 2016 PYQ compilation.
+**B. 13 months** — **B. 13 months** — Delayed dentition is defined as failure of the first deciduous tooth to erupt by 13 months of age; normally first tooth appears by 6–8 months.
 
 </details>
 
@@ -2087,7 +2087,7 @@ Breast milk protects from infections as it contains all of the following except:
 
 <details><summary>Answer</summary>
 
-**A. IgE** — Source: Medicoholic 2016 PYQ compilation.
+**A. IgE** — **A. IgE** — Breast milk contains secretory IgA (not IgE), lactoferrin, bifidus factor, and lysozyme; IgE is an allergic antibody not secreted in breast milk.
 
 </details>
 
@@ -2107,7 +2107,7 @@ Which of the following is true regarding premature milk as compared to mature mi
 
 <details><summary>Answer</summary>
 
-**A. Less lactose** — Source: Medicoholic 2016 PYQ compilation.
+**A. Less lactose** — **A. Less lactose** — Premature breast milk has less lactose but more protein, sodium, and immunoglobulins compared to mature milk, meeting preterm infant metabolic needs.
 
 </details>
 
@@ -2127,7 +2127,7 @@ All of the following are true regarding breast milk as compared to cow's milk ex
 
 <details><summary>Answer</summary>
 
-**B. More amount of proteins** — Source: Medicoholic 2016 PYQ compilation.
+**B. More amount of proteins** — **B. More amount of proteins** — Cow's milk has more total protein than breast milk; breast milk has more lactose, less minerals, and similar fat — protein content is higher in cow's milk.
 
 </details>
 
@@ -2147,7 +2147,7 @@ Which of the following is the best reference for growth monitoring in children?
 
 <details><summary>Answer</summary>
 
-**B. NCHS** — Source: Medicoholic 2016 PYQ compilation.
+**B. NCHS** — **B. NCHS** — The National Centre for Health Statistics (NCHS) reference is the internationally accepted standard for growth monitoring used by WHO and most paediatric guidelines.
 
 </details>
 
@@ -2167,7 +2167,7 @@ Kwashiorkar is due to deficiency of
 
 <details><summary>Answer</summary>
 
-**A. Calories** — Source: Medicoholic 2016 PYQ compilation.
+**A. Calories** — **A. Calories** — Kwashiorkor is caused by protein-energy malnutrition with relative protein deficiency; inadequate caloric intake leads to hypoalbuminaemia, oedema, and fatty liver.
 
 </details>
 
@@ -2187,7 +2187,7 @@ Which of the following is not true about Galeazzi fracture dislocation?
 
 <details><summary>Answer</summary>
 
-**C. The distal end of ulna dislocates volarly after disruption of distal** — Source: Medicoholic 2016 PYQ compilation.
+**C. The distal end of ulna dislocates volarly after disruption of distal** — **C. The distal end of ulna dislocates volarly after disruption of distal** — In Galeazzi fracture-dislocation, the distal ulna typically dislocates dorsally (not volarly); the DRUJ is disrupted with volar angulation of the radius.
 
 </details>
 
@@ -2207,7 +2207,7 @@ In Monteggia fracture, which is true about ulnar fracture and head of radius
 
 <details><summary>Answer</summary>
 
-**B. Both ulnar fracture and head of radius is displaced anteriorly** — Source: Medicoholic 2016 PYQ compilation.
+**B. Both ulnar fracture and head of radius is displaced anteriorly** — **B. Both ulnar fracture and head of radius is displaced anteriorly** — In Bado Type I Monteggia (most common), ulnar fracture angulates anteriorly and the radial head dislocates anteriorly.
 
 </details>
 
@@ -2227,7 +2227,7 @@ Which of the following shoulder movements is/ are weak in patients of supraspina
 
 <details><summary>Answer</summary>
 
-**A. Abduction** — Source: Medicoholic 2016 PYQ compilation.
+**A. Abduction** — **A. Abduction** — Supraspinatus initiates the first 15° of glenohumeral abduction; a tear causes a painful arc with weakness in abduction, tested by the empty can test.
 
 </details>
 
@@ -2247,7 +2247,7 @@ Increased Q angle predisposes to
 
 <details><summary>Answer</summary>
 
-**B. Lateral patellar subluxation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Lateral patellar subluxation** — **B. Lateral patellar subluxation** — Increased Q angle (>20° in females) increases lateral vector force on the patella, predisposing to lateral subluxation and patellofemoral pain syndrome.
 
 </details>
 
@@ -2267,7 +2267,7 @@ Seat belt injury is
 
 <details><summary>Answer</summary>
 
-**C. Chance fracture** — Source: Medicoholic 2016 PYQ compilation.
+**C. Chance fracture** — **C. Chance fracture** — Chance fracture is a horizontal splitting fracture of a lumbar vertebra caused by flexion-distraction force, classically seen with lap-belt restraint injuries.
 
 </details>
 
@@ -2287,7 +2287,7 @@ Popliteal artery injury is commonly seen in which type of traumatic knee disloca
 
 <details><summary>Answer</summary>
 
-**B. Posterior** — Source: Medicoholic 2016 PYQ compilation.
+**B. Posterior** — **B. Posterior** — In posterior knee dislocation, the tibia is displaced posteriorly, directly stretching and injuring the popliteal artery, which is tethered in the popliteal fossa.
 
 </details>
 
@@ -2307,7 +2307,7 @@ Kocher manoeuver is used for
 
 <details><summary>Answer</summary>
 
-**A. Shoulder reduction** — Source: Medicoholic 2016 PYQ compilation.
+**A. Shoulder reduction** — **A. Shoulder reduction** — Kocher's manoeuvre reduces anterior shoulder dislocation by external rotation then adduction and internal rotation, leveraging the humeral head back into the glenoid.
 
 </details>
 
@@ -2327,7 +2327,7 @@ Cobra head plate is used for
 
 <details><summary>Answer</summary>
 
-**A. Hip arthrodesis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hip arthrodesis** — **A. Hip arthrodesis** — The cobra head plate (cobra plate) is specifically designed for hip arthrodesis, providing stable fixation across the hip joint for fusion procedures.
 
 </details>
 
@@ -2347,7 +2347,7 @@ Locking compression plating for is commonly indicated in the following fracture 
 
 <details><summary>Answer</summary>
 
-**A. Periarticular fractures** — Source: Medicoholic 2016 PYQ compilation.
+**A. Periarticular fractures** — **A. Periarticular fractures** — Locking compression plates (LCP) provide angular stability without requiring cortical contact, making them ideal for periarticular, osteoporotic, and comminuted fractures.
 
 </details>
 
@@ -2367,7 +2367,7 @@ Ankle reflex is affected in prolapsed intervertebral disc at what level?
 
 <details><summary>Answer</summary>
 
-**C. L5 - S1** — Source: Medicoholic 2016 PYQ compilation.
+**C. L5 - S1** — **C. L5-S1** — The ankle (Achilles) reflex is mediated by the S1 nerve root; a disc prolapse at L5-S1 compresses S1, abolishing the ankle jerk reflex.
 
 </details>
 
@@ -2387,7 +2387,7 @@ CTEV shoe true is
 
 <details><summary>Answer</summary>
 
-**B. It has straight medial border** — Source: Medicoholic 2016 PYQ compilation.
+**B. It has straight medial border** — **B. It has straight medial border** — CTEV (club foot) shoe has a straight medial border (reverse last shoe) to correct the adduction deformity and maintain corrected foot position after casting.
 
 </details>
 
@@ -2407,7 +2407,7 @@ Which of the following is not true about the tests for hip instability in neonat
 
 <details><summary>Answer</summary>
 
-**A. Ortolanis test has two parts** — Source: Medicoholic 2016 PYQ compilation.
+**A. Ortolanis test has two parts** — **A. Ortolanis test has two parts** — Ortolani test is a single manoeuvre (abduction with anterior lift) that produces a clunk of entry; it is Barlow's test that has the push-back component.
 
 </details>
 
@@ -2427,7 +2427,7 @@ Ortolani test is positive when the examiner hears the ?
 
 <details><summary>Answer</summary>
 
-**A. Clunk of entry on abduction and flexion of hip** — Source: Medicoholic 2016 PYQ compilation.
+**A. Clunk of entry on abduction and flexion of hip** — **A. Clunk of entry on abduction and flexion of hip** — Ortolani test abducts and lifts the flexed hip; a positive result is a palpable/audible clunk as the dislocated femoral head reduces into the acetabulum.
 
 </details>
 
@@ -2447,7 +2447,7 @@ Oncogenic osteomalacia is mediated by
 
 <details><summary>Answer</summary>
 
-**A. Phosphatonin** — Source: Medicoholic 2016 PYQ compilation.
+**A. Phosphatonin** — **A. Phosphatonin** — Oncogenic (tumour-induced) osteomalacia is caused by phosphatonins (mainly FGF-23) secreted by mesenchymal tumours, causing renal phosphate wasting and defective mineralisation.
 
 </details>
 
@@ -2467,7 +2467,7 @@ Which of the following is not true about the manipulation methods to correct CTE
 
 <details><summary>Answer</summary>
 
-**A. Involves serial casting and below knee plaster casting** — Source: Medicoholic 2016 PYQ compilation.
+**A. Involves serial casting and below knee plaster casting** — **A. Involves serial casting and below knee plaster casting** — Ponseti method uses above-knee (long leg) plaster casts, not below-knee; below-knee casting does not adequately control the hindfoot.
 
 </details>
 
@@ -2487,7 +2487,7 @@ Which of the following is not true about SCFE?
 
 <details><summary>Answer</summary>
 
-**B. Extension is restricted** — Source: Medicoholic 2016 PYQ compilation.
+**B. Extension is restricted** — **B. Extension is restricted** — In SCFE, internal rotation and flexion are restricted (not extension); the hip lies in external rotation with limited internal rotation due to posterior slippage of the epiphysis.
 
 </details>
 
@@ -2507,7 +2507,7 @@ Tinel sign is seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Nerve regeneration** — Source: Medicoholic 2016 PYQ compilation.
+**B. Nerve regeneration** — **B. Nerve regeneration** — Tinel's sign (tingling on percussion over a nerve) indicates active axonal regeneration; it advances distally as regenerating fibres grow, marking the front of regeneration.
 
 </details>
 
@@ -2527,7 +2527,7 @@ All are true about Marie - strumpell disease except :
 
 <details><summary>Answer</summary>
 
-**D. Roentgenogram is the most sensitive investigation** — Source: Medicoholic 2016 PYQ compilation.
+**D. Roentgenogram is the most sensitive investigation** — **D. Roentgenogram is the most sensitive investigation** — MRI is the most sensitive investigation for early ankylosing spondylitis (Marie-Strümpell disease); plain X-ray shows sacroiliitis only in later stages.
 
 </details>
 
@@ -2547,7 +2547,7 @@ Most commonly lesion associated with pathological fracture in hand is -
 
 <details><summary>Answer</summary>
 
-**A. Enchondroma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Enchondroma** — **A. Enchondroma** — Enchondroma is the most common primary bone tumour of the hand (phalanges and metacarpals), frequently presenting as a pathological fracture due to cortical thinning.
 
 </details>
 
@@ -2567,7 +2567,7 @@ Most common primary bone tumour of hand is:
 
 <details><summary>Answer</summary>
 
-**C. Enchondroma** — Source: Medicoholic 2016 PYQ compilation.
+**C. Enchondroma** — **C. Enchondroma** — Enchondroma arises from cartilaginous rests in medullary bone; it is the most common primary bone tumour of the hand, commonly affecting phalanges.
 
 </details>
 
@@ -2587,7 +2587,7 @@ Most common malignant bone tumor-
 
 <details><summary>Answer</summary>
 
-**B. Secondaries** — Source: Medicoholic 2016 PYQ compilation.
+**B. Secondaries** — **B. Secondaries** — Metastatic (secondary) bone tumours are far more common than primary malignancies; common primaries include breast, lung, prostate, thyroid, and kidney (mnemonic: BLasT Kills).
 
 </details>
 
@@ -2607,7 +2607,7 @@ Most common site for the osteoporotic vertebral fracture is ?
 
 <details><summary>Answer</summary>
 
-**A. Dorsolumbar spine** — Source: Medicoholic 2016 PYQ compilation.
+**A. Dorsolumbar spine** — **A. Dorsolumbar spine** — The dorsolumbar junction (T12-L1) bears the greatest mechanical stress and is the most common site for osteoporotic vertebral compression fractures.
 
 </details>
 
@@ -2627,7 +2627,7 @@ Trendelenburg test is positive due to injury to which of the following nerve?
 
 <details><summary>Answer</summary>
 
-**C. Superior Gluteal** — Source: Medicoholic 2016 PYQ compilation.
+**C. Superior Gluteal** — **C. Superior Gluteal** — The superior gluteal nerve innervates gluteus medius and minimus; injury causes Trendelenburg gait (pelvis drops to opposite side) as these hip abductors are paralysed.
 
 </details>
 
@@ -2647,7 +2647,7 @@ Shentons line is seen in X ray of -
 
 <details><summary>Answer</summary>
 
-**A. Antero-posterior pelvis with both hips** — Source: Medicoholic 2016 PYQ compilation.
+**A. Antero-posterior pelvis with both hips** — **A. Antero-posterior pelvis with both hips** — Shenton's line is a smooth arc drawn from the inferior femoral neck to the superior obturator foramen on AP pelvis X-ray; disruption indicates hip dislocation or fracture.
 
 </details>
 
@@ -2667,7 +2667,7 @@ Chauffeur fracture is -
 
 <details><summary>Answer</summary>
 
-**B. Intra - articular fracture of styloid process** — Source: Medicoholic 2016 PYQ compilation.
+**B. Intra - articular fracture of styloid process** — **B. Intra-articular fracture of styloid process** — Chauffeur's (Hutchinson's) fracture is an intra-articular fracture of the radial styloid process, caused by forced radial deviation (originally from hand-crank backfires).
 
 </details>
 
@@ -2687,7 +2687,7 @@ Which of the following is used in quantifying hirsutism?
 
 <details><summary>Answer</summary>
 
-**C. Ferriman-Gallwey score** — Source: Medicoholic 2016 PYQ compilation.
+**C. Ferriman-Gallwey score** — **C. Ferriman-Gallwey score** — The modified Ferriman-Gallwey score assesses androgen-dependent hair growth in 9 body areas (scored 0–4 each); total ≥8 defines hirsutism.
 
 </details>
 
@@ -2707,7 +2707,7 @@ Rate of cervical dilatation in primigravida is ?
 
 <details><summary>Answer</summary>
 
-**A. 0.8 cm/hour** — Source: Medicoholic 2016 PYQ compilation.
+**A. 0.8 cm/hour** — **A. 0.8 cm/hour** — Friedman's curve defines normal active-phase cervical dilatation as ≥1.2 cm/hour in primigravidas (minimum normal); arrest is defined below 0.8–1.2 cm/hour depending on the reference.
 
 </details>
 
@@ -2727,7 +2727,7 @@ Chain of lakes appearance is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Chronic pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+**A. Chronic pancreatitis** — **A. Chronic pancreatitis** — Chain-of-lakes appearance on ERCP/MRCP describes alternating strictures and dilations of the main pancreatic duct, pathognomonic of chronic pancreatitis.
 
 </details>
 
