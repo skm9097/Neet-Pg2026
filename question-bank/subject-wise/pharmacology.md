@@ -1404,7 +1404,7 @@ Black foot disease is caused by
 
 <details><summary>Answer</summary>
 
-**A. Arsenic** — Source: Medicoholic 2015 PYQ compilation.
+**A. Arsenic** — Chronic arsenic exposure via groundwater causes peripheral vascular endarteritis leading to dry gangrene of feet; seen in Taiwan and West Bengal.
 
 </details>
 
@@ -1422,7 +1422,7 @@ Papaver semniferum milk exudes from ?
 
 <details><summary>Answer</summary>
 
-**D. Unripe capsule** — Source: Medicoholic 2015 PYQ compilation.
+**D. Unripe capsule** — Opium is the dried latex obtained from incised unripe seed capsules of Papaver somniferum; contains morphine and codeine alkaloids.
 
 </details>
 
@@ -1440,7 +1440,7 @@ Acid used for forging signature is ?
 
 <details><summary>Answer</summary>
 
-**D. Oxalic acid** — Source: Medicoholic 2015 PYQ compilation.
+**D. Oxalic acid** — Oxalic acid bleaches ink without burning paper, allowing erasure of signatures; also causes hypocalcemia by chelating calcium when ingested.
 
 </details>
 
@@ -1458,7 +1458,7 @@ Thorn apple is ?
 
 <details><summary>Answer</summary>
 
-**A. Dhatura** — Source: Medicoholic 2015 PYQ compilation.
+**A. Dhatura** — Datura stramonium (thorn apple) contains hyoscyamine and scopolamine, anticholinergic alkaloids causing dry mouth, mydriasis, delirium; antidote is physostigmine.
 
 </details>
 
@@ -1476,7 +1476,7 @@ Acid injury can be differentiated from alkali injury by ?
 
 <details><summary>Answer</summary>
 
-**C. Perforation is more common** — Source: Medicoholic 2015 PYQ compilation.
+**C. Perforation is more common** — Acids cause coagulative necrosis with eschar limiting penetration but perforation of stomach is more common; alkalis cause liquefactive necrosis with deeper esophageal damage.
 
 </details>
 
@@ -1494,7 +1494,7 @@ How many days a person can live without food and water ?
 
 <details><summary>Answer</summary>
 
-**D. 10 to 12 days** — Source: Medicoholic 2015 PYQ compilation.
+**D. 10 to 12 days** — Total deprivation of both food and water causes death within 10-12 days due to dehydration, electrolyte imbalance, and circulatory failure.
 
 </details>
 
@@ -1512,7 +1512,7 @@ MTP can be done by a single doctor till ?
 
 <details><summary>Answer</summary>
 
-**B. 12 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**B. 12 weeks** — Per MTP Act amendments, one registered practitioner's opinion suffices up to 12 weeks; 12-24 weeks requires two doctors' opinions.
 
 </details>
 
@@ -1530,7 +1530,7 @@ Alcohol is taken with aerated soft drinks because -
 
 <details><summary>Answer</summary>
 
-**A. Absorption is faster** — Source: Medicoholic 2015 PYQ compilation.
+**A. Absorption is faster** — Carbon dioxide in aerated drinks accelerates gastric emptying, increasing intestinal absorption of ethanol and producing faster blood alcohol peak.
 
 </details>
 
@@ -1548,7 +1548,7 @@ After death, blood is taken from ?
 
 <details><summary>Answer</summary>
 
-**A. Femoral vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Femoral vein** — Postmortem blood is taken from femoral or other peripheral veins to avoid postmortem diffusion contamination from gastric/hepatic sources affecting alcohol/drug levels.
 
 </details>
 
@@ -1566,7 +1566,7 @@ Multiple drug resistance is transferred through -
 
 <details><summary>Answer</summary>
 
-**C. Conjugation** — Source: Medicoholic 2015 PYQ compilation.
+**C. Conjugation** — Conjugation transfers R-plasmids carrying multiple resistance genes between bacteria via sex pilus; the major mechanism of multi-drug resistance spread.
 
 </details>
 
@@ -1584,7 +1584,7 @@ True about vibrio parahemolyticus ?
 
 <details><summary>Answer</summary>
 
-**D. Requires NaCI** — Source: Medicoholic 2015 PYQ compilation.
+**D. Requires NaCI** — Vibrio parahaemolyticus is a halophilic marine vibrio requiring NaCl (2-8%) for growth; causes seafood-associated gastroenteritis via Kanagawa hemolysin.
 
 </details>
 
@@ -1602,7 +1602,7 @@ Hansen's bacillus is cultured in:
 
 <details><summary>Answer</summary>
 
-**C. Foot pad of mice** — Source: Medicoholic 2015 PYQ compilation.
+**C. Foot pad of mice** — Mycobacterium leprae cannot be cultured on artificial media; grown in mouse footpad (Shepard) or nine-banded armadillo due to obligate intracellular lifestyle.
 
 </details>
 
@@ -1620,7 +1620,7 @@ Draughtsman colonies are seen with:
 
 <details><summary>Answer</summary>
 
-**B. Pnuemococci** — Source: Medicoholic 2015 PYQ compilation.
+**B. Pnuemococci** — Streptococcus pneumoniae forms draughtsman/carrom-coin colonies due to autolysin-mediated central depression from peptidoglycan autolysis in older colonies.
 
 </details>
 
@@ -1638,7 +1638,7 @@ Primary complex of M bovis involves:
 
 <details><summary>Answer</summary>
 
-**B. Tonsil and intestine** — Source: Medicoholic 2015 PYQ compilation.
+**B. Tonsil and intestine** — M. bovis enters via contaminated milk causing primary complex in tonsils and intestinal Peyer's patches with mesenteric lymphadenitis (scrofula).
 
 </details>
 
@@ -1656,7 +1656,7 @@ Hemophilus parainfluenzae requres -
 
 <details><summary>Answer</summary>
 
-**A. Factor V** — Source: Medicoholic 2015 PYQ compilation.
+**A. Factor V** — Haemophilus parainfluenzae requires only Factor V (NAD) for growth; H. influenzae requires both Factor V and Factor X (hemin).
 
 </details>
 
@@ -1674,7 +1674,7 @@ All are true about listeria except:
 
 <details><summary>Answer</summary>
 
-**C. Characteristic tumbling motility at 37°C** — Source: Medicoholic 2015 PYQ compilation.
+**C. Characteristic tumbling motility at 37°C** — Listeria shows tumbling motility at 25°C (room temperature), not 37°C, due to peritrichous flagella expression being temperature-dependent.
 
 </details>
 
@@ -1692,7 +1692,7 @@ Listeria resists phagocytosis in phagosomes (phagolysosomes) due to:
 
 <details><summary>Answer</summary>
 
-**A. β-hemolysin** — Source: Medicoholic 2015 PYQ compilation.
+**A. β-hemolysin** — Listeriolysin O (β-hemolysin), a pore-forming toxin, lyses the phagosomal membrane allowing Listeria to escape into cytoplasm and replicate intracellularly.
 
 </details>
 
@@ -1710,7 +1710,7 @@ Most common form of leptospirosis:
 
 <details><summary>Answer</summary>
 
-**D. Anicteric form** — Source: Medicoholic 2015 PYQ compilation.
+**D. Anicteric form** — Most leptospirosis cases (~90%) are mild anicteric self-limiting febrile illness; only ~10% develop severe icteric Weil's disease with hepatorenal failure.
 
 </details>
 
@@ -1728,7 +1728,7 @@ Vincent's angina is caused by Borrelia vincentii along with:
 
 <details><summary>Answer</summary>
 
-**C. Fusobacterium** — Source: Medicoholic 2015 PYQ compilation.
+**C. Fusobacterium** — Vincent's angina (acute ulcerative gingivitis) is a fusospirochetal synergistic infection by Borrelia vincentii and Fusobacterium fusiforme.
 
 </details>
 
@@ -1746,7 +1746,7 @@ Bartonella quintana causes:
 
 <details><summary>Answer</summary>
 
-**A. Trench fever** — Source: Medicoholic 2015 PYQ compilation.
+**A. Trench fever** — Bartonella quintana causes trench fever, a louse-borne (Pediculus humanus) relapsing fever historically affecting WWI soldiers; treated with doxycycline.
 
 </details>
 
@@ -1764,7 +1764,7 @@ What is trench fever:
 
 <details><summary>Answer</summary>
 
-**B. 5-days fever** — Source: Medicoholic 2015 PYQ compilation.
+**B. 5-days fever** — Trench fever (quintan/5-day fever) by Bartonella quintana presents with recurrent fever spikes every 5 days, headache, and shin/leg pain.
 
 </details>
 
@@ -1782,7 +1782,7 @@ Pneumonic plague is spread by:
 
 <details><summary>Answer</summary>
 
-**D. Droplet infection** — Source: Medicoholic 2015 PYQ compilation.
+**D. Droplet infection** — Pneumonic plague (Yersinia pestis) spreads human-to-human via respiratory droplets; bubonic plague spreads by infected Xenopsylla flea bites.
 
 </details>
 
@@ -1800,7 +1800,7 @@ Not true about gas gangrene:
 
 <details><summary>Answer</summary>
 
-**D. Metronidazole is the drug of choice** — Source: Medicoholic 2015 PYQ compilation.
+**D. Metronidazole is the drug of choice** — Penicillin G is the drug of choice for Clostridium perfringens gas gangrene; metronidazole is adjunct. Spores are heat-resistant, not heat-labile.
 
 </details>
 
@@ -1818,7 +1818,7 @@ Most sensitive test in syphilis -
 
 <details><summary>Answer</summary>
 
-**B. TP-PA** — Source: Medicoholic 2015 PYQ compilation.
+**B. TP-PA** — TP-PA (Treponema pallidum particle agglutination), a treponemal test, is most sensitive across all stages; FTA-ABS is most sensitive in primary syphilis.
 
 </details>
 
@@ -1836,7 +1836,7 @@ Brazilian purpuric fever is caused by:
 
 <details><summary>Answer</summary>
 
-**B. Haemophilus aegypticus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Haemophilus aegypticus** — Brazilian purpuric fever is caused by Haemophilus influenzae biogroup aegyptius (Koch-Weeks bacillus), following conjunctivitis with fulminant septicemia in children.
 
 </details>
 
@@ -1854,7 +1854,7 @@ Commonest cause for puerperal sepsis is :
 
 <details><summary>Answer</summary>
 
-**A. Streptococci** — Source: Medicoholic 2015 PYQ compilation.
+**A. Streptococci** — Beta-hemolytic Streptococcus (Group A, S. pyogenes) is the classical commonest cause of puerperal sepsis since Semmelweis; spreads via endogenous/exogenous contamination.
 
 </details>
 
@@ -1872,7 +1872,7 @@ All are true about anaerobic infection except -
 
 <details><summary>Answer</summary>
 
-**B. Exudates and swabs are best for culture** — Source: Medicoholic 2015 PYQ compilation.
+**B. Exudates and swabs are best for culture** — For anaerobic culture, tissue biopsy or pus aspirate is preferred; swabs and exudates expose anaerobes to oxygen, killing them before culture.
 
 </details>
 
@@ -1890,7 +1890,7 @@ Most common route of infection in pasteurella cellulitis -
 
 <details><summary>Answer</summary>
 
-**A. Animal bites or scratches** — Source: Medicoholic 2015 PYQ compilation.
+**A. Animal bites or scratches** — Pasteurella multocida normally colonizes cat/dog oral flora; cellulitis develops rapidly (within 24 hours) following animal bites or scratches.
 
 </details>
 
@@ -1908,7 +1908,7 @@ True about legionella:
 
 <details><summary>Answer</summary>
 
-**B. There is no man to man transmission** — Source: Medicoholic 2015 PYQ compilation.
+**B. There is no man to man transmission** — Legionella pneumophila transmits via inhalation of aerosols from contaminated water (cooling towers, AC); no person-to-person transmission occurs.
 
 </details>
 
@@ -1926,7 +1926,7 @@ Which of the following is non-motile:
 
 <details><summary>Answer</summary>
 
-**B. Burkholderia mallei** — Source: Medicoholic 2015 PYQ compilation.
+**B. Burkholderia mallei** — Burkholderia mallei (causes glanders in equines) is the only non-motile species lacking flagella; B. pseudomallei and Pseudomonas aeruginosa are motile via polar flagella.
 
 </details>
 

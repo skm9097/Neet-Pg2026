@@ -1390,7 +1390,7 @@ Which of the following substances is primarily found in tendons?
 
 <details><summary>Answer</summary>
 
-**A. Collagen** — Source: Medicoholic 2015 PYQ compilation.
+**A. Collagen** — Tendons are dense regular connective tissue composed predominantly of Type I collagen fibers aligned parallel for tensile strength transmitting muscle force to bone.
 
 </details>
 
@@ -1408,7 +1408,7 @@ DOC for acute attack of Hereditary angioneurotic edema
 
 <details><summary>Answer</summary>
 
-**B. Cl, inhibitor concentrate** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cl, inhibitor concentrate** — C1-esterase inhibitor concentrate is first-line for acute HAE attacks; replaces deficient C1-INH, halting kallikrein-bradykinin cascade causing angioedema.
 
 </details>
 
@@ -1426,7 +1426,7 @@ Which can be give in hemorrhagic stroke ?
 
 <details><summary>Answer</summary>
 
-**A. Normal saline** — Source: Medicoholic 2015 PYQ compilation.
+**A. Normal saline** — Normal saline (isotonic) is preferred; hypotonic fluids worsen cerebral edema, while colloids/hypertonic solutions aren't routinely used acutely in hemorrhagic stroke.
 
 </details>
 
@@ -1444,7 +1444,7 @@ Flushing with niacin in reduced by -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — Niacin flushing is PGD2-mediated; aspirin blocks COX-PGD2, laropiprant blocks DP1 receptor, and tachyphylaxis develops with continued dosing—all reduce flushing.
 
 </details>
 
@@ -1462,7 +1462,7 @@ Obesity is seen in all except
 
 <details><summary>Answer</summary>
 
-**D. Sipple syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**D. Sipple syndrome** — Sipple syndrome (MEN 2A: medullary thyroid carcinoma, pheochromocytoma, hyperparathyroidism) causes weight loss, not obesity, unlike Cushing/Pickwickian/Prader-Willi.
 
 </details>
 
@@ -1480,7 +1480,7 @@ Intracranial pressure may be increased by all of the following drugs except -
 
 <details><summary>Answer</summary>
 
-**D. Aminoglycosides** — Source: Medicoholic 2015 PYQ compilation.
+**D. Aminoglycosides** — Aminoglycosides don't raise ICP; Vitamin A toxicity, corticosteroids withdrawal, and quinolones (especially nalidixic acid) cause pseudotumor cerebri/raised ICP.
 
 </details>
 
@@ -1498,7 +1498,7 @@ Most common location of ectopic salivary gland is -
 
 <details><summary>Answer</summary>
 
-**A. Cervical lymph nodes** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cervical lymph nodes** — Ectopic salivary tissue is most commonly found within cervical lymph nodes due to embryologic entrapment during branchial arch development, explaining Warthin tumor location.
 
 </details>
 
@@ -1516,7 +1516,7 @@ Classic triad inRenal cell carcinoma includes all of the following, Except:
 
 <details><summary>Answer</summary>
 
-**B. Hypertension** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hypertension** — Classic RCC triad is hematuria, flank mass, and flank pain ("too late triad"); hypertension is a paraneoplastic feature, not part of triad.
 
 </details>
 
@@ -1534,7 +1534,7 @@ ESWL is contraindicated in which of the following stones -
 
 <details><summary>Answer</summary>
 
-**A. Cysteine stones** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cysteine stones** — Cystine stones are extremely hard (low fragility index) and resistant to shock wave fragmentation; require alternative approaches like ureteroscopy or chemolysis.
 
 </details>
 
@@ -1552,7 +1552,7 @@ Surgery for undescended testis is recommended at what age?
 
 <details><summary>Answer</summary>
 
-**A. 6 months** — Source: Medicoholic 2015 PYQ compilation.
+**A. 6 months** — Orchidopexy is recommended at 6-12 months to preserve fertility and reduce malignancy risk; germ cell loss begins after 12 months of cryptorchidism.
 
 </details>
 
@@ -1570,7 +1570,7 @@ Pseudoclaudication is caused by
 
 <details><summary>Answer</summary>
 
-**C. Lumbar canal stenosis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Lumbar canal stenosis** — Lumbar canal stenosis compresses nerve roots/cauda equina, causing neurogenic claudication relieved by spinal flexion (shopping cart sign), unlike vascular claudication.
 
 </details>
 
@@ -1588,7 +1588,7 @@ Which of the following is the most conservative neck dissection -
 
 <details><summary>Answer</summary>
 
-**A. Supraomohyoid neck dissection** — Source: Medicoholic 2015 PYQ compilation.
+**A. Supraomohyoid neck dissection** — Supraomohyoid (selective levels I-III) is the most conservative; preserves SCM, IJV, accessory nerve, and removes fewest nodal groups.
 
 </details>
 
@@ -1606,7 +1606,7 @@ Supraomohyoid dissection is a type of -
 
 <details><summary>Answer</summary>
 
-**A. Selective neck dissection** — Source: Medicoholic 2015 PYQ compilation.
+**A. Selective neck dissection** — Supraomohyoid dissection removes levels I-III nodes selectively, preserving non-lymphatic structures; classified as selective neck dissection per AAO-HNS classification.
 
 </details>
 
@@ -1624,7 +1624,7 @@ Alagille syndrome- all of the following are true except -
 
 <details><summary>Answer</summary>
 
-**C. Autosomal Recessive Disease** — Source: Medicoholic 2015 PYQ compilation.
+**C. Autosomal Recessive Disease** — Alagille syndrome is autosomal DOMINANT (not recessive), caused by JAG1/NOTCH2 mutations; features paucity of bile ducts, butterfly vertebrae, peripheral pulmonary stenosis.
 
 </details>
 
@@ -1642,7 +1642,7 @@ Absence of Ultra hepatic bile duct leads to which syndrome?
 
 <details><summary>Answer</summary>
 
-**D. Alagille Syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**D. Alagille Syndrome** — Alagille syndrome features intrahepatic bile duct paucity (ductopenia) from JAG1 mutation, causing cholestasis with characteristic facies and cardiac/skeletal anomalies.
 
 </details>
 
@@ -1660,7 +1660,7 @@ Adson's test is positive in -
 
 <details><summary>Answer</summary>
 
-**A. Cervical rib** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cervical rib** — Adson's test detects thoracic outlet syndrome from cervical rib; loss of radial pulse on neck extension/rotation indicates subclavian artery compression by scalene/rib.
 
 </details>
 
@@ -1678,7 +1678,7 @@ Anterior Mediastinal nodes are included in which level of lymphnodes -
 
 <details><summary>Answer</summary>
 
-**D. VII** — Source: Medicoholic 2015 PYQ compilation.
+**D. VII** — Level VII includes superior mediastinal/paratracheal nodes below suprasternal notch; anterior mediastinal nodes are classified here in AJCC head-neck nodal staging.
 
 </details>
 
@@ -1696,7 +1696,7 @@ Which Is False about stress urinary incontinence -
 
 <details><summary>Answer</summary>
 
-**A. More common in men** — Source: Medicoholic 2015 PYQ compilation.
+**A. More common in men** — Stress incontinence is far more common in WOMEN due to pelvic floor weakening from childbirth/menopause; in men it occurs mainly post-prostatectomy.
 
 </details>
 
@@ -1714,7 +1714,7 @@ Which of the following urethral anomaly is the most common -
 
 <details><summary>Answer</summary>
 
-**A. Hypospadias** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypospadias** — Hypospadias (ventral urethral opening) is the commonest urethral anomaly, occurring in ~1:250 male births due to incomplete fusion of urethral folds.
 
 </details>
 
@@ -1732,7 +1732,7 @@ Which of the following types of shock wiil usually have warm peripheral extremit
 
 <details><summary>Answer</summary>
 
-**B. Neurogenic Shock** — Source: Medicoholic 2015 PYQ compilation.
+**B. Neurogenic Shock** — Neurogenic shock causes loss of sympathetic tone, peripheral vasodilation with warm dry extremities and bradycardia—distinguishing from cold, clammy hypovolemic/cardiogenic shock.
 
 </details>
 
@@ -1750,7 +1750,7 @@ Antibiotic prophylaxis is best given -
 
 <details><summary>Answer</summary>
 
-**C. Before the time of incision** — Source: Medicoholic 2015 PYQ compilation.
+**C. Before the time of incision** — Surgical antibiotic prophylaxis is optimal within 60 minutes before skin incision to ensure peak tissue levels at time of bacterial contamination.
 
 </details>
 
@@ -1768,7 +1768,7 @@ Which of the following is a feature of crush syndrome -
 
 <details><summary>Answer</summary>
 
-**C. Myoglobinuria** — Source: Medicoholic 2015 PYQ compilation.
+**C. Myoglobinuria** — Crush syndrome releases myoglobin from damaged muscle into circulation, causing pigmenturia and acute tubular necrosis; also features hyperkalemia and hypocalcemia.
 
 </details>
 
@@ -1786,7 +1786,7 @@ Crush Syndrome is associated with all of the following features except -
 
 <details><summary>Answer</summary>
 
-**A. Hypercalcemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypercalcemia** — Crush syndrome causes HYPOcalcemia (calcium deposits in damaged muscle), not hypercalcemia; also hyperkalemia, myoglobinuria, raised creatinine from rhabdomyolysis/AKI.
 
 </details>
 
@@ -1804,7 +1804,7 @@ Which of the following stones are common with infection ?
 
 <details><summary>Answer</summary>
 
-**A. Struvite** — Source: Medicoholic 2015 PYQ compilation.
+**A. Struvite** — Struvite (magnesium ammonium phosphate) stones form in alkaline urine from urease-producing organisms (Proteus, Klebsiella); cause staghorn calculi requiring complete removal.
 
 </details>
 
@@ -1822,7 +1822,7 @@ High Flying prostate is a sign of -
 
 <details><summary>Answer</summary>
 
-**C. Membranous Urethral Injury** — Source: Medicoholic 2015 PYQ compilation.
+**C. Membranous Urethral Injury** — High-riding prostate on DRE indicates membranous urethral rupture (posterior urethral injury) from pelvic fracture, with prostate displaced upward by pelvic hematoma.
 
 </details>
 
@@ -1840,7 +1840,7 @@ BPH involves -
 
 <details><summary>Answer</summary>
 
-**C. Transitional zone** — Source: Medicoholic 2015 PYQ compilation.
+**C. Transitional zone** — BPH arises in the transitional (periurethral) zone causing urethral compression and obstruction; prostate cancer typically arises in peripheral zone.
 
 </details>
 
@@ -1858,7 +1858,7 @@ Prostate cancer that is limited to the capsule and not the urethra would be satg
 
 <details><summary>Answer</summary>
 
-**C. T2** — Source: Medicoholic 2015 PYQ compilation.
+**C. T2** — T2 indicates tumor confined within prostate capsule without extracapsular extension; T3 denotes capsular breach/seminal vesicle invasion in TNM staging.
 
 </details>
 
@@ -1876,7 +1876,7 @@ If 90% of jejunum and ilium is removed then all of the following features will b
 
 <details><summary>Answer</summary>
 
-**C. Weight gain** — Source: Medicoholic 2015 PYQ compilation.
+**C. Weight gain** — Massive small bowel resection causes short bowel syndrome with malabsorption: steatorrhea, diarrhea, B12 deficiency megaloblastic anemia, and weight LOSS (not gain).
 
 </details>
 
@@ -1894,7 +1894,7 @@ All of the following may lead to a gall bladder carcinoma except -
 
 <details><summary>Answer</summary>
 
-**D. Echinococcus Granulosus Infection** — Source: Medicoholic 2015 PYQ compilation.
+**D. Echinococcus Granulosus Infection** — Echinococcus granulosus (hydatid disease) affects liver, not gallbladder; GB carcinoma risk factors include gallstones, polyps >1cm, typhoid carriers, porcelain GB, nitrosamines.
 
 </details>
 
@@ -1912,7 +1912,7 @@ All of the following are false for Gall Bladder carcinoma except:
 
 <details><summary>Answer</summary>
 
-**B. Gallstones may be a predisposing factor** — Source: Medicoholic 2015 PYQ compilation.
+**B. Gallstones may be a predisposing factor** — Gallstones are the major risk factor (chronic inflammation); GB cancer has POOR prognosis, is mostly adenocarcinoma (not SCC), and jaundice is common late feature.
 
 </details>
 
@@ -1930,7 +1930,7 @@ Which of the following is not true about Boerhaave syndrome?
 
 <details><summary>Answer</summary>
 
-**B. Most common site is left posteromedial aspect 3 - 5 cms above** — Source: Medicoholic 2015 PYQ compilation.
+**B. Most common site is left posteromedial aspect 3 - 5 cms above** — Boerhaave's most common site is the LEFT POSTEROLATERAL wall of the lower esophagus, about 3-5 cm above the gastroesophageal junction, not posteromedial.
 
 </details>
 
@@ -1948,7 +1948,7 @@ Which of the following is true about Mallory Weiss tear -
 
 <details><summary>Answer</summary>
 
-**A. It is a mucosal tear not extending through the muscle layer** — Source: Medicoholic 2015 PYQ compilation.
+**A. It is a mucosal tear not extending through the muscle layer** — Mallory-Weiss is a longitudinal mucosal/submucosal tear at the gastroesophageal junction from forceful retching, sparing the muscularis layer entirely.
 
 </details>
 
@@ -1966,7 +1966,7 @@ What is the most common position of appendix?
 
 <details><summary>Answer</summary>
 
-**C. Retrocaecal** — Source: Medicoholic 2015 PYQ compilation.
+**C. Retrocaecal** — Retrocaecal position (~74%) is the commonest appendix location; the tip lies behind the caecum, explaining flank pain and psoas sign positivity.
 
 </details>
 
@@ -1984,7 +1984,7 @@ year pld male complaining of per rectal bleeding was diagnosed of having rectal/
 
 <details><summary>Answer</summary>
 
-**C. Low anterior resection** — Source: Medicoholic 2015 PYQ compilation.
+**C. Low anterior resection** — Tumors with distal margin above 5 cm from anal verge allow sphincter-preserving low anterior resection with adequate distal clearance and TME.
 
 </details>
 
@@ -2002,7 +2002,7 @@ Commonest cause of intussusception is -
 
 <details><summary>Answer</summary>
 
-**C. Hypertrophy of submucous peyer's patches** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hypertrophy of submucous peyer's patches** — In children, hypertrophied Peyer's patches following viral infection act as lead point, causing ileocolic intussusception; adults typically have pathological lead points.
 
 </details>
 
@@ -2020,7 +2020,7 @@ All of the following are clinical features suggestive of trachea-esophagal fistu
 
 <details><summary>Answer</summary>
 
-**D. Fever** — Source: Medicoholic 2015 PYQ compilation.
+**D. Fever** — TEF presents with choking, coughing, regurgitation, cyanosis on feeding from aspiration; fever is a late complication of pneumonia, not a presenting feature.
 
 </details>
 
@@ -2038,7 +2038,7 @@ Most important presenting feature of periampullary carcinoma is -
 
 <details><summary>Answer</summary>
 
-**A. Jaundice** — Source: Medicoholic 2015 PYQ compilation.
+**A. Jaundice** — Periampullary tumors obstruct the distal common bile duct early, producing painless progressive obstructive jaundice (Courvoisier's law) as the dominant presenting feature.
 
 </details>
 
@@ -2056,7 +2056,7 @@ Best marker to assess prognosis after Surgery for colon carcinoma:
 
 <details><summary>Answer</summary>
 
-**D. CEA** — Source: Medicoholic 2015 PYQ compilation.
+**D. CEA** — CEA is the gold-standard marker for colon cancer surveillance; rising postoperative levels indicate recurrence or metastasis with high sensitivity and specificity.
 
 </details>
 
@@ -2074,7 +2074,7 @@ All of the following are features of Zollinger Ellison syndrome except
 
 <details><summary>Answer</summary>
 
-**C. Beta cell tumors of the pancreas** — Source: Medicoholic 2015 PYQ compilation.
+**C. Beta cell tumors of the pancreas** — ZES is caused by gastrinoma (non-beta islet cell tumor) of pancreas/duodenum secreting gastrin; beta cells secrete insulin causing insulinoma instead.
 
 </details>
 
@@ -2092,7 +2092,7 @@ All of the following is true about heart transplantation except -
 
 <details><summary>Answer</summary>
 
-**B. It is only orthotopic and not heterotopic** — Source: Medicoholic 2015 PYQ compilation.
+**B. It is only orthotopic and not heterotopic** — Heart transplantation can be orthotopic (native heart removed) or heterotopic (donor heart placed alongside native heart as piggyback) for high pulmonary resistance recipients.
 
 </details>
 
@@ -2110,7 +2110,7 @@ Lateral aberrant thyroid refers to -
 
 <details><summary>Answer</summary>
 
-**B. Metastatic focus in lymph nodes** — Source: Medicoholic 2015 PYQ compilation.
+**B. Metastatic focus in lymph nodes** — Lateral aberrant thyroid is actually a misnomer for metastatic papillary thyroid carcinoma deposits in lateral cervical lymph nodes; true ectopic lateral thyroid is rare.
 
 </details>
 
@@ -2128,7 +2128,7 @@ True regarding cystic hygroma is -
 
 <details><summary>Answer</summary>
 
-**C. Develops from jugular lymphatic sequestration** — Source: Medicoholic 2015 PYQ compilation.
+**C. Develops from jugular lymphatic sequestration** — Cystic hygroma is a lymphatic malformation from sequestration of jugular lymph sac; brilliantly transilluminant, lined by endothelium, presents in posterior triangle of neck.
 
 </details>
 
@@ -2146,7 +2146,7 @@ Most common site for Cystic Hygroma is -
 
 <details><summary>Answer</summary>
 
-**A. Lower third of neck** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lower third of neck** — Cystic hygroma most commonly occurs in the lower third of the neck (posterior triangle), arising from sequestration of the jugular lymphatic sac.
 
 </details>
 
@@ -2164,7 +2164,7 @@ Chvostek sign could be seen after -
 
 <details><summary>Answer</summary>
 
-**B. Total thyroidectomy** — Source: Medicoholic 2015 PYQ compilation.
+**B. Total thyroidectomy** — Total thyroidectomy risks parathyroid devascularization causing hypocalcemia; Chvostek sign (facial twitch on tapping facial nerve) reflects neuromuscular irritability from low calcium.
 
 </details>
 
@@ -2182,7 +2182,7 @@ Transplanted kidney is relocated to which region in the recepient's body ?
 
 <details><summary>Answer</summary>
 
-**A. Retroperitoneal rgion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Retroperitoneal rgion** — Donor kidney is placed extraperitoneally in iliac fossa (retroperitoneal); renal vessels anastomosed to iliac vessels and ureter implanted into bladder.
 
 </details>
 
@@ -2200,7 +2200,7 @@ Claudication due to popliteofemoral incompetence is primary seen in
 
 <details><summary>Answer</summary>
 
-**B. Calf** — Source: Medicoholic 2015 PYQ compilation.
+**B. Calf** — Popliteofemoral (superficial femoral artery) occlusion causes calf claudication as gastrocnemius is the first muscle group distal to the block to become ischemic.
 
 </details>
 
@@ -2218,7 +2218,7 @@ Food can commonly get obstructed in the esophagus at all of the following locati
 
 <details><summary>Answer</summary>
 
-**D. Crossing of the hemiazygous vein** — Source: Medicoholic 2015 PYQ compilation.
+**D. Crossing of the hemiazygous vein** — Esophageal anatomical constrictions are cricopharyngeus, aortic arch crossing, left main bronchus crossing, and diaphragmatic hiatus; hemiazygos vein crossing is not a constriction.
 
 </details>
 
@@ -2236,7 +2236,7 @@ A full thickness wound that is not sutured heals by
 
 <details><summary>Answer</summary>
 
-**B. Secondary Healing** — Source: Medicoholic 2015 PYQ compilation.
+**B. Secondary Healing** — Unapposed wound edges with tissue loss heal by secondary intention through granulation tissue formation, wound contraction, and re-epithelialization, leaving prominent scar.
 
 </details>
 
@@ -2254,7 +2254,7 @@ An Incisional wound heals by
 
 <details><summary>Answer</summary>
 
-**A. Primary Healing** — Source: Medicoholic 2015 PYQ compilation.
+**A. Primary Healing** — Clean surgical incisions with apposed edges heal by primary intention with minimal granulation tissue, rapid epithelialization, and a fine linear scar.
 
 </details>
 
@@ -2272,7 +2272,7 @@ A cystic mass at the base of umbilical cord in a neonate could be
 
 <details><summary>Answer</summary>
 
-**A. Allantoic Cyst** — Source: Medicoholic 2015 PYQ compilation.
+**A. Allantoic Cyst** — Allantoic (urachal) cyst arises from persistence of the allantois between bladder and umbilicus, presenting as cystic swelling at umbilical cord base in neonates.
 
 </details>
 
@@ -2290,7 +2290,7 @@ Which of the following gas is most commonly used in laproscopy?
 
 <details><summary>Answer</summary>
 
-**A. CO2** — Source: Medicoholic 2015 PYQ compilation.
+**A. CO2** — CO2 is used because it is non-combustible, highly soluble in blood (rapidly absorbed reducing embolism risk), inexpensive, and easily excreted via lungs.
 
 </details>
 
@@ -2308,7 +2308,7 @@ Strawberry gallbladder is seen in ?
 
 <details><summary>Answer</summary>
 
-**D. Cholesterosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Cholesterosis** — Cholesterosis (strawberry gallbladder) shows yellow cholesterol-laden macrophages in lamina propria against red hyperemic mucosa, mimicking a strawberry's seeded surface appearance.
 
 </details>
 
@@ -2326,7 +2326,7 @@ All of the following are causes of Urothelial Carcinomas Except -
 
 <details><summary>Answer</summary>
 
-**D. Alcohol consumption** — Source: Medicoholic 2015 PYQ compilation.
+**D. Alcohol consumption** — Smoking (#1 risk), aromatic amines/industrial solvents, and thorotrast cause urothelial carcinoma via direct mucosal carcinogen exposure; alcohol is not an established risk factor.
 
 </details>
 
@@ -2344,7 +2344,7 @@ Commonest site of peptic ulcer is :
 
 <details><summary>Answer</summary>
 
-**A. 1st part of Duodenum** — Source: Medicoholic 2015 PYQ compilation.
+**A. 1st part of Duodenum** — First part of duodenum (bulb), anterior wall, is the commonest peptic ulcer site due to direct acid exposure before pancreatic bicarbonate neutralization.
 
 </details>
 
@@ -2362,7 +2362,7 @@ In case of polytrauma with multiple injuries to the chest, neck and abdomen, hig
 
 <details><summary>Answer</summary>
 
-**A. Stabilization of cervical spine** — Source: Medicoholic 2015 PYQ compilation.
+**A. Stabilization of cervical spine** — ATLS protocol prioritizes Airway with cervical spine stabilization first; unprotected C-spine manipulation in trauma risks catastrophic cord injury and quadriplegia.
 
 </details>
 
@@ -2380,7 +2380,7 @@ Thyroid nodule in a 65 year old male who is clinically euthyroid is most likely 
 
 <details><summary>Answer</summary>
 
-**A. Follicular adenoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Follicular adenoma** — Solitary euthyroid thyroid nodules are most commonly benign follicular adenomas; FNAC cannot distinguish from follicular carcinoma without capsular/vascular invasion on histology.
 
 </details>
 
@@ -2398,7 +2398,7 @@ In Subtotal Thyroidectomy, What is true
 
 <details><summary>Answer</summary>
 
-**B. Removal of both lobes leaving behind 6-8 grams of tissue** — Source: Medicoholic 2015 PYQ compilation.
+**B. Removal of both lobes leaving behind 6-8 grams of tissue** — Subtotal thyroidectomy preserves approximately 4-8 grams of thyroid tissue bilaterally to maintain euthyroid status and protect recurrent laryngeal nerves and parathyroids.
 
 </details>
 
@@ -2416,7 +2416,7 @@ Which of the following statements about Branchial cysts is true:
 
 <details><summary>Answer</summary>
 
-**B. Most common site is mediastinum** — Source: Medicoholic 2015 PYQ compilation.
+**B. Most common site is mediastinum** — Note: question stem references branchial but options describe bronchogenic cysts; bronchogenic cysts most commonly arise in the mediastinum, particularly subcarinal region.
 
 </details>
 
@@ -2434,7 +2434,7 @@ Most common cause of goiter in India is
 
 <details><summary>Answer</summary>
 
-**A. Diffuse Endemic Goitre** — Source: Medicoholic 2015 PYQ compilation.
+**A. Diffuse Endemic Goitre** — Diffuse endemic (colloid) goiter from dietary iodine deficiency remains the commonest cause in India, especially in the sub-Himalayan goiter belt despite salt iodization.
 
 </details>
 
@@ -2452,7 +2452,7 @@ Which of the following is an indication for thoracotomy in case of hemothorax ?
 
 <details><summary>Answer</summary>
 
-**A. Persistant drainage of 250 ml/hr** — Source: Medicoholic 2015 PYQ compilation.
+**A. Persistant drainage of 250 ml/hr** — Thoracotomy indicated for initial drainage greater than 1500ml or persistent bleeding above 200-250 ml/hour for 3-4 hours, indicating ongoing major vascular injury.
 
 </details>
 

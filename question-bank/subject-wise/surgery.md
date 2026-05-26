@@ -1390,7 +1390,7 @@ Vertebra Plana is seen in all except -
 
 <details><summary>Answer</summary>
 
-**D. Scheurmanns Disease** — Source: Medicoholic 2015 PYQ compilation.
+**D. Scheurmanns Disease** — Scheuermann's disease causes anterior wedging with kyphosis, not complete vertebral body collapse; vertebra plana indicates pancake-flat vertebra from eosinophilic granuloma, leukemia, steroids.
 
 </details>
 
@@ -1408,7 +1408,7 @@ What is luxatio erecta ?
 
 <details><summary>Answer</summary>
 
-**B. Inferior Dislocation of the shoulder joint** — Source: Medicoholic 2015 PYQ compilation.
+**B. Inferior Dislocation of the shoulder joint** — Luxatio erecta is rare inferior glenohumeral dislocation where humeral head locks below glenoid; arm fixed in hyperabduction overhead, often with axillary nerve injury.
 
 </details>
 
@@ -1426,7 +1426,7 @@ Hamilton Ruler test sign is positive in which of the above mentioned conditions 
 
 <details><summary>Answer</summary>
 
-**A. Anterior dislocation of shoulder** — Source: Medicoholic 2015 PYQ compilation.
+**A. Anterior dislocation of shoulder** — Hamilton ruler test: straight ruler touches lateral epicondyle and acromion simultaneously due to loss of shoulder roundness in anterior shoulder dislocation.
 
 </details>
 
@@ -1444,7 +1444,7 @@ Dinner fork deformity is seen in?
 
 <details><summary>Answer</summary>
 
-**A. Colle's fracture** — Source: Medicoholic 2015 PYQ compilation.
+**A. Colle's fracture** — Colles fracture: distal radius fracture with dorsal angulation and displacement of distal fragment producing dinner-fork silhouette from lateral view of wrist.
 
 </details>
 
@@ -1462,7 +1462,7 @@ Brodie-Trendelenburg test is positive in:
 
 <details><summary>Answer</summary>
 
-**B. Sapheno-femoral incompetence** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sapheno-femoral incompetence** — Brodie-Trendelenburg test: rapid varicose vein refill after releasing saphenofemoral compression indicates incompetent SFJ valve allowing reflux into long saphenous vein.
 
 </details>
 
@@ -1480,7 +1480,7 @@ Brodie-Trendelenburg test is positive in:
 
 <details><summary>Answer</summary>
 
-**B. Greenstick fracture** — Source: Medicoholic 2015 PYQ compilation.
+**B. Greenstick fracture** — Greenstick fracture: incomplete pediatric fracture where one cortex breaks while opposite cortex bends intact, due to elastic periosteum and pliable bone in children.
 
 </details>
 
@@ -1498,7 +1498,7 @@ Greenstick/ Nightstick fractures are seen in -
 
 <details><summary>Answer</summary>
 
-**A. Children** — Source: Medicoholic 2015 PYQ compilation.
+**A. Children** — Greenstick fractures occur exclusively in children because their bones contain more collagen and thicker periosteum, allowing one cortex to bend rather than completely fracture.
 
 </details>
 
@@ -1516,7 +1516,7 @@ Who devised correction of CTEV by serial castinga -
 
 <details><summary>Answer</summary>
 
-**A. Ignasio Ponseti** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ignasio Ponseti** — Ignacio Ponseti developed serial manipulation and casting method for congenital talipes equinovarus, correcting deformity sequentially followed by percutaneous Achilles tenotomy and bracing.
 
 </details>
 
@@ -1534,7 +1534,7 @@ Quickening in multiparae is felt at what weeks of gestation?
 
 <details><summary>Answer</summary>
 
-**B. 16 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**B. 16 weeks** — Multiparous women recognize fetal movements earlier at 16-18 weeks due to prior experience; primigravidae feel quickening later around 18-20 weeks gestation.
 
 </details>
 
@@ -1552,7 +1552,7 @@ Progesterone of choice in emergency contraception is?
 
 <details><summary>Answer</summary>
 
-**D. Levonorgestrel** — Source: Medicoholic 2015 PYQ compilation.
+**D. Levonorgestrel** — Levonorgestrel 1.5mg within 72 hours delays/inhibits ovulation and prevents fertilization; preferred emergency contraceptive due to high efficacy and minimal side effects.
 
 </details>
 
@@ -1570,7 +1570,7 @@ Most common breech position is
 
 <details><summary>Answer</summary>
 
-**B. Frank breech** — Source: Medicoholic 2015 PYQ compilation.
+**B. Frank breech** — Frank breech (60-70%): hips flexed, knees extended with feet near head; commonest type especially in primigravidae with firm uterine tone limiting fetal mobility.
 
 </details>
 
@@ -1588,7 +1588,7 @@ Method not used for shoulder dystocia
 
 <details><summary>Answer</summary>
 
-**B. Hegar's maneuver** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hegar's maneuver** — Hegar's maneuver is for cervical dilatation assessment, not shoulder dystocia; McRobert's, Wood's screw, and Zavanelli are recognized maneuvers for impacted anterior shoulder.
 
 </details>
 
@@ -1606,7 +1606,7 @@ Occipitoanterior position
 
 <details><summary>Answer</summary>
 
-**A. Anterior fontanalle is posterior** — Source: Medicoholic 2015 PYQ compilation.
+**A. Anterior fontanalle is posterior** — In occipitoanterior position, fetal occiput faces maternal symphysis pubis, so anterior fontanelle lies posteriorly; commonest and most favorable cephalic presentation for vaginal delivery.
 
 </details>
 
@@ -1627,7 +1627,7 @@ Following genetic counselling in a family for Familial polyposis coli (FPC) next
 
 <details><summary>Answer</summary>
 
-**D. APC gene** — Source: Medicoholic 2016 PYQ compilation.
+**D. APC gene** — After counselling, APC gene mutation testing identifies at-risk family members; positive mutation carriers then need colonoscopy surveillance from puberty for adenoma detection.
 
 </details>
 
@@ -1647,7 +1647,7 @@ Treatment of choice for stab injury caecum ?
 
 <details><summary>Answer</summary>
 
-**B. Ileo-transverse anastomosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ileo-transverse anastomosis** — Right hemicolectomy with ileo-transverse anastomosis is preferred for caecal injuries due to poor blood supply, thin wall, and high leak risk with primary repair.
 
 </details>
 
@@ -1667,7 +1667,7 @@ Fasting hypoglycemia is caused by the following except
 
 <details><summary>Answer</summary>
 
-**D. Chronic pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Chronic pancreatitis** — Chronic pancreatitis causes postprandial hypoglycemia from delayed glucagon response, not fasting hypoglycemia; alcohol, pentamidine, and renal failure impair gluconeogenesis causing fasting hypoglycemia.
 
 </details>
 
@@ -1687,7 +1687,7 @@ Which of the following is not a prognostic factor for Acute Pancreatitis
 
 <details><summary>Answer</summary>
 
-**A. Serum Amylase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Serum Amylase** — Serum amylase only confirms diagnosis; not in Ranson's or Glasgow criteria as levels don't correlate with severity. Calcium, glucose, AST are prognostic markers.
 
 </details>
 
@@ -1707,7 +1707,7 @@ Most sensitive and specific for acute pancreatitis amongst the following is:
 
 <details><summary>Answer</summary>
 
-**C. S.lipase** — Source: Medicoholic 2016 PYQ compilation.
+**C. S.lipase** — Serum lipase rises within 4-8 hours, peaks at 24 hours, remains elevated 8-14 days; more pancreas-specific than amylase which also rises in salivary disorders.
 
 </details>
 
@@ -1727,7 +1727,7 @@ Which enzyme is of diagnostic importance in chronic pancreatitis
 
 <details><summary>Answer</summary>
 
-**C. Lipase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lipase** — Fecal elastase and serum lipase remain useful in chronic pancreatitis since amylase often normalizes with parenchymal destruction; lipase reflects residual acinar exocrine function.
 
 </details>
 
@@ -1747,7 +1747,7 @@ Most common screening test for acute pancreatitis -
 
 <details><summary>Answer</summary>
 
-**C. Urine trypsinogen** — Source: Medicoholic 2016 PYQ compilation.
+**C. Urine trypsinogen** — Urinary trypsinogen-2 dipstick is sensitive, rapid, and non-invasive screening tool; trypsinogen-2 is released early into urine during acinar cell injury.
 
 </details>
 
@@ -1767,7 +1767,7 @@ Pseudocyst pancreas is developed in how much duration following an attack of acu
 
 <details><summary>Answer</summary>
 
-**D. 4 or more weeks** — Source: Medicoholic 2016 PYQ compilation.
+**D. 4 or more weeks** — Pancreatic pseudocyst requires 4+ weeks for fibrous granulation wall maturation around peripancreatic fluid collection; before 4 weeks it is termed acute peripancreatic fluid collection.
 
 </details>
 
@@ -1787,7 +1787,7 @@ Cullen's sign is seen in:
 
 <details><summary>Answer</summary>
 
-**C. Acute pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Acute pancreatitis** — Cullen's sign: periumbilical bluish discoloration from retroperitoneal hemorrhage tracking along falciform ligament to umbilicus; indicates severe hemorrhagic pancreatitis or ruptured ectopic pregnancy.
 
 </details>
 
@@ -1807,7 +1807,7 @@ Contraindication for colostomy planning are all except -
 
 <details><summary>Answer</summary>
 
-**A. Age > 60 yrs** — Source: Medicoholic 2016 PYQ compilation.
+**A. Age > 60 yrs** — Age over 60 is not a contraindication; absolute contraindications are stomas through scars, near bony prominences/creases, and poorly motivated patients due to appliance failure.
 
 </details>
 
@@ -1827,7 +1827,7 @@ Definition of childhood is under what age?
 
 <details><summary>Answer</summary>
 
-**C. 12 years** — Source: Medicoholic 2016 PYQ compilation.
+**C. 12 years** — Childhood per WHO/IAP is defined as under 12 years, encompassing infancy, toddlerhood, preschool, and school age before adolescence begins.
 
 </details>
 
@@ -1847,7 +1847,7 @@ A child aged 7 years has how many teeth
 
 <details><summary>Answer</summary>
 
-**C. 26** — Source: Medicoholic 2016 PYQ compilation.
+**C. 26** — At 7 years, child has 20 deciduous teeth plus 6 erupting permanent (4 first molars and 2 central incisors) totaling approximately 26 teeth during mixed dentition.
 
 </details>
 
@@ -1867,7 +1867,7 @@ What is the age of the child who draws
 
 <details><summary>Answer</summary>
 
-**D. 3 years** — Source: Medicoholic 2016 PYQ compilation.
+**D. 3 years** — By 3 years a child copies a circle and draws a vertical line; at 4 copies cross, at 5 copies square, at 6 triangle.
 
 </details>
 
@@ -1887,7 +1887,7 @@ By what age is the milestone of climbing steps with alternate feet achieved?
 
 <details><summary>Answer</summary>
 
-**B. 3 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3 years** — At 3 years child climbs stairs with alternate feet (one foot per step); 2-year-old climbs with both feet on each step (marking time).
 
 </details>
 
@@ -1907,7 +1907,7 @@ Social smile is attained at what age?
 
 <details><summary>Answer</summary>
 
-**A. 2 months** — Source: Medicoholic 2016 PYQ compilation.
+**A. 2 months** — Social smile (responsive smile to mother's face) appears at 6-8 weeks (~2 months) marking earliest social milestone; precedes recognition smile and stranger anxiety.
 
 </details>
 
@@ -1927,7 +1927,7 @@ By what age can a newborn recognize mother?
 
 <details><summary>Answer</summary>
 
-**B. 3 months** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3 months** — At 3 months infant visually recognizes mother and shows preference; coincides with social smile maturation and improving visual acuity for facial discrimination.
 
 </details>
 
@@ -1947,7 +1947,7 @@ Which of the following can be done by an 18 months old baby?
 
 <details><summary>Answer</summary>
 
-**B. Can use 10 words with meaning** — Source: Medicoholic 2016 PYQ compilation.
+**B. Can use 10 words with meaning** — 18-month-old uses 8-10 words with meaning; tower of 9 cubes at 3 years, tricycle riding at 3 years, turning pages singly at 2 years.
 
 </details>
 

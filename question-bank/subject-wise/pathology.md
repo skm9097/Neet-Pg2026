@@ -1224,7 +1224,7 @@ Lysosome with undigested particle inside is known as -
 
 <details><summary>Answer</summary>
 
-**A. Residual body** — Source: Medicoholic 2015 PYQ compilation.
+**A. Residual body** — Residual bodies are terminal lysosomes containing undigested lipofuscin/lipid debris; accumulate in aging cells reflecting free-radical injury and incomplete autophagy.
 
 </details>
 
@@ -1242,7 +1242,7 @@ The predominant isozyme of LDH in Lung is:
 
 <details><summary>Answer</summary>
 
-**C. LD-3** — Source: Medicoholic 2015 PYQ compilation.
+**C. LD-3** — LDH-3 (2H2M tetramer) predominates in lungs, lymphoid tissue, spleen, and platelets; elevation suggests pulmonary embolism or lymphoma.
 
 </details>
 
@@ -1260,7 +1260,7 @@ Homer rosette is seen in -
 
 <details><summary>Answer</summary>
 
-**A. Neurobastoma** — Source: Medicoholic 2015 PYQ compilation.
+**A. Neurobastoma** — Homer-Wright rosettes (neuroblasts around central neuropil) characterize neuroblastoma, derived from neural crest sympathetic ganglia; positive for NSE, synaptophysin, chromogranin.
 
 </details>
 
@@ -1278,7 +1278,7 @@ Neuroblastomas - good prognositc factor is ?
 
 <details><summary>Answer</summary>
 
-**C. Hyperdiploidy** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hyperdiploidy** — Hyperdiploidy (DNA index >1) confers favorable prognosis in infants; whereas N-myc amplification, 1p36 deletion, and diploidy indicate aggressive disease.
 
 </details>
 
@@ -1296,7 +1296,7 @@ Neuroblastomas - good prognositc factor is ?
 
 <details><summary>Answer</summary>
 
-**A. Axon reflex** — Source: Medicoholic 2015 PYQ compilation.
+**A. Axon reflex** — Lewis triple response flare results from axon reflex causing arteriolar dilation via antidromic release of substance P/CGRP from C-fiber collaterals.
 
 </details>
 
@@ -1314,7 +1314,7 @@ HDL receptor is -
 
 <details><summary>Answer</summary>
 
-**A. SR-BI** — Source: Medicoholic 2015 PYQ compilation.
+**A. SR-BI** — SR-BI (Scavenger Receptor class B type I) mediates selective uptake of HDL-cholesteryl esters in liver and steroidogenic tissues for reverse cholesterol transport.
 
 </details>
 
@@ -1332,7 +1332,7 @@ HDL receptor is -
 
 <details><summary>Answer</summary>
 
-**C. Cl. septicum** — Source: Medicoholic 2015 PYQ compilation.
+**C. Cl. septicum** — Clostridium septicum produces citron (lemon-shaped) bodies in exudates; classically associated with non-traumatic gas gangrene and occult colorectal malignancy.
 
 </details>
 
@@ -1350,7 +1350,7 @@ Calrexin and calreticulin are -
 
 <details><summary>Answer</summary>
 
-**B. Chaperons** — Source: Medicoholic 2015 PYQ compilation.
+**B. Chaperons** — Calnexin and calreticulin are ER lectin chaperones that bind monoglucosylated N-glycans, ensuring correct glycoprotein folding via the calnexin/calreticulin quality-control cycle.
 
 </details>
 
@@ -1368,7 +1368,7 @@ Which of the following is potassium Channelopathy -
 
 <details><summary>Answer</summary>
 
-**A. Hypokalemic periodic paralysis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Hypokalemic periodic paralysis** — Hypokalemic periodic paralysis involves CACNA1S/SCN4A mutations affecting K+ efflux indirectly; episodic ataxia-1 (KCNA1) is the classic pure K+ channelopathy.
 
 </details>
 
@@ -1386,7 +1386,7 @@ Which of the following is false regarding carcinoid tumor ?
 
 <details><summary>Answer</summary>
 
-**B. Most common site is lung** — Source: Medicoholic 2015 PYQ compilation.
+**B. Most common site is lung** — Most common carcinoid site is gastrointestinal tract (appendix/small bowel), not lung; tumors arise from enterochromaffin cells secreting serotonin causing carcinoid syndrome.
 
 </details>
 
@@ -1404,7 +1404,7 @@ Fibrosis associated with liver cirrhosis is mediated by -
 
 <details><summary>Answer</summary>
 
-**A. PDGF** — Source: Medicoholic 2015 PYQ compilation.
+**A. PDGF** — PDGF activates hepatic stellate (Ito) cells, transforming them into myofibroblasts that deposit type I/III collagen, driving perisinusoidal fibrosis and cirrhosis.
 
 </details>
 
@@ -1422,7 +1422,7 @@ Solution currently used for liver preservation for transplant is -
 
 <details><summary>Answer</summary>
 
-**A. UW solution** — Source: Medicoholic 2015 PYQ compilation.
+**A. UW solution** — University of Wisconsin (UW) solution contains lactobionate, raffinose, and hydroxyethyl starch; gold standard preventing cell swelling during cold ischemia up to 24 hours.
 
 </details>
 
@@ -1440,7 +1440,7 @@ Which of the following markers is specific for gastro-intestinal stomal tumor (G
 
 <details><summary>Answer</summary>
 
-**A. CD 117** — Source: Medicoholic 2015 PYQ compilation.
+**A. CD 117** — CD117 (c-KIT) is the hallmark IHC marker for GIST, reflecting gain-of-function KIT/PDGFRA mutations in interstitial cells of Cajal; DOG1 also positive.
 
 </details>
 
@@ -1458,7 +1458,7 @@ Primary hyperparathyroidism, phaeochromocytoma may be associated with which type
 
 <details><summary>Answer</summary>
 
-**A. Medullary carcinoma of the thyroid** — Source: Medicoholic 2015 PYQ compilation.
+**A. Medullary carcinoma of the thyroid** — MEN2A syndrome (RET proto-oncogene mutation) combines medullary thyroid carcinoma (calcitonin-secreting C-cells), pheochromocytoma, and primary parathyroid hyperplasia.
 
 </details>
 
@@ -1476,7 +1476,7 @@ Permission from DCGI [Drug controller general, India] is needed before which pha
 
 <details><summary>Answer</summary>
 
-**A. Phase 1** — Source: Medicoholic 2015 PYQ compilation.
+**A. Phase 1** — DCGI permission under Schedule Y is mandatory before Phase 1 (first-in-human) trials; preclinical animal toxicology data must be submitted for approval.
 
 </details>
 
@@ -1494,7 +1494,7 @@ CYP3A inhibitors is/are -
 
 <details><summary>Answer</summary>
 
-**D. a and c** — Source: Medicoholic 2015 PYQ compilation.
+**D. a and c** — Ritonavir is a potent CYP3A4 inhibitor (used to boost protease inhibitors); verapamil and amiodarone also inhibit CYP3A4 causing significant drug interactions.
 
 </details>
 
@@ -1512,7 +1512,7 @@ Regarding efficacy and potency of a drug, all are true, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**C. ED50 of the drug corresponds to efficacy** — Source: Medicoholic 2015 PYQ compilation.
+**C. ED50 of the drug corresponds to efficacy** — ED50 (dose producing half-maximal effect) corresponds to potency, not efficacy; efficacy is reflected by Emax (height/ceiling of log dose-response curve).
 
 </details>
 
@@ -1530,7 +1530,7 @@ Volume of distribution of a drug is 500 ml and target concentration of drug in b
 
 <details><summary>Answer</summary>
 
-**C. 12.5 gm** — Source: Medicoholic 2015 PYQ compilation.
+**C. 12.5 gm** — Loading dose = (Vd x target concentration)/bioavailability = (0.5L x 5g/L)/0.2 = 12.5g; accounts for 20% systemic availability via first-pass.
 
 </details>
 
@@ -1548,7 +1548,7 @@ Drugs which is not metabolized by acetylation ?
 
 <details><summary>Answer</summary>
 
-**B. Metoclopramide** — Source: Medicoholic 2015 PYQ compilation.
+**B. Metoclopramide** — Metoclopramide is metabolized by sulfation/CYP2D6; dapsone, procainamide, INH, hydralazine, sulfonamides undergo NAT2 acetylation with bimodal slow/fast acetylator polymorphism.
 
 </details>
 
@@ -1566,7 +1566,7 @@ True about drug metabolism ?
 
 <details><summary>Answer</summary>
 
-**B. Most common enzyme involved is Cyp 3A4/5** — Source: Medicoholic 2015 PYQ compilation.
+**B. Most common enzyme involved is Cyp 3A4/5** — CYP3A4/5 metabolizes ~50% of clinically used drugs; glucuronidation is phase II, oxidation (not reduction) is the most common phase I reaction.
 
 </details>
 
@@ -1584,7 +1584,7 @@ Which is topical way of drug administration ?
 
 <details><summary>Answer</summary>
 
-**A. Inhaled steroid** — Source: Medicoholic 2015 PYQ compilation.
+**A. Inhaled steroid** — Inhaled steroids act locally on bronchial mucosa (topical); transdermal/sublingual/rectal routes are systemic delivery despite local application, achieving plasma drug levels.
 
 </details>
 
@@ -1602,7 +1602,7 @@ True about transdermal drug delivery system are all except?
 
 <details><summary>Answer</summary>
 
-**C. Good option in emergency situations** — Source: Medicoholic 2015 PYQ compilation.
+**C. Good option in emergency situations** — Transdermal patches deliver drugs at zero-order kinetics over days; unsuitable for emergencies due to slow onset; fentanyl, nicotine, estradiol commonly used.
 
 </details>
 
@@ -1620,7 +1620,7 @@ Receptor level antagonism is shown by ?
 
 <details><summary>Answer</summary>
 
-**C. Isoprenaline and propranolol** — Source: Medicoholic 2015 PYQ compilation.
+**C. Isoprenaline and propranolol** — Isoprenaline (beta-agonist) and propranolol (beta-blocker) compete at the same beta-adrenergic receptor, demonstrating pharmacological/receptor-level antagonism with parallel right-shift of dose-response curve.
 
 </details>
 
@@ -1638,7 +1638,7 @@ Fastest receptor mediated action is through ?
 
 <details><summary>Answer</summary>
 
-**B. Intrinsic ion channels** — Source: Medicoholic 2015 PYQ compilation.
+**B. Intrinsic ion channels** — Ligand-gated ion channels (nicotinic, GABA-A, NMDA) act in milliseconds via direct ionic flux; G-protein-coupled receptors take seconds, nuclear receptors hours.
 
 </details>
 
@@ -1656,7 +1656,7 @@ Side effects of clonidine are all except ?
 
 <details><summary>Answer</summary>
 
-**D. Diarrhea** — Source: Medicoholic 2015 PYQ compilation.
+**D. Diarrhea** — Clonidine (central alpha-2 agonist) causes constipation, not diarrhea; reduces sympathetic outflow producing xerostomia, sedation, postural hypotension, and sexual dysfunction.
 
 </details>
 
@@ -1674,7 +1674,7 @@ Lipid insoluble (3-blokcer is -
 
 <details><summary>Answer</summary>
 
-**D. Celiprolol** — Source: Medicoholic 2015 PYQ compilation.
+**D. Celiprolol** — Celiprolol and atenolol are hydrophilic (lipid-insoluble) beta-blockers excreted renally unchanged; minimal CNS penetration reduces nightmares and central side effects.
 
 </details>
 
@@ -1692,7 +1692,7 @@ Nonselective a + 1 blocker is ?
 
 <details><summary>Answer</summary>
 
-**A. Carvedilol** — Source: Medicoholic 2015 PYQ compilation.
+**A. Carvedilol** — Carvedilol blocks beta-1, beta-2, and alpha-1 receptors; alpha-1 blockade causes vasodilation, beneficial in heart failure by reducing afterload and oxidative stress.
 
 </details>
 
@@ -1710,7 +1710,7 @@ Non-selective Beta-blocker with sympathomimetic activity ?
 
 <details><summary>Answer</summary>
 
-**A. Pindolol** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pindolol** — Pindolol is a non-selective beta-blocker with intrinsic sympathomimetic activity (partial agonism), causing less bradycardia and minimal effect on lipid/glucose metabolism.
 
 </details>
 
@@ -1728,7 +1728,7 @@ Action of M, cholinergic receptors ?
 
 <details><summary>Answer</summary>
 
-**C. Decreased heart rate** — Source: Medicoholic 2015 PYQ compilation.
+**C. Decreased heart rate** — M2 muscarinic receptors (Gi-coupled, cardiac) decrease cAMP and activate GIRK potassium channels in SA/AV nodes, slowing heart rate via vagal stimulation.
 
 </details>
 
@@ -1746,7 +1746,7 @@ Antimuscarinic drug used in overactive bladder -
 
 <details><summary>Answer</summary>
 
-**B. Trospium** — Source: Medicoholic 2015 PYQ compilation.
+**B. Trospium** — Trospium is a quaternary antimuscarinic that blocks M3 receptors on detrusor smooth muscle; minimal CNS penetration makes it preferred in elderly overactive bladder.
 
 </details>
 
@@ -1764,7 +1764,7 @@ Anti-cholinesterase with central action ?
 
 <details><summary>Answer</summary>
 
-**B. Physostigmine** — Source: Medicoholic 2015 PYQ compilation.
+**B. Physostigmine** — Physostigmine is a tertiary amine that crosses the blood-brain barrier, reversing central anticholinergic toxicity; neostigmine/pyridostigmine/edrophonium are quaternary and act peripherally.
 
 </details>
 
@@ -1782,7 +1782,7 @@ Maximum cycloplegic action of atropine is seen at ?
 
 <details><summary>Answer</summary>
 
-**B. 1-3 hours** — Source: Medicoholic 2015 PYQ compilation.
+**B. 1-3 hours** — Topical atropine produces peak cycloplegia (ciliary muscle paralysis) at 1-3 hours, with recovery taking 7-14 days due to its long muscarinic blockade.
 
 </details>
 
@@ -1800,7 +1800,7 @@ One of the following is not a side effect of atropine?
 
 <details><summary>Answer</summary>
 
-**B. Diarrhoea** — Source: Medicoholic 2015 PYQ compilation.
+**B. Diarrhoea** — Atropine blocks muscarinic receptors causing constipation, not diarrhoea; other antimuscarinic effects include mydriasis, urinary retention, blurred vision, and confusion in elderly.
 
 </details>
 
@@ -1818,7 +1818,7 @@ Longest acting anti-cholinesterase -
 
 <details><summary>Answer</summary>
 
-**D. Echothiophate** — Source: Medicoholic 2015 PYQ compilation.
+**D. Echothiophate** — Echothiophate is an organophosphate that irreversibly phosphorylates acetylcholinesterase, producing the longest duration of action; used topically in glaucoma.
 
 </details>
 
@@ -1836,7 +1836,7 @@ Propranolol is used in ?
 
 <details><summary>Answer</summary>
 
-**A. Thyrotoxicosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Thyrotoxicosis** — Propranolol is a non-selective beta-blocker used in thyrotoxicosis to control tachycardia, tremor, and inhibit peripheral T4 to T3 conversion.
 
 </details>
 
@@ -1854,7 +1854,7 @@ Maximum potassium loss is caused by which diuretics ?
 
 <details><summary>Answer</summary>
 
-**C. Acetazolamide** — Source: Medicoholic 2015 PYQ compilation.
+**C. Acetazolamide** — Acetazolamide causes maximum fractional potassium loss by inhibiting carbonic anhydrase, delivering bicarbonate to distal nephron driving K+ secretion (though loop/thiazide cause more absolute loss clinically).
 
 </details>
 
@@ -1872,7 +1872,7 @@ True about cardiac muscle fibers ?
 
 <details><summary>Answer</summary>
 
-**C. Na+-Ca+ exchanger acts to pump Ca2+ into heart muscle cells** — Source: Medicoholic 2015 PYQ compilation.
+**C. Na+-Ca+ exchanger acts to pump Ca2+ into heart muscle cells** — Na+/Ca2+ exchanger (NCX) operates in reverse mode during depolarization, pumping Ca2+ into myocytes using the Na+ gradient established by Na+/K+ ATPase.
 
 </details>
 
@@ -1890,7 +1890,7 @@ Side effects of amiodarone are all except ?
 
 <details><summary>Answer</summary>
 
-**D. Hyperglycemia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Hyperglycemia** — Amiodarone causes pulmonary fibrosis, thyroid dysfunction, corneal microdeposits, blue-grey skin, hepatotoxicity, and neuropathy; hyperglycemia is not a recognized adverse effect.
 
 </details>
 
@@ -1908,7 +1908,7 @@ Thiazides cause hypercalcemia by ?
 
 <details><summary>Answer</summary>
 
-**D. Decreased calcium excretion** — Source: Medicoholic 2015 PYQ compilation.
+**D. Decreased calcium excretion** — Thiazides enhance distal tubule Ca2+ reabsorption via increased NCX activity (after Na+ depletion), decreasing urinary calcium excretion and causing hypercalcemia.
 
 </details>
 
@@ -1926,7 +1926,7 @@ Drug affecting positive free water clearance without affecting negative free wat
 
 <details><summary>Answer</summary>
 
-**B. Thiazides** — Source: Medicoholic 2015 PYQ compilation.
+**B. Thiazides** — Thiazides block NaCl reabsorption at the cortical diluting segment, impairing free water generation (positive CH2O) while preserving medullary concentrating ability (negative CH2O).
 
 </details>
 
@@ -1944,7 +1944,7 @@ Sympathomimetic drug which causes decrease in heart rate ?
 
 <details><summary>Answer</summary>
 
-**C. Noradrenaline** — Source: Medicoholic 2015 PYQ compilation.
+**C. Noradrenaline** — Noradrenaline (predominantly alpha-1) raises BP causing reflex bradycardia via baroreceptor-mediated vagal activation, overriding its weak direct beta-1 chronotropic effect.
 
 </details>
 
@@ -1962,7 +1962,7 @@ Na*- K*- 2Cl- is inhibited by -
 
 <details><summary>Answer</summary>
 
-**C. Furosemide** — Source: Medicoholic 2015 PYQ compilation.
+**C. Furosemide** — Furosemide inhibits the Na+/K+/2Cl- (NKCC2) cotransporter in the thick ascending limb, producing potent natriuresis and disrupting the medullary concentration gradient.
 
 </details>
 
@@ -1980,7 +1980,7 @@ Opioid [morphine] causes ?
 
 <details><summary>Answer</summary>
 
-**B. Increased muscle tone** — Source: Medicoholic 2015 PYQ compilation.
+**B. Increased muscle tone** — Morphine activates mu receptors causing increased smooth and skeletal muscle tone (rigidity), miosis, respiratory depression, bradycardia, and constipation.
 
 </details>
 
@@ -1998,7 +1998,7 @@ Most common renal sequel of lithium toxicity is ?
 
 <details><summary>Answer</summary>
 
-**A. Nephrogenic DM** — Source: Medicoholic 2015 PYQ compilation.
+**A. Nephrogenic DM** — Lithium downregulates vasopressin-sensitive aquaporin-2 in collecting duct principal cells, causing nephrogenic diabetes insipidus with polyuria and dilute urine.
 
 </details>
 
@@ -2016,7 +2016,7 @@ Drug(s) not given as transdermal patch:
 
 <details><summary>Answer</summary>
 
-**A. Fentanyl** — Source: Medicoholic 2015 PYQ compilation.
+**A. Fentanyl** — Note: Fentanyl is classically available as a transdermal patch; the question's answer appears erroneous as morphine is poorly lipophilic and not given transdermally.
 
 </details>
 
@@ -2034,7 +2034,7 @@ Zonisamide acts on ?
 
 <details><summary>Answer</summary>
 
-**C. Na+Channels** — Source: Medicoholic 2015 PYQ compilation.
+**C. Na+Channels** — Zonisamide is a sulfonamide antiepileptic that blocks voltage-gated sodium channels and T-type calcium channels, stabilizing neuronal membranes against repetitive firing.
 
 </details>
 
@@ -2052,7 +2052,7 @@ Dexmedetomidine acts on which receptor for its analgesic action ?
 
 <details><summary>Answer</summary>
 
-**C. α2A** — Source: Medicoholic 2015 PYQ compilation.
+**C. α2A** — Dexmedetomidine is a selective alpha-2A adrenergic agonist acting on locus ceruleus, producing sedation, analgesia, and sympatholysis without respiratory depression.
 
 </details>
 
@@ -2070,7 +2070,7 @@ Adverse effects of phenytoin include all of the following except?
 
 <details><summary>Answer</summary>
 
-**C. Hypercalcemia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hypercalcemia** — Phenytoin induces hepatic vitamin D metabolism causing osteomalacia and hypocalcemia, not hypercalcemia; also causes gingival hyperplasia, hirsutism, ataxia, lymphadenopathy.
 
 </details>
 
@@ -2088,7 +2088,7 @@ Which of the following is true?
 
 <details><summary>Answer</summary>
 
-**A. Glucocorticoids upregulate MHC expression** — Source: Medicoholic 2015 PYQ compilation.
+**A. Glucocorticoids upregulate MHC expression** — Glucocorticoids upregulate MHC expression on antigen-presenting cells but broadly suppress T-cell activation, cytokine production, and lymphocyte trafficking via IκB induction.
 
 </details>
 
@@ -2106,7 +2106,7 @@ Which of the following is an aromatase inhibitor?
 
 <details><summary>Answer</summary>
 
-**B. Letrozole** — Source: Medicoholic 2015 PYQ compilation.
+**B. Letrozole** — Letrozole is a non-steroidal third-generation aromatase inhibitor blocking peripheral conversion of androgens to estrogens; used in postmenopausal ER+ breast cancer.
 
 </details>
 
@@ -2124,7 +2124,7 @@ Drug which is contraindicated before 2nd stage of labor is:
 
 <details><summary>Answer</summary>
 
-**D. Ergometrine** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ergometrine** — Ergometrine causes sustained tetanic uterine contraction risking fetal hypoxia and uterine rupture; used only after delivery for postpartum hemorrhage prevention.
 
 </details>
 
@@ -2142,7 +2142,7 @@ Which of the following oral antidiabetic drug is insulin secretagogues?
 
 <details><summary>Answer</summary>
 
-**C. Nateglinide** — Source: Medicoholic 2015 PYQ compilation.
+**C. Nateglinide** — Nateglinide is a meglitinide that closes pancreatic beta-cell K-ATP channels triggering insulin secretion; rapid onset, short duration, ideal for postprandial glucose.
 
 </details>
 
@@ -2160,7 +2160,7 @@ Which of the following antidiabetic drug is insulin secretogogue ?
 
 <details><summary>Answer</summary>
 
-**C. Exenatide** — Source: Medicoholic 2015 PYQ compilation.
+**C. Exenatide** — Exenatide is a GLP-1 receptor agonist that stimulates glucose-dependent insulin secretion, suppresses glucagon, slows gastric emptying, and promotes satiety.
 
 </details>
 
@@ -2178,7 +2178,7 @@ Oral sore due to inhaled steroids are treated by ?
 
 <details><summary>Answer</summary>
 
-**B. Amphotericin-B** — Source: Medicoholic 2015 PYQ compilation.
+**B. Amphotericin-B** — Inhaled corticosteroids cause oropharyngeal candidiasis (thrush) due to local immunosuppression; treated with topical amphotericin-B or nystatin oral suspension.
 
 </details>
 
@@ -2196,7 +2196,7 @@ PGE1 analogue is ?
 
 <details><summary>Answer</summary>
 
-**B. Alprostadil** — Source: Medicoholic 2015 PYQ compilation.
+**B. Alprostadil** — Alprostadil is synthetic PGE1 used for erectile dysfunction and maintaining ductus arteriosus patency in ductal-dependent congenital heart disease.
 
 </details>
 
@@ -2214,7 +2214,7 @@ Triptan taken by nasal route is ?
 
 <details><summary>Answer</summary>
 
-**A. Sumatriptan** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sumatriptan** — Sumatriptan, a 5-HT1B/1D agonist, is available as oral, subcutaneous, and intranasal formulations; nasal route provides faster onset for acute migraine.
 
 </details>
 
@@ -2232,7 +2232,7 @@ Acetaminophen [Paracetamol] induced liver toxicity is due to ?
 
 <details><summary>Answer</summary>
 
-**B. NAPQ** — Source: Medicoholic 2015 PYQ compilation.
+**B. NAPQ** — CYP2E1 converts paracetamol to toxic NAPQI which depletes glutathione and covalently binds hepatocyte proteins causing centrilobular necrosis; N-acetylcysteine replenishes glutathione.
 
 </details>
 
@@ -2250,7 +2250,7 @@ True about heparin induced thrombocytopenia ?
 
 <details><summary>Answer</summary>
 
-**B. Antibodies are formed against platelets** — Source: Medicoholic 2015 PYQ compilation.
+**B. Antibodies are formed against platelets** — HIT type II is immune-mediated; IgG antibodies form against heparin-platelet factor 4 complexes, activating platelets via FcγRIIa causing thrombocytopenia with paradoxical thrombosis.
 
 </details>
 
@@ -2268,7 +2268,7 @@ Which of following is a stool softener ?
 
 <details><summary>Answer</summary>
 
-**D. Docusates** — Source: Medicoholic 2015 PYQ compilation.
+**D. Docusates** — Docusate is an anionic surfactant that lowers stool surface tension allowing water and fat to penetrate, softening stool without stimulant action.
 
 </details>
 
@@ -2286,7 +2286,7 @@ Latest oral direct thrombin inhibitor is?
 
 <details><summary>Answer</summary>
 
-**C. Dabigatran** — Source: Medicoholic 2015 PYQ compilation.
+**C. Dabigatran** — Dabigatran etexilate is a prodrug reversibly binding thrombin's active site, used for stroke prevention in atrial fibrillation; reversed by idarucizumab.
 
 </details>
 

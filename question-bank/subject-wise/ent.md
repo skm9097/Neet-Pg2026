@@ -1390,7 +1390,7 @@ Side chain linkage in proteoglycons -
 
 <details><summary>Answer</summary>
 
-**A. Covalent** — Source: Medicoholic 2015 PYQ compilation.
+**A. Covalent** — GAG side chains attach to core protein via covalent O-glycosidic linkage (xylose-serine bridge); proteoglycans form ECM ground substance.
 
 </details>
 
@@ -1408,7 +1408,7 @@ Lipofuscin is
 
 <details><summary>Answer</summary>
 
-**A. Wear and tear pigment** — Source: Medicoholic 2015 PYQ compilation.
+**A. Wear and tear pigment** — Lipofuscin is brown wear-and-tear pigment from peroxidation of polyunsaturated lipids; accumulates in aging cells (brown atrophy of heart/liver).
 
 </details>
 
@@ -1426,7 +1426,7 @@ Following are seen in polycythemia vera except:
 
 <details><summary>Answer</summary>
 
-**B. Increased erythropoietin** — Source: Medicoholic 2015 PYQ compilation.
+**B. Increased erythropoietin** — PV shows DECREASED erythropoietin due to JAK2 V617F mutation causing EPO-independent erythroid proliferation; high EPO indicates secondary polycythemia.
 
 </details>
 
@@ -1444,7 +1444,7 @@ Characteristic feature of IgA nephropathy -
 
 <details><summary>Answer</summary>
 
-**A. Serum compliment level is normal** — Source: Medicoholic 2015 PYQ compilation.
+**A. Serum compliment level is normal** — IgA nephropathy (Berger's) shows NORMAL serum complement; mesangial IgA deposits, synpharyngitic hematuria 1-2 days after URI, young adults.
 
 </details>
 
@@ -1462,7 +1462,7 @@ IgA nephropathyis not associatedwith?
 
 <details><summary>Answer</summary>
 
-**D. Increased compliment level** — Source: Medicoholic 2015 PYQ compilation.
+**D. Increased compliment level** — IgA nephropathy has NORMAL complement (no consumption); features focal mesangial proliferation with IgA/IgG/C3 mesangial deposits, gross hematuria 1-2 days post-URI.
 
 </details>
 
@@ -1480,7 +1480,7 @@ Skin involvement along with collar stud ulceration in intestine on radiography. 
 
 <details><summary>Answer</summary>
 
-**B. Ulcerative colitis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ulcerative colitis** — Cutaneous amebiasis with classic collar-stud/flask-shaped ulcers (narrow neck, broad base) of caecum from Entamoeba histolytica trophozoite invasion.
 
 </details>
 
@@ -1498,7 +1498,7 @@ Feature of microscopic polyangitis is:
 
 <details><summary>Answer</summary>
 
-**C. Renal involvement in 80% of cases** — Source: Medicoholic 2015 PYQ compilation.
+**C. Renal involvement in 80% of cases** — MPA is pauci-immune ANCA-associated (p-ANCA/MPO) small-vessel vasculitis; renal involvement (RPGN) in ~80%, pulmonary capillaritis; no IgG deposits, no granulomas.
 
 </details>
 
@@ -1516,7 +1516,7 @@ First order kinetics is:
 
 <details><summary>Answer</summary>
 
-**C. Elimination of the drug is proportional to the serum** — Source: Medicoholic 2015 PYQ compilation.
+**C. Elimination of the drug is proportional to the serum** — First-order kinetics: elimination rate proportional to plasma concentration (constant fraction eliminated per unit time); most drugs follow this.
 
 </details>
 
@@ -1534,7 +1534,7 @@ First order kinetics is:
 
 <details><summary>Answer</summary>
 
-**C. Conduction defect** — Source: Medicoholic 2015 PYQ compilation.
+**C. Conduction defect** — Beta-blockers slow AV nodal conduction; contraindicated/cautious in heart block, sick sinus syndrome, bradyarrhythmias due to negative chronotropic/dromotropic effects.
 
 </details>
 
@@ -1552,7 +1552,7 @@ Which of the following drug is not used in the treatment of akathisia?
 
 <details><summary>Answer</summary>
 
-**D. Haloperidol** — Source: Medicoholic 2015 PYQ compilation.
+**D. Haloperidol** — Haloperidol is a typical antipsychotic that CAUSES akathisia (extrapyramidal side effect); treated with propranolol, benzodiazepines, anticholinergics.
 
 </details>
 
@@ -1570,7 +1570,7 @@ True about oral iron preparations ?
 
 <details><summary>Answer</summary>
 
-**C. Different preparations have different biovailability** — Source: Medicoholic 2015 PYQ compilation.
+**C. Different preparations have different biovailability** — Different iron salts have varying elemental iron content and bioavailability; ferrous sulfate is standard (most used), ferric salts poorly absorbed.
 
 </details>
 
@@ -1588,7 +1588,7 @@ Specific feature of simvastatin ?
 
 <details><summary>Answer</summary>
 
-**C. Lipophilic** — Source: Medicoholic 2015 PYQ compilation.
+**C. Lipophilic** — Simvastatin is highly lipophilic (along with lovastatin, atorvastatin); penetrates tissues, hepatically metabolized via CYP3A4; pravastatin/rosuvastatin are hydrophilic.
 
 </details>
 
@@ -1606,7 +1606,7 @@ Antitubercular drug which makes the patient non-infective earliest ?
 
 <details><summary>Answer</summary>
 
-**A. INH** — Source: Medicoholic 2015 PYQ compilation.
+**A. INH** — INH is the most rapidly bactericidal anti-TB drug against actively dividing bacilli; renders sputum non-infectious within 2 weeks.
 
 </details>
 
@@ -1624,7 +1624,7 @@ Which among the following is present only in iv [intravenous] form -
 
 <details><summary>Answer</summary>
 
-**B. Meropenem** — Source: Medicoholic 2015 PYQ compilation.
+**B. Meropenem** — Meropenem (carbapenem) available only IV due to poor oral bioavailability; vancomycin has oral form (for C. difficile), streptomycin is IM.
 
 </details>
 
@@ -1642,7 +1642,7 @@ Emtricitabine is classified as?
 
 <details><summary>Answer</summary>
 
-**C. NRTI** — Source: Medicoholic 2015 PYQ compilation.
+**C. NRTI** — Emtricitabine (FTC) is a nucleoside reverse transcriptase inhibitor (NRTI) used in HIV; cytidine analog, competes with dCTP for incorporation.
 
 </details>
 
@@ -1660,7 +1660,7 @@ Emtricitabine is a/an ?
 
 <details><summary>Answer</summary>
 
-**B. Antimetabolite** — Source: Medicoholic 2015 PYQ compilation.
+**B. Antimetabolite** — Emtricitabine is a cytidine nucleoside analog antimetabolite (NRTI class) that inhibits HIV reverse transcriptase via chain termination.
 
 </details>
 
@@ -1678,7 +1678,7 @@ Duration of erythromycin used in treatment of diphtheria is ?
 
 <details><summary>Answer</summary>
 
-**C. 14 days** — Source: Medicoholic 2015 PYQ compilation.
+**C. 14 days** — Erythromycin (or penicillin) given for 14 days in diphtheria to eradicate Corynebacterium diphtheriae and prevent carrier state.
 
 </details>
 
@@ -1696,7 +1696,7 @@ Capecitabine belongs to which class of anticancer drug?
 
 <details><summary>Answer</summary>
 
-**C. Nitrogen mustards** — Source: Medicoholic 2015 PYQ compilation.
+**C. Nitrogen mustards** — Capecitabine is an oral antimetabolite prodrug converted to 5-FU by thymidine phosphorylase; inhibits thymidylate synthase (note: answer key likely erroneous).
 
 </details>
 
@@ -1714,7 +1714,7 @@ IC content of Ringer's lactate [mmol/L] ?
 
 <details><summary>Answer</summary>
 
-**C. 4** — Source: Medicoholic 2015 PYQ compilation.
+**C. 4** — Ringer's lactate contains K+ 4 mmol/L (also Na+ 130, Cl- 109, Ca2+ 3, lactate 28); isotonic crystalloid for resuscitation.
 
 </details>
 
@@ -1732,7 +1732,7 @@ IPC 304B is related to -
 
 <details><summary>Answer</summary>
 
-**B. Dowry death** — Source: Medicoholic 2015 PYQ compilation.
+**B. Dowry death** — IPC Section 304B defines dowry death: death of woman within 7 years of marriage by burns/injury under dowry-related cruelty; 7 years to life imprisonment.
 
 </details>
 
@@ -1750,7 +1750,7 @@ IPC 201 is for -
 
 <details><summary>Answer</summary>
 
-**A. Punishment for embalming before autopsy** — Source: Medicoholic 2015 PYQ compilation.
+**A. Punishment for embalming before autopsy** — IPC Section 201 deals with causing disappearance of evidence; embalming before autopsy destroys evidence and is punishable under this section.
 
 </details>
 
@@ -1768,7 +1768,7 @@ Extra permanent tooth to erupt is -
 
 <details><summary>Answer</summary>
 
-**A. Upper incisor** — Source: Medicoholic 2015 PYQ compilation.
+**A. Upper incisor** — Mesiodens (supernumerary tooth) most commonly erupts in midline maxilla between upper central incisors; from extra tooth bud.
 
 </details>
 
@@ -1786,7 +1786,7 @@ True about finger printing is -
 
 <details><summary>Answer</summary>
 
-**B. Most specific method of identification** — Source: Medicoholic 2015 PYQ compilation.
+**B. Most specific method of identification** — Dactylography is the most specific identification method (Galton, 1892); formed by 4th fetal month, unchanged lifelong; loops (60-70%) commonest, not whorls.
 
 </details>
 
@@ -1804,7 +1804,7 @@ False about declaration of brain stem death in hospital -
 
 <details><summary>Answer</summary>
 
-**A. Presence of neurologist is not required** — Source: Medicoholic 2015 PYQ compilation.
+**A. Presence of neurologist is not required** — Under THOA, brainstem death certification REQUIRES a neurologist/neurosurgeon on the 4-member board; coma, apnea test, and ruling out reversible causes mandatory.
 
 </details>
 
@@ -1822,7 +1822,7 @@ Negative autopsy is defined as -
 
 <details><summary>Answer</summary>
 
-**A. No cause of death is found on gross as well as** — Source: Medicoholic 2015 PYQ compilation.
+**A. No cause of death is found on gross as well as** — Negative autopsy: no cause of death identified on gross, microscopic, toxicological, biochemical examination; ~2-5% of autopsies; may be functional/biochemical death.
 
 </details>
 
@@ -1840,7 +1840,7 @@ In a patient of unilateral loss of vision, the patient had injury to opposite ey
 
 <details><summary>Answer</summary>
 
-**A. Simple** — Source: Medicoholic 2015 PYQ compilation.
+**A. Simple** — After successful corneal grafting restoring vision, the injury is reclassified as SIMPLE hurt since permanent privation of sight (grievous criterion) no longer applies.
 
 </details>
 
@@ -1858,7 +1858,7 @@ True about universal precautions are all except -
 
 <details><summary>Answer</summary>
 
-**B. Includes use of hand washing** — Source: Medicoholic 2015 PYQ compilation.
+**B. Includes use of hand washing** — Universal precautions treat ALL blood/body fluids as potentially infectious; include gloves/masks/gowns/eyewear; hand washing is part of Standard Precautions (broader concept).
 
 </details>
 
@@ -1876,7 +1876,7 @@ Not ture about El Tor biotype of vibrio cholerae?
 
 <details><summary>Answer</summary>
 
-**C. Less chances of survival in environment** — Source: Medicoholic 2015 PYQ compilation.
+**C. Less chances of survival in environment** — El Tor biotype survives LONGER in environment than classical V. cholerae; lower mortality, lower secondary attack rate, VP-positive, hemolytic, polymyxin-resistant.
 
 </details>
 
@@ -1894,7 +1894,7 @@ All are true about chromobacteritun violaceum except?
 
 <details><summary>Answer</summary>
 
-**C. Normal flora in human** — Source: Medicoholic 2015 PYQ compilation.
+**C. Normal flora in human** — Chromobacterium violaceum is a Gram-negative environmental saprophyte (soil/water), NOT human flora; produces violacein pigment; causes cellulitis, sepsis in CGD patients.
 
 </details>
 
@@ -1912,7 +1912,7 @@ Brill-Zinsser disease is:
 
 <details><summary>Answer</summary>
 
-**B. Recrudescent of R typhi infection** — Source: Medicoholic 2015 PYQ compilation.
+**B. Recrudescent of R typhi infection** — Brill-Zinsser is recrudescent EPIDEMIC typhus from latent Rickettsia PROWAZEKII reactivating years later (not R. typhi); milder than primary infection.
 
 </details>
 

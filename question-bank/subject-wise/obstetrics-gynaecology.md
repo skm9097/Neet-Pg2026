@@ -12033,7 +12033,7 @@ Oxygen consumption increases in pregnancy by
 
 <details><summary>Answer</summary>
 
-**B. 20%** — Source: Medicoholic 2015 PYQ compilation.
+**B. 20%** — Maternal oxygen consumption rises ~20% in pregnancy due to increased metabolic demands of fetus, placenta, uterus, and elevated maternal cardiac and respiratory work.
 
 </details>
 
@@ -12051,7 +12051,7 @@ Which of the following about abdominal pregnancy is true?
 
 <details><summary>Answer</summary>
 
-**D. If placenta is left behind, infection can occur** — Source: Medicoholic 2015 PYQ compilation.
+**D. If placenta is left behind, infection can occur** — If placenta densely adherent in abdominal pregnancy, leaving it in situ risks sepsis and DIC; secondary abdominal implantation (post tubal rupture) predominates.
 
 </details>
 
@@ -12069,7 +12069,7 @@ Which of the following is not a probable sign of pregnancy
 
 <details><summary>Answer</summary>
 
-**B. Dalrymple sign** — Source: Medicoholic 2015 PYQ compilation.
+**B. Dalrymple sign** — Dalrymple sign (widened palpebral fissure) is a feature of thyrotoxicosis, not pregnancy; Jacquemier, Hegar, Palmer signs reflect vascular/softening uterine changes.
 
 </details>
 
@@ -12087,7 +12087,7 @@ Which of the following ovarian tumor is most prone to undergo torsion during pre
 
 <details><summary>Answer</summary>
 
-**C. Dermoid cyst** — Source: Medicoholic 2015 PYQ compilation.
+**C. Dermoid cyst** — Dermoid cysts (mature teratomas) have long pedicles and high specific gravity due to fat/calcium content, predisposing them to torsion in pregnancy.
 
 </details>
 
@@ -12105,7 +12105,7 @@ What is the preferred treatment of complete prolapse in a female with completed 
 
 <details><summary>Answer</summary>
 
-**B. Vaginal hysterectomy** — Source: Medicoholic 2015 PYQ compilation.
+**B. Vaginal hysterectomy** — Vaginal hysterectomy with pelvic floor repair is definitive treatment for complete (third degree) uterovaginal prolapse in women with completed family.
 
 </details>
 
@@ -12123,7 +12123,7 @@ In MRKH syndrome, which among the following is absent?
 
 <details><summary>Answer</summary>
 
-**D. Testes** — Source: Medicoholic 2015 PYQ compilation.
+**D. Testes** — MRKH (Mullerian agenesis) has 46,XX karyotype with absent uterus/upper vagina; ovaries (not testes) are present with normal secondary sexual characters.
 
 </details>
 
@@ -12141,7 +12141,7 @@ During which gestational age is peak serum HCG levels attained ?
 
 <details><summary>Answer</summary>
 
-**A. 7-9 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**A. 7-9 weeks** — Serum beta-hCG from syncytiotrophoblast peaks at 8-10 weeks (~100,000 mIU/mL), then declines as placenta takes over progesterone production from corpus luteum.
 
 </details>
 
@@ -12159,7 +12159,7 @@ The role of human placental lactogen is :
 
 <details><summary>Answer</summary>
 
-**C. Growth of fetus** — Source: Medicoholic 2015 PYQ compilation.
+**C. Growth of fetus** — hPL is anti-insulin/diabetogenic, mobilizing maternal free fatty acids and shunting glucose/amino acids to fetus, thereby promoting fetal growth.
 
 </details>
 
@@ -12177,7 +12177,7 @@ Patient with NTD, dose of folic acid in next pregnancy
 
 <details><summary>Answer</summary>
 
-**D. 4 mg** — Source: Medicoholic 2015 PYQ compilation.
+**D. 4 mg** — High-dose folic acid 4 mg/day periconceptionally recommended for women with prior NTD-affected pregnancy to prevent recurrence of neural tube defects.
 
 </details>
 
@@ -12195,7 +12195,7 @@ Absolute contraindication for IUD (Intra Uterine Contraceptive Device) are all e
 
 <details><summary>Answer</summary>
 
-**D. Uterine malformation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Uterine malformation** — Uterine malformation is relative contraindication; absolute contraindications include pregnancy, active PID, undiagnosed bleeding, and known/suspected gynecological malignancy.
 
 </details>
 
@@ -12213,7 +12213,7 @@ Number of stem villi at term in human placenta is
 
 <details><summary>Answer</summary>
 
-**A. 60** — Source: Medicoholic 2015 PYQ compilation.
+**A. 60** — Mature human placenta at term contains approximately 60 fetal cotyledons/stem (anchoring) villi arising from chorionic plate, each branching into terminal villi.
 
 </details>
 
@@ -12231,7 +12231,7 @@ Uterus is receptive for implantation for how many days after fertilization -
 
 <details><summary>Answer</summary>
 
-**D. 12 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**D. 12 weeks** — Endometrial receptivity (window of implantation) extends through first trimester until placentation complete at ~12 weeks, when decidualization fully supports the conceptus.
 
 </details>
 
@@ -12249,7 +12249,7 @@ All are true about uteroplacental circulation except
 
 <details><summary>Answer</summary>
 
-**C. A mature placenta has 150 ml of blood in the villi system and** — Source: Medicoholic 2015 PYQ compilation.
+**C. A mature placenta has 150 ml of blood in the villi system and** — Mature placenta intervillous space holds about 250 mL blood (not 150), with maternal blood completely replaced 3-4 times/min via spiral artery flow.
 
 </details>
 
@@ -12267,7 +12267,7 @@ Which is increased in premature ovarian failure :
 
 <details><summary>Answer</summary>
 
-**B. Sr. FSH** — Source: Medicoholic 2015 PYQ compilation.
+**B. Sr. FSH** — POF shows hypergonadotropic hypogonadism: FSH rises (>40 IU/L) due to loss of negative feedback from depleted follicles producing low estradiol and inhibin.
 
 </details>
 
@@ -12285,7 +12285,7 @@ All of the following are markers of ovarian reserve except -
 
 <details><summary>Answer</summary>
 
-**A. Inhibin A** — Source: Medicoholic 2015 PYQ compilation.
+**A. Inhibin A** — Inhibin B (not A), AMH, antral follicle count, day-3 FSH/estradiol and ovarian volume reflect ovarian reserve; inhibin A is corpus luteum/placental marker.
 
 </details>
 
@@ -12303,7 +12303,7 @@ Most common site involved in genital TB -
 
 <details><summary>Answer</summary>
 
-**A. Fallopian tubes** — Source: Medicoholic 2015 PYQ compilation.
+**A. Fallopian tubes** — Fallopian tubes (especially ampulla) are involved in 95-100% of genital TB, infected via hematogenous spread, causing tubal blockage and infertility.
 
 </details>
 
@@ -12321,7 +12321,7 @@ Which is not a side effect of POP [Progestin only pill]
 
 <details><summary>Answer</summary>
 
-**B. Venous thromboembolism** — Source: Medicoholic 2015 PYQ compilation.
+**B. Venous thromboembolism** — VTE is associated with estrogen-containing combined pills, not POPs; progestin-only pills are safe in women with thromboembolism risk and lactation.
 
 </details>
 
@@ -12339,7 +12339,7 @@ Maternal age is not associated with -
 
 <details><summary>Answer</summary>
 
-**A. Preterm labour** — Source: Medicoholic 2015 PYQ compilation.
+**A. Preterm labour** — Preterm labour relates to infection, multiple gestation, cervical incompetence; advanced maternal age increases aneuploidy, molar pregnancy, and postdates risk.
 
 </details>
 
@@ -12357,7 +12357,7 @@ Cause of unilateral dysmenorrhea :
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — Unilateral dysmenorrhea arises from obstructed non-communicating uterine horn, lateralized endometriosis, or cornual/intramural fibroid blocking uterotubal junction.
 
 </details>
 
@@ -12375,7 +12375,7 @@ Management of tubal ectopic pregnancy of 2.5 x 3 cm is -
 
 <details><summary>Answer</summary>
 
-**C. According to presence of fetal cardiac activity** — Source: Medicoholic 2015 PYQ compilation.
+**C. According to presence of fetal cardiac activity** — Tubal ectopic <3.5 cm without fetal cardiac activity allows medical methotrexate; cardiac activity present mandates surgical salpingostomy/salpingectomy.
 
 </details>
 
@@ -12393,7 +12393,7 @@ Dose of dexamethasone for fetal lung maturity is -
 
 <details><summary>Answer</summary>
 
-**A. 6 mg** — Source: Medicoholic 2015 PYQ compilation.
+**A. 6 mg** — Antenatal dexamethasone 6 mg IM every 12 hours for 4 doses (24 mg total) accelerates fetal type-II pneumocyte surfactant production between 24-34 weeks.
 
 </details>
 
@@ -12411,7 +12411,7 @@ Management of a patient with complete placenta previa at 38 weeks gestation with
 
 <details><summary>Answer</summary>
 
-**C. Elective caesarean section** — Source: Medicoholic 2015 PYQ compilation.
+**C. Elective caesarean section** — Complete (type IV) placenta previa at term mandates elective caesarean section at 36-37 weeks to prevent catastrophic bleeding from cervical effacement.
 
 </details>
 
@@ -12429,7 +12429,7 @@ What is the stage of carcinoma cervix involving body of uterus -
 
 <details><summary>Answer</summary>
 
-**A. Stage I** — Source: Medicoholic 2015 PYQ compilation.
+**A. Stage I** — FIGO cervical cancer staging ignores corpus uteri extension; tumor confined to cervix (with corpus involvement) remains Stage I as endometrial spread doesn't upstage.
 
 </details>
 
@@ -12447,7 +12447,7 @@ Most common cause of death in cervical cancer is -
 
 <details><summary>Answer</summary>
 
-**A. Renal failure** — Source: Medicoholic 2015 PYQ compilation.
+**A. Renal failure** — Bilateral ureteric obstruction from parametrial tumor causes hydronephrosis and uraemia; renal failure is the commonest terminal event in advanced cervical cancer.
 
 </details>
 
@@ -12465,7 +12465,7 @@ Treatment options for CIN III include all of the following except -
 
 <details><summary>Answer</summary>
 
-**D. Wertheim's hysterectomy** — Source: Medicoholic 2015 PYQ compilation.
+**D. Wertheim's hysterectomy** — Wertheim's radical hysterectomy is for invasive cervical cancer (stage IB-IIA); CIN III is preinvasive, treated by LLETZ, conization, or simple hysterectomy.
 
 </details>
 
@@ -12483,7 +12483,7 @@ A patient (age not captured in source) who is a year old woman presents with abn
 
 <details><summary>Answer</summary>
 
-**B. Colposcopy and LEEP** — Source: Medicoholic 2015 PYQ compilation.
+**B. Colposcopy and LEEP** — Abnormal cytology (HSIL/CIN III) requires colposcopy with directed biopsy; LEEP can be performed at same visit ('see-and-treat') for high-grade lesions.
 
 </details>
 
@@ -12501,7 +12501,7 @@ Funneling in cervicogram is seen in -
 
 <details><summary>Answer</summary>
 
-**B. Cervical incompetence** — Source: Medicoholic 2015 PYQ compilation.
+**B. Cervical incompetence** — Funneling (dilation of internal os with membrane prolapse into cervical canal) on transvaginal ultrasound is a sonographic hallmark of cervical incompetence.
 
 </details>
 
@@ -12519,7 +12519,7 @@ Vasa previa is associated with -
 
 <details><summary>Answer</summary>
 
-**B. Velamentous placenta** — Source: Medicoholic 2015 PYQ compilation.
+**B. Velamentous placenta** — Vasa previa: fetal vessels traverse membranes over internal os, classically from velamentous cord insertion or succenturiate placental lobe, risking fetal exsanguination at ROM.
 
 </details>
 
@@ -12537,7 +12537,7 @@ First symptom invulval cancer is-
 
 <details><summary>Answer</summary>
 
-**B. Pruritis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Pruritis** — Long-standing vulvar pruritus (often from preceding lichen sclerosus or VIN) is the earliest and commonest presenting symptom of vulval squamous cell carcinoma.
 
 </details>
 
@@ -12555,7 +12555,7 @@ Uterine height is greater than gestational age of the patient in a case of all e
 
 <details><summary>Answer</summary>
 
-**B. IUGR** — Source: Medicoholic 2015 PYQ compilation.
+**B. IUGR** — IUGR causes symphysio-fundal height smaller than dates; fibroids, polyhydramnios, multiple gestation, molar pregnancy, and wrong dates produce uterine size > dates.
 
 </details>
 
@@ -12573,7 +12573,7 @@ Pregnancy is contraindicated in which cardiac disease -
 
 <details><summary>Answer</summary>
 
-**B. Primary pulmonary hypertension** — Source: Medicoholic 2015 PYQ compilation.
+**B. Primary pulmonary hypertension** — Primary pulmonary hypertension carries 30-50% maternal mortality; fixed pulmonary vascular resistance prevents cardiac output adaptation to pregnancy hemodynamics (WHO class IV).
 
 </details>
 
@@ -12591,7 +12591,7 @@ Following delivery, tear involves perineum, external anal spincter with intact m
 
 <details><summary>Answer</summary>
 
-**C. Third degree** — Source: Medicoholic 2015 PYQ compilation.
+**C. Third degree** — Third-degree perineal tear involves perineum and external anal sphincter; fourth-degree extends through anal mucosa. RCOG subdivides 3a/3b/3c by EAS thickness.
 
 </details>
 
@@ -12609,7 +12609,7 @@ False about chorionic vinous sampling -
 
 <details><summary>Answer</summary>
 
-**B. Is performed only in second trimester of pregnancy** — Source: Medicoholic 2015 PYQ compilation.
+**B. Is performed only in second trimester of pregnancy** — CVS is performed in first trimester (10-13 weeks) from chorion frondosum; earlier than 10 weeks risks limb-reduction defects and oromandibular hypogenesis.
 
 </details>
 
@@ -12627,7 +12627,7 @@ A patient (age not captured in source) who is a year old primigravida with 32 we
 
 <details><summary>Answer</summary>
 
-**B. Trichomoniasis** — Source: Medicoholic 2015 PYQ compilation.
+**B. Trichomoniasis** — Thin, frothy, profuse yellow-green discharge with strawberry cervix is classic trichomoniasis; flagellated protozoan, treated with metronidazole even in pregnancy.
 
 </details>
 
@@ -12645,7 +12645,7 @@ Poor prognostic factor for hydatidiform mole is -
 
 <details><summary>Answer</summary>
 
-**D. WHO score > 8** — Source: Medicoholic 2015 PYQ compilation.
+**D. WHO score > 8** — FIGO/WHO score greater than 8 indicates high-risk GTN requiring multi-agent EMA-CO chemotherapy; scores 0-6 low-risk treated with single-agent methotrexate.
 
 </details>
 
@@ -12663,7 +12663,7 @@ Le Fort repair is done for
 
 <details><summary>Answer</summary>
 
-**A. Uterovaginal descent** — Source: Medicoholic 2015 PYQ compilation.
+**A. Uterovaginal descent** — Le Fort colpocleisis is partial vaginal obliteration for uterovaginal prolapse in elderly women not desiring coital function; preserves uterus, low morbidity.
 
 </details>
 
@@ -12681,7 +12681,7 @@ Bacteria responsible for ectopic pregnancy is
 
 <details><summary>Answer</summary>
 
-**B. Chlamydia** — Source: Medicoholic 2015 PYQ compilation.
+**B. Chlamydia** — Chlamydia trachomatis causes silent salpingitis with tubal scarring and cilia loss; commonest infective cause of tubal damage leading to ectopic pregnancy.
 
 </details>
 
@@ -12699,7 +12699,7 @@ Most common site of Implantation of tubal pregnancy is :
 
 <details><summary>Answer</summary>
 
-**C. Ampulla** — Source: Medicoholic 2015 PYQ compilation.
+**C. Ampulla** — Ampulla accounts for approximately 70-80% of tubal ectopics; widest, most distensible segment where fertilization typically occurs before tubal transport delay.
 
 </details>
 
@@ -12717,7 +12717,7 @@ In which part of fallopian tube ectopic pregnancy will have longest survival?
 
 <details><summary>Answer</summary>
 
-**D. Interstitium** — Source: Medicoholic 2015 PYQ compilation.
+**D. Interstitium** — Interstitial (intramural cornual) pregnancy survives longest due to thick myometrial coverage allowing growth till 14-16 weeks; rupture is catastrophic with massive hemorrhage.
 
 </details>
 
@@ -12735,7 +12735,7 @@ Which of the following is true about ovarian ectopic pregnancy?
 
 <details><summary>Answer</summary>
 
-**D. Conservative surgery can be done if diagnosed early** — Source: Medicoholic 2015 PYQ compilation.
+**D. Conservative surgery can be done if diagnosed early** — Spiegelberg criteria diagnose ovarian pregnancy (intact tube, gestational sac in ovary); early diagnosis permits ovarian-sparing wedge resection conservative surgery.
 
 </details>
 
@@ -12753,7 +12753,7 @@ Plane of cleavage during placental separation runs through
 
 <details><summary>Answer</summary>
 
-**C. Through deep spongy layer of decidua basalis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Through deep spongy layer of decidua basalis** — Placental separation occurs through deep spongy (Nitabuch) layer of decidua basalis; retained decidua causes placenta accreta when this layer is deficient.
 
 </details>
 
@@ -12771,7 +12771,7 @@ Amsel criteria is for
 
 <details><summary>Answer</summary>
 
-**A. Bacterial vaginosis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Bacterial vaginosis** — Amsel criteria diagnose bacterial vaginosis: thin homogeneous discharge, pH greater than 4.5, positive whiff test with KOH, clue cells on microscopy (3 of 4).
 
 </details>
 
@@ -12789,7 +12789,7 @@ Ketamine can be used in all of the situations except
 
 <details><summary>Answer</summary>
 
-**D. Ischemic heart disease** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ischemic heart disease** — Ketamine causes sympathetic stimulation increasing myocardial oxygen demand; contraindicated in ischemic heart disease. Useful in asthma (bronchodilation) and shock (preserves BP).
 
 </details>
 
@@ -12826,7 +12826,7 @@ Pelvic kidneys are due to all except ?
 
 <details><summary>Answer</summary>
 
-**D. p53 mutation** — Source: Medicoholic 2016 PYQ compilation.
+**D. p53 mutation** — Pelvic kidney results from failed cephalic ascent due to vascular obstruction or lower-pole fusion (horseshoe); p53 mutation causes neoplasia, not developmental arrest.
 
 </details>
 
@@ -12846,7 +12846,7 @@ Waldeyer's fascia connects ?
 
 <details><summary>Answer</summary>
 
-**A. Rectum to sacrum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Rectum to sacrum** — Waldeyer's rectosacral fascia anchors posterior rectum to S3-S4 presacral fascia; must be divided during TME for proper rectal mobilization.
 
 </details>
 
@@ -12866,7 +12866,7 @@ Which of the following explains uptake of 0, in fetal circulation ?
 
 <details><summary>Answer</summary>
 
-**C. Higher affinity of HbF for 0,** — Source: Medicoholic 2016 PYQ compilation.
+**C. Higher affinity of HbF for 0,** — HbF lacks 2,3-BPG binding (gamma chains replace beta), shifting oxygen dissociation curve leftward; higher oxygen affinity facilitates placental oxygen uptake.
 
 </details>
 
@@ -12886,7 +12886,7 @@ Which of the following explains delivery of 02 in fetal circulation?
 
 <details><summary>Answer</summary>
 
-**A. Bohr's effect** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bohr's effect** — Bohr effect: fetal CO2 transfer to maternal blood lowers fetal pH, rightward-shifting curve and unloading O2 to fetal tissues (double Bohr at placenta).
 
 </details>
 
@@ -12906,7 +12906,7 @@ Deficiency of which vitamin during pregnancy predisposes to meningomyelocele?
 
 <details><summary>Answer</summary>
 
-**A. Folic acid** — Source: Medicoholic 2016 PYQ compilation.
+**A. Folic acid** — Folate (B9) deficiency impairs neural tube closure by day 28; preconception 400 mcg (4 mg if prior NTD) prevents meningomyelocele and anencephaly.
 
 </details>
 
@@ -12926,7 +12926,7 @@ Physiological hyperplasia and hypertrophy are seen simultaneously in -
 
 <details><summary>Answer</summary>
 
-**D. a and c** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and c** — Pregnancy uterus and pubertal breast undergo both hyperplasia (estrogen-driven cell proliferation) and hypertrophy (cell enlargement); skeletal muscle shows only hypertrophy.
 
 </details>
 
@@ -12946,7 +12946,7 @@ Tibolone is used for ?
 
 <details><summary>Answer</summary>
 
-**C. Hormone replacement therapy** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hormone replacement therapy** — Tibolone is a synthetic steroid with estrogenic, progestogenic, androgenic activity via tissue-selective metabolites; used in HRT for menopausal symptoms and osteoporosis prevention.
 
 </details>
 
@@ -12966,7 +12966,7 @@ Modafinil is a drug used in which of the following conditions?
 
 <details><summary>Answer</summary>
 
-**C. Shift work disorder** — Source: Medicoholic 2016 PYQ compilation.
+**C. Shift work disorder** — Modafinil is a wakefulness-promoting agent (weak dopamine reuptake inhibitor) approved for narcolepsy, shift-work sleep disorder, and obstructive sleep apnea residual sleepiness.
 
 </details>
 
@@ -12986,7 +12986,7 @@ Size of the fetus is 20 mm, then by the rule of Hasse’s, what is the gestation
 
 <details><summary>Answer</summary>
 
-**C. 6 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6 weeks** — Haase's rule: first 5 months, gestational age in months equals square root of length(cm); 2cm=square root 4=2 months=approximately 6-8 weeks.
 
 </details>
 
@@ -13006,7 +13006,7 @@ Earliest sign of fetal death -
 
 <details><summary>Answer</summary>
 
-**B. Robert's sign** — Source: Medicoholic 2016 PYQ compilation.
+**B. Robert's sign** — Robert's sign (gas in fetal great vessels/heart on X-ray) appears within 12 hours of IUD; Spalding's sign (skull bone overlap) takes about 7 days.
 
 </details>
 
@@ -13026,7 +13026,7 @@ Which of the following is the test done to confirm live born fetus after fetal d
 
 <details><summary>Answer</summary>
 
-**B. Breslau's test** — Source: Medicoholic 2016 PYQ compilation.
+**B. Breslau's test** — Breslau's (hydrostatic) test floats fetal lungs in water; live-born aerated lungs float, stillborn dense unexpanded lungs sink — confirms live birth medico-legally.
 
 </details>
 
@@ -13046,7 +13046,7 @@ Chlamydia trachomatis infection commonly causes:
 
 <details><summary>Answer</summary>
 
-**A. Infertility** — Source: Medicoholic 2016 PYQ compilation.
+**A. Infertility** — Chlamydia causes silent salpingitis with tubal scarring and adhesions, leading to tubal factor infertility; commonest STI cause of infertility worldwide.
 
 </details>
 
@@ -13066,7 +13066,7 @@ True about CMV are all except ?
 
 <details><summary>Answer</summary>
 
-**C. A non-enveloped DNA virus** — Source: Medicoholic 2016 PYQ compilation.
+**C. A non-enveloped DNA virus** — CMV is an enveloped double-stranded DNA herpesvirus (HHV-5) with owl-eye intranuclear inclusions; commonest congenital and post-transplant viral infection.
 
 </details>
 
@@ -13086,7 +13086,7 @@ Which of the following is false about intra-uterine devices (IUDs)?
 
 <details><summary>Answer</summary>
 
-**A. Multiload Cu-375 is a third generation intra-uterine device (IUD)** — Source: Medicoholic 2016 PYQ compilation.
+**A. Multiload Cu-375 is a third generation intra-uterine device (IUD)** — Multiload Cu-375 is a second-generation copper IUD; third-generation includes Cu-T 380A and frameless GyneFix. Mirena (LNG-20) lifespan now extended to 8 years.
 
 </details>
 
@@ -13106,7 +13106,7 @@ Jai Vigyan National Mission is for?
 
 <details><summary>Answer</summary>
 
-**C. Science & technology** — Source: Medicoholic 2016 PYQ compilation.
+**C. Science & technology** — Jai Vigyan National Science and Technology Mission (1999) is a Government of India initiative for science and technology development, not a health program.
 
 </details>
 
@@ -13126,7 +13126,7 @@ SADE classification classifies
 
 <details><summary>Answer</summary>
 
-**A. Retraction of tympanic membrane** — Source: Medicoholic 2016 PYQ compilation.
+**A. Retraction of tympanic membrane** — SADE (Sade-Berco) classification grades tympanic membrane retraction/atelectasis in chronic otitis media: I-mild, II-touches incus, III-touches promontory, IV-adherent.
 
 </details>
 
@@ -13146,7 +13146,7 @@ All of the following are the causes of exudative retinal detachment except:
 
 <details><summary>Answer</summary>
 
-**B. Retinopathy of prematurity** — Source: Medicoholic 2016 PYQ compilation.
+**B. Retinopathy of prematurity** — Retinopathy of prematurity causes tractional (fibrovascular) retinal detachment, not exudative. Coats disease, toxemia retinopathy, and sympathetic ophthalmia cause exudative RD.
 
 </details>
 

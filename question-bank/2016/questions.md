@@ -20366,7 +20366,7 @@ Following genetic counselling in a family for Familial polyposis coli (FPC) next
 
 <details><summary>Answer</summary>
 
-**D. APC gene** — Source: Medicoholic 2016 PYQ compilation.
+**D. APC gene** — After counselling, APC gene mutation testing identifies at-risk family members; positive mutation carriers then need colonoscopy surveillance from puberty for adenoma detection.
 
 </details>
 
@@ -20384,7 +20384,7 @@ Treatment of choice for stab injury caecum ?
 
 <details><summary>Answer</summary>
 
-**B. Ileo-transverse anastomosis** — Source: Medicoholic 2016 PYQ compilation.
+**B. Ileo-transverse anastomosis** — Right hemicolectomy with ileo-transverse anastomosis is preferred for caecal injuries due to poor blood supply, thin wall, and high leak risk with primary repair.
 
 </details>
 
@@ -20402,7 +20402,7 @@ Fasting hypoglycemia is caused by the following except
 
 <details><summary>Answer</summary>
 
-**D. Chronic pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+**D. Chronic pancreatitis** — Chronic pancreatitis causes postprandial hypoglycemia from delayed glucagon response, not fasting hypoglycemia; alcohol, pentamidine, and renal failure impair gluconeogenesis causing fasting hypoglycemia.
 
 </details>
 
@@ -20420,7 +20420,7 @@ Which of the following is not a prognostic factor for Acute Pancreatitis
 
 <details><summary>Answer</summary>
 
-**A. Serum Amylase** — Source: Medicoholic 2016 PYQ compilation.
+**A. Serum Amylase** — Serum amylase only confirms diagnosis; not in Ranson's or Glasgow criteria as levels don't correlate with severity. Calcium, glucose, AST are prognostic markers.
 
 </details>
 
@@ -20438,7 +20438,7 @@ Most sensitive and specific for acute pancreatitis amongst the following is:
 
 <details><summary>Answer</summary>
 
-**C. S.lipase** — Source: Medicoholic 2016 PYQ compilation.
+**C. S.lipase** — Serum lipase rises within 4-8 hours, peaks at 24 hours, remains elevated 8-14 days; more pancreas-specific than amylase which also rises in salivary disorders.
 
 </details>
 
@@ -20456,7 +20456,7 @@ Which enzyme is of diagnostic importance in chronic pancreatitis
 
 <details><summary>Answer</summary>
 
-**C. Lipase** — Source: Medicoholic 2016 PYQ compilation.
+**C. Lipase** — Fecal elastase and serum lipase remain useful in chronic pancreatitis since amylase often normalizes with parenchymal destruction; lipase reflects residual acinar exocrine function.
 
 </details>
 
@@ -20474,7 +20474,7 @@ Most common screening test for acute pancreatitis -
 
 <details><summary>Answer</summary>
 
-**C. Urine trypsinogen** — Source: Medicoholic 2016 PYQ compilation.
+**C. Urine trypsinogen** — Urinary trypsinogen-2 dipstick is sensitive, rapid, and non-invasive screening tool; trypsinogen-2 is released early into urine during acinar cell injury.
 
 </details>
 
@@ -20492,7 +20492,7 @@ Pseudocyst pancreas is developed in how much duration following an attack of acu
 
 <details><summary>Answer</summary>
 
-**D. 4 or more weeks** — Source: Medicoholic 2016 PYQ compilation.
+**D. 4 or more weeks** — Pancreatic pseudocyst requires 4+ weeks for fibrous granulation wall maturation around peripancreatic fluid collection; before 4 weeks it is termed acute peripancreatic fluid collection.
 
 </details>
 
@@ -20510,7 +20510,7 @@ Cullen's sign is seen in:
 
 <details><summary>Answer</summary>
 
-**C. Acute pancreatitis** — Source: Medicoholic 2016 PYQ compilation.
+**C. Acute pancreatitis** — Cullen's sign: periumbilical bluish discoloration from retroperitoneal hemorrhage tracking along falciform ligament to umbilicus; indicates severe hemorrhagic pancreatitis or ruptured ectopic pregnancy.
 
 </details>
 
@@ -20528,7 +20528,7 @@ Contraindication for colostomy planning are all except -
 
 <details><summary>Answer</summary>
 
-**A. Age > 60 yrs** — Source: Medicoholic 2016 PYQ compilation.
+**A. Age > 60 yrs** — Age over 60 is not a contraindication; absolute contraindications are stomas through scars, near bony prominences/creases, and poorly motivated patients due to appliance failure.
 
 </details>
 
@@ -20546,7 +20546,7 @@ Definition of childhood is under what age?
 
 <details><summary>Answer</summary>
 
-**C. 12 years** — Source: Medicoholic 2016 PYQ compilation.
+**C. 12 years** — Childhood per WHO/IAP is defined as under 12 years, encompassing infancy, toddlerhood, preschool, and school age before adolescence begins.
 
 </details>
 
@@ -20564,7 +20564,7 @@ A child aged 7 years has how many teeth
 
 <details><summary>Answer</summary>
 
-**C. 26** — Source: Medicoholic 2016 PYQ compilation.
+**C. 26** — At 7 years, child has 20 deciduous teeth plus 6 erupting permanent (4 first molars and 2 central incisors) totaling approximately 26 teeth during mixed dentition.
 
 </details>
 
@@ -20582,7 +20582,7 @@ What is the age of the child who draws
 
 <details><summary>Answer</summary>
 
-**D. 3 years** — Source: Medicoholic 2016 PYQ compilation.
+**D. 3 years** — By 3 years a child copies a circle and draws a vertical line; at 4 copies cross, at 5 copies square, at 6 triangle.
 
 </details>
 
@@ -20600,7 +20600,7 @@ By what age is the milestone of climbing steps with alternate feet achieved?
 
 <details><summary>Answer</summary>
 
-**B. 3 years** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3 years** — At 3 years child climbs stairs with alternate feet (one foot per step); 2-year-old climbs with both feet on each step (marking time).
 
 </details>
 
@@ -20618,7 +20618,7 @@ Social smile is attained at what age?
 
 <details><summary>Answer</summary>
 
-**A. 2 months** — Source: Medicoholic 2016 PYQ compilation.
+**A. 2 months** — Social smile (responsive smile to mother's face) appears at 6-8 weeks (~2 months) marking earliest social milestone; precedes recognition smile and stranger anxiety.
 
 </details>
 
@@ -20636,7 +20636,7 @@ By what age can a newborn recognize mother?
 
 <details><summary>Answer</summary>
 
-**B. 3 months** — Source: Medicoholic 2016 PYQ compilation.
+**B. 3 months** — At 3 months infant visually recognizes mother and shows preference; coincides with social smile maturation and improving visual acuity for facial discrimination.
 
 </details>
 
@@ -20654,7 +20654,7 @@ Which of the following can be done by an 18 months old baby?
 
 <details><summary>Answer</summary>
 
-**B. Can use 10 words with meaning** — Source: Medicoholic 2016 PYQ compilation.
+**B. Can use 10 words with meaning** — 18-month-old uses 8-10 words with meaning; tower of 9 cubes at 3 years, tricycle riding at 3 years, turning pages singly at 2 years.
 
 </details>
 
@@ -21656,7 +21656,7 @@ Pelvic kidneys are due to all except ?
 
 <details><summary>Answer</summary>
 
-**D. p53 mutation** — Source: Medicoholic 2016 PYQ compilation.
+**D. p53 mutation** — Pelvic kidney results from failed cephalic ascent due to vascular obstruction or lower-pole fusion (horseshoe); p53 mutation causes neoplasia, not developmental arrest.
 
 </details>
 
@@ -21674,7 +21674,7 @@ Waldeyer's fascia connects ?
 
 <details><summary>Answer</summary>
 
-**A. Rectum to sacrum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Rectum to sacrum** — Waldeyer's rectosacral fascia anchors posterior rectum to S3-S4 presacral fascia; must be divided during TME for proper rectal mobilization.
 
 </details>
 
@@ -21692,7 +21692,7 @@ Which of the following explains uptake of 0, in fetal circulation ?
 
 <details><summary>Answer</summary>
 
-**C. Higher affinity of HbF for 0,** — Source: Medicoholic 2016 PYQ compilation.
+**C. Higher affinity of HbF for 0,** — HbF lacks 2,3-BPG binding (gamma chains replace beta), shifting oxygen dissociation curve leftward; higher oxygen affinity facilitates placental oxygen uptake.
 
 </details>
 
@@ -21710,7 +21710,7 @@ Which of the following explains delivery of 02 in fetal circulation?
 
 <details><summary>Answer</summary>
 
-**A. Bohr's effect** — Source: Medicoholic 2016 PYQ compilation.
+**A. Bohr's effect** — Bohr effect: fetal CO2 transfer to maternal blood lowers fetal pH, rightward-shifting curve and unloading O2 to fetal tissues (double Bohr at placenta).
 
 </details>
 
@@ -21728,7 +21728,7 @@ Deficiency of which vitamin during pregnancy predisposes to meningomyelocele?
 
 <details><summary>Answer</summary>
 
-**A. Folic acid** — Source: Medicoholic 2016 PYQ compilation.
+**A. Folic acid** — Folate (B9) deficiency impairs neural tube closure by day 28; preconception 400 mcg (4 mg if prior NTD) prevents meningomyelocele and anencephaly.
 
 </details>
 
@@ -21746,7 +21746,7 @@ Physiological hyperplasia and hypertrophy are seen simultaneously in -
 
 <details><summary>Answer</summary>
 
-**D. a and c** — Source: Medicoholic 2016 PYQ compilation.
+**D. a and c** — Pregnancy uterus and pubertal breast undergo both hyperplasia (estrogen-driven cell proliferation) and hypertrophy (cell enlargement); skeletal muscle shows only hypertrophy.
 
 </details>
 
@@ -21764,7 +21764,7 @@ Tibolone is used for ?
 
 <details><summary>Answer</summary>
 
-**C. Hormone replacement therapy** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hormone replacement therapy** — Tibolone is a synthetic steroid with estrogenic, progestogenic, androgenic activity via tissue-selective metabolites; used in HRT for menopausal symptoms and osteoporosis prevention.
 
 </details>
 
@@ -21782,7 +21782,7 @@ Modafinil is a drug used in which of the following conditions?
 
 <details><summary>Answer</summary>
 
-**C. Shift work disorder** — Source: Medicoholic 2016 PYQ compilation.
+**C. Shift work disorder** — Modafinil is a wakefulness-promoting agent (weak dopamine reuptake inhibitor) approved for narcolepsy, shift-work sleep disorder, and obstructive sleep apnea residual sleepiness.
 
 </details>
 
@@ -21800,7 +21800,7 @@ Size of the fetus is 20 mm, then by the rule of Hasse’s, what is the gestation
 
 <details><summary>Answer</summary>
 
-**C. 6 weeks** — Source: Medicoholic 2016 PYQ compilation.
+**C. 6 weeks** — Haase's rule: first 5 months, gestational age in months equals square root of length(cm); 2cm=square root 4=2 months=approximately 6-8 weeks.
 
 </details>
 
@@ -21818,7 +21818,7 @@ Earliest sign of fetal death -
 
 <details><summary>Answer</summary>
 
-**B. Robert's sign** — Source: Medicoholic 2016 PYQ compilation.
+**B. Robert's sign** — Robert's sign (gas in fetal great vessels/heart on X-ray) appears within 12 hours of IUD; Spalding's sign (skull bone overlap) takes about 7 days.
 
 </details>
 
@@ -21836,7 +21836,7 @@ Which of the following is the test done to confirm live born fetus after fetal d
 
 <details><summary>Answer</summary>
 
-**B. Breslau's test** — Source: Medicoholic 2016 PYQ compilation.
+**B. Breslau's test** — Breslau's (hydrostatic) test floats fetal lungs in water; live-born aerated lungs float, stillborn dense unexpanded lungs sink — confirms live birth medico-legally.
 
 </details>
 
@@ -21854,7 +21854,7 @@ Chlamydia trachomatis infection commonly causes:
 
 <details><summary>Answer</summary>
 
-**A. Infertility** — Source: Medicoholic 2016 PYQ compilation.
+**A. Infertility** — Chlamydia causes silent salpingitis with tubal scarring and adhesions, leading to tubal factor infertility; commonest STI cause of infertility worldwide.
 
 </details>
 
@@ -21872,7 +21872,7 @@ True about CMV are all except ?
 
 <details><summary>Answer</summary>
 
-**C. A non-enveloped DNA virus** — Source: Medicoholic 2016 PYQ compilation.
+**C. A non-enveloped DNA virus** — CMV is an enveloped double-stranded DNA herpesvirus (HHV-5) with owl-eye intranuclear inclusions; commonest congenital and post-transplant viral infection.
 
 </details>
 
@@ -21890,7 +21890,7 @@ Which of the following is false about intra-uterine devices (IUDs)?
 
 <details><summary>Answer</summary>
 
-**A. Multiload Cu-375 is a third generation intra-uterine device (IUD)** — Source: Medicoholic 2016 PYQ compilation.
+**A. Multiload Cu-375 is a third generation intra-uterine device (IUD)** — Multiload Cu-375 is a second-generation copper IUD; third-generation includes Cu-T 380A and frameless GyneFix. Mirena (LNG-20) lifespan now extended to 8 years.
 
 </details>
 
@@ -21908,7 +21908,7 @@ Jai Vigyan National Mission is for?
 
 <details><summary>Answer</summary>
 
-**C. Science & technology** — Source: Medicoholic 2016 PYQ compilation.
+**C. Science & technology** — Jai Vigyan National Science and Technology Mission (1999) is a Government of India initiative for science and technology development, not a health program.
 
 </details>
 
@@ -21926,7 +21926,7 @@ SADE classification classifies
 
 <details><summary>Answer</summary>
 
-**A. Retraction of tympanic membrane** — Source: Medicoholic 2016 PYQ compilation.
+**A. Retraction of tympanic membrane** — SADE (Sade-Berco) classification grades tympanic membrane retraction/atelectasis in chronic otitis media: I-mild, II-touches incus, III-touches promontory, IV-adherent.
 
 </details>
 
@@ -21944,7 +21944,7 @@ All of the following are the causes of exudative retinal detachment except:
 
 <details><summary>Answer</summary>
 
-**B. Retinopathy of prematurity** — Source: Medicoholic 2016 PYQ compilation.
+**B. Retinopathy of prematurity** — Retinopathy of prematurity causes tractional (fibrovascular) retinal detachment, not exudative. Coats disease, toxemia retinopathy, and sympathetic ophthalmia cause exudative RD.
 
 </details>
 
