@@ -2109,7 +2109,7 @@ Which is the best indicator for short term control (2-3 weeks] of blood glucose 
 
 <details><summary>Answer</summary>
 
-**A. Serum fructosamine** — Source: Medicoholic 2015 PYQ compilation.
+**A. Serum fructosamine** — **A. Serum fructosamine** — Fructosamine reflects glycated serum proteins (mainly albumin, half-life ~20 days), providing glycaemic control over 2–3 weeks; HbA1c reflects 8–12 week average.
 
 </details>
 
@@ -2127,7 +2127,7 @@ Post Prandial capillary glucose should be mg/dl for adequate diabetes control
 
 <details><summary>Answer</summary>
 
-**C. < 180 mg/dl** — Source: Medicoholic 2015 PYQ compilation.
+**C. < 180 mg/dl** — **C. < 180 mg/dl** — ADA/IDF targets for postprandial capillary glucose in diabetes are <180 mg/dL (2-hour post-meal); values >180 mg/dL indicate suboptimal glycaemic control and increased risk of microvascular complications.
 
 </details>
 
@@ -2145,7 +2145,7 @@ The most common cause of Cushing's syndrome is:
 
 <details><summary>Answer</summary>
 
-**D. Iatrogenic steroids** — Source: Medicoholic 2015 PYQ compilation.
+**D. Iatrogenic steroids** — **D. Iatrogenic steroids** — Exogenous corticosteroid use (iatrogenic) is by far the most common cause of Cushing's syndrome worldwide; endogenous causes including pituitary adenoma (Cushing's disease) are far less frequent.
 
 </details>
 
@@ -2163,7 +2163,7 @@ Primary Hyperaldosteronism can be diagnosed by all of the following criteria, ex
 
 <details><summary>Answer</summary>
 
-**D. Metabolic Acidosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Metabolic Acidosis** — **D. Metabolic Acidosis** — Primary hyperaldosteronism causes metabolic alkalosis (aldosterone promotes H+ secretion in collecting duct), not acidosis; criteria include hypertension, non-suppressed aldosterone, low plasma renin activity.
 
 </details>
 
@@ -2181,7 +2181,7 @@ Female with blood sugar of 600 mg% and sodium of 110 mEq. Insulin was given, wha
 
 <details><summary>Answer</summary>
 
-**A. Sodium increase** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sodium increase** — **A. Sodium increase** — Severe hyperglycaemia causes dilutional hyponatraemia (glucose draws water extracellularly); insulin lowers glucose, water shifts back intracellularly, reducing dilution and raising serum sodium toward true levels.
 
 </details>
 
@@ -2199,7 +2199,7 @@ Which of the following presents with hypokalemia and metabolic acidosis ?
 
 <details><summary>Answer</summary>
 
-**A. Diarrhea** — Source: Medicoholic 2015 PYQ compilation.
+**A. Diarrhea** — **A. Diarrhea** — Diarrhoea causes loss of potassium-rich, bicarbonate-rich intestinal fluid, producing both hypokalaemia and non-anion-gap metabolic acidosis; vomiting and NG suction cause metabolic alkalosis with hypokalaemia.
 
 </details>
 
@@ -2217,7 +2217,7 @@ Hypertension with Hypokalemia is seen in:
 
 <details><summary>Answer</summary>
 
-**B. Liddle's Syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**B. Liddle's Syndrome** — **B. Liddle's Syndrome** — Liddle's syndrome has constitutively active ENaC channels causing sodium retention, hypertension, and hypokalaemia; Bartter and Gitelman syndromes cause hypokalaemia with normotension or low blood pressure.
 
 </details>
 
@@ -2235,7 +2235,7 @@ In cobalamin deficiency which is not seen
 
 <details><summary>Answer</summary>
 
-**A. Microcytic anemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Microcytic anemia** — **A. Microcytic anemia** — Cobalamin (B12) deficiency causes megaloblastic (macrocytic) anaemia, not microcytic anaemia; neurological features include subacute combined degeneration with posterior column loss, long tract signs, Romberg positivity.
 
 </details>
 
@@ -2253,7 +2253,7 @@ Hypernatremia causes all EXCEPT
 
 <details><summary>Answer</summary>
 
-**D. Central pontine myelinosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Central pontine myelinosis** — **D. Central pontine myelinosis** — Central pontine myelinolysis (osmotic demyelination) is caused by rapid correction of hyponatraemia, not by hypernatraemia; hypernatraemia causes cerebral shrinkage, bridging vein tears, haemorrhage, and seizures.
 
 </details>
 
@@ -2271,7 +2271,7 @@ All of the following are associated with hyponatremia except
 
 <details><summary>Answer</summary>
 
-**D. Myalgia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Myalgia** — **D. Myalgia** — Hyponatraemia causes neurological symptoms (drowsiness, confusion, convulsions, anorexia, nausea) due to cerebral oedema; myalgia is not a characteristic feature of hyponatraemia.
 
 </details>
 
@@ -2289,7 +2289,7 @@ Most common type of multiple sclerosis?
 
 <details><summary>Answer</summary>
 
-**A. Relapsing remitting type** — Source: Medicoholic 2015 PYQ compilation.
+**A. Relapsing remitting type** — **A. Relapsing remitting type** — RRMS accounts for ~85% of MS cases at diagnosis; episodes of neurological dysfunction (relapses) are followed by partial or complete recovery; it can evolve into secondary progressive MS over time.
 
 </details>
 
@@ -2307,7 +2307,7 @@ In EEG which type of waves are seen in metabolic encephalopathy
 
 <details><summary>Answer</summary>
 
-**D. Delta** — Source: Medicoholic 2015 PYQ compilation.
+**D. Delta** — **D. Delta** — Metabolic encephalopathy produces diffuse slow-wave activity on EEG; delta waves (0.5–4 Hz) reflect severe cortical dysfunction from metabolic derangements (hepatic failure, uraemia, sepsis), and triphasic waves may also appear.
 
 </details>
 
@@ -2325,7 +2325,7 @@ Glasgow coma scale motor 4 represents?
 
 <details><summary>Answer</summary>
 
-**A. Withdrawal or flexion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Withdrawal or flexion** — **A. Withdrawal or flexion** — In the GCS motor scale: M6=obeys, M5=localises, M4=withdrawal (normal flexion to pain), M3=abnormal flexion (decorticate), M2=extension (decerebrate), M1=no response.
 
 </details>
 
@@ -2343,7 +2343,7 @@ Increased ICT is shown by
 
 <details><summary>Answer</summary>
 
-**D. Reduction in GCS** — Source: Medicoholic 2015 PYQ compilation.
+**D. Reduction in GCS** — **D. Reduction in GCS** — Raised ICP causes progressive decline in conscious level (GCS fall) as brainstem is compromised; Cushing's response (hypertension + bradycardia) and pupillary changes occur late; GCS reduction is earliest reliable clinical sign.
 
 </details>
 
@@ -2361,7 +2361,7 @@ Lateral vessels? medullary syndrome is due to the occlusion of which of the foll
 
 <details><summary>Answer</summary>
 
-**D. Vertebral artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Vertebral artery** — **D. Vertebral artery** — Lateral medullary (Wallenberg) syndrome most commonly results from vertebral artery occlusion (proximal PICA territory); features include ipsilateral facial sensory loss, contralateral limb sensory loss, Horner's, dysphagia.
 
 </details>
 
@@ -2379,7 +2379,7 @@ Plaques jaunes are seen in
 
 <details><summary>Answer</summary>
 
-**B. Head injury** — Source: Medicoholic 2015 PYQ compilation.
+**B. Head injury** — **B. Head injury** — Plaques jaunes (yellow plaques) are haemosiderin-containing superficial cortical scars found on the meninges and brain surface following old traumatic haemorrhage; they are a pathological marker of prior head injury.
 
 </details>
 
@@ -2397,7 +2397,7 @@ Rademecker complex in EEG is seen in -
 
 <details><summary>Answer</summary>
 
-**A. SSPE** — Source: Medicoholic 2015 PYQ compilation.
+**A. SSPE** — **A. SSPE** — Subacute sclerosing panencephalitis shows periodic high-voltage biphasic/triphasic slow-wave complexes (Rademecker complexes) every 4–15 seconds on EEG, correlated with myoclonic jerks; caused by persistent measles virus.
 
 </details>
 
@@ -2415,7 +2415,7 @@ Which of the following sites is responsible for the amnestic defect in Wernicke'
 
 <details><summary>Answer</summary>
 
-**B. Thalamus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Thalamus** — **B. Thalamus** — The amnestic syndrome in Wernicke-Korsakoff is primarily due to mediodorsal thalamic nucleus damage; mammillary body lesions contribute but thalamic damage correlates best with the anterograde amnesia and confabulation.
 
 </details>
 
@@ -2433,7 +2433,7 @@ Which of the following is the most common initial presenting feature of multiple
 
 <details><summary>Answer</summary>
 
-**A. Optic Neuritis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Optic Neuritis** — **A. Optic Neuritis** — Optic neuritis is the most common presenting feature of MS (~25% of cases at onset); it causes unilateral painful visual loss with RAPD, delayed VEP, and is associated with MS in 50% of cases long-term.
 
 </details>
 
@@ -2451,7 +2451,7 @@ Absence of Corpus callosum leads to
 
 <details><summary>Answer</summary>
 
-**D. No neurological manifestations** — Source: Medicoholic 2015 PYQ compilation.
+**D. No neurological manifestations** — **D. No neurological manifestations** — Agenesis of the corpus callosum is often asymptomatic and discovered incidentally; patients may have mild learning difficulties but typically lack focal deficits as other commissures (anterior commissure) compensate.
 
 </details>
 
@@ -2469,7 +2469,7 @@ First Symptoms of parkinsons disease is -
 
 <details><summary>Answer</summary>
 
-**C. Tremors** — Source: Medicoholic 2015 PYQ compilation.
+**C. Tremors** — **C. Tremors** — Resting pill-rolling tremor (4–6 Hz) is typically the earliest and most recognisable symptom of Parkinson's disease; postural instability appears late, while bradykinesia and rigidity often follow the tremor.
 
 </details>
 
@@ -2487,7 +2487,7 @@ Which of the following metal ions is associated with secondary Parkinsonisms:
 
 <details><summary>Answer</summary>
 
-**A. Mangnese (Mn)** — Source: Medicoholic 2015 PYQ compilation.
+**A. Mangnese (Mn)** — **A. Mangnese (Mn)** — Manganese toxicity (manganism) in miners/welders causes selective nigrostriatal dopaminergic damage producing secondary parkinsonism; features include 'cock walk' gait and psychiatric symptoms preceding motor features.
 
 </details>
 
@@ -2505,7 +2505,7 @@ Isaac syndroma is characterised by -
 
 <details><summary>Answer</summary>
 
-**A. Peripheral nerve excitability** — Source: Medicoholic 2015 PYQ compilation.
+**A. Peripheral nerve excitability** — **A. Peripheral nerve excitability** — Isaac's syndrome (neuromyotonia) is caused by VGKC (Kv1) antibodies leading to continuous peripheral nerve hyperexcitability; manifests as myokymia, cramps, hyperhidrosis, and pseudomyotonia.
 
 </details>
 
@@ -2523,7 +2523,7 @@ In Alzheimer's disease (AD) which of the following is not seen:
 
 <details><summary>Answer</summary>
 
-**C. Agnosia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Agnosia** — **C. Agnosia** — Wait: agnosia IS seen in Alzheimer's disease as part of the 4 A's (Amnesia, Aphasia, Apraxia, Agnosia). However in some curricula the 4 A's exclude agnosia separately; checking options — aphasia, acalculia, and apraxia are all well-documented. Agnosia (failure to recognise objects despite intact senses) can occur but is less classic; acalculia is the less typical feature in some classifications.
 
 </details>
 
@@ -2541,7 +2541,7 @@ Which vitamin toxicity is associated with excessive sweating -
 
 <details><summary>Answer</summary>
 
-**A. Choline** — Source: Medicoholic 2015 PYQ compilation.
+**A. Choline** — **A. Choline** — Choline toxicity (from excess supplementation) causes cholinergic effects including excessive sweating (diaphoresis), fishy body odour, nausea, salivation, and hypotension via muscarinic receptor stimulation.
 
 </details>
 
@@ -2559,7 +2559,7 @@ Lafora's disease presents with -
 
 <details><summary>Answer</summary>
 
-**B. Myoclonic epilepsy** — Source: Medicoholic 2015 PYQ compilation.
+**B. Myoclonic epilepsy** — **B. Myoclonic epilepsy** — Lafora disease (EPM2A/EPM2B mutations) causes progressive myoclonic epilepsy; characteristic Lafora bodies (polyglucosan inclusions) accumulate in neurons; presents in adolescence with myoclonic jerks, generalised seizures, and dementia.
 
 </details>
 
@@ -2577,7 +2577,7 @@ Kaposi sarcoma is commonly seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Lower limbs** — Source: Medicoholic 2015 PYQ compilation.
+**B. Lower limbs** — **B. Lower limbs** — Kaposi's sarcoma classically begins in the lower limbs (feet and legs) as violaceous/dark plaques or nodules; the endemic African form and AIDS-related form both show predilection for lower extremities.
 
 </details>
 
@@ -2595,7 +2595,7 @@ Hyperuricemia can be caused by all except -
 
 <details><summary>Answer</summary>
 
-**D. None** — Source: Medicoholic 2015 PYQ compilation.
+**D. None** — **D. None** — All three listed drugs cause hyperuricaemia: ethanol increases urate production and decreases excretion; thiazides and furosemide reduce renal urate excretion (compete with urate at tubular transporters); hence none is an exception.
 
 </details>
 
@@ -2613,7 +2613,7 @@ Which is the most common tumor leading to death in adults?
 
 <details><summary>Answer</summary>
 
-**A. Lung cancer** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lung cancer** — **A. Lung cancer** — Lung cancer is the leading cause of cancer-related mortality in adults worldwide for both sexes combined; it has poor prognosis due to late presentation and limited curative options at advanced stage.
 
 </details>
 
@@ -2631,7 +2631,7 @@ Which of the following antibodies is highly specific for systemic lupus erythema
 
 <details><summary>Answer</summary>
 
-**A. Anti-Sm** — Source: Medicoholic 2015 PYQ compilation.
+**A. Anti-Sm** — **A. Anti-Sm** — Anti-Smith (Sm) antibody is highly specific (99%) for SLE though not sensitive (~25%); anti-dsDNA is also specific; anti-Ro/La are seen in Sjögren's; anti-centromere in limited systemic sclerosis.
 
 </details>
 

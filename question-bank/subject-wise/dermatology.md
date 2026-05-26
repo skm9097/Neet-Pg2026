@@ -1203,7 +1203,7 @@ CT of gastric Volvulus shows -
 
 <details><summary>Answer</summary>
 
-**B. Enlarged twisted stomach** — Source: Medicoholic 2015 PYQ compilation.
+**B. Enlarged twisted stomach** — **B. Enlarged twisted stomach** — Gastric volvulus on CT shows a distended, air-filled stomach with organoaxial or mesenteroaxial rotation causing twisting at the gastroesophageal junction and pylorus.
 
 </details>
 
@@ -1221,7 +1221,7 @@ Sausage finger appearance is seen in -
 
 <details><summary>Answer</summary>
 
-**A. Psoriatic arthritis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Psoriatic arthritis** — **A. Psoriatic arthritis** — Dactylitis (sausage digit) in psoriatic arthritis results from concurrent flexor tenosynovitis and periarticular soft tissue inflammation involving the entire digit of finger or toe.
 
 </details>
 
@@ -1239,7 +1239,7 @@ Skyline view X-ray is useful in diagnosing -
 
 <details><summary>Answer</summary>
 
-**A. Patellofemoral problem** — Source: Medicoholic 2015 PYQ compilation.
+**A. Patellofemoral problem** — **A. Patellofemoral problem** — The skyline (sunrise/Merchant) view is a tangential X-ray of the patella taken with the knee flexed, revealing patellar malalignment, chondromalacia, and patellofemoral osteoarthritis.
 
 </details>
 
@@ -1257,7 +1257,7 @@ Theory of human motivation was given by ?
 
 <details><summary>Answer</summary>
 
-**B. Abraham Maslow** — Source: Medicoholic 2015 PYQ compilation.
+**B. Abraham Maslow** — **B. Abraham Maslow** — Maslow's hierarchy of needs (1943) proposes five-tier motivational model from physiological needs at base to self-actualisation at apex, foundational to humanistic psychology and motivational theory.
 
 </details>
 
@@ -1275,7 +1275,7 @@ Illusion is:
 
 <details><summary>Answer</summary>
 
-**C. Abnormal perception by a sensory misinterpretation of actual** — Source: Medicoholic 2015 PYQ compilation.
+**C. Abnormal perception by a sensory misinterpretation of actual** — **C. Abnormal perception by a sensory misinterpretation of actual** — Illusion is a misinterpretation of a real external stimulus (e.g., mistaking a coat for a person in dim light), distinct from hallucination (perception without stimulus).
 
 </details>
 
@@ -1293,7 +1293,7 @@ A patient (age not captured in source) who is a year old male believes that his 
 
 <details><summary>Answer</summary>
 
-**D. Delusion disorder** — Source: Medicoholic 2015 PYQ compilation.
+**D. Delusion disorder** — **D. Delusion disorder** — The fixed, unshakeable false belief that his penis is shrinking and will cause death is a somatic delusion (Koro syndrome variant); it is not amenable to reason, distinguishing it from hypochondriasis.
 
 </details>
 
@@ -1311,7 +1311,7 @@ Most common substance of abuse in India ?
 
 <details><summary>Answer</summary>
 
-**B. Tobacco** — Source: Medicoholic 2015 PYQ compilation.
+**B. Tobacco** — **B. Tobacco** — Tobacco (smoked and smokeless) is the most prevalent substance of abuse in India; NFHS and NSDUH data consistently show tobacco use rates exceeding alcohol and cannabis across all demographic groups.
 
 </details>
 
@@ -1329,7 +1329,7 @@ In Neuroleptic malignant syndrome, cause of death is ?
 
 <details><summary>Answer</summary>
 
-**A. Respiratory failure** — Source: Medicoholic 2015 PYQ compilation.
+**A. Respiratory failure** — **A. Respiratory failure** — NMS (dopamine blockade causing hyperthermia, rigidity, autonomic instability) most commonly causes death via respiratory failure due to chest wall rigidity, aspiration pneumonia, and rhabdomyolysis-induced renal failure.
 
 </details>
 
@@ -1347,7 +1347,7 @@ Trichophagia is characterized by?
 
 <details><summary>Answer</summary>
 
-**B. Compulsive eating of hair** — Source: Medicoholic 2015 PYQ compilation.
+**B. Compulsive eating of hair** — **B. Compulsive eating of hair** — Trichophagia is compulsive ingestion of hair, often following trichotillomania (hair pulling); accumulated hair forms a trichobezoar (Rapunzel syndrome) causing GI obstruction.
 
 </details>
 
@@ -1365,7 +1365,7 @@ Jamais vu is -
 
 <details><summary>Answer</summary>
 
-**D. Feeling of strangeness to familiar situation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Feeling of strangeness to familiar situation** — **D. Feeling of strangeness to familiar situation** — Jamais vu is the paradoxical experience of a familiar situation, person, or environment feeling completely strange or unrecognised; opposite of déjà vu; seen in temporal lobe epilepsy.
 
 </details>
 
@@ -1383,7 +1383,7 @@ Which of the following is not true about sleep ?
 
 <details><summary>Answer</summary>
 
-**A. REM sleep comes earlier than NREM sleep** — Source: Medicoholic 2015 PYQ compilation.
+**A. REM sleep comes earlier than NREM sleep** — **A. REM sleep comes earlier than NREM sleep** — Normal sleep architecture begins with NREM sleep (Stages 1-3) before the first REM episode at ~90 minutes; REM sleep does not precede NREM in normal sleep cycles.
 
 </details>
 
@@ -1401,7 +1401,7 @@ Gamma waves of REM sleep in sleep cycle are associated with ?
 
 <details><summary>Answer</summary>
 
-**A. Intense attention** — Source: Medicoholic 2015 PYQ compilation.
+**A. Intense attention** — **A. Intense attention** — Gamma waves (30–100 Hz) during REM sleep correlate with heightened neural synchrony associated with intense attentional processing, memory consolidation, and vivid dreaming states.
 
 </details>
 
@@ -1419,7 +1419,7 @@ Main difference between anorexia nervosa and bulimia nervosa lies in:
 
 <details><summary>Answer</summary>
 
-**B. Weight** — Source: Medicoholic 2015 PYQ compilation.
+**B. Weight** — **B. Weight** — The key distinguishing feature is body weight: anorexia nervosa involves significantly low body weight (BMI <17.5), while bulimia nervosa patients maintain normal or above-normal weight despite binge-purge cycles.
 
 </details>
 
@@ -1437,7 +1437,7 @@ Eating disorder with normal weight is?
 
 <details><summary>Answer</summary>
 
-**B. Bulimia nervosa** — Source: Medicoholic 2015 PYQ compilation.
+**B. Bulimia nervosa** — **B. Bulimia nervosa** — Bulimia nervosa is characterised by recurrent binge-purge cycles with maintained normal body weight due to compensatory behaviours; anorexia nervosa presents with markedly low weight.
 
 </details>
 
@@ -1455,7 +1455,7 @@ Binge eating disorder is characterized by ?
 
 <details><summary>Answer</summary>
 
-**C. Obesity** — Source: Medicoholic 2015 PYQ compilation.
+**C. Obesity** — **C. Obesity** — Binge eating disorder involves recurrent uncontrolled eating episodes without purging, leading to cumulative caloric excess and obesity; it differs from bulimia by the absence of compensatory behaviours.
 
 </details>
 
@@ -1473,7 +1473,7 @@ Tricyclic antidepressants have all of the following actions except ?
 
 <details><summary>Answer</summary>
 
-**B. MAO inhibition** — Source: Medicoholic 2015 PYQ compilation.
+**B. MAO inhibition** — **B. MAO inhibition** — TCAs act by blocking 5-HT/norepinephrine reuptake transporters, not MAO; they also have significant anticholinergic, antihistaminic, and alpha-1 adrenergic blocking properties causing multiple side effects.
 
 </details>
 
@@ -1491,7 +1491,7 @@ Drug not used in prophylaxis of MD P ?
 
 <details><summary>Answer</summary>
 
-**A. Haloperidol** — Source: Medicoholic 2015 PYQ compilation.
+**A. Haloperidol** — **A. Haloperidol** — Haloperidol is a typical antipsychotic for acute mania but lacks mood-stabilising properties for prophylaxis of bipolar disorder (MDP); lithium, valproate, and carbamazepine are established prophylactic agents.
 
 </details>
 
@@ -1509,7 +1509,7 @@ Tourette syndrome is a type of ?
 
 <details><summary>Answer</summary>
 
-**A. Tic disorder** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tic disorder** — **A. Tic disorder** — Tourette syndrome is a chronic tic disorder characterised by multiple motor tics and at least one vocal tic lasting >1 year; onset before 18 years; associated with OCD and ADHD.
 
 </details>
 
@@ -1527,7 +1527,7 @@ General paralysis of insane is associated with ?
 
 <details><summary>Answer</summary>
 
-**A. Neurosyphillis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Neurosyphillis** — **A. Neurosyphilis** — GPI is a late manifestation of tertiary neurosyphilis (Treponema pallidum meningoencephalitis) causing progressive dementia, grandiose delusions, personality change, and Argyll Robertson pupils.
 
 </details>
 
@@ -1545,7 +1545,7 @@ Sign of oppositionalism in a young child is due to?
 
 <details><summary>Answer</summary>
 
-**C. Mental distress** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mental distress** — **C. Mental distress** — Oppositional behaviour in young children typically reflects an emotional response to mental distress or environmental stress (family discord, abuse); it is not inherently indicative of mental retardation or organic disorder.
 
 </details>
 
@@ -1563,7 +1563,7 @@ All of the following are associated increased REM latency, except ?
 
 <details><summary>Answer</summary>
 
-**C. Narcolepsy** — Source: Medicoholic 2015 PYQ compilation.
+**C. Narcolepsy** — **C. Narcolepsy** — Narcolepsy shows dramatically shortened REM latency (sleep-onset REM periods, <15 min); REM latency is increased in first-night effect, with SSRIs, and in restless leg syndrome.
 
 </details>
 
@@ -1581,7 +1581,7 @@ Drug with no mood stabilizing property is -
 
 <details><summary>Answer</summary>
 
-**C. Imipramine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Imipramine** — **C. Imipramine** — Imipramine is a TCA antidepressant with no mood-stabilising properties; it can actually precipitate mania/rapid cycling in bipolar disorder; lithium, lamotrigine, and carbamazepine are mood stabilisers.
 
 </details>
 
@@ -1599,7 +1599,7 @@ Haloperidol induced extarpyramidal side effects are treated by ?
 
 <details><summary>Answer</summary>
 
-**C. Anticholinergic drugs** — Source: Medicoholic 2015 PYQ compilation.
+**C. Anticholinergic drugs** — **C. Anticholinergic drugs** — Haloperidol-induced EPS (drug-induced parkinsonism, acute dystonia, akathisia) is treated with anticholinergics (benztropine, trihexyphenidyl) which restore dopaminergic-cholinergic balance in the basal ganglia.
 
 </details>
 
@@ -1617,7 +1617,7 @@ Most common complication of modified ECT
 
 <details><summary>Answer</summary>
 
-**D. Amnesia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Amnesia** — **D. Amnesia** — Amnesia (both anterograde and retrograde) is the most common complication of modified ECT; it is typically transient and related to the electrical seizure activity affecting hippocampal memory consolidation.
 
 </details>
 
@@ -1638,7 +1638,7 @@ Liposome drug delivery system is used for all except ?
 
 <details><summary>Answer</summary>
 
-**C. Hyoscine** — Source: Medicoholic 2016 PYQ compilation.
+**C. Hyoscine** — **C. Hyoscine** — Hyoscine (scopolamine) is delivered via transdermal patch, not liposomal formulation; liposomal delivery is established for vincristine (vincristine sulphate liposomal), amphotericin B, and amikacin (pulmonary).
 
 </details>
 
@@ -1658,7 +1658,7 @@ Most common tumor of oropharynx is
 
 <details><summary>Answer</summary>
 
-**A. Squamous cell carcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Squamous cell carcinoma** — **A. Squamous cell carcinoma** — SCC accounts for >90% of oropharyngeal malignancies; risk factors include tobacco, alcohol, and HPV-16 infection (oropharyngeal SCC is increasingly HPV-driven, especially in tonsil and base of tongue).
 
 </details>
 
@@ -1678,7 +1678,7 @@ Pseudogerontoxon is seen in
 
 <details><summary>Answer</summary>
 
-**A. Vernal keratopathy** — Source: Medicoholic 2016 PYQ compilation.
+**A. Vernal keratopathy** — **A. Vernal keratopathy** — Pseudogerontoxon is a corneal opacity resembling arcus senilis but occurring in young patients with vernal keratoconjunctivitis; it results from subepithelial stromal lipid deposition from chronic limbal inflammation.
 
 </details>
 
@@ -1698,7 +1698,7 @@ Visual examination is used as screening test for
 
 <details><summary>Answer</summary>
 
-**A. Melanoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Melanoma** — **A. Melanoma** — Visual inspection is the primary screening method for cutaneous melanoma using the ABCDE criteria (Asymmetry, Border, Colour, Diameter, Evolution); dermoscopy enhances clinical visual assessment accuracy.
 
 </details>
 
@@ -1718,7 +1718,7 @@ Acral lentigines type of malignant melanoma occurs in -
 
 <details><summary>Answer</summary>
 
-**C. Mucosa** — Source: Medicoholic 2016 PYQ compilation.
+**C. Mucosa** — **C. Mucosa** — Acral lentiginous melanoma arises on palms, soles, subungual regions, and mucosal surfaces; it is the most common melanoma subtype in dark-skinned populations and is not UV-related.
 
 </details>
 
@@ -1738,7 +1738,7 @@ MENOPAUSE is diagnosed by ?
 
 <details><summary>Answer</summary>
 
-**C. FSH>40 IU/L** — Source: Medicoholic 2016 PYQ compilation.
+**C. FSH>40 IU/L** — **C. FSH>40 IU/L** — Menopause is confirmed biochemically by FSH >40 IU/L (elevated due to absent negative feedback from failing ovaries); clinical diagnosis requires 12 consecutive months of amenorrhoea.
 
 </details>
 

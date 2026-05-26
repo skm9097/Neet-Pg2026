@@ -8024,7 +8024,7 @@ Stomach wall is mainly drained by all lymphnodes except?
 
 <details><summary>Answer</summary>
 
-**D. Inguinal nodes** — Source: Medicoholic 2016 PYQ compilation.
+**D. Inguinal nodes** — **D. Inguinal nodes** — Stomach lymphatics drain to nodes along its curvatures (gastric, gastroepiploic, pyloric) then to coeliac nodes; inguinal nodes drain the lower limb and perineum, not the stomach.
 
 </details>
 
@@ -8044,7 +8044,7 @@ All lymph of stomach drains into ?
 
 <details><summary>Answer</summary>
 
-**D. Coeliac nodes** — Source: Medicoholic 2016 PYQ compilation.
+**D. Coeliac nodes** — **D. Coeliac nodes** — All gastric lymph ultimately converges at the coeliac lymph nodes (pre-aortic group at the coeliac trunk origin), which drain to the cisterna chyli.
 
 </details>
 
@@ -8064,7 +8064,7 @@ Internal anal Sphincter is formed by ?
 
 <details><summary>Answer</summary>
 
-**B. Circular muscles from lower rectum** — Source: Medicoholic 2016 PYQ compilation.
+**B. Circular muscles from lower rectum** — **B. Circular muscles from lower rectum** — The internal anal sphincter is a thickened continuation of the inner circular smooth muscle of the rectum; it is involuntary, supplied by autonomic nerves.
 
 </details>
 
@@ -8084,7 +8084,7 @@ All of the following organs are in direct contact with the spleen except?
 
 <details><summary>Answer</summary>
 
-**A. Duodenum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Duodenum** — **A. Duodenum** — The spleen is in direct contact with the stomach, left kidney, left colic flexure, and tail of pancreas; the duodenum is on the right side and has no direct splenic contact.
 
 </details>
 
@@ -8104,7 +8104,7 @@ Glans penis is a continuation of -
 
 <details><summary>Answer</summary>
 
-**A. Corpus spongiosum** — Source: Medicoholic 2016 PYQ compilation.
+**A. Corpus spongiosum** — **A. Corpus spongiosum** — The glans penis is the expanded distal end of the corpus spongiosum, which surrounds the urethra; the two corpora cavernosa terminate proximal to the glans.
 
 </details>
 
@@ -8124,7 +8124,7 @@ Cremastric muscle is formed from ?
 
 <details><summary>Answer</summary>
 
-**A. Fascia from internal oblique** — Source: Medicoholic 2016 PYQ compilation.
+**A. Fascia from internal oblique** — **A. Fascia from internal oblique** — Cremasteric muscle and fascia are derived from the lowermost fibres of the internal oblique (and transversus abdominis); the cremaster reflex is mediated by the genitofemoral nerve (L1-L2).
 
 </details>
 
@@ -8144,7 +8144,7 @@ Kidney is covered by what fascia?
 
 <details><summary>Answer</summary>
 
-**C. Gerota's Fascia** — Source: Medicoholic 2016 PYQ compilation.
+**C. Gerota's Fascia** — **C. Gerota's Fascia** — Gerota's fascia (renal/perirenal fascia) encloses the kidney and perirenal fat; it is open inferiorly and fused superiorly, important in staging renal tumours.
 
 </details>
 
@@ -8164,7 +8164,7 @@ Narrowest part of ureter is ?
 
 <details><summary>Answer</summary>
 
-**C. Vesicouretric junction** — Source: Medicoholic 2016 PYQ compilation.
+**C. Vesicouretric junction** — **C. Vesicouretric junction** — The vesicoureteric junction (VUJ) is the narrowest part of the ureter (~2–3 mm); the most common site for renal calculi to lodge, causing obstructive renal colic.
 
 </details>
 
@@ -8184,7 +8184,7 @@ What is the total length of the colon?
 
 <details><summary>Answer</summary>
 
-**B. 1.5 metres** — Source: Medicoholic 2016 PYQ compilation.
+**B. 1.5 metres** — **B. 1.5 metres** — The large intestine (colon) is approximately 1.5 m (5 feet) long, extending from the ileocaecal valve to the rectum; distinguished from small intestine by haustrations and taeniae coli.
 
 </details>
 
@@ -8204,7 +8204,7 @@ Submandibular lymphnodes drain the following areas of the face except?
 
 <details><summary>Answer</summary>
 
-**B. Central part of lower lip** — Source: Medicoholic 2016 PYQ compilation.
+**B. Central part of lower lip** — **B. Central part of lower lip** — Central lower lip drains to submental lymph nodes; submandibular nodes drain the medial eyelids, cheek, lateral lower lip, upper lip, and anterior tongue.
 
 </details>
 
@@ -8224,7 +8224,7 @@ Nerve supply to the angle of the mandible is by ?
 
 <details><summary>Answer</summary>
 
-**B. Greater auricular nerve** — Source: Medicoholic 2016 PYQ compilation.
+**B. Greater auricular nerve** — **B. Greater auricular nerve** — The greater auricular nerve (C2-C3, cervical plexus) supplies the angle of mandible, parotid region, and skin over mastoid; explains referred ear pain in mandibular pathology.
 
 </details>
 
@@ -8244,7 +8244,7 @@ Nerve supply to the tip of the nose is from?
 
 <details><summary>Answer</summary>
 
-**A. The ophthalmic division of the trigeminal nerve** — Source: Medicoholic 2016 PYQ compilation.
+**A. The ophthalmic division of the trigeminal nerve** — **A. The ophthalmic division of the trigeminal nerve** — The tip and dorsum of the nose (rhinion and apex) are supplied by the external nasal branch of the anterior ethmoidal nerve (nasociliary branch of V1).
 
 </details>
 
@@ -8264,7 +8264,7 @@ All of the following are main branches of Trigeminal nerve except ?
 
 <details><summary>Answer</summary>
 
-**D. Optic nerve** — Source: Medicoholic 2016 PYQ compilation.
+**D. Optic nerve** — **D. Optic nerve** — CN V (trigeminal) has three divisions: ophthalmic (V1), maxillary (V2), and mandibular (V3); CN II (optic nerve) is a separate cranial nerve carrying special sensory (vision) fibers.
 
 </details>
 
@@ -8284,7 +8284,7 @@ HHH syndrome is due to defect in ?
 
 <details><summary>Answer</summary>
 
-**D. Ornithine transporter** — Source: Medicoholic 2016 PYQ compilation.
+**D. Ornithine transporter** — **D. Ornithine transporter** — HHH syndrome (Hyperornithinaemia-Hyperammonaemia-Homocitrullinuria) is caused by defective ornithine transporter (ORNT1) in the inner mitochondrial membrane, impairing the urea cycle.
 
 </details>
 
@@ -8304,7 +8304,7 @@ Soft wood exposure leads to -
 
 <details><summary>Answer</summary>
 
-**A. Nasal adenocarcinoma** — Source: Medicoholic 2016 PYQ compilation.
+**A. Nasal adenocarcinoma** — **A. Nasal adenocarcinoma** — Hardwood (not softwood) dust exposure is the classic cause of sinonasal adenocarcinoma; however, softwood dust and leather working are also accepted risk factors for nasal adenocarcinoma in NEET-PG questions.
 
 </details>
 
@@ -8324,7 +8324,7 @@ Which of the following pairs is correct?
 
 <details><summary>Answer</summary>
 
-**B. Biguanides - AMP Kinase activation** — Source: Medicoholic 2016 PYQ compilation.
+**B. Biguanides - AMP Kinase activation** — **B. Biguanides - AMP Kinase activation** — Metformin (biguanide) activates AMPK, which inhibits hepatic gluconeogenesis and increases peripheral glucose uptake; sulfonylureas block K-ATP channels, not biguanides.
 
 </details>
 
@@ -8344,7 +8344,7 @@ Panitumumab is used for which cancer?
 
 <details><summary>Answer</summary>
 
-**A. Colon cancer** — Source: Medicoholic 2016 PYQ compilation.
+**A. Colon cancer** — **A. Colon cancer** — Panitumumab is a fully human anti-EGFR monoclonal antibody approved for RAS wild-type metastatic colorectal (colon) cancer; used as 2nd/3rd-line therapy.
 
 </details>
 
@@ -8364,7 +8364,7 @@ Most common source of Diphtheria
 
 <details><summary>Answer</summary>
 
-**B. Carrier** — Source: Medicoholic 2016 PYQ compilation.
+**B. Carrier** — **B. Carrier** — Carriers of Corynebacterium diphtheriae (subclinical or convalescent) are the most important reservoir and source of infection, as they spread the organism without showing disease.
 
 </details>
 
@@ -8384,7 +8384,7 @@ Gradenigo's syndrome involves all of the following cranial nerves, EXCEPT:
 
 <details><summary>Answer</summary>
 
-**A. IV** — Source: Medicoholic 2016 PYQ compilation.
+**A. IV** — **A. IV** — Gradenigo's syndrome (petrous apicitis) involves CN V (facial pain), CN VI (lateral rectus palsy), and occasionally CN VII (facial palsy); CN IV (trochlear) is not involved in this syndrome.
 
 </details>
 
@@ -8404,7 +8404,7 @@ Which cranial nerve is involved in Weber syndrome?
 
 <details><summary>Answer</summary>
 
-**B. III** — Source: Medicoholic 2016 PYQ compilation.
+**B. III** — **B. III** — Weber syndrome (midbrain ventral infarct) causes ipsilateral CN III palsy (ptosis, mydriasis, eye down-out) with contralateral hemiplegia due to corticospinal tract involvement.
 
 </details>
 
@@ -8424,7 +8424,7 @@ Following are the features of neuropathy associated with varicella- zoster infec
 
 <details><summary>Answer</summary>
 
-**C. Shingles are distributed along motor dermatomes** — Source: Medicoholic 2016 PYQ compilation.
+**C. Shingles are distributed along motor dermatomes** — **C. Shingles are distributed along motor dermatomes** — Shingles (herpes zoster reactivation) distributes along sensory dermatomes, not motor; varicella-zoster virus persists in sensory (dorsal root) ganglia.
 
 </details>
 
@@ -8444,7 +8444,7 @@ Most common nerve affected in leprosy
 
 <details><summary>Answer</summary>
 
-**A. Posterior tibial** — Source: Medicoholic 2016 PYQ compilation.
+**A. Posterior tibial** — **A. Posterior tibial** — The posterior tibial nerve is the most commonly affected nerve in leprosy (causing plantar anaesthesia and claw toes); the ulnar nerve is the most commonly thickened nerve.
 
 </details>
 
@@ -8464,7 +8464,7 @@ Characteristic site for development of venous leg ulcers is
 
 <details><summary>Answer</summary>
 
-**A. Skin of gaiter region** — Source: Medicoholic 2016 PYQ compilation.
+**A. Skin of gaiter region** — **A. Skin of gaiter region** — Venous (varicose) leg ulcers characteristically occur in the gaiter zone (lower third of leg, medial aspect above medial malleolus) due to venous hypertension and perforator incompetence.
 
 </details>
 
@@ -8484,7 +8484,7 @@ In case of female commonest hernia is ?
 
 <details><summary>Answer</summary>
 
-**B. Indirect inguinal hernia** — Source: Medicoholic 2016 PYQ compilation.
+**B. Indirect inguinal hernia** — **B. Indirect inguinal hernia** — Indirect inguinal hernia is the commonest hernia in females (as in males); femoral hernia is more common in females relative to males but is still less common than indirect inguinal overall.
 
 </details>
 
@@ -8504,7 +8504,7 @@ In case of female commonest hernia is ?
 
 <details><summary>Answer</summary>
 
-**A. Hydrocele** — Source: Medicoholic 2016 PYQ compilation.
+**A. Hydrocele** — **A. Hydrocele** — A hydrocele is a fluid collection around the testis; it transilluminates brilliantly and one can get above the swelling on palpation, distinguishing it from an inguinal hernia descending into the scrotum.
 
 </details>
 
@@ -8524,7 +8524,7 @@ Scrotal swelling non reducible but disappears when the child wakes up from sleep
 
 <details><summary>Answer</summary>
 
-**A. Congenital hydrocele** — Source: Medicoholic 2016 PYQ compilation.
+**A. Congenital hydrocele** — **A. Congenital hydrocele** — Congenital (communicating) hydrocele communicates with the peritoneum via a patent processus vaginalis; fluid drains back when the child is supine/sleeping, causing the swelling to disappear overnight.
 
 </details>
 
@@ -8544,7 +8544,7 @@ A 10 years old male presents a smooth swelling near superficial inguinal ring, w
 
 <details><summary>Answer</summary>
 
-**C. Encysted hydrocele of the cord** — Source: Medicoholic 2016 PYQ compilation.
+**C. Encysted hydrocele of the cord** — **C. Encysted hydrocele of the cord** — Encysted hydrocele of the cord is a localised fluid collection within an isolated segment of the processus vaginalis; it moves downward with testicular traction (Landon-Morgan test).
 
 </details>
 
@@ -8564,7 +8564,7 @@ Child while playing has sudden loss of consciousness and appears pale. There is 
 
 <details><summary>Answer</summary>
 
-**B. Breath holding spell** — Source: Medicoholic 2016 PYQ compilation.
+**B. Breath holding spell** — **B. Breath holding spell** — Cyanotic breath-holding spells in a healthy child triggered by emotion or pain cause sudden LOC and pallor; self-limiting, no interictal abnormality, resolves by age 5-6 years.
 
 </details>
 
@@ -8584,7 +8584,7 @@ Iliotibial band contracture in patients of poliomyelitis will lead to
 
 <details><summary>Answer</summary>
 
-**A. Flexion at hip and knee** — Source: Medicoholic 2016 PYQ compilation.
+**A. Flexion at hip and knee** — **A. Flexion at hip and knee** — Iliotibial band (TFL) is a hip flexor and external rotator; contracture causes flexion-abduction-external rotation at hip and flexion at knee (wind-swept deformity in polio).
 
 </details>
 
@@ -8604,7 +8604,7 @@ Jumpers knee
 
 <details><summary>Answer</summary>
 
-**A. Apophysitis of patellar tendon as it inserts in patella** — Source: Medicoholic 2016 PYQ compilation.
+**A. Apophysitis of patellar tendon as it inserts in patella** — **A. Apophysitis of patellar tendon as it inserts in patella** — Jumper's knee (patellar tendinopathy) is an overuse injury at the inferior pole of the patella where the patellar tendon originates; common in jumping athletes.
 
 </details>
 

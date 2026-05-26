@@ -26977,7 +26977,7 @@ Which is the best indicator for short term control (2-3 weeks] of blood glucose 
 
 <details><summary>Answer</summary>
 
-**A. Serum fructosamine** — Source: Medicoholic 2015 PYQ compilation.
+**A. Serum fructosamine** — **A. Serum fructosamine** — Fructosamine reflects glycated serum proteins (mainly albumin, half-life ~20 days), providing glycaemic control over 2–3 weeks; HbA1c reflects 8–12 week average.
 
 </details>
 
@@ -26993,7 +26993,7 @@ Post Prandial capillary glucose should be mg/dl for adequate diabetes control
 
 <details><summary>Answer</summary>
 
-**C. < 180 mg/dl** — Source: Medicoholic 2015 PYQ compilation.
+**C. < 180 mg/dl** — **C. < 180 mg/dl** — ADA/IDF targets for postprandial capillary glucose in diabetes are <180 mg/dL (2-hour post-meal); values >180 mg/dL indicate suboptimal glycaemic control and increased risk of microvascular complications.
 
 </details>
 
@@ -27009,7 +27009,7 @@ The most common cause of Cushing's syndrome is:
 
 <details><summary>Answer</summary>
 
-**D. Iatrogenic steroids** — Source: Medicoholic 2015 PYQ compilation.
+**D. Iatrogenic steroids** — **D. Iatrogenic steroids** — Exogenous corticosteroid use (iatrogenic) is by far the most common cause of Cushing's syndrome worldwide; endogenous causes including pituitary adenoma (Cushing's disease) are far less frequent.
 
 </details>
 
@@ -27025,7 +27025,7 @@ Primary Hyperaldosteronism can be diagnosed by all of the following criteria, ex
 
 <details><summary>Answer</summary>
 
-**D. Metabolic Acidosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Metabolic Acidosis** — **D. Metabolic Acidosis** — Primary hyperaldosteronism causes metabolic alkalosis (aldosterone promotes H+ secretion in collecting duct), not acidosis; criteria include hypertension, non-suppressed aldosterone, low plasma renin activity.
 
 </details>
 
@@ -27041,7 +27041,7 @@ Female with blood sugar of 600 mg% and sodium of 110 mEq. Insulin was given, wha
 
 <details><summary>Answer</summary>
 
-**A. Sodium increase** — Source: Medicoholic 2015 PYQ compilation.
+**A. Sodium increase** — **A. Sodium increase** — Severe hyperglycaemia causes dilutional hyponatraemia (glucose draws water extracellularly); insulin lowers glucose, water shifts back intracellularly, reducing dilution and raising serum sodium toward true levels.
 
 </details>
 
@@ -27057,7 +27057,7 @@ Which of the following presents with hypokalemia and metabolic acidosis ?
 
 <details><summary>Answer</summary>
 
-**A. Diarrhea** — Source: Medicoholic 2015 PYQ compilation.
+**A. Diarrhea** — **A. Diarrhea** — Diarrhoea causes loss of potassium-rich, bicarbonate-rich intestinal fluid, producing both hypokalaemia and non-anion-gap metabolic acidosis; vomiting and NG suction cause metabolic alkalosis with hypokalaemia.
 
 </details>
 
@@ -27073,7 +27073,7 @@ Hypertension with Hypokalemia is seen in:
 
 <details><summary>Answer</summary>
 
-**B. Liddle's Syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**B. Liddle's Syndrome** — **B. Liddle's Syndrome** — Liddle's syndrome has constitutively active ENaC channels causing sodium retention, hypertension, and hypokalaemia; Bartter and Gitelman syndromes cause hypokalaemia with normotension or low blood pressure.
 
 </details>
 
@@ -27089,7 +27089,7 @@ In cobalamin deficiency which is not seen
 
 <details><summary>Answer</summary>
 
-**A. Microcytic anemia** — Source: Medicoholic 2015 PYQ compilation.
+**A. Microcytic anemia** — **A. Microcytic anemia** — Cobalamin (B12) deficiency causes megaloblastic (macrocytic) anaemia, not microcytic anaemia; neurological features include subacute combined degeneration with posterior column loss, long tract signs, Romberg positivity.
 
 </details>
 
@@ -27105,7 +27105,7 @@ Hypernatremia causes all EXCEPT
 
 <details><summary>Answer</summary>
 
-**D. Central pontine myelinosis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Central pontine myelinosis** — **D. Central pontine myelinosis** — Central pontine myelinolysis (osmotic demyelination) is caused by rapid correction of hyponatraemia, not by hypernatraemia; hypernatraemia causes cerebral shrinkage, bridging vein tears, haemorrhage, and seizures.
 
 </details>
 
@@ -27121,7 +27121,7 @@ All of the following are associated with hyponatremia except
 
 <details><summary>Answer</summary>
 
-**D. Myalgia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Myalgia** — **D. Myalgia** — Hyponatraemia causes neurological symptoms (drowsiness, confusion, convulsions, anorexia, nausea) due to cerebral oedema; myalgia is not a characteristic feature of hyponatraemia.
 
 </details>
 
@@ -27137,7 +27137,7 @@ Most common type of multiple sclerosis?
 
 <details><summary>Answer</summary>
 
-**A. Relapsing remitting type** — Source: Medicoholic 2015 PYQ compilation.
+**A. Relapsing remitting type** — **A. Relapsing remitting type** — RRMS accounts for ~85% of MS cases at diagnosis; episodes of neurological dysfunction (relapses) are followed by partial or complete recovery; it can evolve into secondary progressive MS over time.
 
 </details>
 
@@ -27153,7 +27153,7 @@ In EEG which type of waves are seen in metabolic encephalopathy
 
 <details><summary>Answer</summary>
 
-**D. Delta** — Source: Medicoholic 2015 PYQ compilation.
+**D. Delta** — **D. Delta** — Metabolic encephalopathy produces diffuse slow-wave activity on EEG; delta waves (0.5–4 Hz) reflect severe cortical dysfunction from metabolic derangements (hepatic failure, uraemia, sepsis), and triphasic waves may also appear.
 
 </details>
 
@@ -27169,7 +27169,7 @@ Glasgow coma scale motor 4 represents?
 
 <details><summary>Answer</summary>
 
-**A. Withdrawal or flexion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Withdrawal or flexion** — **A. Withdrawal or flexion** — In the GCS motor scale: M6=obeys, M5=localises, M4=withdrawal (normal flexion to pain), M3=abnormal flexion (decorticate), M2=extension (decerebrate), M1=no response.
 
 </details>
 
@@ -27185,7 +27185,7 @@ Increased ICT is shown by
 
 <details><summary>Answer</summary>
 
-**D. Reduction in GCS** — Source: Medicoholic 2015 PYQ compilation.
+**D. Reduction in GCS** — **D. Reduction in GCS** — Raised ICP causes progressive decline in conscious level (GCS fall) as brainstem is compromised; Cushing's response (hypertension + bradycardia) and pupillary changes occur late; GCS reduction is earliest reliable clinical sign.
 
 </details>
 
@@ -27201,7 +27201,7 @@ Lateral vessels? medullary syndrome is due to the occlusion of which of the foll
 
 <details><summary>Answer</summary>
 
-**D. Vertebral artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Vertebral artery** — **D. Vertebral artery** — Lateral medullary (Wallenberg) syndrome most commonly results from vertebral artery occlusion (proximal PICA territory); features include ipsilateral facial sensory loss, contralateral limb sensory loss, Horner's, dysphagia.
 
 </details>
 
@@ -27217,7 +27217,7 @@ Plaques jaunes are seen in
 
 <details><summary>Answer</summary>
 
-**B. Head injury** — Source: Medicoholic 2015 PYQ compilation.
+**B. Head injury** — **B. Head injury** — Plaques jaunes (yellow plaques) are haemosiderin-containing superficial cortical scars found on the meninges and brain surface following old traumatic haemorrhage; they are a pathological marker of prior head injury.
 
 </details>
 
@@ -27233,7 +27233,7 @@ Rademecker complex in EEG is seen in -
 
 <details><summary>Answer</summary>
 
-**A. SSPE** — Source: Medicoholic 2015 PYQ compilation.
+**A. SSPE** — **A. SSPE** — Subacute sclerosing panencephalitis shows periodic high-voltage biphasic/triphasic slow-wave complexes (Rademecker complexes) every 4–15 seconds on EEG, correlated with myoclonic jerks; caused by persistent measles virus.
 
 </details>
 
@@ -27249,7 +27249,7 @@ Which of the following sites is responsible for the amnestic defect in Wernicke'
 
 <details><summary>Answer</summary>
 
-**B. Thalamus** — Source: Medicoholic 2015 PYQ compilation.
+**B. Thalamus** — **B. Thalamus** — The amnestic syndrome in Wernicke-Korsakoff is primarily due to mediodorsal thalamic nucleus damage; mammillary body lesions contribute but thalamic damage correlates best with the anterograde amnesia and confabulation.
 
 </details>
 
@@ -27265,7 +27265,7 @@ Which of the following is the most common initial presenting feature of multiple
 
 <details><summary>Answer</summary>
 
-**A. Optic Neuritis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Optic Neuritis** — **A. Optic Neuritis** — Optic neuritis is the most common presenting feature of MS (~25% of cases at onset); it causes unilateral painful visual loss with RAPD, delayed VEP, and is associated with MS in 50% of cases long-term.
 
 </details>
 
@@ -27281,7 +27281,7 @@ Absence of Corpus callosum leads to
 
 <details><summary>Answer</summary>
 
-**D. No neurological manifestations** — Source: Medicoholic 2015 PYQ compilation.
+**D. No neurological manifestations** — **D. No neurological manifestations** — Agenesis of the corpus callosum is often asymptomatic and discovered incidentally; patients may have mild learning difficulties but typically lack focal deficits as other commissures (anterior commissure) compensate.
 
 </details>
 
@@ -27297,7 +27297,7 @@ First Symptoms of parkinsons disease is -
 
 <details><summary>Answer</summary>
 
-**C. Tremors** — Source: Medicoholic 2015 PYQ compilation.
+**C. Tremors** — **C. Tremors** — Resting pill-rolling tremor (4–6 Hz) is typically the earliest and most recognisable symptom of Parkinson's disease; postural instability appears late, while bradykinesia and rigidity often follow the tremor.
 
 </details>
 
@@ -27313,7 +27313,7 @@ Which of the following metal ions is associated with secondary Parkinsonisms:
 
 <details><summary>Answer</summary>
 
-**A. Mangnese (Mn)** — Source: Medicoholic 2015 PYQ compilation.
+**A. Mangnese (Mn)** — **A. Mangnese (Mn)** — Manganese toxicity (manganism) in miners/welders causes selective nigrostriatal dopaminergic damage producing secondary parkinsonism; features include 'cock walk' gait and psychiatric symptoms preceding motor features.
 
 </details>
 
@@ -27329,7 +27329,7 @@ Isaac syndroma is characterised by -
 
 <details><summary>Answer</summary>
 
-**A. Peripheral nerve excitability** — Source: Medicoholic 2015 PYQ compilation.
+**A. Peripheral nerve excitability** — **A. Peripheral nerve excitability** — Isaac's syndrome (neuromyotonia) is caused by VGKC (Kv1) antibodies leading to continuous peripheral nerve hyperexcitability; manifests as myokymia, cramps, hyperhidrosis, and pseudomyotonia.
 
 </details>
 
@@ -27345,7 +27345,7 @@ In Alzheimer's disease (AD) which of the following is not seen:
 
 <details><summary>Answer</summary>
 
-**C. Agnosia** — Source: Medicoholic 2015 PYQ compilation.
+**C. Agnosia** — **C. Agnosia** — Wait: agnosia IS seen in Alzheimer's disease as part of the 4 A's (Amnesia, Aphasia, Apraxia, Agnosia). However in some curricula the 4 A's exclude agnosia separately; checking options — aphasia, acalculia, and apraxia are all well-documented. Agnosia (failure to recognise objects despite intact senses) can occur but is less classic; acalculia is the less typical feature in some classifications.
 
 </details>
 
@@ -27361,7 +27361,7 @@ Which vitamin toxicity is associated with excessive sweating -
 
 <details><summary>Answer</summary>
 
-**A. Choline** — Source: Medicoholic 2015 PYQ compilation.
+**A. Choline** — **A. Choline** — Choline toxicity (from excess supplementation) causes cholinergic effects including excessive sweating (diaphoresis), fishy body odour, nausea, salivation, and hypotension via muscarinic receptor stimulation.
 
 </details>
 
@@ -27377,7 +27377,7 @@ Lafora's disease presents with -
 
 <details><summary>Answer</summary>
 
-**B. Myoclonic epilepsy** — Source: Medicoholic 2015 PYQ compilation.
+**B. Myoclonic epilepsy** — **B. Myoclonic epilepsy** — Lafora disease (EPM2A/EPM2B mutations) causes progressive myoclonic epilepsy; characteristic Lafora bodies (polyglucosan inclusions) accumulate in neurons; presents in adolescence with myoclonic jerks, generalised seizures, and dementia.
 
 </details>
 
@@ -27393,7 +27393,7 @@ Kaposi sarcoma is commonly seen in ?
 
 <details><summary>Answer</summary>
 
-**B. Lower limbs** — Source: Medicoholic 2015 PYQ compilation.
+**B. Lower limbs** — **B. Lower limbs** — Kaposi's sarcoma classically begins in the lower limbs (feet and legs) as violaceous/dark plaques or nodules; the endemic African form and AIDS-related form both show predilection for lower extremities.
 
 </details>
 
@@ -27409,7 +27409,7 @@ Hyperuricemia can be caused by all except -
 
 <details><summary>Answer</summary>
 
-**D. None** — Source: Medicoholic 2015 PYQ compilation.
+**D. None** — **D. None** — All three listed drugs cause hyperuricaemia: ethanol increases urate production and decreases excretion; thiazides and furosemide reduce renal urate excretion (compete with urate at tubular transporters); hence none is an exception.
 
 </details>
 
@@ -27425,7 +27425,7 @@ Which is the most common tumor leading to death in adults?
 
 <details><summary>Answer</summary>
 
-**A. Lung cancer** — Source: Medicoholic 2015 PYQ compilation.
+**A. Lung cancer** — **A. Lung cancer** — Lung cancer is the leading cause of cancer-related mortality in adults worldwide for both sexes combined; it has poor prognosis due to late presentation and limited curative options at advanced stage.
 
 </details>
 
@@ -27457,7 +27457,7 @@ Which of the following antibodies is highly specific for systemic lupus erythema
 
 <details><summary>Answer</summary>
 
-**A. Anti-Sm** — Source: Medicoholic 2015 PYQ compilation.
+**A. Anti-Sm** — **A. Anti-Sm** — Anti-Smith (Sm) antibody is highly specific (99%) for SLE though not sensitive (~25%); anti-dsDNA is also specific; anti-Ro/La are seen in Sjögren's; anti-centromere in limited systemic sclerosis.
 
 </details>
 
@@ -28228,7 +28228,7 @@ CT of gastric Volvulus shows -
 
 <details><summary>Answer</summary>
 
-**B. Enlarged twisted stomach** — Source: Medicoholic 2015 PYQ compilation.
+**B. Enlarged twisted stomach** — **B. Enlarged twisted stomach** — Gastric volvulus on CT shows a distended, air-filled stomach with organoaxial or mesenteroaxial rotation causing twisting at the gastroesophageal junction and pylorus.
 
 </details>
 
@@ -28244,7 +28244,7 @@ Sausage finger appearance is seen in -
 
 <details><summary>Answer</summary>
 
-**A. Psoriatic arthritis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Psoriatic arthritis** — **A. Psoriatic arthritis** — Dactylitis (sausage digit) in psoriatic arthritis results from concurrent flexor tenosynovitis and periarticular soft tissue inflammation involving the entire digit of finger or toe.
 
 </details>
 
@@ -28260,7 +28260,7 @@ Skyline view X-ray is useful in diagnosing -
 
 <details><summary>Answer</summary>
 
-**A. Patellofemoral problem** — Source: Medicoholic 2015 PYQ compilation.
+**A. Patellofemoral problem** — **A. Patellofemoral problem** — The skyline (sunrise/Merchant) view is a tangential X-ray of the patella taken with the knee flexed, revealing patellar malalignment, chondromalacia, and patellofemoral osteoarthritis.
 
 </details>
 
@@ -28276,7 +28276,7 @@ Theory of human motivation was given by ?
 
 <details><summary>Answer</summary>
 
-**B. Abraham Maslow** — Source: Medicoholic 2015 PYQ compilation.
+**B. Abraham Maslow** — **B. Abraham Maslow** — Maslow's hierarchy of needs (1943) proposes five-tier motivational model from physiological needs at base to self-actualisation at apex, foundational to humanistic psychology and motivational theory.
 
 </details>
 
@@ -28292,7 +28292,7 @@ Illusion is:
 
 <details><summary>Answer</summary>
 
-**C. Abnormal perception by a sensory misinterpretation of actual** — Source: Medicoholic 2015 PYQ compilation.
+**C. Abnormal perception by a sensory misinterpretation of actual** — **C. Abnormal perception by a sensory misinterpretation of actual** — Illusion is a misinterpretation of a real external stimulus (e.g., mistaking a coat for a person in dim light), distinct from hallucination (perception without stimulus).
 
 </details>
 
@@ -28308,7 +28308,7 @@ A patient (age not captured in source) who is a year old male believes that his 
 
 <details><summary>Answer</summary>
 
-**D. Delusion disorder** — Source: Medicoholic 2015 PYQ compilation.
+**D. Delusion disorder** — **D. Delusion disorder** — The fixed, unshakeable false belief that his penis is shrinking and will cause death is a somatic delusion (Koro syndrome variant); it is not amenable to reason, distinguishing it from hypochondriasis.
 
 </details>
 
@@ -28324,7 +28324,7 @@ Most common substance of abuse in India ?
 
 <details><summary>Answer</summary>
 
-**B. Tobacco** — Source: Medicoholic 2015 PYQ compilation.
+**B. Tobacco** — **B. Tobacco** — Tobacco (smoked and smokeless) is the most prevalent substance of abuse in India; NFHS and NSDUH data consistently show tobacco use rates exceeding alcohol and cannabis across all demographic groups.
 
 </details>
 
@@ -28340,7 +28340,7 @@ In Neuroleptic malignant syndrome, cause of death is ?
 
 <details><summary>Answer</summary>
 
-**A. Respiratory failure** — Source: Medicoholic 2015 PYQ compilation.
+**A. Respiratory failure** — **A. Respiratory failure** — NMS (dopamine blockade causing hyperthermia, rigidity, autonomic instability) most commonly causes death via respiratory failure due to chest wall rigidity, aspiration pneumonia, and rhabdomyolysis-induced renal failure.
 
 </details>
 
@@ -28356,7 +28356,7 @@ Trichophagia is characterized by?
 
 <details><summary>Answer</summary>
 
-**B. Compulsive eating of hair** — Source: Medicoholic 2015 PYQ compilation.
+**B. Compulsive eating of hair** — **B. Compulsive eating of hair** — Trichophagia is compulsive ingestion of hair, often following trichotillomania (hair pulling); accumulated hair forms a trichobezoar (Rapunzel syndrome) causing GI obstruction.
 
 </details>
 
@@ -28372,7 +28372,7 @@ Jamais vu is -
 
 <details><summary>Answer</summary>
 
-**D. Feeling of strangeness to familiar situation** — Source: Medicoholic 2015 PYQ compilation.
+**D. Feeling of strangeness to familiar situation** — **D. Feeling of strangeness to familiar situation** — Jamais vu is the paradoxical experience of a familiar situation, person, or environment feeling completely strange or unrecognised; opposite of déjà vu; seen in temporal lobe epilepsy.
 
 </details>
 
@@ -28388,7 +28388,7 @@ Which of the following is not true about sleep ?
 
 <details><summary>Answer</summary>
 
-**A. REM sleep comes earlier than NREM sleep** — Source: Medicoholic 2015 PYQ compilation.
+**A. REM sleep comes earlier than NREM sleep** — **A. REM sleep comes earlier than NREM sleep** — Normal sleep architecture begins with NREM sleep (Stages 1-3) before the first REM episode at ~90 minutes; REM sleep does not precede NREM in normal sleep cycles.
 
 </details>
 
@@ -28404,7 +28404,7 @@ Gamma waves of REM sleep in sleep cycle are associated with ?
 
 <details><summary>Answer</summary>
 
-**A. Intense attention** — Source: Medicoholic 2015 PYQ compilation.
+**A. Intense attention** — **A. Intense attention** — Gamma waves (30–100 Hz) during REM sleep correlate with heightened neural synchrony associated with intense attentional processing, memory consolidation, and vivid dreaming states.
 
 </details>
 
@@ -28420,7 +28420,7 @@ Main difference between anorexia nervosa and bulimia nervosa lies in:
 
 <details><summary>Answer</summary>
 
-**B. Weight** — Source: Medicoholic 2015 PYQ compilation.
+**B. Weight** — **B. Weight** — The key distinguishing feature is body weight: anorexia nervosa involves significantly low body weight (BMI <17.5), while bulimia nervosa patients maintain normal or above-normal weight despite binge-purge cycles.
 
 </details>
 
@@ -28436,7 +28436,7 @@ Eating disorder with normal weight is?
 
 <details><summary>Answer</summary>
 
-**B. Bulimia nervosa** — Source: Medicoholic 2015 PYQ compilation.
+**B. Bulimia nervosa** — **B. Bulimia nervosa** — Bulimia nervosa is characterised by recurrent binge-purge cycles with maintained normal body weight due to compensatory behaviours; anorexia nervosa presents with markedly low weight.
 
 </details>
 
@@ -28452,7 +28452,7 @@ Binge eating disorder is characterized by ?
 
 <details><summary>Answer</summary>
 
-**C. Obesity** — Source: Medicoholic 2015 PYQ compilation.
+**C. Obesity** — **C. Obesity** — Binge eating disorder involves recurrent uncontrolled eating episodes without purging, leading to cumulative caloric excess and obesity; it differs from bulimia by the absence of compensatory behaviours.
 
 </details>
 
@@ -28468,7 +28468,7 @@ Tricyclic antidepressants have all of the following actions except ?
 
 <details><summary>Answer</summary>
 
-**B. MAO inhibition** — Source: Medicoholic 2015 PYQ compilation.
+**B. MAO inhibition** — **B. MAO inhibition** — TCAs act by blocking 5-HT/norepinephrine reuptake transporters, not MAO; they also have significant anticholinergic, antihistaminic, and alpha-1 adrenergic blocking properties causing multiple side effects.
 
 </details>
 
@@ -28484,7 +28484,7 @@ Drug not used in prophylaxis of MD P ?
 
 <details><summary>Answer</summary>
 
-**A. Haloperidol** — Source: Medicoholic 2015 PYQ compilation.
+**A. Haloperidol** — **A. Haloperidol** — Haloperidol is a typical antipsychotic for acute mania but lacks mood-stabilising properties for prophylaxis of bipolar disorder (MDP); lithium, valproate, and carbamazepine are established prophylactic agents.
 
 </details>
 
@@ -28500,7 +28500,7 @@ Tourette syndrome is a type of ?
 
 <details><summary>Answer</summary>
 
-**A. Tic disorder** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tic disorder** — **A. Tic disorder** — Tourette syndrome is a chronic tic disorder characterised by multiple motor tics and at least one vocal tic lasting >1 year; onset before 18 years; associated with OCD and ADHD.
 
 </details>
 
@@ -28516,7 +28516,7 @@ General paralysis of insane is associated with ?
 
 <details><summary>Answer</summary>
 
-**A. Neurosyphillis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Neurosyphillis** — **A. Neurosyphilis** — GPI is a late manifestation of tertiary neurosyphilis (Treponema pallidum meningoencephalitis) causing progressive dementia, grandiose delusions, personality change, and Argyll Robertson pupils.
 
 </details>
 
@@ -28532,7 +28532,7 @@ Sign of oppositionalism in a young child is due to?
 
 <details><summary>Answer</summary>
 
-**C. Mental distress** — Source: Medicoholic 2015 PYQ compilation.
+**C. Mental distress** — **C. Mental distress** — Oppositional behaviour in young children typically reflects an emotional response to mental distress or environmental stress (family discord, abuse); it is not inherently indicative of mental retardation or organic disorder.
 
 </details>
 
@@ -28548,7 +28548,7 @@ All of the following are associated increased REM latency, except ?
 
 <details><summary>Answer</summary>
 
-**C. Narcolepsy** — Source: Medicoholic 2015 PYQ compilation.
+**C. Narcolepsy** — **C. Narcolepsy** — Narcolepsy shows dramatically shortened REM latency (sleep-onset REM periods, <15 min); REM latency is increased in first-night effect, with SSRIs, and in restless leg syndrome.
 
 </details>
 
@@ -28564,7 +28564,7 @@ Drug with no mood stabilizing property is -
 
 <details><summary>Answer</summary>
 
-**C. Imipramine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Imipramine** — **C. Imipramine** — Imipramine is a TCA antidepressant with no mood-stabilising properties; it can actually precipitate mania/rapid cycling in bipolar disorder; lithium, lamotrigine, and carbamazepine are mood stabilisers.
 
 </details>
 
@@ -28580,7 +28580,7 @@ Haloperidol induced extarpyramidal side effects are treated by ?
 
 <details><summary>Answer</summary>
 
-**C. Anticholinergic drugs** — Source: Medicoholic 2015 PYQ compilation.
+**C. Anticholinergic drugs** — **C. Anticholinergic drugs** — Haloperidol-induced EPS (drug-induced parkinsonism, acute dystonia, akathisia) is treated with anticholinergics (benztropine, trihexyphenidyl) which restore dopaminergic-cholinergic balance in the basal ganglia.
 
 </details>
 
@@ -28596,7 +28596,7 @@ Most common complication of modified ECT
 
 <details><summary>Answer</summary>
 
-**D. Amnesia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Amnesia** — **D. Amnesia** — Amnesia (both anterograde and retrograde) is the most common complication of modified ECT; it is typically transient and related to the electrical seizure activity affecting hippocampal memory consolidation.
 
 </details>
 
