@@ -4682,7 +4682,7 @@ ECF concentration of 1C. is 150 meq/L and ICF concentration of le is 5 meq/L. Wh
 
 <details><summary>Answer</summary>
 
-**C. -90 mV** — Source: Medicoholic 2016 PYQ compilation.
+**C. -90 mV** — **C. -90 mV** — Nernst equation: E_K = 61 × log(5/150) ≈ 61 × log(1/30) ≈ -90 mV; K+ equilibrium potential is the resting membrane potential of most cells.
 
 </details>
 
@@ -5798,7 +5798,7 @@ Exercise mediated increase in muscular blood flow is mediated by which sympathet
 
 <details><summary>Answer</summary>
 
-**D. Cholinergic** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cholinergic** — **D. Cholinergic** — Sympathetic cholinergic vasodilator fibers innervate skeletal muscle arterioles, causing vasodilation at the start of exercise (anticipatory response); exception to typical adrenergic sympathetic outflow.
 
 </details>
 
@@ -13244,7 +13244,7 @@ Mechanism of action of 5-a reductase?
 
 <details><summary>Answer</summary>
 
-**A. Breakage of C4C5 double bond** — Source: Medicoholic 2016 PYQ compilation.
+**A. Breakage of C4C5 double bond** — **A. Breakage of C4C5 double bond** — 5-alpha reductase reduces (breaks) the C4-C5 double bond in testosterone to form dihydrotestosterone (DHT), the more potent androgen; inhibited by finasteride/dutasteride in BPH.
 
 </details>
 
@@ -13262,7 +13262,7 @@ Oxybutynin acts by ?
 
 <details><summary>Answer</summary>
 
-**B. Muscarinic rece8ptor antagonist** — Source: Medicoholic 2016 PYQ compilation.
+**B. Muscarinic rece8ptor antagonist** — **B. Muscarinic rece8ptor antagonist** — Oxybutynin is an antimuscarinic agent (M3-selective) used for overactive bladder; inhibits detrusor contractions; side effects: dry mouth, constipation, blurred vision.
 
 </details>
 
@@ -18167,7 +18167,7 @@ Definitive surgery is a part of which stage of damage control surgery?
 
 <details><summary>Answer</summary>
 
-**D. IV** — Source: Medicoholic 2016 PYQ compilation.
+**D. IV** — **D. IV** — Damage control surgery stages: I-resuscitation/decision, II-initial damage control laparotomy (control hemorrhage/contamination), III-ICU stabilization, IV-definitive surgery and reconstruction once physiology restored.
 
 </details>
 
@@ -22394,7 +22394,7 @@ A 21-year-old female presents to emergency ward with 2 months of amenorrhea with
 
 <details><summary>Answer</summary>
 
-**B. IV fluids & cross match** — Source: Medicoholic 2016 PYQ compilation.
+**B. IV fluids & cross match** — **B. IV fluids & cross match** — Ruptured ectopic pregnancy with hemodynamic shock (BP 90/60, Hb 6): immediate resuscitation with IV fluids and blood cross-match comes first before emergency laparotomy.
 
 </details>
 
@@ -31517,7 +31517,7 @@ Which of the following is not a feature of dermatomyositis?
 
 <details><summary>Answer</summary>
 
-**D. Groove sign** — Source: Medicoholic 2016 PYQ compilation.
+**D. Groove sign** — **D. Groove sign** — Dermatomyositis features: V-sign, shawl sign, holster sign, Gottron's papules, heliotrope rash, poikiloderma, mechanic's hands; groove sign is feature of onchocerciasis/scleroderma, not DM.
 
 </details>
 

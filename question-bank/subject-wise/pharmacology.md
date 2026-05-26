@@ -1944,7 +1944,7 @@ Not true about Vi polysaccharide vaccine of typhoid:
 
 <details><summary>Answer</summary>
 
-**C. Given at birth** — Source: Medicoholic 2015 PYQ compilation.
+**C. Given at birth** — **C. Given at birth** — Vi capsular polysaccharide typhoid vaccine: single SC/IM dose, given after 2 years of age, revaccination every 3 years; not given at birth as response is poor in infants.
 
 </details>
 
@@ -1962,7 +1962,7 @@ Ehrlichia phagocytophila mainly affects -
 
 <details><summary>Answer</summary>
 
-**C. Neutrophils** — Source: Medicoholic 2015 PYQ compilation.
+**C. Neutrophils** — **C. Neutrophils** — Anaplasma (formerly Ehrlichia) phagocytophilum causes human granulocytic anaplasmosis, infecting neutrophils and forming morulae (intracytoplasmic inclusions); transmitted by Ixodes tick.
 
 </details>
 
@@ -1980,7 +1980,7 @@ Not true about corynebacterium hormannii
 
 <details><summary>Answer</summary>
 
-**C. Toxigenic** — Source: Medicoholic 2015 PYQ compilation.
+**C. Toxigenic** — **C. Toxigenic** — Corynebacterium hofmannii (C. pseudodiphtheriticum) is a non-pathogenic diphtheroid commensal of the upper respiratory tract; non-toxigenic, unlike C. diphtheriae.
 
 </details>
 
@@ -1998,7 +1998,7 @@ Heating at 60°C for 30 minute would isolate:
 
 <details><summary>Answer</summary>
 
-**B. Enterococci** — Source: Medicoholic 2015 PYQ compilation.
+**B. Enterococci** — **B. Enterococci** — Enterococci are heat-resistant (survive 60°C for 30 minutes) and bile-tolerant (40% bile); these properties differentiate them from other Streptococci on selective media.
 
 </details>
 
@@ -2016,7 +2016,7 @@ Most common mode of transmission of HIV sexual transmission:
 
 <details><summary>Answer</summary>
 
-**A. Blood & blood products** — Source: Medicoholic 2015 PYQ compilation.
+**A. Blood & blood products** — **A. Blood & blood products** — After sexual transmission (most common globally), blood/blood products are next most efficient route; perinatal and breastfeeding follow; occupational risk is lowest.
 
 </details>
 
@@ -2034,7 +2034,7 @@ Which viral gene acts as carcinogen in causing carcinoma cervix -
 
 <details><summary>Answer</summary>
 
-**B. E - gene** — Source: Medicoholic 2015 PYQ compilation.
+**B. E - gene** — **B. E - gene** — HPV oncogenes E6 and E7 cause cervical cancer: E6 inactivates p53, E7 binds Rb (releases E2F), leading to uncontrolled proliferation and malignant transformation.
 
 </details>
 
@@ -2052,7 +2052,7 @@ True about influenza vaccine:
 
 <details><summary>Answer</summary>
 
-**B. Live vaccine is given by nasal drops** — Source: Medicoholic 2015 PYQ compilation.
+**B. Live vaccine is given by nasal drops** — **B. Live vaccine is given by nasal drops** — Live attenuated influenza vaccine (LAIV) is administered intranasally; killed (inactivated) influenza vaccine is given IM in deltoid; both are seasonal.
 
 </details>
 
@@ -2070,7 +2070,7 @@ Integration of viral genome into host cell chromosome can leads to -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Viral genome integration into host DNA causes latency (HIV, herpes), malignancy (HPV, HTLV-1, HBV), and altered cellular growth via oncogene activation/tumor suppressor inactivation.
 
 </details>
 
@@ -2088,7 +2088,7 @@ HTLV-1 can be transmitted by -
 
 <details><summary>Answer</summary>
 
-**A. Blood transfusion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Blood transfusion** — **A. Blood transfusion** — HTLV-1 transmitted via blood transfusion, sexual contact, breastfeeding (mother-to-child); causes adult T-cell leukemia/lymphoma and tropical spastic paraparesis.
 
 </details>
 
@@ -2106,7 +2106,7 @@ Trypanosoma cruzi is transmitted by:
 
 <details><summary>Answer</summary>
 
-**A. Tse tse fly** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tse tse fly** — **A. Tse tse fly** — Trypanosoma cruzi (Chagas disease) is transmitted by reduviid (kissing) bug; T. brucei (African sleeping sickness) by tsetse fly. Answer key states A but correct is reduviid bug.
 
 </details>
 
@@ -2124,7 +2124,7 @@ Amoebiasis is not transmitted by:
 
 <details><summary>Answer</summary>
 
-**D. Vector transmission** — Source: Medicoholic 2015 PYQ compilation.
+**D. Vector transmission** — **D. Vector transmission** — Entamoeba histolytica transmitted by feco-oral route via contaminated food/water; also sexual (oral-anal) and rarely blood; no insect vector involved.
 
 </details>
 
@@ -2142,7 +2142,7 @@ Recrudescences are commonly seen in which malaria:
 
 <details><summary>Answer</summary>
 
-**D. P falciparum** — Source: Medicoholic 2015 PYQ compilation.
+**D. P falciparum** — **D. P falciparum** — Recrudescence (recurrence due to persistent low-level erythrocytic parasites) seen in P. falciparum and P. malariae; relapse (from hypnozoites) seen in P. vivax and P. ovale.
 
 </details>
 
@@ -2160,7 +2160,7 @@ River blindness is caused by -
 
 <details><summary>Answer</summary>
 
-**A. Onchocerca** — Source: Medicoholic 2015 PYQ compilation.
+**A. Onchocerca** — **A. Onchocerca** — Onchocerca volvulus causes onchocerciasis (river blindness); transmitted by Simulium blackfly near fast-flowing rivers; microfilariae invade eye causing keratitis and blindness.
 
 </details>
 
@@ -2178,7 +2178,7 @@ True about VDRL test -
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2015 PYQ compilation.
+**D. All** — **D. All** — VDRL is a non-specific (non-treponemal) slide flocculation test for syphilis; titer follows therapy response and decreases with successful treatment; uses cardiolipin antigen.
 
 </details>
 
@@ -2196,7 +2196,7 @@ Weil felix reaction in scrub typhus is/are positive for:
 
 <details><summary>Answer</summary>
 
-**D. OX -K** — Source: Medicoholic 2015 PYQ compilation.
+**D. OX -K** — **D. OX -K** — Weil-Felix reaction in scrub typhus (Orientia tsutsugamushi) shows agglutination with Proteus OX-K strain; OX-19/OX-2 positive in epidemic and endemic typhus.
 
 </details>
 
@@ -2214,7 +2214,7 @@ Primory T-cell deficiency is -
 
 <details><summary>Answer</summary>
 
-**C. DiGeorge syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**C. DiGeorge syndrome** — **C. DiGeorge syndrome** — DiGeorge syndrome (22q11.2 deletion) causes thymic aplasia and pure T-cell deficiency; features include CATCH-22 (cardiac, abnormal facies, thymic hypoplasia, cleft palate, hypocalcemia).
 
 </details>
 
@@ -2232,7 +2232,7 @@ Oakley - fulthorpe procedure is -
 
 <details><summary>Answer</summary>
 
-**A. Agglutination test** — Source: Medicoholic 2015 PYQ compilation.
+**A. Agglutination test** — **A. Agglutination test** — Oakley-Fulthorpe is double diffusion in two dimensions (immunodiffusion/precipitation method). Answer key marks A but classically it is a precipitation/immunodiffusion test.
 
 </details>
 
@@ -2250,7 +2250,7 @@ The serum concentration of which of the following human IgG subclass is maximum 
 
 <details><summary>Answer</summary>
 
-**A. IgG 1** — Source: Medicoholic 2015 PYQ compilation.
+**A. IgG 1** — **A. IgG 1** — IgG1 has highest serum concentration (~65% of total IgG), followed by IgG2 (25%), IgG3 (6%), and IgG4 (4%); IgG1/3 cross placenta most efficiently.
 
 </details>
 
@@ -2268,7 +2268,7 @@ Which of the following is not an in vivo test ?
 
 <details><summary>Answer</summary>
 
-**A. Elek's gel precipitation test** — Source: Medicoholic 2015 PYQ compilation.
+**A. Elek's gel precipitation test** — **A. Elek's gel precipitation test** — Elek's test is in-vitro double gel diffusion to detect diphtheria toxin; Schick (diphtheria immunity), Lepromin (leprosy), and Tuberculin (TB) are all in-vivo skin tests.
 
 </details>
 
@@ -2286,7 +2286,7 @@ Morula form is seen in which infection ?
 
 <details><summary>Answer</summary>
 
-**D. Ehrlichia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ehrlichia** — **D. Ehrlichia** — Ehrlichia/Anaplasma form characteristic intracytoplasmic inclusion bodies called morulae (mulberry-shaped clusters) within monocytes (HME) or neutrophils (HGA).
 
 </details>
 
@@ -2304,7 +2304,7 @@ Drug of choice for Mass therapy under filaria control Programme ?
 
 <details><summary>Answer</summary>
 
-**C. DEC** — Source: Medicoholic 2015 PYQ compilation.
+**C. DEC** — **C. DEC** — Diethylcarbamazine (DEC) is the drug of choice for mass drug administration in filaria elimination programme; often combined with albendazole; kills microfilariae and adult worms.
 
 </details>
 
@@ -2322,7 +2322,7 @@ Drug of choice for plasmodium vivax is:
 
 <details><summary>Answer</summary>
 
-**B. Chloroquine** — Source: Medicoholic 2015 PYQ compilation.
+**B. Chloroquine** — **B. Chloroquine** — Chloroquine is DOC for blood-stage P. vivax (erythrocytic schizonts); primaquine added for radical cure to eradicate hepatic hypnozoites and prevent relapse.
 
 </details>
 
@@ -2340,7 +2340,7 @@ Drug NOT used in pulmonary hypertension ‑
 
 <details><summary>Answer</summary>
 
-**C. Alpha blocker** — Source: Medicoholic 2015 PYQ compilation.
+**C. Alpha blocker** — **C. Alpha blocker** — Pulmonary hypertension drugs: CCBs (high-dose nifedipine), endothelin antagonists (bosentan), prostacyclins (epoprostenol), PDE-5 inhibitors (sildenafil); alpha blockers not used.
 
 </details>
 
@@ -2358,7 +2358,7 @@ All are used for secondary prevention of MI except
 
 <details><summary>Answer</summary>
 
-**D. Warfarin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Warfarin** — **D. Warfarin** — Secondary prevention of MI: ABCDE — Aspirin, Beta-blockers, Cholesterol (statins), Diet/Diabetes, Exercise/ACE inhibitors; warfarin not routinely indicated unless AF/LV thrombus.
 
 </details>
 
@@ -2376,7 +2376,7 @@ All of the following are characteristic features of treatment of iron deficiency
 
 <details><summary>Answer</summary>
 
-**D. The treatment should be discontinued immediately once** — Source: Medicoholic 2015 PYQ compilation.
+**D. The treatment should be discontinued immediately once** — **D. The treatment should be discontinued immediately once** — Oral iron must be continued 3-6 months after hemoglobin normalizes to replenish iron stores; abrupt discontinuation causes recurrence.
 
 </details>
 
@@ -2394,7 +2394,7 @@ Which one of the following is correct regarding Eaton-Lambert syndrome-
 
 <details><summary>Answer</summary>
 
-**C. Repeated electrical stimulation enhances muscle power in it.** — Source: Medicoholic 2015 PYQ compilation.
+**C. Repeated electrical stimulation enhances muscle power in it.** — **C. Repeated electrical stimulation enhances muscle power in it.** — Lambert-Eaton: presynaptic VGCC antibodies; repetitive stimulation causes incremental response (post-tetanic facilitation), opposite to myasthenia gravis; associated with small cell lung cancer.
 
 </details>
 
@@ -2412,7 +2412,7 @@ Drug of choice for bubos in a pregnant female is ?
 
 <details><summary>Answer</summary>
 
-**D. Erythromycin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Erythromycin** — **D. Erythromycin** — Bubo in pregnancy (LGV, chlamydia): erythromycin is safe DOC; tetracycline/doxycycline contraindicated (tooth discoloration, bone effects); azithromycin is alternative.
 
 </details>
 
@@ -2430,7 +2430,7 @@ Mechanism of action of duloxetine is ?
 
 <details><summary>Answer</summary>
 
-**C. Selective inhibition of both serotonin and nor-epinephrine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Selective inhibition of both serotonin and nor-epinephrine** — **C. Selective inhibition of both serotonin and nor-epinephrine** — Duloxetine is an SNRI (serotonin-norepinephrine reuptake inhibitor) used in depression, generalized anxiety, diabetic neuropathy, and fibromyalgia.
 
 </details>
 
@@ -2451,7 +2451,7 @@ Mechanism of action of 5-a reductase?
 
 <details><summary>Answer</summary>
 
-**A. Breakage of C4C5 double bond** — Source: Medicoholic 2016 PYQ compilation.
+**A. Breakage of C4C5 double bond** — **A. Breakage of C4C5 double bond** — 5-alpha reductase reduces (breaks) the C4-C5 double bond in testosterone to form dihydrotestosterone (DHT), the more potent androgen; inhibited by finasteride/dutasteride in BPH.
 
 </details>
 
@@ -2471,7 +2471,7 @@ Oxybutynin acts by ?
 
 <details><summary>Answer</summary>
 
-**B. Muscarinic rece8ptor antagonist** — Source: Medicoholic 2016 PYQ compilation.
+**B. Muscarinic rece8ptor antagonist** — **B. Muscarinic rece8ptor antagonist** — Oxybutynin is an antimuscarinic agent (M3-selective) used for overactive bladder; inhibits detrusor contractions; side effects: dry mouth, constipation, blurred vision.
 
 </details>
 

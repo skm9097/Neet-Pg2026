@@ -2443,7 +2443,7 @@ Arch of aorta begins and ends at which level:
 
 <details><summary>Answer</summary>
 
-**C. T4** — Source: Medicoholic 2015 PYQ compilation.
+**C. T4** — **C. T4** — Arch of aorta begins at the sternal angle (manubriosternal joint) at T4-T5 disc level and ends at the same level on the left side, forming a U-shape.
 
 </details>
 
@@ -2461,7 +2461,7 @@ Which among the following is NOT a branch of Arch of Aorta?
 
 <details><summary>Answer</summary>
 
-**B. Right common carotid** — Source: Medicoholic 2015 PYQ compilation.
+**B. Right common carotid** — **B. Right common carotid** — Three branches of arch: brachiocephalic, left common carotid, left subclavian; right common carotid arises from brachiocephalic trunk, not directly from arch.
 
 </details>
 
@@ -2479,7 +2479,7 @@ Intercostal nerve is a branch of ?
 
 <details><summary>Answer</summary>
 
-**C. Ventral rami of thoracic spinal nerves** — Source: Medicoholic 2015 PYQ compilation.
+**C. Ventral rami of thoracic spinal nerves** — **C. Ventral rami of thoracic spinal nerves** — Intercostal nerves (T1-T11) are anterior/ventral rami of thoracic spinal nerves; T12 is subcostal; they supply intercostal muscles and overlying skin.
 
 </details>
 
@@ -2497,7 +2497,7 @@ Distance of cricopharynx from incisor teeth
 
 <details><summary>Answer</summary>
 
-**A. 15 cm** — Source: Medicoholic 2015 PYQ compilation.
+**A. 15 cm** — **A. 15 cm** — Cricopharyngeus (upper esophageal sphincter, at C6) lies 15 cm from the incisor teeth; this is the narrowest part of the esophagus.
 
 </details>
 
@@ -2515,7 +2515,7 @@ Anterior part of interventricular septum is supplied by -
 
 <details><summary>Answer</summary>
 
-**B. Left coronary artery** — Source: Medicoholic 2015 PYQ compilation.
+**B. Left coronary artery** — **B. Left coronary artery** — Anterior two-thirds of interventricular septum supplied by septal branches of LAD (a branch of left coronary); posterior 1/3 by PDA from RCA.
 
 </details>
 
@@ -2533,7 +2533,7 @@ All veins open in sinus venarum except -
 
 <details><summary>Answer</summary>
 
-**D. Small cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+**D. Small cardiac vein** — **D. Small cardiac vein** — Sinus venarum (smooth part of right atrium) receives SVC, IVC, and coronary sinus; small cardiac vein drains into coronary sinus, not directly into sinus venarum.
 
 </details>
 
@@ -2551,7 +2551,7 @@ True about atrioventricular groove are all except ?
 
 <details><summary>Answer</summary>
 
-**A. Contains left anterior descending coronary artery** — Source: Medicoholic 2015 PYQ compilation.
+**A. Contains left anterior descending coronary artery** — **A. Contains left anterior descending coronary artery** — AV (coronary) sulcus contains RCA, circumflex artery, and coronary sinus; LAD lies in the anterior interventricular groove, not AV groove.
 
 </details>
 
@@ -2569,7 +2569,7 @@ Which vein is found at the apex of the heart ?
 
 <details><summary>Answer</summary>
 
-**A. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Great cardiac vein** — **A. Great cardiac vein** — Great cardiac vein begins at the apex, ascends in the anterior interventricular groove alongside LAD, then drains into the coronary sinus.
 
 </details>
 
@@ -2587,7 +2587,7 @@ Which of the following does not directly drain into right atrium ?
 
 <details><summary>Answer</summary>
 
-**A. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Great cardiac vein** — **A. Great cardiac vein** — Great cardiac vein drains into the coronary sinus, which then drains into the right atrium; others (anterior cardiac, Thebesian, venae cordis minimi) drain directly.
 
 </details>
 
@@ -2605,7 +2605,7 @@ Tributary of coronary sinus ?
 
 <details><summary>Answer</summary>
 
-**D. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+**D. Great cardiac vein** — **D. Great cardiac vein** — Coronary sinus tributaries: great, middle, small cardiac veins, posterior vein of LV, and oblique vein of Marshall; anterior cardiac veins drain directly into RA.
 
 </details>
 
@@ -2623,7 +2623,7 @@ Which are segments of upper lobe of right lung ?
 
 <details><summary>Answer</summary>
 
-**C. Apical, anterior, posterior** — Source: Medicoholic 2015 PYQ compilation.
+**C. Apical, anterior, posterior** — **C. Apical, anterior, posterior** — Right upper lobe has three bronchopulmonary segments: apical, anterior, and posterior; left upper lobe has apicoposterior, anterior, and lingular segments.
 
 </details>
 
@@ -2641,7 +2641,7 @@ What is the uppermost structure in left lung hilum?
 
 <details><summary>Answer</summary>
 
-**A. Pulmonary artery** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pulmonary artery** — **A. Pulmonary artery** — Left lung hilum mnemonic 'PABV' from above downwards: Pulmonary artery (top), Bronchus, then pulmonary veins; on right, bronchus is uppermost (eparterial).
 
 </details>
 
@@ -2659,7 +2659,7 @@ Base of the heart is formed by ?
 
 <details><summary>Answer</summary>
 
-**C. Left atrium** — Source: Medicoholic 2015 PYQ compilation.
+**C. Left atrium** — **C. Left atrium** — Base of heart (posterior surface) is formed mainly by the left atrium with pulmonary vein openings; a small contribution from right atrium; faces the vertebral column.
 
 </details>
 
@@ -2677,7 +2677,7 @@ Right border of heart is formed by ?
 
 <details><summary>Answer</summary>
 
-**B. Right atrium** — Source: Medicoholic 2015 PYQ compilation.
+**B. Right atrium** — **B. Right atrium** — Right border of heart is formed entirely by the right atrium; extends from the right 3rd costal cartilage to the right 6th costal cartilage on the sternum.
 
 </details>
 
@@ -2695,7 +2695,7 @@ Sensory supply to tongue is by all, EXCEPT?
 
 <details><summary>Answer</summary>
 
-**D. None of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. None of the above** — **D. None of the above** — Tongue sensory: anterior 2/3 general by lingual (V3), taste by chorda tympani (VII); posterior 1/3 by glossopharyngeal (IX); posterior-most by vagus (X).
 
 </details>
 
@@ -2713,7 +2713,7 @@ Internal anal sphincter is a apart of:
 
 <details><summary>Answer</summary>
 
-**D. Internal circular fibers** — Source: Medicoholic 2015 PYQ compilation.
+**D. Internal circular fibers** — **D. Internal circular fibers** — Internal anal sphincter is an involuntary thickening of the inner circular smooth muscle layer of the rectum; external sphincter is voluntary skeletal muscle.
 
 </details>
 
@@ -2731,7 +2731,7 @@ Shortest part of male urethra is :
 
 <details><summary>Answer</summary>
 
-**B. Membranous** — Source: Medicoholic 2015 PYQ compilation.
+**B. Membranous** — **B. Membranous** — Membranous urethra is shortest (~1.5–2 cm), passing through urogenital diaphragm; narrowest and least dilatable; prone to injury in pelvic fracture.
 
 </details>
 
@@ -2749,7 +2749,7 @@ Posterior relation of neck of pancreas ?
 
 <details><summary>Answer</summary>
 
-**B. Origin of postal vein** — Source: Medicoholic 2015 PYQ compilation.
+**B. Origin of postal vein** — **B. Origin of postal vein** — Portal vein forms posterior to the neck of pancreas by union of superior mesenteric and splenic veins; this is a key surgical landmark.
 
 </details>
 
@@ -2767,7 +2767,7 @@ The right suprarenal vein drains into the
 
 <details><summary>Answer</summary>
 
-**A. Inferior vena cava** — Source: Medicoholic 2015 PYQ compilation.
+**A. Inferior vena cava** — **A. Inferior vena cava** — Right suprarenal vein is short and drains directly into the IVC; left suprarenal vein drains into the left renal vein (similar to left gonadal pattern).
 
 </details>
 
@@ -2785,7 +2785,7 @@ Suprarenal gland gets its blood supply from all of the following arteries except
 
 <details><summary>Answer</summary>
 
-**D. Superior mesentric artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Superior mesentric artery** — **D. Superior mesentric artery** — Adrenal blood supply: superior suprarenal (inferior phrenic), middle suprarenal (aorta), inferior suprarenal (renal artery); SMA does not supply suprarenals.
 
 </details>
 
@@ -2803,7 +2803,7 @@ Inferior artery? pancreaticoduodenal artery is a branch of which of the followin
 
 <details><summary>Answer</summary>
 
-**D. Superior mesenteric artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Superior mesenteric artery** — **D. Superior mesenteric artery** — Inferior pancreaticoduodenal artery branches from SMA, anastomoses with superior pancreaticoduodenal (from gastroduodenal) at foregut-midgut junction.
 
 </details>
 
@@ -2821,7 +2821,7 @@ All of the following are branches of splenic artery, except?
 
 <details><summary>Answer</summary>
 
-**D. Right Gastroepiploic Artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Right Gastroepiploic Artery** — **D. Right Gastroepiploic Artery** — Splenic artery branches: pancreatic (arteria pancreatica magna), short gastric, left gastroepiploic, hilar branches; right gastroepiploic arises from gastroduodenal artery.
 
 </details>
 
@@ -2839,7 +2839,7 @@ Esophageal varices occur in which portion of esophagus?
 
 <details><summary>Answer</summary>
 
-**C. Lower** — Source: Medicoholic 2015 PYQ compilation.
+**C. Lower** — **C. Lower** — Lower esophageal varices occur at site of portosystemic anastomosis between left gastric vein (portal) and esophageal tributaries of azygos (systemic) in portal hypertension.
 
 </details>
 
@@ -2857,7 +2857,7 @@ External oblique forms all except?
 
 <details><summary>Answer</summary>
 
-**C. Conjoint tendon** — Source: Medicoholic 2015 PYQ compilation.
+**C. Conjoint tendon** — **C. Conjoint tendon** — External oblique aponeurosis forms inguinal, lacunar, pectineal (Cooper's), and reflected ligaments; conjoint tendon is formed by internal oblique and transversus abdominis.
 
 </details>
 
@@ -2875,7 +2875,7 @@ Inferior epigastric artery forms the boundry of ?
 
 <details><summary>Answer</summary>
 
-**B. Hesselbach's triangle** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hesselbach's triangle** — **B. Hesselbach's triangle** — Hesselbach's (inguinal) triangle boundaries: inferior epigastric artery (lateral), rectus abdominis (medial), inguinal ligament (inferior); site of direct inguinal hernia.
 
 </details>
 
@@ -2893,7 +2893,7 @@ The boundaries of the interconnection between greater sac and lesser sac of peri
 
 <details><summary>Answer</summary>
 
-**D. 4th part of Duodenum** — Source: Medicoholic 2015 PYQ compilation.
+**D. 4th part of Duodenum** — **D. 4th part of Duodenum** — Foramen of Winslow boundaries: caudate lobe (superior), 1st part of duodenum (inferior), IVC (posterior), free border of lesser omentum/portal triad (anterior).
 
 </details>
 
@@ -2911,7 +2911,7 @@ Anorectal angle is formed due to action of -
 
 <details><summary>Answer</summary>
 
-**D. Puborectalis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Puborectalis** — **D. Puborectalis** — Puborectalis sling (part of levator ani) loops around anorectal junction, pulling it forward to create ~90° anorectal angle essential for fecal continence.
 
 </details>
 
@@ -2929,7 +2929,7 @@ Prostate analogue in female is -
 
 <details><summary>Answer</summary>
 
-**A. Skene gland** — Source: Medicoholic 2015 PYQ compilation.
+**A. Skene gland** — **A. Skene gland** — Skene's (paraurethral) glands are female homologues of the prostate; both develop from urogenital sinus and secrete PSA-like fluid into the urethra.
 
 </details>
 
@@ -2947,7 +2947,7 @@ All are true about 1st part of duodenum, except ?
 
 <details><summary>Answer</summary>
 
-**D. Supplied by superior mesenteric artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Supplied by superior mesenteric artery** — **D. Supplied by superior mesenteric artery** — First part of duodenum is foregut derivative, supplied by gastroduodenal/superior pancreaticoduodenal (from celiac); SMA supplies from major papilla distally (midgut).
 
 </details>
 
@@ -2965,7 +2965,7 @@ Ventral pancreatic duct give rise to ?
 
 <details><summary>Answer</summary>
 
-**D. Uncinate process** — Source: Medicoholic 2015 PYQ compilation.
+**D. Uncinate process** — **D. Uncinate process** — Ventral pancreatic bud forms the uncinate process and inferior part of the head; dorsal bud forms body, tail, and superior head; ducts fuse to form main pancreatic duct.
 
 </details>
 

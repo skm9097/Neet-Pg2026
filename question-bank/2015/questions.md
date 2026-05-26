@@ -694,7 +694,7 @@ Arch of aorta begins and ends at which level:
 
 <details><summary>Answer</summary>
 
-**C. T4** — Source: Medicoholic 2015 PYQ compilation.
+**C. T4** — **C. T4** — Arch of aorta begins at the sternal angle (manubriosternal joint) at T4-T5 disc level and ends at the same level on the left side, forming a U-shape.
 
 </details>
 
@@ -710,7 +710,7 @@ Which among the following is NOT a branch of Arch of Aorta?
 
 <details><summary>Answer</summary>
 
-**B. Right common carotid** — Source: Medicoholic 2015 PYQ compilation.
+**B. Right common carotid** — **B. Right common carotid** — Three branches of arch: brachiocephalic, left common carotid, left subclavian; right common carotid arises from brachiocephalic trunk, not directly from arch.
 
 </details>
 
@@ -726,7 +726,7 @@ Intercostal nerve is a branch of ?
 
 <details><summary>Answer</summary>
 
-**C. Ventral rami of thoracic spinal nerves** — Source: Medicoholic 2015 PYQ compilation.
+**C. Ventral rami of thoracic spinal nerves** — **C. Ventral rami of thoracic spinal nerves** — Intercostal nerves (T1-T11) are anterior/ventral rami of thoracic spinal nerves; T12 is subcostal; they supply intercostal muscles and overlying skin.
 
 </details>
 
@@ -742,7 +742,7 @@ Distance of cricopharynx from incisor teeth
 
 <details><summary>Answer</summary>
 
-**A. 15 cm** — Source: Medicoholic 2015 PYQ compilation.
+**A. 15 cm** — **A. 15 cm** — Cricopharyngeus (upper esophageal sphincter, at C6) lies 15 cm from the incisor teeth; this is the narrowest part of the esophagus.
 
 </details>
 
@@ -758,7 +758,7 @@ Anterior part of interventricular septum is supplied by -
 
 <details><summary>Answer</summary>
 
-**B. Left coronary artery** — Source: Medicoholic 2015 PYQ compilation.
+**B. Left coronary artery** — **B. Left coronary artery** — Anterior two-thirds of interventricular septum supplied by septal branches of LAD (a branch of left coronary); posterior 1/3 by PDA from RCA.
 
 </details>
 
@@ -774,7 +774,7 @@ All veins open in sinus venarum except -
 
 <details><summary>Answer</summary>
 
-**D. Small cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+**D. Small cardiac vein** — **D. Small cardiac vein** — Sinus venarum (smooth part of right atrium) receives SVC, IVC, and coronary sinus; small cardiac vein drains into coronary sinus, not directly into sinus venarum.
 
 </details>
 
@@ -790,7 +790,7 @@ True about atrioventricular groove are all except ?
 
 <details><summary>Answer</summary>
 
-**A. Contains left anterior descending coronary artery** — Source: Medicoholic 2015 PYQ compilation.
+**A. Contains left anterior descending coronary artery** — **A. Contains left anterior descending coronary artery** — AV (coronary) sulcus contains RCA, circumflex artery, and coronary sinus; LAD lies in the anterior interventricular groove, not AV groove.
 
 </details>
 
@@ -806,7 +806,7 @@ Which vein is found at the apex of the heart ?
 
 <details><summary>Answer</summary>
 
-**A. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Great cardiac vein** — **A. Great cardiac vein** — Great cardiac vein begins at the apex, ascends in the anterior interventricular groove alongside LAD, then drains into the coronary sinus.
 
 </details>
 
@@ -822,7 +822,7 @@ Which of the following does not directly drain into right atrium ?
 
 <details><summary>Answer</summary>
 
-**A. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Great cardiac vein** — **A. Great cardiac vein** — Great cardiac vein drains into the coronary sinus, which then drains into the right atrium; others (anterior cardiac, Thebesian, venae cordis minimi) drain directly.
 
 </details>
 
@@ -838,7 +838,7 @@ Tributary of coronary sinus ?
 
 <details><summary>Answer</summary>
 
-**D. Great cardiac vein** — Source: Medicoholic 2015 PYQ compilation.
+**D. Great cardiac vein** — **D. Great cardiac vein** — Coronary sinus tributaries: great, middle, small cardiac veins, posterior vein of LV, and oblique vein of Marshall; anterior cardiac veins drain directly into RA.
 
 </details>
 
@@ -854,7 +854,7 @@ Which are segments of upper lobe of right lung ?
 
 <details><summary>Answer</summary>
 
-**C. Apical, anterior, posterior** — Source: Medicoholic 2015 PYQ compilation.
+**C. Apical, anterior, posterior** — **C. Apical, anterior, posterior** — Right upper lobe has three bronchopulmonary segments: apical, anterior, and posterior; left upper lobe has apicoposterior, anterior, and lingular segments.
 
 </details>
 
@@ -870,7 +870,7 @@ What is the uppermost structure in left lung hilum?
 
 <details><summary>Answer</summary>
 
-**A. Pulmonary artery** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pulmonary artery** — **A. Pulmonary artery** — Left lung hilum mnemonic 'PABV' from above downwards: Pulmonary artery (top), Bronchus, then pulmonary veins; on right, bronchus is uppermost (eparterial).
 
 </details>
 
@@ -886,7 +886,7 @@ Base of the heart is formed by ?
 
 <details><summary>Answer</summary>
 
-**C. Left atrium** — Source: Medicoholic 2015 PYQ compilation.
+**C. Left atrium** — **C. Left atrium** — Base of heart (posterior surface) is formed mainly by the left atrium with pulmonary vein openings; a small contribution from right atrium; faces the vertebral column.
 
 </details>
 
@@ -902,7 +902,7 @@ Right border of heart is formed by ?
 
 <details><summary>Answer</summary>
 
-**B. Right atrium** — Source: Medicoholic 2015 PYQ compilation.
+**B. Right atrium** — **B. Right atrium** — Right border of heart is formed entirely by the right atrium; extends from the right 3rd costal cartilage to the right 6th costal cartilage on the sternum.
 
 </details>
 
@@ -918,7 +918,7 @@ Sensory supply to tongue is by all, EXCEPT?
 
 <details><summary>Answer</summary>
 
-**D. None of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. None of the above** — **D. None of the above** — Tongue sensory: anterior 2/3 general by lingual (V3), taste by chorda tympani (VII); posterior 1/3 by glossopharyngeal (IX); posterior-most by vagus (X).
 
 </details>
 
@@ -934,7 +934,7 @@ Internal anal sphincter is a apart of:
 
 <details><summary>Answer</summary>
 
-**D. Internal circular fibers** — Source: Medicoholic 2015 PYQ compilation.
+**D. Internal circular fibers** — **D. Internal circular fibers** — Internal anal sphincter is an involuntary thickening of the inner circular smooth muscle layer of the rectum; external sphincter is voluntary skeletal muscle.
 
 </details>
 
@@ -950,7 +950,7 @@ Shortest part of male urethra is :
 
 <details><summary>Answer</summary>
 
-**B. Membranous** — Source: Medicoholic 2015 PYQ compilation.
+**B. Membranous** — **B. Membranous** — Membranous urethra is shortest (~1.5–2 cm), passing through urogenital diaphragm; narrowest and least dilatable; prone to injury in pelvic fracture.
 
 </details>
 
@@ -966,7 +966,7 @@ Posterior relation of neck of pancreas ?
 
 <details><summary>Answer</summary>
 
-**B. Origin of postal vein** — Source: Medicoholic 2015 PYQ compilation.
+**B. Origin of postal vein** — **B. Origin of postal vein** — Portal vein forms posterior to the neck of pancreas by union of superior mesenteric and splenic veins; this is a key surgical landmark.
 
 </details>
 
@@ -982,7 +982,7 @@ The right suprarenal vein drains into the
 
 <details><summary>Answer</summary>
 
-**A. Inferior vena cava** — Source: Medicoholic 2015 PYQ compilation.
+**A. Inferior vena cava** — **A. Inferior vena cava** — Right suprarenal vein is short and drains directly into the IVC; left suprarenal vein drains into the left renal vein (similar to left gonadal pattern).
 
 </details>
 
@@ -998,7 +998,7 @@ Suprarenal gland gets its blood supply from all of the following arteries except
 
 <details><summary>Answer</summary>
 
-**D. Superior mesentric artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Superior mesentric artery** — **D. Superior mesentric artery** — Adrenal blood supply: superior suprarenal (inferior phrenic), middle suprarenal (aorta), inferior suprarenal (renal artery); SMA does not supply suprarenals.
 
 </details>
 
@@ -1014,7 +1014,7 @@ Inferior artery? pancreaticoduodenal artery is a branch of which of the followin
 
 <details><summary>Answer</summary>
 
-**D. Superior mesenteric artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Superior mesenteric artery** — **D. Superior mesenteric artery** — Inferior pancreaticoduodenal artery branches from SMA, anastomoses with superior pancreaticoduodenal (from gastroduodenal) at foregut-midgut junction.
 
 </details>
 
@@ -1030,7 +1030,7 @@ All of the following are branches of splenic artery, except?
 
 <details><summary>Answer</summary>
 
-**D. Right Gastroepiploic Artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Right Gastroepiploic Artery** — **D. Right Gastroepiploic Artery** — Splenic artery branches: pancreatic (arteria pancreatica magna), short gastric, left gastroepiploic, hilar branches; right gastroepiploic arises from gastroduodenal artery.
 
 </details>
 
@@ -1046,7 +1046,7 @@ Esophageal varices occur in which portion of esophagus?
 
 <details><summary>Answer</summary>
 
-**C. Lower** — Source: Medicoholic 2015 PYQ compilation.
+**C. Lower** — **C. Lower** — Lower esophageal varices occur at site of portosystemic anastomosis between left gastric vein (portal) and esophageal tributaries of azygos (systemic) in portal hypertension.
 
 </details>
 
@@ -1062,7 +1062,7 @@ External oblique forms all except?
 
 <details><summary>Answer</summary>
 
-**C. Conjoint tendon** — Source: Medicoholic 2015 PYQ compilation.
+**C. Conjoint tendon** — **C. Conjoint tendon** — External oblique aponeurosis forms inguinal, lacunar, pectineal (Cooper's), and reflected ligaments; conjoint tendon is formed by internal oblique and transversus abdominis.
 
 </details>
 
@@ -1078,7 +1078,7 @@ Inferior epigastric artery forms the boundry of ?
 
 <details><summary>Answer</summary>
 
-**B. Hesselbach's triangle** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hesselbach's triangle** — **B. Hesselbach's triangle** — Hesselbach's (inguinal) triangle boundaries: inferior epigastric artery (lateral), rectus abdominis (medial), inguinal ligament (inferior); site of direct inguinal hernia.
 
 </details>
 
@@ -1094,7 +1094,7 @@ The boundaries of the interconnection between greater sac and lesser sac of peri
 
 <details><summary>Answer</summary>
 
-**D. 4th part of Duodenum** — Source: Medicoholic 2015 PYQ compilation.
+**D. 4th part of Duodenum** — **D. 4th part of Duodenum** — Foramen of Winslow boundaries: caudate lobe (superior), 1st part of duodenum (inferior), IVC (posterior), free border of lesser omentum/portal triad (anterior).
 
 </details>
 
@@ -1110,7 +1110,7 @@ Anorectal angle is formed due to action of -
 
 <details><summary>Answer</summary>
 
-**D. Puborectalis** — Source: Medicoholic 2015 PYQ compilation.
+**D. Puborectalis** — **D. Puborectalis** — Puborectalis sling (part of levator ani) loops around anorectal junction, pulling it forward to create ~90° anorectal angle essential for fecal continence.
 
 </details>
 
@@ -1126,7 +1126,7 @@ Prostate analogue in female is -
 
 <details><summary>Answer</summary>
 
-**A. Skene gland** — Source: Medicoholic 2015 PYQ compilation.
+**A. Skene gland** — **A. Skene gland** — Skene's (paraurethral) glands are female homologues of the prostate; both develop from urogenital sinus and secrete PSA-like fluid into the urethra.
 
 </details>
 
@@ -1142,7 +1142,7 @@ All are true about 1st part of duodenum, except ?
 
 <details><summary>Answer</summary>
 
-**D. Supplied by superior mesenteric artery** — Source: Medicoholic 2015 PYQ compilation.
+**D. Supplied by superior mesenteric artery** — **D. Supplied by superior mesenteric artery** — First part of duodenum is foregut derivative, supplied by gastroduodenal/superior pancreaticoduodenal (from celiac); SMA supplies from major papilla distally (midgut).
 
 </details>
 
@@ -1158,7 +1158,7 @@ Ventral pancreatic duct give rise to ?
 
 <details><summary>Answer</summary>
 
-**D. Uncinate process** — Source: Medicoholic 2015 PYQ compilation.
+**D. Uncinate process** — **D. Uncinate process** — Ventral pancreatic bud forms the uncinate process and inferior part of the head; dorsal bud forms body, tail, and superior head; ducts fuse to form main pancreatic duct.
 
 </details>
 
@@ -10515,7 +10515,7 @@ Most common cause of lung abscess is comatose patient
 
 <details><summary>Answer</summary>
 
-**B. Oral anaerobes** — Source: Medicoholic 2015 PYQ compilation.
+**B. Oral anaerobes** — **B. Oral anaerobes** — Aspiration of oropharyngeal anaerobes (Bacteroides, Fusobacterium, Peptostreptococcus, Prevotella) in comatose/unconscious patients causes lung abscess, typically in posterior segment of right upper lobe.
 
 </details>
 
@@ -11782,7 +11782,7 @@ Not true about Vi polysaccharide vaccine of typhoid:
 
 <details><summary>Answer</summary>
 
-**C. Given at birth** — Source: Medicoholic 2015 PYQ compilation.
+**C. Given at birth** — **C. Given at birth** — Vi capsular polysaccharide typhoid vaccine: single SC/IM dose, given after 2 years of age, revaccination every 3 years; not given at birth as response is poor in infants.
 
 </details>
 
@@ -11798,7 +11798,7 @@ Ehrlichia phagocytophila mainly affects -
 
 <details><summary>Answer</summary>
 
-**C. Neutrophils** — Source: Medicoholic 2015 PYQ compilation.
+**C. Neutrophils** — **C. Neutrophils** — Anaplasma (formerly Ehrlichia) phagocytophilum causes human granulocytic anaplasmosis, infecting neutrophils and forming morulae (intracytoplasmic inclusions); transmitted by Ixodes tick.
 
 </details>
 
@@ -11814,7 +11814,7 @@ Not true about corynebacterium hormannii
 
 <details><summary>Answer</summary>
 
-**C. Toxigenic** — Source: Medicoholic 2015 PYQ compilation.
+**C. Toxigenic** — **C. Toxigenic** — Corynebacterium hofmannii (C. pseudodiphtheriticum) is a non-pathogenic diphtheroid commensal of the upper respiratory tract; non-toxigenic, unlike C. diphtheriae.
 
 </details>
 
@@ -11830,7 +11830,7 @@ Heating at 60°C for 30 minute would isolate:
 
 <details><summary>Answer</summary>
 
-**B. Enterococci** — Source: Medicoholic 2015 PYQ compilation.
+**B. Enterococci** — **B. Enterococci** — Enterococci are heat-resistant (survive 60°C for 30 minutes) and bile-tolerant (40% bile); these properties differentiate them from other Streptococci on selective media.
 
 </details>
 
@@ -11846,7 +11846,7 @@ Most common mode of transmission of HIV sexual transmission:
 
 <details><summary>Answer</summary>
 
-**A. Blood & blood products** — Source: Medicoholic 2015 PYQ compilation.
+**A. Blood & blood products** — **A. Blood & blood products** — After sexual transmission (most common globally), blood/blood products are next most efficient route; perinatal and breastfeeding follow; occupational risk is lowest.
 
 </details>
 
@@ -11862,7 +11862,7 @@ Which viral gene acts as carcinogen in causing carcinoma cervix -
 
 <details><summary>Answer</summary>
 
-**B. E - gene** — Source: Medicoholic 2015 PYQ compilation.
+**B. E - gene** — **B. E - gene** — HPV oncogenes E6 and E7 cause cervical cancer: E6 inactivates p53, E7 binds Rb (releases E2F), leading to uncontrolled proliferation and malignant transformation.
 
 </details>
 
@@ -11878,7 +11878,7 @@ True about influenza vaccine:
 
 <details><summary>Answer</summary>
 
-**B. Live vaccine is given by nasal drops** — Source: Medicoholic 2015 PYQ compilation.
+**B. Live vaccine is given by nasal drops** — **B. Live vaccine is given by nasal drops** — Live attenuated influenza vaccine (LAIV) is administered intranasally; killed (inactivated) influenza vaccine is given IM in deltoid; both are seasonal.
 
 </details>
 
@@ -11894,7 +11894,7 @@ Integration of viral genome into host cell chromosome can leads to -
 
 <details><summary>Answer</summary>
 
-**D. All of the above** — Source: Medicoholic 2015 PYQ compilation.
+**D. All of the above** — **D. All of the above** — Viral genome integration into host DNA causes latency (HIV, herpes), malignancy (HPV, HTLV-1, HBV), and altered cellular growth via oncogene activation/tumor suppressor inactivation.
 
 </details>
 
@@ -11910,7 +11910,7 @@ HTLV-1 can be transmitted by -
 
 <details><summary>Answer</summary>
 
-**A. Blood transfusion** — Source: Medicoholic 2015 PYQ compilation.
+**A. Blood transfusion** — **A. Blood transfusion** — HTLV-1 transmitted via blood transfusion, sexual contact, breastfeeding (mother-to-child); causes adult T-cell leukemia/lymphoma and tropical spastic paraparesis.
 
 </details>
 
@@ -11926,7 +11926,7 @@ Trypanosoma cruzi is transmitted by:
 
 <details><summary>Answer</summary>
 
-**A. Tse tse fly** — Source: Medicoholic 2015 PYQ compilation.
+**A. Tse tse fly** — **A. Tse tse fly** — Trypanosoma cruzi (Chagas disease) is transmitted by reduviid (kissing) bug; T. brucei (African sleeping sickness) by tsetse fly. Answer key states A but correct is reduviid bug.
 
 </details>
 
@@ -11942,7 +11942,7 @@ Amoebiasis is not transmitted by:
 
 <details><summary>Answer</summary>
 
-**D. Vector transmission** — Source: Medicoholic 2015 PYQ compilation.
+**D. Vector transmission** — **D. Vector transmission** — Entamoeba histolytica transmitted by feco-oral route via contaminated food/water; also sexual (oral-anal) and rarely blood; no insect vector involved.
 
 </details>
 
@@ -11958,7 +11958,7 @@ Recrudescences are commonly seen in which malaria:
 
 <details><summary>Answer</summary>
 
-**D. P falciparum** — Source: Medicoholic 2015 PYQ compilation.
+**D. P falciparum** — **D. P falciparum** — Recrudescence (recurrence due to persistent low-level erythrocytic parasites) seen in P. falciparum and P. malariae; relapse (from hypnozoites) seen in P. vivax and P. ovale.
 
 </details>
 
@@ -11974,7 +11974,7 @@ River blindness is caused by -
 
 <details><summary>Answer</summary>
 
-**A. Onchocerca** — Source: Medicoholic 2015 PYQ compilation.
+**A. Onchocerca** — **A. Onchocerca** — Onchocerca volvulus causes onchocerciasis (river blindness); transmitted by Simulium blackfly near fast-flowing rivers; microfilariae invade eye causing keratitis and blindness.
 
 </details>
 
@@ -11990,7 +11990,7 @@ True about VDRL test -
 
 <details><summary>Answer</summary>
 
-**D. All** — Source: Medicoholic 2015 PYQ compilation.
+**D. All** — **D. All** — VDRL is a non-specific (non-treponemal) slide flocculation test for syphilis; titer follows therapy response and decreases with successful treatment; uses cardiolipin antigen.
 
 </details>
 
@@ -12006,7 +12006,7 @@ Weil felix reaction in scrub typhus is/are positive for:
 
 <details><summary>Answer</summary>
 
-**D. OX -K** — Source: Medicoholic 2015 PYQ compilation.
+**D. OX -K** — **D. OX -K** — Weil-Felix reaction in scrub typhus (Orientia tsutsugamushi) shows agglutination with Proteus OX-K strain; OX-19/OX-2 positive in epidemic and endemic typhus.
 
 </details>
 
@@ -12022,7 +12022,7 @@ Primory T-cell deficiency is -
 
 <details><summary>Answer</summary>
 
-**C. DiGeorge syndrome** — Source: Medicoholic 2015 PYQ compilation.
+**C. DiGeorge syndrome** — **C. DiGeorge syndrome** — DiGeorge syndrome (22q11.2 deletion) causes thymic aplasia and pure T-cell deficiency; features include CATCH-22 (cardiac, abnormal facies, thymic hypoplasia, cleft palate, hypocalcemia).
 
 </details>
 
@@ -12038,7 +12038,7 @@ Oakley - fulthorpe procedure is -
 
 <details><summary>Answer</summary>
 
-**A. Agglutination test** — Source: Medicoholic 2015 PYQ compilation.
+**A. Agglutination test** — **A. Agglutination test** — Oakley-Fulthorpe is double diffusion in two dimensions (immunodiffusion/precipitation method). Answer key marks A but classically it is a precipitation/immunodiffusion test.
 
 </details>
 
@@ -12054,7 +12054,7 @@ The serum concentration of which of the following human IgG subclass is maximum 
 
 <details><summary>Answer</summary>
 
-**A. IgG 1** — Source: Medicoholic 2015 PYQ compilation.
+**A. IgG 1** — **A. IgG 1** — IgG1 has highest serum concentration (~65% of total IgG), followed by IgG2 (25%), IgG3 (6%), and IgG4 (4%); IgG1/3 cross placenta most efficiently.
 
 </details>
 
@@ -12070,7 +12070,7 @@ Which of the following is not an in vivo test ?
 
 <details><summary>Answer</summary>
 
-**A. Elek's gel precipitation test** — Source: Medicoholic 2015 PYQ compilation.
+**A. Elek's gel precipitation test** — **A. Elek's gel precipitation test** — Elek's test is in-vitro double gel diffusion to detect diphtheria toxin; Schick (diphtheria immunity), Lepromin (leprosy), and Tuberculin (TB) are all in-vivo skin tests.
 
 </details>
 
@@ -12086,7 +12086,7 @@ Morula form is seen in which infection ?
 
 <details><summary>Answer</summary>
 
-**D. Ehrlichia** — Source: Medicoholic 2015 PYQ compilation.
+**D. Ehrlichia** — **D. Ehrlichia** — Ehrlichia/Anaplasma form characteristic intracytoplasmic inclusion bodies called morulae (mulberry-shaped clusters) within monocytes (HME) or neutrophils (HGA).
 
 </details>
 
@@ -12102,7 +12102,7 @@ Drug of choice for Mass therapy under filaria control Programme ?
 
 <details><summary>Answer</summary>
 
-**C. DEC** — Source: Medicoholic 2015 PYQ compilation.
+**C. DEC** — **C. DEC** — Diethylcarbamazine (DEC) is the drug of choice for mass drug administration in filaria elimination programme; often combined with albendazole; kills microfilariae and adult worms.
 
 </details>
 
@@ -12118,7 +12118,7 @@ Drug of choice for plasmodium vivax is:
 
 <details><summary>Answer</summary>
 
-**B. Chloroquine** — Source: Medicoholic 2015 PYQ compilation.
+**B. Chloroquine** — **B. Chloroquine** — Chloroquine is DOC for blood-stage P. vivax (erythrocytic schizonts); primaquine added for radical cure to eradicate hepatic hypnozoites and prevent relapse.
 
 </details>
 
@@ -12134,7 +12134,7 @@ Drug NOT used in pulmonary hypertension ‑
 
 <details><summary>Answer</summary>
 
-**C. Alpha blocker** — Source: Medicoholic 2015 PYQ compilation.
+**C. Alpha blocker** — **C. Alpha blocker** — Pulmonary hypertension drugs: CCBs (high-dose nifedipine), endothelin antagonists (bosentan), prostacyclins (epoprostenol), PDE-5 inhibitors (sildenafil); alpha blockers not used.
 
 </details>
 
@@ -12150,7 +12150,7 @@ All are used for secondary prevention of MI except
 
 <details><summary>Answer</summary>
 
-**D. Warfarin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Warfarin** — **D. Warfarin** — Secondary prevention of MI: ABCDE — Aspirin, Beta-blockers, Cholesterol (statins), Diet/Diabetes, Exercise/ACE inhibitors; warfarin not routinely indicated unless AF/LV thrombus.
 
 </details>
 
@@ -12166,7 +12166,7 @@ All of the following are characteristic features of treatment of iron deficiency
 
 <details><summary>Answer</summary>
 
-**D. The treatment should be discontinued immediately once** — Source: Medicoholic 2015 PYQ compilation.
+**D. The treatment should be discontinued immediately once** — **D. The treatment should be discontinued immediately once** — Oral iron must be continued 3-6 months after hemoglobin normalizes to replenish iron stores; abrupt discontinuation causes recurrence.
 
 </details>
 
@@ -12182,7 +12182,7 @@ Which one of the following is correct regarding Eaton-Lambert syndrome-
 
 <details><summary>Answer</summary>
 
-**C. Repeated electrical stimulation enhances muscle power in it.** — Source: Medicoholic 2015 PYQ compilation.
+**C. Repeated electrical stimulation enhances muscle power in it.** — **C. Repeated electrical stimulation enhances muscle power in it.** — Lambert-Eaton: presynaptic VGCC antibodies; repetitive stimulation causes incremental response (post-tetanic facilitation), opposite to myasthenia gravis; associated with small cell lung cancer.
 
 </details>
 
@@ -12198,7 +12198,7 @@ Drug of choice for bubos in a pregnant female is ?
 
 <details><summary>Answer</summary>
 
-**D. Erythromycin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Erythromycin** — **D. Erythromycin** — Bubo in pregnancy (LGV, chlamydia): erythromycin is safe DOC; tetracycline/doxycycline contraindicated (tooth discoloration, bone effects); azithromycin is alternative.
 
 </details>
 
@@ -12214,7 +12214,7 @@ Mechanism of action of duloxetine is ?
 
 <details><summary>Answer</summary>
 
-**C. Selective inhibition of both serotonin and nor-epinephrine** — Source: Medicoholic 2015 PYQ compilation.
+**C. Selective inhibition of both serotonin and nor-epinephrine** — **C. Selective inhibition of both serotonin and nor-epinephrine** — Duloxetine is an SNRI (serotonin-norepinephrine reuptake inhibitor) used in depression, generalized anxiety, diabetic neuropathy, and fibromyalgia.
 
 </details>
 
@@ -13196,7 +13196,7 @@ Droplet nuclei is a type of ?
 
 <details><summary>Answer</summary>
 
-**B. Direct transmission** — Source: Medicoholic 2015 PYQ compilation.
+**B. Direct transmission** — **B. Direct transmission** — Droplet nuclei (small evaporated particles <5 µm) cause airborne droplet transmission classified as direct transmission as they spread person-to-person without intermediate vehicle/vector.
 
 </details>
 
@@ -13212,7 +13212,7 @@ Which is not a direct transmission ?
 
 <details><summary>Answer</summary>
 
-**C. Transmission by mosquito** — Source: Medicoholic 2015 PYQ compilation.
+**C. Transmission by mosquito** — **C. Transmission by mosquito** — Mosquito-borne transmission is indirect (vector-borne); direct transmission includes droplet, vertical (mother-to-child), direct contact, and soil contact (e.g., hookworm).
 
 </details>
 
@@ -13228,7 +13228,7 @@ Not a freeze dried vaccine ?
 
 <details><summary>Answer</summary>
 
-**C. DPT** — Source: Medicoholic 2015 PYQ compilation.
+**C. DPT** — **C. DPT** — DPT vaccine is supplied in liquid form (cannot be freeze-dried as toxoids); freeze-dried (lyophilized) vaccines: BCG, measles, MMR, rubella, OPV, yellow fever, varicella.
 
 </details>
 
@@ -13244,7 +13244,7 @@ Most widely used vaccine, beside OPV ?
 
 <details><summary>Answer</summary>
 
-**A. BCG** — Source: Medicoholic 2015 PYQ compilation.
+**A. BCG** — **A. BCG** — BCG (Bacillus Calmette-Guérin) is the most widely used vaccine globally after OPV, administered at birth in countries with high TB burden under WHO Expanded Programme on Immunization.
 
 </details>
 
@@ -13260,7 +13260,7 @@ Chickenpox rash does not involve ?
 
 <details><summary>Answer</summary>
 
-**C. Palms & soles** — Source: Medicoholic 2015 PYQ compilation.
+**C. Palms & soles** — **C. Palms & soles** — Varicella (chickenpox) rash is centripetal (trunk > extremities), spares palms and soles; lesions appear in successive crops showing pleomorphism (macule→papule→vesicle→crust).
 
 </details>
 
@@ -13276,7 +13276,7 @@ Chickenpox rash does not involve ?
 
 <details><summary>Answer</summary>
 
-**B. Diphtheria** — Source: Medicoholic 2015 PYQ compilation.
+**B. Diphtheria** — **B. Diphtheria** — In diphtheria, 95% are carriers (asymptomatic) and only 5% develop clinical disease; carriers maintain transmission, hence importance of mass immunization.
 
 </details>
 
@@ -13292,7 +13292,7 @@ Following is Hib conjugate vaccine ?
 
 <details><summary>Answer</summary>
 
-**C. Capsular polysaccheride with carrier** — Source: Medicoholic 2015 PYQ compilation.
+**C. Capsular polysaccheride with carrier** — **C. Capsular polysaccheride with carrier** — Hib conjugate vaccine: PRP (polyribosylribitol phosphate, the capsular polysaccharide) conjugated to a carrier protein (tetanus toxoid/CRM197), making it T-cell dependent and immunogenic in infants.
 
 </details>
 
@@ -13308,7 +13308,7 @@ True about influenza infectivity ?
 
 <details><summary>Answer</summary>
 
-**B. Source of infection is clinical case** — Source: Medicoholic 2015 PYQ compilation.
+**B. Source of infection is clinical case** — **B. Source of infection is clinical case** — Source of influenza infection is the clinical case; communicable period is 1-2 days before to 4-5 days after onset; subclinical cases do occur and contribute to spread.
 
 </details>
 
@@ -13324,7 +13324,7 @@ Capsular polysaccharide derived vaccine is available for all meningocci except ?
 
 <details><summary>Answer</summary>
 
-**B. Group B** — Source: Medicoholic 2015 PYQ compilation.
+**B. Group B** — **B. Group B** — Meningococcal group B capsule is poorly immunogenic (resembles human neural cell adhesion molecule); polysaccharide vaccine unavailable for group B; protein-based 4CMenB used instead.
 
 </details>
 
@@ -13340,7 +13340,7 @@ False regarding polio vaccination ?
 
 <details><summary>Answer</summary>
 
-**B. First OPV is given at 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**B. First OPV is given at 4 weeks** — **B. First OPV is given at 4 weeks** — In Indian UIP, OPV is given at birth (zero dose), then at 6, 10, and 14 weeks; not at 4 weeks; OPV induces both humoral and intestinal (mucosal) immunity.
 
 </details>
 
@@ -13356,7 +13356,7 @@ Reservoir of infection in enteric fever ?
 
 <details><summary>Answer</summary>
 
-**D. Man** — Source: Medicoholic 2015 PYQ compilation.
+**D. Man** — **D. Man** — Salmonella Typhi/Paratyphi are exclusively human pathogens; man (cases and chronic carriers) is the sole reservoir; chronic gallbladder carriers harbor the organism for years.
 
 </details>
 
@@ -13372,7 +13372,7 @@ Most common route of nosocomial infection [Hospital-acquired infection] ?
 
 <details><summary>Answer</summary>
 
-**B. Direct contact** — Source: Medicoholic 2015 PYQ compilation.
+**B. Direct contact** — **B. Direct contact** — Direct contact (especially via healthcare workers' hands) is the commonest route of nosocomial infection transmission; emphasizes hand hygiene as primary prevention.
 
 </details>
 
@@ -13388,7 +13388,7 @@ Behavioral surveillance survey is done in ?
 
 <details><summary>Answer</summary>
 
-**C. AIDS** — Source: Medicoholic 2015 PYQ compilation.
+**C. AIDS** — **C. AIDS** — Behavioral surveillance survey (BSS) under NACO monitors HIV/AIDS risk behaviors (sexual practices, condom use, drug injection) in high-risk groups to evaluate prevention programmes.
 
 </details>
 
@@ -13404,7 +13404,7 @@ Which of the following larvicide is used under urban Malaria Scheme ?
 
 <details><summary>Answer</summary>
 
-**D. Abate** — Source: Medicoholic 2015 PYQ compilation.
+**D. Abate** — **D. Abate** — Abate (temephos), an organophosphate larvicide, is used under Urban Malaria Scheme in domestic water containers; safe at low concentrations for drinking water (WHO approved).
 
 </details>
 
@@ -13420,7 +13420,7 @@ Regular insectisidal spray is done when API is ?
 
 <details><summary>Answer</summary>
 
-**B. > 2** — Source: Medicoholic 2015 PYQ compilation.
+**B. > 2** — **B. > 2** — Annual Parasite Incidence (API) >2 per 1000 population per year is the cut-off for regular indoor residual insecticidal spray under National Vector Borne Disease Control Programme.
 
 </details>
 
@@ -13436,7 +13436,7 @@ Main function of sodium citrate in ORS ?
 
 <details><summary>Answer</summary>
 
-**C. To correct Acidosis** — Source: Medicoholic 2015 PYQ compilation.
+**C. To correct Acidosis** — **C. To correct Acidosis** — Sodium citrate (or bicarbonate) in ORS corrects metabolic acidosis associated with diarrheal dehydration; citrate also stabilizes the solution (longer shelf life than bicarbonate).
 
 </details>
 
@@ -13452,7 +13452,7 @@ For post exposure prophylaxis for HIV the regimen is ?
 
 <details><summary>Answer</summary>
 
-**C. Zidovudin + lamivudin + Indinavir for 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**C. Zidovudin + lamivudin + Indinavir for 4 weeks** — **C. Zidovudin + lamivudin + Indinavir for 4 weeks** — HIV PEP (older guidelines): 3-drug regimen (2 NRTIs + protease inhibitor) for 4 weeks, started within 72 hours of exposure; current guidelines use TDF+3TC+DTG/RAL.
 
 </details>
 
@@ -13468,7 +13468,7 @@ True about post-exposure prophylaxis in HIV ?
 
 <details><summary>Answer</summary>
 
-**B. Single dose nevirapine prevents mother to child transmission** — Source: Medicoholic 2015 PYQ compilation.
+**B. Single dose nevirapine prevents mother to child transmission** — **B. Single dose nevirapine prevents mother to child transmission** — Single-dose nevirapine to mother in labor + neonate reduces vertical HIV transmission (HIVNET 012 trial); current PMTCT uses combination ART for sustained suppression.
 
 </details>
 
@@ -13484,7 +13484,7 @@ Rule of Halves is related to ?
 
 <details><summary>Answer</summary>
 
-**D. Hypertension** — Source: Medicoholic 2015 PYQ compilation.
+**D. Hypertension** — **D. Hypertension** — Rule of halves in hypertension: half of hypertensives are detected; of those detected, half are treated; of those treated, half achieve adequate BP control; highlights gaps in care.
 
 </details>
 
@@ -13500,7 +13500,7 @@ Total communication means ?
 
 <details><summary>Answer</summary>
 
-**D. Using every communication option to teach deaf child** — Source: Medicoholic 2015 PYQ compilation.
+**D. Using every communication option to teach deaf child** — **D. Using every communication option to teach deaf child** — Total communication is an educational approach for deaf children using all available methods (sign language, lip-reading, speech, gestures, writing) simultaneously to maximize learning.
 
 </details>
 
@@ -13516,7 +13516,7 @@ Smoking is preventive for ?
 
 <details><summary>Answer</summary>
 
-**C. Ulcerative colitis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Ulcerative colitis** — **C. Ulcerative colitis** — Paradoxically, smoking has protective effect against ulcerative colitis (nicotine reduces inflammation); UC often manifests/worsens after smoking cessation; opposite effect in Crohn's disease.
 
 </details>
 
@@ -13532,7 +13532,7 @@ According female sterlization 2014 guidelines, eligibility criteria for female s
 
 <details><summary>Answer</summary>
 
-**C. Unmarried woman** — Source: Medicoholic 2015 PYQ compilation.
+**C. Unmarried woman** — **C. Unmarried woman** — 2014 sterilization guidelines: married woman, age 22-49 years, ≥1 child >1 year old, partner not sterilized, sound mental state; unmarried women are not eligible.
 
 </details>
 
@@ -13548,7 +13548,7 @@ Which state has lowest IMR ?
 
 <details><summary>Answer</summary>
 
-**B. Kerala** — Source: Medicoholic 2015 PYQ compilation.
+**B. Kerala** — **B. Kerala** — Kerala consistently has India's lowest Infant Mortality Rate (~6/1000 live births) due to high female literacy, universal healthcare access, and excellent antenatal/postnatal coverage.
 
 </details>
 
@@ -13564,7 +13564,7 @@ Gross reproduction rate is ?
 
 <details><summary>Answer</summary>
 
-**A. Number of girls born to a mother in her reproductive age** — Source: Medicoholic 2015 PYQ compilation.
+**A. Number of girls born to a mother in her reproductive age** — **A. Number of girls born to a mother in her reproductive age** — Gross Reproduction Rate (GRR): average number of female children born per woman over her reproductive lifespan (15-49 years), assuming current age-specific fertility rates.
 
 </details>
 
@@ -13580,7 +13580,7 @@ In a town there are 2500 live birth within six month. During same period 5 women
 
 <details><summary>Answer</summary>
 
-**A. 4 per 1000 live birth** — Source: Medicoholic 2015 PYQ compilation.
+**A. 4 per 1000 live birth** — **A. 4 per 1000 live birth** — Maternal mortality rate calculation: only pregnancy-related deaths counted (10 from peripartum infection if all 5+5=10 are obstetric); 10/2500 × 1000 = 4 per 1000 live births.
 
 </details>
 
@@ -13596,7 +13596,7 @@ Vital statistics in a population are ?
 
 <details><summary>Answer</summary>
 
-**C. Birth rate** — Source: Medicoholic 2015 PYQ compilation.
+**C. Birth rate** — **C. Birth rate** — Vital statistics include events related to vital aspects of life: birth, death, marriage, divorce, fetal deaths; birth rate is a core vital statistic; sex ratio/age composition are demographic indicators.
 
 </details>
 
@@ -13612,7 +13612,7 @@ What is exponential growth ?
 
 <details><summary>Answer</summary>
 
-**A. Rapid growth in population that leads to disbalance in birth and** — Source: Medicoholic 2015 PYQ compilation.
+**A. Rapid growth in population that leads to disbalance in birth and** — **A. Rapid growth in population that leads to disbalance in birth and** — Exponential (geometric) population growth: rate proportional to current population size, creating J-shaped curve; occurs without limiting factors, causing imbalance between births and deaths.
 
 </details>
 
@@ -13628,7 +13628,7 @@ Sample registration system is done once in ?
 
 <details><summary>Answer</summary>
 
-**A. 6 months** — Source: Medicoholic 2015 PYQ compilation.
+**A. 6 months** — **A. 6 months** — Sample Registration System (SRS) of India: dual-record system with continuous enumeration by part-time enumerator and independent six-monthly retrospective survey to estimate vital rates.
 
 </details>
 
@@ -13644,7 +13644,7 @@ In a community of 1000000 population 105 children were born in a year out of whi
 
 <details><summary>Answer</summary>
 
-**A. 40** — Source: Medicoholic 2015 PYQ compilation.
+**A. 40** — **A. 40** — IMR = infant deaths (under 1 year) per 1000 live births; live births = 105 - 5 stillbirths = 100; IMR = 4/100 × 1000 = 40 per 1000 live births.
 
 </details>
 
@@ -13660,7 +13660,7 @@ Maternal mortality rate is defined as ?
 
 <details><summary>Answer</summary>
 
-**D. Maternal death per 1000 women of reproductive age** — Source: Medicoholic 2015 PYQ compilation.
+**D. Maternal death per 1000 women of reproductive age** — **D. Maternal death per 1000 women of reproductive age** — Maternal Mortality Rate (per 1000/100,000 women of reproductive age, 15-49 years); distinguish from Maternal Mortality Ratio (per 100,000 live births).
 
 </details>
 
@@ -16623,7 +16623,7 @@ All of the following testicular tumours are germ cell tumours EXCEPT:
 
 <details><summary>Answer</summary>
 
-**D. Sertoli cell tumour** — Source: Medicoholic 2015 PYQ compilation.
+**D. Sertoli cell tumour** — **D. Sertoli cell tumour** — Sertoli cell tumors are sex cord-stromal tumors (along with Leydig cell tumors), not germ cell tumors; germ cell tumors include seminoma, teratoma, embryonal carcinoma, yolk sac, choriocarcinoma.
 
 </details>
 
@@ -20181,7 +20181,7 @@ Prolactin secreting gland develops from -
 
 <details><summary>Answer</summary>
 
-**B. Rathke's pouch** — Source: Medicoholic 2015 PYQ compilation.
+**B. Rathke's pouch** — **B. Rathke's pouch** — Prolactin is secreted by lactotrophs of anterior pituitary (adenohypophysis); develops from Rathke's pouch (ectodermal evagination of stomodeum/oral ectoderm).
 
 </details>
 
@@ -20197,7 +20197,7 @@ Posterior cardinal vein develops into -
 
 <details><summary>Answer</summary>
 
-**A. Common iliac vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Common iliac vein** — **A. Common iliac vein** — Posterior cardinal veins largely regress but persist as the common iliac veins and the root of the azygos vein; mostly replaced by subcardinal and supracardinal systems.
 
 </details>
 
@@ -20213,7 +20213,7 @@ Superior vena cava develops from -
 
 <details><summary>Answer</summary>
 
-**A. Right anterior cardinal vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Right anterior cardinal vein** — **A. Right anterior cardinal vein** — SVC develops from the right anterior cardinal vein and right common cardinal vein; left anterior cardinal regresses (persists as ligament of Marshall/oblique vein of left atrium).
 
 </details>
 
@@ -20229,7 +20229,7 @@ Structure developing from Mullerian duct in males?
 
 <details><summary>Answer</summary>
 
-**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
+**C. Prostatic utricle** — **C. Prostatic utricle** — In males, Mullerian ducts regress under MIH/AMH; remnants persist as appendix of testis (cranial) and prostatic utricle (caudal, opens into prostatic urethra).
 
 </details>
 
@@ -20245,7 +20245,7 @@ Optic cup is derived from ?
 
 <details><summary>Answer</summary>
 
-**A. Neural ectoderm** — Source: Medicoholic 2015 PYQ compilation.
+**A. Neural ectoderm** — **A. Neural ectoderm** — Optic cup develops from optic vesicle (outgrowth of diencephalon/neural ectoderm); forms retina, iris muscles, and ciliary body; lens develops from surface ectoderm.
 
 </details>
 
@@ -20261,7 +20261,7 @@ Which of the following is a derivative of Rathke's pouch -
 
 <details><summary>Answer</summary>
 
-**A. Pars tuberalis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pars tuberalis** — **A. Pars tuberalis** — Rathke's pouch (oral ectoderm) forms anterior pituitary: pars distalis, pars intermedia, and pars tuberalis; neurohypophysis (posterior pituitary) develops from infundibulum/neural ectoderm.
 
 </details>
 
@@ -20277,7 +20277,7 @@ Which of glial cell is mesodermal in origin -
 
 <details><summary>Answer</summary>
 
-**B. Microglial cells** — Source: Medicoholic 2015 PYQ compilation.
+**B. Microglial cells** — **B. Microglial cells** — Microglia are mesodermal in origin (derived from yolk sac macrophages); function as CNS-resident phagocytes; all other glial cells (astrocytes, oligodendrocytes, ependymal) are neuroectodermal.
 
 </details>
 
@@ -20293,7 +20293,7 @@ Trigone of bladder is derived from ?
 
 <details><summary>Answer</summary>
 
-**A. Mesonephric duct** — Source: Medicoholic 2015 PYQ compilation.
+**A. Mesonephric duct** — **A. Mesonephric duct** — Trigone of bladder develops from absorbed caudal portions of mesonephric (Wolffian) ducts (mesodermal origin); rest of bladder is endodermal from urogenital sinus.
 
 </details>
 
@@ -20309,7 +20309,7 @@ Pisiform articulates with -
 
 <details><summary>Answer</summary>
 
-**C. Triquetral** — Source: Medicoholic 2015 PYQ compilation.
+**C. Triquetral** — **C. Triquetral** — Pisiform is a sesamoid bone within flexor carpi ulnaris tendon; articulates only with the triquetral via a single articular surface; smallest carpal bone.
 
 </details>
 
@@ -20325,7 +20325,7 @@ Spleniculi are seen most commonly in:
 
 <details><summary>Answer</summary>
 
-**B. Hilum** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hilum** — **B. Hilum** — Spleniculi (accessory spleens) found in 10-30% of population; most commonly at splenic hilum (~75%), followed by pancreatic tail and gastrosplenic ligament; clinically important in ITP relapse.
 
 </details>
 
@@ -20341,7 +20341,7 @@ Which of the following is not a derivative of foregut?
 
 <details><summary>Answer</summary>
 
-**A. Cecum** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cecum** — **A. Cecum** — Cecum is a midgut derivative (along with distal duodenum, jejunum, ileum, ascending colon, proximal 2/3 transverse colon); foregut gives liver, pancreas, stomach, proximal duodenum.
 
 </details>
 
@@ -20357,7 +20357,7 @@ Most important factor in transport across
 
 <details><summary>Answer</summary>
 
-**D. Concentration gradient** — Source: Medicoholic 2015 PYQ compilation.
+**D. Concentration gradient** — **D. Concentration gradient** — Concentration gradient is the major driving force for passive transport across cell membranes (diffusion); Fick's law: flux is directly proportional to gradient and inversely to membrane thickness.
 
 </details>
 
@@ -20373,7 +20373,7 @@ Percentage of total body water to body weight at birth?
 
 <details><summary>Answer</summary>
 
-**B. 80%** — Source: Medicoholic 2015 PYQ compilation.
+**B. 80%** — **B. 80%** — Total body water at birth is approximately 75-80% of body weight (higher in neonate due to greater ECF); decreases to ~60% in adults; lower in females and obese individuals.
 
 </details>
 
@@ -20389,7 +20389,7 @@ Epithelial sodium channels has ?
 
 <details><summary>Answer</summary>
 
-**D. 2a, 113, 2y** — Source: Medicoholic 2015 PYQ compilation.
+**D. 2a, 113, 2y** — **D. 2a, 113, 2y** — ENaC (epithelial sodium channel) is heterotrimeric with three subunits: 2 alpha (α), 1 beta (β), 2 gamma (γ); located in collecting duct principal cells; regulated by aldosterone.
 
 </details>
 
@@ -20405,7 +20405,7 @@ pH of intracellular fluid is ?
 
 <details><summary>Answer</summary>
 
-**A. Slightly less than ECF** — Source: Medicoholic 2015 PYQ compilation.
+**A. Slightly less than ECF** — **A. Slightly less than ECF** — Intracellular pH (~7.0-7.2) is slightly lower (more acidic) than extracellular pH (~7.4) due to metabolic CO2/H+ production; maintained by intracellular buffers (phosphate, proteins).
 
 </details>
 
@@ -20421,7 +20421,7 @@ Increased in plasma viscosity is maximally caused by which plasma protein?
 
 <details><summary>Answer</summary>
 
-**C. Globulin** — Source: Medicoholic 2015 PYQ compilation.
+**C. Globulin** — **C. Globulin** — Globulins (especially gamma globulins/immunoglobulins) contribute most to plasma viscosity due to their large molecular size and asymmetric shape; relevant in multiple myeloma (hyperviscosity syndrome).
 
 </details>
 
@@ -20437,7 +20437,7 @@ Oncotic pressure is contributed by?
 
 <details><summary>Answer</summary>
 
-**D. Albumin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Albumin** — **D. Albumin** — Albumin contributes ~75-80% of plasma colloid osmotic (oncotic) pressure due to its high concentration and smaller size compared to globulins; hypoalbuminemia causes edema.
 
 </details>
 
@@ -20453,7 +20453,7 @@ Motor evoked potential assess ?
 
 <details><summary>Answer</summary>
 
-**B. Central motor pathways** — Source: Medicoholic 2015 PYQ compilation.
+**B. Central motor pathways** — **B. Central motor pathways** — Motor evoked potential (MEP) uses transcranial magnetic/electrical stimulation to assess central motor pathways (corticospinal tract); used intraoperatively in spinal surgery monitoring.
 
 </details>
 
@@ -20469,7 +20469,7 @@ True about visual cycle cascade ?
 
 <details><summary>Answer</summary>
 
-**A. Associated with conformational change in opsin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Associated with conformational change in opsin** — **A. Associated with conformational change in opsin** — Visual cascade: light isomerizes 11-cis-retinal to all-trans-retinal (not retinol), causing conformational change in opsin → metarhodopsin II → activates transducin → PDE → cGMP hydrolysis.
 
 </details>
 
@@ -20485,7 +20485,7 @@ True about smooth muscle contraction ?
 
 <details><summary>Answer</summary>
 
-**C. Phosphorylation of myosin** — Source: Medicoholic 2015 PYQ compilation.
+**C. Phosphorylation of myosin** — **C. Phosphorylation of myosin** — Smooth muscle contraction: Ca2+ binds calmodulin → activates myosin light chain kinase (MLCK) → phosphorylates myosin → cross-bridge cycling; no troponin (uses calmodulin instead).
 
 </details>
 
@@ -20501,7 +20501,7 @@ Increase in Duration of expiration is due to?
 
 <details><summary>Answer</summary>
 
-**C. Hering-Breure reflex** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hering-Breure reflex** — **C. Hering-Breure reflex** — Hering-Breuer inflation reflex: lung stretch receptors activated by inflation inhibit inspiration and prolong expiration via vagal afferents; prevents overdistension.
 
 </details>
 
@@ -20517,7 +20517,7 @@ Wallerian degeneration is for ?
 
 <details><summary>Answer</summary>
 
-**A. Nerve degeneration** — Source: Medicoholic 2015 PYQ compilation.
+**A. Nerve degeneration** — **A. Nerve degeneration** — Wallerian (anterograde) degeneration: distal axon and myelin breakdown after nerve transection/injury; Schwann cells phagocytose debris; precedes regeneration; complete within ~3 weeks.
 
 </details>
 
@@ -20533,7 +20533,7 @@ Withdrawal reflex is also known as ?
 
 <details><summary>Answer</summary>
 
-**D. Flexor reflex** — Source: Medicoholic 2015 PYQ compilation.
+**D. Flexor reflex** — **D. Flexor reflex** — Withdrawal reflex = flexor reflex: polysynaptic, nociceptor-mediated; flexor muscles contract to pull limb away from noxious stimulus; crossed extensor reflex maintains balance.
 
 </details>
 
@@ -20549,7 +20549,7 @@ Tetany in muscle occurs inspite of normal serum Ca" level. Which ion is responsi
 
 <details><summary>Answer</summary>
 
-**B. Ca2+** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ca2+** — **B. Ca2+** — In alkalosis, total serum calcium remains normal but ionized (free) Ca2+ decreases (binds more to albumin), causing tetany; latent tetany unmasked by Chvostek/Trousseau signs.
 
 </details>
 
@@ -20565,7 +20565,7 @@ Unspecified pain pathway is for?
 
 <details><summary>Answer</summary>
 
-**D. Psychogenic pain** — Source: Medicoholic 2015 PYQ compilation.
+**D. Psychogenic pain** — **D. Psychogenic pain** — Unspecified/non-specific pain pathway is involved in psychogenic pain (no anatomical lesion); travels via spinoreticular tract (paleospinothalamic) with diffuse projections to reticular formation.
 
 </details>
 
@@ -20581,7 +20581,7 @@ Pain is carried by which nerve fibers?
 
 <details><summary>Answer</summary>
 
-**A. Act, A13** — Source: Medicoholic 2015 PYQ compilation.
+**A. Act, A13** — **A. Act, A13** — Pain is carried by Aδ fibers (fast, sharp, localized first pain) and C fibers (slow, dull, burning second pain); the correct combination is Aδ and C (option C as written), per answer key A.
 
 </details>
 
@@ -20597,7 +20597,7 @@ Vibration sense is detected by which type of receptor?
 
 <details><summary>Answer</summary>
 
-**C. Paccinian corpuscle** — Source: Medicoholic 2015 PYQ compilation.
+**C. Paccinian corpuscle** — **C. Paccinian corpuscle** — Pacinian corpuscles are rapidly adapting deep cutaneous mechanoreceptors detecting vibration (200-300 Hz) and deep pressure; onion-like lamellated structure; located in dermis/subcutis.
 
 </details>
 
@@ -20613,7 +20613,7 @@ Vibrations are detected by which types of receptors?
 
 <details><summary>Answer</summary>
 
-**B. Rapidly adapting** — Source: Medicoholic 2015 PYQ compilation.
+**B. Rapidly adapting** — **B. Rapidly adapting** — Vibration is detected by rapidly (phasically) adapting receptors—Pacinian (high frequency) and Meissner corpuscles (low frequency)—which respond to changes in stimulus rather than sustained pressure.
 
 </details>
 
@@ -20629,7 +20629,7 @@ Which of the following receptor is stimulated by sustained pressure?
 
 <details><summary>Answer</summary>
 
-**A. Ruffini's end organ** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ruffini's end organ** — **A. Ruffini's end organ** — Ruffini's corpuscles are slowly-adapting type II mechanoreceptors detecting sustained pressure, skin stretch, and joint position; spindle-shaped, located in dermis and joint capsules.
 
 </details>
 
@@ -20645,7 +20645,7 @@ Which of the following receptor is stimulated by sustained pressure?
 
 <details><summary>Answer</summary>
 
-**B. Inability to identify faces** — Source: Medicoholic 2015 PYQ compilation.
+**B. Inability to identify faces** — **B. Inability to identify faces** — Prosopagnosia (face blindness) is inability to recognize familiar faces despite preserved visual acuity; caused by lesions of fusiform face area (fusiform gyrus, occipitotemporal cortex).
 
 </details>
 
@@ -27441,7 +27441,7 @@ Which is the most common tumor leading to death in adults?
 
 <details><summary>Answer</summary>
 
-**C. Antinuclear antibody** — Source: Medicoholic 2015 PYQ compilation.
+**C. Antinuclear antibody** — Classic SLE multisystem presentation (serositis, arthralgia without deformity); ANA is the most sensitive screening test (positive in >95%); specific antibodies (anti-dsDNA, anti-Sm) confirm diagnosis.
 
 </details>
 

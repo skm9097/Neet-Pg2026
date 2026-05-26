@@ -2394,7 +2394,7 @@ Prolactin secreting gland develops from -
 
 <details><summary>Answer</summary>
 
-**B. Rathke's pouch** — Source: Medicoholic 2015 PYQ compilation.
+**B. Rathke's pouch** — **B. Rathke's pouch** — Prolactin is secreted by lactotrophs of anterior pituitary (adenohypophysis); develops from Rathke's pouch (ectodermal evagination of stomodeum/oral ectoderm).
 
 </details>
 
@@ -2412,7 +2412,7 @@ Posterior cardinal vein develops into -
 
 <details><summary>Answer</summary>
 
-**A. Common iliac vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Common iliac vein** — **A. Common iliac vein** — Posterior cardinal veins largely regress but persist as the common iliac veins and the root of the azygos vein; mostly replaced by subcardinal and supracardinal systems.
 
 </details>
 
@@ -2430,7 +2430,7 @@ Superior vena cava develops from -
 
 <details><summary>Answer</summary>
 
-**A. Right anterior cardinal vein** — Source: Medicoholic 2015 PYQ compilation.
+**A. Right anterior cardinal vein** — **A. Right anterior cardinal vein** — SVC develops from the right anterior cardinal vein and right common cardinal vein; left anterior cardinal regresses (persists as ligament of Marshall/oblique vein of left atrium).
 
 </details>
 
@@ -2448,7 +2448,7 @@ Structure developing from Mullerian duct in males?
 
 <details><summary>Answer</summary>
 
-**C. Prostatic utricle** — Source: Medicoholic 2015 PYQ compilation.
+**C. Prostatic utricle** — **C. Prostatic utricle** — In males, Mullerian ducts regress under MIH/AMH; remnants persist as appendix of testis (cranial) and prostatic utricle (caudal, opens into prostatic urethra).
 
 </details>
 
@@ -2466,7 +2466,7 @@ Optic cup is derived from ?
 
 <details><summary>Answer</summary>
 
-**A. Neural ectoderm** — Source: Medicoholic 2015 PYQ compilation.
+**A. Neural ectoderm** — **A. Neural ectoderm** — Optic cup develops from optic vesicle (outgrowth of diencephalon/neural ectoderm); forms retina, iris muscles, and ciliary body; lens develops from surface ectoderm.
 
 </details>
 
@@ -2484,7 +2484,7 @@ Which of the following is a derivative of Rathke's pouch -
 
 <details><summary>Answer</summary>
 
-**A. Pars tuberalis** — Source: Medicoholic 2015 PYQ compilation.
+**A. Pars tuberalis** — **A. Pars tuberalis** — Rathke's pouch (oral ectoderm) forms anterior pituitary: pars distalis, pars intermedia, and pars tuberalis; neurohypophysis (posterior pituitary) develops from infundibulum/neural ectoderm.
 
 </details>
 
@@ -2502,7 +2502,7 @@ Which of glial cell is mesodermal in origin -
 
 <details><summary>Answer</summary>
 
-**B. Microglial cells** — Source: Medicoholic 2015 PYQ compilation.
+**B. Microglial cells** — **B. Microglial cells** — Microglia are mesodermal in origin (derived from yolk sac macrophages); function as CNS-resident phagocytes; all other glial cells (astrocytes, oligodendrocytes, ependymal) are neuroectodermal.
 
 </details>
 
@@ -2520,7 +2520,7 @@ Trigone of bladder is derived from ?
 
 <details><summary>Answer</summary>
 
-**A. Mesonephric duct** — Source: Medicoholic 2015 PYQ compilation.
+**A. Mesonephric duct** — **A. Mesonephric duct** — Trigone of bladder develops from absorbed caudal portions of mesonephric (Wolffian) ducts (mesodermal origin); rest of bladder is endodermal from urogenital sinus.
 
 </details>
 
@@ -2538,7 +2538,7 @@ Pisiform articulates with -
 
 <details><summary>Answer</summary>
 
-**C. Triquetral** — Source: Medicoholic 2015 PYQ compilation.
+**C. Triquetral** — **C. Triquetral** — Pisiform is a sesamoid bone within flexor carpi ulnaris tendon; articulates only with the triquetral via a single articular surface; smallest carpal bone.
 
 </details>
 
@@ -2556,7 +2556,7 @@ Spleniculi are seen most commonly in:
 
 <details><summary>Answer</summary>
 
-**B. Hilum** — Source: Medicoholic 2015 PYQ compilation.
+**B. Hilum** — **B. Hilum** — Spleniculi (accessory spleens) found in 10-30% of population; most commonly at splenic hilum (~75%), followed by pancreatic tail and gastrosplenic ligament; clinically important in ITP relapse.
 
 </details>
 
@@ -2574,7 +2574,7 @@ Which of the following is not a derivative of foregut?
 
 <details><summary>Answer</summary>
 
-**A. Cecum** — Source: Medicoholic 2015 PYQ compilation.
+**A. Cecum** — **A. Cecum** — Cecum is a midgut derivative (along with distal duodenum, jejunum, ileum, ascending colon, proximal 2/3 transverse colon); foregut gives liver, pancreas, stomach, proximal duodenum.
 
 </details>
 
@@ -2592,7 +2592,7 @@ Most important factor in transport across
 
 <details><summary>Answer</summary>
 
-**D. Concentration gradient** — Source: Medicoholic 2015 PYQ compilation.
+**D. Concentration gradient** — **D. Concentration gradient** — Concentration gradient is the major driving force for passive transport across cell membranes (diffusion); Fick's law: flux is directly proportional to gradient and inversely to membrane thickness.
 
 </details>
 
@@ -2610,7 +2610,7 @@ Percentage of total body water to body weight at birth?
 
 <details><summary>Answer</summary>
 
-**B. 80%** — Source: Medicoholic 2015 PYQ compilation.
+**B. 80%** — **B. 80%** — Total body water at birth is approximately 75-80% of body weight (higher in neonate due to greater ECF); decreases to ~60% in adults; lower in females and obese individuals.
 
 </details>
 
@@ -2628,7 +2628,7 @@ Epithelial sodium channels has ?
 
 <details><summary>Answer</summary>
 
-**D. 2a, 113, 2y** — Source: Medicoholic 2015 PYQ compilation.
+**D. 2a, 113, 2y** — **D. 2a, 113, 2y** — ENaC (epithelial sodium channel) is heterotrimeric with three subunits: 2 alpha (α), 1 beta (β), 2 gamma (γ); located in collecting duct principal cells; regulated by aldosterone.
 
 </details>
 
@@ -2646,7 +2646,7 @@ pH of intracellular fluid is ?
 
 <details><summary>Answer</summary>
 
-**A. Slightly less than ECF** — Source: Medicoholic 2015 PYQ compilation.
+**A. Slightly less than ECF** — **A. Slightly less than ECF** — Intracellular pH (~7.0-7.2) is slightly lower (more acidic) than extracellular pH (~7.4) due to metabolic CO2/H+ production; maintained by intracellular buffers (phosphate, proteins).
 
 </details>
 
@@ -2664,7 +2664,7 @@ Increased in plasma viscosity is maximally caused by which plasma protein?
 
 <details><summary>Answer</summary>
 
-**C. Globulin** — Source: Medicoholic 2015 PYQ compilation.
+**C. Globulin** — **C. Globulin** — Globulins (especially gamma globulins/immunoglobulins) contribute most to plasma viscosity due to their large molecular size and asymmetric shape; relevant in multiple myeloma (hyperviscosity syndrome).
 
 </details>
 
@@ -2682,7 +2682,7 @@ Oncotic pressure is contributed by?
 
 <details><summary>Answer</summary>
 
-**D. Albumin** — Source: Medicoholic 2015 PYQ compilation.
+**D. Albumin** — **D. Albumin** — Albumin contributes ~75-80% of plasma colloid osmotic (oncotic) pressure due to its high concentration and smaller size compared to globulins; hypoalbuminemia causes edema.
 
 </details>
 
@@ -2700,7 +2700,7 @@ Motor evoked potential assess ?
 
 <details><summary>Answer</summary>
 
-**B. Central motor pathways** — Source: Medicoholic 2015 PYQ compilation.
+**B. Central motor pathways** — **B. Central motor pathways** — Motor evoked potential (MEP) uses transcranial magnetic/electrical stimulation to assess central motor pathways (corticospinal tract); used intraoperatively in spinal surgery monitoring.
 
 </details>
 
@@ -2718,7 +2718,7 @@ True about visual cycle cascade ?
 
 <details><summary>Answer</summary>
 
-**A. Associated with conformational change in opsin** — Source: Medicoholic 2015 PYQ compilation.
+**A. Associated with conformational change in opsin** — **A. Associated with conformational change in opsin** — Visual cascade: light isomerizes 11-cis-retinal to all-trans-retinal (not retinol), causing conformational change in opsin → metarhodopsin II → activates transducin → PDE → cGMP hydrolysis.
 
 </details>
 
@@ -2736,7 +2736,7 @@ True about smooth muscle contraction ?
 
 <details><summary>Answer</summary>
 
-**C. Phosphorylation of myosin** — Source: Medicoholic 2015 PYQ compilation.
+**C. Phosphorylation of myosin** — **C. Phosphorylation of myosin** — Smooth muscle contraction: Ca2+ binds calmodulin → activates myosin light chain kinase (MLCK) → phosphorylates myosin → cross-bridge cycling; no troponin (uses calmodulin instead).
 
 </details>
 
@@ -2754,7 +2754,7 @@ Increase in Duration of expiration is due to?
 
 <details><summary>Answer</summary>
 
-**C. Hering-Breure reflex** — Source: Medicoholic 2015 PYQ compilation.
+**C. Hering-Breure reflex** — **C. Hering-Breure reflex** — Hering-Breuer inflation reflex: lung stretch receptors activated by inflation inhibit inspiration and prolong expiration via vagal afferents; prevents overdistension.
 
 </details>
 
@@ -2772,7 +2772,7 @@ Wallerian degeneration is for ?
 
 <details><summary>Answer</summary>
 
-**A. Nerve degeneration** — Source: Medicoholic 2015 PYQ compilation.
+**A. Nerve degeneration** — **A. Nerve degeneration** — Wallerian (anterograde) degeneration: distal axon and myelin breakdown after nerve transection/injury; Schwann cells phagocytose debris; precedes regeneration; complete within ~3 weeks.
 
 </details>
 
@@ -2790,7 +2790,7 @@ Withdrawal reflex is also known as ?
 
 <details><summary>Answer</summary>
 
-**D. Flexor reflex** — Source: Medicoholic 2015 PYQ compilation.
+**D. Flexor reflex** — **D. Flexor reflex** — Withdrawal reflex = flexor reflex: polysynaptic, nociceptor-mediated; flexor muscles contract to pull limb away from noxious stimulus; crossed extensor reflex maintains balance.
 
 </details>
 
@@ -2808,7 +2808,7 @@ Tetany in muscle occurs inspite of normal serum Ca" level. Which ion is responsi
 
 <details><summary>Answer</summary>
 
-**B. Ca2+** — Source: Medicoholic 2015 PYQ compilation.
+**B. Ca2+** — **B. Ca2+** — In alkalosis, total serum calcium remains normal but ionized (free) Ca2+ decreases (binds more to albumin), causing tetany; latent tetany unmasked by Chvostek/Trousseau signs.
 
 </details>
 
@@ -2826,7 +2826,7 @@ Unspecified pain pathway is for?
 
 <details><summary>Answer</summary>
 
-**D. Psychogenic pain** — Source: Medicoholic 2015 PYQ compilation.
+**D. Psychogenic pain** — **D. Psychogenic pain** — Unspecified/non-specific pain pathway is involved in psychogenic pain (no anatomical lesion); travels via spinoreticular tract (paleospinothalamic) with diffuse projections to reticular formation.
 
 </details>
 
@@ -2844,7 +2844,7 @@ Pain is carried by which nerve fibers?
 
 <details><summary>Answer</summary>
 
-**A. Act, A13** — Source: Medicoholic 2015 PYQ compilation.
+**A. Act, A13** — **A. Act, A13** — Pain is carried by Aδ fibers (fast, sharp, localized first pain) and C fibers (slow, dull, burning second pain); the correct combination is Aδ and C (option C as written), per answer key A.
 
 </details>
 
@@ -2862,7 +2862,7 @@ Vibration sense is detected by which type of receptor?
 
 <details><summary>Answer</summary>
 
-**C. Paccinian corpuscle** — Source: Medicoholic 2015 PYQ compilation.
+**C. Paccinian corpuscle** — **C. Paccinian corpuscle** — Pacinian corpuscles are rapidly adapting deep cutaneous mechanoreceptors detecting vibration (200-300 Hz) and deep pressure; onion-like lamellated structure; located in dermis/subcutis.
 
 </details>
 
@@ -2880,7 +2880,7 @@ Vibrations are detected by which types of receptors?
 
 <details><summary>Answer</summary>
 
-**B. Rapidly adapting** — Source: Medicoholic 2015 PYQ compilation.
+**B. Rapidly adapting** — **B. Rapidly adapting** — Vibration is detected by rapidly (phasically) adapting receptors—Pacinian (high frequency) and Meissner corpuscles (low frequency)—which respond to changes in stimulus rather than sustained pressure.
 
 </details>
 
@@ -2898,7 +2898,7 @@ Which of the following receptor is stimulated by sustained pressure?
 
 <details><summary>Answer</summary>
 
-**A. Ruffini's end organ** — Source: Medicoholic 2015 PYQ compilation.
+**A. Ruffini's end organ** — **A. Ruffini's end organ** — Ruffini's corpuscles are slowly-adapting type II mechanoreceptors detecting sustained pressure, skin stretch, and joint position; spindle-shaped, located in dermis and joint capsules.
 
 </details>
 
@@ -2916,7 +2916,7 @@ Which of the following receptor is stimulated by sustained pressure?
 
 <details><summary>Answer</summary>
 
-**B. Inability to identify faces** — Source: Medicoholic 2015 PYQ compilation.
+**B. Inability to identify faces** — **B. Inability to identify faces** — Prosopagnosia (face blindness) is inability to recognize familiar faces despite preserved visual acuity; caused by lesions of fusiform face area (fusiform gyrus, occipitotemporal cortex).
 
 </details>
 
@@ -4593,7 +4593,7 @@ ECF concentration of 1C. is 150 meq/L and ICF concentration of le is 5 meq/L. Wh
 
 <details><summary>Answer</summary>
 
-**C. -90 mV** — Source: Medicoholic 2016 PYQ compilation.
+**C. -90 mV** — **C. -90 mV** — Nernst equation: E_K = 61 × log(5/150) ≈ 61 × log(1/30) ≈ -90 mV; K+ equilibrium potential is the resting membrane potential of most cells.
 
 </details>
 
@@ -5833,7 +5833,7 @@ Exercise mediated increase in muscular blood flow is mediated by which sympathet
 
 <details><summary>Answer</summary>
 
-**D. Cholinergic** — Source: Medicoholic 2016 PYQ compilation.
+**D. Cholinergic** — **D. Cholinergic** — Sympathetic cholinergic vasodilator fibers innervate skeletal muscle arterioles, causing vasodilation at the start of exercise (anticipatory response); exception to typical adrenergic sympathetic outflow.
 
 </details>
 

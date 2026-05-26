@@ -4895,7 +4895,7 @@ Droplet nuclei is a type of ?
 
 <details><summary>Answer</summary>
 
-**B. Direct transmission** — Source: Medicoholic 2015 PYQ compilation.
+**B. Direct transmission** — **B. Direct transmission** — Droplet nuclei (small evaporated particles <5 µm) cause airborne droplet transmission classified as direct transmission as they spread person-to-person without intermediate vehicle/vector.
 
 </details>
 
@@ -4913,7 +4913,7 @@ Which is not a direct transmission ?
 
 <details><summary>Answer</summary>
 
-**C. Transmission by mosquito** — Source: Medicoholic 2015 PYQ compilation.
+**C. Transmission by mosquito** — **C. Transmission by mosquito** — Mosquito-borne transmission is indirect (vector-borne); direct transmission includes droplet, vertical (mother-to-child), direct contact, and soil contact (e.g., hookworm).
 
 </details>
 
@@ -4931,7 +4931,7 @@ Not a freeze dried vaccine ?
 
 <details><summary>Answer</summary>
 
-**C. DPT** — Source: Medicoholic 2015 PYQ compilation.
+**C. DPT** — **C. DPT** — DPT vaccine is supplied in liquid form (cannot be freeze-dried as toxoids); freeze-dried (lyophilized) vaccines: BCG, measles, MMR, rubella, OPV, yellow fever, varicella.
 
 </details>
 
@@ -4949,7 +4949,7 @@ Most widely used vaccine, beside OPV ?
 
 <details><summary>Answer</summary>
 
-**A. BCG** — Source: Medicoholic 2015 PYQ compilation.
+**A. BCG** — **A. BCG** — BCG (Bacillus Calmette-Guérin) is the most widely used vaccine globally after OPV, administered at birth in countries with high TB burden under WHO Expanded Programme on Immunization.
 
 </details>
 
@@ -4967,7 +4967,7 @@ Chickenpox rash does not involve ?
 
 <details><summary>Answer</summary>
 
-**C. Palms & soles** — Source: Medicoholic 2015 PYQ compilation.
+**C. Palms & soles** — **C. Palms & soles** — Varicella (chickenpox) rash is centripetal (trunk > extremities), spares palms and soles; lesions appear in successive crops showing pleomorphism (macule→papule→vesicle→crust).
 
 </details>
 
@@ -4985,7 +4985,7 @@ Chickenpox rash does not involve ?
 
 <details><summary>Answer</summary>
 
-**B. Diphtheria** — Source: Medicoholic 2015 PYQ compilation.
+**B. Diphtheria** — **B. Diphtheria** — In diphtheria, 95% are carriers (asymptomatic) and only 5% develop clinical disease; carriers maintain transmission, hence importance of mass immunization.
 
 </details>
 
@@ -5003,7 +5003,7 @@ Following is Hib conjugate vaccine ?
 
 <details><summary>Answer</summary>
 
-**C. Capsular polysaccheride with carrier** — Source: Medicoholic 2015 PYQ compilation.
+**C. Capsular polysaccheride with carrier** — **C. Capsular polysaccheride with carrier** — Hib conjugate vaccine: PRP (polyribosylribitol phosphate, the capsular polysaccharide) conjugated to a carrier protein (tetanus toxoid/CRM197), making it T-cell dependent and immunogenic in infants.
 
 </details>
 
@@ -5021,7 +5021,7 @@ True about influenza infectivity ?
 
 <details><summary>Answer</summary>
 
-**B. Source of infection is clinical case** — Source: Medicoholic 2015 PYQ compilation.
+**B. Source of infection is clinical case** — **B. Source of infection is clinical case** — Source of influenza infection is the clinical case; communicable period is 1-2 days before to 4-5 days after onset; subclinical cases do occur and contribute to spread.
 
 </details>
 
@@ -5039,7 +5039,7 @@ Capsular polysaccharide derived vaccine is available for all meningocci except ?
 
 <details><summary>Answer</summary>
 
-**B. Group B** — Source: Medicoholic 2015 PYQ compilation.
+**B. Group B** — **B. Group B** — Meningococcal group B capsule is poorly immunogenic (resembles human neural cell adhesion molecule); polysaccharide vaccine unavailable for group B; protein-based 4CMenB used instead.
 
 </details>
 
@@ -5057,7 +5057,7 @@ False regarding polio vaccination ?
 
 <details><summary>Answer</summary>
 
-**B. First OPV is given at 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**B. First OPV is given at 4 weeks** — **B. First OPV is given at 4 weeks** — In Indian UIP, OPV is given at birth (zero dose), then at 6, 10, and 14 weeks; not at 4 weeks; OPV induces both humoral and intestinal (mucosal) immunity.
 
 </details>
 
@@ -5075,7 +5075,7 @@ Reservoir of infection in enteric fever ?
 
 <details><summary>Answer</summary>
 
-**D. Man** — Source: Medicoholic 2015 PYQ compilation.
+**D. Man** — **D. Man** — Salmonella Typhi/Paratyphi are exclusively human pathogens; man (cases and chronic carriers) is the sole reservoir; chronic gallbladder carriers harbor the organism for years.
 
 </details>
 
@@ -5093,7 +5093,7 @@ Most common route of nosocomial infection [Hospital-acquired infection] ?
 
 <details><summary>Answer</summary>
 
-**B. Direct contact** — Source: Medicoholic 2015 PYQ compilation.
+**B. Direct contact** — **B. Direct contact** — Direct contact (especially via healthcare workers' hands) is the commonest route of nosocomial infection transmission; emphasizes hand hygiene as primary prevention.
 
 </details>
 
@@ -5111,7 +5111,7 @@ Behavioral surveillance survey is done in ?
 
 <details><summary>Answer</summary>
 
-**C. AIDS** — Source: Medicoholic 2015 PYQ compilation.
+**C. AIDS** — **C. AIDS** — Behavioral surveillance survey (BSS) under NACO monitors HIV/AIDS risk behaviors (sexual practices, condom use, drug injection) in high-risk groups to evaluate prevention programmes.
 
 </details>
 
@@ -5129,7 +5129,7 @@ Which of the following larvicide is used under urban Malaria Scheme ?
 
 <details><summary>Answer</summary>
 
-**D. Abate** — Source: Medicoholic 2015 PYQ compilation.
+**D. Abate** — **D. Abate** — Abate (temephos), an organophosphate larvicide, is used under Urban Malaria Scheme in domestic water containers; safe at low concentrations for drinking water (WHO approved).
 
 </details>
 
@@ -5147,7 +5147,7 @@ Regular insectisidal spray is done when API is ?
 
 <details><summary>Answer</summary>
 
-**B. > 2** — Source: Medicoholic 2015 PYQ compilation.
+**B. > 2** — **B. > 2** — Annual Parasite Incidence (API) >2 per 1000 population per year is the cut-off for regular indoor residual insecticidal spray under National Vector Borne Disease Control Programme.
 
 </details>
 
@@ -5165,7 +5165,7 @@ Main function of sodium citrate in ORS ?
 
 <details><summary>Answer</summary>
 
-**C. To correct Acidosis** — Source: Medicoholic 2015 PYQ compilation.
+**C. To correct Acidosis** — **C. To correct Acidosis** — Sodium citrate (or bicarbonate) in ORS corrects metabolic acidosis associated with diarrheal dehydration; citrate also stabilizes the solution (longer shelf life than bicarbonate).
 
 </details>
 
@@ -5183,7 +5183,7 @@ For post exposure prophylaxis for HIV the regimen is ?
 
 <details><summary>Answer</summary>
 
-**C. Zidovudin + lamivudin + Indinavir for 4 weeks** — Source: Medicoholic 2015 PYQ compilation.
+**C. Zidovudin + lamivudin + Indinavir for 4 weeks** — **C. Zidovudin + lamivudin + Indinavir for 4 weeks** — HIV PEP (older guidelines): 3-drug regimen (2 NRTIs + protease inhibitor) for 4 weeks, started within 72 hours of exposure; current guidelines use TDF+3TC+DTG/RAL.
 
 </details>
 
@@ -5201,7 +5201,7 @@ True about post-exposure prophylaxis in HIV ?
 
 <details><summary>Answer</summary>
 
-**B. Single dose nevirapine prevents mother to child transmission** — Source: Medicoholic 2015 PYQ compilation.
+**B. Single dose nevirapine prevents mother to child transmission** — **B. Single dose nevirapine prevents mother to child transmission** — Single-dose nevirapine to mother in labor + neonate reduces vertical HIV transmission (HIVNET 012 trial); current PMTCT uses combination ART for sustained suppression.
 
 </details>
 
@@ -5219,7 +5219,7 @@ Rule of Halves is related to ?
 
 <details><summary>Answer</summary>
 
-**D. Hypertension** — Source: Medicoholic 2015 PYQ compilation.
+**D. Hypertension** — **D. Hypertension** — Rule of halves in hypertension: half of hypertensives are detected; of those detected, half are treated; of those treated, half achieve adequate BP control; highlights gaps in care.
 
 </details>
 
@@ -5237,7 +5237,7 @@ Total communication means ?
 
 <details><summary>Answer</summary>
 
-**D. Using every communication option to teach deaf child** — Source: Medicoholic 2015 PYQ compilation.
+**D. Using every communication option to teach deaf child** — **D. Using every communication option to teach deaf child** — Total communication is an educational approach for deaf children using all available methods (sign language, lip-reading, speech, gestures, writing) simultaneously to maximize learning.
 
 </details>
 
@@ -5255,7 +5255,7 @@ Smoking is preventive for ?
 
 <details><summary>Answer</summary>
 
-**C. Ulcerative colitis** — Source: Medicoholic 2015 PYQ compilation.
+**C. Ulcerative colitis** — **C. Ulcerative colitis** — Paradoxically, smoking has protective effect against ulcerative colitis (nicotine reduces inflammation); UC often manifests/worsens after smoking cessation; opposite effect in Crohn's disease.
 
 </details>
 
@@ -5273,7 +5273,7 @@ According female sterlization 2014 guidelines, eligibility criteria for female s
 
 <details><summary>Answer</summary>
 
-**C. Unmarried woman** — Source: Medicoholic 2015 PYQ compilation.
+**C. Unmarried woman** — **C. Unmarried woman** — 2014 sterilization guidelines: married woman, age 22-49 years, ≥1 child >1 year old, partner not sterilized, sound mental state; unmarried women are not eligible.
 
 </details>
 
@@ -5291,7 +5291,7 @@ Which state has lowest IMR ?
 
 <details><summary>Answer</summary>
 
-**B. Kerala** — Source: Medicoholic 2015 PYQ compilation.
+**B. Kerala** — **B. Kerala** — Kerala consistently has India's lowest Infant Mortality Rate (~6/1000 live births) due to high female literacy, universal healthcare access, and excellent antenatal/postnatal coverage.
 
 </details>
 
@@ -5309,7 +5309,7 @@ Gross reproduction rate is ?
 
 <details><summary>Answer</summary>
 
-**A. Number of girls born to a mother in her reproductive age** — Source: Medicoholic 2015 PYQ compilation.
+**A. Number of girls born to a mother in her reproductive age** — **A. Number of girls born to a mother in her reproductive age** — Gross Reproduction Rate (GRR): average number of female children born per woman over her reproductive lifespan (15-49 years), assuming current age-specific fertility rates.
 
 </details>
 
@@ -5327,7 +5327,7 @@ In a town there are 2500 live birth within six month. During same period 5 women
 
 <details><summary>Answer</summary>
 
-**A. 4 per 1000 live birth** — Source: Medicoholic 2015 PYQ compilation.
+**A. 4 per 1000 live birth** — **A. 4 per 1000 live birth** — Maternal mortality rate calculation: only pregnancy-related deaths counted (10 from peripartum infection if all 5+5=10 are obstetric); 10/2500 × 1000 = 4 per 1000 live births.
 
 </details>
 
@@ -5345,7 +5345,7 @@ Vital statistics in a population are ?
 
 <details><summary>Answer</summary>
 
-**C. Birth rate** — Source: Medicoholic 2015 PYQ compilation.
+**C. Birth rate** — **C. Birth rate** — Vital statistics include events related to vital aspects of life: birth, death, marriage, divorce, fetal deaths; birth rate is a core vital statistic; sex ratio/age composition are demographic indicators.
 
 </details>
 
@@ -5363,7 +5363,7 @@ What is exponential growth ?
 
 <details><summary>Answer</summary>
 
-**A. Rapid growth in population that leads to disbalance in birth and** — Source: Medicoholic 2015 PYQ compilation.
+**A. Rapid growth in population that leads to disbalance in birth and** — **A. Rapid growth in population that leads to disbalance in birth and** — Exponential (geometric) population growth: rate proportional to current population size, creating J-shaped curve; occurs without limiting factors, causing imbalance between births and deaths.
 
 </details>
 
@@ -5381,7 +5381,7 @@ Sample registration system is done once in ?
 
 <details><summary>Answer</summary>
 
-**A. 6 months** — Source: Medicoholic 2015 PYQ compilation.
+**A. 6 months** — **A. 6 months** — Sample Registration System (SRS) of India: dual-record system with continuous enumeration by part-time enumerator and independent six-monthly retrospective survey to estimate vital rates.
 
 </details>
 
@@ -5399,7 +5399,7 @@ In a community of 1000000 population 105 children were born in a year out of whi
 
 <details><summary>Answer</summary>
 
-**A. 40** — Source: Medicoholic 2015 PYQ compilation.
+**A. 40** — **A. 40** — IMR = infant deaths (under 1 year) per 1000 live births; live births = 105 - 5 stillbirths = 100; IMR = 4/100 × 1000 = 40 per 1000 live births.
 
 </details>
 
@@ -5417,7 +5417,7 @@ Maternal mortality rate is defined as ?
 
 <details><summary>Answer</summary>
 
-**D. Maternal death per 1000 women of reproductive age** — Source: Medicoholic 2015 PYQ compilation.
+**D. Maternal death per 1000 women of reproductive age** — **D. Maternal death per 1000 women of reproductive age** — Maternal Mortality Rate (per 1000/100,000 women of reproductive age, 15-49 years); distinguish from Maternal Mortality Ratio (per 100,000 live births).
 
 </details>
 

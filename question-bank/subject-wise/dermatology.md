@@ -2318,7 +2318,7 @@ Which of the following is not a feature of dermatomyositis?
 
 <details><summary>Answer</summary>
 
-**D. Groove sign** — Source: Medicoholic 2016 PYQ compilation.
+**D. Groove sign** — **D. Groove sign** — Dermatomyositis features: V-sign, shawl sign, holster sign, Gottron's papules, heliotrope rash, poikiloderma, mechanic's hands; groove sign is feature of onchocerciasis/scleroderma, not DM.
 
 </details>
 

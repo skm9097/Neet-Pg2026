@@ -1696,7 +1696,7 @@ Most common cause of lung abscess is comatose patient
 
 <details><summary>Answer</summary>
 
-**B. Oral anaerobes** — Source: Medicoholic 2015 PYQ compilation.
+**B. Oral anaerobes** — **B. Oral anaerobes** — Aspiration of oropharyngeal anaerobes (Bacteroides, Fusobacterium, Peptostreptococcus, Prevotella) in comatose/unconscious patients causes lung abscess, typically in posterior segment of right upper lobe.
 
 </details>
 

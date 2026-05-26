@@ -8,27 +8,27 @@ Each subject file includes the complete year-wise pool merged in — use these f
 
 | File | Subject | Questions |
 |------|---------|-----------|
-| [anaesthesia.md](anaesthesia.md) | Anaesthesia | 80 |
-| [anatomy.md](anatomy.md) | Anatomy | 828 |
-| [biochemistry.md](biochemistry.md) | Biochemistry | 462 |
+| [anaesthesia.md](anaesthesia.md) | Anaesthesia | 75 |
+| [anatomy.md](anatomy.md) | Anatomy | 824 |
+| [biochemistry.md](biochemistry.md) | Biochemistry | 444 |
 | [community-medicine.md](community-medicine.md) | Community Medicine / PSM | 744 |
-| [dermatology.md](dermatology.md) | Dermatology | 215 |
-| [ent.md](ent.md) | ENT | 715 |
-| [forensic-medicine.md](forensic-medicine.md) | Forensic Medicine & Toxicology | 128 |
-| [medicine.md](medicine.md) | General Medicine | 585 |
-| [microbiology.md](microbiology.md) | Microbiology | 264 |
-| [obstetrics-gynaecology.md](obstetrics-gynaecology.md) | Obstetrics & Gynaecology | 1,060 |
-| [ophthalmology.md](ophthalmology.md) | Ophthalmology | 272 |
-| [orthopaedics.md](orthopaedics.md) | Orthopaedics | 114 |
-| [pathology.md](pathology.md) | Pathology | 469 |
-| [pediatrics.md](pediatrics.md) | Paediatrics | 101 |
-| [pharmacology.md](pharmacology.md) | Pharmacology | 329 |
-| [physiology.md](physiology.md) | Physiology | 574 |
+| [dermatology.md](dermatology.md) | Dermatology | 212 |
+| [ent.md](ent.md) | ENT | 707 |
+| [forensic-medicine.md](forensic-medicine.md) | Forensic Medicine & Toxicology | 127 |
+| [medicine.md](medicine.md) | General Medicine | 581 |
+| [microbiology.md](microbiology.md) | Microbiology | 262 |
+| [obstetrics-gynaecology.md](obstetrics-gynaecology.md) | Obstetrics & Gynaecology | 1,063 |
+| [ophthalmology.md](ophthalmology.md) | Ophthalmology | 271 |
+| [orthopaedics.md](orthopaedics.md) | Orthopaedics | 112 |
+| [pathology.md](pathology.md) | Pathology | 466 |
+| [pediatrics.md](pediatrics.md) | Paediatrics | 100 |
+| [pharmacology.md](pharmacology.md) | Pharmacology | 328 |
+| [physiology.md](physiology.md) | Physiology | 562 |
 | [psychiatry.md](psychiatry.md) | Psychiatry | 167 |
-| [radiology.md](radiology.md) | Radiology | 104 |
-| [surgery.md](surgery.md) | General Surgery | 244 |
+| [radiology.md](radiology.md) | Radiology | 102 |
+| [surgery.md](surgery.md) | General Surgery | 241 |
 
-**Total: 7,455 subject-wise questions** across all 19 NBE NEET-PG subjects.
+**Total: 7,388 subject-wise questions** across all 19 NBE NEET-PG subjects. All explanations include real mechanism/rationale (no boilerplate Source attributions remaining).
 
 ## Format
 

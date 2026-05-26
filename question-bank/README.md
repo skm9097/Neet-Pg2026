@@ -9,69 +9,70 @@ question-bank/
 ├── ATTRIBUTION.md          Source attribution & use notice
 ├── STUDY-PLAN.md           Suggested study schedule + how to use this repo
 ├── template.md             Schema for adding new questions
-├── subject-wise/           Multi-year pools across all 19 subjects (7,455 Qs)
+├── subject-wise/           Multi-year pools across all 19 subjects (7,388 Qs)
 │   ├── README.md                           (index + counts)
-│   ├── anaesthesia.md       (80 Qs)
-│   ├── anatomy.md           (828 Qs)
-│   ├── biochemistry.md      (462 Qs)
+│   ├── anaesthesia.md       (75 Qs)
+│   ├── anatomy.md           (824 Qs)
+│   ├── biochemistry.md      (444 Qs)
 │   ├── community-medicine.md (744 Qs)
-│   ├── dermatology.md       (215 Qs)
-│   ├── ent.md               (715 Qs)
-│   ├── forensic-medicine.md (128 Qs)
-│   ├── medicine.md          (585 Qs)
-│   ├── microbiology.md      (264 Qs)
-│   ├── obstetrics-gynaecology.md (1,060 Qs)
-│   ├── ophthalmology.md     (272 Qs)
-│   ├── orthopaedics.md      (114 Qs)
-│   ├── pathology.md         (469 Qs)
-│   ├── pediatrics.md        (101 Qs)
-│   ├── pharmacology.md      (329 Qs)
-│   ├── physiology.md        (574 Qs)
+│   ├── dermatology.md       (212 Qs)
+│   ├── ent.md               (707 Qs)
+│   ├── forensic-medicine.md (127 Qs)
+│   ├── medicine.md          (581 Qs)
+│   ├── microbiology.md      (262 Qs)
+│   ├── obstetrics-gynaecology.md (1,063 Qs)
+│   ├── ophthalmology.md     (271 Qs)
+│   ├── orthopaedics.md      (112 Qs)
+│   ├── pathology.md         (466 Qs)
+│   ├── pediatrics.md        (100 Qs)
+│   ├── pharmacology.md      (328 Qs)
+│   ├── physiology.md        (562 Qs)
 │   ├── psychiatry.md        (167 Qs)
-│   ├── radiology.md         (104 Qs)
-│   └── surgery.md           (244 Qs)
-├── 2025/questions.md       200 Qs (full DigiNerve recall set)
-├── 2024/questions.md       306 Qs (DocTutorials Shift 1+2)
-├── 2023/questions.md       211 Qs (PrepLadder + Medicoholic PDF)
-├── 2022/questions.md       220 Qs (PrepLadder + Medicoholic PDF)
-├── 2021/questions.md       227 Qs (PrepLadder recall)
-├── 2020/questions.md       390 Qs (Medicoholic PYQ compilation)
-├── 2019/questions.md       381 Qs (Medicoholic + nishantbhushan.in PDFs)
-├── 2018/questions.md       322 Qs (PrepLadder + Medicoholic PDF)
+│   ├── radiology.md         (102 Qs)
+│   └── surgery.md           (241 Qs)
+├── 2025/questions.md       199 Qs (full DigiNerve recall set)
+├── 2024/questions.md       305 Qs (DocTutorials Shift 1+2)
+├── 2023/questions.md       210 Qs (PrepLadder + Medicoholic PDF)
+├── 2022/questions.md       215 Qs (PrepLadder + Medicoholic PDF)
+├── 2021/questions.md       346 Qs (PrepLadder recall + DocTutorials merged)
+├── 2020/questions.md       373 Qs (Medicoholic PYQ compilation)
+├── 2019/questions.md       356 Qs (Medicoholic + nishantbhushan.in PDFs)
+├── 2018/questions.md       307 Qs (PrepLadder + Medicoholic PDF)
 ├── 2017/questions.md       249 Qs (Medicoholic NEET-PG 2017)
 ├── 2016/questions.md       1,871 Qs (Medicoholic PYQ compilation + firstranker.com)
 └── 2015/questions.md       1,846 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
 ```
 
-**Current totals (as of 2026-05-25, post-expansion):**
-- **Year-wise:** 6,223 questions across 2015–2025 (all years covered)
-- **Subject-wise:** 7,455 questions across all 19 NBE subjects
-- **Grand total:** ~13,550+ entries (year-wise + subject-wise combined)
-- **Audit results:** 0 within-file duplicates, all answer-letter conflicts resolved, sequential Q-numbering verified
+**Current totals (as of 2026-05-26, post-cleanup):**
+- **Year-wise:** 6,277 questions across 2015–2025 (all years covered)
+- **Subject-wise:** 7,388 questions across all 19 NBE subjects
+- **Grand total:** ~13,665+ entries (year-wise + subject-wise combined)
+- **Audit results:** 0 within-file duplicates, 0 boilerplate-only explanations, all answer-letter conflicts resolved, sequential Q-numbering verified
+- **Phase 3 cleanup:** 3,311 unique stems (6,487 file locations) had boilerplate `Source: … compilation` replaced with real one-line mechanisms via 125 batched expansions
 
 | Subject | Year-wise | Subject-wise |
 |---------|-----------|--------------|
-| Anatomy | ~2,300 | 828 |
-| Physiology | ~1,900 | 574 |
-| Biochemistry | ~1,500 | 462 |
-| Pathology | ~1,500 | 469 |
-| Microbiology | ~800 | 264 |
-| Pharmacology | ~800 | 329 |
-| Forensic Medicine | ~200 | 128 |
+| Anatomy | ~2,300 | 824 |
+| Physiology | ~1,900 | 562 |
+| Biochemistry | ~1,500 | 444 |
+| Pathology | ~1,500 | 466 |
+| Microbiology | ~800 | 262 |
+| Pharmacology | ~800 | 328 |
+| Forensic Medicine | ~200 | 127 |
 | Community Medicine | ~900 | 744 |
-| Medicine | ~1,500 | 585 |
-| Surgery | ~600 | 244 |
-| OBG | ~1,600 | 1,060 |
-| Paediatrics | ~300 | 101 |
-| Orthopaedics | ~200 | 114 |
-| ENT | ~1,600 | 715 |
-| Ophthalmology | ~700 | 272 |
-| Dermatology | ~500 | 215 |
+| Medicine | ~1,500 | 581 |
+| Surgery | ~600 | 241 |
+| OBG | ~1,600 | 1,063 |
+| Paediatrics | ~300 | 100 |
+| Orthopaedics | ~200 | 112 |
+| ENT | ~1,600 | 707 |
+| Ophthalmology | ~700 | 271 |
+| Dermatology | ~500 | 212 |
 | Psychiatry | ~400 | 167 |
-| Radiology | ~300 | 104 |
-| Anaesthesia | ~100 | 80 |
+| Radiology | ~300 | 102 |
+| Anaesthesia | ~100 | 75 |
 
-**Remaining gaps:** 2021 year file (227 recall only, no official answer key PDF found).
+**Remaining gaps:** 2021 year file relies on DocTutorials + PrepLadder recall; no official answer key PDF found.
 
 ## Question Format
 

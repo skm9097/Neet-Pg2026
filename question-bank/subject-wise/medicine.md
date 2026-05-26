@@ -2758,7 +2758,7 @@ All of the following testicular tumours are germ cell tumours EXCEPT:
 
 <details><summary>Answer</summary>
 
-**D. Sertoli cell tumour** — Source: Medicoholic 2015 PYQ compilation.
+**D. Sertoli cell tumour** — **D. Sertoli cell tumour** — Sertoli cell tumors are sex cord-stromal tumors (along with Leydig cell tumors), not germ cell tumors; germ cell tumors include seminoma, teratoma, embryonal carcinoma, yolk sac, choriocarcinoma.
 
 </details>
 
@@ -4145,7 +4145,7 @@ Definitive surgery is a part of which stage of damage control surgery?
 
 <details><summary>Answer</summary>
 
-**D. IV** — Source: Medicoholic 2016 PYQ compilation.
+**D. IV** — **D. IV** — Damage control surgery stages: I-resuscitation/decision, II-initial damage control laparotomy (control hemorrhage/contamination), III-ICU stabilization, IV-definitive surgery and reconstruction once physiology restored.
 
 </details>
 

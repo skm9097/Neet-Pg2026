@@ -13646,7 +13646,7 @@ A 21-year-old female presents to emergency ward with 2 months of amenorrhea with
 
 <details><summary>Answer</summary>
 
-**B. IV fluids & cross match** — Source: Medicoholic 2016 PYQ compilation.
+**B. IV fluids & cross match** — **B. IV fluids & cross match** — Ruptured ectopic pregnancy with hemodynamic shock (BP 90/60, Hb 6): immediate resuscitation with IV fluids and blood cross-match comes first before emergency laparotomy.
 
 </details>
 
