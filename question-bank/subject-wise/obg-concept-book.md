@@ -63,7 +63,7 @@ Every major concept in OBG has been reverse-engineered from the 1,063 PYQ MCQs (
 
 ---
 
-**Total: 65,409 words | 1,063 questions integrated**
+**Total: 65,739 words | 1,063 questions integrated**
 
 
 ---
@@ -1439,6 +1439,59 @@ Betamethasone given to preterm patients is used for all EXCEPT:
 </details>
 
 **Why this question appears almost every year:** Students learn that betamethasone has "many uses" and may be uncertain whether PPH is one of them. The key logic: betamethasone acts on the *fetal* system (crosses the placenta); PPH is a *maternal* complication of the third stage of labour. There is no biological connection.
+
+**Q847 — Betamethasone in preterm (2016 PYQ repeat)**
+
+Betamethasone given to preterm patient for all except:
+
+- A. Fetal lung maturity
+- B. Decrease intraventricular hemorrhage
+- C. Prevents periventricular leukomalacia
+- D. Prevent PPH
+
+<details><summary>Answer</summary>
+
+**D. Prevent PPH** — Antenatal betamethasone accelerates fetal lung maturity, reduces intraventricular hemorrhage and periventricular leukomalacia. It has no role in preventing postpartum hemorrhage, which is a maternal uterine/coagulation problem.
+
+</details>
+
+> 🔍 **Examiner Note:** This question appeared in both Q489 and Q847 in the same 2016 paper in slightly different wording — confirming it is an examiner obsession. If you can only memorise one fact from Section 15, it is: betamethasone does NOT prevent PPH.
+
+---
+
+**Q856 — Cardiovascular changes in pregnancy (2016 PYQ)**
+
+During pregnancy, the true statement about the cardiovascular system is:
+
+- A. Cardiac output decreases
+- B. Right axis deviation
+- C. Increase in left ventricular end diastolic diameter
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**C. Increase in left ventricular end diastolic diameter** — Pregnancy causes increased plasma volume and preload → increased LVEDD (physiological cardiac dilatation). Cardiac output increases (not decreases) and the ECG axis shifts left (not right) as the uterus elevates the diaphragm and rotates the heart.
+
+</details>
+
+**Memory hook:** In pregnancy, the heart is pressed UP and LEFT by the growing uterus → left axis deviation on ECG. Cardiac output increases from as early as 5 weeks. LVEDD increases from volume overload. None of the "all of the above" is correct because A and B are both wrong statements.
+
+---
+
+**Q907 — Quadruple test timing (2018 PYQ repeat)**
+
+Best time to do quadruple test:
+
+- A. 8–12 weeks
+- B. 11–15 weeks
+- C. 15–20 weeks
+- D. 18–22 weeks
+
+<details><summary>Answer</summary>
+
+**C. 15–20 weeks** — The quad test is a second-trimester serum screening test. This question appeared identically in both 2017 and 2018 NEET-PG papers — confirming it is examiner-favourite material. Always place it in the second trimester (15–20 weeks), never the first.
+
+</details>
 
 ---
 
