@@ -329,7 +329,7 @@ Recurrent profuse unilateral epistaxis in an adolescent male with a vascular nas
 
 ### Q21 — patient has a herniated intervertebral disc *(2015)*
 
-patient has a herniated intervertebral disc impinging on the right C5 nerve Which of the following movements would most likely be affected?
+Patient has a herniated intervertebral disc impinging on the right C5 nerve Which of the following movements would most likely be affected?
 
 - A. Extension of the fingers
 - B. Extension of the shoulder
@@ -1363,7 +1363,7 @@ If content of A is 15%, what is the amount of G in DNA according to Chargaff s r
 ---
 ### Q80 — cDNA from RNA is synthesized by
 
-cDNA from RNA is synthesized by -
+CDNA from RNA is synthesized by -
 
 - A. Helicase
 - B. DNA dependent DNA polymerase
@@ -3071,9 +3071,9 @@ Glaucoma drainage devices ?
 ---
 
 ---
-### Q175 — year old woman presents Sudden painless
+### Q175 — Patient woman presents Sudden painless
 
-A patient (age not captured in source) who is a year old woman presents Sudden painless loss of vision with history of previous similar episode fundoscopy shows no glow. What could be the
+Woman presents Sudden painless loss of vision with history of previous similar episode fundoscopy shows no glow. What could be the
 
 - A. Vitreous Hemorrhage
 - B. Rhegmatogenous Retinal Detachment
@@ -4025,9 +4025,9 @@ Chimeric chemotherapy is being investigated for the treatment of which malignanc
 ---
 
 ---
-### Q228 — year old male presents with CA
+### Q228 — Patient male presents with CA
 
-A patient (age not captured in source) who is a year old male presents with CA prostate. The tumour is limited to the capsule and it is palpable on PR examination. The patient is diagnosed
+Male presents with CA prostate. The tumour is limited to the capsule and it is palpable on PR examination. The patient is diagnosed
 
 - A. Radical prostatectomy
 - B. Chemotherapy
@@ -4043,9 +4043,9 @@ A patient (age not captured in source) who is a year old male presents with CA p
 ---
 
 ---
-### Q229 — year old male is receiving conservative
+### Q229 — Patient male is receiving conservative
 
-A patient (age not captured in source) who is a year old male is receiving conservative management for an appendicular mass since 3 days now presents with a rising pulse rate,
+Male is receiving conservative management for an appendicular mass since 3 days now presents with a rising pulse rate,
 
 - A. Ochsner sherren regimen
 - B. Continue conservative management
@@ -4097,9 +4097,9 @@ Treatment of choice of mucinous carcinoma of Gall Bladder confined to the lamina
 ---
 
 ---
-### Q232 — year old woman presented with history
+### Q232 — Patient woman presented with history
 
-A patient (age not captured in source) who is a year old woman presented with history of recurrent episodes of right upper abdominal pain for the last one year. She presented to emergency with
+Woman presented with history of recurrent episodes of right upper abdominal pain for the last one year. She presented to emergency with
 
 - A. ERCP and bile duct stone extraction
 - B. Laparoscopic cholecystectomy
@@ -4259,9 +4259,9 @@ Which of the following is the agent of choice for cryosurgery?
 ---
 
 ---
-### Q241 — year old female presents with a
+### Q241 — Patient female presents with a
 
-A patient (age not captured in source) who is a year old female presents with a swelling in the neck diagnosed as a solitary thyroid nodule. The patient is investigated and a scan shows
+Female presents with a swelling in the neck diagnosed as a solitary thyroid nodule. The patient is investigated and a scan shows
 
 - A. Benign Colloid Nodule
 - B. Toxic Adenoma
@@ -4295,9 +4295,9 @@ Which of the following stages of lip carcinoma do not have nodal involvement ?
 ---
 
 ---
-### Q243 — year old woman is diagnosed as
+### Q243 — Patient woman is diagnosed as
 
-A patient (age not captured in source) who is a year old woman is diagnosed as having carcinoma of the renal pelvis of size less than 4 cm without any metastasis. The best treatment option
+Woman is diagnosed as having carcinoma of the renal pelvis of size less than 4 cm without any metastasis. The best treatment option
 
 - A. Partial nephrectomy
 - B. Radical Nephrectomy
@@ -4963,7 +4963,7 @@ All are done to minimize radiation, exposure to the patient under fluroscopy, ex
 ---
 ### Q280 — year-old female presented to the emergency
 
-year-old female presented to the emergency department with the sudden onset of severe epigastric pain. She had
+Year-old female presented to the emergency department with the sudden onset of severe epigastric pain. She had
 
 - A. Blood under diaphragm
 - B. Air under diaphragm
@@ -4981,7 +4981,7 @@ year-old female presented to the emergency department with the sudden onset of s
 ---
 ### Q281 — year-old chronic alcoholic male patient, after
 
-year-old chronic alcoholic male patient, after a large binge of alcohol, presented to the emergency department in subconscious state. He vomited
+Year-old chronic alcoholic male patient, after a large binge of alcohol, presented to the emergency department in subconscious state. He vomited
 
 - A. Perforated peptic ulcer
 - B. Acute MI
@@ -11214,7 +11214,7 @@ Joint involved in movement of head from left to right.
 ---
 ### Q594 — collagen present in skin is *(2019)*
 
-collagen present in skin is
+Collagen present in skin is
 
 - A. Type II
 - B. Type I

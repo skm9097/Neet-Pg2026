@@ -1490,7 +1490,7 @@ Personnel radiation monitoring device?
 ---
 ### Q86 — years old lady with a history *(2020)*
 
-A patient (age not captured in source) who is a years old lady with a history of fever for 1 month presents with headache and ataxia.Brain imaging shows dilated ventricles and significant basal
+Lady with a history of fever for 1 month presents with headache and ataxia.Brain imaging shows dilated ventricles and significant basal
 
 - A. Lymphocytosis, Low Glucose, High protein
 - B. Lymphocytosis, Normal Glucose, High protein

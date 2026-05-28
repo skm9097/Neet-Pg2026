@@ -3602,9 +3602,9 @@ Heller's myotomy is done for: September 2007, 2009, 2010
 ---
 
 ---
-### Q207 — year old male is diagnosed with
+### Q207 — Patient male is diagnosed with
 
-A patient (age not captured in source) who is a year old male is diagnosed with carcinoma penis. The surgeon must look out for which lymphnodes
+Male is diagnosed with carcinoma penis. The surgeon must look out for which lymphnodes
 
 - A. Para aortic
 - B. External iliac
@@ -3620,9 +3620,9 @@ A patient (age not captured in source) who is a year old male is diagnosed with 
 ---
 
 ---
-### Q208 — year old male presenting with penile
+### Q208 — Patient male presenting with penile
 
-A patient (age not captured in source) who is a year old male presenting with penile cancer extending upto the glans penis is treated with
+Male presenting with penile cancer extending upto the glans penis is treated with
 
 - A. Partial Penectomy with 2 cm margin
 - B. Circumcision
@@ -3980,9 +3980,9 @@ Which of the following is used as a substitute for wrist extensors in radial ner
 ---
 
 ---
-### Q228 — year old carpenter with a blunt
+### Q228 — Patient carpenter with a blunt
 
-A patient (age not captured in source) who is a year old carpenter with a blunt trauma to his arm sustained a fracture followingwhich he developedwrist drop, loss of extension at fingers and loss of
+Carpenter with a blunt trauma to his arm sustained a fracture followingwhich he developedwrist drop, loss of extension at fingers and loss of
 
 - A. Patient has an injury to the median nerve
 - B. He should have also lost extention of the forearm
@@ -11221,7 +11221,7 @@ About Weber’s syndrome which is incorrect:
 
 <details><summary>Answer</summary>
 
-**D. Anterior cerebral peduncle** — ● Weber's syndrome (superior alternating hemiplegia) is a form of stroke characterized by the presence of an ipsilateral oculomotor nerve palsy and contralateral hemiparesis or hemiplegia. ● It is caused by midbrain infarction as a result of occlusion of the paramedianbranches of the posterior cereb
+**D. Anterior cerebral peduncle** — Weber's syndrome (superior alternating hemiplegia) is a form of stroke characterized by the presence of an ipsilateral oculomotor nerve palsy and contralateral hemiparesis or hemiplegia.; It is caused by midbrain infarction as a result of occlusion of the paramedianbranches of the posterior cereb
 
 </details>
 
@@ -11239,7 +11239,7 @@ About Sibson’s fascia which is incorrect:
 
 <details><summary>Answer</summary>
 
-**A. Attached to the inner border of 2nd rib** — ● The suprapleural membrane is known as Sibson's fascia. ● It refers to a thickening of connective tissue that covers the apex of each human lung. ● It attaches to the internal border of the first rib and the transverse processes of vertebra C7.
+**A. Attached to the inner border of 2nd rib** — The suprapleural membrane is known as Sibson's fascia.; It refers to a thickening of connective tissue that covers the apex of each human lung.; It attaches to the internal border of the first rib and the transverse processes of vertebra C7.
 
 </details>
 
@@ -11257,7 +11257,7 @@ Broca’s area situated in:
 
 <details><summary>Answer</summary>
 
-**A. Inferior frontal gyrus** — ● Broca's area or the Broca area (44) is a region in the frontal lobe of the dominant hemisphere (usually the left) of the hominid brain with functions linked to speech production. ● Inability to speak after injury to the posteriorinferior frontal gyrus of the brain. ● Pierre Paul Brocahe identified
+**A. Inferior frontal gyrus** — Broca's area or the Broca area (44) is a region in the frontal lobe of the dominant hemisphere (usually the left) of the hominid brain with functions linked to speech production.; Inability to speak after injury to the posteriorinferior frontal gyrus of the brain.; Pierre Paul Brocahe identified
 
 </details>
 
@@ -11293,7 +11293,7 @@ Structures not passing through Aortic opening:
 
 <details><summary>Answer</summary>
 
-**D. Vagus** — ● Aortic opening (Aortic hiatus) is one the three major apertures through the diaphragm & lies at the level of T12. ● A number of structures pass through the aortic hiatus: aorta, azygos vein, thoracic duct, greater splanchnic nerve.
+**D. Vagus** — Aortic opening (Aortic hiatus) is one the three major apertures through the diaphragm & lies at the level of T12.; A number of structures pass through the aortic hiatus: aorta, azygos vein, thoracic duct, greater splanchnic nerve.
 
 </details>
 
@@ -12496,7 +12496,7 @@ Hyperammonaemia inhibit TCA cycle by depleting?
 ---
 ### Q662 — which amino acid is used to *(2019)*
 
-which amino acid is used to synthesise Nitric oxide ?
+Which amino acid is used to synthesise Nitric oxide ?
 
 - A. glycine
 - B. arginine
@@ -12530,9 +12530,9 @@ LCAT deficiency increases the following
 ---
 
 ---
-### Q664 — year old alcoholic presented with edema,hypertensi *(2019)*
+### Q664 — Patient alcoholic presented with edema,hypertensi *(2019)*
 
-A patient (age not captured in source) who is a year old alcoholic presented with edema,hypertension, ocular disturbance,and changes in mental state was observed, diagnosis of high output
+Alcoholic presented with edema,hypertension, ocular disturbance,and changes in mental state was observed, diagnosis of high output
 
 - A. Vit B3
 - B. Vit B6
@@ -12586,7 +12586,7 @@ Protein which is not synthesised In liver is
 ---
 ### Q667 — which of the following is not *(2019)*
 
-which of the following is not Ribozyme?
+Which of the following is not Ribozyme?
 
 - A. Ploy A polymerase
 - B. Ribonuclease
@@ -12694,7 +12694,7 @@ Which one of the following is an autosomal recessive disorder?
 ---
 ### Q673 — what is the histological difference between *(2019)*
 
-what is the histological difference between them in Ulcerative colitis & Crohn’s disease?
+What is the histological difference between them in Ulcerative colitis & Crohn’s disease?
 
 - A. Diffuse distribution of pseudopolyps
 - B. Mucosal edema

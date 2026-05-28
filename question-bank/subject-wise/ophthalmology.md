@@ -1001,7 +1001,7 @@ All are true about congenital Toxoplasmosis EXCEPT
 
 ### Q60 — true about TRIAD congenital rubella syndrome *(2019)*
 
-true about TRIAD congenital rubella syndrome
+True about TRIAD congenital rubella syndrome
 
 - A. PDA, cataract and deafness is seen
 - B. Hepatosplenomegaly, mental retardation, deafness
@@ -1342,9 +1342,9 @@ Posterior staphyloma is seen in:
 ---
 
 ---
-### Q79 — year old man presents to the
+### Q79 — Patient man presents to the
 
-A patient (age not captured in source) who is a year old man presents to the clinic with pain in the eye, watering, redness and photophobia. Examination of his eyes shows circumcorneal congestion and keratic precipitates. Assertion: KPs are proteinaceous deposits occurring in a triangular fashion in the
+Man presents to the clinic with pain in the eye, watering, redness and photophobia. Examination of his eyes shows circumcorneal congestion and keratic precipitates. Assertion: KPs are proteinaceous deposits occurring in a triangular fashion in the
 
 - A. Both Assertion and Reason are true, and Reason is the correct
 - B. Both Assertion and Reason are true, and Reason is not the

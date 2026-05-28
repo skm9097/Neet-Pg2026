@@ -3319,9 +3319,9 @@ RPLND and Chemotherapy may be used in management of
 ---
 
 ---
-### Q188 — year old child presents with a
+### Q188 — Patient child presents with a
 
-A patient (age not captured in source) who is a year old child presents with a mass in the lumbar region with abdominal pain with excruciating bone pain. Possible diagnosis is -
+Child presents with a mass in the lumbar region with abdominal pain with excruciating bone pain. Possible diagnosis is -
 
 - A. Neuroblastoma
 - B. Wilm's Tumour
@@ -3337,9 +3337,9 @@ A patient (age not captured in source) who is a year old child presents with a m
 ---
 
 ---
-### Q189 — year old child presents with an
+### Q189 — Patient child presents with an
 
-A patient (age not captured in source) who is a year old child presents with an abdominal mass, fever, bone pain and IVC thrombosis , the diagnosis could be -
+Child presents with an abdominal mass, fever, bone pain and IVC thrombosis , the diagnosis could be -
 
 - A. Wilm's tumour
 - B. Neuroblastoma
@@ -4086,7 +4086,7 @@ Which disease is diagnosed by jejunal biopsy?
 ---
 ### Q227 — commonest benign tumor of the esophagus *(2016)*
 
-commonest benign tumor of the esophagus?
+Commonest benign tumor of the esophagus?
 
 - A. Leiomyoma
 - B. Papilloma

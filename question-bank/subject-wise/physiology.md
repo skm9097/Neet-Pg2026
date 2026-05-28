@@ -662,7 +662,7 @@ Aldosterone secretion is maximally stimulated by:
 
 ### Q40 — cGMP — second messenger
 
-cGMP is the second messenger of:
+CGMP is the second messenger of:
 
 - A. Somatostatin
 - B. Angiotensin II
@@ -1257,7 +1257,7 @@ CPDA-1 is superior to ACD because:
 
 ### Q75 — β2 receptor — second messenger
 
-β2 receptor action (hyperglycemia) mediated by:
+Β2 receptor action (hyperglycemia) mediated by:
 
 - A. Adenylyl cyclase
 - B. Guanylyl cyclase
@@ -2637,7 +2637,7 @@ Epithelial sodium channels has ?
 ---
 ### Q153 — pH of intracellular fluid is
 
-pH of intracellular fluid is ?
+PH of intracellular fluid is ?
 
 - A. Slightly less than ECF
 - B. Slightly more than ECF
@@ -5664,7 +5664,7 @@ Maximum daily degradation of hemoglobin in normal adults?
 ---
 ### Q312 — cAMP activates *(2016)*
 
-cAMP activates?
+CAMP activates?
 
 - A. Protein kinase 'A'
 - B. Protein kinase 'C'
@@ -6176,7 +6176,7 @@ What should be the value of BMI to be considered as “Lethal” in men?
 
 <details><summary>Answer</summary>
 
-**C. 13** — BMI Value of 13 is considered as “Lethal” in men. ● Body mass index (BMI) is an estimate of total body fat mass ● Simply an index of weight for height. ● Formula: ○ Weight in kilograms divided by the square of height in meters. ○ Body mass index = Weight (kg)/(Height)2 (m) ● Uses: ○ Used to classify
+**C. 13** — BMI Value of 13 is considered as “Lethal” in men.; Body mass index (BMI) is an estimate of total body fat mass; Simply an index of weight for height.; Formula: ○ Weight in kilograms divided by the square of height in meters. ○ Body mass index = Weight (kg)/(Height)2 (m); Uses: ○ Used to classify
 
 </details>
 
@@ -6194,7 +6194,7 @@ Which receptors are blocked in Myasthenia Gravis?
 
 <details><summary>Answer</summary>
 
-**A. Ach receptors** — ● An autoimmune disease ● Antibody mediated autoimmune attack of acetylcholine receptors. ● Inability of neuromuscular junctions to transmit signals from nerve to muscle ● Resulting in muscle weakness and fatigability. ● Unresponsive respiratory muscles may cause respiratory failure in severe cases.
+**A. Ach receptors** — An autoimmune disease; Antibody mediated autoimmune attack of acetylcholine receptors.; Inability of neuromuscular junctions to transmit signals from nerve to muscle; Resulting in muscle weakness and fatigability.; Unresponsive respiratory muscles may cause respiratory failure in severe cases.
 
 </details>
 
@@ -6212,7 +6212,7 @@ Alpha waves are seen during?
 
 <details><summary>Answer</summary>
 
-**C. Relaxed state** — ● Regarded as normal wavefront ● Occur when at rest and eyes closed with active/wandering mind ie., associated with decreased level of attention (either during relaxed/subconscious thinking) ● Regular Rhythm (Frequency 8-13 Hz Amplitude - 50-100 V)
+**C. Relaxed state** — Regarded as normal wavefront; Occur when at rest and eyes closed with active/wandering mind ie., associated with decreased level of attention (either during relaxed/subconscious thinking); Regular Rhythm (Frequency 8-13 Hz Amplitude - 50-100 V)
 
 </details>
 
@@ -6230,7 +6230,7 @@ Components responsible for counter current mechanism in kidney are all except:
 
 <details><summary>Answer</summary>
 
-**C. Sodium outflow in thin ascending limb** — ● Counter-current system occurs in kidney ● A system in which inflow runs parallel to, counter to, and in close proximity to the outflow for some distance. ● 2 countercurrent mechanisms available: ● Countercurrent multiplier at Loop of Henle ○ Generate high medullary osmotic gradient pressure ● Coun
+**C. Sodium outflow in thin ascending limb** — Counter-current system occurs in kidney; A system in which inflow runs parallel to, counter to, and in close proximity to the outflow for some distance.; 2 countercurrent mechanisms available:; Countercurrent multiplier at Loop of Henle ○ Generate high medullary osmotic gradient pressure; Coun
 
 </details>
 
@@ -6248,7 +6248,7 @@ Glucose is absorbed in intestine by?
 
 <details><summary>Answer</summary>
 
-**B. Facilitated diffusion** — ● Facilitated diffusion is a diffusion of large water soluble molecule by a carrier protein. ● Glucose and amino acids are transported across the membrane by this method.
+**B. Facilitated diffusion** — Facilitated diffusion is a diffusion of large water soluble molecule by a carrier protein.; Glucose and amino acids are transported across the membrane by this method.
 
 </details>
 
@@ -6266,7 +6266,7 @@ Insulin like growth factor is secreted by:
 
 <details><summary>Answer</summary>
 
-**A. Liver** — ● Growth hormone acts on liver to form small proteins called “Somatomedins” ● Somatomedins increases bone growth in all aspect ● Effects are similar to insulin, hence referred to as “Insulin-like Growth Factor” (IGF). ● Four types available - ○ Most important is Somatomedin C - Specifically referred
+**A. Liver** — Growth hormone acts on liver to form small proteins called “Somatomedins”; Somatomedins increases bone growth in all aspect; Effects are similar to insulin, hence referred to as “Insulin-like Growth Factor” (IGF).; Four types available - ○ Most important is Somatomedin C - Specifically referred
 
 </details>
 
@@ -6284,7 +6284,7 @@ Transport across nucleus is by all except?
 
 <details><summary>Answer</summary>
 
-**D. Rat proteins** — ● Importin - Type of karyopherin ○ Transporting protein molecules into nucleus by binding to specific recognition sequences, called Nuclear Localization Sequences (NLS). ○ 2 subunits, importin α and importin β. ● Caveolins: ○ Family of integral membrane proteins that are principal components of cave
+**D. Rat proteins** — Importin - Type of karyopherin ○ Transporting protein molecules into nucleus by binding to specific recognition sequences, called Nuclear Localization Sequences (NLS). ○ 2 subunits, importin α and importin β.; Caveolins: ○ Family of integral membrane proteins that are principal components of cave
 
 </details>
 
@@ -8520,7 +8520,7 @@ Stimulation of the external auditory canal leads to cough due to which nerve
 ---
 ### Q467 — widening of the cartilaginous part of *(2020)*
 
-widening of the cartilaginous part of the extra auditory canal called.
+Widening of the cartilaginous part of the extra auditory canal called.
 
 - A. Otoplasty
 - B. Myringoplasty
@@ -8610,7 +8610,7 @@ Prerequisite for sympathetic ophthalmitis
 ---
 ### Q472 — old male with a history of *(2020)*
 
-old male with a history of hypertension and diabetes, presents to the OPD with complaints of diplopia and squint. On examination, the secondary
+Old male with a history of hypertension and diabetes, presents to the OPD with complaints of diplopia and squint. On examination, the secondary
 
 - A. concomitant squint
 - B. paralytic squint
@@ -9343,7 +9343,7 @@ Capillary hydrostatic 18, oncotic 27, interstitial oncotic 7, no net transudatio
 ---
 ### Q513 — β2 receptor — enzyme mediating hyperglycemia
 
-β2 receptor action leading to hyperglycemia is mediated by which enzyme?
+Β2 receptor action leading to hyperglycemia is mediated by which enzyme?
 
 - A. Adenylyl cyclase
 - B. Guanylyl cyclase

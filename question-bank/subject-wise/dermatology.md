@@ -1282,9 +1282,9 @@ Illusion is:
 ---
 
 ---
-### Q75 — year old male believes that his
+### Q75 — Patient male believes that his
 
-A patient (age not captured in source) who is a year old male believes that his penis is decreasing in size everyday and one day it will disappear one day and he will die. Diagnosis is ?
+Male believes that his penis is decreasing in size everyday and one day it will disappear one day and he will die. Diagnosis is ?
 
 - A. Obsession
 - B. Somatization

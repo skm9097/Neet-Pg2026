@@ -2526,7 +2526,7 @@ Genital warts are caused by which virus
 ---
 ### Q139 — years aged chronic alcoholic male, presented *(2018)*
 
-years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable
+Years aged chronic alcoholic male, presented with irrelevant talks, tremor and sweating. He had his last drink 3 days back. What will the probable
 
 - A. Delirium tremens
 - B. Korsakoff psychosis

@@ -859,7 +859,7 @@ Obliterative endarteritis in vasa vasorum is seen in -
 ---
 ### Q52 — hLh blood group-
 
-hL/h blood group-
+HL/h blood group-
 
 - A. lacks H- antigen
 - B. lacks A-antigen
@@ -1865,9 +1865,9 @@ Which of the following is characterized by a solitary painless ulcer on genitali
 ---
 
 ---
-### Q108 — year old male presents with fever
+### Q108 — Patient male presents with fever
 
-A patient (age not captured in source) who is a year old male presents with fever and malaise for 4 months& pain in the knees and ankles. Blood tests are normal apart from a raised ESR. Chest x-ray shows bilateral hilar
+Male presents with fever and malaise for 4 months& pain in the knees and ankles. Blood tests are normal apart from a raised ESR. Chest x-ray shows bilateral hilar
 
 - A. Tuberculosis
 - B. Sarcoidosis
@@ -3098,7 +3098,7 @@ Alternative drug for cardiac arrest in place of epinephrine is?
 
 <details><summary>Answer</summary>
 
-**C. High dose vasopressin** — ● Vasopressin is an alternative vasopressor at high doses, causes vasoconstriction by directly stimulating smooth muscle V1 receptors. ● American Heart Association (AHA) guidelines states “Vasopressin is a reasonable first-line vasopressor in patients with ventricular fibrillation or pulseless ventr
+**C. High dose vasopressin** — Vasopressin is an alternative vasopressor at high doses, causes vasoconstriction by directly stimulating smooth muscle V1 receptors.; American Heart Association (AHA) guidelines states “Vasopressin is a reasonable first-line vasopressor in patients with ventricular fibrillation or pulseless ventr
 
 </details>
 
@@ -3631,9 +3631,9 @@ The causative organism for the condition depicted in image is?
 ---
 
 ---
-### Q199 — year old boy is having symptoms *(2019)*
+### Q199 — Patient boy is having symptoms *(2019)*
 
-A patient (age not captured in source) who is a year old boy is having symptoms such as fever and chills, cough, rapid breathing, difficulty breathing, and chest pain, culture from a sample shows
+Boy is having symptoms such as fever and chills, cough, rapid breathing, difficulty breathing, and chest pain, culture from a sample shows
 
 - A. Streptococcus pneumoniae
 - B. Staphylococcus
@@ -3794,7 +3794,7 @@ Extended sickness benefit for tuberculosis under the ESI Act is:
 ---
 ### Q208 — years old boy presented with fever *(2020)*
 
-A patient (age not captured in source) who is a years old boy presented with fever and chills for 3 days. On examination, he was found to have delayed skin pinch time and dry oral mucosa. A peripheral
+Boy presented with fever and chills for 3 days. On examination, he was found to have delayed skin pinch time and dry oral mucosa. A peripheral
 
 - A. Babesia
 - B. Plasmodium vivax
@@ -4386,7 +4386,7 @@ Which of the following laboratory test is used to diagnose rotavirus diarrhea?
 ---
 ### Q242 — rigidity CSF analysis showed low glucose, *(2023)*
 
-rigidity. CSF analysis showed low glucose, high protein, and many polymorphs. The CSF culture showed pleomorphic gram-negative bacilli. What is true about the causative organism?
+Rigidity. CSF analysis showed low glucose, high protein, and many polymorphs. The CSF culture showed pleomorphic gram-negative bacilli. What is true about the causative organism?
 
 - A. It is bacitracin sensitive.
 - B. Produces non-lactose fermenting colonies on MacConkey agar

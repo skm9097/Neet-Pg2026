@@ -857,9 +857,9 @@ Nigro Regimen is used for -
 ---
 
 ---
-### Q52 — year old male came with jaundice,
+### Q52 — Patient male came with jaundice,
 
-A patient (age not captured in source) who is a year old male came with jaundice, palpable mass in the right hypochondrium not associated with pain. The probable diagnosis is -
+Male came with jaundice, palpable mass in the right hypochondrium not associated with pain. The probable diagnosis is -
 
 - A. Carcinoma Ampulla of Vater
 - B. Acute cholecystitis
@@ -877,7 +877,7 @@ A patient (age not captured in source) who is a year old male came with jaundice
 ---
 ### Q53 — year male presented with jaundice, pale
 
-year male presented with jaundice, pale stools, dark urine and mass in the epigastric region. Which of the following diagnosis in unlikely ?
+Year male presented with jaundice, pale stools, dark urine and mass in the epigastric region. Which of the following diagnosis in unlikely ?
 
 - A. Pancreatic cancer
 - B. Biliary Cancer
@@ -965,9 +965,9 @@ Bilateral parotid enlargement occurs in all, Except:
 ---
 
 ---
-### Q58 — year old male presenting with acure
+### Q58 — Patient male presenting with acure
 
-A patient (age not captured in source) who is a year old male presenting with acure pancreatitis is now having refractory hypoxia. The X RAY of chest would show
+Male presenting with acure pancreatitis is now having refractory hypoxia. The X RAY of chest would show
 
 - A. Bilateral infiltrates
 - B. Pneumatocoeles

@@ -1975,7 +1975,7 @@ What is the most common position of appendix?
 ---
 ### Q114 — year pld male complaining of per
 
-year pld male complaining of per rectal bleeding was diagnosed of having rectal/anorectal cancer. The distal margin of the tumor was 5 cm
+Year pld male complaining of per rectal bleeding was diagnosed of having rectal/anorectal cancer. The distal margin of the tumor was 5 cm
 
 - A. Palliative Radiotherapy
 - B. Abdominoperineal recection
@@ -2459,9 +2459,9 @@ Which of the following is an indication for thoracotomy in case of hemothorax ?
 ---
 
 ---
-### Q141 — year old male with chest trauma
+### Q141 — Patient male with chest trauma
 
-A patient (age not captured in source) who is a year old male with chest trauma presents with breathlessness, decreased respiratory sounds on the right side, hyperresonance on
+Male with chest trauma presents with breathlessness, decreased respiratory sounds on the right side, hyperresonance on
 
 - A. Tension Pneumothorax
 - B. Cardiac Tamonade
@@ -2657,9 +2657,9 @@ In Patey's mastectomy the step not done is
 ---
 
 ---
-### Q152 — year old woman comes with a
+### Q152 — Patient woman comes with a
 
-A patient (age not captured in source) who is a year old woman comes with a non progressive mass in a left breast since 6 months. There are no associated symptoms. Examination shows a
+Woman comes with a non progressive mass in a left breast since 6 months. There are no associated symptoms. Examination shows a
 
 - A. Fibroadenoma
 - B. Cystasarcoma Phylloides
@@ -2695,7 +2695,7 @@ Most common location of breast cancer is
 ---
 ### Q154 — years old male with a knoen
 
-A patient (age not captured in source) who is a years old male with a knoen history of gall stones presents with chief complints of severe abdominal pain and elevated levels of serum lipase
+Male with a knoen history of gall stones presents with chief complints of severe abdominal pain and elevated levels of serum lipase
 
 - A. Age
 - B. Serum LDH
@@ -2729,9 +2729,9 @@ All are true about carcinoma palate, except -
 ---
 
 ---
-### Q156 — year old lawyer presents with pain
+### Q156 — Patient lawyer presents with pain
 
-A patient (age not captured in source) who is a year old lawyer presents with pain in the abdomen more so in the epigastric region that worsens with eating spicy food and is relieved by
+Lawyer presents with pain in the abdomen more so in the epigastric region that worsens with eating spicy food and is relieved by
 
 - A. Perforation
 - B. Bleeding
@@ -7145,7 +7145,7 @@ True about type 1 diabetes mellitus
 ---
 ### Q384 — yrs old male patient c,o cough *(2019)*
 
-yrs old male patient c/,o cough cold fever/rusty sputum / sputum neg for tb ,h/o of travel in china & eaten crab, Name the infection
+Yrs old male patient c/,o cough cold fever/rusty sputum / sputum neg for tb ,h/o of travel in china & eaten crab, Name the infection
 
 - A. Paragonimus westermani
 - B. Faciola hepatica
@@ -7378,7 +7378,7 @@ Most serious complication of measles is:
 ---
 ### Q397 — years baby with 67 kg, Hb- *(2020)*
 
-years baby with 6.7 kg, Hb%- 6 mg/dl total protein 3mg/dL, low albumin with distended stomach but no proteinuria. What will be the diagnosis?
+Years baby with 6.7 kg, Hb%- 6 mg/dl total protein 3mg/dL, low albumin with distended stomach but no proteinuria. What will be the diagnosis?
 
 - A. Marasmus
 - B. Kwashiorkor

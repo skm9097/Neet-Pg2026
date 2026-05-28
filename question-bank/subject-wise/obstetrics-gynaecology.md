@@ -12472,9 +12472,9 @@ Treatment options for CIN III include all of the following except -
 ---
 
 ---
-### Q766 — year old woman presents with abnormal
+### Q766 — Patient woman presents with abnormal
 
-A patient (age not captured in source) who is a year old woman presents with abnormal cervical cytology on PAP smear suggestive of CIN III (HSIL). The next best step in management is:
+Woman presents with abnormal cervical cytology on PAP smear suggestive of CIN III (HSIL). The next best step in management is:
 
 - A. Hysterectomy
 - B. Colposcopy and LEEP
@@ -12616,9 +12616,9 @@ False about chorionic vinous sampling -
 ---
 
 ---
-### Q774 — year old primigravida with 32 weeks
+### Q774 — Patient primigravida with 32 weeks
 
-A patient (age not captured in source) who is a year old primigravida with 32 weeks of gestation comes with complain of thin, frothy, profuse discharge through the vagina since
+Primigravida with 32 weeks of gestation comes with complain of thin, frothy, profuse discharge through the vagina since
 
 - A. PPROM
 - B. Trichomoniasis

@@ -2515,7 +2515,7 @@ All are functions of glycosaminglycans except -
 ---
 ### Q144 — a-aminolevulinic acid is a metabolic product
 
-a-aminolevulinic acid is a metabolic product in synthesis of -
+A-aminolevulinic acid is a metabolic product in synthesis of -
 
 - A. Tryptophan
 - B. Collagen
@@ -3490,7 +3490,7 @@ Therepeutic phlebotomy is not done in which of the following conditions ?
 
 ### Q198 — used in citric acid cycle are *(2016)*
 
-used in citric acid cycle are all except-
+Used in citric acid cycle are all except-
 
 - A. NAD
 - B. FAD
@@ -6705,7 +6705,7 @@ Menkes disease is associated with which enzyme deficiency.
 ---
 ### Q360 — type of cholesterol present in gallstones *(2019)*
 
-type of cholesterol present in gallstones?
+Type of cholesterol present in gallstones?
 
 - A. Amorphous cholesterol monohydrate.
 - B. Amorphous cholesterol dihydrate.
@@ -7008,9 +7008,9 @@ Which of the following drugs act by inhibiting DNA replication?
 ---
 
 ---
-### Q377 — year old person presented with 108 *(2020)*
+### Q377 — Patient person presented with 108 *(2020)*
 
-A patient (age not captured in source) who is a year old person presented with 10*8 swelling in a retroperitoneal,biopsy from the lesion is as shown below. Molecular analysis demonstrated t(12,16). A most
+Person presented with 10*8 swelling in a retroperitoneal,biopsy from the lesion is as shown below. Molecular analysis demonstrated t(12,16). A most
 
 - A. Myxoid liposarcoma
 - B. Lipoma

@@ -436,9 +436,9 @@ All of the following drugs increase the risk of postoperative nausea and vomitin
 </details>
 
 ---
-### Q29 — year old male presented with a *(2015)*
+### Q29 — Patient male presented with a *(2015)*
 
-A patient (age not captured in source) who is a year old male presented with a penetrating trauma to chest. He is dyspnoeic with distended neck veins with hypotension and mediastinum is
+Male presented with a penetrating trauma to chest. He is dyspnoeic with distended neck veins with hypotension and mediastinum is
 
 - A. Insertion of a large bore needle in the 2" ICS in the mid
 - B. Fluid Resuscitation

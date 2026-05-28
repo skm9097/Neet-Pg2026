@@ -10535,24 +10535,6 @@ Which of the following was launched to ensure complete immunization of children 
 <!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
 
 ---
-### Q600 — Example of prospective screening
-
-Which of the following is an example of **prospective screening**?
-
-- A. Cervical Pap smear in a 40-year-old patient
-- B. Neonatal screening of a newborn for hypothyroidism
-- C. Screening of immigrants to a country
-- D. Urine for sugar in a 40-year-old man
-
-<details><summary>Answer</summary>
-
-**C. Screening of immigrants to a country** — Prospective screening = screening done for the benefit of **others** (population), not just the individual (e.g., screening immigrants for infectious diseases like TB, syphilis). Pap smear and neonatal screening benefit the individual. Mass screening also has a prospective element.
-
-</details>
-
-<!-- SOURCE: PSM_NEET_PG_PYT_2018_2023_extracted.md | OPTIONS_GENERATED: false -->
-
----
 ### Q601 — Monetary benefit measured in which health analysis
 
 Monetary benefit is measured in which of the following health programme analyses?
