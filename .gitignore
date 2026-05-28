@@ -18,10 +18,9 @@ neet-quiz-app/android/.gradle/
 # PDF and binary source files (raw dumps, source papers)
 *.pdf
 *.bin
+**/*.pdf
 
-# Exception: generated study notes PDFs
+# Exception: generated study notes PDFs (placed last so it takes precedence)
 !notes/*.pdf
 
-# PDF files (binary, not tracked)
-**/*.pdf
 scripts/__pycache__/
