@@ -1,0 +1,27 @@
+# Flutter/Dart build artifacts
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Android local config
+android/local.properties
+android/.gradle/
+android/app/google-services.json
+
+# iOS
+ios/Flutter/flutter_export_environment.sh
+ios/Podfile.lock
+ios/.symlinks/
+
+# macOS
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Web
+web/
+
+# IDE
+.idea/
+.vscode/
+*.iml
