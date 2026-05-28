@@ -1,7 +1,7 @@
 import 'package:http/http.dart' as http;
 
 class GitHubService {
-  static const String _branch = 'claude/add-claude-documentation-1xfan';
+  static const String _branch = 'main';
   static const String _baseUrl =
       'https://raw.githubusercontent.com/skm9097/neet-pg2026/$_branch';
 

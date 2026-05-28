@@ -99,7 +99,8 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
               q.optionA.isNotEmpty &&
               q.optionB.isNotEmpty &&
               q.optionC.isNotEmpty &&
-              q.optionD.isNotEmpty)
+              q.optionD.isNotEmpty &&
+              !q.isImageBased)
           .toList();
 
       all.shuffle(Random());
@@ -176,6 +177,17 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
     widget.tts.speak(feedback);
   }
 
+  String get _quizSource {
+    switch (widget.config.moduleType) {
+      case ModuleType.byYear:
+        return 'year_${widget.config.year ?? "unknown"}';
+      case ModuleType.bySubject:
+        return 'subject_${widget.config.subject ?? "unknown"}';
+      case ModuleType.mixed:
+        return 'mixed';
+    }
+  }
+
   void _nextQuestion() {
     widget.tts.stop();
     if (_currentIndex + 1 >= _questions.length) {
@@ -185,6 +197,7 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
             total: _questions.length,
             correct: _correctCount,
             history: _history,
+            source: _quizSource,
           ),
         ),
       );

@@ -1,16 +1,19 @@
 import 'package:flutter/material.dart';
 import '../models/question.dart';
+import '../services/progress_service.dart';
 
 class ResultScreen extends StatefulWidget {
   final int total;
   final int correct;
   final List<Map<String, dynamic>> history;
+  final String? source;
 
   const ResultScreen({
     super.key,
     required this.total,
     required this.correct,
     required this.history,
+    this.source,
   });
 
   @override
@@ -19,6 +22,14 @@ class ResultScreen extends StatefulWidget {
 
 class _ResultScreenState extends State<ResultScreen> {
   bool _showReview = false;
+
+  @override
+  void initState() {
+    super.initState();
+    if (widget.source != null && widget.total > 0) {
+      ProgressService.record(widget.source!, widget.total, widget.correct);
+    }
+  }
 
   int get _wrong => widget.total - widget.correct;
   int get _neetScore => (widget.correct * 4) - _wrong;

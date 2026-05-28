@@ -42,6 +42,15 @@ class Question {
 
   String get correctText => optionText(correctOption);
 
-  bool get isImageBased =>
-      stem.contains('image-based') || stem.contains('*(image');
+  static final RegExp _imagePattern = RegExp(
+    r'shown in (the )?(picture|image|figure|diagram)|'
+    r'photograph shows|the image (shown|below)|'
+    r'given image|given diagram|'
+    r'identify.*(shown|image|below|based on)|'
+    r'spot (radiograph|diagnosis)|blood smear image|'
+    r'image-based|\*\(image',
+    caseSensitive: false,
+  );
+
+  bool get isImageBased => _imagePattern.hasMatch(stem);
 }
