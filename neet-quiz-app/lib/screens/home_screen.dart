@@ -292,7 +292,7 @@ class _HomeScreenState extends State<HomeScreen> {
     await Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (_) => SettingsScreen(gemini: widget.gemini),
+        builder: (_) => SettingsScreen(gemini: widget.gemini, tts: widget.tts),
       ),
     );
     setState(() {});
