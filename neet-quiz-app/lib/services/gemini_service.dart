@@ -5,8 +5,7 @@ class GeminiService {
   String _apiKey = '';
   ChatSession? _chatSession;
 
-  /// Current Gemini model. gemini-2.0-flash is fast, cheap and current.
-  static const String modelName = 'gemini-2.0-flash';
+  static const String modelName = 'gemini-2.5-flash';
 
   bool get isConfigured => _apiKey.isNotEmpty;
   String get apiKey => _apiKey;

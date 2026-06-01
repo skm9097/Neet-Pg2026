@@ -3,7 +3,7 @@ import '../models/flashcard.dart';
 import '../models/question.dart';
 
 class GeminiService {
-  static const String modelName = 'gemini-2.0-flash';
+  static const String modelName = 'gemini-2.5-flash';
 
   GenerativeModel? _model;
   String? _apiKey;
