@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
 import 'services/gemini_service.dart';
 import 'services/tts_service.dart';
 import 'features/home/home_screen.dart';
@@ -10,10 +9,7 @@ void main() async {
   final gemini = GeminiService();
   final tts = TtsService();
 
-  final prefs = await SharedPreferences.getInstance();
-  final apiKey = prefs.getString('gemini_api_key') ?? '';
-  if (apiKey.isNotEmpty) gemini.configure(apiKey);
-
+  await gemini.restoreFromPrefs();
   await tts.init();
 
   runApp(NeetStudySuiteApp(gemini: gemini, tts: tts));

@@ -3,6 +3,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../../services/gemini_service.dart';
 import '../../services/tts_service.dart';
 import '../../services/progress_service.dart';
+import '../../services/providers/ai_provider.dart';
 import '../../core/theme/app_theme.dart';
 
 class SettingsScreen extends StatefulWidget {
@@ -15,14 +16,17 @@ class SettingsScreen extends StatefulWidget {
 }
 
 class _SettingsScreenState extends State<SettingsScreen> {
-  final _keyController = TextEditingController();
+  // One controller per provider
+  final _geminiCtrl = TextEditingController();
+  final _groqCtrl = TextEditingController();
+  final _openrouterCtrl = TextEditingController();
+
+  AiProviderType _selectedProvider = AiProviderType.gemini;
   bool _showKey = false;
   bool _ttsEnabled = true;
   bool _testing = false;
   String? _testResult;
   bool _testSuccess = false;
-
-  static const String _keyPref = 'gemini_api_key';
 
   @override
   void initState() {
@@ -32,38 +36,48 @@ class _SettingsScreenState extends State<SettingsScreen> {
 
   Future<void> _load() async {
     final prefs = await SharedPreferences.getInstance();
-    final key = prefs.getString(_keyPref) ?? '';
+    final typeName = prefs.getString('ai_provider_type') ?? 'gemini';
     if (mounted) setState(() {
-      _keyController.text = key;
+      _selectedProvider = AiProviderType.values.firstWhere(
+        (t) => t.name == typeName, orElse: () => AiProviderType.gemini);
+      _geminiCtrl.text = prefs.getString('gemini_api_key') ?? '';
+      _groqCtrl.text = prefs.getString('groq_api_key') ?? '';
+      _openrouterCtrl.text = prefs.getString('openrouter_api_key') ?? '';
       _ttsEnabled = widget.tts.isEnabled;
     });
   }
 
+  TextEditingController get _activeCtrl {
+    switch (_selectedProvider) {
+      case AiProviderType.gemini: return _geminiCtrl;
+      case AiProviderType.groq: return _groqCtrl;
+      case AiProviderType.openrouter: return _openrouterCtrl;
+    }
+  }
+
+  String get _prefKey {
+    switch (_selectedProvider) {
+      case AiProviderType.gemini: return 'gemini_api_key';
+      case AiProviderType.groq: return 'groq_api_key';
+      case AiProviderType.openrouter: return 'openrouter_api_key';
+    }
+  }
+
   Future<void> _saveAndTest() async {
-    final key = _keyController.text.trim();
-
+    final key = _activeCtrl.text.trim();
     if (key.isEmpty) {
-      setState(() { _testResult = 'Please enter your API key first.'; _testSuccess = false; });
-      return;
-    }
-    if (!key.startsWith('AIza')) {
-      setState(() {
-        _testResult = 'Key looks wrong — Gemini keys start with "AIza". Make sure you copied the full key from AI Studio.';
-        _testSuccess = false;
-      });
+      setState(() { _testResult = 'Enter your API key first.'; _testSuccess = false; });
       return;
     }
 
-    // Save key first
+    // Save key + active provider
     final prefs = await SharedPreferences.getInstance();
-    await prefs.setString(_keyPref, key);
-    widget.gemini.configure(key);
+    await prefs.setString(_prefKey, key);
+    await prefs.setString('ai_provider_type', _selectedProvider.name);
+    widget.gemini.setProvider(_selectedProvider, key);
 
-    // Now test it live
     setState(() { _testing = true; _testResult = null; });
-
     final (success, message) = await widget.gemini.testConnection();
-
     if (mounted) setState(() {
       _testing = false;
       _testSuccess = success;
@@ -73,7 +87,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
 
   @override
   void dispose() {
-    _keyController.dispose();
+    _geminiCtrl.dispose();
+    _groqCtrl.dispose();
+    _openrouterCtrl.dispose();
     super.dispose();
   }
 
@@ -84,110 +100,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
       body: ListView(
         padding: const EdgeInsets.all(16),
         children: [
-          _sectionHeader('Gemini AI'),
-          Card(
-            child: Padding(
-              padding: const EdgeInsets.all(16),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  const Text('API Key', style: TextStyle(fontWeight: FontWeight.w600)),
-                  const SizedBox(height: 4),
-                  const Text(
-                    'Get your free key at aistudio.google.com → API keys → Create API key',
-                    style: TextStyle(fontSize: 12, color: Colors.grey),
-                  ),
-                  const SizedBox(height: 12),
-                  TextField(
-                    controller: _keyController,
-                    obscureText: !_showKey,
-                    decoration: InputDecoration(
-                      hintText: 'AIza...',
-                      border: const OutlineInputBorder(),
-                      suffixIcon: IconButton(
-                        icon: Icon(_showKey ? Icons.visibility_off : Icons.visibility),
-                        onPressed: () => setState(() => _showKey = !_showKey),
-                      ),
-                    ),
-                    onChanged: (_) => setState(() => _testResult = null),
-                  ),
-                  const SizedBox(height: 12),
-                  SizedBox(
-                    width: double.infinity,
-                    child: FilledButton.icon(
-                      onPressed: _testing ? null : _saveAndTest,
-                      icon: _testing
-                          ? const SizedBox(
-                              width: 16, height: 16,
-                              child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white),
-                            )
-                          : const Icon(Icons.wifi_tethering),
-                      label: Text(_testing ? 'Testing connection…' : 'Save & Test Connection'),
-                    ),
-                  ),
-                  if (_testResult != null) ...[
-                    const SizedBox(height: 12),
-                    Container(
-                      width: double.infinity,
-                      padding: const EdgeInsets.all(12),
-                      decoration: BoxDecoration(
-                        color: _testSuccess ? Colors.green[50] : Colors.red[50],
-                        borderRadius: BorderRadius.circular(8),
-                        border: Border.all(
-                          color: _testSuccess ? AppTheme.correct : AppTheme.incorrect,
-                          width: 1,
-                        ),
-                      ),
-                      child: Row(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Icon(
-                            _testSuccess ? Icons.check_circle : Icons.error_outline,
-                            color: _testSuccess ? AppTheme.correct : AppTheme.incorrect,
-                            size: 18,
-                          ),
-                          const SizedBox(width: 8),
-                          Expanded(
-                            child: Text(
-                              _testResult!,
-                              style: TextStyle(
-                                color: _testSuccess ? AppTheme.correct : AppTheme.incorrect,
-                                fontSize: 13,
-                                height: 1.4,
-                              ),
-                            ),
-                          ),
-                        ],
-                      ),
-                    ),
-                  ],
-                  const SizedBox(height: 8),
-                  Row(
-                    children: [
-                      Text(
-                        'Model: ${widget.gemini.isConfigured ? widget.gemini.activeModel : GeminiService.modelName}',
-                        style: const TextStyle(fontSize: 12, color: Colors.grey),
-                      ),
-                      const Spacer(),
-                      if (widget.gemini.isConfigured && _testResult == null)
-                        const Row(
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Icon(Icons.circle, size: 8, color: AppTheme.correct),
-                            SizedBox(width: 4),
-                            Text('Active', style: TextStyle(fontSize: 12, color: AppTheme.correct)),
-                          ],
-                        ),
-                    ],
-                  ),
-                  const SizedBox(height: 8),
-                  _buildFreeTierNote(),
-                ],
-              ),
-            ),
-          ),
+          _sectionHeader('AI Provider'),
+          _buildProviderPicker(),
+          const SizedBox(height: 12),
+          _buildKeyCard(),
           const SizedBox(height: 8),
-          _buildTroubleshootCard(),
+          _buildComparisonCard(),
           const SizedBox(height: 16),
           _sectionHeader('Voice (TTS)'),
           Card(
@@ -213,7 +131,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
           ),
           const SizedBox(height: 24),
           const Center(
-            child: Text('NEET-PG Study Suite v1.0.1',
+            child: Text('NEET-PG Study Suite v1.0.3',
               style: TextStyle(color: Colors.grey, fontSize: 12)),
           ),
         ],
@@ -221,67 +139,243 @@ class _SettingsScreenState extends State<SettingsScreen> {
     );
   }
 
-  Widget _buildFreeTierNote() {
-    return Container(
-      padding: const EdgeInsets.all(10),
-      decoration: BoxDecoration(
-        color: Colors.blue[50],
-        borderRadius: BorderRadius.circular(8),
-      ),
-      child: const Row(
-        children: [
-          Icon(Icons.info_outline, size: 14, color: AppTheme.primary),
-          SizedBox(width: 6),
-          Expanded(
-            child: Text(
-              'Free tier: 10 requests/min • 250 requests/day',
-              style: TextStyle(fontSize: 11, color: AppTheme.primary),
-            ),
-          ),
-        ],
-      ),
-    );
-  }
-
-  Widget _buildTroubleshootCard() {
-    return ExpansionTile(
-      tilePadding: const EdgeInsets.symmetric(horizontal: 16),
-      title: const Text('Troubleshooting', style: TextStyle(fontSize: 13, color: Colors.grey)),
-      children: [
-        Padding(
-          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              _troubleRow('Key starts with "AIzaSy..."', 'Check you copied the full key'),
-              _troubleRow('"API key not valid"', 'Key may be deleted or restricted — regenerate in AI Studio'),
-              _troubleRow('"Rate limit"', 'Free tier allows 10 requests/min — wait and retry'),
-              _troubleRow('"Model not found"', 'App will auto-try fallback model (gemini-2.0-flash)'),
-              _troubleRow('No internet', 'Gemini requires an active connection'),
-            ],
-          ),
+  Widget _buildProviderPicker() {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(12),
+        child: Column(
+          children: AiProviderType.values.map((type) {
+            final isActive = widget.gemini.activeProviderType == type;
+            return RadioListTile<AiProviderType>(
+              value: type,
+              groupValue: _selectedProvider,
+              title: Row(
+                children: [
+                  Text(type.displayName, style: const TextStyle(fontWeight: FontWeight.w600)),
+                  const SizedBox(width: 8),
+                  if (isActive)
+                    const Chip(
+                      label: Text('Active', style: TextStyle(fontSize: 10, color: Colors.white)),
+                      backgroundColor: AppTheme.correct,
+                      padding: EdgeInsets.zero,
+                      materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
+                    ),
+                ],
+              ),
+              subtitle: Text(type.freeTierInfo, style: const TextStyle(fontSize: 11)),
+              onChanged: (v) => setState(() {
+                _selectedProvider = v!;
+                _testResult = null;
+              }),
+              contentPadding: const EdgeInsets.symmetric(horizontal: 4),
+            );
+          }).toList(),
         ),
-      ],
+      ),
     );
   }
 
-  Widget _troubleRow(String error, String fix) {
-    return Padding(
-      padding: const EdgeInsets.only(bottom: 8),
-      child: Row(
-        crossAxisAlignment: CrossAxisAlignment.start,
-        children: [
-          const Text('• ', style: TextStyle(fontSize: 12)),
-          Expanded(child: RichText(text: TextSpan(
-            style: const TextStyle(fontSize: 12, color: Colors.black87),
-            children: [
-              TextSpan(text: '$error: ', style: const TextStyle(fontWeight: FontWeight.w600)),
-              TextSpan(text: fix),
+  Widget _buildKeyCard() {
+    final provider = _selectedProvider;
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                Text('${provider.displayName} API Key',
+                  style: const TextStyle(fontWeight: FontWeight.w600)),
+                const Spacer(),
+                TextButton.icon(
+                  onPressed: () => _showGetKeyDialog(provider),
+                  icon: const Icon(Icons.help_outline, size: 16),
+                  label: const Text('How to get', style: TextStyle(fontSize: 12)),
+                  style: TextButton.styleFrom(padding: EdgeInsets.zero),
+                ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            TextField(
+              controller: _activeCtrl,
+              obscureText: !_showKey,
+              decoration: InputDecoration(
+                hintText: provider.keyHint,
+                border: const OutlineInputBorder(),
+                suffixIcon: IconButton(
+                  icon: Icon(_showKey ? Icons.visibility_off : Icons.visibility),
+                  onPressed: () => setState(() => _showKey = !_showKey),
+                ),
+              ),
+              onChanged: (_) => setState(() => _testResult = null),
+            ),
+            const SizedBox(height: 12),
+            SizedBox(
+              width: double.infinity,
+              child: FilledButton.icon(
+                onPressed: _testing ? null : _saveAndTest,
+                icon: _testing
+                    ? const SizedBox(width: 16, height: 16,
+                        child: CircularProgressIndicator(strokeWidth: 2, color: Colors.white))
+                    : const Icon(Icons.wifi_tethering),
+                label: Text(_testing ? 'Testing…' : 'Save & Test Connection'),
+              ),
+            ),
+            if (_testResult != null) ...[
+              const SizedBox(height: 12),
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: _testSuccess ? Colors.green[50] : Colors.red[50],
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(
+                    color: _testSuccess ? AppTheme.correct : AppTheme.incorrect),
+                ),
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Icon(
+                      _testSuccess ? Icons.check_circle : Icons.error_outline,
+                      color: _testSuccess ? AppTheme.correct : AppTheme.incorrect,
+                      size: 18,
+                    ),
+                    const SizedBox(width: 8),
+                    Expanded(child: Text(_testResult!,
+                      style: TextStyle(
+                        color: _testSuccess ? AppTheme.correct : AppTheme.incorrect,
+                        fontSize: 13, height: 1.4,
+                      ))),
+                  ],
+                ),
+              ),
             ],
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildComparisonCard() {
+    return Card(
+      color: Colors.blue[50],
+      child: Padding(
+        padding: const EdgeInsets.all(14),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Row(
+              children: [
+                Icon(Icons.compare, size: 16, color: AppTheme.primary),
+                SizedBox(width: 6),
+                Text('Free Tier Comparison', style: TextStyle(
+                  fontWeight: FontWeight.bold, color: AppTheme.primary, fontSize: 13)),
+              ],
+            ),
+            const SizedBox(height: 10),
+            _compareRow('Google Gemini', '10 req/min', '250/day', false),
+            _compareRow('Groq', '30 req/min', '14,400/day', true),
+            _compareRow('OpenRouter', '~20 req/min', 'Unlimited (free models)', true),
+            const SizedBox(height: 8),
+            const Text(
+              'Recommendation: Use Groq for best free-tier quota.\nAll providers give the same quality medical explanations.',
+              style: TextStyle(fontSize: 11, color: Colors.grey),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _compareRow(String name, String rpm, String rpd, bool recommended) {
+    return Padding(
+      padding: const EdgeInsets.symmetric(vertical: 3),
+      child: Row(
+        children: [
+          SizedBox(width: 100, child: Text(name, style: const TextStyle(fontSize: 12, fontWeight: FontWeight.w500))),
+          Expanded(child: Text(rpm, style: const TextStyle(fontSize: 12))),
+          Expanded(child: Text(rpd, style: TextStyle(
+            fontSize: 12,
+            color: recommended ? AppTheme.correct : Colors.grey,
+            fontWeight: recommended ? FontWeight.bold : FontWeight.normal,
           ))),
         ],
       ),
     );
+  }
+
+  void _showGetKeyDialog(AiProviderType provider) {
+    final steps = _getKeySteps(provider);
+    showDialog(
+      context: context,
+      builder: (_) => AlertDialog(
+        title: Text('Get ${provider.displayName} Key'),
+        content: SingleChildScrollView(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Text('Website: ${provider.signupUrl}',
+                style: const TextStyle(fontWeight: FontWeight.bold, color: AppTheme.primary)),
+              const SizedBox(height: 12),
+              ...steps.asMap().entries.map((e) => Padding(
+                padding: const EdgeInsets.only(bottom: 8),
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    CircleAvatar(radius: 10,
+                      backgroundColor: AppTheme.primary,
+                      child: Text('${e.key + 1}',
+                        style: const TextStyle(fontSize: 10, color: Colors.white))),
+                    const SizedBox(width: 8),
+                    Expanded(child: Text(e.value, style: const TextStyle(fontSize: 13))),
+                  ],
+                ),
+              )),
+            ],
+          ),
+        ),
+        actions: [
+          FilledButton(
+            onPressed: () => Navigator.pop(context),
+            child: const Text('Got it'),
+          ),
+        ],
+      ),
+    );
+  }
+
+  List<String> _getKeySteps(AiProviderType provider) {
+    switch (provider) {
+      case AiProviderType.gemini:
+        return [
+          'Go to aistudio.google.com',
+          'Sign in with your Google account',
+          'Click "Get API key" → "Create API key"',
+          'Copy the key (starts with AIza...)',
+          'Paste it above and tap Save & Test',
+        ];
+      case AiProviderType.groq:
+        return [
+          'Go to console.groq.com',
+          'Sign up for a free account',
+          'Click "API Keys" in the left menu',
+          'Click "Create API key"',
+          'Copy the key (starts with gsk_...)',
+          'Paste it above and tap Save & Test',
+          'Free tier: 30 req/min, 14,400 req/day — very generous!',
+        ];
+      case AiProviderType.openrouter:
+        return [
+          'Go to openrouter.ai/keys',
+          'Sign up for a free account',
+          'Click "Create Key"',
+          'Copy the key (starts with sk-or-...)',
+          'Paste it above and tap Save & Test',
+          'Free models available with no credit card needed',
+        ];
+    }
   }
 
   Widget _sectionHeader(String title) => Padding(

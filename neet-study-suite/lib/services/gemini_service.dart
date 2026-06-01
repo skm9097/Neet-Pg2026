@@ -1,70 +1,70 @@
-import 'package:google_generative_ai/google_generative_ai.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import '../models/flashcard.dart';
 import '../models/question.dart';
+import 'providers/ai_provider.dart';
+import 'providers/gemini_provider.dart';
+import 'providers/groq_provider.dart';
+import 'providers/openrouter_provider.dart';
 
+export 'providers/ai_provider.dart' show AiProviderType;
+
+// Named GeminiService for backwards compat with all existing screen imports.
+// Internally it's a multi-provider facade.
 class GeminiService {
-  // Primary model to try. Falls back to _fallbackModel on "not found" errors.
-  static const String modelName = 'gemini-2.5-flash';
-  static const String _fallbackModel = 'gemini-2.0-flash';
+  final GeminiProvider _gemini = GeminiProvider();
+  final GroqProvider _groq = GroqProvider();
+  final OpenRouterProvider _openRouter = OpenRouterProvider();
 
-  GenerativeModel? _model;
-  String? _apiKey;
-  String _activeModel = modelName;
-
-  void configure(String apiKey) {
-    _apiKey = apiKey.trim();
-    _activeModel = modelName;
-    _model = GenerativeModel(model: _activeModel, apiKey: _apiKey!);
+  AiProviderType _activeType = AiProviderType.gemini;
+  AiProvider get _active {
+    switch (_activeType) {
+      case AiProviderType.gemini: return _gemini;
+      case AiProviderType.groq: return _groq;
+      case AiProviderType.openrouter: return _openRouter;
+    }
   }
 
-  bool get isConfigured => _model != null && _apiKey != null && _apiKey!.isNotEmpty;
-  String get activeModel => _activeModel;
+  static const String modelName = 'gemini-2.5-flash'; // shown in old settings references
+  String get activeModel => _active.modelName;
+  String get activeProviderName => _active.providerName;
+  AiProviderType get activeProviderType => _activeType;
 
-  /// Makes a real test call. Returns (success, message) so UI can show result.
-  Future<(bool, String)> testConnection() async {
-    if (_apiKey == null || _apiKey!.isEmpty) {
-      return (false, 'No API key entered. Paste your key and tap Save first.');
-    }
-    if (!_apiKey!.startsWith('AIza')) {
-      return (false, 'Key looks wrong — Gemini keys start with "AIza". Check you copied the full key.');
-    }
+  bool get isConfigured => _active.isConfigured;
 
-    // Try primary model first, then fallback
-    for (final model in [modelName, _fallbackModel]) {
-      try {
-        final testModel = GenerativeModel(model: model, apiKey: _apiKey!);
-        final response = await testModel.generateContent([
-          Content.text('Reply with exactly: OK'),
-        ]);
-        final text = response.text ?? '';
-        if (text.isNotEmpty) {
-          // Switch to whichever model worked
-          _activeModel = model;
-          _model = testModel;
-          return (true, '✓ Connected! Using model: $model');
-        }
-      } on GenerativeAIException catch (e) {
-        final msg = e.message.toLowerCase();
-        if (msg.contains('not found') || msg.contains('does not exist') || msg.contains('invalid model')) {
-          // This model doesn't exist, try next
-          continue;
-        }
-        if (msg.contains('api_key_invalid') || msg.contains('api key not valid')) {
-          return (false, 'Invalid API key. Check you copied it correctly from AI Studio.');
-        }
-        if (msg.contains('quota') || msg.contains('rate limit') || msg.contains('resource_exhausted')) {
-          return (false, 'Rate limit hit (free tier: 10 requests/min). Wait 1 minute and try again.');
-        }
-        if (msg.contains('permission') || msg.contains('forbidden')) {
-          return (false, 'API key does not have permission to use Gemini. Enable the Gemini API in your Google Cloud project.');
-        }
-        return (false, 'Gemini error: ${e.message}');
-      } catch (e) {
-        return (false, 'Connection error: $e\n\nCheck your internet connection.');
-      }
-    }
-    return (false, 'No compatible model found. Models tried: $modelName, $_fallbackModel.\nCheck ai.google.dev for current model names.');
+  // Called on app start with saved keys
+  void configure(String apiKey) => _configureProvider(_activeType, apiKey);
+
+  // Full multi-provider setup
+  void setProvider(AiProviderType type, String apiKey) {
+    _activeType = type;
+    _configureProvider(type, apiKey);
   }
+
+  void _configureProvider(AiProviderType type, String apiKey) {
+    switch (type) {
+      case AiProviderType.gemini: _gemini.configure(apiKey); break;
+      case AiProviderType.groq: _groq.configure(apiKey); break;
+      case AiProviderType.openrouter: _openRouter.configure(apiKey); break;
+    }
+  }
+
+  // Restore all saved keys + active provider from SharedPreferences
+  Future<void> restoreFromPrefs() async {
+    final prefs = await SharedPreferences.getInstance();
+    final typeName = prefs.getString('ai_provider_type') ?? 'gemini';
+    _activeType = AiProviderType.values.firstWhere(
+      (t) => t.name == typeName, orElse: () => AiProviderType.gemini);
+
+    final geminiKey = prefs.getString('gemini_api_key') ?? '';
+    final groqKey = prefs.getString('groq_api_key') ?? '';
+    final openrouterKey = prefs.getString('openrouter_api_key') ?? '';
+
+    if (geminiKey.isNotEmpty) _gemini.configure(geminiKey);
+    if (groqKey.isNotEmpty) _groq.configure(groqKey);
+    if (openrouterKey.isNotEmpty) _openRouter.configure(openrouterKey);
+  }
+
+  Future<(bool, String)> testConnection() => _active.testConnection();
 
   Future<String> getQuickFeedback({
     required String stem,
@@ -72,188 +72,19 @@ class GeminiService {
     required String correctText,
     required String selectedOption,
     required String explanation,
-  }) async {
-    if (_model == null) return _localFeedback(selectedOption, correctOption, explanation);
+  }) => _active.getQuickFeedback(
+    stem: stem, correctOption: correctOption, correctText: correctText,
+    selectedOption: selectedOption, explanation: explanation,
+  );
 
-    final isCorrect = selectedOption == correctOption;
-    final prompt = isCorrect
-        ? 'NEET-PG MCQ: "$stem"\nCorrect: $correctOption. $correctText\n'
-          'Explanation: $explanation\n'
-          'Give 1–2 sentence reinforcement and a high-yield fact. Be concise.'
-        : 'NEET-PG MCQ: "$stem"\nStudent chose: $selectedOption. Correct: $correctOption. $correctText\n'
-          'Explanation: $explanation\n'
-          'In 1–2 sentences, explain why the correct answer is right. Be concise.';
+  Future<String> getDetailedExplanation(Question q) => _active.getDetailedExplanation(q);
 
-    try {
-      final response = await _model!.generateContent([Content.text(prompt)]);
-      return response.text?.trim() ?? _localFeedback(selectedOption, correctOption, explanation);
-    } on GenerativeAIException catch (e) {
-      if (_isRateLimit(e)) return '⏳ Rate limit hit — showing built-in answer.\n\n${_localFeedback(selectedOption, correctOption, explanation)}';
-      return _localFeedback(selectedOption, correctOption, explanation);
-    } catch (_) {
-      return _localFeedback(selectedOption, correctOption, explanation);
-    }
-  }
+  Future<List<Flashcard>> generateFlashcardsFromQuestion(Question q) =>
+      _active.generateFlashcardsFromQuestion(q);
 
-  Future<String> getDetailedExplanation(Question q) async {
-    if (_model == null) return _localDetailedFallback(q);
+  Future<(List<Flashcard>, String?)> generateFlashcardsFromTopic(String topic, String subject) =>
+      _active.generateFlashcardsFromTopic(topic, subject);
 
-    final prompt = '''NEET-PG question analysis:
-
-Question: ${q.stem}
-A. ${q.optionA}
-B. ${q.optionB}
-C. ${q.optionC}
-D. ${q.optionD}
-Correct answer: ${q.correctOption}. ${q.correctText}
-
-Provide a structured explanation:
-**Why ${q.correctOption} is correct:**
-(2–3 sentences)
-
-**Why the other options are wrong:**
-(one sentence each for wrong options only)
-
-**High-yield NEET pearl:**
-(one memorable exam fact)''';
-
-    try {
-      final response = await _model!.generateContent([Content.text(prompt)]);
-      return response.text?.trim() ?? _localDetailedFallback(q);
-    } on GenerativeAIException catch (e) {
-      if (_isRateLimit(e)) return '⏳ Rate limit reached (free tier: 10 req/min). Try again in a minute.\n\n${_localDetailedFallback(q)}';
-      return '⚠ AI error: ${e.message}\n\n${_localDetailedFallback(q)}';
-    } catch (e) {
-      return '⚠ Error: $e\n\n${_localDetailedFallback(q)}';
-    }
-  }
-
-  Future<List<Flashcard>> generateFlashcardsFromQuestion(Question q) async {
-    if (_model == null) return _localFlashcardsFromQuestion(q);
-
-    final prompt = '''Create 2–3 flashcards from this NEET-PG MCQ for spaced repetition.
-Subject: ${q.subject}
-Question: ${q.stem}
-Correct answer: ${q.correctOption}. ${q.correctText}
-Explanation: ${q.explanation}
-
-Return EXACTLY this format (no extra text):
-CARD 1
-FRONT: [concise question/cue]
-BACK: [concise answer/fact]
-CARD 2
-FRONT: ...
-BACK: ...''';
-
-    try {
-      final response = await _model!.generateContent([Content.text(prompt)]);
-      final cards = _parseFlashcardResponse(response.text ?? '', q);
-      return cards.isNotEmpty ? cards : _localFlashcardsFromQuestion(q);
-    } on GenerativeAIException catch (_) {
-      return _localFlashcardsFromQuestion(q);
-    } catch (_) {
-      return _localFlashcardsFromQuestion(q);
-    }
-  }
-
-  Future<(List<Flashcard>, String?)> generateFlashcardsFromTopic(String topic, String subject) async {
-    if (_model == null) return (<Flashcard>[], 'API key not configured. Go to Settings.');
-
-    final prompt = '''Create 5 NEET-PG flashcards for topic: "$topic" (Subject: $subject).
-Make them high-yield for the exam.
-
-Return EXACTLY this format:
-CARD 1
-FRONT: [concise question/cue]
-BACK: [concise answer/fact]
-CARD 2
-FRONT: ...
-BACK: ...
-(continue for all 5)''';
-
-    try {
-      final response = await _model!.generateContent([Content.text(prompt)]);
-      final cards = _parseFlashcardResponse(response.text ?? '', null, subject: subject);
-      if (cards.isEmpty) return (<Flashcard>[], 'AI returned empty response. Try again.');
-      return (cards, null);
-    } on GenerativeAIException catch (e) {
-      if (_isRateLimit(e)) return (<Flashcard>[], 'Rate limit hit (10 req/min on free tier). Wait 1 minute and retry.');
-      return (<Flashcard>[], 'Gemini error: ${e.message}');
-    } catch (e) {
-      return (<Flashcard>[], 'Error: $e');
-    }
-  }
-
-  Future<String> askTutor(String question, {String? context}) async {
-    if (_model == null) return 'API key not set. Go to ⚙ Settings and enter your Gemini API key.';
-
-    final prompt = context != null
-        ? 'Context: $context\n\nQuestion: $question\n\nAnswer as a NEET-PG medical tutor in 3–5 sentences. Be precise and exam-focused.'
-        : 'NEET-PG question: $question\n\nAnswer as a medical tutor in 3–5 sentences. Be precise and exam-focused.';
-
-    try {
-      final response = await _model!.generateContent([Content.text(prompt)]);
-      return response.text?.trim() ?? 'No response received. Please try again.';
-    } on GenerativeAIException catch (e) {
-      if (_isRateLimit(e)) return '⏳ Rate limit reached (free tier: 10 requests/min). Please wait 1 minute and ask again.';
-      if (_isInvalidKey(e)) return '🔑 Invalid API key. Go to Settings and check your key.';
-      return '⚠ Gemini error: ${e.message}';
-    } catch (e) {
-      return '⚠ Connection error: $e\n\nCheck your internet connection.';
-    }
-  }
-
-  bool _isRateLimit(GenerativeAIException e) {
-    final msg = e.message.toLowerCase();
-    return msg.contains('quota') || msg.contains('rate') || msg.contains('resource_exhausted') || msg.contains('429');
-  }
-
-  bool _isInvalidKey(GenerativeAIException e) {
-    final msg = e.message.toLowerCase();
-    return msg.contains('api_key_invalid') || msg.contains('api key not valid') || msg.contains('400');
-  }
-
-  String _localFeedback(String selected, String correct, String explanation) {
-    if (selected == correct) return 'Correct! $explanation';
-    return 'Incorrect. The correct answer is $correct. $explanation';
-  }
-
-  String _localDetailedFallback(Question q) =>
-    '**Why ${q.correctOption} is correct:**\n${q.explanation}\n\n'
-    '**High-yield NEET pearl:**\nConfigure Gemini API key in Settings for full AI explanations.';
-
-  List<Flashcard> _parseFlashcardResponse(String text, Question? q, {String? subject}) {
-    final cards = <Flashcard>[];
-    final cardBlocks = RegExp(
-      r'CARD \d+\s*\nFRONT:\s*(.*?)\nBACK:\s*(.*?)(?=\nCARD \d+|$)',
-      dotAll: true,
-    ).allMatches(text);
-
-    for (final match in cardBlocks) {
-      final front = match.group(1)?.trim() ?? '';
-      final back = match.group(2)?.trim() ?? '';
-      if (front.isNotEmpty && back.isNotEmpty) {
-        cards.add(Flashcard(
-          id: '${DateTime.now().microsecondsSinceEpoch}${cards.length}',
-          front: front,
-          back: back,
-          subject: q?.subject ?? subject ?? 'General',
-          sourceQuestionId: q?.id,
-          createdAt: DateTime.now(),
-        ));
-      }
-    }
-    return cards;
-  }
-
-  List<Flashcard> _localFlashcardsFromQuestion(Question q) => [
-    Flashcard(
-      id: '${q.id}_card',
-      front: q.stem,
-      back: '${q.correctOption}. ${q.correctText}\n\n${q.explanation}',
-      subject: q.subject,
-      sourceQuestionId: q.id,
-      createdAt: DateTime.now(),
-    ),
-  ];
+  Future<String> askTutor(String question, {String? context}) =>
+      _active.askTutor(question, context: context);
 }
