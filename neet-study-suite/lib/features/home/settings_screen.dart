@@ -5,6 +5,7 @@ import '../../services/tts_service.dart';
 import '../../services/progress_service.dart';
 import '../../services/providers/ai_provider.dart';
 import '../../core/theme/app_theme.dart';
+import '../../core/widgets/soft_widgets.dart';
 
 class SettingsScreen extends StatefulWidget {
   final GeminiService gemini;
@@ -96,43 +97,74 @@ class _SettingsScreenState extends State<SettingsScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Settings')),
-      body: ListView(
-        padding: const EdgeInsets.all(16),
+      body: Column(
         children: [
-          _sectionHeader('AI Provider'),
-          _buildProviderPicker(),
-          const SizedBox(height: 12),
-          _buildKeyCard(),
-          const SizedBox(height: 8),
-          _buildComparisonCard(),
-          const SizedBox(height: 16),
-          _sectionHeader('Voice (TTS)'),
-          Card(
-            child: SwitchListTile(
-              title: const Text('Text-to-Speech'),
-              subtitle: const Text('Reads questions and feedback aloud'),
-              value: _ttsEnabled,
-              onChanged: (v) async {
-                await widget.tts.setEnabled(v);
-                if (mounted) setState(() => _ttsEnabled = v);
-              },
-            ),
+          GradientHeader(
+            gradient: AppTheme.heroGradient,
+            height: 130,
+            padding: const EdgeInsets.fromLTRB(20, 52, 20, 18),
+            child: Row(children: [
+              TapScale(
+                onTap: () => Navigator.pop(context),
+                child: Container(
+                  padding: const EdgeInsets.all(8),
+                  decoration: BoxDecoration(
+                    color: Colors.white.withValues(alpha: 0.2), borderRadius: BorderRadius.circular(12)),
+                  child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
+                ),
+              ),
+              const SizedBox(width: 14),
+              const Text('Settings', style: TextStyle(
+                color: Colors.white, fontSize: 22, fontWeight: FontWeight.w800, letterSpacing: -0.5)),
+            ]),
           ),
-          const SizedBox(height: 16),
-          _sectionHeader('Data'),
-          Card(
-            child: ListTile(
-              leading: const Icon(Icons.delete_outline, color: Colors.red),
-              title: const Text('Clear Progress Data'),
-              subtitle: const Text('Reset all study statistics'),
-              onTap: _confirmClearProgress,
+          Expanded(
+            child: ListView(
+              padding: const EdgeInsets.fromLTRB(20, 20, 20, 30),
+              children: [
+                _sectionHeader('AI Provider'),
+                _buildProviderPicker(),
+                const SizedBox(height: 12),
+                _buildKeyCard(),
+                const SizedBox(height: 8),
+                _buildComparisonCard(),
+                const SizedBox(height: 16),
+                _sectionHeader('Voice (TTS)'),
+                Card(
+                  child: SwitchListTile(
+                    title: const Text('Text-to-Speech', style: TextStyle(fontWeight: FontWeight.w600)),
+                    subtitle: const Text('Reads questions and feedback aloud'),
+                    activeColor: AppTheme.primary,
+                    value: _ttsEnabled,
+                    onChanged: (v) async {
+                      await widget.tts.setEnabled(v);
+                      if (mounted) setState(() => _ttsEnabled = v);
+                    },
+                  ),
+                ),
+                const SizedBox(height: 16),
+                _sectionHeader('Data'),
+                Card(
+                  child: ListTile(
+                    leading: Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: AppTheme.incorrect.withValues(alpha: 0.12),
+                        borderRadius: BorderRadius.circular(12)),
+                      child: const Icon(Icons.delete_outline_rounded, color: AppTheme.incorrect, size: 20),
+                    ),
+                    title: const Text('Clear Progress Data', style: TextStyle(fontWeight: FontWeight.w600)),
+                    subtitle: const Text('Reset all study statistics'),
+                    onTap: _confirmClearProgress,
+                  ),
+                ),
+                const SizedBox(height: 24),
+                const Center(
+                  child: Text('NEET-PG Study Suite v1.1.0',
+                    style: TextStyle(color: AppTheme.inkFaint, fontSize: 12)),
+                ),
+              ],
             ),
-          ),
-          const SizedBox(height: 24),
-          const Center(
-            child: Text('NEET-PG Study Suite v1.0.3',
-              style: TextStyle(color: Colors.grey, fontSize: 12)),
           ),
         ],
       ),

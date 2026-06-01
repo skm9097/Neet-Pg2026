@@ -7,6 +7,7 @@ import '../../services/github_service.dart';
 import '../../services/markdown_parser.dart';
 import '../../services/progress_service.dart';
 import '../../core/theme/app_theme.dart';
+import '../../core/widgets/soft_widgets.dart';
 
 class MockTestScreen extends StatefulWidget {
   final GeminiService gemini;
@@ -25,6 +26,7 @@ class _MockTestScreenState extends State<MockTestScreen>
   void initState() {
     super.initState();
     _tabs = TabController(length: 2, vsync: this);
+    _tabs.addListener(() => setState(() {}));
     _loadHistory();
   }
 
@@ -39,65 +41,125 @@ class _MockTestScreenState extends State<MockTestScreen>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Mock Test'),
-        bottom: TabBar(
-          controller: _tabs,
-          tabs: const [Tab(text: 'Start Test'), Tab(text: 'Analytics')],
-        ),
+      body: Column(
+        children: [
+          GradientHeader(
+            gradient: AppTheme.mockGradient,
+            height: 186,
+            padding: const EdgeInsets.fromLTRB(20, 52, 20, 18),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(children: [
+                  _backButton(),
+                  const SizedBox(width: 14),
+                  const Text('Mock Test', style: TextStyle(
+                    color: Colors.white, fontSize: 22, fontWeight: FontWeight.w800, letterSpacing: -0.5)),
+                ]),
+                const Spacer(),
+                Text('Simulate the real exam, track your growth',
+                  style: TextStyle(color: Colors.white.withValues(alpha: 0.9), fontSize: 13.5)),
+                const SizedBox(height: 14),
+                _buildTabSelector(),
+              ],
+            ),
+          ),
+          Expanded(
+            child: TabBarView(
+              controller: _tabs,
+              children: [_buildStartTab(), _buildAnalyticsTab()],
+            ),
+          ),
+        ],
       ),
-      body: TabBarView(
-        controller: _tabs,
-        children: [_buildStartTab(), _buildAnalyticsTab()],
+    );
+  }
+
+  Widget _backButton() => TapScale(
+    onTap: () => Navigator.pop(context),
+    child: Container(
+      padding: const EdgeInsets.all(8),
+      decoration: BoxDecoration(
+        color: Colors.white.withValues(alpha: 0.2), borderRadius: BorderRadius.circular(12)),
+      child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
+    ),
+  );
+
+  Widget _buildTabSelector() {
+    final labels = ['Start Test', 'Analytics'];
+    return Container(
+      padding: const EdgeInsets.all(4),
+      decoration: BoxDecoration(
+        color: Colors.white.withValues(alpha: 0.18), borderRadius: BorderRadius.circular(16)),
+      child: Row(
+        children: List.generate(labels.length, (i) {
+          final active = _tabs.index == i;
+          return Expanded(
+            child: TapScale(
+              onTap: () => _tabs.animateTo(i),
+              child: AnimatedContainer(
+                duration: const Duration(milliseconds: 250),
+                padding: const EdgeInsets.symmetric(vertical: 10),
+                decoration: BoxDecoration(
+                  color: active ? Colors.white : Colors.transparent,
+                  borderRadius: BorderRadius.circular(13)),
+                child: Text(labels[i], textAlign: TextAlign.center, style: TextStyle(
+                  color: active ? AppTheme.accent : Colors.white,
+                  fontWeight: FontWeight.w700, fontSize: 13)),
+              ),
+            ),
+          );
+        }),
       ),
     );
   }
 
   Widget _buildStartTab() {
     return SingleChildScrollView(
-      padding: const EdgeInsets.all(16),
+      padding: const EdgeInsets.fromLTRB(20, 22, 20, 30),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          _buildModeCard(
-            icon: Icons.timer,
+          FadeSlideIn(index: 0, child: _buildModeCard(
+            icon: Icons.timer_rounded,
             title: 'Full Mock Test',
-            subtitle: '200 Questions • 3.5 Hours (NEET-PG format)',
-            color: AppTheme.primary,
-            onTap: () => _startTest(200, Duration(hours: 3, minutes: 30)),
-          ),
-          const SizedBox(height: 12),
-          _buildModeCard(
-            icon: Icons.flash_on,
-            title: 'Quick Test (50 Qs)',
-            subtitle: '50 Questions • 50 Minutes',
-            color: AppTheme.secondary,
-            onTap: () => _startTest(50, Duration(minutes: 50)),
-          ),
-          const SizedBox(height: 12),
-          _buildModeCard(
-            icon: Icons.subject,
-            title: 'Subject Test (30 Qs)',
-            subtitle: '30 Questions • 30 Minutes',
+            subtitle: '200 Questions · 3.5 Hours',
+            tag: 'Exam format',
+            gradient: AppTheme.mockGradient,
             color: AppTheme.accent,
-            onTap: () => _startTest(30, Duration(minutes: 30)),
-          ),
-          const SizedBox(height: 24),
-          const Text('Marking Scheme',
-            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
-          const SizedBox(height: 8),
-          const Card(
-            child: Padding(
-              padding: EdgeInsets.all(16),
-              child: Column(
-                children: [
-                  _SchemeRow('Correct answer', '+4 marks', AppTheme.correct),
-                  _SchemeRow('Wrong answer', '−1 mark', AppTheme.incorrect),
-                  _SchemeRow('Unattempted', '0 marks', Colors.grey),
-                  _SchemeRow('Blind guess EV', '+0.25 expected', Colors.blue),
-                ],
-              ),
-            ),
+            onTap: () => _startTest(200, const Duration(hours: 3, minutes: 30)),
+          )),
+          const SizedBox(height: 14),
+          FadeSlideIn(index: 1, child: _buildModeCard(
+            icon: Icons.flash_on_rounded,
+            title: 'Quick Test',
+            subtitle: '50 Questions · 50 Minutes',
+            tag: 'Daily warm-up',
+            gradient: AppTheme.flashcardGradient,
+            color: AppTheme.secondary,
+            onTap: () => _startTest(50, const Duration(minutes: 50)),
+          )),
+          const SizedBox(height: 14),
+          FadeSlideIn(index: 2, child: _buildModeCard(
+            icon: Icons.bolt_rounded,
+            title: 'Subject Sprint',
+            subtitle: '30 Questions · 30 Minutes',
+            tag: 'Focused',
+            gradient: AppTheme.tutorGradient,
+            color: AppTheme.lavender,
+            onTap: () => _startTest(30, const Duration(minutes: 30)),
+          )),
+          const SizedBox(height: 26),
+          const Text('Marking Scheme', style: TextStyle(
+            fontWeight: FontWeight.w800, fontSize: 16, color: AppTheme.ink)),
+          const SizedBox(height: 12),
+          SoftCard(
+            child: Column(children: const [
+              _SchemeRow(Icons.check_circle_rounded, 'Correct answer', '+4', AppTheme.correct),
+              _SchemeRow(Icons.cancel_rounded, 'Wrong answer', '−1', AppTheme.incorrect),
+              _SchemeRow(Icons.remove_circle_rounded, 'Unattempted', '0', AppTheme.inkFaint),
+              _SchemeRow(Icons.casino_rounded, 'Blind guess EV', '+0.25', AppTheme.primary, last: true),
+            ]),
           ),
         ],
       ),
@@ -106,58 +168,57 @@ class _MockTestScreenState extends State<MockTestScreen>
 
   Widget _buildModeCard({
     required IconData icon, required String title, required String subtitle,
-    required Color color, required VoidCallback onTap,
+    required String tag, required LinearGradient gradient, required Color color,
+    required VoidCallback onTap,
   }) {
-    return Card(
-      child: InkWell(
-        onTap: onTap,
-        borderRadius: BorderRadius.circular(12),
-        child: Padding(
-          padding: const EdgeInsets.all(20),
-          child: Row(
+    return SoftCard(
+      onTap: onTap,
+      padding: const EdgeInsets.all(18),
+      child: Row(children: [
+        Container(
+          padding: const EdgeInsets.all(14),
+          decoration: BoxDecoration(
+            gradient: gradient, borderRadius: BorderRadius.circular(18),
+            boxShadow: AppTheme.coloredShadow(color)),
+          child: Icon(icon, color: Colors.white, size: 26),
+        ),
+        const SizedBox(width: 16),
+        Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Container(
-                padding: const EdgeInsets.all(12),
-                decoration: BoxDecoration(color: color.withOpacity(0.1), shape: BoxShape.circle),
-                child: Icon(icon, color: color, size: 28),
-              ),
-              const SizedBox(width: 16),
-              Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text(title, style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold)),
-                    const SizedBox(height: 4),
-                    Text(subtitle, style: const TextStyle(color: Colors.grey)),
-                  ],
-                ),
-              ),
-              Icon(Icons.arrow_forward_ios, size: 16, color: Colors.grey[400]),
+              Row(children: [
+                Text(title, style: const TextStyle(fontSize: 16.5, fontWeight: FontWeight.w800, color: AppTheme.ink)),
+                const SizedBox(width: 8),
+                SoftChip(label: tag, color: color),
+              ]),
+              const SizedBox(height: 4),
+              Text(subtitle, style: const TextStyle(color: AppTheme.inkSoft, fontSize: 13)),
             ],
           ),
         ),
-      ),
+        Icon(Icons.arrow_forward_ios_rounded, size: 15, color: AppTheme.inkFaint),
+      ]),
     );
   }
 
   Widget _buildAnalyticsTab() {
     if (_history.isEmpty) {
-      return Center(
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            const Icon(Icons.bar_chart, size: 64, color: Colors.grey),
-            const SizedBox(height: 16),
-            const Text('No data yet', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
-            const SizedBox(height: 8),
-            const Text('Complete quizzes to see your analytics here.',
-              style: TextStyle(color: Colors.grey)),
-            const SizedBox(height: 24),
-            FilledButton(
-              onPressed: () => _tabs.animateTo(0),
-              child: const Text('Start a Test'),
-            ),
-          ],
+      return SoftEmptyState(
+        icon: Icons.insights_rounded,
+        color: AppTheme.accent,
+        title: 'No data yet',
+        message: 'Complete a quiz or mock test to unlock your performance analytics.',
+        action: TapScale(
+          onTap: () => _tabs.animateTo(0),
+          child: Container(
+            padding: const EdgeInsets.symmetric(horizontal: 26, vertical: 14),
+            decoration: BoxDecoration(
+              gradient: AppTheme.mockGradient,
+              borderRadius: BorderRadius.circular(AppTheme.rMd),
+              boxShadow: AppTheme.coloredShadow(AppTheme.accent)),
+            child: const Text('Start a Test', style: TextStyle(color: Colors.white, fontWeight: FontWeight.w700)),
+          ),
         ),
       );
     }
@@ -165,36 +226,38 @@ class _MockTestScreenState extends State<MockTestScreen>
     final totalAttempted = _history.fold(0, (s, p) => s + p.attempted);
     final totalCorrect = _history.fold(0, (s, p) => s + p.correct);
     final overallAccuracy = totalAttempted > 0 ? totalCorrect / totalAttempted * 100 : 0.0;
+    final weak = _history.where((p) => p.accuracy < 50).toList();
 
     return SingleChildScrollView(
-      padding: const EdgeInsets.all(16),
+      padding: const EdgeInsets.fromLTRB(20, 22, 20, 30),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          _buildSummaryCard(totalAttempted, totalCorrect, overallAccuracy),
-          const SizedBox(height: 16),
-          const Text('By Session', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
-          const SizedBox(height: 8),
-          _buildAccuracyChart(),
-          const SizedBox(height: 16),
-          const Text('Weak Areas',
-            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16, color: AppTheme.incorrect)),
-          const SizedBox(height: 8),
-          ..._history.where((p) => p.accuracy < 50).map(_buildWeakAreaTile),
-          if (_history.every((p) => p.accuracy >= 50))
-            const Card(
-              color: Color(0xFFE8F5E9),
-              child: Padding(
-                padding: EdgeInsets.all(16),
-                child: Row(
-                  children: [
-                    Icon(Icons.check_circle, color: AppTheme.correct),
-                    SizedBox(width: 12),
-                    Text('No weak areas! Keep it up.', style: TextStyle(color: AppTheme.correct)),
-                  ],
-                ),
-              ),
-            ),
+          FadeSlideIn(child: _buildSummaryCard(totalAttempted, totalCorrect, overallAccuracy)),
+          const SizedBox(height: 20),
+          const Text('Accuracy by Session', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16, color: AppTheme.ink)),
+          const SizedBox(height: 12),
+          FadeSlideIn(index: 1, child: SoftCard(child: SizedBox(height: 170, child: _buildAccuracyChart()))),
+          const SizedBox(height: 20),
+          Row(children: const [
+            Icon(Icons.priority_high_rounded, size: 18, color: AppTheme.incorrect),
+            SizedBox(width: 6),
+            Text('Focus Areas', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16, color: AppTheme.ink)),
+          ]),
+          const SizedBox(height: 12),
+          if (weak.isEmpty)
+            SoftCard(
+              gradient: AppTheme.mintGradient,
+              shadow: AppTheme.coloredShadow(AppTheme.secondary),
+              child: Row(children: const [
+                Icon(Icons.verified_rounded, color: Colors.white),
+                SizedBox(width: 12),
+                Expanded(child: Text('No weak areas — you\'re crushing it! 🎯',
+                  style: TextStyle(color: Colors.white, fontWeight: FontWeight.w600))),
+              ]),
+            )
+          else
+            ...weak.asMap().entries.map((e) => FadeSlideIn(index: e.key, child: _buildWeakAreaTile(e.value))),
         ],
       ),
     );
@@ -202,60 +265,57 @@ class _MockTestScreenState extends State<MockTestScreen>
 
   Widget _buildSummaryCard(int attempted, int correct, double accuracy) {
     final neetScore = correct * 4 - (attempted - correct);
-    return Card(
-      color: AppTheme.primary,
-      child: Padding(
-        padding: const EdgeInsets.all(20),
-        child: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceAround,
-          children: [
-            _statItem('$attempted', 'Attempted', Colors.white),
-            _statItem('${accuracy.toStringAsFixed(0)}%', 'Accuracy', Colors.white),
-            _statItem('${neetScore >= 0 ? '+' : ''}$neetScore', 'NEET Score', Colors.white),
-          ],
-        ),
-      ),
+    return SoftCard(
+      gradient: AppTheme.mockGradient,
+      shadow: AppTheme.coloredShadow(AppTheme.accent),
+      padding: const EdgeInsets.symmetric(vertical: 22, horizontal: 16),
+      child: Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
+        _statItem('$attempted', 'Attempted'),
+        _whiteDivider(),
+        _statItem('${accuracy.toStringAsFixed(0)}%', 'Accuracy'),
+        _whiteDivider(),
+        _statItem('${neetScore >= 0 ? '+' : ''}$neetScore', 'NEET Score'),
+      ]),
     );
   }
 
-  Widget _statItem(String value, String label, Color color) => Column(
-    children: [
-      Text(value, style: TextStyle(color: color, fontSize: 22, fontWeight: FontWeight.bold)),
-      Text(label, style: TextStyle(color: color.withOpacity(0.8), fontSize: 12)),
-    ],
-  );
+  Widget _whiteDivider() => Container(width: 1, height: 36, color: Colors.white.withValues(alpha: 0.3));
+
+  Widget _statItem(String value, String label) => Column(children: [
+    Text(value, style: const TextStyle(color: Colors.white, fontSize: 23, fontWeight: FontWeight.w800)),
+    const SizedBox(height: 2),
+    Text(label, style: TextStyle(color: Colors.white.withValues(alpha: 0.85), fontSize: 12)),
+  ]);
 
   Widget _buildAccuracyChart() {
     final data = _history.take(10).toList();
     if (data.isEmpty) return const SizedBox.shrink();
 
-    return SizedBox(
-      height: 180,
-      child: BarChart(
-        BarChartData(
-          alignment: BarChartAlignment.spaceAround,
-          barGroups: List.generate(data.length, (i) {
-            final pct = data[i].accuracy;
-            return BarChartGroupData(x: i, barRods: [
-              BarChartRodData(
-                toY: pct,
-                color: pct >= 70 ? AppTheme.correct : pct >= 50 ? AppTheme.accent : AppTheme.incorrect,
-                width: 16, borderRadius: const BorderRadius.vertical(top: Radius.circular(4)),
-              ),
-            ]);
-          }),
-          titlesData: FlTitlesData(
-            leftTitles: AxisTitles(
-              sideTitles: SideTitles(showTitles: true, reservedSize: 32,
-                getTitlesWidget: (v, _) => Text('${v.toInt()}%', style: const TextStyle(fontSize: 10)))),
-            bottomTitles: AxisTitles(sideTitles: SideTitles(showTitles: false)),
-            topTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
-            rightTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
-          ),
-          borderData: FlBorderData(show: false),
-          gridData: const FlGridData(drawVerticalLine: false),
-          maxY: 100,
+    return BarChart(
+      BarChartData(
+        alignment: BarChartAlignment.spaceAround,
+        barGroups: List.generate(data.length, (i) {
+          final pct = data[i].accuracy;
+          final color = pct >= 70 ? AppTheme.correct : pct >= 50 ? AppTheme.warning : AppTheme.incorrect;
+          return BarChartGroupData(x: i, barRods: [
+            BarChartRodData(
+              toY: pct, color: color, width: 16,
+              borderRadius: const BorderRadius.vertical(top: Radius.circular(8)),
+              backDrawRodData: BackgroundBarChartRodData(
+                show: true, toY: 100, color: color.withValues(alpha: 0.08)),
+            ),
+          ]);
+        }),
+        titlesData: FlTitlesData(
+          leftTitles: AxisTitles(sideTitles: SideTitles(showTitles: true, reservedSize: 32,
+            getTitlesWidget: (v, _) => Text('${v.toInt()}', style: const TextStyle(fontSize: 10, color: AppTheme.inkFaint)))),
+          bottomTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
+          topTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
+          rightTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
         ),
+        borderData: FlBorderData(show: false),
+        gridData: const FlGridData(drawVerticalLine: false),
+        maxY: 100,
       ),
     );
   }
@@ -264,18 +324,30 @@ class _MockTestScreenState extends State<MockTestScreen>
     final label = entry.source.startsWith('year_')
         ? 'Year ${entry.source.substring(5)}'
         : entry.source.startsWith('subject_')
-            ? entry.source.substring(8)
+            ? (GithubService.subjectDisplayNames[entry.source.substring(8)] ?? entry.source.substring(8))
             : entry.source;
 
-    return Card(
-      color: Colors.red[50],
-      margin: const EdgeInsets.only(bottom: 8),
-      child: ListTile(
-        dense: true,
-        leading: const Icon(Icons.warning_amber, color: AppTheme.incorrect),
-        title: Text(label),
-        subtitle: Text('${entry.accuracy.toStringAsFixed(0)}% accuracy'),
-        trailing: Text('${entry.attempted} Qs'),
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 10),
+      child: SoftCard(
+        padding: const EdgeInsets.all(14),
+        child: Row(children: [
+          IconBadge(icon: Icons.trending_down_rounded, color: AppTheme.incorrect, size: 42),
+          const SizedBox(width: 14),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(label, style: const TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink)),
+                const SizedBox(height: 6),
+                SoftProgressBar(value: entry.accuracy / 100, color: AppTheme.incorrect, height: 6),
+              ],
+            ),
+          ),
+          const SizedBox(width: 10),
+          Text('${entry.accuracy.toStringAsFixed(0)}%',
+            style: const TextStyle(fontWeight: FontWeight.w800, color: AppTheme.incorrect)),
+        ]),
       ),
     );
   }
@@ -284,29 +356,33 @@ class _MockTestScreenState extends State<MockTestScreen>
     await Navigator.push(
       context,
       MaterialPageRoute(builder: (_) => _TimedTestScreen(
-        count: count, duration: duration, gemini: widget.gemini,
-      )),
+        count: count, duration: duration, gemini: widget.gemini)),
     );
     _loadHistory();
   }
 }
 
 class _SchemeRow extends StatelessWidget {
+  final IconData icon;
   final String label;
   final String value;
   final Color color;
-  const _SchemeRow(this.label, this.value, this.color);
+  final bool last;
+  const _SchemeRow(this.icon, this.label, this.value, this.color, {this.last = false});
 
   @override
   Widget build(BuildContext context) => Padding(
-    padding: const EdgeInsets.symmetric(vertical: 4),
-    child: Row(
-      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-      children: [
-        Text(label),
-        Text(value, style: TextStyle(color: color, fontWeight: FontWeight.bold)),
-      ],
-    ),
+    padding: EdgeInsets.only(bottom: last ? 0 : 14),
+    child: Row(children: [
+      Icon(icon, color: color, size: 20),
+      const SizedBox(width: 12),
+      Expanded(child: Text(label, style: const TextStyle(color: AppTheme.ink, fontSize: 14))),
+      Container(
+        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
+        decoration: BoxDecoration(color: color.withValues(alpha: 0.12), borderRadius: BorderRadius.circular(20)),
+        child: Text(value, style: TextStyle(color: color, fontWeight: FontWeight.w800, fontSize: 13)),
+      ),
+    ]),
   );
 }
 
@@ -376,8 +452,7 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
     Navigator.pushReplacement(
       context,
       MaterialPageRoute(builder: (_) => _MockResultScreen(
-        attempts: attempts, questions: _questions, timeTaken: DateTime.now().difference(_startTime),
-      )),
+        attempts: attempts, questions: _questions, timeTaken: DateTime.now().difference(_startTime))),
     );
   }
 
@@ -388,15 +463,23 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
 
   @override
   Widget build(BuildContext context) {
-    if (_loading) return const Scaffold(
-      body: Center(child: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [CircularProgressIndicator(), SizedBox(height: 16), Text('Loading test...')],
-      )),
+    if (_loading) return Scaffold(
+      body: Center(child: Column(mainAxisSize: MainAxisSize.min, children: [
+        Container(
+          padding: const EdgeInsets.all(22),
+          decoration: BoxDecoration(gradient: AppTheme.mockGradient, shape: BoxShape.circle,
+            boxShadow: AppTheme.coloredShadow(AppTheme.accent)),
+          child: const SizedBox(width: 30, height: 30,
+            child: CircularProgressIndicator(color: Colors.white, strokeWidth: 3))),
+        const SizedBox(height: 20),
+        const Text('Setting up your test…', style: TextStyle(fontWeight: FontWeight.w600, color: AppTheme.ink)),
+      ])),
     );
     if (_error != null) return Scaffold(
-      appBar: AppBar(title: const Text('Error')),
-      body: Center(child: Text(_error!)),
+      body: SoftEmptyState(
+        icon: Icons.cloud_off_rounded, color: AppTheme.incorrect,
+        title: 'Could not load test', message: _error!,
+        action: FilledButton(onPressed: () => Navigator.pop(context), child: const Text('Go Back'))),
     );
 
     final q = _questions[_current];
@@ -404,105 +487,171 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
     final isLowTime = rem.inMinutes < 10;
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text('Q ${_current + 1}/${_questions.length}'),
-        actions: [
-          Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-            child: Text(
-              '${rem.inMinutes.toString().padLeft(2, '0')}:${(rem.inSeconds % 60).toString().padLeft(2, '0')}',
-              style: TextStyle(
-                color: isLowTime ? Colors.red[300] : Colors.white,
-                fontWeight: FontWeight.bold, fontSize: 16,
-              ),
-            ),
-          ),
-        ],
-      ),
-      body: Column(
-        children: [
-          LinearProgressIndicator(value: (_current + 1) / _questions.length),
-          Expanded(
-            child: SingleChildScrollView(
-              padding: const EdgeInsets.all(16),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Card(child: Padding(
-                    padding: const EdgeInsets.all(16),
-                    child: Text(q.stem, style: const TextStyle(fontSize: 16, height: 1.6)),
-                  )),
-                  const SizedBox(height: 12),
-                  ...['A', 'B', 'C', 'D'].map((opt) => Padding(
-                    padding: const EdgeInsets.only(bottom: 8),
-                    child: Card(
-                      color: _answers[_current] == opt ? AppTheme.primary : null,
-                      child: InkWell(
-                        onTap: () => setState(() => _answers[_current] = opt),
-                        borderRadius: BorderRadius.circular(12),
-                        child: Padding(
-                          padding: const EdgeInsets.all(14),
-                          child: Row(
-                            children: [
-                              CircleAvatar(
-                                radius: 14,
-                                backgroundColor: _answers[_current] == opt
-                                    ? Colors.white24 : Colors.blue[50],
-                                child: Text(opt, style: TextStyle(
-                                  fontWeight: FontWeight.bold,
-                                  color: _answers[_current] == opt
-                                      ? Colors.white : AppTheme.primary,
-                                )),
-                              ),
-                              const SizedBox(width: 12),
-                              Expanded(child: Text(q.optionText(opt),
-                                style: TextStyle(
-                                  color: _answers[_current] == opt ? Colors.white : null,
-                                ))),
-                            ],
-                          ),
-                        ),
-                      ),
-                    ),
-                  )),
-                  const SizedBox(height: 80),
-                ],
-              ),
-            ),
-          ),
-        ],
-      ),
-      bottomNavigationBar: Container(
-        padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
-        decoration: BoxDecoration(
-          color: Colors.white,
-          boxShadow: [BoxShadow(color: Colors.black12, blurRadius: 8)],
-        ),
-        child: Row(
+      body: SafeArea(
+        bottom: false,
+        child: Column(
           children: [
-            if (_current > 0)
-              OutlinedButton.icon(
-                onPressed: () => setState(() => _current--),
-                icon: const Icon(Icons.arrow_back, size: 18),
-                label: const Text('Prev'),
+            Container(
+              padding: const EdgeInsets.fromLTRB(16, 8, 16, 14),
+              child: Column(children: [
+                Row(children: [
+                  TapScale(
+                    onTap: () => _confirmExit(),
+                    child: Container(
+                      padding: const EdgeInsets.all(9),
+                      decoration: BoxDecoration(
+                        color: AppTheme.accent.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(13)),
+                      child: const Icon(Icons.close_rounded, size: 20, color: AppTheme.accent)),
+                  ),
+                  const SizedBox(width: 12),
+                  Text('Question ${_current + 1} / ${_questions.length}',
+                    style: const TextStyle(fontWeight: FontWeight.w700, fontSize: 15, color: AppTheme.ink)),
+                  const Spacer(),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: (isLowTime ? AppTheme.incorrect : AppTheme.accent).withValues(alpha: 0.12),
+                      borderRadius: BorderRadius.circular(30)),
+                    child: Row(children: [
+                      Icon(Icons.timer_rounded, size: 15, color: isLowTime ? AppTheme.incorrect : AppTheme.accent),
+                      const SizedBox(width: 6),
+                      Text('${rem.inMinutes.toString().padLeft(2, '0')}:${(rem.inSeconds % 60).toString().padLeft(2, '0')}',
+                        style: TextStyle(color: isLowTime ? AppTheme.incorrect : AppTheme.accent,
+                          fontWeight: FontWeight.w800, fontSize: 14)),
+                    ]),
+                  ),
+                ]),
+                const SizedBox(height: 14),
+                SoftProgressBar(value: (_current + 1) / _questions.length, color: AppTheme.accent, height: 7),
+              ]),
+            ),
+            Expanded(
+              child: AnimatedSwitcher(
+                duration: const Duration(milliseconds: 280),
+                transitionBuilder: (child, anim) => FadeTransition(opacity: anim, child: child),
+                child: SingleChildScrollView(
+                  key: ValueKey(_current),
+                  padding: const EdgeInsets.fromLTRB(20, 4, 20, 100),
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      SoftCard(
+                        padding: const EdgeInsets.all(20),
+                        child: Text(q.stem, style: const TextStyle(
+                          fontSize: 16, height: 1.6, color: AppTheme.ink, fontWeight: FontWeight.w500)),
+                      ),
+                      const SizedBox(height: 16),
+                      ...['A', 'B', 'C', 'D'].map((opt) => _buildOption(q, opt)),
+                    ],
+                  ),
+                ),
               ),
-            const Spacer(),
-            if (_current < _questions.length - 1)
-              FilledButton.icon(
-                onPressed: () => setState(() => _current++),
-                icon: const Icon(Icons.arrow_forward, size: 18),
-                label: const Text('Next'),
-              )
-            else
-              FilledButton.icon(
-                onPressed: _submit,
-                icon: const Icon(Icons.done_all, size: 18),
-                label: const Text('Submit Test'),
-              ),
+            ),
           ],
         ),
       ),
+      bottomNavigationBar: _buildBottomBar(),
     );
+  }
+
+  Widget _buildOption(Question q, String opt) {
+    final selected = _answers[_current] == opt;
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 11),
+      child: TapScale(
+        onTap: () => setState(() => _answers[_current] = opt),
+        child: AnimatedContainer(
+          duration: const Duration(milliseconds: 200),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 15),
+          decoration: BoxDecoration(
+            color: selected ? AppTheme.accent.withValues(alpha: 0.10) : AppTheme.cardBg,
+            borderRadius: BorderRadius.circular(AppTheme.rMd),
+            border: Border.all(
+              color: selected ? AppTheme.accent : AppTheme.accent.withValues(alpha: 0.10),
+              width: selected ? 1.8 : 1.2),
+            boxShadow: selected ? AppTheme.coloredShadow(AppTheme.accent) : AppTheme.cardShadow,
+          ),
+          child: Row(children: [
+            Container(
+              width: 34, height: 34, alignment: Alignment.center,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                color: selected ? AppTheme.accent : AppTheme.accent.withValues(alpha: 0.10)),
+              child: Text(opt, style: TextStyle(
+                fontWeight: FontWeight.w800, fontSize: 15,
+                color: selected ? Colors.white : AppTheme.accent)),
+            ),
+            const SizedBox(width: 14),
+            Expanded(child: Text(q.optionText(opt), style: TextStyle(
+              color: AppTheme.ink, height: 1.4, fontSize: 14.5,
+              fontWeight: selected ? FontWeight.w600 : FontWeight.w500))),
+          ]),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildBottomBar() {
+    final isLast = _current >= _questions.length - 1;
+    return Container(
+      padding: const EdgeInsets.fromLTRB(20, 14, 20, 22),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: const BorderRadius.vertical(top: Radius.circular(AppTheme.rLg)),
+        boxShadow: [BoxShadow(color: AppTheme.ink.withValues(alpha: 0.07), blurRadius: 22, offset: const Offset(0, -6))],
+      ),
+      child: SafeArea(
+        top: false,
+        child: Row(children: [
+          if (_current > 0)
+            TapScale(
+              onTap: () => setState(() => _current--),
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 16),
+                decoration: BoxDecoration(
+                  color: AppTheme.inkFaint.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(AppTheme.rMd)),
+                child: const Icon(Icons.arrow_back_rounded, color: AppTheme.inkSoft, size: 20)),
+            ),
+          if (_current > 0) const SizedBox(width: 12),
+          Expanded(
+            child: TapScale(
+              onTap: isLast ? _submit : () => setState(() => _current++),
+              child: Container(
+                padding: const EdgeInsets.symmetric(vertical: 17),
+                decoration: BoxDecoration(
+                  gradient: AppTheme.mockGradient,
+                  borderRadius: BorderRadius.circular(AppTheme.rMd),
+                  boxShadow: AppTheme.coloredShadow(AppTheme.accent)),
+                child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
+                  Text(isLast ? 'Submit Test' : 'Next Question',
+                    style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w700, fontSize: 15.5)),
+                  const SizedBox(width: 8),
+                  Icon(isLast ? Icons.done_all_rounded : Icons.arrow_forward_rounded, color: Colors.white, size: 21),
+                ]),
+              ),
+            ),
+          ),
+        ]),
+      ),
+    );
+  }
+
+  Future<void> _confirmExit() async {
+    final ok = await showDialog<bool>(
+      context: context,
+      builder: (_) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: AppTheme.radiusLg),
+        title: const Text('Quit test?', style: TextStyle(fontWeight: FontWeight.w800)),
+        content: const Text('Your progress in this test won\'t be saved.'),
+        actions: [
+          TextButton(onPressed: () => Navigator.pop(context, false), child: const Text('Keep Going')),
+          FilledButton(
+            style: FilledButton.styleFrom(backgroundColor: AppTheme.incorrect),
+            onPressed: () => Navigator.pop(context, true), child: const Text('Quit')),
+        ],
+      ),
+    );
+    if (ok == true && mounted) Navigator.pop(context);
   }
 }
 
@@ -522,62 +671,85 @@ class _MockResultScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Test Results')),
-      body: SingleChildScrollView(
-        padding: const EdgeInsets.all(20),
-        child: Column(
-          children: [
-            Card(
-              color: AppTheme.primary,
-              child: Padding(
-                padding: const EdgeInsets.all(24),
-                child: Column(
-                  children: [
-                    Text('$_neetScore / $_maxScore',
-                      style: const TextStyle(color: Colors.white, fontSize: 36, fontWeight: FontWeight.bold)),
-                    const Text('NEET Score', style: TextStyle(color: Colors.white70)),
-                    const SizedBox(height: 16),
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceAround,
-                      children: [
-                        _stat('${_accuracy.toStringAsFixed(0)}%', 'Accuracy', Colors.white),
-                        _stat('$_correct', 'Correct', Colors.greenAccent),
-                        _stat('$_incorrect', 'Wrong', Colors.redAccent),
-                        _stat('$_unattempted', 'Skipped', Colors.white60),
-                      ],
-                    ),
-                    const SizedBox(height: 12),
-                    Text(
-                      'Time: ${timeTaken.inMinutes}m ${timeTaken.inSeconds % 60}s',
-                      style: const TextStyle(color: Colors.white70),
-                    ),
-                  ],
+      body: SafeArea(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.fromLTRB(20, 16, 20, 30),
+          child: Column(
+            children: [
+              Row(children: [
+                TapScale(
+                  onTap: () => Navigator.popUntil(context, (r) => r.isFirst),
+                  child: Container(
+                    padding: const EdgeInsets.all(9),
+                    decoration: BoxDecoration(
+                      color: AppTheme.accent.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(13)),
+                    child: const Icon(Icons.home_rounded, size: 20, color: AppTheme.accent)),
+                ),
+                const SizedBox(width: 12),
+                const Text('Test Results', style: TextStyle(
+                  fontSize: 20, fontWeight: FontWeight.w800, color: AppTheme.ink)),
+              ]),
+              const SizedBox(height: 20),
+              FadeSlideIn(child: SoftCard(
+                gradient: AppTheme.mockGradient,
+                shadow: AppTheme.coloredShadow(AppTheme.accent),
+                padding: const EdgeInsets.all(26),
+                child: Column(children: [
+                  Text('$_neetScore', style: const TextStyle(
+                    color: Colors.white, fontSize: 48, fontWeight: FontWeight.w800, letterSpacing: -1)),
+                  Text('out of $_maxScore  ·  NEET Score', style: TextStyle(
+                    color: Colors.white.withValues(alpha: 0.9))),
+                  const SizedBox(height: 20),
+                  Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
+                    _stat('${_accuracy.toStringAsFixed(0)}%', 'Accuracy'),
+                    _stat('$_correct', 'Correct'),
+                    _stat('$_incorrect', 'Wrong'),
+                    _stat('$_unattempted', 'Skipped'),
+                  ]),
+                  const SizedBox(height: 16),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 7),
+                    decoration: BoxDecoration(
+                      color: Colors.white.withValues(alpha: 0.2), borderRadius: BorderRadius.circular(20)),
+                    child: Row(mainAxisSize: MainAxisSize.min, children: [
+                      const Icon(Icons.schedule_rounded, color: Colors.white, size: 15),
+                      const SizedBox(width: 6),
+                      Text('${timeTaken.inMinutes}m ${timeTaken.inSeconds % 60}s',
+                        style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w600, fontSize: 12.5)),
+                    ]),
+                  ),
+                ]),
+              )),
+              const SizedBox(height: 18),
+              FadeSlideIn(index: 1, child: _buildSubjectBreakdown()),
+              const SizedBox(height: 24),
+              TapScale(
+                onTap: () => Navigator.popUntil(context, (r) => r.isFirst),
+                child: Container(
+                  width: double.infinity,
+                  padding: const EdgeInsets.symmetric(vertical: 16),
+                  decoration: BoxDecoration(
+                    gradient: AppTheme.mockGradient,
+                    borderRadius: BorderRadius.circular(AppTheme.rMd),
+                    boxShadow: AppTheme.coloredShadow(AppTheme.accent)),
+                  child: const Row(mainAxisAlignment: MainAxisAlignment.center, children: [
+                    Icon(Icons.home_rounded, color: Colors.white, size: 20),
+                    SizedBox(width: 8),
+                    Text('Back to Home', style: TextStyle(color: Colors.white, fontWeight: FontWeight.w700)),
+                  ]),
                 ),
               ),
-            ),
-            const SizedBox(height: 16),
-            _buildSubjectBreakdown(),
-            const SizedBox(height: 24),
-            SizedBox(
-              width: double.infinity,
-              child: FilledButton.icon(
-                onPressed: () => Navigator.popUntil(context, (r) => r.isFirst),
-                icon: const Icon(Icons.home),
-                label: const Text('Back to Home'),
-              ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
     );
   }
 
-  Widget _stat(String val, String label, Color color) => Column(
-    children: [
-      Text(val, style: TextStyle(color: color, fontSize: 20, fontWeight: FontWeight.bold)),
-      Text(label, style: TextStyle(color: color.withOpacity(0.7), fontSize: 11)),
-    ],
-  );
+  Widget _stat(String val, String label) => Column(children: [
+    Text(val, style: const TextStyle(color: Colors.white, fontSize: 20, fontWeight: FontWeight.w800)),
+    Text(label, style: TextStyle(color: Colors.white.withValues(alpha: 0.8), fontSize: 11)),
+  ]);
 
   Widget _buildSubjectBreakdown() {
     final Map<String, List<bool>> bySubject = {};
@@ -587,39 +759,35 @@ class _MockResultScreen extends StatelessWidget {
     }
     if (bySubject.isEmpty) return const SizedBox.shrink();
 
-    return Column(
-      crossAxisAlignment: CrossAxisAlignment.start,
-      children: [
-        const Text('Subject Performance',
-          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 16)),
-        const SizedBox(height: 8),
-        ...bySubject.entries.map((entry) {
-          final pct = entry.value.where((v) => v).length / entry.value.length * 100;
-          return Padding(
-            padding: const EdgeInsets.symmetric(vertical: 4),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    Text(GithubService.subjectDisplayNames[entry.key] ?? entry.key,
-                      style: const TextStyle(fontSize: 13)),
-                    Text('${pct.toStringAsFixed(0)}%  (${entry.value.length} Qs)',
-                      style: TextStyle(fontSize: 13, fontWeight: FontWeight.bold,
-                        color: pct >= 70 ? AppTheme.correct : pct >= 50 ? AppTheme.accent : AppTheme.incorrect)),
-                  ],
-                ),
-                const SizedBox(height: 2),
-                LinearProgressIndicator(
-                  value: pct / 100, backgroundColor: Colors.grey[200],
-                  color: pct >= 70 ? AppTheme.correct : pct >= 50 ? AppTheme.accent : AppTheme.incorrect,
-                ),
-              ],
-            ),
-          );
-        }),
-      ],
+    return SoftCard(
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(children: const [
+            Icon(Icons.insights_rounded, size: 18, color: AppTheme.accent),
+            SizedBox(width: 8),
+            Text('Subject Performance', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 15, color: AppTheme.ink)),
+          ]),
+          const SizedBox(height: 14),
+          ...bySubject.entries.map((entry) {
+            final pct = entry.value.where((v) => v).length / entry.value.length * 100;
+            final color = pct >= 70 ? AppTheme.correct : pct >= 50 ? AppTheme.warning : AppTheme.incorrect;
+            return Padding(
+              padding: const EdgeInsets.symmetric(vertical: 6),
+              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
+                  Text(GithubService.subjectDisplayNames[entry.key] ?? entry.key,
+                    style: const TextStyle(fontSize: 13.5, fontWeight: FontWeight.w600, color: AppTheme.ink)),
+                  Text('${pct.toStringAsFixed(0)}%  ·  ${entry.value.length} Qs',
+                    style: TextStyle(fontSize: 12.5, fontWeight: FontWeight.w800, color: color)),
+                ]),
+                const SizedBox(height: 6),
+                SoftProgressBar(value: pct / 100, color: color, height: 7),
+              ]),
+            );
+          }),
+        ],
+      ),
     );
   }
 }
