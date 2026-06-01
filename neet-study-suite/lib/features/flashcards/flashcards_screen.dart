@@ -499,15 +499,14 @@ class _TopicFlashcardGeneratorState extends State<_TopicFlashcardGenerator> {
   Future<void> _generate() async {
     if (_ctrl.text.trim().isEmpty) return;
     setState(() { _generating = true; _status = null; });
-    try {
-      final cards = await widget.gemini.generateFlashcardsFromTopic(_ctrl.text.trim(), _subject);
-      await FlashcardService.addCards(cards);
-      setState(() => _status = '✓ ${cards.length} flashcards created!');
-      widget.onGenerated();
-    } catch (e) {
-      setState(() => _status = 'Error: $e');
-    } finally {
-      setState(() => _generating = false);
+    final (cards, error) = await widget.gemini.generateFlashcardsFromTopic(
+      _ctrl.text.trim(), _subject);
+    if (error != null) {
+      setState(() { _status = error; _generating = false; });
+      return;
     }
+    await FlashcardService.addCards(cards);
+    setState(() { _status = '✓ ${cards.length} flashcards created!'; _generating = false; });
+    widget.onGenerated();
   }
 }
