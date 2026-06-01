@@ -5,7 +5,7 @@ class GeminiService {
   String _apiKey = '';
   ChatSession? _chatSession;
 
-  static const String modelName = 'gemini-2.5-flash';
+  static const String modelName = 'gemini-3.5-flash';
 
   bool get isConfigured => _apiKey.isNotEmpty;
   String get apiKey => _apiKey;
