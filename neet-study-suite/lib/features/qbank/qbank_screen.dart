@@ -23,10 +23,16 @@ class _QBankScreenState extends State<QBankScreen>
   int _questionCount = 20;
   static const List<int> _countOptions = [10, 20, 30, 50, 100];
 
-  // Soft accent per subject for visual rhythm
-  static const List<Color> _palette = [
-    AppTheme.primary, AppTheme.secondary, AppTheme.lavender,
-    AppTheme.accent, AppTheme.skyBlue, AppTheme.rose, AppTheme.mint,
+  static const List<Color> _yearColors = [
+    AppTheme.primary, AppTheme.secondary, Color(0xFFB98A2E),
+    AppTheme.lavender, AppTheme.correct, AppTheme.primary,
+    Color(0xFF9B6A8C), AppTheme.secondary, Color(0xFFB98A2E),
+    AppTheme.lavender, AppTheme.correct,
+  ];
+  static const List<Color> _subjectColors = [
+    AppTheme.primary, AppTheme.secondary, Color(0xFFB98A2E),
+    AppTheme.lavender, AppTheme.correct, Color(0xFF9B6A8C),
+    AppTheme.primary, AppTheme.secondary,
   ];
 
   @override
@@ -45,29 +51,10 @@ class _QBankScreenState extends State<QBankScreen>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: AppTheme.surface,
       body: Column(
         children: [
-          GradientHeader(
-            gradient: AppTheme.qbankGradient,
-            height: 188,
-            padding: const EdgeInsets.fromLTRB(20, 52, 20, 18),
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Row(children: [
-                  _backButton(),
-                  const SizedBox(width: 14),
-                  const Text('Question Bank', style: TextStyle(
-                    color: Colors.white, fontSize: 22, fontWeight: FontWeight.w800, letterSpacing: -0.5)),
-                ]),
-                const Spacer(),
-                Text('Choose how you want to practise',
-                  style: TextStyle(color: Colors.white.withValues(alpha: 0.9), fontSize: 13.5)),
-                const SizedBox(height: 14),
-                _buildTabSelector(),
-              ],
-            ),
-          ),
+          _buildHeader(),
           Expanded(
             child: TabBarView(
               controller: _tabs,
@@ -79,16 +66,49 @@ class _QBankScreenState extends State<QBankScreen>
     );
   }
 
-  Widget _backButton() => TapScale(
-    onTap: () => Navigator.pop(context),
-    child: Container(
-      padding: const EdgeInsets.all(8),
-      decoration: BoxDecoration(
-        color: Colors.white.withValues(alpha: 0.2),
-        borderRadius: BorderRadius.circular(12)),
-      child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
-    ),
-  );
+  Widget _buildHeader() {
+    return Container(
+      color: AppTheme.primary,
+      child: SafeArea(
+        bottom: false,
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Padding(
+              padding: const EdgeInsets.fromLTRB(16, 12, 16, 0),
+              child: Row(children: [
+                TapScale(
+                  onTap: () => Navigator.pop(context),
+                  child: Container(
+                    padding: const EdgeInsets.all(8),
+                    decoration: BoxDecoration(
+                      color: Colors.white.withValues(alpha: 0.18),
+                      borderRadius: BorderRadius.circular(12)),
+                    child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
+                  ),
+                ),
+                const SizedBox(width: 14),
+                const Text('Question Bank', style: TextStyle(
+                  color: Colors.white, fontSize: 20, fontWeight: FontWeight.w800,
+                  letterSpacing: -0.4)),
+              ]),
+            ),
+            Padding(
+              padding: const EdgeInsets.fromLTRB(20, 8, 20, 0),
+              child: Text('Choose how you want to practise',
+                style: TextStyle(color: Colors.white.withValues(alpha: 0.82), fontSize: 13)),
+            ),
+            const SizedBox(height: 14),
+            Padding(
+              padding: const EdgeInsets.symmetric(horizontal: 16),
+              child: _buildTabSelector(),
+            ),
+            const SizedBox(height: 16),
+          ],
+        ),
+      ),
+    );
+  }
 
   Widget _buildTabSelector() {
     const labels = ['By Year', 'By Subject', 'Mixed'];
@@ -96,7 +116,7 @@ class _QBankScreenState extends State<QBankScreen>
       padding: const EdgeInsets.all(4),
       decoration: BoxDecoration(
         color: Colors.white.withValues(alpha: 0.18),
-        borderRadius: BorderRadius.circular(16),
+        borderRadius: BorderRadius.circular(14),
       ),
       child: Row(
         children: List.generate(labels.length, (i) {
@@ -105,16 +125,14 @@ class _QBankScreenState extends State<QBankScreen>
             child: TapScale(
               onTap: () => _tabs.animateTo(i),
               child: AnimatedContainer(
-                duration: const Duration(milliseconds: 250),
-                padding: const EdgeInsets.symmetric(vertical: 10),
+                duration: const Duration(milliseconds: 220),
+                padding: const EdgeInsets.symmetric(vertical: 9),
                 decoration: BoxDecoration(
                   color: active ? Colors.white : Colors.transparent,
-                  borderRadius: BorderRadius.circular(13),
-                ),
-                child: Text(labels[i], textAlign: TextAlign.center,
-                  style: TextStyle(
-                    color: active ? AppTheme.primary : Colors.white,
-                    fontWeight: FontWeight.w700, fontSize: 13)),
+                  borderRadius: BorderRadius.circular(11)),
+                child: Text(labels[i], textAlign: TextAlign.center, style: TextStyle(
+                  color: active ? AppTheme.primary : Colors.white,
+                  fontWeight: FontWeight.w700, fontSize: 13)),
               ),
             ),
           );
@@ -128,6 +146,7 @@ class _QBankScreenState extends State<QBankScreen>
       options: GithubService.availableYears,
       selected: _selectedYear,
       onSelect: (y) => setState(() => _selectedYear = y),
+      colors: _yearColors,
       icon: Icons.calendar_today_rounded,
       onStart: _selectedYear == null ? null : () => _startQuiz('year', _selectedYear!),
     );
@@ -139,6 +158,7 @@ class _QBankScreenState extends State<QBankScreen>
       selected: _selectedSubject,
       onSelect: (s) => setState(() => _selectedSubject = s),
       displayName: (s) => GithubService.subjectDisplayNames[s] ?? s,
+      colors: _subjectColors,
       icon: Icons.category_rounded,
       onStart: _selectedSubject == null ? null : () => _startQuiz('subject', _selectedSubject!),
     );
@@ -150,33 +170,34 @@ class _QBankScreenState extends State<QBankScreen>
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          SoftCard(
-            gradient: AppTheme.tutorGradient,
-            shadow: AppTheme.coloredShadow(AppTheme.lavender),
+          Container(
+            decoration: BoxDecoration(
+              color: AppTheme.primary,
+              borderRadius: BorderRadius.circular(AppTheme.rLg),
+              boxShadow: AppTheme.coloredShadow(AppTheme.primary),
+            ),
+            padding: const EdgeInsets.all(18),
             child: Row(children: [
               Container(
                 padding: const EdgeInsets.all(12),
                 decoration: BoxDecoration(
-                  color: Colors.white.withValues(alpha: 0.22),
-                  borderRadius: BorderRadius.circular(16)),
-                child: const Icon(Icons.shuffle_rounded, color: Colors.white, size: 26),
+                  color: Colors.white.withValues(alpha: 0.18),
+                  borderRadius: BorderRadius.circular(14)),
+                child: const Icon(Icons.shuffle_rounded, color: Colors.white, size: 24),
               ),
               const SizedBox(width: 16),
               const Expanded(
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
-                    Text('Mixed Practice', style: TextStyle(
-                      color: Colors.white, fontSize: 17, fontWeight: FontWeight.w800)),
-                    SizedBox(height: 4),
-                    Text('A random blend from every year — keeps you on your toes.',
-                      style: TextStyle(color: Colors.white, fontSize: 12.5, height: 1.4)),
-                  ],
-                ),
+                child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                  Text('Mixed Practice', style: TextStyle(
+                    color: Colors.white, fontSize: 17, fontWeight: FontWeight.w800)),
+                  SizedBox(height: 4),
+                  Text('A random blend from every year — keeps you on your toes.',
+                    style: TextStyle(color: Colors.white, fontSize: 12.5, height: 1.4)),
+                ]),
               ),
             ]),
           ),
-          const SizedBox(height: 24),
+          const SizedBox(height: 26),
           _buildCountPicker(),
           const SizedBox(height: 28),
           _buildStartButton('Start Mixed Quiz', Icons.shuffle_rounded, () => _startQuiz('mixed', '')),
@@ -189,6 +210,7 @@ class _QBankScreenState extends State<QBankScreen>
     required List<String> options,
     required String? selected,
     required ValueChanged<String> onSelect,
+    required List<Color> colors,
     required IconData icon,
     String Function(String)? displayName,
     VoidCallback? onStart,
@@ -203,59 +225,83 @@ class _QBankScreenState extends State<QBankScreen>
               final opt = options[i];
               final label = displayName != null ? displayName(opt) : opt;
               final isSelected = opt == selected;
-              final color = _palette[i % _palette.length];
+              final color = colors[i % colors.length];
+              final tileBg = i % 2 == 0 ? AppTheme.greenTint : AppTheme.terraSoft;
+
               return FadeSlideIn(
                 index: i,
                 child: Padding(
                   padding: const EdgeInsets.only(bottom: 10),
-                  child: SoftCard(
+                  child: TapScale(
                     onTap: () => onSelect(opt),
-                    padding: const EdgeInsets.all(14),
-                    color: isSelected ? color.withValues(alpha: 0.10) : AppTheme.cardBg,
-                    border: isSelected ? Border.all(color: color, width: 1.8) : null,
-                    shadow: isSelected ? AppTheme.coloredShadow(color) : AppTheme.cardShadow,
-                    child: Row(children: [
-                      IconBadge(icon: icon, color: color, size: 42),
-                      const SizedBox(width: 14),
-                      Expanded(child: Text(label, style: TextStyle(
-                        fontWeight: isSelected ? FontWeight.w800 : FontWeight.w600,
-                        fontSize: 15.5,
-                        color: isSelected ? color : AppTheme.ink))),
-                      AnimatedScale(
-                        scale: isSelected ? 1 : 0,
-                        duration: const Duration(milliseconds: 200),
-                        child: Icon(Icons.check_circle_rounded, color: color, size: 24),
+                    child: AnimatedContainer(
+                      duration: const Duration(milliseconds: 200),
+                      padding: const EdgeInsets.all(14),
+                      decoration: BoxDecoration(
+                        color: isSelected ? color.withValues(alpha: 0.08) : Colors.white,
+                        borderRadius: BorderRadius.circular(AppTheme.rMd),
+                        border: Border.all(
+                          color: isSelected ? color : AppTheme.line,
+                          width: isSelected ? 1.8 : 1),
+                        boxShadow: AppTheme.cardShadow,
                       ),
-                    ]),
+                      child: Row(children: [
+                        Container(
+                          width: 42, height: 42,
+                          decoration: BoxDecoration(
+                            color: isSelected ? color.withValues(alpha: 0.14) : tileBg,
+                            borderRadius: BorderRadius.circular(12)),
+                          child: Icon(icon, size: 21,
+                            color: isSelected ? color : AppTheme.inkFaint),
+                        ),
+                        const SizedBox(width: 14),
+                        Expanded(child: Text(label, style: TextStyle(
+                          fontWeight: isSelected ? FontWeight.w800 : FontWeight.w600,
+                          fontSize: 15.5,
+                          color: isSelected ? color : AppTheme.ink))),
+                        AnimatedScale(
+                          scale: isSelected ? 1 : 0,
+                          duration: const Duration(milliseconds: 200),
+                          child: Container(
+                            padding: const EdgeInsets.all(3),
+                            decoration: BoxDecoration(color: color, shape: BoxShape.circle),
+                            child: const Icon(Icons.check_rounded, color: Colors.white, size: 14),
+                          ),
+                        ),
+                      ]),
+                    ),
                   ),
                 ),
               );
             },
           ),
         ),
-        if (selected != null)
-          _buildBottomPanel(onStart),
+        if (selected != null) _buildBottomPanel(onStart),
       ],
     );
   }
 
   Widget _buildBottomPanel(VoidCallback? onStart) {
     return Container(
-      padding: const EdgeInsets.fromLTRB(20, 18, 20, 22),
+      padding: const EdgeInsets.fromLTRB(20, 16, 20, 22),
       decoration: BoxDecoration(
         color: Colors.white,
         borderRadius: const BorderRadius.vertical(top: Radius.circular(AppTheme.rXl)),
+        border: Border(top: BorderSide(color: AppTheme.line)),
         boxShadow: [BoxShadow(
-          color: AppTheme.ink.withValues(alpha: 0.08),
-          blurRadius: 24, offset: const Offset(0, -6))],
+          color: AppTheme.ink.withValues(alpha: 0.06),
+          blurRadius: 20, offset: const Offset(0, -6))],
       ),
-      child: Column(
-        mainAxisSize: MainAxisSize.min,
-        children: [
-          _buildCountPicker(),
-          const SizedBox(height: 18),
-          _buildStartButton('Start Quiz · $_questionCount Qs', Icons.play_arrow_rounded, onStart),
-        ],
+      child: SafeArea(
+        top: false,
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            _buildCountPicker(),
+            const SizedBox(height: 16),
+            _buildStartButton('Start Quiz · $_questionCount Qs', Icons.play_arrow_rounded, onStart),
+          ],
+        ),
       ),
     );
   }
@@ -264,12 +310,8 @@ class _QBankScreenState extends State<QBankScreen>
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        Row(children: [
-          const Icon(Icons.tag_rounded, size: 16, color: AppTheme.inkSoft),
-          const SizedBox(width: 6),
-          Text('Number of questions', style: TextStyle(
-            fontWeight: FontWeight.w600, fontSize: 13, color: AppTheme.inkSoft)),
-        ]),
+        const Text('Number of questions', style: TextStyle(
+          fontWeight: FontWeight.w700, fontSize: 13.5, color: AppTheme.inkSoft)),
         const SizedBox(height: 12),
         Wrap(
           spacing: 10, runSpacing: 10,
@@ -279,12 +321,11 @@ class _QBankScreenState extends State<QBankScreen>
               onTap: () => setState(() => _questionCount = n),
               child: AnimatedContainer(
                 duration: const Duration(milliseconds: 200),
-                width: 56, height: 44,
+                width: 56, height: 42,
                 alignment: Alignment.center,
                 decoration: BoxDecoration(
-                  gradient: active ? AppTheme.qbankGradient : null,
-                  color: active ? null : AppTheme.primary.withValues(alpha: 0.07),
-                  borderRadius: BorderRadius.circular(14),
+                  color: active ? AppTheme.primary : AppTheme.greenTint,
+                  borderRadius: BorderRadius.circular(12),
                   boxShadow: active ? AppTheme.coloredShadow(AppTheme.primary) : null,
                 ),
                 child: Text('$n', style: TextStyle(
@@ -301,12 +342,12 @@ class _QBankScreenState extends State<QBankScreen>
   Widget _buildStartButton(String label, IconData icon, VoidCallback? onTap) {
     return TapScale(
       onTap: onTap,
-      child: Container(
+      child: AnimatedContainer(
+        duration: const Duration(milliseconds: 200),
         width: double.infinity,
-        padding: const EdgeInsets.symmetric(vertical: 17),
+        padding: const EdgeInsets.symmetric(vertical: 16),
         decoration: BoxDecoration(
-          gradient: onTap == null ? null : AppTheme.qbankGradient,
-          color: onTap == null ? AppTheme.inkFaint : null,
+          color: onTap == null ? AppTheme.inkFaint : AppTheme.primary,
           borderRadius: BorderRadius.circular(AppTheme.rMd),
           boxShadow: onTap == null ? null : AppTheme.coloredShadow(AppTheme.primary),
         ),

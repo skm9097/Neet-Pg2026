@@ -478,7 +478,7 @@ class _QuizScreenState extends State<QuizScreen> {
         gradient: LinearGradient(
           begin: Alignment.topLeft, end: Alignment.bottomRight,
           colors: isCorrect
-              ? [AppTheme.correct.withValues(alpha: 0.10), AppTheme.mint.withValues(alpha: 0.12)]
+              ? [AppTheme.correct.withValues(alpha: 0.10), AppTheme.greenSoft.withValues(alpha: 0.12)]
               : [AppTheme.primary.withValues(alpha: 0.07), AppTheme.lavender.withValues(alpha: 0.10)],
         ),
         shadow: const [],

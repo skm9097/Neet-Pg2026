@@ -104,7 +104,7 @@ class _MockTestScreenState extends State<MockTestScreen>
                   color: active ? Colors.white : Colors.transparent,
                   borderRadius: BorderRadius.circular(13)),
                 child: Text(labels[i], textAlign: TextAlign.center, style: TextStyle(
-                  color: active ? AppTheme.accent : Colors.white,
+                  color: active ? AppTheme.secondary : Colors.white,
                   fontWeight: FontWeight.w700, fontSize: 13)),
               ),
             ),
@@ -126,7 +126,7 @@ class _MockTestScreenState extends State<MockTestScreen>
             subtitle: '200 Questions · 3.5 Hours',
             tag: 'Exam format',
             gradient: AppTheme.mockGradient,
-            color: AppTheme.accent,
+            color: AppTheme.secondary,
             onTap: () => _startTest(200, const Duration(hours: 3, minutes: 30)),
           )),
           const SizedBox(height: 14),
@@ -206,7 +206,7 @@ class _MockTestScreenState extends State<MockTestScreen>
     if (_history.isEmpty) {
       return SoftEmptyState(
         icon: Icons.insights_rounded,
-        color: AppTheme.accent,
+        color: AppTheme.secondary,
         title: 'No data yet',
         message: 'Complete a quiz or mock test to unlock your performance analytics.',
         action: TapScale(
@@ -216,7 +216,7 @@ class _MockTestScreenState extends State<MockTestScreen>
             decoration: BoxDecoration(
               gradient: AppTheme.mockGradient,
               borderRadius: BorderRadius.circular(AppTheme.rMd),
-              boxShadow: AppTheme.coloredShadow(AppTheme.accent)),
+              boxShadow: AppTheme.coloredShadow(AppTheme.secondary)),
             child: const Text('Start a Test', style: TextStyle(color: Colors.white, fontWeight: FontWeight.w700)),
           ),
         ),
@@ -267,7 +267,7 @@ class _MockTestScreenState extends State<MockTestScreen>
     final neetScore = correct * 4 - (attempted - correct);
     return SoftCard(
       gradient: AppTheme.mockGradient,
-      shadow: AppTheme.coloredShadow(AppTheme.accent),
+      shadow: AppTheme.coloredShadow(AppTheme.secondary),
       padding: const EdgeInsets.symmetric(vertical: 22, horizontal: 16),
       child: Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
         _statItem('$attempted', 'Attempted'),
@@ -468,7 +468,7 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
         Container(
           padding: const EdgeInsets.all(22),
           decoration: BoxDecoration(gradient: AppTheme.mockGradient, shape: BoxShape.circle,
-            boxShadow: AppTheme.coloredShadow(AppTheme.accent)),
+            boxShadow: AppTheme.coloredShadow(AppTheme.secondary)),
           child: const SizedBox(width: 30, height: 30,
             child: CircularProgressIndicator(color: Colors.white, strokeWidth: 3))),
         const SizedBox(height: 20),
@@ -500,8 +500,8 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
                     child: Container(
                       padding: const EdgeInsets.all(9),
                       decoration: BoxDecoration(
-                        color: AppTheme.accent.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(13)),
-                      child: const Icon(Icons.close_rounded, size: 20, color: AppTheme.accent)),
+                        color: AppTheme.secondary.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(13)),
+                      child: const Icon(Icons.close_rounded, size: 20, color: AppTheme.secondary)),
                   ),
                   const SizedBox(width: 12),
                   Text('Question ${_current + 1} / ${_questions.length}',
@@ -510,19 +510,19 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
                   Container(
                     padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
                     decoration: BoxDecoration(
-                      color: (isLowTime ? AppTheme.incorrect : AppTheme.accent).withValues(alpha: 0.12),
+                      color: (isLowTime ? AppTheme.incorrect : AppTheme.secondary).withValues(alpha: 0.12),
                       borderRadius: BorderRadius.circular(30)),
                     child: Row(children: [
-                      Icon(Icons.timer_rounded, size: 15, color: isLowTime ? AppTheme.incorrect : AppTheme.accent),
+                      Icon(Icons.timer_rounded, size: 15, color: isLowTime ? AppTheme.incorrect : AppTheme.secondary),
                       const SizedBox(width: 6),
                       Text('${rem.inMinutes.toString().padLeft(2, '0')}:${(rem.inSeconds % 60).toString().padLeft(2, '0')}',
-                        style: TextStyle(color: isLowTime ? AppTheme.incorrect : AppTheme.accent,
+                        style: TextStyle(color: isLowTime ? AppTheme.incorrect : AppTheme.secondary,
                           fontWeight: FontWeight.w800, fontSize: 14)),
                     ]),
                   ),
                 ]),
                 const SizedBox(height: 14),
-                SoftProgressBar(value: (_current + 1) / _questions.length, color: AppTheme.accent, height: 7),
+                SoftProgressBar(value: (_current + 1) / _questions.length, color: AppTheme.secondary, height: 7),
               ]),
             ),
             Expanded(
@@ -564,22 +564,22 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
           duration: const Duration(milliseconds: 200),
           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 15),
           decoration: BoxDecoration(
-            color: selected ? AppTheme.accent.withValues(alpha: 0.10) : AppTheme.cardBg,
+            color: selected ? AppTheme.secondary.withValues(alpha: 0.10) : AppTheme.cardBg,
             borderRadius: BorderRadius.circular(AppTheme.rMd),
             border: Border.all(
-              color: selected ? AppTheme.accent : AppTheme.accent.withValues(alpha: 0.10),
+              color: selected ? AppTheme.secondary : AppTheme.secondary.withValues(alpha: 0.10),
               width: selected ? 1.8 : 1.2),
-            boxShadow: selected ? AppTheme.coloredShadow(AppTheme.accent) : AppTheme.cardShadow,
+            boxShadow: selected ? AppTheme.coloredShadow(AppTheme.secondary) : AppTheme.cardShadow,
           ),
           child: Row(children: [
             Container(
               width: 34, height: 34, alignment: Alignment.center,
               decoration: BoxDecoration(
                 shape: BoxShape.circle,
-                color: selected ? AppTheme.accent : AppTheme.accent.withValues(alpha: 0.10)),
+                color: selected ? AppTheme.secondary : AppTheme.secondary.withValues(alpha: 0.10)),
               child: Text(opt, style: TextStyle(
                 fontWeight: FontWeight.w800, fontSize: 15,
-                color: selected ? Colors.white : AppTheme.accent)),
+                color: selected ? Colors.white : AppTheme.secondary)),
             ),
             const SizedBox(width: 14),
             Expanded(child: Text(q.optionText(opt), style: TextStyle(
@@ -621,7 +621,7 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
                 decoration: BoxDecoration(
                   gradient: AppTheme.mockGradient,
                   borderRadius: BorderRadius.circular(AppTheme.rMd),
-                  boxShadow: AppTheme.coloredShadow(AppTheme.accent)),
+                  boxShadow: AppTheme.coloredShadow(AppTheme.secondary)),
                 child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
                   Text(isLast ? 'Submit Test' : 'Next Question',
                     style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w700, fontSize: 15.5)),
@@ -682,8 +682,8 @@ class _MockResultScreen extends StatelessWidget {
                   child: Container(
                     padding: const EdgeInsets.all(9),
                     decoration: BoxDecoration(
-                      color: AppTheme.accent.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(13)),
-                    child: const Icon(Icons.home_rounded, size: 20, color: AppTheme.accent)),
+                      color: AppTheme.secondary.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(13)),
+                    child: const Icon(Icons.home_rounded, size: 20, color: AppTheme.secondary)),
                 ),
                 const SizedBox(width: 12),
                 const Text('Test Results', style: TextStyle(
@@ -692,7 +692,7 @@ class _MockResultScreen extends StatelessWidget {
               const SizedBox(height: 20),
               FadeSlideIn(child: SoftCard(
                 gradient: AppTheme.mockGradient,
-                shadow: AppTheme.coloredShadow(AppTheme.accent),
+                shadow: AppTheme.coloredShadow(AppTheme.secondary),
                 padding: const EdgeInsets.all(26),
                 child: Column(children: [
                   Text('$_neetScore', style: const TextStyle(
@@ -731,7 +731,7 @@ class _MockResultScreen extends StatelessWidget {
                   decoration: BoxDecoration(
                     gradient: AppTheme.mockGradient,
                     borderRadius: BorderRadius.circular(AppTheme.rMd),
-                    boxShadow: AppTheme.coloredShadow(AppTheme.accent)),
+                    boxShadow: AppTheme.coloredShadow(AppTheme.secondary)),
                   child: const Row(mainAxisAlignment: MainAxisAlignment.center, children: [
                     Icon(Icons.home_rounded, color: Colors.white, size: 20),
                     SizedBox(width: 8),
@@ -764,7 +764,7 @@ class _MockResultScreen extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Row(children: const [
-            Icon(Icons.insights_rounded, size: 18, color: AppTheme.accent),
+            Icon(Icons.insights_rounded, size: 18, color: AppTheme.secondary),
             SizedBox(width: 8),
             Text('Subject Performance', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 15, color: AppTheme.ink)),
           ]),

@@ -97,26 +97,32 @@ class _SettingsScreenState extends State<SettingsScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: AppTheme.surface,
       body: Column(
         children: [
-          GradientHeader(
-            gradient: AppTheme.heroGradient,
-            height: 130,
-            padding: const EdgeInsets.fromLTRB(20, 52, 20, 18),
-            child: Row(children: [
-              TapScale(
-                onTap: () => Navigator.pop(context),
-                child: Container(
-                  padding: const EdgeInsets.all(8),
-                  decoration: BoxDecoration(
-                    color: Colors.white.withValues(alpha: 0.2), borderRadius: BorderRadius.circular(12)),
-                  child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
-                ),
+          Container(
+            color: AppTheme.primary,
+            child: SafeArea(
+              bottom: false,
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(16, 12, 16, 16),
+                child: Row(children: [
+                  TapScale(
+                    onTap: () => Navigator.pop(context),
+                    child: Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withValues(alpha: 0.18),
+                        borderRadius: BorderRadius.circular(12)),
+                      child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
+                    ),
+                  ),
+                  const SizedBox(width: 14),
+                  const Text('Settings', style: TextStyle(
+                    color: Colors.white, fontSize: 20, fontWeight: FontWeight.w800, letterSpacing: -0.4)),
+                ]),
               ),
-              const SizedBox(width: 14),
-              const Text('Settings', style: TextStyle(
-                color: Colors.white, fontSize: 22, fontWeight: FontWeight.w800, letterSpacing: -0.5)),
-            ]),
+            ),
           ),
           Expanded(
             child: ListView(
@@ -160,7 +166,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
                 const SizedBox(height: 24),
                 const Center(
-                  child: Text('NEET-PG Study Suite v1.1.0',
+                  child: Text('NEET-PG Study Suite v1.2.0',
                     style: TextStyle(color: AppTheme.inkFaint, fontSize: 12)),
                 ),
               ],
@@ -186,9 +192,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   Text(type.displayName, style: const TextStyle(fontWeight: FontWeight.w600)),
                   const SizedBox(width: 8),
                   if (isActive)
-                    const Chip(
-                      label: Text('Active', style: TextStyle(fontSize: 10, color: Colors.white)),
-                      backgroundColor: AppTheme.correct,
+                    Chip(
+                      label: const Text('Active', style: TextStyle(fontSize: 10, color: Colors.white)),
+                      backgroundColor: AppTheme.primary,
                       padding: EdgeInsets.zero,
                       materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
                     ),
@@ -291,7 +297,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
 
   Widget _buildComparisonCard() {
     return Card(
-      color: Colors.blue[50],
+      color: AppTheme.greenTint,
       child: Padding(
         padding: const EdgeInsets.all(14),
         child: Column(
@@ -329,7 +335,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
           Expanded(child: Text(rpm, style: const TextStyle(fontSize: 12))),
           Expanded(child: Text(rpd, style: TextStyle(
             fontSize: 12,
-            color: recommended ? AppTheme.correct : Colors.grey,
+            color: recommended ? AppTheme.primary : AppTheme.inkFaint,
             fontWeight: recommended ? FontWeight.bold : FontWeight.normal,
           ))),
         ],

@@ -1,58 +1,66 @@
 import 'package:flutter/material.dart';
 
-/// Calming, fluid, human-centered design system for the NEET-PG Study Suite.
-/// Muted blues, teals, lavenders, mint, soft peach, warm neutrals.
+/// Warm Clinical design system — earthy, calm, medical-pro.
+/// Cream base, deep forest green primary, terracotta energy, gold accents.
 class AppTheme {
-  // ---- Core palette -------------------------------------------------------
-  static const Color primary = Color(0xFF6C7DF0);       // soft periwinkle-blue
-  static const Color primaryLight = Color(0xFF8B9AF5);
-  static const Color primaryDark = Color(0xFF4A5BD4);
-  static const Color secondary = Color(0xFF4FC4B8);     // soft teal
-  static const Color accent = Color(0xFFFFB088);        // warm peach
-  static const Color lavender = Color(0xFFB3A4E8);
-  static const Color mint = Color(0xFF8FE3C2);
-  static const Color skyBlue = Color(0xFF7FC4F0);
-  static const Color rose = Color(0xFFF5A3B5);
+  // ---- Core palette (Warm Clinical) -----------------------------------------
+  static const Color primary = Color(0xFF2F5D50);       // deep forest green
+  static const Color primaryLight = Color(0xFFE3EEE9);  // soft green tint
+  static const Color primaryDark = Color(0xFF244A40);    // deeper green
+  static const Color secondary = Color(0xFFE07A5F);     // terracotta
+  static const Color accent = Color(0xFFD9B36A);        // warm gold
+  static const Color lavender = Color(0xFF5E8B9E);      // blue-grey (tutor)
+  static const Color mint = Color(0xFFE3EEE9);          // green tint
+  static const Color skyBlue = Color(0xFF5E8B9E);       // blue-grey
+  static const Color rose = Color(0xFFD4644A);          // deep terracotta
 
-  // ---- Semantic -----------------------------------------------------------
+  // ---- Tinted surfaces (feature backgrounds) --------------------------------
+  static const Color greenSoft = Color(0xFFE3EEE9);
+  static const Color greenTint = Color(0xFFEDF4F0);
+  static const Color terraSoft = Color(0xFFFBE9E1);
+  static const Color goldSoft = Color(0xFFF6EEDB);
+  static const Color blueSoft = Color(0xFFE6EFF2);
+  static const Color plumSoft = Color(0xFFF1E7EE);
+
+  // ---- Semantic -------------------------------------------------------------
   static const Color correct = Color(0xFF3FB89A);       // calm green-teal
-  static const Color incorrect = Color(0xFFEF8A8A);     // soft coral (not harsh red)
+  static const Color incorrect = Color(0xFFEF8A8A);     // soft coral
   static const Color warning = Color(0xFFF5C26B);       // gentle amber
 
-  // ---- Surfaces & neutrals ------------------------------------------------
-  static const Color surface = Color(0xFFF6F5FB);       // warm lavender-tinted white
-  static const Color surfaceAlt = Color(0xFFFBFAFD);
+  // ---- Surfaces & neutrals --------------------------------------------------
+  static const Color surface = Color(0xFFFAF7F2);       // warm cream
+  static const Color surfaceAlt = Color(0xFFFFFBF7);
   static const Color cardBg = Colors.white;
-  static const Color ink = Color(0xFF2B2D42);           // soft near-black for text
-  static const Color inkSoft = Color(0xFF6B6E8A);       // muted text
-  static const Color inkFaint = Color(0xFFA9ABC4);
+  static const Color ink = Color(0xFF16241F);            // near-black (warm)
+  static const Color inkSoft = Color(0xFF3A4742);        // body text
+  static const Color inkFaint = Color(0xFF7B8A83);       // muted text
+  static const Color line = Color(0xFFECE5D9);           // card borders
+  static const Color lineSoft = Color(0xFFF2ECE2);       // soft dividers
 
-  // ---- Gradients ----------------------------------------------------------
+  // ---- Gradients ------------------------------------------------------------
   static const LinearGradient heroGradient = LinearGradient(
-    begin: Alignment.topLeft,
-    end: Alignment.bottomRight,
-    colors: [Color(0xFF6C7DF0), Color(0xFF8B6CF0), Color(0xFF6CB8F0)],
+    begin: Alignment.topLeft, end: Alignment.bottomRight,
+    colors: [Color(0xFF2F5D50), Color(0xFF244A40)],
   );
-
   static const LinearGradient qbankGradient = LinearGradient(
     begin: Alignment.topLeft, end: Alignment.bottomRight,
-    colors: [Color(0xFF6C7DF0), Color(0xFF7FA8F5)],
+    colors: [Color(0xFF2F5D50), Color(0xFF3A7A68)],
   );
   static const LinearGradient flashcardGradient = LinearGradient(
     begin: Alignment.topLeft, end: Alignment.bottomRight,
-    colors: [Color(0xFF4FC4B8), Color(0xFF8FE3C2)],
+    colors: [Color(0xFFD9B36A), Color(0xFFC49B4E)],
   );
   static const LinearGradient mockGradient = LinearGradient(
     begin: Alignment.topLeft, end: Alignment.bottomRight,
-    colors: [Color(0xFFFFB088), Color(0xFFF5A3B5)],
+    colors: [Color(0xFFE07A5F), Color(0xFFD4644A)],
   );
   static const LinearGradient tutorGradient = LinearGradient(
     begin: Alignment.topLeft, end: Alignment.bottomRight,
-    colors: [Color(0xFFB3A4E8), Color(0xFF8B9AF5)],
+    colors: [Color(0xFF5E8B9E), Color(0xFF4A7588)],
   );
   static const LinearGradient mintGradient = LinearGradient(
     begin: Alignment.topLeft, end: Alignment.bottomRight,
-    colors: [Color(0xFF8FE3C2), Color(0xFF7FC4F0)],
+    colors: [Color(0xFF2F5D50), Color(0xFF5E8B9E)],
   );
 
   static LinearGradient gradientFor(int index) {
@@ -60,20 +68,25 @@ class AppTheme {
     return all[index % all.length];
   }
 
-  // ---- Shadows ------------------------------------------------------------
+  // ---- Shadows (earthy) -----------------------------------------------------
   static List<BoxShadow> get softShadow => [
     BoxShadow(
-      color: const Color(0xFF6C7DF0).withValues(alpha: 0.10),
-      blurRadius: 24,
-      offset: const Offset(0, 8),
+      color: const Color(0xFF142821).withValues(alpha: 0.07),
+      blurRadius: 30,
+      offset: const Offset(0, 10),
     ),
   ];
 
   static List<BoxShadow> get cardShadow => [
     BoxShadow(
-      color: const Color(0xFF2B2D42).withValues(alpha: 0.05),
-      blurRadius: 16,
+      color: const Color(0xFF142821).withValues(alpha: 0.05),
+      blurRadius: 14,
       offset: const Offset(0, 4),
+    ),
+    BoxShadow(
+      color: const Color(0xFF142821).withValues(alpha: 0.04),
+      blurRadius: 2,
+      offset: const Offset(0, 1),
     ),
   ];
 
@@ -85,10 +98,10 @@ class AppTheme {
     ),
   ];
 
-  // ---- Radii --------------------------------------------------------------
+  // ---- Radii ----------------------------------------------------------------
   static const double rSm = 14;
   static const double rMd = 20;
-  static const double rLg = 28;
+  static const double rLg = 24;
   static const double rXl = 36;
 
   static BorderRadius get radiusSm => BorderRadius.circular(rSm);
@@ -96,7 +109,7 @@ class AppTheme {
   static BorderRadius get radiusLg => BorderRadius.circular(rLg);
   static BorderRadius get radiusXl => BorderRadius.circular(rXl);
 
-  // ---- ThemeData ----------------------------------------------------------
+  // ---- ThemeData ------------------------------------------------------------
   static ThemeData get light {
     final base = ThemeData(
       useMaterial3: true,
@@ -116,7 +129,10 @@ class AppTheme {
         color: cardBg,
         elevation: 0,
         margin: EdgeInsets.zero,
-        shape: RoundedRectangleBorder(borderRadius: radiusLg),
+        shape: RoundedRectangleBorder(
+          borderRadius: radiusLg,
+          side: const BorderSide(color: line, width: 1),
+        ),
       ),
       appBarTheme: const AppBarTheme(
         backgroundColor: Colors.transparent,
@@ -169,10 +185,10 @@ class AppTheme {
         fillColor: Colors.white,
         contentPadding: const EdgeInsets.symmetric(horizontal: 18, vertical: 16),
         border: OutlineInputBorder(
-          borderRadius: radiusMd, borderSide: BorderSide.none),
+          borderRadius: radiusMd, borderSide: const BorderSide(color: line)),
         enabledBorder: OutlineInputBorder(
           borderRadius: radiusMd,
-          borderSide: BorderSide(color: primary.withValues(alpha: 0.12), width: 1.2)),
+          borderSide: const BorderSide(color: line, width: 1)),
         focusedBorder: OutlineInputBorder(
           borderRadius: radiusMd,
           borderSide: const BorderSide(color: primary, width: 1.8)),
@@ -184,7 +200,7 @@ class AppTheme {
         indicatorColor: primary.withValues(alpha: 0.12),
         labelTextStyle: WidgetStateProperty.resolveWith((states) => TextStyle(
           fontSize: 11,
-          fontWeight: FontWeight.w600,
+          fontWeight: states.contains(WidgetState.selected) ? FontWeight.w700 : FontWeight.w600,
           color: states.contains(WidgetState.selected) ? primary : inkFaint,
         )),
         iconTheme: WidgetStateProperty.resolveWith((states) => IconThemeData(
@@ -200,8 +216,8 @@ class AppTheme {
         bodyLarge: const TextStyle(height: 1.55, color: ink),
         bodyMedium: const TextStyle(height: 1.55, color: inkSoft),
       ).apply(bodyColor: ink, displayColor: ink),
-      dividerTheme: DividerThemeData(
-        color: primary.withValues(alpha: 0.08), thickness: 1, space: 1),
+      dividerTheme: const DividerThemeData(
+        color: line, thickness: 1, space: 1),
     );
   }
 }

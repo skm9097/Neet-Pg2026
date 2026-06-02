@@ -54,6 +54,7 @@ class SoftCard extends StatelessWidget {
   final double radius;
   final List<BoxShadow>? shadow;
   final Border? border;
+  final bool showBorder;
 
   const SoftCard({
     super.key,
@@ -66,6 +67,7 @@ class SoftCard extends StatelessWidget {
     this.radius = AppTheme.rLg,
     this.shadow,
     this.border,
+    this.showBorder = true,
   });
 
   @override
@@ -79,7 +81,7 @@ class SoftCard extends StatelessWidget {
         gradient: gradient,
         borderRadius: BorderRadius.circular(radius),
         boxShadow: shadow ?? AppTheme.cardShadow,
-        border: border,
+        border: border ?? (showBorder && gradient == null ? Border.all(color: AppTheme.line) : null),
       ),
       child: child,
     );

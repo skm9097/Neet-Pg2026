@@ -213,7 +213,7 @@ class _ResultScreenState extends State<ResultScreen> {
     final positive = _neetScore >= 0;
     return SoftCard(
       gradient: positive ? AppTheme.mintGradient : LinearGradient(
-        colors: [AppTheme.incorrect.withValues(alpha: 0.85), AppTheme.rose]),
+        colors: [AppTheme.incorrect.withValues(alpha: 0.85), AppTheme.incorrect]),
       shadow: AppTheme.coloredShadow(positive ? AppTheme.secondary : AppTheme.incorrect),
       child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
         const Icon(Icons.military_tech_rounded, color: Colors.white, size: 26),
