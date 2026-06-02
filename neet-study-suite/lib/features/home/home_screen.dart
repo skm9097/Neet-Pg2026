@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../services/gemini_service.dart';
 import '../../services/tts_service.dart';
 import '../../services/progress_service.dart';
+import '../../services/app_settings.dart';
 import '../qbank/qbank_screen.dart';
 import '../flashcards/flashcards_screen.dart';
 import '../mock_test/mock_test_screen.dart';
@@ -21,18 +22,62 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  final _settings = AppSettings.instance;
   int _selectedIndex = 0;
   List<ProgressEntry> _progress = [];
+
+  // Streak-graph state
+  int _weekOffset = 0;            // 0 = this week, -1 = last week, …
+  List<DailyStat> _week = [];
+  int _streak = 0;
+  int _solvedToday = 0;
+  bool _hasOlderData = false;
+  int _selectedDay = 0;          // index 0..6 within the visible week
 
   @override
   void initState() {
     super.initState();
-    _loadProgress();
+    _selectedDay = (DateTime.now().weekday - 1) % 7;
+    _settings.addListener(_onSettings);
+    _loadData();
   }
 
-  Future<void> _loadProgress() async {
+  @override
+  void dispose() {
+    _settings.removeListener(_onSettings);
+    super.dispose();
+  }
+
+  void _onSettings() { if (mounted) setState(() {}); }
+
+  Future<void> _loadData() async {
     final p = await ProgressService.loadAll();
-    if (mounted) setState(() => _progress = p);
+    final week = await ProgressService.weekStats(_weekOffset);
+    final streak = await ProgressService.currentStreak();
+    final solvedToday = await ProgressService.solvedToday();
+    final older = await ProgressService.hasDataBefore(_weekOffset);
+    if (mounted) setState(() {
+      _progress = p;
+      _week = week;
+      _streak = streak;
+      _solvedToday = solvedToday;
+      _hasOlderData = older;
+    });
+  }
+
+  Future<void> _changeWeek(int delta) async {
+    final next = _weekOffset + delta;
+    if (next > 0) return;                  // never go into the future
+    if (delta < 0 && !_hasOlderData) return; // no older data to show
+    _weekOffset = next;
+    final week = await ProgressService.weekStats(_weekOffset);
+    final older = await ProgressService.hasDataBefore(_weekOffset);
+    if (mounted) setState(() {
+      _week = week;
+      _hasOlderData = older;
+      // keep selection in range; default to last active or today
+      _selectedDay = _weekOffset == 0 ? (DateTime.now().weekday - 1) % 7 : 6;
+    });
   }
 
   @override
@@ -55,10 +100,10 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Container(
       decoration: BoxDecoration(
-        color: Colors.white.withValues(alpha: 0.95),
+        color: AppTheme.cardBg.withValues(alpha: 0.97),
         border: Border(top: BorderSide(color: AppTheme.line)),
         boxShadow: [BoxShadow(
-          color: AppTheme.ink.withValues(alpha: 0.04),
+          color: Colors.black.withValues(alpha: 0.04),
           blurRadius: 16, offset: const Offset(0, -4),
         )],
       ),
@@ -75,7 +120,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   onTap: () {
                     if (i == 0) {
                       setState(() => _selectedIndex = 0);
-                      _loadProgress();
+                      _loadData();
                     } else {
                       _navigateTo(i);
                     }
@@ -125,21 +170,24 @@ class _HomeScreenState extends State<HomeScreen> {
       default: return;
     }
     Navigator.push(context, MaterialPageRoute(builder: (_) => screen))
-        .then((_) => _loadProgress());
+        .then((_) => _loadData());
   }
+
+  // Nav indices for the quick-grid tiles (bottom nav order differs).
+  static const int _mockNavIndex = 5;
+  static const int _flashNavIndex = 3;
 
   Widget _buildDashboard() {
     final totalAttempted = _progress.fold(0, (s, p) => s + p.attempted);
     final totalCorrect = _progress.fold(0, (s, p) => s + p.correct);
     final accuracy = totalAttempted > 0 ? totalCorrect / totalAttempted * 100 : 0.0;
-    final weeklyData = _buildWeeklyData();
 
     return SafeArea(
       bottom: false,
       child: RefreshIndicator(
         color: AppTheme.primary,
-        backgroundColor: Colors.white,
-        onRefresh: _loadProgress,
+        backgroundColor: AppTheme.cardBg,
+        onRefresh: _loadData,
         child: CustomScrollView(
           physics: const AlwaysScrollableScrollPhysics(),
           slivers: [
@@ -152,38 +200,32 @@ class _HomeScreenState extends State<HomeScreen> {
                     _buildTopBar(),
                     const SizedBox(height: 14),
 
-                    // ── SCREEN 1: Exam countdown hero
+                    // SCREEN 1 — exam countdown
                     _buildExamCountdownHero(),
                     const SizedBox(height: 22),
 
-                    // ── Weekly activity section header
-                    _sectionRow('Your week', 'Insights'),
+                    // weekly streak graph (swipeable)
+                    _sectionRow('Your week', null),
                     const SizedBox(height: 12),
-                    _buildWeeklyCard(totalAttempted, totalCorrect, accuracy, weeklyData),
+                    _buildStreakCard(accuracy),
                     const SizedBox(height: 22),
 
-                    // ── Today's focus card
-                    _buildTodaysFocusCard(totalAttempted),
+                    // Today's focus (daily goal)
+                    _buildTodaysFocusCard(),
                     const SizedBox(height: 18),
 
-                    // ── Scroll hint
                     _buildScrollHint(),
                     const SizedBox(height: 18),
 
-                    // ── SCREEN 2: Sheet-style page break
+                    // SCREEN 2
                     _buildPageBreak(),
-
-                    // ── Jump back in grid
                     _sectionRow('Jump back in', null),
                     const SizedBox(height: 12),
                     _buildQuickGrid(),
                     const SizedBox(height: 16),
-
-                    // ── Daily challenge card
                     _buildDailyChallengeCard(),
                     const SizedBox(height: 24),
 
-                    // ── Continue session
                     if (_progress.isNotEmpty) ...[
                       _sectionRow('Continue session', 'See all'),
                       const SizedBox(height: 12),
@@ -209,8 +251,6 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _buildTopBar() {
-    final h = DateTime.now().hour;
-    final greeting = h < 12 ? 'Good morning' : h < 17 ? 'Good afternoon' : 'Good evening';
     return Padding(
       padding: const EdgeInsets.only(top: 2, bottom: 4),
       child: Row(
@@ -219,44 +259,42 @@ class _HomeScreenState extends State<HomeScreen> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(greeting, style: TextStyle(
+                Text(_settings.greeting(), style: TextStyle(
                   fontSize: 13.5, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
                 const SizedBox(height: 2),
-                Text('Ready to study?', style: TextStyle(
-                  fontWeight: FontWeight.w800,
-                  fontSize: 21, letterSpacing: -0.3, color: AppTheme.ink)),
+                Text('Ready to study?',
+                  style: TextStyle(
+                    fontWeight: FontWeight.w800,
+                    fontSize: 21, letterSpacing: -0.3, color: AppTheme.ink)),
               ],
             ),
           ),
           TapScale(
-            onTap: () => Navigator.push(context, MaterialPageRoute(
-              builder: (_) => SettingsScreen(gemini: widget.gemini, tts: widget.tts),
-            )).then((_) => _loadProgress()),
+            onTap: _openSettings,
             child: Container(
               width: 40, height: 40,
               decoration: BoxDecoration(
-                color: Colors.white,
+                color: AppTheme.cardBg,
                 borderRadius: BorderRadius.circular(12),
                 border: Border.all(color: AppTheme.line),
                 boxShadow: AppTheme.cardShadow,
               ),
-              child: Icon(Icons.notifications_outlined, size: 21, color: AppTheme.inkSoft),
+              child: Icon(Icons.settings_outlined, size: 21, color: AppTheme.inkSoft),
             ),
           ),
           const SizedBox(width: 12),
           TapScale(
-            onTap: () => Navigator.push(context, MaterialPageRoute(
-              builder: (_) => SettingsScreen(gemini: widget.gemini, tts: widget.tts),
-            )).then((_) => _loadProgress()),
+            onTap: _openSettings,
             child: Container(
               width: 40, height: 40,
               decoration: BoxDecoration(
                 color: AppTheme.primary,
                 shape: BoxShape.circle,
               ),
-              child: const Center(
-                child: Text('S', style: TextStyle(
-                  color: Colors.white, fontWeight: FontWeight.w700, fontSize: 15)),
+              child: Center(
+                child: Text(_avatarInitials(),
+                  style: const TextStyle(
+                    color: Colors.white, fontWeight: FontWeight.w700, fontSize: 15)),
               ),
             ),
           ),
@@ -265,18 +303,29 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
+  void _openSettings() => Navigator.push(context, MaterialPageRoute(
+    builder: (_) => SettingsScreen(gemini: widget.gemini, tts: widget.tts),
+  )).then((_) => _loadData());
+
+  String _avatarInitials() {
+    final parts = _settings.userName.trim().split(RegExp(r'\s+')).where((p) => p.isNotEmpty).toList();
+    if (parts.isEmpty) return 'S';
+    if (parts.length == 1) return parts.first.substring(0, 1).toUpperCase();
+    return (parts.first.substring(0, 1) + parts.last.substring(0, 1)).toUpperCase();
+  }
+
   Widget _buildExamCountdownHero() {
-    final examDate = DateTime(2026, 11, 1);
     final now = DateTime.now();
-    final diff = examDate.difference(now);
-    final daysLeft = diff.inDays;
-    final hoursLeft = diff.inHours % 24;
-    final minsLeft = diff.inMinutes % 60;
+    final diff = _settings.examDate.difference(now);
+    final past = diff.isNegative;
+    final daysLeft = past ? 0 : diff.inDays;
+    final hoursLeft = past ? 0 : diff.inHours % 24;
+    final minsLeft = past ? 0 : diff.inMinutes % 60;
 
     return FadeSlideIn(
       child: Container(
         decoration: BoxDecoration(
-          color: AppTheme.primary,
+          gradient: AppTheme.qbankGradient,
           borderRadius: BorderRadius.circular(AppTheme.rLg),
           boxShadow: AppTheme.coloredShadow(AppTheme.primary),
         ),
@@ -306,17 +355,19 @@ class _HomeScreenState extends State<HomeScreen> {
                       child: Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
-                          const Text('NEET PG 2026', style: TextStyle(
+                          Text(_settings.examName, style: const TextStyle(
                             fontWeight: FontWeight.w800, fontSize: 18,
-                            color: Colors.white, letterSpacing: -0.3, height: 1.05)),
+                            color: Colors.white, letterSpacing: -0.3, height: 1.05),
+                            maxLines: 1, overflow: TextOverflow.ellipsis),
                           const SizedBox(height: 2),
                           Row(children: [
                             Icon(Icons.flag_rounded, size: 12,
                               color: Colors.white.withValues(alpha: 0.85)),
                             const SizedBox(width: 5),
-                            Text('Estimated Nov 2026', style: TextStyle(
-                              fontSize: 11.5, color: Colors.white.withValues(alpha: 0.85),
-                              fontWeight: FontWeight.w600)),
+                            Text(_examDateLabel(),
+                              style: TextStyle(
+                                fontSize: 11.5, color: Colors.white.withValues(alpha: 0.85),
+                                fontWeight: FontWeight.w600)),
                           ]),
                         ],
                       ),
@@ -327,10 +378,10 @@ class _HomeScreenState extends State<HomeScreen> {
                         color: Colors.white.withValues(alpha: 0.18),
                         borderRadius: BorderRadius.circular(999),
                       ),
-                      child: Row(mainAxisSize: MainAxisSize.min, children: [
-                        const Icon(Icons.check_rounded, size: 13, color: Colors.white),
-                        const SizedBox(width: 4),
-                        const Text('On track', style: TextStyle(
+                      child: Row(mainAxisSize: MainAxisSize.min, children: const [
+                        Icon(Icons.bolt_rounded, size: 13, color: Colors.white),
+                        SizedBox(width: 4),
+                        Text('On track', style: TextStyle(
                           fontSize: 11.5, color: Colors.white, fontWeight: FontWeight.w600)),
                       ]),
                     ),
@@ -341,9 +392,9 @@ class _HomeScreenState extends State<HomeScreen> {
                   children: [
                     _countdownBox('$daysLeft', 'days'),
                     const SizedBox(width: 8),
-                    _countdownBox('${hoursLeft.toString().padLeft(2, '0')}', 'hours'),
+                    _countdownBox(hoursLeft.toString().padLeft(2, '0'), 'hours'),
                     const SizedBox(width: 8),
-                    _countdownBox('${minsLeft.toString().padLeft(2, '0')}', 'min'),
+                    _countdownBox(minsLeft.toString().padLeft(2, '0'), 'min'),
                   ],
                 ),
               ],
@@ -352,6 +403,14 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
       ),
     );
+  }
+
+  String _examDateLabel() {
+    final d = _settings.examDate;
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+      'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const weekdays = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+    return '${weekdays[d.weekday - 1]}, ${d.day} ${months[d.month - 1]} ${d.year}';
   }
 
   Widget _countdownBox(String number, String unit) {
@@ -377,154 +436,194 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  List<int> _buildWeeklyData() {
-    final total = _progress.fold(0, (s, p) => s + p.attempted);
-    if (total == 0) {
-      return [88, 132, 108, 152, 76, 116, 70];
-    }
-    final base = [88, 132, 108, 152, 76, 116, 70];
-    final scale = (total / 742).clamp(0.3, 3.0);
-    return base.map((v) => (v * scale).round().clamp(1, 999)).toList();
-  }
-
-  Widget _buildWeeklyCard(int attempted, int correct, double accuracy, List<int> week) {
+  // ── Weekly streak graph: real per-day data, swipeable, selectable bars ──
+  Widget _buildStreakCard(double overallAccuracy) {
     const days = ['M', 'T', 'W', 'T', 'F', 'S', 'S'];
+    final goal = _settings.dailyGoal;
+    final maxVal = _week.fold(0, (m, d) => math.max(m, d.solved));
+    final selIdx = _selectedDay.clamp(0, 6);
+    final sel = _week.isNotEmpty ? _week[selIdx] : DailyStat(day: _zeroDay);
     final todayIdx = (DateTime.now().weekday - 1) % 7;
-    final maxVal = week.reduce(math.max);
-    final totalWeek = week.fold(0, (s, v) => s + v);
-    final streakDays = _progress.isNotEmpty
-        ? math.min(_progress.first.attempted ~/ 3 + 1, 99)
-        : 0;
 
     return FadeSlideIn(
       index: 1,
-      child: Container(
-        decoration: BoxDecoration(
-          color: Colors.white,
-          borderRadius: BorderRadius.circular(AppTheme.rLg),
-          border: Border.all(color: AppTheme.line),
-          boxShadow: AppTheme.cardShadow,
-        ),
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            // compact top row
-            Row(
-              children: [
-                Expanded(
-                  child: Row(
-                    crossAxisAlignment: CrossAxisAlignment.baseline,
-                    textBaseline: TextBaseline.alphabetic,
-                    children: [
-                      Text('$totalWeek', style: TextStyle(
-                        fontSize: 21, fontWeight: FontWeight.w800,
-                        letterSpacing: -0.4, color: AppTheme.ink)),
-                      const SizedBox(width: 7),
-                      Text('Qs this week', style: TextStyle(
-                        fontSize: 12, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
-                      if (attempted > 0) ...[
-                        const SizedBox(width: 6),
-                        Text('↑ 12%', style: TextStyle(
-                          fontSize: 12.5, color: AppTheme.primary, fontWeight: FontWeight.w700)),
-                      ],
-                    ],
-                  ),
-                ),
-                Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 11, vertical: 6),
-                  decoration: BoxDecoration(
-                    color: AppTheme.terraSoft,
-                    borderRadius: BorderRadius.circular(999),
-                  ),
-                  child: Row(mainAxisSize: MainAxisSize.min, children: [
-                    Icon(Icons.local_fire_department_rounded,
-                      size: 14, color: AppTheme.secondary),
-                    const SizedBox(width: 4),
-                    Text('$streakDays-day streak',
-                      style: TextStyle(
-                        fontSize: 12.5, color: AppTheme.secondary, fontWeight: FontWeight.w700)),
-                  ]),
-                ),
-              ],
-            ),
-
-            // bar chart with per-day question counts
-            const SizedBox(height: 14),
-            SizedBox(
-              height: 84,
-              child: Row(
-                crossAxisAlignment: CrossAxisAlignment.end,
-                children: List.generate(7, (i) {
-                  final isToday = i == todayIdx;
-                  final count = week[i];
-                  final barFraction = maxVal > 0 ? count / maxVal : 0.0;
-                  return Expanded(
-                    child: Column(
-                      mainAxisAlignment: MainAxisAlignment.end,
-                      children: [
-                        Text('$count', style: TextStyle(
-                          fontSize: 11, fontWeight: FontWeight.w700,
-                          color: isToday ? AppTheme.primary : AppTheme.inkFaint)),
-                        const SizedBox(height: 5),
-                        SizedBox(
-                          height: 49,
-                          child: Align(
-                            alignment: Alignment.bottomCenter,
-                            child: AnimatedContainer(
-                              duration: Duration(milliseconds: 400 + i * 60),
-                              curve: Curves.easeOut,
-                              height: 49 * barFraction,
-                              margin: const EdgeInsets.symmetric(horizontal: 3),
-                              decoration: BoxDecoration(
-                                color: isToday ? AppTheme.primary : AppTheme.greenSoft,
-                                borderRadius: BorderRadius.circular(7),
-                              ),
-                            ),
-                          ),
-                        ),
-                        const SizedBox(height: 5),
-                        Text(days[i], style: TextStyle(
-                          fontSize: 11, fontWeight: FontWeight.w700,
-                          color: isToday ? AppTheme.primary : AppTheme.inkFaint)),
-                      ],
-                    ),
-                  );
-                }),
-              ),
-            ),
-
-            // footer stats: Accuracy · Time spent · Best day
-            Container(
-              margin: const EdgeInsets.only(top: 14),
-              padding: const EdgeInsets.only(top: 14),
-              decoration: BoxDecoration(
-                border: Border(top: BorderSide(color: AppTheme.lineSoft))),
-              child: Row(
+      child: GestureDetector(
+        onHorizontalDragEnd: (d) {
+          final v = d.primaryVelocity ?? 0;
+          if (v > 200) _changeWeek(-1);      // swipe right → older week
+          if (v < -200) _changeWeek(1);      // swipe left → newer week
+        },
+        child: Container(
+          decoration: BoxDecoration(
+            color: AppTheme.cardBg,
+            borderRadius: BorderRadius.circular(AppTheme.rLg),
+            border: Border.all(color: AppTheme.line),
+            boxShadow: AppTheme.cardShadow,
+          ),
+          padding: const EdgeInsets.all(16),
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              // top row: streak + week navigation
+              Row(
                 children: [
-                  _footStat(Icons.track_changes_rounded, AppTheme.primary,
-                    'Accuracy', '${accuracy.toStringAsFixed(0)}%'),
-                  Container(width: 1, height: 34, color: AppTheme.lineSoft),
-                  _footStat(Icons.access_time_rounded, AppTheme.lavender,
-                    'Time spent', _estimateTimeSpent(attempted)),
-                  Container(width: 1, height: 34, color: AppTheme.lineSoft),
-                  _footStat(Icons.local_fire_department_rounded, AppTheme.secondary,
-                    'Best day', '${week.reduce(math.max)}'),
+                  Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 11, vertical: 6),
+                    decoration: BoxDecoration(
+                      color: AppTheme.terraSoft,
+                      borderRadius: BorderRadius.circular(999),
+                    ),
+                    child: Row(mainAxisSize: MainAxisSize.min, children: [
+                      Icon(Icons.local_fire_department_rounded,
+                        size: 15, color: AppTheme.secondary),
+                      const SizedBox(width: 4),
+                      Text('$_streak-day streak', style: TextStyle(
+                        fontSize: 12.5, color: AppTheme.secondary, fontWeight: FontWeight.w700)),
+                    ]),
+                  ),
+                  const Spacer(),
+                  _weekNavBtn(Icons.chevron_left_rounded, _hasOlderData, () => _changeWeek(-1)),
+                  const SizedBox(width: 4),
+                  SizedBox(
+                    width: 76,
+                    child: Text(_weekLabel(), textAlign: TextAlign.center,
+                      style: TextStyle(fontSize: 12, fontWeight: FontWeight.w700, color: AppTheme.inkSoft)),
+                  ),
+                  const SizedBox(width: 4),
+                  _weekNavBtn(Icons.chevron_right_rounded, _weekOffset < 0, () => _changeWeek(1)),
                 ],
               ),
-            ),
-          ],
+
+              const SizedBox(height: 14),
+              // bars — tap to select; color reflects whether daily goal was met
+              SizedBox(
+                height: 92,
+                child: Row(
+                  crossAxisAlignment: CrossAxisAlignment.end,
+                  children: List.generate(7, (i) {
+                    final stat = _week.length > i ? _week[i] : DailyStat(day: _zeroDay);
+                    final selected = i == selIdx;
+                    final met = stat.solved >= goal && stat.solved > 0;
+                    final barColor = stat.solved == 0
+                        ? AppTheme.lineSoft
+                        : met ? AppTheme.primary : AppTheme.greenSoft;
+                    final frac = maxVal > 0 ? stat.solved / maxVal : 0.0;
+                    return Expanded(
+                      child: TapScale(
+                        scale: 0.92,
+                        onTap: () => setState(() => _selectedDay = i),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.end,
+                          children: [
+                            Text('${stat.solved}', style: TextStyle(
+                              fontSize: 10.5, fontWeight: FontWeight.w700,
+                              color: selected ? AppTheme.primary : AppTheme.inkFaint)),
+                            const SizedBox(height: 4),
+                            SizedBox(
+                              height: 52,
+                              child: Align(
+                                alignment: Alignment.bottomCenter,
+                                child: AnimatedContainer(
+                                  duration: Duration(milliseconds: 350 + i * 50),
+                                  curve: Curves.easeOut,
+                                  height: math.max(52 * frac, stat.solved > 0 ? 6 : 3),
+                                  margin: const EdgeInsets.symmetric(horizontal: 3),
+                                  decoration: BoxDecoration(
+                                    color: barColor,
+                                    borderRadius: BorderRadius.circular(7),
+                                    border: selected
+                                        ? Border.all(color: AppTheme.primary, width: 2)
+                                        : null,
+                                  ),
+                                ),
+                              ),
+                            ),
+                            const SizedBox(height: 5),
+                            Container(
+                              width: 22, alignment: Alignment.center,
+                              decoration: BoxDecoration(
+                                color: (selected && i == todayIdx && _weekOffset == 0)
+                                    ? AppTheme.primary : Colors.transparent,
+                                borderRadius: BorderRadius.circular(6),
+                              ),
+                              child: Text(days[i], style: TextStyle(
+                                fontSize: 11, fontWeight: FontWeight.w700,
+                                color: selected ? AppTheme.primary : AppTheme.inkFaint)),
+                            ),
+                          ],
+                        ),
+                      ),
+                    );
+                  }),
+                ),
+              ),
+
+              // footer: selected day's solved / accuracy / time
+              Container(
+                margin: const EdgeInsets.only(top: 14),
+                padding: const EdgeInsets.only(top: 14),
+                decoration: BoxDecoration(
+                  border: Border(top: BorderSide(color: AppTheme.lineSoft))),
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(_selectedDayLabel(sel),
+                      style: TextStyle(fontSize: 11.5, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
+                    const SizedBox(height: 8),
+                    Row(
+                      children: [
+                        _footStat(Icons.check_circle_outline_rounded, AppTheme.primary,
+                          'Solved', '${sel.solved}'),
+                        Container(width: 1, height: 34, color: AppTheme.lineSoft),
+                        _footStat(Icons.track_changes_rounded, AppTheme.lavender,
+                          'Accuracy', sel.solved > 0 ? '${sel.accuracy.toStringAsFixed(0)}%' : '—'),
+                        Container(width: 1, height: 34, color: AppTheme.lineSoft),
+                        _footStat(Icons.access_time_rounded, AppTheme.secondary,
+                          'Time spent', sel.solved > 0 ? sel.timeLabel : '—'),
+                      ],
+                    ),
+                  ],
+                ),
+              ),
+            ],
+          ),
         ),
       ),
     );
   }
 
-  String _estimateTimeSpent(int attempted) {
-    final mins = attempted * 2;
-    if (mins >= 60) {
-      return '${mins ~/ 60}h ${mins % 60}m';
-    }
-    return '${mins}m';
+  Widget _weekNavBtn(IconData icon, bool enabled, VoidCallback onTap) {
+    return TapScale(
+      onTap: enabled ? onTap : null,
+      child: Container(
+        width: 28, height: 28,
+        decoration: BoxDecoration(
+          color: enabled ? AppTheme.greenTint : Colors.transparent,
+          borderRadius: BorderRadius.circular(9),
+        ),
+        child: Icon(icon, size: 18,
+          color: enabled ? AppTheme.primary : AppTheme.inkFaint.withValues(alpha: 0.4)),
+      ),
+    );
+  }
+
+  String _weekLabel() {
+    if (_weekOffset == 0) return 'This week';
+    if (_weekOffset == -1) return 'Last week';
+    if (_week.isEmpty) return '';
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+      'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    final a = _week.first.day, b = _week.last.day;
+    return '${a.day} ${months[a.month - 1]}–${b.day} ${months[b.month - 1]}';
+  }
+
+  String _selectedDayLabel(DailyStat sel) {
+    const weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+      'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    final d = sel.day;
+    if (d == _zeroDay) return 'No activity';
+    return '${weekdays[d.weekday - 1]}, ${d.day} ${months[d.month - 1]}';
   }
 
   Widget _footStat(IconData icon, Color fg, String label, String value) {
@@ -534,27 +633,28 @@ class _HomeScreenState extends State<HomeScreen> {
           Row(mainAxisAlignment: MainAxisAlignment.center, children: [
             Icon(icon, size: 14, color: fg),
             const SizedBox(width: 5),
-            Text(label, style: TextStyle(
-              fontSize: 11.5, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
+            Flexible(child: Text(label, maxLines: 1, overflow: TextOverflow.ellipsis,
+              style: TextStyle(
+                fontSize: 11, color: AppTheme.inkFaint, fontWeight: FontWeight.w600))),
           ]),
           const SizedBox(height: 3),
           Text(value, style: TextStyle(
-            fontWeight: FontWeight.w800, fontSize: 17, color: AppTheme.ink)),
+            fontWeight: FontWeight.w800, fontSize: 16.5, color: AppTheme.ink)),
         ],
       ),
     );
   }
 
-  Widget _buildTodaysFocusCard(int attempted) {
-    final goalDone = math.min(attempted, 30);
-    const goalTotal = 30;
-    final progress = goalDone / goalTotal;
+  Widget _buildTodaysFocusCard() {
+    final goal = _settings.dailyGoal;
+    final done = math.min(_solvedToday, goal);
+    final progress = goal > 0 ? done / goal : 0.0;
 
     return FadeSlideIn(
       index: 2,
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.white,
+          color: AppTheme.cardBg,
           borderRadius: BorderRadius.circular(AppTheme.rLg),
           border: Border.all(color: AppTheme.line),
           boxShadow: AppTheme.cardShadow,
@@ -574,17 +674,17 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  Text('Daily goal', style: TextStyle(
+                  Text('Today\'s goal', style: TextStyle(
                     fontSize: 12, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
                   const SizedBox(height: 1),
-                  Text('$goalDone / $goalTotal questions', style: TextStyle(
+                  Text('$_solvedToday / $goal questions', style: TextStyle(
                     fontWeight: FontWeight.w800, fontSize: 18,
                     color: AppTheme.ink, letterSpacing: -0.2)),
                   const SizedBox(height: 1),
                   Text(
-                    goalDone >= goalTotal
+                    _solvedToday >= goal
                       ? 'Goal complete — keep going!'
-                      : '${goalTotal - goalDone} more to keep your streak',
+                      : '${goal - _solvedToday} more to keep your streak',
                     style: TextStyle(
                       fontSize: 12, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
                 ],
@@ -627,10 +727,7 @@ class _HomeScreenState extends State<HomeScreen> {
       padding: const EdgeInsets.only(bottom: 16),
       child: Column(
         children: [
-          Container(
-            width: double.infinity, height: 1,
-            color: AppTheme.line,
-          ),
+          Container(width: double.infinity, height: 1, color: AppTheme.line),
           const SizedBox(height: 16),
           Container(
             width: 38, height: 4,
@@ -671,7 +768,7 @@ class _HomeScreenState extends State<HomeScreen> {
             onTap: () => _navigateTo(t.navIndex),
             child: Container(
               decoration: BoxDecoration(
-                color: Colors.white,
+                color: AppTheme.cardBg,
                 borderRadius: BorderRadius.circular(AppTheme.rMd),
                 border: Border.all(color: AppTheme.line),
                 boxShadow: AppTheme.cardShadow,
@@ -714,9 +811,6 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  static const int _mockNavIndex = 5;
-  static const int _flashNavIndex = 3;
-
   Widget _buildDailyChallengeCard() {
     return FadeSlideIn(
       index: 5,
@@ -724,7 +818,7 @@ class _HomeScreenState extends State<HomeScreen> {
         onTap: () => _navigateTo(1),
         child: Container(
           decoration: BoxDecoration(
-            color: AppTheme.secondary,
+            gradient: AppTheme.mockGradient,
             borderRadius: BorderRadius.circular(AppTheme.rLg),
             boxShadow: AppTheme.coloredShadow(AppTheme.secondary),
           ),
@@ -744,8 +838,7 @@ class _HomeScreenState extends State<HomeScreen> {
                       color: Colors.white.withValues(alpha: 0.2),
                       borderRadius: BorderRadius.circular(15),
                     ),
-                    child: const Icon(Icons.bolt_rounded,
-                      size: 25, color: Colors.white),
+                    child: const Icon(Icons.bolt_rounded, size: 25, color: Colors.white),
                   ),
                   const SizedBox(width: 14),
                   const Expanded(
@@ -753,12 +846,10 @@ class _HomeScreenState extends State<HomeScreen> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text('Daily challenge', style: TextStyle(
-                          fontWeight: FontWeight.w800, fontSize: 15.5,
-                          color: Colors.white)),
+                          fontWeight: FontWeight.w800, fontSize: 15.5, color: Colors.white)),
                         SizedBox(height: 2),
                         Text('10 high-yield Qs · 2× XP today', style: TextStyle(
-                          fontSize: 12, color: Colors.white,
-                          fontWeight: FontWeight.w600)),
+                          fontSize: 12, color: Colors.white, fontWeight: FontWeight.w600)),
                       ],
                     ),
                   ),
@@ -787,7 +878,7 @@ class _HomeScreenState extends State<HomeScreen> {
       onTap: () => _navigateTo(1),
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.white,
+          color: AppTheme.cardBg,
           borderRadius: BorderRadius.circular(16),
           border: Border.all(color: AppTheme.line),
           boxShadow: AppTheme.cardShadow,
@@ -826,6 +917,8 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 }
+
+final DateTime _zeroDay = DateTime(2000);
 
 class _Tile {
   final String label, sub;

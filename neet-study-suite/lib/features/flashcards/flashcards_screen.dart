@@ -22,7 +22,12 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
   late TabController _tabs;
   List<Flashcard> _allCards = [];
   List<Flashcard> _dueCards = [];
+  Map<String, List<Flashcard>> _decks = {};
   bool _loading = true;
+
+  // Deck multi-select
+  bool _selectMode = false;
+  final Set<String> _selectedDecks = {};
 
   @override
   void initState() {
@@ -41,9 +46,14 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
   Future<void> _load() async {
     final all = await FlashcardService.loadAll();
     final due = await FlashcardService.getDueCards();
+    final decks = await FlashcardService.loadDecks();
     if (mounted) setState(() {
       _allCards = all;
       _dueCards = due;
+      _decks = decks;
+      // drop any selections whose deck no longer exists
+      _selectedDecks.removeWhere((s) => !decks.containsKey(s));
+      if (_selectedDecks.isEmpty) _selectMode = false;
       _loading = false;
     });
   }
@@ -123,7 +133,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
   );
 
   Widget _buildTabSelector() {
-    final labels = ['Review', 'All Cards', 'Generate'];
+    final labels = ['Review', 'Decks', 'Generate'];
     return Container(
       padding: const EdgeInsets.all(4),
       decoration: BoxDecoration(
@@ -166,57 +176,178 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
   }
 
   Widget _buildAllCardsTab() {
-    if (_allCards.isEmpty) {
+    if (_decks.isEmpty) {
       return SoftEmptyState(
         icon: Icons.style_rounded,
         color: AppTheme.secondary,
-        title: 'No flashcards yet',
-        message: 'Create cards manually or let AI generate high-yield cards from any topic.',
+        title: 'No decks yet',
+        message: 'Create cards manually or let AI generate high-yield cards from any topic. Cards group into decks by subject.',
         action: _ctaButton('Generate Flashcards', () => _tabs.animateTo(2)),
       );
     }
-    return ListView.builder(
-      padding: const EdgeInsets.fromLTRB(20, 20, 20, 30),
-      itemCount: _allCards.length,
-      itemBuilder: (_, i) => FadeSlideIn(index: i, child: _buildCardTile(_allCards[i])),
+    final subjects = _decks.keys.toList()
+      ..sort((a, b) => _deckName(a).compareTo(_deckName(b)));
+
+    return Column(
+      children: [
+        if (_selectMode) _buildSelectionBar(),
+        Expanded(
+          child: ListView.builder(
+            padding: const EdgeInsets.fromLTRB(20, 16, 20, 30),
+            itemCount: subjects.length,
+            itemBuilder: (_, i) => FadeSlideIn(index: i, child: _buildDeckTile(subjects[i])),
+          ),
+        ),
+      ],
     );
   }
 
-  Widget _buildCardTile(Flashcard card) {
-    final isDue = card.isDue;
-    final color = isDue ? AppTheme.accent : AppTheme.correct;
+  String _deckName(String subject) =>
+      GithubService.subjectDisplayNames[subject] ?? subject;
+
+  Widget _buildSelectionBar() {
+    return Container(
+      margin: const EdgeInsets.fromLTRB(20, 14, 20, 0),
+      padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+      decoration: BoxDecoration(
+        color: AppTheme.secondary.withValues(alpha: 0.12),
+        borderRadius: BorderRadius.circular(14),
+        border: Border.all(color: AppTheme.secondary.withValues(alpha: 0.4)),
+      ),
+      child: Row(children: [
+        Icon(Icons.check_circle_rounded, size: 18, color: AppTheme.secondary),
+        const SizedBox(width: 8),
+        Expanded(child: Text('${_selectedDecks.length} deck${_selectedDecks.length == 1 ? '' : 's'} selected',
+          style: TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink, fontSize: 13.5))),
+        TapScale(
+          onTap: () => setState(() { _selectMode = false; _selectedDecks.clear(); }),
+          child: Padding(
+            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+            child: Text('Cancel', style: TextStyle(
+              color: AppTheme.inkSoft, fontWeight: FontWeight.w700, fontSize: 13)),
+          ),
+        ),
+        const SizedBox(width: 4),
+        TapScale(
+          onTap: _selectedDecks.isEmpty ? null : _confirmDeleteSelectedDecks,
+          child: Container(
+            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+            decoration: BoxDecoration(
+              color: _selectedDecks.isEmpty ? AppTheme.inkFaint : AppTheme.incorrect,
+              borderRadius: BorderRadius.circular(10)),
+            child: const Row(mainAxisSize: MainAxisSize.min, children: [
+              Icon(Icons.delete_rounded, size: 16, color: Colors.white),
+              SizedBox(width: 5),
+              Text('Delete', style: TextStyle(color: Colors.white, fontWeight: FontWeight.w700, fontSize: 13)),
+            ]),
+          ),
+        ),
+      ]),
+    );
+  }
+
+  Widget _buildDeckTile(String subject) {
+    final cards = _decks[subject]!;
+    final due = cards.where((c) => c.isDue).length;
+    final selected = _selectedDecks.contains(subject);
+
     return Padding(
       padding: const EdgeInsets.only(bottom: 12),
       child: SoftCard(
-        onTap: () => _showCardDetail(card),
-        onLongPress: () => _confirmDelete(card),
+        onTap: () {
+          if (_selectMode) {
+            _toggleDeck(subject);
+          } else {
+            _openDeck(subject);
+          }
+        },
+        onLongPress: () {
+          setState(() {
+            _selectMode = true;
+            _selectedDecks.add(subject);
+          });
+        },
         padding: const EdgeInsets.all(16),
+        color: selected ? AppTheme.secondary.withValues(alpha: 0.08) : null,
+        border: selected ? Border.all(color: AppTheme.secondary, width: 1.6) : null,
         child: Row(children: [
-          IconBadge(
-            icon: isDue ? Icons.schedule_rounded : Icons.check_circle_rounded,
-            color: color, size: 44),
-          const SizedBox(width: 14),
+          if (_selectMode) ...[
+            Icon(selected ? Icons.check_circle_rounded : Icons.radio_button_unchecked_rounded,
+              color: selected ? AppTheme.secondary : AppTheme.inkFaint, size: 24),
+            const SizedBox(width: 12),
+          ] else
+            IconBadge(icon: Icons.folder_rounded, color: AppTheme.secondary, size: 44),
+          if (!_selectMode) const SizedBox(width: 14),
           Expanded(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(card.front, maxLines: 2, overflow: TextOverflow.ellipsis,
-                  style: TextStyle(fontWeight: FontWeight.w600, fontSize: 14.5, color: AppTheme.ink, height: 1.35)),
-                const SizedBox(height: 6),
-                SoftChip(
-                  label: GithubService.subjectDisplayNames[card.subject] ?? card.subject,
-                  color: AppTheme.secondary),
+                Text(_deckName(subject),
+                  style: TextStyle(fontWeight: FontWeight.w800, fontSize: 15.5, color: AppTheme.ink)),
+                const SizedBox(height: 3),
+                Text('${cards.length} card${cards.length == 1 ? '' : 's'}'
+                    '${due > 0 ? '  ·  $due due' : ''}',
+                  style: TextStyle(fontSize: 12.5, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
               ],
             ),
           ),
-          const SizedBox(width: 10),
-          Column(children: [
-            Text(isDue ? 'Due' : 'In ${card.interval}d',
-              style: TextStyle(color: color, fontSize: 12, fontWeight: FontWeight.w700)),
-          ]),
+          if (due > 0 && !_selectMode)
+            Container(
+              padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+              decoration: BoxDecoration(
+                color: AppTheme.accent.withValues(alpha: 0.15),
+                borderRadius: BorderRadius.circular(999)),
+              child: Text('$due due', style: TextStyle(
+                color: AppTheme.gold, fontWeight: FontWeight.w700, fontSize: 11.5)),
+            )
+          else if (!_selectMode)
+            Icon(Icons.chevron_right_rounded, color: AppTheme.inkFaint, size: 20),
         ]),
       ),
     );
+  }
+
+  void _toggleDeck(String subject) {
+    setState(() {
+      if (_selectedDecks.contains(subject)) {
+        _selectedDecks.remove(subject);
+        if (_selectedDecks.isEmpty) _selectMode = false;
+      } else {
+        _selectedDecks.add(subject);
+      }
+    });
+  }
+
+  Future<void> _openDeck(String subject) async {
+    await Navigator.push(context, MaterialPageRoute(
+      builder: (_) => _DeckCardsScreen(subject: subject, tts: widget.tts),
+    ));
+    _load();
+  }
+
+  Future<void> _confirmDeleteSelectedDecks() async {
+    final count = _selectedDecks.length;
+    final cardCount = _selectedDecks.fold(0, (s, d) => s + (_decks[d]?.length ?? 0));
+    final ok = await showDialog<bool>(
+      context: context,
+      builder: (_) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: AppTheme.radiusLg),
+        title: const Text('Delete decks?', style: TextStyle(fontWeight: FontWeight.w800)),
+        content: Text('This removes $count deck${count == 1 ? '' : 's'} '
+            'and all $cardCount card${cardCount == 1 ? '' : 's'} inside. This cannot be undone.'),
+        actions: [
+          TextButton(onPressed: () => Navigator.pop(context, false), child: const Text('Cancel')),
+          FilledButton(
+            style: FilledButton.styleFrom(backgroundColor: AppTheme.incorrect),
+            onPressed: () => Navigator.pop(context, true), child: const Text('Delete')),
+        ],
+      ),
+    );
+    if (ok == true) {
+      await FlashcardService.deleteBySubjects({..._selectedDecks});
+      setState(() { _selectMode = false; _selectedDecks.clear(); });
+      _load();
+    }
   }
 
   Widget _buildGenerateTab() {
@@ -317,15 +448,198 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
     );
   }
 
-  void _showCardDetail(Flashcard card) {
+}
+
+/// Lists the cards inside one deck (subject). Tap a card to view it; long-press
+/// to enter multi-select and bulk-delete cards.
+class _DeckCardsScreen extends StatefulWidget {
+  final String subject;
+  final TtsService tts;
+  const _DeckCardsScreen({required this.subject, required this.tts});
+
+  @override
+  State<_DeckCardsScreen> createState() => _DeckCardsScreenState();
+}
+
+class _DeckCardsScreenState extends State<_DeckCardsScreen> {
+  List<Flashcard> _cards = [];
+  bool _selectMode = false;
+  final Set<String> _selected = {};
+
+  @override
+  void initState() { super.initState(); _load(); }
+
+  Future<void> _load() async {
+    final decks = await FlashcardService.loadDecks();
+    if (mounted) setState(() {
+      _cards = decks[widget.subject] ?? [];
+      _selected.removeWhere((id) => !_cards.any((c) => c.id == id));
+      if (_selected.isEmpty) _selectMode = false;
+    });
+  }
+
+  String get _title => GithubService.subjectDisplayNames[widget.subject] ?? widget.subject;
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: AppTheme.surface,
+      body: Column(
+        children: [
+          Container(
+            color: AppTheme.secondary,
+            child: SafeArea(
+              bottom: false,
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(16, 12, 16, 16),
+                child: Row(children: [
+                  TapScale(
+                    onTap: () => Navigator.pop(context),
+                    child: Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withValues(alpha: 0.2),
+                        borderRadius: BorderRadius.circular(12)),
+                      child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
+                    ),
+                  ),
+                  const SizedBox(width: 14),
+                  Expanded(child: Text(_title, style: const TextStyle(
+                    color: Colors.white, fontSize: 20, fontWeight: FontWeight.w800, letterSpacing: -0.4))),
+                  Text('${_cards.length}', style: TextStyle(
+                    color: Colors.white.withValues(alpha: 0.85), fontWeight: FontWeight.w700)),
+                ]),
+              ),
+            ),
+          ),
+          if (_selectMode)
+            Container(
+              margin: const EdgeInsets.fromLTRB(20, 14, 20, 0),
+              padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+              decoration: BoxDecoration(
+                color: AppTheme.secondary.withValues(alpha: 0.12),
+                borderRadius: BorderRadius.circular(14),
+                border: Border.all(color: AppTheme.secondary.withValues(alpha: 0.4)),
+              ),
+              child: Row(children: [
+                Expanded(child: Text('${_selected.length} selected',
+                  style: TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink, fontSize: 13.5))),
+                TapScale(
+                  onTap: () => setState(() { _selectMode = false; _selected.clear(); }),
+                  child: Padding(padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                    child: Text('Cancel', style: TextStyle(color: AppTheme.inkSoft, fontWeight: FontWeight.w700, fontSize: 13))),
+                ),
+                const SizedBox(width: 4),
+                TapScale(
+                  onTap: _selected.isEmpty ? null : _deleteSelected,
+                  child: Container(
+                    padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
+                    decoration: BoxDecoration(
+                      color: _selected.isEmpty ? AppTheme.inkFaint : AppTheme.incorrect,
+                      borderRadius: BorderRadius.circular(10)),
+                    child: const Row(mainAxisSize: MainAxisSize.min, children: [
+                      Icon(Icons.delete_rounded, size: 16, color: Colors.white),
+                      SizedBox(width: 5),
+                      Text('Delete', style: TextStyle(color: Colors.white, fontWeight: FontWeight.w700, fontSize: 13)),
+                    ]),
+                  ),
+                ),
+              ]),
+            ),
+          Expanded(
+            child: _cards.isEmpty
+                ? SoftEmptyState(
+                    icon: Icons.style_rounded, color: AppTheme.secondary,
+                    title: 'Deck empty', message: 'All cards in this deck were removed.')
+                : ListView.builder(
+                    padding: const EdgeInsets.fromLTRB(20, 16, 20, 30),
+                    itemCount: _cards.length,
+                    itemBuilder: (_, i) => FadeSlideIn(index: i, child: _cardTile(_cards[i])),
+                  ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _cardTile(Flashcard card) {
+    final isDue = card.isDue;
+    final selected = _selected.contains(card.id);
+    final color = isDue ? AppTheme.accent : AppTheme.correct;
+    return Padding(
+      padding: const EdgeInsets.only(bottom: 12),
+      child: SoftCard(
+        onTap: () => _selectMode ? _toggle(card.id) : _showDetail(card),
+        onLongPress: () => setState(() { _selectMode = true; _selected.add(card.id); }),
+        color: selected ? AppTheme.secondary.withValues(alpha: 0.08) : null,
+        border: selected ? Border.all(color: AppTheme.secondary, width: 1.6) : null,
+        padding: const EdgeInsets.all(16),
+        child: Row(children: [
+          if (_selectMode) ...[
+            Icon(selected ? Icons.check_circle_rounded : Icons.radio_button_unchecked_rounded,
+              color: selected ? AppTheme.secondary : AppTheme.inkFaint, size: 24),
+            const SizedBox(width: 12),
+          ] else ...[
+            IconBadge(
+              icon: isDue ? Icons.schedule_rounded : Icons.check_circle_rounded,
+              color: color, size: 44),
+            const SizedBox(width: 14),
+          ],
+          Expanded(
+            child: Text(card.front, maxLines: 2, overflow: TextOverflow.ellipsis,
+              style: TextStyle(fontWeight: FontWeight.w600, fontSize: 14.5, color: AppTheme.ink, height: 1.35)),
+          ),
+          if (!_selectMode) ...[
+            const SizedBox(width: 10),
+            Text(isDue ? 'Due' : 'In ${card.interval}d',
+              style: TextStyle(color: color, fontSize: 12, fontWeight: FontWeight.w700)),
+          ],
+        ]),
+      ),
+    );
+  }
+
+  void _toggle(String id) => setState(() {
+    if (_selected.contains(id)) {
+      _selected.remove(id);
+      if (_selected.isEmpty) _selectMode = false;
+    } else {
+      _selected.add(id);
+    }
+  });
+
+  Future<void> _deleteSelected() async {
+    final n = _selected.length;
+    final ok = await showDialog<bool>(
+      context: context,
+      builder: (_) => AlertDialog(
+        shape: RoundedRectangleBorder(borderRadius: AppTheme.radiusLg),
+        title: const Text('Delete cards?', style: TextStyle(fontWeight: FontWeight.w800)),
+        content: Text('Remove $n card${n == 1 ? '' : 's'} from this deck? This cannot be undone.'),
+        actions: [
+          TextButton(onPressed: () => Navigator.pop(context, false), child: const Text('Cancel')),
+          FilledButton(
+            style: FilledButton.styleFrom(backgroundColor: AppTheme.incorrect),
+            onPressed: () => Navigator.pop(context, true), child: const Text('Delete')),
+        ],
+      ),
+    );
+    if (ok == true) {
+      await FlashcardService.deleteCards({..._selected});
+      setState(() { _selectMode = false; _selected.clear(); });
+      _load();
+    }
+  }
+
+  void _showDetail(Flashcard card) {
     showModalBottomSheet(
       context: context,
       isScrollControlled: true,
       backgroundColor: Colors.transparent,
       builder: (_) => Container(
-        decoration: const BoxDecoration(
-          color: Colors.white,
-          borderRadius: BorderRadius.vertical(top: Radius.circular(AppTheme.rXl))),
+        decoration: BoxDecoration(
+          color: AppTheme.cardBg,
+          borderRadius: const BorderRadius.vertical(top: Radius.circular(AppTheme.rXl))),
         padding: const EdgeInsets.fromLTRB(24, 16, 24, 30),
         child: Column(
           mainAxisSize: MainAxisSize.min,
@@ -335,8 +649,6 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
               decoration: BoxDecoration(color: AppTheme.inkFaint.withValues(alpha: 0.3),
                 borderRadius: BorderRadius.circular(3)))),
             const SizedBox(height: 18),
-            SoftChip(label: GithubService.subjectDisplayNames[card.subject] ?? card.subject, color: AppTheme.secondary),
-            const SizedBox(height: 16),
             Text('FRONT', style: TextStyle(color: AppTheme.inkFaint, fontWeight: FontWeight.w700, fontSize: 11, letterSpacing: 1)),
             const SizedBox(height: 6),
             Text(card.front, style: TextStyle(fontSize: 16, height: 1.5, color: AppTheme.ink, fontWeight: FontWeight.w500)),
@@ -345,42 +657,31 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
             const SizedBox(height: 6),
             Text(card.back, style: TextStyle(fontSize: 15.5, height: 1.55, color: AppTheme.ink)),
             const SizedBox(height: 18),
-            Container(
-              padding: const EdgeInsets.all(12),
-              decoration: BoxDecoration(color: AppTheme.surface, borderRadius: BorderRadius.circular(14)),
-              child: Row(mainAxisAlignment: MainAxisAlignment.spaceAround, children: [
-                _miniStat('Ease', card.easeFactor.toStringAsFixed(2)),
-                _miniStat('Interval', '${card.interval}d'),
-                _miniStat('Reps', '${card.repetitions}'),
-              ]),
-            ),
+            Row(children: [
+              Expanded(child: FilledButton.icon(
+                onPressed: () { widget.tts.speak(card.back); },
+                icon: const Icon(Icons.volume_up_rounded, size: 18),
+                label: const Text('Read aloud'))),
+              const SizedBox(width: 12),
+              TapScale(
+                onTap: () async {
+                  Navigator.pop(context);
+                  await FlashcardService.deleteCard(card.id);
+                  _load();
+                },
+                child: Container(
+                  padding: const EdgeInsets.all(14),
+                  decoration: BoxDecoration(
+                    color: AppTheme.incorrect.withValues(alpha: 0.12),
+                    borderRadius: BorderRadius.circular(14)),
+                  child: Icon(Icons.delete_outline_rounded, color: AppTheme.incorrect),
+                ),
+              ),
+            ]),
           ],
         ),
       ),
     );
-  }
-
-  Widget _miniStat(String label, String value) => Column(children: [
-    Text(value, style: TextStyle(fontWeight: FontWeight.w800, color: AppTheme.secondary, fontSize: 16)),
-    Text(label, style: TextStyle(color: AppTheme.inkSoft, fontSize: 11)),
-  ]);
-
-  Future<void> _confirmDelete(Flashcard card) async {
-    final ok = await showDialog<bool>(
-      context: context,
-      builder: (_) => AlertDialog(
-        shape: RoundedRectangleBorder(borderRadius: AppTheme.radiusLg),
-        title: const Text('Delete Card?', style: TextStyle(fontWeight: FontWeight.w800)),
-        content: Text(card.front, maxLines: 2, overflow: TextOverflow.ellipsis),
-        actions: [
-          TextButton(onPressed: () => Navigator.pop(context, false), child: const Text('Cancel')),
-          FilledButton(
-            style: FilledButton.styleFrom(backgroundColor: AppTheme.incorrect),
-            onPressed: () => Navigator.pop(context, true), child: const Text('Delete')),
-        ],
-      ),
-    );
-    if (ok == true) { await FlashcardService.deleteCard(card.id); _load(); }
   }
 }
 

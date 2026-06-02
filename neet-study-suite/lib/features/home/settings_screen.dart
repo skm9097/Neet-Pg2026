@@ -3,6 +3,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../../services/gemini_service.dart';
 import '../../services/tts_service.dart';
 import '../../services/progress_service.dart';
+import '../../services/app_settings.dart';
 import '../../services/providers/ai_provider.dart';
 import '../../core/theme/app_theme.dart';
 import '../../core/widgets/soft_widgets.dart';
@@ -22,6 +23,11 @@ class _SettingsScreenState extends State<SettingsScreen> {
   final _groqCtrl = TextEditingController();
   final _openrouterCtrl = TextEditingController();
 
+  // Profile + study preferences
+  final _settings = AppSettings.instance;
+  final _nameCtrl = TextEditingController();
+  final _examNameCtrl = TextEditingController();
+
   AiProviderType _selectedProvider = AiProviderType.gemini;
   bool _showKey = false;
   bool _ttsEnabled = true;
@@ -32,6 +38,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
   @override
   void initState() {
     super.initState();
+    _nameCtrl.text = _settings.userName;
+    _examNameCtrl.text = _settings.examName;
     _load();
   }
 
@@ -91,6 +99,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
     _geminiCtrl.dispose();
     _groqCtrl.dispose();
     _openrouterCtrl.dispose();
+    _nameCtrl.dispose();
+    _examNameCtrl.dispose();
     super.dispose();
   }
 
@@ -128,6 +138,15 @@ class _SettingsScreenState extends State<SettingsScreen> {
             child: ListView(
               padding: const EdgeInsets.fromLTRB(20, 20, 20, 30),
               children: [
+                _sectionHeader('Profile'),
+                _buildProfileCard(),
+                const SizedBox(height: 16),
+                _sectionHeader('Exam & Goal'),
+                _buildStudyCard(),
+                const SizedBox(height: 16),
+                _sectionHeader('Appearance'),
+                _buildAppearanceCard(),
+                const SizedBox(height: 16),
                 _sectionHeader('AI Provider'),
                 _buildProviderPicker(),
                 const SizedBox(height: 12),
@@ -166,13 +185,189 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
                 const SizedBox(height: 24),
                 Center(
-                  child: Text('NEET-PG Study Suite v1.2.0',
+                  child: Text('NEET-PG Study Suite v1.4.0',
                     style: TextStyle(color: AppTheme.inkFaint, fontSize: 12)),
                 ),
               ],
             ),
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildProfileCard() {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(children: [
+              Container(
+                width: 46, height: 46,
+                decoration: BoxDecoration(color: AppTheme.primary, shape: BoxShape.circle),
+                child: Center(child: Text(
+                  _initials(_nameCtrl.text),
+                  style: const TextStyle(color: Colors.white, fontWeight: FontWeight.w800, fontSize: 17))),
+              ),
+              const SizedBox(width: 14),
+              const Expanded(child: Text('Your name', style: TextStyle(fontWeight: FontWeight.w700))),
+            ]),
+            const SizedBox(height: 14),
+            TextField(
+              controller: _nameCtrl,
+              textCapitalization: TextCapitalization.words,
+              decoration: const InputDecoration(
+                hintText: 'e.g. Aarav',
+                prefixIcon: Icon(Icons.person_outline_rounded),
+              ),
+              onChanged: (v) {
+                _settings.setName(v);
+                setState(() {}); // refresh avatar initials
+              },
+            ),
+            const SizedBox(height: 6),
+            Text('Used for your greeting on the home screen.',
+              style: TextStyle(color: AppTheme.inkFaint, fontSize: 12)),
+          ],
+        ),
+      ),
+    );
+  }
+
+  String _initials(String name) {
+    final parts = name.trim().split(RegExp(r'\s+')).where((p) => p.isNotEmpty).toList();
+    if (parts.isEmpty) return '🙂';
+    if (parts.length == 1) return parts.first.substring(0, 1).toUpperCase();
+    return (parts.first.substring(0, 1) + parts.last.substring(0, 1)).toUpperCase();
+  }
+
+  Widget _buildStudyCard() {
+    final daysLeft = _settings.examDate.difference(DateTime.now()).inDays;
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            const Text('Exam name', style: TextStyle(fontWeight: FontWeight.w700, fontSize: 13.5)),
+            const SizedBox(height: 8),
+            TextField(
+              controller: _examNameCtrl,
+              decoration: const InputDecoration(
+                hintText: 'NEET PG 2026',
+                prefixIcon: Icon(Icons.school_outlined),
+              ),
+              onChanged: (v) => _settings.setExamName(v),
+            ),
+            const SizedBox(height: 16),
+            const Text('Exam date', style: TextStyle(fontWeight: FontWeight.w700, fontSize: 13.5)),
+            const SizedBox(height: 8),
+            TapScale(
+              onTap: _pickExamDate,
+              child: Container(
+                padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 15),
+                decoration: BoxDecoration(
+                  color: AppTheme.greenTint,
+                  borderRadius: AppTheme.radiusMd,
+                  border: Border.all(color: AppTheme.line),
+                ),
+                child: Row(children: [
+                  Icon(Icons.event_rounded, size: 20, color: AppTheme.primary),
+                  const SizedBox(width: 12),
+                  Expanded(child: Text(_formatDate(_settings.examDate),
+                    style: const TextStyle(fontWeight: FontWeight.w700, fontSize: 14))),
+                  Text(daysLeft >= 0 ? '$daysLeft days left' : 'past',
+                    style: TextStyle(color: AppTheme.primary, fontWeight: FontWeight.w700, fontSize: 12.5)),
+                ]),
+              ),
+            ),
+            const SizedBox(height: 16),
+            Row(children: [
+              const Expanded(child: Text('Daily goal',
+                style: TextStyle(fontWeight: FontWeight.w700, fontSize: 13.5))),
+              Text('${_settings.dailyGoal} questions / day',
+                style: TextStyle(color: AppTheme.primary, fontWeight: FontWeight.w700, fontSize: 13)),
+            ]),
+            const SizedBox(height: 4),
+            Wrap(
+              spacing: 8, runSpacing: 8,
+              children: [10, 20, 30, 50, 75, 100].map((n) {
+                final active = _settings.dailyGoal == n;
+                return TapScale(
+                  onTap: () { _settings.setDailyGoal(n); setState(() {}); },
+                  child: Container(
+                    width: 54, height: 40, alignment: Alignment.center,
+                    decoration: BoxDecoration(
+                      color: active ? AppTheme.primary : AppTheme.greenTint,
+                      borderRadius: BorderRadius.circular(12),
+                    ),
+                    child: Text('$n', style: TextStyle(
+                      fontWeight: FontWeight.w800,
+                      color: active ? Colors.white : AppTheme.primary)),
+                  ),
+                );
+              }).toList(),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Future<void> _pickExamDate() async {
+    final picked = await showDatePicker(
+      context: context,
+      initialDate: _settings.examDate,
+      firstDate: DateTime.now().subtract(const Duration(days: 1)),
+      lastDate: DateTime(2030, 12, 31),
+    );
+    if (picked != null) {
+      await _settings.setExamDate(picked);
+      if (mounted) setState(() {});
+    }
+  }
+
+  String _formatDate(DateTime d) {
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun',
+      'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    return '${d.day} ${months[d.month - 1]} ${d.year}';
+  }
+
+  Widget _buildAppearanceCard() {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(14),
+        child: Row(
+          children: ThemeMode.values.map((m) {
+            final active = _settings.themeMode == m;
+            final label = m == ThemeMode.system ? 'System' : m == ThemeMode.light ? 'Light' : 'Dark';
+            final icon = m == ThemeMode.system ? Icons.brightness_auto_rounded
+              : m == ThemeMode.light ? Icons.light_mode_rounded : Icons.dark_mode_rounded;
+            return Expanded(
+              child: TapScale(
+                onTap: () { _settings.setThemeMode(m); setState(() {}); },
+                child: AnimatedContainer(
+                  duration: const Duration(milliseconds: 200),
+                  margin: const EdgeInsets.symmetric(horizontal: 4),
+                  padding: const EdgeInsets.symmetric(vertical: 14),
+                  decoration: BoxDecoration(
+                    color: active ? AppTheme.primary : AppTheme.greenTint,
+                    borderRadius: BorderRadius.circular(14),
+                  ),
+                  child: Column(children: [
+                    Icon(icon, size: 22, color: active ? Colors.white : AppTheme.primary),
+                    const SizedBox(height: 6),
+                    Text(label, style: TextStyle(
+                      fontWeight: FontWeight.w700, fontSize: 12.5,
+                      color: active ? Colors.white : AppTheme.primary)),
+                  ]),
+                ),
+              ),
+            );
+          }).toList(),
+        ),
       ),
     );
   }

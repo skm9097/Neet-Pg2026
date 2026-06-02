@@ -40,6 +40,31 @@ class FlashcardService {
     await save(cards);
   }
 
+  /// Bulk-delete cards by id (used by multi-select).
+  static Future<void> deleteCards(Iterable<String> ids) async {
+    final set = ids.toSet();
+    final cards = await loadAll();
+    cards.removeWhere((c) => set.contains(c.id));
+    await save(cards);
+  }
+
+  /// Delete whole decks — every card whose subject is in [subjects].
+  static Future<void> deleteBySubjects(Set<String> subjects) async {
+    final cards = await loadAll();
+    cards.removeWhere((c) => subjects.contains(c.subject));
+    await save(cards);
+  }
+
+  /// Cards grouped by subject ("deck"), each list newest first.
+  static Future<Map<String, List<Flashcard>>> loadDecks() async {
+    final all = await loadAll();
+    final decks = <String, List<Flashcard>>{};
+    for (final c in all) {
+      decks.putIfAbsent(c.subject, () => []).add(c);
+    }
+    return decks;
+  }
+
   static Future<List<Flashcard>> getDueCards() async {
     final all = await loadAll();
     return all.where((c) => c.isDue).toList()
