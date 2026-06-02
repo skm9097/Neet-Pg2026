@@ -69,7 +69,7 @@ class _QuizScreenState extends State<QuizScreen> {
         final md = await service.fetchSubjectMarkdown(widget.source);
         all = MarkdownParser.parse(md, source: widget.source);
       } else {
-        final years = GithubService.availableYears;
+        final years = [...GithubService.availableYears];
         years.shuffle();
         for (final y in years.take(2)) {
           try {
@@ -282,10 +282,10 @@ class _QuizScreenState extends State<QuizScreen> {
             ),
           ),
           const SizedBox(height: 22),
-          const Text('Preparing your questions…',
+          Text('Preparing your questions…',
             style: TextStyle(fontWeight: FontWeight.w600, color: AppTheme.ink, fontSize: 15)),
           const SizedBox(height: 4),
-          const Text('Fetching from the question bank',
+          Text('Fetching from the question bank',
             style: TextStyle(color: AppTheme.inkSoft, fontSize: 12.5)),
         ],
       ),
@@ -320,7 +320,7 @@ class _QuizScreenState extends State<QuizScreen> {
                 decoration: BoxDecoration(
                   color: AppTheme.primary.withValues(alpha: 0.08),
                   borderRadius: BorderRadius.circular(13)),
-                child: const Icon(Icons.arrow_back_rounded, size: 20, color: AppTheme.primary),
+                child: Icon(Icons.arrow_back_rounded, size: 20, color: AppTheme.primary),
               ),
             ),
             const SizedBox(width: 12),
@@ -329,9 +329,9 @@ class _QuizScreenState extends State<QuizScreen> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text('Question ${_currentIndex + 1} of ${_questions.length}',
-                    style: const TextStyle(fontWeight: FontWeight.w700, fontSize: 15, color: AppTheme.ink)),
+                    style: TextStyle(fontWeight: FontWeight.w700, fontSize: 15, color: AppTheme.ink)),
                   Text(subjectLabel + (q.year != null ? ' · ${q.year}' : ''),
-                    style: const TextStyle(fontSize: 12, color: AppTheme.inkSoft)),
+                    style: TextStyle(fontSize: 12, color: AppTheme.inkSoft)),
                 ],
               ),
             ),
@@ -359,16 +359,17 @@ class _QuizScreenState extends State<QuizScreen> {
     );
   }
 
-  Widget _circleAction(IconData icon, VoidCallback onTap, {bool active = false, Color activeColor = AppTheme.primary}) {
+  Widget _circleAction(IconData icon, VoidCallback onTap, {bool active = false, Color? activeColor}) {
+    final color = activeColor ?? AppTheme.primary;
     return TapScale(
       onTap: onTap,
       child: AnimatedContainer(
         duration: const Duration(milliseconds: 200),
         padding: const EdgeInsets.all(9),
         decoration: BoxDecoration(
-          color: active ? activeColor.withValues(alpha: 0.14) : AppTheme.inkFaint.withValues(alpha: 0.10),
+          color: active ? color.withValues(alpha: 0.14) : AppTheme.inkFaint.withValues(alpha: 0.10),
           borderRadius: BorderRadius.circular(13)),
-        child: Icon(icon, size: 20, color: active ? activeColor : AppTheme.inkSoft),
+        child: Icon(icon, size: 20, color: active ? color : AppTheme.inkSoft),
       ),
     );
   }
@@ -387,7 +388,7 @@ class _QuizScreenState extends State<QuizScreen> {
               color: AppTheme.primary.withValues(alpha: 0.6))),
           ]),
           const SizedBox(height: 12),
-          Text(q.stem, style: const TextStyle(
+          Text(q.stem, style: TextStyle(
             fontSize: 16.5, height: 1.6, color: AppTheme.ink, fontWeight: FontWeight.w500)),
         ],
       ),
@@ -499,20 +500,20 @@ class _QuizScreenState extends State<QuizScreen> {
                 style: TextStyle(fontWeight: FontWeight.w800, fontSize: 14,
                   color: isCorrect ? AppTheme.correct : AppTheme.primary)),
               const Spacer(),
-              const SoftChip(label: 'AI', icon: Icons.auto_awesome_rounded, color: AppTheme.lavender),
+              SoftChip(label: 'AI', icon: Icons.auto_awesome_rounded, color: AppTheme.lavender),
             ]),
             const SizedBox(height: 12),
             if (_loadingFeedback)
-              Row(children: const [
+              Row(children: [
                 SizedBox(width: 16, height: 16, child: CircularProgressIndicator(strokeWidth: 2)),
                 SizedBox(width: 10),
                 Text('Thinking…', style: TextStyle(color: AppTheme.inkSoft)),
               ])
             else
-              Text(_feedback ?? q.explanation, style: const TextStyle(height: 1.55, color: AppTheme.ink, fontSize: 14)),
+              Text(_feedback ?? q.explanation, style: TextStyle(height: 1.55, color: AppTheme.ink, fontSize: 14)),
             if (_detailedExplanation != null) ...[
               Divider(height: 26, color: AppTheme.ink.withValues(alpha: 0.06)),
-              Text(_detailedExplanation!, style: const TextStyle(height: 1.55, color: AppTheme.ink, fontSize: 14)),
+              Text(_detailedExplanation!, style: TextStyle(height: 1.55, color: AppTheme.ink, fontSize: 14)),
             ],
             if (_loadingDetailed)
               const Padding(
@@ -580,7 +581,7 @@ class _QuizScreenState extends State<QuizScreen> {
                   decoration: BoxDecoration(
                     color: AppTheme.inkFaint.withValues(alpha: 0.10),
                     borderRadius: BorderRadius.circular(AppTheme.rMd)),
-                  child: const Text('Skip', style: TextStyle(
+                  child: Text('Skip', style: TextStyle(
                     color: AppTheme.inkSoft, fontWeight: FontWeight.w600)),
                 ),
               ),

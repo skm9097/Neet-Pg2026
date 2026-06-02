@@ -92,11 +92,11 @@ class _ResultScreenState extends State<ResultScreen> {
                 decoration: BoxDecoration(
                   color: AppTheme.primary.withValues(alpha: 0.08),
                   borderRadius: BorderRadius.circular(13)),
-                child: const Icon(Icons.home_rounded, size: 20, color: AppTheme.primary),
+                child: Icon(Icons.home_rounded, size: 20, color: AppTheme.primary),
               ),
             ),
             const SizedBox(width: 12),
-            const Text('Your Results', style: TextStyle(
+            Text('Your Results', style: TextStyle(
               fontSize: 20, fontWeight: FontWeight.w800, color: AppTheme.ink, letterSpacing: -0.4)),
           ]),
           const SizedBox(height: 14),
@@ -105,7 +105,7 @@ class _ResultScreenState extends State<ResultScreen> {
               color: AppTheme.primary.withValues(alpha: 0.06),
               borderRadius: BorderRadius.circular(16)),
             padding: const EdgeInsets.all(4),
-            child: const TabBar(
+            child: TabBar(
               dividerColor: Colors.transparent,
               indicatorSize: TabBarIndicatorSize.tab,
               indicator: BoxDecoration(
@@ -171,14 +171,14 @@ class _ResultScreenState extends State<ResultScreen> {
               children: [
                 Text('${_accuracy.toStringAsFixed(0)}%', style: TextStyle(
                   fontSize: 34, fontWeight: FontWeight.w800, color: _moodColor, letterSpacing: -1)),
-                const Text('accuracy', style: TextStyle(color: AppTheme.inkSoft, fontSize: 13)),
+                Text('accuracy', style: TextStyle(color: AppTheme.inkSoft, fontSize: 13)),
               ],
             ),
             progressColor: _moodColor,
             backgroundColor: _moodColor.withValues(alpha: 0.12),
           ),
           const SizedBox(height: 18),
-          Text(_moodMessage, textAlign: TextAlign.center, style: const TextStyle(
+          Text(_moodMessage, textAlign: TextAlign.center, style: TextStyle(
             fontWeight: FontWeight.w700, fontSize: 15, color: AppTheme.ink)),
         ],
       ),
@@ -203,7 +203,7 @@ class _ResultScreenState extends State<ResultScreen> {
           Icon(icon, color: color, size: 22),
           const SizedBox(height: 8),
           Text('$count', style: TextStyle(fontSize: 24, fontWeight: FontWeight.w800, color: color)),
-          Text(label, style: const TextStyle(color: AppTheme.inkSoft, fontSize: 11.5, fontWeight: FontWeight.w500)),
+          Text(label, style: TextStyle(color: AppTheme.inkSoft, fontSize: 11.5, fontWeight: FontWeight.w500)),
         ]),
       ),
     );
@@ -237,7 +237,7 @@ class _ResultScreenState extends State<ResultScreen> {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Row(children: const [
+          Row(children: [
             Icon(Icons.insights_rounded, size: 18, color: AppTheme.primary),
             SizedBox(width: 8),
             Text('Subject Breakdown', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 15, color: AppTheme.ink)),
@@ -253,7 +253,7 @@ class _ResultScreenState extends State<ResultScreen> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
-                    Text(label, style: const TextStyle(fontSize: 13.5, fontWeight: FontWeight.w600, color: AppTheme.ink)),
+                    Text(label, style: TextStyle(fontSize: 13.5, fontWeight: FontWeight.w600, color: AppTheme.ink)),
                     Text('${pct.toStringAsFixed(0)}%', style: TextStyle(
                       fontSize: 13.5, fontWeight: FontWeight.w800, color: color)),
                   ]),
@@ -300,14 +300,14 @@ class _ResultScreenState extends State<ResultScreen> {
                   color: statusColor, size: 16),
               ),
               const SizedBox(width: 10),
-              Text('Question ${i + 1}', style: const TextStyle(fontWeight: FontWeight.w800, color: AppTheme.ink)),
+              Text('Question ${i + 1}', style: TextStyle(fontWeight: FontWeight.w800, color: AppTheme.ink)),
               const Spacer(),
               SoftChip(
                 label: isCorrect ? 'Correct' : skipped ? 'Skipped' : 'Wrong',
                 color: statusColor),
             ]),
             const SizedBox(height: 12),
-            Text(q.stem, style: const TextStyle(height: 1.5, color: AppTheme.ink, fontWeight: FontWeight.w500)),
+            Text(q.stem, style: TextStyle(height: 1.5, color: AppTheme.ink, fontWeight: FontWeight.w500)),
             const SizedBox(height: 12),
             if (attempt.selectedOption != null)
               _answerRow('Your answer', attempt.selectedOption!, q, isCorrect ? AppTheme.correct : AppTheme.incorrect),
@@ -318,7 +318,7 @@ class _ResultScreenState extends State<ResultScreen> {
               padding: const EdgeInsets.all(12),
               decoration: BoxDecoration(
                 color: AppTheme.surface, borderRadius: BorderRadius.circular(14)),
-              child: Text(q.explanation, style: const TextStyle(color: AppTheme.inkSoft, fontSize: 13, height: 1.5)),
+              child: Text(q.explanation, style: TextStyle(color: AppTheme.inkSoft, fontSize: 13, height: 1.5)),
             ),
             if (_aiExplanations.containsKey(i)) ...[
               const SizedBox(height: 10),
@@ -326,7 +326,7 @@ class _ResultScreenState extends State<ResultScreen> {
                 padding: const EdgeInsets.all(12),
                 decoration: BoxDecoration(
                   color: AppTheme.lavender.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(14)),
-                child: Text(_aiExplanations[i]!, style: const TextStyle(fontSize: 13, height: 1.5, color: AppTheme.ink)),
+                child: Text(_aiExplanations[i]!, style: TextStyle(fontSize: 13, height: 1.5, color: AppTheme.ink)),
               ),
             ],
             const SizedBox(height: 12),
@@ -391,7 +391,7 @@ class _ResultScreenState extends State<ResultScreen> {
         child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
           Icon(icon, color: AppTheme.primary, size: 20),
           const SizedBox(width: 8),
-          Text(label, style: const TextStyle(color: AppTheme.primary, fontWeight: FontWeight.w700)),
+          Text(label, style: TextStyle(color: AppTheme.primary, fontWeight: FontWeight.w700)),
         ]),
       ),
     );

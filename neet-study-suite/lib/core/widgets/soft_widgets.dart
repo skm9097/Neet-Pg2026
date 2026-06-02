@@ -94,7 +94,7 @@ class SoftCard extends StatelessWidget {
 class SoftChip extends StatelessWidget {
   final String label;
   final IconData? icon;
-  final Color color;
+  final Color? color;
   final bool filled;
   final VoidCallback? onTap;
 
@@ -102,13 +102,14 @@ class SoftChip extends StatelessWidget {
     super.key,
     required this.label,
     this.icon,
-    this.color = AppTheme.primary,
+    this.color,
     this.filled = false,
     this.onTap,
   });
 
   @override
   Widget build(BuildContext context) {
+    final color = this.color ?? AppTheme.primary;
     final child = AnimatedContainer(
       duration: const Duration(milliseconds: 200),
       padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
@@ -211,20 +212,21 @@ class IconBadge extends StatelessWidget {
 /// Soft animated linear progress bar with rounded caps.
 class SoftProgressBar extends StatelessWidget {
   final double value; // 0..1
-  final Color color;
+  final Color? color;
   final double height;
   final Color? background;
 
   const SoftProgressBar({
     super.key,
     required this.value,
-    this.color = AppTheme.primary,
+    this.color,
     this.height = 8,
     this.background,
   });
 
   @override
   Widget build(BuildContext context) {
+    final color = this.color ?? AppTheme.primary;
     return LayoutBuilder(builder: (context, constraints) {
       return Container(
         height: height,
@@ -254,7 +256,7 @@ class SoftEmptyState extends StatelessWidget {
   final IconData icon;
   final String title;
   final String message;
-  final Color color;
+  final Color? color;
   final Widget? action;
 
   const SoftEmptyState({
@@ -262,12 +264,13 @@ class SoftEmptyState extends StatelessWidget {
     required this.icon,
     required this.title,
     required this.message,
-    this.color = AppTheme.primary,
+    this.color,
     this.action,
   });
 
   @override
   Widget build(BuildContext context) {
+    final color = this.color ?? AppTheme.primary;
     return Center(
       child: Padding(
         padding: const EdgeInsets.all(32),
@@ -285,11 +288,11 @@ class SoftEmptyState extends StatelessWidget {
               child: Icon(icon, size: 52, color: color),
             ),
             const SizedBox(height: 22),
-            Text(title, style: const TextStyle(
+            Text(title, style: TextStyle(
               fontSize: 19, fontWeight: FontWeight.w700, color: AppTheme.ink)),
             const SizedBox(height: 8),
             Text(message, textAlign: TextAlign.center,
-              style: const TextStyle(color: AppTheme.inkSoft, height: 1.5)),
+              style: TextStyle(color: AppTheme.inkSoft, height: 1.5)),
             if (action != null) ...[const SizedBox(height: 24), action!],
           ],
         ),

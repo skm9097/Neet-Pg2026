@@ -150,11 +150,11 @@ class _MockTestScreenState extends State<MockTestScreen>
             onTap: () => _startTest(30, const Duration(minutes: 30)),
           )),
           const SizedBox(height: 26),
-          const Text('Marking Scheme', style: TextStyle(
+          Text('Marking Scheme', style: TextStyle(
             fontWeight: FontWeight.w800, fontSize: 16, color: AppTheme.ink)),
           const SizedBox(height: 12),
           SoftCard(
-            child: Column(children: const [
+            child: Column(children: [
               _SchemeRow(Icons.check_circle_rounded, 'Correct answer', '+4', AppTheme.correct),
               _SchemeRow(Icons.cancel_rounded, 'Wrong answer', '−1', AppTheme.incorrect),
               _SchemeRow(Icons.remove_circle_rounded, 'Unattempted', '0', AppTheme.inkFaint),
@@ -188,12 +188,12 @@ class _MockTestScreenState extends State<MockTestScreen>
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Row(children: [
-                Text(title, style: const TextStyle(fontSize: 16.5, fontWeight: FontWeight.w800, color: AppTheme.ink)),
+                Text(title, style: TextStyle(fontSize: 16.5, fontWeight: FontWeight.w800, color: AppTheme.ink)),
                 const SizedBox(width: 8),
                 SoftChip(label: tag, color: color),
               ]),
               const SizedBox(height: 4),
-              Text(subtitle, style: const TextStyle(color: AppTheme.inkSoft, fontSize: 13)),
+              Text(subtitle, style: TextStyle(color: AppTheme.inkSoft, fontSize: 13)),
             ],
           ),
         ),
@@ -235,11 +235,11 @@ class _MockTestScreenState extends State<MockTestScreen>
         children: [
           FadeSlideIn(child: _buildSummaryCard(totalAttempted, totalCorrect, overallAccuracy)),
           const SizedBox(height: 20),
-          const Text('Accuracy by Session', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16, color: AppTheme.ink)),
+          Text('Accuracy by Session', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16, color: AppTheme.ink)),
           const SizedBox(height: 12),
           FadeSlideIn(index: 1, child: SoftCard(child: SizedBox(height: 170, child: _buildAccuracyChart()))),
           const SizedBox(height: 20),
-          Row(children: const [
+          Row(children: [
             Icon(Icons.priority_high_rounded, size: 18, color: AppTheme.incorrect),
             SizedBox(width: 6),
             Text('Focus Areas', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 16, color: AppTheme.ink)),
@@ -308,7 +308,7 @@ class _MockTestScreenState extends State<MockTestScreen>
         }),
         titlesData: FlTitlesData(
           leftTitles: AxisTitles(sideTitles: SideTitles(showTitles: true, reservedSize: 32,
-            getTitlesWidget: (v, _) => Text('${v.toInt()}', style: const TextStyle(fontSize: 10, color: AppTheme.inkFaint)))),
+            getTitlesWidget: (v, _) => Text('${v.toInt()}', style: TextStyle(fontSize: 10, color: AppTheme.inkFaint)))),
           bottomTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
           topTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
           rightTitles: const AxisTitles(sideTitles: SideTitles(showTitles: false)),
@@ -338,7 +338,7 @@ class _MockTestScreenState extends State<MockTestScreen>
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(label, style: const TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink)),
+                Text(label, style: TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink)),
                 const SizedBox(height: 6),
                 SoftProgressBar(value: entry.accuracy / 100, color: AppTheme.incorrect, height: 6),
               ],
@@ -346,7 +346,7 @@ class _MockTestScreenState extends State<MockTestScreen>
           ),
           const SizedBox(width: 10),
           Text('${entry.accuracy.toStringAsFixed(0)}%',
-            style: const TextStyle(fontWeight: FontWeight.w800, color: AppTheme.incorrect)),
+            style: TextStyle(fontWeight: FontWeight.w800, color: AppTheme.incorrect)),
         ]),
       ),
     );
@@ -376,7 +376,7 @@ class _SchemeRow extends StatelessWidget {
     child: Row(children: [
       Icon(icon, color: color, size: 20),
       const SizedBox(width: 12),
-      Expanded(child: Text(label, style: const TextStyle(color: AppTheme.ink, fontSize: 14))),
+      Expanded(child: Text(label, style: TextStyle(color: AppTheme.ink, fontSize: 14))),
       Container(
         padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
         decoration: BoxDecoration(color: color.withValues(alpha: 0.12), borderRadius: BorderRadius.circular(20)),
@@ -416,7 +416,7 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
   Future<void> _loadQuestions() async {
     try {
       final service = GithubService();
-      final years = GithubService.availableYears;
+      final years = [...GithubService.availableYears];
       years.shuffle();
       List<Question> all = [];
       for (final y in years.take(3)) {
@@ -447,7 +447,8 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
 
     final correct = attempts.where((a) => a.isCorrect).length;
     final source = 'mock_${widget.count}q';
-    ProgressService.record(source, attempts.length, correct);
+    ProgressService.record(source, attempts.length, correct,
+      timeSpent: DateTime.now().difference(_startTime));
 
     Navigator.pushReplacement(
       context,
@@ -472,7 +473,7 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
           child: const SizedBox(width: 30, height: 30,
             child: CircularProgressIndicator(color: Colors.white, strokeWidth: 3))),
         const SizedBox(height: 20),
-        const Text('Setting up your test…', style: TextStyle(fontWeight: FontWeight.w600, color: AppTheme.ink)),
+        Text('Setting up your test…', style: TextStyle(fontWeight: FontWeight.w600, color: AppTheme.ink)),
       ])),
     );
     if (_error != null) return Scaffold(
@@ -501,11 +502,11 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
                       padding: const EdgeInsets.all(9),
                       decoration: BoxDecoration(
                         color: AppTheme.secondary.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(13)),
-                      child: const Icon(Icons.close_rounded, size: 20, color: AppTheme.secondary)),
+                      child: Icon(Icons.close_rounded, size: 20, color: AppTheme.secondary)),
                   ),
                   const SizedBox(width: 12),
                   Text('Question ${_current + 1} / ${_questions.length}',
-                    style: const TextStyle(fontWeight: FontWeight.w700, fontSize: 15, color: AppTheme.ink)),
+                    style: TextStyle(fontWeight: FontWeight.w700, fontSize: 15, color: AppTheme.ink)),
                   const Spacer(),
                   Container(
                     padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 8),
@@ -537,7 +538,7 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
                     children: [
                       SoftCard(
                         padding: const EdgeInsets.all(20),
-                        child: Text(q.stem, style: const TextStyle(
+                        child: Text(q.stem, style: TextStyle(
                           fontSize: 16, height: 1.6, color: AppTheme.ink, fontWeight: FontWeight.w500)),
                       ),
                       const SizedBox(height: 16),
@@ -610,7 +611,7 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
                 padding: const EdgeInsets.symmetric(horizontal: 18, vertical: 16),
                 decoration: BoxDecoration(
                   color: AppTheme.inkFaint.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(AppTheme.rMd)),
-                child: const Icon(Icons.arrow_back_rounded, color: AppTheme.inkSoft, size: 20)),
+                child: Icon(Icons.arrow_back_rounded, color: AppTheme.inkSoft, size: 20)),
             ),
           if (_current > 0) const SizedBox(width: 12),
           Expanded(
@@ -683,10 +684,10 @@ class _MockResultScreen extends StatelessWidget {
                     padding: const EdgeInsets.all(9),
                     decoration: BoxDecoration(
                       color: AppTheme.secondary.withValues(alpha: 0.10), borderRadius: BorderRadius.circular(13)),
-                    child: const Icon(Icons.home_rounded, size: 20, color: AppTheme.secondary)),
+                    child: Icon(Icons.home_rounded, size: 20, color: AppTheme.secondary)),
                 ),
                 const SizedBox(width: 12),
-                const Text('Test Results', style: TextStyle(
+                Text('Test Results', style: TextStyle(
                   fontSize: 20, fontWeight: FontWeight.w800, color: AppTheme.ink)),
               ]),
               const SizedBox(height: 20),
@@ -763,7 +764,7 @@ class _MockResultScreen extends StatelessWidget {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Row(children: const [
+          Row(children: [
             Icon(Icons.insights_rounded, size: 18, color: AppTheme.secondary),
             SizedBox(width: 8),
             Text('Subject Performance', style: TextStyle(fontWeight: FontWeight.w800, fontSize: 15, color: AppTheme.ink)),
@@ -777,7 +778,7 @@ class _MockResultScreen extends StatelessWidget {
               child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
                 Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
                   Text(GithubService.subjectDisplayNames[entry.key] ?? entry.key,
-                    style: const TextStyle(fontSize: 13.5, fontWeight: FontWeight.w600, color: AppTheme.ink)),
+                    style: TextStyle(fontSize: 13.5, fontWeight: FontWeight.w600, color: AppTheme.ink)),
                   Text('${pct.toStringAsFixed(0)}%  ·  ${entry.value.length} Qs',
                     style: TextStyle(fontSize: 12.5, fontWeight: FontWeight.w800, color: color)),
                 ]),

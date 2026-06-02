@@ -219,10 +219,10 @@ class _HomeScreenState extends State<HomeScreen> {
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(greeting, style: const TextStyle(
+                Text(greeting, style: TextStyle(
                   fontSize: 13.5, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
                 const SizedBox(height: 2),
-                const Text('Ready to study?', style: TextStyle(
+                Text('Ready to study?', style: TextStyle(
                   fontWeight: FontWeight.w800,
                   fontSize: 21, letterSpacing: -0.3, color: AppTheme.ink)),
               ],
@@ -240,7 +240,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 border: Border.all(color: AppTheme.line),
                 boxShadow: AppTheme.cardShadow,
               ),
-              child: const Icon(Icons.notifications_outlined, size: 21, color: AppTheme.inkSoft),
+              child: Icon(Icons.notifications_outlined, size: 21, color: AppTheme.inkSoft),
             ),
           ),
           const SizedBox(width: 12),
@@ -250,7 +250,7 @@ class _HomeScreenState extends State<HomeScreen> {
             )).then((_) => _loadProgress()),
             child: Container(
               width: 40, height: 40,
-              decoration: const BoxDecoration(
+              decoration: BoxDecoration(
                 color: AppTheme.primary,
                 shape: BoxShape.circle,
               ),
@@ -298,7 +298,7 @@ class _HomeScreenState extends State<HomeScreen> {
                         color: Colors.white.withValues(alpha: 0.16),
                         borderRadius: BorderRadius.circular(15),
                       ),
-                      child: const Icon(Icons.calendar_month_rounded,
+                      child: Icon(Icons.calendar_month_rounded,
                         size: 25, color: AppTheme.accent),
                     ),
                     const SizedBox(width: 13),
@@ -417,15 +417,15 @@ class _HomeScreenState extends State<HomeScreen> {
                     crossAxisAlignment: CrossAxisAlignment.baseline,
                     textBaseline: TextBaseline.alphabetic,
                     children: [
-                      Text('$totalWeek', style: const TextStyle(
+                      Text('$totalWeek', style: TextStyle(
                         fontSize: 21, fontWeight: FontWeight.w800,
                         letterSpacing: -0.4, color: AppTheme.ink)),
                       const SizedBox(width: 7),
-                      const Text('Qs this week', style: TextStyle(
+                      Text('Qs this week', style: TextStyle(
                         fontSize: 12, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
                       if (attempted > 0) ...[
                         const SizedBox(width: 6),
-                        const Text('↑ 12%', style: TextStyle(
+                        Text('↑ 12%', style: TextStyle(
                           fontSize: 12.5, color: AppTheme.primary, fontWeight: FontWeight.w700)),
                       ],
                     ],
@@ -438,11 +438,11 @@ class _HomeScreenState extends State<HomeScreen> {
                     borderRadius: BorderRadius.circular(999),
                   ),
                   child: Row(mainAxisSize: MainAxisSize.min, children: [
-                    const Icon(Icons.local_fire_department_rounded,
+                    Icon(Icons.local_fire_department_rounded,
                       size: 14, color: AppTheme.secondary),
                     const SizedBox(width: 4),
                     Text('$streakDays-day streak',
-                      style: const TextStyle(
+                      style: TextStyle(
                         fontSize: 12.5, color: AppTheme.secondary, fontWeight: FontWeight.w700)),
                   ]),
                 ),
@@ -534,11 +534,11 @@ class _HomeScreenState extends State<HomeScreen> {
           Row(mainAxisAlignment: MainAxisAlignment.center, children: [
             Icon(icon, size: 14, color: fg),
             const SizedBox(width: 5),
-            Text(label, style: const TextStyle(
+            Text(label, style: TextStyle(
               fontSize: 11.5, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
           ]),
           const SizedBox(height: 3),
-          Text(value, style: const TextStyle(
+          Text(value, style: TextStyle(
             fontWeight: FontWeight.w800, fontSize: 17, color: AppTheme.ink)),
         ],
       ),
@@ -566,7 +566,7 @@ class _HomeScreenState extends State<HomeScreen> {
               size: 58, stroke: 6, value: progress.clamp(0.0, 1.0),
               trackColor: AppTheme.lineSoft, ringColor: AppTheme.primary,
               child: Text('${(progress * 100).round()}%',
-                style: const TextStyle(
+                style: TextStyle(
                   fontSize: 14, fontWeight: FontWeight.w800, color: AppTheme.ink)),
             ),
             const SizedBox(width: 15),
@@ -574,10 +574,10 @@ class _HomeScreenState extends State<HomeScreen> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Text('Daily goal', style: TextStyle(
+                  Text('Daily goal', style: TextStyle(
                     fontSize: 12, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
                   const SizedBox(height: 1),
-                  Text('$goalDone / $goalTotal questions', style: const TextStyle(
+                  Text('$goalDone / $goalTotal questions', style: TextStyle(
                     fontWeight: FontWeight.w800, fontSize: 18,
                     color: AppTheme.ink, letterSpacing: -0.2)),
                   const SizedBox(height: 1),
@@ -585,7 +585,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     goalDone >= goalTotal
                       ? 'Goal complete — keep going!'
                       : '${goalTotal - goalDone} more to keep your streak',
-                    style: const TextStyle(
+                    style: TextStyle(
                       fontSize: 12, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
                 ],
               ),
@@ -612,11 +612,11 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _buildScrollHint() {
     return Column(
       children: [
-        const Text('Scroll for more', style: TextStyle(
+        Text('Scroll for more', style: TextStyle(
           fontSize: 11.5, color: AppTheme.inkFaint,
           fontWeight: FontWeight.w700, letterSpacing: 0.3)),
         const SizedBox(height: 2),
-        const Icon(Icons.keyboard_arrow_down_rounded,
+        Icon(Icons.keyboard_arrow_down_rounded,
           size: 18, color: AppTheme.inkFaint),
       ],
     );
@@ -651,7 +651,7 @@ class _HomeScreenState extends State<HomeScreen> {
       _Tile('Mock Test', 'Full / mini', Icons.timer_rounded,
         AppTheme.terraSoft, AppTheme.secondary, _mockNavIndex),
       _Tile('Flashcards', 'Spaced repetition', Icons.style_rounded,
-        AppTheme.goldSoft, const Color(0xFFB98A2E), _flashNavIndex),
+        AppTheme.goldSoft, AppTheme.gold, _flashNavIndex),
       _Tile('AI Tutor', 'Ask anything', Icons.auto_awesome_rounded,
         AppTheme.blueSoft, AppTheme.lavender, 2),
     ];
@@ -693,12 +693,12 @@ class _HomeScreenState extends State<HomeScreen> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        Text(t.label, style: const TextStyle(
+                        Text(t.label, style: TextStyle(
                           fontWeight: FontWeight.w700, fontSize: 13.5,
                           letterSpacing: -0.1, color: AppTheme.ink),
                           maxLines: 1, overflow: TextOverflow.ellipsis),
                         const SizedBox(height: 1),
-                        Text(t.sub, style: const TextStyle(
+                        Text(t.sub, style: TextStyle(
                           fontSize: 11.5, color: AppTheme.inkFaint,
                           fontWeight: FontWeight.w600),
                           maxLines: 1, overflow: TextOverflow.ellipsis),
@@ -800,14 +800,14 @@ class _HomeScreenState extends State<HomeScreen> {
           const SizedBox(width: 14),
           Expanded(
             child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-              Text(label, style: const TextStyle(
+              Text(label, style: TextStyle(
                 fontWeight: FontWeight.w700, fontSize: 14.5, color: AppTheme.ink)),
               const SizedBox(height: 2),
               Text('${entry.attempted} questions · ${entry.accuracy.toStringAsFixed(0)}% accuracy',
-                style: const TextStyle(fontSize: 12, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
+                style: TextStyle(fontSize: 12, color: AppTheme.inkFaint, fontWeight: FontWeight.w600)),
             ]),
           ),
-          const Icon(Icons.chevron_right_rounded, size: 20, color: AppTheme.inkFaint),
+          Icon(Icons.chevron_right_rounded, size: 20, color: AppTheme.inkFaint),
         ]),
       ),
     );
@@ -816,11 +816,11 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget _sectionRow(String title, String? action) {
     return Row(
       children: [
-        Expanded(child: Text(title, style: const TextStyle(
+        Expanded(child: Text(title, style: TextStyle(
           fontWeight: FontWeight.w800, fontSize: 16,
           letterSpacing: -0.3, color: AppTheme.ink))),
         if (action != null)
-          Text(action, style: const TextStyle(
+          Text(action, style: TextStyle(
             fontSize: 13, color: AppTheme.primary, fontWeight: FontWeight.w700)),
       ],
     );

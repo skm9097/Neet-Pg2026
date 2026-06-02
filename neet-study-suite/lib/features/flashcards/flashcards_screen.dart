@@ -90,7 +90,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
           ),
           Expanded(
             child: _loading
-                ? const Center(child: CircularProgressIndicator(color: AppTheme.secondary))
+                ? Center(child: CircularProgressIndicator(color: AppTheme.secondary))
                 : TabBarView(
                     controller: _tabs,
                     children: [_buildReviewTab(), _buildAllCardsTab(), _buildGenerateTab()],
@@ -201,7 +201,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(card.front, maxLines: 2, overflow: TextOverflow.ellipsis,
-                  style: const TextStyle(fontWeight: FontWeight.w600, fontSize: 14.5, color: AppTheme.ink, height: 1.35)),
+                  style: TextStyle(fontWeight: FontWeight.w600, fontSize: 14.5, color: AppTheme.ink, height: 1.35)),
                 const SizedBox(height: 6),
                 SoftChip(
                   label: GithubService.subjectDisplayNames[card.subject] ?? card.subject,
@@ -337,13 +337,13 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
             const SizedBox(height: 18),
             SoftChip(label: GithubService.subjectDisplayNames[card.subject] ?? card.subject, color: AppTheme.secondary),
             const SizedBox(height: 16),
-            const Text('FRONT', style: TextStyle(color: AppTheme.inkFaint, fontWeight: FontWeight.w700, fontSize: 11, letterSpacing: 1)),
+            Text('FRONT', style: TextStyle(color: AppTheme.inkFaint, fontWeight: FontWeight.w700, fontSize: 11, letterSpacing: 1)),
             const SizedBox(height: 6),
-            Text(card.front, style: const TextStyle(fontSize: 16, height: 1.5, color: AppTheme.ink, fontWeight: FontWeight.w500)),
+            Text(card.front, style: TextStyle(fontSize: 16, height: 1.5, color: AppTheme.ink, fontWeight: FontWeight.w500)),
             const SizedBox(height: 18),
-            const Text('BACK', style: TextStyle(color: AppTheme.inkFaint, fontWeight: FontWeight.w700, fontSize: 11, letterSpacing: 1)),
+            Text('BACK', style: TextStyle(color: AppTheme.inkFaint, fontWeight: FontWeight.w700, fontSize: 11, letterSpacing: 1)),
             const SizedBox(height: 6),
-            Text(card.back, style: const TextStyle(fontSize: 15.5, height: 1.55, color: AppTheme.ink)),
+            Text(card.back, style: TextStyle(fontSize: 15.5, height: 1.55, color: AppTheme.ink)),
             const SizedBox(height: 18),
             Container(
               padding: const EdgeInsets.all(12),
@@ -361,8 +361,8 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
   }
 
   Widget _miniStat(String label, String value) => Column(children: [
-    Text(value, style: const TextStyle(fontWeight: FontWeight.w800, color: AppTheme.secondary, fontSize: 16)),
-    Text(label, style: const TextStyle(color: AppTheme.inkSoft, fontSize: 11)),
+    Text(value, style: TextStyle(fontWeight: FontWeight.w800, color: AppTheme.secondary, fontSize: 16)),
+    Text(label, style: TextStyle(color: AppTheme.inkSoft, fontSize: 11)),
   ]);
 
   Future<void> _confirmDelete(Flashcard card) async {
@@ -429,7 +429,7 @@ class _FlashcardReviewSessionState extends State<_FlashcardReviewSession> {
           child: Column(children: [
             Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
               Text('Card ${_index + 1} of ${widget.cards.length}',
-                style: const TextStyle(color: AppTheme.inkSoft, fontSize: 12.5, fontWeight: FontWeight.w600)),
+                style: TextStyle(color: AppTheme.inkSoft, fontSize: 12.5, fontWeight: FontWeight.w600)),
               SoftChip(label: GithubService.subjectDisplayNames[card.subject] ?? card.subject, color: AppTheme.secondary),
             ]),
             const SizedBox(height: 10),
@@ -497,7 +497,7 @@ class _FlashcardReviewSessionState extends State<_FlashcardReviewSession> {
                 ),
                 const SizedBox(height: 22),
                 if (!isBack)
-                  Row(mainAxisAlignment: MainAxisAlignment.center, children: const [
+                  Row(mainAxisAlignment: MainAxisAlignment.center, children: [
                     Icon(Icons.touch_app_rounded, size: 15, color: AppTheme.inkFaint),
                     SizedBox(width: 6),
                     Text('Tap to flip', style: TextStyle(color: AppTheme.inkFaint, fontSize: 12.5)),
@@ -515,7 +515,7 @@ class _FlashcardReviewSessionState extends State<_FlashcardReviewSession> {
       padding: const EdgeInsets.symmetric(horizontal: 20),
       child: Column(
         children: [
-          const Text('How well did you remember?',
+          Text('How well did you remember?',
             style: TextStyle(color: AppTheme.inkSoft, fontSize: 13, fontWeight: FontWeight.w600)),
           const SizedBox(height: 12),
           Row(children: [
@@ -614,14 +614,14 @@ class _TopicFlashcardGeneratorState extends State<_TopicFlashcardGenerator> {
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        const Text('Topic', style: TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink, fontSize: 14)),
+        Text('Topic', style: TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink, fontSize: 14)),
         const SizedBox(height: 8),
         TextField(
           controller: _ctrl,
           decoration: const InputDecoration(hintText: 'e.g. Thyroid hormones, Vitamin D, Beta blockers'),
         ),
         const SizedBox(height: 16),
-        const Text('Subject', style: TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink, fontSize: 14)),
+        Text('Subject', style: TextStyle(fontWeight: FontWeight.w700, color: AppTheme.ink, fontSize: 14)),
         const SizedBox(height: 8),
         DropdownButtonFormField<String>(
           value: _subject,
@@ -639,7 +639,7 @@ class _TopicFlashcardGeneratorState extends State<_TopicFlashcardGenerator> {
             decoration: BoxDecoration(
               color: AppTheme.warning.withValues(alpha: 0.12),
               borderRadius: BorderRadius.circular(16)),
-            child: Row(children: const [
+            child: Row(children: [
               Icon(Icons.info_outline_rounded, color: AppTheme.warning, size: 20),
               SizedBox(width: 10),
               Expanded(child: Text('Add an AI provider key in Settings to generate cards.',

@@ -23,15 +23,15 @@ class _QBankScreenState extends State<QBankScreen>
   int _questionCount = 20;
   static const List<int> _countOptions = [10, 20, 30, 50, 100];
 
-  static const List<Color> _yearColors = [
-    AppTheme.primary, AppTheme.secondary, Color(0xFFB98A2E),
+  static List<Color> get _yearColors => [
+    AppTheme.primary, AppTheme.secondary, AppTheme.gold,
     AppTheme.lavender, AppTheme.correct, AppTheme.primary,
-    Color(0xFF9B6A8C), AppTheme.secondary, Color(0xFFB98A2E),
+    const Color(0xFF9B6A8C), AppTheme.secondary, AppTheme.gold,
     AppTheme.lavender, AppTheme.correct,
   ];
-  static const List<Color> _subjectColors = [
-    AppTheme.primary, AppTheme.secondary, Color(0xFFB98A2E),
-    AppTheme.lavender, AppTheme.correct, Color(0xFF9B6A8C),
+  static List<Color> get _subjectColors => [
+    AppTheme.primary, AppTheme.secondary, AppTheme.gold,
+    AppTheme.lavender, AppTheme.correct, const Color(0xFF9B6A8C),
     AppTheme.primary, AppTheme.secondary,
   ];
 
@@ -310,7 +310,7 @@ class _QBankScreenState extends State<QBankScreen>
     return Column(
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
-        const Text('Number of questions', style: TextStyle(
+        Text('Number of questions', style: TextStyle(
           fontWeight: FontWeight.w700, fontSize: 13.5, color: AppTheme.inkSoft)),
         const SizedBox(height: 12),
         Wrap(

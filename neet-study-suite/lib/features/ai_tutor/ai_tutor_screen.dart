@@ -99,7 +99,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
             padding: const EdgeInsets.all(8),
             decoration: BoxDecoration(
               color: AppTheme.greenTint, borderRadius: BorderRadius.circular(12)),
-            child: const Icon(Icons.arrow_back_rounded, size: 20, color: AppTheme.primary),
+            child: Icon(Icons.arrow_back_rounded, size: 20, color: AppTheme.primary),
           ),
         ),
         const SizedBox(width: 12),
@@ -113,7 +113,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
           child: const Icon(Icons.auto_awesome_rounded, color: Colors.white, size: 18),
         ),
         const SizedBox(width: 12),
-        const Expanded(
+        Expanded(
           child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
             Text('AI Tutor', style: TextStyle(
               fontSize: 17, fontWeight: FontWeight.w800, color: AppTheme.ink)),
@@ -155,17 +155,17 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
           ),
         ),
         const SizedBox(height: 18),
-        const Text('Hi! I\'m your AI Tutor', textAlign: TextAlign.center,
+        Text('Hi! I\'m your AI Tutor', textAlign: TextAlign.center,
           style: TextStyle(fontSize: 19, fontWeight: FontWeight.w800,
             color: AppTheme.ink, letterSpacing: -0.3)),
         const SizedBox(height: 8),
-        const Text(
+        Text(
           'Ask me about any medical concept, exam topic, or paste a tricky question.',
           textAlign: TextAlign.center,
           style: TextStyle(color: AppTheme.inkFaint, height: 1.55, fontSize: 14),
         ),
         const SizedBox(height: 24),
-        const Row(children: [
+        Row(children: [
           Icon(Icons.lightbulb_outline_rounded, size: 15, color: AppTheme.accent),
           SizedBox(width: 6),
           Text('Try asking', style: TextStyle(
@@ -194,9 +194,9 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
                     child: Icon(e.value.$2, size: 18, color: AppTheme.primary),
                   ),
                   const SizedBox(width: 14),
-                  Expanded(child: Text(e.value.$1, style: const TextStyle(
+                  Expanded(child: Text(e.value.$1, style: TextStyle(
                     fontWeight: FontWeight.w600, fontSize: 14, color: AppTheme.ink))),
-                  const Icon(Icons.north_east_rounded, size: 15, color: AppTheme.inkFaint),
+                  Icon(Icons.north_east_rounded, size: 15, color: AppTheme.inkFaint),
                 ]),
               ),
             ),
@@ -229,7 +229,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
             if (!msg.isUser) ...[
               Container(
                 padding: const EdgeInsets.all(7),
-                decoration: const BoxDecoration(color: AppTheme.primary, shape: BoxShape.circle),
+                decoration: BoxDecoration(color: AppTheme.primary, shape: BoxShape.circle),
                 child: const Icon(Icons.auto_awesome_rounded, size: 14, color: Colors.white),
               ),
               const SizedBox(width: 9),
@@ -258,7 +258,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
                       padding: const EdgeInsets.only(top: 4, left: 4),
                       child: TapScale(
                         onTap: () => widget.tts.speak(msg.text),
-                        child: const Row(mainAxisSize: MainAxisSize.min, children: [
+                        child: Row(mainAxisSize: MainAxisSize.min, children: [
                           Icon(Icons.volume_up_rounded, size: 13, color: AppTheme.inkFaint),
                           SizedBox(width: 4),
                           Text('Read aloud', style: TextStyle(fontSize: 11, color: AppTheme.inkFaint)),
@@ -272,8 +272,8 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
               const SizedBox(width: 9),
               Container(
                 padding: const EdgeInsets.all(7),
-                decoration: const BoxDecoration(color: AppTheme.greenSoft, shape: BoxShape.circle),
-                child: const Icon(Icons.person_rounded, size: 14, color: AppTheme.primary),
+                decoration: BoxDecoration(color: AppTheme.greenSoft, shape: BoxShape.circle),
+                child: Icon(Icons.person_rounded, size: 14, color: AppTheme.primary),
               ),
             ],
           ],
@@ -288,7 +288,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
       child: Row(children: [
         Container(
           padding: const EdgeInsets.all(7),
-          decoration: const BoxDecoration(color: AppTheme.primary, shape: BoxShape.circle),
+          decoration: BoxDecoration(color: AppTheme.primary, shape: BoxShape.circle),
           child: const Icon(Icons.auto_awesome_rounded, size: 14, color: Colors.white),
         ),
         const SizedBox(width: 9),
@@ -326,7 +326,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
               child: TextField(
                 controller: _ctrl,
                 maxLines: 4, minLines: 1,
-                decoration: const InputDecoration(
+                decoration: InputDecoration(
                   hintText: 'Ask me anything medical…',
                   hintStyle: TextStyle(color: AppTheme.inkFaint, fontSize: 14),
                   border: InputBorder.none,
@@ -390,7 +390,7 @@ class _TypingDotsState extends State<_TypingDots> with SingleTickerProviderState
               scale: scale,
               child: Container(
                 width: 7, height: 7,
-                decoration: const BoxDecoration(
+                decoration: BoxDecoration(
                   color: AppTheme.primary, shape: BoxShape.circle)),
             ),
           );

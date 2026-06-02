@@ -157,7 +157,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                       decoration: BoxDecoration(
                         color: AppTheme.incorrect.withValues(alpha: 0.12),
                         borderRadius: BorderRadius.circular(12)),
-                      child: const Icon(Icons.delete_outline_rounded, color: AppTheme.incorrect, size: 20),
+                      child: Icon(Icons.delete_outline_rounded, color: AppTheme.incorrect, size: 20),
                     ),
                     title: const Text('Clear Progress Data', style: TextStyle(fontWeight: FontWeight.w600)),
                     subtitle: const Text('Reset all study statistics'),
@@ -165,7 +165,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   ),
                 ),
                 const SizedBox(height: 24),
-                const Center(
+                Center(
                   child: Text('NEET-PG Study Suite v1.2.0',
                     style: TextStyle(color: AppTheme.inkFaint, fontSize: 12)),
                 ),
@@ -303,7 +303,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            const Row(
+            Row(
               children: [
                 Icon(Icons.compare, size: 16, color: AppTheme.primary),
                 SizedBox(width: 6),
@@ -355,7 +355,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
             mainAxisSize: MainAxisSize.min,
             children: [
               Text('Website: ${provider.signupUrl}',
-                style: const TextStyle(fontWeight: FontWeight.bold, color: AppTheme.primary)),
+                style: TextStyle(fontWeight: FontWeight.bold, color: AppTheme.primary)),
               const SizedBox(height: 12),
               ...steps.asMap().entries.map((e) => Padding(
                 padding: const EdgeInsets.only(bottom: 8),
@@ -418,7 +418,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
 
   Widget _sectionHeader(String title) => Padding(
     padding: const EdgeInsets.only(bottom: 8),
-    child: Text(title, style: const TextStyle(
+    child: Text(title, style: TextStyle(
       fontWeight: FontWeight.bold, color: AppTheme.primary, fontSize: 13,
       letterSpacing: 0.5,
     )),
