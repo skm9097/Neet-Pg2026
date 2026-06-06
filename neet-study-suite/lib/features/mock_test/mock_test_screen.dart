@@ -6,6 +6,7 @@ import '../../services/gemini_service.dart';
 import '../../services/github_service.dart';
 import '../../services/markdown_parser.dart';
 import '../../services/progress_service.dart';
+import '../../services/github_sync_service.dart';
 import '../../core/theme/app_theme.dart';
 import '../../core/widgets/soft_widgets.dart';
 
@@ -404,12 +405,16 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
   final Map<int, String> _answers = {};
   late DateTime _startTime;
   late DateTime _endTime;
+  late final String _sessionId;
 
   @override
   void initState() {
     super.initState();
     _startTime = DateTime.now();
     _endTime = _startTime.add(widget.duration);
+    final dt = _startTime;
+    _sessionId =
+        '${dt.year}-${dt.month.toString().padLeft(2,'0')}-${dt.day.toString().padLeft(2,'0')}_mock-test-${widget.count}q';
     _loadQuestions();
   }
 
@@ -446,9 +451,18 @@ class _TimedTestScreenState extends State<_TimedTestScreen> {
     ));
 
     final correct = attempts.where((a) => a.isCorrect).length;
+    final timeTaken = DateTime.now().difference(_startTime);
     final source = 'mock_${widget.count}q';
-    ProgressService.record(source, attempts.length, correct,
-      timeSpent: DateTime.now().difference(_startTime));
+    ProgressService.record(source, attempts.length, correct, timeSpent: timeTaken);
+
+    GithubSyncService.processBatchMistakes(
+      attempts: attempts,
+      questions: _questions,
+      sessionId: _sessionId,
+      gemini: widget.gemini,
+      correct: correct,
+      timeTaken: timeTaken,
+    );
 
     Navigator.pushReplacement(
       context,

@@ -7,6 +7,7 @@ import '../../services/github_service.dart';
 import '../../services/markdown_parser.dart';
 import '../../services/bookmark_service.dart';
 import '../../services/flashcard_service.dart';
+import '../../services/github_sync_service.dart';
 import '../../core/theme/app_theme.dart';
 import '../../core/widgets/soft_widgets.dart';
 import 'result_screen.dart';
@@ -44,10 +45,14 @@ class _QuizScreenState extends State<QuizScreen> {
   bool _loadingDetailed = false;
   bool _bookmarked = false;
   final List<QuizAttempt> _attempts = [];
+  late final String _sessionId;
 
   @override
   void initState() {
     super.initState();
+    final now = DateTime.now();
+    _sessionId =
+        '${now.year}-${now.month.toString().padLeft(2,'0')}-${now.day.toString().padLeft(2,'0')}_${widget.mode}-${widget.source}';
     _loadQuestions();
   }
 
@@ -127,6 +132,15 @@ class _QuizScreenState extends State<QuizScreen> {
       isCorrect: isCorrect,
       subject: q.subject,
     ));
+
+    if (!isCorrect) {
+      GithubSyncService.queueMistake(
+        question: q,
+        wrongOption: option,
+        sessionId: _sessionId,
+        gemini: widget.gemini,
+      );
+    }
 
     final feedback = await widget.gemini.getQuickFeedback(
       stem: q.stem,

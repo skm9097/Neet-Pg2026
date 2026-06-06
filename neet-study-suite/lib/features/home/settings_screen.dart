@@ -4,6 +4,7 @@ import '../../services/gemini_service.dart';
 import '../../services/tts_service.dart';
 import '../../services/progress_service.dart';
 import '../../services/app_settings.dart';
+import '../../services/github_sync_service.dart';
 import '../../services/providers/ai_provider.dart';
 import '../../core/theme/app_theme.dart';
 import '../../core/widgets/soft_widgets.dart';
@@ -28,6 +29,14 @@ class _SettingsScreenState extends State<SettingsScreen> {
   final _nameCtrl = TextEditingController();
   final _examNameCtrl = TextEditingController();
 
+  // GitHub Sync
+  final _patCtrl = TextEditingController();
+  bool _showPat = false;
+  bool _syncBusy = false;
+  String? _syncResult;
+  bool _syncSuccess = false;
+  int _pendingMistakes = 0;
+
   AiProviderType _selectedProvider = AiProviderType.gemini;
   bool _showKey = false;
   bool _ttsEnabled = true;
@@ -46,6 +55,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
   Future<void> _load() async {
     final prefs = await SharedPreferences.getInstance();
     final typeName = prefs.getString('ai_provider_type') ?? 'gemini';
+    final pat = await GithubSyncService.getPat();
+    final pending = await GithubSyncService.pendingCount();
     if (mounted) setState(() {
       _selectedProvider = AiProviderType.values.firstWhere(
         (t) => t.name == typeName, orElse: () => AiProviderType.gemini);
@@ -53,6 +64,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
       _groqCtrl.text = prefs.getString('groq_api_key') ?? '';
       _openrouterCtrl.text = prefs.getString('openrouter_api_key') ?? '';
       _ttsEnabled = widget.tts.isEnabled;
+      _patCtrl.text = pat ?? '';
+      _pendingMistakes = pending;
     });
   }
 
@@ -101,6 +114,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
     _openrouterCtrl.dispose();
     _nameCtrl.dispose();
     _examNameCtrl.dispose();
+    _patCtrl.dispose();
     super.dispose();
   }
 
@@ -167,6 +181,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     },
                   ),
                 ),
+                const SizedBox(height: 16),
+                _sectionHeader('GitHub Sync'),
+                _buildGithubSyncCard(),
                 const SizedBox(height: 16),
                 _sectionHeader('Data'),
                 Card(
@@ -608,6 +625,130 @@ class _SettingsScreenState extends State<SettingsScreen> {
           'Paste it above and tap Save & Test',
           'Free models available with no credit card needed',
         ];
+    }
+  }
+
+  Widget _buildGithubSyncCard() {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(16),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(children: [
+              Icon(Icons.cloud_sync_rounded, size: 18, color: AppTheme.primary),
+              const SizedBox(width: 8),
+              const Text('Push mistakes to GitHub repo',
+                style: TextStyle(fontWeight: FontWeight.w700, fontSize: 13.5)),
+            ]),
+            const SizedBox(height: 6),
+            Text(
+              'When you answer a question wrong, the app enriches it via AI and pushes a .md file to your repo for the Windows desktop app to display.',
+              style: TextStyle(color: AppTheme.inkFaint, fontSize: 12, height: 1.5),
+            ),
+            const SizedBox(height: 14),
+            const Text('Personal Access Token (PAT)',
+              style: TextStyle(fontWeight: FontWeight.w600, fontSize: 13)),
+            const SizedBox(height: 4),
+            Text('Create at github.com → Settings → Developer settings → Tokens (classic). Needs "contents: write" scope on skm9097/neet-pg2026.',
+              style: TextStyle(color: AppTheme.inkFaint, fontSize: 11.5, height: 1.4)),
+            const SizedBox(height: 8),
+            TextField(
+              controller: _patCtrl,
+              obscureText: !_showPat,
+              decoration: InputDecoration(
+                hintText: 'ghp_xxxxxxxxxxxxxxxxxxxx',
+                border: const OutlineInputBorder(),
+                suffixIcon: IconButton(
+                  icon: Icon(_showPat ? Icons.visibility_off : Icons.visibility),
+                  onPressed: () => setState(() => _showPat = !_showPat),
+                ),
+              ),
+              onChanged: (_) => setState(() => _syncResult = null),
+            ),
+            const SizedBox(height: 12),
+            Row(children: [
+              Expanded(
+                child: FilledButton.icon(
+                  onPressed: _syncBusy ? null : _savePat,
+                  icon: const Icon(Icons.save_rounded, size: 18),
+                  label: const Text('Save Token'),
+                ),
+              ),
+              const SizedBox(width: 10),
+              Expanded(
+                child: OutlinedButton.icon(
+                  onPressed: _syncBusy || _pendingMistakes == 0 ? null : _flushSync,
+                  icon: _syncBusy
+                      ? const SizedBox(width: 14, height: 14,
+                          child: CircularProgressIndicator(strokeWidth: 2))
+                      : const Icon(Icons.upload_rounded, size: 18),
+                  label: Text(_syncBusy
+                      ? 'Syncing…'
+                      : _pendingMistakes > 0
+                          ? 'Sync ($_pendingMistakes pending)'
+                          : 'Nothing pending'),
+                ),
+              ),
+            ]),
+            if (_syncResult != null) ...[
+              const SizedBox(height: 10),
+              Container(
+                width: double.infinity,
+                padding: const EdgeInsets.all(10),
+                decoration: BoxDecoration(
+                  color: _syncSuccess ? Colors.green[50] : Colors.red[50],
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(
+                    color: _syncSuccess ? AppTheme.correct : AppTheme.incorrect),
+                ),
+                child: Row(children: [
+                  Icon(
+                    _syncSuccess ? Icons.check_circle_outline : Icons.error_outline,
+                    color: _syncSuccess ? AppTheme.correct : AppTheme.incorrect,
+                    size: 16),
+                  const SizedBox(width: 8),
+                  Expanded(child: Text(_syncResult!,
+                    style: TextStyle(
+                      color: _syncSuccess ? AppTheme.correct : AppTheme.incorrect,
+                      fontSize: 12, height: 1.4))),
+                ]),
+              ),
+            ],
+          ],
+        ),
+      ),
+    );
+  }
+
+  Future<void> _savePat() async {
+    final pat = _patCtrl.text.trim();
+    await GithubSyncService.setPat(pat);
+    if (mounted) setState(() {
+      _syncResult = pat.isEmpty ? 'Token cleared.' : 'Token saved.';
+      _syncSuccess = true;
+    });
+  }
+
+  Future<void> _flushSync() async {
+    setState(() { _syncBusy = true; _syncResult = null; });
+    try {
+      final pushed = await GithubSyncService.flushOfflineQueue(widget.gemini);
+      final remaining = await GithubSyncService.pendingCount();
+      if (mounted) setState(() {
+        _pendingMistakes = remaining;
+        _syncSuccess = true;
+        _syncResult = pushed > 0
+            ? 'Pushed $pushed mistake${pushed == 1 ? '' : 's'} to GitHub.'
+            : 'Nothing to push.';
+      });
+    } catch (e) {
+      if (mounted) setState(() {
+        _syncSuccess = false;
+        _syncResult = 'Sync failed: $e';
+      });
+    } finally {
+      if (mounted) setState(() => _syncBusy = false);
     }
   }
 
