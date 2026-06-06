@@ -285,7 +285,7 @@ class _QBankScreenState extends State<QBankScreen>
     return Container(
       padding: const EdgeInsets.fromLTRB(20, 16, 20, 22),
       decoration: BoxDecoration(
-        color: Colors.white,
+        color: AppTheme.cardBg,
         borderRadius: const BorderRadius.vertical(top: Radius.circular(AppTheme.rXl)),
         border: Border(top: BorderSide(color: AppTheme.line)),
         boxShadow: [BoxShadow(

@@ -6,6 +6,7 @@ import '../../services/progress_service.dart';
 import '../../services/app_settings.dart';
 import '../../services/github_sync_service.dart';
 import '../../services/providers/ai_provider.dart';
+import 'sync_status_screen.dart';
 import '../../core/theme/app_theme.dart';
 import '../../core/widgets/soft_widgets.dart';
 
@@ -697,7 +698,9 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 width: double.infinity,
                 padding: const EdgeInsets.all(10),
                 decoration: BoxDecoration(
-                  color: _syncSuccess ? Colors.green[50] : Colors.red[50],
+                  color: _syncSuccess
+                      ? AppTheme.correct.withValues(alpha: 0.10)
+                      : AppTheme.incorrect.withValues(alpha: 0.10),
                   borderRadius: BorderRadius.circular(8),
                   border: Border.all(
                     color: _syncSuccess ? AppTheme.correct : AppTheme.incorrect),
@@ -715,6 +718,16 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ]),
               ),
             ],
+            const SizedBox(height: 12),
+            SizedBox(
+              width: double.infinity,
+              child: OutlinedButton.icon(
+                onPressed: () => Navigator.push(context, MaterialPageRoute(
+                  builder: (_) => SyncStatusScreen(gemini: widget.gemini))),
+                icon: Icon(Icons.history_rounded, size: 16, color: AppTheme.primary),
+                label: Text('View Sync Activity', style: TextStyle(color: AppTheme.primary)),
+              ),
+            ),
           ],
         ),
       ),

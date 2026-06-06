@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_markdown/flutter_markdown.dart';
 import '../../services/gemini_service.dart';
 import '../../services/tts_service.dart';
 import '../../core/theme/app_theme.dart';
@@ -89,7 +90,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
     return Container(
       padding: const EdgeInsets.fromLTRB(16, 10, 16, 14),
       decoration: BoxDecoration(
-        color: Colors.white,
+        color: AppTheme.cardBg,
         border: Border(bottom: BorderSide(color: AppTheme.line)),
       ),
       child: Row(children: [
@@ -181,7 +182,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
               child: Container(
                 padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 14),
                 decoration: BoxDecoration(
-                  color: Colors.white,
+                  color: AppTheme.cardBg,
                   borderRadius: BorderRadius.circular(AppTheme.rMd),
                   border: Border.all(color: AppTheme.line),
                   boxShadow: AppTheme.cardShadow,
@@ -241,7 +242,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
                   Container(
                     padding: const EdgeInsets.all(14),
                     decoration: BoxDecoration(
-                      color: msg.isUser ? AppTheme.primary : Colors.white,
+                      color: msg.isUser ? AppTheme.primary : AppTheme.cardBg,
                       borderRadius: BorderRadius.circular(18).copyWith(
                         bottomRight: msg.isUser ? const Radius.circular(5) : null,
                         bottomLeft: msg.isUser ? null : const Radius.circular(5),
@@ -249,9 +250,10 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
                       border: msg.isUser ? null : Border.all(color: AppTheme.line),
                       boxShadow: AppTheme.cardShadow,
                     ),
-                    child: Text(msg.text, style: TextStyle(
-                      color: msg.isUser ? Colors.white : AppTheme.ink,
-                      height: 1.55, fontSize: 14.5)),
+                    child: msg.isUser
+                        ? Text(msg.text, style: const TextStyle(
+                            color: Colors.white, height: 1.55, fontSize: 14.5))
+                        : _MarkdownResponse(text: msg.text),
                   ),
                   if (!msg.isUser)
                     Padding(
@@ -295,7 +297,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
         Container(
           padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
           decoration: BoxDecoration(
-            color: Colors.white,
+            color: AppTheme.cardBg,
             borderRadius: BorderRadius.circular(18).copyWith(bottomLeft: const Radius.circular(5)),
             border: Border.all(color: AppTheme.line),
             boxShadow: AppTheme.cardShadow,
@@ -310,7 +312,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
     return Container(
       padding: const EdgeInsets.fromLTRB(14, 10, 14, 14),
       decoration: BoxDecoration(
-        color: Colors.white,
+        color: AppTheme.cardBg,
         border: Border(top: BorderSide(color: AppTheme.line)),
       ),
       child: SafeArea(
@@ -326,6 +328,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
               child: TextField(
                 controller: _ctrl,
                 maxLines: 4, minLines: 1,
+                style: TextStyle(color: AppTheme.ink, fontSize: 14),
                 decoration: InputDecoration(
                   hintText: 'Ask me anything medical…',
                   hintStyle: TextStyle(color: AppTheme.inkFaint, fontSize: 14),
@@ -333,7 +336,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
                   enabledBorder: InputBorder.none,
                   focusedBorder: InputBorder.none,
                   filled: false,
-                  contentPadding: EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+                  contentPadding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
                 ),
                 onSubmitted: (_) => _send(),
               ),
@@ -359,6 +362,64 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
     );
   }
 }
+
+// ─── Markdown renderer for AI responses ───────────────────────────────────────
+
+class _MarkdownResponse extends StatelessWidget {
+  final String text;
+  const _MarkdownResponse({required this.text});
+
+  @override
+  Widget build(BuildContext context) {
+    return MarkdownBody(
+      data: text,
+      selectable: true,
+      styleSheet: MarkdownStyleSheet(
+        p: TextStyle(color: AppTheme.ink, fontSize: 14.5, height: 1.6),
+        h1: TextStyle(color: AppTheme.ink, fontSize: 19, fontWeight: FontWeight.w800, height: 1.4),
+        h2: TextStyle(color: AppTheme.ink, fontSize: 17, fontWeight: FontWeight.w700, height: 1.4),
+        h3: TextStyle(color: AppTheme.ink, fontSize: 15, fontWeight: FontWeight.w700, height: 1.4),
+        h4: TextStyle(color: AppTheme.inkSoft, fontSize: 14, fontWeight: FontWeight.w600),
+        strong: TextStyle(color: AppTheme.ink, fontWeight: FontWeight.w700),
+        em: TextStyle(color: AppTheme.inkSoft, fontStyle: FontStyle.italic),
+        code: TextStyle(
+          fontFamily: 'monospace',
+          fontSize: 13,
+          color: AppTheme.secondary,
+          backgroundColor: AppTheme.terraSoft,
+        ),
+        codeblockDecoration: BoxDecoration(
+          color: AppTheme.terraSoft,
+          borderRadius: BorderRadius.circular(8),
+          border: Border.all(color: AppTheme.line),
+        ),
+        blockquoteDecoration: BoxDecoration(
+          color: AppTheme.greenTint,
+          borderRadius: BorderRadius.circular(6),
+          border: Border(left: BorderSide(color: AppTheme.primary, width: 3)),
+        ),
+        blockquotePadding: const EdgeInsets.fromLTRB(12, 8, 12, 8),
+        blockquote: TextStyle(color: AppTheme.inkSoft, fontSize: 14, height: 1.5),
+        listBullet: TextStyle(color: AppTheme.primary, fontSize: 14),
+        tableHead: TextStyle(color: AppTheme.ink, fontWeight: FontWeight.w700, fontSize: 13),
+        tableBody: TextStyle(color: AppTheme.ink, fontSize: 13),
+        tableBorder: TableBorder.all(color: AppTheme.line, width: 1),
+        tableHeadAlign: TextAlign.left,
+        tableCellsPadding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+        horizontalRuleDecoration: BoxDecoration(
+          border: Border(bottom: BorderSide(color: AppTheme.line, width: 1))),
+        a: TextStyle(color: AppTheme.primary, decoration: TextDecoration.underline),
+        h1Padding: const EdgeInsets.only(top: 8, bottom: 4),
+        h2Padding: const EdgeInsets.only(top: 6, bottom: 2),
+        h3Padding: const EdgeInsets.only(top: 4, bottom: 2),
+        blockSpacing: 8,
+        listIndent: 16,
+      ),
+    );
+  }
+}
+
+// ─── Typing animation ─────────────────────────────────────────────────────────
 
 class _TypingDots extends StatefulWidget {
   const _TypingDots();

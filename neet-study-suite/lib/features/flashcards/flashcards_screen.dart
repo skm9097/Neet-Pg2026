@@ -765,7 +765,7 @@ class _FlashcardReviewSessionState extends State<_FlashcardReviewSession> {
       width: double.infinity,
       decoration: BoxDecoration(
         gradient: isBack ? AppTheme.flashcardGradient : null,
-        color: isBack ? null : Colors.white,
+        color: isBack ? null : AppTheme.cardBg,
         borderRadius: BorderRadius.circular(AppTheme.rXl),
         boxShadow: isBack ? AppTheme.coloredShadow(AppTheme.secondary) : AppTheme.softShadow,
       ),

@@ -5,6 +5,38 @@ import '../models/question.dart';
 import '../models/quiz_attempt.dart';
 import 'gemini_service.dart';
 
+// ─── Log entry ────────────────────────────────────────────────────────────────
+
+class SyncLogEntry {
+  final DateTime timestamp;
+  final bool success;
+  final String detail;
+  final String action; // 'push' | 'queue' | 'error' | 'session'
+
+  const SyncLogEntry({
+    required this.timestamp,
+    required this.success,
+    required this.detail,
+    required this.action,
+  });
+
+  Map<String, dynamic> toJson() => {
+    'ts': timestamp.toIso8601String(),
+    'success': success,
+    'detail': detail,
+    'action': action,
+  };
+
+  factory SyncLogEntry.fromJson(Map<String, dynamic> m) => SyncLogEntry(
+    timestamp: DateTime.parse(m['ts'] as String),
+    success: m['success'] as bool,
+    detail: m['detail'] as String,
+    action: (m['action'] as String?) ?? 'push',
+  );
+}
+
+// ─── Private types ────────────────────────────────────────────────────────────
+
 class _Enrichment {
   final String keyFact;
   final String whyWrong;
@@ -77,14 +109,20 @@ class _PendingMistake {
   }
 }
 
+// ─── Main service ─────────────────────────────────────────────────────────────
+
 class GithubSyncService {
   static const String _kPat = 'github_pat';
   static const String _kQueue = 'github_sync_queue';
+  static const String _kLog = 'github_sync_log';
   static const String _kOwner = 'skm9097';
   static const String _kRepo = 'neet-pg2026';
   static const String _kBranch = 'main';
   static const String _kBase =
       'https://api.github.com/repos/$_kOwner/$_kRepo/contents';
+  static const int _maxLogEntries = 200;
+
+  // ── PAT storage ─────────────────────────────────────────────────────────────
 
   static Future<String?> getPat() async {
     final prefs = await SharedPreferences.getInstance();
@@ -95,6 +133,8 @@ class GithubSyncService {
     final prefs = await SharedPreferences.getInstance();
     await prefs.setString(_kPat, pat.trim());
   }
+
+  // ── Public API ───────────────────────────────────────────────────────────────
 
   // Called on wrong answer during quiz — fire and forget.
   static void queueMistake({
@@ -130,7 +170,7 @@ class GithubSyncService {
     );
   }
 
-  // Drain offline queue — call from settings UI.
+  // Drain offline queue — called by timer and manually from settings.
   static Future<int> flushOfflineQueue(GeminiService gemini) async {
     final pat = await getPat();
     if (pat == null || pat.isEmpty) return 0;
@@ -144,8 +184,7 @@ class GithubSyncService {
       try {
         _Enrichment? enrichment;
         if (gemini.isConfigured) {
-          final q = _pendingToQuestion(m);
-          enrichment = await _enrichSingle(q, m.wrongOption, gemini);
+          enrichment = await _enrichSingle(_pendingToQuestion(m), m.wrongOption, gemini);
         }
         final content = _buildMarkdown(
           questionId: m.questionId,
@@ -171,8 +210,20 @@ class GithubSyncService {
           message: 'mistake: ${m.questionId} ${_subjectFolder(m.subject)}',
           pat: pat,
         );
+        await _appendLog(SyncLogEntry(
+          timestamp: DateTime.now(),
+          success: true,
+          detail: path,
+          action: 'push',
+        ));
         pushed++;
-      } catch (_) {
+      } catch (e) {
+        await _appendLog(SyncLogEntry(
+          timestamp: DateTime.now(),
+          success: false,
+          detail: '${m.questionId}: $e',
+          action: 'error',
+        ));
         remaining.add(m);
       }
     }
@@ -185,7 +236,28 @@ class GithubSyncService {
     return q.length;
   }
 
-  // ─── Internal: single mistake processing ─────────────────────────────
+  static Future<List<SyncLogEntry>> getSyncLog() async {
+    final prefs = await SharedPreferences.getInstance();
+    final raw = prefs.getString(_kLog);
+    if (raw == null) return [];
+    try {
+      final list = jsonDecode(raw) as List<dynamic>;
+      return list
+          .map((e) => SyncLogEntry.fromJson(e as Map<String, dynamic>))
+          .toList()
+          .reversed
+          .toList(); // newest first
+    } catch (_) {
+      return [];
+    }
+  }
+
+  static Future<void> clearLog() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.remove(_kLog);
+  }
+
+  // ── Internal: single mistake processing ──────────────────────────────────────
 
   static Future<void> _processMistake({
     required Question question,
@@ -226,41 +298,49 @@ class GithubSyncService {
           message: 'mistake: ${question.id} ${_subjectFolder(question.subject)}',
           pat: pat,
         );
+        await _appendLog(SyncLogEntry(
+          timestamp: DateTime.now(),
+          success: true,
+          detail: path,
+          action: 'push',
+        ));
       } else {
-        await _addToQueue(_PendingMistake(
-          questionId: question.id,
-          subject: question.subject,
-          stem: question.stem,
-          optionA: question.optionA,
-          optionB: question.optionB,
-          optionC: question.optionC,
-          optionD: question.optionD,
-          correctOption: question.correctOption,
-          wrongOption: wrongOption,
-          explanation: question.explanation,
-          sessionId: sessionId,
-          timestamp: DateTime.now().toIso8601String(),
+        await _enqueue(question, wrongOption, sessionId);
+        await _appendLog(SyncLogEntry(
+          timestamp: DateTime.now(),
+          success: true,
+          detail: '${question.id} queued (no PAT configured)',
+          action: 'queue',
         ));
       }
-    } catch (_) {
-      await _addToQueue(_PendingMistake(
-        questionId: question.id,
-        subject: question.subject,
-        stem: question.stem,
-        optionA: question.optionA,
-        optionB: question.optionB,
-        optionC: question.optionC,
-        optionD: question.optionD,
-        correctOption: question.correctOption,
-        wrongOption: wrongOption,
-        explanation: question.explanation,
-        sessionId: sessionId,
-        timestamp: DateTime.now().toIso8601String(),
+    } catch (e) {
+      await _enqueue(question, wrongOption, sessionId);
+      await _appendLog(SyncLogEntry(
+        timestamp: DateTime.now(),
+        success: false,
+        detail: '${question.id}: $e',
+        action: 'error',
       ));
     }
   }
 
-  // ─── Internal: batch processing ──────────────────────────────────────
+  static Future<void> _enqueue(Question q, String wrongOption, String sessionId) =>
+      _addToQueue(_PendingMistake(
+        questionId: q.id,
+        subject: q.subject,
+        stem: q.stem,
+        optionA: q.optionA,
+        optionB: q.optionB,
+        optionC: q.optionC,
+        optionD: q.optionD,
+        correctOption: q.correctOption,
+        wrongOption: wrongOption,
+        explanation: q.explanation,
+        sessionId: sessionId,
+        timestamp: DateTime.now().toIso8601String(),
+      ));
+
+  // ── Internal: batch processing ────────────────────────────────────────────────
 
   static Future<void> _processBatch({
     required List<QuizAttempt> attempts,
@@ -319,7 +399,20 @@ class GithubSyncService {
           pat: pat,
         );
         pushed.add(path);
-      } catch (_) {}
+        await _appendLog(SyncLogEntry(
+          timestamp: DateTime.now(),
+          success: true,
+          detail: path,
+          action: 'push',
+        ));
+      } catch (e) {
+        await _appendLog(SyncLogEntry(
+          timestamp: DateTime.now(),
+          success: false,
+          detail: '${q.id}: $e',
+          action: 'error',
+        ));
+      }
     }
 
     if (pushed.isNotEmpty) {
@@ -333,11 +426,24 @@ class GithubSyncService {
           pushed: pushed,
           pat: pat,
         );
-      } catch (_) {}
+        await _appendLog(SyncLogEntry(
+          timestamp: DateTime.now(),
+          success: true,
+          detail: 'sessions/${_dateStr(now)}_$sessionId.json',
+          action: 'session',
+        ));
+      } catch (e) {
+        await _appendLog(SyncLogEntry(
+          timestamp: DateTime.now(),
+          success: false,
+          detail: 'session log failed: $e',
+          action: 'error',
+        ));
+      }
     }
   }
 
-  // ─── LLM enrichment ──────────────────────────────────────────────────
+  // ── LLM enrichment ────────────────────────────────────────────────────────────
 
   static Future<_Enrichment?> _enrichSingle(
       Question q, String wrongOption, GeminiService gemini) async {
@@ -354,8 +460,7 @@ class GithubSyncService {
       subject: q.subject,
     );
     try {
-      final raw = await gemini.askTutor(prompt);
-      return _parseOne(raw);
+      return _parseOne(await gemini.askTutor(prompt));
     } catch (_) {
       return null;
     }
@@ -369,20 +474,15 @@ class GithubSyncService {
     );
     for (int i = 0; i < pairs.length; i++) {
       final (q, wrongOpt) = pairs[i];
-      buf.writeln(
-        '${i + 1}. ${q.id}: ${q.stem} '
-        '→ Student: $wrongOpt) ${q.optionText(wrongOpt)}, '
-        'Correct: ${q.correctOption}) ${q.correctText}',
-      );
+      buf.writeln('${i + 1}. ${q.id}: ${q.stem} '
+          '→ Student: $wrongOpt) ${q.optionText(wrongOpt)}, '
+          'Correct: ${q.correctOption}) ${q.correctText}');
     }
-    buf.writeln(
-      '\nRespond as a JSON array, one object per question in order. '
-      'No backticks. Each: '
-      '{"key_fact":"...","why_wrong":"...","error_type":"...","tags":[...]}',
-    );
+    buf.writeln('\nRespond as a JSON array, one object per question in order. '
+        'No backticks. Each: '
+        '{"key_fact":"...","why_wrong":"...","error_type":"...","tags":[...]}');
     try {
-      final raw = await gemini.askTutor(buf.toString());
-      return _parseBatch(raw, pairs.length);
+      return _parseBatch(await gemini.askTutor(buf.toString()), pairs.length);
     } catch (_) {
       return List.filled(pairs.length, null);
     }
@@ -422,9 +522,7 @@ class GithubSyncService {
         keyFact: (m['key_fact'] as String?) ?? '',
         whyWrong: (m['why_wrong'] as String?) ?? '',
         errorType: _sanitizeErrorType(m['error_type'] as String?),
-        tags: ((m['tags'] as List<dynamic>?) ?? [])
-            .map((t) => t.toString())
-            .toList(),
+        tags: ((m['tags'] as List<dynamic>?) ?? []).map((t) => t.toString()).toList(),
       );
     } catch (_) {
       return null;
@@ -444,9 +542,7 @@ class GithubSyncService {
             keyFact: (m['key_fact'] as String?) ?? '',
             whyWrong: (m['why_wrong'] as String?) ?? '',
             errorType: _sanitizeErrorType(m['error_type'] as String?),
-            tags: ((m['tags'] as List<dynamic>?) ?? [])
-                .map((t) => t.toString())
-                .toList(),
+            tags: ((m['tags'] as List<dynamic>?) ?? []).map((t) => t.toString()).toList(),
           );
         } catch (_) {
           return null;
@@ -464,7 +560,7 @@ class GithubSyncService {
     return 'recall';
   }
 
-  // ─── Markdown file builder ────────────────────────────────────────────
+  // ── Markdown file builder ──────────────────────────────────────────────────────
 
   static String _buildMarkdown({
     required String questionId,
@@ -496,20 +592,14 @@ class GithubSyncService {
     final folder = _subjectFolder(subject);
     final iso = timestamp.toIso8601String();
     final tags = enrichment != null && enrichment.tags.isNotEmpty
-        ? '[${enrichment.tags.join(', ')}]'
-        : '[]';
-    final errorType =
-        enrichment != null && enrichment.errorType.isNotEmpty
-            ? enrichment.errorType
-            : '';
-    final keyFact =
-        enrichment != null && enrichment.keyFact.isNotEmpty
-            ? enrichment.keyFact
-            : explanation;
-    final whyWrong =
-        enrichment != null && enrichment.whyWrong.isNotEmpty
-            ? enrichment.whyWrong
-            : '_Not yet analyzed — will be filled on first desktop sync._';
+        ? '[${enrichment.tags.join(', ')}]' : '[]';
+    final errorType = enrichment != null && enrichment.errorType.isNotEmpty
+        ? enrichment.errorType : '';
+    final keyFact = enrichment != null && enrichment.keyFact.isNotEmpty
+        ? enrichment.keyFact : explanation;
+    final whyWrong = enrichment != null && enrichment.whyWrong.isNotEmpty
+        ? enrichment.whyWrong
+        : '_Not yet analyzed — will be filled on first desktop sync._';
     final dt = _dtLabel(timestamp);
 
     return '''---
@@ -563,7 +653,7 @@ $whyWrong
 ''';
   }
 
-  // ─── GitHub Contents API ──────────────────────────────────────────────
+  // ── GitHub Contents API ───────────────────────────────────────────────────────
 
   static Future<void> _pushFile({
     required String path,
@@ -579,7 +669,6 @@ $whyWrong
       'X-GitHub-Api-Version': '2022-11-28',
     };
 
-    // Get SHA if file already exists (needed for update)
     String? sha;
     final getResp = await http.get(url, headers: headers);
     if (getResp.statusCode == 200) {
@@ -594,15 +683,9 @@ $whyWrong
     };
     if (sha != null) body['sha'] = sha;
 
-    final putResp = await http.put(
-      url,
-      headers: headers,
-      body: jsonEncode(body),
-    );
-
+    final putResp = await http.put(url, headers: headers, body: jsonEncode(body));
     if (putResp.statusCode != 200 && putResp.statusCode != 201) {
-      throw Exception(
-          'GitHub push failed (${putResp.statusCode}): ${putResp.body}');
+      throw Exception('GitHub ${putResp.statusCode}: ${putResp.body.length > 200 ? putResp.body.substring(0, 200) : putResp.body}');
     }
   }
 
@@ -618,9 +701,8 @@ $whyWrong
     final total = attempts.length;
     final wrong = attempts.where((a) => !a.isCorrect && a.selectedOption != null).length;
     final skipped = attempts.where((a) => a.selectedOption == null).length;
-    final accuracy = total > 0 ? correct / total * 100 : 0;
+    final accuracy = total > 0 ? correct / total * 100 : 0.0;
 
-    // Subject breakdown
     final bySubject = <String, Map<String, int>>{};
     for (final a in attempts) {
       bySubject.putIfAbsent(a.subject, () => {'total': 0, 'correct': 0, 'wrong': 0, 'skipped': 0});
@@ -645,14 +727,11 @@ $whyWrong
       'wrong': wrong,
       'skipped': skipped,
       'score_percent': double.parse(accuracy.toStringAsFixed(1)),
-      'subject_breakdown': bySubject.entries
-          .map((e) => {'subject': e.key, ...e.value})
-          .toList(),
+      'subject_breakdown': bySubject.entries.map((e) => {'subject': e.key, ...e.value}).toList(),
       'mistakes_pushed': pushed,
     };
 
-    final dateStr = _dateStr(now);
-    final path = 'sessions/${dateStr}_$sessionId.json';
+    final path = 'sessions/${_dateStr(now)}_$sessionId.json';
     await _pushFile(
       path: path,
       content: const JsonEncoder.withIndent('  ').convert(log),
@@ -661,7 +740,7 @@ $whyWrong
     );
   }
 
-  // ─── Offline queue ────────────────────────────────────────────────────
+  // ── Offline queue ─────────────────────────────────────────────────────────────
 
   static Future<List<_PendingMistake>> _loadQueue() async {
     final prefs = await SharedPreferences.getInstance();
@@ -669,9 +748,7 @@ $whyWrong
     if (raw == null) return [];
     try {
       final list = jsonDecode(raw) as List<dynamic>;
-      return list
-          .map((e) => _PendingMistake.fromJson(e as Map<String, dynamic>))
-          .toList();
+      return list.map((e) => _PendingMistake.fromJson(e as Map<String, dynamic>)).toList();
     } catch (_) {
       return [];
     }
@@ -684,11 +761,28 @@ $whyWrong
 
   static Future<void> _addToQueue(_PendingMistake m) async {
     final queue = await _loadQueue();
-    if (queue.length < 500) queue.add(m); // cap at 500 items
+    if (queue.length < 500) queue.add(m);
     await _saveQueue(queue);
   }
 
-  // ─── Helpers ──────────────────────────────────────────────────────────
+  // ── Sync log ──────────────────────────────────────────────────────────────────
+
+  static Future<void> _appendLog(SyncLogEntry entry) async {
+    final prefs = await SharedPreferences.getInstance();
+    final raw = prefs.getString(_kLog);
+    List<dynamic> list = [];
+    if (raw != null) {
+      try { list = jsonDecode(raw) as List<dynamic>; } catch (_) {}
+    }
+    list.add(entry.toJson());
+    // Keep newest _maxLogEntries
+    if (list.length > _maxLogEntries) {
+      list = list.sublist(list.length - _maxLogEntries);
+    }
+    await prefs.setString(_kLog, jsonEncode(list));
+  }
+
+  // ── Helpers ───────────────────────────────────────────────────────────────────
 
   static String _subjectFolder(String subject) {
     if (subject.isEmpty || subject == 'General') return 'general';

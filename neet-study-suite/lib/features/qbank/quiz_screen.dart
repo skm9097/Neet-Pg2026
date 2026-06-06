@@ -577,7 +577,7 @@ class _QuizScreenState extends State<QuizScreen> {
     return Container(
       padding: const EdgeInsets.fromLTRB(20, 14, 20, 22),
       decoration: BoxDecoration(
-        color: Colors.white,
+        color: AppTheme.cardBg,
         borderRadius: const BorderRadius.vertical(top: Radius.circular(AppTheme.rLg)),
         boxShadow: [BoxShadow(
           color: AppTheme.ink.withValues(alpha: 0.07),

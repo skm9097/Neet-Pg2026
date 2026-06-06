@@ -1,7 +1,9 @@
+import 'dart:async';
 import 'package:flutter/material.dart';
 import 'services/gemini_service.dart';
 import 'services/tts_service.dart';
 import 'services/app_settings.dart';
+import 'services/github_sync_service.dart';
 import 'features/home/home_screen.dart';
 import 'core/theme/app_theme.dart';
 
@@ -29,16 +31,22 @@ class NeetStudySuiteApp extends StatefulWidget {
 class _NeetStudySuiteAppState extends State<NeetStudySuiteApp>
     with WidgetsBindingObserver {
   final _settings = AppSettings.instance;
+  Timer? _syncTimer;
 
   @override
   void initState() {
     super.initState();
     WidgetsBinding.instance.addObserver(this);
     _settings.addListener(_onSettingsChanged);
+    // Auto-flush offline mistake queue every 5 minutes while app is open.
+    _syncTimer = Timer.periodic(const Duration(minutes: 5), (_) {
+      GithubSyncService.flushOfflineQueue(widget.gemini);
+    });
   }
 
   @override
   void dispose() {
+    _syncTimer?.cancel();
     WidgetsBinding.instance.removeObserver(this);
     _settings.removeListener(_onSettingsChanged);
     super.dispose();
