@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import '../../services/github_sync_service.dart';
 import '../../services/gemini_service.dart';
 import '../../core/theme/app_theme.dart';
@@ -150,6 +151,9 @@ class _SyncStatusScreenState extends State<SyncStatusScreen> {
                             label: Text('Clear', style: TextStyle(color: AppTheme.inkFaint)),
                           ),
                         ]),
+                        const SizedBox(height: 14),
+                        // Repo location card
+                        _RepoCard(),
                         const SizedBox(height: 20),
                         // Log header
                         if (_log.isEmpty)
@@ -192,6 +196,72 @@ class _SyncStatusScreenState extends State<SyncStatusScreen> {
           Text(label, style: TextStyle(fontSize: 11, color: AppTheme.inkFaint)),
         ]),
       ),
+    );
+  }
+}
+
+class _RepoCard extends StatelessWidget {
+  static const _url = 'github.com/skm9097/Neet-Pg2026/tree/main/mistakes';
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      padding: const EdgeInsets.all(14),
+      decoration: BoxDecoration(
+        color: AppTheme.greenTint,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: AppTheme.primary.withValues(alpha: 0.25)),
+      ),
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        Row(children: [
+          Icon(Icons.info_outline_rounded, size: 15, color: AppTheme.primary),
+          const SizedBox(width: 6),
+          Text('Where to find your mistake files',
+            style: TextStyle(fontWeight: FontWeight.w700, fontSize: 12.5, color: AppTheme.primary)),
+        ]),
+        const SizedBox(height: 8),
+        Text(
+          'Files are pushed to the main branch of your repo, inside the mistakes/ folder, organised by subject.',
+          style: TextStyle(fontSize: 12, color: AppTheme.inkSoft, height: 1.5),
+        ),
+        const SizedBox(height: 8),
+        GestureDetector(
+          onLongPress: () {
+            Clipboard.setData(const ClipboardData(text: 'https://$_url'));
+            ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+              content: const Text('URL copied to clipboard'),
+              backgroundColor: AppTheme.primary,
+              behavior: SnackBarBehavior.floating,
+            ));
+          },
+          child: Container(
+            padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 7),
+            decoration: BoxDecoration(
+              color: AppTheme.primary.withValues(alpha: 0.10),
+              borderRadius: BorderRadius.circular(8),
+              border: Border.all(color: AppTheme.primary.withValues(alpha: 0.20)),
+            ),
+            child: Row(children: [
+              Icon(Icons.link_rounded, size: 13, color: AppTheme.primary),
+              const SizedBox(width: 6),
+              Expanded(
+                child: Text(_url,
+                  style: TextStyle(
+                    fontSize: 11.5, color: AppTheme.primary,
+                    fontFamily: 'monospace', fontWeight: FontWeight.w600),
+                  maxLines: 1, overflow: TextOverflow.ellipsis),
+              ),
+              Text('long-press to copy',
+                style: TextStyle(fontSize: 10, color: AppTheme.inkFaint)),
+            ]),
+          ),
+        ),
+        const SizedBox(height: 6),
+        Text(
+          'Note: switch to the main branch on GitHub, not the dev branch.',
+          style: TextStyle(fontSize: 11, color: AppTheme.inkFaint, fontStyle: FontStyle.italic),
+        ),
+      ]),
     );
   }
 }

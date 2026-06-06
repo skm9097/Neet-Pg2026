@@ -3,45 +3,49 @@ import '../models/question.dart';
 class MarkdownParser {
   static List<Question> parse(String markdown, {String source = ''}) {
     final questions = <Question>[];
-    final blocks = _splitBlocks(markdown);
+    final lines = markdown.split('\n');
+    String currentSubject = '';
+    StringBuffer? block;
 
-    for (final block in blocks) {
-      final q = _parseBlock(block, source: source);
+    void flush() {
+      if (block == null) return;
+      final q = _parseBlock(
+        block.toString().trim(),
+        source: source,
+        subjectHint: currentSubject,
+      );
       if (q != null && !q.isImageBased) questions.add(q);
+      block = null;
     }
+
+    for (final line in lines) {
+      if (line.startsWith('## ') && !line.startsWith('### ')) {
+        // Section heading like "## Anatomy" or "## General Medicine"
+        flush();
+        currentSubject = _headingToSubject(line.substring(3).trim());
+      } else if (line.startsWith('### Q')) {
+        flush();
+        block = StringBuffer()..writeln(line);
+      } else if (block != null) {
+        block!.writeln(line);
+      }
+    }
+    flush();
     return questions;
   }
 
-  static List<String> _splitBlocks(String md) {
-    final blocks = <String>[];
-    final lines = md.split('\n');
-    StringBuffer? current;
-
-    for (final line in lines) {
-      if (line.startsWith('### Q')) {
-        if (current != null) blocks.add(current.toString().trim());
-        current = StringBuffer()..writeln(line);
-      } else if (current != null) {
-        current.writeln(line);
-      }
-    }
-    if (current != null) blocks.add(current.toString().trim());
-    return blocks;
-  }
-
-  static Question? _parseBlock(String block, {String source = ''}) {
+  static Question? _parseBlock(String block,
+      {String source = '', String subjectHint = ''}) {
     try {
       final lines = block.split('\n');
       if (lines.isEmpty) return null;
 
-      // Parse header: "### Q42 — Topic label"
       final header = lines[0];
       final headerMatch = RegExp(r'^### (Q\d+)').firstMatch(header);
       if (headerMatch == null) return null;
       final qNum = headerMatch.group(1)!;
       final qNumInt = int.tryParse(qNum.substring(1));
 
-      // Collect stem lines (before first option)
       final stemLines = <String>[];
       final options = <String, String>{};
       String answer = '';
@@ -66,13 +70,12 @@ class MarkdownParser {
           final answerMatch = RegExp(r'^\*\*([A-D])\.').firstMatch(line);
           if (answerMatch != null) {
             answer = answerMatch.group(1)!;
-            // Extract explanation after "—" or "–"
             final dashIdx = line.indexOf('—');
             final dashIdx2 = line.indexOf('–');
             final idx = dashIdx >= 0 ? dashIdx : dashIdx2;
             if (idx >= 0 && idx + 1 < line.length) {
-              explanation = line.substring(idx + 1).trim()
-                  .replaceAll('**', '').trim();
+              explanation =
+                  line.substring(idx + 1).trim().replaceAll('**', '').trim();
             }
           }
         } else if (!inDetails && options.isEmpty) {
@@ -83,12 +86,11 @@ class MarkdownParser {
       }
 
       if (options.length < 4 || answer.isEmpty) return null;
-
       final stem = stemLines.join(' ').trim();
       if (stem.isEmpty) return null;
 
-      // Derive subject from source (e.g., 'anatomy' or 'year_2025')
-      final subject = _extractSubject(source, header);
+      // Subject priority: source (subject file) > section heading > fallback
+      final subject = _extractSubject(source, subjectHint);
 
       return Question(
         id: '${source}_$qNum',
@@ -110,8 +112,8 @@ class MarkdownParser {
 
   static String _cleanOption(String s) => s.replaceAll('**', '').trim();
 
-  static String _extractSubject(String source, String header) {
-    // If source is a subject key, use its display name
+  static String _extractSubject(String source, String subjectHint) {
+    // If source is a subject file key, that's the subject
     const subjectKeys = [
       'anatomy', 'physiology', 'biochemistry', 'pathology', 'microbiology',
       'pharmacology', 'forensic-medicine', 'community-medicine', 'medicine',
@@ -122,8 +124,61 @@ class MarkdownParser {
     for (final s in subjectKeys) {
       if (source.contains(s)) return s;
     }
-    // For year files, extract from ## Subject header (not perfect without context)
-    return 'General';
+    // For year files, use the section heading subject if available
+    if (subjectHint.isNotEmpty && subjectHint != 'general') return subjectHint;
+    return 'general';
+  }
+
+  // Map "## Anatomy" / "## General Medicine" → canonical subject key
+  static String _headingToSubject(String heading) {
+    final lower = heading.toLowerCase().trim();
+
+    const exactMap = {
+      'anatomy': 'anatomy',
+      'physiology': 'physiology',
+      'biochemistry': 'biochemistry',
+      'pathology': 'pathology',
+      'microbiology': 'microbiology',
+      'pharmacology': 'pharmacology',
+      'forensic medicine': 'forensic-medicine',
+      'forensic medicine & toxicology': 'forensic-medicine',
+      'forensic': 'forensic-medicine',
+      'community medicine': 'community-medicine',
+      'preventive & social medicine': 'community-medicine',
+      'social & preventive medicine': 'community-medicine',
+      'psm': 'community-medicine',
+      'medicine': 'medicine',
+      'general medicine': 'medicine',
+      'internal medicine': 'medicine',
+      'surgery': 'surgery',
+      'general surgery': 'surgery',
+      'obstetrics & gynaecology': 'obstetrics-gynaecology',
+      'obstetrics and gynaecology': 'obstetrics-gynaecology',
+      'obg': 'obstetrics-gynaecology',
+      'obs & gynae': 'obstetrics-gynaecology',
+      'obstetrics': 'obstetrics-gynaecology',
+      'gynaecology': 'obstetrics-gynaecology',
+      'paediatrics': 'pediatrics',
+      'pediatrics': 'pediatrics',
+      'orthopaedics': 'orthopaedics',
+      'orthopedics': 'orthopaedics',
+      'ent': 'ent',
+      'ear, nose and throat': 'ent',
+      'ophthalmology': 'ophthalmology',
+      'dermatology': 'dermatology',
+      'psychiatry': 'psychiatry',
+      'radiology': 'radiology',
+      'anaesthesia': 'anaesthesia',
+      'anesthesia': 'anaesthesia',
+    };
+
+    if (exactMap.containsKey(lower)) return exactMap[lower]!;
+
+    // Partial match fallback
+    for (final entry in exactMap.entries) {
+      if (lower.contains(entry.key)) return entry.value;
+    }
+    return 'general';
   }
 
   static String? _extractYear(String source) {
