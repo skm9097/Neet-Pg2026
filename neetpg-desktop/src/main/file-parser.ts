@@ -102,7 +102,11 @@ function toBool(val: string | undefined): boolean {
 
 /** Text between `## SectionName ...` and the next `## ` heading. */
 export function extractSection(body: string, name: string): string {
-  const re = new RegExp(`^##\\s+${escapeRe(name)}[^\\n]*\\n([\\s\\S]*?)(?=\\n##\\s|$)`, 'm')
+  // IMPORTANT: no `m` flag. With multiline, `$` matches at the first blank
+  // line and the lazy capture returns empty — which silently blanked every
+  // section. `(?:^|\n)` lets the heading match at the start of any line, while
+  // `$` (no `m`) only matches the true end of the string for the last section.
+  const re = new RegExp(`(?:^|\\n)##\\s+${escapeRe(name)}[^\\n]*\\n([\\s\\S]*?)(?=\\n##\\s|$)`)
   const m = body.match(re)
   if (!m) return ''
   return m[1].trim()
@@ -160,24 +164,23 @@ function deriveHeading(topic: string | undefined, keyFact: string): string {
 }
 
 /**
- * Break a key-fact paragraph into scannable bullets. If the text already has
- * markdown bullets or newlines, respect them; otherwise split on sentences.
+ * Break a key-fact paragraph into a few short, scannable bullets. Respects
+ * explicit markdown bullets/newlines; otherwise splits on sentences. Capped at
+ * 4 to keep the ambient slide light on text (per the user's request).
  */
 function deriveBullets(keyFact: string): string[] {
   if (!keyFact) return []
-  const lines = keyFact
+  let parts = keyFact
     .split('\n')
     .map((l) => l.replace(/^[-*•]\s*/, '').trim())
     .filter(Boolean)
-  if (lines.length > 1) return lines.slice(0, 6)
-
-  // Single paragraph — split into sentences, keep them readable.
-  const sentences = keyFact
-    .split(/(?<=[.!?])\s+/)
-    .map((s) => s.trim())
-    .filter((s) => s.length > 0)
-  if (sentences.length <= 1) return [keyFact.trim()]
-  return sentences.slice(0, 6)
+  if (parts.length <= 1) {
+    parts = keyFact
+      .split(/(?<=[.!?])\s+/)
+      .map((s) => s.trim())
+      .filter((s) => s.length > 2)
+  }
+  return parts.slice(0, 4)
 }
 
 // ── Path fallbacks ───────────────────────────────────────────────────────────

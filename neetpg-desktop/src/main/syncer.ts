@@ -123,7 +123,10 @@ export class Syncer {
   private async enrichMissing(): Promise<void> {
     const missing = this.cache
       .allCards()
-      .filter((c) => !c.keyFact || !c.whyWrong)
+      // Only enrich genuinely un-enriched cards that still have a question to
+      // work from. Without the `question` guard, a parse miss would feed the
+      // LLM an empty prompt and get back generic boilerplate.
+      .filter((c) => c.question && c.options.length > 0 && (!c.keyFact || !c.whyWrong))
       .slice(0, 5) // bound LLM work per cycle
     for (const card of missing) {
       const enriched = await this.llm.enrichCard(card)

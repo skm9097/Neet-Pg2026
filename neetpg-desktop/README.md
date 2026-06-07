@@ -52,7 +52,14 @@ for private repos or to push progress back.
 
 ---
 
-## Build & install on Windows 11
+## Install (prebuilt)
+
+A ready-to-run installer is in the repo at
+[`releases/NEET-PG-Desktop-Setup-1.0.1.exe`](../releases). Download it, run it,
+pick an install folder, and launch. (Windows SmartScreen may warn because the
+installer isn't code-signed — choose **More info → Run anyway**.)
+
+## Build it yourself on Windows 11
 
 > Requires [Node.js 18+](https://nodejs.org) (LTS). No C++ build tools or `git`
 > required — the app uses no native modules.

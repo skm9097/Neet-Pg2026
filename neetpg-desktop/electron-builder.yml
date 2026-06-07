@@ -16,6 +16,10 @@ asarUnpack:
 win:
   executableName: NEET-PG-Desktop
   icon: resources/icon.png
+  # The installer + Start-menu/desktop shortcut icons come from the .ico via
+  # NSIS (native). We skip embedding the icon/version into the .exe itself
+  # (rcedit), which is the only step that needs 32-bit Wine on a Linux builder.
+  signAndEditExecutable: false
   target:
     - target: nsis
       arch:

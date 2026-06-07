@@ -41,6 +41,7 @@ export function App(): JSX.Element {
   const [sync, setSync] = useState<SyncStatus>({ lastSync: null, lastError: null, inProgress: false, totalCards: 0 })
   const [quizCard, setQuizCard] = useState<MistakeCard | null>(null)
   const [navVisible, setNavVisible] = useState(false)
+  const [navCollapsed, setNavCollapsed] = useState(false)
 
   // ── Initial load ──
   useEffect(() => {
@@ -169,9 +170,14 @@ export function App(): JSX.Element {
       ? `Last sync ${relTime(sync.lastSync)}`
       : 'Not synced yet'
 
+  // In ambient mode the rail floats and auto-hides; elsewhere it's part of the
+  // layout, so reserve its width to stop it covering the content.
+  const railVisible = mode === 'ambient' ? navVisible : !navCollapsed
+  const reserveLeft = mode !== 'ambient' && railVisible ? 56 : 0
+
   return (
     <div style={appStyles.root}>
-      <div style={appStyles.main}>
+      <div style={{ ...appStyles.main, marginLeft: reserveLeft, transition: 'margin-left 0.3s ease' }}>
         {mode === 'ambient' && (
           <AmbientMode cards={cards} tweaks={tweaks} sync={sync} onTriggerQuiz={triggerQuiz} />
         )}
@@ -187,13 +193,25 @@ export function App(): JSX.Element {
         </div>
       )}
 
+      {/* Floating handle to reopen the rail when collapsed (non-ambient only) */}
+      {mode !== 'ambient' && navCollapsed && (
+        <button
+          onClick={() => setNavCollapsed(false)}
+          title="Show menu"
+          className="no-drag"
+          style={appStyles.expandHandle}
+        >
+          <Svg markup={ICONS.menu} />
+        </button>
+      )}
+
       {/* Side navigation */}
       <div
         style={{
           ...appStyles.nav,
-          opacity: navVisible ? 1 : 0,
-          pointerEvents: navVisible ? 'auto' : 'none',
-          transform: navVisible ? 'translateX(0)' : 'translateX(-8px)'
+          opacity: railVisible ? 1 : 0,
+          pointerEvents: railVisible ? 'auto' : 'none',
+          transform: railVisible ? 'translateX(0)' : 'translateX(-12px)'
         }}
       >
         <div style={appStyles.navLogo}>
@@ -206,6 +224,9 @@ export function App(): JSX.Element {
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
           <NavButton icon={ICONS.quiz} label="Quick Quiz" active={false} onClick={triggerQuiz} />
+          {mode !== 'ambient' && (
+            <NavButton icon={ICONS.collapse} label="Hide menu" active={false} onClick={() => setNavCollapsed(true)} />
+          )}
         </div>
       </div>
 
@@ -347,6 +368,22 @@ const appStyles: Record<string, CSSProperties> = {
     right: 12,
     display: 'flex',
     gap: 4,
+    zIndex: 60
+  },
+  expandHandle: {
+    position: 'fixed',
+    top: 12,
+    left: 12,
+    width: 36,
+    height: 36,
+    borderRadius: 10,
+    border: '1px solid var(--border-subtle)',
+    background: 'var(--bg-card)',
+    color: 'var(--text-secondary)',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    cursor: 'pointer',
     zIndex: 60
   }
 }

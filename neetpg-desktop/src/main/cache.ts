@@ -2,7 +2,12 @@ import { readFileSync, writeFileSync, existsSync, renameSync } from 'fs'
 import { join } from 'path'
 import type { MistakeCard, SRCard, SessionLog } from '../shared/types'
 
+// Bump when the parser/card shape changes so cached cards are re-fetched and
+// re-parsed with the new logic (progress + sessions are preserved).
+const CACHE_VERSION = 2
+
 interface CacheShape {
+  version: number
   cards: Record<string, MistakeCard>
   blobShas: Record<string, string> // filePath -> blob sha, for change detection
   sr: Record<string, SRCard>
@@ -12,6 +17,7 @@ interface CacheShape {
 }
 
 const EMPTY: CacheShape = {
+  version: CACHE_VERSION,
   cards: {},
   blobShas: {},
   sr: {},
@@ -38,7 +44,17 @@ export class CardCache {
     try {
       if (existsSync(this.path)) {
         const raw = JSON.parse(readFileSync(this.path, 'utf-8'))
-        return { ...EMPTY, ...raw }
+        const merged: CacheShape = { ...EMPTY, ...raw }
+        if (raw.version !== CACHE_VERSION) {
+          // Parser/schema upgrade: drop parsed cards + their change-detection
+          // shas + any stale LLM text so everything re-fetches and re-parses
+          // cleanly. Keep SR progress, sessions, and review history.
+          merged.cards = {}
+          merged.blobShas = {}
+          merged.llm = {}
+          merged.version = CACHE_VERSION
+        }
+        return merged
       }
     } catch {
       // Corrupt cache — start fresh rather than crash.

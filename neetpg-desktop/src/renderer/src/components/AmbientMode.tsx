@@ -101,6 +101,10 @@ export function AmbientMode({
   const fontSize = tweaks.fontSize || 26
   const fadeMs = ANIM_MS[tweaks.animSpeed] || ANIM_MS.normal
   const points = card.factPoints.length ? card.factPoints : card.keyFact ? [card.keyFact] : []
+  // Headline = the question (the thing to recall). Fall back to the derived
+  // title only if a card somehow has no question text.
+  const heading = card.question || card.factHeading
+  const answerText = stripLetter(card.correctAnswer)
 
   return (
     <div style={styles.container}>
@@ -116,63 +120,93 @@ export function AmbientMode({
 
       <Crossfade keyProp={fadeKey} duration={fadeMs}>
         <div style={styles.content}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 24 }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 12, marginBottom: 18 }}>
             <SubjectBadge subject={card.subject} size="lg" />
-            <span style={{ fontSize: 14, color: 'var(--text-secondary)', fontWeight: 500 }}>{card.topic}</span>
+            {topicLabel(card) && (
+              <span style={{ fontSize: 14, color: 'var(--text-secondary)', fontWeight: 500 }}>{topicLabel(card)}</span>
+            )}
           </div>
 
+          {/* The question is the recall prompt — it's the headline. */}
           <div
             style={{
-              fontSize: Math.round(fontSize * 1.15),
+              fontSize: Math.round(fontSize * 1.05),
               fontWeight: 700,
               color: 'var(--text-primary)',
-              marginBottom: 20,
-              lineHeight: 1.3
+              marginBottom: 18,
+              lineHeight: 1.35,
+              maxWidth: 840
             }}
           >
-            {card.factHeading}
+            {heading}
           </div>
 
-          <div
-            style={{
-              display: 'flex',
-              flexDirection: 'column',
-              gap: 10,
-              maxWidth: 800,
-              marginBottom: 32,
-              paddingLeft: 4
-            }}
-          >
-            {points.map((point, i) => (
-              <div
-                key={i}
-                style={{
-                  display: 'flex',
-                  alignItems: 'flex-start',
-                  gap: 14,
-                  fontSize: Math.round(fontSize * 0.85),
-                  lineHeight: 1.65,
-                  color: 'var(--text-primary)'
-                }}
-              >
-                <span
+          {/* Correct answer — prominent, since ambient mode is reinforcement. */}
+          {answerText && (
+            <div
+              style={{
+                display: 'inline-flex',
+                alignItems: 'center',
+                gap: 10,
+                alignSelf: 'flex-start',
+                background: 'var(--correct-dim)',
+                color: 'var(--correct)',
+                borderRadius: 10,
+                padding: '8px 14px',
+                marginBottom: 26,
+                fontSize: Math.max(fontSize - 8, 15),
+                fontWeight: 600,
+                maxWidth: 820
+              }}
+            >
+              <Svg markup={ICONS.check} />
+              <span>{answerText}</span>
+            </div>
+          )}
+
+          {/* Key fact — a few short bullets, not a wall of text. */}
+          {points.length > 0 && (
+            <div
+              style={{
+                display: 'flex',
+                flexDirection: 'column',
+                gap: 12,
+                maxWidth: 800,
+                marginBottom: card.whyWrong ? 24 : 30,
+                paddingLeft: 2
+              }}
+            >
+              {points.map((point, i) => (
+                <div
+                  key={i}
                   style={{
-                    width: 5,
-                    height: 5,
-                    borderRadius: '50%',
-                    flexShrink: 0,
-                    background: info.color,
-                    opacity: 0.6,
-                    marginTop: '0.55em'
+                    display: 'flex',
+                    alignItems: 'flex-start',
+                    gap: 14,
+                    fontSize: Math.max(Math.round(fontSize * 0.74), 16),
+                    lineHeight: 1.55,
+                    color: 'var(--text-secondary)'
                   }}
-                />
-                <span>{point}</span>
-              </div>
-            ))}
-          </div>
+                >
+                  <span
+                    style={{
+                      width: 6,
+                      height: 6,
+                      borderRadius: '50%',
+                      flexShrink: 0,
+                      background: info.color,
+                      opacity: 0.7,
+                      marginTop: '0.5em'
+                    }}
+                  />
+                  <span>{point}</span>
+                </div>
+              ))}
+            </div>
+          )}
 
           {card.whyWrong && (
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 6, maxWidth: 700, marginBottom: 32 }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 6, maxWidth: 720, marginBottom: 30 }}>
               <div
                 style={{
                   fontSize: 11,
@@ -187,14 +221,14 @@ export function AmbientMode({
               </div>
               <div
                 style={{
-                  fontSize: Math.max(fontSize - 6, 14),
-                  color: 'var(--text-secondary)',
-                  lineHeight: 1.65,
+                  fontSize: Math.max(fontSize - 9, 14),
+                  color: 'var(--text-tertiary)',
+                  lineHeight: 1.55,
                   paddingLeft: 14,
                   borderLeft: `2px solid ${info.color}25`
                 }}
               >
-                {card.whyWrong}
+                {shorten(card.whyWrong)}
               </div>
             </div>
           )}
@@ -278,6 +312,30 @@ export function AmbientMode({
       </div>
     </div>
   )
+}
+
+/** Strip a leading "A) " / "B) " option letter and the answer tick. */
+function stripLetter(s: string): string {
+  return (s || '').replace(/^[A-D][.)]\s*/, '').replace(/\s*✅\s*$/, '').trim()
+}
+
+/** Only show the topic label when it adds information beyond the subject. */
+function topicLabel(card: MistakeCard): string {
+  const t = (card.topic || '').trim()
+  if (!t) return ''
+  if (t.toLowerCase() === card.subject.toLowerCase()) return ''
+  return t.replace(/[-_]/g, ' ')
+}
+
+/** Trim a "why wrong" note to its first sentence or two so the slide stays light. */
+function shorten(text: string, maxSentences = 2, maxChars = 200): string {
+  if (!text) return ''
+  const joined = text
+    .split(/(?<=[.!?])\s+/)
+    .slice(0, maxSentences)
+    .join(' ')
+    .trim()
+  return joined.length > maxChars ? joined.slice(0, maxChars).replace(/\s+\S*$/, '') + '…' : joined
 }
 
 function syncLabel(sync: SyncStatus): string {

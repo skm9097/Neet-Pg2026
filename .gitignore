@@ -5,8 +5,9 @@
 *.exe
 *.dmg
 
-# Exception: releases/ folder is for distributing APK builds via GitHub
+# Exception: releases/ folder is for distributing app builds via GitHub
 !releases/*.apk
+!releases/*.exe
 
 # Flutter build output
 neet-quiz-app/build/
