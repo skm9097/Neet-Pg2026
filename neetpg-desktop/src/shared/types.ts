@@ -1,0 +1,170 @@
+// Shared types — imported by both the Electron main process and the React renderer.
+
+// === Parsed from a mistake .md file (YAML frontmatter + markdown body) ===
+export interface MistakeCard {
+  id: string // "Q0247"
+  subject: string // "pharmacology"
+  topic: string // "autonomic-nervous-system"
+  sourceFile: string // "question-bank/subject-wise/pharmacology.md"
+  tags: string[] // ["cholinergic", "muscarinic", "pilocarpine"]
+  errorType: 'conceptual' | 'recall' | 'silly' | ''
+  firstWrong: string // ISO 8601
+  lastWrong: string // ISO 8601
+  timesWrong: number
+  timesCorrect: number
+  isResolved: boolean
+
+  // Parsed from the markdown body
+  question: string
+  options: string[] // ["A) Atropine", "B) Pilocarpine ✅", ...]
+  userAnswer: string // "A) Atropine"
+  correctAnswer: string // "B) Pilocarpine"
+  keyFact: string // LLM-generated explanation
+  whyWrong: string // LLM-generated error analysis
+  attempts: Attempt[]
+
+  // Derived for nicer ambient display (computed at parse time)
+  factHeading: string // a short title for the card
+  factPoints: string[] // keyFact broken into scannable bullets
+
+  // File metadata
+  filePath: string // "mistakes/pharmacology/2026-06-05_Q0247.md"
+  lastModified: string // blob sha or mtime for change detection
+
+  // Spaced-repetition state (joined from the SR store at read time)
+  srStatus: SRCard['status']
+  nextReview: string
+}
+
+export interface Attempt {
+  date: string
+  answer: string
+  correct: boolean
+  timeTaken: string
+  context: string
+}
+
+// === Spaced repetition (SM-2) ===
+export interface SRCard {
+  easinessFactor: number // starts at 2.5
+  intervalDays: number
+  repetitions: number
+  nextReview: string // "2026-06-07"
+  lastGrade: number // 0-5
+  status: 'new' | 'learning' | 'review' | 'relearning' | 'mature'
+}
+
+export interface SRState {
+  lastUpdated: string
+  cards: Record<string, SRCard>
+}
+
+export interface TopicScores {
+  lastUpdated: string
+  scores: Record<string, number>
+}
+
+// === Session logs (pushed by the Android app) ===
+export interface SessionLog {
+  sessionId: string
+  type: string
+  startedAt: string
+  endedAt: string
+  totalQuestions: number
+  correct: number
+  wrong: number
+  skipped: number
+  scorePercent: number
+  subjectBreakdown: SubjectScore[]
+}
+
+export interface SubjectScore {
+  subject: string
+  total: number
+  correct: number
+  wrong: number
+  skipped: number
+}
+
+// === App config / settings ===
+export interface AppConfig {
+  // GitHub sync
+  repoOwner: string
+  repoName: string
+  repoBranch: string
+  githubPat: string
+
+  // AI (Groq)
+  groqApiKey: string
+  enableMnemonics: boolean
+  enableRephrase: boolean
+
+  // Timing
+  syncIntervalMinutes: number
+  quizIntervalMinutes: number
+  idleThresholdMinutes: number
+  ambientCardSeconds: number
+  cardsPerDayTarget: number
+
+  // Display
+  fontSize: number
+  animSpeed: 'slow' | 'normal' | 'fast'
+  accentHue: 'blue' | 'teal' | 'violet' | 'amber'
+  themeVariant: 'midnight' | 'charcoal' | 'navy'
+
+  // System & permissions
+  startOnBoot: boolean
+  minimizeToTray: boolean
+  autoAmbientOnIdle: boolean
+  keepAwakeInAmbient: boolean
+
+  // Internal — set once setup is complete
+  configured: boolean
+}
+
+// === Dashboard stats payload ===
+export interface DashboardStats {
+  due: number
+  reviewed: number
+  total: number
+  unresolved: number
+  resolved: number
+  streakDays: number
+  byStatus: Record<string, number>
+  topics: { name: string; total: number; wrong: number; pct: number }[]
+  sessions: { date: string; score: number }[]
+  stubborn: MistakeCard[]
+}
+
+// === Sync status surfaced to the UI ===
+export interface SyncStatus {
+  lastSync: string | null
+  lastError: string | null
+  inProgress: boolean
+  totalCards: number
+}
+
+export type AppMode = 'ambient' | 'dashboard' | 'settings'
+
+// === The typed bridge exposed on window.api by the preload script ===
+export interface DesktopApi {
+  getConfig(): Promise<AppConfig>
+  saveConfig(patch: Partial<AppConfig>): Promise<AppConfig>
+  getCards(): Promise<MistakeCard[]>
+  getDueCards(limit: number): Promise<MistakeCard[]>
+  getNextQuizCard(): Promise<MistakeCard | null>
+  gradeCard(cardId: string, grade: number): Promise<void>
+  getStats(): Promise<DashboardStats>
+  syncNow(): Promise<{ changed: number; error: string | null }>
+  getSyncStatus(): Promise<SyncStatus>
+  llmGenerate(type: 'mnemonic' | 'quiz_variant' | 'comparison', cardId: string): Promise<string | null>
+  testGithub(): Promise<{ ok: boolean; message: string }>
+  testGroq(): Promise<{ ok: boolean; message: string }>
+  setMode(mode: AppMode): void
+  minimizeWindow(): void
+  hideWindow(): void
+  setFullscreen(on: boolean): void
+  onModeChange(cb: (mode: AppMode) => void): () => void
+  onCardsUpdated(cb: (count: number) => void): () => void
+  onTriggerQuiz(cb: () => void): () => void
+}
