@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T22:52:47.389Z",
+  "lastUpdated": "2026-06-07T22:55:46.500Z",
   "cards": {
     "anatomy_Q28": {
       "easinessFactor": 1.96,
@@ -10,14 +10,6 @@
       "status": "learning"
     },
     "anatomy_Q35": {
-      "easinessFactor": 1.96,
-      "intervalDays": 1,
-      "repetitions": 0,
-      "nextReview": "2026-06-08",
-      "lastGrade": 1,
-      "status": "learning"
-    },
-    "anatomy_Q42": {
       "easinessFactor": 1.96,
       "intervalDays": 1,
       "repetitions": 0,
