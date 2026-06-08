@@ -1,4 +1,4 @@
-import { useState, CSSProperties, ReactNode } from 'react'
+import { useState, useEffect, CSSProperties, ReactNode } from 'react'
 import type { AppConfig } from '../types'
 
 export function Settings({
@@ -84,18 +84,31 @@ export function Settings({
           <Toggle label="Generate an infographic image for each card" value={local.enableCardImages}
             onChange={(v) => update('enableCardImages', v)} />
           <Segmented label="Image source" value={local.imageProvider}
-            options={[{ value: 'gemini', label: 'Gemini' }, { value: 'pollinations', label: 'Free (no key)' }]}
+            options={[
+              { value: 'gemini-web', label: 'Gemini (sign in)' },
+              { value: 'gemini', label: 'API key' },
+              { value: 'pollinations', label: 'Free (no key)' }
+            ]}
             onChange={(v) => update('imageProvider', v as AppConfig['imageProvider'])} />
-          <TextInput label="Gemini API key" value={local.geminiApiKey} placeholder="AIza…" type="password"
-            onChange={(v) => update('geminiApiKey', v)} />
-          <TextInput label="Gemini image model" value={local.geminiImageModel} placeholder="gemini-2.5-flash-image"
-            onChange={(v) => update('geminiImageModel', v)} />
-          <TestRow label={testing === 'gemini' ? 'Testing…' : 'Test image generation'} onClick={testGemini}
+
+          {local.imageProvider === 'gemini-web' && <GeminiWebAuth />}
+
+          {local.imageProvider === 'gemini' && (
+            <>
+              <TextInput label="Gemini API key" value={local.geminiApiKey} placeholder="AIza…" type="password"
+                onChange={(v) => update('geminiApiKey', v)} />
+              <TextInput label="Gemini image model" value={local.geminiImageModel} placeholder="gemini-2.5-flash-image"
+                onChange={(v) => update('geminiImageModel', v)} />
+            </>
+          )}
+
+          <TestRow label={testing === 'gemini' ? 'Testing…' : 'Test image source'} onClick={testGemini}
             disabled={testing !== null} result={geminiResult} />
           <div style={{ fontSize: 12, color: 'var(--text-tertiary)', lineHeight: 1.6, marginTop: 4 }}>
-            Each card’s visual is generated once from its deck data and cached on disk, so it isn’t re-created every
-            time. “Gemini” uses your own API key (default model <code>gemini-2.5-flash-image</code>); “Free” uses
-            Pollinations with no key. Turn this off to show a plain placeholder instead.
+            Each card’s visual is generated once from its deck data and cached on disk (tagged by question), so it isn’t
+            re-created every time. <b>Gemini (sign in)</b> drives the Gemini website with your own Google account — no
+            API key or billing. <b>API key</b> uses the Gemini image API directly. <b>Free</b> uses Pollinations with no
+            key. Turn the toggle off to show a plain placeholder instead.
           </div>
         </Section>
 
@@ -135,6 +148,67 @@ export function Settings({
         </Section>
 
         <div style={{ height: 40 }} />
+      </div>
+    </div>
+  )
+}
+
+function GeminiWebAuth(): JSX.Element {
+  const [status, setStatus] = useState<{ signedIn: boolean; message: string } | null>(null)
+  const [busy, setBusy] = useState(false)
+
+  const refresh = async (): Promise<void> => setStatus(await window.api.geminiWebStatus())
+  useEffect(() => {
+    refresh()
+  }, [])
+
+  const signIn = async (): Promise<void> => {
+    setBusy(true)
+    await window.api.geminiWebSignIn()
+    setBusy(false)
+    // Poll a couple of times while the user completes login.
+    setTimeout(refresh, 1500)
+    setTimeout(refresh, 6000)
+    setTimeout(refresh, 15000)
+  }
+  const signOut = async (): Promise<void> => {
+    setBusy(true)
+    await window.api.geminiWebSignOut()
+    setBusy(false)
+    refresh()
+  }
+
+  return (
+    <div style={styles.field}>
+      <div style={{ display: 'flex', alignItems: 'center', gap: 10, flexWrap: 'wrap' }}>
+        <button onClick={signIn} disabled={busy} style={{ ...styles.testBtn, opacity: busy ? 0.6 : 1 }}>
+          {busy ? 'Opening…' : status?.signedIn ? 'Re-sign in to Gemini' : 'Sign in to Gemini'}
+        </button>
+        {status?.signedIn && (
+          <button onClick={signOut} disabled={busy} style={styles.testBtn}>
+            Sign out
+          </button>
+        )}
+        <button onClick={refresh} style={styles.testBtn}>
+          Refresh
+        </button>
+        {status && (
+          <span
+            style={{
+              fontSize: 13,
+              fontWeight: 500,
+              color: status.signedIn ? 'var(--correct)' : 'var(--text-secondary)'
+            }}
+          >
+            {status.signedIn ? '✓ ' : ''}
+            {status.message}
+          </span>
+        )}
+      </div>
+      <div style={{ fontSize: 12, color: 'var(--text-tertiary)', lineHeight: 1.6, marginTop: 8 }}>
+        Opens a window to log into your Google account. The app then quietly drives the Gemini website to create each
+        card’s image — generation takes a little while per card and runs in the background. Sign in once; the session is
+        remembered.
       </div>
     </div>
   )

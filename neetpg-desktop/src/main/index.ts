@@ -6,6 +6,7 @@ import { CardCache } from './cache'
 import { SREngine } from './sr-engine'
 import { LLMService } from './llm-service'
 import { ImageGenService } from './image-gen'
+import { GeminiWebService } from './gemini-web'
 import { RepoSync } from './repo-sync'
 import { Syncer } from './syncer'
 import { IdleDetector } from './idle-detector'
@@ -29,6 +30,7 @@ let cache: CardCache
 let sr: SREngine
 let llm: LLMService
 let imageGen: ImageGenService
+let geminiWeb: GeminiWebService
 let repo: RepoSync
 let syncer: Syncer
 let idle: IdleDetector
@@ -39,7 +41,10 @@ function warmImages(): void {
   const cfg = getConfig()
   if (!cfg.enableCardImages) return
   const pending = cache.allCards().filter((c) => !imageGen.hasImage(c))
-  if (pending.length) imageGen.pregenerate(pending, 3).catch(() => {})
+  if (!pending.length) return
+  // The web provider is slow (drives a real browser), so warm gently.
+  const max = cfg.imageProvider === 'gemini-web' ? 1 : 3
+  imageGen.pregenerate(pending, max).catch(() => {})
 }
 
 function createWindow(): void {
@@ -153,7 +158,8 @@ app.whenReady().then(async () => {
   cache = new CardCache(userData)
   sr = new SREngine(cache)
   llm = new LLMService(() => getConfig().groqApiKey)
-  imageGen = new ImageGenService(() => getConfig(), userData)
+  geminiWeb = new GeminiWebService()
+  imageGen = new ImageGenService(() => getConfig(), userData, geminiWeb)
   repo = new RepoSync(() => getConfig())
   syncer = new Syncer(() => getConfig(), repo, cache, sr, llm)
 
@@ -162,6 +168,7 @@ app.whenReady().then(async () => {
     sr,
     llm,
     imageGen,
+    geminiWeb,
     repo,
     syncer,
     getWindow,

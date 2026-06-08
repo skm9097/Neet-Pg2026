@@ -26,9 +26,10 @@ as quiz pop-ups, and as an analytics dashboard.
 | **Dashboard** | Score trend, spaced-repetition queue breakdown, topic-weakness bars, and your most stubborn questions. `Ctrl+Shift+N`. |
 | **Settings** | GitHub sync, Groq AI, AI card visuals (Gemini), display tweaks, review timing, and system/permission controls. |
 
-A slim nav rail on the left switches screens; it auto-hides in ambient mode and
-reappears on mouse movement. The app lives in the system tray and keeps syncing
-in the background.
+A slim nav rail floats over the content (it never pushes the layout). On **every**
+screen a small menu button toggles the rail; both the button and the rail fade
+after a few seconds of no activity and reappear on mouse/keyboard movement. The
+app lives in the system tray and keeps syncing in the background.
 
 ---
 
@@ -57,20 +58,31 @@ for private repos or to push progress back.
 Instead of a wall of text, every card carries a **visual** on the right of the
 ambient slide. The image is generated from the card's own deck data (subject,
 topic, key fact, correct answer) and **cached on disk** in
-`…/AppData/Roaming/neetpg-desktop/card-images/`, so each card's picture is
-created **once** and reused forever — it is never re-generated on every loop.
+`…/AppData/Roaming/neetpg-desktop/card-images/` — keyed by a content hash and
+indexed by question id in `cache-index.json` — so each card's picture is created
+**once** and reused forever, never re-generated on every loop.
 
-- **Source** — default is the **Gemini** image model (`gemini-2.5-flash-image`)
-  using your own API key; the model id is editable in Settings. A free,
-  keyless **Pollinations** source is also selectable.
-- **Prompting** — the app asks for a clean, labelled, text-free medical
-  illustration on a dark background (AI renders garbled words, so labels are
-  deliberately excluded).
-- **Pre-generation** — a few upcoming cards are warmed each sync cycle, so the
-  visual is ready before the card rotates in.
-- **Graceful fallback** — while an image is generating, or if visuals are off /
-  no key is set, a calm subject-tinted placeholder is shown — never a blank box
-  or a spinner that breaks the screensaver feel.
+Three image sources, picked in **Settings → AI Visuals**:
+
+- **Gemini (sign in)** — *default*. You log into your own Google account once
+  (a normal browser window opens); the app then quietly drives the **Gemini
+  website** to generate each image, using your existing Gemini access — no API
+  key and no billing. This is browser automation of a third-party site for
+  personal use: it's best-effort (Google can change the page or rate-limit), so
+  it fails soft to a placeholder and retries later.
+- **API key** — the Gemini image API directly (`gemini-2.5-flash-image` by
+  default, model id editable). Needs an `AIza…` key and image quota.
+- **Free (no key)** — Pollinations, a keyless HTTP image service.
+
+Other behaviour:
+
+- **Prompting** — a clean, labelled, text-free medical illustration on a dark
+  background (AI renders garbled words, so text is deliberately excluded).
+- **Pre-generation** — upcoming cards are warmed each sync cycle (gently for the
+  web source), so the visual is ready before the card rotates in.
+- **Graceful fallback** — while generating, or if visuals are off / you're not
+  signed in / no key is set, a calm subject-tinted placeholder with a short hint
+  is shown — never a blank box or a spinner that breaks the screensaver feel.
 - **Storage cap** — the cache is trimmed to the most recent 600 images.
 
 Turn the whole feature off (plain placeholders) with one toggle in **Settings →
@@ -81,7 +93,7 @@ AI Visuals**.
 ## Install (prebuilt)
 
 A ready-to-run installer is in the repo at
-[`releases/NEET-PG-Desktop-Setup-1.1.0.exe`](../releases). Download it, run it,
+[`releases/NEET-PG-Desktop-Setup-1.2.0.exe`](../releases). Download it, run it,
 pick an install folder, and launch. (Windows SmartScreen may warn because the
 installer isn't code-signed — choose **More info → Run anyway**.)
 
@@ -103,8 +115,9 @@ pick an install folder, and launch. On first run you'll be asked for:
 2. **GitHub Personal Access Token** — optional for a public repo; needs
    `contents: write` if you want progress synced back.
 3. **Groq API key** — optional, enables mnemonics & rephrased questions.
-4. **Gemini API key** — optional, generates a cached infographic image for each
-   card (or pick the free image source / turn visuals off in Settings).
+4. **Gemini API key** — optional, only for the *API key* image source. The
+   default image source is **Gemini (sign in)** — set that up in **Settings →
+   AI Visuals** by signing into your Google account once.
 
 You can change all of these later in **Settings**.
 
@@ -157,7 +170,8 @@ src/
 │   ├── cache.ts           JSON-file card/SR/session/LLM cache (no native deps)
 │   ├── sr-engine.ts       SM-2 spaced repetition + streak
 │   ├── llm-service.ts     Groq API (mnemonics, rephrase, enrich) — all optional
-│   ├── image-gen.ts       Per-card infographic images (Gemini / Pollinations) + disk cache
+│   ├── image-gen.ts       Per-card infographic images (provider router) + disk cache + index
+│   ├── gemini-web.ts      Drives the signed-in Gemini website to generate images
 │   ├── idle-detector.ts   OS idle → ambient/active switching
 │   ├── power.ts           Wake control + login item
 │   ├── tray.ts            System tray menu

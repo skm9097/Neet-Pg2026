@@ -40,8 +40,10 @@ export function App(): JSX.Element {
   const [stats, setStats] = useState<DashboardStats>(EMPTY_STATS)
   const [sync, setSync] = useState<SyncStatus>({ lastSync: null, lastError: null, inProgress: false, totalCards: 0 })
   const [quizCard, setQuizCard] = useState<MistakeCard | null>(null)
-  const [navVisible, setNavVisible] = useState(false)
-  const [navCollapsed, setNavCollapsed] = useState(false)
+  // navOpen = rail expanded; uiVisible = rail + toggle button currently shown
+  // (both fade after a few seconds of no input, on every screen).
+  const [navOpen, setNavOpen] = useState(false)
+  const [uiVisible, setUiVisible] = useState(true)
 
   // ── Initial load ──
   useEffect(() => {
@@ -105,22 +107,23 @@ export function App(): JSX.Element {
     return () => clearInterval(iv)
   }, [config?.configured, mode])
 
-  // ── Nav auto-hide in ambient mode ──
+  // ── Auto-hide the nav rail + toggle button on every screen ──
+  // The rail floats over the content (never pushes it), and both the rail and
+  // its toggle button fade after a few seconds of no mouse/keyboard activity,
+  // reappearing on the next interaction.
   useEffect(() => {
-    if (mode !== 'ambient') {
-      setNavVisible(true)
-      return
-    }
-    setNavVisible(false)
     let timeout: ReturnType<typeof setTimeout>
-    const show = (): void => {
-      setNavVisible(true)
+    const reveal = (): void => {
+      setUiVisible(true)
       clearTimeout(timeout)
-      timeout = setTimeout(() => setNavVisible(false), 3000)
+      timeout = setTimeout(() => setUiVisible(false), 3500)
     }
-    window.addEventListener('mousemove', show)
+    reveal()
+    window.addEventListener('mousemove', reveal)
+    window.addEventListener('keydown', reveal)
     return () => {
-      window.removeEventListener('mousemove', show)
+      window.removeEventListener('mousemove', reveal)
+      window.removeEventListener('keydown', reveal)
       clearTimeout(timeout)
     }
   }, [mode])
@@ -170,14 +173,13 @@ export function App(): JSX.Element {
       ? `Last sync ${relTime(sync.lastSync)}`
       : 'Not synced yet'
 
-  // In ambient mode the rail floats and auto-hides; elsewhere it's part of the
-  // layout, so reserve its width to stop it covering the content.
-  const railVisible = mode === 'ambient' ? navVisible : !navCollapsed
-  const reserveLeft = mode !== 'ambient' && railVisible ? 56 : 0
+  // The rail always floats over the content (no layout shift); it's visible only
+  // when opened *and* the UI hasn't faded out.
+  const railVisible = navOpen && uiVisible
 
   return (
     <div style={appStyles.root}>
-      <div style={{ ...appStyles.main, marginLeft: reserveLeft, transition: 'margin-left 0.3s ease' }}>
+      <div style={appStyles.main}>
         {mode === 'ambient' && (
           <AmbientMode cards={cards} tweaks={tweaks} sync={sync} onTriggerQuiz={triggerQuiz} />
         )}
@@ -185,25 +187,37 @@ export function App(): JSX.Element {
         {mode === 'settings' && <Settings config={config} onChange={saveConfig} />}
       </div>
 
-      {/* Frameless window controls (hidden in ambient mode for a clean screensaver) */}
+      {/* Frameless window controls — fade with the rest of the UI. */}
       {mode !== 'ambient' && (
-        <div style={appStyles.winControls} className="no-drag">
+        <div
+          style={{
+            ...appStyles.winControls,
+            opacity: uiVisible ? 1 : 0,
+            pointerEvents: uiVisible ? 'auto' : 'none',
+            transition: 'opacity 0.3s ease'
+          }}
+          className="no-drag"
+        >
           <WinBtn icon={ICONS.minimize} label="Minimize" onClick={() => window.api.minimizeWindow()} />
           <WinBtn icon={ICONS.x} label="Close to tray" onClick={() => window.api.hideWindow()} />
         </div>
       )}
 
-      {/* Floating handle to reopen the rail when collapsed (non-ambient only) */}
-      {mode !== 'ambient' && navCollapsed && (
-        <button
-          onClick={() => setNavCollapsed(false)}
-          title="Show menu"
-          className="no-drag"
-          style={appStyles.expandHandle}
-        >
-          <Svg markup={ICONS.menu} />
-        </button>
-      )}
+      {/* Floating toggle — available on every screen, auto-hides after a few
+          seconds, reappears on mouse/keyboard activity. Opens/closes the rail. */}
+      <button
+        onClick={() => setNavOpen((o) => !o)}
+        title={navOpen ? 'Hide menu' : 'Show menu'}
+        className="no-drag"
+        style={{
+          ...appStyles.expandHandle,
+          opacity: uiVisible && !navOpen ? 1 : 0,
+          pointerEvents: uiVisible && !navOpen ? 'auto' : 'none',
+          transition: 'opacity 0.3s ease'
+        }}
+      >
+        <Svg markup={ICONS.menu} />
+      </button>
 
       {/* Side navigation */}
       <div
@@ -224,9 +238,7 @@ export function App(): JSX.Element {
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
           <NavButton icon={ICONS.quiz} label="Quick Quiz" active={false} onClick={triggerQuiz} />
-          {mode !== 'ambient' && (
-            <NavButton icon={ICONS.collapse} label="Hide menu" active={false} onClick={() => setNavCollapsed(true)} />
-          )}
+          <NavButton icon={ICONS.collapse} label="Hide menu" active={false} onClick={() => setNavOpen(false)} />
         </div>
       </div>
 

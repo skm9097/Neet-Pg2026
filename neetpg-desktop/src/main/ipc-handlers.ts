@@ -5,6 +5,7 @@ import { CardCache } from './cache'
 import { SREngine } from './sr-engine'
 import { LLMService } from './llm-service'
 import { ImageGenService } from './image-gen'
+import { GeminiWebService } from './gemini-web'
 import { RepoSync } from './repo-sync'
 import { Syncer } from './syncer'
 import { buildStats, withSR } from './stats'
@@ -16,6 +17,7 @@ export interface Services {
   sr: SREngine
   llm: LLMService
   imageGen: ImageGenService
+  geminiWeb: GeminiWebService
   repo: RepoSync
   syncer: Syncer
   getWindow: () => BrowserWindow | null
@@ -71,7 +73,8 @@ export function registerIpc(s: Services): void {
     if (win && result.changed > 0) win.webContents.send('cards-updated', result.changed)
     // Warm a few images so freshly-synced cards have a visual ready.
     const pending = s.cache.allCards().filter((c) => !s.imageGen.hasImage(c))
-    if (pending.length) s.imageGen.pregenerate(pending, 3).catch(() => {})
+    const max = getConfig().imageProvider === 'gemini-web' ? 1 : 3
+    if (pending.length) s.imageGen.pregenerate(pending, max).catch(() => {})
     return result
   })
 
@@ -114,12 +117,17 @@ export function registerIpc(s: Services): void {
     const card = s.cache.getCard(cardId)
     if (!card) return { cardId, status: 'error', dataUrl: null }
     const r = await s.imageGen.getDataUrl(card)
-    return { cardId, status: r.status, dataUrl: r.dataUrl }
+    return { cardId, status: r.status, dataUrl: r.dataUrl, message: r.message }
   })
 
   ipcMain.handle('test-github', () => s.repo.test())
   ipcMain.handle('test-groq', () => s.llm.test())
   ipcMain.handle('test-gemini', () => s.imageGen.test())
+
+  // Gemini website sign-in (used by the 'gemini-web' image source).
+  ipcMain.handle('gemini-web-signin', () => s.geminiWeb.signIn())
+  ipcMain.handle('gemini-web-status', () => s.geminiWeb.status())
+  ipcMain.handle('gemini-web-signout', () => s.geminiWeb.signOut())
 
   // Renderer → main: user picked a mode via the sidebar.
   ipcMain.on('set-mode', (_e, mode: AppMode) => {

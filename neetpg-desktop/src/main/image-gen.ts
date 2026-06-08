@@ -10,6 +10,7 @@ import {
 import { join } from 'path'
 import { createHash } from 'crypto'
 import type { AppConfig, MistakeCard } from '../shared/types'
+import type { GeminiWebService } from './gemini-web'
 
 // Bump to invalidate every cached image when the prompt logic changes
 // (the version is folded into the cache key, so old PNGs are simply ignored).
@@ -27,8 +28,18 @@ type ImgStatus = 'ready' | 'pending' | 'error' | 'disabled'
  * a tasteful placeholder. Images live in `userData/card-images/` (never in the
  * repo, never in the app bundle).
  */
+interface IndexEntry {
+  file: string
+  prompt: string
+  at: string
+  subject: string
+  topic: string
+}
+
 export class ImageGenService {
   private dir: string
+  private indexPath: string
+  private index: Record<string, IndexEntry> = {}
   private lastCall = 0
   private readonly minGapMs = 4000
   // De-dupe concurrent requests for the same card (ambient + prefetch can race).
@@ -36,10 +47,39 @@ export class ImageGenService {
 
   constructor(
     private cfg: () => AppConfig,
-    userDataDir: string
+    userDataDir: string,
+    private web: GeminiWebService
   ) {
     this.dir = join(userDataDir, 'card-images')
     if (!existsSync(this.dir)) mkdirSync(this.dir, { recursive: true })
+    this.indexPath = join(this.dir, 'cache-index.json')
+    this.loadIndex()
+  }
+
+  private loadIndex(): void {
+    try {
+      if (existsSync(this.indexPath)) {
+        this.index = JSON.parse(readFileSync(this.indexPath, 'utf-8')) as Record<string, IndexEntry>
+      }
+    } catch {
+      this.index = {}
+    }
+  }
+
+  /** Map a card id → its cached image file + prompt, so images are tagged by question. */
+  private recordIndex(card: MistakeCard, file: string, prompt: string): void {
+    this.index[card.id] = {
+      file: file.split(/[/\\]/).pop() || file,
+      prompt,
+      at: new Date().toISOString(),
+      subject: card.subject,
+      topic: card.topic
+    }
+    try {
+      writeFileSync(this.indexPath, JSON.stringify(this.index, null, 2), 'utf-8')
+    } catch {
+      /* best-effort */
+    }
   }
 
   private get on(): boolean {
@@ -94,8 +134,10 @@ export class ImageGenService {
   }
 
   /** Return a data URL for the card image, generating + caching on first use. */
-  async getDataUrl(card: MistakeCard): Promise<{ status: ImgStatus; dataUrl: string | null }> {
-    if (!this.on) return { status: 'disabled', dataUrl: null }
+  async getDataUrl(
+    card: MistakeCard
+  ): Promise<{ status: ImgStatus; dataUrl: string | null; message?: string }> {
+    if (!this.on) return { status: 'disabled', dataUrl: null, message: 'Card visuals are off' }
 
     const cached = this.pathFor(card)
     if (existsSync(cached)) {
@@ -104,9 +146,28 @@ export class ImageGenService {
     }
 
     const path = await this.generate(card)
-    if (!path) return { status: 'error', dataUrl: null }
+    if (!path) return { status: 'error', dataUrl: null, message: await this.errorHint() }
     const url = this.toDataUrl(path)
-    return url ? { status: 'ready', dataUrl: url } : { status: 'error', dataUrl: null }
+    return url
+      ? { status: 'ready', dataUrl: url }
+      : { status: 'error', dataUrl: null, message: 'Saved image could not be read' }
+  }
+
+  /** A short, provider-aware reason for a failed generation (for the placeholder). */
+  private async errorHint(): Promise<string> {
+    const c = this.cfg()
+    if (c.imageProvider === 'gemini-web') {
+      const s = await this.web.status()
+      return s.signedIn
+        ? 'Gemini didn’t return an image — it will retry on the next pass'
+        : 'Sign in to Gemini in Settings → AI Visuals to generate visuals'
+    }
+    if (c.imageProvider === 'gemini') {
+      return c.geminiApiKey
+        ? 'Gemini API returned no image — check the model id or quota'
+        : 'Add a Gemini API key in Settings (or switch the image source)'
+    }
+    return 'Image source unavailable — it will retry later'
   }
 
   private toDataUrl(path: string): string | null {
@@ -138,16 +199,20 @@ export class ImageGenService {
     await this.throttle()
     try {
       let buf: Buffer | null = null
-      if (c.imageProvider === 'pollinations') {
+      if (c.imageProvider === 'gemini-web') {
+        // Drive the signed-in Gemini website to generate the image.
+        buf = await this.web.generate(prompt)
+      } else if (c.imageProvider === 'pollinations') {
         buf = await this.genPollinations(prompt)
       } else {
-        // Gemini (default). Needs a key — if missing, leave it to the UI to
-        // prompt the user (placeholder), rather than silently switching source.
+        // Gemini API. Needs a key — if missing, leave it to the UI to prompt the
+        // user (placeholder), rather than silently switching source.
         if (!c.geminiApiKey) return null
         buf = await this.genGemini(prompt, c)
       }
       if (!buf || buf.length < 128) return null
       writeFileSync(outPath, buf)
+      this.recordIndex(card, outPath, prompt)
       this.cleanup(600)
       return outPath
     } catch {
@@ -242,6 +307,12 @@ export class ImageGenService {
   /** Connectivity / key check surfaced in Settings. */
   async test(): Promise<{ ok: boolean; message: string }> {
     const c = this.cfg()
+    if (c.imageProvider === 'gemini-web') {
+      const s = await this.web.status()
+      return s.signedIn
+        ? { ok: true, message: 'Signed in — visuals generate on the Gemini website' }
+        : { ok: false, message: 'Not signed in — click “Sign in to Gemini” above' }
+    }
     if (c.imageProvider === 'pollinations') {
       try {
         const buf = await this.genPollinations('simple flat vector medical icon, dark background, no text')

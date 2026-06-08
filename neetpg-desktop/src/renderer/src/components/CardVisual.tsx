@@ -62,11 +62,12 @@ export function CardVisual({ card, accent }: { card: MistakeCard; accent: string
   // error (no key / quota / network). Keep it quiet and on-brand.
   const pending = !img || img.status === 'pending'
   const message =
-    img?.status === 'disabled'
+    img?.message ||
+    (img?.status === 'disabled'
       ? 'Card visuals are off'
       : img?.status === 'error'
-        ? 'Add a Gemini key in Settings (or switch image source to Free) to generate a visual'
-        : 'Generating a visual…'
+        ? 'Couldn’t generate a visual — open Settings → AI Visuals'
+        : 'Generating a visual…')
 
   return (
     <div style={{ ...frame(accent), ...center }}>

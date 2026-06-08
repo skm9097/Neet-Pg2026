@@ -16,6 +16,9 @@ const api: DesktopApi = {
   testGithub: () => ipcRenderer.invoke('test-github'),
   testGroq: () => ipcRenderer.invoke('test-groq'),
   testGemini: () => ipcRenderer.invoke('test-gemini'),
+  geminiWebSignIn: () => ipcRenderer.invoke('gemini-web-signin'),
+  geminiWebStatus: () => ipcRenderer.invoke('gemini-web-status'),
+  geminiWebSignOut: () => ipcRenderer.invoke('gemini-web-signout'),
 
   setMode: (mode: AppMode) => ipcRenderer.send('set-mode', mode),
   minimizeWindow: () => ipcRenderer.send('window-minimize'),

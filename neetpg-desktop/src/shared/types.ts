@@ -101,7 +101,7 @@ export interface AppConfig {
 
   // AI visuals (per-card infographic image generation)
   enableCardImages: boolean
-  imageProvider: 'gemini' | 'pollinations'
+  imageProvider: 'gemini-web' | 'gemini' | 'pollinations'
   geminiApiKey: string
   geminiImageModel: string
 
@@ -154,9 +154,11 @@ export interface SyncStatus {
 export interface CardImage {
   cardId: string
   // ready = image available; pending = still generating; error = generation
-  // failed (e.g. no key / quota); disabled = card images turned off.
+  // failed (e.g. not signed in / no key / quota); disabled = card images off.
   status: 'ready' | 'pending' | 'error' | 'disabled'
   dataUrl: string | null
+  // Optional human-readable reason shown on the placeholder (e.g. "sign in").
+  message?: string
 }
 
 export type AppMode = 'ambient' | 'dashboard' | 'settings'
@@ -177,6 +179,9 @@ export interface DesktopApi {
   testGithub(): Promise<{ ok: boolean; message: string }>
   testGroq(): Promise<{ ok: boolean; message: string }>
   testGemini(): Promise<{ ok: boolean; message: string }>
+  geminiWebSignIn(): Promise<{ ok: boolean; message: string }>
+  geminiWebStatus(): Promise<{ signedIn: boolean; message: string }>
+  geminiWebSignOut(): Promise<{ ok: boolean; message: string }>
   setMode(mode: AppMode): void
   minimizeWindow(): void
   hideWindow(): void

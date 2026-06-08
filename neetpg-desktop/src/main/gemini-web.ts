@@ -1,0 +1,256 @@
+import { BrowserWindow, session } from 'electron'
+
+// A dedicated, persistent session so the Google login survives restarts and is
+// shared between the visible sign-in window and the hidden generation window.
+const PARTITION = 'persist:gemini-web'
+const GEMINI_URL = 'https://gemini.google.com/app'
+// Present as a normal desktop Chrome so Google serves the standard UI rather
+// than the "Electron" client (which it may block or downgrade).
+const UA =
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
+  '(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+
+/**
+ * Drives the Gemini *website* (not the API) to generate images using the user's
+ * own signed-in Google account. The user authenticates once in a normal browser
+ * window; thereafter a hidden window loads gemini.google.com, types the prompt,
+ * submits it, waits for the generated image, and returns its bytes.
+ *
+ * This is browser automation of a third-party site for personal use, so it is
+ * inherently best-effort: selectors can change and every path fails soft to a
+ * placeholder. It's offered as one image-source option alongside the API key
+ * and the keyless Pollinations source.
+ */
+export class GeminiWebService {
+  private signInWin: BrowserWindow | null = null
+  private busy = false
+
+  private sess(): Electron.Session {
+    return session.fromPartition(PARTITION)
+  }
+
+  /** Whether a Google login cookie is present in the dedicated session. */
+  async status(): Promise<{ signedIn: boolean; message: string }> {
+    try {
+      const cookies = await this.sess().cookies.get({ domain: '.google.com' })
+      const signed = cookies.some((c) => /^(__Secure-1PSID|__Secure-3PSID|SID)$/.test(c.name))
+      return {
+        signedIn: signed,
+        message: signed ? 'Signed in to your Google account' : 'Not signed in yet'
+      }
+    } catch (e) {
+      return { signedIn: false, message: (e as Error).message }
+    }
+  }
+
+  /** Open a visible window for the user to log into Gemini. */
+  async signIn(): Promise<{ ok: boolean; message: string }> {
+    if (this.signInWin && !this.signInWin.isDestroyed()) {
+      this.signInWin.focus()
+      return { ok: true, message: 'Sign-in window is already open' }
+    }
+    const win = new BrowserWindow({
+      width: 480,
+      height: 760,
+      show: true,
+      title: 'Sign in to Gemini',
+      autoHideMenuBar: true,
+      webPreferences: {
+        partition: PARTITION,
+        contextIsolation: true,
+        nodeIntegration: false,
+        sandbox: true
+      }
+    })
+    this.signInWin = win
+    win.webContents.setUserAgent(UA)
+    win.on('closed', () => {
+      this.signInWin = null
+    })
+    try {
+      await win.loadURL(GEMINI_URL)
+    } catch {
+      // ignore navigation hiccups — the user can still complete login
+    }
+    return {
+      ok: true,
+      message: 'Sign-in window opened — log in to your Google account, then close the window.'
+    }
+  }
+
+  /** Forget the stored Google session. */
+  async signOut(): Promise<{ ok: boolean; message: string }> {
+    try {
+      await this.sess().clearStorageData()
+      return { ok: true, message: 'Signed out of Gemini' }
+    } catch (e) {
+      return { ok: false, message: (e as Error).message }
+    }
+  }
+
+  /** Generate one image for the prompt via a hidden Gemini window. */
+  async generate(prompt: string): Promise<Buffer | null> {
+    // Serialise generations — one hidden window at a time.
+    const start = Date.now()
+    while (this.busy) {
+      if (Date.now() - start > 180000) return null
+      await delay(500)
+    }
+    this.busy = true
+
+    let win: BrowserWindow | null = null
+    try {
+      if (!(await this.status()).signedIn) return null
+
+      win = new BrowserWindow({
+        width: 1180,
+        height: 900,
+        show: false,
+        webPreferences: {
+          partition: PARTITION,
+          contextIsolation: true,
+          nodeIntegration: false,
+          sandbox: true
+        }
+      })
+      win.webContents.setUserAgent(UA)
+      await win.loadURL(GEMINI_URL)
+      // Let the single-page app boot before we touch the DOM.
+      await delay(3500)
+
+      const webPrompt = `Generate a single illustrative image (no text or letters inside the image). ${prompt}`
+      const script = driverScript(webPrompt)
+      const result = (await win.webContents.executeJavaScript(script, true)) as DriverResult
+
+      if (result?.dataUrl && result.dataUrl.startsWith('data:image')) {
+        const b64 = result.dataUrl.split(',')[1] || ''
+        const buf = Buffer.from(b64, 'base64')
+        return buf.length > 256 ? buf : null
+      }
+      if (result?.src) {
+        const buf = await fetchBytes(result.src)
+        if (buf && buf.length > 256) return buf
+      }
+      return null
+    } catch {
+      return null
+    } finally {
+      if (win && !win.isDestroyed()) win.destroy()
+      this.busy = false
+    }
+  }
+}
+
+interface DriverResult {
+  dataUrl?: string
+  src?: string
+  error?: string
+}
+
+async function fetchBytes(url: string): Promise<Buffer | null> {
+  try {
+    const res = await fetch(url)
+    if (!res.ok) return null
+    return Buffer.from(await res.arrayBuffer())
+  } catch {
+    return null
+  }
+}
+
+function delay(ms: number): Promise<void> {
+  return new Promise((r) => setTimeout(r, ms))
+}
+
+/**
+ * The in-page automation, returned as a self-contained async IIFE string.
+ * Finds the composer, types the prompt, submits, then waits for a generated
+ * image and returns it as a data URL (fetched in-page so cookies/origin apply).
+ */
+function driverScript(prompt: string): string {
+  const P = JSON.stringify(prompt)
+  return `(async () => {
+    const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+    const findEditor = () =>
+      document.querySelector('rich-textarea .ql-editor[contenteditable="true"]') ||
+      document.querySelector('div.ql-editor[contenteditable="true"]') ||
+      document.querySelector('[contenteditable="true"][role="textbox"]') ||
+      document.querySelector('textarea');
+
+    let editor = null;
+    for (let i = 0; i < 40 && !editor; i++) { editor = findEditor(); if (!editor) await sleep(500); }
+    if (!editor) return { error: 'no-input' };
+
+    editor.focus();
+    if (editor.tagName === 'TEXTAREA') {
+      editor.value = ${P};
+      editor.dispatchEvent(new Event('input', { bubbles: true }));
+    } else {
+      editor.textContent = '';
+      try { document.execCommand('insertText', false, ${P}); } catch (e) {}
+      if (!editor.textContent) editor.textContent = ${P};
+      editor.dispatchEvent(new InputEvent('input', { bubbles: true }));
+    }
+    await sleep(600);
+
+    const findSend = () =>
+      document.querySelector('button[aria-label*="Send" i]:not([disabled])') ||
+      document.querySelector('button.send-button:not([disabled])') ||
+      Array.from(document.querySelectorAll('button')).find(b =>
+        /send/i.test((b.getAttribute('aria-label') || '') + ' ' + (b.textContent || '')) && !b.disabled);
+
+    let sent = false;
+    for (let i = 0; i < 12 && !sent; i++) {
+      const b = findSend();
+      if (b) { b.click(); sent = true; break; }
+      await sleep(400);
+    }
+    if (!sent) {
+      editor.dispatchEvent(new KeyboardEvent('keydown', { key: 'Enter', code: 'Enter', keyCode: 13, bubbles: true }));
+    }
+
+    const good = (s) => /googleusercontent|lh3\\.google|generativelanguage|blob:|data:image/i.test(s || '');
+    const bad = (s) => /avatar|icon|logo|sprite|emoji/i.test(s || '');
+    const big = (img) => (img.naturalWidth || img.width || 0) > 200 && (img.naturalHeight || img.height || 0) > 200;
+    const candidates = () => {
+      const out = [];
+      const scopes = document.querySelectorAll(
+        '[class*="response"],[class*="message"],[class*="conversation"],[class*="model"]'
+      );
+      scopes.forEach(c => c.querySelectorAll('img').forEach(img => {
+        const s = img.currentSrc || img.src || '';
+        if (good(s) && !bad(s) && big(img)) out.push(img);
+      }));
+      if (!out.length) {
+        document.querySelectorAll('img').forEach(img => {
+          const s = img.currentSrc || img.src || '';
+          if (good(s) && !bad(s) && big(img)) out.push(img);
+        });
+      }
+      return out;
+    };
+
+    const deadline = Date.now() + 90000;
+    let imgEl = null;
+    while (Date.now() < deadline && !imgEl) {
+      const c = candidates();
+      if (c.length) { imgEl = c[c.length - 1]; break; }
+      await sleep(1500);
+    }
+    if (!imgEl) return { error: 'no-image' };
+
+    const src = imgEl.currentSrc || imgEl.src;
+    try {
+      const resp = await fetch(src);
+      const blob = await resp.blob();
+      const dataUrl = await new Promise((res, rej) => {
+        const fr = new FileReader();
+        fr.onload = () => res(fr.result);
+        fr.onerror = rej;
+        fr.readAsDataURL(blob);
+      });
+      return { dataUrl };
+    } catch (e) {
+      return { src, error: 'fetch-failed' };
+    }
+  })()`
+}

@@ -13,7 +13,7 @@ export const DEFAULT_CONFIG: AppConfig = {
   enableRephrase: true,
 
   enableCardImages: true,
-  imageProvider: 'gemini',
+  imageProvider: 'gemini-web',
   geminiApiKey: '',
   geminiImageModel: 'gemini-2.5-flash-image',
 
