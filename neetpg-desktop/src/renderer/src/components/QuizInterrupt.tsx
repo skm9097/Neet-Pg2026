@@ -1,13 +1,15 @@
 import { useState, useEffect, useRef, useCallback, CSSProperties } from 'react'
 import type { MistakeCard } from '../types'
 import { subjectInfo, ICONS } from '../data'
-import { Svg, SubjectBadge, ErrorPill } from './ui'
+import { Svg, SubjectBadge, ErrorPill, Button, ProgressRing } from './ui'
 import { CardVisual } from './CardVisual'
 
 interface Tweaks {
   animSpeed: 'slow' | 'normal' | 'fast'
   enableRephrase?: boolean
 }
+
+const READ_SECONDS = 15
 
 export function QuizInterrupt({
   card,
@@ -24,12 +26,12 @@ export function QuizInterrupt({
   const [selected, setSelected] = useState<string | null>(null)
   const [entering, setEntering] = useState(true)
   const [exiting, setExiting] = useState(false)
-  const [countdown, setCountdown] = useState(15)
+  const [countdown, setCountdown] = useState(READ_SECONDS)
   const [mnemonic, setMnemonic] = useState<string | null>(null)
   const startTime = useRef(Date.now())
 
   useEffect(() => {
-    const t = setTimeout(() => setEntering(false), 50)
+    const t = setTimeout(() => setEntering(false), 30)
     return () => clearTimeout(t)
   }, [])
 
@@ -42,19 +44,15 @@ export function QuizInterrupt({
       setTimeout(() => {
         onGrade(card.id, grade)
         onDismiss()
-      }, 350)
+      }, 320)
     },
     [card.id, onGrade, onDismiss]
   )
 
   const handleSubmit = (): void => {
     if (!selected) return
-    const timeTaken = (Date.now() - startTime.current) / 1000
-    const grade = isCorrect ? (timeTaken < 10 ? 5 : 4) : 1
     setPhase('result')
-    if (isCorrect) {
-      setTimeout(() => handleClose(grade), 2500)
-    } else if (card.timesWrong >= 1) {
+    if (!isCorrect && card.timesWrong >= 1) {
       // Repeated mistake → fetch a mnemonic in the background (non-blocking).
       window.api
         .llmGenerate('mnemonic', card.id)
@@ -63,45 +61,42 @@ export function QuizInterrupt({
     }
   }
 
+  // Forced read-through countdown for wrong answers.
   useEffect(() => {
     if (phase !== 'result' || isCorrect || countdown <= 0) return
     const t = setTimeout(() => setCountdown((c) => c - 1), 1000)
     return () => clearTimeout(t)
   }, [phase, isCorrect, countdown])
 
-  const animSpeed = tweaks.animSpeed === 'fast' ? 0.2 : tweaks.animSpeed === 'slow' ? 0.6 : 0.35
+  const animSpeed = tweaks.animSpeed === 'fast' ? 0.2 : tweaks.animSpeed === 'slow' ? 0.6 : 0.36
 
   return (
     <div
       style={{
         ...styles.overlay,
         opacity: exiting ? 0 : 1,
-        transition: `opacity ${animSpeed}s ease`
+        transition: `opacity ${animSpeed}s var(--ease-out)`
       }}
     >
       <div
+        className="glass"
         style={{
           ...styles.card,
-          transform: entering
-            ? 'translateY(40px) scale(0.97)'
-            : exiting
-              ? 'translateY(20px) scale(0.98)'
-              : 'translateY(0) scale(1)',
+          transform: entering ? 'scale(0.92)' : exiting ? 'scale(0.97)' : 'scale(1)',
           opacity: entering ? 0 : 1,
-          transition: `all ${animSpeed}s cubic-bezier(0.22, 1, 0.36, 1)`,
-          borderColor: phase === 'result' ? (isCorrect ? 'var(--correct)' : 'var(--wrong)') : 'var(--border)',
+          transition: `transform ${animSpeed}s var(--spring-bounce), opacity ${animSpeed}s var(--ease-out), border-color 0.3s var(--ease-out), box-shadow 0.3s var(--ease-out)`,
+          borderColor:
+            phase === 'result' ? (isCorrect ? 'var(--correct)' : 'var(--wrong)') : 'rgba(255,255,255,0.1)',
           boxShadow:
             phase === 'result'
-              ? `0 0 60px ${isCorrect ? 'var(--correct-dim)' : 'var(--wrong-dim)'}, 0 25px 60px rgba(0,0,0,0.4)`
-              : '0 25px 60px rgba(0,0,0,0.4)'
+              ? `0 0 60px ${isCorrect ? 'var(--correct-dim)' : 'var(--wrong-dim)'}, var(--shadow-lg)`
+              : 'var(--shadow-lg)'
         }}
       >
         <div style={styles.header}>
           <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
             <SubjectBadge subject={card.subject} />
-            <span
-              style={{ fontSize: 13, color: 'var(--text-tertiary)', fontFamily: "'JetBrains Mono', monospace" }}
-            >
+            <span style={{ fontSize: 13, color: 'var(--text-tertiary)', fontFamily: "'JetBrains Mono', monospace" }}>
               {card.id}
             </span>
           </div>
@@ -116,7 +111,7 @@ export function QuizInterrupt({
             isCorrect={isCorrect}
             countdown={countdown}
             mnemonic={mnemonic}
-            onClose={() => handleClose(isCorrect ? 4 : 1)}
+            onGrade={handleClose}
           />
         )}
       </div>
@@ -135,9 +130,7 @@ function QuestionView({
   onSelect: (o: string) => void
   onSubmit: () => void
 }): JSX.Element {
-  const options = card.options.length
-    ? card.options
-    : ['A) ' + card.correctAnswer.replace(/^[A-D]\)\s*/, '')]
+  const options = card.options.length ? card.options : ['A) ' + card.correctAnswer.replace(/^[A-D]\)\s*/, '')]
   return (
     <div>
       <div style={styles.question}>{card.question || card.factHeading}</div>
@@ -147,39 +140,59 @@ function QuestionView({
           const isSelected = selected === opt
           const clean = opt.replace(' ✅', '')
           return (
-            <button
+            <OptionButton
               key={i}
+              letter={letter}
+              text={clean.replace(/^[A-D]\)\s*/, '')}
+              selected={isSelected}
               onClick={() => onSelect(opt)}
-              style={{
-                ...styles.option,
-                borderColor: isSelected ? 'var(--accent)' : 'var(--border)',
-                background: isSelected ? 'var(--accent-dim)' : 'var(--bg-card)'
-              }}
-            >
-              <span
-                style={{
-                  ...styles.optionLetter,
-                  background: isSelected ? 'var(--accent)' : 'var(--bg-hover)',
-                  color: isSelected ? '#fff' : 'var(--text-secondary)'
-                }}
-              >
-                {letter}
-              </span>
-              <span style={{ color: 'var(--text-primary)', fontSize: 15 }}>{clean.replace(/^[A-D]\)\s*/, '')}</span>
-            </button>
+            />
           )
         })}
       </div>
       <div style={{ display: 'flex', justifyContent: 'center' }}>
-        <button
-          onClick={onSubmit}
-          disabled={!selected}
-          style={{ ...styles.submitBtn, opacity: selected ? 1 : 0.4, cursor: selected ? 'pointer' : 'not-allowed' }}
-        >
+        <Button variant="filled" size="lg" disabled={!selected} onClick={onSubmit}>
           Submit Answer
-        </button>
+        </Button>
       </div>
     </div>
+  )
+}
+
+function OptionButton({
+  letter,
+  text,
+  selected,
+  onClick
+}: {
+  letter: string
+  text: string
+  selected: boolean
+  onClick: () => void
+}): JSX.Element {
+  const [hov, setHov] = useState(false)
+  return (
+    <button
+      onClick={onClick}
+      onMouseEnter={() => setHov(true)}
+      onMouseLeave={() => setHov(false)}
+      style={{
+        ...styles.option,
+        borderColor: selected ? 'var(--accent)' : hov ? 'var(--hairline-strong)' : 'var(--border)',
+        background: selected ? 'var(--accent-dim)' : hov ? 'var(--bg-hover)' : 'var(--bg-card)'
+      }}
+    >
+      <span
+        style={{
+          ...styles.optionLetter,
+          background: selected ? 'var(--accent)' : 'var(--bg-hover)',
+          color: selected ? '#fff' : 'var(--text-secondary)'
+        }}
+      >
+        {letter}
+      </span>
+      <span style={{ color: 'var(--text-primary)', fontSize: 15 }}>{text}</span>
+    </button>
   )
 }
 
@@ -188,16 +201,17 @@ function ResultView({
   isCorrect,
   countdown,
   mnemonic,
-  onClose
+  onGrade
 }: {
   card: MistakeCard
   isCorrect: boolean
   countdown: number
   mnemonic: string | null
-  onClose: () => void
+  onGrade: (grade: number) => void
 }): JSX.Element {
   const correctClean = card.correctAnswer.replace(' ✅', '')
   const info = subjectInfo(card.subject)
+
   return (
     <div>
       <div
@@ -208,12 +222,27 @@ function ResultView({
         }}
       >
         <Svg markup={isCorrect ? ICONS.check : ICONS.x} />
-        <span style={{ fontWeight: 600 }}>
-          {isCorrect ? 'Correct!' : `Wrong — Correct: ${correctClean}`}
-        </span>
+        <span style={{ fontWeight: 600 }}>{isCorrect ? 'Correct!' : `Wrong — Correct: ${correctClean}`}</span>
       </div>
 
-      {!isCorrect && (
+      {isCorrect ? (
+        <>
+          <div style={{ fontSize: 14, color: 'var(--text-secondary)', textAlign: 'center', marginBottom: 24 }}>
+            How well did you know it?
+          </div>
+          <div style={{ display: 'flex', gap: 10, justifyContent: 'center' }}>
+            <Button variant="tinted" onClick={() => onGrade(3)} style={{ color: 'var(--warning)', background: 'rgba(240,180,73,0.14)' }}>
+              Hard
+            </Button>
+            <Button variant="tinted" onClick={() => onGrade(4)}>
+              Good
+            </Button>
+            <Button variant="filled" onClick={() => onGrade(5)}>
+              Easy
+            </Button>
+          </div>
+        </>
+      ) : (
         <div>
           {/* Reinforce with the card's generated visual while they read. */}
           <div style={{ height: 200, display: 'flex', marginBottom: 20 }}>
@@ -237,20 +266,20 @@ function ResultView({
               <div style={{ ...styles.factText, fontStyle: 'italic' }}>{mnemonic}</div>
             </div>
           )}
-          <div style={{ display: 'flex', justifyContent: 'center' }}>
-            <button
-              onClick={countdown <= 0 ? onClose : undefined}
-              style={{ ...styles.gotItBtn, opacity: countdown <= 0 ? 1 : 0.5, cursor: countdown <= 0 ? 'pointer' : 'default' }}
-            >
-              {countdown > 0 ? `Read carefully… (${countdown}s)` : 'Got it'}
-            </button>
+          <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 16 }}>
+            {countdown > 0 ? (
+              <div style={{ display: 'flex', alignItems: 'center', gap: 14 }}>
+                <ProgressRing value={(READ_SECONDS - countdown) / READ_SECONDS} size={52} strokeWidth={4}>
+                  <span style={{ fontSize: 15, fontWeight: 700, color: 'var(--text-secondary)' }}>{countdown}</span>
+                </ProgressRing>
+                <span style={{ fontSize: 14, color: 'var(--text-tertiary)' }}>Read carefully…</span>
+              </div>
+            ) : (
+              <Button variant="filled" size="lg" onClick={() => onGrade(2)}>
+                Understood
+              </Button>
+            )}
           </div>
-        </div>
-      )}
-
-      {isCorrect && (
-        <div style={{ textAlign: 'center', padding: '24px 0 8px' }}>
-          <div style={{ fontSize: 15, color: 'var(--text-secondary)' }}>Dismissing automatically…</div>
         </div>
       )}
     </div>
@@ -265,18 +294,18 @@ const styles: Record<string, CSSProperties> = {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    background: 'rgba(8, 10, 20, 0.85)',
-    backdropFilter: 'blur(8px)',
-    WebkitBackdropFilter: 'blur(8px)'
+    background: 'rgba(8, 10, 20, 0.78)',
+    backdropFilter: 'blur(14px) saturate(1.2)',
+    WebkitBackdropFilter: 'blur(14px) saturate(1.2)'
   },
   card: {
     width: '100%',
     maxWidth: 600,
     maxHeight: '90vh',
     overflowY: 'auto',
-    background: 'var(--bg-base)',
-    borderRadius: 20,
-    border: '1.5px solid var(--border)',
+    background: 'var(--bg-glass)',
+    borderRadius: 'var(--radius-xl)',
+    border: '1.5px solid rgba(255,255,255,0.1)',
     padding: '28px 32px'
   },
   header: { display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: 24 },
@@ -286,12 +315,12 @@ const styles: Record<string, CSSProperties> = {
     alignItems: 'center',
     gap: 14,
     padding: '14px 18px',
-    borderRadius: 12,
+    borderRadius: 'var(--radius-md)',
     border: '1.5px solid var(--border)',
     cursor: 'pointer',
     textAlign: 'left',
     width: '100%',
-    transition: 'all 0.15s ease'
+    transition: 'background 0.15s var(--ease-out), border-color 0.15s var(--ease-out)'
   },
   optionLetter: {
     width: 30,
@@ -303,24 +332,14 @@ const styles: Record<string, CSSProperties> = {
     fontSize: 13,
     fontWeight: 700,
     flexShrink: 0,
-    transition: 'all 0.15s ease'
-  },
-  submitBtn: {
-    padding: '12px 36px',
-    borderRadius: 12,
-    border: 'none',
-    background: 'var(--accent)',
-    color: '#fff',
-    fontSize: 15,
-    fontWeight: 600,
-    transition: 'all 0.2s ease'
+    transition: 'all 0.15s var(--ease-out)'
   },
   resultBanner: {
     display: 'flex',
     alignItems: 'center',
     gap: 10,
     padding: '14px 20px',
-    borderRadius: 12,
+    borderRadius: 'var(--radius-md)',
     marginBottom: 24,
     fontSize: 15
   },
@@ -332,15 +351,5 @@ const styles: Record<string, CSSProperties> = {
     color: 'var(--text-tertiary)',
     marginBottom: 8
   },
-  factText: { fontSize: 15, lineHeight: 1.65, color: 'var(--text-primary)' },
-  gotItBtn: {
-    padding: '12px 32px',
-    borderRadius: 12,
-    border: '1.5px solid var(--border)',
-    background: 'var(--bg-card)',
-    color: 'var(--text-primary)',
-    fontSize: 14,
-    fontWeight: 500,
-    transition: 'all 0.2s ease'
-  }
+  factText: { fontSize: 15, lineHeight: 1.65, color: 'var(--text-primary)' }
 }
