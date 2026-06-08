@@ -5,6 +5,7 @@ import { getConfig } from './store'
 import { CardCache } from './cache'
 import { SREngine } from './sr-engine'
 import { LLMService } from './llm-service'
+import { ImageGenService } from './image-gen'
 import { RepoSync } from './repo-sync'
 import { Syncer } from './syncer'
 import { IdleDetector } from './idle-detector'
@@ -27,10 +28,19 @@ const send = (channel: string, ...args: unknown[]): void => {
 let cache: CardCache
 let sr: SREngine
 let llm: LLMService
+let imageGen: ImageGenService
 let repo: RepoSync
 let syncer: Syncer
 let idle: IdleDetector
 const power = new PowerControl()
+
+/** Warm a few upcoming card images so the ambient hero is ready before display. */
+function warmImages(): void {
+  const cfg = getConfig()
+  if (!cfg.enableCardImages) return
+  const pending = cache.allCards().filter((c) => !imageGen.hasImage(c))
+  if (pending.length) imageGen.pregenerate(pending, 3).catch(() => {})
+}
 
 function createWindow(): void {
   const cfg = getConfig()
@@ -82,6 +92,7 @@ function restartSyncTimer(cfg: AppConfig): void {
       .sync()
       .then((r) => {
         if (r.changed > 0) send('cards-updated', r.changed)
+        warmImages()
       })
       .catch(() => {})
   }, minutes * 60 * 1000)
@@ -142,6 +153,7 @@ app.whenReady().then(async () => {
   cache = new CardCache(userData)
   sr = new SREngine(cache)
   llm = new LLMService(() => getConfig().groqApiKey)
+  imageGen = new ImageGenService(() => getConfig(), userData)
   repo = new RepoSync(() => getConfig())
   syncer = new Syncer(() => getConfig(), repo, cache, sr, llm)
 
@@ -149,6 +161,7 @@ app.whenReady().then(async () => {
     cache,
     sr,
     llm,
+    imageGen,
     repo,
     syncer,
     getWindow,
@@ -159,6 +172,7 @@ app.whenReady().then(async () => {
   tray = createTray(getWindow, send, () => {
     syncer.sync().then((r) => {
       if (r.changed > 0) send('cards-updated', r.changed)
+      warmImages()
     })
   })
 
@@ -176,8 +190,12 @@ app.whenReady().then(async () => {
     setTimeout(() => {
       syncer.sync().then((r) => {
         if (r.changed > 0) send('cards-updated', r.changed)
+        warmImages()
       })
     }, 1500)
+  } else if (cfg.configured) {
+    // Public-repo reads need no token — still warm images once cards land.
+    setTimeout(warmImages, 4000)
   }
 
   app.on('activate', () => {

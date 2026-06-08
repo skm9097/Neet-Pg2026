@@ -11,7 +11,8 @@ export function Settings({
   const [local, setLocal] = useState<AppConfig>(config)
   const [ghResult, setGhResult] = useState<{ ok: boolean; message: string } | null>(null)
   const [groqResult, setGroqResult] = useState<{ ok: boolean; message: string } | null>(null)
-  const [testing, setTesting] = useState<'gh' | 'groq' | null>(null)
+  const [geminiResult, setGeminiResult] = useState<{ ok: boolean; message: string } | null>(null)
+  const [testing, setTesting] = useState<'gh' | 'groq' | 'gemini' | null>(null)
 
   const update = <K extends keyof AppConfig>(key: K, val: AppConfig[K]): void => {
     setLocal((s) => ({ ...s, [key]: val }))
@@ -31,6 +32,14 @@ export function Settings({
     setGroqResult(null)
     const r = await window.api.testGroq()
     setGroqResult(r)
+    setTesting(null)
+  }
+
+  const testGemini = async (): Promise<void> => {
+    setTesting('gemini')
+    setGeminiResult(null)
+    const r = await window.api.testGemini()
+    setGeminiResult(r)
     setTesting(null)
   }
 
@@ -69,6 +78,25 @@ export function Settings({
           <Segmented label="Background" value={local.themeVariant}
             options={[{ value: 'midnight', label: 'Midnight' }, { value: 'charcoal', label: 'Charcoal' }, { value: 'navy', label: 'Navy' }]}
             onChange={(v) => update('themeVariant', v as AppConfig['themeVariant'])} />
+        </Section>
+
+        <Section title="AI Visuals (Card Images)">
+          <Toggle label="Generate an infographic image for each card" value={local.enableCardImages}
+            onChange={(v) => update('enableCardImages', v)} />
+          <Segmented label="Image source" value={local.imageProvider}
+            options={[{ value: 'gemini', label: 'Gemini' }, { value: 'pollinations', label: 'Free (no key)' }]}
+            onChange={(v) => update('imageProvider', v as AppConfig['imageProvider'])} />
+          <TextInput label="Gemini API key" value={local.geminiApiKey} placeholder="AIza…" type="password"
+            onChange={(v) => update('geminiApiKey', v)} />
+          <TextInput label="Gemini image model" value={local.geminiImageModel} placeholder="gemini-2.5-flash-image"
+            onChange={(v) => update('geminiImageModel', v)} />
+          <TestRow label={testing === 'gemini' ? 'Testing…' : 'Test image generation'} onClick={testGemini}
+            disabled={testing !== null} result={geminiResult} />
+          <div style={{ fontSize: 12, color: 'var(--text-tertiary)', lineHeight: 1.6, marginTop: 4 }}>
+            Each card’s visual is generated once from its deck data and cached on disk, so it isn’t re-created every
+            time. “Gemini” uses your own API key (default model <code>gemini-2.5-flash-image</code>); “Free” uses
+            Pollinations with no key. Turn this off to show a plain placeholder instead.
+          </div>
         </Section>
 
         <Section title="Quiz & Review">

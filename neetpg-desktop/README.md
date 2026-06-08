@@ -21,10 +21,10 @@ as quiz pop-ups, and as an analytics dashboard.
 
 | Screen | What it does |
 |---|---|
-| **Ambient** | Full-screen screensaver that cycles your mistake cards — bold heading, scannable bullet points, and a "what went wrong" note. Auto-advances; `←` `→` navigate, `Space` pauses. Appears automatically when you're idle. |
-| **Quiz Interrupt** | A modal that quizzes you on a due card. Wrong answers force a 15-second read-through of the key fact (plus an LLM mnemonic if you've missed it before). Correct answers flash green and dismiss. |
+| **Ambient** | Full-screen screensaver in an editorial layout — bold heading and scannable bullets on the left, an **AI-generated infographic image** on the right, and a "what went wrong" note below. Auto-advances; `←` `→` navigate, `Space` pauses. Appears automatically when you're idle. |
+| **Quiz Interrupt** | A modal that quizzes you on a due card. Wrong answers force a 15-second read-through of the key fact (with the card's generated visual and an LLM mnemonic if you've missed it before). Correct answers flash green and dismiss. |
 | **Dashboard** | Score trend, spaced-repetition queue breakdown, topic-weakness bars, and your most stubborn questions. `Ctrl+Shift+N`. |
-| **Settings** | GitHub sync, Groq AI, display tweaks, review timing, and system/permission controls. |
+| **Settings** | GitHub sync, Groq AI, AI card visuals (Gemini), display tweaks, review timing, and system/permission controls. |
 
 A slim nav rail on the left switches screens; it auto-hides in ambient mode and
 reappears on mouse movement. The app lives in the system tray and keeps syncing
@@ -52,10 +52,36 @@ for private repos or to push progress back.
 
 ---
 
+## AI infographic visuals
+
+Instead of a wall of text, every card carries a **visual** on the right of the
+ambient slide. The image is generated from the card's own deck data (subject,
+topic, key fact, correct answer) and **cached on disk** in
+`…/AppData/Roaming/neetpg-desktop/card-images/`, so each card's picture is
+created **once** and reused forever — it is never re-generated on every loop.
+
+- **Source** — default is the **Gemini** image model (`gemini-2.5-flash-image`)
+  using your own API key; the model id is editable in Settings. A free,
+  keyless **Pollinations** source is also selectable.
+- **Prompting** — the app asks for a clean, labelled, text-free medical
+  illustration on a dark background (AI renders garbled words, so labels are
+  deliberately excluded).
+- **Pre-generation** — a few upcoming cards are warmed each sync cycle, so the
+  visual is ready before the card rotates in.
+- **Graceful fallback** — while an image is generating, or if visuals are off /
+  no key is set, a calm subject-tinted placeholder is shown — never a blank box
+  or a spinner that breaks the screensaver feel.
+- **Storage cap** — the cache is trimmed to the most recent 600 images.
+
+Turn the whole feature off (plain placeholders) with one toggle in **Settings →
+AI Visuals**.
+
+---
+
 ## Install (prebuilt)
 
 A ready-to-run installer is in the repo at
-[`releases/NEET-PG-Desktop-Setup-1.0.1.exe`](../releases). Download it, run it,
+[`releases/NEET-PG-Desktop-Setup-1.1.0.exe`](../releases). Download it, run it,
 pick an install folder, and launch. (Windows SmartScreen may warn because the
 installer isn't code-signed — choose **More info → Run anyway**.)
 
@@ -77,6 +103,8 @@ pick an install folder, and launch. On first run you'll be asked for:
 2. **GitHub Personal Access Token** — optional for a public repo; needs
    `contents: write` if you want progress synced back.
 3. **Groq API key** — optional, enables mnemonics & rephrased questions.
+4. **Gemini API key** — optional, generates a cached infographic image for each
+   card (or pick the free image source / turn visuals off in Settings).
 
 You can change all of these later in **Settings**.
 
@@ -129,6 +157,7 @@ src/
 │   ├── cache.ts           JSON-file card/SR/session/LLM cache (no native deps)
 │   ├── sr-engine.ts       SM-2 spaced repetition + streak
 │   ├── llm-service.ts     Groq API (mnemonics, rephrase, enrich) — all optional
+│   ├── image-gen.ts       Per-card infographic images (Gemini / Pollinations) + disk cache
 │   ├── idle-detector.ts   OS idle → ambient/active switching
 │   ├── power.ts           Wake control + login item
 │   ├── tray.ts            System tray menu
@@ -136,7 +165,7 @@ src/
 │   └── ipc-handlers.ts    Typed IPC bridge
 ├── preload/index.ts       contextBridge → window.api
 ├── renderer/              React UI (matches the Claude Design handoff)
-│   └── src/components/     AmbientMode · QuizInterrupt · Dashboard · Settings · Setup
+│   └── src/components/     AmbientMode · CardVisual · QuizInterrupt · Dashboard · Settings · Setup
 └── shared/types.ts        Types shared across main + renderer
 ```
 

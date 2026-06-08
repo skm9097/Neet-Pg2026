@@ -2,6 +2,7 @@ import { useState, useEffect, useRef, useCallback, CSSProperties } from 'react'
 import type { MistakeCard } from '../types'
 import { subjectInfo, ICONS } from '../data'
 import { Svg, SubjectBadge, ErrorPill } from './ui'
+import { CardVisual } from './CardVisual'
 
 interface Tweaks {
   animSpeed: 'slow' | 'normal' | 'fast'
@@ -196,6 +197,7 @@ function ResultView({
   onClose: () => void
 }): JSX.Element {
   const correctClean = card.correctAnswer.replace(' ✅', '')
+  const info = subjectInfo(card.subject)
   return (
     <div>
       <div
@@ -213,6 +215,10 @@ function ResultView({
 
       {!isCorrect && (
         <div>
+          {/* Reinforce with the card's generated visual while they read. */}
+          <div style={{ height: 200, display: 'flex', marginBottom: 20 }}>
+            <CardVisual card={card} accent={info.color} />
+          </div>
           {card.keyFact && (
             <div style={{ marginBottom: 20 }}>
               <div style={styles.factLabel}>Key Fact</div>

@@ -4,6 +4,7 @@ import { getConfig, saveConfig } from './store'
 import { CardCache } from './cache'
 import { SREngine } from './sr-engine'
 import { LLMService } from './llm-service'
+import { ImageGenService } from './image-gen'
 import { RepoSync } from './repo-sync'
 import { Syncer } from './syncer'
 import { buildStats, withSR } from './stats'
@@ -14,6 +15,7 @@ export interface Services {
   cache: CardCache
   sr: SREngine
   llm: LLMService
+  imageGen: ImageGenService
   repo: RepoSync
   syncer: Syncer
   getWindow: () => BrowserWindow | null
@@ -67,6 +69,9 @@ export function registerIpc(s: Services): void {
     const result = await s.syncer.sync()
     const win = s.getWindow()
     if (win && result.changed > 0) win.webContents.send('cards-updated', result.changed)
+    // Warm a few images so freshly-synced cards have a visual ready.
+    const pending = s.cache.allCards().filter((c) => !s.imageGen.hasImage(c))
+    if (pending.length) s.imageGen.pregenerate(pending, 3).catch(() => {})
     return result
   })
 
@@ -104,8 +109,17 @@ export function registerIpc(s: Services): void {
     }
   })
 
+  // Per-card infographic image (generated on first request, cached thereafter).
+  ipcMain.handle('get-card-image', async (_e, cardId: string) => {
+    const card = s.cache.getCard(cardId)
+    if (!card) return { cardId, status: 'error', dataUrl: null }
+    const r = await s.imageGen.getDataUrl(card)
+    return { cardId, status: r.status, dataUrl: r.dataUrl }
+  })
+
   ipcMain.handle('test-github', () => s.repo.test())
   ipcMain.handle('test-groq', () => s.llm.test())
+  ipcMain.handle('test-gemini', () => s.imageGen.test())
 
   // Renderer → main: user picked a mode via the sidebar.
   ipcMain.on('set-mode', (_e, mode: AppMode) => {

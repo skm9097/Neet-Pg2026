@@ -12,8 +12,10 @@ const api: DesktopApi = {
   syncNow: () => ipcRenderer.invoke('sync-now'),
   getSyncStatus: () => ipcRenderer.invoke('get-sync-status'),
   llmGenerate: (type, cardId: string) => ipcRenderer.invoke('llm-generate', type, cardId),
+  getCardImage: (cardId: string) => ipcRenderer.invoke('get-card-image', cardId),
   testGithub: () => ipcRenderer.invoke('test-github'),
   testGroq: () => ipcRenderer.invoke('test-groq'),
+  testGemini: () => ipcRenderer.invoke('test-gemini'),
 
   setMode: (mode: AppMode) => ipcRenderer.send('set-mode', mode),
   minimizeWindow: () => ipcRenderer.send('window-minimize'),

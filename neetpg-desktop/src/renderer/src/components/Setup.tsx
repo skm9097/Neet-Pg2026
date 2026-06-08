@@ -13,6 +13,7 @@ export function Setup({
   const [branch, setBranch] = useState(config.repoBranch || 'main')
   const [pat, setPat] = useState(config.githubPat)
   const [groq, setGroq] = useState(config.groqApiKey)
+  const [gemini, setGemini] = useState(config.geminiApiKey)
   const [testing, setTesting] = useState(false)
   const [result, setResult] = useState<{ ok: boolean; message: string } | null>(null)
 
@@ -23,6 +24,7 @@ export function Setup({
       repoBranch: branch.trim() || 'main',
       githubPat: pat.trim(),
       groqApiKey: groq.trim(),
+      geminiApiKey: gemini.trim(),
       configured
     })
   }
@@ -73,6 +75,15 @@ export function Setup({
             value={groq}
             placeholder="gsk_xxxxxxxxxxxx"
             onChange={(e) => setGroq(e.target.value)}
+          />
+        </Field>
+        <Field label="Gemini API key (optional)" hint="Generates a cached infographic image for each card. Leave blank to use the free image source or plain placeholders — you can change this in Settings.">
+          <input
+            style={styles.input}
+            type="password"
+            value={gemini}
+            placeholder="AIza…"
+            onChange={(e) => setGemini(e.target.value)}
           />
         </Field>
 

@@ -12,6 +12,11 @@ export const DEFAULT_CONFIG: AppConfig = {
   enableMnemonics: true,
   enableRephrase: true,
 
+  enableCardImages: true,
+  imageProvider: 'gemini',
+  geminiApiKey: '',
+  geminiImageModel: 'gemini-2.5-flash-image',
+
   syncIntervalMinutes: 5,
   quizIntervalMinutes: 30,
   idleThresholdMinutes: 5,

@@ -99,6 +99,12 @@ export interface AppConfig {
   enableMnemonics: boolean
   enableRephrase: boolean
 
+  // AI visuals (per-card infographic image generation)
+  enableCardImages: boolean
+  imageProvider: 'gemini' | 'pollinations'
+  geminiApiKey: string
+  geminiImageModel: string
+
   // Timing
   syncIntervalMinutes: number
   quizIntervalMinutes: number
@@ -144,6 +150,15 @@ export interface SyncStatus {
   totalCards: number
 }
 
+// === Per-card generated infographic image (returned over IPC as a data URL) ===
+export interface CardImage {
+  cardId: string
+  // ready = image available; pending = still generating; error = generation
+  // failed (e.g. no key / quota); disabled = card images turned off.
+  status: 'ready' | 'pending' | 'error' | 'disabled'
+  dataUrl: string | null
+}
+
 export type AppMode = 'ambient' | 'dashboard' | 'settings'
 
 // === The typed bridge exposed on window.api by the preload script ===
@@ -158,8 +173,10 @@ export interface DesktopApi {
   syncNow(): Promise<{ changed: number; error: string | null }>
   getSyncStatus(): Promise<SyncStatus>
   llmGenerate(type: 'mnemonic' | 'quiz_variant' | 'comparison', cardId: string): Promise<string | null>
+  getCardImage(cardId: string): Promise<CardImage>
   testGithub(): Promise<{ ok: boolean; message: string }>
   testGroq(): Promise<{ ok: boolean; message: string }>
+  testGemini(): Promise<{ ok: boolean; message: string }>
   setMode(mode: AppMode): void
   minimizeWindow(): void
   hideWindow(): void
