@@ -30,6 +30,23 @@ const send = (channel: string, ...args: unknown[]): void => {
   mainWindow?.webContents.send(channel, ...args)
 }
 
+// Single-instance lock: never let a second copy of the app start. Without this,
+// re-launches (and the installer relaunching) pile up multiple background
+// processes — a major cause of the app feeling heavy and "taking over" the PC.
+const gotLock = app.requestSingleInstanceLock()
+if (!gotLock) {
+  app.quit()
+} else {
+  app.on('second-instance', () => {
+    // A second launch just focuses the existing window instead of starting anew.
+    if (mainWindow) {
+      if (mainWindow.isMinimized()) mainWindow.restore()
+      mainWindow.show()
+      mainWindow.focus()
+    }
+  })
+}
+
 // ── Services (config-bound via getters so live setting changes take effect) ──
 let cache: CardCache
 let sr: SREngine
@@ -47,11 +64,15 @@ function warmImages(): void {
   if (!cfg.enableCardImages) return
   // Nothing to warm (and nothing to show) until cards have actually synced in.
   if (cache.allCards().length === 0) return
+  // The 'gemini-web' source drives a real (hidden) Chromium window per image —
+  // far too heavy to run on every background sync cycle (this was the app
+  // "taking over" the PC). For that source we never pre-warm; images are
+  // generated lazily, only while a card is actually on screen. Light HTTP
+  // sources (API / Pollinations) can warm a couple of upcoming cards cheaply.
+  if (cfg.imageProvider === 'gemini-web') return
   const pending = cache.allCards().filter((c) => !imageGen.hasImage(c))
   if (!pending.length) return
-  // The web provider is slow (drives a real browser), so warm gently.
-  const max = cfg.imageProvider === 'gemini-web' ? 1 : 3
-  imageGen.pregenerate(pending, max).catch(() => {})
+  imageGen.pregenerate(pending, 3).catch(() => {})
 }
 
 function createWindow(): void {
@@ -238,8 +259,18 @@ app.whenReady().then(async () => {
 })
 
 app.on('window-all-closed', () => {
-  // Stay alive in the tray on Windows/Linux; only quit explicitly.
-  if (process.platform === 'darwin') app.quit()
+  if (process.platform === 'darwin') return
+  // Only linger in the tray if the user explicitly opted into it. By default,
+  // closing the window quits the process cleanly — so the app never becomes a
+  // stubborn background task the installer/uninstaller can't close.
+  if (!getConfig().minimizeToTray) app.quit()
+})
+
+// Mark an intentional quit so the window 'close' handler stops sending the
+// window to the tray (lets the installer, uninstaller, and tray-Quit all close
+// the app for real).
+app.on('before-quit', () => {
+  ;(app as unknown as { isQuitting: boolean }).isQuitting = true
 })
 
 app.on('will-quit', () => {

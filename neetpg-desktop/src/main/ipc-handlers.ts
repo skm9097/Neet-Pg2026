@@ -85,10 +85,13 @@ export function registerIpc(s: Services): void {
     const result = await s.syncer.sync()
     const win = s.getWindow()
     if (win && result.changed > 0) win.webContents.send('cards-updated', result.changed)
-    // Warm a few images so freshly-synced cards have a visual ready.
-    const pending = s.cache.allCards().filter((c) => !s.imageGen.hasImage(c))
-    const max = getConfig().imageProvider === 'gemini-web' ? 1 : 3
-    if (pending.length) s.imageGen.pregenerate(pending, max).catch(() => {})
+    // Warm a few images for light HTTP sources only. The 'gemini-web' source
+    // drives a hidden browser per image and must never be spawned in the
+    // background — its images are generated lazily, only when a card is shown.
+    if (getConfig().imageProvider !== 'gemini-web') {
+      const pending = s.cache.allCards().filter((c) => !s.imageGen.hasImage(c))
+      if (pending.length) s.imageGen.pregenerate(pending, 3).catch(() => {})
+    }
     return result
   })
 
