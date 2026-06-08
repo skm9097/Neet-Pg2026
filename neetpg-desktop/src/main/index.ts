@@ -1,4 +1,9 @@
 import { app, BrowserWindow, globalShortcut, Tray } from 'electron'
+
+// Must be set before app is ready. Removes the "AutomationControlled" Blink
+// feature flag that signals to sites (including Google) that the browser is
+// being driven programmatically.
+app.commandLine.appendSwitch('disable-blink-features', 'AutomationControlled')
 import { join } from 'path'
 import type { AppConfig, AppMode } from '../shared/types'
 import { getConfig } from './store'

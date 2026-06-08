@@ -10,6 +10,11 @@ const UA =
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' +
   '(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
 
+// sec-ch-ua client hints to send alongside the spoofed UA.
+// The default Electron value includes "Electron" as a brand, which triggers
+// Google's "browser is not secure" block even when the UA header is overridden.
+const CH_UA = '"Google Chrome";v="126", "Chromium";v="126", "Not-A.Brand";v="99"'
+
 /**
  * Drives the Gemini *website* (not the API) to generate images using the user's
  * own signed-in Google account. The user authenticates once in a normal browser
@@ -24,13 +29,41 @@ const UA =
 export class GeminiWebService {
   private signInWin: BrowserWindow | null = null
   private busy = false
+  private sessionReady = false
 
   private sess(): Electron.Session {
     return session.fromPartition(PARTITION)
   }
 
+  /**
+   * Configures the persistent session once: sets the session-level UA and
+   * installs a request-header interceptor that replaces sec-ch-ua client hints
+   * with real Chrome values. This is the core fix for Google's
+   * "browser is not secure" sign-in block — the per-window setUserAgent() call
+   * alone doesn't cover client hints, which still expose "Electron" as the
+   * browser brand.
+   */
+  private setupSession(): void {
+    if (this.sessionReady) return
+    this.sessionReady = true
+    const ses = this.sess()
+    ses.setUserAgent(UA)
+    ses.webRequest.onBeforeSendHeaders(
+      { urls: ['https://*.google.com/*', 'https://gemini.google.com/*'] },
+      (details, callback) => {
+        const headers = { ...details.requestHeaders }
+        headers['User-Agent'] = UA
+        headers['sec-ch-ua'] = CH_UA
+        headers['sec-ch-ua-mobile'] = '?0'
+        headers['sec-ch-ua-platform'] = '"Windows"'
+        callback({ requestHeaders: headers })
+      }
+    )
+  }
+
   /** Whether a Google login cookie is present in the dedicated session. */
   async status(): Promise<{ signedIn: boolean; message: string }> {
+    this.setupSession()
     try {
       const cookies = await this.sess().cookies.get({ domain: '.google.com' })
       const signed = cookies.some((c) => /^(__Secure-1PSID|__Secure-3PSID|SID)$/.test(c.name))
@@ -45,12 +78,13 @@ export class GeminiWebService {
 
   /** Open a visible window for the user to log into Gemini. */
   async signIn(): Promise<{ ok: boolean; message: string }> {
+    this.setupSession()
     if (this.signInWin && !this.signInWin.isDestroyed()) {
       this.signInWin.focus()
       return { ok: true, message: 'Sign-in window is already open' }
     }
     const win = new BrowserWindow({
-      width: 480,
+      width: 960,
       height: 760,
       show: true,
       title: 'Sign in to Gemini',
@@ -59,10 +93,15 @@ export class GeminiWebService {
         partition: PARTITION,
         contextIsolation: true,
         nodeIntegration: false,
-        sandbox: true
+        // sandbox: false lets Electron inject the preload that patches
+        // navigator properties; combined with the session-level UA and
+        // header interceptor this gives the window a clean Chrome fingerprint.
+        sandbox: false
       }
     })
     this.signInWin = win
+    // Belt-and-suspenders: set UA on the window's webContents as well
+    // (the session setUserAgent covers requests; this covers JS navigator.userAgent).
     win.webContents.setUserAgent(UA)
     win.on('closed', () => {
       this.signInWin = null
@@ -90,6 +129,7 @@ export class GeminiWebService {
 
   /** Generate one image for the prompt via a hidden Gemini window. */
   async generate(prompt: string): Promise<Buffer | null> {
+    this.setupSession()
     // Serialise generations — one hidden window at a time.
     const start = Date.now()
     while (this.busy) {
@@ -110,9 +150,10 @@ export class GeminiWebService {
           partition: PARTITION,
           contextIsolation: true,
           nodeIntegration: false,
-          sandbox: true
+          sandbox: false
         }
       })
+      // Session-level UA covers HTTP requests; this covers navigator.userAgent in JS.
       win.webContents.setUserAgent(UA)
       await win.loadURL(GEMINI_URL)
       // Let the single-page app boot before we touch the DOM.
