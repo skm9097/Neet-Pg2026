@@ -1,5 +1,5 @@
-import { ipcMain, BrowserWindow } from 'electron'
-import type { AppConfig, AppMode } from '../shared/types'
+import { ipcMain, BrowserWindow, app } from 'electron'
+import type { AppConfig, AppInfo, AppMode } from '../shared/types'
 import { getConfig, saveConfig } from './store'
 import { CardCache } from './cache'
 import { SREngine } from './sr-engine'
@@ -8,7 +8,7 @@ import { ImageGenService } from './image-gen'
 import { GeminiWebService } from './gemini-web'
 import { RepoSync } from './repo-sync'
 import { Syncer } from './syncer'
-import { buildStats, withSR } from './stats'
+import { buildReviewFeed, buildStats, withSR } from './stats'
 
 const todayKey = (): string => new Date().toISOString().split('T')[0]
 
@@ -48,6 +48,20 @@ export function registerIpc(s: Services): void {
       .slice(0, limit || 20)
     return out.map((c) => withSR(c, s.cache))
   })
+
+  // Smart-review feed: due → weakest-topic unresolved → recent mistakes → fill.
+  // De-duped by id and sliced to `limit` (default 20); never empty if any cards.
+  ipcMain.handle('get-review-feed', (_e, limit: number) => {
+    const feed = buildReviewFeed(s.cache).slice(0, limit || 20)
+    return feed.map((c) => withSR(c, s.cache))
+  })
+
+  // Build/runtime info for the renderer's About panel + Sync button.
+  ipcMain.handle('get-app-info', (): AppInfo => ({
+    version: app.getVersion(),
+    electron: process.versions.electron,
+    platform: process.platform
+  }))
 
   ipcMain.handle('get-next-quiz-card', () => {
     const id = s.sr.getNextCardId()

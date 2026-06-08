@@ -117,8 +117,8 @@ function frame(accent: string): CSSProperties {
     flex: 1,
     minHeight: 0,
     display: 'flex',
-    background: 'var(--bg-card)',
-    borderRadius: 16,
+    background: 'var(--bg-elevated)',
+    borderRadius: 18,
     border: '1px solid var(--border-subtle)',
     boxShadow: `inset 0 0 0 1px ${accent}10`,
     overflow: 'hidden'

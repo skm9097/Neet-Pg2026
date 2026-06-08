@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useCallback, CSSProperties } from 'react'
 import type { MistakeCard, SyncStatus } from '../types'
 import { subjectInfo, ICONS, ANIM_MS } from '../data'
-import { Svg, SubjectBadge, StatusBadge, ErrorPill, IconBtn, Clock, Crossfade } from './ui'
+import { SubjectBadge, StatusBadge, ErrorPill, IconBtn, Clock, Crossfade, SyncButton, EmptyState } from './ui'
 import { CardVisual, prefetchCardImage } from './CardVisual'
 
 interface Tweaks {
@@ -12,20 +12,22 @@ interface Tweaks {
 
 /**
  * Ambient screensaver — an editorial, full-screen review slide:
- *   • top bar: subject · topic · id  /  sync · clock
+ *   • top bar: subject · topic · id  /  progress dots · sync · clock
  *   • left column (42%): bold heading, scannable bullets, "what went wrong"
  *   • right column: the AI-generated infographic visual (hero), card stats below
- *   • bottom bar: transport controls, progress, position
+ *   • bottom bar: transport controls, progress, keyboard hints
  */
 export function AmbientMode({
-  cards,
+  feed,
   tweaks,
   sync,
+  onSync,
   onTriggerQuiz
 }: {
-  cards: MistakeCard[]
+  feed: MistakeCard[]
   tweaks: Tweaks
   sync: SyncStatus
+  onSync: () => void
   onTriggerQuiz: () => void
 }): JSX.Element {
   const [idx, setIdx] = useState(0)
@@ -34,25 +36,26 @@ export function AmbientMode({
   const [progress, setProgress] = useState(0)
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null)
   const duration = (tweaks.cardDuration || 20) * 1000
-  const card = cards[idx] || null
+  const count = feed.length
+  const card = count ? feed[idx % count] : null
 
   const goNext = useCallback(() => {
-    setIdx((i) => (cards.length ? (i + 1) % cards.length : 0))
+    setIdx((i) => (count ? (i + 1) % count : 0))
     setFadeKey((k) => k + 1)
-  }, [cards.length])
+  }, [count])
 
   const goPrev = useCallback(() => {
-    setIdx((i) => (cards.length ? (i - 1 + cards.length) % cards.length : 0))
+    setIdx((i) => (count ? (i - 1 + count) % count : 0))
     setFadeKey((k) => k + 1)
-  }, [cards.length])
+  }, [count])
 
   useEffect(() => {
-    if (paused || cards.length === 0) return
+    if (paused || count === 0) return
     timerRef.current = setInterval(goNext, duration)
     return () => {
       if (timerRef.current) clearInterval(timerRef.current)
     }
-  }, [paused, duration, goNext, cards.length])
+  }, [paused, duration, goNext, count])
 
   useEffect(() => {
     const handler = (e: KeyboardEvent): void => {
@@ -91,22 +94,18 @@ export function AmbientMode({
 
   // Warm the next card's visual so it's ready by the time it rotates in.
   useEffect(() => {
-    if (cards.length < 2) return
-    prefetchCardImage(cards[(idx + 1) % cards.length])
-  }, [idx, cards])
+    if (count < 2) return
+    prefetchCardImage(feed[(idx + 1) % count])
+  }, [idx, feed, count])
 
   if (!card) {
     return (
       <div style={styles.shell}>
-        <div style={{ textAlign: 'center', padding: 40 }}>
-          <div style={{ fontSize: 48, marginBottom: 16, opacity: 0.4 }}>📱</div>
-          <div style={{ fontSize: 22, fontWeight: 600, marginBottom: 8, color: 'var(--text-primary)' }}>
-            No mistakes synced yet
-          </div>
-          <div style={{ fontSize: 15, color: 'var(--text-secondary)' }}>
-            Go study on your phone — your mistakes will appear here automatically
-          </div>
-        </div>
+        <EmptyState
+          title="No mistakes yet"
+          subtitle="Sync your question bank to start reviewing. Mistakes you make on your phone will appear here automatically."
+          action={{ label: 'Sync now', onClick: onSync }}
+        />
       </div>
     )
   }
@@ -114,8 +113,8 @@ export function AmbientMode({
   const info = subjectInfo(card.subject)
   const fs = tweaks.fontSize || 26
   const fadeMs = ANIM_MS[tweaks.animSpeed] || ANIM_MS.normal
-  const heading = card.factHeading || card.question || stripLetter(card.correctAnswer)
-  const points = card.factPoints.length ? card.factPoints : card.keyFact ? splitFact(card.keyFact) : []
+  const heading = card.factHeading || topicLabel(card) || card.subject || stripLetter(card.correctAnswer)
+  const points = card.factPoints?.length ? card.factPoints.slice(0, 4) : card.keyFact ? splitFact(card.keyFact) : []
 
   return (
     <div style={styles.shell}>
@@ -131,10 +130,8 @@ export function AmbientMode({
           </span>
         </div>
         <div style={{ display: 'flex', alignItems: 'center', gap: 16, flexShrink: 0 }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
-            <Svg markup={ICONS.sync} style={{ color: 'var(--text-tertiary)' }} />
-            <span style={{ fontSize: 12, color: 'var(--text-tertiary)' }}>{syncLabel(sync)}</span>
-          </div>
+          <ProgressDots idx={idx} total={count} color={info.color} />
+          <SyncButton status={sync} onSync={onSync} size="sm" compact />
           <Clock />
         </div>
       </div>
@@ -257,8 +254,19 @@ export function AmbientMode({
           <IconBtn icon={ICONS.quiz} label="Start Quiz" onClick={onTriggerQuiz} size={32} />
         </div>
 
-        <div style={{ display: 'flex', alignItems: 'center', gap: 12, flex: 1, maxWidth: 400 }}>
-          <div style={{ flex: 1 }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, color: 'var(--text-tertiary)', fontSize: 12 }}>
+          <span className="kbd">Space</span>
+          <span>pause</span>
+          <span style={{ opacity: 0.5 }}>·</span>
+          <span className="kbd">←</span>
+          <span className="kbd">→</span>
+          <span>navigate</span>
+        </div>
+
+        <div
+          style={{ display: 'flex', alignItems: 'center', gap: 12, flex: 1, maxWidth: 360, justifyContent: 'flex-end' }}
+        >
+          <div style={{ flex: 1, maxWidth: 240 }}>
             <div style={{ width: '100%', height: 3, background: 'var(--bg-hover)', borderRadius: 3, overflow: 'hidden' }}>
               <div
                 style={{
@@ -281,24 +289,52 @@ export function AmbientMode({
               textAlign: 'right'
             }}
           >
-            {idx + 1}/{cards.length}
+            {(idx % count) + 1}/{count}
           </span>
+          {paused && (
+            <span
+              style={{
+                fontSize: 11,
+                color: 'var(--warning)',
+                fontWeight: 600,
+                letterSpacing: '0.08em',
+                textTransform: 'uppercase'
+              }}
+            >
+              Paused
+            </span>
+          )}
         </div>
-
-        {paused && (
-          <span
-            style={{
-              fontSize: 11,
-              color: 'var(--warning)',
-              fontWeight: 600,
-              letterSpacing: '0.08em',
-              textTransform: 'uppercase'
-            }}
-          >
-            Paused
-          </span>
-        )}
       </div>
+    </div>
+  )
+}
+
+/** Subtle position dots (max 5 visible) — active uses the subject accent. */
+function ProgressDots({ idx, total, color }: { idx: number; total: number; color: string }): JSX.Element {
+  const max = Math.min(total, 5)
+  const active = total ? idx % total : 0
+  // Map the active card index onto the visible window of dots.
+  const start = total <= max ? 0 : Math.max(0, Math.min(active - 2, total - max))
+  return (
+    <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+      {Array.from({ length: max }, (_, i) => {
+        const cardIdx = start + i
+        const isActive = cardIdx === active
+        return (
+          <span
+            key={i}
+            style={{
+              width: 6,
+              height: 6,
+              borderRadius: '50%',
+              background: isActive ? color : 'var(--text-tertiary)',
+              opacity: isActive ? 1 : 0.3,
+              transition: 'background 0.3s var(--ease-out), opacity 0.3s var(--ease-out)'
+            }}
+          />
+        )
+      })}
     </div>
   )
 }
@@ -317,7 +353,7 @@ function splitFact(text: string): string[] {
     .split(/(?<=[.!?])\s+/)
     .map((s) => s.trim())
     .filter(Boolean)
-    .slice(0, 5)
+    .slice(0, 4)
 }
 
 /** Only show the topic label when it adds information beyond the subject. */
@@ -337,17 +373,6 @@ function shorten(text: string, maxSentences = 2, maxChars = 220): string {
     .join(' ')
     .trim()
   return joined.length > maxChars ? joined.slice(0, maxChars).replace(/\s+\S*$/, '') + '…' : joined
-}
-
-function syncLabel(sync: SyncStatus): string {
-  if (sync.inProgress) return 'Syncing…'
-  if (sync.lastError) return 'Sync error'
-  if (!sync.lastSync) return 'Not synced yet'
-  const mins = Math.round((Date.now() - new Date(sync.lastSync).getTime()) / 60000)
-  if (mins <= 0) return 'Synced just now'
-  if (mins === 1) return 'Synced 1m ago'
-  if (mins < 60) return `Synced ${mins}m ago`
-  return `Synced ${Math.round(mins / 60)}h ago`
 }
 
 const styles: Record<string, CSSProperties> = {

@@ -6,21 +6,15 @@ import { SREngine } from './sr-engine'
 import { LLMService } from './llm-service'
 import { parseMistakeFile } from './file-parser'
 
-/**
- * Orchestrates a sync cycle:
- *   1. List the repo tree (GitHub API).
- *   2. Fetch + parse changed mistake files into the cache.
- *   3. Ingest session logs.
- *   4. Optionally enrich un-enriched cards via the LLM.
- *   5. Push progress/sr-state.json + progress/topic-scores.json back.
- */
 export class Syncer {
   private status: SyncStatus = {
     lastSync: null,
     lastError: null,
     inProgress: false,
-    totalCards: 0
+    totalCards: 0,
+    phase: 'idle'
   }
+  private sink: ((s: SyncStatus) => void) | null = null
 
   constructor(
     private cfg: () => AppConfig,
@@ -30,14 +24,24 @@ export class Syncer {
     private llm: LLMService
   ) {}
 
+  /** Attach a callback that receives every status transition — used by index.ts
+   *  to push live updates to the renderer via IPC. */
+  setStatusSink(fn: (s: SyncStatus) => void): void {
+    this.sink = fn
+  }
+
+  private emit(patch: Partial<SyncStatus>): void {
+    Object.assign(this.status, patch)
+    this.sink?.({ ...this.status, totalCards: this.cache.allCards().length })
+  }
+
   getStatus(): SyncStatus {
     return { ...this.status, totalCards: this.cache.allCards().length }
   }
 
-  /** One full sync pass. Returns the number of changed files ingested. */
   async sync(): Promise<{ changed: number; error: string | null }> {
     if (this.status.inProgress) return { changed: 0, error: null }
-    this.status.inProgress = true
+    this.emit({ inProgress: true, lastError: null, phase: 'listing' })
     let changed = 0
 
     try {
@@ -50,7 +54,8 @@ export class Syncer {
         (e) => e.path.startsWith('sessions/') && e.path.endsWith('.json')
       )
 
-      // ── Mistake files (only fetch ones whose blob sha changed) ──
+      this.emit({ phase: 'fetching' })
+
       for (const f of mistakeFiles) {
         if (this.cache.getBlobSha(f.path) === f.sha) continue
         try {
@@ -65,7 +70,6 @@ export class Syncer {
         }
       }
 
-      // ── Session logs ──
       for (const f of sessionFiles) {
         if (this.cache.getBlobSha(f.path) === f.sha) continue
         try {
@@ -73,7 +77,6 @@ export class Syncer {
           const s = JSON.parse(raw) as Partial<SessionLog>
           if (s.sessionId) {
             this.cache.upsertSession(normalizeSession(s))
-            // reuse blob-sha map for change detection on sessions too
             this.cache.setBlobSha(f.path, f.sha)
             changed++
           }
@@ -82,29 +85,26 @@ export class Syncer {
         }
       }
 
-      // Join SR state onto the cards so the renderer gets srStatus/nextReview.
       this.joinSRState()
       this.cache.save()
 
-      // ── Enrich un-enriched cards (offline pushes) if AI is on ──
       const c = this.cfg()
       if (this.llm.configured && c.enableMnemonics) {
+        this.emit({ phase: 'enriching' })
         await this.enrichMissing()
       }
 
-      // ── Push progress back to the repo ──
       if (c.githubPat) {
+        this.emit({ phase: 'pushing' })
         await this.pushProgress()
       }
 
-      this.status.lastSync = new Date().toISOString()
-      this.status.lastError = null
+      this.emit({ inProgress: false, lastSync: new Date().toISOString(), phase: 'done' })
       return { changed, error: null }
     } catch (e) {
-      this.status.lastError = (e as Error).message
-      return { changed, error: this.status.lastError }
-    } finally {
-      this.status.inProgress = false
+      const msg = (e as Error).message
+      this.emit({ inProgress: false, lastError: msg, phase: 'error' })
+      return { changed, error: msg }
     }
   }
 
@@ -123,11 +123,8 @@ export class Syncer {
   private async enrichMissing(): Promise<void> {
     const missing = this.cache
       .allCards()
-      // Only enrich genuinely un-enriched cards that still have a question to
-      // work from. Without the `question` guard, a parse miss would feed the
-      // LLM an empty prompt and get back generic boilerplate.
       .filter((c) => c.question && c.options.length > 0 && (!c.keyFact || !c.whyWrong))
-      .slice(0, 5) // bound LLM work per cycle
+      .slice(0, 5)
     for (const card of missing) {
       const enriched = await this.llm.enrichCard(card)
       if (enriched) {
@@ -149,7 +146,6 @@ export class Syncer {
         JSON.stringify(srState, null, 2),
         'sr: desktop review update'
       )
-
       const topicScores = this.computeTopicScores()
       await this.repo.putFile(
         'progress/topic-scores.json',
@@ -157,7 +153,6 @@ export class Syncer {
         'progress: desktop topic scores'
       )
     } catch (e) {
-      // Network/conflict — keep the local state, retry next cycle.
       this.status.lastError = `push: ${(e as Error).message}`
     }
   }
@@ -193,5 +188,4 @@ function normalizeSession(s: Partial<SessionLog>): SessionLog {
   }
 }
 
-// re-export the repo path helper for symmetry with the spec layout
 export const progressPath = (root: string): string => join(root, 'progress')

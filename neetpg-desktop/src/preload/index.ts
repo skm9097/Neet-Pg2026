@@ -1,14 +1,16 @@
 import { contextBridge, ipcRenderer } from 'electron'
-import type { AppConfig, AppMode, DesktopApi } from '../shared/types'
+import type { AppConfig, AppMode, DesktopApi, SyncStatus } from '../shared/types'
 
 const api: DesktopApi = {
   getConfig: () => ipcRenderer.invoke('get-config'),
   saveConfig: (patch: Partial<AppConfig>) => ipcRenderer.invoke('save-config', patch),
   getCards: () => ipcRenderer.invoke('get-cards'),
   getDueCards: (limit: number) => ipcRenderer.invoke('get-due-cards', limit),
+  getReviewFeed: (limit: number) => ipcRenderer.invoke('get-review-feed', limit),
   getNextQuizCard: () => ipcRenderer.invoke('get-next-quiz-card'),
   gradeCard: (cardId: string, grade: number) => ipcRenderer.invoke('grade-card', cardId, grade),
   getStats: () => ipcRenderer.invoke('get-stats'),
+  getAppInfo: () => ipcRenderer.invoke('get-app-info'),
   syncNow: () => ipcRenderer.invoke('sync-now'),
   getSyncStatus: () => ipcRenderer.invoke('get-sync-status'),
   llmGenerate: (type, cardId: string) => ipcRenderer.invoke('llm-generate', type, cardId),
@@ -39,6 +41,11 @@ const api: DesktopApi = {
     const listener = (): void => cb()
     ipcRenderer.on('trigger-quiz', listener)
     return () => ipcRenderer.removeListener('trigger-quiz', listener)
+  },
+  onSyncStatus: (cb: (status: SyncStatus) => void) => {
+    const listener = (_e: unknown, status: SyncStatus): void => cb(status)
+    ipcRenderer.on('sync-status', listener)
+    return () => ipcRenderer.removeListener('sync-status', listener)
   }
 }
 

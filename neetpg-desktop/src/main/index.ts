@@ -45,6 +45,8 @@ const power = new PowerControl()
 function warmImages(): void {
   const cfg = getConfig()
   if (!cfg.enableCardImages) return
+  // Nothing to warm (and nothing to show) until cards have actually synced in.
+  if (cache.allCards().length === 0) return
   const pending = cache.allCards().filter((c) => !imageGen.hasImage(c))
   if (!pending.length) return
   // The web provider is slow (drives a real browser), so warm gently.
@@ -53,6 +55,11 @@ function warmImages(): void {
 }
 
 function createWindow(): void {
+  // Never create a second main window — reuse the existing one if it's alive.
+  if (mainWindow && !mainWindow.isDestroyed()) {
+    mainWindow.show()
+    return
+  }
   const cfg = getConfig()
   mainWindow = new BrowserWindow({
     width: 1280,
@@ -71,6 +78,12 @@ function createWindow(): void {
   })
 
   mainWindow.on('ready-to-show', () => mainWindow?.show())
+
+  // Drop the reference once the window is truly gone so any later recreate
+  // (e.g. macOS 'activate') makes exactly one fresh window, never a duplicate.
+  mainWindow.on('closed', () => {
+    mainWindow = null
+  })
 
   // Minimize-to-tray: closing hides the window instead of quitting.
   mainWindow.on('close', (e) => {
@@ -112,7 +125,9 @@ function startQuizTimer(): void {
   clearQuizTimer()
   const minutes = Math.max(5, getConfig().quizIntervalMinutes)
   quizTimer = setTimeout(() => {
-    if (currentMode !== 'ambient') send('trigger-quiz')
+    // Only nudge a quiz when there's actually something to quiz on; a popup with
+    // no card data is exactly the "blank window" bug. The renderer guards too.
+    if (currentMode !== 'ambient' && cache.allCards().length > 0) send('trigger-quiz')
     startQuizTimer()
   }, minutes * 60 * 1000)
 }
@@ -126,6 +141,10 @@ function handleIdleChange(isIdle: boolean): void {
   const cfg = getConfig()
   if (!cfg.autoAmbientOnIdle) return
   if (isIdle) {
+    // Never force a blank fullscreen ambient window when there's nothing to
+    // show. With zero cards the ambient view has no question data, which is the
+    // "blank window pops up" the user reported — so stay idle / no-op instead.
+    if (cache.allCards().length === 0) return
     currentMode = 'ambient'
     clearQuizTimer()
     power.keepAwake(cfg.keepAwakeInAmbient)
@@ -167,6 +186,9 @@ app.whenReady().then(async () => {
   imageGen = new ImageGenService(() => getConfig(), userData, geminiWeb)
   repo = new RepoSync(() => getConfig())
   syncer = new Syncer(() => getConfig(), repo, cache, sr, llm)
+  // Push every sync-status transition to the renderer so the live Sync button
+  // updates without the renderer having to poll getSyncStatus().
+  syncer.setStatusSink((st) => send('sync-status', st))
 
   registerIpc({
     cache,

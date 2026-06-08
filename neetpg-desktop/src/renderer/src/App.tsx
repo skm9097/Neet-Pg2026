@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, useMemo, CSSProperties } from 'react'
 import type { AppConfig, AppMode, MistakeCard, DashboardStats, SyncStatus } from './types'
 import { ICONS } from './data'
-import { Svg } from './components/ui'
+import { Svg, Toast } from './components/ui'
 import { AmbientMode } from './components/AmbientMode'
 import { Dashboard } from './components/Dashboard'
 import { Settings } from './components/Settings'
@@ -36,7 +36,10 @@ const EMPTY_STATS: DashboardStats = {
 export function App(): JSX.Element {
   const [config, setConfig] = useState<AppConfig | null>(null)
   const [mode, setMode] = useState<AppMode>('ambient')
+  // `cards` powers the dashboard's totals; `reviewFeed` is the ordered
+  // smart-review queue (due → weak topics → recent) shown in ambient mode.
   const [cards, setCards] = useState<MistakeCard[]>([])
+  const [reviewFeed, setReviewFeed] = useState<MistakeCard[]>([])
   const [stats, setStats] = useState<DashboardStats>(EMPTY_STATS)
   const [sync, setSync] = useState<SyncStatus>({ lastSync: null, lastError: null, inProgress: false, totalCards: 0 })
   const [quizCard, setQuizCard] = useState<MistakeCard | null>(null)
@@ -51,12 +54,14 @@ export function App(): JSX.Element {
   }, [])
 
   const refreshData = useCallback(async () => {
-    const [c, s, ss] = await Promise.all([
+    const [c, feed, s, ss] = await Promise.all([
       window.api.getCards(),
+      window.api.getReviewFeed(40),
       window.api.getStats(),
       window.api.getSyncStatus()
     ])
     setCards(c)
+    setReviewFeed(feed)
     setStats(s)
     setSync(ss)
   }, [])
@@ -79,6 +84,11 @@ export function App(): JSX.Element {
     r.setProperty('--bg-card', th.card)
   }, [config?.accentHue, config?.themeVariant])
 
+  const triggerQuiz = useCallback(async () => {
+    const card = await window.api.getNextQuizCard()
+    if (card) setQuizCard(card)
+  }, [])
+
   // ── Main-process events ──
   useEffect(() => {
     const off1 = window.api.onModeChange((m) => {
@@ -89,13 +99,14 @@ export function App(): JSX.Element {
     })
     const off2 = window.api.onCardsUpdated(() => refreshData())
     const off3 = window.api.onTriggerQuiz(() => triggerQuiz())
+    const off4 = window.api.onSyncStatus((s) => setSync(s))
     return () => {
       off1()
       off2()
       off3()
+      off4()
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [refreshData])
+  }, [refreshData, triggerQuiz])
 
   // ── Periodic stats/sync refresh so the dashboard & ambient header stay live ──
   useEffect(() => {
@@ -128,11 +139,6 @@ export function App(): JSX.Element {
     }
   }, [mode])
 
-  const triggerQuiz = useCallback(async () => {
-    const card = await window.api.getNextQuizCard()
-    if (card) setQuizCard(card)
-  }, [])
-
   const handleGrade = useCallback(
     (cardId: string, grade: number) => {
       window.api.gradeCard(cardId, grade).then(() => refreshData())
@@ -143,6 +149,12 @@ export function App(): JSX.Element {
   const saveConfig = useCallback((patch: Partial<AppConfig>) => {
     window.api.saveConfig(patch).then(setConfig)
   }, [])
+
+  const onSync = useCallback(() => {
+    // Optimistic: flip to in-progress immediately so the SyncButton spins.
+    setSync((s) => ({ ...s, inProgress: true, lastError: null, phase: 'listing' }))
+    window.api.syncNow().then(() => refreshData())
+  }, [refreshData])
 
   const changeMode = useCallback((m: AppMode) => {
     setMode(m)
@@ -167,12 +179,6 @@ export function App(): JSX.Element {
     return <Setup config={config} onComplete={(patch) => saveConfig(patch)} />
   }
 
-  const lastSyncLabel = sync.lastError
-    ? `Sync error: ${sync.lastError}`
-    : sync.lastSync
-      ? `Last sync ${relTime(sync.lastSync)}`
-      : 'Not synced yet'
-
   // The rail always floats over the content (no layout shift); it's visible only
   // when opened *and* the UI hasn't faded out.
   const railVisible = navOpen && uiVisible
@@ -181,10 +187,10 @@ export function App(): JSX.Element {
     <div style={appStyles.root}>
       <div style={appStyles.main}>
         {mode === 'ambient' && (
-          <AmbientMode cards={cards} tweaks={tweaks} sync={sync} onTriggerQuiz={triggerQuiz} />
+          <AmbientMode feed={reviewFeed} tweaks={tweaks} sync={sync} onSync={onSync} onTriggerQuiz={triggerQuiz} />
         )}
-        {mode === 'dashboard' && <Dashboard stats={stats} lastSync={lastSyncLabel} />}
-        {mode === 'settings' && <Settings config={config} onChange={saveConfig} />}
+        {mode === 'dashboard' && <Dashboard stats={stats} sync={sync} onSync={onSync} />}
+        {mode === 'settings' && <Settings config={config} onChange={saveConfig} sync={sync} onSync={onSync} />}
       </div>
 
       {/* Frameless window controls — fade with the rest of the UI. */}
@@ -194,7 +200,7 @@ export function App(): JSX.Element {
             ...appStyles.winControls,
             opacity: uiVisible ? 1 : 0,
             pointerEvents: uiVisible ? 'auto' : 'none',
-            transition: 'opacity 0.3s ease'
+            transition: 'opacity 0.3s var(--ease-out)'
           }}
           className="no-drag"
         >
@@ -208,12 +214,12 @@ export function App(): JSX.Element {
       <button
         onClick={() => setNavOpen((o) => !o)}
         title={navOpen ? 'Hide menu' : 'Show menu'}
-        className="no-drag"
+        className="no-drag glass"
         style={{
           ...appStyles.expandHandle,
           opacity: uiVisible && !navOpen ? 1 : 0,
           pointerEvents: uiVisible && !navOpen ? 'auto' : 'none',
-          transition: 'opacity 0.3s ease'
+          transition: 'opacity 0.3s var(--ease-out)'
         }}
       >
         <Svg markup={ICONS.menu} />
@@ -221,11 +227,12 @@ export function App(): JSX.Element {
 
       {/* Side navigation */}
       <div
+        className="glass"
         style={{
           ...appStyles.nav,
           opacity: railVisible ? 1 : 0,
           pointerEvents: railVisible ? 'auto' : 'none',
-          transform: railVisible ? 'translateX(0)' : 'translateX(-12px)'
+          transform: railVisible ? 'translateX(0)' : 'translateX(-16px)'
         }}
       >
         <div style={appStyles.navLogo}>
@@ -245,6 +252,8 @@ export function App(): JSX.Element {
       {quizCard && (
         <QuizInterrupt card={quizCard} onGrade={handleGrade} onDismiss={() => setQuizCard(null)} tweaks={tweaks} />
       )}
+
+      <Toast />
     </div>
   )
 }
@@ -280,7 +289,7 @@ function NavButton({
         justifyContent: 'center',
         background: active ? 'var(--accent-dim)' : hov ? 'var(--bg-hover)' : 'transparent',
         color: active ? 'var(--accent)' : hov ? 'var(--text-primary)' : 'var(--text-tertiary)',
-        transition: 'all 0.2s ease'
+        transition: 'background 0.2s var(--ease-out), color 0.2s var(--ease-out)'
       }}
     >
       <Svg markup={icon} />
@@ -321,20 +330,12 @@ function WinBtn({ icon, label, onClick }: { icon: string; label: string; onClick
         justifyContent: 'center',
         background: hov ? 'var(--bg-hover)' : 'transparent',
         color: hov ? 'var(--text-primary)' : 'var(--text-tertiary)',
-        transition: 'all 0.15s ease'
+        transition: 'background 0.15s var(--ease-out), color 0.15s var(--ease-out)'
       }}
     >
       <Svg markup={icon} />
     </button>
   )
-}
-
-function relTime(iso: string): string {
-  const mins = Math.round((Date.now() - new Date(iso).getTime()) / 60000)
-  if (mins <= 0) return 'just now'
-  if (mins === 1) return '1m ago'
-  if (mins < 60) return `${mins}m ago`
-  return `${Math.round(mins / 60)}h ago`
 }
 
 const appStyles: Record<string, CSSProperties> = {
@@ -344,25 +345,24 @@ const appStyles: Record<string, CSSProperties> = {
     overflow: 'hidden',
     background: 'var(--bg-deep)',
     color: 'var(--text-primary)',
-    fontFamily: "'Plus Jakarta Sans', sans-serif",
     display: 'flex',
     position: 'relative'
   },
   main: { flex: 1, height: '100vh' },
   nav: {
     position: 'fixed',
-    left: 0,
-    top: 0,
-    bottom: 0,
-    width: 56,
+    left: 12,
+    top: 12,
+    bottom: 12,
+    width: 60,
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
     padding: '16px 0',
     zIndex: 50,
-    background: 'var(--bg-base)',
-    borderRight: '1px solid var(--border-subtle)',
-    transition: 'all 0.3s cubic-bezier(0.22,1,0.36,1)'
+    borderRadius: 'var(--radius-xl)',
+    boxShadow: 'var(--shadow-lg)',
+    transition: 'opacity 0.32s var(--spring), transform 0.32s var(--spring)'
   },
   navLogo: {
     width: 36,
@@ -386,16 +386,15 @@ const appStyles: Record<string, CSSProperties> = {
     position: 'fixed',
     top: 12,
     left: 12,
-    width: 36,
-    height: 36,
-    borderRadius: 10,
-    border: '1px solid var(--border-subtle)',
-    background: 'var(--bg-card)',
+    width: 38,
+    height: 38,
+    borderRadius: 'var(--radius-md)',
     color: 'var(--text-secondary)',
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
     cursor: 'pointer',
+    boxShadow: 'var(--shadow-sm)',
     zIndex: 60
   }
 }

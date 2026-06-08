@@ -148,6 +148,15 @@ export interface SyncStatus {
   lastError: string | null
   inProgress: boolean
   totalCards: number
+  // High-level phase for the live sync indicator in the header.
+  phase?: 'idle' | 'listing' | 'fetching' | 'enriching' | 'pushing' | 'done' | 'error'
+}
+
+// === App / build info for the About panel ===
+export interface AppInfo {
+  version: string
+  electron: string
+  platform: string
 }
 
 // === Per-card generated infographic image (returned over IPC as a data URL) ===
@@ -169,9 +178,13 @@ export interface DesktopApi {
   saveConfig(patch: Partial<AppConfig>): Promise<AppConfig>
   getCards(): Promise<MistakeCard[]>
   getDueCards(limit: number): Promise<MistakeCard[]>
+  // Smart-review ordered feed for ambient/quiz: due cards first, then weakest
+  // topics, then most-recent mistakes, then fill. Never empty if any card exists.
+  getReviewFeed(limit: number): Promise<MistakeCard[]>
   getNextQuizCard(): Promise<MistakeCard | null>
   gradeCard(cardId: string, grade: number): Promise<void>
   getStats(): Promise<DashboardStats>
+  getAppInfo(): Promise<AppInfo>
   syncNow(): Promise<{ changed: number; error: string | null }>
   getSyncStatus(): Promise<SyncStatus>
   llmGenerate(type: 'mnemonic' | 'quiz_variant' | 'comparison', cardId: string): Promise<string | null>
@@ -189,4 +202,6 @@ export interface DesktopApi {
   onModeChange(cb: (mode: AppMode) => void): () => void
   onCardsUpdated(cb: (count: number) => void): () => void
   onTriggerQuiz(cb: () => void): () => void
+  // Live sync status pushes so the header indicator updates without polling.
+  onSyncStatus(cb: (status: SyncStatus) => void): () => void
 }

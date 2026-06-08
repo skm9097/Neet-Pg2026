@@ -28,6 +28,9 @@ const CH_UA = '"Google Chrome";v="126", "Chromium";v="126", "Not-A.Brand";v="99"
  */
 export class GeminiWebService {
   private signInWin: BrowserWindow | null = null
+  /** The single in-flight hidden generation window. Tracked so an orphan from a
+   *  previous (hung/crashed) cycle is always destroyed before a new one opens. */
+  private genWin: BrowserWindow | null = null
   private busy = false
   private sessionReady = false
 
@@ -127,6 +130,16 @@ export class GeminiWebService {
     }
   }
 
+  /** Destroy the tracked generation window (if any) and null the reference. */
+  private destroyGenWin(): void {
+    try {
+      if (this.genWin && !this.genWin.isDestroyed()) this.genWin.destroy()
+    } catch {
+      // ignore — a window already being torn down can throw
+    }
+    this.genWin = null
+  }
+
   /** Generate one image for the prompt via a hidden Gemini window. */
   async generate(prompt: string): Promise<Buffer | null> {
     this.setupSession()
@@ -138,30 +151,50 @@ export class GeminiWebService {
     }
     this.busy = true
 
-    let win: BrowserWindow | null = null
+    // Kill any orphan from a previous cycle (e.g. a hung page that escaped the
+    // finally below) before we ever create another window.
+    this.destroyGenWin()
+
     try {
       if (!(await this.status()).signedIn) return null
 
-      win = new BrowserWindow({
+      const win = new BrowserWindow({
+        // Far offscreen + hidden + skip-taskbar so this generation window is
+        // bulletproof-invisible and can never flash or pile up on the user's
+        // screen. backgroundThrottling:false keeps the Gemini SPA executing
+        // JS and producing the image even though the window is never shown.
+        x: -32000,
+        y: -32000,
         width: 1180,
         height: 900,
         show: false,
+        skipTaskbar: true,
+        minimizable: false,
+        fullscreenable: false,
         webPreferences: {
           partition: PARTITION,
           contextIsolation: true,
           nodeIntegration: false,
-          sandbox: false
+          sandbox: false,
+          backgroundThrottling: false
         }
       })
+      this.genWin = win
       // Session-level UA covers HTTP requests; this covers navigator.userAgent in JS.
       win.webContents.setUserAgent(UA)
       await win.loadURL(GEMINI_URL)
       // Let the single-page app boot before we touch the DOM.
       await delay(3500)
+      if (win.isDestroyed()) return null
 
       const webPrompt = `Generate a single illustrative image (no text or letters inside the image). ${prompt}`
       const script = driverScript(webPrompt)
-      const result = (await win.webContents.executeJavaScript(script, true)) as DriverResult
+      // Hard timeout around the in-page driver so a hung page can never leak a
+      // window: on timeout we return null and the finally below destroys it.
+      const result = await withTimeout(
+        win.webContents.executeJavaScript(script, true) as Promise<DriverResult>,
+        100000
+      )
 
       if (result?.dataUrl && result.dataUrl.startsWith('data:image')) {
         const b64 = result.dataUrl.split(',')[1] || ''
@@ -176,10 +209,40 @@ export class GeminiWebService {
     } catch {
       return null
     } finally {
-      if (win && !win.isDestroyed()) win.destroy()
+      // Always tear the hidden window down and drop the reference.
+      this.destroyGenWin()
       this.busy = false
     }
   }
+}
+
+/**
+ * Resolve with the promise's value, or with null if it doesn't settle within
+ * `ms`. Never rejects — a timed-out generation is just a soft miss.
+ */
+function withTimeout<T>(p: Promise<T>, ms: number): Promise<T | null> {
+  return new Promise<T | null>((resolve) => {
+    let settled = false
+    const t = setTimeout(() => {
+      if (settled) return
+      settled = true
+      resolve(null)
+    }, ms)
+    p.then(
+      (v) => {
+        if (settled) return
+        settled = true
+        clearTimeout(t)
+        resolve(v)
+      },
+      () => {
+        if (settled) return
+        settled = true
+        clearTimeout(t)
+        resolve(null)
+      }
+    )
+  })
 }
 
 interface DriverResult {

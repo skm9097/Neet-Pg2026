@@ -1,12 +1,17 @@
 import { useState, useEffect, CSSProperties, ReactNode } from 'react'
-import type { AppConfig } from '../types'
+import type { AppConfig, SyncStatus } from '../types'
+import { SyncButton } from './ui'
 
 export function Settings({
   config,
-  onChange
+  onChange,
+  sync,
+  onSync
 }: {
   config: AppConfig
   onChange: (patch: Partial<AppConfig>) => void
+  sync?: SyncStatus
+  onSync?: () => void
 }): JSX.Element {
   const [local, setLocal] = useState<AppConfig>(config)
   const [ghResult, setGhResult] = useState<{ ok: boolean; message: string } | null>(null)
