@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-06-09T00:13:36.559Z",
+  "lastUpdated": "2026-06-09T00:14:13.797Z",
   "cards": {
     "anatomy_Q28": {
-      "easinessFactor": 1.96,
+      "easinessFactor": 1.42,
       "intervalDays": 1,
       "repetitions": 0,
-      "nextReview": "2026-06-08",
+      "nextReview": "2026-06-09",
       "lastGrade": 1,
       "status": "learning"
     }
