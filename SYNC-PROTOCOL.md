@@ -171,3 +171,5 @@ regeneration and a "generate now" batch up to the remaining budget.
 
 - Android **neet-study-suite ≥ 1.6.0**
 - Desktop **neetpg-desktop ≥ 1.4.0** (card-image store: ≥ 1.5.0)
+- Desktop **v2.x (Tauri rewrite, `neetpg-desktop-tauri/`)** speaks the same
+  protocol — fully interchangeable with v1.4+

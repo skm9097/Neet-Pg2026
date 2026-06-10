@@ -1,0 +1,42 @@
+[package]
+name = "neetpg-desktop"
+version = "2.0.0"
+description = "NEET PG Desktop Study Companion — Tauri edition"
+authors = ["skm9097"]
+license = "MIT"
+edition = "2021"
+
+[lib]
+name = "neetpg_desktop_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = ["tray-icon", "image-png"] }
+tauri-plugin-single-instance = "2"
+tauri-plugin-autostart = "2"
+tauri-plugin-global-shortcut = "2"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+reqwest = { version = "0.12", default-features = false, features = ["rustls-tls", "json"] }
+regex = "1"
+chrono = { version = "0.4", features = ["serde"] }
+base64 = "0.22"
+md-5 = "0.10"
+thiserror = "2"
+tokio = { version = "1", features = ["sync", "time"] }
+
+[target.'cfg(windows)'.dependencies]
+windows-sys = { version = "0.59", features = [
+  "Win32_Foundation",
+  "Win32_System_SystemInformation",
+  "Win32_System_Power",
+  "Win32_UI_Input_KeyboardAndMouse",
+] }
+
+[profile.release]
+lto = true
+codegen-units = 1
+strip = true

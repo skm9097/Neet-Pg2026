@@ -1,0 +1,435 @@
+import { useState, useEffect, useRef, useCallback, CSSProperties } from 'react'
+import type { MistakeCard, SyncStatus } from '../types'
+import { subjectInfo, ICONS, ANIM_MS } from '../data'
+import { SubjectBadge, StatusBadge, ErrorPill, IconBtn, Clock, Crossfade, SyncButton, EmptyState } from './ui'
+import { CardVisual, prefetchCardImage } from './CardVisual'
+
+interface Tweaks {
+  fontSize: number
+  animSpeed: 'slow' | 'normal' | 'fast'
+  cardDuration: number
+}
+
+/**
+ * Ambient screensaver — an editorial, full-screen review slide:
+ *   • top bar: subject · topic · id  /  progress dots · sync · clock
+ *   • left column (42%): bold heading, scannable bullets, "what went wrong"
+ *   • right column: the AI-generated infographic visual (hero), card stats below
+ *   • bottom bar: transport controls, progress, keyboard hints
+ */
+export function AmbientMode({
+  feed,
+  tweaks,
+  sync,
+  onSync,
+  onTriggerQuiz
+}: {
+  feed: MistakeCard[]
+  tweaks: Tweaks
+  sync: SyncStatus
+  onSync: () => void
+  onTriggerQuiz: () => void
+}): JSX.Element {
+  const [idx, setIdx] = useState(0)
+  const [paused, setPaused] = useState(false)
+  const [fadeKey, setFadeKey] = useState(0)
+  const [progress, setProgress] = useState(0)
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null)
+  const duration = (tweaks.cardDuration || 20) * 1000
+  const count = feed.length
+  const card = count ? feed[idx % count] : null
+
+  const goNext = useCallback(() => {
+    setIdx((i) => (count ? (i + 1) % count : 0))
+    setFadeKey((k) => k + 1)
+  }, [count])
+
+  const goPrev = useCallback(() => {
+    setIdx((i) => (count ? (i - 1 + count) % count : 0))
+    setFadeKey((k) => k + 1)
+  }, [count])
+
+  useEffect(() => {
+    if (paused || count === 0) return
+    timerRef.current = setInterval(goNext, duration)
+    return () => {
+      if (timerRef.current) clearInterval(timerRef.current)
+    }
+  }, [paused, duration, goNext, count])
+
+  useEffect(() => {
+    const handler = (e: KeyboardEvent): void => {
+      const tag = (e.target as HTMLElement)?.tagName
+      if (tag === 'INPUT' || tag === 'TEXTAREA') return
+      if (e.key === ' ' || e.code === 'Space') {
+        e.preventDefault()
+        setPaused((p) => !p)
+      }
+      if (e.key === 'ArrowRight') {
+        e.preventDefault()
+        goNext()
+      }
+      if (e.key === 'ArrowLeft') {
+        e.preventDefault()
+        goPrev()
+      }
+    }
+    window.addEventListener('keydown', handler)
+    return () => window.removeEventListener('keydown', handler)
+  }, [goNext, goPrev])
+
+  useEffect(() => {
+    if (paused) return
+    setProgress(0)
+    const start = Date.now()
+    let raf = 0
+    const frame = (): void => {
+      const elapsed = Date.now() - start
+      setProgress(Math.min(elapsed / duration, 1))
+      if (elapsed < duration) raf = requestAnimationFrame(frame)
+    }
+    raf = requestAnimationFrame(frame)
+    return () => cancelAnimationFrame(raf)
+  }, [fadeKey, paused, duration])
+
+  // Warm the next card's visual so it's ready by the time it rotates in.
+  useEffect(() => {
+    if (count < 2) return
+    prefetchCardImage(feed[(idx + 1) % count])
+  }, [idx, feed, count])
+
+  if (!card) {
+    return (
+      <div style={styles.shell}>
+        <EmptyState
+          title="No mistakes yet"
+          subtitle="Sync your question bank to start reviewing. Mistakes you make on your phone will appear here automatically."
+          action={{ label: 'Sync now', onClick: onSync }}
+        />
+      </div>
+    )
+  }
+
+  const info = subjectInfo(card.subject)
+  const fs = tweaks.fontSize || 26
+  const fadeMs = ANIM_MS[tweaks.animSpeed] || ANIM_MS.normal
+  const heading = card.factHeading || topicLabel(card) || card.subject || stripLetter(card.correctAnswer)
+  const points = card.factPoints?.length ? card.factPoints.slice(0, 4) : card.keyFact ? splitFact(card.keyFact) : []
+
+  return (
+    <div style={styles.shell}>
+      {/* ── Row 1: top bar ── */}
+      <div style={styles.topBar}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 16, minWidth: 0 }}>
+          <SubjectBadge subject={card.subject} size="lg" />
+          {topicLabel(card) && (
+            <span style={{ fontSize: 13, color: 'var(--text-secondary)', fontWeight: 500 }}>{topicLabel(card)}</span>
+          )}
+          <span style={{ fontSize: 11, color: 'var(--text-tertiary)', fontFamily: "'JetBrains Mono', monospace" }}>
+            {card.id}
+          </span>
+        </div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 16, flexShrink: 0 }}>
+          <ProgressDots idx={idx} total={count} color={info.color} />
+          <SyncButton status={sync} onSync={onSync} size="sm" compact />
+          <Clock />
+        </div>
+      </div>
+
+      {/* ── Row 2: main content ── */}
+      <div style={styles.mainArea}>
+        <Crossfade keyProp={fadeKey} duration={fadeMs}>
+          <div style={styles.mainGrid}>
+            {/* Left: heading + bullets + mistake */}
+            <div style={styles.leftCol}>
+              <div
+                style={{
+                  fontSize: Math.round(fs * 1.3),
+                  fontWeight: 800,
+                  lineHeight: 1.18,
+                  letterSpacing: '-0.02em',
+                  color: 'var(--text-primary)',
+                  marginBottom: 28
+                }}
+              >
+                {heading}
+              </div>
+
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 14, flex: 1, justifyContent: 'center' }}>
+                {points.map((point, i) => (
+                  <div
+                    key={i}
+                    style={{
+                      display: 'flex',
+                      alignItems: 'baseline',
+                      gap: 14,
+                      fontSize: Math.max(Math.round(fs * 0.62), 15),
+                      lineHeight: 1.55,
+                      color: 'var(--text-primary)',
+                      fontWeight: 500
+                    }}
+                  >
+                    <span
+                      style={{
+                        width: 6,
+                        height: 6,
+                        borderRadius: '50%',
+                        flexShrink: 0,
+                        background: info.color,
+                        opacity: 0.65,
+                        position: 'relative',
+                        top: -2
+                      }}
+                    />
+                    <span>{point}</span>
+                  </div>
+                ))}
+              </div>
+
+              {card.whyWrong && (
+                <div style={{ marginTop: 'auto', paddingTop: 20, display: 'flex', flexDirection: 'column', gap: 6 }}>
+                  <div
+                    style={{
+                      fontSize: 9,
+                      fontWeight: 700,
+                      letterSpacing: '0.11em',
+                      textTransform: 'uppercase',
+                      color: 'var(--wrong)',
+                      opacity: 0.65
+                    }}
+                  >
+                    Your mistake
+                  </div>
+                  <div
+                    style={{
+                      fontSize: Math.max(Math.round(fs * 0.5), 13),
+                      color: 'var(--text-secondary)',
+                      lineHeight: 1.55,
+                      paddingLeft: 12,
+                      borderLeft: `2px solid ${info.color}30`
+                    }}
+                  >
+                    {shorten(card.whyWrong)}
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Right: hero AI visual + stats */}
+            <div style={styles.rightCol}>
+              <CardVisual card={card} accent={info.color} />
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'flex-end',
+                  gap: 10,
+                  paddingTop: 12
+                }}
+              >
+                <span style={{ fontSize: 12, color: 'var(--wrong)', fontWeight: 600 }}>✕ {card.timesWrong}</span>
+                {card.timesCorrect > 0 && (
+                  <span style={{ fontSize: 12, color: 'var(--correct)', fontWeight: 600 }}>✓ {card.timesCorrect}</span>
+                )}
+                <ErrorPill type={card.errorType} />
+                <StatusBadge status={card.srStatus} />
+              </div>
+            </div>
+          </div>
+        </Crossfade>
+      </div>
+
+      {/* ── Row 3: bottom controls ── */}
+      <div style={styles.bottomBar}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+          <IconBtn icon={ICONS.prev} label="Previous (←)" onClick={goPrev} size={32} />
+          <IconBtn
+            icon={paused ? ICONS.play : ICONS.pause}
+            label={paused ? 'Resume (Space)' : 'Pause (Space)'}
+            onClick={() => setPaused((p) => !p)}
+            size={32}
+          />
+          <IconBtn icon={ICONS.next} label="Next (→)" onClick={goNext} size={32} />
+          <div style={{ width: 1, height: 16, background: 'var(--border)', margin: '0 4px' }} />
+          <IconBtn icon={ICONS.quiz} label="Start Quiz" onClick={onTriggerQuiz} size={32} />
+        </div>
+
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8, color: 'var(--text-tertiary)', fontSize: 12 }}>
+          <span className="kbd">Space</span>
+          <span>pause</span>
+          <span style={{ opacity: 0.5 }}>·</span>
+          <span className="kbd">←</span>
+          <span className="kbd">→</span>
+          <span>navigate</span>
+        </div>
+
+        <div
+          style={{ display: 'flex', alignItems: 'center', gap: 12, flex: 1, maxWidth: 360, justifyContent: 'flex-end' }}
+        >
+          <div style={{ flex: 1, maxWidth: 240 }}>
+            <div style={{ width: '100%', height: 3, background: 'var(--bg-hover)', borderRadius: 3, overflow: 'hidden' }}>
+              <div
+                style={{
+                  width: `${progress * 100}%`,
+                  height: '100%',
+                  background: `linear-gradient(90deg, ${info.color}60, ${info.color})`,
+                  borderRadius: 3,
+                  transition: 'none'
+                }}
+              />
+            </div>
+          </div>
+          <span
+            style={{
+              fontSize: 12,
+              color: 'var(--text-tertiary)',
+              fontVariantNumeric: 'tabular-nums',
+              fontFamily: "'JetBrains Mono', monospace",
+              minWidth: 50,
+              textAlign: 'right'
+            }}
+          >
+            {(idx % count) + 1}/{count}
+          </span>
+          {paused && (
+            <span
+              style={{
+                fontSize: 11,
+                color: 'var(--warning)',
+                fontWeight: 600,
+                letterSpacing: '0.08em',
+                textTransform: 'uppercase'
+              }}
+            >
+              Paused
+            </span>
+          )}
+        </div>
+      </div>
+    </div>
+  )
+}
+
+/** Subtle position dots (max 5 visible) — active uses the subject accent. */
+function ProgressDots({ idx, total, color }: { idx: number; total: number; color: string }): JSX.Element {
+  const max = Math.min(total, 5)
+  const active = total ? idx % total : 0
+  // Map the active card index onto the visible window of dots.
+  const start = total <= max ? 0 : Math.max(0, Math.min(active - 2, total - max))
+  return (
+    <div style={{ display: 'flex', alignItems: 'center', gap: 6 }}>
+      {Array.from({ length: max }, (_, i) => {
+        const cardIdx = start + i
+        const isActive = cardIdx === active
+        return (
+          <span
+            key={i}
+            style={{
+              width: 6,
+              height: 6,
+              borderRadius: '50%',
+              background: isActive ? color : 'var(--text-tertiary)',
+              opacity: isActive ? 1 : 0.3,
+              transition: 'background 0.3s var(--ease-out), opacity 0.3s var(--ease-out)'
+            }}
+          />
+        )
+      })}
+    </div>
+  )
+}
+
+/** Strip a leading "A) " / "B) " option letter and the answer tick. */
+function stripLetter(s: string): string {
+  return (s || '')
+    .replace(/^[A-D][.)]\s*/, '')
+    .replace(/\s*✅\s*$/, '')
+    .trim()
+}
+
+/** Split a flowing key-fact into a few bullet-sized clauses for the fallback. */
+function splitFact(text: string): string[] {
+  return text
+    .split(/(?<=[.!?])\s+/)
+    .map((s) => s.trim())
+    .filter(Boolean)
+    .slice(0, 4)
+}
+
+/** Only show the topic label when it adds information beyond the subject. */
+function topicLabel(card: MistakeCard): string {
+  const t = (card.topic || '').trim()
+  if (!t) return ''
+  if (t.toLowerCase() === card.subject.toLowerCase()) return ''
+  return t.replace(/[-_]/g, ' ')
+}
+
+/** Trim a "why wrong" note to its first sentence or two so the slide stays light. */
+function shorten(text: string, maxSentences = 2, maxChars = 220): string {
+  if (!text) return ''
+  const joined = text
+    .split(/(?<=[.!?])\s+/)
+    .slice(0, maxSentences)
+    .join(' ')
+    .trim()
+  return joined.length > maxChars ? joined.slice(0, maxChars).replace(/\s+\S*$/, '') + '…' : joined
+}
+
+const styles: Record<string, CSSProperties> = {
+  shell: {
+    width: '100%',
+    height: '100%',
+    display: 'flex',
+    flexDirection: 'column',
+    background: 'var(--bg-deep)',
+    overflow: 'hidden'
+  },
+  topBar: {
+    flexShrink: 0,
+    display: 'flex',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    padding: '12px 32px',
+    borderBottom: '1px solid var(--border-subtle)'
+  },
+  mainArea: {
+    flex: 1,
+    minHeight: 0,
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    padding: '0 32px'
+  },
+  mainGrid: {
+    display: 'flex',
+    gap: 44,
+    alignItems: 'stretch',
+    width: '100%',
+    height: '100%',
+    maxWidth: 1500,
+    padding: '28px 0'
+  },
+  leftCol: {
+    flex: '0 0 42%',
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'flex-start',
+    minWidth: 0
+  },
+  rightCol: {
+    flex: 1,
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'center',
+    minWidth: 0
+  },
+  bottomBar: {
+    flexShrink: 0,
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    padding: '10px 32px',
+    borderTop: '1px solid var(--border-subtle)',
+    gap: 24
+  }
+}
