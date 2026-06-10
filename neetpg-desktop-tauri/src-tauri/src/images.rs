@@ -39,6 +39,8 @@ struct IndexEntry {
     topic: String,
     #[serde(default)]
     from_repo: bool,
+    #[serde(default)]
+    provider: String,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -60,7 +62,7 @@ struct ErrEntry {
 }
 
 enum GenError {
-    RateLimit(#[allow(dead_code)] String),
+    RateLimit(String),
     Other(String),
 }
 
@@ -78,11 +80,26 @@ impl Images {
     pub fn new(data_dir: &PathBuf) -> Self {
         let dir = data_dir.join("card-images");
         let _ = fs::create_dir_all(&dir);
-        let index = read_json(&dir.join("cache-index.json")).unwrap_or_default();
+        let index: HashMap<String, IndexEntry> = read_json(&dir.join("cache-index.json")).unwrap_or_default();
         let errors = read_json(&dir.join("errors.json")).unwrap_or_default();
         let mut quota: QuotaFile = read_json(&dir.join("quota.json")).unwrap_or_default();
         if quota.date.is_empty() {
             quota.date = local_day();
+        }
+        // The budget counts successful provider generations only. Recompute it
+        // from the index so failed attempts (including ones counted by older
+        // builds) never lock out a day's budget.
+        let today = local_day();
+        if quota.date == today {
+            quota.used = index
+                .values()
+                .filter(|e| {
+                    !e.from_repo
+                        && chrono::DateTime::parse_from_rfc3339(&e.at)
+                            .map(|t| t.with_timezone(&Local).format("%Y-%m-%d").to_string() == today)
+                            .unwrap_or(false)
+                })
+                .count() as i64;
         }
         Self {
             dir,
@@ -282,14 +299,15 @@ impl Images {
         if !force {
             if let Ok(Some(bytes)) = self.fetch_from_repo(http, cfg, card).await {
                 if fs::write(&out, &bytes).is_ok() {
-                    self.record_index(card, &prompt, true);
+                    self.record_index(card, &prompt, true, "");
                     self.clear_error(&card.id);
                     return true;
                 }
             }
         }
 
-        // 2. Budget gate.
+        // 2. Budget gate. (Only *successful* generations consume the budget,
+        //    so a broken provider can't burn through the day's allowance.)
         if let Some(gate) = self.quota_gate(cfg) {
             self.record_error(&card.id, gate);
             return false;
@@ -303,7 +321,6 @@ impl Images {
             }
         }
         self.last_call = Some(Instant::now());
-        self.note_call();
 
         let result = match cfg.image_provider.as_str() {
             "cloudflare" => {
@@ -323,13 +340,34 @@ impl Images {
             }
         };
 
+        // A hard failure on the chosen provider falls back to the free
+        // Pollinations endpoint so the card still gets a visual; the tile is
+        // labelled so the underlying provider problem stays visible.
+        let (result, fallback_from) = match result {
+            Err(GenError::Other(msg)) if cfg.image_provider != "pollinations" => {
+                match gen_pollinations(http, &prompt).await {
+                    Ok(bytes) if bytes.len() >= 128 => (Ok(bytes), Some(msg)),
+                    _ => (Err(GenError::Other(msg)), None),
+                }
+            }
+            r => (r, None),
+        };
+
         match result {
             Ok(bytes) if bytes.len() >= 128 => {
                 if fs::write(&out, &bytes).is_err() {
                     self.record_error(&card.id, "Could not save image to disk".into());
                     return false;
                 }
-                self.record_index(card, &prompt, false);
+                self.note_call();
+                let provider = match &fallback_from {
+                    Some(why) => {
+                        let why_short: String = why.chars().take(90).collect();
+                        format!("free fallback — {} failed: {}", cfg.image_provider, why_short)
+                    }
+                    None => cfg.image_provider.clone(),
+                };
+                self.record_index(card, &prompt, false, &provider);
                 self.clear_error(&card.id);
                 self.cleanup(600);
                 // 4. Push to the repo store so it never regenerates anywhere.
@@ -340,9 +378,9 @@ impl Images {
                 self.record_error(&card.id, "Provider returned no image".into());
                 false
             }
-            Err(GenError::RateLimit(_)) => {
+            Err(GenError::RateLimit(msg)) => {
                 self.note_rate_limited();
-                self.record_error(&card.id, "Provider rate limit hit — retrying after the daily reset".into());
+                self.record_error(&card.id, format!("{msg} — generation resumes after the daily reset"));
                 false
             }
             Err(GenError::Other(msg)) => {
@@ -386,7 +424,7 @@ impl Images {
         self.generate(http, cfg, card, true).await
     }
 
-    fn record_index(&mut self, card: &MistakeCard, prompt: &str, from_repo: bool) {
+    fn record_index(&mut self, card: &MistakeCard, prompt: &str, from_repo: bool, provider: &str) {
         self.index.insert(
             card.id.clone(),
             IndexEntry {
@@ -396,6 +434,7 @@ impl Images {
                 subject: card.subject.clone(),
                 topic: card.topic.clone(),
                 from_repo,
+                provider: provider.to_string(),
             },
         );
         write_json(&self.dir.join("cache-index.json"), &self.index);
@@ -613,27 +652,78 @@ impl Images {
 
 // ── Providers ────────────────────────────────────────────────────────────────
 
+enum CfFormat {
+    Json,
+    Multipart,
+}
+
+/// Cloudflare Workers AI text-to-image. The catalogue splits into three input
+/// contracts: FLUX.1 takes JSON `{prompt, steps ≤ 8}`, the SD-family takes
+/// JSON `{prompt}`, and FLUX.2-family models *only* accept multipart
+/// form-data (sending them JSON yields "required properties at '/' are
+/// 'multipart'"). Pick by model id, then self-correct: a "multipart" rejection
+/// retries as form-data, an unknown model ("No route") retries on the default.
 async fn gen_cloudflare(http: &reqwest::Client, cfg: &Config, prompt: &str) -> Result<Vec<u8>, GenError> {
-    let model = if cfg.cf_image_model.is_empty() { DEFAULT_CF_MODEL } else { &cfg.cf_image_model };
+    let configured = cfg.cf_image_model.trim();
+    let model = if configured.is_empty() { DEFAULT_CF_MODEL } else { configured };
+    let lower = model.to_lowercase();
+    let first = if lower.contains("flux-2") || lower.contains("flux.2") || lower.contains("flux2") {
+        CfFormat::Multipart
+    } else {
+        CfFormat::Json
+    };
+    let json_first = matches!(first, CfFormat::Json);
+
+    match cf_run(http, cfg, model, prompt, &first).await {
+        Err(GenError::Other(msg)) if json_first && msg.to_lowercase().contains("multipart") => {
+            cf_run(http, cfg, model, prompt, &CfFormat::Multipart).await
+        }
+        Err(GenError::Other(msg)) if msg.to_lowercase().contains("no route") && model != DEFAULT_CF_MODEL => {
+            cf_run(http, cfg, DEFAULT_CF_MODEL, prompt, &CfFormat::Json)
+                .await
+                .map_err(|e| match e {
+                    GenError::Other(m) => GenError::Other(format!("{msg}; tried {DEFAULT_CF_MODEL}: {m}")),
+                    other => other,
+                })
+        }
+        r => r,
+    }
+}
+
+async fn cf_run(
+    http: &reqwest::Client,
+    cfg: &Config,
+    model: &str,
+    prompt: &str,
+    format: &CfFormat,
+) -> Result<Vec<u8>, GenError> {
     let url = format!(
         "https://api.cloudflare.com/client/v4/accounts/{}/ai/run/{}",
-        cfg.cf_account_id, model
+        cfg.cf_account_id.trim(),
+        model
     );
-    let body = if model.contains("flux") {
-        serde_json::json!({ "prompt": prompt, "num_steps": 8 })
-    } else {
-        serde_json::json!({ "prompt": prompt })
+    let req = http.post(&url).bearer_auth(cfg.cf_api_token.trim());
+    let req = match format {
+        CfFormat::Json => {
+            let body = if model.to_lowercase().contains("flux") {
+                serde_json::json!({ "prompt": prompt, "steps": 8 })
+            } else {
+                serde_json::json!({ "prompt": prompt })
+            };
+            req.json(&body)
+        }
+        CfFormat::Multipart => {
+            let form = reqwest::multipart::Form::new()
+                .text("prompt", prompt.to_string())
+                .text("width", "1024")
+                .text("height", "1024");
+            req.multipart(form)
+        }
     };
-    let res = http
-        .post(&url)
-        .bearer_auth(&cfg.cf_api_token)
-        .json(&body)
-        .send()
-        .await
-        .map_err(|e| GenError::Other(e.to_string()))?;
+    let res = req.send().await.map_err(|e| GenError::Other(format!("{model}: {e}")))?;
 
     if res.status().as_u16() == 429 {
-        return Err(GenError::RateLimit("Cloudflare rate limit (429)".into()));
+        return Err(GenError::RateLimit(format!("{model}: Cloudflare rate limit (429)")));
     }
     if !res.status().is_success() {
         let status = res.status().as_u16();
@@ -642,12 +732,12 @@ async fn gen_cloudflare(http: &reqwest::Client, cfg: &Config, prompt: &str) -> R
             .await
             .ok()
             .and_then(|j| j.pointer("/errors/0/message").and_then(|m| m.as_str()).map(String::from))
-            .unwrap_or_else(|| format!("Cloudflare {status}"));
+            .unwrap_or_else(|| format!("HTTP {status}"));
         let lower = msg.to_lowercase();
         if lower.contains("limit") || lower.contains("quota") || lower.contains("capacity") || lower.contains("allocation") {
             return Err(GenError::RateLimit(msg));
         }
-        return Err(GenError::Other(msg));
+        return Err(GenError::Other(format!("{model}: {msg}")));
     }
 
     let ct = res
@@ -657,19 +747,33 @@ async fn gen_cloudflare(http: &reqwest::Client, cfg: &Config, prompt: &str) -> R
         .unwrap_or("")
         .to_string();
     if ct.contains("application/json") {
-        // flux-1-schnell: { result: { image: "<base64>" } }
+        // FLUX models: { result: { image: "<base64>" }, success: true }
         let j: serde_json::Value = res.json().await.map_err(|e| GenError::Other(e.to_string()))?;
+        if j.get("success").and_then(|s| s.as_bool()) == Some(false) {
+            let msg = j
+                .pointer("/errors/0/message")
+                .and_then(|m| m.as_str())
+                .unwrap_or("Cloudflare reported failure");
+            return Err(GenError::Other(format!("{model}: {msg}")));
+        }
         let b64 = j
             .pointer("/result/image")
+            .or_else(|| j.pointer("/image"))
             .and_then(|v| v.as_str())
-            .ok_or_else(|| GenError::Other("No image in Cloudflare response".into()))?;
-        base64::engine::general_purpose::STANDARD
-            .decode(b64)
-            .map_err(|e| GenError::Other(e.to_string()))
+            .ok_or_else(|| GenError::Other(format!("{model}: no image in response")))?;
+        decode_b64(b64).map_err(|e| GenError::Other(format!("{model}: bad image data: {e}")))
     } else {
         // SD-style models stream the PNG directly.
         Ok(res.bytes().await.map_err(|e| GenError::Other(e.to_string()))?.to_vec())
     }
+}
+
+fn decode_b64(s: &str) -> Result<Vec<u8>, String> {
+    use base64::engine::general_purpose::{STANDARD, STANDARD_NO_PAD};
+    STANDARD
+        .decode(s)
+        .or_else(|_| STANDARD_NO_PAD.decode(s.trim_end_matches('=')))
+        .map_err(|e| e.to_string())
 }
 
 async fn gen_gemini(http: &reqwest::Client, cfg: &Config, prompt: &str) -> Result<Vec<u8>, GenError> {
