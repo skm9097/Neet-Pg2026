@@ -1,0 +1,12 @@
+{
+  "anatomy_Q28": {
+    "key": "f2cd8838af9f8a0b4330f31b378b12b5",
+    "file": "anatomy_Q28.png",
+    "subject": "anatomy",
+    "topic": "anatomy",
+    "model": "@cf/black-forest-labs/flux-2-dev",
+    "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Iliopsoas. Topic: anatomy — anatomy. Show: hip flexors, Iliopsoas, anatomy. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-10T19:23:56.045Z",
+    "bytes": 286341
+  }
+}
