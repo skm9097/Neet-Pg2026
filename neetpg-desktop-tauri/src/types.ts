@@ -126,7 +126,7 @@ export interface AppConfig {
   fontSize: number
   animSpeed: 'slow' | 'normal' | 'fast'
   accentHue: 'blue' | 'teal' | 'violet' | 'amber'
-  themeVariant: 'midnight' | 'charcoal' | 'navy'
+  themeVariant: 'midnight' | 'charcoal' | 'navy' | 'light'
 
   // System & permissions
   startOnBoot: boolean

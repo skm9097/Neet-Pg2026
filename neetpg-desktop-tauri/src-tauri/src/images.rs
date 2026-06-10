@@ -620,7 +620,7 @@ async fn gen_cloudflare(http: &reqwest::Client, cfg: &Config, prompt: &str) -> R
         cfg.cf_account_id, model
     );
     let body = if model.contains("flux") {
-        serde_json::json!({ "prompt": prompt, "steps": 8 })
+        serde_json::json!({ "prompt": prompt, "num_steps": 8 })
     } else {
         serde_json::json!({ "prompt": prompt })
     };

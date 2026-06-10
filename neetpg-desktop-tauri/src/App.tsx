@@ -15,10 +15,34 @@ const ACCENT_MAP: Record<string, { accent: string; dim: string; hover: string }>
   violet: { accent: '#9b7ce8', dim: 'rgba(155,124,232,0.15)', hover: '#b49af0' },
   amber: { accent: '#e0a84c', dim: 'rgba(224,168,76,0.15)', hover: '#e8bc70' }
 }
-const THEME_MAP: Record<string, { deep: string; base: string; card: string }> = {
+type ThemeEntry = {
+  deep: string; base: string; card: string;
+  textPrimary?: string; textSecondary?: string; textTertiary?: string;
+  hairline?: string; hairlineStrong?: string;
+  border?: string; borderSubtle?: string;
+  bgHover?: string; bgActive?: string; bgElevated?: string; bgGlass?: string;
+  materialThin?: string; material?: string; materialThick?: string; materialChrome?: string;
+  topHighlight?: string;
+  shadowSm?: string; shadowMd?: string; shadowLg?: string;
+}
+const THEME_MAP: Record<string, ThemeEntry> = {
   midnight: { deep: '#0b0e18', base: '#111525', card: '#181d30' },
   charcoal: { deep: '#101014', base: '#18181c', card: '#222226' },
-  navy: { deep: '#0a1020', base: '#0f1730', card: '#162040' }
+  navy:     { deep: '#0a1020', base: '#0f1730', card: '#162040' },
+  light: {
+    deep: '#e8eaf2', base: '#f0f2f8', card: '#ffffff',
+    textPrimary: '#0f1117', textSecondary: '#3c4152', textTertiary: '#6b7280',
+    hairline: 'rgba(0,0,0,0.1)', hairlineStrong: 'rgba(0,0,0,0.18)',
+    border: 'rgba(0,0,0,0.1)', borderSubtle: 'rgba(0,0,0,0.06)',
+    bgHover: 'rgba(0,0,0,0.04)', bgActive: 'rgba(0,0,0,0.08)',
+    bgElevated: '#ffffff', bgGlass: 'rgba(248,249,252,0.9)',
+    materialThin: 'rgba(0,0,0,0.02)', material: 'rgba(0,0,0,0.04)',
+    materialThick: 'rgba(240,242,248,0.92)', materialChrome: 'rgba(0,0,0,0.06)',
+    topHighlight: 'inset 0 1px 0 rgba(255,255,255,0.8)',
+    shadowSm: '0 1px 2px rgba(0,0,0,0.08),0 2px 8px rgba(0,0,0,0.06)',
+    shadowMd: '0 4px 16px rgba(0,0,0,0.1),0 1px 3px rgba(0,0,0,0.08)',
+    shadowLg: '0 20px 50px rgba(0,0,0,0.15),0 4px 14px rgba(0,0,0,0.1)',
+  }
 }
 
 const EMPTY_STATS: DashboardStats = {
@@ -83,6 +107,25 @@ export function App(): JSX.Element {
     r.setProperty('--bg-deep', th.deep)
     r.setProperty('--bg-base', th.base)
     r.setProperty('--bg-card', th.card)
+    r.setProperty('--text-primary',    th.textPrimary    ?? '#f1f3f9')
+    r.setProperty('--text-secondary',  th.textSecondary  ?? '#9aa0bc')
+    r.setProperty('--text-tertiary',   th.textTertiary   ?? '#646a8a')
+    r.setProperty('--hairline',        th.hairline        ?? 'rgba(255,255,255,0.08)')
+    r.setProperty('--hairline-strong', th.hairlineStrong  ?? 'rgba(255,255,255,0.14)')
+    r.setProperty('--border',          th.border          ?? 'rgba(255,255,255,0.1)')
+    r.setProperty('--border-subtle',   th.borderSubtle    ?? 'rgba(255,255,255,0.05)')
+    r.setProperty('--bg-hover',        th.bgHover         ?? 'rgba(255,255,255,0.06)')
+    r.setProperty('--bg-active',       th.bgActive        ?? 'rgba(255,255,255,0.1)')
+    r.setProperty('--bg-elevated',     th.bgElevated      ?? '#1f2540')
+    r.setProperty('--bg-glass',        th.bgGlass         ?? 'rgba(24,29,48,0.72)')
+    r.setProperty('--material-thin',   th.materialThin    ?? 'rgba(255,255,255,0.04)')
+    r.setProperty('--material',        th.material        ?? 'rgba(255,255,255,0.055)')
+    r.setProperty('--material-thick',  th.materialThick   ?? 'rgba(20,24,40,0.72)')
+    r.setProperty('--material-chrome', th.materialChrome  ?? 'rgba(255,255,255,0.08)')
+    r.setProperty('--top-highlight',   th.topHighlight    ?? 'inset 0 1px 0 rgba(255,255,255,0.06)')
+    r.setProperty('--shadow-sm',       th.shadowSm        ?? '0 1px 2px rgba(0,0,0,0.25),0 2px 8px rgba(0,0,0,0.18)')
+    r.setProperty('--shadow-md',       th.shadowMd        ?? '0 4px 16px rgba(0,0,0,0.3),0 1px 3px rgba(0,0,0,0.2)')
+    r.setProperty('--shadow-lg',       th.shadowLg        ?? '0 20px 50px rgba(0,0,0,0.45),0 4px 14px rgba(0,0,0,0.3)')
   }, [config?.accentHue, config?.themeVariant])
 
   const triggerQuiz = useCallback(async () => {

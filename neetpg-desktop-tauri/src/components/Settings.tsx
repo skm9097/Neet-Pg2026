@@ -172,7 +172,8 @@ export function Settings({
               options={[
                 { value: 'midnight', label: 'Midnight' },
                 { value: 'charcoal', label: 'Charcoal' },
-                { value: 'navy', label: 'Navy' }
+                { value: 'navy', label: 'Navy' },
+                { value: 'light', label: 'Light' }
               ]}
               value={local.themeVariant}
               onChange={(v) => update('themeVariant', v as AppConfig['themeVariant'])}
@@ -396,7 +397,7 @@ function TestRow({
 }
 
 const styles: Record<string, CSSProperties> = {
-  container: { width: '100%', height: '100%', overflow: 'auto', padding: '32px 40px' },
+  container: { width: '100%', height: '100%', overflow: 'auto', padding: '32px 40px 32px 88px' },
   inner: { maxWidth: 660 },
   title: { fontSize: 28, fontWeight: 800, color: 'var(--text-primary)', margin: 0, lineHeight: 1, letterSpacing: '-0.02em' },
   subtitle: { fontSize: 14, color: 'var(--text-secondary)', marginTop: 8, marginBottom: 8 },
