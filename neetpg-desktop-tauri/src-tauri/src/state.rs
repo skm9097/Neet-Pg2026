@@ -14,7 +14,10 @@ pub struct App {
     pub config_path: PathBuf,
     pub config: Mutex<Config>,
     pub cache: tokio::sync::Mutex<Cache>,
-    pub images: tokio::sync::Mutex<Images>,
+    /// Images manages its own interior std::sync::Mutex so no lock is ever
+    /// held across an await — concurrent commands (report + generate) don't
+    /// block each other.
+    pub images: Images,
     pub status: Mutex<SyncStatus>,
     pub sync_running: AtomicBool,
     pub http: reqwest::Client,
@@ -30,7 +33,7 @@ impl App {
             config_path,
             config: Mutex::new(config),
             cache: tokio::sync::Mutex::new(cache),
-            images: tokio::sync::Mutex::new(images),
+            images,
             status: Mutex::new(SyncStatus {
                 phase: "idle".into(),
                 ..Default::default()

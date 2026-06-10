@@ -137,18 +137,22 @@ async fn sync_now(app: S<'_>, handle: AppHandle) -> Result<SyncOutcome, String> 
     if r.changed > 0 {
         let _ = handle.emit("cards-updated", r.changed);
     }
-    // Warm a few images after sync (the daily budget caps the total).
+    // Warm a few images in the background — images has interior locking so
+    // this never blocks get_image_report or other commands.
     let cfg = app.config.lock().unwrap().clone();
     if cfg.enable_card_images {
-        let pending: Vec<MistakeCard> = {
-            let cache = app.cache.lock().await;
-            let images = app.images.lock().await;
-            cache.all_cards().into_iter().filter(|c| !images.has_image(c)).collect()
-        };
-        if !pending.is_empty() {
-            let mut images = app.images.lock().await;
-            let _ = images.pregenerate(&app.http, &cfg, &pending, 3).await;
-        }
+        let h = handle.clone();
+        tauri::async_runtime::spawn(async move {
+            let st = h.state::<App>();
+            let pending: Vec<MistakeCard> = {
+                let cache = st.cache.lock().await;
+                cache.all_cards().into_iter().filter(|c| !st.images.has_image(c)).collect()
+            };
+            if !pending.is_empty() {
+                let cfg2 = st.config.lock().unwrap().clone();
+                st.images.pregenerate(&st.http, &cfg2, &pending, 3).await;
+            }
+        });
     }
     Ok(SyncOutcome { changed: r.changed, error: r.error })
 }
@@ -224,19 +228,17 @@ async fn get_card_image(app: S<'_>, card_id: String) -> Result<CardImage, String
     if !cfg.enable_card_images {
         return Ok(CardImage { card_id, status: "disabled".into(), data_url: None, message: Some("Card visuals are off".into()) });
     }
-
-    let mut images = app.images.lock().await;
-    if images.has_image(&card) {
-        if let Some(url) = images.data_url(&card) {
+    if app.images.has_image(&card) {
+        if let Some(url) = app.images.data_url(&card) {
             return Ok(CardImage { card_id, status: "ready".into(), data_url: Some(url), message: None });
         }
     }
-    if images.generate(&app.http, &cfg, &card, false).await {
-        if let Some(url) = images.data_url(&card) {
+    if app.images.generate(&app.http, &cfg, &card, false).await {
+        if let Some(url) = app.images.data_url(&card) {
             return Ok(CardImage { card_id, status: "ready".into(), data_url: Some(url), message: None });
         }
     }
-    let hint = images.error_hint(&cfg, &card);
+    let hint = app.images.error_hint(&cfg, &card);
     Ok(CardImage { card_id, status: "error".into(), data_url: None, message: Some(hint) })
 }
 
@@ -244,7 +246,7 @@ async fn get_card_image(app: S<'_>, card_id: String) -> Result<CardImage, String
 async fn get_image_report(app: S<'_>) -> Result<ImageReport, String> {
     let cfg = app.config.lock().unwrap().clone();
     let cards = app.cache.lock().await.all_cards();
-    Ok(app.images.lock().await.report(&cfg, &cards))
+    Ok(app.images.report(&cfg, &cards))
 }
 
 #[tauri::command]
@@ -254,13 +256,12 @@ async fn regenerate_image(app: S<'_>, card_id: String) -> Result<CardImage, Stri
     let Some(card) = card else {
         return Ok(CardImage { card_id, status: "error".into(), data_url: None, message: Some("Card not found".into()) });
     };
-    let mut images = app.images.lock().await;
-    if images.regenerate(&app.http, &cfg, &card).await {
-        if let Some(url) = images.data_url(&card) {
+    if app.images.regenerate(&app.http, &cfg, &card).await {
+        if let Some(url) = app.images.data_url(&card) {
             return Ok(CardImage { card_id, status: "ready".into(), data_url: Some(url), message: None });
         }
     }
-    let hint = images.error_hint(&cfg, &card);
+    let hint = app.images.error_hint(&cfg, &card);
     Ok(CardImage { card_id, status: "error".into(), data_url: None, message: Some(hint) })
 }
 
@@ -276,14 +277,12 @@ async fn generate_images_now(app: S<'_>) -> Result<BatchOutcome, String> {
     let cfg = app.config.lock().unwrap().clone();
     let pending: Vec<MistakeCard> = {
         let cache = app.cache.lock().await;
-        let images = app.images.lock().await;
-        cache.all_cards().into_iter().filter(|c| !images.has_image(c)).collect()
+        cache.all_cards().into_iter().filter(|c| !app.images.has_image(c)).collect()
     };
     if pending.is_empty() {
         return Ok(BatchOutcome { made: 0, message: "All cards already have images".into() });
     }
-    let mut images = app.images.lock().await;
-    let q = images.quota(&cfg);
+    let q = app.images.quota(&cfg);
     if let Some(until) = &q.blocked_until {
         return Ok(BatchOutcome { made: 0, message: format!("Provider limit hit — resumes {until}") });
     }
@@ -291,7 +290,7 @@ async fn generate_images_now(app: S<'_>) -> Result<BatchOutcome, String> {
     if remaining == 0 {
         return Ok(BatchOutcome { made: 0, message: "Daily budget used — resumes tomorrow".into() });
     }
-    let made = images.pregenerate(&app.http, &cfg, &pending, remaining).await;
+    let made = app.images.pregenerate(&app.http, &cfg, &pending, remaining).await;
     Ok(BatchOutcome {
         made,
         message: if made > 0 {
@@ -321,8 +320,7 @@ async fn test_groq(app: S<'_>) -> Result<TestResult, String> {
 #[tauri::command]
 async fn test_image_source(app: S<'_>) -> Result<TestResult, String> {
     let cfg = app.config.lock().unwrap().clone();
-    let images = app.images.lock().await;
-    let (ok, message) = images.test(&app.http, &cfg).await;
+    let (ok, message) = app.images.test(&app.http, &cfg).await;
     Ok(TestResult { ok, message })
 }
 
