@@ -1,14 +1,4 @@
 {
-  "2025_Q92": {
-    "key": "da6f2d590f146b4a7353a10762fc522a",
-    "file": "2025_Q92.png",
-    "subject": "general",
-    "topic": "general",
-    "model": "@cf/black-forest-labs/flux-2-dev",
-    "prompt": "Medical educational infographic illustration of Nocardia asteroides is a Gram-positive, branching filamentous organism. Key concept: Nocardia asteroides. Topic: general — general. Show: Nocardia asteroides, brain abscess, Gram-positive bacteria. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-10T19:26:42.857Z",
-    "bytes": 386714
-  },
   "anatomy_Q28": {
     "key": "f2cd8838af9f8a0b4330f31b378b12b5",
     "file": "anatomy_Q28.png",
@@ -18,5 +8,25 @@
     "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Iliopsoas. Topic: anatomy — anatomy. Show: hip flexors, Iliopsoas, anatomy. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
     "at": "2026-06-10T19:23:56.045Z",
     "bytes": 286341
+  },
+  "anatomy_Q69": {
+    "key": "752eb97eddf4d232886b49e3a0cf2a93",
+    "file": "anatomy_Q69.png",
+    "subject": "anatomy",
+    "topic": "anatomy",
+    "model": "@cf/black-forest-labs/flux-2-dev",
+    "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Phrenicocolic ligament. Topic: anatomy — anatomy. Show: anatomy, spleen, phrenicocolic ligament. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-10T19:28:31.172Z",
+    "bytes": 211945
+  },
+  "2025_Q92": {
+    "key": "da6f2d590f146b4a7353a10762fc522a",
+    "file": "2025_Q92.png",
+    "subject": "general",
+    "topic": "general",
+    "model": "@cf/black-forest-labs/flux-2-dev",
+    "prompt": "Medical educational infographic illustration of Nocardia asteroides is a Gram-positive, branching filamentous organism. Key concept: Nocardia asteroides. Topic: general — general. Show: Nocardia asteroides, brain abscess, Gram-positive bacteria. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-10T19:26:42.857Z",
+    "bytes": 386714
   }
 }
