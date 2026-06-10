@@ -65,7 +65,19 @@ export function Settings({
                 <div style={{ fontSize: 15, fontWeight: 600, color: 'var(--text-primary)' }}>Question bank</div>
                 <div style={{ fontSize: 13, color: 'var(--text-secondary)', marginTop: 4 }}>
                   {sync.totalCards} cards cached locally
+                  {(sync.parseErrors?.length ?? 0) > 0 && (
+                    <span style={{ color: 'var(--wrong)' }}>
+                      {' '}· {sync.parseErrors!.length} file{sync.parseErrors!.length === 1 ? '' : 's'} failed to parse
+                    </span>
+                  )}
                 </div>
+                {(sync.parseErrors?.length ?? 0) > 0 && (
+                  <div style={{ fontSize: 11, color: 'var(--text-tertiary)', marginTop: 4, fontFamily: "'JetBrains Mono', monospace" }}>
+                    {sync.parseErrors!.slice(0, 3).map((p) => (
+                      <div key={p.path}>{p.path} — {p.reason}</div>
+                    ))}
+                  </div>
+                )}
               </div>
               <SyncButton status={sync} onSync={onSync} size="lg" />
             </div>

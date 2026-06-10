@@ -52,6 +52,9 @@ export interface SRCard {
   nextReview: string // "2026-06-07"
   lastGrade: number // 0-5
   status: 'new' | 'learning' | 'review' | 'relearning' | 'mature'
+  // ISO timestamp of the last grade — drives the per-card newest-wins merge
+  // when the same SR store is updated from more than one device.
+  updatedAt?: string
 }
 
 export interface SRState {
@@ -150,6 +153,9 @@ export interface SyncStatus {
   totalCards: number
   // High-level phase for the live sync indicator in the header.
   phase?: 'idle' | 'listing' | 'fetching' | 'enriching' | 'pushing' | 'done' | 'error'
+  // Mistake files that fetched but failed to parse last cycle — surfaced in
+  // Settings so malformed pushes are never silently dropped.
+  parseErrors?: { path: string; reason: string }[]
 }
 
 // === App / build info for the About panel ===

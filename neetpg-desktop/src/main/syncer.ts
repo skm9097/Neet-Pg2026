@@ -1,10 +1,13 @@
 import { join } from 'path'
-import type { AppConfig, SyncStatus, SessionLog, TopicScores } from '../shared/types'
+import type { AppConfig, SyncStatus, SessionLog, SRState, TopicScores } from '../shared/types'
 import { RepoSync } from './repo-sync'
 import { CardCache } from './cache'
 import { SREngine } from './sr-engine'
 import { LLMService } from './llm-service'
-import { parseMistakeFile } from './file-parser'
+import { parseMistakeFile, deriveHeading, deriveBullets } from './file-parser'
+import { buildMistakeMarkdown } from './md-builder'
+
+const SR_STATE_PATH = 'progress/sr-state.json'
 
 export class Syncer {
   private status: SyncStatus = {
@@ -12,7 +15,8 @@ export class Syncer {
     lastError: null,
     inProgress: false,
     totalCards: 0,
-    phase: 'idle'
+    phase: 'idle',
+    parseErrors: []
   }
   private sink: ((s: SyncStatus) => void) | null = null
 
@@ -43,6 +47,7 @@ export class Syncer {
     if (this.status.inProgress) return { changed: 0, error: null }
     this.emit({ inProgress: true, lastError: null, phase: 'listing' })
     let changed = 0
+    const parseErrors: { path: string; reason: string }[] = []
 
     try {
       const tree = await this.repo.listTree()
@@ -56,17 +61,37 @@ export class Syncer {
 
       this.emit({ phase: 'fetching' })
 
+      // Pull-merge remote SR state BEFORE anything else. Another device (or a
+      // previous install) may have graded cards; per-card newest-wins merge
+      // means progress survives reinstalls and multi-device use.
+      const srEntry = tree.find((e) => e.path === SR_STATE_PATH)
+      if (srEntry && this.cache.getBlobSha(SR_STATE_PATH) !== srEntry.sha) {
+        try {
+          const raw = await this.repo.fetchFile(SR_STATE_PATH)
+          const remote = JSON.parse(raw) as SRState
+          if (remote && remote.cards) this.sr.mergeRemote(remote)
+          this.cache.setBlobSha(SR_STATE_PATH, srEntry.sha)
+        } catch {
+          // Bad/unreachable remote SR state — local store stays authoritative.
+        }
+      }
+
       for (const f of mistakeFiles) {
         if (this.cache.getBlobSha(f.path) === f.sha) continue
         try {
           const raw = await this.repo.fetchFile(f.path)
-          const card = parseMistakeFile(raw, f.path, f.sha)
+          const { card, error } = parseMistakeFile(raw, f.path, f.sha)
           if (card) {
             this.cache.upsertCard(card)
             changed++
+          } else if (error) {
+            // Record the sha so we don't refetch a permanently-broken file
+            // every cycle, but surface it in the UI instead of dropping it.
+            this.cache.setBlobSha(f.path, f.sha)
+            parseErrors.push({ path: f.path, reason: error })
           }
         } catch {
-          // Skip this file; try again next cycle.
+          // Network hiccup on this file; try again next cycle.
         }
       }
 
@@ -99,11 +124,18 @@ export class Syncer {
         await this.pushProgress()
       }
 
-      this.emit({ inProgress: false, lastSync: new Date().toISOString(), phase: 'done' })
+      this.emit({
+        inProgress: false,
+        lastSync: new Date().toISOString(),
+        phase: 'done',
+        parseErrors
+      })
       return { changed, error: null }
     } catch (e) {
+      // Sync failed (offline, rate-limited, …) — the local cache stays intact
+      // and the renderer keeps serving cards from it; only the status changes.
       const msg = (e as Error).message
-      this.emit({ inProgress: false, lastError: msg, phase: 'error' })
+      this.emit({ inProgress: false, lastError: msg, phase: 'error', parseErrors })
       return { changed, error: msg }
     }
   }
@@ -125,15 +157,33 @@ export class Syncer {
       .allCards()
       .filter((c) => c.question && c.options.length > 0 && (!c.keyFact || !c.whyWrong))
       .slice(0, 5)
+    const canPush = !!this.cfg().githubPat
     for (const card of missing) {
       const enriched = await this.llm.enrichCard(card)
-      if (enriched) {
-        card.keyFact = enriched.keyFact || card.keyFact
-        card.whyWrong = enriched.whyWrong || card.whyWrong
-        if (enriched.errorType) card.errorType = enriched.errorType as never
-        if (enriched.tags.length) card.tags = enriched.tags
-        this.cache.upsertCard(card)
+      if (!enriched) continue
+      card.keyFact = enriched.keyFact || card.keyFact
+      card.whyWrong = enriched.whyWrong || card.whyWrong
+      if (enriched.errorType) card.errorType = enriched.errorType as never
+      if (enriched.tags.length) card.tags = enriched.tags
+      card.factHeading = deriveHeading(card.topic, card.keyFact)
+      card.factPoints = deriveBullets(card.keyFact)
+
+      // Write the enrichment back to the repo so it reaches every device and
+      // survives cache clears (the Android placeholder promises exactly this).
+      if (canPush && card.filePath) {
+        try {
+          const sha = await this.repo.putFile(
+            card.filePath,
+            buildMistakeMarkdown(card),
+            `enrich: ${card.id} key fact + analysis`
+          )
+          if (sha) card.lastModified = sha
+        } catch {
+          // Enrichment stays local this cycle; write-back retries next time
+          // the card is still missing remote enrichment.
+        }
       }
+      this.cache.upsertCard(card)
     }
     this.cache.save()
   }
@@ -141,11 +191,13 @@ export class Syncer {
   private async pushProgress(): Promise<void> {
     try {
       const srState = this.sr.exportState()
-      await this.repo.putFile(
-        'progress/sr-state.json',
+      const srSha = await this.repo.putFile(
+        SR_STATE_PATH,
         JSON.stringify(srState, null, 2),
         'sr: desktop review update'
       )
+      // Record what we just wrote so next cycle's pull-merge skips it.
+      if (srSha) this.cache.setBlobSha(SR_STATE_PATH, srSha)
       const topicScores = this.computeTopicScores()
       await this.repo.putFile(
         'progress/topic-scores.json',

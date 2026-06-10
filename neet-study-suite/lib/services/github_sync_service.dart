@@ -186,28 +186,12 @@ class GithubSyncService {
         if (gemini.isConfigured) {
           enrichment = await _enrichSingle(_pendingToQuestion(m), m.wrongOption, gemini);
         }
-        final content = _buildMarkdown(
-          questionId: m.questionId,
-          subject: m.subject,
-          stem: m.stem,
-          optionA: m.optionA,
-          optionB: m.optionB,
-          optionC: m.optionC,
-          optionD: m.optionD,
-          correctOption: m.correctOption,
+        final path = await _pushMistake(
+          q: _pendingToQuestion(m),
           wrongOption: m.wrongOption,
-          explanation: m.explanation,
-          enrichment: enrichment,
           sessionId: m.sessionId,
+          enrichment: enrichment,
           timestamp: DateTime.parse(m.timestamp),
-          timesWrong: 1,
-          timesCorrect: 0,
-        );
-        final path = _mistakePath(m.subject, m.questionId, DateTime.parse(m.timestamp));
-        await _pushFile(
-          path: path,
-          content: content,
-          message: 'mistake: ${m.questionId} ${_subjectFolder(m.subject)}',
           pat: pat,
         );
         await _appendLog(SyncLogEntry(
@@ -272,30 +256,13 @@ class GithubSyncService {
         enrichment = await _enrichSingle(question, wrongOption, gemini);
       }
 
-      final content = _buildMarkdown(
-        questionId: question.id,
-        subject: question.subject,
-        stem: question.stem,
-        optionA: question.optionA,
-        optionB: question.optionB,
-        optionC: question.optionC,
-        optionD: question.optionD,
-        correctOption: question.correctOption,
-        wrongOption: wrongOption,
-        explanation: question.explanation,
-        enrichment: enrichment,
-        sessionId: sessionId,
-        timestamp: DateTime.now(),
-        timesWrong: 1,
-        timesCorrect: 0,
-      );
-
       if (pat != null && pat.isNotEmpty) {
-        final path = _mistakePath(question.subject, question.id, DateTime.now());
-        await _pushFile(
-          path: path,
-          content: content,
-          message: 'mistake: ${question.id} ${_subjectFolder(question.subject)}',
+        final path = await _pushMistake(
+          q: question,
+          wrongOption: wrongOption,
+          sessionId: sessionId,
+          enrichment: enrichment,
+          timestamp: DateTime.now(),
           pat: pat,
         );
         await _appendLog(SyncLogEntry(
@@ -374,28 +341,12 @@ class GithubSyncService {
       final (q, wrongOpt) = wrongPairs[i];
       final enrich = i < enrichments.length ? enrichments[i] : null;
       try {
-        final content = _buildMarkdown(
-          questionId: q.id,
-          subject: q.subject,
-          stem: q.stem,
-          optionA: q.optionA,
-          optionB: q.optionB,
-          optionC: q.optionC,
-          optionD: q.optionD,
-          correctOption: q.correctOption,
+        final path = await _pushMistake(
+          q: q,
           wrongOption: wrongOpt,
-          explanation: q.explanation,
-          enrichment: enrich,
           sessionId: sessionId,
+          enrichment: enrich,
           timestamp: now,
-          timesWrong: 1,
-          timesCorrect: 0,
-        );
-        final path = _mistakePath(q.subject, q.id, now);
-        await _pushFile(
-          path: path,
-          content: content,
-          message: 'mistake: ${q.id} ${_subjectFolder(q.subject)}',
           pat: pat,
         );
         pushed.add(path);
@@ -406,10 +357,13 @@ class GithubSyncService {
           action: 'push',
         ));
       } catch (e) {
+        // Queue so "Sync Now" retries it later — batch failures used to be
+        // logged and lost.
+        await _enqueue(q, wrongOpt, sessionId);
         await _appendLog(SyncLogEntry(
           timestamp: DateTime.now(),
           success: false,
-          detail: '${q.id}: $e',
+          detail: '${q.id}: $e (queued for retry)',
           action: 'error',
         ));
       }
@@ -578,6 +532,12 @@ class GithubSyncService {
     required DateTime timestamp,
     required int timesWrong,
     required int timesCorrect,
+    String? firstWrongIso,
+    List<String> priorAttemptRows = const [],
+    String? existingTags,
+    String? existingErrorType,
+    String? existingKeyFact,
+    String? existingWhyWrong,
   }) {
     String optText(String opt) {
       switch (opt) {
@@ -589,18 +549,37 @@ class GithubSyncService {
       }
     }
 
+    const placeholder = '_Not yet analyzed — will be filled on first desktop sync._';
+    bool real(String? s) =>
+        s != null && s.isNotEmpty && !s.contains('Not yet analyzed');
+
     final folder = _subjectFolder(subject);
     final iso = timestamp.toIso8601String();
-    final tags = enrichment != null && enrichment.tags.isNotEmpty
-        ? '[${enrichment.tags.join(', ')}]' : '[]';
-    final errorType = enrichment != null && enrichment.errorType.isNotEmpty
-        ? enrichment.errorType : '';
-    final keyFact = enrichment != null && enrichment.keyFact.isNotEmpty
-        ? enrichment.keyFact : explanation;
-    final whyWrong = enrichment != null && enrichment.whyWrong.isNotEmpty
+    final firstIso = (firstWrongIso != null && firstWrongIso.isNotEmpty) ? firstWrongIso : iso;
+
+    // Precedence: fresh enrichment > existing value in the repo file (which
+    // may be a desktop Groq enrichment we must not clobber) > raw fallback.
+    final tags = (enrichment != null && enrichment.tags.isNotEmpty)
+        ? '[${enrichment.tags.join(', ')}]'
+        : (existingTags != null && existingTags != '[]' ? existingTags : '[]');
+    final errorType = (enrichment != null && enrichment.errorType.isNotEmpty)
+        ? enrichment.errorType
+        : (existingErrorType ?? '');
+    final keyFact = (enrichment != null && enrichment.keyFact.isNotEmpty)
+        ? enrichment.keyFact
+        : (real(existingKeyFact) ? existingKeyFact! : explanation);
+    final whyWrong = (enrichment != null && enrichment.whyWrong.isNotEmpty)
         ? enrichment.whyWrong
-        : '_Not yet analyzed — will be filled on first desktop sync._';
+        : (real(existingWhyWrong) ? existingWhyWrong! : placeholder);
     final dt = _dtLabel(timestamp);
+
+    // Renumber prior attempt rows and append this attempt at the end.
+    final rows = <String>[];
+    for (int i = 0; i < priorAttemptRows.length; i++) {
+      rows.add(_renumberRow(priorAttemptRows[i], i + 1));
+    }
+    rows.add(
+        '| ${rows.length + 1} | $dt | $wrongOption) ${optText(wrongOption)} | ❌ | - | $sessionId |');
 
     return '''---
 id: $questionId
@@ -609,7 +588,7 @@ topic: $folder
 source_file: question-bank/subject-wise/$folder.md
 tags: $tags
 error_type: $errorType
-first_wrong: $iso
+first_wrong: $firstIso
 last_wrong: $iso
 times_wrong: $timesWrong
 times_correct: $timesCorrect
@@ -649,11 +628,18 @@ $whyWrong
 
 | # | Date | Answer | Result | Time | Context |
 |---|---|---|---|---|---|
-| 1 | $dt | $wrongOption) ${optText(wrongOption)} | ❌ | - | $sessionId |
+${rows.join('\n')}
 ''';
   }
 
   // ── GitHub Contents API ───────────────────────────────────────────────────────
+
+  static Map<String, String> _ghHeaders(String pat) => {
+    'Authorization': 'Bearer $pat',
+    'Content-Type': 'application/json',
+    'Accept': 'application/vnd.github+json',
+    'X-GitHub-Api-Version': '2022-11-28',
+  };
 
   static Future<void> _pushFile({
     required String path,
@@ -662,31 +648,148 @@ $whyWrong
     required String pat,
   }) async {
     final url = Uri.parse('$_kBase/$path');
-    final headers = {
-      'Authorization': 'Bearer $pat',
-      'Content-Type': 'application/json',
-      'Accept': 'application/vnd.github+json',
-      'X-GitHub-Api-Version': '2022-11-28',
-    };
+    final headers = _ghHeaders(pat);
 
-    String? sha;
-    final getResp = await http.get(url, headers: headers);
-    if (getResp.statusCode == 200) {
-      final data = jsonDecode(getResp.body) as Map<String, dynamic>;
-      sha = data['sha'] as String?;
-    }
+    // On a 409/422 sha conflict (another device wrote between our GET and
+    // PUT), re-fetch the sha once and retry instead of failing the push.
+    for (int attempt = 0; attempt < 2; attempt++) {
+      String? sha;
+      final getResp = await http.get(url, headers: headers);
+      if (getResp.statusCode == 200) {
+        final data = jsonDecode(getResp.body) as Map<String, dynamic>;
+        sha = data['sha'] as String?;
+      }
 
-    final body = <String, dynamic>{
-      'message': message,
-      'content': base64Encode(utf8.encode(content)),
-      'branch': _kBranch,
-    };
-    if (sha != null) body['sha'] = sha;
+      final body = <String, dynamic>{
+        'message': message,
+        'content': base64Encode(utf8.encode(content)),
+        'branch': _kBranch,
+      };
+      if (sha != null) body['sha'] = sha;
 
-    final putResp = await http.put(url, headers: headers, body: jsonEncode(body));
-    if (putResp.statusCode != 200 && putResp.statusCode != 201) {
+      final putResp = await http.put(url, headers: headers, body: jsonEncode(body));
+      if (putResp.statusCode == 200 || putResp.statusCode == 201) return;
+      if ((putResp.statusCode == 409 || putResp.statusCode == 422) && attempt == 0) continue;
       throw Exception('GitHub ${putResp.statusCode}: ${putResp.body.length > 200 ? putResp.body.substring(0, 200) : putResp.body}');
     }
+  }
+
+  /// Push a mistake with update-in-place semantics: fetch the existing file
+  /// for this question (if any), merge counters + attempt history + any prior
+  /// LLM enrichment, and write the merged document back. Retries once on a
+  /// sha conflict.
+  static Future<String> _pushMistake({
+    required Question q,
+    required String wrongOption,
+    required String sessionId,
+    required _Enrichment? enrichment,
+    required DateTime timestamp,
+    required String pat,
+  }) async {
+    final path = _mistakePath(q.subject, q.id);
+    final url = Uri.parse('$_kBase/$path');
+    final headers = _ghHeaders(pat);
+
+    for (int attempt = 0; attempt < 2; attempt++) {
+      String? sha;
+      String? existing;
+      final getResp = await http.get(url, headers: headers);
+      if (getResp.statusCode == 200) {
+        final data = jsonDecode(getResp.body) as Map<String, dynamic>;
+        sha = data['sha'] as String?;
+        final b64 = (data['content'] as String?)?.replaceAll(RegExp(r'\s'), '');
+        if (b64 != null && b64.isNotEmpty) {
+          try {
+            existing = utf8.decode(base64Decode(b64));
+          } catch (_) {
+            existing = null; // unreadable — treat as new file
+          }
+        }
+      }
+
+      final priorWrong =
+          existing != null ? (int.tryParse(_fmValue(existing, 'times_wrong') ?? '') ?? 0) : 0;
+      final priorCorrect =
+          existing != null ? (int.tryParse(_fmValue(existing, 'times_correct') ?? '') ?? 0) : 0;
+
+      final content = _buildMarkdown(
+        questionId: q.id,
+        subject: q.subject,
+        stem: q.stem,
+        optionA: q.optionA,
+        optionB: q.optionB,
+        optionC: q.optionC,
+        optionD: q.optionD,
+        correctOption: q.correctOption,
+        wrongOption: wrongOption,
+        explanation: q.explanation,
+        enrichment: enrichment,
+        sessionId: sessionId,
+        timestamp: timestamp,
+        timesWrong: priorWrong + 1,
+        timesCorrect: priorCorrect,
+        firstWrongIso: existing != null ? _fmValue(existing, 'first_wrong') : null,
+        priorAttemptRows: existing != null ? _attemptRows(existing) : const [],
+        existingTags: existing != null ? _fmValue(existing, 'tags') : null,
+        existingErrorType: existing != null ? _fmValue(existing, 'error_type') : null,
+        existingKeyFact: existing != null ? _mdSection(existing, 'Key Fact') : null,
+        existingWhyWrong:
+            existing != null ? _mdSection(existing, 'Why You Got It Wrong') : null,
+      );
+
+      final body = <String, dynamic>{
+        'message': priorWrong > 0
+            ? 'mistake: ${q.id} again (x${priorWrong + 1})'
+            : 'mistake: ${q.id} ${_subjectFolder(q.subject)}',
+        'content': base64Encode(utf8.encode(content)),
+        'branch': _kBranch,
+      };
+      if (sha != null) body['sha'] = sha;
+
+      final putResp = await http.put(url, headers: headers, body: jsonEncode(body));
+      if (putResp.statusCode == 200 || putResp.statusCode == 201) return path;
+      if ((putResp.statusCode == 409 || putResp.statusCode == 422) && attempt == 0) continue;
+      throw Exception('GitHub ${putResp.statusCode}: ${putResp.body.length > 200 ? putResp.body.substring(0, 200) : putResp.body}');
+    }
+    throw Exception('GitHub push conflict persisted for $path');
+  }
+
+  // ── Merge helpers (parse bits of an existing mistake file) ───────────────────
+
+  static String? _fmValue(String content, String key) {
+    final m = RegExp('^${RegExp.escape(key)}' r':\s*(.*)$', multiLine: true)
+        .firstMatch(content);
+    final v = m?.group(1)?.trim();
+    return (v == null || v.isEmpty) ? null : v;
+  }
+
+  static String _mdSection(String content, String name) {
+    final re = RegExp(r'(?:^|\n)##\s+' '${RegExp.escape(name)}' r'[^\n]*\n([\s\S]*?)(?=\n##\s|$)');
+    final m = re.firstMatch(content);
+    return m?.group(1)?.trim() ?? '';
+  }
+
+  /// Data rows (not header/separator) of the `## Attempts` table.
+  static List<String> _attemptRows(String content) {
+    final sec = _mdSection(content, 'Attempts');
+    if (sec.isEmpty) return [];
+    return sec
+        .split('\n')
+        .map((l) => l.trim())
+        .where((l) => l.startsWith('|'))
+        .where((l) {
+          final cells = l.split('|');
+          if (cells.length < 7) return false;
+          final first = cells[1].trim();
+          return first != '#' && !RegExp(r'^[-: ]*$').hasMatch(first);
+        })
+        .toList();
+  }
+
+  static String _renumberRow(String row, int n) {
+    final cells = row.split('|');
+    if (cells.length > 1) cells[1] = ' $n ';
+    return cells.join('|');
   }
 
   static Future<void> _pushSessionLog({
@@ -797,10 +900,14 @@ $whyWrong
 
   static String _p(int n) => n.toString().padLeft(2, '0');
 
-  static String _mistakePath(String subject, String questionId, DateTime dt) {
+  // One file per question (Sync Protocol v2). Repeat mistakes update the same
+  // file in place — increment times_wrong, append an attempt row — instead of
+  // creating a new date-prefixed file whose card would collide on id and reset
+  // the counters on the desktop.
+  static String _mistakePath(String subject, String questionId) {
     final folder = _subjectFolder(subject);
     final safeId = questionId.replaceAll(RegExp(r'[^a-zA-Z0-9_-]'), '_');
-    return 'mistakes/$folder/${_dateStr(dt)}_$safeId.md';
+    return 'mistakes/$folder/$safeId.md';
   }
 
   static Question _pendingToQuestion(_PendingMistake m) => Question(

@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, existsSync, renameSync } from 'fs'
+import { readFileSync, writeFileSync, existsSync, renameSync, copyFileSync } from 'fs'
 import { join } from 'path'
 import type { MistakeCard, SRCard, SessionLog } from '../shared/types'
 
@@ -57,7 +57,14 @@ export class CardCache {
         return merged
       }
     } catch {
-      // Corrupt cache — start fresh rather than crash.
+      // Corrupt cache — keep a backup so SR progress is recoverable, then
+      // start fresh rather than crash. (A truncated write used to silently
+      // wipe all progress; now the bad file sits next to cache.json.)
+      try {
+        copyFileSync(this.path, `${this.path}.corrupt.bak`)
+      } catch {
+        // best-effort backup only
+      }
     }
     return { ...EMPTY }
   }

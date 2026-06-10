@@ -1,27 +1,44 @@
 import type { MistakeCard, Attempt } from '../shared/types'
 
+export interface ParseResult {
+  card: MistakeCard | null
+  error?: string
+}
+
+// Android writes this placeholder into Key Fact / Why Wrong when it pushed
+// without Gemini configured. Treat it as empty so the desktop's own LLM
+// enrichment kicks in and replaces it (the placeholder literally promises so).
+const PLACEHOLDER_RE = /not yet analyzed/i
+
+function scrubPlaceholder(text: string): string {
+  return PLACEHOLDER_RE.test(text) ? '' : text
+}
+
 /**
  * Parses a mistake `.md` file (YAML frontmatter + markdown body) into a
  * MistakeCard. The file format is the one the Android app writes — see
- * NEETPGLEARNINGLOOPSPEC. We deliberately avoid gray-matter/js-yaml and parse
- * the known, simple frontmatter shape directly to keep the dependency tree tiny.
+ * SYNC-PROTOCOL.md at the repo root. We deliberately avoid gray-matter/js-yaml
+ * and parse the known, simple frontmatter shape directly to keep the
+ * dependency tree tiny. Returns a reason string on failure so the syncer can
+ * surface malformed files instead of dropping them silently.
  */
-export function parseMistakeFile(
-  raw: string,
-  filePath: string,
-  blobSha: string
-): MistakeCard | null {
+export function parseMistakeFile(raw: string, filePath: string, blobSha: string): ParseResult {
   try {
     const { frontmatter, body } = splitFrontmatter(raw)
 
     const id = (frontmatter.id || idFromPath(filePath) || '').trim()
-    if (!id) return null
+    if (!id) return { card: null, error: 'no id in frontmatter or filename' }
 
     const subject = (frontmatter.subject || subjectFromPath(filePath) || 'general').trim()
-    const keyFact = extractSection(body, 'Key Fact')
-    const whyWrong = extractSection(body, 'Why You Got It Wrong')
+    const keyFact = scrubPlaceholder(extractSection(body, 'Key Fact'))
+    const whyWrong = scrubPlaceholder(extractSection(body, 'Why You Got It Wrong'))
 
-    return {
+    const question = extractSection(body, 'Question')
+    if (!question) return { card: null, error: 'missing ## Question section' }
+    const options = extractOptions(body)
+    if (options.length < 2) return { card: null, error: 'missing or malformed ## Options' }
+
+    const card: MistakeCard = {
       id,
       subject,
       topic: (frontmatter.topic || subject).trim(),
@@ -34,8 +51,8 @@ export function parseMistakeFile(
       timesCorrect: toInt(frontmatter.times_correct),
       isResolved: toBool(frontmatter.is_resolved),
 
-      question: extractSection(body, 'Question'),
-      options: extractOptions(body),
+      question,
+      options,
       userAnswer: extractSection(body, 'Your Answer'),
       correctAnswer: extractSection(body, 'Correct Answer'),
       keyFact,
@@ -52,8 +69,9 @@ export function parseMistakeFile(
       srStatus: 'new',
       nextReview: ''
     }
-  } catch {
-    return null
+    return { card }
+  } catch (e) {
+    return { card: null, error: (e as Error).message }
   }
 }
 
@@ -144,12 +162,19 @@ function extractAttempts(body: string): Attempt[] {
       context: cells[5] || ''
     })
   }
-  return out
+  // Dedupe — re-pushed files can stack identical rows.
+  const seen = new Set<string>()
+  return out.filter((a) => {
+    const key = `${a.date}|${a.answer}|${a.correct}`
+    if (seen.has(key)) return false
+    seen.add(key)
+    return true
+  })
 }
 
 // ── Derived display helpers ─────────────────────────────────────────────────
 
-function deriveHeading(topic: string | undefined, keyFact: string): string {
+export function deriveHeading(topic: string | undefined, keyFact: string): string {
   const t = (topic || '').trim()
   if (t && t.toLowerCase() !== 'general') {
     // "autonomic-nervous-system" -> "Autonomic Nervous System"
@@ -168,7 +193,7 @@ function deriveHeading(topic: string | undefined, keyFact: string): string {
  * explicit markdown bullets/newlines; otherwise splits on sentences. Capped at
  * 4 to keep the ambient slide light on text (per the user's request).
  */
-function deriveBullets(keyFact: string): string[] {
+export function deriveBullets(keyFact: string): string[] {
   if (!keyFact) return []
   let parts = keyFact
     .split('\n')
@@ -186,8 +211,12 @@ function deriveBullets(keyFact: string): string[] {
 // ── Path fallbacks ───────────────────────────────────────────────────────────
 
 function idFromPath(filePath: string): string {
-  const m = filePath.match(/_([A-Za-z0-9_-]+)\.md$/)
-  return m ? m[1] : ''
+  // Legacy date-prefixed name: mistakes/anatomy/2026-06-10_Q001.md → "Q001".
+  const dated = filePath.match(/\d{4}-\d{2}-\d{2}_([A-Za-z0-9_-]+)\.md$/)
+  if (dated) return dated[1]
+  // Protocol-v2 name: mistakes/anatomy/Q001.md → "Q001".
+  const base = filePath.match(/([A-Za-z0-9_-]+)\.md$/)
+  return base ? base[1] : ''
 }
 
 function subjectFromPath(filePath: string): string {

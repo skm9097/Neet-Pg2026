@@ -1,6 +1,6 @@
 {
   "name": "neetpg-desktop",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "NEET PG Desktop Study Companion — ambient mistake review, spaced-repetition quizzes, and analytics that sync from your GitHub question bank.",
   "main": "./out/main/index.js",
   "author": "skm9097",

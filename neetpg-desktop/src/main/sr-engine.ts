@@ -50,13 +50,43 @@ export class SREngine {
       repetitions,
       nextReview: nr.toISOString().split('T')[0],
       lastGrade: grade,
-      status
+      status,
+      updatedAt: new Date().toISOString()
     }
 
     this.cache.setSR(cardId, updated)
     this.cache.bumpReviewed(todayKey())
     this.cache.save()
     return updated
+  }
+
+  /**
+   * Merge a remote progress/sr-state.json into the local store, per card,
+   * newest-wins. Cards whose remote `updatedAt` is newer (or that don't exist
+   * locally) are adopted; for legacy entries without timestamps the entry with
+   * more repetitions wins. Returns the number of cards adopted from remote —
+   * this is what makes SR progress survive reinstalls and stay consistent
+   * across devices.
+   */
+  mergeRemote(remote: SRState): number {
+    let adopted = 0
+    for (const [cardId, remoteCard] of Object.entries(remote.cards || {})) {
+      const local = this.cache.getSR(cardId)
+      if (!local) {
+        this.cache.setSR(cardId, remoteCard)
+        adopted++
+        continue
+      }
+      const rT = remoteCard.updatedAt || ''
+      const lT = local.updatedAt || ''
+      const remoteNewer =
+        rT && lT ? rT > lT : rT && !lT ? true : remoteCard.repetitions > local.repetitions
+      if (remoteNewer) {
+        this.cache.setSR(cardId, remoteCard)
+        adopted++
+      }
+    }
+    return adopted
   }
 
   /** Next card to quiz on: overdue → new → random unresolved. */
