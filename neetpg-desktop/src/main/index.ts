@@ -68,7 +68,8 @@ function warmImages(): void {
   // far too heavy to run on every background sync cycle (this was the app
   // "taking over" the PC). For that source we never pre-warm; images are
   // generated lazily, only while a card is actually on screen. Light HTTP
-  // sources (API / Pollinations) can warm a couple of upcoming cards cheaply.
+  // sources (Cloudflare / API / Pollinations) warm a few upcoming cards per
+  // cycle; the per-day budget inside ImageGenService caps the total.
   if (cfg.imageProvider === 'gemini-web') return
   const pending = cache.allCards().filter((c) => !imageGen.hasImage(c))
   if (!pending.length) return
@@ -204,8 +205,8 @@ app.whenReady().then(async () => {
   sr = new SREngine(cache)
   llm = new LLMService(() => getConfig().groqApiKey)
   geminiWeb = new GeminiWebService()
-  imageGen = new ImageGenService(() => getConfig(), userData, geminiWeb)
   repo = new RepoSync(() => getConfig())
+  imageGen = new ImageGenService(() => getConfig(), userData, geminiWeb, repo)
   syncer = new Syncer(() => getConfig(), repo, cache, sr, llm)
   // Push every sync-status transition to the renderer so the live Sync button
   // updates without the renderer having to poll getSyncStatus().

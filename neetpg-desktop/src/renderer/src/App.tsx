@@ -4,6 +4,7 @@ import { ICONS } from './data'
 import { Svg, Toast } from './components/ui'
 import { AmbientMode } from './components/AmbientMode'
 import { Dashboard } from './components/Dashboard'
+import { ImageReview } from './components/ImageReview'
 import { Settings } from './components/Settings'
 import { QuizInterrupt } from './components/QuizInterrupt'
 import { Setup } from './components/Setup'
@@ -93,7 +94,8 @@ export function App(): JSX.Element {
   useEffect(() => {
     const off1 = window.api.onModeChange((m) => {
       // 'active' from idle detection maps to dashboard here.
-      const next: AppMode = m === 'ambient' ? 'ambient' : m === 'settings' ? 'settings' : 'dashboard'
+      const next: AppMode =
+        m === 'ambient' ? 'ambient' : m === 'settings' ? 'settings' : m === 'images' ? 'images' : 'dashboard'
       setMode(next)
       window.api.setFullscreen(next === 'ambient')
     })
@@ -190,6 +192,7 @@ export function App(): JSX.Element {
           <AmbientMode feed={reviewFeed} tweaks={tweaks} sync={sync} onSync={onSync} onTriggerQuiz={triggerQuiz} />
         )}
         {mode === 'dashboard' && <Dashboard stats={stats} sync={sync} onSync={onSync} />}
+        {mode === 'images' && <ImageReview />}
         {mode === 'settings' && <Settings config={config} onChange={saveConfig} sync={sync} onSync={onSync} />}
       </div>
 
@@ -241,6 +244,7 @@ export function App(): JSX.Element {
         <div style={{ display: 'flex', flexDirection: 'column', gap: 8, flex: 1 }}>
           <NavButton icon={ICONS.ambient} label="Ambient" active={mode === 'ambient'} onClick={() => changeMode('ambient')} />
           <NavButton icon={ICONS.dashboard} label="Dashboard" active={mode === 'dashboard'} onClick={() => changeMode('dashboard')} />
+          <NavButton icon={ICONS.image} label="Card Images" active={mode === 'images'} onClick={() => changeMode('images')} />
           <NavButton icon={ICONS.settings} label="Settings" active={mode === 'settings'} onClick={() => changeMode('settings')} />
         </div>
         <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>

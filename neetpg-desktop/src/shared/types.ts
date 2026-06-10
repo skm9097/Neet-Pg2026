@@ -104,9 +104,16 @@ export interface AppConfig {
 
   // AI visuals (per-card infographic image generation)
   enableCardImages: boolean
-  imageProvider: 'gemini-web' | 'gemini' | 'pollinations'
+  imageProvider: 'cloudflare' | 'gemini-web' | 'gemini' | 'pollinations'
   geminiApiKey: string
   geminiImageModel: string
+  // Cloudflare Workers AI (default image source)
+  cfAccountId: string
+  cfApiToken: string
+  cfImageModel: string
+  // Daily generation budget + repo-backed image store
+  imagesPerDay: number
+  pushImagesToRepo: boolean
 
   // Timing
   syncIntervalMinutes: number
@@ -176,7 +183,36 @@ export interface CardImage {
   message?: string
 }
 
-export type AppMode = 'ambient' | 'dashboard' | 'settings'
+// === Daily image-generation quota (persisted; resets at local midnight) ===
+export interface ImageQuota {
+  date: string // local YYYY-MM-DD the counter applies to
+  used: number // API calls made today
+  limit: number // from config (imagesPerDay)
+  blockedUntil: string | null // ISO — set when the provider rate-limits us
+}
+
+// === Per-card entry in the image review screen ===
+export interface ImageReportEntry {
+  cardId: string
+  subject: string
+  topic: string
+  heading: string
+  status: 'ready' | 'queued' | 'error' | 'blocked'
+  error?: string // last failure reason, if any
+  generatedAt?: string
+  fromRepo?: boolean // true if the image was fetched from the repo, not generated
+}
+
+export interface ImageReport {
+  quota: ImageQuota
+  total: number
+  ready: number
+  queued: number
+  errors: number
+  entries: ImageReportEntry[]
+}
+
+export type AppMode = 'ambient' | 'dashboard' | 'images' | 'settings'
 
 // === The typed bridge exposed on window.api by the preload script ===
 export interface DesktopApi {
@@ -195,6 +231,11 @@ export interface DesktopApi {
   getSyncStatus(): Promise<SyncStatus>
   llmGenerate(type: 'mnemonic' | 'quiz_variant' | 'comparison', cardId: string): Promise<string | null>
   getCardImage(cardId: string): Promise<CardImage>
+  // Image review screen: per-card status + quota; force-regenerate one card;
+  // batch-generate up to the remaining daily budget right now.
+  getImageReport(): Promise<ImageReport>
+  regenerateImage(cardId: string): Promise<CardImage>
+  generateImagesNow(): Promise<{ made: number; message: string }>
   testGithub(): Promise<{ ok: boolean; message: string }>
   testGroq(): Promise<{ ok: boolean; message: string }>
   testGemini(): Promise<{ ok: boolean; message: string }>

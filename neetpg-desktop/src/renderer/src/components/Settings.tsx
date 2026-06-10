@@ -111,14 +111,28 @@ export function Settings({
           <Field label="Image source">
             <SegmentedControl
               options={[
+                { value: 'cloudflare', label: 'Cloudflare' },
                 { value: 'gemini-web', label: 'Gemini (sign in)' },
-                { value: 'gemini', label: 'API key' },
-                { value: 'pollinations', label: 'Free (no key)' }
+                { value: 'gemini', label: 'Gemini key' },
+                { value: 'pollinations', label: 'Free' }
               ]}
               value={local.imageProvider}
               onChange={(v) => update('imageProvider', v as AppConfig['imageProvider'])}
             />
           </Field>
+
+          {local.imageProvider === 'cloudflare' && (
+            <>
+              <TextInput label="Cloudflare account ID" value={local.cfAccountId} placeholder="023e105f4ecef8ad9ca31a8372d0c353" onChange={(v) => update('cfAccountId', v.trim())} />
+              <TextInput label="Cloudflare API token" value={local.cfApiToken} placeholder="Workers AI token" type="password" onChange={(v) => update('cfApiToken', v.trim())} />
+              <TextInput label="Model" value={local.cfImageModel} placeholder="@cf/black-forest-labs/flux-1-schnell" onChange={(v) => update('cfImageModel', v.trim())} />
+              <div style={styles.hint}>
+                Dashboard → Workers AI: the account ID is on the right of the overview page; create an API token with
+                the <b>Workers AI → Read + Edit</b> permission. The default FLUX model is fast and included in the free
+                daily allocation.
+              </div>
+            </>
+          )}
 
           {local.imageProvider === 'gemini-web' && <GeminiWebAuth />}
 
@@ -129,12 +143,15 @@ export function Settings({
             </>
           )}
 
+          <Range label="Images per day" value={local.imagesPerDay} min={5} max={100} unit="imgs" onChange={(v) => update('imagesPerDay', v)} />
+          <Toggle label="Store generated images in the GitHub repo" checked={local.pushImagesToRepo} onChange={(v) => update('pushImagesToRepo', v)} />
+
           <TestRow label="Test image source" running={testing === 'gemini'} disabled={testing !== null} onClick={testGemini} result={geminiResult} />
           <div style={styles.hint}>
-            Each card’s visual is generated once from its deck data and cached on disk, so it isn’t re-created every
-            time. <b>Gemini (sign in)</b> drives the Gemini website with your own Google account — no API key or
-            billing. <b>API key</b> uses the Gemini image API directly. <b>Free</b> uses Pollinations with no key. Turn
-            the toggle off to show a plain placeholder instead.
+            Each card’s visual is generated once and cached on disk — never re-created for the same card. With repo
+            storage on, images are also pushed to <b>card-images/</b> in your repo so a reinstall (or another PC)
+            downloads them instead of regenerating. Generation stops at the daily budget and resumes automatically the
+            next day — same if the provider reports its own limit. Check results in the <b>Card Images</b> screen.
           </div>
         </Section>
 

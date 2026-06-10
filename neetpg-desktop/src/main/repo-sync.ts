@@ -90,13 +90,25 @@ export class RepoSync {
     return res.text()
   }
 
+  /** Raw bytes of a binary file (card images). Returns null on 404. */
+  async fetchBinary(path: string): Promise<Buffer | null> {
+    const c = this.cfg()
+    const url = `${this.base()}/contents/${encodeURIComponent(path).replace(/%2F/g, '/')}?ref=${encodeURIComponent(c.repoBranch)}`
+    const res = await this.request(url, {
+      headers: { ...this.headers(false), Accept: 'application/vnd.github.raw' }
+    })
+    if (res.status === 404) return null
+    if (!res.ok) throw new Error(`Binary fetch failed for ${path} (${res.status})`)
+    return Buffer.from(await res.arrayBuffer())
+  }
+
   /**
    * Write (create or update) a file at `path`. Re-reads the current sha
    * immediately before PUT; on a 409/422 sha conflict (another device wrote in
    * between) it re-fetches the sha once and retries. Returns the new blob sha
    * so callers can record it and skip re-fetching the file they just wrote.
    */
-  async putFile(path: string, content: string, message: string): Promise<string | null> {
+  async putFile(path: string, content: string | Buffer, message: string): Promise<string | null> {
     const c = this.cfg()
     if (!c.githubPat) throw new Error('No GitHub token configured')
 
@@ -115,7 +127,9 @@ export class RepoSync {
 
       const body: Record<string, unknown> = {
         message,
-        content: Buffer.from(content, 'utf-8').toString('base64'),
+        content: (Buffer.isBuffer(content) ? content : Buffer.from(content, 'utf-8')).toString(
+          'base64'
+        ),
         branch: c.repoBranch
       }
       if (sha) body.sha = sha

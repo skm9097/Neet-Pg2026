@@ -13,9 +13,14 @@ export const DEFAULT_CONFIG: AppConfig = {
   enableRephrase: true,
 
   enableCardImages: true,
-  imageProvider: 'gemini-web',
+  imageProvider: 'cloudflare',
   geminiApiKey: '',
   geminiImageModel: 'gemini-2.5-flash-image',
+  cfAccountId: '',
+  cfApiToken: '',
+  cfImageModel: '@cf/black-forest-labs/flux-1-schnell',
+  imagesPerDay: 20,
+  pushImagesToRepo: true,
 
   syncIntervalMinutes: 5,
   quizIntervalMinutes: 30,
@@ -40,7 +45,7 @@ export const DEFAULT_CONFIG: AppConfig = {
 }
 
 // Bump when a one-time config migration is needed.
-const SCHEMA_VERSION = 2
+const SCHEMA_VERSION = 3
 
 // electron-store persists to %APPDATA%/neetpg-desktop/config.json on Windows.
 export const store = new Store<AppConfig>({
@@ -59,8 +64,12 @@ export const store = new Store<AppConfig>({
     // 1.2.0 shipped minimizeToTray=true, which left a sticky background process
     // the installer couldn't close. Flip upgraders to the clean default once.
     s.set('minimizeToTray', false)
-    s.set('_schema', SCHEMA_VERSION)
   }
+  if (schema < 3) {
+    // 1.5.0 moves image generation to Cloudflare Workers AI.
+    s.set('imageProvider', 'cloudflare')
+  }
+  if (schema < SCHEMA_VERSION) s.set('_schema', SCHEMA_VERSION)
 })()
 
 export function getConfig(): AppConfig {

@@ -9,37 +9,78 @@ import {
 } from 'fs'
 import { join } from 'path'
 import { createHash } from 'crypto'
-import type { AppConfig, MistakeCard } from '../shared/types'
+import type { AppConfig, MistakeCard, ImageQuota, ImageReport, ImageReportEntry } from '../shared/types'
 import type { GeminiWebService } from './gemini-web'
+import type { RepoSync } from './repo-sync'
 
 // Bump to invalidate every cached image when the prompt logic changes
 // (the version is folded into the cache key, so old PNGs are simply ignored).
 const PROMPT_VERSION = 1
 
+const DEFAULT_CF_MODEL = '@cf/black-forest-labs/flux-1-schnell'
+const REPO_IMAGE_DIR = 'card-images'
+const REPO_MANIFEST = `${REPO_IMAGE_DIR}/manifest.json`
+// Re-read the repo manifest at most this often (it changes rarely).
+const MANIFEST_TTL_MS = 10 * 60 * 1000
+
 type ImgStatus = 'ready' | 'pending' | 'error' | 'disabled'
 
-/**
- * Generates a per-card medical-illustration image from the card's deck data and
- * caches it on disk, so each card's visual is produced once and reused. Default
- * provider is the Gemini image model (the user's own key); a free, keyless
- * Pollinations fallback is selectable in Settings.
- *
- * Everything here is best-effort: every path fails soft and the UI falls back to
- * a tasteful placeholder. Images live in `userData/card-images/` (never in the
- * repo, never in the app bundle).
- */
+const localDay = (): string => {
+  const d = new Date()
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
+}
+
+/** Thrown when the provider says we've hit its generation limit. */
+class RateLimitError extends Error {}
+
 interface IndexEntry {
   file: string
   prompt: string
   at: string
   subject: string
   topic: string
+  fromRepo?: boolean
 }
 
+interface QuotaFile {
+  date: string
+  used: number
+  blockedUntil: string | null
+}
+
+interface ManifestEntry {
+  key: string // cache key the image was generated for (invalidates on card change)
+  file: string // filename inside card-images/
+  subject: string
+  topic: string
+  model: string
+  prompt: string
+  at: string
+  bytes: number
+}
+
+/**
+ * Generates a per-card medical-illustration image and caches it on disk, so
+ * each card's visual is produced once and reused. Default provider is
+ * Cloudflare Workers AI (user's own account ID + API token); Gemini and
+ * Pollinations remain selectable.
+ *
+ * Budgeting: at most `imagesPerDay` provider calls per local day (default 20),
+ * persisted across restarts. A provider rate-limit blocks further calls until
+ * the next local midnight. Generated images are also pushed to the repo under
+ * `card-images/` with a manifest, so a reinstall (or another machine) fetches
+ * instead of regenerating.
+ */
 export class ImageGenService {
   private dir: string
   private indexPath: string
   private index: Record<string, IndexEntry> = {}
+  private quotaPath: string
+  private quotaData: QuotaFile = { date: localDay(), used: 0, blockedUntil: null }
+  private errorsPath: string
+  private errors: Record<string, { at: string; message: string }> = {}
+  private manifest: Record<string, ManifestEntry> | null = null
+  private manifestAt = 0
   private lastCall = 0
   private readonly minGapMs = 4000
   // De-dupe concurrent requests for the same card (ambient + prefetch can race).
@@ -48,13 +89,20 @@ export class ImageGenService {
   constructor(
     private cfg: () => AppConfig,
     userDataDir: string,
-    private web: GeminiWebService
+    private web: GeminiWebService,
+    private repo: RepoSync
   ) {
     this.dir = join(userDataDir, 'card-images')
     if (!existsSync(this.dir)) mkdirSync(this.dir, { recursive: true })
     this.indexPath = join(this.dir, 'cache-index.json')
+    this.quotaPath = join(this.dir, 'quota.json')
+    this.errorsPath = join(this.dir, 'errors.json')
     this.loadIndex()
+    this.loadQuota()
+    this.loadErrors()
   }
+
+  // ── Persistence ─────────────────────────────────────────────────────────────
 
   private loadIndex(): void {
     try {
@@ -67,16 +115,116 @@ export class ImageGenService {
   }
 
   /** Map a card id → its cached image file + prompt, so images are tagged by question. */
-  private recordIndex(card: MistakeCard, file: string, prompt: string): void {
+  private recordIndex(card: MistakeCard, file: string, prompt: string, fromRepo = false): void {
     this.index[card.id] = {
       file: file.split(/[/\\]/).pop() || file,
       prompt,
       at: new Date().toISOString(),
       subject: card.subject,
-      topic: card.topic
+      topic: card.topic,
+      fromRepo
     }
     try {
       writeFileSync(this.indexPath, JSON.stringify(this.index, null, 2), 'utf-8')
+    } catch {
+      /* best-effort */
+    }
+  }
+
+  private loadQuota(): void {
+    try {
+      if (existsSync(this.quotaPath)) {
+        this.quotaData = JSON.parse(readFileSync(this.quotaPath, 'utf-8')) as QuotaFile
+      }
+    } catch {
+      /* defaults stand */
+    }
+    this.rollQuotaDay()
+  }
+
+  private saveQuota(): void {
+    try {
+      writeFileSync(this.quotaPath, JSON.stringify(this.quotaData), 'utf-8')
+    } catch {
+      /* best-effort */
+    }
+  }
+
+  /** New local day → reset the counter and clear any rate-limit block that expired. */
+  private rollQuotaDay(): void {
+    const today = localDay()
+    if (this.quotaData.date !== today) {
+      this.quotaData = { date: today, used: 0, blockedUntil: this.quotaData.blockedUntil }
+    }
+    if (this.quotaData.blockedUntil && new Date(this.quotaData.blockedUntil) <= new Date()) {
+      this.quotaData.blockedUntil = null
+    }
+  }
+
+  quota(): ImageQuota {
+    this.rollQuotaDay()
+    return {
+      date: this.quotaData.date,
+      used: this.quotaData.used,
+      limit: Math.max(1, this.cfg().imagesPerDay || 20),
+      blockedUntil: this.quotaData.blockedUntil
+    }
+  }
+
+  /** null = OK to call the provider; otherwise a human-readable refusal. */
+  private quotaGate(): string | null {
+    const q = this.quota()
+    if (q.blockedUntil) {
+      return `Provider limit hit — generation resumes ${new Date(q.blockedUntil).toLocaleString()}`
+    }
+    if (q.used >= q.limit) {
+      return `Daily budget of ${q.limit} images used — resumes tomorrow`
+    }
+    return null
+  }
+
+  private noteCall(): void {
+    this.rollQuotaDay()
+    this.quotaData.used += 1
+    this.saveQuota()
+  }
+
+  /** Provider said stop: block until the next local midnight (when quota resets). */
+  private noteRateLimited(): void {
+    const next = new Date()
+    next.setDate(next.getDate() + 1)
+    next.setHours(0, 5, 0, 0)
+    this.quotaData.blockedUntil = next.toISOString()
+    this.saveQuota()
+  }
+
+  private loadErrors(): void {
+    try {
+      if (existsSync(this.errorsPath)) {
+        this.errors = JSON.parse(readFileSync(this.errorsPath, 'utf-8')) as Record<
+          string,
+          { at: string; message: string }
+        >
+      }
+    } catch {
+      this.errors = {}
+    }
+  }
+
+  private recordError(cardId: string, message: string): void {
+    this.errors[cardId] = { at: new Date().toISOString(), message }
+    try {
+      writeFileSync(this.errorsPath, JSON.stringify(this.errors, null, 2), 'utf-8')
+    } catch {
+      /* best-effort */
+    }
+  }
+
+  private clearError(cardId: string): void {
+    if (!this.errors[cardId]) return
+    delete this.errors[cardId]
+    try {
+      writeFileSync(this.errorsPath, JSON.stringify(this.errors, null, 2), 'utf-8')
     } catch {
       /* best-effort */
     }
@@ -146,7 +294,7 @@ export class ImageGenService {
     }
 
     const path = await this.generate(card)
-    if (!path) return { status: 'error', dataUrl: null, message: await this.errorHint() }
+    if (!path) return { status: 'error', dataUrl: null, message: await this.errorHint(card) }
     const url = this.toDataUrl(path)
     return url
       ? { status: 'ready', dataUrl: url }
@@ -154,8 +302,17 @@ export class ImageGenService {
   }
 
   /** A short, provider-aware reason for a failed generation (for the placeholder). */
-  private async errorHint(): Promise<string> {
+  private async errorHint(card?: MistakeCard): Promise<string> {
+    const recorded = card && this.errors[card.id]?.message
+    if (recorded) return recorded
+    const gate = this.quotaGate()
+    if (gate) return gate
     const c = this.cfg()
+    if (c.imageProvider === 'cloudflare') {
+      return c.cfAccountId && c.cfApiToken
+        ? 'Cloudflare returned no image — it will retry on the next pass'
+        : 'Add your Cloudflare account ID + API token in Settings → AI Visuals'
+    }
     if (c.imageProvider === 'gemini-web') {
       const s = await this.web.status()
       return s.signedIn
@@ -179,45 +336,185 @@ export class ImageGenService {
   }
 
   /** Generate + cache the image; returns the file path or null. De-dupes races. */
-  async generate(card: MistakeCard): Promise<string | null> {
+  async generate(card: MistakeCard, force = false): Promise<string | null> {
     if (!this.on) return null
     const out = this.pathFor(card)
-    if (existsSync(out)) return out
+    if (!force && existsSync(out)) return out
 
     const key = this.keyFor(card)
     const existing = this.inflight.get(key)
     if (existing) return existing
 
-    const job = this._generate(card, out).finally(() => this.inflight.delete(key))
+    const job = this._generate(card, out, force).finally(() => this.inflight.delete(key))
     this.inflight.set(key, job)
     return job
   }
 
-  private async _generate(card: MistakeCard, outPath: string): Promise<string | null> {
+  private async _generate(card: MistakeCard, outPath: string, force: boolean): Promise<string | null> {
     const c = this.cfg()
     const prompt = this.buildPrompt(card)
+
+    // 1. Repo store first (free — no provider call): another machine or a
+    //    previous install may already have generated this exact image.
+    if (!force) {
+      try {
+        const fetched = await this.fetchFromRepo(card)
+        if (fetched) {
+          writeFileSync(outPath, fetched)
+          this.recordIndex(card, outPath, prompt, true)
+          this.clearError(card.id)
+          return outPath
+        }
+      } catch {
+        // Repo unreachable — fall through to generation.
+      }
+    }
+
+    // 2. Daily budget / rate-limit gate (applies to provider calls only).
+    const gate = this.quotaGate()
+    if (gate) {
+      this.recordError(card.id, gate)
+      return null
+    }
+
     await this.throttle()
     try {
       let buf: Buffer | null = null
-      if (c.imageProvider === 'gemini-web') {
+      if (c.imageProvider === 'cloudflare') {
+        if (!c.cfAccountId || !c.cfApiToken) {
+          this.recordError(card.id, 'Cloudflare account ID / API token not set')
+          return null
+        }
+        this.noteCall()
+        buf = await this.genCloudflare(prompt, c)
+      } else if (c.imageProvider === 'gemini-web') {
         // Drive the signed-in Gemini website to generate the image.
+        this.noteCall()
         buf = await this.web.generate(prompt)
       } else if (c.imageProvider === 'pollinations') {
+        this.noteCall()
         buf = await this.genPollinations(prompt)
       } else {
         // Gemini API. Needs a key — if missing, leave it to the UI to prompt the
         // user (placeholder), rather than silently switching source.
-        if (!c.geminiApiKey) return null
+        if (!c.geminiApiKey) {
+          this.recordError(card.id, 'Gemini API key not set')
+          return null
+        }
+        this.noteCall()
         buf = await this.genGemini(prompt, c)
       }
-      if (!buf || buf.length < 128) return null
+      if (!buf || buf.length < 128) {
+        this.recordError(card.id, 'Provider returned no image')
+        return null
+      }
       writeFileSync(outPath, buf)
       this.recordIndex(card, outPath, prompt)
+      this.clearError(card.id)
       this.cleanup(600)
+      // 3. Push to the repo store so it never has to be generated again.
+      this.pushToRepo(card, buf, prompt).catch(() => {})
       return outPath
-    } catch {
+    } catch (e) {
+      if (e instanceof RateLimitError) {
+        this.noteRateLimited()
+        this.recordError(card.id, 'Provider rate limit hit — retrying after the daily reset')
+      } else {
+        this.recordError(card.id, (e as Error).message || 'Generation failed')
+      }
       return null
     }
+  }
+
+  // ── Cloudflare Workers AI ────────────────────────────────────────────────────
+  private async genCloudflare(prompt: string, c: AppConfig): Promise<Buffer | null> {
+    const model = c.cfImageModel || DEFAULT_CF_MODEL
+    const url = `https://api.cloudflare.com/client/v4/accounts/${encodeURIComponent(c.cfAccountId)}/ai/run/${model}`
+    // flux-1-schnell takes a steps count (max 8); SD-style models accept extras
+    // but plain { prompt } works for all of them.
+    const body = model.includes('flux') ? { prompt, steps: 8 } : { prompt }
+    const res = await fetch(url, {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${c.cfApiToken}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify(body)
+    })
+
+    if (res.status === 429) throw new RateLimitError('Cloudflare rate limit (429)')
+    if (!res.ok) {
+      let msg = `Cloudflare ${res.status}`
+      try {
+        const j = (await res.json()) as { errors?: { message?: string }[] }
+        msg = j?.errors?.[0]?.message || msg
+      } catch {
+        /* keep the status message */
+      }
+      // Neuron/quota exhaustion comes back as a normal error payload.
+      if (/limit|quota|capacity|allocation/i.test(msg)) throw new RateLimitError(msg)
+      throw new Error(msg)
+    }
+
+    const ct = res.headers.get('content-type') || ''
+    if (ct.includes('application/json')) {
+      // flux-1-schnell: { result: { image: "<base64>" }, success: true }
+      const j = (await res.json()) as { result?: { image?: string } }
+      const b64 = j?.result?.image
+      return b64 ? Buffer.from(b64, 'base64') : null
+    }
+    // stable-diffusion models stream the PNG directly.
+    return Buffer.from(await res.arrayBuffer())
+  }
+
+  // ── Repo image store (card-images/ + manifest.json) ─────────────────────────
+
+  private async loadManifest(forceFresh = false): Promise<Record<string, ManifestEntry>> {
+    if (!forceFresh && this.manifest && Date.now() - this.manifestAt < MANIFEST_TTL_MS) {
+      return this.manifest
+    }
+    try {
+      const raw = await this.repo.fetchFile(REPO_MANIFEST)
+      this.manifest = JSON.parse(raw) as Record<string, ManifestEntry>
+    } catch {
+      // 404 (no images pushed yet) or offline — treat as empty but don't cache
+      // a miss for long.
+      this.manifest = this.manifest || {}
+    }
+    this.manifestAt = Date.now()
+    return this.manifest
+  }
+
+  /** Image for this exact card content already in the repo? Fetch it. */
+  private async fetchFromRepo(card: MistakeCard): Promise<Buffer | null> {
+    const manifest = await this.loadManifest()
+    const entry = manifest[card.id]
+    if (!entry || entry.key !== this.keyFor(card)) return null
+    return this.repo.fetchBinary(`${REPO_IMAGE_DIR}/${entry.file}`)
+  }
+
+  /** Push the generated PNG + updated manifest to the repo (needs a PAT). */
+  private async pushToRepo(card: MistakeCard, buf: Buffer, prompt: string): Promise<void> {
+    const c = this.cfg()
+    if (!c.githubPat || c.pushImagesToRepo === false) return
+    const safeId = card.id.replace(/[^a-zA-Z0-9_-]/g, '_')
+    const file = `${safeId}.png`
+    await this.repo.putFile(`${REPO_IMAGE_DIR}/${file}`, buf, `image: ${card.id} (${card.subject})`)
+
+    const manifest = await this.loadManifest(true)
+    manifest[card.id] = {
+      key: this.keyFor(card),
+      file,
+      subject: card.subject,
+      topic: card.topic,
+      model: c.imageProvider === 'cloudflare' ? c.cfImageModel || DEFAULT_CF_MODEL : c.imageProvider,
+      prompt,
+      at: new Date().toISOString(),
+      bytes: buf.length
+    }
+    await this.repo.putFile(REPO_MANIFEST, JSON.stringify(manifest, null, 2), `image: manifest ${card.id}`)
+    this.manifest = manifest
+    this.manifestAt = Date.now()
   }
 
   // ── Gemini image models (generateContent → inline image data) ──────────────
@@ -291,11 +588,60 @@ export class ImageGenService {
     let made = 0
     for (const card of cards) {
       if (made >= max) break
+      if (this.quotaGate()) break // budget exhausted — stop the batch early
       if (this.hasImage(card)) continue
       const path = await this.generate(card)
       if (path) made++
     }
     return made
+  }
+
+  /** Per-card status + quota for the image review screen. */
+  report(cards: MistakeCard[]): ImageReport {
+    const quota = this.quota()
+    const blocked = !!this.quotaGate()
+    const entries: ImageReportEntry[] = cards.map((card) => {
+      const ready = this.hasImage(card)
+      const err = this.errors[card.id]
+      const idx = this.index[card.id]
+      let status: ImageReportEntry['status']
+      if (ready) status = 'ready'
+      else if (err) status = 'error'
+      else if (blocked) status = 'blocked'
+      else status = 'queued'
+      return {
+        cardId: card.id,
+        subject: card.subject,
+        topic: card.topic,
+        heading: card.factHeading || card.topic || card.subject,
+        status,
+        error: !ready && err ? err.message : undefined,
+        generatedAt: ready ? idx?.at : undefined,
+        fromRepo: ready ? idx?.fromRepo : undefined
+      }
+    })
+    const order: Record<ImageReportEntry['status'], number> = { error: 0, blocked: 1, queued: 2, ready: 3 }
+    entries.sort((a, b) => order[a.status] - order[b.status] || a.cardId.localeCompare(b.cardId))
+    return {
+      quota,
+      total: entries.length,
+      ready: entries.filter((e) => e.status === 'ready').length,
+      queued: entries.filter((e) => e.status === 'queued' || e.status === 'blocked').length,
+      errors: entries.filter((e) => e.status === 'error').length,
+      entries
+    }
+  }
+
+  /** Throw away the cached image (and its error) and produce a fresh one. */
+  async regenerate(card: MistakeCard): Promise<string | null> {
+    const out = this.pathFor(card)
+    try {
+      if (existsSync(out)) unlinkSync(out)
+    } catch {
+      /* ignore */
+    }
+    this.clearError(card.id)
+    return this.generate(card, true)
   }
 
   private async throttle(): Promise<void> {
@@ -307,6 +653,31 @@ export class ImageGenService {
   /** Connectivity / key check surfaced in Settings. */
   async test(): Promise<{ ok: boolean; message: string }> {
     const c = this.cfg()
+    if (c.imageProvider === 'cloudflare') {
+      if (!c.cfAccountId || !c.cfApiToken) {
+        return { ok: false, message: 'Enter your Cloudflare account ID and API token' }
+      }
+      try {
+        // Model search validates both the token and the account without
+        // spending image-generation quota.
+        const res = await fetch(
+          `https://api.cloudflare.com/client/v4/accounts/${encodeURIComponent(c.cfAccountId)}/ai/models/search?per_page=1`,
+          { headers: { Authorization: `Bearer ${c.cfApiToken}` } }
+        )
+        if (res.ok) {
+          return { ok: true, message: `Cloudflare OK (${c.cfImageModel || DEFAULT_CF_MODEL})` }
+        }
+        if (res.status === 401 || res.status === 403) {
+          return { ok: false, message: 'Token rejected — check the API token and its Workers AI permission' }
+        }
+        if (res.status === 404) {
+          return { ok: false, message: 'Account not found — check the account ID' }
+        }
+        return { ok: false, message: `Cloudflare returned ${res.status}` }
+      } catch (e) {
+        return { ok: false, message: `Network error: ${(e as Error).message}` }
+      }
+    }
     if (c.imageProvider === 'gemini-web') {
       const s = await this.web.status()
       return s.signedIn

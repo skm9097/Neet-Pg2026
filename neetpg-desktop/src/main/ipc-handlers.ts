@@ -137,6 +137,40 @@ export function registerIpc(s: Services): void {
     return { cardId, status: r.status, dataUrl: r.dataUrl, message: r.message }
   })
 
+  // Image review screen: per-card status + daily quota.
+  ipcMain.handle('get-image-report', () => s.imageGen.report(s.cache.allCards()))
+
+  // Throw away one card's cached image and produce a fresh one (counts quota).
+  ipcMain.handle('regenerate-image', async (_e, cardId: string) => {
+    const card = s.cache.getCard(cardId)
+    if (!card) return { cardId, status: 'error', dataUrl: null, message: 'Card not found' }
+    await s.imageGen.regenerate(card)
+    const r = await s.imageGen.getDataUrl(card)
+    return { cardId, status: r.status, dataUrl: r.dataUrl, message: r.message }
+  })
+
+  // Batch-generate now, up to today's remaining budget.
+  ipcMain.handle('generate-images-now', async () => {
+    const pending = s.cache.allCards().filter((c) => !s.imageGen.hasImage(c))
+    if (!pending.length) return { made: 0, message: 'All cards already have images' }
+    const q = s.imageGen.quota()
+    if (q.blockedUntil) {
+      return {
+        made: 0,
+        message: `Provider limit hit — resumes ${new Date(q.blockedUntil).toLocaleString()}`
+      }
+    }
+    const remaining = Math.max(0, q.limit - q.used)
+    if (!remaining) return { made: 0, message: 'Daily budget used — resumes tomorrow' }
+    const made = await s.imageGen.pregenerate(pending, remaining)
+    return {
+      made,
+      message: made
+        ? `Generated ${made} image${made === 1 ? '' : 's'}`
+        : 'Nothing generated — check the errors below'
+    }
+  })
+
   ipcMain.handle('test-github', () => s.repo.test())
   ipcMain.handle('test-groq', () => s.llm.test())
   ipcMain.handle('test-gemini', () => s.imageGen.test())

@@ -22,6 +22,8 @@ Contents/Trees REST API on `main` — no git client needed on either device.
 | `sessions/{YYYY-MM-DD}_{sessionId}.json` | Android | Desktop | JSON session log |
 | `progress/sr-state.json` | Desktop | Desktop (pull-merged every sync) | SM-2 state, per-card `updatedAt` |
 | `progress/topic-scores.json` | Desktop | (dashboards / future) | subject → unresolved ratio |
+| `card-images/{cardId}.png` | Desktop | Desktop (any install) | AI-generated card visual |
+| `card-images/manifest.json` | Desktop | Desktop | image details (below) |
 
 ## Mistake files: ONE file per question
 
@@ -116,6 +118,40 @@ timestamps: more `repetitions` wins). Then local state is pushed back. This
 makes review progress survive reinstalls and keeps multiple devices
 consistent without a server.
 
+## Card images: generate once, fetch forever
+
+The desktop generates one visual per card (default provider: **Cloudflare
+Workers AI**, model `@cf/black-forest-labs/flux-1-schnell`, user's own account
+ID + API token) and pushes it to `card-images/{cardId}.png` together with a
+manifest entry:
+
+```json
+{
+  "Q0247": {
+    "key": "md5-of-card-content-and-prompt-version",
+    "file": "Q0247.png",
+    "subject": "pharmacology",
+    "topic": "pharmacology",
+    "model": "@cf/black-forest-labs/flux-1-schnell",
+    "prompt": "Medical educational infographic illustration of …",
+    "at": "2026-06-10T12:00:00.000Z",
+    "bytes": 184223
+  }
+}
+```
+
+Before calling the provider, the desktop checks (1) its local disk cache, then
+(2) the repo manifest — if the manifest `key` matches the card's current
+content hash, the PNG is downloaded instead of regenerated. The `key` changes
+when the card's content changes, which naturally invalidates stale images.
+
+**Budget:** at most `imagesPerDay` provider calls per local day (default 20),
+persisted in `quota.json` so restarts don't reset it. A provider rate-limit
+(HTTP 429 or a quota error message) blocks all generation until the next local
+midnight; everything resumes automatically. Per-card failures are recorded and
+shown in the desktop's **Card Images** screen, which also offers per-card
+regeneration and a "generate now" batch up to the remaining budget.
+
 ## Conflict & failure handling (both sides)
 
 - **Writes:** GET current sha → PUT with sha; on `409`/`422` sha conflict,
@@ -134,4 +170,4 @@ consistent without a server.
 ## Versions implementing v2
 
 - Android **neet-study-suite ≥ 1.6.0**
-- Desktop **neetpg-desktop ≥ 1.4.0**
+- Desktop **neetpg-desktop ≥ 1.4.0** (card-image store: ≥ 1.5.0)
