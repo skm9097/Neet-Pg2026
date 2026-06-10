@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-10T06:10:31.322Z",
+  "lastUpdated": "2026-06-10T11:46:28.604Z",
   "scores": {
-    "anatomy": 1,
-    "biochemistry": 1,
-    "general": 1,
-    "physiology": 1
+    "anatomy": 1.0,
+    "general": 1.0,
+    "physiology": 1.0,
+    "biochemistry": 1.0
   }
 }
