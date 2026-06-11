@@ -291,9 +291,13 @@ export function App(): JSX.Element {
         {mode === 'settings' && <Settings config={config} onChange={saveConfig} sync={sync} onSync={onSync} />}
       </div>
 
-      {/* Invisible top strip that lets the frameless window be dragged. */}
+      {/* Invisible top strip — drag region; double-click toggles maximize. */}
       {mode !== 'ambient' && (
-        <div data-tauri-drag-region style={{ position: 'fixed', top: 0, left: 0, right: 0, height: 26, zIndex: 40 }} />
+        <div
+          data-tauri-drag-region
+          onDoubleClick={() => window.api.toggleMaximize()}
+          style={{ position: 'fixed', top: 0, left: 0, right: 0, height: 26, zIndex: 40 }}
+        />
       )}
 
       {/* Frameless window controls — fade with the rest of the UI. */}
@@ -308,15 +312,16 @@ export function App(): JSX.Element {
           className="no-drag"
         >
           <WinBtn icon={ICONS.minimize} label="Minimize" onClick={() => window.api.minimizeWindow()} />
-          <WinBtn icon={ICONS.x} label="Close to tray" onClick={() => window.api.hideWindow()} />
+          <WinBtn icon={ICONS.maximize} label="Maximize / Restore" onClick={() => window.api.toggleMaximize()} />
+          <WinBtn icon={ICONS.x} label="Hide to tray" onClick={() => window.api.hideWindow()} />
+          <WinBtn icon={ICONS.close} label="Close app" danger onClick={() => window.api.closeApp()} />
         </div>
       )}
 
-      {/* Floating toggle — available on every screen, auto-hides after a few
-          seconds, reappears on mouse/keyboard activity. Opens/closes the rail. */}
+      {/* Floating sidebar toggle — a sidebar-panel icon, auto-hides, reappears on activity. */}
       <button
         onClick={() => setNavOpen((o) => !o)}
-        title={navOpen ? 'Hide menu' : 'Show menu'}
+        title={navOpen ? 'Hide menu' : 'Open menu'}
         className="no-drag glass"
         style={{
           ...appStyles.expandHandle,
@@ -415,7 +420,17 @@ function NavButton({
   )
 }
 
-function WinBtn({ icon, label, onClick }: { icon: string; label: string; onClick: () => void }): JSX.Element {
+function WinBtn({
+  icon,
+  label,
+  onClick,
+  danger = false
+}: {
+  icon: string
+  label: string
+  onClick: () => void
+  danger?: boolean
+}): JSX.Element {
   const [hov, setHov] = useState(false)
   return (
     <button
@@ -424,16 +439,16 @@ function WinBtn({ icon, label, onClick }: { icon: string; label: string; onClick
       onMouseLeave={() => setHov(false)}
       title={label}
       style={{
-        width: 32,
-        height: 32,
-        borderRadius: 8,
+        width: 28,
+        height: 28,
+        borderRadius: 7,
         border: 'none',
         cursor: 'pointer',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
-        background: hov ? 'var(--bg-hover)' : 'transparent',
-        color: hov ? 'var(--text-primary)' : 'var(--text-tertiary)',
+        background: hov ? (danger ? 'rgba(239,68,68,0.18)' : 'var(--bg-hover)') : 'transparent',
+        color: hov ? (danger ? '#ef4444' : 'var(--text-primary)') : 'var(--text-tertiary)',
         transition: 'background 0.15s var(--ease-out), color 0.15s var(--ease-out)'
       }}
     >

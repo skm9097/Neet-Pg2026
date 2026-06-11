@@ -23,9 +23,12 @@ const WORKER_LABEL: &str = "gemini-worker";
 const PROBE_LABEL: &str = "gemini-probe";
 const TITLE_MARK: &str = "NEETPG_RESULT:";
 /// Images per Gemini conversation session before closing the window.
-const BATCH_SIZE: usize = 10;
+const BATCH_SIZE: usize = 30;
 /// Cooldown between batches (1 hour) to stay well within Gemini's per-session limits.
 const BATCH_COOLDOWN_SECS: u64 = 3600;
+/// Consecutive page-level failures (no-image / refusal) before the conversation
+/// window is recycled — a stuck or rate-limited chat won't recover on its own.
+const FAILS_BEFORE_RECYCLE: usize = 2;
 
 // ── session state (lives for the whole app lifetime) ─────────────────────────
 
@@ -37,6 +40,8 @@ struct GeminiSession {
     batch_count: Mutex<usize>,
     /// When the next batch is allowed to start (None = no cooldown active).
     cooldown_until: Mutex<Option<Instant>>,
+    /// Consecutive page-level failures since the last success.
+    consecutive_fails: Mutex<usize>,
 }
 
 static SESSION: OnceLock<GeminiSession> = OnceLock::new();
@@ -47,6 +52,7 @@ fn session() -> &'static GeminiSession {
         window_ready: AtomicBool::new(false),
         batch_count: Mutex::new(0),
         cooldown_until: Mutex::new(None),
+        consecutive_fails: Mutex::new(0),
     })
 }
 
@@ -206,7 +212,7 @@ async fn generate_inner(
         )
         .title("Gemini image worker")
         .inner_size(1180.0, 900.0)
-        .position(-32000.0, -32000.0)
+        .visible(false)
         .skip_taskbar(true)
         .focused(false)
         .user_agent(UA)
@@ -245,6 +251,8 @@ async fn generate_inner(
 
     match &result {
         Ok(_) => {
+            // Reset consecutive fail counter on success
+            *sess.consecutive_fails.lock().unwrap() = 0;
             let new_count = {
                 let mut c = sess.batch_count.lock().unwrap();
                 *c += 1;
@@ -262,8 +270,20 @@ async fn generate_inner(
             }
         }
         Err(_) => {
-            // Don't count failures against the batch, but mark window as dead if it closed
-            if handle.get_webview_window(WORKER_LABEL).is_none() {
+            let fails = {
+                let mut f = sess.consecutive_fails.lock().unwrap();
+                *f += 1;
+                *f
+            };
+            if fails >= FAILS_BEFORE_RECYCLE {
+                // Too many consecutive failures — recycle the window so the next
+                // call gets a fresh conversation (handles stuck/rate-limited chats)
+                if let Some(w) = handle.get_webview_window(WORKER_LABEL) {
+                    let _ = w.destroy();
+                }
+                sess.window_ready.store(false, Ordering::SeqCst);
+                *sess.consecutive_fails.lock().unwrap() = 0;
+            } else if handle.get_webview_window(WORKER_LABEL).is_none() {
                 sess.window_ready.store(false, Ordering::SeqCst);
             }
         }
@@ -424,6 +444,12 @@ fn driver_script(prompt: &str) -> String {
         r#"(async () => {{
     {HELPERS}
     try {{
+      // URL guard — bail immediately if not on gemini.google.com
+      if (!location.hostname.includes('gemini.google.com')) {{
+        send({{ error: 'not-signed-in' }});
+        return;
+      }}
+
       // Snapshot how many generated images are already in this conversation
       // so we can identify only the NEW one after we submit our prompt.
       const beforeCount = candidates().length;
@@ -436,7 +462,7 @@ fn driver_script(prompt: &str) -> String {
       }} catch (e) {{}}
 
       let editor = null;
-      for (let i = 0; i < 40 && !editor; i++) {{ editor = findEditor(); if (!editor) await sleep(500); }}
+      for (let i = 0; i < 30 && !editor; i++) {{ editor = findEditor(); if (!editor) await sleep(500); }}
       if (!editor) {{
         send({{ error: location.hostname.includes('accounts.google') ? 'not-signed-in' : 'no-input' }});
         return;
@@ -473,7 +499,7 @@ fn driver_script(prompt: &str) -> String {
       }}
 
       // Wait for a NEW image to appear (image count increases beyond beforeCount)
-      const deadline = Date.now() + 90000;
+      const deadline = Date.now() + 75000;
       let imgEl = null;
       while (Date.now() < deadline && !imgEl) {{
         const c = candidates();

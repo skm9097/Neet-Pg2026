@@ -138,8 +138,8 @@ async fn sync_now(app: S<'_>, handle: AppHandle) -> Result<SyncOutcome, String> 
     if r.changed > 0 {
         let _ = handle.emit("cards-updated", r.changed);
     }
-    // Warm a few images in the background — images has interior locking so
-    // this never blocks get_image_report or other commands.
+    // Warm images in review-feed priority order (due cards first) so the cards
+    // shown first in ambient mode always have their visuals ready.
     let cfg = app.config.lock().unwrap().clone();
     if cfg.enable_card_images {
         let h = handle.clone();
@@ -147,7 +147,10 @@ async fn sync_now(app: S<'_>, handle: AppHandle) -> Result<SyncOutcome, String> 
             let st = h.state::<App>();
             let pending: Vec<MistakeCard> = {
                 let cache = st.cache.lock().await;
-                cache.all_cards().into_iter().filter(|c| !st.images.has_image(c)).collect()
+                stats::build_review_feed(&cache)
+                    .into_iter()
+                    .filter(|c| !st.images.has_image(c))
+                    .collect()
             };
             if !pending.is_empty() {
                 let cfg2 = st.config.lock().unwrap().clone();
@@ -278,7 +281,10 @@ async fn generate_images_now(app: S<'_>, handle: AppHandle) -> Result<BatchOutco
     let cfg = app.config.lock().unwrap().clone();
     let pending: Vec<MistakeCard> = {
         let cache = app.cache.lock().await;
-        cache.all_cards().into_iter().filter(|c| !app.images.has_image(c)).collect()
+        stats::build_review_feed(&cache)
+            .into_iter()
+            .filter(|c| !app.images.has_image(c))
+            .collect()
     };
     if pending.is_empty() {
         return Ok(BatchOutcome { made: 0, message: "All cards already have images".into() });
@@ -334,6 +340,11 @@ fn gemini_web_login(handle: AppHandle) -> Result<TestResult, String> {
 }
 
 // ── Platform ─────────────────────────────────────────────────────────────────
+
+#[tauri::command]
+fn quit_app(handle: AppHandle) {
+    handle.exit(0);
+}
 
 #[tauri::command]
 fn get_idle_seconds() -> u64 {
@@ -459,6 +470,7 @@ pub fn run() {
             test_groq,
             test_image_source,
             gemini_web_login,
+            quit_app,
             get_idle_seconds,
             set_keep_awake
         ])

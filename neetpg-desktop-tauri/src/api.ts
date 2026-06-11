@@ -51,8 +51,14 @@ export const api: DesktopApi = {
   minimizeWindow: () => {
     getCurrentWindow().minimize().catch(() => {})
   },
+  toggleMaximize: () => {
+    getCurrentWindow().toggleMaximize().catch(() => {})
+  },
   hideWindow: () => {
     getCurrentWindow().hide().catch(() => {})
+  },
+  closeApp: () => {
+    invoke('quit_app').catch(() => {})
   },
   setFullscreen: (onFs: boolean) => {
     getCurrentWindow().setFullscreen(onFs).catch(() => {})

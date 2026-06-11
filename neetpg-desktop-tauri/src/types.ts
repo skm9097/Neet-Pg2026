@@ -242,7 +242,9 @@ export interface DesktopApi {
   geminiWebLogin(): Promise<{ ok: boolean; message: string }>
   setMode(mode: AppMode): void
   minimizeWindow(): void
+  toggleMaximize(): void
   hideWindow(): void
+  closeApp(): void
   setFullscreen(on: boolean): void
   onModeChange(cb: (mode: AppMode) => void): () => void
   onCardsUpdated(cb: (count: number) => void): () => void
