@@ -1,36 +1,59 @@
-//! Drives the Gemini *website* (not the API) through a hidden WebView window
-//! using the user's own signed-in Google account — no API key, no paid quota.
-//! Port of the Electron v1.5 GeminiWebService.
+//! Drives the Gemini *website* (not the API) through a persistent hidden WebView window.
 //!
-//! Flow: the user signs in once in a visible window (cookies persist in the
-//! WebView2 profile). Generation opens an off-screen window on gemini.google.com,
-//! injects a driver script that types the prompt, submits it, waits for the
-//! generated image, and reports back either through the Tauri event bridge
-//! (remote-domain capability + withGlobalTauri) or, as a fallback channel,
-//! through `document.title`.
+//! Batch strategy: one WebView window is kept alive across BATCH_SIZE image generations
+//! (each submitted as a follow-up message in the same Gemini conversation). After the
+//! batch the window is destroyed and a BATCH_COOLDOWN_SECS cooldown is imposed before
+//! the next batch starts. This is much more efficient than opening a new window per
+//! image, which burns per-session limits faster.
 //!
-//! This is best-effort automation of a third-party page: selectors can change
-//! and every path fails soft with a readable error so the caller can fall back
-//! to another provider.
+//! If the worker window disappears or errors mid-batch it is automatically recreated on
+//! the next call; the batch counter is preserved so the cooldown fires at the right time.
 
 use base64::Engine;
 use std::sync::atomic::{AtomicBool, Ordering};
-use std::time::Duration;
+use std::sync::{Mutex, OnceLock};
+use std::time::{Duration, Instant};
 use tauri::{AppHandle, Listener, Manager, WebviewUrl, WebviewWindowBuilder};
 
 const GEMINI_URL: &str = "https://gemini.google.com/app";
-// Present as desktop Chrome so Google serves the standard UI instead of
-// blocking the embedded-webview fingerprint.
 const UA: &str = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 \
                   (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36";
 const LOGIN_LABEL: &str = "gemini-login";
 const WORKER_LABEL: &str = "gemini-worker";
+const PROBE_LABEL: &str = "gemini-probe";
 const TITLE_MARK: &str = "NEETPG_RESULT:";
+/// Images per Gemini conversation session before closing the window.
+const BATCH_SIZE: usize = 10;
+/// Cooldown between batches (1 hour) to stay well within Gemini's per-session limits.
+const BATCH_COOLDOWN_SECS: u64 = 3600;
 
-static BUSY: AtomicBool = AtomicBool::new(false);
+// ── session state (lives for the whole app lifetime) ─────────────────────────
+
+struct GeminiSession {
+    busy: AtomicBool,
+    /// True while the batch worker window exists and the SPA has fully booted.
+    window_ready: AtomicBool,
+    /// Successful images generated in the currently-open conversation window.
+    batch_count: Mutex<usize>,
+    /// When the next batch is allowed to start (None = no cooldown active).
+    cooldown_until: Mutex<Option<Instant>>,
+}
+
+static SESSION: OnceLock<GeminiSession> = OnceLock::new();
+
+fn session() -> &'static GeminiSession {
+    SESSION.get_or_init(|| GeminiSession {
+        busy: AtomicBool::new(false),
+        window_ready: AtomicBool::new(false),
+        batch_count: Mutex::new(0),
+        cooldown_until: Mutex::new(None),
+    })
+}
+
+// ── public API ────────────────────────────────────────────────────────────────
 
 /// Open a visible window for the user to log into Gemini. Cookies persist in
-/// the app's WebView2 profile, shared with the hidden worker window.
+/// the app's WebView2 profile and are shared with the hidden worker window.
 pub fn sign_in(handle: &AppHandle) -> Result<String, String> {
     if let Some(w) = handle.get_webview_window(LOGIN_LABEL) {
         let _ = w.show();
@@ -50,28 +73,206 @@ pub fn sign_in(handle: &AppHandle) -> Result<String, String> {
     Ok("Sign-in window opened — log into your Google account, then close it.".into())
 }
 
-/// Quick signed-in probe: loads the page hidden and checks for the composer.
+/// Check sign-in status and current batch state.
+/// Uses a short-lived probe window (title fallback channel — no event capability needed).
 pub async fn probe(handle: &AppHandle) -> (bool, String) {
-    match run_in_page(handle, &probe_script(), 25).await {
-        Ok(v) => {
-            if v.get("ok").and_then(|b| b.as_bool()).unwrap_or(false) {
-                (true, "Gemini web is ready — signed in".into())
-            } else {
-                let e = v.get("error").and_then(|e| e.as_str()).unwrap_or("unknown");
-                (false, friendly_error(e))
+    let sess = session();
+
+    // Cooldown active → report without opening a window
+    {
+        let until = sess.cooldown_until.lock().unwrap();
+        if let Some(u) = *until {
+            let now = Instant::now();
+            if u > now {
+                let mins = u.duration_since(now).as_secs().saturating_add(59) / 60;
+                return (
+                    false,
+                    format!(
+                        "Gemini web: batch of {BATCH_SIZE} complete — \
+                         next batch in ~{mins} min"
+                    ),
+                );
             }
+        }
+    }
+
+    // Actively generating → we know it's signed in; just report batch progress
+    if sess.busy.load(Ordering::SeqCst) {
+        let count = *sess.batch_count.lock().unwrap();
+        return (
+            true,
+            format!("Gemini web active — {count}/{BATCH_SIZE} in current batch"),
+        );
+    }
+
+    if sess.busy.compare_exchange(false, true, Ordering::SeqCst, Ordering::SeqCst).is_err() {
+        return (true, "Gemini web is active — signed in".into());
+    }
+    let out = probe_inner(handle).await;
+    sess.busy.store(false, Ordering::SeqCst);
+    out
+}
+
+async fn probe_inner(handle: &AppHandle) -> (bool, String) {
+    if let Some(w) = handle.get_webview_window(PROBE_LABEL) {
+        let _ = w.destroy();
+        tokio::time::sleep(Duration::from_millis(200)).await;
+    }
+    let win = match WebviewWindowBuilder::new(
+        handle,
+        PROBE_LABEL,
+        WebviewUrl::External(GEMINI_URL.parse().unwrap()),
+    )
+    .title("Gemini probe")
+    .inner_size(1180.0, 900.0)
+    .position(-32000.0, -32000.0)
+    .skip_taskbar(true)
+    .focused(false)
+    .user_agent(UA)
+    .build()
+    {
+        Ok(w) => w,
+        Err(e) => return (false, e.to_string()),
+    };
+    tokio::time::sleep(Duration::from_secs(4)).await;
+    let v = eval_in_win(handle, &win, &probe_script(), 25).await;
+    let _ = win.destroy();
+    match v {
+        Ok(v) if v.get("ok").and_then(|b| b.as_bool()).unwrap_or(false) => {
+            (true, "Gemini web is ready — signed in".into())
+        }
+        Ok(v) => {
+            let e = v.get("error").and_then(|e| e.as_str()).unwrap_or("unknown");
+            (false, friendly_error(e))
         }
         Err(e) => (false, e),
     }
 }
 
-/// Generate one image for the prompt via the hidden Gemini window.
+/// Generate one image by submitting a follow-up prompt in the persistent batch window.
+/// Returns a cooldown error once BATCH_SIZE images have been generated; the window
+/// reopens automatically after BATCH_COOLDOWN_SECS.
 pub async fn generate(handle: &AppHandle, prompt: &str) -> Result<Vec<u8>, String> {
+    let sess = session();
+
+    // Check (and expire) cooldown
+    {
+        let mut until = sess.cooldown_until.lock().unwrap();
+        if let Some(u) = *until {
+            let now = Instant::now();
+            if u > now {
+                let mins = u.duration_since(now).as_secs().saturating_add(59) / 60;
+                return Err(format!(
+                    "Gemini web: batch of {BATCH_SIZE} images complete — \
+                     next batch starts in ~{mins} min. \
+                     Switch to another image source in Settings → AI Visuals \
+                     to keep generating in the meantime."
+                ));
+            }
+            *until = None; // cooldown expired
+        }
+    }
+
+    if sess.busy.compare_exchange(false, true, Ordering::SeqCst, Ordering::SeqCst).is_err() {
+        return Err("Gemini web is already generating — try again shortly".into());
+    }
+    let out = generate_inner(handle, prompt, sess).await;
+    sess.busy.store(false, Ordering::SeqCst);
+    out
+}
+
+async fn generate_inner(
+    handle: &AppHandle,
+    prompt: &str,
+    sess: &GeminiSession,
+) -> Result<Vec<u8>, String> {
     let web_prompt = format!(
         "Generate a single illustrative image (no text or letters inside the image). {prompt}"
     );
-    let v = run_in_page(handle, &driver_script(&web_prompt), 115).await?;
 
+    // Ensure the persistent batch window is alive and the SPA has booted.
+    let need_new = !sess.window_ready.load(Ordering::SeqCst)
+        || handle.get_webview_window(WORKER_LABEL).is_none();
+
+    if need_new {
+        if let Some(w) = handle.get_webview_window(WORKER_LABEL) {
+            let _ = w.destroy();
+            tokio::time::sleep(Duration::from_millis(300)).await;
+        }
+        WebviewWindowBuilder::new(
+            handle,
+            WORKER_LABEL,
+            WebviewUrl::External(GEMINI_URL.parse().map_err(|e| format!("{e}"))?),
+        )
+        .title("Gemini image worker")
+        .inner_size(1180.0, 900.0)
+        .position(-32000.0, -32000.0)
+        .skip_taskbar(true)
+        .focused(false)
+        .user_agent(UA)
+        .build()
+        .map_err(|e| e.to_string())?;
+        // Wait for the SPA to fully boot (only needed on first open per batch)
+        tokio::time::sleep(Duration::from_secs(4)).await;
+        sess.window_ready.store(true, Ordering::SeqCst);
+    }
+
+    let win = match handle.get_webview_window(WORKER_LABEL) {
+        Some(w) => w,
+        None => {
+            sess.window_ready.store(false, Ordering::SeqCst);
+            return Err("Gemini web: worker window unexpectedly closed".into());
+        }
+    };
+
+    // driver_script counts images that exist BEFORE we submit the new prompt,
+    // then waits for the count to increase — this correctly identifies the new
+    // image even when previous images are visible in the conversation.
+    let v = eval_in_win(handle, &win, &driver_script(&web_prompt), 115).await;
+
+    let v = match v {
+        Err(e) => {
+            sess.window_ready.store(false, Ordering::SeqCst);
+            if let Some(w) = handle.get_webview_window(WORKER_LABEL) {
+                let _ = w.destroy();
+            }
+            return Err(e);
+        }
+        Ok(v) => v,
+    };
+
+    let result = extract_image(v).await;
+
+    match &result {
+        Ok(_) => {
+            let new_count = {
+                let mut c = sess.batch_count.lock().unwrap();
+                *c += 1;
+                *c
+            };
+            if new_count >= BATCH_SIZE {
+                // Batch complete — destroy window and impose cooldown
+                if let Some(w) = handle.get_webview_window(WORKER_LABEL) {
+                    let _ = w.destroy();
+                }
+                sess.window_ready.store(false, Ordering::SeqCst);
+                *sess.batch_count.lock().unwrap() = 0;
+                *sess.cooldown_until.lock().unwrap() =
+                    Some(Instant::now() + Duration::from_secs(BATCH_COOLDOWN_SECS));
+            }
+        }
+        Err(_) => {
+            // Don't count failures against the batch, but mark window as dead if it closed
+            if handle.get_webview_window(WORKER_LABEL).is_none() {
+                sess.window_ready.store(false, Ordering::SeqCst);
+            }
+        }
+    }
+
+    result
+}
+
+async fn extract_image(v: serde_json::Value) -> Result<Vec<u8>, String> {
     if let Some(data_url) = v.get("dataUrl").and_then(|d| d.as_str()) {
         let b64 = data_url.split(',').nth(1).unwrap_or("");
         if let Ok(bytes) = base64::engine::general_purpose::STANDARD.decode(b64) {
@@ -81,8 +282,6 @@ pub async fn generate(handle: &AppHandle, prompt: &str) -> Result<Vec<u8>, Strin
         }
     }
     if let Some(src) = v.get("src").and_then(|s| s.as_str()) {
-        // CORS blocked the in-page fetch — googleusercontent URLs are signed,
-        // so a plain GET from Rust works.
         if let Ok(res) = reqwest::get(src).await {
             if res.status().is_success() {
                 if let Ok(b) = res.bytes().await {
@@ -109,54 +308,16 @@ fn friendly_error(code: &str) -> String {
     }
 }
 
-/// Create the hidden worker window, eval `script` in it, and wait for the
-/// result via Tauri event or the document.title fallback channel.
-async fn run_in_page(
+// ── eval helper ───────────────────────────────────────────────────────────────
+
+/// Eval `script` in `win`, then wait for a result via the Tauri event bridge
+/// (primary) or the document.title fallback channel (probe/fallback).
+async fn eval_in_win(
     handle: &AppHandle,
+    win: &tauri::WebviewWindow,
     script: &str,
     timeout_secs: u64,
 ) -> Result<serde_json::Value, String> {
-    if BUSY
-        .compare_exchange(false, true, Ordering::SeqCst, Ordering::SeqCst)
-        .is_err()
-    {
-        return Err("Gemini web is already generating — try again shortly".into());
-    }
-    let out = run_in_page_inner(handle, script, timeout_secs).await;
-    BUSY.store(false, Ordering::SeqCst);
-    out
-}
-
-async fn run_in_page_inner(
-    handle: &AppHandle,
-    script: &str,
-    timeout_secs: u64,
-) -> Result<serde_json::Value, String> {
-    // Kill any orphan worker from a previous (hung) cycle.
-    if let Some(w) = handle.get_webview_window(WORKER_LABEL) {
-        let _ = w.destroy();
-        tokio::time::sleep(Duration::from_millis(300)).await;
-    }
-
-    // Off-screen but "visible" so WebView2 doesn't throttle the SPA's timers,
-    // and skip-taskbar so it never shows up anywhere the user can see.
-    let win = WebviewWindowBuilder::new(
-        handle,
-        WORKER_LABEL,
-        WebviewUrl::External(GEMINI_URL.parse().map_err(|e| format!("{e}"))?),
-    )
-    .title("Gemini image worker")
-    .inner_size(1180.0, 900.0)
-    .position(-32000.0, -32000.0)
-    .skip_taskbar(true)
-    .focused(false)
-    .user_agent(UA)
-    .build()
-    .map_err(|e| e.to_string())?;
-
-    // Let the single-page app boot before touching the DOM.
-    tokio::time::sleep(Duration::from_secs(4)).await;
-
     let (tx, mut rx) = tokio::sync::oneshot::channel::<serde_json::Value>();
     let tx = std::sync::Mutex::new(Some(tx));
     let listener = handle.listen_any("gemini-web-result", move |ev| {
@@ -170,14 +331,12 @@ async fn run_in_page_inner(
     let result = match win.eval(script) {
         Err(e) => Err(format!("Could not run the page driver: {e}")),
         Ok(()) => {
-            // Wait on the event channel, polling document.title as the
-            // fallback for when the remote page can't reach the event bridge.
             let deadline = tokio::time::Instant::now() + Duration::from_secs(timeout_secs);
             loop {
                 match tokio::time::timeout(Duration::from_secs(2), &mut rx).await {
                     Ok(Ok(v)) => break Ok(v),
                     Ok(Err(_)) => break Err("Gemini web: internal channel closed".into()),
-                    Err(_) => {} // tick — check title + deadline below
+                    Err(_) => {}
                 }
                 if let Ok(title) = win.title() {
                     if let Some(json) = title.strip_prefix(TITLE_MARK) {
@@ -196,13 +355,13 @@ async fn run_in_page_inner(
     };
 
     handle.unlisten(listener);
-    let _ = win.destroy();
     result
 }
 
-/// In-page result reporter: Tauri event bridge when available, otherwise the
-/// title channel (which only carries src/error — data URLs are too large).
-const SEND_FN: &str = r#"
+// ── in-page scripts ───────────────────────────────────────────────────────────
+
+/// Shared JS helpers included at the top of every injected script.
+const HELPERS: &str = r#"
     const send = (p) => {
       try {
         if (window.__TAURI__ && window.__TAURI__.event) {
@@ -211,7 +370,13 @@ const SEND_FN: &str = r#"
         }
       } catch (e) {}
       try {
-        const slim = { src: p.src || '', error: p.error || (p.dataUrl ? '' : 'no result') };
+        // Title fallback: preserve ok/error fields for probe results;
+        // src is enough for images (Rust fetches the URL directly).
+        const slim = {
+          src: p.src || '',
+          error: p.error || (p.dataUrl ? '' : (p.ok !== undefined ? '' : 'no result')),
+          ok: p.ok
+        };
         document.title = 'NEETPG_RESULT:' + JSON.stringify(slim);
       } catch (e) {}
     };
@@ -221,12 +386,30 @@ const SEND_FN: &str = r#"
       document.querySelector('div.ql-editor[contenteditable="true"]') ||
       document.querySelector('[contenteditable="true"][role="textbox"]') ||
       document.querySelector('textarea');
+    const goodSrc = (s) => /googleusercontent|lh3\.google|generativelanguage|blob:|data:image/i.test(s || '');
+    const badSrc  = (s) => /avatar|icon|logo|sprite|emoji/i.test(s || '');
+    const bigImg  = (img) => (img.naturalWidth || img.width || 0) > 200 && (img.naturalHeight || img.height || 0) > 200;
+    const candidates = () => {
+      const out = [];
+      const scopes = document.querySelectorAll('[class*="response"],[class*="message"],[class*="conversation"],[class*="model"]');
+      scopes.forEach(c => c.querySelectorAll('img').forEach(img => {
+        const s = img.currentSrc || img.src || '';
+        if (goodSrc(s) && !badSrc(s) && bigImg(img)) out.push(img);
+      }));
+      if (!out.length) {
+        document.querySelectorAll('img').forEach(img => {
+          const s = img.currentSrc || img.src || '';
+          if (goodSrc(s) && !badSrc(s) && bigImg(img)) out.push(img);
+        });
+      }
+      return out;
+    };
 "#;
 
 fn probe_script() -> String {
     format!(
         r#"(async () => {{
-    {SEND_FN}
+    {HELPERS}
     let editor = null;
     for (let i = 0; i < 24 && !editor; i++) {{ editor = findEditor(); if (!editor) await sleep(500); }}
     if (editor) send({{ ok: true }});
@@ -239,11 +422,25 @@ fn driver_script(prompt: &str) -> String {
     let p = serde_json::to_string(prompt).unwrap_or_else(|_| "\"\"".into());
     format!(
         r#"(async () => {{
-    {SEND_FN}
+    {HELPERS}
     try {{
+      // Snapshot how many generated images are already in this conversation
+      // so we can identify only the NEW one after we submit our prompt.
+      const beforeCount = candidates().length;
+
+      // Scroll to bottom — needed for follow-up messages in a multi-turn conversation
+      try {{
+        const conv = document.querySelector('[class*="conversation"],[class*="messages"],[class*="chat"]');
+        if (conv) conv.scrollTop = conv.scrollHeight;
+        window.scrollTo(0, document.body.scrollHeight);
+      }} catch (e) {{}}
+
       let editor = null;
       for (let i = 0; i < 40 && !editor; i++) {{ editor = findEditor(); if (!editor) await sleep(500); }}
-      if (!editor) {{ send({{ error: location.hostname.includes('accounts.google') ? 'not-signed-in' : 'no-input' }}); return; }}
+      if (!editor) {{
+        send({{ error: location.hostname.includes('accounts.google') ? 'not-signed-in' : 'no-input' }});
+        return;
+      }}
 
       editor.focus();
       if (editor.tagName === 'TEXTAREA') {{
@@ -270,33 +467,20 @@ fn driver_script(prompt: &str) -> String {
         await sleep(400);
       }}
       if (!sent) {{
-        editor.dispatchEvent(new KeyboardEvent('keydown', {{ key: 'Enter', code: 'Enter', keyCode: 13, bubbles: true }}));
+        editor.dispatchEvent(new KeyboardEvent('keydown', {{
+          key: 'Enter', code: 'Enter', keyCode: 13, bubbles: true
+        }}));
       }}
 
-      const good = (s) => /googleusercontent|lh3\.google|generativelanguage|blob:|data:image/i.test(s || '');
-      const bad = (s) => /avatar|icon|logo|sprite|emoji/i.test(s || '');
-      const big = (img) => (img.naturalWidth || img.width || 0) > 200 && (img.naturalHeight || img.height || 0) > 200;
-      const candidates = () => {{
-        const out = [];
-        const scopes = document.querySelectorAll('[class*="response"],[class*="message"],[class*="conversation"],[class*="model"]');
-        scopes.forEach(c => c.querySelectorAll('img').forEach(img => {{
-          const s = img.currentSrc || img.src || '';
-          if (good(s) && !bad(s) && big(img)) out.push(img);
-        }}));
-        if (!out.length) {{
-          document.querySelectorAll('img').forEach(img => {{
-            const s = img.currentSrc || img.src || '';
-            if (good(s) && !bad(s) && big(img)) out.push(img);
-          }});
-        }}
-        return out;
-      }};
-
+      // Wait for a NEW image to appear (image count increases beyond beforeCount)
       const deadline = Date.now() + 90000;
       let imgEl = null;
       while (Date.now() < deadline && !imgEl) {{
         const c = candidates();
-        if (c.length) {{ imgEl = c[c.length - 1]; break; }}
+        if (c.length > beforeCount) {{
+          imgEl = c[c.length - 1]; // the most recently appended image
+          break;
+        }}
         await sleep(1500);
       }}
       if (!imgEl) {{ send({{ error: 'no-image' }}); return; }}
