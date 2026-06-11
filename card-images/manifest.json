@@ -9,6 +9,16 @@
     "at": "2026-06-10T19:23:56.045Z",
     "bytes": 286341
   },
+  "physiology_Q50": {
+    "key": "6405039ae5b7191e190a5461b82e4aff",
+    "file": "physiology_Q50.png",
+    "subject": "physiology",
+    "topic": "physiology",
+    "model": "@cf/black-forest-labs/flux-1-schnell",
+    "prompt": "Medical educational infographic illustration of Physiology. Key concept: VIP. Topic: physiology — physiology. Show: neurotransmitters, peristalsis, gastrointestinal physiology. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T07:43:59.558Z",
+    "bytes": 96290
+  },
   "anatomy_Q69": {
     "key": "752eb97eddf4d232886b49e3a0cf2a93",
     "file": "anatomy_Q69.png",
