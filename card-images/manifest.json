@@ -9,15 +9,15 @@
     "at": "2026-06-11T08:26:34.371Z",
     "bytes": 89739
   },
-  "physiology_Q32": {
-    "key": "8a3cd75dee8e5bf4fa5ddb7097d5ecc7",
-    "file": "physiology_Q32.png",
-    "subject": "physiology",
-    "topic": "physiology",
-    "model": "@cf/black-forest-labs/flux-1-schnell",
-    "prompt": "Medical educational infographic illustration of Physiology. Key concept: Difficulty identifying known faces. Topic: physiology — physiology. Show: Prosopagnosia, face blindness, fusiform gyrus. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-11T09:01:23.756Z",
-    "bytes": 92367
+  "anatomy_Q69": {
+    "key": "752eb97eddf4d232886b49e3a0cf2a93",
+    "file": "anatomy_Q69.png",
+    "subject": "anatomy",
+    "topic": "anatomy",
+    "model": "@cf/black-forest-labs/flux-2-dev",
+    "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Phrenicocolic ligament. Topic: anatomy — anatomy. Show: anatomy, spleen, phrenicocolic ligament. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-10T19:28:31.172Z",
+    "bytes": 211945
   },
   "physiology_Q50": {
     "key": "6405039ae5b7191e190a5461b82e4aff",
@@ -28,6 +28,16 @@
     "prompt": "Medical educational infographic illustration of Physiology. Key concept: VIP. Topic: physiology — physiology. Show: neurotransmitters, peristalsis, gastrointestinal physiology. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
     "at": "2026-06-11T07:43:59.558Z",
     "bytes": 96290
+  },
+  "2025_Q67": {
+    "key": "4d7fce6f10b095a0c407a47cda2c97a8",
+    "file": "2025_Q67.png",
+    "subject": "general",
+    "topic": "general",
+    "model": "gemini-web",
+    "prompt": "Medical educational infographic illustration of Diazepam, as it is the immediate management for a 2-year-old…. Key concept: Diazepam. Topic: general — general. Show: febrile seizure, antiepileptic medication, emergency management. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T11:10:04.349Z",
+    "bytes": 72355
   },
   "2025_Q92": {
     "key": "da6f2d590f146b4a7353a10762fc522a",
@@ -49,14 +59,14 @@
     "at": "2026-06-10T19:23:56.045Z",
     "bytes": 286341
   },
-  "anatomy_Q69": {
-    "key": "752eb97eddf4d232886b49e3a0cf2a93",
-    "file": "anatomy_Q69.png",
-    "subject": "anatomy",
-    "topic": "anatomy",
-    "model": "@cf/black-forest-labs/flux-2-dev",
-    "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Phrenicocolic ligament. Topic: anatomy — anatomy. Show: anatomy, spleen, phrenicocolic ligament. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-10T19:28:31.172Z",
-    "bytes": 211945
+  "physiology_Q32": {
+    "key": "8a3cd75dee8e5bf4fa5ddb7097d5ecc7",
+    "file": "physiology_Q32.png",
+    "subject": "physiology",
+    "topic": "physiology",
+    "model": "@cf/black-forest-labs/flux-1-schnell",
+    "prompt": "Medical educational infographic illustration of Physiology. Key concept: Difficulty identifying known faces. Topic: physiology — physiology. Show: Prosopagnosia, face blindness, fusiform gyrus. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T09:01:23.756Z",
+    "bytes": 92367
   }
 }
