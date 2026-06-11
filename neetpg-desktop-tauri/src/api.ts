@@ -39,6 +39,7 @@ export const api: DesktopApi = {
   testGithub: () => invoke('test_github'),
   testGroq: () => invoke('test_groq'),
   testGemini: () => invoke('test_image_source'),
+  geminiWebLogin: () => invoke('gemini_web_login'),
   getIdleSeconds: () => invoke('get_idle_seconds'),
   setKeepAwake: (onAwake: boolean) => {
     invoke('set_keep_awake', { on: onAwake }).catch(() => {})

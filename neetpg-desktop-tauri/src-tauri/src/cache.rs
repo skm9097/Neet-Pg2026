@@ -8,7 +8,8 @@ use std::collections::HashMap;
 use std::fs;
 use std::path::{Path, PathBuf};
 
-const CACHE_VERSION: i64 = 2;
+// v3: fact_heading/fact_points boilerplate cleanup — forces a re-parse.
+const CACHE_VERSION: i64 = 3;
 
 #[derive(Debug, Clone, Serialize, Deserialize, Default)]
 pub struct CacheData {

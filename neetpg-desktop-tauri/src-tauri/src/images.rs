@@ -103,6 +103,9 @@ impl Images {
         if quota.date.is_empty() {
             quota.date = local_day();
         }
+        // A fresh launch re-probes the provider instead of trusting an old
+        // block — if it's still limited it re-blocks after one call.
+        quota.blocked_until = None;
         // Recalculate from the index so failed calls don't burn today's budget.
         let today = local_day();
         if quota.date == today {
@@ -191,15 +194,25 @@ impl Images {
         write_json(&self.dir.join("quota.json"), &st.quota);
     }
 
-    fn note_rate_limited(&self) {
-        let next = (Local::now() + ChronoDuration::days(1))
-            .date_naive()
-            .and_hms_opt(0, 5, 0)
-            .and_then(|t| t.and_local_timezone(Local).single())
-            .map(|t| t.to_utc().to_rfc3339())
-            .unwrap_or_else(|| {
-                (chrono::Utc::now() + ChronoDuration::hours(24)).to_rfc3339()
-            });
+    /// Daily-allowance errors park generation until just past local midnight;
+    /// transient errors (HTTP 429, "capacity temporarily exceeded") only block
+    /// for 15 minutes — they recover on their own and shouldn't cost a day.
+    fn note_rate_limited(&self, msg: &str) {
+        let lower = msg.to_lowercase();
+        let daily =
+            lower.contains("daily") || lower.contains("quota") || lower.contains("allocation");
+        let next = if daily {
+            (Local::now() + ChronoDuration::days(1))
+                .date_naive()
+                .and_hms_opt(0, 5, 0)
+                .and_then(|t| t.and_local_timezone(Local).single())
+                .map(|t| t.to_utc().to_rfc3339())
+                .unwrap_or_else(|| {
+                    (chrono::Utc::now() + ChronoDuration::hours(24)).to_rfc3339()
+                })
+        } else {
+            (chrono::Utc::now() + ChronoDuration::minutes(15)).to_rfc3339()
+        };
         let mut st = self.st.lock().unwrap();
         st.quota.blocked_until = Some(next);
         write_json(&self.dir.join("quota.json"), &st.quota);
@@ -296,6 +309,10 @@ impl Images {
                     "Cloudflare returned no image — check credentials or try Test in Settings".into()
                 }
             }
+            "gemini-web" => {
+                "Sign in to Gemini in Settings → AI Visuals, then retry from the Card Images screen"
+                    .into()
+            }
             "gemini" => {
                 if cfg.gemini_api_key.is_empty() {
                     "Add a Gemini API key in Settings (or switch the image source)".into()
@@ -314,6 +331,7 @@ impl Images {
     /// has_image() without blocking.
     pub async fn generate(
         &self,
+        handle: &tauri::AppHandle,
         http: &reqwest::Client,
         cfg: &Config,
         card: &MistakeCard,
@@ -373,6 +391,9 @@ impl Images {
                     gen_cloudflare(http, cfg, &prompt).await
                 }
             }
+            "gemini-web" => crate::gemini_web::generate(handle, &prompt)
+                .await
+                .map_err(GenError::Other),
             "pollinations" => gen_pollinations(http, &prompt).await,
             _ => {
                 if cfg.gemini_api_key.is_empty() {
@@ -383,12 +404,16 @@ impl Images {
             }
         };
 
-        // 6. Fallback to free Pollinations on hard errors.
+        // 6. Any primary failure (hard error OR rate limit) falls back to the
+        //    free Pollinations endpoint so the card still gets a visual.
         let (result, fallback_from) = match primary {
-            Err(GenError::Other(msg)) if cfg.image_provider != "pollinations" => {
+            Err(e) if cfg.image_provider != "pollinations" => {
+                let why = match &e {
+                    GenError::RateLimit(m) | GenError::Other(m) => m.clone(),
+                };
                 match gen_pollinations(http, &prompt).await {
-                    Ok(b) if b.len() >= 128 => (Ok(b), Some(msg)),
-                    _ => (Err(GenError::Other(msg)), None),
+                    Ok(b) if b.len() >= 128 => (Ok(b), Some(why)),
+                    _ => (Err(e), None),
                 }
             }
             r => (r, None),
@@ -421,11 +446,8 @@ impl Images {
                 false
             }
             Err(GenError::RateLimit(msg)) => {
-                self.note_rate_limited();
-                self.record_error(
-                    &card.id,
-                    format!("{msg} — generation resumes after the daily reset"),
-                );
+                self.note_rate_limited(&msg);
+                self.record_error(&card.id, format!("{msg} — generation paused, resumes automatically"));
                 false
             }
             Err(GenError::Other(msg)) => {
@@ -437,6 +459,7 @@ impl Images {
 
     pub async fn pregenerate(
         &self,
+        handle: &tauri::AppHandle,
         http: &reqwest::Client,
         cfg: &Config,
         cards: &[MistakeCard],
@@ -453,6 +476,7 @@ impl Images {
             return 0; // another batch is already running
         }
         let mut made = 0;
+        let mut consecutive_failures = 0;
         for card in cards {
             if made >= max {
                 break;
@@ -463,8 +487,16 @@ impl Images {
             if self.has_image(card) {
                 continue;
             }
-            if self.generate(http, cfg, card, false).await {
+            if self.generate(handle, http, cfg, card, false).await {
                 made += 1;
+                consecutive_failures = 0;
+            } else {
+                consecutive_failures += 1;
+                // A systemic failure (bad token, dead endpoint) fails every
+                // card the same way — stop the pass instead of burning calls.
+                if consecutive_failures >= 3 {
+                    break;
+                }
             }
         }
         self.batch_running.store(false, Ordering::SeqCst);
@@ -473,13 +505,14 @@ impl Images {
 
     pub async fn regenerate(
         &self,
+        handle: &tauri::AppHandle,
         http: &reqwest::Client,
         cfg: &Config,
         card: &MistakeCard,
     ) -> bool {
         let _ = fs::remove_file(self.path_for(card));
         self.clear_error(&card.id);
-        self.generate(http, cfg, card, true).await
+        self.generate(handle, http, cfg, card, true).await
     }
 
     fn record_index(&self, card: &MistakeCard, prompt: &str, from_repo: bool, provider: &str) {
@@ -673,8 +706,14 @@ impl Images {
         }
     }
 
-    pub async fn test(&self, http: &reqwest::Client, cfg: &Config) -> (bool, String) {
+    pub async fn test(
+        &self,
+        handle: &tauri::AppHandle,
+        http: &reqwest::Client,
+        cfg: &Config,
+    ) -> (bool, String) {
         match cfg.image_provider.as_str() {
+            "gemini-web" => crate::gemini_web::probe(handle).await,
             "cloudflare" => {
                 if cfg.cf_account_id.is_empty() || cfg.cf_api_token.is_empty() {
                     return (false, "Enter your Cloudflare account ID and API token".into());

@@ -104,7 +104,7 @@ export interface AppConfig {
 
   // AI visuals (per-card infographic image generation)
   enableCardImages: boolean
-  imageProvider: 'cloudflare' | 'gemini' | 'pollinations'
+  imageProvider: 'cloudflare' | 'gemini' | 'gemini-web' | 'pollinations'
   geminiApiKey: string
   geminiImageModel: string
   // Cloudflare Workers AI (default image source)
@@ -239,6 +239,7 @@ export interface DesktopApi {
   testGithub(): Promise<{ ok: boolean; message: string }>
   testGroq(): Promise<{ ok: boolean; message: string }>
   testGemini(): Promise<{ ok: boolean; message: string }>
+  geminiWebLogin(): Promise<{ ok: boolean; message: string }>
   setMode(mode: AppMode): void
   minimizeWindow(): void
   hideWindow(): void

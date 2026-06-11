@@ -55,6 +55,8 @@ pub fn parse_mistake_file(raw: &str, file_path: &str, blob_sha: &str) -> Result<
         .map(|s| s.trim().to_string())
         .filter(|s| !s.is_empty())
         .unwrap_or_else(|| subject.clone());
+    let fact_heading = derive_heading(&topic, &key_fact);
+    let fact_points = derive_bullets(&key_fact, &fact_heading);
 
     Ok(MistakeCard {
         id,
@@ -75,8 +77,8 @@ pub fn parse_mistake_file(raw: &str, file_path: &str, blob_sha: &str) -> Result<
         options,
         user_answer: extract_section(&body, "Your Answer"),
         correct_answer: extract_section(&body, "Correct Answer"),
-        fact_heading: derive_heading(&topic, &key_fact),
-        fact_points: derive_bullets(&key_fact),
+        fact_heading,
+        fact_points,
         key_fact,
         why_wrong,
         attempts: extract_attempts(&body),
@@ -192,15 +194,15 @@ pub fn derive_heading(topic: &str, key_fact: &str) -> String {
             .collect::<Vec<_>>()
             .join(" ");
     }
-    let first = first_sentence(key_fact);
+    let first = clean_fact(&first_sentence(key_fact));
     if first.is_empty() {
         "Key Fact".into()
     } else {
-        first.chars().take(70).collect()
+        truncate_words(&first, 60)
     }
 }
 
-pub fn derive_bullets(key_fact: &str) -> Vec<String> {
+pub fn derive_bullets(key_fact: &str, heading: &str) -> Vec<String> {
     if key_fact.is_empty() {
         return vec![];
     }
@@ -215,8 +217,70 @@ pub fn derive_bullets(key_fact: &str) -> Vec<String> {
             .filter(|s| s.len() > 2)
             .collect();
     }
-    parts.truncate(4);
-    parts
+    // Clean boilerplate, then drop bullets that just repeat the heading or an
+    // earlier bullet — the card should read heading + *new* information.
+    let heading_key: String = heading.to_lowercase().chars().take(40).collect();
+    let mut out: Vec<String> = Vec::new();
+    for p in parts {
+        let c = clean_fact(&p);
+        if c.chars().count() < 8 {
+            continue;
+        }
+        let key: String = c.to_lowercase().chars().take(40).collect();
+        if !heading_key.is_empty() && (key.starts_with(&heading_key) || heading_key.starts_with(&key)) {
+            continue;
+        }
+        if out.iter().any(|o: &String| {
+            let ok: String = o.to_lowercase().chars().take(40).collect();
+            ok == key
+        }) {
+            continue;
+        }
+        out.push(c);
+        if out.len() >= 4 {
+            break;
+        }
+    }
+    out
+}
+
+/// Strip "The correct answer is D) …" style boilerplate so headings and
+/// bullets lead with the actual medical fact instead of quiz mechanics.
+fn clean_fact(s: &str) -> String {
+    static BOILER_RE: OnceLock<Regex> = OnceLock::new();
+    let re = BOILER_RE.get_or_init(|| {
+        Regex::new(r"(?i)^\s*(the\s+)?(correct\s+)?answer\s+(is|was)\s*[:\-]?\s*(option\s*)?([A-Da-d][).:]\s*)?")
+            .unwrap()
+    });
+    let cleaned = re.replace(s.trim(), "").trim().to_string();
+    let mut c = cleaned.chars();
+    match c.next() {
+        Some(f) => f.to_uppercase().collect::<String>() + c.as_str(),
+        None => cleaned,
+    }
+}
+
+/// Truncate to ~max chars on a word boundary, dropping trailing punctuation.
+fn truncate_words(s: &str, max: usize) -> String {
+    let s = s.trim().trim_end_matches(['.', ',', ';']);
+    if s.chars().count() <= max {
+        return s.to_string();
+    }
+    let mut out = String::new();
+    for w in s.split_whitespace() {
+        if !out.is_empty() && out.chars().count() + w.chars().count() + 1 > max {
+            break;
+        }
+        if !out.is_empty() {
+            out.push(' ');
+        }
+        out.push_str(w);
+    }
+    if out.is_empty() {
+        s.chars().take(max).collect()
+    } else {
+        out + "…"
+    }
 }
 
 fn first_sentence(text: &str) -> String {

@@ -290,7 +290,7 @@ const styles: Record<string, CSSProperties> = {
     width: '100%',
     height: '100%',
     overflow: 'auto',
-    padding: '32px 40px',
+    padding: '32px 40px 32px 88px',
     display: 'flex',
     flexDirection: 'column',
     gap: 24

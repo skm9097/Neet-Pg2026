@@ -201,7 +201,7 @@ async fn enrich_missing(app: &App, cfg: &Config) {
             card.tags = enriched.tags;
         }
         card.fact_heading = derive_heading(&card.topic, &card.key_fact);
-        card.fact_points = derive_bullets(&card.key_fact);
+        card.fact_points = derive_bullets(&card.key_fact, &card.fact_heading);
 
         // Write the enrichment back to the repo so it reaches every device
         // and survives cache clears.

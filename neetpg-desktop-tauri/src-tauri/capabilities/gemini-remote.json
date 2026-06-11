@@ -1,0 +1,10 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "gemini-remote",
+  "description": "Lets the Gemini automation windows (sign-in + hidden worker) report generation results back to the core via the event bridge. Scoped to google.com origins and those two windows only.",
+  "windows": ["gemini-login", "gemini-worker"],
+  "remote": {
+    "urls": ["https://gemini.google.com", "https://*.google.com"]
+  },
+  "permissions": ["core:event:allow-emit", "core:event:allow-listen"]
+}

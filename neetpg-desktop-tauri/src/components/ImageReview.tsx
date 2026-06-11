@@ -271,7 +271,7 @@ function ImageCell({ entry, onChanged }: { entry: ImageReportEntry; onChanged: (
 }
 
 const styles: Record<string, CSSProperties> = {
-  container: { width: '100%', height: '100%', overflow: 'auto', padding: '32px 40px' },
+  container: { width: '100%', height: '100%', overflow: 'auto', padding: '32px 40px 32px 88px' },
   inner: { maxWidth: 1060, margin: '0 auto' },
   title: { fontSize: 28, fontWeight: 800, color: 'var(--text-primary)', margin: 0, lineHeight: 1, letterSpacing: '-0.02em' },
   subtitle: { fontSize: 14, color: 'var(--text-secondary)', marginTop: 8, marginBottom: 8 },

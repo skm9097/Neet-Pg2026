@@ -1,5 +1,6 @@
 mod cache;
 mod config;
+mod gemini_web;
 mod images;
 mod llm;
 mod md_builder;
@@ -150,7 +151,7 @@ async fn sync_now(app: S<'_>, handle: AppHandle) -> Result<SyncOutcome, String> 
             };
             if !pending.is_empty() {
                 let cfg2 = st.config.lock().unwrap().clone();
-                st.images.pregenerate(&st.http, &cfg2, &pending, 3).await;
+                st.images.pregenerate(&h, &st.http, &cfg2, &pending, 3).await;
             }
         });
     }
@@ -219,7 +220,7 @@ async fn llm_generate(app: S<'_>, gen_type: String, card_id: String) -> Result<O
 // ── Images ───────────────────────────────────────────────────────────────────
 
 #[tauri::command]
-async fn get_card_image(app: S<'_>, card_id: String) -> Result<CardImage, String> {
+async fn get_card_image(app: S<'_>, handle: AppHandle, card_id: String) -> Result<CardImage, String> {
     let cfg = app.config.lock().unwrap().clone();
     let card = app.cache.lock().await.data.cards.get(&card_id).cloned();
     let Some(card) = card else {
@@ -233,7 +234,7 @@ async fn get_card_image(app: S<'_>, card_id: String) -> Result<CardImage, String
             return Ok(CardImage { card_id, status: "ready".into(), data_url: Some(url), message: None });
         }
     }
-    if app.images.generate(&app.http, &cfg, &card, false).await {
+    if app.images.generate(&handle, &app.http, &cfg, &card, false).await {
         if let Some(url) = app.images.data_url(&card) {
             return Ok(CardImage { card_id, status: "ready".into(), data_url: Some(url), message: None });
         }
@@ -250,13 +251,13 @@ async fn get_image_report(app: S<'_>) -> Result<ImageReport, String> {
 }
 
 #[tauri::command]
-async fn regenerate_image(app: S<'_>, card_id: String) -> Result<CardImage, String> {
+async fn regenerate_image(app: S<'_>, handle: AppHandle, card_id: String) -> Result<CardImage, String> {
     let cfg = app.config.lock().unwrap().clone();
     let card = app.cache.lock().await.data.cards.get(&card_id).cloned();
     let Some(card) = card else {
         return Ok(CardImage { card_id, status: "error".into(), data_url: None, message: Some("Card not found".into()) });
     };
-    if app.images.regenerate(&app.http, &cfg, &card).await {
+    if app.images.regenerate(&handle, &app.http, &cfg, &card).await {
         if let Some(url) = app.images.data_url(&card) {
             return Ok(CardImage { card_id, status: "ready".into(), data_url: Some(url), message: None });
         }
@@ -273,7 +274,7 @@ struct BatchOutcome {
 }
 
 #[tauri::command]
-async fn generate_images_now(app: S<'_>) -> Result<BatchOutcome, String> {
+async fn generate_images_now(app: S<'_>, handle: AppHandle) -> Result<BatchOutcome, String> {
     let cfg = app.config.lock().unwrap().clone();
     let pending: Vec<MistakeCard> = {
         let cache = app.cache.lock().await;
@@ -290,7 +291,7 @@ async fn generate_images_now(app: S<'_>) -> Result<BatchOutcome, String> {
     if remaining == 0 {
         return Ok(BatchOutcome { made: 0, message: "Daily budget used — resumes tomorrow".into() });
     }
-    let made = app.images.pregenerate(&app.http, &cfg, &pending, remaining).await;
+    let made = app.images.pregenerate(&handle, &app.http, &cfg, &pending, remaining).await;
     Ok(BatchOutcome {
         made,
         message: if made > 0 {
@@ -318,10 +319,18 @@ async fn test_groq(app: S<'_>) -> Result<TestResult, String> {
 }
 
 #[tauri::command]
-async fn test_image_source(app: S<'_>) -> Result<TestResult, String> {
+async fn test_image_source(app: S<'_>, handle: AppHandle) -> Result<TestResult, String> {
     let cfg = app.config.lock().unwrap().clone();
-    let (ok, message) = app.images.test(&app.http, &cfg).await;
+    let (ok, message) = app.images.test(&handle, &app.http, &cfg).await;
     Ok(TestResult { ok, message })
+}
+
+#[tauri::command]
+fn gemini_web_login(handle: AppHandle) -> Result<TestResult, String> {
+    match gemini_web::sign_in(&handle) {
+        Ok(m) => Ok(TestResult { ok: true, message: m }),
+        Err(e) => Ok(TestResult { ok: false, message: e }),
+    }
 }
 
 // ── Platform ─────────────────────────────────────────────────────────────────
@@ -449,6 +458,7 @@ pub fn run() {
             test_github,
             test_groq,
             test_image_source,
+            gemini_web_login,
             get_idle_seconds,
             set_keep_awake
         ])

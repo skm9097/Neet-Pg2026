@@ -17,6 +17,7 @@ export function Settings({
   const [ghResult, setGhResult] = useState<{ ok: boolean; message: string } | null>(null)
   const [groqResult, setGroqResult] = useState<{ ok: boolean; message: string } | null>(null)
   const [geminiResult, setGeminiResult] = useState<{ ok: boolean; message: string } | null>(null)
+  const [gwResult, setGwResult] = useState<{ ok: boolean; message: string } | null>(null)
   const [testing, setTesting] = useState<'gh' | 'groq' | 'gemini' | null>(null)
 
   // Keep local state in sync if the config changes externally.
@@ -112,6 +113,7 @@ export function Settings({
             <SegmentedControl
               options={[
                 { value: 'cloudflare', label: 'Cloudflare' },
+                { value: 'gemini-web', label: 'Gemini web' },
                 { value: 'gemini', label: 'Gemini key' },
                 { value: 'pollinations', label: 'Free' }
               ]}
@@ -119,6 +121,33 @@ export function Settings({
               onChange={(v) => update('imageProvider', v as AppConfig['imageProvider'])}
             />
           </Field>
+
+          {local.imageProvider === 'gemini-web' && (
+            <>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 14, flexWrap: 'wrap' }}>
+                <Button
+                  variant="tinted"
+                  onClick={() => {
+                    window.api.geminiWebLogin().then((r) => setGwResult(r))
+                  }}
+                >
+                  Sign in to Gemini
+                </Button>
+                {gwResult && (
+                  <span style={{ fontSize: 13, color: gwResult.ok ? 'var(--correct)' : 'var(--wrong)', fontWeight: 500 }}>
+                    {gwResult.message}
+                  </span>
+                )}
+              </div>
+              <div style={styles.hint}>
+                Uses the Gemini <b>website</b> with your own Google account — no API key and no Cloudflare quota.
+                Sign in once in the window that opens, then close it. Images are generated invisibly in the
+                background, cached on disk, and pushed to <b>card-images/</b> in your repo like every other source.
+                Best-effort: if Google changes the page layout, generation falls back to the free source
+                automatically. Use <b>Test image source</b> below to check the sign-in.
+              </div>
+            </>
+          )}
 
           {local.imageProvider === 'cloudflare' && (
             <>
