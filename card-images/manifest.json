@@ -1,24 +1,4 @@
 {
-  "2025_Q67": {
-    "key": "4d7fce6f10b095a0c407a47cda2c97a8",
-    "file": "2025_Q67.png",
-    "subject": "general",
-    "topic": "general",
-    "model": "gemini-web",
-    "prompt": "Medical educational infographic illustration of Diazepam, as it is the immediate management for a 2-year-old…. Key concept: Diazepam. Topic: general — general. Show: febrile seizure, antiepileptic medication, emergency management. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-11T11:10:04.349Z",
-    "bytes": 72355
-  },
-  "anatomy_Q28": {
-    "key": "f2cd8838af9f8a0b4330f31b378b12b5",
-    "file": "anatomy_Q28.png",
-    "subject": "anatomy",
-    "topic": "anatomy",
-    "model": "@cf/black-forest-labs/flux-2-dev",
-    "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Iliopsoas. Topic: anatomy — anatomy. Show: hip flexors, Iliopsoas, anatomy. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-10T19:23:56.045Z",
-    "bytes": 286341
-  },
   "biochemistry_Q4": {
     "key": "0e2d917b8ceef81aabef6d8fcad9d29b",
     "file": "biochemistry_Q4.png",
@@ -28,6 +8,16 @@
     "prompt": "Medical educational infographic illustration of Biochemistry. Key concept: RNA editing. Topic: biochemistry — biochemistry. Show: ApoB-48, ApoB-100, RNA editing, biochemistry. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
     "at": "2026-06-11T20:02:16.394Z",
     "bytes": 230732
+  },
+  "2025_Q58": {
+    "key": "447636d98bc08db25eb544fad884f676",
+    "file": "2025_Q58.png",
+    "subject": "general",
+    "topic": "general",
+    "model": "@cf/black-forest-labs/flux-1-schnell",
+    "prompt": "Medical educational infographic illustration of The presence of bruises below the right jaw angle with…. Key concept: Throttling. Topic: general — general. Show: throttling, strangulation, forensic medicine. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T08:26:34.371Z",
+    "bytes": 89739
   },
   "biochemistry_Q9": {
     "key": "20854726afd9fb6d10d241e890ca011d",
@@ -49,25 +39,35 @@
     "at": "2026-06-10T19:26:42.857Z",
     "bytes": 386714
   },
-  "biochemistry_Q19": {
-    "key": "8543bcc9c4fb43e4ccb3c7e18cd47fe2",
-    "file": "biochemistry_Q19.png",
+  "anatomy_Q69": {
+    "key": "752eb97eddf4d232886b49e3a0cf2a93",
+    "file": "anatomy_Q69.png",
+    "subject": "anatomy",
+    "topic": "anatomy",
+    "model": "@cf/black-forest-labs/flux-2-dev",
+    "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Phrenicocolic ligament. Topic: anatomy — anatomy. Show: anatomy, spleen, phrenicocolic ligament. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-10T19:28:31.172Z",
+    "bytes": 211945
+  },
+  "biochemistry_Q17": {
+    "key": "e735c7fda15a7dd3d93f6c210ae1c067",
+    "file": "biochemistry_Q17.png",
     "subject": "biochemistry",
     "topic": "biochemistry",
     "model": "@cf/black-forest-labs/flux-1-schnell",
-    "prompt": "Medical educational infographic illustration of Biochemistry. Key concept: Very long chain fatty acids (VLCFA). Topic: biochemistry — biochemistry. Show: Zellweger syndrome, VLCFA, peroxisomal disorders. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-11T20:02:30.625Z",
-    "bytes": 296382
+    "prompt": "Medical educational infographic illustration of Biochemistry. Key concept: Ornithine transcarbamoylase (OTC). Topic: biochemistry — biochemistry. Show: urea cycle, OTC deficiency, glutamine metabolism. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T20:02:54.161Z",
+    "bytes": 279623
   },
-  "physiology_Q50": {
-    "key": "6405039ae5b7191e190a5461b82e4aff",
-    "file": "physiology_Q50.png",
-    "subject": "physiology",
-    "topic": "physiology",
-    "model": "@cf/black-forest-labs/flux-1-schnell",
-    "prompt": "Medical educational infographic illustration of Physiology. Key concept: VIP. Topic: physiology — physiology. Show: neurotransmitters, peristalsis, gastrointestinal physiology. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-11T07:43:59.558Z",
-    "bytes": 96290
+  "anatomy_Q28": {
+    "key": "f2cd8838af9f8a0b4330f31b378b12b5",
+    "file": "anatomy_Q28.png",
+    "subject": "anatomy",
+    "topic": "anatomy",
+    "model": "@cf/black-forest-labs/flux-2-dev",
+    "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Iliopsoas. Topic: anatomy — anatomy. Show: hip flexors, Iliopsoas, anatomy. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-10T19:23:56.045Z",
+    "bytes": 286341
   },
   "physiology_Q32": {
     "key": "8a3cd75dee8e5bf4fa5ddb7097d5ecc7",
@@ -79,35 +79,25 @@
     "at": "2026-06-11T09:01:23.756Z",
     "bytes": 92367
   },
-  "anatomy_Q69": {
-    "key": "752eb97eddf4d232886b49e3a0cf2a93",
-    "file": "anatomy_Q69.png",
-    "subject": "anatomy",
-    "topic": "anatomy",
-    "model": "@cf/black-forest-labs/flux-2-dev",
-    "prompt": "Medical educational infographic illustration of Anatomy. Key concept: Phrenicocolic ligament. Topic: anatomy — anatomy. Show: anatomy, spleen, phrenicocolic ligament. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-10T19:28:31.172Z",
-    "bytes": 211945
+  "biochemistry_Q19": {
+    "key": "8543bcc9c4fb43e4ccb3c7e18cd47fe2",
+    "file": "biochemistry_Q19.png",
+    "subject": "biochemistry",
+    "topic": "biochemistry",
+    "model": "@cf/black-forest-labs/flux-1-schnell",
+    "prompt": "Medical educational infographic illustration of Biochemistry. Key concept: Very long chain fatty acids (VLCFA). Topic: biochemistry — biochemistry. Show: Zellweger syndrome, VLCFA, peroxisomal disorders. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T20:02:30.625Z",
+    "bytes": 296382
   },
-  "2025_Q58": {
-    "key": "447636d98bc08db25eb544fad884f676",
-    "file": "2025_Q58.png",
+  "2025_Q67": {
+    "key": "4d7fce6f10b095a0c407a47cda2c97a8",
+    "file": "2025_Q67.png",
     "subject": "general",
     "topic": "general",
-    "model": "@cf/black-forest-labs/flux-1-schnell",
-    "prompt": "Medical educational infographic illustration of The presence of bruises below the right jaw angle with…. Key concept: Throttling. Topic: general — general. Show: throttling, strangulation, forensic medicine. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-11T08:26:34.371Z",
-    "bytes": 89739
-  },
-  "2023_Q1": {
-    "key": "42fe424d5a5a096476574dd88cf343af",
-    "file": "2023_Q1.png",
-    "subject": "general",
-    "topic": "general",
-    "model": "@cf/black-forest-labs/flux-1-schnell",
-    "prompt": "Medical educational infographic illustration of Dengue is the most likely diagnosis due to the combination…. Key concept: Dengue. Topic: general — general. Show: Dengue, Thrombocytopenia, Hemorrhagic Fever. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
-    "at": "2026-06-11T20:01:53.688Z",
-    "bytes": 311917
+    "model": "gemini-web",
+    "prompt": "Medical educational infographic illustration of Diazepam, as it is the immediate management for a 2-year-old…. Key concept: Diazepam. Topic: general — general. Show: febrile seizure, antiepileptic medication, emergency management. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T11:10:04.349Z",
+    "bytes": 72355
   },
   "biochemistry_Q10": {
     "key": "269b3441caad1abc6bd8847062dbe12f",
@@ -118,5 +108,25 @@
     "prompt": "Medical educational infographic illustration of Biochemistry. Key concept: Hepatic glycogenolysis. Topic: biochemistry — biochemistry. Show: glucose metabolism, hepatic glycogenolysis, blood glucose regulation. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
     "at": "2026-06-11T20:02:47.636Z",
     "bytes": 194578
+  },
+  "physiology_Q50": {
+    "key": "6405039ae5b7191e190a5461b82e4aff",
+    "file": "physiology_Q50.png",
+    "subject": "physiology",
+    "topic": "physiology",
+    "model": "@cf/black-forest-labs/flux-1-schnell",
+    "prompt": "Medical educational infographic illustration of Physiology. Key concept: VIP. Topic: physiology — physiology. Show: neurotransmitters, peristalsis, gastrointestinal physiology. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T07:43:59.558Z",
+    "bytes": 96290
+  },
+  "2023_Q1": {
+    "key": "42fe424d5a5a096476574dd88cf343af",
+    "file": "2023_Q1.png",
+    "subject": "general",
+    "topic": "general",
+    "model": "@cf/black-forest-labs/flux-1-schnell",
+    "prompt": "Medical educational infographic illustration of Dengue is the most likely diagnosis due to the combination…. Key concept: Dengue. Topic: general — general. Show: Dengue, Thrombocytopenia, Hemorrhagic Fever. Clean labelled anatomical / clinical diagram, flat vector style, clear shapes and arrows, muted palette on a dark navy background, soft teal and slate accents, centred composition, high clarity, textbook quality. No words, no letters, no captions, no watermark, no real patient photographs.",
+    "at": "2026-06-11T20:01:53.688Z",
+    "bytes": 311917
   }
 }
