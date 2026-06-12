@@ -212,7 +212,7 @@ async fn generate_inner(
         )
         .title("Gemini image worker")
         .inner_size(1180.0, 900.0)
-        .visible(false)
+        .position(-32000.0, -32000.0)
         .skip_taskbar(true)
         .focused(false)
         .user_agent(UA)

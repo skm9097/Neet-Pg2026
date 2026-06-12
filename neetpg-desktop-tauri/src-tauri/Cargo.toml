@@ -1,6 +1,6 @@
 [package]
 name = "neetpg-desktop"
-version = "2.1.2"
+version = "2.1.3"
 description = "NEET PG Desktop Study Companion — Tauri edition"
 authors = ["skm9097"]
 license = "MIT"
