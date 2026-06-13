@@ -1,0 +1,90 @@
+name: Build Android APK
+
+# Builds a release APK for the neet-study-suite Flutter app.
+#
+# Triggers:
+#   - push to the dev / main branches that touches the app source
+#   - any tag like v1.6.0  → also publishes a GitHub Release with the APK attached
+#   - manual run from the Actions tab (workflow_dispatch)
+#
+# The release build signs with the debug keystore (see android/app/build.gradle.kts),
+# so the APK is installable by sideloading — fine for personal use. Swap in a real
+# keystore + secrets later if you ever want a Play-Store-signed build.
+
+on:
+  push:
+    branches:
+      - main
+      - claude/add-claude-documentation-1xfan
+    paths:
+      - 'neet-study-suite/**'
+      - '.github/workflows/android-build.yml'
+    tags:
+      - 'v*'
+  workflow_dispatch:
+
+# Needed so the release job can create/upload a GitHub Release on tag pushes.
+permissions:
+  contents: write
+
+# Cancel an in-flight run if a newer commit lands on the same ref.
+concurrency:
+  group: android-build-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  FLUTTER_VERSION: '3.29.0'   # >= 3.27 required for Color.withValues()
+  APP_DIR: neet-study-suite
+
+jobs:
+  build:
+    name: Analyze & build release APK
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: stable
+          cache: true
+
+      - name: Install dependencies
+        working-directory: ${{ env.APP_DIR }}
+        run: flutter pub get
+
+      # Reports analyzer findings in the log. Does not block the build so an
+      # installable APK is always produced when the code actually compiles —
+      # the `flutter build` step below is the hard gate on real compile errors.
+      - name: Analyze
+        working-directory: ${{ env.APP_DIR }}
+        continue-on-error: true
+        run: flutter analyze
+
+      - name: Build release APK
+        working-directory: ${{ env.APP_DIR }}
+        run: flutter build apk --release
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: neet-study-suite-release-apk
+          path: ${{ env.APP_DIR }}/build/app/outputs/flutter-apk/app-release.apk
+          if-no-files-found: error
+          retention-days: 30
+
+      # On a version tag (v*), publish a GitHub Release with the APK attached.
+      - name: Publish GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: ${{ env.APP_DIR }}/build/app/outputs/flutter-apk/app-release.apk
+          generate_release_notes: true
