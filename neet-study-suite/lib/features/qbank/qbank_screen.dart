@@ -67,48 +67,65 @@ class _QBankScreenState extends State<QBankScreen>
   }
 
   Widget _buildHeader() {
-    return Container(
-      color: AppTheme.primary,
-      child: SafeArea(
-        bottom: false,
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Padding(
-              padding: const EdgeInsets.fromLTRB(16, 12, 16, 0),
-              child: Row(children: [
-                TapScale(
-                  onTap: () => Navigator.pop(context),
-                  child: Container(
-                    padding: const EdgeInsets.all(8),
-                    decoration: BoxDecoration(
-                      color: Colors.white.withValues(alpha: 0.18),
-                      borderRadius: BorderRadius.circular(12)),
-                    child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
+    return ClipRRect(
+      borderRadius: const BorderRadius.vertical(bottom: Radius.circular(AppTheme.rXl)),
+      child: Container(
+        decoration: const BoxDecoration(gradient: AppTheme.qbankGradient),
+        child: SafeArea(
+          bottom: false,
+          child: Stack(
+            children: [
+              Positioned(top: -24, right: -24, child: _blob(100, 0.14)),
+              Positioned(bottom: -36, left: -18, child: _blob(120, 0.10)),
+              Positioned(top: 20, left: 80, child: _blob(32, 0.07)),
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Padding(
+                    padding: const EdgeInsets.fromLTRB(16, 12, 16, 0),
+                    child: Row(children: [
+                      TapScale(
+                        onTap: () => Navigator.pop(context),
+                        child: Container(
+                          padding: const EdgeInsets.all(8),
+                          decoration: BoxDecoration(
+                            color: Colors.white.withValues(alpha: 0.18),
+                            borderRadius: BorderRadius.circular(12)),
+                          child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
+                        ),
+                      ),
+                      const SizedBox(width: 14),
+                      const Text('Question Bank', style: TextStyle(
+                        color: Colors.white, fontSize: 20, fontWeight: FontWeight.w800,
+                        letterSpacing: -0.4)),
+                    ]),
                   ),
-                ),
-                const SizedBox(width: 14),
-                const Text('Question Bank', style: TextStyle(
-                  color: Colors.white, fontSize: 20, fontWeight: FontWeight.w800,
-                  letterSpacing: -0.4)),
-              ]),
-            ),
-            Padding(
-              padding: const EdgeInsets.fromLTRB(20, 8, 20, 0),
-              child: Text('Choose how you want to practise',
-                style: TextStyle(color: Colors.white.withValues(alpha: 0.82), fontSize: 13)),
-            ),
-            const SizedBox(height: 14),
-            Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16),
-              child: _buildTabSelector(),
-            ),
-            const SizedBox(height: 16),
-          ],
+                  Padding(
+                    padding: const EdgeInsets.fromLTRB(20, 8, 20, 0),
+                    child: Text('Choose how you want to practise',
+                      style: TextStyle(color: Colors.white.withValues(alpha: 0.82), fontSize: 13)),
+                  ),
+                  const SizedBox(height: 14),
+                  Padding(
+                    padding: const EdgeInsets.symmetric(horizontal: 16),
+                    child: _buildTabSelector(),
+                  ),
+                  const SizedBox(height: 16),
+                ],
+              ),
+            ],
+          ),
         ),
       ),
     );
   }
+
+  Widget _blob(double size, double opacity) => Container(
+    width: size, height: size,
+    decoration: BoxDecoration(
+      shape: BoxShape.circle,
+      color: Colors.white.withValues(alpha: opacity)),
+  );
 
   Widget _buildTabSelector() {
     const labels = ['By Year', 'By Subject', 'Mixed'];

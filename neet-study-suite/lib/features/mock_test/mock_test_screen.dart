@@ -1,3 +1,4 @@
+import 'dart:math' as math;
 import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
 import '../../models/question.dart';
@@ -172,34 +173,36 @@ class _MockTestScreenState extends State<MockTestScreen>
     required String tag, required LinearGradient gradient, required Color color,
     required VoidCallback onTap,
   }) {
-    return SoftCard(
-      onTap: onTap,
-      padding: const EdgeInsets.all(18),
-      child: Row(children: [
-        Container(
-          padding: const EdgeInsets.all(14),
-          decoration: BoxDecoration(
-            gradient: gradient, borderRadius: BorderRadius.circular(18),
-            boxShadow: AppTheme.coloredShadow(color)),
-          child: Icon(icon, color: Colors.white, size: 26),
-        ),
-        const SizedBox(width: 16),
-        Expanded(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Row(children: [
-                Text(title, style: TextStyle(fontSize: 16.5, fontWeight: FontWeight.w800, color: AppTheme.ink)),
-                const SizedBox(width: 8),
-                SoftChip(label: tag, color: color),
-              ]),
-              const SizedBox(height: 4),
-              Text(subtitle, style: TextStyle(color: AppTheme.inkSoft, fontSize: 13)),
-            ],
+    return _SweepBeam(
+      child: SoftCard(
+        onTap: onTap,
+        padding: const EdgeInsets.all(18),
+        child: Row(children: [
+          Container(
+            padding: const EdgeInsets.all(14),
+            decoration: BoxDecoration(
+              gradient: gradient, borderRadius: BorderRadius.circular(18),
+              boxShadow: AppTheme.coloredShadow(color)),
+            child: Icon(icon, color: Colors.white, size: 26),
           ),
-        ),
-        Icon(Icons.arrow_forward_ios_rounded, size: 15, color: AppTheme.inkFaint),
-      ]),
+          const SizedBox(width: 16),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(children: [
+                  Text(title, style: TextStyle(fontSize: 16.5, fontWeight: FontWeight.w800, color: AppTheme.ink)),
+                  const SizedBox(width: 8),
+                  SoftChip(label: tag, color: color),
+                ]),
+                const SizedBox(height: 4),
+                Text(subtitle, style: TextStyle(color: AppTheme.inkSoft, fontSize: 13)),
+              ],
+            ),
+          ),
+          Icon(Icons.arrow_forward_ios_rounded, size: 15, color: AppTheme.inkFaint),
+        ]),
+      ),
     );
   }
 
@@ -705,13 +708,22 @@ class _MockResultScreen extends StatelessWidget {
                   fontSize: 20, fontWeight: FontWeight.w800, color: AppTheme.ink)),
               ]),
               const SizedBox(height: 20),
-              FadeSlideIn(child: SoftCard(
+              FadeSlideIn(child: _SweepBeam(
+                period: const Duration(seconds: 5),
+                child: SoftCard(
                 gradient: AppTheme.mockGradient,
                 shadow: AppTheme.coloredShadow(AppTheme.secondary),
                 padding: const EdgeInsets.all(26),
                 child: Column(children: [
-                  Text('$_neetScore', style: const TextStyle(
-                    color: Colors.white, fontSize: 48, fontWeight: FontWeight.w800, letterSpacing: -1)),
+                  TweenAnimationBuilder<double>(
+                    tween: Tween(begin: 0.0, end: _neetScore.toDouble()),
+                    duration: const Duration(milliseconds: 1600),
+                    curve: Curves.easeOutCubic,
+                    builder: (_, val, __) => Text(
+                      val >= 0 ? '+${val.round()}' : '${val.round()}',
+                      style: const TextStyle(
+                        color: Colors.white, fontSize: 52, fontWeight: FontWeight.w800, letterSpacing: -1)),
+                  ),
                   Text('out of $_maxScore  ·  NEET Score', style: TextStyle(
                     color: Colors.white.withValues(alpha: 0.9))),
                   const SizedBox(height: 20),
@@ -734,7 +746,7 @@ class _MockResultScreen extends StatelessWidget {
                     ]),
                   ),
                 ]),
-              )),
+              ))),
               const SizedBox(height: 18),
               FadeSlideIn(index: 1, child: _buildSubjectBreakdown()),
               const SizedBox(height: 24),
@@ -805,4 +817,73 @@ class _MockResultScreen extends StatelessWidget {
       ),
     );
   }
+}
+
+// ── Periodic diagonal shimmer sweep overlay ──────────────────────────────────
+
+class _SweepBeam extends StatefulWidget {
+  final Widget child;
+  final Duration period;
+  const _SweepBeam({required this.child, this.period = const Duration(seconds: 4)});
+
+  @override
+  State<_SweepBeam> createState() => _SweepBeamState();
+}
+
+class _SweepBeamState extends State<_SweepBeam> with SingleTickerProviderStateMixin {
+  late final AnimationController _ctrl;
+
+  @override
+  void initState() {
+    super.initState();
+    _ctrl = AnimationController(vsync: this, duration: widget.period)..repeat();
+  }
+
+  @override
+  void dispose() { _ctrl.dispose(); super.dispose(); }
+
+  @override
+  Widget build(BuildContext context) {
+    return ClipRRect(
+      borderRadius: BorderRadius.circular(AppTheme.rLg),
+      child: AnimatedBuilder(
+        animation: _ctrl,
+        builder: (_, child) => CustomPaint(
+          foregroundPainter: _BeamPainter(_ctrl.value),
+          child: child,
+        ),
+        child: widget.child,
+      ),
+    );
+  }
+}
+
+class _BeamPainter extends CustomPainter {
+  final double t;
+  _BeamPainter(this.t);
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    if (t > 0.60) return;
+    final progress = (t / 0.60).clamp(0.0, 1.0);
+    final x = -size.width * 0.15 + progress * (size.width * 1.3);
+    const halfW = 45.0;
+    final rect = Rect.fromLTWH(x - halfW, 0, halfW * 2, size.height);
+    final shader = const LinearGradient(
+      colors: [Colors.transparent, Color(0x18FFFFFF), Color(0x22FFFFFF), Color(0x18FFFFFF), Colors.transparent],
+      stops: [0.0, 0.25, 0.5, 0.75, 1.0],
+    ).createShader(rect);
+
+    final path = Path()
+      ..moveTo(x - halfW - 18, 0)
+      ..lineTo(x + halfW - 18, 0)
+      ..lineTo(x + halfW + 18, size.height)
+      ..lineTo(x - halfW + 18, size.height)
+      ..close();
+
+    canvas.drawPath(path, Paint()..shader = shader);
+  }
+
+  @override
+  bool shouldRepaint(covariant _BeamPainter old) => old.t != t;
 }

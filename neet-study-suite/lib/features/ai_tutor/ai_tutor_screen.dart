@@ -74,70 +74,92 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppTheme.surface,
-      body: SafeArea(
-        child: Column(
-          children: [
-            _buildHeader(),
-            Expanded(child: _messages.isEmpty ? _buildEmptyState() : _buildChatList()),
-            _buildInputArea(),
-          ],
-        ),
+      body: Column(
+        children: [
+          _buildHeader(),
+          Expanded(child: _messages.isEmpty ? _buildEmptyState() : _buildChatList()),
+          _buildInputArea(),
+        ],
       ),
     );
   }
 
   Widget _buildHeader() {
-    return Container(
-      padding: const EdgeInsets.fromLTRB(16, 10, 16, 14),
-      decoration: BoxDecoration(
-        color: AppTheme.cardBg,
-        border: Border(bottom: BorderSide(color: AppTheme.line)),
+    return ClipRRect(
+      borderRadius: const BorderRadius.vertical(bottom: Radius.circular(AppTheme.rXl)),
+      child: Container(
+        decoration: const BoxDecoration(gradient: AppTheme.tutorGradient),
+        child: SafeArea(
+          bottom: false,
+          child: Stack(
+            children: [
+              // decorative blobs
+              Positioned(top: -18, right: -18, child: _headerBlob(90, 0.15)),
+              Positioned(bottom: -30, left: -20, child: _headerBlob(110, 0.10)),
+              Positioned(top: 18, left: 60, child: _headerBlob(28, 0.08)),
+              Padding(
+                padding: const EdgeInsets.fromLTRB(16, 12, 16, 18),
+                child: Row(children: [
+                  TapScale(
+                    onTap: () => Navigator.pop(context),
+                    child: Container(
+                      padding: const EdgeInsets.all(8),
+                      decoration: BoxDecoration(
+                        color: Colors.white.withValues(alpha: 0.18),
+                        borderRadius: BorderRadius.circular(12)),
+                      child: const Icon(Icons.arrow_back_rounded, size: 20, color: Colors.white),
+                    ),
+                  ),
+                  const SizedBox(width: 12),
+                  Container(
+                    padding: const EdgeInsets.all(9),
+                    decoration: BoxDecoration(
+                      color: Colors.white.withValues(alpha: 0.22),
+                      borderRadius: BorderRadius.circular(13),
+                      boxShadow: [BoxShadow(
+                        color: Colors.white.withValues(alpha: 0.15),
+                        blurRadius: 12, spreadRadius: 2)],
+                    ),
+                    child: const Icon(Icons.auto_awesome_rounded, color: Colors.white, size: 18),
+                  ),
+                  const SizedBox(width: 12),
+                  const Expanded(
+                    child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                      Text('AI Tutor', style: TextStyle(
+                        fontSize: 17, fontWeight: FontWeight.w800, color: Colors.white)),
+                      Text('Your personal study buddy', style: TextStyle(
+                        fontSize: 12, color: Colors.white70)),
+                    ]),
+                  ),
+                  _headerBtn(widget.tts.isEnabled ? Icons.volume_up_rounded : Icons.volume_off_rounded,
+                    () async { await widget.tts.toggle(); setState(() {}); }),
+                  if (_messages.isNotEmpty) ...[
+                    const SizedBox(width: 8),
+                    _headerBtn(Icons.delete_outline_rounded, () => setState(() => _messages.clear())),
+                  ],
+                ]),
+              ),
+            ],
+          ),
+        ),
       ),
-      child: Row(children: [
-        TapScale(
-          onTap: () => Navigator.pop(context),
-          child: Container(
-            padding: const EdgeInsets.all(8),
-            decoration: BoxDecoration(
-              color: AppTheme.greenTint, borderRadius: BorderRadius.circular(12)),
-            child: Icon(Icons.arrow_back_rounded, size: 20, color: AppTheme.primary),
-          ),
-        ),
-        const SizedBox(width: 12),
-        Container(
-          padding: const EdgeInsets.all(9),
-          decoration: BoxDecoration(
-            color: AppTheme.primary,
-            borderRadius: BorderRadius.circular(13),
-            boxShadow: AppTheme.coloredShadow(AppTheme.primary),
-          ),
-          child: const Icon(Icons.auto_awesome_rounded, color: Colors.white, size: 18),
-        ),
-        const SizedBox(width: 12),
-        Expanded(
-          child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-            Text('AI Tutor', style: TextStyle(
-              fontSize: 17, fontWeight: FontWeight.w800, color: AppTheme.ink)),
-            Text('Your personal study buddy', style: TextStyle(
-              fontSize: 12, color: AppTheme.inkFaint)),
-          ]),
-        ),
-        _headerBtn(widget.tts.isEnabled ? Icons.volume_up_rounded : Icons.volume_off_rounded,
-          () async { await widget.tts.toggle(); setState(() {}); }),
-        if (_messages.isNotEmpty) ...[
-          const SizedBox(width: 8),
-          _headerBtn(Icons.delete_outline_rounded, () => setState(() => _messages.clear())),
-        ],
-      ]),
     );
   }
+
+  Widget _headerBlob(double size, double opacity) => Container(
+    width: size, height: size,
+    decoration: BoxDecoration(shape: BoxShape.circle,
+      color: Colors.white.withValues(alpha: opacity)),
+  );
 
   Widget _headerBtn(IconData icon, VoidCallback onTap) => TapScale(
     onTap: onTap,
     child: Container(
       padding: const EdgeInsets.all(9),
-      decoration: BoxDecoration(color: AppTheme.greenTint, borderRadius: BorderRadius.circular(12)),
-      child: Icon(icon, size: 18, color: AppTheme.inkFaint),
+      decoration: BoxDecoration(
+        color: Colors.white.withValues(alpha: 0.18),
+        borderRadius: BorderRadius.circular(12)),
+      child: Icon(icon, size: 18, color: Colors.white),
     ),
   );
 
@@ -146,15 +168,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
       padding: const EdgeInsets.fromLTRB(20, 20, 20, 20),
       children: [
         const SizedBox(height: 16),
-        Center(
-          child: Container(
-            width: 86, height: 86,
-            decoration: BoxDecoration(
-              color: AppTheme.primary, shape: BoxShape.circle,
-              boxShadow: AppTheme.coloredShadow(AppTheme.primary)),
-            child: const Icon(Icons.auto_awesome_rounded, color: Colors.white, size: 38),
-          ),
-        ),
+        const Center(child: _PulsingAiOrb()),
         const SizedBox(height: 18),
         Text('Hi! I\'m your AI Tutor', textAlign: TextAlign.center,
           style: TextStyle(fontSize: 19, fontWeight: FontWeight.w800,
@@ -419,6 +433,75 @@ class _MarkdownResponse extends StatelessWidget {
   }
 }
 
+// ─── Pulsing AI orb for empty state ───────────────────────────────────────────
+
+class _PulsingAiOrb extends StatefulWidget {
+  const _PulsingAiOrb();
+  @override
+  State<_PulsingAiOrb> createState() => _PulsingAiOrbState();
+}
+
+class _PulsingAiOrbState extends State<_PulsingAiOrb>
+    with SingleTickerProviderStateMixin {
+  late final AnimationController _ctrl;
+  late final Animation<double> _pulse;
+
+  @override
+  void initState() {
+    super.initState();
+    _ctrl = AnimationController(vsync: this, duration: const Duration(milliseconds: 2200))
+      ..repeat(reverse: true);
+    _pulse = CurvedAnimation(parent: _ctrl, curve: Curves.easeInOut);
+  }
+
+  @override
+  void dispose() { _ctrl.dispose(); super.dispose(); }
+
+  @override
+  Widget build(BuildContext context) {
+    return AnimatedBuilder(
+      animation: _pulse,
+      builder: (_, __) {
+        final g = _pulse.value;
+        return Stack(
+          alignment: Alignment.center,
+          children: [
+            Container(
+              width: 114 + g * 16, height: 114 + g * 16,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                color: AppTheme.lavender.withValues(alpha: 0.07 + g * 0.06),
+              ),
+            ),
+            Container(
+              width: 98 + g * 8, height: 98 + g * 8,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                color: AppTheme.lavender.withValues(alpha: 0.11 + g * 0.08),
+              ),
+            ),
+            Container(
+              width: 82, height: 82,
+              decoration: BoxDecoration(
+                shape: BoxShape.circle,
+                gradient: const LinearGradient(
+                  begin: Alignment.topLeft, end: Alignment.bottomRight,
+                  colors: [Color(0xFF5E8B9E), Color(0xFF4A7588)],
+                ),
+                boxShadow: [BoxShadow(
+                  color: const Color(0xFF5E8B9E).withValues(alpha: 0.28 + g * 0.22),
+                  blurRadius: 18 + g * 14, spreadRadius: 2 + g * 6,
+                )],
+              ),
+              child: const Icon(Icons.auto_awesome_rounded, color: Colors.white, size: 36),
+            ),
+          ],
+        );
+      },
+    );
+  }
+}
+
 // ─── Typing animation ─────────────────────────────────────────────────────────
 
 class _TypingDots extends StatefulWidget {
@@ -443,16 +526,21 @@ class _TypingDotsState extends State<_TypingDots> with SingleTickerProviderState
       animation: _c,
       builder: (_, __) => Row(mainAxisSize: MainAxisSize.min,
         children: List.generate(3, (i) {
-          final t = (_c.value - i * 0.2) % 1.0;
-          final scale = 0.6 + 0.4 * (t < 0.5 ? t * 2 : (1 - t) * 2);
+          final t = (_c.value - i * 0.22).abs() % 1.0;
+          final scale = 0.55 + 0.45 * (t < 0.5 ? t * 2 : (1 - t) * 2);
+          final opacity = 0.4 + 0.6 * (t < 0.5 ? t * 2 : (1 - t) * 2);
           return Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 3),
+            padding: const EdgeInsets.symmetric(horizontal: 3.5),
             child: Transform.scale(
               scale: scale,
-              child: Container(
-                width: 7, height: 7,
-                decoration: BoxDecoration(
-                  color: AppTheme.primary, shape: BoxShape.circle)),
+              child: Opacity(
+                opacity: opacity,
+                child: Container(
+                  width: 8, height: 8,
+                  decoration: BoxDecoration(
+                    gradient: LinearGradient(colors: [AppTheme.lavender, AppTheme.primary]),
+                    shape: BoxShape.circle)),
+              ),
             ),
           );
         }),
