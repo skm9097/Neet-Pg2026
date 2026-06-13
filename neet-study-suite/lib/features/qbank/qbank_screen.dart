@@ -238,7 +238,7 @@ class _QBankScreenState extends State<QBankScreen>
                       duration: const Duration(milliseconds: 200),
                       padding: const EdgeInsets.all(14),
                       decoration: BoxDecoration(
-                        color: isSelected ? color.withValues(alpha: 0.08) : Colors.white,
+                        color: isSelected ? color.withValues(alpha: 0.08) : AppTheme.cardBg,
                         borderRadius: BorderRadius.circular(AppTheme.rMd),
                         border: Border.all(
                           color: isSelected ? color : AppTheme.line,

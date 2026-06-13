@@ -323,20 +323,29 @@ class _HomeScreenState extends State<HomeScreen> {
     final minsLeft = past ? 0 : diff.inMinutes % 60;
 
     return FadeSlideIn(
-      child: Container(
-        decoration: BoxDecoration(
-          gradient: AppTheme.qbankGradient,
-          borderRadius: BorderRadius.circular(AppTheme.rLg),
-          boxShadow: AppTheme.coloredShadow(AppTheme.primary),
-        ),
-        padding: const EdgeInsets.all(16),
-        child: Stack(
-          children: [
-            Positioned(
-              right: -34, bottom: -34,
-              child: Icon(Icons.calendar_month_rounded,
-                size: 130, color: Colors.white.withValues(alpha: 0.08)),
-            ),
+      child: _PulseGlow(
+        color: AppTheme.primary,
+        child: Container(
+          decoration: BoxDecoration(
+            gradient: AppTheme.qbankGradient,
+            borderRadius: BorderRadius.circular(AppTheme.rLg),
+            boxShadow: AppTheme.coloredShadow(AppTheme.primary),
+          ),
+          padding: const EdgeInsets.all(16),
+          child: Stack(
+            children: [
+              // Animated floating particles
+              Positioned.fill(
+                child: ClipRRect(
+                  borderRadius: BorderRadius.circular(AppTheme.rLg),
+                  child: const _HeroParticles(),
+                ),
+              ),
+              Positioned(
+                right: -34, bottom: -34,
+                child: Icon(Icons.calendar_month_rounded,
+                  size: 130, color: Colors.white.withValues(alpha: 0.06)),
+              ),
             Column(
               children: [
                 Row(
@@ -401,6 +410,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
           ],
         ),
+      ),
       ),
     );
   }
@@ -1006,6 +1016,152 @@ class _RingPainter extends CustomPainter {
   @override
   bool shouldRepaint(covariant _RingPainter old) =>
       old.value != value || old.ringColor != ringColor;
+}
+
+// ── Pulsing glow wrapper: breathing colored box-shadow ──────────────────────
+class _PulseGlow extends StatefulWidget {
+  final Color color;
+  final Widget child;
+  const _PulseGlow({required this.color, required this.child});
+
+  @override
+  State<_PulseGlow> createState() => _PulseGlowState();
+}
+
+class _PulseGlowState extends State<_PulseGlow>
+    with SingleTickerProviderStateMixin {
+  late final AnimationController _ctrl;
+  late final Animation<double> _anim;
+
+  @override
+  void initState() {
+    super.initState();
+    _ctrl = AnimationController(
+      vsync: this,
+      duration: const Duration(milliseconds: 2400),
+    )..repeat(reverse: true);
+    _anim = CurvedAnimation(parent: _ctrl, curve: Curves.easeInOut);
+  }
+
+  @override
+  void dispose() {
+    _ctrl.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return AnimatedBuilder(
+      animation: _anim,
+      builder: (context, child) {
+        final spread = 4.0 + _anim.value * 10.0;
+        final blur = 12.0 + _anim.value * 18.0;
+        return DecoratedBox(
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(AppTheme.rLg),
+            boxShadow: [
+              BoxShadow(
+                color: widget.color.withValues(alpha: 0.25 + _anim.value * 0.25),
+                blurRadius: blur,
+                spreadRadius: spread,
+              ),
+            ],
+          ),
+          child: child,
+        );
+      },
+      child: widget.child,
+    );
+  }
+}
+
+// ── Floating particle overlay for hero card ──────────────────────────────────
+class _HeroParticles extends StatefulWidget {
+  const _HeroParticles();
+
+  @override
+  State<_HeroParticles> createState() => _HeroParticlesState();
+}
+
+class _HeroParticlesState extends State<_HeroParticles>
+    with SingleTickerProviderStateMixin {
+  late final AnimationController _ctrl;
+  final _rng = math.Random(42);
+  late final List<_Particle> _particles;
+
+  @override
+  void initState() {
+    super.initState();
+    _particles = List.generate(14, (i) => _Particle(_rng));
+    _ctrl = AnimationController(
+      vsync: this,
+      duration: const Duration(seconds: 8),
+    )..repeat();
+  }
+
+  @override
+  void dispose() {
+    _ctrl.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return AnimatedBuilder(
+      animation: _ctrl,
+      builder: (context, _) {
+        return CustomPaint(
+          painter: _ParticlePainter(_particles, _ctrl.value),
+        );
+      },
+    );
+  }
+}
+
+class _Particle {
+  final double x;    // 0..1 initial horizontal position
+  final double y;    // 0..1 initial vertical position
+  final double size;
+  final double speed;
+  final double phase; // 0..1 animation phase offset
+
+  _Particle(math.Random rng)
+      : x = rng.nextDouble(),
+        y = rng.nextDouble(),
+        size = 2.0 + rng.nextDouble() * 3.0,
+        speed = 0.3 + rng.nextDouble() * 0.5,
+        phase = rng.nextDouble();
+}
+
+class _ParticlePainter extends CustomPainter {
+  final List<_Particle> particles;
+  final double t; // 0..1 from AnimationController
+
+  _ParticlePainter(this.particles, this.t);
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final paint = Paint()..style = PaintingStyle.fill;
+    for (final p in particles) {
+      final progress = (t * p.speed + p.phase) % 1.0;
+      // drift upward, wrap around
+      final dy = (p.y - progress * 0.6) % 1.0;
+      final wobble = math.sin((progress + p.phase) * math.pi * 2) * 0.04;
+      final dx = (p.x + wobble) % 1.0;
+
+      final alpha = (math.sin(progress * math.pi) * 0.45).clamp(0.0, 1.0);
+      paint.color = Colors.white.withValues(alpha: alpha);
+
+      canvas.drawCircle(
+        Offset(dx * size.width, dy * size.height),
+        p.size,
+        paint,
+      );
+    }
+  }
+
+  @override
+  bool shouldRepaint(covariant _ParticlePainter old) => old.t != t;
 }
 
 extension StringExt on String {
