@@ -66,60 +66,39 @@ class _ResultScreenState extends State<ResultScreen> {
     return Scaffold(
       body: DefaultTabController(
         length: 2,
-        child: SafeArea(
-          bottom: false,
-          child: Column(
-            children: [
-              _buildHeader(),
-              Expanded(child: TabBarView(children: [_buildSummary(), _buildReview()])),
-            ],
-          ),
+        child: Column(
+          children: [
+            _buildHeader(),
+            Expanded(child: TabBarView(children: [_buildSummary(), _buildReview()])),
+          ],
         ),
       ),
     );
   }
 
   Widget _buildHeader() {
-    return Container(
-      padding: const EdgeInsets.fromLTRB(16, 10, 16, 0),
-      child: Column(
-        children: [
-          Row(children: [
-            TapScale(
-              onTap: () => Navigator.popUntil(context, (r) => r.isFirst),
-              child: Container(
-                padding: const EdgeInsets.all(9),
-                decoration: BoxDecoration(
-                  color: AppTheme.primary.withValues(alpha: 0.08),
-                  borderRadius: BorderRadius.circular(13)),
-                child: Icon(Icons.home_rounded, size: 20, color: AppTheme.primary),
-              ),
-            ),
-            const SizedBox(width: 12),
-            Text('Your Results', style: TextStyle(
-              fontSize: 20, fontWeight: FontWeight.w800, color: AppTheme.ink, letterSpacing: -0.4)),
-          ]),
-          const SizedBox(height: 14),
-          Container(
-            decoration: BoxDecoration(
-              color: AppTheme.primary.withValues(alpha: 0.06),
-              borderRadius: BorderRadius.circular(16)),
-            padding: const EdgeInsets.all(4),
-            child: TabBar(
-              dividerColor: Colors.transparent,
-              indicatorSize: TabBarIndicatorSize.tab,
-              indicator: BoxDecoration(
-                color: Colors.white,
-                borderRadius: BorderRadius.all(Radius.circular(13)),
-                boxShadow: [BoxShadow(color: Color(0x14000000), blurRadius: 8, offset: Offset(0, 2))],
-              ),
-              labelColor: AppTheme.primary,
-              unselectedLabelColor: AppTheme.inkSoft,
-              labelStyle: TextStyle(fontWeight: FontWeight.w700, fontSize: 13.5),
-              tabs: [Tab(text: 'Summary'), Tab(text: 'Review All')],
-            ),
+    return CompactGradientHeader(
+      title: 'Your Results',
+      subtitle: 'Score, NEET projection & full review',
+      backIcon: Icons.home_rounded,
+      onBack: () => Navigator.popUntil(context, (r) => r.isFirst),
+      bottom: Container(
+        decoration: BoxDecoration(
+          color: Colors.white.withValues(alpha: 0.18),
+          borderRadius: BorderRadius.circular(14)),
+        padding: const EdgeInsets.all(4),
+        child: TabBar(
+          dividerColor: Colors.transparent,
+          indicatorSize: TabBarIndicatorSize.tab,
+          indicator: BoxDecoration(
+            color: Colors.white,
+            borderRadius: BorderRadius.all(Radius.circular(11)),
           ),
-        ],
+          labelColor: AppTheme.primary,
+          unselectedLabelColor: Colors.white,
+          labelStyle: const TextStyle(fontWeight: FontWeight.w700, fontSize: 13.5),
+          tabs: const [Tab(text: 'Summary'), Tab(text: 'Review All')],
+        ),
       ),
     );
   }

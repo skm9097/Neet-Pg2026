@@ -353,3 +353,103 @@ class FadeSlideIn extends StatelessWidget {
     );
   }
 }
+
+/// A compact app-bar-style gradient header: rounded bottom, decorative blobs,
+/// a back button, optional leading icon, title (+ optional subtitle) and trailing
+/// actions. Optionally renders a [bottom] widget (e.g. a tab selector) inside the
+/// gradient. This is the premium header shared across secondary screens.
+class CompactGradientHeader extends StatelessWidget {
+  final String title;
+  final String? subtitle;
+  final IconData? icon;
+  final Gradient gradient;
+  final VoidCallback? onBack;
+  final IconData backIcon;
+  final List<Widget> actions;
+  final Widget? bottom;
+  final EdgeInsetsGeometry padding;
+
+  const CompactGradientHeader({
+    super.key,
+    required this.title,
+    this.subtitle,
+    this.icon,
+    this.gradient = AppTheme.heroGradient,
+    this.onBack,
+    this.backIcon = Icons.arrow_back_rounded,
+    this.actions = const [],
+    this.bottom,
+    this.padding = const EdgeInsets.fromLTRB(16, 12, 16, 16),
+  });
+
+  @override
+  Widget build(BuildContext context) {
+    return ClipRRect(
+      borderRadius: const BorderRadius.vertical(bottom: Radius.circular(AppTheme.rXl)),
+      child: Container(
+        decoration: BoxDecoration(gradient: gradient),
+        child: SafeArea(
+          bottom: false,
+          child: Stack(
+            children: [
+              Positioned(top: -24, right: -24, child: _blob(100, 0.14)),
+              Positioned(bottom: -34, left: -18, child: _blob(120, 0.10)),
+              Positioned(top: 16, left: 72, child: _blob(28, 0.07)),
+              Padding(
+                padding: padding,
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  mainAxisSize: MainAxisSize.min,
+                  children: [
+                    Row(children: [
+                      TapScale(
+                        onTap: onBack ?? () => Navigator.pop(context),
+                        child: Container(
+                          padding: const EdgeInsets.all(8),
+                          decoration: BoxDecoration(
+                            color: Colors.white.withValues(alpha: 0.18),
+                            borderRadius: BorderRadius.circular(12)),
+                          child: Icon(backIcon, color: Colors.white, size: 20),
+                        ),
+                      ),
+                      const SizedBox(width: 14),
+                      if (icon != null) ...[
+                        Icon(icon, color: Colors.white, size: 20),
+                        const SizedBox(width: 10),
+                      ],
+                      Expanded(
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Text(title, style: const TextStyle(
+                              color: Colors.white, fontSize: 20,
+                              fontWeight: FontWeight.w800, letterSpacing: -0.4)),
+                            if (subtitle != null)
+                              Text(subtitle!, style: TextStyle(
+                                color: Colors.white.withValues(alpha: 0.82), fontSize: 12.5)),
+                          ],
+                        ),
+                      ),
+                      ...actions,
+                    ]),
+                    if (bottom != null) ...[
+                      const SizedBox(height: 14),
+                      bottom!,
+                    ],
+                  ],
+                ),
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _blob(double size, double opacity) => Container(
+    width: size, height: size,
+    decoration: BoxDecoration(
+      shape: BoxShape.circle, color: Colors.white.withValues(alpha: opacity)),
+  );
+}

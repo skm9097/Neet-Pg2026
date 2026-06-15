@@ -125,29 +125,10 @@ class _SettingsScreenState extends State<SettingsScreen> {
       backgroundColor: AppTheme.surface,
       body: Column(
         children: [
-          Container(
-            color: AppTheme.primary,
-            child: SafeArea(
-              bottom: false,
-              child: Padding(
-                padding: const EdgeInsets.fromLTRB(16, 12, 16, 16),
-                child: Row(children: [
-                  TapScale(
-                    onTap: () => Navigator.pop(context),
-                    child: Container(
-                      padding: const EdgeInsets.all(8),
-                      decoration: BoxDecoration(
-                        color: Colors.white.withValues(alpha: 0.18),
-                        borderRadius: BorderRadius.circular(12)),
-                      child: const Icon(Icons.arrow_back_rounded, color: Colors.white, size: 20),
-                    ),
-                  ),
-                  const SizedBox(width: 14),
-                  const Text('Settings', style: TextStyle(
-                    color: Colors.white, fontSize: 20, fontWeight: FontWeight.w800, letterSpacing: -0.4)),
-                ]),
-              ),
-            ),
+          const CompactGradientHeader(
+            title: 'Settings',
+            subtitle: 'Profile, AI, sync & preferences',
+            icon: Icons.tune_rounded,
           ),
           Expanded(
             child: ListView(
@@ -203,7 +184,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
                 const SizedBox(height: 24),
                 Center(
-                  child: Text('NEET-PG Study Suite v1.4.0',
+                  child: Text('NEET-PG Study Suite v1.6.0',
                     style: TextStyle(color: AppTheme.inkFaint, fontSize: 12)),
                 ),
               ],
