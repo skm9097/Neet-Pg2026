@@ -10645,3 +10645,360 @@ Next step for patient on salbutamol + ipratropium with continuing nocturnal asth
 ---
 
 ---
+
+### Q582 — Posterior inferior cerebellar artery thrombosis
+
+Thrombosis of the posterior inferior cerebellar artery (PICA) causes which syndrome?
+
+- A. Lateral medullary (Wallenberg) syndrome
+- B. Weber syndrome
+- C. Medial medullary syndrome
+- D. Millard–Gubler syndrome
+
+<details><summary>Answer</summary>
+
+**A. Lateral medullary (Wallenberg) syndrome** — PICA occlusion → ipsilateral facial/contralateral body sensory loss, Horner's, vertigo, dysphagia, ataxia.
+
+</details>
+
+---
+
+### Q583 — Prolactin level diagnostic of prolactinoma
+
+What serum prolactin level is definitely suggestive of a prolactinoma?
+
+- A. >50 µg/L
+- B. >100 µg/L
+- C. >150 µg/L
+- D. >200 µg/L
+
+<details><summary>Answer</summary>
+
+**D. >200 µg/L** — Prolactin >200 µg/L is highly specific for prolactinoma; lower elevations can result from stalk effect or non-functioning adenomas.
+
+</details>
+
+---
+
+### Q584 — Late prosthetic valve endocarditis organism
+
+A patient develops prosthetic valve endocarditis 2 years after valve replacement. Most likely causative organism?
+
+- A. Streptococci
+- B. Staphylococcus aureus
+- C. Coagulase-negative staphylococci
+- D. HACEK organisms
+
+<details><summary>Answer</summary>
+
+**A. Streptococci** — Late prosthetic valve endocarditis (>1 year) resembles native-valve IE, where viridans streptococci predominate; early PVE is caused by staphylococci.
+
+</details>
+
+---
+
+### Q585 — Most common extra-articular manifestation of RA
+
+What is the most common extra-articular manifestation of rheumatoid arthritis?
+
+- A. Subcutaneous nodule
+- B. Secondary Sjögren's syndrome
+- C. Felty's syndrome
+- D. Vasculitis
+
+<details><summary>Answer</summary>
+
+**A. Subcutaneous nodule** — Rheumatoid nodules over pressure points are the commonest extra-articular feature; seen mainly in seropositive (RF/ACPA-positive) smokers.
+
+</details>
+
+---
+
+### Q586 — ATP7A gene and copper
+
+Low serum copper attributed to a mutation in the ATP7A gene is seen in:
+
+- A. Dubin–Johnson syndrome
+- B. Wilson's disease
+- C. Menke's disease
+- D. Gilbert's syndrome
+
+<details><summary>Answer</summary>
+
+**C. Menke's disease** — X-linked ATP7A defect impairs intestinal copper transport → low copper-dependent enzymes (kinky hair, neurodegeneration). Wilson's = ATP7B with copper overload.
+
+</details>
+
+---
+
+### Q587 — Brown-Séquard syndrome pattern
+
+Which is the characteristic finding in Brown-Séquard syndrome?
+
+- A. Contralateral loss of pain and temperature sensation
+- B. Contralateral loss of vibration and joint position sense
+- C. Ipsilateral loss of all sensory functions
+- D. Bilateral loss of motor function
+
+<details><summary>Answer</summary>
+
+**A. Contralateral loss of pain and temperature sensation** — Cord hemisection: ipsilateral motor + dorsal-column loss, contralateral spinothalamic (pain/temperature) loss below the lesion.
+
+</details>
+
+---
+
+### Q588 — Wilson's disease: initial investigation
+
+A child with hepatitis, progressive neurological degeneration and a Kayser–Fleischer ring. What is the initial investigation for diagnosis?
+
+- A. Serum copper levels
+- B. Serum ceruloplasmin levels
+- C. 24-hour urinary copper
+- D. Liver biopsy for copper
+
+<details><summary>Answer</summary>
+
+**B. Serum ceruloplasmin levels** — Low serum ceruloplasmin is the initial screening test for Wilson's disease; KF ring is present in >95% with neurological involvement.
+
+</details>
+
+---
+
+### Q589 — HIV diagnosis in infant
+
+What is the diagnostic test of choice for HIV in a baby born to an HIV-infected mother?
+
+- A. HIV DNA PCR
+- B. Cord blood ELISA
+- C. Western blot
+- D. Third-generation antibody assay
+
+<details><summary>Answer</summary>
+
+**A. HIV DNA PCR** — Antibody tests are unreliable <18 months due to transplacental maternal antibodies; virological DNA/RNA PCR is used for early infant diagnosis.
+
+</details>
+
+---
+
+### Q590 — Wiskott-Aldrich syndrome triad
+
+Thrombocytopenia, eczema, and recurrent infections are characteristically seen in:
+
+- A. Wiskott-Aldrich syndrome
+- B. Chediak-Higashi syndrome
+- C. Thrombocytopenia-absent radius syndrome
+- D. Hermansky-Pudlak syndrome
+
+<details><summary>Answer</summary>
+
+**A. Wiskott-Aldrich syndrome** — X-linked WASP mutation: microthrombocytopenia, eczema, immunodeficiency (low IgM, high IgA/IgE), recurrent infections.
+
+</details>
+
+---
+
+### Q591 — Water hammer pulse
+
+Water hammer (Corrigan's) pulse is characteristically seen in:
+
+- A. Aortic stenosis
+- B. Aortic regurgitation
+- C. Mitral stenosis
+- D. Mitral regurgitation
+
+<details><summary>Answer</summary>
+
+**B. Aortic regurgitation** — Wide pulse pressure with rapid upstroke and collapse due to diastolic runoff; a bisferiens pulse may occur in mixed AS/AR.
+
+</details>
+
+---
+
+### Q592 — Pituitary apoplexy presentation
+
+Which of the following is seen in pituitary apoplexy?
+
+- A. Hypertension
+- B. Shock
+- C. Bradycardia
+- D. Hyperthermia
+
+<details><summary>Answer</summary>
+
+**B. Shock** — Acute haemorrhagic infarction of the pituitary → acute adrenal insufficiency, hypotension and shock; presents with severe headache, ophthalmoplegia, visual loss.
+
+</details>
+
+---
+
+### Q593 — Polyarteritis nodosa
+
+Which of the following is true about polyarteritis nodosa?
+
+- A. Necrotising inflammation of large vessels
+- B. Associated with hypogammaglobulinemia
+- C. 90% are ANCA-positive
+- D. About one-third are associated with hepatitis B
+
+<details><summary>Answer</summary>
+
+**D. About one-third are associated with hepatitis B** — PAN affects medium/small muscular arteries, is usually ANCA-negative, shows hypergammaglobulinemia, and ~30% have HBV.
+
+</details>
+
+---
+
+### Q594 — Calcitonin in hyperparathyroidism
+
+Calcitonin levels are increased in:
+
+- A. Hyperthyroidism
+- B. Hypoparathyroidism
+- C. Hyperparathyroidism
+- D. Cushing's syndrome
+
+<details><summary>Answer</summary>
+
+**C. Hyperparathyroidism** — Elevated PTH raises serum calcium, which reflexively stimulates parafollicular C-cells to secrete more calcitonin.
+
+</details>
+
+---
+
+### Q595 — Cushing's ulcer
+
+Cushing's ulcers are classically associated with:
+
+- A. Burns
+- B. Sepsis
+- C. Head injury / raised intracranial pressure
+- D. Cell necrosis
+
+<details><summary>Answer</summary>
+
+**C. Head injury / raised intracranial pressure** — Cushing ulcers occur with CNS injury (vagal-mediated acid hypersecretion); Curling ulcers occur in severe burns.
+
+</details>
+
+---
+
+### Q596 — Hormone increased in obesity
+
+Production of which hormone is increased in obesity?
+
+- A. Insulin
+- B. Thyroxine
+- C. Growth hormone
+- D. Adiponectin
+
+<details><summary>Answer</summary>
+
+**A. Insulin** — Insulin resistance drives compensatory hyperinsulinemia; growth hormone and adiponectin levels are reduced in obesity.
+
+</details>
+
+---
+
+### Q597 — Tropical pulmonary eosinophilia
+
+A patient has fever, nocturnal cough, wheezing for 4 weeks, absolute eosinophil count >5000/µL, and a miliary pattern on chest X-ray. Likely diagnosis?
+
+- A. Bronchial asthma
+- B. Miliary tuberculosis
+- C. Tropical pulmonary eosinophilia
+- D. Hypersensitivity pneumonitis
+
+<details><summary>Answer</summary>
+
+**C. Tropical pulmonary eosinophilia** — Hyperreactive response to trapped microfilariae; marked eosinophilia, high IgE, nocturnal wheeze. Treat with diethylcarbamazine.
+
+</details>
+
+---
+
+### Q598 — Coarctation of aorta
+
+A man has feeble femoral pulses, upper-limb BP 186/90 mmHg, and enlarged intercostal arteries (rib notching) on chest X-ray. Likely diagnosis?
+
+- A. Coarctation of aorta
+- B. Atrial septal defect
+- C. Aortic stenosis
+- D. Patent ductus arteriosus
+
+<details><summary>Answer</summary>
+
+**A. Coarctation of aorta** — Upper-limb hypertension with radio-femoral delay and rib notching from dilated collateral intercostal arteries.
+
+</details>
+
+---
+
+### Q599 — Drug added after coronary stenting
+
+A patient with atherosclerosis underwent circumflex artery stenting and is already on lisinopril, verapamil, and metoprolol. Which drug should be added?
+
+- A. PDE-3 inhibitor
+- B. Direct oral anticoagulant
+- C. P2Y12 receptor inhibitor
+- D. PDE-5 inhibitor
+
+<details><summary>Answer</summary>
+
+**C. P2Y12 receptor inhibitor** — Clopidogrel plus aspirin (dual antiplatelet therapy) for ≥1 year after stenting prevents stent thrombosis.
+
+</details>
+
+---
+
+### Q600 — Giant cell arteritis treatment
+
+A patient with giant cell (temporal) arteritis has headache, jaw claudication, polymyalgia rheumatica, and mononeuritis multiplex. First-line treatment?
+
+- A. Abatacept
+- B. Steroids
+- C. Methotrexate
+- D. Tocilizumab
+
+<details><summary>Answer</summary>
+
+**B. Steroids** — High-dose glucocorticoids are first-line and started immediately to prevent irreversible visual loss; do not delay for biopsy.
+
+</details>
+
+---
+
+### Q601 — Acute hepatitis B serology
+
+A patient with fever, jaundice, and malaise has: HBsAg positive, IgM anti-HBc positive, anti-HBs negative, anti-HCV negative. Diagnosis?
+
+- A. Acute hepatitis B
+- B. Acute hepatitis C
+- C. Chronic hepatitis B
+- D. Resolved hepatitis B
+
+<details><summary>Answer</summary>
+
+**A. Acute hepatitis B** — HBsAg positive with IgM anti-HBc and absent anti-HBs is the classic profile of acute HBV infection.
+
+</details>
+
+---
+
+### Q602 — Gout with normal serum uric acid
+
+A chronic alcoholic has acute pain and swelling of the great toe, synovial fluid with raised leukocytes, and a normal serum uric acid level. Most likely diagnosis?
+
+- A. Pseudogout
+- B. Acute gout
+- C. Reactive arthritis
+- D. Septic arthritis
+
+<details><summary>Answer</summary>
+
+**B. Acute gout** — Serum urate is often normal or low during an acute flare; diagnosis rests on monosodium urate crystals in synovial fluid (negatively birefringent needles).
+
+</details>
+
+---
