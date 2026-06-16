@@ -13250,3 +13250,240 @@ A 27-year-old male with 2 months of reduced left-ear hearing. PTA audiogram show
 ---
 
 ---
+### Q708 — High tracheostomy indication
+
+Which of the following is an indication for a high tracheostomy?
+
+- A. Vocal cord palsy
+- B. Tracheomalacia
+- C. Foreign body obstruction
+- D. Suspicion of laryngeal carcinoma planned for surgery later
+
+<details><summary>Answer</summary>
+
+**D. Suspicion of laryngeal carcinoma planned for surgery later** — High tracheostomy (above the thyroid isthmus, at the 1st tracheal ring) is acceptable as a temporary measure before total laryngectomy for laryngeal carcinoma.
+
+</details>
+
+---
+
+### Q709 — Chevallet fracture of nasal septum
+
+A vertical fracture of the nasal septum, running from the anterior nasal spine upward to the bony-cartilaginous junction of the dorsum, is known as?
+
+- A. Chevallet fracture
+- B. Jarjavay fracture
+- C. Le Fort I fracture
+- D. Tripod fracture
+
+<details><summary>Answer</summary>
+
+**A. Chevallet fracture** — A vertical septal fracture, usually from a blow to the nose from below; the horizontal counterpart is the Jarjavay fracture.
+
+</details>
+
+---
+
+### Q710 — Cochlear implant electrode placement
+
+Where is the electrode array placed during a cochlear implant procedure?
+
+- A. Round window
+- B. Oval window
+- C. Scala vestibuli
+- D. Scala tympani
+
+<details><summary>Answer</summary>
+
+**D. Scala tympani** — The electrode is inserted into the scala tympani (via the round window/cochleostomy), placing it near the spiral ganglion cells in the modiolus.
+
+</details>
+
+---
+
+### Q711 — Branchial cyst most common site
+
+What is the most common site of a branchial cleft cyst?
+
+- A. Posterior border of sternocleidomastoid
+- B. Anterior border of sternocleidomastoid (upper third)
+- C. Over the digastric muscle
+- D. Posterior triangle of the neck
+
+<details><summary>Answer</summary>
+
+**B. Anterior border of sternocleidomastoid (upper third)** — A second branchial cleft cyst presents as a painless mass along the anterior border of the upper third of the SCM in the anterior triangle.
+
+</details>
+
+---
+
+### Q712 — Young's operation indication
+
+Surgery in which the nostrils are partially or completely occluded (Young's / modified Young's operation) is done for which condition?
+
+- A. Vasomotor rhinitis
+- B. Atrophic rhinitis
+- C. Invasive aspergillosis
+- D. Allergic rhinitis
+
+<details><summary>Answer</summary>
+
+**B. Atrophic rhinitis** — Closing the nostrils gives the nasal mucosa rest, reducing crusting; complete closure is Young's operation and partial closure is the modified Young's operation.
+
+</details>
+
+---
+
+### Q713 — Water's view with open mouth
+
+Occipitomental view taken with an open mouth (to image the sphenoid sinus through the open mouth) is also known as?
+
+- A. Water's view
+- B. Pierre's view (open-mouth Water's view)
+- C. Towne's view
+- D. Stenver's view
+
+<details><summary>Answer</summary>
+
+**B. Pierre's view (open-mouth Water's view)** — The standard occipitomental view is Water's view; performed with the mouth open it is termed Pierre's view and shows the sphenoid sinus.
+
+</details>
+
+---
+
+### Q714 — Post-thyroidectomy failed extubation
+
+Following total thyroidectomy, a patient develops difficulty breathing and repeated attempts at extubation fail. The most probable cause is?
+
+- A. Superior laryngeal nerve injury
+- B. Unilateral recurrent laryngeal nerve injury
+- C. Bilateral recurrent laryngeal nerve injury
+- D. Hematoma
+
+<details><summary>Answer</summary>
+
+**C. Bilateral recurrent laryngeal nerve injury** — Bilateral RLN palsy leaves both cords in a paramedian position, causing airway obstruction and stridor on extubation.
+
+</details>
+
+---
+
+### Q715 — Intracranial complication of CSOM
+
+A patient with chronic ear infection presents with fever, headache, vomiting, irritability and confusion; CT brain shows a ring-enhancing lesion. Most likely diagnosis?
+
+- A. Temporal lobe abscess
+- B. Cerebellar abscess
+- C. Subdural abscess
+- D. Meningitis
+
+<details><summary>Answer</summary>
+
+**A. Temporal lobe abscess** — The temporal lobe is the commonest site of intracranial abscess complicating chronic suppurative otitis media (via the tegmen).
+
+</details>
+
+---
+
+### Q716 — Parotid abscess
+
+A patient presents with a firm, tender, slow-growing mass below the ear. The most likely diagnosis is?
+
+- A. Bezold abscess
+- B. Parotid abscess
+- C. Upper cervical lymphadenopathy
+- D. Osteoma of the mandible
+
+<details><summary>Answer</summary>
+
+**B. Parotid abscess** — Infection/pus in the parotid space, most commonly due to Staphylococcus aureus, often in debilitated patients with reduced salivary flow.
+
+</details>
+
+---
+
+### Q717 — Basilar membrane and high-frequency hearing
+
+A 70-year-old man has high-frequency hearing loss localised to a region of the basilar membrane. Which structure lies near the affected segment?
+
+- A. Modiolus
+- B. Stria vascularis
+- C. Oval window
+- D. Helicotrema
+
+<details><summary>Answer</summary>
+
+**C. Oval window** — High frequencies are represented at the basal turn of the cochlea (near the oval window); low frequencies are at the apex (von Békésy travelling-wave theory).
+
+</details>
+
+---
+
+### Q718 — Fossa of Rosenmüller
+
+On endoscopy of the lateral wall of the nasopharynx, the recess situated posterior to the torus tubarius is identified as?
+
+- A. Fossa of Rosenmüller
+- B. Tubal tonsil
+- C. Opening of the eustachian tube
+- D. Adenoid
+
+<details><summary>Answer</summary>
+
+**A. Fossa of Rosenmüller** — The lateral pharyngeal recess behind the torus tubarius; the commonest site of origin of nasopharyngeal carcinoma.
+
+</details>
+
+---
+
+### Q719 — Frontal mucocele
+
+A 30-year-old presents with non-axial proptosis of the left eye and a history of road traffic accident 15 years earlier; CT shows an expansile frontal sinus lesion. Most likely diagnosis?
+
+- A. Frontal mucocele
+- B. Frontal meningioma
+- C. Juvenile nasopharyngeal angiofibroma
+- D. Orbital pseudotumor
+
+<details><summary>Answer</summary>
+
+**A. Frontal mucocele** — A slowly expanding, mucus-filled sinus due to ostial obstruction (often post-trauma) that erodes into the orbit causing non-axial proptosis.
+
+</details>
+
+---
+
+### Q720 — Nasopharyngeal airway (Wendl tube)
+
+The instrument shown (a soft nasopharyngeal airway tube) is NOT used for which of the following?
+
+- A. Airway toileting/suctioning
+- B. Upper airway examination
+- C. Acute nasopharyngeal obstruction
+- D. Prolonged mechanical ventilation
+
+<details><summary>Answer</summary>
+
+**C. Acute nasopharyngeal obstruction** — A nasopharyngeal airway bypasses oropharyngeal obstruction but is contraindicated in nasopharyngeal obstruction (and basal skull fracture); it is not used in that setting.
+
+</details>
+
+---
+
+### Q721 — Rinne pattern and air–bone gap
+
+A patient is Rinne negative at 256 Hz and 512 Hz but Rinne positive at 1024 Hz. What is the expected air conduction–bone conduction (air–bone) gap?
+
+- A. 30–45 dB
+- B. 15–30 dB
+- C. 45–60 dB
+- D. >60 dB
+
+<details><summary>Answer</summary>
+
+**A. 30–45 dB** — Rinne becomes negative only once the air–bone gap reaches ~30 dB; negative at 256/512 Hz with positive at 1024 Hz corresponds to an air–bone gap of about 30–45 dB.
+
+</details>
+
+---

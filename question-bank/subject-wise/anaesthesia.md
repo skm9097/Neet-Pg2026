@@ -1271,3 +1271,70 @@ A patient develops erythema, facial flushing, and hypotension after muscle relax
 ---
 
 ---
+### Q76 — Anaesthesia of choice in pre-eclampsia
+
+What is the best type of anaesthesia for a patient with pre-eclampsia undergoing labour or caesarean section?
+
+- A. Spinal anaesthesia
+- B. Epidural anaesthesia
+- C. General anaesthesia
+- D. Caudal block
+
+<details><summary>Answer</summary>
+
+**B. Epidural anaesthesia** — Continuous epidural avoids difficult intubation (airway oedema), blunts the catecholamine/BP surge, and improves uteroplacental perfusion.
+
+</details>
+
+---
+
+### Q77 — Second-line drug in cardiac arrest after epinephrine
+
+During ACLS for cardiac arrest, if epinephrine is not effective, which drug should be given next (for shock-refractory VF/pulseless VT)?
+
+- A. Vasopressin
+- B. Atropine
+- C. Amiodarone
+- D. Adenosine
+
+<details><summary>Answer</summary>
+
+**C. Amiodarone** — Antiarrhythmic of choice in shock-refractory VF/pulseless VT; 300 mg IV bolus after epinephrine and defibrillation, then a 150 mg repeat dose if needed.
+
+</details>
+
+---
+
+### Q78 — Monitoring depth of anaesthesia
+
+Which of the following is most commonly used to monitor the depth of anaesthesia?
+
+- A. EEG
+- B. Evoked potentials
+- C. Entropy
+- D. Bispectral index (BIS)
+
+<details><summary>Answer</summary>
+
+**D. Bispectral index (BIS)** — Processed-EEG index most commonly used clinically to titrate depth of anaesthesia (mid-latency auditory evoked potentials are the most sensitive indicator).
+
+</details>
+
+---
+
+### Q79 — Parameter measured by pulse oximetry
+
+A small sensor placed on the finger measures the relative absorption of red and infrared light by oxygenated and deoxygenated haemoglobin. Which parameter does this device measure?
+
+- A. Oxygen saturation (SpO2)
+- B. Oxygen content of blood
+- C. Partial pressure of oxygen (PaO2)
+- D. Amount of inspired oxygen
+
+<details><summary>Answer</summary>
+
+**A. Oxygen saturation (SpO2)** — Pulse oximetry estimates functional Hb saturation; it does not measure oxygen content or partial pressures (falsely high in carboxyhaemoglobinaemia, falsely low in severe anaemia/low-output states).
+
+</details>
+
+---

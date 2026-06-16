@@ -2165,3 +2165,116 @@ A 68-year-old with advanced cancer: doctors believe aggressive treatment is futi
 ---
 
 ---
+
+### Q128 — IPC section for perjury
+
+Which Section of the IPC deals with the punishment for perjury (giving false evidence)?
+
+- A. Section 191 IPC
+- B. Section 192 IPC
+- C. Section 193 IPC
+- D. Section 197 IPC
+
+<details><summary>Answer</summary>
+
+**C. Section 193 IPC** — Punishment for perjury; Sec 191 defines giving false evidence, Sec 192 fabricating false evidence.
+
+</details>
+
+---
+### Q129 — Frotteurism
+
+A man derives sexual gratification by rubbing his genitals against another person in a crowded place. This paraphilia is termed:
+
+- A. Voyeurism
+- B. Fetishism
+- C. Frotteurism
+- D. Exhibitionism
+
+<details><summary>Answer</summary>
+
+**C. Frotteurism** — Sexual gratification by rubbing one's private parts against a non-consenting person, typically in a crowd.
+
+</details>
+
+---
+### Q130 — Brain mapping (P300)
+
+Which test is based on the principle that prior knowledge of an event/activity will involuntarily influence the suspect's brain-wave response?
+
+- A. Truth serum (narcoanalysis)
+- B. Polygraph
+- C. Brain mapping
+- D. Hypnosis
+
+<details><summary>Answer</summary>
+
+**C. Brain mapping** — Measures recognition of familiar stimuli via the involuntary P300 evoked potential to known words/images.
+
+</details>
+
+---
+### Q131 — Death certificate line I(c)
+
+A patient died of bronchopneumonia following intracerebral haemorrhage caused by cerebral metastases from a squamous cell carcinoma of the left main bronchus. What is recorded in line I(c) of the death certificate?
+
+- A. Bronchopneumonia
+- B. Cerebral metastases
+- C. Intracerebral haemorrhage
+- D. Squamous cell carcinoma of the left main bronchus
+
+<details><summary>Answer</summary>
+
+**B. Cerebral metastases** — Line I(a) is the immediate cause (bronchopneumonia); I(b) and I(c) record antecedent causes leading up to it; cerebral metastases fits I(c) in this sequence.
+
+</details>
+
+---
+### Q132 — Exhibitionism
+
+A man habitually sits nude on his balcony and obtains sexual gratification from being observed by passers-by. This is best described as:
+
+- A. Voyeurism
+- B. Fetishism
+- C. Exhibitionism
+- D. Masochism
+
+<details><summary>Answer</summary>
+
+**C. Exhibitionism** — Recurrent exposure of one's genitals to unsuspecting strangers for sexual gratification; punishable under Sec 294 IPC.
+
+</details>
+
+---
+### Q133 — Rokitansky autopsy technique
+
+An HIV-positive patient has died and the body is brought for post-mortem. Which autopsy technique is preferred for highly transmissible diseases (HIV, hepatitis)?
+
+- A. Ghon technique
+- B. Letulle technique
+- C. Virchow technique
+- D. Rokitansky technique
+
+<details><summary>Answer</summary>
+
+**D. Rokitansky technique** — In-situ dissection in part combined with limited en bloc removal; minimises handling and exposure risk in infectious cases.
+
+</details>
+
+---
+### Q134 — IPC Section 314
+
+Section 314 of the IPC deals with:
+
+- A. Causing miscarriage with the consent of the mother
+- B. Causing miscarriage without the consent of the mother
+- C. Death of the mother caused by an act done to cause miscarriage
+- D. Causing death of a quick unborn child
+
+<details><summary>Answer</summary>
+
+**C. Death of the mother caused by an act done to cause miscarriage** — Sec 314 IPC covers death caused by an act done with intent to cause miscarriage.
+
+</details>
+
+---

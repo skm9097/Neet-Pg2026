@@ -3936,3 +3936,155 @@ A patient with gluten sensitivity has intensely itchy vesicular lesions on exten
 ---
 
 ---
+### Q213 — Primary skin lesion
+
+Which of the following is a primary skin lesion?
+
+- A. Crust
+- B. Atrophy
+- C. Purpura
+- D. Induration
+
+<details><summary>Answer</summary>
+
+**C. Purpura** — Purpura is a primary lesion; crust, atrophy and induration are all secondary lesions.
+
+</details>
+
+---
+
+### Q214 — Scleredema (false statement)
+
+Which of the following statements is FALSE regarding scleredema?
+
+- A. The dermis is 3–4 times thicker than normal
+- B. Erythema and peau d'orange appearance of the skin can be seen
+- C. Can occur in association with diabetes
+- D. Associated with sclerodactyly or Raynaud's phenomenon
+
+<details><summary>Answer</summary>
+
+**D. Associated with sclerodactyly or Raynaud's phenomenon** — Unlike scleroderma, scleredema lacks sclerodactyly, Raynaud's, nailfold changes and autoantibodies.
+
+</details>
+
+---
+
+### Q215 — Becker's naevus
+
+A hyperpigmented patch over the shoulder associated with overlying hypertrichosis, appearing around adolescence, is most likely:
+
+- A. Mongolian spot
+- B. Naevus of Ito
+- C. Congenital melanocytic naevus
+- D. Becker's naevus
+
+<details><summary>Answer</summary>
+
+**D. Becker's naevus** — Epidermal melanocytic naevus, often hairy, androgen-sensitive, classically over shoulder/scapular area at adolescence.
+
+</details>
+
+---
+
+### Q216 — Varicella-zoster latency site
+
+Varicella-zoster virus remains dormant in the:
+
+- A. Medulla oblongata
+- B. Dorsal root ganglion
+- C. Skin
+- D. Ventral root
+
+<details><summary>Answer</summary>
+
+**B. Dorsal root ganglion** — VZV stays latent in dorsal root ganglia after chickenpox and reactivates as herpes zoster.
+
+</details>
+
+---
+
+### Q217 — Alopecia areata nail change
+
+A patient with smooth circumscribed non-scarring patches of hair loss and exclamation-mark hairs most commonly shows which nail finding?
+
+- A. Oil drop sign
+- B. Leukonychia striata
+- C. Pterygium of nails
+- D. Pitting of nails
+
+<details><summary>Answer</summary>
+
+**D. Pitting of nails** — Alopecia areata classically causes fine, regular, stippled pitting of the nails.
+
+</details>
+
+---
+
+### Q218 — Inflammatory tinea capitis variants
+
+A 30-year-old man presents with inflammatory alopecia. Which variants of tinea capitis commonly cause this type of alopecia?
+
+- A. Endothrix and Favus
+- B. Ectothrix and Endothrix
+- C. Favus and Kerion
+- D. Kerion and Endothrix
+
+<details><summary>Answer</summary>
+
+**C. Favus and Kerion** — Kerion (boggy inflammatory mass) and favus (scutula) are the inflammatory variants; endothrix/ectothrix are non-/mildly inflammatory.
+
+</details>
+
+---
+
+### Q219 — Leprosy: cranial nerve involved
+
+A patient presents with an anaesthetic patch on the face. Which cranial nerve is most commonly involved in this condition?
+
+- A. Abducens nerve
+- B. Facial nerve
+- C. Optic nerve
+- D. Trigeminal nerve
+
+<details><summary>Answer</summary>
+
+**B. Facial nerve** — The facial nerve is the most commonly involved cranial nerve in leprosy.
+
+</details>
+
+---
+
+### Q220 — Hair dye allergic contact dermatitis
+
+A woman develops an itchy, eczematous skin reaction after using hair dye. Which chemical is responsible?
+
+- A. Pollen
+- B. Chromates
+- C. Balsam of Peru
+- D. p-Phenylenediamine
+
+<details><summary>Answer</summary>
+
+**D. p-Phenylenediamine** — PPD in hair dyes is the classic cause of allergic contact dermatitis to hair colourants.
+
+</details>
+
+---
+
+### Q221 — Congenital melanocytic naevus complication
+
+A child has a large black, heterogeneous, hairy palpable pigmented lesion (congenital melanocytic naevus). Which condition is it most associated with?
+
+- A. Cataract
+- B. Glaucoma
+- C. Malignant melanoma
+- D. Basal cell carcinoma
+
+<details><summary>Answer</summary>
+
+**C. Malignant melanoma** — Large/giant congenital melanocytic naevi carry an increased lifetime risk of malignant melanoma.
+
+</details>
+
+---
