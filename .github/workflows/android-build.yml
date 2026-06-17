@@ -30,6 +30,11 @@ on:
         type: boolean
         default: false
 
+# A push whose head commit message contains "[release]" also publishes a
+# GitHub Release — a tag-free path for environments where pushing a tag or
+# dispatching the workflow isn't permitted. The tag (v<pubspec version>) is
+# created by softprops/action-gh-release at that commit.
+
 # Needed so the release job can create/upload a GitHub Release on tag pushes.
 permissions:
   contents: write
@@ -103,7 +108,7 @@ jobs:
       #   - on a manual run with publish_release ticked (action-gh-release
       #     creates the v<version> tag at this commit for us).
       - name: Publish GitHub Release
-        if: ${{ startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'workflow_dispatch' && inputs.publish_release) }}
+        if: ${{ startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'workflow_dispatch' && inputs.publish_release) || (github.event_name == 'push' && contains(github.event.head_commit.message, '[release]')) }}
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ startsWith(github.ref, 'refs/tags/v') && github.ref_name || format('v{0}', steps.ver.outputs.version) }}
