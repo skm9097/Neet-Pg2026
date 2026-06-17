@@ -4385,4 +4385,257 @@ Anal carcinoma with mass near the anal opening. Most likely involved lymph nodes
 
 ---
 
+### Q242 — Putty kidney
+
+Patient with abdominal pain and sterile pyuria; abdominal X-ray shows homogeneous ground-glass calcification of the kidney. Diagnosis?
+
+- A. Putty kidney
+- B. Nephrocalcinosis
+- C. Staghorn calculus
+- D. Psoas calcification
+
+<details><summary>Answer</summary>
+
+**A. Putty kidney** — Autonephrectomy of genitourinary tuberculosis: caseous, calcified non-functioning kidney. Sterile pyuria is the classic clue; confirm with early-morning urine AFB and CT.
+
+</details>
+
+---
+
+### Q243 — Pelviureteric junction obstruction
+
+Delayed intravenous urogram shows hydronephrosis with pelvis/calyceal dilatation and absence of contrast in the ureter. Most likely diagnosis?
+
+- A. Pelviureteric junction obstruction
+- B. Putty kidney
+- C. Staghorn calculus
+- D. Cystic kidney
+
+<details><summary>Answer</summary>
+
+**A. Pelviureteric junction obstruction** — Commonest cause of upper-tract obstruction in childhood, usually intrinsic muscular/stenotic. DTPA/MAG-3 renal scan best confirms obstructive dilatation; surgery (pyeloplasty) if pain, worsening hydronephrosis, or parenchymal damage.
+
+</details>
+
+---
+
+### Q244 — Esophageal foreign body (coin)
+
+A toddler develops sudden difficulty swallowing. Chest X-ray shows a circular radio-opacity in the neck; the coin appears en-face (flat surface) on the AP view. Diagnosis?
+
+- A. Foreign body in the trachea
+- B. Foreign body in the esophagus
+- C. Artifact
+- D. Soft tissue calcification in the neck
+
+<details><summary>Answer</summary>
+
+**B. Foreign body in the esophagus** — An esophageal coin lies in the coronal plane → flat face seen on AP film. A tracheal coin lies sagittally → edge-on on AP. Endoscopic removal is the treatment of choice.
+
+</details>
+
+---
+
+### Q245 — Pressure sore staging
+
+Image shows a pressure sore with full-thickness skin loss extending to fascia with destruction of underlying muscle/bone. Which stage?
+
+- A. Stage 1
+- B. Stage 2
+- C. Stage 3
+- D. Stage 4
+
+<details><summary>Answer</summary>
+
+**D. Stage 4** — Full-thickness loss reaching fascia with involvement of muscle, bone, tendon or joint. (Stage 1 = non-blanching erythema; Stage 2 = partial-thickness; Stage 3 = subcutaneous fat but intact fascia.)
+
+</details>
+
+---
+
+### Q246 — Aortic dissection diagnosis
+
+Sudden chest pain radiating to neck and interscapular region; X-ray shows widened mediastinum; BP is 110/90 in the right arm and 160/100 in the left arm. Most likely diagnosis?
+
+- A. Acute coronary syndrome
+- B. Acute pericarditis
+- C. Aortic dissection
+- D. Aortic aneurysm rupture
+
+<details><summary>Answer</summary>
+
+**C. Aortic dissection** — Intimal tear → false lumen in the media; inter-arm BP differential + widened mediastinum + tearing pain radiating to the back are classic. CT angiography confirms.
+
+</details>
+
+---
+
+### Q247 — Bleeding peptic ulcer
+
+Sudden hematemesis in a patient on aspirin for arthritis with occasional alcohol and intermittent epigastric pain; no abdominal mass, no tenderness, no signs of portal hypertension. Likely diagnosis?
+
+- A. Mallory-Weiss tear
+- B. Esophagitis
+- C. Peptic ulcer
+- D. Esophageal varices
+
+<details><summary>Answer</summary>
+
+**C. Peptic ulcer** — NSAIDs (aspirin) impair mucosal prostaglandin protection → PUD, the commonest cause of upper-GI bleed. Mallory-Weiss follows forceful retching; varices need portal hypertension/cirrhosis stigmata.
+
+</details>
+
+---
+
+### Q248 — Treatment of choice for RCC
+
+Best treatment for a small (<4 cm) renal cell carcinoma confined to the kidney?
+
+- A. Partial nephrectomy
+- B. Partial nephrectomy + neoadjuvant chemotherapy
+- C. Radical nephrectomy
+- D. Radical nephrectomy + postoperative radiotherapy
+
+<details><summary>Answer</summary>
+
+**A. Partial nephrectomy** — Nephron-sparing surgery is the treatment of choice for tumours <4 cm (also bilateral tumours, solitary kidney, pre-existing renal impairment). RCC is radio- and chemo-resistant.
+
+</details>
+
+---
+
+### Q249 — Type III achalasia (Chicago classification)
+
+High-resolution manometry shows massive, simultaneous, high-pressure contractions of the distal oesophagus. Which Chicago type of achalasia?
+
+- A. Type II
+- B. Type I
+- C. Type IV
+- D. Type III
+
+<details><summary>Answer</summary>
+
+**D. Type III** — Spastic achalasia: premature/simultaneous high-amplitude distal oesophageal contractions with failed LES relaxation. (Type I = no contractility; Type II = panoesophageal pressurisation.)
+
+</details>
+
+---
+
+### Q250 — Sialolithiasis
+
+A patient has pain on one side of the neck that worsens with eating; ultrasound shows a stone within Wharton's duct. Diagnosis?
+
+- A. Sialadenitis without stone
+- B. Foreign body
+- C. Sialolithiasis
+- D. Cervical lymphadenopathy
+
+<details><summary>Answer</summary>
+
+**C. Sialolithiasis** — Submandibular gland (viscous secretions, upward-running duct) is the commonest site; mealtime pain/swelling is classic. Most stones are radio-opaque; small stones removed via dormia basket, large ones after lithotripsy.
+
+</details>
+
+---
+
+### Q251 — qSOFA score components
+
+A febrile patient is assessed for risk of poor outcome from infection. Which set of parameters comprises the qSOFA score?
+
+- A. BP, RR and CBC
+- B. PR, RR, GCS score
+- C. RR, body temperature, PR
+- D. SBP, RR, GCS score
+
+<details><summary>Answer</summary>
+
+**D. SBP, RR, GCS score** — qSOFA: systolic BP ≤100 mmHg, respiratory rate ≥22/min, altered mentation (GCS <15); ≥2 points flags higher risk of sepsis/death outside the ICU.
+
+</details>
+
+---
+
+### Q252 — Amebic liver abscess management
+
+A patient with diarrhoea develops a single right-lobe liver abscess (~25 mL) on CT. Next step in management?
+
+- A. PAIR
+- B. Surgery
+- C. Medical therapy (metronidazole)
+- D. Percutaneous drainage
+
+<details><summary>Answer</summary>
+
+**C. Medical therapy (metronidazole)** — Amebic liver abscess responds to metronidazole in >90%, followed by a luminal agent (e.g. paromomycin) for the carrier state. Aspiration is reserved for diagnostic doubt, failure to respond, or large (>5 cm)/left-lobe abscesses.
+
+</details>
+
+---
+
+### Q253 — Direct inguinal hernia: structural weakness
+
+A direct inguinal hernia results from weakness of which structure?
+
+- A. Pectineal ligament
+- B. Conjoint tendon
+- C. Reflected part of inguinal ligament
+- D. Lacunar ligament
+
+<details><summary>Answer</summary>
+
+**B. Conjoint tendon** — Direct hernia bulges through Hesselbach's triangle (medial to inferior epigastric vessels), an area defended only by the conjoint tendon and transversalis fascia; its weakness allows herniation.
+
+</details>
+
+---
+
+### Q254 — Cirsoid aneurysm
+
+A 41-year-old has a tortuous, pulsatile scalp/face swelling with an audible bruit on auscultation. Most likely diagnosis?
+
+- A. Neurofibromatosis
+- B. Liposarcoma
+- C. Cirsoid aneurysm
+- D. Varicocele
+
+<details><summary>Answer</summary>
+
+**C. Cirsoid aneurysm** — A scalp arteriovenous malformation (commonly involving the superficial temporal artery): pulsatile swelling with a bruit. Angiography is the investigation of choice; treat by resection/embolisation/sclerotherapy.
+
+</details>
+
+---
+
+### Q255 — Triphasic arterial Doppler
+
+Sudden-onset leg pain; bedside vascular study shows a triphasic waveform. Which investigation is this?
+
+- A. Digital subtraction angiography
+- B. Ultrasound Doppler
+- C. MR angiography
+- D. Plethysmography
+
+<details><summary>Answer</summary>
+
+**B. Ultrasound Doppler** — A normal peripheral artery gives a triphasic signal (sharp systolic forward flow, brief diastolic reversal, then forward flow). Loss of the triphasic pattern suggests proximal arterial disease.
+
+</details>
+
+---
+
+### Q256 — Intraosseous cannulation
+
+Identify the procedure: a needle is inserted into the anterior proximal tibia to transfuse fluids during resuscitation.
+
+- A. Intraosseous cannula for pain relief
+- B. Bone marrow aspiration
+- C. Intraosseous route for giving IV fluids
+- D. Subcutaneous drainage
+
+<details><summary>Answer</summary>
+
+**C. Intraosseous route for giving IV fluids** — Used when IV access fails (e.g. cardiopulmonary arrest); marrow acts as a non-collapsible venous channel. Site: 1–2 cm anteromedial to the tibial tuberosity. Drug onset approaches the IV route.
+
+</details>
+
 ---

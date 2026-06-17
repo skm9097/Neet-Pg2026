@@ -9,7 +9,7 @@ question-bank/
 ├── ATTRIBUTION.md          Source attribution & use notice
 ├── STUDY-PLAN.md           Suggested study schedule + how to use this repo
 ├── template.md             Schema for adding new questions
-├── subject-wise/           Multi-year pools across all 19 subjects (7,597 Qs)
+├── subject-wise/           Multi-year pools across all 19 subjects (7,616 Qs)
 │   ├── README.md                           (index + counts)
 │   ├── anaesthesia.md       (79 Qs)
 │   ├── anatomy.md           (824 Qs)
@@ -28,8 +28,8 @@ question-bank/
 │   ├── pharmacology.md      (374 Qs)
 │   ├── physiology.md        (563 Qs)
 │   ├── psychiatry.md        (174 Qs)
-│   ├── radiology.md         (102 Qs)
-│   └── surgery.md           (241 Qs)
+│   ├── radiology.md         (106 Qs)
+│   └── surgery.md           (256 Qs)
 ├── 2025/questions.md       199 Qs (full DigiNerve recall set)
 ├── 2024/questions.md       305 Qs (DocTutorials Shift 1+2)
 ├── 2023/questions.md       210 Qs (PrepLadder + Medicoholic PDF)
@@ -45,8 +45,8 @@ question-bank/
 
 **Current totals (as of 2026-06-17, post-cleanup):**
 - **Year-wise:** 6,277 questions across 2015–2025 (all years covered)
-- **Subject-wise:** 7,597 questions across all 19 NBE subjects
-- **Grand total:** ~13,874+ entries (year-wise + subject-wise combined)
+- **Subject-wise:** 7,616 questions across all 19 NBE subjects
+- **Grand total:** ~13,893+ entries (year-wise + subject-wise combined)
 - **Audit results:** 0 within-file duplicates, 0 boilerplate-only explanations, all answer-letter conflicts resolved, sequential Q-numbering verified
 - **Phase 3 cleanup:** 3,311 unique stems (6,487 file locations) had boilerplate `Source: … compilation` replaced with real one-line mechanisms via 125 batched expansions
 
@@ -61,7 +61,7 @@ question-bank/
 | Forensic Medicine | ~200 | 134 |
 | Community Medicine | ~900 | 744 |
 | Medicine | ~1,500 | 602 |
-| Surgery | ~600 | 241 |
+| Surgery | ~600 | 256 |
 | OBG | ~1,600 | 1,063 |
 | Paediatrics | ~300 | 125 |
 | Orthopaedics | ~200 | 121 |
@@ -69,7 +69,7 @@ question-bank/
 | Ophthalmology | ~700 | 281 |
 | Dermatology | ~500 | 221 |
 | Psychiatry | ~400 | 174 |
-| Radiology | ~300 | 102 |
+| Radiology | ~300 | 106 |
 | Anaesthesia | ~100 | 79 |
 
 **Remaining gaps:** 2021 year file relies on DocTutorials + PrepLadder recall; no official answer key PDF found.
