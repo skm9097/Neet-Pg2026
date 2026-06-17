@@ -37,7 +37,7 @@ Neet-Pg2026/
     ├── STUDY-PLAN.md                ← 16-week phased study schedule
     ├── template.md                  ← schema for adding new questions
     │
-    ├── subject-wise/                ← multi-year pools, one file per subject (7,494 Qs total)
+    ├── subject-wise/                ← multi-year pools, one file per subject (7,597 Qs total)
     │   ├── README.md
     │   ├── anaesthesia.md           (79 Qs)
     │   ├── anatomy.md               (824 Qs)
@@ -51,11 +51,11 @@ Neet-Pg2026/
     │   ├── obstetrics-gynaecology.md (1063 Qs)
     │   ├── ophthalmology.md         (281 Qs)
     │   ├── orthopaedics.md          (121 Qs)
-    │   ├── pathology.md             (466 Qs)
+    │   ├── pathology.md             (515 Qs)
     │   ├── pediatrics.md            (125 Qs)
-    │   ├── pharmacology.md          (328 Qs)
-    │   ├── physiology.md            (562 Qs)
-    │   ├── psychiatry.md            (167 Qs)
+    │   ├── pharmacology.md          (374 Qs)
+    │   ├── physiology.md            (563 Qs)
+    │   ├── psychiatry.md            (174 Qs)
     │   ├── radiology.md             (102 Qs)
     │   └── surgery.md               (241 Qs)
     │
@@ -84,8 +84,8 @@ Neet-Pg2026/
 
 **Current totals (as of 2026-06-17, post-Phase-3 cleanup):**
 - Year-wise: 6,277 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
-- Subject-wise: 7,494 questions across all 19 NBE subjects (full year-wise pool merged in; +55 NEET-PG 2018–2023 PYQs added 2026-06-16; +51 more added 2026-06-17)
-- Grand total: ~13,771+ entries across year-wise + subject-wise
+- Subject-wise: 7,597 questions across all 19 NBE subjects (full year-wise pool merged in; +55 NEET-PG 2018–2023 PYQs added 2026-06-16; +51 more added 2026-06-17; +103 path/pharm/physio/psych PYQs added 2026-06-17)
+- Grand total: ~13,874+ entries across year-wise + subject-wise
 - Gap: 2021 (346 Qs after DocTutorials merge; still no answer-keyed official PDF)
 - OBG: 1,063 Qs (most complete subject, extensively expanded)
 - Anatomy: 824 Qs (year-wise 2015+2016 Medicoholic + firstranker.com actual papers merged in)

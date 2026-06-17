@@ -6021,3 +6021,738 @@ HIV patient with MDR-TB. Appropriate regimen?
 ---
 
 ---
+### Q329 — Hydrocortisone replacement dose *(2018)*
+
+The replacement dose of hydrocortisone for chronic adrenal insufficiency is (in mg/day):
+
+- A. 10
+- B. 12
+- C. 20
+- D. 5
+
+<details><summary>Answer</summary>
+
+**C. 20** — Chronic adrenal insufficiency needs glucocorticoid replacement (~15–25 mg oral hydrocortisone/day, midpoint 20 mg) in 2–3 divided doses with half in the morning to mimic circadian cortisol rhythm.
+</details>
+
+---
+
+### Q330 — Drug of choice for scrub typhus *(2018)*
+
+Which of the following is the drug of choice for scrub typhus?
+
+- A. Doxycycline
+- B. Azithromycin
+- C. Chloramphenicol
+- D. Ciprofloxacin
+
+<details><summary>Answer</summary>
+
+**A. Doxycycline** — DOC for scrub typhus (Orientia tsutsugamushi); azithromycin is the preferred alternative in pregnancy and in doxycycline allergy.
+</details>
+
+---
+
+### Q331 — Drug needing coagulation monitoring *(2018)*
+
+Coagulation profile monitoring is needed in therapy with which of the following drugs?
+
+- A. Fondaparinux
+- B. Enoxaparin
+- C. Dabigatran
+- D. Lepirudin
+
+<details><summary>Answer</summary>
+
+**D. Lepirudin** — A direct irreversible thrombin inhibitor with bleeding risk; needs aPTT monitoring and dose adjustment. Fondaparinux, enoxaparin and dabigatran give predictable responses and do not require routine monitoring.
+</details>
+
+---
+
+### Q332 — Atypical antipsychotic causing galactorrhea *(2018)*
+
+Which of the following atypical antipsychotics has the highest risk of galactorrhea?
+
+- A. Iloperidone
+- B. Risperidone
+- C. Clozapine
+- D. Aripiprazole
+
+<details><summary>Answer</summary>
+
+**B. Risperidone** — Risperidone and paliperidone have the highest D2-blocking potency among atypicals, raising prolactin and causing galactorrhea.
+</details>
+
+---
+
+### Q333 — pH = pKa ionization *(2018)*
+
+When the pH = pKa of a drug, which of the following statements is true?
+
+- A. Concentration of the drug is 50% ionic and 50% non-ionic
+- B. Concentration of the drug is 90% ionic and 10% non-ionic
+- C. Concentration of the drug is 75% ionic and 25% non-ionic
+- D. Concentration of the drug is 25% ionic and 75% non-ionic
+
+<details><summary>Answer</summary>
+
+**A. 50% ionic and 50% non-ionic** — pKa is the pH at which a drug is 50% ionized and 50% unionized; small pH changes near the pKa cause large shifts in ionization (Henderson–Hasselbalch).
+</details>
+
+---
+
+### Q334 — Steroid for fetal lung maturation *(2018)*
+
+Corticosteroid indicated for the stimulation of fetal lung maturation in preterm labor is?
+
+- A. Hydrocortisone
+- B. Triamcinolone
+- C. Methylprednisolone
+- D. Betamethasone
+
+<details><summary>Answer</summary>
+
+**D. Betamethasone** — Crosses the placenta readily (low maternal protein binding, little placental metabolism); 2 doses of 12 mg, 24 h apart before 34 weeks. Dexamethasone is the alternative.
+</details>
+
+---
+
+### Q335 — Decreased resorption + increased formation *(2018)*
+
+Which of the following acts by causing both decreased bone resorption and increased bone formation?
+
+- A. Strontium ranelate
+- B. Ibandronate
+- C. Teriparatide
+- D. Calcitonin
+
+<details><summary>Answer</summary>
+
+**A. Strontium ranelate** — Dual action: decreases resorption and increases formation; reserved for severe osteoporosis but restricted due to increased MI/CV risk. Bisphosphonates and calcitonin only reduce resorption; teriparatide only stimulates formation.
+</details>
+
+---
+
+### Q336 — Antimicrobial effective against ESBL *(2018)*
+
+Which of the following antimicrobials is effective against an organism producing extended-spectrum beta-lactamases?
+
+- A. Amoxicillin–clavulanic acid
+- B. Penicillin
+- C. Piperacillin–tazobactam
+- D. Ceftriaxone
+
+<details><summary>Answer</summary>
+
+**C. Piperacillin–tazobactam** — Tazobactam inhibits ESBL and piperacillin has strong activity against Klebsiella/E. coli; carbapenems and quinolones also retain inherent anti-ESBL activity.
+</details>
+
+---
+
+### Q337 — Inhibitor of glucocorticoid synthesis *(2018)*
+
+Which of the following inhibits the synthesis of glucocorticoid?
+
+- A. Mifepristone
+- B. Flutamide
+- C. Finasteride
+- D. Metyrapone
+
+<details><summary>Answer</summary>
+
+**D. Metyrapone** — Reversibly inhibits 11β-hydroxylase, blocking cortisol synthesis; used in the metyrapone test for hypothalamic–pituitary feedback in Cushing syndrome.
+</details>
+
+---
+
+### Q338 — ISDN combination for CHF *(2018)*
+
+Isosorbide dinitrate is indicated for congestive heart failure in combination with which of the following vasodilators?
+
+- A. Minoxidil
+- B. Hydralazine
+- C. Nimodipine
+- D. Nitrendipine
+
+<details><summary>Answer</summary>
+
+**B. Hydralazine** — The ISDN + hydralazine combination reduces preload and afterload and lowers mortality in CHF (notably in African-American patients); hydralazine also reduces nitrate tolerance.
+</details>
+
+---
+
+### Q339 — Mechanism of colchicine *(2018)*
+
+What is the mechanism of action of colchicine?
+
+- A. Inhibits synthesis of uric acid
+- B. Promotes excretion of uric acid
+- C. Inhibits xanthine oxidase enzyme
+- D. Binds to tubulin and inhibits granulocyte migration
+
+<details><summary>Answer</summary>
+
+**D. Binds to tubulin and inhibits granulocyte migration** — Prevents tubulin polymerization into microtubules, blocking leukocyte migration/phagocytosis and arresting cell division; used in gout and familial Mediterranean fever.
+</details>
+
+---
+
+### Q340 — Prasugrel vs clopidogrel *(2018)*
+
+Which of the following statements is true about prasugrel?
+
+- A. It acts as a P2Y12 agonist
+- B. It is 10 times less potent than clopidogrel
+- C. It is a prodrug
+- D. Omeprazole interferes in its activation to an active metabolite
+
+<details><summary>Answer</summary>
+
+**C. It is a prodrug** — Prasugrel is a prodrug and irreversible P2Y12 antagonist, ~10× more potent than clopidogrel with faster onset; omeprazole (a CYP2C19 inhibitor) does not impair its activation.
+</details>
+
+---
+
+### Q341 — Therapeutic index calculation *(2019)*
+
+The therapeutic index of a drug with LD50 = 400 mg and ED50 = 100 mg is:
+
+- A. 1
+- B. 2
+- C. 4
+- D. 8
+
+<details><summary>Answer</summary>
+
+**C. 4** — Therapeutic index = LD50/ED50 = 400/100 = 4; higher TI means a wider margin of safety.
+</details>
+
+---
+
+### Q342 — Competitive antagonist on DRC *(2019)*
+
+On a log dose-response curve, a competitive antagonist produces which change to the agonist curve?
+
+- A. Parallel rightward shift with preserved maximal effect
+- B. Increased potency of the agonist
+- C. Flattening with reduced maximal effect
+- D. Leftward shift of the curve
+
+<details><summary>Answer</summary>
+
+**A. Parallel rightward shift with preserved maximal effect** — Competitive (surmountable) antagonism shifts the DRC right but Emax is unchanged; non-competitive antagonism flattens the curve and lowers Emax.
+</details>
+
+---
+
+### Q343 — Synthetic PGF2α abortifacient *(2019)*
+
+Which of the following is a 15-methyl synthetic PGF2α derivative used as an abortifacient?
+
+- A. Carboprost
+- B. Dinoprostone
+- C. Misoprostol
+- D. Dinoprost
+
+<details><summary>Answer</summary>
+
+**A. Carboprost** — 15-methyl-PGF2α used as an abortifacient and for refractory PPH. Dinoprost is natural PGF2α, dinoprostone is PGE2, misoprostol is a PGE1 analog.
+</details>
+
+---
+
+### Q344 — Most effective antiemetic for CINV *(2019)*
+
+Most effective antiemetic for chemotherapy-induced vomiting is:
+
+- A. Domperidone
+- B. Tegaserod
+- C. Granisetron
+- D. Doxylamine
+
+<details><summary>Answer</summary>
+
+**C. Granisetron** — 5-HT3 receptor antagonists are most effective for chemotherapy-induced and post-operative nausea/vomiting; palonosetron (2nd-gen) is longest-acting and best for delayed emesis.
+</details>
+
+---
+
+### Q345 — Teduglutide *(2019)*
+
+True statement about teduglutide is:
+
+- A. It is a GLP-2 analogue
+- B. Its half-life is 6–8 hours
+- C. It is administered orally
+- D. It is recommended for patients with colorectal cancer
+
+<details><summary>Answer</summary>
+
+**A. It is a GLP-2 analogue** — Approved for short bowel syndrome; given subcutaneously once daily (t½ 1–2 h); contraindicated in active malignancy due to risk of bowel cancer.
+</details>
+
+---
+
+### Q346 — Cisatracurium over atracurium *(2019)*
+
+Cisatracurium is preferred over atracurium because:
+
+- A. It has rapid onset of action
+- B. It has less depressant action on heart
+- C. It has short duration of action
+- D. It causes less release of histamine
+
+<details><summary>Answer</summary>
+
+**D. It causes less release of histamine** — Cisatracurium triggers minimal histamine release (better cardiovascular stability); onset is actually slower, and duration/cardiac effects are similar to atracurium.
+</details>
+
+---
+
+### Q347 — Fluoroquinolone with maximum bioavailability *(2019)*
+
+Which of the following fluoroquinolones has maximum bioavailability?
+
+- A. Ciprofloxacin
+- B. Levofloxacin
+- C. Gatifloxacin
+- D. Norfloxacin
+
+<details><summary>Answer</summary>
+
+**B. Levofloxacin** — Levofloxacin (and ofloxacin) have ~99% oral bioavailability, so IV and oral doses are interchangeable.
+</details>
+
+---
+
+### Q348 — Mechanism of triazoles *(2019)*
+
+What is the mechanism of action of triazoles?
+
+- A. Interferes with DNA and RNA synthesis
+- B. Inhibition of ergosterol synthesis
+- C. Forms pores in fungal membranes
+- D. Inhibits epoxidation of squalene in fungi
+
+<details><summary>Answer</summary>
+
+**B. Inhibition of ergosterol synthesis** — Azoles inhibit fungal CYP450 14-α-sterol demethylase, blocking conversion of lanosterol to ergosterol and depleting membrane ergosterol.
+</details>
+
+---
+
+### Q349 — Acitretin counselling *(2019)*
+
+Regarding acitretin in psoriasis, which statement is FALSE?
+
+- A. Contraindicated in persons with hyperlipidemia
+- B. It can cause increased sensitivity to sunlight
+- C. Female patients should avoid getting pregnant for 6 months after therapy
+- D. Acitretin has a half-life of about 50 hours
+
+<details><summary>Answer</summary>
+
+**C. Avoid pregnancy for 6 months after therapy** — FALSE: women must avoid conception for 3 years after stopping acitretin (retinoid embryopathy risk); contrast with 1 month for isotretinoin.
+</details>
+
+---
+
+### Q350 — Cilastatin prolongs which drug *(2019)*
+
+Cilastatin is administered to prolong the action of which of the following drugs?
+
+- A. Meropenem
+- B. Imipenem
+- C. Cefazolin
+- D. Piperacillin
+
+<details><summary>Answer</summary>
+
+**B. Imipenem** — Cilastatin inhibits renal dehydropeptidase-1, preventing imipenem breakdown; meropenem is stable to this enzyme and needs no cilastatin.
+</details>
+
+---
+
+### Q351 — Drug to test myasthenia gravis *(2019)*
+
+What is the drug used to differentiate myasthenia gravis from cholinergic crisis?
+
+- A. Obidoxime
+- B. Edrophonium
+- C. Donepezil
+- D. Atropine
+
+<details><summary>Answer</summary>
+
+**B. Edrophonium** — Short-acting anti-ChE; transiently improves weakness in myasthenia gravis but worsens it in cholinergic crisis (edrophonium/Tensilon test).
+</details>
+
+---
+
+### Q352 — Pegfilgrastim caution *(2019)*
+
+Which of the following is true about pegylated filgrastim?
+
+- A. Duration of action is shorter than normal filgrastim
+- B. It can be taken orally
+- C. It should not be administered in sickle cell patients
+- D. It is not effective in the treatment of severe neutropenia
+
+<details><summary>Answer</summary>
+
+**C. Should not be given in sickle cell patients** — Pegfilgrastim (long-acting recombinant G-CSF, given SC/IV) can trigger sickle cell crisis; used for chemotherapy- and congenital neutropenias.
+</details>
+
+---
+
+### Q353 — Treatment of chronic SIADH *(2019)*
+
+The best approach in the treatment of chronic SIADH is:
+
+- A. Tolvaptan
+- B. Reducing fluid intake to <500 mL per day
+- C. Demeclocycline
+- D. Fludrocortisone
+
+<details><summary>Answer</summary>
+
+**A. Tolvaptan** — A selective V2 receptor antagonist (vaptan) that increases free water excretion by blocking the antidiuretic effect of AVP; preferred for chronic SIADH.
+</details>
+
+---
+
+### Q354 — Mannitol indication *(2019)*
+
+Intravenous mannitol is used in:
+
+- A. Pulmonary edema
+- B. Congestive cardiac failure
+- C. Acute kidney injury with anuria
+- D. Glaucoma
+
+<details><summary>Answer</summary>
+
+**D. Glaucoma** — Osmotic diuretic used for acute angle-closure glaucoma and to reduce raised ICP/cerebral edema; contraindicated in pulmonary edema, CHF and anuric AKI.
+</details>
+
+---
+
+### Q355 — Carbapenem causing seizures *(2019)*
+
+Which of the following carbapenems has increased risk of causing seizures?
+
+- A. Meropenem
+- B. Imipenem
+- C. Ertapenem
+- D. Doripenem
+
+<details><summary>Answer</summary>
+
+**B. Imipenem** — Highest seizure risk among carbapenems, especially with high doses, CNS lesions or renal impairment; dose adjustment is needed in renal failure.
+</details>
+
+---
+
+### Q356 — Maintaining patency of ductus arteriosus *(2019)*
+
+Which of the following helps in maintaining the patency of ductus arteriosus?
+
+- A. PGF2α
+- B. PGE1
+- C. PGH2
+- D. PGI2
+
+<details><summary>Answer</summary>
+
+**B. PGE1** — Alprostadil (PGE1) keeps the ductus patent in duct-dependent cyanotic CHD awaiting surgery; indomethacin/ibuprofen close a PDA in premature infants.
+</details>
+
+---
+
+### Q357 — Drug inhibiting late sodium current *(2020)*
+
+Which of the following drugs acts by inhibiting the late sodium current in the heart?
+
+- A. Ivabradine
+- B. Ranolazine
+- C. Trimetazidine
+- D. Fasudil
+
+<details><summary>Answer</summary>
+
+**B. Ranolazine** — Inhibits late Na⁺ current, lowering Na⁺/Ca²⁺-exchanger-mediated calcium entry and diastolic tension; used for prophylaxis of angina. Ivabradine blocks funny current, trimetazidine is a pFOX inhibitor, fasudil a rho-kinase inhibitor.
+</details>
+
+---
+
+### Q358 — Drug for motion sickness *(2020)*
+
+Which of the following drugs is used for the treatment of motion sickness?
+
+- A. Cetirizine
+- B. Promethazine
+- C. Mizolastine
+- D. Loratadine
+
+<details><summary>Answer</summary>
+
+**B. Promethazine** — A first-generation (sedating) H1 antihistamine with central anticholinergic activity responsible for its antiemetic/anti-motion-sickness effect; the others are non-sedating and ineffective.
+</details>
+
+---
+
+### Q359 — First-line for postmenopausal osteoporosis *(2020)*
+
+Which of the following is used in the first-line management of postmenopausal osteoporosis?
+
+- A. Estrogen
+- B. Bisphosphonates
+- C. Raloxifene
+- D. Combined oral contraceptives
+
+<details><summary>Answer</summary>
+
+**B. Bisphosphonates** — Pyrophosphate analogs that inhibit osteoclast-mediated bone resorption and induce osteoclast apoptosis; first-line for postmenopausal osteoporosis.
+</details>
+
+---
+
+### Q360 — Mechanism of β-lactamase resistance *(2020)*
+
+What is the mechanism of resistance by β-lactamases to β-lactam antibiotics?
+
+- A. Alteration of penicillin binding protein
+- B. Degradation of antibiotics
+- C. Drug efflux
+- D. Alteration in 50S ribosome structure
+
+<details><summary>Answer</summary>
+
+**B. Degradation of antibiotics** — β-lactamases hydrolyze the β-lactam ring, inactivating the drug; PBP alteration, efflux and reduced permeability are separate resistance mechanisms.
+</details>
+
+---
+
+### Q361 — Inhibitor of RNA synthesis *(2020)*
+
+Which of the following is an inhibitor of RNA synthesis?
+
+- A. 5-Fluorouracil
+- B. Rifampicin
+- C. Nitrofurantoin
+- D. Novobiocin
+
+<details><summary>Answer</summary>
+
+**B. Rifampicin** — Binds the β-subunit of bacterial DNA-dependent RNA polymerase (rpoB), suppressing RNA chain initiation. 5-FU inhibits thymidylate synthase; novobiocin inhibits DNA gyrase.
+</details>
+
+---
+
+### Q362 — Fluoroquinolone avoided in liver disease *(2020)*
+
+Which of the following fluoroquinolones is not given in liver disease?
+
+- A. Pefloxacin
+- B. Levofloxacin
+- C. Ciprofloxacin
+- D. Norfloxacin
+
+<details><summary>Answer</summary>
+
+**A. Pefloxacin** — Predominantly hepatically metabolized (like moxifloxacin), so avoided in liver disease; ciprofloxacin, levofloxacin, norfloxacin and ofloxacin are mainly renally excreted.
+</details>
+
+---
+
+### Q363 — Drug with highest potency on DRC *(2020)*
+
+On a log dose-response curve of three drugs A, B and C, the drug whose curve lies farthest to the left has:
+
+- A. The highest potency
+- B. The highest efficacy
+- C. The lowest affinity
+- D. The widest therapeutic index
+
+<details><summary>Answer</summary>
+
+**A. The highest potency** — The more leftward the DRC, the lower the dose needed for a given response, i.e. greater potency; the perpendicular height (Emax) represents efficacy, a separate property.
+</details>
+
+---
+
+### Q364 — Analgesic aggravating biliary colic *(2020)*
+
+A patient with biliary colic was given an analgesic, after which the pain worsened. Which drug is responsible?
+
+- A. Morphine
+- B. Diclofenac
+- C. Nefopam
+- D. Etoricoxib
+
+<details><summary>Answer</summary>
+
+**A. Morphine** — Constricts the sphincter of Oddi, raising biliary pressure and worsening biliary colic; pethidine causes less spasm and is preferred.
+</details>
+
+---
+
+### Q365 — Tolvaptan side effect in ADPKD *(2020)*
+
+A patient with ADPKD on tolvaptan develops dry mouth and increased thirst. What is the likely cause?
+
+- A. Increased free water clearance
+- B. V2 receptor agonism
+- C. Increased renal cAMP levels
+- D. Increase in urine osmolality
+
+<details><summary>Answer</summary>
+
+**A. Increased free water clearance** — Tolvaptan (V2 antagonist) lowers renal cAMP and aquaporin-2 insertion, increasing free water excretion → dehydration, dry mouth and thirst; used to slow ADPKD progression.
+</details>
+
+---
+
+### Q366 — Rifampicin and oral contraceptives *(2021)*
+
+A woman on OCPs started on antitubercular therapy is advised an additional barrier method. The reason is:
+
+- A. Teratogenicity of ATT
+- B. Failure of ATT
+- C. Rifampicin inhibits OCP metabolism
+- D. Rifampicin induces OCP metabolism causing contraceptive failure
+
+<details><summary>Answer</summary>
+
+**D. Rifampicin induces OCP metabolism causing contraceptive failure** — Rifampicin is a potent CYP450 inducer that accelerates OCP metabolism, reducing efficacy; a barrier method is advised.
+</details>
+
+---
+
+### Q367 — Indomethacin effect on fetus *(2021)*
+
+A pregnant woman was prescribed indomethacin. Which effect does the drug have on the fetus?
+
+- A. Premature closure of ductus arteriosus
+- B. Keeps ductus arteriosus patent
+- C. Closure of foramen ovale
+- D. Premature closure of ductus venosus
+
+<details><summary>Answer</summary>
+
+**A. Premature closure of ductus arteriosus** — As a nonselective COX inhibitor, indomethacin reduces prostaglandins that keep the ductus open; given antenatally it can close the fetal ductus prematurely.
+</details>
+
+---
+
+### Q368 — Prescribing alprazolam *(2021)*
+
+As a medical practitioner in India, how should alprazolam be prescribed?
+
+- A. 1 mg OD before bedtime for 7 days
+- B. ½ mg HS for 7 days
+- C. 0.5 mg BD for 7 days
+- D. 0.5 mg daily before bedtime for 7 days
+
+<details><summary>Answer</summary>
+
+**D. 0.5 mg daily before bedtime for 7 days** — Prescriptions should use generic names, metric doses and avoid Latin abbreviations; the dose, frequency and duration must be written in full.
+</details>
+
+---
+
+### Q369 — Drug for metoclopramide-induced dystonia *(2021)*
+
+A patient given an IV antiemetic for vomiting developed abnormal movements. Which drug can be used to treat him?
+
+- A. Hyoscine
+- B. Cyproheptadine
+- C. Levodopa
+- D. Benzhexol
+
+<details><summary>Answer</summary>
+
+**D. Benzhexol** — Acute dystonia from metoclopramide (a D2 antagonist) is treated with a central anticholinergic such as benzhexol (trihexyphenidyl), which restores striatal cholinergic balance.
+</details>
+
+---
+
+### Q370 — Dosing rate formula *(2021)*
+
+The maintenance dosing rate of a drug is based on which formula?
+
+- A. Clearance × plasma concentration
+- B. Clearance / plasma concentration
+- C. Clearance × loading dose
+- D. Clearance / loading dose
+
+<details><summary>Answer</summary>
+
+**A. Clearance × plasma concentration** — At steady state, dosing rate = clearance × target steady-state plasma concentration (input balances elimination).
+</details>
+
+---
+
+### Q371 — Drug raising digoxin levels *(2021)*
+
+A patient on digoxin, KCl, clarithromycin, atenolol and triamterene develops digoxin toxicity with raised serum levels. Which drug is responsible?
+
+- A. Potassium chloride
+- B. Clarithromycin
+- C. Atenolol
+- D. Triamterene
+
+<details><summary>Answer</summary>
+
+**B. Clarithromycin** — Inhibits P-glycoprotein-mediated digoxin clearance, raising serum digoxin levels and precipitating toxicity.
+</details>
+
+---
+
+### Q372 — Mechanism of methotrexate *(2021)*
+
+What is the mechanism of action of methotrexate in osteosarcoma?
+
+- A. Analog of UMP
+- B. Competitive inhibitor of dihydrofolate reductase
+- C. Blocks purine synthesis only
+- D. Crosslinks DNA
+
+<details><summary>Answer</summary>
+
+**B. Competitive inhibitor of dihydrofolate reductase** — Inhibits DHFR, depleting tetrahydrofolate and blocking thymidylate/purine synthesis; folinic acid (leucovorin) rescues normal cells.
+</details>
+
+---
+
+### Q373 — Metronidazole and alcohol *(2021)*
+
+What should not be consumed by patients on metronidazole for bacterial vaginosis/trichomoniasis?
+
+- A. Grapefruit juice
+- B. Alcohol
+- C. Benzodiazepines
+- D. MAOI/SSRI
+
+<details><summary>Answer</summary>
+
+**B. Alcohol** — Metronidazole inhibits aldehyde dehydrogenase, producing a disulfiram-like reaction (flushing, headache, nausea, tachycardia) when alcohol is taken.
+</details>
+
+---
+
+### Q374 — Analgesic in chronic kidney disease *(2021)*
+
+A CKD patient post-nephrectomy needs a postoperative analgesic. Which can be administered?
+
+- A. Naproxen
+- B. Indomethacin
+- C. Diclofenac
+- D. Acetaminophen
+
+<details><summary>Answer</summary>
+
+**D. Acetaminophen** — Least nephrotoxic option and the preferred non-narcotic analgesic in CKD; NSAIDs reduce renal perfusion and are avoided. For severe pain, tramadol/fentanyl are used.
+</details>
+
+---
