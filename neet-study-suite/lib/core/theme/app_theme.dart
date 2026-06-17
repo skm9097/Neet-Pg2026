@@ -15,6 +15,11 @@ class AppTheme {
   static bool get isDark => _brightness == Brightness.dark;
   static void setBrightness(Brightness b) => _brightness = b;
 
+  /// Call at the top of any screen's build() to keep the static in sync with
+  /// the current widget-tree theme (handles dark/light correctly on every rebuild).
+  static void syncFrom(BuildContext context) =>
+      setBrightness(Theme.of(context).brightness);
+
   static Color _pick(Color light, Color dark) => isDark ? dark : light;
 
   // ---- Brand accents --------------------------------------------------------

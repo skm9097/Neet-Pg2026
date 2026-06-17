@@ -72,6 +72,7 @@ class SoftCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    AppTheme.syncFrom(context);
     final card = AnimatedContainer(
       duration: const Duration(milliseconds: 250),
       curve: Curves.easeOut,

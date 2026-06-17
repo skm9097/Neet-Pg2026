@@ -60,6 +60,7 @@ class _FlashcardsScreenState extends State<FlashcardsScreen>
 
   @override
   Widget build(BuildContext context) {
+    AppTheme.syncFrom(context);
     return Scaffold(
       body: Column(
         children: [

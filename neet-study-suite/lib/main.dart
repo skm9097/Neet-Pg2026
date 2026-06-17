@@ -69,13 +69,11 @@ class _NeetStudySuiteAppState extends State<NeetStudySuiteApp>
 
   @override
   Widget build(BuildContext context) {
-    final brightness = _effectiveBrightness();
-    // Resolve AppTheme statics to the active palette before building.
-    AppTheme.setBrightness(brightness);
-
     return MaterialApp(
       title: 'NEET-PG Study Suite',
-      theme: AppTheme.themeFor(brightness),
+      theme: AppTheme.themeFor(Brightness.light),
+      darkTheme: AppTheme.themeFor(Brightness.dark),
+      themeMode: _settings.themeMode,
       debugShowCheckedModeBanner: false,
       home: HomeScreen(gemini: widget.gemini, tts: widget.tts),
     );

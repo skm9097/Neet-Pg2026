@@ -121,6 +121,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
 
   @override
   Widget build(BuildContext context) {
+    AppTheme.syncFrom(context);
     return Scaffold(
       backgroundColor: AppTheme.surface,
       body: Column(
@@ -184,7 +185,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
                 const SizedBox(height: 24),
                 Center(
-                  child: Text('NEET-PG Study Suite v1.6.0',
+                  child: Text('NEET-PG Study Suite v1.7.0',
                     style: TextStyle(color: AppTheme.inkFaint, fontSize: 12)),
                 ),
               ],

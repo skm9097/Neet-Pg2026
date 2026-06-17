@@ -50,6 +50,7 @@ class _QBankScreenState extends State<QBankScreen>
 
   @override
   Widget build(BuildContext context) {
+    AppTheme.syncFrom(context);
     return Scaffold(
       backgroundColor: AppTheme.surface,
       body: Column(

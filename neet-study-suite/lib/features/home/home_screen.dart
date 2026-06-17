@@ -82,6 +82,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
+    AppTheme.syncFrom(context);
     return Scaffold(
       backgroundColor: AppTheme.surface,
       body: _buildDashboard(),

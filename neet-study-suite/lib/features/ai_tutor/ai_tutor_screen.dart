@@ -72,6 +72,7 @@ class _AiTutorScreenState extends State<AiTutorScreen> {
 
   @override
   Widget build(BuildContext context) {
+    AppTheme.syncFrom(context);
     return Scaffold(
       backgroundColor: AppTheme.surface,
       body: Column(
@@ -385,14 +386,16 @@ class _MarkdownResponse extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    AppTheme.syncFrom(context);
     return MarkdownBody(
       data: text,
       selectable: true,
-      styleSheet: MarkdownStyleSheet(
-        p: TextStyle(color: AppTheme.ink, fontSize: 14.5, height: 1.6),
+      fitContent: false,
+      styleSheet: MarkdownStyleSheet.fromTheme(Theme.of(context)).copyWith(
+        p: TextStyle(color: AppTheme.ink, fontSize: 14.5, height: 1.65),
         h1: TextStyle(color: AppTheme.ink, fontSize: 19, fontWeight: FontWeight.w800, height: 1.4),
         h2: TextStyle(color: AppTheme.ink, fontSize: 17, fontWeight: FontWeight.w700, height: 1.4),
-        h3: TextStyle(color: AppTheme.ink, fontSize: 15, fontWeight: FontWeight.w700, height: 1.4),
+        h3: TextStyle(color: AppTheme.primary, fontSize: 15, fontWeight: FontWeight.w700, height: 1.4),
         h4: TextStyle(color: AppTheme.inkSoft, fontSize: 14, fontWeight: FontWeight.w600),
         strong: TextStyle(color: AppTheme.ink, fontWeight: FontWeight.w700),
         em: TextStyle(color: AppTheme.inkSoft, fontStyle: FontStyle.italic),
@@ -414,7 +417,7 @@ class _MarkdownResponse extends StatelessWidget {
         ),
         blockquotePadding: const EdgeInsets.fromLTRB(12, 8, 12, 8),
         blockquote: TextStyle(color: AppTheme.inkSoft, fontSize: 14, height: 1.5),
-        listBullet: TextStyle(color: AppTheme.primary, fontSize: 14),
+        listBullet: TextStyle(color: AppTheme.primary, fontSize: 15),
         tableHead: TextStyle(color: AppTheme.ink, fontWeight: FontWeight.w700, fontSize: 13),
         tableBody: TextStyle(color: AppTheme.ink, fontSize: 13),
         tableBorder: TableBorder.all(color: AppTheme.line, width: 1),
@@ -426,8 +429,9 @@ class _MarkdownResponse extends StatelessWidget {
         h1Padding: const EdgeInsets.only(top: 8, bottom: 4),
         h2Padding: const EdgeInsets.only(top: 6, bottom: 2),
         h3Padding: const EdgeInsets.only(top: 4, bottom: 2),
-        blockSpacing: 8,
-        listIndent: 16,
+        blockSpacing: 10,
+        listIndent: 20,
+        listBulletPadding: const EdgeInsets.only(right: 6),
       ),
     );
   }
