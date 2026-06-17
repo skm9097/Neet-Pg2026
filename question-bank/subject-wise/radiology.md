@@ -1790,3 +1790,71 @@ CXR shows right-sided findings. Most appropriate diagnosis?
 ---
 
 ---
+
+### Q103 — MRA / Vein of Galen malformation
+
+A child presents with a left-to-right shunt and high-output cardiac failure. MR angiography is shown. What is the most likely diagnosis?
+
+- A. Vein of Galen malformation
+- B. Dandy-Walker syndrome
+- C. Pneumocephalus
+- D. Dural venous sinus thrombosis
+
+<details><summary>Answer</summary>
+
+**A. Vein of Galen malformation** — Aneurysmal dilatation of the median prosencephalic vein creates an arteriovenous shunt; presents in neonates/infants with high-output cardiac failure.
+
+</details>
+
+---
+
+### Q104 — Liver scan / Hepatic adenoma
+
+A young woman on long-term oral contraceptive pills undergoes liver imaging for a focal lesion. The most likely diagnosis is?
+
+- A. Hepatocellular carcinoma
+- B. Metastatic infiltrates
+- C. Hepatic adenoma
+- D. Haemangioma
+
+<details><summary>Answer</summary>
+
+**C. Hepatic adenoma** — Strongly associated with oral contraceptive use in young women; risk of haemorrhage and (rarely) malignant transformation warrants resection.
+
+</details>
+
+---
+
+### Q105 — CXR / Coarctation of aorta
+
+A 30-year-old woman presents with hypertension, chest pain, and cramping of the legs. Chest radiograph shows a figure-3 sign and rib notching. What is the likely cause of her hypertension?
+
+- A. Coarctation of aorta
+- B. Essential hypertension
+- C. Aortic aneurysm
+- D. Aortoarteritis
+
+<details><summary>Answer</summary>
+
+**A. Coarctation of aorta** — Figure-3 sign (pre- and post-stenotic aortic dilatation) and inferior rib notching (collateral intercostal arteries); upper-limb hypertension with lower-limb claudication.
+
+</details>
+
+---
+
+### Q106 — Brachytherapy / Inverse square law
+
+A woman with endometrial carcinoma is undergoing brachytherapy. Which of the following statements is true?
+
+- A. Radiation intensity is inversely proportional to the square of the distance from the source
+- B. Small blood vessels are radioresistant
+- C. Rapidly proliferating cells are most radioresistant
+- D. Intestinal mucosa is the most radioresistant tissue
+
+<details><summary>Answer</summary>
+
+**A. Radiation intensity is inversely proportional to the square of the distance from the source** — Inverse square law governs dose fall-off in brachytherapy; rapidly proliferating tissues are in fact the most radiosensitive (Bergonié-Tribondeau).
+
+</details>
+
+---
