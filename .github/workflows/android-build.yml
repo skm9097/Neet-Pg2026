@@ -5,7 +5,9 @@ name: Build Android APK
 # Triggers:
 #   - push to the dev / main branches that touches the app source
 #   - any tag like v1.6.0  → also publishes a GitHub Release with the APK attached
-#   - manual run from the Actions tab (workflow_dispatch)
+#   - manual run from the Actions tab (workflow_dispatch); tick "publish_release"
+#     to cut a GitHub Release (tag is derived from pubspec.yaml's version) when a
+#     tag push isn't possible.
 #
 # The release build signs with the debug keystore (see android/app/build.gradle.kts),
 # so the APK is installable by sideloading — fine for personal use. Swap in a real
@@ -22,6 +24,11 @@ on:
     tags:
       - 'v*'
   workflow_dispatch:
+    inputs:
+      publish_release:
+        description: 'Publish a GitHub Release (tag taken from pubspec version)'
+        type: boolean
+        default: false
 
 # Needed so the release job can create/upload a GitHub Release on tag pushes.
 permissions:
@@ -69,6 +76,16 @@ jobs:
         continue-on-error: true
         run: flutter analyze
 
+      # Reads the version (e.g. 1.7.0) from pubspec.yaml so the release tag /
+      # name and APK filename can carry it without hardcoding.
+      - name: Read app version
+        id: ver
+        working-directory: ${{ env.APP_DIR }}
+        run: |
+          V=$(grep '^version:' pubspec.yaml | sed 's/version:[[:space:]]*//' | cut -d'+' -f1)
+          echo "version=$V" >> "$GITHUB_OUTPUT"
+          echo "Detected app version: $V"
+
       - name: Build release APK
         working-directory: ${{ env.APP_DIR }}
         run: flutter build apk --release
@@ -76,15 +93,20 @@ jobs:
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
-          name: neet-study-suite-release-apk
+          name: neet-study-suite-v${{ steps.ver.outputs.version }}-apk
           path: ${{ env.APP_DIR }}/build/app/outputs/flutter-apk/app-release.apk
           if-no-files-found: error
           retention-days: 30
 
-      # On a version tag (v*), publish a GitHub Release with the APK attached.
+      # Publishes a GitHub Release with the APK attached, either:
+      #   - on a version tag push (v*), or
+      #   - on a manual run with publish_release ticked (action-gh-release
+      #     creates the v<version> tag at this commit for us).
       - name: Publish GitHub Release
-        if: startsWith(github.ref, 'refs/tags/v')
+        if: ${{ startsWith(github.ref, 'refs/tags/v') || (github.event_name == 'workflow_dispatch' && inputs.publish_release) }}
         uses: softprops/action-gh-release@v2
         with:
+          tag_name: ${{ startsWith(github.ref, 'refs/tags/v') && github.ref_name || format('v{0}', steps.ver.outputs.version) }}
+          name: ${{ startsWith(github.ref, 'refs/tags/v') && github.ref_name || format('v{0}', steps.ver.outputs.version) }}
           files: ${{ env.APP_DIR }}/build/app/outputs/flutter-apk/app-release.apk
           generate_release_notes: true
