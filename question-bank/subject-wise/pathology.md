@@ -8631,4 +8631,837 @@ Which translocation is characteristically associated with AML M3?
 
 ---
 
+### Q467 — Extragonadal germ cell tumour: most common site
+
+What is the most common site for an extragonadal germ cell tumour?
+
+- A. Pineal gland
+- B. Retroperitoneum
+- C. Sacrococcygeal region
+- D. Mediastinum
+
+<details><summary>Answer</summary>
+
+**D. Mediastinum** — Mediastinum (50–70%) is the commonest extragonadal GCT site, followed by retroperitoneum, pineal gland, and sacrococcygeal area.
+
+</details>
+
+---
+
+### Q468 — Miliary tuberculosis
+
+A lung shows numerous small (~2 mm) yellow-white foci of consolidation scattered diffusely through the parenchyma, resembling millet seeds. Identify the condition.
+
+- A. Emphysema
+- B. Miliary tuberculosis
+- C. Sarcoidosis
+- D. Asbestosis
+
+<details><summary>Answer</summary>
+
+**B. Miliary tuberculosis** — Haematogenous dissemination of M. tuberculosis; "miliary" foci resemble millet seeds. Mantoux is often negative.
+
+</details>
+
+---
+
+### Q469 — Cardiac transplantation: main long-term limitation
+
+What is the single most important long-term limitation of cardiac transplantation?
+
+- A. Allograft rejection
+- B. Allograft arteriopathy
+- C. Infection
+- D. Malignancy
+
+<details><summary>Answer</summary>
+
+**B. Allograft arteriopathy** — Late, progressive, diffuse stenosing intimal proliferation of coronary arteries → silent MI (denervated heart), heart failure, sudden death.
+
+</details>
+
+---
+
+### Q470 — Agranulocytosis: commonest cause
+
+What is the most common cause of agranulocytosis?
+
+- A. Marrow infiltration
+- B. Autoimmune
+- C. Drug toxicity
+- D. Radiation exposure
+
+<details><summary>Answer</summary>
+
+**C. Drug toxicity** — Drug-induced immunological/toxic injury to neutrophil precursors is the leading cause of agranulocytosis.
+
+</details>
+
+---
+
+### Q471 — Carcinoma of pancreas: feature except
+
+All are characteristic features of pancreatic carcinoma except:
+
+- A. Cigarette smoking is a risk factor
+- B. Carcinoma of body of pancreas often presents with jaundice
+- C. It elicits an intense desmoplastic response
+- D. Perineural invasion is common
+
+<details><summary>Answer</summary>
+
+**B. Carcinoma of body of pancreas often presents with jaundice** — Only head-of-pancreas tumours obstruct the biliary tract (Courvoisier's law); body/tail tumours stay asymptomatic and do not cause jaundice.
+
+</details>
+
+---
+
+### Q472 — Carcinoma bladder: most consistent feature
+
+The most consistent and persistent clinical feature of bladder carcinoma is:
+
+- A. Painless hematuria
+- B. Painful hematuria
+- C. Dysuria
+- D. Suprapubic mass
+
+<details><summary>Answer</summary>
+
+**A. Painless hematuria** — Classical and often the only manifestation of urothelial bladder carcinoma.
+
+</details>
+
+---
+
+### Q473 — Fever during inflammation: not a cause
+
+Fever occurs during inflammation due to all except:
+
+- A. IL-1
+- B. Prostaglandins
+- C. TNF
+- D. Histamine
+
+<details><summary>Answer</summary>
+
+**D. Histamine** — Histamine mediates the vascular events of inflammation, not fever. Endogenous pyrogens are IL-1, TNF and prostaglandins (PGE2 resets the hypothalamic set-point).
+
+</details>
+
+---
+
+### Q474 — Factor V Leiden
+
+Leiden mutation occurs in which clotting factor?
+
+- A. Factor V
+- B. Factor VIII
+- C. Factor I
+- D. Factor X
+
+<details><summary>Answer</summary>
+
+**A. Factor V** — Factor V Leiden (point mutation) renders factor Va resistant to protein C cleavage; commonest inherited cause of hypercoagulability.
+
+</details>
+
+---
+
+### Q475 — Papillary renal tumour: malignant potential
+
+Which is the most important determinant of malignant potential in the papillary type of renal tumour?
+
+- A. Immunohistology
+- B. Size
+- C. Cytogenetics
+- D. Part of kidney involved
+
+<details><summary>Answer</summary>
+
+**B. Size** — Papillary renal adenoma (≤1.5 cm) vs papillary RCC (>1.5 cm); tumour size determines malignant potential.
+
+</details>
+
+---
+
+### Q476 — Osteoblastic skeletal metastases
+
+Predominantly osteoblastic (bone-forming) secondaries are seen in:
+
+- A. Prostate carcinoma
+- B. Breast carcinoma
+- C. Stomach carcinoma
+- D. Bone carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Prostate carcinoma** — Prostatic adenocarcinoma metastases are predominantly blastic; kidney, lung, GI and melanoma produce lytic lesions.
+
+</details>
+
+---
+
+### Q477 — Alpha-1 antitrypsin: enzyme inhibited
+
+α1-antitrypsin is the major inhibitor of which enzyme?
+
+- A. Catalase
+- B. Collagenase
+- C. Elastase
+- D. Phospholipase
+
+<details><summary>Answer</summary>
+
+**C. Elastase** — α1-AT (a serpin) inhibits neutrophil elastase; its deficiency causes panacinar emphysema and liver disease.
+
+</details>
+
+---
+
+### Q478 — Barrett's oesophagus: false statement
+
+All are true about Barrett's oesophagus except:
+
+- A. Complication of chronic GERD
+- B. Seen in ~10% of individuals with symptomatic GERD
+- C. Increases risk of squamous cell carcinoma
+- D. Shows intestinal metaplasia
+
+<details><summary>Answer</summary>
+
+**C. Increases risk of squamous cell carcinoma** — Barrett's (goblet-cell intestinal metaplasia) increases the risk of oesophageal **adenocarcinoma**, not SCC.
+
+</details>
+
+---
+
+### Q479 — Down syndrome: associated neurodegeneration
+
+Which disease is most commonly associated with Down's syndrome?
+
+- A. Parkinson disease
+- B. Alzheimer's disease
+- C. Schizophrenia
+- D. Huntington's disease
+
+<details><summary>Answer</summary>
+
+**B. Alzheimer's disease** — Chromosome 21 carries APP; Down patients develop early Alzheimer changes in their 30s–40s.
+
+</details>
+
+---
+
+### Q480 — Modified Duke criteria: major criterion
+
+Which statement is true regarding the modified Duke criteria for infective endocarditis?
+
+- A. Single positive blood culture for HACEK group is a major criterion
+- B. Single positive blood culture for Coxiella burnetii is a major criterion
+- C. Complete dehiscence of a prosthetic valve is a minor criterion
+- D. Four minor criteria allow a clinical diagnosis
+
+<details><summary>Answer</summary>
+
+**B. Single positive blood culture for Coxiella burnetii is a major criterion** — A single positive culture (or phase I IgG titre) for Coxiella is a major Duke criterion (unlike most organisms needing persistent positivity).
+
+</details>
+
+---
+
+### Q481 — Flask-shaped colonic ulcers
+
+Flask-shaped ulcers in the colon are caused by:
+
+- A. Entamoeba histolytica
+- B. Giardia lamblia
+- C. Helicobacter pylori
+- D. Enterobius vermicularis
+
+<details><summary>Answer</summary>
+
+**A. Entamoeba histolytica** — Trophozoites burrow into the lamina propria producing classic narrow-necked, broad-based flask-shaped ulcers.
+
+</details>
+
+---
+
+### Q482 — Polyarteritis nodosa: vessel wall necrosis
+
+What type of necrosis is seen in the vessel wall in polyarteritis nodosa?
+
+- A. Fibrinoid necrosis
+- B. Gangrenous necrosis
+- C. Fat necrosis
+- D. Caseous necrosis
+
+<details><summary>Answer</summary>
+
+**A. Fibrinoid necrosis** — Immune-complex (type III) deposition with fibrin leakage gives pink fibrinoid necrosis of the arterial wall.
+
+</details>
+
+---
+
+### Q483 — ApoE4 and Alzheimer's
+
+Which is a risk factor for Alzheimer's disease?
+
+- A. Apo E1
+- B. Apo E2
+- C. Apo E3
+- D. Apo E4
+
+<details><summary>Answer</summary>
+
+**D. Apo E4** — ApoE4 allele increases Alzheimer risk and lowers age of onset; ApoE2 is protective.
+
+</details>
+
+---
+
+### Q484 — Alcohol and cardiomyopathy
+
+Alcohol abuse is strongly associated with the development of:
+
+- A. Pericarditis
+- B. Hypertrophic cardiomyopathy
+- C. Dilated cardiomyopathy
+- D. Myocarditis
+
+<details><summary>Answer</summary>
+
+**C. Dilated cardiomyopathy** — Acetaldehyde is directly cardiotoxic; alcohol is the commonest cause of dilated cardiomyopathy in India.
+
+</details>
+
+---
+
+### Q485 — Solitary punched-out skull lesion, beveled edge
+
+A 65-year-old man has a solitary punched-out lytic skull lesion without a sclerotic rim, with a beveled ("hole within a hole") edge; haematological and urinary tests are normal. Probable diagnosis?
+
+- A. Multiple myeloma
+- B. Langerhans cell histiocytosis
+- C. Metastasis
+- D. Hyperparathyroidism
+
+<details><summary>Answer</summary>
+
+**B. Langerhans cell histiocytosis** — Punched-out lytic lesion with beveled edge and normal blood/urine; also causes vertebra plana and floating teeth.
+
+</details>
+
+---
+
+### Q486 — Huntington's chorea
+
+Which statement is correct regarding Huntington's chorea?
+
+- A. It is a trinucleotide repeat disorder
+- B. It is a loss-of-function mutation
+- C. There are abnormal CUG repeats
+- D. The defect is on chromosome 6
+
+<details><summary>Answer</summary>
+
+**A. It is a trinucleotide repeat disorder** — Autosomal dominant; CAG repeats (>40) in the huntingtin gene on chromosome 4p; gain-of-function with anticipation.
+
+</details>
+
+---
+
+### Q487 — Achalasia cardia: pathology
+
+Which is true about the pathology of achalasia cardia?
+
+- A. Relaxation of lower esophageal sphincter
+- B. Defective peristalsis only
+- C. Decreased release of NO and VIP in the distal oesophagus
+- D. Decreased tone of the lower esophageal sphincter
+
+<details><summary>Answer</summary>
+
+**C. Decreased release of NO and VIP in the distal oesophagus** — Degeneration of inhibitory Auerbach neurons reduces NO/VIP → failure of LES relaxation and increased LES tone.
+
+</details>
+
+---
+
+### Q488 — Juvenile polyp
+
+A 5-year-old presents with a prolapsing rectal mass and painless rectal bleeding; histology shows cystically dilated mucin-filled crypts. Most likely diagnosis?
+
+- A. Peutz-Jeghers syndrome
+- B. Villous adenoma
+- C. Juvenile polyp
+- D. Tubular adenoma
+
+<details><summary>Answer</summary>
+
+**C. Juvenile polyp** — Hamartomatous polyp of children <5 yr; dilated cystic glands filled with mucin; painless rectal bleeding.
+
+</details>
+
+---
+
+### Q489 — Celiac disease histology
+
+A 20-year-old with malabsorption and diarrhoea has duodenal biopsy showing crypt hyperplasia, villous atrophy, and CD8+ intraepithelial lymphocytes. Diagnosis?
+
+- A. Environmental enteropathy
+- B. Celiac disease
+- C. Whipple's disease
+- D. Chronic pancreatitis
+
+<details><summary>Answer</summary>
+
+**B. Celiac disease** — Gluten-induced (HLA-DQ2/DQ8) enteropathy; villous atrophy, crypt hyperplasia and increased intraepithelial lymphocytes; anti-tTG/anti-endomysial positive.
+
+</details>
+
+---
+
+### Q490 — Kawasaki disease
+
+A 3-year-old has 5 days of fever, desquamative rash, oedema and erythema of hands/feet, oral erythema, and cervical lymphadenopathy. Likely condition?
+
+- A. Kawasaki disease
+- B. Measles
+- C. Scarlet fever
+- D. Henoch-Schönlein purpura
+
+<details><summary>Answer</summary>
+
+**A. Kawasaki disease** — Medium-vessel vasculitis of young children; risk of coronary artery aneurysms; treat with IVIG + aspirin.
+
+</details>
+
+---
+
+### Q491 — Effacement of podocyte foot processes
+
+Effacement of podocyte foot processes is characteristically seen in:
+
+- A. Steroid-resistant glomerulonephritis
+- B. Minimal change disease
+- C. Rapidly progressive glomerulonephritis
+- D. Chronic glomerulonephritis
+
+<details><summary>Answer</summary>
+
+**B. Minimal change disease** — Diffuse foot-process effacement on electron microscopy (lipoid nephrosis); a podocytopathy.
+
+</details>
+
+---
+
+### Q492 — Thrombosis: initiating factor
+
+Thrombosis is initiated by:
+
+- A. Platelet activation
+- B. Endothelial injury
+- C. Coagulation cascade
+- D. Vasoconstriction
+
+<details><summary>Answer</summary>
+
+**B. Endothelial injury** — Most important arm of Virchow's triad (with stasis/turbulence and hypercoagulability).
+
+</details>
+
+---
+
+### Q493 — Hashimoto thyroiditis (Hürthle cells)
+
+A woman with thyroid swelling has high TSH, thyroid peroxidase antibodies, and Hürthle cells on histology. Diagnosis?
+
+- A. Hashimoto thyroiditis
+- B. Graves' disease
+- C. Follicular carcinoma
+- D. Medullary carcinoma of thyroid
+
+<details><summary>Answer</summary>
+
+**A. Hashimoto thyroiditis** — Autoimmune; anti-TPO/anti-thyroglobulin antibodies, lymphoid germinal centres and Hürthle (oncocytic) cell metaplasia.
+
+</details>
+
+---
+
+### Q494 — Pernicious anemia / atrophic gastritis
+
+A patient with macrocytes, hypersegmented neutrophils and atrophic gastritis on endoscopy most likely has:
+
+- A. Vitamin B12 deficiency
+- B. Folate deficiency
+- C. Pyridoxine deficiency
+- D. Niacin deficiency
+
+<details><summary>Answer</summary>
+
+**A. Vitamin B12 deficiency** — Pernicious anaemia: autoantibodies to intrinsic factor/parietal cells → atrophic gastritis and B12 malabsorption; raised methylmalonic acid.
+
+</details>
+
+---
+
+### Q495 — Colloid (mucinous) carcinoma breast
+
+A breast lump shows tumour cells with faint nuclei floating in pools of mucin. Diagnosis?
+
+- A. Colloid carcinoma
+- B. Papillary carcinoma
+- C. Medullary carcinoma
+- D. Lobular carcinoma
+
+<details><summary>Answer</summary>
+
+**A. Colloid carcinoma** — Mucinous carcinoma; clusters of cells floating in extracellular mucin lakes; relatively good prognosis.
+
+</details>
+
+---
+
+### Q496 — Hirschsprung disease: pathogenesis
+
+Which is true about the pathogenesis of Hirschsprung disease?
+
+- A. Failure of migration of neural crest cells
+- B. Visceral myopathy
+- C. Loss of ganglion cells due to Chagas disease
+- D. Obstruction by inflammatory stricture
+
+<details><summary>Answer</summary>
+
+**A. Failure of migration of neural crest cells** — Arrested craniocaudal migration leaves a distal aganglionic segment (absent Meissner & Auerbach plexuses) → functional obstruction.
+
+</details>
+
+---
+
+### Q497 — Werner syndrome: premature aging
+
+Premature aging in Werner syndrome is due to:
+
+- A. Increased telomerase activity
+- B. Defect in DNA helicase
+- C. Increased telomere length
+- D. None of the above
+
+<details><summary>Answer</summary>
+
+**B. Defect in DNA helicase** — WRN helicase defect impairs DNA replication/repair, accelerating chromosomal damage and aging.
+
+</details>
+
+---
+
+### Q498 — Reperfused myocardium histology
+
+Histology of reperfused (12–24 h post-MI) myocardium shows:
+
+- A. Wavy fibres
+- B. Neutrophils in cardiac muscle
+- C. Cellular swelling
+- D. Eosinophilic contraction bands
+
+<details><summary>Answer</summary>
+
+**D. Eosinophilic contraction bands** — Calcium overload causes hypercontraction of irreversibly injured myocytes on reperfusion; reperfused infarcts are haemorrhagic.
+
+</details>
+
+---
+
+### Q499 — Aschoff bodies
+
+A 34-year-old with migratory arthritis, pan-systolic murmur and mitral regurgitation has a cardiac biopsy. The characteristic lesion is:
+
+- A. Aschoff bodies
+- B. Epithelioid granuloma
+- C. Granulomatous vasculitis
+- D. Granuloma inguinale
+
+<details><summary>Answer</summary>
+
+**A. Aschoff bodies** — Pathognomonic of rheumatic fever: foci with Anitschkow (caterpillar) cells and Aschoff giant cells.
+
+</details>
+
+---
+
+### Q500 — Poor prognostic marker in multiple myeloma
+
+Which is a poor prognostic marker of multiple myeloma?
+
+- A. β-2 microglobulin
+- B. Calcium levels
+- C. Serum creatinine
+- D. Protein levels
+
+<details><summary>Answer</summary>
+
+**A. β-2 microglobulin** — High serum β2-microglobulin correlates with tumour burden and poor prognosis (used in ISS staging).
+
+</details>
+
+---
+
+### Q501 — Dysplasia vs carcinoma
+
+A Pap smear shows hyperchromatic nuclei, irregular nuclear borders and low maturation involving full epithelial thickness but with an intact basement membrane. Diagnosis?
+
+- A. Dysplasia
+- B. Carcinoma
+- C. Metaplasia
+- D. Hyperplasia
+
+<details><summary>Answer</summary>
+
+**A. Dysplasia** — Disordered, atypical cells confined above an intact basement membrane (carcinoma-in-situ if full thickness); invasion through BM = carcinoma.
+
+</details>
+
+---
+
+### Q502 — Idiopathic acquired aplastic anemia
+
+A young man has gum bleeding, fever, pancytopenia (low reticulocytes), and a hypocellular fatty marrow with absent megakaryocytes and no immature cells. Diagnosis?
+
+- A. Idiopathic acquired aplastic anemia
+- B. Paroxysmal nocturnal hemoglobinuria
+- C. Myelodysplastic syndrome
+- D. Tuberculosis
+
+<details><summary>Answer</summary>
+
+**A. Idiopathic acquired aplastic anemia** — Pancytopenia with hypocellular (fatty) marrow and low reticulocyte count; "dry tap" on aspiration.
+
+</details>
+
+---
+
+### Q503 — Mallory-Denk bodies
+
+A chronic alcoholic with ascites and shrunken liver shows intracytoplasmic eosinophilic hepatocyte inclusions. These contain:
+
+- A. Intermediate filaments
+- B. Actin
+- C. Microtubules
+- D. Fibronectin
+
+<details><summary>Answer</summary>
+
+**A. Intermediate filaments** — Mallory-Denk (alcoholic hyaline) bodies are aggregates of damaged keratin intermediate filaments.
+
+</details>
+
+---
+
+### Q504 — Thymoma with pure red cell aplasia
+
+A 65-year-old woman has pure red cell aplasia and an anterior mediastinal mass. Likely cause?
+
+- A. Thymoma
+- B. Non-Hodgkin lymphoma
+- C. Bronchogenic carcinoma
+- D. Germ cell tumour
+
+<details><summary>Answer</summary>
+
+**A. Thymoma** — Anterior mediastinal thymic epithelial tumour; paraneoplastic associations include pure red cell aplasia and myasthenia gravis.
+
+</details>
+
+---
+
+### Q505 — Sickle cell disease electrophoresis
+
+A child with recurrent infections, icterus, mild splenomegaly and electrophoresis showing raised HbA2, HbF and an S spike has:
+
+- A. Beta thalassemia
+- B. HbC disease
+- C. Sickle cell disease
+- D. Acute coronary disease
+
+<details><summary>Answer</summary>
+
+**C. Sickle cell disease** — Point mutation (Glu→Val) in β-globin produces HbS; deoxygenated HbS polymerises causing sickling.
+
+</details>
+
+---
+
+### Q506 — Malakoplakia
+
+Cystoscopy shows yellow-white plaques in the bladder trigone; histology reveals Michaelis-Gutmann bodies. Diagnosis?
+
+- A. Interstitial cystitis
+- B. Malakoplakia
+- C. Polypoid cystitis
+- D. Acute cystitis
+
+<details><summary>Answer</summary>
+
+**B. Malakoplakia** — Defective macrophage phagocytosis (often E. coli/Proteus); foamy macrophages with PAS-positive Michaelis-Gutmann bodies.
+
+</details>
+
+---
+
+### Q507 — Caloric restriction and lifespan
+
+Which measure is most strongly associated with an increased lifespan?
+
+- A. Moderate exercise for 30 min
+- B. Decreasing stress
+- C. Decreasing calorie intake by ~30 percent
+- D. Proton pump inhibitor therapy
+
+<details><summary>Answer</summary>
+
+**C. Decreasing calorie intake by ~30 percent** — Caloric restriction lowers oxidative damage and energy metabolism, extending lifespan in experimental models.
+
+</details>
+
+---
+
+### Q508 — ARDS / diffuse alveolar damage
+
+A patient with COVID-19 on mechanical ventilation dies after a week. The likely lung finding is:
+
+- A. Thick layer of fibrin (hyaline membrane) lining the alveoli
+- B. Acute and chronic alveolar hemorrhage
+- C. Perivascular cuffing
+- D. Pulmonary artery hypertrophy
+
+<details><summary>Answer</summary>
+
+**A. Thick layer of fibrin (hyaline membrane) lining the alveoli** — Diffuse alveolar damage of ARDS: waxy hyaline membranes line alveolar walls.
+
+</details>
+
+---
+
+### Q509 — Mendelian inheritance proportions
+
+Which is true regarding Mendelian modes of inheritance?
+
+- A. Every 10th patient has a Y-linked disorder
+- B. About one-third of Mendelian disorders are autosomal recessive
+- C. Every 5th patient has an X-linked recessive disorder
+- D. Two-thirds of Mendelian disorders are X-linked
+
+<details><summary>Answer</summary>
+
+**B. About one-third of Mendelian disorders are autosomal recessive** — Roughly 65% autosomal dominant, 25% autosomal recessive, 5% X-linked.
+
+</details>
+
+---
+
+### Q510 — Lung SCC with hypercalcemia
+
+An elderly smoker has chronic cough, weight loss, raised serum calcium, and a central lung biopsy with large atypical hyperchromatic cells. Diagnosis?
+
+- A. Large cell neuroendocrine tumour
+- B. Small cell carcinoma
+- C. Adenocarcinoma
+- D. Squamous cell carcinoma
+
+<details><summary>Answer</summary>
+
+**D. Squamous cell carcinoma** — Central/hilar lung tumour with keratin pearls; hypercalcaemia via PTH-rP is the classic paraneoplastic syndrome.
+
+</details>
+
+---
+
+### Q511 — Hemophilia A
+
+A young man has a large retroperitoneal haemorrhage and recurrent knee swelling after exertion, with no mucosal bleeding. The deficient factor is:
+
+- A. Factor VIII
+- B. Factors XI and XII
+- C. Von Willebrand factor
+- D. Lupus anticoagulant
+
+<details><summary>Answer</summary>
+
+**A. Factor VIII** — Hemophilia A (X-linked recessive): deep-tissue bleeds and haemarthroses; prolonged aPTT, normal PT/BT.
+
+</details>
+
+---
+
+### Q512 — Asbestosis and mesothelioma
+
+A chronic smoker who worked 20 years in a cement factory develops mesothelioma. The association is due to:
+
+- A. Silicosis
+- B. Asbestosis
+- C. Coal workers' pneumoconiosis
+- D. Bagassosis
+
+<details><summary>Answer</summary>
+
+**B. Asbestosis** — Asbestos (crystalline hydrated silicate) exposure causes interstitial fibrosis, pleural plaques and mesothelioma; asbestos bodies on histology.
+
+</details>
+
+---
+
+### Q513 — TACO (transfusion-associated circulatory overload)
+
+A patient transfused 4 units 2 hours ago develops chest discomfort, with bilateral fissural thickening on X-ray. Most probable cause?
+
+- A. ABO incompatibility
+- B. Fluid overload (TACO)
+- C. Hypocalcemia
+- D. Graft-versus-host disease
+
+<details><summary>Answer</summary>
+
+**B. Fluid overload (TACO)** — Transfusion-associated circulatory overload: dyspnoea, hypertension, raised BNP, bilateral alveolar infiltrates; leading cause of transfusion death.
+
+</details>
+
+---
+
+### Q514 — Membranous nephropathy
+
+A 48-year-old man with hepatitis B, facial puffiness, frothy urine, hypertension and microhematuria has a renal biopsy showing a "spike and dome" pattern. Diagnosis?
+
+- A. Minimal change disease
+- B. Membranous nephropathy
+- C. FSGS
+- D. Post-streptococcal GN
+
+<details><summary>Answer</summary>
+
+**B. Membranous nephropathy** — Subepithelial deposits with basement-membrane spikes ("spike and dome"); primary form via anti-PLA2R antibodies; common cause of adult nephrotic syndrome.
+
+</details>
+
+---
+
+### Q515 — Lymphocytic myocarditis
+
+A 5-year-old with fever, fatigue and left ventricular dysfunction has an endomyocardial biopsy showing diffuse mononuclear lymphocytic infiltration. Diagnosis?
+
+- A. Acute rheumatic fever
+- B. Chagas disease
+- C. Pyogenic myocarditis
+- D. Lymphocytic myocarditis
+
+<details><summary>Answer</summary>
+
+**D. Lymphocytic myocarditis** — Most often viral; endomyocardial biopsy (gold standard) shows diffuse mononuclear lymphocytic infiltrate with myocyte damage.
+
+</details>
+
+---
+
 ---

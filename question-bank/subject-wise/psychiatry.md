@@ -3042,3 +3042,122 @@ Person attacks coworker claiming plots against him, hears voices, displays disor
 ---
 
 ---
+
+### Q168 — Feature favouring delirium
+
+Which of the following features is MORE in favour of delirium (rather than dementia)?
+
+- A. Occurs gradually over a long period
+- B. Fluctuating course
+- C. Preserved level of consciousness
+- D. Predominantly auditory hallucinations
+
+<details><summary>Answer</summary>
+
+**B. Fluctuating course** — Delirium is acute in onset with a characteristically fluctuating course (sundowning), clouded/altered consciousness, inattention, and predominantly visual hallucinations. Dementia is gradual with preserved consciousness early on.
+
+</details>
+
+---
+
+### Q169 — Alzheimer's disease: NOT true
+
+Which of the following is NOT true about Alzheimer's disease?
+
+- A. Intracellular neurofibrillary tangles are seen
+- B. Neuritic plaques made of beta-amyloid are found
+- C. Nucleus of Meynert is not affected
+- D. Recent memory is affected early
+
+<details><summary>Answer</summary>
+
+**C. Nucleus of Meynert is not affected** — In Alzheimer's the cholinergic nucleus basalis of Meynert IS affected (loss of cholinergic neurons → ACh deficit, basis of cholinesterase inhibitor therapy). Hallmarks: intracellular neurofibrillary tangles (hyperphosphorylated tau) and extracellular beta-amyloid neuritic plaques; recent memory impaired first.
+
+</details>
+
+---
+
+### Q170 — ADHD formerly called minimal brain dysfunction
+
+Which disorder was earlier known as "minimal brain dysfunction"?
+
+- A. Dyslexia
+- B. Attention deficit hyperactivity disorder
+- C. Mental subnormality
+- D. Autism
+
+<details><summary>Answer</summary>
+
+**B. Attention deficit hyperactivity disorder (ADHD)** — Historically termed "minimal brain dysfunction" / "hyperkinetic reaction of childhood"; core features are inattention, hyperactivity, and impulsivity with onset before age 12.
+
+</details>
+
+---
+
+### Q171 — OCD-related (spectrum) disorders: NOT one
+
+Which of the following is NOT an OCD-related (obsessive-compulsive spectrum) disorder?
+
+- A. Hair-pulling disorder (trichotillomania)
+- B. Temper tantrums
+- C. Hoarding disorder
+- D. Skin-picking (excoriation) disorder
+
+<details><summary>Answer</summary>
+
+**B. Temper tantrums** — DSM-5 obsessive-compulsive and related disorders include OCD, body dysmorphic disorder, hoarding disorder, trichotillomania (hair-pulling), and excoriation (skin-picking). Temper tantrums are not part of this spectrum.
+
+</details>
+
+---
+
+### Q172 — First-line management of tobacco use disorder
+
+Drugs are only adjunctive to the first-line treatment for tobacco use disorder. What is the first-line management?
+
+- A. Behaviour therapy
+- B. Varenicline alone
+- C. Nicotine replacement therapy alone
+- D. Bupropion alone
+
+<details><summary>Answer</summary>
+
+**A. Behaviour therapy** — Behavioural therapy (skill training, stimulus control, relapse prevention, motivational/mindfulness approaches) is the first-line, best-proven treatment for tobacco use disorder; pharmacotherapy (NRT, bupropion, varenicline) is adjunctive.
+
+</details>
+
+---
+
+### Q173 — Fear of heights
+
+What is the fear of heights known as?
+
+- A. Acarophobia
+- B. Algophobia
+- C. Agoraphobia
+- D. Acrophobia
+
+<details><summary>Answer</summary>
+
+**D. Acrophobia** — Acrophobia = extreme/irrational fear of heights. Acarophobia = fear of mites/insects; algophobia = fear of pain; agoraphobia = fear of open/crowded places where escape is difficult.
+
+</details>
+
+---
+
+### Q174 — Wernicke encephalopathy
+
+A chronic alcoholic presents with confusion, ataxia, and painful eye movements with 6th cranial nerve involvement. What is the likely diagnosis?
+
+- A. Wernicke's encephalopathy
+- B. Korsakoff psychosis
+- C. Delirium tremens
+- D. Korsakoff syndrome
+
+<details><summary>Answer</summary>
+
+**A. Wernicke's encephalopathy** — Classic triad: confusion (encephalopathy) + ataxia + ophthalmoplegia (CN VI palsy, nystagmus); caused by thiamine (vitamin B1) deficiency. Medical emergency — treat with IV thiamine BEFORE glucose. Untreated may progress to Korsakoff psychosis (anterograde amnesia, confabulation).
+
+</details>
+
+---

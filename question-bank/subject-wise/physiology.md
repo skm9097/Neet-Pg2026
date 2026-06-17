@@ -10238,4 +10238,19 @@ Woman with amenorrhea and galactorrhea; pituitary adenoma, elevated prolactin. C
 
 ---
 
+### Q563 — Dietary fibre — least dietary source
+
+Which of the following is least obtained as a dietary fibre through diet?
+
+- A. Cellulose
+- B. Inulin
+- C. Pectin
+- D. Gums
+
+<details><summary>Answer</summary>
+
+**D. Gums** — Cellulose, inulin and pectin are abundant plant-derived dietary fibres; gums (e.g. guar) are also soluble fibres but are consumed in very small amounts through a normal diet, making them the least dietary source.
+
+</details>
+
 ---
