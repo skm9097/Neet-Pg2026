@@ -4971,4 +4971,174 @@ Identify components A and B from the binocular vision diagram:
 
 ---
 
+### Q272 — Angular conjunctivitis / Moraxella lacunata
+
+What is the causative organism of angular conjunctivitis?
+
+- A. Moraxella lacunata
+- B. Haemophilus influenzae
+- C. Adenovirus type 32
+- D. Coxsackievirus B
+
+<details><summary>Answer</summary>
+
+**A. Moraxella lacunata** — Moraxella lacunata is the classic cause of angular (marginal) blepharoconjunctivitis with redness and crusting at the medial and lateral canthi.
+
+</details>
+
+---
+
+### Q273 — Ophthalmia neonatorum / most common cause in developed countries
+
+What is the most common cause of ophthalmia neonatorum in developed countries?
+
+- A. Chlamydia trachomatis
+- B. Neisseria gonorrhoeae
+- C. Chemical conjunctivitis
+- D. Staphylococcus aureus
+
+<details><summary>Answer</summary>
+
+**A. Chlamydia trachomatis** — Chlamydia is currently the most common cause of ophthalmia neonatorum (neonatal conjunctivitis <30 days) in developed countries; gonococci remain important in developing countries and cause more severe disease.
+
+</details>
+
+---
+
+### Q274 — Acute hemorrhagic conjunctivitis / causative virus
+
+What is the causative agent of acute hemorrhagic conjunctivitis (Apollo conjunctivitis)?
+
+- A. Enterovirus 68
+- B. Enterovirus 69
+- C. Enterovirus 70
+- D. Enterovirus 71
+
+<details><summary>Answer</summary>
+
+**C. Enterovirus 70** — Acute hemorrhagic conjunctivitis is caused by Enterovirus 70 (and Coxsackievirus A24); characterized by severe conjunctival congestion, subconjunctival hemorrhages, and chemosis; self-limiting over 3–7 days. Enterovirus 71 causes hand-foot-mouth disease and fatal meningitis.
+
+</details>
+
+---
+
+### Q275 — Diabetic CN3 palsy / pupil sparing
+
+Which is the most common feature of third nerve palsy in long-standing uncontrolled diabetes?
+
+- A. Proptosis
+- B. Pseudoptosis
+- C. Ptosis with pupillary dysfunction
+- D. Ptosis with pupil sparing
+
+<details><summary>Answer</summary>
+
+**D. Ptosis with pupil sparing** — In diabetic (ischemic) CN3 palsy, central nerve fibres supplying extraocular muscles are damaged by microvascular ischemia, while superficially located pupillomotor fibres are spared; contrast with compressive CN3 palsy (e.g., PComA aneurysm) where pupil is involved first.
+
+</details>
+
+---
+
+### Q276 — Argyll-Robertson pupil / neurosyphilis
+
+A patient with a 20-year history of unprotected intercourse presents with neurological symptoms. Pupil examination shows accommodation but no reaction to light. What is the likely diagnosis?
+
+- A. Holmes-Adie pupil
+- B. Relative afferent pupillary defect
+- C. Argyll-Robertson pupil
+- D. Horner syndrome
+
+<details><summary>Answer</summary>
+
+**C. Argyll-Robertson pupil** — Argyll-Robertson pupils accommodate but do not react to light ("prostitute's pupil — accommodates but does not react"); pathognomonic of neurosyphilis; lesion is in the pretectal nucleus of the midbrain.
+
+</details>
+
+---
+
+### Q277 — Fasanella-Servat operation / Horner syndrome ptosis
+
+What is the treatment of ptosis caused by Horner's syndrome?
+
+- A. Levator resection
+- B. Frontalis sling
+- C. Fasanella-Servat operation
+- D. Whitnall ligament suspension
+
+<details><summary>Answer</summary>
+
+**C. Fasanella-Servat operation** — The Fasanella-Servat (tarsomullerectomy) operation is used for mild ptosis (1.5–2 mm) with retained levator function, as seen in Horner syndrome where sympathetic denervation of Müller's muscle causes partial ptosis.
+
+</details>
+
+---
+
+### Q278 — Scleromalacia perforans / systemic association
+
+Scleromalacia perforans is most commonly associated with which systemic condition?
+
+- A. Systemic lupus erythematosus
+- B. Ankylosing spondylitis
+- C. Rheumatoid arthritis
+- D. Gout
+
+<details><summary>Answer</summary>
+
+**C. Rheumatoid arthritis** — Scleromalacia perforans is a painless, progressive thinning and necrosis of the sclera (without inflammation) occurring in patients with severe, long-standing rheumatoid arthritis; can lead to scleral perforation.
+
+</details>
+
+---
+
+### Q279 — Metallic intraocular foreign body / investigation contraindication
+
+An industrial worker sustains an eye injury while cutting stone with an iron chisel. A metallic intraocular foreign body is suspected. Which investigation is contraindicated?
+
+- A. MRI
+- B. CT scan
+- C. Plain X-ray
+- D. B-scan ultrasonography
+
+<details><summary>Answer</summary>
+
+**A. MRI** — MRI is contraindicated with metallic (ferromagnetic) intraocular foreign bodies because the magnetic field can cause movement of the IOFB, leading to further ocular damage. CT scan is the investigation of choice for metallic IOFBs.
+
+</details>
+
+---
+
+### Q280 — Corneal ulcer examination / dye and filter
+
+What dye and filter combination is used to diagnose corneal ulcers?
+
+- A. Lissamine green dye — green filter
+- B. Lissamine green dye — cobalt blue filter
+- C. Fluorescein dye — green filter
+- D. Fluorescein dye — cobalt blue filter
+
+<details><summary>Answer</summary>
+
+**D. Fluorescein dye — cobalt blue filter** — Fluorescein stains areas of epithelial disruption in corneal ulcers bright green; the defect is best visualized under cobalt blue (Wood's) light, which causes fluorescein to fluoresce intensely.
+
+</details>
+
+---
+
+### Q281 — Coloboma of upper eyelid / most common complication
+
+What is the most common complication of a coloboma of the upper eyelid?
+
+- A. Amblyopia
+- B. Exposure keratopathy
+- C. Ptosis
+- D. Entropion
+
+<details><summary>Answer</summary>
+
+**B. Exposure keratopathy** — A coloboma (full-thickness notch defect) of the upper eyelid leaves the cornea exposed; the resulting lagophthalmos causes exposure keratopathy (corneal drying, epithelial breakdown, ulceration) if left untreated.
+
+</details>
+
+---
+
 ---

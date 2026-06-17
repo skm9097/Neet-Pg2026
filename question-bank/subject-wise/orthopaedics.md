@@ -1891,4 +1891,155 @@ Image shows forward slippage of a vertebra on the one below. Diagnosis?
 
 ---
 
+### Q113 — De Quervain's tenosynovitis tendons
+
+De Quervain's disease classically affects which tendons?
+
+- A. Extensor pollicis longus and abductor pollicis longus
+- B. Extensor pollicis longus and abductor pollicis brevis
+- C. Extensor pollicis brevis and abductor pollicis brevis
+- D. Extensor pollicis brevis and abductor pollicis longus
+
+<details><summary>Answer</summary>
+
+**D. Extensor pollicis brevis and abductor pollicis longus** — Both pass through the first dorsal compartment of the wrist; stenosing tenosynovitis here causes radial-sided wrist pain worsened by thumb movement (positive Finkelstein test).
+
+</details>
+
+---
+
+### Q114 — Urgent orthopaedic referral — limb ischaemia indicator
+
+Which patient requires the most urgent call to the orthopaedic resident?
+
+- A. Patient with recurrent shoulder dislocation
+- B. Patient with fractured arm and capillary refill time of 5 seconds
+- C. Patient with fractured arm and a 10 cm laceration on the arm
+- D. Patient with fractured arm and capillary refill time of 2 seconds
+
+<details><summary>Answer</summary>
+
+**B. Fractured arm with capillary refill time of 5 seconds** — Capillary refill > 2 seconds indicates distal ischaemia; in the context of a fracture, this signals vascular injury requiring immediate orthopaedic and vascular assessment to prevent limb loss.
+
+</details>
+
+---
+
+### Q115 — Sprengel deformity — NOT associated
+
+Which of the following is NOT associated with Sprengel deformity (congenital high scapula)?
+
+- A. Diastematomyelia
+- B. Klippel-Feil syndrome
+- C. Dextrocardia
+- D. Congenital scoliosis
+
+<details><summary>Answer</summary>
+
+**C. Dextrocardia** — Sprengel deformity associations: Klippel-Feil syndrome, diastematomyelia, congenital scoliosis, cervical ribs, and omovertebral bar. Dextrocardia is not a recognised association.
+
+</details>
+
+---
+
+### Q116 — Most common bone fractured in children
+
+What is the most common bone to be fractured in children?
+
+- A. Distal forearm bones (radius/ulna)
+- B. Humerus
+- C. Clavicle
+- D. Carpal bones
+
+<details><summary>Answer</summary>
+
+**A. Distal forearm bones (radius/ulna)** — Distal radius is the most commonly fractured bone in childhood; children fall on outstretched hands (FOOSH mechanism). Clavicle is most commonly fractured during birth.
+
+</details>
+
+---
+
+### Q117 — Non-articular vs articular pain feature
+
+A 35-year-old with musculoskeletal pain. Which feature suggests the pain is non-articular?
+
+- A. Swelling over the joint
+- B. Pain on both active movement and at rest
+- C. Painless on passive movement
+- D. Presence of crepitation
+
+<details><summary>Answer</summary>
+
+**C. Painless on passive movement** — Non-articular (periarticular/soft-tissue) pain is produced by active contraction but not by passive range of motion; true articular pain is reproduced by both active and passive movement of the joint.
+
+</details>
+
+---
+
+### Q118 — Hypertrophic non-union treatment
+
+For hypertrophic non-union following a fracture, the most appropriate treatment is:
+
+- A. Stabilization alone
+- B. Bone grafting alone
+- C. Stabilization and bone grafting
+- D. Electrical stimulation
+
+<details><summary>Answer</summary>
+
+**A. Stabilization alone** — Hypertrophic non-union has adequate vascularity and callus; it fails to unite due to inadequate mechanical stability. Rigid fixation alone induces union. Atrophic non-union (avascular) requires bone grafting.
+
+</details>
+
+---
+
+### Q119 — Painful arc syndrome — exception
+
+Painful arc syndrome is seen in all of the following EXCEPT:
+
+- A. Complete tear of supraspinatus
+- B. Fracture of greater tuberosity
+- C. Subacromial bursitis
+- D. Supraspinatus tendinitis
+
+<details><summary>Answer</summary>
+
+**A. Complete tear of supraspinatus** — Painful arc (60°–120° of shoulder abduction) requires an intact but impinged supraspinatus; a complete tear abolishes the arc because the tendon no longer impinges — the arm may even drop (positive drop-arm test).
+
+</details>
+
+---
+
+### Q120 — Rheumatoid arthritis management with deformity
+
+Management of rheumatoid arthritis in a patient with established deformity:
+
+- A. Steroids alone
+- B. Methotrexate with steroids
+- C. Methotrexate with anti-TNF agent
+- D. NSAIDs only until disease modifying drugs fail
+
+<details><summary>Answer</summary>
+
+**C. Methotrexate with anti-TNF agent** — Combination of methotrexate + anti-TNF (e.g., etanercept, adalimumab) is superior to monotherapy in limiting joint destruction and disability in established RA with deformity.
+
+</details>
+
+---
+
+### Q121 — Vitamin D deficiency in a child
+
+A child presents with bony deformities shown on X-ray. The deformities are due to deficiency of which vitamin?
+
+- A. Vitamin A
+- B. Vitamin D
+- C. Vitamin K
+- D. Vitamin C
+
+<details><summary>Answer</summary>
+
+**B. Vitamin D** — Nutritional rickets (vitamin D deficiency) causes defective mineralisation of growing bone: bowing of long bones, widened growth plates, cupping/fraying of metaphyses, frontal bossing, rachitic rosary.
+
+</details>
+
 ---

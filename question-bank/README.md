@@ -9,7 +9,7 @@ question-bank/
 ├── ATTRIBUTION.md          Source attribution & use notice
 ├── STUDY-PLAN.md           Suggested study schedule + how to use this repo
 ├── template.md             Schema for adding new questions
-├── subject-wise/           Multi-year pools across all 19 subjects (7,443 Qs)
+├── subject-wise/           Multi-year pools across all 19 subjects (7,469 Qs)
 │   ├── README.md                           (index + counts)
 │   ├── anaesthesia.md       (79 Qs)
 │   ├── anatomy.md           (824 Qs)
@@ -19,10 +19,10 @@ question-bank/
 │   ├── ent.md               (721 Qs)
 │   ├── forensic-medicine.md (134 Qs)
 │   ├── medicine.md          (602 Qs)
-│   ├── microbiology.md      (262 Qs)
+│   ├── microbiology.md      (269 Qs)
 │   ├── obstetrics-gynaecology.md (1,063 Qs)
-│   ├── ophthalmology.md     (271 Qs)
-│   ├── orthopaedics.md      (112 Qs)
+│   ├── ophthalmology.md     (281 Qs)
+│   ├── orthopaedics.md      (121 Qs)
 │   ├── pathology.md         (466 Qs)
 │   ├── pediatrics.md        (100 Qs)
 │   ├── pharmacology.md      (328 Qs)
@@ -43,10 +43,10 @@ question-bank/
 └── 2015/questions.md       1,846 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
 ```
 
-**Current totals (as of 2026-06-16, post-cleanup):**
+**Current totals (as of 2026-06-17, post-cleanup):**
 - **Year-wise:** 6,277 questions across 2015–2025 (all years covered)
-- **Subject-wise:** 7,443 questions across all 19 NBE subjects
-- **Grand total:** ~13,720+ entries (year-wise + subject-wise combined)
+- **Subject-wise:** 7,469 questions across all 19 NBE subjects
+- **Grand total:** ~13,746+ entries (year-wise + subject-wise combined)
 - **Audit results:** 0 within-file duplicates, 0 boilerplate-only explanations, all answer-letter conflicts resolved, sequential Q-numbering verified
 - **Phase 3 cleanup:** 3,311 unique stems (6,487 file locations) had boilerplate `Source: … compilation` replaced with real one-line mechanisms via 125 batched expansions
 
@@ -56,7 +56,7 @@ question-bank/
 | Physiology | ~1,900 | 562 |
 | Biochemistry | ~1,500 | 444 |
 | Pathology | ~1,500 | 466 |
-| Microbiology | ~800 | 262 |
+| Microbiology | ~800 | 269 |
 | Pharmacology | ~800 | 328 |
 | Forensic Medicine | ~200 | 134 |
 | Community Medicine | ~900 | 744 |
@@ -64,9 +64,9 @@ question-bank/
 | Surgery | ~600 | 241 |
 | OBG | ~1,600 | 1,063 |
 | Paediatrics | ~300 | 100 |
-| Orthopaedics | ~200 | 112 |
+| Orthopaedics | ~200 | 121 |
 | ENT | ~1,600 | 721 |
-| Ophthalmology | ~700 | 271 |
+| Ophthalmology | ~700 | 281 |
 | Dermatology | ~500 | 221 |
 | Psychiatry | ~400 | 167 |
 | Radiology | ~300 | 102 |

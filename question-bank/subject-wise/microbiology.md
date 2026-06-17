@@ -4754,3 +4754,121 @@ A man from endemic region with progressive leg swelling; peripheral smear shows 
 ---
 
 ---
+### Q263 — Congenital rubella syndrome: classic triad
+
+Which of the following correctly describes the classic triad of congenital rubella syndrome?
+
+- A. PDA, cataract, and deafness
+- B. Hepatosplenomegaly, mental retardation, and deafness
+- C. Chorioretinitis, multiorgan failure, and pneumonitis
+- D. Microcephaly, seizures, and hepatitis
+
+<details><summary>Answer</summary>
+
+**A. PDA, cataract, and deafness** — Gregg's triad of congenital rubella: patent ductus arteriosus (cardiac defect), cataract (or glaucoma), and sensorineural deafness; caused by rubella virus infection in first trimester.
+
+</details>
+
+---
+
+### Q264 — Paragonimus westermani: lung fluke
+
+A 36-year-old presents with cough, haemoptysis, rusty sputum, and no TB on sputum smear; history of eating raw crabs. Most likely diagnosis?
+
+- A. Paragonimus westermani (lung fluke)
+- B. Fasciola hepatica
+- C. Fasciolopsis buski
+- D. Entamoeba histolytica
+
+<details><summary>Answer</summary>
+
+**A. Paragonimus westermani (lung fluke)** — Acquired by eating undercooked freshwater crabs/crayfish; adults lodge in lungs causing haemoptysis and rusty sputum mimicking TB; eggs are found in sputum. Treat with praziquantel.
+
+</details>
+
+---
+
+### Q265 — Donovanosis: causative organism
+
+Donovanosis (granuloma inguinale) is caused by which organism?
+
+- A. Treponema pallidum
+- B. Leishmania donovani
+- C. Klebsiella granulomatis
+- D. Haemophilus ducreyi
+
+<details><summary>Answer</summary>
+
+**C. Klebsiella granulomatis** — Donovanosis is a chronic destructive genital ulcer disease caused by Klebsiella granulomatis (formerly Calymmatobacterium granulomatis); intracellular Donovan bodies seen in macrophages on tissue crush smear.
+
+</details>
+
+---
+
+### Q266 — H. ducreyi: NOT a cause of urethritis
+
+Which of the following organisms does NOT cause urethritis?
+
+- A. Neisseria gonorrhoeae
+- B. Chlamydia trachomatis
+- C. Haemophilus ducreyi
+- D. Trichomonas vaginalis
+
+<details><summary>Answer</summary>
+
+**C. Haemophilus ducreyi** — H. ducreyi causes chancroid (painful genital ulcer with tender inguinal lymphadenopathy) but does NOT cause urethritis; urethritis is caused by gonococci, chlamydia, Mycoplasma genitalium, Ureaplasma, HSV, and Trichomonas.
+
+</details>
+
+---
+
+### Q267 — IL-4: IgE class switching
+
+Which interleukin is primarily responsible for class switching of B cells to produce IgE?
+
+- A. IL-2
+- B. IL-3
+- C. IL-4
+- D. IL-12
+
+<details><summary>Answer</summary>
+
+**C. IL-4** — IL-4 (and IL-13) drives Th2-mediated class switch recombination to IgE in B cells; essential for allergic and helminthic immune responses. IL-12 drives Th1 and IFN-γ production.
+
+</details>
+
+---
+
+### Q268 — N. gonorrhoeae: host cell attachment
+
+Which component of Neisseria gonorrhoeae is primarily responsible for attachment to host epithelial cells?
+
+- A. Lipooligosaccharide
+- B. Pili (fimbriae)
+- C. IgA1 protease
+- D. Outer membrane porin protein (Por)
+
+<details><summary>Answer</summary>
+
+**B. Pili (fimbriae)** — Gonococcal pili (type IV pili) are the primary adhesins mediating attachment to mucosal epithelium; also confer resistance to phagocytosis. Antigenic variation of pili (pilE gene) aids immune evasion.
+
+</details>
+
+---
+
+### Q269 — Strongyloides hyperinfection in immunosuppressed
+
+A patient on long-term corticosteroids presents with nocturnal cough and bronchospasm; BAL reveals multiple small larvae. Most likely diagnosis?
+
+- A. Capillaria philippinensis
+- B. Ankylostoma caninum
+- C. Strongyloides stercoralis (hyperinfection)
+- D. Enterobius vermicularis
+
+<details><summary>Answer</summary>
+
+**C. Strongyloides stercoralis (hyperinfection)** — In immunosuppressed patients (steroids, HIV), Strongyloides auto-infection cycle accelerates; larvae migrate through gut wall, disseminate to lungs (causing pulmonary infiltrates, haemorrhage, larvae in BAL) and other organs — the hyperinfection syndrome.
+
+</details>
+
+---
