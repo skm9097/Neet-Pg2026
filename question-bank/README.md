@@ -9,7 +9,7 @@ question-bank/
 ├── ATTRIBUTION.md          Source attribution & use notice
 ├── STUDY-PLAN.md           Suggested study schedule + how to use this repo
 ├── template.md             Schema for adding new questions
-├── subject-wise/           Multi-year pools across all 19 subjects (7,469 Qs)
+├── subject-wise/           Multi-year pools across all 19 subjects (7,494 Qs)
 │   ├── README.md                           (index + counts)
 │   ├── anaesthesia.md       (79 Qs)
 │   ├── anatomy.md           (824 Qs)
@@ -24,7 +24,7 @@ question-bank/
 │   ├── ophthalmology.md     (281 Qs)
 │   ├── orthopaedics.md      (121 Qs)
 │   ├── pathology.md         (466 Qs)
-│   ├── pediatrics.md        (100 Qs)
+│   ├── pediatrics.md        (125 Qs)
 │   ├── pharmacology.md      (328 Qs)
 │   ├── physiology.md        (562 Qs)
 │   ├── psychiatry.md        (167 Qs)
@@ -45,8 +45,8 @@ question-bank/
 
 **Current totals (as of 2026-06-17, post-cleanup):**
 - **Year-wise:** 6,277 questions across 2015–2025 (all years covered)
-- **Subject-wise:** 7,469 questions across all 19 NBE subjects
-- **Grand total:** ~13,746+ entries (year-wise + subject-wise combined)
+- **Subject-wise:** 7,494 questions across all 19 NBE subjects
+- **Grand total:** ~13,771+ entries (year-wise + subject-wise combined)
 - **Audit results:** 0 within-file duplicates, 0 boilerplate-only explanations, all answer-letter conflicts resolved, sequential Q-numbering verified
 - **Phase 3 cleanup:** 3,311 unique stems (6,487 file locations) had boilerplate `Source: … compilation` replaced with real one-line mechanisms via 125 batched expansions
 
@@ -63,7 +63,7 @@ question-bank/
 | Medicine | ~1,500 | 602 |
 | Surgery | ~600 | 241 |
 | OBG | ~1,600 | 1,063 |
-| Paediatrics | ~300 | 100 |
+| Paediatrics | ~300 | 125 |
 | Orthopaedics | ~200 | 121 |
 | ENT | ~1,600 | 721 |
 | Ophthalmology | ~700 | 281 |

@@ -1744,3 +1744,428 @@ Neonate born to HIV-positive mother (viral load 1200 copies/mL). Recommended ARV
 ---
 
 ---
+
+### Q101 — Congenital CMV: best diagnostic method
+
+A neonate born prematurely presents with jaundice, hepatosplenomegaly, microcephaly, petechiae, and periventricular calcifications on CT. What is the best method to diagnose the etiological agent?
+
+- A. Urine examination (PCR/viral culture)
+- B. Liver biopsy
+- C. Blood examination
+- D. CSF examination
+
+<details><summary>Answer</summary>
+
+**A. Urine examination (PCR/viral culture)** — Congenital CMV: urine is the most reliable sample because not all affected infants are viremic at birth; viral shedding in urine is consistent. Periventricular calcifications + IUGR + hepatosplenomegaly + microcephaly = classic CMV triad.
+
+</details>
+
+---
+
+### Q102 — NF-1: Lisch nodules; false criterion
+
+An image shows discrete tan-coloured nodules over the iris (Lisch nodules) in a patient with neurofibromatosis 1. Which of the following is FALSE regarding this finding?
+
+- A. They represent melanocytic hamartomas
+- B. They cause no visual disturbance
+- C. They are associated with facial angiofibroma
+- D. They are diagnostic of a neurocutaneous syndrome
+
+<details><summary>Answer</summary>
+
+**C. They are associated with facial angiofibroma** — Facial angiofibroma (adenoma sebaceum) is a feature of tuberous sclerosis (Bourneville disease), NOT neurofibromatosis-1. Lisch nodules (pigmented iris hamartomas) are pathognomonic of NF-1 but do not impair vision.
+
+</details>
+
+---
+
+### Q103 — CAH most common presentation
+
+Congenital adrenal hyperplasia most commonly presents as:
+
+- A. Male pseudohermaphroditism
+- B. Female pseudohermaphroditism
+- C. True hermaphroditism
+- D. 46,XY intersex
+
+<details><summary>Answer</summary>
+
+**B. Female pseudohermaphroditism** — CAH (most commonly 21-hydroxylase deficiency) causes virilisation of a genotypically normal female (46,XX), producing ambiguous genitalia that resemble a male's externally — i.e., female pseudohermaphroditism.
+
+</details>
+
+---
+
+### Q104 — Tuft of hair over lumbosacral region
+
+A newborn presents with a tuft of hair over the lumbosacral region. What is the most likely diagnosis?
+
+- A. Spina bifida occulta
+- B. Spinal lipoma
+- C. Dermal sinus
+- D. Any of the above (spinal dysraphism)
+
+<details><summary>Answer</summary>
+
+**D. Any of the above (spinal dysraphism)** — A tuft of hair over the lumbosacral region is a cutaneous marker of occult spinal dysraphism, which encompasses spina bifida occulta, intradural lipoma, and dorsal dermal sinus — any of these conditions can present this way.
+
+</details>
+
+---
+
+### Q105 — Most common cause of hydrocephalus in newborns
+
+What is the most common cause of ventriculomegaly (hydrocephalus) in newborns?
+
+- A. Arnold-Chiari malformation
+- B. Dandy-Walker syndrome
+- C. Arachnoid villi malformation
+- D. Aqueductal stenosis
+
+<details><summary>Answer</summary>
+
+**D. Aqueductal stenosis** — Aqueductal stenosis is the most common cause of congenital hydrocephalus/ventriculomegaly in newborns. It causes obstruction of CSF flow between the third and fourth ventricles.
+
+</details>
+
+---
+
+### Q106 — Neonatal resuscitation: epinephrine indication
+
+When should epinephrine be administered to a neonate during resuscitation?
+
+- A. Heart rate remains <60 beats/min despite effective compressions and ventilations
+- B. Heart rate remains <100 beats/min despite effective compressions and ventilations
+- C. Heart rate does not improve after 30 seconds with bag-mask ventilation
+- D. Infant with respiratory depression fails to respond to positive-pressure ventilation via mask
+
+<details><summary>Answer</summary>
+
+**A. Heart rate remains <60 beats/min despite effective compressions and ventilations** — Per NRP protocol: epinephrine (IV or ET) is indicated when HR remains <60 bpm after at least 30 seconds of coordinated chest compressions plus adequate positive-pressure ventilation.
+
+</details>
+
+---
+
+### Q107 — Ataxia-telangiectasia: mode of inheritance
+
+Which of the following is NOT true regarding ataxia-telangiectasia?
+
+- A. Mutations in the 11q gene (ATM) are implicated
+- B. It follows an autosomal dominant mode of inheritance
+- C. Both humoral and cellular immunity are impaired
+- D. It is linked to lymphoreticular malignancies
+
+<details><summary>Answer</summary>
+
+**B. It follows an autosomal dominant mode of inheritance** — Ataxia-telangiectasia (Louis-Bar syndrome) is autosomal RECESSIVE. ATM gene (chromosome 11q22-23) encodes a kinase that repairs double-strand DNA breaks. Features: progressive cerebellar ataxia, oculocutaneous telangiectasias, combined immunodeficiency, and increased risk of lymphoma/leukemia.
+
+</details>
+
+---
+
+### Q108 — Warthin-Finkeldey giant cells
+
+Warthin-Finkeldey cells are seen in:
+
+- A. Rubella
+- B. Rubeola (measles)
+- C. Rabies
+- D. Typhoid
+
+<details><summary>Answer</summary>
+
+**B. Rubeola (measles)** — Warthin-Finkeldey cells are multinucleated giant cells (syncytia with numerous nuclei and cytoplasmic inclusions) characteristic of the prodromal stage of measles. Also rarely seen in HIV and some lymphoid conditions.
+
+</details>
+
+---
+
+### Q109 — Color blindness: inheritance pattern
+
+Which of the following is an X-linked disorder?
+
+- A. Color blindness
+- B. Thalassemia
+- C. Sickle cell anemia
+- D. Cystic fibrosis
+
+<details><summary>Answer</summary>
+
+**A. Color blindness** — Color blindness (red-green) is X-linked recessive; the gene loci are on the X chromosome. Males (XY) are affected if the single X carries the mutation; females are usually carriers. Thalassemia, sickle cell, and CF are all autosomal recessive.
+
+</details>
+
+---
+
+### Q110 — ALL: poor prognosis parameters
+
+Which of the following parameter in ALL indicates a poor prognosis?
+
+- A. Age >10 years
+- B. Leukocyte count <50,000/mm³
+- C. Hyperdiploidy
+- D. Trisomy of chromosomes 4, 10, and 17
+
+<details><summary>Answer</summary>
+
+**A. Age >10 years** — Poor prognosis in ALL: age >10 years (or <1 year), WBC >50,000/mm³, T-cell or B-cell mature phenotype, hypodiploidy. Good prognosis: WBC <50,000, hyperdiploidy, trisomy 4/10/17, ETV6-RUNX1 fusion.
+
+</details>
+
+---
+
+### Q111 — Parvovirus B19: aplastic crisis
+
+Which viral infection causes transient aplastic anemia?
+
+- A. HIV
+- B. Polio
+- C. Parvovirus B19
+- D. HHV-8
+
+<details><summary>Answer</summary>
+
+**C. Parvovirus B19** — Parvovirus B19 is erythrotrophic; it infects pronormoblasts and temporarily halts erythropoiesis. In patients with chronic haemolytic anaemia (e.g., sickle cell disease), this causes a precipitous fall in Hb — transient aplastic crisis. In normal individuals it causes fifth disease (erythema infectiosum).
+
+</details>
+
+---
+
+### Q112 — Cerebral palsy: feature NOT seen
+
+Which one of the following is NOT a feature of cerebral palsy?
+
+- A. Hypotonia
+- B. Microcephaly
+- C. Ataxia
+- D. Flaccid paralysis
+
+<details><summary>Answer</summary>
+
+**D. Flaccid paralysis** — Cerebral palsy is an upper motor neuron (UMN) disorder; UMN lesions cause spasticity, hyperreflexia, and scissoring gait — NEVER flaccid paralysis. Flaccid paralysis indicates lower motor neuron (LMN) involvement. Hypotonia (early), microcephaly, and ataxia (extrapyramidal CP) can all be features.
+
+</details>
+
+---
+
+### Q113 — Cystic fibrosis: metabolic abnormality NOT seen
+
+Which of the following is NOT seen in a child with cystic fibrosis?
+
+- A. Sweat chloride concentration of 70 mEq/L
+- B. Increased immunoreactive trypsinogen
+- C. Hyperkalemia
+- D. Contraction alkalosis
+
+<details><summary>Answer</summary>
+
+**C. Hyperkalemia** — CF causes excessive chloride loss in sweat → extracellular chloride depletion → intracellular shift of potassium + renin-aldosterone activation → HYPOkalemia, not hyperkalemia. The metabolic picture is hypochloraemic, hypokalaemic metabolic alkalosis (same as IHPS).
+
+</details>
+
+---
+
+### Q114 — Pre-ductal oxygen saturation: site of measurement
+
+Where should the pulse oximeter be placed to measure pre-ductal oxygen saturation in a newborn born 3 minutes ago?
+
+- A. Left upper limb
+- B. Left lower limb
+- C. Right upper limb
+- D. Right lower limb
+
+<details><summary>Answer</summary>
+
+**C. Right upper limb** — The right subclavian artery arises from the aorta BEFORE the ductus arteriosus; blood in the right upper limb reflects pre-ductal (left-heart) oxygenation. Post-ductal measurement uses the lower limbs or left hand.
+
+</details>
+
+---
+
+### Q115 — NEC: metabolic consequence
+
+All of the following are clinical features of necrotizing enterocolitis (NEC) EXCEPT:
+
+- A. Vomiting
+- B. Abdominal mass
+- C. Erythema of the abdominal wall
+- D. Metabolic alkalosis
+
+<details><summary>Answer</summary>
+
+**D. Metabolic alkalosis** — NEC causes metabolic ACIDOSIS (not alkalosis) due to sepsis, lactic acidosis from poor gut perfusion, bicarbonate loss from damaged intestine, and respiratory compensation failure. Classic radiological sign: pneumatosis intestinalis.
+
+</details>
+
+---
+
+### Q116 — HIV transmission to newborn: most common route
+
+The most common cause of HIV infection in a newborn is:
+
+- A. Perinatal (intrapartum) transmission
+- B. Breast milk
+- C. Transplacental (in utero)
+- D. Exchange transfusion with contaminated blood
+
+<details><summary>Answer</summary>
+
+**A. Perinatal (intrapartum) transmission** — Approximately 70–80% of vertical HIV transmission occurs intrapartum via exposure to infected blood and cervicovaginal secretions. In utero (transplacental) accounts for ~20%; breastfeeding is least common if avoided.
+
+</details>
+
+---
+
+### Q117 — Ductus arteriosus closure: main factor
+
+What is the main factor responsible for ductal closure postnatally?
+
+- A. Increase in partial pressure of oxygen (pO2)
+- B. Increase in systemic vascular resistance
+- C. Increase in prostaglandin levels
+- D. Decrease in pulmonary venous resistance
+
+<details><summary>Answer</summary>
+
+**A. Increase in partial pressure of oxygen (pO2)** — With the first breath, pO2 rises; this causes smooth muscle contraction in the ductus arteriosus wall, leading to functional closure within hours of birth. Indomethacin (a prostaglandin inhibitor) promotes closure in preterm infants.
+
+</details>
+
+---
+
+### Q118 — Developmental milestone: bidextrous reach
+
+While evaluating a baby, you show him a bright pink teddy bear which he reaches out to with BOTH hands. What is the earliest age at which this milestone is typically achieved?
+
+- A. 4 months
+- B. 5 months
+- C. 6 months
+- D. 7 months
+
+<details><summary>Answer</summary>
+
+**A. 4 months** — Bidextrous (bilateral) reach appears at 4 months, after the palmar grasp reflex disappears at 3–4 months. Unidextrous (one-handed) reach develops by 6 months. Fine pincer grasp appears by 9–10 months.
+
+</details>
+
+---
+
+### Q119 — Apgar score calculation
+
+A baby assessed 5 minutes after birth is found cyanosed with irregular gasping respiration. Heart rate is 60 beats/min with minimal response to stimulation and some flexion of extremities. What is the Apgar score?
+
+- A. 2
+- B. 3
+- C. 4
+- D. 5
+
+<details><summary>Answer</summary>
+
+**C. 4** — Apgar scoring: Color: blue/cyanosed = 0; Pulse: 60 bpm (<100) = 1; Grimace: minimal response = 1; Activity: some flexion = 1; Respiration: irregular gasping = 1. Total = 4. Score ≤3 requires immediate resuscitation; 4–6 = intermediate.
+
+</details>
+
+---
+
+### Q120 — Maternal antibodies: no neonatal protection
+
+Maternal antibodies that do NOT provide significant immunity to a neonate:
+
+- A. Tetanus
+- B. Polio
+- C. Diphtheria
+- D. Measles
+
+<details><summary>Answer</summary>
+
+**B. Polio** — Transplacental IgG does not protect neonates against poliovirus because immunity against poliovirus is primarily mucosal (secretory IgA), not serum IgG. This is why OPV (birth dose) is given — to provide early mucosal protection before the infant's own immune response matures.
+
+</details>
+
+---
+
+### Q121 — Dietary fat guidelines in children
+
+According to current recommended dietary guidelines for children, energy from saturated fats should be:
+
+- A. <10% of total energy intake
+- B. <5% of total energy intake
+- C. <15% of total energy intake
+- D. <30% of total energy intake
+
+<details><summary>Answer</summary>
+
+**A. <10% of total energy intake** — Current dietary guidelines recommend saturated fat <10% of total energy in children. Diets low in saturated fat and cholesterol (<300 mg/day) without trans fats are preferred for cardiovascular health.
+
+</details>
+
+---
+
+### Q122 — RDS: surfactant component deficient
+
+A newborn presents with chest retractions, dyspnea, and lethargy. The pediatrician diagnoses respiratory distress syndrome (RDS). This occurs due to deficiency of:
+
+- A. Dipalmitoyl inositol
+- B. Lecithin (dipalmitoylphosphatidylcholine)
+- C. Sphingomyelin
+- D. Dipalmitoylphosphatidylethanolamine
+
+<details><summary>Answer</summary>
+
+**B. Lecithin (dipalmitoylphosphatidylcholine)** — Pulmonary surfactant is primarily lecithin (DPPC), synthesised by type II pneumocytes. Deficiency in preterm neonates leads to RDS (hyaline membrane disease). The lecithin:sphingomyelin (L:S) ratio <2 indicates lung immaturity.
+
+</details>
+
+---
+
+### Q123 — Cystic fibrosis: diagnostic test
+
+Chloride level in sweat is used in the diagnosis of which disease?
+
+- A. Phenylketonuria
+- B. Cystic fibrosis
+- C. Gaucher's disease
+- D. Osteogenesis imperfecta
+
+<details><summary>Answer</summary>
+
+**B. Cystic fibrosis** — Sweat chloride >60 mmol/L (on two separate occasions) is the gold standard for CF diagnosis. CF is autosomal recessive; CFTR gene mutation causes defective chloride transport. Newborn screening uses immunoreactive trypsinogen (IRT).
+
+</details>
+
+---
+
+### Q124 — Pertussis in neonate: drug of choice
+
+A 3-week-old infant presents with paroxysmal cough followed by apnea. Total leucocyte count is >50,000 cells/μL. Which drug should be prescribed?
+
+- A. Azithromycin
+- B. Amoxicillin
+- C. Cotrimoxazole
+- D. Clarithromycin
+
+<details><summary>Answer</summary>
+
+**A. Azithromycin** — Pertussis in neonates (<1 month): azithromycin is drug of choice (erythromycin avoided in neonates due to risk of hypertrophic pyloric stenosis). Azithromycin is also used for post-exposure prophylaxis in household contacts and high-risk groups.
+
+</details>
+
+---
+
+### Q125 — Celiac disease: dietary management
+
+A 10-year-old child presents with diarrhoea, weight loss, and stunted growth. HLA-DQ2 is positive. Which dietary advice is appropriate?
+
+- A. Fat-free diet
+- B. Lactose-free diet
+- C. Low-carbohydrate diet
+- D. Gluten-free diet
+
+<details><summary>Answer</summary>
+
+**D. Gluten-free diet** — Celiac disease (gluten-sensitive enteropathy): avoid all gluten-containing foods: wheat, barley, rye. Safe grains include rice, maize, potato, soya. Anti-tTG IgA antibodies are the screening test; duodenal biopsy (villous atrophy) confirms diagnosis.
+
+</details>
+
+---
