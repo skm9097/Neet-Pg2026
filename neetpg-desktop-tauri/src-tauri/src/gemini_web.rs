@@ -132,6 +132,10 @@ async fn probe_inner(handle: &AppHandle) -> (bool, String) {
     .title("Gemini probe")
     .inner_size(1180.0, 900.0)
     .position(-32000.0, -32000.0)
+    // Visible (so WebView2 actually runs JS) but kept off-screen, off the
+    // taskbar, unfocused, and pinned behind every other window so it can never
+    // flash over the slideshow even if Windows clamps it onto a monitor.
+    .always_on_bottom(true)
     .skip_taskbar(true)
     .focused(false)
     .user_agent(UA)
@@ -140,6 +144,10 @@ async fn probe_inner(handle: &AppHandle) -> (bool, String) {
         Ok(w) => w,
         Err(e) => return (false, e.to_string()),
     };
+    // Defense-in-depth: re-assert off-screen + behind right after creation,
+    // since a freshly-created top-level window can briefly grab the foreground.
+    let _ = win.set_always_on_bottom(true);
+    let _ = win.set_position(tauri::LogicalPosition::new(-32000.0, -32000.0));
     tokio::time::sleep(Duration::from_secs(4)).await;
     let v = eval_in_win(handle, &win, &probe_script(), 25).await;
     let _ = win.destroy();
@@ -213,6 +221,12 @@ async fn generate_inner(
         .title("Gemini image worker")
         .inner_size(1180.0, 900.0)
         .position(-32000.0, -32000.0)
+        // Visible (so WebView2 actually runs JS) but kept off-screen, off the
+        // taskbar, unfocused, and pinned behind every other window so it can
+        // never appear over the slideshow even if Windows clamps it on-screen.
+        // (.visible(false) is NOT usable here — it stops WebView2 executing JS
+        // on Windows, so the Gemini SPA never boots; see git history.)
+        .always_on_bottom(true)
         .skip_taskbar(true)
         .focused(false)
         .user_agent(UA)
@@ -230,6 +244,12 @@ async fn generate_inner(
             return Err("Gemini web: worker window unexpectedly closed".into());
         }
     };
+    // Defense-in-depth on every cycle: keep the worker off-screen and behind
+    // everything. This is what stops it spawning over the slides — and because
+    // the user no longer needs to minimise it, the WebView2 keeps running JS so
+    // the in-page image driver can finish and the result reaches cache/repo.
+    let _ = win.set_always_on_bottom(true);
+    let _ = win.set_position(tauri::LogicalPosition::new(-32000.0, -32000.0));
 
     // driver_script counts images that exist BEFORE we submit the new prompt,
     // then waits for the count to increase — this correctly identifies the new
