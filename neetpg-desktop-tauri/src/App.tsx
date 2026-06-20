@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useCallback, useMemo, CSSProperties } from 'react'
+import { getCurrentWindow } from '@tauri-apps/api/window'
 import type { AppConfig, AppMode, MistakeCard, DashboardStats, SyncStatus } from './types'
 import { ICONS } from './data'
 import { Svg, Toast } from './components/ui'
@@ -133,14 +134,27 @@ export function App(): JSX.Element {
     if (card) setQuizCard(card)
   }, [])
 
+  const wasMaximized = useRef(false)
+  const changeMode = useCallback(async (m: AppMode) => {
+    const win = getCurrentWindow()
+    if (m === 'ambient') {
+      wasMaximized.current = await win.isMaximized().catch(() => false)
+      window.api.setFullscreen(true)
+    } else {
+      await win.setFullscreen(false).catch(() => {})
+      if (wasMaximized.current) {
+        setTimeout(() => win.maximize().catch(() => {}), 120)
+      }
+    }
+    setMode(m)
+  }, [])
+
   // ── Main-process events ──
   useEffect(() => {
     const off1 = window.api.onModeChange((m) => {
-      // 'active' from idle detection maps to dashboard here.
       const next: AppMode =
         m === 'ambient' ? 'ambient' : m === 'settings' ? 'settings' : m === 'images' ? 'images' : 'dashboard'
-      setMode(next)
-      window.api.setFullscreen(next === 'ambient')
+      changeMode(next)
     })
     const off2 = window.api.onCardsUpdated(() => refreshData())
     const off3 = window.api.onTriggerQuiz(() => triggerQuiz())
@@ -151,7 +165,7 @@ export function App(): JSX.Element {
       off3()
       off4()
     }
-  }, [refreshData, triggerQuiz])
+  }, [refreshData, triggerQuiz, changeMode])
 
   // ── Periodic stats/sync refresh so the dashboard & ambient header stay live ──
   useEffect(() => {
@@ -200,11 +214,6 @@ export function App(): JSX.Element {
     setSync((s) => ({ ...s, inProgress: true, lastError: null, phase: 'listing' }))
     window.api.syncNow().then(() => refreshData())
   }, [refreshData])
-
-  const changeMode = useCallback((m: AppMode) => {
-    setMode(m)
-    window.api.setFullscreen(m === 'ambient')
-  }, [])
 
   // ── Background schedulers ──
   // The Tauri core is event-driven; the webview owns all timing: periodic
@@ -263,9 +272,10 @@ export function App(): JSX.Element {
       fontSize: config?.fontSize ?? 26,
       animSpeed: config?.animSpeed ?? 'normal',
       cardDuration: config?.ambientCardSeconds ?? 20,
-      enableRephrase: config?.enableRephrase ?? true
+      enableRephrase: config?.enableRephrase ?? true,
+      showImages: config?.showCardImages ?? true
     }),
-    [config?.fontSize, config?.animSpeed, config?.ambientCardSeconds, config?.enableRephrase]
+    [config?.fontSize, config?.animSpeed, config?.ambientCardSeconds, config?.enableRephrase, config?.showCardImages]
   )
 
   if (!config) {

@@ -130,11 +130,9 @@ async fn probe_inner(handle: &AppHandle) -> (bool, String) {
         WebviewUrl::External(GEMINI_URL.parse().unwrap()),
     )
     .title("Gemini probe")
-    .inner_size(1180.0, 900.0)
+    .inner_size(800.0, 600.0)
     .position(-32000.0, -32000.0)
-    // Visible (so WebView2 actually runs JS) but kept off-screen, off the
-    // taskbar, unfocused, and pinned behind every other window so it can never
-    // flash over the slideshow even if Windows clamps it onto a monitor.
+    .decorations(false)
     .always_on_bottom(true)
     .skip_taskbar(true)
     .focused(false)
@@ -144,10 +142,11 @@ async fn probe_inner(handle: &AppHandle) -> (bool, String) {
         Ok(w) => w,
         Err(e) => return (false, e.to_string()),
     };
-    // Defense-in-depth: re-assert off-screen + behind right after creation,
-    // since a freshly-created top-level window can briefly grab the foreground.
     let _ = win.set_always_on_bottom(true);
     let _ = win.set_position(tauri::LogicalPosition::new(-32000.0, -32000.0));
+    if let Some(main) = handle.get_webview_window("main") {
+        let _ = main.set_focus();
+    }
     tokio::time::sleep(Duration::from_secs(4)).await;
     let v = eval_in_win(handle, &win, &probe_script(), 25).await;
     let _ = win.destroy();
@@ -219,20 +218,23 @@ async fn generate_inner(
             WebviewUrl::External(GEMINI_URL.parse().map_err(|e| format!("{e}"))?),
         )
         .title("Gemini image worker")
-        .inner_size(1180.0, 900.0)
+        .inner_size(800.0, 600.0)
         .position(-32000.0, -32000.0)
-        // Visible (so WebView2 actually runs JS) but kept off-screen, off the
-        // taskbar, unfocused, and pinned behind every other window so it can
-        // never appear over the slideshow even if Windows clamps it on-screen.
-        // (.visible(false) is NOT usable here — it stops WebView2 executing JS
-        // on Windows, so the Gemini SPA never boots; see git history.)
+        // .visible(false) is NOT usable — it stops WebView2 executing JS on
+        // Windows.  Instead: decorations off, off-screen, bottom z-order, no
+        // taskbar entry, no focus steal.
+        .decorations(false)
         .always_on_bottom(true)
         .skip_taskbar(true)
         .focused(false)
         .user_agent(UA)
         .build()
         .map_err(|e| e.to_string())?;
-        // Wait for the SPA to fully boot (only needed on first open per batch)
+        // Immediately return focus to the main window so the user never sees
+        // the worker flash over the slides.
+        if let Some(main) = handle.get_webview_window("main") {
+            let _ = main.set_focus();
+        }
         tokio::time::sleep(Duration::from_secs(4)).await;
         sess.window_ready.store(true, Ordering::SeqCst);
     }
@@ -244,12 +246,11 @@ async fn generate_inner(
             return Err("Gemini web: worker window unexpectedly closed".into());
         }
     };
-    // Defense-in-depth on every cycle: keep the worker off-screen and behind
-    // everything. This is what stops it spawning over the slides — and because
-    // the user no longer needs to minimise it, the WebView2 keeps running JS so
-    // the in-page image driver can finish and the result reaches cache/repo.
     let _ = win.set_always_on_bottom(true);
     let _ = win.set_position(tauri::LogicalPosition::new(-32000.0, -32000.0));
+    if let Some(main) = handle.get_webview_window("main") {
+        let _ = main.set_focus();
+    }
 
     // driver_script counts images that exist BEFORE we submit the new prompt,
     // then waits for the count to increase — this correctly identifies the new

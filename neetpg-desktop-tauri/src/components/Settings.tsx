@@ -183,6 +183,7 @@ export function Settings({
         </Section>
 
         <Section title="Display">
+          <Toggle label="Show card images in ambient slides" checked={local.showCardImages} onChange={(v) => update('showCardImages', v)} />
           <Range label="Font size" value={local.fontSize} min={16} max={40} unit="px" onChange={(v) => update('fontSize', v)} />
           <Field label="Animation speed">
             <SegmentedControl

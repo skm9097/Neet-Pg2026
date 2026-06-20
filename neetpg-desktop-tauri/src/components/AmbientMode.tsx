@@ -8,6 +8,7 @@ interface Tweaks {
   fontSize: number
   animSpeed: 'slow' | 'normal' | 'fast'
   cardDuration: number
+  showImages: boolean
 }
 
 /**
@@ -92,11 +93,12 @@ export function AmbientMode({
     return () => cancelAnimationFrame(raf)
   }, [fadeKey, paused, duration])
 
-  // Warm the next card's visual so it's ready by the time it rotates in.
+  const showImages = tweaks.showImages !== false
+
   useEffect(() => {
-    if (count < 2) return
+    if (!showImages || count < 2) return
     prefetchCardImage(feed[(idx + 1) % count])
-  }, [idx, feed, count])
+  }, [idx, feed, count, showImages])
 
   if (!card) {
     return (
@@ -140,8 +142,7 @@ export function AmbientMode({
       <div style={styles.mainArea}>
         <Crossfade keyProp={fadeKey} duration={fadeMs}>
           <div style={styles.mainGrid}>
-            {/* Left: heading + bullets + mistake */}
-            <div style={styles.leftCol}>
+            <div style={showImages ? styles.leftCol : styles.leftColFull}>
               <div
                 style={{
                   fontSize: Math.round(fs * 1.3),
@@ -215,18 +216,29 @@ export function AmbientMode({
               )}
             </div>
 
-            {/* Right: hero AI visual + stats */}
-            <div style={styles.rightCol}>
-              <CardVisual card={card} accent={info.color} />
-              <div
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'flex-end',
-                  gap: 10,
-                  paddingTop: 12
-                }}
-              >
+            {showImages && (
+              <div style={styles.rightCol}>
+                <CardVisual card={card} accent={info.color} />
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'flex-end',
+                    gap: 10,
+                    paddingTop: 12
+                  }}
+                >
+                  <span style={{ fontSize: 12, color: 'var(--wrong)', fontWeight: 600 }}>✕ {card.timesWrong}</span>
+                  {card.timesCorrect > 0 && (
+                    <span style={{ fontSize: 12, color: 'var(--correct)', fontWeight: 600 }}>✓ {card.timesCorrect}</span>
+                  )}
+                  <ErrorPill type={card.errorType} />
+                  <StatusBadge status={card.srStatus} />
+                </div>
+              </div>
+            )}
+            {!showImages && (
+              <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginTop: 'auto', paddingTop: 12 }}>
                 <span style={{ fontSize: 12, color: 'var(--wrong)', fontWeight: 600 }}>✕ {card.timesWrong}</span>
                 {card.timesCorrect > 0 && (
                   <span style={{ fontSize: 12, color: 'var(--correct)', fontWeight: 600 }}>✓ {card.timesCorrect}</span>
@@ -234,7 +246,7 @@ export function AmbientMode({
                 <ErrorPill type={card.errorType} />
                 <StatusBadge status={card.srStatus} />
               </div>
-            </div>
+            )}
           </div>
         </Crossfade>
       </div>
@@ -415,6 +427,14 @@ const styles: Record<string, CSSProperties> = {
     flexDirection: 'column',
     justifyContent: 'flex-start',
     minWidth: 0
+  },
+  leftColFull: {
+    flex: 1,
+    display: 'flex',
+    flexDirection: 'column',
+    justifyContent: 'flex-start',
+    minWidth: 0,
+    maxWidth: 900
   },
   rightCol: {
     flex: 1,

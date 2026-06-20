@@ -104,6 +104,7 @@ export interface AppConfig {
 
   // AI visuals (per-card infographic image generation)
   enableCardImages: boolean
+  showCardImages: boolean
   imageProvider: 'cloudflare' | 'gemini' | 'gemini-web' | 'pollinations'
   geminiApiKey: string
   geminiImageModel: string

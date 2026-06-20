@@ -19,6 +19,7 @@ pub struct Config {
     pub enable_rephrase: bool,
 
     pub enable_card_images: bool,
+    pub show_card_images: bool,
     pub image_provider: String, // cloudflare | gemini | pollinations
     pub gemini_api_key: String,
     pub gemini_image_model: String,
@@ -60,6 +61,7 @@ impl Default for Config {
             enable_rephrase: true,
 
             enable_card_images: true,
+            show_card_images: true,
             image_provider: "cloudflare".into(),
             gemini_api_key: String::new(),
             gemini_image_model: "gemini-2.5-flash-image".into(),
