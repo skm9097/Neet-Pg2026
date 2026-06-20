@@ -5,8 +5,9 @@
 *.exe
 *.dmg
 
-# Exception: releases/ folder is for distributing APK builds via GitHub
+# Exception: releases/ folder is for distributing app builds via GitHub
 !releases/*.apk
+!releases/*.exe
 
 # Flutter build output
 neet-quiz-app/build/
@@ -15,6 +16,12 @@ neet-quiz-app/build/
 neet-quiz-app/android/local.properties
 neet-quiz-app/android/.gradle/
 
-# PDF and binary source files
+# PDF and binary source files (raw dumps, source papers)
 *.pdf
 *.bin
+**/*.pdf
+
+# Exception: generated study notes PDFs (placed last so it takes precedence)
+!notes/*.pdf
+
+scripts/__pycache__/

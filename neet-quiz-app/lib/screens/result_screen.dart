@@ -1,16 +1,25 @@
 import 'package:flutter/material.dart';
 import '../models/question.dart';
+import '../services/progress_service.dart';
+import '../services/gemini_service.dart';
+import '../services/tts_service.dart';
 
 class ResultScreen extends StatefulWidget {
   final int total;
   final int correct;
   final List<Map<String, dynamic>> history;
+  final String? source;
+  final GeminiService? gemini;
+  final TtsService? tts;
 
   const ResultScreen({
     super.key,
     required this.total,
     required this.correct,
     required this.history,
+    this.source,
+    this.gemini,
+    this.tts,
   });
 
   @override
@@ -19,6 +28,36 @@ class ResultScreen extends StatefulWidget {
 
 class _ResultScreenState extends State<ResultScreen> {
   bool _showReview = false;
+  final Map<int, String> _aiExplanations = {};
+  final Set<int> _loadingAi = {};
+
+  @override
+  void initState() {
+    super.initState();
+    if (widget.source != null && widget.total > 0) {
+      ProgressService.record(widget.source!, widget.total, widget.correct);
+    }
+  }
+
+  Future<void> _explainWithAi(int index, Question q) async {
+    if (widget.gemini == null || _loadingAi.contains(index)) return;
+    setState(() => _loadingAi.add(index));
+    final detail = await widget.gemini!.getDetailedExplanation(
+      questionStem: q.stem,
+      optionA: q.optionA,
+      optionB: q.optionB,
+      optionC: q.optionC,
+      optionD: q.optionD,
+      correctOption: q.correctOption,
+      correctText: q.correctText,
+      explanation: q.explanation,
+    );
+    if (!mounted) return;
+    setState(() {
+      _aiExplanations[index] = detail;
+      _loadingAi.remove(index);
+    });
+  }
 
   int get _wrong => widget.total - widget.correct;
   int get _neetScore => (widget.correct * 4) - _wrong;
@@ -344,6 +383,10 @@ class _ResultScreenState extends State<ResultScreen> {
                         ),
                       ),
                     ],
+                    if (widget.gemini != null) ...[
+                      const SizedBox(height: 10),
+                      _buildAiBlock(i, q),
+                    ],
                   ],
                 ),
               );
@@ -351,6 +394,79 @@ class _ResultScreenState extends State<ResultScreen> {
           ),
         ),
       ],
+    );
+  }
+
+  Widget _buildAiBlock(int index, Question q) {
+    final explanation = _aiExplanations[index];
+    final loading = _loadingAi.contains(index);
+
+    if (explanation != null) {
+      return Container(
+        width: double.infinity,
+        padding: const EdgeInsets.all(12),
+        decoration: BoxDecoration(
+          color: const Color(0xFF15172B),
+          borderRadius: BorderRadius.circular(10),
+          border: Border.all(color: const Color(0xFF7C3AED).withOpacity(0.4)),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                const Icon(Icons.auto_awesome_rounded,
+                    size: 15, color: Color(0xFF7C3AED)),
+                const SizedBox(width: 6),
+                const Text(
+                  'AI Explanation',
+                  style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w700,
+                      color: Color(0xFF7C3AED)),
+                ),
+                const Spacer(),
+                if (widget.tts?.enabled ?? false)
+                  GestureDetector(
+                    onTap: () => widget.tts?.speak(explanation),
+                    child: const Icon(Icons.volume_up_rounded,
+                        size: 16, color: Color(0xFF7C3AED)),
+                  ),
+              ],
+            ),
+            const SizedBox(height: 8),
+            Text(
+              explanation,
+              style: const TextStyle(
+                  fontSize: 12.5, color: Colors.white, height: 1.5),
+            ),
+          ],
+        ),
+      );
+    }
+
+    return SizedBox(
+      width: double.infinity,
+      child: OutlinedButton.icon(
+        onPressed: loading ? null : () => _explainWithAi(index, q),
+        icon: loading
+            ? const SizedBox(
+                width: 14,
+                height: 14,
+                child: CircularProgressIndicator(
+                    strokeWidth: 2, color: Color(0xFF7C3AED)),
+              )
+            : const Icon(Icons.auto_awesome_rounded, size: 16),
+        label: Text(loading ? 'Asking Gemini…' : 'Explain with AI',
+            style: const TextStyle(fontSize: 13)),
+        style: OutlinedButton.styleFrom(
+          foregroundColor: const Color(0xFF7C3AED),
+          padding: const EdgeInsets.symmetric(vertical: 8),
+          shape:
+              RoundedRectangleBorder(borderRadius: BorderRadius.circular(10)),
+          side: BorderSide(color: const Color(0xFF7C3AED).withOpacity(0.4)),
+        ),
+      ),
     );
   }
 

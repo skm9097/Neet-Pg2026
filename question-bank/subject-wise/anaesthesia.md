@@ -22,7 +22,6 @@ Last structure pierced before entering the lumbar cistern during LP?
 </details>
 
 ---
-
 ### Q2 — Local anaesthetic systemic toxicity (LAST) treatment
 
 Young male on 0.25% bupivacaine becomes unresponsive with no pulse. Best management?
@@ -38,7 +37,6 @@ Young male on 0.25% bupivacaine becomes unresponsive with no pulse. Best managem
 </details>
 
 ---
-
 ### Q3 — Head tilt-chin lift
 
 Image shows airway manoeuvre with head extension and jaw lift:
@@ -54,7 +52,6 @@ Image shows airway manoeuvre with head extension and jaw lift:
 </details>
 
 ---
-
 ### Q4 — Non-rebreathing mask for COVID
 
 Best oxygen delivery device for COVID-19 patient needing high FiO₂?
@@ -70,7 +67,6 @@ Best oxygen delivery device for COVID-19 patient needing high FiO₂?
 </details>
 
 ---
-
 ### Q5 — Mallampati Class II
 
 Patient with base of uvula visible, soft and hard palate seen. Mallampati class?
@@ -86,7 +82,6 @@ Patient with base of uvula visible, soft and hard palate seen. Mallampati class?
 </details>
 
 ---
-
 ### Q6 — Capnography in bronchospasm (asthma)
 
 Asthma patient with shark-fin shaped capnograph. Indicates:
@@ -102,7 +97,6 @@ Asthma patient with shark-fin shaped capnograph. Indicates:
 </details>
 
 ---
-
 ### Q7 — Tuohy needle for epidural
 
 Needle used for epidural anaesthesia:
@@ -118,7 +112,6 @@ Needle used for epidural anaesthesia:
 </details>
 
 ---
-
 ### Q8 — Mapleson circuit valve pressure
 
 Maximum pressure setting for Mapleson breathing circuit relief valve:
@@ -134,7 +127,6 @@ Maximum pressure setting for Mapleson breathing circuit relief valve:
 </details>
 
 ---
-
 ### Q9 — Capnogram alveolar plateau
 
 Marked phase on capnogram showing constant EtCO₂:
@@ -150,7 +142,6 @@ Marked phase on capnogram showing constant EtCO₂:
 </details>
 
 ---
-
 ### Q10 — Capnogram Phase 1 dead space
 
 Capnogram Phase 1 represents:
@@ -166,7 +157,6 @@ Capnogram Phase 1 represents:
 </details>
 
 ---
-
 ### Q11 — Curare cleft on capnograph
 
 A notch in the alveolar plateau during spontaneous ventilation indicates:
@@ -182,7 +172,6 @@ A notch in the alveolar plateau during spontaneous ventilation indicates:
 </details>
 
 ---
-
 ### Q12 — Pin index for oxygen cylinder
 
 Pin Index Safety System (PISS) for oxygen cylinder pins:
@@ -198,7 +187,6 @@ Pin Index Safety System (PISS) for oxygen cylinder pins:
 </details>
 
 ---
-
 ### Q13 — Murphy's eye
 
 A device with "Murphy's eye" is:
@@ -214,7 +202,6 @@ A device with "Murphy's eye" is:
 </details>
 
 ---
-
 ### Q14 — LMA aspiration risk
 
 Main adverse effect of laryngeal mask airway (LMA):
@@ -248,7 +235,6 @@ Curare-type muscle relaxants act by:
 </details>
 
 ---
-
 ### Q16 — IV anaesthetic without myocardial depression
 
 IV induction agent with minimal cardiovascular depression:
@@ -264,7 +250,6 @@ IV induction agent with minimal cardiovascular depression:
 </details>
 
 ---
-
 ### Q17 — Desflurane NOT for paediatric induction
 
 Which is NOT used for inhalational induction in paediatric anaesthesia?
@@ -280,7 +265,6 @@ Which is NOT used for inhalational induction in paediatric anaesthesia?
 </details>
 
 ---
-
 ### Q18 — IV agent without injection pain
 
 Which IV induction agent does NOT cause injection pain?
@@ -296,7 +280,6 @@ Which IV induction agent does NOT cause injection pain?
 </details>
 
 ---
-
 ### Q19 — Local anaesthetic safe in liver disease
 
 Local anaesthetic preferred in patients with severe liver disease:
@@ -312,7 +295,6 @@ Local anaesthetic preferred in patients with severe liver disease:
 </details>
 
 ---
-
 ### Q20 — Succinylcholine side effect (NOT bronchospasm)
 
 Which is NOT a typical side effect of succinylcholine?
@@ -346,7 +328,6 @@ Recovery position is indicated for:
 </details>
 
 ---
-
 ### Q22 — AED for cardiac patient
 
 Portable microprocessor device delivering electric shock for cardiac arrest:
@@ -362,7 +343,6 @@ Portable microprocessor device delivering electric shock for cardiac arrest:
 </details>
 
 ---
-
 ### Q23 — BiPAP for COPD
 
 Non-invasive ventilatory support device for COPD exacerbation:
@@ -378,7 +358,6 @@ Non-invasive ventilatory support device for COPD exacerbation:
 </details>
 
 ---
-
 ### Q24 — Halothane and malignant hyperthermia
 
 Anaesthetic gas associated with MH trigger:
@@ -394,7 +373,6 @@ Anaesthetic gas associated with MH trigger:
 </details>
 
 ---
-
 ### Q25 — Atracurium histamine release
 
 Patient on atracurium develops flushing and hypotension. Cause?
@@ -410,7 +388,6 @@ Patient on atracurium develops flushing and hypotension. Cause?
 </details>
 
 ---
-
 ### Q26 — Stable narrow-complex SVT management
 
 60-year-old with narrow-complex tachycardia at 180 bpm, stable, no chest pain. First-line drug?
@@ -426,7 +403,6 @@ Patient on atracurium develops flushing and hypotension. Cause?
 </details>
 
 ---
-
 ### Q27 — EMLA cream composition
 
 Active ingredients in EMLA cream:
@@ -439,6 +415,926 @@ Active ingredients in EMLA cream:
 <details><summary>Answer</summary>
 
 **C. 2.5% Lidocaine + 2.5% prilocaine** — Eutectic Mixture of Local Anaesthetics. Applied 45–60 min before procedure (IV cannulation, minor surgery) on intact skin under occlusive dressing.
+</details>
+
+---
+
+<!-- Expanded from year-wise files (Medicoholic/PrepLadder/DocTutorials PYQs) -->
+### Q28 — All of the following drugs increase *(2015)*
+
+All of the following drugs increase the risk of postoperative nausea and vomiting after squint surgery in children except ?
+
+- A. Halothane
+- B. Opiods
+- C. Propofol
+- D. Nitrous Oxide
+
+<details><summary>Answer</summary>
+
+**C. Propofol**
+
+</details>
+
+---
+### Q29 — Patient male presented with a *(2015)*
+
+Male presented with a penetrating trauma to chest. He is dyspnoeic with distended neck veins with hypotension and mediastinum is
+
+- A. Insertion of a large bore needle in the 2" ICS in the mid
+- B. Fluid Resuscitation
+- C. Starting Inotropic support
+- D. Endotracheal Intubation
+
+<details><summary>Answer</summary>
+
+**A. Insertion of a large bore needle in the 2" ICS in the mid**
+
+</details>
+
+---
+### Q30 — Best uterine relaxation is seen with *(2015)*
+
+Best uterine relaxation is seen with ?
+
+- A. Chloroform
+- B. Nitrous oxide
+- C. Ether
+- D. Halothane
+
+<details><summary>Answer</summary>
+
+**D. Halothane**
+
+</details>
+
+---
+### Q31 — Which of the following drugs produces *(2015)*
+
+Which of the following drugs produces dissociative anesthesia
+
+- A. Ketamine
+- B. Propofol
+- C. Thiopentone
+- D. Enflurane
+
+<details><summary>Answer</summary>
+
+**A. Ketamine**
+
+</details>
+
+---
+### Q32 — Not included in neuraxial block *(2015)*
+
+Not included in neuraxial block ?
+
+- A. Spinal block
+- B. Epidural block
+- C. Bier's block
+- D. Caudal block
+
+<details><summary>Answer</summary>
+
+**C. Bier's block**
+
+</details>
+
+---
+### Q33 — Most common cause of maternal mortality *(2015)*
+
+Most common cause of maternal mortality in spinal anesthesia is ?
+
+- A. Allergy to local anesthesia
+- B. Nerve injury
+- C. High block
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**C. High block**
+
+</details>
+
+---
+### Q34 — Cauda equina syndrome is associated with *(2015)*
+
+Cauda equina syndrome is associated with ?
+
+- A. Lidocaine
+- B. Halothane
+- C. N20
+- D. Ether
+
+<details><summary>Answer</summary>
+
+**A. Lidocaine**
+
+</details>
+
+---
+### Q35 — Local anaesthetic injected directly into the *(2015)*
+
+Local anaesthetic injected directly into the tissue ?
+
+- A. Infiltration anaesthesia
+- B. Nerve block
+- C. Field block
+- D. Bier's block
+
+<details><summary>Answer</summary>
+
+**A. Infiltration anaesthesia**
+
+</details>
+
+---
+### Q36 — Propofol vial, once opened, should be *(2016)*
+
+Propofol vial, once opened, should be used within?
+
+- A. 2 hours
+- B. 4 hours
+- C. 6 hours
+- D. 8 hours
+
+<details><summary>Answer</summary>
+
+**C. 6 hours**
+
+</details>
+
+---
+### Q37 — Relative contraindication of neuraxialregional ane *(2016)*
+
+Relative contraindication of neuraxial/regional anesthesia is?
+
+- A. Hypertension
+- B. Renal disease
+- C. Sepsis
+- D. Diabetes
+
+<details><summary>Answer</summary>
+
+**C. Sepsis**
+
+</details>
+
+---
+### Q38 — Benzocaine is used in which type *(2016)*
+
+Benzocaine is used in which type of anesthesia?
+
+- A. Topical
+- B. Spinal
+- C. Epidural
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Topical**
+
+</details>
+
+---
+### Q39 — Triangle of Petit is a landmark *(2016)*
+
+"Triangle of Petit" is a landmark for which block?
+
+- A. Spinal block
+- B. Bier's block
+- C. TAP block
+- D. Epidural block
+
+<details><summary>Answer</summary>
+
+**C. TAP block**
+
+</details>
+
+---
+### Q40 — What is the intubation dose of *(2016)*
+
+What is the intubation dose of pancuronium?
+
+- A. 0.1 mg/kg
+- B. 1 mg/kg
+- C. 10 mg/kg
+- D. 20 mg/kg
+
+<details><summary>Answer</summary>
+
+**A. 0.1 mg/kg**
+
+</details>
+
+---
+
+## Year 2015
+
+### Q41 — The most appropriate circuit for ventilating
+
+The most appropriate circuit for ventilating a spontaneously breathing infant during anaesthesia is?
+
+- A. jackson Rees modification of Ayre's T piece
+- B. Mapleson A or Magill's circuit
+- C. Mapleson C or Waters to and fro canister
+- D. Bains circuit
+
+<details><summary>Answer</summary>
+
+**A. jackson Rees modification of Ayre's T piece** — **A. jackson Rees modification of Ayre's T piece** — Mapleson F (Jackson-Rees modification of Ayre's T-piece) is the preferred paediatric circuit: low resistance, no valves, light weight, minimal dead space; ideal for spontaneously breathing infants.
+
+</details>
+
+---
+
+---
+### Q42 — Which one of the following agents
+
+Which one of the following agents sensitizes the myocardium to catecholamines -
+
+- A. Isoflurane
+- B. Ether
+- C. Halothane
+- D. Propofol
+
+<details><summary>Answer</summary>
+
+**C. Halothane** — **C. Halothane** — Halothane sensitises myocardium to catecholamines, predisposing to ventricular arrhythmias; MAC 0.75%, also causes idiosyncratic 'halothane hepatitis' on repeat exposure. Isoflurane has minimal sensitisation.
+
+</details>
+
+---
+
+---
+### Q43 — All of the following statements about
+
+All of the following statements about neuromuscular blockage produced by succinylcholine are true, except:
+
+- A. No fade on Train of four stimulation
+- B. Fade on tetanic stimulation
+- C. No post tetanic facilitation
+- D. Train of four ratio > 0.4
+
+<details><summary>Answer</summary>
+
+**B. Fade on tetanic stimulation** — **B. Fade on tetanic stimulation** — Succinylcholine (Phase I depolarising block): no fade on TOF/tetanus, no post-tetanic facilitation, TOF ratio >0.4. Fade and PTF occur with non-depolarising blockers or Phase II block.
+
+</details>
+
+---
+
+---
+
+## Year 2016
+
+### Q44 — Hypotension following spinal anesthesia can be *(2016)*
+
+Hypotension following spinal anesthesia can be best prevented by?
+
+- A. Preloading with colloids
+- B. Using small size needle
+- C. Preloading with crystalloids
+- D. All of the above
+
+<details><summary>Answer</summary>
+
+**A. Preloading with colloids**
+
+</details>
+
+---
+
+---
+
+## Year 2017
+
+### Q45 — Murphys eye is seen in *(2017)*
+
+Murphy's eye is seen in
+
+- A. Macintosh laryngoscope
+- B. Endotracheal tube
+- C. LMA
+- D. Flexible laryngoscope
+
+<details><summary>Answer</summary>
+
+**B. Endotracheal tube**
+
+</details>
+
+---
+
+---
+### Q46 — Modified MallamPati grading is used in *(2017)*
+
+Modified MallamPati grading is used in assessment of
+
+- A. Difficult intubation
+- B. Airway obstruction
+- C. Death due to aspiration
+- D. Intubation
+
+<details><summary>Answer</summary>
+
+**A. Difficult intubation**
+
+</details>
+
+---
+
+---
+### Q47 — Which nerve is tested for adequacy *(2017)*
+
+Which nerve is tested for adequacy of anaesthesia
+
+- A. Median Nerve
+- B. Ulnar Nerve
+- C. Radial nerve
+- D. Mandibular nerve
+
+<details><summary>Answer</summary>
+
+**A. Median Nerve**
+
+</details>
+
+---
+
+---
+### Q48 — Most effective circuit in spontaneous anaesthesia *(2017)*
+
+Most effective circuit in spontaneous anaesthesia is
+
+- A. Mapleson A
+- B. Mapleson B
+- C. Mapleson C
+- D. Mapleson D
+
+<details><summary>Answer</summary>
+
+**A. Mapleson A**
+
+</details>
+
+---
+
+---
+### Q49 — Cutis marmorata occurs due to exposure *(2017)*
+
+Cutis marmorata occurs due to exposure to –
+
+- A. Cold temperature
+- B. Dust
+- C. Hot temperature
+- D. Humidity
+
+<details><summary>Answer</summary>
+
+**A. Cold temperature**
+
+</details>
+
+---
+
+---
+### Q50 — Imaging techniques used in Uterus anomalies *(2017)*
+
+Imaging techniques used in Uterus anomalies EXCEPT:
+
+- A. HSG
+- B. MRI guided HSG
+- C. CT guided HSG
+- D. USG
+
+<details><summary>Answer</summary>
+
+**C. CT guided HSG**
+
+</details>
+
+---
+
+---
+
+## Year 2018
+
+### Q51 — What is mechanism of action of *(2018)*
+
+What is mechanism of action of Curanium drugs as muscle relaxant
+
+- A. Persistently depolarizing at Neuromuscular junction
+- B. Act competitively on Ach receptors blocking post-synaptically
+- C. Repetitive stimulation of Ach receptors on muscle end plate
+- D. Inhibiting the calcium channel on presynaptic membrane
+
+<details><summary>Answer</summary>
+
+**B. Act competitively on Ach receptors blocking post-synaptically**
+
+</details>
+
+---
+
+---
+### Q52 — Trilene is degraded by *(2018)*
+
+Trilene is degraded by
+
+- A. Enzymatic Degradation
+- B. Non Enzymatic degradation
+- C. Chemical Degradation
+- D. None
+
+<details><summary>Answer</summary>
+
+**A. Enzymatic Degradation**
+
+</details>
+
+---
+
+<!-- Source: Medicoholic NEET-PG 2018 PYQ compilation -->
+
+---
+
+## Year 2019
+
+### Q53 — Curare mechanism
+
+Mechanism of curare-group muscle relaxants?
+
+- A. Persistent depolarisation
+- B. Competitive ACh blockade
+- C. Repetitive ACh receptor stimulation
+- D. Presynaptic Ca²⁺ channel inhibition
+
+<details><summary>Answer</summary>
+
+**B. Competitive ACh blockade** — Non-depolarising NMBs (curare, vecuronium, rocuronium) compete with ACh at nicotinic receptors.
+</details>
+
+---
+### Q54 — Paediatric induction — avoid
+
+Not used for induction in paediatric patients?
+
+- A. Halothane
+- B. Sevoflurane
+- C. Desflurane
+- D. Nitrous oxide
+
+<details><summary>Answer</summary>
+
+**C. Desflurane** — Pungent, airway-irritant; causes laryngospasm in children. Avoided for inhalational induction.
+</details>
+
+---
+
+---
+### Q55 — Anaesthetic gas with maximum respiratory irritatio *(2019)*
+
+Anaesthetic gas with maximum respiratory irritation
+
+- A. Halothane
+- B. Enflurane
+- C. Desflurane
+- D. Sevoflurane
+
+<details><summary>Answer</summary>
+
+**C. Desflurane**
+
+</details>
+
+---
+
+---
+### Q56 — IV administration of which anesthetic drug *(2019)*
+
+IV administration of which anesthetic drug is most painful among the following?
+
+- A. Methohexital
+- B. Ketamine
+- C. Propofol
+- D. Etomidate
+
+<details><summary>Answer</summary>
+
+**C. Propofol**
+
+</details>
+
+---
+
+---
+### Q57 — Which of the following is not *(2019)*
+
+Which of the following is not cardiodepressive?
+
+- A. Propofol
+- B. Thiopentone
+- C. Ketamine
+- D. Etomidate
+
+<details><summary>Answer</summary>
+
+**D. Etomidate**
+
+</details>
+
+---
+
+---
+### Q58 — Which of the following is the *(2019)*
+
+Which of the following is the most common method used to know depth of anaesthesia?
+
+- A. BIS
+- B. Oesophageal contractility
+- C. Depressed responses
+- D. Hypotension
+
+<details><summary>Answer</summary>
+
+**A. BIS**
+
+</details>
+
+---
+
+<!-- Source: NEET-PG 2019 recall PDF (nishantbhushan.in) -->
+
+---
+
+## Year 2020
+
+### Q59 — Best prognostic cardiac test
+
+Most accurate prognostic test for perioperative cardiac risk?
+
+- A. Exercise ECG
+- B. Myocardial perfusion scintigraphy
+- C. Coronary angiography
+- D. Dobutamine stress echocardiography
+
+<details><summary>Answer</summary>
+
+**D. Dobutamine stress echo** — High sensitivity/specificity for ischaemia & wall motion abnormalities in patients unable to exercise.
+</details>
+
+---
+### Q60 — Neostigmine reversal
+
+Drug given postoperatively to recover from nicotinic antagonist muscle weakness?
+
+- A. Physostigmine
+- B. Carbachol
+- C. Succinylcholine
+- D. Neostigmine
+
+<details><summary>Answer</summary>
+
+**D. Neostigmine** — Reverses non-depolarising NMB. Co-administer atropine/glycopyrrolate to block muscarinic effects.
+</details>
+
+---
+
+---
+
+## Year 2021
+
+### Q61 — Confirmation of ET tube position
+
+Method to confirm endotracheal tube position?
+
+- A. CXR
+- B. Auscultation
+- C. End-tidal CO₂
+- D. Chest rise
+
+<details><summary>Answer</summary>
+
+**C. End-tidal CO₂** — Gold standard (capnography) for confirming tracheal placement.
+</details>
+
+---
+### Q62 — Malignant hyperthermia trigger
+
+Patient on halothane develops hyperthermia and muscle rigidity. Trigger drug?
+
+- A. d-Tubocurarine
+- B. Suxamethonium
+- C. Cisatracurium
+- D. Rocuronium
+
+<details><summary>Answer</summary>
+
+**B. Suxamethonium** — Triggers (with halothane) malignant hyperthermia in susceptible individuals (RYR1 mutation).
+</details>
+
+---
+
+---
+### Q63 — Muscle relaxant causing histamine release
+
+Muscle relaxant causing erythema, bronchospasm, and hypotension due to histamine release?
+
+- A. Vecuronium
+- B. Atracurium
+- C. Cisatracurium
+- D. Pancuronium
+
+<details><summary>Answer</summary>
+
+**B. Atracurium** — Undergoes Hofmann elimination but also releases histamine. Cisatracurium (stereoisomer) does not cause histamine release — preferred in asthma/reactive airway disease.
+
+</details>
+
+---
+### Q64 — Malignant hyperthermia — treatment
+
+Sevoflurane + succinylcholine causes muscle rigidity and hyperthermia — treatment?
+
+- A. Dantrolene
+- B. Paracetamol
+- C. Calcium chloride
+- D. Propranolol
+
+<details><summary>Answer</summary>
+
+**A. Dantrolene** — Ryanodine receptor antagonist; reduces Ca²⁺ release from sarcoplasmic reticulum. First-line for malignant hyperthermia. Loading dose 2.5 mg/kg IV.
+
+</details>
+
+---
+
+---
+
+## Year 2023
+
+### Q65 — Cardiac surgery antibiotic prophylaxis
+
+Drug of choice for preoperative antibiotic prophylaxis in cardiac surgery.
+
+- A. Penicillin G
+- B. Erythromycin
+- C. Azithromycin
+- D. Cefazolin
+
+<details><summary>Answer</summary>
+
+**D. Cefazolin** — 1st-gen cephalosporin; covers staphylococci. Given within 60 min before incision.
+</details>
+
+---
+
+---
+### Q66 — O3 Malignant melanoma O4 Basal cell *(2023)*
+
+O3: Malignant melanoma O4: Basal cell carcinoma Ans: 3 Which of the following is the drug of choice for preoperative antibiotic prophylaxis in a patient undergoing cardiac surgery?
+
+- A. Penicillin G
+- B. Erythromycin
+- C. Malignant melanoma
+- D. Basal cell carcinoma
+
+<details><summary>Answer</summary>
+
+**C. Malignant melanoma**
+
+</details>
+
+---
+
+---
+### Q67 — During resuscitation, when is the given *(2023)*
+
+During resuscitation, when is the given position indicated? La
+
+- A. Unconsciousness with pulse and breathing absent
+- B. Unconsciousness with pulse present and breathing absent
+- C. Unconsciousness with pulse and breathing present
+- D. Unconsciousness with pulse absent and breathing present
+
+<details><summary>Answer</summary>
+
+**C. Unconsciousness with pulse and breathing present**
+
+</details>
+
+---
+
+---
+
+## Year 2024
+
+### Q68 — EMLA cream
+
+Which statement is accurate regarding EMLA?
+
+- A. EMLA contains ropivacaine and lignocaine
+- B. EMLA can lead to methemoglobinemia
+- C. EMLA contains 5% lignocaine
+- D. EMLA acts within 15 minutes
+
+<details><summary>Answer</summary>
+
+**B. EMLA can lead to methemoglobinemia** — Prilocaine (a component) is metabolized to o-toluidine, which oxidizes Hb to metHb. EMLA = 2.5% lignocaine + 2.5% prilocaine; onset ~60 min.
+</details>
+
+---
+### Q69 — Pulseless rhythm
+
+A patient presents with no pulse and a specific ECG rhythm (shockable). Next step?
+
+- A. Defibrillate, check pulse, then CPR
+- B. Cardioversion
+- C. Defibrillate, perform CPR, then check pulse
+- D. Administer epinephrine
+
+<details><summary>Answer</summary>
+
+**C. Defibrillate, perform CPR, then check pulse** — ACLS: immediately resume 2 min CPR after a shock before rhythm/pulse check.
+</details>
+
+---
+
+---
+### Q70 — What is the typical pressure setting *(2024)*
+
+What is the typical pressure setting for the valve in a Mapleson circuit?
+
+- A. 10–20 mmHg
+- B. 30–40 mmHg
+- C. 10–20 cm H₂O
+- D. 30–40 cm H₂O
+
+<details><summary>Answer</summary>
+
+**D. 30–40 cm H₂O**
+
+</details>
+
+---
+
+---
+### Q71 — Which drug is used to reverse *(2024)*
+
+Which drug is used to reverse the muscle relaxant effects of vecuronium when renal function is normal?
+
+- A. Sugammadex
+- B. Neostigmine
+- C. Atropine
+- D. Physostigmine
+
+<details><summary>Answer</summary>
+
+**A. Sugammadex**
+
+</details>
+
+---
+
+---
+### Q72 — What is the primary purpose of *(2024)*
+
+What is the primary purpose of PEEP (Positive End-Expiratory Pressure) in mechanical ventilation?
+
+- A. To increase respiratory rate
+- B. To reduce carbon dioxide levels
+- C. To increase the VR (venous return)
+- D. To open alveoli and prevent atelectasis
+
+<details><summary>Answer</summary>
+
+**D. To open alveoli and prevent atelectasis**
+
+</details>
+
+---
+
+---
+### Q73 — A 25-year-old patient undergoing orthopedic surger *(2024)*
+
+A 25-year-old patient undergoing orthopedic surgery under general anaesthesia suddenly developed a rise in EtCO₂, temperature, and also muscle rigidity. Which of the following drugs leads to such complications?
+
+- A. Propofol
+- B. Nitrous oxide
+- C. Etomidate
+- D. Halothane
+
+<details><summary>Answer</summary>
+
+**D. Halothane**
+
+</details>
+
+---
+
+---
+
+## Year 2025
+
+### Q74 — Malignant hyperthermia
+
+A patient on sevoflurane and succinylcholine develops post-operative muscle rigidity, hyperthermia, and rising end-tidal CO₂. Drug of choice?
+
+- A. Dantrolene
+- B. Diazepam
+- C. Propranolol
+- D. Paracetamol
+
+<details><summary>Answer</summary>
+
+**A. Dantrolene** — Ryanodine receptor blocker; specific treatment for malignant hyperthermia triggered by volatile anaesthetics and succinylcholine.
+</details>
+
+---
+
+---
+### Q75 — Histamine-releasing muscle relaxant
+
+A patient develops erythema, facial flushing, and hypotension after muscle relaxant administration. Which drug is responsible?
+
+- A. Cisatracurium
+- B. Atracurium
+- C. Rocuronium
+- D. Vecuronium
+
+<details><summary>Answer</summary>
+
+**B. Atracurium** — Causes histamine release (especially rapid IV bolus). Cisatracurium (an isomer) does not cause histamine release.
+</details>
+
+---
+
+---
+### Q76 — Anaesthesia of choice in pre-eclampsia
+
+What is the best type of anaesthesia for a patient with pre-eclampsia undergoing labour or caesarean section?
+
+- A. Spinal anaesthesia
+- B. Epidural anaesthesia
+- C. General anaesthesia
+- D. Caudal block
+
+<details><summary>Answer</summary>
+
+**B. Epidural anaesthesia** — Continuous epidural avoids difficult intubation (airway oedema), blunts the catecholamine/BP surge, and improves uteroplacental perfusion.
+
+</details>
+
+---
+
+### Q77 — Second-line drug in cardiac arrest after epinephrine
+
+During ACLS for cardiac arrest, if epinephrine is not effective, which drug should be given next (for shock-refractory VF/pulseless VT)?
+
+- A. Vasopressin
+- B. Atropine
+- C. Amiodarone
+- D. Adenosine
+
+<details><summary>Answer</summary>
+
+**C. Amiodarone** — Antiarrhythmic of choice in shock-refractory VF/pulseless VT; 300 mg IV bolus after epinephrine and defibrillation, then a 150 mg repeat dose if needed.
+
+</details>
+
+---
+
+### Q78 — Monitoring depth of anaesthesia
+
+Which of the following is most commonly used to monitor the depth of anaesthesia?
+
+- A. EEG
+- B. Evoked potentials
+- C. Entropy
+- D. Bispectral index (BIS)
+
+<details><summary>Answer</summary>
+
+**D. Bispectral index (BIS)** — Processed-EEG index most commonly used clinically to titrate depth of anaesthesia (mid-latency auditory evoked potentials are the most sensitive indicator).
+
+</details>
+
+---
+
+### Q79 — Parameter measured by pulse oximetry
+
+A small sensor placed on the finger measures the relative absorption of red and infrared light by oxygenated and deoxygenated haemoglobin. Which parameter does this device measure?
+
+- A. Oxygen saturation (SpO2)
+- B. Oxygen content of blood
+- C. Partial pressure of oxygen (PaO2)
+- D. Amount of inspired oxygen
+
+<details><summary>Answer</summary>
+
+**A. Oxygen saturation (SpO2)** — Pulse oximetry estimates functional Hb saturation; it does not measure oxygen content or partial pressures (falsely high in carboxyhaemoglobinaemia, falsely low in severe anaemia/low-output states).
+
 </details>
 
 ---

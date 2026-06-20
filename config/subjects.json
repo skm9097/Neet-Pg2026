@@ -1,0 +1,23 @@
+{
+  "subjects": [
+    {"id": "anatomy", "display": "Anatomy"},
+    {"id": "physiology", "display": "Physiology"},
+    {"id": "biochemistry", "display": "Biochemistry"},
+    {"id": "pathology", "display": "Pathology"},
+    {"id": "microbiology", "display": "Microbiology"},
+    {"id": "pharmacology", "display": "Pharmacology"},
+    {"id": "forensic-medicine", "display": "Forensic Medicine"},
+    {"id": "community-medicine", "display": "Community Medicine"},
+    {"id": "medicine", "display": "General Medicine"},
+    {"id": "surgery", "display": "General Surgery"},
+    {"id": "obstetrics-gynaecology", "display": "Obstetrics & Gynaecology"},
+    {"id": "pediatrics", "display": "Paediatrics"},
+    {"id": "orthopaedics", "display": "Orthopaedics"},
+    {"id": "ent", "display": "ENT"},
+    {"id": "ophthalmology", "display": "Ophthalmology"},
+    {"id": "dermatology", "display": "Dermatology"},
+    {"id": "psychiatry", "display": "Psychiatry"},
+    {"id": "radiology", "display": "Radiology"},
+    {"id": "anaesthesia", "display": "Anaesthesia"}
+  ]
+}

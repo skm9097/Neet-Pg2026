@@ -5,8 +5,11 @@ A practical schedule for using this question bank. Adjust dates based on your st
 ## Quick stats
 
 - **Exam:** NEET-PG, 200 questions, 3.5 hours, +4/−1 marking
-- **In this repo:** ~700 unique questions across all 19 NBE subjects
-- **Subject coverage:** Year-wise files (2019–2025) + Subject-wise pools
+- **Target date:** January 2026 (~7 months from now)
+- **In this repo:** 13,665+ questions across all 19 NBE subjects
+  - 6,277 year-wise (2015–2025, all 11 years fully covered)
+  - 7,388 subject-wise (19 subject pools, year-wise merged in)
+- **Concept books:** OBG (65 k words, 212 pages PDF) + PSM (38 pages PDF) in `notes/`
 
 ## Phase 1 — Subject foundation (8–10 weeks)
 
@@ -66,15 +69,24 @@ By now you know your weak subjects. For each weak subject:
 - Day −1: Mental rest. Light revision of high-yield facts only.
 - Day 0: Stay hydrated, sleep 7+ hours the night before.
 
-## Filling the 2015–2018 gap
+## Using the OBG Concept Book
 
-These years are NOT in the repo (only PDF sources noted in each `index.md`).
-If you want them, download from:
-- [medicoholic.com](https://medicoholic.com/neet-pg-question-papers/)
-- [Dr Nishant Bhushan PYQ archive](https://www.nishantbhushan.in/neetpgquestionpapers)
-- [Oncourse AI](https://getoncourse.ai/previous-year-papers/neet-pg/)
+For OBG (high-weight subject), supplement subject-wise drilling with:
+```
+notes/OBG_Concept_Book.md   — 65,000-word deep-dive, 12 chapters, 1,063 PYQs integrated
+notes/OBG_Concept_Book.pdf  — 212-page print-ready version
+```
+Each chapter teaches concepts *through* the questions themselves with full trap analysis. Use it after a first pass of `obstetrics-gynaecology.md`.
 
-These are older 300-Q format papers (pre-2022 pattern). High-yield but format is different. Treat as supplementary, not primary.
+## About the 2015–2018 years
+
+These years are **fully included** in the repo:
+- 2015: 1,846 Qs (Medicoholic PYQ compilation + firstranker.com actual 2015 paper)
+- 2016: 1,871 Qs (Medicoholic compilation + firstranker.com actual 2016 paper)
+- 2017: 249 Qs (Medicoholic NEET-PG 2017 recall)
+- 2018: 307 Qs (PrepLadder + Medicoholic recall)
+
+These are older 300-Q format papers (pre-2022 exam pattern). High-yield but note they include some pre-clinical basic science emphasis that has reduced in recent papers.
 
 ## Supplementary resources
 
@@ -84,7 +96,7 @@ For broader practice (Marrow, PrepLadder, DocTutorials QBanks have 10,000+ Qs):
 - DocTutorials QBank V5 (paid)
 - DAMS, DBMCI test series
 
-This repo gives you a **strong baseline of ~700 carefully curated questions** with mechanism explanations. Use it for active recall, not passive reading.
+This repo gives you a **strong baseline of 13,665+ questions** with real mechanism explanations (no boilerplate). Use it for active recall, not passive reading.
 
 ## How to track progress
 

@@ -46,22 +46,16 @@ Subject-wise PYQ pages (last 5 years). URL pattern: `/neet-pg-study-material/{su
 
 ## FirstRanker (firstranker.com)
 
-HTML question papers — try these URLs next session:
+HTML question papers — ❌ `/neetpg/` URLs all 404. Actual URL pattern:
+`https://firstranker.com/fr/frdA250525A081020/neet-pg-2021-previous-year-question-paper`
 
-| Year | URL to try | Status |
-|------|-----------|--------|
-| 2024 | https://firstranker.com/neetpg/neet-pg-2024-question-paper/ | ⏳ pending |
-| 2023 | https://firstranker.com/neetpg/neet-pg-2023-question-paper/ | ⏳ pending |
-| 2022 | https://firstranker.com/neetpg/neet-pg-2022-question-paper/ | ⏳ pending |
-| 2021 | https://firstranker.com/neetpg/neet-pg-2021-question-paper/ | ⏳ pending |
-| 2020 | https://firstranker.com/neetpg/neet-pg-2020-question-paper/ | ⏳ pending |
-| 2019 | https://firstranker.com/neetpg/neet-pg-2019-question-paper/ | ⏳ pending |
-| 2018 | https://firstranker.com/neetpg/neet-pg-2018-question-paper/ | ⏳ pending |
-| 2017 | https://firstranker.com/neetpg/neet-pg-2017-question-paper/ | ⏳ pending |
-| 2016 | https://firstranker.com/neetpg/neet-pg-2016-question-paper/ | ⏳ pending |
-| 2015 | https://firstranker.com/neetpg/neet-pg-2015-question-paper/ | ⏳ pending |
-
-Also try: https://www.firstranker.com/viewpapers/medical/neet-pg/
+| Year | Status | Notes |
+|------|--------|-------|
+| 2024 S1+S2 | ❌ PDF behind login | Content gated after HTML stub |
+| 2023 | ❌ PDF behind login | Only 11 Microbiology Qs visible in HTML stub |
+| 2022 | ❌ PDF behind login | Nearly all image-based questions |
+| 2021 | ⚠️ partial | ~50 Qs (Anatomy/Physiology/Biochem/Path/Pharm/FMT) in HTML; rest gated |
+| 2015–2020 | ❌ PDF behind login | Download link returns HTTP 403 |
 
 ---
 
@@ -69,10 +63,7 @@ Also try: https://www.firstranker.com/viewpapers/medical/neet-pg/
 
 | Year | URL to try | Status |
 |------|-----------|--------|
-| 2024 | https://www.examrace.com/NEET-PG/NEET-PG-FlexiPrep-Program/Postal-Course/NEET-PG-2024-Question-Paper.htm | ⏳ pending |
-| 2023 | https://www.examrace.com/NEET-PG/NEET-PG-FlexiPrep-Program/Postal-Course/NEET-PG-2023-Question-Paper.htm | ⏳ pending |
-| 2022 | Similar pattern | ⏳ pending |
-| 2018 | https://www.examrace.com/NEET-PG/NEET-PG-Previous-Years-Solved-Papers/ | ⏳ pending |
+| all years | https://www.examrace.com/NEET-PG/ | ❌ 503 (entire domain down as of 2026-05-24) |
 
 ---
 
@@ -101,11 +92,15 @@ PDF downloads. Cannot WebFetch PDFs — manual download required.
 
 ## Dr Nishant Bhushan (nishantbhushan.in)
 
-PDF archive for older years (pre-2019 AIPGMEE format).
+PDF archive — confirmed direct PDF links (manual download required, not WebFetch-accessible):
 
-| URL | Status |
-|-----|--------|
-| https://www.nishantbhushan.in/neetpgquestionpapers | 📄 PDF-only |
+| Year | Direct PDF URL | Status |
+|------|---------------|--------|
+| 2021 | https://www.nishantbhushan.in/_files/ugd/37999e_086d33f1c86d4f638c453b8919f2f98c.pdf | 📄 PDF-only — has answer key |
+| 2022 | https://www.nishantbhushan.in/_files/ugd/37999e_e1759464937f45c988f8c41df8cf0423.pdf | 📄 PDF-only — has answer key |
+| 2015–2018 | https://www.nishantbhushan.in/neetpgquestionpapers | 📄 PDF-only |
+
+**Priority:** Download 2021 PDF to fix the year-gap (currently only 227 recall Qs, no answer key).
 
 ---
 

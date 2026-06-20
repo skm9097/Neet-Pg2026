@@ -4,52 +4,39 @@ AI-powered Android quiz app that fetches questions from this GitHub repo, reads 
 
 ## Features
 
-- **Voice questions** — question + options spoken automatically on load (Android TTS)
+- **Voice questions** — question + options spoken on load (Android TTS), with a **toggle to turn voice on/off** (persisted) and a re-read button
 - **4-button quiz** — tap A / B / C / D to answer
-- **AI feedback** — Gemini 1.5 Flash explains why you're right or wrong, spoken aloud
+- **AI feedback** — Gemini 2.0 Flash explains why you're right or wrong, spoken aloud
+- **AI detailed explanation** — tap *"Explain in detail with AI"* on any question (or *"Explain with AI"* in review) for a structured breakdown: why the answer is correct, why each distractor is wrong, and a high-yield exam pearl
 - **4 study modes** — By Year (2018–2025), By Subject (19 NBE), Mixed, Custom count
 - **NEET marking** — result screen shows +4/−1 net score
+- **Progress tracking** — home screen shows your accuracy and net score per year/subject across sessions
 - **Full review** — see every question with your answer, correct answer, and explanation
+- **Image-question filtering** — image-only questions (no image in the text bank) are skipped automatically
 
 ## Setup
 
 ### Prerequisites
 
 - [Flutter SDK](https://docs.flutter.dev/get-started/install) ≥ 3.16
-- Android device or emulator (API 21+)
+- Android device or emulator (**API 24+** — required by the TTS plugin)
 - [Gemini API key](https://aistudio.google.com/app/apikey) (free, optional — app works without it using built-in feedback)
 
-### Steps
+### Build (the `android/` folder is committed, so no scaffolding needed)
 
 ```bash
-# 1. Create a new Flutter project
-flutter create neet_quiz_app
-cd neet_quiz_app
-
-# 2. Replace the lib/ folder with this one
-cp -r /path/to/this/neet-quiz-app/lib/* lib/
-
-# 3. Replace pubspec.yaml
-cp /path/to/this/neet-quiz-app/pubspec.yaml .
-
-# 4. Add internet permission to android/app/src/main/AndroidManifest.xml
-#    Inside the <manifest> tag, add:
-#    <uses-permission android:name="android.permission.INTERNET"/>
-
-# 5. Install dependencies
+cd neet-quiz-app
 flutter pub get
-
-# 6. Run
+flutter build apk --release      # → build/app/outputs/flutter-apk/app-release.apk
+# or run on a connected device:
 flutter run
 ```
 
-### AndroidManifest.xml patch
+A prebuilt APK is available in [`../releases/`](../releases/) (`neet-pg-quiz-v1.2.0.apk`).
 
-Open `android/app/src/main/AndroidManifest.xml` and add this line inside `<manifest>`:
-
-```xml
-<uses-permission android:name="android.permission.INTERNET"/>
-```
+The Android manifest already declares the required permissions
+(`INTERNET` for fetching questions + Gemini, `RECORD_AUDIO` for the voice
+tutor) and `minSdk` is set to 24.
 
 ### Gemini API Key
 
@@ -66,15 +53,17 @@ Home
  └─ Custom → pick type + count → Quiz
 
 Quiz
- ├─ Auto-reads question aloud on load
- ├─ Tap 🔊 to re-read
+ ├─ Auto-reads question aloud on load (if voice on)
+ ├─ Tap 🔊 to toggle voice on/off · ↻ to re-read
  ├─ Tap A/B/C/D → buttons turn green/red → AI speaks feedback
+ ├─ Tap "Explain in detail with AI" → structured Gemini explanation
  └─ Tap "Next Question" → repeat
 
 Result
  ├─ Score circle + accuracy %
  ├─ NEET marking breakdown (+4/−1)
- └─ "Review All" → full question-by-question review with explanations
+ ├─ Saves progress (per year/subject) → shown on Home
+ └─ "Review All" → per-question review + "Explain with AI" on each
 ```
 
 ## Project Structure

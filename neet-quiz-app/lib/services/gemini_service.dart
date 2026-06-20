@@ -5,6 +5,8 @@ class GeminiService {
   String _apiKey = '';
   ChatSession? _chatSession;
 
+  static const String modelName = 'gemini-3.5-flash';
+
   bool get isConfigured => _apiKey.isNotEmpty;
   String get apiKey => _apiKey;
 
@@ -13,7 +15,7 @@ class GeminiService {
     _chatSession = null;
     if (_apiKey.isNotEmpty) {
       _model = GenerativeModel(
-        model: 'gemini-1.5-flash-latest',
+        model: modelName,
         apiKey: _apiKey,
       );
     } else {
@@ -86,6 +88,61 @@ Keep it conversational, clinical, and concise. No markdown, no bullet points —
       return 'Correct! $correctOption: $correctText. $explanation';
     }
     return 'Not quite. The correct answer is $correctOption: $correctText. $explanation';
+  }
+
+  // ── Detailed AI explanation (on demand, text) ─────────────────────────────
+
+  /// Returns a richer, structured explanation of a question for reading
+  /// (not for speech). Covers why the answer is right, why each distractor
+  /// is wrong, and one high-yield exam pearl.
+  Future<String> getDetailedExplanation({
+    required String questionStem,
+    required String optionA,
+    required String optionB,
+    required String optionC,
+    required String optionD,
+    required String correctOption,
+    required String correctText,
+    required String explanation,
+  }) async {
+    if (_model == null) {
+      return 'Add your Gemini API key in Settings to get a detailed AI '
+          'explanation.\n\nQuick note: the correct answer is '
+          '$correctOption — $correctText. $explanation';
+    }
+
+    final prompt = '''You are an expert NEET-PG 2026 tutor. Explain this MCQ clearly for a medical student revising for the exam.
+
+Question: $questionStem
+
+Options:
+A. $optionA
+B. $optionB
+C. $optionC
+D. $optionD
+
+Correct answer: $correctOption. $correctText
+Reference fact: $explanation
+
+Write a focused explanation with these short sections (use these exact headings):
+Why $correctOption is correct: (2-3 sentences with the core mechanism/concept)
+Why the others are wrong: (one short line per incorrect option)
+High-yield pearl: (one memorable exam-oriented fact or mnemonic)
+
+Be clinically precise and concise. Plain text only — no markdown symbols like ** or ##.''';
+
+    try {
+      final response = await _model!.generateContent([Content.text(prompt)]);
+      final text = response.text?.trim();
+      if (text == null || text.isEmpty) {
+        return 'Could not generate an explanation right now. '
+            'Correct answer: $correctOption — $correctText. $explanation';
+      }
+      return text;
+    } catch (e) {
+      return 'AI explanation unavailable (${e.toString().split('\n').first}). '
+          'Correct answer: $correctOption — $correctText. $explanation';
+    }
   }
 
   // ── Interactive tutor chat ────────────────────────────────────────────────

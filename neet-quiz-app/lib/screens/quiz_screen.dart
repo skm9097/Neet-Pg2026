@@ -36,6 +36,9 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
   int _correctCount = 0;
   final List<Map<String, dynamic>> _history = [];
 
+  String _detailedExplanation = '';
+  bool _loadingDetailed = false;
+
   late AnimationController _feedbackAnim;
   late Animation<double> _feedbackFade;
 
@@ -99,7 +102,8 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
               q.optionA.isNotEmpty &&
               q.optionB.isNotEmpty &&
               q.optionC.isNotEmpty &&
-              q.optionD.isNotEmpty)
+              q.optionD.isNotEmpty &&
+              !q.isImageBased)
           .toList();
 
       all.shuffle(Random());
@@ -136,6 +140,35 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
       'Option C: ${q.optionC}. '
       'Option D: ${q.optionD}.',
     );
+  }
+
+  Future<void> _toggleTts() async {
+    final on = await widget.tts.toggle();
+    if (on) {
+      _speakQuestion(_currentQuestion);
+    }
+    if (mounted) setState(() {});
+  }
+
+  Future<void> _fetchDetailedExplanation() async {
+    if (_loadingDetailed) return;
+    final q = _currentQuestion;
+    setState(() => _loadingDetailed = true);
+    final detail = await widget.gemini.getDetailedExplanation(
+      questionStem: q.stem,
+      optionA: q.optionA,
+      optionB: q.optionB,
+      optionC: q.optionC,
+      optionD: q.optionD,
+      correctOption: q.correctOption,
+      correctText: q.correctText,
+      explanation: q.explanation,
+    );
+    if (!mounted) return;
+    setState(() {
+      _detailedExplanation = detail;
+      _loadingDetailed = false;
+    });
   }
 
   Future<void> _selectOption(String option) async {
@@ -176,6 +209,17 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
     widget.tts.speak(feedback);
   }
 
+  String get _quizSource {
+    switch (widget.config.moduleType) {
+      case ModuleType.byYear:
+        return 'year_${widget.config.year ?? "unknown"}';
+      case ModuleType.bySubject:
+        return 'subject_${widget.config.subject ?? "unknown"}';
+      case ModuleType.mixed:
+        return 'mixed';
+    }
+  }
+
   void _nextQuestion() {
     widget.tts.stop();
     if (_currentIndex + 1 >= _questions.length) {
@@ -185,6 +229,9 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
             total: _questions.length,
             correct: _correctCount,
             history: _history,
+            source: _quizSource,
+            gemini: widget.gemini,
+            tts: widget.tts,
           ),
         ),
       );
@@ -197,6 +244,8 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
       _answered = false;
       _aiFeedback = '';
       _loadingFeedback = false;
+      _detailedExplanation = '';
+      _loadingDetailed = false;
     });
     _speakQuestion(_questions[_currentIndex]);
   }
@@ -321,7 +370,9 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
                     if (_answered) ...[
                       const SizedBox(height: 20),
                       _buildFeedbackCard(),
-                      const SizedBox(height: 20),
+                      const SizedBox(height: 12),
+                      _buildExplainSection(),
+                      const SizedBox(height: 16),
                       _buildNextButton(),
                     ],
                     const SizedBox(height: 20),
@@ -360,11 +411,24 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
                   ),
                 ),
               ),
+              if (widget.tts.enabled)
+                IconButton(
+                  icon: const Icon(Icons.replay_rounded,
+                      color: Color(0xFF7C3AED)),
+                  onPressed: () => _speakQuestion(_currentQuestion),
+                  tooltip: 'Re-read question',
+                ),
               IconButton(
-                icon: const Icon(Icons.volume_up_rounded,
-                    color: Color(0xFF7C3AED)),
-                onPressed: () => _speakQuestion(_currentQuestion),
-                tooltip: 'Re-read question',
+                icon: Icon(
+                  widget.tts.enabled
+                      ? Icons.volume_up_rounded
+                      : Icons.volume_off_rounded,
+                  color: widget.tts.enabled
+                      ? const Color(0xFF7C3AED)
+                      : Colors.white38,
+                ),
+                onPressed: _toggleTts,
+                tooltip: widget.tts.enabled ? 'Voice on (tap to mute)' : 'Voice off (tap to enable)',
               ),
             ],
           ),
@@ -589,6 +653,80 @@ class _QuizScreenState extends State<QuizScreen> with TickerProviderStateMixin {
                     ),
             ),
           ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildExplainSection() {
+    if (_detailedExplanation.isNotEmpty) {
+      return Container(
+        width: double.infinity,
+        padding: const EdgeInsets.all(16),
+        decoration: BoxDecoration(
+          color: const Color(0xFF15172B),
+          borderRadius: BorderRadius.circular(14),
+          border: Border.all(color: const Color(0xFF7C3AED).withOpacity(0.4)),
+        ),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                const Icon(Icons.auto_awesome_rounded,
+                    size: 18, color: Color(0xFF7C3AED)),
+                const SizedBox(width: 8),
+                const Text(
+                  'AI Detailed Explanation',
+                  style: TextStyle(
+                      fontSize: 14,
+                      fontWeight: FontWeight.w700,
+                      color: Colors.white),
+                ),
+                const Spacer(),
+                if (widget.tts.enabled)
+                  GestureDetector(
+                    onTap: () => widget.tts.speak(_detailedExplanation),
+                    child: const Icon(Icons.volume_up_rounded,
+                        size: 18, color: Color(0xFF7C3AED)),
+                  ),
+              ],
+            ),
+            const SizedBox(height: 10),
+            Text(
+              _detailedExplanation,
+              style: const TextStyle(
+                color: Colors.white,
+                fontSize: 13.5,
+                height: 1.55,
+              ),
+            ),
+          ],
+        ),
+      );
+    }
+
+    return SizedBox(
+      width: double.infinity,
+      child: OutlinedButton.icon(
+        onPressed: _loadingDetailed ? null : _fetchDetailedExplanation,
+        icon: _loadingDetailed
+            ? const SizedBox(
+                width: 16,
+                height: 16,
+                child: CircularProgressIndicator(
+                    strokeWidth: 2, color: Color(0xFF7C3AED)),
+              )
+            : const Icon(Icons.auto_awesome_rounded, size: 18),
+        label: Text(_loadingDetailed
+            ? 'Asking Gemini…'
+            : 'Explain in detail with AI'),
+        style: OutlinedButton.styleFrom(
+          foregroundColor: const Color(0xFF7C3AED),
+          padding: const EdgeInsets.symmetric(vertical: 13),
+          shape:
+              RoundedRectangleBorder(borderRadius: BorderRadius.circular(12)),
+          side: BorderSide(color: const Color(0xFF7C3AED).withOpacity(0.5)),
         ),
       ),
     );

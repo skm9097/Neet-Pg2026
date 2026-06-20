@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import '../services/gemini_service.dart';
 import '../services/tts_service.dart';
 import '../services/github_service.dart';
+import '../services/progress_service.dart';
 import '../models/quiz_config.dart';
 import 'quiz_screen.dart';
 import 'settings_screen.dart';
@@ -18,6 +19,19 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  List<ProgressEntry> _progress = [];
+
+  @override
+  void initState() {
+    super.initState();
+    _loadProgress();
+  }
+
+  Future<void> _loadProgress() async {
+    final entries = await ProgressService.loadAll();
+    if (mounted) setState(() => _progress = entries);
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -39,6 +53,12 @@ class _HomeScreenState extends State<HomeScreen> {
                     _sectionTitle('Quiz Mode'),
                     const SizedBox(height: 12),
                     _buildModuleGrid(),
+                    if (_progress.isNotEmpty) ...[
+                      const SizedBox(height: 24),
+                      _sectionTitle('Your Progress'),
+                      const SizedBox(height: 12),
+                      _buildProgressSection(),
+                    ],
                   ],
                 ),
               ),
@@ -272,7 +292,7 @@ class _HomeScreenState extends State<HomeScreen> {
     await Navigator.push(
       context,
       MaterialPageRoute(
-        builder: (_) => SettingsScreen(gemini: widget.gemini),
+        builder: (_) => SettingsScreen(gemini: widget.gemini, tts: widget.tts),
       ),
     );
     setState(() {});
@@ -515,8 +535,8 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  void _startQuiz(QuizConfig config) {
-    Navigator.push(
+  Future<void> _startQuiz(QuizConfig config) async {
+    await Navigator.push(
       context,
       MaterialPageRoute(
         builder: (_) => QuizScreen(
@@ -526,6 +546,81 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
       ),
     );
+    _loadProgress();
+  }
+
+  Widget _buildProgressSection() {
+    return Column(
+      children: _progress.take(5).map((e) {
+        final label = _progressLabel(e.source);
+        final pct = (e.accuracy * 100).round();
+        final color = e.accuracy >= 0.7
+            ? const Color(0xFF10B981)
+            : e.accuracy >= 0.5
+                ? const Color(0xFFFBBF24)
+                : const Color(0xFFEF4444);
+        return Container(
+          margin: const EdgeInsets.only(bottom: 8),
+          padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
+          decoration: BoxDecoration(
+            color: const Color(0xFF1A1A2E),
+            borderRadius: BorderRadius.circular(12),
+            border: Border.all(color: const Color(0xFF2A2A4A)),
+          ),
+          child: Row(
+            children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      label,
+                      style: const TextStyle(
+                          fontSize: 14,
+                          fontWeight: FontWeight.w600,
+                          color: Colors.white),
+                    ),
+                    const SizedBox(height: 4),
+                    Text(
+                      '${e.attempted} attempted · ${e.correct} correct',
+                      style: TextStyle(
+                          fontSize: 12,
+                          color: Colors.white.withOpacity(0.5)),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(width: 12),
+              Column(
+                crossAxisAlignment: CrossAxisAlignment.end,
+                children: [
+                  Text(
+                    '$pct%',
+                    style: TextStyle(
+                        fontSize: 18,
+                        fontWeight: FontWeight.w800,
+                        color: color),
+                  ),
+                  Text(
+                    '${e.neetScore > 0 ? "+" : ""}${e.neetScore} pts',
+                    style: TextStyle(fontSize: 11, color: color.withOpacity(0.7)),
+                  ),
+                ],
+              ),
+            ],
+          ),
+        );
+      }).toList(),
+    );
+  }
+
+  String _progressLabel(String source) {
+    if (source.startsWith('year_')) return 'Year ${source.substring(5)}';
+    if (source.startsWith('subject_')) {
+      final slug = source.substring(8);
+      return GitHubService.subjectDisplayNames[slug] ?? slug;
+    }
+    return 'Mixed';
   }
 }
 

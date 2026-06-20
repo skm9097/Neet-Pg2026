@@ -1,11 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../services/gemini_service.dart';
+import '../services/tts_service.dart';
 
 class SettingsScreen extends StatefulWidget {
   final GeminiService gemini;
+  final TtsService tts;
 
-  const SettingsScreen({super.key, required this.gemini});
+  const SettingsScreen({super.key, required this.gemini, required this.tts});
 
   @override
   State<SettingsScreen> createState() => _SettingsScreenState();
@@ -83,12 +85,24 @@ class _SettingsScreenState extends State<SettingsScreen> {
           ),
           const SizedBox(height: 24),
           _buildSection(
+            title: 'Voice',
+            children: [
+              _buildVoiceToggle(),
+            ],
+          ),
+          const SizedBox(height: 24),
+          _buildSection(
             title: 'About',
             children: [
               _buildInfoTile(
                 icon: Icons.quiz_rounded,
                 label: 'Question Source',
                 value: 'GitHub · skm9097/neet-pg2026',
+              ),
+              _buildInfoTile(
+                icon: Icons.smart_toy_rounded,
+                label: 'AI Model',
+                value: GeminiService.modelName,
               ),
               _buildInfoTile(
                 icon: Icons.school_rounded,
@@ -103,7 +117,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
               _buildInfoTile(
                 icon: Icons.code_rounded,
                 label: 'App Version',
-                value: '1.0.0',
+                value: '1.2.0',
               ),
             ],
           ),
@@ -297,6 +311,57 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 ),
               ],
             ],
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildVoiceToggle() {
+    final on = widget.tts.enabled;
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+      child: Row(
+        children: [
+          Container(
+            padding: const EdgeInsets.all(8),
+            decoration: BoxDecoration(
+              color: const Color(0xFF7C3AED).withOpacity(0.15),
+              borderRadius: BorderRadius.circular(8),
+            ),
+            child: Icon(
+              on ? Icons.volume_up_rounded : Icons.volume_off_rounded,
+              color: const Color(0xFF7C3AED),
+              size: 20,
+            ),
+          ),
+          const SizedBox(width: 12),
+          const Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  'Read aloud (TTS)',
+                  style: TextStyle(
+                      fontWeight: FontWeight.w600,
+                      fontSize: 15,
+                      color: Colors.white),
+                ),
+                SizedBox(height: 2),
+                Text(
+                  'Speak questions and AI feedback automatically',
+                  style: TextStyle(fontSize: 12, color: Colors.white38),
+                ),
+              ],
+            ),
+          ),
+          Switch(
+            value: on,
+            activeColor: const Color(0xFF7C3AED),
+            onChanged: (v) async {
+              await widget.tts.setEnabled(v);
+              setState(() {});
+            },
           ),
         ],
       ),

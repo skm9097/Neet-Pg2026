@@ -1,0 +1,34 @@
+appId: com.skm9097.neetpg.desktop
+productName: NEET PG Desktop
+copyright: Copyright © 2026 skm9097
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - '!**/.vscode/*'
+  - '!src/*'
+  - '!electron.vite.config.{js,ts,mjs,cjs}'
+  - '!{.eslintignore,.eslintrc.cjs,.prettierignore,.prettierrc.yaml,dev-app-update.yml,CHANGELOG.md,README.md}'
+  - '!{.env,.env.*,.npmrc,pnpm-lock.yaml}'
+  - '!{tsconfig.json,tsconfig.node.json,tsconfig.web.json}'
+asarUnpack:
+  - resources/**
+win:
+  executableName: NEET-PG-Desktop
+  icon: resources/icon.png
+  # The installer + Start-menu/desktop shortcut icons come from the .ico via
+  # NSIS (native). We skip embedding the icon/version into the .exe itself
+  # (rcedit), which is the only step that needs 32-bit Wine on a Linux builder.
+  signAndEditExecutable: false
+  target:
+    - target: nsis
+      arch:
+        - x64
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  deleteAppDataOnUninstall: false
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: NEET PG Desktop

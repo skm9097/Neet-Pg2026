@@ -37,36 +37,39 @@ Neet-Pg2026/
     ├── STUDY-PLAN.md                ← 16-week phased study schedule
     ├── template.md                  ← schema for adding new questions
     │
-    ├── subject-wise/                ← multi-year pools, one file per subject (~400 Qs total)
+    ├── subject-wise/                ← multi-year pools, one file per subject (7,616 Qs total)
     │   ├── README.md
-    │   ├── anaesthesia.md           (27 Qs)
-    │   ├── anatomy.md               (20 Qs)
-    │   ├── biochemistry.md          (20 Qs)
-    │   ├── community-medicine.md    (20 Qs)
-    │   ├── dermatology.md           (20 Qs)
-    │   ├── ent.md                   (20 Qs)
-    │   ├── forensic-medicine.md     (35 Qs)
-    │   ├── medicine.md              (20 Qs)
-    │   ├── microbiology.md          (20 Qs)
-    │   ├── obstetrics-gynaecology.md (30 Qs)
-    │   ├── ophthalmology.md         (15 Qs)
-    │   ├── orthopaedics.md          (40 Qs)
-    │   ├── pathology.md             (18 Qs)
-    │   ├── pediatrics.md            (14 Qs)
-    │   ├── pharmacology.md          (10 Qs)
-    │   ├── physiology.md            (16 Qs)
-    │   ├── psychiatry.md            (20 Qs)
-    │   ├── radiology.md             (15 Qs)
-    │   └── surgery.md               (20 Qs)
+    │   ├── anaesthesia.md           (79 Qs)
+    │   ├── anatomy.md               (824 Qs)
+    │   ├── biochemistry.md          (444 Qs)
+    │   ├── community-medicine.md    (744 Qs)
+    │   ├── dermatology.md           (221 Qs)
+    │   ├── ent.md                   (721 Qs)
+    │   ├── forensic-medicine.md     (134 Qs)
+    │   ├── medicine.md              (602 Qs)
+    │   ├── microbiology.md          (269 Qs)
+    │   ├── obstetrics-gynaecology.md (1063 Qs)
+    │   ├── ophthalmology.md         (281 Qs)
+    │   ├── orthopaedics.md          (121 Qs)
+    │   ├── pathology.md             (515 Qs)
+    │   ├── pediatrics.md            (125 Qs)
+    │   ├── pharmacology.md          (374 Qs)
+    │   ├── physiology.md            (563 Qs)
+    │   ├── psychiatry.md            (174 Qs)
+    │   ├── radiology.md             (106 Qs)
+    │   └── surgery.md               (256 Qs)
     │
-    ├── 2025/questions.md            ← 200 Qs (full DigiNerve recall set)
-    ├── 2024/questions.md            ← 40 Qs (recall, partial)
-    ├── 2023/questions.md            ← 35 Qs (recall, partial)
-    ├── 2022/questions.md            ← 29 Qs (recall, partial)
-    ├── 2021/questions.md            ← 36 Qs (recall, partial)
-    ├── 2020/questions.md            ← 36 Qs (recall, partial)
-    ├── 2019/questions.md            ← 22 Qs (recall, partial)
-    ├── 2015–2018/                   ← index.md only; PDF source links provided
+    ├── 2025/questions.md            ← 199 Qs (full DigiNerve recall set)
+    ├── 2024/questions.md            ← 305 Qs (DocTutorials Shift 1+2)
+    ├── 2023/questions.md            ← 210 Qs (PrepLadder + Medicoholic)
+    ├── 2022/questions.md            ← 215 Qs (PrepLadder + Medicoholic)
+    ├── 2021/questions.md            ← 346 Qs (PrepLadder recall + DocTutorials merged)
+    ├── 2020/questions.md            ← 373 Qs (Medicoholic PYQ)
+    ├── 2019/questions.md            ← 356 Qs (Medicoholic + nishantbhushan.in)
+    ├── 2018/questions.md            ← 307 Qs (PrepLadder + Medicoholic)
+    ├── 2017/questions.md            ← 249 Qs (Medicoholic NEET-PG 2017)
+    ├── 2016/questions.md            ← 1,871 Qs (Medicoholic PYQ compilation + firstranker.com)
+    ├── 2015/questions.md            ← 1,846 Qs (Medicoholic PYQ compilation + firstranker.com 2015)
     │
     ├── staging/                     ← unverified extracted questions pending review
     │   └── README.md
@@ -79,11 +82,15 @@ Neet-Pg2026/
         └── 2022-2024/               ← raw content for recent years
 ```
 
-**Current totals:**
-- Year-wise: ~400 questions (2019–2025, full 200 for 2025)
-- Subject-wise: ~400 questions across all 19 NBE subjects
-- Combined unique: ~700 distinct questions
-- Gap: 2015–2018 (0 questions; PDF source links in each year's `index.md`)
+**Current totals (as of 2026-06-17, post-Phase-3 cleanup):**
+- Year-wise: 6,277 questions (2015–2025, all years covered, sequentially numbered, 0 within-file duplicates)
+- Subject-wise: 7,616 questions across all 19 NBE subjects (full year-wise pool merged in; +55 NEET-PG 2018–2023 PYQs added 2026-06-16; +51 more added 2026-06-17; +103 path/pharm/physio/psych PYQs added 2026-06-17; +19 radiology/surgery PYQs added 2026-06-17 — all 19 subjects' 2018–2023 PYQ sets now ingested)
+- Grand total: ~13,893+ entries across year-wise + subject-wise
+- Gap: 2021 (346 Qs after DocTutorials merge; still no answer-keyed official PDF)
+- OBG: 1,063 Qs (most complete subject, extensively expanded)
+- Anatomy: 824 Qs (year-wise 2015+2016 Medicoholic + firstranker.com actual papers merged in)
+- Community Medicine: 744 Qs, ENT: 707 Qs
+- Quality: subject headings standardized; 0 cross-file answer conflicts; image-only and garbled-OCR stems removed; 3,311 boilerplate `Source: … compilation` explanations replaced with real one-line mechanisms (6,487 file locations updated)
 
 ---
 
@@ -92,9 +99,9 @@ Neet-Pg2026/
 The owner has ~90 days to exam. Strategy is reactivation, not relearning from zero.
 
 ### Priority order for Claude when building/expanding the question bank:
-1. **Fill year-wise gaps first** — 2019–2024 each have only 22–40 Qs vs. the full 200. Finding additional recall questions for these years is the highest-impact task.
-2. **2015–2018 second** — These are 300-question papers (old format). Even 50–100 Qs per year from HTML sources is valuable.
-3. **Subject-wise depth third** — Low-count subjects (Pharmacology 10 Qs, Ophthalmology 15 Qs, Radiology 15 Qs, Physiology 16 Qs, Pediatrics 14 Qs) need more questions.
+1. **2021 year gap** — Only 227 recall questions; no official PDF source with answer key found. nishantbhushan.in has a 2021 PDF at `https://www.nishantbhushan.in/_files/ugd/37999e_086d33f1c86d4f638c453b8919f2f98c.pdf` (download manually — not WebFetch-accessible). Also 2022 PDF at `...37999e_e1759464937f45c988f8c41df8cf0423.pdf`.
+2. **Subject-wise depth** — All subjects now have 73–661 Qs (full year-wise pool merged in). No critically thin subjects remain.
+3. **Quality improvements** — Some year-wise questions have keyword misclassification by subject; consider re-sorting by subject for easier subject-wise study.
 
 ### Active recall beats passive reading
 The collapsible `<details><summary>Answer</summary>` blocks in every `.md` file are the core UX. Users open a file, attempt answers mentally, then click to reveal. Never put the answer inline.
