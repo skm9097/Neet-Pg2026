@@ -1,10 +1,15 @@
-# NEET-PG 2018 — Recall Questions
+# NEET-PG 2018 — Question Bank
 
-> **Source:** Anatomy_NEET_PG_PYT20182023_1_1.pdf — OCR-extracted PrepLadder compilation.
-> **Use:** Personal study notes. Image-based questions marked accordingly.
-> **Format:** +4/−1 marking. Attempt where ≥1 option eliminable.
+> **307 questions** · 102% of 300-Q paper · 18 subjects covered
+> **Exam date:** January 2018
+> **Source:** PrepLadder + Medicoholic recall compilations
+> **Note:** Recall-based; ~102% captured (includes Q bank expansions).
+> **Format:** +4/−1 marking · Attempt where ≥1 option eliminable.
 
 ---
+
+**Jump to subject:** [Anatomy](#anatomy) · [Physiology](#physiology) · [Biochemistry](#biochemistry) · [Pathology](#pathology) · [Microbiology](#microbiology) · [Pharmacology](#pharmacology) · [Forensic Medicine](#forensic-medicine) · [Community Medicine](#community-medicine) · [Medicine](#medicine) · [Surgery](#surgery) · [OBG](#obstetrics-gynaecology) · [Orthopaedics](#orthopaedics) · [ENT](#ent) · [Ophthalmology](#ophthalmology) · [Dermatology](#dermatology) · [Psychiatry](#psychiatry) · [Radiology](#radiology) · [Anaesthesia](#anaesthesia)
+
 
 ## Anatomy
 

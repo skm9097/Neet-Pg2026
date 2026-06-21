@@ -1,9 +1,15 @@
 # Anatomy — Multi-Year PYQ Pool
 
-> **Source:** PrepLadder last-5-year PYQ compilation (student recall reconstructions).  
-> **Use:** Personal study notes. ~20 questions spanning multiple years.
+> **824 questions** · NEET-PG 2015–2025 · **High-weight subject** (≥10 Qs/paper)
+> **Sources:** PrepLadder 5-year PYQ, firstranker.com, Medicoholic compilations
+
+**Navigate:** [▸ Curated High-Yield](#curated-high-yield) · [2015](#year-2015) · [2016](#year-2016) · [2017](#year-2017) · [2018](#year-2018) · [2019](#year-2019) · [2020](#year-2020) · [2021](#year-2021) · [2022](#year-2022) · [2023](#year-2023) · [2024](#year-2024) · [2025](#year-2025)
 
 ---
+
+## Curated High-Yield
+
+> 98 questions drawn from PrepLadder, DigiNerve, and coaching PYQ compilations — multi-year pooled, high-yield focus.
 
 ### Q1 — Anatomical snuff box lateral boundary
 

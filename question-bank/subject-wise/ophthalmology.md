@@ -1,9 +1,16 @@
 # Ophthalmology — Multi-Year PYQ Pool
 
-> **Source:** PrepLadder NEET-PG ophthalmology clinical & non-clinical important questions.  
-> **Use:** Personal study notes. ~15 questions spanning multiple years.
+> **281 questions** · NEET-PG 2015–2025
+> **Sources:** PrepLadder PYQ, DigiNerve 2025, Medicoholic compilations
+> **Missing years in this file:** 2018 (questions from those years are not available or were not extracted for this subject.)
+
+**Navigate:** [▸ Curated High-Yield](#curated-high-yield) · [2015](#year-2015) · [2016](#year-2016) · [2017](#year-2017) · [2019](#year-2019) · [2020](#year-2020) · [2021](#year-2021) · [2022](#year-2022) · [2023](#year-2023) · [2024](#year-2024) · [2025](#year-2025)
 
 ---
+
+## Curated High-Yield
+
+> 60 questions drawn from PrepLadder, DigiNerve, and coaching PYQ compilations — multi-year pooled, high-yield focus.
 
 ### Q1 — Red-green colour blindness (Protanopia)
 

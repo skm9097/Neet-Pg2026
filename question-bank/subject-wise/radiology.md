@@ -1,9 +1,16 @@
 # Radiology — Multi-Year PYQ Pool
 
-> **Source:** PrepLadder last-5-year PYQ + important radiology questions.  
-> **Use:** Personal study notes. ~15 questions spanning multiple years.
+> **106 questions** · NEET-PG 2015–2025
+> **Sources:** PrepLadder PYQ, DigiNerve, Medicoholic compilations
+> **Missing years in this file:** 2017, 2022 (questions from those years are not available or were not extracted for this subject.)
+
+**Navigate:** [▸ Curated High-Yield](#curated-high-yield) · [2015](#year-2015) · [2016](#year-2016) · [2018](#year-2018) · [2019](#year-2019) · [2020](#year-2020) · [2021](#year-2021) · [2023](#year-2023) · [2024](#year-2024) · [2025](#year-2025)
 
 ---
+
+## Curated High-Yield
+
+> 60 questions drawn from PrepLadder, DigiNerve, and coaching PYQ compilations — multi-year pooled, high-yield focus.
 
 ### Q1 — Mickey Mouse sign at saphenofemoral junction
 

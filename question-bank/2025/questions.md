@@ -1,10 +1,15 @@
-# NEET-PG 2025 — Recall Questions (All 200)
+# NEET-PG 2025 — Question Bank
 
-> **Source:** DigiNerve recall compilation (student post-exam reconstructions).  
-> **Use:** Personal study notes. Reconstructed from memory — wording may differ from original NBE paper.  
-> **Format:** 200 questions, +4/−1 marking.
+> **199 questions** · 100% of 200-Q paper · 19 subjects covered
+> **Exam date:** March 2025
+> **Source:** DigiNerve full recall set (all 200 questions)
+> **Note:** Most recent exam. Full set captured. Clinical + image-based Qs prominent.
+> **Format:** +4/−1 marking · Attempt where ≥1 option eliminable.
 
 ---
+
+**Jump to subject:** [Anatomy](#anatomy) · [Physiology](#physiology) · [Biochemistry](#biochemistry) · [Pathology](#pathology) · [Microbiology](#microbiology) · [Pharmacology](#pharmacology) · [Forensic Medicine](#forensic-medicine) · [Community Medicine](#community-medicine) · [Medicine](#medicine) · [Surgery](#surgery) · [OBG](#obstetrics-gynaecology) · [Paediatrics](#paediatrics) · [Orthopaedics](#orthopaedics) · [ENT](#ent) · [Ophthalmology](#ophthalmology) · [Dermatology](#dermatology) · [Psychiatry](#psychiatry) · [Radiology](#radiology) · [Anaesthesia](#anaesthesia)
+
 
 ## Anatomy
 

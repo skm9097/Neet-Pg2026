@@ -1,7 +1,9 @@
 # Orthopaedics — Multi-Year PYQ Pool
 
-> **Source:** PrepLadder last-5-year PYQ + important clinical & non-clinical questions.  
-> **Use:** Personal study notes. ~40 questions spanning multiple years.
+> **121 questions** · NEET-PG 2015–2025
+> **Sources:** PrepLadder PYQ, DigiNerve, Medicoholic compilations
+
+**Navigate:** [▸ Curated High-Yield](#curated-high-yield-topics) · [2015](#year-2015) · [2016](#year-2016) · [2017](#year-2017) · [2018](#year-2018) · [2019](#year-2019) · [2020](#year-2020) · [2021](#year-2021) · [2022](#year-2022) · [2023](#year-2023) · [2024](#year-2024) · [2025](#year-2025)
 
 ---
 

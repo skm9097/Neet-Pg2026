@@ -1,7 +1,9 @@
 # Obstetrics & Gynaecology — Multi-Year PYQ Pool
 
-> **Source:** PrepLadder last-5-year PYQ + DigiNerve 2025 recall set + PrepLadder high-yield flashcards.  
-> **Use:** Personal study notes. ~105 questions spanning multiple years (2019–2025).
+> **1063 questions** · NEET-PG 2015–2025 · **High-weight subject** (≥10 Qs/paper)
+> **Sources:** PrepLadder 5-year PYQ, DigiNerve 2025, DocTutorials, EduRev staging
+
+**Navigate:** [▸ Curated High-Yield](#curated-high-yield-topics) · [2015](#year-2015) · [2016](#year-2016) · [2017](#year-2017) · [2018](#year-2018) · [2019](#year-2019) · [2020](#year-2020) · [2021](#year-2021) · [2022](#year-2022) · [2023](#year-2023) · [2024](#year-2024) · [2025](#year-2025)
 
 ---
 

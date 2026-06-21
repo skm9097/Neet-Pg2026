@@ -1,9 +1,15 @@
-# NEET-PG 2024 — Recall Questions
+# NEET-PG 2024 — Question Bank
 
-> **Source:** Recall-based (PrepLadder compilation, student post-exam reconstructions).  
-> **Use:** Personal study notes. Wording reconstructed from memory.
+> **305 questions** · 152% of 200-Q paper · 19 subjects covered
+> **Exam date:** August 2024 (Shift 1 + Shift 2)
+> **Source:** DocTutorials Shift 1 + Shift 2 recall compilations
+> **Note:** Two-shift exam. Both shifts merged; clinical vignette pattern dominates.
+> **Format:** +4/−1 marking · Attempt where ≥1 option eliminable.
 
 ---
+
+**Jump to subject:** [Anatomy](#anatomy) · [Physiology](#physiology) · [Biochemistry](#biochemistry) · [Pathology](#pathology) · [Microbiology](#microbiology) · [Pharmacology](#pharmacology) · [Forensic Medicine](#forensic-medicine) · [Community Medicine](#community-medicine) · [Medicine](#medicine) · [Surgery](#surgery) · [OBG](#obstetrics-gynaecology) · [Paediatrics](#paediatrics) · [Orthopaedics](#orthopaedics) · [ENT](#ent) · [Ophthalmology](#ophthalmology) · [Dermatology](#dermatology) · [Psychiatry](#psychiatry) · [Radiology](#radiology) · [Anaesthesia](#anaesthesia)
+
 
 ## Anatomy
 

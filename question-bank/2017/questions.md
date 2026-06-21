@@ -1,10 +1,15 @@
-# NEET-PG 2017 — Recall Questions
+# NEET-PG 2017 — Question Bank
 
-> **Source:** NEET-PG-2017 official paper PDF (medicoholic.com compilation) — extracted via pdftotext.  
-> **Question count:** 97 questions parsed cleanly. Original paper had 300 questions; remainder skipped due to OCR/format noise.  
-> **Format:** +4/−1 marking. Attempt where ≥1 option eliminable.  
+> **249 questions** · 83% of 300-Q paper · 17 subjects covered
+> **Exam date:** January 2017
+> **Source:** Medicoholic NEET-PG 2017 recall compilation
+> **Note:** Recall-based; ~83% of paper captured.
+> **Format:** +4/−1 marking · Attempt where ≥1 option eliminable.
 
 ---
+
+**Jump to subject:** [Anatomy](#anatomy) · [Biochemistry](#biochemistry) · [Pathology](#pathology) · [Microbiology](#microbiology) · [Pharmacology](#pharmacology) · [Forensic Medicine](#forensic-medicine) · [Community Medicine](#community-medicine) · [Medicine](#medicine) · [Surgery](#surgery) · [OBG](#obstetrics-gynaecology) · [Paediatrics](#paediatrics) · [Orthopaedics](#orthopaedics) · [ENT](#ent) · [Ophthalmology](#ophthalmology) · [Psychiatry](#psychiatry) · [Radiology](#radiology) · [Anaesthesia](#anaesthesia)
+
 
 ## Anatomy
 

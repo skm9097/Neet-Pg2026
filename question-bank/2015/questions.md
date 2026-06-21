@@ -1,11 +1,15 @@
-# NEET-PG 2015 (AIPGMEE 2015) — Recall Questions
+# NEET-PG 2015 (AIPGMEE 2015) — Question Bank
 
-> **Exam held:** December 2014 (for 2015 admissions).
-> **Source:** [Medical Legends blog](https://medicallegends.blogspot.com/2015/05/aipgmee-2015-question-paper-with.html) — AIPGMEE 2015 Anatomy section (Q8–Q19).
-> **Note:** AIPGMEE 2015 was the predecessor to NEET-PG. Original paper had ~300 questions. Only a verified Anatomy fragment is currently available in HTML form; the rest of the paper exists only as PDFs (see [`./index.md`](./index.md) for sources). Additional questions can be parsed from `raw-dump/2015-2018/` if needed.
-> **Format:** +4/−1 marking. Attempt where ≥1 option eliminable.
+> **1846 questions** · 615% of 300-Q paper · 18 subjects covered
+> **Exam date:** December 2014 (for 2015 admissions)
+> **Source:** Medicoholic PYQ compilation + firstranker.com actual paper
+> **Note:** Former AIPGMEE; one of two years with the complete actual paper available.
+> **Format:** +4/−1 marking · Attempt where ≥1 option eliminable.
 
 ---
+
+**Jump to subject:** [Anatomy](#anatomy) · [Biochemistry](#biochemistry) · [Pathology](#pathology) · [Microbiology](#microbiology) · [Pharmacology](#pharmacology) · [Forensic Medicine](#forensic-medicine) · [Community Medicine](#community-medicine) · [Medicine](#medicine) · [Surgery](#surgery) · [OBG](#obstetrics-gynaecology) · [Paediatrics](#paediatrics) · [Orthopaedics](#orthopaedics) · [ENT](#ent) · [Ophthalmology](#ophthalmology) · [Dermatology](#dermatology) · [Psychiatry](#psychiatry) · [Radiology](#radiology) · [Anaesthesia](#anaesthesia)
+
 
 ## Anatomy
 

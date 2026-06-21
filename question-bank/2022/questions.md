@@ -1,9 +1,15 @@
-# NEET-PG 2022 — Recall Questions
+# NEET-PG 2022 — Question Bank
 
-> **Source:** Recall-based (PrepLadder compilation, student post-exam reconstructions).  
-> **Use:** Personal study notes. Wording reconstructed from memory.
+> **215 questions** · 108% of 200-Q paper · 19 subjects covered
+> **Exam date:** May 2022
+> **Source:** PrepLadder + Medicoholic recall compilations
+> **Note:** Recall-based; 200-Q format.
+> **Format:** +4/−1 marking · Attempt where ≥1 option eliminable.
 
 ---
+
+**Jump to subject:** [Anatomy](#anatomy) · [Physiology](#physiology) · [Biochemistry](#biochemistry) · [Pathology](#pathology) · [Microbiology](#microbiology) · [Pharmacology](#pharmacology) · [Forensic Medicine](#forensic-medicine) · [Community Medicine](#community-medicine) · [Medicine](#medicine) · [Surgery](#surgery) · [OBG](#obstetrics-gynaecology) · [Paediatrics](#paediatrics) · [Orthopaedics](#orthopaedics) · [ENT](#ent) · [Ophthalmology](#ophthalmology) · [Dermatology](#dermatology) · [Psychiatry](#psychiatry) · [Anaesthesia](#anaesthesia) · [OBG](#obstetrics-gynaecology-additional-recall)
+
 
 ## Anatomy
 
@@ -3427,7 +3433,9 @@ A woman, who is 4 days postpartum, presented with tearfulness, mood swings, and 
 
 ## Anaesthesia
 
-## OBGyn
+> *No Anaesthesia questions in the NEET-PG 2022 recall set.*
+
+## Obstetrics & Gynaecology (additional recall)
 
 ### Q214 — Decreased liquor + small fetus
 

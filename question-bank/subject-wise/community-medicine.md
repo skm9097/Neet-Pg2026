@@ -1,9 +1,15 @@
 # Community Medicine (PSM) — Multi-Year PYQ Pool
 
-> **Source:** PrepLadder PYQ compilation + PrepLadder National Health Programs + PrepLadder Levels of Prevention + PrepLadder PSM Clinical/Non-Clinical + DigiNerve 2025 recall + pw.live PSM (student recall reconstructions).  
-> **Use:** Personal study notes. ~220 questions spanning multiple years.
+> **743 questions** · NEET-PG 2015–2025 · **High-weight subject** (≥10 Qs/paper)
+> **Sources:** PrepLadder PYQ, DigiNerve, Medicoholic, firstranker.com
+
+**Navigate:** [▸ Curated High-Yield](#curated-high-yield) · [2015](#year-2015) · [2016](#year-2016) · [2017](#year-2017) · [2018](#year-2018) · [2019](#year-2019) · [2020](#year-2020) · [2021](#year-2021) · [2022](#year-2022) · [2023](#year-2023) · [2024](#year-2024) · [2025](#year-2025)
 
 ---
+
+## Curated High-Yield
+
+> 260 questions drawn from PrepLadder, DigiNerve, and coaching PYQ compilations — multi-year pooled, high-yield focus.
 
 ### Q1 — Sharp waste disposal bag colour
 

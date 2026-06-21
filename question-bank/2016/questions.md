@@ -1,10 +1,15 @@
 # NEET-PG 2016 — Question Bank
 
-> **Exam held:** December 2015 (for 2016 admissions)
-> **Total questions in paper:** 300 | **Duration:** 3.5 h | **Marking:** +4 / −1
-> **Source:** medicoholic.com PDF (NEET-PG-2016-Question-Paper-With-Solutions.pdf)
+> **1871 questions** · 624% of 300-Q paper · 19 subjects covered
+> **Exam date:** December 2015 (for 2016 admissions)
+> **Source:** Medicoholic PYQ compilation + firstranker.com actual paper
+> **Note:** Complete actual paper available. Largest single-year set in this bank.
+> **Format:** +4/−1 marking · Attempt where ≥1 option eliminable.
 
 ---
+
+**Jump to subject:** [Anatomy](#anatomy) · [Physiology](#physiology) · [Biochemistry](#biochemistry) · [Pathology](#pathology) · [Microbiology](#microbiology) · [Pharmacology](#pharmacology) · [Forensic Medicine](#forensic-medicine) · [Community Medicine](#community-medicine) · [Medicine](#medicine) · [Surgery](#surgery) · [OBG](#obstetrics-gynaecology) · [Paediatrics](#paediatrics) · [Orthopaedics](#orthopaedics) · [ENT](#ent) · [Ophthalmology](#ophthalmology) · [Dermatology](#dermatology) · [Psychiatry](#psychiatry) · [Radiology](#radiology) · [Anaesthesia](#anaesthesia)
+
 
 ## Anatomy
 
