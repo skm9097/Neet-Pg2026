@@ -67,8 +67,8 @@ class GeminiProvider implements AiProvider {
     if (_model == null) return _localFeedback(selectedOption, correctOption, explanation);
     final isCorrect = selectedOption == correctOption;
     final prompt = isCorrect
-        ? 'NEET-PG MCQ. Correct: $correctOption. $correctText. Explanation: $explanation\nGive 1-2 sentence reinforcement + high-yield fact. Concise.'
-        : 'NEET-PG MCQ. Student chose: $selectedOption. Correct: $correctOption. $correctText. Explanation: $explanation\n1-2 sentences: why correct answer is right. Concise.';
+        ? 'NEET-PG MCQ.\nQuestion: $stem\nCorrect answer: $correctOption. $correctText\nReference explanation: $explanation\nGive 1-2 sentence reinforcement + high-yield fact about THIS question. Concise.'
+        : 'NEET-PG MCQ.\nQuestion: $stem\nStudent chose: $selectedOption (wrong). Correct answer: $correctOption. $correctText\nReference explanation: $explanation\nIn 1-2 sentences explain why $correctOption is right for THIS question. Concise.';
     try {
       final r = await _model!.generateContent([Content.text(prompt)]);
       return r.text?.trim() ?? _localFeedback(selectedOption, correctOption, explanation);

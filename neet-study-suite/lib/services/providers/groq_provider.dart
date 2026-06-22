@@ -54,8 +54,8 @@ class GroqProvider implements AiProvider {
     if (!isConfigured) return _localFeedback(selectedOption, correctOption, explanation);
     final isCorrect = selectedOption == correctOption;
     final prompt = isCorrect
-        ? 'NEET-PG MCQ. Correct: $correctOption. $correctText. Explanation: $explanation\n1-2 sentence reinforcement + high-yield fact. Very concise.'
-        : 'NEET-PG MCQ. Student chose: $selectedOption. Correct: $correctOption. $correctText. Explanation: $explanation\n1-2 sentences why correct is right. Very concise.';
+        ? 'NEET-PG MCQ.\nQuestion: $stem\nCorrect answer: $correctOption. $correctText\nReference explanation: $explanation\n1-2 sentence reinforcement + high-yield fact about THIS question. Very concise.'
+        : 'NEET-PG MCQ.\nQuestion: $stem\nStudent chose: $selectedOption (wrong). Correct answer: $correctOption. $correctText\nReference explanation: $explanation\nIn 1-2 sentences explain why $correctOption is right for THIS question. Very concise.';
     final r = await _chat(prompt, maxTokens: 150);
     if (r.startsWith('⚠') || r.startsWith('⏳')) return _localFeedback(selectedOption, correctOption, explanation);
     return r;
