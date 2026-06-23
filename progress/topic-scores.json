@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-06-23T05:25:03.942Z",
+  "lastUpdated": "2026-06-23T05:30:03.792Z",
   "scores": {
-    "surgery": 1.0,
-    "general": 1.0,
-    "medicine": 1.0,
-    "obstetrics-gynaecology": 1.0,
-    "forensic-medicine": 1.0,
-    "pathology": 1.0,
     "biochemistry": 1.0,
-    "dermatology": 1.0,
+    "medicine": 1.0,
     "anatomy": 1.0,
+    "obstetrics-gynaecology": 1.0,
     "pharmacology": 1.0,
-    "physiology": 1.0
+    "forensic-medicine": 1.0,
+    "physiology": 1.0,
+    "pathology": 1.0,
+    "dermatology": 1.0,
+    "surgery": 1.0,
+    "general": 1.0
   }
 }
