@@ -65,7 +65,7 @@ class GroqProvider implements AiProvider {
   Future<String> getDetailedExplanation(Question q) async {
     if (!isConfigured) return _localDetailedFallback(q);
     final r = await _chat(_detailedPrompt(q), maxTokens: 500);
-    if (r.startsWith('⚠') || r.startsWith('⏳')) return '${r}\n\n${_localDetailedFallback(q)}';
+    if (r.startsWith('⚠') || r.startsWith('⏳')) return '$r\n\n${_localDetailedFallback(q)}';
     return r;
   }
 

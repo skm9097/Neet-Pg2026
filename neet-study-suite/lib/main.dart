@@ -58,15 +58,6 @@ class _NeetStudySuiteAppState extends State<NeetStudySuiteApp>
   @override
   void didChangePlatformBrightness() => setState(() {});
 
-  Brightness _effectiveBrightness() {
-    switch (_settings.themeMode) {
-      case ThemeMode.light: return Brightness.light;
-      case ThemeMode.dark: return Brightness.dark;
-      case ThemeMode.system:
-        return WidgetsBinding.instance.platformDispatcher.platformBrightness;
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
