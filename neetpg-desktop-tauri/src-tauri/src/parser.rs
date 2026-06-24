@@ -180,25 +180,13 @@ fn extract_attempts(body: &str) -> Vec<Attempt> {
 pub fn derive_heading(topic: &str, key_fact: &str) -> String {
     let t = topic.trim();
     if !t.is_empty() && !t.eq_ignore_ascii_case("general") {
-        // "autonomic-nervous-system" -> "Autonomic Nervous System"
-        return t
-            .replace(['-', '_'], " ")
-            .split_whitespace()
-            .map(|w| {
-                let mut c = w.chars();
-                match c.next() {
-                    Some(f) => f.to_uppercase().collect::<String>() + c.as_str(),
-                    None => String::new(),
-                }
-            })
-            .collect::<Vec<_>>()
-            .join(" ");
+        return title_case(&t.replace(['-', '_'], " "));
     }
     let first = clean_fact(&first_sentence(key_fact));
     if first.is_empty() {
         "Key Fact".into()
     } else {
-        truncate_words(&first, 60)
+        truncate_words(&first, 50)
     }
 }
 
@@ -217,12 +205,10 @@ pub fn derive_bullets(key_fact: &str, heading: &str) -> Vec<String> {
             .filter(|s| s.len() > 2)
             .collect();
     }
-    // Clean boilerplate, then drop bullets that just repeat the heading or an
-    // earlier bullet — the card should read heading + *new* information.
     let heading_key: String = heading.to_lowercase().chars().take(40).collect();
     let mut out: Vec<String> = Vec::new();
     for p in parts {
-        let c = clean_fact(&p);
+        let c = condense_bullet(&clean_fact(&p));
         if c.chars().count() < 8 {
             continue;
         }
@@ -237,11 +223,52 @@ pub fn derive_bullets(key_fact: &str, heading: &str) -> Vec<String> {
             continue;
         }
         out.push(c);
-        if out.len() >= 4 {
+        if out.len() >= 3 {
             break;
         }
     }
     out
+}
+
+fn title_case(s: &str) -> String {
+    s.split_whitespace()
+        .map(|w| {
+            let mut c = w.chars();
+            match c.next() {
+                Some(f) => f.to_uppercase().collect::<String>() + c.as_str(),
+                None => String::new(),
+            }
+        })
+        .collect::<Vec<_>>()
+        .join(" ")
+}
+
+/// Condense a verbose sentence into a short, scannable bullet (max ~90 chars).
+fn condense_bullet(s: &str) -> String {
+    static FILLER_RE: OnceLock<Regex> = OnceLock::new();
+    let re = FILLER_RE.get_or_init(|| {
+        Regex::new(r"(?i)\b(this is because|this concept is|this is crucial|which (is|are) (a |an |the )?|it is (a |an |the )?(important|crucial|essential|key|notable|significant) (concept |fact )?(that |in |for )?|due to (the fact that|its)|allowing for|which together)\b").unwrap()
+    });
+    let cleaned = re.replace_all(s.trim(), " ");
+    let cleaned = cleaned
+        .split_whitespace()
+        .collect::<Vec<_>>()
+        .join(" ");
+    let trimmed = cleaned.trim().trim_end_matches(['.', ',', ';']);
+    if trimmed.chars().count() <= 90 {
+        capitalize_first(trimmed)
+    } else {
+        truncate_words(trimmed, 90)
+    }
+}
+
+fn capitalize_first(s: &str) -> String {
+    let s = s.trim();
+    let mut c = s.chars();
+    match c.next() {
+        Some(f) => f.to_uppercase().collect::<String>() + c.as_str(),
+        None => String::new(),
+    }
 }
 
 /// Strip "The correct answer is D) …" style boilerplate so headings and

@@ -115,8 +115,10 @@ export function AmbientMode({
   const info = subjectInfo(card.subject)
   const fs = tweaks.fontSize || 26
   const fadeMs = ANIM_MS[tweaks.animSpeed] || ANIM_MS.normal
-  const heading = card.factHeading || topicLabel(card) || card.subject || stripLetter(card.correctAnswer)
-  const points = card.factPoints?.length ? card.factPoints.slice(0, 4) : card.keyFact ? splitFact(card.keyFact) : []
+  const answer = stripLetter(card.correctAnswer)
+  const topicText = card.factHeading || topicLabel(card) || card.subject
+  const points = card.factPoints?.length ? card.factPoints.slice(0, 3) : card.keyFact ? splitFact(card.keyFact).slice(0, 3) : []
+  const answerFs = Math.round(fs * 1.8)
 
   return (
     <div style={styles.shell}>
@@ -138,113 +140,112 @@ export function AmbientMode({
         </div>
       </div>
 
-      {/* ── Row 2: main content ── */}
+      {/* ── Row 2: main content — answer-first layout ── */}
       <div style={styles.mainArea}>
         <Crossfade keyProp={fadeKey} duration={fadeMs}>
           <div style={styles.mainGrid}>
             <div style={showImages ? styles.leftCol : styles.leftColFull}>
-              <div
-                style={{
-                  fontSize: Math.round(fs * 1.3),
-                  fontWeight: 800,
-                  lineHeight: 1.18,
-                  letterSpacing: '-0.02em',
-                  color: 'var(--text-primary)',
-                  marginBottom: 28
-                }}
-              >
-                {heading}
+              {/* Topic label — small, muted */}
+              <div style={{
+                fontSize: 11,
+                fontWeight: 600,
+                letterSpacing: '0.1em',
+                textTransform: 'uppercase',
+                color: info.color,
+                opacity: 0.7,
+                marginBottom: 10,
+              }}>
+                {topicText}
               </div>
 
-              <div style={{ display: 'flex', flexDirection: 'column', gap: 14, flex: 1, justifyContent: 'center' }}>
-                {points.map((point, i) => (
-                  <div
-                    key={i}
-                    style={{
-                      display: 'flex',
-                      alignItems: 'baseline',
-                      gap: 14,
-                      fontSize: Math.max(Math.round(fs * 0.62), 15),
-                      lineHeight: 1.55,
-                      color: 'var(--text-primary)',
-                      fontWeight: 500
-                    }}
-                  >
-                    <span
+              {/* Hero: the correct answer */}
+              <div style={{
+                fontSize: Math.min(answerFs, 56),
+                fontWeight: 800,
+                lineHeight: 1.12,
+                letterSpacing: '-0.025em',
+                color: 'var(--text-primary)',
+                marginBottom: 32,
+              }}>
+                {answer}
+              </div>
+
+              {/* Short scannable bullets */}
+              {points.length > 0 && (
+                <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginBottom: 'auto' }}>
+                  {points.map((point, i) => (
+                    <div
+                      key={i}
                       style={{
-                        width: 6,
-                        height: 6,
+                        display: 'flex',
+                        alignItems: 'baseline',
+                        gap: 12,
+                        fontSize: Math.max(Math.round(fs * 0.56), 14),
+                        lineHeight: 1.5,
+                        color: 'var(--text-secondary)',
+                        fontWeight: 450,
+                      }}
+                    >
+                      <span style={{
+                        width: 5,
+                        height: 5,
                         borderRadius: '50%',
                         flexShrink: 0,
                         background: info.color,
-                        opacity: 0.65,
+                        opacity: 0.45,
                         position: 'relative',
-                        top: -2
-                      }}
-                    />
-                    <span>{point}</span>
-                  </div>
-                ))}
-              </div>
-
-              {card.whyWrong && (
-                <div style={{ marginTop: 'auto', paddingTop: 20, display: 'flex', flexDirection: 'column', gap: 6 }}>
-                  <div
-                    style={{
-                      fontSize: 9,
-                      fontWeight: 700,
-                      letterSpacing: '0.11em',
-                      textTransform: 'uppercase',
-                      color: 'var(--wrong)',
-                      opacity: 0.65
-                    }}
-                  >
-                    Your mistake
-                  </div>
-                  <div
-                    style={{
-                      fontSize: Math.max(Math.round(fs * 0.5), 13),
-                      color: 'var(--text-secondary)',
-                      lineHeight: 1.55,
-                      paddingLeft: 12,
-                      borderLeft: `2px solid ${info.color}30`
-                    }}
-                  >
-                    {shorten(card.whyWrong)}
-                  </div>
+                        top: 0,
+                      }} />
+                      <span>{point}</span>
+                    </div>
+                  ))}
                 </div>
               )}
-            </div>
 
-            {showImages && (
-              <div style={styles.rightCol}>
-                <CardVisual card={card} accent={info.color} />
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'flex-end',
-                    gap: 10,
-                    paddingTop: 12
-                  }}
-                >
-                  <span style={{ fontSize: 12, color: 'var(--wrong)', fontWeight: 600 }}>✕ {card.timesWrong}</span>
-                  {card.timesCorrect > 0 && (
-                    <span style={{ fontSize: 12, color: 'var(--correct)', fontWeight: 600 }}>✓ {card.timesCorrect}</span>
-                  )}
-                  <ErrorPill type={card.errorType} />
-                  <StatusBadge status={card.srStatus} />
+              {/* Compact mistake line */}
+              {card.whyWrong && (
+                <div style={{
+                  marginTop: 'auto',
+                  paddingTop: 24,
+                  display: 'flex',
+                  alignItems: 'baseline',
+                  gap: 10,
+                }}>
+                  <span style={{
+                    fontSize: 11,
+                    fontWeight: 700,
+                    color: 'var(--wrong)',
+                    opacity: 0.55,
+                    flexShrink: 0,
+                  }}>
+                    YOU PICKED
+                  </span>
+                  <span style={{
+                    fontSize: Math.max(Math.round(fs * 0.5), 13),
+                    color: 'var(--text-tertiary)',
+                    lineHeight: 1.45,
+                  }}>
+                    {stripLetter(card.userAnswer)}
+                    <span style={{ opacity: 0.4 }}> — </span>
+                    {shorten(card.whyWrong, 1, 140)}
+                  </span>
                 </div>
-              </div>
-            )}
-            {!showImages && (
-              <div style={{ display: 'flex', alignItems: 'center', gap: 10, marginTop: 'auto', paddingTop: 12 }}>
+              )}
+
+              {/* Stats row */}
+              <div style={{ display: 'flex', alignItems: 'center', gap: 10, paddingTop: 16 }}>
                 <span style={{ fontSize: 12, color: 'var(--wrong)', fontWeight: 600 }}>✕ {card.timesWrong}</span>
                 {card.timesCorrect > 0 && (
                   <span style={{ fontSize: 12, color: 'var(--correct)', fontWeight: 600 }}>✓ {card.timesCorrect}</span>
                 )}
                 <ErrorPill type={card.errorType} />
                 <StatusBadge status={card.srStatus} />
+              </div>
+            </div>
+
+            {showImages && (
+              <div style={styles.rightCol}>
+                <CardVisual card={card} accent={info.color} />
               </div>
             )}
           </div>
