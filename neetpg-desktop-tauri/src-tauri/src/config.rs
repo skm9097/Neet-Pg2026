@@ -36,6 +36,7 @@ pub struct Config {
     pub cards_per_day_target: i64,
 
     pub font_size: i64,
+    pub adaptive_font_size: bool,
     pub anim_speed: String,
     pub accent_hue: String,
     pub theme_variant: String,
@@ -78,6 +79,7 @@ impl Default for Config {
             cards_per_day_target: 50,
 
             font_size: 26,
+            adaptive_font_size: true,
             anim_speed: "normal".into(),
             accent_hue: "blue".into(),
             theme_variant: "midnight".into(),

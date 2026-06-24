@@ -270,12 +270,13 @@ export function App(): JSX.Element {
   const tweaks = useMemo(
     () => ({
       fontSize: config?.fontSize ?? 26,
+      adaptiveFontSize: config?.adaptiveFontSize ?? true,
       animSpeed: config?.animSpeed ?? 'normal',
       cardDuration: config?.ambientCardSeconds ?? 20,
       enableRephrase: config?.enableRephrase ?? true,
       showImages: config?.showCardImages ?? true
     }),
-    [config?.fontSize, config?.animSpeed, config?.ambientCardSeconds, config?.enableRephrase, config?.showCardImages]
+    [config?.fontSize, config?.adaptiveFontSize, config?.animSpeed, config?.ambientCardSeconds, config?.enableRephrase, config?.showCardImages]
   )
 
   if (!config) {

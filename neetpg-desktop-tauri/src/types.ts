@@ -125,6 +125,7 @@ export interface AppConfig {
 
   // Display
   fontSize: number
+  adaptiveFontSize: boolean
   animSpeed: 'slow' | 'normal' | 'fast'
   accentHue: 'blue' | 'teal' | 'violet' | 'amber'
   themeVariant: 'midnight' | 'charcoal' | 'navy' | 'light'

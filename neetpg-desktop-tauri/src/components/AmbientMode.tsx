@@ -6,6 +6,7 @@ import { CardVisual, prefetchCardImage } from './CardVisual'
 
 interface Tweaks {
   fontSize: number
+  adaptiveFontSize: boolean
   animSpeed: 'slow' | 'normal' | 'fast'
   cardDuration: number
   showImages: boolean
@@ -118,7 +119,9 @@ export function AmbientMode({
   const answer = stripLetter(card.correctAnswer)
   const topicText = card.factHeading || topicLabel(card) || card.subject
   const points = card.factPoints?.length ? card.factPoints.slice(0, 3) : card.keyFact ? splitFact(card.keyFact).slice(0, 3) : []
-  const answerFs = Math.round(fs * 1.8)
+  const answerFs = tweaks.adaptiveFontSize
+    ? adaptiveHeroFs(answer.length)
+    : Math.min(Math.round(fs * 3), 120)
 
   return (
     <div style={styles.shell}>
@@ -160,7 +163,7 @@ export function AmbientMode({
 
               {/* Hero: the correct answer */}
               <div style={{
-                fontSize: Math.min(answerFs, 56),
+                fontSize: answerFs,
                 fontWeight: 800,
                 lineHeight: 1.12,
                 letterSpacing: '-0.025em',
@@ -377,8 +380,8 @@ function topicLabel(card: MistakeCard): string {
   return t.replace(/[-_]/g, ' ')
 }
 
-/** Trim a "why wrong" note to its first sentence or two so the slide stays light. */
-function shorten(text: string, maxSentences = 2, maxChars = 220): string {
+/** Trim a "why wrong" note to a single short sentence for ambient display. */
+function shorten(text: string, maxSentences = 1, maxChars = 110): string {
   if (!text) return ''
   const joined = text
     .split(/(?<=[.!?])\s+/)
@@ -386,6 +389,20 @@ function shorten(text: string, maxSentences = 2, maxChars = 220): string {
     .join(' ')
     .trim()
   return joined.length > maxChars ? joined.slice(0, maxChars).replace(/\s+\S*$/, '') + '…' : joined
+}
+
+/**
+ * Adaptive hero font size — fills the column for short answers, scales down
+ * gracefully so longer answers never overflow the left panel.
+ */
+function adaptiveHeroFs(charLen: number): number {
+  if (charLen <= 6)  return 128
+  if (charLen <= 10) return 108
+  if (charLen <= 16) return 88
+  if (charLen <= 25) return 72
+  if (charLen <= 38) return 56
+  if (charLen <= 55) return 44
+  return 34
 }
 
 const styles: Record<string, CSSProperties> = {

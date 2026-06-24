@@ -184,7 +184,8 @@ export function Settings({
 
         <Section title="Display">
           <Toggle label="Show card images in ambient slides" checked={local.showCardImages} onChange={(v) => update('showCardImages', v)} />
-          <Range label="Font size" value={local.fontSize} min={16} max={40} unit="px" onChange={(v) => update('fontSize', v)} />
+          <Toggle label="Adaptive font size — fills screen for short answers, scales down for long" checked={local.adaptiveFontSize ?? true} onChange={(v) => update('adaptiveFontSize', v)} />
+          <Range label="Font size (body text &amp; bullets; hero scales separately in adaptive mode)" value={local.fontSize} min={16} max={40} unit="px" onChange={(v) => update('fontSize', v)} />
           <Field label="Animation speed">
             <SegmentedControl
               options={[

@@ -113,21 +113,23 @@ pub struct Enrichment {
     pub why_wrong: String,
     pub error_type: String,
     pub tags: Vec<String>,
+    /// Pre-condensed 3–5 word bullets ready for the ambient slide.
+    pub fact_points: Vec<String>,
 }
 
-/// Fill key_fact/why_wrong/error_type/tags for an un-enriched card.
+/// Fill key_fact/why_wrong/error_type/tags/fact_points for an un-enriched card.
 pub async fn enrich_card(http: &reqwest::Client, key: &str, card: &MistakeCard) -> Option<Enrichment> {
     let raw = call(
         http,
         key,
         &format!(
-            "A NEET PG student answered this question wrong.\nQuestion: {}\nOptions: {}\nTheir answer: {}\nCorrect answer: {}\n\nRespond in JSON only, no backticks:\n{{\"key_fact\":\"2-3 sentence explanation\",\"why_wrong\":\"1-2 sentence error analysis\",\"error_type\":\"conceptual | recall | silly\",\"tags\":[\"k1\",\"k2\"]}}",
+            "A NEET PG student answered this question wrong.\nQuestion: {}\nOptions: {}\nTheir answer: {}\nCorrect answer: {}\n\nRespond in JSON only, no backticks:\n{{\"key_fact\":\"1 sentence core fact\",\"fact_points\":[\"3-5 word phrase\",\"3-5 word phrase\",\"3-5 word phrase\"],\"why_wrong\":\"max 15 words why student was wrong\",\"error_type\":\"conceptual | recall | silly\",\"tags\":[\"k1\",\"k2\"]}}",
             card.question,
             card.options.join(", "),
             card.user_answer,
             card.correct_answer
         ),
-        400,
+        450,
     )
     .await
     .ok()?;
@@ -143,6 +145,18 @@ pub async fn enrich_card(http: &reqwest::Client, key: &str, card: &MistakeCard) 
             .get("tags")
             .and_then(|v| v.as_array())
             .map(|a| a.iter().filter_map(|t| t.as_str().map(String::from)).collect())
+            .unwrap_or_default(),
+        fact_points: j
+            .get("fact_points")
+            .and_then(|v| v.as_array())
+            .map(|a| {
+                a.iter()
+                    .filter_map(|t| t.as_str())
+                    .map(|s| s.trim().to_string())
+                    .filter(|s| !s.is_empty() && s.chars().count() > 3)
+                    .take(3)
+                    .collect()
+            })
             .unwrap_or_default(),
     })
 }
