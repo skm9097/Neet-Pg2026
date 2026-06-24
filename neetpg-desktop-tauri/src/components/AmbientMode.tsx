@@ -199,7 +199,7 @@ export function AmbientMode({
                         position: 'relative',
                         top: 0,
                       }} />
-                      <span>{point}</span>
+                      <span>{clipBullet(point)}</span>
                     </div>
                   ))}
                 </div>
@@ -353,6 +353,17 @@ function ProgressDots({ idx, total, color }: { idx: number; total: number; color
       })}
     </div>
   )
+}
+
+/**
+ * Clip a verbose bullet to its first 8 words — no trailing ellipsis, no
+ * mid-sentence cut. Old cards enriched with the verbose prompt get clean
+ * display while they await re-enrichment by the short-phrase Groq prompt.
+ */
+function clipBullet(text: string): string {
+  if (!text) return ''
+  const words = text.trim().replace(/[.,;]$/, '').split(/\s+/)
+  return words.length <= 8 ? words.join(' ') : words.slice(0, 8).join(' ')
 }
 
 /** Strip a leading "A) " / "B) " option letter and the answer tick. */

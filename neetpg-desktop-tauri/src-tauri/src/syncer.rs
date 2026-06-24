@@ -177,7 +177,18 @@ async fn enrich_missing(app: &App, cfg: &Config) {
             .data
             .cards
             .values()
-            .filter(|c| !c.question.is_empty() && !c.options.is_empty() && (c.key_fact.is_empty() || c.why_wrong.is_empty()))
+            .filter(|c| {
+                if c.question.is_empty() || c.options.is_empty() {
+                    return false;
+                }
+                // Missing enrichment — always queue.
+                if c.key_fact.is_empty() || c.why_wrong.is_empty() {
+                    return true;
+                }
+                // Old verbose bullets (>50 chars each) — re-enrich with the
+                // short-phrase prompt so the ambient slide gets crisp bullets.
+                c.fact_points.is_empty() || c.fact_points.iter().any(|p| p.len() > 50)
+            })
             .take(5)
             .cloned()
             .collect()

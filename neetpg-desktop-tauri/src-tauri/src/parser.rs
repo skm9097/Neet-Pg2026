@@ -243,23 +243,24 @@ fn title_case(s: &str) -> String {
         .join(" ")
 }
 
-/// Condense a verbose sentence into a short, scannable bullet (max ~90 chars).
+/// Condense a verbose sentence into a short scannable bullet (max 8 words).
+/// Strips medical-writing filler phrases first, then takes the first 8 words
+/// so bullets never truncate mid-thought with "…".
 fn condense_bullet(s: &str) -> String {
     static FILLER_RE: OnceLock<Regex> = OnceLock::new();
     let re = FILLER_RE.get_or_init(|| {
-        Regex::new(r"(?i)\b(this is because|this concept is|this is crucial|which (is|are) (a |an |the )?|it is (a |an |the )?(important|crucial|essential|key|notable|significant) (concept |fact )?(that |in |for )?|due to (the fact that|its)|allowing for|which together)\b").unwrap()
+        Regex::new(r"(?i)\b(this is because|this concept is|this is crucial|which (is|are) (a |an |the )?|it is (a |an |the )?(important|crucial|essential|key|notable|significant) (concept |fact )?(that |in |for )?|due to (the fact that|its)|allowing for|which together|the correct answer (is|was)|correct answer:?|answer:?)\b").unwrap()
     });
     let cleaned = re.replace_all(s.trim(), " ");
-    let cleaned = cleaned
-        .split_whitespace()
-        .collect::<Vec<_>>()
-        .join(" ");
-    let trimmed = cleaned.trim().trim_end_matches(['.', ',', ';']);
-    if trimmed.chars().count() <= 90 {
-        capitalize_first(trimmed)
+    let words: Vec<&str> = cleaned.split_whitespace().collect();
+    let phrase = if words.len() <= 8 {
+        words.join(" ")
     } else {
-        truncate_words(trimmed, 90)
-    }
+        // Find a natural break at 6-8 words: prefer stopping after a comma or
+        // short word rather than cutting through a compound term.
+        words[..8].join(" ")
+    };
+    capitalize_first(phrase.trim().trim_end_matches(['.', ',', ';']))
 }
 
 fn capitalize_first(s: &str) -> String {
