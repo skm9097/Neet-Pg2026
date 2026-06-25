@@ -150,7 +150,7 @@ export function AmbientMode({
             <div style={showImages ? styles.leftCol : styles.leftColFull}>
               {/* Topic label — small, muted */}
               <div style={{
-                fontSize: 11,
+                fontSize: Math.max(Math.round(fs * 0.38), 12),
                 fontWeight: 600,
                 letterSpacing: '0.1em',
                 textTransform: 'uppercase',
@@ -279,11 +279,11 @@ function InsightCard({ card, accent, fs }: { card: MistakeCard; accent: string; 
   const wrongAnswer = stripLetter(card.userAnswer)
   const correctAnswer = stripLetter(card.correctAnswer)
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: 16, marginBottom: 'auto' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
       {/* Key hook — the ONE thing to remember */}
       {card.displayHook && (
         <div style={{
-          fontSize: Math.max(Math.round(fs * 0.7), 17),
+          fontSize: Math.max(Math.round(fs * 0.85), 20),
           fontWeight: 600,
           color: accent,
           lineHeight: 1.3,
@@ -296,26 +296,26 @@ function InsightCard({ card, accent, fs }: { card: MistakeCard; accent: string; 
       <div style={{
         display: 'flex',
         alignItems: 'center',
-        gap: 16,
-        padding: '14px 18px',
-        borderRadius: 12,
+        gap: 24,
+        padding: '18px 24px',
+        borderRadius: 14,
         background: 'var(--material-thin)',
         border: '1px solid var(--border-subtle)',
       }}>
-        <div style={{ display: 'flex', flexDirection: 'column', gap: 4, flex: 1 }}>
-          <span style={{ fontSize: 10, fontWeight: 700, color: 'var(--wrong)', letterSpacing: '0.08em', textTransform: 'uppercase' as const }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 6, flex: 1 }}>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.35), 11), fontWeight: 700, color: 'var(--wrong)', letterSpacing: '0.08em', textTransform: 'uppercase' as const }}>
             You said
           </span>
-          <span style={{ fontSize: Math.max(Math.round(fs * 0.54), 14), fontWeight: 600, color: 'var(--text-secondary)' }}>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.7), 18), fontWeight: 600, color: 'var(--text-secondary)' }}>
             {wrongAnswer}
           </span>
         </div>
-        <span style={{ fontSize: 18, color: 'var(--text-tertiary)', flexShrink: 0 }}>→</span>
-        <div style={{ display: 'flex', flexDirection: 'column', gap: 4, flex: 1 }}>
-          <span style={{ fontSize: 10, fontWeight: 700, color: 'var(--correct)', letterSpacing: '0.08em', textTransform: 'uppercase' as const }}>
+        <span style={{ fontSize: Math.max(Math.round(fs * 0.6), 20), color: 'var(--text-tertiary)', flexShrink: 0 }}>→</span>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 6, flex: 1 }}>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.35), 11), fontWeight: 700, color: 'var(--correct)', letterSpacing: '0.08em', textTransform: 'uppercase' as const }}>
             Correct
           </span>
-          <span style={{ fontSize: Math.max(Math.round(fs * 0.54), 14), fontWeight: 600, color: 'var(--text-primary)' }}>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.7), 18), fontWeight: 600, color: 'var(--text-primary)' }}>
             {correctAnswer}
           </span>
         </div>
@@ -324,9 +324,9 @@ function InsightCard({ card, accent, fs }: { card: MistakeCard; accent: string; 
       {/* Why — short comparison sentence */}
       {card.displayCompare && (
         <div style={{
-          fontSize: Math.max(Math.round(fs * 0.5), 13),
+          fontSize: Math.max(Math.round(fs * 0.65), 17),
           color: 'var(--text-secondary)',
-          lineHeight: 1.5,
+          lineHeight: 1.45,
           fontWeight: 450,
           paddingLeft: 2,
         }}>
@@ -339,15 +339,15 @@ function InsightCard({ card, accent, fs }: { card: MistakeCard; accent: string; 
         <div style={{
           display: 'flex',
           alignItems: 'center',
-          gap: 10,
-          padding: '10px 16px',
-          borderRadius: 10,
+          gap: 14,
+          padding: '14px 20px',
+          borderRadius: 12,
           background: `${accent}12`,
           border: `1px solid ${accent}25`,
         }}>
-          <span style={{ fontSize: 16, flexShrink: 0 }}>💡</span>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.55), 18), flexShrink: 0 }}>💡</span>
           <span style={{
-            fontSize: Math.max(Math.round(fs * 0.48), 13),
+            fontSize: Math.max(Math.round(fs * 0.6), 16),
             color: accent,
             fontWeight: 500,
             fontStyle: 'italic',
@@ -365,20 +365,20 @@ function InsightCard({ card, accent, fs }: { card: MistakeCard; accent: string; 
 function FallbackBullets({ card, accent, fs }: { card: MistakeCard; accent: string; fs: number }): JSX.Element {
   const points = card.factPoints?.length ? card.factPoints.slice(0, 3) : card.keyFact ? splitFact(card.keyFact).slice(0, 3) : []
   return (
-    <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginBottom: 'auto' }}>
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
       {points.length > 0 && points.map((point, i) => (
-        <div key={i} style={{ display: 'flex', alignItems: 'baseline', gap: 12, fontSize: Math.max(Math.round(fs * 0.56), 14), lineHeight: 1.5, color: 'var(--text-secondary)', fontWeight: 450 }}>
-          <span style={{ width: 5, height: 5, borderRadius: '50%', flexShrink: 0, background: accent, opacity: 0.45 }} />
+        <div key={i} style={{ display: 'flex', alignItems: 'baseline', gap: 14, fontSize: Math.max(Math.round(fs * 0.75), 18), lineHeight: 1.45, color: 'var(--text-secondary)', fontWeight: 450 }}>
+          <span style={{ width: 7, height: 7, borderRadius: '50%', flexShrink: 0, background: accent, opacity: 0.45 }} />
           <span>{clipBullet(point)}</span>
         </div>
       ))}
       {card.whyWrong && (
-        <div style={{ paddingTop: 12, display: 'flex', alignItems: 'baseline', gap: 10 }}>
-          <span style={{ fontSize: 11, fontWeight: 700, color: 'var(--wrong)', opacity: 0.55, flexShrink: 0 }}>YOU PICKED</span>
-          <span style={{ fontSize: Math.max(Math.round(fs * 0.5), 13), color: 'var(--text-tertiary)', lineHeight: 1.45 }}>
+        <div style={{ paddingTop: 16, display: 'flex', alignItems: 'baseline', gap: 12 }}>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.35), 12), fontWeight: 700, color: 'var(--wrong)', opacity: 0.55, flexShrink: 0 }}>YOU PICKED</span>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.6), 16), color: 'var(--text-tertiary)', lineHeight: 1.45 }}>
             {stripLetter(card.userAnswer)}
             <span style={{ opacity: 0.4 }}> — </span>
-            {shorten(card.whyWrong, 1, 110)}
+            {shorten(card.whyWrong, 1, 100)}
           </span>
         </div>
       )}
@@ -499,31 +499,29 @@ const styles: Record<string, CSSProperties> = {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'center',
-    padding: '0 32px'
+    padding: '0 64px'
   },
   mainGrid: {
     display: 'flex',
-    gap: 44,
+    gap: 48,
     alignItems: 'stretch',
     width: '100%',
     height: '100%',
-    maxWidth: 1500,
     padding: '28px 0'
   },
   leftCol: {
-    flex: '0 0 42%',
+    flex: '0 0 52%',
     display: 'flex',
     flexDirection: 'column',
-    justifyContent: 'flex-start',
+    justifyContent: 'center',
     minWidth: 0
   },
   leftColFull: {
     flex: 1,
     display: 'flex',
     flexDirection: 'column',
-    justifyContent: 'flex-start',
-    minWidth: 0,
-    maxWidth: 900
+    justifyContent: 'center',
+    minWidth: 0
   },
   rightCol: {
     flex: 1,
