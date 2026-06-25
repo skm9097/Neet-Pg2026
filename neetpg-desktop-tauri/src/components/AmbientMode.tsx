@@ -118,7 +118,7 @@ export function AmbientMode({
   const fadeMs = ANIM_MS[tweaks.animSpeed] || ANIM_MS.normal
   const answer = stripLetter(card.correctAnswer)
   const topicText = card.factHeading || topicLabel(card) || card.subject
-  const points = card.factPoints?.length ? card.factPoints.slice(0, 3) : card.keyFact ? splitFact(card.keyFact).slice(0, 3) : []
+  const hasInsight = !!(card.displayHook || card.displayCompare)
   const answerFs = tweaks.adaptiveFontSize
     ? adaptiveHeroFs(answer.length)
     : Math.min(Math.round(fs * 3), 120)
@@ -143,7 +143,7 @@ export function AmbientMode({
         </div>
       </div>
 
-      {/* ── Row 2: main content — answer-first layout ── */}
+      {/* ── Row 2: main content ── */}
       <div style={styles.mainArea}>
         <Crossfade keyProp={fadeKey} duration={fadeMs}>
           <div style={styles.mainGrid}>
@@ -168,71 +168,16 @@ export function AmbientMode({
                 lineHeight: 1.12,
                 letterSpacing: '-0.025em',
                 color: 'var(--text-primary)',
-                marginBottom: 32,
+                marginBottom: 28,
               }}>
                 {answer}
               </div>
 
-              {/* Short scannable bullets */}
-              {points.length > 0 && (
-                <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginBottom: 'auto' }}>
-                  {points.map((point, i) => (
-                    <div
-                      key={i}
-                      style={{
-                        display: 'flex',
-                        alignItems: 'baseline',
-                        gap: 12,
-                        fontSize: Math.max(Math.round(fs * 0.56), 14),
-                        lineHeight: 1.5,
-                        color: 'var(--text-secondary)',
-                        fontWeight: 450,
-                      }}
-                    >
-                      <span style={{
-                        width: 5,
-                        height: 5,
-                        borderRadius: '50%',
-                        flexShrink: 0,
-                        background: info.color,
-                        opacity: 0.45,
-                        position: 'relative',
-                        top: 0,
-                      }} />
-                      <span>{clipBullet(point)}</span>
-                    </div>
-                  ))}
-                </div>
-              )}
-
-              {/* Compact mistake line */}
-              {card.whyWrong && (
-                <div style={{
-                  marginTop: 'auto',
-                  paddingTop: 24,
-                  display: 'flex',
-                  alignItems: 'baseline',
-                  gap: 10,
-                }}>
-                  <span style={{
-                    fontSize: 11,
-                    fontWeight: 700,
-                    color: 'var(--wrong)',
-                    opacity: 0.55,
-                    flexShrink: 0,
-                  }}>
-                    YOU PICKED
-                  </span>
-                  <span style={{
-                    fontSize: Math.max(Math.round(fs * 0.5), 13),
-                    color: 'var(--text-tertiary)',
-                    lineHeight: 1.45,
-                  }}>
-                    {stripLetter(card.userAnswer)}
-                    <span style={{ opacity: 0.4 }}> — </span>
-                    {shorten(card.whyWrong, 1, 140)}
-                  </span>
-                </div>
+              {/* ── Insight Card (AI-generated) or fallback ── */}
+              {hasInsight ? (
+                <InsightCard card={card} accent={info.color} fs={fs} />
+              ) : (
+                <FallbackBullets card={card} accent={info.color} fs={fs} />
               )}
 
               {/* Stats row */}
@@ -322,6 +267,121 @@ export function AmbientMode({
           )}
         </div>
       </div>
+    </div>
+  )
+}
+
+/**
+ * AI-powered insight card — replaces verbose text bullets with a structured
+ * visual layout: key hook, wrong→right comparison, and optional mnemonic.
+ */
+function InsightCard({ card, accent, fs }: { card: MistakeCard; accent: string; fs: number }): JSX.Element {
+  const wrongAnswer = stripLetter(card.userAnswer)
+  const correctAnswer = stripLetter(card.correctAnswer)
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 16, marginBottom: 'auto' }}>
+      {/* Key hook — the ONE thing to remember */}
+      {card.displayHook && (
+        <div style={{
+          fontSize: Math.max(Math.round(fs * 0.7), 17),
+          fontWeight: 600,
+          color: accent,
+          lineHeight: 1.3,
+        }}>
+          {card.displayHook}
+        </div>
+      )}
+
+      {/* Visual comparison: wrong → right */}
+      <div style={{
+        display: 'flex',
+        alignItems: 'center',
+        gap: 16,
+        padding: '14px 18px',
+        borderRadius: 12,
+        background: 'var(--material-thin)',
+        border: '1px solid var(--border-subtle)',
+      }}>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 4, flex: 1 }}>
+          <span style={{ fontSize: 10, fontWeight: 700, color: 'var(--wrong)', letterSpacing: '0.08em', textTransform: 'uppercase' as const }}>
+            You said
+          </span>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.54), 14), fontWeight: 600, color: 'var(--text-secondary)' }}>
+            {wrongAnswer}
+          </span>
+        </div>
+        <span style={{ fontSize: 18, color: 'var(--text-tertiary)', flexShrink: 0 }}>→</span>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 4, flex: 1 }}>
+          <span style={{ fontSize: 10, fontWeight: 700, color: 'var(--correct)', letterSpacing: '0.08em', textTransform: 'uppercase' as const }}>
+            Correct
+          </span>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.54), 14), fontWeight: 600, color: 'var(--text-primary)' }}>
+            {correctAnswer}
+          </span>
+        </div>
+      </div>
+
+      {/* Why — short comparison sentence */}
+      {card.displayCompare && (
+        <div style={{
+          fontSize: Math.max(Math.round(fs * 0.5), 13),
+          color: 'var(--text-secondary)',
+          lineHeight: 1.5,
+          fontWeight: 450,
+          paddingLeft: 2,
+        }}>
+          {card.displayCompare}
+        </div>
+      )}
+
+      {/* Mnemonic — memory aid */}
+      {card.displayMnemonic && (
+        <div style={{
+          display: 'flex',
+          alignItems: 'center',
+          gap: 10,
+          padding: '10px 16px',
+          borderRadius: 10,
+          background: `${accent}12`,
+          border: `1px solid ${accent}25`,
+        }}>
+          <span style={{ fontSize: 16, flexShrink: 0 }}>💡</span>
+          <span style={{
+            fontSize: Math.max(Math.round(fs * 0.48), 13),
+            color: accent,
+            fontWeight: 500,
+            fontStyle: 'italic',
+            lineHeight: 1.4,
+          }}>
+            {card.displayMnemonic}
+          </span>
+        </div>
+      )}
+    </div>
+  )
+}
+
+/** Fallback for cards not yet AI-enriched — shows clipped bullets + mistake line. */
+function FallbackBullets({ card, accent, fs }: { card: MistakeCard; accent: string; fs: number }): JSX.Element {
+  const points = card.factPoints?.length ? card.factPoints.slice(0, 3) : card.keyFact ? splitFact(card.keyFact).slice(0, 3) : []
+  return (
+    <div style={{ display: 'flex', flexDirection: 'column', gap: 10, marginBottom: 'auto' }}>
+      {points.length > 0 && points.map((point, i) => (
+        <div key={i} style={{ display: 'flex', alignItems: 'baseline', gap: 12, fontSize: Math.max(Math.round(fs * 0.56), 14), lineHeight: 1.5, color: 'var(--text-secondary)', fontWeight: 450 }}>
+          <span style={{ width: 5, height: 5, borderRadius: '50%', flexShrink: 0, background: accent, opacity: 0.45 }} />
+          <span>{clipBullet(point)}</span>
+        </div>
+      ))}
+      {card.whyWrong && (
+        <div style={{ paddingTop: 12, display: 'flex', alignItems: 'baseline', gap: 10 }}>
+          <span style={{ fontSize: 11, fontWeight: 700, color: 'var(--wrong)', opacity: 0.55, flexShrink: 0 }}>YOU PICKED</span>
+          <span style={{ fontSize: Math.max(Math.round(fs * 0.5), 13), color: 'var(--text-tertiary)', lineHeight: 1.45 }}>
+            {stripLetter(card.userAnswer)}
+            <span style={{ opacity: 0.4 }}> — </span>
+            {shorten(card.whyWrong, 1, 110)}
+          </span>
+        </div>
+      )}
     </div>
   )
 }

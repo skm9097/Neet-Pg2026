@@ -62,6 +62,13 @@ pub struct MistakeCard {
     pub fact_heading: String,
     #[serde(default)]
     pub fact_points: Vec<String>,
+    /// AI-generated display fields for the ambient insight card.
+    #[serde(default)]
+    pub display_hook: String,
+    #[serde(default)]
+    pub display_compare: String,
+    #[serde(default)]
+    pub display_mnemonic: String,
     #[serde(default)]
     pub file_path: String,
     #[serde(default)]

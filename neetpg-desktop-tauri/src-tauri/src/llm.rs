@@ -113,23 +113,25 @@ pub struct Enrichment {
     pub why_wrong: String,
     pub error_type: String,
     pub tags: Vec<String>,
-    /// Pre-condensed 3–5 word bullets ready for the ambient slide.
     pub fact_points: Vec<String>,
+    pub display_hook: String,
+    pub display_compare: String,
+    pub display_mnemonic: String,
 }
 
-/// Fill key_fact/why_wrong/error_type/tags/fact_points for an un-enriched card.
+/// Fill all card fields in one Groq call: core facts + ambient display data.
 pub async fn enrich_card(http: &reqwest::Client, key: &str, card: &MistakeCard) -> Option<Enrichment> {
     let raw = call(
         http,
         key,
         &format!(
-            "A NEET PG student answered this question wrong.\nQuestion: {}\nOptions: {}\nTheir answer: {}\nCorrect answer: {}\n\nRespond in JSON only, no backticks:\n{{\"key_fact\":\"1 sentence core fact\",\"fact_points\":[\"3-5 word phrase\",\"3-5 word phrase\",\"3-5 word phrase\"],\"why_wrong\":\"max 15 words why student was wrong\",\"error_type\":\"conceptual | recall | silly\",\"tags\":[\"k1\",\"k2\"]}}",
+            "A NEET PG medical student answered wrong.\nQ: {}\nOptions: {}\nTheir answer: {}\nCorrect: {}\n\nReturn JSON only, no backticks:\n{{\n\"key_fact\":\"1 sentence core medical fact\",\n\"why_wrong\":\"max 12 words\",\n\"error_type\":\"conceptual|recall|silly\",\n\"tags\":[\"t1\",\"t2\"],\n\"hook\":\"THE key differentiator in max 5 words\",\n\"compare\":\"Why [correct] not [wrong] in max 12 words\",\n\"mnemonic\":\"Short memory trick or empty string\"\n}}",
             card.question,
             card.options.join(", "),
             card.user_answer,
             card.correct_answer
         ),
-        450,
+        400,
     )
     .await
     .ok()?;
@@ -137,8 +139,12 @@ pub async fn enrich_card(http: &reqwest::Client, key: &str, card: &MistakeCard) 
     let start = raw.find('{')?;
     let end = raw.rfind('}')?;
     let j: serde_json::Value = serde_json::from_str(&raw[start..=end]).ok()?;
+
+    let key_fact = j.get("key_fact").and_then(|v| v.as_str()).unwrap_or("").to_string();
+    let hook = j.get("hook").and_then(|v| v.as_str()).unwrap_or("").to_string();
+
     Some(Enrichment {
-        key_fact: j.get("key_fact").and_then(|v| v.as_str()).unwrap_or("").into(),
+        key_fact,
         why_wrong: j.get("why_wrong").and_then(|v| v.as_str()).unwrap_or("").into(),
         error_type: j.get("error_type").and_then(|v| v.as_str()).unwrap_or("").into(),
         tags: j
@@ -146,17 +152,9 @@ pub async fn enrich_card(http: &reqwest::Client, key: &str, card: &MistakeCard) 
             .and_then(|v| v.as_array())
             .map(|a| a.iter().filter_map(|t| t.as_str().map(String::from)).collect())
             .unwrap_or_default(),
-        fact_points: j
-            .get("fact_points")
-            .and_then(|v| v.as_array())
-            .map(|a| {
-                a.iter()
-                    .filter_map(|t| t.as_str())
-                    .map(|s| s.trim().to_string())
-                    .filter(|s| !s.is_empty() && s.chars().count() > 3)
-                    .take(3)
-                    .collect()
-            })
-            .unwrap_or_default(),
+        fact_points: vec![],
+        display_hook: hook,
+        display_compare: j.get("compare").and_then(|v| v.as_str()).unwrap_or("").into(),
+        display_mnemonic: j.get("mnemonic").and_then(|v| v.as_str()).unwrap_or("").into(),
     })
 }

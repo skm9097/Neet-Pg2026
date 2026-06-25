@@ -27,6 +27,11 @@ export interface MistakeCard {
   factHeading: string // a short title for the card
   factPoints: string[] // keyFact broken into scannable bullets
 
+  // AI-generated insight card fields for ambient display
+  displayHook: string // "Strongest hip flexor" — the ONE key differentiator
+  displayCompare: string // "Pectineus assists flexion but iliopsoas is primary"
+  displayMnemonic: string // Memory aid: "I Love Psoas = Iliacus + Lumbar Psoas"
+
   // File metadata
   filePath: string // "mistakes/pharmacology/2026-06-05_Q0247.md"
   lastModified: string // blob sha or mtime for change detection

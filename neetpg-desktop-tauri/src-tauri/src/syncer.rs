@@ -181,13 +181,12 @@ async fn enrich_missing(app: &App, cfg: &Config) {
                 if c.question.is_empty() || c.options.is_empty() {
                     return false;
                 }
-                // Missing enrichment — always queue.
                 if c.key_fact.is_empty() || c.why_wrong.is_empty() {
                     return true;
                 }
-                // Old verbose bullets (>50 chars each) — re-enrich with the
-                // short-phrase prompt so the ambient slide gets crisp bullets.
-                c.fact_points.is_empty() || c.fact_points.iter().any(|p| p.len() > 50)
+                // Missing insight card data — re-enrich so the ambient display
+                // gets the visual hook/compare/mnemonic instead of verbose text.
+                c.display_hook.is_empty()
             })
             .take(5)
             .cloned()
@@ -217,6 +216,13 @@ async fn enrich_missing(app: &App, cfg: &Config) {
         } else {
             derive_bullets(&card.key_fact, &card.fact_heading)
         };
+        if !enriched.display_hook.is_empty() {
+            card.display_hook = enriched.display_hook;
+        }
+        if !enriched.display_compare.is_empty() {
+            card.display_compare = enriched.display_compare;
+        }
+        card.display_mnemonic = enriched.display_mnemonic;
 
         // Write the enrichment back to the repo so it reaches every device
         // and survives cache clears.
