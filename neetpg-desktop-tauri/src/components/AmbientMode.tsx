@@ -459,7 +459,7 @@ function shorten(text: string, maxSentences = 1, maxChars = 110): string {
     .slice(0, maxSentences)
     .join(' ')
     .trim()
-  return joined.length > maxChars ? joined.slice(0, maxChars).replace(/\s+\S*$/, '') + '…' : joined
+  return joined.length > maxChars ? joined.slice(0, maxChars).replace(/\s+\S*$/, '') : joined
 }
 
 /**
