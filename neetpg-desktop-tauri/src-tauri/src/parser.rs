@@ -310,7 +310,7 @@ fn truncate_words(s: &str, max: usize) -> String {
     if out.is_empty() {
         s.chars().take(max).collect()
     } else {
-        out + "…"
+        out
     }
 }
 

@@ -378,7 +378,7 @@ function FallbackBullets({ card, accent, fs }: { card: MistakeCard; accent: stri
           <span style={{ fontSize: Math.max(Math.round(fs * 0.6), 16), color: 'var(--text-tertiary)', lineHeight: 1.45 }}>
             {stripLetter(card.userAnswer)}
             <span style={{ opacity: 0.4 }}> — </span>
-            {shorten(card.whyWrong, 1, 100)}
+            {shorten(card.whyWrong)}
           </span>
         </div>
       )}
@@ -451,15 +451,19 @@ function topicLabel(card: MistakeCard): string {
   return t.replace(/[-_]/g, ' ')
 }
 
-/** Trim a "why wrong" note to a single short sentence for ambient display. */
-function shorten(text: string, maxSentences = 1, maxChars = 110): string {
+/** Condense a verbose "why wrong" note into max 8 words for ambient display. */
+function shorten(text: string): string {
   if (!text) return ''
-  const joined = text
-    .split(/(?<=[.!?])\s+/)
-    .slice(0, maxSentences)
-    .join(' ')
+  let s = text
+    .replace(/the\s+student'?s?\s+answer[,\s]+[^,]+,\s*(is\s+)?/i, '')
+    .replace(/^(is\s+)?(incorrect|wrong)\s+(because\s+)?/i, '')
+    .replace(/\b(the\s+)?(correct\s+)?answer\s+(is|was)\s*[:\-]?\s*(option\s*)?([A-Da-d][).:]\s*)?/i, '')
+    .replace(/\b(this is because|it is|they are|which is|which are)\s+/i, '')
     .trim()
-  return joined.length > maxChars ? joined.slice(0, maxChars).replace(/\s+\S*$/, '') : joined
+  if (!s) return ''
+  s = s.charAt(0).toUpperCase() + s.slice(1)
+  const words = s.replace(/[.,;:]+$/, '').split(/\s+/)
+  return words.length <= 8 ? words.join(' ') : words.slice(0, 8).join(' ')
 }
 
 /**
